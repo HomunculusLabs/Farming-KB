@@ -1,5 +1,6 @@
 ---
 title: "Panax notoginseng"
+created: 2026-04-28
 type: species
 tags:
   - panax-notoginseng

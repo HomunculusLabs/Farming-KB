@@ -1,9 +1,11 @@
 ---
 title: "Jivaro Natem Shamanism"
+created: 2026-04-28
 tags: [ethnobotany, shamanism, ayahuasca, banisteriopsis, amazonian]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
+type: concept
 ---
 
 # Jivaro Natem Shamanism

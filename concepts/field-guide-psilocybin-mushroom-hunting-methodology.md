@@ -1,9 +1,11 @@
 ---
 title: "Field Guide to Psilocybin Mushroom Hunting Methodology"
+created: 2026-04-28
 tags: [mycology, foraging, psilocybin, field-guide, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+type: concept
 ---
 
 # Field Guide to Psilocybin Mushroom Hunting Methodology
@@ -123,6 +125,8 @@ The descriptions in this guide and its companion pages are designed
 to eliminate identification error when all criteria are followed.
 
 ## Related
+
+- [[garner-allard-photoperiodism-experiment-methodology]]
 
 - [[field-guide-psilocybin-mushroom-species-identification]]
   for detailed species descriptions

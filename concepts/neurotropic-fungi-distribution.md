@@ -1,5 +1,6 @@
 ---
 title: Worldwide Distribution of Neurotropic Fungi
+created: 2026-04-28
 tags:
   - mycology
   - ethnobotany
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Worldwide Distribution of Neurotropic Fungi

@@ -1,10 +1,12 @@
 ---
 title: Jojoba (Simmondsia chinensis)
+created: 2026-04-28
 tags: [permaculture, oil-crop, drought-tolerant, salt-tolerant, desert]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Jojoba

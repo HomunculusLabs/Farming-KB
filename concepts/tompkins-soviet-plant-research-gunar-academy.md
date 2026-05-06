@@ -1,9 +1,11 @@
 ---
 title: "Soviet Plant Research at the Timiryazev Academy"
+created: 2026-04-28
 tags: [soviet-research, timiryazev-academy, plant-electrophysiology, gunar, biopotential, plant-sentience, cold-war-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Soviet Plant Research at the Timiryazev Academy

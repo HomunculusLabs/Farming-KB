@@ -1,5 +1,6 @@
 ---
 title: "MAC 1 (Miracle Alien Cookies 1)"
+created: 2026-04-28
 type: strain
 tags:
   - hybrid
@@ -150,6 +151,8 @@ MAC 1 is moderately challenging, rewarding attentive growers with exceptional qu
 - **Jealousy** (Sherbet × MAC): Popular cross with creamy dessert aromatics and balanced effects
 
 ## See Also
+
+- [[og-kush]]
 
 - [[durban-poison]]
 - [[girl-scout-cookies]]

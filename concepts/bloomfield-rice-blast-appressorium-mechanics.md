@@ -1,9 +1,11 @@
 ---
 title: "Rice Blast Appressorium Mechanics"
+created: 2026-04-28
 tags: [mycology, magnaporthe, rice-blast, appressorium, plant-pathology, fungal-infection]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 The rice blast fungus [[magnaporthe-grisea]] (also known as Magnaporthe

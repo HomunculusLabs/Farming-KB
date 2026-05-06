@@ -1,5 +1,6 @@
 ---
 title: "Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry"
+created: 2026-04-28
 tags:
   - mycology
   - neurotropic-fungi
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998). A Worldwide Geographical Distribution of the Neurotropic Fungi. Ann. Mus. civ. Rovereto 14: 189-280."
+type: concept
 ---
 
 # Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry

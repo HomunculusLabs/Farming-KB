@@ -1,9 +1,11 @@
 ---
 title: "Fungal Biomass as Biosorbent Material for Metal Removal"
+created: 2026-04-28
 tags: [bioremediation, heavy-metals, biosorption, wastewater-treatment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Biomass as Biosorbent Material for Metal Removal

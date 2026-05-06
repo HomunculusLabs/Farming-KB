@@ -1,5 +1,6 @@
 ---
 title: Hebeloma crustuliniforme
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, nitrogen-cycling, cold-adapted, forest-ecology]
 date: 2026-04-28

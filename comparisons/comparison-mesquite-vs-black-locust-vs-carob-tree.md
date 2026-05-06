@@ -1,5 +1,6 @@
 ---
 title: "Mesquite vs Black Locust vs Carob Tree"
+created: 2026-04-28
 tags: [comparison, nitrogen-fixing-trees, mesquite, black-locust, carob, permaculture, food-forests, agroforestry, timber, drought-tolerant]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - "Battle, I. & Tous, J. (1997). Carob Tree: Ceratonia siliqua L. IPGRI."
   - "PFAF — Plants for a Future Database. https://pfaf.org"
   - "USDA NRCS PLANTS Database. https://plants.usda.gov"
+type: comparison
 ---
 
 # Mesquite vs Black Locust vs Carob Tree

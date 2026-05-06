@@ -1,10 +1,12 @@
 ---
 title: "Compost Phase I Preparation and Raw Materials"
+created: 2026-04-28
 tags: [mycology, composting, substrate-preparation, mushroom-cultivator,
       phase-i-composting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Compost Phase I Preparation and Raw Materials

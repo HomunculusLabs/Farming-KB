@@ -1,5 +1,6 @@
 ---
 title: What Are Phytohormones and How Do They Affect Plant Growth?
+created: 2026-04-28
 tags:
   - phytohormones
   - plant-biology
@@ -17,6 +18,7 @@ sources:
   - Phytohormones: A Window to Metabolism, Signaling and Adaptation (Various)
   - Raven Biology of Plants (Evert and Eichhorn, 8th Edition)
   - Permaculture and plant management references (Multiple authors)
+type: query
 ---
 
 # What Are Phytohormones and How Do They Affect Plant Growth?
@@ -34,7 +36,6 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 ### 1. Auxin (IAA — Indole-3-Acetic Acid)
 
 **Primary roles:**
-
 - **Cell elongation:** Auxin stimulates cells in the shoot apex to elongate, driving upward growth (phototropism and [[gravitropism]])
 - **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip ([[topping-cannabis]], pruning tomatoes) causes lateral branching
 - **Root initiation:** Synthetic auxins (IBA, NAA) are the active ingredients in rooting powders and gels used for cuttings
@@ -42,46 +43,39 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 - **Vascular differentiation:** Auxin directs the formation of xylem and phloem tissue
 
 **How growers use it:**
-
 - **Cloning/propagation:** Rooting powders contain synthetic auxins (indole-3-butyric acid or naphthaleneacetic acid) to stimulate root formation on cuttings
 - **Topping and pruning:** Removing the apical bud (the auxin source) releases lateral buds from suppression, creating bushier plants
 - **Fruit thinning:** Synthetic auxin sprays can thin excessive fruit set in orchard crops
 - **Herbicides:** Synthetic auxins (2,4-D, dicamba) cause uncontrolled growth in broadleaf weeds, killing them while grasses tolerate the dose
 
 **Key fact:** Auxin moves in a polar fashion — always from the shoot tip downward (basipetal transport). This unidirectional flow is what creates the concentration gradient that controls branching.
-
 ---
 
 ### 2. Gibberellins (GAs)
 
 **Primary roles:**
-
 - **Stem elongation:** Gibberellins dramatically increase internode length — dwarf varieties of many crops are GA-deficient mutants
 - **[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
 - **Bolting and flowering:** GAs trigger the transition from vegetative to reproductive growth in long-day plants and biennials
 - **Fruit development:** Applied to seedless grapes to increase berry size; used in malting barley to promote uniform germination
 
 **How growers use it:**
-
 - **Gibberellic acid (GA₃) spray:** Commercially available as a foliar spray to increase fruit size, promote elongation in ornamental plants, and break seed dormancy
 - **Controlling plant height:** Anti-gibberellin growth retardants (paclobutrazol, chlormequat) are used to produce compact, stocky plants — common in greenhouse flower production and cannabis to control height
 - **Breaking dormancy:** GA₃ treatment can replace cold stratification for seeds that require a chill period
 
 **Key fact:** There are over 130 known gibberellins, but only a handful (GA₁, GA₃, GA₄, GA₇) are biologically active in most plants. The rest are precursors or deactivated metabolites.
-
 ---
 
 ### 3. Cytokinins
 
 **Primary roles:**
-
 - **Cell division (cytokinesis):** Cytokinins stimulate cell division in meristems — shoots and root tips
 - **Shoot development:** High cytokinin-to-auxin ratio promotes shoot formation; low ratio promotes root formation
 - **Delay senescence:** Cytokinins slow leaf aging and chlorophyll breakdown — this is why fresh-cut flowers last longer with cytokinin-containing preservatives
 - **Nutrient mobilization:** Cytokinins act as "stay-green" signals, directing nutrients toward young, actively growing tissue
 
 **How growers use it:**
-
 - **Tissue culture:** Cytokinins (especially benzylaminopurine — BAP) are essential components of tissue culture media to promote shoot multiplication
 - **Delaying leaf drop:** Cytinin-based products extend the productive life of leaves in ornamental and crop production
 - **Promoting lateral branching:** Applied cytokinins can break apical dominance (similar to topping) by shifting the auxin:cytokinin balance
@@ -93,7 +87,6 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 ### 4. Ethylene (C₂H₄)
 
 **Primary roles:**
-
 - **Fruit ripening:** Ethylene is the "ripening hormone" — it triggers the conversion of starch to sugar, softening of cell walls, and production of aroma compounds in climacteric fruits
 - **Leaf and flower abscission:** Ethylene promotes the formation of the abscission layer that causes leaves, flowers, and fruit to drop
 - **Senescence:** Accelerates aging in plant tissues
@@ -101,7 +94,6 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 - **Seed germination:** In some species, ethylene breaks seed dormancy
 
 **How growers use it:**
-
 - **Ripening fruit:** Commercial banana, tomato, and avocado operations use ethylene gas to trigger uniform ripening of harvested green fruit
 - **Promoting flowering:** Ethylene-releasing compounds (ethephon) are used to induce flowering in pineapple and mango
 - **Thinning fruit:** Ethylene generators are used to chemically thin excess fruit in apple orchards
@@ -114,20 +106,17 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 ### 5. Abscisic Acid (ABA)
 
 **Primary roles:**
-
 - **Drought response:** ABA is the "stress hormone" — it triggers stomatal closure to reduce water loss during drought conditions
 - **Seed dormancy:** ABA maintains seed dormancy and prevents premature germination (counteracts gibberellins)
 - **Bud dormancy:** Induces winter dormancy in perennial plants and buds
 - **Root growth promotion:** Under moderate stress, ABA shifts resources toward root growth at the expense of shoot growth
 
 **How growers use it:**
-
 - **Stress management:** Understanding ABA helps explain why overwatered plants with poor root systems wilt despite adequate moisture (ABA signal imbalance)
 - **Seed storage:** ABA-rich seeds store longer; some seed treatments manipulate ABA levels to break dormancy
 - **Anti-transpirants:** Foliar ABA sprays reduce transpiration in transplanted trees and drought-stressed crops
 
 **Key fact:** ABA levels increase 10–50 fold within minutes of water stress. This rapid response is one of the fastest hormonal signaling events in plants.
-
 ---
 
 ## Newer Phytohormone Classes
@@ -171,7 +160,6 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 | Drought tolerance | Abscisic acid, Brassinosteroids | Foliar sprays to trigger stress responses |
 | Pest/disease resistance | Jasmonates, Salicylic acid | Foliar sprays to prime defenses |
 | Tissue culture | Cytokinin + Auxin | BAP + IAA/NAA in culture media |
-
 ---
 
 ## Common Misconceptions
@@ -189,10 +177,11 @@ Every plant constantly produces and responds to phytohormones. Many organic prac
 
 ## See Also
 
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
+
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
-
 - [Plant Anatomy and Physiology](/wiki/topics/plant-anatomy-and-physiology)
 - [Plant Propagation Techniques](/wiki/topics/plant-propagation-techniques)
 - [Compost Tea and Biological Extracts](/wiki/topics/compost-tea-and-biological-extracts)

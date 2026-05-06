@@ -1,10 +1,12 @@
 ---
 title: Grass Seed Substrate Cultivation of Psilocybe Species
+created: 2026-04-28
 tags: [mycology, cultivation, substrate, grass-seed, psilocybe]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md
+type: concept
 ---
 
 # Grass Seed Substrate Cultivation of Psilocybe Species
@@ -141,6 +143,8 @@ the casing layer of trays cased for mushroom production. See
 biology and harvest techniques.
 
 ## Related
+
+- [[grass-seed-substrate-species-compatibility]]
 
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]] Concepts
 

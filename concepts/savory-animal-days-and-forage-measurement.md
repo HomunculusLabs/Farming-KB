@@ -1,10 +1,12 @@
 ---
 title: Animal Days and Forage Measurement
+created: 2026-04-28
 tags: [grazing-planning, measurement, forage]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Animal Days and Forage Measurement

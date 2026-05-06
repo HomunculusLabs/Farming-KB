@@ -1,5 +1,6 @@
 ---
 title: "Verticillium Dry Bubble Disease in Mushroom Crops"
+created: 2026-04-28
 tags:
   - mushroom-disease
   - crop-pathology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets
+type: concept
 ---
 
 # Verticillium Dry Bubble Disease in Mushroom Crops

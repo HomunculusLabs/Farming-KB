@@ -1,9 +1,11 @@
 ---
 title: The Spice Trade and Medieval Drug Scarcity
+created: 2026-04-28
 tags: [spice-trade, medieval, dominator-culture, McKenna, food-of-the-gods, mercantilism, exploration]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # The Spice Trade and Medieval Drug Scarcity

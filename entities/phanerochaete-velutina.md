@@ -1,5 +1,6 @@
 ---
 title: Phanerochaete velutina
+created: 2026-04-28
 type: species
 tags: [basidiomycete, cord-forming, wood-decay, mycelial-networks, saprotroph]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Southern Hemisphere Origin Hypothesis
+created: 2026-04-28
 tags:
   - mycology
   - biogeography
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Psilocybe Southern Hemisphere Origin Hypothesis

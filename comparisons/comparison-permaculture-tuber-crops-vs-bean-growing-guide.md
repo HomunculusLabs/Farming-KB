@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Tuber Crops vs Bean Growing"
+created: 2026-04-28
 tags: [comparison, crops, permaculture, vegetables, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Permaculture Tuber Crops vs Bean Growing

@@ -1,9 +1,11 @@
 ---
 title: Fungal Ecology in Forest Ecosystems
+created: 2026-04-28
 tags: [fungal-ecology, forest-floor, decomposition, wood-decay, mycelial-networks]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 # [[fungal-ecology]] in Forest Ecosystems

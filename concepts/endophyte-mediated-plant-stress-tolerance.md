@@ -1,9 +1,11 @@
 ---
 title: Endophyte-Mediated Plant Stress Tolerance
+created: 2026-04-28
 tags: [endophytes, stress-tolerance, symbiotic-fungi, plant-microbe-interactions, biofertilizer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [symbiotic-fungi.md]
+type: concept
 ---
 
 # Endophyte-Mediated Plant Stress Tolerance

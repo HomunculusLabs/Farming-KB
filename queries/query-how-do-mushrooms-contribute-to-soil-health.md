@@ -1,9 +1,11 @@
 ---
 title: "How Do Mushrooms Contribute to Soil Health?"
+created: 2026-04-28
 tags: [query, mycology, soil-science, ecology, decomposition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Mushrooms Contribute to Soil Health?

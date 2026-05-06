@@ -1,9 +1,11 @@
 ---
 title: "Straw Bale vs Adobe Construction"
+created: 2026-04-28
 tags: [comparison, natural-building, construction, permaculture, sustainable]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Straw Bale vs Adobe Construction

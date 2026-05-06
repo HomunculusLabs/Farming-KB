@@ -1,11 +1,13 @@
 ---
 title: Cover Cropping Systems
+created: 2026-04-28
 tags: [agriculture, soil-health, cover-crops, permaculture, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
   - ~/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Cover Cropping Systems

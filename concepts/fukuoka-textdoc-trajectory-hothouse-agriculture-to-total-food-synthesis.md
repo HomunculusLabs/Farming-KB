@@ -1,10 +1,12 @@
 ---
 title: "Trajectory from Hothouse Agriculture to Total Food Synthesis"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, food-synthesis, hothouse-agriculture, hydroponics, artificial-food, petroleum-agriculture, decline]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Trajectory from Hothouse Agriculture to Total Food Synthesis

@@ -1,5 +1,6 @@
 ---
 title: Genetic Engineering Critique and Warning
+created: 2026-04-28
 tags:
   - fukuoka
   - genetic-engineering
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Genetic Engineering Critique and Warning

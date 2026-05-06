@@ -1,9 +1,11 @@
 ---
 title: "Mycelial Network Dynamics"
+created: 2026-04-28
 tags: [mycology, mycelium, nutrient-translocation, basidiomycete, network-theory]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Mycelial Network Dynamics

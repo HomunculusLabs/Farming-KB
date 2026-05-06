@@ -108,6 +108,8 @@ Community tool libraries allow many households to share expensive or infrequentl
 
 ## See Also
 
+- [[apples-and-bananas]]
+
 - [[appropriate-technology]]
 - [[permaculture-appropriate-technology-design]]
 - [[permaculture-retrofitting-suburbs]]

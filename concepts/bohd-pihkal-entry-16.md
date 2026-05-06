@@ -1,10 +1,12 @@
 ---
 title: BOHD (2,5-Dimethoxy-beta-hydroxy-4-methylphenethylamine) - PIHKAL Entry #16
+created: 2026-04-28
 tags: [pihkal, phenethylamine, beta-ethanolamine, hypotensive, box-family]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # BOHD

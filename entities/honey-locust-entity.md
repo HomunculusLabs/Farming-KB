@@ -1,9 +1,11 @@
 ---
 title: "Honey Locust"
+created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tree, legume]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Honey Locust

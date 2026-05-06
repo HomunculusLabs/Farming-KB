@@ -1,5 +1,6 @@
 ---
 title: "White Widow"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -151,6 +152,8 @@ White Widow is considered an excellent strain for beginner and intermediate grow
 - **THC**: 14–18% (slightly lower than photoperiod version)
 
 ## See Also
+
+- [[white-widow-cannabis]]
 
 - [[low-stress-training]]
 - [[white-rhino]]

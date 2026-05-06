@@ -1,9 +1,11 @@
 ---
 title: Pinning Triggers and Primordia Formation
+created: 2026-04-28
 tags: [mycology, mushroom-cultivation, pinning, fruiting]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Pinning Triggers and Primordia Formation

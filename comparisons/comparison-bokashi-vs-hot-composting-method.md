@@ -1,9 +1,11 @@
 ---
 title: "Bokashi vs Hot Composting"
+created: 2026-04-28
 tags: [comparison, composting, soil, waste-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Bokashi vs Hot Composting

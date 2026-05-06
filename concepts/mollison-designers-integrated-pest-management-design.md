@@ -1,10 +1,12 @@
 ---
 title: "Integrated organic-pest-and-disease-management in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, pest-management, ecology, polycultures, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # [[hamilton-pest-and-disease-control-organic]] Management in [[permaculture-design]]

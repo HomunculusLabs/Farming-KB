@@ -1,9 +1,11 @@
 ---
 title: Psilocybe weilii Species Profile
+created: 2026-04-28
 tags: [psilocybe, weilii, species-profile, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+type: concept
 ---
 
 # Psilocybe weilii Species Profile

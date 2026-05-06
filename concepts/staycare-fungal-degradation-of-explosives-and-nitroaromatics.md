@@ -1,9 +1,11 @@
 ---
 title: Fungal Degradation of Explosives and Nitroaromatics
+created: 2026-04-28
 tags: [bioremediation, explosives, nitroaromatics, TNT, fungal-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Degradation of Explosives and Nitroaromatics

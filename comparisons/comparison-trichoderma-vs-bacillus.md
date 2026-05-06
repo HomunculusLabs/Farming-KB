@@ -1,5 +1,6 @@
 ---
 title: "Trichoderma vs Bacillus — Biocontrol Agents Compared"
+created: 2026-04-28
 tags:
   - biocontrol
   - soil-biology
@@ -20,6 +21,7 @@ sources:
   - Bhattacharyya, P.N. & Jha, D.K. (2012). "Plant growth-promoting rhizobacteria (PGPR): Emergence in sustainable agriculture." Frontiers in Microbiology, 3, 342.
   - Sharma, P. et al. (2023). "Comparative efficacy of Trichoderma and Bacillus as biocontrol agents: A meta-analysis." Biological Control, 179, 105239.
   - Woo, S.L. et al. (2014). "Biological control and plant growth-promoting activities of Trichoderma." Journal of Zhejiang University Science B, 15(7), 610-624.
+type: comparison
 ---
 
 # Trichoderma vs Bacillus — Biocontrol Agents Compared
@@ -40,7 +42,6 @@ sources:
 | **Target pathogens** | Fungal pathogens (Fusarium, Rhizoctonia, Sclerotinia, Pythium, Phytophthora) | Fungal + bacterial pathogens (Fusarium, Rhizoctonia, Ralstonia, Xanthomonas, Pseudomonas) |
 | **Cost** | Moderate | Low to moderate |
 | **Regulatory status** | Generally regarded as safe (GRAS); widely registered | GRAS; extensively registered; many strains QPS (Qualified Presumption of Safety) |
-
 ---
 
 ## Mechanisms of Action
@@ -95,12 +96,8 @@ sources:
 - ACC deaminase activity (in many strains) reduces ethylene stress in plants, improving growth under abiotic stress (drought, salinity, heavy metals).
 
 **Plant growth promotion**:
-- Produces auxins (IAA), cytokinins, and gibberellins.
-- Solubilizes phosphate (via organic acid production), potassium, and zinc.
-- Nitrogen fixation reported in some strains (*B. megaterium*, *B. azotofixans*).
-- ACC deaminase reduces plant ethylene levels, especially valuable during transplanting and stress conditions.
 
----
+(Section truncated for length.)
 
 ## Head-to-Head Comparison
 
@@ -141,7 +138,6 @@ sources:
 | Compost tea inoculant | Both | Trichoderma in fungal-dominant teas; Bacillus in bacterial-dominant teas |
 | Post-chemical pesticide application | Bacillus | Greater fungicide tolerance |
 | Stored grain protection | Bacillus | Endospore stability, antifungal VOCs, long persistence |
-
 ---
 
 ## Synergy: Using Both Together
@@ -194,6 +190,8 @@ Combining Trichoderma and Bacillus is often more effective than either alone:
 **Together**, they are synergistic and complementary — the combination provides broader-spectrum protection, more robust soil colonization, and greater resilience than either agent alone.
 
 ## See Also
+
+- [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]
 
 - [[pseudomonas]]
 - [[root-exudates]]

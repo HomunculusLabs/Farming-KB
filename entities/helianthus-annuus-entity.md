@@ -1,5 +1,6 @@
 ---
 title: "Helianthus annuus"
+created: 2026-04-28
 type: species
 tags: [species, plant, permaculture, oilseed, phytoremediation, companion-planting]
 date: 2026-04-28

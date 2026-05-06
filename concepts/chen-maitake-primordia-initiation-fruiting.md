@@ -1,10 +1,12 @@
 ---
 title: "Chen - Maitake Primordia Initiation and Fruiting Body Development"
+created: 2026-04-28
 tags: [maitake, primordia, fruiting, morphogenesis, grifola-frondosa]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+type: concept
 ---
 
 # Primordia Initiation and Fruiting Body Development in Maitake

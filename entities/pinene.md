@@ -1,5 +1,6 @@
 ---
 title: Pinene
+created: 2026-04-28
 type: chemical
 tags: [terpene, cannabis, bronchodilator, memory-enhancement, anti-inflammatory]
 date: 2026-04-28

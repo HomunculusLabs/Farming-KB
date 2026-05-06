@@ -1,5 +1,6 @@
 ---
 title: Zero Emissions Research and Initiatives
+created: 2026-04-28
 type: organization
 aliases:
   - ZERI

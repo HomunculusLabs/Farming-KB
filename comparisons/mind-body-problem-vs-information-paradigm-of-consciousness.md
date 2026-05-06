@@ -1,11 +1,13 @@
 ---
 title: "Mind-Body Problem vs Information Paradigm of Consciousness"
+created: 2026-04-28
 tags: [comparison, consciousness, psychedelics, philosophy-of-mind, information-theory]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
   - concepts/mind-body-problem-and-psychedelics.md
   - concepts/information-paradigm-of-consciousness.md
+type: comparison
 ---
 
 # Mind-Body Problem vs Information Paradigm of Consciousness

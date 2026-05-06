@@ -1,10 +1,12 @@
 ---
 title: Endorhiza Bacterial Communities
+created: 2026-04-28
 tags: [microbiome, plant-biology, endophytes]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Endorhiza Bacterial Communities

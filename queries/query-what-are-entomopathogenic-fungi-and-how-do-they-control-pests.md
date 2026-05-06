@@ -1,9 +1,11 @@
 ---
 title: "What Are Entomopathogenic Fungi and How Do They Control Pests?"
+created: 2026-04-28
 tags: [query, mycology, biocontrol, pest-management, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Entomopathogenic Fungi and How Do They Control Pests?

@@ -1,10 +1,12 @@
 ---
 title: "The Logos and Translinguistic Matter"
+created: 2026-04-28
 tags: [logos, translinguistic-matter, tryptamines, language,
       consciousness, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+type: concept
 ---
 
 # The Logos and Translinguistic Matter

@@ -1,5 +1,6 @@
 ---
 title: Hyoscyamus niger
+created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, hallucinogen, medicinal, ethnobotany]
 date: 2026-04-28

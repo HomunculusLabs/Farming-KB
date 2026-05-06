@@ -158,5 +158,7 @@ sources: [raw/papers/medicinal-herb-profiles.md]
 
 ## See Also
 
+- [[viburnum-prunifolium]]
+
 - [[herbal-medicine]]
 - [[permaculture]]

@@ -1,9 +1,11 @@
 ---
 title: Cover Cropping in Natural Farming
+created: 2026-04-28
 tags: [cover-crops, natural-farming, green-manure, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 # Cover Cropping in Natural Farming

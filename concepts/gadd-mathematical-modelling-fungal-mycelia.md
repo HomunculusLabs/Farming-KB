@@ -1,5 +1,6 @@
 ---
 title: Mathematical Modelling of Fungal Mycelial Form and Function
+created: 2026-04-28
 tags:
   - mathematical-modelling
   - mycelial-growth
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 
 # Mathematical Modelling of Fungal Mycelial Form and Function

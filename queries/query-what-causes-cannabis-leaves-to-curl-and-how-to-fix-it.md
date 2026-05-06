@@ -1,10 +1,12 @@
 ---
 title: "What Causes Cannabis Leaves to Curl and How to Fix It"
+created: 2026-04-28
 tags: [query, cannabis, nutrient-deficiency, plant-health, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # What Causes Cannabis Leaves to Curl and How to Fix It

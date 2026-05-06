@@ -1,9 +1,11 @@
 ---
 title: "Hallucinogenic Mushroom Online Retail Markets"
+created: 2026-04-28
 tags: [psilocybin, mushrooms, online-markets, legislation, smartshop]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/carolina-mushrooms_08qxp.md]
+type: concept
 ---
 
 # Hallucinogenic Mushroom Online Retail Markets

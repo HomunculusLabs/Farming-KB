@@ -1,9 +1,11 @@
 ---
 title: "How Do I Identify and Control Thrips on Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, pests, thrips, ipm]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Identify and Control Thrips on Cannabis?

@@ -1,10 +1,12 @@
 ---
 title: Climate Adaptation and Growing Seasons
+created: 2026-04-28
 tags: [biointensive, climate, growing-season, adaptation, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Climate Adaptation and Growing Seasons

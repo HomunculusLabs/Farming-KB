@@ -1,9 +1,11 @@
 ---
 title: "Herbal Smoker for Greenhouse Pest Control"
+created: 2026-04-28
 tags: [herbal-smoker, greenhouse, pest-control, smoke-fumigation, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Herbal Smoker for Greenhouse Pest Control

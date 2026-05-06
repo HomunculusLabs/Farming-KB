@@ -1,10 +1,12 @@
 ---
 title: Pioneer Species and Succession in Permaculture Design
+created: 2026-04-28
 tags: [permaculture, succession, pioneer-species, ecological-design, land-reclamation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Pioneer Species and Succession in Permaculture Design

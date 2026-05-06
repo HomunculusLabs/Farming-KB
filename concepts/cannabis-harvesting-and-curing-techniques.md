@@ -1,10 +1,12 @@
 ---
 title: Cannabis Harvesting and Curing Techniques
+created: 2026-04-28
 tags: [cannabis, harvesting, curing, post-harvest, quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - greg-green-the-cannabis-grow-bible.md
+type: concept
 ---
 
 # Cannabis Harvesting and Curing Techniques

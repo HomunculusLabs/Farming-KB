@@ -1,9 +1,11 @@
 ---
 title: "Windbreak vs Hedgerow"
+created: 2026-04-28
 tags: [comparison, agroforestry, wind-protection, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Windbreak vs Hedgerow
 Both windbreaks and hedgerows use linear woody plantings to modify microclimates

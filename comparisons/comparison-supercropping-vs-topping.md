@@ -1,9 +1,11 @@
 ---
 title: "Supercropping vs Topping"
+created: 2026-04-28
 tags: [comparison, cannabis, plant-training, supercropping, topping]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Supercropping vs Topping
 ## Overview

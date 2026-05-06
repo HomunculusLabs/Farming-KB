@@ -1,10 +1,12 @@
 ---
 title: Fungal Degradation of Emerging Contaminants
+created: 2026-04-28
 tags: [emerging-contaminants, pharmaceuticals, PFAS, microplastics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Degradation of Emerging Contaminants

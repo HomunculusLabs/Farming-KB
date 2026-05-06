@@ -1,5 +1,6 @@
 ---
 title: Fukuoka's Four Principles of Natural Farming
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka's Four Principles of Natural Farming

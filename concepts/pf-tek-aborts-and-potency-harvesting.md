@@ -1,10 +1,12 @@
 ---
 title: PF TEK Aborts and Potency Harvesting
+created: 2026-04-28
 tags: [pf-tek, harvesting, potency, psilocybin, mushroom-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # PF TEK Aborts and Potency Harvesting

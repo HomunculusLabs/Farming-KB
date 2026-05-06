@@ -1,5 +1,6 @@
 ---
 title: Humus Humic Acid and Fulvic Acid Distinctions
+created: 2026-04-28
 tags:
   - soil-chemistry
   - humic-substances
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+type: concept
 ---
 
 # Humus, Humic Acid, and Fulvic Acid Distinctions

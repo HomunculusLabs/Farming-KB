@@ -1,10 +1,12 @@
 ---
 title: "Fuelwood Forestry: Coppice, Pollard, and Sustainable Yield"
+created: 2026-04-28
 tags: [permaculture, forestry, fuelwood, coppice, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Fuelwood Forestry: Coppice, Pollard, and Sustainable Yield

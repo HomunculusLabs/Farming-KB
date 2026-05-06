@@ -1,9 +1,11 @@
 ---
 title: "Bardo Mapping of the Psychedelic Experience"
+created: 2026-04-28
 tags: [bardo, tibetan-book-of-the-dead, leary, ego-death, psychedelic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/leary-t-the-psychedelic-experience.md]
+type: concept
 ---
 
 # Bardo Mapping of the Psychedelic Experience

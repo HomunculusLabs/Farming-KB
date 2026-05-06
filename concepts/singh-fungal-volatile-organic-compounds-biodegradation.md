@@ -1,10 +1,12 @@
 ---
 title: "Fungal Volatile Organic Compounds Biodegradation"
+created: 2026-04-28
 tags: [voc, btex, biofilters, bioreactors, indoor-air]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Volatile Organic Compounds Biodegradation

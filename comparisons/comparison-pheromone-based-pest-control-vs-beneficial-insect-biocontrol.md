@@ -1,5 +1,6 @@
 ---
 title: Pheromone-Based Pest Control vs. Beneficial Insect Biocontrol
+created: 2026-04-28
 tags: [pest-control, pheromones, biological-control, IPM, integrated-pest-management, semiochemicals, beneficial-insects, sustainable-agriculture, entomology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://doi.org/10.1016/j.cropro.2019.02.008
   - https://doi.org/10.1007/s10526-014-9649-3
   - https://doi.org/10.3390/insects12010076
+type: comparison
 ---
 
 # Pheromone-Based Pest Control vs. Beneficial Insect Biocontrol

@@ -1,10 +1,12 @@
 ---
 title: Psilocybin Synthesis via Zwitterionic Phosphate Intermediate
+created: 2026-04-28
 tags: [chemistry, psilocybin, psilocin, synthesis, phosphorylation, shirota-hakamata-goda, zwitterion, pharmaceutical-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shirota, O., Hakamata, W. & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin, Principal Hallucinogenic Constituents of "Magic Mushroom". Journal of Natural Products, 66(6), 885-887.
+type: concept
 ---
 
 # Psilocybin Synthesis via Zwitterionic Phosphate Intermediate

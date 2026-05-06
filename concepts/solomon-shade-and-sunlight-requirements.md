@@ -1,10 +1,12 @@
 ---
 title: "Shade and Sunlight Requirements"
+created: 2026-04-28
 tags: [sunlight, shade, photosynthesis, garden-planning, microclimate]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Shade and Sunlight Requirements

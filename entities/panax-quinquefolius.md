@@ -1,5 +1,6 @@
 ---
 title: "Panax quinquefolius"
+created: 2026-04-28
 type: species
 tags:
   - american-ginseng

@@ -1,5 +1,6 @@
 ---
 title: Methylophilus Enrichment in Cannabis Endorhiza as a Strain Specificity Marker
+created: 2026-04-28
 tags:
   - microbiome
   - cannabis
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Methylophilus Enrichment in Cannabis Endorhiza as a Strain Specificity Marker

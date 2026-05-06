@@ -1,5 +1,6 @@
 ---
 title: "Purple Urkle"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -145,6 +146,8 @@ Purple Urkle has served as a foundational parent in cannabis breeding for purple
 The strain remains available primarily as a clone-only variety in Northern California dispensaries, though some seed companies have released purported crosses. Authentic clone-only genetics remain the most sought-after by collectors and medical patients.
 
 ## See Also
+
+- [[purple-punch]]
 
 - [[granddaddy-purple]] — Most celebrated descendant of Purple Urkle lineage
 - [[purple-haze-cannabis]] — Classic purple sativa for comparison of contrasting effects profiles

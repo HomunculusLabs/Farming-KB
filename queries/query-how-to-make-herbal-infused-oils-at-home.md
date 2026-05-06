@@ -1,9 +1,11 @@
 ---
 title: How Do I Make Herbal Infused Oils at Home?
+created: 2026-04-28
 tags: [herbalism, medicine-making, herbal-oils, natural-remedies, herbalism-basics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Make Herbal Infused Oils at Home?

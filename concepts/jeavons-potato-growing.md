@@ -1,9 +1,11 @@
 ---
 title: "Potato Growing: Irish and Sweet Potatoes"
+created: 2026-04-28
 tags: [biointensive, potatoes, root-crops, seed-propagation, calorie-crops]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Potato Growing: Irish and Sweet Potatoes

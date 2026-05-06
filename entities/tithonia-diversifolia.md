@@ -1,5 +1,6 @@
 ---
 title: 'Tithonia diversifolia'
+created: 2026-04-28
 type: species
 tags: [permaculture, green-manure, compost-activator, asteraceae, tropical-agriculture]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Fungal Nanoparticles for Environmental Remediation
+created: 2026-04-28
 tags:
   - mycoremediation
   - nanotechnology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Nanoparticles for Environmental Remediation

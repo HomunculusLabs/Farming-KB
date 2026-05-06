@@ -1,10 +1,12 @@
 ---
 title: AEM (alpha-Ethylmescaline) - PIHKAL Entry #1
+created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, inactive-compound, alpha-homologue]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # AEM (alpha-Ethylmescaline)

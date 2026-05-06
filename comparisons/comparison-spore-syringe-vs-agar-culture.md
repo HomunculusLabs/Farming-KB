@@ -1,10 +1,12 @@
 ---
 title: "Spore Syringe vs Agar Culture"
+created: 2026-04-28
 tags: [mycology, cultivation, propagation, comparison]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: comparison
 ---
 
 # [[spore-syringe-and-inoculation]] vs [[agar]] Culture

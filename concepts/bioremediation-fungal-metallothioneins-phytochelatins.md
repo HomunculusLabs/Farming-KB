@@ -1,9 +1,11 @@
 ---
 title: "Fungal Metallothioneins and Phytochelatins in Metal Detoxification"
+created: 2026-04-28
 tags: [bioremediation, heavy-metals, fungal-physiology, metal-detoxification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Metallothioneins and Phytochelatins in Metal Detoxification

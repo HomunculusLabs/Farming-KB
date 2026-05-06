@@ -1,9 +1,11 @@
 ---
 title: Surfactant-Enhanced Fungal Bioremediation
+created: 2026-04-28
 tags: [bioremediation, surfactants, bioavailability, fungal-enzymes, PAHs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Surfactant-Enhanced Fungal Bioremediation

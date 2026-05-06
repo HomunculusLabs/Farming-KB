@@ -1,9 +1,11 @@
 ---
 title: "What is the difference between a monotub and a shotgun fruiting chamber?"
+created: 2026-04-28
 tags: [query, mushrooms, fruiting-chamber, monotub, shotgun-FC, cultivation, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 The monotub and the shotgun fruiting chamber (SGFC) are two of the most popular designs for indoor mushroom fruiting.
 They operate on fundamentally different principles and are suited to different scales and species of cultivation.

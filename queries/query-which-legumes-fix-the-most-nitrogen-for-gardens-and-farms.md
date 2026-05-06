@@ -1,9 +1,11 @@
 ---
 title: "Which legumes fix the most nitrogen for gardens and farms?"
+created: 2026-04-28
 tags: [query, legumes, cover-crops, nitrogen]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # Which legumes fix the most nitrogen for gardens and farms?

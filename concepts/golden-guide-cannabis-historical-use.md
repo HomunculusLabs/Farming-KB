@@ -1,11 +1,13 @@
 ---
 title: "Golden Guide: Cannabis Historical Use and Chemistry"
+created: 2026-04-28
 tags: [hallucinogenic-plants, cannabis, marijuana, hemp, cannabinoids,
   thc, ethnobotany, history, medicine, solanaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: concept
 ---
 
 # Cannabis: Historical Use, Chemistry, and Effects

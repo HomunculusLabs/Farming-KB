@@ -1,10 +1,12 @@
 ---
 title: Native US Plants Containing DMT and Monoamine Oxidase Inhibitors
+created: 2026-04-28
 tags: [dmt, maoi, ethnobotany, united-states, plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Native US Plants Containing DMT and Monoamine Oxidase Inhibitors

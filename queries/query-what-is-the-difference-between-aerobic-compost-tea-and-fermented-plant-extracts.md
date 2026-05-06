@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts"
+created: 2026-04-28
 tags: [query, composting, biofertilizer, fermentation, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts

@@ -1,10 +1,12 @@
 ---
 title: "What Is the Ideal Temperature Range for Growing Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, temperature, environment, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # What Is the Ideal Temperature Range for Growing Cannabis?

@@ -1,10 +1,12 @@
 ---
 title: Mushroom spawn-production and Grain Inoculation
+created: 2026-04-28
 tags: mycology, mushroom-cultivation, grain-spawn, microbiology,
       commercial-mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # [[mushroom-spawn-production]] and Grain Inoculation

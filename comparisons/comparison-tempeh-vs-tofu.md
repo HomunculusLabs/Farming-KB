@@ -1,5 +1,6 @@
 ---
 title: Tempeh vs Tofu
+created: 2026-04-28
 tags:
   - tempeh
   - tofu
@@ -19,6 +20,7 @@ sources:
   - Liu, *Soybeans: Chemistry, Technology, and Utilization*, 1997
   - Nout & Aidoo, "Asian Fungal Fermented Food," 2002
   - USDA FoodData Central, entries for tempeh and firm tofu
+type: comparison
 ---
 
 # Tempeh vs Tofu
@@ -150,5 +152,9 @@ Both tofu and tempeh have favorable environmental profiles compared to animal pr
 Tofu and tempeh are complementary rather than competing soy foods. Tofu is a versatile, mild-flavored protein sponge that works across cuisines and cooking methods, from delicate soups to crispy stir-fries. Tempeh is a denser, nuttier, more nutrient-complete food that retains all of the soybean's fiber and micronutrients, with added benefits from fermentation. Many plant-based eaters keep both in their kitchen and choose based on the dish: tofu when you want absorption and delicacy, tempeh when you want substance and earthy depth.
 
 ## See Also
+
+- [[comparison-cmh-vs-led-grow-lights]]
+
+- [[comparison-perlite-vs-vermiculite]]
 
 - [[comparison-tempeh-vs-miso]]

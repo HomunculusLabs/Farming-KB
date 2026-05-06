@@ -1,10 +1,12 @@
 ---
 title: Perlite Humidification Technique for Mushroom Fruiting Chambers
+created: 2026-04-28
 tags: [mycology, cultivation, humidity, perlite, fruiting-chamber]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # Perlite Humidification Technique for Mushroom Fruiting Chambers

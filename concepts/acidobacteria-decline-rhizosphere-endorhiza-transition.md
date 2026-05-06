@@ -1,5 +1,6 @@
 ---
 title: Acidobacteria Decline in the Rhizosphere to Endorhiza Transition
+created: 2026-04-28
 tags:
   - microbiome
   - acidobacteria
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Acidobacteria Decline in the Rhizosphere to Endorhiza Transition

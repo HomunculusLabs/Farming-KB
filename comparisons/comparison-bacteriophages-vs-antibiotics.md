@@ -1,5 +1,6 @@
 ---
 title: Bacteriophages vs Antibiotics
+created: 2026-04-28
 tags: [biology, virology, medicine, agriculture, phage-therapy, antibiotics, biocontrol, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - https://www.nature.com/articles/s41579-020-0394-1
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211665/
   - https://asm.org/Articles/2020/May/Bacteriophages-in-Soil
+type: comparison
 ---
 
 # Bacteriophages vs Antibiotics
@@ -122,6 +124,8 @@ Bacteriophages offer a complementary approach — narrow-spectrum, self-amplifyi
 The most effective future strategies will likely combine both modalities, using antibiotics for broad initial coverage and phages for targeted follow-up, resistance management, and environmentally sensitive applications.
 
 ## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
 
 - [[crop-rotation-principles]]
 - [[integrated-pest-management]]

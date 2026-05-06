@@ -1,5 +1,6 @@
 ---
 title: Lepista nuda (Blewit)
+created: 2026-04-28
 type: species
 tags: [edible-mushroom, cultivable-species, agaricales, tricholomataceae, wood-decomposer]
 date: 2026-04-28

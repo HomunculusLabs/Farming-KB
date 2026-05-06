@@ -1,5 +1,6 @@
 ---
 title: "Miprocin (4-HO-MiPT)"
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic

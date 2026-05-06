@@ -1,5 +1,6 @@
 ---
 title: The Fallacy of Infinite Nutritional Analysis
+created: 2026-04-28
 tags:
   - fukuoka
   - nutrition
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Fallacy of Infinite Nutritional Analysis

@@ -1,9 +1,11 @@
 ---
 title: "What is the difference between a casing layer and a top dressing?"
+created: 2026-04-28
 tags: [query, mushrooms, plants, casing-layer, top-dressing, cultivation, soil, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 The terms "casing layer" and "top dressing" describe two fundamentally different practices in horticulture that are often confused by new growers.
 A casing layer is a non-nutritive material applied to colonized mushroom substrate to trigger and support fruiting body formation.

@@ -1,11 +1,13 @@
 ---
 title: Piule - Rhynchosia Seeds Mexican Hallucinogen
+created: 2026-04-28
 tags: [ethnobotany, mexico, rhynchosia, leguminosae, aztec, seeds,
   hallucinogenic-plants, schultes, tepantitla]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+type: concept
 ---
 
 # Piule (Rhynchosia spp.)

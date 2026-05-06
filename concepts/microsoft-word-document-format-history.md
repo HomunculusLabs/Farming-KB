@@ -1,9 +1,11 @@
 ---
 title: Microsoft Word Document Format History
+created: 2026-04-28
 tags: [document-formats, file-formats, microsoft, word-processing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Microsoft Word Document Format History

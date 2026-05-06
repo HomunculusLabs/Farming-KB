@@ -1,5 +1,6 @@
 ---
 title: Psilocybe caerulescens
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, hymenogastraceae, mexico, section-caerulescentes]
 date: 2026-04-28

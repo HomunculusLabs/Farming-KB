@@ -1,9 +1,11 @@
 ---
 title: "How to Start Seed Saving"
+created: 2026-04-28
 tags: [query, seed-saving, organic-gardening, plant-breeding, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Start Seed Saving

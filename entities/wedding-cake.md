@@ -1,5 +1,6 @@
 ---
 title: "Wedding Cake"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis

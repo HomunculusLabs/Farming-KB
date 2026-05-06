@@ -1,10 +1,12 @@
 ---
 title: Plant Touch and Thigmomorphogenesis
+created: 2026-04-28
 tags: [plant-biology, mechanoperception, thigmomorphogenesis, tropisms, plant-senses, chamovitz]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Plant Touch and Thigmomorphogenesis

@@ -1,9 +1,11 @@
 ---
 title: Greenhouse vs Underground Walipini
+created: 2026-04-28
 tags: [greenhouse, walipini, season-extension, growing, comparison]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Greenhouse vs Underground Walipini
 ## Overview

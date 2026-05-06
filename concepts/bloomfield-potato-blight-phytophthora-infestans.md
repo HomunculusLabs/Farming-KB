@@ -1,9 +1,11 @@
 ---
 title: "Potato Blight and Phytophthora infestans"
+created: 2026-04-28
 tags: [mycology, phytophthora, potato-blight, plant-pathogen, oomycete, irish-famine]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Phytophthora infestans, the cause of potato blight, is the most

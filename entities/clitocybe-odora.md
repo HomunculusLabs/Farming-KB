@@ -1,5 +1,6 @@
 ---
 title: "Clitocybe odora"
+created: 2026-04-28
 type: species
 tags:
   - fungi

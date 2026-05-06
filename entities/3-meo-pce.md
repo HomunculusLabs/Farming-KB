@@ -1,5 +1,6 @@
 ---
 title: "3-MeO-PCE"
+created: 2026-04-28
 type: chemical
 tags:
   - chemical

@@ -1,5 +1,6 @@
 ---
 title: Cannabis Botany and Taxonomy
+created: 2026-04-28
 tags:
   - cannabis
   - botany
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - robert-c-clarke-marijuana-botany-an-advanced-study.md
+type: concept
 ---
 
 Cannabis is a tall, erect, annual herb in the family

@@ -1,5 +1,6 @@
 ---
 title: Coprine, Disulfiram, and the Alcohol Reaction of Coprinus atramentarius
+created: 2026-04-28
 tags:
   - mycology
   - mycotoxicology
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
+type: concept
 ---
 
 # Coprine, Disulfiram, and the Alcohol Reaction

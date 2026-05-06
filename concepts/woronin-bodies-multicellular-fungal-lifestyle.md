@@ -1,10 +1,12 @@
 ---
 title: Woronin Bodies and Multicellular Fungal Lifestyle
+created: 2026-04-28
 tags: [mycology, cell-biology, woronin-bodies, fungal-hyphae, septa, ascomycota, cell-compartmentalization]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - gadd-watkinson-dyer-fungi-in-the-environment-2007
+type: concept
 ---
 
 # Woronin Bodies and Multicellular Fungal Lifestyle

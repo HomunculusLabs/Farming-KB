@@ -1,10 +1,12 @@
 ---
 title: "Seed Establishment and Plant Recruitment"
+created: 2026-04-28
 tags: [holistic-management, seed-establishment, plant-recruitment,
   succession, soil-disturbance, brittle-environments, seed-germination]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Seed Establishment and Plant Recruitment

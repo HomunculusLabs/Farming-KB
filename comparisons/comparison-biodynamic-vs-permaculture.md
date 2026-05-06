@@ -1,10 +1,12 @@
 ---
 title: "Biodynamic Agriculture vs Permaculture"
+created: 2026-04-28
 tags: [comparison, farming-philosophy, biodynamic, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+type: comparison
 ---
 
 # Biodynamic Agriculture vs Permaculture

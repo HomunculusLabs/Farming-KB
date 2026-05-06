@@ -1,5 +1,6 @@
 ---
 title: Fungal Melanin
+created: 2026-04-28
 tags:
   - mycology
   - fungal-biology
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds,
     and Mycologists by Nicholas P. Money (2002), Chapters 2, 5, 7"
+type: concept
 ---
 
 # Fungal Melanin

@@ -1,10 +1,12 @@
 ---
 title: Matter and Spirit Unity in Food
+created: 2026-04-28
 tags: [fukuoka, natural-diet, philosophy, buddhism, food-theory, zen, matter-spirit]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Matter and Spirit Unity in Food

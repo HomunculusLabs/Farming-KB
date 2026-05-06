@@ -1,5 +1,6 @@
 ---
 title: Backyard and Small-Scale Cannabis Cultivation
+created: 2026-04-28
 tags:
   - backyard-growing
   - small-scale
@@ -15,6 +16,7 @@ synonyms:
   - small garden cannabis
   - vegetable garden cannabis
   - residential cannabis growing
+type: concept
 ---
 
 # Backyard and Small-Scale Cannabis Cultivation

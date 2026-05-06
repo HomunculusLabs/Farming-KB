@@ -1,9 +1,11 @@
 ---
 title: "How do I prune fruit trees naturally?"
+created: 2026-04-28
 tags: [query, orchard, fruit-trees, pruning]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I prune fruit trees naturally?

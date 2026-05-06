@@ -1,8 +1,10 @@
 ---
 title: Soil Respiration
+created: 2026-04-28
 tags: [soil-science, carbon-cycle, microbiology, agroecology, climate]
 date: 2026-05-02
 updated: 2026-05-02
+type: concept
 ---
 
 ## Overview

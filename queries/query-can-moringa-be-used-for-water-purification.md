@@ -1,5 +1,6 @@
 ---
 title: "Can Moringa Be Used for Water Purification?"
+created: 2026-04-28
 tags:
   - moringa
   - water-purification
@@ -14,6 +15,7 @@ sources:
   - "Bichi, M.H. (2013). Moringa oleifera seed as a low-cost water purifier. International Journal of Science and Technology, 2(3), 131-136."
   - "Gassenschmidt, U., et al. (1995). Isolation and characterization of a flocculating protein from Moringa oleifera seeds. Biochimica et Biophysica Acta, 1243(3), 477-481."
   - "Camacho, F.P., et al. (2017). Water clarification of natural waters using Moringa oleifera seeds. Journal of Water Process Engineering, 17, 37-44."
+type: query
 ---
 
 # Can Moringa Be Used for Water Purification?
@@ -154,6 +156,10 @@ The seed kernel contains the active protein. The seed coat and husk do **not** c
 Moringa seeds are a scientifically validated, low-cost coagulant suitable for reducing turbidity and bacteria in water. They are most valuable as a **sustainable, locally sourced pre-treatment** in emergency and resource-limited settings. However, they should not be relied upon as the sole treatment for water contaminated with chemicals, viruses, or high levels of pathogens. For complete water safety, pair moringa coagulation with a secondary disinfection method such as boiling or chlorination.
 
 ## See Also
+
+- [[query-what-is-a-wavelet-transform-used-for]]
+- [[mollison-designers-water-purification-and-storage-principles]]
+- [[query-how-to-make-liquid-culture-for-mushroom-cultivation]]
 
 - [[heavy-metal-biosorption]]
 - [[moringa-oleifera]]

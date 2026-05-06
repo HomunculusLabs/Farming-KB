@@ -1,9 +1,11 @@
 ---
 title: Fungal Organic Acid Production for Metal Leaching
+created: 2026-04-28
 tags: [bioremediation, organic-acids, metal-leaching, fungal-metabolism, biohydrometallurgy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Organic Acid Production for Metal Leaching

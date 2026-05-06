@@ -1,9 +1,11 @@
 ---
 title: Growing Room Air Circulation and CO2 Management
+created: 2026-04-28
 tags: [mushroom-cultivation, ventilation, co2-management, growing-room-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Growing Room Air Circulation and CO2 Management

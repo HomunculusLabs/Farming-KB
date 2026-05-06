@@ -1,5 +1,6 @@
 ---
 title: Amanita rubescens
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, soil-fauna, nematode-interactions, toxic]
 date: 2026-04-28

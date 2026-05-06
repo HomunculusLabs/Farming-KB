@@ -1,5 +1,6 @@
 ---
 title: Psilocybe natmansii
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, europe, grassland]
 date: 2026-04-28

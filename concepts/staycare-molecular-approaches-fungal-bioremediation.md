@@ -1,5 +1,6 @@
 ---
 title: Molecular Approaches to Enhancing Fungal Bioremediation
+created: 2026-04-28
 tags:
   - bioremediation
   - genetic-engineering
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Molecular Approaches to Enhancing Fungal Bioremediation

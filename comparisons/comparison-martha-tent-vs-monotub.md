@@ -1,9 +1,11 @@
 ---
 title: "Martha Tent vs Monotub Cultivation"
+created: 2026-04-28
 tags: [comparison, mushroom-cultivation, fruiting, indoor-growing, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Martha Tent vs Monotub Cultivation

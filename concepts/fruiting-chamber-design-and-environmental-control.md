@@ -1,9 +1,11 @@
 ---
 title: Fruiting Chamber Design and Environmental Control
+created: 2026-04-28
 tags: [mycology, cultivation, fruiting, humidity, environmental-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Fruiting Chamber Design and Environmental Control

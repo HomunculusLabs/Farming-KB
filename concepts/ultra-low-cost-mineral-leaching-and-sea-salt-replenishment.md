@@ -1,10 +1,12 @@
 ---
 title: Mineral Leaching and Sea Salt Replenishment in JADAM Farming
+created: 2026-04-28
 tags: [mineral-leaching, sea-salt, phyllite, soil-minerals, nutrient-balance,
       JADAM, organic-farming, ultra-low-cost, trace-elements, soil-fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 # Mineral Leaching and ultra low cost mineral leaching and sea salt replenishment in JADAM Farming
 JADAM has coined the term "natural leaching of minerals" to describe the

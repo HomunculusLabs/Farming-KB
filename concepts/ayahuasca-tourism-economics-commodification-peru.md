@@ -1,10 +1,12 @@
 ---
 title: Ayahuasca Tourism Economics and the Commodification of Ceremony in Peru
+created: 2026-04-28
 tags: [ayahuasca, tourism, peru, commodification, economics, shamanism, shipibo, ceremony, ethics, amazon]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - R. Stuart (2002), "Ayahuasca Tourism: A Cautionary Tale," MAPS, Volume XII, Number 2, Summer 2002
+type: concept
 ---
 
 # Ayahuasca Tourism Economics and the Commodification of Ceremony

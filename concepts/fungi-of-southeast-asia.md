@@ -1,10 +1,12 @@
 ---
 title: "Fungi of Southeast Asia"
+created: 2026-04-28
 tags: [mycology, southeast-asia, biodiversity, ethnomycology, tropical-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md
+type: concept
 ---
 
 Southeast Asia is one of the world's most significant regions for fungal

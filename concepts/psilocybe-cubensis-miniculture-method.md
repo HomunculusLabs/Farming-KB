@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Cubensis Miniculture Method
+created: 2026-04-28
 tags: [miniculture, cultivation, psilocybe-cubensis, rye-grain, fruiting, indoor-cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
   - San Antonio, J.P. (1971). A laboratory method to obtain fruit from cased grain spawn of the cultivated mushroom: Agaricus bisporus. Mycologia, 63, 16-21.
   - Oss, O.T. and Oeric, O.N. (1976). Psilocybin Magic Mushroom Grower's Guide. And/Or Press.
+type: concept
 ---
 
 # Psilocybe Cubensis Miniculture Method

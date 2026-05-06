@@ -1,9 +1,11 @@
 ---
 title: "How do I use KNF inputs through the plant growth cycle?"
+created: 2026-04-28
 tags: [query, knf, natural-farming, plant-nutrition]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I use KNF inputs through the plant growth cycle?

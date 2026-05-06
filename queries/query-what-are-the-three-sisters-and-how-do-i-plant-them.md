@@ -1,5 +1,6 @@
 ---
 title: "What Are the Three Sisters and How Do I Plant Them?"
+created: 2026-04-28
 tags: [three-sisters, companion-planting, polyculture, indigenous-agriculture, corn, beans, squash]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "United States Department of Agriculture, Natural Resources Conservation Service. (2011). 'Plant Guides: Zea mays, Phaseolus vulgaris, Cucurbita spp.'"
   - "Zhang, H., et al. (2019). 'Nitrogen Fixation Rates in Pole Bean Intercropping with Corn.' Soil Biology & Biochemistry, 128, 105-113."
   - "Native American Seed (naseeds.com). Traditional Three Sisters Planting Guide. Accessed 2026."
+type: query
 ---
 
 # What Are the Three Sisters and How Do I Plant Them?

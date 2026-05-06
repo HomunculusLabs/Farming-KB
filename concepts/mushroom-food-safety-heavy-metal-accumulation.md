@@ -1,9 +1,11 @@
 ---
 title: Mushroom Food Safety and Heavy Metal Accumulation
+created: 2026-04-28
 tags: [food-safety, heavy-metals, mycoremediation, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/mycelium-running-stamets.md]
+type: concept
 ---
 
 # Mushroom Food Safety and Heavy Metal Accumulation

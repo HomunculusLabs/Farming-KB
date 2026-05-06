@@ -1,10 +1,12 @@
 ---
 title: "Mushroom Flies in Cultivation"
+created: 2026-04-28
 tags: [mushroom-cultivation, pests, integrated-pest-management, insect-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Mushroom Flies in Cultivation

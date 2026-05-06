@@ -1,5 +1,6 @@
 ---
 title: Psilocybe mulgrewii
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, hymenogastraceae, section-cyanescens, pacific-northwest]
 date: 2026-04-28

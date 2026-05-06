@@ -1,9 +1,11 @@
 ---
 title: "Leucaena Alley Cropping and Tropical Forage Systems"
+created: 2026-04-28
 tags: [permaculture-plants, alley-cropping, tropical-forage, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
+type: concept
 ---
 
 Leucaena leucocephala is one of the most versatile multipurpose trees

@@ -1,5 +1,6 @@
 ---
 title: Tangie
+created: 2026-04-28
 type: strain
 tags: [sativa, citrus-strain, skunk-lineage, california-orange-lineage, dna-genetics, award-winning, amsterdam, tangerine-aroma, uplifting, creative, daytime-use, medical-cannabis, high-thc, terpene-rich]
 date: 2026-04-28

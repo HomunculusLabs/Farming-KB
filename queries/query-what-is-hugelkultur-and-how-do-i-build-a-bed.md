@@ -1,9 +1,11 @@
 ---
 title: "What Is Hugelkultur and How Do I Build a Bed?"
+created: 2026-04-28
 tags: [query, hugelkultur, permaculture, soil-building, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # What Is Hugelkultur and How Do I Build a Bed?
 ## Short Answer

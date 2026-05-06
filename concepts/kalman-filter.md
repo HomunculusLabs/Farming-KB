@@ -1,7 +1,9 @@
 ---
 title: "Kalman Filter"
+created: 2026-04-28
 sources: []
 tags: []
+type: concept
 ---
 
 # Kalman Filter

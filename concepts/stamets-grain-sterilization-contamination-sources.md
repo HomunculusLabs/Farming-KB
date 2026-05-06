@@ -1,9 +1,11 @@
 ---
 title: Grain Sterilization and Contamination Sources (Stamets)
+created: 2026-04-28
 tags: [sterilization, grain-spawn, contamination, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Grain Sterilization and Contamination Sources

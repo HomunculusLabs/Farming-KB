@@ -1,5 +1,6 @@
 ---
 title: Mucor racemosus
+created: 2026-04-28
 type: species
 tags: [contaminant, zygomycetes, black-pin-mold, grain-contaminant, mucormycosis]
 date: 2026-04-28

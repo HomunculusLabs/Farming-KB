@@ -1,10 +1,12 @@
 ---
 title: Marine Polyculture
+created: 2026-04-28
 tags: [permaculture, marine, aquaculture, estuaries, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Marine Polyculture

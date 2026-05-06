@@ -1,9 +1,11 @@
 ---
 title: "The Four Phases of Soil Management"
+created: 2026-04-28
 tags: [soil-management, organic-gardening, fertilizers, soil-testing, composting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # The Four Phases of Soil Management

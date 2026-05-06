@@ -1,10 +1,12 @@
 ---
 title: Office Open XML
+created: 2026-04-28
 tags: [file-format, xml, microsoft, standards, document-format]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Office Open XML

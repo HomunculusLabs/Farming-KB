@@ -1,9 +1,11 @@
 ---
 title: "JADAM vs IMO Microorganism Solutions"
+created: 2026-04-28
 tags: [comparison, microorganisms, natural-farming, knf, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # JADAM vs IMO Microorganism Solutions

@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Windbreak Design and Species Selection"
+created: 2026-04-28
 tags: [permaculture, windbreak, microclimate, orchard, shelterbelt, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # [[permaculture-windbreak]] and Species Selection

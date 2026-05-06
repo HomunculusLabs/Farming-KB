@@ -1,5 +1,6 @@
 ---
 title: "Proteomics of Early Arbuscular Mycorrhiza Symbiosis"
+created: 2026-04-28
 tags:
   - proteomics
   - mycorrhizae
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Proteomics of Early Arbuscular Mycorrhiza Symbiosis

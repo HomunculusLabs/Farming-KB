@@ -1,9 +1,11 @@
 ---
 title: "Netting and Physical Pest Barriers"
+created: 2026-04-28
 tags: [pest-control, netting, fencing, bird-protection, physical-barriers]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Netting and Physical Pest Barriers

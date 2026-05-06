@@ -1,7 +1,9 @@
 ---
 title: Cytochrome P450 Enzymes — Structure, Function, and Pharmacological Significance
+created: 2026-04-28
 aliases: [CYP450, cytochrome P450, CYP enzymes, drug metabolism enzymes]
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
+type: concept
 ---
 
 ## Cytochrome P450 Superfamily Overview

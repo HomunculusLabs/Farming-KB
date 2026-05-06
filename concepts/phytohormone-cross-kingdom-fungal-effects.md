@@ -1,9 +1,11 @@
 ---
 title: "Phytohormone Cross-Kingdom Effects on Fungi"
+created: 2026-04-28
 tags: [phytohormones, mycology, brassinosteroid, cross-kingdom, plant-fungal-interactions, signaling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+type: concept
 ---
 
 # Phytohormone Cross-Kingdom Effects on Fungi

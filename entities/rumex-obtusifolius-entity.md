@@ -1,5 +1,6 @@
 ---
 title: "Rumex obtusifolius"
+created: 2026-04-28
 type: species
 tags: [permaculture, edible-weed, medicinal-plant, pioneer-species, polygonaceae]
 date: 2026-04-28

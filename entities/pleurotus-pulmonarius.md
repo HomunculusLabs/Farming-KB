@@ -1,5 +1,6 @@
 ---
 title: Pleurotus pulmonarius
+created: 2026-04-28
 type: species
 tags: [edible-mushroom, oyster-mushroom, tropical, mycoremediation, ligninolytic]
 date: 2026-04-28

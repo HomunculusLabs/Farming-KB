@@ -1,9 +1,11 @@
 ---
 title: "What Is the Best Cannabis Grow Medium for Beginners"
+created: 2026-04-28
 tags: [query, cannabis, growing-medium, beginners, soil]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Best Cannabis Grow Medium for Beginners

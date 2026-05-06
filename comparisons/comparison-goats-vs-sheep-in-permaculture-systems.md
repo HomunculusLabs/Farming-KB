@@ -1,9 +1,11 @@
 ---
 title: "Goats vs Sheep in Permaculture Systems"
+created: 2026-04-28
 tags: [goats, sheep, permaculture, livestock, homesteading, grazing, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://www.attra.ncat.org, https://www.sare.org, https://www.fao.org, https://www.livestockconservancy.org]
+type: comparison
 ---
 
 # Goats vs Sheep in Permaculture Systems

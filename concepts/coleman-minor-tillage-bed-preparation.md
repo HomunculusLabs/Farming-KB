@@ -1,9 +1,11 @@
 ---
 title: "Minor Tillage Bed Preparation"
+created: 2026-04-28
 tags: [soil, tillage, beds, broadfork, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
+type: concept
 ---
 
 # Minor Tillage Bed Preparation

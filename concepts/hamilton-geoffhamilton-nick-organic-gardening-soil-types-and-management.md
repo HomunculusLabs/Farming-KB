@@ -1,9 +1,11 @@
 ---
 title: Soil Types and Management
+created: 2026-04-28
 tags: [soil, organic-gardening, soil-science, land-management, geology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Soil Types and Management

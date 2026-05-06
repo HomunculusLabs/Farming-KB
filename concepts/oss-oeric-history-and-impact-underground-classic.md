@@ -1,9 +1,11 @@
 ---
 title: "Oss & Oeric: History and Impact of an Underground Classic"
+created: 2026-04-28
 tags: [mycology, cultivation-history, underground-literature, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+type: concept
 ---
 
 # Oss & Oeric: History and Impact of an Underground Classic

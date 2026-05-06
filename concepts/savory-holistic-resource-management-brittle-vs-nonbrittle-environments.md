@@ -1,5 +1,6 @@
 ---
 title: Brittle vs Nonbrittle Environments
+created: 2026-04-28
 tags:
   - holistic-management
   - land-ecology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Brittle vs Nonbrittle Environments

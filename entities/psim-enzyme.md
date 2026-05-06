@@ -1,5 +1,6 @@
 ---
 title: PsiM (Norbaeocystin N-Methyltransferase)
+created: 2026-04-28
 type: chemical
 tags: [enzyme, biosynthesis, psilocybin, methyltransferase, alkaloid-diversity]
 date: 2026-04-28

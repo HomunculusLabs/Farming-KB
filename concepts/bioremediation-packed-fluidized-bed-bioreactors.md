@@ -1,9 +1,11 @@
 ---
 title: Packed Bed and Fluidized Bed Bioreactors for Fungal Bioremediation
+created: 2026-04-28
 tags: [bioremediation, bioreactor-design, fungal-treatment, effluent-treatment, wastewater]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Packed Bed and Fluidized Bed Bioreactors for [[fungal-bioremediation]]

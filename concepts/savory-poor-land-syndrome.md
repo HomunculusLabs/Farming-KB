@@ -1,9 +1,11 @@
 ---
 title: "Poor Land Syndrome"
+created: 2026-04-28
 tags: [desertification, foreign-aid, poverty, land-deterioration, policy]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Poor Land Syndrome

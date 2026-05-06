@@ -1,9 +1,11 @@
 ---
 title: "Cannabis and Mind-Body Medicine"
+created: 2026-04-28
 tags: [cannabis, mind-body, psychoneuroimmunology, holistic-health, meditation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis and Mind-Body Medicine

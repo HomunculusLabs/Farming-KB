@@ -1,10 +1,12 @@
 ---
 title: Terracing vs Swales
+created: 2026-04-28
 tags: [earthworks, water-management, erosion-control, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: comparison
 ---
 
 # Terracing vs Swales

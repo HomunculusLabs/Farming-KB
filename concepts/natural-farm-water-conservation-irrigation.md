@@ -1,10 +1,12 @@
 ---
 title: Water Conservation and Irrigation
+created: 2026-04-28
 tags: [water, irrigation, swales, rainwater-harvesting, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md'
+type: concept
 ---
 
 # Water Conservation and Irrigation

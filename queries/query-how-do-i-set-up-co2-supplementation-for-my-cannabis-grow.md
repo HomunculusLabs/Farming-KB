@@ -1,9 +1,11 @@
 ---
 title: "How Do I Set Up CO2 Supplementation for My Cannabis Grow?"
+created: 2026-04-28
 tags: [query, cannabis, co2, environment, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Set Up CO2 Supplementation for My Cannabis Grow?

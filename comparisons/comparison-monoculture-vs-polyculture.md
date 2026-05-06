@@ -1,9 +1,11 @@
 ---
 title: "Monoculture vs Polyculture"
+created: 2026-04-28
 tags: [comparison, farming, cropping, permaculture, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Monoculture vs Polyculture

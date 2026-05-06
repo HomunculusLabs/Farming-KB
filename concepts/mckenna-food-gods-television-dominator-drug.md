@@ -1,10 +1,12 @@
 ---
 title: "Television as the Dominator Drug"
+created: 2026-04-28
 tags: [food-of-the-gods, television, electronic-drugs, dominator-culture, media, addiction, consumerism, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T. Food of the Gods, Chapter 13: Synthetics: Heroin, Cocaine, and Television
+type: concept
 ---
 
 # Television as the Dominator Drug

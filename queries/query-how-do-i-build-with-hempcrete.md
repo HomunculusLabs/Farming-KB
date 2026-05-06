@@ -1,5 +1,6 @@
 ---
 title: "How Do I Build with Hempcrete?"
+created: 2026-04-28
 tags: [hempcrete, natural-building, sustainable-construction, lime, hemp-hurd, eco-friendly]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - "Building with Hemp — Steve Allin (2012)"
   - "International Hemp Building Association (IHBA) technical guides"
   - "American Lime Technology — Tradical® Hempcrete system specifications"
+type: query
 ---
 
 # How Do I Build with Hempcrete?

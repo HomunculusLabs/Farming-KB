@@ -1,9 +1,11 @@
 ---
 title: "Fish Aminos vs Kelp Meal"
+created: 2026-04-28
 tags: [comparison, organic-fertilizer, nutrients, soil-amendment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Fish Aminos vs Kelp Meal
 

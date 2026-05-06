@@ -1,8 +1,10 @@
 ---
 title: Dislocation Theory and Crystal Plasticity
+type: concept
 aliases: [crystal dislocations, Burgers vector, slip systems, work hardening, Hall-Petch, Frank-Read source]
 tags: [physics, materials-science, engineering, crystal-plasticity, dislocations, metallurgy, deformation]
 created: 2026-05-02
+type: concept
 ---
 
 ## Overview

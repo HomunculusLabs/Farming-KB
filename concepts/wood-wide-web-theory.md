@@ -1,9 +1,11 @@
 ---
 title: wood wide web theory
+created: 2026-04-28
 tags: [mycology, ecology, forest-biology, mycorrhiza, networks]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Wood Wide Web Theory

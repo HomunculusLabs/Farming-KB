@@ -1,10 +1,12 @@
 ---
 title: Plants in Permaculture Systems
+created: 2026-04-28
 tags: [permaculture, plants, guilds, polyculture, plant-selection]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Plants in Permaculture Systems

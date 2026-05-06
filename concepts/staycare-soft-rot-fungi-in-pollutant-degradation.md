@@ -1,10 +1,12 @@
 ---
 title: "Soft Rot Fungi in Pollutant Degradation"
+created: 2026-04-28
 tags: [soft-rot, lignocellulose, bioremediation, fungal-decay,
       xenobiotic-metabolism, methylation, phenolics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Soft Rot Fungi in Pollutant Degradation

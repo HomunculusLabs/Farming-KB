@@ -1,5 +1,6 @@
 ---
 title: Orchard Terracing and Slope Management in Natural Farming
+created: 2026-04-28
 tags:
   - fukuoka
   - orchard-management
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 ## Overview

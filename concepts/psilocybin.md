@@ -1,6 +1,11 @@
 ---
 title: Psilocybin
-tags: [pharmacology, tryptamine, hallucinogen, neuroscience, serotonin]
+tags:
+  - pharmacology
+  - tryptamine
+  - serotonin
+  - psychedelic
+  - mycology
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,117 +14,109 @@ sources:
 
 # Psilocybin
 
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, abbreviated 4-PO-DMT) is a naturally occurring
-prodrug and psychedelic compound produced by more than 100 species of fungi. It is the phosphate ester
-of psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT), the pharmacologically active metabolite.
-Psilocybin and psilocin belong to the indolealkylamine (tryptamine) class of hallucinogens, the same
-chemical family as LSD and serotonin (5-hydroxytryptamine, 5-HT).
+Psilocybin is the primary psychoactive compound found in hallucinogenic mushrooms of the [[Psilocybe]] genus and related taxa. It is a naturally occurring indolealkylamine classified as a tryptamine, placing it in the same broad chemical family as LSD, DMT, and the endogenous neurotransmitter serotonin.
 
-## Chemical Classification
+## Chemical Identity
 
-Hallucinogens group by chemical structure into three major categories:
+Psilocybin, formally known as 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), is the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT). Psilocybin is more stable in air and is water-soluble, which makes it the predominant form found in dried mushroom material and the form most commonly referenced in analytical and forensic contexts.
 
-1. **Indolealkylamines (tryptamines)** — LSD, psilocin, psilocybin, DMT
-2. **Phenylethylamines** — mescaline
-3. **Cannabinoids** — THC and related compounds
+Upon ingestion, the body converts psilocybin into psilocin through enzymatic dephosphorylation. It is psilocin, not psilocybin itself, that is the pharmacologically active compound responsible for the characteristic psychoactive effects. Both compounds can be chemically classified as indolealkylamines, placing them in the same structural group as LSD.
 
-Psilocybin and psilocin are structurally similar to the neurotransmitter serotonin, underpinning
-their mechanism of action at serotonergic receptor sites.
+## Mechanism of Action
 
-## Pharmacology and Mechanism of Action
+Psilocin acts primarily as a 5-HT2A post-synaptic agonist or partial agonist within the [[serotonin]] system. This receptor-mediated mechanism of action mirrors that of other classical psychedelics such as LSD and mescaline, all of which produce their characteristic perceptual and cognitive effects through serotonergic pathways in the central nervous system.
 
-Psilocybin is pharmacologically inactive as ingested; it serves as a prodrug. After ingestion, it is
-rapidly dephosphorylated by alkaline phosphatase enzymes and converted into psilocin, the active
-compound. Psilocin acts primarily as a **5-HT2A post-synaptic agonist or partial agonist** in the
-serotonin system. This receptor binding in the prefrontal cortex produces the characteristic
-alterations in perception, mood, and cognition.
+The major effects of psilocybin are related to the central nervous system, though some sympathomimetic effects also occur. The subjective effects vary greatly between individuals and from one episode of use to the next within the same person, depending on dose, individual sensitivity, prior experience, and the setting in which use occurs.
 
-## Other Tryptamines in Psilocybin Mushrooms
+## Companion Tryptamines
 
-In addition to psilocybin and psilocin, two further tryptamines may be present:
+Beyond psilocybin and psilocin, two additional tryptamine alkaloids have been identified in hallucinogenic mushrooms:
 
-- **Baeocystin** (4-phosphoryloxy-N-methyltryptamine) — considered less active
-- **Norbaeocystin** (4-phosphoryloxy-tryptamine) — also considered less active
+- **Baeocystin**: 4-phosphoryloxy-N-methyltryptamine; a lower-order analog of psilocybin
+- **Norbaeocystin**: 4-phosphoryloxytryptamine; a further demethylated analog
 
-Their relative contributions to psychoactive effects remain poorly characterized.
+These compounds are thought to be less psychoactive than psilocybin and psilocin, though their exact pharmacological contribution to the overall mushroom experience remains incompletely characterized. They may act as weak serotonin receptor agonists or serve as additional prodrugs that contribute to the total tryptamine load.
 
-## Potency and Dosage
+## Occurrence in Nature
 
-Mushroom potency depends on species, variety, origin, growing conditions, and age. The most potent
-species (e.g. [[Psilocybe semilanceata]]) can contain up to 1% psilocybin by dry weight. Higher
-potency is reported in [[Psilocybe azurescens]] and [[Psilocybe bohemica]]. Common species like
-[[Psilocybe cubensis]] typically contain up to 0.6% combined psilocybin and psilocin.
+Psilocybin is produced by more than 100 known species of mushroom spanning several fungal families. The primary genera include:
 
-Recreational doses:
-- **Dried mushrooms:** 1 to 3.5 grams (some sources extend to 5 grams)
-- **Fresh mushrooms:** approximately 10 to 50 grams (roughly 10x the dried dose)
+- [[Psilocybe]] (family Strophariaceae): the predominant genus in recreational use
+- [[Conocybe]] (family Bolbitiaceae)
+- [[Copelandia]] and [[Panaeolus]] (family Coprinaceae)
+- [[Inocybe]] (family Cortinariaceae)
 
-The psychoactive threshold is estimated at 45 to 315 micrograms per kilogram of body weight. These
-ranges are approximate because concentration varies significantly between individual mushrooms.
-Short-term tolerance develops rapidly to both physical and psychological effects.
+The list of species and their geographical distribution is continuously revised by mycologists as new taxa are described and existing classifications are refined through molecular phylogenetics.
 
-## Route of Administration and Duration
+Psilocybin is not produced by members of the Agaricaceae family such as [[Amanita muscaria]], which contain entirely different active chemicals including muscimol, ibotenic acid, and muscarine. These compounds act on GABA and glutamate receptors rather than serotonin pathways.
 
-Mushrooms are typically chewed raw or dried, brewed into tea, or chopped into smaller pieces to mask
-the unpleasant taste. Some users report smoking dried mushrooms for faster but milder effects,
-though it is unclear whether smoking reliably produces psychoactive effects.
+## Potency Variation
 
-**Onset:** 10 to 60 minutes, depending on ingestion method, physical condition, food intake, and
-user experience. **Duration:** 2 to 6 hours, with after-effects lasting an additional 2 to 6 hours.
+Potency varies considerably depending on species, variety, geographic origin, growing conditions, and the age of the mushroom at harvest. The most potent species such as [[Psilocybe semilanceata]] (liberty caps) may contain up to 1% psilocybin by dry weight. Specific high-potency species like Psilocybe azurescens and Psilocybe bohemica have been reported with even higher concentrations in certain samples.
 
-## Acute Psychological Effects
+More commonly cultivated species such as [[Psilocybe cubensis]] typically contain psilocybin and psilocin at concentrations up to approximately 0.6%. These values are used for initial orientation only, as actual potency within a single species can vary significantly between individual specimens and between growing batches.
 
-Effects vary greatly between individuals and between episodes of use.
+## Dosage and Psychoactive Thresholds
 
-**Positive ("good trip"):** Mild relaxation, giddiness, uncontrollable laughter, energy, joy,
-euphoria, visual enhancement, mental stimulation, rapidly changing emotions.
+The psychoactive dose of psilocybin is believed to fall between 45 micrograms per kilogram of body weight and 315 micrograms per kilogram of body weight, based on controlled clinical research by Hasler and colleagues in 2004. Translating these figures into mushroom weight is complicated by the variability in psilocybin concentration across species and specimens.
 
-**Negative ("bad trip"):** Anxiety, restlessness, delusions, impaired judgement, depersonalization,
-panic reactions, psychosis-like states, paranoia, total loss of reality.
+For dried mushrooms, the commonly cited recreational dose range is 1 to 5 grams. Fresh mushrooms require approximately 10 times the weight, with dose recommendations ranging from 10 to 50 grams, owing to their approximately 90% water content. Short-term tolerance develops rapidly to both physical and psychological effects, meaning that subsequent doses taken within a short interval require higher amounts to achieve similar psychoactive intensity.
 
-User accounts suggest mushroom effects are generally not viewed as positively as the entactogenic
-effects of ecstasy, which may limit repeat use and social diffusion.
+## Pharmacological Classification of Hallucinogens
 
-## Acute Physiological Effects
+Hallucinogens can be grouped by chemical structure, with chemically related substances tending to exhibit similar pharmacological profiles:
 
-Physiological effects are generally mild: dizziness, nausea, weakness, muscle aching, shivering,
-abdominal pain, pupil dilation (mydriasis), mild-to-moderate increase in heart rate and breathing,
-and blood pressure elevation. Body temperature typically remains normal. Over a quarter of recent
-users in one UK survey reported nausea or vomiting. The temporary blood pressure increase may be a
-risk factor for those with cardiovascular conditions, particularly untreated hypertension.
+- **Indolealkylamines (tryptamines)**: LSD, psilocin, psilocybin, DMT, 5-MeO-DMT
+- **Phenylethylamines**: mescaline, 2C-B, DOM
+- **Cannabinoids**: THC and related cannabis compounds
 
-## Toxicity and Safety Profile
+Psilocybin falls squarely within the tryptamine group, sharing structural similarity with the endogenous neurotransmitter serotonin (5-hydroxytryptamine, 5-HT). It is important to note that the term "hallucinogen" is somewhat misleading, as these substances do not generally cause true hallucinations in the absence of external stimuli. The effects are more accurately described as perceptual distortions, though they also extend beyond perception to include changes in thought, mood, and self-awareness.
 
-Acute toxicity of psilocybin is considered **low**. Fatal intoxications are extremely rare. No
-psychological or physical dependency occurs, and no withdrawal symptoms have been documented. No
-evidence of chronic toxicity or irreversible organ damage from psilocybin has been found. Data on
-mutagenicity and teratogenicity are insufficient to draw conclusions. Benzodiazepines are the
-safest medication for managing acute adverse reactions.
+## Terminology Debate
 
-## Mental Health Considerations
-
-Mental health risks are more commonly associated with use than somatic risks. Acute psychotic
-episodes can occur, particularly in vulnerable individuals: severe anxiety, agitation, confusion,
-bizarre hallucinations, severe paranoia, and risk of accidents or self-injury. "Bad trips" may be
-followed by persistent sadness, depression, and paranoid interpretations lasting days to months.
-[[Flashback]]s can occur, though less frequently than with LSD. In some individuals, use can
-surface underlying psychotic or personality disorders.
+The nomenclature surrounding psilocybin and related substances has been contentious. At different times and in different contexts, these drugs have been called "psychedelic" (mind-opening), "psychotomimetic" (psychosis-resembling), "psychodysleptic" (mind-disrupting), "hallucinogenic," "phantastica," and "oneirogenic," among other terms. The scientific community has largely adopted the term "hallucinogens," while users more commonly prefer "psychedelics." In practice the two terms are used interchangeably in the literature.
 
 ## Legal Status
 
-Psilocybin and psilocin are controlled under the **1971 UN Convention on Psychotropic Substances**,
-listed in Schedule I. All EU member states control these substances. See [[hallucinogenic mushroomlegal status EU]] for country-by-country detail on mushroom legality.
+Psilocybin and its metabolite psilocin are controlled under the 1971 United Nations Convention on Psychotropic Substances, listed in Schedule I under the names psilocybine and psilocine (or psilotsin). All EU Member States control these substances accordingly.
 
-## See Also
+The legal status of the mushrooms themselves has been more complex. Because psilocybin-containing mushrooms grow wild across much of Europe, several countries have faced challenges defining precisely which fungal forms are subject to criminal sanctions. Legal approaches have varied from controlling dried or processed mushrooms only, to defining controlled substances as "organisms" rather than "plants" to close taxonomic loopholes.
 
-- [[powell-mayan-civilisation-and-psilocybin-mushroom-use]]
-- [[psilocybin-mushroom-chemistry]]
-- [[psilocybin-mushroom-substrate-ecology]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+## Acute Toxicity Profile
 
-- [[hallucinogenic mushrooms]]
-- [[Psilocybe cubensis]]
-- [[Psilocybe semilanceata]]
-- [[hallucinogenic mushroom prevalence in Europe]]
-- [[smartshops and hallucinogenic mushroom retail]]
+The acute toxicity of psilocybin is considered low. Fatal intoxications directly attributable to psilocybin mushroom consumption are exceedingly rare, with only one allegedly toxicologically confirmed death reported in France. There is no evidence of chronic toxicity, and no irreversible organ damage from psilocybin has been reported. Psychological and physical dependence does not develop, and there are no recognized withdrawal symptoms. Insufficient data exist regarding mutagenicity and teratogenicity to draw firm conclusions.
+
+## Historical Context
+
+The modern history of psilocybin begins with the 1957 Life magazine article by R. Gordon Wasson, which described his experiences with psychoactive mushrooms in Mexico and introduced the concept of hallucinogenic mushrooms to a broad Western audience for the first time. However, the recreational use of these mushrooms in Europe lay relatively dormant from the late 1950s until the late 1990s, when they began to be marketed alongside other natural products by smartshops in the Netherlands.
+
+The identification and monitoring of hallucinogenic mushrooms as an emerging drug trend in Europe was facilitated by the EMCDDA pilot project E-POD (European Perspectives on Drugs), which collected and analyzed information between July and October 2005 using methods dependent on the triangulation of a wide range of different sources to assess the veracity of accumulated information.
+
+## Prevalence and Patterns of Use
+
+Overall prevalence estimates for use of psilocybin-containing mushrooms in the EU are considerably lower than those for cannabis. Among young people aged 15 to 24, lifetime prevalence across 12 EU Member States ranged from less than 1% to 8%. The Netherlands, Czech Republic, UK, Germany, and Ireland showed the highest prevalence estimates, while Lithuania, Hungary, and France reported the lowest.
+
+However, prevalence estimates for lifetime use of hallucinogenic mushrooms were equal to or higher than lifetime use of ecstasy among school students aged 15 to 16 in nine countries. Among young people who have used other illegal drugs such as LSD, ecstasy, amphetamines, or cocaine, rates of mushroom use were substantially higher than among those who had only used cannabis or legal substances. Male students generally showed higher prevalence rates than females.
+
+## Route of Administration
+
+Mushrooms are typically ingested raw or dried, either chewed and held in the mouth or swallowed directly. Because they generally do not taste pleasant, users often chop them into smaller pieces or brew them into tea. Cooking mushrooms into food may cause additional nausea and vomiting. Some user reports describe smoking dried mushrooms, said to induce faster but milder effects, though it is unclear whether this route produces reliable psychoactive effects.
+
+Onset of effects occurs between 10 and 60 minutes depending on the modality of ingestion, physical condition, food intake, and user experience. The duration of effects typically lasts 2 to 6 hours, with aftereffects persisting an additional 2 to 6 hours. Users report that eating the mushrooms mixed or cooked into food may cause additional nausea and vomiting compared to consuming them raw or as tea.
+
+## Trends Over Time
+
+The only multi-year trend data available on hallucinogenic mushroom use were derived from six consecutive annual readership surveys conducted by a UK clubbing magazine (Mixmag, 2000 to 2005). These data showed that lifetime prevalence estimates increased between 2003 and 2004, while last-month prevalence increased significantly from 2.4% in 2002 to 18% in 2004. However, caution is required in interpreting these data, as different characteristics of the non-probability samples and changes in survey methodology may account for some of the sudden increase.
+
+## Related
+
+- [[psilocybin-biosynthesis-pathway]] Concepts
+
+- [[Psilocybe]] - the predominant mushroom genus containing psilocybin
+- [[Psilocybe cubensis]] - the most commonly cultivated and marketed species
+- [[Psilocybe semilanceata]] - the most common wild European species
+- [[Serotonin]] - the neurotransmitter system through which psilocybin acts
+- [[Bad trip]] - acute psychological adverse reactions to psilocybin
+- [[Hallucinogenic mushroom market in Europe]] - retail and distribution patterns
+- [[Amanita muscaria]] - a chemically distinct hallucinogenic mushroom species
+- [[Conocybe]] - another genus of psilocybin-containing mushrooms

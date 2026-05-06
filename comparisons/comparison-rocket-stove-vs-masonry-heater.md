@@ -1,9 +1,11 @@
 ---
 title: "Rocket Stove vs Masonry Heater"
+created: 2026-04-28
 tags: [comparison, heating, wood-burning, efficient-heating, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Rocket Stove vs Masonry Heater

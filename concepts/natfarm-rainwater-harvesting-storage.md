@@ -1,9 +1,11 @@
 ---
 title: Rainwater Harvesting and Storage
+created: 2026-04-28
 tags: [rainwater, water-storage, water-harvesting, permaculture, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Rainwater Harvesting and Storage

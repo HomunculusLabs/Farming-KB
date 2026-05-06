@@ -1,5 +1,6 @@
 ---
 title: Semiconductor Physics and Devices
+type: concept
 category: physics
 related:
   - statistical-mechanics
@@ -11,6 +12,7 @@ tags: [physics, semiconductor, band-theory, pn-junction, transistor,
   MOSFET, optoelectronics, fabrication, quantum-wells, doping,
   carrier-transport, integrated-circuits, materials-science]
 created: 2026-05-02
+type: concept
 updated: 2026-05-02
 sources: []
 ---

@@ -1,9 +1,11 @@
 ---
 title: "Aquaponics vs Aeroponics"
+created: 2026-04-28
 tags: [comparison, soilless-growing, aquaponics, aeroponics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Aquaponics vs Aeroponics

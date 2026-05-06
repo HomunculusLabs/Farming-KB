@@ -1,9 +1,11 @@
 ---
 title: "How to Choose the Right Cover Crop"
+created: 2026-04-28
 tags: [query, cover-crops, soil-health, organic-farming, green-manure]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Choose the Right Cover Crop

@@ -1,5 +1,6 @@
 ---
 title: Boil-a-Bag Mushroom Cultivation Technique
+created: 2026-04-28
 tags:
   - mushroom cultivation
   - mycology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+type: concept
 ---
 
 # Boil-a-Bag Mushroom Cultivation Technique

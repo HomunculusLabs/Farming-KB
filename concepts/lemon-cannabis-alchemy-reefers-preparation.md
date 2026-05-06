@@ -1,10 +1,12 @@
 ---
 title: Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)
+created: 2026-04-28
 tags: [cannabis, reefers, joints, oil, consumption]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md
+type: concept
 ---
 
 # Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)

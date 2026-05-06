@@ -1,10 +1,12 @@
 ---
 title: "The Cannabis Health Index Score Methodology"
+created: 2026-04-28
 tags: [cannabis, chi-score, evidence-based-medicine, methodology, research-design, clinical-trials, cannabis-health-index]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
+type: concept
 ---
 
 # The Cannabis Health Index Score Methodology
@@ -127,3 +129,9 @@ While the CHI provides a valuable framework, it has several inherent limitations
 ## Summary
 
 The CHI score methodology provides a transparent, reproducible framework for evaluating the strength of scientific evidence supporting cannabis as a treatment for specific conditions. By weighting studies according to the established hierarchy of evidence and accounting for both positive and negative findings, the CHI offers patients and practitioners a nuanced tool for navigating the complex landscape of cannabis research. Its integration of strain-specific considerations, qualitative therapeutic dimensions, and mind-body medicine perspectives distinguishes it from purely pharmacological evidence-rating systems.
+
+## See Also
+
+- [[blesching-cannabis-anorexia-cachexia]]
+- [[blesching-cannabis-therapeutic-window-methodology]]
+- [[blesching-cannabis-rheumatoid-arthritis]]

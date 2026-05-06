@@ -1,10 +1,12 @@
 ---
 title: Fibromyalgia, Cannabis, and the Role of Trauma and Positive Affect
+created: 2026-04-28
 tags: [fibromyalgia, cannabis, nabilone, chronic-pain, trauma, positive-affect,
   tai-chi, mind-body-medicine, cb1-receptors, cb2-receptors]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Fibromyalgia, Cannabis, and the Role of Trauma and Positive Affect

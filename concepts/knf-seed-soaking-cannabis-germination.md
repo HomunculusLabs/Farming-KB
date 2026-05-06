@@ -1,9 +1,11 @@
 ---
 title: KNF Seed Soaking Protocol for Cannabis Germination
+created: 2026-04-28
 tags: [knf, cannabis, seed-germination, natural-farming, organic-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-natural-farming-poster.md]
+type: concept
 ---
 
 # KNF Seed Soaking Protocol for Cannabis Germination

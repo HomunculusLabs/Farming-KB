@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Mushrooms for Beginners to Grow?"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, beginner, gourmet]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Best Mushrooms for Beginners to Grow?

@@ -1,10 +1,12 @@
 ---
 title: Cannabis Chromosomes and Mendelian Inheritance
+created: 2026-04-28
 tags: [genetics, cannabis, breeding, chromosomes, mendelian]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - robert-c-clarke-marijuana-botany-an-advanced-study.md
+type: concept
 ---
 
 # Cannabis Chromosomes and Mendelian Inheritance

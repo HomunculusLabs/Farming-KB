@@ -1,10 +1,12 @@
 ---
 title: Backyard Biodiversity and Pest Management
+created: 2026-04-28
 tags: [permaculture, biodiversity, pest-management, ecological-gardening, wildlife]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Backyard Biodiversity and Pest Management

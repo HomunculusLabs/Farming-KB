@@ -1,9 +1,11 @@
 ---
 title: "Crop Rotation vs Cover Cropping"
+created: 2026-04-28
 tags: [comparison, soil-health, crop-management, cover-crops, rotation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Crop Rotation vs Cover Cropping

@@ -1,9 +1,11 @@
 ---
 title: "Companion Planting vs Trap Cropping"
+created: 2026-04-28
 tags: [comparison, pest-management, organic-gardening, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Companion Planting vs Trap Cropping

@@ -1,5 +1,6 @@
 ---
 title: "MDA Family — Empathogenic Phenethylamines from PIHKAL"
+created: 2026-04-28
 tags:
   - phenethylamines
   - empathogens
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3erpz/wiki/raw/papers/shulgin-a-pihkal.md"
+type: concept
 ---
 
 # MDA Family — Empathogenic Phenethylamines from PIHKAL

@@ -1,10 +1,12 @@
 ---
 title: Psilocybe Genus Diversity and Taxonomy
+created: 2026-04-28
 tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, classification, guzman]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998/2000;14:189-280."
+type: concept
 ---
 
 # Psilocybe Genus Diversity and Taxonomy

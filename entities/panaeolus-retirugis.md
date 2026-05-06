@@ -1,5 +1,6 @@
 ---
 title: "Panaeolus retirugis"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, agaricales, panaeolaceae, panaeolus,
   psychoactive, psilocybin-containing, coprophilous]

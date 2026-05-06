@@ -1,10 +1,12 @@
 ---
 title: "How to Fix Nitrogen Toxicity in Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency-toxicity]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
+type: query
 ---
 
 # How to Fix Nitrogen Toxicity in Cannabis

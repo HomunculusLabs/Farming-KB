@@ -1,9 +1,11 @@
 ---
 title: "Sea of Green vs Screen of Green"
+created: 2026-04-28
 tags: [comparison, cannabis, plant-training, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Sea of Green vs Screen of Green
 ## Overview

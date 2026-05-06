@@ -1,5 +1,6 @@
 ---
 title: Hongo's Nine Distribution Types Applied to Neurotropic Fungi
+created: 2026-04-28
 tags:
   - biogeography
   - distribution-patterns
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Hongo's Nine Distribution Types Applied to Neurotropic Fungi

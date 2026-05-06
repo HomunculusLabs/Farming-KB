@@ -1,10 +1,12 @@
 ---
 title: Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature
+created: 2026-04-28
 tags: [natural-farming, philosophy, epistemology, buddhism, mu, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature

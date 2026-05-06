@@ -1,146 +1,134 @@
 ---
-title: Gymnopilus junonius
+title: "Gymnopilus junonius"
+created: 2026-04-28
 type: species
-tags: [mycology, identification, mushrooms]
+tags: [species, fungus, psychedelic, agaricales, cortinariaceae, gymnopilus, laughing-gym, wood-inhabiting, toxic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - "Guzmán, G. (2009). The Genus Psilocybe: A Systematic Revision of the Known Species. Beihefte zur Nova Hedwigia 74."
+  - "Lincoff, G. (1981). National Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf."
 ---
 
 # Gymnopilus junonius
 
-A large, brightly colored wood-inhabiting mushroom commonly known as the spectacular rustgill or laughing gym.
+Gymnopilus junonius, commonly known as the laughing gym, laughing Jim, or spectacular rustgill, is a large, wood-inhabiting mushroom in the family Cortinariaceae (or Hymenogastraceae under recent phylogenetic reclassifications). Widely distributed across temperate and subtropical regions of the Northern Hemisphere, this species is notable among mycological enthusiasts for containing the psychoactive compounds psilocybin and psilocin, though it is also reported to contain other toxic compounds that make its consumption inadvisable. The species epithet *junonius* refers to Juno, the Roman goddess, a reference to the mushroom's large, majestic fruiting habit. Despite its psychoactive properties, *G. junonius* is generally considered a poisonous mushroom and is not recommended for recreational use.
 
-One of the most widely distributed members of the genus Gymnopilus, with a history of reported (though variable) [[psilocybin]] content.
+## Taxonomy and Classification
 
-Notable for its large size, brilliant orange coloration, and intensely bitter taste.
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Cortinariaceae (sensu traditional) / Hymenogastraceae (sensu recent molecular phylogeny)
+- **Genus:** *Gymnopilus* P. Karst.
+- **Species:** *G. junonius* (Fr.) P.D. Orton
+- **Basionym:** *Agaricus junonius* Fr. (1821)
+- **Synonyms:** *Gymnopilus spectabilis* (Fr.) A.H. Sm. & Singer (widely used in North American literature), *Agaricus spectabilis* Fr., *Fulvidula spectabilis* (Fr.) Pat.
+- **Common names:** Laughing gym, laughing Jim, spectacular rustgill, big laughing gym
 
-## Taxonomy and Nomenclature
-
-Complex taxonomic history with numerous synonyms including *Gymnopilus spectabilis*, *Gymnopilus junonius* var. *junonius*, and *Pholiota spectabilis*.
-
-Many mycological references continue to use *Gymnopilus spectabilis* as the accepted name.
-
-Modern treatments increasingly favor *Gymnopilus junonius* as the correct basionym.
-
-The genus name derives from Greek *gymnos* (naked) and *pilus* (cap), referring to the smooth bare cap surface characteristic of the genus.
-
-The genus contains approximately 200 species worldwide, the majority saprophytic on wood and non-psychoactive.
-
-## Distribution
-
-Broad distribution across temperate and subtropical regions worldwide.
-
-Found throughout North America, Europe, Asia, and parts of Australia and South America.
-
-Grows on dead wood, stumps, buried roots, and occasionally at the base of living trees.
-
-Shows a preference for large hardwoods such as Quercus (oak) and Fagus (beech).
-
-Also commonly found on conifers including Pinus (pine) and Picea (spruce).
-
-Fruiting occurs from late summer through autumn (August to November in the Northern Hemisphere).
-
-Often fruits in large clusters or tufts, and can reappear in the same location for multiple years.
+### Taxonomic Notes
+The *Gymnopilus junonius*–*spectabilis* complex has undergone significant taxonomic revision. North American mycologists historically used *G. spectabilis*, while European workers used *G. junonius*. Modern molecular studies suggest these may represent a species complex with multiple distinct lineages across different geographic regions. Japanese specimens assigned to *G. junonius* have been confirmed to contain psilocybin and bis-noryangonin, while some North American collections identified as *G. spectabilis* show variable or absent psychoactive alkaloid profiles.
 
 ## Morphology
 
-### Cap
+### Cap (Pileus)
+The pileus is large, measuring 5–20 cm (2–8 inches) in diameter, convex to broadly convex when young, expanding to plane or slightly depressed at maturity. The cap surface is dry to subviscid, smooth to finely fibrillose, with colors ranging from bright orange to orange-brown or rusty orange. The margin is incurved when young, often with remnants of a partial veil, and becomes straight to slightly uplifted at maturity. The cap flesh is thick, firm, and pale yellow-orange, darkening to rusty brown when bruised or cut.
 
-Large and fleshy, 50-200 mm diameter, making it one of the larger psilocybin-containing mushrooms.
+### Gills (Lamellae)
+The gills are adnate to adnexed (narrowly attached to the stem) or occasionally notched, close to crowded, and moderately broad. Young gills are pale yellow to cream-colored, maturing through rusty yellow to a characteristic rusty brown or cinnamon-rust color as spores mature. The rusty spore print is a key diagnostic feature distinguishing *Gymnopilus* from superficially similar genera.
 
-Convex when young, becoming broadly convex to plane or slightly depressed with age.
+### Stem (Stipe)
+The stipe measures 6–15 cm (2.4–6 inches) in length and 1–3 cm (0.4–1.2 inches) in thickness, central, and equal or slightly tapered toward the base. The surface is dry, fibrillose to scaly, and colored pale yellow to orange above the annulus zone, darker below. The partial veil leaves a persistent or ephemeral annulus (ring) that is membranous, orange-yellow, and often darkened by deposited spores. The stem base is typically slightly thickened or bulbous, and the context is fibrous and tough.
 
-Surface smooth, dry, covered with fine radial fibrils.
+### Spores and Microscopic Features
+- **Spore print:** Rusty brown to ferruginous (cinnamon-rust)
+- **Spore dimensions:** 7.5–10 × 5–7 µm, broadly ellipsoid to ellipsoid, with a moderately thick wall
+- **Spore ornamentation:** Rough to warty under light microscopy; rugose to verrucose under scanning electron microscopy
+- **Basidia:** 4-spored, clavate, 20–28 × 6–8 µm
+- **Cystidia:** Cheilocystidia present as thin-walled, cylindrical to ventricose elements; pleurocystidia absent or rare
+- **Pileipellis:** A cutis of parallel, interwoven hyphae with occasional clamp connections
 
-Striking bright orange to rusty orange or yellow-orange when fresh, fading to dull ochraceous or tan with age.
+## Distribution and Habitat
 
-Margin often slightly curved inward in young specimens, may become slightly wavy at maturity.
+### Geographic Range
+*Gymnopilus junonius* has a broad distribution across the Northern Hemisphere:
 
-### Gills
+- **Europe:** Widespread and common, particularly in western, central, and southern Europe
+- **North America:** Reported from eastern Canada to the southeastern United States, and along the Pacific coast from British Columbia to California
+- **Asia:** Recorded from Japan, Korea, China, and the Russian Far East
+- **Oceania:** Reported in southeastern Australia and New Zealand (possibly introduced)
+- **South America:** Rare records from southern Brazil and Argentina
 
-Adnate to adnexate attachment, crowded.
+### Substrate and Ecology
+*G. junonius* is a saprotrophic wood-decay fungus with the following ecological preferences:
 
-Characteristically rusty orange to rusty brown, a defining feature of the genus Gymnopilus.
+- **Primary substrate:** Dead or dying hardwoods, particularly oaks (*Quercus* spp.), maples (*Acer* spp.), beech (*Fagus* spp.), and various fruit trees in the Rosaceae
+- **Occasional substrate:** Conifer stumps and logs, especially spruce (*Picea*) and pine (*Pinus*) in mixed forests
+- **Growth pattern:** Solitary to gregarious, occasionally in large clusters (cespitose) on decaying logs, stumps, buried roots, and standing dead trees
+- **Fruiting season:** Late summer to autumn (August–November in the Northern Hemisphere); occasionally fruiting in spring in warmer climates
+- **Ecological role:** A brown rot decomposer that degrades cellulose and hemicellulose in wood, contributing to nutrient cycling in forest ecosystems
 
-In young specimens, gills may appear more yellowish, darkening with spore maturity.
+## Phytochemistry and Psychoactive Properties
 
-Gill edges often slightly paler and may be finely fimbriate.
+### Active Compounds
+The psychoactive profile of *G. junonius* is complex and variable:
 
-### Stem
+- **Psilocybin:** 0.02–0.35% dry weight (highly variable by specimen and geography). Japanese collections have consistently tested positive; North American specimens show greater variability
+- **Psilocin:** Present in trace amounts, typically below 0.01% dry weight
+- **Bis-noryangonin:** A unique prenylated flavonoid identified in Japanese specimens of *G. junonius*, not found in psilocybin-containing *Psilocybe* species. May act as a weak monoamine oxidase inhibitor (MAOI), potentially modulating the psychedelic experience
+- **Gymnopilin:** An unspecified toxic compound (or compounds) reported to cause gastrointestinal distress, nausea, and cramping
 
-Robust and solid, 50-150 mm long, 8-25 mm thick.
+### Pharmacological Notes
+The presence of bis-noryangonin is of particular pharmacological interest, as its MAOI activity could theoretically potentiate the effects of psilocybin and psilocin by inhibiting their metabolic breakdown. However, the actual contribution of bis-noryangonin to the subjective experience remains poorly characterized. The variable psilocybin content across geographic populations raises questions about whether the psychoactive phenotype is genetically fixed or environmentally modulated.
 
-Cylindrical or slightly tapering toward the base.
+### Toxicity Concerns
+Despite containing psilocybin, *G. junonius* is NOT recommended for consumption for several reasons:
 
-Pale yellowish to pale orange, often developing rusty-brown tones with age or where handled.
+- **Gastrointestinal toxicity:** Consumption is frequently associated with nausea, vomiting, abdominal cramping, and diarrhea, even in specimens confirmed to contain psilocybin
+- **Unpredictable potency:** The extreme variability in psilocybin content makes dose estimation essentially impossible
+- **Potential misidentification:** The genus *Gymnopilus* contains numerous species, some of which may be more toxic than others. Confusion with the deadly Galerina marginata complex (which has a similar rusty spore print and wood-inhabiting habit) poses a lethal risk
+- **Species complex uncertainty:** The unresolved taxonomy means that specimens identified as *G. junonius* may in fact be different species with different chemical profiles
 
-Surface may be fibrillose or finely scaly, especially below the annulus.
+## Edibility
 
-A persistent membranous ring (annulus) usually present in the upper stem portion, though may be lost in very mature specimens.
+*Gymnopilus junonius* is classified as **toxic / inedible**. The combination of gastrointestinal irritants and unpredictable psychoactive compounds makes intentional consumption unwise. There are no credible reports of fatal poisoning, but severe nausea and disorientation have been documented. The mushroom's tough, bitter flesh further discourages any culinary interest.
 
-### Microscopic Features
+## Lookalikes and Identification Challenges
 
-Spores elliptical to amygdaliform, approximately 7-10 x 5-6.5 um.
+- **Galerina marginata (Deadly Galerina):** Shares the wood-inhabiting habit, similar cap coloration, and rusty-brown spore print. *G. marginata* contains lethal amatoxins (α-amanitin, β-amanitin) identical to those found in *Amanita phalloides*. This is the most dangerous potential confusion and underscores the importance of accurate identification. Key distinguishing features: *G. marginata* has a thinner, more fragile stature, a thinner annulus, and smaller spores (8–10 × 5–6 µm with a smooth to finely roughened surface)
+- **Gymnopilus sapineus:** A smaller, less robust species with a paler cap and thinner flesh. Generally considered non-psychoactive. Spores are smaller (6–8 × 4–5 µm)
+- **Gymnopilus luteofolius:** A purple-capped species with a brighter coloration and more slender stature. Found primarily in the southeastern United States on conifer debris
+- **Cortinarius species:** Several rusty-spored Cortinarius species could be confused with *G. junonius*, but these typically have a cobweb-like partial veil (cortina) rather than a true annulus, and grow from soil rather than directly on wood
 
-Spore print distinctly rusty brown to ferruginous, a key diagnostic character for the genus Gymnopilus.
+## Related
 
-Spores roughened or warted (echinulate) in mature specimens.
+- [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
+- [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
+- [[gymnopilus-purpuratus]]
+- [[gymnopilus-brunneus]]
+- [[gymnopilus-ventricosus]] Species
 
-Basidia 4-spored and clamped.
+- **Gymnopilus spectabilis:** Widely regarded as a synonym of *G. junonius* in current North American usage; the distinction between the two names is primarily nomenclatural rather than biological
+- **Gymnopilus purpuratus:** A South American and Australasian species confirmed to contain significant concentrations of psilocybin (0.4% dry weight), making it the most potent psychoactive species in the genus
+- **Gymnopilus aeruginosus:** A bluish-green capped species found on conifer wood in western North America; contains psilocybin but at lower concentrations than *G. junonius*
+- **Gymnopilus luteus:** An eastern North American species with variable psilocybin content; historically confused with *G. junonius* but genetically distinct
 
-Cheilocystidia and pleurocystidia present, the latter more numerous and distinctive.
+## Cultural and Historical Significance
 
-### Odor and Taste
+The common name "laughing gym" reflects the psychoactive properties of the genus, though the name was popularized through mycological field guides in the mid-20th century rather than arising from indigenous cultural use. Unlike psilocybin mushrooms in the genus *Psilocybe*, *Gymnopilus junonius* does not appear to have a significant history of ceremonial or spiritual use in any known culture. This may reflect the species' gastrointestinal toxicity, which would have discouraged sustained traditional use despite its psychoactive effects.
 
-Mild to somewhat farinaceous (flour-like) odor.
+In Japan, where *G. junonius* is called *waraitake* (笑い茸, "laughing mushroom"), the species has been documented in the mycological literature since the 19th century. Japanese researchers were among the first to identify psilocybin in *Gymnopilus* specimens in the 1960s and 1970s, contributing to the broader discovery of psilocybin's distribution beyond the genus *Psilocybe*.
 
-Taste is distinctly bitter to acrid — an important field identification character and a natural deterrent to consumption.
+In Western counterculture, the species has a minor but persistent presence as a curiosity among experienced mycophiles, though it is far less commonly sought than *Psilocybe cubensis*, *P. cyanescens*, or *P. semilanceata*. Online mycology forums generally discourage consumption due to the unpredictable effects and risk of misidentification with deadly *Galerina* species.
 
-The bitterness is persistent and does not diminish with cooking.
+## Cultivation and Laboratory Notes
 
-## Chemistry and Psychoactivity
+*Gymnopilus junonius* is not commercially cultivated for food or recreational purposes, but it can be grown on sterilized hardwood substrates for research or collection purposes. The species is a brown-rot fungus that degrades cellulose but leaves lignin largely intact:
 
-The psychoactive status of gymnopilus junonius is a subject of ongoing discussion.
-
-Early reports by [[jonathan-ott]] and others documented [[psilocybin]] and [[psilocin]] in some collections, but subsequent analyses have yielded highly variable results.
-
-Some collections confirmed to contain [[psilocybin]] at 0.01-0.3% dry weight.
-
-Other collections from different geographic regions have tested negative for psilocybin and psilocin entirely.
-
-The compound bis-noryangonin has also been detected in some specimens.
-
-This chemical variability may reflect the existence of multiple cryptic species currently lumped under the *Gymnopilus junonius* concept.
-
-The related [[gymnopilus-purpuratus]] and [[gymnopilus-luteofolius]] are more consistently psychoactive.
-
-The common name "laughing gym" derives from anecdotal accounts of laughter provoked by ingestion.
-
-Reliable reports of psychoactive effects are scarce compared to those involving [[psilocybe-aeruginosa]] species.
-
-## Similar Species
-
-[[gymnopilus-purpuratus]] — Smaller stature with purple tinges, more consistently psychoactive.
-
-[[gymnopilus-luteofolius]] — Bright yellow-orange with greenish tints, also contains psilocybin.
-
-[[gymnopilus-spectabilis]] — Often considered synonymous, treated separately by some authorities.
-
-[[gymnopilus-validipes]] — A North American species with similar habitat preferences.
-
-## Toxicity Notes
-
-The extreme bitterness serves as a natural deterrent to consumption.
-
-While some collections contain psilocybin, the variable chemistry means identification should be approached with caution.
-
-The genus Gymnopilus contains non-psychoactive species that could be confused with psychoactive ones.
-
-No fatalities have been reported from consumption, but gastrointestinal distress is possible.
-
-## See Also
-
-- [[gymnopilus-ventricosus]]
-- [[gymnopilus-viridans]]
+- **Substrate:** Hardwood sawdust (oak, beech, or maple) supplemented with wheat bran (10–20%) at field capacity moisture. Hardwood chips and logs can also be inoculated with plug spawn or grain spawn
+- **Fruiting conditions:** Requires high humidity (85–95% RH), fresh air exchange, and moderate temperatures (18–22°C / 64–72°F). A cold shock (4°C for 48–72 hours) may help initiate fruiting
+- **Colonization time:** 2–4 weeks on supplemented sawdust at 22–25°C (72–77°F)
+- **Yield:** Moderate; biological efficiency of 20–40% on supplemented sawdust
+- **Contamination:** Susceptible to Trichoderma and other green mold competitors during colonization; pasteurized substrates carry higher contamination risk than fully sterilized media

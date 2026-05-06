@@ -1,9 +1,11 @@
 ---
 title: JADAM Natural Mineral Leaching and Replenishment
+created: 2026-04-28
 tags: [jadam, soil-minerals, nutrient-cycling, mineral-depletion]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Natural Mineral Leaching and Replenishment

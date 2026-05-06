@@ -1,10 +1,12 @@
 ---
 title: EMCDDA Hallucinogenic Mushroom Polydrug Use and Social Context
+created: 2026-04-28
 tags: [emcdda, hallucinogenic-mushrooms, psilocybin, polydrug, prevalence, eu-drug-policy, espad, cubensis, amanita-muscaria, smartshop, clubbing, recreational-use, mushroom-market]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Polydrug Use and Social Context

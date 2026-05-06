@@ -1,5 +1,6 @@
 ---
 title: PF Tek Inoculation Without Lids and Alcohol Flaming Technique
+created: 2026-04-28
 tags:
   - pf-tek
   - inoculation
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # PF Tek Inoculation Without Lids and Alcohol Flaming Technique

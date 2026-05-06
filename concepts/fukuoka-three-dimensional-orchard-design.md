@@ -1,9 +1,11 @@
 ---
 title: "Three-Dimensional Natural Orchard Design"
+created: 2026-04-28
 tags: [orchard-design, polyculture, agroforestry, companion-planting, three-dimensional-farming, shelterbelt]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 To create a natural orchard, one must observe the principle of

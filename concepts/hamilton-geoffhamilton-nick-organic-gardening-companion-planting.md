@@ -1,9 +1,11 @@
 ---
 title: Companion Planting
+created: 2026-04-28
 tags: [companion-planting, organic-gardening, pest-control, biodiversity, planting-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Companion Planting

@@ -1,5 +1,6 @@
 ---
 title: Lobaria pulmonaria
+created: 2026-04-28
 type: species
 tags: [lichen, ascomycete, old-growth, bioindicator, foliose]
 date: 2026-04-28

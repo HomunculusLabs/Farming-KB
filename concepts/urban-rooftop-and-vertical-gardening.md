@@ -1,9 +1,11 @@
 ---
 title: Urban Rooftop and Vertical Gardening
+created: 2026-04-28
 tags: [urban-permaculture, rooftop-garden, vertical-garden, container-growing, urban-farming]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md, raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Urban Rooftop and Vertical Gardening

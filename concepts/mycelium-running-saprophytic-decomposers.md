@@ -1,9 +1,11 @@
 ---
 title: "Saprophytic Mushrooms and Decomposition"
+created: 2026-04-28
 tags: [mycology, decomposition, saprophyte, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Saprophytic Mushrooms and Decomposition

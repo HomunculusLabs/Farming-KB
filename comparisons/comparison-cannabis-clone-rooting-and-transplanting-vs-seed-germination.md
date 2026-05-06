@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Clone Rooting vs Seed Germination"
+created: 2026-04-28
 tags: [comparison, cloning, germination, propagation, genetics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Cannabis Clone Rooting vs Seed Germination

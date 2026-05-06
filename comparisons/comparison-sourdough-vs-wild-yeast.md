@@ -1,9 +1,11 @@
 ---
 title: "Sourdough vs Wild Yeast Baking"
+created: 2026-04-28
 tags: [comparison, fermentation, bread-baking, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Sourdough vs Wild Yeast Baking

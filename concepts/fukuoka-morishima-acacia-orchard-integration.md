@@ -1,5 +1,6 @@
 ---
 title: Morishima Acacia Orchard Integration
+created: 2026-04-28
 tags:
   - agroforestry
   - orchard-management
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+type: concept
 ---
 
 # Morishima Acacia Orchard Integration

@@ -1,9 +1,11 @@
 ---
 title: "Tetrahydrocannabivarin (THCV)"
+created: 2026-04-28
 tags: [cannabinoid, cannabis, minor-cannabinoid, varinoid]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # Tetrahydrocannabivarin (THCV)

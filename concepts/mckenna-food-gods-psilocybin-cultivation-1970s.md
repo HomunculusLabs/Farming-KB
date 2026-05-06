@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Home Cultivation Movement 1970s Food of the Gods
+created: 2026-04-28
 tags: [psilocybin, cultivation, history, mckenna, underground]
 date: 2026-04-28
 updated: 2026-04-28

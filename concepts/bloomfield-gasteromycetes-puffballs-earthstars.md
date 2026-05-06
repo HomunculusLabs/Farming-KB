@@ -1,11 +1,13 @@
 ---
 title: Gasteromycetes: Puffballs, Earthstars, and Bird's Nest Fungi
+created: 2026-04-28
 tags: [gasteromycete, puffball, earthstar, birds-nest-fungus, spore-dispersal,
       stinkhorn, sphaerobolus, basidiomycete, fungus-evolution]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 The gasteromycetes are a diverse group of fungi that have evolved

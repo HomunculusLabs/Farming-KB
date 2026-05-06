@@ -1,9 +1,11 @@
 ---
 title: "How to Set Up a Backyard Pond for Wildlife"
+created: 2026-04-28
 tags: [query, water-management, wildlife-habitat, permaculture, backyard-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Set Up a Backyard Pond for Wildlife

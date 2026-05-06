@@ -1,5 +1,6 @@
 ---
 title: Sanguinaria canadensis
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -162,6 +163,8 @@ The alkaloid-rich latex serves as an effective deterrent against most mammalian 
 The greatest threat to wild populations is **habitat destruction** from urbanization and forestry, combined with unsustainable wild harvesting driven by herbal supplement demand. Cultivated bloodroot is commercially available and should be preferred over wild-collected material.
 
 ## See Also
+
+- [[hydrastis-canadensis]]
 
 - [[chelidonium-majus]]
 - [[fungal-spores]]

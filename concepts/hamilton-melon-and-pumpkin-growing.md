@@ -1,10 +1,12 @@
 ---
 title: "Melon and Pumpkin Growing Organic"
+created: 2026-04-28
 tags: [melon, pumpkin, squash, vegetable-growing, cucurbitae]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Melon and Pumpkin Growing Organic

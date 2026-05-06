@@ -1,10 +1,12 @@
 ---
 title: Victorian Mushroom Cooking Recipes
+created: 2026-04-28
 tags: [mushroom-cooking, victorian-recipes, culinary-history, preservation, falconer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
+type: concept
 ---
 
 # Victorian [[mushroom-cooking-catsup]] Recipes

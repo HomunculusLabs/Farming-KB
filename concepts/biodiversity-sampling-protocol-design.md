@@ -1,5 +1,6 @@
 ---
 title: "Sampling Protocol Design for Fungal Biodiversity Studies"
+created: 2026-04-28
 tags:
   - sampling-design
   - methodology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+type: concept
 ---
 
 # Sampling Protocol Design for [[fungal-biodiversity]] Studies

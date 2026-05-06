@@ -1,5 +1,6 @@
 ---
 title: Copelandia anomalus
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, copelandia, entheogenic, agaricales, dung-inhabiting]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Natural Farming Poster: Korean Natural Farming Methods Summary"
+created: 2026-04-28
 tags: [farming, knf, korean-natural-farming, fermented-extracts, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-natural-farming-poster.md]
+type: concept
 ---
 
 # Natural Farming Poster: [[korean-natural-farming]] Methods Summary

@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Topping and Fimming Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, training, topping, fimming, plant-shaping]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Topping and Fimming Cannabis?

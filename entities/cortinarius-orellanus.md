@@ -1,5 +1,6 @@
 ---
 title: "Cortinarius orellanus"
+created: 2026-04-28
 type: species
 tags: [fungi, species, poisonous, cortinariaceae, deadly]
 date: 2026-04-28

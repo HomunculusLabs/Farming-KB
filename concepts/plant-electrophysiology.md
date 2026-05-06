@@ -1,10 +1,12 @@
 ---
 title: Plant Electrophysiology
+created: 2026-04-28
 tags: [plant-biology, electrophysiology, signaling, action-potentials]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Plant Electrophysiology

@@ -1,9 +1,11 @@
 ---
 title: "KNF LAB Culturing and Uses"
+created: 2026-04-28
 tags: [knf, natural-farming, lab, lactic-acid-bacteria, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF LAB Culturing and Uses

@@ -1,5 +1,6 @@
 ---
 title: "Sclerotinia sclerotiorum"
+created: 2026-04-28
 type: species
 tags: [ascomycete, plant-pathogen, sclerotium-forming, necrotroph]
 date: 2026-04-28

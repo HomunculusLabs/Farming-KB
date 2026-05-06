@@ -1,9 +1,11 @@
 ---
 title: "LSD Black Market and Dangers of Nonmedicinal Use"
+created: 2026-04-28
 tags: [lsd, hofmann, drug-policy, harm-reduction, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+type: concept
 ---
 
 # LSD Black Market and Dangers of Nonmedicinal Use

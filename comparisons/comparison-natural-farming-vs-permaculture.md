@@ -1,9 +1,11 @@
 ---
 title: "Natural Farming vs Permaculture"
+created: 2026-04-28
 tags: [comparison, farming-philosophy, natural-farming, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/chos-global-natural-farming.md]
+type: comparison
 ---
 
 # Natural Farming vs Permaculture

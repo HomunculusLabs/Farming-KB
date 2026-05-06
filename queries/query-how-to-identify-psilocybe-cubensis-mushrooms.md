@@ -1,9 +1,11 @@
 ---
 title: "How Do I Identify Psilocybe Cubensis Mushrooms?"
+created: 2026-04-28
 tags: [query, mycology, mushroom-identification, psilocybin]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
+type: query
 ---
 
 # How Do I Identify Psilocybe Cubensis Mushrooms?

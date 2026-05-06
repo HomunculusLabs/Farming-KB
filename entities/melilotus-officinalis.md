@@ -1,5 +1,6 @@
 ---
 title: Melilotus officinalis
+created: 2026-04-28
 type: species
 tags:
   - medicinal-plant
@@ -123,6 +124,8 @@ In permaculture systems, sweet clover serves multiple functions simultaneously:
   this is limited.
 
 ## See Also
+
+- [[salvia-officinalis]]
 
 - [[Trifolium repens]]
 - [[Vicia villosa]]

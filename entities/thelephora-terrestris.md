@@ -1,5 +1,6 @@
 ---
 title: Thelephora terrestris
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, nursery-fungus, reforestation, bioremediation]
 date: 2026-04-28
@@ -117,6 +118,8 @@ Thelephora terrestris was found fortuitously colonizing pine seedlings along wit
 Thelephora terrestris is most similar to Suillus bovinus in decomposition suppression behavior but differs in its much broader host range. Compared to Pisolithus tinctorius, it is significantly less effective for mine reclamation (250% less tree volume).
 
 ## See Also
+
+- [[tribulus-terrestris]]
 
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 

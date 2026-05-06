@@ -1,10 +1,12 @@
 ---
 title: "How to Get Rid of Slugs and Snails Organically"
+created: 2026-04-28
 tags: [query, organic-gardening, pest-control, slugs, snails]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Get Rid of Slugs and Snails Organically

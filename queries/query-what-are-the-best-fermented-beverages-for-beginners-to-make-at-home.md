@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Fermented Beverages for Beginners to Make at Home?"
+created: 2026-04-28
 tags:
   - fermentation
   - beverages
@@ -19,6 +20,7 @@ sources:
   - https://www.culturesforhealth.com/
   - https://www.thekitchn.com/beginner-fermented-beverages-231560
   - https://www.sciencedirect.com/topics/food-science/fermented-beverages
+type: query
 ---
 
 # What Are the Best Fermented Beverages for Beginners to Make at Home?

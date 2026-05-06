@@ -1,9 +1,11 @@
 ---
 title: "persimmon"
+created: 2026-04-28
 tags: [species, plant, fruit-tree, deciduous, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Persimmon

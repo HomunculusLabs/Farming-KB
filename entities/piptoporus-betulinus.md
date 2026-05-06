@@ -1,5 +1,6 @@
 ---
 title: piptoporus betulinus
+created: 2026-04-28
 type: species
 tags: [mycology, polypores, birch, piptoporus]
 date: 2026-04-28

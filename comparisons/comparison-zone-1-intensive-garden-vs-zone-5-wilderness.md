@@ -1,9 +1,11 @@
 ---
 title: "Zone 1 Intensive Garden vs Zone 5 Wilderness"
+created: 2026-04-28
 tags: [comparison, permaculture, zone-design, land-management, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Zone 1 Intensive Garden vs Zone 5 Wilderness

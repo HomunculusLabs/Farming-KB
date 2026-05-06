@@ -1,11 +1,13 @@
 ---
 title: Ingoldian Fungi and Aquatic Spore Dispersal
+created: 2026-04-28
 tags: [ingoldian-fungi, aquatic-fungi, spore-dispersal, tetraradiate-spores,
       cecil-ingold, leaf-decomposition, stream-ecology, freshwater-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Ingoldian fungi are a remarkable group of aquatic microfungi that

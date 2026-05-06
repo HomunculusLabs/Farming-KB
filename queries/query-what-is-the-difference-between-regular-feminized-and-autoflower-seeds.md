@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Regular, Feminized, and Autoflower Seeds?"
+created: 2026-04-28
 tags: [query, cannabis, genetics, seeds, breeding]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Regular, Feminized, and Autoflower Seeds?

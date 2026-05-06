@@ -1,11 +1,13 @@
 ---
 title: Enterprise Development for Mushroom Growers
+created: 2026-04-28
 tags: [enterprise-development, business-management, record-keeping,
   income-generation, mushroom-business]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Enterprise Development for Mushroom Growers

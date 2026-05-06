@@ -1,9 +1,11 @@
 ---
 title: "How to Start Beekeeping in Your Backyard?"
+created: 2026-04-28
 tags: [query, beekeeping, pollinators, homesteading, honey]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Start Beekeeping in Your Backyard?

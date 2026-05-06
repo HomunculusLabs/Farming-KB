@@ -1,5 +1,6 @@
 ---
 title: Acetyl Protection Route in Psilocin and Psilocybin Synthesis
+created: 2026-04-28
 tags:
   - psilocybin
   - psilocin
@@ -17,6 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shirota O, Hakamata W, Goda Y (2003) "Concise Large-Scale Synthesis of Psilocin and Psilocybin, Principal Hallucinogenic Constituents of 'Magic Mushroom.'" Journal of Natural Products 66(6): 885-887.
+type: concept
 ---
 
 # Acetyl Protection Route in Psilocin and Psilocybin Synthesis

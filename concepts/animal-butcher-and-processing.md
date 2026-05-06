@@ -1,6 +1,8 @@
 ---
 title: animal butcher and processing
+type: concept
 created: 2026-04-12
+type: concept
 updated: 2026-04-12
 tyhomesteadingtags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources:

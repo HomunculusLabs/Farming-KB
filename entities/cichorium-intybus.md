@@ -1,5 +1,6 @@
 ---
 title: "Cichorium intybus"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, species, asteraceae, foraging, permaculture,
   edible, medicinal, coffee-substitute]

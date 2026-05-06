@@ -1,6 +1,8 @@
 ---
 title: Mycoremediation of Heavy Metals
+created: 2026-04-28
 tags: [mycoremediation, heavy-metals, bioremediation, pollution, fungi]
+type: concept
 ---
 
 # Mycoremediation of Heavy Metals

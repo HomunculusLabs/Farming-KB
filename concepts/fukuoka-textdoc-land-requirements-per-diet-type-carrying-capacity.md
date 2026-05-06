@@ -1,10 +1,12 @@
 ---
 title: "Land Requirements Per Diet Type and Carrying Capacity"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, land-use, caloric-efficiency, diet, carrying-capacity, livestock, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Land Requirements Per Diet Type and Carrying Capacity

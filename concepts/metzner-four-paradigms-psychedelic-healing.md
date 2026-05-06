@@ -1,9 +1,11 @@
 ---
 title: "Metzner: Four Paradigms of Hallucinogen Use in Healing"
+created: 2026-04-28
 tags: [metzner, psychotherapy, shamanism, psychedelics, hallucinogens, entheogens, healing-paradigms, consciousness]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+type: concept
 ---
 
 # Metzner: Four Paradigms of Hallucinogen Use in Healing

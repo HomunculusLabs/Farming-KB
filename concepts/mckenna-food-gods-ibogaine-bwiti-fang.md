@@ -1,5 +1,6 @@
 ---
 title: Ibogaine, Bwiti, and the Fang in Food of the Gods
+created: 2026-04-28
 tags: [ibogaine, bwiti, mckenna, ethnobotany, sexuality]
 date: 2026-04-28
 updated: 2026-04-28

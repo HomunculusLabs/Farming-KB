@@ -1,9 +1,11 @@
 ---
 title: "Can Fungi Break Down Plastic Pollution?"
+created: 2026-04-28
 tags: [query, mycoremediation, fungi, plastic, pollution, biodegradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # Can Fungi Break Down Plastic Pollution?

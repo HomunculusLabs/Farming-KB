@@ -1,10 +1,12 @@
 ---
 title: Cannabis Grafting and Intergeneric Humulus Grafts
+created: 2026-04-28
 tags: [cannabis, grafting, humulus, hops, propagation, clarke]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # cannabis grafting intergeneric humulus clarke

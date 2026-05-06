@@ -1,5 +1,6 @@
 ---
 title: Talaromyces flavus
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, biocontrol, sclerotial-parasite, soil-fungi]
 date: 2026-04-28

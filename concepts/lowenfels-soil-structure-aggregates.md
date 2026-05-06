@@ -1,9 +1,11 @@
 ---
 title: "Soil Structure and Aggregates"
+created: 2026-04-28
 tags: [soil-science, soil-structure, aggregates, porosity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Soil structure refers to how individual soil particles are arranged into larger

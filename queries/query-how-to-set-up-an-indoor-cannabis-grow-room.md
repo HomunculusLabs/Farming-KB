@@ -1,9 +1,11 @@
 ---
 title: "How to Set Up an Indoor Cannabis Grow Room"
+created: 2026-04-28
 tags: [query, cannabis, indoor-growing, setup, equipment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Set Up an Indoor Cannabis Grow Room

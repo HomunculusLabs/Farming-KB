@@ -1,5 +1,6 @@
 ---
 title: Bacillus subtilis
+created: 2026-04-28
 type: organism
 subtype: bacterium
 aliases:

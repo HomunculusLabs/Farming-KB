@@ -1,5 +1,6 @@
 ---
 title: "4-Hydroxyindole"
+created: 2026-04-28
 type: chemical
 tags: [indole, precursor, synthetic-intermediate, organic-chemistry]
 date: 2026-04-28

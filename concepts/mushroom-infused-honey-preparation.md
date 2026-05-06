@@ -1,5 +1,6 @@
 ---
 title: "Mushroom-Infused Honey Preparation and Medicinal Uses"
+created: 2026-04-28
 tags:
   - mushroom-products
   - medicinal-mushrooms
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation
+type: concept
 ---
 
 # Mushroom-Infused Honey Preparation and Medicinal Uses

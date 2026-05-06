@@ -1,5 +1,6 @@
 ---
 title: "Pulsatilla vulgaris"
+created: 2026-04-28
 type: species
 tags:
   - herbal
@@ -131,6 +132,8 @@ Requires excellent drainage, full sun, and alkaline soil.
   (red), 'Alba' (white)
 
 ## See Also
+
+- [[alchemilla-vulgaris]]
 
 - [[berberis-vulgaris]]
 - [[prunella-vulgaris]]

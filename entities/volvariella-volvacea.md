@@ -1,5 +1,6 @@
 ---
 title: Volvariella volvacea
+created: 2026-04-28
 type: species
 tags: [basidiomycota, saprotrophic, edible-mushroom, pluteaceae, cultivation]
 date: 2026-04-28
@@ -80,6 +81,8 @@ Additionally, *V. volvacea* contains thermostable toxins that can cause acute ki
 
 
 ## See Also
+
+- [[amanita-virosa]]
 
 - [[coprinus-comatus-detailed]]
 - [[amanita-phalloides]]

@@ -1,5 +1,6 @@
 ---
 title: Kefir vs Yogurt
+created: 2026-04-28
 tags: [fermentation, dairy, probiotics, nutrition, comparison, cultured-milk, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - https://doi.org/10.1016/j.cofs.2021.10.009
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284178/
   - https://www.sciencedirect.com/science/article/pii/S0958169417300635
+type: comparison
 ---
 
 # Kefir vs Yogurt

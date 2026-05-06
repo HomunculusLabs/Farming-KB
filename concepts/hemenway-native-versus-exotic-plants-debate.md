@@ -1,9 +1,11 @@
 ---
 title: "Native Versus Exotic Plants Debate in Ecological Gardening"
+created: 2026-04-28
 tags: [permaculture, native-plants, invasive-species, ecological-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Native Versus Exotic Plants Debate in Ecological Gardening

@@ -1,5 +1,6 @@
 ---
 title: Masanobu Fukuoka
+created: 2026-04-28
 type: person
 tags: [permaculture, agriculture, philosophy, natural-farming, sustainability, japan]
 date: 2026-04-28

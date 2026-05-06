@@ -1,5 +1,6 @@
 ---
 title: How to Set Up a Backyard Pond
+created: 2026-04-28
 tags:
   - ponds
   - water-features
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How to Set Up a Backyard Pond
 A backyard pond adds beauty, wildlife habitat, and water management capacity to

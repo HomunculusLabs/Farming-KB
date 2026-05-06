@@ -1,5 +1,6 @@
 ---
 title: Oriental Herbal Nutrient (OHN)
+created: 2026-04-28
 type: species
 tags: [korean-natural-farming, herbal-preparation, plant-defense, biostimulant, fermentation]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: La Chorrera Experiment McKenna
+created: 2026-04-28
 tags: [mckenna, psychedelics, experiment, stropharia]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/mckenna_t-food_of-the_gods.md]
+type: concept
 ---
 
 # La Chorrera Experiment McKenna

@@ -1,5 +1,6 @@
 ---
 title: What Is Hydroponic Fodder and Is It Worth Growing for Livestock?
+created: 2026-04-28
 tags:
   - hydroponic-fodder
   - livestock-feed
@@ -15,6 +16,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hydroponic-fodder
   - https://extension.umn.edu/livestock/hydroponic-fodder-systems
   - https://pubmed.ncbi.nlm.nih.gov/28936937/
+type: query
 ---
 
 # What Is Hydroponic Fodder and Is It Worth Growing for Livestock?

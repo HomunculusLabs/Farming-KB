@@ -1,5 +1,6 @@
 ---
 title: Ingoldian Aquatic Fungi and Tetraradiate Spore Dispersal
+created: 2026-04-28
 tags:
   - mycology
   - aquatic-fungi
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 6: Ingold's Jewels"
+type: concept
 ---
 
 # Ingoldian Aquatic Fungi and Tetraradiate Spore Dispersal

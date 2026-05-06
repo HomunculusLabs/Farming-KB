@@ -1,5 +1,6 @@
 ---
 title: Richard Evans Schultes
+created: 2026-04-28
 type: person
 tags:
   - ethnobotany

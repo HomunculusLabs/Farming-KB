@@ -1,9 +1,11 @@
 ---
 title: "THC (Tetrahydrocannabinol)"
+created: 2026-04-28
 tags: [cannabis, thc, cannabinoids, psychoactive, cb1, cb2, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # THC (Tetrahydrocannabinol)

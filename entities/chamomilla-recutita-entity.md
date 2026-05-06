@@ -1,5 +1,6 @@
 ---
 title: "Chamomilla recutita"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, medicinal-plant, asteraceae, chamomile, traditional-medicine, anti-inflammatory]
 date: 2026-04-28

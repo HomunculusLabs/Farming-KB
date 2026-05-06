@@ -1,9 +1,11 @@
 ---
 title: "Cannabis as Sacred Sacrament in Ritual Practice"
+created: 2026-04-28
 tags: [cannabis, ritual-use, sacrament, magical-practice, earth-spirituality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-practitioners-guide-marijuana-magick.md]
+type: concept
 ---
 
 # Cannabis as [[sacred-sacrament-mushroom-rites]] in [[powell-shamanic-wisdom-and-ritual-practice]]

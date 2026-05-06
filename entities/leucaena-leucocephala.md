@@ -1,5 +1,6 @@
 ---
 title: "Leucaena leucocephala"
+created: 2026-04-28
 type: species
 tags:
   - permaculture
@@ -138,6 +139,8 @@ native vegetation. Management requires vigilant monitoring in non-native ranges.
   less invasive tendency.
 
 ## See Also
+
+- [[tamarindus-indica]]
 
 - [[gliricidia-sepium]] — Madre de cacao, complementary agroforestry legume
 - [[moringa-oleifera]] — Multipurpose tropical tree with overlapping applications

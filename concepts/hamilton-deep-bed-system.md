@@ -1,10 +1,12 @@
 ---
 title: Deep Bed Vegetable System
+created: 2026-04-28
 tags: [vegetables, deep-beds, organic-gardening, hamilton, intensive-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Deep Bed Vegetable System

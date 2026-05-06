@@ -1,10 +1,12 @@
 ---
 title: Fukuoka on the Illusions of Modern Scientific Farming and the Centrifugal-Centripetal Model
+created: 2026-04-28
 tags: [fukuoka, natural-farming, scientific-farming, centrifugal, centripetal, modern-agriculture, do-nothing, green-philosophy, mechanization, energy-efficiency]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Masanobu Fukuoka (1987), "The Natural Way of Farming: The Theory and Practice of Green Philosophy," Introduction and Chapter 1
+type: concept
 ---
 
 # Fukuoka on the Illusions of Modern Scientific Farming

@@ -1,9 +1,11 @@
 ---
 title: "Sheet Mulching vs Chop and Drop Mulching"
+created: 2026-04-28
 tags: [comparison, mulching, no-till, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Sheet Mulching vs Chop and Drop Mulching

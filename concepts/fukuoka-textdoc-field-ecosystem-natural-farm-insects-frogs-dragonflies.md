@@ -1,5 +1,6 @@
 ---
 title: The Field Ecosystem of a Natural Farm: Insects, Frogs, and Dragonflies
+created: 2026-04-28
 tags:
   - ecology
   - biodiversity
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Field Ecosystem of a Natural Farm: Insects, Frogs, and Dragonflies

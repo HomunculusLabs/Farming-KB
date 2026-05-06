@@ -1,5 +1,6 @@
 ---
 title: Duck and Carp in Rice Paddies — Three-Dimensional Field Use
+created: 2026-04-28
 tags:
   - natural-farming
   - polyculture
@@ -12,6 +13,7 @@ updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: 5349-5355
+type: concept
 ---
 
 # Duck and Carp in Rice Paddies — Three-Dimensional Field Use

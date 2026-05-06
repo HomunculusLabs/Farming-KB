@@ -1,10 +1,12 @@
 ---
 title: "Seasonal Vegetable Planting Guide"
+created: 2026-04-28
 tags: [seasonal-planting, vegetable-gardening, sowing,
       succession-planting, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
+type: concept
 ---
 
 # Seasonal Vegetable Planting Guide

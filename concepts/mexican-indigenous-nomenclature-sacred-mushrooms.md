@@ -1,5 +1,6 @@
 ---
 title: Mexican Indigenous Nomenclature for Sacred Mushrooms
+created: 2026-04-28
 tags:
   - ethnobotany
   - neurotropic-fungi
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman-Allen-Gartz-Worldwide-Distribution-of-Neurotropic-Fungi
+type: concept
 ---
 
 # Mexican Indigenous Nomenclature for Sacred Mushrooms
@@ -131,6 +133,10 @@ and indigenous names also records cultural contact and adaptation of
 considerable ethnographic value.
 
 ## See Also
+
+- [[guzman-magic-mushrooms-mexican-diversity]]
+- [[guzman-magic-mushrooms-new-guinea-sacred-fungi]]
+- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 
 - [[neurotropic-fungi]] overview and classification
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]

@@ -1,9 +1,11 @@
 ---
 title: "Grazing Mechanics and Root Sacrifice"
+created: 2026-04-28
 tags: [holistic-management, grazing, grassland-ecology, overgrazing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Grazing Mechanics and Root Sacrifice

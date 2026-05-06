@@ -1,9 +1,11 @@
 ---
 title: "Mushroom Liquid Culture vs Spore Syringe"
+created: 2026-04-28
 tags: [comparison, mushroom-cultivation, mycology, inoculation, spawn]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Mushroom Liquid Culture vs Spore Syringe

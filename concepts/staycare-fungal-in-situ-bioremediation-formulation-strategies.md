@@ -1,10 +1,12 @@
 ---
 title: Fungal In Situ Bioremediation Formulation Strategies
+created: 2026-04-28
 tags: [bioremediation, bioaugmentation, formulation, encapsulation, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Fungal In Situ Bioremediation Formulation Strategies

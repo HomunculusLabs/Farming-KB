@@ -1,10 +1,12 @@
 ---
 title: Cannabis and the Language of Story: Weaving, Cordage, and Narrative
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, cannabis, language, etymology, cultural-history, partnership-society, weaving, narrative]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the-gods.md
+type: concept
 ---
 
 # Cannabis and the Language of Story: Weaving, Cordage, and Narrative

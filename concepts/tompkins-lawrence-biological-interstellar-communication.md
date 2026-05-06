@@ -1,9 +1,11 @@
 ---
 title: "L. George Lawrence and Biological Interstellar Communication"
+created: 2026-04-28
 tags: [lawrence, interstellar-communication, ceti, plant-stimulation, biodynamic-field-station, stellartron, parapsychology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # L. George Lawrence and Biological Interstellar Communication

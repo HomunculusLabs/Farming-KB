@@ -1,9 +1,11 @@
 ---
 title: "How Do I Improve Soil Drainage in My Garden?"
+created: 2026-04-28
 tags: [query, soil-science, garden-management, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Improve Soil Drainage in My Garden?

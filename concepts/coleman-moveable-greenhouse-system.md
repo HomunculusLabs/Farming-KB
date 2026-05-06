@@ -1,9 +1,11 @@
 ---
 title: "Moveable Greenhouse System"
+created: 2026-04-28
 tags: [greenhouse, innovation, soil-building, season-extension, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
+type: concept
 ---
 
 # Moveable Greenhouse System

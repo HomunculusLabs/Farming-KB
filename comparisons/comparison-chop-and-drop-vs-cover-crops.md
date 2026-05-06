@@ -1,9 +1,11 @@
 ---
 title: "Chop and Drop vs Cover Crops"
+created: 2026-04-28
 tags: [comparison, soil-building, mulch, cover-crops, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Chop and Drop vs Cover Crops

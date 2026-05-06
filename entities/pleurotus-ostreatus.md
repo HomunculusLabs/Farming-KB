@@ -1,5 +1,6 @@
 ---
 title: Pleurotus ostreatus
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -164,6 +165,9 @@ In permaculture systems, *P. ostreatus* serves multiple functions:
 - **Integrated systems:** Can be grown on logs in agroforestry systems, on straw in garden beds, or in dedicated mushroom cultivation areas within food forests.
 
 ## See Also
+
+- [[oyster-mushroom-pleurotus-ostreatus]]
+- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
 
 - [[Pleurotaceae]] — Mushroom family
 - [[mycoremediation]] — Fungal environmental cleanup

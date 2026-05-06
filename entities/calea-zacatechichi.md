@@ -1,5 +1,6 @@
 ---
 title: "Calea zacatechichi"
+created: 2026-04-28
 type: species
 tags: [ethnobotanical, oneirogenic, asteraceae, dream-herb, mexican]
 date: 2026-04-28

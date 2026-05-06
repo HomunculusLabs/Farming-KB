@@ -1,5 +1,6 @@
 ---
 title: Amanita regalis
+created: 2026-04-28
 type: species
 tags: [amanita, ibotenic-acid, neurotropic-fungi, muscimol, scandinavia]
 date: 2026-04-28

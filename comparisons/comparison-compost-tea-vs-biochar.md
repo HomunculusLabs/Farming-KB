@@ -1,10 +1,12 @@
 ---
 title: "Compost Tea vs Biochar"
+created: 2026-04-28
 tags: [comparison, soil-amendment, compost-tea, biochar]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: comparison
 ---
 
 # Compost Tea vs Biochar

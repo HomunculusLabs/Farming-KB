@@ -1,5 +1,6 @@
 ---
 title: "Mycorrhizal Root Exudates and Pathogen Interactions"
+created: 2026-04-28
 tags:
   - root-exudates
   - biocontrol
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Mycorrhizal Root Exudates and Pathogen Interactions

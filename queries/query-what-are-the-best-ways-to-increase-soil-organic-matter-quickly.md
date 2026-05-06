@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Ways to Increase Soil Organic Matter Quickly"
+created: 2026-04-28
 tags: query, soil-science, composting, organic-matter, soil-health
 date: 2026-04-25
 updated: 2026-04-25
 sources: 
+type: query
 ---
 
 # What Are the Best Ways to Increase Soil Organic Matter Quickly

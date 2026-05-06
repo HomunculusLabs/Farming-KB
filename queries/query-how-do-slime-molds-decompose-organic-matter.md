@@ -1,5 +1,6 @@
 ---
 title: "How Do Slime Molds Decompose Organic Matter?"
+created: 2026-04-28
 tags: [query, mycology, soil-science, slime-molds, decomposition, soil-food-web]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,6 +13,7 @@ sources:
   - Adams, K., & Deacon, J. (2013). The contribution of myxomycetes to decomposition processes in temperate woodland leaf litter. *Fungal Ecology*, 6(3), 222-229.
   - Coleman, D. C., & Crossley, D. A. (1996). *Fundamentals of Soil Ecology*. Academic Press.
   - Kamono, A., & Matsumoto, J. (2011). Myxomycetes in soil: seasonal and vertical distribution. *Mycoscience*, 52(4), 291-297.
+type: query
 ---
 
 # How Do Slime Molds Decompose Organic Matter?

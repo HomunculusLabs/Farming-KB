@@ -1,9 +1,11 @@
 ---
 title: Fungal Biosorption Isotherms and Metal Binding
+created: 2026-04-28
 tags: [biosorption, heavy-metals, fungi, bioremediation, metal-binding]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Biosorption Isotherms and Metal Binding

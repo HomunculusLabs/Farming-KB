@@ -1,5 +1,6 @@
 ---
 title: Lobelia inflata
+created: 2026-04-28
 type: species
 tags: [herbal-plants, medicinal-plants, alkaloid, lobeline, respiratory, smoking-cessation, Campanulaceae, ethnobotany, Appalachian-medicine]
 date: 2026-04-28

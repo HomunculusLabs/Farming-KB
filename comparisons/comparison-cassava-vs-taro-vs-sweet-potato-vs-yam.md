@@ -1,5 +1,6 @@
 ---
 title: Cassava vs Taro vs Sweet Potato vs Yam — Tropical Root Crops Compared
+created: 2026-04-28
 tags: [comparison, tropical, root-crops, cassava, taro, sweet-potato, yam, staple-crops, permaculture, food-security]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://www.cgiar.org/research-program-on-roots-tubers-and-bananas/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267784/
   - https://www.cabi.org/isc/datasheet/15625
+type: comparison
 ---
 
 # Cassava vs Taro vs Sweet Potato vs Yam

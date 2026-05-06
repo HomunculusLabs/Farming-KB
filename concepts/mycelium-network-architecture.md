@@ -1,9 +1,11 @@
 ---
 title: mycelium network architecture
+created: 2026-04-28
 tags: [mycology, fungal-biology, networks, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # mycelium network architecture

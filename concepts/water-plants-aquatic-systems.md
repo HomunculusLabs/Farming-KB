@@ -1,11 +1,13 @@
 ---
 title: Water Plants for Aquatic Systems
+created: 2026-04-28
 tags: [aquaculture, water-management, permaculture, food-production,
   nitrogen-fixation, polyculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Water Plants for Aquatic Systems

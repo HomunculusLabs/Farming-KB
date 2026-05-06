@@ -1,10 +1,12 @@
 ---
 title: Television as the Hidden Persuader and Dominator Drug
+created: 2026-04-28
 tags: [television, media, dominator-culture, addiction, propaganda, mckenna, social-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Television as the Hidden Persuader and Dominator Drug

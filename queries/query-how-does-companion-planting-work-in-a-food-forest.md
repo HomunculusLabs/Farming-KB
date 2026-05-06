@@ -1,9 +1,11 @@
 ---
 title: "How Does Companion Planting Work in a Food Forest"
+created: 2026-04-28
 tags: query, permaculture, food-forest, companion-planting, guilds
 date: 2026-04-25
 updated: 2026-04-25
 sources: 
+type: query
 ---
 
 # How Does Companion Planting Work in a Food Forest

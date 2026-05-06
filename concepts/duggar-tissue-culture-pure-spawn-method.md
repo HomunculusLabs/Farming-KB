@@ -1,10 +1,12 @@
 ---
 title: "Duggar Tissue Culture and Pure Spawn Method 1915"
+created: 2026-04-28
 tags: [mycology, tissue-culture, pure-culture, spawn-making, duggar,
       history-of-mycology, sterilization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # Duggar Tissue Culture and Pure Spawn Method 1915

@@ -1,11 +1,13 @@
 ---
 title: Sector Analysis for Site Design
+created: 2026-04-28
 tags: [permaculture, sector-analysis, site-analysis, wind-patterns, 
 solar-azimuth, fire-hazard, noise-mapping, microclimate, 
 zone-planning, base-map, topographical-analysis, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Sector Analysis for Site Design

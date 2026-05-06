@@ -1,5 +1,6 @@
 ---
 title: Tremella mesenterica
+created: 2026-04-28
 type: species
 tags: [medicinal-mushroom, tremellaceae, jelly-fungus, polysaccharide, antioxidant]
 date: 2026-04-28

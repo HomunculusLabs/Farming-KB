@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Morel Mushrooms"
+created: 2026-04-28
 tags: [query, mushrooms, morel, cultivation, gourmet]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Morel Mushrooms

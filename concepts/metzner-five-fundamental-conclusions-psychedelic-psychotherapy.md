@@ -1,10 +1,12 @@
 ---
 title: "Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy"
+created: 2026-04-28
 tags: [psychedelics, psychotherapy, metzner, paradigm, clinical, history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md'
+type: concept
 ---
 
 # Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy

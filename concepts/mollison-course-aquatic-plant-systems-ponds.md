@@ -1,11 +1,13 @@
 ---
 title: Aquatic Plant Systems and Pond Design
+created: 2026-04-28
 tags: [permaculture, aquaculture, ponds, aquatic-plants, water-storage, 
 wetland, duck-potato, wild-rice, watercress, mussels, algae, 
 sewage-treatment, bio-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Aquatic Plant Systems and Pond Design

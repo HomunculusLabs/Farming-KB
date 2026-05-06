@@ -1,5 +1,6 @@
 ---
 title: Paulownia tomentosa
+created: 2026-04-28
 type: species
 tags: permaculture, timber, nitrogen-fixing, agroforestry, fast-growing]
 date: 2026-04-28

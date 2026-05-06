@@ -1,9 +1,11 @@
 ---
 title: Square Foot Gardening vs Raised Bed Gardening
+created: 2026-04-28
 tags: [gardening, small-scale, intensive-planting, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Square Foot Gardening vs Raised Bed Gardening

@@ -1,5 +1,6 @@
 ---
 title: "Cornus mas"
+created: 2026-04-28
 type: species
 tags:
   - permaculture
@@ -140,6 +141,10 @@ species in temperate permaculture design:
   bark, good autumn color, fits urban landscapes
 
 ## See Also
+
+- [[food-forest-layers-and-species]]
+
+- [[food-forest]]
 
 - [[permaculture-dogwood-cornus-capitata]]
 

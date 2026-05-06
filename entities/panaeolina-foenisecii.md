@@ -1,5 +1,6 @@
 ---
 title: Panaeolina foenisecii
+created: 2026-04-28
 type: species
 tags: [panaeolina, psilocybin, grassland, saprotrophic, cosmopolitan]
 date: 2026-04-28

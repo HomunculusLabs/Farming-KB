@@ -1,5 +1,6 @@
 ---
 title: White Rhino
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -193,7 +194,6 @@ naturally compact and resilient.
 - [[critical-mass]]
 - [[northern-lights]]
 - [[sea-of-green]]
-
 - [[White Widow]]
 - [[Indica]]
 - [[Medicinal Cannabis]]

@@ -1,5 +1,6 @@
 ---
 title: Atriplex halimus
+created: 2026-04-28
 type: species
 tags:
   - permaculture
@@ -120,6 +121,10 @@ High ash content reflects salt accumulation, which can partially substitute for 
 - **Palatability decline:** Mature plants less palatable; periodic cutting improves regrowth quality
 
 ## See Also
+
+- [[hippophae-rhamnoides]]
+- [[casuarina-equisetifolia]]
+- [[elaeagnus-angustifolia]]
 
 - [[Atriplex canescens]] — Four-wing saltbush, North American relative
 - [[Hippophae rhamnoides]] — Sea buckthorn, halophytic permaculture shrub

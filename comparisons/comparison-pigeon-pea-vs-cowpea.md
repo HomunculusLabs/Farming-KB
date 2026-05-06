@@ -1,5 +1,6 @@
 ---
 title: "Pigeon Pea vs Cowpea"
+created: 2026-04-28
 tags: [legumes, nitrogen-fixation, cover-crops, tropical-crops, pigeon-pea, cowpea, protein-crops, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "USDA NRCS Plant Guide — Vigna unguiculata, nrcs.usda.gov"
   - "Sprent, J.I. (2009). Legume Nodulation: A Global Perspective. Wiley-Blackwell."
   - "Carvalho et al. (2019). Cowpea: a legume crop for a challenging environment. Journal of the Science of Food and Agriculture, 99(9), 4273–4284."
+type: comparison
 ---
 
 # Pigeon Pea vs Cowpea
@@ -118,3 +120,7 @@ Neither pigeon pea nor cowpea is universally superior — the right choice depen
 - **Use both together** in intercrop or relay systems to maximize temporal resource use, total nitrogen fixation, and yield stability across variable seasons.
 
 For most smallholder tropical systems, a **cowpea–pigeon pea relay** (perennial pigeon pea hedge with seasonal cowpea understory) offers the best of both worlds: rapid food and soil protection from cowpea, sustained fertility and woody products from pigeon pea.
+
+## See Also
+
+- [[comparison-perlite-vs-vermiculite]]

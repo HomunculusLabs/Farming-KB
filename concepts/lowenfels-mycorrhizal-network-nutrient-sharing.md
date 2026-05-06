@@ -1,5 +1,6 @@
 ---
 title: Mycorrhizal Network and Nutrient Sharing
+created: 2026-04-28
 tags:
   - mycorrhiza
   - nutrient-cycling
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+type: concept
 ---
 
 # Mycorrhizal Network and Nutrient Sharing

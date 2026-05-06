@@ -1,9 +1,11 @@
 ---
 title: "Coffee Rust and Fungal Crop Pathogens"
+created: 2026-04-28
 tags: [mycology, coffee-rust, hemileia, plant-pathogen, crop-disease, rust-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Coffee rust, caused by the fungus Hemileia vastatrix, is one of the

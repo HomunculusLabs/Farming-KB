@@ -1,11 +1,13 @@
 ---
 title: "Hallucinogens in Medical Psychotherapy"
+created: 2026-04-28
 tags: [psychotherapy, lsd, psilocybin, mescaline, psycholysis,
   psychedelic-therapy, psychiatry, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Hallucinogens in Medical Psychotherapy

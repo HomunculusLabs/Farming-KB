@@ -1,5 +1,6 @@
 ---
 title: How to Control Fungus Gnats Organically
+created: 2026-04-28
 tags:
   - pest-control
   - organic-gardening
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How to Control Fungus Gnats Organically
 ## Comprehensive Guide for Indoor Gardens and Mushroom Grows

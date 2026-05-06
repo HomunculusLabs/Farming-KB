@@ -1,5 +1,6 @@
 ---
 title: Psilocybe rugosoannulata
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, dung-inhabiting]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Pleurotus nebrodensis
+created: 2026-04-28
 type: species
 tags: [pleurotaceae, edible-mushroom, endangered, medicinal, beta-glucan]
 date: 2026-04-28

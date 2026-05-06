@@ -1,10 +1,12 @@
 ---
 title: "How Do I Set Up a Monotub for Mushroom Cultivation?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, monotub, indoor-growing, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
+type: query
 ---
 
 # How Do I Set Up a Monotub for Mushroom Cultivation?

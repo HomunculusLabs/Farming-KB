@@ -1,5 +1,6 @@
 ---
 title: "Thin Mint"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -149,5 +150,8 @@ with a preference for phosphorus and potassium supplementation in the
 final weeks to support trichome production.
 
 ## See Also
+
+- [[girl-scout-cookies]]
+- [[screen-of-green]]
 
 - [[turkestan-mint-lagochilus-inebrians]]

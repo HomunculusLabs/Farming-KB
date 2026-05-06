@@ -1,10 +1,12 @@
 ---
 title: Inclined Solar Desalination
+created: 2026-04-28
 tags: [permaculture, water, solar-energy, desalination, passive-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Inclined Solar Desalination

@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Grain Spawn and Liquid Culture for Mushrooms?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, spawn, liquid-culture, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Grain Spawn and Liquid Culture for Mushrooms?

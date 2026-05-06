@@ -1,9 +1,11 @@
 ---
 title: Ergot Alkaloid Chemistry and History
+created: 2026-04-28
 tags: [ergot, alkaloids, history, ethnomycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Ergot Alkaloid Chemistry and History

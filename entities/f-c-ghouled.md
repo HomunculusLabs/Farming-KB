@@ -1,5 +1,6 @@
 ---
 title: F.C. Ghouled
+created: 2026-04-28
 type: person
 tags: [mycologist, author, psilocybin-mushrooms, field-guide, 1970s]
 date: 2026-04-28

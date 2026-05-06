@@ -1,5 +1,6 @@
 ---
 title: "EMCDDA Hallucinogenic Mushroom Emerging Trend Analysis"
+created: 2026-04-28
 tags:
   - emerging-trends
   - drug-policy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Emerging Trend Analysis

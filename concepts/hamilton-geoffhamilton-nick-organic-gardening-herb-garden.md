@@ -1,9 +1,11 @@
 ---
 title: Herb Garden
+created: 2026-04-28
 tags: [herbs, organic-gardening, culinary-herbs, medicinal-herbs, garden-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Herb Garden

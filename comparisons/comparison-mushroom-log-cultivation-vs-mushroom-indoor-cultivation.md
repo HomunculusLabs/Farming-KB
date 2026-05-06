@@ -1,9 +1,11 @@
 ---
 title: "Mushroom Log Cultivation vs Mushroom Indoor Cultivation"
+created: 2026-04-28
 tags: [comparison, mushrooms, cultivation, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: comparison
 ---
 # Mushroom Log Cultivation vs Mushroom Indoor Cultivation
 ## Overview

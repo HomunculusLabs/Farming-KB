@@ -1,11 +1,13 @@
 ---
 title: Post-Harvest Handling and Marketing of Mushrooms
+created: 2026-04-28
 tags: [post-harvest, marketing, packaging, mushroom-processing,
   value-addition, sales]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Post-Harvest Handling and Marketing of Mushrooms

@@ -1,10 +1,12 @@
 ---
 title: "New Zealand Psychoactive Fungi: Species and Distribution"
+created: 2026-04-28
 tags: [new-zealand, psilocybin, psychoactive-fungi, distribution,
   copelandia, psilocybe, auckland, indigenous, allen]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+type: concept
 ---
 
 # New Zealand Psychoactive Fungi: Species and Distribution

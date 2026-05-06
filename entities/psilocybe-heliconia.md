@@ -1,5 +1,6 @@
 ---
 title: "Psilocybe heliconia"
+created: 2026-04-28
 type: species
 tags: [fungi, psilocybe, psychedelic, neotropical, colombia, strophariaceae]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Acacia confusa"
+created: 2026-04-28
 type: species
 tags: [species, leguminosae, dmt-source, nitrogen-fixer, permaculture, ethnobotanical, asian-plant]
 date: 2026-04-28

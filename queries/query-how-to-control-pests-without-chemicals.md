@@ -1,9 +1,11 @@
 ---
 title: "How Do I Control Pests Without Chemicals?"
+created: 2026-04-28
 tags: [query, pest-control, organic-farming, ipm, natural-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Control Pests Without Chemicals?

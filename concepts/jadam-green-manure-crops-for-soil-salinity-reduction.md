@@ -1,9 +1,11 @@
 ---
 title: JADAM Green Manure Crops for Soil Salinity Reduction
+created: 2026-04-28
 tags: [jadam, soil-salinity, green-manure, salt-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM [[green-manure-crops]] for Soil Salinity Reduction

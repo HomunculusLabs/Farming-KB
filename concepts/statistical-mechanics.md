@@ -1,5 +1,6 @@
 ---
 title: "Statistical Mechanics"
+type: concept
 category: physics
 related:
   - laws-of-thermodynamics
@@ -8,6 +9,7 @@ related:
 tags: [physics, statistical-mechanics, thermodynamics, entropy, boltzmann,
   quantum-statistics, ensemble-theory, partition-function, information-theory]
 created: 2026-05-02
+type: concept
 ---
 
 Statistical mechanics is the branch of physics that bridges microscopic

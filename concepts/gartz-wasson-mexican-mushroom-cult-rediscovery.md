@@ -1,5 +1,6 @@
 ---
 title: Wasson and the Rediscovery of the Mexican Mushroom Cult
+created: 2026-04-28
 tags:
   - ethnobotany
   - psilocybin
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - magic-mushrooms-around-the-world-by-jochen-gartz.md
+type: concept
 ---
 
 # Wasson and the Rediscovery of the Mexican Mushroom Cult

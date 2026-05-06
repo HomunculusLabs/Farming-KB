@@ -1,10 +1,12 @@
 ---
 title: Panaeolus Genus Overview - Psilocybin-Containing Species
+created: 2026-04-28
 tags: [mycology, taxonomy, psilocybin, panaeolus, field-guide]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # Panaeolus Genus Overview

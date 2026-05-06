@@ -1,5 +1,6 @@
 ---
 title: Fukuoka's Method of Natural Paddy and Farm Establishment Without Machinery
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka's Method of Natural Paddy and Farm Establishment Without Machinery

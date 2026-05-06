@@ -1,10 +1,12 @@
 ---
 title: "Resin Acid Biodegradation by Fungi"
+created: 2026-04-28
 tags: [bioremediation, pulp-paper, resin-acid, fungal-metabolism, wastewater]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
+type: concept
 ---
 
 # Resin Acid Biodegradation by Fungi

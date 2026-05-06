@@ -1,11 +1,13 @@
 ---
 title: Soil Microorganisms and Natural Fertility
+created: 2026-04-28
 tags: [soil-science, microorganisms, nitrogen-fixing, mycorrhiza, natural-farming, soil-health, no-till, humus, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Masanobu Fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and pine rot"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
+type: concept
 ---
 
 # Soil Microorganisms and Natural Fertility

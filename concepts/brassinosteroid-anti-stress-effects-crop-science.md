@@ -1,5 +1,6 @@
 ---
 title: "Brassinosteroid Anti-Stress Effects in Crop Science and Agriculture"
+created: 2026-04-28
 tags:
   - brassinosteroids
   - anti-stress
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Brassinosteroid Anti-Stress Effects in Crop Science and Agriculture

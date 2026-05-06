@@ -1,5 +1,6 @@
 ---
 title: "Conocybe and Gerronema Neurotropic Species"
+created: 2026-04-28
 tags:
   - guzman-allen-gartz
   - mycology
@@ -14,6 +15,7 @@ sources:
   - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
     of the neurotropic fungi, an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
+type: concept
 ---
 
 ## Overview

@@ -1,9 +1,11 @@
 ---
 title: "How Does Living Soil Work for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, living-soil, organic, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Living Soil Work for Cannabis?

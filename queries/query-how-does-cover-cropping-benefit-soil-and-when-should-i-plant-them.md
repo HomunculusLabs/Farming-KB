@@ -1,9 +1,11 @@
 ---
 title: "How Does Cover Cropping Benefit Soil and When Should I Plant Them?"
+created: 2026-04-28
 tags: [query, cover-crops, soil-health, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Cover Cropping Benefit Soil and When Should I Plant Them?

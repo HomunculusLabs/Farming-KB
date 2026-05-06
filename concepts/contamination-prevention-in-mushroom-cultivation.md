@@ -1,9 +1,11 @@
 ---
 title: Contamination Prevention in Mushroom Cultivation
+created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Contamination Prevention in Mushroom Cultivation

@@ -1,9 +1,11 @@
 ---
 title: Contamination Identification
+created: 2026-04-28
 tags: [mycology, contamination, pathology, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Contamination Identification

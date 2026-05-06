@@ -1,5 +1,6 @@
 ---
 title: How Do I Start a Silvopasture System on My Property?
+created: 2026-04-28
 tags:
   - silvopasture
   - getting-started
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA National Agrofor[...]
+type: query
 ---
 
 # How Do I Start a Silvopasture System on My Property?

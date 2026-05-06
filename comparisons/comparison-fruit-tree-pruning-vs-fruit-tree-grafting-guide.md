@@ -1,9 +1,11 @@
 ---
 title: "Fruit Tree Pruning vs Fruit Tree Grafting"
+created: 2026-04-28
 tags: [comparison, fruit-trees, orchard, tree-care, propagation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Fruit Tree Pruning vs Fruit Tree Grafting

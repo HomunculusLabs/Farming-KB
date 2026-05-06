@@ -1,9 +1,11 @@
 ---
 title: Fungal BTEX and Volatile Organic Compound Degradation
+created: 2026-04-28
 tags: [BTEX, VOC, bioremediation, petroleum, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal BTEX and Volatile Organic Compound Degradation

@@ -1,10 +1,12 @@
 ---
 title: Electricity Consumption and Cost Management
+created: 2026-04-28
 tags: [cannabis, electricity, cost, security, energy-management]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Electricity Consumption and Cost Management

@@ -1,5 +1,6 @@
 ---
 title: "7-Hydroxymitragynine"
+created: 2026-04-28
 type: chemical
 tags: [chemical, alkaloid, indole, opioid-receptor-agonist, kratom, mitragyna-speciosa, analgesic]
 date: 2026-04-28

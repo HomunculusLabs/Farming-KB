@@ -130,3 +130,7 @@ See also: [[maya-entheogens]], [[pre-columbian-mushroom-use]],
 - [[garden-myths-native-plants-and-invasive-species]]
 - [[mexican-mushroom-stones-archaeological-evidence]]
 - [[egyptian-mushroom-temple-architecture]]
+
+## See Also
+
+- [[lotus-corniculatus]]

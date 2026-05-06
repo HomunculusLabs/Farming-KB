@@ -1,10 +1,12 @@
 ---
 title: PF TEK Pressure Canner Sterilization
+created: 2026-04-28
 tags: [pf-tek, sterilization, pressure-canner, equipment, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+type: concept
 ---
 
 # PF TEK Pressure Canner Sterilization

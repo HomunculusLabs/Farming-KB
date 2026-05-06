@@ -1,9 +1,11 @@
 ---
 title: "What Are Endophytic Fungi and Why Do They Matter?"
+created: 2026-04-28
 tags: [query, endophytes, mycology, plant-health, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Endophytic Fungi and Why Do They Matter?

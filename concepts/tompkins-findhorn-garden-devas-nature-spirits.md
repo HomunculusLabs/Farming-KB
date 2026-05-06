@@ -1,9 +1,11 @@
 ---
 title: "Findhorn Garden and the World of Devas"
+created: 2026-04-28
 tags: [findhorn, devas, nature-spirits, biodynamic, spiritual-agriculture, rudolf-steiner, clairvoyance]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Findhorn Garden and the World of Devas

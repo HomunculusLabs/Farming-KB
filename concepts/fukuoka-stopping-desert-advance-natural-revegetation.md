@@ -1,5 +1,6 @@
 ---
 title: Stopping the Advance of Deserts Through Natural Revegetation
+created: 2026-04-28
 tags:
   - reforestation
   - desert-greening
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+type: concept
 ---
 
 # Stopping the Advance of Deserts Through Natural Revegetation

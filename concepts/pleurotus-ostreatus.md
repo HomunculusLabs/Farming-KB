@@ -1,9 +1,11 @@
 ---
 title: Pleurotus ostreatus
+created: 2026-04-28
 tags: [mycology, oyster-mushrooms, species, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Pleurotus ostreatus

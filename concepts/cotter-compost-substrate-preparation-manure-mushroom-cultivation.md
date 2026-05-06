@@ -1,5 +1,6 @@
 ---
 title: "Compost Substrate Preparation with Manure for Mushroom Cultivation"
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - compost
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Compost Substrate Preparation with Manure for Mushroom Cultivation

@@ -1,5 +1,6 @@
 ---
 title: Salvia officinalis
+created: 2026-04-28
 type: species
 aliases:
   - Common Sage

@@ -1,9 +1,11 @@
 ---
 title: "Seed Diversity and Conservation in KNF"
+created: 2026-04-28
 tags: [knf, natural-farming, seed-diversity, conservation, traditional-seeds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 # Seed Diversity and Conservation in KNF

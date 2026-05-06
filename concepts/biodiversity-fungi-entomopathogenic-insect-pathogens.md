@@ -1,5 +1,6 @@
 ---
 title: "Entomopathogenic Fungi and Insect Pathogens"
+created: 2026-04-28
 tags:
   - biodiversity-pathogens
   - biodiversity-insect-fungi
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+type: concept
 ---
 
 # Entomopathogenic Fungi and Insect Pathogens

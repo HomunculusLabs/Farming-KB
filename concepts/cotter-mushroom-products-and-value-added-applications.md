@@ -1,10 +1,12 @@
 ---
 title: "Mushroom Products and Value-Added Applications"
+created: 2026-04-28
 tags: [mushroom-products, value-added, extracts, myco-materials, innovation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Mushroom Products and Value-Added Applications

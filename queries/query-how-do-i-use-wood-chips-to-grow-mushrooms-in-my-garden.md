@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Wood Chips to Grow Mushrooms in My Garden"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, wood-chips, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Use Wood Chips to Grow Mushrooms in My Garden

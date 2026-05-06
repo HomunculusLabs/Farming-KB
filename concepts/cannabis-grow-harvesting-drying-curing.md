@@ -1,9 +1,11 @@
 ---
 title: Cannabis Harvesting Drying and Curing
+created: 2026-04-28
 tags: [cannabis, harvest, drying, curing, trimming, THC, grow-bible]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 # Cannabis Harvesting, Drying, and Curing

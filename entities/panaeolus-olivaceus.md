@@ -1,5 +1,6 @@
 ---
 title: Panaeolus olivaceus
+created: 2026-04-28
 type: species
 tags: [fungi, psychoactive, coprophilous, panaeolus, cosmopolitan]
 date: 2026-04-28

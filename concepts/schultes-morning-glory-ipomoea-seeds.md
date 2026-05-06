@@ -1,9 +1,11 @@
 ---
 title: "Morning Glory (Ipomoea violacea) Seeds"
+created: 2026-04-28
 tags: [ethnobotany, morning-glory, ipomoea, mexico, ololiuqui, lsa, mazatec, oaxaca]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Morning Glory ([[ipomoea-violacea]]) Seeds

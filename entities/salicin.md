@@ -1,5 +1,6 @@
 ---
 title: "Salicin"
+created: 2026-04-28
 type: chemical
 tags:
   - glycoside
@@ -129,6 +130,8 @@ have issued monographs supporting the use of willow bark extract for
 mild pain and fever.
 
 ## See Also
+
+- [[salix-alba]]
 
 - [[artemisia-annua]] — Another medicinal plant source of a
   pharmacologically significant compound, illustrating the tradition of

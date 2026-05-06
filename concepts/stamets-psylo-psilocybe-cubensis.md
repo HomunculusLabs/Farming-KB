@@ -1,10 +1,12 @@
 ---
 title: Psilocybe cubensis - Species Profile
+created: 2026-04-28
 tags: [mycology, species, psilocybin, coprophilic, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # [[psilocybe-cubensis]]

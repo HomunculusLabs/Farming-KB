@@ -1,10 +1,12 @@
 ---
 title: Guilds in Nature
+created: 2026-04-28
 tags: [permaculture, guilds, polyculture, companion-planting, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Guilds in Nature

@@ -1,5 +1,6 @@
 ---
 title: EMCDDA Psilocybin Mushroom Non-Addictive Profile and Tolerance Dynamics
+created: 2026-04-28
 tags:
   - emcdda
   - addiction
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Psilocybin Mushroom Non-Addictive Profile and Tolerance Dynamics

@@ -1,9 +1,11 @@
 ---
 title: "Cob Oven Construction vs Rocket Stove"
+created: 2026-04-28
 tags: [comparison, natural-building, cooking, wood-stoves, energy-efficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Cob Oven Construction vs Rocket Stove

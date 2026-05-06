@@ -1,9 +1,11 @@
 ---
 title: "Accelerated Succession for Gardeners"
+created: 2026-04-28
 tags: [permaculture, succession, ecological-design, pioneer-plants, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Accelerated Succession for Gardeners

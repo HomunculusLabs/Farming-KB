@@ -1,5 +1,6 @@
 ---
 title: Plant Photoreception and Phototropism
+created: 2026-04-28
 tags:
   - botany
   - photobiology
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Plant Photoreception and Phototropism

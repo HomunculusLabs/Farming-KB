@@ -1,9 +1,11 @@
 ---
 title: Mushroom Cultivator Grain Selection and Moisture Control
+created: 2026-04-28
 tags: [grain-spawn, spawn-production, mushroom-cultivation, sterilization, substrate-preparation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Grain Selection and Moisture Control for [[spawn-production]]

@@ -1,10 +1,12 @@
 ---
 title: Mexico Global Center of Neurotropic Fungal Diversity
+created: 2026-04-28
 tags: [mycology, biogeography, mexico, psilocybe, ethnobotany, biodiversity, indigenous-knowledge]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. "A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion." Ann. Mus. civ. Rovereto 14:189-280 (1998-2000).
+type: concept
 ---
 
 # Mexico Global Center of Neurotropic Fungal Diversity

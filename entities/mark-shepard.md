@@ -1,5 +1,6 @@
 ---
 title: "Mark Shepard"
+created: 2026-04-28
 type: person
 tags:
   - permaculture
@@ -111,6 +112,8 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 - **André Voisin:** French grazing researcher; Shepard applies Voisin's rational grazing principles within perennial polyculture
 
 ## See Also
+
+- [[richard-perkins]]
 - [[bill-mollison]]
 - [[david-holmgren]]
 - [[sepp-holzer]]

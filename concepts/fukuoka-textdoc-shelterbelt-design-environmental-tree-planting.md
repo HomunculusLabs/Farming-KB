@@ -1,11 +1,13 @@
 ---
 title: "Shelterbelt Design and Environmental Tree Planting for Natural Farms"
+created: 2026-04-28
 tags: [natural-farming, shelterbelts, windbreaks, agroforestry, tree-planting, farm-design, wood-preserves, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "4289-4351"
+type: concept
 ---
 
 # Shelterbelt Design and Environmental Tree Planting for Natural Farms

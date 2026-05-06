@@ -1,10 +1,12 @@
 ---
 title: Brassinosteroid Enhancement of Fruiting on Dung and Grain Substrate
+created: 2026-04-28
 tags: [brassinosteroid, psilocybe-cubensis, fungal-fruiting, dung-substrate, yield-enhancement, phytohormones]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis (Gartz, Adam & Vorbrodt, 1990)"
+type: concept
 ---
 
 # Brassinosteroid Enhancement of Fruiting on Dung and Grain Substrate

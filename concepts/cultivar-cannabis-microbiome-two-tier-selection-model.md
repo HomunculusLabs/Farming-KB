@@ -1,9 +1,11 @@
 ---
 title: "Two-Tier Selection Model for Cannabis Root Microbiome"
+created: 2026-04-28
 tags: [cannabis-microbiome, rhizosphere, plant-microbe-interactions, soil-ecology, endorhiza]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+type: concept
 ---
 
 # Two-Tier Selection Model for Cannabis Root Microbiome

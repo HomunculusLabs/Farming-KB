@@ -1,9 +1,11 @@
 ---
 title: "What Earthworks Should I Use For Water Harvesting?"
+created: 2026-04-28
 tags: [query, earthworks, water-harvesting, permaculture, erosion-control]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # What Earthworks Should I Use For Water Harvesting?

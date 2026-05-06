@@ -1,10 +1,12 @@
 ---
 title: "Organic Pest and Disease Control"
+created: 2026-04-28
 tags: [pest-control, disease-management, organic-gardening,
       biological-control, companion-planting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
+type: concept
 ---
 
 # Organic Pest and Disease Control

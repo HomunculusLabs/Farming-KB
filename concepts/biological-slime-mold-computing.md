@@ -1,9 +1,11 @@
 ---
 title: biological slime mold computing
+created: 2026-04-28
 tags: [computational-biology, slime-mold, optimization, unconventional-computing, bioinformatics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 # biological slime mold computing
 Slime mold computing refers to the use of unicellular or acellular organisms,

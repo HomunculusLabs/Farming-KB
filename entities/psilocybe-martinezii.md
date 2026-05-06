@@ -1,5 +1,6 @@
 ---
 title: Psilocybe martinezii
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-mexicanae, hallucinogenic-fungi]
 date: 2026-04-28

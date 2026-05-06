@@ -1,5 +1,6 @@
 ---
 title: Design for Disaster Resilience
+created: 2026-04-28
 tags:
   - disaster-resilience
   - permaculture-design
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Design for Disaster Resilience

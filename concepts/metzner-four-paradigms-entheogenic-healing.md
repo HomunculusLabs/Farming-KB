@@ -1,5 +1,6 @@
 ---
 title: Metzner's Four Paradigms of Entheogenic Healing
+created: 2026-04-28
 tags:
   - metzner
   - psychotherapy
@@ -17,6 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Metzner R (1998) "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs 30(4): 333-341.
+type: concept
 ---
 
 # Metzner's Four Paradigms of Entheogenic Healing

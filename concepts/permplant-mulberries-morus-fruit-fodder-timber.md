@@ -1,5 +1,6 @@
 ---
 title: Mulberries as Fruit Fodder and Timber Trees
+created: 2026-04-28
 tags:
   - permaculture
   - fruit-trees
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Mulberries as Fruit, Fodder, and Timber Trees

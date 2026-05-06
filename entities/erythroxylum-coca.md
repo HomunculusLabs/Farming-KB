@@ -1,5 +1,6 @@
 ---
 title: Erythroxylum coca
+created: 2026-04-28
 type: species
 tags: [plant, stimulant, erythroxylaceae, coca, cocaine]
 date: 2026-04-28

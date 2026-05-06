@@ -1,5 +1,7 @@
 ---
 title: "Protein Folding And Misfolding Diseases Biochemistry"
+created: 2026-04-28
+type: concept
 ---
 
 ## Protein Structure Hierarchy

@@ -1,9 +1,11 @@
 ---
 title: "Witches Ointments and Flying Salves"
+created: 2026-04-28
 tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, scopolamine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Witches' Ointments and Flying Salves

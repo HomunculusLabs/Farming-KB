@@ -1,5 +1,6 @@
 ---
 title: Psilocybe czechica
+created: 2026-04-28
 type: species
 tags: [psilocybe, bluing-species, european, mycology, central-europe]
 date: 2026-04-28

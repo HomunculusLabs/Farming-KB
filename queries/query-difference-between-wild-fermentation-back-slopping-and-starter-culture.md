@@ -1,5 +1,6 @@
 ---
 title: "What Is the Difference Between Wild Fermentation, Back-Slopping, and Using a Starter Culture?"
+created: 2026-04-28
 tags: [fermentation, starter-culture, wild-fermentation, back-slopping, microbiology, food-preservation, faq]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - Porter, Nicholas T., et al. "The Diversity and Function of Sourdough Microbiota." *Microbiome* 12 (2024): 66.
   - Steinkraus, Keith H. *Handbook of Indigenous Fermented Foods*. 2nd ed. Marcel Dekker, 1996.
   - Marco, Maria L., et al. "The ISAPP Consensus Statement on Fermented Foods." *Nature Reviews Gastroenterology & Hepatology* 18 (2021): 196–208.
+type: query
 ---
 
 # What Is the Difference Between Wild Fermentation, Back-Slopping, and Using a Starter Culture?

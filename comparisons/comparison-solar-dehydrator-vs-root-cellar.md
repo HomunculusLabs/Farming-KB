@@ -1,9 +1,11 @@
 ---
 title: "Solar Dehydrator vs Root Cellar"
+created: 2026-04-28
 tags: [comparison, food-preservation, off-grid, homesteading, storage]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Solar Dehydrator vs Root Cellar

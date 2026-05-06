@@ -1,5 +1,6 @@
 ---
 title: "The Plant Kingdom and Hallucinogenic Plants"
+created: 2026-04-28
 tags:
   - ethnobotany
   - plant-kingdom
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"
+type: concept
 ---
 
 # The Plant Kingdom and Hallucinogenic Plants

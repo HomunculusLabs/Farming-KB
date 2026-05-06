@@ -1,9 +1,11 @@
 ---
 title: Palmer Toadstool Poisoning Case Reports
+created: 2026-04-28
 tags: [mushroom-poisoning, amanita, toxicology, case-reports, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+type: concept
 ---
 
 # Palmer Toadstool Poisoning Case Reports

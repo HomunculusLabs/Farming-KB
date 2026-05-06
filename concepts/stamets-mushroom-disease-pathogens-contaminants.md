@@ -1,9 +1,11 @@
 ---
 title: Mushroom Disease Pathogens and Contaminants (Stamets)
+created: 2026-04-28
 tags: [disease, contaminants, mushroom-pathogens, mycogone]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Mushroom Disease Pathogens and Contaminants

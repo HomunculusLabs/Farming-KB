@@ -1,5 +1,6 @@
 ---
 title: DMT Black Hole Effect and the Ineffability of Tryptamine Experience
+created: 2026-04-28
 tags:
   - tryptamine
   - DMT
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna-Tryptamines-Consciousness
+type: concept
 ---
 
 # DMT Black Hole Effect and the Ineffability of Tryptamine Experience

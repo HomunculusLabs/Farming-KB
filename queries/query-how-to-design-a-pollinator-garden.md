@@ -1,10 +1,12 @@
 ---
 title: "How to Design a Pollinator Garden"
+created: 2026-04-28
 tags: [query, pollinators, gardening, bees, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How to Design a Pollinator Garden

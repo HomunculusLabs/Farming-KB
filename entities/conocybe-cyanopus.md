@@ -1,5 +1,6 @@
 ---
 title: Conocybe cyanopus
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, psychedelic-fungi, grassland-fungi, temperate-species]
 date: 2026-04-28

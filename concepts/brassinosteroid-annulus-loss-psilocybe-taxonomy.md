@@ -1,9 +1,11 @@
 ---
 title: "Annulus Loss in Brassinosteroid-Treated Psilocybe Cubensis and Taxonomic Implications"
+created: 2026-04-28
 tags: [mycology, taxonomy, brassinosteroid, annulus, partial-veil, morphological-variation, species-identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+type: concept
 ---
 
 # Annulus Loss in Brassinosteroid-Treated Psilocybe Cubensis and Taxonomic Implications

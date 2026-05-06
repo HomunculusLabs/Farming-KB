@@ -1,10 +1,12 @@
 ---
 title: Fungal Sexual Reproduction and Pheromone Signaling
+created: 2026-04-28
 tags: [mycology, fungal-reproduction, pheromones, mating-types, sexual-cycle, trisporic-acid, oomycete, zygomycete, basidiomycete-sexuality]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Nicholas P. Money, Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Oxford University Press, 2002), Chapters 6-7: Ingold's Jewels and Siren Songs"
+type: concept
 ---
 # Fungal Sexual Reproduction and Pheromone Signaling
 Fungi have evolved an astonishing diversity of sexual reproduction

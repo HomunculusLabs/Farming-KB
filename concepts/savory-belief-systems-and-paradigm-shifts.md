@@ -1,9 +1,11 @@
 ---
 title: Belief Systems and Paradigm Shifts
+created: 2026-04-28
 tags: [holistic-management, paradigm, belief, reductionism, culture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Belief Systems and Paradigm Shifts

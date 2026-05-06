@@ -1,5 +1,6 @@
 ---
 title: Fungal Pheromones and Sexual Reproduction
+created: 2026-04-28
 tags:
   - mycology
   - fungal-biology
@@ -13,6 +14,7 @@ sources:
     and Mycologists by Nicholas P. Money (2002), Chapters 2, 7"
   - "J. Raper, American Journal of Botany 26, 639-650 (1939)"
   - "D.S. Thomas and J.T. Mullins, Science 156, 84-85 (1967)"
+type: concept
 ---
 
 # Fungal Pheromones and Sexual Reproduction

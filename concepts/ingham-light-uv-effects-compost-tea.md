@@ -1,9 +1,11 @@
 ---
 title: Light and UV Effects on Compost Tea Organisms
+created: 2026-04-28
 tags: [UV-light, compost-tea, sunlight, organism-survival, foliar-spray]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Light and UV Effects on Compost Tea Organisms

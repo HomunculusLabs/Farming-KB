@@ -1,10 +1,12 @@
 ---
 title: EU Legislation on Hallucinogenic Mushrooms 2001-2006
+created: 2026-04-28
 tags: [legislation, psilocybin, europe, drug-policy, mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EU Legislation on Hallucinogenic Mushrooms 2001-2006

@@ -1,9 +1,11 @@
 ---
 title: "Container and Pot Sizing"
+created: 2026-04-28
 tags: [cannabis, containers, pots, root-management, growing-medium]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Container and pot selection directly impacts cannabis plant health, root

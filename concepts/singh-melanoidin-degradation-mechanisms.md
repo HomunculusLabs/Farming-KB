@@ -1,10 +1,12 @@
 ---
 title: "Mechanisms of Melanoidin Degradation"
+created: 2026-04-28
 tags: [mycoremediation, melanoidin, distillery-waste, enzymatic-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   ["~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
+type: concept
 ---
 
 # Mechanisms of Melanoidin Degradation

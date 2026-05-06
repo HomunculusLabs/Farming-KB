@@ -1,5 +1,6 @@
 ---
 title: Mutability of Consciousness and the Chemical Lens
+created: 2026-04-28
 tags:
   - consciousness
   - psilocybin
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-psilocybin-solution-by-simon-g-powell.md
+type: concept
 ---
 
 # Mutability of Consciousness and the Chemical Lens

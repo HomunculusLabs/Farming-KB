@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Potency Variation
+created: 2026-04-28
 tags:
   - mycology
   - psychopharmacology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+type: concept
 ---
 
 # Psilocybin Potency Variation

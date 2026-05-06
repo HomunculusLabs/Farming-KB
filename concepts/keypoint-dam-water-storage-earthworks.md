@@ -1,9 +1,11 @@
 ---
 title: "Keypoint Dam Construction and Water Storage Earthworks"
+created: 2026-04-28
 tags: [permaculture, water-management, earthworks, keyline-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 The keypoint dam is a foundational concept in [[permaculture-earthworks]]

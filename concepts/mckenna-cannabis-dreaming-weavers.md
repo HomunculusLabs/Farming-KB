@@ -1,5 +1,6 @@
 ---
 title: Cannabis and the Dreaming Weavers
+created: 2026-04-28
 tags:
   - mckenna
   - cannabis
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Cannabis and the Dreaming Weavers

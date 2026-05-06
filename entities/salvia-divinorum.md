@@ -1,5 +1,6 @@
 ---
 title: "Salvia divinorum"
+created: 2026-04-28
 type: species
 tags: [psychedelic, hallucinogen, ethnobotanical, salvinorin]
 date: 2026-04-28

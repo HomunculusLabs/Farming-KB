@@ -1,9 +1,11 @@
 ---
 title: Psilocybe ovoideocystidiata Species Profile
+created: 2026-04-28
 tags: [psilocybe, ovoideocystidiata, species-profile, woodlovers]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+type: concept
 ---
 
 # Psilocybe ovoideocystidiata Species Profile

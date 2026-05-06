@@ -1,11 +1,13 @@
 ---
 title: "Wholistic Perception and Mt. Fuji Metaphor"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, epistemology, wholistic-perception, zen,
 nature-philosophy, nondiscrimination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Wholistic Perception and Mt. Fuji Metaphor

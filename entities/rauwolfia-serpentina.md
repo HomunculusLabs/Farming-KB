@@ -1,5 +1,6 @@
 ---
 title: Rauwolfia serpentina
+created: 2026-04-28
 type: species
 tags: [apocynaceae, medicinal-plant, ayurveda, reserpine, antihypertensive, indole-alkaloid, ethnobotany, psychopharmacology, vmat-inhibitor, tropical-medicine, indian-subcontinent, endangered-species, traditional-medicine]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Hydnum repandum
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, hydnaceae, forest-fungi]
 date: 2026-04-28

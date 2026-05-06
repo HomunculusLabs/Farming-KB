@@ -1,7 +1,9 @@
 ---
 title: "Electron Transport Chain — Mitochondrial Oxidative Phosphorylation"
+created: 2026-04-28
 tags: [biochemistry, cellular-respiration, mitochondria, electron-transport, oxidative-phosphorylation]
 date: 2026-05-02
+type: concept
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: "Reactive Metabolites and Bioactivation Toxicology"
+created: 2026-04-28
 aliases: [reactive metabolites, bioactivation, metabolic activation, covalent binding, hapten hypothesis]
 tags: [toxicology, pharmacology, drug-metabolism, biochemistry, medicinal-chemistry]
 date: 2026-05-02
@@ -10,6 +11,7 @@ related:
   - cytochrome-p450-enzymes-drug-metabolism
   - phase-ii-conjugation-reactions-drug-metabolism
   - reactive-oxygen-species-and-oxidative-stress
+type: concept
 ---
 ## Overview
 Reactive metabolites are short-lived electrophilic or radical species formed when normal
@@ -130,6 +132,8 @@ The concept is essential for understanding drug-induced liver injury, chemical
 carcinogenesis, and the design of safer pharmaceuticals.
 
 ## See Also
+
+- [[veratrum-viride]]
 
 - [[first-pass-metabolism-and-oral-bioavailability]]
 - [[glucuronidation]]

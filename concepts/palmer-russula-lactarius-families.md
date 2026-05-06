@@ -1,9 +1,11 @@
 ---
 title: Palmer on Russula and Lactarius Mushroom Families
+created: 2026-04-28
 tags: [russula, lactarius, mushroom-identification, brittle-fungi, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+type: concept
 ---
 
 # Palmer on Russula and Lactarius Mushroom Families

@@ -1,10 +1,12 @@
 ---
 title: "Japanese Bantam vs White Leghorn: Calorie Efficiency in Livestock"
+created: 2026-04-28
 tags: [livestock, chickens, calorie-efficiency, bantam, leghorn, energy-input, feed-conversion, native-breeds, poultry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+type: concept
 ---
 
 # Japanese Bantam vs White Leghorn: Calorie Efficiency in Livestock

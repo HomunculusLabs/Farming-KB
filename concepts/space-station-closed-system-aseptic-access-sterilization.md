@@ -1,5 +1,6 @@
 ---
 title: Space Station Closed System Aseptic Access and Sterilization
+created: 2026-04-28
 tags:
   - aerospace
   - nasa
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Space Station Closed System Aseptic Access and Sterilization

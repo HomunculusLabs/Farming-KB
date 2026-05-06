@@ -1,5 +1,6 @@
 ---
 title: Two-Tier Selection Model for Root Microbiome Assembly
+created: 2026-04-28
 tags: [microbiology, rhizosphere, endorhiza, plant-microbe-interactions, cannabis, soil-ecology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Bulgarelli D et al. (2013) Structure and Functions of the Bacterial Microbiota of Plants. Annu Rev Plant Biol.
   - Berg G, Smalla K (2009) Plant species and soil type cooperatively shape the structure and function of microbial communities in the rhizosphere. FEMS Microbiol Ecol 68(1): 1-13.
   - Bulgarelli D et al. (2012) Revealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota. Nature 488: 91-95.
+type: concept
 ---
 
 # Two-Tier Selection Model for Root Microbiome Assembly

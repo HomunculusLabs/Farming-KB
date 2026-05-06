@@ -1,9 +1,11 @@
 ---
 title: Chelation and Metal Binding in Plants
+created: 2026-04-28
 tags: [plant-physiology, biochemistry, metals, nutrients]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md]
+type: concept
 ---
 
 # Chelation and Metal Binding in Plants

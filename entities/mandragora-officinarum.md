@@ -1,5 +1,6 @@
 ---
 title: Mandragora officinarum
+created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, hallucinogen, ethnobotany, folklore]
 date: 2026-04-28

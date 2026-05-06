@@ -1,5 +1,6 @@
 ---
 title: What Is a Wavelet Transform Used For?
+created: 2026-04-28
 subtitle: FAQ on practical uses of wavelet analysis in signals, images, and noisy data
 tags: [query, wavelet-transform, signal-processing, data-analysis, denoising]
 date: 2026-05-02
@@ -10,6 +11,7 @@ related_concepts:
   - wavelet-transform
   - kalman-filter
   - signal-processing
+type: query
 ---
 # What Is a Wavelet Transform Used For?
 A [[wavelet-transform]] is used to analyze data at multiple scales while preserving location information.

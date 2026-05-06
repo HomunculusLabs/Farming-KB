@@ -1,10 +1,12 @@
 ---
 title: Natural Three-Dimensional Orchard Design
+created: 2026-04-28
 tags: [natural-farming, orchard-management, polyculture, permaculture, agroforestry, food-forest, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Three-Dimensional Orchard Design

@@ -1,10 +1,12 @@
 ---
 title: "Mushroom Tropisms"
+created: 2026-04-28
 tags: [mycology, tropism, psilocybe, fungal-biology, growth]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-tropisms-in-psilocybe-cubensis.md
+type: concept
 ---
 
 # Mushroom Tropisms

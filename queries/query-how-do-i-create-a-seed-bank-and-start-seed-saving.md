@@ -1,5 +1,6 @@
 ---
 title: "How Do I Create a Seed Bank and Start Seed Saving?"
+created: 2026-04-28
 tags:
   - seed-saving
   - permaculture
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How Do I Create a Seed Bank and Start Seed Saving?

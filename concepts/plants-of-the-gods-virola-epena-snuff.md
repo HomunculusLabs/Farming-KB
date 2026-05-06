@@ -1,10 +1,12 @@
 ---
 title: Virola Epena Snuff in Plants of the Gods
+created: 2026-04-28
 tags: [ethnobotany, virola, snuff, dmt, amazon]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+type: concept
 ---
 
 # Virola: Epena and Amazonian Snuff Traditions

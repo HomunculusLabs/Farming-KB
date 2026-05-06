@@ -1,5 +1,6 @@
 ---
 title: "Ricinus communis"
+created: 2026-04-28
 type: species
 tags: [species, plant, permaculture, medicinal, toxic, oilseed, ornamental, tropical]
 date: 2026-04-28

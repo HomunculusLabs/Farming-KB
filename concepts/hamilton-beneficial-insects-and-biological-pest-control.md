@@ -1,9 +1,11 @@
 ---
 title: "Beneficial Insects and Biological Pest Control"
+created: 2026-04-28
 tags: [biological-control, pest-management, beneficial-insects, organic-gardening, predators]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Beneficial Insects and Biological Pest Control

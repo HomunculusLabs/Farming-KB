@@ -1,5 +1,6 @@
 ---
 title: Mycena pura
+created: 2026-04-28
 type: species
 tags: [mycena, neurotropic, mycenaceae, psilocybin, muscarine, toxic]
 date: 2026-04-28

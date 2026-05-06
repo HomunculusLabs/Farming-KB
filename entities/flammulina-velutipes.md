@@ -1,9 +1,11 @@
 ---
 title: "Flammulina velutipes"
+created: 2026-04-28
 tags: [species, fungi, medicinal-mushroom, edible-mushroom]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # Flammulina velutipes

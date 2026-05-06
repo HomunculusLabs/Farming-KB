@@ -1,5 +1,6 @@
 ---
 title: "Hippophae rhamnoides"
+created: 2026-04-28
 type: species
 tags: [permaculture, medicinal, edible, nitrogen-fixer, superfood, hardy]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Honey Locust Pod Fodder System"
+created: 2026-04-28
 tags:
   - permaculture
   - fodder-trees
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Honey Locust Pod Fodder System

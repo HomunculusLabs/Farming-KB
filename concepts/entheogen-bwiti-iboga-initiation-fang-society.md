@@ -1,9 +1,11 @@
 ---
 title: "Bwiti Iboga Initiation and Fang Society"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, ibogaine, african, initiation, bwiti]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Bwiti Iboga Initiation and Fang Society

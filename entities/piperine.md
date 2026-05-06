@@ -1,5 +1,6 @@
 ---
 title: Piperine
+created: 2026-04-28
 type: chemical
 aliases:
   - 1-Piperoylpiperidine

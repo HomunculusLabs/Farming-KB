@@ -113,6 +113,8 @@ illustrates how preconceived notions can shape psychedelic experiences.
 
 ## See Also
 
+- [[bad-trip]]
+
 - [[emcdda-bad-trip-phenomenology-psychiatric-intervention]]
 
 - [[singer-wasson-scientific-rivalry-psilocybe-taxonomy]]

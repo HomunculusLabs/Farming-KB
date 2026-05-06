@@ -1,10 +1,12 @@
 ---
 title: Pleurotus Species and Varieties
+created: 2026-04-28
 tags: [mycology, taxonomy, oyster-mushroom, pleurotus]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md
+type: concept
 ---
 
 # Pleurotus Species and Varieties

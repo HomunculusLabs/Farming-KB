@@ -1,10 +1,12 @@
 ---
 title: Biological Control Fallacy and Pheromone Pesticide Critique
+created: 2026-04-28
 tags: [fukuoka, natural-farming, pesticides, biological-control, pheromones, ecological-balance, predator-prey]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Biological Control Fallacy and Pheromone Pesticide Critique

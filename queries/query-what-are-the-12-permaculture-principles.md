@@ -1,9 +1,11 @@
 ---
 title: "What Are the 12 Permaculture Principles?"
+created: 2026-04-28
 tags: [query, permaculture, principles, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/david-holmgren-permaculture-principles-pathways-beyon.md]
+type: query
 ---
 # What Are the 12 Permaculture Principles?
 ## Short Answer

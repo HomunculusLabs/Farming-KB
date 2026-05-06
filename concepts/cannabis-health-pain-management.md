@@ -1,9 +1,11 @@
 ---
 title: "Cannabis and Pain Management"
+created: 2026-04-28
 tags: [cannabis, pain, analgesic, neuropathic-pain, cb1, cb2, opiate-sparing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis and Pain Management

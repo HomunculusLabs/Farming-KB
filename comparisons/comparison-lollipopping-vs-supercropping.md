@@ -1,9 +1,11 @@
 ---
 title: "Lollipopping vs Supercropping"
+created: 2026-04-28
 tags: [comparison, pruning, training, defoliation, hst]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Lollipopping vs Supercropping

@@ -1,10 +1,12 @@
 ---
 title: Fukuoka on the Incomprehensibility and Inviolability of Nature
+created: 2026-04-28
 tags: [natural-farming, fukuoka, philosophy-of-nature, ecology, systems-thinking, reductionism]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming, Masanobu Fukuoka"
+type: concept
 ---
 
 # Fukuoka on the Incomprehensibility and Inviolability of Nature

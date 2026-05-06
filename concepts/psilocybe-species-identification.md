@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Species Identification
+created: 2026-04-28
 tags:
   - mycology
   - taxonomy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Psilocybe Species Identification

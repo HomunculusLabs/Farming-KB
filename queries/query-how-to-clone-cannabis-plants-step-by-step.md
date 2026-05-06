@@ -1,9 +1,11 @@
 ---
 title: "How to Clone Cannabis Plants Step by Step"
+created: 2026-04-28
 tags: [query, cannabis, cloning, propagation, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Clone Cannabis Plants Step by Step

@@ -1,5 +1,6 @@
 ---
 title: "AK-47"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, sativa-dominant, serious-seeds, award-winning, colombian, thai, afghani, mexican]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Heirloom vs Hybrid Seeds Comparison"
+created: 2026-04-28
 tags: [seeds, genetics, gardening, farming, plant-breeding, seed-saving]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Organic Seed Alliance. State of Organic Seed Report 2022. seedalliance.org"
   - "Iowa State University Extension. Selecting Vegetable Seeds. store.extension.iastate.edu"
   - "Kloppenburg, J.R. First the Seed: The Political Economy of Plant Biotechnology. UW Press, 2004."
+type: comparison
 ---
 
 # Heirloom vs Hybrid Seeds Comparison
@@ -119,3 +121,9 @@ The heirloom vs. hybrid decision ultimately depends on grower priorities. Those 
 ---
 
 *This comparison page is part of the agriculture and permaculture knowledge base. For questions about specific variety selection, consult your regional extension service or a local seed library.*
+
+## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
+- [[cervantes-open-pollinated-heirloom-seeds]]
+- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]

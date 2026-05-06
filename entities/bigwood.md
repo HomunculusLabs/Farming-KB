@@ -1,5 +1,6 @@
 ---
 title: Jeremy Bigwood
+created: 2026-04-28
 type: person
 tags: [mycology, analytical-chemistry, psilocybin, research]
 date: 2026-04-28

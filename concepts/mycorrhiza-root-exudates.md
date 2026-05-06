@@ -1,9 +1,11 @@
 ---
 title: Mycorrhiza Root Exudates
+created: 2026-04-28
 tags: [root-exudates, rhizosphere, mycorrhiza, signaling, microbial-communities]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Mycorrhiza Root Exudates

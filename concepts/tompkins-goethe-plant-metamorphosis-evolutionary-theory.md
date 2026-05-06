@@ -1,11 +1,13 @@
 ---
 title: Goethe's Plant Metamorphosis and Evolutionary Theory
+created: 2026-04-28
 tags: [goethe, plant-metamorphosis, darwin, lamarck, evolution,
       morphology, romantic-science, natural-philosophy]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 Johann Wolfgang von Goethe, best known as Germany's greatest literary

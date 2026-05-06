@@ -1,10 +1,12 @@
 ---
 title: "Golden Guide: Psilocybin Mushrooms Overview"
+created: 2026-04-28
 tags: [hallucinogenic-plants, psilocybin, psilocin, mushrooms, mexico,
   mazatec, teonanacatl, stropharia, panaeolus, conocybe, agaricaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/psilocybin-mushrooms-of-the-world-stamets.md]
+type: concept
 ---
 
 # Hallucinogenic Mushrooms of Mexico

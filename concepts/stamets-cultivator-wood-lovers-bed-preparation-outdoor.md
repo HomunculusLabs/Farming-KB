@@ -1,10 +1,12 @@
 ---
 title: Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms
+created: 2026-04-28
 tags: [outdoor-cultivation, wood-chips, natural-culture, perennial-beds, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms

@@ -1,9 +1,11 @@
 ---
 title: Endophytic Fungi Diversity
+created: 2026-04-28
 tags: [mycology, ecology, plant-microbe-interactions, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Endophytic Fungi Diversity

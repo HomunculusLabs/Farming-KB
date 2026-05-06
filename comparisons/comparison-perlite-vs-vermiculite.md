@@ -1,9 +1,11 @@
 ---
 title: "Perlite vs Vermiculite"
+created: 2026-04-28
 tags: [comparison, growing-media, cannabis, soil-amendments]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Perlite vs Vermiculite

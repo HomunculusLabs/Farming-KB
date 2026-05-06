@@ -1,5 +1,6 @@
 ---
 title: Clonostachys rosea
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, biocontrol, polyphagous, soil-fungi]
 date: 2026-04-28

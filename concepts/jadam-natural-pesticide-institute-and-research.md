@@ -1,9 +1,11 @@
 ---
 title: JADAM Natural Pesticide Institute and Research
+created: 2026-04-28
 tags: [jadam, research-institute, collective-intelligence, agricultural-innovation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Natural Pesticide Institute and Research

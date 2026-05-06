@@ -1,11 +1,13 @@
 ---
 title: "Linum album and Piriformospora indica Co-Culture for Podophyllotoxin"
+created: 2026-04-28
 tags: [linum-album, piriformospora-indica, podophyllotoxin, co-culture,
       secondary-metabolites, phytopharmaceuticals, plant-cell-culture,
       elicitation, lignan-biosynthesis, phenylalanine-ammonia-lyase]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 # Linum album and [[piriformospora-indica]] Co-Culture

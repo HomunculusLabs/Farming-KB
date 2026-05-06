@@ -1,9 +1,11 @@
 ---
 title: "Chicken Tractor vs Free Range"
+created: 2026-04-28
 tags: [comparison, poultry, permaculture, livestock]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Chicken Tractor vs Free Range

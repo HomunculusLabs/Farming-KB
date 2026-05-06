@@ -1,11 +1,13 @@
 ---
 title: Chiric-Caspi - Brunfelsia South American Hallucinogen
+created: 2026-04-28
 tags: [ethnobotany, solanaceae, colombia, ecuador, peru, brazil,
   hallucinogenic-plants, schultes, jivaro, kofan]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
+type: concept
 ---
 
 # Chiric-Caspi and Chiric Sanango (Brunfelsia spp.)

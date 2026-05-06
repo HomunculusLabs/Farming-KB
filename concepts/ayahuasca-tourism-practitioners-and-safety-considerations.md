@@ -1,9 +1,11 @@
 ---
 title: "ayahuasca tourism practitioners and safety considerations"
+created: 2026-04-28
 tags: [ayahuasca, tourism, shamanism, safety, peru]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
+type: concept
 ---
 
 # [[ayahuasca-tourism]] Practitioners and Safety Considerations

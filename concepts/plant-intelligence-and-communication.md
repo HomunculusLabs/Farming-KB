@@ -1,5 +1,6 @@
 ---
 title: Plant Intelligence and Communication
+created: 2026-04-28
 tags:
   - plant-biology
   - bio-communication
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - tompkins-secret-life-of-plants.md
+type: concept
 ---
 
 The concept of plant intelligence and communication challenges

@@ -1,10 +1,12 @@
 ---
 title: Pesticide Ecological Cascade and Collapse of Forest Ecosystems
+created: 2026-04-28
 tags: [natural-farming, fukuoka, pesticides, ecology, ecosystem-collapse, food-chain, forest-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Pesticide Ecological Cascade and Collapse of Forest Ecosystems

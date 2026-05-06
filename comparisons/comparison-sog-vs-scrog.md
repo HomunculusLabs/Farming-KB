@@ -1,9 +1,11 @@
 ---
 title: SOG vs SCROG Cannabis Training Methods
+created: 2026-04-28
 tags: [cannabis, cultivation, training, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # SOG vs SCROG: Cannabis Training Methods Compared

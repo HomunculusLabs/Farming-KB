@@ -1,5 +1,6 @@
 ---
 title: Mushroom Cultivation in Kenya
+created: 2026-04-28
 tags:
   - kenya
   - african-mushrooms
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md
+type: concept
 ---
 
 # Mushroom Cultivation in Kenya

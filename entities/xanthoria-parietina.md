@@ -1,5 +1,6 @@
 ---
 title: Xanthoria parietina
+created: 2026-04-28
 type: species
 tags: [lichen, ascomycete, hydrophobin, epiphytic, stress-tolerance]
 date: 2026-04-28

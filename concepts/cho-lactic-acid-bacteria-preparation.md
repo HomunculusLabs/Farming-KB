@@ -1,10 +1,12 @@
 ---
 title: Lactic Acid Bacteria Preparation (Cho's Method)
+created: 2026-04-28
 tags: [knf, input-preparation, microorganisms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 Lactic Acid Bacteria (LAB) are anaerobic microorganisms that, in the

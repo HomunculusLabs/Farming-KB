@@ -1,9 +1,11 @@
 ---
 title: Dissolved Oxygen Management in Compost Tea Brewing
+created: 2026-04-28
 tags: [compost-tea, dissolved-oxygen, aeration, brewing, water-quality]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Dissolved Oxygen Management in Compost Tea Brewing

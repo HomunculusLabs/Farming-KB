@@ -1,10 +1,12 @@
 ---
 title: "Three Stages of Barley Cultivation and No-Tillage Evolution"
+created: 2026-04-28
 tags: [fukuoka, barley, no-tillage, direct-seeding, straw-mulch, winter-grain, crop-rotation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "administrator-microsoft-word-fukuoka-textdoc.md"
+type: concept
 ---
 
 # Three Stages of Barley Cultivation and No-Tillage Evolution

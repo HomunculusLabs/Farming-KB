@@ -1,9 +1,11 @@
 ---
 title: "How to Manage Humidity in a Cannabis Grow Room"
+created: 2026-04-28
 tags: [query, cannabis, humidity, environment, ventilation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Manage Humidity in a Cannabis Grow Room

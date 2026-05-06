@@ -1,5 +1,6 @@
 ---
 title: Permaculture Design Methods and Process
+created: 2026-04-28
 tags:
   - permaculture
   - design-methods
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Permaculture Design Methods and Process

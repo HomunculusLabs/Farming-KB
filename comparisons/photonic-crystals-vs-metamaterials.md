@@ -1,5 +1,6 @@
 ---
 title: Photonic Crystals vs Metamaterials
+created: 2026-04-28
 subtitle: Comparing wavelength-scale periodic optics with subwavelength effective media
 tags: [optics, photonics, materials-science, metamaterials, nanotechnology]
 date: 2026-05-02
@@ -10,6 +11,7 @@ related_concepts:
   - photonic-crystals
   - topological-insulators
   - stress-strain-and-elasticity
+type: comparison
 ---
 # Photonic Crystals vs Metamaterials
 Photonic crystals and metamaterials are both engineered structures for controlling waves.

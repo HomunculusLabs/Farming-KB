@@ -1,9 +1,11 @@
 ---
 title: Soil and Humus Management
+created: 2026-04-28
 tags: [permaculture, soil, compost, humus, fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Soil and Humus Management

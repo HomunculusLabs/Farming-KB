@@ -1,9 +1,11 @@
 ---
 title: "Cob vs Cordwood"
+created: 2026-04-28
 tags: [comparison, natural-building, construction, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Cob vs Cordwood

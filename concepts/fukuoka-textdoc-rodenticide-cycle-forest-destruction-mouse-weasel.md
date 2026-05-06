@@ -1,10 +1,12 @@
 ---
 title: "Rodenticide Cycle and Forest Destruction Chain"
+created: 2026-04-28
 tags: [ecology, rodenticide, forest-destruction, cascade-failure, food-chain, pine-forest, ecosystem-balance, pest-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+type: concept
 ---
 
 # Rodenticide Cycle and Forest Destruction Chain

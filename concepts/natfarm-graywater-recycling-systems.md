@@ -1,9 +1,11 @@
 ---
 title: Graywater Systems for Off-Grid Homes
+created: 2026-04-28
 tags: [graywater, water-recycling, wetland-marsh, off-grid, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Graywater Systems for Off-Grid Homes

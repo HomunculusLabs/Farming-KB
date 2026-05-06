@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Mushrooms for Medicinal Use?"
+created: 2026-04-28
 tags:
   - medicinal-mushrooms
   - functional-fungi
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
+type: query
 ---
 # What Are the Best Mushrooms for Medicinal Use?
 Medicinal mushrooms have been used for centuries in traditional medicine systems

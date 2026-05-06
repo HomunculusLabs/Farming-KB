@@ -1,9 +1,11 @@
 ---
 title: "Insect-Fungal Mutualism"
+created: 2026-04-28
 tags: [mycology, entomology, mutualism, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Insect-Fungal Mutualism

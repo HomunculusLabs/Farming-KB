@@ -1,5 +1,6 @@
 ---
 title: ACDC
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -104,7 +105,7 @@ The legal status of ACDC varies by jurisdiction. In the United States, hemp-deri
 
 ## See Also
 
-- [[charlottes-web-strain]] — CBD-dominant strain developed for pediatric epilepsy
+- [[acdc-cannabis-strain]] — CBD-dominant strain developed for pediatric epilepsy
 - [[cannabidiol-cbd]] — comprehensive CBD compound profile
-- [[cannabis-terpenes]] — terpene pharmacology in cannabis
+- [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] — terpene pharmacology in cannabis
 - [[cannabis-endocannabinoid-system]] — ECS overview and therapeutic targets

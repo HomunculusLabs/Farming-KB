@@ -1,10 +1,12 @@
 ---
 title: "tryptamines and quantum mechanics"
+created: 2026-04-28
 tags: [quantum-mechanics, tryptamines, consciousness,
       hallucinogenesis, psychophysics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+type: concept
 ---
 
 # Tryptamines and Quantum Mechanics

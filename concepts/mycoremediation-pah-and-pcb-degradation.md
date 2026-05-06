@@ -1,6 +1,8 @@
 ---
 title: Mycoremediation of PAH and PCB Degradation
+created: 2026-04-28
 tags: [mycoremediation, pah, pcb, bioremediation, pollution, fungi]
+type: concept
 ---
 
 # Mycoremediation of PAH and PCB Degradation

@@ -1,9 +1,11 @@
 ---
 title: "Partial Rest and Algal Crusts"
+created: 2026-04-28
 tags: [rest, partial-rest, algal-crust, soil-surface, brittle-environments]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Partial Rest and Algal Crusts

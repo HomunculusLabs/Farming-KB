@@ -1,5 +1,6 @@
 ---
 title: What Is Ecological Succession and How Can Farmers Use It?
+created: 2026-04-28
 tags: [ecological-succession, farming, agroecology, regenerative-agriculture, permaculture, land-management, soil-building, pioneer-species, climax-community]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,6 +12,7 @@ sources:
   - "Jacke & Toensmeier (2005) — Edible Forest Gardens, Vol 1 & 2"
   - "USDA NRCS — Soil Health and Ecological Principles"
   - "Shepherd J (2015) — Restoration Agriculture"
+type: query
 ---
 
 # What Is Ecological Succession and How Can Farmers Use It?

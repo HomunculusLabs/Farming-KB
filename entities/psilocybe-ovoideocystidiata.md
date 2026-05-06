@@ -1,5 +1,6 @@
 ---
 title: Psilocybe ovoideocystidiata
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, north-america]
 date: 2026-04-28

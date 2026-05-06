@@ -1,5 +1,6 @@
 ---
 title: "Honey Bees vs Native/Solitary Bees — A Comprehensive Comparison"
+created: 2026-04-28
 tags:
   - bees
   - pollinators
@@ -21,6 +22,7 @@ sources:
   - "Mader, E. et al. (2011). Attracting Native Pollinators. Xerces Society / Storey Publishing."
   - "USDA-ARS — Bee Research Laboratory: Honey Bee Health and Colony Collapse Disorder (ars.usda.gov)"
   - "Roulston, T.H. & Goodell, K. (2011). The role of resources and risks in regulating wild bee populations. Annual Review of Entomology, 56, 293–312."
+type: comparison
 ---
 
 # Honey Bees vs Native/Solitary Bees

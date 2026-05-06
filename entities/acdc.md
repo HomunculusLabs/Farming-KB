@@ -1,5 +1,6 @@
 ---
 title: ACDC
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -147,5 +148,9 @@ ACDC represents a pivotal moment in the modern history of cannabis. Along with C
 ACDC stands as a landmark achievement in cannabis breeding and medical cannabis therapy. Its exceptional CBD content, negligible psychoactivity, and broad therapeutic profile have made it an indispensable tool for patients seeking the benefits of cannabis without the high. From pediatric epilepsy to chronic pain, anxiety to autoimmune conditions, ACDC has demonstrated that cannabis can be a powerful medicine in its own right, independent of its psychoactive properties. As research into the endocannabinoid system and cannabis-derived therapies continues to advance, strains like ACDC will remain at the forefront of evidence-based cannabinoid medicine.
 
 ## See Also
+
+- [[endocannabinoid-system]]
+
+- [[acdc-cannabis]]
 
 - [[acdc-cannabis-strain]]

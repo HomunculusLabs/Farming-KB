@@ -1,5 +1,6 @@
 ---
 title: "4-Hydroxytryptamine"
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, neurotransmitter, biosynthetic-intermediate, serotonin-analog]
 date: 2026-04-28

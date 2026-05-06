@@ -1,9 +1,11 @@
 ---
 title: "What Are Dynamic Accumulator Plants and How Do I Use Them?"
+created: 2026-04-28
 tags: [query, dynamic-accumulators, plants, soil-health, nutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Dynamic Accumulator Plants and How Do I Use Them?

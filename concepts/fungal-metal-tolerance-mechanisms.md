@@ -1,9 +1,11 @@
 ---
 title: "Fungal Metal Tolerance Mechanisms"
+created: 2026-04-28
 tags: [heavy-metals, fungal-tolerance, bioremediation, metal-resistance, adaptation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 Fungi exhibit a remarkable range of mechanisms for tolerating and

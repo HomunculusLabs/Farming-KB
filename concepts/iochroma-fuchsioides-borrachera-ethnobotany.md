@@ -1,10 +1,12 @@
 ---
 title: Iochroma Fuchsioides - Borrachera Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, colombia, sibundoy, solanaceae, hallucinogenic-plants,
   south-america, schultes, borrachera]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Iochroma Fuchsioides (Borrachera)

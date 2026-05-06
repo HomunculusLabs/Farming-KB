@@ -1,10 +1,12 @@
 ---
 title: "Cost Analysis of Fungal Bioremediation"
+created: 2026-04-28
 tags: [mycoremediation, cost-analysis, remediation-economics, technology-assessment, feasibility]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Cost Analysis of Fungal Bioremediation

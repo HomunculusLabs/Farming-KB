@@ -1,5 +1,6 @@
 ---
 title: α-Methyltryptamine
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, stimulant, entactogen, serotonergic]
 date: 2026-04-28

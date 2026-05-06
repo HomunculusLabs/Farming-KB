@@ -1,10 +1,12 @@
 ---
 title: Legalization Debate and the Archaic Revival
+created: 2026-04-28
 tags: [legalization, drug-policy, archaic-revival, freedom, mckenna, drug-war, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Legalization Debate and the Archaic Revival

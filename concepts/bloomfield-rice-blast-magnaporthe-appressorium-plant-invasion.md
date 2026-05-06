@@ -1,5 +1,6 @@
 ---
 title: Rice Blast Fungus and Appressorium-Mediated Plant Invasion
+created: 2026-04-28
 tags:
   - mycology
   - plant-pathology
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002) Chapter 9
+type: concept
 ---
 
 # Rice Blast Fungus and Appressorium-Mediated Plant Invasion

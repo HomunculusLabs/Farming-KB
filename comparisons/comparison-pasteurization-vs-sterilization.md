@@ -6,6 +6,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+created: 2026-04-25
+type: comparison
 ---
 
 # Pasteurization vs Sterilization

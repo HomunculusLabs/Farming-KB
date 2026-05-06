@@ -1,5 +1,6 @@
 ---
 title: Mycelial Metabolite Exudation as a Cultivation Stress Indicator
+created: 2026-04-28
 tags:
   - mycology
   - cultivation
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Mycelial Metabolite Exudation as a Cultivation Stress Indicator
@@ -171,6 +173,8 @@ stress periods of a few days have minimal impact on final yield, while prolonged
 of a week or more can significantly reduce productivity.
 
 ## See Also
+
+- [[jar-shaking-grain-redistribution-mycelial-colonisation]]
 
 - [[fungal-secondary-metabolites-environment]]
 - [[contamination-prevention-mycology]]

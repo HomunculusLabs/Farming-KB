@@ -1,9 +1,11 @@
 ---
 title: African Psilocybin Mushroom Distribution
+created: 2026-04-28
 tags: [distribution, africa, ethnomycology, psilocybin-mushrooms, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # African Psilocybin Mushroom Distribution

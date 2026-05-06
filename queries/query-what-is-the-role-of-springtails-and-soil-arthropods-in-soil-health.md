@@ -1,9 +1,11 @@
 ---
 title: "What Is the Role of Springtails and Soil Arthropods in Soil Health"
+created: 2026-04-28
 tags: query, soil-science, soil-food-web, arthropods, biology
 date: 2026-04-25
 updated: 2026-04-25
 sources: 
+type: query
 ---
 
 # What Is the Role of Springtails and Soil Arthropods in Soil Health

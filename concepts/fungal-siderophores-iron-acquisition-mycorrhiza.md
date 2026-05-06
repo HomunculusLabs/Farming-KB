@@ -1,10 +1,12 @@
 ---
 title: "Fungal Siderophores Iron Acquisition Mycorrhiza"
+created: 2026-04-28
 tags: [mycology, siderophore, mycorrhiza, iron, biogeochemistry]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 # Fungal Siderophores and Iron Acquisition in [[mycorrhiza]]

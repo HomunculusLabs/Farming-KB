@@ -1,9 +1,11 @@
 ---
 title: "Psilocybin Mushrooms Beyond Psilocybe: Other Genera"
+created: 2026-04-28
 tags: [psilocybin, panaeolus, gymnopilus, pluteus, conocybe, inocybe, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+type: concept
 ---
 
 # Psilocybin Mushrooms Beyond Psilocybe: Other Genera

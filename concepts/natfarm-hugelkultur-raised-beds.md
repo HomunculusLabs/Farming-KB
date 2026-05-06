@@ -1,9 +1,11 @@
 ---
 title: Hugelkultur Raised Beds
+created: 2026-04-28
 tags: [hugelkultur, raised-beds, soil-building, water-retention, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Hugelkultur Raised Beds

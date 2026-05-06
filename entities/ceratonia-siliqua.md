@@ -1,5 +1,6 @@
 ---
 title: Ceratonia siliqua
+created: 2026-04-28
 type: species
 tags: permaculture, food-forest, drought-tolerant, leguminous, mediterranean]
 date: 2026-04-28

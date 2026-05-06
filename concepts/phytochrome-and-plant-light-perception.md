@@ -1,5 +1,6 @@
 ---
 title: Phytochrome and Plant Light Perception
+created: 2026-04-28
 tags:
   - photobiology
   - phytochrome
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knows-plant-vision-cannabis-photoperiodism-and-light-cycles-perception-plant-knowsindd.md
+type: concept
 ---
 
 # Phytochrome and Plant Light Perception

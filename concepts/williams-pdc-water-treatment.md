@@ -1,11 +1,13 @@
 ---
 title: "Water Treatment in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, water-treatment, greywater, blackwater,
        constructed-wetlands, reed-beds, hydro-cycle, biocompatible]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Water Treatment in Permaculture Design

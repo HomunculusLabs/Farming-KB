@@ -1,5 +1,6 @@
 ---
 title: Mycogone perniciosa
+created: 2026-04-28
 type: species
 tags: [fungal-pathogen, wet-bubble, mushroom-disease, casing-contaminant, soil-borne]
 date: 2026-04-28

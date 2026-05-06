@@ -1,10 +1,12 @@
 ---
 title: "Phosphate Solubilizing Fungi and Nutrient Mobilization"
+created: 2026-04-28
 tags: [phosphate-solubilization, psf, aspergillus, penicillium, agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Phosphate Solubilizing Fungi and Nutrient Mobilization

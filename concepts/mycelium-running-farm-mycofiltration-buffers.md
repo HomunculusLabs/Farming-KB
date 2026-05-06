@@ -1,9 +1,11 @@
 ---
 title: "Farm Mycofiltration Buffers"
+created: 2026-04-28
 tags: [mycology, mycofiltration, agriculture, water-quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Farm Mycofiltration Buffers

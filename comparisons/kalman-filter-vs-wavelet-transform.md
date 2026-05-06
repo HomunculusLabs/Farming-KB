@@ -1,5 +1,6 @@
 ---
 title: Kalman Filter vs Wavelet Transform
+created: 2026-04-28
 subtitle: Comparing model-based state estimation with multiscale signal representation
 tags: [comparison, signal-processing, estimation, wavelets, control-theory]
 date: 2026-05-02
@@ -11,6 +12,7 @@ related_concepts:
   - kalman-filter
   - wavelet-transform
   - signal-processing
+type: comparison
 ---
 # Kalman Filter vs Wavelet Transform
 The [[kalman-filter]] and the [[wavelet-transform]] are both used with noisy, time-varying data.

@@ -1,9 +1,11 @@
 ---
 title: "Truffle Cultivation vs Indoor Mushroom Cultivation"
+created: 2026-04-28
 tags: [comparison, mycology, cultivation, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: comparison
 ---
 
 # Truffle Cultivation vs Indoor Mushroom Cultivation

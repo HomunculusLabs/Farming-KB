@@ -1,9 +1,11 @@
 ---
 title: "Lespedeza bicolor"
+created: 2026-04-28
 tags: [species, shrub, nitrogen-fixer, fodder, pioneer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Lespedeza bicolor

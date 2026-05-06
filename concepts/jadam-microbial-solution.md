@@ -1,9 +1,11 @@
 ---
 title: JADAM Microbial Solution (JMS)
+created: 2026-04-28
 tags: [jadam, microorganisms, soil-biology, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Microbial Solution (JMS)

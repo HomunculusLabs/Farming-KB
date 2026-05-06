@@ -1,9 +1,11 @@
 ---
 title: "Wicking Bed vs Raised Bed"
+created: 2026-04-28
 tags: [comparison, gardening, water-management, soil-building, season-extension]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Wicking Bed vs Raised Bed

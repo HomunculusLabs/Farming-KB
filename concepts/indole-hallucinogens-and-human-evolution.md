@@ -1,5 +1,6 @@
 ---
 title: Indole Hallucinogens and Human Evolution
+created: 2026-04-28
 tags:
   - pharmacology
   - indole alkaloids
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna, T. (1992). Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books.
+type: concept
 ---
 
 # Indole Hallucinogens and Human Evolution

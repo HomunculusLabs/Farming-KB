@@ -1,5 +1,6 @@
 ---
 title: "Runtz"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, cookie-family, modern-genetics, dessert-cultivar]
 date: 2026-04-28

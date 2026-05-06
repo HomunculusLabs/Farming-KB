@@ -1,10 +1,12 @@
 ---
 title: "How Do I Design a Windbreak or Shelterbelt for My Property?"
+created: 2026-04-28
 tags: [query, windbreak, shelterbelt, permaculture, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How Do I Design a Windbreak or Shelterbelt for My Property?

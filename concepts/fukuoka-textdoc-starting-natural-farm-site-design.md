@@ -1,5 +1,6 @@
 ---
 title: Starting a Natural Farm: Site Selection and Land Design
+created: 2026-04-28
 tags:
   - farm-design
   - site-selection
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Starting a Natural Farm: Site Selection and Land Design

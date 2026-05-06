@@ -1,9 +1,11 @@
 ---
 title: "Best Goat Breeds for Small Homesteads and Permaculture Systems"
+created: 2026-04-28
 tags: [goats, breeds, homesteading, permaculture, livestock-selection, dairy-goats, meat-goats]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://www.livestockconservancy.org, https://www.adga.org, https://www.attra.ncat.org, https://www.sare.org]
+type: query
 ---
 
 # Best Goat Breeds for Small Homesteads and Permaculture Systems
@@ -148,6 +150,10 @@ and experienced breeders in your region. Milk production varies by individual, d
 and management.*
 
 ## See Also
+
+- [[holzer-wild-cattle-and-old-breeds]]
+- [[homestead-permaculture-design]]
+- [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]
 
 - [[homesteading]]
 - [[permaculture]]

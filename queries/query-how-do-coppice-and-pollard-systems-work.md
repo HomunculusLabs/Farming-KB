@@ -1,5 +1,6 @@
 ---
 title: "How Do Coppice and Pollard Systems Work?"
+created: 2026-04-28
 tags: forestry, agroforestry, coppicing, pollarding, woodlot management, sustainable harvest
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://www.forestryengland.uk/coppicing
   - https://www.fao.org/forestry/agroforestry/en/
   - https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-to-manage-trees/coppicing/
+type: query
 ---
 
 # How Do Coppice and Pollard Systems Work?

@@ -1,5 +1,6 @@
 ---
 title: "Julius von Sachs and the Discovery of Blue-Light Phototropism"
+created: 2026-04-28
 tags: [sachs, phototropism, blue-light, plant-biology, history-of-science,
       darwin, photoreception, plant-movement, botany]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Daniel Chamovitz (2012), "What a Plant Knows," Oneworld Publications,
     Chapter 1
   - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Julius von Sachs and the Discovery of Blue-Light Phototropism

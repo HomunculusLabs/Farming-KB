@@ -1,5 +1,6 @@
 ---
 title: Soil Protozoa and Nutrient Cycling
+created: 2026-04-28
 tags:
   - protozoa
   - nutrient-cycling
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+type: concept
 ---
 
 # Soil Protozoa and Nutrient Cycling

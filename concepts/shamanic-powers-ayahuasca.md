@@ -1,5 +1,6 @@
 ---
 title: Shamanic Powers Through Ayahuasca
+created: 2026-04-28
 tags:
   - shamanic-powers
   - ayahuasca
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md
+type: concept
 ---
 
 # Shamanic Powers Through Ayahuasca

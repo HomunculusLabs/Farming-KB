@@ -1,5 +1,6 @@
 ---
 title: Falconer Dwelling House Mushroom Growing
+created: 2026-04-28
 tags:
   [
     mushroom-cultivation,
@@ -14,6 +15,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Growing Mushrooms in the Dwelling House

@@ -1,5 +1,6 @@
 ---
 title: "Psilocybe tampanensis"
+created: 2026-04-28
 type: species
 tags: [fungi, psychedelic-mushroom, psilocybe, tryptamine, truffle, florida, cultivation]
 date: 2026-04-28

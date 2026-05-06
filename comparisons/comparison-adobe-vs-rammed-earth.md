@@ -1,9 +1,11 @@
 ---
 title: "Adobe vs Rammed Earth"
+created: 2026-04-28
 tags: [comparison, natural-building, adobe, rammed-earth, earth-architecture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Adobe vs Rammed Earth

@@ -1,10 +1,12 @@
 ---
 title: Track Changes
+created: 2026-04-28
 tags: [collaboration, word-processing, document-review, microsoft-word]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Track Changes

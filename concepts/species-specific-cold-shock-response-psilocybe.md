@@ -1,5 +1,6 @@
 ---
 title: Species-Specific Cold Shock Response in Psilocybe Cultivation
+created: 2026-04-28
 tags:
   - mycology
   - cultivation
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Species-Specific Cold Shock Response in Psilocybe Cultivation

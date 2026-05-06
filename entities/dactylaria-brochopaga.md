@@ -1,5 +1,6 @@
 ---
 title: Dactylaria brochopaga
+created: 2026-04-28
 type: species
 tags: [ascomycota, nematode-trapping, predatory-fungus, soil-fungus, biocontrol]
 date: 2026-04-28

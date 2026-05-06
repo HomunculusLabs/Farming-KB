@@ -1,11 +1,13 @@
 ---
 title: Client Interview Process in permaculture Design
+created: 2026-04-28
 tags: [permaculture, client-interview, design-process, communication,
       site-analysis]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papwilliam-ozier-williamsiams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 # Client Interview Process in [[permaculture-design]]
 A [[permaculture]] design will always be done for a client. Even if you are

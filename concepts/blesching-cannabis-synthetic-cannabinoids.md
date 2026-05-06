@@ -1,9 +1,11 @@
 ---
 title: "Synthetic Cannabinoids Versus Natural Cannabis"
+created: 2026-04-28
 tags: [synthetic-cannabinoids, dronabinol, nabilone, nabiximols, marinol]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Synthetic Cannabinoids Versus Natural Cannabis

@@ -1,9 +1,11 @@
 ---
 title: "What Are the Benefits of Growing Mushrooms at Home?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, home-growing, nutrition, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: query
 ---
 
 # What Are the Benefits of Growing Mushrooms at Home?

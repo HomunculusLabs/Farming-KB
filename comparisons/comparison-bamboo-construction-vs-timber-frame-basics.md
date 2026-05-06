@@ -1,9 +1,11 @@
 ---
 title: "Bamboo Construction vs Timber Frame"
+created: 2026-04-28
 tags: [comparison, construction, building, homesteading, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Bamboo Construction vs Timber Frame

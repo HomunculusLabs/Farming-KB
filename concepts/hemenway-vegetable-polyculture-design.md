@@ -1,10 +1,12 @@
 ---
 title: "Vegetable Polyculture Design"
+created: 2026-04-28
 tags: [permaculture, polyculture, vegetable-gardening, companion-planting, food-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Vegetable [[pdc-plant-guilds-and-polyculture-design]]

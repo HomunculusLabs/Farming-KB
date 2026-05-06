@@ -1,9 +1,11 @@
 ---
 title: "How Does Aquaponics Work"
+created: 2026-04-28
 tags: [query, aquaponics, hydroponics, sustainable-farming, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How Does Aquaponics Work
 ## Short Answer

@@ -1,5 +1,6 @@
 ---
 title: "Pluteus glaucus"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, agaricales, pluteaceae, pluteus,
   psychoactive, psilocybin-containing, saprotrophic,

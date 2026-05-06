@@ -1,5 +1,6 @@
 ---
 title: "Helvella crispa"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -117,6 +118,8 @@ and serves as a food source for various invertebrates and small mammals.
   critical to distinguish.
 
 ## See Also
+
+- [[sparassis-crispa]]
 
 - [[gyromitra-esculenta]]
 - [[morchella-esculenta]]

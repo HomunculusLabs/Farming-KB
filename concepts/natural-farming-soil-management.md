@@ -1,9 +1,11 @@
 ---
 title: Natural Farming Soil Management
+created: 2026-04-28
 tags: [soil-management, natural-farming, soil-health, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md, chos-global-natural-farming.md]
+type: concept
 ---
 
 # Natural Farming Soil Management

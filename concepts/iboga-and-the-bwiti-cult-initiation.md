@@ -1,9 +1,11 @@
 ---
 title: Iboga and the Bwiti Cult Initiation
+created: 2026-04-28
 tags: [ethnobotany, iboga, ibogaine, african-shamanism, initiation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
+type: concept
 ---
 
 # Iboga and the Bwiti Cult Initiation

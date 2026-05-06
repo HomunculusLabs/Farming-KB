@@ -1,10 +1,12 @@
 ---
 title: Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin
+created: 2026-04-28
 tags: [reduction, lialh4, psilocin, organic-synthesis, tryptamine, indole, shirota, magic-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin

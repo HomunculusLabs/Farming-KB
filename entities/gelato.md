@@ -1,5 +1,6 @@
 ---
 title: "Gelato"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, dessert-cultivar, modern-genetics]
 date: 2026-04-28

@@ -1,10 +1,12 @@
 ---
 title: "Biopile Fungal Treatment of Contaminated Soil"
+created: 2026-04-28
 tags: [mycoremediation, biopile, soil-remediation, petroleum-hydrocarbons, ex-situ-treatment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Biopile Fungal Treatment of Contaminated Soil

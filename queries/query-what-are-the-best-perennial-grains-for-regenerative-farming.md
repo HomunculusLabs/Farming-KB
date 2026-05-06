@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Perennial Grains for Regenerative Farming?"
+created: 2026-04-28
 tags:
   - perennial-grains
   - kernza
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - encyclopedic knowledge base
+type: query
 ---
 
 # What Are the Best Perennial Grains for Regenerative Farming?

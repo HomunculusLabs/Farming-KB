@@ -1,5 +1,6 @@
 ---
 title: Cellvibrio as a Biomarker of Post-Harvest Root Decay in Cannabis
+created: 2026-04-28
 tags:
   - microbiome
   - cannabis
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Cellvibrio as a Biomarker of Post-Harvest Root Decay in Cannabis

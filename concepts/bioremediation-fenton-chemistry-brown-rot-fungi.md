@@ -1,9 +1,11 @@
 ---
 title: "Fenton Chemistry in Brown Rot Fungi"
+created: 2026-04-28
 tags: [bioremediation, fungal-enzymology, brown-rot, wood-decay]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fenton Chemistry in Brown Rot Fungi

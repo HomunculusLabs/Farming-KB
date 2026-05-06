@@ -1,5 +1,6 @@
 ---
 title: Sacred Mushroom Ceremonies
+created: 2026-04-28
 tags:
   - shamanism
   - entheogens
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - harner-j-hallucinogens-and-shamanism.md
   - a-golden-guide-to-hallucinogenic-plants.md
+type: concept
 ---
 
 [[sacred-mushroom-and-the-cross]] ceremonies represent one of humanity's oldest

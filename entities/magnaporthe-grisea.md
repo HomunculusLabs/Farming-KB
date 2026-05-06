@@ -1,9 +1,11 @@
 ---
 title: "Magnaporthe grisea"
+created: 2026-04-28
 tags: [species, fungus, pathogen, plant-disease]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: entity
 ---
 
 # Magnaporthe grisea

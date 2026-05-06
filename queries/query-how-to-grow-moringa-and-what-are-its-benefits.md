@@ -1,10 +1,12 @@
 ---
 title: "How to Grow Moringa and What Are Its Benefits"
+created: 2026-04-28
 tags: [query, moringa, superfoods, tropical-gardening, medicinal-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How to Grow Moringa and What Are Its Benefits

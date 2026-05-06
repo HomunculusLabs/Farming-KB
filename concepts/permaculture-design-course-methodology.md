@@ -1,5 +1,6 @@
 ---
 title: Permaculture Design Course Methodology
+created: 2026-04-28
 tags:
   - permaculture
   - PDC
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+type: concept
 ---
 
 # Permaculture Design Course Methodology

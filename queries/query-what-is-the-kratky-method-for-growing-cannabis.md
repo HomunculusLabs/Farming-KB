@@ -1,9 +1,11 @@
 ---
 title: "What Is the Kratky Method for Growing Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, hydroponics, kratky-method, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Kratky Method for Growing Cannabis

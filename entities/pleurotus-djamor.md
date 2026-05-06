@@ -1,9 +1,11 @@
 ---
 title: "pleurotus djamor"
+created: 2026-04-28
 tags: [species, fungi, basidiomycete, edible, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: entity
 ---
 
 # Pleurotus djamor

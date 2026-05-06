@@ -1,10 +1,12 @@
 ---
 title: "How Do I Grow Wine Cap Mushrooms (Stropharia rugosoannulata) in My Garden?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, wine-cap, garden-mushrooms, stropharia]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 
 # How Do I Grow Wine Cap Mushrooms (Stropharia rugosoannulata) in My Garden?

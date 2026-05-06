@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Dynamic Accumulator Plants for Permaculture?"
+created: 2026-04-28
 tags:
   - permaculture
   - dynamic-accumulators
@@ -17,6 +18,7 @@ sources:
   - "Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens, Vol. 2. Chelsea Green, 2005."
   - "Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green, 2009."
   - "Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. Metamorphic Press, 1986."
+type: query
 ---
 
 ## What Are Dynamic Accumulators?

@@ -1,9 +1,11 @@
 ---
 title: Cannabis Hydroponic Growing Systems
+created: 2026-04-28
 tags: [cannabis, hydroponics, growing, DWC, NFT, aeroponics, grow-bible]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 # Cannabis Hydroponic Growing Systems

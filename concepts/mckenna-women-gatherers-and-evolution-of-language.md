@@ -1,5 +1,6 @@
 ---
 title: Women Gatherers and the Evolution of Language
+created: 2026-04-28
 tags:
   - linguistics
   - human-evolution
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Women Gatherers and the Evolution of Language

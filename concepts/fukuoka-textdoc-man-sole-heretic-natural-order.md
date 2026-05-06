@@ -1,5 +1,6 @@
 ---
 title: Man as Sole Heretic in the Natural Order
+created: 2026-04-28
 tags:
   - fukuoka
   - philosophy
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 7079-7172)
+type: concept
 ---
 
 # Man as Sole Heretic in the Natural Order

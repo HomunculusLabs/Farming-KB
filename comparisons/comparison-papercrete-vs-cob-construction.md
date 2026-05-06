@@ -1,5 +1,6 @@
 ---
 title: "Papercrete vs Cob Construction"
+created: 2026-04-28
 tags: [natural-building, papercrete, cob, sustainable-construction, green-building]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Weismann, A. & Bryce, K. (2007). Building with Cob: A Step-by-Step Guide. Green Books."
   - "Woolley, T. (2006). Natural Building: A Guide to Materials and Techniques. Crowood Press."
   - "Magwood, C. & Mack, P. (2020). Essential Sustainable Home Design. New Society Publishers."
+type: comparison
 ---
 
 # Papercrete vs Cob Construction

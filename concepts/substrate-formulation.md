@@ -1,9 +1,11 @@
 ---
 title: Substrate Formulation
+created: 2026-04-28
 tags: [mycology, cultivation, substrate, nutrition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Substrate Formulation

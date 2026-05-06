@@ -1,5 +1,6 @@
 ---
 title: "Tulsi (Ocimum tenuiflorum)"
+created: 2026-04-28
 type: species
 tags: [herbal, lamiaceae, adaptogen, ayurveda, culinary, medicinal]
 date: 2026-04-28

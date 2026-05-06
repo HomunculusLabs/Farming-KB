@@ -1,5 +1,6 @@
 ---
 title: Falconer Mushroom Preserving and Drying
+created: 2026-04-28
 tags:
   [mushroom-cultivation, food-preservation, victorian-cooking, drying, mushroom-ketchup]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Mushroom Preserving, Drying, and Ketchup

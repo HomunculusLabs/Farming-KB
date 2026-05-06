@@ -1,9 +1,11 @@
 ---
 title: "Plant Memory: What a Plant Remembers"
+created: 2026-04-28
 tags: [plant-biology, memory, epigenetics, priming]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+type: concept
 ---
 
 # Plant Memory: What a Plant Remembers

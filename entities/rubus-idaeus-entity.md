@@ -1,5 +1,6 @@
 ---
 title: "Rubus idaeus"
+created: 2026-04-28
 type: species
 tags: [species, plant, rosaceae, permaculture, edible-fruit, berry, pollinator,
   living-hedge, medicinal, agroforestry]

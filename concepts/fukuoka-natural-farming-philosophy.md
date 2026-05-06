@@ -23,7 +23,6 @@ The foundational claim of natural farming is that nature is already productive a
 self-regulating. Left to itself, any piece of land will develop a balanced, productive
 ecosystem. Agriculture, in Fukuoka's view, is the process of disrupting this natural
 productivity and then struggling to replace it with human effort and inputs.
-
 Natural farming therefore asks: "What is the minimum I must do to allow nature to
 express its productivity?" rather than "What must I do to make this land productive?"
 The answer, refined over decades, is: very little. See [[fukuoka-road-do-nothing-farming]].
@@ -35,7 +34,6 @@ discriminating knowledge — the analytical, categorizing, intervening intellect
 creates a false perception of nature. When we look at a field and see "weeds" and
 "crops," "pests" and "beneficial insects," we are imposing human categories on a
 reality that is fundamentally unified.
-
 This is not anti-intellectualism but a call for a different kind of knowing: intuitive,
 holistic, participatory understanding. The farmer who knows his land through years
 of observation has a deeper understanding than the scientist who studies it through
@@ -45,12 +43,10 @@ data. See [[fukuoka-observation-based-farming]] and [[fukuoka-wholistic-nature-p
 
 The contrast between natural farming and scientific agriculture (including organic
 farming) is fundamental:
-
 - **Scientific farming:** Analyzes, intervenes, controls, manages. Assumes nature
 needs human help.
 - **Natural farming:** Observes, facilitates, cooperates, trusts. Assumes nature
 is already sufficient.
-
 This is not a middle path but a fundamentally different direction. Organic farming
 substitutes organic inputs for chemical ones but maintains the same interventionist
 approach. Natural farming eliminates the need for inputs entirely. See natural
@@ -70,7 +66,6 @@ Natural farming is inseparable from [[fukuoka-do-nothing-farming-philosophy-and-
 crops, but the cultivation of human beings." The farm is not merely a place to produce
 food but a place to practice right relationship with nature, to develop humility
 and awareness, and to participate in the wholeness of creation.
-
 This spiritual dimension connects natural farming to Buddhist philosophy (Mu/emptiness),
 Taoist non-action (wu wei), and indigenous land relationships. Fukuoka did not align
 himself with any single tradition but drew on all of them. See [[fukuoka-dharmic-law-all-things-return-to-one]] and [[fukuoka-nature-god-limits-of-knowledge]].
@@ -90,7 +85,6 @@ Fukuoka's philosophy has influenced permaculture, regenerative agriculture, agro
 and the broader sustainable agriculture movement. His core insight — that nature
 is sufficient and human intervention is often counterproductive — resonates with
 ecological science's growing understanding of self-organizing systems.
-
 See also:
 - [[fukuoka-four-principles-natural-farming]] — practical principles
 - [[fukuoka-philosophy-of-mu-and-nature]] — philosophical foundation
@@ -143,10 +137,14 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
+- [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
+- [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
+- [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
+- [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]]
 - [[fukuoka-mechanization-trap-and-farmer-alienation]]
 - [[fukuoka-science-destroy-and-rebuild-paradox]]
 - [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
-
 - [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-straw-decomposition-ecological-succession]]
@@ -180,7 +178,6 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 - [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
-
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
@@ -191,8 +188,6 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 - [[critique-of-scientific-agriculture]]
 - [[natural-diet-and-seasonal-eating]]
 - [[natural-farming-philosophy-of-mu]]
-
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
-
 - [[agroecology]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]

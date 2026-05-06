@@ -1,5 +1,6 @@
 ---
 title: Mortierella alpina
+created: 2026-04-28
 type: species
 tags: [zygomycota, soil-fungus, lipid-production, forest-ecology, succession]
 date: 2026-04-28

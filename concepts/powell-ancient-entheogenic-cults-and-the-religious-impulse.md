@@ -1,11 +1,13 @@
 ---
 title: Ancient Entheogenic Cults and the Religious Impulse
+created: 2026-04-28
 tags: [entheogens, ancient-religion, eleusinian-mysteries, aztec,
   teotihuacan, religious-impulse, shamanism, theophany]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Ancient Entheogenic Cults and the Religious Impulse
 

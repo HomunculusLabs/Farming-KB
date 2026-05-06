@@ -1,9 +1,11 @@
 ---
 title: Document Interoperability Standards
+created: 2026-04-28
 tags: [standards, interoperability, open-document-format, office-open-xml]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Document Interoperability Standards

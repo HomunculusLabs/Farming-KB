@@ -1,10 +1,12 @@
 ---
 title: McKenna on Language, Poetry, and the Psilocybin-Catalyzed Vocal Impulse
+created: 2026-04-28
 tags: [mckenna, psilocybin, language, poetry, glossolalia, vocalization, shamanism, consciousness, synesthesia, stoned-ape]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Terence McKenna (1992), "Food of the Gods: The Search for the Original Tree of Knowledge," Bantam Books, Chapters 3-4
+type: concept
 ---
 
 # McKenna on Language, Poetry, and the Psilocybin-Catalyzed Vocal Impulse

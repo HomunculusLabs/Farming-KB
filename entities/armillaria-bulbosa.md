@@ -1,5 +1,6 @@
 ---
 title: Armillaria bulbosa
+created: 2026-04-28
 type: species
 tags: [basidiomycota, root-rot, clonal-organism, decomposition, forest-pathogen]
 date: 2026-04-28

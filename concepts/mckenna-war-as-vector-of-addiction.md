@@ -1,10 +1,12 @@
 ---
 title: "War as Vector of Addiction: Morphine, Soldiers, and the Drug Trade"
+created: 2026-04-28
 tags: [war, addiction, morphine, heroin, colonialism, McKenna, food-of-the-gods, drug-policy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the-gods.md
+type: concept
 ---
 
 # War as Vector of Addiction: Morphine, Soldiers, and the Drug Trade

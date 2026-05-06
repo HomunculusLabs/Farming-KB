@@ -1,9 +1,11 @@
 ---
 title: "Glomus intraradices"
+created: 2026-04-28
 tags: [species, fungus, arbuscular-mycorrhizal, soil-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [john-dighton-fungi-in-ecosystem-processes.md]
+type: entity
 ---
 
 # Glomus intraradices

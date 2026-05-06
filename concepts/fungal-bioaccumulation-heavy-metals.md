@@ -1,11 +1,13 @@
 ---
 title: Fungal Bioaccumulation of Heavy Metals
+created: 2026-04-28
 tags: [mycology, bioremediation, heavy-metals, ecology, pollution]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/mycelium-running-stamets.md
   - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Fungal Bioaccumulation of Heavy Metals

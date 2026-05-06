@@ -1,11 +1,13 @@
 ---
 title: Paradigm Shifting and the Psychedelic Revolution
+created: 2026-04-28
 tags: [paradigm-shift, consciousness, counterculture, leary,
   mckenna, cultural-evolution, science, prohibition]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Paradigm Shifting and the Psychedelic Revolution
 

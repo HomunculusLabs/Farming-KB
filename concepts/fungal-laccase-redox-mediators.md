@@ -1,9 +1,11 @@
 ---
 title: Fungal Laccase Redox Mediator Systems
+created: 2026-04-28
 tags: [mycoremediation, laccase, enzymes, bioremediation, fungal-enzymology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Laccase Redox Mediator Systems

@@ -1,5 +1,6 @@
 ---
 title: Urtica dioica
+created: 2026-04-28
 type: species
 tags: permaculture, dynamic-accumulator, medicinal, edible, companion-planting]
 date: 2026-04-28

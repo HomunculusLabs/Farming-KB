@@ -1,5 +1,6 @@
 ---
 title: "Cynara scolymus"
+created: 2026-04-28
 type: species
 tags: [species, plant, herbal, permaculture, medicinal, edible, hepatoprotective]
 date: 2026-04-28

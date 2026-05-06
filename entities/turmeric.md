@@ -1,5 +1,6 @@
 ---
 title: Turmeric (Curcuma longa)
+created: 2026-04-28
 type: species
 tags: [herbal-plant, spice, anti-inflammatory, adaptogen, ayurveda, permaculture, kitchen-garden]
 date: 2026-04-28

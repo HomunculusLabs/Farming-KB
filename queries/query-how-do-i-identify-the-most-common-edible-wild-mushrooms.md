@@ -1,9 +1,11 @@
 ---
 title: "How Do I Identify the Most Common Edible Wild Mushrooms?"
+created: 2026-04-28
 tags: [query, foraging, mushroom-identification, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Identify the Most Common Edible Wild Mushrooms?

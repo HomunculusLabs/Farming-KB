@@ -1,5 +1,6 @@
 ---
 title: Hymenoscyphus ericae
+created: 2026-04-28
 type: species
 tags: [fungi, ericoid-mycorrhizal, nitrogen-cycling, heavy-metals, heathland-ecology, chitin-decomposition]
 date: 2026-04-28

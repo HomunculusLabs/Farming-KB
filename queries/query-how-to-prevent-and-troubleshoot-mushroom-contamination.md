@@ -1,11 +1,13 @@
 ---
 title: "How to Prevent and Troubleshoot Mushroom Contamination"
+created: 2026-04-28
 tags: [query, mushrooms, contamination, sterile-technique, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: query
 ---
 
 # How to Prevent and Troubleshoot Mushroom Contamination

@@ -1,9 +1,11 @@
 ---
 title: "What Causes Airy Loose Cannabis Buds and How to Prevent Them"
+created: 2026-04-28
 tags: [query, cannabis, flowering, bud-quality, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Causes Airy Loose Cannabis Buds and How to Prevent Them

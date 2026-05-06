@@ -1,10 +1,12 @@
 ---
 title: No Good or Evil in Nature - Non-Dualistic Pest Perspective
+created: 2026-04-28
 tags: [pest-management, non-dualism, natural-balance, philosophy, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # No Good or Evil in Nature

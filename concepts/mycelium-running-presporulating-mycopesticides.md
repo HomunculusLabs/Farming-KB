@@ -1,9 +1,11 @@
 ---
 title: Presporulating Mycelium as Mycopesticides
+created: 2026-04-28
 tags: [mycopesticides, entomopathogenic-fungi, biocontrol, metarhizium, pest-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [mycelium-running-stamets.md]
+type: concept
 ---
 
 # Presporulating Mycelium as Mycopesticides

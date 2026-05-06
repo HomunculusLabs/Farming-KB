@@ -1,5 +1,6 @@
 ---
 title: LSD Animal Experiments and Toxicity
+created: 2026-04-28
 tags:
   - lsd
   - pharmacology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
+type: concept
 ---
 
 # LSD Animal Experiments and Toxicity

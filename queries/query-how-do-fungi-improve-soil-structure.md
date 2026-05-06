@@ -1,9 +1,11 @@
 ---
 title: "How Do Fungi Improve Soil Structure?"
+created: 2026-04-28
 tags: [query, mycology, soil-science, mycorrhiza, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Fungi Improve Soil Structure?

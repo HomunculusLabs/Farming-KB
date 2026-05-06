@@ -1,10 +1,12 @@
 ---
 title: ASB (Asymbescaline) - PIHKAL Entry #9
+created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, ethoxy-compound, psychedelic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # ASB (Asymbescaline)

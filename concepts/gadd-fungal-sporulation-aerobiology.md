@@ -1,5 +1,6 @@
 ---
 title: Fungal Sporulation and Aerobiology
+created: 2026-04-28
 tags:
   - spore-dispersal
   - aerobiology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 
 # Fungal Sporulation and Aerobiology

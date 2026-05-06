@@ -1,10 +1,12 @@
 ---
 title: "Cannabis and Culture: The Dreaming Weavers"
+created: 2026-04-28
 tags: [food-of-the-gods, cannabis, hashish, scythians, india, partnership-society, archaic-revival, ludlow, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T. Food of the Gods, Chapter 10: The Ballad of the Dreaming Weavers
+type: concept
 ---
 
 # Cannabis and Culture: The Dreaming Weavers

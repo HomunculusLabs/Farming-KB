@@ -1,5 +1,6 @@
 ---
 title: Bacillus megaterium
+created: 2026-04-28
 type: species
 tags: [spore-forming-bacteria, plant-growth-promotion, biofertilizer, soil-microbiology, phosphate-solubilization]
 date: 2026-04-28

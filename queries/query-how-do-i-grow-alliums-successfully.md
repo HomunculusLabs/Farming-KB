@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?"
+created: 2026-04-28
 tags: [alliums, garlic, onions, leeks, shallots, planting, harvesting, curing, seed-saving, companion-planting]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - "ATTRA/NCAT, *Organic Allium Production*, National Sustainable Agriculture Information Service, 2020"
   - "Joseph Masabni & Patrick Lillard, *Easy Gardening: Onions*, Texas A&M AgriLife Extension, 2021"
   - "ATTRA, *Companion Planting: Basic Concepts & Resources*, NCAT, 2021"
+type: query
 ---
 
 # How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
@@ -134,3 +136,9 @@ Proper curing is essential for storage life. The goal is to dry the outer wrappe
 ---
 
 *See also: [[alliums-growing-guide]] · [[comparison-hardneck-vs-softneck-garlic]]*
+
+## See Also
+
+- [[query-how-to-grow-shiitake-mushrooms-on-logs]]
+- [[query-how-do-i-grow-brassicas-successfully]]
+- [[query-what-is-super-cropping-and-when-to-do-it]]

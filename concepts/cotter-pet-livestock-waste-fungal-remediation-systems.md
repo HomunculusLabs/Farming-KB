@@ -1,5 +1,6 @@
 ---
 title: "Fungal Remediation Systems for Pet and Livestock Waste"
+created: 2026-04-28
 tags:
   - mycoremediation
   - pet-waste
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Fungal Remediation Systems for Pet and Livestock Waste

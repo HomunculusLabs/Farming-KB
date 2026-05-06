@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between White Rot and Brown Rot Fungi"
+created: 2026-04-28
 tags: [query, mycology, wood-decay, fungal-ecology, bioremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between White Rot and Brown Rot Fungi

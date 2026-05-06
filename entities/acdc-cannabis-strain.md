@@ -1,5 +1,6 @@
 ---
 title: ACDC
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -132,6 +133,8 @@ ACDC's status varies by jurisdiction. In the United States, hemp-derived ACDC (t
 | **Sour Tsunami** | 10–11% | <1% | First intentionally bred high-CBD strain |
 
 ## See Also
+
+- [[acdc-cannabis]]
 
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-strain-peptide]]

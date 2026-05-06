@@ -1,10 +1,12 @@
 ---
 title: Energy Productivity and the Mechanization Trap in Fukuoka's Natural Farming
+created: 2026-04-28
 tags: [natural-farming, fukuoka, energy-efficiency, mechanization, agricultural-policy, food-systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming, Masanobu Fukuoka"
+type: concept
 ---
 
 # Energy Productivity and the Mechanization Trap in Fukuoka's Natural Farming

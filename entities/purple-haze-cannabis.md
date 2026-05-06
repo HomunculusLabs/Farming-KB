@@ -1,5 +1,6 @@
 ---
 title: "Purple Haze"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, sativa-dominant, landrace, thai, colombian, legendary, psychedelic]
 date: 2026-04-28

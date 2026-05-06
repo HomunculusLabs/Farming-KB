@@ -1,11 +1,13 @@
 ---
 title: "Keyline Design vs Contour Swale"
+created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, erosion-
 control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: comparison
 ---
 
 # Keyline Design vs Contour Swale

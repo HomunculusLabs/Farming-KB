@@ -1,5 +1,6 @@
 ---
 title: "Aspergillus flavus"
+created: 2026-04-28
 type: species
 tags: [ascomycete, plant-pathogen, mycotoxin, soil-fungus]
 date: 2026-04-28

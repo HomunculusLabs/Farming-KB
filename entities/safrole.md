@@ -1,5 +1,6 @@
 ---
 title: "Safrole"
+created: 2026-04-28
 type: chemical
 tags: [chemical, phenylpropanoid, precursor, natural-product, ethnobotany]
 date: 2026-04-28

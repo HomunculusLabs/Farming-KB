@@ -1,11 +1,13 @@
 ---
 title: "What Are the Best Companion Plants for Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, companion-planting, pests, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/nutrient-and-dynamic-accumulators.md"
   - "raw/papers/unknown-nutrient-and-dynamic-accumulators.md"
+type: query
 ---
 
 # What Are the Best Companion Plants for Cannabis

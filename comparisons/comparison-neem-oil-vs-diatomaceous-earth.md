@@ -1,9 +1,11 @@
 ---
 title: "Neem Oil vs Diatomaceous Earth"
+created: 2026-04-28
 tags: [comparison, pest-control, cannabis, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Neem Oil vs Diatomaceous Earth

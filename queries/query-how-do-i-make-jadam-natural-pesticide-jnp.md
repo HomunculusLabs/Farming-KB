@@ -1,9 +1,11 @@
 ---
 title: "How Do I Make JADAM Natural Pesticide (JNP)?"
+created: 2026-04-28
 tags: [query, jadam, natural-farming, pest-control, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Make JADAM Natural Pesticide (JNP)?

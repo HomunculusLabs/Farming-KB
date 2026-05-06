@@ -1,5 +1,6 @@
 ---
 title: Justicia pectoralis
+created: 2026-04-28
 type: species
 tags: [acanthaceae, virola-admixture, ethnobotany, amazon, medicinal-plant]
 date: 2026-04-28

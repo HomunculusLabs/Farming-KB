@@ -1,10 +1,12 @@
 ---
 title: "Greenhouse Growing vs Container Gardening"
+created: 2026-04-28
 tags: [comparison, growing-methods, protected-cultivation, gardening,
 season-extension]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Greenhouse Growing vs Container Gardening

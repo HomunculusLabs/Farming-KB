@@ -1,9 +1,11 @@
 ---
 title: "KNF Input Storage Guidelines"
+created: 2026-04-28
 tags: [knf, natural-farming, storage, preservation, inputs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF Input Storage Guidelines

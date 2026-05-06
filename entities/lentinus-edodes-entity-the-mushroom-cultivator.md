@@ -1,5 +1,6 @@
 ---
 title: Lentinus edodes
+created: 2026-04-28
 type: species
 tags: [shiitake, edible-mushroom, wood-decomposer, medicinal-mushroom, lignicolous]
 date: 2026-04-28

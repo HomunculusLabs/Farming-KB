@@ -1,5 +1,6 @@
 ---
 title: Jack Herer
+created: 2026-04-28
 type: strain
 tags:
   - cannabis

@@ -1,10 +1,12 @@
 ---
 title: Two-Tier Selection Model of Plant Microbiome Assembly
+created: 2026-04-28
 tags: [microbiome, cannabis, rhizosphere, endorhiza, soil-science, plant-microbe-interactions, cultivar-specificity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Two-Tier Selection Model of Plant Microbiome Assembly

@@ -1,5 +1,6 @@
 ---
 title: Ceratocystis fimbriata
+created: 2026-04-28
 type: species
 tags: [plant-pathogen, ascomycete, wilt-disease, species-complex, phylogenetics]
 date: 2026-04-28

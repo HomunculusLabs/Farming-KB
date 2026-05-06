@@ -1,9 +1,11 @@
 ---
 title: "KNF Fruit Ripeness and Crack Prevention"
+created: 2026-04-28
 tags: [knf, natural-farming, fruit-quality, crack-prevention, foliar-spray]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF Fruit Ripeness and Crack Prevention

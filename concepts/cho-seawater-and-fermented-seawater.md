@@ -1,11 +1,13 @@
 ---
 title: "Cho's Seawater and Fermented Seawater"
+created: 2026-04-28
 tags: [korean-natural-farming, seawater, minerals, trace-elements,
        cho-global]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/chos-global-natural-farming.md"
+type: concept
 ---
 
 # Cho's Seawater and Fermented Seawater

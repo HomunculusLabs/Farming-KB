@@ -1,9 +1,11 @@
 ---
 title: "Fungal Pleomorphy: Anamorphs, Teleomorphs, and the Tulasne Brothers"
+created: 2026-04-28
 tags: [mycology, fungal-taxonomy, pleomorphy, anamorph, teleomorph, fungal-life-cycle]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Fungal pleomorphy, the phenomenon in which a single fungus produces

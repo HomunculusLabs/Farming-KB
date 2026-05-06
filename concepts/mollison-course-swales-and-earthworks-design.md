@@ -1,10 +1,12 @@
 ---
 title: Swales and Earthworks Design
+created: 2026-04-28
 tags: [permaculture, swales, earthworks, water-harvesting, contour, mulch,
 gley, fire-protection, forest-management, net-and-pan, slope-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Swales and Earthworks Design

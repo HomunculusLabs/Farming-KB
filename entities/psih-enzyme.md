@@ -1,5 +1,6 @@
 ---
 title: PsiH (Tryptamine 4-Hydroxylase)
+created: 2026-04-28
 type: chemical
 tags: [enzyme, biosynthesis, psilocybin, cytochrome-p450, hydroxylation]
 date: 2026-04-28

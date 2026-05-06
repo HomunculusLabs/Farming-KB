@@ -1,5 +1,7 @@
 ---
 title: "Eleagnus umbellata" type: species tags: [species, plant, shrub, permaculture, edible, nitrogen-fixer, invasive, elaeagnaceae] date: 2026-04-28 updated: 2026-04-28 sources: - "General botanical and permaculture knowledge"
+created: 2026-04-28
+type: entity
 ---
 # Eleagnus umbellata
 

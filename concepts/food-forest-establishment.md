@@ -1,9 +1,11 @@
 ---
 title: Food Forest Establishment
+created: 2026-04-28
 tags: [food-forest, permaculture, agroforestry, forest-garden]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Food Forest Establishment

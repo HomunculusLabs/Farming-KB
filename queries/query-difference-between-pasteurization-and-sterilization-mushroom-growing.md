@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Pasteurization and Sterilization for Mushroom Growing"
+created: 2026-04-28
 tags: [query, mycology, cultivation, sterilization, pasteurization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
+type: query
 ---
 
 # What Is the Difference Between Pasteurization and Sterilization for Mushroom Growing?

@@ -1,5 +1,6 @@
 ---
 title: "Astragalus membranaceus (Astragalus Root)"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, permaculture, legume]
 date: 2026-04-28

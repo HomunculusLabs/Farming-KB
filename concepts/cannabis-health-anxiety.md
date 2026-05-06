@@ -1,9 +1,11 @@
 ---
 title: "Cannabis and Anxiety"
+created: 2026-04-28
 tags: [cannabis, anxiety, anxiolytic, cbd, neurogenesis, mood-modulation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis and Anxiety

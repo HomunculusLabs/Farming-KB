@@ -1,9 +1,11 @@
 ---
 title: fungal decomposition ecology
+created: 2026-04-28
 tags: [ecology, mycology, decomposition, carbon-cycle, soil-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # fungal decomposition ecology

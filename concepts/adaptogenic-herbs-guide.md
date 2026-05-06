@@ -39,6 +39,8 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 ### Contraindications
 - Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy (Solanaceae family). May enhance effects of sedatives and thyroid medications.
 
+created: 2026-04-28
+type: concept
 ---
 
 ## Rhodiola ([[rhodiola-rosea]])

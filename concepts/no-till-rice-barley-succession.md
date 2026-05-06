@@ -1,5 +1,6 @@
 ---
 title: No-Till Rice Barley Succession
+created: 2026-04-28
 tags:
   - farming
   - rice
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka"
+type: concept
 ---
 
 # No-Till Rice-Barley Succession

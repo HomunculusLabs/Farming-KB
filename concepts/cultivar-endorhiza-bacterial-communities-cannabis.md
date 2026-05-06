@@ -1,9 +1,11 @@
 ---
 title: "Endorhiza Bacterial Communities and Cannabis Cultivar Specificity"
+created: 2026-04-28
 tags: [cannabis-microbiome, endorhiza, endophytic-bacteria, plant-microbe, cultivar-specificity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+type: concept
 ---
 
 # Endorhiza Bacterial Communities and Cannabis Cultivar Specificity

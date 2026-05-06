@@ -1,9 +1,11 @@
 ---
 title: Plant Growth Promoting Rhizobacteria
+created: 2026-04-28
 tags: [PGPR, bacteria, plant-growth, rhizosphere, biofertilizers]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+type: concept
 ---
 # Plant Growth Promoting Rhizobacteria
 Plant growth-promoting rhizobacteria (PGPR) are free-living soil bacteria that

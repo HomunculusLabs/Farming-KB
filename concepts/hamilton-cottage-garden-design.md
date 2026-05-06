@@ -1,10 +1,12 @@
 ---
 title: Cottage Garden Design Principles
+created: 2026-04-28
 tags: [garden-design, cottage-garden, organic-gardening, hamilton, ornamental]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Cottage Garden Design Principles

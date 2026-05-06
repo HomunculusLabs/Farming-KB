@@ -1,10 +1,12 @@
 ---
 title: 4-Hydroxyindole as a Tryptamine Synthesis Building Block
+created: 2026-04-28
 tags: [indole, 4-hydroxyindole, tryptamine, psilocin, organic-synthesis, building-block, shirota, starting-material]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # 4-Hydroxyindole as a Tryptamine Synthesis Building Block

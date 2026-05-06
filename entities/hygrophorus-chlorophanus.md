@@ -1,5 +1,6 @@
 ---
 title: "Hygrophorus chlorophanus"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -124,6 +125,9 @@ forest habitats with established mycorrhizal networks.
   cap is entirely white to cream with no green pigmentation.
 
 ## See Also
+
+- [[spore-print]]
+- [[mycorrhizal-networks]]
 
 - [[hygrophorus-russula]]
 

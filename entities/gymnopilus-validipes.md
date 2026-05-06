@@ -1,9 +1,11 @@
 ---
 title: "Gymnopilus validipes"
+created: 2026-04-28
 tags: [species, fungus, psilocybin-mushroom, gymnopilus]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [psilocybin-mushrooms-of-the-world-stamets.md]
+type: entity
 ---
 
 # Gymnopilus validipes

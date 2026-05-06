@@ -1,5 +1,6 @@
 ---
 title: "Powdery Mildew on Cannabis - Prevention and Treatment (Cervantes)"
+created: 2026-04-28
 tags:
   - cannabis
   - fungal-disease
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Powdery Mildew on Cannabis

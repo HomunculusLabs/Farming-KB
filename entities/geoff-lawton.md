@@ -1,5 +1,6 @@
 ---
 title: Geoff Lawton
+created: 2026-04-28
 type: person
 tags: [permaculture, ecological-design, water-harvesting, earthworks, teacher, australia, regenerative-agriculture]
 date: 2026-04-28

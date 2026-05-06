@@ -1,9 +1,11 @@
 ---
 title: Hallucinogenic Drugs
+created: 2026-04-28
 tags: [pharmacology, psychedelics, consciousness, neuroscience]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+type: concept
 ---
 
 # Hallucinogenic Drugs

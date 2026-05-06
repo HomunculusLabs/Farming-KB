@@ -1,9 +1,11 @@
 ---
 title: Mycorrhizal Carbon and Phosphorus Exchange
+created: 2026-04-28
 tags: [mycorrhiza, nutrient-exchange, symbiosis, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 # Mycorrhizal Carbon and Phosphorus Exchange

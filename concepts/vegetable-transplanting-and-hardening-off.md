@@ -1,10 +1,12 @@
 ---
 title: vegetable transplanting and hardening off
+created: 2026-04-28
 tags: [transplanting, hardening-off, seed-starting, vegetable-gardening, frost-protection]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Vegetable Transplanting and Hardening Off

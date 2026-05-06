@@ -1,9 +1,11 @@
 ---
 title: "How Does JADAM Natural Farming Differ from Korean Natural Farming?"
+created: 2026-04-28
 tags: [query, farming, jadam, knf, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/chos-global-natural-farming.md]
+type: query
 ---
 
 # How Does JADAM Natural Farming Differ from Korean Natural Farming?

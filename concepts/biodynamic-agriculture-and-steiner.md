@@ -1,9 +1,11 @@
 ---
 title: "Biodynamic Agriculture and Steiner"
+created: 2026-04-28
 tags: [biodynamic, steiner, compost, pfeiffer, organic-farming, etheric-forces]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Biodynamic Agriculture and Steiner

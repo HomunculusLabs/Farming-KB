@@ -1,10 +1,12 @@
 ---
 title: Log Cultivation for Shiitake and Wood-Loving Mushrooms
+created: 2026-04-28
 tags: [log-cultivation, shiitake, wood-decomposers, outdoor-methods, natural-culture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Log Cultivation for Shiitake and Wood-Loving Mushrooms

@@ -1,5 +1,6 @@
 ---
 title: "Copelandia mexicana"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, agaricales, strophariaceae,
   copelandia, psychoactive, psilocybin-containing,

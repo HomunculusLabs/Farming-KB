@@ -1,10 +1,12 @@
 ---
 title: Kurgan Waves and the Indo-European Collapse of Partnership Society
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, indo-european, kurgan, gimbutas, partnership-society, dominator-culture, archaeology, cultural-evolution]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Kurgan Waves and the Indo-European Collapse of Partnership Society

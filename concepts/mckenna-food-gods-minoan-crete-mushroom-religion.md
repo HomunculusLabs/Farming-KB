@@ -1,5 +1,6 @@
 ---
 title: "Minoan Crete and the Mushroom Religion"
+created: 2026-04-28
 tags:
   - mckenna
   - food-of-the-gods
@@ -17,6 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Minoan Crete and the Mushroom Religion

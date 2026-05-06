@@ -1,5 +1,6 @@
 ---
 title: How Does Phytoremediation Work and What Plants Are Best for It?
+created: 2026-04-28
 tags:
   - phytoremediation
   - bioremediation
@@ -17,6 +18,7 @@ sources:
   - Mahar, A., Wang, P., Ali, A., et al. (2016). "Challenges and opportunities in the phytoremediation of heavy metals contaminated soils." Ecological Engineering, 94, 1-11.
   - Gerhardt, K.E., Huang, X.D., Glick, B.R., & Greenberg, B.M. (2009). "Phytoremediation and rhizoremediation of organic soil contaminants." Plant Science, 176(1), 20-30.
   - Ali, H., Khan, E., & Sajad, M.A. (2013). "Phytoremediation of heavy metals—Concepts and applications." Chemosphere, 91(7), 869-881.
+type: query
 ---
 
 # How Does Phytoremediation Work and What Plants Are Best for It?

@@ -1,9 +1,11 @@
 ---
 title: "Ladino Clover Ground Cover Management"
+created: 2026-04-28
 tags: [ladino-clover, ground-cover, weed-suppression, soil-improvement, orchard-management, nitrogen-fixation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 The purpose of [[soil-ph-management]] is to promote the conversion of

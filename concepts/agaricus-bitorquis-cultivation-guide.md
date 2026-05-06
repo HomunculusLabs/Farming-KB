@@ -1,10 +1,12 @@
 ---
 title: "Agaricus Bitorquis Cultivation Guide"
+created: 2026-04-28
 tags: [mushroom-cultivation, agaricus, species-guide, compost-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # [[agaricus-bitorquis]] Cultivation Guide

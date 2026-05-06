@@ -1,9 +1,11 @@
 ---
 title: "Non-Ligninolytic Fungi in PAH Biodegradation"
+created: 2026-04-28
 tags: [bioremediation, pah, fungal-metabolism, cytochrome-p450, environmental-microbiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Non-Ligninolytic Fungi in PAH Biodegradation

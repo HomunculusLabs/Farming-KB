@@ -1,10 +1,12 @@
 ---
 title: Calea Zacatechichi - Dream Herb Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, hallucinogenic-plants, oneirogen, mexico, chontal,
   compositae, traditional-medicine, schultes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Calea Zacatechichi (Dream Herb)

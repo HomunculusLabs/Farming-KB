@@ -1,9 +1,11 @@
 ---
 title: Kava Kava Ethnobotany and Chemistry
+created: 2026-04-28
 tags: [kava, ethnobotany, psychoactive-plants, kavalactones]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Kava Kava Ethnobotany and Chemistry

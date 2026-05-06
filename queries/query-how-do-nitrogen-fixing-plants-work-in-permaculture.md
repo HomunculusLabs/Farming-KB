@@ -1,9 +1,11 @@
 ---
 title: "How Do Nitrogen Fixing Plants Work in Permaculture?"
+created: 2026-04-28
 tags: [query, permaculture, nitrogen-fixing, soil-health, legumes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Nitrogen Fixing Plants Work in Permaculture?

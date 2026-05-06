@@ -1,5 +1,6 @@
 ---
 title: Craterellus tubaeformis
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, cantharellaceae, forest-fungi]
 date: 2026-04-28

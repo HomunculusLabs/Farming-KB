@@ -1,10 +1,12 @@
 ---
 title: Mature Garden Creation Through Accelerated Succession
+created: 2026-04-28
 tags: [permaculture, succession, ecosystem-design, mature-gardens, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Mature Garden Creation Through Accelerated Succession

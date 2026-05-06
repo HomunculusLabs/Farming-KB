@@ -92,6 +92,8 @@ Some Suillus species cause allergic reactions or gastrointestinal upset in certa
 
 ## See Also
 
+- [[suillus-cavipes]]
+
 - [[bolete-mushrooms-ecology-edibility]]
 
 - [[porcini-boletus-guide]]

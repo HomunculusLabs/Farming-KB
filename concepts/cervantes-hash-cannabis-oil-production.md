@@ -1,9 +1,11 @@
 ---
 title: "Hash and Cannabis Oil Production"
+created: 2026-04-28
 tags: [hash-oil, cannabis-oil, extraction, butane, honey-oil]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+type: concept
 ---
 
 # Hash and Cannabis Oil Production

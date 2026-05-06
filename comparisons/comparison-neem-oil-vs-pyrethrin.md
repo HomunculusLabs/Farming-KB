@@ -1,5 +1,6 @@
 ---
 title: Neem Oil vs Pyrethrin — Natural Insecticides Compared
+created: 2026-04-28
 tags: [neem-oil, pyrethrin, insecticides, organic-farming, pest-control, botanical-pesticides, comparison, integrated-pest-management]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - "Isman MB (2006) — Botanical insecticides, deterrents, and repellents in modern agriculture"
   - "ATTRA (NCAT) — Biorational and Reduced-Risk Pesticides"
   - "CABI — Azadirachta indica and Chrysanthemum cinerariifolium compendium entries"
+type: comparison
 ---
 
 # Neem Oil vs Pyrethrin — Natural Insecticides Compared
@@ -142,6 +144,9 @@ Neem oil and pyrethrin can be used in a complementary strategy:
 For most organic growers managing an integrated system, **neem oil should be the default first-line insecticide**. Its multi-mode action, low impact on beneficials, and built-in resistance management make it far more compatible with sustainable growing practices. **Reserve pyrethrin for true emergencies** — heavy pest outbreaks, pre-harvest rescue treatments, or situations where immediate knockdown is essential. Using pyrethrin as a tool of last resort rather than a routine spray preserves its efficacy, protects beneficial insect populations, and reduces environmental risk.
 
 ## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
+- [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 
 - [[azadirachta-indica]]
 - [[fungal-spores]]

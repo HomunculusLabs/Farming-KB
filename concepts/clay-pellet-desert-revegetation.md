@@ -1,5 +1,6 @@
 ---
 title: Clay Pellet Desert Revegetation
+created: 2026-04-28
 tags: [natural-farming, desert-revegetation, clay-pellets, seed-balls, ecology, fukuoka, restoration, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: The Natural Way of Farming
+type: concept
 ---
 
 # Clay Pellet Desert Revegetation

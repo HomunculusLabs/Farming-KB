@@ -1,5 +1,6 @@
 ---
 title: Ergot and the Eleusinian Kykeon in Food of the Gods
+created: 2026-04-28
 tags: [ergot, eleusinian, kykeon, mckenna, classical-studies]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Northern Lights Cannabis Strain"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis

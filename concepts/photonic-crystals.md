@@ -1,6 +1,8 @@
 ---
 title: "Photonic Crystals"
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Photonic Crystals

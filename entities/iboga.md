@@ -1,5 +1,6 @@
 ---
 title: Iboga (Tabernanthe iboga)
+created: 2026-04-28
 type: species
 tags: [psychedelic, plant-medicine, entheogen, addiction-treatment, ethnobotany, african-medicine, shrub]
 date: 2026-04-28

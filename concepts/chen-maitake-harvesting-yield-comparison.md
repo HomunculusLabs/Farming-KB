@@ -1,10 +1,12 @@
 ---
 title: "Chen - Maitake Harvesting and Yield Comparison"
+created: 2026-04-28
 tags: [maitake, harvesting, yield, mushroom-cultivation, grifola-frondosa]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+type: concept
 ---
 
 # Harvesting Techniques and Yield Comparison for Maitake Cultivation

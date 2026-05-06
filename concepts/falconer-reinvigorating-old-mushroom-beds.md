@@ -1,10 +1,12 @@
 ---
 title: Reinvigorating Old Mushroom Beds
+created: 2026-04-28
 tags: [mushroom-cultivation, bed-management, mycelium, second-crop, falconer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
+type: concept
 ---
 
 # Reinvigorating Old Mushroom Beds

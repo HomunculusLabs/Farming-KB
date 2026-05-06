@@ -1,5 +1,6 @@
 ---
 title: Wattle and Daub vs. Cob Construction
+created: 2026-04-28
 tags:
   - natural-building
   - wattle-and-daub
@@ -14,6 +15,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cob
   - https://www.greenhomebuilding.com/cob.htm
   - https://www.buildingconservation.com/articles/wattle/wattle.htm
+type: comparison
 ---
 
 # Wattle and Daub vs. Cob Construction
@@ -138,6 +140,8 @@ Yes — and this is common in practice. Many natural builders use:
 Wattle and daub and cob are complementary rather than competing techniques. Both use the same earth-fiber composite but apply it differently: cob as massive, load-bearing sculpture, and wattle and daub as lightweight, frame-dependent infill. The best natural builders understand both and choose (or combine) them based on the specific demands of site, climate, structure, and aesthetic vision.
 
 ## See Also
+
+- [[comparison-wattle-and-daub-vs-straw-bale-construction]]
 
 - [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[comparison-papercrete-vs-cob-construction]]

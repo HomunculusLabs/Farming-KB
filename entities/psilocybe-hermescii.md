@@ -1,5 +1,6 @@
 ---
 title: Psilocybe hermescii
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, mexico, taxonomy]
 date: 2026-04-28

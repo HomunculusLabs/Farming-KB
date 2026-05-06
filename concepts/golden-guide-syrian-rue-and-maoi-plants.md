@@ -1,10 +1,12 @@
 ---
 title: "Golden Guide: Syrian Rue and MAOI Plants"
+created: 2026-04-28
 tags: [hallucinogenic-plants, syrian-rue, maoi, harmala, harmine, harmaline,
   peganum, zygophyllaceae, beta-carbolines, ethnobotany, ayahuasca]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Syrian Rue (*Peganum harmala*) and MAOI-Containing Plants

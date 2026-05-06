@@ -1,9 +1,11 @@
 ---
 title: "Hybrid Varieties and Population Types"
+created: 2026-04-28
 tags: [hybrids, breeding, genetics, F1, varieties, cannabis-genetics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+type: concept
 ---
 
 # Hybrid Varieties and Population Types

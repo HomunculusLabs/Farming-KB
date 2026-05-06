@@ -1,9 +1,11 @@
 ---
 title: "How to Make Fish Hydrolysate Fertilizer"
+created: 2026-04-28
 tags: [query, fertilizer, organic, fish, bionutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Make Fish Hydrolysate Fertilizer

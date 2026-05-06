@@ -1,5 +1,6 @@
 ---
 title: "Aronia melanocarpa"
+created: 2026-04-28
 type: species
 tags: [permaculture, berry-fruit, medicinal-plant, superfood, rosaceae]
 date: 2026-04-28

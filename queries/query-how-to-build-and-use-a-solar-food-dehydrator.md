@@ -1,9 +1,11 @@
 ---
 title: "How to Build and Use a Solar Food Dehydrator"
+created: 2026-04-28
 tags: [query, food-preservation, solar-dehydrator, homesteading, off-grid]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How to Build and Use a Solar Food Dehydrator

@@ -1,10 +1,12 @@
 ---
 title: Harry Roberts and the Green Gulch Zen Center Tribute
+created: 2026-04-28
 tags: [fukuoka, biographical, zen-center, native-american, forest-revegetation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
+type: concept
 ---
 
 # Harry Roberts and the Green Gulch Zen Center Tribute

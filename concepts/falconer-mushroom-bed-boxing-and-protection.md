@@ -1,5 +1,6 @@
 ---
 title: Falconer Mushroom Bed Boxing and Protection
+created: 2026-04-28
 tags:
   [
     mushroom-cultivation,
@@ -14,6 +15,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Boxing and Protecting Mushroom Beds

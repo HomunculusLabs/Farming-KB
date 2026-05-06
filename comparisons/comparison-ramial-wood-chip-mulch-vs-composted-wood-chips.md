@@ -1,5 +1,6 @@
 ---
 title: Ramial Wood Chip Mulch vs Composted Wood Chips
+created: 2026-04-28
 tags:
   - mulch
   - ramial-wood-chips
@@ -17,6 +18,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ramial-wood
   - https://www.buildingasoil.com/ramial-wood-chips/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271030/
+type: comparison
 ---
 
 # Ramial Wood Chip Mulch vs Composted Wood Chips

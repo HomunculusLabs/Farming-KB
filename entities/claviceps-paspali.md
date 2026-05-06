@@ -1,5 +1,6 @@
 ---
 title: "Claviceps paspali"
+created: 2026-04-28
 type: species
 tags: [fungi, clavicipitaceae, ergot-fungi, alkaloid-producing, grass-pathogen, clavine-alkaloids, mycology, veterinary-toxicology]
 date: 2026-04-28

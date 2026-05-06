@@ -1,9 +1,11 @@
 ---
 title: "Endophytic Fungi vs Mycorrhizal Fungi"
+created: 2026-04-28
 tags: [comparison, fungi, soil-biology, plant-microbe-interactions]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Endophytic Fungi vs Mycorrhizal Fungi

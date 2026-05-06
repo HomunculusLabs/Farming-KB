@@ -1,5 +1,6 @@
 ---
 title: "Omphalotus olearius"
+created: 2026-04-28
 type: species
 tags: [fungi, bioluminescent, poisonous, omphalotaceae, gilled-mushroom]
 date: 2026-04-28

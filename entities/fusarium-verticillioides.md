@@ -1,5 +1,6 @@
 ---
 title: "Fusarium verticillioides"
+created: 2026-04-28
 type: species
 tags: [ascomycete, plant-pathogen, mycotoxin, endophyte, maize-pathogen]
 date: 2026-04-28

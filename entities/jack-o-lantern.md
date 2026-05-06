@@ -1,5 +1,6 @@
 ---
 title: Jack-o'-Lantern Mushroom (Omphalotus olearius)
+created: 2026-04-28
 type: species
 tags: [fungi, bioluminescence, toxic-mushroom, lookalike, mycology, forest-ecology]
 date: 2026-04-28

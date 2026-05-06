@@ -1,9 +1,11 @@
 ---
 title: "Green Manure vs Composting"
+created: 2026-04-28
 tags: [comparison, soil-fertility, organic-growing, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Green Manure vs Composting
 Both green manure and composting build soil organic matter and fertility through

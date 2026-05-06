@@ -1,10 +1,12 @@
 ---
 title: "Windbreak vs Thermal Mass"
+created: 2026-04-28
 tags: [comparison, microclimate, windbreak, thermal-mass, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: comparison
 ---
 
 # Windbreak vs Thermal Mass

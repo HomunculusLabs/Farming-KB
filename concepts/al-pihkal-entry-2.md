@@ -1,10 +1,12 @@
 ---
 title: AL (4-Allyloxy-3,5-dimethoxyphenethylamine) - PIHKAL Entry #2
+created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, allyloxy-compound, psychedelic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # AL (4-Allyloxy-3,5-dimethoxyphenethylamine)

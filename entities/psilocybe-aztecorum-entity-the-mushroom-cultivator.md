@@ -1,5 +1,6 @@
 ---
 title: Psilocybe aztecorum
+created: 2026-04-28
 type: species
 tags: [psilocybe, psychoactive, aztec, compost-cultivation, mexican-species]
 date: 2026-04-28

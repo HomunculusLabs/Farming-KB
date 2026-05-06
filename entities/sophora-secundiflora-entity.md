@@ -1,5 +1,6 @@
 ---
 title: "Sophora secundiflora"
+created: 2026-04-28
 type: species
 aliases: [mescal bean, Texas mountain laurel, frijolillo, coralbean, red bean]
 tags: [ethnobotany, entheogen, fabaceae, alkaloids, cytisine,

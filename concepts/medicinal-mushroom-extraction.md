@@ -1,9 +1,11 @@
 ---
 title: Medicinal Mushroom Extraction
+created: 2026-04-28
 tags: mycology, extraction, medicinal-mushrooms, bioactive-compounds]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Medicinal Mushroom Extraction

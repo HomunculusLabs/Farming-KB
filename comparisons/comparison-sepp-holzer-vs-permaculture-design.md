@@ -1,5 +1,6 @@
 ---
 title: "Sepp Holzer vs Permaculture Design"
+created: 2026-04-28
 tags:
   - permaculture
   - farming
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: comparison
 ---
 # Sepp Holzer Method vs Permaculture Design
 [[sepp-holzer-method]] and [[permaculture-design]] are deeply intertwined yet

@@ -1,9 +1,11 @@
 ---
 title: "Beneficial Insects vs Integrated Pest Management"
+created: 2026-04-28
 tags: [comparison, pest-management, biological-control, organic-gardening, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Beneficial Insects vs Integrated Pest Management

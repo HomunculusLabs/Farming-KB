@@ -1,8 +1,10 @@
 ---
 title: Turbulence Modeling in Fluid Dynamics
+type: concept
 aliases: [turbulence models, RANS, LES, DNS, k-epsilon, k-omega, SST, Smagorinsky]
 tags: [physics, fluid-dynamics, CFD, engineering, turbulence, RANS, LES, computational-methods]
 created: 2026-05-02
+type: concept
 ---
 
 ## Overview

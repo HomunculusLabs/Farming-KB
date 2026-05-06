@@ -1,5 +1,6 @@
 ---
 title: Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis
+created: 2026-04-28
 tags:
   - microbiome
   - cannabis
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Winston-Understanding-Cultivar-Specificity-Cannabis-Microbiome
+type: concept
 ---
 
 # Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis

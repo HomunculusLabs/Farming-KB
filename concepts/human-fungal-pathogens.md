@@ -1,5 +1,6 @@
 ---
 title: Human Fungal Pathogens
+created: 2026-04-28
 tags:
   - mycology
   - medical-mycology
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Human Fungal Pathogens

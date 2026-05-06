@@ -1,5 +1,6 @@
 ---
 title: Cannabis Health Index Evidence-Based Framework Scoring System
+created: 2026-04-28
 tags:
   - cannabis
   - evidence-based-medicine
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/uwe-blesching-the-cannabis-health-index.md
+type: concept
 ---
 # Cannabis Health Index Evidence-Based Framework Scoring System
 The Cannabis Health Index (CHI) developed by Uwe Blesching represents an ambitious

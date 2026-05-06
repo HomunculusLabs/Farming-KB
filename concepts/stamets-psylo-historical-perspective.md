@@ -1,10 +1,12 @@
 ---
 title: Historical Perspective on Psilocybin Mushrooms
+created: 2026-04-28
 tags: [mycology, ethnobotany, history, psilocybin, mesoamerica]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # Historical Perspective on Psilocybin Mushrooms

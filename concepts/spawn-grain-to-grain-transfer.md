@@ -1,9 +1,11 @@
 ---
 title: Spawn and Grain-to-Grain Transfer
+created: 2026-04-28
 tags: [mycology, cultivation, spawn, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Spawn and Grain-to-Grain Transfer

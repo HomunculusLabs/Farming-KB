@@ -1,9 +1,11 @@
 ---
 title: "Exploring the Rich History of Plant Science"
+created: 2026-04-28
 tags: [plant-science, history-of-science, botany, biodiversity-library]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md]
+type: concept
 ---
 
 # Exploring the Rich [[history-of-plant-science]]

@@ -1,9 +1,11 @@
 ---
 title: "How Do I Grow Cannabis in a Greenhouse?"
+created: 2026-04-28
 tags: [query, cannabis, greenhouse, cultivation, growing-environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Grow Cannabis in a Greenhouse?

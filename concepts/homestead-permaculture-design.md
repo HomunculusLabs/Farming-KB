@@ -1,6 +1,8 @@
 ---
 title: Homestead Permaculture Design
+created: 2026-04-28
 tags: [permaculture, homesteading, design, self-sufficiency]
+type: concept
 ---
 
 # Homestead Permaculture Design

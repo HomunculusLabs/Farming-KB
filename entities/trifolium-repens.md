@@ -1,5 +1,6 @@
 ---
 title: Trifolium repens
+created: 2026-04-28
 type: species
 tags:
   - herbal-plants
@@ -186,6 +187,8 @@ All parts of white clover are edible:
 | Viral diseases | Clover yellow vein virus | Remove infected plants; control aphid vectors |
 
 ## See Also
+
+- [[mitchella-repens]]
 
 - [[companion-planting]]
 - [[composting]]

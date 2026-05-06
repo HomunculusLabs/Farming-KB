@@ -1,5 +1,6 @@
 ---
 title: Mushroom Spore Identification
+created: 2026-04-28
 tags:
   - mycology
   - mushroom-identification
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 Spore identification is one of the most fundamental techniques

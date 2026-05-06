@@ -1,5 +1,6 @@
 ---
 title: Sphaerobolus stellatus
+created: 2026-04-28
 type: species
 tags: [coprophilous, basidiomycete, spore-dispersal, artillery-fungus, wood-decay]
 date: 2026-04-28

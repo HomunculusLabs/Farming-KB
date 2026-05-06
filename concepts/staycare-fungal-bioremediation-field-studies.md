@@ -1,5 +1,6 @@
 ---
 title: Fungal Bioremediation Field Studies and Pilot Trials
+created: 2026-04-28
 tags:
   - bioremediation
   - field-applications
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Fungal Bioremediation Field Studies and Pilot Trials

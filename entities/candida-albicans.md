@@ -1,5 +1,6 @@
 ---
 title: Candida albicans
+created: 2026-04-28
 type: species
 tags: [pathogen, yeast, commensal, dimorphic, quorum-sensing]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: Compost Supplements and Nitrogen Management (Stamets)
+created: 2026-04-28
 tags: [mushroom-cultivation, compost, nitrogen-management, supplements]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Compost Supplements and Nitrogen Management

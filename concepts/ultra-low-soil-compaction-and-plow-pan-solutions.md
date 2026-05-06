@@ -1,9 +1,11 @@
 ---
 title: "Soil Compaction and Plow Pan Solutions"
+created: 2026-04-28
 tags: [soil-compaction, plow-pan, soil-health, no-till, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Soil Compaction and Plow Pan Solutions

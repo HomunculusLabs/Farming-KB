@@ -1,5 +1,6 @@
 ---
 title: Monotropa uniflora
+created: 2026-04-28
 type: species
 tags: [fungi, mycoheterotroph, monotropaceae, forest-ecology, ericaceae, symbiosis, permaculture, ethnomedicine, Appalachian-flora]
 date: 2026-04-28

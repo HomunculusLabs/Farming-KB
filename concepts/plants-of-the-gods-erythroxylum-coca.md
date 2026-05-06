@@ -1,5 +1,6 @@
 ---
 title: "Erythroxylum coca: Coca — Sacred Leaf of the Andes"
+created: 2026-04-28
 tags:
   - ethnobotany
   - coca
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+type: concept
 ---
 
 # Erythroxylum coca: Coca

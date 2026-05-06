@@ -1,5 +1,6 @@
 ---
 title: "Mescaline"
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, phenethylamine, entheogen, tryptamine-related, classical-psychedelic, peyote, san-pedro]
 date: 2026-04-28

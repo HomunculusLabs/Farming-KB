@@ -1,9 +1,11 @@
 ---
 title: "Chemical Fungicides Insecticides and Safety"
+created: 2026-04-28
 tags: [pesticides, fungicides, insecticides, chemical-control, EPA-toxicity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+type: concept
 ---
 
 # Chemical Fungicides, Insecticides, and Safety

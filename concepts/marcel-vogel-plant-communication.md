@@ -1,9 +1,11 @@
 ---
 title: "Marcel Vogel and Plant Communication"
+created: 2026-04-28
 tags: [plant-communication, bioelectricity, liquid-crystals, psychic-energy, vogel]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Marcel Vogel and Plant Communication

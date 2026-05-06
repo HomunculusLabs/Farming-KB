@@ -1,6 +1,8 @@
 ---
 title: "Gobekli Tepe"
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Gobekli Tepe

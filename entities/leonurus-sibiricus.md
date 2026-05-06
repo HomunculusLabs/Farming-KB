@@ -1,5 +1,6 @@
 ---
 title: "Leonurus sibiricus"
+created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, lamiaceae, herbal, milder-psychoactive]
 date: 2026-04-28

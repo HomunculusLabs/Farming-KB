@@ -1,10 +1,12 @@
 ---
 title: "Soil Rehabilitation Timeline and Orchard Cover Crop Management"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, soil-management, cover-crops, ladino-clover, alfalfa, black-wattle, orchard, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Soil Rehabilitation Timeline and Orchard Cover Crop Management

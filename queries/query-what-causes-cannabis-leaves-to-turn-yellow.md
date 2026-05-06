@@ -1,10 +1,12 @@
 ---
 title: "What Causes Cannabis Leaves to Turn Yellow?"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # What Causes Cannabis Leaves to Turn Yellow?

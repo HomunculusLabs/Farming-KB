@@ -1,5 +1,6 @@
 ---
 title: Cannabis Tolerance and Addiction Pharmacology
+created: 2026-04-28
 tags:
   - cannabis-pharmacology
   - tolerance
@@ -15,6 +16,7 @@ synonyms:
   - endocannabinoid deficiency
   - THC tolerance
   - cannabis addiction myth
+type: concept
 ---
 
 # Cannabis Tolerance and Addiction Pharmacology

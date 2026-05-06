@@ -1,5 +1,6 @@
 ---
 title: "Selective Grazing by Soil Fauna and Fungal Community Shifts"
+created: 2026-04-28
 tags:
   - soil-fauna
   - fungal-community
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Selective Grazing by Soil Fauna and Fungal Community Shifts

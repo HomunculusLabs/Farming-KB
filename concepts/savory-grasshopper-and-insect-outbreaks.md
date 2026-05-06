@@ -1,10 +1,12 @@
 ---
 title: "Grasshopper and Insect Outbreaks"
+created: 2026-04-28
 tags: [holistic-management, grasshoppers, insect-outbreaks, succession,
       biological-control, ecosystem-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Grasshopper and Insect Outbreaks

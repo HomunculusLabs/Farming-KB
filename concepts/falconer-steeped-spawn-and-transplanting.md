@@ -1,5 +1,6 @@
 ---
 title: Falconer Steeped Spawn and Transplanting Techniques
+created: 2026-04-28
 tags:
   [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Steeped Spawn and Transplanting Working Spawn

@@ -1,10 +1,12 @@
 ---
 title: Colorines - Erythrina Seeds Mexican Hallucinogen
+created: 2026-04-28
 tags: [ethnobotany, mexico, erythrina, leguminosae, isoquinoline,
   seeds, hallucinogenic-plants, schultes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Colorines (Erythrina spp.)

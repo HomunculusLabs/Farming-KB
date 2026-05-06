@@ -1,11 +1,13 @@
 ---
 title: "No Weeding Principle and Weed Utility"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, weeds, no-weeding, soil-ecology, ground-cover,
 green-manure]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # No Weeding Principle and Weed Utility

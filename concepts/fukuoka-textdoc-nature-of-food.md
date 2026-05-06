@@ -1,10 +1,12 @@
 ---
 title: "The Nature of Food"
+created: 2026-04-28
 tags: [food-philosophy, flavor, color, spirit-matter-unity, nutrition-critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Nature of Food

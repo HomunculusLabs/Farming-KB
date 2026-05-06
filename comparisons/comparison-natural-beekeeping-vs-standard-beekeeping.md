@@ -1,9 +1,11 @@
 ---
 title: "Natural Beekeeping vs Standard Beekeeping"
+created: 2026-04-28
 tags: [comparison, beekeeping, permaculture, pollinators]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Natural Beekeeping vs Standard Beekeeping
 

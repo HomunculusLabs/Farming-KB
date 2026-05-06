@@ -1,10 +1,12 @@
 ---
 title: Polyculture Design Guidelines
+created: 2026-04-28
 tags: [permaculture, polyculture, vegetable-gardening, design-principles, interplanting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Polyculture Design Guidelines

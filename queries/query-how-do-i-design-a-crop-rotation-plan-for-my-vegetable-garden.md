@@ -1,9 +1,11 @@
 ---
 title: "How Do I Design a Crop Rotation Plan for My Vegetable Garden?"
+created: 2026-04-28
 tags: [query, crop-rotation, soil-health, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Design a Crop Rotation Plan for My Vegetable Garden?

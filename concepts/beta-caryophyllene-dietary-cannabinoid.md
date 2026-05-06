@@ -1,5 +1,6 @@
 ---
 title: Beta-Caryophyllene as Dietary Cannabinoid
+created: 2026-04-28
 tags:
   - beta-caryophyllene
   - dietary-cannabinoid
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Blesching, Uwe. "The Cannabis Health Index." North Atlantic Books, 2015. Chapter I.
+type: concept
 ---
 
 # Beta-Caryophyllene as Dietary Cannabinoid

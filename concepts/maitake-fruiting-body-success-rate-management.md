@@ -1,5 +1,6 @@
 ---
 title: Maitake Fruiting Body Success Rate and Environmental Management
+created: 2026-04-28
 tags:
   - maitake
   - fruiting-management
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+type: concept
 ---
 
 # Maitake Fruiting Body Success Rate and Environmental Management

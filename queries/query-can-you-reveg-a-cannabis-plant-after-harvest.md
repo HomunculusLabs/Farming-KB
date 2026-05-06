@@ -1,9 +1,11 @@
 ---
 title: "Can You Reveg a Cannabis Plant After Harvest"
+created: 2026-04-28
 tags: [query, cannabis, harvesting, revegging, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # Can You Reveg a Cannabis Plant After Harvest
@@ -137,7 +139,9 @@ more productive than waiting for a plant to recover from the revegging process.
 - Transition back to vegetative nutrients (higher nitrogen) at half strength during recovery
 - Revegging is most valuable for preserving exceptional phenotypes; for pure yield, starting fresh is usually better
 
-## Related Questions
+## Related
+
+- [[query-can-you-kombucha-ferment-things-other-than-tea]] Questions
 - [[query-how-to-clone-cannabis-plants-step-by-step]]
 - [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]

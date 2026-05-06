@@ -1,11 +1,13 @@
 ---
 title: Inocybe Aeruginascens Distribution and Psychoactivity
+created: 2026-04-28
 tags: [Inocybe-aeruginascens, fibrehead-mushrooms, psilocybin, baeocystin,
       aeruginascin, mycorrhizal, accidental-intoxication, Berlin, Hungary,
       new-alkaloid, European-mushrooms]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # [[inocybe-aeruginascens-profile]] Distribution and Psychoactivity

@@ -1,9 +1,11 @@
 ---
 title: "How to Build a Passive Solar Greenhouse for Year-Round Growing"
+created: 2026-04-28
 tags: [query, greenhouse, permaculture, passive-solar, season-extension]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Build a Passive Solar Greenhouse for Year-Round Growing

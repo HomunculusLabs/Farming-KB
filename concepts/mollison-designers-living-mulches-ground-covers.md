@@ -1,10 +1,12 @@
 ---
 title: "Living Mulches and Ground Covers"
+created: 2026-04-28
 tags: [permaculture, living-mulches, ground-covers, soil-protection, weed-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Living Mulches and Ground Covers

@@ -1,9 +1,11 @@
 ---
 title: "Tetrapteris methystica Alternative Caapi Vine"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, malpighiaceae, ayahuasca, amazonian]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md, ~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
+type: concept
 ---
 
 # Tetrapteris methystica Alternative Caapi Vine

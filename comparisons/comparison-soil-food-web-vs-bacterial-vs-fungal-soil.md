@@ -1,10 +1,12 @@
 ---
 title: "Soil Food Web vs Bacterial vs Fungal Soil"
+created: 2026-04-28
 tags: [comparison, soil-biology, soil-food-web, fungal-dominant, bacterial-dominant]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: comparison
 ---
 
 # Soil Food Web vs Bacterial vs Fungal Soil

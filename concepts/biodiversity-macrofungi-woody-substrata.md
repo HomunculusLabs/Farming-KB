@@ -1,9 +1,11 @@
 ---
 title: "Macrofungi on Woody Substrata"
+created: 2026-04-28
 tags: [mycology, macrofungi, wood-inhabiting, lignicolous, collection-methods]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Macrofungi on Woody Substrata

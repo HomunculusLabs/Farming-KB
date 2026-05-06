@@ -1,9 +1,11 @@
 ---
 title: MDMA and the Drug Terror Decade of the 1980s
+created: 2026-04-28
 tags: [mdma, ecstasy, crack-cocaine, drug-war, mckenna, prohibition, psychedelics, history]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the-gods.md]
+type: concept
 ---
 
 # MDMA and the Drug Terror Decade of the 1980s

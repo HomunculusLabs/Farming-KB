@@ -1,5 +1,6 @@
 ---
 title: Leek Deep Planting Technique
+created: 2026-04-28
 tags:
   - leeks
   - transplanting
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+type: concept
 ---
 
 # Leek Deep Planting Technique

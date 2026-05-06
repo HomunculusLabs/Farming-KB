@@ -1,10 +1,12 @@
 ---
 title: Fungal Symbioses in Mineral Weathering and Biogeochemistry
+created: 2026-04-28
 tags: [mycology, biogeochemistry, mycorrhiza, lichen, mineral-weathering]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+type: concept
 ---
 # Fungal Symbioses in Mineral Weathering and Biogeochemistry
 

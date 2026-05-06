@@ -1,10 +1,12 @@
 ---
 title: PF TEK Mushroom Growth Timeline
+created: 2026-04-28
 tags: [pf-tek, mycology, lifecycle, colonization, fruiting, timeline]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+type: concept
 ---
 
 # PF TEK Mushroom Growth Timeline

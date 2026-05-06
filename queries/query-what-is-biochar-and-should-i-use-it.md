@@ -1,9 +1,11 @@
 ---
 title: "What Is Biochar and Should I Use It in My Garden?"
+created: 2026-04-28
 tags: [query, biochar, soil-amendment, carbon, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Biochar and Should I Use It in My Garden?

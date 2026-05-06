@@ -1,9 +1,11 @@
 ---
 title: "How Do I Design a Food Forest for a Small Backyard?"
+created: 2026-04-28
 tags: [query, permaculture, food-forest, guild, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Design a Food Forest for a Small Backyard?

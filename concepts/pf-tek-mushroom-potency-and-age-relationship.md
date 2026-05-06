@@ -1,5 +1,6 @@
 ---
 title: PF Tek Mushroom Potency and Age Relationship
+created: 2026-04-28
 tags:
   - mushroom-potency
   - psilocybin
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # PF Tek Mushroom Potency and Age Relationship

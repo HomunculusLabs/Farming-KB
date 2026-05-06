@@ -1,9 +1,11 @@
 ---
 title: "How do legumes add nitrogen to soil?"
+created: 2026-04-28
 tags: [query, legumes, nitrogen, soil-fertility]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do legumes add nitrogen to soil?

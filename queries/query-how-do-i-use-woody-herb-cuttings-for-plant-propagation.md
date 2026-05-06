@@ -1,9 +1,11 @@
 ---
 title: How Do I Use Woody Herb Cuttings for Plant Propagation?
+created: 2026-04-28
 tags: [herbalism, propagation, cuttings, herbal-medicine, gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Use Woody Herb Cuttings for Plant Propagation?

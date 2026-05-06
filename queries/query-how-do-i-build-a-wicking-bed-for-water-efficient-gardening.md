@@ -1,9 +1,11 @@
 ---
 title: "How Do I Build a Wicking Bed for Water Efficient Gardening?"
+created: 2026-04-28
 tags: [query, wicking-bed, water-efficiency, raised-beds, permaculture, irrigation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How Do I Build a Wicking Bed for Water Efficient Gardening?
 ## Short Answer

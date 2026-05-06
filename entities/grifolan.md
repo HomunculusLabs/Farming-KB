@@ -1,5 +1,6 @@
 ---
 title: Grifolan
+created: 2026-04-28
 type: chemical
 tags: [beta-glucan, immunomodulator, anti-tumor, medicinal-mushroom]
 date: 2026-04-28

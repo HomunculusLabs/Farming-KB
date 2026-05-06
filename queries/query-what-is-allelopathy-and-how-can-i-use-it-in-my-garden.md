@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions About Allelopathy in the Garden
+created: 2026-04-28
 tags:
   - allelopathy
   - companion-planting
@@ -11,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # Frequently Asked Questions About Allelopathy in the Garden

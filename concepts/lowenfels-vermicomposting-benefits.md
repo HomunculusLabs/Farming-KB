@@ -1,9 +1,11 @@
 ---
 title: "Vermicomposting Benefits"
+created: 2026-04-28
 tags: [composting, earthworms, soil-biology, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Vermicomposting is the process of using earthworms to convert organic materials

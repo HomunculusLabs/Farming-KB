@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Gourmet Mushrooms Outdoors on Logs and Stumps?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, outdoor-growing, gourmet-mushrooms]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Gourmet Mushrooms Outdoors on Logs and Stumps?

@@ -1,10 +1,12 @@
 ---
 title: "Off-Grid Mushroom Cultivation"
+created: 2026-04-28
 tags: [off-grid, mushroom-cultivation, low-tech, sustainability, cardboard-culture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Off-Grid Mushroom Cultivation

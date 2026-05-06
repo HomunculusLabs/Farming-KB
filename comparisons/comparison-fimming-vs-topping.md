@@ -1,9 +1,11 @@
 ---
 title: "Fimming vs Topping"
+created: 2026-04-28
 tags: [comparisons, training, canopy-management, colas]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Fimming vs Topping

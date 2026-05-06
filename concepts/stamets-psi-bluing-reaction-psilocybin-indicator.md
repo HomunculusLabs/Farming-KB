@@ -1,9 +1,11 @@
 ---
 title: Bluing Reaction in psilocybin Mushrooms
+created: 2026-04-28
 tags: [chemistry, bluing, psilocin, identification, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Bluing Reaction in Psilocybin Mushrooms

@@ -1,9 +1,11 @@
 ---
 title: Amanita
+created: 2026-04-28
 tags: [mycology, toxicology, taxonomy, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
+type: concept
 ---
 
 # Amanita

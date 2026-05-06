@@ -1,9 +1,11 @@
 ---
 title: Fungal Biodiversity and Species Estimation
+created: 2026-04-28
 tags: [mycology, biodiversity, species-estimation, fungal-diversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Biodiversity and Species Estimation

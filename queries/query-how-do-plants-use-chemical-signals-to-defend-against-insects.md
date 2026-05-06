@@ -1,5 +1,6 @@
 ---
 title: How Do Plants Use Chemical Signals to Defend Against Insects and Communicate With Other Organisms?
+created: 2026-04-28
 tags: [plant-communication, VOCs, chemical-ecology, plant-defense, HIPV, tritrophic-interactions, pheromones, integrated-pest-management, semiochemicals]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://doi.org/10.1146/annurev-phyto-082712-102339
   - https://doi.org/10.1111/nph.16464
   - https://doi.org/10.1007/s10526-014-9649-3
+type: query
 ---
 
 # How Do Plants Use Chemical Signals to Defend Against Insects and Communicate With Other Organisms?

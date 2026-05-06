@@ -1,8 +1,10 @@
 ---
 title: "IMO Processing Stages and Utiindigenous-microorganismsural-farming, imo, microorganism, fermentation, soil-health]
+created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chosbuilding-soilal-farming.md]
+type: concept
 ---
 # IMO Processing Stages and Utilization
 Indigenous Microorganisms (IMOs) in [[korean-natural-farming]] progress

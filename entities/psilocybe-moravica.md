@@ -1,5 +1,6 @@
 ---
 title: Psilocybe moravica
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, european-fungi, psychotropic]
 date: 2026-04-28

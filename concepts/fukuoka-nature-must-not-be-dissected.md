@@ -1,5 +1,6 @@
 ---
 title: "Fukuoka Nature Must Not Be Dissected"
+created: 2026-04-28
 tags:
   - natural-farming
   - philosophy
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Fukuoka: Nature Must Not Be Dissected

@@ -1,10 +1,12 @@
 ---
 title: "Panaeolus Cyanescens: Australia Distribution and Ecology"
+created: 2026-04-28
 tags: [panaeolus, cyanescens, copelandia, australia, distribution,
   dung-inhabiting, blue-meanies, identification, allen]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+type: concept
 ---
 
 # Panaeolus Cyanescens: Australia Distribution and Ecology

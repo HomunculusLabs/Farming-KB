@@ -1,5 +1,6 @@
 ---
 title: "Paracoccidioides brasiliensis"
+created: 2026-04-28
 type: species
 tags: [ascomycete, human-pathogen, dimorphic, systemic-mycosis]
 date: 2026-04-28

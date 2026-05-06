@@ -1,9 +1,11 @@
 ---
 title: "How Does Mycoremediation Work and What Can Fungi Clean Up?"
+created: 2026-04-28
 tags: [query, mycology, bioremediation, mycoremediation, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Mycoremediation Work and What Can Fungi Clean Up?

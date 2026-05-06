@@ -1,9 +1,11 @@
 ---
 title: Dark Taxa (Fungi)
+created: 2026-04-28
 tags: mycology, taxonomy, dark-taxa, undiscovered-species]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Dark Taxa (Fungi)

@@ -1,5 +1,6 @@
 ---
 title: "How to grow mushrooms on logs at home"
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - log-cultivation
@@ -18,6 +19,7 @@ sources:
     Agroforestry Center, 2018.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
     Technology, 2011.
+type: query
 ---
 
 ## Quick Answer

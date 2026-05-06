@@ -1,5 +1,6 @@
 ---
 title: "Botrytis cinerea"
+created: 2026-04-28
 type: species
 tags: [ascomycete, plant-pathogen, necrotroph, biocontrol-target]
 date: 2026-04-28

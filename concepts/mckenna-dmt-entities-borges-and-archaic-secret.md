@@ -1,5 +1,6 @@
 ---
 title: McKenna on DMT Entities, Borges, and the Archaic Secret
+created: 2026-04-28
 tags:
   - mckenna
   - dmt
@@ -17,6 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T (1992) "Tryptamine Hallucinogens and Consciousness." In The Archaic Revival. HarperSanFrancisco. Originally delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen, December 1983.
+type: concept
 ---
 
 # McKenna on DMT Entities, Borges, and the Archaic Secret

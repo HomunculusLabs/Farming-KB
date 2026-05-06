@@ -1,10 +1,12 @@
 ---
 title: Spore Print and Syringe Preparation Techniques
+created: 2026-04-28
 tags: [sterile-technique, spore-collection, inoculation, strain-preservation, lab-skills]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Spore Print and Syringe Preparation Techniques

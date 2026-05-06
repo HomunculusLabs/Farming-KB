@@ -1,5 +1,6 @@
 ---
 title: "Neem and Indian Beech as Permaculture Utility Trees"
+created: 2026-04-28
 tags:
   - permaculture
   - medicinal-plants
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Neem and Indian Beech as Permaculture Utility Trees

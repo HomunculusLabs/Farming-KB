@@ -1,10 +1,12 @@
 ---
 title: Wide Spacing Dry Gardening for Low Irrigation Food Production
+created: 2026-04-28
 tags: [gardening, dry-farming, water-conservation, vegetable-production, sustainable-agriculture, solomon]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - solomon-gardening-when-it-counts-2005
+type: concept
 ---
 
 # Wide Spacing Dry Gardening for Low Irrigation Food Production

@@ -1,5 +1,6 @@
 ---
 title: Psychoactive Plants Growing Wild in the United States
+created: 2026-04-28
 tags:
   - ethnobotany
   - pharmacology
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Psychoactive Plants Growing Wild in the United States

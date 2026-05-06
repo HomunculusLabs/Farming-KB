@@ -1,10 +1,12 @@
 ---
 title: "Design from Patterns to Details — Permaculture Principle 7"
+created: 2026-04-28
 tags: [permaculture, design-principles, patterns, design-methodology, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Design from Patterns to Details — Permaculture Principle 7

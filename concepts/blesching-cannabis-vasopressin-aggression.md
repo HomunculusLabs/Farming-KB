@@ -1,10 +1,12 @@
 ---
 title: "Cannabis, Vasopressin, and the Endocannabinoid System"
+created: 2026-04-28
 tags: [cannabis, endocannabinoid-system, vasopressin, neurochemistry, hormones, aggression, social-cognition, mind-body]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
+type: concept
 ---
 
 # Cannabis, Vasopressin, and the Endocannabinoid System

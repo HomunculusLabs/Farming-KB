@@ -1,9 +1,11 @@
 ---
 title: "2-Arachidonoylglycerol (2-AG)"
+created: 2026-04-28
 tags: [endocannabinoid, lipid-mediator, human-body, neurotransmitter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # 2-Arachidonoylglycerol (2-AG)

@@ -1,5 +1,6 @@
 ---
 title: Fungi as Dominant Soil Biomass and Ecosystem Engineers
+created: 2026-04-28
 tags:
   - fungal-ecology
   - soil-biology
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 
 # Fungi as Dominant Soil Biomass and Ecosystem Engineers
@@ -189,7 +191,6 @@ soil carbon sequestration.
 - [[arbuscular-mycorrhizal-fungi]]
 - [[common-mycorrhizal-networks]]
 - [[decomposition]]
-
 - [[Fungi in the Environment]] for the comprehensive reference on environmental
   mycology
 - [[Ectomycorrhizal networks]] for detailed treatment of ECM fungal ecology

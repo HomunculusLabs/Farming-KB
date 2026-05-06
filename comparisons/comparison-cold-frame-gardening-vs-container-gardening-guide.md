@@ -1,9 +1,11 @@
 ---
 title: "cold-frame-gardening vs Container Gardening"
+created: 2026-04-28
 tags: [comparison, gardening, season-extension, containers, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Cold Frame Gardening vs Container Gardening

@@ -1,5 +1,6 @@
 ---
 title: Mahayana and Hinayana Natural Farming
+created: 2026-04-28
 tags: [natural-farming, philosophy, mu, buddhism, fukuoka, epistemology, agricultural-theory]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: The Natural Way of Farming
+type: concept
 ---
 
 # Mahayana and Hinayana Natural Farming

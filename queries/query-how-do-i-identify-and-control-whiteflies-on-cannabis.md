@@ -1,9 +1,11 @@
 ---
 title: "How Do I Identify and Control Whiteflies on Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, pests, whiteflies, ipm]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Identify and Control Whiteflies on Cannabis?

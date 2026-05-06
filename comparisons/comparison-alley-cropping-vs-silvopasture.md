@@ -1,10 +1,12 @@
 ---
 title: Alley Cropping vs Silvopasture
+created: 2026-04-28
 tags: [agroforestry, alley-cropping, silvopasture, integrated-systems, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: comparison
 ---
 # Alley Cropping vs Silvopasture
 Alley cropping and silvopasture are two of the most widely practiced agroforestry

@@ -1,9 +1,11 @@
 ---
 title: "Chemical Fertilizers and Soil Damage"
+created: 2026-04-28
 tags: [soil-health, fertilizers, chemicals, soil-biology, pollution]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 In *Teaming With Microbes*, Lowenfels and Lewis mount a thorough critique of

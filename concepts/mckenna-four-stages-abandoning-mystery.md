@@ -1,5 +1,6 @@
 ---
 title: "Four Stages of Abandoning the Mystery"
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, four-stages, mystery, dilution, dominator-
 culture, secular-scientism, plant-sacrament, symbol-substitution, eleusis,
 partnership-society, mead-cult, psilocybin-substitution]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "mckenna_t-food_of_the_gods.md"
+type: concept
 ---
 
 # Four Stages of Abandoning the Mystery

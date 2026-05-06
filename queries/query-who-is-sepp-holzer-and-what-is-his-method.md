@@ -1,10 +1,12 @@
 ---
 title: "Who Is Sepp Holzer and What Is His Method?"
+created: 2026-04-28
 tags: [query, permaculture, sepp-holzer, aquaculture, sustainable-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: query
 ---
 
 # Who Is Sepp Holzer and What Is His Method?

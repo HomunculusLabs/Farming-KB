@@ -1,10 +1,12 @@
 ---
 title: "Creosote-Contaminated Soil Mycoremediation"
+created: 2026-04-28
 tags: [bioremediation, creosote, PAH, white-rot-fungi, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
+type: concept
 ---
 
 # Creosote-Contaminated Soil Mycoremediation

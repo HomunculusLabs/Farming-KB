@@ -1,5 +1,6 @@
 ---
 title: "Cinnamomum verum"
+created: 2026-04-28
 type: species
 tags: [species, herbal-plant, lauraceae, spice, medicinal, culinary]
 date: 2026-04-28

@@ -1,8 +1,10 @@
 ---
 title: "Ferroceearthbag-constructiontruction"
+created: 2026-04-28
 tags: [natural-building, ferrocement, earthbag, low-cost-construction, sustainable-housing]
 date: permaculturepdhomesteading4-28
 sources: []
+type: comparison
 ---
 
 # Ferrocement vs Earthbag Construction

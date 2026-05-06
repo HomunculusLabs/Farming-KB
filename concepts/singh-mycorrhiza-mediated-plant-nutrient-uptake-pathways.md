@@ -1,10 +1,12 @@
 ---
 title: mycorrhiza-Mediated plant-nutrient-uptake Pathways
+created: 2026-04-28
 tags: [mycorrhiza, nutrient-uptake, phosphate-transport, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Mycorrhiza-Mediated Plant Nutrient Uptake Pathways

@@ -1,9 +1,11 @@
 ---
 title: "How to Fix Manganese Deficiency in Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, manganese]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Fix Manganese Deficiency in Cannabis

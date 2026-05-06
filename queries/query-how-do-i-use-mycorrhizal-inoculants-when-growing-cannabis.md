@@ -1,5 +1,6 @@
 ---
 title: "How Do I Use Mycorrhizal Inoculants When Growing Cannabis?"
+created: 2026-04-28
 tags:
   - cannabis
   - mycology
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Use Mycorrhizal Inoculants When Growing Cannabis?

@@ -1,5 +1,6 @@
 ---
 title: PsiK (4-Hydroxytryptamine Kinase)
+created: 2026-04-28
 type: chemical
 tags: [enzyme, biosynthesis, psilocybin, kinase, phosphorylation]
 date: 2026-04-28

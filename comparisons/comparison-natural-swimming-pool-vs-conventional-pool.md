@@ -1,5 +1,6 @@
 ---
 title: "Natural Swimming Pool vs Conventional Pool"
+created: 2026-04-28
 tags:
   - natural-swimming-pool
   - conventional-pool
@@ -19,6 +20,7 @@ sources:
   - Wagenführ, Rainer, and Werner Pötschke. "Biological Water Purification
     in Natural Swimming Pools." Journal of Applied Phycology, vol. 30, 2018.
   - "Pool and Spa Maintenance Guidelines." CDC, 2023.
+type: comparison
 ---
 
 ## Overview

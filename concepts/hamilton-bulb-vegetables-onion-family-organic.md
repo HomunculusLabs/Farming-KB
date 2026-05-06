@@ -1,5 +1,6 @@
 ---
 title: Bulb Vegetables and the Onion Family
+created: 2026-04-28
 tags:
   - organic-gardening
   - vegetables
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Bulb Vegetables and the Onion Family

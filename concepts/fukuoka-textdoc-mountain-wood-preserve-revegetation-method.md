@@ -1,5 +1,6 @@
 ---
 title: Mountain Wood Preserve and Revegetation Method for Natural Farms
+created: 2026-04-28
 tags:
   - fukuoka
   - reforestation
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Mountain Wood Preserve and Revegetation Method for Natural Farms

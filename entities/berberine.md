@@ -1,5 +1,6 @@
 ---
 title: "Berberine"
+created: 2026-04-28
 type: chemical
 tags:
   - phytochemical

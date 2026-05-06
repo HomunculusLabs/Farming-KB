@@ -1,5 +1,6 @@
 ---
 title: Oomycete Zoospore Biology: Flagella, Chemotaxis, and Galvanotaxis
+created: 2026-04-28
 tags:
   - mycology
   - oomycetes
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 6, pp. 115-128
+type: concept
 ---
 
 # Oomycete Zoospore Biology: Flagella, Chemotaxis, and Galvanotaxis

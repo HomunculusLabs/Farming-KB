@@ -1,5 +1,6 @@
 ---
 title: "Morchella esculenta (Morel Mushroom)"
+created: 2026-04-28
 type: species
 tags: [fungi, culinary-mushroom, mycology, foraging, permaculture, saprotrophic, ecology]
 date: 2026-04-28
@@ -177,6 +178,8 @@ While primarily valued as a food, morels have documented bioactive properties:
 - **When in doubt, throw it out.** If you cannot positively identify a mushroom as a true morel with all key identification features confirmed, do not eat it
 
 ## See Also
+
+- [[colocasia-esculenta]]
 
 - [[morchella-esculenta-entity]]
 

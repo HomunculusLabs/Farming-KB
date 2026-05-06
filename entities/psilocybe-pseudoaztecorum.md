@@ -1,5 +1,6 @@
 ---
 title: Psilocybe pseudoaztecorum
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, hallucinogenic-fungi, section-aztecorum]
 date: 2026-04-28

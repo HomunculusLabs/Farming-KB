@@ -1,9 +1,11 @@
 ---
 title: "Vinegar vs Lacto Fermentation"
+created: 2026-04-28
 tags: [comparison, fermentation, food-preservation, probiotics, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Vinegar vs Lacto Fermentation
@@ -123,6 +125,8 @@ garden, providing both a household cleaning acid and a probiotic food
 source from the same fermentation workspace.
 
 ## See Also
+
+- [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-fermentation-vs-canning]]
 - [[comparison-fermented-vegetables-vs-canning]]
 - [[comparison-kombucha-vs-kefir]]

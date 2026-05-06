@@ -1,10 +1,12 @@
 ---
 title: Fruiting Chamber Setup
+created: 2026-04-28
 tags: [mycology, cultivation, fruiting, mushroom, low-tech]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 # Fruiting Chamber Setup
 

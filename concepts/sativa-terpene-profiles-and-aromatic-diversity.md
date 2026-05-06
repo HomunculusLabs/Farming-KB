@@ -1,9 +1,11 @@
 ---
 title: Sativa Terpene Profiles and Aromatic Diversity
+created: 2026-04-28
 tags: [cannabis, terpenes, sativa, aromatics, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md]
+type: concept
 ---
 
 # Sativa Terpene Profiles and Aromatic Diversity

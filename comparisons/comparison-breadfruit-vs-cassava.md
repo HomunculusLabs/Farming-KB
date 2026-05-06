@@ -1,5 +1,6 @@
 ---
 title: "Breadfruit vs Cassava — A Comparative Guide"
+created: 2026-04-28
 tags: breadfruit, cassava, tropical-crops, staple-foods, comparison
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - https://nutritiondata.self.com/facts/fruits-and-fruit-juices/1859/2
   - https://nutritiondata.self.com/facts/vegetables-and-vegetable-products/2060/2
   - https://www.cgiar.org/research-program-root-tuber-banana/
+type: comparison
 ---
 
 # Breadfruit (*Artocarpus altilis*) vs Cassava (*Manihot esculenta*)

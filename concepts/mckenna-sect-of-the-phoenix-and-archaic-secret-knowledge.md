@@ -1,5 +1,6 @@
 ---
 title: The Sect of the Phoenix and Archaic Secret Knowledge
+created: 2026-04-28
 tags:
   - philosophy
   - consciousness
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # The Sect of the Phoenix and Archaic Secret Knowledge

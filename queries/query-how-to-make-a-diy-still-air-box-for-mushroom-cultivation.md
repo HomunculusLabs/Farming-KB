@@ -1,9 +1,11 @@
 ---
 title: "How to Make a DIY Still Air Box for Mushroom Cultivation"
+created: 2026-04-28
 tags: [query, mushroom, cultivation, sterile-technique, sab]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: query
 ---
 
 # How to Make a DIY Still Air Box for Mushroom Cultivation

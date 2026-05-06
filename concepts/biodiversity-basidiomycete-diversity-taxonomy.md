@@ -1,9 +1,11 @@
 ---
 title: Basidiomycete Diversity and Taxonomy
+created: 2026-04-28
 tags: [fungi, taxonomy, basidiomycota, biodiversity, systematics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ['/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md']
+type: concept
 ---
 
 # Basidiomycete Diversity and Taxonomy

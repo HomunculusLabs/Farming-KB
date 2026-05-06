@@ -1,10 +1,12 @@
 ---
 title: "Garden Fencing and Boundaries"
+created: 2026-04-28
 tags: [fencing, boundaries, wind-protection, garden-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Garden Fencing and Boundaries

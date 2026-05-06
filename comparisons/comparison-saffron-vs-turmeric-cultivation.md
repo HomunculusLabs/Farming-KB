@@ -1,5 +1,6 @@
 ---
 title: "Saffron vs Turmeric Cultivation"
+created: 2026-04-28
 tags:
   - saffron
   - turmeric
@@ -13,6 +14,7 @@ sources:
   - "FAO — Spice Crops Production and Trade Statistics (2024)"
   - "Kumar et al., 'Advances in Saffron Agronomy,' Crop Science Reviews, 2023"
   - "ICAR — Indian Institute of Spices Research, Turmeric Cultivation Package (2025)"
+type: comparison
 ---
 
 # Saffron vs Turmeric Cultivation

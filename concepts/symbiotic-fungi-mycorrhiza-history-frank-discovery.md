@@ -1,9 +1,11 @@
 ---
 title: "Mycorrhiza Discovery History and A.B. Frank"
+created: 2026-04-28
 tags: [mycology, mycorrhiza, history, frank, symbiosis, plant-fungal-interaction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 The discovery and conceptualisation of mycorrhiza represents one of the

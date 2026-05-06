@@ -1,9 +1,11 @@
 ---
 title: Fungal Environmental DNA
+created: 2026-04-28
 tags: [mycology, genomics, ecology, methodology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Environmental DNA

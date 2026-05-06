@@ -1,9 +1,11 @@
 ---
 title: "Chicken Tractor and Poultry Integration"
+created: 2026-04-28
 tags: [permaculture, poultry, chickens, animal-integration, small-livestock]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Chicken Tractor and Poultry Integration

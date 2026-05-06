@@ -1,10 +1,12 @@
 ---
 title: Panaeolus acuminatus Profile
+created: 2026-04-28
 tags: [panaeolus, mycology, mushroom-profile, temperate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # Panaeolus acuminatus Profile
 

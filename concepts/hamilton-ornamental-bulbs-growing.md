@@ -1,10 +1,12 @@
 ---
 title: "Ornamental Bulbs Growing"
+created: 2026-04-28
 tags: [bulbs, ornamental-gardening, spring-flowers, naturalizing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Ornamental Bulbs Growing

@@ -1,10 +1,12 @@
 ---
 title: Panaeolus Subbalteatus Taxonomy and Intoxication History
+created: 2026-04-28
 tags: [Panaeolus-subbalteatus, taxonomy, dung-mushrooms, psilocybin, intoxication,
       alkaloid-content, spore-print, habitat, European-mushrooms, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # [[panaeolus-subbalteatus]] Taxonomy and Intoxication History

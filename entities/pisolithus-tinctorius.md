@@ -1,9 +1,11 @@
 ---
 title: "Pisolithus tinctorius"
+created: 2026-04-28
 tags: [species, fungus, ectomycorrhizal, soil-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [john-dighton-fungi-in-ecosystem-processes.md]
+type: entity
 ---
 
 # Pisolithus tinctorius

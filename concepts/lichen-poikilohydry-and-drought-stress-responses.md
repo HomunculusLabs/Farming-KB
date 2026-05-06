@@ -1,10 +1,12 @@
 ---
 title: lichen poikilohydry and drought stress responses
+created: 2026-04-28
 tags: [mycology, lichenology, ecophysiology, water-relations, stress-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papgeoffrey-gadsarah-c-watkinsonatkinson-paul-s-dyer-fungi-in-the-environment.md"-----#-lichen-poikilohydry-and-drought-stress-responses-the-key-to-understanding-the-impressive-environmental-stress-tolerance-of-lichen-forming-fungi-and-their-photobionts-lies-in-their-poikilohydric-water-relations-and-the-ability-of-their-desiccated-cells-to-survive-temperature-extremes-unharmed-in-a-state-of-dormancy.-lichen poikilohydry and drought stress responses
+type: concept
 ---
 approximately 10% of terrestrial ecosystems, particularly in polar,
 alpine and desert regions where higher plants are at their physiological

@@ -1,5 +1,6 @@
 ---
 title: "How to Choose Cover Crops for Your Climate and Goals"
+created: 2026-04-28
 tags: cover-crops, soil-health, nitrogen-fixation, weed-suppression, erosion-control, permaculture, farming
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/cover/
   - https://www.johnnyseeds.com/growers-library/cover-crop-guide.html
   - https://www.midwestcovercrops.org/cover-crop-selector-tool/
+type: query
 ---
 
 # How to Choose Cover Crops for Your Climate and Goals

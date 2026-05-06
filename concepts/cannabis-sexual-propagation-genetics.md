@@ -1,10 +1,12 @@
 ---
 title: Cannabis Sexual Propagation and Genetics
+created: 2026-04-28
 tags: [cannabis, propagation, genetics, breeding, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
+type: concept
 ---
 
 # Cannabis Sexual Propagation and Genetics

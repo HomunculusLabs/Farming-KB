@@ -1,5 +1,6 @@
 ---
 title: Fermented Plant Juice
+created: 2026-04-28
 type: chemical
 tags: [knf, fpj, plant-extranatural-farmingn, cho-global]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Eschscholzia californica
+created: 2026-04-28
 type: species
 tags:
   - papaveraceae
@@ -135,6 +136,8 @@ Flavonoid constituents contribute to significant antioxidant activity: DPPH radi
 *E. californica* is relevant as a non-opioid Papaveraceae species with pharmacological activity centered on [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor modulation. It serves as a point of comparison with [[papaver-somniferum]] (same family, different alkaloid profile) and as a companion herb often formulated alongside [[passiflora-incarnata]], [[valeriana-officinalis]], [[melatonin-entity-tihkal]], and [[ashwagandha]] in sleep and anxiety preparations.
 
 ## See Also
+
+- [[eriodictyon-californicum]]
 
 - [[papaver-somniferum]] — Opium poppy; related Papaveraceae species with distinct alkaloid profile
 - [[passiflora-incarnata]] — Passionflower; herbal anxiolytic and sedative with shared [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA]]-ergic mechanism

@@ -1,10 +1,12 @@
 ---
 title: "What Are the Best Ground Covers for a No-Till Garden"
+created: 2026-04-28
 tags: [query, ground-cover, no-till, cover-crops, living-mulch]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+type: query
 ---
 
 # What Are the Best Ground Covers for a No-Till Garden

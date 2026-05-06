@@ -1,10 +1,12 @@
 ---
 title: Microclimate Effects on Mite and Scale Populations in Orchards
+created: 2026-04-28
 tags: [natural-farming, fukuoka, pest-management, microclimate, mites, scale-insects, biological-control, orchard]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Microclimate Effects on Mite and Scale Populations in Orchards

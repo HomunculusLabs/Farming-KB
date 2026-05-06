@@ -1,5 +1,6 @@
 ---
 title: Agaricus subrufescens
+created: 2026-04-28
 type: species
 tags: [mycology, cultivation, medicinal-mushrooms, agaricus]
 date: 2026-04-28

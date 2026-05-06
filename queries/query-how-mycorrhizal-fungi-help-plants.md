@@ -1,9 +1,11 @@
 ---
 title: "How Do Mycorrhizal Fungi Help Plants Grow?"
+created: 2026-04-28
 tags: [query, mycorrhizal-fungi, soil-biology, plant-health, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Mycorrhizal Fungi Help Plants Grow?

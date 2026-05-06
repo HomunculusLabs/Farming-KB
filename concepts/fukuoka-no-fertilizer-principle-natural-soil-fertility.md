@@ -1,5 +1,6 @@
 ---
 title: Fukuoka No Fertilizer Principle and Natural Soil Fertility
+created: 2026-04-28
 tags:
   - farming
   - soil-science
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka No Fertilizer Principle and Natural Soil Fertility

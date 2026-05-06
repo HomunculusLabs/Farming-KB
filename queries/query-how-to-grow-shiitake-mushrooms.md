@@ -1,5 +1,6 @@
 ---
 title: How to Grow Shiitake Mushrooms
+created: 2026-04-28
 tags:
   - shiitake
   - mushroom-cultivation
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 ## Overview
 Shiitake ([[lentinula-edodes]]) is one of the most rewarding mushrooms to grow at home.

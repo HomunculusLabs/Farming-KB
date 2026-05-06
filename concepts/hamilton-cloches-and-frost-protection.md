@@ -1,10 +1,12 @@
 ---
 title: Cloches and Frost Protection in Organic Gardening
+created: 2026-04-28
 tags: [cloches, frost-protection, season-extension, organic-gardening, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Cloches and Frost Protection in Organic Gardening

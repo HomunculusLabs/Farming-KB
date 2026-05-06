@@ -1,5 +1,6 @@
 ---
 title: EMCDDA Wild Magic Mushroom Foraging Patterns and Misidentification Hazards Across Europe
+created: 2026-04-28
 tags:
   - emcdda
   - foraging
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Wild Magic Mushroom Foraging Patterns and Misidentification Hazards Across Europe

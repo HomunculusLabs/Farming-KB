@@ -1,10 +1,12 @@
 ---
 title: "Crop Rotation System: Feeders, Givers, and Light Feeders"
+created: 2026-04-28
 tags: [biointensive, crop-rotation, nitrogen-fixation, soil-fertility,
   agricultural-recycling, heavy-feeder, legumes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Crop Rotation System: Feeders, Givers, and Light Feeders

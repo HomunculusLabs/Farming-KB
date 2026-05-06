@@ -1,9 +1,11 @@
 ---
 title: "What Are the Most Medicinal Mushrooms and What Do They Do?"
+created: 2026-04-28
 tags: [query, medicinal-mushrooms, mycology, health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
+type: query
 ---
 
 # What Are the Most Medicinal Mushrooms and What Do They Do?

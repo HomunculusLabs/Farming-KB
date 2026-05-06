@@ -1,9 +1,11 @@
 ---
 title: "Degradation of Plant Cell Wall Polymers by Fungi"
+created: 2026-04-28
 tags: [bioremediation, lignocellulose, mycology, fungal-enzymology, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Degradation of Plant Cell Wall Polymers by Fungi

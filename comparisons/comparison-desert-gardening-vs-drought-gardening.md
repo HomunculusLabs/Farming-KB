@@ -1,9 +1,11 @@
 ---
 title: Desert Gardening vs Drought Gardening
+created: 2026-04-28
 tags: [gardening, water-management, arid-climate, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Desert Gardening vs Drought Gardening

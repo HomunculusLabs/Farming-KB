@@ -1,10 +1,12 @@
 ---
 title: Pholiotina filaris Profile
+created: 2026-04-28
 tags: [pholiotina, conocybe, toxic-mushroom, mycology, mushroom-profile]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # Pholiotina filaris Profile
 

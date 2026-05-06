@@ -1,9 +1,11 @@
 ---
 title: "Companion Planting vs Polyculture"
+created: 2026-04-28
 tags: [comparison, organic-gardening, permaculture, biodiversity, crop-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Companion Planting vs Polyculture

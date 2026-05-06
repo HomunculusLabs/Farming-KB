@@ -1,11 +1,13 @@
 ---
 title: Motivational Sessions for Trainees
+created: 2026-04-28
 tags: [motivational-sessions, disability-inclusion, personal-development,
   training-program, community-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Motivational Sessions for Trainees

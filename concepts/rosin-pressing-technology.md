@@ -1,9 +1,11 @@
 ---
 title: Rosin Pressing Technology
+created: 2026-04-28
 tags: [cannabis, rosin, extraction, mechanical, solventless]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+type: concept
 ---
 
 # Rosin Pressing Technology

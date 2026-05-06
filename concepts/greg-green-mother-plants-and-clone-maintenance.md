@@ -1,9 +1,11 @@
 ---
 title: "Mother Plants and Clone Maintenance"
+created: 2026-04-28
 tags: [cannabis, cloning, mother-plant, propagation, genetics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 A mother plant is a selected female cannabis plant that is kept in a

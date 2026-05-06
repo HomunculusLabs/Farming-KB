@@ -1,5 +1,6 @@
 ---
 title: Cannabis and Anorexia Cachexia
+created: 2026-04-28
 tags:
   - cannabis
   - anorexia
@@ -16,6 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Blesching, Uwe. "The Cannabis Health Index." North Atlantic Books, 2015. Chapter IV.
+type: concept
 ---
 
 # Cannabis and Anorexia Cachexia

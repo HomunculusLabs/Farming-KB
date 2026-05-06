@@ -1,10 +1,12 @@
 ---
 title: House and Garden Integration
+created: 2026-04-28
 tags: [permaculture, zone-1, garden-design, domestic-systems, food-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # House and Garden Integration

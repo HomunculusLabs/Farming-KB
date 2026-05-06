@@ -1,5 +1,6 @@
 ---
 title: Nematode-Trapping Fungi and Predatory Soil Fungi
+created: 2026-04-28
 tags:
   - mycology
   - predatory-fungi
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Nematode-Trapping Fungi and Predatory Soil Fungi

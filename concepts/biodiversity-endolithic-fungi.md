@@ -1,9 +1,11 @@
 ---
 title: Endolithic and Rock-Dwelling Fungi
+created: 2026-04-28
 tags: [mycology, endolithic-fungi, lithophytes, extremophiles, geology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+type: concept
 ---
 
 # Endolithic and Rock-Dwelling Fungi

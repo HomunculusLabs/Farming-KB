@@ -1,10 +1,12 @@
 ---
 title: "Grain Growing in Mini-Farms"
+created: 2026-04-28
 tags: [biointensive, grains, calorie-crops, wheat, mini-farming,
   self-sufficiency, protein-crops]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Grain Growing in Mini-Farms

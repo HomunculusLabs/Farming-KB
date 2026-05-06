@@ -1,9 +1,11 @@
 ---
 title: JADAM Farming Method
+created: 2026-04-28
 tags: [jadam, organic-farming, ultra-low-cost, korean-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Farming Method

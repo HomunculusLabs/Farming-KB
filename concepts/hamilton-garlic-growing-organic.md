@@ -1,5 +1,6 @@
 ---
 title: Garlic Growing - Organic Methods
+created: 2026-04-28
 tags:
   - garlic
   - bulb-vegetables
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Garlic Growing - Organic Methods

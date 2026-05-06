@@ -1,5 +1,6 @@
 ---
 title: Challenges in Neurotropic Fungi Chemical Analysis and Taxonomic Identification
+created: 2026-04-28
 tags:
   - mycology
   - chemistry
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (2000) 'A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion' in Ann. Mus. civ. Rovereto 14:189-280"
+type: concept
 ---
 
 # Challenges in Neurotropic Fungi Chemical Analysis and Taxonomic Identification

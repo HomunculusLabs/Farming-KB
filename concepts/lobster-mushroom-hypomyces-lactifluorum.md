@@ -1,9 +1,11 @@
 ---
 title: Lobster Mushroom Hypomyces lactifluorum
+created: 2026-04-28
 tags: [mushroom-identification, parasitic-fungi, Hypomyces, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 # Lobster Mushroom Hypomyces lactifluorum

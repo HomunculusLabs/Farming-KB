@@ -1,9 +1,11 @@
 ---
 title: "Water Softening for Pesticide Efficacy"
+created: 2026-04-28
 tags: [water-quality, water-softener, pesticide-efficacy, hard-water, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Water Softening for Pesticide Efficacy

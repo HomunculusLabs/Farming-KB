@@ -1,5 +1,6 @@
 ---
 title: The Four Types of Diet from Self-Indulgence to Non-Discrimination
+created: 2026-04-28
 tags:
   - food-philosophy
   - natural-diet
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Four Types of Diet from Self-Indulgence to Non-Discrimination

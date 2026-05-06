@@ -1,5 +1,6 @@
 ---
 title: Potassium Yield Versus Nutrition Tradeoff in Vegetable Production
+created: 2026-04-28
 tags:
   - soil-fertility
   - plant-nutrition
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: gardening-when-it-counts-steve-solomon.md
     author: Steve Solomon
+type: concept
 ---
 
 # Potassium Yield Versus Nutrition Tradeoff in Vegetable Production

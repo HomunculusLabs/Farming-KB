@@ -1,9 +1,11 @@
 ---
 title: "Chop and Drop vs Sheet Mulching"
+created: 2026-04-28
 tags: [comparison, mulching, no-till, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Chop and Drop vs Sheet Mulching
 Both are no-till mulching strategies that build soil without turning the earth,

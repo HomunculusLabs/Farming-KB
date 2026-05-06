@@ -1,9 +1,11 @@
 ---
 title: Endophytes in Cannabis
+created: 2026-04-28
 tags: [endophytes, cannabis, microbiome, plant-microbe, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+type: concept
 ---
 
 # Endophytes in Cannabis

@@ -1,9 +1,11 @@
 ---
 title: "2C-B: The Erotic Empathogen"
+created: 2026-04-28
 tags: [2c-b, phenethylamine, shulgin, empathogen, psychedelic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # 2C-B: The Erotic Empathogen

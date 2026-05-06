@@ -1,9 +1,11 @@
 ---
 title: "No-Till vs Conventional Tillage"
+created: 2026-04-28
 tags: [comparison, soil-management, no-till, tillage, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # No-Till vs Conventional Tillage

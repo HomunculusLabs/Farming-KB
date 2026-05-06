@@ -1,9 +1,11 @@
 ---
 title: "Apple Tree Care vs Apple Guild Design"
+created: 2026-04-28
 tags: [fruit-trees, permaculture, orcharding, guilds]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Apple Tree Care vs Apple Guild Design

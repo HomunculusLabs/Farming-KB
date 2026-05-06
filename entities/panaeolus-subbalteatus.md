@@ -1,5 +1,6 @@
 ---
 title: Panaeolus subbalteatus
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, coprophilous, entheogen, pasture-mushroom, panaeolina]
 date: 2026-04-28

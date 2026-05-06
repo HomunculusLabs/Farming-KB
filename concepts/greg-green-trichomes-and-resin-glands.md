@@ -1,9 +1,11 @@
 ---
 title: "Trichomes and Resin Glands"
+created: 2026-04-28
 tags: [cannabis, trichomes, resin, thc, plant-anatomy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Trichomes are the tiny, crystal-like resin glands found on the surface of

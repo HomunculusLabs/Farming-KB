@@ -1,5 +1,6 @@
 ---
 title: "Calendula officinalis"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -147,6 +148,8 @@ Common preparations include infused oil (5–15% in topical formulations), tinct
 Calendula officinalis is not considered threatened. Widely cultivated globally and naturalized in many temperate regions, the species faces no conservation restrictions.
 
 ## See Also
+
+- [[plantago-lanceolata]]
 
 - [[valeriana-officinalis]]
 - [[calendula-salve-making]]

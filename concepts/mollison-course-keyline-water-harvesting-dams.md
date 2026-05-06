@@ -1,10 +1,12 @@
 ---
 title: Keyline Water Harvesting and Dam Construction
+created: 2026-04-28
 tags: [permaculture, keyline, water-harvesting, dams, earthworks, contour,
 landscape-design, irrigation, runoff, storage]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Keyline Water Harvesting and [[dam-construction]]

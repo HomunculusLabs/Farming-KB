@@ -1,9 +1,11 @@
 ---
 title: Hyperaccumulator Plants
+created: 2026-04-28
 tags: [plants, phytoremediation, ecology, heavy-metals]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md]
+type: concept
 ---
 
 # Hyperaccumulator Plants

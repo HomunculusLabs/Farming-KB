@@ -1,9 +1,11 @@
 ---
 title: "How to Manage pH for Healthy Cannabis Plants"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, ph, soil-science, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Manage pH for Healthy Cannabis Plants

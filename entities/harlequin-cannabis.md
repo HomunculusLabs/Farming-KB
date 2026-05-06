@@ -1,5 +1,6 @@
 ---
 title: "Harlequin (Cannabis Strain)"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -139,6 +140,8 @@ sources:
 - Legal status is subject to change; always verify local regulations
 
 ## See Also
+
+- [[cannabis-and-prion-diseases]]
 
 - [[cannabis-strain-harlequin]]
 

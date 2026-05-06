@@ -1,5 +1,6 @@
 ---
 title: "Television as the Dominator Drug Par Excellence"
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, television, electronic-drugs, dominator-
 culture, media, brainwashing, addiction, social-control, consumerism, sixties-
 counterculture, philip-k-dick, trance-state]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "mckenna_t-food_of_the_gods.md"
+type: concept
 ---
 
 # Television as the Dominator Drug Par Excellence

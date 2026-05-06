@@ -1,5 +1,6 @@
 ---
 title: Psilocybe linearis
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, taxonomy]
 date: 2026-04-28

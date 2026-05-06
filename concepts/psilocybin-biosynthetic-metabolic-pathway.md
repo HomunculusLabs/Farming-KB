@@ -1,9 +1,11 @@
 ---
 title: "Psilocybin Biosynthetic Metabolic Pathway"
+created: 2026-04-28
 tags: [mycology, biochemistry, biosynthesis, psilocybin, metabolism]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+type: concept
 ---
 
 # Psilocybin Biosynthetic Metabolic Pathway

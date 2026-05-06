@@ -1,5 +1,6 @@
 ---
 title: Lime Plaster vs Earthen (Clay) Plaster
+created: 2026-04-28
 tags:
   - natural-building
   - plaster
@@ -16,6 +17,7 @@ sources:
   - The Hand-Sculpted House, Ianto Evans et al. (Chelsea Green, 2002)
   - Building with Cob, Adam Weismann & Katy Bryce (Green Books, 2006)
   - The Natural Plaster Book, Cedar Rose Guelberth & Dan Chiras (New Society Publishers, 2003)
+type: comparison
 ---
 
 # Lime Plaster vs Earthen (Clay) Plaster

@@ -1,5 +1,6 @@
 ---
 title: The Absence of No-Fertilizer Tests in Agricultural Science
+created: 2026-04-28
 tags:
   - natural-farming
   - agricultural-science
@@ -12,6 +13,7 @@ updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: 3211-3242
+type: concept
 ---
 
 # The Absence of No-Fertilizer Tests in Agricultural Science

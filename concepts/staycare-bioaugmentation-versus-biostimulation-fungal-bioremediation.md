@@ -1,9 +1,11 @@
 ---
 title: Bioaugmentation Versus Biostimulation in Fungal Bioremediation
+created: 2026-04-28
 tags: [bioremediation, bioaugmentation, biostimulation, soil-remediation, fungal-strategies]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Bioaugmentation Versus Biostimulation in Fungal Bioremediation

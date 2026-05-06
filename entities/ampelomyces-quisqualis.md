@@ -1,5 +1,6 @@
 ---
 title: Ampelomyces quisqualis
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, powdery-mildew, biocontrol, phyllosphere]
 date: 2026-04-28

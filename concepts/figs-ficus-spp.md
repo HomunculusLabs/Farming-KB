@@ -1,10 +1,12 @@
 ---
 title: Figs (Ficus spp)
+created: 2026-04-28
 tags: [permaculture, fruit-tree, fire-retardant, bee-forage, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Figs (Ficus spp)

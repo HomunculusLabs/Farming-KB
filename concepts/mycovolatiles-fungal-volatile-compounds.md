@@ -1,9 +1,11 @@
 ---
 title: Mycovolatiles Fungal Volatile Compounds
+created: 2026-04-28
 tags: [fungal-volatiles, mycovolatiles, mycology, chemical-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Mycovolatiles Fungal Volatile Compounds

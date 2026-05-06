@@ -1,11 +1,13 @@
 ---
 title: Universal Symbology in Entheogenic Visions
+created: 2026-04-28
 tags: [symbology, visionary-experience, entheogens, symbols, archetypes,
   shamanism, information-theory]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Universal Symbology in Entheogenic Visions
 

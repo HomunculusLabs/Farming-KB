@@ -1,9 +1,11 @@
 ---
 title: "What Is Lollipopping Cannabis and When Should You Do It?"
+created: 2026-04-28
 tags: [query, cannabis, pruning, training, yield, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Lollipopping Cannabis and When Should You Do It?

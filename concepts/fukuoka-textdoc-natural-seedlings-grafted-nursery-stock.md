@@ -1,10 +1,12 @@
 ---
 title: Natural Seedlings Versus Grafted Nursery Stock
+created: 2026-04-28
 tags: [natural-farming, orchard-management, fruit-trees, plant-propagation, fukuoka, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Seedlings Versus Grafted Nursery Stock

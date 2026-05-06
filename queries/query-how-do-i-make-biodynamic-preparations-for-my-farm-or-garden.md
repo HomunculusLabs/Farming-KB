@@ -1,9 +1,11 @@
 ---
 title: "How Do I Make Biodynamic Preparations for My Farm or Garden?"
+created: 2026-04-28
 tags: [query, biodynamic, farming, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Make Biodynamic Preparations for My Farm or Garden?

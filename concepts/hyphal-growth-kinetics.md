@@ -1,5 +1,6 @@
 ---
 title: Hyphal Growth Kinetics
+created: 2026-04-28
 tags:
   - mycology
   - mycelium
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - staycare-mngmt-fungi-in-bioremediation.md
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Hyphal Growth Kinetics

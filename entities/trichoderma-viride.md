@@ -1,5 +1,6 @@
 ---
 title: "Trichoderma viride"
+created: 2026-04-28
 type: species
 tags: [ascomycete, biocontrol-agent, mycoparasite, cellulolytic]
 date: 2026-04-28

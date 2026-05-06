@@ -1,9 +1,11 @@
 ---
 title: "Endocannabinoid System"
+created: 2026-04-28
 tags: [cannabis, endocannabinoid-system, cb1, cb2, receptors, neurobiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Endocannabinoid System

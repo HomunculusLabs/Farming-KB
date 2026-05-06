@@ -1,9 +1,11 @@
 ---
 title: Fungal Manganese Peroxidase in Bioremediation
+created: 2026-04-28
 tags: [manganese-peroxidase, bioremediation, enzymes, white-rot-fungi, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Manganese Peroxidase in Bioremediation

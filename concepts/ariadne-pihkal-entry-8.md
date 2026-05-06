@@ -1,10 +1,12 @@
 ---
 title: ARIADNE (4C-DOM, Dimoxamine) - PIHKAL Entry #8
+created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, antidepressant, classic-ladies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # ARIADNE (4C-DOM, Dimoxamine)

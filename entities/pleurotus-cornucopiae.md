@@ -1,5 +1,6 @@
 ---
 title: Pleurotus cornucopiae
+created: 2026-04-28
 type: species
 tags: [mycology, cultivation, gourmet-mushrooms, pleurotus]
 date: 2026-04-28

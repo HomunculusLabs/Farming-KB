@@ -1,10 +1,12 @@
 ---
 title: Soil Types and Identification in Organic Gardening
+created: 2026-04-28
 tags: [soil, organic-gardening, hamilton, soil-science, growing-medium]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Soil Types and Identification in Organic Gardening

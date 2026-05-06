@@ -1,5 +1,6 @@
 ---
 title: "Phosphate Liberator Plants: Buckwheat, Mustard, and Alfalfa"
+created: 2026-04-28
 tags:
   - dynamic-accumulators
   - phosphorus
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-gaias-garden-nutrient-accumulators-dynamic-accumulators.md
+type: concept
 ---
 
 # Phosphate Liberator Plants: Buckwheat, Mustard, and Alfalfa

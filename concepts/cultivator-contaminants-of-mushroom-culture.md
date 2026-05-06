@@ -1,9 +1,11 @@
 ---
 title: "Contaminants of Mushroom Culture Identification and Control"
+created: 2026-04-28
 tags: [mushroom-cultivation, contaminants, mold-identification, disease-control, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Contaminants of [[african-mushroom-cult-history]]ure: Identification and Control

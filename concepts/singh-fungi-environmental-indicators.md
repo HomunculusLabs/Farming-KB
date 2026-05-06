@@ -1,10 +1,12 @@
 ---
 title: "Fungi as Environmental Indicators"
+created: 2026-04-28
 tags: [mycoremediation, bioindicators, environmental-monitoring, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   ["~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
+type: concept
 ---
 
 # Fungi as Environmental Indicators

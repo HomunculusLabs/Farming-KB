@@ -1,10 +1,12 @@
 ---
 title: "What Are Permaculture Zones and How Do I Use Them?"
+created: 2026-04-28
 tags: [query, permaculture, zone-planning, site-design, permaculture-principles]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # What Are Permaculture Zones and How Do I Use Them?

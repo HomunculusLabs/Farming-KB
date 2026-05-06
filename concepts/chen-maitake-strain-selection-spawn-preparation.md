@@ -1,10 +1,12 @@
 ---
 title: "Chen - Maitake Strain Selection and Spawn Preparation"
+created: 2026-04-28
 tags: [maitake, mushroom-cultivation, spawn, strain-selection, grifola-frondosa]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+type: concept
 ---
 
 # Strain Selection and Spawn Preparation for Maitake Cultivation

@@ -1,9 +1,11 @@
 ---
 title: "The Four Missing Keys"
+created: 2026-04-28
 tags: [holistic-management, paradigm-shift, brittleness, grazing, time]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # The Four Missing Keys

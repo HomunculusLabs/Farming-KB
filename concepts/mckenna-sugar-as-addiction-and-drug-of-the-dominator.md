@@ -1,9 +1,11 @@
 ---
 title: Sugar as Addiction and Drug of the Dominator
+created: 2026-04-28
 tags: [sugar, addiction, dominator-culture, slavery, McKenna, food-of-the-gods, drugs]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Sugar as Addiction and Drug of the Dominator

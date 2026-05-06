@@ -1,5 +1,6 @@
 ---
 title: Linalool
+created: 2026-04-28
 type: chemical
 tags: [terpene, cannabis, sedative, anxiolytic, analgesic]
 date: 2026-04-28

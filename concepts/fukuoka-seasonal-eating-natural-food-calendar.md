@@ -1,9 +1,11 @@
 ---
 title: "Seasonal Eating and the Natural Food Calendar"
+created: 2026-04-28
 tags: [seasonal-eating, natural-diet, food-calendar, japanese-cuisine, yin-yang-food, wild-foods]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 Eating with the seasons is the foundation of [[fukuoka-natural-diet-philosophy]]. The food

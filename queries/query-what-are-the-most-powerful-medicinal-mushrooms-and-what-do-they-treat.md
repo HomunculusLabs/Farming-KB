@@ -1,9 +1,11 @@
 ---
 title: "What Are the Most Powerful Medicinal Mushrooms and What Do They Treat?"
+created: 2026-04-28
 tags: [query, medicinal-mushrooms, herbalism, health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Most Powerful Medicinal Mushrooms and What Do They Treat?

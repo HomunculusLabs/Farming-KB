@@ -1,9 +1,11 @@
 ---
 title: "Polysaccharide-Peptide (PSP)"
+created: 2026-04-28
 tags: [fungal-compound, polysaccharide, immunomodulator, anti-cancer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # Polysaccharide-Peptide (PSP)

@@ -1,9 +1,11 @@
 ---
 title: "Biopoaquaponicsuaponics"
+created: 2026-04-28
 tags: [hydroponics, organic-farming, aquaponics, bioponics, soil-less-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Bioponics vs Aquaponics

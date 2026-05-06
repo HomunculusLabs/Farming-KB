@@ -1,9 +1,11 @@
 ---
 title: "How to Identify Psilocybe Cubensis in the Wild"
+created: 2026-04-28
 tags: [query, mycology, mushroom-identification, foraging, psilocybin]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
+type: query
 ---
 # How to Identify Psilocybe Cubensis in the Wild
 ## Short Answer

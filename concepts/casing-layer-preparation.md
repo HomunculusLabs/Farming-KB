@@ -1,10 +1,12 @@
 ---
 title: Casing Layer Preparation
+created: 2026-04-28
 tags: [mycology, cultivation, casing, substrate, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 # Casing Layer Preparation
 

@@ -1,5 +1,6 @@
 ---
 title: Vegetable Insect and Disease Control
+created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
 type: concept

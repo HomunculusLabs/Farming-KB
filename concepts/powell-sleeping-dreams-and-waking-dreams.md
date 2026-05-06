@@ -1,11 +1,13 @@
 ---
 title: Sleeping Dreams and Waking Dreams
+created: 2026-04-28
 tags: [dreams, waking-dreams, REM-sleep, serotonin, psilocybin,
   neuroscience, consciousness, visionary-experience]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Sleeping Dreams and Waking Dreams
 

@@ -1,9 +1,11 @@
 ---
 title: Shamanic Tobaccos and the Loss of Nicotiana Rustica
+created: 2026-04-28
 tags: [tobacco, nicotiana-rustica, shamanism, Maya, McKenna, food-of-the-gods, MAO-inhibitors]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Shamanic Tobaccos and the Loss of Nicotiana Rustica

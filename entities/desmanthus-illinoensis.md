@@ -1,5 +1,6 @@
 ---
 title: Desmanthus illinoensis
+created: 2026-04-28
 type: species
 tags: [legumes, fabaceae, dmt-containing, tryptamine, nitrogen-fixing, permaculture, prairie-plants, entheogenic-plants, forage, native-american-plants, alkaloid-accumulation]
 date: 2026-04-28

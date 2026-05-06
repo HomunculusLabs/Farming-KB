@@ -1,5 +1,6 @@
 ---
 title: "Eleusinian Mysteries: The Ergotized Beer Theory"
+created: 2026-04-28
 tags:
   - Eleusinian-mysteries
   - ergot
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna, Terence. "Food of the Gods" (1992), Chapter 8: "Twilight in Eden: Minoan Crete and the Eleusinian Mystery"
+type: concept
 ---
 
 # Eleusinian Mysteries: The Ergotized Beer Theory

@@ -1,9 +1,11 @@
 ---
 title: Reasoning Trace Curation
+created: 2026-04-28
 tags: [reasoning-traces, data-quality, synthetic-data, llm-training]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+type: concept
 ---
 
 # Reasoning Trace Curation

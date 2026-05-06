@@ -1,10 +1,12 @@
 ---
 title: "Humus Building and Soil Life"
+created: 2026-04-28
 tags: [soil-biology, humus, earthworms, organic-matter, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Humus Building and Soil Life

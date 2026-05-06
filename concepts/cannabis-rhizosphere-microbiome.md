@@ -1,5 +1,6 @@
 ---
 title: Cannabis Rhizosphere Microbiome
+created: 2026-04-28
 tags:
   - cannabis
   - microbiome
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Cannabis Rhizosphere Microbiome

@@ -1,5 +1,6 @@
 ---
 title: Lactarius deliciosus
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhiza, edible-mushroom, heavy-metals, forest-fungus]
 date: 2026-04-28

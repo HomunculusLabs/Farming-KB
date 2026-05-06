@@ -1,9 +1,11 @@
 ---
 title: "Types of Oyster Mushroom Growing Houses"
+created: 2026-04-28
 tags: [infrastructure, growing-house, construction, climate-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Types of Oyster Mushroom Growing Houses

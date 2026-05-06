@@ -1,5 +1,6 @@
 ---
 title: Natural Farming Fukuoka
+created: 2026-04-28
 tags:
   - farming
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka"
+type: concept
 ---
 
 # Natural Farming (Fukuoka)

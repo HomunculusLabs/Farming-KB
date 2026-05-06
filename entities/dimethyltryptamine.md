@@ -1,5 +1,6 @@
 ---
 title: Dimethyltryptamine
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, tryptamine, entheogen, endogenous-compound, pharmacology]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Mimosa pudica and Sensitive Plant Experiments
+created: 2026-04-28
 tags:
   - plant-perception
   - mimosa-pudica
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - tompkins-secret-life-of-plants.md
+type: concept
 ---
 
 # Mimosa pudica and Sensitive Plant Experiments

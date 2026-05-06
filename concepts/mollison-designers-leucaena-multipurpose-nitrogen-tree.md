@@ -1,10 +1,12 @@
 ---
 title: "Leucaena Multipurpose Nitrogen Tree"
+created: 2026-04-28
 tags: [permaculture, leucaena, nitrogen-fixing, agroforestry, multipurpose-tree]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Leucaena Multipurpose Nitrogen Tree

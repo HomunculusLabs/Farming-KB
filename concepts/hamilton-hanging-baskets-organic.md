@@ -1,10 +1,12 @@
 ---
 title: "Hanging Baskets Organic"
+created: 2026-04-28
 tags: [hanging-baskets, containers, ornamental-gardening, flowers]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Hanging Baskets Organic

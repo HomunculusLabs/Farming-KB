@@ -1,5 +1,6 @@
 ---
 title: Mushroom Spawn Production and Grain Spawn
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - spawn-production
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Mushroom [[spawn-production]] and Grain Spawn

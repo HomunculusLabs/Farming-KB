@@ -1,9 +1,11 @@
 ---
 title: "Field Guide to Psilocybin Mushroom Species Identification"
+created: 2026-04-28
 tags: [mycology, field-identification, psilocybin, species-guide, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+type: concept
 ---
 
 # Field Guide to Psilocybin Mushroom Species Identification

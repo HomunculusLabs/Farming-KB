@@ -1,5 +1,6 @@
 ---
 title: Mushroom Substrate Sterilization and Pasteurization
+created: 2026-04-28
 tags:
   - mycology
   - sterilization
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+type: concept
 ---
 
 # Mushroom Substrate Sterilization and Pasteurization

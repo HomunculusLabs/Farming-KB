@@ -1,5 +1,6 @@
 ---
 title: How Do I Choose Between a Cold Frame, Row Cover, and Low Tunnel?
+created: 2026-04-28
 tags: [cold-frame, row-cover, low-tunnel, season-extension, frost-protection, cloche, floating-row-cover, season-extension-decision, growing-guide]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
   - Coleman, Eliot. The Winter Harvest Handbook. Chelsea Green, 2009.
+type: query
 ---
 
 # How Do I Choose Between a Cold Frame, Row Cover, and Low Tunnel?

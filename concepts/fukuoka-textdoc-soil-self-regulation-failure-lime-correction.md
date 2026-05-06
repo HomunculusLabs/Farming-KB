@@ -1,5 +1,6 @@
 ---
 title: Soil Self-Regulation and the Failure of Lime Correction
+created: 2026-04-28
 tags:
   - fukuoka
   - soil-science
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Soil Self-Regulation and the Failure of Lime Correction

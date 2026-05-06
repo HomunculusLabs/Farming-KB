@@ -1,5 +1,6 @@
 ---
 title: "Pholiota squarrosa"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -116,6 +117,8 @@ commonly on conifer debris.
   conspicuous scales, and a less substantial ring.
 
 ## See Also
+
+- [[grindelia-squarrosa]]
 
 - [[pholiota-adiposa]]
 - [[pholiota-nameko]]

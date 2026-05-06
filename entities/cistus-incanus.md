@@ -1,5 +1,6 @@
 ---
 title: Cistus incanus
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -119,6 +120,12 @@ Several other *Cistus* species are notable for their own properties:
 Generally regarded as safe in normal quantities. Limited safety data for pregnancy and lactation — exercise caution. High tannin content may interfere with iron absorption if consumed in large quantities with meals. Potential drug interactions with anticoagulants and antidiabetic medications due to high polyphenol content. Individuals with Cistaceae allergies should use caution.
 
 ## See Also
+
+- [[history-of-mycology-timeline]]
+
+- [[medicinal-mushrooms]]
+
+- [[herb-growing-guide]]
 
 - [[Quercetin]] — Major flavonoid found in Cistus
 - [[Gallic acid]] — Phenolic acid constituent

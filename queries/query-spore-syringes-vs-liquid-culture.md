@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Spore Syringes and Liquid Culture?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, spores, liquid-culture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Spore Syringes and Liquid Culture?

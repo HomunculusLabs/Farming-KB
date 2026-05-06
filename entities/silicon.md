@@ -1,5 +1,6 @@
 ---
 title: Silicon
+created: 2026-04-28
 type: chemical_element
 aliases:
   - Silicon

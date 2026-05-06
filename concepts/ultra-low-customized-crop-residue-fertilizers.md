@@ -1,9 +1,11 @@
 ---
 title: "Customized Crop Residue Fertilizers"
+created: 2026-04-28
 tags: [liquid-fertilizer, crop-residues, nutrient-balance, diy-fertilizer, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Customized Crop Residue Fertilizers

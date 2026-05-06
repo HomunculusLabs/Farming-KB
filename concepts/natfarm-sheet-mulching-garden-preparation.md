@@ -1,9 +1,11 @@
 ---
 title: sheet-mulching for Garden Preparation
+created: 2026-04-28
 tags: [mulching, soil-preparation, permaculture, no-till, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Sheet Mulching for Garden Preparation

@@ -1,5 +1,6 @@
 ---
 title: "White Rot vs Brown Rot Fungi in Bioremediation"
+created: 2026-04-28
 tags:
   - bioremediation
   - mycoremediation
@@ -10,6 +11,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # White Rot vs Brown Rot Fungi in Bioremediation

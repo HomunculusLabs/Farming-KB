@@ -1,5 +1,6 @@
 ---
 title: Hallucinogenic Versus Psychedelic Terminology Debate
+created: 2026-04-28
 tags:
   - terminology
   - hallucinogens
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+type: concept
 ---
 
 # Hallucinogenic Versus Psychedelic: The Terminology Debate

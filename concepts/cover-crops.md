@@ -1,10 +1,12 @@
 ---
 title: Cover Crops
+created: 2026-04-28
 tags: [cover-crops, green-manure, soil-building, nitrogen-fixation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+type: concept
 ---
 
 # Cover Crops

@@ -1,5 +1,6 @@
 ---
 title: Agaricus bitorquis
+created: 2026-04-28
 type: species
 tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: Sticker-Spreaders and Surfactants for Compost Tea Application
+created: 2026-04-28
 tags: [foliar-spray, surfactant, compost-tea, application, coverage]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Sticker-Spreaders and Surfactants for Compost Tea Application

@@ -1,9 +1,11 @@
 ---
 title: "Mushroom Spore Dispersal Mechanisms"
+created: 2026-04-28
 tags: [mycology, spores, dispersal, fungal-reproduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Mushroom Spore Dispersal Mechanisms

@@ -1,11 +1,13 @@
 ---
 title: "What Is the Strongest Psilocybin Mushroom Species?"
+created: 2026-04-28
 tags: [query, psilocybin, mycology, mushroom-identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+type: query
 ---
 
 # What Is the Strongest Psilocybin Mushroom Species?

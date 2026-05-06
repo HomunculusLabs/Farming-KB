@@ -1,9 +1,11 @@
 ---
 title: "Ascospore Discharge Mechanisms in Ascomycetes"
+created: 2026-04-28
 tags: [mycology, ascomycetes, ascospore-discharge, fungal-reproduction, spore-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 The ascomycetes represent the largest grouping of fungi, encompassing

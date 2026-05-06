@@ -1,9 +1,11 @@
 ---
 title: Earthbag Construction vs Cob Construction
+created: 2026-04-28
 tags: [natural-building, earth-building, homesteading, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Earthbag Construction vs Cob Construction

@@ -1,5 +1,6 @@
 ---
 title: "Viscum album"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -145,6 +146,8 @@ preparations use fermented aqueous extracts, which increase lectin
 bioavailability and reduce toxicity.
 
 ## See Also
+
+- [[chenopodium-album]]
 
 - [[sambucus-nigra]] — European medicinal shrub with immunomodulatory use
 - [[beta-glucans]] — Immunomodulatory polysaccharides found in fungi and plants

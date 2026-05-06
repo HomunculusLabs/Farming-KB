@@ -1,5 +1,6 @@
 ---
 title: Plant Photoreceptors and the Mechanism of Light Perception
+created: 2026-04-28
 tags:
   - botany
   - photobiology
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Chamovitz-What-a-Plant-Knows
+type: concept
 ---
 
 # Plant Photoreceptors and the Mechanism of Light Perception

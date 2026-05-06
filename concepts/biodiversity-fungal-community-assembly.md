@@ -1,9 +1,11 @@
 ---
 title: Fungal Community Assembly and Dynamics
+created: 2026-04-28
 tags: [mycology, community-ecology, fungal-communities, succession, species-interactions]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+type: concept
 ---
 
 # Fungal Community Assembly and Dynamics

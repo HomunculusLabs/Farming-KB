@@ -1,9 +1,11 @@
 ---
 title: Fukuoka California Foxtail Grass Greening Discovery
+created: 2026-04-28
 tags: [fukuoka, california, desert-greening, pasture-management, grasses, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
+type: concept
 ---
 
 # Fukuoka's California Foxtail Grass Greening Discovery

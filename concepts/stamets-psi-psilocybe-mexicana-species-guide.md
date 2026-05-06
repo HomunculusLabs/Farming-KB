@@ -1,9 +1,11 @@
 ---
 title: Psilocybe mexicana Species Guide
+created: 2026-04-28
 tags: [mycology, psilocybe, species-guide, mexico, ethnobotany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Psilocybe mexicana Species Guide

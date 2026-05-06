@@ -1,9 +1,11 @@
 ---
 title: Ectomycorrhiza
+created: 2026-04-28
 tags: [mycology, ecology, botany, forest-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
+type: concept
 ---
 
 # Ectomycorrhiza

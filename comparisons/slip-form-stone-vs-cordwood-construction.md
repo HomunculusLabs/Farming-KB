@@ -1,5 +1,6 @@
 ---
 title: Slip Form Stone vs Cordwood Construction
+created: 2026-04-28
 subtitle: Comparing two owner-builder wall systems based on local stone, wood, mortar, and labor
 tags: [comparison, natural-building, slipform, cordwood, stone-masonry, homesteading]
 date: 2026-05-02
@@ -11,6 +12,7 @@ related_concepts:
   - slip-form-stone-construction
   - cordwood-construction
   - natural-building-techniques
+type: comparison
 ---
 # Slip Form Stone vs Cordwood Construction
 Slip form stone construction and [[cordwood-construction]] are both owner-builder wall systems that turn local raw materials into finished walls.

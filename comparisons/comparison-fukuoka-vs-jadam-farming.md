@@ -1,9 +1,11 @@
 ---
 title: "Fukuoka Natural Farming vs JADAM Farming"
+created: 2026-04-28
 tags: [comparisons, natural-farming, organic-farming, fukuoka, jadam, low-cost-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: comparison
 ---
 
 # Fukuoka Natural Farming vs JADAM Farming

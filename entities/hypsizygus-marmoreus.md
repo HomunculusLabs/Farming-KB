@@ -1,9 +1,11 @@
 ---
 title: "Hypsizygus marmoreus"
+created: 2026-04-28
 tags: [species, fungi, medicinal-mushroom, tricholomataceae]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # Hypsizygus marmoreus

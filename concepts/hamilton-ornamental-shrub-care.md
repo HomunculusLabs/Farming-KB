@@ -1,10 +1,12 @@
 ---
 title: Ornamental Shrub and Perennial Care
+created: 2026-04-28
 tags: [shrubs, perennials, pruning, ornamental, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Ornamental Shrub and Perennial Care

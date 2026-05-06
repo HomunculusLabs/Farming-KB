@@ -1,5 +1,6 @@
 ---
 title: Trichocereus bridgesii
+created: 2026-04-28
 type: species
 tags: [cactus, mescaline, psychoactive, bolivian-torch, entheogen]
 date: 2026-04-28
@@ -111,6 +112,8 @@ T. bridgesii is generally considered more cold-hardy than T. pachanoi, making it
 The combination of ornamental appeal, cold tolerance, and ease of cultivation has made T. bridgesii one of the most popular columnar cacti in the international collector market. It is widely available from specialty nurseries and online vendors.
 
 ## See Also
+
+- [[echinopsis-bridgesii]]
 
 - [[entheogen-trichocereus-genus-mescaline-cacti]]
 - [[mescaline-entity]]

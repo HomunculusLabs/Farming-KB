@@ -1,11 +1,13 @@
 ---
 title: Mycoremediation of Oil Spills
+created: 2026-04-28
 tags: [mycology, bioremediation, pollution, ecology, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
   - ~/wiki/raw/papers/mycelium-running-stamets.md
+type: concept
 ---
 
 # Mycoremediation of Oil Spills

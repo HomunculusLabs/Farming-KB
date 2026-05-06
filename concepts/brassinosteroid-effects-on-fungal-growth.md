@@ -1,10 +1,12 @@
 ---
 title: Brassinosteroid Effects on Fungal Growth
+created: 2026-04-28
 tags: [mycology, brassinosteroids, fungal-growth, psilocybe-cubensis, phytohormones, fruiting, mycelium, cultivation-enhancement]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Brassinosteroid Effects on Fungal Growth

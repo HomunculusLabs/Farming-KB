@@ -1,5 +1,6 @@
 ---
 title: "Panellus stipticus"
+created: 2026-04-28
 type: species
 tags: [fungi, bioluminescent, agaricales, mycenaceae, panellus]
 date: 2026-04-28

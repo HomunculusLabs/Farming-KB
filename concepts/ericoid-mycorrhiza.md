@@ -1,9 +1,11 @@
 ---
 title: Ericoid Mycorrhiza
+created: 2026-04-28
 tags: [ericoid-mycorrhiza, ericaceae, heathland, endomycorrhiza, plant-symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Ericoid Mycorrhiza

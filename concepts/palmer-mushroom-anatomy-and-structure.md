@@ -1,10 +1,12 @@
 ---
 title: Palmer on Mushroom Anatomy and Structure
+created: 2026-04-28
 tags: [mushroom-anatomy, mycology, fungal-structure, historical-myology, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md
+type: concept
 ---
 
 # Palmer on Mushroom Anatomy and Structure

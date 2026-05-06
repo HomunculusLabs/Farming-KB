@@ -1,10 +1,12 @@
 ---
 title: "Apply Self-Regulation and Accept Feedback — Permaculture Principle 4"
+created: 2026-04-28
 tags: [permaculture, design-principles, feedback, self-regulation, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Apply Self-Regulation and Accept Feedback — Permaculture Principle 4

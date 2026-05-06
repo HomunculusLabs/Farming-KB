@@ -1,10 +1,12 @@
 ---
 title: Livestock Behavior and Grazing Styles
+created: 2026-04-28
 tags: [livestock-behavior, grazing-styles, diet-selection, animal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Livestock Behavior and Grazing Styles

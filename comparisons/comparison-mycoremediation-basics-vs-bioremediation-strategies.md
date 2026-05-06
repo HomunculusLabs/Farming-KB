@@ -1,9 +1,11 @@
 ---
 title: "Mycoremediation vs Bioremediation Strategies"
+created: 2026-04-28
 tags: [comparison, bioremediation, mycoremediation, environmental-cleanup, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Mycoremediation vs Bioremediation Strategies

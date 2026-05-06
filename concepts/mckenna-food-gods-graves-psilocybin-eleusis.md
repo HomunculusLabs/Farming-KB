@@ -1,5 +1,6 @@
 ---
 title: Graves Psilocybin at Eleusis Theory in Food of the Gods
+created: 2026-04-28
 tags: [graves, eleusinian, psilocybin, mckenna, classical-studies]
 date: 2026-04-28
 updated: 2026-04-28

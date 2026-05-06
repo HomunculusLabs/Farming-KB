@@ -1,9 +1,11 @@
 ---
 title: "Composting and the Nutrient Cycle"
+created: 2026-04-28
 tags: [permaculture, composting, nutrient-cycle, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Composting and the Nutrient Cycle

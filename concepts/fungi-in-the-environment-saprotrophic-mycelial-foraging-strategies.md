@@ -1,9 +1,11 @@
 ---
 title: Saprotrophic Mycelial Foraging Strategies in Heterogeneous Environments
+created: 2026-04-28
 tags: [mycology, mycelial-networks, foraging, basidiomycetes, soil-ecology, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: "Geoffrey M. Gadd, Sarah C. Watkinson, Paul S. Dyer (eds). Fungi in the Environment. Cambridge University Press, 2006. Chapter 6: Mycelial responses in heterogeneous environments."
+type: concept
 ---
 
 # Saprotrophic Mycelial Foraging Strategies in Heterogeneous Environments

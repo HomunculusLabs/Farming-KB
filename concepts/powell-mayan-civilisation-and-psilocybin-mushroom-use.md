@@ -1,11 +1,13 @@
 ---
 title: Mayan Civilisation and Psilocybin Mushroom Use
+created: 2026-04-28
 tags: [maya, mesoamerica, mushroom-stones, psilocybin, entheogens,
   archaeology, shamanism, vision-serpents]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Mayan Civilisation and Psilocybin Mushroom Use
 

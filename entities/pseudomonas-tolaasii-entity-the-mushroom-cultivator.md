@@ -1,5 +1,6 @@
 ---
 title: Pseudomonas tolaasii
+created: 2026-04-28
 type: species
 tags: [bacterial-pathogen, bacterial-blotch, mushroom-disease, casing-contaminant, gram-negative]
 date: 2026-04-28

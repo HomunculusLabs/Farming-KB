@@ -1,9 +1,11 @@
 ---
 title: psilocybe-azurescens Species Guide
+created: 2026-04-28
 tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Psilocybe azurescens Species Guide

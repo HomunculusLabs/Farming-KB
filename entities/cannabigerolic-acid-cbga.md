@@ -1,9 +1,11 @@
 ---
 title: "Cannabigerolic Acid (CBGA)"
+created: 2026-04-28
 tags: [cannabinoid, acid-precursor, cannabis, biosynthesis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # Cannabigerolic Acid (CBGA)

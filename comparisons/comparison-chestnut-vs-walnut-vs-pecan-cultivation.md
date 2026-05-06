@@ -1,5 +1,6 @@
 ---
 title: Chestnut vs Walnut vs Pecan — Nut Tree Cultivation Comparison
+created: 2026-04-28
 tags: [chestnut, walnut, pecan, nut-trees, orchard, permaculture, food-forest, tree-crops, homesteading]
 date: 2026-05-03
 updated: 2026-05-03
@@ -9,6 +10,7 @@ sources:
   - Martin Crawford, "Creating a Forest Garden" (2010)
   - North American Nut Growers Association proceedings
   - Cornell University Cooperative Extension nut production guides
+type: comparison
 ---
 
 # Chestnut vs Walnut vs Pecan — Nut Tree Cultivation Comparison
@@ -162,5 +164,7 @@ This is the most fundamental difference between the three genera and drives most
 | Caloric self-sufficiency | Chestnut + Walnut combo | Carbs from chestnuts, fats from walnuts |
 
 ## See Also
+
+- [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 
 - [[comparison-avocado-vs-mango-cultivation]]

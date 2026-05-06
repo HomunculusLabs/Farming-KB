@@ -1,10 +1,12 @@
 ---
 title: European Neurotropic Fungi Distribution
+created: 2026-04-28
 tags: [mycology, europe, fungal-biodiversity, psilocybin-mushrooms, biogeography]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion. Ann Mus Civ Rovereto. 2000;14:189-280.
+type: concept
 ---
 
 # European Neurotropic Fungi Distribution

@@ -87,7 +87,9 @@ checking that they communicate promptly, and ensuring good packaging.
 Prices range from $80-$300 for 10-16 seeds. The best source of seeds is
 a friend who has grown a strain you already enjoy.
 
-## Related Pages
+## Related
+
+- [[romulan]] Pages
 
 - [[cannabis-strain-selection-guide]]
 - [[cannabis-seed-banks-and-genetics]]

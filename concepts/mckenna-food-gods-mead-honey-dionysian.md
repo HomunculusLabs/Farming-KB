@@ -1,5 +1,6 @@
 ---
 title: Mead Honey and the Dionysian Connection in Food of the Gods
+created: 2026-04-28
 tags: [mead, honey, dionysus, mckenna, ancient-religion]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Mentha pulegium
+created: 2026-04-28
 type: species
 tags: [herbal-plants, medicinal-plants, Lamiaceae, essential-oil, pennyroyal, abortifacient, toxicity, ethnobotany, companion-planting]
 date: 2026-04-28

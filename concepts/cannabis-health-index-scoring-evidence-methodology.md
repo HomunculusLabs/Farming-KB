@@ -1,5 +1,6 @@
 ---
 title: Cannabis Health Index Scoring System and Evidence-Based Methodology
+created: 2026-04-28
 tags:
   - cannabis
   - medical-marijuana
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/uwe-blesching-the-cannabis-health-index.md
+type: concept
 ---
 
 # Cannabis Health Index Scoring System and Evidence-Based Methodology

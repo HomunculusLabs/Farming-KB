@@ -1,5 +1,6 @@
 ---
 title: Lobeline
+created: 2026-04-28
 type: chemical
 tags: [piperidine-alkaloid, lobeliaceae, nicotinic-receptor, respiratory-stimulant, ethnobotany]
 date: 2026-04-28

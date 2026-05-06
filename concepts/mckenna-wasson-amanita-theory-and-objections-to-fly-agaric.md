@@ -1,9 +1,11 @@
 ---
 title: Wasson's Amanita Theory and Objections to Fly Agaric as Soma
+created: 2026-04-28
 tags: [ethnobotany, soma, amanita, wasson, mckenna, vedic, fly-agaric, psychedelics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Wasson's Amanita Theory and Objections to Fly Agaric as Soma

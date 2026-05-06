@@ -1,9 +1,11 @@
 ---
 title: "How to Make Korean Natural Farming Inputs"
+created: 2026-04-28
 tags: [query, knf, natural-farming, organic, fermentation, inputs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/chos-global-natural-farming.md]
+type: query
 ---
 
 # How to Make Korean Natural Farming Inputs

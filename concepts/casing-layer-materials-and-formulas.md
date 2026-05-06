@@ -1,10 +1,12 @@
 ---
 title: "Casing Layer Materials and Formulas"
+created: 2026-04-28
 tags: [mushroom-cultivation, casing-layer, substrate, peat-moss, lime]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Casing Layer Materials and Formulas

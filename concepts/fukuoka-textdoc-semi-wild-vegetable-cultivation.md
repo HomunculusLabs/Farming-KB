@@ -1,5 +1,6 @@
 ---
 title: Semi-Wild Vegetable Cultivation Methods
+created: 2026-04-28
 tags:
   - vegetables
   - semi-wild
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Semi-Wild Vegetable Cultivation Methods

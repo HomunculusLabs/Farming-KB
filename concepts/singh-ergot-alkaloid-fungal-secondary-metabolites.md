@@ -1,5 +1,6 @@
 ---
 title: Ergot Alkaloid Fungal Secondary Metabolites
+created: 2026-04-28
 tags:
   - ergot-alkaloids
   - fungal-secondary-metabolites
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Ergot Alkaloid Fungal Secondary Metabolites
@@ -144,3 +146,5 @@ quantification.
 - [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[mycoremediation-pahs]]
+
+- [[agroclavine]]

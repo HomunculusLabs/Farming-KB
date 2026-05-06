@@ -1,5 +1,6 @@
 ---
 title: "How Do I Start Farming Spirulina at Home for Nutrition?"
+created: 2026-04-28
 tags:
   - spirulina
   - microalgae
@@ -15,6 +16,7 @@ sources:
   - "Habib, M.A.B. et al. (2008). 'A review on culture, production and use of spirulina as food for humans and feeds for domestic animals and fish.' FAO Fisheries and Aquaculture Circular No. 1034."
   - "Richmond, A. (2004). Handbook of Microalgal Culture: Biotechnology and Applied Phycology. Blackwell Science."
   - "Tokuşoğlu, Ö. (2020). 'Spirulina (Arthrospira): Production and Quality Assurance.' Foods, 9(8), 1021."
+type: query
 ---
 
 # How Do I Start Farming Spirulina at Home for Nutrition?

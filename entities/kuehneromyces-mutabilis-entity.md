@@ -1,5 +1,6 @@
 ---
 title: "Kuehneromyces mutabilis"
+created: 2026-04-28
 type: species
 tags: [fungi, agaricales, edible, saprotrophic, temperate]
 date: 2026-04-28

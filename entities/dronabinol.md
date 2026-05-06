@@ -1,9 +1,11 @@
 ---
 title: "Dronabinol"
+created: 2026-04-28
 tags: [chemical, pharmaceutical, synthetic-cannabinoid, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # Dronabinol

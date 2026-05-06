@@ -1,9 +1,11 @@
 ---
 title: Fungal Biodiversity Assessment Methods
+created: 2026-04-28
 tags: [mycology, biodiversity, fungal-survey, species-identification, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md, magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # [[fungal-biodiversity]] Assessment Methods

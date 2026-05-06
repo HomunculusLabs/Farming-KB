@@ -1,11 +1,13 @@
 ---
 title: Mycorrhizal Network Communication
+created: 2026-04-28
 tags: [mycology, ecology, plant-biology, symbiosis, soil-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/symbiotic-fungi.md
   - ~/wiki/raw/papers/mycelium-running-stamets.md
+type: concept
 ---
 
 # Mycorrhizal Network Communication

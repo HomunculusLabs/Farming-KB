@@ -1,5 +1,6 @@
 ---
 title: Pesticides Create Pest Problems in the Citrus Orchard
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Pesticides Create Pest Problems in the Citrus Orchard

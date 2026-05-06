@@ -1,5 +1,6 @@
 ---
 title: "Termitomyces heimii"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -150,6 +151,8 @@ viability.
   spores and shorter pseudo-stipe.
 
 ## See Also
+
+- [[termitomyces-african-mushrooms]]
 
 - [[roger-heim]]
 - [[spore-print]]

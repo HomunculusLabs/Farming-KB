@@ -1,9 +1,11 @@
 ---
 title: Bacterial-then-Fungal Succession in Soil Systems
+created: 2026-04-28
 tags: [soil-succession, bacteria, fungi, soil-foodweb, ecological-stages]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Bacterial-then-[[fungal-succession]] in Soil Systems

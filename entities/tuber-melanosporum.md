@@ -1,5 +1,7 @@
 ---
 title: "Tuber Melanosporum"
+created: 2026-04-28
+type: entity
 ---
 
 # Tuber melanosporum Vittad.

@@ -1,10 +1,12 @@
 ---
 title: "Flavor Delusion and Spiritual Alienation from Food"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, food-philosophy, natural-diet, flavor, spiritual-alienation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Flavor Delusion and Spiritual Alienation from Food

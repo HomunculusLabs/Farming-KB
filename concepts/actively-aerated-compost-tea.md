@@ -1,5 +1,6 @@
 ---
 title: Actively Aerated Compost Tea
+created: 2026-04-28
 tags:
   - compost-tea
   - AACT
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+type: concept
 ---
 
 # Actively Aerated Compost Tea

@@ -1,5 +1,6 @@
 ---
 title: Ilex paraguariensis
+created: 2026-04-28
 type: species
 tags:
   - yerba-mate
@@ -116,6 +117,10 @@ Yerba mate is typically shade-grown under native trees, supporting biodiversity 
 Annual production exceeds 1 million tonnes, with Argentina producing ~60%, followed by Brazil (~30%) and Paraguay (~10%). The global market for yerba mate is growing, driven by interest in natural energy drinks and functional beverages. Major export brands include Rosamonte, Taragüi, and Canarias.
 
 ## See Also
+
+- [[camellia-sinensis-entity]]
+
+- [[paullinia-cupana]]
 
 - [[ilex-guayusa]]
 

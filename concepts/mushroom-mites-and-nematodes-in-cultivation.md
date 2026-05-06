@@ -1,10 +1,12 @@
 ---
 title: "Mushroom Mites and Nematodes in Cultivation"
+created: 2026-04-28
 tags: [mushroom-cultivation, pests, nematodes, mites, integrated-pest-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Mushroom Mites and Nematodes in Cultivation

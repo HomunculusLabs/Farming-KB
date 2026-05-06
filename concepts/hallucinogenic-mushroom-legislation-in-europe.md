@@ -1,10 +1,12 @@
 ---
 title: Hallucinogenic Mushroom Legislation in Europe
+created: 2026-04-28
 tags: [legislation, europe, drug-policy, psilocybin, scheduling, EU]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Hallucinogenic Mushroom Legislation in Europe

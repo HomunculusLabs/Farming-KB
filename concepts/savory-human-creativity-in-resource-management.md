@@ -1,9 +1,11 @@
 ---
 title: "Human Creativity in Resource Management"
+created: 2026-04-28
 tags: [creativity, decision-making, management, holistic-management, extension]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Human Creativity in Resource Management

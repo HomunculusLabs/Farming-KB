@@ -1,5 +1,6 @@
 ---
 title: Catalyzing Consciousness and Language Formation
+created: 2026-04-28
 tags:
   - consciousness
   - evolution
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Catalyzing Consciousness and Language Formation

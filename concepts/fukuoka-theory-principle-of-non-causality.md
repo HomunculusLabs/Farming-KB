@@ -1,5 +1,6 @@
 ---
 title: "Fukuoka's Principle of Non-Causality in Agriculture"
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Fukuoka's Principle of Non-Causality in Agriculture

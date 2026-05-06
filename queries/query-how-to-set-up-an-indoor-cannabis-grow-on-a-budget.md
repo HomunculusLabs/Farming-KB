@@ -1,10 +1,12 @@
 ---
 title: "How to Set Up an Indoor Cannabis Grow on a Budget"
+created: 2026-04-28
 tags: [query, cannabis, indoor-growing, budget, grow-room]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Set Up an Indoor Cannabis Grow on a Budget

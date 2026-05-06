@@ -1,5 +1,6 @@
 ---
 title: Neurospora crassa
+created: 2026-04-28
 type: species
 tags: [model-organism, ascomycete, genetics, filamentous-fungi]
 date: 2026-04-28

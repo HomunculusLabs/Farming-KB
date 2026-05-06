@@ -1,5 +1,6 @@
 ---
 title: Bufotenine
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, toxic, natural-product, bufotoxin]
 date: 2026-04-28

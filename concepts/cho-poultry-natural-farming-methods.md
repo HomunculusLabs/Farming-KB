@@ -1,10 +1,12 @@
 ---
 title: "Cho's Poultry Natural Farming Methods"
+created: 2026-04-28
 tags: [korean-natural-farming, poultry, livestock, chicken, cho-global]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/chos-global-natural-farming.md"
+type: concept
 ---
 
 # Cho's Poultry Natural Farming Methods

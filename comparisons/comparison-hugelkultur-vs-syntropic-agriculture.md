@@ -1,5 +1,6 @@
 ---
 title: "Hugelkultur vs Syntropic Agriculture"
+created: 2026-04-28
 tags: regenerative-agriculture, hugelkultur, syntropic-agriculture, soil-building, permaculture, food-forests, agroforestry, comparison
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - Jacke, Dave, and Eric Toensmeier. *Edible Forest Gardens*. Chelsea Green Publishing, 2005.
   - Shepard, Mark. *Restoration Agriculture*. Acres U.S.A., 2013.
   - Whitefield, Patrick. *The Earth Care Manual*. Permanent Publications, 2004.
+type: comparison
 ---
 
 # Hugelkultur vs Syntropic Agriculture

@@ -1,5 +1,6 @@
 ---
 title: "What Role Do Fungi Play in Soil Aggregation and Erosion Prevention?"
+created: 2026-04-28
 tags:
   - soil-science
   - mycology
@@ -19,6 +20,7 @@ sources:
   - Leifheit EF, Veresoglou SD, Lehmann A, Morris EK, Rillig MC. "Is there a relationship between root exudates, mycorrhizal fungal colonization and soil aggregation?" Soil Biology and Biochemistry. 2014.
   - Rillig MC, Aguilar-Trigueros CA, Bergmann J, Verbruggen E, Veresoglou SD. "Plant root and mycorrhizal fungal traits for understanding soil aggregation." New Phytologist. 2015.
   - Wilson GW, Rice CW, Rillig MC, Springer A, Hartnett DC. "Soil aggregation and carbon sequestration are tightly correlated with the abundance of arbuscular mycorrhizal fungi." Soil Science Society of America Journal. 2009.
+type: query
 ---
 
 # What Role Do Fungi Play in Soil Aggregation and Erosion Prevention?

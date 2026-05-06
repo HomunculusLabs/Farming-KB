@@ -1,11 +1,13 @@
 ---
 title: Cordyceps: Insect Pathogens and Behavioral Manipulation
+created: 2026-04-28
 tags: [cordyceps, entomopathogenic-fungi, insect-pathogen, behavioral-control,
       summit-disease, ascomycete, zombie-fungus, biological-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Cordyceps is a genus of entomopathogenic fungi that parasitize insects

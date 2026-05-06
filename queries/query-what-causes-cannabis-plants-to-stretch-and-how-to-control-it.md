@@ -1,9 +1,11 @@
 ---
 title: "What Causes Cannabis Plants to Stretch and How to Control It?"
+created: 2026-04-28
 tags: [query, stretching, light, training, growth-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Causes Cannabis Plants to Stretch and How to Control It?

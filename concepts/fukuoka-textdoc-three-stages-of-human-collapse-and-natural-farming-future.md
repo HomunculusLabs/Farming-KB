@@ -1,5 +1,6 @@
 ---
 title: Three Stages of Human Collapse and the Natural Farming Future
+created: 2026-04-28
 tags:
   - fukuoka
   - civilization-collapse
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Three Stages of Human Collapse and the Natural Farming Future

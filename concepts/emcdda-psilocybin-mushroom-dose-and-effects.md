@@ -1,9 +1,11 @@
 ---
 title: "Psilocybin Mushroom Dose and Effects"
+created: 2026-04-28
 tags: [mycology, psilocybin, hallucinogenic, mushroom-effects, dose-response, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/carolina-mushrooms_08qxp.md]
+type: concept
 ---
 
 The hallucinogenic effects of psilocybin-containing mushrooms have been

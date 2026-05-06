@@ -1,9 +1,11 @@
 ---
 title: "How Do I Grow Figs in Cold Climates?"
+created: 2026-04-28
 tags: [query, figs, cold-climate, fruit-trees, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Grow Figs in Cold Climates?

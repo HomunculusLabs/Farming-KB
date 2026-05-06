@@ -1,10 +1,12 @@
 ---
 title: "Organometallic Compound Dealkylation by Fungi"
+created: 2026-04-28
 tags: [organometallic, dealkylation, bioremediation, organotin,
       organomercury, alkyllead, fungal-detoxification, heavy-metals]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Organometallic Compound Dealkylation by Fungi

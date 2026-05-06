@@ -1,9 +1,11 @@
 ---
 title: "Sinsemilla and Pollination Management"
+created: 2026-04-28
 tags: [cannabis, sinsemilla, pollination, breeding, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Sinsemilla, meaning without seeds in Spanish, refers to non pollinated

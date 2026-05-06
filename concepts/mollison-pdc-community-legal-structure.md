@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Community Legal Structures"
+created: 2026-04-28
 tags: [permaculture, community, legal, trust, governance]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["bill-mollison-permaculture-design-course.md"]
+type: concept
 ---
 
 # Permaculture Community Legal Structures

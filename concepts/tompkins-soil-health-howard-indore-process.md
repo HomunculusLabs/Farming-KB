@@ -1,9 +1,11 @@
 ---
 title: "Sir Albert Howard and the Indore Process of Soil Fertility"
+created: 2026-04-28
 tags: [albert-howard, indore-process, organic-agriculture, soil-fertility, compost, humus, sustainable-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Sir Albert Howard and the Indore Process of Soil Fertility

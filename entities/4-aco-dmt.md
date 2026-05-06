@@ -1,5 +1,6 @@
 ---
 title: 4-AcO-DMT
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, synthetic, serotonergic, prodrug, research-chemical, psilocin-analog]
 date: 2026-04-28

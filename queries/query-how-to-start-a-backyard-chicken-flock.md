@@ -1,9 +1,11 @@
 ---
 title: "How to Start a Backyard Chicken Flock"
+created: 2026-04-28
 tags: [query, permaculture, homesteading, poultry, livestock]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Start a Backyard Chicken Flock

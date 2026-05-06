@@ -1,5 +1,6 @@
 ---
 title: "What Is Breadfruit and How Can I Grow It in a Tropical Food Forest?"
+created: 2026-04-28
 tags: breadfruit, tropical-food-forest, growing-guide, query
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://agroforestry.org/trees-on-the-farm/
   - https://www.permaculturenews.org/2017/06/20/growing-breadfruit/
   - https://www.fao.org/3/x5632e/x5632e05.htm
+type: query
 ---
 
 # What Is Breadfruit and How Can I Grow It in a Tropical Food Forest?

@@ -1,10 +1,12 @@
 ---
 title: "What Are the Stages of Cannabis Growth?"
+created: 2026-04-28
 tags: [query, cannabis, growth-stages, plant-biology, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
+type: query
 ---
 
 # What Are the Stages of Cannabis Growth?

@@ -1,5 +1,6 @@
 ---
 title: Pluteus villosus
+created: 2026-04-28
 type: species
 tags: [fungi, pluteus, wood-inhabiting, psychoactive, temperate]
 date: 2026-04-28

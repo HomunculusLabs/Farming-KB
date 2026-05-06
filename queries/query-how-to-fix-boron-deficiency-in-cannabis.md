@@ -1,9 +1,11 @@
 ---
 title: "How to Fix Boron Deficiency in Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, boron]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Fix Boron Deficiency in Cannabis

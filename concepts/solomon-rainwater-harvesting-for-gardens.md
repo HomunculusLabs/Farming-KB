@@ -1,10 +1,12 @@
 ---
 title: "Rainwater Harvesting for Gardens"
+created: 2026-04-28
 tags: [rainwater, water-collection, irrigation, water-storage, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Rainwater Harvesting for Gardens

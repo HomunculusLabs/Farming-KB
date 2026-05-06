@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Safety Profile and Adverse Effects"
+created: 2026-04-28
 tags: [cannabis, safety, adverse-effects, toxicity, drug-interactions]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Safety Profile and Adverse Effects

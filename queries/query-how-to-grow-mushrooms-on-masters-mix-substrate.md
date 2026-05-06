@@ -1,5 +1,6 @@
 ---
 title: "How to Grow Mushrooms on Master's Mix Substrate"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, substrate, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
@@ -7,6 +8,7 @@ sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
+type: query
 ---
 
 # How to Grow Mushrooms on Master's Mix Substrate

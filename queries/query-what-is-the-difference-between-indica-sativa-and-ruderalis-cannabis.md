@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Indica, Sativa, and Ruderalis Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, taxonomy, strain-selection]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Indica, Sativa, and Ruderalis Cannabis?

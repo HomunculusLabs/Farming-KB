@@ -1,5 +1,6 @@
 ---
 title: Living Fences vs Conventional Fencing
+created: 2026-04-28
 tags:
   - fencing
   - permaculture
@@ -17,6 +18,7 @@ sources:
   - USDA Natural Resources Conservation Service: Hedgerow and Windbreak Technical Notes
   - Permaculture: A Designers' Manual, Bill Mollison
   - The Farming Handbook, Peter Nuthall
+type: comparison
 ---
 
 # Living Fences vs Conventional Fencing

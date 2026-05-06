@@ -1,5 +1,6 @@
 ---
 title: Sparse Seeding for Natural High-Yield Rice Cultivation
+created: 2026-04-28
 tags:
   - fukuoka
   - rice-cultivation
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 5608-5747, 5541-5607)
+type: concept
 ---
 
 # Sparse Seeding for Natural High-Yield Rice Cultivation

@@ -1,5 +1,6 @@
 ---
 title: Medical Marijuana - Pharmacology and Qualifying Conditions
+created: 2026-04-28
 tags:
   - medical-cannabis
   - cannabinoid-pharmacology
@@ -15,6 +16,7 @@ synonyms:
   - therapeutic cannabis
   - physician recommendation
   - Marinol dronabinol
+type: concept
 ---
 
 # Medical Marijuana - Pharmacology and Qualifying Conditions

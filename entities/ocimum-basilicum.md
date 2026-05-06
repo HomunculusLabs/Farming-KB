@@ -1,5 +1,6 @@
 ---
 title: "Ocimum basilicum"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, lamiaceae, culinary-herb, medicinal-plant, companion-plant]
 date: 2026-04-28

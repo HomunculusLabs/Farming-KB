@@ -1,9 +1,11 @@
 ---
 title: "How Do I Start A Small Permaculture Nursery?"
+created: 2026-04-28
 tags: [query, nursery, propagation, permaculture, seedlings]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How Do I Start A Small Permaculture Nursery?

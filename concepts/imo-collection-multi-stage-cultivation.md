@@ -1,9 +1,11 @@
 ---
 title: IMO Collection and Multi-Stage Cultivation
+created: 2026-04-28
 tags: [knf, indigenous-microorganisms, natural-farming, soil-biology, master-cho]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [master-cho-knf-recipe-book.md]
+type: concept
 ---
 
 # IMO Collection and Multi-Stage Cultivation

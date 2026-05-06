@@ -1,9 +1,11 @@
 ---
 title: "JADAM Fertilizer Program"
+created: 2026-04-28
 tags: [fertilizer-program, nutrient-management, gc-jlf, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # ultra low jadam fertilizer program

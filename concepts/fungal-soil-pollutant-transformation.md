@@ -1,9 +1,11 @@
 ---
 title: Fungal Soil Pollutant Transformation
+created: 2026-04-28
 tags: [bioremediation, soil-remediation, fungi, organic-pollutants, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Soil Pollutant Transformation

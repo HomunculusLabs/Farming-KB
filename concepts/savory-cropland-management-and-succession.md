@@ -1,10 +1,12 @@
 ---
 title: Cropland Management and Succession
+created: 2026-04-28
 tags: [cropping, agriculture, succession, soil-health, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Cropland Management and Succession

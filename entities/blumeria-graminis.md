@@ -1,5 +1,6 @@
 ---
 title: Blumeria graminis
+created: 2026-04-28
 type: species
 tags: [plant-pathogen, ascomycete, powdery-mildew, obligate-biotroph, gene-expression]
 date: 2026-04-28

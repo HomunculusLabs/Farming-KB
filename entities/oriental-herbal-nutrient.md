@@ -1,5 +1,6 @@
 ---
 title: Oriental Herbal Nutrient
+created: 2026-04-28
 type: chemical
 tags: [knf, ohn, herbal-extract, fernatural-farmingitional-medicine]
 date: 2026-04-28

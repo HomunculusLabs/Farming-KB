@@ -1,5 +1,6 @@
 ---
 title: Cylindrocarpon destructans
+created: 2026-04-28
 type: species
 tags: [ascomycota, plant-pathogen, root-rot, biocontrol, soil-fungus]
 date: 2026-04-28

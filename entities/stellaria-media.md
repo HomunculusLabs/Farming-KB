@@ -1,5 +1,6 @@
 ---
 title: Stellaria media (Chickweed)
+created: 2026-04-28
 type: species
 tags:
   - caryophyllaceae

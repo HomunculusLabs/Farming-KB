@@ -1,5 +1,6 @@
 ---
 title: Lepiota rachodes
+created: 2026-04-28
 type: species
 tags: [mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Papaver somniferum"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -162,6 +163,8 @@ Poppy seeds are widely consumed globally:
 - **Pregnancy**: Neonatal abstinence syndrome (NAS) occurs with maternal opioid use; morphine crosses the placenta and blood-brain barrier
 
 ## See Also
+
+- [[medicinal-mushrooms]]
 
 - [[mckenna-opium-wars-and-drug-diplomacy]]
 

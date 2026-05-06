@@ -1,5 +1,6 @@
 ---
 title: "Cytochrome P450 Enzymes and Xenobiotic Metabolism"
+created: 2026-04-28
 aliases:
   - CYP enzymes
   - cytochrome P450 system
@@ -22,6 +23,7 @@ related:
   - fenton-reaction-chemistry-and-biochemistry
   - reactive-oxygen-species
   - protein-folding-and-misfolding-diseases-biochemistry
+type: concept
 ---
 
 ## Overview

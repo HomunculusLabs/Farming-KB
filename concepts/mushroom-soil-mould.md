@@ -1,10 +1,12 @@
 ---
 title: Mushroom Soil and Mould
+created: 2026-04-28
 tags: [mushrooms, soil-science, loam, victorian-gardening, horticulture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+type: concept
 ---
 
 # Mushroom Soil and Mould

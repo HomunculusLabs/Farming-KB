@@ -1,9 +1,11 @@
 ---
 title: Panaeolus Mushroom Intoxication History
+created: 2026-04-28
 tags: [ethnomycology, panaeolus, history, accidental-intoxication, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
+type: concept
 ---
 
 # Panaeolus Mushroom Intoxication History

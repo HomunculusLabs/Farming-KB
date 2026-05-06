@@ -1,10 +1,12 @@
 ---
 title: "CBD (Cannabidiol)"
+created: 2026-04-28
 tags: [cannabis, cbd, cannabinoids, non-psychoactive, anti-inflammatory,
        neuroprotection]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # CBD (Cannabidiol)

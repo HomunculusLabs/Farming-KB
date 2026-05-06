@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Nitrogen-Fixing Trees for Permaculture Food Forests?"
+created: 2026-04-28
 tags: [query, nitrogen-fixing-trees, food-forests, permaculture, agroforestry, legume-trees, guild-design, soil-fertility]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - "Martin, G. & Shrestha, R. (2007). Strategies for the rehabilitation of degraded pasture in the humid tropics. Tropical Grasslands, 41(3), 180-190."
   - "PFAF — Plants for a Future Database. https://pfaf.org"
   - "USDA NRCS PLANTS Database. https://plants.usda.gov"
+type: query
 ---
 
 # What Are the Best Nitrogen-Fixing Trees for Permaculture Food Forests?

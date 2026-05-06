@@ -1,5 +1,6 @@
 ---
 title: Phalaris aquatica
+created: 2026-04-28
 type: species
 tags: [grasses, poaceae, dmt-containing, tryptamine, permaculture, forage, pasture, soil-stabilization, entheogenic-plants, alkaloid-accumulation]
 date: 2026-04-28

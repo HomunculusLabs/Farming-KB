@@ -1,10 +1,12 @@
 ---
 title: Data Overlay and Map Design
+created: 2026-04-28
 tags: [permaculture, design-method, mapping, site-analysis, overlays]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Data Overlay and Map Design

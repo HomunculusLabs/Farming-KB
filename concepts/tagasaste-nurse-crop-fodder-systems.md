@@ -1,9 +1,11 @@
 ---
 title: "Tagasaste as Nurse Crop and Fodder System"
+created: 2026-04-28
 tags: [permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
+type: concept
 ---
 
 [[tagasaste]] (Chamaecytisus palmensis), also known as tree lucerne, is

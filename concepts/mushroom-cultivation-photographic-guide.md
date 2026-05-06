@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Cultivation Photographic Guide"
+created: 2026-04-28
 tags:
   - cultivation
   - psilocybin
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md
+type: concept
 ---
 
 # Mushroom Cultivation Photographic Guide

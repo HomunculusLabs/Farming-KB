@@ -1,9 +1,11 @@
 ---
 title: "Cannabis for Libido Enhancement"
+created: 2026-04-28
 tags: [cannabis, libido, sexual-health, aphrodisiac, intimacy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis for Libido Enhancement

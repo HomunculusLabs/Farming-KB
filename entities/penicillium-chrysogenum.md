@@ -1,5 +1,6 @@
 ---
 title: "Penicillium chrysogenum"
+created: 2026-04-28
 type: species
 tags: [ascomycete, antibiotic-producer, industrial-fungus, eurotiales]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Tetrahydrocannabinol (THC)"
+created: 2026-04-28
 tags: [chemical, cannabinoid, phytocannabinoid, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # Tetrahydrocannabinol (THC)

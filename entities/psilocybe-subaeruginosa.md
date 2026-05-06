@@ -1,5 +1,6 @@
 ---
 title: Psilocybe subaeruginosa
+created: 2026-04-28
 type: species
 tags: [psilocybin, basidiomycota, temperate, australasia, woodloving]
 date: 2026-04-28
@@ -75,6 +76,8 @@ Detailed microscopic examination reveals additional diagnostic characters. Spore
 - **Psilocybe weraroa**: Secotioid species from New Zealand with enclosed cap. Not a close lookalike but phylogenetically related.
 - **Hypholoma species**: Non-psychoactive wood-inhabiting species with similar cap coloration but lacking blue bruising and having different spore color.
 
-## Related Species
+## Related
+
+- [[weraroa-novae-zelandiae]] Species
 
 The *P. subaeruginosa* complex is closely related to the Northern Hemisphere species [[psilocybe-cyanescens]], [[psilocybe-azurescens]], [[psilocybe-allenii]], and *Psilocybe weraroa*. Molecular phylogenetic studies suggest that these species share a relatively recent common ancestor and that long-distance dispersal events, possibly via woodchip trade, have contributed to their current distributions. See also [[psilocybe-cubensis]] for comparison with tropical coprophilous species, and [[psilocybe-collybioides]] and [[psilocybe-tasmaniana]] for other Australian psychoactive taxa found in overlapping habitats.

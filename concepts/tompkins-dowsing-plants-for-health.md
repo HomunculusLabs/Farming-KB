@@ -1,9 +1,11 @@
 ---
 title: "Dowsing Plants for Health and Vitality"
+created: 2026-04-28
 tags: [dowsing, radiesthesia, plant-vitality, biometry, food-quality, etheric-forces, ethnobotany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Dowsing Plants for Health and Vitality

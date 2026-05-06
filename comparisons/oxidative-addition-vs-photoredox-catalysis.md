@@ -1,5 +1,6 @@
 ---
 title: Oxidative Addition vs Photoredox Catalysis
+created: 2026-04-28
 subtitle: Comparing a two-electron organometallic elementary step with a light-driven single-electron catalytic strategy
 tags: [comparison, organometallic-chemistry, photoredox, catalysis, radical-chemistry, synthesis]
 date: 2026-05-02
@@ -12,6 +13,7 @@ related_concepts:
   - photoredox-catalysis
   - radical-chemistry
   - transition-metal-catalysis
+type: comparison
 ---
 # Oxidative Addition vs Photoredox Catalysis
 Oxidative addition and photoredox catalysis are both central ideas in modern synthetic chemistry.

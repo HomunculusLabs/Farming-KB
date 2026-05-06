@@ -1,9 +1,11 @@
 ---
 title: "MBDB (PIHKAL)"
+created: 2026-04-28
 tags: [phenethylamine, empathogen, pihkal, amphetamine, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md"]
+type: concept
 ---
 
 # MBDB

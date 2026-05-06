@@ -1,5 +1,6 @@
 ---
 title: How Do I Choose Between Cassava, Taro, Sweet Potato, and Yam for My Tropical Garden?
+created: 2026-04-28
 tags: [query, tropical, root-crops, cassava, taro, sweet-potato, yam, staple-crops, permaculture, food-security, garden-planning]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - https://www.fao.org/potato-2018/en/world.html
   - https://www.cgiar.org/research-program-on-roots-tubers-and-bananas/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267784/
+type: query
 ---
 
 # How Do I Choose Between Cassava, Taro, Sweet Potato, and Yam for My Tropical Garden?

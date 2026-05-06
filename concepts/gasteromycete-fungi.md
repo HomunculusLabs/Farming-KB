@@ -1,5 +1,6 @@
 ---
 title: Gasteromycete Fungi
+created: 2026-04-28
 tags:
   - mycology
   - basidiomycota
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds,
     and Mycologists by Nicholas P. Money (2002), Chapter 1"
+type: concept
 ---
 
 # Gasteromycete Fungi

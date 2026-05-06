@@ -1,5 +1,6 @@
 ---
 title: Plant Teachers in Amazonian Shamanism
+created: 2026-04-28
 tags:
   - amazonian-shamanism
   - plant-teachers
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md
+type: concept
 ---
 
 # Plant Teachers (Doctores) in Amazonian Shamanism

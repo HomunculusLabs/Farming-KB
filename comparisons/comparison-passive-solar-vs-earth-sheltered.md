@@ -1,10 +1,12 @@
 ---
 title: Passive Solar Design vs Earth-Sheltered Structures
+created: 2026-04-28
 tags: [natural-building, energy-efficiency, permaculture, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: comparison
 ---
 
 # Passive Solar Design vs Earth-Sheltered Structures

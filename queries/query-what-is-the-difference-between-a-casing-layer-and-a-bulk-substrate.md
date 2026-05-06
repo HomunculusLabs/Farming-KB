@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between a Casing Layer and a Bulk Substrate?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, casing-layer, bulk-substrate, substrates, fruiting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # What Is the Difference Between a Casing Layer and a Bulk Substrate?
 ## Short Answer

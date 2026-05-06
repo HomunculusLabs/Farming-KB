@@ -1,7 +1,9 @@
 ---
 title: "Agroecology"
+created: 2026-04-28
 aliases: [agroecological farming, ecological agriculture, agroecosystem design]
 tags: [agriculture, ecology, sustainability, farming-systems, food-sovereignty, biodiversity, soil-health]
+type: concept
 ---
 
 Agroecology is the integrative study and practice of applying ecological concepts and principles to the design and management of sustainable food systems. Encompassing scientific research, farming practices, and a social movement, agroecology addresses the full food system from soil biology to market structures. It is simultaneously a **science** (the ecology of agroecosystems), a set of **practices** (ecological farming methods), and a **movement** (advocating for food sovereignty and social justice in food systems).

@@ -1,5 +1,6 @@
 ---
 title: Phytochrome Red and Far-Red Light Switch in Photoperiodism
+created: 2026-04-28
 tags:
   - phytochrome
   - photoperiodism
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Phytochrome Red and Far-Red Light Switch in Photoperiodism

@@ -1,5 +1,6 @@
 ---
 title: "Panaeolus campanulatus"
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, coprophilous, entheogen, panaeolus, agaricales]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "KNF Potassium Deficiency and Excess"
+created: 2026-04-28
 tags: [knf, natural-farming, potassium, deficiency, plant-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF Potassium Deficiency and Excess

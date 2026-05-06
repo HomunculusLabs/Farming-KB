@@ -1,9 +1,11 @@
 ---
 title: "What Is Biodynamic Agriculture and How Does It Differ from Organic Farming?"
+created: 2026-04-28
 tags: [query, biodynamic, organic, farming, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: query
 ---
 
 # What Is Biodynamic Agriculture and How Does It Differ from Organic Farming?

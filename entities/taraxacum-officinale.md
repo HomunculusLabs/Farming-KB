@@ -1,5 +1,6 @@
 ---
 title: Taraxacum officinale
+created: 2026-04-28
 type: species
 tags: [herbalism, permaculture, edible-weed, medicinal-plants,
   dynamic-accumulator, Asteraceae, companion-plant]

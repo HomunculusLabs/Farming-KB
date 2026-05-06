@@ -1,5 +1,6 @@
 ---
 title: Ginkgo biloba
+created: 2026-04-28
 type: species
 tags: [medicinal-plant, nootropic, ginkgoaceae, flavonoid, terpene-lactone, anti-inflammatory, neuroprotective, living-fossil, herbal]
 date: 2026-04-28

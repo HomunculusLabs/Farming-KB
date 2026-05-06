@@ -1,6 +1,8 @@
 ---
 title: 15-Bag Water Hash Extraction System
+type: concept
 created: 2026-04-25
+type: concept
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md

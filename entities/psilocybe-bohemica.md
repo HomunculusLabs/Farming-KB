@@ -84,6 +84,8 @@ Controlled clinical trials in Prague documented the species' psychoactive effect
 
 ## See Also
 
+- [[verpa-bohemica]]
+
 - [[european-psilocybin-species]] — Other European psychoactive mushroom species
 - [[psilocybin-bluing-reaction]] — Detailed biochemistry of the bluing phenomenon
 - [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species

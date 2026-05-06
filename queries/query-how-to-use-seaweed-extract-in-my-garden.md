@@ -1,5 +1,6 @@
 ---
 title: "How to Use Seaweed Extract in My Garden"
+created: 2026-04-28
 tags: [query, seaweed, kelp, biostimulant, foliar-feeding, organic-fertilizer, soil-amendment]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - https://www.fao.org/3/x5738e/x5738e07.htm
   - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
+type: query
 ---
 
 # How to Use Seaweed Extract in My Garden

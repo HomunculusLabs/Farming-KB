@@ -1,5 +1,6 @@
 ---
 title: "Inocybe calamistrata"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, agaricales, inocybaceae, inocybe,
   psychoactive, psilocybin-containing, mycorrhizal]

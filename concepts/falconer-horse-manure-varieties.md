@@ -1,5 +1,6 @@
 ---
 title: Falconer Horse Manure Varieties for Mushrooms
+created: 2026-04-28
 tags:
   [mushroom-cultivation, manure-management, horse-manure, victorian-gardening, substrate]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Horse Manure Varieties for Mushroom Beds

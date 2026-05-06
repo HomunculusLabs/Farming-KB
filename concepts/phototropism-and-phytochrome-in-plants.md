@@ -1,10 +1,12 @@
 ---
 title: Phototropism and Phytochrome in Plants
+created: 2026-04-28
 tags: [botany, photobiology, plant-senses, phytochrome, phototropism, darwin, circadian, plant-perception]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Phototropism and Phytochrome in Plants
@@ -123,6 +125,12 @@ Commercial applications of phytochrome manipulation include:
 - Lighting design for indoor plant growth, where far-red supplementation can modify plant architecture
 
 ## See Also
+
+- [[phototropism-and-phytochrome]]
+
+- [[phytochrome-and-plant-light-perception]]
+- [[plant-vision-and-phototropism]]
+- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
 
 - [[Plant Sensory Systems]]
 - [[Photoperiodism]]

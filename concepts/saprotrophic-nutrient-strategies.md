@@ -1,9 +1,11 @@
 ---
 title: saprotrophic nutrient strategies
+created: 2026-04-28
 tags: [mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
+type: concept
 ---
 
 # Saprotrophic Nutrient saprotrophic fungirophic fungi obtain nutrients by decomposing dead organic matter,

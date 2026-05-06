@@ -1,9 +1,11 @@
 ---
 title: McKenna Inquisition Suppression of Plant Knowledge
+created: 2026-04-28
 tags: [history, inquisition, witchcraft, ethnobotany, suppression]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/mckenna_t-food_of_the_gods.md"]
+type: concept
 ---
 
 # McKenna Inquisition Suppression of Plant Knowledge

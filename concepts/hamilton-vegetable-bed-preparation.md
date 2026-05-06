@@ -1,5 +1,6 @@
 ---
 title: Vegetable Bed Preparation Techniques
+created: 2026-04-28
 tags:
   - organic-gardening
   - soil-preparation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Vegetable Bed Preparation Techniques

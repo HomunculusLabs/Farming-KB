@@ -1,11 +1,13 @@
 ---
 title: "Water Courses in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, water-courses, streams, ponds, erosion,
        meandering, gabions, micro-hydro, edge-effect]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Water Courses in Permaculture Design

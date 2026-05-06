@@ -1,5 +1,6 @@
 ---
 title: "Ruta graveolens"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plants
@@ -139,6 +140,8 @@ largely anecdotal. Rue should not be planted near culinary herbs, as its
 strong volatile oils can taint nearby plants.
 
 ## See Also
+
+- [[anethum-graveolens]]
 
 - [[artemisia-absinthium]]
 - [[tanacetum-parthenium]]

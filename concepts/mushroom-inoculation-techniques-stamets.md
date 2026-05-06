@@ -1,9 +1,11 @@
 ---
 title: stump-inoculation-techniques for oyster-mushroom-cultivation-economics
+created: 2026-04-28
 tags: [mycology, inoculation, sterile-technique, agar-transfer, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Inoculation Techniques for Mushroom Cultivation

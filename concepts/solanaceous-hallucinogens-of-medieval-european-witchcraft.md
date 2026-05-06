@@ -1,9 +1,11 @@
 ---
 title: Solanaceous Hallucinogens of Medieval European Witchcraft
+created: 2026-04-28
 tags: [ethnobotany, solanaceae, tropane-alkaloids, european-history, witchcraft]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
+type: concept
 ---
 
 # Solanaceous Hallucinogens of Medieval European Witchcraft

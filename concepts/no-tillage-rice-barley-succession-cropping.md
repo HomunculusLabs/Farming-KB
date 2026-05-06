@@ -1,5 +1,6 @@
 ---
 title: No Tillage Rice Barley Succession Cropping
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -14,6 +15,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: "The Natural Way of Farming"
+type: concept
 ---
 Masanobu Fukuoka's direct-seeded, no-tillage rice/barley succession
 cropping system is one of the most remarkable achievements in

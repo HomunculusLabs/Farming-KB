@@ -1,9 +1,11 @@
 ---
 title: "Gartz Conocybe cyanopus: Rare Tiny Mushrooms of Remarkable Potency"
+created: 2026-04-28
 tags: [conocybe-cyanopus, gartz, psilocybin, baeocystin, rare-mushroom, sclerotia, bolbitiaceae, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # Gartz: Conocybe cyanopus: Rare Tiny Mushrooms of Remarkable Potency

@@ -1,5 +1,6 @@
 ---
 title: Hallucinogenic Mushroom Legal Status in Europe
+created: 2026-04-28
 tags:
   - drug policy
   - legislation
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Hallucinogenic Mushroom Legal Status in Europe

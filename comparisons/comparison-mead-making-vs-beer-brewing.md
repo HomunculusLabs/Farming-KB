@@ -1,9 +1,11 @@
 ---
 title: Mead Making vs Beer Brewing
+created: 2026-04-28
 tags: [fermentation, brewing, homesteading, beverages, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Mead Making vs Beer Brewing

@@ -1,9 +1,11 @@
 ---
 title: Environmental DNA Fungal Discovery
+created: 2026-04-28
 tags: [mycology, metagenomics, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Environmental DNA Fungal Discovery

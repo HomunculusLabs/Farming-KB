@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between LST and HST for Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, training, plant-care, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between LST and HST for Cannabis

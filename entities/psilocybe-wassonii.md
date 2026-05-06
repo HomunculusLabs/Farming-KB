@@ -1,5 +1,6 @@
 ---
 title: Psilocybe wassonii
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, mexico, indigenous-use]
 date: 2026-04-28

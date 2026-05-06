@@ -1,10 +1,12 @@
 ---
 title: Preparation of Cannabis Oil Capsules
+created: 2026-04-28
 tags: [cannabis, capsules, oral-ingestion, edibles, dosing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md
+type: concept
 ---
 
 # Preparation of Cannabis Oil Capsules

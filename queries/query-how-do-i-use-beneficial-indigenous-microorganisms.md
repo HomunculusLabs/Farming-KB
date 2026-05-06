@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Beneficial Indigenous Microorganisms (BIM) in Farming?"
+created: 2026-04-28
 tags: [query, microorganisms, soil-biology, natural-farming, inoculants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/beneficial-indigenous-microorganisms-bionutrients.md]
+type: query
 ---
 
 # How Do I Use Beneficial Indigenous Microorganisms (BIM) in Farming?

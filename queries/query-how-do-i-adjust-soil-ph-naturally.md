@@ -1,9 +1,11 @@
 ---
 title: "How do I adjust soil pH naturally?"
+created: 2026-04-28
 tags: [query, soil, ph, amendments]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I adjust soil pH naturally?

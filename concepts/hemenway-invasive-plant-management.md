@@ -1,10 +1,12 @@
 ---
 title: "Invasive Plant Management Strategies"
+created: 2026-04-28
 tags: [permaculture, invasive-species, ecological-restoration, native-plants, succession]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Invasive Plant Management Strategies
@@ -119,3 +121,7 @@ suggests:
 6. **Be patient**: nature is assembling available plants to heal
    damaged land, and a mature ecosystem is the ultimate defense against
    invasion
+
+## See Also
+
+- [[lantana-camara]]

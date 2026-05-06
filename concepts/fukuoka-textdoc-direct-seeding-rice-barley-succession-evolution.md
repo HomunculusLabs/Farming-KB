@@ -1,10 +1,12 @@
 ---
 title: Evolution of Direct Seeding Rice Barley Succession Method
+created: 2026-04-28
 tags: [fukuoka, natural-farming, rice, barley, direct-seeding, no-tillage, crop-rotation, succession-cropping]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Evolution of Direct Seeding Rice Barley Succession Method

@@ -1,9 +1,11 @@
 ---
 title: "Biomass Compost Greenhouse Heating Systems"
+created: 2026-04-28
 tags: [biomass, compost, greenhouse, heating, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Biomass Compost Greenhouse Heating Systems

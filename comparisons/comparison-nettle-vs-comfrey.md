@@ -1,9 +1,11 @@
 ---
 title: "Nettle vs Comfrey"
+created: 2026-04-28
 tags: [comparison, dynamic-accumulators, permaculture, medicinal-herbs, mulch-crops]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Nettle vs Comfrey

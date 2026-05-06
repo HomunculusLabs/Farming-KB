@@ -1,5 +1,6 @@
 ---
 title: Psilocybe subbrunneascens
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-mexicanae, sclerotia-forming]
 date: 2026-04-28

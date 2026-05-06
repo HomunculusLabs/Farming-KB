@@ -1,5 +1,6 @@
 ---
 title: "Fukuoka Mahayana and Hinayana Natural Farming"
+created: 2026-04-28
 tags:
   - natural-farming
   - philosophy
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Fukuoka Mahayana and Hinayana Natural Farming
@@ -21,6 +23,8 @@ not merely practical distinctions but represent fundamentally different
 relationships between humans and nature, rooted in Buddhist philosophical
 frameworks applied to agriculture. This classification appears in
 [[fukuoka-natural-farming-philosophy]] and underpins the [[four-principles-of-natural-farming]].
+It stands in contrast to [[bill-mollison|Bill Mollison]]'s [[permaculture]] design system,
+which shares some practical overlap but differs in its analytical approach.
 
 ## The Three Worlds of Farming
 
@@ -126,7 +130,9 @@ This philosophical framework has direct practical consequences:
 The [[fukuoka-four-principles-natural-farming]] (no tillage,
 no fertilizer, no pesticides, no weeding) represent the practical
 expression of Mahayana philosophy. [[fukuoka-natural-vs-scientific-farming]] illustrates how these philosophical differences
-manifest in real-world outcomes.
+manifest in real-world outcomes. [[steve-solomon|Steve Solomon]]'s work
+provides a complementary soil-fertility perspective, while [[sepp-holzer|Sepp Holzer]]'s
+Krameterhof demonstrates large-scale natural farming in a temperate climate.
 
 ## Related Concepts
 
@@ -142,3 +148,13 @@ manifest in real-world outcomes.
 - [[toby-hemenway]] -- permaculture author who applied Fukuoka's ideas to suburban food forests
 - [[natural-farming]] -- natural farming methods and practice
 - [[permaculture]] -- related design philosophy for sustainable systems
+- [[permaculture-design]] -- permaculture design principles and methods
+- [[cho-natural-farming-inputs-overview]] -- Cho's Korean natural farming input system
+- [[clay-seed-balls-tsuchi-dango]] -- Fukuoka's seed ball technique for natural planting
+- [[agroecology]] -- scientific framework for farming in harmony with ecological processes
+- [[backyard-food-forest-design]] -- practical food forest design informed by natural farming principles
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] -- permaculture forest garden methods complementing Fukuoka's approach
+
+[[agroecology]]
+[[backyard-food-forest-design]]
+[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

@@ -1,10 +1,12 @@
 ---
 title: Transplanting Techniques in GROW BIOINTENSIVE
+created: 2026-04-28
 tags: [biointensive, transplanting, seedlings, plant-care, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Transplanting Techniques

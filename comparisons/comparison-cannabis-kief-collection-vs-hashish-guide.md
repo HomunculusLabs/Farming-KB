@@ -1,9 +1,11 @@
 ---
 title: "Kief Collection vs Hashish Guide"
+created: 2026-04-28
 tags: [comparison, kief, hashish, concentrates, extraction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Kief Collection vs Hashish Guide

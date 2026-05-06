@@ -1,10 +1,12 @@
 ---
 title: Ianto Evans Polyculture Design
+created: 2026-04-28
 tags: [permaculture, polyculture, vegetable-gardening, interplanting, guilds]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Ianto Evans Polyculture Design

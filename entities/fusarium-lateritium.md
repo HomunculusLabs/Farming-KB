@@ -1,5 +1,6 @@
 ---
 title: Fusarium lateritium
+created: 2026-04-28
 type: species
 tags: [fungi, soil-fungi, earthworm-interactions, saprotroph,
   ascomycetes]

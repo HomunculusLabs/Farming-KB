@@ -1,9 +1,11 @@
 ---
 title: Medicinal Properties of Cultivated Mushrooms
+created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, health, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Medicinal Properties of Cultivated Mushrooms

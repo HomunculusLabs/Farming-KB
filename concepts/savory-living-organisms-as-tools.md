@@ -1,9 +1,11 @@
 ---
 title: "Living Organisms as Tools"
+created: 2026-04-28
 tags: [biological-control, succession, holistic-management, tools, ecology]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Living Organisms as Tools

@@ -1,5 +1,6 @@
 ---
 title: How to Transition from Conventional to No-Till Farming
+created: 2026-04-28
 tags: farming, no-till, soil health, transition, cover crops, mycorrhiza, crop rotation, regenerative agriculture, weed management
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - Brown, Gabe. "Dirt to Soil: One Family's Journey into Regenerative Agriculture." Chelsea Green, 2018.
   - Conservation Technology Information Center (CTIC). "National Crop Residue Management Survey." 2024.
   - Reichardt, Keith. "The No-Till Farmer's Handbook." No-Till Farmer Press, 2021.
+type: query
 ---
 
 # How to Transition from Conventional to No-Till Farming

@@ -1,9 +1,11 @@
 ---
 title: Delayed Release Nutrient Supplements for Mushrooms
+created: 2026-04-28
 tags: [mycology, supplementation, yield, compost, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Delayed Release Nutrient Supplements for Mushrooms

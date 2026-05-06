@@ -1,10 +1,12 @@
 ---
 title: Weed Utility and Grass Soil Enrichment in Natural Farming
+created: 2026-04-28
 tags: [fukuoka, natural-farming, weeds, soil-health, no-weeding, green-manure, erosion-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Weed Utility and Grass Soil Enrichment in Natural Farming

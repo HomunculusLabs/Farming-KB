@@ -1,10 +1,12 @@
 ---
 title: "Choosing Garden Tools"
+created: 2026-04-28
 tags: [tools, equipment, gardening-basics, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Choosing [[garden-tools-selection]]

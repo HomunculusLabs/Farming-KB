@@ -1,10 +1,12 @@
 ---
 title: "Silvopasture Integrated Tree and Livestock Systems"
+created: 2026-04-28
 tags: [permaculture, silvopasture, agroforestry, livestock, integrated-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Silvopasture Integrated Tree and Livestock Systems

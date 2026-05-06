@@ -1,9 +1,11 @@
 ---
 title: "Sheet Mulching vs Double Digging"
+created: 2026-04-28
 tags: [comparison, garden-beds, soil-preparation, permaculture, biointensive]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Sheet Mulching vs Double Digging

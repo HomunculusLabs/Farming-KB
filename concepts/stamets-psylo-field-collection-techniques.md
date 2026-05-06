@@ -1,10 +1,12 @@
 ---
 title: Field Collection Techniques for Psilocybin Mushrooms
+created: 2026-04-28
 tags: [mycology, field-guide, foraging, preservation, psilocybin]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # Field Collection Techniques for [[psilocybin-mushroom-cultivation-basics]]s

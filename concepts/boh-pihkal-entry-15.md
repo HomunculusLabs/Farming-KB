@@ -1,10 +1,12 @@
 ---
 title: BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine) - PIHKAL Entry #15
+created: 2026-04-28
 tags: [pihkal, phenethylamine, methylenedioxy, beta-alkoxy, box-family]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine)

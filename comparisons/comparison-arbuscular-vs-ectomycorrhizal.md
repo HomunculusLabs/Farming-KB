@@ -1,9 +1,11 @@
 ---
 title: Arbuscular vs Ectomycorrhizal Fungi
+created: 2026-04-28
 tags: [mycology, soil-biology, fungal-ecology, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Arbuscular vs Ectomycorrhizal Fungi
 

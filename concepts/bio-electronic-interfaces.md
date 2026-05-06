@@ -1,9 +1,11 @@
 ---
 title: Bio-Electronic Interfaces
+created: 2026-04-28
 tags: [biology, electronics, interfaces, bio-computing, bci]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Bio-Electronic Interfaces

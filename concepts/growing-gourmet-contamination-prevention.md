@@ -1,5 +1,6 @@
 ---
 title: Contamination Prevention (Growing Gourmet & Medicinal Mushrooms)
+created: 2026-04-28
 mushroom-cultivationupdated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, contamination, sterile-technique, HEPA, laboratory, hygiene]

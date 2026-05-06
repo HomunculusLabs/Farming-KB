@@ -1,10 +1,12 @@
 ---
 title: cannabis-pollen-collection and Storage Methods
+created: 2026-04-28
 tags: [cannabis, pollen, breeding, pollination, seed-production, clarke]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # cannabis pollen collection storage clarke

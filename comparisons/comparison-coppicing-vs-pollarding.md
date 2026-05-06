@@ -1,5 +1,6 @@
 ---
 title: "Coppicing vs Pollarding"
+created: 2026-04-28
 tags: forestry, woodland-management, sustainable-harvesting, traditional-practices, arboriculture
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-to-manage-your-woodland/coppicing/
   - https://www.fao.org/forestry/sustainable-forest-management/en/
   - https://www.arboriculture.org.uk/
+type: comparison
 ---
 
 # Coppicing vs Pollarding: A Comparison of Woodland Management Techniques
@@ -139,6 +141,8 @@ Pollarding is used in urban arboriculture to control the size of trees in confin
 - **Combine both** in a mixed landscape for maximum structural diversity and resilience, ensuring each technique is applied to the species and site conditions best suited to it.
 
 ## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
 
 - [[castanea-sativa]]
 - [[quercus-robur]]

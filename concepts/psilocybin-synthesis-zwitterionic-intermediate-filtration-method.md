@@ -1,10 +1,12 @@
 ---
 title: Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation
+created: 2026-04-28
 tags: [psilocybin-synthesis, zwitterionic-intermediate, phosphorylation, tetrabenzylpyrophosphate, n-o-dibenzyl-phosphate, chromatographic-free, organic-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Concise Large-Scale Synthesis of Psilocin and Psilocybin (Shirota, Hakamata & Goda, J. Nat. Prod. 2003)"
+type: concept
 ---
 
 # Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation

@@ -1,10 +1,12 @@
 ---
 title: Bacterial Dominant vs Fungal Dominant Compost Tea
+created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, compost-tea, soil-biology, microbiology, aact]
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: comparison
 ---
 
 # Bacterial Dominant vs Fungal Dominant Compost Tea

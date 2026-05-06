@@ -1,5 +1,6 @@
 ---
 title: Smartshops
+created: 2026-04-28
 tags:
   - retail
   - drug-policy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Smartshops
@@ -124,6 +126,8 @@ medication, suffering from mental illness, when driving or operating machines, o
 combination with alcohol.
 
 ## See Also
+
+- [[smartshops-and-hallucinogenic-mushroom-retail]]
 
 - [[Hallucinogenic mushrooms]]
 - [[Psilocybe cubensis]]

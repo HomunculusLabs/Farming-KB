@@ -1,9 +1,11 @@
 ---
 title: Aquaculture Pond Design and Management
+created: 2026-04-28
 tags: [aquaculture, fish-farming, pond-design, permaculture, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Aquaculture Pond Design and Management

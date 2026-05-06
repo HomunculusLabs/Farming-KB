@@ -1,9 +1,11 @@
 ---
 title: "What Is Chop and Drop Mulching and Why Should I Use It?"
+created: 2026-04-28
 tags: [query, chop-and-drop, mulching, permaculture, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Chop and Drop Mulching and Why Should I Use It?

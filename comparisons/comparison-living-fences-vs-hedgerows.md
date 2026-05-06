@@ -1,5 +1,6 @@
 ---
 title: Living Fences vs Hedgerows
+created: 2026-04-28
 tags:
   - permaculture
   - agroforestry
@@ -17,6 +18,7 @@ sources:
   - Barr, C. & Gillespie, M. "Hedgerows of the World." IALE, 2000.
   - Mollison, B. "Permaculture: A Designers' Manual." Tagari Publications, 1988.
   - USDA NRCS "Conservation Hedgerows: Design and Establishment." Agroforestry Notes, 2019.
+type: comparison
 ---
 
 # Living Fences vs Hedgerows

@@ -1,9 +1,11 @@
 ---
 title: "Black Locust vs Honey Locust"
+created: 2026-04-28
 tags: [comparison, nitrogen-fixing-trees, permaculture, species, agroforestry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Black Locust vs Honey Locust

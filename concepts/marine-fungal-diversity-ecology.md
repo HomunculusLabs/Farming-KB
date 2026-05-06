@@ -1,5 +1,6 @@
 ---
 title: Marine Fungal Diversity and Ecology
+created: 2026-04-28
 tags:
   - mycology
   - marine-biology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+type: concept
 ---
 
 # Marine Fungal Diversity and Ecology

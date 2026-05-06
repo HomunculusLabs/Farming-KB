@@ -1,5 +1,6 @@
 ---
 title: "Pruning as Destruction of Natural Tree Form"
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Pruning as Destruction of Natural Tree Form

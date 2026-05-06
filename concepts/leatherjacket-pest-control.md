@@ -104,7 +104,9 @@ Aerating compacted lawns improves drainage and makes the soil environment less f
 Removing thatch build-up also reduces the moist, protected habitat that crane fly larvae favour during their development.
 Encouraging diverse plantings in borders and beds reduces the attractiveness of the area to crane flies, which prefer to lay eggs in monoculture grass.
 
-## Related Pests Found Nearby
+## Related
+
+- [[dave-jacke]] Pests Found Nearby
 
 The same section of the source describes several other soil pests and their controls:
 
@@ -125,6 +127,8 @@ Grass reseeding is particularly vulnerable because the young grass plants lack t
 Modern integrated pest management strategies combine monitoring (soil sampling in autumn to assess larval populations), cultural controls, biological nematode applications, and targeted chemical intervention only when economic thresholds are exceeded.
 
 ## Related
+
+- [[dave-jacke]]
 
 - [[companion-planting-deterrents]] — encouraging hoverflies and other pest predators
 - [[clubroot-disease-management]] — managing soil-borne diseases in the garden

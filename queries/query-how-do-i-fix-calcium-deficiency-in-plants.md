@@ -1,9 +1,11 @@
 ---
 title: "How Do I Fix Calcium Deficiency in Plants?"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, calcium]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Fix Calcium Deficiency in Plants?

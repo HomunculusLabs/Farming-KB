@@ -1,9 +1,11 @@
 ---
 title: Suppression of Psychedelic Research and LSD Therapy
+created: 2026-04-28
 tags: [lsd, psychedelic-research, prohibition, psychiatry, mckenna, history, hoffer, osmond]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Suppression of Psychedelic Research and LSD Therapy

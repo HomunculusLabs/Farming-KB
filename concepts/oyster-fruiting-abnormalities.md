@@ -1,9 +1,11 @@
 ---
 title: "Fruiting Body Abnormalities in Oyster Mushrooms"
+created: 2026-04-28
 tags: [fruiting, abnormalities, CO2, temperature, humidity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Fruiting Body Abnormalities in Oyster Mushrooms

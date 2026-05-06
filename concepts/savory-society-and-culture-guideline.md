@@ -1,10 +1,12 @@
 ---
 title: Society and Culture Guideline
+created: 2026-04-28
 tags: [ethics, community, quality-of-life, social-impact, testing-guidelines]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Society and Culture Guideline

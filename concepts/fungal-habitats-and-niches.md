@@ -1,9 +1,11 @@
 ---
 title: Fungal Habitats and Niches
+created: 2026-04-28
 tags: [mycology, ecology, habitats, niches]
 date: 2026-04-28
 updated: 2026-05-01
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Habitats and Niches

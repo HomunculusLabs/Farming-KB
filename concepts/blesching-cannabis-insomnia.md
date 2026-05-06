@@ -1,5 +1,6 @@
 ---
 title: Cannabis and Insomnia
+created: 2026-04-28
 tags:
   - cannabis
   - insomnia
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/uwe-blesching-the-cannabis-health-index.md
+type: concept
 ---
 
 # Cannabis and Insomnia

@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Biochar in My Garden and What Benefits Does It Provide?"
+created: 2026-04-28
 tags: [query, biochar, soil-amendment, carbon-sequestration, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Use Biochar in My Garden and What Benefits Does It Provide?

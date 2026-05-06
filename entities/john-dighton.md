@@ -1,7 +1,9 @@
 ---
 title: John Dighton
+created: 2026-04-28
 aliases: [Dighton, John]
 tags: [mycology, ecology, mycorrhiza, soil-fungi, research]
+type: entity
 ---
 
 # John Dighton

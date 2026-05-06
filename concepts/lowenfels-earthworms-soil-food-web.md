@@ -1,9 +1,11 @@
 ---
 title: "Earthworms and the Soil Food Web"
+created: 2026-04-28
 tags: [soil-biology, earthworms, decomposition, soil-structure]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Earthworms are among the most recognizable and important animals in the

@@ -1,9 +1,11 @@
 ---
 title: "Hofmann on LSD Pharmacology, Serotonin, and the Brain"
+created: 2026-04-28
 tags: [lsd, pharmacology, serotonin, dopamine, neuroscience, hofmann]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+type: concept
 ---
 
 # Hofmann on LSD Pharmacology, Serotonin, and the Brain

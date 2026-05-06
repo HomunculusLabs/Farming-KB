@@ -1,5 +1,6 @@
 ---
 title: Dactylium dendroides
+created: 2026-04-28
 type: species
 tags: [contaminant, cobweb-mold, pathogen, casing-contaminant, fungal-disease]
 date: 2026-04-28

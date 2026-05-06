@@ -1,9 +1,11 @@
 ---
 title: "Traditional Paddy Construction vs. Modern Concrete Fields"
+created: 2026-04-28
 tags: [rice-paddy, traditional-agriculture, terracing, mechanization, soil-degradation, japan]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 Today, a rice field can easily be prepared by clearing the land

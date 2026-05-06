@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Sea Buckthorn? — Complete Beginner's Guide"
+created: 2026-04-28
 tags:
   - sea-buckthorn
   - berry-cultivation
@@ -16,6 +17,7 @@ sources:
   - "The Encyclopedia of Fruit and Nuts — Jules Janick & Robert E. Paull, 2008"
   - "Perennial Vegetables — Eric Toensmeier, 2007"
   - "FAO Technical Papers on Sea Buckthorn Development, 2001–2017"
+type: query
 ---
 
 # How Do I Grow Sea Buckthorn?

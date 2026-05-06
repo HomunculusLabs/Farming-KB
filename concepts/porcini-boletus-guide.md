@@ -1,5 +1,6 @@
 ---
 title: Porcini Boletus Guide
+created: 2026-04-28
 creboletus-edulis12
 updated: 2026-04-12
 type: concept

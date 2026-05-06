@@ -1,9 +1,11 @@
 ---
 title: "Turner on Mescaline: Peyote, San Pedro, and Shamanic Sacraments"
+created: 2026-04-28
 tags: [mescaline, peyote, san-pedro, trichocereus, phenethylamine, psychedelic-guide, turner, cactus-preparation, native-american-church]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # Turner on Mescaline: Peyote, San Pedro, and Shamanic Sacraments

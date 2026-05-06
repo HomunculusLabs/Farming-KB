@@ -1,9 +1,11 @@
 ---
 title: "How to Run a Perpetual Cannabis Harvest Cycle"
+created: 2026-04-28
 tags: [query, cannabis, perpetual-harvest, growing-schedule, yield]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Run a Perpetual Cannabis Harvest Cycle

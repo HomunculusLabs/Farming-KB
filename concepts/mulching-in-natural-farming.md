@@ -1,9 +1,11 @@
 ---
 title: Mulching in Natural Farming
+created: 2026-04-28
 tags: [mulching, natural-farming, soil-health, fukuoka, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 # Mulching in Natural Farming

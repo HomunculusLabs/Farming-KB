@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus and Pluteus as Neurotropic Genera
+created: 2026-04-28
 tags:
   - gymnopilus
   - pluteus
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Gymnopilus and Pluteus as Neurotropic Genera

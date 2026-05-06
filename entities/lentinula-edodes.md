@@ -1,5 +1,6 @@
 ---
 title: Lentinula edodes
+created: 2026-04-28
 type: species
 tags: [medicinal-mushroom, agaric, immunomodulator, anticancer, culinary-mushroom]
 date: 2026-04-28

@@ -1,10 +1,12 @@
 ---
 title: Irrigation and Watering Techniques
+created: 2026-04-28
 tags: [cannabis, irrigation, watering, soil-moisture, growing-techniques]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Irrigation and Watering Techniques

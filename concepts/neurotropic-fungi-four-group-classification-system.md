@@ -1,10 +1,12 @@
 ---
 title: Neurotropic Fungi Classification and the Four-Group System
+created: 2026-04-28
 tags: [mycology, neurotropic-fungi, psilocybin, taxonomy, guzman-allen-gartz, classification, hallucinogens, ergot, ibotenic-acid]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Annali del Museo Civico di Rovereto, Sez.: Arch., St., Sc. nat., 14, 189-280.
+type: concept
 ---
 
 # Neurotropic Fungi Classification and the Four-Group System

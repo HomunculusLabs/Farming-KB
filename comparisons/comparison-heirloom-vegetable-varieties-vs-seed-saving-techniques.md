@@ -1,9 +1,11 @@
 ---
 title: Heirloom Vegetable Varieties vs Seed Saving Techniques
+created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, seeds, plant-breeding, food-security, homesteading]
 sources: []
+type: comparison
 ---
 
 # Heirloom Vegetable Varieties vs Seed Saving Techniques

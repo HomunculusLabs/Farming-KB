@@ -1,9 +1,11 @@
 ---
 title: Cannabis Extraction Solvents
+created: 2026-04-28
 tags: [cannabis, solvents, extraction, chemistry, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+type: concept
 ---
 
 # Cannabis Extraction Solvents

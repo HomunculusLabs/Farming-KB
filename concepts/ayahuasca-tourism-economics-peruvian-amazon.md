@@ -1,5 +1,6 @@
 ---
 title: Ayahuasca Tourism Economics and Pricing in the Peruvian Amazon
+created: 2026-04-28
 tags:
   - ayahuasca
   - tourism
@@ -17,6 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/stuart-r-ayahuasca-tourism.md
+type: concept
 ---
 
 # Ayahuasca Tourism Economics and Pricing in the Peruvian Amazon
@@ -110,6 +112,8 @@ Stuart contextualized ayahuasca tourism within a broader historical pattern of W
 - **1990s**: Shamanism came into vogue, setting the stage for the ayahuasca tourism boom
 
 ## See Also
+
+- [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
 
 - [[ayahuasca-tourism-economics-commodification-peru]]
 

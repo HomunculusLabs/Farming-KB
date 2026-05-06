@@ -1,9 +1,11 @@
 ---
 title: betel nut arecoline ethnobotany
+created: 2026-04-28
 tags: [betel-nut, ethnobotany, arecoline, stimulant-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Betel Nut Arecoline Ethnobotany

@@ -1,9 +1,11 @@
 ---
 title: "How to Deal with Deer and Other Wildlife in Your Garden"
+created: 2026-04-28
 tags: [query, gardening, pests, wildlife, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Deal with Deer and Other Wildlife in Your Garden

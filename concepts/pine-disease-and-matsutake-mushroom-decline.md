@@ -1,5 +1,6 @@
 ---
 title: Pine Disease and Matsutake Mushroom Decline
+created: 2026-04-28
 tags: [forest-ecology, mycology, pine-disease, matsutake, soil-microbiology, ecosystem-cascade, masanobu-fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "407-410, 3544-3597"
+type: concept
 ---
 
 # Pine Disease and Matsutake Mushroom Decline

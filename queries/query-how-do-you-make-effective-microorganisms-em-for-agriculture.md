@@ -1,9 +1,11 @@
 ---
 title: "How Do You Make Effective Microorganisms (EM) for Agriculture"
+created: 2026-04-28
 tags: [query, soil-biology, fermentation, biofertilizer, microorganisms]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do You Make Effective Microorganisms (EM) for Agriculture

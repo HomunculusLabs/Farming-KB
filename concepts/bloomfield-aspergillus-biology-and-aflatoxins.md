@@ -1,9 +1,11 @@
 ---
 title: "Aspergillus Biology and Aflatoxin Contamination"
+created: 2026-04-28
 tags: [mycology, aspergillus, aflatoxin, food-safety, mycotoxin, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Aspergillus is one of the most ubiquitous and economically significant

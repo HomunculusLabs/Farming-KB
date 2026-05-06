@@ -1,11 +1,13 @@
 ---
 title: salt tolerant fodder species
+created: 2026-04-28
 tags: [saline-land, fodder, land-rehabilitation, permaculture,
   pasture, erosion-control, livestock]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Salt Tolerant Fodder Species

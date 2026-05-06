@@ -1,5 +1,6 @@
 ---
 title: Inocybe corydalina
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, inocybaceae, mycorrhizal, europe]
 date: 2026-04-28

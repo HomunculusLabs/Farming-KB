@@ -1,9 +1,11 @@
 ---
 title: Cannabis Cannabinoid Biosynthesis Pathway
+created: 2026-04-28
 tags: [cannabis, cannabinoids, THC, CBD, biosynthesis, chemistry, clarke]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # [[cannabis-endocannabinoid-system]]

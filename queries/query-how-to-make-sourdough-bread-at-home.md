@@ -1,9 +1,11 @@
 ---
 title: "How to Make Sourdough Bread at Home"
+created: 2026-04-28
 tags: [query, sourdough, fermentation, bread-baking, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Make Sourdough Bread at Home

@@ -1,5 +1,6 @@
 ---
 title: Mycena citrinomarginata
+created: 2026-04-28
 type: species
 tags: [fungi, mycena, wood-inhabiting, temperate, bioluminescent]
 date: 2026-04-28

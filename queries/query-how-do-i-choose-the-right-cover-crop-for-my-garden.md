@@ -1,10 +1,12 @@
 ---
 title: "How Do I Choose the Right Cover Crop for My Garden?"
+created: 2026-04-28
 tags: [query, permaculture, cover-crops, soil-health, green-manures]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+type: query
 ---
 
 # How Do I Choose the Right Cover Crop for My Garden?

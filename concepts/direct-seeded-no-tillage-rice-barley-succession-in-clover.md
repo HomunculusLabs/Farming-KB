@@ -1,5 +1,6 @@
 ---
 title: Direct-Seeded No-Tillage Rice Barley Succession in Clover
+created: 2026-04-28
 tags: [rice-cultivation, barley, no-till, direct-seeding, clover, natural-farming, masanobu-fukuoka, cover-crops]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "139-180, 5204-5260"
+type: concept
 ---
 
 # Direct-Seeded No-Tillage Rice Barley Succession in Clover

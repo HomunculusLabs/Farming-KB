@@ -1,10 +1,12 @@
 ---
 title: Mushroom Spawn Making
+created: 2026-04-28
 tags: [mycology, agriculture, mushroom-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
+type: concept
 ---
 
 # Mushroom Spawn Making

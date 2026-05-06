@@ -1,10 +1,12 @@
 ---
 title: Fungal Hydrophobin Proteins and Surface Hydrophobicity
+created: 2026-04-28
 tags: [mycology, biochemistry, lichenology, cell-biology, protein-chemistry]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+type: concept
 ---
 # Fungal Hydrophobin Proteins and Surface Hydrophobicity
 

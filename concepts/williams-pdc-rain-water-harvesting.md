@@ -1,9 +1,11 @@
 ---
 title: "Rain Water Harvesting"
+created: 2026-04-28
 tags: [permaculture, water-harvesting, rainwater, swales]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Rain Water Harvesting

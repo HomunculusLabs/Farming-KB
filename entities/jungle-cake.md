@@ -1,5 +1,6 @@
 ---
 title: Jungle Cake
+created: 2026-04-28
 type: strain
 tags:
   - cannabis-strain
@@ -144,6 +145,8 @@ Jungle Cake is widely available in licensed cannabis markets including Californi
 When purchasing Jungle Cake, consumers should verify lab testing results, as the strain's popularity has led to occasional mislabeling. Authentic Jungle Cake from Jungle Boys genetics should test at 24%+ THC with the terpene profile described above.
 
 ## See Also
+
+- [[lava-cake]]
 
 - [[wedding-cake]]
 - [[cannabis-strain-selection-guide]]

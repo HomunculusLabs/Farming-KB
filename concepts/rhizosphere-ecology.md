@@ -1,9 +1,11 @@
 ---
 title: Rhizosphere Ecology
+created: 2026-04-28
 tags: [rhizosphere, soil-ecology, plant-microbe, root-exudates, nutrient-cycling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+type: concept
 ---
 # Rhizosphere Ecology
 The rhizosphere is the narrow zone of soil directly influenced by root

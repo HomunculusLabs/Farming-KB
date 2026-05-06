@@ -1,9 +1,11 @@
 ---
 title: "Jagadis Chandra Bose's Plant Research"
+created: 2026-04-28
 tags: [plant-physiology, bioelectricity, crescograph, plant-response, bose]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Jagadis Chandra Bose's Plant Research

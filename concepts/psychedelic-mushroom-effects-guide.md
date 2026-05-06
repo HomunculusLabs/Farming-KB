@@ -1,6 +1,8 @@
 ---
 title: Psychedelic Mushroom Effects Guide
+type: concept
 created: 2026-04-12
+type: concept
 uppsilocybin-mushroomspe: concept
 tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, entheogen-research, health, safety]
 sources: []

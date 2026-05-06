@@ -1,5 +1,6 @@
 ---
 title: "4-Acetoxy-N,N-Dimethyltryptamine (4-AcO-DMT)"
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, prodrug, synthetic, research-chemical]
 date: 2026-04-28

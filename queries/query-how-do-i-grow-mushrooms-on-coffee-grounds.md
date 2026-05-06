@@ -1,9 +1,11 @@
 ---
 title: "How Do I Grow Mushrooms on Coffee Grounds?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, coffee-grounds, oyster-mushrooms, recycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How Do I Grow Mushrooms on Coffee Grounds?
 ## Short Answer

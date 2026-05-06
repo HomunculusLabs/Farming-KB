@@ -1,5 +1,6 @@
 ---
 title: "Mushroom Classroom Education Demonstrations"
+created: 2026-04-28
 tags:
   - mushroom-education
   - teaching-resources
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation
+type: concept
 ---
 
 # Mushroom Classroom Education Demonstrations

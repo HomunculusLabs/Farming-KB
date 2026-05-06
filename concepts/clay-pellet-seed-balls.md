@@ -1,5 +1,6 @@
 ---
 title: Clay Pellet Seed Balls
+created: 2026-04-28
 tags:
   - farming
   - seeds
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka"
+type: concept
 ---
 
 # Clay Pellet Seed Balls

@@ -1,5 +1,6 @@
 ---
 title: Artemisia absinthium
+created: 2026-04-28
 type: species
 tags: [herbal-plants, medicinal-plants, psychoactive, thujone, ethnobotany, Asteraceae, bitter-principles, permaculture, companion-planting]
 date: 2026-04-28

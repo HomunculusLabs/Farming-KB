@@ -1,5 +1,6 @@
 ---
 title: How to Design a Food Forest for a Tropical Climate
+created: 2026-04-28
 tags:
   - food-forest
   - tropical-agriculture
@@ -12,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How to Design a Food Forest for a Tropical Climate

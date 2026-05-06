@@ -1,9 +1,11 @@
 ---
 title: "Wood Preserve and Shelterbelt Design for Natural Farms"
+created: 2026-04-28
 tags: [natural-farming, agroforestry, shelterbelt, soil-fertility, bamboo, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 The woods surrounding a natural farm should be treated as a

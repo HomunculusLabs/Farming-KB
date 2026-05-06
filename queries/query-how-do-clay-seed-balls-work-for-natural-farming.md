@@ -1,9 +1,11 @@
 ---
 title: "How do clay seed balls work for natural farming?"
+created: 2026-04-28
 tags: [query, natural-farming, seed-balls, restoration]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do clay seed balls work for natural farming?

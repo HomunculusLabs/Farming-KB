@@ -1,9 +1,11 @@
 ---
 title: "Decarboxylation Chemistry vs Edibles Guide"
+created: 2026-04-28
 tags: [comparison, decarboxylation, edibles, chemistry, cooking]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Decarboxylation Chemistry vs Edibles Guide
 ## Overview

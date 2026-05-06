@@ -1,5 +1,6 @@
 ---
 title: Russula emetica
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhizal, poisonous-mushroom, russulaceae, forest-fungi]
 date: 2026-04-28

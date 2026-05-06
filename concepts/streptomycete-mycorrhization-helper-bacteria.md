@@ -1,10 +1,12 @@
 ---
 title: "Streptomycete Mycorrhization Helper Bacteria"
+created: 2026-04-28
 tags: [mycorrhiza, helper-bacteria, actinomycetes, biocontrol, tripartite-symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
+type: concept
 ---
 
 # Streptomycete Mycorrhization Helper Bacteria

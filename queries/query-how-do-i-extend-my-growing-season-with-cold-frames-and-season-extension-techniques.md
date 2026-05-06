@@ -1,9 +1,11 @@
 ---
 title: "How do I extend my growing season with cold frames and season extension techniques?"
+created: 2026-04-28
 tags: [query, gardening, season-extension, cold-frames, greenhouses, row-covers, succession-planting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 Season extension techniques allow gardeners and growers to start planting earlier in spring and continue harvesting later into fall and winter.
 This effectively expands the productive growing window by weeks or even months beyond what the local climate would naturally permit.

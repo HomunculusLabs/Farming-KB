@@ -1,5 +1,6 @@
 ---
 title: "Pineapple Express"
+created: 2026-04-28
 type: strain
 tags: [strain, cannabis, hybrid, tropical, resinous, popular-culture]
 date: 2026-04-28

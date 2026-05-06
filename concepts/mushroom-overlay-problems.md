@@ -1,9 +1,11 @@
 ---
 title: Overlay Problems and Solutions
+created: 2026-04-28
 tags: [mycology, casing, troubleshooting, overlay, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Overlay Problems and Solutions

@@ -1,9 +1,11 @@
 ---
 title: "Greywater vs Rainwater Harvesting"
+created: 2026-04-28
 tags: [comparison, water-harvesting, water-conservation, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Greywater vs Rainwater Harvesting

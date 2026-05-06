@@ -1,10 +1,12 @@
 ---
 title: ALEPH-6 (2,5-Dimethoxy-4-phenylthioamphetamine) - PIHKAL Entry #6
+created: 2026-04-28
 tags: [pihkal, amphetamine, aleph-family, phenylthio-compound, psychedelic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # ALEPH-6

@@ -1,9 +1,11 @@
 ---
 title: "How to Make Cannabis Tinctures at Home"
+created: 2026-04-28
 tags: [query, cannabis, extraction, tincture, diy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Make Cannabis Tinctures at Home

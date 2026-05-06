@@ -1,9 +1,11 @@
 ---
 title: "Soil Biology and Microorganisms"
+created: 2026-04-28
 tags: [soil-science, microbiology, organic-gardening, soil-health, composting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Soil Biology and Microorganisms

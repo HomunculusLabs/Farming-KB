@@ -1,9 +1,11 @@
 ---
 title: "What is the difference between a hedgerow and a windbreak?"
+created: 2026-04-28
 tags: [query, permaculture, hedgerows, windbreaks]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # What is the difference between a hedgerow and a windbreak?

@@ -1,5 +1,6 @@
 ---
 title: The Eleusinian Mystery and the Psychedelic Sacrament
+created: 2026-04-28
 tags:
   - history
   - ancient-greece
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # The Eleusinian Mystery and the Psychedelic Sacrament

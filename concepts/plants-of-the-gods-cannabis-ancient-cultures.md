@@ -1,10 +1,12 @@
 ---
 title: Cannabis in Ancient Cultures in Plants of the Gods
+created: 2026-04-28
 tags: [ethnobotany, cannabis, ancient-history, psychoactive-plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+type: concept
 ---
 
 # Cannabis in Ancient Cultures

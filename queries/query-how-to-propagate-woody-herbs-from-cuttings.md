@@ -1,9 +1,11 @@
 ---
 title: How Do I Propagate Woody Herbs from Cuttings?
+created: 2026-04-28
 tags: [herbalism, propagation, cuttings, herbs, plant-reproduction]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Propagate Woody Herbs from Cuttings?

@@ -1,10 +1,12 @@
 ---
 title: "Stress, Strain, and Elasticity"
+type: concept
 category: materials-science
 related:
   - fracture-mechanics-engineering-materials
 tags: [mechanics, materials-science, elasticity, stress, strain, hooke-law, solid-mechanics, engineering]
 created: 2026-05-02
+type: concept
 ---
 
 Stress, strain, and elasticity form the foundational framework of solid mechanics [[mollison-tropical-mulch-systems-and-materials]] science, describing how solid bodies deform and recover under applied forces. These concepts are essential for structural design, materials selection, and predicting failure modes in everything from microscopic semiconductor structures to massive bridges and spacecraft.

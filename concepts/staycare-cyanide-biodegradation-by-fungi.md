@@ -1,11 +1,13 @@
 ---
 title: "Cyanide Biodegradation by Fungi"
+created: 2026-04-28
 tags: [cyanide, biodegradation, cyanide-hydratase, fusarium,
       metal-cyanide-complexes, fungal-detoxification, nitrilase,
       bioremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # [[staycare-cyanide-biodegradation-by-fungi]]

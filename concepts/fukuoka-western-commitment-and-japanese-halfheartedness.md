@@ -1,5 +1,6 @@
 ---
 title: Western Commitment Versus Japanese Halfheartedness in Natural Farming
+created: 2026-04-28
 tags:
   - cultural-philosophy
   - natural-farming
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: masanobu-fukuoka-the-road-back-to-nature.md
     author: Masanobu Fukuoka
+type: concept
 ---
 
 # Western Commitment Versus Japanese Halfheartedness in Natural Farming

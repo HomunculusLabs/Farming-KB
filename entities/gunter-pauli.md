@@ -1,5 +1,6 @@
 ---
 title: Gunter Pauli
+created: 2026-04-28
 type: person
 aliases:
   - Gunter Pauli

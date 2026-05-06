@@ -1,5 +1,6 @@
 ---
 title: Walter Stoll
+created: 2026-04-28
 type: person
 tags: [psychiatrist, lsd-therapy, sandoz-researcher, swiss-medicine, psycholytic-therapy]
 date: 2026-04-28

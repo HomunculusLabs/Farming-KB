@@ -1,10 +1,12 @@
 ---
 title: Bioavailability of Pollutants in Fungal Bioremediation
+created: 2026-04-28
 tags: [bioremediation, bioavailability, soil, organic-pollutants, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 ## Bioavailability

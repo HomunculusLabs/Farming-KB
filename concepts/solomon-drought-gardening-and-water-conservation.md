@@ -1,10 +1,12 @@
 ---
 title: "Drought Gardening and Water Conservation"
+created: 2026-04-28
 tags: [drought, water-conservation, dry-farming, moisture, climate]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Drought Gardening and Water Conservation

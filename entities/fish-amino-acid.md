@@ -1,5 +1,6 @@
 ---
 title: Fish Amino Acid
+created: 2026-04-28
 type: chemical
 tags: [knf, faa, natural-farming-acid, fermentation, cho-global]
 date: 2026-04-28

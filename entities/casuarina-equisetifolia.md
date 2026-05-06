@@ -1,9 +1,11 @@
 ---
 title: "Casuarina equisetifolia"
+created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, windbreak, coastal]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Casuarina equisetifolia

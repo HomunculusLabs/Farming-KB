@@ -1,9 +1,11 @@
 ---
 title: "Metzner Hallucinogens Psychotherapy and Shamanism"
+created: 2026-04-28
 tags: [ralph-metzner, psychotherapy, shamanism, psychedelics, entheogen, set-and-setting, indigenous-healing, transpersonal, ritual]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+type: concept
 ---
 
 # Metzner Hallucinogens Psychotherapy and Shamanism

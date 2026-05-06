@@ -1,5 +1,6 @@
 ---
 title: Sporidesmium sclerotivorum
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, sclerotial-parasite, biocontrol, soil-fungi]
 date: 2026-04-28

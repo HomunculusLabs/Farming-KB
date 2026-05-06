@@ -1,10 +1,12 @@
 ---
 title: Darwin Phytochrome and Photoperiodism Discovery
+created: 2026-04-28
 tags: [botany, photobiology, phytochrome, photoperiodism, darwin, history-of-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Darwin, Phytochrome, and Photoperiodism Discovery

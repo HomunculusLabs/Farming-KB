@@ -1,9 +1,11 @@
 ---
 title: "Sourdough Bread Guide vs Wild Yeast Bread Baking"
+created: 2026-04-28
 tags: [sourdough, wild-yeast, bread-baking, fermentation, comparison]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Sourdough Bread Guide vs [[comparison-sourdough-vs-wild-yeast]] Bread Baking
 A comparison of two approaches to naturally leavened bread:

@@ -1,9 +1,11 @@
 ---
 title: "Oss & Oeric: Spore Syringe Preparation"
+created: 2026-04-28
 tags: [mycology, spore-collection, sterile-technique, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+type: concept
 ---
 
 # Oss & Oeric: Spore Syringe Preparation

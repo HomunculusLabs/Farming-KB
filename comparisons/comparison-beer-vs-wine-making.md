@@ -1,9 +1,11 @@
 ---
 title: "Beer Brewing vs Wine Making"
+created: 2026-04-28
 tags: [comparison, fermentation, brewing, wine, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Beer Brewing vs Wine Making

@@ -1,9 +1,11 @@
 ---
 title: Mycorrhizal Fungi and the Terrestrial Carbon Cycle
+created: 2026-04-28
 tags: [mycology, mycorrhiza, carbon-cycle, soil-carbon, ecology, climate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: "Geoffrey M. Gadd, Sarah C. Watkinson, Paul S. Dyer (eds). Fungi in the Environment. Cambridge University Press, 2006. Chapter 8: Mycorrhizas and the terrestrial carbon cycle."
+type: concept
 ---
 
 # Mycorrhizal Fungi and the Terrestrial Carbon Cycle

@@ -1,9 +1,11 @@
 ---
 title: How Do I Make Seed Starting Mix at Home?
+created: 2026-04-28
 tags: [farming, soil, seed-starting, organic-gardening, diy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Make Seed Starting Mix at Home?

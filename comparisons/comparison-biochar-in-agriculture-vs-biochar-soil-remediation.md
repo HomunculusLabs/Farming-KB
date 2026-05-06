@@ -1,9 +1,11 @@
 ---
 title: "Biochar in Agriculture vs Biochar for Soil Remediation"
+created: 2026-04-28
 tags: [comparison, biochar, soil-amendment, remediation, carbon-sequestration]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Biochar in Agriculture vs Biochar for Soil Remediation

@@ -1,5 +1,6 @@
 ---
 title: Galerina steglichii
+created: 2026-04-28
 type: species
 tags: [galerina, psilocybin, wood-inhabiting, cortinariaceae, amatoxin-warning]
 date: 2026-04-28

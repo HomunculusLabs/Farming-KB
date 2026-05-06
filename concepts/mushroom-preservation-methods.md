@@ -1,10 +1,12 @@
 ---
 title: "Mushroom Preservation Methods"
+created: 2026-04-28
 tags: [mushroom-cultivation, preservation, drying, freezing, storage, post-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Mushroom [[fungal-culture-preservation-methods]]

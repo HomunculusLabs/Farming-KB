@@ -1,5 +1,6 @@
 ---
 title: What Is the Difference Between Vermicompost and Traditional Compost?
+created: 2026-04-28
 tags:
   - composting
   - vermicomposting
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 ## Overview
 Vermicompost and traditional compost both transform organic waste into valuable soil

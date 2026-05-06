@@ -1,5 +1,6 @@
 ---
 title: "Brassica vs Nightshade Gardening"
+created: 2026-04-28
 tags: [comparison, brassicas, nightshades, vegetable-gardening, cool-season, warm-season]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - /Users/t3rpz/wiki/concepts/tomato-pepper-eggplant-growing-guide.md
   - /Users/t3rpz/wiki/concepts/growing-brassicas-organically.md
   - /Users/t3rpz/wiki/concepts/solomon-growing-brassicas-guide.md
+type: comparison
 ---
 
 # Brassica vs Nightshade Gardening

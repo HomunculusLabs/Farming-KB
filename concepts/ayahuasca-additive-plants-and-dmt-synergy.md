@@ -1,9 +1,11 @@
 ---
 title: Ayahuasca Additive Plants and DMT Synergy
+created: 2026-04-28
 tags: [ethnobotany, ayahuasca, dmt, beta-carbolines, amazon]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
+type: concept
 ---
 
 # Ayahuasca Additive Plants and DMT Synergy

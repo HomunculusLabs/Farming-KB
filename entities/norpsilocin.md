@@ -1,5 +1,6 @@
 ---
 title: Norpsilocin
+created: 2026-04-28
 type: chemical
 tags: [tryptamine-alkaloid, psilocybin-metabolite, indole-derivative, mushroom-alkaloid, demethylated-derivative]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: JADAM Cover Crop and Green Manure Selection Guide
+created: 2026-04-28
 tags: [jadam, cover-crops, green-manure, soil-fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Cover Crop and Green Manure Selection Guide

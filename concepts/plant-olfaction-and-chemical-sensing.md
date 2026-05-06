@@ -1,11 +1,13 @@
 ---
 title: Plant Olfaction and Chemical Sensing
+created: 2026-04-28
 tags: [plant-biology, olfaction, volatile-organic-compounds,
        chemical-communication, plant-senses]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md
+type: concept
 ---
 
 # Plant Olfaction and Chemical Sensing

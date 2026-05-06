@@ -1,5 +1,6 @@
 ---
 title: Pseudomonas putida
+created: 2026-04-28
 type: species
 tags: [beneficial-bacteria, casing-layer, primordia-formation, mushroom-cultivation, gram-negative]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "PF TEK Spore Printing and Syringe Preparation"
+created: 2026-04-28
 tags:
   - cultivation
   - pf-tek
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # PF TEK Spore Printing and Syringe Preparation

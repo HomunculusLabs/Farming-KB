@@ -1,9 +1,11 @@
 ---
 title: "Greenhouse Heating and Temperature Control"
+created: 2026-04-28
 tags: [greenhouse, heating, temperature, insulation, protected-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Greenhouse Heating and Temperature Control

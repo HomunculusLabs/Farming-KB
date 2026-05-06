@@ -1,5 +1,6 @@
 ---
 title: "Fungus Cultivation by Ants, Termites, and Bark Beetles"
+created: 2026-04-28
 tags:
   - fungus-cultivation
   - insect-fungi
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Fungus Cultivation by Ants, Termites, and Bark Beetles

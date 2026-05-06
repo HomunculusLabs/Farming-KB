@@ -1,9 +1,11 @@
 ---
 title: Metzner on Syncretic Entheogenic Folk Ceremonies
+created: 2026-04-28
 tags: [metzner, shamanism, ayahuasca, peyote, iboga]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+type: concept
 ---
 
 # Syncretic Entheogenic Folk Ceremonies

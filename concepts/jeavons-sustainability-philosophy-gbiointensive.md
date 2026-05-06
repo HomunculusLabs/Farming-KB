@@ -1,10 +1,12 @@
 ---
 title: Sustainability Philosophy of GROW BIOINTENSIVE
+created: 2026-04-28
 tags: [biointensive, sustainability, soil-fertility, philosophy, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Sustainability Philosophy of GROW BIOINTENSIVE

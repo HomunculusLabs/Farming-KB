@@ -1,5 +1,6 @@
 ---
 title: "Rotational Grazing vs Set Stocking"
+created: 2026-04-28
 tags:
   - grazing
   - pasture-management
@@ -14,6 +15,7 @@ sources:
   - "Teague, W.R. et al. 'The role of ruminants in reducing agriculture's carbon footprint in North America.' Journal of Soil and Water Conservation, 2016."
   - "Barnes, M.K. et al. 'Effects of rotational vs. continuous grazing on weed populations.' Weed Technology, 2008."
   - "Undersander, D. et al. 'Extending Grazing Seasons.' University of Wisconsin Extension, 2002."
+type: comparison
 ---
 
 # Rotational Grazing vs Set Stocking

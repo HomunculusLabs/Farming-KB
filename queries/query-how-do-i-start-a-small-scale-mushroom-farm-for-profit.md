@@ -1,11 +1,13 @@
 ---
 title: "How Do I Start a Small-Scale Mushroom Farm for Profit?"
+created: 2026-04-28
 tags: [query, mushroom, business, cultivation, commercial]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: query
 ---
 
 # How Do I Start a Small-Scale Mushroom Farm for Profit?

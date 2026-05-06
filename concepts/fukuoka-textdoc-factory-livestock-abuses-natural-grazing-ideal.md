@@ -1,5 +1,6 @@
 ---
 title: Factory Livestock Farming Abuses and the Case for Natural Grazing
+created: 2026-04-28
 tags:
   - fukuoka
   - livestock
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Factory Livestock Farming Abuses and the Case for Natural Grazing

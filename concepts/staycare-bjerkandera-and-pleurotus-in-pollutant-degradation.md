@@ -1,9 +1,11 @@
 ---
 title: "Bjerkandera and Pleurotus Species in Pollutant Degradation"
+created: 2026-04-28
 tags: [bioremediation, white-rot-fungi, pah, dye-decolorization, pollutant-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Bjerkandera and Pleurotus Species in Pollutant Degradation

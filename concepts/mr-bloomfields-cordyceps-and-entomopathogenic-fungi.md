@@ -1,10 +1,12 @@
 ---
 title: Cordyceps and Entomopathogenic Fungi
+created: 2026-04-28
 tags: [mycology, cordyceps, entomopathogenic-fungi, ascomycota, biological-control, chinese-medicine, insect-pathogens, parasitic-fungi, fungal-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Nicholas P. Money, Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Oxford University Press, 2002), Chapter 4: Metamorphosis"
+type: concept
 ---
 # Cordyceps and Entomopathogenic Fungi
 Entomopathogenic fungi are fungi that parasitize and kill insects, and the

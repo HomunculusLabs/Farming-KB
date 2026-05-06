@@ -1,9 +1,11 @@
 ---
 title: Chemical Analysis of Psilocybin Mushrooms
+created: 2026-04-28
 tags: [psilocybin, HPLC, chromatography, alkaloid-analysis, analytical-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # Chemical Analysis of Psilocybin Mushrooms

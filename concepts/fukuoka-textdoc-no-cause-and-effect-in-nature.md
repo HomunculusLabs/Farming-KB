@@ -1,10 +1,12 @@
 ---
 title: No Cause and Effect in Nature - The Principle of Non-Causality
+created: 2026-04-28
 tags: [philosophy, causality, non-causality, mu, natural-laws]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # No Cause and Effect in Nature

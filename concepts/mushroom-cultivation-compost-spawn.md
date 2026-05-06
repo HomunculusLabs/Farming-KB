@@ -1,10 +1,12 @@
 ---
 title: Mushroom Cultivation Compost and Spawn
+created: 2026-04-28
 tags: [mushroom-cultivation, compost, spawn, mycelium, agaricus]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
+type: concept
 ---
 
 # Mushroom Cultivation Compost and Spawn

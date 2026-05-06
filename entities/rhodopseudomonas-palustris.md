@@ -1,5 +1,6 @@
 ---
 title: Rhodopseudomonas palustris
+created: 2026-04-28
 type: species
 tags: [purple-non-sulfur-bacteria, nitrogen-fixation, photosynthesis, indigenous-microorganisms, biofertilizer]
 date: 2026-04-28

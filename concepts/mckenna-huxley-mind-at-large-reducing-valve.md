@@ -1,10 +1,12 @@
 ---
 title: "Huxley Mind at Large and the Reducing Valve Theory"
+created: 2026-04-28
 tags: [consciousness, psychedelics, huxley, philosophy-of-mind, perception, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Huxley Mind at Large and the Reducing Valve Theory

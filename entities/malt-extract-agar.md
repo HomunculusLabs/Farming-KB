@@ -1,5 +1,6 @@
 ---
 title: Malt Extract Agar
+created: 2026-04-28
 type: chemical
 tags:
   - culture-medium

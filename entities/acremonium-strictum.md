@@ -1,5 +1,6 @@
 ---
 title: Acremonium strictum
+created: 2026-04-28
 type: species
 tags: [ascomycota, ericoid-mycorrhiza, radiation-tolerance, soil-fungus, endophyte]
 date: 2026-04-28

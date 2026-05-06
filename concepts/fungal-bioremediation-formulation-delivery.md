@@ -1,9 +1,11 @@
 ---
 title: Fungal Bioremediation Formulation and Delivery
+created: 2026-04-28
 tags: [bioremediation, formulation, bioaugmentation, delivery, inoculum]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Bioremediation Formulation and Delivery

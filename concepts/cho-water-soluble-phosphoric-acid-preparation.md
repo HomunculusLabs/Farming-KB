@@ -1,10 +1,12 @@
 ---
 title: Water-Soluble Phosphoric Acid Preparation (Cho's Method)
+created: 2026-04-28
 tags: [knf, input-preparation, mineral-nutrients]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 Water-Soluble Phosphoric Acid (WS-PA) is a Natural Farming input

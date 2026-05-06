@@ -1,9 +1,11 @@
 ---
 title: Companion Planting Guilds and Plant Communities
+created: 2026-04-28
 tags: [natural-farming, companion-planting, guilds, polyculture, permaculture, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Companion Planting Guilds and Plant Communities

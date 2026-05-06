@@ -1,5 +1,6 @@
 ---
 title: "How Do I Design Planting Guilds for a Food Forest?"
+created: 2026-04-28
 tags:
   - food-forest
   - planting-guilds
@@ -17,6 +18,7 @@ sources:
   - https://www.tenthacrefarm.com/permaculture-plant-guilds/
   - https://www.richsoil.com/permaculture-guilds.jsp
   - https://www.agroforestry.ac.uk/guides/planting-guilds
+type: query
 ---
 
 # How Do I Design Planting Guilds for a Food Forest?

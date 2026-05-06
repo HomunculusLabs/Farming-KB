@@ -1,10 +1,12 @@
 ---
 title: Hallucinogenic Mushroom Prevalence in Europe
+created: 2026-04-28
 tags: [prevalence, Europe, ESPAD, epidemiology, drug use, survey]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Hallucinogenic Mushroom Prevalence in Europe

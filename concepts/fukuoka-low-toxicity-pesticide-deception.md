@@ -1,9 +1,11 @@
 ---
 title: Fukuoka on Low Toxicity Pesticide Deception
+created: 2026-04-28
 tags: [fukuoka, pesticides, pollution, critique, organic-farming, natural-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
+type: concept
 ---
 
 # Fukuoka on the Low Toxicity Pesticide Deception

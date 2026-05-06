@@ -1,10 +1,12 @@
 ---
 title: "Cassava and Tropical Root Crops"
+created: 2026-04-28
 tags: [permaculture, cassava, tropical-crops, root-crops, food-security]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Cassava and Tropical Root Crops

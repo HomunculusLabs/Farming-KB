@@ -1,10 +1,12 @@
 ---
 title: Neurotropic Fungi of Mexico and Mesoamerica
+created: 2026-04-28
 tags: [mycology, mexico, mesoamerica, psilocybe, ethnobotany, distribution, guzman]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998/2000;14:189-280."
+type: concept
 ---
 
 # Neurotropic Fungi of Mexico and Mesoamerica
@@ -122,3 +124,9 @@ Central America, and South America, growing characteristically on cow dung, yet 
 and was unknown in the Americas before the arrival of European colonists. Since cattle were introduced to the
 Americas by the Spanish in the 16th and 17th centuries, the current pan-American distribution of P. cubensis
 likely represents a relatively recent ecological expansion onto a novel substrate that did not previously exist.
+
+## See Also
+
+- [[psychoactive-cacti-of-central-mexico]]
+- [[ergot-amanita-neurotropic-fungi-groups]]
+- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

@@ -1,9 +1,11 @@
 ---
 title: No-Till Grain Strategy
+created: 2026-04-28
 tags: [no-till, grain, natural-farming, fukuoka, polyculture]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # No-Till Grain Strategy

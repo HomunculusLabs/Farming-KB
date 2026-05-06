@@ -1,9 +1,11 @@
 ---
 title: "How Does Lignin Degradation by Fungi Work?"
+created: 2026-04-28
 tags: [query, mycology, bioremediation, decomposition, enzymes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Lignin Degradation by Fungi Work?

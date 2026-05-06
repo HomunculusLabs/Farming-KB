@@ -1,10 +1,12 @@
 ---
 title: Recovery and Grazing Periods
+created: 2026-04-28
 tags: [grazing-planning, time-management, holistic-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Recovery and Grazing Periods

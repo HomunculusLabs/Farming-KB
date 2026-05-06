@@ -1,11 +1,13 @@
 ---
 title: plant memory and learning
+created: 2026-04-28
 tags: [plant-biology, plant-memory, vernalization, epigenetics,
        plant-senses]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md
+type: concept
 ---
 
 # Plant Memory and Learning

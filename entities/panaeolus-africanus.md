@@ -1,9 +1,11 @@
 ---
 title: "Panaeolus africanus"
+created: 2026-04-28
 tags: [species, fungus, psilocybin-mushroom, panaeolus]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [psilocybin-mushrooms-of-the-world-stamets.md]
+type: entity
 ---
 
 # Panaeolus africanus

@@ -1,9 +1,11 @@
 ---
 title: "Arbuscular Mycorrhizal Genomics"
+created: 2026-04-28
 tags: [mycology, genomics, mycorrhiza, symbiosis, glomeromycota]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md]
+type: concept
 ---
 
 # Arbuscular Mycorrhizal Genomics

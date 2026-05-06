@@ -1,5 +1,6 @@
 ---
 title: "Purple Haze"
+created: 2026-04-28
 type: strain
 tags: [cannabis, sativa, landrace-hybrid, classic-strain, psychedelic, 1960s]
 date: 2026-04-28

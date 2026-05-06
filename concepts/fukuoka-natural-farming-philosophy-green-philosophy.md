@@ -1,10 +1,12 @@
 ---
 title: Masanobu Fukuoka's Natural Farming Philosophy
+created: 2026-04-28
 tags: [natural-farming, fukuoka, no-till, do-nothing-farming, permaculture, green-philosophy, direct-seeding, organic-agriculture, sustainable-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Masanobu Fukuoka's Natural Farming Philosophy

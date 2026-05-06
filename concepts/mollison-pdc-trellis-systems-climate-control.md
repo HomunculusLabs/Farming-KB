@@ -1,5 +1,6 @@
 ---
 title: Mollison PDC Trellis Systems for Climate Control
+created: 2026-04-28
 tags:
   - permaculture
   - trellis
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Mollison PDC Trellis Systems for Climate Control

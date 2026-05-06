@@ -1,10 +1,12 @@
 ---
 title: Natural Diet and Seasonal Eating
+created: 2026-04-28
 tags: [diet, nutrition, philosophy, seasons, yin-yang, fukuoka, food]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Diet and Seasonal Eating

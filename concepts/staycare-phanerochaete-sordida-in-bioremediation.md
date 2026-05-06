@@ -1,9 +1,11 @@
 ---
 title: "Phanerochaete sordida in Bioremediation"
+created: 2026-04-28
 tags: [mycoremediation, white-rot-fungi, pentachlorophenol, creosote, field-studies]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Phanerochaete sordida in Bioremediation

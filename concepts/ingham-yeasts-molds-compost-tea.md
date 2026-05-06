@@ -1,9 +1,11 @@
 ---
 title: Yeasts and Molds in Compost Tea Systems
+created: 2026-04-28
 tags: [compost-tea, fungi, microbiology, soil-foodweb]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Yeasts and Molds in Compost Tea Systems

@@ -1,9 +1,11 @@
 ---
 title: "Dynamic Accumulators vs Cover Crops"
+created: 2026-04-28
 tags: [comparison, soil-fertility, permaculture, organic-gardening, nutrient-cycling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/nutrient-and-dynamic-accumulators.md]
+type: comparison
 ---
 
 # Dynamic Accumulators vs Cover Crops

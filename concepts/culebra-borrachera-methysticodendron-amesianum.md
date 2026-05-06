@@ -1,10 +1,12 @@
 ---
 title: Culebra Borrachera - Methysticodendron Amesianum
+created: 2026-04-28
 tags: [ethnobotany, colombia, kamsa, sibundoy, solanaceae, scopolamine,
   tropane-alkaloids, schultes, tree-datura]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Culebra Borrachera (Methysticodendron amesianum)

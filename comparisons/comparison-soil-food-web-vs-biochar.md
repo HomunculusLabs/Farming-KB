@@ -1,9 +1,11 @@
 ---
 title: "Soil Food Web vs Biochar"
+created: 2026-04-28
 tags: [comparison, soil-health, soil-food-web, biochar, soil-amendment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Soil Food Web vs Biochar

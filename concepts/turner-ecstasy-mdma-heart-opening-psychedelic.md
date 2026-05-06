@@ -1,9 +1,11 @@
 ---
 title: "Turner on Ecstasy (MDMA): The Heart Opening Psychedelic"
+created: 2026-04-28
 tags: [mdma, ecstasy, empathogen, phenethylamine, psychedelic-guide, turner, harm-reduction, neurotoxicity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # Turner on Ecstasy (MDMA): The Heart Opening Psychedelic

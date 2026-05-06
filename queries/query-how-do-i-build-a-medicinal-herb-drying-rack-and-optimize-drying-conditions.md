@@ -1,5 +1,6 @@
 ---
 title: "How Do I Build a Medicinal Herb Drying Rack and Optimize Drying Conditions?"
+created: 2026-04-28
 tags:
   - herbalism
   - harvesting
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Build a Medicinal Herb Drying Rack and Optimize Drying Conditions?

@@ -1,10 +1,12 @@
 ---
 title: "The DMT Experience and Hyperspace"
+created: 2026-04-28
 tags: [food-of-the-gods, dmt, hyperspace, tryptamine, machine-elves, consciousness, archaic-revival, overmind, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T. Food of the Gods, Chapter 15: Anticipating the Archaic Paradise
+type: concept
 ---
 
 # The DMT Experience and Hyperspace

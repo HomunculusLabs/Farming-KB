@@ -1,5 +1,6 @@
 ---
 title: "25I-NBOMe"
+created: 2026-04-28
 type: chemical
 tags:
   - nbome
@@ -125,6 +126,8 @@ Originally developed as a research tool for mapping serotonin receptor pharmacol
 - **Seizure risk:** High doses may lower seizure threshold; tonic-clonic seizures have been reported in hospital case series.
 
 ## See Also
+
+- [[25b-nbome]]
 
 - [[serotonin]]
 - [[set-and-setting]]

@@ -1,5 +1,6 @@
 ---
 title: Alpha-1,3-Glucan and Aspergillus fumigatus Virulence
+created: 2026-04-28
 tags:
   - fungal-cell-wall
   - alpha-glucan
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 
 # Alpha-1,3-Glucan and Aspergillus fumigatus Virulence

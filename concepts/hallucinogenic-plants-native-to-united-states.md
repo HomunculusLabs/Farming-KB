@@ -1,5 +1,6 @@
 ---
 title: Hallucinogenic Plants Native to the United States
+created: 2026-04-28
 tags:
   - ethnobotany
   - hallucinogens
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Hallucinogenic Plants Native to the United States

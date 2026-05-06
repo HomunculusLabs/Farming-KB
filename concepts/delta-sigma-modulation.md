@@ -1,6 +1,8 @@
 ---
 title: Delta Sigma Modulation
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Delta-Sigma Modulation

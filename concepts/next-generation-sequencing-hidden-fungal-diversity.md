@@ -1,5 +1,6 @@
 ---
 title: Next-Generation Sequencing and Hidden Fungal Diversity
+created: 2026-04-28
 tags:
   - mycology
   - metagenomics
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+type: concept
 ---
 
 # Next-Generation Sequencing and Hidden Fungal Diversity

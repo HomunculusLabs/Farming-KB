@@ -1,10 +1,12 @@
 ---
 title: Psilocybin and Psilocin Stability, Degradation, and Volatility in Fungi
+created: 2026-04-28
 tags: [mycology, psilocybin, psilocin, neurotropic-fungi, chemistry, stability, degradation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "A Worldwide Geographical Distribution of the Neurotropic Fungi, Guzman, Allen & Gartz (2000)"
+type: concept
 ---
 
 # Psilocybin and Psilocin Stability, Degradation, and Volatility in Fungi

@@ -1,9 +1,11 @@
 ---
 title: "How to Build a Compost Pile That Works"
+created: 2026-04-28
 tags: [query, composting, soil-science, organic-farming, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Build a Compost Pile That Works

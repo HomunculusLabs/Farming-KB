@@ -1,9 +1,11 @@
 ---
 title: "What is the Difference Between Organic and Synthetic Nutrients for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, organic, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
+type: query
 ---
 
 # What is the Difference Between Organic and Synthetic Nutrients for Cannabis?

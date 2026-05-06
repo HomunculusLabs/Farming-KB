@@ -1,5 +1,6 @@
 ---
 title: Wild Fermentation vs. Commercial Starter Culture Fermentation
+created: 2026-04-28
 tags: [fermentation, microbiology, food-preservation, wild-yeast, starter-culture, probiotics, food-science, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - Marco, Maria L., et al. "The ISAPP Consensus Statement on Fermented Foods." *Nature Reviews Gastroenterology & Hepatology* 18 (2021): 196–208.
   - Porter, Nicholas T., et al. "The Diversity and Function of Sourdough Microbiota." *Microbiome* 12 (2024): 66.
   - Steinkraus, Keith H. *Handbook of Indigenous Fermented Foods*. 2nd ed. Marcel Dekker, 1996.
+type: comparison
 ---
 
 # Wild Fermentation vs. Commercial Starter Culture Fermentation

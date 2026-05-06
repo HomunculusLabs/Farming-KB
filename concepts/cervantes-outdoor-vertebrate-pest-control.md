@@ -1,5 +1,6 @@
 ---
 title: Outdoor Vertebrate Pest Control
+created: 2026-04-28
 tags:
   - vertebrate-pests
   - outdoor-growing
@@ -15,6 +16,7 @@ synonyms:
   - mole control cannabis
   - rodent control cannabis
   - animal pests cannabis
+type: concept
 ---
 
 # Outdoor Vertebrate Pest Control

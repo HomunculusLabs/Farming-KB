@@ -1,5 +1,6 @@
 ---
 title: Hypholoma fasciculare
+created: 2026-04-28
 type: species
 tags: [basidiomycete, wood-decay, mycelial-foraging, fractal-mycelium, saprotroph]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Greenhouse vs Cold Frame"
+created: 2026-04-28
 tags: [comparison, season-extension, structures, growing-infrastructure]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Greenhouse vs Cold Frame

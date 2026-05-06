@@ -1,5 +1,6 @@
 ---
 title: Fermented Plant Juice (FPJ)
+created: 2026-04-28
 type: species
 tags: [korean-natural-farming, fermentation, plant-nutrition, foliar-spray, cho-han-kyu]
 date: 2026-04-28

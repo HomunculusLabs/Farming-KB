@@ -1,9 +1,11 @@
 ---
 title: Lysergic Acid Amide Discovery in Ololiuhqui
+created: 2026-04-28
 tags: [ethnobotany, chemistry, morning-glory, ergot-alkaloids, hofmann]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hofmann-a-lsd-my-problem-child.md"]
+type: concept
 ---
 
 # Lysergic Acid Amide Discovery in Ololiuhqui

@@ -1,10 +1,12 @@
 ---
 title: Sclerotia Production in Jars on Grass Seed Substrate
+created: 2026-04-28
 tags: [sclerotia, psilocybe-mexicana, psilocybe-tampanensis, grass-seed-substrate, stone-mushrooms, truffle-like-fungi, indoor-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Cultivation of fruitbodies and sclerotia on sterilised grass seed (GUID, Exotic Cultivation Series)"
+type: concept
 ---
 
 # Sclerotia Production in Jars on Grass Seed Substrate

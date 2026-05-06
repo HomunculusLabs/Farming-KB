@@ -1,5 +1,6 @@
 ---
 title: "P.A. Yeomans"
+created: 2026-04-28
 type: person
 tags:
   - permaculture

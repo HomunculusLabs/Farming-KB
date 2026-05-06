@@ -1,5 +1,6 @@
 ---
 title: "Avocado Cultivation vs Mango Cultivation"
+created: 2026-04-28
 tags:
   - permaculture
   - food-forest
@@ -13,6 +14,7 @@ sources:
   - "University of Florida IFAS Extension — Mango Growing in the Florida Home Landscape (2024)"
   - "Martin Crawford, Creating a Forest Garden, 2nd ed., Green Books (2022)"
   - "FAO — Ecological Orchard Management for Subtropical Fruits (2023)"
+type: comparison
 ---
 
 # Avocado Cultivation vs Mango Cultivation

@@ -1,5 +1,6 @@
 ---
 title: Clay Pellet Seed Encapsulation
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -12,6 +13,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: "The Natural Way of Farming"
+type: concept
 ---
 Masanobu Fukuoka developed the clay pellet (seed ball) technique as a
 cornerstone of his natural farming method. The pellets encapsulate seeds

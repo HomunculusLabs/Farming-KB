@@ -1,5 +1,6 @@
 ---
 title: Sceletium tortuosum
+created: 2026-04-28
 type: species
 tags: [aizoaceae, alkaloid, south-africa, entheogen, traditional-medicine]
 date: 2026-04-28

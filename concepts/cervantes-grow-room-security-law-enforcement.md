@@ -1,5 +1,6 @@
 ---
 title: Grow Room Security and Law Enforcement Evasion
+created: 2026-04-28
 tags:
   - cannabis-security
   - law-enforcement
@@ -15,6 +16,7 @@ synonyms:
   - thermal imaging defense
   - asset forfeiture
   - RICO laws cannabis
+type: concept
 ---
 
 # Grow Room Security and Law Enforcement Evasion

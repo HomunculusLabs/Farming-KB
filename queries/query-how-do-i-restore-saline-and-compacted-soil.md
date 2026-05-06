@@ -1,5 +1,6 @@
 ---
 title: "How Do I Restore Saline and Compacted Soil?"
+created: 2026-04-28
 tags: [soil-restoration, saline-soil, soil-compaction, phytoremediation, gypsum, leaching, halophytes, cover-crops, drainage, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,6 +13,7 @@ sources:
   - Ghassemi, F., A.J. Jakeman, and H.A. Nix. Salinisation of Land and Water Resources. CABI, 1995.
   - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of Arid Environments, vol. 175, 2020, 104079.
   - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
+type: query
 ---
 
 # How Do I Restore Saline and Compacted Soil?

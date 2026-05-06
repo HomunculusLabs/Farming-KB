@@ -1,5 +1,6 @@
 ---
 title: "Free-Living vs Parasitic Nematodes: A Comparison for Farmers and Gardeners"
+created: 2026-04-28
 tags:
   - nematodes
   - soil-health
@@ -13,6 +14,7 @@ sources:
   - "Khan, Z., & Kim, Y.H. (2007). A review on the role of predatory soil nematodes in the biological control of plant parasitic nematodes. Applied Soil Ecology, 35(2), 370–379."
   - "Abawi, G.S., & Widmer, T.L. (2000). Impact of soil health management practices on soilborne pathogens, nematodes and root diseases of vegetable crops. Applied Soil Ecology, 15(1), 37–47."
   - "Kerry, B.R. (2000). Rhizosphere interactions and the exploitation of microbial agents for the biological control of plant-parasitic nematodes. Annual Review of Phytopathology, 38, 423–441."
+type: comparison
 ---
 
 # Free-Living vs Parasitic Nematodes

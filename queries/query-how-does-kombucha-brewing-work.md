@@ -1,9 +1,11 @@
 ---
 title: "How Does Kombucha Brewing Work"
+created: 2026-04-28
 tags: [query, kombucha, fermentation, probiotics, beverages]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Kombucha Brewing Work

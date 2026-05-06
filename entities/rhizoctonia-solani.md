@@ -1,5 +1,6 @@
 ---
 title: Rhizoctonia solani
+created: 2026-04-28
 type: species
 tags: [plant-pathogen, basidiomycete, soil-borne, mycelial-growth, model-organism]
 date: 2026-04-28

@@ -1,10 +1,12 @@
 ---
 title: Natural Livestock Farming as Pursuit of Unconditional Truth
+created: 2026-04-28
 tags: [livestock, truth, natural-farming, philosophy, animal-husbandry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Livestock Farming as Pursuit of Unconditional Truth

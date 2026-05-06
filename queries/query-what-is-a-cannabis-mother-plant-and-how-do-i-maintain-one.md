@@ -1,9 +1,11 @@
 ---
 title: "What Is a Cannabis Mother Plant and How Do I Maintain One?"
+created: 2026-04-28
 tags: [query, cannabis, propagation, cloning, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is a Cannabis Mother Plant and How Do I Maintain One?

@@ -1,10 +1,12 @@
 ---
 title: "Use and Value Renewable Resources and Services — Permaculture Principle 5"
+created: 2026-04-28
 tags: [permaculture, design-principles, renewable-resources, ecology, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Use and Value Renewable Resources and Services — Permaculture Principle 5

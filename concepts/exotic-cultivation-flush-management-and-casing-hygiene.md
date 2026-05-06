@@ -1,5 +1,6 @@
 ---
 title: Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
+created: 2026-04-28
 tags:
   - mycology
   - fruiting
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Flush Management and Casing Hygiene in Exotic Mushroom Cultivation

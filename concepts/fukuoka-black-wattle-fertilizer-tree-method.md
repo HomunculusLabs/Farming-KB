@@ -1,9 +1,11 @@
 ---
 title: "Black Wattle as Fertilizer Tree and Beneficial Insect Host"
+created: 2026-04-28
 tags: [black-wattle, acacia, fertilizer-tree, nitrogen-fixation, shelterbelt, beneficial-insects, ladybug]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 The black wattle ([[acacia]] species) serves as both a fertilizer tree

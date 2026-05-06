@@ -1,5 +1,6 @@
 ---
 title: ESPAD School Survey Perceived Availability of Magic Mushrooms
+created: 2026-04-28
 tags:
   - emcdda
   - espad
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+type: concept
 ---
 
 # ESPAD School Survey: Perceived Availability of Magic Mushrooms

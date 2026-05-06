@@ -1,9 +1,11 @@
 ---
 title: "Bamboo Construction vs Cob Building"
+created: 2026-04-28
 tags: [comparison, natural-building, bamboo, cob, sustainable-construction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Bamboo Construction vs Cob Building

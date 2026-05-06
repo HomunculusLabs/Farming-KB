@@ -1,10 +1,12 @@
 ---
 title: JADAM Ultra-Low-Cost Technology
+created: 2026-04-28
 tags: [jadam, ultra-low-cost, organic-farming, korean-farming, microorganisms]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+type: concept
 ---
 
 # JADAM Ultra-Low-Cost Technology

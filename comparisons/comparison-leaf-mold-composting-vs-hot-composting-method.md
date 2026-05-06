@@ -1,9 +1,11 @@
 ---
 title: "Leaf Mold Composting vs Hot Composting"
+created: 2026-04-28
 tags: [comparison, composting, soil, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Leaf Mold Composting vs Hot Composting

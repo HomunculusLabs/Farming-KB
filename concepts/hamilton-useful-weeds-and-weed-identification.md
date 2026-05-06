@@ -1,5 +1,6 @@
 ---
 title: Useful Weeds and Weed Identification
+created: 2026-04-28
 tags:
   - organic-gardening
   - weeds
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Useful Weeds and Weed Identification

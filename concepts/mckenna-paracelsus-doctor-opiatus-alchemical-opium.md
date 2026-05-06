@@ -1,10 +1,12 @@
 ---
 title: "Paracelsus, Doctor Opiatus, and the Alchemical Revival of Opium"
+created: 2026-04-28
 tags: [opium, paracelsus, alchemy, psychopharmacology, McKenna, food-of-the-gods, history-of-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
+type: concept
 ---
 
 # Paracelsus, Doctor Opiatus, and the Alchemical Revival of Opium

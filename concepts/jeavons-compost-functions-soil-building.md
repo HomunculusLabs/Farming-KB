@@ -1,10 +1,12 @@
 ---
 title: Compost Functions in Soil Building
+created: 2026-04-28
 tags: [biointensive, compost, soil-building, humus, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Compost Functions in Soil Building

@@ -1,10 +1,12 @@
 ---
 title: Button Mushroom (Agaricus bisporus) Commercial Cultivation
+created: 2026-04-28
 tags: [mushroom-cultivation, agaricus, compost-based, commercial-methods, species-guide]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Button Mushroom (Agaricus bisporus) Commercial Cultivation

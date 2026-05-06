@@ -1,6 +1,8 @@
 ---
 title: "Quantum Error Correction"
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Quantum Error Correction

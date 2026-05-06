@@ -1,10 +1,12 @@
 ---
 title: "How do I cure cannabis in jars without mold?"
+created: 2026-04-28
 tags: [query, cannabis, curing, post-harvest]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How do I cure cannabis in jars without mold?

@@ -1,5 +1,6 @@
 ---
 title: Psilocybe subfimetaria
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, australia, dung-inhabiting]
 date: 2026-04-28

@@ -1,7 +1,9 @@
 ---
 title: "C3, C4, and CAM Photosynthesis — Plant Carbon Fixation Pathways"
+created: 2026-04-28
 aliases: [photosynthesis pathways, carbon fixation, C4 photosynthesis, CAM photosynthesis, Hatch-Slack pathway, crassulacean acid metabolism, Kranz anatomy]
 tags: [botany, plant-physiology, photosynthesis, agriculture, crop-science, plant-biology, biochemistry, ecology]
+type: concept
 ---
 
 Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, temperature tolerance, and growth rate. Understanding these pathways is central to crop science, plant breeding, and predicting agricultural responses to climate change.

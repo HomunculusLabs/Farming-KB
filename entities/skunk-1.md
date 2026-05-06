@@ -1,5 +1,6 @@
 ---
 title: "Skunk #1"
+created: 2026-04-28
 type: strain
 tags: [cannabis, hybrid, landrace-cross, foundational-genetics, heirloom]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Lentinan"
+created: 2026-04-28
 tags: [compound, polysaccharide, beta-glucan, pharmaceutical]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # Lentinan

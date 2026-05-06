@@ -1,11 +1,13 @@
 ---
 title: Fairy Rings and Giant Armillaria Mycelia
+created: 2026-04-28
 tags: [fairy-ring, armillaria, mycelium, fungal-colony, giant-organism,
       hyphal-growth, fungal-ecology, basidiomycete]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Fairy rings are among the most visible and enchanting manifestations

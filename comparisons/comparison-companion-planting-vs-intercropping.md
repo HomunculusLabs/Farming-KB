@@ -1,9 +1,11 @@
 ---
 title: "Companion Planting vs Intercropping"
+created: 2026-04-28
 tags: [comparison, polyculture, organic-growing, plant-interactions]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Companion Planting vs Intercropping
 Both companion planting and intercropping involve growing multiple species together for mutual benefit, but they differ significantly in scale, scientific rigor, and primary objectives. Understanding these distinctions helps growers choose the right approach for their context. This comparison covers definitions, mechanisms, advantages, limitations, and practical guidance for selecting between the two strategies.

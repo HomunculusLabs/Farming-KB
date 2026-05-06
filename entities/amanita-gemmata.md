@@ -1,5 +1,6 @@
 ---
 title: Amanita gemmata
+created: 2026-04-28
 type: species
 tags: [amanitaceae, mycorrhizal, psychoactive, ibotenic-acid, muscimol]
 date: 2026-04-28

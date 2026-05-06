@@ -1,5 +1,6 @@
 ---
 title: Lambsbread
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -148,3 +149,11 @@ status as the most culturally significant Jamaican strain.
 - **Height:** Very tall — can exceed 2.5 m outdoors
 - **Flowering time:** 12–14 weeks indoors (long)
 - **Yield:** Moderate — 300–450 g/m² indoors; 400–700 g/plant outdoors
+
+## See Also
+
+- [[cannabis-for-breast-cancer]]
+
+- [[cannabis-for-depression]]
+
+- [[set-and-setting]]

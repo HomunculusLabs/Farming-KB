@@ -1,11 +1,13 @@
 ---
 title: "Natural Pest Control and Disease Management in Mushroom Cultivation"
+created: 2026-04-28
 tags: [pest-control, disease-management, mushroom-cultivation, IPM,
       fungus-gnats, mold-control, Trichoderma, biological-control,
       sanitation, fruit-flies, cotter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+type: concept
 ---
 
 # Natural Pest Control [[organic-pest-and-disease-management]]

@@ -1,5 +1,6 @@
 ---
 title: Lactic Acid Bacteria Serum (LABS)
+created: 2026-04-28
 type: species
 tags: [korean-natural-farming, lactic-acid-bacteria, fermentation, soil-amendment, biological-control]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Lactobacillus
+created: 2026-04-28
 type: species
 tags: [lactic-acid-bacteria, probiotic, fermentation, soil-biology, korean-natural-farming]
 date: 2026-04-28

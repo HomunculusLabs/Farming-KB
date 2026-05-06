@@ -1,10 +1,12 @@
 ---
 title: Oriental Herbal Nutrient Preparation (Cho's Method)
+created: 2026-04-28
 tags: [knf, input-preparation, herbal-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 The Oriental Herbal Nutrient (OHN) is a very important input in Dr.

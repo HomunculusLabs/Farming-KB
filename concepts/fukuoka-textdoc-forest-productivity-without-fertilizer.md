@@ -1,5 +1,6 @@
 ---
 title: Forest Productivity Without Fertilizer — Mountain Soil as Living Proof
+created: 2026-04-28
 tags:
   - natural-farming
   - soil-fertility
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: 3243-3281
+type: concept
 ---
 
 # Forest Productivity Without Fertilizer

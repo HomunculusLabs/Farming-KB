@@ -1,5 +1,6 @@
 ---
 title: "Hypogeous Fungi and Mammal-Mediated Spore Dispersal"
+created: 2026-04-28
 tags:
   - hypogeous-fungi
   - spore-dispersal
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Hypogeous Fungi and Mammal-Mediated Spore Dispersal

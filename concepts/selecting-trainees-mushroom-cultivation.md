@@ -1,11 +1,13 @@
 ---
 title: Selecting Trainees for Mushroom Cultivation
+created: 2026-04-28
 tags: [trainee-selection, disability-inclusion, training-program,
   screening-criteria, mushroom-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Selecting Trainees for Mushroom Cultivation

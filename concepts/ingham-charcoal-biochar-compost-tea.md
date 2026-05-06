@@ -1,9 +1,11 @@
 ---
 title: Charcoal and Biochar in Compost Tea Systems
+created: 2026-04-28
 tags: [biochar, charcoal, compost-tea, soil-amendment, carbon]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Charcoal and [[biochar]] in Compost Tea Systems

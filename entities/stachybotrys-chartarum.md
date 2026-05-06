@@ -1,5 +1,6 @@
 ---
 title: Stachybotrys chartarum
+created: 2026-04-28
 type: species
 tags: [indoor-mould, mycotoxin, ascomycete, building-damage, health-hazard]
 date: 2026-04-28

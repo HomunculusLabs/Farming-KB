@@ -1,9 +1,11 @@
 ---
 title: "Organic Approved Chemical Sprays"
+created: 2026-04-28
 tags: [organic-sprays, pesticides, fungicides, pest-control, disease-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Organic Approved Chemical Sprays

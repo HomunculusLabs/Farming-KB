@@ -1,9 +1,11 @@
 ---
 title: Fungal Ecosystem Services
+created: 2026-04-28
 tags: [ecology, fungi, ecosystem-services, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Ecosystem Services

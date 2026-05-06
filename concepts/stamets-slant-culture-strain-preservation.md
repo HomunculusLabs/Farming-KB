@@ -1,9 +1,11 @@
 ---
 title: Slant Culture Preparation and Strain Preservation (Stamets)
+created: 2026-04-28
 tags: [mushroom-cultivation, strain-preservation, slant-culture, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Slant Culture Preparation and Strain Preservation

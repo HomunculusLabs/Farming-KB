@@ -1,9 +1,11 @@
 ---
 title: Supplemental Feeding and Winter Management
+created: 2026-04-28
 tags: [holistic-management, livestock-nutrition, winter-feeding, grazing-planning, ranch-economics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Supplemental Feeding and Winter Management

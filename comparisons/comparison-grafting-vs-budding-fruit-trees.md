@@ -1,5 +1,6 @@
 ---
 title: Grafting vs Budding Fruit Trees
+created: 2026-04-28
 tags: grafting, budding, fruit-trees, propagation, plant-propagation, orcharding
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.canr.msu.edu/news/fruit_tree_grafting_techniques
   - https://www.rhs.org.uk/fruit/grafting-fruit-trees
   - https://www.fao.org/3/x5698e/x5698e00.htm
+type: comparison
 ---
 
 # Grafting vs Budding Fruit Trees

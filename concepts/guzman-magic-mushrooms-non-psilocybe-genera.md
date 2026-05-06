@@ -1,9 +1,11 @@
 ---
 title: Psychoactive Mushroom Species in Non-Psilocybe Genera
+created: 2026-04-28
 tags: [mycology, amanita, panaeolus, gymnopilus, fungal-taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+type: concept
 ---
 
 # Psychoactive Mushroom Species in Non-Psilocybe Genera

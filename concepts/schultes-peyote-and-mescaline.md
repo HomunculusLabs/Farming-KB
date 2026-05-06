@@ -1,5 +1,6 @@
 ---
 title: "Peyote and Mescaline-Containing Cacti"
+created: 2026-04-28
 tags:
   - peyote
   - mescaline
@@ -12,6 +13,7 @@ sources:
   [
     "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
   ]
+type: concept
 ---
 
 # Peyote and Mescaline-Containing Cacti

@@ -1,9 +1,11 @@
 ---
 title: Masanobu Fukuoka
+created: 2026-04-28
 tags: [biography, agriculture, philosophy, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Masanobu Fukuoka

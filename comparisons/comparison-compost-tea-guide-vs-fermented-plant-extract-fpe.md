@@ -1,10 +1,12 @@
 ---
 title: "Compost Tea vs Fermented Plant Extract"
+created: 2026-04-28
 tags: [comparison, liquid-fertility, soil-biology, organic-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: comparison
 ---
 
 # Compost Tea vs Fermented Plant Extract

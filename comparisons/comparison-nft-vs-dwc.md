@@ -1,9 +1,11 @@
 ---
 title: "NFT vs DWC"
+created: 2026-04-28
 tags: [comparison, hydroponics, cannabis, growing-methods, water-culture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # NFT vs DWC

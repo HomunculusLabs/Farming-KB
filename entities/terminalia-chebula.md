@@ -1,5 +1,6 @@
 ---
 title: "Terminalia chebula"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -154,5 +155,9 @@ and enhances angiogenesis.
 - May potentiate anticoagulant therapy
 
 ## See Also
+
+- [[herbal-medicine]]
+
+- [[medicinal-mushrooms]]
 
 - [[phyllanthus-emblica]]

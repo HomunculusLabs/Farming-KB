@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Cubensis Miniculture on Rye Grain
+created: 2026-04-28
 tags:
   - psilocybe-cubensis
   - cultivation
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+type: concept
 ---
 
 # Psilocybe Cubensis Miniculture on Rye Grain

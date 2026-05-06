@@ -1,9 +1,11 @@
 ---
 title: "Plants and Electromagnetism"
+created: 2026-04-28
 tags: [electromagnetism, electricity, plant-growth, electroculture, atmospheric-electricity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Plants and Electromagnetism

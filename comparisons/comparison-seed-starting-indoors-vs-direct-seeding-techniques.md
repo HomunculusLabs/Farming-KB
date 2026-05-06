@@ -1,9 +1,11 @@
 ---
 title: "Seed Starting Indoors vs Direct Seeding"
+created: 2026-04-28
 tags: [comparison, seeds, gardening, planting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Seed Starting Indoors vs Direct Seeding

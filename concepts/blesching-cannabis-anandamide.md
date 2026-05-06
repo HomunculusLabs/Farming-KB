@@ -1,9 +1,11 @@
 ---
 title: "Anandamide and Endogenous Cannabinoids"
+created: 2026-04-28
 tags: [anandamide, endocannabinoid, 2-AG, bliss-molecule, endogenous]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Anandamide and Endogenous Cannabinoids

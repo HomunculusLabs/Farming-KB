@@ -1,5 +1,6 @@
 ---
 title: "Kavalactones"
+created: 2026-04-28
 type: chemical
 tags:
   - psychoactive
@@ -138,6 +139,10 @@ sources:
 | South Pacific | Unrestricted; culturally protected |
 
 ## See Also
+
+- [[entheogen-culture]]
+
+- [[piper-methysticum-entity]]
 
 - [[glucuronidation]]
 

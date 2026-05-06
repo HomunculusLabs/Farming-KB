@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Strains (Sativa vs Indica)"
+created: 2026-04-28
 tags: [cannabis, strains, sativa, indica, thc-cbd-ratio, strain-selection]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Strains (Sativa vs Indica)

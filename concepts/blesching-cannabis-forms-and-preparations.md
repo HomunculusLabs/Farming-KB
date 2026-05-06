@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Forms and Preparations"
+created: 2026-04-28
 tags: [cannabis, preparations, tinctures, edibles, topicals, vaporization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Forms and Preparations

@@ -1,8 +1,10 @@
 ---
 title: Glycolysis and the Embden-Meyerhof-Parnas Pathway
+type: concept
 aliases: [glycolysis, EMP pathway, Embden-Meyerhof-Parnas, glycolytic pathway, glucose catabolism, glycolytic flux]
 tags: [biochemistry, metabolism, cellular-respiration, enzyme-kinetics, carbohydrate-metabolism, energy-metabolism]
 created: 2026-05-02
+type: concept
 ---
 
 Glycolysis (from Greek glykys, sweet, and lysis, splitting) is the universal

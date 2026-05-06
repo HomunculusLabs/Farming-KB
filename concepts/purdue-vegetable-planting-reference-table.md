@@ -1,5 +1,6 @@
 ---
 title: Purdue Vegetable Planting Reference Table
+created: 2026-04-28
 tags:
   - vegetable-gardening
   - planting-guide
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Purdue Vegetable Planting Reference Table

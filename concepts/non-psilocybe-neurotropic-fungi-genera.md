@@ -1,10 +1,12 @@
 ---
 title: Non-Psilocybe Neurotropic Fungi Genera
+created: 2026-04-28
 tags: [mycology, amanita, gymnopilus, copelandia, inocybe, claviceps, chemistry, neurotropic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998/2000;14:189-280."
+type: concept
 ---
 
 # Non-Psilocybe Neurotropic Fungi Genera

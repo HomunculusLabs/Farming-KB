@@ -1,9 +1,11 @@
 ---
 title: Palmer on Popular Mushroom Tests and Errors
+created: 2026-04-28
 tags: [mushroom-myths, popular-errors, identification, nineteenth-century, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+type: concept
 ---
 
 # Palmer on Popular Mushroom Tests and Errors

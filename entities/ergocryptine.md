@@ -1,5 +1,6 @@
 ---
 title: "Ergocryptine"
+created: 2026-04-28
 type: chemical
 tags:
   - ergot-alkaloid

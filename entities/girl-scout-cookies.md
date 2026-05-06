@@ -1,5 +1,6 @@
 ---
 title: "Girl Scout Cookies"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, cookie-family, bay-area-genetics, high-thc]
 date: 2026-04-28
@@ -168,6 +169,8 @@ overstate. It catalyzed several major shifts:
   becoming iconic.
 
 ## See Also
+
+- [[animal-face]]
 - [[og-kush]]
 - [[sour-diesel]]
 - [[blue-dream]]

@@ -1,9 +1,11 @@
 ---
 title: "Cunninghamella elegans in Bioremediation"
+created: 2026-04-28
 tags: [mycoremediation, pah-biodegradation, cytochrome-p450, zygomycetes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Cunninghamella elegans in Bioremediation

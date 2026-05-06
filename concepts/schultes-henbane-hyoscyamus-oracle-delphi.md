@@ -1,9 +1,11 @@
 ---
 title: "Henbane (Hyoscyamus) in Antiquity"
+created: 2026-04-28
 tags: [ethnobotany, henbane, hyoscyamus, europe, oracle-delphi, solanaceae, tropane, witchcraft]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Henbane (Hyoscyamus) in Antiquity

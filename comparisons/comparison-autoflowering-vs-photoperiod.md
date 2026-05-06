@@ -1,9 +1,11 @@
 ---
 title: "Autoflowering vs Photoperiod Cannabis"
+created: 2026-04-28
 tags: [comparison, cannabis, genetics, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Autoflowering vs Photoperiod Cannabis

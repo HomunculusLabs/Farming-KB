@@ -1,5 +1,6 @@
 ---
 title: Roland Fischer Psilocybin Visual Acuity Experiments
+created: 2026-04-28
 tags:
   - psilocybin
   - visual-acuity
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Roland Fischer Psilocybin Visual Acuity Experiments

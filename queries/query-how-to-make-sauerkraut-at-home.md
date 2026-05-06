@@ -1,5 +1,6 @@
 ---
 title: "How to Make Sauerkraut at Home"
+created: 2026-04-28
 tags: [query, fermentation, sauerkraut, food-preservation, probiotics]
 date: 2026-04-25
 updated: 2026-04-25
@@ -7,6 +8,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+type: query
 ---
 
 # How to Make Sauerkraut at Home

@@ -1,5 +1,6 @@
 ---
 title: "JADAM Root Diagnosis and Soil Health Indicators"
+created: 2026-04-28
 tags:
   - soil-health
   - root-diagnosis
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+type: concept
 ---
 
 # JADAM Root Diagnosis and [[soil-health-indicators]]

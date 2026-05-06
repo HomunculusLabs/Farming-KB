@@ -1,10 +1,12 @@
 ---
 title: Sweet Flag (Acorus calamus) Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, hallucinogenic-plants, medicinal-plants, araceae, ethnopharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - a-golden-guide-to-hallucinogenic-plants.md
+type: concept
 ---
 
 # Sweet Flag (Acorus calamus) Ethnobotany

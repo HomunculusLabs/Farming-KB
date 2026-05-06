@@ -1,10 +1,12 @@
 ---
 title: "How Do I Build and Manage a Greywater System for Garden Irrigation?"
+created: 2026-04-28
 tags: [query, greywater, permaculture, water, irrigation, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How Do I Build and Manage a Greywater System for Garden Irrigation?

@@ -1,10 +1,12 @@
 ---
 title: Fukuoka's Critique of Scientific Agriculture
+created: 2026-04-28
 tags: [natural-farming, philosophy-of-science, agricultural-science, fukuoka, sustainability, energy-efficiency]
 date: 2026-04-28
 updated: 2026-05-03
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka's Critique of Scientific Agriculture

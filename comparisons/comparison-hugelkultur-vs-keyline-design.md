@@ -1,5 +1,6 @@
 ---
 title: "Hugelkultur vs Keyline Design"
+created: 2026-04-28
 tags:
   - permaculture
   - water-management
@@ -16,6 +17,7 @@ sources:
   - "Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens. Chelsea Green Publishing, 2005."
   - "Mollison, Bill. Permaculture: A Designers' Manual. Tagari Publications, 1988."
   - "Shepard, Mark. Restoration Agriculture. Acres U.S.A., 2013."
+type: comparison
 ---
 
 # Hugelkultur vs Keyline Design

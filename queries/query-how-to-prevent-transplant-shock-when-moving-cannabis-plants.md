@@ -1,9 +1,11 @@
 ---
 title: "How to Prevent Transplant Shock When Moving Cannabis Plants"
+created: 2026-04-28
 tags: [query, cannabis, transplanting, plant-care, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Prevent Transplant Shock When Moving Cannabis Plants

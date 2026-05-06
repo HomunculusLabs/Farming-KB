@@ -1,9 +1,11 @@
 ---
 title: "Pierre Paul Sauvin and Plant ESP Electronics"
+created: 2026-04-28
 tags: [sauvin, plant-esp, bioelectricity, electronics, backster-effect, telepathy, consciousness-research]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Pierre Paul Sauvin and Plant ESP Electronics

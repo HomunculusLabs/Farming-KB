@@ -1,9 +1,11 @@
 ---
 title: "Endophytic Fungi as Mutualistic Symbionts"
+created: 2026-04-28
 tags: [mycology, endophytes, symbiosis, plant-defense]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # [[endophytic-fungi]] as Mutualistic Symbionts

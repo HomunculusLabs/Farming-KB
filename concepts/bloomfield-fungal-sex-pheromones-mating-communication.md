@@ -1,5 +1,6 @@
 ---
 title: Fungal Sex — Pheromones and Mating Communication
+created: 2026-04-28
 tags:
   - mycology
   - reproduction
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Fungal Sex — Pheromones and Mating Communication

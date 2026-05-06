@@ -1,5 +1,6 @@
 ---
 title: "Croton lechleri"
+created: 2026-04-28
 type: species
 tags:
   - species
@@ -118,6 +119,10 @@ Sustainable harvesting protocols limit the number of cuts per tree and allow
 recovery periods between tappings.
 
 ## See Also
+
+- [[candida-albicans]]
+- [[mimosa-tenuiflora]]
+- [[uncaria-tomentosa]]
 
 [[Croton]] · [[Euphorbiaceae]] · [[Uncaria tomentosa]] · [[Bixa orellana]] ·
 [[Mimosa tenuiflora]] · [[Piper methysticum]] · [[Tabebuia]] ·

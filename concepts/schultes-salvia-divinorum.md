@@ -1,5 +1,6 @@
 ---
 title: "Salvia Divinorum"
+created: 2026-04-28
 tags:
   - salvia-divinorum-entity
   - salvinorin
@@ -12,6 +13,7 @@ sources:
   [
     "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
   ]
+type: concept
 ---
 
 # Salvia Divinorum

@@ -1,9 +1,11 @@
 ---
 title: "Energy Tetrahedron"
+created: 2026-04-28
 tags: [energy-flow, ecosystem, productivity, time, leaf-area]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Energy Tetrahedron

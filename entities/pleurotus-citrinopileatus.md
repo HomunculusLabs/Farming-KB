@@ -1,5 +1,6 @@
 ---
 title: "Pleurotus citrinopileatus"
+created: 2026-04-28
 type: species
 tags: [fungi, edible-mushroom, oyster-mushroom, cultivation, mycology, saprotroph]
 date: 2026-04-28

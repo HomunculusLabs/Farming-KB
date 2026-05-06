@@ -1,9 +1,11 @@
 ---
 title: "How Do I Start a Medicinal Herb Garden?"
+created: 2026-04-28
 tags: [query, medicinal-herbs, gardening, beginner-guide, herbs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Start a Medicinal Herb Garden?

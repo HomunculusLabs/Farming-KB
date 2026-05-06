@@ -1,5 +1,6 @@
 ---
 title: "Bjerkandera adusta"
+created: 2026-04-28
 type: organism
 aliases:
   - "smoky polypore"

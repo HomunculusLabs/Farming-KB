@@ -1,5 +1,6 @@
 ---
 title: Hugelkultur vs. Terra Preta for Soil Building
+created: 2026-04-28
 tags:
   - hugelkultur
   - terra-preta
@@ -17,6 +18,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/terra-preta
   - https://www.biochar-international.org/
   - https://www.fao.org/3/i4683e/i4683e.pdf
+type: comparison
 ---
 
 # Hugelkultur vs. Terra Preta for Soil Building

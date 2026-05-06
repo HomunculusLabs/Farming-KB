@@ -76,6 +76,8 @@ Three stereoisomers (d-iso-LSD, l-LSD, l-iso-LSD) are all completely inactive, d
 
 ## See Also
 
+- [[1b-lsd]]
+
 - [[eth-lad-entity-tihkal]] -- less aggressive LSD analogue
 - [[al-lad-entity-tihkal]] -- sweeter, shorter LSD analogue
 - [[pro-lad-entity-tihkal]] -- 6-propyl analogue

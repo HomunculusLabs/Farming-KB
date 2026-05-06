@@ -1,9 +1,11 @@
 ---
 title: Cannabis KNF FFJ Ripeness Progression Through Flowering
+created: 2026-04-28
 tags: [knf, cannabis, fermentation, flowering, organic-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-natural-farming-poster.md]
+type: concept
 ---
 
 # Cannabis KNF FFJ Ripeness Progression Through Flowering

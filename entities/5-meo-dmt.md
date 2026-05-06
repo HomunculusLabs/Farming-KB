@@ -1,5 +1,6 @@
 ---
 title: 5-MeO-DMT
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, entheogen, serotonergic, natural-product]
 date: 2026-04-28

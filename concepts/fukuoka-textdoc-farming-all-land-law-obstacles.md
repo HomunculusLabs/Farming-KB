@@ -1,5 +1,6 @@
 ---
 title: Farming for All: Land Availability and Legal Obstacles
+created: 2026-04-28
 tags:
   - fukuoka
   - farming-for-all
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 8145-8337)
+type: concept
 ---
 
 # Farming for All: Land Availability and Legal Obstacles

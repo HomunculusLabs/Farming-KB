@@ -1,5 +1,6 @@
 ---
 title: Twilight-State Thinking in Food of the Gods
+created: 2026-04-28
 tags: [consciousness, cognition, paleolithic, mckenna, cave-art]
 date: 2026-04-28
 updated: 2026-04-28

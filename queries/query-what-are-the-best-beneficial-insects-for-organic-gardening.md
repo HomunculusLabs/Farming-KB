@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Beneficial Insects for Organic Gardening?"
+created: 2026-04-28
 tags: [query, beneficial-insects, ipm, organic, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: query
 ---
 
 # What Are the Best Beneficial Insects for Organic Gardening?

@@ -1,10 +1,12 @@
 ---
 title: Soil Foodweb Succession Bacteria Then Fungi Cycle
+created: 2026-04-28
 tags: [soil-science, soil-foodweb, ecological-succession, bacteria, fungi, compost, decomposition, ingham]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - ingham-field-guide-actively-aerated-compost-tea-2004
+type: concept
 ---
 
 # Soil Foodweb Succession: Bacteria Then Fungi Cycle

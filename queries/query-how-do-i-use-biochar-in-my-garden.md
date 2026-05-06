@@ -1,10 +1,12 @@
 ---
 title: "How Do I Use Biochar in My Garden?"
+created: 2026-04-28
 tags: [query, permaculture, soil-health, biochar, amendment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: query
 ---
 
 # How Do I Use Biochar in My Garden?

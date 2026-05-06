@@ -1,10 +1,12 @@
 ---
 title: "Plant Propagation Techniques"
+created: 2026-04-28
 tags: [propagation, cuttings, division, layering,
       grafting, plant-reproduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
+type: concept
 ---
 
 # [[plant-propagation]] Techniques

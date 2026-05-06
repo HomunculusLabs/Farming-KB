@@ -1,11 +1,13 @@
 ---
 title: "Nature Must Not Be Dissected: Limits of Scientific Analysis in Agriculture"
+created: 2026-04-28
 tags: [natural-farming, philosophy, scientific-method, reductionism, holism, epistemology, agriculture, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "1212-1400"
+type: concept
 ---
 
 # Nature Must Not Be Dissected: Limits of Scientific Analysis in Agriculture

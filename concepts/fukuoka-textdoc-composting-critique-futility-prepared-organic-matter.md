@@ -1,10 +1,12 @@
 ---
 title: Composting Critique and the Futility of Prepared Organic Matter
+created: 2026-04-28
 tags: [fukuoka, natural-farming, compost, organic-farming, soil-fertility, decomposition, mulberry, straw, no-fertilizer, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Composting Critique and the Futility of Prepared Organic Matter

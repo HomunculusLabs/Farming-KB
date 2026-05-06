@@ -1,10 +1,12 @@
 ---
 title: Root Foraging Behavior
+created: 2026-04-28
 tags: [plant-biology, root-systems, foraging, nutrient-sensing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Root Foraging Behavior

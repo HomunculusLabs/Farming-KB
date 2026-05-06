@@ -1,9 +1,11 @@
 ---
 title: "How to Prevent Hermaphrodite Cannabis Plants"
+created: 2026-04-28
 tags: [query, cannabis, hermaphrodite, flowering, stress]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Prevent Hermaphrodite Cannabis Plants

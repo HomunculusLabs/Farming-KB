@@ -146,3 +146,5 @@ The Brande account, with its documentation of complete recovery despite alarming
 The framing of the Green Park incident as "poisoning" rather than "experience" established a pattern that persisted for centuries. Modern researchers still encounter institutional resistance rooted in this mycophobic tradition.
 
 ## See Also
+
+

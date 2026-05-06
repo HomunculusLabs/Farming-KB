@@ -1,5 +1,6 @@
 ---
 title: Stigmasterol
+created: 2026-04-28
 type: chemical
 tags: [phytosterol, steroid, precursor, plant-chemistry]
 date: 2026-04-28

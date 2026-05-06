@@ -1,9 +1,11 @@
 ---
 title: Crop Watering and Flushing Management (Stamets)
+created: 2026-04-28
 tags: [watering, flushing, cropping, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Crop Watering and Flushing Management

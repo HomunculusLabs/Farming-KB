@@ -1,9 +1,11 @@
 ---
 title: "moringa"
+created: 2026-04-28
 tags: [species, plant, tree, superfood, multipurpose]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Moringa

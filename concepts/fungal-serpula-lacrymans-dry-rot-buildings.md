@@ -1,9 +1,11 @@
 ---
 title: "Serpula lacrymans and the Ecology of Dry Rot in Buildings"
+created: 2026-04-28
 tags: [fungal-ecology, wood-decay, built-environment, brown-rot, basidiomycetes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Serpula lacrymans and the Ecology of Dry Rot in Buildings

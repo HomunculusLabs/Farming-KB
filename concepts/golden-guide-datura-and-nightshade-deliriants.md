@@ -1,5 +1,6 @@
 ---
 title: "Golden Guide: Datura and Nightshade Deliriants"
+created: 2026-04-28
 tags: [hallucinogenic-plants, datura, nightshade, solanaceae, deliriants,
   tropane-alkaloids, scopolamine, atropine, belladonna, henbane, mandrake,
   brugmansia, witchcraft]
@@ -9,6 +10,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+type: concept
 ---
 
 # Datura, Nightshades, and Deliriant Hallucinogens

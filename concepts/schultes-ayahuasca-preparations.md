@@ -1,5 +1,6 @@
 ---
 title: "Ayahuasca Preparations and Botanical Sources"
+created: 2026-04-28
 tags:
   - ayahuasca
   - ethnobotany
@@ -12,6 +13,7 @@ sources:
   [
     "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
   ]
+type: concept
 ---
 
 # Ayahuasca Preparations and Botanical Sources

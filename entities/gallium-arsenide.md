@@ -1,5 +1,6 @@
 ---
 title: Gallium Arsenide
+created: 2026-04-28
 type: chemical
 aliases:
   - Gallium arsenide

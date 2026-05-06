@@ -1,9 +1,11 @@
 ---
 title: "How do I design habitat for beneficial insects?"
+created: 2026-04-28
 tags: [query, beneficial-insects, ipm, biodiversity]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I design habitat for beneficial insects?

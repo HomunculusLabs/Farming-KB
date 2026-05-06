@@ -1,5 +1,6 @@
 ---
 title: Ophiostoma minus
+created: 2026-04-28
 type: species
 tags: [fungi, plant-pathogen, bark-beetle-symbiosis, blue-stain, pine]
 date: 2026-04-28

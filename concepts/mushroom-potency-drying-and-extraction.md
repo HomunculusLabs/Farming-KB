@@ -1,10 +1,12 @@
 ---
 title: Mushroom Potency, Drying, and Extraction
+created: 2026-04-28
 tags: [potency, psilocybin, drying, desiccation, extraction]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+type: concept
 ---
 
 # Mushroom Potency, Drying, and Extraction

@@ -1,10 +1,12 @@
 ---
 title: European Psilocybin Mushroom Species Distribution and Identification
+created: 2026-04-28
 tags: [mycology, species-distribution, europe, psilocybin, hallucinogenic-mushrooms, emcdda]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # European Psilocybin Mushroom Species Distribution and Identification

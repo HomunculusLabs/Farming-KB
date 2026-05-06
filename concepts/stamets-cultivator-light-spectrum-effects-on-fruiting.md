@@ -1,10 +1,12 @@
 ---
 title: Light Spectrum Effects on Fruiting
+created: 2026-04-28
 tags: [environmental-control, light, phototropism, fruiting-stimulus, growing-room]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Light Spectrum Effects on Fruiting

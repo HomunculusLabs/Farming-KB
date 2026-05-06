@@ -1,10 +1,12 @@
 ---
 title: "Cellulase Enzyme Systems in Wood Rotting Fungi"
+created: 2026-04-28
 tags: [mycology, cellulase, enzyme-systems, wood-decay, bioremediation,
       fungal-enzymes, staycare]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Cellulase Enzyme Systems in Wood Rotting Fungi

@@ -1,10 +1,12 @@
 ---
 title: Arbuscular Mycorrhizal Proteomics Techniques
+created: 2026-04-28
 tags: [proteomics, mycorrhiza, AMF, protein-analysis, functional-genomics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/symbiotic-fungi.md
+type: concept
 ---
 
 # Arbuscular [[mycorrhizal-proteomics-techniques]]

@@ -1,5 +1,6 @@
 ---
 title: "Apios americana"
+created: 2026-04-28
 type: species
 tags:
   - species
@@ -121,6 +122,9 @@ documented the plant's importance in early American agricultural literature
 in the 19th century, noting its superior keeping quality and protein content.
 
 ## See Also
+
+- [[trifolium-repens]]
+- [[vicia-villosa]]
 
 - [[persea-americana-entity]]
 

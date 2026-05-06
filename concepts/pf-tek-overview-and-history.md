@@ -1,10 +1,12 @@
 ---
 title: PF TEK Overview and History
+created: 2026-04-28
 tags: [mycology, cultivation, psilocybe, tek, history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+type: concept
 ---
 
 # PF TEK Overview and History

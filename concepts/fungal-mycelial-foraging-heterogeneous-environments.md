@@ -1,9 +1,11 @@
 ---
 title: "Mycelial Foraging Strategies in Heterogeneous Environments"
+created: 2026-04-28
 tags: [fungal-ecology, mycelial-networks, foraging-behavior, basidiomycetes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Mycelial Foraging Strategies in Heterogeneous Environments

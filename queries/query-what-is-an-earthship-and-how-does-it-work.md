@@ -1,5 +1,6 @@
 ---
 title: "What Is an Earthship and How Does It Work?"
+created: 2026-04-28
 tags:
   - natural-building
   - earthship
@@ -13,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Is an Earthship and How Does It Work?

@@ -1,9 +1,11 @@
 ---
 title: "What Is Light Deprivation Cannabis Growing and How Does It Work?"
+created: 2026-04-28
 tags: [query, cannabis, outdoor, light-schedule, harvest-timing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Light Deprivation Cannabis Growing and How Does It Work?

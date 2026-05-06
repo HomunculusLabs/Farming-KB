@@ -1,10 +1,12 @@
 ---
 title: Brittleness Scale
+created: 2026-04-28
 tags: [brittle-environments, classification, climate, ecosystem-processes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Brittleness Scale

@@ -1,5 +1,6 @@
 ---
 title: Boswellia serrata
+created: 2026-04-28
 type: species
 tags: [herbal-plants, burseraceae, frankincense, anti-inflammatory, ayurveda, resin, boswellic-acids, joint-health, traditional-medicine, tree, indian-herbs]
 date: 2026-04-28

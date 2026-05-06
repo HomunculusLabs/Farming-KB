@@ -1,5 +1,6 @@
 ---
 title: Do-Nothing Farming
+created: 2026-04-28
 tags:
   - philosophy
   - farming
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka"
+type: concept
 ---
 
 # Do-Nothing Farming

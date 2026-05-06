@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Oyster Mushrooms at Home"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, oyster-mushrooms, home-growing, substrate]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How to Grow Oyster Mushrooms at Home
 ## Short Answer

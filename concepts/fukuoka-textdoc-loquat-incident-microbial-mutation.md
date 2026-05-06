@@ -1,10 +1,12 @@
 ---
 title: The Loquat Incident and Microbial Mutation Dangers
+created: 2026-04-28
 tags: [pesticide-resistance, microbial-mutation, botrytis, orchard-disease, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Loquat Incident and Microbial Mutation Dangers

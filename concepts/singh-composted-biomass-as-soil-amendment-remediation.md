@@ -1,10 +1,12 @@
 ---
 title: "Composted Biomass as Soil Amendment Remediation"
+created: 2026-04-28
 tags: [compost, spent-mushroom-substrate, soil-amendment, biosorption, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Composted Biomass as Soil Amendment Remediation

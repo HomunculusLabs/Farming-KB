@@ -1,9 +1,11 @@
 ---
 title: "Bioaugmentation vs Biostimulation"
+created: 2026-04-28
 tags: [comparison, bioremediation, microbiology, environmental-cleanup, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Bioaugmentation vs Biostimulation

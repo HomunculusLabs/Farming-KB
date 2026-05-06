@@ -1,11 +1,13 @@
 ---
 title: Jagadis Chandra Bose and the Crescograph
+created: 2026-04-28
 tags: [jagadis-bose, crescograph, plant-response, radio-waves,
       electromotive-force, plant-physiology, india, history-of-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 Sir Jagadis Chandra Bose (1858-1937) was a Bengali scientist whose

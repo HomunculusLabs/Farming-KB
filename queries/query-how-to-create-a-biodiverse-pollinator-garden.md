@@ -1,9 +1,11 @@
 ---
 title: "How to Create a Biodiverse Pollinator Garden"
+created: 2026-04-28
 tags: [query, pollinators, bees, biodiversity, garden-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Create a Biodiverse Pollinator Garden

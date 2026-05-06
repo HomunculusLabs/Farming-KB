@@ -1,5 +1,6 @@
 ---
 title: Mixmag Survey Magic Mushroom Prevalence Trends 2000 to 2005
+created: 2026-04-28
 tags:
   - emcdda
   - mixmag
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+type: concept
 ---
 
 # Mixmag Survey: Magic Mushroom Prevalence Trends 2000 to 2005

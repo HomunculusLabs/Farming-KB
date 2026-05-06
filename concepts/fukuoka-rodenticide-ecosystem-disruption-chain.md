@@ -1,9 +1,11 @@
 ---
 title: "Rodenticide Use and Cascading Ecosystem Disruption"
+created: 2026-04-28
 tags: [rodenticide, ecosystem-chain, pine-death, biodiversity, pesticide-cascade, japan]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 Consider the case of the scientist who studies mice and develops a

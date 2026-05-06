@@ -1,5 +1,6 @@
 ---
 title: Mushroom Flush Management and Watering Techniques
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - fruiting
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Mushroom Flush Management and Watering Techniques

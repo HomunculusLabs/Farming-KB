@@ -1,5 +1,6 @@
 ---
 title: Mycena galopus
+created: 2026-04-28
 type: species
 tags: [fungi, saprotroph, decomposition, collembola-interactions, forest-floor]
 date: 2026-04-28

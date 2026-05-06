@@ -1,5 +1,6 @@
 ---
 title: Arbuscular Mycorrhizal Spore Identification
+created: 2026-04-28
 tags:
   - arbuscular-mycorrhiza
   - Glomeromycota
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Arbuscular Mycorrhizal Spore Identification

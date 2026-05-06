@@ -1,10 +1,12 @@
 ---
 title: Persimmon (Diospyros kaki)
+created: 2026-04-28
 tags: [permaculture, fruit-tree, deciduous, ornamental, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Persimmon

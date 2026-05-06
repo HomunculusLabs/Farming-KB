@@ -1,11 +1,13 @@
 ---
 title: Cannabis Strain Selection and Receptor Targeting
+created: 2026-04-28
 tags: [cannabis, cb1-receptors, cb2-receptors, strain-selection,
   endocannabinoid-system, thc, cbd, terpenes, entourage-effect,
   pharmacology, sativa, indica, hybrid]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
+type: concept
 ---
 
 # Cannabis Strain Selection and Receptor Targeting

@@ -1,9 +1,11 @@
 ---
 title: Anaerobic Organisms and Their Role in Soil Systems
+created: 2026-04-28
 tags: [soil-foodweb, anaerobic, microbiology, compost-tea]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Anaerobic Organisms and Their Role in Soil Systems

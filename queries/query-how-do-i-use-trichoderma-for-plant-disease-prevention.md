@@ -1,11 +1,13 @@
 ---
 title: "How Do I Use Trichoderma for Plant Disease Prevention?"
+created: 2026-04-28
 tags: [query, trichoderma, biocontrol, disease-prevention, beneficial-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
+type: query
 ---
 
 # How Do I Use Trichoderma for Plant Disease Prevention?

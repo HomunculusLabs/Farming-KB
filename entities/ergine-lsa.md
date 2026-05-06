@@ -1,5 +1,6 @@
 ---
 title: "Ergine (LSA)"
+created: 2026-04-28
 type: chemical
 tags: [ergoline, psychedelic, tryptamine-derivative, natural-alkaloid, morning-glory]
 date: 2026-04-28

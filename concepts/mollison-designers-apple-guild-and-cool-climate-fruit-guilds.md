@@ -1,5 +1,6 @@
 ---
 title: Apple Guild and Cool Climate Fruit Guilds
+created: 2026-04-28
 tags:
   - guild-design
   - fruit-trees
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 # Apple Guild and Cool Climate Fruit Guilds
 The concept of the food guild is central to Mollison's approach to perennial

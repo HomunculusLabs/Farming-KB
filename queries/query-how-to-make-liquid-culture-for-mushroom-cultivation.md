@@ -1,9 +1,11 @@
 ---
 title: "How Do I Make Liquid Culture for Mushroom Cultivation?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, liquid-culture, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: query
 ---
 
 # How Do I Make Liquid Culture for Mushroom Cultivation?

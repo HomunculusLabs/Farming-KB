@@ -1,10 +1,12 @@
 ---
 title: Natural Farm Establishment Site Selection and Wood Preserve Design
+created: 2026-04-28
 tags: [natural-farming, fukuoka, farm-design, orchard-establishment, shelterbelts, wood-preserve, site-selection]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Farm Establishment Site Selection and Wood Preserve Design

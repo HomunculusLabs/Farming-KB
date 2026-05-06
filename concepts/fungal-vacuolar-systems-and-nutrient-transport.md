@@ -1,10 +1,12 @@
 ---
 title: Fungal Vacuolar Systems and Nutrient Transport
+created: 2026-04-28
 tags: [mycology, cell-biology, transport, mycelial-networks, microscopy]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+type: concept
 ---
 # Fungal Vacuolar Systems and Nutrient Transport
 

@@ -1,5 +1,6 @@
 ---
 title: Monacrosporium haptotylum
+created: 2026-04-28
 type: species
 tags: [nematophagous, trap-fungus, ascomycete, biological-control, genomics]
 date: 2026-04-28

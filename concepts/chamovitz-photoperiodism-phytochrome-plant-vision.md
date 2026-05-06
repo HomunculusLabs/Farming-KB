@@ -1,9 +1,11 @@
 ---
 title: "Chamovitz Photoperiodism and Phytochrome in Plants"
+created: 2026-04-28
 tags: [photoperiodism, phytochrome, phototropism, plant-vision, darwin, chamovitz, red-light, far-red-light]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+type: concept
 ---
 
 # Chamovitz: Photoperiodism and Phytochrome in Plants

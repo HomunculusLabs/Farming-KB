@@ -1,9 +1,11 @@
 ---
 title: "Arid Landscape Settlement Strategies and Desert Water Harvesting"
+created: 2026-04-28
 tags: [permaculture, arid-landscapes, desert-farming, water-harvesting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 The classic arid landscape presents a specific profile: a receding

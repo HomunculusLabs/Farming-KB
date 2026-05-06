@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Living Soil and Hydroponic Growing?"
+created: 2026-04-28
 tags: [query, living-soil, hydroponic, cannabis, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Living Soil and Hydroponic Growing?

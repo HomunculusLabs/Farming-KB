@@ -1,9 +1,11 @@
 ---
 title: Panaeolus Cyanescens and Copelandia Identification
+created: 2026-04-28
 tags: [taxonomy, psilocybin-mushrooms, identification, ecology, copelandia]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Panaeolus Cyanescens and Copelandia Identification

@@ -1,11 +1,13 @@
 ---
 title: "Food Systems in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, food-systems, gardening, edible-landscaping,
        container-gardens, aquaponics, greenhouse, food-security]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Food Systems in [[permaculture-design]]

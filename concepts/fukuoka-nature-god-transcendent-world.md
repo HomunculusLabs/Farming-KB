@@ -1,5 +1,6 @@
 ---
 title: Nature, God, and the Transcendent World
+created: 2026-04-28
 tags:
   - philosophy
   - spirituality
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+type: concept
 ---
 
 # Nature, God, and the Transcendent World

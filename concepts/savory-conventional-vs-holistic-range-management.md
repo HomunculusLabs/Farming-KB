@@ -1,5 +1,6 @@
 ---
 title: Conventional vs Holistic Range Management
+created: 2026-04-28
 tags:
   - range-management
   - conventional-practices
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Conventional vs Holistic Range Management

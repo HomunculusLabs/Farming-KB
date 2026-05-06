@@ -1,5 +1,6 @@
 ---
 title: "Panaeolus cyanescens"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -140,6 +141,8 @@ The most important identification features are: small size, black spore print, m
 | UK | Class A (controlled) |
 
 ## See Also
+
+- [[paneolus-cyanescens]]
 
 - [[baeocystin]]
 - [[biological-efficiency]]

@@ -1,9 +1,11 @@
 ---
 title: Humus and Soil Microbiology
+created: 2026-04-28
 tags: [biointensive, composting, humus, soil-biology, microorganisms, nutrient-cycling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Humus and Soil Microbiology

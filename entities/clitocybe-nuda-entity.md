@@ -1,5 +1,6 @@
 ---
 title: "Clitocybe nuda"
+created: 2026-04-28
 type: species
 tags: [fungi, agaricales, edible-mushroom, tricholomataceae, wood-blewit]
 date: 2026-04-28

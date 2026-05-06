@@ -1,9 +1,11 @@
 ---
 title: "Water Quality and Hard Water Management"
+created: 2026-04-28
 tags: [cannabis, water-quality, ph, hydroponics, nutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Water quality is a foundational element of cannabis cultivation that

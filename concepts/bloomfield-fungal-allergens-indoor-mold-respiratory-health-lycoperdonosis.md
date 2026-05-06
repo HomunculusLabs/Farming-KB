@@ -1,5 +1,6 @@
 ---
 title: Fungal Allergens, Indoor Mold, and Respiratory Health
+created: 2026-04-28
 tags:
   - mycology
   - fungal-allergens
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 8, pp. 157-167
+type: concept
 ---
 
 # Fungal Allergens, Indoor Mold, and Respiratory Health

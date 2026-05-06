@@ -1,10 +1,12 @@
 ---
 title: Direct-Seeded No-Tillage Rice Barley Clover Succession
+created: 2026-04-28
 tags: [farming, rice, barley, clover, notillage, fukuoka, cover-crops, succession]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Direct-Seeded No-Tillage Rice Barley Clover Succession

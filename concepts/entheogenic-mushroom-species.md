@@ -1,5 +1,6 @@
 ---
 title: Entheogenic Mushroom Species
+created: 2026-04-28
 tags:
   - mushroom-species
   - psilocybin
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - a-golden-guide-to-hallucinogenic-plants.md
   - magic-mushrooms-around-the-world-by-jochen-gartz.md
+type: concept
 ---
 
 Entheogenic mushrooms are fungi containing psychoactive

@@ -1,9 +1,11 @@
 ---
 title: "Broadscale Watershed Restoration Techniques"
+created: 2026-04-28
 tags: [restoration, watershed, swales, erosion, water-harvesting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Broadscale Watershed Restoration Techniques

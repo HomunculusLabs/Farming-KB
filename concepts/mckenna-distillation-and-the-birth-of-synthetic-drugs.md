@@ -1,10 +1,12 @@
 ---
 title: Distillation and the Birth of Synthetic Drugs in Food of the Gods
+created: 2026-04-28
 tags: [food-of-the-gods, distillation, alcohol, alchemy, synthetic-drugs, raymond-lully, ko-hung, dominator-culture, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Distillation and the Birth of Synthetic Drugs

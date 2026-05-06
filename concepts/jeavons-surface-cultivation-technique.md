@@ -1,9 +1,11 @@
 ---
 title: Surface Cultivation Technique
+created: 2026-04-28
 tags: [biointensive, soil-preparation, bed-maintenance, double-digging, soil-structure]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Surface Cultivation Technique

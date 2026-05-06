@@ -1,10 +1,12 @@
 ---
 title: "Use Small and Slow Solutions — Permaculture Principle 9"
+created: 2026-04-28
 tags: [permaculture, design-principles, appropriate-scale, slow-design, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Use Small and Slow Solutions — Permaculture Principle 9

@@ -1,5 +1,6 @@
 ---
 title: Design Client Interview and Site Assessment Process
+created: 2026-04-28
 tags:
   - design-process
   - site-analysis
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Design Client Interview and Site Assessment Process

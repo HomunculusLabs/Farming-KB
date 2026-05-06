@@ -1,5 +1,6 @@
 ---
 title: 5-MeO-DALT (N,N-Diallyl-5-methoxytryptamine)
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic

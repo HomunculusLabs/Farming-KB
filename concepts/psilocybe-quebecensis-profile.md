@@ -1,10 +1,12 @@
 ---
 title: Psilocybe quebecensis Profile
+created: 2026-04-28
 tags: [psilocybe, quebec, mycology, mushroom-profile, northern]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # Psilocybe quebecensis Profile
 

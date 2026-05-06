@@ -1,5 +1,6 @@
 ---
 title: Pluteus americanus
+created: 2026-04-28
 type: species
 tags: [psilocybin, mushroom, pluteus, entheogen, wood-decomposing]
 date: 2026-04-28

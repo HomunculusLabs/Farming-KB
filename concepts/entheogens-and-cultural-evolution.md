@@ -1,9 +1,11 @@
 ---
 title: Entheogens and Cultural Evolution
+created: 2026-04-28
 tags: [anthropology, ethnobotany, cultural evolution, entheogens]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Entheogens and Cultural Evolution

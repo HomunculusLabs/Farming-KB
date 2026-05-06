@@ -1,5 +1,6 @@
 ---
 title: Panaeolus venenosus
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, panaeolus, entheogenic, agaricales, dung-inhabiting]
 date: 2026-04-28

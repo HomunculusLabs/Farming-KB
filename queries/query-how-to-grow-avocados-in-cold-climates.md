@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Avocados in a Cold Climate or Indoors?"
+created: 2026-04-28
 tags:
   - avocado
   - cold-climate-gardening
@@ -14,6 +15,7 @@ sources:
   - "Crane, J.H. et al. Avocado Growing in the Florida Home Landscape. UF IFAS Extension, HS1077, 2023."
   - "Arpaia, M.L. Avocado Production in California. UC Cooperative Extension, 2024."
   - "Grosser, J.W., Gmitter, F.G. Cold Hardiness in Avocado: A Review. HortScience, 2011, 46(5): 642-648."
+type: query
 ---
 
 # How Do I Grow Avocados in a Cold Climate or Indoors?

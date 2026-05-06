@@ -1,10 +1,12 @@
 ---
 title: Happy Hill Rice Strain and World Food Potential
+created: 2026-04-28
 tags: [rice, breeding, food-security, natural-farming, seed-dispersal, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Happy Hill Rice Strain and World Food Potential

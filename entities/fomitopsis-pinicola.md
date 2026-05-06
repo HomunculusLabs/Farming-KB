@@ -1,5 +1,6 @@
 ---
 title: Fomitopsis pinicola
+created: 2026-04-28
 type: species
 tags:
   - polypore

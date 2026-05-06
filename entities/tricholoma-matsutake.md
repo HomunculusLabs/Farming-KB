@@ -1,9 +1,11 @@
 ---
 title: "tricholoma matsutake"
+created: 2026-04-28
 tags: [species, fungi, basidiomycete, edible, mycorrhizal]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: entity
 ---
 
 # Tricholoma matsutake

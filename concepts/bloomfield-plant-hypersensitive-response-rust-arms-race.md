@@ -1,5 +1,6 @@
 ---
 title: Plant Hypersensitive Response and the Rust Arms Race
+created: 2026-04-28
 tags:
   - mycology
   - plant-pathology
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 The interaction between rust fungi and their host plants

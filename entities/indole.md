@@ -1,5 +1,6 @@
 ---
 title: Indole
+created: 2026-04-28
 type: chemical
 tags: [heterocycle, organic-chemistry, tryptamine-scaffold, biochemistry]
 date: 2026-04-28

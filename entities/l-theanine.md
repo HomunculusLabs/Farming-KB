@@ -1,5 +1,6 @@
 ---
 title: "L-Theanine"
+created: 2026-04-28
 type: chemical
 tags:
   - l-theanine

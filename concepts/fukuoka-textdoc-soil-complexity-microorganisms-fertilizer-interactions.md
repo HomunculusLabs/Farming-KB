@@ -1,5 +1,6 @@
 ---
 title: Soil Complexity, Microorganisms, and Fertilizer Interactions
+created: 2026-04-28
 tags:
   - soil-science
   - microorganisms
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Soil Complexity, Microorganisms, and Fertilizer Interactions

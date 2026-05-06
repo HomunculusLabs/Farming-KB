@@ -1,5 +1,6 @@
 ---
 title: Intuitive Reasoning Beyond Induction and Deduction in Agricultural Science
+created: 2026-04-28
 tags:
   - fukuoka
   - epistemology
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Intuitive Reasoning Beyond Induction and Deduction in Agricultural Science

@@ -1,5 +1,6 @@
 ---
 title: "Hindu Kush"
+created: 2026-04-28
 type: strain
 tags: [strain, cannabis, indica, landrace, hashish, afghanistan, central-asia]
 date: 2026-04-28

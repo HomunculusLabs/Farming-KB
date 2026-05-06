@@ -1,9 +1,11 @@
 ---
 title: "Herb Spiral vs Keyhole Beds"
+created: 2026-04-28
 tags: [comparison, permaculture, garden-design, intensive-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Herb Spiral vs Keyhole Beds

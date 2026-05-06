@@ -1,5 +1,6 @@
 ---
 title: What Are Mycelium Materials and How Are They Made?
+created: 2026-04-28
 tags: [mycelium, biomanufacturing, biomaterials, packaging, mycelium-leather, sustainable-materials, fungal-technology, FAQ]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.ecovative.com/research
   - https://www.boltthreads.com/technology/mylo
   - https://pubmed.ncbi.nlm.nih.gov/35282264/
+type: query
 ---
 
 # What Are Mycelium Materials and How Are They Made?

@@ -1,9 +1,11 @@
 ---
 title: "HPS vs CMH Grow Lights"
+created: 2026-04-28
 tags: [comparison, grow-lights, cannabis, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # HPS vs CMH [[led-grow-lights]]

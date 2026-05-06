@@ -1,10 +1,12 @@
 ---
 title: Smartshops and Hallucinogenic Mushroom Retail
+created: 2026-04-28
 tags: [retail, smartshop, market, Netherlands, online, drug policy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Smartshops and Hallucinogenic Mushroom Retail

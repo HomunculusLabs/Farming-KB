@@ -1,9 +1,11 @@
 ---
 title: Water Harvesting and Earthworks
+created: 2026-04-28
 tags: [permaculture, water, earthworks, swales, keyline]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Water Harvesting and Earthworks

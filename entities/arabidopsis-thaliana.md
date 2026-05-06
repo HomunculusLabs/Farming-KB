@@ -1,5 +1,6 @@
 ---
 title: Arabidopsis thaliana
+created: 2026-04-28
 type: species
 scientific_name: Arabidopsis thaliana
 authority: (L.) Heynh.

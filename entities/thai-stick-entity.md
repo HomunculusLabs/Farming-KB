@@ -1,5 +1,6 @@
 ---
 title: "Thai Stick"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis

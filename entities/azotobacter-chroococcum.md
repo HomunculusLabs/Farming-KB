@@ -1,5 +1,6 @@
 ---
 title: Azotobacter chroococcum
+created: 2026-04-28
 type: species
 tags: [nitrogen-fixation, free-living-bacteria, biofertilizer, soil-microbiology, indigenous-microorganisms]
 date: 2026-04-28

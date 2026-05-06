@@ -1,9 +1,11 @@
 ---
 title: "What Are the Stages of Mushroom Cultivation?"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: query
 ---
 
 # What Are the Stages of Mushroom Cultivation?

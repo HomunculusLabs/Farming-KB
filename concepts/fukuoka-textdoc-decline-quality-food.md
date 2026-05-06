@@ -1,10 +1,12 @@
 ---
 title: "Decline in the Quality of Food"
+created: 2026-04-28
 tags: [food-quality, modern-agriculture, petroleum-agriculture, food-synthesis, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Decline in the Quality of Food

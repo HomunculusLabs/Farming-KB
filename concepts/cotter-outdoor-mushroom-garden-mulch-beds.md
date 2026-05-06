@@ -1,9 +1,11 @@
 ---
 title: "Outdoor Mushroom Garden Mulch Beds"
+created: 2026-04-28
 tags: [mycology, mushroom-cultivation, wood-chip-bed, king-stropharia, outdoor, mulch]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+type: concept
 ---
 
 # [[outdoor-mushroom-bed-preparation]] Garden Mulch Beds

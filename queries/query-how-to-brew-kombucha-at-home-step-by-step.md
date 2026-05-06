@@ -1,9 +1,11 @@
 ---
 title: "How Do I Brew Kombucha at Home Step by Step?"
+created: 2026-04-28
 tags: [query, fermentation, home-brewing, probiotics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Brew Kombucha at Home Step by Step?

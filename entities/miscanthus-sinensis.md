@@ -1,5 +1,6 @@
 ---
 title: "Miscanthus sinensis"
+created: 2026-04-28
 type: species
 tags:
   - plants
@@ -125,6 +126,8 @@ cultivars are used in landscape design, riparian buffer plantings, and
 habitat restoration projects.
 
 ## See Also
+
+- [[angelica-sinensis]]
 
 - [[arundo-donax]] — giant reed, another high-yielding bioenergy grass
 - [[moringa-oleifera]] — multipurpose permaculture tree for tropical systems

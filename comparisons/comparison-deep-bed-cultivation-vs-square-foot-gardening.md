@@ -1,9 +1,11 @@
 ---
 title: "Deep Bed Cultivation vs Square Foot Gardening"
+created: 2026-04-28
 tags: [comparison, gardening, intensive-planting, soil-preparation, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Deep Bed Cultivation vs Square Foot Gardening

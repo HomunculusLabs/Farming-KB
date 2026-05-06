@@ -1,5 +1,6 @@
 ---
 title: "Lion's Mane vs Cordyceps Cultivation"
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - lions-mane
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: comparison
 ---
 
 # Lion's Mane vs Cordyceps Cultivation
@@ -117,6 +119,8 @@ Staggered production schedules can help maximize the use of shared equipment. Fo
 Regardless of the approach chosen, both species reward growers who invest in understanding their specific biological requirements and maintain rigorous quality standards throughout the cultivation process.
 
 ## See Also
+
+- [[lions-mane-hericium-erinaceus]]
 
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 

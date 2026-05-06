@@ -1,5 +1,6 @@
 ---
 title: Phytochrome and the Red Far-Red Light Switch
+created: 2026-04-28
 tags:
   - photobiology
   - phytochrome
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Phytochrome and the Red Far-Red Light Switch
@@ -178,6 +180,10 @@ sophisticated capacity to sense and respond to their light environment, one that
 Chamovitz argues legitimately deserves to be called a form of vision.
 
 ## See Also
+
+- [[chamovitz-photoperiodism-phytochrome-plant-vision]]
+- [[phytochrome-molecular-switch-mechanism]]
+- [[phytochrome-red-far-red-switch-and-photoperiodism]]
 
 - [[phototropism-and-phytochrome-in-plants]]
 

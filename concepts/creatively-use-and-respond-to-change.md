@@ -1,10 +1,12 @@
 ---
 title: "Creatively Use and Respond to Change — Permaculture Principle 12"
+created: 2026-04-28
 tags: [permaculture, design-principles, change, succession, adaptation, resilience]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Creatively Use and Respond to Change — Permaculture Principle 12

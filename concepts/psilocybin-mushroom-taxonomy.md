@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Mushroom Taxonomy
+created: 2026-04-28
 tags:
   - mycology
   - taxonomy
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 The taxonomy of psilocybin-containing mushrooms has undergone

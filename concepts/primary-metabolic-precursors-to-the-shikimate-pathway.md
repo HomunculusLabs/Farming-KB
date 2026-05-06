@@ -1,9 +1,11 @@
 ---
 title: "Primary Metabolic Precursors to the Shikimate Pathway"
+created: 2026-04-28
 tags: [biochemistry, glycolysis, pentose-phosphate, shikimate, metabolism]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+type: concept
 ---
 
 # Primary Metabolic Precursors to the Shikimate Pathway

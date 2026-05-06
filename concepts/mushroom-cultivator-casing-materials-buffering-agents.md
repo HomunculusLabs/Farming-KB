@@ -1,10 +1,12 @@
 ---
 title: "Casing Layer Materials and Buffering Agents"
+created: 2026-04-28
 tags: [mycology, casing-soil, substrate-preparation, mushroom-cultivator,
       peat-moss, buffering-agents, pH-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Casing Layer Materials and Buffering Agents

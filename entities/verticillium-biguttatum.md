@@ -1,5 +1,6 @@
 ---
 title: Verticillium biguttatum
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, biocontrol, rhizoctonia, soil-fungi]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: The Mineral Cycle and Soil Health
+created: 2026-04-28
 tags:
   - holistic-management
   - soil-health
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # The Mineral Cycle and Soil Health

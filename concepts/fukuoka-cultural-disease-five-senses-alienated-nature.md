@@ -1,5 +1,6 @@
 ---
 title: Cultural Disease and the Five Senses Alienated from Nature
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Cultural Disease and the Five Senses Alienated from Nature

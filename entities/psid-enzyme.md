@@ -1,7 +1,9 @@
 ---
 title: PsiD Enzyme
+created: 2026-04-28
 aliases: [PsiD, L-tryptophan decarboxylase]
 tags: [enzyme, psilocybin, biosynthesis, mycology, biochemistry]
+type: entity
 ---
 
 # PsiD Enzyme

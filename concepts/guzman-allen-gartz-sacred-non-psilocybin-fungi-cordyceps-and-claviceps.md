@@ -1,5 +1,6 @@
 ---
 title: Sacred Non-Psilocybin Fungi Cordyceps and Claviceps
+created: 2026-04-28
 tags:
   - cordyceps
   - claviceps
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Sacred Non-Psilocybin Fungi: Cordyceps and Claviceps

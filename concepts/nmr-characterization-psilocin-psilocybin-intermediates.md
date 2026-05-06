@@ -1,5 +1,6 @@
 ---
 title: NMR Characterization of Psilocin and Psilocybin
+created: 2026-04-28
 tags:
   - nmr
   - spectroscopy
@@ -9,6 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/concise-psilocybin-large-scale-production-psilocin-synthesis-4-hydroxyindole-to-psilocin-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-identification-methods-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # NMR Characterization of Psilocin and Psilocybin

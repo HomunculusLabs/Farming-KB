@@ -1,9 +1,11 @@
 ---
 title: Home Vegetable Gardening
+created: 2026-04-28
 tags: [gardening, vegetables, horticulture, home-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md]
+type: concept
 ---
 
 # Home Vegetable Gardening

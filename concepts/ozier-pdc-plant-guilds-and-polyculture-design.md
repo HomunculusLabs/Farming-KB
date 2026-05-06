@@ -1,11 +1,13 @@
 ---
 title: Plant Guilds and Polyculture Design
+created: 2026-04-28
 tags: [permaculture, guilds, polyculture, companion-planting, 
 nitrogen-fixation, pest-repulsion, microclimate, stacking-functions, 
 integrate-dont-segregate, biodiversity, pioneer-species, native-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Plant Guilds and Polyculture Design

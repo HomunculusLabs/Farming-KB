@@ -1,9 +1,11 @@
 ---
 title: "Silvopasture vs Pasture Management"
+created: 2026-04-28
 tags: [comparison, livestock, agroforestry, grazing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Silvopasture vs [[pasture-management-and-forage]]

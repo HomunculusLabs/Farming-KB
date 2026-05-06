@@ -1,10 +1,12 @@
 ---
 title: "Electrokinetic-Fungal Remediation"
+created: 2026-04-28
 tags: [mycoremediation, electrokinetics, soil-remediation, heavy-metals, coupled-technologies]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Electrokinetic-Fungal Remediation

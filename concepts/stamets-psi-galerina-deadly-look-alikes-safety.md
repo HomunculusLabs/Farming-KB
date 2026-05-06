@@ -1,9 +1,11 @@
 ---
 title: Galerina Deadly Look-alikes and Mushroom Safety
+created: 2026-04-28
 tags: [mycology, safety, toxicology, galerina, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Galerina Deadly Look-alikes and Mushroom Safety

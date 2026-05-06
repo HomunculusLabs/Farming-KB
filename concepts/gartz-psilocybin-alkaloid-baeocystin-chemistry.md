@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Alkaloid Chemistry and Baeocystin
+created: 2026-04-28
 tags:
   - mycology
   - alkaloid-chemistry
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - magic-mushrooms-around-the-world-by-jochen-gartz.md
+type: concept
 ---
 
 # Psilocybin Alkaloid Chemistry and Baeocystin

@@ -1,9 +1,11 @@
 ---
 title: "How to Start Growing Mushrooms at Home"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, beginner, home-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: query
 ---
 
 # How to Start Growing Mushrooms at Home
@@ -107,6 +109,8 @@ popular strains and their relative difficulty levels for home cultivation.
 - A pressure cooker is essential for any method involving grain sterilization
 - Once you master the basics, grain spawn and bulk substrates allow significant scaling
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-start-growing-hazelnut-bushes]] Questions
 - [[query-how-to-set-up-a-monotub-mushroom-grow]]
 - [[mushroom-cultivation-methods]]

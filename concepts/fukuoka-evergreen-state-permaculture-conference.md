@@ -1,10 +1,12 @@
 ---
 title: Evergreen State Permaculture Conference 1986
+created: 2026-04-28
 tags: [fukuoka, permaculture, conference, bill-mollison, wes-jackson]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
+type: concept
 ---
 
 # Evergreen State Permaculture Conference 1986

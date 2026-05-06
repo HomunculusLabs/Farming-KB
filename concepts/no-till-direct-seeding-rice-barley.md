@@ -1,5 +1,6 @@
 ---
 title: No-Till Direct-Seeded Rice/Barley Succession
+created: 2026-04-28
 tags: [natural-farming, no-till, rice, barley, direct-seeding, cover-crops, fukuoka, sustainable-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: The Natural Way of Farming
+type: concept
 ---
 
 # No-Till Direct-Seeded Rice/Barley Succession in Clover Cover

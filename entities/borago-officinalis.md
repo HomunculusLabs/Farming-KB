@@ -1,5 +1,6 @@
 ---
 title: "Borago officinalis"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, boraginaceae, permaculture, companion-plant, edible-flower]
 date: 2026-04-28
@@ -126,6 +127,8 @@ Flowers can be harvested individually throughout the season by pinching from the
 | **GLA source** | Seeds (20–26%) | Seeds (~15%) | Root and leaf (minor) | Not significant |
 
 ## See Also
+
+- [[cinchona-officinalis]]
 - [[symphytum-officinale]]
 - [[comfrey]]
 - [[comfrey-permaculture]]

@@ -1,7 +1,9 @@
 ---
 title: "Byzantine Fault Tolerance"
+created: 2026-04-28
 sources: []
 tags: []
+type: concept
 ---
 
 # Byzantine Fault Tolerance

@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Gene Pool Preservation and Acclimatization"
+created: 2026-04-28
 tags: [cannabis, genetics, gene-pool, preservation, acclimatization, Clarke]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # Cannabis Gene Pool Preservation and Acclimatization

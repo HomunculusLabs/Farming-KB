@@ -1,5 +1,6 @@
 ---
 title: "N,N-Dimethyltryptamine N-Oxide"
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, metabolite, alkaloid, psychopharmacology]
 date: 2026-04-28

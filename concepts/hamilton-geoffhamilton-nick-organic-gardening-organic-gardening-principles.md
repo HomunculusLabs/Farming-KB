@@ -1,9 +1,11 @@
 ---
 title: Organic Gardening Principles
+created: 2026-04-28
 tags: [organic-gardening, soil-health, sustainability, permaculture, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Organic Gardening Principles

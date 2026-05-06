@@ -1,9 +1,11 @@
 ---
 title: Salt Tolerant Fodder Plants
+created: 2026-04-28
 tags: [permaculture-plants, salt-tolerant, halophyte, fodder, coastal-farming, saline-soils]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: concept
 ---
 
 # Salt Tolerant Fodder Plants

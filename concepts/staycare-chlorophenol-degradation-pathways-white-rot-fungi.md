@@ -1,9 +1,11 @@
 ---
 title: Chlorophenol Degradation Pathways by White Rot Fungi
+created: 2026-04-28
 tags: [bioremediation, chlorophenols, pollutant-degradation, white-rot-fungi, enzymatic-pathways]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Chlorophenol Degradation Pathways by White Rot Fungi

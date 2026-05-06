@@ -1,10 +1,12 @@
 ---
 title: Latua Pubiflora - Arbol de los Brujos Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, chile, mapuche, solanaceae, scopolamine,
   hyoscyamine, deliriant, sorcery, schultes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Latua Pubiflora (Arbol de los Brujos)

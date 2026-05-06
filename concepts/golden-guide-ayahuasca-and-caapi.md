@@ -1,9 +1,11 @@
 ---
 title: "Ayahuasca and Caapi in Ethnobotany"
+created: 2026-04-28
 tags: [ayahuasca, caapi, banisteriopsis, ethnobotany, DMT]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Ayahuasca and Caapi in Ethnobotany

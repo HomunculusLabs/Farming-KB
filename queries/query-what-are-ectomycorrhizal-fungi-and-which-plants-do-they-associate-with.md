@@ -1,9 +1,11 @@
 ---
 title: "What Are Ectomycorrhizal Fungi and Which Plants Do They Associate With"
+created: 2026-04-28
 tags: [query, mycology, mycorrhizae, forest-ecology, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Ectomycorrhizal Fungi and Which Plants Do They Associate With

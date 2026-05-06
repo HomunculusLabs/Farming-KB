@@ -1,5 +1,6 @@
 ---
 title: "Andrographis paniculata"
+created: 2026-04-28
 type: species
 tags: [species, plant, acanthaceae, medicinal-herb, ayurveda, immunomodulator]
 date: 2026-04-28

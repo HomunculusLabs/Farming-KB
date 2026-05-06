@@ -1,5 +1,6 @@
 ---
 title: Black Soldier Fly Composting vs Earthworm Breeding
+created: 2026-04-28
 tags:
   - composting
   - waste-management
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Black Soldier Fly Composting vs Earthworm Breeding

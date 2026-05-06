@@ -1,9 +1,11 @@
 ---
 title: "How Do I Manage pH in My Cannabis Grow?"
+created: 2026-04-28
 tags: [query, cannabis, ph-management, nutrients, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Manage pH in My Cannabis Grow?

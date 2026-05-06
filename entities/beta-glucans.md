@@ -1,5 +1,6 @@
 ---
 title: Beta-Glucans
+created: 2026-04-28
 type: chemical
 tags: [polysaccharide, immunomodulator, anti-tumor, medicinal-mushroom]
 date: 2026-04-28

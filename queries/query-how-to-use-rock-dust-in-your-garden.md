@@ -1,9 +1,11 @@
 ---
 title: "How to Use Rock Dust in Your Garden"
+created: 2026-04-28
 tags: [query, soil-amendment, rock-dust, minerals, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Use Rock Dust in Your Garden

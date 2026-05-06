@@ -137,7 +137,9 @@ Proper curing is essential for long storage. Garlic needs to dry slowly in a war
 | White rot | Soil-borne fungus (Sclerotium cepivorum) | Rotate alliums 4+ years; avoid planting near old allium beds |
 | Bulb mites | Tiny mites in stored garlic | Cure thoroughly; inspect before storage; freeze seed garlic 48h before planting |
 
-## Related Concepts
+## Related
+
+- [[query-what-is-the-difference-between-hardneck-and-softneck-garlic]] Concepts
 
 - [[companion-planting-reference]] — garlic as a pest-repelling companion
 - [[soil-amendment-reference]] — bone meal and phosphorus for bulb development

@@ -1,9 +1,11 @@
 ---
 title: Oyster Mushroom Marketing and Economics
+created: 2026-04-28
 tags: [oyster-mushroom, marketing, economics, developing-countries, small-business]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Oyster Mushroom Marketing and Economics

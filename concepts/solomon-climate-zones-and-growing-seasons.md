@@ -1,10 +1,12 @@
 ---
 title: "Climate Zones and Growing Seasons"
+created: 2026-04-28
 tags: [climate, growing-season, seasonal-planning, frost-dates]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Climate Zones and Growing Seasons

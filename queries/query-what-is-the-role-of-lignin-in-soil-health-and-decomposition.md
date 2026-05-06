@@ -1,9 +1,11 @@
 ---
 title: "What Is the Role of Lignin in Soil Health and Decomposition"
+created: 2026-04-28
 tags: query, soil-science, decomposition, mycology, biochemistry
 date: 2026-04-25
 updated: 2026-04-25
 sources: 
+type: query
 ---
 
 # What Is the Role of Lignin in Soil Health and Decomposition

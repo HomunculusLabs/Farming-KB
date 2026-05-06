@@ -1,10 +1,12 @@
 ---
 title: Ballistospore Discharge Mechanism in Mushrooms
+created: 2026-04-28
 tags: [mycology, spore-dispersal, fungal-biology, mushroom-anatomy, basidiomycota]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Ballistospore Discharge Mechanism in Mushrooms

@@ -106,3 +106,10 @@ The revival of interest in traditional plant medicines — ayahuasca, psilocybin
 - [[capoeira]] McKenna Topics
 
 McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the broader project of recovering humanity's ancient partnership with the natural world.
+
+## See Also
+
+- [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
+- [[mckenna-tryptamine-transtemporal-consciousness-and-nunc-stans]]
+- [[mckenna-orientomania-and-european-discovery-of-hashish]]
+- [[mckenna-cacao-chocolate-mesoamerican-religion]]

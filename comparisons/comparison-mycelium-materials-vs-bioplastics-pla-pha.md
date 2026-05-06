@@ -1,5 +1,6 @@
 ---
 title: Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
+created: 2026-04-28
 tags: [biomanufacturing, materials-science, sustainability, mycelium, bioplastics, PLA, PHA, packaging, biomaterials, lifecycle-assessment]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.ecovative.com/research
   - https://pubmed.ncbi.nlm.nih.gov/35282264/
   - https://doi.org/10.1016/j.progpolymsci.2016.12.006
+type: comparison
 ---
 
 # Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)

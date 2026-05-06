@@ -1,9 +1,11 @@
 ---
 title: Cider vs Mead Making
+created: 2026-04-28
 tags: [fermentation, brewing, homesteading, alcohol, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Cider vs Mead Making

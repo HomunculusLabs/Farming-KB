@@ -1,5 +1,6 @@
 ---
 title: Mind-Body Medicine and Emotional Molecules
+created: 2026-04-28
 tags:
   - mind-body-medicine
   - neurotransmitters
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Blesching, Uwe. "The Cannabis Health Index." North Atlantic Books, 2015. Chapter II.
+type: concept
 ---
 
 # Mind-Body Medicine and Emotional Molecules

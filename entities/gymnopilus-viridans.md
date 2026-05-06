@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus viridans
+created: 2026-04-28
 type: species
 tags: [psilocybin, mushroom, gymnopilus, cortinariaceae, entheogen]
 date: 2026-04-28

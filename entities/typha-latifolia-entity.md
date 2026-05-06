@@ -1,5 +1,6 @@
 ---
 title: "Typha latifolia"
+created: 2026-04-28
 type: species
 tags: [species, plant, wetland, permaculture, edible, medicinal, typhaceae]
 date: 2026-04-28

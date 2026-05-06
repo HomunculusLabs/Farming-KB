@@ -1,9 +1,11 @@
 ---
 title: "Windbreak Design vs Species Selection"
+created: 2026-04-28
 tags: [comparison, windbreak, shelterbelt, permaculture, agroforestry]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Windbreak Design vs Species Selection

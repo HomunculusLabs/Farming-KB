@@ -1,5 +1,6 @@
 ---
 title: "Chinampas"
+created: 2026-04-28
 type: species
 tags: [permaculture, agriculture, aztec, hydrology, wetland-farming, agroecology, traditional-knowledge]
 date: 2026-04-28

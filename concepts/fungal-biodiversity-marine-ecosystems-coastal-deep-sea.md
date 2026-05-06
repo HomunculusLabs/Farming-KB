@@ -1,9 +1,11 @@
 ---
 title: Fungal Biodiversity in Marine and Coastal Ecosystems
+created: 2026-04-28
 tags: [mycology, biodiversity, marine-fungi, coastal-ecology, aquatic]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Biodiversity in Marine and Coastal Ecosystems

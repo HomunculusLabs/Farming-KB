@@ -1,9 +1,11 @@
 ---
 title: "How do I choose a hydroponic system for cannabis or vegetables?"
+created: 2026-04-28
 tags: [query, hydroponics, cannabis, systems]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I choose a hydroponic system for cannabis or vegetables?

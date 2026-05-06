@@ -1,5 +1,6 @@
 ---
 title: Indigenous Microorganisms (IMO)
+created: 2026-04-28
 type: species
 tags: [korean-natural-farming, microorganisms, soil-biology, composting, cho-han-kyu]
 date: 2026-04-28

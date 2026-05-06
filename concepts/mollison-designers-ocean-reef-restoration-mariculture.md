@@ -1,5 +1,6 @@
 ---
 title: Ocean Reef Restoration and Mariculture
+created: 2026-04-28
 tags:
   - permaculture
   - mariculture
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Ocean Reef Restoration and Mariculture

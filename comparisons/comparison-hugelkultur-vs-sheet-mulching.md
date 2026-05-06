@@ -1,9 +1,11 @@
 ---
 title: "Hugelkultur vs Sheet Mulching"
+created: 2026-04-28
 tags: [comparison, soil-building, hugelkultur, sheet-mulching]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Hugelkultur vs Sheet Mulching

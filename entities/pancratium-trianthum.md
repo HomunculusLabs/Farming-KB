@@ -1,5 +1,6 @@
 ---
 title: Pancratium trianthum
+created: 2026-04-28
 type: species
 tags: [amaryllidaceae, alkaloid, africa, ethnobotany, traditional-medicine]
 date: 2026-04-28

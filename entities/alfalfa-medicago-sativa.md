@@ -1,5 +1,6 @@
 ---
 title: "Alfalfa (Medicago sativa)"
+created: 2026-04-28
 type: species
 tags: [fabaceae, legume, nitrogen-fixer, forage-crop, permaculture, dynamic-accumulator, cover-crop, herbal-plant, medicinal-plant, pollinator-habitat, green-manure]
 date: 2026-04-28

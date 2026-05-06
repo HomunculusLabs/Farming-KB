@@ -1,9 +1,11 @@
 ---
 title: Microbial Ecology of Fungi
+created: 2026-04-28
 tags: [mycology, ecology, microbiology, decomposition, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Microbial Ecology of Fungi

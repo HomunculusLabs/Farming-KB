@@ -1,9 +1,11 @@
 ---
 title: Saprotrophic Nutrition
+created: 2026-04-28
 tags: [mycology, ecology, decomposition, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Saprotrophic Nutrition

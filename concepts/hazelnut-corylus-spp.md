@@ -1,10 +1,12 @@
 ---
 title: Hazelnut (Corylus spp)
+created: 2026-04-28
 tags: [permaculture, nut-tree, deciduous, coppice, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Hazelnut (Corylus spp)

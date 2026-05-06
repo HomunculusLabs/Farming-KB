@@ -1,9 +1,11 @@
 ---
 title: "CMH vs LED Grow Lights"
+created: 2026-04-28
 tags: [comparison, cannabis, lighting, indoor-growing, equipment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # CMH vs LED Grow Lights
 ## Overview

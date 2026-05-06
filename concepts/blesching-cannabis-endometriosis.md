@@ -1,5 +1,6 @@
 ---
 title: Cannabis and Endometriosis
+created: 2026-04-28
 tags:
   - cannabis
   - endometriosis
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/uwe-blesching-the-cannabis-health-index.md
+type: concept
 ---
 
 # Cannabis and Endometriosis

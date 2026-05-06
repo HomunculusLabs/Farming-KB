@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Mushroom Coprophilous Ecology and Bovine Symbiosis
+created: 2026-04-28
 tags:
   - mycology
   - ethnomycology
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: mckenna_t-food_of_the_gods.md
     author: Terence McKenna
+type: concept
 ---
 
 # Psilocybin Mushroom Coprophilous Ecology and Bovine Symbiosis

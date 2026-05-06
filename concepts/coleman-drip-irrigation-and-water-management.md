@@ -1,5 +1,6 @@
 ---
 title: Drip Irrigation and Water Management
+created: 2026-04-28
 tags:
   - irrigation
   - water-management
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+type: concept
 ---
 
 # Drip Irrigation and Water Management

@@ -1,5 +1,6 @@
 ---
 title: "Eucalyptol (1,8-Cineole)"
+created: 2026-04-28
 type: chemical
 tags:
   - monoterpene
@@ -134,6 +135,8 @@ children under 6. Topical application is generally well tolerated.
   activity and more limited natural occurrence
 
 ## See Also
+
+- [[camphor]]
 
 [[rosmarinus-officinalis-entity]] contains significant eucalyptol
 in its essential oil alongside other bioactive terpenes.

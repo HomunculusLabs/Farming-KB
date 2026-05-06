@@ -94,4 +94,6 @@ The [[tropical-gardening]] approach combines these adaptations with intensive ma
 
 ## See Also
 
+- [[durio-zibethinus]]
+
 - [[query-how-to-design-a-food-forest-for-a-tropical-climate]]

@@ -1,5 +1,6 @@
 ---
 title: "Myristicin"
+created: 2026-04-28
 type: chemical
 tags: [chemical, phenylpropene, psychoactive, spice, nutmeg, deliriant, hepatotoxic]
 date: 2026-04-28

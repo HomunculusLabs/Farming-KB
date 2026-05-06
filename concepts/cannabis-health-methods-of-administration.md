@@ -1,10 +1,12 @@
 ---
 title: "Cannabis Methods of Administration"
+created: 2026-04-28
 tags: [cannabis, administration, vaporization, ingestion, topical,
        tincture, dosing, delivery]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Methods of Administration

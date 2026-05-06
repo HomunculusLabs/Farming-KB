@@ -1,10 +1,12 @@
 ---
 title: "Obtain a Yield — Permaculture Principle 3"
+created: 2026-04-28
 tags: [permaculture, design-principles, yield, productivity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Obtain a Yield — Permaculture Principle 3

@@ -1,5 +1,6 @@
 ---
 title: "Cinex"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -123,5 +124,8 @@ Live rosin pressed from fresh-frozen Cinex bubble hash retains the bright citrus
 The strain's moderate cannabinoid-to-terpene ratio (high terpenes relative to total cannabinoids) makes it particularly well-suited for full-spectrum products.
 
 ## See Also
+
+- [[cannabis-for-depression]]
+- [[cannabis-health-anxiety]]
 
 - [[cannabis-sativa]]

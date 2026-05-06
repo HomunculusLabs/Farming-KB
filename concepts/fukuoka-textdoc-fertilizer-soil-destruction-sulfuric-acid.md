@@ -1,5 +1,6 @@
 ---
 title: "Fertilizer, Soil Destruction, and Sulfuric Acid"
+created: 2026-04-28
 tags:
   - fukuoka
   - fertilizer-critique
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fertilizer, Soil Destruction, and Sulfuric Acid

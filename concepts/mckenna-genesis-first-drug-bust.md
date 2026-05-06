@@ -1,5 +1,6 @@
 ---
 title: "Genesis as the First Drug Bust"
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, genesis, eden, bible, tree-of-knowledge,
 psychedelic-allegory, forbidden-fruit, partnership-society, dominator-culture,
 eve-serpent, expulsion, climatic-shift]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "mckenna_t-food_of_the_gods.md"
+type: concept
 ---
 
 # Genesis as the First Drug Bust

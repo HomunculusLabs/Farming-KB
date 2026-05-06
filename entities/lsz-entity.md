@@ -1,5 +1,6 @@
 ---
 title: LSZ
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
@@ -141,6 +142,10 @@ or specific bans.
   contaminated, or inaccurately dosed. Reagent testing recommended.
 
 ## See Also
+
+- [[runtz-entity]]
+
+- [[ergine-entity]]
 
 - [[albert-hofmann]]
 - [[serotonin]]

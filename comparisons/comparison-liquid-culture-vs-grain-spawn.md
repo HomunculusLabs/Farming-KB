@@ -1,9 +1,11 @@
 ---
 title: "Liquid Culture vs Grain Spawn"
+created: 2026-04-28
 tags: [comparison, mushrooms, fungi, cultivation, inoculation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Liquid Culture vs Grain Spawn

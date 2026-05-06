@@ -1,5 +1,6 @@
 ---
 title: Pluteus umbrosus
+created: 2026-04-28
 type: species
 tags: [pluteus, neurotropic, pluteaceae, psilocybin, wood-inhabiting]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Mealworm Farming vs Cricket Farming"
+created: 2026-04-28
 tags: [insect-farming, entomophagy, sustainable-agriculture, alternative-protein, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,6 +13,7 @@ sources:
   - "FAO (2013). Edible Insects: Future Prospects for Food and Feed Security. FAO Forestry Paper 171."
   - "Rumpold, B.A. & Schlüter, O.K. (2013). Nutritional composition and safety aspects of edible insects. Molecular Nutrition & Food Research, 57(5), 802-823."
   - "Finke, M.D. (2015). Complete nutrient composition of commercially raised invertebrates used as food for insectivores. Zoo Biology, 34(2), 123-136."
+type: comparison
 ---
 
 # Mealworm Farming vs Cricket Farming

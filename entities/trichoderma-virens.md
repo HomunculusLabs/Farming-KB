@@ -1,5 +1,6 @@
 ---
 title: Trichoderma virens
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, biocontrol, soil-fungi, gliocladium]
 date: 2026-04-28

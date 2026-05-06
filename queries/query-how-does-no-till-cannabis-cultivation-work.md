@@ -1,9 +1,11 @@
 ---
 title: "How Does No-Till Cannabis Cultivation Work?"
+created: 2026-04-28
 tags: [query, no-till, cannabis, living-soil, organic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does No-Till Cannabis Cultivation Work?

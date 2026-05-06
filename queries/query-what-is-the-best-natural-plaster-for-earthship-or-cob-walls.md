@@ -1,5 +1,6 @@
 ---
 title: What is the Best Natural Plaster for Earthship or Cob Walls?
+created: 2026-04-28
 tags:
   - natural-building
   - plaster
@@ -18,6 +19,7 @@ sources:
   - Building with Cob, Adam Weismann & Katy Bryce (Green Books, 2006)
   - https://earthship.com/
   - The Natural Plaster Book, Cedar Rose Guelberth & Dan Chiras (New Society Publishers, 2003)
+type: query
 ---
 
 # What is the Best Natural Plaster for Earthship or Cob Walls?
@@ -118,6 +120,10 @@ For **cob walls**, start with clay plaster — it is the default, the cheapest, 
 - **Rushing lime curing**: Lime plaster needs consistent moisture during curing. Letting it dry too fast (from sun, wind, or freezing) produces a weak, crumbly surface that will not achieve full strength or water resistance.
 
 ## See Also
+
+- [[what-natural-farming-method-should-i-use]]
+- [[earth-plaster-and-natural-finishes]]
+- [[fukuoka-natural-no-plan-best-plan]]
 
 - [[cob-construction]]
 - [[rammed-earth]]

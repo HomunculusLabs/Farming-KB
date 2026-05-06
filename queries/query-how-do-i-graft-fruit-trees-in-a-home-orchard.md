@@ -1,9 +1,11 @@
 ---
 title: "How do I graft fruit trees in a home orchard?"
+created: 2026-04-28
 tags: [query, grafting, fruit-trees, propagation]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I graft fruit trees in a home orchard?

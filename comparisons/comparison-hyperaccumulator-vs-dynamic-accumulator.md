@@ -1,11 +1,13 @@
 ---
 title: "Hyperaccumulator vs Dynamic Accumulator"
+created: 2026-04-28
 tags: [comparison, phytoremediation, plants, soil-health, nutrient-cycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/nutrient-and-dynamic-accumulators.md"
   - "raw/papers/unknown-nutrient-and-dynamic-accumulators.md"
+type: comparison
 ---
 
 # Hyperaccumulator vs Dynamic Accumulator

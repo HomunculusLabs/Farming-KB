@@ -1,5 +1,6 @@
 ---
 title: How Do I Choose Between Straw Bale and Earthbag Construction?
+created: 2026-04-28
 subtitle: An FAQ for matching natural building wall systems to climate, budget, labor, and building use
 tags: [query, natural-building, straw-bale, earthbag, homesteading, owner-builder]
 date: 2026-05-02
@@ -12,6 +13,7 @@ related_concepts:
   - straw-bale-construction
   - earthbag-construction
   - earthbag-building
+type: query
 ---
 # How Do I Choose Between Straw Bale and Earthbag Construction?
 ## Short Answer

@@ -1,5 +1,6 @@
 ---
 title: "Trichomycetes: Gut Fungi of Arthropods"
+created: 2026-04-28
 tags:
   - biodiversity-symbiosis
   - biodiversity-taxonomy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+type: concept
 ---
 
 # Trichomycetes: Gut Fungi of Arthropods

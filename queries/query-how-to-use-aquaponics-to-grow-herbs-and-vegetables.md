@@ -1,9 +1,11 @@
 ---
 title: How to Use Aquaponics to Grow Herbs and Vegetables
+created: 2026-04-28
 tags: [aquaponics, hydroponics, permaculture, farming, herbs]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How to Use Aquaponics to Grow Herbs and Vegetables

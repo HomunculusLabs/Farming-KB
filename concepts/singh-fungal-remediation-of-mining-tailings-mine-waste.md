@@ -1,10 +1,12 @@
 ---
 title: Fungal Remediation of Mining Tailings and Mine Waste
+created: 2026-04-28
 tags: [mine-tailings, acid-mine-drainage, phytostabilization, ecological-restoration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Remediation of Mining Tailings and Mine Waste

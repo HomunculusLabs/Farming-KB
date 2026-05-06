@@ -1,10 +1,12 @@
 ---
 title: Composting and Vermicomposting
+created: 2026-04-28
 tags: [composting, vermicomposting, soil-amendment, organic-waste, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md'
+type: concept
 ---
 
 # Composting and Vermicomposting

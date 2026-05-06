@@ -1,5 +1,6 @@
 ---
 title: "Turkey Tail Mushroom"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -141,6 +142,8 @@ Distinguishing *T. versicolor* requires examination of the pore surface, spore c
 The commercial cultivation of *T. versicolor* for pharmaceutical and nutraceutical applications has also stimulated interest in strain selection and improvement programs, with researchers identifying high-yielding strains optimized for PSK and PSP production. This commercial focus has paradoxically contributed to greater scientific understanding of the species' biology, ecology, and biochemical diversity.
 
 ## See Also
+
+- [[turbinellus-floccosus]]
 
 - [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[turkey-tail-trametes-versicolor]]

@@ -1,9 +1,11 @@
 ---
 title: How to Make Herbal Salves and Balms at Home
+created: 2026-04-28
 tags: [herbalism, herbal-preparations, homesteading, diy, natural-remedies]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 # How to Make Herbal Salves and Balms at Home
 Herbal salves and balms are semi-solid preparations made by infusing herbs into a carrier oil and then combining that oil with beeswax to create a spreadable, shelf-stable topical remedy. They are one of the oldest and most practical forms of herbal medicine, used for everything from soothing burns and scrapes to relieving muscle aches and dry skin.

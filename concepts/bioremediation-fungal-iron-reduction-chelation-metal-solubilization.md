@@ -1,10 +1,12 @@
 ---
 title: "Fungal Iron Reduction and Chelation in Metal Solubilization"
+created: 2026-04-28
 tags: [bioremediation, heavy-metals, fungal-physiology, iron-metabolism]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md,
   ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Fungal Iron Reduction and Chelation in Metal Solubilization

@@ -1,10 +1,12 @@
 ---
 title: "Agricultural Land Law as Obstruction to Return Farming"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, land-policy, agricultural-law, farming-for-all, quarter-acre-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Agricultural Land Law as Obstruction to Return Farming

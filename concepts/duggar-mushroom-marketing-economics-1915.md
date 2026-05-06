@@ -1,10 +1,12 @@
 ---
 title: "Duggar Mushroom Marketing and Economics 1915"
+created: 2026-04-28
 tags: [mycology, mushroom-economics, mushroom-marketing, history,
       duggar, market-analysis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # Duggar Mushroom Marketing and Economics 1915

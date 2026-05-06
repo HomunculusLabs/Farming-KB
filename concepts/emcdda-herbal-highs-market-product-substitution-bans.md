@@ -1,5 +1,6 @@
 ---
 title: EMCDDA Herbal Highs Market and Product Substitution After Magic Mushroom Bans
+created: 2026-04-28
 tags:
   - emcdda
   - herbal-highs
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Herbal Highs Market and Product Substitution After Magic Mushroom Bans

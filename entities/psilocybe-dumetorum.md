@@ -1,5 +1,6 @@
 ---
 title: Psilocybe dumetorum
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, southeast-asian-fungi, psychotropic]
 date: 2026-04-28

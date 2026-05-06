@@ -1,5 +1,6 @@
 ---
 title: Alley Cropping and Contour Hedgerow Systems
+created: 2026-04-28
 tags:
   - agroforestry
   - contour-farming
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Alley Cropping and Contour Hedgerow Systems

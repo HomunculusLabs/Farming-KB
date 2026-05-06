@@ -1,10 +1,12 @@
 ---
 title: High Pressure Sodium Lighting
+created: 2026-04-28
 tags: [cannabis, lighting, hps, hid, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # High Pressure Sodium Lighting

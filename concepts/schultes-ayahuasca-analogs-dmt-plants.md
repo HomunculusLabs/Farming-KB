@@ -1,9 +1,11 @@
 ---
 title: "Ayahuasca Analogs and DMT-Containing Plants"
+created: 2026-04-28
 tags: [ethnobotany, ayahuasca, analogs, dmt, mao-inhibitor, harmine, pharmacology, plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Ayahuasca Analogs and DMT-Containing Plants

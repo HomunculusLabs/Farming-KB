@@ -1,5 +1,6 @@
 ---
 title: Cymbopogon citratus
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -116,6 +117,8 @@ sources:
 - **Processing:** Leaves typically steam-distilled within 24 hours of harvest; delayed processing reduces oil yield and alters citral composition
 
 ## See Also
+
+- [[stevia-rebaudiana]]
 
 - [[ocimum-sanctum]] — complementary aromatic medicinal herb used alongside lemongrass in Thai and Ayurvedic traditions
 - [[piper-methysticum-entity]] — another aromatic tropical plant with anxiolytic and ceremonial uses

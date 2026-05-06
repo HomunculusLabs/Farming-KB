@@ -1,9 +1,11 @@
 ---
 title: Ectomycorrhizal Mineral Dissolution and Rock Weathering
+created: 2026-04-28
 tags: [mycology, ectomycorrhiza, mineral-weathering, plant-nutrition, soil-science, biogeochemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: "Geoffrey M. Gadd, Sarah C. Watkinson, Paul S. Dyer (eds). Fungi in the Environment. Cambridge University Press, 2006. Chapter 5: Mineral transformations and biogeochemical cycles."
+type: concept
 ---
 
 # Ectomycorrhizal Mineral Dissolution and Rock Weathering

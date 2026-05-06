@@ -1,5 +1,6 @@
 ---
 title: Water Purification and Storage Principles
+created: 2026-04-28
 tags:
   - permaculture
   - water-management
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 ## Water Purification and Storage Principles

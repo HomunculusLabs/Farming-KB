@@ -1,5 +1,6 @@
 ---
 title: "Kosher Kush"
+created: 2026-04-28
 type: strain
 tags: [cannabis-strain, indica, kush-lineage, high-thc, californian-genetics]
 date: 2026-04-28

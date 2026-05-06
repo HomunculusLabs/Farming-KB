@@ -1,9 +1,11 @@
 ---
 title: "How Do I Start a Food Forest?"
+created: 2026-04-28
 tags: [query, permaculture, food-forest, agroforestry, edible-landscaping]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Start a Food Forest?

@@ -1,11 +1,13 @@
 ---
 title: Natural Farming Four Principles
+created: 2026-04-28
 tags: [natural-farming, no-till, organic, permaculture, fukuoka, sustainable-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Masanobu Fukuoka, The Natural Way of Farming (1975), chapters on the four principles"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
+type: concept
 ---
 
 # Natural Farming Four Principles

@@ -1,9 +1,11 @@
 ---
 title: Swale Design and Water Management
+created: 2026-04-28
 tags: [natural-farming, water-management, swales, permaculture, conservation, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Swale Design and Water Management

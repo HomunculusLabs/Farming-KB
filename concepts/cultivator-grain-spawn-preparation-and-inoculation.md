@@ -1,9 +1,11 @@
 ---
 title: "grain-spawn-preparation and inoculation-methods"
+created: 2026-04-28
 tags: [mushroom-cultivation, grain-spawn, mycelium, inoculation, spawn-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Grain Spawn Preparation and Inoculation Methods

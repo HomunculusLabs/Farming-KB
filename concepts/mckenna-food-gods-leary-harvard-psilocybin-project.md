@@ -1,5 +1,6 @@
 ---
 title: McKenna on Leary at Harvard and the Psilocybin Project
+created: 2026-04-28
 tags:
   - mckenna
   - leary
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # McKenna on Leary at Harvard and the Psilocybin Project

@@ -1,9 +1,11 @@
 ---
 title: McKenna Vegetable Mind and Gaian Holism
+created: 2026-04-28
 tags: [philosophy, consciousness, gaian-theory, entheogens, mckenna]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/mckenna_t-food_of_the_gods.md"]
+type: concept
 ---
 
 # McKenna Vegetable Mind and Gaian Holism

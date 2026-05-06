@@ -1,5 +1,6 @@
 ---
 title: "Goumi (Elaeagnus multiflora)"
+created: 2026-04-28
 type: species
 tags: [permaculture, nitrogen-fixer, elaeagnaceae, edible-fruit, ornamental]
 date: 2026-04-28

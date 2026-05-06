@@ -1,5 +1,6 @@
 ---
 title: Goat Husbandry vs Sheep Husbandry
+created: 2026-04-28
 tags:
   - livestock
   - homesteading
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Goat Husbandry vs Sheep Husbandry
 A comprehensive comparison of [[goat-husbandry]] and [[sheep-husbandry]] for

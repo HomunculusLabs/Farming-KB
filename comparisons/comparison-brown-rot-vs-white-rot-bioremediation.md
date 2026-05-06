@@ -1,9 +1,11 @@
 ---
 title: "Brown Rot vs White Rot Fungi in Bioremediation"
+created: 2026-04-28
 tags: [comparison, bioremediation, fungal-degradation, wood-decay, pollution]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Brown Rot vs White Rot Fungi in Bioremediation

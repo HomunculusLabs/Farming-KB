@@ -1,5 +1,6 @@
 ---
 title: Psilocybe venenata
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, japan, asia]
 date: 2026-04-28

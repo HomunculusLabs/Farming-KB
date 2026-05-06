@@ -1,5 +1,6 @@
 ---
 title: "Chaga vs Reishi — A Comprehensive Comparison"
+created: 2026-04-28
 tags:
   - chaga
   - reishi
@@ -20,6 +21,7 @@ sources:
   - "Wasser, S.P. (2014). Medicinal mushroom science: Current perspectives. Int. J. Medicinal Mushrooms, 16(3), 189–200."
   - "Shashkina, M.Y. et al. (2006). Chaga mushroom: Historical use, composition, and pharmacology. Chemistry for Sustainable Development, 14, 349–357."
   - "Liu, Y.T. et al. (2019). Immunomodulatory effects of Ganoderma lucidum. J. Traditional and Complementary Medicine, 9(2), 93–101."
+type: comparison
 ---
 
 # Chaga vs Reishi — A Comprehensive Comparison
@@ -152,3 +154,9 @@ Both are generally safe and well-tolerated. Consult a practitioner if you have a
 ---
 
 *See also: [[comparison-chaga-vs-reishi-medicinal|Chaga vs Reishi — Medicinal Uses]], [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms|Chaga vs Turkey Tail]]*
+
+## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
+- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
+- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]

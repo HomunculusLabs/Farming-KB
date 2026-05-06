@@ -1,5 +1,6 @@
 ---
 title: "Auricularia auricula-judae"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, edible-mushroom, medicinal-mushroom, auriculariales]
 date: 2026-04-28
@@ -113,6 +114,8 @@ The earliest documented use of Auricularia species dates back over 1,500 years i
 Not threatened; common and widespread. Rated as Least Concern by most regional assessments. Commercial cultivation eliminates any pressure from wild harvesting.
 
 ## See Also
+
+- [[auricularia-auricula-judae]]
 - [[tremella-mesenterica]]
 - [[tremella-fuciformis]]
 - [[pleurotus-ostreatus]]

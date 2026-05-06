@@ -1,10 +1,12 @@
 ---
 title: "Three Stages of Human Collapse: Knowledge, Destruction, Failure"
+created: 2026-04-28
 tags: [civilization-collapse, three-stages, human-knowledge, destruction-of-matter, energy-efficiency, nuclear-power, self-destruction, dharma-wheel]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+type: concept
 ---
 
 # Three Stages of Human Collapse

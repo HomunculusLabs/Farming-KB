@@ -1,9 +1,11 @@
 ---
 title: "Psilocybin Mushroom Dosage and Acute Effects"
+created: 2026-04-28
 tags: [psilocybin, dosage, effects, mushrooms, harm-reduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/carolina-mushrooms_08qxp.md]
+type: concept
 ---
 
 # psilocybin mushroom dosage and acute effects

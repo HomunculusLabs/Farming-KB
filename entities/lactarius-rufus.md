@@ -1,5 +1,6 @@
 ---
 title: Lactarius rufus
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, soil-fauna, nematode-interactions, conifer-associate]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Chitosan and Fungal Biomass Derivatives in Biosorption"
+created: 2026-04-28
 tags: [biosorption, chitosan, fungal-biomass, heavy-metals, immobilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Chitosan and Fungal Biomass Derivatives in Biosorption

@@ -1,10 +1,12 @@
 ---
 title: "Salvia Divinorum and Salvinorin A"
+created: 2026-04-28
 tags: salvia-divinorum-entity, salvinorin-a, kappa-opioid, dissociatives,
        hallucinogens, mint-family]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md]
+type: concept
 ---
 
 # Salvia Divinorum and Salvinorin A

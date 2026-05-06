@@ -1,9 +1,11 @@
 ---
 title: JADAM Natural Pesticide Universal Philosophy
+created: 2026-04-28
 tags: [jadam, universal-pesticide, pesticide-philosophy, farmer-empowerment, size-based-pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # JADAM Natural Pesticide Universal Philosophy

@@ -1,9 +1,11 @@
 ---
 title: "Amanita Muscaria and Soma"
+created: 2026-04-28
 tags: [amanita-muscaria, soma, fly-agaric, ethnobotany, siberia]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Amanita Muscaria and Soma

@@ -1,5 +1,6 @@
 ---
 title: What is the Difference Between Compost Tea and Vermicompost Tea?
+created: 2026-04-28
 tags:
   - compost-tea
   - vermicompost-tea
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 ## Overview
 Compost tea and vermicompost tea are both liquid extracts used as organic soil

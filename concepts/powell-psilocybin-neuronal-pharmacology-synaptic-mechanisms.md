@@ -1,9 +1,11 @@
 ---
 title: Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
+created: 2026-04-28
 tags: [psilocybin, neuroscience, neurons, synapse, neurotransmitter, brain, powell]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Psilocybin Neuronal Pharmacology and Synaptic Mechanisms

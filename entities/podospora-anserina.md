@@ -1,5 +1,6 @@
 ---
 title: Podospora anserina
+created: 2026-04-28
 type: species
 tags: [ascomycete, model-organism, aging, senescence, coprophilous]
 date: 2026-04-28

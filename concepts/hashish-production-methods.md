@@ -1,9 +1,11 @@
 ---
 title: Hashish Production Methods
+created: 2026-04-28
 tags: [cannabis, hashish, extraction, trichomes, traditional]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+type: concept
 ---
 
 # Hashish Production Methods

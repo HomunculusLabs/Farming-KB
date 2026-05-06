@@ -1,10 +1,12 @@
 ---
 title: Cause and Effect Guideline
+created: 2026-04-28
 tags: [decision-making, management-guidelines, problem-solving]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Cause and Effect Guideline

@@ -1,9 +1,11 @@
 ---
 title: "What Is the Best Light Schedule for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, lighting, photoperiod, autoflower]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Best Light Schedule for Cannabis?

@@ -1,9 +1,11 @@
 ---
 title: "What Is Syntropic Agriculture and How Do I Start?"
+created: 2026-04-28
 tags: [syntropic-farming, permaculture, agroforestry, regenerative-agriculture, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Is Syntropic Agriculture and How Do I Start?

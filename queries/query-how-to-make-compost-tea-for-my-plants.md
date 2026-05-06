@@ -1,10 +1,12 @@
 ---
 title: "How Do I Make Compost Tea for My Plants?"
+created: 2026-04-28
 tags: [query, compost-tea, aact, soil-biology, organic-fertilizer]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: query
 ---
 # How Do I Make Compost Tea for My Plants?
 ## Short Answer

@@ -1,9 +1,11 @@
 ---
 title: "Sacred Mushroom Discovery by Wasson"
+created: 2026-04-28
 tags: [wasson, ethnomycology, psilocybin, sacred-mushroom, mazatec]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Sacred Mushroom Discovery by Wasson

@@ -1,9 +1,11 @@
 ---
 title: "How to Read Cannabis Trichomes for the Perfect Harvest Time"
+created: 2026-04-28
 tags: [query, cannabis, harvesting, trichomes, potency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Read Cannabis Trichomes for the Perfect Harvest Time

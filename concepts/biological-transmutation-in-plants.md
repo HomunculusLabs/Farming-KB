@@ -1,9 +1,11 @@
 ---
 title: "Biological Transmutation in Plants"
+created: 2026-04-28
 tags: [transmutation, kervran, biological-nuclear, elements, enzymes, low-energy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Biological Transmutation in Plants

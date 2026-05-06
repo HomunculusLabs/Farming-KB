@@ -1,5 +1,6 @@
 ---
 title: Sacramental Use of Psychedelic Plants in the United States
+created: 2026-04-28
 tags:
   - religious-freedom
   - drug-policy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Sacramental Use of Psychedelic Plants in the United States

@@ -1,5 +1,6 @@
 ---
 title: "Comparison: Orchid Mycorrhizae vs Ericoid Mycorrhizae"
+created: 2026-04-28
 tags:
   - mycorrhiza
   - orchid
@@ -18,6 +19,7 @@ sources:
   - Dearnaley JDW. "Further advances in orchid mycorrhizal research." Mycorrhiza. 2007.
   - Selosse MA, Martos F. "Do orchids really hijack fungi? The myco-heterotrophic challenge." New Phytologist. 2014.
   - Cairney JWG, Meharg AA. "Ericoid mycorrhiza: a partnership that exploits harsh edaphic conditions." European Journal of Soil Science. 2003.
+type: comparison
 ---
 
 # Comparison: Orchid Mycorrhizae vs Ericoid Mycorrhizae

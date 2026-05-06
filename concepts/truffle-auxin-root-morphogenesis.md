@@ -1,5 +1,6 @@
 ---
 title: "Truffle Auxin Production and Root Morphogenesis"
+created: 2026-04-28
 tags:
   - truffles
   - auxin
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Truffle Auxin Production and Root Morphogenesis

@@ -1,5 +1,6 @@
 ---
 title: "Arthrospira platensis"
+created: 2026-04-28
 type: species
 tags:
   - cyanobacteria
@@ -153,6 +154,8 @@ GRAS status at doses up to 8 g/day. Key concerns:
 - **Anticoagulant interaction**: High doses may enhance bleeding risk.
 
 ## See Also
+
+- [[aquaculture-in-permaculture]]
 
 - [[dom]]
 - [[permaculture]]

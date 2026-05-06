@@ -1,9 +1,11 @@
 ---
 title: "How Does Biochar Improve Soil Health and Should I Use It?"
+created: 2026-04-28
 tags: [query, biochar, soil-health, carbon, amendments]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Biochar Improve Soil Health and Should I Use It?

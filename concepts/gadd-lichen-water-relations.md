@@ -1,9 +1,11 @@
 ---
 title: "Lichen Water Relations"
+created: 2026-04-28
 tags: [mycology, lichenology, water-relations, poikilohydry, ecophysiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: gadd-fungal-extremophiles-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Lichen Water Relations

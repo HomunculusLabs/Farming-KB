@@ -1,5 +1,6 @@
 ---
 title: Ballasts and HID Electrical Systems
+created: 2026-04-28
 tags:
   - cannabis
   - lighting
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Ballasts and HID Electrical Systems

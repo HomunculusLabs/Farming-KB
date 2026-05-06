@@ -1,9 +1,11 @@
 ---
 title: Lactic Acid Bacteria in Natural Farming
+created: 2026-04-28
 tags: [lactic-acid-bacteria, knf, natural-farming, soil-biology, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [master-cho-knf-recipe-book.md]
+type: concept
 ---
 
 # Lactic Acid Bacteria in Natural Farming

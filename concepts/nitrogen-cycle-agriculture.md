@@ -1,5 +1,6 @@
 ---
 title: "Nitrogen Cycle in Agriculture"
+created: 2026-04-28
 aliases:
   - agricultural nitrogen cycle
   - nitrogen cycling in soils
@@ -13,6 +14,7 @@ tags:
   - biogeochemistry
   - plant-nutrition
   - environment
+type: concept
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: "Plant Guild"
+created: 2026-04-28
 type: species
 tags: [permaculture, polyculture, companion-planting, food-forest, ecological-design, guild]
 date: 2026-04-28

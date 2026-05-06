@@ -1,11 +1,13 @@
 ---
 title: Fungal Enzymes in Biodegradation
+created: 2026-04-28
 tags: [mycology, enzymes, bioremediation, biochemistry]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
   - ~/wiki/raw/papers/mycelium-running-stamets.md
+type: concept
 ---
 
 # Fungal Enzymes in Biodegradation

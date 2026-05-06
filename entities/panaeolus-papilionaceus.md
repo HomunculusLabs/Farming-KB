@@ -1,5 +1,6 @@
 ---
 title: Panaeolus papilionaceus
+created: 2026-04-28
 type: species
 tags:
   - panaeolus

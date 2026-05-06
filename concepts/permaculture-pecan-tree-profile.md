@@ -1,5 +1,6 @@
 ---
 title: "Pecan Tree Profile for Permaculture Systems"
+created: 2026-04-28
 tags:
   - permaculture
   - nut-trees
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Pecan Tree Profile for Permaculture Systems

@@ -1,5 +1,6 @@
 ---
 title: "Jatropha curcas"
+created: 2026-04-28
 type: species
 tags: [species, plant, permaculture, biofuel, oilseed, medicinal, tropical, phytoremediation]
 date: 2026-04-28

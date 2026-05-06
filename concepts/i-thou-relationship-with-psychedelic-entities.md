@@ -1,10 +1,12 @@
 ---
 title: "The I/Thou Relationship with Psychedelic Entities"
+created: 2026-04-28
 tags: [psychedelic-entities, i-thou-relationship, dmt, mckenna,
       shamanism, critical-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+type: concept
 ---
 
 # The I/Thou Relationship with Psychedelic Entities

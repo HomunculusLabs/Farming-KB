@@ -1,10 +1,12 @@
 ---
 title: "Keyline Design vs Contour Line Water Management"
+created: 2026-04-28
 tags: [comparison, water-management, earthworks, permaculture, land-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: comparison
 ---
 
 # Keyline Design vs Contour Line Water Management

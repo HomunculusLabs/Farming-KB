@@ -1,5 +1,6 @@
 ---
 title: Spent Mushroom Substrate
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - composting
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
   - unknown-oyster-mushroom-cultivation.md
+type: concept
 ---
 
 # Spent Mushroom Substrate

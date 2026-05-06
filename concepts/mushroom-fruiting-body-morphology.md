@@ -1,9 +1,11 @@
 ---
 title: Mushroom Fruiting Body Morphology
+created: 2026-04-28
 tags: [mycology, morphology, taxonomy, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 # Mushroom Fruiting Body Morphology

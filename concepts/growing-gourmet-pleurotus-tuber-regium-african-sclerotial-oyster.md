@@ -107,6 +107,8 @@ structures to bridge unfavorable environmental periods.
 
 ## See Also
 
+- [[tuber-borchii]]
+
 - [[pleurotus-tuber-regium]]
 
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]

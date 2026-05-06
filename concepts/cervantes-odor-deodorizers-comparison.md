@@ -1,9 +1,11 @@
 ---
 title: "Odor Deodorizers and Comparison"
+created: 2026-04-28
 tags: [odor-control, deodorizers, negative-ion, ozone, carbon-filter]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+type: concept
 ---
 
 # Odor Deodorizers and Comparison

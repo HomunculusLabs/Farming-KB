@@ -1,10 +1,12 @@
 ---
 title: Psilocybe Diversity in Mexico
+created: 2026-04-28
 tags: [mycology, biogeography, mexico, psilocybe, fungal-ecology, neurotropic-fungi, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto 14: 189-280."
+type: concept
 ---
 
 # Psilocybe Diversity in Mexico

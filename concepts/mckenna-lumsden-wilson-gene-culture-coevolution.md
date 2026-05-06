@@ -1,10 +1,12 @@
 ---
 title: "Lumsden-Wilson Gene Culture Coevolution Theory"
+created: 2026-04-28
 tags: [evolution, genetics, culture, gene-culture-coevolution, memetics, epigenetics, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Lumsden-Wilson Gene Culture Coevolution Theory

@@ -1,9 +1,11 @@
 ---
 title: "Seed Starting vs Direct Seeding"
+created: 2026-04-28
 tags: [comparison, propagation, seeds, growing-techniques]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Seed Starting vs Direct Seeding
 Two fundamental approaches to getting vegetables growing, each with distinct trade-offs in

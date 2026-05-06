@@ -1,9 +1,11 @@
 ---
 title: "Insectary Plants vs Trap Crops"
+created: 2026-04-28
 tags: [comparison, pest-management, biological-control, organic-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Insectary Plants vs Trap Crops
 Both insectary plants and trap crops are non-chemical strategies for managing pests, but they operate through fundamentally different mechanisms. Insectary plants recruit beneficial insects that suppress pests indirectly, while trap crops lure pests away from the main crop directly. Understanding when and how to deploy each strategy, or combine both, is key to effective integrated pest management.

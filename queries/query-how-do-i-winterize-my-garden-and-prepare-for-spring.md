@@ -1,9 +1,11 @@
 ---
 title: "How Do I Winterize My Garden and Prepare for Spring?"
+created: 2026-04-28
 tags: [query, permaculture, season-extension, soil-health, cover-crops]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Winterize My Garden and Prepare for Spring?

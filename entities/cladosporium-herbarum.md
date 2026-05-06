@@ -1,5 +1,6 @@
 ---
 title: Cladosporium herbarum
+created: 2026-04-28
 type: species
 tags: [ascomycota, airborne-fungus, saprotroph, radiation-tolerance, phyllosphere]
 date: 2026-04-28

@@ -1,10 +1,12 @@
 ---
 title: "Seven Stages of Mushroom Cultivation"
+created: 2026-04-28
 tags: [mushroom-cultivation, growing-stages, lifecycle, methodology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Seven Stages of Mushroom Cultivation

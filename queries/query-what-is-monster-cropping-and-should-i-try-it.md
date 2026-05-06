@@ -1,9 +1,11 @@
 ---
 title: "What Is Monster Cropping and Should I Try It?"
+created: 2026-04-28
 tags: [query, cannabis, training, cloning, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Monster Cropping and Should I Try It?

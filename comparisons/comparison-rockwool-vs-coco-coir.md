@@ -1,9 +1,11 @@
 ---
 title: "Rockwool vs Coco Coir"
+created: 2026-04-28
 tags: [comparison, growing-mediums, cannabis, hydroponics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Rockwool vs Coco Coir
 A detailed comparison of two of the most widely used growing substrates

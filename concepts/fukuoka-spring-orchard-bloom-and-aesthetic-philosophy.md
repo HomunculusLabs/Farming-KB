@@ -1,5 +1,6 @@
 ---
 title: Fukuoka Spring Orchard Bloom and the Aesthetic Philosophy of Nature
+created: 2026-04-28
 tags:
   - natural-farming
   - aesthetics
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: masanobu-fukuoka-the-road-back-to-nature.md
     author: Masanobu Fukuoka
+type: concept
 ---
 
 # Fukuoka Spring Orchard Bloom and the Aesthetic Philosophy of Nature

@@ -1,10 +1,12 @@
 ---
 title: Alternative Soil Conditioners in Organic Gardening
+created: 2026-04-28
 tags: [soil-conditioners, compost, organic-gardening, hamilton, amendments]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Alternative Soil Conditioners in Organic Gardening

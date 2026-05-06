@@ -1,5 +1,6 @@
 ---
 title: Mushroom Aerodynamics and Wind Dispersal of Spores
+created: 2026-04-28
 tags:
   - mycology
   - aerodynamics
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 After mushroom spores are shot from the hymenium by the

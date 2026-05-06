@@ -1,10 +1,12 @@
 ---
 title: The Road Back to Farming - Obstacles and Philosophy
+created: 2026-04-28
 tags: [return-to-land, philosophy, barriers, quarter-acre-vision, love-of-nature]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Road Back to Farming - Obstacles and Philosophy

@@ -1,5 +1,6 @@
 ---
 title: cannabis anointing oil
+created: 2026-04-28
 tags:
   - ritual
   - anointing
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-practitioners-guide-marijuana-magick.md
+type: concept
 ---
 
 # Cannabis Anointing Oil

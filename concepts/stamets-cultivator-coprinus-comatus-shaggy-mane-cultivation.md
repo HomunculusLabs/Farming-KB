@@ -1,5 +1,6 @@
 ---
 title: "Coprinus comatus (Shaggy Mane) Cultivation"
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - species-guide
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Coprinus comatus (Shaggy Mane) Cultivation

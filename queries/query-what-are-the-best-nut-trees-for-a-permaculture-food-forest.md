@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Nut Trees for a Permaculture Food Forest"
+created: 2026-04-28
 tags: [query, food-forest, nut-trees, permaculture, agroforestry]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Best Nut Trees for a Permaculture Food Forest

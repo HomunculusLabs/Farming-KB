@@ -1,5 +1,6 @@
 ---
 title: "Community Garden Mushroom Integration"
+created: 2026-04-28
 tags:
   - urban-farming
   - community-gardens
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation
+type: concept
 ---
 
 # Community Garden Mushroom Integration

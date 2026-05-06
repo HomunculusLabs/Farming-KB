@@ -1,9 +1,11 @@
 ---
 title: "Potting Compost Recipes and Growing Media"
+created: 2026-04-28
 tags: [potting-compost, growing-media, greenhouse, propagation, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Potting Compost Recipes and Growing Media

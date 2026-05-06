@@ -1,9 +1,11 @@
 ---
 title: Fukuoka Seed Ball Method
+created: 2026-04-28
 tags: [fukuoka, seed-balls, no-till, natural-farming, propagation]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 # Fukuoka Seed Ball Method

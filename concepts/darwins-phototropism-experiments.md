@@ -1,5 +1,6 @@
 ---
 title: Darwin's Phototropism Experiments
+created: 2026-04-28
 tags:
   - phototropism
   - darwin
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Darwin's Phototropism Experiments

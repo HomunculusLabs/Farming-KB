@@ -1,5 +1,6 @@
 ---
 title: Hothouse and Hydroponic Agriculture Decline
+created: 2026-04-28
 tags:
   - fukuoka
   - hydroponics
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Hothouse and Hydroponic Agriculture Decline

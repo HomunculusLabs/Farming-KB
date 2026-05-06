@@ -1,10 +1,12 @@
 ---
 title: Psilocybe Global Biodiversity and Southern Hemisphere Origin Hypothesis
+created: 2026-04-28
 tags: [mycology, biogeography, psilocybe, biodiversity, southern-hemisphere, evolution, distribution]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. "A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion." Ann. Mus. civ. Rovereto 14:189-280 (1998-2000).
+type: concept
 ---
 
 # Psilocybe Global Biodiversity and Southern Hemisphere Origin Hypothesis

@@ -1,5 +1,6 @@
 ---
 title: How to Manage Pests and Diseases in Mushroom Cultivation
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - pest-management
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: query
 ---
 # How to Manage Pests and Diseases in Mushroom Cultivation
 

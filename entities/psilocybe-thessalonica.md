@@ -1,5 +1,6 @@
 ---
 title: Psilocybe thessalonica
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, mediterranean-fungi, psychotropic]
 date: 2026-04-28

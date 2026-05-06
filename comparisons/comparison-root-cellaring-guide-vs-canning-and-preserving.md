@@ -1,9 +1,11 @@
 ---
 title: "Root Cellaring vs Canning and Preserving"
+created: 2026-04-28
 tags: [comparison, food-preservation, storage, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # [[solomon-on-root-cellaring]] vs Canning and Preserving

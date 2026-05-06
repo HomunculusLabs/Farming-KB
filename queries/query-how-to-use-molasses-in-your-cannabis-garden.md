@@ -1,10 +1,12 @@
 ---
 title: "How to Use Molasses in Your Cannabis Garden"
+created: 2026-04-28
 tags: [query, cannabis, organic-fertilizer, soil-health, molasses]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Use Molasses in Your Cannabis Garden

@@ -1,9 +1,11 @@
 ---
 title: "Fungal Degradation of DDT and Organochlorine Insecticides"
+created: 2026-04-28
 tags: [mycoremediation, organochlorines, ddt, pesticides, white-rot-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Degradation of DDT and Organochlorine Insecticides

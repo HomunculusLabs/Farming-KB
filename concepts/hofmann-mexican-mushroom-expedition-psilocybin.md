@@ -1,9 +1,11 @@
 ---
 title: "Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin"
+created: 2026-04-28
 tags: [psilocybin, hofmann, mazatec, wasson, maria-sabina, history, ethnobotany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+type: concept
 ---
 
 # Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin

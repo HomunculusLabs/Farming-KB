@@ -1,10 +1,12 @@
 ---
 title: "Molasses Wastewater Fungal Decolorization"
+created: 2026-04-28
 tags: [bioremediation, melanoidin, wastewater, white-rot-fungi, decolorization]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
+type: concept
 ---
 
 # Molasses Wastewater Fungal Decolorization

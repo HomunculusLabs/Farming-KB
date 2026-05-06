@@ -1,5 +1,6 @@
 ---
 title: "Mycorrhiza Micropropagation Integration"
+created: 2026-04-28
 tags:
   - micropropagation
   - mycorrhizae
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Mycorrhiza Micropropagation Integration

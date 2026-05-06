@@ -1,5 +1,6 @@
 ---
 title: "Ganoderma applanatum"
+created: 2026-04-28
 type: species
 tags: [basidiomycete, wood-decay, polypore, fungicolous-host]
 date: 2026-04-28

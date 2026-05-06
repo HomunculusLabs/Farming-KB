@@ -1,5 +1,6 @@
 ---
 title: One Thing Is All Things — Holistic Interconnection in Natural Farming
+created: 2026-04-28
 tags:
   - natural-farming
   - philosophy
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: 5039-5052
+type: concept
 ---
 
 # One Thing Is All Things

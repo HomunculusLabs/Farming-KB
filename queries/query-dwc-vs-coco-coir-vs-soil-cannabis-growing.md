@@ -1,9 +1,11 @@
 ---
 title: "DWC vs Coco Coir vs Soil: Which Growing Medium Is Right for Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, growing-mediums, hydroponics, soil]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # DWC vs Coco Coir vs Soil: Which Growing Medium Is Right for Cannabis

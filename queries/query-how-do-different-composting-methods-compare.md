@@ -1,9 +1,11 @@
 ---
 title: "How Do Different Composting Methods Compare"
+created: 2026-04-28
 tags: [query, composting, soil-health, organic-farming, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Different Composting Methods Compare

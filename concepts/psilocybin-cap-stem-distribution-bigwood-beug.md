@@ -1,10 +1,12 @@
 ---
 title: Psilocybin and Psilocin Distribution Between Cap and Stem in Psilocybe cubensis
+created: 2026-04-28
 tags: [psilocybin, psilocin, mushroom, alkaloid-distribution, cap, stem, psilocybe-cubensis, bigwood-beug, cultivation, flush]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bigwood & Beug (1982), "Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis," Journal of Ethnopharmacology 5:287-291
+type: concept
 ---
 
 # Psilocybin and Psilocin Distribution Between Cap and Stem

@@ -1,9 +1,11 @@
 ---
 title: "Luther Burbank's Plant Breeding Methods"
+created: 2026-04-28
 tags: [plant-breeding, horticulture, burbank, selection, intuition, plant-communication]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Luther Burbank's Plant Breeding Methods

@@ -1,9 +1,11 @@
 ---
 title: Kraft Pulp Bleach Effluent Treatment by White Rot Fungi
+created: 2026-04-28
 tags: [bioremediation, pulp-paper, effluent-treatment, white-rot-fungi, industrial-wastewater]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Kraft Pulp Bleach Effluent Treatment by White Rot Fungi

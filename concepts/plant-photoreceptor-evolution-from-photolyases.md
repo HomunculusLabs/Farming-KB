@@ -1,10 +1,12 @@
 ---
 title: Plant Photoreceptor Evolution from Photolyases
+created: 2026-04-28
 tags: [botany, evolution, photoreceptors, cryptochrome, photolyase, phytochrome, circadian-rhythm, molecular-evolution]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+type: concept
 ---
 
 # Plant Photoreceptor Evolution from Photolyases

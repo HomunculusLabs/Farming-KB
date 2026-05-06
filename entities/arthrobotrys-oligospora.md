@@ -1,5 +1,6 @@
 ---
 title: Arthrobotrys oligospora
+created: 2026-04-28
 type: species
 tags: [nematophagous, ascomycete, biological-control, trap-formation, predatory-fungus]
 date: 2026-04-28

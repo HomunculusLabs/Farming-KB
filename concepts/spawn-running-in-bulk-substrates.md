@@ -1,10 +1,12 @@
 ---
 title: "Spawn Running in Bulk Substrates"
+created: 2026-04-28
 tags: [mushroom-cultivation, spawn, substrate, inoculation, grain-spawn]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Spawn Running in Bulk Substrates

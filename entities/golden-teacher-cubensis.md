@@ -1,5 +1,6 @@
 ---
 title: Golden Teacher
+created: 2026-04-28
 type: strain
 tags: [cannabis-strains, psilocybin-cubensis, cultivation, entheogen, beginner-friendly, microscopy]
 date: 2026-04-28

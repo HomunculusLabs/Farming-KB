@@ -1,8 +1,10 @@
 ---
 title: Water-Use Efficiency in Plants
+created: 2026-04-28
 tags: [plant-physiology, agronomy, irrigation, drought, photosynthesis]
 date: 2026-05-02
 updated: 2026-05-02
+type: concept
 ---
 
 ## Overview

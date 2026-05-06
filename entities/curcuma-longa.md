@@ -1,5 +1,6 @@
 ---
 title: "Curcuma longa"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, zingiberaceae, rhizome-spice, turmeric, anti-inflammatory, curcuminoid]
 date: 2026-04-28

@@ -1,10 +1,12 @@
 ---
 title: "Golden Guide: Morning Glory and Ololiuqui (LSA-Containing Plants)"
+created: 2026-04-28
 tags: [hallucinogenic-plants, lsa, morning-glory, ololiuqui, ethnobotany,
   convolvulaceae, aztec, mescaline]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Sacred Mexican Morning Glories and Ololiuqui

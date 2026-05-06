@@ -1,9 +1,11 @@
 ---
 title: "Jurema Mimosa hostilis Ethnobotany"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, leguminosae, dmt, brazilian]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Jurema Mimosa hostilis Ethnobotany

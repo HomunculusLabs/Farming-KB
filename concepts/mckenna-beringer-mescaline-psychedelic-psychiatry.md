@@ -1,10 +1,12 @@
 ---
 title: "Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry"
+created: 2026-04-28
 tags: [mescaline, psychiatry, Beringer, Lewin, Klüver, psychopharmacology, McKenna, food-of-the-gods, psychedelic-history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
+type: concept
 ---
 
 # Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry

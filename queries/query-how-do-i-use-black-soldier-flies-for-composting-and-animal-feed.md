@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Black Soldier Flies for Composting and Animal Feed?"
+created: 2026-04-28
 tags: [query, composting, black-soldier-fly, insects, animal-feed]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Use Black Soldier Flies for Composting and Animal Feed?

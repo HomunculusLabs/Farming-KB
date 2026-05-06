@@ -1,5 +1,6 @@
 ---
 title: Psilocin Synthesis from 4-Hydroxyindole
+created: 2026-04-28
 tags:
   - synthesis
   - psilocin
@@ -9,6 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # [[psilocin]] Synthesis from indole|4-hydroxyindole

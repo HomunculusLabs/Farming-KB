@@ -1,5 +1,6 @@
 ---
 title: "Cetraria islandica"
+created: 2026-04-28
 type: species
 tags:
   - lichen
@@ -148,3 +149,10 @@ healing and minor skin infections.
 
 Cetraria islandica is not commercially cultivated — all material is
 wild-harvested from natural populations.
+
+## See Also
+
+- [[history-of-mycology-timeline]]
+
+- [[lichens-primary-production-soil-formation-dighton]]
+- [[medicinal-mushrooms]]

@@ -1,9 +1,11 @@
 ---
 title: "What Is Cation Exchange Capacity and Why Does It Matter?"
+created: 2026-04-28
 tags: [query, soil-science, cec, nutrients, soil-health, chemistry]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Cation Exchange Capacity and Why Does It Matter?

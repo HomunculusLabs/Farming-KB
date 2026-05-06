@@ -1,9 +1,11 @@
 ---
 title: Psilocybin Potency Comparative Scale
+created: 2026-04-28
 tags: [chemistry, potency, alkaloids, pharmacology, psilocybin]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Psilocybin Potency Comparative Scale

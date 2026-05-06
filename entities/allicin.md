@@ -1,5 +1,6 @@
 ---
 title: "Allicin"
+created: 2026-04-28
 type: chemical
 tags:
   - organosulfur-compound
@@ -141,6 +142,8 @@ Topical application causes contact dermatitis and skin burns. Potentiates antico
 discontinue 7 days pre-surgery. Not mutagenic in Ames testing.
 
 ## See Also
+
+- [[candida-albicans]]
 
 - [[allium-sativum-entity]] — garlic, the biological source of allicin
 - alliin — precursor amino acid sulfoxide stored in intact garlic cloves

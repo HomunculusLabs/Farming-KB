@@ -1,5 +1,6 @@
 ---
 title: "Yucca filamentosa"
+created: 2026-04-28
 type: species
 tags: [permaculture, xeriscaping, fiber-plants, native-plants, pollinator-plants]
 date: 2026-04-28

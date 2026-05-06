@@ -1,11 +1,13 @@
 ---
 title: "Digging a Hole as Permaculture Practice"
+created: 2026-04-28
 tags: [permaculture, earthworks, excavation, soil-sampling,
        site-analysis, stacking-functions, embodied-knowledge]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Digging a Hole as Permaculture Practice

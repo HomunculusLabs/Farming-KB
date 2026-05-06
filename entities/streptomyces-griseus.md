@@ -1,5 +1,6 @@
 ---
 title: Streptomyces griseus
+created: 2026-04-28
 type: species
 tags: [actinomycetes, antibiotic-production, soil-bacteria, streptomycin, bioactive-compounds]
 date: 2026-04-28

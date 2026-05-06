@@ -1,129 +1,123 @@
 ---
 title: "Scutellaria baicalensis"
+created: 2026-04-28
 type: species
 tags:
-  - plant
   - lamiaceae
-  - herbal-medicine
-  - tcm
-  - huang-qin
-  - flavonoid
-  - baicalin
-  - baicalein
-  - wogonin
+  - herbal-plant
+  - traditional-chinese-medicine
   - anti-inflammatory
-  - anxiolytic
-  - hepatoprotective
+  - neuroprotective
   - adaptogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Li, C. et al. (2020). "A review of the pharmacological effects of Scutellaria baicalensis." Frontiers in Pharmacology, 11, 582395.
-  - Zhang, Z. et al. (2019). "The genus Scutellaria: an ethnopharmacological review." Journal of Ethnopharmacology, 252, 112541.
-  - Shang, X. et al. (2010). "Scutellaria baicalensis Georgi: chemistry, pharmacology, pharmacokinetics." Pharmaceutical Biology, 48(9), 969-979.
-  - Zhao, Q. et al. (2019). "Baicalin attenuates neuroinflammation via suppressing NLRP3." Int Immunopharmacology, 70, 236-243.
-  - Gao, Z. et al. (2014). "Baicalein: a review of anti-cancer effects." Chinese Medicine, 9(1), 17.
+  - "Li, C. et al. (2020). \"Baicalin — a review of pharmacological effects and pharmacokinetics.\" Phytomedicine, 76, 153255."
+  - "Wang, H. et al. (2018). \"Neuroprotective effects of baicalin in neurodegenerative diseases.\" Frontiers in Pharmacology, 9, 1023."
+  - "Zhao, T. et al. (2019). \"Scutellaria baicalensis: a review of traditional uses, phytochemistry, and pharmacology.\" American Journal of Chinese Medicine, 47(8), 1857-1905."
+  - "Gao, Z. et al. (2022). \"Anti-inflammatory activity of wogonin: a review.\" Journal of Ethnopharmacology, 285, 114883."
+  - "Chinese Pharmacopoeia (2020). Ministry of Health, PRC."
 ---
 
-# Scutellaria baicalensis
+# Scutellaria baicalensis (Chinese Skullcap, Huang Qin)
 
 ## Overview
 
-*Scutellaria baicalensis*, known as Chinese skullcap or Huang Qin (黄芩), is a perennial
-herbaceous plant in the mint family (Lamiaceae). Native to dry, rocky slopes of northern
-China, Mongolia, Korea, and the Russian Far East (Lake Baikal region), it has been a
-cornerstone of traditional Chinese medicine for over 2,000 years. The dried root (Radix
-Scutellariae) is prescribed for clearing heat, drying dampness, and resolving toxicity.
+**Scutellaria baicalensis** is a perennial herbaceous plant in the family Lamiaceae, one of the most important medicinal plants in traditional Chinese medicine (TCM). Known as huáng qín (黄芩, "yellow root") in Chinese, the dried root of this species has been used for over 2,000 years for its anti-inflammatory, antipyretic, hepatoprotective, and neuroprotective properties.
 
-Modern research has validated many traditional uses, revealing potent anti-inflammatory,
-antiviral, anxiolytic, and neuroprotective activities attributed primarily to its flavonoid
-glycosides and aglycones — baicalin, baicalein, and wogonin.
+The species is one of the "50 fundamental herbs" in TCM and is a primary ingredient in classic formulations including Xiao Chai Hu Tang (Minor Bupleurum Decoction) and Huang Qin Tang. Modern pharmacological research has validated many traditional uses, identifying flavonoid glycosides — particularly baicalin, baicalein, and wogonin — as the principal bioactive constituents.
 
-## Taxonomy
+Global demand has increased substantially, driven by interest in natural anti-inflammatory and anxiolytic compounds. The species is listed in the Chinese, Japanese, and European Pharmacopoeias.
 
-Angiosperms → Eudicots → Lamiales → Lamiaceae → **Scutellaria → S. baicalensis** Georgi (1775).
+## Taxonomy and Botany
 
-**Synonyms:** *Scutellaria macrantha* Fisch. ex Rchb., *S. rivularis* Wall., *S. strauchii* Bunge.
+- **Kingdom:** Plantae
+- **Division:** Angiosperms
+- **Class:** Eudicots
+- **Order:** Lamiales
+- **Family:** Lamiaceae
+- **Genus:** Scutellaria
+- **Species:** S. baicalensis Georgi
 
-## Morphology
+**Synonyms:** *Scutellaria macrantha* Fisch. ex Rchb., *Scutellaria pinnatifida* A. Ham.
 
-- **Habit:** Perennial herb, 15–40 cm tall, erect and sparingly branched.
-- **Stems:** Square (typical Lamiaceae), green to purplish, pubescent.
-- **Leaves:** Opposite, lanceolate to narrowly ovate, 2–5 × 0.8–2 cm, margin entire or
-  shallowly crenate, dark green above, grayish-pubescent below.
-- **Flowers:** Bisexual, bilabiate, in terminal or axillary one-sided racemes. Calyx with
-  prominent scutellum (shield-shaped appendage, diagnostic for the genus). Corolla
-  blue-violet, 2–3 cm, upper lip hooded. Flowers June–August.
-- **Root:** Primary medicinal organ — thick cylindrical branched taproot, yellowish-brown
-  externally, bright yellow internally (flavonoid pigments). Harvested at 3–4 years.
-- **Fruit:** Schizocarp of four ovoid brown nutlets, ~1.5 mm.
+**Etymology:** *Scutellaria* derives from Latin *scutella* ("small dish" or "shield"), referring to the calyx shape that resembles a shallow dish. *Baicalensis* refers to Lake Baikal in Siberia, near the type locality.
 
-## Distribution and Habitat
+**Growth habit:** Perennial herb, 20–60 cm tall. Erect, quadrangular stems with simple, opposite, ovate-lanceolate leaves (2–5 cm long) with crenate margins. Leaves are dark green above, gray-green and pubescent below.
 
-Native to northern China (Inner Mongolia, Hebei, Shanxi, Gansu), Mongolia, Korea, Japan,
-and eastern Siberia including Lake Baikal. Grows on dry, sunny, rocky hillsides and steppe
-margins at 100–2,000 m elevation. Prefers well-drained calcareous or sandy-loam soils
-(pH 6.5–8.0). Drought-tolerant once established; intolerant of waterlogging.
+**Flowers:** Bilabiate, blue-violet to purple, 2–3 cm long, borne in one-sided terminal racemes. Calyx is two-lipped with a prominent upper lip (the characteristic "shield" or "helmet" shape). Flowers from June to August.
+
+**Root:** The primary medicinal organ — thick, cylindrical, branched taproot, up to 30 cm long. Outer bark is yellowish-brown, inner tissue is bright yellow (due to flavonoid content). The distinctive yellow color is a key quality marker in trade.
+
+## Phytochemistry
+
+The root of *S. baicalensis* contains a complex profile of flavonoids, which account for the majority of its pharmacological activity. The major constituents include:
+
+**Major flavonoid glycosides and aglycones:**
+
+- **Baicalin** (baicalein-7-O-glucuronide) — the most abundant compound (8–15% dry weight). A flavone glycoside that is hydrolyzed to baicalein by intestinal β-glucuronidase.
+- **Baicalein** (5,6,7-trihydroxyflavone) — aglycone of baicalin. More lipophilic than baicalin, with enhanced blood-brain barrier penetration.
+- **Wogonoside** (wogonin-7-O-glucuronide) — 1–3% dry weight.
+- **Wogonin** (5,7-dihydroxy-8-methoxyflavone) — aglycone of wogonoside. Demonstrates selective anxiolytic activity without sedation.
+- **Scutellarin** — a flavone glycoside with neuroprotective properties.
+- **Oroxylin A** — a methoxyflavone with anti-inflammatory and anti-cancer activity.
+
+**Other constituents:** Phenylethanoid glycosides (e.g., acteoside), sterols (β-sitosterol, campesterol), amino acids, and volatile oils (primarily linalool, germacrene D, and β-caryophyllene).
+
+The flavonoid content varies significantly with harvest time, geographic origin, and processing method. Roots harvested in spring (before flowering) typically contain higher baicalin concentrations than autumn-harvested roots.
+
+## Pharmacology and Bioactivity
+
+**Anti-inflammatory:** Baicalin and wogonin inhibit NF-κB signaling and reduce production of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in LPS-stimulated macrophages. Baicalein suppresses COX-2 and iNOS expression. Multiple in vivo studies confirm efficacy in models of carrageenan-induced edema and adjuvant arthritis.
+
+**Neuroprotective:** Baicalin crosses the blood-brain barrier and demonstrates neuroprotective effects in models of cerebral ischemia, Alzheimer's disease, and Parkinson's disease. Mechanisms include inhibition of microglial activation, reduction of oxidative stress, and modulation of GABAergic and dopaminergic neurotransmission.
+
+**Anxiolytic:** Wogonin acts as a positive allosteric modulator of the GABA_A receptor (benzodiazepine site) without the sedative, muscle-relaxant, or amnestic side effects of classical benzodiazepines. This selective pharmacological profile has generated significant interest as a novel anxiolytic lead compound.
+
+**Hepatoprotective:** Baicalin protects against liver injury induced by CCl₄, acetaminophen, and alcohol in rodent models. Mechanisms include antioxidant activity, inhibition of hepatic stellate cell activation, and modulation of Nrf2/ARE signaling pathways.
+
+**Anticancer:** Baicalein and wogonin induce apoptosis and cell cycle arrest in multiple cancer cell lines (hepatoma, breast, prostate, colon) via PI3K/Akt, MAPK, and mitochondrial pathways. Wogonin shows selective toxicity toward cancer cells while sparing normal cells.
+
+**Antiviral:** Demonstrated activity against influenza A (H1N1), HIV, hepatitis B, and SARS-CoV-2 in vitro. Baicalin inhibits viral replication through multiple mechanisms including inhibition of viral polymerases and modulation of host cell signaling.
+
+⚠️ **Safety:** Generally well-tolerated at standard doses (3–9 g dried root/day). Rare adverse effects include gastrointestinal discomfort and allergic skin reactions. High doses (>15 g/day) may cause hepatotoxicity. Interaction potential with CYP450 enzymes warrants caution with concurrent medications.
+
+## Traditional and Modern Uses
+
+In TCM, *S. baicalensis* root (huáng qín) is classified as bitter, cold, and entering the Lung, Gallbladder, Stomach, and Large Intestine meridians. Traditional indications include:
+
+- Clearing heat and drying dampness (diarrhea, dysentery, jaundice)
+- Purging fire and resolving toxicity (sore throat, carbuncles, fevers)
+- Stopping bleeding (hemoptysis, epistaxis, metrorrhagia)
+- Calming the fetus (restless fetus syndrome during pregnancy)
+
+Modern clinical applications include:
+
+- Adjunctive treatment for respiratory infections and bronchitis
+- Management of inflammatory bowel disease (ulcerative colitis)
+- Supportive therapy in hepatitis and liver disorders
+- Anxiolytic use as a natural alternative to benzodiazepines
+- Neuroprotective supplementation in age-related cognitive decline
 
 ## Cultivation
 
-- **Propagation:** Seed (cold stratification at 4°C for 2–4 weeks) or root division.
-- **Spacing:** 30–45 cm between plants, rows 50–60 cm apart.
-- **Soil:** Well-drained sandy loam; heavy clay causes root rot.
-- **Harvest:** Roots dug in autumn of the 3rd or 4th year after senescence, split, air-dried.
-  Yield: 200–400 kg dry root/ha. Chinese Pharmacopoeia requires baicalin ≥ 8.0% (HPLC).
+**Geographic range:** Native to Mongolia, Russia (Siberia, Far East), northern China, Korea, and Japan. Commercial cultivation is centered in Hebei, Shanxi, and Inner Mongolia provinces of China.
 
-## Bioactive Compounds
+**Growing conditions:** Hardy perennial (USDA zones 4–8). Prefers full sun to partial shade, well-drained sandy loam soils, pH 6.5–8.0. Drought-tolerant once established; excessive moisture promotes root rot.
 
-- **Baicalin** (baicalein-7-O-glucuronide): Most abundant flavonoid (5–15% dry root weight).
-  Anti-inflammatory via NF-κB/MAPK inhibition; antiviral against influenza, HBV, HIV.
-- **Baicalein** (aglycone): Potent lipoxygenase and COX-2 inhibitor; induces apoptosis in
-  cancer cells via mitochondrial pathway; anxiolytic via GABA_A modulation.
-- **Wogonin** (8-methoxybaicalein): Selective COX-2 inhibitor; anxiolytic without sedation
-  at low doses via benzodiazepine site of GABA_A receptors.
-- **Wogonoside** (wogonin-7-O-glucuronide): Anti-inflammatory, hepatoprotective; attenuates
-  LPS-induced acute lung injury.
-- **Oroxylin A:** Neuroprotective flavonoid enhancing memory consolidation.
-- **Skullcapflavone II:** Antibacterial and anti-platelet aggregation activity.
+**Propagation:** Primarily by seed (stratification at 4°C for 2–4 weeks improves germination). Direct seeding in spring, or transplant seedlings after 6–8 weeks. Root division in early spring is also practiced.
 
-## Pharmacology
+**Harvest:** Roots are harvested 3–4 years after planting, typically in autumn after aerial parts senesce. Optimal baicalin content correlates with autumn harvest. Roots are washed, stripped of bark, and dried at 40–60°C. Dried root yield: 200–400 kg/ha at 3 years.
 
-- **Anti-inflammatory:** Baicalin/baicalein inhibit NF-κB translocation, reduce TNF-α, IL-1β,
-  IL-6, and iNOS expression. Clinically relevant in colitis, arthritis, and asthma models.
-- **Neuroprotective and anxiolytic:** Baicalein crosses the BBB; reduces ischemia-reperfusion
-  injury and amyloid-beta aggregation. Wogonin acts as GABA_A positive allosteric modulator
-  with anxiolytic but not sedative effects — favorable vs. benzodiazepines.
-- **Antiviral:** Active against influenza A, HBV, RSV, and SARS-CoV-2 (in vitro 3CL protease
-  inhibition).
-- **Anticancer:** Baicalein induces cell cycle arrest and apoptosis in breast, prostate, lung,
-  colorectal, and hepatocellular carcinoma lines. Wogonin selectively targets Th17 cells.
-- **Hepatoprotective:** Baicalin protects against acetaminophen, CCl4, and alcohol-induced
-  liver injury via antioxidant mechanisms and Nrf2 activation.
-- **Cardiovascular:** Reduces blood pressure in hypertensive models; improves endothelial
-  function and reduces atherosclerotic plaque formation.
-
-## Traditional Use
-
-In TCM, Huang Qin is classified as bitter, cold, entering Lung, Gallbladder, Stomach, and
-Large Intestine meridians. Key indications: clearing Lung heat (cough with yellow sputum,
-fever), clearing Gallbladder heat (bitter taste, irritability), resolving damp-heat
-(diarrhea, jaundice), and calming the fetus (threatened miscarriage). Typical dose: 3–10 g
-decocted, or 1–3 g as powder.
-
-## Permaculture Applications
-
-Deep taproot mines subsoil minerals and improves soil structure. Drought-tolerant ground
-cover on rocky slopes. Attracts pollinators when in flower. Can be intercropped with
-shallow-rooted herbs. Root harvest provides marketable medicinal crop.
-
-## Related Species
-
-- *S. lateriflora* (American skullcap) — North American nervine/anxiolytic; different
-  flavonoid profile (scutellarin, apigenin).
-- *S. barbata* (ban zhi lian) — Chinese species used in cancer therapy; rich in scutellarin.
-- *S. galericulata* (marsh skullcap) — European traditional sedative and antispasmodic.
+**Quality control:** Chinese Pharmacopoeia specifies baicalin content ≥ 10.0% (HPLC), with additional limits on moisture (<13%), ash (<6%), and acid-insoluble ash (<1.5%).
 
 ## See Also
 
-- [[bacopa-monnieri]] · [[hypericum-perforatum]] · [[passiflora-incarnata]] · [[valeriana-officinalis]]
 - [[scutellaria-lateriflora]]
+
+- [[ocimum-tenuiflorum]] — Lamiaceous medicinal herb used in Ayurvedic medicine (tulsi)
+- [[withania-somnifera]] — Adaptogenic herb with complementary anti-inflammatory and neuroprotective properties
+- [[panax-ginseng]] — Fundamental TCM herb with synergistic use in classical formulations
+- [[passionflower-passiflora]] — Herbal anxiolytic with GABAergic mechanism similar to wogonin
+- [[ilex-paraguariensis]] — Caffeinated herbal with anti-inflammatory flavonoid profile
+- [[pulsatilla-vulgaris]] — Medicinal plant with anti-inflammatory applications in traditional European medicine

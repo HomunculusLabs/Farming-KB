@@ -1,9 +1,11 @@
 ---
 title: JADAM Natural Pesticide Philosophy
+created: 2026-04-28
 tags: [jadam, natural-pesticide, pest-control, ultra-low-cost, organic-farming]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Natural Pesticide Philosophy

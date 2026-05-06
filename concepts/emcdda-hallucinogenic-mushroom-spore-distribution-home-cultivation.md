@@ -1,10 +1,12 @@
 ---
 title: Free Spore Ring and Home Cultivation Supply Chain
+created: 2026-04-28
 tags: [cultivation, supply-chain, spore-distribution, hallucinogenic-mushrooms, emcdda]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Free Spore Ring and Home Cultivation Supply Chain

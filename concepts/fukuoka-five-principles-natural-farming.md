@@ -1,5 +1,6 @@
 ---
 title: Fukuoka's Five Principles of Natural Farming
+created: 2026-04-28
 tags: [natural-farming, permaculture, no-till, organic, philosophy, fukuoka, regenerative-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
     author: Masanobu Fukuoka
     title: The Natural Way of Farming
     pages: 1-135
+type: concept
 ---
 # Fukuoka's Five Principles of Natural Farming
 Masanobu Fukuoka's natural farming philosophy rests on five foundational
@@ -145,6 +147,8 @@ flooding briefly in early summer. These results demonstrate the five
 principles are a practical, productive farming system applicable
 everywhere.
 ## See Also
+
+- [[natural-farming-principles-fukuoka]]
 
 - [[clay-pellet-seed-encapsulation]]
 - [[masanobu-fukuoka]]

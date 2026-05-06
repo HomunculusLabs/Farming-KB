@@ -1,5 +1,6 @@
 ---
 title: "What Is Black Soldier Fly Composting and How Does It Work?"
+created: 2026-04-28
 tags:
   - composting
   - black-soldier-fly
@@ -11,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Is Black Soldier Fly Composting and How Does It Work?

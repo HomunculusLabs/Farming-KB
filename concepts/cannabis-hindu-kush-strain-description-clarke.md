@@ -91,6 +91,8 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 ## See Also
 
+- [[og-kush-cannabis-strain]]
+
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]

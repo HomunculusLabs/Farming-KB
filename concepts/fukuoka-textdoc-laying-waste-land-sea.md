@@ -1,10 +1,12 @@
 ---
 title: "Laying to Waste the Land and Sea"
+created: 2026-04-28
 tags: [environmental-destruction, livestock, fishing, energy-efficiency, land-depletion]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Laying to Waste the Land and Sea

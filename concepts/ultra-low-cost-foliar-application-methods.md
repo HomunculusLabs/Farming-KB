@@ -1,5 +1,6 @@
 ---
 title: Foliar Application Methods in Ultra-Low-Cost Farming
+created: 2026-04-28
 tags:
   - foliar-feeding
   - jadam
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-way-to-ultra-low-cost-agriculture-untitled.md
+type: concept
 ---
 
 # Foliar Application Methods in Ultra-Low-Cost Farming

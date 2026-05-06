@@ -1,5 +1,6 @@
 ---
 title: "MDMA (3,4-Methylenedioxymethamphetamine)"
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic

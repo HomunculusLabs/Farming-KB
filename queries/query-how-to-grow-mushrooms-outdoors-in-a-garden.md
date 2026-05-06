@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Mushrooms Outdoors in a Garden"
+created: 2026-04-28
 tags: [query, mushrooms, outdoor-growing, garden, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Mushrooms Outdoors in a Garden

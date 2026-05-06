@@ -1,5 +1,6 @@
 ---
 title: How Do I Design a Farm Pond for Irrigation and Wildlife?
+created: 2026-04-28
 tags:
   - farm-pond
   - water-harvesting
@@ -17,6 +18,7 @@ sources:
   - USDA NRCS: Ponds — Planning, Design, Construction (Agriculture Handbook 590)
   - Restoration Agriculture, Mark Shepard
   - Permaculture: A Designers' Manual, Bill Mollison
+type: query
 ---
 
 # How Do I Design a Farm Pond for Irrigation and Wildlife?

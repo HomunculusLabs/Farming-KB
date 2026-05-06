@@ -1,5 +1,6 @@
 ---
 title: "Cho's Yeast Preparation and Applications"
+type: concept
 tags:
   - korean-natural-farming
   - yeast
@@ -7,6 +8,7 @@ tags:
   - disease-control
   - cho-global
 created: 2026-04-25
+type: concept
 updated: 2026-04-27
 sources:
   - "raw/papers/chos-global-natural-farming.md"

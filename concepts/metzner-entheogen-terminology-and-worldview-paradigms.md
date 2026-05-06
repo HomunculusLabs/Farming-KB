@@ -1,5 +1,6 @@
 ---
 title: Entheogen Terminology and Worldview Paradigms
+created: 2026-04-28
 tags:
   - terminology
   - psychedelics
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Entheogen Terminology and Worldview Paradigms

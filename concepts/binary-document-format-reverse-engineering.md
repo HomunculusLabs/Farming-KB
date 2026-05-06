@@ -1,10 +1,12 @@
 ---
 title: Binary Document Format Reverse Engineering
+created: 2026-04-28
 tags: [reverse-engineering, file-formats, document-processing,
       data-recovery, legacy-systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Binary Document Format Reverse Engineering

@@ -1,5 +1,6 @@
 ---
 title: Amanita Toxins and the Evolutionary Puzzle of Mushroom Poisoning
+created: 2026-04-28
 tags:
   - mycology
   - toxicology
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002) Chapter 8
+type: concept
 ---
 
 # Amanita Toxins and the Evolutionary Puzzle of Mushroom Poisoning

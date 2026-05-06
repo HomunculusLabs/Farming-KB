@@ -1,9 +1,11 @@
 ---
 title: Fungal Immobilization and Bioreactor Systems
+created: 2026-04-28
 tags: [bioremediation, bioreactor, immobilization, effluent-treatment, white-rot-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Immobilization and Bioreactor Systems

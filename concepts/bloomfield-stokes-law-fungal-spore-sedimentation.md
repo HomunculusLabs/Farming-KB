@@ -1,5 +1,6 @@
 ---
 title: Stokes Law and Fungal Spore Sedimentation
+created: 2026-04-28
 tags:
   - mycology
   - physics
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 The application of Stokes' law to fungal spore sedimentation

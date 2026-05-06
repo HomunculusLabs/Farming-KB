@@ -1,11 +1,13 @@
 ---
 title: "Structures in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, structures, ecological-design, passive-solar,
        rainwater-catchment, green-roofs, windbreaks, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Structures in Permaculture Design

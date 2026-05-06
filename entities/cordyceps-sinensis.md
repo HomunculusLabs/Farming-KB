@@ -1,9 +1,11 @@
 ---
 title: "Cordyceps sinensis"
+created: 2026-04-28
 tags: [species, fungus, medicinal, ascomycetes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # Cordyceps sinensis

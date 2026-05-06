@@ -1,9 +1,11 @@
 ---
 title: Cultural Defense and Criticism of Psychedelic Use
+created: 2026-04-28
 tags: [psilpsilocybinlture, history, Koestler, Graves, Huxley, criticism, powell]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Cultural Defense and Criticism of Psychedelic Use

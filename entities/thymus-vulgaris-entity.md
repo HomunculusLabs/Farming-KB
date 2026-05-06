@@ -1,5 +1,6 @@
 ---
 title: "Thymus vulgaris"
+created: 2026-04-28
 type: species
 tags: [species, plant, lamiaceae, herbal, culinary-herb, permaculture, medicinal,
   pollinator, companion-plant]

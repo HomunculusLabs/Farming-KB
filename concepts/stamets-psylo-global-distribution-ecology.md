@@ -1,10 +1,12 @@
 ---
 title: Global Distribution and Ecology of Psilocybin Mushrooms
+created: 2026-04-28
 tags: [mycology, ecology, biogeography, psilocybin, distribution]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # Global Distribution and Ecology of Psilocybin Mushrooms

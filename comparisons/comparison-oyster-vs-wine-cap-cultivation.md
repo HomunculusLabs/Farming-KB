@@ -1,10 +1,12 @@
 ---
 title: "Oyster vs Wine Cap Cultivation"
+created: 2026-04-28
 tags: [comparison, mushroom-cultivation, outdoor-growing, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
+type: comparison
 ---
 
 # Oyster vs Wine Cap Cultivation

@@ -1,10 +1,12 @@
 ---
 title: Gasteromycetes, Puffballs, Earthstars, False Truffles, and Evolution
+created: 2026-04-28
 tags: [mycology, fungal-biology, gasteromycetes, puffballs, earthstars, false-truffles, basidiomycota, evolution, spore-dispersal]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Gasteromycetes, Puffballs, Earthstars, False Truffles, and Evolution

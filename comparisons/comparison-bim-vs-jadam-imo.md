@@ -1,10 +1,12 @@
 ---
 title: "BIM vs JADAM Indigenous Microorganism Solution"
+created: 2026-04-28
 tags: [comparison, indigenous-microorganisms, organic-farming, soil-biology, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
+type: comparison
 ---
 
 # BIM vs JADAM Indigenous Microorganism Solution

@@ -1,5 +1,6 @@
 ---
 title: "Ice Cream Cake"
+created: 2026-04-28
 type: strain
 tags: [cannabis, strain, indica-dominant, hybrid, gsc-lineage,
   wedding-cake-lineage, high-thc, dessert-terpene]

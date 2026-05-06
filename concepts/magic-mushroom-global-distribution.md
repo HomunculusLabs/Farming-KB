@@ -1,5 +1,6 @@
 ---
 title: Magic Mushroom Global Distribution
+created: 2026-04-28
 tags:
   - psilocybin
   - mycology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
+type: concept
 ---
 
 # Magic Mushroom Global Distribution

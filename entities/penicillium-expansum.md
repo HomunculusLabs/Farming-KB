@@ -1,5 +1,6 @@
 ---
 title: "Penicillium expansum"
+created: 2026-04-28
 type: species
 tags: [ascomycete, post-harvest-pathogen, mycotoxin, fruit-rot]
 date: 2026-04-28

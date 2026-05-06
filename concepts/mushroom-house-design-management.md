@@ -1,11 +1,13 @@
 ---
 title: Mushroom House Design and Management
+created: 2026-04-28
 tags: [mushroom-house, humidity-control, ventilation, fruiting,
   incubation, pest-management]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Mushroom House Design and Management

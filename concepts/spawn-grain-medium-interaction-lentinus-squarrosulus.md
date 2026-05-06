@@ -1,10 +1,12 @@
 ---
 title: "Spawn Grain and Culture Medium Interaction for Lentinus Squarrosulus Carpophore Production"
+created: 2026-04-28
 tags: [mushroom-cultivation, spawn-grain, lentinus-squarrosulus, nigeria, carpophore]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
+type: concept
 ---
 
 # Spawn Grain and Culture Medium Interaction for Lentinus Squarrosulus

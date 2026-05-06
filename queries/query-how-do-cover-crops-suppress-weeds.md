@@ -1,9 +1,11 @@
 ---
 title: "How do cover crops suppress weeds?"
+created: 2026-04-28
 tags: [query, cover-crops, weeds, soil-health]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do cover crops suppress weeds?

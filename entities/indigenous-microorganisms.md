@@ -1,5 +1,6 @@
 ---
 title: Indigenous Microorganisms
+created: 2026-04-28
 type: species
 tags: [knf, imo, microorganism-collection, soil-health, cho-global]
 date: 2026-04-28

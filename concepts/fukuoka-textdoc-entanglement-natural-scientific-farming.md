@@ -1,10 +1,12 @@
 ---
 title: Entanglement of Natural and Scientific Farming
+created: 2026-04-28
 tags: [natural-farming, scientific-farming, sericulture, divergence, history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Entanglement of Natural and Scientific Farming

@@ -1,9 +1,11 @@
 ---
 title: "Chinese Tallow Tree"
+created: 2026-04-28
 tags: [species, plant, tree, oil-crop, multipurpose]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Chinese Tallow Tree

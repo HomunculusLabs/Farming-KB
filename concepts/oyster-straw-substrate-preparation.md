@@ -1,9 +1,11 @@
 ---
 title: "Straw Substrate Preparation for Oyster Mushrooms"
+created: 2026-04-28
 tags: [substrate, straw, preparation, regional-methods]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Straw Substrate Preparation for Oyster Mushrooms

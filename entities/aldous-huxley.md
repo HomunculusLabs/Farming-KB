@@ -1,5 +1,6 @@
 ---
 title: Aldous Huxley
+created: 2026-04-28
 type: person
 tags: [ethnobotany, psychedelic-literature, mescaline, consciousness, literature]
 date: 2026-04-28

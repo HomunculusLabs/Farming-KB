@@ -1,5 +1,6 @@
 ---
 title: Exophiala dermatitidis
+created: 2026-04-28
 type: species
 tags: [pathogen, melanin, ascomycete, human-disease, virulence-factor]
 date: 2026-04-28

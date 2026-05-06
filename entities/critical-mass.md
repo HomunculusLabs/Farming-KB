@@ -1,5 +1,6 @@
 ---
 title: "Critical Mass"
+created: 2026-04-28
 type: strain
 tags: [cannabis, indica, medicinal-cannabis, high-yield, CBD]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Gymnopilus penetrans"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, agaricales, cortinariaceae,
   gymnopilus, psychoactive, psilocybin-containing,

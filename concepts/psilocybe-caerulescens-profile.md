@@ -1,10 +1,12 @@
 ---
 title: Psilocybe caerulescens Species Profile
+created: 2026-04-28
 tags: [mycology, psilocybin, taxonomy, identification, species-profile]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # [[psilocybe-caerulescens-entity]] [[psilocybe-ovoideocystidiata-species-profile]]
 

@@ -1,10 +1,12 @@
 ---
 title: Soil Edaphic Factors and Microbial Communities
+created: 2026-04-28
 tags: [soil-science, microbiome, edaphic-factors]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # Soil Edaphic Factors and Microbial Communities

@@ -1,9 +1,11 @@
 ---
 title: "Ferrocement vs Cob Construction"
+created: 2026-04-28
 tags: [natural-building, sustainable-architecture, ferrocement, cob, earth-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Ferrocement vs Cob Construction

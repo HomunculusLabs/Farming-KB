@@ -1,10 +1,12 @@
 ---
 title: "Fungal Rhizodegradation of Petroleum-Contaminated Soils"
+created: 2026-04-28
 tags: [mycoremediation, rhizodegradation, petroleum-hydrocarbons, plant-fungal-interactions, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Rhizodegradation of Petroleum-Contaminated Soils

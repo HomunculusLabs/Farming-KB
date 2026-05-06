@@ -1,9 +1,11 @@
 ---
 title: African Neurotropic Mushroom Species
+created: 2026-04-28
 tags: [mycology, african-fungi, psilocybin-mushrooms, fungal-distribution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+type: concept
 ---
 
 # African Neurotropic Mushroom Species

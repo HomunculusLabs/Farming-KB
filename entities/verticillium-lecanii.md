@@ -1,5 +1,6 @@
 ---
 title: "Verticillium lecanii"
+created: 2026-04-28
 type: species
 tags: [ascomycete, entomopathogen, mycoparasite, biocontrol-agent]
 date: 2026-04-28

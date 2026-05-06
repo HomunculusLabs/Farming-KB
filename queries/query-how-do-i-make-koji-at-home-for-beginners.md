@@ -1,5 +1,6 @@
 ---
 title: "How Do I Make Koji at Home for Beginners?"
+created: 2026-04-28
 tags: [fermentation, koji, beginner-guide, diy, japanese-cuisine, cultured-foods]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Kodo, "The Art of Koji Making" (2016)
   - Galloway, "Koji Alchemy" (2020)
   - Sullivan, "Noma Guide to Fermentation" (2018)
+type: query
 ---
 
 # How Do I Make Koji at Home for Beginners?

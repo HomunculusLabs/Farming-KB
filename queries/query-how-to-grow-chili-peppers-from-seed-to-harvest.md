@@ -1,5 +1,6 @@
 ---
 title: How to Grow Chili Peppers from Seed to Harvest
+created: 2026-04-28
 tags:
   - chili-peppers
   - capsicum
@@ -19,6 +20,7 @@ sources:
   - Ashworth, *Seed to Seed*, 2nd ed., 2002
   - Jeavons, *How to Grow More Vegetables*, 9th ed., 2017
   - NMSU Chile Pepper Institute, growing guides and cultivar database
+type: query
 ---
 
 # How to Grow Chili Peppers from Seed to Harvest
@@ -187,17 +189,12 @@ Overwintered plants produce earlier and more heavily in their second year, as th
 |-------|--------|------------|
 | **Seed sowing** | 6–10 weeks before last frost | Sow 6mm deep, provide bottom heat (28–30°C) |
 | **Germination** | 7–21 days after sowing | Remove humidity dome immediately |
-| **Transplant up** | 3–4 weeks after sowing (when true leaves appear) | Move to larger pots with richer soil |
-| **Harden off** | 1–2 weeks before transplant | Gradually expose to outdoor conditions |
-| **Transplant outdoors** | 2–3 weeks after last frost | Soil temp ≥ 18°C, full sun |
-| **First flowers** | 4–6 weeks after transplant | Pinch off to encourage vegetative growth |
-| **Fruit set** | 6–8 weeks after transplant | Maintain consistent moisture |
-| **First harvest** | 65–120 days after transplant (variety-dependent) | Cut, don't pull |
-| **Peak harvest** | Mid-summer through first frost | Pick regularly to encourage more production |
-| **Seed saving** | Late season | Select best fully ripe fruit |
-| **Overwintering** | Before first frost | Prune, pot, bring indoors |
 
 ## See Also
+
+- [[query-how-to-grow-shiitake-mushrooms-on-logs]]
+- [[query-what-is-seed-viability-and-how-do-i-test-it]]
+- [[design-from-patterns-to-details]]
 
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]

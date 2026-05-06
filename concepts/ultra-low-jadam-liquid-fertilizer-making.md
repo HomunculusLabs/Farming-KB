@@ -1,9 +1,11 @@
 ---
 title: "JADAM Liquid Fertilizer Making"
+created: 2026-04-28
 tags: [jadam, liquid-fertilizer, compost-tea, diy-fertilizer, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # [[jadam-liquid-fertilizer]] Making

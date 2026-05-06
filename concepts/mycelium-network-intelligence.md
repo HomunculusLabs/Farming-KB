@@ -1,5 +1,6 @@
 ---
 title: Mycelium Network Intelligence
+created: 2026-04-28
 tags:
   - mycology
   - mycelium
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - mycelium-running-stamets.md
+type: concept
 ---
 
 Mycelium is the vegetative body of fungi, composed of threadlike

@@ -1,9 +1,11 @@
 ---
 title: "Composting Science and Microbiology"
+created: 2026-04-28
 tags: [composting, soil-biology, decomposition, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Composting is the controlled decomposition of organic materials by soil

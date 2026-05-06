@@ -1,5 +1,6 @@
 ---
 title: 2C-I
+created: 2026-04-28
 type: chemical
 tags:
   - phenethylamine

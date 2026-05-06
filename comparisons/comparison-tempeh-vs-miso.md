@@ -1,9 +1,11 @@
 ---
 title: "Tempeh vs Miso Making"
+created: 2026-04-28
 tags: [comparison, fermentation, food-preservation, soybeans, protein]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Tempeh vs Miso Making

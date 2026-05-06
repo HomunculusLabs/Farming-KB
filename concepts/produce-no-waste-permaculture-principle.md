@@ -1,10 +1,12 @@
 ---
 title: "Produce No Waste — Permaculture Principle 6"
+created: 2026-04-28
 tags: [permaculture, design-principles, waste-reduction, circular-economy, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Produce No Waste — Permaculture Principle 6

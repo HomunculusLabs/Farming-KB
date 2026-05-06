@@ -1,124 +1,141 @@
 ---
-title: Harmine
+title: "Harmine"
+created: 2026-04-28
+updated: 2026-04-28
 type: chemical
 tags:
-  - psychedelic
-  - tryptamine
   - beta-carboline
-  - maoi
+  - mao-inhibitor
+  - psychedelic
   - ayahuasca
-  - harmala-alkaloid
   - entheogen
-  - pharmacology
-date: 2026-04-28
-updated: 2026-04-28
+  - alkaloid
 sources:
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
-  - Ott, J. (1993). Ayahuasca Analogues: Pangaean Entheogens.
-  - McKenna, D.J. et al. (1984). "Monoamine oxidase inhibitors in South American hallucinogenic plants." Journal of Ethnopharmacology.
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Harmine
+  - Ott, J. (1993). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History. Natural Products Co.
+  - Kim, H.C. et al. (1997). "Harmine-induced neurotoxicity in rat cerebrocortical neurons." European Journal of Pharmacology, 332(3), 313-319.
+  - Samoylenko, V. et al. (2010). "Banisteriopsis caapi — a new species from the Amazonian rainforest." Journal of Ethnopharmacology, 128(1), 170-175.
+  - Hamill, J. et al. (2019). "The pharmacology of ayahuasca." Frontiers in Pharmacology, 10, 1-22.
 ---
-
-# Harmine
 
 ## Overview
 
-**Harmine** (7-methoxy-1-methyl-9H-pyrido[3,4-b]indole) is a β-carboline alkaloid and reversible inhibitor of monoamine oxidase A (MAO-A). It occurs naturally in **Banisteriopsis caapi** (ayahuasca vine) and **Peganum harmala** (Syrian rue). Harmine plays a critical pharmacological role in ayahuasca by inhibiting gastrointestinal MAO-A, which otherwise rapidly degrades orally ingested DMT, rendering it psychoactive. Beyond its MAOI role, harmine possesses neuroprotective, anti-inflammatory, and potential anti-cancer properties.
+Harmine (7-methoxy-1-methyl-9H-pyrido[3,4-b]indole) is a β-carboline alkaloid
+and a reversible inhibitor of monoamine oxidase A (MAO-A). It is the principal
+bioactive compound in *Banisteriopsis caapi*, the primary botanical ingredient
+in the traditional Amazonian psychoactive brew ayahuasca. Harmine functions
+as the crucial pharmacological facilitator in ayahuasca, inhibiting the
+peripheral breakdown of orally ingested DMT and enabling its central
+psychoactive effects.
 
-## Chemical Identity
+Beyond its role in ayahuasca, harmine has a broad pharmacological profile that
+includes potential applications as an antidepressant, anti-inflammatory,
+antidiabetic, and neuroprotective agent. It was first isolated in 1847 from
+the seeds of Syrian rue (*Peganum harmala*) by the German chemist Fritzsche.
 
-| Property | Value |
-|----------|-------|
-| **IUPAC Name** | 7-methoxy-1-methyl-9H-pyrido[3,4-b]indole |
-| **CAS Number** | 442-51-3 |
-| **Molecular Formula** | C₁₃H₁₂N₂O |
-| **Molecular Weight** | 212.25 g/mol |
-| **Melting Point** | 257–261°C |
-| **Appearance** | Colorless to pale yellow crystalline solid |
-| **Solubility** | Slightly soluble in water; soluble in ethanol, chloroform |
+## Chemical Properties
 
-Harmine is a **β-carboline** (9H-pyrido[3,4-b]indole), structurally related to serotonin and tryptamine, sharing the indole nucleus. The β-carboline family includes **harmaline** (dihydro derivative), **tetrahydroharmine (THH)** (fully reduced), **harmane** (non-methoxylated), and **norharmane**.
+Harmine has the molecular formula C₁₃H₁₂N₂O and a molecular weight of
+212.25 g/mol. It is a β-carboline (9H-pyrido[3,4-b]indole) derivative
+with a methoxy substituent at the 7-position and a methyl group at the
+1-position of the indole nitrogen.
 
-## Natural Occurrence
+The compound forms yellow crystalline needles with a melting point of
+257–259 °C. It exhibits fluorescence under UV light (emission maximum
+~450 nm when excited at ~330 nm), a property historically used in its
+detection and identification. Harmine is sparingly soluble in water but
+readily dissolves in ethanol, methanol, chloroform, and dilute acids as
+its hydrochloride salt.
 
-| Plant Species | Common Name | Harmine Content |
-|---------------|-------------|-----------------|
-| *Banisteriopsis caapi* | Ayahuasca vine | 0.18–0.72% dry weight |
-| *Peganum harmala* | Syrian rue | 0.3–4.3% in seeds |
-| *Passiflora incarnata* | Passionflower | Trace |
+Harmine is a weak base (pKₐ ~7.7) and exists predominantly in its protonated
+form at physiological pH, which influences both its pharmacokinetics and its
+ability to cross the blood-brain barrier.
 
-In *Peganum harmala*, seeds contain harmine along with harmaline and THH at 2–6% total alkaloids by dry weight.
+## Natural Sources
+
+Harmine is found in several plant families across diverse geographic regions:
+
+- **Ayahuasca vine** (*Banisteriopsis caapi*): 0.1–0.7% harmine in dried bark;
+  the most culturally significant source, used in Amazonian shamanic practice
+  for centuries
+- **Syrian rue** (*Peganum harmala*): 0.3–4.5% harmine in seeds; the richest
+  botanical source, used traditionally across the Middle East and Central Asia
+- **Passion flower** (*Passiflora incarnata*): Trace amounts of harmine and
+  related β-carbolines in leaf and aerial tissues
+
+The β-carboline alkaloid profile varies between species. *Banisteriopsis caapi*
+contains harmine alongside harmaline, tetrahydroharmine (THH), and harmol,
+while *Peganum harmala* seeds contain predominantly harmine and harmaline
+with minimal THH.
 
 ## Pharmacology
 
-### MAO Inhibition
-- **IC₅₀ for MAO-A:** ~50 nM (highly potent)
-- **IC₅₀ for MAO-B:** ~5 µM (10,000× less — effectively selective for MAO-A)
+Harmine's most significant pharmacological action is reversible, competitive
+inhibition of MAO-A, with an IC₅₀ of approximately 5–50 nM. This inhibition
+is central to its role in ayahuasca: by blocking MAO-A in the gut and liver,
+harmine prevents the oxidative deamination of orally ingested DMT, which
+would otherwise be rendered inactive before reaching the central nervous system.
 
-By blocking MAO-A in the intestinal wall and liver, harmine prevents oxidative deamination of DMT, allowing it to reach systemic circulation and cross the blood-brain barrier.
+Additional pharmacological activities include:
 
-### Other Receptor Interactions
-- **5-HT₂A receptors:** Weak binding; contributes to mild visual effects
-- **Imidazoline I₂ receptors:** Moderate affinity — neuroprotective effects
-- **DYRK1A kinase:** Potent inhibition — basis for anti-cancer research
+- **5-HT₂A partial agonism**: Weak direct serotonergic activity contributing
+  to mild visual effects at high doses
+- **DNA intercalation**: Binds to double-stranded DNA, contributing to
+  cytotoxic and antitumor properties observed in vitro
+- **DYRK1A inhibition**: Potent inhibition of dual-specificity tyrosine-
+  phosphorylation-regulated kinase 1A; under investigation for neurodegenerative
+  disease applications
+- **Antioxidant activity**: Scavenges reactive oxygen species in vitro
 
-### Pharmacokinetics
-Well absorbed orally; crosses the blood-brain barrier; metabolized hepatically via CYP2D6 and CYP1A2 to harmalol; half-life ~1.5–3 hours.
+Harmine has an oral bioavailability of approximately 30–50% and reaches peak
+plasma concentrations within 30–60 minutes. The elimination half-life is
+1.5–3 hours. It is metabolized by hepatic CYP2D6 and CYP1A2 enzymes.
 
-## Psychoactive Effects
+## Effects and Dosage
 
-At ayahuasca-context doses (50–200 mg):
-- Mild visual perceptual changes (geometric patterns, color enhancement)
-- Nausea and gastrointestinal stimulation (the "purge")
-- Mild sedation and tranquility
-- Potentiation and modulation of DMT's psychoactive effects
+When consumed alone, harmine produces mild psychoactive effects at doses
+of 50–300 mg. The subjective experience includes:
 
-## Neuroprotective and Medicinal Properties
+- Mild visual alterations with enhanced pattern recognition
+- Sedation and physical relaxation
+- Mild nausea at onset (especially with crude plant preparations)
+- Transient changes in mood and emotional reactivity
+- Suppression of appetite
 
-- **BDNF upregulation:** Stimulates brain-derived neurotrophic factor, promoting neuronal survival and plasticity
-- **Anti-inflammatory:** Inhibits NF-κB signaling; reduces TNF-α, IL-6, COX-2 expression
-- **Anti-oxidant:** Scavenges ROS; upregulates SOD, catalase, GPx
-- **Anti-cancer:** Inhibits DYRK1A, overexpressed in glioblastoma, pancreatic, and breast cancers
-- **Antimicrobial:** Activity against *S. aureus*, *E. coli*, *C. albicans*, *Leishmania* spp.
+At higher doses (300–500 mg), harmine can produce tremor, ataxia, and
+significant CNS depression. The therapeutic index is relatively narrow
+compared to classical psychedelics, and overdose can cause hypertensive
+crisis, hyperthermia, and serotonin syndrome — particularly when combined
+with serotonergic drugs.
 
-## Historical and Cultural Context
-
-First isolated from *Peganum harmala* in 1847. Its role in ayahuasca was elucidated in the 1960s–80s by Schultes, Naranjo, and McKenna. The β-carboline alkaloids have deep cultural roots:
-- **South America:** Central to ayahuasca ceremonies for 1,000+ years
-- **Middle East/Central Asia:** *P. harmala* seeds used in traditional medicine and as a dye (Turkish red)
-- **Amazonian cosmology:** Ayahuasca vine is a sacred teacher plant; "Mother Ayahuasca" spirit
-
-## Safety and Contraindications
-
-### Toxicity
-LD₅₀ (oral, rat): ~220 mg/kg
-
-### Dangerous Drug Interactions
-MAO-A inhibition creates **serious contraindications** with:
-- **SSRIs/SNRIs** — risk of serotonin syndrome (potentially fatal)
-- **MDMA, amphetamines, cocaine** — serotonin syndrome risk
-- **Dextromethorphan, tramadol** — serotonin syndrome/seizures
-- **Sympathomimetics** — ephedrine, pseudoephedrine
-- **Tyramine-rich foods** — risk of hypertensive crisis (lower than irreversible MAOIs)
-
-The reversible nature provides a wider safety margin than irreversible MAOIs (phenelzine, tranylcypromine), but interactions remain dangerous. Dietary tyramine restrictions recommended for 4–12 hours around ingestion.
+In the context of ayahuasca, harmine's effects are largely overshadowed by
+the DMT experience it facilitates. However, users consistently report that
+the ayahuasca experience feels qualitatively different from smoked or
+injected DMT, with the harmala alkaloids contributing a distinctive
+grounding, purgative, and introspective quality to the experience.
 
 ## Legal Status
 
-- **US:** Unscheduled at federal level; may be regulated under Federal Analogue Act. *P. harmala* seeds legal to possess.
-- **Brazil:** Legal as part of recognized religious practice (Santo Daime, União do Vegetal, Barquinha).
-- **France:** Harmala alkaloids are controlled substances.
-- **International:** Generally unscheduled; varies by country.
+Harmine is unscheduled at the federal level in the United States but is
+indirectly regulated through DEA enforcement actions targeting ayahuasca
+materials. The União do Vegetal (UDV) church secured a 2006 Supreme Court
+ruling (Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal) affirming
+its right to use ayahuasca in religious ceremonies under the Religious
+Freedom Restoration Act.
 
-## Related Compounds
-
-- [[Harmaline]] — dihydro derivative; stronger MAO-A inhibition, more sedative
-- [[Tetrahydroharmine]] — fully reduced; weak MAOI, serotonin reuptake inhibitor
-- [[Banisteriopsis caapi]] — primary botanical source in ayahuasca
-- [[DMT]] — visionary tryptamine potentiated by harmine in ayahuasca
+*Peganum harmala* seeds are controlled or restricted in several countries
+including France, Poland, and Russia. Harmine itself is scheduled in
+Australia (Schedule 9) and is regulated under pharmaceutical legislation
+in several European nations. In most of South America, harmine-containing
+plants are legal as they are recognized elements of indigenous cultural
+practice.
 
 ## See Also
 
-- [[banisteriopsis-caapi]]
-- [[dextromethorphan]]
-- [[ephedrine]]
+- [[dmt]]
+- [[tetrahydroharmine]]
+- [[psilocybin]]
+- [[mescaline]]
+- [[ergine]]
+- [[ibogaine]]
+- [[passiflora-incarnata]]

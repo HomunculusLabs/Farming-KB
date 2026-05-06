@@ -1,5 +1,6 @@
 ---
 title: "Eugenol"
+created: 2026-04-28
 type: chemical
 tags: [chemical, phenylpropene, terpene-phenolic, analgesic, anti-inflammatory, antimicrobial, clove, cannabis, herbal]
 date: 2026-04-28

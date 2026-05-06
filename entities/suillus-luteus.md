@@ -1,5 +1,6 @@
 ---
 title: Suillus luteus
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, suillaceae, boletes]
 date: 2026-04-28

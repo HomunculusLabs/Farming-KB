@@ -1,10 +1,12 @@
 ---
 title: BIS-TOM (4-Methyl-2,5-bis-(methylthio)amphetamine) - PIHKAL Entry #12
+created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, thio-compound, inactive-compound]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # BIS-TOM

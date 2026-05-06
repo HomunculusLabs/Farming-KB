@@ -1,9 +1,11 @@
 ---
 title: Rhizomorphic vs Cottony Mycelial Morphology
+created: 2026-04-28
 tags: [mycology, mycelium, strain-selection, Stamets, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Rhizomorphic vs Cottony Mycelial Morphology

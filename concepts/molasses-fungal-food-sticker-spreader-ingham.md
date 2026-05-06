@@ -1,5 +1,6 @@
 ---
 title: Molasses as Fungal Food and Sticker-Spreader in Compost Tea
+created: 2026-04-28
 tags:
   - compost-tea
   - molasses
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+type: concept
 ---
 
 # Molasses as Fungal Food and Sticker-Spreader in Compost Tea

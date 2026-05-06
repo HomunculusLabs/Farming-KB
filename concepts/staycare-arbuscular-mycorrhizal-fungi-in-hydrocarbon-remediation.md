@@ -1,9 +1,11 @@
 ---
 title: "Arbuscular Mycorrhizal Fungi in Hydrocarbon Remediation"
+created: 2026-04-28
 tags: [mycorrhizae, hydrocarbons, petroleum, phytoremediation, soil-remediation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # [[arbuscular-mycorrhizal-fungi]] in Hydrocarbon Remediation

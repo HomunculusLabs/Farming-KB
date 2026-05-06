@@ -1,11 +1,13 @@
 ---
 title: No-Till Rice and Winter Grain Succession Cropping
+created: 2026-04-28
 tags: [natural-farming, no-till, rice, barley, wheat, cover-crops, clover, direct-seeding, fukuoka, sustainable-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Masanobu Fukuoka, The Natural Way of Farming (1975), chapters on Rice and Winter Grain"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
+type: concept
 ---
 
 # No-Till Rice and Winter Grain Succession Cropping

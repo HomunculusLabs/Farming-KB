@@ -1,9 +1,11 @@
 ---
 title: "DMT Hyperspace and Smoked Tryptamines"
+created: 2026-04-28
 tags: [DMT, tryptamine, hyperspace, 5meo-dmt, smoking]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # DMT Hyperspace and Smoked Tryptamines

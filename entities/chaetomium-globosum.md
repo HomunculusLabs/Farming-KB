@@ -1,5 +1,6 @@
 ---
 title: Chaetomium globosum
+created: 2026-04-28
 type: species
 tags: [fungi, saprotroph, cellulose-decomposer, soil-fauna, earthworm-interactions]
 date: 2026-04-28

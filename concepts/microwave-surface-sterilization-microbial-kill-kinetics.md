@@ -1,10 +1,12 @@
 ---
 title: Microwave Surface Sterilization Microbial Kill Kinetics
+created: 2026-04-28
 tags: [sterilization, microwaves, microbial-kill, nasa, food-safety, mycology, contamination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - sterilizing-surfaces-by-irradiation-with-microwaves.md
+type: concept
 ---
 
 # Microwave Surface Sterilization Microbial Kill Kinetics

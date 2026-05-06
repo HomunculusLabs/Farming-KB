@@ -1,9 +1,11 @@
 ---
 title: "KNF IMO Diversity and Best Practices"
+created: 2026-04-28
 tags: [knf, natural-farming, imo, microorganisms, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF IMO Diversity and Best Practices

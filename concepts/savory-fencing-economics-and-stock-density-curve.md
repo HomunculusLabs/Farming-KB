@@ -1,10 +1,12 @@
 ---
 title: "Fencing Economics and Stock Density Curve"
+created: 2026-04-28
 tags: [holistic-management, fencing, paddock-design, stock-density,
       diminishing-returns, grazing-infrastructure, marginal-reaction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Fencing Economics and Stock Density Curve

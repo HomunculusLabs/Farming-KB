@@ -1,9 +1,11 @@
 ---
 title: "Soil Enzymes and Decomposition"
+created: 2026-04-28
 tags: [soil-biology, enzymes, decomposition, bacteria, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Enzymes are the molecular tools that soil microorganisms use to break down

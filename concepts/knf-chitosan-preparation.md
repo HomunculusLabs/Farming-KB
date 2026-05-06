@@ -1,10 +1,12 @@
 ---
 title: "KNF Chitosan Preparation"
+created: 2026-04-28
 tags: [knf, natural-farming, chitosan, crab-shell, shrimp-shell, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/master-cho-knf-recipe-book.md,
          ~/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # KNF Chitosan Preparation

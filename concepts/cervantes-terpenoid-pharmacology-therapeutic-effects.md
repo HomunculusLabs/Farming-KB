@@ -1,5 +1,6 @@
 ---
 title: Terpenoid Pharmacology and Therapeutic Effects
+created: 2026-04-28
 tags:
   - terpenoids
   - cannabis-pharmacology
@@ -15,6 +16,7 @@ synonyms:
   - linalool cannabis
   - terpineol
   - anti-inflammatory terpenoids
+type: concept
 ---
 
 # Terpenoid Pharmacology and Therapeutic Effects

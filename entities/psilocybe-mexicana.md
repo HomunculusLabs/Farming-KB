@@ -1,5 +1,6 @@
 ---
 title: stamets-psi-psilocybe-mexicana-species-guide
+created: 2026-04-28
 type: species
 tags:
   - psilocybin-mushroom

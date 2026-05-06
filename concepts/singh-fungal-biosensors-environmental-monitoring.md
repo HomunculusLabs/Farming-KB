@@ -1,10 +1,12 @@
 ---
 title: "Fungal Biosensors for Environmental Monitoring"
+created: 2026-04-28
 tags: [mycoremediation, biosensors, environmental-monitoring, fungal-biotechnology, detection-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Biosensors for Environmental Monitoring

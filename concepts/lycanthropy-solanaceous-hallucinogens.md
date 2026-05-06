@@ -1,10 +1,12 @@
 ---
 title: "Lycanthropy and Solanaceous Hallucinogens"
+created: 2026-04-28
 tags: [ethnobotany, toxicology, solanaceae, witchcraft, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
+type: concept
 ---
 
 # Lycanthropy and Solanaceous Hallucinogens

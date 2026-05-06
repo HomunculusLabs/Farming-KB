@@ -1,10 +1,12 @@
 ---
 title: "Golden Guide: Salvia Divinorum and Diviner's Sage"
+created: 2026-04-28
 tags: [hallucinogenic-plants, salvia-divinorum, salvia, labiatae, mazatec,
   divination, oaxaca, hojas-de-la-pastora, pipilzintzintli, mint-family]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Salvia Divinorum (Hojas de la Pastora)

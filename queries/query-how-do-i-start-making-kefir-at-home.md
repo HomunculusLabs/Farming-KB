@@ -1,5 +1,6 @@
 ---
 title: "How Do I Start Making Kefir at Home?"
+created: 2026-04-28
 tags:
   - fermentation
   - kefir
@@ -22,6 +23,7 @@ sources:
     url: "https://www.miskefir.co.ke/"
   - title: "Fermented Food Lab — Secondary Fermentation Techniques"
     url: "https://fermentedfoodlab.com/secondary-fermentation-kefir/"
+type: query
 ---
 
 # How Do I Start Making Kefir at Home?

@@ -1,10 +1,12 @@
 ---
 title: Mushroom Pests - Woodlice
+created: 2026-04-28
 tags: [mushrooms, pests, woodlice, victorian-gardening, pest-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+type: concept
 ---
 
 # Mushroom Pests - Woodlice

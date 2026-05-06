@@ -1,9 +1,11 @@
 ---
 title: "What Is the Role of Endophytic Fungi in Plant Health?"
+created: 2026-04-28
 tags: [query, mycology, plant-health, endophytes, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Role of Endophytic Fungi in Plant Health?

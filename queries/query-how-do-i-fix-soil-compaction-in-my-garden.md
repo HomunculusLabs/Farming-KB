@@ -1,9 +1,11 @@
 ---
 title: "How Do I Fix Soil Compaction in My Garden?"
+created: 2026-04-28
 tags: [query, soil, compaction, garden, remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Fix Soil Compaction in My Garden?

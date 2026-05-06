@@ -1,10 +1,12 @@
 ---
 title: Spore Dispersal Mechanisms
+created: 2026-04-28
 tags: [mycology, ecology, reproduction, spores, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Spore Dispersal Mechanisms

@@ -1,9 +1,11 @@
 ---
 title: "Gartz Adam Vorbrodt Institutional Research in the GDR Academy of Sciences"
+created: 2026-04-28
 tags: [history, mycology, brassinosteroid, GDR, institutional-research, biotechnology, plant-biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+type: concept
 ---
 
 # Gartz Adam Vorbrodt Institutional Research in the GDR Academy of Sciences

@@ -1,5 +1,6 @@
 ---
 title: "Tangie"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -149,5 +150,9 @@ The plants can grow tall and benefit from topping, low-stress training,
 or SCROG methods to control height and maximize light exposure.
 
 ## See Also
+
+- [[cannabis-terpene-profiles]]
+
+- [[tangerine-dream]]
 
 - [[tangie-cannabis]]

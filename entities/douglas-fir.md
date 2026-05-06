@@ -1,5 +1,6 @@
 ---
 title: Douglas-fir
+created: 2026-04-28
 type: species
 scientific_name: Pseudotsuga menziesii
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: Psilocybe mexicana
+created: 2026-04-28
 type: species
 tags: [psilocybe, sclerotia, mexican-mushroom, psychoactive, cultivation]
 date: 2026-04-28

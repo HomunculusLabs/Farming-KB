@@ -1,9 +1,11 @@
 ---
 title: "Phyllotaxy and Natural Branching Law in Fruit Trees"
+created: 2026-04-28
 tags: [fukuoka, phyllotaxy, botany, fruit-trees, natural-form, pruning]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 Phyllotaxy is the fixed law governing the arrangement

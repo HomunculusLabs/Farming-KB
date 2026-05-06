@@ -1,5 +1,6 @@
 ---
 title: Trichoderma reesei
+created: 2026-04-28
 type: species
 tags: [cellulolytic, ascomycete, industrial-biotechnology, cell-wall, proteomics]
 date: 2026-04-28

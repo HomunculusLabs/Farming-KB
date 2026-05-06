@@ -1,9 +1,11 @@
 ---
 title: "Oss & Oeric: Rice Cake Tek and Cultivation Methodology"
+created: 2026-04-28
 tags: [mycology, cultivation, substrate-preparation, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+type: concept
 ---
 
 # Oss & Oeric: Rice Cake Tek and Cultivation Methodology

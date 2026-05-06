@@ -1,10 +1,12 @@
 ---
 title: "Julian Jaynes Bicameral Mind Theory and Hallucination"
+created: 2026-04-28
 tags: [consciousness, psychology, bicameral-mind, hallucination, evolution, jaynes, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Julian Jaynes Bicameral Mind Theory and Hallucination

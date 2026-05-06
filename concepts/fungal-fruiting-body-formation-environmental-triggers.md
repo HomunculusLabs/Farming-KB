@@ -1,9 +1,11 @@
 ---
 title: Fungal Fruiting Body Formation and Environmental Triggers
+created: 2026-04-28
 tags: mycology, fungal-physiology, mushroom-cultivation, developmental-biology, environmental-signaling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # Fungal Fruiting Body Formation and Environmental Triggers

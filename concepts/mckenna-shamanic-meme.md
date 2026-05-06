@@ -1,9 +1,11 @@
 ---
 title: The Shamanic Meme
+created: 2026-04-28
 tags: [shamanism, culture, meme, psychedelics, McKenna, entheogens, cultural-evolution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # The Shamanic Meme

@@ -1,10 +1,12 @@
 ---
 title: Microwave 2.45 GHz Water Dipolar Coupling Mechanism
+created: 2026-04-28
 tags: [physics, microwaves, electromagnetic-spectrum, water-chemistry, sterilization, dielectric-heating]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Microwave 2.45 GHz Water Dipolar Coupling Mechanism

@@ -1,9 +1,11 @@
 ---
 title: Psilocybin-Containing Genera Beyond Psilocybe
+created: 2026-04-28
 tags: [mycology, psilocybin, chemistry, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+type: concept
 ---
 # Psilocybin-Containing Genera Beyond Psilocybe
 While the genus Psilocybe dominates the neurotropic fungi with 116 species,

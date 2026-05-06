@@ -1,10 +1,12 @@
 ---
 title: Natural Farming No-Till Method
+created: 2026-04-28
 tags: [natural-farming, no-till, soil-health, fukuoka, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Natural Farming No-Till Method

@@ -1,5 +1,6 @@
 ---
 title: Metarhizium
+created: 2026-04-28
 type: genus
 tags:
   - mycology

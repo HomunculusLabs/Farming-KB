@@ -1,5 +1,6 @@
 ---
 title: Stachybotrys chartarum and Indoor Mold Toxicity
+created: 2026-04-28
 tags:
   - mycology
   - indoor-mold
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002) Chapter 8
+type: concept
 ---
 
 # Stachybotrys chartarum and Indoor Mold Toxicity

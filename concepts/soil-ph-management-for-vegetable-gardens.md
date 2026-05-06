@@ -1,10 +1,12 @@
 ---
 title: Soil pH Management for Vegetable Gardens
+created: 2026-04-28
 tags: [soil-ph, vegetable-gardening, soil-management, lime, sulfur]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Soil pH Management for Vegetable Gardens

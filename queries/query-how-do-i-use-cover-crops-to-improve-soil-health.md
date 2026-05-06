@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Cover Crops to Improve Soil Health?"
+created: 2026-04-28
 tags: [query, cover-crops, soil-health, organic-farming, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Use Cover Crops to Improve Soil Health?

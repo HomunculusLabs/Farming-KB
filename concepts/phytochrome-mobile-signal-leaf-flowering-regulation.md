@@ -1,10 +1,12 @@
 ---
 title: Phytochrome Mobile Signal and Leaf-Based Flowering Regulation
+created: 2026-04-28
 tags: [phytochrome, photoperiodism, flowering, leaf, mobile-signal, photoreceptor, plant-biology, red-light, far-red, photomorphogenesis]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Daniel Chamovitz (2012), "What a Plant Knows: A Field Guide to the Senses of Your Garden and Beyond," Oneworld Publications, Chapter 1
+type: concept
 ---
 
 # Phytochrome Mobile Signal and Leaf-Based Flowering Regulation

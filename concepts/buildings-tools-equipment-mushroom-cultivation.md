@@ -1,11 +1,13 @@
 ---
 title: Buildings, Tools and Equipment for Mushroom Cultivation
+created: 2026-04-28
 tags: [mushroom-house, equipment, disability-adaptation, training-center,
   infrastructure]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Buildings, Tools and Equipment for Mushroom Cultivation

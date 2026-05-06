@@ -1,9 +1,11 @@
 ---
 title: "Discovery of Natural Seeding and Volunteer Rice"
+created: 2026-04-28
 tags: [volunteer-rice, natural-seeding, no-tillage, direct-seeding, rice-cultivation, kochi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 The year that the Kochi post-season cultivation program began to

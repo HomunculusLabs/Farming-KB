@@ -1,10 +1,12 @@
 ---
 title: Leaf-Based Photoperiodic Perception
+created: 2026-04-28
 tags: [botany, photobiology, photoperiodism, flowering, phytochrome, leaves, florigen, plant-physiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+type: concept
 ---
 
 # Leaf-Based Photoperiodic Perception

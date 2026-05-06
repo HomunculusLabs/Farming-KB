@@ -1,5 +1,6 @@
 ---
 title: Acetylation Protection Strategy in Psilocin Synthesis from 4-Hydroxyindole
+created: 2026-04-28
 tags:
   - synthesis
   - psilocin
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Acetylation Protection Strategy in Psilocin Synthesis from 4-Hydroxyindole

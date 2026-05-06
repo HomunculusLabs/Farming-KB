@@ -1,9 +1,11 @@
 ---
 title: "How do I keep goats on a permaculture homestead?"
+created: 2026-04-28
 tags: [query, livestock, permaculture, goats]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I keep goats on a permaculture homestead?

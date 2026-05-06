@@ -1,5 +1,6 @@
 ---
 title: Cladonia stellaris
+created: 2026-04-28
 type: species
 tags: [lichen, ascomycota, nutrient-cycling, boreal-ecosystem, primary-production]
 date: 2026-04-28

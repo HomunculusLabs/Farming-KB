@@ -1,9 +1,11 @@
 ---
 title: Composting as a Fungal Bioremediation Strategy
+created: 2026-04-28
 tags: [composting, bioremediation, fungi, waste-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Composting as a [[fungal-bioremediation]] Strategy

@@ -1,5 +1,6 @@
 ---
 title: "Comfrey (Symphytum officinale)"
+created: 2026-04-28
 type: species
 tags:
   - permaculture
@@ -151,5 +152,8 @@ is preferred, bred by Lawrence Hills at the Henry Doubleday Research Association
 for maximum protein and mineral content.
 
 ## See Also
+
+- [[mollison-comfrey-waste-recycling-soil-building]]
+- [[comparison-comfrey-vs-yarrow]]
 
 - [[symphytum-officinale]]

@@ -1,9 +1,11 @@
 ---
 title: "Armillaria mellea"
+created: 2026-04-28
 tags: [species, fungus, pathogen, forest-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [john-dighton-fungi-in-ecosystem-processes.md]
+type: entity
 ---
 
 # Armillaria mellea
@@ -94,6 +96,8 @@ both pathogen and decomposer. Management strategies include removing
 infected stumps, improving tree vigor, and selecting resistant rootstocks.
 
 ## See Also
+
+- [[armillaria-tabescens]]
 
 - [[armillaria-bulbosa]]
 - [[trichoderma-harzianum]]

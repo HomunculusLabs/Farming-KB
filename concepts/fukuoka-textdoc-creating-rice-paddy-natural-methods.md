@@ -1,10 +1,12 @@
 ---
 title: Creating a Rice Paddy by Natural Methods
+created: 2026-04-28
 tags: [fukuoka, natural-farming, rice-paddy, paddy-construction, water-management, traditional-agriculture, terracing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Creating a Rice Paddy by Natural Methods

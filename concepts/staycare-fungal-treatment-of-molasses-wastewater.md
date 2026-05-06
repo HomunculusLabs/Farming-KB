@@ -1,9 +1,11 @@
 ---
 title: "Fungal Treatment of Molasses Wastewater"
+created: 2026-04-28
 tags: [mycoremediation, melanoidins, decolorization, effluent-treatment, white-rot-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Treatment of Molasses Wastewater

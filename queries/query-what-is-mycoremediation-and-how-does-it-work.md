@@ -1,10 +1,12 @@
 ---
 title: "What Is Mycoremediation and How Does It Work"
+created: 2026-04-28
 tags: [query, mycoremediation, bioremediation, fungi, environmental-restoration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 # What Is Mycoremediation and How Does It Work
 ## Short Answer

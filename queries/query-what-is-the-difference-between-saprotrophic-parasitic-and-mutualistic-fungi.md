@@ -1,5 +1,6 @@
 ---
 title: "What Is the Difference Between Saprotrophic, Parasitic, and Mutualistic Fungi?"
+created: 2026-04-28
 tags:
   - fungal-ecology
   - soil-health
@@ -15,6 +16,7 @@ sources:
   - "Agrios, G.N. (2005). Plant Pathology (5th ed.). Academic Press."
   - "Smith, S.E. & Read, D.J. (2008). Mycorrhizal Symbiosis (3rd ed.). Academic Press."
   - "Webster, J. & Weber, R. (2007). Introduction to Fungi (3rd ed.). Cambridge University Press."
+type: query
 ---
 
 # What Is the Difference Between Saprotrophic, Parasitic, and Mutualistic Fungi?

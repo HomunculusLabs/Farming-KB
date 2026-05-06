@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Decarboxylation and Raw Cannabis Use"
+created: 2026-04-28
 tags: [cannabis, decarboxylation, raw-cannabis, cannabinoids, CBD, THC]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Decarboxylation and Raw Cannabis Use

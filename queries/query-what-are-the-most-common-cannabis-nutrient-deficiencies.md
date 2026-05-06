@@ -1,9 +1,11 @@
 ---
 title: "What Are the Most Common Cannabis Nutrient Deficiencies"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiencies, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Most Common Cannabis Nutrient Deficiencies

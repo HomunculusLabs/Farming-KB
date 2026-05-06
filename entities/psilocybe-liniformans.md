@@ -1,5 +1,6 @@
 ---
 title: Psilocybe liniformans
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, grassland]
 date: 2026-04-28

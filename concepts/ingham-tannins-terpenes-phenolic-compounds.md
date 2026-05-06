@@ -1,9 +1,11 @@
 ---
 title: Tannins, Terpenes, and Phenolic Compounds in Soil Systems
+created: 2026-04-28
 tags: [tannins, terpenes, phenolic-compounds, wood-chips, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Tannins, Terpenes, and Phenolic Compounds in Soil Systems

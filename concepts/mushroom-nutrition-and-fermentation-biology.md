@@ -1,10 +1,12 @@
 ---
 title: Mushroom Nutrition and Fermentation Biology
+created: 2026-04-28
 tags: [mycology, mushroom-growing, compost, fermentation, agaricus]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - benjamin-minge-duggar-mushroom-growing.md
+type: concept
 ---
 
 # Mushroom Nutrition and Fermentation Biology

@@ -1,9 +1,11 @@
 ---
 title: Spawn Generation Limits and Transfer Logistics
+created: 2026-04-28
 tags: [mycology, spawn, grain-transfer, contamination, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Spawn Generation Limits and Transfer Logistics

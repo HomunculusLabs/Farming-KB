@@ -1,10 +1,12 @@
 ---
 title: Fukuoka's Weed Management and Green Manure Cover
+created: 2026-04-28
 tags: [natural-farming, weed-management, cover-crops, clover, green-manure, soil-erosion, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka's Weed Management and Green Manure Cover

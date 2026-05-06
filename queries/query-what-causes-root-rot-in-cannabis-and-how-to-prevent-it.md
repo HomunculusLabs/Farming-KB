@@ -1,10 +1,12 @@
 ---
 title: "What Causes Root Rot in Cannabis and How to Prevent It"
+created: 2026-04-28
 tags: [query, cannabis, disease, root-rot, troubleshooting, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: query
 ---
 
 # What Causes Root Rot in Cannabis and How to Prevent It

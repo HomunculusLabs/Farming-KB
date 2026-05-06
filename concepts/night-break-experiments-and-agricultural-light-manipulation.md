@@ -1,5 +1,6 @@
 ---
 title: "Night-Break Experiments and Agricultural Light Manipulation"
+created: 2026-04-28
 tags: [photoperiodism, night-break, agriculture, flowering, light-manipulation,
       chrysanthemum, greenhouse,horticulture, plant-biology, phytochrome]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Daniel Chamovitz (2012), "What a Plant Knows," Oneworld Publications,
     Chapter 1
   - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Night-Break Experiments and Agricultural Light Manipulation

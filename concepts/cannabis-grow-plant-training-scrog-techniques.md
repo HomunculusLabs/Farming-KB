@@ -1,9 +1,11 @@
 ---
 title: Cannabis Plant Training and SCROG Techniques
+created: 2026-04-28
 tags: [cannabis, SCROG, SOG, training, pruning, yield, grow-bible]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 # Cannabis Plant Training and SCROG Techniques

@@ -1,9 +1,11 @@
 ---
 title: "How to Build a Swale for Water Harvesting"
+created: 2026-04-28
 tags: [query, permaculture, water-harvesting, earthworks, swales]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How to Build a Swale for Water Harvesting
 ## Short Answer

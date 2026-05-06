@@ -1,10 +1,12 @@
 ---
 title: Oxalyl Chloride Acylation of 4-Acetylindole
+created: 2026-04-28
 tags: [oxalyl-chloride, acylation, indole, psilocin, organic-synthesis, glyoxalyl, shirota, 4-acetylindole]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Oxalyl Chloride Acylation of 4-Acetylindole

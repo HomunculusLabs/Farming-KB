@@ -1,10 +1,12 @@
 ---
 title: "EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006"
+created: 2026-04-28
 tags: [legislation, psilocybin, emcdda, europe, drug-policy, magic-mushrooms, scheduling]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006

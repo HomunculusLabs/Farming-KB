@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Ashwagandha at Home"
+created: 2026-04-28
 tags: [query, medicinal-herbs, adaptogens, herb-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Ashwagandha at Home

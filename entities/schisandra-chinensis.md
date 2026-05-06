@@ -1,5 +1,6 @@
 ---
 title: Schisandra chinensis
+created: 2026-04-28
 type: species
 tags: [herbal-plants, adaptogens, schisandraceae, berries, traditional-chinese-medicine, nootropic, hepatoprotective, antioxidant, asian-herbs, climbing-vine]
 date: 2026-04-28

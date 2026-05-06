@@ -1,5 +1,6 @@
 ---
 title: "Phellinus igniarius"
+created: 2026-04-28
 type: species
 tags: [fungi, polypore, medicinal-mushroom, hymenochaetaceae, traditional-medicine]
 date: 2026-04-28

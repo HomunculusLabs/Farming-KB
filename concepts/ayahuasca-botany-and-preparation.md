@@ -1,5 +1,6 @@
 ---
 title: Ayahuasca Botany and Preparation
+created: 2026-04-28
 tags:
   - ayahuasca
   - ethnobotany
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - amaringo-p-ayahuasca-visions.md
+type: concept
 ---
 
 Ayahuasca is a psychoactive brew traditionally prepared in the

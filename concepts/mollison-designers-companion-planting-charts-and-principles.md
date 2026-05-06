@@ -1,5 +1,6 @@
 ---
 title: Companion Planting Charts and Principles
+created: 2026-04-28
 tags:
   - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - plant-interactions
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Companion Planting Charts and Principles

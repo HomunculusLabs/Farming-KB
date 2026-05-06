@@ -1,9 +1,11 @@
 ---
 title: "How Do I Prevent and Treat Damping Off in Cannabis Seedlings?"
+created: 2026-04-28
 tags: [query, cannabis, seedlings, diseases, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Prevent and Treat Damping Off in Cannabis Seedlings?

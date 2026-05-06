@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Zone Planning Guide"
+created: 2026-04-28
 tags: [permaculture, zone-planning, design, landscape, sectors]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Permaculture Zone Planning Guide

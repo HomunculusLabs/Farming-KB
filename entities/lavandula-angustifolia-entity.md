@@ -1,5 +1,6 @@
 ---
 title: "Lavandula angustifolia"
+created: 2026-04-28
 type: species
 tags: [species, herbal-plant, permaculture, lamiaceae, essential-oil, medicinal, pollinator]
 date: 2026-04-28

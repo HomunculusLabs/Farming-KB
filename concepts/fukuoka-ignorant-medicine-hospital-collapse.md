@@ -1,9 +1,11 @@
 ---
 title: Fukuoka on Medicine and the Collapse of Human Health
+created: 2026-04-28
 tags: [fukuoka, health, medicine, philosophy, natural-diet, critique]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
+type: concept
 ---
 
 # Fukuoka on Medicine and the Collapse of Human Health

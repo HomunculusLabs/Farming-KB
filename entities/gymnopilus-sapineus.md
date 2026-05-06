@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus sapineus
+created: 2026-04-28
 type: species
 tags: [gymnopilus, psilocybin, cortinariaceae, wood-inhabiting, neurotropic]
 date: 2026-04-28

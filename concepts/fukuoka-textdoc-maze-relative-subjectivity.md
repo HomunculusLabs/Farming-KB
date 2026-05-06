@@ -1,10 +1,12 @@
 ---
 title: "The Maze of Relative Subjectivity"
+created: 2026-04-28
 tags: [epistemology, subjectivity, knowledge, perception, philosophy-of-nature]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Maze of Relative Subjectivity

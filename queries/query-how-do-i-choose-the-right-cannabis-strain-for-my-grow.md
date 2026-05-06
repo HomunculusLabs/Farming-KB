@@ -1,9 +1,11 @@
 ---
 title: "How Do I Choose the Right Cannabis Strain for My Grow?"
+created: 2026-04-28
 tags: [query, cannabis, genetics, strains, seeds, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Choose the Right Cannabis Strain for My Grow?

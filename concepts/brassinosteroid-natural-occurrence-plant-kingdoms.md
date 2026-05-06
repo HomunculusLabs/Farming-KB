@@ -1,5 +1,6 @@
 ---
 title: "Brassinosteroid Natural Occurrence Across Plant Kingdoms"
+created: 2026-04-28
 tags:
   - brassinosteroids
   - phytohormones
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Brassinosteroid Natural Occurrence Across Plant Kingdoms

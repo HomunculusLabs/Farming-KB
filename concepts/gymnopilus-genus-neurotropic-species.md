@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus Genus Neurotropic Species
+created: 2026-04-28
 tags:
   - mycology
   - taxonomy
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
+type: concept
 ---
 
 # Gymnopilus Genus Neurotropic Species

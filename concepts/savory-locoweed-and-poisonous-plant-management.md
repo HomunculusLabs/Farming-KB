@@ -1,10 +1,12 @@
 ---
 title: "Locoweed and Poisonous Plant Management"
+created: 2026-04-28
 tags: [holistic-management, poisonous-plants, locoweed, grazing-planning,
       cause-and-effect]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Locoweed and Poisonous Plant Management

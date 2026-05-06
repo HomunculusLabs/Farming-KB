@@ -1,9 +1,11 @@
 ---
 title: "How Do Endophytic Fungi Protect Plants from Pests and Disease"
+created: 2026-04-28
 tags: [query, mycology, plant-health, biocontrol, endophytes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Endophytic Fungi Protect Plants from Pests and Disease

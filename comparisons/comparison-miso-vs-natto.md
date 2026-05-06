@@ -1,9 +1,11 @@
 ---
 title: "Miso vs Natto"
+created: 2026-04-28
 tags: [comparison, fermentation, japanese-food, soybean, probiotics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Miso vs Natto

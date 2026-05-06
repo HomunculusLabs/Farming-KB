@@ -1,10 +1,12 @@
 ---
 title: "Vermicomposting vs Composting in the Organic Garden"
+created: 2026-04-28
 tags: [comparison, composting, vermicomposting, soil-amendments, waste-recycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
+type: comparison
 ---
 
 # Vermicomposting vs Composting in the Organic Garden

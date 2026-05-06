@@ -1,5 +1,6 @@
 ---
 title: Ustilago maydis
+created: 2026-04-28
 type: species
 tags: [plant-pathogen, basidiomycete, smut-fungus, genomics, model-organism]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Fungal Roles in Soil Aggregate Formation
+created: 2026-04-28
 tags:
   - soil-structure
   - glomalin-and-soil-carbon
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Fungal Roles in Soil Aggregate Formation

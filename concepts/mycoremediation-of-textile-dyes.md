@@ -1,6 +1,8 @@
 ---
 title: Mycoremediation of Textile Dyes
+created: 2026-04-28
 tags: [mycoremediation, textile-dyes, bioremediation, pollution, fungi]
+type: concept
 ---
 
 # Mycoremediation of Textile Dyes

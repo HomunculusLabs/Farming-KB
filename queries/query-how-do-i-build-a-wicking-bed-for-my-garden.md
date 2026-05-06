@@ -1,5 +1,6 @@
 ---
 title: "How Do I Build a Wicking Bed for My Garden?"
+created: 2026-04-28
 tags:
   - wicking-bed
   - water-efficient-gardening
@@ -22,6 +23,7 @@ sources:
     url: "https://gaiaorganics.com.au/"
   - title: "Food and Agriculture Organization (FAO) — Water Harvesting Techniques"
     url: "https://www.fao.org/"
+type: query
 ---
 
 ## What Is a Wicking Bed?

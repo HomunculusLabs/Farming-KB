@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Heating Options for an Off-Grid Homestead?"
+created: 2026-04-28
 tags: [off-grid, homesteading, heating, wood-heat, rocket-mass-heater, masonry-heater, passive-solar, thermal-mass, propane, appropriate-technology]
 date: 2026-05-03
 updated: 2026-05-03
@@ -9,6 +10,7 @@ sources:
   - Builder's guides from Masonry Heater Association of North America
   - Paul Wheaton, Permies.com off-grid heating discussions
   - USDA Rural Development, off-grid housing technical guides
+type: query
 ---
 # What Are the Best Heating Options for an Off-Grid Homestead?
 

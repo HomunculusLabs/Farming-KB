@@ -1,10 +1,12 @@
 ---
 title: "EMCDDA Internet Shop Pricing Snapshot for Hallucinogenic Mushrooms 2006"
+created: 2026-04-28
 tags: [mycology, market, emcdda, pricing, online-retail, europe]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md'
+type: concept
 ---
 
 # EMCDDA Internet Shop Pricing Snapshot for Hallucinogenic Mushrooms 2006

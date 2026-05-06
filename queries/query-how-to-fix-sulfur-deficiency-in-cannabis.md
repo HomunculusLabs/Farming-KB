@@ -1,10 +1,12 @@
 ---
 title: "How to Fix Sulfur Deficiency in Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Fix Sulfur Deficiency in Cannabis

@@ -1,5 +1,6 @@
 ---
 title: Passionflower Growingpassiflora-incarnata-04-12
+created: 2026-04-28
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, pollinators, permaculture, ethnobotany]

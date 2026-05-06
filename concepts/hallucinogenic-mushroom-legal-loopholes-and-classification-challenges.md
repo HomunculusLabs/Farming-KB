@@ -1,5 +1,6 @@
 ---
 title: "Hallucinogenic Mushroom Legal Loopholes and Classification Challenges"
+created: 2026-04-28
 tags:
   - drug-policy
   - legislation
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)
+type: concept
 ---
 
 # Hallucinogenic Mushroom Legal Loopholes and Classification Challenges

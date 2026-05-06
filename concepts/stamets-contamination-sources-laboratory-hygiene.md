@@ -1,9 +1,11 @@
 ---
 title: Contamination Sources and Laboratory Hygiene
+created: 2026-04-28
 tags: [sterile-technique, contamination, laboratory-design, hepa-filtration]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Contamination Sources and Laboratory Hygiene

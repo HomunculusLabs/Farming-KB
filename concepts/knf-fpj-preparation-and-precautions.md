@@ -1,9 +1,11 @@
 ---
 title: "KNF FPJ Preparation and Precautions"
+created: 2026-04-28
 tags: [knf, natural-farming, fpj, fermented-plant-juice]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF FPJ Preparation and Precautions

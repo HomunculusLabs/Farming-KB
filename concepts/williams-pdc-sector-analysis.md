@@ -1,9 +1,11 @@
 ---
 title: "Sector Analysis in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, sectors, site-analysis, design-method]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Sector Analysis in Permaculture Design

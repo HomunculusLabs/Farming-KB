@@ -1,10 +1,12 @@
 ---
 title: Cap vs Stem Alkaloid Distribution
+created: 2026-04-28
 tags: [alkaloid-distribution, psilocybin, psilocin, caps, stems, psilocybe-cubensis, fruiting-body, anatomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+type: concept
 ---
 
 # Cap vs Stem Alkaloid Distribution in Psilocybe cubensis

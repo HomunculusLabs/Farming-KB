@@ -1,9 +1,11 @@
 ---
 title: "Biochar Production Guide vs Biochar Soil Amendment"
+created: 2026-04-28
 tags: [comparison, biochar, soil-amendment, carbon-sequestration, pyrolysis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Biochar Production Guide vs Biochar Soil Amendment

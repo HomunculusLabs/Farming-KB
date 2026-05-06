@@ -1,5 +1,6 @@
 ---
 title: High Tunnel vs Walipini (Underground Greenhouse)
+created: 2026-04-28
 tags: [high-tunnel, walipini, greenhouse, season-extension, protected-culture, earth-sheltered, passive-solar, underground-greenhouse, hoophouse, polycarbonate]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.bensoninstitute.org/publications/thesis/walipini/
   - Coleman, Eliot. The Winter Harvest Handbook. Chelsea Green, 2009.
+type: comparison
 ---
 
 # High Tunnel vs Walipini (Underground Greenhouse)

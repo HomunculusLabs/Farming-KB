@@ -1,11 +1,13 @@
 ---
 title: The Numinous Experience and Psychedelic Awe
+created: 2026-04-28
 tags: [numinous, awe, wonder, mystical-experience, psilocybin,
   consciousness, theophany, sacred]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # The Numinous Experience and Psychedelic Awe
 

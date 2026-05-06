@@ -1,9 +1,11 @@
 ---
 title: "Forest Edge Effects on Windbreaks and Rainfall Compression"
+created: 2026-04-28
 tags: [urban-permaculture, windbreaks, rainfall, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 Forest edges and hedgerows exert powerful influences on local

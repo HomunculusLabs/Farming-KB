@@ -1,5 +1,6 @@
 ---
 title: Laccase
+created: 2026-04-28
 type: chemical
 tags: [enzyme, ligninolytic, mycoremediation, biocatalyst, multicopper-oxidase]
 date: 2026-04-28

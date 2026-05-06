@@ -1,10 +1,12 @@
 ---
 title: "Squash Vegetables Organic"
+created: 2026-04-28
 tags: [squash, zucchini, cucumber, melon, vegetable-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Squash Vegetables Organic

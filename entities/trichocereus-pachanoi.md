@@ -1,5 +1,6 @@
 ---
 title: Trichocereus pachanoi
+created: 2026-04-28
 type: species
 tags: [cactus, mescaline, psychoactive, san-pedro, entheogen]
 date: 2026-04-28

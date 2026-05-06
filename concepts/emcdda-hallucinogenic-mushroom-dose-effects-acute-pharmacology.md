@@ -1,10 +1,12 @@
 ---
 title: EMCDDA Hallucinogenic Mushroom Dose, Effects, and Acute Pharmacology
+created: 2026-04-28
 tags: [mycology, psilocybin, pharmacology, emcdda, hallucinogenic-mushrooms, dose-response, acute-effects]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Hallucinogenic Mushrooms: An Emerging Trend Case Study, EMCDDA Thematic Papers (2006)"
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Dose, Effects, and Acute Pharmacology

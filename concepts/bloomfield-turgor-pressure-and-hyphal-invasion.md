@@ -1,9 +1,11 @@
 ---
 title: "Turgor Pressure and Hyphal Invasion"
+created: 2026-04-28
 tags: [mycology, fungal-biology, hyphal-growth, turgor-pressure, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Turgor pressure is a fundamental physical property of fungal hyphae that

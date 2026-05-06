@@ -1,10 +1,12 @@
 ---
 title: "How to Germinate Cannabis Seeds Successfully?"
+created: 2026-04-28
 tags: [query, cannabis, seeds, germination, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Germinate Cannabis Seeds Successfully?

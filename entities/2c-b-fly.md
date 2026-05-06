@@ -1,5 +1,6 @@
 ---
 title: "2C-B-FLY"
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic

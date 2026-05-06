@@ -1,10 +1,12 @@
 ---
 title: "What Is Agroforestry and How Can I Start"
+created: 2026-04-28
 tags: [query, agroforestry, permaculture, sustainable-agriculture, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+type: query
 ---
 
 # What Is Agroforestry and How Can I Start

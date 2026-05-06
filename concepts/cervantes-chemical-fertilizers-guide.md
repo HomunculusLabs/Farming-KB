@@ -1,5 +1,6 @@
 ---
 title: "Chemical Fertilizers Guide"
+created: 2026-04-28
 tags:
   - cannabis-nutrients
   - fertilizers
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+type: concept
 ---
 
 # Chemical Fertilizers Guide

@@ -1,5 +1,6 @@
 ---
 title: Holistic Management Decision Framework
+created: 2026-04-28
 tags:
   - holistic-management
   - decision-making
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Holistic Management Decision Framework

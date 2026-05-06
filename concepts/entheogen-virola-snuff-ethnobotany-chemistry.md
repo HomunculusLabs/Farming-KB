@@ -1,9 +1,11 @@
 ---
 title: "Virola Snuff Ethnobotany and Chemistry"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, myristicaceae, dmt, snuff, amazonian]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # [[virola-snuff]] Ethnobotany and Chemistry

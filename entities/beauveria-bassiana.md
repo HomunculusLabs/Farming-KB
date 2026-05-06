@@ -1,5 +1,6 @@
 ---
 title: Beauveria bassiana
+created: 2026-04-28
 type: species
 tags: [ascomycete, entomopathogen, biocontrol, genetic-diversity, soil-fungi]
 date: 2026-04-28

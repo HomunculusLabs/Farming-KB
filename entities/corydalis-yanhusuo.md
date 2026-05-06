@@ -1,5 +1,6 @@
 ---
 title: Corydalis yanhusuo
+created: 2026-04-28
 type: species
 tags:
   - chinese-herbal-medicine
@@ -147,3 +148,11 @@ Tetrahydrocoptisine and other alkaloids inhibit platelet aggregation and reduce 
 Clinical trials and extensive clinical use in China support Yan Hu Suo extract for:
 
 - **Chronic pain conditions:** Neuralgia, fibromyalgia, chronic headache
+
+## See Also
+
+- [[herbal-medicine]]
+
+- [[medicinal-mushrooms]]
+
+- [[herbal-medicine-making-basics]]

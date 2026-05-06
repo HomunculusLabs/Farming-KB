@@ -1,5 +1,6 @@
 ---
 title: Suillus bovinus
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, mineral-weathering, forest-ecology, pine-symbiont]
 date: 2026-04-28

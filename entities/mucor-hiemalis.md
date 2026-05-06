@@ -1,5 +1,6 @@
 ---
 title: "Mucor hiemalis"
+created: 2026-04-28
 type: species
 tags: [zygomycete, soil-fungus, fungicolous, myxomycete-colonizer]
 date: 2026-04-28

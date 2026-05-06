@@ -1,9 +1,11 @@
 ---
 title: Fungal Species Concept
+created: 2026-04-28
 tags: [taxonomy, mycology, speciation, phylogenetics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Species Concept

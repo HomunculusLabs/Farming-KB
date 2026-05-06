@@ -1,9 +1,11 @@
 ---
 title: Mushroom Cultivation Phases
+created: 2026-04-28
 tags: [mycology, cultivation, lifecycle, grow-methods]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Mushroom Cultivation Phases

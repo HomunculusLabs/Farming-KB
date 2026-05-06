@@ -1,5 +1,6 @@
 ---
 title: "Rumex acetosa"
+created: 2026-04-28
 type: species
 tags: [species, plant, polygonaceae, edible-herb, permaculture, wild-food]
 date: 2026-04-28

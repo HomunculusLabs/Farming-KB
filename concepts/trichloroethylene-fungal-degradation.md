@@ -1,10 +1,12 @@
 ---
 title: "Trichloroethylene Degradation by Fungi"
+created: 2026-04-28
 tags: [bioremediation, TCE, chlorinated-solvents, white-rot-fungi, groundwater]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
+type: concept
 ---
 
 # Trichloroethylene Degradation by Fungi

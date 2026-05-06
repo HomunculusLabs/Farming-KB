@@ -1,5 +1,6 @@
 ---
 title: Fistulina hepatica
+created: 2026-04-28
 type: species
 tags: [wood-decay, basidiomycete, oak-parasite, isotope-ecology, saprotroph]
 date: 2026-04-28

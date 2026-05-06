@@ -1,5 +1,6 @@
 ---
 title: "Houttuynia cordata"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, medicinal-plant, culinary-herb, traditional-medicine, permaculture]
 date: 2026-04-28

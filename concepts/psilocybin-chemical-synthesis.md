@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Chemical Synthesis
+created: 2026-04-28
 tags:
   - chemistry
   - synthesis
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Psilocybin Chemical Synthesis

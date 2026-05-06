@@ -1,11 +1,13 @@
 ---
 title: Gaian Mind and Entheogenic Flora
+created: 2026-04-28
 tags: [gaia, gaian-mind, entheogens, psilocybin, ecology,
   shamanism, biosphere]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # Gaian Mind and Entheogenic Flora
 

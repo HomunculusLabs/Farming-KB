@@ -1,10 +1,12 @@
 ---
 title: "Perennial Vegetables for the Ecological Garden"
+created: 2026-04-28
 tags: [permaculture, perennial-vegetables, food-production, low-maintenance, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Perennial Vegetables for the Ecological Garden

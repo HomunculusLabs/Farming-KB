@@ -1,10 +1,12 @@
 ---
 title: "Reishi Ganoderma Cultivation"
+created: 2026-04-28
 tags: [reishi, ganoderma, medicinal-mushrooms, polypore, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Reishi Ganoderma Cultivation

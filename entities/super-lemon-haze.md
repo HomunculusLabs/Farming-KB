@@ -1,5 +1,6 @@
 ---
 title: "Super Lemon Haze"
+created: 2026-04-28
 type: strain
 tags: [cannabis, sativa-dominant, hybrid, citrus, psychedelic-adjacent]
 date: 2026-04-28

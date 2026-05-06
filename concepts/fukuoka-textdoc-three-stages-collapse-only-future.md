@@ -1,10 +1,12 @@
 ---
 title: Three Stages of Civilization Collapse and the Only Future for Man
+created: 2026-04-28
 tags: [fukuoka, natural-farming, civilization-collapse, energy-efficiency, philosophy, green-philosophy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Three Stages of Civilization Collapse and the Only Future for Man

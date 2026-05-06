@@ -1,5 +1,6 @@
 ---
 title: Coniothyrium minitans
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, biocontrol, sclerotial-parasite, plant-pathology]
 date: 2026-04-28

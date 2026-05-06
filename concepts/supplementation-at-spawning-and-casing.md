@@ -1,10 +1,12 @@
 ---
 title: "Supplementation at Spawning and Casing"
+created: 2026-04-28
 tags: [mushroom-cultivation, supplementation, yield-boost, spawn, nutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Supplementation at Spawning and Casing

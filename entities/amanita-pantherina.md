@@ -1,5 +1,6 @@
 ---
 title: Amanita pantherina
+created: 2026-04-28
 type: species
 tags: [amanita, ibotenic-acid, muscimol, toxic, entheogenic]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Glomalin and Soil Aggregation
+created: 2026-04-28
 tags:
   - glomalin-and-soil-carbon
   - soil-aggregation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+type: concept
 ---
 
 # Glomalin and Soil Aggregation

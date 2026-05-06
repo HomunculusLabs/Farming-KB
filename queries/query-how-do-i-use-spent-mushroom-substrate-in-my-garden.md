@@ -1,9 +1,11 @@
 ---
 title: "How Do I Use Spent Mushroom Substrate in My Garden?"
+created: 2026-04-28
 tags: [mycology, composting, soil-health, permaculture, cannabis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 ## What is spent mushroom substrate?

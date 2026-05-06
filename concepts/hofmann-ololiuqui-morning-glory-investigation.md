@@ -1,5 +1,6 @@
 ---
 title: Ololiuqui Investigation - Morning Glory Alkaloids
+created: 2026-04-28
 tags:
   - ololiuqui
   - morning-glory
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
+type: concept
 ---
 
 # Ololiuqui Investigation - Morning Glory Alkaloids

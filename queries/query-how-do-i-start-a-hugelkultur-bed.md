@@ -1,9 +1,11 @@
 ---
 title: "How Do I Start a Hugelkultur Bed?"
+created: 2026-04-28
 tags: [query, permaculture, hugelkultur, soil-building, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Start a Hugelkultur Bed?

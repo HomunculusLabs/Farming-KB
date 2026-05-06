@@ -1,9 +1,11 @@
 ---
 title: Urban Rooftop Farming Guide
+created: 2026-04-28
 tags: [urban-permaculture, rooftop-farming, container-gardening, urban-food-production, green-roof]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Urban Rooftop Farming Guide

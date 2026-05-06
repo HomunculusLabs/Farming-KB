@@ -1,5 +1,6 @@
 ---
 title: Supercropping and Plant Stress Techniques
+created: 2026-04-28
 tags:
   - plant-training
   - supercropping
@@ -15,6 +16,7 @@ synonyms:
   - branch pinching
   - plant stress training
   - crushing branches
+type: concept
 ---
 
 # Supercropping and Plant Stress Techniques

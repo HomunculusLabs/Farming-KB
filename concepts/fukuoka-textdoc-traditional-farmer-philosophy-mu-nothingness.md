@@ -1,10 +1,12 @@
 ---
 title: "Traditional Farmer Philosophy of Mu (Nothingness)"
+created: 2026-04-28
 tags: [farming-philosophy, mu, natural-farming, village-culture, japanese-agriculture, zen, spiritual-farming, do-nothing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+type: concept
 ---
 
 # Traditional Farmer Philosophy of Mu (Nothingness)

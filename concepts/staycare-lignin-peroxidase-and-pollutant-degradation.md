@@ -1,9 +1,11 @@
 ---
 title: Lignin Peroxidase and Pollutant Degradation
+created: 2026-04-28
 tags: [bioremediation, lignin-peroxidase, fungal-enzymes, pollutant-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Lignin Peroxidase and Pollutant Degradation

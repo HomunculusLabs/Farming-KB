@@ -1,5 +1,6 @@
 ---
 title: "Persimmon vs Pawpaw Cultivation"
+created: 2026-04-28
 tags: [persimmon, pawpaw, fruit-trees, comparison, permaculture, north-american-native]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,6 +13,7 @@ sources:
   - "North American Pawpaw Growers Association — https://www.pawpaw.org/"
   - "California Rare Fruit Growers: Persimmon — https://crfg.org/pubs/ff/persimmon.html"
   - "Missouri Botanical Garden: Asimina triloba — https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282650"
+type: comparison
 ---
 
 # Persimmon vs Pawpaw Cultivation

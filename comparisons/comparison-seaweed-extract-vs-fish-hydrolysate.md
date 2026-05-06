@@ -1,5 +1,6 @@
 ---
 title: "Seaweed Extract vs Fish Hydrolysate — Organic Liquid Fertilizer Comparison"
+created: 2026-04-28
 tags:
   - organic-fertilizer
   - liquid-fertilizer
@@ -18,6 +19,7 @@ sources:
   - Muscolo, A. et al. (2013). "Vegetable-based protein hydrolysates as biostimulants." *Scientia Horticulturae*, 164: 442-450.
   - Welbaum, G.E. et al. (2018). "Biostimulants in horticulture." *Scientia Horticulturae*, 236: 1-2.
   - Rout, G.R. (2012). "Role of fertilizers and pesticides in agriculture." *Environmental Chemistry Letters*, 10(2): 89-92.
+type: comparison
 ---
 
 # Seaweed Extract vs Fish Hydrolysate

@@ -1,5 +1,6 @@
 ---
 title: Zone Two Livestock Integration
+created: 2026-04-28
 tags:
   - permaculture
   - zone-planning
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Zone mollison pdc zone two livestock integration

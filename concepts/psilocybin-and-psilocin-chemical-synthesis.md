@@ -1,10 +1,12 @@
 ---
 title: Psilocybin and Psilocin Chemical Synthesis
+created: 2026-04-28
 tags: [chemistry, synthesis, psilocybin, psilocin, tryptamines, organic-chemistry, analytical-standards, magic-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Psilocybin and Psilocin Chemical Synthesis

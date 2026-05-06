@@ -1,11 +1,13 @@
 ---
 title: "Orchard Management: Weed Succession and Formative Pruning of Young Trees"
+created: 2026-04-28
 tags: [natural-farming, orchard-management, pruning, weeds, succession, tree-training, fruit-trees, terracing, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "5800-5870"
+type: concept
 ---
 
 # Orchard Management: Weed Succession and Formative Pruning of Young Trees

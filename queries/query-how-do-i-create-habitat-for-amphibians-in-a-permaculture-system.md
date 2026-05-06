@@ -1,5 +1,6 @@
 ---
 title: "How Do I Create Habitat for Amphibians in a Permaculture System?"
+created: 2026-04-28
 tags:
   - amphibians
   - pond-construction
@@ -28,6 +29,7 @@ sources:
   - title: "Creating an Amphibian-Friendly Garden"
     author: "USDA Natural Resources Conservation Service"
     url: "https://www.nrcs.usda.gov/"
+type: query
 ---
 
 # How Do I Create Habitat for Amphibians in a Permaculture System?

@@ -1,10 +1,12 @@
 ---
 title: Psilocybe cubensis Distribution and Ecology
+created: 2026-04-28
 tags: [mycology, psychedelics, fungal-ecology, psilocybe, neurotropic-fungi, biogeography]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto 14: 189-280."
+type: concept
 ---
 
 # Psilocybe cubensis Distribution and Ecology

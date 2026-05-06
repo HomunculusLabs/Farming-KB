@@ -1,5 +1,6 @@
 ---
 title: "Streptomyces avermitilis"
+created: 2026-04-28
 type: species
 tags:
   - bacterium
@@ -144,6 +145,8 @@ caused by roundworm parasites." Shared one-half; other half to Tu Youyou.
 - **S. lividans**: Heterologous expression host for BGCs
 
 ## See Also
+
+- [[mycopesticides-fungal-biocontrol]]
 
 - [[streptomyces-griseus]]
 

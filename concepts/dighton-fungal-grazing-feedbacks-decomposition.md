@@ -1,5 +1,6 @@
 ---
 title: "Faunal Grazing on Fungi and Decomposition Feedbacks"
+created: 2026-04-28
 tags:
   - decomposition
   - soil-fauna
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Faunal Grazing on Fungi and Decomposition Feedbacks

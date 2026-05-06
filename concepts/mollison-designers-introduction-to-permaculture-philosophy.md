@@ -1,10 +1,12 @@
 ---
 title: Introduction to Permaculture Philosophy
+created: 2026-04-28
 tags: [permaculture, philosophy, ethics, design, bill-mollison]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Introduction to Permaculture Philosophy

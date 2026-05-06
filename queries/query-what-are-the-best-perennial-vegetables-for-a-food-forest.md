@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Perennial Vegetables for a Food Forest"
+created: 2026-04-28
 tags: [query, perennial-vegetables, food-forest, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Best Perennial Vegetables for a Food Forest

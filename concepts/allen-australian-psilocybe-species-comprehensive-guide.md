@@ -1,10 +1,12 @@
 ---
 title: "Australian Psilocybe Species: Comprehensive Guide"
+created: 2026-04-28
 tags: [psilocybin, australia, psilocybe, identification, distribution,
   taxonomy, guzman, watling, subaeruginosa, cyanescens, cubensis, allen]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+type: concept
 ---
 
 # Australian Psilocybe Species: Comprehensive Guide

@@ -1,5 +1,6 @@
 ---
 title: Cryptococcus neoformans
+created: 2026-04-28
 type: species
 tags: [pathogen, basidiomycete, yeast, encapsulated, environmental-fungus]
 date: 2026-04-28

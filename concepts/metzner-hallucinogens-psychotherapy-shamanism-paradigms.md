@@ -1,10 +1,12 @@
 ---
 title: Hallucinogens in Psychotherapy and Shamanism — Comparative Paradigms
+created: 2026-04-28
 tags: [psychotherapy, shamanism, psychedelics, hallucinogens, entheogens, set-and-setting, psycholytic, psychedelic-therapy, ralph-metzner]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Hallucinogens in Psychotherapy and Shamanism — Comparative Paradigms

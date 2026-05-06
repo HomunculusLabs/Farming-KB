@@ -1,5 +1,6 @@
 ---
 title: Genesis as Historys First Drug Bust in Food of the Gods
+created: 2026-04-28
 tags: [genesis, eden, forbidden-fruit, mckenna, biblical-studies]
 date: 2026-04-28
 updated: 2026-04-28

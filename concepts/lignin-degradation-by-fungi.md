@@ -1,5 +1,6 @@
 ---
 title: Lignin Degradation by Fungi
+created: 2026-04-28
 tags:
   - mycology
   - bioremediation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Lignin Degradation by Fungi

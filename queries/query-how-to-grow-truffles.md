@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Truffles"
+created: 2026-04-28
 tags: [query, truffle-cultivation, mycology, agroforestry, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Truffles

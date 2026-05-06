@@ -1,5 +1,6 @@
 ---
 title: Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
+created: 2026-04-28
 tags:
   - amanita-muscaria
   - ethnobotany
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/arthur-j-mushrooms-and-mankind.md"
+type: comparison
 ---
 # Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
 ## Scope and Methodology

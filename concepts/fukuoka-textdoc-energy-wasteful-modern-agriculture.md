@@ -1,10 +1,12 @@
 ---
 title: Energy-Wasteful Modern Agriculture
+created: 2026-04-28
 tags: [energy-efficiency, mechanization, critique, livestock, economics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Energy-Wasteful Modern Agriculture

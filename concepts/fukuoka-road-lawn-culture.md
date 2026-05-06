@@ -1,9 +1,11 @@
 ---
 title: What Is This Lawn Culture?
+created: 2026-04-28
 tags: [america, lawn, culture, nature, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+type: concept
 ---
 
 # What Is This "Lawn Culture"?

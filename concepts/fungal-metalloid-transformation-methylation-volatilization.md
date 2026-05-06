@@ -1,9 +1,11 @@
 ---
 title: "Fungal Metalloid Transformation and Methylation"
+created: 2026-04-28
 tags: [metalloid, biomethylation, volatilization, bioremediation, arsenic, selenium]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 Several species of fungi, including both unicellular yeasts and

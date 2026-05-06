@@ -1,9 +1,11 @@
 ---
 title: Aquaculture and Water Systems
+created: 2026-04-28
 tags: [permaculture, aquaculture, ponds, water, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Aquaculture and Water Systems

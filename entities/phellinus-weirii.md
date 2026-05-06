@@ -1,5 +1,6 @@
 ---
 title: Phellinus weirii
+created: 2026-04-28
 type: species
 tags: [fungi, forest-pathogen, root-rot, basidiomycetes,
   forest-ecology]

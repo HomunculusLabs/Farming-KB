@@ -1,9 +1,11 @@
 ---
 title: Fungal Degradation of PCBs and Dioxins
+created: 2026-04-28
 tags: [pcb-degradation, dioxins, bioremediation, chlorinated-aromatics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Degradation of PCBs and Dioxins

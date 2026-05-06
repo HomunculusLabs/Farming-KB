@@ -1,10 +1,12 @@
 ---
 title: Natural Crop Rotation and Vegetable Growing Methods
+created: 2026-04-28
 tags: [crop-rotation, vegetables, semi-wild-cultivation, soil-fertility, polyculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Crop Rotation and Vegetable Growing Methods

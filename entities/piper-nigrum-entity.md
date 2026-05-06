@@ -1,5 +1,6 @@
 ---
 title: "Piper nigrum"
+created: 2026-04-28
 type: species
 tags: [species, plant, piperaceae, herbal, spice, alkaloid, permaculture, tropical,
   cash-crop, piperine]

@@ -1,9 +1,11 @@
 ---
 title: Pleurotus Species
+created: 2026-04-28
 tags: [mycology, taxonomy, oyster-mushrooms, species]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Pleurotus Species
@@ -11,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 ## Overview
 
 The genus pleurotus-ostreatus|Pleurotus contains approximately 30-40
-recognized species of gilled mushrooms commonly known as [[oyster-mushrooms]]. They
+recognized species of gilled [[basidiomycete-phylum-guide|basidiomycete]] mushrooms commonly known as [[oyster-mushrooms]]. They
 are among the most widely cultivated mushrooms globally, valued for their
 culinary quality, medicinal properties, and ease of cultivation on diverse
 [[oyster-mushroom-substrates]]. Like [[lentinula-edodes|shiitake]] and other
@@ -37,7 +39,7 @@ The classic [[oyster-mushroom]] and the most widely cultivated species worldwide
 found naturally across temperate regions of the Northern Hemisphere, growing on
 dead or dying hardwood trees as [[saprotrophic-fungi]]. Fruit bodies are fan-shaped with white to gray
 caps, short off-center stems, and white gills that run down the stem
-(decurrent).
+(decurrent). See [[straw-based-oyster-mushroom-cultivation]] for practical cultivation methods.
 
 Prefers temperatures of 15-18 degrees Celsius for fruiting. Known for fast
 colonization and reliable yields with [[biological-efficiency]] often exceeding
@@ -115,7 +117,7 @@ Pleurotus species produce a range of [[medicinal-mushroom-extraction-bioactive-c
 including:
 
 - **Lovastatin** — a cholesterol-lowering compound found in several species;
-  see [[beta-glucans]] for related immunomodulatory research.
+  see [[beta-glucans]] for related immunomodulatory research and [[ergosterol]] for fungal sterol chemistry.
 - **Beta-glucans** -- immunomodulatory polysaccharides
 - **Pleuran** -- a specific beta-glucan from P. ostreatus with studied anti-
   inflammatory effects
@@ -131,3 +133,15 @@ including:
 - [[biological-efficiency]] -- yield metrics for cultivated mushrooms
 - [[saprotrophic-fungi]] -- nutritional mode of Pleurotus species
 - [[spawn-preparation]] -- inoculum production methods
+- [[mushroom-nutrition]] -- nutritional content of cultivated mushrooms
+- [[mushroom-cultivation-basics]] -- foundational cultivation techniques
+- [[cotter-oyster-mushroom-cultivation]] -- detailed oyster cultivation guide
+- [[agar-culture-media]] -- culture media for tissue culture and isolate maintenance
+- [[aseptic-inoculation-technique-fungal-cultures]] -- sterile inoculation methods for spawn production
+- [[agar-to-grain-wedge-transfer-technique]] -- transferring isolates from agar to grain spawn
+- [[accessible-mushroom-cultivation-for-disabilities]] -- adaptive cultivation approaches for all growers
+
+[[agar-culture-media]]
+[[aseptic-inoculation-technique-fungal-cultures]]
+[[agar-to-grain-wedge-transfer-technique]]
+[[accessible-mushroom-cultivation-for-disabilities]]

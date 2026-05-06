@@ -1,9 +1,11 @@
 ---
 title: "Garden Ponds and Aquatic Plants"
+created: 2026-04-28
 tags: [water-garden, pond-construction, aquatic-plants, wildlife, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Garden Ponds and Aquatic Plants

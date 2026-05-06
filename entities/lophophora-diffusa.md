@@ -1,5 +1,6 @@
 ---
 title: Lophophora diffusa
+created: 2026-04-28
 type: species
 tags: [cactus, pellotine, psychoactive, endemic-mexico, lophophora]
 date: 2026-04-28

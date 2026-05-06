@@ -1,9 +1,11 @@
 ---
 title: Sciarid and Phorid Fly Management in Mushroom Cultivation
+created: 2026-04-28
 tags: [mushroom-cultivation, pest-management, sciarid-flies, phorid-flies, IPM]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Sciarid and Phorid Fly Management in Mushroom Cultivation

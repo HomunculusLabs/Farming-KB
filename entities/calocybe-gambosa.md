@@ -1,5 +1,6 @@
 ---
 title: "Calocybe gambosa"
+created: 2026-04-28
 type: species
 tags: [species, fungi, edible, agaricales, tricholomataceae, permaculture]
 date: 2026-04-28

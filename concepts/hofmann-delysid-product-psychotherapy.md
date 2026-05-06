@@ -1,5 +1,6 @@
 ---
 title: Delysid Product Development and Psychotherapeutic Use
+created: 2026-04-28
 tags:
   - delysid
   - lsd
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
+type: concept
 ---
 
 # Delysid Product Development and Psychotherapeutic Use

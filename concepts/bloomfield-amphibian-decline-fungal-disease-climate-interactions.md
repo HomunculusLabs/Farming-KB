@@ -1,5 +1,6 @@
 ---
 title: Amphibian Decline, Fungal Disease, and Climate Interactions
+created: 2026-04-28
 tags:
   - mycology
   - amphibian-decline
@@ -16,6 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 6, pp. 112-117
+type: concept
 ---
 
 # Amphibian Decline, Fungal Disease, and Climate Interactions

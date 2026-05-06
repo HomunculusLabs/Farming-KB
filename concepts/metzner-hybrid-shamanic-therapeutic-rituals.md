@@ -1,9 +1,11 @@
 ---
 title: Metzner on Hybrid Shamanic Therapeutic Rituals
+created: 2026-04-28
 tags: [metzner, shamanism, psychedelics, ceremony, integration]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+type: concept
 ---
 
 # Hybrid Shamanic Therapeutic Rituals

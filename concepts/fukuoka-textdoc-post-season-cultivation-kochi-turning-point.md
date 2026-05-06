@@ -1,10 +1,12 @@
 ---
 title: Post-Season Rice Cultivation Failure and the Turn Toward Natural Farming
+created: 2026-04-28
 tags: [fukuoka, natural-farming, rice-cultivation, kochi, rice-borer, scientific-agriculture, turning-point]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Post-Season Rice Cultivation Failure and the Turn Toward Natural Farming

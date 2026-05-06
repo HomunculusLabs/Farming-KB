@@ -1,5 +1,6 @@
 ---
 title: Eliot Coleman
+created: 2026-04-28
 type: person
 tags: [agriculture, organic-farming, season-extension, author, four-season-farming]
 date: 2026-04-28

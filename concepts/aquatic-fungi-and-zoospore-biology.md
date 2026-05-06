@@ -1,5 +1,6 @@
 ---
 title: Aquatic Fungi and Zoospore Biology
+created: 2026-04-28
 tags:
   - mycology
   - aquatic-fungi
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Aquatic Fungi and Zoospore Biology

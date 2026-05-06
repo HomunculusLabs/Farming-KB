@@ -1,5 +1,6 @@
 ---
 title: Maryland Mammoth Tobacco and the Discovery of Photoperiodism
+created: 2026-04-28
 tags:
   - photoperiodism
   - plant-biology
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Maryland Mammoth Tobacco and the Discovery of Photoperiodism

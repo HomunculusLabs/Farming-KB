@@ -1,10 +1,12 @@
 ---
 title: Mushroom Growing Houses
+created: 2026-04-28
 tags: [mushrooms, victorian-gardening, greenhouse-structures, horticulture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+type: concept
 ---
 
 # [[mushroom-grow-equipment]]ing Houses

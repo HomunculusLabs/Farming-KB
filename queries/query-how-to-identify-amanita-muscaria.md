@@ -1,9 +1,11 @@
 ---
 title: "How to Identify Amanita Muscaria (Fly Agaric)"
+created: 2026-04-28
 tags: [query, mushroom-identification, amanita, foraging, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/amanita-muscaria-herb-of-immortality.md]
+type: query
 ---
 
 # How to Identify Amanita Muscaria (Fly Agaric)

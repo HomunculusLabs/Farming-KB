@@ -1,5 +1,6 @@
 ---
 title: "Joel Salatin"
+created: 2026-04-28
 type: person
 tags: [permaculture, regenerative-agriculture, rotational-grazing, polyface-farms, sustainable-farming, author, activist]
 date: 2026-04-28

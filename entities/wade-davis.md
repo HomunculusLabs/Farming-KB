@@ -1,5 +1,6 @@
 ---
 title: Wade Davis
+created: 2026-04-28
 type: person
 tags: [ethnobotany, anthropology, amazon, psychopharmacology, indigenous-knowledge]
 date: 2026-04-28

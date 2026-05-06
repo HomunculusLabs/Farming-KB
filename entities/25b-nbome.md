@@ -1,5 +1,6 @@
 ---
 title: "25B-NBOMe"
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
@@ -151,6 +152,8 @@ bioavailability.
 lower potency.
 
 ## See Also
+
+- [[psychedelic-harm-reduction]]
 
 - [[25i-nbome]]
 

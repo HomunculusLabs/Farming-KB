@@ -1,5 +1,6 @@
 ---
 title: Natural Livestock Farming: Open Grazing vs Factory Methods
+created: 2026-04-28
 tags:
   - livestock
   - grazing
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Livestock Farming: Open Grazing vs Factory Methods

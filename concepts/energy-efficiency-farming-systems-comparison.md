@@ -1,5 +1,6 @@
 ---
 title: Energy Efficiency Comparison of Farming Systems
+created: 2026-04-28
 tags:
   - energy-efficiency
   - sustainable-agriculture
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Energy Efficiency Comparison of Farming Systems

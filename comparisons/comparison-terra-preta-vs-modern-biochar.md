@@ -1,5 +1,6 @@
 ---
 title: Terra Preta vs Modern Biochar
+created: 2026-04-28
 tags:
   - biochar
   - terra-preta
@@ -11,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Terra Preta vs Modern Biochar

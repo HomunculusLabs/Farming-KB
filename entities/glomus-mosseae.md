@@ -1,5 +1,6 @@
 ---
 title: Glomus mosseae
+created: 2026-04-28
 type: species
 tags: [fungi, arbuscular-mycorrhizal, pathogen-protection, phosphorus-uptake, grassland-ecology]
 date: 2026-04-28

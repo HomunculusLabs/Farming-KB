@@ -1,5 +1,6 @@
 ---
 title: Datura candida
+created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, datura, hallucinogen, sacred-plants]
 date: 2026-04-28

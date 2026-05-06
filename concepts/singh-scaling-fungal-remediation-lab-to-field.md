@@ -1,5 +1,6 @@
 ---
 title: Scaling Fungal Remediation from Laboratory to Field
+created: 2026-04-28
 tags:
   - mycoremediation
   - scale-up
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Scaling Fungal Remediation from Laboratory to Field

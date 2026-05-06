@@ -1,5 +1,6 @@
 ---
 title: "Gymnopilus Spectabilis Profile"
+created: 2026-04-28
 tags:
   - mycology
   - psilocybin
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md
+type: concept
 ---
 
 # Gymnopilus Spectabilis Profile: The Big Laughing Gym

@@ -1,5 +1,6 @@
 ---
 title: "Baeocystin"
+created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
@@ -102,6 +103,10 @@ Baeocystin occupies a central position in the psilocybin mushroom tryptamine fam
 This metabolic ladder (norbaeocystin → baeocystin → psilocybin → psilocin) suggests that mushroom alkaloid profiles may shift during growth and drying as enzymatic methylation and dephosphorylation proceed.
 
 ## See Also
+
+- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
+- [[baeocystin-entity]]
+- [[gartz-psilocybin-alkaloid-baeocystin-chemistry]]
 
 - [[Psilocybin]]
 - [[Psilocin]]

@@ -1,5 +1,6 @@
 ---
 title: R. Gordon Wasson
+created: 2026-04-28
 type: person
 subtype: ethnomycologist
 born: 1898-09-22

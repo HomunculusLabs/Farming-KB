@@ -1,5 +1,6 @@
 ---
 title: "4-Acetoxy-DET"
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, tryptamine, chemical, synthetic, tiHKAL]
 date: 2026-04-28

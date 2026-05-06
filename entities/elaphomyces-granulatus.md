@@ -1,5 +1,6 @@
 ---
 title: Elaphomyces granulatus
+created: 2026-04-28
 type: species
 tags: [fungi, hypogeous, ectomycorrhizal, animal-dispersal, truffle]
 date: 2026-04-28

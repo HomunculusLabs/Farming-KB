@@ -1,9 +1,11 @@
 ---
 title: "Which Cannabis Training Techniques Produce the Highest Yields"
+created: 2026-04-28
 tags: [query, cannabis, training, yield-optimization, techniques]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+type: query
 ---
 
 # Which Cannabis Training Techniques Produce the Highest Yields

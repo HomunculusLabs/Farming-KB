@@ -1,5 +1,6 @@
 ---
 title: Psilocybe baeocystis
+created: 2026-04-28
 type: species
 tags: [psilocybin, entheogenic, agaricales, pacific-northwest, baeocystin]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Allium sativum"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, medicinal-plant, alliaceae, garlic, culinary-herb, antimicrobial, cardiovascular]
 date: 2026-04-28

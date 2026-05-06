@@ -1,9 +1,11 @@
 ---
 title: "Sheet Mulching vs Square Foot Gardening"
+created: 2026-04-28
 tags: [comparison, gardening-methods, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Sheet Mulching vs Square Foot Gardening

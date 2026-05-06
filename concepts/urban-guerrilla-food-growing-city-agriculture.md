@@ -1,9 +1,11 @@
 ---
 title: "Urban Guerrilla Food Growing and City Agriculture"
+created: 2026-04-28
 tags: [urban-permaculture, guerrilla-gardening, food-production, community, Clarke]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Urban Guerrilla Food Growing and City Agriculture

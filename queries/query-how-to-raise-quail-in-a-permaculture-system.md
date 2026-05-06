@@ -1,10 +1,12 @@
 ---
 title: "How to Raise Quail in a Permaculture System?"
+created: 2026-04-28
 tags: [query, quail, permaculture, poultry, small-livestock, food-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+type: query
 ---
 
 # How to Raise Quail in a Permaculture System?

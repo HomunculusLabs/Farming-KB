@@ -1,9 +1,11 @@
 ---
 title: "What Is Integrated Pest Management for Organic Mushroom Cultivation?"
+created: 2026-04-28
 tags: [mycology, pest-management, organic-farming, mushroom-cultivation, ipm]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+type: query
 ---
 
 ## What Is Integrated Pest Management for Organic Mushroom Cultivation?

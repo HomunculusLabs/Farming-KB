@@ -1,5 +1,6 @@
 ---
 title: DMT Self-Transforming Machine Elves
+created: 2026-04-28
 tags:
   - dmt
   - tryptamine
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # DMT Self-Transforming Machine Elves

@@ -1,9 +1,11 @@
 ---
 title: "Arbuscular Mycorrhizal Fungi vs Endophytic Fungi"
+created: 2026-04-28
 tags: [mycology, symbiosis, plant-microbe-interactions, soil-health, agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Arbuscular [[mycorrhizal-fungi]] vs [[endophytic-fungi]]

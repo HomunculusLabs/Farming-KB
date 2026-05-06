@@ -1,5 +1,6 @@
 ---
 title: Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming-philosophy
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge

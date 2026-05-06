@@ -1,5 +1,6 @@
 ---
 title: Ayahuasca Tourism
+created: 2026-04-28
 tags:
   - ayahuasca
   - shamanism
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/stuart-r-ayahuasca-tourism.md
+type: concept
 ---
 
 # Ayahuasca Tourism

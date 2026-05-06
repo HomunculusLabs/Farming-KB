@@ -1,9 +1,11 @@
 ---
 title: "How do I make kimchi with lacto-fermentation?"
+created: 2026-04-28
 tags: [query, kimchi, fermentation, food-preservation]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I make kimchi with lacto-fermentation?

@@ -1,9 +1,11 @@
 ---
 title: "What Is Biofumigation and How Does It Work"
+created: 2026-04-28
 tags: [query, organic-farming, pest-management, soil-health, cover-crops]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Biofumigation and How Does It Work

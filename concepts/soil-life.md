@@ -1,10 +1,12 @@
 ---
 title: Soil Life
+created: 2026-04-28
 tags: [soil-ecology, microorganisms, decomposition, compost]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+type: concept
 ---
 
 # Soil Life

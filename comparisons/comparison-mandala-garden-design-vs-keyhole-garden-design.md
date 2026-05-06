@@ -1,10 +1,12 @@
 ---
 title: Mandala Garden Design vs Keyhole Garden Design
+created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, intensive-gardening, 
 small-space]
 sources: []
+type: comparison
 ---
 
 # Mandala Garden Design vs Keyhole Garden Design

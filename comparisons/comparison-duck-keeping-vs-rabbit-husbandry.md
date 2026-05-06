@@ -1,9 +1,11 @@
 ---
 title: Duck Keeping vs Rabbit Husbandry
+created: 2026-04-28
 tags: [homesteading, livestock, poultry, small-scale-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 # Duck Keeping vs Rabbit Husbandry
 

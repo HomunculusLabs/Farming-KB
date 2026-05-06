@@ -1,10 +1,12 @@
 ---
 title: Mushroom Spawn
+created: 2026-04-28
 tags: [mushrooms, mycology, spawn-propagation, victorian-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+type: concept
 ---
 
 # Mushroom Spawn

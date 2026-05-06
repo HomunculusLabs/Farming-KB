@@ -1,10 +1,12 @@
 ---
 title: Microwave Penetration Through Elastomeric Materials
+created: 2026-04-28
 tags: [microwaves, materials-science, sterilization, elastomers, polymers, enclosure-sterilization, nasa]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Microwave Penetration Through Elastomeric Materials

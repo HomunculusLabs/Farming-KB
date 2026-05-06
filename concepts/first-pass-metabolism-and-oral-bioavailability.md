@@ -1,5 +1,6 @@
 ---
 title: "First-Pass Metabolism and Oral Bioavailability"
+created: 2026-04-28
 aliases: [first pass effect, presystemic metabolism, oral bioavailability, extraction ratio, hepatic extraction]
 tags: [pharmacology, pharmacokinetics, drug-metabolism, biochemistry, clinical-pharmacology]
 date: 2026-05-02
@@ -11,6 +12,7 @@ related:
   - cytochrome-p450-enzymes-drug-metabolism
   - phase-ii-conjugation-reactions-drug-metabolism
   - blesching-cannabis-pharmacokinetics-and-bioavailability
+type: concept
 ---
 ## Overview
 First-pass metabolism is the loss of an orally absorbed drug before it reaches systemic circulation.

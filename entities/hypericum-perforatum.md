@@ -1,5 +1,6 @@
 ---
 title: Hypericum perforatum
+created: 2026-04-28
 type: species
 tags: [medicinal-plant, antidepressant, hypericaceae, hypericin, hyperforin, traditional-herbal, anti-inflammatory, antiviral, herbal]
 date: 2026-04-28

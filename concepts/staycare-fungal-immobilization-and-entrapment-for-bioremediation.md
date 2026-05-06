@@ -1,9 +1,11 @@
 ---
 title: "Fungal Immobilization and Entrapment for Bioremediation"
+created: 2026-04-28
 tags: [bioremediation, immobilization, alginate, bioaugmentation, biocontrol]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Immobilization and Entrapment for Bioremediation

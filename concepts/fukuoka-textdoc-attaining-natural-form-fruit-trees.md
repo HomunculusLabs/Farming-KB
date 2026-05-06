@@ -1,5 +1,6 @@
 ---
 title: Attaining the Natural Form of Fruit Trees
+created: 2026-04-28
 tags:
   - fukuoka
   - fruit-trees
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 6576-6613, 6463-6574)
+type: concept
 ---
 
 # Attaining the Natural Form of Fruit Trees

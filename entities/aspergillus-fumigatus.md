@@ -1,5 +1,6 @@
 ---
 title: Aspergillus fumigatus
+created: 2026-04-28
 type: species
 tags: [pathogen, ascomycete, human-fungal-infection, cell-wall, genomics]
 date: 2026-04-28

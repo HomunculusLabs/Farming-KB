@@ -1,9 +1,11 @@
 ---
 title: "Mescalero Apache Shamanism and Peyote Use: Adoption and Rejection"
+created: 2026-04-28
 tags: [mescalero, apache, peyote, shamanism, hallucinogens, native-american, harner, boyer, witchcraft, cultural-change]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
+type: concept
 ---
 
 # Mescalero Apache Shamanism and Peyote Use: Adoption and Rejection

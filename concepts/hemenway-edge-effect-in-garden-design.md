@@ -1,10 +1,12 @@
 ---
 title: "Edge Effect in Garden Design"
+created: 2026-04-28
 tags: [permaculture, edge-effect, garden-design, biodiversity, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Edge Effect in Garden Design

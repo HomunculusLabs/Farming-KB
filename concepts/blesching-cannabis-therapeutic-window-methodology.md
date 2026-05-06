@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Therapeutic Window Methodology"
+created: 2026-04-28
 tags: [cannabis, dosing, therapeutic-window, biphasic, dose-response, microdosing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: concept
 ---
 
 # Cannabis Therapeutic Window Methodology

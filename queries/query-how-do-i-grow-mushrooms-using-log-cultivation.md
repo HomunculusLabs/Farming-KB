@@ -1,10 +1,12 @@
 ---
 title: "How Do I Grow Mushrooms Using the Log Cultivation Method?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, log-cultivation, shiitake, outdoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 
 # How Do I Grow Mushrooms Using the Log Cultivation Method?

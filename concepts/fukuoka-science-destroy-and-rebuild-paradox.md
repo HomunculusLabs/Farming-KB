@@ -1,10 +1,12 @@
 ---
 title: Science Destroy and Rebuild Paradox
+created: 2026-04-28
 tags: [science, agriculture, ecology, fukuoka, paradox, nature, reductionism, 
 systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Science Destroy and Rebuild Paradox

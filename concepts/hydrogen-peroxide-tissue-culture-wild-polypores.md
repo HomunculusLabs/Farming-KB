@@ -1,5 +1,6 @@
 ---
 title: "Hydrogen Peroxide Tissue Culture for Wild Polypores"
+created: 2026-04-28
 tags:
   - tissue-culture
   - mycology-lab-techniques
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation
+type: concept
 ---
 
 # Hydrogen Peroxide Tissue Culture for Wild Polypores

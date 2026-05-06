@@ -1,9 +1,11 @@
 ---
 title: Permaculture Zone and Sector Planning
+created: 2026-04-28
 tags: [permaculture, zone-planning, sector-analysis, site-design, pdc]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Permaculture Zone and Sector Planning

@@ -1,9 +1,11 @@
 ---
 title: "What Causes Cannabis Plants to Hermaphrodite?"
+created: 2026-04-28
 tags: [query, cannabis, hermaphrodite, breeding, stress]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Causes Cannabis Plants to Hermaphrodite?

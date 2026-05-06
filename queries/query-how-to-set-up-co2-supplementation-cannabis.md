@@ -1,9 +1,11 @@
 ---
 title: "How to Set Up CO2 Supplementation for Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, co2, environment, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Set Up CO2 Supplementation for Cannabis

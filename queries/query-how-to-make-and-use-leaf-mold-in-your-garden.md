@@ -1,9 +1,11 @@
 ---
 title: How to Make and Use Leaf Mold in Your Garden
+created: 2026-04-28
 tags: [soil-health, composting, organic-gardening, permaculture, mulching]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How to Make and Use Leaf Mold in Your Garden

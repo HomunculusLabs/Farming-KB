@@ -1,5 +1,6 @@
 ---
 title: Copelandia Cyanescens Pantropical Distribution and Ecology
+created: 2026-04-28
 tags:
   - mycology
   - copelandia
@@ -14,6 +15,7 @@ sources:
   - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
+type: concept
 ---
 # Copelandia Cyanescens Pantropical Distribution and Ecology
 Copelandia cyanescens stands as the most cosmopolitan of all neurotropic

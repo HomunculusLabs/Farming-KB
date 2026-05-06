@@ -1,5 +1,6 @@
 ---
 title: Cannabis Health Index Scoring System
+created: 2026-04-28
 tags:
   - cannabis-health-index
   - evidence-based-medicine
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Blesching, Uwe. "The Cannabis Health Index." North Atlantic Books, 2015. Chapter III.
+type: concept
 ---
 
 # Cannabis Health Index Scoring System

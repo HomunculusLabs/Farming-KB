@@ -1,5 +1,6 @@
 ---
 title: Amanita Ibotenic Acid Fungi and Their Cultural Significance
+created: 2026-04-28
 tags:
   - amanita
   - ibotenic-acid
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Amanita Ibotenic Acid Fungi and Their Cultural Significance

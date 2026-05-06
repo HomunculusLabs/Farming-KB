@@ -122,6 +122,8 @@ Despite being slower, the plant system is remarkably sophisticated. Plants can i
 
 ## Related
 
+- [[hallucinogen-terminology-and-chemical-classification]]
+
 - [[daniel-chamovitz]]
 
 - [[plant-signaling-pathways]]

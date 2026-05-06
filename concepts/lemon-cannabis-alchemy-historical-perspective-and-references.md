@@ -1,5 +1,6 @@
 ---
 title: Historical Perspective and References
+created: 2026-04-28
 tags:
   - cannabis-history
   - extraction-history
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md
+type: concept
 ---
 
 # Historical Perspective and References

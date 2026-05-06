@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Potatoes Organically?"
+created: 2026-04-28
 tags: [query, potatoes, organic-gardening, vegetables, soil]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Potatoes Organically?

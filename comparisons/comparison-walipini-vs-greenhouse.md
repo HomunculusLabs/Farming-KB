@@ -1,9 +1,11 @@
 ---
 title: "Walipini vs Greenhouse"
+created: 2026-04-28
 tags: [comparison, season-extension, construction, permaculture, passive-solar, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Walipini vs Greenhouse

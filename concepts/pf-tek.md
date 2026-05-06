@@ -1,9 +1,11 @@
 ---
 title: PF Tek
+created: 2026-04-28
 tags: [mycology, cultivation, beginner, psilocybe, tek]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
+type: concept
 ---
 
 # PF Tek

@@ -1,5 +1,6 @@
 ---
 title: Pythium oligandrum
+created: 2026-04-28
 type: species
 tags: [oomycete, mycoparasite, biocontrol, soil-fungi, plant-pathology]
 date: 2026-04-28

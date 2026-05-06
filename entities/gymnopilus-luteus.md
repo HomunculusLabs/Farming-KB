@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus luteus
+created: 2026-04-28
 type: species
 tags: [fungi, psychoactive, cortinariaceae, wood-inhabiting, temperate]
 date: 2026-04-28

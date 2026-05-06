@@ -1,10 +1,12 @@
 ---
 title: "Fusarium oxysporum"
+created: 2026-04-28
 tags: [species, fungus, pathogen, plant-disease]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [john-dighton-fungi-in-ecosystem-processes.md,
           geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: entity
 ---
 
 # Fusarium oxysporum

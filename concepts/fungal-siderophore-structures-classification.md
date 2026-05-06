@@ -1,10 +1,12 @@
 ---
 title: "Fungal Siderophore Structures and Classification"
+created: 2026-04-28
 tags: [siderophores, mycorrhiza, iron-acquisition, fungal-chemistry, nutrient-cycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
+type: concept
 ---
 
 # Fungal Siderophore Structures and Classification

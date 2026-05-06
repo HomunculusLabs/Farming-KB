@@ -1,10 +1,12 @@
 ---
 title: "How to Attract Native Bees and Beneficial Insects to Your Garden"
+created: 2026-04-28
 tags: [query, pollinators, beneficial-insects, ecology, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How to Attract Native Bees and Beneficial Insects to Your Garden

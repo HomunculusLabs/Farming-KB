@@ -1,9 +1,11 @@
 ---
 title: "Trichocereus Cacti and Mescaline Preparation"
+created: 2026-04-28
 tags: [mescaline, trichocereus, san-pedro, peyote, cactus]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # Trichocereus Cacti and Mescaline Preparation

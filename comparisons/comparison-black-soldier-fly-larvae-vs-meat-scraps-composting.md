@@ -1,9 +1,11 @@
 ---
 title: "Black Soldier Fly Larvae Composting vs Meat Scraps Direct Composting"
+created: 2026-04-28
 tags: [composting, bioconversion, waste-management, bsf, protein-recycling, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Black Soldier Fly Larvae Composting vs Meat Scraps Direct Composting

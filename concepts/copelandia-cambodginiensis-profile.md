@@ -1,10 +1,12 @@
 ---
 title: Copelandia cambodginiensis Profile
+created: 2026-04-28
 tags: [copelandia, panaeolus, mycology, mushroom-profile, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # Copelandia cambodginiensis Profile
 

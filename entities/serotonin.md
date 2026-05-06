@@ -1,5 +1,6 @@
 ---
 title: Serotonin
+created: 2026-04-28
 type: chemical
 tags: [neurotransmitter, tryptamine, monoamine, biochemistry, pharmacology]
 date: 2026-04-28

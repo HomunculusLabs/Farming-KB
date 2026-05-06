@@ -1,5 +1,6 @@
 ---
 title: Argyreia nervosa
+created: 2026-04-28
 type: species
 tags:
   - hawaiian-baby-woodrose
@@ -146,3 +147,9 @@ Commercially available HBWR seeds sold for horticultural purposes are often trea
 - Medications affecting serotonin (SSRIs, triptans)
 
 ## Cultivation
+
+## See Also
+
+- [[lysergic-acid]]
+- [[lysergic-acid-amide]]
+- [[lysergic-acid-hydroxyethylamide]]

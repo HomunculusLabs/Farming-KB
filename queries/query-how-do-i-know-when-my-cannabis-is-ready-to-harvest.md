@@ -1,9 +1,11 @@
 ---
 title: "How Do I Know When My Cannabis Is Ready to Harvest?"
+created: 2026-04-28
 tags: [query, cannabis, harvest, trichomes, curing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Know When My Cannabis Is Ready to Harvest?

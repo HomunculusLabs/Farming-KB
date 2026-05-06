@@ -1,9 +1,11 @@
 ---
 title: "Pruning vs Grafting"
+created: 2026-04-28
 tags: [comparison, fruit-trees, orchard-management, propagation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Pruning vs Grafting

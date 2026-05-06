@@ -1,5 +1,6 @@
 ---
 title: Ingoldian Aquatic Fungi
+created: 2026-04-28
 tags:
   - mycology
   - aquatic-ecology
@@ -13,6 +14,7 @@ sources:
     and Mycologists by Nicholas P. Money (2002), Chapter 6"
   - "C.T. Ingold, A Century of Mycology (1996), pp. 39-52"
   - "J. Webster, Introduction to Fungi, Cambridge University Press (1980)"
+type: concept
 ---
 
 # Ingoldian Aquatic Fungi

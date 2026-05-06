@@ -1,10 +1,12 @@
 ---
 title: Natural Farming Cover Crops and Green Manure
+created: 2026-04-28
 tags: [cover-crops, green-manure, natural-farming, soil-health, fukuoka]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Natural Farming Cover Crops and Green Manure

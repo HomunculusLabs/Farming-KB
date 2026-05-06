@@ -1,10 +1,12 @@
 ---
 title: "How Can I Grow Mushrooms Alongside Garden Vegetables?"
+created: 2026-04-28
 tags: [query, mushroom, companion-planting, polyculture, garden-integration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 
 # How Can I Grow Mushrooms Alongside Garden Vegetables?

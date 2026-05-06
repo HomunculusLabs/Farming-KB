@@ -1,10 +1,12 @@
 ---
 title: Food Preservation Methods
+created: 2026-04-28
 tags: [food-preservation, fermentation, drying, freezing, storage]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md'
+type: concept
 ---
 
 # Food Preservation Methods

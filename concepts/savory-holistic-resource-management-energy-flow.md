@@ -1,5 +1,6 @@
 ---
 title: Energy Flow and the Energy Tetrahedron
+created: 2026-04-28
 tags:
   - holistic-management
   - energy-flow
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Energy Flow and the Energy Tetrahedron

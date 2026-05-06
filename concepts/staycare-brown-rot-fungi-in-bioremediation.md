@@ -1,9 +1,11 @@
 ---
 title: Brown Rot Fungi in Bioremediation
+created: 2026-04-28
 tags: [bioremediation, brown-rot-fungi, wood-decay, pollutant-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Brown Rot Fungi in Bioremediation

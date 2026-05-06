@@ -1,10 +1,12 @@
 ---
 title: "Tissue Culture and Spore Germination Techniques"
+created: 2026-04-28
 tags: [mycology, tissue-culture, spore-germination, cloning, sterile-technique,
       mushroom-cultivator]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Tissue Culture and Spore Germination Techniques

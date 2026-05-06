@@ -1,5 +1,6 @@
 ---
 title: Psilocybe huautla
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -120,3 +121,7 @@ The subjective experience profile of *P. huautla* is characterized by Mazatec pr
 - [[Psilocybe cubensis]] — Subtropical, dung-inhabiting; the most widely cultivated psilocybin mushroom
 - [[Psilocybe semilanceata]] — Temperate grassland species; "liberty cap"; circumpolar distribution
 - [[Psilocybe azurescens]] — Pacific Northwest species; the most potent known Psilocybe
+
+## See Also
+
+- [[stamets-psylo-psilocybe-cyanescens]]

@@ -1,5 +1,6 @@
 ---
 title: Nut Trees vs Grain Farming for Caloric Staple Production
+created: 2026-04-28
 tags:
   - nut-trees
   - grains
@@ -18,6 +19,7 @@ sources:
   - Wes Jackson, The Land Institute — perennial grain breeding research
   - USDA NASS Crop Reports and Nut Crop Statistics
   - Martin Crawford, "Creating a Forest Garden" (2010)
+type: comparison
 ---
 
 # Nut Trees vs Grain Farming for Caloric Staple Production
@@ -57,7 +59,6 @@ The question of whether nut trees or annual grains should form the caloric found
 | **Hazelnuts** | 2–4 million | 1,000–2,000 kg/ha × 6,280 kcal/kg |
 | **Acorns** | 1–6 million | Highly variable by species and year; virtually unmanaged potential |
 | **Mixed nut polyculture** | 3–8 million | Combined yield from multiple species |
-
 **Key takeaway**: Annual grains currently out-produce nut trees in raw caloric yield per hectare by a factor of 2–5×. However, this gap narrows significantly when accounting for:
 - Fossil fuel inputs in grain production (which subsidize yields)
 - The 5–15 year establishment period (nut trees produce for 50–200+ years afterward)
@@ -135,7 +136,6 @@ While annual grain labor is front-loaded and seasonal, nut tree labor is more ev
 ## Nutritional Comparison
 
 Nut trees and grains serve overlapping but distinct nutritional roles:
-
 **Grains excel at**: Cheap bulk calories, complex carbohydrates, B vitamins, iron (whole grain). Wheat gluten provides unique baking properties.
 
 **Nut trees excel at**: Healthy fats (especially omega-3 from walnuts), vitamin E, magnesium, manganese, copper, zinc, high-quality protein with all essential amino acids. Chestnuts provide grain-like carbohydrate nutrition with added micronutrients.

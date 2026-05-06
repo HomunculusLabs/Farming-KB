@@ -1,5 +1,6 @@
 ---
 title: "Tagetes lucida (Mexican Tarragon)"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant

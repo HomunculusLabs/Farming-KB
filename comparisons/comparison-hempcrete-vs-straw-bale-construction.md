@@ -1,9 +1,11 @@
 ---
 title: Hempcrete vs Straw Bale Construction
+created: 2026-04-28
 tags: [natural-building, hempcrete, straw-bale, sustainable-construction, insulation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Hempcrete vs Straw Bale Construction

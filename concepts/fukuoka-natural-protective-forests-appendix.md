@@ -1,10 +1,12 @@
 ---
 title: Natural Protective Forests for Farm Design
+created: 2026-04-28
 tags: [fukuoka, appendix, farm-design, agroforestry, windbreaks]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
+type: concept
 ---
 
 # Natural Protective Forests for Farm Design

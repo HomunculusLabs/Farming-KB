@@ -1,5 +1,6 @@
 ---
 title: "Brassinosteroids in Fungal Cultivation"
+created: 2026-04-28
 tags:
   - brassinosteroids
   - phytohormones
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Gartz, A. & Vorbrodt (1990). Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis. Naturwissenschaften 77, 388-389."
+type: concept
 ---
 
 # Brassinosteroids in Fungal Cultivation

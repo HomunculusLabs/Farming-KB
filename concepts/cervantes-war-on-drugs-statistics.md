@@ -1,5 +1,6 @@
 ---
 title: War on Drugs Statistics and Cannabis Arrest Data
+created: 2026-04-28
 tags:
   - drug-war
   - cannabis-arrests
@@ -15,6 +16,7 @@ synonyms:
   - cannabis prohibition
   - Steven McWilliams
   - Gonzales v Raich
+type: concept
 ---
 
 # War on Drugs Statistics and Cannabis Arrest Data

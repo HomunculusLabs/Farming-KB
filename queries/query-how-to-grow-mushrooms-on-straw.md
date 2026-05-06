@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Mushrooms on Straw"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, oyster-mushrooms, straw, substrate]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Mushrooms on Straw

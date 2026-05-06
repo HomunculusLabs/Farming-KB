@@ -1,5 +1,6 @@
 ---
 title: "Nymphaea ampla"
+created: 2026-04-28
 type: species
 tags: [species, aquatic-plant, nymphaeaceae, ethnobotanical, psychedelic]
 date: 2026-04-28

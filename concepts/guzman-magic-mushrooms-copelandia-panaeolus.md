@@ -1,10 +1,12 @@
 ---
 title: Copelandia and Panaeolus Neurotropic Species
+created: 2026-04-28
 tags: [mycology, copelandia, panaeolus, panaeolina, psilocybin-mushrooms, agaricales]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion. Ann Mus Civ Rovereto. 2000;14:189-280.
+type: concept
 ---
 
 # Copelandia and Panaeolus Neurotropic Species

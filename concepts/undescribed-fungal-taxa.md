@@ -1,9 +1,11 @@
 ---
 title: Undescribed Fungal Taxa
+created: 2026-04-28
 tags: [mycology, taxonomy, biodiversity, conservation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Undescribed Fungal Taxa

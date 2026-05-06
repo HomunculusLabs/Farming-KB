@@ -1,5 +1,6 @@
 ---
 title: "Mitragynine"
+created: 2026-04-28
 type: chemical
 tags: [alkaloid, opioid-receptor-agonist, indole-alkaloid, analgesic, psychoactive, mitragyna, kratom]
 date: 2026-04-28

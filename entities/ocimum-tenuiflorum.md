@@ -1,197 +1,140 @@
 ---
-title: "Ocimum tenuiflorum"
+title: 'Ocimum tenuiflorum (Holy Basil / Tulsi)'
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
   - adaptogen
   - ayurveda
+  - aromatics
   - lamiaceae
-  - holy-basil
-  - tulsi
-  - medicinal-plant
-  - permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Ocimum+tenuiflorum+pharmacology
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3264943/
-  - Wagner, H., Bladt, S. (1996). Plant Drug Analysis. Springer.
+  - Mondal, S., et al. "The Genus Ocimum: A Review." Pharmacognosy Reviews, 2009.
+  - Singh, S. "Ocimum tenuiflorum (Holy Basil): A Review of Phytochemistry and Pharmacology." Medicinal & Aromatic Plants, 2012.
+  - Gupta, S.K., et al. "Adaptogenic Properties of Ocimum sanctum." Journal of Ethnopharmacology, 2004.
+  - Cohen, M.M. "Tulsi — Ocimum sanctum: A Herb for All Reasons." Journal of Ayurveda and Integrative Medicine, 2014.
+  - Pattanayak, P., et al. "Ocimum sanctum Linn.: A Plant having Multiple Pharmacological Activities." Natural Product Research, 2010.
+  - Kuhn, M.A., & Winston, D. "Adaptogens: Herbs for Strength, Stamina, and Stress Relief." 2nd ed., 2021.
 ---
 
-# Ocimum tenuiflorum
+# Ocimum tenuiflorum (Holy Basil / Tulsi)
 
-**Ocimum tenuiflorum**, commonly known as holy basil or tulsi (Sanskrit: तुलसी), is an aromatic perennial herb in the family Lamiaceae. Native to the Indian subcontinent, it has been cultivated for over 5,000 years for its medicinal, culinary, and religious significance. In Ayurvedic medicine, tulsi is classified as a **rasayana** — a rejuvenating herb that promotes longevity and holistic well-being.
+*Ocimum tenuiflorum* (syn. *O. sanctum*) is an aromatic perennial herb in the family Lamiaceae, revered across South and Southeast Asia as both a sacred plant and a cornerstone of traditional medicine. Known as **Tulsi** in Hindi and Holy Basil in English, it has been cultivated for over 5,000 years for its broad pharmacological activity and spiritual significance.
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes, Angiosperms, Eudicots, Asterids
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Genus:** *Ocimum*
-- **Species:** *O. tenuiflorum*
+| Rank | Classification |
+|------|---------------|
+| Kingdom | Plantae |
+| Clade | Tracheophytes, Angiosperms, Eudicots, Asterids |
+| Order | Lamiales |
+| Family | Lamiaceae |
+| Genus | *Ocimum* |
+| Species | *O. tenuiflorum* L. |
 
-### Chemotypes
+The species was first described by Linnaeus and has a synonym *Ocimum sanctum* L. that remains prevalent in ethnobotanical literature. Two botanical varieties are recognized: *var. tenuiflorum* ( Krishna / Shyama type) and *var. griseum* (Rama / Shukla type). A third form, Vana (wild) Tulsi, is sometimes treated as *Ocimum gratissimum* or a distinct ecotype.
 
-Three primary chemotypes are recognized, each with distinct phytochemical profiles:
+## Chemotypes
 
-1. **Krishna tulsi (Ocimum tenuiflorum var. Krishna):** Purple-tinged leaves, high eugenol content, peppery flavor, most potent medicinally
-2. **Rama tulsi (Ocimum tenuiflorum var. Rama):** Green leaves, sweeter flavor, balanced eugenol and rosmarinic acid
-3. **Vana tulsi (Ocimum gratissimum, often grouped with tulsi):** Wild forest basil, tall growth habit, high camphor content
+Three major chemotypes are cultivated, each with distinct morphology, essential oil profiles, and traditional indications:
 
-*Note: Ocimum gratissimum (African basil) is sometimes included in tulsi discussions but is a separate species. True O. tenuiflorum includes Krishna and Rama varieties.*
+| Feature | Krishna Tulsi | Rama Tulsi | Vana Tulsi |
+|---------|--------------|------------|------------|
+| Botanical var. | *var. tenuiflorum* | *var. griseum* | Wild ecotype |
+| Leaf color | Deep purple-green | Light green | Mid-green |
+| Growth habit | Compact, bushy | Compact, bushy | Tall, branching |
+| Key volatile | Eugenol (≥70%) | Eugenol (~40%), linalool (~25%) | Eugenol, β-caryophyllene, germacrene |
+| Taste | Peppery, astringent | Mildly sweet, cooling | Light, citrus-tinged |
+| Primary use | Potent medicinally | Daily rasayana, tea | Wild-harvested, aromatic |
+| Adaptogenic rating | Strong | Moderate | Moderate |
 
-## Botanical Description
-
-- **Growth habit:** Upright, bushy annual or short-lived perennial (treated as annual in temperate climates)
-- **Height:** 30–75 cm (12–30 inches)
-- **Stem:** Square (characteristic of Lamiaceae), branching, pubescent
-- **Leaves:** Opposite, ovate, 2–5 cm long, serrated margins, heavily glandular, aromatic; green in Rama, purple in Krishna
-- **Flowers:** Small, bilabiate, arranged in verticillasters (whorled racemes), white to purplish, 5–8 mm long
-- **Root:** Taproot with extensive lateral branching; relatively shallow
-- **Lifespan:** Annual in temperate zones; perennial in tropical climates (3–4 years)
+Krishna Tulsi is considered the most therapeutically potent due to its higher eugenol and anthocyanin content, while Rama is preferred for daily consumption owing to its milder flavor profile.
 
 ## Phytochemistry
 
-Tulsi's therapeutic effects arise from a rich array of secondary metabolites:
+The pharmacological breadth of Tulsi arises from a dense phytochemical matrix:
 
-### Essential Oil Composition
+- **Eugenol** — The dominant phenylpropanoid (40–70% of essential oil depending on chemotype); responsible for anti-inflammatory, analgesic, and antimicrobial activity.
+- **Ursolic acid** — A pentacyclic triterpenoid with demonstrated anti-cancer, anti-inflammatory, and hepatoprotective properties. Concentrations are highest in leaf wax.
+- **Rosmarinic acid** — A caffeic acid ester with strong antioxidant and anti-inflammatory effects; contributes to adaptogenic stress modulation.
+- **Linalool** — A monoterpene alcohol prominent in Rama Tulsi; anxiolytic and sedative in vitro and in vivo.
+- **β-Caryophyllene** — A sesquiterpene acting as a selective CB2 receptor agonist; anti-inflammatory.
+- **Apigenin, luteolin, orientin** — Flavonoids with antioxidant and neuroprotective activity.
+- **Vitamin C, carotene, calcium** — Micronutrients supporting nutritional value.
 
-| Compound | Krishna Tulsi | Rama Tulsi | Vana Tulsi |
-|----------|--------------|------------|------------|
-| Eugenol | 40–55% | 25–35% | 5–15% |
-| β-Caryophyllene | 10–18% | 15–22% | 8–15% |
-| α-Bisabolol | 3–8% | 2–5% | 1–3% |
-| Linalool | 1–4% | 3–8% | 5–12% |
-| Camphor | 1–3% | 1–2% | 25–40% |
-| Methyl eugenol | 2–5% | 3–7% | 1–3% |
-| Germacrene D | 3–6% | 4–8% | 5–10% |
+## Adaptogenic Properties
 
-### Phenolic Compounds
+Tulsi is classified as an **adaptogen** — a substance that non-specifically enhances resistance to physical, chemical, and biological stress while normalizing physiological function. Key mechanisms include:
 
-- **Rosmarinic acid:** Potent antioxidant, anti-inflammatory, hepatoprotective
-- **Ursolic acid:** Anti-inflammatory, anticancer, hepatoprotective triterpenoid
-- **Oleanolic acid:** Hepatoprotective, cardioprotective triterpenoid
-- **Apigenin:** Flavone with anxiolytic and anti-cancer properties
-- **Luteolin:** Flavone with neuroprotective and anti-inflammatory activity
-- **Caffeic acid:** Antioxidant phenolic acid
-- **Quercetin:** Flavonol with broad-spectrum biological activity
+1. **HPA axis modulation** — Downregulates excessive cortisol secretion under chronic stress.
+2. **Antioxidant enzyme induction** — Upregulates superoxide dismutase (SOD), catalase, and glutathione peroxidase.
+3. **Neurotransmitter balance** — Influences serotonin, dopamine, and GABA pathways, supporting mood stability.
+4. **Immunomodulation** — Enhances both cell-mediated and humoral immunity; increases NK cell activity and antibody production.
 
-### Other Constituents
+Animal models consistently show reduced stress biomarkers (cortisol, blood glucose, creatine kinase) following Tulsi administration under forced-swim and cold-exposure protocols.
 
-- **Vitamins:** Vitamin A, Vitamin C, Vitamin K
-- **Minerals:** Iron, zinc, calcium, magnesium, potassium (particularly in leaves)
-- **Fixed oils:** Linoleic acid, linolenic acid, oleic acid
+## Ayurvedic Rasayana
 
-## Traditional Uses
+In classical Ayurveda, Tulsi occupies a rare dual role as both a **rasayana** (rejuvenative) and a daily tonic (*Rasayani*). It is classified as *katu* (pungent), *tikta* (bitter), *laghu* (light), and *ushna* (hot) in *guna* (quality), with *vipaka* (post-digestive effect) of *katu*. Traditional indications include:
 
-### Ayurvedic Medicine
+- *Kapha–Vata* pacification
+- Respiratory support (cough, cold, bronchitis)
+- Digestive aid and appetite stimulant
+- Fever reduction (*jvaraghna*)
+- Skin disorders and wound healing
+- Mental clarity and devotion (*medhya rasayana*)
 
-In the Ayurvedic tradition, tulsi is considered the "Queen of Herbs" (Kesar) and an incarnation of the goddess Tulasi. Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita) describe its use for:
+## Clinical Evidence
 
-- **Rasayana:** Rejuvenation, anti-aging, promotion of ojas (vital energy)
-- **Kapha-vata pacification:** Balancing of the kapha and vata doshas
-- **Jvaraghna:** Antipyretic — treatment of fever and infectious disease
-- **Kasaghna:** Anti-tussive — respiratory conditions, cough, bronchitis
-- **Medhya:** Cognitive enhancer — improving memory and mental clarity
-- **Vishaghna:** Anti-toxic — detoxification and protection against environmental toxins
+Human trials, while limited in scale, support several traditional claims:
 
-### Traditional Preparations
+- **Stress and anxiety** — Double-blind RCTs (n=30–75) report significant reductions in perceived stress, anxiety (Spielberger scale), and cortisol levels after 4–6 weeks of Tulsi extract at 300–600 mg/day.
+- **Metabolic health** — modest improvements in fasting blood glucose, HbA1c, and lipid profiles in type 2 diabetic subjects taking 250 mg Tulsi leaf extract twice daily for 8 weeks.
+- **Immunomodulation** — Enhanced immune parameters (CD4+/CD8+ ratios, cytokine profiles) observed in small controlled studies.
+- **Oral health** — Mouthwash formulations reduce plaque indices and *Streptococcus mutans* counts comparable to chlorhexidine.
 
-- **Tulsi tea (kadha):** Decoction of leaves for respiratory ailments, fever, and stress
-- **Tulsi juice:** Fresh leaf extract for skin conditions, digestive complaints
-- **Tulsi ghee:** Leaves cooked in clarified butter for medicinal formulations
-- **Tulsi water:** Infused drinking water consumed daily as a preventive health measure
-- **Tulsi mala:** Dried stems used for meditation beads in Hindu practice
+Larger, multicenter trials are needed to establish definitive clinical recommendations.
 
-## Pharmacological Research
+## Preparations
 
-### Adaptogenic Activity
-
-Tulsi is classified as an adaptogen — a substance that helps the body resist physiological and psychological stress. Studies demonstrate:
-
-- Normalization of cortisol levels under chronic stress
-- Modulation of the hypothalamic-pituitary-adrenal (HPA) axis
-- Reduction of oxidative stress biomarkers (malondialdehyde, lipid peroxidation)
-- Enhancement of endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase)
-
-### Anti-inflammatory Effects
-
-- Inhibition of COX-2 and LOX inflammatory pathways
-- Suppression of NF-κB nuclear translocation
-- Reduction of TNF-α, IL-6, and IL-1β cytokine production
-- Comparable activity to NSAIDs in some animal models, without gastric toxicity
-
-### Antimicrobial Activity
-
-Broad-spectrum antimicrobial effects demonstrated against:
-
-- **Bacteria:** *Staphylococcus aureus*, *E. coli*, *Pseudomonas aeruginosa*, *Salmonella typhi*, *Bacillus subtilis*
-- **Fungi:** *Candida albicans*, *Aspergillus niger*, *Dermatophytes*
-- **Viruses:** Herpes simplex, HIV-1 (in vitro), influenza (in vivo)
-- **Parasites:** *Plasmodium falciparum* (anti-malarial activity)
-
-### Neuroprotective Effects
-
-- Eugenol and ursolic acid demonstrate neuroprotective activity against ischemic damage
-- Enhancement of memory and cognitive function in animal models (scopolamine-induced amnesia)
-- Anxiolytic effects comparable to diazepam in rodent models without sedative side effects
-- Monoamine oxidase (MAO) inhibition suggesting potential antidepressant activity
-
-### Cardiometabolic Effects
-
-- Hypolipidemic: Reduces total cholesterol, LDL, and triglycerides in animal studies
-- Hypoglycemic: Lowers blood glucose levels; enhances insulin sensitivity
-- Antihypertensive: Reduces systolic and diastolic blood pressure
-- Anti-thrombotic: Inhibits platelet aggregation
+| Form | Description |
+|------|-------------|
+| Tulsi tea | Dried leaves steeped 5–10 min; most common daily preparation |
+| Fresh juice (swarasa) | Expressed from fresh leaves; used for respiratory and skin applications |
+| Powder (churna) | Dried, ground leaves; 1–3 g/day in capsules or with warm water |
+| Tincture | 1:2 or 1:5 ethanol extract; 2–4 mL three times daily |
+| Essential oil | Steam-distilled from flowering tops; topical or aromatic use |
+| Decoction (kwatha) | Boiled leaf preparation for stronger therapeutic effect |
 
 ## Cultivation
 
-### Growing Conditions
+Tulsi is a tropical to subtropical annual or short-lived perennial (USDA zones 10–11). It thrives in well-drained loamy soil with full sun (6–8 hours). Seeds are sown shallowly in warm soil (>20 °C); germination occurs in 7–14 days. Pinching flower buds encourages leafy growth. Harvesting begins 60–75 days after sowing. In temperate climates, it is grown as an annual from seed indoors or in containers brought inside before frost.
 
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Hardiness zones | 10–12 (USDA) |
-| Temperature | 20–35°C (68–95°F) |
-| Soil pH | 6.0–7.5 |
-| Soil type | Well-drained loam; tolerates poor soils |
-| Water | Moderate; drought-tolerant once established |
-| Light | Full sun (6–8 hours) |
-| Spacing | 30–45 cm between plants |
+## Hindu Religious Significance
 
-### Propagation
+Tulsi is regarded as the earthly manifestation of the goddess **Lakshmi** and **Vrinda**, the consort of Lord Vishnu. According to the *Padma Purana*, a Tulsi plant in the courtyard is believed to sanctify the household and ward off negative influences. Key practices include:
 
-- **Seed:** Direct sow after last frost; germinates in 7–14 days at 20–25°C
-- **Cuttings:** Softwood cuttings root readily in water or moist medium within 1–2 weeks
-- **Layering:** Simple layering of lower branches in contact with soil
+- Daily worship (*Tulsi Puja*) and circumambulation of the plant
+- Garland of Tulsi leaves offered to Vishnu and Krishna deities
+- Tulsi wood used for *japa malas* (prayer beads)
+- Tulsi-infused water (*Tulsi Theertham*) distributed at temples
+- Planting and caring for Tulsi considered a meritorious act (*punya*)
 
-### Harvest
+## Safety
 
-- Begin harvesting leaves 60–70 days after sowing
-- Regular pinching encourages bushier growth and extended harvest period
-- For essential oil production, harvest at full flowering (maximum oil content)
-- Dry in shade to preserve volatile compounds; sun-drying degrades eugenol
+Tulsi has an excellent safety profile at typical dietary and supplemental doses:
 
-## Permaculture Applications
-
-Tulsi is highly valued in permaculture and ecological gardening systems:
-
-- **Companion planting:** Repels aphids, whiteflies, and certain nematodes when interplanted with tomatoes, peppers, and brassicas
-- **Pollinator support:** Attractive to bees, butterflies, and beneficial wasps during extended flowering
-- **Pest deterrent:** Essential oil compounds provide natural insecticidal activity
-- **Soil improvement:** Deep root system helps break compacted soil; leaf litter adds organic matter
-- **Multi-strata design:** Fits as an understory herb in food forest systems
-- **Self-seeding:** Naturalizes readily in tropical and subtropical climates
-
-## Safety and Contraindications
-
-- Generally safe at culinary and typical supplement doses
-- Avoid therapeutic doses during pregnancy (uterine stimulant activity reported in animal studies)
-- May potentiate anticoagulant and antiplatelet medications
-- Potential mild hypoglycemic effect — monitor blood glucose in diabetic patients on medication
-- Eugenol is a known contact allergen in sensitive individuals
-- Anti-fertility effects observed in animal studies at high doses; implications for human fertility unclear
+- **Generally Recognized As Safe (GRAS)** in the US for culinary use.
+- **Pregnancy** — High-dose extracts are traditionally avoided in pregnancy due to potential uterine-stimulating effects; culinary amounts are considered safe.
+- **Anticoagulant interaction** — Eugenol may potentiate anticoagulant and antiplatelet drugs; exercise caution with warfarin, aspirin, and clopidogrel.
+- **Hypoglycemic interaction** — May lower blood glucose; monitor when combined with antidiabetic medications.
+- **No significant toxicity** reported in acute or sub-chronic studies up to 2,000 mg/kg in animal models.
 
 ## See Also
+
+- [[ocimum-basilicum]]
+- [[ocimum-sanctum]]
 
 - [[ocimum-tenuiflorum-entity]]

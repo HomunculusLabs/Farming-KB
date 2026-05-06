@@ -1,5 +1,6 @@
 ---
 title: Casing Soil Preparation and Application for Mushroom Cultivation
+created: 2026-04-28
 tags:
   - mycology
   - casing
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Casing Soil Preparation and Application for Mushroom Cultivation
@@ -122,5 +124,11 @@ Different species exhibit distinct fruiting patterns when cased on grass seed su
 The documentation notes that developing a "feeling" for the watering regime is essential — explicit directions are difficult to provide because optimal moisture varies with species, strain, ambient conditions, and casing depth. This skill develops with experience across multiple grows.
 
 ## See Also
+
+- [[casing-soil-recipe-peat-vermiculite-limestone]]
+
+- [[falconer-paris-cave-mushroom-cultivation]]
+- [[gourmet-medicinal-mushroom-casing-layer-techniques]]
+- [[mushroom-cultivation-bulk-substrates]]
 
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]

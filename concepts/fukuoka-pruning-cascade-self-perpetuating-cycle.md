@@ -1,9 +1,11 @@
 ---
 title: "Pruning Cascade: The Self-Perpetuating Cycle of Intervention"
+created: 2026-04-28
 tags: [fukuoka, pruning, fruit-trees, orcharding, natural-farming, intervention]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 One of Fukuoka's most striking arguments against pruning

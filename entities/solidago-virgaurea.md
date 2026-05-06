@@ -1,5 +1,6 @@
 ---
 title: "Solidago virgaurea"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -147,4 +148,10 @@ Contraindicated in edema due to cardiac or renal insufficiency. Avoid during
 pregnancy and lactation due to insufficient safety data.
 
 ## See Also
+
+- [[beneficial-insect-habitat]]
+
+- [[herb-growing-guide]]
+
+- [[companion-planting]]
 

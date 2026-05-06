@@ -1,5 +1,6 @@
 ---
 title: "Headband"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis-strain
@@ -142,5 +143,8 @@ Watch for spider mites, powdery mildew, bud rot in humidity.
 - **Thin Mint Cookies** — carries Headband lineage through GSC
 
 ## See Also
+
+- [[og-kush]]
+- [[thin-mint]]
 
 - [[sour-diesel]]

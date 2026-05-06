@@ -1,5 +1,6 @@
 ---
 title: Hypholoma popperianum
+created: 2026-04-28
 type: species
 tags: [hypholoma, psilocybin, wood-inhabiting, neotropical-fungi, neurotropic-fungi]
 date: 2026-04-28

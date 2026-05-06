@@ -1,7 +1,9 @@
 ---
 title: Eugenia Bone
+created: 2026-04-28
 aliases: [Bone, Eugenia]
 tags: [author, mycology, food-writing, foraging, journalism]
+type: entity
 ---
 
 # Eugenia Bone

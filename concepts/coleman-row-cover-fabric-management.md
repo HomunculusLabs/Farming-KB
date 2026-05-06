@@ -1,9 +1,11 @@
 ---
 title: "Row Cover Fabric Management"
+created: 2026-04-28
 tags: [row-covers, frost-protection, pest-exclusion, microclimate, season-extension]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
+type: concept
 ---
 
 # Row Cover Fabric Management

@@ -1,5 +1,6 @@
 ---
 title: "Soil Self-Plowing and Natural Root Action"
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Soil Self-Plowing and Natural Root Action

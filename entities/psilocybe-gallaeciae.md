@@ -1,5 +1,6 @@
 ---
 title: Psilocybe gallaeciae
+created: 2026-04-28
 type: species
 tags: [psilocybe, bluing-species, european, mycology, galerina]
 date: 2026-04-28

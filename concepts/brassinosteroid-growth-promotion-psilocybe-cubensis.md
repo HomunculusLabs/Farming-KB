@@ -1,5 +1,6 @@
 ---
 title: Brassinosteroid Growth Promotion in Psilocybe Cubensis tags:
+created: 2026-04-28
   - brassinosteroid
   - psilocybe-cubensis
   - fungal-growth
@@ -11,6 +12,7 @@ title: Brassinosteroid Growth Promotion in Psilocybe Cubensis tags:
   - homobrassinolide
 date: 2026-04-28 updated: 2026-04-28
 sources:   - raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Brassinosteroid Growth Promotion in Psilocybe Cubensis Brassinosteroids are a class of steroidal plant growth regulators that were first
@@ -130,6 +132,10 @@ However, the specificity and magnitude of the brassinosteroid effect on [[Psiloc
 suggesting a particularly strong interaction between the brassinosteroid structure and the fungal regulatory machinery.
 
 ## See Also
+
+- [[brassinosteroids-phytohormones-fungal-growth-promotion]]
+- [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
+- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]
 
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[brassinosteroid-fungal-growth-promotion]]

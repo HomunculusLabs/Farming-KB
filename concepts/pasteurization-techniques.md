@@ -1,9 +1,11 @@
 ---
 title: pasteurization techniques
+created: 2026-04-28
 tags: [mycology, mushroom-cultivation, pasteurization, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/psterilization-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Pasteurization Techniques

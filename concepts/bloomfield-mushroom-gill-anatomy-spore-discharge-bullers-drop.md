@@ -1,10 +1,12 @@
 ---
 title: Mushroom Gill Anatomy, Spore Discharge, and Buller's Drop
+created: 2026-04-28
 tags: [mycology, fungal-biology, mushroom-anatomy, spore-discharge, basidium, hymenium, ballistospore, evaporation, biophysics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Mushroom Gill Anatomy, Spore Discharge, and Buller's Drop

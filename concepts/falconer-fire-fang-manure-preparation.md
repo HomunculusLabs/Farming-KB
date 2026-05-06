@@ -1,5 +1,6 @@
 ---
 title: Falconer Fire-Fang and Manure Preparation
+created: 2026-04-28
 tags:
   [mushroom-cultivation, manure-management, composting, victorian-gardening, fermentation]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Fire-Fang and Manure Preparation Techniques

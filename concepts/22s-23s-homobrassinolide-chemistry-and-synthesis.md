@@ -1,9 +1,11 @@
 ---
 title: "22S,23S-Homobrassinolide: Chemistry and Synthesis"
+created: 2026-04-28
 tags: [brassinosteroid, organic-chemistry, phytochemistry, stigmasterol, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+type: concept
 ---
 
 # 22S,23S-Homobrassinolide: Chemistry and Synthesis

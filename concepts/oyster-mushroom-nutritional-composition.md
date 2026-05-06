@@ -1,9 +1,11 @@
 ---
 title: Oyster mushroom-nutritional-composition
+created: 2026-04-28
 tags: [oyster-mushroom, nutrition, protein, vitamins, beta-glucans, health-food]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-cotter-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Oyster Mushroom Nutritional Composition

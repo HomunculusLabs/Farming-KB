@@ -1,9 +1,11 @@
 ---
 title: Cannabis Nutrient Phase Management
+created: 2026-04-28
 tags: [cannabis, nutrients, growing, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 # Cannabis Nutrient Phase Management

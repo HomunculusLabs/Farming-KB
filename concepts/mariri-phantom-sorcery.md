@@ -1,5 +1,6 @@
 ---
 title: Mariri (Magical Phlegm)
+created: 2026-04-28
 tags:
   - mariri
   - magical-phlegm
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md
+type: concept
 ---
 
 # Mariri (Magical Phlegm)

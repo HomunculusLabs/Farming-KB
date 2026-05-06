@@ -1,5 +1,6 @@
 ---
 title: Hispolon
+created: 2026-04-28
 type: chemical
 tags: [phenolic-compound, anti-tumor, anti-inflammatory, medicinal-mushroom]
 date: 2026-04-28

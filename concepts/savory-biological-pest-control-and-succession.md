@@ -1,10 +1,12 @@
 ---
 title: "Biological Pest Control and Succession"
+created: 2026-04-28
 tags: [holistic-management, biological-control, succession-management,
   integrated-pest-management, ecosystem-complexity, green-revolution]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Biological [[knf-pest-control-methods]] and Succession

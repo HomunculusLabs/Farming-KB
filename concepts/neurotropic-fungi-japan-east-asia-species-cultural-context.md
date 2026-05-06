@@ -1,5 +1,6 @@
 ---
 title: Neurotropic Fungi of Japan and East Asia Species and Cultural Context
+created: 2026-04-28
 tags:
   - mycology
   - japan
@@ -15,6 +16,7 @@ sources:
   - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
+type: concept
 ---
 
 # Neurotropic Fungi of Japan and East Asia Species and Cultural Context
@@ -74,7 +76,6 @@ Asia:
 
 
 - **Copelandia tropicalis**: Imazeki and Hongo (1987).
-
 - **Cordyceps capitata**: Heim and Wasson (1958), Schultes and Hofmann
   (1973, 1979), Heim (1978), Imazeki and Hongo (1983, 1987), Imazeki
   et al. (1988).
@@ -89,7 +90,6 @@ Asia:
 - **Panaeolina foenisecii** and **Panaeolina rhombisperma**: Hongo
   (1959, 1973a, 1978, 1986).
 - **Panaeolina sagarae**: Hongo (1977b, 1978a), an East Asian species.
-
 - **Panaeolus** species: P. ater, P. fimicola, P. papilionaceus,
   P. retirugis, P. sphinctrinus, P. subbalteatus are all confirmed
   from Japan.
@@ -193,7 +193,6 @@ East Asian neurotropic fungi show several notable biogeographic patterns:
 - [[amanita-muscaria]]
 - [[amanita-muscaria-and-ibotenic-acid-fungi]]
 - [[amanita-pantherina]]
-
 - [Neurotropic Fungi in Asia](guzman-allen-gartz-neurotropic-fungi-asia.md)
 - [Amanita Muscaria and Ibotenic Acid Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
 - [Psilocybe Venenata](psilocybe-venenata-profile.md)

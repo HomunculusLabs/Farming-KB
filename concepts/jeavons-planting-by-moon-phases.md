@@ -1,9 +1,11 @@
 ---
 title: Planting by Moon Phases
+created: 2026-04-28
 tags: [biointensive, seed-propagation, moon-phases, lunar-gardening, planting-calendar]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+type: concept
 ---
 
 # Planting by Moon Phases

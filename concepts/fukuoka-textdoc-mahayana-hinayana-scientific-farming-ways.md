@@ -1,5 +1,6 @@
 ---
 title: Mahayana Hinayana and Scientific — Three Ways of Farming
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Mahayana, Hinayana, and Scientific Farming: Three Ways of Farming

@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Degradation, Volatility, and Specimen Age
+created: 2026-04-28
 tags:
   - mycology
   - psilocybin
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman-Allen-Gartz-Worldwide-Distribution-of-Neurotropic-Fungi
+type: concept
 ---
 
 # Psilocybin Degradation, Volatility, and Specimen Age

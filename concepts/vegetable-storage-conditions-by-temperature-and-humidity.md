@@ -1,11 +1,13 @@
 ---
 title: vegetable storage conditions by temperature and humidity
+created: 2026-04-28
 tags: [vegetable-storage, harvest, food-preservation, vegetable-gardening,
   post-harvest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Vegetable Storage Conditions by Temperature and Humidity

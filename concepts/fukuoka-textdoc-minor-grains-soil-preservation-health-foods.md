@@ -1,10 +1,12 @@
 ---
 title: Minor Grains as Soil Preservation Crops and Health Foods
+created: 2026-04-28
 tags: [fukuoka, natural-farming, minor-grains, millet, buckwheat, soil-preservation, crop-rotation, health-food, food-diversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Minor Grains as Soil Preservation Crops and Health Foods

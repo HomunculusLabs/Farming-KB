@@ -1,10 +1,12 @@
 ---
 title: PF TEK Steam Sterilization Technique
+created: 2026-04-28
 tags: [pf-tek, sterilization, canning-jars, substrate-preparation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 # PF TEK Steam Sterilization Technique
 The PF TEK steam sterilization technique allows home cultivators to sterilize

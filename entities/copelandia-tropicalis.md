@@ -1,5 +1,6 @@
 ---
 title: "Copelandia tropicalis"
+created: 2026-04-28
 type: species
 tags: [fungi, copelandia, panaeolus, psychedelic, tropical, pantropical, coprophilous]
 date: 2026-04-28

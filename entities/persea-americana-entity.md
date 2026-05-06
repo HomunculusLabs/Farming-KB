@@ -1,5 +1,6 @@
 ---
 title: "Persea americana"
+created: 2026-04-28
 type: species
 tags: [species, fruit-tree, permaculture, lauraceae, food-forest, evergreen]
 date: 2026-04-28

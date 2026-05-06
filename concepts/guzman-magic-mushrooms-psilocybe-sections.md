@@ -1,10 +1,12 @@
 ---
 title: Psilocybe Sectional Classification
+created: 2026-04-28
 tags: [mycology, taxonomy, psilocybe, fungal-classification, psilocybin-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion. Ann Mus Civ Rovereto. 2000;14:189-280.
+type: concept
 ---
 
 # Psilocybe Sectional Classification
@@ -120,3 +122,12 @@ Guzmán, Allen, and Gartz (2000) note that not all Psilocybe species are neurotr
 ## Biogeographic Implications
 
 The sectional classification of Psilocybe has important biogeographic implications. The concentration of certain sections in specific regions suggests evolutionary patterns. The sections Mexicanae, Cordisporae, and Aztecorum are predominantly Mexican, supporting the hypothesis that the genus originated in the southern hemisphere (possibly South America) and diversified northward through Mexico into North America. The pantropical distribution of section Cubensiae, particularly [[Psilocybe cubensis]], reflects both natural dispersal and anthropogenic spread through livestock movements.
+
+## See Also
+
+- [[specimen-misidentification-erroneous-chemical-analyses-guzman-1998]]
+- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
+
+- [[guzman-magic-mushrooms-neotropical-species]]
+- [[allen-magic-mushrooms-australia-newzealand-habitats]]
+- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]

@@ -1,10 +1,12 @@
 ---
 title: BEATRICE (N-Methyl-DOM) - PIHKAL Entry #11
+created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, n-methyl, classic-ladies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # BEATRICE (N-Methyl-DOM)

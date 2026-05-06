@@ -1,5 +1,6 @@
 ---
 title: "What Are C3, C4, and CAM Photosynthesis, and Why Does It Matter for Growers?"
+created: 2026-04-28
 tags:
   - photosynthesis
   - plant-physiology
@@ -12,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Are C3, C4, and CAM Photosynthesis, and Why Does It Matter for Growers?

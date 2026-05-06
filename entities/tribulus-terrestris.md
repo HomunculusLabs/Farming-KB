@@ -1,5 +1,6 @@
 ---
 title: "Tribulus terrestris"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, adaptogen, aphrodisiac, traditional-medicine, ayurveda, tonic]
 date: 2026-04-28

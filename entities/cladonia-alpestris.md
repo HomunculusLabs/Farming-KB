@@ -1,5 +1,6 @@
 ---
 title: Cladonia alpestris
+created: 2026-04-28
 type: species
 tags: [lichen, allelopathy, boreal-forest, ground-cover, nutrient-cycling]
 date: 2026-04-28

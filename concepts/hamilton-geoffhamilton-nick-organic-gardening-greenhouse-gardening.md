@@ -1,9 +1,11 @@
 ---
 title: Greenhouse Gardening
+created: 2026-04-28
 tags: [greenhouse, organic-gardening, season-extension, protected-cultivation, temperature-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # [[comparison-greenhouse-vs-container-gardening]]

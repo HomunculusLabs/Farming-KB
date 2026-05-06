@@ -1,5 +1,6 @@
 ---
 title: Deep Litter Systems vs Hot Composting
+created: 2026-04-28
 tags:
   - composting
   - deep-litter
@@ -16,6 +17,7 @@ sources:
   - The Rodale Book of Composting (Grace Gershuny)
   - Let It Rot! (Stu Campbell)
   - Backyard Homesteading resources (Multiple authors)
+type: comparison
 ---
 
 # Deep Litter Systems vs Hot Composting

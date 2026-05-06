@@ -1,5 +1,6 @@
 ---
 title: Boletus pinophilus
+created: 2026-04-28
 type: species
 tags: [boletaceae, edible-mushroom, mycorrhizal, anti-inflammatory, medicinal]
 date: 2026-04-28
@@ -84,6 +85,8 @@ Cultivation of *Boletus* species has proven challenging due to their obligate my
 
 
 ## See Also
+
+- [[boletus-aereus]]
 Related: [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 
 - [[porcini-boletus-guide]]

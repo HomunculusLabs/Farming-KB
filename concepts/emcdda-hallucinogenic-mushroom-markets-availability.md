@@ -1,5 +1,6 @@
 ---
 title: "EMCDDA Hallucinogenic Mushroom Markets and Availability"
+created: 2026-04-28
 tags:
   - drug-markets
   - hallucinogenic-mushrooms
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Markets and Availability

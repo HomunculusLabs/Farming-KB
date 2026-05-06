@@ -1,5 +1,6 @@
 ---
 title: Tassili-n-Ajjer and the Saharan Eden
+created: 2026-04-28
 tags:
   - archaeology
   - Sahara
@@ -15,6 +16,7 @@ sources:
   - Lhote, H. (1959). The Search for the Tassili Frescoes. E.P. Dutton.
   - Lajoux, J.D. (1963). The Rock Paintings of the Tassili. World Publishing.
   - Mellaart, J. (1967). Catal Huyuk: A Neolithic Town in Anatolia. McGraw-Hill.
+type: concept
 ---
 
 # Tassili-n-Ajjer and the Saharan Eden

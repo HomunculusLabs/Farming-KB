@@ -1,5 +1,6 @@
 ---
 title: Cortinarius cinnamomeus
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhizal, cortinariaceae, forest-fungi, mycena-zone]
 date: 2026-04-28

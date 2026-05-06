@@ -1,9 +1,11 @@
 ---
 title: "Baeocystin and Norbaeocystin in Psilocybin Biosynthesis"
+created: 2026-04-28
 tags: [biochemistry, psilocybin, baeocystin, norbaeocystin, fungal-alkaloids]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+type: concept
 ---
 
 # Baeocystin and Norbaeocystin in Psilocybin Biosynthesis

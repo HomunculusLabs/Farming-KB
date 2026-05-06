@@ -1,9 +1,11 @@
 ---
 title: "How to Make Mead at Home"
+created: 2026-04-28
 tags: [query, mead, fermentation, homesteading, brewing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Make Mead at Home

@@ -1,5 +1,6 @@
 ---
 title: Sharanahua Visions and Cures
+created: 2026-04-28
 tags:
   - anthropology
   - ayahuasca
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md
+type: concept
 ---
 
 # Sharanahua Visions and Cures

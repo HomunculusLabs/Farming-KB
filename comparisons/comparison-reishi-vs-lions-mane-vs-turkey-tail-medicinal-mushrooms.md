@@ -1,5 +1,6 @@
 ---
 title: Reishi vs Lion's Mane vs Turkey Tail — Medicinal Mushroom Comparison
+created: 2026-04-28
 tags:
   - medicinal-mushrooms
   - reishi
@@ -16,6 +17,7 @@ sources:
   - Stamets, P., "Growing Gourmet and Medicinal Mushrooms," 3rd ed., Ten Speed Press, 2000.
   - Pillai, T.G. et al., "An Updated Review of Turkey Tail Mushroom," Phytochemistry, vol. 188, 2022.
   - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its Bioactive Compounds," Molecules, vol. 25, 2020.
+type: comparison
 ---
 
 # Reishi vs Lion's Mane vs Turkey Tail

@@ -1,5 +1,6 @@
 ---
 title: "Sida rhombifolia"
+created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, malvaceae, herbal, traditional-medicine]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Glomus fasciculatus
+created: 2026-04-28
 type: species
 tags: [fungi, arbuscular-mycorrhizal, nutrient-cycling,
   glomeromycetes, soil-fungi]

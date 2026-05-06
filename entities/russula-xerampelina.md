@@ -1,5 +1,6 @@
 ---
 title: "Russula Xerampelina"
+created: 2026-04-28
 type: species
 tags: [species, fungi, basidiomycota, russulaceae, russula, edible-mushroom, mycorrhizal, seafood-aroma]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: Entheogens in Ancient Cultures
+created: 2026-04-28
 tags: [anthropology, psychoactive-plants, religion, history, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Entheogens in Ancient Cultures

@@ -1,9 +1,11 @@
 ---
 title: "Sound and Music Effects on Plants"
+created: 2026-04-28
 tags: [sound, music, plant-growth, vibration, frequency, raga]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Sound and Music Effects on Plants

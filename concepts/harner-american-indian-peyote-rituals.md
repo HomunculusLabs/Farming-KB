@@ -1,5 +1,6 @@
 ---
 title: American Indian Peyote Rituals
+created: 2026-04-28
 tags:
   - anthropology
   - peyote
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md
+type: concept
 ---
 
 # American Indian Peyote Rituals

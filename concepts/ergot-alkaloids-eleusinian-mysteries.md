@@ -1,9 +1,11 @@
 ---
 title: Ergot Alkaloids and the Eleusinian Mysteries
+created: 2026-04-28
 tags: [history, psychoactive-plants, greece, religion, alkaloids]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Ergot Alkaloids and the Eleusinian Mysteries

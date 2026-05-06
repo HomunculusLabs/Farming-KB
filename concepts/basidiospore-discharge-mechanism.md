@@ -1,5 +1,6 @@
 ---
 title: Basidiospore Discharge Mechanism
+created: 2026-04-28
 tags:
   - mycology
   - basidiomycota
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr Bloomfields Orchard - The Mysterious World of Mushrooms Molds and Mycologists.md
+type: concept
 ---
 
 # Basidiospore Discharge Mechanism

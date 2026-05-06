@@ -1,10 +1,12 @@
 ---
 title: Smoking Cannabis Oil by Direct Vaporization
+created: 2026-04-28
 tags: [cannabis, vaporization, smoking, oil, consumption]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md
+type: concept
 ---
 
 # Smoking Cannabis Oil by Direct Vaporization

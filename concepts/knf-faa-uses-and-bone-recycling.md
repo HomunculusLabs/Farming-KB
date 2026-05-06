@@ -1,9 +1,11 @@
 ---
 title: "KNF FAA Uses and Bone Recycling"
+created: 2026-04-28
 tags: [knf, natural-farming, faa, fish-amino-acid, recycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF FAA Uses and Bone Recycling

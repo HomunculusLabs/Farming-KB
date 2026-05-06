@@ -1,10 +1,12 @@
 ---
 title: Phytochrome Molecular Switch Mechanism
+created: 2026-04-28
 tags: [botany, photobiology, phytochrome, photoreceptors, molecular-biology, red-light, far-red-light, plant-senses]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+type: concept
 ---
 
 # Phytochrome Molecular Switch Mechanism

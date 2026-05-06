@@ -1,5 +1,6 @@
 ---
 title: Falconer Mushroom Spawn Types and Merits
+created: 2026-04-28
 tags:
   [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, agaricus]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 # Mushroom Spawn Types and Their Merits
 What practical mushroom growers call spawn, botanists

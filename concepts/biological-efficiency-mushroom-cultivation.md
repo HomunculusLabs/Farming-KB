@@ -1,9 +1,11 @@
 ---
 title: Biological Efficiency in Mushroom Cultivation
+created: 2026-04-28
 tags: [mycology, cultivation, metrics, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 # Biological Efficiency in Mushroom Cultivation
 Biological efficiency (BE) is the standard metric for evaluating mushroom

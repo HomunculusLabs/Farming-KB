@@ -1,10 +1,12 @@
 ---
 title: "How to Prevent and Treat Cannabis Light Burn and Heat Stress?"
+created: 2026-04-28
 tags: [query, cannabis, light-burn, heat-stress, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Prevent and Treat Cannabis Light Burn and Heat Stress?

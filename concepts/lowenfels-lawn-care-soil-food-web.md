@@ -1,9 +1,11 @@
 ---
 title: "Lawn Care and the Soil Food Web"
+created: 2026-04-28
 tags: [lawn-care, soil-biology, grass, turf-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Lawns are perhaps the most chemically intensive part of the home landscape, and

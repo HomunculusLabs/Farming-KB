@@ -1,10 +1,12 @@
 ---
 title: Psilocybin and Psilocin Chemical Synthesis
+created: 2026-04-28
 tags: [psilocybin, psilocin, synthesis, chemistry, tryptamine, organic-synthesis, phosphorylation, magic-mushrooms, shirota-hakamata-goda]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+type: concept
 ---
 
 # Psilocybin and Psilocin Chemical Synthesis

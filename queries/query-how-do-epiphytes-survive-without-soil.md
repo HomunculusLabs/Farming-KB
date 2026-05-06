@@ -1,5 +1,6 @@
 ---
 title: "How Do Epiphytes Survive Without Soil?"
+created: 2026-04-28
 tags:
   - botany
   - epiphytes
@@ -22,6 +23,7 @@ sources:
   - Silvera, K. et al. (2009). "The functional role of CAM in tropical epiphytes." Botanical Review, 75(3), 318-337.
   - Ackerman, J.D. (2007). "Orchid pollination biology." In Orchid Biology: Reviews and Perspectives, Vol. IX. Springer.
   - Cardelús, C.L. et al. (2006). "Vascular epiphyte distribution patterns in tropical forests." Journal of Biogeography, 33(3), 432-441.
+type: query
 ---
 
 # How Do Epiphytes Survive Without Soil?

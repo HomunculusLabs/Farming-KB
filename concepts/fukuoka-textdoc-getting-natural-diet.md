@@ -1,10 +1,12 @@
 ---
 title: "Getting a Natural Diet"
+created: 2026-04-28
 tags: [natural-diet, seasonal-eating, food-mandala, yin-yang, practical-diet]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Getting a Natural Diet

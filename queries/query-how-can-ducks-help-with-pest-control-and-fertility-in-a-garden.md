@@ -1,9 +1,11 @@
 ---
 title: "How can ducks help with pest control and fertility in a garden?"
+created: 2026-04-28
 tags: [query, ducks, permaculture, pest-control]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How can ducks help with pest control and fertility in a garden?

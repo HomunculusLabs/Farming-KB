@@ -1,5 +1,6 @@
 ---
 title: "LAB Serum vs. Compost Tea — Full Comparison"
+created: 2026-04-28
 tags:
   - soil biology
   - amendments
@@ -14,6 +15,7 @@ sources:
   - Savidov, N. et al. "Evaluation of Compost Tea for Control of Foliar Diseases." Acta Horticulturae, 2004.
   - Endo, A. & Dicksved, J. "Lactobacillus Communities in Organic Farming." Microbial Ecology, 2015.
   - ATTRA (NCAT). "Compost Teas: A Practical Guide for Growers." 2022.
+type: comparison
 ---
 
 # Lactic Acid Bacteria (LAB) Serum vs. Compost Tea

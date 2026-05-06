@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Ethics and Principles in Practice"
+created: 2026-04-28
 tags: [permaculture, ethics, design-principles, holmgren]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # [[natural-farm-permaculture-ethics-principles]] in Practice

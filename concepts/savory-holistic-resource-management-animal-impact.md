@@ -1,5 +1,6 @@
 ---
 title: Animal Impact and Herd Effect
+created: 2026-04-28
 tags:
   - holistic-management
   - grazing-ecology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Animal Impact and Herd Effect

@@ -1,5 +1,6 @@
 ---
 title: Coprinus atramentarius
+created: 2026-04-28
 type: species
 tags: [basidiomycota, saprotrophic, poisonous-mushroom, coprinaceae, coprine]
 date: 2026-04-28

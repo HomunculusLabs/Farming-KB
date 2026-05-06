@@ -1,11 +1,13 @@
 ---
 title: "Trees in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, trees, deciduous, coniferous, microclimate,
        windbreak, shade, food-forests, ecological-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Trees in Permaculture Design

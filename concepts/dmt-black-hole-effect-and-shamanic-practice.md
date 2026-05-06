@@ -1,10 +1,12 @@
 ---
 title: "DMT Black Hole Effect and Shamanic Practice"
+created: 2026-04-28
 tags: [dmt, black-hole-effect, shamanism, mckenna, esalen,
       cultural-alienation, plant-gnosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+type: concept
 ---
 
 # DMT Black Hole Effect and Shamanic Practice

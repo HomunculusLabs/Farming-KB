@@ -1,5 +1,6 @@
 ---
 title: "Aloe vera"
+created: 2026-04-28
 type: species
 tags: [species, plant, succulent, herbal, medicinal, permaculture, xeriscaping]
 date: 2026-04-28

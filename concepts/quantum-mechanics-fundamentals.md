@@ -1,5 +1,6 @@
 ---
 title: Quantum Mechanics Fundamentals
+type: concept
 category: physics
 related:
   - statistical-mechanics
@@ -10,6 +11,7 @@ tags: [physics, quantum-mechanics, wave-function, schrodinger-equation,
   hilbert-space, entanglement, uncertainty-principle, superposition,
   quantum-computing, wave-particle-duality]
 created: 2026-05-02
+type: concept
 updated: 2026-05-02
 sources: []
 ---

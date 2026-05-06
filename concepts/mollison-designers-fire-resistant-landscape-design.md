@@ -1,5 +1,6 @@
 ---
 title: Fire-Resistant Landscapebill-mollison
+created: 2026-04-28
   - fire-resilience
   - landscape-design
   - permaculture
@@ -8,6 +9,7 @@ title: Fire-Resistant Landscapebill-mollison
 date: permaculturepdated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 # Fire-Resistant Landscape Design
 Bill Mollison addresses fire in [[permaculture-mapping-and-reading-the-landscape]] extensively in Chapter 5

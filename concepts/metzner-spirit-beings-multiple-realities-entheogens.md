@@ -1,5 +1,6 @@
 ---
 title: Metzner on Spirit Beings and Multiple Realities in Entheogenic Practice
+created: 2026-04-28
 tags:
   - shamanism
   - psychotherapy
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Metzner on Spirit Beings and Multiple Realities in Entheogenic Practice
@@ -103,6 +105,10 @@ Metzner's analysis raises profound questions for the contemporary revival of psy
 - **Integration**: How practitioners integrate experiences of multiple realities and spirit beings into their post-session lives depends critically on whether their therapeutic framework allows for these ontological categories.
 
 ## See Also
+
+- [[metzner-grof-perinatal-matrices-and-transpersonal-consciousness]]
+- [[metzner-brazilian-ayahuasca-churches-santo-daime-udv-barquinia]]
+- [[metzner-psychedelic-amplifier-and-microscope-metaphors]]
 
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-shamanic-healing-divination-worldview]]

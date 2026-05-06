@@ -1,10 +1,12 @@
 ---
 title: Soil Self-Enrichment
+created: 2026-04-28
 tags: [soil, microbiology, ecology, farming, fukuoka, earthworms, humus]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Soil Self-Enrichment

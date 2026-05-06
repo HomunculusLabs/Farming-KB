@@ -1,7 +1,9 @@
 ---
 title: "Bauhaus Movement"
+created: 2026-04-28
 sources: []
 tags: []
+type: concept
 ---
 
 # Bauhaus Movement

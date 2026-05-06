@@ -1,5 +1,6 @@
 ---
 title: Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
+created: 2026-04-28
 tags:
   - mycology
   - rust-fungi
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 9, pp. 169-177
+type: concept
 ---
 
 # Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
@@ -116,6 +118,10 @@ The distribution of stomata on cereal leaves is itself an evolutionary adaptatio
 Knowledge of the rust's tactile sensing mechanisms opens several avenues for breeding resistant crops. If the fungus requires a 0.5 µm ridge to recognize a stoma, then leaf surface modifications that alter the microtopography of the stomatal region — for example, increasing or decreasing the height of the guard cell lips — could disrupt the recognition process. Plant breeders could potentially select for varieties whose stomatal topography is invisible to the rust germ tube's tactile sensors, providing a physical defense that does not depend on chemical signaling pathways that the pathogen might evolve to circumvent.
 
 ## See Also
+
+- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
+- [[ingham-leaf-surface-biology-exudates]]
+- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
 
 - [[plant-defense-mechanisms]]
 - [[rust-fungi]]

@@ -1,7 +1,9 @@
 ---
 title: "c4 and cam photosynthesis — Carbon Concentrating Mechanisms"
+created: 2026-04-28
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]
 date: 2026-05-02
+type: concept
 ---
 
 c4 and cam photosynthesis are evolutionary adaptations that concentrate

@@ -1,5 +1,6 @@
 ---
 title: "Calvatia gigantea"
+created: 2026-04-28
 type: species
 tags: [fungi, basidiomycota, puffball, edible, saprotrophic, medicinal]
 date: 2026-04-28

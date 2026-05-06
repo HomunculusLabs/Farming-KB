@@ -1,125 +1,125 @@
 ---
 title: Lophophora williamsii
-type: species
-tags: [cactus, mescaline, psychoactive, entheogen, peyote]
-date: 2026-04-28
+created: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
+date: 2026-04-28
+type: species
+tags:
+  - cactus
+  - psychedelics
+  - mescaline
+  - entheogen
+  - indigenous-medicine
+  - ethnobotany
+  - conservation
+  - psychopharmacology
+sources:
+  - https://pubmed.ncbi.nlm.nih.gov/ — Mescaline pharmacology and clinical studies
+  - Anderson, E.F. (2001). The Cactus Family. Timber Press.
+  - Schultes, R.E. & Hofmann, A. (1992). Plants of the Gods. Healing Arts Press.
+  - Terry, M. & Trout, K. (2015). "Lophophora Distribution." CactusConservation.org.
 ---
-
 # Lophophora williamsii
 
-**Peyote** is a small, spineless cactus native to the Chihuahuan Desert, renowned as one of the oldest and most culturally significant psychoactive plants in the Americas. It is the primary natural source of [[mescaline]] and has been used in indigenous ceremonial contexts for thousands of years.
+**Peyote** · **Peyotl** · **Hikuri** (Wixárika) · **Button Cactus**
 
-## Taxonomy and Description
+## Taxonomy
 
-Lophophora williamsii belongs to the family Cactaceae and is one of several species within the genus Lophophora. The plant is a small, blue-green, button-shaped cactus that typically grows flush with or slightly above the ground surface.
+Kingdom Plantae → Clade Eudicots → Order Caryophyllales → Family Cactaceae → Subfamily Cactoideae → Tribe Cacteae → Genus *Lophophora* → Species *L. williamsii*. Described by Coulter in 1894, named for C.H. Williams. Genus name from Greek *lophos* (crest) + *phoreo* (to bear), referring to woolly areole tufts. The most culturally significant psychedelic plant in the Americas.
 
-It lacks visible spines, instead bearing clusters of soft, woolly trichomes (tufts of hair) at each areole. Mature plants form large clumps through prolific offsetting, with individual heads (buttons) reaching 5-12 cm in diameter.
+## Morphology
 
-The crown of the plant is divided into 5-13 rounded ribs that run vertically from the base to the apex. Each rib bears areoles from which the characteristic woolly tufts emerge. The flowers are small, pink to white, and emerge from the woolly center, typically blooming in spring and early summer.
+- **Growth habit**: Solitary (rarely clustering), low-growing geophytic cactus, 2–7 cm above ground; up to 80% of plant body is subterranean taproot
+- **Stem**: Globular to flattened, blue-green to grey-green, 4–12 cm diameter; 5–13 broadly rounded ribs; fleshy and soft
+- **Areoles**: Spineless in maturity (juveniles bear small deciduous spines); each with a tuft of white or pale yellow wool
+- **Flowers**: Pink to white, 1–2 cm, diurnal; pink club-shaped fruit 1–2 cm with black seeds
+- **Root**: Massive turnip-shaped taproot, often 3× aerial mass, 10–20 cm long; stores water and alkaloids
 
-The fruit is a small, club-shaped pink berry containing black seeds. The root system is notable for its large, carrot-like taproot, which can extend 10-15 cm below the soil surface. This taproot serves as a water storage organ and anchoring structure, allowing the plant to survive extended drought conditions.
+## Habitat and Distribution
 
-The skin (epidermis) contains a waxy cuticle that minimizes water loss, an adaptation critical for survival in its arid native habitat. The characteristic blue-green coloration comes from a combination of chlorophyll pigments and the presence of certain alkaloids in the skin tissue.
+Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan Desert into central Mexico (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, Zacatecas). Found under nurse plants (*Acacia*, *Prosopis*, *Larrea*) in shrubland and thornscrub at 100–1,800 m elevation. Arid to semi-arid; 200–500 mm annual rainfall; extreme temperature variation from freezing winters to 45 °C summers. Limestone-derived, well-drained alkaline soils.
 
-## Distribution and Habitat
+## Bioactive Compounds
 
-Peyote is endemic to the Chihuahuan Desert, spanning regions of south Texas (primarily the Rio Grande Valley), and extensive areas of central and northern Mexico including the states of San Luis Potosí, Coahuila, Nuevo León, Tamaulipas, and Zacatecas.
+### Phenethylamine Alkaloids
 
-It grows in semi-arid scrubland, often found under the partial shade of nurse plants such as acacia species, creosote bush, and mesquite. The plant is extremely slow-growing. In the wild, a single button may take 5-10 years to reach maturity from seed.
+- **Mescaline** (1–6% dry weight, avg. 2–4%): Primary psychedelic; 5-HT2A agonist
+- **Anhalonidine** (0.1–0.5%): Synergistic, sedative
+- **Anhalonine** (0.1–0.3%): Synergistic
+- **Pellotine** (0.01–0.1%): Synergistic, hypotensive
+- **Hordenine**: MAO-inhibitory; may prolong alkaloid effects
+- **Tyramine**: Vasoactive amine; hypertensive interaction potential
 
-Under ideal cultivated conditions with grafted rootstock, growth can be significantly accelerated, though natural growth rates remain modest. Wild populations have been severely depleted by overharvesting, with some populations reduced to a fraction of their historical size.
+The full-spectrum alkaloid profile is synergistic — isolated synthetic mescaline produces a qualitatively different experience than whole peyote. The "entourage effect" from minor alkaloids contributes to the distinctive somatic, grounding quality compared to pure mescaline.
 
-Wild peyote prefers limestone-derived soils with excellent drainage and a pH ranging from slightly alkaline to neutral. The plants are typically found on gentle slopes or in rocky outcrops where water drains quickly and root rot risk is minimized.
+## Traditional and Ceremonial Use
 
-Annual precipitation in its native range is typically 200-400 mm, concentrated in summer thunderstorms. The combination of well-drained soil, partial shade from nurse plants, and seasonal rainfall creates the specific microhabitat conditions that peyote requires.
+- **Wixárika (Huichol)**: Central to cosmology; consumed during *hikuri* ceremonies for healing, divination, and communication with ancestral deities; pilgrimage to *Wirikuta* (Sacred Land) for harvest is core religious practice
+- **Native American Church (NAC)**: Sacrament since late 19th century; protected under American Indian Religious Freedom Act (1978, 1994); all-night prayer meetings with peyote, singing, drumming, contemplation
+- **Archaeological evidence**: Peyote use dates back at least 5,700 years based on alkaloid residues in coprolites from Shumla Caves, Texas
 
-## Chemical Composition
+## Pharmacology of Mescaline
 
-The primary psychoactive alkaloid in L. williamsii is [[mescaline]] (3,4,5-trimethoxyphenethylamine), which is present at concentrations of approximately 1-6% by dry weight in the fresh plant, though dried specimens typically yield 0.1-2% mescaline content.
+### Mechanism and Dosage
 
-Alkaloid content varies significantly based on several factors.
+Primary mechanism: 5-HT2A agonism (similar to LSD, psilocybin, DMT). Additional activity at 5-HT2C, 5-HT1A, α2-adrenergic receptors. Threshold 100–200 mg; moderate 200–300 mg; strong 300–500 mg. A typical dried button (3–6 g) contains ~25–60 mg mescaline; ceremonial doses range 4–20 buttons.
 
-**Age**: Older specimens consistently contain higher alkaloid concentrations. Specimens over 20 years old may contain several times the mescaline content of young plants.
+### Duration
 
-**Part of plant**: The upper, green photosynthetic tissue contains the highest concentrations. The root and wool contain negligible amounts of psychoactive alkaloids.
+Onset 45–120 minutes, come-up 1–2 hours, peak 3–5 hours, total experience 8–12 hours. Longer than psilocybin or DMT; full ceremonial experience can span 10–14 hours.
 
-**Season**: Alkaloid levels fluctuate seasonally, often peaking during active growth periods in spring and early summer.
+## Modern Research
 
-**Stress**: Environmental stressors including drought, UV exposure, and physical damage can increase alkaloid production as a defensive response.
+### Therapeutic Potential
 
-Additional alkaloids identified in peyote include:
+- **Substance use disorders**: NAC members show very low rates of alcoholism compared to general Native American populations
+- **PTSD and trauma**: NAC participants report significant symptom reductions; controlled trials pending
+- **Depression/anxiety**: Open-label studies show antidepressant effects persisting weeks after single sessions
+- **Neuroimaging**: fMRI shows decreased default mode network activity and increased global connectivity, consistent with the entropy model of psychedelic action
 
-- **Pellotine** — a tetrahydroisoquinoline alkaloid with sedative properties
-- **Anhalonidine** — structurally related to mescaline with mild psychoactivity
-- **Anhalonine** — a tetrahydroisoquinoline alkaloid
-- **Lophophorine** — a biogenic amine contributing to the overall effect
-- **O-Methyllophophorine** — a methylated derivative of lophophorine
+## Conservation Status
 
-The synergistic interplay of these alkaloids is thought to contribute to the unique qualitative character of the peyote experience, which differs notably from synthetic or isolated mescaline alone. Many users report that peyote produces a gentler, more contemplative experience with prominent visual phenomena and less physical discomfort.
+CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: illegal harvesting for non-Native recreational use, habitat destruction, climate change altering precipitation. Regrowth extremely slow (15+ years to maturity from seed). Some wild populations reduced 50–80% from historic levels.
 
-## Cultural and Historical Significance
+### Legal Status by Region
 
-Archaeological evidence, including peyote buttons found in cave deposits near Shumla, Texas, dates ceremonial peyote use to at least 5,700 years ago, making it one of the oldest documented psychoactive plant practices.
-
-The plant is central to the religious traditions of numerous indigenous peoples, most notably the Huichol (Wixáritari), who make annual pilgrimages to Wirikuta in San Luis Potosí to harvest peyote for ceremonial use.
-
-The Huichol peyote pilgrimage (Hikuri Neixa) is one of the most important annual religious events in Huichol culture. Participants travel hundreds of kilometers from their homeland in the Sierra Madre Occidental to the Wirikuta desert region, collecting peyote along a route marked by sacred shrines and landmarks.
-
-The peyote harvested during this journey is used in curing ceremonies, divination, and communal rituals throughout the following year. The pilgrimage is considered a journey of spiritual transformation, with participants fasting, purifying themselves, and following strict ritual protocols.
-
-In the late 19th century, peyote use spread to Plains tribes through intertribal contact, leading to the formation of the [[keewaydinoquay-native-american-mushroom-traditions]] in 1918. The NAC incorporates peyote as a sacrament in ceremonies that blend indigenous spiritual practices with elements of Christianity.
-
-The Tarahumara (Rarámuri) people of the Sierra Madre in Chihuahua also maintain a rich tradition of peyote use, referring to it as hikuri. Among the Tarahumara, peyote is used in healing ceremonies, endurance running rituals, and agricultural blessings.
-
-The Cora people of Nayarit use peyote in communal ceremonies called jícuri, which involve all-night prayer sessions, singing, and the sharing of peyote among community members.
-
-## Legal Status
-
-The legal status of peyote is complex and varies by jurisdiction. In the United States, peyote is classified as a Schedule I controlled substance under the Controlled Substances Act.
-
-However, the American Indian Religious Freedom Act Amendments of 1994 provide specific exemptions allowing members of the [[keewaydinoquay-native-american-mushroom-traditions]] to possess, transport, and use peyote in bona fide religious ceremonies. This exemption does not extend to non-Native use or to non-religious use.
-
-In Mexico, peyote is legally protected both as a controlled substance and as a threatened species, though enforcement varies considerably between states. International trade is regulated under CITES Appendix II.
-
-Despite legal restrictions in most countries, peyote remains one of the most widely recognized entheogens and continues to be used in both traditional and contemporary contexts.
+- **United States**: Exempt for members of the Native American Church (AIRFA 1994); Schedule I for all other uses; Texas state-jail felony for possession outside NAC context
+- **Mexico**: Protected species under NOM-059-SEMARNAT-2010; harvest restricted to NAC members and Wixárika with permits; enforcement inconsistent
+- **Canada**: Controlled under the Controlled Drugs and Substances Act; Schedule III; exempt for Indigenous ceremonial use under specific conditions
+- **Europe**: Not scheduled in most countries (mescaline itself is scheduled, but not the plant); Germany and some Eastern European nations restrict cultivation
+- **Australia**: Schedule I (mescaline); plant itself is controlled in some states
 
 ## Cultivation
 
-Peyote can be cultivated from seed or propagated through division of clumps. Seed germination requires warm, humid conditions and well-draining mineral soil.
+Extremely slow: 1–2 cm diameter per year; flowering at 5–10+ years. Propagation by seed (scarify, cold stratify 60–90 days) or grafting onto faster rootstock (*Pereskiopsis*, *Trichocereus*) for conservation purposes. Highly mineral limestone-based soil (50%+ grit, low organic matter). Infrequent deep watering in summer; bone dry October–April. Full morning sun, shade from intense afternoon. Min 5 °C, max 40 °C.
 
-Growth is extremely slow from seed, with plants taking many years to reach flowering size. Grafting onto faster-growing rootstock such as Trichocereus species can dramatically accelerate growth, producing harvestable-sized buttons in 2-3 years rather than a decade or more.
+### Conservation Cultivation
 
-The species is self-fertile but benefits from cross-pollination, which produces more vigorous seedlings. Seeds remain viable for several years when stored cool and dry.
+Grafted specimens on *Trichocereus* rootstock can grow 10–20× faster than own-root plants, providing material for legitimate conservation programs without impacting wild populations. Responsible cultivators should:
 
-Grafted plants grow rapidly but may have different alkaloid profiles compared to plants grown on their own roots, as the rootstock can influence the chemistry of the scion. Many ceremonial users prefer own-root plants for this reason.
+- Source seeds or tissue culture from verified legal suppliers only
+- Never purchase wild-collected specimens
+- Label and track all cultivated material to prevent laundering of wild plants
+- Share genetic material with botanical gardens and conservation programs
+- Maintain documentation of provenance for all cultivated stock
 
-## Conservation
+### Grafting Technique
 
-Wild peyote populations face severe threats from overharvesting, habitat destruction, and illegal collection. Conservation organizations have called for strengthened protections, sustainable harvesting practices, and cultivation programs to reduce pressure on wild populations.
+- Use young *Trichocereus pachanoi* or *T. bridgesii* rootstock, 3–6 cm diameter
+- Cut both scion and rootstock with clean, sharp blade at matching diameters
+- Align vascular rings and hold with rubber bands or grafting clips
+- Keep in warm shade (20–25 °C) for 2–3 weeks until callus forms
+- Gradually increase light over 2 weeks after union is established
+- Grafted peyote may flower in 2–3 years vs. 5–10+ on own roots
 
-The species is listed on CITES Appendix II, and its conservation status is classified as Vulnerable by the IUCN. Several organizations, including the Cactus Conservation Institute, are working to protect remaining wild populations and promote sustainable alternatives.
+## Safety Profile
 
-## Methods of Use
-
-Traditional peyote use involves consuming fresh or dried buttons. Fresh buttons are eaten directly or brewed into a tea. Dried buttons are ground into a powder and either consumed directly, encapsulated, or brewed. The dried form is more stable for storage and transport.
-
-In traditional ceremonial contexts, peyote is typically consumed during an all-night ceremony. Participants may eat 4-12 buttons or more during the course of the ceremony, with doses being repeated periodically throughout the night. The bitter taste is considered part of the ceremonial experience.
-
-Some practitioners report that consuming peyote with a small amount of vitamin C (ascorbic acid) enhances absorption and intensity, though this claim has not been systematically studied. The addition of complementary plants such as maquey or corn silk is also traditional in some ceremonial contexts.
-
-The taste of fresh peyote is extremely bitter and acrid, often causing salivation and occasional nausea upon consumption. This bitterness is partly attributable to the alkaloid content and partly to other secondary compounds in the plant tissue. Experienced ceremonial users consider the bitterness an integral part of the experience, symbolic of the challenges of spiritual growth.
+Very low acute toxicity; no documented human deaths from mescaline overdose alone. Significant nausea common with raw peyote (tyramine/hordenine). Mild tachycardia and hypertension at therapeutic doses. Can trigger anxiety or psychosis in predisposed individuals. HPPD reported rarely. Potentially dangerous with MAOIs, stimulants, tramadol; serotonergic syndrome risk with SSRIs. Contraindicated in severe cardiovascular disease and pregnancy.
 
 ## See Also
-
-- [[plants-of-the-gods-lophophora-peyote]]
-- [[mescaline-entity]]
 
 - [[lophophora-diffusa]]
 
 - [[mescaline]]
-- [[trichocereus-pachanoi]]
-- [[trichocereus-bridgesii]]
-- [[keewaydinoquay-native-american-mushroom-traditions]]
-- [[lophophora-diffusa]]
+- [[psychedelic-plant-sources]]
+- [[entheogens-in-ancient-cultures]]

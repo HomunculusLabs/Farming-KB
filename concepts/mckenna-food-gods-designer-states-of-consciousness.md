@@ -1,5 +1,6 @@
 ---
 title: Designer States of Consciousness Critique in Food of the Gods
+created: 2026-04-28
 tags: [consciousness, mckenna, media-critique, dominator, culture]
 date: 2026-04-28
 updated: 2026-04-28

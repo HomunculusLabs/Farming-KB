@@ -1,9 +1,11 @@
 ---
 title: "How Do I Prevent and Fix Salt Buildup in Cannabis Soil?"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, soil, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Prevent and Fix Salt Buildup in Cannabis Soil?

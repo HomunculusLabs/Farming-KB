@@ -1,5 +1,6 @@
 ---
 title: Aquatic Fungi and Spore Dispersal in Water
+created: 2026-04-28
 tags:
   - mycology
   - aquatic-biology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Aquatic Fungi and Spore Dispersal in Water

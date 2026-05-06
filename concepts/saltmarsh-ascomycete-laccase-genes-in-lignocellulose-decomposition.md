@@ -1,10 +1,12 @@
 ---
 title: Saltmarsh Ascomycete Laccase Genes in Lignocellulose Decomposition
+created: 2026-04-28
 tags: [mycology, ecology, enzymology, saltmarsh, decomposition]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+type: concept
 ---
 # Saltmarsh Ascomycete Laccase Genes in Lignocellulose Decomposition
 

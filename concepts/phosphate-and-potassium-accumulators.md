@@ -1,5 +1,6 @@
 ---
 title: Phosphate and Potassium Accumulator Plants
+created: 2026-04-28
 tags:
   - phosphorus
   - potassium
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md
+type: concept
 ---
 
 # Phosphate and Potassium Accumulator Plants

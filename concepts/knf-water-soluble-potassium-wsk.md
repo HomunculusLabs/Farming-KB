@@ -1,9 +1,11 @@
 ---
 title: "Water-Soluble Potassium (WS-K)"
+created: 2026-04-28
 tags: [knf, natural-farming, potassium, plant-nutrition, deficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 # Water-Soluble Potassium (WS-K)

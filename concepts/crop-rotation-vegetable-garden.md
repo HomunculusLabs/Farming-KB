@@ -1,10 +1,12 @@
 ---
 title: "Crop Rotation in the Vegetable Garden"
+created: 2026-04-28
 tags: [crop-rotation, vegetable-gardening, soil-fertility,
       disease-prevention, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
+type: concept
 ---
 
 # Crop Rotation in the Vegetable Garden

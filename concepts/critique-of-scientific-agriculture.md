@@ -1,5 +1,6 @@
 ---
 title: Critique of Scientific Agriculture
+created: 2026-04-28
 tags:
   - natural-farming
   - agricultural-science
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Critique of Scientific Agriculture

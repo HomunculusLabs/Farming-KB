@@ -1,10 +1,12 @@
 ---
 title: Bamboo Groves and Wood Preserves for Soil Fertility
+created: 2026-04-28
 tags: [fukuoka, natural-farming, bamboo, wood-preserve, shelterbelt, soil-fertility, organic-matter, windbreak, orchard-design, farm-establishment]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Bamboo Groves and Wood Preserves for Soil Fertility

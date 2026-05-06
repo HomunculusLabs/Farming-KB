@@ -1,5 +1,6 @@
 ---
 title: Phoma exigua
+created: 2026-04-28
 type: species
 tags: [ascomycota, plant-pathogen, leaf-litter, air-pollution, soil-fungus]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "PSK (Polysaccharide-K)"
+created: 2026-04-28
 tags: [compound, polysaccharide, pharmaceutical, immunomodulator]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]
+type: entity
 ---
 
 # PSK (Polysaccharide-K)

@@ -1,5 +1,6 @@
 ---
 title: "LSD (D-lysergic acid diethylamide)"
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, ergoline, serotonergic, tryptamine-derivative, controlled-substance]
 date: 2026-04-28

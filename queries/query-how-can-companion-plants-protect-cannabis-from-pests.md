@@ -1,10 +1,12 @@
 ---
 title: "How Can Companion Plants Protect Cannabis from Pests?"
+created: 2026-04-28
 tags: [query, companion-planting, cannabis, IPM, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How Can Companion Plants Protect Cannabis from Pests?

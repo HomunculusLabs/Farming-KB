@@ -1,5 +1,6 @@
 ---
 title: Laetiporus sulphureus
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -137,6 +138,8 @@ Cultivation of *Laetiporus sulphureus* is possible but less developed than for m
 - **Challenges**: Slower colonization than many competitors; susceptible to Trichoderma contamination; fruiting triggers are less well understood than for Shiitake or Oyster mushrooms
 
 ## See Also
+
+- [[laetiporus-entity]]
 
 - [[laetiporus-sulphureus-entity]]
 - [[laetiporus-sulphureus-permaculture]]

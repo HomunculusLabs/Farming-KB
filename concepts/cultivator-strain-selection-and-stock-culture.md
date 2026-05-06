@@ -1,9 +1,11 @@
 ---
 title: "Strain Selection Sectoring and Stock Culture Preservation"
+created: 2026-04-28
 tags: [mushroom-cultivation, strain-selection, mycelium-genetics, stock-culture, breeding]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Strain Selection, Sectoring, and Stock Culture Preservation

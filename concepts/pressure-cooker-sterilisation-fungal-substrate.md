@@ -1,5 +1,6 @@
 ---
 title: Pressure Cooker Sterilisation for Fungal Substrate Jars
+created: 2026-04-28
 tags:
   - mycology
   - sterilisation
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Pressure Cooker Sterilisation for Fungal Substrate Jars
@@ -120,5 +122,7 @@ Regardless of the specific model chosen, proper maintenance — regular gasket i
 Sterilisation sits between substrate preparation and [[inoculation-methods]] in the cultivation workflow. Jars should ideally be inoculated within 24 hours of sterilisation. The longer the interval, the greater the contamination risk through microscopic foil gaps. Planning inoculation immediately after cooling minimises this risk. A well-organised cultivator times the sterilisation cycle to complete in the evening, allowing overnight cooling with inoculation first thing the next morning.
 
 ## See Also
+
+- [[oyster-mushroom-substrate-materials-guide]]
 
 - [[fungal-carbon-substrate-utilization-efficiency]]

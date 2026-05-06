@@ -1,5 +1,6 @@
 ---
 title: Baeocystin (4-Phosphoryloxy-N-Methyltryptamine)
+created: 2026-04-28
 type: chemical
 tags: [chemistry, alkaloid, psilocybin-pathway, tryptamine, mushroom-alkaloids]
 date: 2026-04-28

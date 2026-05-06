@@ -1,11 +1,13 @@
 ---
 title: Coppice and Forest Management Systems
+created: 2026-04-28
 tags: [permaculture, coppice, forest-management, timber, pole-wood, 
 dry-distillation, firewood, bamboo, windbreak, wildlife-habitat, 
 sustainable-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Coppice and Forest Management Systems

@@ -1,5 +1,6 @@
 ---
 title: Areca catechu
+created: 2026-04-28
 type: species
 tags: [arecaceae, betel-nut, stimulant, arecoline, traditional-use]
 date: 2026-04-28

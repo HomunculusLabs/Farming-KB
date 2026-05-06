@@ -1,5 +1,6 @@
 ---
 title: Heavy Metal Remediation by Fungi
+created: 2026-04-28
 tags:
   - bioremediation
   - heavy-metals
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - staycare-mngmt-fungi-in-bioremediation.md
+type: concept
 ---
 
 # Heavy Metal Remediation by Fungi

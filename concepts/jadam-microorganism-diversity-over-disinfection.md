@@ -1,5 +1,6 @@
 ---
 title: "JADAM Microorganism Diversity Over Disinfection"
+created: 2026-04-28
 tags:
   - natural-farming
   - soil-biology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+type: concept
 ---
 
 # JADAM Microorganism Diversity Over Disinfection

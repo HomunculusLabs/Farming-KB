@@ -1,11 +1,13 @@
 ---
 title: "Ladino Clover, Alfalfa, and Bur Clover as Orchard Ground Cover Crops"
+created: 2026-04-28
 tags: [natural-farming, cover-crops, clover, alfalfa, orchard-management, weed-control, soil-fertility, legumes, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "5889-5968"
+type: concept
 ---
 
 # Ladino Clover, Alfalfa, and Bur Clover as Orchard Ground Cover Crops

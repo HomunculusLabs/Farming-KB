@@ -1,9 +1,11 @@
 ---
 title: "What Is the Best Way to Rotate Crops in a Vegetable Garden?"
+created: 2026-04-28
 tags: [query, organic-gardening, crop-rotation, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Best Way to Rotate Crops in a Vegetable Garden?

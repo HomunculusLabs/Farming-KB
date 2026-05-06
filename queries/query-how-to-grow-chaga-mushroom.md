@@ -1,9 +1,11 @@
 ---
 title: "How to Grow and Forage Chaga Mushroom"
+created: 2026-04-28
 tags: [query, mycology, medicinal-mushrooms, foraging, birch]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow and Forage Chaga Mushroom

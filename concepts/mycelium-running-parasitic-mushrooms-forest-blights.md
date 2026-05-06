@@ -1,9 +1,11 @@
 ---
 title: "Parasitic Mushrooms and Forest Blights"
+created: 2026-04-28
 tags: [mycology, parasitism, forest-ecology, fungal-pathogens]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # Parasitic Mushrooms and Forest Blights

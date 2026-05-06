@@ -1,5 +1,6 @@
 ---
 title: Trace Water Enhanced Microwave Surface Sterilization
+created: 2026-04-28
 tags:
   - sterilization
   - microwaves
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Trace Water Enhanced Microwave Surface Sterilization
@@ -128,6 +130,8 @@ plastics. The trace water microwave technique avoids all chemical residue
 problems. No toxic compounds are introduced to the sterilized surface. After
 
 ## See Also
+
+- [[microwave-trace-water-surface-sterilisation-protocol]]
 
 - [[microwave-steam-flash-sterilization-mechanism]]
 - [[bacterial-spore-microwave-resistance]]

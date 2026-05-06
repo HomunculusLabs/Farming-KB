@@ -1,9 +1,11 @@
 ---
 title: Spray Nozzles and Equipment for Compost Tea Application
+created: 2026-04-28
 tags: [spray-equipment, nozzles, compost-tea, foliar-application, sprayers]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Spray Nozzles and Equipment for Compost Tea Application

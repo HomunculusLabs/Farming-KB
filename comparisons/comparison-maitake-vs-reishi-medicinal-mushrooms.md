@@ -1,5 +1,6 @@
 ---
 title: "Maitake vs Reishi: Medicinal Mushroom Comparison"
+created: 2026-04-28
 tags:
   - medicinal-mushrooms
   - adaptogens
@@ -17,6 +18,7 @@ sources:
   - "Boh, B., Berovic, M., et al. (2007). Ganoderma lucidium and the lingzhi mushroom. Acta Pharmaceutica, 57(2), 1–14."
   - "Wasser, S.P. (2014). Medicinal mushroom science: history, current status, future trends, and unsolved problems. International Journal of Medicinal Mushrooms, 16(1), 1–16."
   - "Inoue, A., et al. (2002). Maitake D-fraction: healing and preventive potential. Explore: The Journal of Science and Healing, 13(4), 283–288."
+type: comparison
 ---
 
 # Maitake vs Reishi: Medicinal Mushroom Comparison

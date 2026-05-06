@@ -1,5 +1,6 @@
 ---
 title: Hericium coralloides
+created: 2026-04-28
 type: species
 tags: [hericiaceae, medicinal-mushroom, saprotrophic, nerve-regeneration, culinary]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "Mineral Transformations and Biogeochemistry"
+created: 2026-04-28
 tags: [mycology, biogeochemistry, weathering, geomycology, nutrient-cycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Mineral Transformations and Biogeochemistry

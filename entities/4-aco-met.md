@@ -1,5 +1,6 @@
 ---
 title: 4-AcO-MET
+created: 2026-04-28
 type: chemical
 tags:
   - 4-aco-met

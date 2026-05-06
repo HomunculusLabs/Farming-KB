@@ -1,9 +1,11 @@
 ---
 title: Oyster Mushroom Cultivation Methods
+created: 2026-04-28
 tags: [mycology, cultivation, agriculture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Oyster Mushroom Cultivation Methods

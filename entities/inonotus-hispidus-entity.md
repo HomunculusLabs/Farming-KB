@@ -1,5 +1,6 @@
 ---
 title: "Inonotus hispidus"
+created: 2026-04-28
 type: species
 tags: [fungi, polypore, medicinal-mushroom, hymenochaetaceae, tree-pathogen]
 date: 2026-04-28

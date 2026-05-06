@@ -1,9 +1,11 @@
 ---
 title: "Aleph-2 (PIHKAL)"
+created: 2026-04-28
 tags: [phenethylamine, psychedelic, pihkal, thioether, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md"]
+type: concept
 ---
 
 # Aleph-2

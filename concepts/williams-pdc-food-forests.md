@@ -1,9 +1,11 @@
 ---
 title: "Food Forests"
+created: 2026-04-28
 tags: [permaculture, food-forests, agroforestry, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Food Forests

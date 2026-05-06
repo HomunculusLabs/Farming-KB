@@ -1,10 +1,12 @@
 ---
 title: "Biennial Flowers Organic"
+created: 2026-04-28
 tags: [biennials, flowers, ornamental-gardening, cottage-garden]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Biennial Flowers Organic

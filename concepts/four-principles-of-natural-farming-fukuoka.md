@@ -1,5 +1,6 @@
 ---
 title: "Four Principles of Natural Farming"
+created: 2026-04-28
 tags:
   - natural-farming
   - agricultural-philosophy
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
     author: Masanobu Fukuoka
+type: concept
 ---
 
 # Four Principles of Natural Farming

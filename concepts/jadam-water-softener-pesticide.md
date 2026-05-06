@@ -1,9 +1,11 @@
 ---
 title: JADAM Water Softener Pesticide Integration
+created: 2026-04-28
 tags: [jadam, water-softener, pesticide-effectiveness, water-quality, ion-exchange, soft-water]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # JADAM Water Softener Pesticide Integration

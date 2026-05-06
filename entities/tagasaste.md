@@ -1,5 +1,6 @@
 ---
 title: "Tagasaste"
+created: 2026-04-28
 type: species
 tags: [permaculture, fodder-tree, nitrogen-fixer, legume, agroforestry]
 date: 2026-04-28

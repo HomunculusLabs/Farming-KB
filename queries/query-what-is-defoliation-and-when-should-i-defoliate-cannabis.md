@@ -1,9 +1,11 @@
 ---
 title: "What Is Defoliation and When Should I Defoliate Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, training, pruning, yield]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Defoliation and When Should I Defoliate Cannabis?

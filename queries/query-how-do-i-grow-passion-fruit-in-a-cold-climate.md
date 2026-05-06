@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Passion Fruit in a Cold Climate?"
+created: 2026-04-28
 tags: [passion-fruit, passiflora, cold-climate-growing, tropical-fruit, container-growing, greenhouse, overwintering]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Popenoe, W. (1974). Manual of Tropical and Subtropical Fruits. Hafner Press."
   - "Brickell, C. (2019). RHS A-Z Encyclopedia of Garden Plants. Dorling Kindersley."
   - "University of Florida IFAS Extension. Passion Fruit Production Guide. edis.ifas.ufl.edu"
+type: query
 ---
 
 # How Do I Grow Passion Fruit in a Cold Climate?

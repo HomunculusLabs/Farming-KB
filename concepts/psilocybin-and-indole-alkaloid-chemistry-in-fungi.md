@@ -1,10 +1,12 @@
 ---
 title: Psilocybin and Indole Alkaloid Chemistry in Fungi
+created: 2026-04-28
 tags: [mycology, chemistry, psychedelics, psilocybin, indole-alkaloids, analytical-methods]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto 14: 189-280."
+type: concept
 ---
 
 # Psilocybin and Indole Alkaloid Chemistry in Fungi

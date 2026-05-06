@@ -1,9 +1,11 @@
 ---
 title: Eleusinian Mysteries Kykeon
+created: 2026-04-28
 tags: [eleusinian, kykeon, ancient-greece, ergot]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/mckenna_t-food_of-the_gods.md]
+type: concept
 ---
 
 # Eleusinian Mysteries Kykeon

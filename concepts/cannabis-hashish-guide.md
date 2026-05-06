@@ -1,5 +1,7 @@
 ---
 title: "Cannabis Hashish Guide"
+created: 2026-04-28
+type: concept
 ---
 # Cannabis Hashish Guide
 ## Overview

@@ -1,10 +1,12 @@
 ---
 title: Food Forest Vision and Benefits
+created: 2026-04-28
 tags: [permaculture, food-forest, agroforestry, forest-garden, ecological-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Food Forest Vision and Benefits

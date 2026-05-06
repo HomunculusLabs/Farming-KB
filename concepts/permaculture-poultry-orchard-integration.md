@@ -1,9 +1,11 @@
 ---
 title: "Permaculture Poultry Orchard Integration"
+created: 2026-04-28
 tags: [permaculture, poultry, chickens, orchard, integration, zone-2]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Permaculture Poultry Orchard Integration

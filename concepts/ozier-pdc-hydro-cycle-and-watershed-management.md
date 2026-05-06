@@ -1,11 +1,13 @@
 ---
 title: Hydro Cycle and Watershed Management
+created: 2026-04-28
 tags: [permaculture, hydro-cycle, watershed, water-harvesting, 
 infiltration, evaporation, condensation, precipitation, runoff, 
 aquifer, subsurface-flow, erosion, deforestation, desertification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Hydro Cycle and [[watershed-management]]

@@ -1,9 +1,11 @@
 ---
 title: "What Is a Rocket Mass Heater and How Does It Work"
+created: 2026-04-28
 tags: [query, rocket-mass-heater, heating, natural-building, energy-efficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is a Rocket Mass Heater and How Does It Work

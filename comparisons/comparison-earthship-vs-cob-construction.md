@@ -1,5 +1,6 @@
 ---
 title: "Earthship vs Cob Construction"
+created: 2026-04-28
 tags:
   - natural-building
   - earthship
@@ -11,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Earthship vs Cob Construction

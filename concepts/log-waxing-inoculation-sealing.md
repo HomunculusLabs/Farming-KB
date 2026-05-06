@@ -1,9 +1,11 @@
 ---
 title: Log Waxing and Inoculation Sealing Techniques
+created: 2026-04-28
 tags: [mushroom-cultivation, log-growing, inoculation, mushroom-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Log Waxing and Inoculation Sealing Techniques

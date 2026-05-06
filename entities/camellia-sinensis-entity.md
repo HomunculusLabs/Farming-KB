@@ -1,5 +1,6 @@
 ---
 title: "Camellia sinensis"
+created: 2026-04-28
 type: species
 tags: [species, plant, theaceae, herbal, tea, caffeine, permaculture, cash-crop]
 date: 2026-04-28

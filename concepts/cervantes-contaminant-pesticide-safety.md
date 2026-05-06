@@ -1,5 +1,6 @@
 ---
 title: Contaminant and Pesticide Safety in Cannabis
+created: 2026-04-28
 tags:
   - pesticide-safety
   - cannabis-contaminants
@@ -15,6 +16,7 @@ synonyms:
   - moldy cannabis
   - medical grade cannabis
   - abamectin toxicity
+type: concept
 ---
 
 # Contaminant and Pesticide Safety in Cannabis

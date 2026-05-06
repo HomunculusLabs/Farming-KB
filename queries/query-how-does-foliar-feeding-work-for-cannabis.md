@@ -1,9 +1,11 @@
 ---
 title: "How Does Foliar Feeding Work for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, foliar-feeding, nutrients, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Foliar Feeding Work for Cannabis?

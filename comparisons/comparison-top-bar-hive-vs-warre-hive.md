@@ -1,5 +1,6 @@
 ---
 title: Top-Bar Hive vs Warre Hive
+created: 2026-04-28
 tags:
   - beekeeping
   - top-bar-hive
@@ -17,6 +18,7 @@ sources:
   - Seeley TD. The Lives of Bees. Princeton University Press, 2019.
   - Fletcher DJC. "The natural history of honey bee management." Bee World, 1978.
   - Common apicultural extension resources and practical beekeeping guides.
+type: comparison
 ---
 
 # Top-Bar Hive vs Warre Hive

@@ -1,5 +1,6 @@
 ---
 title: "Golden Guide: Coleus and Other Mild Psychoactives"
+created: 2026-04-28
 tags: [hallucinogenic-plants, coleus, mild-psychoactives, labiatae,
   borrachera, lochroma, brunsfelsia, shanin, zacatechichi, keule,
   tupa, solanaceae, mazatec]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+type: concept
 ---
 
 # Coleus, Borrachera, and Other Mildly Psychoactive Plants

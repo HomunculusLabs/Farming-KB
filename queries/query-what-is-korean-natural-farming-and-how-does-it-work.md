@@ -1,9 +1,11 @@
 ---
 title: "What Is Korean Natural Farming and How Does It Work?"
+created: 2026-04-28
 tags: [query, knf, natural-farming, organic, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/chos-global-natural-farming.md]
+type: query
 ---
 
 # What Is Korean Natural Farming and How Does It Work?

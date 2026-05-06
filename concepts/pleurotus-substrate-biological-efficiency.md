@@ -1,9 +1,11 @@
 ---
 title: Pleurotus Substrate and Biological Efficiency
+created: 2026-04-28
 tags: [substrate, oyster-mushroom, cultivation, biological-efficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Pleurotus Substrate and Biological Efficiency

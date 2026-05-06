@@ -1,11 +1,13 @@
 ---
 title: "Hillside Garden Establishment and Terrace Soil Preparation"
+created: 2026-04-28
 tags: [natural-farming, gardens, terracing, soil-preparation, hillside-agriculture, cover-crops, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "4353-4395"
+type: concept
 ---
 
 # Hillside Garden Establishment and Terrace Soil Preparation

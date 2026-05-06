@@ -1,9 +1,11 @@
 ---
 title: "Compost Tea vs Vermicompost Tea"
+created: 2026-04-28
 tags: [comparison, compost, vermicompost, soil-biology]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: comparison
 ---
 
 # Compost Tea vs Vermicompost Tea

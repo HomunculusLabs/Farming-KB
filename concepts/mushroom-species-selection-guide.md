@@ -1,9 +1,11 @@
 ---
 title: Mushroom Species Selection Guide
+created: 2026-04-28
 tags: [mycology, species, cultivation, beginner]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Mushroom Species Selection Guide

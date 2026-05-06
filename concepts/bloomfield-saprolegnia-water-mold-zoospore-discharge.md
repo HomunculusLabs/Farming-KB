@@ -1,5 +1,6 @@
 ---
 title: Saprolegnia Water Mold Zoospore Discharge and Biology
+created: 2026-04-28
 tags:
   - mycology
   - oomycete
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002), Chapter 6 "Ingold's Jewels"
+type: concept
 ---
 
 # Saprolegnia Water Mold Zoospore Discharge and Biology

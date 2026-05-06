@@ -1,9 +1,11 @@
 ---
 title: "Companion Planting vs Monoculture"
+created: 2026-04-28
 tags: [comparison, planting-strategy, permaculture, organic-gardening, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Companion Planting vs Monoculture
 ## Overview

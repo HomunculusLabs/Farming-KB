@@ -1,5 +1,6 @@
 ---
 title: Mentha piperita
+created: 2026-04-28
 type: species
 tags:
   - lamiaceae
@@ -143,6 +144,8 @@ century, where it remains dominant. Among the earliest
 essential oils produced at industrial scale.
 
 ## See Also
+
+- [[mentha-spicata]]
 
 - [[companion-planting]]
 - [[herbal-medicine]]

@@ -1,9 +1,11 @@
 ---
 title: "Gartz Pluteus salicinus: Little-Known Wood-Inhabiting Psilocybin Species"
+created: 2026-04-28
 tags: [pluteus-salicinus, gartz, psilocybin, psilocin, wood-inhabiting, pluteaceae, rare-mushroom, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+type: concept
 ---
 
 # Gartz: Pluteus salicinus: Little-Known Wood-Inhabiting Psilocybin Species

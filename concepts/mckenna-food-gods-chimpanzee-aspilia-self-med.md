@@ -1,5 +1,6 @@
 ---
 title: Chimpanzee Self-Medication and Aspilia in Food of the Gods
+created: 2026-04-28
 tags: [chimpanzee, self-medication, aspilia, mckenna, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28

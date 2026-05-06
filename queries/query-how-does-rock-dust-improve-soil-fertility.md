@@ -1,5 +1,6 @@
 ---
 title: "How Does Rock Dust Improve Soil Fertility?"
+created: 2026-04-28
 tags:
   - soil fertility
   - rock dust
@@ -13,6 +14,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rock-dust
   - Hamaker, J. "The Survival of Civilization"
   - Manning, D.A.C. "Mineral Sources of Potassium for Plant Nutrition"
+type: query
 ---
 
 # How Does Rock Dust Improve Soil Fertility?

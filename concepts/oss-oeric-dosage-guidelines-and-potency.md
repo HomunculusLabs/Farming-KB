@@ -1,9 +1,11 @@
 ---
 title: "Oss & Oeric: Dosage Guidelines and Potency"
+created: 2026-04-28
 tags: [mycology, dosage, pharmacology, psilocybin, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+type: concept
 ---
 
 # Oss & Oeric: Dosage Guidelines and Potency

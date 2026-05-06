@@ -1,5 +1,6 @@
 ---
 title: "Beetle Borers, Bees, Wasps, and Loopers on Cannabis (Cervantes)"
+created: 2026-04-28
 tags:
   - cannabis
   - pest-control
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Beetle Borers, Bees, Wasps, and Loopers on Cannabis

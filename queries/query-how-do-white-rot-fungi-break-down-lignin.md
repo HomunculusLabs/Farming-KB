@@ -1,10 +1,12 @@
 ---
 title: "How Do White-Rot Fungi Break Down Lignin and What Are Their Applications?"
+created: 2026-04-28
 tags: [query, white-rot-fungi, lignin, bioremediation, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 
 # How Do White-Rot Fungi Break Down Lignin and What Are Their Applications?

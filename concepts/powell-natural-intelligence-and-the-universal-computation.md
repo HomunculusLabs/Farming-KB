@@ -1,11 +1,13 @@
 ---
 title: Natural Intelligence and the Universal Computation
+created: 2026-04-28
 tags: [natural-intelligence, universal-computation, information-theory,
   consciousness, evolution, gaia]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+type: concept
 ---
 # [[natural-intelligence]] and the Universal Computation
 

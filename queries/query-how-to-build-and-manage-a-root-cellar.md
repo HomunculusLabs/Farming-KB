@@ -1,9 +1,11 @@
 ---
 title: "How to Build and Manage a Root Cellar"
+created: 2026-04-28
 tags: [query, root-cellar, food-storage, construction, preservation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Build and Manage a Root Cellar

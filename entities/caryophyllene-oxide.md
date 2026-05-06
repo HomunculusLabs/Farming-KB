@@ -1,5 +1,6 @@
 ---
 title: "Caryophyllene Oxide"
+created: 2026-04-28
 type: chemical
 tags:
   - sesquiterpene

@@ -1,10 +1,12 @@
 ---
 title: Psilocybin Volatility, Specimen Age, and Degradation
+created: 2026-04-28
 tags: [psilocybin, psilocin, degradation, volatility, specimen-age, herbarium, repke, ohenoja, guzman, hofmann, cordyceps, misidentification, panaeolina-foenisecii, baeocystin, chemical-analysis]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Psilocybin Volatility, Specimen Age, and Degradation

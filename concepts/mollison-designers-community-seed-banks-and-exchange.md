@@ -1,5 +1,6 @@
 ---
 title: Community Seed Banks and Exchange in Permaculture
+created: 2026-04-28
 tags:
   - permaculture
   - seed-saving
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Community Seed Banks and Exchange in Permaculture

@@ -1,10 +1,12 @@
 ---
 title: "What Is Living Mulch and When Should I Use It?"
+created: 2026-04-28
 tags: [query, living-mulch, cover-crops, no-till-gardening, permaculture, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # What Is Living Mulch and When Should I Use It?

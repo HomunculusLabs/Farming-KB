@@ -1,10 +1,12 @@
 ---
 title: Fungal Enzymatic Wood Decay, Cellulose, Lignin, and Brown Rot
+created: 2026-04-28
 tags: [mycology, fungal-biology, wood-decay, cellulose, lignin, brown-rot, white-rot, enzymes, decomposition, forest-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Fungal Enzymatic Wood Decay, Cellulose, Lignin, and Brown Rot

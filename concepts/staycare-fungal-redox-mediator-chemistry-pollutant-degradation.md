@@ -1,9 +1,11 @@
 ---
 title: Fungal Redox Mediator Chemistry in Pollutant Degradation
+created: 2026-04-28
 tags: [bioremediation, redox-mediators, enzymatic-chemistry, ligninolytic-systems, oxidative-degradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Redox Mediator Chemistry in Pollutant Degradation

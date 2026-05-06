@@ -1,5 +1,6 @@
 ---
 title: Compost Tea Brewing
+created: 2026-04-28
 tags:
   - compost-tea
   - microbial-inoculant
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+type: concept
 ---
 
 # Compost Tea Brewing

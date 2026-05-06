@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Dragon Fruit (Pitaya) at Home?"
+created: 2026-04-28
 tags: [dragon-fruit, pitaya, home-growing, beginner-guide, tropical-fruit, FAQ]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://www.crfg.org/pubs/ff/dragonfruit.html
   - https://edis.ifas.ufl.edu/publication/EP560
   - https://www.gardeningknowhow.com/edible/fruits/dragon-fruit/growing-dragon-fruit.htm
+type: query
 ---
 
 # How Do I Grow Dragon Fruit (Pitaya) at Home?

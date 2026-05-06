@@ -1,9 +1,11 @@
 ---
 title: Guerrilla Gardening Techniques
+created: 2026-04-28
 tags: [guerrilla-gardening, urban-permaculture, urban-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Guerrilla Gardening Techniques

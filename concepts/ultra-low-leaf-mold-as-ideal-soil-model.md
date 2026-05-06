@@ -1,9 +1,11 @@
 ---
 title: "Leaf Mold as Ideal Soil Model"
+created: 2026-04-28
 tags: [leaf-mold, soil-health, microorganisms, organic-matter, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Leaf Mold as Ideal Soil Model

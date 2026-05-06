@@ -1,5 +1,6 @@
 ---
 title: "Hippophae rhamnoides (Permaculture)"
+created: 2026-04-28
 type: species
 tags:
   - elaeagnaceae
@@ -149,6 +150,8 @@ processed into juices, oils, preserves, and supplements, creating economic retur
 marginal land.
 
 ## See Also
+
+- [[permaculture-designers-manual-essential-oil-plants]]
 
 - [[hippophae-rhamnoides]]
 

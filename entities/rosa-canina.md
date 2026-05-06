@@ -1,5 +1,6 @@
 ---
 title: "Rosa canina"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -144,6 +145,10 @@ ecological and practical functions:
   to disease resistance and vigor
 
 ## See Also
+
+- [[herb-growing-guide]]
+
+- [[herbal-medicine]]
 
 - [[peltigera-canina]]
 

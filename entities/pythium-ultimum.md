@@ -1,5 +1,6 @@
 ---
 title: "Pythium ultimum"
+created: 2026-04-28
 type: species
 tags: [oomycete, soil-borne-pathogen, damping-off, biocontrol-target]
 date: 2026-04-28

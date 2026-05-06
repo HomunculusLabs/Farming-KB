@@ -1,10 +1,12 @@
 ---
 title: "Mushroom-Infused Beer Wine and Spirits"
+created: 2026-04-28
 tags: [mushroom-beverages, brewing, fermentation, value-added, medicinal-alcohol]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Mushroom-Infused Beer Wine and Spirits

@@ -1,9 +1,11 @@
 ---
 title: Ethical Foundations in Permaculture
+created: 2026-04-28
 tags: [permaculture, ethics, earth-care, people-care, fair-share]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Ethical Foundations in Permaculture

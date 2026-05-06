@@ -1,10 +1,12 @@
 ---
 title: Manure Quality Variability and Fertilizer Value
+created: 2026-04-28
 tags: [manure, fertilizer, soil-fertility, composting, nitrogen, organic-gardening, steve-solomon]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Manure Quality Variability and Fertilizer Value

@@ -1,9 +1,11 @@
 ---
 title: Super Spawning and Active Mycelium Techniques
+created: 2026-04-28
 tags: [mycology, spawn, bulk-substrate, inoculation, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
+type: concept
 ---
 
 # Super Spawning and Active Mycelium Techniques

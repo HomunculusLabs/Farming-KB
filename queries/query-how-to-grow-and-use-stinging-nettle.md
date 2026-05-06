@@ -1,9 +1,11 @@
 ---
 title: "How Do I Grow and Use Stinging Nettle?"
+created: 2026-04-28
 tags: [query, stinging-nettle, dynamic-accumulators, foraging, herbal-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Grow and Use Stinging Nettle?

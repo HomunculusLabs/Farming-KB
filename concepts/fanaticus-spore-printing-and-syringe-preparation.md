@@ -1,10 +1,12 @@
 ---
 title: Spore Printing and Syringe Preparation for Mushroom Cultivation
+created: 2026-04-28
 tags: [mycology, cultivation, spores, sterilization, psilocybe]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+type: concept
 ---
 
 # Spore Printing and Syringe Preparation for Mushroom Cultivation

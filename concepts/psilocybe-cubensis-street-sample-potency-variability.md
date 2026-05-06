@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Cubensis Street Sample Potency Variability
+created: 2026-04-28
 tags:
   - psilocybin
   - psilocin
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+type: concept
 ---
 
 # Psilocybe Cubensis Street Sample Potency Variability

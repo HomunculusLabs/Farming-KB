@@ -1,5 +1,6 @@
 ---
 title: Candida albicans Yeast Hyphal Dimorphism and Tissue Invasion
+created: 2026-04-28
 tags:
   - mycology
   - candida
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002), Chapters 2 and 3
+type: concept
 ---
 
 # Candida albicans: Yeast-Hyphal Dimorphism and Tissue Invasion

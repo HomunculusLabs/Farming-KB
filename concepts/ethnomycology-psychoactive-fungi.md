@@ -1,10 +1,12 @@
 ---
 title: Ethnomycology and Psychoactive Fungi
+created: 2026-04-28
 tags: [ethnomycology, psychoactive-fungi, shamanism, mycology, anthropology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Ethnomycology and Psychoactive Fungi

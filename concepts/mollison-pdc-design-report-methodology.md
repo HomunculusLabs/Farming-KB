@@ -1,5 +1,6 @@
 ---
 title: Permaculture Design Report Methodology
+created: 2026-04-28
 tags:
   - permaculture
   - design-methodology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Permaculture mollison pdc design report methodology

@@ -1,9 +1,11 @@
 ---
 title: "How to Maximize Terpene and Resin Production in Cannabis"
+created: 2026-04-28
 tags: [query, cannabis, terpenes, resin, quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Maximize Terpene and Resin Production in Cannabis

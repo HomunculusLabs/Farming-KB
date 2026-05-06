@@ -1,5 +1,6 @@
 ---
 title: "EMCDDA Hallucinogenic Mushroom Internet Information Sources"
+created: 2026-04-28
 tags:
   - emcdda
   - hallucinogenic-mushrooms
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Internet Information Sources
@@ -130,6 +132,8 @@ cultivation guides online has also contributed to the growth of home
 cultivation as an alternative source of supply.
 
 ## See Also
+
+- [[emcdda-retailer-risk-information-quality]]
 
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]

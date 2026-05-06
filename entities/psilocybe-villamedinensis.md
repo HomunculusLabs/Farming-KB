@@ -1,5 +1,6 @@
 ---
 title: Psilocybe villamedinensis
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, neotropical-fungi, psychotropic]
 date: 2026-04-28

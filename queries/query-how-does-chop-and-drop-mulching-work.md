@@ -1,9 +1,11 @@
 ---
 title: "How Does Chop and Drop Mulching Work?"
+created: 2026-04-28
 tags: [query, mulching, soil-health, permaculture, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Chop and Drop Mulching Work?

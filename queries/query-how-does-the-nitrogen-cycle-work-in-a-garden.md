@@ -1,9 +1,11 @@
 ---
 title: "How Does the Nitrogen Cycle Work in a Garden?"
+created: 2026-04-28
 tags: [query, nitrogen-cycle, soil-biology, nutrients, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does the Nitrogen Cycle Work in a Garden?

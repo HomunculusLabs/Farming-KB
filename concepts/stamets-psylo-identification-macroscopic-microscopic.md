@@ -1,10 +1,12 @@
 ---
 title: Identification of psilocybin mushrooms hallucinogenic-plants-of-the-world genus overview - Macroscopic and Microscopic Features
+created: 2026-04-28
 tags: [mycology, identification, microscopy, psilocybin, field field guide psilocybin-mushroom-image-guide-spore-color-chart species identification field field-guide-psilocybin-mushroom-species-identification identification bluing reaction identification identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 # Identification of Psilocybin Mushrooms
 Identifying psilocybin mushroom identifications to species is difficult unless you are a

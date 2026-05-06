@@ -1,9 +1,11 @@
 ---
 title: "Living Soil Cannabis vs Hydroponic Cannabis"
+created: 2026-04-28
 tags: [comparison, cannabis, living-soil, hydroponics, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Living Soil Cannabis vs Hydroponic Cannabis
 ## Overview

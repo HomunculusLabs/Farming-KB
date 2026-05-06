@@ -1,5 +1,6 @@
 ---
 title: "Fish Hydrolysate vs Fish Emulsion"
+created: 2026-04-28
 tags: [comparison, fish-hydrolysate, fish-emulsion, organic-fertilizer, biostimulant, nitrogen, soil-amendment]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/fish-fertilizer
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7840888/
   - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
+type: comparison
 ---
 
 # Fish Hydrolysate vs Fish Emulsion

@@ -1,5 +1,6 @@
 ---
 title: "Gymnopilus fulgens"
+created: 2026-04-28
 type: species
 tags: [fungi, cortinariaceae, psychoactive, gymnopilus, wood-inhabiting, basidiomycota]
 date: 2026-04-28
@@ -143,6 +144,8 @@ a precursor to the alpha-pyrone pigments characteristic of the genus.
   practices (removal of dead standing trees and stumps) may
   reduce available substrate
 ## See Also
+
+- [[gymnopilus-viridans]]
 
 - [[baeocystin]]
 - [[gymnopilus-junonius]]

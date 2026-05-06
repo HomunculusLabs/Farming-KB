@@ -1,9 +1,11 @@
 ---
 title: "What Are EC and TDS and How Do I Use Them for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, nutrients, hydroponics, water-quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are EC and TDS and How Do I Use Them for Cannabis?

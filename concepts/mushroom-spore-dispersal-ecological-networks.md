@@ -1,9 +1,11 @@
 ---
 title: Mushroom Spore Dispersal and Ecological Networks
+created: 2026-04-28
 tags: [spores, mycology, fungal-ecology, dispersal, mycelium-running]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [mycelium-running-stamets.md]
+type: concept
 ---
 
 # Mushroom Spore Dispersal and Ecological Networks

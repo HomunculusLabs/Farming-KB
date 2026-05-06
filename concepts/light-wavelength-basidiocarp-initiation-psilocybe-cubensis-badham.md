@@ -1,5 +1,6 @@
 ---
 title: "Light Wavelength Effects on Psilocybe Cubensis
+created: 2026-04-28
   Basidiocarp Initiation"
 tags: [photobiology, action-spectrum, psilocybe-cubensis,
   basidiomycete, dose-response]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md
+type: concept
 ---
 
 # Light Wavelength Effects on [[psilocybe-cubensis]]

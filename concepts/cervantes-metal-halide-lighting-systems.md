@@ -1,10 +1,12 @@
 ---
 title: Metal Halide Lighting Systems
+created: 2026-04-28
 tags: [cannabis, lighting, metal-halide, hid, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Metal Halide Lighting Systems

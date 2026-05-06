@@ -1,5 +1,6 @@
 ---
 title: "Vaccinium corymbosum"
+created: 2026-04-28
 type: species
 tags: [species, fruit, permaculture, ericaceae, food-forest, berry, acid-loving]
 date: 2026-04-28

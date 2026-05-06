@@ -1,5 +1,6 @@
 ---
 title: How do photonic crystals create structural color?
+created: 2026-04-28
 subtitle: FAQ on color produced by nanoscale geometry rather than ordinary pigment
 tags: [photonic-crystals, structural-color, optics, materials-science, faq]
 date: 2026-05-02
@@ -10,6 +11,7 @@ related_concepts:
   - photonic-crystals
   - wavelet-transform
   - stress-strain-and-elasticity
+type: query
 ---
 # How do photonic crystals create structural color?
 Photonic crystals create structural color by arranging material at distances comparable to visible wavelengths.

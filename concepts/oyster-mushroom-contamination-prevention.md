@@ -1,9 +1,11 @@
 ---
 title: Oyster Mushroom Contamination Prevention
+created: 2026-04-28
 tags: [mycology, cultivation, oyster-mushroom, contamination]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Oyster Mushroom Contamination Prevention

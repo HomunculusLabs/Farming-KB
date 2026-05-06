@@ -1,5 +1,6 @@
 ---
 title: Sclerotia Formation in Psilocybe Species
+created: 2026-04-28
 tags:
   - mycology
   - sclerotia
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
+type: concept
 ---
 
 # Sclerotia Formation in Psilocybe Species

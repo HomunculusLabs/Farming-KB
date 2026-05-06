@@ -1,9 +1,11 @@
 ---
 title: "NPK and Nutrient Deficiency Identification"
+created: 2026-04-28
 tags: [cannabis, nutrients, npk, deficiency, plant-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Understanding NPK (Nitrogen, Phosphorus, and Potassium) and how to identify

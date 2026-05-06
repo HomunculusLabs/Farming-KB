@@ -1,5 +1,6 @@
 ---
 title: "Strobilomyces strobilaceus"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -148,3 +149,10 @@ The species contributes to forest nutrient cycling through
 decomposition of organic matter and serves as a food source for
 mammals, insects, and slugs.
 
+## See Also
+
+- [[mushroom-cultivation]]
+
+- [[mushroom-identification]]
+
+- [[spore-print]]

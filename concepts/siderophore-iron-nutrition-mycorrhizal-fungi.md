@@ -1,5 +1,6 @@
 ---
 title: "Siderophore Iron Nutrition in Mycorrhizal Fungi"
+created: 2026-04-28
 tags:
   - siderophores
   - iron-nutrition
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Siderophore Iron Nutrition in Mycorrhizal Fungi

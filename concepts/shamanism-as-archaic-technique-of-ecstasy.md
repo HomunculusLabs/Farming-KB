@@ -1,5 +1,6 @@
 ---
 title: Shamanism as Archaic Technique of Ecstasy
+created: 2026-04-28
 tags:
   - shamanism
   - anthropology
@@ -12,6 +13,7 @@ updated: 2026-04-28
 sources:
   - McKenna, T. (1992). Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books.
   - Eliade, M. (1964). Shamanism: Archaic Techniques of Ecstasy. Princeton University Press.
+type: concept
 ---
 
 # Shamanism as Archaic Technique of Ecstasy
@@ -129,6 +131,10 @@ The suppression of shamanic gnosis has robbed humanity of life's meaning and mad
 Only a recovery of the relationship that humanity evolved with nature through use of psychoactive plants can offer hope of a humane and open-ended future.
 
 ## See Also
+
+- [[psychedelic-shamanism-as-death-practice]]
+- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
+- [[mckenna-archaic-paradise-techniques-ecstasy]]
 
 - [[ayahuasca-preparation]]
 - [[Transcendent Other]]

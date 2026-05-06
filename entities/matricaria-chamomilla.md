@@ -1,5 +1,6 @@
 ---
 title: Matricaria chamomilla
+created: 2026-04-28
 type: species
 tags: [herbalism, medicinal-plants, Asteraceae, essential-oils,
   traditional-medicine, permaculture]

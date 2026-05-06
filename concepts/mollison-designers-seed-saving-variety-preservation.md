@@ -1,10 +1,12 @@
 ---
 title: "comparison seed saving techniques vs tissue culture cloning and Variety Preservation"
+created: 2026-04-28
 tags: [permaculture, seeds, plant-breeding, food-security, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-community-self-reliance-bill-bill-bill-bill-bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture-a-designers-manual-animal-systems-in-permaculture-a-designers-manual-permaculture-design-principles-a-permaculture-designers-manual-seed-saving-varieties-aquaculture-and-water-systems-a-designers-manual-water-harvesting-and-earthworks-manual.md
+type: concept
 ---
 
 # natural farming guide seed saving and heirloom varieties and Variety Preservation

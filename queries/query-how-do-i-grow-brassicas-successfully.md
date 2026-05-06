@@ -1,9 +1,11 @@
 ---
 title: "How Do I Grow Brassicas Successfully?"
+created: 2026-04-28
 tags: [query, brassicas, cole-crops, vegetable-gardening, organic-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Grow Brassicas Successfully?

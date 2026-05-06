@@ -1,5 +1,6 @@
 ---
 title: Clay Seed Pellets for Direct Seeding
+created: 2026-04-28
 tags:
   - direct-seeding
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Clay Seed Pellets for Direct Seeding

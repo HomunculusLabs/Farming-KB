@@ -1,9 +1,11 @@
 ---
 title: Pore Fungi Polyporaceae
+created: 2026-04-28
 tags: [mycology, polyporaceae, boletus, taxonomy, edible-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # Pore Fungi (Polyporaceae)

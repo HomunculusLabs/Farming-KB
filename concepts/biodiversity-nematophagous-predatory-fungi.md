@@ -1,9 +1,11 @@
 ---
 title: "Nematophagous and Predatory Fungi"
+created: 2026-04-28
 tags: [mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Nematophagous and Predatory Fungi

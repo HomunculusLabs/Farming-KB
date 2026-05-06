@@ -1,5 +1,6 @@
 ---
 title: Neurotropic Fungi Diversity and Vegetation Types
+created: 2026-04-28
 tags:
   - vegetation-types
   - biodiversity
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Neurotropic Fungi Diversity and Vegetation Types

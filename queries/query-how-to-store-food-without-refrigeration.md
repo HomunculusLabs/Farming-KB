@@ -1,9 +1,11 @@
 ---
 title: "How to Store Food Without Refrigeration"
+created: 2026-04-28
 tags: [query, food-storage, preservation, off-grid, traditional]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Store Food Without Refrigeration

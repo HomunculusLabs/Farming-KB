@@ -1,5 +1,6 @@
 ---
 title: "Human Photoreception: Rods, Cones, and Visual Pigments"
+created: 2026-04-28
 tags: [photoreception, vision, rods, cones, rhodopsin, photopsin,
       retina, color-blindness, comparative-biology, plant-vision]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Daniel Chamovitz (2012), "What a Plant Knows," Oneworld Publications,
     Chapter 1
   - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Human Photoreception: Rods, Cones, and Visual Pigments

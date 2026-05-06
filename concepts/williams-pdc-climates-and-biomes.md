@@ -1,10 +1,12 @@
 ---
 title: Climates and Biomes in Permaculture
+created: 2026-04-28
 tags: [permaculture, climate, biomes, ecotones, microclimates]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Climates and Biomes in Permaculture

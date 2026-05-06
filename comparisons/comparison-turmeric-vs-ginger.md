@@ -1,5 +1,6 @@
 ---
 title: 'Turmeric vs Ginger: A Complete Comparison'
+created: 2026-04-28
 tags: [turmeric, ginger, rhizome-spices, tropical-crops, comparison, cultivation]
 date: 2026-05-03
 updated: 2026-05-03
@@ -10,6 +11,7 @@ sources:
   - 'Kumar, A., et al. (2017). "A review on chemical composition and medicinal properties of turmeric." Int. J. Pharm. Sci. Res., 8(8), 3149–3156.'
   - 'Mao, Q.Q., et al. (2019). "Ginger and its bioactive constituents: a review of their potential as chemopreventive and therapeutic agents." Phytotherapy Research, 33(8), 1967–1981.'
   - 'FAO (2023). FAOSTAT — Crops and livestock products: ginger and turmeric production data.'
+type: comparison
 ---
 
 # Turmeric vs Ginger: A Complete Comparison

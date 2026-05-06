@@ -1,5 +1,6 @@
 ---
 title: "Case Study: Energy-Efficient Organic Sea of Green"
+created: 2026-04-28
 tags:
   - cannabis-cultivation
   - sea-of-green
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+type: concept
 ---
 
 # Case Study: Energy-Efficient Organic Sea of Green

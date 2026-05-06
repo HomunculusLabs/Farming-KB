@@ -1,9 +1,11 @@
 ---
 title: "Indoor Growing vs Outdoor Growing"
+created: 2026-04-28
 tags: [comparison, cannabis, cultivation, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Indoor Growing vs Outdoor Growing

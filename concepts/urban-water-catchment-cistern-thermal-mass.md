@@ -1,9 +1,11 @@
 ---
 title: "Urban Water Catchment Cisterns and Thermal Mass Systems"
+created: 2026-04-28
 tags: [urban-permaculture, water-catchment, cisterns, thermal-mass]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 Water catchment in urban settings transforms roofs, driveways, and

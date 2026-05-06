@@ -1,5 +1,6 @@
 ---
 title: "Ephedrine"
+created: 2026-04-28
 type: chemical
 tags: [alkaloid, stimulant, sympathomimetic, bronchodilator, entheogen-related]
 date: 2026-04-28
@@ -140,6 +141,8 @@ story of plant-derived stimulants and their relationship to synthetic
 drug manufacturing.
 
 ## See Also
+
+- [[medicinal-mushrooms]]
 - [[ephedra-sinica]]
 - pseudoephedrine
 - methamphetamine

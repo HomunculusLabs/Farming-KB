@@ -1,9 +1,11 @@
 ---
 title: "Willow vs Poplar for Coppice and Bioenergy"
+created: 2026-04-28
 tags: [willow, poplar, coppice, bioenergy, biomass, short-rotation-coppice, salix, populus, agroforestry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [encyclopedic knowledge base]
+type: comparison
 ---
 
 # Willow vs Poplar for Coppice and Bioenergy

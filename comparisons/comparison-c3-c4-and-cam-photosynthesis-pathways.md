@@ -1,5 +1,6 @@
 ---
 title: "C3 vs C4 vs CAM Photosynthesis Pathways"
+created: 2026-04-28
 tags:
   - photosynthesis
   - plant-physiology
@@ -14,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # C3 vs C4 vs CAM Photosynthesis Pathways

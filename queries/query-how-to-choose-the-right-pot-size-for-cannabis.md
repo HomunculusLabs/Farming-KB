@@ -1,10 +1,12 @@
 ---
 title: "How to Choose the Right Pot Size for Cannabis?"
+created: 2026-04-28
 tags: [query, cannabis, containers, pot-sizing, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # How to Choose the Right Pot Size for Cannabis?

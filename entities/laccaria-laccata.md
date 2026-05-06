@@ -1,5 +1,6 @@
 ---
 title: Laccaria laccata
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, bioremediation, forest-ecology, symbiosis]
 date: 2026-04-28

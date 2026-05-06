@@ -1,9 +1,11 @@
 ---
 title: Fungal Bioremediation of BTEX Compounds
+created: 2026-04-28
 tags: [bioremediation, BTEX, petroleum-hydrocarbons, white-rot-fungi, volatile-organics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # [[fungal-bioremediation]] of BTEX Compounds

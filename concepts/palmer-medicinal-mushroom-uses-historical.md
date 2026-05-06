@@ -1,9 +1,11 @@
 ---
 title: "Medicinal Mushroom Uses in Historical Context"
+created: 2026-04-28
 tags: [mushrooms, medicinal-fungi, history, toxicology, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+type: concept
 ---
 
 # Medicinal Mushroom Uses in Historical Context

@@ -1,9 +1,11 @@
 ---
 title: "Coprophilous Zygomycetes on Dung"
+created: 2026-04-28
 tags: [mycology, zygomycetes, coprophilous, dung-fungi, mucorales]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Coprophilous Zygomycetes on Dung

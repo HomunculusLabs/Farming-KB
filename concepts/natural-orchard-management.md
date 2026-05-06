@@ -1,5 +1,6 @@
 ---
 title: Natural Orchard Management
+created: 2026-04-28
 tags:
   - natural-farming
   - orchard
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Orchard Management
@@ -124,6 +126,10 @@ tree. Fukuoka's conclusion is that if a fruit tree is grown under natural condit
 from the start, there should never be any need for pruning.
 
 ## See Also
+
+- [[natural-farming-guide-integrated-pest-management]]
+- [[fukuoka-natural-orchard-management]]
+- [[natural-farming-soil-management]]
 
 - [[Masanobu Fukuoka]]
 - [[natural farming]]

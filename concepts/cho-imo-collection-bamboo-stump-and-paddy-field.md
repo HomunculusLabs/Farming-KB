@@ -1,5 +1,6 @@
 ---
 title: "IMO Collection from Bamboo Stump and Paddy Field"
+created: 2026-04-28
 tags:
   - natural-farming
   - indigenous-microorganisms
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/chos-global-natural-farming.md
+type: concept
 ---
 
 # IMO Collection from Bamboo Stump and Paddy Field

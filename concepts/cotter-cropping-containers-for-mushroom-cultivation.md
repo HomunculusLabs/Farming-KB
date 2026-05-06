@@ -1,10 +1,12 @@
 ---
 title: "Cropping Containers for Mushroom Cultivation"
+created: 2026-04-28
 tags: [mushroom-cultivation, containers, fruiting, equipment, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Cropping Containers for Mushroom Cultivation

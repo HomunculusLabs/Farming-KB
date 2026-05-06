@@ -1,9 +1,11 @@
 ---
 title: "In-Situ vs Ex-Situ Bioremediation"
+created: 2026-04-28
 tags: [comparison, bioremediation, soil, pollution, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # In-Situ vs Ex-Situ Bioremediation

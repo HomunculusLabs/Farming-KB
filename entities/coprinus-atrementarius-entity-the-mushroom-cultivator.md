@@ -1,5 +1,6 @@
 ---
 title: Coprinus atrementarius
+created: 2026-04-28
 type: species
 tags: [contaminant, coprinaceae, ink-cap, compost-competitor, toxic]
 date: 2026-04-28

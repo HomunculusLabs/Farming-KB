@@ -1,5 +1,6 @@
 ---
 title: Cordyceps and Insect-Pathogenic Fungi
+created: 2026-04-28
 tags:
   - mycology
   - ascomycota
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr Bloomfields Orchard - The Mysterious World of Mushrooms Molds and Mycologists.md
+type: concept
 ---
 
 # Cordyceps and Insect-Pathogenic Fungi

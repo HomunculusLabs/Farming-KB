@@ -1,9 +1,11 @@
 ---
 title: Mycorestoration Habitat Survey and Strategy
+created: 2026-04-28
 tags: [mycorestoration, ecological-restoration, habitat-assessment, mycofiltration, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [mycelium-running-stamets.md]
+type: concept
 ---
 
 # Mycorestoration Habitat Survey and Strategy

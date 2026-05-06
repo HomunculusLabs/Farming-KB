@@ -1,9 +1,11 @@
 ---
 title: "How do I grow tomatoes in a greenhouse?"
+created: 2026-04-28
 tags: [query, tomatoes, greenhouse, vegetables]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I grow tomatoes in a greenhouse?

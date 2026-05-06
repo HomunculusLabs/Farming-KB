@@ -1,5 +1,6 @@
 ---
 title: Cladonia rangiferina
+created: 2026-04-28
 type: species
 tags:
   - reindeer-lichen
@@ -144,6 +145,8 @@ In Nordic and Scandinavian cuisine, reindeer lichen is occasionally used:
 ## Biomonitoring
 
 ## See Also
+
+- [[lichens-primary-production-soil-formation-dighton]]
 
 - [[cladonia-stellaris]]
 - [[cladonia-alpestris]]

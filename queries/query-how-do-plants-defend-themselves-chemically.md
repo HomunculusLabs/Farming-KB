@@ -1,5 +1,6 @@
 ---
 title: How Do Plants Defend Themselves Chemically?
+created: 2026-04-28
 tags: plants, chemical-defenses, alkaloids, terpenes, phenolics, companion-planting, growing-tips
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://www.frontiersin.org/articles/10.3389/fpls.2018.01365/full
   - https://www.britannica.com/science/plant-defense
   - https://annualreviews.org/doi/10.1146/annurev.arplant.043008.092006
+type: query
 ---
 
 # How Do Plants Defend Themselves Chemically?

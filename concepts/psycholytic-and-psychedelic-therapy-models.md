@@ -1,10 +1,12 @@
 ---
 title: Psycholytic and Psychedelic Therapy Models
+created: 2026-04-28
 tags: [psychotherapy, psychedelics, psycholytic, lsd, grof, leary, osmond, clinical-history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Psycholytic and Psychedelic Therapy Models

@@ -1,5 +1,6 @@
 ---
 title: E-POD Project Emerging Trend Detection Methodology
+created: 2026-04-28
 tags:
   - emcdda
   - drug-policy
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+type: concept
 ---
 
 # E-POD Project: Emerging Trend Detection Methodology

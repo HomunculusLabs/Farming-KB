@@ -1,10 +1,12 @@
 ---
 title: "How Do I Use Comfrey in the Garden?"
+created: 2026-04-28
 tags: [query, comfrey, permaculture, dynamic-accumulator, organic-gardening, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
+type: query
 ---
 # How Do I Use Comfrey in the Garden?
 ## Short Answer

@@ -1,5 +1,6 @@
 ---
 title: Robert Hart
+created: 2026-04-28
 type: person
 tags: [permaculture, food-forest, agroforestry, forest-gardening, pioneer, author, sustainable-agriculture]
 date: 2026-04-28

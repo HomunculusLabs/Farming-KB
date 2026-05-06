@@ -1,5 +1,6 @@
 ---
 title: "Gramine"
+created: 2026-04-28
 type: chemical
 tags: [indole-alkaloid, natural-product, chemical-intermediate, toxic]
 date: 2026-04-28

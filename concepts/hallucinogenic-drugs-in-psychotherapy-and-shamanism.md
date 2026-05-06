@@ -1,10 +1,12 @@
 ---
 title: Hallucinogenic Drugs in Psychotherapy and Shamanism
+created: 2026-04-28
 tags: [psychedelics, psychotherapy, shamanism, ethnobotany, consciousness, set-and-setting, entheogens, cultural-history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Hallucinogenic Drugs in Psychotherapy and Shamanism

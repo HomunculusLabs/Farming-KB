@@ -1,10 +1,12 @@
 ---
 title: Carbon and Calorie Crop Integration
+created: 2026-04-28
 tags: [biointensive, calorie-crops, carbon-crops, sustainability, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Carbon and Calorie Crop Integration

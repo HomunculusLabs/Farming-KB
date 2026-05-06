@@ -1,10 +1,12 @@
 ---
 title: Fukuoka's No-Tillage Rice-Barley Succession Cropping
+created: 2026-04-28
 tags: [natural-farming, rice, barley, wheat, no-till, direct-seeding, cover-crops, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Fukuoka's No-Tillage Rice-Barley Succession Cropping

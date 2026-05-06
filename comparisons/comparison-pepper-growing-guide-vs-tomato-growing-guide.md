@@ -1,9 +1,11 @@
 ---
 title: "Pepper Growing vs Tomato Growing"
+created: 2026-04-28
 tags: [comparison, vegetables, gardening, solanaceae]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Pepper Growing vs Tomato Growing
 ## Overview

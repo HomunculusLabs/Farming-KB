@@ -1,5 +1,6 @@
 ---
 title: "Siderophore Production for Iron Acquisition in Mycorrhizal Fungi"
+created: 2026-04-28
 tags:
   - siderophores
   - mycorrhizal-fungi
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/symbiotic-fungi.md
+type: concept
 ---
 
 # Siderophore Production for Iron Acquisition in [[mycorrhizal-fungi]]

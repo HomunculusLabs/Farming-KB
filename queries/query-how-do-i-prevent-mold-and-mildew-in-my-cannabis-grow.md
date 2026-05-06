@@ -1,9 +1,11 @@
 ---
 title: "How Do I Prevent Mold and Mildew in My Cannabis Grow?"
+created: 2026-04-28
 tags: [query, cannabis, disease-prevention, mold, mildew]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Prevent Mold and Mildew in My Cannabis Grow?

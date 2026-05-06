@@ -1,5 +1,6 @@
 ---
 title: Five Historical Periods of Neurotropic Fungi Study
+created: 2026-04-28
 tags:
   - mycology
   - history
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Five Historical Periods of Neurotropic Fungi Study

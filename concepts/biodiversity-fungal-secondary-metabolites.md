@@ -1,9 +1,11 @@
 ---
 title: Fungal Secondary Metabolites and Antibiotic Production
+created: 2026-04-28
 tags: [mycology, secondary-metabolites, antibiotics, bioactive-compounds, fungal-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+type: concept
 ---
 
 # Fungal Secondary Metabolites and Antibiotic Production

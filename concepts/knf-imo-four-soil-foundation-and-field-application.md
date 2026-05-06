@@ -1,5 +1,6 @@
 ---
 title: "KNF IMO 4 Soil Foundation and Field Application"
+created: 2026-04-28
 tags:
   - knf
   - natural-farming
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/master-cho-knf-recipe-book.md
+type: concept
 ---
 
 # KNF IMO #4 Soil Foundation and Field Application

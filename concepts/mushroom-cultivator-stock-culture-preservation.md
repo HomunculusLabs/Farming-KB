@@ -1,10 +1,12 @@
 ---
 title: "Stock Culture Preservation Methods"
+created: 2026-04-28
 tags: [mycology, strain-preservation, culture-storage, slant-culture,
       mushroom-cultivator, strain-vitality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Stock Culture Preservation Methods

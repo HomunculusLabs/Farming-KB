@@ -1,9 +1,11 @@
 ---
 title: "Fungal Species Abundance and Diversity Indices"
+created: 2026-04-28
 tags: [mycology, diversity-indices, species-richness, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Fungal Species Abundance and Diversity Indices

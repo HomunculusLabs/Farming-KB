@@ -1,9 +1,11 @@
 ---
 title: Palmer on Fungus Reproduction Spawn and Cryptogamic Mystery
+created: 2026-04-28
 tags: [mushroom-spawn, fungal-reproduction, mycelium, cryptogams, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+type: concept
 ---
 
 # Palmer on Fungus Reproduction, Spawn, and Cryptogamic Mystery

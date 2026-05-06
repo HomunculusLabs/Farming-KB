@@ -1,9 +1,11 @@
 ---
 title: "How to Harvest and Cure Cannabis for the Best Flavor and Potency"
+created: 2026-04-28
 tags: [query, cannabis, harvest, curing, post-harvest, quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Harvest and Cure Cannabis for the Best Flavor and Potency

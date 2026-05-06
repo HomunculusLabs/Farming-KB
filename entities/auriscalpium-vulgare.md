@@ -1,5 +1,6 @@
 ---
 title: "Auriscalpium vulgare"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -118,6 +119,8 @@ Russulales, resolving decades of taxonomic uncertainty that had variously placed
 it near the Polyporales and the Thelephorales.
 
 ## See Also
+
+- [[spore-print]]
 
 - [[foeniculum-vulgare-entity]]
 - [[origanum-vulgare-entity]]

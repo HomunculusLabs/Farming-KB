@@ -1,10 +1,12 @@
 ---
 title: Conversion Bulbs for HID Lighting
+created: 2026-04-28
 tags: [cannabis, lighting, conversion-bulbs, hid, spectrum]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Conversion Bulbs for HID Lighting

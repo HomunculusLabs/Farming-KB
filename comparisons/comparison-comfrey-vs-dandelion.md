@@ -1,9 +1,11 @@
 ---
 title: "Comfrey vs Dandelion"
+created: 2026-04-28
 tags: [comparison, dynamic-accumulators, herbs, soil-building]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: comparison
 ---
 
 # Comfrey vs Dandelion

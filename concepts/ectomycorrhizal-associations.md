@@ -1,9 +1,11 @@
 ---
 title: Ectomycorrhizal Associations
+created: 2026-04-28
 tags: [ectomycorrhiza, ECM, forest-ecology, basidiomycota, plant-symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Ectomycorrhizal Associations

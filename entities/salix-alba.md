@@ -1,9 +1,11 @@
 ---
 title: "Salix alba"
+created: 2026-04-28
 tags: [species, tree, erosion-control, medicinal, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Salix alba

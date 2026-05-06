@@ -1,9 +1,11 @@
 ---
 title: The DMT Experience and the Overmind
+created: 2026-04-28
 tags: [DMT, hyperspace, tryptamine, consciousness, entity-encounter, Overmind, McKenna, pineal-gland]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # The DMT Experience and the Overmind

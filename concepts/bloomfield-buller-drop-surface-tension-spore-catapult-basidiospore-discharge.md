@@ -1,5 +1,6 @@
 ---
 title: Buller's Drop and the Surface Tension Spore Catapult Mechanism
+created: 2026-04-28
 tags:
   - mycology
   - spore-dispersal
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
+type: concept
 ---
 
 # Buller's Drop and the Surface Tension Spore Catapult

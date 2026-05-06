@@ -1,5 +1,6 @@
 ---
 title: "Tilia cordata"
+created: 2026-04-28
 type: species
 tags: [herbal-plants, permaculture, trees, bee-forage, medicinal-plants]
 date: 2026-04-28

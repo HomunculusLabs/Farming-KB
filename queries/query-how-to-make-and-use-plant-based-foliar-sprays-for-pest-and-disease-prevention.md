@@ -1,9 +1,11 @@
 ---
 title: How to Make and Use Plant-Based Foliar Sprays for Pest and Disease Prevention
+created: 2026-04-28
 tags: [herbalism, organic-gardening, pest-control, permaculture, herbal-preparations]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 # How to Make and Use Plant-Based Foliar Sprays for Pest and Disease Prevention
 Foliar sprays made from garden plants and common herbs are one of the oldest forms of crop protection. Plants have evolved an enormous arsenal of secondary metabolites — alkaloids, saponins, essential oils, tannins, and phenolic compounds — that deter insects, inhibit fungal growth, and repel browsing animals. By extracting these compounds into water, alcohol, or oil, growers can create effective preventive sprays that cost almost nothing and leave no harmful residues.

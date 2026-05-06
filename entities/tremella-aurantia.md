@@ -1,5 +1,6 @@
 ---
 title: Tremella aurantia
+created: 2026-04-28
 type: species
 tags: [medicinal-mushroom, tremellaceae, jelly-fungus, mycoparasite, antioxidant]
 date: 2026-04-28

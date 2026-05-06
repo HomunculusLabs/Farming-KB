@@ -1,9 +1,11 @@
 ---
 title: "How Does Crop Rotation Improve Soil Health"
+created: 2026-04-28
 tags: [query, crop-rotation, soil-health, organic-gardening, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Crop Rotation Improve Soil Health

@@ -1,5 +1,6 @@
 ---
 title: "Ramaria stricta"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -143,6 +144,8 @@ ornamentation.
   forest-floor habitat, but forming agaricoid mushroom clusters.
 
 ## See Also
+
+- [[ramaria-formosa]]
 
 - [[boletus-edulis]] — Ectomycorrhizal associate of the same temperate
   forest types where *R. stricta* occurs as a saprotroph.

@@ -1,9 +1,11 @@
 ---
 title: "Bacterial and Fungal Dominance in Soil"
+created: 2026-04-28
 tags: [soil-biology, bacteria, fungi, succession, plant-preferences]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 One of the most important concepts in *Teaming With Microbes* is the ratio of

@@ -1,5 +1,6 @@
 ---
 title: uncinula necator
+created: 2026-04-28
 type: species
 tags: [ascomycota, powdery-mildew, grape-pathogen, viticulture, biological-control]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "How Do I Start a No-Till Garden Bed?"
+created: 2026-04-28
 tags: [query, no-till, soil-health, garden-setup, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Start a No-Till Garden Bed?

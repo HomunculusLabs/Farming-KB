@@ -1,5 +1,6 @@
 ---
 title: Humphry Osmond
+created: 2026-04-28
 type: person
 aliases:
   - Humphry Fortescue Osmond

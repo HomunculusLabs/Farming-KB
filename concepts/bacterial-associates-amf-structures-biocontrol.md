@@ -1,5 +1,6 @@
 ---
 title: "Bacterial Associates of AMF Structures and Biocontrol"
+created: 2026-04-28
 tags:
   - mycorrhizosphere
   - PGPR
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # Bacterial Associates of AMF Structures and Biocontrol

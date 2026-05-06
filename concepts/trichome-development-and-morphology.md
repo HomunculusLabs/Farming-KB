@@ -1,5 +1,6 @@
 ---
 title: Trichome Development and Morphology
+created: 2026-04-28
 tags:
   - cannabis
   - botany
@@ -9,6 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+type: concept
 ---
 # Trichome Development and Morphology
 [[cannabis-sativa]] produces several types of epidermal appendages called

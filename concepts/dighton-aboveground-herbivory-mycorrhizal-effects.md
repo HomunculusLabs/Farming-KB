@@ -1,5 +1,6 @@
 ---
 title: "Aboveground Herbivory Effects on Mycorrhizal Communities"
+created: 2026-04-28
 tags:
   - herbivory
   - mycorrhizae
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Aboveground Herbivory Effects on Mycorrhizal Communities

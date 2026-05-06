@@ -1,5 +1,6 @@
 ---
 title: "Black Soldier Fly Farming vs Vermicomposting"
+created: 2026-04-28
 tags:
   - bsf-farming
   - vermicomposting
@@ -15,6 +16,7 @@ sources:
   - "Edwards, C.A. & Arancon, N.Q. (2022). The Biology and Uses of Vermicompost. CRC Press."
   - "Newton, L. et al. (2005). The Black Soldier Fly, Hermetia illucens, as a Manure Management/Resource Recovery Tool. USDA-ARS."
   - "Lalander, C. et al. (2019). High-Quality Protein from Black Soldier Fly. Journal of Insects as Food and Feed."
+type: comparison
 ---
 
 # Black Soldier Fly Farming vs Vermicomposting

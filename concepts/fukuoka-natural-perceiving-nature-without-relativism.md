@@ -1,10 +1,12 @@
 ---
 title: Perceiving Nature Without Relativism
+created: 2026-04-28
 tags: [fukuoka, natural-farming, philosophy-of-nature, epistemology, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Perceiving Nature Without Relativism

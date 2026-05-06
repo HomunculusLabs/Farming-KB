@@ -1,9 +1,11 @@
 ---
 title: Azo Dye Degradation Mechanisms by Ligninolytic Fungi
+created: 2026-04-28
 tags: [bioremediation, azo-dyes, degradation-mechanisms, ligninolytic-enzymes, textile-wastewater]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Azo Dye Degradation Mechanisms by Ligninolytic Fungi

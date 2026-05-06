@@ -1,5 +1,6 @@
 ---
 title: Mycelial Network Nutrient Transport and Pulsatile Dynamics
+created: 2026-04-28
 tags:
   - mycelium
   - nutrient-transport
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 # Mycelial Network Nutrient Transport and Pulsatile Dynamics
 Basidiomycetes are the major agents of decomposition and nutrient cycling in forest
@@ -49,12 +51,8 @@ If global mechanisms exist, they would imply sophisticated long-distance signali
 systems capable of integrating information across the entire mycelial network.
 If behavior is purely emergent, the impressive coordination observed would arise
 from simple local rules applied consistently across millions of hyphal tips.
-Resolving this question requires analytical tools that span multiple spatial and
-temporal scales, from the molecular events at individual septal pores to the
-colony-level patterns of growth and resource allocation.
-The integration of radiotracer studies, network graph analysis, and computational
-modeling has begun to provide insights, but a comprehensive understanding remains
-elusive.
+
+(Section truncated for length.)
 
 ## Vacuolar Transport at the Micrometre Scale
 

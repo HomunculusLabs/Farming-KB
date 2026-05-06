@@ -1,5 +1,6 @@
 ---
 title: Pisolithus arhizus
+created: 2026-04-28
 type: species
 tags: [fungi, ectomycorrhizal, nutrient-competition,
   basidiomycetes, soil-fungi]

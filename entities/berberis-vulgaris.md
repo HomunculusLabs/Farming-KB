@@ -1,5 +1,6 @@
 ---
 title: "Berberis vulgaris (Barberry)"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -141,6 +142,8 @@ The genus *Berberis* contains approximately **500–600 species** distributed ac
 Barberry berries are widely used in **Persian cuisine** (*zereshk*, زرشک): **Zereshk polo** (barberry rice), zereshk polo ba morgh (with chicken), jams and preserves, dried berries as a tart garnish, and traditional European fruit cordials and liqueurs.
 
 ## See Also
+
+- [[thymus-vulgaris-entity]]
 
 - [[berberine]]
 - [[coptis-chinensis]]

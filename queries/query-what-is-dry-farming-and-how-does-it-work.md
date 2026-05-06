@@ -1,10 +1,12 @@
 ---
 title: "What Is Dry Farming and How Does It Work"
+created: 2026-04-28
 tags: [query, dry-farming, water-conservation, soil-management, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+type: query
 ---
 
 # What Is Dry Farming and How Does It Work

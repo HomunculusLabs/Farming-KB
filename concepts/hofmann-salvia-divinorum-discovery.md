@@ -1,9 +1,11 @@
 ---
 title: "Hofmann and the Discovery of Salvia Divinorum"
+created: 2026-04-28
 tags: [salvia-divinorum, hofmann, mazatec, ethnobotany, ska-maria-pastora]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+type: concept
 ---
 
 # Hofmann and the Discovery of Salvia Divinorum

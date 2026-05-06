@@ -1,11 +1,13 @@
 ---
 title: "Recycling, Composting, and Vermicomposting with Mushrooms"
+created: 2026-04-28
 tags: [composting, vermicomposting, recycling, spent-substrate,
       coffee-grounds, cardboard-cultivation, mycovermicomposting,
       waste-reduction, circular-economy, cotter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+type: concept
 ---
 
 # Recycling, Composting, and [[vermicomposting]] with Mushrooms

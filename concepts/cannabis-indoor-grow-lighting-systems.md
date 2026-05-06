@@ -1,10 +1,12 @@
 ---
 title: Cannabis Indoor Grow Lighting Systems
+created: 2026-04-28
 tags: [cannabis, indoor-growing, lighting, HID, horticulture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - greg-green-the-cannabis-grow-bible.md
+type: concept
 ---
 
 # Cannabis Indoor Grow Lighting Systems

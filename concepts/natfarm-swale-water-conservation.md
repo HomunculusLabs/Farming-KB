@@ -1,9 +1,11 @@
 ---
 title: swale-design for Water Conservation
+created: 2026-04-28
 tags: [swale, water-conservation, permaculture, erosion-control, land-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+type: concept
 ---
 
 # Swale Design for Water Conservation

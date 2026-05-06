@@ -1,6 +1,8 @@
 ---
 title: Hash Storage and Preservation
+type: concept
 created: 2026-04-25
+type: concept
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md

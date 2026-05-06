@@ -1,10 +1,12 @@
 ---
 title: "How to Design a Permaculture Property from Scratch"
+created: 2026-04-28
 tags: [query, permaculture, design, property-planning, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+type: query
 ---
 
 # How to Design a Permaculture Property from Scratch

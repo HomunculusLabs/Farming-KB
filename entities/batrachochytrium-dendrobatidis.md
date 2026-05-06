@@ -1,5 +1,6 @@
 ---
 title: Batrachochytrium dendrobatidis
+created: 2026-04-28
 type: species
 tags: [chytrid, pathogen, amphibian, extinction, emerging-disease]
 date: 2026-04-28

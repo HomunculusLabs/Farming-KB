@@ -1,10 +1,12 @@
 ---
 title: Chisel Plough vs No-Tillage
+created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, soil, tillage, permaculture, farm-equipment]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: comparison
 ---
 
 # Chisel Plough vs No-Tillage

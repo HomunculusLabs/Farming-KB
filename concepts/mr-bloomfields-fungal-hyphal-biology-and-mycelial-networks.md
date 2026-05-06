@@ -1,10 +1,12 @@
 ---
 title: Fungal Hyphal Biology and Mycelial Networks
+created: 2026-04-28
 tags: [mycology, hyphae, mycelium, fungal-cell-biology, tip-growth, turgor-pressure, electrical-activity, fungal-ecology, mycorrhiza, armillaria]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Nicholas P. Money, Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Oxford University Press, 2002), Chapter 3: What Lies Beneath"
+type: concept
 ---
 # Fungal Hyphal Biology and Mycelial Networks
 The hypha is the fundamental structural unit of fungal life. These

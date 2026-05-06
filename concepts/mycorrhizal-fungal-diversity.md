@@ -1,9 +1,11 @@
 ---
 title: Mycorrhizal Fungal Diversity
+created: 2026-04-28
 tags: [symbiosis, ecology, mycology, plant-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Mycorrhizal Fungal Diversity

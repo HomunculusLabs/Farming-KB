@@ -160,5 +160,9 @@ sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 
 ## See Also
 
+- [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
+- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
+- [[fukuoka-breakdown-japanese-agriculture]]
+
 - [[masanobu-fukuoka]]
 - [[natural-farming]]

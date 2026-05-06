@@ -1,5 +1,6 @@
 ---
 title: "No-cover-cropser Crops"
+created: 2026-04-28
 tags:
   - soil-health
   - no-till
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # No-Till vs Cover Crops

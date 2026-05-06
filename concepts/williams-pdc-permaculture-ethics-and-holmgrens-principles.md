@@ -1,10 +1,12 @@
 ---
 title: Permaculture Ethics and Holmgren's 12 Principles
+created: 2026-04-28
 tags: [permaculture, holmgren, principles, ethics, design-framework]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # [[permaculture-ethics]] and Holmgren's 12 Principles

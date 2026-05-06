@@ -1,10 +1,12 @@
 ---
 title: JADAM Indigenous Microorganism Solution and Soil Foundation
+created: 2026-04-28
 tags: [JADAM, JMS, indigenous-microorganisms, leaf-mold, soil-foundation,
       microorganism-culture, organic-farming, soil-biology, ultra-low-cost]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # JADAM Indigenous Microorganism Solution and Soil Foundation

@@ -1,10 +1,12 @@
 ---
 title: "Hugelkultur Beds"
+created: 2026-04-28
 tags: [permaculture, soil-building, raised-beds, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   ["~/wiki/raw/papers/bill-mollison-permaculture-design-course.md"]
+type: concept
 ---
 
 # [[hugelkultur]] Beds

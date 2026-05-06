@@ -1,10 +1,12 @@
 ---
 title: "King Stropharia Cultivation"
+created: 2026-04-28
 tags: [king-stropharia, wine-cap, garden-giant, wood-chips, outdoor-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # King Stropharia Cultivation

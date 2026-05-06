@@ -1,9 +1,11 @@
 ---
 title: mycorrhizal Siderophores
+created: 2026-04-28
 tags: [siderophores, iron-chelation, mycorrhiza, ferricrocin, nutrient-acquisition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Mycorrhizal Siderophores

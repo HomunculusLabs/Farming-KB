@@ -1,5 +1,6 @@
 ---
 title: Michael W. Beug
+created: 2026-04-28
 type: person
 tags: [mycology, chemistry, education, psilocybin, toxicology]
 date: 2026-04-28

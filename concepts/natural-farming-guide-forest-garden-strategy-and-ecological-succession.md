@@ -1,10 +1,12 @@
 ---
 title: Forest Garden Strategy and Ecological Succession
+created: 2026-04-28
 tags: [forest-garden, food-forest, ecological-succession, polyculture, guilds,
       companion-planting, permaculture-design, plant-communities, sustainable-yields]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+type: concept
 ---
 
 # Forest Garden Strategy and Ecological Succession

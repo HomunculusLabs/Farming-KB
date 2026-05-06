@@ -1,5 +1,6 @@
 ---
 title: "Galantamine"
+created: 2026-04-28
 type: chemical
 tags:
   - alkaloid
@@ -123,6 +124,8 @@ in the Netherlands and China, supplemented by total chemical synthesis.
 - Raw plant material containing galantamine is not restricted
 
 ## See Also
+
+- [[digoxin]]
 
 - [[arecoline]] — Muscarinic agonist alkaloid from betel nut
 - [[harmine-entity-tihkal]] — Beta-carboline alkaloid with MAOI activity

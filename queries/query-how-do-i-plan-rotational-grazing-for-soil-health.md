@@ -1,9 +1,11 @@
 ---
 title: "How Do I Plan Rotational Grazing For Soil Health?"
+created: 2026-04-28
 tags: [query, grazing, pasture, soil-health, livestock]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How Do I Plan Rotational Grazing For Soil Health?

@@ -1,5 +1,6 @@
 ---
 title: Ayahuasca Interactions with Prescription Medications
+created: 2026-04-28
 tags:
   - ayahuasca
   - drug-interactions
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - stuart-r-ayahuasca-tourism.md
+type: concept
 ---
 
 # Ayahuasca Interactions with Prescription Medications

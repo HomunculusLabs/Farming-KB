@@ -1,9 +1,11 @@
 ---
 title: "quercus robur"
+created: 2026-04-28
 tags: [species, tree, timber, food, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Quercus robur
@@ -83,6 +85,8 @@ essential for ecological restoration and conservation-oriented
 permaculture designs.
 
 ## See Also
+
+- [[nothofagus-obliqua]]
 
 - [[food-forest-design]]
 - [[quercus-suber]]

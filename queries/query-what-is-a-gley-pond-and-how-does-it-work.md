@@ -1,9 +1,11 @@
 ---
 title: "What Is a Gley Pond and How Does It Work"
+created: 2026-04-28
 tags: [query, permaculture, water-harvesting, ponds, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is a Gley Pond and How Does It Work

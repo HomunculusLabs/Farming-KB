@@ -1,9 +1,11 @@
 ---
 title: JADAM Pesticide Research Cup Method
+created: 2026-04-28
 tags: [jadam, pesticide-research, cup-method, farmer-science, natural-pesticide, experimentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # JADAM Pesticide Research Cup Method

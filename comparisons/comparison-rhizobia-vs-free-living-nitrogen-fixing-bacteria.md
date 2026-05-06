@@ -1,5 +1,6 @@
 ---
 title: "Rhizobia vs Free-Living Nitrogen-Fixing Bacteria"
+created: 2026-04-28
 tags:
   - nitrogen-fixation
   - rhizobia
@@ -22,6 +23,7 @@ sources:
   - "Choudhury, A.T.M.A. & Kennedy, I.R. (2004). Prospects and potentials for plant growth promoting rhizobacteria. Journal of Applied Microbiology, 96(2), 303–320."
   - "Hungria, M. et al. (2013). Co-inoculation of soybean with Bradyrhizobium and Azospirillum: a long-term study. Field Crops Research, 153, 89–98."
   - "Kennedy, I.R. & Tchan, Y.T. (1992). Biological nitrogen fixation in non-leguminous field crops. Plant and Soil, 141(1–2), 93–118."
+type: comparison
 ---
 
 # Rhizobia vs Free-Living Nitrogen-Fixing Bacteria

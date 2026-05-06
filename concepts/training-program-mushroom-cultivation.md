@@ -1,11 +1,13 @@
 ---
 title: Training Program Structure and Curriculum
+created: 2026-04-28
 tags: [training-curriculum, mushroom-cultivation, disability-inclusion,
   hands-on-training, enterprise-development]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+type: concept
 ---
 
 # Training Program Structure and Curriculum

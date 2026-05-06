@@ -1,6 +1,8 @@
 ---
 title: Wavelet Transform
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Wavelet Transform

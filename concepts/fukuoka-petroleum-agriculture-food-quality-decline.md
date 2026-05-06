@@ -1,10 +1,12 @@
 ---
 title: Fukuoka on Petroleum-Based Agriculture and Food Quality Decline
+created: 2026-04-28
 tags: [fukuoka, natural-farming, petroleum-agriculture, food-quality, hothouse-cultivation, nutrient-solution, energy-input, modern-agriculture-critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming: The Theory and Practice of Green Philosophy (Masanobu Fukuoka)"
+type: concept
 ---
 
 # Fukuoka on Petroleum-Based Agriculture and Food Quality Decline

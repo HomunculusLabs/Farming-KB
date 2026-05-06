@@ -1,9 +1,11 @@
 ---
 title: "Spider Mites and Common Cannabis Pests"
+created: 2026-04-28
 tags: [cannabis, pests, spider-mites, ipm, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
+type: concept
 ---
 
 Pest management is one of the most critical aspects of successful cannabis

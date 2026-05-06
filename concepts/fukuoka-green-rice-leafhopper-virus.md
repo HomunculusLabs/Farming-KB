@@ -1,5 +1,6 @@
 ---
 title: Green Rice Leafhopper Virus Dynamics
+created: 2026-04-28
 tags:
   - pest-ecology
   - rice-disease
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+type: concept
 ---
 
 # Green Rice Leafhopper Virus Dynamics

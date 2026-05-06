@@ -1,5 +1,6 @@
 ---
 title: What Are the Main Bioactive Compounds in Medicinal Plants?
+created: 2026-04-28
 tags: [phytochemistry, medicinal-plants, bioactive-compounds, herbalism, faq]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
     url: https://www.who.int/publications/i/item/9789241545569
   - title: Pharmacognosy Reference
     url: https://www.sciencedirect.com/journal/phytochemistry
+type: query
 ---
 
 ## What Are Bioactive Compounds and Why Do Plants Produce Them?

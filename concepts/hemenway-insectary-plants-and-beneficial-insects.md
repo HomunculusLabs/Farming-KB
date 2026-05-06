@@ -1,9 +1,11 @@
 ---
 title: "Insectary Plants and Beneficial Insects"
+created: 2026-04-28
 tags: [permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Insectary Plants and Beneficial Insects

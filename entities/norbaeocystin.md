@@ -1,5 +1,6 @@
 ---
 title: Norbaeocystin
+created: 2026-04-28
 type: chemical
 tags: tryptamine, alkaloid, biosynthetic-intermediate, mushroom]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Walter Pahnke
+created: 2026-04-28
 type: person
 aliases:
   - Walter N. Pahnke

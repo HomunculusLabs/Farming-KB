@@ -1,5 +1,6 @@
 ---
 title: Fungal Life Cycles and Sexual Reproduction
+created: 2026-04-28
 tags:
   - mycology
   - reproduction
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Fungal Life Cycles and Sexual Reproduction

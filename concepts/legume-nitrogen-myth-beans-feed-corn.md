@@ -1,5 +1,6 @@
 ---
 title: "Legume Nitrogen Myth: Do Beans Feed Corn?"
+created: 2026-04-28
 tags:
   - legumes
   - nitrogen
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md
+type: concept
 ---
 
 # Legume Nitrogen Myth: Do Beans Feed Corn?

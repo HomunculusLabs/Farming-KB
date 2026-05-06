@@ -1,9 +1,11 @@
 ---
 title: "Phytochelatins and Intracellular Metal Detoxification in Fungi"
+created: 2026-04-28
 tags: [bioremediation, heavy-metals, phytochelatins, metallothioneins, fungal-physiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Phytochelatins and Intracellular Metal Detoxification in Fungi

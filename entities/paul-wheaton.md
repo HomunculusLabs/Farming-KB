@@ -1,5 +1,6 @@
 ---
 title: "Paul Wheaton"
+created: 2026-04-28
 type: person
 tags: [permaculture, educator, homesteading, rocket-mass-heater, hugelkultur, author]
 date: 2026-04-28

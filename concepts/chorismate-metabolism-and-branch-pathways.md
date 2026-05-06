@@ -1,9 +1,11 @@
 ---
 title: "Chorismate Metabolism and Branch Pathways"
+created: 2026-04-28
 tags: [biochemistry, metabolism, shikimate, chorismate, aromatic-amino-acids]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+type: concept
 ---
 
 # Chorismate Metabolism and Branch Pathways

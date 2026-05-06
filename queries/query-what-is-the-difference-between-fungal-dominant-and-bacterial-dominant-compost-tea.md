@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?"
+created: 2026-04-28
 tags: [query, compost-tea, soil-biology, microbiology, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?

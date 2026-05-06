@@ -1,9 +1,11 @@
 ---
 title: "How to Transition Cannabis from Vegetative to Flowering"
+created: 2026-04-28
 tags: [query, cannabis, flowering, photoperiod, growth-stages]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Transition Cannabis from Vegetative to Flowering

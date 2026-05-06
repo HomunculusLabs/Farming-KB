@@ -1,11 +1,13 @@
 ---
 title: "Cho's Natural Pest Control Methods"
+created: 2026-04-28
 tags: [korean-natural-farming, pest-management, IPM, biological-control,
        cho-global]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/chos-global-natural-farming.md"
+type: concept
 ---
 
 # Cho's Natural Pest Control Methods

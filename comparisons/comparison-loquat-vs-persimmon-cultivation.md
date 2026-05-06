@@ -1,5 +1,6 @@
 ---
 title: Loquat vs Persimmon Cultivation
+created: 2026-04-28
 tags: [loquat, persimmon, fruit-trees, comparison, subtropical, orchard]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://en.wikipedia.org/wiki/Diospyros
   - https://www.crfg.org/pubs/ff/loquat.html
   - https://www.crfg.org/pubs/ff/persimmon.html
+type: comparison
 ---
 
 # Loquat vs Persimmon Cultivation
@@ -119,3 +121,11 @@ Loquats and persimmons can absolutely be grown together. They share similar soil
 ---
 
 *See [[loquat-entity]] and [[permplant-persimmon-diospyros-kaki-fruit-tree]] for detailed variety recommendations and regional growing advice.*
+
+## See Also
+
+- [[comparison-pomegranate-vs-persimmon-cultivation]]
+
+- [[comparison-perlite-vs-vermiculite]]
+- [[comparison-persimmon-vs-pawpaw]]
+- [[comparison-lions-mane-vs-cordyceps-cultivation]]

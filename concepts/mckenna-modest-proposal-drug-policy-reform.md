@@ -1,9 +1,11 @@
 ---
 title: A Modest Proposal for Drug Policy Reform
+created: 2026-04-28
 tags: [drug-policy, legalization, McKenna, food-of-the-gods, prohibition, reform, psychedelics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # A Modest Proposal for Drug Policy Reform

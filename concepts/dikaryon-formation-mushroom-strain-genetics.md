@@ -1,5 +1,6 @@
 ---
 title: "Dikaryon Formation and Mushroom Strain Genetics"
+created: 2026-04-28
 tags:
   - mycology-genetics
   - strain-development
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets
+type: concept
 ---
 
 # Dikaryon Formation and Mushroom Strain Genetics

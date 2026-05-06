@@ -1,8 +1,10 @@
 ---
 title: "Navier-Stokes Equations"
+created: 2026-04-28
 aliases: [Navier Stokes, fluid dynamics equations, NS equations]
 tags: [physics, fluid-dynamics, engineering, partial-differential-equations]
 related: [reynolds-number-and-flow-regimes, heat-transfer-mechanisms, laws-of-thermodynamics]
+type: concept
 ---
 
 ## Overview

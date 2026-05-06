@@ -1,5 +1,6 @@
 ---
 title: Foeniculum vulgare
+created: 2026-04-28
 type: species
 tags:
   - plant
@@ -172,6 +173,8 @@ Fennel is a valuable plant in permaculture and ecological gardening systems:
 Control methods include manual removal (digging out taproots), grazing management, and targeted herbicide application.
 
 ## See Also
+
+- [[agastache-foeniculum]]
 
 - [[origanum-vulgare-entity]]
 

@@ -1,10 +1,12 @@
 ---
 title: "Tree Planting Techniques: Staking, Guy Wires, and Aftercare"
+created: 2026-04-28
 tags: [permaculture, tree-planting, orchards, earthworks, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Tree Planting Techniques: Staking, Guy Wires, and Aftercare

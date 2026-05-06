@@ -104,6 +104,8 @@ All bulb alliums store best when:
 
 ## Related
 
+- [[comparison-garlic-vs-onion-growing]]
+
 - [[allium-tuberosum]]
 - [[growing-potatoes-organically]]
 - [[growing-sweet-corn-organically]]

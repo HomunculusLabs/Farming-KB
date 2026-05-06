@@ -1,5 +1,6 @@
 ---
 title: Japanese Farmland Law and the Obstruction of Return to Farming
+created: 2026-04-28
 tags:
   - fukuoka
   - agricultural-policy
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 ## Overview

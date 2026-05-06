@@ -1,5 +1,6 @@
 ---
 title: Hemp and Industrial Cannabis Characteristics
+created: 2026-04-28
 tags:
   - hemp
   - industrial-cannabis
@@ -15,6 +16,7 @@ synonyms:
   - rope cannabis
   - cannabis sativa hemp
   - rogue pollen hemp
+type: concept
 ---
 
 # Hemp and Industrial Cannabis Characteristics

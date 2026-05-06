@@ -1,10 +1,12 @@
 ---
 title: "EMCDDA EU Legislation Timeline for Hallucinogenic Mushrooms 2001 to 2006"
+created: 2026-04-28
 tags: [mycology, law, emcdda, europe, legislation, prohibition]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md'
+type: concept
 ---
 
 # EMCDDA EU Legislation Timeline for Hallucinogenic Mushrooms 2001 to 2006

@@ -1,5 +1,6 @@
 ---
 title: "Inocybe coelestium"
+created: 2026-04-28
 type: species
 tags: [fungi, inocybaceae, psilocybin-mushrooms, neurotropic-fungi, mycology, european-fungi, agaricales]
 date: 2026-04-28

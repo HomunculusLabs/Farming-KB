@@ -1,10 +1,12 @@
 ---
 title: "JADAM Soil Mineral Replenishment"
+created: 2026-04-28
 tags: [jadam, minerals, seawater, phyllite, soil-health, trace-elements]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
+type: concept
 ---
 
 # JADAM Soil Mineral Replenishment

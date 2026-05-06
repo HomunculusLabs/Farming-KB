@@ -1,5 +1,6 @@
 ---
 title: Psilocybe azurescens
+created: 2026-04-28
 type: species
 tags: [fungi, mycology, psychoactive, psilocybin, entheogen, pacific-northwest, woodlovers, Stamets]
 date: 2026-04-28

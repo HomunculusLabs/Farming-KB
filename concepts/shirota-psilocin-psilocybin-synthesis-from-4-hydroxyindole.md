@@ -1,10 +1,12 @@
 ---
 title: "Shirota Psilocin and Psilocybin Synthesis Starting from 4 Hydroxyindole"
+created: 2026-04-28
 tags: [chemistry, synthesis, psilocybin, psilocin, shirota, 4-hydroxyindole, pharmaceutical]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md'
+type: concept
 ---
 
 # Shirota Psilocin and Psilocybin Synthesis Starting from 4 Hydroxyindole

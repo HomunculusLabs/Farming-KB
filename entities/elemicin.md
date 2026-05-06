@@ -1,5 +1,6 @@
 ---
 title: "Elemicin"
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, compound, phenylpropene, natural-product,
   nutmeg, essential-oil, allylbenzene]

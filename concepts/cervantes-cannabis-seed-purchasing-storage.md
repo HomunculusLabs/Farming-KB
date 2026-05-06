@@ -1,5 +1,6 @@
 ---
 title: Cannabis Seed Purchasing, Ordering, and Storage
+created: 2026-04-28
 tags:
   - seed-purchasing
   - seed-storage
@@ -15,6 +16,7 @@ synonyms:
   - discreet shipping
   - seed viability
   - seed germination storage
+type: concept
 ---
 
 # Cannabis Seed Purchasing, Ordering, and Storage

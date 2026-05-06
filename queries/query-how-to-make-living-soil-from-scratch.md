@@ -1,9 +1,11 @@
 ---
 title: "How Do I Make Living Soil From Scratch?"
+created: 2026-04-28
 tags: [query, cannabis, soil, organic, compost, microbiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Make Living Soil From Scratch?

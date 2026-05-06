@@ -1,5 +1,6 @@
 ---
 title: Microwave Surface Sterilization
+created: 2026-04-28
 tags:
   - sterilization
   - microwaves
@@ -12,6 +13,7 @@ updated: 2026-04-28
 sources:
   - Atwater, Streech, and Garmon, "Sterilizing Surfaces by Irradiation with Microwaves,"
     NASA Tech Briefs MSC-22484, Lyndon B. Johnson Space Center.
+type: concept
 ---
 
 # Microwave Surface Sterilization

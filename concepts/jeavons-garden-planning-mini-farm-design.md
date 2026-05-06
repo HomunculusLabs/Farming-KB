@@ -1,10 +1,12 @@
 ---
 title: Garden Planning and Mini-Farm Design
+created: 2026-04-28
 tags: [biointensive, garden-planning, mini-farm, design, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Garden Planning and Mini-Farm Design

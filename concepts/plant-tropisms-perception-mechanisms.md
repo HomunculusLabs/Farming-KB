@@ -1,9 +1,11 @@
 ---
 title: Plant Tropisms and Perception Mechanisms
+created: 2026-04-28
 tags: [plant-biology, tropisms, perception, plant-physiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Plant Tropisms and Perception Mechanisms

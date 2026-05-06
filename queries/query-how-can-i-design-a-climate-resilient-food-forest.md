@@ -1,5 +1,6 @@
 ---
 title: "How Can I Design a Climate-Resilient Food Forest?"
+created: 2026-04-28
 tags:
   - permaculture
   - food-forests
@@ -17,6 +18,7 @@ sources:
   - Yeomans, P.A. (1971). *The Keyline Plan*. Keyline Publishing.
   - Toensmeier, E. (2016). *The Carbon Farming Solution: A Global Toolkit of Perennial Crops and Regenerative Agriculture Practices*. Chelsea Green Publishing.
   - Mollison, B. & Holmgren, D. (1978). *Permaculture One: A Perennial Agriculture for Human Settlements*. Tagari Publications.
+type: query
 ---
 
 # How Can I Design a Climate-Resilient Food Forest?

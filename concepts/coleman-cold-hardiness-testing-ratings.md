@@ -1,9 +1,11 @@
 ---
 title: "Cold Hardiness Testing and Ratings"
+created: 2026-04-28
 tags: [cold-hardiness, temperature, varieties, testing, winter-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
+type: concept
 ---
 
 # Cold Hardiness Testing and Ratings

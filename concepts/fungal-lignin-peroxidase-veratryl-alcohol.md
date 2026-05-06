@@ -1,9 +1,11 @@
 ---
 title: Fungal Lignin Peroxidase and Veratryl Alcohol Mediation
+created: 2026-04-28
 tags: [lignin-peroxidase, veratryl-alcohol, bioremediation, enzymes, white-rot-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Lignin Peroxidase and Veratryl Alcohol Mediation

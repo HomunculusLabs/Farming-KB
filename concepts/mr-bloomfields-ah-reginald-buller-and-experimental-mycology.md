@@ -1,10 +1,12 @@
 ---
 title: A.H. Reginald Buller and Experimental Mycology
+created: 2026-04-28
 tags: [mycology, history-of-science, buller, spore-discharge, experimental-mycology, biophysics-of-fungi, fungal-genetics, rust-fungi, university-of-manitoba]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Nicholas P. Money, Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Oxford University Press, 2002), Chapter 5: The Odd Couple"
+type: concept
 ---
 # A.H. Reginald Buller and Experimental Mycology
 Arthur Henry Reginald Buller (1874 to 1944) is widely regarded as the

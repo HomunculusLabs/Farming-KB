@@ -1,9 +1,11 @@
 ---
 title: "Solar Dollars and Wealth Classification"
+created: 2026-04-28
 tags: [economics, holistic-management, wealth, land-management, finance]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Solar Dollars and Wealth Classification

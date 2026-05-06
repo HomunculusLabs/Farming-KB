@@ -1,5 +1,6 @@
 ---
 title: "Shamanic Healing, Divination, and the Worldview of Entheogenic Ceremony"
+created: 2026-04-28
 tags:
   - shamanism
   - entheogenic-ceremony
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Shamanic Healing, Divination, and the Worldview of Entheogenic Ceremony

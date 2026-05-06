@@ -1,9 +1,11 @@
 ---
 title: "(E)-beta-Caryophyllene (BCP)"
+created: 2026-04-28
 tags: [chemical, cannabinoid, terpene, dietary, spice]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [uwe-blesching-the-cannabis-health-index.md]
+type: entity
 ---
 
 # (E)-beta-Caryophyllene (BCP)

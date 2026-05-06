@@ -1,9 +1,11 @@
 ---
 title: What Are Adaptogenic Herbs and How Do I Grow Them?
+created: 2026-04-28
 tags: [herbalism, permaculture, permaculture-plants-medicinal-herbs-healing, growing, adaptogens]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Are Adaptogenic Herbs and How Do I Grow Them?

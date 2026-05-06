@@ -1,9 +1,11 @@
 ---
 title: "How to Grow King Stropharia (Garden Giant) Mushrooms"
+created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, outdoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow King Stropharia (Garden Giant) Mushrooms
@@ -108,6 +110,8 @@ Slug damage is the most frequently reported pest issue. Create a barrier of diat
 - The species doubles as a soil builder and bioremediation tool in permaculture systems
 - Always cut mushrooms at the stem base rather than pulling to protect mycelium
 
-## Related Questions
+## Related
+
+- [[stropharia-hornemannii]] Questions
 - [[query-how-to-grow-wine-cap-mushrooms]]
 - [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]

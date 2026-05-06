@@ -1,5 +1,6 @@
 ---
 title: "Mycena chlorophos"
+created: 2026-04-28
 type: species
 tags: [fungi, bioluminescent, mycenaceae, tropical, saprotrophic]
 date: 2026-04-28

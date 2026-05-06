@@ -1,5 +1,6 @@
 ---
 title: FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
+created: 2026-04-28
 tags:
   - nut-trees
   - permaculture
@@ -17,6 +18,7 @@ sources:
   - Eric Toensmeier, "The Carbon Farming Solution" (2016)
   - USDA Plant Hardiness Zone Map and NRCS Plant Guides
   - North American Nut Growers Association (NNGA) cultivar recommendations
+type: query
 ---
 
 # FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
@@ -107,11 +109,8 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - Dioecious or mostly dioecious — plant multiple for pollination
 - Mediterranean native; thrives on poor, rocky soils
 
-### Design Notes for Zone 7–8
-- Maximize species diversity; almost every temperate nut tree will grow here
-- Pay attention to chill hour requirements — some warm-climate species need cold winters to set fruit
-- Summer heat and humidity favor certain diseases (pecan scab, walnut anthracnose) — choose resistant cultivars
-- Irrigation is valuable during nut-fill period (July–September)
+
+(Section truncated for length.)
 
 ## Zone 9–11: Subtropical and Tropical
 
@@ -196,5 +195,4 @@ Plant a diversity of species across chill requirements so that in any given year
 - [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
-
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]

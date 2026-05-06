@@ -1,10 +1,12 @@
 ---
 title: "Weed Control With Weeds and the Clover Ground Cover Discovery"
+created: 2026-04-28
 tags: [fukuoka, weed-management, clover, ground-cover, natural-farming, ecological-balance, white-clover]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "administrator-microsoft-word-fukuoka-textdoc.md"
+type: concept
 ---
 
 # Weed Control With Weeds and the Clover Ground Cover Discovery

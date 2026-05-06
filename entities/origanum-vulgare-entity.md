@@ -1,5 +1,6 @@
 ---
 title: "Origanum vulgare"
+created: 2026-04-28
 type: species
 tags: [species, plant, herbal, permaculture, culinary, medicinal, antimicrobial, aromatic]
 date: 2026-04-28

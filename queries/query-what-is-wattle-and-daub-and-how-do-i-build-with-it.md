@@ -1,5 +1,6 @@
 ---
 title: What Is Wattle and Daub and How Do I Build With It?
+created: 2026-04-28
 tags:
   - natural-building
   - wattle-and-daub
@@ -14,6 +15,7 @@ sources:
   - https://www.greenhomebuilding.com/wattle.htm
   - https://www.buildingconservation.com/articles/wattle/wattle.htm
   - https://www.sustainablesources.com/buildingmethods/wattle-and-daub/
+type: query
 ---
 
 # What Is Wattle and Daub and How Do I Build With It?
@@ -163,3 +165,9 @@ It is **not suitable** for:
 - [[comparison-wattle-and-daub-vs-cob-construction]] — How wattle and daub compares to cob
 - [[building-with-natural-materials]] — Overview of all natural building methods
 - [[building-with-natural-materials]] — Another approach to earth-based building
+
+## See Also
+
+- [[what-natural-farming-method-should-i-use]]
+- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
+- [[query-what-is-super-cropping-and-when-to-do-it]]

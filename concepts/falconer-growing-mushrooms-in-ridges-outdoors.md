@@ -1,10 +1,12 @@
 ---
 title: Growing Mushrooms in Ridges Outdoors
+created: 2026-04-28
 tags: [mushroom-cultivation, ridge-growing, outdoor-cultivation, london-market, falconer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
+type: concept
 ---
 
 # Growing Mushrooms in Ridges Outdoors

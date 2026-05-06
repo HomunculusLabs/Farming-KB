@@ -1,10 +1,12 @@
 ---
 title: "Fungi of the Amazon Rainforest"
+created: 2026-04-28
 tags: [mycology, amazon, biodiversity, tropical-fungi, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md
+type: concept
 ---
 
 The Amazon rainforest harbors one of the most diverse and least understood

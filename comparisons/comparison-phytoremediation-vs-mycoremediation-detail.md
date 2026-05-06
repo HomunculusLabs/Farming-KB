@@ -1,9 +1,11 @@
 ---
 title: "Phytoremediation vs Mycoremediation"
+created: 2026-04-28
 tags: [comparison, bioremediation, phytoremediation, mycoremediation, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Phytoremediation vs Mycoremediation

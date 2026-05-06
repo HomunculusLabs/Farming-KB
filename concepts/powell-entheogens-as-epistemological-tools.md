@@ -1,9 +1,11 @@
 ---
 title: "Entheogens as Epistemological Tools"
+created: 2026-04-28
 tags: [entheogens, consciousness, epistemology, shamanism, philosophy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Entheogens as Epistemological Tools

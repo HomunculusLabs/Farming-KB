@@ -1,9 +1,11 @@
 ---
 title: "Soil Horizons and Profiles"
+created: 2026-04-28
 tags: [soil-science, soil-horizons, geology, topsoil]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Soil is not a uniform substance but a layered system of distinct zones called

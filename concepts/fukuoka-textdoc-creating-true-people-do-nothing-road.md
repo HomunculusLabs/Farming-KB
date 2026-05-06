@@ -1,5 +1,6 @@
 ---
 title: Creating True People and the Do-Nothing Road
+created: 2026-04-28
 tags:
   - fukuoka
   - spiritual-philosophy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 ## Overview

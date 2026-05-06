@@ -1,9 +1,11 @@
 ---
 title: "How Does Mycorrhizal Network Communication Work Between Plants"
+created: 2026-04-28
 tags: [query, mycology, plant-biology, mycorrhizal, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Does Mycorrhizal Network Communication Work Between Plants

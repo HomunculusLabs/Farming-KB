@@ -1,5 +1,6 @@
 ---
 title: Microsoft Word History
+created: 2026-04-28
 tags:
   - microsoft-word
   - word-processors
@@ -9,6 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Microsoft Word History

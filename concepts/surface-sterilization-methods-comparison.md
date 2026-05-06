@@ -1,10 +1,12 @@
 ---
 title: Surface Sterilization Methods Comparison
+created: 2026-04-28
 tags: [sterilization, disinfection, microbiology, autoclave, uv, gamma, chemical, microwave, food-safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Surface Sterilization Methods Comparison

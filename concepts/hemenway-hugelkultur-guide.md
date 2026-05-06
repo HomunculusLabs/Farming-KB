@@ -1,9 +1,11 @@
 ---
 title: "Hugelkultur Guide"
+created: 2026-04-28
 tags: [permaculture, soil-building, water-conservation, hugelkultur, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Hugelkultur Guide

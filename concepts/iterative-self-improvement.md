@@ -1,9 +1,11 @@
 ---
 title: Iterative Self-Improvement in Language Models
+created: 2026-04-28
 tags: [self-improvement, training-loops, synthetic-data, distillation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+type: concept
 ---
 
 # Iterative Self-Improvement in Language Models

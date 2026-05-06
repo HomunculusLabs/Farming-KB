@@ -1,5 +1,6 @@
 ---
 title: 'How to Grow Citrus in Cold Climates'
+created: 2026-04-28
 tags: [citrus, cold-climate, container-growing, greenhouse, overwintering, zone-pushing, query]
 date: 2026-05-03
 updated: 2026-05-03
@@ -9,6 +10,7 @@ sources:
   - https://www.crfg.org/pubs/ff/citrus.html
   - https://content.ces.ncsu.edu/growing-citrus-in-north-carolina
   - https://www.sweetish.co/citrus-in-cold-climates/
+type: query
 ---
 
 # How to Grow Citrus in Cold Climates

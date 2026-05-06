@@ -1,9 +1,11 @@
 ---
 title: "Electricity and Plant Life: Historical Discoveries"
+created: 2026-04-28
 tags: [bioelectricity, electromagnetism, plant-growth, electroculture, galvanism, atmospheric-electricity, history-of-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Electricity and Plant Life: Historical Discoveries

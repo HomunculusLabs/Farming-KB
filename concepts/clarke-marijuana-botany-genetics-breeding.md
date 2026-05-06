@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Genetics and Mendelian Breeding"
+created: 2026-04-28
 tags: [cannabis, genetics, breeding, mendelian, marijuana-botany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # [[cannabis-genetic-stability]]s and Mendelian Breeding

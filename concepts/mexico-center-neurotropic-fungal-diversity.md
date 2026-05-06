@@ -1,5 +1,6 @@
 ---
 title: Mexico as Center of Neurotropic Fungal Diversity
+created: 2026-04-28
 tags:
   - mexico
   - mycology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md'
+type: concept
 ---
 
 # Mexico as Center of Neurotropic Fungal Diversity

@@ -1,9 +1,11 @@
 ---
 title: "Biodynamic vs Biointensive Agriculture"
+created: 2026-04-28
 tags: [comparison, organic-farming, sustainable-agriculture, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Biodynamic vs Biointensive Agriculture

@@ -1,5 +1,6 @@
 ---
 title: Coprinus comatus
+created: 2026-04-28
 type: species
 tags: [edible-mushroom, coprinoid, deliquescent, compost-loving, temperate, medicinal]
 date: 2026-04-28

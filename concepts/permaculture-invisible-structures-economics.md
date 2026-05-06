@@ -1,9 +1,11 @@
 ---
 title: Permaculture Invisible Structures and Economics
+created: 2026-04-28
 tags: [permaculture, invisible-structures, economics, commonwork, investment, community-governance]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Permaculture Invisible Structures and Economics

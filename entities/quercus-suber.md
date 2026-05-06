@@ -1,9 +1,11 @@
 ---
 title: "quercus suber"
+created: 2026-04-28
 tags: [species, tree, multipurpose, timber, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Quercus suber

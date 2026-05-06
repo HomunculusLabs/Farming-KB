@@ -1,10 +1,12 @@
 ---
 title: Fungal Sexual Reproduction Strategies
+created: 2026-04-28
 tags: [mycology, fungal-reproduction, mating, zygomycota, chytridiomycota]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Fungal Sexual Reproduction Strategies

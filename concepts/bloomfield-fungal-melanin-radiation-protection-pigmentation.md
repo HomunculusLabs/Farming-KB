@@ -1,10 +1,12 @@
 ---
 title: Fungal Melanin, Radiation Protection, and Pigmentation
+created: 2026-04-28
 tags: [mycology, fungal-biology, melanin, radiation-resistance, uv-protection, pigmentation, cryptococcus, extremophile-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+type: concept
 ---
 
 # Fungal Melanin, Radiation Protection, and Pigmentation

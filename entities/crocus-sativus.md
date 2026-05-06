@@ -1,5 +1,6 @@
 ---
 title: "Crocus sativus"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -139,6 +140,8 @@ Saffron crocus has potential in permaculture systems, particularly in Mediterran
 - **Corm division cycle:** 4–5 year replanting cycle aligns well with rotation patterns
 
 ## See Also
+
+- [[paeonia-lactiflora]]
 
 - [[curcumin]] — Curcumin, another valuable yellow-orange plant compound with overlapping medicinal properties
 - [[cinnamomum-verum]] — Cinnamon, another high-value spice with extensive medicinal use

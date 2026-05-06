@@ -1,10 +1,12 @@
 ---
 title: Bamboo Construction and Uses
+created: 2026-04-28
 tags: [permaculture, bamboo, building-materials, construction, sustainable-timber]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 # [[bamboo-construction]] and Uses
 Bamboo is one of the most versatile and rapidly renewable building materials

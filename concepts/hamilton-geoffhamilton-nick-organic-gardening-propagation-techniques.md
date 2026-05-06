@@ -1,9 +1,11 @@
 ---
 title: Propagation Techniques
+created: 2026-04-28
 tags: [propagation, seed-sowing, cuttings, organic-gardening, plant-reproduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Propagation Techniques

@@ -1,5 +1,6 @@
 ---
 title: Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy
+created: 2026-04-28
 tags:
   - psychology
   - psychotherapy
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+type: concept
 ---
 
 # Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy

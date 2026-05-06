@@ -1,9 +1,11 @@
 ---
 title: "How Do I Transition My Cannabis Grow from Synthetic to Organic Nutrients?"
+created: 2026-04-28
 tags: [query, cannabis, organic, nutrients, soil, transition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
+type: query
 ---
 
 # How Do I Transition My Cannabis Grow from Synthetic to Organic Nutrients?

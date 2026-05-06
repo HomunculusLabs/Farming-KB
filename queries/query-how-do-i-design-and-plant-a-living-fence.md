@@ -1,5 +1,6 @@
 ---
 title: How Do I Design and Plant a Living Fence?
+created: 2026-04-28
 tags:
   - permaculture
   - living-fences
@@ -16,6 +17,7 @@ sources:
   - Mollison, B. "Permaculture: A Designers' Manual." Tagari Publications, 1988.
   - USDA NRCS "Conservation Hedgerows: Design and Establishment." Agroforestry Notes, 2019.
   - National Hedgelaying Society (UK). "Hedgelaying: A Practical Guide." 2021.
+type: query
 ---
 
 # How Do I Design and Plant a Living Fence?

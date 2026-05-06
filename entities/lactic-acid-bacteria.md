@@ -1,5 +1,6 @@
 ---
 title: Lactic Acid Bacteria
+created: 2026-04-28
 type: species
 tags: [knf, lactic-acid-bacteria, lab, fermentation, indigenous-microorganism]
 date: 2026-04-28

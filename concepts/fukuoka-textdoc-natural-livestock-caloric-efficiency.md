@@ -1,10 +1,12 @@
 ---
 title: Natural Livestock Caloric Efficiency: Bantam vs Leghorn
+created: 2026-04-28
 tags: [fukuoka, natural-farming, livestock, chickens, caloric-efficiency, energy-accounting, poultry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Livestock Caloric Efficiency: Bantam vs Leghorn

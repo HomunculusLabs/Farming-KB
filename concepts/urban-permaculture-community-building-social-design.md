@@ -1,9 +1,11 @@
 ---
 title: "Community Building and Social Design in Urban Permaculture"
+created: 2026-04-28
 tags: [urban-permaculture, community-building, social-design, neighbourhood]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 Urban permaculture is intensely social. Everything you do is within

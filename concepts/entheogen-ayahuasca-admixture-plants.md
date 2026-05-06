@@ -1,9 +1,11 @@
 ---
 title: "Ayahuasca Admixture Plants"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, ayahuasca, amazonian, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md, ~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Ayahuasca Admixture Plants

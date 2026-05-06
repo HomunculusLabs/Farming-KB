@@ -1,5 +1,6 @@
 ---
 title: 'Sour Diesel'
+created: 2026-04-28
 type: strain
 tags: [cannabis, sativa-dominant, hybrid, usa-strain, terpene-profile]
 date: 2026-04-28
@@ -134,6 +135,8 @@ and unmistakable terpene signature — qualities that have kept it in consistent
 for over three decades across both recreational and medical markets.
 
 ## See Also
+
+- [[nyc-diesel]]
 
 - [[cannabis-sativa]]
 - [[og-kush]]

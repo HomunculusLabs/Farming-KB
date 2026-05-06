@@ -1,5 +1,6 @@
 ---
 title: Tryptamine Eschatology and the Acceleration of History
+created: 2026-04-28
 tags:
   - eschatology
   - consciousness
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # Tryptamine Eschatology and the Acceleration of History

@@ -1,5 +1,6 @@
 ---
 title: Pichia stipitis
+created: 2026-04-28
 type: species
 tags: [yeast, xylose-fermentation, insect-symbiont, saccharomycetales, biofuel]
 date: 2026-04-28

@@ -10,9 +10,11 @@ sources:
 # Composting and Vermiculture
 
 Composting converts kitchen scraps, yard waste, and manure into rich soil amendment through [[decomposition|microbial decomposition]]. The [[teaming-with-microbes-compost-biology|compost biology]]
-driving this process involves successions of bacteria, [[actinomycetes-soil-biology|actinomycetes]], and fungi.
+driving this process involves successions of [[teaming-with-microbes-bacteria|bacteria]], [[actinomycetes-soil-biology|actinomycetes]], and [[teaming-with-microbes-fungi|fungi]].
 Vermiculture uses worms (specifically red wigglers) to process organic waste even faster, producing nutrient-dense castings. See [[vermicomposting]] for detailed worm-based methods and [[fungal-decomposition-resource-quality-determinants|fungal decomposition dynamics]]
 that contribute to the later stages of compost breakdown. Together, these systems close the nutrient loop on a homestead, turning waste into fertility. For most households, food scraps constitute about 30% of garbage — material that can be returned to the soil instead of landfilled. This guide draws from [[nicole-faires|Nicole Faires]]' comprehensive homesteading reference.
+The process aligns with [[natural-farming]] principles by returning organic matter to the soil
+without synthetic inputs.
 
 ## Kitchen Compost
 
@@ -97,7 +99,7 @@ Every couple of months, open the bin in bright light. Worms hate light and will 
 
 ## Composting Toilets
 
-A typical suburban toilet uses 3.5 gallons (13.25 liters) per flush. At three uses per day over a year, that equals 3,832 gallons (14,505 liters) of fresh water. [[composting-toilets]] eliminate this waste while producing valuable soil amendment.
+A typical suburban toilet uses 3.5 gallons (13.25 liters) per flush. At three uses per day over a year, that equals 3,832 gallons (14,505 liters) of fresh water. [[composting-toilets]] eliminate this waste while producing valuable soil amendment. See also [[homesteading-water-systems]] for broader water conservation strategies.
 
 ### Commercial Waterless Systems (Recommended)
 
@@ -140,3 +142,13 @@ Compost decomposition produces significant heat. A compost pile reaches 140F (60
 - [[composting]] -- composting science and methods
 - [[natural-farming]] -- broader context of chemical-free agriculture
 - [[biochar]] -- biochar as a complementary soil amendment from organic waste
+- [[homesteading]] -- broader homesteading systems and self-sufficiency
+- [[biodiversity-of-fungi-decomposition-nutrient-cycling]] -- fungal roles in decomposition and nutrient cycling
+- [[clay-seed-balls-tsuchi-dango]] -- seed balling technique for natural farming integration
+- [[aact-compost-organism-levels]] -- organism populations and succession in compost systems
+- [[bacterial-to-fungal-soil-succession]] -- how microbial communities shift during decomposition
+- [[biochar-in-agriculture]] -- biochar as a complementary soil amendment from organic waste
+
+[[aact-compost-organism-levels]]
+[[bacterial-to-fungal-soil-succession]]
+[[biochar-in-agriculture]]

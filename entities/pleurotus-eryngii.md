@@ -1,5 +1,6 @@
 ---
 title: "Pleurotus eryngii"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -110,6 +111,10 @@ King oyster mushrooms integrate well into permaculture systems as both a food cr
 - **Stacked functions:** Produces food while simultaneously decomposing organic matter, making it a high-value element in zone 1–2 permaculture designs.
 
 ## See Also
+
+- [[pleurotus-euosmus]]
+- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
+- [[stamets-pleurotus-oyster-cultivation]]
 
 - [[Pleurotus ostreatus]]
 - [[Grifola frondosa]]

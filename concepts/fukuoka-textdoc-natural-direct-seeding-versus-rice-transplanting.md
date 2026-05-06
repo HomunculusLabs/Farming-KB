@@ -1,10 +1,12 @@
 ---
 title: Natural Direct Seeding Versus Rice Transplanting
+created: 2026-04-28
 tags: [fukuoka, natural-farming, rice, direct-seeding, transplanting, no-tillage, rice-barley-succession, cultivation-method]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Direct Seeding Versus Rice Transplanting

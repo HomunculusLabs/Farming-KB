@@ -1,5 +1,6 @@
 ---
 title: 'Lupinus albus'
+created: 2026-04-28
 type: species
 tags: [permaculture, nitrogen-fixer, legume, cover-crop, protein-crop, fabaceae]
 date: 2026-04-28

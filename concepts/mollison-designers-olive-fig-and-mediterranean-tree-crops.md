@@ -1,5 +1,6 @@
 ---
 title: Olive Fig and Mediterranean Tree Crops
+created: 2026-04-28
 tags:
   - tree-crops
   - mediterranean-climate
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Olive, Fig, and Mediterranean Tree Crops

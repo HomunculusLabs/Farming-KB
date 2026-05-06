@@ -1,10 +1,12 @@
 ---
 title: Food Forest History and Evolution
+created: 2026-04-28
 tags: [permaculture, food-forest, history, agroforestry, robert-hart]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Food Forest History and Evolution

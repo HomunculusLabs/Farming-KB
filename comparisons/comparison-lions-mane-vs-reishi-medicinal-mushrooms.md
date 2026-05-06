@@ -1,5 +1,6 @@
 ---
 title: Lion's Mane vs Reishi — Medicinal Mushroom Comparison
+created: 2026-04-28
 tags: [medicinal-mushrooms, lions-mane, reishi, hericium, ganoderma, nootropics, adaptogens, immunomodulators, functional-fungi]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,6 +10,7 @@ sources:
   - https://examine.com/supplements/hericium-erinaceus/ — Examine.com Lion's Mane analysis
   - https://examine.com/supplements/reishi-mushroom/ — Examine.com Reishi analysis
   - https://www.mushroomshealing.com — Fungi Perfecti / Paul Stamets research
+type: comparison
 ---
 
 ## Quick Answer

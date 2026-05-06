@@ -1,9 +1,11 @@
 ---
 title: Fungal Degradation of Synthetic Dyes
+created: 2026-04-28
 tags: [dye-degradation, bioremediation, white-rot-fungi, textile-effluent]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Fungal Degradation of Synthetic Dyes

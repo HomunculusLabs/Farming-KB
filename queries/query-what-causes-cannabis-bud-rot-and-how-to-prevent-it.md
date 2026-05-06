@@ -1,9 +1,11 @@
 ---
 title: "What Causes Cannabis Bud Rot and How to Prevent It?"
+created: 2026-04-28
 tags: [query, cannabis, diseases, prevention]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Causes Cannabis Bud Rot and How to Prevent It?

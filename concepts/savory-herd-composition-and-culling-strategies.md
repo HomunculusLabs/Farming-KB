@@ -1,9 +1,11 @@
 ---
 title: Herd Composition and Culling Strategies
+created: 2026-04-28
 tags: [holistic-management, livestock, breeding, population, culling]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Herd Composition and Culling Strategies

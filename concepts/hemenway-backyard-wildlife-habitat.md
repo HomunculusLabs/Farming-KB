@@ -1,9 +1,11 @@
 ---
 title: "Backyard Wildlife Habitat Design"
+created: 2026-04-28
 tags: [permaculture, wildlife, birds, habitat-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
+type: concept
 ---
 
 # Backyard Wildlife Habitat Design

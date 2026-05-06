@@ -1,5 +1,6 @@
 ---
 title: "Artemisia vulgaris"
+created: 2026-04-28
 type: species
 tags: [species, herbal-plant, permaculture, asteraceae, medicinal, bitter-herb, dye-plant, insect-repellent]
 date: 2026-04-28

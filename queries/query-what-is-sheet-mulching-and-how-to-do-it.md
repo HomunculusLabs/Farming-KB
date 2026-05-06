@@ -1,9 +1,11 @@
 ---
 title: "What Is Sheet Mulching and How to Do It"
+created: 2026-04-28
 tags: [query, sheet-mulching, no-till, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Sheet Mulching and How to Do It

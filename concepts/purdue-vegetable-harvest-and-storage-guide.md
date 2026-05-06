@@ -1,5 +1,6 @@
 ---
 title: Purdue Vegetable Harvest and Storage Guide
+created: 2026-04-28
 tags:
   - vegetable-harvest
   - post-harvest-storage
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Purdue Vegetable Harvest and Storage Guide

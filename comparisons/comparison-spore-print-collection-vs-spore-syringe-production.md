@@ -1,11 +1,13 @@
 ---
 title: "Spore Print Collection vs Spore Syringe Production"
+created: 2026-04-28
 tags: [comparison, mycology, cultivation, mushrooms]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: comparison
 ---
 
 # Spore Print Collection vs Spore Syringe Production

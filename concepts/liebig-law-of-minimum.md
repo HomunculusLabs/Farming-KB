@@ -1,5 +1,6 @@
 ---
 title: Liebig's Law of Minimum
+created: 2026-04-28
 tags:
   - science
   - agriculture
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka"
+type: concept
 ---
 
 # Liebig's Law of Minimum

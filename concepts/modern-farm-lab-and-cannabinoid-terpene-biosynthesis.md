@@ -1,9 +1,11 @@
 ---
 title: "LAB and Cannabinoid Terpene Biosynthesis Enhancement"
+created: 2026-04-28
 tags: [cannabis, lactic-acid-bacteria, terpene-biosynthesis, cannabinoid-production, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+type: concept
 ---
 
 # LAB and Cannabinoid Terpene Biosynthesis Enhancement

@@ -1,9 +1,11 @@
 ---
 title: Spore Print
+created: 2026-04-28
 tags: [mycology, mushroom-identification, microscopy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+type: concept
 ---
 
 # Spore Print

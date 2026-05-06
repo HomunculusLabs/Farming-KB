@@ -1,5 +1,6 @@
 ---
 title: sarcodon imbricatus
+created: 2026-04-28
 type: species
 tags: [basidiomycota, ectomycorrhiza, arsenic-accumulation, edible-mushroom, heavy-metals]
 date: 2026-04-28

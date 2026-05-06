@@ -1,5 +1,6 @@
 ---
 title: Jack Herer
+created: 2026-04-28
 type: strain
 tags: [sativa-dominant, hybrid, award-winning, cannabis-strain, haze-lineage, skunk-lineage, medicinal, classic]
 date: 2026-04-28

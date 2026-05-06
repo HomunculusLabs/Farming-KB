@@ -1,5 +1,6 @@
 ---
 title: Pine Bark Weevil Ecology in Fukuoka's Framework
+created: 2026-04-28
 tags:
   - natural-farming
   - pest-ecology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+type: concept
 ---
 
 # Pine Bark Weevil Ecology in Fukuoka's Framework

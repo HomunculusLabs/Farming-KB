@@ -1,5 +1,6 @@
 ---
 title: "Arachis pintoi"
+created: 2026-04-28
 type: species
 tags: [permaculture, legume, groundcover, nitrogen-fixer, forage, tropical-agriculture, soil-erosion]
 date: 2026-04-28

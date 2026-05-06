@@ -1,10 +1,12 @@
 ---
 title: Seed Propagation Techniques in GROW BIOINTENSIVE
+created: 2026-04-28
 tags: [biointensive, seed-propagation, seed-starting, flats, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+type: concept
 ---
 
 # Seed Propagation Techniques

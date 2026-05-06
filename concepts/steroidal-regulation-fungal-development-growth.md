@@ -1,5 +1,6 @@
 ---
 title: "Steroidal Regulation of Fungal Development and Growth"
+created: 2026-04-28
 tags:
   - steroid-regulation
   - fungal-development
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Steroidal Regulation of Fungal Development and Growth

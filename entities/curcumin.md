@@ -1,5 +1,6 @@
 ---
 title: "Curcumin"
+created: 2026-04-28
 type: chemical
 tags:
   - curcuminoid
@@ -142,6 +143,8 @@ can be intercropped with ginger, cardamom, and black pepper (the latter providin
 curcumin bioavailability synergy).
 
 ## See Also
+
+- [[turmeric-growing-guide]]
 
 - [[curcuma-longa]] — the turmeric plant source of curcuminoids
 - [[piperine]] — alkaloid that enhances curcumin bioavailability by 2,000%

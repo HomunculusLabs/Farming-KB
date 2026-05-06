@@ -1,5 +1,6 @@
 ---
 title: Historical Periods of Neurotropic Fungi Discovery
+created: 2026-04-28
 tags:
   - mycology
   - history
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
+type: concept
 ---
 
 # Historical Periods of Neurotropic Fungi Discovery

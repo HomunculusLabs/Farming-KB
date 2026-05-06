@@ -1,5 +1,6 @@
 ---
 title: Fruiting Body Development
+created: 2026-04-28
 tags:
   - mycology
   - mushroom-cultivation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Fruiting Body Development

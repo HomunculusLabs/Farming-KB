@@ -1,10 +1,12 @@
 ---
 title: Guild Challenges and Limitations
+created: 2026-04-28
 tags: [permaculture, guilds, challenges, allelopathy, temperate-climate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Guild Challenges and Limitations

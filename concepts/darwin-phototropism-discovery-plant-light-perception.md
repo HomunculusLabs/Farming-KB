@@ -1,10 +1,12 @@
 ---
 title: Darwin's Phototropism Discovery and Plant Light Perception
+created: 2026-04-28
 tags: [darwin, phototropism, plant-biology, light-perception, photoperiodism, phytochrome, sachs, garner, allard, maryland-mammoth, borthwick, butler, plant-sentience, blue-light, far-red]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - what-a-plant-knows-daniel-chamovitz.md
+type: concept
 ---
 
 # Darwin's Phototropism Discovery and Plant Light Perception

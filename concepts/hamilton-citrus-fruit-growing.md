@@ -1,10 +1,12 @@
 ---
 title: "Citrus Fruit Growing"
+created: 2026-04-28
 tags: [citrus, fruit-growing, greenhouse, organic-fruit]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Citrus Fruit Growing

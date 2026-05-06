@@ -1,5 +1,6 @@
 ---
 title: Ergothioneine
+created: 2026-04-28
 type: chemical
 tags: [antioxidant, amino-acid, medicinal-mushroom, mycochemistry]
 date: 2026-04-28

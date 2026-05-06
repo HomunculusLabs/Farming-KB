@@ -1,5 +1,6 @@
 ---
 title: "Agar-to-Grain Wedge Transfer Technique"
+type: concept
 tags:
   - spawn-production
   - sterile-technique
@@ -7,6 +8,7 @@ tags:
   - agar-work
   - mushroom-cultivation
 created: 2026-04-25
+type: concept
 updated: 2026-04-27
 sources:
   - the-mushroom-cultivator-stamets

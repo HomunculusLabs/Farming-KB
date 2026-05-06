@@ -1,9 +1,11 @@
 ---
 title: "Cannabis Hybridization and Back-Crossing Methods"
+created: 2026-04-28
 tags: [cannabis, breeding, hybridization, back-crossing, genetics, Clarke]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # Cannabis Hybridization and Back-Crossing Methods

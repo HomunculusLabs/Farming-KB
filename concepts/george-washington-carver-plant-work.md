@@ -1,9 +1,11 @@
 ---
 title: "George Washington Carver's Plant Work"
+created: 2026-04-28
 tags: [plant-chemistry, carver, peanut, sweet-potato, soil-health, intuition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # George Washington Carver's Plant Work

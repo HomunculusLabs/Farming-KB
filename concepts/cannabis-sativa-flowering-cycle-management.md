@@ -1,9 +1,11 @@
 ---
 title: Cannabis Sativa Flowering Cycle Management
+created: 2026-04-28
 tags: [cannabis, sativa, flowering, cultivation, grow-cycle]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md]
+type: concept
 ---
 
 # Cannabis Sativa Flowering Cycle Management

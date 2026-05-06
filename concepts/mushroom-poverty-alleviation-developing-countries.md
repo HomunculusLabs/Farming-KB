@@ -1,5 +1,6 @@
 ---
 title: Mushroom Growing for Poverty Alleviation in Developing Countries
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - poverty-alleviation
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md
+type: concept
 ---
 
 # Mushroom Growing for Poverty Alleviation in Developing Countries

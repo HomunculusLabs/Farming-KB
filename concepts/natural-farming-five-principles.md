@@ -1,10 +1,12 @@
 ---
 title: Natural Farming Five Principles
+created: 2026-04-28
 tags: [farming, philosophy, fukuoka, permaculture, agriculture, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Natural Farming Five Principles

@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Indicator Plants for Soil Health"
+created: 2026-04-28
 tags: [query, soil-health, plants, observation, gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Best Indicator Plants for Soil Health

@@ -1,5 +1,6 @@
 ---
 title: Centrifugal and Centripetal Directions of Natural and Scientific Farming
+created: 2026-04-28
 tags:
   - natural-farming
   - philosophy
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Centrifugal and Centripetal Directions of Natural and Scientific Farming

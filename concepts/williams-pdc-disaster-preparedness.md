@@ -1,11 +1,13 @@
 ---
 title: "Disaster Preparedness in Permaculture Design"
+created: 2026-04-28
 tags: [permaculture, disaster-preparedness, resilience, fire, flood,
        wind, site-analysis, permaculture-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Disaster Preparedness in [[permaculture-design]]

@@ -1,5 +1,6 @@
 ---
 title: Fukuoka Natural Farming
+created: 2026-04-28
 tags:
   - natural-farming
   - no-till
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy"
+type: concept
 ---
 
 # Fukuoka Natural Farming

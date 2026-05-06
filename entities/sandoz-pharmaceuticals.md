@@ -1,5 +1,6 @@
 ---
 title: Sandoz Pharmaceuticals
+created: 2026-04-28
 type: person
 tags: [pharmaceutical-company, lsd-discovery, basel, chemical-industry, history-of-pharmacology]
 date: 2026-04-28

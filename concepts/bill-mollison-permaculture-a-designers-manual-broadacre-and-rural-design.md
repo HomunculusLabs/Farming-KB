@@ -1,9 +1,11 @@
 ---
 title: Broadacre and Rural Design
+created: 2026-04-28
 tags: [permaculture, farming, broadacre, agroforestry, rural]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Broadacre and Rural Design

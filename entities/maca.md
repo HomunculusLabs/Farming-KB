@@ -1,5 +1,6 @@
 ---
 title: Maca (Lepidium meyenii)
+created: 2026-04-28
 type: species
 tags: [herbal-plant, adaptogen, superfood, andean-crop, permaculture, root-vegetable, fertility]
 date: 2026-04-28

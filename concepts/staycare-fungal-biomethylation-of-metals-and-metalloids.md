@@ -1,9 +1,11 @@
 ---
 title: "Fungal Biomethylation of Metals and Metalloids"
+created: 2026-04-28
 tags: [bioremediation, mycology, heavy-metals, metalloid-transformation, environmental-microbiology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+type: concept
 ---
 
 # Fungal Biomethylation of Metals and Metalloids

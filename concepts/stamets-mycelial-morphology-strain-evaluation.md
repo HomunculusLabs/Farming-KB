@@ -1,9 +1,11 @@
 ---
 title: Mycelial Morphology and Strain Evaluation (Stamets)
+created: 2026-04-28
 tags: [mycelium, strain-selection, mushroom-cultivation, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Mycelial Morphology and Strain Evaluation

@@ -1,10 +1,12 @@
 ---
 title: Microwave Sterilizable Access Port
+created: 2026-04-28
 tags: [sterilization, microwave, aerospace, nasa, bioprocessing, aseptic-transfer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Microwave Sterilizable Access Port

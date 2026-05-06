@@ -1,11 +1,13 @@
 ---
 title: Natural Farming Microbial Inoculants
+created: 2026-04-28
 tags: [microbial-inoculants, soil-biology, natural-farming, knf, jadam]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
   - ~/wiki/raw/papers/chos-global-natural-farming.md
+type: concept
 ---
 
 # Natural Farming Microbial Inoculants

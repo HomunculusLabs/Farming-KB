@@ -1,5 +1,6 @@
 ---
 title: Fusarium culmorum
+created: 2026-04-28
 type: species
 tags: [ascomycota, plant-pathogen, soil-fungus, mycotoxin, food-web]
 date: 2026-04-28

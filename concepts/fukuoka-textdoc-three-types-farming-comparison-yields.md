@@ -1,10 +1,12 @@
 ---
 title: "Three Types of Farming Compared: Scientific, Hinayana Natural, Mahayana Natural"
+created: 2026-04-28
 tags: [farming-types, scientific-farming, mahayana, hinayana, natural-farming, yields, comparison, classification]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+type: concept
 ---
 
 # Three Types of Farming Compared: Scientific, Hinayana Natural, Mahayana Natural

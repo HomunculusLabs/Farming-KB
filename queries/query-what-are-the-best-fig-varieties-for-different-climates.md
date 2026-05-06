@@ -1,5 +1,6 @@
 ---
 title: 'What Are the Best Fig Varieties for Different Climates?'
+created: 2026-04-28
 tags: [figs, fruit-trees, variety-selection, climate-zones, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Stark Bro's Nurseries — Fig Variety Guide"
   - "FigBuddies.com — Community Variety Database"
   - "Pennsylvania State University Extension — Cold-Hardy Fig Growing"
+type: query
 ---
 
 # What Are the Best Fig Varieties for Different Climates?
@@ -137,6 +139,8 @@ The most important rule: **plant what grows well for your neighbors**. Local nur
 *Last updated: 2026-04-28*
 
 ## See Also
+
+- [[query-best-citrus-varieties-for-different-climates]]
 
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]

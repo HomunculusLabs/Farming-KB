@@ -1,10 +1,12 @@
 ---
 title: "Permaculture Ethics: Earth Care, People Care, Fair Share"
+created: 2026-04-28
 tags: [permaculture, ethics, sustainability, environmental-philosophy, design-principles]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # [[permaculture-ethics]]: Earth Care, People Care, Fair Share

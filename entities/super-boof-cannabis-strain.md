@@ -1,5 +1,6 @@
 ---
 title: "Super Boof"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -150,6 +151,10 @@ rare "Frost" pheno with exceptional trichome production and balanced
 effects.
 
 ## See Also
+
+- [[cannabis-strain-selection-guide]]
+- [[cannabis-hindu-kush-strain-description-clarke]]
+- [[cannabis-super-cropping-technique]]
 
 - [[purple-punch]]
 - [[tropicana-cookies]]

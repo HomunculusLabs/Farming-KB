@@ -1,9 +1,11 @@
 ---
 title: "How do I design an apple tree guild?"
+created: 2026-04-28
 tags: [query, permaculture, apple, guilds]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # How do I design an apple tree guild?

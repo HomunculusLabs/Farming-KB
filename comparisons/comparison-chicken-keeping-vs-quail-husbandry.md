@@ -1,9 +1,11 @@
 ---
 title: "Chicken Keeping vs Quail Husbandry"
+created: 2026-04-28
 tags: [comparison, livestock, poultry, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Chicken Keeping vs Quail Husbandry

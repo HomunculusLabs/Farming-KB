@@ -1,9 +1,11 @@
 ---
 title: Natural Fruit Tree Pest and Disease Management
+created: 2026-04-28
 tags: [fukuoka, pest-control, fruit-trees, orchards]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Natural Fruit Tree Pest and Disease Management

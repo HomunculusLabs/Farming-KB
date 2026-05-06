@@ -1,5 +1,6 @@
 ---
 title: "Gymnopilus ventricosus"
+created: 2026-04-28
 type: species
 tags: [fungi, gymnopilus, non-psilocybe, north-america, europe, cortinariaceae]
 date: 2026-04-28

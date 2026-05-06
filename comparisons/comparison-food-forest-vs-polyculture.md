@@ -1,9 +1,11 @@
 ---
 title: "Food Forest vs Polyculture"
+created: 2026-04-28
 tags: [comparison, growing-systems, food-forest, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Food Forest vs Polyculture

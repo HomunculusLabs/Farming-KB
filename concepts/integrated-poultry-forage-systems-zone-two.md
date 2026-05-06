@@ -1,9 +1,11 @@
 ---
 title: "Integrated Poultry Forage Systems and Zone Two Animal Design"
+created: 2026-04-28
 tags: [permaculture, poultry, forage, zone-two-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 Bill Mollison asserts that never in the history of the world has

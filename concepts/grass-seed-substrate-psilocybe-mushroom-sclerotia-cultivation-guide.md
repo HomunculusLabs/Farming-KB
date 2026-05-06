@@ -1,10 +1,12 @@
 ---
 title: Grass Seed Substrate Cultivation of Psilocybe Mushrooms and Sclerotia
+created: 2026-04-28
 tags: [mushroom-cultivation, substrate, grass-seed, sclerotia, psilocybe-mexicana, psilocybe-tampanensis, casing, fruiting, sterilisation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - GUID. Cultivation of fruitbodies and sclerotia on sterilised grass seed. Exotic Mushroom Cultivation Guide.
+type: concept
 ---
 
 # Grass Seed Substrate Cultivation of Psilocybe Mushrooms and Sclerotia

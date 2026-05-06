@@ -1,5 +1,6 @@
 ---
 title: Layering Propagation Techniques
+created: 2026-04-28
 tags:
   - organic-gardening
   - propagation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Layering Propagation Techniques

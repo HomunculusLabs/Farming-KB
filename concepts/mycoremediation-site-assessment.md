@@ -1,6 +1,8 @@
 ---
 title: Mycoremediation Site Assessment
+created: 2026-04-28
 tags: [mycoremediation, site-assessment, bioremediation, contamination, fungi]
+type: concept
 ---
 
 # Mycoremediation Site Assessment

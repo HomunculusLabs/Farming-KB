@@ -1,10 +1,12 @@
 ---
 title: Stinkhorn Fungi and Insect Spore Dispersal
+created: 2026-04-28
 tags: [mycology, basidiomycota, phallus, stinkhorn, spore-dispersal, insect-attraction, carrion-mimicry, fungal-ecology, mushroom-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Nicholas P. Money, Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Oxford University Press, 2002), Chapter 1: Offensive Phalli and Frigid Caps"
+type: concept
 ---
 # Stinkhorn Fungi and Insect Spore Dispersal
 Stinkhorn fungi are among the most visually striking and ecologically

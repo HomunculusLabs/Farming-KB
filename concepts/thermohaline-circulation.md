@@ -1,6 +1,8 @@
 ---
 title: "Thermohaline Circulation"
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Thermohaline Circulation

@@ -1,10 +1,12 @@
 ---
 title: "Psilocybin Potency of Australian Species"
+created: 2026-04-28
 tags: [potency, psilocybin, psilocine, baeocystin, australia,
   analysis, comparison, chemistry, allen]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+type: concept
 ---
 
 # Psilocybin Potency of Australian Species

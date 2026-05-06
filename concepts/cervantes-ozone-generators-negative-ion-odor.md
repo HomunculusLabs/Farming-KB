@@ -1,10 +1,12 @@
 ---
 title: Ozone Generators and Negative Ion Odor Control
+created: 2026-04-28
 tags: [cannabis, odor-control, ozone, negative-ion, air-treatment]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Ozone Generators and Negative Ion Odor Control

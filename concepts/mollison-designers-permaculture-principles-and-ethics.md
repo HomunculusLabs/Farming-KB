@@ -1,10 +1,12 @@
 ---
 title: "Permaculture Principles and Ethics"
+created: 2026-04-28
 tags: [permaculture, ethics, principles, design-philosophy, earth-care]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 # Permaculture Principles and Ethics
 The ethical foundation and design principles of permaculture provide the

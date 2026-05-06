@@ -1,5 +1,6 @@
 ---
 title: How Does Propolis Benefit Honey Bees and Can Beekeepers Harvest It?
+created: 2026-04-28
 tags:
   - beekeeping
   - propolis
@@ -16,6 +17,7 @@ sources:
   - Gisder S, et al. "Propolis and its biological activities against pathogens of the honey bee." Apidologie, 2019.
   - Kujumgiev A, et al. "Antibacterial, antifungal and antiviral activity of propolis." J Ethnopharmacol, 1999.
   - Huang S, et al. "Propolis: a review of its traditional uses, chemical constituents, and pharmacological properties." Evid Based Complement Alternat Med, 2014.
+type: query
 ---
 
 # How Does Propolis Benefit Honey Bees and Can Beekeepers Harvest It?

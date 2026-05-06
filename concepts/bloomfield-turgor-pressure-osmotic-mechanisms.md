@@ -1,9 +1,11 @@
 ---
 title: Turgor Pressure and Fungal Water Mechanics
+created: 2026-04-28
 tags: [mycology, cell-biology, osmosis, fungal-growth]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mr-nicholas-moneychard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+type: concept
 ---
 
 # Turgor Pressure and Fungal Water Mechanics

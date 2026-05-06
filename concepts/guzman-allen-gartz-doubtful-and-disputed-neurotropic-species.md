@@ -1,5 +1,6 @@
 ---
 title: Doubtful and Disputed Neurotropic Species
+created: 2026-04-28
 tags:
   - taxonomy
   - neurotropic-fungi
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Doubtful and Disputed Neurotropic Species

@@ -1,5 +1,6 @@
 ---
 title: McKenna on the Exteriorization of the Soul and Translinguistic Matter
+created: 2026-04-28
 tags:
   - tryptamine
   - consciousness
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # McKenna on the Exteriorization of the Soul and Translinguistic Matter

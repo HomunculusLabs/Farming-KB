@@ -1,9 +1,11 @@
 ---
 title: "What is alley cropping and when should I use it?"
+created: 2026-04-28
 tags: [query, agroforestry, permaculture, trees]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # What is alley cropping and when should I use it?

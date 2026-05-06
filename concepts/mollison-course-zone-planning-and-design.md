@@ -1,10 +1,12 @@
 ---
 title: Zone Planning and Design in Permaculture
+created: 2026-04-28
 tags: [permaculture, zones, site-design, zone-one, zone-two, zone-three, 
 zone-four, zone-five, house-site, access-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Zone Planning and Design in Permaculture

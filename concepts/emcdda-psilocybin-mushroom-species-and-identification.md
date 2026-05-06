@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Mushroom Species and Identification
+created: 2026-04-28
 tags:
   - mycology
   - psilocybin
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # [[psilocybin]] Mushroom Species and Identification

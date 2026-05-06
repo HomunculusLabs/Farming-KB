@@ -1,5 +1,6 @@
 ---
 title: 4-HO-EPT
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, serotonergic, research-chemical, hydroxyl-tryptamine]
 date: 2026-04-28

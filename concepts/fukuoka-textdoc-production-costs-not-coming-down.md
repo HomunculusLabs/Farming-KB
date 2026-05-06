@@ -1,10 +1,12 @@
 ---
 title: "Production Costs Are Not Coming Down"
+created: 2026-04-28
 tags: [economics, production-costs, scientific-farming, food-prices, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Production Costs Are Not Coming Down

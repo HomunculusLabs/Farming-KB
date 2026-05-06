@@ -1,10 +1,12 @@
 ---
 title: Chimpanzee Self-Medication and Primate Pharmacology
+created: 2026-04-28
 tags: [primates, chimpanzees, zoopharmacognosy, self-medication, pharmacology, 
 evolution, aspilia]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Chimpanzee Self-Medication and Primate Pharmacology

@@ -1,9 +1,11 @@
 ---
 title: "What Is a Permaculture Guild and How Do I Design One"
+created: 2026-04-28
 tags: [query, permaculture, guild-design, companion-planting, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is a Permaculture Guild and How Do I Design One

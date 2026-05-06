@@ -1,5 +1,6 @@
 ---
 title: "Colletotrichum gloeosporioides"
+created: 2026-04-28
 type: species
 tags: [ascomycete, plant-pathogen, anthracnose, tropical-pathogen]
 date: 2026-04-28

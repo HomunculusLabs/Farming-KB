@@ -1,5 +1,6 @@
 ---
 title: Maitake Problem Solving and Cultivation Troubleshooting Guide
+created: 2026-04-28
 tags:
   - maitake
   - troubleshooting
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+type: concept
 ---
 
 # Maitake Problem Solving and Cultivation [[cervantes-troubleshooting-guide]]

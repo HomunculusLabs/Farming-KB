@@ -1,9 +1,11 @@
 ---
 title: "What Is Humus and Why Is It Important for Soil Health"
+created: 2026-04-28
 tags: [query, soil-science, humus, organic-matter, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Humus and Why Is It Important for Soil Health

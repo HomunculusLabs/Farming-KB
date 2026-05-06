@@ -1,9 +1,11 @@
 ---
 title: "Endophytic and Mycorrhizal Induced Systemic Resistance"
+created: 2026-04-28
 tags: [induced-systemic-resistance, biocontrol, mycorrhiza, plant-defense, jasmonic-acid]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 Symbiotic fungi, including [[arbuscular-mycorrhizal-fungi]] (AMF) and

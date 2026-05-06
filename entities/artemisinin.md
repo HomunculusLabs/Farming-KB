@@ -1,5 +1,6 @@
 ---
 title: "Artemisinin"
+created: 2026-04-28
 type: chemical
 tags:
   - sesquiterpene-lactone
@@ -141,6 +142,8 @@ development. Only artemisinin-based combination therapies (ACTs) are
 recommended for first-line malaria treatment.
 
 ## See Also
+
+- [[saccharomyces-cerevisiae]]
 
 - [[artemisia-annua]] — The source plant of artemisinin, a widely
   cultivated medicinal herb with additional bioactive compounds.

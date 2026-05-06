@@ -1,5 +1,6 @@
 ---
 title: "How to Extract and Use Fungal Pigments for Natural Dyeing"
+created: 2026-04-28
 tags:
   - mycology
   - natural-dyes
@@ -16,6 +17,7 @@ sources:
   - Peck, S.E. (2009). "Ethnomyco-Dyeing: Traditional and Modern Uses of Fungal Pigments." *Economic Botany*, 63(1), 67-79.
   - Ryytty, R. et al. (2019). "Cultivation of Dye Fungi on Agricultural Waste Substrates." *Journal of Applied Mycology*, 14(2), 210-225.
   - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
+type: query
 ---
 
 # How to Extract and Use Fungal Pigments for Natural Dyeing
@@ -143,6 +145,8 @@ To maximize longevity, always mordant properly, rinse dyed fiber in cool water w
 Mushroom dyeing is a rewarding intersection of mycology and fiber arts. Start simple, keep good records of your recipes and results, and let curiosity guide you through one of nature's most surprising color palettes.
 
 ## See Also
+
+- [[query-how-do-i-start-natural-dyeing-with-plants]]
 
 - [[agricultural-waste-substrates]]
 - [[fungal-spores]]

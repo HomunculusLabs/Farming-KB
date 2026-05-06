@@ -1,10 +1,12 @@
 ---
 title: Weak Link Analysis
+created: 2026-04-28
 tags: [financial-planning, decision-making, management-guidelines]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/savory-holistic-resource-management.md
+type: concept
 ---
 
 # Weak Link Analysis

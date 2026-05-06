@@ -1,9 +1,11 @@
 ---
 title: "Aerobic and Anaerobic Soil Conditions"
+created: 2026-04-28
 tags: [soil-biology, bacteria, oxygen, soil-health, decomposition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 The presence or absence of oxygen in soil is one of the most critical factors

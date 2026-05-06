@@ -1,10 +1,12 @@
 ---
 title: "Agar Media Formulas for Mushroom Culture"
+created: 2026-04-28
 tags: [mycology, agar-media, mushroom-cultivation, tissue-culture,
       mushroom-cultivator]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Agar Media Formulas for Mushroom Culture

@@ -1,10 +1,12 @@
 ---
 title: Minor Psilocybin Genera - Conocybe and Gymnopilus
+created: 2026-04-28
 tags: [mycology, taxonomy, psilocybin, minor-genera, identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+type: concept
 ---
 
 # Minor Psilocybin Genera: Conocybe and Gymnopilus

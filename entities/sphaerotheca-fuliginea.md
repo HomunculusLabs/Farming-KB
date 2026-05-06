@@ -1,5 +1,6 @@
 ---
 title: Sphaerotheca fuliginea
+created: 2026-04-28
 type: species
 tags:
   - powdery-mildew

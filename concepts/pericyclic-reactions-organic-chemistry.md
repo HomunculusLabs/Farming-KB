@@ -1,7 +1,9 @@
 ---
 title: Pericyclic Reactions
+created: 2026-04-28
 aliases: [electrocyclic reactions, cycloaddition, sigmatropic rearrangement, woodward-hoffmann rules, orbital symmetry]
 tags: [chemistry, organic-chemistry, reaction-mechanism, orbital-theory, synthesis]
+type: concept
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
+created: 2026-04-28
 tags:
   - cannabis
   - microbiome
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Winston ME et al. (2014) "Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome." PLoS ONE 9(6): e99641.
+type: concept
 ---
 
 # Edaphic Factors in Cannabis Endorhiza Microbiome Assembly

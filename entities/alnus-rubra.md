@@ -1,9 +1,11 @@
 ---
 title: "Alnus rubra"
+created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, timber, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Alnus rubra

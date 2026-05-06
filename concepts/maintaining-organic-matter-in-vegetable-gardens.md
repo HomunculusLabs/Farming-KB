@@ -1,10 +1,12 @@
 ---
 title: Maintaining Organic Matter in Vegetable Gardens
+created: 2026-04-28
 tags: [organic-matter, compost, green-manure, soil-health, vegetable-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+type: concept
 ---
 
 # Maintaining Organic Matter in Vegetable Gardens

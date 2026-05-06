@@ -1,10 +1,12 @@
 ---
 title: Mechanization Trap and Farmer Alienation
+created: 2026-04-28
 tags: [mechanization, agriculture, farming, energy, petroleum, fukuoka, 
 natural-farming, labor]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Mechanization Trap and Farmer Alienation

@@ -1,5 +1,6 @@
 ---
 title: "Hallucinogenic Mushroom Consequences and Health Risks"
+created: 2026-04-28
 tags:
   - health-risks
   - hallucinogenic-mushrooms
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Hallucinogenic Mushroom Consequences and Health Risks

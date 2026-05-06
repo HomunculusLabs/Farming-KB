@@ -1,9 +1,11 @@
 ---
 title: "2C-T-7 (PIHKAL)"
+created: 2026-04-28
 tags: [phenethylamine, psychedelic, pihkal, thio-compound, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md"]
+type: concept
 ---
 
 # 2C-T-7

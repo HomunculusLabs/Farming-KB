@@ -1,5 +1,6 @@
 ---
 title: Using Accumulators in Compost and Mulch
+created: 2026-04-28
 tags:
   - composting
   - mulching
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md
+type: concept
 ---
 
 # Using Accumulators in Compost and Mulch

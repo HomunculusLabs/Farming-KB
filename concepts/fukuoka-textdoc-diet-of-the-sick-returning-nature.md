@@ -1,5 +1,6 @@
 ---
 title: Diet of the Sick and the Return to Nature
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Diet of the Sick and the Return to Nature
@@ -124,6 +126,10 @@ Fukuoka's dietary teachings ultimately point beyond food to a more fundamental r
 The return to nature that Fukuoka advocated is therefore not a dietary program but a comprehensive transformation — a letting go of the artificial, the conceptual, and the compulsive, and an opening to the intelligence that runs through all living things. It begins with food because food is the most intimate point of contact between the human body and the natural world, but it does not end there.
 
 ## See Also
+
+- [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
+- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
+- [[fukuoka-nature-transcends-human-knowledge]]
 
 - [[natural-diet]]
 - [[natural-farming]]

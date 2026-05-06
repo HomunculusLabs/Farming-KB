@@ -1,9 +1,11 @@
 ---
 title: "Morchella angusticeps"
+created: 2026-04-28
 tags: [species, fungi, ascomycete, edible, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: entity
 ---
 
 # Morchella angusticeps

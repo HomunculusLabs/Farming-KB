@@ -1,10 +1,12 @@
 ---
 title: Endocannabinoid System Neurogenesis and Neuroplasticity
+created: 2026-04-28
 tags: [neuroscience, endocannabinoid-system, neurogenesis, neuroplasticity, cannabinoids, brain-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - blesching-the-cannabis-health-index-2015
+type: concept
 ---
 
 # Endocannabinoid System Neurogenesis and Neuroplasticity

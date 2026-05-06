@@ -1,10 +1,12 @@
 ---
 title: Cho's Nutritive Cycle Theory
+created: 2026-04-28
 tags: [knf, plant-growth, nutrient-management]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 The Nutritive Cycle Theory is the foundational scientific framework of

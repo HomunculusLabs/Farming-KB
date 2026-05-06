@@ -1,9 +1,11 @@
 ---
 title: "DMT-Containing Plants and MAOI Combination"
+created: 2026-04-28
 tags: [dmt, maoi, ayahuasca, tryptamines, hallucinogens, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md]
+type: concept
 ---
 
 # DMT-Containing Plants and MAOI Combination

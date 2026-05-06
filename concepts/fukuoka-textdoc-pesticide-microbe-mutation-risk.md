@@ -1,5 +1,6 @@
 ---
 title: Pesticide-Induced Microbial Mutation and Ecosystem Cascade Risk
+created: 2026-04-28
 tags:
   - fukuoka
   - pesticide-critique
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Pesticide-Induced Microbial Mutation and Ecosystem Cascade Risk

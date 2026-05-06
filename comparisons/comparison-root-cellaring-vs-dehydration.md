@@ -1,9 +1,11 @@
 ---
 title: "Root Cellaring vs Dehydration"
+created: 2026-04-28
 tags: [comparison, food-preservation, homesteading, storage]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Root Cellaring vs Dehydration

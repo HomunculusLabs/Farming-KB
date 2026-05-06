@@ -1,5 +1,6 @@
 ---
 title: John Jeavons
+created: 2026-04-28
 type: person
 tags: [agriculture, biointensive, gardening, ecology, sustainable-farming]
 date: 2026-04-28

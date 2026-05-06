@@ -1,9 +1,11 @@
 ---
 title: "tipuana tipu"
+created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, shade-tree, timber]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
+type: entity
 ---
 
 # Tipuana tipu

@@ -1,10 +1,12 @@
 ---
 title: "Golden Guide: Iboga and Tabernanthe"
+created: 2026-04-28
 tags: [hallucinogenic-plants, iboga, ibogaine, tabernanthe, apocynaceae,
   bwiti, gabon, congo, stimulant, ethnobotany, initiation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Iboga (*Tabernanthe iboga*) and the Bwiti Cult

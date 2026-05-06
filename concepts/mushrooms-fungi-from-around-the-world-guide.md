@@ -1,9 +1,11 @@
 ---
 title: "Mushrooms and Fungi From Around the World"
+created: 2026-04-28
 tags: [mycology, biodiversity, global-fungi, field-guide, ethnography]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mushrooms-fungi-from-around-the-world.md]
+type: concept
 ---
 
 # Mushrooms and Fungi From Around the World

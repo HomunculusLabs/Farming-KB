@@ -1,9 +1,11 @@
 ---
 title: "No-Till vs Raised Bed"
+created: 2026-04-28
 tags: [comparison, soil-management, no-till, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # No-Till vs Raised Bed

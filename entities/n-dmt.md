@@ -1,5 +1,6 @@
 ---
 title: N,N-Dimethyltryptamine
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, tryptamine, entheogen, serotonergic, schedule-i, endogenous, visionary, shamanic, pharmacology]
 date: 2026-04-28

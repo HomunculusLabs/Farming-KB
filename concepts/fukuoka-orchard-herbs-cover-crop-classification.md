@@ -1,5 +1,6 @@
 ---
 title: Orchard Herbs Cover Crop Classification by Plant Family
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Orchard Herbs Cover Crop Classification by Plant Family

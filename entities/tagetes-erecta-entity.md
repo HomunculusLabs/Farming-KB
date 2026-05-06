@@ -1,5 +1,6 @@
 ---
 title: "Tagetes erecta"
+created: 2026-04-28
 type: species
 tags: [permaculture, companion-planting, medicinal-herb, edible-flower, asteraceae]
 date: 2026-04-28

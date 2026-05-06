@@ -1,5 +1,6 @@
 ---
 title: Psilocybe kumaenorum
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, papua-new-guinea, entheogenic, agaricales, tropical]
 date: 2026-04-28

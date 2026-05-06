@@ -1,5 +1,6 @@
 ---
 title: "Cob vs Timber Frame Construction"
+created: 2026-04-28
 tags:
   - natural-building
   - cob
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Cob vs Timber Frame Construction

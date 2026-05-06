@@ -1,10 +1,12 @@
 ---
 title: Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat
+created: 2026-04-28
 tags: [fukuoka, natural-farming, pest-management, quarantine, invasive-species, medfly, codling-moth, food-security]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat

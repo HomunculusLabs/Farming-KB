@@ -1,9 +1,11 @@
 ---
 title: Difficulty-Calibrated Data Selection
+created: 2026-04-28
 tags: [data-selection, training-efficiency, curriculum-learning, synthetic-data]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+type: concept
 ---
 
 # Difficulty-Calibrated Data Selection

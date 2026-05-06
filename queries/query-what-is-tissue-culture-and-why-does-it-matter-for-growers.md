@@ -1,10 +1,12 @@
 ---
 title: "What Is Tissue Culture and Why Does It Matter for Growers"
+created: 2026-04-28
 tags: [query, tissue-culture, propagation, cloning, plant-science, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: query
 ---
 
 # What Is Tissue Culture and Why Does It Matter for Growers

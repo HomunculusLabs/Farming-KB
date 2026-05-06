@@ -1,5 +1,6 @@
 ---
 title: "Mycorrhizal Fungi as Elicitors of Secondary Metabolites"
+created: 2026-04-28
 tags:
   - secondary-metabolites
   - elicitation
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # [[mycorrhizal-fungi]] as Elicitors of Secondary Metabolites

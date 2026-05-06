@@ -1,9 +1,11 @@
 ---
 title: Japanese Document Processing
+created: 2026-04-28
 tags: [japanese, typography, text-processing, internationalization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+type: concept
 ---
 
 # Japanese Document Processing

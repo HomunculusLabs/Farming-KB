@@ -1,5 +1,6 @@
 ---
 title: "Wasson's Amanita Theory and Objections"
+created: 2026-04-28
 tags:
   - mckenna
   - food-of-the-gods
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Wasson's Amanita Theory and Objections

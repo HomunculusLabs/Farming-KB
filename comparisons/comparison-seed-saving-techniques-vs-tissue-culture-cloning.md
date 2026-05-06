@@ -1,11 +1,13 @@
 ---
 title: "Seed Saving vs Tissue Culture Cloning"
+created: 2026-04-28
 tags: [comparison, propagation, genetics, preservation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: comparison
 ---
 
 # Seed Saving vs Tissue Culture Cloning

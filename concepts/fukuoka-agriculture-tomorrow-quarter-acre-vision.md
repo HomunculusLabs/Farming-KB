@@ -1,5 +1,6 @@
 ---
 title: Agriculture for Tomorrow and the Quarter-Acre Vision
+created: 2026-04-28
 tags:
   - natural-farming
   - philosophy
@@ -9,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+type: concept
 ---
 
 # Agriculture for Tomorrow and the Quarter-Acre Vision

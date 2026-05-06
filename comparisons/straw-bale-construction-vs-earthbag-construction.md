@@ -1,5 +1,6 @@
 ---
 title: Straw Bale Construction vs Earthbag Construction
+created: 2026-04-28
 subtitle: Comparing two owner-builder natural wall systems for insulation, mass, moisture, labor, and climate fit
 tags: [comparison, natural-building, straw-bale, earthbag, homesteading, sustainable-architecture]
 date: 2026-05-02
@@ -12,6 +13,7 @@ related_concepts:
   - straw-bale-construction
   - earthbag-construction
   - earthbag-building
+type: comparison
 ---
 # Straw Bale Construction vs Earthbag Construction
 Straw bale construction and earthbag construction are both natural building methods popular with homesteaders and owner-builders.

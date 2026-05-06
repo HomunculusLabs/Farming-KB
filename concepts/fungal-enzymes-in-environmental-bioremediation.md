@@ -1,9 +1,11 @@
 ---
 title: fungal enzymes in environmental bioremediation
+created: 2026-04-28
 tags: [mycology, enzymes, bioremediation, biochemistry, environmental-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # fungal enzymes in environmental bioremediation

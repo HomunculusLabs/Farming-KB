@@ -1,9 +1,11 @@
 ---
 title: "What Are Green Manures and How to Use Them"
+created: 2026-04-28
 tags: [query, green-manures, cover-crops, soil-building, nitrogen-fixation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Green Manures and How to Use Them

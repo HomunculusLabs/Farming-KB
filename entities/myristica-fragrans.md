@@ -1,5 +1,6 @@
 ---
 title: Myristica fragrans
+created: 2026-04-28
 type: species
 tags: [plant, spice, psychoactive, myristicaceae, deliriant]
 date: 2026-04-28

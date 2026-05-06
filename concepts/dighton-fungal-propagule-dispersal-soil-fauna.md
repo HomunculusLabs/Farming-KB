@@ -1,5 +1,6 @@
 ---
 title: "Fungal Propagule Dispersal by Soil Fauna"
+created: 2026-04-28
 tags:
   - fungal-dispersal
   - soil-fauna
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+type: concept
 ---
 
 # Fungal Propagule Dispersal by Soil Fauna

@@ -1,10 +1,12 @@
 ---
 title: Phototropism, Photoperiodism, and the Discovery of Phytochrome
+created: 2026-04-28
 tags: [plant-biology, phototropism, photoperiodism, phytochrome, darwin, plant-senses, light-perception]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "What a Plant Knows: A Field Guide to the Senses of Your Garden and Beyond, Daniel Chamovitz (2012)"
+type: concept
 ---
 
 # Phototropism, Photoperiodism, and the Discovery of Phytochrome

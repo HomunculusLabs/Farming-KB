@@ -1,5 +1,6 @@
 ---
 title: "What Is Seed Viability and How Do I Test It?"
+created: 2026-04-28
 tags:
   - seeds
   - seed-saving
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # What Is Seed Viability and How Do I Test It?

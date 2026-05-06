@@ -1,5 +1,6 @@
 ---
 title: "Practical Farm Establishment, Site Selection, and Soil Preparation"
+created: 2026-04-28
 tags:
   - fukuoka
   - farming-method
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Practical Farm Establishment, Site Selection, and Soil Preparation

@@ -1,10 +1,12 @@
 ---
 title: "Shanshi Coriaria Thymifolia Andean Entheogen"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, coriariaceae, andes, toxicology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+type: concept
 ---
 
 # Shanshi (Coriaria thymifolia) Andean Entheogen

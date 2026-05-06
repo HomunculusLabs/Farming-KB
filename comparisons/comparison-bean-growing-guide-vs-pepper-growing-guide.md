@@ -1,10 +1,12 @@
 ---
 title: "Bean Growing Guide vs Pepper Growing Guide"
+created: 2026-04-28
 tags: [comparison, vegetable-growing, garden-planning, warm-season-crops, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+type: comparison
 ---
 
 # Bean Growing Guide vs Pepper Growing Guide

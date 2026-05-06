@@ -1,10 +1,12 @@
 ---
 title: Wild Grass Cover Cropping and Symbiotic Weed Management
+created: 2026-04-28
 tags: [wild-grass, cover-crops, weed-management, symbiosis, soil-temperature,
       nutrient-leaching, organic-matter, ultra-low-cost, JADAM, sustainable-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # [[jadam-wild-grass-management]] [[cover-crop-species-comparison]]ping and Symbiotic Weed Management

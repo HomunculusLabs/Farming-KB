@@ -1,5 +1,6 @@
 ---
 title: Dry Microwave Irradiation and Bacterial Spore Resistance
+created: 2026-04-28
 tags:
   - sterilization
   - microwaves
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+type: concept
 ---
 
 # Dry Microwave Irradiation and Bacterial Spore Resistance

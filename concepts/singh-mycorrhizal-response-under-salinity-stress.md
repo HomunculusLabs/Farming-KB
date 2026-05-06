@@ -1,5 +1,6 @@
 ---
 title: Mycorrhizal Response Under Salinity Stress
+created: 2026-04-28
 tags:
   - salinity-stress
   - mycorrhiza
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+type: concept
 ---
 
 # Mycorrhizal Response Under Salinity Stress

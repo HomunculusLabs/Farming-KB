@@ -1,9 +1,11 @@
 ---
 title: Orchid Mycorrhiza
+created: 2026-04-28
 tags: [orchid-mycorrhiza, orchidaceae, seed-germination, basidiomycota, endomycorrhiza]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Orchid Mycorrhiza

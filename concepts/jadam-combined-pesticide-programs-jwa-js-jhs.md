@@ -1,9 +1,11 @@
 ---
 title: JADAM Combined Pesticide Programs with JWA JS and JHS
+created: 2026-04-28
 tags: [jadam, pesticide-programs, jwa-js-jhs, integrated-pest-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Combined Pesticide Programs with JWA, JS, and JHS

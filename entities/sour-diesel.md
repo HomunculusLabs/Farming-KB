@@ -1,5 +1,6 @@
 ---
 title: Sour Diesel
+created: 2026-04-28
 type: strain
 tags: [cannabis-strains, sativa, energizing, cultivation, terpene-profile, chemdog-lineage, cannabis-chemotaxonomy]
 date: 2026-04-28

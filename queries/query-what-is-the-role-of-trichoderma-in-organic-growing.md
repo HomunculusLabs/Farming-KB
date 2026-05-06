@@ -1,9 +1,11 @@
 ---
 title: "What Is the Role of Trichoderma in Organic Growing?"
+created: 2026-04-28
 tags: [query, biocontrol, trichoderma, organic-farming, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Role of Trichoderma in Organic Growing?

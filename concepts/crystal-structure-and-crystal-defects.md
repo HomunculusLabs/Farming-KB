@@ -1,5 +1,6 @@
 ---
 title: "Crystal Structure and Crystal Defects"
+type: concept
 category: materials-science
 related:
   - dislocation-theory-crystal-plasticity
@@ -9,6 +10,7 @@ related:
 tags: [materials-science, crystallography, defects, metallurgy, semiconductor,
   dislocations, grain-boundaries, precipitation, lattice-structure, xrd]
 created: 2026-05-02
+type: concept
 ---
 
 Crystal structure and crystal defects are central concepts in materials

@@ -1,10 +1,12 @@
 ---
 title: "Inoculation Techniques and Hygiene"
+created: 2026-04-28
 tags: [inoculation, hygiene, sanitation, contamination-prevention, spawn-run]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Inoculation Techniques and Hygiene

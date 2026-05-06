@@ -1,10 +1,12 @@
 ---
 title: Lysergic Acid Amide Plants and Pharmacology
+created: 2026-04-28
 tags: [pharmacology, ergolines, lsa, plants, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Lysergic Acid Amide Plants and Pharmacology

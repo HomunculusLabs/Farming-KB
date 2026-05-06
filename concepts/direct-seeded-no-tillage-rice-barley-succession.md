@@ -1,5 +1,6 @@
 ---
 title: Direct-Seeded No-Tillage Rice Barley Succession
+created: 2026-04-28
 tags:
   - natural-farming
   - rice
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Direct-Seeded No-Tillage Rice Barley Succession

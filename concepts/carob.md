@@ -1,10 +1,12 @@
 ---
 title: Carob (Ceratonia siliqua)
+created: 2026-04-28
 tags: [permaculture, legume, drought-tolerant, fodder, fire-resistant]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Carob

@@ -1,5 +1,6 @@
 ---
 title: Panaeolus castaneifolius
+created: 2026-04-28
 type: species
 tags: [panaeolus, psilocybin-mushroom, dung-inhabiting, grassland-fungi, weakly-active]
 date: 2026-04-28

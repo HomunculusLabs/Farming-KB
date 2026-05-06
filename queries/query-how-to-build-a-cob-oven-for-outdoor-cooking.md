@@ -1,9 +1,11 @@
 ---
 title: "How to Build a Cob Oven for Outdoor Cooking"
+created: 2026-04-28
 tags: [query, natural-building, cob, outdoor-cooking, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Build a Cob Oven for Outdoor Cooking

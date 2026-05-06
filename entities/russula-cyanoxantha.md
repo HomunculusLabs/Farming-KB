@@ -1,5 +1,6 @@
 ---
 title: Russula cyanoxantha (Charcoal Burner)
+created: 2026-04-28
 type: species
 tags:
   - russulaceae
@@ -136,6 +137,8 @@ distinctive features.
   an experienced forager is essential before consumption
 
 ## See Also
+
+- [[russula-vesca]]
 
 - [[russula-emetica]] — toxic lookalike, acrid peppery taste
 - [[boletus-edulis]] — fellow mycorrhizal edible of deciduous forests

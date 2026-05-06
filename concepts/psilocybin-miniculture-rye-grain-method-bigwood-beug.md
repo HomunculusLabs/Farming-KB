@@ -1,10 +1,12 @@
 ---
 title: Psilocybin Miniculture on Rye Grain Method (Bigwood and Beug)
+created: 2026-04-28
 tags: [cultivation, psilocybe-cubensis, rye-grain, miniculture, mycology, research-method]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - bigwood-beug-variation-of-psilocybin-and-psilocin-levels-1982
+type: concept
 ---
 
 # Psilocybin Miniculture on Rye Grain Method

@@ -1,10 +1,12 @@
 ---
 title: Errors of the Human Intellect in Understanding Nature
+created: 2026-04-28
 tags: [philosophy, epistemology, science-critique, discriminating-knowledge, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Errors of the Human Intellect

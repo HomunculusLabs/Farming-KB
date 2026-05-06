@@ -1,5 +1,6 @@
 ---
 title: "Myrcene"
+created: 2026-04-28
 type: chemical
 tags: [terpene, cannabis, monoterpene, anti-inflammatory, sedative]
 date: 2026-04-28

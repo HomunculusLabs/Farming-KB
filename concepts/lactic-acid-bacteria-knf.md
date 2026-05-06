@@ -1,9 +1,11 @@
 ---
 title: Lactic Acid Bacteria in KNF
+created: 2026-04-28
 tags: [knf, lactic-acid-bacteria, fermentation, microorganisms]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
+type: concept
 ---
 
 # Lactic Acid Bacteria in KNF

@@ -1,11 +1,13 @@
 ---
 title: Lichens: Symbiosis and Extreme Survival
+created: 2026-04-28
 tags: [lichen, symbiosis, algae, cyanobacteria, melanin, extremophile,
       ascomycete, mycobiont, photobiont, radiation-tolerance]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+type: concept
 ---
 
 Lichens are composite organisms formed from the symbiotic partnership

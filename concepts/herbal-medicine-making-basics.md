@@ -119,6 +119,48 @@ Essential kitchen and herbalism tools:
 
 ## See Also
 
+- [[polygonatum-biflorum]]
+
+- [[myrciaria-dubia]]
+
+- [[ocimene]]
+
+- [[colchicum-autumnale]]
+
+- [[tussilago-farfara]]
+
+- [[menthol]]
+
+- [[osmorhiza-claytonii]]
+
+- [[eupatorium-perfoliatum]]
+
+- [[ligusticum-porteri]]
+
+- [[podophyllum-peltatum]]
+
+- [[jude-hobbs]]
+
+- [[aconitum-napellus]]
+
+- [[commiphora-myrrha]]
+
+- [[trapa-natans]]
+
+- [[gymnocladus-dioicus]]
+
+- [[psoralen]]
+
+- [[neolentinus-lepideus]]
+
+- [[motorbreath]]
+
+- [[cinderella-99]]
+
+- [[amorpha-fruticosa]]
+
+- [[caulophyllum-thalictroides]]
+
 - [[nut-butter-making]]
 
 - [[medicinal-plant-preparations-tinctures-salves-teas]] — Detailed

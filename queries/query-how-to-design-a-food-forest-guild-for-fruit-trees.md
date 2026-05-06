@@ -1,5 +1,6 @@
 ---
 title: "How to Design a Food Forest Guild for Fruit Trees"
+created: 2026-04-28
 tags:
   - permaculture
   - food-forest
@@ -33,6 +34,7 @@ sources:
   - title: "Fruit Tree Guilds"
     author: "Permaculture Research Institute"
     url: "https://permaculturenews.org/2013/04/17/fruit-tree-guilds/"
+type: query
 ---
 
 ## How to Design a Food Forest Guild for Fruit Trees

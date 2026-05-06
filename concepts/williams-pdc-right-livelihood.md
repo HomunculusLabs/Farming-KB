@@ -1,11 +1,13 @@
 ---
 title: "Right Livelihood in Permaculture"
+created: 2026-04-28
 tags: [permaculture, right-livelihood, economics, gift-economy,
        barter, sustainability, permaculture-ethics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Right Livelihood in Permaculture

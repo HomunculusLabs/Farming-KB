@@ -1,10 +1,12 @@
 ---
 title: "Water Harvesting and Pond Design"
+created: 2026-04-28
 tags: [permaculture, water-harvesting, ponds, swales, irrigation, conservation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Water Harvesting and Pond Design

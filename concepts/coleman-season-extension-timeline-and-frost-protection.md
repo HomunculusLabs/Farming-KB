@@ -1,5 +1,6 @@
 ---
 title: Season Extension Timeline and Frost Protection
+created: 2026-04-28
 tags:
   - season-extension
   - frost-protection
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+type: concept
 ---
 
 # Season Extension Timeline and Frost Protection

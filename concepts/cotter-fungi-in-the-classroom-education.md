@@ -1,10 +1,12 @@
 ---
 title: "Fungi in the Classroom Education"
+created: 2026-04-28
 tags: [education, mycology-teaching, classroom-activities, science-projects, STEM]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Fungi in the Classroom

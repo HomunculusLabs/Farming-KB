@@ -1,10 +1,12 @@
 ---
 title: Liquid Culture Propagation Methods
+created: 2026-04-28
 tags: [spawn-preparation, liquid-inoculation, mycelial-suspension, scaling-up, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Liquid Culture Propagation Methods

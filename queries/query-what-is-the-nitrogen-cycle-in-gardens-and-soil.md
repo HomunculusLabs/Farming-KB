@@ -1,9 +1,11 @@
 ---
 title: "What Is the Nitrogen Cycle in Gardens and Soil"
+created: 2026-04-28
 tags: [query, soil-science, nitrogen, nutrient-cycling, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Nitrogen Cycle in Gardens and Soil

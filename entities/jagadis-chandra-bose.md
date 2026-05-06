@@ -1,5 +1,7 @@
 ---
 title: "Jagadis Chandra Bose"
+created: 2026-04-28
+type: entity
 ---
 
 # Jagadis Chandra Bose

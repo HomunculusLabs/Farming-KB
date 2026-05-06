@@ -1,5 +1,6 @@
 ---
 title: Arid Landscape Settlement and Water Strategy
+created: 2026-04-28
 tags:
   - permaculture
   - arid-landscapes
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Arid Landscape Settlement and Water Strategy

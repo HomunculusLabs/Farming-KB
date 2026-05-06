@@ -1,5 +1,6 @@
 ---
 title: Tryptophan
+created: 2026-04-28
 type: chemical
 tags: [amino-acid, essential-nutrient, tryptamine-precursor, biochemistry, nutrition]
 date: 2026-04-28

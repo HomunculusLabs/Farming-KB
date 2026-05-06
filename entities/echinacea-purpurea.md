@@ -1,5 +1,6 @@
 ---
 title: Echinacea purpurea
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant
@@ -150,6 +151,8 @@ the best-studied commercial preparation.
   attracts predatory insects for pest management
 
 ## See Also
+
+- [[echinacea-angustifolia]]
 
 - [[companion-planting]]
 - [[permaculture]]

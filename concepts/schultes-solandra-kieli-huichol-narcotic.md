@@ -1,9 +1,11 @@
 ---
 title: "Solandra (Kieli): Huichol God-Narcotic"
+created: 2026-04-28
 tags: [ethnobotany, solandra, kieli, huichol, mexico, datura, brugmansia, tropane, solanaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+type: concept
 ---
 
 # Solandra (Kieli): Huichol God-Narcotic

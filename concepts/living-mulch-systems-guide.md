@@ -1,9 +1,11 @@
 ---
 title: Living Mulch Systems Guide
+created: 2026-04-28
 tags: [living-mulch, ground-cover, clover, nitrogen-fixation, weed-suppression]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+type: concept
 ---
 
 # Living Mulch Systems Guide

@@ -1,5 +1,6 @@
 ---
 title: Coprinus comatus
+created: 2026-04-28
 type: species
 tags: [mycology, cultivation, gourmet-mushrooms, coprinus]
 date: 2026-04-28

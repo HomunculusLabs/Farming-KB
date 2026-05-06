@@ -1,5 +1,6 @@
 ---
 title: Catharanthus roseus
+created: 2026-04-28
 type: species
 tags: [apocynaceae, medicinal-plant, vinca-alkaloids, anticancer, madagascar]
 date: 2026-04-28

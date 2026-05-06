@@ -1,5 +1,6 @@
 ---
 title: Psilocin (4-HO-DMT)
+created: 2026-04-28
 type: chemical
 tags: [psychedelic, tryptamine, serotonergic, hallucinogen,
   Schedule-I, endogenous-compound]

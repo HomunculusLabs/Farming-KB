@@ -1,5 +1,6 @@
 ---
 title: Wind Generator Design - Small Scale
+created: 2026-04-28
 tags:
   - wind-energy
   - appropriate-technology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Wind Generator Design - Small Scale

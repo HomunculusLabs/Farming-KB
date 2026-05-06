@@ -1,5 +1,6 @@
 ---
 title: Beneficial Insects and Ecological Pest Control
+created: 2026-04-28
 tags:
   - pest-control
   - beneficial-insects
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+type: concept
 ---
 
 # Beneficial Insects and Ecological Pest Control

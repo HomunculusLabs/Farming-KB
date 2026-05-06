@@ -1,5 +1,6 @@
 ---
 title: Natural Diet Philosophy
+created: 2026-04-28
 tags:
   - natural-farming
   - fukuoka
@@ -13,6 +14,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: "The Natural Way of Farming"
+type: concept
 ---
 Masanobu Fukuoka's philosophy of natural diet extends his principles of
 natural farming into the realm of human nutrition and culture. Just as

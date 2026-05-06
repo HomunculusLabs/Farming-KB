@@ -1,5 +1,6 @@
 ---
 title: How Do I Start Making Fermented Dairy at Home?
+created: 2026-04-28
 tags: [fermentation, dairy, getting-started, homesteading, yogurt, kefir, cultured-milk, beginners]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - https://www.fda.gov/food/hazard-analysis-critical-control-point-haccp/grade-pasteurized-milk-ordinance-2023
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284178/
   - https://www.sciencedirect.com/science/article/pii/B9780128187340000198
+type: query
 ---
 
 # How Do I Start Making Fermented Dairy at Home?
@@ -132,6 +134,10 @@ Once you've mastered the basics, explore these directions:
 - **Fermentation does not neutralize milk protein allergens.** If you have a dairy allergy (not just lactose intolerance), fermented dairy is not safe for you.
 
 ## See Also
+
+- [[query-what-is-super-cropping-and-when-to-do-it]]
+- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+- [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 
 - [[query-how-do-i-start-making-kefir-at-home]]
 

@@ -1,5 +1,6 @@
 ---
 title: "Voacangine"
+created: 2026-04-28
 type: chemical
 tags: [chemical, alkaloid, indole, iboga, psychedelic, tryptamine, apocynaceae]
 date: 2026-04-28

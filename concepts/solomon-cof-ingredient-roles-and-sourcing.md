@@ -1,5 +1,6 @@
 ---
 title: Complete Organic Fertilizer Ingredient Roles and Sourcing
+created: 2026-04-28
 tags:
   - organic-fertilizer
   - soil-fertility
@@ -11,6 +12,7 @@ updated: 2026-04-28
 sources:
   - file: gardening-when-it-counts-steve-solomon.md
     author: Steve Solomon
+type: concept
 ---
 
 # Complete Organic Fertilizer Ingredient Roles and Sourcing

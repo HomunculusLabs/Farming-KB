@@ -1,5 +1,6 @@
 ---
 title: Low Island Permaculture Design
+created: 2026-04-28
 tags:
   - permaculture
   - islands
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Low [[island-permaculture-design]]

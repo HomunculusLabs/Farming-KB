@@ -1,5 +1,6 @@
 ---
 title: Psilocybe semilanceata Distribution and Ecology
+created: 2026-04-28
 tags:
   - mycology
   - biogeography
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
+type: concept
 ---
 
 # Psilocybe semilanceata Distribution and Ecology

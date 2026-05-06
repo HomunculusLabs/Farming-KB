@@ -1,5 +1,6 @@
 ---
 title: Aphanocladium album
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, hyperparasite, myxomycete-colonizer, biocontrol]
 date: 2026-04-28

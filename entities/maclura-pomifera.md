@@ -1,5 +1,6 @@
 ---
 title: "Maclura pomifera"
+created: 2026-04-28
 type: species
 tags: [permaculture, trees, nitrogen-fixing, dye-plants, hedgerows]
 date: 2026-04-28

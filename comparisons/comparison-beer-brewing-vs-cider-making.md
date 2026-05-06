@@ -1,5 +1,6 @@
 ---
 title: "Beer Brewing vs Cider Making"
+created: 2026-04-28
 tags:
   - fermentation
   - brewing
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Beer Brewing vs Cider Making

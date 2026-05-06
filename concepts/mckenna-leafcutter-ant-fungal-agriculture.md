@@ -1,10 +1,12 @@
 ---
 title: "Leafcutter Ant Fungal Agriculture and Human-Plant Symbiosis"
+created: 2026-04-28
 tags: [symbiosis, mycology, ecology, evolution, agriculture, leafcutter-ants, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Leafcutter Ant Fungal Agriculture and Human-Plant Symbiosis

@@ -1,10 +1,12 @@
 ---
 title: Psilocybin Mushroom Six Classic Habitats
+created: 2026-04-28
 tags: [mycology, ecology, habitat, psilocybin, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+type: concept
 ---
 # Psilocybin Mushroom Six Classic Habitats
 

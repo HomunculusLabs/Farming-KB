@@ -1,9 +1,11 @@
 ---
 title: "Trichome Biology and Resin Production"
+created: 2026-04-28
 tags: [trichomes, cannabis, resin, THC, marijuana-botany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+type: concept
 ---
 
 # Trichome Biology and [[cervantes-trichome-resin-production]]

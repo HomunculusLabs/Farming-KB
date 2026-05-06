@@ -1,9 +1,11 @@
 ---
 title: "What is the difference between hot compost and cold compost?"
+created: 2026-04-28
 tags: [query, compost, soil-fertility, organic-matter]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # What is the difference between hot compost and cold compost?

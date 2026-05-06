@@ -1,5 +1,6 @@
 ---
 title: Hugelkultur vs Chinampas
+created: 2026-04-28
 tags:
   - permaculture
   - raised-beds
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Hugelkultur vs Chinampas

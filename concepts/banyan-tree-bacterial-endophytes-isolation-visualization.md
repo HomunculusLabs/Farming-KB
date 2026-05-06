@@ -1,10 +1,12 @@
 ---
 title: "Banyan Tree Bacterial Endophytes: Isolation and Visualization"
+created: 2026-04-28
 tags: [endophytes, bacteria, banyan-tree, Ficus-bengalensis,
       isolation-methods, microscopy, vital-staining, symbiotic-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
+type: concept
 ---
 
 # Banyan Tree Bacterial Endophytes

@@ -1,10 +1,12 @@
 ---
 title: Taique - Desfontainia Hookeri Andean Shrub
+created: 2026-04-28
 tags: [ethnobotany, chile, andes, desfontainiaceae, folk-medicine,
   narcotic-plants, schultes, south-america]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Taique (Desfontainia hookeri)

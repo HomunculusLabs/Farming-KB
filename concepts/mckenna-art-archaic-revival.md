@@ -1,5 +1,6 @@
 ---
 title: "Art and the Archaic Revival"
+created: 2026-04-28
 tags: [mckenna, food-of-the-gods, archaic-revival, art, shamanism, imagination,
 exopheromones, language, dominator-culture, consciousness-expansion, cultural-
 transformation, octopus, vegetable-logos, philo-judaeus]
@@ -7,6 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "mckenna_t-food_of_the-gods.md"
+type: concept
 ---
 
 # Art and the Archaic Revival

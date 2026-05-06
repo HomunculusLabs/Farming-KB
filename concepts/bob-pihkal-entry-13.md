@@ -1,10 +1,12 @@
 ---
 title: BOB (beta-Methoxy-2C-B) - PIHKAL Entry #13
+created: 2026-04-28
 tags: [pihkal, phenethylamine, 2c-b-analogue, beta-alkoxy, box-family]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # BOB (beta-Methoxy-2C-B)

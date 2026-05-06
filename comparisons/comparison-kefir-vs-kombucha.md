@@ -1,9 +1,11 @@
 ---
 title: Kefir vs Kombucha
+created: 2026-04-28
 tags: [fermentation, beverages, probiotics, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 ## Kefir vs Kombucha: Fermented Beverage Comparison

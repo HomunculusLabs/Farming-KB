@@ -1,10 +1,12 @@
 ---
 title: "Integrate Rather Than Segregate — Permaculture Principle 8"
+created: 2026-04-28
 tags: [permaculture, design-principles, integration, ecology, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+type: concept
 ---
 
 # Integrate Rather Than Segregate — Permaculture Principle 8

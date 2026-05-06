@@ -1,9 +1,11 @@
 ---
 title: "Trichocereus Genus Mescaline Cacti"
+created: 2026-04-28
 tags: [ethnobotany, entheogen, cactaceae, mescaline, phenethylamine]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md, ~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
+type: concept
 ---
 
 # Trichocereus Genus Mescaline Cacti

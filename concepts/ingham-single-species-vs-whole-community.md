@@ -1,9 +1,11 @@
 ---
 title: Single Species vs. Whole Community in Soil Biology
+created: 2026-04-28
 tags: [soil-foodweb, microbiology, diversity, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Single Species vs. Whole Community in Soil Biology

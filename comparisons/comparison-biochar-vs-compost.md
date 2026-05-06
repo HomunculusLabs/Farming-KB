@@ -1,9 +1,11 @@
 ---
 title: "Biochar vs Compost"
+created: 2026-04-28
 tags: [comparison, biochar, compost, soil-amendments, fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Biochar vs Compost

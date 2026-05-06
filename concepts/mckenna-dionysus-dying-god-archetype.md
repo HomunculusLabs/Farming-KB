@@ -1,5 +1,6 @@
 ---
 title: Dionysus and the Dying God Archetype
+created: 2026-04-28
 tags:
   - mckenna
   - dionysus
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Dionysus and the Dying God Archetype

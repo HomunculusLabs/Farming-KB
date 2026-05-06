@@ -1,5 +1,6 @@
 ---
 title: "Piriformospora indica"
+created: 2026-04-28
 type: organism
 aliases:
   - "Serendipita indica"

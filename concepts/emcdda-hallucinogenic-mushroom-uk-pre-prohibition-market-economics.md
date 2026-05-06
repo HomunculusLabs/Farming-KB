@@ -1,5 +1,6 @@
 ---
 title: UK Pre-Prohibition Magic Mushroom Market Economics
+created: 2026-04-28
 tags:
   - emcdda
   - united-kingdom
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+type: concept
 ---
 
 # UK Pre-Prohibition Magic Mushroom Market Economics

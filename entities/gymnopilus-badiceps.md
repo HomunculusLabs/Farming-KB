@@ -1,5 +1,6 @@
 ---
 title: Gymnopilus badiceps
+created: 2026-04-28
 type: species
 tags: [gymnopilus, neurotropic, cortinariaceae, psilocybin, wood-inhabiting]
 date: 2026-04-28

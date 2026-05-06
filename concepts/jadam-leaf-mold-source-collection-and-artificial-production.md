@@ -1,9 +1,11 @@
 ---
 title: JADAM Leaf Mold Source Collection and Artificial Production
+created: 2026-04-28
 tags: [jadam, leaf-mold, microorganism-source, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Leaf Mold Source Collection and Artificial Production

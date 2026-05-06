@@ -1,5 +1,6 @@
 ---
 title: "GMO (Garlic Cookies)"
+created: 2026-04-28
 type: strain
 tags: [cannabis, indica-dominant-hybrid, strain, cultivar, chem-dog-lineage, garlic-aroma]
 date: 2026-04-28
@@ -117,6 +118,8 @@ GMO has gained significant traction in medical cannabis communities:
 - **Inflammation:** Caryophyllene and myrcene contribute anti-inflammatory activity
 
 ## See Also
+
+- [[garlic-growing-guide]]
 
 - [[girl-scout-cookies]]
 - [[granddaddy-purple]]

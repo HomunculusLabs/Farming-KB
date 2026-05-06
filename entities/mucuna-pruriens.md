@@ -1,5 +1,6 @@
 ---
 title: Mucuna pruriens
+created: 2026-04-28
 type: species
 tags: [herbal, ethnobotany, legume, ayurveda, tryptamine, L-DOPA, medicinal-plant, permaculture]
 date: 2026-04-28

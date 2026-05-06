@@ -1,10 +1,12 @@
 ---
 title: Syncretic Entheogenic Folk Ceremonies and Community Churches
+created: 2026-04-28
 tags: [entheogens, shamanism, ayahuasca, peyote, iboga, religion, syncretism, indigenous-culture, community, ceremonial-practices]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Metzner, R. (1998). Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism. Journal of Psychoactive Drugs, 30(4), 381-390.
+type: concept
 ---
 
 # Syncretic Entheogenic Folk Ceremonies and Community Churches

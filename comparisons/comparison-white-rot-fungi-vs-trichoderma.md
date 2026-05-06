@@ -1,5 +1,6 @@
 ---
 title: "White Rot Fungi vs Trichoderma"
+created: 2026-04-28
 tags:
   - mycology
   - bioremediation
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # White Rot Fungi vs Trichoderma
 

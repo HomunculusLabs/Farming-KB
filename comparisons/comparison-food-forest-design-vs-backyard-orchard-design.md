@@ -1,9 +1,11 @@
 ---
 title: "Food Forest Design vs Backyard Orchard Design"
+created: 2026-04-28
 tags: [comparison, permaculture, food-production, fruit-trees, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Food Forest Design vs Backyard Orchard Design

@@ -1,5 +1,6 @@
 ---
 title: EMCDDA Hallucinogenic Mushroom Internet Shop Market Snapshot 2006
+created: 2026-04-28
 tags:
   - emcdda
   - magic-mushrooms
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Internet Shop Market Snapshot 2006
@@ -189,7 +191,6 @@ retail outlets remained the dominant distribution channel.
 - [[amanita-muscaria]]
 - [[amanita-pantherina]]
 - [[argyreia-nervosa]]
-
 - [[EMCDDA hallucinogenic mushroom emerging trend analysis]] for the full overview
 - [[EMCDDA hallucinogenic mushroom cultivation and growkit market]] for smartshop
   analysis

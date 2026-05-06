@@ -1,9 +1,11 @@
 ---
 title: "Winter Harvest Planting Schedule"
+created: 2026-04-28
 tags: [planting, calendar, succession, timing, winter-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
+type: concept
 ---
 
 # Winter Harvest Planting Schedule

@@ -1,10 +1,12 @@
 ---
 title: "Olive Mill Wastewater Fungal Treatment"
+created: 2026-04-28
 tags: [mycoremediation, olive-mill-wastewater, phenolic-degradation, white-rot-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   ["~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
+type: concept
 ---
 
 # Olive Mill Wastewater Fungal Treatment

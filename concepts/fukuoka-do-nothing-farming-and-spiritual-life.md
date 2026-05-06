@@ -87,6 +87,8 @@ The "do-nothing" approach is not laziness but a fundamental reorientation of hum
 
 ## See Also
 
+- [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]]
+
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 

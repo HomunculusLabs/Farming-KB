@@ -1,5 +1,6 @@
 ---
 title: How to Design a Chicken Tractor System
+created: 2026-04-28
 tags:
   - chicken-tractor
   - poultry-housing
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # How to Design a Chicken Tractor System
 A chicken tractor is a mobile, floorless enclosure that lets chickens

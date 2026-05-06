@@ -1,11 +1,13 @@
 ---
 title: "How Do I Grow King Oyster Mushrooms?"
+created: 2026-04-28
 tags: [query, mushroom-cultivation, king-oyster, pleurotus-eryngii, fruiting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
+type: query
 ---
 # How Do I Grow King Oyster Mushrooms?
 ## Short Answer

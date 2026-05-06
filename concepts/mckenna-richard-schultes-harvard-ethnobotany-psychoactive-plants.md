@@ -1,9 +1,11 @@
 ---
 title: Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants
+created: 2026-04-28
 tags: [ethnobotany, schultes, harvard, psychoactive-plants, dmt, mckenna, amazon, shamanism]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants

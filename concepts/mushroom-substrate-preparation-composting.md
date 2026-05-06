@@ -1,10 +1,12 @@
 ---
 title: Mushroom Substrate Preparation and Composting
+created: 2026-04-28
 tags: mycology, mushroom-cultivation, composting, agricultural-science,
       fungal-physiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+type: concept
 ---
 
 # Mushroom Substrate Preparation and Composting

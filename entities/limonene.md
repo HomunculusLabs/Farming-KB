@@ -1,5 +1,6 @@
 ---
 title: limonene
+created: 2026-04-28
 type: chemical
 tags: [terpene, cannabis, citrus, anti-inflammatory, mood-elevation]
 date: 2026-04-28

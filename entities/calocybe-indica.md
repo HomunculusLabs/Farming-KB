@@ -1,5 +1,6 @@
 ---
 title: 'Calocybe indica'
+created: 2026-04-28
 type: species
 tags: [fungi, edible-mushroom, tropical-cultivation, agaricales]
 date: 2026-04-28

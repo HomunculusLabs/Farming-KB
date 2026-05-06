@@ -1,5 +1,6 @@
 ---
 title: Brassinosteroid
+created: 2026-04-28
 type: chemical
 tags: [phytohormone, steroid, plant-growth-regulator, growth-promoting]
 date: 2026-04-28

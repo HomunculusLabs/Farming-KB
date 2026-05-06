@@ -1,10 +1,12 @@
 ---
 title: Anadenanthera Yopo and Cebil in Plants of the Gods
+created: 2026-04-28
 tags: [ethnobotany, anadenanthera, snuff, tryptamines, south-america]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+type: concept
 ---
 
 # Anadenanthera: Yopo and Cebil

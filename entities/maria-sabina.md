@@ -1,5 +1,6 @@
 ---
 title: María Sabina
+created: 2026-04-28
 type: person
 tags: [mazatec, curandera, mushroom-ceremony, entheogen, oaxaca]
 date: 2026-04-28

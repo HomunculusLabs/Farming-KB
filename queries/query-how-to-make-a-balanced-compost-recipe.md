@@ -1,9 +1,11 @@
 ---
 title: "How to Make a Balanced Compost Recipe"
+created: 2026-04-28
 tags: [query, composting, soil-health, organic-gardening, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Make a Balanced Compost Recipe

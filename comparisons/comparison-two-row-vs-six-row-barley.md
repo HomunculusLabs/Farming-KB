@@ -1,9 +1,11 @@
 ---
 title: "2-Row vs 6-Row Barley"
+created: 2026-04-28
 tags: [brewing, grains, malt, fermentation, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # 2-Row vs 6-Row Barley

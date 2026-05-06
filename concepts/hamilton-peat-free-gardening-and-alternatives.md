@@ -1,9 +1,11 @@
 ---
 title: "Peat-Free Gardening and Alternatives"
+created: 2026-04-28
 tags: [peat-free, growing-media, sustainability, organic-gardening, propagation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Peat-Free Gardening and Alternatives

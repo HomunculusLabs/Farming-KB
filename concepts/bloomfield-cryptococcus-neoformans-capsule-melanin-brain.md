@@ -1,5 +1,6 @@
 ---
 title: Cryptococcus neoformans Capsule Melanin and Brain Colonization
+created: 2026-04-28
 tags:
   - mycology
   - cryptococcus
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002), Chapter 2 "Insidious Killers"
+type: concept
 ---
 
 # Cryptococcus neoformans: Capsule, Melanin, and Brain Colonization

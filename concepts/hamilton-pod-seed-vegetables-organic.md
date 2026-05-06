@@ -1,5 +1,6 @@
 ---
 title: Pod and Seed Vegetables - Organic Methods
+created: 2026-04-28
 tags:
   - peas
   - beans
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Pod and Seed Vegetables - Organic Methods

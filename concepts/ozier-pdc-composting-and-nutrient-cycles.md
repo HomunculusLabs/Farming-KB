@@ -1,11 +1,13 @@
 ---
 title: Composting and Nutrient Cycles
+created: 2026-04-28
 tags: [permaculture, composting, nutrient-cycle, soil-building, 
 decomposition, compost-tea, aeration, organic-waste, landfill-diversion, 
 upcycling, fossil-fuel-dependency, excavant, stacking-functions]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Composting and Nutrient Cycles

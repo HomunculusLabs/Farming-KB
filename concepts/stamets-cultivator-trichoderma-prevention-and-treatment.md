@@ -1,10 +1,12 @@
 ---
 title: Trichoderma Prevention and Treatment
+created: 2026-04-28
 tags: [contamination, trichoderma, green-mold, disease-control, cultivation-problems]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # Trichoderma Prevention and Treatment

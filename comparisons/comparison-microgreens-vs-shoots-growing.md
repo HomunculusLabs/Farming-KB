@@ -1,5 +1,6 @@
 ---
 title: "Microgreens vs Shoots — Growing Methods Comparison"
+created: 2026-04-28
 tags: [microgreens, shoots, cut-and-come-again, growing-methods, indoor-farming, urban-agriculture, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -31,6 +32,7 @@ sources:
     author: "Johnny's Selected Seeds"
     url: "https://www.johnnyseeds.com/growers-library/seed-starting/shoots-microgreens"
     year: 2025
+type: comparison
 ---
 
 # Microgreens vs Shoots — Growing Methods Comparison

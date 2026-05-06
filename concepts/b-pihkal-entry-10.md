@@ -1,10 +1,12 @@
 ---
 title: B (Buscaline, 4-Butoxy-3,5-dimethoxyphenethylamine) - PIHKAL Entry #10
+created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, alkoxy-homologue, inactive-compound]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+type: concept
 ---
 
 # B (Buscaline)

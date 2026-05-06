@@ -1,9 +1,11 @@
 ---
 title: How to Use Beneficial Nematodes for Soil Pest Control
+created: 2026-04-28
 tags: [farming, pest-control, soil-health, biological-control, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How to Use Beneficial Nematodes for Soil Pest Control

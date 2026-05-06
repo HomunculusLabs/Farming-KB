@@ -1,5 +1,6 @@
 ---
 title: Soil Solarization vs Occultation
+created: 2026-04-28
 tags:
   - soil-solarization
   - occultation
@@ -11,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Soil Solarization vs Occultation

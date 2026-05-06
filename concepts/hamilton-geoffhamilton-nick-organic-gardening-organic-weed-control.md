@@ -1,9 +1,11 @@
 ---
 title: Organic Weed Control
+created: 2026-04-28
 tags: [weed-control, organic-gardening, mulching, hoeing, land-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Organic Weed Control

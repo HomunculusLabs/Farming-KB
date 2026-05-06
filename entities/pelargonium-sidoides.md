@@ -1,5 +1,6 @@
 ---
 title: Pelargonium sidoides
+created: 2026-04-28
 type: species
 tags:
   - south-african-geranium
@@ -145,3 +146,10 @@ Evidence supports faster symptom resolution in bacterial and viral tonsillophary
 ### Children
 EPs 7630 has been studied in children aged 1–12 years and demonstrates safety and efficacy at age-appropriate doses, making it one of the few evidence-based herbal options for pediatric respiratory infections.
 
+## See Also
+
+- [[history-of-mycology-timeline]]
+
+- [[herbal-medicine]]
+
+- [[herb-growing-guide]]

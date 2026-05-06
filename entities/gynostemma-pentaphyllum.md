@@ -1,5 +1,6 @@
 ---
 title: "Jiaogulan (Gynostemma pentaphyllum)"
+created: 2026-04-28
 type: species
 tags:
   - herbal-plant

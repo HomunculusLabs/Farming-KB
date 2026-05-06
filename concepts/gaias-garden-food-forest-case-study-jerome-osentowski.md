@@ -1,10 +1,12 @@
 ---
 title: Food Forest Case Study: Jerome Osentowski
+created: 2026-04-28
 tags: [permaculture, food-forest, case-study, high-altitude, forest-garden]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+type: concept
 ---
 
 # Food Forest Case Study: Jerome Osentowski

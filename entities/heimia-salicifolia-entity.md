@@ -1,5 +1,6 @@
 ---
 title: "Heimia salicifolia"
+created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, lythraceae, psychoactive, sinicuichi]
 date: 2026-04-28

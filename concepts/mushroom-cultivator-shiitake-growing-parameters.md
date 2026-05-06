@@ -1,10 +1,12 @@
 ---
 title: "Shiitake Growing Parameters from the Mushroom Cultivator"
+created: 2026-04-28
 tags: [mycology, shiitake, lentinus-edodes, mushroom-cultivator,
       species-profile, wood-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # mushroom cultivator shiitake growing parameters from the Mushroom Cultivator

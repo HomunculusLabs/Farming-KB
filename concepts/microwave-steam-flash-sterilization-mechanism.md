@@ -1,5 +1,6 @@
 ---
 title: Microwave Steam Flash Sterilization Mechanism
+created: 2026-04-28
 tags:
   - sterilization
   - microwaves
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md
+type: concept
 ---
 
 # Microwave Steam Flash Sterilization Mechanism

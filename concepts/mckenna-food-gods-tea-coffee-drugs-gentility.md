@@ -1,10 +1,12 @@
 ---
 title: "Tea, Coffee, and the Drugs of Gentility"
+created: 2026-04-28
 tags: [food-of-the-gods, tea, coffee, chocolate, caffeine, east-india-company, boston-tea-party, mercantilism, dominator-culture, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T. Food of the Gods, Chapter 11: Complacencies of the Peignoir
+type: concept
 ---
 
 # Tea, Coffee, and the Drugs of Gentility

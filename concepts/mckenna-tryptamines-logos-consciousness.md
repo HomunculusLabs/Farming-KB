@@ -1,10 +1,12 @@
 ---
 title: Tryptamine Hallucinogens and the Logos
+created: 2026-04-28
 tags: [tryptamines, DMT, psilocybin, consciousness, terence-mckenna, logos, entheogens, phenomenology, hyperspace]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # Tryptamine Hallucinogens and the Logos

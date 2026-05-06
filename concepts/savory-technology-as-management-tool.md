@@ -1,9 +1,11 @@
 ---
 title: "Technology as a Management Tool"
+created: 2026-04-28
 tags: [technology, holistic-management, tools, reductionism, decision-making]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Technology as a Management Tool

@@ -94,6 +94,8 @@ Source: raw/papers/carolina-mushrooms_08qxp.md
 
 ## Related
 
+- [[health-risks-of-hallucinogenic-mushrooms]]
+
 - [[hallucinogenic-mushroom-online-retail-markets]]
 
 - [[psilocybin-mushroom-identification]]

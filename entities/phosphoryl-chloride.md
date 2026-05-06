@@ -1,5 +1,6 @@
 ---
 title: "Phosphoryl Chloride (POCl3)"
+created: 2026-04-28
 type: chemical
 tags: [reagent, phosphorylation, organic-synthesis, industrial-chemical]
 date: 2026-04-28

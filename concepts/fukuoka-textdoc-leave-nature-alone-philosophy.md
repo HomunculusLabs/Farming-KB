@@ -1,10 +1,12 @@
 ---
 title: Leave Nature Alone - The Foundation of Non-Intervention
+created: 2026-04-28
 tags: [natural-farming, philosophy, non-intervention, ecology, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Leave Nature Alone

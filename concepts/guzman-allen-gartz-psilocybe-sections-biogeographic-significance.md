@@ -1,5 +1,6 @@
 ---
 title: Psilocybe Intraspecific Sections and Their Biogeographic Significance
+created: 2026-04-28
 tags:
   - psilocybe
   - taxonomy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+type: concept
 ---
 
 # Psilocybe Intraspecific Sections and Their Biogeographic Significance

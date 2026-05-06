@@ -1,9 +1,11 @@
 ---
 title: "Raised Beds vs Wicking Beds"
+created: 2026-04-28
 tags: [comparison, garden-design, water-management, soil, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Raised Beds vs Wicking Beds

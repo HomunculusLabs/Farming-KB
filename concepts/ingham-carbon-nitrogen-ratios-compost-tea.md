@@ -1,9 +1,11 @@
 ---
 title: Carbon-to-Nitrogen Ratios in Compost and Tea Brewing
+created: 2026-04-28
 tags: [C-N-ratio, compost, compost-tea, nutrient-balance, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+type: concept
 ---
 
 # Carbon-to-Nitrogen Ratios in Compost and Tea Brewing

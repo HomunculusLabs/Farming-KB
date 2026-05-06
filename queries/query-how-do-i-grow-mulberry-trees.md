@@ -1,5 +1,6 @@
 ---
 title: "How Do I Grow Mulberry Trees?"
+created: 2026-04-28
 tags: [mulberry, fruit-trees, tree-planting, pruning, propagation, query]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,6 +13,7 @@ sources:
   - "Permaculture Research Institute — Mulberry in Food Forests (permaculturenews.org)"
   - "North Carolina State Extension — Morus spp. (ncsu.edu)"
   - "Kew Royal Botanic Gardens — Morus alba, M. nigra, M. rubra (kew.org)"
+type: query
 ---
 
 # How Do I Grow Mulberry Trees?

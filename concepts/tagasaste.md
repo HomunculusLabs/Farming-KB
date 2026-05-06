@@ -1,10 +1,12 @@
 ---
 title: Tagasaste
+created: 2026-04-28
 tags: [permaculture, nitrogen-fixing, fodder, legume, pioneer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Tagasaste

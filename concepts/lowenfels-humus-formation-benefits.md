@@ -1,9 +1,11 @@
 ---
 title: "Humus Formation and Benefits"
+created: 2026-04-28
 tags: [soil-biology, organic-matter, humus, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
+type: concept
 ---
 
 Humus is the carbon-rich, coffee-colored, organic material that results from the

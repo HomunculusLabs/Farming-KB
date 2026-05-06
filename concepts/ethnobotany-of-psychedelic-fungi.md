@@ -1,5 +1,6 @@
 ---
 title: Ethnobotany of Psychedelic Fungi
+created: 2026-04-28
 tags:
   - ethnobotany
   - shamanism
@@ -11,6 +12,7 @@ updated: 2026-04-25
 sources:
   - a-golden-guide-to-hallucinogenic-plants.md
   - mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 The ethnobotany of psychedelic fungi encompasses the study of

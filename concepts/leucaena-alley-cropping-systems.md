@@ -1,9 +1,11 @@
 ---
 title: Leucaena Alley Cropping Systems
+created: 2026-04-28
 tags: [alley-cropping, leucaena, agroforestry, nitrogen-fixation, permaculture]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+type: concept
 ---
 
 # Leucaena Alley Cropping Systems

@@ -1,9 +1,11 @@
 ---
 title: "Composting Toilets vs Humanure Composting"
+created: 2026-04-28
 tags: [comparison, waste-management, sanitation, composting, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Composting Toilets vs Humanure Composting

@@ -1,9 +1,11 @@
 ---
 title: Rhizosphere Ecology vs Mycorrhizal Fungi
+created: 2026-04-28
 tags: [soil-biology, mycology, plant-microbe-interactions, rhizosphere, mycorrhizae]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Rhizosphere Ecology vs Mycorrhizal Fungi

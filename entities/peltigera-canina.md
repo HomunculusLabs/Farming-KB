@@ -1,5 +1,6 @@
 ---
 title: Peltigera canina
+created: 2026-04-28
 type: species
 tags: [lichen, ascomycete, hydrophobin, cyanolichen, epiphytic]
 date: 2026-04-28

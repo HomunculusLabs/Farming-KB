@@ -1,5 +1,6 @@
 ---
 title: Partnership and Dominator Models of Culture
+created: 2026-04-28
 tags:
   - anthropology
   - cultural theory
@@ -12,6 +13,7 @@ updated: 2026-04-28
 sources:
   - McKenna, T. (1992). Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books.
   - Eisler, R. (1987). The Chalice and the Blade: Our History, Our Future. Harper & Row.
+type: concept
 ---
 
 # Partnership and Dominator Models of Culture

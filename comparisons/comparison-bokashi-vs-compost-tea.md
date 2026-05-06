@@ -1,5 +1,6 @@
 ---
 title: "Bokashi vs Compost Tea"
+created: 2026-04-28
 tags:
   - soil-amendments
   - fermentation
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 [[permaculture]] Compost Tea

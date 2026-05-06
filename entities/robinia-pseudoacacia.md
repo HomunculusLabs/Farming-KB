@@ -1,152 +1,120 @@
 ---
-title: "Robinia pseudoacacia"
+title: Robinia pseudoacacia
+created: 2026-04-28
+updated: 2026-04-28
+date: 2026-04-28
 type: species
 tags:
   - permaculture
   - nitrogen-fixer
+  - food-forest
   - agroforestry
-  - bee-forage
-  - timber
+  - coppice
   - pioneer-species
-  - leguminous-tree
-date: 2026-04-28
-updated: 2026-04-28
+  - plant-systems
+  - pollinator
 sources:
-  - Boring, L.R. & Swank, W.T. (1984). "The Role of Black Locust
-    (Robinia pseudoacacia) in Forest Succession." Journal of Ecology,
-    72(3), 749-766.
-  - Hanover, J.W. (1992). "Shoot Invasiveness in Woody Legumes."
-    Forest Ecology and Management, 43(1-2), 237-247.
-  - Griggs, F.T. (1976). "Black Locust — A Multi-Use Tree Species."
-    USDA Forest Service General Technical Report NE-34.
-  - CABI Invasive Species Compendium. "Robinia pseudoacacia."
-    www.cabi.org/isc/datasheet/47941.
-  - Sinclair, T.R. & Loudat, J. (1995). "Robinia pseudoacacia."
-    Tree Physiology, Academic Press.
+  - Martin, J.L. & Sherman, R.E. (2013). "Black Locust." USDA Forest Service Silvics Manual.
+  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green.
+  - Mabberley, D.J. (2017). Mabberley's Plant-Book. Cambridge University Press.
+  - Rackham, O. (1986). The History of the Countryside. J.M. Dent & Sons.
 ---
-
 # Robinia pseudoacacia
 
-Robinia pseudoacacia, commonly known as black locust, is a fast-growing
-deciduous tree in the family Fabaceae native to the southeastern United
-States. It is among the most valuable nitrogen-fixing trees for temperate
-permaculture and agroforestry, prized for rapid growth, rot-resistant
-timber, exceptional nectar production, and soil rehabilitation on degraded
-sites.
-
-Introduced across Europe, Asia, and temperate regions worldwide since the
-17th century, black locust has naturalized far beyond its native range.
-Its dual identity as a highly useful agroforestry species and an invasive
-organism makes it one of the most debated trees in restoration ecology.
+**Black Locust** · **False Acacia** · **Yellow Locust** · **Post Locust**
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Division:** Angiospermae
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Faboideae
-- **Genus:** Robinia
-- **Species:** R. pseudoacacia L.
-
-### Synonyms
-
-- Robinia pseudoacacia var. pseudoacacia (autonym)
-- Robinia rectissima ("Shipmast locust" selected form)
-- Acacia pseudacacia L. (illegitimate, older literature only)
+Kingdom Plantae → Clade Eudicots → Order Fabales → Family Fabaceae → Subfamily Faboideae → Genus *Robinia* → Species *R. pseudoacacia*. Named by Linnaeus in 1753 for Jean Robin, royal gardener to Henri IV, who first cultivated the species in Europe from North American seed (1601). *Pseudoacacia* reflects resemblance to true acacia, which it is not closely related to.
 
 ## Morphology
 
-- **Height:** 12–25 m; occasionally to 30 m.
-- **Trunk:** 30–80 cm DBH, straight bole in forest conditions.
-- **Bark:** Dark brown to grey, deeply furrowed; young bark smooth,
-  greenish-brown with prominent lenticels.
-- **Spines:** Pairs of stipular spines (1–2 cm) at leaf nodes on young growth.
-- **Leaves:** Alternate, odd-pinnate, 20–35 cm, 7–19 ovate leaflets
-  (2–5 cm), blue-green above.
-- **Flowers:** Pendulous racemes 10–20 cm, fragrant white, May–June.
-  Extremely attractive to pollinators.
-- **Fruit:** Flattened legume 5–10 cm, 4–8 seeds, persists through winter.
-- **Roots:** Deep taproot with extensive laterals. Nitrogen-fixing nodules
-  via *Rhizobium*. Aggressive root-suckering.
+- **Growth habit**: Medium deciduous tree, 15–25 m tall (max. 40 m), 30–60 cm DBH; often multi-stemmed from coppice; narrow irregular crown
+- **Bark**: Deeply furrowed, dark brown to black; orange-brown inner bark; young stems with paired stipular thorns, 5–15 mm, sharp
+- **Leaves**: Pinnately compound, alternate, 20–35 cm long; 7–19 oval leaflets per leaf, 3–5 cm; dark green above, pale below; leaflets fold at night (nyctinasty)
+- **Flowers**: Pendulous racemes, 10–20 cm, fragrant white pea-like flowers, 15–20 mm; blooms May–June; highly attractive to bees
+- **Roots**: Extensive lateral and deep taproot; aggressive root suckering; nitrogen-fixing nodules with *Rhizobium* spp.
 
-## Distribution and Habitat
+## Habitat and Distribution
 
-Native to Appalachian and Ozark regions of the eastern U.S. (Pennsylvania
-to Georgia, west to Indiana and Arkansas). Introduced to Europe by Jean
-Robin circa 1601; now naturalized across temperate Europe, central Asia,
-China, Japan, Korea, New Zealand, and parts of South America.
+Native to the Appalachian region and Ozark Plateau (southern Pennsylvania to northern Georgia, west to Iowa). Widely naturalized across Europe, Asia, South America, Africa, Australia, New Zealand — invasive in parts of Europe and Japan. USDA Zones 4–9; extremely cold-hardy (-35 °C); drought-tolerant once established; intolerant of waterlogged soils. Prefers well-drained sandy loams to rocky soils, pH 5.0–7.5. Pioneer species on disturbed sites.
 
-A classic pioneer species colonizing disturbed sites, old fields, and road
-cuts. Thrives on acidic to neutral soils (pH 4.5–7.5), tolerates drought,
-low fertility, and urban pollution. Performs best on well-drained loams but
-survives on thin rocky soils.
+## Nitrogen Fixation
 
-## Cultivation
-
-- **Propagation:** Seed (scarification required), root cuttings, tissue
-  culture. Natural regeneration via root-suckering.
-- **Growth rate:** Extremely fast; 1.5–3 m/year in first decade. Harvestable
-  timber (20–30 cm DBH) in 25–40 years.
-- **Spacing:** 2–3 m coppice; 4–6 m timber; 1–1.5 m biomass plantation.
-- **Coppicing:** Excellent; regrows vigorously from cut stumps with
-  rotation cycles of 5–15 years.
-- **Nitrogen fixation:** 50–200 kg N/ha/year depending on stand density —
-  one of the highest N-fixing temperate trees.
+Forms symbiotic relationships with *Rhizobium* spp., converting atmospheric N₂ to ammonia: 50–150 kg N/ha/year (high for woody species). Nodules most active during spring–summer growth. Fixed nitrogen transfers to adjacent plants through leaf litter decomposition, root exudation, and mycorrhizal networks. Leaf litter has high N content (2.5–3.5%), decomposes rapidly.
 
 ## Wood Properties
 
-Black locust produces one of the most durable temperate timbers. Janka
-hardness 1,700 lbf; Class 1 (very durable) decay resistance, comparable
-to tropical hardwoods.
+Janka hardness 1,700 lbf; specific gravity 0.66–0.73; modulus of rupture 14,100 psi. Among the most durable naturally rot-resistant timbers in North America — comparable to old-growth redwood. Outdoor lifespan 25–50+ years in ground contact without treatment. Very high heat output as firewood (27–29 million BTU/cord).
 
-- **Outdoor:** Fence posts (30+ year lifespan), decking, boardwalks, pergolas.
-- **Indoor:** Flooring, furniture, turning, boat building.
-- **Fuelwood:** High energy density (~21 MJ/kg dry), excellent firewood.
-- **Biomass:** 10–15 t/ha/year dry matter in short-rotation coppice.
+## Traditional and Modern Uses
 
-## Apiculture
+- **Fence posts**: Premier material — lasts 25–50+ years in ground contact without treatment; traditional across Appalachia
+- **Construction**: Beams, joists, flooring; historically used for shipbuilding and wagon hubs
+- **Honey**: Black locust honey is a premier monofloral — clear, very light, extremely sweet, slow to crystallize; high fructose (40%+)
+- **Mine reclamation**: Widely planted on coal spoil banks; N fixation and rapid growth stabilize disturbed sites
+- **Erosion control**: Extensive root system stabilizes slopes and streambanks; effective windbreak within 5–8 years
 
-Premier temperate honey tree. Flowers produce abundant nectar (40–50% sucrose)
-yielding light, sweet monofloral honey ("acacia honey" in Europe). Hive yields
-exceed 30 kg/colony during 2–3 week bloom. Critical spring nectar source
-for colony buildup.
+## Bioactive Compounds and Toxicity
 
-## Ecological Role
+### Toxic Constituents
 
-- **Nitrogen enrichment:** Fixes N via litterfall, facilitating succession
-  of other woody species.
-- **Pioneer function:** Rapidly colonizes disturbed sites, creating shade
-  and organic matter for climax species.
-- **Wildlife:** Seeds for quail, turkey, small mammals; cavities for
-  nesting and denning.
-- **Pollinators:** Major spring nectar source for honeybees, bumblebees,
-  native bees.
+- **Robin (robitin)**: Toxic lectin in bark, seeds, and leaves; hemagglutinating; inhibits protein synthesis
+- **Phasin/fasin**: Hemagglutinins in seeds and inner bark
+- **Robinin**: Flavonoid glycoside with diuretic properties
+
+### Toxicity Profile
+
+Seeds and inner bark are most toxic — ingestion causes nausea, vomiting, abdominal pain, weakness; can be fatal in children and livestock. Leaves are mildly toxic; cattle and horses poisoned by browsing (especially wilted leaves). Flowers are generally considered safe — traditionally used in teas and fritters. Honey is non-toxic (lectins don't transfer to nectar). **Horses are the most susceptible livestock species** — avoid planting in pastures with horses.
 
 ## Permaculture Applications
 
-- **Nitrogen-fixing canopy tree:** Food forest upper canopy for shade, N
-  input, and windbreaks.
-- **Alley cropping:** Timber component in European agroforestry with
-  grain, vegetable, or pasture inter-crops.
-- **Erosion control:** Deep roots stabilize slopes and riparian zones;
-  widely planted for mine reclamation.
-- **On-farm timber:** Rot-resistant posts eliminate need for treated lumber.
-- **Livestock browse:** High-protein foliage but contains toxic lectins —
-  must be wilted or ensiled before feeding.
-- **Coppice woodlot:** Sustainable fuelwood, posts, and mulch.
+### Food Forest Integration
 
-## Invasiveness
+- **Nitrogen-fixing canopy tree**: High N fixation supports understory productivity; ideal canopy-layer N contributor
+- **Pioneer function**: Establishes rapidly on degraded sites, improving soil for subsequent climax species
+- **Coppice system**: Regrows vigorously from cut stumps; 3–8 year rotation produces posts, fuelwood, and mulch
+- **Chop-and-drop**: N-rich leaf litter acts as green mulch for understory plants
+- **Pollinator support**: Late spring nectar source during critical forage gap; supports bee populations for crop pollination
 
-Classified invasive in parts of Europe, Japan, New Zealand, Argentina.
-Management: root barriers, regular coppicing, avoid near natural areas.
-## Related Species
+### Polyculture and Management
 
-- **R. neomexicana (New Mexico locust):** Shrubbier, pink flowers, 3–6 m.
-- **R. viscosa (clammy locust):** Sticky shoots, rose-pink flowers.
-- **R. hispida (bristly locust):** Ornamental, erosion control use.
-- **Gleditsia triacanthos (honey locust):** Unrelated N-fixing legume
-  with edible pods, distinct wood.
-- [[broussonetia-papyrifera]]
-- [[miscanthus-sinensis]]
+Understory partners: berry bushes (currants, elderberry), nitrogen-demanding fruit trees, shade-tolerant herbs. Significant N enrichment within drip line through litter and root exudation. Thorns provide natural deer/livestock protection for sensitive understory species.
+
+**Invasiveness management**: Root suckering can be aggressive — plant with root barriers or mow suckers annually. Best suited to zone 3–4 in permaculture designs, not zone 1–2 intensive gardens. Consider non-suckering N-fixing alternatives (*Caragana arborescens*, *Amorpha fruticosa*) for small spaces.
+
+## Propagation
+
+- **Seed**: Scarify (hot water 24h or acid), cold stratify 60–90 days; 60–80% germination; seedlings grow 60–120 cm first year
+- **Root cuttings**: 15–20 cm sections planted horizontally in spring; very reliable, clones parent characteristics
+- **Suckers**: Transplant in early spring before bud break; high success rate
+- **Coppice**: Established trees managed indefinitely through rotation
+
+## Coppice Management System
+
+Black locust is one of the premier coppice species for temperate permaculture systems. A well-managed coppice stool can be productive for 50+ years.
+
+### Rotation Schedules
+
+- **Short rotation** (3–5 years): Small-diameter poles for bean trellises, garden stakes, basketry; biomass for chip mulch
+- **Medium rotation** (5–8 years): Fence posts, tool handles, fuelwood; 5–10 cm diameter at harvest
+- **Long rotation** (8–15 years): Construction timber, larger posts, firewood; 15–25 cm diameter
+
+### Management Guidelines
+
+- Cut stools in late winter during dormancy; cut at 10–15 cm above ground on a slight angle to shed water
+- Leave 2–4 healthy shoots per stool for first rotation to establish root system
+- Subsequent rotations can support 8–15 shoots depending on stool size
+- Apply wood chip mulch around stools after cutting; nitrogen from the tree's own leaf litter sustains the cycle
+- Stools declining in vigor can be rejuvenated by cutting lower or replanting
+
+### Yield Expectations
+
+A mature 25-year-old coppice stool can produce 50–100 kg of fresh wood per harvest cycle on a 5-year rotation. At 500 stools/ha with 5-year rotation, that's 5–10 tonnes of air-dried wood per hectare per year — competitive with dedicated short-rotation forestry species.
+
+## See Also
+
+- [[biological-nitrogen-fixation-agriculture]]
+- [[food-forest]]
+- [[mollison-designers-fuelwood-forestry-coppice-pollard]]
+- [[agroforestry]]

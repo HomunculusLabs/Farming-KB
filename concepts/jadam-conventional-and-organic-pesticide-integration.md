@@ -1,9 +1,11 @@
 ---
 title: JADAM Conventional and Organic Pesticide Integration
+created: 2026-04-28
 tags: [jadam, pesticide-integration, transition-farming, cost-reduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+type: concept
 ---
 
 # JADAM Conventional and Organic Pesticide Integration

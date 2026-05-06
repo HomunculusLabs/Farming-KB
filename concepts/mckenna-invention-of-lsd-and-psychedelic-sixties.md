@@ -1,10 +1,12 @@
 ---
 title: The Invention of LSD and the Psychedelic Sixties
+created: 2026-04-28
 tags: [lsd, hofmann, psychedelic, history, 1960s, psychopharmacology, huxley, cia, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # The Invention of LSD and the Psychedelic Sixties

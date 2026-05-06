@@ -1,9 +1,11 @@
 ---
 title: "Monotub vs PF Tek"
+created: 2026-04-28
 tags: [comparison, mushrooms, cultivation, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Monotub vs PF Tek

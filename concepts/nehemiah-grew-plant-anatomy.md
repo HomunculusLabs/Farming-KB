@@ -1,5 +1,6 @@
 ---
 title: Nehemiah Grew and the Birth of Plant Anatomy
+created: 2026-04-28
 tags:
   - botany
   - plant-anatomy
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md
+type: concept
 ---
 
 # Nehemiah Grew and the Birth of [[cannabis-plant-anatomy]]

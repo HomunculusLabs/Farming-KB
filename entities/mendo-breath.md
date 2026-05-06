@@ -1,5 +1,6 @@
 ---
 title: "Mendo Breath"
+created: 2026-04-28
 type: strain
 tags:
   - cannabis
@@ -153,6 +154,8 @@ euphoria that gradually yields to profound body relaxation. Peak effects at
   inhalation. Exhale reveals earthy, woody, and slightly minty undertones.
 
 ## See Also
+
+- [[mendo-breath-entity]]
 
 - [[botrytis-cinerea]]
 - [[dom]]

@@ -1,5 +1,6 @@
 ---
 title: Lactobacillus casei
+created: 2026-04-28
 type: species
 tags: [lactic-acid-bacteria, fermentation, probiotics, dairy, indigenous-microorganisms]
 date: 2026-04-28

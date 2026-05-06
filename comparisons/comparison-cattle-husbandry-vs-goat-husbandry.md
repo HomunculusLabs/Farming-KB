@@ -1,9 +1,11 @@
 ---
 title: "Cattle Husbandry vs Goat Husbandry"
+created: 2026-04-28
 tags: [comparison, livestock, homesteading, animal-husbandry, pasture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Cattle Husbandry vs Goat Husbandry

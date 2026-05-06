@@ -1,10 +1,12 @@
 ---
 title: "Cucumber Growing Organic"
+created: 2026-04-28
 tags: [cucumber, vegetable-growing, greenhouse, squash-family]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - hamilton-geoffhamilton-nick_-organic-gardening.md
+type: concept
 ---
 
 # Cucumber Growing Organic

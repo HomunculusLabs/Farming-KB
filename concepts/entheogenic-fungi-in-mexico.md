@@ -1,9 +1,11 @@
 ---
 title: Entheogenic Fungi in Mexico
+created: 2026-04-28
 tags: [ethnobotany, mycology, mexico, psilocybin, indigenous-cultures]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+type: concept
 ---
 
 # Entheogenic Fungi in Mexico

@@ -1,10 +1,12 @@
 ---
 title: Reishi (Ganoderma lucidum)
+created: 2026-04-28
 tags: [mushrooms, fungi, medicinal, cultivation, traditional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+type: concept
 ---
 
 # Reishi (Ganoderma lucidum)

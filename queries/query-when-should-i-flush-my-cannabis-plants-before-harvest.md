@@ -1,9 +1,11 @@
 ---
 title: "When Should I Flush My Cannabis Plants Before Harvest?"
+created: 2026-04-28
 tags: [query, cannabis, harvesting, nutrients, flushing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # When Should I Flush My Cannabis Plants Before Harvest?

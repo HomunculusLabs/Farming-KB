@@ -1,5 +1,6 @@
 ---
 title: Hotel Building Model of Harvest Yields
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # The Hotel Building Model of Harvest Yields

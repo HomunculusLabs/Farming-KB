@@ -1,5 +1,6 @@
 ---
 title: 5-MeO-MiPT
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, indole-alkaloid, research-chemical, shulgin]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Bubba Kush"
+created: 2026-04-28
 type: strain
 tags:
   - bubba-kush
@@ -133,6 +134,8 @@ spasms, anxiety reduction (low-moderate doses), appetite stimulation, stress rel
 - **Black Bubba:** Bubba Kush × Black Domina; extremely potent, nearly pure indica.
 
 ## See Also
+
+- [[kush-mints]]
 
 - [[cannabis-for-chronic-pain]]
 - [[northern-lights]]

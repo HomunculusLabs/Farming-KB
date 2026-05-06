@@ -1,9 +1,11 @@
 ---
 title: Gaian Psychotherapy and Entheogenic Plants
+created: 2026-04-28
 tags: [gaia-theory, psychotherapy, entheogens, ecology, consciousness]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/the-psilocybin-solution-by-simon-g-powell.md"]
+type: concept
 ---
 
 # Gaian Psychotherapy and Entheogenic Plants

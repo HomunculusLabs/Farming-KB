@@ -1,5 +1,6 @@
 ---
 title: "How to Start a Saffron Farm: Complete Beginner Guide"
+created: 2026-04-28
 tags: [saffron, farming-guide, startup, specialty-crops, business-planning, query]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - "Saffron: Science, Technology and Health — Mohammad Bagheri (2020)"
   - "University of Vermont Extension: Saffron Production Guide (2022)"
   - "FAO Technical Guide: Saffron Cultivation Practices (2021)"
+type: query
 ---
 
 # How to Start a Saffron Farm: Complete Beginner Guide

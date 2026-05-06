@@ -1,5 +1,6 @@
 ---
 title: Mushroom Rescue Modules for Disaster Relief
+created: 2026-04-28
 tags:
   - mycoremediation
   - disaster-relief
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - papers/cotter-organic-mushroom-farming-mycoremediation.md
+type: concept
 ---
 
 # Mushroom Rescue Modules for Disaster Relief

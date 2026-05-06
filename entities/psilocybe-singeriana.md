@@ -1,5 +1,6 @@
 ---
 title: Psilocybe singeriana
+created: 2026-04-28
 type: species
 tags: [psilocybin, agaric, tropical, hallucinogenic, fungi]
 date: 2026-04-28

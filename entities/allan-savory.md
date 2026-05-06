@@ -1,5 +1,6 @@
 ---
 title: Allan Savory
+created: 2026-04-28
 type: person
 tags: [permaculture, holistic-management, regenerative-agriculture, grazing-ecology, rangeland-restoration, zimbabwe, environmentalist, livestock]
 date: 2026-04-28

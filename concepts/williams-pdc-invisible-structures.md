@@ -1,9 +1,11 @@
 ---
 title: "Invisible Structures"
+created: 2026-04-28
 tags: [permaculture, invisible-structures, social-design, patterns]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+type: concept
 ---
 
 # Invisible Structures

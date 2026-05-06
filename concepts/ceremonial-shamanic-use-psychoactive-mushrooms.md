@@ -1,9 +1,11 @@
 ---
 title: Ceremonial and Shamanic Use of Psychoactive Mushrooms
+created: 2026-04-28
 tags: [ceremonial-use, shamanism, ethnomycology, Wasson, Mazatec, indigenous]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Ceremonial and Shamanic Use of Psychoactive Mushrooms

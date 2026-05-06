@@ -1,5 +1,6 @@
 ---
 title: Robert Connell Clarke
+created: 2026-04-28
 type: person
 subtype: agronomist and ethnobotanist
 aliases:

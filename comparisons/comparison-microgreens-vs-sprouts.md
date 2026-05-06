@@ -1,5 +1,6 @@
 ---
 title: Microgreens vs. Sprouts
+created: 2026-04-28
 tags:
   - microgreens
   - sprouts
@@ -16,6 +17,7 @@ sources:
   - https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5343534.pdf
   - https://www.fda.gov/food/people-risk-foodborne-illness/sprouts-food-safety
   - https://extension.umn.edu/hydroponics-and-aquaponics/growing-microgreens
+type: comparison
 ---
 
 # Microgreens vs. Sprouts

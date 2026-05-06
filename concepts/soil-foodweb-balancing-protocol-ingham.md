@@ -1,5 +1,6 @@
 ---
 title: Soil Foodweb Balancing Protocol (Ingham Method)
+created: 2026-04-28
 tags:
   - soil-foodweb
   - compost-tea
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+type: concept
 ---
 
 # Soil Foodweb Balancing Protocol (Ingham Method)

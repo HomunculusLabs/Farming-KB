@@ -1,5 +1,6 @@
 ---
 title: "Rosmarinus officinalis"
+created: 2026-04-28
 type: species
 tags: [species, herbal-plant, permaculture, lamiaceae, culinary, medicinal, evergreen, drought-tolerant, pollinator]
 date: 2026-04-28

@@ -1,9 +1,11 @@
 ---
 title: "EMCDDA Hallucinogenic Mushrooms Emerging Trend Europe"
+created: 2026-04-28
 tags: [emcdda, psilocybin, drug-policy, prevalence, europe, smartshop, emerging-trends, public-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushrooms Emerging Trend Europe

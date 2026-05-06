@@ -1,9 +1,11 @@
 ---
 title: "Broadscale Urban Restoration and Watershed Repair"
+created: 2026-04-28
 tags: [urban-permaculture, watershed, restoration, swales, erosion-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
+type: concept
 ---
 
 # Broadscale Urban Restoration and Watershed Repair

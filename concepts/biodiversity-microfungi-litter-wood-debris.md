@@ -1,9 +1,11 @@
 ---
 title: "Microfungi on Litter and Wood Debris"
+created: 2026-04-28
 tags: [mycology, microfungi, leaf-litter, wood-decay, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+type: concept
 ---
 
 # Microfungi on Litter and Wood Debris

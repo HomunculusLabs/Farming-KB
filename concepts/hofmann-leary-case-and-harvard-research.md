@@ -1,9 +1,11 @@
 ---
 title: "The Case of Dr. Leary: Harvard Research and Aftermath"
+created: 2026-04-28
 tags: [lsd, leary, hofmann, harvard, psychedelic-movement, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+type: concept
 ---
 
 # The Case of Dr. Leary: Harvard Research and Aftermath

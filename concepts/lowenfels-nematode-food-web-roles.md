@@ -1,5 +1,6 @@
 ---
 title: Nematode Roles in the Soil Food Web
+created: 2026-04-28
 tags:
   - nematodes
   - soil-food-web
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+type: concept
 ---
 
 # Nematode Roles in the Soil Food Web

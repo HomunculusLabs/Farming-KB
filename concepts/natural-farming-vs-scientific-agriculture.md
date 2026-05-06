@@ -1,5 +1,6 @@
 ---
 title: Natural Farming vs Scientific Agriculture
+created: 2026-04-28
 tags: [natural-farming, scientific-agriculture, philosophy, masanobu-fukuoka, ecology, green-philosophy]
 date: 2026-04-28
 updated: 2026-04-28
@@ -7,6 +8,7 @@ sources:
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "Preface, 14-32, 355-465, 2585-2680"
+type: concept
 ---
 
 # Natural Farming vs Scientific Agriculture

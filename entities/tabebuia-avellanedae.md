@@ -1,5 +1,6 @@
 ---
 title: "Tabebuia avellanedae"
+created: 2026-04-28
 type: species
 tags:
   - plants

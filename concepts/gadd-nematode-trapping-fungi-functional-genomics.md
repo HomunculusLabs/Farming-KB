@@ -1,10 +1,12 @@
 ---
 title: Functional Genomics of Nematode-Trapping Fungi
+created: 2026-04-28
 tags: [mycology, nematophagous-fungi, functional-genomics, microarrays, predator-prey]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
 ---
 
 Nematode-trapping fungi are soil-dwelling predators that capture and

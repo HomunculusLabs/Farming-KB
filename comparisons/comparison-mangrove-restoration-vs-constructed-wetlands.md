@@ -1,5 +1,6 @@
 ---
 title: "Mangrove Restoration vs Constructed Wetlands"
+created: 2026-04-28
 tags: [mangroves, constructed-wetlands, coastal-restoration, wastewater-treatment, wetland-ecology, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Vymazal, J. (2011). Constructed Wetlands for Wastewater Treatment: Five Decades of Experience. Environmental Science & Technology, 45(1), 61–69."
   - "Spalding, M. et al. (2010). World Atlas of Mangroves. Earthscan/Routledge."
   - "Donato, D.C. et al. (2011). Mangroves Among the Most Carbon-Rich Forests in the Tropics. Nature Geoscience, 4, 293–297."
+type: comparison
 ---
 
 # Mangrove Restoration vs Constructed Wetlands
@@ -118,3 +120,8 @@ In permaculture and ecological design contexts, both approaches offer valuable t
 
 See also: [[singh-constructed-wetlands-fungal-wastewater-treatment]] | [[dighton-fungi-mangrove-coastal-ecosystems]]
 
+## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
+- [[constructed-wetlands-wastewater-treatment]]
+- [[comparison-greywater-vs-constructed-wetland]]

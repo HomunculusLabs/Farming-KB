@@ -1,9 +1,11 @@
 ---
 title: "No-Till vs Living Soil Cannabis"
+created: 2026-04-28
 tags: [cannabis, soil, no-till, living-soil, organic, comparison]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # No-Till vs [[cannabis-living-soil-guide]] Cannabis

@@ -1,5 +1,6 @@
 ---
 title: "AMF Nematode Interactions"
+created: 2026-04-28
 tags:
   - mycorrhizae
   - nematology
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "symbiotic-fungi.md"
+type: concept
 ---
 
 # AMF Nematode Interactions

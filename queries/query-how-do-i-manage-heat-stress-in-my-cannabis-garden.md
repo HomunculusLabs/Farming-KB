@@ -1,9 +1,11 @@
 ---
 title: "How Do I Manage Heat Stress in My Cannabis Garden?"
+created: 2026-04-28
 tags: [query, cannabis, environment, stress-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Manage Heat Stress in My Cannabis Garden?

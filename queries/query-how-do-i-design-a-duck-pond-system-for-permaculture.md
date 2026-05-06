@@ -1,9 +1,11 @@
 ---
 title: "How Do I Design a Duck Pond System for Permaculture?"
+created: 2026-04-28
 tags: [query, permaculture, aquaculture, integrated-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Design a Duck Pond System for Permaculture?

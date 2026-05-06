@@ -1,5 +1,6 @@
 ---
 title: Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
+created: 2026-04-28
 tags:
   - psilocybin
   - psilocin
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+type: concept
 ---
 
 # Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms

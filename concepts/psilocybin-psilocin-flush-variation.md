@@ -1,5 +1,6 @@
 ---
 title: "Psilocybin and Psilocin Variation Across Flushes in Psilocybe cubensis"
+created: 2026-04-28
 tags:
   - psilocybin
   - psilocin
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bigwood, J. & Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+type: concept
 ---
 
 # Psilocybin and Psilocin Variation Across Flushes in [[Psilocybe cubensis]]
@@ -111,6 +113,8 @@ Additionally, the study did not assess the effect of drying method on alkaloid p
 Bigwood and Beug (1982) provided the first controlled evidence that alkaloid content in [[Psilocybe cubensis]] is not uniform across flushes. The key findings are that [[psilocin]] follows a bell-shaped curve peaking at the fourth flush while [[psilocybin]] remains variable without a clear trend, that caps are roughly twice as potent as stems for psilocybin, and that street samples exhibit tenfold variability in potency. Together, these results demonstrate that dry weight alone is an unreliable proxy for [[psychedelic dose]].
 
 ## See Also
+
+- [[psilocybin-psilocin-flush-accumulation-patterns]]
 
 - [[psilocybin-variation-across-flushes]]
 

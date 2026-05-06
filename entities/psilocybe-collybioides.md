@@ -1,5 +1,6 @@
 ---
 title: Psilocybe collybioides
+created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, tasmania, entheogenic, agaricales, wood-inhabiting]
 date: 2026-04-28

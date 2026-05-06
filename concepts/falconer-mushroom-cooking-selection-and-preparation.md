@@ -1,5 +1,6 @@
 ---
 title: Falconer Mushroom Cooking Selection and Preparation
+created: 2026-04-28
 tags:
   [mushroom-cultivation, victorian-cooking, food-preparation, mushroom-identification, kitchen-skills]
 date: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   [
     /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
   ]
+type: concept
 ---
 
 # Selecting and Preparing Mushrooms for Cooking

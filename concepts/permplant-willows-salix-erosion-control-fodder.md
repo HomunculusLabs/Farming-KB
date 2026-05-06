@@ -1,5 +1,6 @@
 ---
 title: Willows for Erosion Control and Fodder in Permaculture
+created: 2026-04-28
 tags:
   - permaculture
   - erosion-control
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Willows for Erosion Control and Fodder in Permaculture

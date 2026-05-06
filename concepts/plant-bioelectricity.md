@@ -1,9 +1,11 @@
 ---
 title: "Plant Bioelectricity"
+created: 2026-04-28
 tags: [bioelectricity, plant-electricity, galvanic-response, cellular-consciousness, bioelectric-field]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Plant Bioelectricity

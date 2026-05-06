@@ -1,5 +1,6 @@
 ---
 title: Fungal Toxins as Insecticides
+created: 2026-04-28
 tags:
   - mycology
   - chemical-ecology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)"
+type: concept
 ---
 
 # Fungal Toxins as Insecticides
@@ -85,3 +87,9 @@ The black mold *Stachybotrys chartarum* produces macrocyclic trichothecenes, myc
 The insecticide hypothesis reflects a broader principle in chemical ecology: most secondary metabolites produced by fungi likely evolved for ecological interactions within the fungal community or with their most intimate associates (insects, nematodes, bacteria), not for their effects on large vertebrate animals. Humans are collateral damage in chemical wars fought at the microscopic scale.
 
 This perspective also has practical implications. Understanding the true ecological function of fungal toxins could guide the development of new insecticides — see [[topics/entomopathogenic-fungi-and-biological-pest-control|entomopathogenic fungi and biological pest control]] — inform risk assessment of mycotoxin exposure, and explain why some fungi produce compounds with potent pharmaceutical activities (antibiotics, immunosuppressants) that have nothing to do with their apparent function in nature.
+
+## See Also
+
+- [[staycare-fungal-degradation-of-ddt-and-organochlorine-insecticides]]
+- [[fungal-toxins-and-poisonous-mushrooms]]
+- [[fungal-toxins-reference]]

@@ -1,10 +1,12 @@
 ---
 title: Dominator Culture and Suppression of Ecstasy
+created: 2026-04-28
 tags: [mckenna, dominator-culture, ecstasy, shamanism, prohibition, 
 partnership, patriarchy, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
+type: concept
 ---
 
 # Dominator Culture and Suppression of Ecstasy

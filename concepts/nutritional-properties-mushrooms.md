@@ -1,10 +1,12 @@
 ---
 title: Nutritional Properties of Mushrooms
+created: 2026-04-28
 tags: [mycology, nutrition, health, food, mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
+type: concept
 ---
 
 # Nutritional Properties of Mushrooms

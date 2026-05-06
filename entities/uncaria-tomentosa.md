@@ -1,5 +1,6 @@
 ---
 title: "Uncaria tomentosa"
+created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, rubiaceae, herbal, medicinal, amazonian]
 date: 2026-04-28

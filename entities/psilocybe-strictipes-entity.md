@@ -1,9 +1,11 @@
 ---
 title: "Psilocybe strictipes"
+created: 2026-04-28
 tags: [species, fungi, psilocybin-mushroom, psychedelic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+type: entity
 ---
 
 # Psilocybe strictipes

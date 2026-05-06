@@ -1,9 +1,11 @@
 ---
 title: "How to Increase Cannabis Yield"
+created: 2026-04-28
 tags: [query, cannabis, yield, optimization, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Increase Cannabis Yield

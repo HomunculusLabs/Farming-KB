@@ -1,5 +1,6 @@
 ---
 title: Alkaloids vs Flavonoids vs Terpenes
+created: 2026-04-28
 tags: [phytochemistry, alkaloids, flavonoids, terpenes, medicinal-plants, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
     url: https://www.sciencedirect.com/journal/phytochemistry
   - title: Alkaloids: Biochemistry and Ecology
     url: https://link.springer.com/book/10.1007/978-3-319-42940-0
+type: comparison
 ---
 
 # Alkaloids vs Flavonoids vs Terpenes

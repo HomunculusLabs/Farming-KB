@@ -1,5 +1,6 @@
 ---
 title: Forest Management and Tree Products
+created: 2026-04-28
 tags:
   - permaculture
   - forestry
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - bill-mollison-permaculture-design-course.md
+type: concept
 ---
 
 # Forest Management and Tree Products

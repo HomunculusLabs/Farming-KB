@@ -1,5 +1,6 @@
 ---
 title: How Does Spirulina Compare to Other Protein Sources for Homestead Use?
+created: 2026-04-28
 tags:
   - protein-sources
   - spirulina
@@ -14,6 +15,7 @@ sources:
   - [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]
   - [[jadam-livestock-integration-and-manure-management]]
   - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
+type: query
 ---
 
 # How Does Spirulina Compare to Other Protein Sources for Homestead and Small-Scale Production?

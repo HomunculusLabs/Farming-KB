@@ -1,5 +1,6 @@
 ---
 title: Sacramental Peyote and the Native American Church
+created: 2026-04-28
 tags:
   - law
   - religion
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+type: concept
 ---
 
 # Sacramental Peyote and the Native American Church

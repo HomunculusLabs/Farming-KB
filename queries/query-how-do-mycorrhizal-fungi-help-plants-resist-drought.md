@@ -1,9 +1,11 @@
 ---
 title: "How Do Mycorrhizal Fungi Help Plants Resist Drought"
+created: 2026-04-28
 tags: [query, mycology, soil-science, plant-health, drought]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do Mycorrhizal Fungi Help Plants Resist Drought

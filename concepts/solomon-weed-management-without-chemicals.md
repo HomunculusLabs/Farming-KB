@@ -1,10 +1,12 @@
 ---
 title: "Weed Management Without Chemicals"
+created: 2026-04-28
 tags: [weeds, organic-gardening, cultivation, garden-maintenance]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Weed Management Without Chemicals

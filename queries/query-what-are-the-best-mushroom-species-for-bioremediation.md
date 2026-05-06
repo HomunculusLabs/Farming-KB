@@ -1,9 +1,11 @@
 ---
 title: "What Are the Best Mushroom Species for Bioremediation?"
+created: 2026-04-28
 tags: [query, mycoremediation, bioremediation, mushrooms, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are the Best Mushroom Species for Bioremediation?

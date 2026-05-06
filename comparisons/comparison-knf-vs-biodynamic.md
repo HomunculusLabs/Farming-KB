@@ -1,9 +1,11 @@
 ---
 title: Korean Natural Farming vs Biodynamic Agriculture
+created: 2026-04-28
 tags: [knf, biodynamic, natural-farming, organic-farming, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 # Korean Natural Farming vs Biodynamic Agriculture
 Korean Natural Farming (KNF) and biodynamic agriculture are two of the

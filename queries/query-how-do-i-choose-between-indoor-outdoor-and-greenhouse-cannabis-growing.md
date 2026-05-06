@@ -1,9 +1,11 @@
 ---
 title: "How Do I Choose Between Indoor, Outdoor, and Greenhouse Cannabis Growing?"
+created: 2026-04-28
 tags: [query, cannabis, growing-methods, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How Do I Choose Between Indoor, Outdoor, and Greenhouse Cannabis Growing?

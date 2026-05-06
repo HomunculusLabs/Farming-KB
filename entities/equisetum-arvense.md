@@ -1,5 +1,6 @@
 ---
 title: "Equisetum arvense"
+created: 2026-04-28
 type: species
 tags: [herbal-plant, medicinal, silica, fern-ally, equisetaceae, permaculture, accumulator]
 date: 2026-04-28

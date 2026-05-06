@@ -1,5 +1,6 @@
 ---
 title: "Fungi in Freshwater Aquatic Habitats"
+created: 2026-04-28
 tags:
   - freshwater-fungi
   - aquatic-ecology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+type: concept
 ---
 
 # Fungi in Freshwater Aquatic Habitats

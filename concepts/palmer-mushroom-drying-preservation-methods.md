@@ -1,11 +1,13 @@
 ---
 title: Palmer on Mushroom Drying and Preservation Methods
+created: 2026-04-28
 tags: [food-preservation, drying, mushroom-storage, nineteenth-century,
   palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md
+type: concept
 ---
 
 # Palmer on Mushroom Drying and Preservation Methods

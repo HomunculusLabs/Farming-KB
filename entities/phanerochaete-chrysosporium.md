@@ -1,5 +1,6 @@
 ---
 title: Phanerochaete chrysosporium
+created: 2026-04-28
 type: species
 tags: [basidiomycete, white-rot, bioremediation, lignin-degradation, biocontrol]
 date: 2026-04-28

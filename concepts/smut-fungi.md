@@ -1,5 +1,6 @@
 ---
 title: Smut Fungi Taxonomy and Diversity
+created: 2026-04-28
 tags:
   - mycology
   - smut-fungi
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+type: concept
 ---
 
 # Smut Fungi: Taxonomy and Diversity

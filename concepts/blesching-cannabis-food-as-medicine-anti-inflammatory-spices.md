@@ -1,11 +1,13 @@
 ---
 title: Cannabis, Food as Medicine, and Anti-Inflammatory Spices
+created: 2026-04-28
 tags: [cannabis, food-as-medicine, anti-inflammatory, spices, turmeric,
   garlic, ginger, beta-caryophyllene, cb2-receptors, nutrition,
   endocannabinoid-system, curcumin, piperine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
+type: concept
 ---
 
 # Cannabis, Food as Medicine, and Anti-Inflammatory Spices

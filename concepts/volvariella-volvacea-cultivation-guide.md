@@ -1,10 +1,12 @@
 ---
 title: "Volvariella Volvacea Cultivation Guide"
+created: 2026-04-28
 tags: [mushroom-cultivation, volvariella, species-guide, straw-cultivation, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # [[volvariella-volvacea]] Cultivation Guide

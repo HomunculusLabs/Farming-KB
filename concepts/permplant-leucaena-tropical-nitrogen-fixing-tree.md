@@ -1,5 +1,6 @@
 ---
 title: Leucaena as Tropical Nitrogen-Fixing Multipurpose Tree
+created: 2026-04-28
 tags:
   - permaculture
   - nitrogen-fixing
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Leucaena as Tropical Nitrogen-Fixing Multipurpose Tree

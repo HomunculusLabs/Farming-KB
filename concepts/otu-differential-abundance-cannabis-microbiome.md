@@ -1,10 +1,12 @@
 ---
 title: OTU Differential Abundance in Cannabis Microbiome
+created: 2026-04-28
 tags: [microbiome, bioinformatics, cannabis, statistics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
 ---
 
 # OTU Differential Abundance in Cannabis Microbiome

@@ -1,5 +1,6 @@
 ---
 title: "Sparassis crispa"
+created: 2026-04-28
 type: species
 tags: [fungi, polyporales, sparassidaceae, edible-medicinal, cauliflower-mushroom]
 date: 2026-04-28

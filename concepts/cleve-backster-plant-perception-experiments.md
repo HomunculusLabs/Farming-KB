@@ -1,9 +1,11 @@
 ---
 title: "Cleve Backster's Plant Perception Experiments"
+created: 2026-04-28
 tags: [plant-intelligence, bioelectricity, esp, polygraph, primary-perception]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [tompkins-secret-life-of-plants.md]
+type: concept
 ---
 
 # Cleve Backster's Plant Perception Experiments

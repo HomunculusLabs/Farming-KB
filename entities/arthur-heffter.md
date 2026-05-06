@@ -1,5 +1,6 @@
 ---
 title: Arthur Heffter
+created: 2026-04-28
 type: person
 tags: [pharmacologist, mescaline-discovery, german-chemist, history-of-psychedelics, self-experimentation]
 date: 2026-04-28

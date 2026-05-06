@@ -1,10 +1,12 @@
 ---
 title: Tupa - Lobelia Tupa Devil's Tobacco Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, chile, mapuche, lobelia, campanulaceae, lobeline,
   narcotic-plants, schultes, andes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Tupa (Lobelia tupa)

@@ -1,10 +1,12 @@
 ---
 title: Solomon Soil Temperature and Nighttime Plant Growth
+created: 2026-04-28
 tags: [soil-temperature, plant-growth, steve-solomon, climate, season-extension, germination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - gardening-when-it-counts-steve-solomon.md
+type: concept
 ---
 
 # Solomon Soil Temperature and Nighttime Plant Growth

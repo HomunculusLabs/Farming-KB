@@ -1,5 +1,6 @@
 ---
 title: "Nutrient Cycling vs Nutrient-Dense Gardening"
+created: 2026-04-28
 tags:
   - soil-science
   - gardening
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Nutrient Cycling vs Nutrient-Dense Gardening

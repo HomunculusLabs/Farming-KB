@@ -1,10 +1,12 @@
 ---
 title: "Raised Beds vs Hugelkultur"
+created: 2026-04-28
 tags: [comparison, garden-design, permaculture, soil-building,
 water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Raised Beds vs Hugelkultur

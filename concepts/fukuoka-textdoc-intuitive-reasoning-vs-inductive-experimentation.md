@@ -1,10 +1,12 @@
 ---
 title: Intuitive Reasoning Versus Inductive Experimentation in Agriculture
+created: 2026-04-28
 tags: [natural-farming, fukuoka, scientific-method, agriculture, epistemology, deductive-reasoning]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Intuitive Reasoning Versus Inductive Experimentation in Agriculture

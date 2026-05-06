@@ -1,9 +1,11 @@
 ---
 title: "Fungal Intracellular Metal Binding Molecules"
+created: 2026-04-28
 tags: [metallothionein, phytochelatin, metal-binding, detoxification, bioremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 Fungi possess specialized intracellular molecules that bind and

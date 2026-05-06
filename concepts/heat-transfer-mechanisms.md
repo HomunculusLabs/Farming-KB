@@ -1,9 +1,11 @@
 ---
 title: Heat Transfer Mechanisms
+created: 2026-04-28
 tags: [physics, thermodynamics, engineering, heat-transfer]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: concept
 ---
 
 ## Overview

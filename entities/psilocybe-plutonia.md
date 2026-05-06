@@ -1,5 +1,6 @@
 ---
 title: Psilocybe plutonia
+created: 2026-04-28
 type: species
 tags: [psilocybe, psilocybin, dung-inhabiting, subtropical-fungi, neurotropic-fungi]
 date: 2026-04-28

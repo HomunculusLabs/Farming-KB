@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Methyl Alcohol Extraction Technique - Ghouled Method
+created: 2026-04-28
 tags:
   - psilocybin
   - extraction
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
+type: concept
 ---
 
 # Psilocybin Methyl Alcohol Extraction Technique

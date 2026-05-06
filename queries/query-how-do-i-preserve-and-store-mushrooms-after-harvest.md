@@ -1,9 +1,11 @@
 ---
 title: "How do I preserve and store mushrooms after harvest?"
+created: 2026-04-28
 tags: [query, mushrooms, preservation, storage, drying, canning, pickling, food-storage]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 Proper preservation and storage of mushrooms after harvest is essential for maintaining their nutritional value, flavor, and medicinal properties.
 The best preservation method depends on the mushroom species, intended use, and available equipment.

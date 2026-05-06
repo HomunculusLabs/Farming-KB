@@ -1,9 +1,11 @@
 ---
 title: Synthetic Data Generation
+created: 2026-04-28
 tags: [synthetic-data, llm-training, data-augmentation, training-techniques]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+type: concept
 ---
 
 # Synthetic Data Generation

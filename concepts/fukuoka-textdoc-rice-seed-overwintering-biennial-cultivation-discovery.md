@@ -1,5 +1,6 @@
 ---
 title: Rice Seed Overwintering and the Discovery of Biennial Cultivation
+created: 2026-04-28
 tags:
   - fukuoka
   - rice
@@ -14,6 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Rice Seed Overwintering and the Discovery of Biennial Cultivation

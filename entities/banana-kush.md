@@ -1,5 +1,6 @@
 ---
 title: "Banana Kush"
+created: 2026-04-28
 type: strain
 tags: [cannabis, indica-dominant, hybrid, medical-cannabis, california-strain, relaxing, tropical-aroma, skunk-lineage]
 date: 2026-04-28

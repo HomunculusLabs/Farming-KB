@@ -1,10 +1,12 @@
 ---
 title: Four Groups of Neurotropic Fungi and Their Global Distribution
+created: 2026-04-28
 tags: [neurotropic-fungi, psilocybe, gymnopilus, panaeolus, amanita, ergot, global-distribution, ethnomycology, guzman]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion (Guzman, Allen & Gartz, 1998)"
+type: concept
 ---
 
 # Four Groups of Neurotropic Fungi and Their Global Distribution

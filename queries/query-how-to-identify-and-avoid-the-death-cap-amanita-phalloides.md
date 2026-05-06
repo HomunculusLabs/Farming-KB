@@ -1,9 +1,11 @@
 ---
 title: "How to Identify and Avoid the Death Cap (Amanita phalloides)"
+created: 2026-04-28
 tags: [query, mushrooms, foraging, toxicology, safety]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Identify and Avoid the Death Cap (Amanita phalloides)

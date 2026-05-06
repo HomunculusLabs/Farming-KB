@@ -1,9 +1,11 @@
 ---
 title: "How Do I Create Microclimates in My Garden?"
+created: 2026-04-28
 tags: [query, microclimate, permaculture, garden-design, season-extension]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 # How Do I Create Microclimates in My Garden?
 ## Short Answer

@@ -1,5 +1,6 @@
 ---
 title: Trametes hirsuta
+created: 2026-04-28
 type: species
 tags: [polyporaceae, medicinal-mushroom, white-rot, bioremediation, immunomodulatory]
 date: 2026-04-28

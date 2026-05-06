@@ -1,5 +1,6 @@
 ---
 title: Dermatophytes, Ringworm, and Human Skin Mycoses
+created: 2026-04-28
 tags:
   - mycology
   - fungal-pathogens
@@ -13,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 2: Insidious Killers"
+type: concept
 ---
 
 # Dermatophytes, Ringworm, and Human Skin Mycoses

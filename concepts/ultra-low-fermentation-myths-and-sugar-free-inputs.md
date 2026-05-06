@@ -1,9 +1,11 @@
 ---
 title: "Fermentation Myths and Sugar-Free Inputs"
+created: 2026-04-28
 tags: [fermentation, sugar-free, molasses, organic-inputs, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+type: concept
 ---
 
 # Fermentation Myths and Sugar-Free Inputs

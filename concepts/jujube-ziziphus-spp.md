@@ -1,10 +1,12 @@
 ---
 title: Jujube (Ziziphus spp)
+created: 2026-04-28
 tags: [permaculture, fruit-tree, drought-tolerant, salt-tolerant, medicinal]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+type: concept
 ---
 
 # Jujube (Ziziphus spp)

@@ -1,5 +1,6 @@
 ---
 title: "Amanita caesarea"
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -150,5 +151,8 @@ The consequences of misidentification are fatal.
 - **Food forest integration:** Can be encouraged in established Mediterranean
 
 ## See Also
+
+- [[mycology-21st-century-frontiers]]
+- [[amanita-muscaria-chemistry-and-pharmacology]]
 
 - [[amanita-caesarea]]

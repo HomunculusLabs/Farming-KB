@@ -1,9 +1,11 @@
 ---
 title: Community Organization and Shared Grazing
+created: 2026-04-28
 tags: [holistic-management, communal-land, community-governance, grazing-planning, social-organization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
+type: concept
 ---
 
 # Community Organization and Shared Grazing

@@ -1,9 +1,11 @@
 ---
 title: "How to Grow Cannabis in an Aquaponics System"
+created: 2026-04-28
 tags: [query, cannabis, aquaponics, hydroponics, sustainable-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Grow Cannabis in an Aquaponics System

@@ -1,5 +1,6 @@
 ---
 title: Pasture Management vs Silvopasture Systems
+created: 2026-04-28
 tags:
   - pasture
   - silvopasture
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Pasture Management vs Silvopasture Systems

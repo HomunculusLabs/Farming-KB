@@ -1,9 +1,11 @@
 ---
 title: "Clearing Uncultivated Ground"
+created: 2026-04-28
 tags: [land-clearing, weed-control, new-garden, soil-preparation, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
+type: concept
 ---
 
 # Clearing Uncultivated Ground

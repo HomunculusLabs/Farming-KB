@@ -1,9 +1,11 @@
 ---
 title: "Regenerative vs Biodynamic Agriculture"
+created: 2026-04-28
 tags: [comparison, agriculture, soil-health, organic-farming, philosophy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Regenerative vs Biodynamic Agriculture

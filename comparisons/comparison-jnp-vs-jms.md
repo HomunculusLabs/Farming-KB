@@ -1,9 +1,11 @@
 ---
 title: "JNP vs JMS"
+created: 2026-04-28
 tags: [comparison, jadam, natural-farming, pest-control, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # JNP vs JMS

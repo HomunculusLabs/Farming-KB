@@ -1,5 +1,6 @@
 ---
 title: Tricholoma lobayense
+created: 2026-04-28
 type: species
 tags: [medicinal-mushroom, polyporaceae, tricholoma, immunomodulator, africa]
 date: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: "Colchicine"
+created: 2026-04-28
 type: chemical
 tags:
   - alkaloid
@@ -175,6 +176,8 @@ its role in cardiovascular medicine.
   distinct binding sites.
 
 ## See Also
+
+- [[medicinal-mushrooms]]
 
 - [[cannabis-polyploidy-colchicine-treatment-clarke]]
 

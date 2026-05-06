@@ -1,10 +1,12 @@
 ---
 title: Fungal Toxins and Poisonous Mushrooms
+created: 2026-04-28
 tags: [mycology, toxicology, mushrooms, biochemistry, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+type: concept
 ---
 
 # Fungal Toxins and Poisonous Mushrooms

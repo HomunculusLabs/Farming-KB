@@ -1,10 +1,12 @@
 ---
 title: Succession and System Establishment
+created: 2026-04-28
 tags: [permaculture, succession, system-establishment, pioneers, design]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Succession and System Establishment

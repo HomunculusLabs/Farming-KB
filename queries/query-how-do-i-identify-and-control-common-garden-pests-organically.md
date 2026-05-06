@@ -1,5 +1,6 @@
 ---
 title: How Do I Identify and Control Common Garden Pests Organically?
+created: 2026-04-28
 tags: [pest-control, organic-gardening, ipm, aphids, caterpillars, slugs, whiteflies, spider-mites, companion-planting, biological-control]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - https://cals.arizona.edu/ipm — University of Arizona Integrated Pest Management
   - https://content.ces.ncsu.edu — NC State Extension pest management resources
   - https://www.growveg.com — garden pest identification guides
+type: query
 ---
 
 ## Quick Answer

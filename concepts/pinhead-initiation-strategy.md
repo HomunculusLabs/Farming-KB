@@ -1,10 +1,12 @@
 ---
 title: "Pinhead Initiation Strategy"
+created: 2026-04-28
 tags: [mushroom-cultivation, fruiting, primordia, pinning, environmental-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - the-mushroom-cultivator-stamets.md
+type: concept
 ---
 
 # pinhead initiation strategy

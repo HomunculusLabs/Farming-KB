@@ -1,5 +1,6 @@
 ---
 title: Postwar Mite Epidemic and the Pesticide Spiral tags:
+created: 2026-04-28
   - fukuoka
   - natural-farming
   - pest-control
@@ -11,6 +12,7 @@ title: Postwar Mite Epidemic and the Pesticide Spiral tags:
 date: 2026-04-28 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Postwar Mite Epidemic and the Pesticide Spiral

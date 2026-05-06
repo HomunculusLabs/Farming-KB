@@ -1,9 +1,11 @@
 ---
 title: "What Is Polyculture and How Does It Differ From Monoculture"
+created: 2026-04-28
 tags: [query, permaculture, organic-farming, agriculture, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is Polyculture and How Does It Differ From Monoculture?

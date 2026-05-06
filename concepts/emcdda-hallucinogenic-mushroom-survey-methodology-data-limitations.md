@@ -1,5 +1,6 @@
 ---
 title: EMCDDA Hallucinogenic Mushroom Survey Methodology and Data Limitations
+created: 2026-04-28
 tags:
   - emcdda
   - epidemiology
@@ -11,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # EMCDDA Hallucinogenic Mushroom Survey Methodology and Data Limitations

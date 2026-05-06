@@ -1,9 +1,11 @@
 ---
 title: Sterilization Techniques for Mushroom Cultivation
+created: 2026-04-28
 tags: [mushrooms, sterilization, cultivation, mycology, contamination]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Sterilization Techniques for Mushroom Cultivation

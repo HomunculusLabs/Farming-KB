@@ -1,9 +1,11 @@
 ---
 title: "KNF Soil Treatment Solution (SOS)"
+created: 2026-04-28
 tags: [knf, natural-farming, soil-treatment, soil-health, imo]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
+type: concept
 ---
 
 # KNF [[cho-soil-treatment-and-seed-preparation]] Solution (SOS)

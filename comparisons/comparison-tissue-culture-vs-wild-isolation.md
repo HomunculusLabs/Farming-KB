@@ -1,9 +1,11 @@
 ---
 title: "Tissue Culture vs Wild Isolation"
+created: 2026-04-28
 tags: [comparison, mushroom-cultivation, strain-development, sterile-technique, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 
 # Tissue Culture vs Wild Isolation

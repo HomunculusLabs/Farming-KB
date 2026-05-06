@@ -1,10 +1,12 @@
 ---
 title: Reflective Hoods and Light Distribution
+created: 2026-04-28
 tags: [cannabis, lighting, reflectors, light-distribution, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
 ---
 
 # Reflective Hoods and Light Distribution

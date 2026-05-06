@@ -1,9 +1,11 @@
 ---
 title: "The Mycelial Archetype in Nature"
+created: 2026-04-28
 tags: [mycology, fungal-ecology, network-theory, biomimicry]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
+type: concept
 ---
 
 # The Mycelial Archetype in Nature

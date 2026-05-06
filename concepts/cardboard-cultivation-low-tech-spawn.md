@@ -1,5 +1,6 @@
 ---
 title: "Cardboard Cultivation and Low-Tech Spawn Creation"
+created: 2026-04-28
 tags:
   - mushroom-cultivation
   - waste-recycling
@@ -10,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - cotter-organic-mushroom-farming-mycoremediation
+type: concept
 ---
 
 # Cardboard Cultivation and Low-Tech Spawn Creation

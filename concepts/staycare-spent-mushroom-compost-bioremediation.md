@@ -1,9 +1,11 @@
 ---
 title: Spent Mushroom Compost in Bioremediation
+created: 2026-04-28
 tags: [bioremediation, mushroom-compost, soil-remediation, fungal-substrates, waste-utilization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Spent Mushroom Compost in Bioremediation

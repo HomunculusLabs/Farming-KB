@@ -1,9 +1,11 @@
 ---
 title: Psilocybin Serotonin Pathways and Environmental Chemistry
+created: 2026-04-28
 tags: [psilocybin, serotonin, neurotransmitter, diet, consciousness, powell]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-psilocybin-solution-by-simon-g-powell.md]
+type: concept
 ---
 
 # Psilocybin Serotonin Pathways and Environmental Chemistry

@@ -1,5 +1,6 @@
 ---
 title: Tricholoma tigrinum
+created: 2026-04-28
 type: species
 tags: [medicinal-mushroom, tricholoma, immunomodulator, asia, traditional-medicine]
 date: 2026-04-28

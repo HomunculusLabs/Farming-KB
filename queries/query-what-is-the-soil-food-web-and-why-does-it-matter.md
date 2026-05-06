@@ -1,10 +1,12 @@
 ---
 title: "What Is the Soil Food Web and Why Does It Matter"
+created: 2026-04-28
 tags: [query, soil-science, microbiology, organic-farming, nutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+type: query
 ---
 
 # What Is the Soil Food Web and Why Does It Matter?

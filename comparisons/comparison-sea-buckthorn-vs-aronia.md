@@ -1,5 +1,6 @@
 ---
 title: "Sea Buckthorn vs Aronia (Chokeberry): Superfood Berry Shrubs Compared"
+created: 2026-04-28
 tags:
   - sea-buckthorn
   - aronia
@@ -17,6 +18,7 @@ sources:
   - "The Encyclopedia of Fruit and Nuts — Jules Janick & Robert E. Paull, 2008"
   - "USDA NRCS Plant Guides: Hippophae rhamnoides & Aronia melanocarpa"
   - "Journal of Agricultural and Food Chemistry — comparative polyphenol studies, 2019–2024"
+type: comparison
 ---
 
 # Sea Buckthorn vs Aronia (Chokeberry)

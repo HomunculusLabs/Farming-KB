@@ -1,5 +1,6 @@
 ---
 title: Coleus blumei
+created: 2026-04-28
 type: species
 tags: [lamiaceae, psychoactive-plant, ornamental, ethnobotany, mild-intoxicant]
 date: 2026-04-28

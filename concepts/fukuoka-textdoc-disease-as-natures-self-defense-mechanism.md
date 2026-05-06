@@ -1,5 +1,6 @@
 ---
 title: Disease and Pest Damage as Nature's Self-Defense Mechanism
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -12,6 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Disease and Pest Damage as Nature's Self-Defense Mechanism

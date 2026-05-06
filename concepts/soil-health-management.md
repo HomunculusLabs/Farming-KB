@@ -1,10 +1,12 @@
 ---
 title: "Soil Health Management"
+created: 2026-04-28
 tags: [soil-health, soil-types, organic-matter, soil-ph,
       drainage, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
+type: concept
 ---
 
 # Soil Health Management

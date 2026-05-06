@@ -1,9 +1,11 @@
 ---
 title: Pinning Initiation Stages and Environmental Control (Stamets)
+created: 2026-04-28
 tags: [pinning, primordia, fruiting, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+type: concept
 ---
 
 # Pinning Initiation Stages and Environmental Control

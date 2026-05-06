@@ -1,10 +1,12 @@
 ---
 title: Inoculation Technique and Alcohol Flaming
+created: 2026-04-28
 tags: [inoculation, sterile-technique, spore-syringe, mycology, flaming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+type: concept
 ---
 
 # Inoculation Technique and Alcohol Flaming

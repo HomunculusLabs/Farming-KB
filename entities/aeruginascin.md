@@ -1,5 +1,6 @@
 ---
 title: Aeruginascin
+created: 2026-04-28
 type: chemical
 tags: [tryptamine-alkaloid, psilocybin-pathway, indole-derivative, mushroom-alkaloid, bioactive-compound]
 date: 2026-04-28

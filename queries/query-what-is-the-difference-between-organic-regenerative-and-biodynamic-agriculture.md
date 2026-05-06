@@ -1,9 +1,11 @@
 ---
 title: "What Is the Difference Between Organic Regenerative and Biodynamic Agriculture"
+created: 2026-04-28
 tags: [query, farming, organic, regenerative, biodynamic]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Is the Difference Between Organic, Regenerative, and Biodynamic Agriculture

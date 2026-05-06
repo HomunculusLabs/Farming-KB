@@ -1,5 +1,6 @@
 ---
 title: "Moringa oleifera vs. Moringa stenopetala"
+created: 2026-04-28
 tags:
   - moringa
   - moringa-oleifera
@@ -15,6 +16,7 @@ sources:
   - https://www.fao.org/forestry/foods-security/moringa/en/
   - https://doi.org/10.1016/j.heliyon.2020.e05340
   - https://www.sciencedirect.com/science/article/pii/S0278691509003026
+type: comparison
 ---
 
 # Moringa oleifera vs. Moringa stenopetala
@@ -123,6 +125,8 @@ Both species share a broad pharmacological profile: anti-inflammatory, antioxida
 *Moringa oleifera* and *Moringa stenopetala* are complementary rather than competing species. *M. oleifera* is the workhorse of global moringa production — faster, more studied, and commercially dominant. *M. stenopetala* fills an important ecological niche as a cooler-climate, milder-flavored, mineral-rich alternative particularly suited to East African agroforestry. In regions where both can grow, interplanting the two species can extend harvest windows, diversify flavor profiles, and build resilience into moringa-based food and income systems.
 
 ## See Also
+
+- [[comparison-perlite-vs-vermiculite]]
 
 - [[agroforestry]]
 - [[moringa-oleifera]]

@@ -1,5 +1,6 @@
 ---
 title: Paddy Levee Construction and Water Management Wisdom
+created: 2026-04-28
 tags:
   - fukuoka
   - natural-farming
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Paddy Levee Construction and Water Management Wisdom
@@ -126,6 +128,10 @@ In building and maintaining the levee, the farmer engages in a dialogue with the
 This is the opposite of the alienated labor characterizing industrial agriculture; it is work that connects the farmer to the land, to the community, and to the natural processes that make all life possible.
 
 ## See Also
+
+- [[fukuoka-soil-management-observations]]
+- [[fukuoka-textdoc-paddy-ecosystem-spider-frog-dragonfly-balance]]
+- [[mollison-water-harvesting-management-permaculture]]
 
 - [[natural-farming]]
 - [[water-management]]

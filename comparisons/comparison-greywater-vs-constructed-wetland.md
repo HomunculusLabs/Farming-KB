@@ -1,9 +1,11 @@
 ---
 title: "Greywater Systems vs Constructed Wetlands"
+created: 2026-04-28
 tags: [comparison, water, greywater, constructed-wetlands, ecological-design]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 # Greywater Systems vs Constructed Wetlands
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: Eudarluca caricis
+created: 2026-04-28
 type: species
 tags: [ascomycete, mycoparasite, rust-parasite, biocontrol, teleomorph]
 date: 2026-04-28

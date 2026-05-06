@@ -1,9 +1,11 @@
 ---
 title: "Main-Lining vs Screen of Green"
+created: 2026-04-28
 tags: [comparison, training, scrog, main-lining, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: comparison
 ---
 # Main-Lining vs Screen of Green
 ## Overview

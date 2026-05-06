@@ -1,9 +1,11 @@
 ---
 title: Oyster Mushroom Fruiting Environment
+created: 2026-04-28
 tags: [mycology, oyster-mushrooms, fruiting, humidity, fresh-air-exchange]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Oyster Mushroom Fruiting Environment

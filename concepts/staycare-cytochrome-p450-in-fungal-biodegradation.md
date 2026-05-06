@@ -1,9 +1,11 @@
 ---
 title: Cytochrome P450 in Fungal Biodegradation of Pollutants
+created: 2026-04-28
 tags: [bioremediation, cytochrome-p450, fungal-enzymes, xenobiotic-metabolism]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+type: concept
 ---
 
 # Cytochrome P450 in Fungal Biodegradation of Pollutants

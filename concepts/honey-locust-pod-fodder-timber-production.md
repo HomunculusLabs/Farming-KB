@@ -1,9 +1,11 @@
 ---
 title: "Honey Locust Pod Fodder and Timber Production"
+created: 2026-04-28
 tags: [permaculture-plants, fodder-trees, timber, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
+type: concept
 ---
 
 Honey locust (Gleditsia triacanthos) is a moderately fast-growing,

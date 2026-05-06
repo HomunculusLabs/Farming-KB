@@ -1,5 +1,6 @@
 ---
 title: What is the Bauhaus movement and why does it matter?
+created: 2026-04-28
 subtitle: A concise FAQ on the Bauhaus as a school, design method, and modernist legacy
 tags: [query, bauhaus, design-history, architecture, modernism, industrial-design]
 date: 2026-05-02
@@ -11,6 +12,7 @@ related_concepts:
   - bauhaus-movement
   - design-education
   - modernist-architecture
+type: query
 ---
 # What is the Bauhaus movement and why does it matter?
 ## Short answer

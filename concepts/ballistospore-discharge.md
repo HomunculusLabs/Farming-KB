@@ -1,5 +1,6 @@
 ---
 title: Ballistospore Discharge
+created: 2026-04-28
 tags:
   - mycology
   - basidiomycetes
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists ([[nicholas-money|Nicholas P. Money]], 2002)"
+type: concept
 ---
 
 # Ballistospore Discharge

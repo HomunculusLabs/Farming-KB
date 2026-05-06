@@ -1,10 +1,12 @@
 ---
 title: "Sugar as Addiction and the Engine of Slavery"
+created: 2026-04-28
 tags: [food-of-the-gods, sugar, slavery, dominator-culture, addiction, mercantilism, colonialism, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna T. Food of the Gods, Chapter 11: Complacencies of the Peignoir
+type: concept
 ---
 
 # Sugar as Addiction and the Engine of Slavery

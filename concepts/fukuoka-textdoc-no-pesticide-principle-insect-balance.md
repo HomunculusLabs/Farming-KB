@@ -1,11 +1,13 @@
 ---
 title: "No Pesticide Principle and Insect Balance"
+created: 2026-04-28
 tags: [fukuoka, natural-farming, no-pesticides, insect-balance, ecology, pest-
 management, natural-enemies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # No Pesticide Principle and Insect Balance

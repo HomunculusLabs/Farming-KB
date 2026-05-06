@@ -1,10 +1,12 @@
 ---
 title: "How Do I Make a Balanced Herbal Mulch for No-Till Gardens?"
+created: 2026-04-28
 tags: [query, mulch, no-till, herbal-mulch, dynamic-accumulators, composting]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+type: query
 ---
 
 # How Do I Make a Balanced Herbal Mulch for No-Till Gardens?

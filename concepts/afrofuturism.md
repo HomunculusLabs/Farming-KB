@@ -1,6 +1,8 @@
 ---
 title: "Afrofuturism"
+created: 2026-04-28
 sources: []
+type: concept
 ---
 
 # Afrofuturism

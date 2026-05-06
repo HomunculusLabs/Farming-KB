@@ -1,9 +1,11 @@
 ---
 title: Mazatec Mushroom Ceremonies and Ethnobotany
+created: 2026-04-28
 tags: [ethnobotany, mazatec, ceremonial, history, mexico]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+type: concept
 ---
 
 # Mazatec Mushroom Ceremonies and Ethnobotany

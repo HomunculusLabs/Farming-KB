@@ -1,9 +1,11 @@
 ---
 title: "Do beans and peas feed nearby plants with nitrogen?"
+created: 2026-04-28
 tags: [query, beans, peas, nitrogen]
 date: 2026-05-02
 updated: 2026-05-02
 sources: []
+type: query
 ---
 
 # Do beans and peas feed nearby plants with nitrogen?

@@ -1,9 +1,11 @@
 ---
 title: "What Are Cannabis Terpenes and Why Do They Matter?"
+created: 2026-04-28
 tags: [query, cannabis, terpenes, flavor, entourage-effect]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # What Are Cannabis Terpenes and Why Do They Matter?

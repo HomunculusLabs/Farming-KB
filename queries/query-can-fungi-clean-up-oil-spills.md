@@ -1,10 +1,12 @@
 ---
 title: "Can Fungi Clean Up Oil Spills and Environmental Pollution"
+created: 2026-04-28
 tags: [query, mycology, bioremediation, environment, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: query
 ---
 
 # Can Fungi Clean Up Oil Spills and Environmental Pollution

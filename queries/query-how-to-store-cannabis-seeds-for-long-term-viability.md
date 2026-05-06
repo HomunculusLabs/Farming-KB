@@ -1,9 +1,11 @@
 ---
 title: "How to Store Cannabis Seeds for Long-Term Viability"
+created: 2026-04-28
 tags: [query, cannabis, seeds, storage, propagation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 
 # How to Store Cannabis Seeds for Long-Term Viability

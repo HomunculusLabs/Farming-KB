@@ -1,5 +1,6 @@
 ---
 title: Gibberellin Discovery Period in Fukuoka's Life
+created: 2026-04-28
 tags:
   - history-of-science
   - plant-pathology
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3erpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+type: concept
 ---
 
 # Gibberellin Discovery Period in Fukuoka's Life

@@ -1,5 +1,6 @@
 ---
 title: Trametes sanguinea
+created: 2026-04-28
 type: species
 tags:
   - fungi
@@ -117,6 +118,8 @@ local populations of *T. sanguinea* and other wood-decay fungi face pressure fro
 - *Pycnoporus sanguineus* — Bright orange-red pore surface throughout; found in similar tropical habitats.
 
 ## See Also
+
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 
 - [[Trametes versicolor]]
 - [[Ganoderma lucidum]]

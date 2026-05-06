@@ -1,5 +1,6 @@
 ---
 title: Ashwagandha (Withania somnifera)
+created: 2026-04-28
 type: species
 tags:
   - adaptogen
@@ -150,5 +151,8 @@ Generally well tolerated. Mild, infrequent adverse effects include GI discomfort
 Patients on chronic medication should consult a healthcare provider before use.
 
 ## See Also
+
+- [[ashwagandha-growing-guide]]
+- [[ashwagandha]]
 
 - [[withania-somnifera]]

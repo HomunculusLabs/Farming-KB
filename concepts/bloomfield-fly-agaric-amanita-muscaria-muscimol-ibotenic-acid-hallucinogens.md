@@ -1,5 +1,6 @@
 ---
 title: Fly Agaric Pharmacology: Amanita muscaria, Muscimol, and Ibotenic Acid
+created: 2026-04-28
 tags:
   - mycology
   - pharmacology
@@ -15,6 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
+type: concept
 ---
 
 # Fly Agaric Pharmacology: Amanita muscaria

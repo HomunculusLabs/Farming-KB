@@ -1,9 +1,11 @@
 ---
 title: Mycelial Colonization
+created: 2026-04-28
 tags: [mycology, mycelium, colonization, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+type: concept
 ---
 
 # Mycelial Colonization

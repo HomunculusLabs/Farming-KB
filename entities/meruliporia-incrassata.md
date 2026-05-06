@@ -1,5 +1,6 @@
 ---
 title: Meruliporia incrassata
+created: 2026-04-28
 type: species
 tags: [dry-rot, basidiomycete, wood-decay, building-pathogen, brown-rot]
 date: 2026-04-28

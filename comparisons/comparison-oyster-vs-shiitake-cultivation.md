@@ -1,10 +1,12 @@
 ---
 title: "Oycotter-shiitake-cultivationtivation"
+created: 2026-04-28
 tags: [comparison, mushroom-cultivation, oyster, shiitake, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+type: comparison
 ---
 
 # Oyster vs Shiitake Cultivation

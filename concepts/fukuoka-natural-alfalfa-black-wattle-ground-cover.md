@@ -1,10 +1,12 @@
 ---
 title: Alfalfa, Black Wattle, and Ground Cover for Orchard Soil Building
+created: 2026-04-28
 tags: [fukuoka, natural-farming, ground-cover, legumes, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+type: concept
 ---
 
 # Alfalfa, Black Wattle, and Ground Cover for Orchard Soil Building

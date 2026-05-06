@@ -1,10 +1,12 @@
 ---
 title: Four Types of Diet in Fukuoka's Natural Philosophy
+created: 2026-04-28
 tags: [natural-farming, fukuoka, diet, nutrition, food-philosophy, natural-diet, spiritual-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Four Types of Diet in Fukuoka's Natural Philosophy

@@ -1,9 +1,11 @@
 ---
 title: "Environmental Sensing and Signal Transduction in Filamentous Fungi"
+created: 2026-04-28
 tags: [fungal-physiology, signal-transduction, hyphal-growth, morphogenesis]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+type: concept
 ---
 
 # Environmental Sensing and Signal Transduction in Filamentous Fungi

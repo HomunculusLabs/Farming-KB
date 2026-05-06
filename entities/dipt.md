@@ -1,5 +1,6 @@
 ---
 title: DiPT
+created: 2026-04-28
 type: chemical
 tags: [tryptamine, psychedelic, auditory, serotonergic, research-chemical]
 date: 2026-04-28

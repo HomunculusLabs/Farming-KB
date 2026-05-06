@@ -1,10 +1,12 @@
 ---
 title: Design by Observation
+created: 2026-04-28
 tags: [permaculture, design-method, observation, site-analysis, fieldwork]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+type: concept
 ---
 
 # Design by Observation

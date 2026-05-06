@@ -1,5 +1,6 @@
 ---
 title: 'Fig vs Mulberry for Permaculture'
+created: 2026-04-28
 tags: [fig, mulberry, fruit-trees, permaculture, food-forest, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,6 +11,7 @@ sources:
   - "Starnes, Blake. 'Morus spp.' USDA NRCS Plant Guide, 2020."
   - "Morton, Julia F. Figs. New Crop Resource Online Program, Purdue University, 1987."
   - "Cornell University College of Agriculture and Life Sciences. 'Mulberry Production Guide', 2022."
+type: comparison
 ---
 
 # Fig vs Mulberry for Permaculture

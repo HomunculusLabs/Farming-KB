@@ -1,9 +1,11 @@
 ---
 title: Fungal Plant Defense
+created: 2026-04-28
 tags: [biocontrol, induced-resistance, mycorrhiza, pathogen-protection, plant-immunity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["symbiotic-fungi.md"]
+type: concept
 ---
 
 # Fungal Plant Defense

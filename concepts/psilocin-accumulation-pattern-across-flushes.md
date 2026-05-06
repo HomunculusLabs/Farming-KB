@@ -1,10 +1,12 @@
 ---
 title: Psilocin Accumulation Pattern Across Flushes
+created: 2026-04-28
 tags: [psilocin, psilocybe-cubensis, flushes, alkaloid-profile, biosynthesis, tryptamines]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+type: concept
 ---
 
 # Psilocin Accumulation Pattern Across Flushes
@@ -115,6 +117,8 @@ Several limitations should be noted when interpreting these results:
 - No enzymatic assays were performed, so the biosynthetic mechanism remains inferred rather than demonstrated
 
 ## See Also
+
+- [[psilocybin-variation-across-flushes]]
 
 - [[Psilocybin Variation Across Flushes]]
 - [[Cap vs Stem Alkaloid Distribution]]

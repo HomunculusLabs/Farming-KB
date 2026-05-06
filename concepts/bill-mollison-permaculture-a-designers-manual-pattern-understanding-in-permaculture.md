@@ -1,9 +1,11 @@
 ---
 title: Pattern Understanding in Permaculture
+created: 2026-04-28
 tags: [permaculture, patterns, nature, design, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
+type: concept
 ---
 
 # Pattern Understanding in Permaculture

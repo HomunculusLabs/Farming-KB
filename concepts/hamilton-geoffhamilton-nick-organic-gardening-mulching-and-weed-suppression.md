@@ -1,9 +1,11 @@
 ---
 title: Mulching and Weed Suppression
+created: 2026-04-28
 tags: [mulching, weed-control, organic-gardening, soil-moisture, soil-protection]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
+type: concept
 ---
 
 # Mulching and Weed Suppression

@@ -1,5 +1,6 @@
 ---
 title: Terence McKenna Tryptamine Hypothesis
+created: 2026-04-28
 tags:
   - terence-mckenna
   - tryptamines
@@ -10,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md
+type: concept
 ---
 
 # [[terence-mckenna]] Tryptamine Hypothesis

@@ -1,9 +1,11 @@
 ---
 title: Slip Form Stone vs Timber Frame Construction
+created: 2026-04-28
 tags: [natural-building, construction, homesteading, permaculture, off-grid]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Slip Form Stone vs Timber Frame Construction

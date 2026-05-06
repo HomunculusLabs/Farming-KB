@@ -1,5 +1,6 @@
 ---
 title: What Is Trap Cropping and How Does It Work?
+created: 2026-04-28
 tags:
   - trap-cropping
   - pest-management
@@ -9,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
+type: query
 ---
 # What Is Trap Cropping and How Does It Work?
 Trap cropping is a targeted pest management strategy in which specific

@@ -1,10 +1,12 @@
 ---
 title: "Nitrogen-Fixing Trees"
+created: 2026-04-28
 tags: [permaculture, agroforestry, soil-fertility, nitrogen-fixation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
   ["~/wiki/raw/papers/bill-mollison-permaculture-design-course.md"]
+type: concept
 ---
 
 # Nitrogen-Fixing Trees

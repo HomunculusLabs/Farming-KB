@@ -1,9 +1,11 @@
 ---
 title: Mycelium Inoculation Techniques
+created: 2026-04-28
 tags: [mycology, inoculation, spawn, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+type: concept
 ---
 
 # Mycelium Inoculation Techniques

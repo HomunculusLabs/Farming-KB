@@ -1,9 +1,11 @@
 ---
 title: "Field Guide to Psilocybin Dosage, Extraction, and Cultivation"
+created: 2026-04-28
 tags: [psilocybin, dosage, extraction, cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+type: concept
 ---
 
 # Field Guide to Psilocybin Dosage, Extraction, and Cultivation

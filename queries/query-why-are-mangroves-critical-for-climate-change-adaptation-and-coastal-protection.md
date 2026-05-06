@@ -1,5 +1,6 @@
 ---
 title: "Why Are Mangroves Critical for Climate Change Adaptation and Coastal Protection?"
+created: 2026-04-28
 tags: [mangroves, climate-change, coastal-protection, blue-carbon, storm-surge, shoreline-erosion, faq]
 date: 2026-04-28
 updated: 2026-04-28
@@ -18,6 +19,7 @@ sources:
     Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities."
   - "Narayan, S. et al. (2017). The effectiveness, costs, and coastal protection
     benefits of natural and nature-based defences. PLoS ONE, 12(5), e0174741."
+type: query
 ---
 
 # Why Are Mangroves Critical for Climate Change Adaptation and Coastal Protection?

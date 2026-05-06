@@ -1,5 +1,6 @@
 ---
 title: "Koji vs SCOBY Fermentation Culture"
+created: 2026-04-28
 tags: [fermentation, koji, scoby, kombucha, cultured-foods, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,6 +9,7 @@ sources:
   - Dufresne & Farnworth, "Tea Kombucha and Fungi" in "Food Research International" (2000)
   - Villas-Boas et al., "Kombucha Tea: Microbiology, Composition and Beneficial Effects" (2016)
   - Kodo, "The Art of Koji Making" (2016)
+type: comparison
 ---
 
 # Koji vs SCOBY Fermentation Culture
