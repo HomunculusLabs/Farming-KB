@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1052 pages**
+**1054 pages**
 
 ## A
 
@@ -217,6 +217,7 @@
 - [[comparison-goat-husbandry-vs-sheep-husbandry]]
 - [[comparison-goats-vs-sheep-in-permaculture-systems]]
 - [[comparison-goji-berry-vs-aronia-chokeberry]]
+- [[comparison-gooseberry-vs-currant]]
 - [[comparison-grafting-vs-budding-fruit-trees]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
@@ -852,6 +853,7 @@
 - [[query-how-to-prevent-and-troubleshoot-mushroom-contamination]]
 - [[query-how-to-prevent-hermaphrodite-cannabis-plants]]
 - [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
+- [[query-how-to-process-acorns-for-food]]
 - [[query-how-to-propagate-woody-herbs-from-cuttings]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - [[query-how-to-raise-quail-in-a-permaculture-system]]

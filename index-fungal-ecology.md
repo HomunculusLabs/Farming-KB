@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2346 pages**
+**2348 pages**
 
 ## #
 
@@ -672,6 +672,7 @@
 - [[fungal-biosorption-mechanisms]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[fungal-bioturbation-and-soil-aggregate-formation]]
+- [[fungal-bioweathering-and-mineral-transformations]]
 - [[fungal-bound-residue-formation]]
 - [[fungal-btex-and-chlorinated-monoaromatic-biodegradation]]
 - [[fungal-btex-biodegradation]]
@@ -1697,6 +1698,7 @@
 - [[mycorrhizal-fungi-fruit-trees]]
 - [[mycorrhizal-fungi-hydrocarbon-remediation]]
 - [[mycorrhizal-fungi-in-aact]]
+- [[mycorrhizal-fungi-in-biogeochemical-cycling]]
 - [[mycorrhizal-fungi-primary-production-dighton]]
 - [[mycorrhizal-fungi-rhizosphere-remediation]]
 - [[mycorrhizal-fungi-secondary-metabolite-elicitation]]

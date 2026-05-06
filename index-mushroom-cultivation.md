@@ -1406,8 +1406,3 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[antrodia-cinnamomea]]
-- [[auricularia-delicata]]
-- [[hydnellum-aurantiacum]]
-- [[nephroma-arcticum]]
-- [[trametes-coccinea]]

@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2125 pages**
+**2151 pages**
 
 ## #
 
@@ -275,6 +275,7 @@
 - [[amanita-velosa]]
 - [[amanita-verna]]
 - [[amanita-virosa]]
+- [[amaranthus-palmeri]]
 - [[amelanchier-alnifolia]]
 - [[amnesia-haze]]
 - [[amorpha-fruticosa]]
@@ -295,6 +296,7 @@
 - [[anni-albers]]
 - [[annona-muricata]]
 - [[antrodia-camphorata]]
+- [[antrodia-cinnamomea]]
 - [[aphanocladium-album]]
 - [[apios-americana]]
 - [[apple-fritter]]
@@ -349,6 +351,7 @@
 - [[auricularia-auricula]]
 - [[auricularia-auricula-judae]]
 - [[auricularia-auricula-judae-entity]]
+- [[auricularia-delicata]]
 - [[auricularia-polytricha]]
 - [[auriscalpium-vulgare]]
 - [[azadirachta-indica]]
@@ -552,6 +555,7 @@
 - [[coccidioides-immitis]]
 - [[codonopsis-pilosula]]
 - [[coffea-arabica]]
+- [[cola-acuminata]]
 - [[colchicine]]
 - [[colchicum-autumnale]]
 - [[coleus-blumei]]
@@ -747,6 +751,7 @@
 - [[eleutheromyces-subulatus]]
 - [[eli-yablonovitch]]
 - [[eliot-coleman]]
+- [[elymoclavine]]
 - [[embelia-ribes]]
 - [[eme-entity-pihkal]]
 - [[emile-clapeyron]]
@@ -861,6 +866,7 @@
 - [[garcinia-mangostana]]
 - [[gary-lincoff]]
 - [[gary-payton]]
+- [[gary-payton-cannabis]]
 - [[gaston-guzman]]
 - [[gaultheria-procumbens]]
 - [[gelato]]
@@ -881,6 +887,7 @@
 - [[gleditsia-triacanthos]]
 - [[gliocladium-roseum]]
 - [[gliricidia-sepium]]
+- [[gloeophyllum-sepiarium]]
 - [[gloeophyllum-trabeum]]
 - [[glomalin]]
 - [[glomus-fasciculatus]]
@@ -993,12 +1000,14 @@
 - [[humphry-osmond]]
 - [[humulene]]
 - [[humulus-lupulus]]
+- [[hydnellum-aurantiacum]]
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
 - [[hydnum-repens]]
 - [[hydrastis-canadensis]]
 - [[hygrophorus-agathosmus]]
 - [[hygrophorus-chlorophanus]]
+- [[hygrophorus-chrysodon]]
 - [[hygrophorus-coccineus]]
 - [[hygrophorus-russula]]
 - [[hymenoscyphus-ericae]]
@@ -1063,6 +1072,7 @@
 - [[iris-entity-pihkal]]
 - [[irpex-lacteus]]
 - [[ischnoderma-resinosum]]
+- [[isopulegol]]
 
 ## J
 
@@ -1077,6 +1087,7 @@
 - [[james-cuthill]]
 - [[james-trappe]]
 - [[jatropha-curcas-entity]]
+- [[jealousy-cannabis]]
 - [[jealousy-cannabis-strain-entity]]
 - [[jedi-death-star]]
 - [[jeff-lowenfels]]
@@ -1187,6 +1198,7 @@
 - [[lepiota-rachodes]]
 - [[lepista-nuda]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
+- [[lepista-saeva]]
 - [[lepista-sordida]]
 - [[lespedeza-bicolor]]
 - [[leucaena-entity]]
@@ -1257,6 +1269,7 @@
 - [[malt-extract-agar]]
 - [[mandragora-officinarum]]
 - [[mangifera-indica]]
+- [[manihot-esculenta]]
 - [[maps]]
 - [[maps-multidisciplinary-association-for-psychedelic-studies]]
 - [[marasmius-oreades]]
@@ -1410,6 +1423,7 @@
 
 ## N
 
+- [[n,n-dimethyltryptamine]]
 - [[n-arachidonoyl-dopamine-nada]]
 - [[n-dmt]]
 - [[n-methyl-pea-entity]]
@@ -1422,6 +1436,7 @@
 - [[neolentinus-lepideus]]
 - [[neonothopanus-nambi]]
 - [[nepeta-cataria]]
+- [[nephroma-arcticum]]
 - [[nerium-oleander]]
 - [[nerolidol]]
 - [[net-entity-tihkal]]
@@ -1485,6 +1500,7 @@
 - [[p-entity-pihkal]]
 - [[pablo-amaringo]]
 - [[pachyrhizus-erosus]]
+- [[pachyrhizus-tuberosus]]
 - [[paeonia-lactiflora]]
 - [[panaeolina-foenisecii]]
 - [[panaeolus-acuminatus]]
@@ -1529,6 +1545,7 @@
 - [[peanut-butter-breath]]
 - [[pedicularis-groenlandica]]
 - [[peganum-harmala]]
+- [[pelargonium-graveolens]]
 - [[pelargonium-sidoides]]
 - [[peltigera-canina]]
 - [[penicillium-chrysogenum]]
@@ -1855,6 +1872,7 @@
 ## S
 
 - [[s-adenosylmethionine]]
+- [[sabinene]]
 - [[saccharomyces-cerevisiae]]
 - [[saccharomyces-paradoxus]]
 - [[sadi-carnot]]
@@ -1873,6 +1891,8 @@
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
 - [[sanghuangporus-baumii]]
+- [[sanghuangporus-linteus]]
+- [[sanghuangporus-sanghuang]]
 - [[sanghuangporus-vaninii]]
 - [[sanguinaria-canadensis]]
 - [[sapodilla-entity]]
@@ -1922,6 +1942,7 @@
 - [[sour-diesel-cannabis]]
 - [[sour-tsunami]]
 - [[sparassis-crispa]]
+- [[sparassis-latifolia]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
 - [[spilanthes-acmella]]
@@ -2020,6 +2041,7 @@
 - [[tetrapteris-methystica]]
 - [[thai-stick]]
 - [[thai-stick-entity]]
+- [[thc-bomb]]
 - [[thelephora-terrestris]]
 - [[theobroma-cacao]]
 - [[theobromine]]
@@ -2058,8 +2080,10 @@
 - [[tradd-cotter]]
 - [[trainwreck]]
 - [[trainwreck-cannabis]]
+- [[trametes-coccinea]]
 - [[trametes-hirsuta]]
 - [[trametes-ochracea]]
+- [[trametes-orientalis]]
 - [[trametes-sanguinea]]
 - [[trametes-trogii]]
 - [[trametes-versicolor]]
@@ -2190,7 +2214,9 @@
 ## X
 
 - [[xanthoria-parietina]]
+- [[xanthosoma-sagittifolium]]
 - [[xylaria-hypoxylon]]
+- [[xylaria-longipes]]
 - [[xylaria-polymorpha]]
 - [[xylaria-polymorpha-entity]]
 
@@ -2209,8 +2235,3 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
-- [[antrodia-cinnamomea]]
-- [[auricularia-delicata]]
-- [[hydnellum-aurantiacum]]
-- [[nephroma-arcticum]]
-- [[trametes-coccinea]]

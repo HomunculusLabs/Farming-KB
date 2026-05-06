@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**393 pages**
+**394 pages**
 
 ## A
 
@@ -55,6 +55,7 @@
 - [[coleman-greenhouse-soil-management]]
 - [[coleman-soil-preparation-for-winter]]
 - [[comfrey-as-dynamic-accumulator]]
+- [[complete-organic-fertilizer-formulation]]
 - [[complete-organic-fertilizer-recipes]]
 - [[compost-biology-organisms]]
 - [[compost-building-guide]]
