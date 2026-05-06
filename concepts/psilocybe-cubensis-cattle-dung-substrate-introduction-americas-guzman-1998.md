@@ -31,8 +31,7 @@ sun-exposed pastures and grasslands where cattle graze.
 
 The species was originally described by Earle (1906) from Cuba, hence the
 specific epithet "cubensis." Its growth on bovine dung distinguishes it from
-most other Psilocybe species in the [[Four Groups of Neurotropic Fungi:
-Global Distribution]] classification, which are predominantly
+most other Psilocybe species in the [[Four Groups of Neurotropic Fungi: Global Distribution]] classification, which are predominantly
 lignicolous or humicolous.
 
 ## Distribution in the Americas

@@ -1,4 +1,13 @@
 ---
+title: Zoosporic Mycoparasites Aquatic Fungi
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 # Zoosporic Mycoparasites of Aquatic Fungi

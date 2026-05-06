@@ -122,7 +122,9 @@ Avoid consuming mature, flowering nettle as it may irritate the urinary tract.
 - [[herbal-medicine-making-basics]] with nettle includes teas, tinctures, and
   infused oils for topical anti-inflammatory applications.
 
-## Related Questions
+## Related
+
+- [[stinging-nettle]] Questions
 
 - [[query-how-do-i-use-comfrey-in-the-garden]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

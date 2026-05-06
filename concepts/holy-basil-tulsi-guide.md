@@ -1,4 +1,13 @@
 ---
+title: Holy Basil Tulsi Guide
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)

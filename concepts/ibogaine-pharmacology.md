@@ -135,4 +135,6 @@ ibogaine despite its promising anti-addictive effects.
 
 ## See Also
 
+- [[coronaridine]]
+
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]

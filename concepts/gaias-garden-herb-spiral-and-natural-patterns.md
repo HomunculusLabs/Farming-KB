@@ -1,4 +1,13 @@
 ---
+title: Gaias Garden Herb Spiral And Natural Patterns
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 # Herb Spiral and Natural Patterns in Garden Design

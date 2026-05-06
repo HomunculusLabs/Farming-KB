@@ -129,6 +129,8 @@ The entourage effect explains why centuries of traditional use of whole cannabis
 
 ## See Also
 
+- [[pulegone]]
+
 - [[dom-compound-profile]]
 - [[dom-compound-profile]]
 - [[dom-compound-profile]]

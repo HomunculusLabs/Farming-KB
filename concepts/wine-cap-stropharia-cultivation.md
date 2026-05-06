@@ -1,4 +1,13 @@
 ---
+title: Wine Cap Stropharia Cultivation
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 # Wine Cap Stropharia Cultivation
 This page provides detailed practical instructions for cultivating Wine Cap mushrooms ([[stropharia-rugosoannulata]]) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.

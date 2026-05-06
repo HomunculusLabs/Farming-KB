@@ -121,6 +121,8 @@ Solomon frames wide spacing gardening within a larger narrative about resource s
 
 ## See Also
 
+- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
+
 - [[holmgren-forest-management-and-sustainable-harvesting]]
 - [[query-what-is-dry-farming-and-how-does-it-work]]
 - [[water-conservation]]

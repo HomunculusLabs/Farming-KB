@@ -84,6 +84,8 @@ The abundance of fungi in humid forests reflects this dependency. [[fungal-spore
 
 ## Related
 
+- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
+
 - [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
 - [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
 - [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]

@@ -44,7 +44,7 @@ inserted 2.5 cm (1 inch) deep is sufficient to measure readiness.
 
 ## Light Requirements for Germination
 
-A second effect on germination is light itself. Carrots need a
+The [[stomata-transpiration-and-plant-water-regulation|relationship between plants and light]] extends beyond photosynthesis to germination cues. A second effect on germination is light itself. Carrots need a
 definite quantity of light and are usually surface-planted to
 achieve this. For light-requiring seeds, we can surface-scatter
 them, or first soak them overnight and then subject them to a day
@@ -61,6 +61,7 @@ species and for understanding weed emergence patterns.
 
 ## Stratification (Cold Treatment)
 
+[[mollison-humus-and-organic-matter-in-soils|Organic matter]] in cold soils plays a key role in protecting seeds during stratification.
 Cold-area seed, and specifically tree and berry seeds from boreal
 or cold areas, should spend the period from autumn to spring in a
 refrigerator when taken to warmer climates. Apple seeds stored in
@@ -78,7 +79,7 @@ signs of germination. This technique connects directly to [[mollison-cold-climat
 
 ## Heat Treatment for Hard-Seeded Legumes
 
-The opposite of [[mollison-native-seed-forage-systems-and-arid-species-lists]] is heat treatment, applied to many
+The [[growing-beans-peas-legume-guide|cultivation of legumes]] often requires overcoming physical dormancy. The opposite of [[mollison-native-seed-forage-systems-and-arid-species-lists]] is heat treatment, applied to many
 tree legume seeds. Methods include:
 
 - Heating in an oven at 95 degrees C (200 degrees F) for 10-20
@@ -113,7 +114,7 @@ integrate livestock.
 ## Seed Scarification
 
 Seeds with thick or hard coats may need scarification to break
-dormancy. This is a mechanical process of nicking, filing, or
+dormancy. The [[mycorrhizal-inoculation-formulations|preparation of inoculants]] sometimes involves scarification as well. This is a mechanical process of nicking, filing, or
 abrading the seed coat to allow water penetration. In traditional
 practice, seeds are rubbed between sandpaper, nicked with a knife,
 or soaked in dilute acid. Scarification is often combined with
@@ -122,7 +123,7 @@ before .
 
 ## Practical Germination Testing
 
-For any batch of saved or purchased seed, a simple germination
+The [[home-garden-seed-saving|practice of seed saving]] makes germination testing essential. For any batch of saved or purchased seed, a simple germination
 test can be conducted by placing 10-20 seeds between moist paper
 towels in a warm location and counting sprouts after the expected
 germination period. This gives a percentage viability that informs

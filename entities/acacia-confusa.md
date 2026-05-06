@@ -145,6 +145,8 @@ tissue used for extraction.
   root collection
 ## See Also
 
+- [[acacia-acuminata]]
+
 - [[agroforestry]]
 - [[bufotenin]]
 - [[bufotenine]]

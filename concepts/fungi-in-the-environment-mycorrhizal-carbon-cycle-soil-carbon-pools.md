@@ -139,4 +139,6 @@ responses to global change.
 
 ## See Also
 
+- [[fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper]]
+
 - [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]

@@ -148,3 +148,7 @@ reduce the description gap. Sustained funding for taxonomy, expanded
 
 - [[biodiversity-macrofungi-inventory-methods]]
 - [[biodiversity-fungal-biodiversity-estimation-methods]]
+
+## See Also
+
+- [[fungal-species-concepts-taxonomic-impediment]]

@@ -1,4 +1,13 @@
 ---
+title: Growing Gourmet Pink Oyster Djamor Cultivation
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 # Pink Oyster Mushroom ([[pleurotus-djamor]]) Cultivation

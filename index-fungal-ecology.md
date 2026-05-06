@@ -2421,3 +2421,6 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
+- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
+- [[fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper]]
+- [[fungi-in-the-environment-reductive-oxidative-metal-precipitation]]

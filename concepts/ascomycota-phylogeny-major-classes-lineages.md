@@ -39,7 +39,7 @@ recognized based on phylogenetic analyses of rDNA sequence data:
 The Archiascomycetes includes yeastlike, filamentous, and possibly
 sporocarp-producing species. The largest order is Taphrinales,
 with approximately 100 species of plant-pathogenic fungi that lack
-both sporocarps and ascogenous hyphae. Species are dimorphic,
+both sporocarps and ascogenous hyphae. [[taphrinales-gall-forming-biotrophic-ascomycetes|Taphrinales]] are dimorphic,
 having a saprobic yeast phase and a filamentous pathogenic phase,
 a trait shared with certain [[basidiomycota-classification-major-clades]]
 such as rusts.
@@ -61,7 +61,7 @@ loci are needed to test the validity of the grouping.
 
 ## Saccharomycetes (True Yeasts)
 
-Most fungi considered "true yeasts" are members of the
+[[yeast-biology-guide|Yeast biology]] encompasses the remarkable diversity of the Saccharomycetes. Most fungi considered "true yeasts" are members of the
 Saccharomycetes. They are found in virtually all environments and
 occupy a paramount position in food production (Saccharomyces
 cerevisiae), associate with mammals as pathogens (Candida
@@ -80,7 +80,7 @@ The Euascomycetes is the largest class of Ascomycota and arguably
 the most successful group of fungi, including parasites, pathogens,
 and mutualists of plants, algae, and animals, as well as saprobes
 able to decompose virtually all known organic substrata. The [[soil-food-web|soil food web]]
-depends heavily on ascomycete decomposers for nutrient cycling, alongside [[actinomycetes-soil-biology|actinomycetes]] and other fungal groups.
+depends heavily on ascomycete decomposers for nutrient cycling. The [[fungal-decomposition|fungal decomposition]] pathways used by these saprobes are critical to global carbon cycling, alongside [[actinomycetes-soil-biology|actinomycetes]] and other groups.
 
 ### Apothecial Lineages
 
@@ -112,12 +112,13 @@ The plectomycete clade includes the Eurotiales and Onygenales,
 which contain many medically and industrially important fungi.
 The Eurotiales includes Penicillium and Aspergillus, genera central to both industrial fermentation and antibiotic discovery, while the
 Onygenales contains [[keratinophilic-fungi]]
-and systemic pathogens.
+and systemic pathogens. [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus biology]] and [[human-fungal-pathogens|fungal pathogenicity]] are active research areas within this group.
 
 ## Convergent Evolution
 
-Molecular studies have shown that traditional morphological
-classifications are not natural. Morphological traits of ascomata
+[[fungal-taxonomy|Molecular phylogenetics]] has shown that traditional morphological
+classifications are not natural. The [[fungal-diversity-and-mushroom-categories|diversity of fungi]] revealed by
+modern methods continues to challenge traditional groupings. Morphological traits of ascomata
 have been repeatedly lost and gained during the evolutionary
 history of the group. Convergent evolution in ascus morphology
 is apparently common, especially among modes of dehiscence

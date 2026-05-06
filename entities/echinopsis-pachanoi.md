@@ -94,6 +94,8 @@ E. pachanoi is legal to grow as an ornamental in most countries. However, its cu
 
 ## See Also
 
+- [[echinopsis-peruviana]]
+
 - [[mescaline-entity]]
 
 - echinopsis peruviana (Peruvian Torch)

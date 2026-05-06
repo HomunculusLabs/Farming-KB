@@ -110,6 +110,10 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## See Also
 
+- [[pachyrhizus-erosus]]
+
+- [[lathyrus-tuberosus]]
+
 - [[permaculture-plants-insectary-bee-forage]]
 
 - [[perennial-vegetables]]

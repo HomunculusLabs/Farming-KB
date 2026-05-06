@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Soil Self Plowing Earthworm Ecology
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Soil Self-Plowing and Earthworm Ecology in Natural Farming tags:
   - fukuoka - natural-farming - soil-ecology - earthworms - no-tillage - soil-structure - microorganisms - root-action - humus - topsoil - self-plowing - biological-tillage
 date: 2026-04-28 updated: 2026-04-28 sources:

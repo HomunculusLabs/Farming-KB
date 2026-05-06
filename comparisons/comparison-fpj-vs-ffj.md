@@ -1,4 +1,13 @@
 ---
+title: Comparison Fpj Vs Ffj
+created: 2026-05-06
+updated: 2026-05-06
+type: comparison
+tags: []
+sources: []
+---
+
+---
 title: "FPJ vs FFJ"
 tags:[[fermented-plant-juice]]-farming, bionutrients, fermentation]
 date: 2026-04-25

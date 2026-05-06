@@ -115,6 +115,8 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 - Populations may be locally affected by removal of dead wood from managed forests (sanitation logging practices that reduce dead wood habitat).
 
 ## See Also
+
+- [[kuehneromyces-mutabilis]]
 - [[inonotus-obliquus-entity]] — another cold-season birch-associated fungus
 - [[flammulina-velutipes]] — enokitake, a similar cold-weather cluster-forming edible
 - [[armillaria-mellea-entity]] — honey mushroom, another clustered wood-decay agaric

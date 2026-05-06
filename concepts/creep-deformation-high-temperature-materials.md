@@ -1,4 +1,13 @@
 ---
+title: Creep Deformation High Temperature Materials
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 Creep is the time-dependent, permanent (plastic) deformation of a material under

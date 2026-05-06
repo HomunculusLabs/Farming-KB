@@ -117,6 +117,8 @@ complete symbiotic partnership to be dispersed together.
 
 ## See Also
 
+- [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
+
 - [[lichen-symbiosis-mechanisms-photobiont-selection]]
 - [[lichen-symbiosis-fungi-algae-partnership]]
 - [[symbiotic-fungi-lichen-symbiosis-agriculture]]

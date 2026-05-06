@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Straw Mulching Rice Barley Cropping
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Straw Mulching in Natural Rice Barley Cropping tags:
   - fukuoka - natural-farming - straw-mulch - rice - barley - no-tillage - direct-seeding - weed-control - soil-enrichment - organic-matter - clover-revolution
 date: 2026-04-28 updated: 2026-04-28 sources:

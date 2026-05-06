@@ -1,120 +1,120 @@
 ---
 title: "Psilocybe azurescens"
-created: 2026-04-28
-updated: 2026-04-28
 type: species
 tags:
   - fungi
   - psilocybin
   - psychedelic
   - agaricales
-  - mycology
-  - entheogen
+  - pacific-northwest
+date: 2026-04-28
+updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
-  - Stamets, P. & Gartz, J. (1995). "A New Species of Psilocybe from the Pacific Northwest USA." Mycotaxon 54: 481–485.
-  - Guzmán, G., Allen, J.W., Gartz, J. (1998). "A Worldwide Geographical Distribution of the Neurotropic Fungi." Mycologia 90(3): 404–412.
-  - Gartz, J. (1994). "Analysis of Psilocybin and Psilocin in Psilocybe azurescens." Journal of Psychoactive Drugs 26(1): 71–73.
+  - Stamets, P. (1996). "Psilocybe Mushrooms of the World." Ten Speed Press.
+  - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of Psilocybe Section Azurescens from New Jersey." Mycotaxon 84: 1-6.
+  - Gartz, J. (1996). "Distribution and Ecological Aspects of Psilocybe azurescens." Integration Journal 1: 68-71.
+  - Besl, H. et al. (1995). "Neue Erkenntnisse zur Verbreitung von Psilocybe azurescens." Mycologischer Bote 3: 14-16.
 ---
+
+# Psilocybe azurescens
 
 ## Overview
 
-**Psilocybe azurescens** Stamets & Gartz is a potent psilocybin-containing mushroom first described in 1996 from the Pacific Northwest coast of the United States. It is widely regarded as the most psychoactively potent of all known *Psilocybe* species.
+**Psilocybe azurescens** is a potent psilocybin-containing mushroom in the family Hymenogastraceae. Commonly called "Astoria Ossip," "Flying Saucers," or "Blue Runners," it is among the most psychoactive Psilocybe species known.
 
-The species is endemic to the coastal dune grasslands of Oregon and Washington, where it fruits in the late autumn on decaying wood debris and woody plant matter. It has also been successfully naturalized in coastal areas of Europe, New Zealand, and other temperate regions.
+It was first identified in 1979 by Boy Scouts near the Columbia River in Oregon, and formally described by mycologist Paul Stamets in 1996. The species is endemic to the Pacific Northwest coast of North America.
 
-*P. azurescens* contains some of the highest concentrations of psilocybin and psilocin ever recorded in a mushroom, typically 1.8–3.5 times more potent than *P. cubensis*. Its extreme potency, restricted natural range, and distinctive morphology make it one of the most sought-after and studied entheogenic fungi.
+The mushroom is critically renowned for its exceptional psilocybin and psilocin content, which can exceed 1.8% dry weight combined. This makes it significantly more potent than the more widely known *P. cubensis*.
 
-## Taxonomy and Morphology
+## Taxonomy
 
-**Classification:**
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Hymenogastraceae
+- **Genus:** Psilocybe
+- **Species:** P. azurescens Stamets & Gartz
 
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Agaricales
-- Family: Hymenogastraceae
-- Genus: *Psilocybe*
-- Species: *P. azurescens*
+The species belongs to *Psilocybe* section *Azurescens*, which also includes *P. cyanescens* and *P. bohemica*.
 
-**Synonyms:** None widely accepted; sometimes confused with *P. cyanescens* and *P. allenii* in field identifications.
+## Morphology
 
-**Cap:** 3–10 cm, conic to convex becoming broadly convex with a pronounced umbo. Surface smooth and viscid when moist, hygrophanous, developing a distinctive caramel to chestnut-brown color that fades to straw-yellow or nearly white when dried. Margin often translucent-striate.
+**Cap:** 30–100 mm diameter, conic to convex, expanding to broadly convex or plane with age. Surface is smooth and viscous when moist, with a distinct umbo. Color ranges from caramel-brown to dark chestnut, bluing prominently where bruised.
 
-**Gills:** Adnate to adnexed, subdistant, grayish at first maturing to dark purplish-brown with white edges. Spore print dark purplish-brown.
+**Gills:** Adnate to slightly sinuate, close to subdistant. Color is initially grayish, darkening to purplish-brown with spore maturity. Gill edges are whitish and fringed.
 
-**Stipe:** 9–20 cm × 3–6 mm, equal to slightly enlarged at the base. Silvery-white, covered in fine silky fibrils. Base often develops dense white rhizomorphs — a key field character for distinguishing from similar species.
+**Stipe:** 60–150 mm long, 3–6 mm thick, hollow and equal or slightly enlarged at the base. Color is silky white, staining intensely blue when handled. Partial veil is membranous, leaving a persistent annular zone.
 
-**Spores:** 12–14 × 6.5–8 µm, ellipsoid to subrhomboid, thick-walled, with a distinct germ pore.
-
-**Key field characters:** Dense white rhizomorphic base, strong bluing reaction when bruised (more intense than *P. cyanescens*), caramel-colored cap with pronounced umbo, habitat restricted to coastal dune grasses.
+**Spores:** Ellipsoidal, 11.5–15 × 7–10.5 µm. Spore print is dark purplish-brown to nearly black.
 
 ## Distribution and Habitat
 
-*P. azurescens* occurs naturally along a narrow coastal band from approximately Tillamook, Oregon to Long Beach, Washington. It grows in sandy dune grasslands dominated by *Ammophila arenaria* (European beach grass) and *Elymus mollis* (dune wild rye).
+**P. azurescens** has a narrow natural range along the Pacific coast of North America, from roughly Tillamook, Oregon to Westport, Washington. Small populations have been reported in coastal northern California.
 
-The species is a saprotrophic wood-decomposer that colonizes decaying woody debris, buried roots, and wood chips buried in sand. Natural fruiting occurs from late September through December, triggered by cool temperatures (10–15°C) and heavy autumn rainfall.
+The species fruits almost exclusively on coastal dune grasses, particularly *Ammophila arenaria* (European beach grass). Fruiting occurs in late October through December, triggered by the first sustained cold rains and dropping temperatures near freezing.
 
-Beyond its native range, *P. azurescens* has been deliberately introduced and naturalized in:
+It has been successfully naturalized in parts of Europe, particularly coastal dune systems in the Netherlands and Germany, though these populations are considered introduced.
 
-- Coastal Germany, the Netherlands, and Denmark
-- Parts of coastal New Zealand
-- Coastal California (occasionally)
+## Chemistry and Potency
 
-These introductions are typically achieved by transplanting inoculated wood chips into suitable coastal habitats.
+*P. azurescens* contains the indole alkaloids psilocybin, psilocin, and baeocystin. Analytical studies have consistently found it to be among the most potent Psilocybe species.
 
-## Chemistry and Pharmacology
+Typical alkaloid content (dry weight):
 
-*Psilocybe azurescens* is exceptional for its extraordinarily high tryptamine alkaloid content:
+- **Psilocybin:** 0.6–1.8%
+- **Psilocin:** 0.3–1.0%
+- **Baeocystin:** 0.05–0.3%
 
-- **Psilocybin:** 0.6–1.8% dry weight (average ~1.1%)
-- **Psilocin:** 0.2–0.5% dry weight
-- **Baeocystin:** 0.1–0.4% dry weight
-- **Norbaeocystin:** trace amounts
-
-These concentrations are among the highest recorded for any psilocybin mushroom. By comparison, *P. cubensis* typically contains 0.5–1.0% psilocybin and 0.1–0.3% psilocin.
-
-The pharmacological mechanism is mediated primarily through 5-HT2A receptor agonism. Psilocybin (prodrug) is dephosphorylated to psilocin, which is the active compound that crosses the blood-brain barrier and binds to serotonin receptors.
-
-Subjective effects include visual and auditory hallucinations, altered perception of time, synesthesia, ego dissolution, and profound mystical-type experiences at higher doses. Onset is 20–60 minutes, peak effects at 2–3 hours, with total duration of 4–7 hours.
+The combined psilocybin and psilocin content frequently exceeds 2% in dried specimens, making it roughly 3–4 times more potent than typical *P. cubensis* specimens.
 
 ## Cultivation
 
-*P. azurescens* can be cultivated outdoors using wood-chip-based methods, but is significantly more difficult than *P. cubensis* due to its environmental requirements:
+Outdoor cultivation of *P. azurescens* is achievable using alder wood chip beds in temperate coastal climates. Indoor cultivation is considered extremely difficult and rarely successful.
 
-- **Substrate:** Hardwood chips (alder, maple, Douglas fir), supplemented with wheat straw or bracken fern
-- **Inoculation:** Grain spawn colonized for 2–3 weeks, then mixed into pasteurized wood chips
-- **Colonization:** 2–4 months at 15–20°C in humid conditions
-- **Fruiting trigger:** Cool autumn temperatures (10–15°C) and high humidity
-- **Difficulty:** Advanced; requires outdoor beds, patience, and specific climatic conditions
+The standard outdoor approach uses pasteurized alder chips or a mix of alder chips and wheat straw, inoculated with grain spawn. Beds are established in shaded, humid locations with temperatures between 10–18°C.
 
-Indoor cultivation is impractical due to the species' requirement for cool temperatures and fresh air exchange. It is not suitable for monotub orPF Tek methods commonly used for *P. cubensis*.
+Colonization of wood chip beds typically takes 6–12 months. Fruiting requires sustained cold temperatures (below 10°C) and high humidity, which limits cultivation to autumn in temperate maritime climates.
+
+Yields from established outdoor beds can be substantial, with mature patches producing flushes of several hundred mushrooms over a multi-year lifespan. Some patches have been documented fruiting for over a decade with minimal maintenance.
+
+## Ecological Role
+
+*P. azurescens* is a primary saprotroph on decaying hardwood debris in coastal dune ecosystems. It plays a significant role in decomposing alder wood and other organic matter deposited by tidal action and wind.
+
+Its association with dune grass root systems suggests a possible weak endophytic or rhizosphere relationship, though it does not form true mycorrhizal associations.
+
+## Effects and Experience
+
+Dose ranges for dried *P. azurescens* are notably lower than for other Psilocybe species due to its elevated alkaloid content. A typical threshold dose is 0.5–1.0 g dried, while a full psychedelic experience ranges from 1.5–3.0 g dried.
+
+The effects profile is characteristic of psilocybin mushrooms: visual hallucinations, altered time perception, synesthesia, and profound changes in thought patterns. However, users consistently report greater intensity, longer duration (6–8 hours), and more vivid visual effects compared to *P. cubensis* at equivalent visual weights.
+
+The onset is typically 20–40 minutes, with peak effects between 1.5–3 hours. Comedown is gradual over 2–4 hours. Nausea during onset is common.
 
 ## Legal Status
 
-*Psilocybe azurescens* is illegal to possess, cultivate, or distribute in most countries due to its psilocybin content:
+*P. azurescens* contains Schedule I controlled substances (psilocybin and psilocin) in the United States and is illegal to possess, cultivate, or distribute under federal law. Several jurisdictions have decriminalized psilocybin-containing mushrooms, including Oregon (where the species is native) and various municipalities.
 
-- **United States:** Schedule I under the Controlled Substances Act
-- **United Nations:** Listed under the 1971 Convention on Psychotropic Substances
-- **Netherlands:** Decriminalized for personal use but not legally sold (since 2008 restrictions)
-- **Several jurisdictions** have decriminalized or deprioritized enforcement as of the mid-2020s
+Internationally, the species is controlled under the UN Convention on Psychotropic Substances (1971). Legal status varies significantly by country, with some nations regulating only the isolated alkaloids rather than the mushroom tissue itself.
 
 ## Related Species
 
-- **Psilocybe cyanescens** — Wavy cap; slightly less potent, wider distribution, similar habitat
-- **Psilocybe allenii** — Very similar appearance; distinguished by microscopic features and less intense bluing
-- **Psilocybe subaeruginosa** — Australian species; similar potency, different habitat
-- **Psilocybe bohemica** — European species; associated with *P. serbica* complex
-- **Psilocybe serbica** — Balkan species; wood-inhabiting, high potency
-- **Psilocybe cubensis** — Most commonly cultivated species; significantly less potent
+- **Psilocybe cyanescens** — Wider distribution, slightly lower potency, similar habitat preferences
+- **Psilocybe bohemica** — European counterpart, comparable potency
+- **Psilocybe allenii** — Recently described Pacific Northwest species, close relative
+- **Psilocybe subaeruginosa** — Australian species, similar ecology and potency
 
 ## See Also
 
-- [[psilocybin]] — Primary psychoactive compound found in *P. azurescens*
-- [[psilocybe-cubensis]] — Golden teacher, the most widely cultivated psilocybin mushroom
-- [[muscimol]] — GABAergic psychoactive compound from *Amanita muscaria*
-- [[amanita-muscaria]] — Fly agaric, another psychoactive mushroom with distinct pharmacology
-- [[panaeolus-cyanescens]] — Blue meanies, another potent psilocybin-containing species
-- [[boletus-edulis]] — King bolete, contrasting non-psychoactive edible mushroom
-- [[inonotus-obliquus]] — Chaga, a non-psychoactive medicinal fungus for comparison
-- [[trametes-versicolor]] — Turkey tail, a medicinal polypore with immunomodulatory properties
+- [[psilocybe-cubensis]]
+- [[psilocybin]]
+- [[psilocin]]
+- [[baeocystin]]
+- [[paul-stamets]]
+- [[mycoremediation]]
+- [[dmt]]
+- [[5-meo-dmt]]
+- [[panaeolus-cyanescens]]
+- [[amanita-muscaria]]
+- [[mescaline]]

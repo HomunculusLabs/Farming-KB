@@ -131,6 +131,8 @@ indole alkaloids in tropical trees.
 
 ## See Also
 
+- [[virola-sebifera]]
+
 - [[entheogen-ayahuasca-admixture-plants]] for other DMT-containing species
 - [[entheogenic-ceremony-preparation]] for comparative snuff practices
 - [[harmala-alkaloids]] for chemistry of related compounds

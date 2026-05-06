@@ -1,4 +1,13 @@
 ---
+title: Structure Activity Relationship Medicinal Chemistry
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 Structure-activity relationship (SAR) is the systematic study of how the chemical

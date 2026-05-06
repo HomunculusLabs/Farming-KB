@@ -126,6 +126,8 @@ traditional Nepalese cannabis in a reliable, high-performing modern package.
 
 ## See Also
 
+- [[satori]]
+
 - [[cannabis-strain-guide-reference]]
 
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties

@@ -1,4 +1,13 @@
 ---
+title: Cannabis Pest Management
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 ## Overview
 Cannabis pest management uses [[integrated-pest-management]] (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.

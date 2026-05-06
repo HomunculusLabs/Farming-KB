@@ -77,6 +77,8 @@ characteristics remain largely undocumented, presenting opportunities
 for further investigation.
 
 ## See Also
+
+- [[psilocybe-oaxacensis]]
 - [[psilocybe-cubensis]]
 - [[psilocybe-cubensis-australia]]
 - [[psilocybe-natalensis]]

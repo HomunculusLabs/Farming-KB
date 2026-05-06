@@ -12,15 +12,15 @@ type: concept
 # Falconer Loam for Mushroom Beds
 
 Chapter XII of William Falconer's *Mushrooms: How to Grow Them* (1891)
-addresses the selection and evaluation of loam (soil) for [[mushroom-growing-substrates|mushroom
-cultivation]]. Loam served multiple purposes: casing spawned beds,
+addresses the selection and evaluation of loam (soil) for [[mushroom-growing-substrates|mushroom cultivation]]. Loam served multiple purposes: casing spawned beds,
 topdressing bearing beds, filling cavities from removed stumps, and mixing
 with manure to form the beds themselves.
 
 ## The Best Loam
 
 The ideal loam was rich, fresh, mellow soil such as florists eagerly
-sought for potting and greenhouse purposes. Falconer's preferred material
+sought for potting and greenhouse purposes. The [[mushroom-bed-preparation|mushroom bed preparation]] process
+depended heavily on quality loam. Falconer's preferred material
 was fresh sod loam -- the top spit from a pasture field, gathered in early
 fall and stacked without added manure. A healthy [[soil-food-web|soil food web]] in the loam
 was essential for supporting vigorous mycelial growth. The sods were broken up with a
@@ -36,24 +36,27 @@ Common loam from an open, well-drained fallow field was good and, if
 naturally rich, excellent for any purpose. Falconer advised against taking
 soil from wet parts of fields. All stones, rough clods, tussocks, and
 similar material were to be rejected. Such loam could be used at once.
+[[substrate-preparation|Substrate preparation]] in modern mushroom growing follows similar principles of material selection.
 
 ## Ordinary Garden Soil
 
 Garden soil was used more frequently than any other sort, with highly
 satisfactory results overall. Falconer's greatest objection was the amount
-of insects it contained on account of repeated heavy manurings. This
+of insects it contained on account of repeated heavy manurings. [[victorian-mushroom-science|Victorian mushroom science]]
+often debated the relative merits of different soil sources. This
 contrasts with the carefully prepared [[falconer-fire-fang-manure-preparation|fire-fang manure]]
 process used for the growing medium itself.
 
 ## Roadside Dirt
 
 Roadside dirt, whether loamy or gritty, could be used with good results
-if free from weeds, sticks, stones, and rough drift. It was better to
+if free from weeds, sticks, stones, and rough drift. The [[casing-layer-principles|casing layer]]
+in modern cultivation serves a similar purpose. It was better to
 stack it in a pile to rot for a few months before using.
 
 ## Inferior Soils
 
-Sandy soil from water-shed drifts along roads and fields was "much
+[[fungal-ecology|Fungal ecology]] determines the suitability of any soil for mushroom growing. Sandy soil from water-shed drifts along roads and fields was "much
 inferior to stiffer and more fibrous earth." Rich dark soil from slopes
 and dry hollows in woods could be used with success, though mushrooms do
 not naturally grow in woods. Peat soil or swamp muck composted for two or
@@ -73,6 +76,7 @@ fed through them.
 
 Many writers unqualifiedly condemned loam containing old, undecomposed
 manure because of the spurious and noxious fungi it supposedly produced.
+The [[mushroom-cultivation-history|history of mushroom cultivation]] is full of such debates.
 Falconer could not join this denunciation. When he was connected with the
 London market gardens, the large growers in the Fulham Fields -- Steele,
 Bagley, Broadbent, and others -- cased all their beds with common garden

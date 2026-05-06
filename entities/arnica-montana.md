@@ -144,6 +144,8 @@ and Romania now supply the majority of commercial material.
 
 ## See Also
 
+- [[pueraria-montana]]
+
 - [[hypericum-perforatum]] — Co-occurring European meadow herb with
   overlapping anti-inflammatory applications
 - [[calendula-officinalis]] — Another Asteraceae topical wound-healing herb

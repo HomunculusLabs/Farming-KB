@@ -77,6 +77,8 @@ The Amanita genus is the single most important group for [[mushroom-foraging-saf
 
 ## See Also
 
+- [[amanita-ceceliae]]
+
 - [[ramsbottom-poisonous-fungi-species]]
 - [[mushroom-toxins-and-poisoning]]
 - [[mushroom-foraging-safety-guide]]

@@ -106,3 +106,7 @@ For under $500, you can build a functional 50-gallon media bed system. You need 
 Position the grow bed above the fish tank so water drains back by gravity. The pump pushes water from the fish tank up to the grow bed. The bell siphon automatically floods and drains the bed every 15 minutes, providing the oxygen-rich environment that both plants and bacteria need.
 
 Start with basil and lettuce. They grow fast, tolerate system fluctuations, and provide visible success within weeks. Add fish gradually and let the system teach you its rhythms before expanding to more demanding crops.
+
+## See Also
+
+- [[query-how-to-grow-and-use-oca-in-temperate-climates]]

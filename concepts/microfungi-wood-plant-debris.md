@@ -145,3 +145,7 @@ Fungal communities on decomposing plant material change over time:
 - Lack of trained taxonomists limits inventory efforts
 
 ## Ecological Significance
+
+## See Also
+
+- [[microfungi-wood-plant-debris-diversity-trophic-biogeography]]

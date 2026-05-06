@@ -135,6 +135,8 @@ UV-sensitive but persist in soil for weeks to months. No pest resistance has
 been documented in field populations, owing to the multi-target mode of action.
 ## See Also
 
+- [[metarhizium-anisopliae]]
+
 - [[fungal-biopesticides]]
 - [[mycopesticides]]
 - [[mycopesticides-entomopathogenic-fungi]]

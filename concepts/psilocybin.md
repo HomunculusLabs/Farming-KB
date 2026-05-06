@@ -112,6 +112,8 @@ The only multi-year trend data available on hallucinogenic mushroom use were der
 
 ## Related
 
+- [[psilocybin-mushroom-species-identification]]
+
 - [[psilocybin-mushroom-cultivation-compost-basics]]
 
 - [[psilocybin-biosynthesis-pathway]] Concepts

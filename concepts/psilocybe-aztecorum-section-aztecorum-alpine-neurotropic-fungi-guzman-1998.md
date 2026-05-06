@@ -12,8 +12,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Section Aztecorum of the genus [[Psilocybe]] represents a distinctive
 biogeographic group of neurotropic fungi adapted to high-elevation,
-subalpine, and alpine habitats. According to [[Guzmán, Allen & Gartz
-(1998)]], this section includes species found at altitudes ranging from
+subalpine, and alpine habitats. According to [[Guzmán, Allen & Gartz (1998)]], this section includes species found at altitudes ranging from
 2,000 to 4,000 meters above sea level, primarily in Mexico and extending
 northward into the Pacific Northwest of North America and as far east as
 Quebec, Canada. The alpine adaptation of these species distinguishes them
@@ -77,8 +76,7 @@ The biogeographic connection between P. baeocystis of the Pacific Northwest
 and P. aztecorum of the Mexican highlands suggests a shared evolutionary
 history along the western mountain ranges of North America, with alpine
 habitats serving as corridors for distribution between tropical and
-temperate zones. This pattern parallels the [[Mexico as a Northern and
-Southern Mycobiotic Convergence Zone]] concept.
+temperate zones. This pattern parallels the [[Mexico as a Northern and Southern Mycobiotic Convergence Zone]] concept.
 
 ## Psilocybe quebecensis: Eastern North American Alpine Fungi
 
@@ -107,8 +105,7 @@ niche that allows them to extend into higher latitudes and different climate
 zones.
 
 This pattern is significant for understanding the broader biogeographic
-framework proposed by [[Southern Hemisphere Origin Hypothesis for
-Neurotropic Fungi]]:
+framework proposed by [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]:
 
 - The majority of Psilocybe species occur in tropical and subtropical
   regions, supporting a Gondwanan origin

@@ -133,6 +133,8 @@ dried fruit nourishes yin and treats chronic cough with bloody sputum.
 
 ## See Also
 
+- [[phyllanthus-niruri]]
+
 - [[terminalia-chebula]] — Co-component of Triphala formulation
 - [[moringa-oleifera]] — Companion tropical multipurpose tree
 - [[curcuma-longa]] — Intercrop companion in tropical systems

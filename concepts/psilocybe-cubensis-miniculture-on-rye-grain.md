@@ -152,6 +152,8 @@ were deposited in the University of Washington Herbarium (WTU).
 
 ## Related
 
+- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
+
 - [[psilocybe-cubensis-miniculture-method]] Concepts
 
 - [[psilocybe-cubensis-cultivation]] for broader cultivation techniques

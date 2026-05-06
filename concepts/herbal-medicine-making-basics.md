@@ -119,6 +119,8 @@ Essential kitchen and herbalism tools:
 
 ## See Also
 
+- [[marrubium-vulgare]]
+
 - [[polygonatum-biflorum]]
 
 - [[myrciaria-dubia]]

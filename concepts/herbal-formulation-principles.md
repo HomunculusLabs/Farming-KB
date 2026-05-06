@@ -90,6 +90,8 @@ Formulation effectiveness should be evaluated based on the patient's response, w
 
 ## See Also
 
+- [[smilax-ornata]]
+
 - [[herbal-actions-and-energetics]] — understanding herb properties
 - [[herbal-materia-medica]] — individual herb profiles
 - [[herbal-medicine-preparation-methods]] — preparation methods

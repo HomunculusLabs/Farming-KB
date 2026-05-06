@@ -82,6 +82,8 @@ ETH-LAD differs from LSD in several clinically significant ways:
 
 ## See Also
 
+- [[eth-lad]]
+
 - [[al-lad-entity-tihkal]] — 6-allyl analogue, 80–160 ug
 - [[lsd-entity-tihkal]] — the parent compound, 60–200 ug
 - [[dmt-entity-tihkal]] — tryptamine psychedelic for comparison of dose-response patterns

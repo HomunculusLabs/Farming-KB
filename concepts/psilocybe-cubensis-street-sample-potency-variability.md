@@ -116,6 +116,8 @@ The results further suggest that historical and anthropological accounts of mush
 
 ## See Also
 
+- [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
+
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]] - Complete controlled study with flush-by-flush data
 - [[psilocybin-potency-variation]] - Broader potency variation across species and growing conditions
 - [[psilocybe-cubensis-miniculture-on-rye-grain]] - Cultivation methodology used in the controlled study

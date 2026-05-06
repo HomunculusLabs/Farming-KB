@@ -111,6 +111,8 @@ Suitable support trees include leguminous species that fix nitrogen (*Gliricidia
 
 ## See Also
 
+- [[query-how-do-i-grow-vanilla-at-home]]
+
 - [[moringa-oleifera]]
 - [[theobroma-cacao]]
 - [[cinnamomum-verum]]

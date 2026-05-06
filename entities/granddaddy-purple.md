@@ -139,6 +139,8 @@ Its name became synonymous with premium indica cannabis.
 
 ## See Also
 
+- [[cannabis-sour-diesel]]
+
 - [[purple-urkle]]
 - [[og-kush]]
 - [[purple-haze-cannabis]]

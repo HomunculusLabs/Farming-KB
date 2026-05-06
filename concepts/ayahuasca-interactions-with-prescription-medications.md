@@ -156,7 +156,9 @@ Individuals considering an [[harmala-alkaloids-and-ayahuasca-preparation]] cerem
 - Inform ceremony facilitators of any medical conditions or medications
 - Be aware that some interactions require weeks of discontinuation
 
-## Related Concepts
+## Related
+
+- [[ayahuasca-tourism-medical-risks-prescription-interactions]] Concepts
 
 - [[ayahuasca-pharmacology]] for detailed biochemical mechanisms
 - [[mao-inhibitors-and-psychedelics]] for MAOI pharmacology

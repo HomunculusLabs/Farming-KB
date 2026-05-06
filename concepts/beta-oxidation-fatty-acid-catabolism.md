@@ -1,4 +1,13 @@
 ---
+title: Beta Oxidation Fatty Acid Catabolism
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 ## Overview

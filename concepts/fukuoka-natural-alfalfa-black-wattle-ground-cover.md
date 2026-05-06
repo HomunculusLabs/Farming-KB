@@ -24,8 +24,7 @@ more. This makes it ideal for improving the deeper soil strata. A hardy
 perennial, it is of great practical value, being resistant to droughty and
 cold conditions as well as to high temperatures. When mixed with clover,
 alfalfa helps to eliminate other herbs and grasses. The deep roots of
-legumes like alfalfa also support [[mycorrhizal-networks|mycorrhizal fungal
-networks]] that connect plants across the orchard. Wider use of this
+legumes like alfalfa also support [[mycorrhizal-networks|mycorrhizal fungal networks]] that connect plants across the orchard. Wider use of this
 valuable legume should be made in Japan for soil improvement and as a feed
 and forage crop. Other legumes such as lupine, a summer crop, may also be
 used with good results.
@@ -84,8 +83,7 @@ later fell all the fruit trees and acacias at once, then replant the entire
 orchard with three- to four-year saplings. Not only would this be a far
 better method of replenishing the soil than running a bulldozer through the
 orchard and replanting, it would also rejuvenate the land. This approach
-complements the broader [[fukuoka-natural-orchard-development|orchard
-development]] strategy.
+complements the broader [[fukuoka-natural-orchard-development|orchard development]] strategy.
 
 The black wattle grows constantly throughout the year, always sending out new
 shoots. These attract aphids and scales, which support a growing population

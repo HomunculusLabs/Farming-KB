@@ -134,7 +134,9 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 4. Never eat any mushroom with white gills that you cannot positively identify
 5. Learn A. xanthodermus thoroughly before collecting any wild Agaricus
 6. When in doubt, throw it out
-## Related Topics
+## Related
+
+- [[agaricus-silvaticus]] Topics
 - [[oyster-mushroom-species-guide]] for other commonly cultivated species
 - [[chanterelle-guide]] for wild [[mushroom-foraging-safety]] and techniques
 - [[shiitake-cultivation-guide]] for indoor mushroom cultivation methods

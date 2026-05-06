@@ -127,6 +127,8 @@ colonizing newly available leaf material.
 
 ## See Also
 
+- [[sequestrate-fungi-evolution-spore-dispersal]]
+
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[fungal-hyphae-invasive-growth-mechanisms]]
@@ -134,5 +136,7 @@ colonizing newly available leaf material.
 - [[fairy-rings-mycelium-ecology-soil]]
 
 ## See Also
+
+- [[sequestrate-fungi-evolution-spore-dispersal]]
 
 - [[terence-ingold-mycologist]]

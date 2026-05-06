@@ -130,3 +130,7 @@ for soil restoration and contaminant management.
 [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]
 [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
 [[fungal-bioremediation-case-studies]]
+
+## See Also
+
+- [[fungi-in-the-environment-reductive-oxidative-metal-precipitation]]

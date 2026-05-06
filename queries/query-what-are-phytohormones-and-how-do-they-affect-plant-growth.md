@@ -177,6 +177,8 @@ Every plant constantly produces and responds to phytohormones. Many organic prac
 
 ## See Also
 
+- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
+
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]

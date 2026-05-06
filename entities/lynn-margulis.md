@@ -1,4 +1,13 @@
 ---
+title: Lynn Margulis
+created: 2026-05-06
+updated: 2026-05-06
+type: entity
+tags: []
+sources: []
+---
+
+---
 ti
 
 # Lynn Margulis

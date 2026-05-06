@@ -1,21 +1,26 @@
 ---
 title: Psilocybe cubensis
-created: 2026-05-06
 type: species
-tags: [fungi, psychoactive, psilocybin, mycology, cultivation]
+tags:
+  - fungi
+  - psilocybin
+  - psychedelic
+  - basidiomycota
+  - coprophilous
+  - entheogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Psilocybe_cubensis
-  - https://pubmed.ncbi.nlm.nih.gov/ (Stamets, "Growing Gourmet and Medicinal Mushrooms")
-  - https://www.doubleblindmag.com/psilocybe-cubensis-guide/
+  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán, G. (2005). "Species diversity of the genus Psilocybe." Fungal Diversity.
 ---
 
 # Psilocybe cubensis
 
-*Psilocybe cubensis* is a species of psychoactive mushroom whose principal active compounds are **psilocybin** and **psilocin**. It is the most widely known and cultivated psilocybin mushroom, owing to its relatively large size, moderate potency, and ease of cultivation. Common names include **golden teacher**, **gold caps**, and **cubes**.
+**Psilocybe cubensis** is a species of psychedelic mushroom whose principal active compounds are psilocybin and psilocin. It is the most widely known and cultivated psychoactive mushroom, belonging to the family Hymenogastraceae in the order Agaricales. Commonly called "golden teacher," "cubes," or simply "cubies," the species has become one of the most studied organisms in the emerging field of psychedelic-assisted therapy.
 
-## Taxonomy
+## Taxonomy and Classification
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
@@ -25,109 +30,87 @@ sources:
 - **Genus:** *Psilocybe*
 - **Species:** *P. cubensis*
 
-Originally described as *Stropharia cubensis* by Earle in 1906 from specimens collected in Cuba. Later transferred to the genus *Psilocybe* by Singer and Smith in 1958. The specific epithet *cubensis* refers to its type locality in Cuba.
+The species was first described in 1906 by Franklin Sumner Earle as *Stropharia cubensis*, based on specimens collected in Cuba. It was later reclassified to the genus *Psilocybe* by Rolf Singer in 1949. The epithet "cubensis" refers to its initial discovery in Cuba, though the species is now known to have a pantropical distribution.
 
-## Identification
+Recent phylogenetic analyses have suggested that *Psilocybe cubensis* and several close relatives may warrant placement in a separate genus, *Hymenogastraceae*, but the traditional nomenclature remains dominant in both mycological and popular literature.
 
-- **Cap:** 1.5–8 cm diameter, conic to convex, expanding to plane with age. Color ranges from pale golden-brown to dark reddish-brown, often with a distinct umbo. Surface is viscid when moist, hygrophanous (fading to straw-yellow as it dries).
-- **Gills:** Adnate to adnexed, grayish initially, darkening to deep purple-brown with spore maturity.
-- **Stipe:** 4–15 cm tall, 0.4–1.4 cm thick, hollow. White to yellowish, bruising blue prominently when handled.
-- **Veil:** Partial veil leaving a persistent annulus (ring) on the stipe. Universal veil remnants may form white patches on the cap margin in young specimens.
-- **Spore print:** Dark purple-brown
-- **Spores:** Ellipsoid, 11.5–17 × 8–11.5 µm
+## Morphology
 
-The **blue bruising** reaction is characteristic and results from the oxidation of psilocin by the enzyme laccase.
+The basidiocarp (fruiting body) of *P. cubensis* exhibits the classic mushroom form:
 
-## Chemistry
+- **Cap (pileus):** 1.5–8 cm in diameter, convex to broadly convex, sometimes plano-convex with age. Surface is smooth and viscous when moist, ranging in color from reddish-cinnamon to golden-brown. Bruises blue when handled, a key identifying feature caused by the oxidation of psilocin.
+- **Gills (lamellae):** Adnate to adnexed, initially pale gray, darkening to purple-black as spores mature. Gills are moderately crowded.
+- **Stipe (stem):** 4–15 cm long, 0.4–1.4 cm thick, hollow, and equal. The stipe is whitish to yellowish, often bruising blue, with a well-developed membranous partial veil that leaves a persistent annulus (ring).
+- **Spores:** Ellipsoidal, smooth, approximately 11.5–17.3 × 8–11.5 µm. Spore print is dark purple-brown to nearly black.
 
-*P. cubensis* contains the following tryptamine alkaloids:
-
-| Compound | % Dry Weight | Activity |
-|---|---|---|
-| Psilocybin | 0.5–1.3% | Prodrug; converted to psilocin in vivo |
-| Psilocin | 0.1–0.6% | Primary psychoactive agent |
-| Baeocystin | Trace – 0.3% | Less potent tryptamine analog |
-| Norbaeocystin | Trace | Uncharacterized activity |
-
-Potency varies significantly by strain, growing conditions, harvest timing, and preparation method.
-
-## Notable Strains/Cultivars
-
-While "strain" in mycological terms refers to the genetic isolate rather than a formally recognized taxonomic variety, the cultivation community recognizes numerous named lines:
-
-- **Golden Teacher** — most popular; moderate potency, reliable fruiting, golden caps
-- **B+** — large fruits, tolerant of suboptimal conditions, beginner-friendly
-- **Penis Envy** — unusually shaped, thick-stemmed, significantly above-average potency
-- **Thai Koh Samui** — fast colonizer, moderate potency, originally collected in Thailand
-- **Ecuador** — large, dense fruits; robust and cold-tolerant
-- **Mazatapec** — Mexican landrace; spiritual/philosophical reputation among users
-- **Gulf Coast** — heat-tolerant, prolific fruiter from the US Gulf region
-- **Albino A+** — leucistic (lacking pigment), white fruits, moderate potency
+A critical diagnostic feature is the two-part spore structure: the spores are thick-walled with a distinct germ pore, distinguishing them from many lookalike species in the genera *Gymnopilus* and *Panaeolus*.
 
 ## Natural Habitat and Distribution
 
-*P. cubensis* is a **coprophilous** (dung-inhabiting) species, found in tropical and subtropical grasslands worldwide. It grows on the dung of herbivores, particularly cattle, and occasionally on enriched soils. Its natural distribution spans:
+*Psilocybe cubensis* is a **coprophilous** (dung-inhabiting) species that grows primarily on the dung of herbivorous mammals, especially cattle (*Bos taurus*). It is found in subtropical and tropical environments worldwide:
 
-- **Central and South America:** Mexico, Cuba, Guatemala, Colombia, Ecuador, Peru, Brazil
-- **Southeast Asia:** Thailand, Cambodia, Vietnam, Indonesia
-- **Sub-Saharan Africa:** Tanzania, Kenya, Angola
-- **Oceania:** Northern Australia, Fiji
+- **Native range:** Cuba, Mexico, and Central America
+- **Introduced/naturalized:** Southeast Asia (Thailand, Cambodia), South America (Colombia, Ecuador, Brazil), the Caribbean, and subtropical regions of the southern United States (Florida, Gulf Coast states, Hawaii)
+- **Altitude:** Typically found at elevations below 1,500 meters
 
-It has been introduced to the southeastern United States, Hawaii, and parts of the Caribbean through livestock movements. Fruiting occurs during warm, humid periods — typically after heavy rains in the rainy season.
+The species thrives in grasslands, pastures, and disturbed tropical soils where herbivore dung is abundant. Fruiting is triggered by warm temperatures (24–30°C), high humidity (>90% relative humidity), and seasonal rainfall. In optimal conditions, colonization of a substrate can occur within 7–14 days, with fruiting bodies appearing 2–4 weeks after inoculation.
+
+## Chemistry and Pharmacology
+
+The primary psychoactive constituents are:
+
+| Compound | Concentration (% dry weight) | Mechanism |
+|----------|------------------------------|-----------|
+| Psilocybin | 0.5–1.2% | Prodrug; converted to psilocin in vivo |
+| Psilocin | 0.1–0.4% | Active form; 5-HT2A receptor agonist |
+| Baeocystin | 0.01–0.3% | Structurally related; less studied |
+| Norbaeocystin | Trace | Minor alkaloid |
+
+Psilocin acts primarily as a partial agonist at the serotonin 5-HT2A receptor, with additional affinity for 5-HT1A, 5-HT2B, and 5-HT2C receptors. This pharmacological profile produces altered perception, synesthesia, emotional shifts, and ego dissolution at moderate to high doses. The average psychoactive dose is 1–2.5 g dried material (10–25 mg psilocybin).
+
+Research at institutions including Johns Hopkins University, Imperial College London, and the University of Zurich has demonstrated efficacy of psilocybin in treating:
+- Treatment-resistant depression
+- End-of-life anxiety in terminal illness
+- Post-traumatic stress disorder (PTSD)
+- Substance use disorders (particularly alcohol and tobacco)
 
 ## Cultivation
 
-*P. cubensis* is the most commonly cultivated psilocybin mushroom due to its fast colonization speed and forgiving nature:
+*P. cubensis* is the most commonly cultivated psychedelic mushroom due to its relatively fast growth, moderate potency, and tolerance of a range of cultivation conditions. Standard methods include:
 
-### Substrates
-- **Brown rice flour + vermiculite** (PF Tek — beginner method)
-- **Grain spawn** (rye, wheat, millet) for inoculation of bulk substrates
-- **Bulk substrates:** coco coir, horse manure, straw, compost
+1. **PF Tek (Psilocybe Fanaticus Technique):** A beginner-friendly method using brown rice flour and vermiculite in half-pint mason jars, sterilized by pressure cooking and inoculated with spore syringes.
+2. **Monotub cultivation:** Bulk substrate method using grain spawn (typically rye, oats, or millet) colonized in jars, then spawned to a bulk substrate of coconut coir, vermiculite, and gypsum in a plastic storage tub.
+3. **Straw/wood-based substrates:** Less common but effective, using pasteurized wheat straw or supplemented sawdust.
 
-### Cultivation Parameters
-- **Colonization temperature:** 24–27°C (75–80°F)
-- **Fruiting temperature:** 22–25°C (72–77°F)
-- **Humidity:** 85–95% relative humidity
-- **Fresh air exchange:** Critical during fruiting initiation
-- **Light:** Indirect ambient light; not required for colonization but triggers fruiting
-
-### Yield
-Typical yields range from 50–200 g fresh weight per kg of dry substrate, depending on method, strain, and experience level. Dried mushrooms retain approximately 10% of fresh weight.
-
-## Pharmacology and Effects
-
-Psilocybin is a **serotonin 5-HT2A receptor agonist**, with additional affinity for 5-HT2C, 5-HT1A, and other receptor subtypes. Effects include:
-
-- **Altered perception:** Visual hallucinations, synesthesia, enhanced color perception
-- **Ego dissolution:** Temporary loss of subjective self-boundary
-- **Emotional amplification:** Heightened emotional responsiveness, often positive
-- **Mystical-type experiences:** Feelings of unity, transcendence, and ineffability
-- **Time distortion:** Slowed or rapid subjective time perception
-- **Onset:** 20–60 minutes; **Peak:** 2–4 hours; **Duration:** 4–8 hours
-
-### Therapeutic Potential
-
-Clinical trials have demonstrated efficacy in:
-- **Treatment-resistant depression** (COMPASS Pathways Phase III, 2024)
-- **End-of-life anxiety** (Johns Hopkins, NYU studies)
-- **Alcohol use disorder** (NYU Langone, 2024)
-- **PTSD** (ongoing trials as of 2026)
-
-In 2023, the State of Oregon began licensing psilocybin service centers under Measure 109, and Colorado followed with Proposition 122. As of 2026, several jurisdictions have or are developing regulatory frameworks for therapeutic psilocybin use.
+Optimal fruiting conditions: 24–27°C, 90–95% relative humidity, fresh air exchange (FAE) of 2–4 air changes per hour, and indirect light on a 12/12 cycle.
 
 ## Legal Status
 
-*P. cubensis* is classified as **Schedule I** under the United States Controlled Substances Act and is similarly controlled or prohibited in most countries. However, several jurisdictions have depenalized or legalized therapeutic use:
+The legal status of *P. cubensis* varies significantly by jurisdiction:
 
-- **Netherlands:** Fresh mushrooms were banned in 2008, but truffles (*sclerotia*) remain legal
-- **Brazil:** Not explicitly scheduled; sale is legal in some contexts
-- **Jamaica:** Legal; has become a destination for psychedelic retreats
-- **Portugal:** Decriminalized for personal use (as of drug decriminalization framework)
-- **Oregon (USA):** Legal for supervised therapeutic use under regulated framework
-- **Canada:** Granted "exception" access for end-of-life patients since 2022
+- **United States:** Schedule I under the Controlled Substances Act; however, several cities and states (Oregon, Colorado) have decriminalized or legalized psilocybin for therapeutic use.
+- **Netherlands:** While fresh mushrooms were banned in 2008, psilocybin-containing truffles (*sclerotia*) remain legal and are sold in "smart shops."
+- **Brazil:** Cultivation and use are not specifically criminalized.
+- **Jamaica:** Legal and regulated as a sacramental and therapeutic substance.
+- **Canada:** Psilocybin and psilocin are Schedule III, but exemptions exist for medical and research purposes.
+
+## Strains and Varieties
+
+Numerous cultivated varieties exist, though these represent domesticated lineages rather than true taxonomic varieties:
+
+- **Golden Teacher:** The most widely available strain; moderate potency, reliable fruiting.
+- **B+:** Large fruiting bodies, resilient, moderate potency.
+- **Penis Envy:** Distinctive morphology with unusually thick stipes and reduced cap size; reported 1.5–3× higher potency.
+- **Ecuador:** Originally collected in Ecuadorian highlands; prolific producer.
+- **Cambodian:** Fast colonizer, originally collected near Angkor Wat.
+- **African Transkei:** Visually striking strain with high variability; originally collected in the Wild Coast region of South Africa.
+
+## Ecology and Symbiosis
+
+In natural environments, *P. cubensis* plays a role in nutrient cycling by decomposing herbivore dung, converting complex organic matter into forms accessible to soil microorganisms and plants. The species is saprotrophic, not mycorrhizal, and does not form direct symbiotic relationships with plant roots. However, its decomposition activity contributes to soil fertility and supports diverse microbial communities in pasture ecosystems.
 
 ## See Also
 
-- [[psilocybin]] — the active compound and its pharmacology
-- [[amanita-muscaria]] — comparison with GABAergic mushroom intoxication
-- [[ergot-alkaloid-chemistry-history]] — fungal source of ergotamine and LSD precursors
+- [[psilocybin]] — The primary psychoactive compound found in *P. cubensis*
+- [[fungal-cultivation-methods]] — General techniques for growing fungi
+- [[powell-gaian-mind-and-entheogenic-flora]] — Overview of psychoactive plant and fungal species

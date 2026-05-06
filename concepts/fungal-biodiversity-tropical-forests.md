@@ -95,6 +95,8 @@ The gap between estimated and described tropical fungal species represents perha
 - Biogeographic surveys comparing fungal communities across tropical regions
 
 ## See Also
+
+- [[turbinellus-floccosus]]
 - [[tropical-restoration-mycorrhiza]]
 
 - [[fungal-biodiversity]] — global context and estimates

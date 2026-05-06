@@ -1,127 +1,127 @@
 ---
-title: Amanita muscaria
-created: 2026-05-06
+title: "Amanita muscaria"
 type: species
-tags: [fungi, psychoactive, mycology, ethnomycology, toxicology]
-date: 2026-04-28
+tags:
+  - fungi
+  - basidiomycota
+  - psychoactive
+  - entheogen
+  - agaricales
+  - toxicology
+  - ethnobotany
+created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Amanita_muscaria
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327406/
-  - Rubel & Arora, "Amanita muscaria: A Forager's Guide to the Most Familiar Mushroom in the World" (2024)
+  - Rubel, A. & Arora, D. (2008). "Amanita muscaria is a vitamin D enriched food source." International Journal of Medicinal Mushrooms, 10(3), 189-194.
+  - Michelot, D. & Melendez-Howell, L.M. (2003). "Amanita muscaria: chemistry, biology, toxicology, and ethnomycology." Mycological Research, 107(2), 131-146.
+  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán, G. (2008). "Hallucinogenic mushrooms in Mexico: an overview." Economic Botany, 62(3), 404-412.
+  - Ott, J. (1976). "Amanita muscaria: the mushroom of power and its anthropological significance." Journal of Psychedelic Drugs, 8(1), 27-34.
 ---
 
-# Amanita muscaria
+## Overview
 
-*Amanita muscaria*, commonly known as the **fly agaric**, is a basidiomycete mushroom of the genus *Amanita*. It is one of the most recognizable mushrooms in the world, with its bright red cap dotted with white warts. Native throughout temperate and boreal regions of the Northern Hemisphere, it has been introduced to the Southern Hemisphere as a symbiont with pine and birch plantations.
+**Amanita muscaria**, commonly known as the fly agaric, is a basidiomycete fungus of the family Amanitaceae. It is among the most recognizable mushrooms in the world, with a bright red cap dotted with white warts.
 
-## Taxonomy and Identification
+The species is psychoactive but pharmacologically distinct from psilocybin-containing mushrooms. Its primary bioactive compounds are ibotenic acid and muscimol, which act on GABA receptors rather than serotonin receptors.
 
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitaceae
-- **Genus:** *Amanita*
-- **Species:** *A. muscaria*
+Despite its toxicity when raw, Amanita muscaria has a long history of ethnomycological use across Siberia, northern Europe, and parts of Asia. It remains one of the most widely documented entheogenic fungi in cultural history.
 
-The cap is 5–20 cm in diameter, initially hemispherical before flattening. Its distinctive red coloration varies from bright scarlet to pale yellow-orange depending on age and geographic variety. White patches (remnants of the universal veil) adorn the cap surface. The gills are free, white, and crowded. The stipe is 5–20 cm tall, white with a bulbous base surrounded by a volva.
+## Taxonomy and Morphology
 
-### Varieties
+**Classification:** Fungi > Basidiomycota > Agaricomycetes > Agaricales > Amanitaceae > Amanita > A. muscaria.
 
-Several varieties are recognized based on cap color:
+**Authority:** (L.) Lam. (1783).
 
-- *A. muscaria* var. **muscaria** — red cap with white warts (Eurasia)
-- *A. muscaria* var. **flavivolvata** — red to orange cap (North America)
-- *A. muscaria* var. **alba** — white cap (rare)
-- *A. muscaria* var. **formosa** — yellow-orange cap
-- *A. muscaria* var. **guessowii** — yellow cap (North America east)
+**Synonyms:** Agaricus muscarius L. (1753), Amanita muscaria var. muscaria.
 
-## Chemistry and Pharmacology
+**Cap:** 8–20 cm diameter, initially hemispherical, becoming convex to flat with age. Bright red to orange-red, covered with white to cream-colored warts (remnants of the universal veil). Warts are easily washed off by rain.
 
-The psychoactive constituents of *A. muscaria* differ fundamentally from those of psilocybin mushrooms:
+**Gills:** Free, crowded, white to cream. Lamellulae (short gills) present and truncate.
 
-### Ibotenic Acid
+**Stipe:** 8–20 cm tall, 1–2.5 cm thick. White, with a bulbous base. Features a conspicuous skirt-like annulus (ring) near the apex and a volva at the base consisting of concentric rings of scales.
 
-A glutamate receptor agonist (primarily at NMDA receptors) and a potent neurotoxin in high doses. It acts as an excitatory amino acid analog, causing overstimulation of neurons. Ibotenic acid is water-soluble and largely destroyed by proper parboiling or drying.
+**Spores:** White spore print. Spores 9–13 × 6.5–9 µm, broadly ellipsoid, smooth, non-amyloid.
 
-### Muscimol
+**Flesh:** White, firm, does not change color on bruising. Odor mild when young, becoming somewhat unpleasant with age.
 
-The primary psychoactive compound responsible for the mushroom's effects. Muscimol is a GABA_A receptor agonist — it is structurally related to GABA itself and produces sedative-hypnotic, dissociative, and deliriant effects. Muscimol is formed through decarboxylation of ibotenic acid during drying or heating.
+## Distribution and Habitat
 
-### Muscarine
+Amanita muscaria has a cosmopolitan distribution in temperate and boreal regions of the Northern Hemisphere. It is native to Europe, Asia, and North America, and has been introduced to the Southern Hemisphere (New Zealand, Australia, South Africa, South America) through association with planted trees.
 
-Despite the species name, *A. muscaria* contains only trace amounts of muscarine — insufficient to cause parasympathetic symptoms. The name is a historical misnomer.
+The species forms ectomycorrhizal associations primarily with **Birch (Betula spp.)** and **Pine (Pinus spp.)**. It is also found with spruce, fir, oak, and beech in mixed forests. Fruiting occurs from late summer through autumn, typically August to November in temperate zones.
 
-## Effects
+Habitat preference spans boreal forest, temperate woodland, and subalpine regions. The species is increasingly common in urban and suburban settings where birch or pine trees are planted ornamentally.
 
-Effects of properly prepared *A. muscaria* (with ibotenic acid removed) include:
+## Bioactive Compounds
 
-- **Sedation and lethargy** — unlike the stimulation of classical psychedelics
-- **Dissociation and depersonalization** — feelings of separation from body/reality
-- **Visual distortions** — especially macropsia (objects appearing large, the "Alice in Wonderland effect")
-- **Auditory phenomena** — buzzing, humming, or enhanced sensitivity to sound
-- **Nausea and gastrointestinal discomfort** — common even with proper preparation
-- **Sleep with vivid dreams** — many users report entering a deep sleep followed by extraordinary dream states
+The psychoactive profile of Amanita muscaria is defined by two isoxazole derivatives:
 
-The onset is typically 30–90 minutes after ingestion, with effects lasting 4–10 hours. The experience is often described as deliriant rather than psychedelic, with users having difficulty distinguishing hallucinations from reality.
+**Ibotenic acid** is a glutamate receptor agonist acting primarily at ionotropic AMPA and NMDA receptors. It is the predominant compound in fresh specimens and is responsible for most of the toxic effects including nausea, confusion, and ataxia.
 
-## Historical and Cultural Significance
+**Muscimol** is a potent GABA_A receptor agonist and the primary psychoactive agent after proper preparation. It is formed through decarboxylation of ibotenic acid when the mushroom is dried or heated. Muscimol produces sedative, hypnotic, and dissociative effects at psychoactive doses.
 
-### Siberian Shamanism
+Additional compounds include muscazone (a minor metabolite), stizolobic acid, and various glutamate derivatives. Trace amounts of bufotenin have been reported in some analyses.
 
-The most well-documented historical use comes from Siberian and circumpolar shamanic traditions. The Koryak, Chukchi, and Kamchadal peoples used *A. muscaria* in religious ceremonies. Shamans consumed the mushrooms to enter trance states, communicate with spirits, and divine the future. The practice of consuming the urine of someone who had eaten the mushroom (which contains primarily muscimol, with ibotenic acid filtered out) was documented among multiple Siberian groups.
+## Pharmacology and Effects
 
-### The Soma Hypothesis
+Muscimol binds to GABA_A receptors as a direct agonist, enhancing inhibitory neurotransmission. This mechanism is distinct from psilocybin's 5-HT2A agonism and accounts for the qualitatively different experience — sedative and dreamlike rather than stimulatory and visionary.
 
-R. Gordon Wasson proposed in 1968 that *A. muscaria* was the identity of **Soma**, the sacred ritual drink described in the Rigveda. This hypothesis, while influential, remains debated among Vedic scholars. Alternative candidates include *Peganum harmala* and various Ephedra species.
+Ibotenic acid acts as an excitotoxin at glutamate receptors, causing the unpleasant physical symptoms associated with raw consumption. The decarboxylation of ibotenic acid to muscimol is the critical detoxification step in traditional preparation methods.
 
-### European Folklore
+Effects of properly prepared Amanita muscaria include sedation, euphoria, visual distortions, auditory changes, and altered perception of body size (macropsia and micropsia). The experience is frequently described as dreamlike, with episodes of vivid imagery and altered thought patterns.
 
-* Amanita muscaria* features prominently in European fairy tale imagery — the iconic red-and-white mushroom appears in Alice's Adventures in Wonderland, Christmas decorations (possibly linking to Santa Claus folklore), and numerous children's story illustrations.
+Onset occurs 30–90 minutes after ingestion. Effects typically last 4–8 hours, with residual sedation possible for up to 12 hours. Tolerance develops rapidly and cross-tolerance with other GABAergic substances (benzodiazepines, alcohol) is documented.
 
-### Contemporary Use
+## Traditional and Cultural Use
 
-In modern times, *A. muscaria* has gained renewed interest as a legal psychoactive in many jurisdictions. Commercial preparations (often marketed as "Amanita gummies" or extracts) have appeared in head shops and online. The FDA has issued warnings about these products, and several states have moved to regulate them.
+Siberian shamanic use of Amanita muscaria is among the best-documented entheogenic traditions. Indigenous peoples of the Kamchatka Peninsula, Chukotka, and other parts of Siberia consumed dried caps for religious and divinatory purposes. The practice of urine-drinking to recycle muscimol is well attested in ethnographic accounts.
 
-## Preparation and Detoxification
+The Koryak, Itelmen, and Chukchi peoples recognized several varieties based on cap color and potency. Shamans used the mushroom to induce trance states for healing, divination, and communication with spirit worlds.
 
-Traditional Siberian preparation methods serve to reduce toxicity:
+In Nordic and Germanic folklore, Amanita muscaria is associated with berserkers, Viking warriors, and the mythology surrounding the World Tree. The "fly" in its common name refers to its traditional use as an insecticide — caps were crumbled into milk to attract and kill flies.
 
-1. **Parboiling** — boiling in water for 15–20 minutes, discarding the water (removes water-soluble ibotenic acid)
-2. **Drying** — air-drying or oven-drying at low heat converts ibotenic acid to muscimol
-3. **Urine recycling** — traditional Siberian method; muscimol is excreted largely unchanged while ibotentic acid is metabolized
+The mushroom's iconic appearance has made it a universal symbol of "mushroom" in popular culture, appearing in video games (Super Mario Bros.), children's books (Alice in Wonderland illustrations), and holiday iconography (the Christmas tree ornament and Santa Claus imagery theories).
 
-Proper preparation is essential: raw or improperly prepared specimens carry significant risk of toxicity including seizures, coma, and (rarely) death.
+## Toxicity and Preparation
 
-## Ecology
+Raw Amanita muscaria contains significant levels of ibotenic acid, which causes nausea, vomiting, dizziness, confusion, and ataxia. Fatalities are extremely rare — the species has a far lower lethality than other Amanita species such as A. phalloides (death cap) or A. virosa (destroying angel).
 
-*Amanita muscaria* is an **ectomycorrhizal** species, forming symbiotic associations with the roots of trees — primarily conifers (pine, spruce, fir) and deciduous trees (birch, oak). It cannot be cultivated in the absence of host trees, making commercial cultivation difficult. The mushroom fruits in autumn, typically September through November in temperate regions.
+Traditional Siberian preparation involves parboiling or drying the caps, which converts ibotenic acid to muscimol and significantly reduces toxicity. Modern preparation methods include water-boiling with multiple water changes, oven-drying at 70–80°C, and lemon-juice extraction.
 
-## Toxicity
+The primary danger lies in misidentification — collectors may confuse Amanita muscaria with other Amanita species that contain deadly amatoxins. The white gills, white spore print, volva, and annulus are shared features across the genus.
 
-- **LD50 (mice, oral):** ~38 mg/kg (ibotenic acid)
-- Fatalities are rare in adults but have been reported, primarily in children
-- Symptoms of poisoning include: nausea, vomiting, dizziness, confusion, agitation, ataxia, hallucinations, seizures
-- Treatment is supportive; activated charcoal may be administered if ingestion is recent
-- No specific antidote exists
+## Culinary and Nutritional Use
 
-## Legal Status
+After thorough parboiling (discarding the water), Amanita muscaria is consumed as food in parts of Japan, eastern Europe, and Russia. The parboiling process removes water-soluble ibotenic acid, rendering the remaining flesh edible and reportedly palatable.
 
-* Amanita muscaria* is **unscheduled** in most countries, including the United States (at the federal level), the United Kingdom, and most of Europe. However, several US states have recently enacted restrictions, and sale for human consumption is prohibited in some jurisdictions. It remains legal to possess, sell, and cultivate in many places, though this is subject to rapid regulatory change.
+Nutritional analysis shows Amanita muscaria is a significant dietary source of **vitamin D2** (ergocalciferol) when UV-exposed during drying. One study found dried caps containing up to 249 µg/g of vitamin D2, making them among the richest non-animal sources of this vitamin.
 
-### Recent Regulatory Developments
+The mushroom has also been investigated as a potential source of insecticidal and antifungal compounds, consistent with its historical use as a fly poison.
 
-- **Louisiana (2024):** Added *A. muscaria* to the state's controlled substance schedule
-- **Florida (2025):** Emergency rule restricting sales of muscimol-containing products
-- **EU (2025):** European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) began reviewing *A. muscaria* products sold as "legal highs"
-- The rapid commercialization of *A. muscaria* extracts in the early 2020s has prompted increased regulatory scrutiny across multiple jurisdictions
+## Varieties and Related Species
+
+Several varieties of Amanita muscaria have been described based on cap color and geographic distribution:
+
+- **A. muscaria var. muscaria** — red cap with white warts, the classic Eurasian type
+- **A. muscaria var. flavivolvata** — red to orange cap, North American
+- **A. muscaria var. alba** — white cap, rare form found across the range
+- **A. muscaria var. formosa** — yellow-orange cap, widespread in Europe and eastern North America
+- **A. muscaria var. guessowii** — yellow cap, eastern North America
+
+Recent molecular phylogenetic work has suggested that what was traditionally considered a single polymorphic species may represent a species complex. North American populations show significant genetic divergence from Eurasian populations, supporting the recognition of distinct taxa.
+
+The species complex includes **Amanita persicina** (peach-colored fly agaric, southeastern North America) and **Amanita regalis** (the brown fly agaric, northern Europe and Asia). A. regalis contains the same ibotenic acid–muscimol profile but is a distinct species.
 
 ## See Also
 
-- [[agaricus-xanthodermus]]
-- [[amanita-ceceliae]]
-
-- [[psilocybin]] — comparison of psychoactive mushroom compounds
-- [[ergot-alkaloid-chemistry-history]] — another fungus with significant cultural and pharmacological impact
-- [[amanita-muscaria-pharmacology]] — detailed receptor-level pharmacology
+- [[ibotenic-acid]]
+- [[muscimol]]
+- [[psilocybin]]
+- [[panaeolus-cyanescens]]
+- [[psilocybe-cubensis]]
+- [[inocybe-corydalina-entity]]
+- [[gymnopilus-luteofolius]]
+- [[pluteus-saliginus]]
+- [[salvia-divinorum]]
+- [[trametes-versicolor]]

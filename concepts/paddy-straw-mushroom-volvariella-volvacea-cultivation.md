@@ -100,6 +100,8 @@ Beyond table consumption, paddy straw mushroom shows immunobiological activity. 
 
 ## See Also
 
+- [[volvariella-bombycina]]
+
 - [[stamets-cultivator-paddy-straw-volvariella-volvacea-cultivation]]
 
 - [[growing-gourmet-paddy-straw-mushroom-volvariella]]

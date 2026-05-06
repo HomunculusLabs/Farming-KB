@@ -141,6 +141,8 @@ sources: ["domain-knowledge"]
 - Fertilization: Light applications of balanced fertilizer in early spring benefit young trees
 - Mulch: 5–8 cm organic mulch over root zone, kept away from trunk
 ## See Also
+
+- [[houttuynia-cordata]]
 - [[melissa-officinalis]] — Lemon balm; shares anxiolytic and nervine indications; traditional tea companion
 - [[valeriana-officinalis]] — Valerian; complementary sedative herb often combined with linden in sleep formulations
 - [[hypericum-perforatum]] — St. John's wort; overlaps in anxiolytic/mild depressive indications

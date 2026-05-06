@@ -146,6 +146,8 @@ Artificial cultivation uses mycelium fermentation (strain Cs-4), yielding a phar
 
 ## See Also
 
+- [[ophiocordyceps-unilateralis]]
+
 - `[[cordyceps-militaris]]` — Bright orange cultivated cordyceps with higher cordycepin yields
 - `[[cordyceps-sinensis]]` — Additional reference page for traditional Cordyceps classification
 - `[[psilocybe-cubensis-entity]]` — Another commercially significant entheogenic fungus

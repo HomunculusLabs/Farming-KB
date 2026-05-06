@@ -119,6 +119,8 @@ perspectives on seed activation that complement microgreen and sprouting practic
 
 ## Related
 
+- [[query-how-do-i-grow-goji-berries-at-home]]
+
 - [[comparison-microgreens-vs-sprouts]] Questions
 - [[query-how-to-start-seed-saving]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]

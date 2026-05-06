@@ -101,6 +101,8 @@ Species for saline and coastal environments:
 
 ## See Also
 
+- [[ulmus-rubra]]
+
 - [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
 - [[permaculture-plants-nitrogen-fixing-trees]] - nitrogen-fixing trees to pair with ground covers
 - [[permaculture-plants-aquatic-and-wetland-species]] - wetland ground covers

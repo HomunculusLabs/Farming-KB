@@ -10,8 +10,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 # Neurotropic Fungi Underground Trade and Legislation
 
-The worldwide geographical distribution survey by [[Guzmán, Allen & Gartz
-(1998)]] documents not only the natural occurrence of 216 neurotropic
+The worldwide geographical distribution survey by [[Guzmán, Allen & Gartz (1998)]] documents not only the natural occurrence of 216 neurotropic
 fungal species but also implicitly reveals the profound impact of
 recreational drug legislation on the study, trade, and cultural use of
 these fungi. The fourth historical period of neurotropic fungi use,
@@ -82,8 +81,7 @@ spanning several decades and numerous countries.
 ## Degradation of Traditional Use in Mexico
 
 Perhaps the most significant cultural impact documented in the paper is
-the degradation of traditional mushroom use in [[Mexico as a Neurotropic
-Fungi Diversity Hotspot]]. The paper's extensive Mexican species lists
+the degradation of traditional mushroom use in [[Mexico as a Neurotropic Fungi Diversity Hotspot]]. The paper's extensive Mexican species lists
 include many species with deep ethnomycological significance:
 
 - **Psilocybe mexicana**: One of the most sacred species, known as
@@ -166,8 +164,7 @@ distinguishing natural from anthropogenic distribution patterns:
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 
-- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the
-  Americas]]
+- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas]]
 - [[Psilocybe semilanceata Worldwide Temperate Distribution]]
 - [[Mexico as a Neurotropic Fungi Diversity Hotspot]]
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]

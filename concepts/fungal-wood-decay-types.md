@@ -110,6 +110,10 @@ management decisions regarding snag retention and coarse woody debris management
 
 ## Related
 
+- [[coriolopsis-capitata]]
+
+- [[ischnoderma-resinosum]]
+
 - [[fungal-enzyme-wood-decay]]
 
 - [[fungal-enzyme-systems-and-nutrient-cycling]]

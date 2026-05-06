@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Philosophy Mu Buddhist Roots Natural Farming
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Philosophy of Mu and the Buddhist Roots of Natural Farming tags:
   - fukuoka - philosophy - mu - nothingness - buddhism - do-nothing-farming - nondiscriminating-knowledge - zen - spiritual-farming - natural-farming-theory - japanese-agriculture
 date: 2026-04-28 updated: 2026-04-28 sources:

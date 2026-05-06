@@ -117,6 +117,8 @@ See also: [[seed-saving-techniques]], [[seed-saving-vegetables]], [[seed-selecti
 
 ## Related
 
+- [[solomon-fertigation-and-transplant-establishment]]
+
 - [[solomon-choosing-seeds-and-catalogs]]
 - [[seed-company-supplier-reference]]
 - [[solomon-gardening-when-it-counts-index]]

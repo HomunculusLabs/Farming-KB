@@ -101,6 +101,8 @@ Coprophilous fungi are critical for:
 
 ## See Also
 
+- [[coprophilous-fungi-ecology-diversity-succession]]
+
 - [[fungal-species-richness-and-diversity-indices]]
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[soil-fungal-isolation-techniques]]

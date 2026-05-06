@@ -136,6 +136,8 @@ Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) 
 
 ## See Also
 
+- [[psilocybin-level-stability-across-flushes]]
+
 - [[psilocin-accumulation-pattern-across-flushes]]
 
 - [[Psilocin Accumulation Pattern Across Flushes]]

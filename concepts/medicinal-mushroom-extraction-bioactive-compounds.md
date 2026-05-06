@@ -119,6 +119,8 @@ metals and pesticides, and quantified levels of active compounds.
 
 ## See Also
 
+- [[sanghuangporus-baumii]]
+
 - [[medicinal-mushroom-bioactive-compounds]]
 
 - [[mushroom-substrate-preparation-sterilization]]

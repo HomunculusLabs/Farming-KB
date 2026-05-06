@@ -1,4 +1,13 @@
 ---
+title: Stone Fruit Tree Care
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 ## Overview
 Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, disease management, and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.

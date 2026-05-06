@@ -117,6 +117,8 @@ Gartz cited Bigwood and Beug as reference 2 and reproduced their general finding
 
 ## See Also
 
+- [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
+
 - [[psilocybin-psilocin-variation-flushes]]
 
 - [[psilocybin-potency-variation]]

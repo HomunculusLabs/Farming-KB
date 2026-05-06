@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Black Wattle Green Manure Trees Orchard Soil Building
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Black Wattle and Green Manure Trees in Orchard Soil Building tags:
   - fukuoka - natural-farming - agroforestry - green-manure - black-wattle - acacia - soil-building - nitrogen-fixation - orchard-management - legumes - integrated-farming
 date: 2026-04-28 updated: 2026-04-28 sources:

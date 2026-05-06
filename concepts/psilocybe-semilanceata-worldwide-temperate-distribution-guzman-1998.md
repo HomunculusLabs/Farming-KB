@@ -14,8 +14,7 @@ Psilocybe semilanceata, commonly known as the liberty cap, is one of the most
 widely distributed neurotropic fungi in the world. According to the global
 survey by [[Guzmán, Allen & Gartz (1998)]], this species has been documented
 across an extraordinary range of temperate and boreal habitats spanning both
-hemispheres, yet is notably absent from [[Mexico as a Neurotropic Fungi
-Diversity Hotspot]], making its distribution pattern a biogeographic anomaly.
+hemispheres, yet is notably absent from [[Mexico as a Neurotropic Fungi Diversity Hotspot]], making its distribution pattern a biogeographic anomaly.
 
 ## European Distribution
 
@@ -102,8 +101,7 @@ Mexico harbors 76 species of neurotropic fungi, including 44 species of
 Psilocybe, making it the most diverse country for this genus globally. Yet
 P. semilanceata, one of the most common and widespread Psilocybe species
 worldwide, has never been documented in Mexico. This absence supports the
-hypothesis proposed by [[Southern Hemisphere Origin Hypothesis for
-Neurotropic Fungi]] that temperate-adapted Psilocybe species represent a
+hypothesis proposed by [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]] that temperate-adapted Psilocybe species represent a
 secondary radiation from tropical ancestors, and that Mexico's primarily
 subtropical and tropical mycobiota lacks the cool, moist grassland habitats
 that P. semilanceata requires.
@@ -125,8 +123,7 @@ P. semilanceata is consistently associated with:
 The distribution of P. semilanceata raises important questions about the
 evolutionary history of [[Psilocybe]]:
 - Its presence in both Northern and Southern Hemisphere temperate zones
-  supports the [[Southern Hemisphere Origin Hypothesis for Neurotropic
-  Fungi]] proposed by Guzmán and colleagues
+  supports the [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]] proposed by Guzmán and colleagues
 - Its absence from tropical regions, including species-rich Mexico, suggests
   it is a derived temperate lineage rather than a tropical one
 - The disjunct populations in Chile and Australia may represent Gondwanan
@@ -155,7 +152,6 @@ distributions, including:
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 
 - [[Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi]]
-- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the
-  Americas]]
+- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas]]
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]
 - [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]

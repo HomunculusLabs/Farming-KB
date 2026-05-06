@@ -128,5 +128,7 @@ litter); heather (*Calluna vulgaris*), lingonberry (*V. vitis-idaea*); lichens, 
 
 ## See Also
 
+- [[vaccinium-ovatum]]
+
 - [[ericoid-mycorrhiza]]
 - [[food-forest]]

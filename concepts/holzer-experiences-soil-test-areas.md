@@ -14,17 +14,17 @@ From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
 ## Soil Type Strategies
 
-In the course of my projects in Austria and abroad I have worked with very different types of soil. When I survey the land for the first time, I dig a number of test trenches in different areas. The [[permaculture-earthworks|earthworks]] strategy depends on understanding the soil can vary greatly within as little as 10-20 metres.
+In the course of my projects in Austria and abroad I have worked with very different types of soil. The [[fungal-soil-aggregation|soil aggregation]] and texture vary enormously across even small areas. When I survey the land for the first time, I dig a number of test trenches in different areas. The [[permaculture-earthworks|earthworks]] strategy depends on understanding the soil can vary greatly within as little as 10-20 metres.
 
 On the Krameterhof, the deeper layers (two to three metres) are made of a very distinct coarse and stony material. If I wanted to make a terrace or pond here, I would have to separate this material. I dig out the required amount of earth and shake it to form a tall mound using an excavator. The fine material will stay in the middle, whilst the coarse material will fall to the sides. I use the coarse material to support and secure the structures, whereas I use the fine material on the terraces as fertile soil, or to make the bases of ponds watertight.
 
-Loam requires a very different strategy. Sealing [[holzer-water-landscapes-pond-building|ponds]] is not a problem with loam because of its high water retention. The challenge is to stabilise the walls of deeper ponds. Heavy clay and loam soils should not be shaken into tall heaps. Even if you compact it with a digger or a roller, you will not be able to stabilise the soil, because of its high water content.
+Loam requires a very different strategy. Sealing [[holzer-water-landscapes-pond-building|ponds]] is not a problem with loam because of its high water retention. The [[acid-and-alkaline-soil-management|management of soil pH]] is another factor that varies with soil type. The challenge is to stabilise the walls of deeper ponds. Heavy clay and loam soils should not be shaken into tall heaps. Even if you compact it with a digger or a roller, you will not be able to stabilise the soil, because of its high water content.
 
 
 
 ## Test Areas
 
-The little gardens I tended as a child were my first test areas. Over the years my test areas grew larger. By experimenting I learnt a great deal about nature. Now my land measures around 45 hectares, which makes for a very large test area indeed.
+The [[hugelkultur-bed-construction-detailed|hugelkultur technique]] of building soil mounds was one of many methods Holzer tested. The little gardens I tended as a child were my first test areas. Over the years my test areas grew larger. By experimenting I learnt a great deal about nature. Now my land measures around 45 hectares, which makes for a very large test area indeed.
 
 Plants that, according to the experts, should not be able to grow here can be cultivated on the Krameterhof regardless. If I had not tried, I never would have thought it possible. For instance, I can grow many varieties of kiwi, lemons and grapes in [[holzer-microclimates-permaculture|suntraps]].
 
@@ -32,7 +32,7 @@ Plants that, according to the experts, should not be able to grow here can be cu
 
 ## High-Altitude Cereal Cultivation
 
-I cultivate ancient cereals on old pasture at 1,500m above sea level. I sowed einkorn wheat, emmer wheat and ancient Siberian grain and, to my surprise, even at this height, they had fully ripened by September. These [[holzer-ancient-cereals-growing|ancient cereals]] demonstrate the [[sepp-holzer-method|Holzer method]] of working with extreme conditions.
+The [[cold-climate-permaculture-guide|principles of cold-climate permaculture]] are well demonstrated here. I cultivate ancient cereals on old pasture at 1,500m above sea level. I sowed einkorn wheat, emmer wheat and ancient Siberian grain and, to my surprise, even at this height, they had fully ripened by September. These [[holzer-ancient-cereals-growing|ancient cereals]] demonstrate the [[sepp-holzer-method|Holzer method]] of working with extreme conditions.
 
 Many experts claim that Lungau is not suitable for growing cereal crops and that the higher areas are even less so. Despite this, barley, wheat, oats, rye and even flax and sunflowers ripen fully on our farm at 1,500m above sea level. However, this only works with old hardy varieties. These varieties, unlike the standard EU-approved seeds, can cope with the poorest soils and the most extreme temperatures. The nutritional value and content of the cereals I grow on my mountain pasture is far better than that of cereals grown as a monoculture.
 
@@ -57,6 +57,7 @@ Many experts claim that Lungau is not suitable for growing cereal crops and that
 
 ## Practical Applications
 
+[[permaculture-design|Permaculture design]] principles underpin all of Holzer's practical recommendations.
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
 - Construct raised beds using available materials — logs, branches, soil, and organic matter in layered mounds. See [[holzer-terrace-construction-guide|terrace construction]] for slope-specific techniques.
 - Install ponds and water features at high points to enable gravity-fed irrigation and create reflective microclimates. See [[holzer-aquaculture-pond-construction|aquaculture]] for pond construction details.
@@ -64,6 +65,7 @@ Many experts claim that Lungau is not suitable for growing cereal crops and that
 - Plant fruit trees and berry bushes on mounds and slopes where water drainage is optimal.
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
+[[holzer-polycultures-catch-crop-combinations|Polyculture systems]] provide resilience against weather extremes, pests, and disease.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
 

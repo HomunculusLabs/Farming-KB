@@ -117,6 +117,8 @@ As an understudied psychoactive plant, D. spinosa presents significant opportuni
 
 ## See Also
 
+- [[prunus-spinosa]]
+
 - [[latua-pubiflora]] — Latue, used for similar shamanic purposes in southern Chile
 - [[brugmansia-sanguinea]] — another "Borrachero" of the Andes
 - [[brugmansia-aurea]] — Angel's Trumpet, widely used Andean hallucinogen

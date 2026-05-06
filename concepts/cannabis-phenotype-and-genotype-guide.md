@@ -114,6 +114,8 @@ Cannabis plants are classified by their cannabinoid profile:
 
 ## Related
 
+- [[g13]]
+
 - [[cannabis-phenotype-selection]]
 - [[cannabis-genetics-and-breeding]] — for breeding techniques
 - [[cannabis-landrace-and-heirloom-varieties]] — for pure varieties

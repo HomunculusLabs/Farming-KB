@@ -103,6 +103,8 @@ Essential for identification — place cap gills-down on half white/half black p
 
 ## See Also
 
+- [[hygrophorus-agathosmus]]
+
 - [[cystoderma-amianthinum]]
 
 - [[gyromitrin]]

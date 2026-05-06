@@ -129,7 +129,9 @@ Cannabis, through its interactions with the endocannabinoid system's CB1
 and CB2 receptors, plays a role in immune modulation that may help
 maintain the body's natural cancer surveillance and defense mechanisms.
 
-## Related Topics
+## Related
+
+- [[agent-orange]] Topics
 
 - [[blesching-cannabis-hepatitis]] - Hepatitis B/C and liver cancer
   prevention

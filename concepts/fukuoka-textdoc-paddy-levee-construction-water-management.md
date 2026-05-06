@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Paddy Levee Construction Water Management
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Paddy Levee Construction and Water Management in Natural Farming tags:
   - fukuoka - natural-farming - rice - paddy - irrigation - drainage - water-management - levee - earthen-infrastructure - traditional-agriculture -
   intermittent-irrigation

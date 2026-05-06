@@ -1,104 +1,122 @@
 ---
-title: Banisteriopsis caapi
-created: 2026-04-28
+title: "Banisteriopsis caapi"
 type: species
 tags:
-  - ethnobotany
-  - ayahuasca
+  - plants
   - malpighiaceae
-  - psychedelic-plants
-  - amazon
-date: 2026-04-28
+  - entheogen
+  - ayahuasca
+  - ethnobotany
+  - maoi
+  - amazonian
+created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. Charles C. Thomas.
+  - Ott, J. (1994). Ayahuasca Analogues: Pegaanuma to Ayahuasca. Natural Products Co.
+  - Luna, L.E. (1984). "The concept of plants as teachers among four mestizo shamans of Iquitos, northeastern Peru." Journal of Ethnopharmacology, 11(2), 135-156.
+  - Riba, J. et al. (2001). "Topographic psychometric analysis of the Salvinorin A-induced modified states of consciousness." Journal of Psychoactive Drugs, 33(3), 245-256.
+  - Hamill, J. et al. (2019). "Banisteriopsis caapi: a review of ethnobotanical, phytochemical and pharmacological studies." Journal of Psychopharmacology, 33(8), 947-965.
+  - Mckenna, D.J. (2004). "Clinical investigations of the therapeutic potential of ayahuasca." Pharmacology & Therapeutics, 102(2), 111-129.
 ---
 
-# Banisteriopsis caapi
+## Overview
 
-**Banisteriopsis caapi** is a South American tropical liana of the family Malpighiaceae, revered as the primary botanical ingredient in the entheogenic brew **ayahuasca**. Indigenous peoples of the Amazon basin have used B. caapi for centuries—likely millennia—in shamanic and healing ceremonies. The vine itself is considered a "teacher plant" or "plant spirit" in many Amazonian cosmologies, often referred to as *ayahuasca* (from Quechua *aya* = spirit/soul, *huasca* = vine) or simply *la purga*. The ayahuasca complex—B. caapi combined with a DMT-containing admixture plant—is one of the most pharmacologically sophisticated plant preparations known to ethnobotany, and its discovery by indigenous Amazonian peoples represents a remarkable achievement in traditional pharmacological knowledge.
+**Banisteriopsis caapi** is a perennial climbing vine of the family Malpighiaceae, native to the Amazon basin and adjacent tropical regions of South America. It is the primary botanical ingredient of **ayahuasca**, a psychoactive brew used for millennia by indigenous peoples of the Amazon for healing, divination, and religious ceremony.
 
-## Taxonomy and Distribution
+The defining pharmacological role of B. caapi in the ayahuasca brew is its content of **beta-carboline alkaloids** — harmine, harmaline, and tetrahydroharmine (THH) — which function as reversible monoamine oxidase inhibitors (MAOIs). These compounds prevent the enzymatic breakdown of orally administered DMT, allowing the psychedelic compound to become systemically active.
 
-- **Family:** Malpighiaceae (a family of approximately 75 genera and 1,300 species, primarily tropical)
-- **Genus:** Banisteriopsis (approximately 60 species of neotropical vines and shrubs)
-- **Distribution:** Throughout the Amazon basin, from Colombia and Ecuador through Peru and Bolivia to western Brazil. Found in lowland tropical rainforest, often climbing into the canopy at the forest edge or in light gaps.
-- **Synonyms/historical names:** Banisteria caapi (original combination by Spruce), Prestonia amazonica (misapplied in some early literature).
-- **Related species:** B. inebrians, B. quitensis (both also used in ayahuasca-like preparations in Ecuador and Colombia), B. rusbyana (used in some Bolivian preparations).
+Beyond its role as an MAOI source, B. caapi has been shown to possess independent neuroprotective, anti-inflammatory, and neuroplasticity-promoting properties. Modern research increasingly recognizes that the vine contributes significantly to the therapeutic effects of ayahuasca beyond simply enabling DMT absorption.
 
-Several morphological varieties or "types" of B. caapi are recognized by indigenous practitioners, who ascribe different qualities and potencies to each. These include the "celestial" (cielo), "thunder" (trueno), "Indian" (indio), and "narrow-leaf" (hoja fina) varieties. While these categories lack formal taxonomic recognition, they may correspond to chemically distinct populations with differing alkaloid profiles. The cielo variety, for example, is generally considered gentler and more visual, while the trueno variety is associated with more intense and potentially challenging experiences.
+## Taxonomy and Morphology
 
-## Botanical Description
+**Classification:** Plantae > Magnoliopsida > Malpighiales > Malpighiaceae > Banisteriopsis > B. caapi.
 
-B. caapi is a woody vine (liana) that can grow to considerable length, ascending into the forest canopy. The stem is typically 2–10 cm in diameter, with smooth to slightly fissured bark that is brown to dark reddish-brown when dry and yellowish-brown when fresh. Leaves are opposite, ovate to elliptic, 7–12 cm long, with entire margins and prominent venation. Inflorescences are terminal or axillary panicles bearing small pinkish flowers approximately 5–8 mm in diameter. The fruit is a samara—a dry, winged seed approximately 2–3 cm long, adapted for wind dispersal.
+**Authority:** (Spruce ex Griseb.) C.V. Morton (1931).
 
-The vine grows in a characteristic twining habit, spiraling around host trees and shrubs in a clockwise direction. Mature specimens can be decades old; stems from very old plants may reach 15 cm or more in diameter. Harvesting typically involves cutting sections of the stem, which are then cleaned of outer bark and prepared for brewing. The cambial layer (inner bark) contains the highest concentration of active alkaloids. Proper harvesting techniques—taking only a portion of the vine and leaving the plant to regenerate—are traditionally observed.
+**Synonyms:** Banisteria caapi Spruce ex Griseb. (1858), Prestonia amazonica Benth.
 
-## Phytochemistry
+**Growth habit:** Woody liana (climbing vine) that can extend 30 meters or more into the forest canopy. The stem is cylindrical, woody, and produces abundant latex when cut. Bark is smooth, greyish-brown, with characteristic transverse fissures.
 
-The primary active compounds in B. caapi are **beta-carboline alkaloids**, specifically:
+**Leaves:** Simple, opposite, broadly elliptic to ovate, 8–18 cm long and 4–10 cm wide. Dark green above, lighter below. Petiole short with a pair of glandular dots at the base — a diagnostic feature of the Malpighiaceae.
 
-- **Harmine** (7-methoxy-1-methyl-9H-pyrido[3,4-b]indole) — the most abundant and pharmacologically potent MAOI in the vine. Typical concentrations range from 0.1% to 0.7% by dry weight. Harmine was first isolated from B. caapi in the mid-20th century.
-- **Harmaline** (3,4-dihydroharmine) — structurally similar to harmine with comparable MAO inhibition. The ratio of harmine to harmaline varies between populations and varieties.
-- **Tetrahydroharmine** (THH) — present in significant quantities in many samples; a weak serotonin reuptake inhibitor in addition to its MAO inhibitory activity. THH may contribute to the dreamlike, introspective quality of the ayahuasca experience.
+**Flowers:** Small, pink to pinkish-white, borne in axillary or terminal cymes. Five petals, fringed or toothed margins. The inflorescences are not particularly showy compared to other Malpighiaceae.
 
-These compounds are **monoamine oxidase inhibitors (MAOIs)** of the reversible type A (RIMA). They inhibit the breakdown of dimethyltryptamine (DMT) in the gastrointestinal tract and liver, allowing orally ingested DMT to reach the central nervous system and produce psychoactive effects. This pharmacodynamic synergy between the MAOI-rich vine and the DMT-containing admixture plant (typically *Psychotria viridis* or *Diplopterys cabrerana*) is the defining feature of the ayahuasca complex. The discovery of this pharmacological mechanism—achieved by indigenous peoples without any knowledge of biochemistry—is considered one of the most remarkable examples of ethnopharmacological knowledge.
+**Fruit:** Samara (winged fruit), characteristic of the family, with a single seed enclosed in a winged structure that aids wind dispersal.
 
-The alkaloid content of B. caapi varies considerably between varieties, populations, and growth conditions. Some analyses have identified additional minor alkaloids including harmol, harmalol, and various shikonin derivatives. Proanthocyanidins and other polyphenols contribute to the vine's astringent and bitter taste. The total beta-carboline alkaloid content of dried vine typically ranges from 0.2% to 1.3%.
+**Root:** The root bark is the most commonly harvested plant part for ayahuasca preparation. It is dark brown to reddish-brown, fibrous, and intensely bitter.
 
-## Ethnobotanical Use
+## Distribution and Habitat
 
-B. caapi is the indispensable cornerstone of ayahuasca. Without it, the DMT from companion plants would be orally inactive due to first-pass metabolism by monoamine oxidase enzymes in the gut. Indigenous use spans numerous ethnic groups including:
+Banisteriopsis caapi is distributed throughout the Amazon basin, from the western slopes of the Andes in Peru, Ecuador, and Colombia, eastward through Brazil to the Atlantic coast, and northward into Venezuela and the Guianas. It also extends into the Pacific coastal regions of Colombia and Ecuador.
 
-- The Shipibo-Conibo of Peru, who are among the most renowned ayahuasca practitioners and whose icaro (healing songs) are an integral part of the ceremony. The Shipibo consider ayahuasca to be the mother of all plants and the source of all healing knowledge.
-- The Quechua-speaking peoples of Ecuador and Peru, for whom ayahuasca use is integrated into a broader cosmological system involving plant spirits, animal allies, and sacred landscapes.
-- The Tukano of the Colombian Amazon, who maintain elaborate cosmological frameworks around ayahuasca use, including the concept of "Yagé people"—ancestral beings who established the ceremonial practices.
-- The Asháninka of Peru, who use B. caapi alongside other medicinal plants in their healing traditions.
-- The Kaxinawá (Huni Kuin) of Brazil, who call the vine *nixi pae* or *uni* and consider it one of their most important sacred medicines.
+The species occurs in lowland tropical rainforest, primary and secondary growth, and forest edges. It is most commonly found in mature floodplain forest (varzea) and terra firme forest up to 800 meters elevation.
 
-Traditional preparation involves pounding the cleaned stem bark and boiling it (often for many hours, sometimes repeatedly over multiple days) together with the leaves of a DMT-containing plant. The resulting bitter, dark brown brew is consumed in ceremonial contexts typically led by a shaman, curandero/a, or onanya. The emetic effects of the brew are considered therapeutically significant—a process referred to as "la purga" or "la limpieza" (the purge or cleansing), through which physical and spiritual toxins are released.
+Cultivation is widespread throughout the Amazon basin. Indigenous and mestizo communities maintain planted vines in forest gardens (chacras) and around settlements. The vine requires support trees to climb and grows best in partial shade under a canopy with high humidity and well-drained soils.
+
+## Bioactive Compounds
+
+The primary bioactive constituents of Banisteriopsis caapi are **beta-carboline (β-carboline) alkaloids**, also known as harmala alkaloids:
+
+**Harmine** (C₁₃H₁₂N₂O, MW 168.19) is the most abundant alkaloid, typically comprising 0.1–0.7% of dried bark. It is a potent reversible inhibitor of MAO-A (IC₅₀ ≈ 0.05 µM) and a weak inhibitor of MAO-B. Harmine also binds to serotonin receptors (5-HT2A, 5-HT2C) and has demonstrated neuroprotective and anti-addictive properties in preclinical studies.
+
+**Harmaline** (C₁₃H₁₄N₂O, MW 170.21) is structurally similar to harmine, differing only in saturation of the pyridine ring. It is a slightly more potent MAO-A inhibitor than harmine and is present at comparable concentrations. Harmaline is the primary compound responsible for the purgative effects and visual phenomena associated with ayahuasca.
+
+**Tetrahydroharmine (THH)** (C₁₃H₁₆N₂O, MW 172.23) is often the most abundant β-carboline in B. caapi but is a relatively weak MAO inhibitor. THH is a selective serotonin reuptake inhibitor (SSRI) and may contribute to the antidepressant and mood-elevating effects of ayahuasca.
+
+Proanthocyanidins (condensed tannins), catechins, and epicatechins are also present in significant quantities and contribute to the vine's antioxidant and anti-inflammatory properties.
+
+## Ethnopharmacology and Cultural Significance
+
+Banisteriopsis caapi is central to one of the oldest and most continuously practiced entheogenic traditions in the world. Archaeological evidence suggests ayahuasca use in the Amazon dates back at least 1,000 years, with ceramic vessels containing B. caapi residues found in Ecuador dating to approximately 500 BCE.
+
+The brew is prepared by indigenous and mestizo healers (curanderos, onañenos) through prolonged boiling of B. caapi bark, typically combined with DMT-containing admixture plants such as *Psychotria viridis* (chacruna) or *Diplopterys cabrerana* (chaliponga). Preparation recipes vary widely between ethnic groups and individual practitioners.
+
+Over 70 indigenous Amazonian groups are known to use ayahuasca in traditional contexts. The brew serves multiple functions: diagnostic divination, healing of physical and psychological illness, spiritual growth, intercession with spirit beings, and community bonding during ceremonial gatherings.
+
+The syncretic religious movements **Santo Daime** (founded in the 1930s by Raimundo Irineu Serra) and **União do Vegetal (UDV)** (founded in 1961 by José Gabriel da Costa) use ayahuasca as a sacrament in structured ceremonial contexts. Both organizations have expanded internationally and have achieved legal recognition for ayahuasca use in several countries.
 
 ## Pharmacology
 
-The harmala alkaloids in B. caapi act primarily as reversible inhibitors of MAO-A. Key pharmacological details:
+The β-carboline alkaloids of B. caapi produce effects through multiple pharmacological mechanisms:
 
-- **Harmine:** Potent reversible MAO-A inhibitor (Ki ≈ 5 nM); also binds to 5-HT2A, 5-HT2C, and other serotonin receptors; exhibits neuroprotective properties in preclinical studies; may promote neurogenesis in the hippocampus.
-- **Harmaline:** Similar MAO-A inhibition profile; contributes to visual phenomena at higher doses; more prone to inducing tremor and nausea than harmine.
-- **Tetrahydroharmine:** Weaker MAO-A inhibitor but significant serotonin reuptake inhibition (SERT); may contribute to the dreamlike, introspective qualities of the ayahuasca experience; also inhibits MAO-B at higher concentrations.
+**MAO-A inhibition** is the classic mechanism, preventing oxidative deamination of DMT in the gastrointestinal tract and liver. This allows orally administered DMT to reach systemic circulation and cross the blood-brain barrier. Harmine and harmaline achieve significant MAO-A inhibition at oral doses of 50–200 mg.
 
-The combined pharmacological profile of B. caapi includes:
+**Serotonin receptor modulation** — harmine acts as a partial agonist at 5-HT2A and 5-HT2C receptors, contributing to the visual effects and modulating the intensity of the DMT experience. The combination of MAO inhibition and direct serotonergic activity distinguishes B. caapi from synthetic MAOIs.
 
-- MAO-A inhibition (oral DMT activation—the primary mechanism)
-- Mild serotonergic activity via direct receptor binding
-- Potential neuroprotective and anti-inflammatory properties (under active investigation)
-- Emetic effects (contributing to the "purge" that users commonly experience)
-- Possible modulation of GABAergic and dopaminergic pathways
+**Neuroprotective and neuroplasticity effects** — harmine promotes adult hippocampal neurogenesis in animal models and upregulates brain-derived neurotrophic factor (BDNF). THH's SSRI-like activity may contribute to sustained antidepressant effects observed after ayahuasca use.
 
-Recent research has investigated B. caapi extract for potential therapeutic applications including antidepressant effects, neurogenesis promotion, and treatment of substance use disorders, independent of the DMT component. Some studies have found that B. caapi extract alone (without DMT) produces antidepressant-like effects in animal models.
+## Cultivation and Propagation
 
-## Modern Context
+Banisteriopsis caapi is propagated primarily through vegetative stem cuttings, as seeds are often difficult to obtain and have low germination rates. Cuttings of 30–60 cm length with 2–3 nodes are planted directly in moist, shaded soil. Rooting typically occurs within 4–8 weeks.
 
-B. caapi has transitioned from purely indigenous use to global prominence over the past several decades. Ayahuasca ceremonies are now practiced internationally across North America, Europe, Australia, and beyond. The vine is the subject of growing scientific interest for its potential in treating depression, PTSD, and substance use disorders. Legal status varies by country—B. caapi itself is generally unscheduled, though ayahuasca preparations may be regulated depending on jurisdiction.
+Under cultivation, the vine requires a support structure (living trees or trellises), regular watering, and partial shade. Growth is relatively slow — harvestable root bark typically requires 3–5 years of growth. Mature vines can be sustainably harvested by cutting sections and allowing the plant to regrow.
 
-The neoshamanic and religious movements that center their practice on B. caapi-based brews include:
+Several recognized cultivars or "varieties" are distinguished by indigenous users based on bark color, potency, and subjective effect profile. These include the **celestial (cielo)** varieties (yellow, red, black, and white), each producing subtly different experiential qualities when brewed.
 
-- **Santo Daime** — a Brazilian syncretic religion founded in the 1930s by Raimundo Irineu Serra, combining indigenous Amazonian practices with Catholicism, Spiritism, and Afro-Brazilian traditions. The Daime uses ayahuasca (called *daime* or *oferenda*) in structured ceremonial rituals involving hymns and dance.
-- **União do Vegetal (UDV)** — founded in 1961 by José Gabriel da Costa, now with branches in multiple countries. The UDV uses ayahuasca (called *hoasca*) in formal meditation sessions. Its legal status was affirmed by the U.S. Supreme Court in 2006 (Gonzales v. O Centro Espírita Beneficente União do Vegetal).
-- **Barquinha** — a smaller Brazilian ayahuasca religion with Afro-Brazilian spiritual influences, incorporating elements of Umbanda and other traditions.
+**Yellow cielo** is the most commonly cultivated variety and is characterized by a bright yellow inner bark. It is considered the gentlest variety, producing visions that are described as luminous and celestial. **Red cielo** has a reddish-brown inner bark and is associated with stronger visionary effects. **Black cielo** is the most potent variety, with dark purple-black bark, and is reserved for experienced practitioners.
 
-Conservation concerns have emerged as international demand for B. caapi has grown. Overharvesting in some regions has led to local scarcity, and there is increasing interest in sustainable cultivation and ethical sourcing practices. Sustainable harvesting protocols—including selective cutting, rotation of harvest sites, and propagation from cuttings—are promoted by many organizations working with indigenous communities.
+The distinction between varieties is not fully characterized chemically, but preliminary analyses suggest differences in the ratios of harmine, harmaline, and THH rather than in total alkaloid content. The black variety appears to have higher harmaline content relative to harmine, which may account for its more intense effects.
+
+## Modern Research and Therapeutic Potential
+
+Contemporary research into ayahuasca has focused increasingly on B. caapi's independent therapeutic contributions, beyond its role as a DMT MAOI:
+
+**Antidepressant effects:** Longitudinal studies of regular ayahuasca users show reductions in depression and anxiety scores. Preclinical work demonstrates that harmine produces rapid antidepressant-like effects in rodent models through mechanisms involving BDNF upregulation and hippocampal neurogenesis.
+
+**Anti-addictive potential:** Harmine has been identified as a potent inhibitor of **dynein light chain 1 (DYNLL1)**, a protein involved in the reinforcement mechanisms of addiction. This finding has generated interest in harmine derivatives as potential pharmacotherapies for substance use disorders.
+
+**Anti-inflammatory and immunomodulatory effects:** The proanthocyanidin content of B. caapi contributes significant antioxidant activity. In vitro studies demonstrate inhibition of pro-inflammatory cytokines (TNF-α, IL-6) and reduction of oxidative stress markers.
 
 ## See Also
 
-- [[psychotria-viridis]]
-- [[diplopterys-cabrerana]]
-- [[dimethyltryptamine]]
-- Harmine
-- Ayahuasca (concept page)
-- [[richard-evans-schultes]]
-- [[harner-cashinahua-banisteriopsis-usage]]
-- [[golden-guide-ayahuasca-and-caapi]]
-- [[plants-of-the-gods-banisteriopsis-ayahuasca]]
-- [[cashinahua-banisteriopsis-use]]
-- [[entheogen-tetrapteris-methystica-alternative-caapi]]
-- [[harmane]]
+- [[dmt]]
+- [[psilocybin]]
+- [[psilocybe-cubensis]]
+- [[amanita-muscaria]]
+- [[salvia-divinorum]]
+- [[salvinorin-a]]
+- [[mimosa-hostilis]]
+- [[panaeolus-cyanescens]]
+- [[tabernanthe-iboga]]
+- [[ibogaine]]

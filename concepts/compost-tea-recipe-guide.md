@@ -97,6 +97,8 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - Apply as soil drench and/or foliar spray at recommended rates
 - Test compost tea with SFI to verify organism levels meet standards
 ## Related
+
+- [[ingham-aact-disease-suppression-through-food-competition]]
 - [[soil-food-web-structure]]
 - [[bacterial-vs-fungal-soil]]
 - [[protozoa-in-soil]]

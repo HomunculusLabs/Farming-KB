@@ -2145,3 +2145,8 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
+- [[asimina-triloba]]
+- [[coriandrum-sativum]]
+- [[entoloma-rhodopolium]]
+- [[acacia-acuminata]]
+- [[hygrophorus-agathosmus]]

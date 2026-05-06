@@ -1,155 +1,129 @@
 ---
-title: Coprinopsis atramentaria
-created: 2026-04-28
+title: "Coprinopsis atramentaria"
 type: species
 tags:
   - fungi
-  - agaricomycetes
+  - agaricales
   - coprinoid
+  - inky-cap
   - coprine
-  - edible-caution
   - mycology
-  - temperate-fungi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kühner, R. (1929). Le genre Coprinus. Encyclopédie Mycologique."
-  - "Ulrich, S. (2005). A personal/key to the Coprinoid Mushrooms."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - Ulrich, B. (2014). "Morphological and molecular phylogenetic data support the recognition of Coprinopsis atramentaria." Mycotaxon 129(2): 341-354.
+  - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
+  - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
+  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
+  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
 ---
 
-# Coprinopsis atramentaria
+## Overview
 
-*Common Inkcap | Tippler's Bane | Alcohol Inky*
+Coprinopsis atramentaria, commonly known as the common ink cap or tippler's bane, is a widespread agaricoid fungus in the family Psathyrellaceae. It is famous for its autodeliquescing gills, which dissolve into a black ink-like fluid at maturity.
 
-## Taxonomy and Naming
+The species is edible on its own but causes a severe disulfiram-like reaction when consumed with alcohol due to the compound coprine. This interaction has made it one of the most well-documented examples of a mushroom-ethanol pharmacological interaction in mycology.
 
-| Rank | Name |
-|------|------|
-| Kingdom | Fungi |
-| Division | Basidiomycota |
-| Class | Agaricomycetes |
-| Order | Agaricales |
-| Family | Psathyrellaceae |
-| Genus | *Coprinopsis* |
-| Species | *C. atramentaria* |
+## Taxonomy and Morphology
 
-Originally described by Bolton (1788) as *Agaricus atramentarius*,
-the species was moved to *Coprinopsis* by Redhead, Vilgalys &
-Moncalvo (2001) following molecular phylogenetic studies that split
-the traditional *Coprinus* genus. The epithet *atramentaria* derives
-from Latin *atramentum* (ink), referring to autodeliquescence into
-a dark, ink-like liquid.
+### Taxonomy
 
-## Description
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Psathyrellaceae
+- **Genus:** Coprinopsis
+- **Species:** C. atramentaria (Bull.) Redhead, Vilgalys & Moncalvo (2001)
 
-### Cap
-Cap 3–7 cm, initially oval, expanding to bell-shaped. Surface smooth,
-grey to grey-brown with scurfy coating. Margin strongly plicate-
-striate. Deliquescence begins at margin, progressing inward.
+**Basionym:** Agaricus atramentarius Bull. (1786).
 
-### Gills
-Crowded, free, initially white, darkening through pink to grey and
-finally black. Deliquesce with cap tissue, producing ink-like fluid
-that aids spore dispersal by insects and water movement.
+The species was transferred to Coprinopsis in 2001 when Redhead and colleagues split the traditional genus Coprinus into multiple genera based on molecular phylogenetics. Coprinus sensu stricto was restricted to Coprinus comatus and its closest relatives.
 
-### Stipe
-Stipe 5–17 cm × 4–10 mm, hollow, white, smooth or finely fibrillose.
-Base slightly bulbous. No ring present. Does not deliquesce.
+**Synonyms:**
 
-## Microscopic Features
+- Agaricus atramentarius Bull. (1786)
+- Coprinus atramentarius (Bull.) Fr. (1838)
+- Psathyrella atramentaria (Bull.) Maire (1933)
 
-| Feature | Measurement / Description |
-|---------|---------------------------|
-| Spore print | Black |
-| Spores | 7–10 × 4.5–6 µm, ellipsoid, smooth, central germ pore |
-| Basidia | 4-spored, clavate |
-| Cheilocystidia | Saccate to ventricose |
-| Pileipellis | Cutis of repent hyphae |
+### Morphology
+
+**Cap:** 3-7 cm diameter, ovate when young expanding to campanulate or convex. Surface gray to grayish-brown, smooth, often with fine radial fibrils or silky sheen. Margin strongly plicate-striate, extending nearly to the disc center.
+
+The cap color lightens from the center outward, with the umbo remaining darker. Young specimens have a silvery-gray sheen that is characteristic of the species.
+
+**Gills:** Adnexed to free, very crowded. White when young, becoming pinkish then darkening through gray to black as spores mature. Gills deliquesce (autodigest) from the margin downward, releasing spores in a black, inky fluid.
+
+**Stipe:** 7-17 cm tall, 0.6-1.2 cm thick. Central, cylindrical, hollow, white to silvery-gray. Surface smooth or with fine longitudinal striations. No annulus or volva. Base may have a slight bulbous swelling.
+
+**Spore print:** Black.
+
+**Spores:** Ellipsoid to amygdaliform, 8-11 × 5-7 µm, smooth, thick-walled, with a central germ pore. Spores are dark brown to black in mass, reddish-brown individually under the microscope.
+
+**Flesh:** Thin, white, soft, fragile. Odor mild or slightly mealy. Taste not distinctive (but should not be tasted due to coprine content).
 
 ## Distribution and Habitat
 
-- Widely distributed across temperate Northern Hemisphere
-- Fruiting late summer through autumn
-- Grows in dense clusters on disturbed ground
-- Common near paths, roadsides, and garden beds
-- Saprotrophic; decomposes buried hardwood debris
+Coprinopsis atramentaria has a circumboreal distribution and is found across North America, Europe, Asia, and parts of Australia and New Zealand. It fruits from late spring through autumn, with peak abundance in autumn months.
 
-## Chemistry and Active Compounds
+The species is primarily a saprotroph that grows in dense clusters or troops on disturbed ground, gardens, roadsides, and forest margins. It has a strong association with buried wood, roots, and woody debris, often appearing near stumps, fallen trees, or buried timber.
 
-*Coprinopsis atramentaria* is **not psychoactive**. It contains no
-psilocybin or psilocin. The primary bioactive compound is **coprine**
-(N⁵-(1-hydroxycyclopropyl)-L-glutamine).
+It is frequently found in urban and suburban environments, particularly in cultivated areas, compost heaps, and grassy areas with buried wood chips or roots. This ubiquity near human habitation increases the risk of accidental coprine-alcohol interactions.
 
-### Coprine and the Disulfiram-Like Reaction
+## Chemistry and Pharmacology
 
-- Coprine metabolizes to 1-aminocyclopropanol in the body
-- This inhibits aldehyde dehydrogenase (ALDH), blocking conversion
-  of acetaldehyde to acetate during ethanol metabolism
-- Acetaldehyde accumulates rapidly when alcohol is consumed
-- Symptoms mimic **disulfiram (Antabuse)** therapy:
-  - Facial flushing, throbbing headache
-  - Nausea, vomiting, abdominal pain
-  - Palpitations, tachycardia, hypotension
-- Onset: 30 min to 2 hours after drinking alcohol
-- Do NOT consume alcohol for 72 hours after ingestion
-- Coprine is water-soluble and partially heat-labile; cooking
-  may reduce but does not eliminate risk
+### Coprine
 
-## Similar Species
+The defining bioactive compound of C. atramentaria is coprine (N⁵-(1-hydroxycyclopropyl)-L-glutamine), an amino acid derivative with a unique cyclopropanol moiety. Coprine is structurally unrelated to disulfiram (Antabuse) but produces an identical pharmacological effect.
 
-| Species | Key Distinguishing Features |
-|---------|----------------------------|
-| *Coprinus comatus* | Tall, shaggy cap; deliquesces |
-|  | upward; edible, safe with |
-|  | alcohol; has a ring on stipe |
-| *Coprinellus micaceus* | Small, mica-like granules on |
-|  | cap; grows directly on wood |
-| *Parasola plicatilis* | Very fragile, thin grooved cap; |
-|  | usually solitary; smaller |
+**Mechanism:** Coprine is metabolized in the body to 1-aminocyclopropanol, which is then oxidized to cyclopropanone hydrate. Cyclopropanone hydrate irreversibly inhibits acetaldehyde dehydrogenase (ALDH), the enzyme responsible for metabolizing acetaldehyde to acetate during ethanol metabolism.
 
-## Field Identification Tips
+When alcohol is consumed after coprine ingestion, acetaldehyde accumulates rapidly in the bloodstream, producing the disulfiram-ethanol reaction (DER). Symptoms begin within 15-60 minutes of alcohol consumption and include facial flushing, throbbing headache, nausea, vomiting, palpitations, tachycardia, hyperventilation, and in severe cases, hypotension and cardiovascular collapse.
 
-1. Dense clusters on disturbed ground or near buried wood
-2. Deeply plicate-striated cap margin
-3. Progressive black deliquescence from the cap edge inward
-4. Absence of a ring distinguishes it from *C. comatus*
-5. Jet black spore print confirms genus
+**Onset and duration:** Coprine's inhibitory effect on ALDH begins within 30 minutes of mushroom consumption and persists for approximately 72-96 hours. Alcohol consumed during this window will trigger the reaction. This long duration makes the interaction particularly dangerous, as affected individuals may not associate symptoms occurring days after ingestion with the mushroom.
 
-## Edibility and Warnings
+### Other Compounds
 
-> **⚠ WARNING — ALCOHOL INTERACTION**
->
-> *Coprinopsis atramentaria* contains coprine, which causes a severe
-> disulfiram-like reaction when consumed with alcohol. Symptoms
-> include flushing, nausea, palpitations, and in rare cases can be
-> life-threatening. Do NOT consume alcohol for 72 hours before or
-> after eating this mushroom. While edible on its own, the risk of
-> accidental alcohol exposure makes it imprudent for most foragers.
+C. atramentaria contains small amounts of tyramine and other biogenic amines, though these are not present at levels typically considered clinically significant. The nutritional profile is comparable to other coprinoid mushrooms, with moderate protein content and trace minerals.
 
-## Historical Context
+## Edibility and Toxicology
 
-Known since the 18th century, the common inkcap was once widely eaten
-in Europe before its alcohol interaction was understood. The ink-like
-liquid from deliquescing fruitbodies was historically used as writing
-ink. The species was central to dismantling the polyphyletic genus
-*Coprinus*, one of the earliest major taxonomic revisions driven by
-molecular phylogenetics in the Agaricales.
+C. atramentaria is considered edible when consumed alone and without alcohol. Its culinary value is limited by its extremely fragile texture and rapid autodeliquescence. Specimens must be harvested and prepared within hours of collection before the gills begin to dissolve.
+
+**Culinary preparation:** When used, it is typically sautéed or added to soups. The flavor is mild and agreeable. However, most mycologists and foraging guides recommend avoiding it entirely due to the severity and duration of the coprine-alcohol interaction.
+
+**Toxicity risk:** The primary danger is the coprine-alcohol reaction, which is dose-dependent and can range from mild discomfort to life-threatening cardiovascular events. There are no fatalities definitively attributed to coprine alone, but severe reactions requiring emergency medical treatment are documented in the literature.
+
+Importantly, cooking does not destroy coprine. The compound is heat-stable and retains its activity after boiling, frying, or drying. Alcohol in sauces, wine, beer, or other preparations consumed alongside the mushroom will trigger the reaction.
+
+**Contraindications:** Individuals should abstain from all forms of alcohol (including mouthwash and certain medications containing ethanol) for a minimum of 72-96 hours after consuming C. atramentaria. Patients taking disulfiram or other ALDH inhibitors should avoid this mushroom entirely.
 
 ## Ecological Role
 
-- Primary decomposer of hardwood litter and buried wood
-- Contributes to nutrient cycling in temperate forest soils
-- Fruiting often stimulated by soil disturbance
+As a primary decomposer of woody substrates, C. atramentaria plays a role in nutrient cycling within forest and urban ecosystems. Its preference for disturbed sites and buried wood positions it as an early-successional saprotroph that colonizes recently disturbed ground.
+
+The species frequently fruits in dense clusters, sometimes numbering in the dozens from a single substrate source. This gregarious fruiting habit suggests efficient nutrient translocation within the mycelial network and rapid exploitation of localized resource patches.
+
+Its association with disturbed and anthropogenic habitats (gardens, roadsides, compost) makes it one of the most commonly encountered urban mushrooms in temperate regions worldwide.
+
+## Related Species
+
+Several coprinoid species are morphologically similar to C. atramentaria:
+
+- **Coprinellus micaceus** (mica cap): Similar habitat but smaller, with glistening mica-like granules on the cap surface when fresh. Edible, no coprine.
+- **Coprinus comatus** (shaggy ink cap): Tall, shaggy-scaled cap, more robust. Also edible but some individuals report mild intolerance. Does not contain coprine.
+- **Coprinopsis picacea** (magpie ink cap): Striking black and white cap, found with oak. Contains unknown toxins and should be avoided.
+- **Coprinellus disseminatus** (trooping crumble cap): Very small, fruits in massive troops on stumps. Edible but insubstantial, no coprine.
+
+The most reliable identification feature distinguishing C. atramentaria from similar species is the combination of its gray cap, large size relative to other coprinoids, association with buried wood, and the absence of decorative cap features (no granules, scales, or striking color patterns).
 
 ## See Also
 
-- [[agar]]
-- [[coprinellus-micaceus]]
 - [[coprinus-comatus]]
-
-- *Coprinopsis* — genus overview and molecular phylogeny
-- Coprine — detailed pharmacology of the active compound
-- Disulfiram — clinical context for ALDH inhibition
-- *Coprinus comatus* — the Shaggy Inkcap, a safe edible relative
-- Deliquescence — fungal autodigestion mechanism
+- [[coprinellus-micaceus]]
+- [[psilocybe-cubensis]]
+- [[amanita-muscaria]]
+- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
+- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
+- [[pleurotus-ostreatus]]
+- [[agaricus-bisporus]]

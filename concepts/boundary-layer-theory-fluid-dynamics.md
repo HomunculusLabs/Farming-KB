@@ -1,4 +1,13 @@
 ---
+title: Boundary Layer Theory Fluid Dynamics
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: []
+sources: []
+---
+
+---
 ti
 
 Boundary layer theory describes the thin region adjacent to a solid surface where viscous

@@ -117,6 +117,8 @@ Proper preservation maintains potency indefinitely:
 
 ## Related
 
+- [[dosage-unpredictability-psilocybin-subjective-experience]]
+
 - [[field-guide-psilocybin-mushroom-species-identification]] for
   species-specific details
 - [[field-guide-psilocybin-mushroom-hunting-methodology]] for

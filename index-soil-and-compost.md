@@ -459,3 +459,5 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
+- [[ingham-aact-disease-suppression-through-food-competition]]
+- [[ingham-inorganic-fertilizers-soil-biology-damage]]
