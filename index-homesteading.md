@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**204 pages**
+**205 pages**
 
 ## A
 
@@ -193,6 +193,7 @@
 - [[poultry-housing-guide]]
 - [[preserving-wood-timber-framing]]
 - [[pressure-canning-safety]]
+- [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 
 ## Q
 

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2325 pages**
+**2329 pages**
 
 ## #
 
@@ -487,6 +487,7 @@
 - [[ectomycorrhizal-remediation]]
 - [[edible-agarics]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
+- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
 - [[eleusinian-mysteries-ergot-theory]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[emcdda-hallucinogenic-mushroom-sclerotia-truffle-products]]
@@ -1340,6 +1341,7 @@
 - [[jadam-fungal-disease-management]]
 - [[jadam-humus-soil-and-leaf-mold-distinction]]
 - [[jadam-pesticide-for-fungal-diseases]]
+- [[jar-shaking-grain-redistribution-mycelial-colonisation]]
 - [[jeavons-humus-and-soil-microbiology]]
 
 ## K
@@ -1452,6 +1454,7 @@
 - [[mexico-center-neurotropic-fungal-diversity]]
 - [[mexico-global-center-neurotropic-fungal-diversity]]
 - [[mexico-neurotropic-fungi-diversity-center]]
+- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
 - [[micro-pixe-element-localization-mycorrhizal-roots]]
@@ -2131,6 +2134,7 @@
 - [[solomon-root-exudates-and-allelopathy]]
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]
 - [[sooty-molds-black-mildews-tropical-foliar-fungi]]
+- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
 - [[southern-hemisphere-origin-of-neurotropic-fungi]]
 - [[soybean-oil-wastewater-fungi]]
 - [[spore]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1002 pages**
+**1005 pages**
 
 ## A
 
@@ -333,6 +333,7 @@
 - [[comparison-pigeon-pea-vs-cowpea]]
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
+- [[comparison-pomegranate-vs-persimmon-cultivation]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[comparison-pruning-vs-grafting]]
@@ -386,6 +387,7 @@
 - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 - [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
 - [[comparison-soil-food-web-vs-biochar]]
+- [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 - [[comparison-solar-cooking-vs-cob-oven]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]
 - [[comparison-solar-dehydrator-vs-root-cellar]]
@@ -560,6 +562,7 @@
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
 - [[query-how-do-epiphytes-survive-without-soil]]
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]]
 - [[query-how-do-fungi-improve-soil-structure]]
 - [[query-how-do-i-adjust-soil-ph-naturally]]

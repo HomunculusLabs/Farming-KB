@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1224 pages**
+**1237 pages**
 
 ## #
 
@@ -88,6 +88,7 @@
 - [[ayahuasca-tourism-economics-peruvian-amazon]]
 - [[ayahuasca-tourism-ethics]]
 - [[ayahuasca-tourism-ethics-and-commodification]]
+- [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
 - [[ayahuasca-tourism-legal-status-by-country]]
 - [[ayahuasca-tourism-peru-retreat-landscape]]
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]]
@@ -481,6 +482,7 @@
 
 ## H
 
+- [[hallucinogen-terminology-and-chemical-classification]]
 - [[hallucinogenic-drugs]]
 - [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
 - [[hallucinogenic-drugs-in-psychotherapy-history]]
@@ -645,6 +647,9 @@
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-beringer-mescaline-psychedelic-psychiatry]]
 - [[mckenna-brothers-la-chorrera-experiment-1971]]
+- [[mckenna-cacao-chocolate-mesoamerican-religion]]
+- [[mckenna-caffeine-coffee-and-industrial-revolution]]
+- [[mckenna-cannabis-cultural-style-and-feminine-plant]]
 - [[mckenna-cannabis-culture-history]]
 - [[mckenna-cannabis-dreaming-weavers]]
 - [[mckenna-cannabis-language-weaving-cordage-narrative]]
@@ -653,6 +658,7 @@
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-catalyzing-consciousness-language-formation]]
 - [[mckenna-chimpanzee-self-medication-and-primate-pharmacology]]
+- [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
 - [[mckenna-coca-mama-coca-inca-goddess-tradition]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-diet-symbiosis-human-evolution]]
@@ -666,6 +672,7 @@
 - [[mckenna-dmt-entities-borges-and-archaic-secret]]
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-dmt-experience-and-overmind]]
+- [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
@@ -735,6 +742,7 @@
 - [[mckenna-opium-history-demeter-poppy]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[mckenna-orientomania-and-european-discovery-of-hashish]]
 - [[mckenna-overmind-and-vegetable-mind]]
 - [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
 - [[mckenna-plants-and-primates-coevolution]]
@@ -771,6 +779,7 @@
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[mckenna-tryptamine-research-legal-status]]
 - [[mckenna-tryptamine-shamanic-identification-and-signs]]
+- [[mckenna-tryptamine-transtemporal-consciousness-and-nunc-stans]]
 - [[mckenna-tryptamines-logos-consciousness]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-ur-plant-hypothesis]]
@@ -804,16 +813,19 @@
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[mescaline-reference]]
 - [[metzner-ayahuasca-therapeutic-potential]]
+- [[metzner-brazilian-ayahuasca-churches-santo-daime-udv-barquinia]]
 - [[metzner-entheogen-terminology-and-worldview-paradigms]]
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 - [[metzner-four-paradigms-entheogenic-healing]]
 - [[metzner-four-paradigms-psychedelic-healing]]
+- [[metzner-grof-perinatal-matrices-and-transpersonal-consciousness]]
 - [[metzner-hallucinogens-psychotherapy-and-shamanism]]
 - [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-ibogaine-addiction-treatment]]
 - [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-mdma-assisted-therapy-research]]
+- [[metzner-psychedelic-amplifier-and-microscope-metaphors]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 - [[metzner-psycholytic-psychedelic-therapy-models]]
@@ -1019,6 +1031,7 @@
 - [[psilocybin-psilocin-chemical-synthesis]]
 - [[psilocybin-psilocin-chemical-synthesis-shirota]]
 - [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-psilocin-flush-accumulation-patterns]]
 - [[psilocybin-psilocin-flush-variation]]
 - [[psilocybin-psychological-mechanisms]]
 - [[psilocybin-psychotherapy]]
