@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2012 pages**
+**2021 pages**
 
 ## #
 
@@ -200,6 +200,7 @@
 - [[agaricus-campestris]]
 - [[agaricus-subrufescens]]
 - [[agaricus-sylvicola]]
+- [[agaricus-xanthodermus]]
 - [[agarikon]]
 - [[agaritine]]
 - [[agastache-foeniculum]]
@@ -461,6 +462,7 @@
 - [[cantharellus-cibarius-entity]]
 - [[cantharellus-cinnabarinus]]
 - [[cantharellus-lateritius]]
+- [[cap-junkie]]
 - [[cap-junky]]
 - [[capsicum-annuum]]
 - [[caragana-arborescens]]
@@ -519,6 +521,7 @@
 - [[clavulina-cristata]]
 - [[cleve-backster]]
 - [[clitocybe-gibba]]
+- [[clitocybe-nebularis]]
 - [[clitocybe-nuda-entity]]
 - [[clitocybe-odora]]
 - [[clitopilus-prunulus]]
@@ -558,6 +561,7 @@
 - [[copelandia-tropicalis]]
 - [[coprinellus-micaceus]]
 - [[coprinopsis-atramentaria]]
+- [[coprinopsis-atriamentaria]]
 - [[coprinus-atramentaria]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[coprinus-comatus]]
@@ -635,6 +639,7 @@
 - [[digoxin]]
 - [[dimethyltryptamine]]
 - [[dimethyltryptamine-n-oxide]]
+- [[diospyros-virginiana]]
 - [[diplopterys-cabrerana]]
 - [[dipt]]
 - [[dipt-entity-tihkal]]
@@ -1296,6 +1301,7 @@
 - [[mme-entity-pihkal]]
 - [[monacrosporium-haptotylum]]
 - [[monarda-didyma]]
+- [[monarda-fistulosa]]
 - [[monotropa-uniflora]]
 - [[morchella-angusticeps]]
 - [[morchella-deliciosa]]
@@ -1489,6 +1495,7 @@
 - [[phyllanthus-emblica]]
 - [[physarum-polycephalum]]
 - [[pichia-stipitis]]
+- [[picrasma-quassioides]]
 - [[picrorhiza-kurroa]]
 - [[pimpinella-anisum]]
 - [[pineapple-express-entity]]
@@ -2069,6 +2076,7 @@
 - [[white-runtz]]
 - [[white-widow]]
 - [[white-widow-cannabis]]
+- [[white-widow-cannabis-strain]]
 - [[white-widow-entity]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
@@ -2095,4 +2103,5 @@
 - [[zero-emissions-research-and-initiatives]]
 - [[zingiber-officinale]]
 - [[zkittlez]]
+- [[zombie-kush]]
 - [[zookies]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1020 pages**
+**1024 pages**
 
 ## A
 
@@ -30,6 +30,7 @@
 - [[comparison-agar-vs-liquid-culture]]
 - [[comparison-agave-vs-prickly-pear-cultivation]]
 - [[comparison-agroecology-vs-permaculture]]
+- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 - [[comparison-alley-cropping-vs-silvopasture]]
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]
@@ -407,6 +408,7 @@
 - [[comparison-spore-syringe-vs-liquid-culture]]
 - [[comparison-sprinkler-vs-drip-irrigation]]
 - [[comparison-square-foot-vs-raised-bed-gardening]]
+- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - [[comparison-straw-bale-vs-adobe]]
 - [[comparison-straw-bale-vs-rammed-earth]]
 - [[comparison-supercropping-vs-topping]]
@@ -539,6 +541,7 @@
 
 - [[query-benefits-of-integrating-chickens-into-permaculture]]
 - [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
+- [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 - [[query-best-citrus-varieties-for-different-climates]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-light-schedule-for-cannabis]]
@@ -948,6 +951,7 @@
 - [[query-what-is-allelopathy-and-how-can-i-use-it-in-my-garden]]
 - [[query-what-is-alley-cropping-and-when-should-i-use-it]]
 - [[query-what-is-an-earthship-and-how-does-it-work]]
+- [[query-what-is-bioacoustics-and-how-is-sound-used-in-nature]]
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
