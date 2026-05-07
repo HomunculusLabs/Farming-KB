@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**59 pages**
+**60 pages**
 
 ## A
 
@@ -55,6 +55,7 @@
 - [[herbal-steam-inhalation]]
 - [[herbal-tincture-making]]
 - [[herbal-tinctures-guide]]
+- [[hericium-erinaceus-lions-mane-cultivation]]
 - [[honey-based-herbal-preparations]]
 
 ## L

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1262 pages**
+**1264 pages**
 
 ## #
 
@@ -126,6 +126,7 @@
 - [[bohd-pihkal-entry-16]]
 - [[bom-pihkal-entry-17]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
+- [[brazilian-ayahuasca-churches]]
 - [[brugmansia-entheogens]]
 
 ## C
@@ -845,6 +846,7 @@
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 - [[metzner-psycholytic-psychedelic-therapy-models]]
+- [[metzner-shamanic-healing-and-divination-paradigm]]
 - [[metzner-shamanic-healing-divination-worldview]]
 - [[metzner-spirit-beings-multiple-realities-entheogens]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]

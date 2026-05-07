@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1565 pages**
+**1567 pages**
 
 ## A
 
@@ -1108,6 +1108,7 @@
 - [[permaculture-design-examples]]
 - [[permaculture-design-methodology]]
 - [[permaculture-design-methods]]
+- [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
 - [[permaculture-design-process]]
 - [[permaculture-designers-manual-animal-forage-systems]]
@@ -1361,6 +1362,7 @@
 - [[permaculture-plant-guilds-companion-planting]]
 - [[permaculture-plant-propagation-guide]]
 - [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-and-useful-species-categories]]
 - [[permaculture-plant-selection-guide]]
 - [[permaculture-plant-stacking-vertical-guilds]]
 - [[permaculture-plants-aquatic-and-wetland-species]]

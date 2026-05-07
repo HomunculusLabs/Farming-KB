@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1078 pages**
+**1082 pages**
 
 ## A
 
@@ -96,6 +96,7 @@
 - [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
 - [[comparison-black-soldier-fly-vs-vermicomposting]]
 - [[comparison-blackberry-vs-raspberry]]
+- [[comparison-blueberry-vs-haskap-cultivation]]
 - [[comparison-bokashi-vs-compost-tea]]
 - [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-bokashi-vs-vermicomposting]]
@@ -363,6 +364,7 @@
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
 - [[comparison-prairie-restoration-vs-silvopasture]]
+- [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[comparison-pruning-vs-grafting]]
@@ -581,6 +583,7 @@
 - [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
+- [[query-best-stone-fruit-varieties-for-different-climates]]
 - [[query-can-fungi-break-down-plastic-pollution]]
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[query-can-moringa-be-used-for-water-purification]]
@@ -927,6 +930,7 @@
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
+- [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
