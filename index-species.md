@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2422 pages**
+**2428 pages**
 
 ## #
 
@@ -25,6 +25,7 @@
 - [[2-tom-entity]]
 - [[2-tom-entity-pihkal]]
 - [[25b-nbome]]
+- [[25c-nbome]]
 - [[25i-nbome]]
 - [[2c-b]]
 - [[2c-b-entity]]
@@ -531,6 +532,7 @@
 - [[capsicum-annuum]]
 - [[caragana-arborescens]]
 - [[carthamus-tinctorius]]
+- [[carya-illinoinensis]]
 - [[caryophyllene-oxide]]
 - [[castanea-mollissima]]
 - [[castanea-sativa]]
@@ -1052,6 +1054,7 @@
 - [[gymnopus-dryophilus]]
 - [[gymnopus-junonius]]
 - [[gymnopus-liquidambaris]]
+- [[gymnopus-peronatus]]
 - [[gynostemma-pentaphyllum]]
 - [[gynostemma-pentaphyllum-entity]]
 - [[gyromitra-esculenta]]
@@ -2220,6 +2223,7 @@
 - [[suillus-variegatus]]
 - [[sun-ra]]
 - [[sundae-driver]]
+- [[sunset-sherbert]]
 - [[sunset-sherbet]]
 - [[super-boof]]
 - [[super-boof-cannabis-strain]]
@@ -2434,6 +2438,7 @@
 - [[vicia-villosa]]
 - [[vietnam-black]]
 - [[vigna-radiata]]
+- [[vinca-major]]
 - [[vinca-minor]]
 - [[vincamine]]
 - [[viola-odorata]]
@@ -2481,6 +2486,7 @@
 - [[xerocomellus-chrysenteron]]
 - [[xerocomus-chrysenteron]]
 - [[xerocomus-subtomentosus]]
+- [[xeromphalina-campanella]]
 - [[xerula-furfuracea]]
 - [[xerula-meadowii]]
 - [[xylaria-hypoxylon]]
@@ -2506,7 +2512,3 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
-- [[carya-illinoinensis]]
-- [[gymnopus-peronatus]]
-- [[vinca-major]]
-- [[xeromphalina-campanella]]

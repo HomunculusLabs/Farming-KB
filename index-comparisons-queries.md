@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1131 pages**
+**1135 pages**
 
 ## A
 
@@ -62,6 +62,7 @@
 - [[comparison-bamboo-vs-cob-construction]]
 - [[comparison-bamboo-vs-cordwood-construction]]
 - [[comparison-banana-circle-vs-herb-spiral]]
+- [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
 - [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - [[comparison-beekeeping-basics-vs-top-bar-hive]]
 - [[comparison-beer-brewing-vs-cider-making]]
@@ -423,6 +424,7 @@
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 - [[comparison-seaweed-extract-vs-fish-hydrolysate]]
+- [[comparison-sedum-vs-sempervivum]]
 - [[comparison-seed-balls-vs-direct-seeding]]
 - [[comparison-seed-balls-vs-transplanting]]
 - [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
@@ -664,6 +666,7 @@
 - [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
 - [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
+- [[query-how-do-i-design-a-succulent-green-roof]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
 - [[query-how-do-i-design-and-plant-a-living-fence]]
@@ -713,6 +716,7 @@
 - [[query-how-do-i-make-koji-at-home-for-beginners]]
 - [[query-how-do-i-make-seed-starting-mix-at-home]]
 - [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
+- [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]]
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
 - [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
 - [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
@@ -1185,7 +1189,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
-- [[comparison-sedum-vs-sempervivum]]
-- [[query-how-do-i-design-a-succulent-green-roof]]
-- [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]]
