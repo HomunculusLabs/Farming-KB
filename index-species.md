@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2333 pages**
+**2339 pages**
 
 ## #
 
@@ -679,6 +679,7 @@
 - [[curcumin]]
 - [[cuscuta-chinensis]]
 - [[cyclocybe-cylindracea]]
+- [[cydonia-oblonga]]
 - [[cylindrocarpon-destructans]]
 - [[cymbopogon-citratus]]
 - [[cymbopogon-flexuosus]]
@@ -1051,6 +1052,7 @@
 - [[hericium-coralloides]]
 - [[hericium-coralloides-entity]]
 - [[hericium-erinaceus]]
+- [[hericium-laciniatum]]
 - [[hericium-novae-zealandiae]]
 - [[heterobasidion-annosum]]
 - [[hibiscus-cannabinus]]
@@ -1276,6 +1278,7 @@
 - [[lemon-balm-melissa-officinalis]]
 - [[lemon-cherry-gelato]]
 - [[lemon-haze]]
+- [[lemon-haze-cannabis]]
 - [[lentinan]]
 - [[lentinula-edodes]]
 - [[lentinula-edodes-entity]]
@@ -1315,6 +1318,7 @@
 - [[lobelia-tupa]]
 - [[lobeline]]
 - [[lomatium-dissectum]]
+- [[london-pound-cake]]
 - [[london-poundcake]]
 - [[lonicera-caerulea]]
 - [[lophophine-entity]]
@@ -1360,6 +1364,7 @@
 - [[madam-6-entity-pihkal]]
 - [[magnaporthe-grisea]]
 - [[mahonia-aquifolium]]
+- [[majorana-hortensis]]
 - [[mal-entity]]
 - [[mal-entity-pihkal]]
 - [[malassezia-restricta]]
@@ -1722,6 +1727,7 @@
 - [[pineapple-express]]
 - [[pineapple-express-entity]]
 - [[pinene]]
+- [[pinoline]]
 - [[piper-betle]]
 - [[piper-guineense-entity]]
 - [[piper-longum]]
