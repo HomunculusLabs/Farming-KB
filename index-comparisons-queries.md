@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1096 pages**
+**1098 pages**
 
 ## A
 
@@ -99,6 +99,7 @@
 - [[comparison-blackberry-vs-raspberry]]
 - [[comparison-blueberry-vs-haskap-cultivation]]
 - [[comparison-bokashi-vs-compost-tea]]
+- [[comparison-bokashi-vs-effective-microorganisms]]
 - [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-brassica-vs-nightshade-gardening]]
@@ -744,6 +745,7 @@
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-do-slime-molds-decompose-organic-matter]]
+- [[query-how-do-soil-aggregates-form-and-why-do-they-matter]]
 - [[query-how-do-trophic-cascades-work]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]

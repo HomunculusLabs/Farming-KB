@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2296 pages**
+**2306 pages**
 
 ## #
 
@@ -106,6 +106,7 @@
 - [[4-5-mdo-dipt-entity-tihkal]]
 - [[4-5-mdo-dmt-entity-tihkal]]
 - [[4-acetoxy-nn-dimethyltryptamine]]
+- [[4-aco-det]]
 - [[4-aco-det-entity]]
 - [[4-aco-dipt]]
 - [[4-aco-dmt]]
@@ -132,6 +133,7 @@
 - [[4-ma-entity]]
 - [[4-ma-entity-pihkal]]
 - [[4-meo-mipt-entity-tihkal]]
+- [[4-prho-dmt]]
 - [[4-t-tris-entity-pihkal]]
 - [[4-tasb-entity]]
 - [[4-tasb-entity-pihkal]]
@@ -316,6 +318,7 @@
 - [[arabidopsis-thaliana]]
 - [[arachis-pintoi-entity]]
 - [[araucaria-araucana]]
+- [[arbutus-unedo]]
 - [[arctium-lappa]]
 - [[arctium-lappa-entity]]
 - [[arctium-minus]]
@@ -473,6 +476,7 @@
 - [[calea-zacatechichi]]
 - [[calendula-officinalis]]
 - [[calliandra-calothyrsus]]
+- [[calluna-vulgaris]]
 - [[calocybe-gambosa]]
 - [[calocybe-indica]]
 - [[calvatia-cyathiformis]]
@@ -576,6 +580,7 @@
 - [[claviceps-paspali]]
 - [[claviceps-purpurea]]
 - [[clavulina-cristata]]
+- [[clavulina-rugosa]]
 - [[cleve-backster]]
 - [[clitocybe-geotropa]]
 - [[clitocybe-gibba]]
@@ -934,6 +939,7 @@
 - [[georgia-pie]]
 - [[geraniol]]
 - [[gerronema-fibula]]
+- [[ghost-train-haze]]
 - [[gigaspora-marginata]]
 - [[ginkgo-biloba]]
 - [[giorgio-samorini]]
@@ -1456,6 +1462,7 @@
 - [[mmda-entity-pihkal]]
 - [[mme-entity-pihkal]]
 - [[mochi]]
+- [[mochi-cannabis]]
 - [[mochi-cannabis-strain]]
 - [[monacrosporium-haptotylum]]
 - [[monarda-didyma]]
@@ -1627,6 +1634,7 @@
 - [[papaver-somniferum]]
 - [[papaya-cannabis]]
 - [[paracoccidioides-brasiliensis]]
+- [[parkia-biglobosa]]
 - [[passiflora-incarnata]]
 - [[passiflora-incarnata-entity]]
 - [[passionflower-passiflora]]
@@ -1995,6 +2003,7 @@
 - [[safrole]]
 - [[sajeev-john]]
 - [[salicin]]
+- [[salicornia-europaea]]
 - [[salix-alba]]
 - [[salvia-apiana]]
 - [[salvia-divinorum]]
@@ -2032,6 +2041,7 @@
 - [[scutellaria-baicalensis]]
 - [[scutellaria-lateriflora]]
 - [[scutellospora-calospora]]
+- [[senna-alexandrina]]
 - [[sepp-holzer]]
 - [[sepp-holzer-entity]]
 - [[serendipita-indica]]
