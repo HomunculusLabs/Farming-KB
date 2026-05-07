@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1135 pages**
+**1143 pages**
 
 ## A
 
@@ -203,6 +203,7 @@
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 - [[comparison-erect-vs-trailing-vs-primocane-brambles]]
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - [[comparison-ethnobotany-vs-ethnomycology]]
 - [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
 - [[comparison-fennel-vs-dill]]
@@ -238,6 +239,7 @@
 - [[comparison-grafting-vs-budding-fruit-trees]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
+- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
 - [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
 - [[comparison-green-manure-vs-composting]]
 - [[comparison-green-manure-vs-cover-crops]]
@@ -456,6 +458,7 @@
 - [[comparison-solarization-vs-occultation]]
 - [[comparison-sourdough-vs-wild-yeast]]
 - [[comparison-sourdough-vs-wild-yeast-bread]]
+- [[comparison-soursop-vs-cherimoya-cultivation]]
 - [[comparison-spore-print-collection-vs-spore-syringe-production]]
 - [[comparison-spore-print-vs-agar-culture]]
 - [[comparison-spore-syringe-vs-agar-culture]]
@@ -737,6 +740,7 @@
 - [[query-how-do-i-start-a-medicinal-herb-garden]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-do-i-start-a-silvopasture-system-on-my-property]]
+- [[query-how-do-i-start-a-small-home-vineyard-for-table-grapes]]
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
@@ -988,6 +992,7 @@
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
 - [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
+- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
 - [[query-what-are-the-12-permaculture-principles]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
@@ -1162,7 +1167,9 @@
 - [[query-when-should-i-use-slip-form-stone-construction]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
 - [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
+- [[query-which-drought-tolerant-fruit-trees-are-best-for-permaculture-food-forests]]
 - [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
@@ -1182,6 +1189,7 @@
 - [[seed-starting-methods-comparison]]
 - [[shiitake-log-vs-sawdust-cultivation]]
 - [[slip-form-stone-vs-cordwood-construction]]
+- [[sorghum-vs-millet-comparison]]
 - [[spore-syringe-vs-liquid-culture]]
 - [[straw-bale-construction-vs-earthbag-construction]]
 

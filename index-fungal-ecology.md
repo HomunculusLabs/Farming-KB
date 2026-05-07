@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2364 pages**
+**2371 pages**
 
 ## #
 
@@ -1134,15 +1134,20 @@
 - [[fungi-in-the-environment-fungal-oxalate-mineral-precipitation]]
 - [[fungi-in-the-environment-fungal-radionuclide-interactions]]
 - [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
+- [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
+- [[fungi-in-the-environment-fungi-in-beetle-guts]]
 - [[fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper]]
 - [[fungi-in-the-environment-lichen-biology]]
 - [[fungi-in-the-environment-metal-transformations]]
 - [[fungi-in-the-environment-mineral-transformations-biogeochemical-cycling]]
 - [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
+- [[fungi-in-the-environment-nematode-trapping-fungi]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungi-in-the-environment-reductive-oxidative-metal-precipitation]]
+- [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]
 - [[fungi-in-the-environment-rock-building-fungi]]
+- [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
 - [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
 - [[fungi-in-the-environment-soil-fungi-roles]]
@@ -1336,6 +1341,8 @@
 - [[ingham-fungal-inoculum-sourcing]]
 - [[ingham-glomalin-biological-soil-glues]]
 - [[ingham-leaf-surface-biology-exudates]]
+- [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
+- [[ingham-paper-cardboard-fungal-foods-compost]]
 - [[ingham-single-species-vs-whole-community]]
 - [[ingham-sticker-spreader-surfactants]]
 - [[ingham-trichoderma-biocontrol-fungi-aact]]

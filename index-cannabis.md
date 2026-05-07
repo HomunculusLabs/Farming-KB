@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**947 pages**
+**949 pages**
 
 ## A
 
@@ -962,6 +962,7 @@
 - [[plants-of-the-gods-cannabis-ancient-cultures]]
 - [[powdery-mildew-cannabis]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
+- [[purple-and-color-changing-cannabis-strains]]
 
 ## R
 
@@ -977,6 +978,7 @@
 - [[silica-cannabis]]
 - [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[spagyric-cannabis-preparation]]
+- [[spanish-cannabis-seed-companies]]
 - [[spider-mites-cannabis]]
 - [[stamets-phase-ii-composting]]
 

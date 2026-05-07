@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**861 pages**
+**864 pages**
 
 ## A
 
@@ -95,6 +95,7 @@
 - [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
 - [[fukuoka-america-drying-up]]
 - [[fukuoka-america-revisited-agricultural-revolution]]
+- [[fukuoka-american-agricultural-decline]]
 - [[fukuoka-american-agriculture-observations]]
 - [[fukuoka-argument-against-pruning]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
@@ -124,6 +125,7 @@
 - [[fukuoka-critique-laws-agricultural-science]]
 - [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-critique-modern-livestock]]
+- [[fukuoka-critique-modern-livestock-fisheries]]
 - [[fukuoka-critique-of-education-universities]]
 - [[fukuoka-critique-of-liebig-law-of-minimum]]
 - [[fukuoka-critique-of-scientific-agriculture]]
@@ -358,6 +360,7 @@
 - [[fukuoka-pine-environment-collapse-japan]]
 - [[fukuoka-pine-rot-root-cause]]
 - [[fukuoka-pit-of-knowledge]]
+- [[fukuoka-pit-of-knowledge-fragmented-science]]
 - [[fukuoka-pollution-conference-modest-solution]]
 - [[fukuoka-problems-darwin-evolution]]
 - [[fukuoka-pruning-cascade-self-perpetuating-cycle]]
