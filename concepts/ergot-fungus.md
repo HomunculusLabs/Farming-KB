@@ -142,3 +142,7 @@ including the control of postpartum hemorrhage.
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
+
+## See Also
+
+- [[ergonovine]]

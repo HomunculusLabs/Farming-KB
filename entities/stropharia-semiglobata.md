@@ -15,6 +15,7 @@ sources:
   - Watling R., Gregory N.M. (1987). "Stropharia (Fr.) Quél." — In: Henderson D.M., Orton P.D., Watling R. "British fungus flora: agarics and boleti."
   - Bugskill R., Jordan M. (2004). "The genus Stropharia in Britain." Field Mycology.
   - Gulden G. (2005). "Strophariaceae (Agaricales) in Norway." — Norwegian Journal of Botany.
+created: 2026-04-28
 ---
 
 ## Overview

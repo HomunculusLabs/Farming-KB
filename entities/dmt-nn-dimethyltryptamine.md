@@ -1,133 +1,121 @@
 ---
-title: N,N-Dimethyltryptamine
+title: N,N-Dimethyltryptamine (DMT)
 type: chemical
 tags:
   - psychedelic
   - tryptamine
   - entheogen
-  - serotonin-analog
-  - schedule-i
   - endogenous-compound
+  - schedule-i
+  - pharmacology
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=dimethyltryptamine
+  - https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine
   - Strassman, R. (2001). DMT: The Spirit Molecule. Park Street Press.
-  - Szára, S. (1956). "Dimethyltryptamine: its metabolism in man." Science.
-  - Shen, H.W. et al. (2010). "DMT and 5-MeO-DMT in Psychiatry." Pharmacology & Therapeutics.
-created: 2026-04-28
+  - Szára, S. (1956). "Dimethyltryptamine: Its Metabolism in Man." Science.
+  - Wallach, J.V. (2009). "Endogenous Hallucinogens." Alternative Therapies in Health and Medicine.
 ---
 
 # N,N-Dimethyltryptamine (DMT)
 
-**N,N-Dimethyltryptamine** (DMT) is a naturally occurring tryptamine compound and powerful psychedelic substance. Structurally related to serotonin, melatonin, and psilocin, it is found in numerous plant species and animals, and potentially in trace amounts within the human body. DMT produces one of the most intense psychedelic experiences known, often described as complete ego dissolution and profound mystical-type experiences.
+## Overview
 
-## Chemical Information
+N,N-Dimethyltryptamine (DMT or N,N-DMT) is a substituted tryptamine and classical psychedelic compound that occurs naturally in numerous plant species, animals, and potentially within the human body. It is one of the most potent psychoactive substances known, producing intense visionary experiences at very low doses, typically lasting 5–30 minutes when vaporized or injected (the "DMT flash") or 3–6 hours when taken orally with a monoamine oxidase inhibitor (MAOI), as in the Amazonian brew ayahuasca.
 
-| Property | Value |
-|----------|-------|
-| **IUPAC Name** | N,N-Dimethyl-1H-indole-3-ethanamine |
-| **Chemical Formula** | C₁₂H₁₆N₂ |
-| **Molar Mass** | 188.27 g/mol |
-| **CAS Number** | 61-50-7 |
-| **SMILES** | CNC(C)CCC1=CNC2=C1C=CC=C2 |
-| **Appearance** | White crystalline solid / clear oil |
-| **Melting Point** | 44–46°C (freebase) |
+DMT was first synthesized by the Canadian chemist Richard Manske in 1931 and its psychoactive properties were discovered by the Hungarian chemist Stephen Szára in 1956. It is classified as a Schedule I controlled substance in most jurisdictions.
 
-DMT is a **substituted tryptamine** consisting of an indole ring with a dimethylamine ethyl side chain at the 3-position. The N,N-dimethyl substitution is critical for pharmacological activity.
+## Chemical Identity
+
+- **IUPAC Name:** N,N-Dimethyl-2-(1H-indol-3-yl)ethan-1-amine
+- **Molecular Formula:** C₁₂H₁₆N₂
+- **Molecular Weight:** 188.27 g/mol
+- **CAS Number:** 54-31-9
+- **SMILES:** CN(C)CCC1=CNC2=C1C=CC=C2
+- **Appearance:** White to off-white crystalline powder or crystalline solid
+- **Melting Point:** 44.6–46.8°C
+- **Boiling Point:** Decomposes
+- **Solubility:** Soluble in water (slightly), ethanol, DMSO; freely soluble in acidic aqueous solutions as the salt
+
+DMT is a structural analog of serotonin (5-hydroxytryptamine, 5-HT) and melatonin, sharing the indole ring structure common to all tryptamine compounds. The dimethylation at the terminal amine distinguishes it from other naturally occurring tryptamines such as psilocin (4-hydroxy-DMT) and bufotenin (5-hydroxy-DMT).
 
 ## Pharmacology
 
 ### Mechanism of Action
+DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and mescaline. However, DMT also shows significant binding affinity at several other receptor sites:
 
-DMT acts primarily as a **serotonin 5-HT₂A receptor agonist**, with additional activity at:
-
-| Receptor | Activity | Significance |
-|----------|----------|-------------|
-| 5-HT₂A | Agonist (primary) | Primary psychedelic effects |
-| 5-HT₂C | Agonist | Anxiety, appetite modulation |
-| 5-HT₁A | Partial agonist | Mood effects |
-| Sigma-1 | Agonist | Neuroprotection, neuroplasticity |
-| TAAR1 | Agonist | Trace amine signaling |
-| SERT | Substrate/Inhibitor | Serotonin reuptake inhibition |
+- **5-HT2A:** Primary site of psychedelic action (Ki ≈ 0.084 µM)
+- **5-HT2C:** Modulates anxiety, appetite, and mood
+- **5-HT1A:** May contribute to anxiolytic and prosocial effects
+- **Sigma-1 receptor:** Intracellular chaperone protein; may modulate neuroplasticity and neuroprotection
+- **Trace amine-associated receptor 1 (TAAR1):** Endogenous amine receptor
+- **SERT (serotonin transporter):** DMT is a substrate for the serotonin transporter
 
 ### Pharmacokinetics
+- **Onset (vaporized):** 15–60 seconds
+- **Duration (vaporized):** 5–30 minutes
+- **Onset (oral with MAOI):** 20–60 minutes
+- **Duration (oral with MAOI):** 3–6 hours
+- **Route dependence:** When taken orally without an MAOI, DMT is rapidly metabolized by monoamine oxidase (MAO) enzymes in the gastrointestinal tract and liver, rendering it inactive. This is why the Amazonian preparation ayahuasca combines DMT-containing plants with MAOI-containing plants (typically *Banisteriopsis caapi*).
 
-| Property | Details |
-|----------|---------|
-| **Onset (smoked)** | 15–60 seconds |
-| **Peak (smoked)** | 2–5 minutes |
-| **Duration (smoked)** | 5–20 minutes |
-| **Onset (oral/ayahuasca)** | 20–60 minutes |
-| **Duration (oral)** | 2–6 hours |
-| **Bioavailability** | ~50% smoked; ~0% oral without MAOI |
-| **Metabolism** | MAO-A oxidation → indoleacetic acid |
-| **Half-life** | ~15 minutes (IV) |
+### Metabolism
+DMT is primarily metabolized by MAO-A to indole-3-acetic acid (IAA) via the intermediate N,N-dimethyltryptamine-N-oxide (DMT-N-oxide). Other metabolic pathways include N-demethylation to N-methyltryptamine (NMT) and conjugation reactions. The enzyme indolethylamine N-methyltransferase (INMT) catalyzes the biosynthesis of DMT from tryptamine.
 
-Oral DMT is rapidly broken down by **MAO-A** in the GI tract and liver. Traditional preparations combine DMT-containing plants with MAO-inhibiting plants (see Ayahuasca).
+## Endogenous Occurrence
 
-## Natural Occurrence
+DMT has been detected in human tissues and fluids, leading to ongoing scientific debate about its natural function:
 
-### In Plants
+- **Brain tissue:** Detected in rat, mouse, and human brain tissue, though at very low concentrations (nanomolar range).
+- **Cerebrospinal fluid (CSF):** Detected in human CSF at concentrations of 0.5–4.0 ng/mL.
+- **Blood and urine:** Present at trace levels; levels may increase under stress or near death (Strassman's pineal gland hypothesis).
+- **Pineal gland:** The presence of DMT-synthesizing enzymes (INMT) in the pineal gland has been confirmed, supporting Rick Strassman's controversial hypothesis that the pineal gland releases DMT during extraordinary states of consciousness, including near-death experiences and REM sleep.
 
-DMT is found in over 65 plant species:
+### Proposed Endogenous Functions
+- **Neuroprotectant:** May protect neurons from ischemia and hypoxia through sigma-1 receptor activation.
+- **Neuroplasticity promotion:** May stimulate dendritic spine growth and synaptic plasticity, similar to other psychedelics.
+- **Immunomodulation:** Tryptamine derivatives may modulate immune system function.
+- **Consciousness modulation:** Speculative role in dreaming, mystical experiences, and altered states, though direct evidence remains limited.
 
-| Plant | Common Name | Part | DMT Content |
-|-------|-------------|------|-------------|
-| *Psychotria viridis* | Chacruna | Leaves | 0.1–0.6% |
-| *Mimosa tenuiflora* | Jurema | Root bark | 0.57–1.0% |
-| *Acacia acuminata* | Raspberry jam wattle | Root bark | 0.4–1.5% |
-| *Diplopterys cabrerana* | Chaliponga | Leaves | 0.2–0.6% |
-| *Anadenanthera peregrina* | Yopo | Seeds | 0.04–0.16% |
-| *Virola* spp. | Epená | Resin | 2–10% |
+## Natural Sources
 
-### In Animals
+DMT occurs in a wide variety of plant species across multiple families:
 
-DMT has been detected in human CSF, brain tissue, and blood plasma at trace levels, as well as in rodent brain tissue. Proposed endogenous functions include trace amine neurotransmission (via TAAR1), neuroprotection (via sigma-1), and regulation of consciousness (speculative).
+### Major Plant Sources
+- ***Mimosa tenuiflora* (Jurema):** Bark contains 0.5–1.5% DMT; used in Brazilian ayahuasca analogs.
+- ***Psychotria viridis* (Chacruna):** Leaves contain 0.1–0.6% DMT; the most common DMT source in Peruvian ayahuasca.
+- ***Diplopterys cabrerana* (Chaliponga):** Leaves contain 0.2–0.6% DMT; used in Ecuadorian and Colombian ayahuasca.
+- ***Acacia* species:** Bark and phyllodes of many Australian *Acacia* species contain DMT, including *A. maidenii*, *A. phlebophylla*, and *A. obtusifolia*.
+- ***Desmanthus illinoensis* (Illinois bundleflower):** Root bark contains approximately 0.34% DMT.
+- ***Anadenanthera peregrina* (Yopo):** Seeds contain DMT, 5-MeO-DMT, and bufotenin; traditionally snuffed.
 
-## Ayahuasca
+### Animal Sources
+- **Bufo alvarius (Sonoran Desert Toad):** Venom contains 5-MeO-DMT and bufotenin (not DMT itself, but structurally related).
+- **Rabbits, rats, mice:** Endogenous DMT detected in brain tissue.
 
-**Ayahuasca** is a traditional Amazonian psychoactive brew combining:
+## Cultural and Historical Use
 
-1. **Banisteriopsis caapi** (Ayahuasca vine) — provides β-carboline alkaloids (harmine, harmaline, tetrahydroharmine) as reversible **MAO-A inhibitors**
-2. **Psychotria viridis** (Chacruna) or **Diplopterys cabrerana** — provides the DMT
+### Ayahuasca
+Ayahuasca is the most culturally significant DMT-containing preparation. Originating in the Amazon basin among indigenous peoples of Peru, Brazil, Colombia, and Ecuador, the brew combines DMT-containing plants with *Banisteriopsis caapi*, which contains harmine, harmaline, and tetrahydroharmine — all reversible MAO-A inhibitors. This combination allows DMT to cross into the bloodstream and reach the brain when taken orally.
 
-Used for centuries by Amazonian peoples (Shipibo, Asháninka, Quechua) in healing ceremonies, divination, and initiation rites. Modern clinical research shows promising results for treatment-resistant depression, substance use disorders, anxiety/PTSD, and end-of-life distress.
+Ayahuasca is used in ceremonial contexts for healing, divination, and spiritual exploration. In the late 20th and early 21st centuries, its use has spread globally through the Santo Daime and União do Vegetal churches, which have achieved legal recognition for ceremonial ayahuasca use in several countries.
 
-## Synthetic DMT
+### Other Traditional Uses
+- **Snuffs (e.g., Yopo, Vilca):** DMT-containing seeds are toasted, ground, and mixed with alkaline ash (usually from *Prosopis* or *Ceiba* species) to create a freebase form that is absorbed through nasal mucosa.
+- **Smoking:** DMT-containing plant material has been smoked in various contexts, though this is less common historically than oral or insufflated use.
 
-First synthesized in 1931 by Richard Manske. Common forms include **freebase** (vaporized at 60–80°C), **DMT fumarate** (water-soluble salt), and **pharmahuasca** (pharmaceutical DMT + MAOI such as moclobemide or harmine).
+## Therapeutic Research
 
-## Effects and Experience
+Contemporary research into DMT's therapeutic potential is in earlier stages than psilocybin or MDMA research but is advancing rapidly:
 
-### The "DMT Breakthrough"
-
-At sufficient doses (40–60+ mg smoked freebase), DMT produces a **breakthrough experience**:
-
-- Complete dissolution of ego and body boundaries
-- Visions of impossibly complex geometric structures ("hyperspace")
-- Encounters with perceived sentient entities ("machine elves")
-- Profound feelings of unity and interconnectedness
-- Extreme time distortion — minutes feel like eternity
-- Ineffable experiences beyond verbal description
-
-**Positive effects:** Mystical-type experiences, ego dissolution, enhanced empathy, novel perspectives, reduced fear of death.
-
-**Challenging effects:** Intense fear at onset, complete loss of control, disorientation, existential distress, integration difficulties.
+- **Depression:** Small studies suggest rapid and sustained antidepressant effects, possibly mediated through neuroplasticity mechanisms (BDNF upregulation, dendritic spine growth).
+- **Addiction:** Ayahuasca use has been associated with reduced substance use in observational studies, though controlled trials are lacking.
+- **End-of-life anxiety:** Case reports and preliminary studies suggest DMT may reduce fear of death and improve quality of life in terminal patients.
+- **Brain imaging:** fMRI studies reveal that DMT produces the most dramatic disruption of brain connectivity patterns of any known psychedelic, with profound effects on the default mode network and increased global connectivity.
 
 ## Legal Status
 
-DMT is **Schedule I** under the US Controlled Substances Act and similarly controlled worldwide. Notable exceptions: Brazil, Peru, and Colombia protect traditional/religious ayahuasca use; the Netherlands permits DMT-containing plants (extraction prohibited); Canada grants religious exemptions to some ayahuasca churches.
-
-## See Also
-
-- [[4-prho-dmt]]
-
-- [[dmt-nndmt]]
-- [[eth-ma]]
-
-- [[5-meo-dmt]] — Related tryptamine with distinct pharmacology
-- [[psilocybin]] — Orally active natural psychedelic tryptamine
-- [[ayahuasca-botany-and-preparation]] — Traditional DMT-containing preparation
-- monoamine oxidase — Enzymes that metabolize DMT
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — Primary receptor target of psychedelics
+- **United States:** Schedule I under the Controlled Substances Act. The plants containing DMT are not specifically scheduled, though extraction or preparation is illegal. Religious exemptions exist for certain ayahuasca-using churches (UDV v. DEA, 2006).
+- **International:** Scheduled under the UN Convention on Psychotropic Substances (1971).
+- **Brazil:** Ayahuasca is legal for religious use; DMT itself is controlled.
+- **Peru:** Ayahuasca is recognized as a cultural patrimony.
+- **Netherlands:** DMT is controlled, but it is not actively prosecuted in small quantities.

@@ -13,6 +13,7 @@ sources:
   - AllBud. "Berry White Weed Strain." www.allbud.com.
   - "Strainbank Genetics Database." www.strainbank.com.
   - Mudge EM, Murch SJ (2020). "Cannabinoid and Terpene Profiles of Commercial Cannabis Strains." Cannabis and Cannabinoid Research 5(4).
+created: 2026-04-28
 ---
 
 ## Overview

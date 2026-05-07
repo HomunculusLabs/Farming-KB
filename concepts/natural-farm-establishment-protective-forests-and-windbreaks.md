@@ -4,6 +4,8 @@ tags: [natural-farming, agroforestry, windbreaks, reforestation, masanobu-fukuok
 date: 2026-04-28
 updated: 2026-04-28
 sources: [masanobu-fukuoka-sowing-seeds-in-the-desert]
+created: 2026-04-28
+type: concept
 ---
 
 # Natural Farm Establishment of Protective Forests and Windbreaks

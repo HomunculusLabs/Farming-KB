@@ -131,6 +131,8 @@ the genus.
 
 ## See Also
 
+- [[amanita-mappa]]
+
 - [[amanita-vaginata]]
 
 - [[fungal-ecology]]

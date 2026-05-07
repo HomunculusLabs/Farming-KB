@@ -16,6 +16,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151632/
   - Paterson RR. "Ganoderma – a therapeutic fungal biofactory." Phytochemistry. 2006.
   - Wasser SP. "Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides." Appl Microbiol Biotechnol. 2002.
+created: 2026-04-28
 ---
 
 # Ganoderma lucidum

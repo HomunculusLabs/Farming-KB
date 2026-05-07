@@ -129,4 +129,6 @@ generational experimentation and observation.
 
 ## See Also
 
+- [[koumine]]
+
 - [[norharmane]]

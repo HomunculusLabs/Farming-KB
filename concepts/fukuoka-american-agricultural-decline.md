@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - masanobu-fukuoka-the-road-back-to-nature.md
+created: 2026-04-28
+type: concept
 ---
 
 # Fukuoka's Observation of American Agricultural Decline

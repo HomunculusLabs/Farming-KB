@@ -10,6 +10,7 @@ sources:
   - "Dezarn, W. (2015). 'ACDC — A CBD-Dominant Cannabis Chemotype.' Project CBD."
   - "Lewis, M.A. et al. (2018). 'Cannabidiol (CBD) content in commercial hemp and cannabis cultivars.' Cannabis and Cannabinoid Research."
 aliases: [acdc, cbd-strain, high-cbd-chemotype]
+created: 2026-04-28
 ---
 
 # ACDC (Cannabis Strain)

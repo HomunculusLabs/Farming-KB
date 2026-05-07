@@ -15,6 +15,7 @@ sources:
   - Bousquet, J. et al. (2016). "The Marama Bean (Tylosema esculentum): A Potential Crop for Arid Regions." Economic Botany, 70(2), 129–143.
   - Van Rheenen, H.A. (2000). "Marama bean: A crop for the Kalahari desert." In: J. Janick (ed.), Perspectives on New Crops and New Uses. ASHS Press.
   - National Research Council (2006). "Lost Crops of Africa: Volume II, Vegetables." National Academies Press.
+created: 2026-04-28
 ---
 
 ## Overview

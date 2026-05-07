@@ -27,6 +27,7 @@ sources:
   - Newsholme, C. (1993). "Willows: The Genus Salix." B.T. Batsford.
   - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579286-1
+created: 2026-04-28
 ---
 
 ## Overview

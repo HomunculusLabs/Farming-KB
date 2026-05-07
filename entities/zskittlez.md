@@ -27,6 +27,7 @@ sources:
   - EMG (2016). "Best Indica — Zkittlez." Emerald Cup Awards.
   - Bachtell, T. et al. (2021). "Terpene profiles of award-winning cannabis cultivars." Cannabis and Cannabinoid Research, 6(4), 312-322.
   - WikiLeaf. "Zkittlez Strain Review." https://www.wikileaf.com/strain/zkittlez/
+created: 2026-04-28
 ---
 
 ## Overview

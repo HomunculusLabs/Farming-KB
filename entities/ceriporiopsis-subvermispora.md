@@ -16,6 +16,7 @@ sources:
   - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
   - Otjen, L. & Blanchette, R.A. (1986). "A discussion of lignocellulose degradation by Ceriporiopsis subvermispora." Biodeterioration Research, 1, 403-415.
   - Fernández-Fueyo, E. et al. (2012). "Comparative genomics of Ceriporiopsis subvermispora and Phanerochaete chrysosporium." Applied and Environmental Microbiology, 78(15), 5398-5410.
+created: 2026-04-28
 ---
 
 # Ceriporiopsis subvermispora

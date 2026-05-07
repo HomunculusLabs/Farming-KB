@@ -11,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+created: 2026-04-28
 ---
 
 # Purple and Color-Changing Cannabis Strains

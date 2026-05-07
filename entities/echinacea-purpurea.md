@@ -1,158 +1,127 @@
 ---
 title: Echinacea purpurea
-created: 2026-04-28
 type: species
 tags:
   - herbal-plant
-  - immunomodulator
   - medicinal-herb
+  - immunomodulator
   - native-american-medicine
-  - pollinator-plant
+  - ethnobotany
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — Echinacea immunomodulation clinical trials
-  - Barnes, J. et al. (2005). "Echinacea species." Am. J. Health-Syst. Pharm.
-  - Karsch-Völk, M. et al. (2014). "Echinacea for preventing and treating the common cold." Cochrane Rev.
-  - Ming, D.S. et al. (2005). "Echinacea: Chemistry and Immunomodulatory Properties." J. Pharm. Pharmacol.
-  - https://plants.usda.gov/ — USDA plant database for native range
+  - USDA NRCS Plant Profile (Echinacea purpurea)
+  - Kligler, B. (2003). "Echinacea." American Family Physician.
+  - Barnes, J. et al. (2005). "Echinacea Species." Cochrane Database.
+  - European Medicines Agency HMPC Monograph on Echinacea purpurea
 ---
+
 # Echinacea purpurea
 
-**Purple Coneflower** · **Eastern Purple Coneflower** · **Sampson Root**
+**Echinacea purpurea**, the **purple coneflower**, is a perennial herbaceous flowering plant in the family Asteraceae. Native to eastern and central North America, it is one of the most commercially important medicinal herbs in the world, widely used as an immunomodulatory agent with a multi-billion dollar global market.
 
 ## Taxonomy
 
-| Rank | Name |
-|------|------|
-| Kingdom | Plantae |
-| Division | Magnoliophyta |
-| Class | Magnoliopsida |
-| Order | Asterales |
-| Family | Asteraceae |
-| Tribe | Heliantheae |
-| Genus | *Echinacea* |
-| Species | *E. purpurea* |
+- **Kingdom:** Plantae → **Clade:** Asterids → **Order:** Asterales
+- **Family:** Asteraceae → **Tribe:** Heliantheae → **Genus:** *Echinacea*
+- **Species:** *E. purpurea*
 
-Described by Linnaeus in 1753 as *Rudbeckia purpurea*, transferred to
-*Echinacea* by Moench in 1794. Genus name from Greek *echinos* (hedgehog),
-referring to the spiny disk. Three medicinal species: *E. purpurea*,
-*E. angustifolia*, and *E. pallida*.
+### Common Names
+Purple coneflower, eastern purple coneflower, hedgehog coneflower, Kansas snakeroot
 
-## Botanical Description
+## Description
 
-- **Life form**: Herbaceous perennial, 60–120 cm tall, 3–5+ year lifespan
-- **Stems**: Erect, sturdy, hirsute; green with purple tinting
-- **Leaves**: Alternate, lanceolate-ovate, 5–15 cm; coarsely toothed, rough-
-  hairy; basal petiolate, upper sessile
-- **Root**: Deep taproot with fibrous laterals; aromatic (spicy-chocolatey);
-  produces new crown buds annually
-- **Flower head**: Solitary, terminal, 7–12 cm; spiny orange-brown disk, 15–25
-  reflexed pink-purple ray florets (occasionally white)
-- **Blooming**: June–August; 2–4 weeks per flower
-- **Seeds**: Small dark achenes, 100–200/head; viable 3–5 years; bee-pollinated
+- **Form:** Upright, clump-forming perennial, 60–120 cm tall, 30–60 cm spread
+- **Root system:** Fibrous taproot with lateral roots; primary medicinal organ
+- **Leaves:** Alternate, lanceolate to ovate, 5–15 cm, dark green with coarse teeth
+- **Flowers:** Solitary terminal heads, 7–10 cm diameter; 15–20 pink-purple ray florets; prominent orange-brown spiny central cone
+- **Blooming:** June–August (July peak); highly attractive to butterflies, bees, and goldfinches
+- **Lifespan:** 3–5 years in cultivation
 
-## Native Range and Distribution
+## Distribution and Habitat
 
-- **Range**: Central/eastern North America, Great Plains to Atlantic; Ontario
-  to Georgia and eastern Texas
-- **Habitat**: Prairies, open woodlands, savannas, meadows; well-drained soils
-- **Naturalized**: Europe, Asia, temperate South America
-- **Hardiness**: USDA zones 3–9; tolerates heat, cold, drought, poor soils
+Native to eastern and central United States (Iowa/Ohio south to Georgia/Louisiana, west to Oklahoma). Naturalized in parts of Europe. Prefers open woodlands and prairies, well-drained soils, full sun to partial shade. Tolerant of drought and poor soils. USDA Zones 3–9.
 
-## Bioactive Compounds
+## Phytochemistry
 
-### Polysaccharides
+### Key Bioactive Compounds
+- **Alkylamides:** Dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides — found primarily in roots; responsible for tongue-tingling sensation; primary immunomodulatory agents
+- **Caffeic acid derivatives:** Cichoric acid (most abundant in aerial parts), echinacoside, cynarin — antioxidant, immunomodulatory
+- **Polysaccharides:** Arabinogalactan, xyloglucan — immunostimulatory, activate complement pathway
+- **Flavonoids:** Quercetin, kaempferol, luteolin derivatives
+- **Essential oil:** Germacrene D, caryophyllene, humulene, pinene
 
-- **Echinacoside**: Caffeic acid derivative, immunostimulatory, antioxidant
-- **Rhamnogalacturonan**: Arabinogalactan activating macrophages and phagocytosis
-- **4-O-methylglucuronyl galactans**: Immunomodulatory (aerial parts)
+### Bioactive Markers
+- **Cichoric acid** — primary phenolic marker in aerial parts
+- **Echinacoside** — caffeic acid derivative with antioxidant and neuroprotective activity
 
-### Alkamides
+## Pharmacology
 
-- **Dodeca-tetraenoic acid isobutylamides**: Primary bioactives; produce
-  tongue-tingling sensation; anti-inflammatory via CB2 receptor modulation and
-  NF-κB inhibition. 12+ identified; highest in flowering aerial parts
+### Immunomodulatory Effects
+1. **Macrophage activation:** Polysaccharides stimulate phagocytosis by 20–40% in vitro
+2. **NK cell enhancement:** Alkylamides increase natural killer cell cytotoxicity
+3. **Cytokine modulation:** Controlled upregulation of IL-1, IL-6, TNF-α during early immune response; modulates IL-10 during resolution
+4. **CB2 receptor interaction:** Alkylamides are partial agonists at cannabinoid receptors, providing additional immunomodulatory pathway
+5. **Complement activation:** Polysaccharides activate the alternative pathway
 
-### Phenolics
+### Antiviral, Anti-inflammatory, and Antioxidant
+- Inhibits influenza, HSV-1/2, and rhinovirus replication in vitro; blocks viral hemagglutinin and neuraminidase
+- Inhibits COX and 5-LOX enzymes; suppresses NF-κB and MAPK signaling; reduces PGE₂ synthesis
+- Significant DPPH and ABTS radical scavenging (IC₅₀: 8.2 µg/mL for aerial extract)
 
-- **Cichoric acid**: Major caffeic acid derivative, antioxidant
-- **Cynarin**: Hepatoprotective caffeoylquinic acid
-- **Flavonoids**: Apigenin, luteolin, kaempferol, quercetin derivatives
+## Clinical Evidence
+
+### Upper Respiratory Tract Infections
+Most extensively studied application. Meta-analyses show 10–20% reduced risk when taken preventively; 0.5–1.5 day reduction in duration when taken at onset. Greatest efficacy within 24 hours of symptom onset. Evidence remains mixed due to product quality variation.
+
+### Important Caveats
+- Many trials used poorly characterized extracts
+- Cochrane Review concludes evidence insufficient for definitive recommendations
+- Liquid preparations (tinctures, pressed juice) may outperform capsules due to better alkylamide bioavailability
 
 ## Traditional Use
 
-- **Indigenous North American medicine**: Plains Indians used extensively. Kiowa
-  for coughs; Lakota for pain; Cheyenne for colds/toothache; Omaha for fever.
-  Roots chewed, decocted, or poulticed
-- **Eclectic physicians** (late 19th–early 20th c.): Most widely prescribed
-  American Eclectic remedy for infections and septic conditions
-- **European herbalism**: Adopted from Native American use; approved by German
-  Commission E for cold and respiratory support
-
-## Modern Clinical Research
-
-### Common Cold
-
-Cochrane Review (2014, 24 trials): *Echinacea* may reduce cold risk by 10–20%
-and duration by ~1.4 days. More effective with specific preparations and early
-intervention.
-
-### Immunomodulation
-
-- **Innate immunity**: Alkamides/polysaccharides enhance phagocytosis, increase
-  NK cell activity, stimulate cytokines (TNF-α, IL-1, IL-6, IFN-γ)
-- **Anti-inflammatory**: Alkamides inhibit COX-2 and 5-LOX, reducing
-  prostaglandin and leukotriene production
-
-### Wound Healing
-
-Topical preparations enhance healing in animal models via fibroblast
-proliferation, collagen synthesis, and antimicrobial activity.
+- **Plains Indigenous peoples:** Topical treatment for wounds, burns, snakebites; internal use for sore throat and infections
+- **Eclectic physicians (19th century):** "Echinacea was the most important of the indigenous remedies" — John Uri Lloyd
+- **Modern herbalism:** Immune support and common cold prevention/treatment
 
 ## Cultivation
 
-| Parameter | Details |
+| Parameter | Optimal |
 |-----------|---------|
-| Propagation | Seed (stratify 4–6 wk at 4°C), division, root cuttings |
-| Spacing | 30–45 cm apart, rows 60–90 cm |
-| Soil | Well-drained loam, pH 6.0–7.0 |
-| Light | Full sun (6+ hours); tolerates partial shade |
-| Water | Moderate; drought-tolerant once established |
-| Harvest (aerial) | During flowering, year 2–3 |
-| Harvest (roots) | Autumn of 3rd–4th year |
+| Propagation | Cold-stratified seed (30–60 days at 4 °C); division every 3–4 years |
+| Soil pH | 6.0–7.0 |
+| Spacing | 45–60 cm |
+| Water | Low to moderate; drought-tolerant once established |
+| Harvest (aerial) | Full flower, mid-summer |
+| Harvest (root) | Autumn of 3rd–4th year |
+| Dry yield (root) | 2–4 tonnes/ha |
 
-## Parts Used and Preparations
+Relatively pest-free; aster yellows phytoplasma can cause distorted growth. Root rot in poorly drained soils.
 
-| Part | Key Constituents | Preparations |
-|------|-----------------|-------------|
-| Root (fresh) | Alkamides, polysaccharides | Tinctures, decoctions |
-| Root (dried) | Cichoric acid, echinacoside | Capsules, powders |
-| Aerial (flowering) | Polysaccharides, cichoric acid | Juices, teas, tinctures |
-| Whole plant | Broad spectrum | Freeze-dried juice, extracts |
+## Preparations and Dosage
 
-Expressed juice from fresh flowering aerial parts (standardized alkamides) is
-the best-studied commercial preparation.
+- **Tincture (1:5, 60% ethanol):** 2–4 mL, 3× daily
+- **Pressed juice (standardized):** 6–9 mL daily (Echinaforce)
+- **Capsules (400–500 mg dried root):** 2–3 capsules, 3× daily
+- **Tea/decoction:** 1–2 g dried root per cup, steeped 10–15 min, 3× daily
 
-## Safety Profile
+German Commission E requires minimum 4% echinacoside for root preparations. Always verify species.
 
-- **Well-tolerated**: Rare mild GI upset, headache, dizziness
-- **Allergic reactions**: Possible in Asteraceae-allergic individuals (ragweed,
-  daisies); monitor for rash or asthma
-- **Autoimmune**: Theoretical concern; clinical evidence lacking
-- **Drug interactions**: No significant interactions documented
-- **Duration**: Short-term use (≤8 weeks); chronic use may cause tachyphylaxis
+## Safety
 
-## Permaculture Applications
+- Generally well-tolerated; most common: mild GI upset
+- **Contraindications:** Autoimmune disorders (theoretical), progressive systemic diseases
+- **Drug interactions:** Immunosuppressants, hepatotoxic drugs
+- **Allergy risk:** Asteraceae cross-reactivity (ragweed, marigolds, daisies)
+- Avoid during pregnancy/lactation
 
-- **Pollinator support**: Excellent nectar for butterflies (monarchs, painted
-  ladies), native bees; blooms during mid-summer nectar dearth
-- **Companion planting**: Deep taproot breaks compacted soil, mines nutrients;
-  attracts predatory insects for pest management
+## Ecological Value
+
+Excellent pollinator plant for butterflies and native bees; goldfinches consume seed heads through winter; deep roots improve soil structure; widely used in native gardens and prairie restorations; deer-resistant.
 
 ## See Also
 
-- [[echinacea-angustifolia]]
-
-- [[companion-planting]]
-- [[permaculture]]
+- [[Echinacea angustifolia]] — Narrow-leaved coneflower, traditionally preferred by herbalists
+- [[Astragalus membranaceus]] — Chinese adaptogenic herb with complementary immunomodulatory effects
+- [[Sambucus nigra]] — Elderberry, antiviral herb for respiratory infections

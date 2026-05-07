@@ -16,6 +16,7 @@ sources:
   - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest living organisms." Nature, 356(6368), 428–431.
   - Trest, M.T. & Thorn, R.G. (2021). "Armillaria." In: The Mycota (Vol. 10). Springer.
   - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest ecosystem processes and forest health." Forest Pathology, 47(6), e12343.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -16,6 +16,7 @@ sources:
   - Trout, K. (2005). Sacred Cacti. 2nd ed. Trout's Notes.
   - Ogunbodede, O. et al. (2010). "Echinopsis peruviana: Phytochemical profile and ethnobotanical importance." Journal of Ethnopharmacology, 132(1), 138-145.
   - Devereux, P. (1997). The Long Trip: A Prehistory of Psychedelia. Penguin Arkana.
+created: 2026-04-28
 ---
 
 # Echinopsis peruvianus

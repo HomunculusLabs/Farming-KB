@@ -131,6 +131,8 @@ This rotation progressively addresses compaction at increasing depths while main
 
 ## See Also
 
+- [[query-best-cover-crops-for-sandy-soil]]
+
 - [[cover-crop-quick-reference]] — comprehensive cover crop selection guide
 - [[dynamic-accumulator-quick-reference]] — plants that mine deep nutrients
 - [[soil-food-web]] — how soil biology improves soil structure

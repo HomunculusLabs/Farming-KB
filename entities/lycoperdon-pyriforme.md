@@ -25,6 +25,7 @@ sources:
   - Calonge, F.D. (1998). "Gasteromycetes (Lycoperdales, Nidulariales, Phallales, Sclerodermatales, Tulostomatales)." Flora Mycologica Iberica.
   - Kuo, M. (2024). "Lycoperdon pyriforme." MushroomExpert.com.
   - https://www.mushroomexpert.com/lycoperdon_pyriforme.html
+created: 2026-04-28
 ---
 
 ## Overview

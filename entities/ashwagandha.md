@@ -15,6 +15,7 @@ sources:
   - Singh, N. et al. "An Overview on Ashwagandha." African J Traditional Medicine, 2011.
   - Chandrasekhar, K. et al. "Safety and Efficacy of Ashwagandha." Indian J Psychol Med, 2012.
   - Patil, D. et al. "Genome sequencing of Ashwagandha." New Phytologist, 2021.
+created: 2026-04-28
 ---
 
 # Ashwagandha

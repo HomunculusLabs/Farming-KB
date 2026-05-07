@@ -142,3 +142,7 @@ vendors, creating a legal gray area.
 [[psilocybin-containing-mushrooms-in-us]] covers the other major class of naturally occurring hallucinogenic organisms in the United States.
 [[entities/ergine-lsa]] provides the detailed entity profile for the ergine molecule itself.
 [[entities/lsd]] covers the synthetic derivative to which LSA is most closely compared.
+
+## See Also
+
+- [[ipomoea-batatas]]

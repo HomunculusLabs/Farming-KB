@@ -17,6 +17,7 @@ sources:
   - Cáceres, A. et al. (1991). "Plants used in Guatemala for the treatment of respiratory diseases." Journal of Ethnopharmacology, 31(2), 193-208.
   - Ruffa, M.J. et al. (2004). "Cytotoxic effect of Argentine medicinal plant extracts on human hepatocellular carcinoma cell line." Journal of Ethnopharmacology, 94(2-3), 385-389.
   - Schmeda-Hirschmann, G. & Yesilada, E. (2005). "Traditional medicine and gastroprotective crude drugs." Journal of Ethnopharmacology, 100(1-2), 61-66.
+created: 2026-04-28
 ---
 
 # Petiveria alliacea

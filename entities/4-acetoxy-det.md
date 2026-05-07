@@ -14,6 +14,7 @@ sources:
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Dean, B.J. et al. (2022). "Structure-activity relationships of 4-substituted tryptamines." Journal of Medicinal Chemistry.
   - Erowid. "4-AcO-DET Vault." erowid.org.
+created: 2026-04-28
 ---
 
 ## Overview

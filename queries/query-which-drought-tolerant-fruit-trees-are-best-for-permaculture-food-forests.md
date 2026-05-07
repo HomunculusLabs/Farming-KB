@@ -15,6 +15,8 @@ sources:
   - https://link.springer.com/article/10.1007/s13595-019-0844-4
   - https://www.permaculturenews.org/
   - https://www.nrcs.usda.gov/technical/ECS/Agroforestry/
+created: 2026-04-28
+type: query
 ---
 
 # Which Drought-Tolerant Fruit Trees Are Best for Permaculture Food Forests?

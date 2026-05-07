@@ -16,6 +16,7 @@ sources:
   - Yang J., Martin I., Martin C. (2009). "Production of resveratrol and its derivatives in grape cell cultures." Methods in Molecular Biology.
   - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit quality traits." Nature Communications.
   - Waterhouse A.L. (2002). "Wine phenolics." Annals of the New York Academy of Sciences.
+created: 2026-04-28
 ---
 
 ## Overview

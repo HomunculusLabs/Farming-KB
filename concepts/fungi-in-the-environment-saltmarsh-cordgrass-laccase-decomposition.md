@@ -13,6 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 18: Newell, S.Y., Lyons, J.I. & Moran, M.A. "A saltmarsh decomposition system and its ascomycetous laccase genes."
+created: 2026-04-28
+type: concept
 ---
 
 # Saltmarsh Cordgrass Decomposition and Ascomycete Laccases

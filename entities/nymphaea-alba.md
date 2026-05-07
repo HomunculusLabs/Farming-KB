@@ -16,6 +16,7 @@ sources:
   - Bruneton, J. (1999). "Pharmacognosy, Phytochemistry, Medicinal Plants." 2nd ed. Lavoisier Publishing, Paris.
   - Hanelt, P. & IPK Gatersleben (2001). "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops." Springer.
   - Evans, W.C. (2009). "Trease and Evans' Pharmacognosy." 16th ed. Saunders Elsevier, Edinburgh.
+created: 2026-04-28
 ---
 
 ## Overview

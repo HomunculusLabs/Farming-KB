@@ -14,6 +14,7 @@ sources:
   - Raman, A. & Lau, C. (1996). "Anti-diabetic properties and phytochemistry of Momordica charantia." Phytomedicine, 2(4), 349–362.
   - Tan, M.J. et al. (2008). "Antidiabetic activities of the bitter gourd Momordica charantia." British Journal of Pharmacology, 154(7), 1316–1328.
   - NTBG (2024). "Breadfruit Institute — Pacific Agroforestry Species." ntbg.org.
+created: 2026-04-28
 ---
 
 ## Overview

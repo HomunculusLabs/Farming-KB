@@ -119,6 +119,8 @@ The clay pellet provides advantages that bare seed cannot: protection from birds
 
 ## See Also
 
+- [[direct-seeding-non-cultivation]]
+
 - [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]]
 - [[comparison-seed-starting-vs-direct-seeding]]
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]

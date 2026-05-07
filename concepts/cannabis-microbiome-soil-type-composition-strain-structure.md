@@ -4,6 +4,7 @@ tags: [cannabis, microbiome, soil-type, endorhiza, strain-specificity, community
 date: 2026-04-28
 updated: 2026-04-28
 sources: [understanding-cultivar-specificity-cannabis-microbiome]
+created: 2026-04-28
 ---
 
 # Cannabis Microbiome Soil Type Composition Strain and Structure

@@ -15,6 +15,8 @@ sources:
   - National Research Council. "Lost Crops of Africa: Volume I — Grains." National Academies Press, 1996.
   - CGIAR Research Program on Grain Legumes and Dryland Cereals. "Sorghum and Millet: The Climate-Smart Cereals." 2020.
   - Andrews, D.J., and K.A. Kumar. "Breeding Sorghum and Pearl Millet for Drought-Prone Environments." Field Crops Research, 1992.
+created: 2026-04-28
+type: comparison
 ---
 
 # Sorghum vs Millet — Comparison for Small-Scale Farming

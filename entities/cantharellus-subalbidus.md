@@ -16,6 +16,7 @@ sources:
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press, Berkeley.
   - Danell, E. (2002). "Using morphological and unstable molecular characters to recognize species within the Cantharellus cibarius complex in Europe." Mycological Research, 106(5), 543–555.
   - Pilz, D. & Molina, R. (2002). "Commercial harvests of edible mushrooms from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
+created: 2026-04-28
 ---
 
 ## Overview

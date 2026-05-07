@@ -6,6 +6,8 @@ updated: 2026-04-28
 sources:
   - masanobu-fukuoka-the-road-back-to-nature.md
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+created: 2026-04-28
+type: concept
 ---
 
 # Fukuoka Critique of Modern Livestock and Fisheries

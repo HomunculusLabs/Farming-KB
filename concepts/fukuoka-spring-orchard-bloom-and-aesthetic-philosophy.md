@@ -116,6 +116,8 @@ The practical lesson is that beautiful gardens do not require intensive maintena
 
 ## See Also
 
+- [[fukuoka-sowing-cave-of-intellect-and-philosophy-of-mu]]
+
 - [[fukuoka-road-back-to-nature-overview]]
 - [[fukuoka-road-flowers-and-beauty]]
 - [[fukuoka-errors-human-intellect]]

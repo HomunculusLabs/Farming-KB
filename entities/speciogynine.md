@@ -15,6 +15,7 @@ sources:
   - Takayama H, Ishikawa H, Kurihara M, et al. (2002). "Studies on the synthesis of Monoterpene Indole Alkaloids and related compounds. Part 236." Tetrahedron 58(51): 10315-10321.
   - Kruegel AC, Grundmann O (2018). "The medicinal chemistry and neuropharmacology of kratom." Planta Medica 84(12-13): 890-899.
   - Varadi A, Marrone GF, Palmer TC, et al. (2016). "Mitragynine/corynantheidine pseudoindoxyls as opioid analgesics with mu agonism and delta antagonism." Journal of Medicinal Chemistry 59(18): 8381-8397.
+created: 2026-04-28
 ---
 
 ## Overview

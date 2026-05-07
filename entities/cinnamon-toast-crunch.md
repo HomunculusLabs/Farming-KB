@@ -14,6 +14,7 @@ sources:
   - AllBud. "Cinnamon Toast Crunch Cannabis Strain." allbud.com.
   - Wikileaf. "Cinnamon Toast Crunch Strain Review." wikileaf.com.
   - Growers Network. "Modern Cookie-Lineage Hybrids: Genetics and Terpene Profiles." growersnetwork.org.
+created: 2026-04-28
 ---
 
 # Cinnamon Toast Crunch

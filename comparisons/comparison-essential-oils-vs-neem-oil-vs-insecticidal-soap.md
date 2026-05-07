@@ -9,6 +9,8 @@ sources:
   - https://en.wikipedia.org/wiki/Pesticidal_plants
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6275171/
   - https://www.epa.gov/saferchoice/conventional-products/using-insecticidal-soap
+created: 2026-05-03
+type: comparison
 ---
 
 # Essential Oils vs Neem Oil vs Insecticidal Soap

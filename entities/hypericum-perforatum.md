@@ -17,6 +17,7 @@ sources:
   - "Medical Herbalism" by David Hoffmann (2003)
   - "St. John's Wort (Hypericum perforatum)" — Monograph, American Botanical Council (2022)
   - European Medicines Agency (EMA) HMPC Monograph on Hyperici herba
+created: 2026-04-28
 ---
 
 # Hypericum perforatum

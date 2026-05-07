@@ -154,13 +154,11 @@ Ramial chips are better for long-term soil building under pathways. Composted ch
 ### Raised Beds and Container Growing
 
 **Winner: Composted wood chips.**
-
 The fine, stable texture of composted chips integrates well with soil mixes. Ramial chips are too coarse and actively decomposing for containers.
 
 ### Erosion Control on Slopes
 
 **Winner: Ramial wood chips.**
-
 The larger particle size and interlocking structure of fresh chips grip soil better and last longer before decomposing.
 
 ### Restoring Degraded Soil
@@ -174,7 +172,6 @@ Use ramial chips to jumpstart fungal communities and rebuild soil structure from
 ## Can You Combine Both Approaches?
 
 Absolutely — and many experienced growers do. A common strategy:
-
 1. **Base layer**: Apply 5–10 cm of composted wood chips (or compost) and lightly incorporate into the top few centimeters of soil.
 2. **Top layer**: Apply 5–10 cm of fresh ramial wood chips on top as a surface mulch.
 3. **Result**: Immediate fertility from the compost layer, ongoing fungal stimulation and mineral cycling from the ramial layer, plus moisture conservation and weed suppression from both.
@@ -189,6 +186,7 @@ Ramial wood chips and composted wood chips are complementary tools, not competin
 
 *For perennial systems, start with ramial wood chips. For annual beds and quick fertility, use composted wood chips. For the best of both worlds, layer them.*
 
+- [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
 ## See Also
 
 - [[ramial-chipped-wood]]
@@ -196,3 +194,7 @@ Ramial wood chips and composted wood chips are complementary tools, not competin
 - [[cation-exchange-capacity]]
 - [[composting]]
 - [[decomposition]]
+
+## See Also
+
+- [[comparison-broadfork-vs-chisel-plow]]

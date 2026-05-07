@@ -13,6 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 11: Jenkinson, J.M., Wilson, R.A., Cartwright, Z., Soanes, D.M., Kershaw, M.J. & Talbot, N.J. "Functional genomics of plant infection by the rice blast fungus Magnaporthe grisea."
+created: 2026-04-28
+type: concept
 ---
 
 # Magnaporthe grisea and Rice Blast Disease

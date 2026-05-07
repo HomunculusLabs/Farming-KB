@@ -142,3 +142,7 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 - [[psilocybe-cubensis-miniculture-method]]
 - [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[tropisms-psilocybe-cubensis-phototropism]]
+
+## See Also
+
+- [[psilocybe-cinctulus]]

@@ -26,6 +26,7 @@ sources:
   - Leung, A.Y. & Paul, A.G. (1968). "Biosynthesis of psilocybin and related compounds." Phytochemistry, 7(8), 1415-1421.
   - Repke, D.B. et al. (1977). "A new synthesis of psilocybin." Journal of Medicinal Chemistry, 20(4), 556-558.
   - "Psilocybin and psilocin." The PsychonautWiki. https://psychonautwiki.org/
+created: 2026-04-28
 ---
 
 ## Overview

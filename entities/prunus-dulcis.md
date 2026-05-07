@@ -17,6 +17,7 @@ sources:
   - Micke, W.C. (1996). Almond Orchard Management. UC DANR Publication 3364.
   - Dicenta, F. et al. (2005). "Heritability of fruit quality traits in almond." Plant Breeding, 124(1), 82-87.
   - Socias i Company, R. & Fernández i Martí, A. (2012). "Almond." In Badenes, M.L. & Byrne, D.H. (eds.), Fruit Breeding, Springer.
+created: 2026-04-28
 ---
 
 # Prunus dulcis

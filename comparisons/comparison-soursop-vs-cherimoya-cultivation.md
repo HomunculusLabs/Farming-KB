@@ -16,6 +16,8 @@ sources:
   - https://hort.purdue.edu/newcrop/morton/soursop.html
   - https://hort.purdue.edu/newcrop/morton/cherimoya.html
   - https://doi.org/10.17660/ActaHortic.2014.1029.14
+created: 2026-04-28
+type: comparison
 ---
 
 # Soursop vs Cherimoya — Cultivation Comparison

@@ -13,6 +13,7 @@ sources:
   - Pegler, D.N. (1983). "The genus Panus (Basidiomycotina)." Kew Bulletin.
   - Corner, E.J.H. (1981). "The agaric genera Lentinus, Panus, and Pleurotus." Beihefte zur Nova Hedwigia.
   - Ryvarden, L. & Gilbourn, C.M. (2004). "European polypores." Fungiflora, Oslo.
+created: 2026-04-28
 ---
 
 ## Overview

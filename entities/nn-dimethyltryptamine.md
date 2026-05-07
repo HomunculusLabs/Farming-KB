@@ -18,6 +18,7 @@ sources:
   - Strassman, "DMT: The Spirit Molecule" (2001)
   - Nichols, "Chemistry and Pharmacology of Psychedelics" (2024)
   - Szára, "DMT: Endogenous Hallucinogen" (1956, 2007)
+created: 2026-04-28
 ---
 
 # N,N-Dimethyltryptamine

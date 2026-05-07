@@ -28,6 +28,7 @@ sources:
   - USDA NRCS. "Grindelia robusta." PLANTS Database. https://plants.usda.gov/
   - Foster, S. & Duke, J.A. (2013). Peterson Field Guide to Medicinal Plants. Houghton Mifflin Harcourt.
   - Timmons, F.L. (1949). "The distribution and economic importance of Grindelia species." Economic Botany, 3(1), 71-94.
+created: 2026-04-28
 ---
 
 ## Overview

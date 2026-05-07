@@ -28,6 +28,7 @@ sources:
   - Condron, T. et al. (2018). "Nitrogen fixation by Ceanothus in California ecosystems." Plant and Soil, 428(1-2), 273-287.
   - Bornstein, C. et al. (2005). California Native Plants for the Garden. Cachuma Press.
   - Bentrup, G. (2008). "Conservation buffers: Design guidelines for buffers, corridors, and greenways." USDA Forest Service General Technical Report SRS-109.
+created: 2026-04-28
 ---
 
 ## Overview

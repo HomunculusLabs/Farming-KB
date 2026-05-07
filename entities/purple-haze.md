@@ -17,6 +17,7 @@ sources:
   - https://www.allbud.com/marijuana-strains/sativa/purple-haze
   - Clarke & Merlin, "Cannabis: Evolution and Ethnobotany" (2013)
   - "The Cannabible" series, Jason King (2001–2007)
+created: 2026-04-28
 ---
 
 # Purple Haze

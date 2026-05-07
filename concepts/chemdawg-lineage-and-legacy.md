@@ -10,6 +10,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+created: 2026-04-28
+type: concept
 ---
 
 # Chemdawg Lineage and Legacy

@@ -9,6 +9,7 @@ sources:
   - https://www.sare.org/publications/grape-organic-guide
   - https://extension.oregonstate.edu/growing-grapes-your-home-garden
   - https://mgonline.com/articles/grapetypes.aspx
+created: 2026-04-28
 ---
 
 # How Do I Start a Small Home Vineyard for Table Grapes?

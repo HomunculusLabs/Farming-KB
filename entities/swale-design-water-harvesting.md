@@ -18,6 +18,7 @@ sources:
   - Lancaster B. "Rainwater Harvesting for Drylands and Beyond." Rainsource Press. 2006.
   - Shepard M. "Restoration Agriculture." Acres U.S.A. 2013.
   - https://permacultureprinciples.com/
+created: 2026-04-28
 ---
 
 # Swale Design and Water Harvesting Earthworks

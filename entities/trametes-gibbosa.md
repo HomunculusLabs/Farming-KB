@@ -25,6 +25,7 @@ sources:
   - Bernicchia, A. & Gorjón, S.P. (2010). "Corticiaceae s.l." Fungiflora.
   - Kuo, M. (2024). "Trametes gibbosa." MushroomExpert.com.
   - https://www.mushroomexpert.com/trametes_gibbosa.html
+created: 2026-04-28
 ---
 
 ## Overview

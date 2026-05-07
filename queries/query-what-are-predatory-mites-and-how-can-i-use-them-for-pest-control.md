@@ -9,6 +9,8 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6275171/
   - https://www.biologicalcontrol.org/
   - https://www.ipm.ucdavis.edu/
+created: 2026-05-03
+type: query
 ---
 
 # What Are Predatory Mites and How Can I Use Them for Pest Control?

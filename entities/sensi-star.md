@@ -12,6 +12,7 @@ sources:
   - Greenhouse Seed Co. (2000s). Sensi Star strain documentation.
   - Leafly Strain Database. "Sensi Star." leafly.com.
   - AllBud. "Sensi Star Marijuana Strain Information." allbud.com.
+created: 2026-04-28
 ---
 
 ## Overview

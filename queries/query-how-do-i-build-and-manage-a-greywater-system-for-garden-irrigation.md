@@ -121,4 +121,10 @@ patterns.
 
 ## See Also
 
+- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
+
 - [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
+
+## See Also
+
+- [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]

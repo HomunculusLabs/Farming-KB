@@ -115,6 +115,8 @@ requirements further disrupts weed adaptation cycles.
 
 ## Related
 
+- [[vicia-sativa]]
+
 - [[camelina-sativa]]
 - [[canavalia-ensiformis]]
 

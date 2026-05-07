@@ -14,6 +14,7 @@ sources:
   - Kibby G (2016). "Mushrooms and Toadstools of Britain and Europe." FIELD Studies Council.
   - Petersen RH, Hughes KW (2010). "The genus Hygrophoropsis (Hygrophoropsidaceae)." Mycologia 102(1): 1-25.
   - Index Fungorum. "Hygrophoropsis aurantiaca (Wulfen) Maire." www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 ## Overview

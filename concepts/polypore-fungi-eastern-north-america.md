@@ -128,6 +128,8 @@ medicinal polypores.
 
 ## See Also
 
+- [[daedalea-quercina]]
+
 - [[trametes-pubescens]]
 
 - [[wolfiporia-cocos]]

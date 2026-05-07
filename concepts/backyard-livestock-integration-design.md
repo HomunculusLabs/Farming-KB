@@ -131,6 +131,8 @@ Amaranth, barley, corn, millet, oats, quinoa, sunflower, wheat
 
 ## See Also
 
+- [[trichanthera-gigantea]]
+
 - [[gaias-garden-backyard-livestock-integration]]
 
 - [[permaculture-chicken-tractors]]

@@ -12,6 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - eliot-coleman-winter-harvest-handbook.md
+created: 2026-04-28
+type: concept
 ---
 
 # The Tilther, Broadfork, and Greenhouse Soil Aeration Tools

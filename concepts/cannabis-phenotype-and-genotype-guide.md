@@ -114,6 +114,10 @@ Cannabis plants are classified by their cannabinoid profile:
 
 ## Related
 
+- [[liquid-gelato]]
+
+- [[gelonade]]
+
 - [[g13]]
 
 - [[cannabis-phenotype-selection]]
@@ -123,3 +127,7 @@ Cannabis plants are classified by their cannabinoid profile:
 - [[cannabis-thc-therapeutic-profile]] — for THC details
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
+
+## See Also
+
+- [[cake-batter]]

@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+created: 2026-04-28
+type: concept
 ---
 
 # Osmotic Shock and Sugar Concentration Effects on Bacteria and Fungi

@@ -15,6 +15,8 @@ sources:
   - "ICRISAT – Pearl Millet and Sorghum Research (icrisat.org)"
   - "Rodale Institute – Dryland Grain Cropping Systems (rodaleinstitute.org)"
   - "ECHOcommunity – Small-Scale Grain Production Technical Notes (echocommunity.org)"
+created: 2026-04-28
+type: query
 ---
 
 # Which Grain Is Best for Drought-Tolerant Small-Scale Farming?
@@ -163,3 +165,7 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 - amaranth processing guide · water wise farming overview
 
 - [[permaculture-sorghum-guide]]
+
+## See Also
+
+- [[grain-and-staple-crops]]

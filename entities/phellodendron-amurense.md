@@ -18,6 +18,7 @@ sources:
   - Kubo M, Matsuda H, Tani T, et al. (1994). "Studies on Phellodendri cortex. V. Antibacterial principles of Phellodendri cortex." Planta Medica 60(6): 513-516.
   - Kim DH, Kim BR, Kim JY, Jeon YD (2016). "Anti-inflammatory effects of Phellodendron amurense bark on lipopolysaccharide-activated microglia." Molecular Medicine Reports 14(6): 5347-5354.
   - Li WL, Zheng HC, Bukuru J, De Kimpe N (2004). "Natural medicines used in the traditional Chinese medical system for therapy of diabetes mellitus." Journal of Ethnopharmacology 92(1): 1-21.
+created: 2026-04-28
 ---
 
 ## Overview

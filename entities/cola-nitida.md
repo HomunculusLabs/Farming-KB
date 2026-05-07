@@ -17,6 +17,7 @@ sources:
   - Burkill, H.M. (1985). "The Useful Plants of West Tropical Africa." 2nd ed. Vol. 1. Royal Botanic Gardens, Kew.
   - Atawodi, S.E. & Atawodi, J.C. (2009). "Chemical composition of Cola nitida." Journal of Food Science and Technology, 46(6), 556–559.
   - Falade, M.O. (2011). "The kola nut: A cultural and economic overview of a West African crop." Economic Botany, 65(3), 239–249.
+created: 2026-04-28
 ---
 
 ## Overview

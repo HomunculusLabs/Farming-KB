@@ -25,6 +25,7 @@ sources:
   - Dissing, H. (1966). "The genus Helvella in Europe." Dansk Botanisk Arkiv.
   - Kuo, M. (2024). "Helvella acetabulum." MushroomExpert.com.
   - https://www.mushroomexpert.com/helvella_acetabulum.html
+created: 2026-04-28
 ---
 
 ## Overview

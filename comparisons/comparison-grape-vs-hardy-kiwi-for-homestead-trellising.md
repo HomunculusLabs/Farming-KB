@@ -9,6 +9,8 @@ sources:
   - "Missouri Botanical Garden – Actinidia arguta Plant Profile"
   - "USDA Natural Resources Conservation Service – Plant Guides for Vitis and Actinidia"
   - "California Rare Fruit Growers – Hardy Kiwi Fact Sheet"
+created: 2026-04-28
+type: comparison
 ---
 
 # Grape vs Hardy Kiwi for Homestead Trellising

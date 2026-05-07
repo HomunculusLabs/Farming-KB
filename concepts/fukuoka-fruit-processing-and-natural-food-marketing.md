@@ -148,3 +148,7 @@ material development. The human economics that value money and a high standard o
 environment and a sick agriculture.
 
 See also: [[fukuoka-critique-modern-livestock]], [[fukuoka-five-principles-natural-farming]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-limits-scientific-method-agriculture]]
+
+## See Also
+
+- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]

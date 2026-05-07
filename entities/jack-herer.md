@@ -1,122 +1,145 @@
 ---
 title: Jack Herer
-created: 2026-04-28
 type: strain
-tags: [sativa-dominant, hybrid, award-winning, cannabis-strain, haze-lineage, skunk-lineage, medicinal, classic]
+tags:
+  - cannabis
+  - sativa
+  - strain
+  - hybrid
+  - medicinal
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md, /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md, /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md]
+sources:
+  - https://en.wikipedia.org/wiki/Jack_Herer_(cannabis)
+  - https://www.leafly.com/strains/jack-herer
+  - https://www.wikileaf.com/strain/jack-herer/
+  - Greenhouse Seeds breeding records (Netherlands)
 ---
 
 # Jack Herer
 
-## Overview
+**Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant cannabis strain named in honor of Jack Herer (1939–2010), the American cannabis activist and author of *The Emperor Wears No Clothes* (1985), the seminal book arguing for hemp legalization and cannabis decriminalization. The strain is widely regarded as one of the most important and influential cannabis varieties ever created.
 
-Jack Herer is one of the most famous, celebrated, and influential cannabis strains in the history of the plant. Named in honor of the legendary cannabis activist and author of "The Emperor Wears No Clothes," this sativa-dominant hybrid has earned its reputation through decades of consistent quality, distinctive flavor, and potent cerebral effects. Winner of nine High Times Cannabis Cup awards (including multiple first-place finishes), Jack Herer has served as the genetic foundation for countless subsequent hybrids and remains a benchmark strain against which others are measured. It occupies a place in cannabis culture similar to that of a grand cru wine — a standard-bearer whose name carries immediate recognition and respect.
+## Genetic Lineage
 
-## Genetics and Lineage
+Jack Herer is a complex hybrid resulting from the cross of three parent strains:
 
-- **Type:** Sativa-dominant hybrid (approximately 55–65% sativa / 35–45% indica, depending on the specific cut and breeder)
-- **Lineage:** A complex hybrid combining:
-  - **Haze:** The legendary sativa landrace hybrid (Mexican × Colombian × Thai × Indian) — provides the uplifting, cerebral, and creative effects along with extended flowering time
-  - **Northern Lights #5:** The quintessential indica — contributes potency, resin production, and physical density to the buds
-  - **Shiva Skunk:** (Northern Lights × Skunk #1) — adds pungent aroma, additional yield, and hybrid vigor
-- **Original breeder:** Developed in the Netherlands in the early-to-mid 1990s by Sensi Seeds, who stabilized the complex polyhybrid into a reliable seed line
-- **Named after:** Jack Herer (1939–2010), the American cannabis activist and author whose 1985 book "The Emperor Wears No Clothes" became the foundational text of the cannabis legalization movement
+| Parent | Role | Characteristics Contributed |
+|--------|------|---------------------------|
+| **Haze** | Primary sativa parent | Cerebral effects, tropical aroma, long flowering time |
+| **Northern Lights #5** | Indica contributor | Resin production, reduced flowering time, compact structure |
+| **Shiva Skunk** | Secondary contributor | Potency, skunky undertones, yield improvement |
+
+The original breeding program was conducted in the **Netherlands** during the late 1980s and early 1990s by an anonymous breeder associated with the Sensi Seed Bank. The goal was to capture the legendary cerebral high of Haze while reducing its impractically long flowering period and low yield.
+
+Multiple phenotypic expressions exist, and cuttings from the original breeding program have been propagated and stabilized by various seed companies, leading to slight genetic drift between different "Jack Herer" lines available commercially. Greenhouse Seeds, Dutch Passion, and Sensi Seeds each maintain their own version.
+
+## Appearance
+
+### Plant Structure
+- **Height**: Tall (indoor: 100–150 cm; outdoor: 150–250 cm)
+- **Structure**: Open, branchy sativa growth pattern with moderate internodal spacing
+- **Leaf morphology**: Long, narrow-fingered sativa-type leaves, light green
+- **Branching**: Lateral branches develop well under training; responds favorably to LST and SCROG
+
+### Buds
+- **Shape**: Conical, elongated, somewhat loose sativa-type buds
+- **Density**: Moderate — less dense than indica-heavy strains but still substantial
+- **Color**: Bright to lime green with abundant orange to rust-colored pistils
+- **Trichomes**: Exceptionally heavy resin coating; crystal-laden with a sticky, resinous texture
+- **Calyx-to-leaf ratio**: Moderate; some sugar-leaf trimming needed
+
+### Color Variations
+- Standard phenotype: Bright green with orange pistils
+- Cool-temperature phenotypes: Purple and violet hues in calyxes and leaves
+- Mature plants: Trichomes transition from clear to cloudy to amber
 
 ## Aroma and Flavor Profile
 
-Jack Herer is renowned for one of the most distinctive and complex flavor profiles in cannabis:
+Jack Herer's terpene profile is one of its most celebrated attributes, often described as complex, multi-layered, and immediately recognizable:
 
-- **Aroma:** Multi-layered and immediately recognizable. Opens with bright, sharp pine notes (inherited from the Haze and Skunk lineage), followed by a peppery, spicy quality, and finishing with subtle floral and earthy undertones. The bouquet is often described as "forest floor after rain" combined with black pepper and fresh herbs.
-- **Flavor:** On inhalation, delivers a crisp, clean pine-forward taste with citrus hints. The exhalation reveals the full complexity: spicy pepper, woody earthiness, and a lingering sweet-floral note that coats the palate. The smoke is smooth and expansive, not harsh.
-- **Terpene profile:** Dominated by:
-  - **[[pinene]] (alpha-pinene and beta-pinene):** The dominant terpene, responsible for the characteristic pine aroma and contributing to alert, focused cerebral effects. May counteract some of the memory-impairing effects of THC.
-  - **[[myrcene]]:** Contributes earthy, herbal notes and potentiates the sedative-indica effects, moderating the pure sativa intensity
-  - **caryophyllene (beta-caryophyllene):** Adds peppery, spicy notes and contributes anti-inflammatory properties through CB2 receptor activation
-  - **[[limonene]]:** Provides subtle citrus brightness and mood-elevating anxiolytic effects
-  - **Linalool:** Trace amounts add floral sweetness
+### Primary Aroma Notes
+- **Pine**: The dominant note — sharp, resinous, reminiscent of forest canopy (attributed primarily to pinene)
+- **Spice**: Peppery, herbal undertones with woody complexity
+- **Earth**: A grounding, loamy base note
+- **Citrus**: Subtle lemon and floral sweetness on the exhale
+- **Skunk**: Faint skunky pungency, especially when ground
 
-## Potency and Effects
+### Flavor
+The smoke is characteristically smooth for a sativa, with a **sweet-spicy pine** flavor on the inhale and an **earthy, slightly fruity** finish. The aftertaste lingers pleasantly with a woody, herbal quality.
 
-- **THC content:** 18–24% (modern tested samples), though older cuts and phenotypes can range from 15–28% depending on growing conditions and phenotype selection
-- **CBD content:** Low, typically 0.1–0.5% (not a high-CBD strain)
-- **Onset:** Relatively fast, 5–15 minutes after inhalation or 30–60 minutes after oral ingestion
+### Dominant Terpenes
 
-### Subjective effects profile
+| Terpene | Approximate % | Characteristics |
+|---------|--------------|----------------|
+| **Terpinolene** | 0.3–0.7% | Floral, piney, herbal; complex, multi-faceted aroma |
+| **Pinene (α/β)** | 0.2–0.5% | Pine needles, rosemary; bronchodilator, anti-inflammatory |
+| **Caryophyllene** | 0.15–0.35% | Peppery, spicy; CB2 receptor agonist |
+| **Myrcene** | 0.1–0.3% | Herbal, earthy; sedative at higher concentrations |
+| **Limonene** | 0.1–0.25% | Citrus, lemon; mood elevation, stress relief |
 
-- **Cerebral:** The hallmark of Jack Herer — an immediate, clear-headed, creative, and euphoric mental stimulation. Users consistently report enhanced focus, creative inspiration, and an uplifted, positive mood. Unlike some heavy sativas, the cerebral effect is described as "clean" and functional rather than racing or anxious.
-- **Energetic:** Moderate stimulation that promotes activity and social engagement without the jittery quality of pure sativas. Suitable for daytime use.
-- **Physical:** Mild body relaxation from the indica lineage, preventing the pure cerebral intensity from becoming overwhelming. A pleasant, light bodily warmth accompanies the mental effects.
-- **Duration:** Moderate — 2–3 hours for peak effects, with a gentle taper extending the total experience to 3–4 hours
-- **Comedown:** Clean and smooth, without the crash or lethargy associated with heavier indica strains. Users typically return to baseline gradually.
+## Cannabinoid Profile
 
-## Growing Characteristics
+Typical laboratory-tested cannabinoid ranges for modern Jack Herer cultivars:
 
-Jack Herer is considered a moderately challenging strain to cultivate, best suited for growers with some experience:
+| Cannabinoid | Range | Notes |
+|-------------|-------|-------|
+| **THC** | 18–24% | Some phenotypes test up to 27% |
+| **CBD** | 0.01–0.1% | Very low; primarily THC-driven |
+| **CBG** | 0.05–0.3% | Minor cannabinoid |
+| **THCV** | Trace | May contribute to stimulating effects |
 
-- **Flowering time:** 8–10 weeks indoors (the Haze lineage extends flowering compared to pure indicas). Outdoor harvest in late September to mid-October in the Northern Hemisphere.
-- **Height:** Medium to tall — the sativa dominance produces vigorous vegetative growth. Indoor plants typically reach 100–150 cm; outdoor plants can exceed 200 cm. Responds well to training techniques (LST, SCROG, topping) to manage height and increase yield.
-- **Yield:** Moderate to high. Indoor yields of 350–500 g/m² are typical with optimized conditions. Outdoor plants can produce 500–700 g each under favorable conditions.
-- **Structure:** Branching is moderate with strong lateral growth. Develops large, dense main colas with numerous secondary bud sites. Buds are elongated, conical, and coated in thick, sticky trichomes with orange pistils.
-- **Climate preference:** Prefers warm, Mediterranean climates with low humidity during flowering. The dense bud structure makes it susceptible to bud rot (Botrytis) in humid conditions — adequate ventilation and humidity control are essential.
-- **Difficulty:** Rated as moderately difficult due to the extended flowering period (requiring patience and nutrient management), height management needs, and susceptibility to mold in humid environments. Not recommended for absolute beginners, but manageable for growers with 2–3 grows of experience.
-- **Nutrient needs:** Moderate to heavy feeder during vegetative growth. Requires careful management during the extended flowering period — nitrogen should be reduced gradually while phosphorus and potassium are increased. The Haze lineage is sensitive to nutrient burn, so a conservative feeding approach is advisable.
-- **Resistance:** Good general pest resistance. Moderate resistance to mold when environmental conditions are managed. The strong terpene profile provides some natural pest deterrence.
+## Effects and Experience
+
+Jack Herer is considered the archetype of a **functional, creative sativa high**. The onset is typically rapid (5–15 minutes when smoked/vaped) and the experience is often described in phases:
+
+### Effects Timeline
+
+**Onset (0–30 min)**: Euphoria, enhanced sensory perception, cerebral stimulation, creative ideation. **Peak (30–90 min)**: Focused energy, conversational fluency, motivational drive — often used as a "daytime" strain, with mild body relaxation. **Come-down (2–4 hr)**: Smooth taper with minimal burnout or grogginess.
+
+### Medicinal Applications
+Reported relief from depression (euphoric properties), fatigue (stimulating effects), stress/anxiety (low-to-moderate doses), chronic pain (moderate analgesic, especially headache/neuropathic), and PTSD (mood stabilization). ADHD focus improvement is anecdotal.
+
+## Cultivation
+
+### Grow Difficulty: Moderate
+
+Jack Herer rewards experienced growers but presents challenges for beginners due to its sativa growth patterns and sensitivity to environmental stress.
+
+### Growth Parameters
+
+| Parameter | Optimal Range |
+|-----------|--------------|
+| Vegetative period | 3–5 weeks (or 4–8 weeks from seed) |
+| Flowering time | 8–10 weeks (indoor) |
+| Harvest (outdoor) | Mid to late October (Northern Hemisphere) |
+| Indoor yield | 350–500 g/m² |
+| Outdoor yield | 400–700 g/plant |
+| Temperature | 20–28°C during flowering |
+| Humidity | 45–55% during flowering |
+
+### Cultivation Considerations
+
+- **Stretch**: Significant stretch during early flowering (up to 2–3× height increase); plan vertical space accordingly
+- **Training**: LST, SCROG, and topping recommended to control height and maximize light exposure
+- **Nutrients**: Moderate-to-heavy feeder during flowering; benefits from phosphorus and potassium supplementation in mid-to-late flower
+- **Pest resistance**: Moderate; may be susceptible to spider mites and powdery mildew in high-humidity environments
+- **Terpene preservation**: Lower curing temperatures (18–20°C) preserve the delicate terpinolene-dominant profile
+- **Trichome maturation**: Harvest when 50–70% of trichomes are cloudy with some amber for optimal effect balance
 
 ## Awards and Recognition
 
-Jack Herer's trophy case is among the most impressive in cannabis history:
+Jack Herer's trophy cabinet is among the most decorated of any cannabis strain:
 
-- **9× High Times Cannabis Cup winner** — including multiple first-place finishes in the 1990s and 2000s
-- Consistently featured in "Top 10 Strains of All Time" lists across cannabis media
-- Has served as a parent or genetic contributor to dozens of award-winning hybrid strains
-- Considered a "must-have" in any serious cannabis genetic library
-
-## Medicinal Applications
-
-Jack Herer's balanced effect profile makes it suitable for a range of therapeutic applications:
-
-- **Mood disorders:** The clear-headed, euphoric cerebral effects are beneficial for depression, anxiety, and stress management. The pinene-dominant terpene profile promotes alertness and focus, making it functional for daytime use.
-- **ADHD:** The stimulating, focusing effects have made Jack Herer a popular choice among patients managing attention deficit symptoms, though clinical evidence remains limited.
-- **Fatigue:** The energizing properties counteract physical and mental fatigue without the side effects of stimulant medications.
-- **Pain management:** Moderate analgesic properties from the THC content and caryophyllene, suitable for mild to moderate chronic pain conditions.
-- **Creative block:** Widely used by artists, writers, and musicians to overcome creative stagnation and promote divergent thinking.
-- **Appetite stimulation:** Standard cannabinoid-mediated appetite enhancement, useful for conditions involving appetite suppression.
-
-## Notable Descendant Strains
-
-Jack Herer has been used extensively as a parent strain in breeding programs, producing many well-known hybrids:
-
-- **Jack 47** (Jack Herer × AK-47) — High-yielding sativa-dominant hybrid by Sweet Seeds, combining the cerebral Jack Herer high with AK-47's massive yields and resilience
-- **Jack Diesel** (Jack Herer × NYC Diesel) — Positronics Seeds cross with added fuel-citrus complexity, greater than the sum of its parts according to breeders
-- **Black Jack** (Jack Herer × Black Domina) — Enhanced indica influence for heavier body effects, faster flowering, and darker coloration
-- **Jack's Cleaner** (Jack Herer × Space Queen) — Pacific Northwest favorite with tropical fruit notes and exceptional resin production
-- **Jack Frost** (Jack Herer × White Widow) — Increased resin production, potency, and a coating of frosty white trichomes
-- **Amnesia Haze** — While not a direct cross, shares significant Haze lineage and has a related effect profile
-- **Super Jack** (Jack Herer × Super Silver Haze) — Double Haze influence for extended cerebral effects and complex aroma
-
-The genetic influence of Jack Herer in modern cannabis breeding is pervasive — its combination of Haze-derived cerebral effects, Skunk-derived aroma and yield, and Northern Lights-derived resin production represents a near-ideal genetic template that breeders continue to refine and remix.
-
-## Cultural Significance
-
-Jack Herer the strain is inseparable from Jack Herer the man:
-
-- **Jack Herer (1939–2010)** was a cannabis activist whose book "The Emperor Wears No Clothes" documented the history of hemp and cannabis prohibition, arguing that the criminalization of cannabis was driven by corporate interests (particularly the paper, petrochemical, and pharmaceutical industries) rather than public health concerns.
-- Naming the strain after him was an act of cultural homage — the strain embodies the qualities its namesake championed: clarity of thought, creative energy, and resistance to oppression.
-- Greg Green, in "The Cannabis Grow Bible," references Jack Herer's activism and the strain named in his honor as emblematic of the cannabis movement's scientific and cultural aspirations.
-- Jorge Cervantes, in "Marijuana Horticulture," includes Jack Herer among the recommended outdoor varieties that finish by mid-to-late September with very good yield and potency.
-- The strain's consistent quality over three decades has made it a touchstone in cannabis culture — a standard against which new strains are measured, much as fine wine varieties serve as benchmarks in viticulture.
+- **1st Place — High Times Cannabis Cup (Sativa category)**: 9× winner (1990s–2000s), an unprecedented record
+- **1st Place — High Times Cannabis Cup (Overall)**: Multiple wins
+- **1st Place — High Times World Cannabis Cup**
+- Inducted into the **High Times Seed Bank Hall of Fame**
 
 ## See Also
 
-- [[cannabis-sativa]] — The sativa species contributing to Jack Herer's dominant effects
-- [[cannabis-indica]] — The indica species in its genetic background providing density and resin
-- northern lights — Indica parent strain in Jack Herer's lineage
-- [[pinene]] — The dominant terpene responsible for Jack Herer's characteristic pine aroma
-- [[myrcene]] — Secondary terpene contributing to the effect profile
-- caryophyllene — Peppery terpene with anti-inflammatory properties
-- [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid
-- [[cannabidiol-cbd]] — Non-psychoactive cannabinoid, present in low amounts in Jack Herer
-- Sour Diesel — Another legendary sativa-dominant strain from the same era
-- [[nerolidol]]
+- [[jack-herer-activist]] — The person for whom this strain is named
+- [[haze]] — Primary sativa parent
+- [[northern-lights]] — Indica parent contributing resin production
+- [[cannabis-terpenes]] — Terpene profiles and their effects
+- [[sativa-vs-indica]] — The sativa/indica classification debate

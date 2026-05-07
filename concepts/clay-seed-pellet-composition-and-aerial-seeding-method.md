@@ -4,6 +4,8 @@ tags: [natural-farming, seed-pellets, aerial-seeding, reforestation, masanobu-fu
 date: 2026-04-28
 updated: 2026-04-28
 sources: [masanobu-fukuoka-sowing-seeds-in-the-desert]
+created: 2026-04-28
+type: concept
 ---
 
 # Clay Seed Pellet Composition and Aerial Seeding Method
@@ -120,6 +122,8 @@ Fukuoka traced the concept of clay seed pellets to ancient Japanese agricultural
 The Japanese term "tsuchi dango" literally means "earth dumpling," reflecting the simple, hands-on nature of the technology. Fukuoka valued this simplicity because it made the technique accessible to anyone, regardless of technical training or financial resources.
 
 ## See Also
+
+- [[clay-pellet-desert-revegetation]]
 
 - [[natural-farm-establishment-protective-forests-and-windbreaks]] for the broader revegetation methodology
 - [[fukuoka-greening-deserts|natural farming green desert concept]] for Fukuoka's global vision

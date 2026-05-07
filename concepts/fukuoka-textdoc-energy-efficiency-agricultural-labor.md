@@ -152,6 +152,8 @@ When a natural farmer has no use for chemical farming materials and does not rec
 
 ## See Also
 
+- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
+
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 - [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]

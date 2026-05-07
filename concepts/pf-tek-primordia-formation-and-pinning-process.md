@@ -4,6 +4,8 @@ tags: [mycology, pf-tek, psilocybe-cubensis, primordia, pinning, fruiting, mushr
 date: 2026-04-28
 updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
+created: 2026-04-28
+type: concept
 ---
 
 # PF TEK Primordia Formation and Pinning Process

@@ -14,6 +14,7 @@ sources:
   - Rubel & Arora. "Amanita muscaria: A Foraging and Cultural History." 2023.
   - Stamets, Paul. "Mycelium Running." Ten Speed Press, 2005.
   - Pfister, D.H. "Amanita muscaria." Harvard University Press, 2021.
+created: 2026-04-28
 ---
 
 # Amanita muscaria

@@ -136,6 +136,8 @@ aphids-cannabis|Aphids, whiteflies-cannabis|Whiteflies,
 
 ## See Also
 
+- [[biological-pest-control-balance]]
+
 - [[cervantes-outdoor-vertebrate-pest-control]]
 
 - [[cervantes-caterpillars-budworms]]

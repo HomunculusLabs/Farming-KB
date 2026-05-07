@@ -27,6 +27,7 @@ sources:
   - Liu, Y. et al. (2017). "Tremella fuciformis: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 206, 247-262.
   - "Tremella fuciformis." Index Fungorum. https://www.indexfungorum.org/
   - Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
+created: 2026-04-28
 ---
 
 ## Overview
