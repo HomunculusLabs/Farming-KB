@@ -5,26 +5,25 @@ tags:
   - fungi
   - medicinal-mushroom
   - adaptogen
-  - polypore
   - traditional-chinese-medicine
+  - polypore
   - immunomodulator
+  - reishi
+  - lingzhi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1986-2001."
-  - "Wasser, S.P. (2005). Reishi (Ganoderma lucidum). Taylor & Francis."
-  - "Sanodiya, B.S. et al. (2009). Ganoderma lucidum: a potent pharmacological macrofungus. Current Pharmaceutical Biotechnology, 10(8), 917-924."
-  - "Mahmoud, A.M. et al. (2021). Immunomodulatory and anti-inflammatory effects of Ganoderma lucidum. Nutrients, 13(12), 4390."
-created: 2026-04-28
+  - https://pubmed.ncbi.nlm.nih.gov/?term=ganoderma+lucidum+review
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5640186/
+  - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1985-2001."
+  - "Wachtel-Galor, S., & Benzie, I.F.F. (2011). Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. Chapter 13: Ganoderma lucidum (Lingzhi / Reishi)."
 ---
 
-# Ganoderma lucidum (Lingzhi / Reishi)
+# Ganoderma lucidum
 
-## Overview
+**Ganoderma lucidum**, commonly known as **Reishi** (Japan) or **Lingzhi** (China, 靈芝, "divine mushroom"), is a polypore bracket fungus belonging to the family Ganodermataceae. It is one of the most extensively studied medicinal mushrooms in the world and has been used for over 2,000 years in traditional East Asian medicine.
 
-**Ganoderma lucidum** is a polypore bracket fungus belonging to the family Ganodermataceae. It is one of the most extensively studied medicinal mushrooms in the world, with a documented history of use spanning over 2,000 years in Traditional Chinese Medicine (TCM), where it is known as **Lingzhi** ("spirit mushroom") and in Japan as **Reishi** or **Mannentake** ("10,000-year mushroom"). The species epithet *lucidum* refers to the characteristic glossy, varnished appearance of the cap surface.
-
-## Taxonomy
+## Taxonomy and Identification
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
@@ -32,120 +31,104 @@ created: 2026-04-28
 - **Order:** Polyporales
 - **Family:** Ganodermataceae
 - **Genus:** *Ganoderma*
-- **Species:** *G. lucidum*
 
-The taxonomy of *Ganoderma* has been subject to significant revision. Molecular phylogenetics has revealed that what was historically considered a single cosmopolitan species *G. lucidum* is in fact a species complex. Asian specimens identified as *G. lucidum* have been reclassified as *G. lingzhi*, while true *G. lucidum* sensu stricto is restricted to European populations. Commercial "Reishi" products are typically derived from *G. lingzhi* or related Asian species within the *G. lucidum* complex.
+The fruiting body is kidney- or fan-shaped with a distinctive lacquered, varnished appearance. The upper surface is reddish-brown to dark brown, often with concentric growth zones. The underside is white to pale yellow, covered with fine pores. Mature specimens can reach 20–30 cm in diameter. The flesh is tough, corky, and woody — not palatable raw, which is why it is almost exclusively consumed as a decoction, extract, or powder.
 
-## Morphology
-
-The fruiting body is a large, woody, kidney-shaped or fan-shaped bracket fungus:
-
-- **Cap:** 5–30 cm diameter, convex to plano-convex, surface deeply lacquered with concentric growth zones ranging from reddish-brown to near-black. The margin is typically lighter, sometimes with a whitish zone.
-- **Pore surface:** White when young, turning brown with age. Pores are small (4–5 per mm), round, with a slightly decurrent arrangement.
-- **Context:** Corky to woody, tough and fibrous, reddish-brown.
-- **Stipe:** Lateral to eccentric, 3–15 cm long, 1–3 cm thick, with the same lacquered surface as the cap.
-- **Spore print:** Brown.
-- **Spores:** Ovoid, truncate at one end, 7–12 × 5–8 µm, double-walled with a distinctive ornamented inner wall.
+**Key identification features:**
+- Double-walled, truncate basidiospores (8–12 × 5–8 µm)
+- Shiny, varnished cap surface (hence *lucidum*, "shiny")
+- Context and tubes do not blacken when bruised with KOH (distinguishing it from *G. tsugae*)
 
 ## Distribution and Habitat
 
-*Ganoderma lucidum* sensu stricto is found primarily in temperate and subtropical hardwood forests of Europe. Asian *G. lingzhi* occurs widely across China, Korea, and Japan. The fungus is a **white-rot saprotroph** and a weak **parasite**, typically found at the base of decaying stumps or on living hardwoods, especially oaks (*Quercus* spp.), maples (*Acer* spp.), and other broadleaf species. It prefers warm, humid conditions and fruits from late spring through autumn.
+*G. lucidum* is a cosmopolitan species found in temperate and subtropical forests worldwide. It grows as a **saprotroph and weak parasite** on the dead or dying wood of hardwood trees, particularly oaks (*Quercus* spp.), maples (*Acer* spp.), and elms (*Ulmus* spp.). In cultivation, it is typically grown on supplemented sawdust substrates or hardwood logs.
 
-In cultivation, the species is grown on supplemented hardwood sawdust substrates (often oak, beech, or mixed hardwoods) or on synthetic "log" formulations using grain spawn inoculation.
+## Major Bioactive Compounds
 
-## Chemical Composition
+### Polysaccharides (β-Glucans)
+The most studied immunomodulatory components. Water-soluble β-(1→3)(1→6)-D-glucans activate macrophages, natural killer (NK) cells, and dendritic cells via the Dectin-1 receptor pathway. These polysaccharides also exhibit anti-tumor activity through immune potentiation rather than direct cytotoxicity.
 
-The primary bioactive constituents include:
+### Triterpenoids (Ganoderic Acids)
+Over 150 ganoderic acids have been identified. These lanostane-type triterpenoids are responsible for:
+- Hepatoprotective effects (ganoderic acid A, B)
+- Anti-inflammatory activity via NF-κB inhibition
+- Cholesterol synthesis inhibition (HMG-CoA reductase suppression)
+- Anti-angiogenic and pro-apoptotic effects in cancer cell lines
 
-### Polysaccharides
-- **β-glucans** (β-1,3-glucan with β-1,6 branches): The most studied immunomodulatory compounds, constituting 1–3% dry weight of the fruiting body and up to 5% in mycelial extracts. GLPS (Ganoderma lucidum polysaccharide) fractions demonstrate potent macrophage activation, NK cell enhancement, and cytokine modulation.
+### Other Compounds
+- **Ganodermanondiol** and **ganodermanontriol**: sterols with anti-HIV-1 protease activity
+- **Lingzhi-8 peptide (LZ-8)**: immunosuppressive protein used in organ transplant research
+- **Nucleosides** (adenosine, guanosine): contribute to cardiovascular effects
+- **Organogermanium**: controversial trace element with proposed immunological activity
 
-### Triterpenoids
-- Over 150 triterpenoid compounds have been isolated, primarily **ganoderic acids** (A–Z, AA–AZ, and beyond). These lanostane-type tetracyclic triterpenes are concentrated in the spores and fruiting body cuticle. Key compounds include:
-  - **Ganoderic acid A**: hepatoprotective, anti-hypertensive
-  - **Ganoderic acid B**: anti-inflammatory
-  - **Ganoderic acid C1/C2**: cytotoxic to cancer cell lines
-  - **Ganoderic acid T**: inhibits HIV-1 protease
-  - **Lucidenic acids**: apoptosis-inducing in leukemia cells
+## Traditional Uses
 
-### Other Constituents
-- **Ganoderan** (a peptidoglycan)
-- **Lingzhi-8 protein** (immunomodulatory)
-- **Nucleotides and nucleosides** (adenosine, guanosine)
-- **Sterols** (ergosterol, ergosterol peroxide)
-- **Organic germanium** (controversially reported; actual content varies)
-- **Fiber, amino acids, and minerals** (potassium, calcium, magnesium, zinc, iron)
+In Traditional Chinese Medicine (TCM), Lingzhi is classified as a **superior tonic** in the Shennong Ben Cao Jing (c. 200 BCE), the oldest Chinese pharmacopeia. It is described as:
 
-## Pharmacological Activities
+> "Nourishes the spirit, vital energy (qi), and essence. Prolongs life. It is non-toxic and suitable for long-term consumption."
+
+Traditional indications include:
+- Fatigue and weakness (qi deficiency)
+- Insomnia and palpitations
+- Chronic cough and asthma
+- Dizziness and forgetfulness
+
+In Japanese Kampo medicine, Reishi is prescribed as **mannentake** (10,000-year mushroom) for similar indications.
+
+## Modern Pharmacological Research
 
 ### Immunomodulation
-The β-glucan fraction activates the complement system via the alternative pathway, enhances macrophage phagocytic activity, stimulates production of TNF-α, IL-1β, IL-6, and IFN-γ, and increases NK cell cytotoxicity. These effects are mediated through pattern recognition receptors including Dectin-1, CR3, and TLR2/TLR4.
+Clinical trials have shown that *G. lucidum* polysaccharide extracts enhance immune response in cancer patients undergoing chemotherapy, improving quality of life scores. A 2020 systematic review (Jin et al.) found moderate evidence for increased lymphocyte counts and NK cell activity.
 
 ### Anti-Cancer Properties
-In vitro and in vivo studies demonstrate anti-tumor activity through multiple mechanisms:
-- Direct cytotoxicity via apoptosis induction (mitochondrial pathway)
-- Anti-angiogenesis (inhibition of VEGF signaling)
-- Immune-mediated tumor suppression (enhanced NK and T-cell activity)
-- Metastasis inhibition (MMP-2/MMP-9 downregulation)
-- Chemotherapy adjuvant effects (reducing side effects of 5-FU, doxorubicin, cisplatin)
+In vitro studies demonstrate that ganoderic acids induce apoptosis in breast, prostate, and colorectal cancer cell lines. However, clinical evidence remains limited — most human data comes from adjunctive use rather than monotherapy trials.
 
 ### Hepatoprotection
-Ganoderic acids demonstrate protective effects against chemical-induced liver injury (CCl₄, thioacetamide) by reducing oxidative stress, inhibiting hepatic stellate cell activation, and suppressing TGF-β signaling pathways involved in fibrogenesis.
-
-### Anti-Inflammatory Activity
-Triterpenoid fractions suppress NF-κB activation, reduce COX-2 and iNOS expression, and inhibit prostaglandin E₂ synthesis. Clinical evidence supports use in osteoarthritis and allergic rhinitis.
+Ganoderic acids protect hepatocytes from CCl₄-induced damage in animal models and show promise in managing non-alcoholic fatty liver disease (NAFLD). Several clinical trials in China report improvements in ALT and AST liver enzymes.
 
 ### Cardiovascular Effects
-Reported activities include lowering blood pressure (via ACE inhibition), reducing serum cholesterol and triglycerides, inhibiting platelet aggregation, and improving endothelial function.
+- Reduces blood pressure (ACE inhibition, vasodilation)
+- Lowers LDL cholesterol and total cholesterol
+- Reduces platelet aggregation
 
 ### Neuroprotective Effects
-Emerging research indicates potential benefits in neurodegenerative conditions through anti-amyloidogenic activity, antioxidant neuroprotection, and modulation of neuroinflammatory pathways.
-
-## Traditional and Modern Uses
-
-### Traditional Use (TCM)
-In the *Shennong Ben Cao Jing* (~200 BCE), Lingzhi is classified as a superior herb, said to "nourish the spirit, preserve the vitality, and prolong life." It is prescribed for:
-- Shen (spirit) disturbance, insomnia, and anxiety
-- Chronic fatigue and qi deficiency
-- Respiratory conditions (asthma, chronic bronchitis)
-- Liver disorders and jaundice
-- General tonification and longevity
-
-### Modern Applications
-- **Dietary supplements:** Dried fruiting body powders, hot water extracts, dual extracts (water + alcohol), spore oil, and mycelial biomass
-- **Pharmaceutical research:** Investigated as adjunctive cancer therapy, immunotherapy support, and hepatoprotective agent
-- **Cosmetics:** Anti-aging skin formulations utilizing triterpenoid fractions
-- **Functional foods:** Reishi coffee, teas, chocolates, and beverages in Asian markets
+Recent research (2018–2024) has explored neuroprotective potential in:
+- Alzheimer's disease models (amyloid-β aggregation inhibition)
+- Parkinson's disease models (dopaminergic neuron protection)
+- Stroke recovery (reduced infarct volume in rat MCAO models)
 
 ## Cultivation
 
-### Substrate Cultivation (Primary Method)
-1. Substrate preparation: hardwood sawdust (70%) + wheat bran (28%) + gypsum (1%) + CaCO₃ (1%), moisture content 60–65%
-2. Bagging and sterilization: 121°C for 90–120 minutes
-3. Inoculation with grain spawn (5–10% by weight)
-4. Incubation: 25–28°C, 85–90% humidity, 30–45 days
-5. Fruiting induction: reduced temperature (20–25°C), increased fresh air exchange, light exposure (500–1000 lux), high humidity (90–95%)
-6. Harvest: 7–14 days after pin formation, before spore release
+### Log-Based Cultivation
+Traditional method using hardwood logs (oak, beech) inoculated with grain spawn. Fruiting occurs after 8–12 months. Produces higher-quality fruiting bodies but is slow and space-intensive.
 
-### Log Cultivation (Traditional Method)
-Hardwood logs (oak preferred, 10–20 cm diameter) are inoculated with plug or sawdust spawn, buried partially in shaded, humid locations, and fruiting occurs after 1–2 years of colonization. This method produces lower yields but is valued for producing higher-quality fruiting bodies with more concentrated triterpenoid content.
+### Substrate Cultivation (Sawdust Blocks)
+Modern method using supplemented hardwood sawdust (often with wheat bran or rice bran). Faster (3–5 months to fruiting), higher yield, more controllable. Dominates commercial production.
 
-### Yield and Quality
-Indoor cultivation typically yields 80–120 g fresh weight per kilogram of substrate over 2–3 flushes. Dual extraction (hot water + ethanol) is recommended to capture both polysaccharide and triterpenoid fractions.
+### Liquid Culture
+Mycelium is grown in liquid fermentation for biomass and extracellular metabolite production. Used for supplements but does not produce the full spectrum of fruiting body compounds.
 
-## Safety and Contraindications
+## Dosage and Safety
 
-*Ganoderma* is generally regarded as safe (GRAS) at typical supplement doses (1.5–9 g dried fruiting body equivalent per day). Reported side effects are mild and infrequent:
+- **Standardized extract (4:1):** 1,500–9,000 mg/day in divided doses
+- **Cracked cell wall powder:** 2,000–6,000 mg/day
+- **Tincture (1:5):** 2–4 mL, 2–3 times daily
 
-- Dry mouth and throat
-- Gastrointestinal discomfort (nausea, diarrhea)
-- Dizziness and skin rash (rare, possibly allergic)
+**Safety profile:** Generally well tolerated. Rare adverse effects include dry mouth, throat irritation, nausea, and loose stools. Contraindicated with immunosuppressants and anticoagulants (may potentiate warfarin). Caution advised during pregnancy and lactation due to insufficient safety data.
 
-Contraindications include concurrent use with immunosuppressants (due to immunostimulatory effects), anticoagulant/antiplatelet medications (potential additive effects on bleeding), and use during pregnancy or lactation (insufficient safety data).
+## Quality and Adulteration Concerns
+
+The reishi market suffers from significant quality issues:
+- Many commercial products contain primarily mycelium grown on grain, lacking the triterpenoid profile of fruiting body extracts
+- Adulteration with other *Ganoderma* species (*G. tsugae*, *G. applanatum*)
+- Variable β-glucan and triterpenoid content between brands
+- Third-party testing (e.g., ConsumerLab, NMR verification) is recommended
 
 ## See Also
 
-- [[trametes-versicolor]] — Turkey Tail mushroom, another medicinal polypore
-- [[hericium-erinaceus]] — Lion's Mane, neurotrophic medicinal mushroom
-- [[pleurotus-ostreatus]] — Oyster mushroom, edible species with medicinal properties
-- [[inonotus-obliquus]] — Chaga, antioxidant-rich medicinal fungus
+- [[polypore-fungi]] — Polypore bracket fungi overview
+- [[medicinal-mushrooms]] — Comprehensive guide to therapeutic fungi
+- [[adaptogenic-herbs]] — Cross-reference with other adaptogens
+- [[traditional-chinese-medicine-materia-medica]] — TCM herbal classification system
+- [[beta-glucans]] — Structural biology and immune mechanisms
+- [[ganoderic-acids]] — Detailed triterpenoid chemistry
