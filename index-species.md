@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2238 pages**
+**2251 pages**
 
 ## #
 
@@ -145,6 +145,7 @@
 - [[5-6-mdo-mipt-entity-tihkal]]
 - [[5-6-meo-mipt-entity-tihkal]]
 - [[5-mapb]]
+- [[5-meo-dalt]]
 - [[5-meo-dalt-entity]]
 - [[5-meo-det-entity-tihkal]]
 - [[5-meo-dipt]]
@@ -250,6 +251,7 @@
 - [[allium-sativum]]
 - [[allium-sativum-entity]]
 - [[allium-tuberosum]]
+- [[allium-ursinum]]
 - [[alnus-glutinosa]]
 - [[alnus-rubra]]
 - [[aloe-vera]]
@@ -466,6 +468,7 @@
 - [[calliandra-calothyrsus]]
 - [[calocybe-gambosa]]
 - [[calocybe-indica]]
+- [[calvatia-cyathiformis]]
 - [[calvatia-gigantea]]
 - [[camelina-sativa]]
 - [[camellia-sinensis-entity]]
@@ -896,6 +899,7 @@
 - [[ganesha-entity-pihkal]]
 - [[ganoderma-applanatum]]
 - [[ganoderma-lucidum]]
+- [[ganoderma-sinense]]
 - [[ganoderma-tsugae]]
 - [[garcinia-mangostana]]
 - [[gary-lincoff]]
@@ -1047,6 +1051,7 @@
 - [[hygrophorus-chlorophanus]]
 - [[hygrophorus-chrysodon]]
 - [[hygrophorus-coccineus]]
+- [[hygrophorus-marzuolus]]
 - [[hygrophorus-russula]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamine]]
@@ -1215,6 +1220,7 @@
 - [[lambsbread]]
 - [[lantana-camara]]
 - [[laricifomes-officinalis]]
+- [[larrea-tridentata]]
 - [[larry-og]]
 - [[lathyrus-tuberosus]]
 - [[latua-pubiflora]]
@@ -1383,6 +1389,7 @@
 - [[menthol]]
 - [[mepea-entity]]
 - [[mepea-entity-pihkal]]
+- [[mephedrone]]
 - [[meripilus-giganteus]]
 - [[meruliporia-incrassata]]
 - [[mescaline]]
@@ -1408,6 +1415,7 @@
 - [[mimosa-pudica]]
 - [[mimosa-tenuiflora]]
 - [[mimosa-tenuiflora-entity]]
+- [[mipla]]
 - [[miprocin]]
 - [[mipt-entity-tihkal]]
 - [[miscanthus-sinensis]]
@@ -1631,6 +1639,7 @@
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
 - [[phellinus-ferreus]]
+- [[phellinus-igniarius]]
 - [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
 - [[phellinus-pomaceus]]
@@ -2007,6 +2016,7 @@
 - [[silybum-marianum]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
+- [[sinapis-alba]]
 - [[skunk-1]]
 - [[skywalker-og]]
 - [[slurricane]]
@@ -2036,6 +2046,7 @@
 - [[stevia-rebaudiana]]
 - [[stigmasterol]]
 - [[stinging-nettle]]
+- [[strawberry-banana]]
 - [[strawberry-cough]]
 - [[streptomyces]]
 - [[streptomyces-avermitilis]]
@@ -2084,6 +2095,7 @@
 - [[tagetes-erecta-entity]]
 - [[tagetes-lucida]]
 - [[tagetes-minuta]]
+- [[tahoe-og]]
 - [[talaromyces-flavus]]
 - [[talinum-paniculatum]]
 - [[tamarillo]]
@@ -2219,6 +2231,7 @@
 - [[tussilago-farfara]]
 - [[two-ag]]
 - [[tylopilus-felleus]]
+- [[typha-latifolia]]
 - [[typha-latifolia-entity]]
 
 ## U

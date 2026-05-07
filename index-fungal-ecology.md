@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2356 pages**
+**2359 pages**
 
 ## #
 
@@ -220,8 +220,10 @@
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
+- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 - [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-bioluminescent-fungi-overview]]
+- [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[bloomfield-buller-experimental-mycology]]
 - [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
@@ -239,6 +241,7 @@
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[bloomfield-fungal-enzymatic-wood-decay-cellulose-lignin-brown-rot]]
+- [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 - [[bloomfield-fungal-melanin-radiation-protection-pigmentation]]
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-fungal-pathogens-and-parasites]]

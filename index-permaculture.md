@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1568 pages**
+**1571 pages**
 
 ## A
 
@@ -114,6 +114,7 @@
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
 - [[edge-effect-in-permaculture]]
+- [[energy-circuit-models-permaculture-design]]
 - [[energy-descent-action-planning]]
 - [[ethical-investment-and-earth-banking]]
 
@@ -269,6 +270,7 @@
 - [[holmgren-edges-marginal-detailed]]
 - [[holmgren-emergence-and-long-term-cycles]]
 - [[holmgren-energy-descent-culture-adaptation]]
+- [[holmgren-energy-descent-pathways]]
 - [[holmgren-energy-descent-planning]]
 - [[holmgren-ethical-philosophical-framework]]
 - [[holmgren-ethics-cultural-mechanisms]]
@@ -1497,6 +1499,7 @@
 - [[powell-omega-point-and-cosmic-evolution]]
 - [[powell-sleeping-dreams-and-waking-dreams]]
 - [[powell-the-other-and-sentient-presence]]
+- [[problem-is-the-solution-permaculture-maxim]]
 - [[produce-no-waste-permaculture-principle]]
 
 ## R

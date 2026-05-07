@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**863 pages**
+**864 pages**
 
 ## A
 
@@ -894,6 +894,7 @@
 - [[vegetable-harvest-and-storage-guide]]
 - [[vegetable-insect-and-disease-control]]
 - [[vegetable-seed-and-transplant-guide]]
+- [[vegetable-seed-spacing-systems]]
 - [[vegetable-storage-conditions-by-temperature-and-humidity]]
 - [[vegetable-transplanting-and-hardening-off]]
 - [[vegetable-watering-and-thinning]]

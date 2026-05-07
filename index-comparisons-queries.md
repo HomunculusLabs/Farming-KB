@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1082 pages**
+**1084 pages**
 
 ## A
 
@@ -148,6 +148,7 @@
 - [[comparison-cob-oven-vs-rocket-stove]]
 - [[comparison-cob-vs-adobe]]
 - [[comparison-cob-vs-cordwood]]
+- [[comparison-cob-vs-hempcrete]]
 - [[comparison-cob-vs-timber-frame]]
 - [[comparison-coco-coir-cannabis-vs-peat-free-gardening]]
 - [[comparison-coco-coir-vs-peat]]
@@ -620,6 +621,7 @@
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
 - [[query-how-do-i-build-with-hempcrete]]
 - [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
+- [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 - [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]
 - [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
