@@ -17,6 +17,7 @@ sources:
   - Gericke, N., & Van Wyk, B.E. (2001). "Sceletium — a review update." *Journal of Ethnopharmacology*, 72(1-2), 31-41.
   - Harvey, A.L. et al. (2011). "Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum." *Phytochemistry*, 72(11), 1442-1450.
   - Van Wyk, B.E., & Gericke, N. (2000). *People's Plants: A Guide to Useful Plants of Southern Africa*. Briza Publications.
+created: 2026-05-07
 ---
 
 # Sceletium tortuosum

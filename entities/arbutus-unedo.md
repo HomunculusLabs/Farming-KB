@@ -15,6 +15,7 @@ sources:
   - Barros, L. et al. (2010). "Nutritional and bioactive properties of Arbutus unedo L. fruits." Food Chemistry, 120(3), 643-649.
   - Oliveira, I. et al. (2011). "Arbutus unedo L.: A review of its chemical composition and health benefits." Journal of Medicinal Plants Research, 5(16), 3793-3801.
   - Rivera, D. et al. (2006). "Arbutus unedo: ethnobotany, pharmacology and toxicology." In: Ethnobotany: A Phytochemical Perspective. Wiley.
+created: 2026-05-07
 ---
 
 ## Overview

@@ -15,6 +15,7 @@ sources:
   - Petersen RH (1968). "The Genus Clavulina." Mycologia 60(5): 931-942.
   - Arnolds E (1985). "Ecology and Coenology of Macrofungi in Grasslands and Moist Heathlands in Drenthe, the Netherlands." Bibliotheca Mycologica 90.
   - Kuo M (2023). "Clavulina rugosa." MushroomExpert.com.
+created: 2026-05-07
 ---
 
 ## Overview

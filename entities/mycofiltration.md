@@ -18,6 +18,7 @@ sources:
   - Stamets, P. (2010). "Mycocompounders and Mycofiltration." *Mycotechnology*, various proceedings.
   - Thomas, G., & Stamets, P. (2004). "Preliminary results of mycofiltration of *E. coli* from surface water." *Fungi* magazine.
   - Taylor, D.L., & Sinsabaugh, R.L. (2015). "The soil filamentous fungal community as a driver of ecosystem processes." *Soil Biology and Biochemistry*, 89, 31-33.
+created: 2026-05-07
 ---
 
 # Mycofiltration

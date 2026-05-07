@@ -125,6 +125,8 @@ of these plants are multifunctional, providing food, medicine, or
 
 ## See Also
 
+- [[gaias-garden-beneficial-insects-gallery]]
+
 - [[gaias-garden-predatory-insects-attracting-beneficials]]
 
 - [[gaias-garden-living-plant-systems-insectary]]

@@ -14,6 +14,7 @@ sources:
   - Parra, L.A. (2013). "Agaricus L. s.l. (Fungi, Agaricaceae) in Spain." Bibliotheca Mycologica 209.
   - Callac, P. & Guinberteau, J. (2005). "Mushrooms of the Agaricus genus: genetic resources and breeding." In: Mushroom Science XVII.
   - Chen, J. et al. (2021). "A revision of Agaricus subgenus Spissicaules." Fungal Diversity 109: 1-62.
+created: 2026-05-07
 ---
 
 ## Overview

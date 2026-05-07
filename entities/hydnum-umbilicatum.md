@@ -15,6 +15,7 @@ sources:
   - Dentinger, B.T.M. & Binder, M. (2010). "Evolutionary relationships of the chanterelles and allies." Mycologia 102(5): 981-994.
   - Wilson, A.W. et al. (2017). "Systematics of the genus Hydnum." Persoonia 38: 106-121.
   - Trudell, S.A. & Ammirati, J.F. (2009). "Hyperdiverse fungal communities in the Tongass National Forest." Mycologia 101(5): 613-624.
+created: 2026-05-07
 ---
 
 ## Overview

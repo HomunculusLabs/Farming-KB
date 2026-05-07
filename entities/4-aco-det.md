@@ -16,6 +16,7 @@ sources:
   - Dean AC et al. (2013). "Psilocybin and 4-Acetoxy-DMT: Pharmacology and Subjective Effects." Journal of Psychoactive Drugs 45(5): 411-419.
   - "4-AcO-DET." Erowid. https://www.erowid.org/chemicals/4acodet/4acodet.shtml
   - Tricker AR et al. (2019). "Tryptamine Derivatives as 5-HT2A Receptor Agonists." ACS Chemical Neuroscience 10(5): 2289-2298.
+created: 2026-05-07
 ---
 
 ## Overview

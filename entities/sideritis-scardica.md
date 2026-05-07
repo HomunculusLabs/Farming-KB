@@ -15,6 +15,7 @@ sources:
   - Petreska, J. et al. (2011). "Analysis of the essential oil of Sideritis scardica." Natural Product Communications 6(2): 275-278.
   - Alipieva, K. et al. (2014). "Recent advances in Sideritis research." Phytochemistry Reviews 13(2): 361-378.
   - Todorova, M. & Trendafilova, A. (2014). "Sideritis species: a review of their chemistry and biological activities." Chemistry & Biodiversity 11(6): 934-969.
+created: 2026-05-07
 ---
 
 ## Overview

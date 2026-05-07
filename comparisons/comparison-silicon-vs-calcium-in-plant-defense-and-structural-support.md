@@ -19,6 +19,8 @@ sources:
   - White, P.J. & Broadley, M.R. (2003). "Calcium in plants." Annals of Botany, 92(4), 487–511.
   - Marschner, H. (2012). "Mineral Nutrition of Higher Plants," 3rd ed. Academic Press.
   - Debona, D. et al. (2017). "Silicon: A new weapon in the war against rice blast disease." Frontiers in Plant Science, 8, 2014.
+created: 2026-05-07
+type: comparison
 ---
 
 # Silicon vs Calcium in Plant Defense and Structural Support

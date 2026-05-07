@@ -12,6 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+created: 2026-05-07
+type: concept
 ---
 
 # Perennial Food Plants for the Ecological Garden

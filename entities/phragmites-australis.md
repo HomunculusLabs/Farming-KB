@@ -30,6 +30,7 @@ sources:
   - Saltonstall, K. (2002). "Cryptic invasion by a non-native genotype of the common reed." PNAS 99(4): 2445-2449.
   - "Phragmites australis." Royal Botanic Gardens Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428713-1
   - Vymazal, J. (2011). "Constructed wetlands for wastewater treatment." Ecological Engineering 37(1): 61-69.
+created: 2026-05-07
 ---
 
 ## Overview

@@ -20,6 +20,7 @@ sources:
   - Jacke, Dave & Toensmeier, Eric. "Edible Forest Gardens" (2005)
   - https://www.permaculturenews.org/
   - Wheaton, Paul. "Hugelkultur" (Richsoil.com)
+created: 2026-05-07
 ---
 
 # Hügelkultur

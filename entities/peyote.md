@@ -18,6 +18,7 @@ aliases:
   - Lophophora williamsii
   - peyotl
   - mescal button
+created: 2026-05-07
 ---
 
 # Peyote

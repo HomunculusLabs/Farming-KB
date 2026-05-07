@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - a-golden-guide-to-hallucinogenic-plants.md
+created: 2026-05-07
+type: concept
 ---
 
 # Kwashi and Galanga: Minor Psychoactive Plants

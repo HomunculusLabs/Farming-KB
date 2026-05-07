@@ -15,6 +15,7 @@ sources:
   - "Szára, S. (1956). DIMETHYLTRYPTAMINE: Its Metabolism in Man. Science, 123(3186), 126."
   - "Carbonaro, T.M. & Gatch, M.B. (2016). Neuropharmacology of N,N-dimethyltryptamine. Brain Research Bulletin, 126, 74-88."
   - "Barker, S.A. et al. (2012). A critical review of 3-methoxy-4-hydroxyphenethylamine (mescaline) and its metabolites. Drug Metabolism Reviews, 44(3), 390-425."
+created: 2026-05-07
 ---
 
 # N,N-Dimethyltryptamine (DMT)

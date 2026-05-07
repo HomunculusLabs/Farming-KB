@@ -13,6 +13,7 @@ sources:
   - "Geng, J. et al. (2023). Clinical evidence for Panax ginseng in cognitive function: A systematic review and meta-analysis. Frontiers in Pharmacology, 14, 1123456."
   - "Cho, W.C. et al. (2021). Ginseng and immune modulation: Preclinical and clinical perspectives. Journal of Ethnopharmacology, 275, 114190."
   - "Choi, K.T. (2020). Environmental sustainability of wild-simulated ginseng cultivation in Korea. Sustainability, 12(7), 2815."
+created: 2026-05-07
 ---
 
 # Panax ginseng

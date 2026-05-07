@@ -123,4 +123,6 @@ Agave and prickly pear are complementary rather than competing species in a well
 
 ## See Also
 
+- [[comparison-aloe-vs-agave]]
+
 - [[agave-americana]]

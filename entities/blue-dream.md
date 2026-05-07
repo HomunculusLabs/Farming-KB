@@ -18,6 +18,7 @@ sources:
   - https://www.wikileaf.com/strain/blue-dream/
   - Mudge, E. et al. "Cannabinoid and Terpene Content of Cannabis Sativa L. Cultivars" (2019)
   - ElSohly, M.A. "Marijuana and the Cannabinoids" (2007)
+created: 2026-05-07
 ---
 
 # Blue Dream

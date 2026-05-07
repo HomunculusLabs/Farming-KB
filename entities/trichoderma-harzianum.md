@@ -17,6 +17,7 @@ sources:
   - Woo, S.L., et al. (2014). "Biological control of plant pathogens: opportunities and challenges." *Biocontrol*, 59, 169-170.
   - Vinale, F., et al. (2008). "Trichoderma–plant–pathogen interactions." *Soil Biology and Biochemistry*, 40(1), 1-10.
   - Lorito, M., et al. (2010). "Genomic analysis of mycoparasitism in Trichoderma." *Fungal Genetics and Biology*, 47, S67-S68.
+created: 2026-05-07
 ---
 
 # Trichoderma harzianum

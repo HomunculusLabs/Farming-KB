@@ -16,6 +16,8 @@ sources:
   - Odlare, M. et al. (2008). "Effect of adding Effective Microorganisms (EM) on compost quality." Journal of Applied Botany and Food Quality, 82(1), 57-62.
   - López-González, J.A. et al. (2013). "Optimizing vermicomposting of two-phase olive mill pomace by adding effective microorganisms." Journal of Hazardous Materials, 261, 45-52.
   - Tiquia, S.M. et al. (2002). "Microbial parameters for compost stability assessment." Journal of Applied Microbiology, 93(3), 525-535.
+created: 2026-05-07
+type: comparison
 ---
 
 # Bokashi vs Effective Microorganisms (EM)

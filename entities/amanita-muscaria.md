@@ -16,6 +16,7 @@ sources:
   - https://en.wikipedia.org/wiki/Amanita_muscaria
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357796/
   - Rubel & Arora, "Amanita muscaria: A Foraging Guide to the Most Recognizable Mushroom in the World" (2023)
+created: 2026-05-07
 ---
 
 # Amanita muscaria

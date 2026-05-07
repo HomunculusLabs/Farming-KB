@@ -14,6 +14,7 @@ sources:
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz.
   - Hermosilla, C. & al. (1994). "Macromycetes of Costa Rica." Mycotaxon 52: 377–388.
   - Corner, E.J.H. (1994). "Agarics in Malesia." Royal Botanic Gardens, Kew.
+created: 2026-05-07
 ---
 
 # Gerronema strombodes

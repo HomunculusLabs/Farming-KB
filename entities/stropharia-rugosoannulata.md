@@ -12,6 +12,7 @@ sources:
   - Kuo, M. (2024). "Stropharia rugosoannulata." *MushroomExpert.com*. https://www.mushroomexpert.com/stropharia_rugosoannulata.html
   - Zhang, Y. et al. (2015). "Bioremediation of heavy metal-contaminated soil by Stropharia rugosoannulata." *Bioresource Technology*, 196, 355–362.
   - Chang, S.T. & Hayes, W.A. (1978). *The Biology and Cultivation of Edible Mushrooms.* Academic Press.
+created: 2026-05-07
 ---
 
 # Stropharia rugosoannulata

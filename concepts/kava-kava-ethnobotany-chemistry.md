@@ -113,6 +113,8 @@ plant.
 
 ## Related
 
+- [[kavain]]
+
 - [[fly-agaric-isoxazole-chemistry-and-variability]]
 - [[psilocybin-mushroom-chemistry]]
 - [[cannabis-terpene-and-aroma-chemistry-clarke]] Concepts

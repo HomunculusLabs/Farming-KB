@@ -15,6 +15,7 @@ sources:
   - Leafly Staff (2024). "Rainbow Chips Weed Strain." Leafly.
   - GrowDiaries (2024). "Rainbow Chips grow reports." GrowDiaries.com.
   - Strainly Market (2024). "Rainbow Chips genetics discussion." Strainly.io.
+created: 2026-05-07
 ---
 
 # Rainbow Chips

@@ -27,6 +27,7 @@ sources:
   - Badr, A. et al. (2011). "Fennel (Foeniculum vulgare): A review of its chemistry, pharmacology, and ethnomedicine." Phytotherapy Research, 25(11), 1647–1654.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
   - Koul, S.K. et al. (2019). "Fennel: A review of its botany, phytochemistry, pharmacology, and nursery cultivation." Pharmacognosy Reviews, 13(25), 55–62.
+created: 2026-05-07
 ---
 
 ## Overview

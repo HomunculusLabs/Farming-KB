@@ -4,6 +4,8 @@ tags: [aloe, agave, succulents, xeriscaping, desert plants, plant identification
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://en.wikipedia.org/wiki/Aloe, https://en.wikipedia.org/wiki/Agave, https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/aloe]
+created: 2026-05-07
+type: comparison
 ---
 
 # Aloe vs Agave — Key Differences and Growing Guide
@@ -131,3 +133,10 @@ This is the most reliable field identification feature:
 - You are designing for long-term resilience in water-scarce environments
 
 In many permaculture designs, both genera have a place. Aloe fills the medicinal niche in protected microclimates near dwellings; agave serves as a structural, productive element in hot, dry zones. Understanding their differences ensures each is planted where it will thrive and deliver its intended function.
+
+## See Also
+
+- [[permaculture-plant-selection]]
+- [[aloe-vera]]
+- [[agave-americana]]
+- [[comparison-agave-vs-prickly-pear-cultivation]]

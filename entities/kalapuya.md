@@ -25,6 +25,7 @@ sources:
   - Leafly. "Kalapuya Strain Information." https://www.leafly.com
   - AllBud. "Kalapuya Marijuana Strain." https://www.allbud.com
   - Wikipedia. "Kalapuya people." https://en.wikipedia.org/wiki/Kalapuya
+created: 2026-05-07
 ---
 
 ## Overview

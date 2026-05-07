@@ -15,6 +15,7 @@ sources:
   - da Silveira, D. X., et al. (2005). "Ayahuasca in Adolescence: A Preliminary Psychiatric Assessment." Journal of Psychoactive Drugs, 37(2), 195–202.
   - Dean, J. A., et al. (2019). "Endogenous Psychedelics as Ligands of the Trace Amine-Associated Receptor 1." ACS Chemical Neuroscience.
   - UN Convention on Psychotropic Substances (1971), Schedule I.
+created: 2026-05-07
 ---
 
 # N,N-Dimethyltryptamine (DMT)

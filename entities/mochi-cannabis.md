@@ -15,6 +15,7 @@ sources:
   - AllBud (2023). "Mochi Cannabis Strain." allbud.com.
   - Wikileaf (2023). "Mochi Strain Review." wikileaf.com.
   - "Mochi" entry. Seedsman strain database. seedsman.com.
+created: 2026-05-07
 ---
 
 ## Overview

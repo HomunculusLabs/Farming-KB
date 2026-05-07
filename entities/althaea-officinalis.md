@@ -131,6 +131,8 @@ pollinator attractor, dynamic accumulator, and edible landscape species.
 
 ## See Also
 
+- [[althea-officinalis]]
+
 - [[glycyrrhiza-glabra|Licorice]] — another root demulcent with anti-inflammatory properties
 - [[verbascum-thapsus|Mullein]] — respiratory soothing herb with overlapping applications
 - [[plantago-major|Broadleaf Plantain]] — wound-healing and mucilaginous medicinal herb

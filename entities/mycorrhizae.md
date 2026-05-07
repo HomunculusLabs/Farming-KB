@@ -17,6 +17,7 @@ aliases:
   - mycorrhizal fungi
   - mycorrhizal association
   - mycorrhiza
+created: 2026-05-07
 ---
 
 # Mycorrhizae

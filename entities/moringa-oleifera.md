@@ -13,6 +13,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/
   - https://www.fao.org/
   - Olson, M.E. (2017). Moringa taxonomy. Am J Bot.
+created: 2026-05-07
 ---
 
 # Moringa oleifera

@@ -12,6 +12,8 @@ sources:
   - "University of Hawaii CTAHR. Macadamia Nut Production in Hawaii. Extension Bulletin, 2020."
   - "Ferguson, L. Pistachio Production. UC ANR Publication 3545, 2019."
   - "Topp, B.L. et al. Macadamia Domestication and Breeding. Acta Horticulturae 950, 2012."
+created: 2026-05-07
+type: comparison
 ---
 
 # Macadamia vs Pecan vs Pistachio Cultivation

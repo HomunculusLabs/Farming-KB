@@ -134,6 +134,8 @@ uplift before deeper physical relaxation.
   enhance purple significantly
 
 ## See Also
+
+- [[ice-cream-cake]]
 - [[gelato-cannabis]]
 - [[wedding-cake]]
 - [[girl-scout-cookies]]

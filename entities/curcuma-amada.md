@@ -16,6 +16,7 @@ sources:
   - Joshi, R.K. et al. (2014). "Chemical composition and antimicrobial activity of Curcuma amada rhizome essential oil." Natural Product Communications 9(4): 501-504.
   - Gupta, S.C. et al. (2013). "Curcuminoids from Curcuma species." Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed.
   - Pandey, M.M. et al. (2013). "Curcuma species: a chemical and pharmacological review." Phytotherapy Research 27(9): 1321-1332.
+created: 2026-05-07
 ---
 
 # Curcuma amada

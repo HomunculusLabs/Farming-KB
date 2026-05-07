@@ -18,6 +18,7 @@ aliases:
   - sulphur shelf
   - chicken mushroom
   - sulfur polypore
+created: 2026-05-07
 ---
 
 # Chicken of the Woods

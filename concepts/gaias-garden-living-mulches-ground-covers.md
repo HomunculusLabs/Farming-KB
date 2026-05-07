@@ -125,7 +125,9 @@ Once the sheet mulch has decomposed sufficiently, living mulch plants can
 be inserted through it. Over time, the living mulch replaces the need for
 repeated sheet mulch applications.
 
-## Related Concepts
+## Related
+
+- [[gaias-garden-natives-exotics-balance]] Concepts
 
 - [[gaias-garden-sheet-mulching]] for preparing beds with sheet mulch
 - [[gaias-garden-mulch-plants-ecological-garden]] for mulch-producing plants

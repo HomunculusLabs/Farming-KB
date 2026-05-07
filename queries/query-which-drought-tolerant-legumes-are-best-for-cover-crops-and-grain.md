@@ -12,6 +12,8 @@ sources:
   - "Abrol, Y.P. & Ingram, K.T. 2023. Chickpea: Global Production and Improvement. Elsevier."
   - "Ntatsi, G. et al. 2018. Mung Bean and Adzuki Bean: Functional Properties. Frontiers in Plant Science 9."
   - "Francis, C.M. & O'Leary, G.J. 2021. Guar: Agronomy and Industrial Uses. Agronomy Journal 113(2)."
+created: 2026-05-07
+type: query
 ---
 
 # Which Drought-Tolerant Legumes Are Best for Cover Crops and Grain?

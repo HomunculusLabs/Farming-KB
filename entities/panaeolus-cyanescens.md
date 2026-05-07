@@ -15,6 +15,7 @@ sources:
   - Guzmán, G., Allen, J.W., & Gartz, J. (2000). *World Distribution of the Neurotropic Fungi*. Verlag.
   - Ola'h, G.M. (1970). "Le Genre Panaeolus." *Revue de Mycologie*, Memoire Hors Serie 10.
   - Gerhardt, J. (1996). "Taxonomische Revision von Panaeolus sensu lato." *Nova Hedwigia*, Beihefte 111.
+created: 2026-05-07
 ---
 
 # Panaeolus cyanescens

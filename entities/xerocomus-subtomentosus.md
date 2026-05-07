@@ -23,6 +23,7 @@ sources:
   - Watling, R. (2004). "The Bolete Checklist of the British Isles." Royal Botanic Garden Edinburgh.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
   - Bessette, A.E. et al. (2016). "Boletes of Eastern North America." Syracuse University Press.
+created: 2026-05-07
 ---
 
 ## Overview
@@ -115,7 +116,7 @@ The broad host range of this species makes it a generalist mycorrhizal partner, 
 - [[paxillus-involutus]]
 - [[lactarius-deliciosus]]
 - [[cantharellus-cibarius]]
-- [[russula]]
+- russula
 - [[mycorrhiza]]
 - [[trametes-versicolor]]
 - [[pleurotus-ostreatus]]

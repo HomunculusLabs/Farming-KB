@@ -18,6 +18,7 @@ aliases:
   - clinker polypore
   - sterile conk
   - cinder conk
+created: 2026-05-07
 ---
 
 # Chaga

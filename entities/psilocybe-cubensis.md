@@ -15,6 +15,7 @@ sources:
   - "UN Convention on Psychotropic Substances (1971)."
   - "Bogusz, M.J., et al. (1998). Determination of psilocybin and psilocin in hallucinogenic mushrooms. Journal of Chromatography B, 715(1), 103-113."
   - "Metcalf, C., et al. (2022). From Empirical to Clinical — The Modern Psychedelic Renaissance. Nature Reviews Drug Discovery, 21, 835-836."
+created: 2026-05-07
 ---
 
 # Psilocybe cubensis

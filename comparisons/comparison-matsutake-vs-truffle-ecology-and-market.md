@@ -18,6 +18,8 @@ sources:
   - https://doi.org/10.1016/j.funeco.2019.100873
   - Hall, I.R. et al. (2007). Edible Ectomycorrhizal Mushrooms. Springer.
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tuber-melanosporum
+created: 2026-05-07
+type: comparison
 ---
 
 # Matsutake vs Truffle: Ecology and Market Comparison

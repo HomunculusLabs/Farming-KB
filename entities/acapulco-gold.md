@@ -16,6 +16,7 @@ sources:
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L." Economic Botany, 26(3), 264-274.
+created: 2026-05-07
 ---
 
 # Acapulco Gold

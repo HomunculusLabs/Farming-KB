@@ -13,6 +13,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/
   - https://doi.org/10.1016/j.neuron.2019.07.018
   - Szára, S. (1957). DMT: Endogenous hallucinogen. Experientia.
+created: 2026-05-07
 ---
 
 # N,N-Dimethyltryptamine (DMT)

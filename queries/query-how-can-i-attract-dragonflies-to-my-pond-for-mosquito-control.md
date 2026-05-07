@@ -4,6 +4,8 @@ tags: [dragonflies, mosquito-control, pond-design, odonata-habitat, biological-p
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+created: 2026-05-07
+type: query
 ---
 
 # How Can I Attract Dragonflies to My Pond for Natural Mosquito Control?

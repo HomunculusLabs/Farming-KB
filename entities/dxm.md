@@ -16,6 +16,7 @@ sources:
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
   - FDA (2023). "Dextromethorphan Drug Safety Communication."
   - Cotter, A.C. et al. (2023). "Auvelity (dextromethorphan-bupropion) for MDD." Journal of Clinical Psychiatry 84(3).
+created: 2026-05-07
 ---
 
 # Dextromethorphan (DXM)

@@ -16,6 +16,7 @@ sources:
   - Chandrasekhar, K. et al. (2012). "A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of Ashwagandha root extract." Indian J Psychol Med 34(3).
   - Singh, B. et al. (2021). "Withania somnifera (Ashwagandha): a comprehensive review of its traditional uses, phytochemistry, and pharmacology." Phytomedicine.
   - Patil, D. et al. (2022). "A prospective, randomised double-blind, placebo-controlled study of a standardised Ashwagandha root extract." Journal of Ethnopharmacology.
+created: 2026-05-07
 ---
 
 # Withania somnifera (Ashwagandha)

@@ -15,6 +15,8 @@ sources:
   - Bronick, C.J. and Lal, R. (2005). "Soil structure and management: a review." Geoderma, 124(1-2), 3-22.
   - Lehmann, J. and Kleber, M. (2015). "The contentious nature of soil organic matter." Nature, 528(7580), 60-68.
   - Oades, J.M. and Waters, A.G. (1991). "Aggregate hierarchy in soils." Australian Journal of Soil Research, 29(6), 815-828.
+created: 2026-05-07
+type: query
 ---
 
 # How Do Soil Aggregates Form and Why Do They Matter for Plant Growth?

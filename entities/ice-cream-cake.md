@@ -22,6 +22,7 @@ sources:
   - AllBud. "Ice Cream Cake Strain Review." allbud.com.
   - Seedsman. "Ice Cream Cake — Seed Breeders and Lineage." seedsman.com.
   - Weedmaps. "Ice Cream Cake Strain." weedmaps.com.
+created: 2026-05-07
 ---
 
 ## Overview

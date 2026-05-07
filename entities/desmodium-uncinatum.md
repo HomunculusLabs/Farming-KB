@@ -17,6 +17,7 @@ sources:
   - Sumberg, J.E. (1985). "Desmodium uncinatum: a review of existing knowledge." Tropical Grasslands 19(2): 47-55.
   - Khan, Z.R. et al. (2006). "Push-pull technology: a conservation agriculture approach for integrated pest and weed management in Africa." Crop Protection 25(8): 986-997.
   - Carsky, R.J. et al. (2001). "Cover crops for tropical areas." Handbook of Soil Management, CRC Press.
+created: 2026-05-07
 ---
 
 # Desmodium uncinatum

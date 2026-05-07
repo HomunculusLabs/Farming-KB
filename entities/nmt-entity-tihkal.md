@@ -146,3 +146,7 @@ could potentially be treated as a DMT precursor or analogue under certain
 interpretations. The compound's natural occurrence in numerous plant species
 complicates regulatory approaches. Some jurisdictions may regulate it as a
 precursor chemical.
+
+## See Also
+
+- [[nmt]]

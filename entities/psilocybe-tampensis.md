@@ -14,6 +14,7 @@ sources:
   - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
   - Guzmán, G. (2005). "The genus Psilocybe: a systematic revision." Folia Cryptogamica Estonica 38: 19-38.
   - Allen, J.W. & Merlin, M.D. (1992). "The cultivation of Psilocybe cubensis in defined medium." Journal of Ethnopharmacology 35(3): 225-228.
+created: 2026-05-07
 ---
 
 # Psilocybe tampensis

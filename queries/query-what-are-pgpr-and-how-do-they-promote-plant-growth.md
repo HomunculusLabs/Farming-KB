@@ -19,6 +19,8 @@ sources:
   - "Vessey, J.K. (2003). Plant growth-promoting rhizobacteria as biofertilizers. Plant and Soil, 255, 571–586."
   - "Lugtenberg, B. & Kamilova, F. (2009). Plant-growth-promoting rhizobacteria. Annual Review of Microbiology, 63, 541–556."
   - "Backer, R. et al. (2018). Plant growth-promoting rhizobacteria: context, mechanisms of action, and roadmap to commercialization for sustainable agriculture. Frontiers in Plant Science, 9, 1473."
+created: 2026-05-07
+type: query
 ---
 
 ## Short Answer

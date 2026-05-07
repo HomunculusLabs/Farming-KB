@@ -25,6 +25,7 @@ sources:
   - Passie, T. et al. (2002). "The pharmacology of psilocybin." Addiction Biology 7(4): 357-364.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
   - Halberstadt, A.L. (2015). "Recent advances in the neuropsychopharmacology of serotonergic hallucinogens." Behavioural Brain Research 277: 99-120.
+created: 2026-05-07
 ---
 
 ## Overview

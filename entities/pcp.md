@@ -16,6 +16,7 @@ sources:
   - Aniline, O. & Pitts, D.K. (1982). "Phencyclidine: a review." Neuroscience & Biobehavioral Reviews 6(1): 1–16.
   - DEA (2020). "Drugs of Abuse: Phencyclidine (PCP)."
   - Reich, D. & Silvay, G. (1989). "Ketamine: an update on the first 35 years." Anesthesia Progress 36(4): 154–162.
+created: 2026-05-07
 ---
 
 # Phencyclidine (PCP)

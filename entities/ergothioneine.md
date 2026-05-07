@@ -17,6 +17,7 @@ sources:
   - Cheah, I.K., & Halliwell, B. (2021). "Ergothioneine; antioxidant or just another dietary supplement?" *Biochemical and Biophysical Research Communications*, 630, 83-90.
   - Kalaras, M.D., et al. (2017). "Mushrooms and health summit proceedings." *Nutrition Reviews*, 75(suppl_1), 5-13.
   - Paul, B.D., & Snyder, S.H. (2010). "The unusual amino acid L-ergothioneine is a physiologic cytoprotectant." *Cell Death and Differentiation*, 17(7), 1134-1140.
+created: 2026-05-07
 ---
 
 # Ergothioneine

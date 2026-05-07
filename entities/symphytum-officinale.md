@@ -18,6 +18,7 @@ sources:
   - Foster, S. (2013). "Comfrey: The Controversial Herb." Botanical Medicine Series.
   - Hoad, S.P. et al. (2008). "The potential of comfrey as a biomass and medicinal crop." Industrial Crops and Products 28(2).
   - Waring, R.H. (2005). "Pyrrolizidine alkaloids: metabolism, toxicity and carcinogenicity." Xenobiotica 35(7).
+created: 2026-05-07
 ---
 
 # Symphytum officinale (Common Comfrey)

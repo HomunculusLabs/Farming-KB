@@ -27,6 +27,7 @@ sources:
   - "Poronia punctata." GBIF. https://www.gbif.org/species/2561264
   - "Poronia punctata." Index Fungorum. http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=228991
   - Furrer, V. (2018). "Poronia punctata (L.) Fr. — a review." Mycosphere 9(4): 701-716.
+created: 2026-05-07
 ---
 
 ## Overview

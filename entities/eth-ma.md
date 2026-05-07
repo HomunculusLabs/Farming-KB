@@ -14,6 +14,7 @@ sources:
   - Shulgin, A.T. et al. (1986). "N-substituted tryptamines." Journal of Medicinal Chemistry 29(3): 468-474.
   - Ray, T.S. (2010). "Psychedelics and the human receptorome." PLoS ONE 5(2): e9019.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
+created: 2026-05-07
 ---
 
 ## Overview

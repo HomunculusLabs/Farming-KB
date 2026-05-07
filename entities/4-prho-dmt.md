@@ -15,6 +15,7 @@ sources:
   - Trachsel, D. et al. (2013). "4-Substituted Tryptamines." In: Phenethylamines and Tryptamines. Nightingale Press.
   - Ray, T.S. (2010). "Psychedelics and the Human Receptorome." PLoS ONE, 5(2), e9019.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews, 68(2), 264-355.
+created: 2026-05-07
 ---
 
 ## Overview

@@ -15,6 +15,7 @@ sources:
   - Green, J. (2009). The Cannabis Grow Bible. Green Candy Press.
   - Earl, D. & Watson, S. (2015). "The genetic structure of Cannabis." Journal of Forensic Sciences 60(4): 953-959.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis 4(9): 660-667.
+created: 2026-05-07
 ---
 
 ## Overview

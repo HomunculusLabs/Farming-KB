@@ -19,6 +19,7 @@ aliases:
   - lion's tooth
   - dent-de-lion
   - piss-en-lit
+created: 2026-05-07
 ---
 
 # Dandelion

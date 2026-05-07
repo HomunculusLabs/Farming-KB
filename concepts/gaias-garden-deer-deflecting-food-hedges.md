@@ -137,7 +137,11 @@ single planting creates more resilient and productive gardens.
 - Combine the fedge with a [[gaias-garden-swales-and-berms-construction]]
   on the downhill side to capture water for the hedge
 
-## Related Concepts
+## Related
+
+- [[gaias-garden-deer-food-hedge-design]]
+
+- [[gaias-garden-perennial-food-plants]] Concepts
 
 - [[gaias-garden-hedgerows-and-windbreaks]] for broader hedgerow design
 - [[gaias-garden-nutrient-accumulators-dynamic-accumulators]] for deep-rooted

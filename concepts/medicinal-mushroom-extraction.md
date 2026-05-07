@@ -102,3 +102,7 @@ Active compounds can be quantified using HPLC, UV-Vis spectrophotometry, or
 enzyme-based assays. Consumers should look for products that specify both the
 lemon cannabis alchemy and the part of the fungus used (fruiting body, mycelium, or
 both).
+
+## See Also
+
+- [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]

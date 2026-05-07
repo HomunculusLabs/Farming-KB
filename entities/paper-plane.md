@@ -24,6 +24,7 @@ sources:
   - Leafly. "Paper Plane Cannabis Strain." https://www.leafly.com/strains/paper-plane
   - AllBud. "Paper Plane Strain Information." https://www.allbud.com
   - Wikileaf. "Paper Plane Marijuana Strain." https://www.wikileaf.com/strain/paper-plane
+created: 2026-05-07
 ---
 
 ## Overview

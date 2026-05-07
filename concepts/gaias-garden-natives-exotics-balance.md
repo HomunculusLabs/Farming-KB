@@ -6,13 +6,15 @@ tags:
   - biodiversity
   - invasive-species
   - ecology
-  - permaculture
+  - [[permaculture-design-principles-beginners|permaculture]]
   - debate
   - gaias-garden
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+created: 2026-05-07
+type: concept
 ---
 
 # Natives Versus Exotics: Finding Balance in the Ecological Garden
@@ -34,7 +36,7 @@ popular exotic ornamentals support almost none. These caterpillars are the
 primary food source for nesting birds. Native plant gardens support pollinators,
 songbirds, and beneficial insects more effectively than gardens dominated by
 ornamental exotics. The native plant movement has rightly drawn attention to
-the importance of local ecology and the damage caused by invasive species.
+the importance of local ecology and the damage caused by [[invasive-species-management|invasive species]].
 
 ## The Limitations of Natives-Only Gardening
 
@@ -99,7 +101,7 @@ staple food is an exotic import.
 
 If we restricted our gardens strictly to native food plants, we would eat very
 little. A productive food garden necessarily includes exotics. The sensible
-approach is to use native plants where they perform needed functions — wildlife
+approach is to use [[hemenway-native-versus-exotic-plants-debate|native plants]] where they perform needed functions — wildlife
 habitat, pollinator support, soil building — and include well-chosen exotics
 that produce food, medicine, and other products for people.
 

@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - a-training-manual-mushroom-cultivation-by-people-with-disabilities.md
+created: 2026-05-07
+type: concept
 ---
 
 # Mushroom Cultivation Training Program Design for People with Disabilities

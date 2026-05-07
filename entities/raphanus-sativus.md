@@ -29,6 +29,7 @@ sources:
   - Björkman, T. et al. (2008). "Integrating winter annual cover crops into vegetable production systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
   - Weil, R. & Kremen, A. (2007). "Thinking across and beyond the no-till and organic paradigms." Journal of Sustainable Agriculture, 30(1), 53–65.
   - Duke, J.A. (2011). "Handbook of Alternative Cash Crops." CRC Press.
+created: 2026-05-07
 ---
 
 ## Overview
@@ -109,7 +110,7 @@ The rapid growth and broad leaf canopy provide effective weed suppression during
 
 - [[daucus-carota]]
 - [[biochar]]
-- [[no-till]]
+- no till
 - [[companion-planting]]
 - [[dynamic-accumulators]]
 - [[chop-and-drop]]

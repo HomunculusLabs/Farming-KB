@@ -15,6 +15,7 @@ sources:
   - Grieve, M. (1931). "A Modern Herbal." Penguin; "Heather" entry.
   - Webster, R.E. (2010). "Heather (Calluna vulgaris): A review of its uses and economic potential." Botanical Journal of Scotland, 62(1), 57-76.
   - Rix, M. (2011). "Calluna." Curtis's Botanical Magazine, 28(3), 196-209.
+created: 2026-05-07
 ---
 
 ## Overview

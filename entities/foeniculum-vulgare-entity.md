@@ -174,6 +174,8 @@ Control methods include manual removal (digging out taproots), grazing managemen
 
 ## See Also
 
+- [[foeniculum-vulgare]]
+
 - [[agastache-foeniculum]]
 
 - [[origanum-vulgare-entity]]

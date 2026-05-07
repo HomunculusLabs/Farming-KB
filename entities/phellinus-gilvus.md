@@ -15,6 +15,7 @@ sources:
   - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." Fungal Diversity 45: 77-94.
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
   - Gilbertson, R.L. & Ryvarden, L. (1987). "North American Polypores." Vol. 2. Fungiflora, Oslo.
+created: 2026-05-07
 ---
 
 # Phellinus gilvus

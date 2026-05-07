@@ -13,6 +13,7 @@ sources:
   - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research, 104(4), 499-506.
   - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
   - Allen JW, Merlin MD, Jansen KL. (1991). "An ethnomycological review of psychoactive Agaricales in Australia." Journal of Psychoactive Drugs, 23(4), 367-371.
+created: 2026-05-07
 ---
 
 # Pluteus salvinius

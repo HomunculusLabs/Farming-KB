@@ -13,6 +13,7 @@ sources:
   - "Ghost Train Haze." Leafly. https://leafly.com/strains/ghost-train-haze
   - "Ghost Train Haze." AllBud. https://www.allbud.com/marijuana-strains/hybrid/ghost-train-haze
   - Moskowitz H (2021). "Cannabis: The Complete Guide to Understanding and Using Cannabis." Ulysses Press.
+created: 2026-05-07
 ---
 
 ## Overview

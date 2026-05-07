@@ -15,6 +15,8 @@ sources:
   - https://www.nature.com/scitable/topicpage/fungi-as-decomposers-15085492/
   - https://www.frontiersin.org/articles/10.3389/fmicb.2018.01816/full
   - Webster, J. & Weber, R. (2007). Introduction to Fungi. Cambridge University Press.
+created: 2026-05-07
+type: query
 ---
 
 # What Is the Difference Between Saprotrophic and Parasitic Fungi?

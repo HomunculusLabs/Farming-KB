@@ -4,6 +4,8 @@ tags: [nitrogen-fixing-trees, legumes, permaculture, agroforestry, food-forest, 
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nitrogen-fixation, https://www.fao.org/forestry/10702-05e893c4e3ccf1f31a7e5b35e089526af.pdf, https://www.nrcs.usda.gov/plant-materials/]
+created: 2026-05-07
+type: query
 ---
 
 # What Are the Best Nitrogen-Fixing Trees for Permaculture?
@@ -119,3 +121,9 @@ Avoid planting invasive NFTs without a containment strategy. Black locust spread
 For first-time planters: order inoculant-specific seed from a reputable agroforestry nursery (e.g., Tripple Brook Farm, Oikos Tree Crops, or regional native plant societies). Plant in spring after frost, water for the first season, and expect visible nodulation within 6–12 weeks on healthy plants. Test for active nodules by digging carefully around the root zone — active nodules are pink or red inside (leghemoglobin), while inactive ones are green or white. Inoculant can also be applied as a slurry to bare-root seedlings at transplant time. Most commercial inoculants are peat-based and shelf-stable for 12–18 months when refrigerated.
 
 With proper species selection and management, nitrogen-fixing trees form the biological backbone of any productive permaculture system — reducing inputs, building soil, and stacking yields for decades.
+
+## See Also
+
+- [[permaculture-plant-selection]]
+- [[food-forest-design]]
+- [[permaculture-design-principles-beginners]]

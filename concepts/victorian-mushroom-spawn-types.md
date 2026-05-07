@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - william-falconer-mushroom-how-to-grow-them.md
+created: 2026-05-07
+type: concept
 ---
 
 # Victorian Mushroom Spawn Types

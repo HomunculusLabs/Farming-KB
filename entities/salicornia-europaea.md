@@ -15,6 +15,7 @@ sources:
   - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands Ecology and Management, 27, 1-22.
   - Venturin, S. et al. (2023). "Nutritional composition and bioactive compounds of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
   - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for salt tolerance research." Plant Stress, 2, 100012.
+created: 2026-05-07
 ---
 
 ## Overview

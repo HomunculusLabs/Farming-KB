@@ -20,6 +20,7 @@ sources:
     rapid determination of essential oil content and composition of American
     basil." Journal of the American Society for Horticultural Science, 115(3),
     458-462.
+created: 2026-05-07
 ---
 
 # Tagetes erecta

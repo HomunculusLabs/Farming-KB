@@ -141,6 +141,8 @@ Compatible companions include peas, beans, lettuce, spinach, carrots, onions, an
 
 ## See Also
 
+- [[raphanus-sativus]]
+
 - [[permaculture-horseradish]]
 - [[dynamic-accumulators]]
 - [[companion-planting]]

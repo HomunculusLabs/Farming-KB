@@ -135,6 +135,8 @@ START: What is your USDA hardiness zone?
 
 ## See Also
 
+- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]
+
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 
 - [Legume Trees and Nitrogen-Fixing Permaculture Species](/wiki/topics/legume-trees-and-nitrogen-fixing-permaculture-species)

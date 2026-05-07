@@ -130,6 +130,8 @@ It serves as a food source for various forest organisms including deer, slugs, a
 
 ## See Also
 
+- [[xerocomus-subtomentosus]]
+
 - [[boletus-edulis]]
 - [[suillus-luteus]]
 - [[leccinum-scabrum]]

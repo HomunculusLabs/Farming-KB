@@ -119,6 +119,8 @@ High-carbon materials are fine as surface mulch but should not be tilled in with
 
 ## See Also
 
+- [[gaias-garden-soil-food-web-ecology]]
+
 - [[gaias-garden-humus-soil-chemistry]]
 
 - [[gaias-garden-perennial-vegetables]]

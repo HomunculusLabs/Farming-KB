@@ -13,6 +13,7 @@ sources:
   - Leafly Staff. (2022). "Super Boof Cannabis Strain Information." Leafly.com.
   - AllBud. (2023). "Super Boof Strain Review." AllBud.com.
   - Growers Network. (2023). "Super Boof: Lineage and Cultivation Guide."
+created: 2026-05-07
 ---
 
 # Super Boof
