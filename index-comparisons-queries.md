@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1108 pages**
+**1110 pages**
 
 ## A
 
@@ -125,6 +125,7 @@
 - [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
+- [[comparison-cavendish-vs-east-african-highland-bananas]]
 - [[comparison-central-leader-vs-open-center-fruit-tree-training]]
 - [[comparison-chaga-vs-reishi]]
 - [[comparison-chaga-vs-reishi-medicinal]]
@@ -663,6 +664,7 @@
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-do-i-grow-alliums-successfully]]
+- [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
 - [[query-how-do-i-grow-brassicas-successfully]]
 - [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]

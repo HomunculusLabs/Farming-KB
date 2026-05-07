@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1277 pages**
+**1278 pages**
 
 ## #
 
@@ -1019,6 +1019,7 @@
 - [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-nature-connection]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]
+- [[psilocybin-and-psilocin-chemistry]]
 - [[psilocybin-as-catalyst-for-paradigm-shift]]
 - [[psilocybin-assisted-therapy]]
 - [[psilocybin-biosynthesis-pathway]]
