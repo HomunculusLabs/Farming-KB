@@ -9,6 +9,7 @@ sources:
   - "ElSohly, Mahmoud A. et al. 'Changes in Cannabis Potency Over the Last Two Decades.' Clinical Pharmacology & Therapeutics, 2016."
   - "Leafly Strain Database - ACDC - https://www.leafly.com/strains/acdc"created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # ACDC (Cannabis Strain)

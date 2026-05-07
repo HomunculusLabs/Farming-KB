@@ -137,6 +137,10 @@ However, Shulgin maintained that the information was already available in the sc
 
 ## See Also
 
+- [[miproscaline]]
+- [[etizolam]]
+- [[2c-d]]
+
 - [[ethocybin]]
 
 - [[allylescaline]]

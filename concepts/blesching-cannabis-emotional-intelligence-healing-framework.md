@@ -7,6 +7,7 @@ sources:
   - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 1559-1859, 20573-21160created: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Emotional Intelligence and the Healing Framework in Mind-Body Medicine

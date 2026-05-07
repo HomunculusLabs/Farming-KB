@@ -16,6 +16,7 @@ sources:
   - Kuo, M. (2023). "Hericium Species of North America." MushroomExpert.com.
   - Index Fungorum. "Hericium laciniatum (Leers) Pers." www.indexfungorum.org.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

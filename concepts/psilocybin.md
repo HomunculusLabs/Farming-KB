@@ -129,6 +129,8 @@ The only multi-year trend data available on hallucinogenic mushroom use were der
 
 ## See Also
 
+- [[psilocybe-cubensis]]
+
 - [[psilocybin-chemistry-and-pharmacology]]
 
 - [[psilocybin-degradation-volatility-and-specimen-age]]

@@ -104,6 +104,8 @@ Training techniques such as low-stress training (LST) and scrogging are recommen
 
 ## See Also
 
+- [[biscotti]]
+
 - [[girl-scout-cookies]]
 - [[og-kush]]
 - [[thin-mint-cookies]]

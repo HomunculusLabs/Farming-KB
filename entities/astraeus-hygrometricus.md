@@ -15,6 +15,7 @@ sources:
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Kuo, M. (2024). "Astraeus hygrometricus." MushroomExpert.com.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

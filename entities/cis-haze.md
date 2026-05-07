@@ -14,6 +14,7 @@ sources:
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from Cultivar to Chemovar.\" Drug Testing and Analysis, 4(10), 660–667."
   - "Lewis, M.A. et al. (2018). \"Tolerance to the Effects of High-Potency Cannabis.\" Neuropsychopharmacology, 43(4), 726–735."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

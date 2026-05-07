@@ -9,6 +9,7 @@ sources:
   - "Foster, Steven & Duke, James A. A Field Guide to Medicinal Plants. Houghton Mifflin, 1990."
   - "Mills, Simon & Bone, Kerry. The Essential Guide to Herbal Safety. Elsevier, 2005."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Leonurus cardiaca (Motherwort)

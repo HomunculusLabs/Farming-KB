@@ -16,6 +16,7 @@ sources:
   - Patel S et al. (2022) "Withania somnifera: A comprehensive review" Phytotherapy Research
   - Mikolai J et al. (2020) "Selecting superior Ashwagandha" Journal of Ayurveda and Integrative Medicinecreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

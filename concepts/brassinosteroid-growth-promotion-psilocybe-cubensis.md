@@ -135,6 +135,8 @@ suggesting a particularly strong interaction between the brassinosteroid structu
 
 ## See Also
 
+- [[brassinosteroid-psilocybe-cubensis-growth]]
+
 - [[brassinosteroids-phytohormones-fungal-growth-promotion]]
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
 - [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]

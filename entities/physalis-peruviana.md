@@ -20,13 +20,14 @@ sources:
   - https://en.wikipedia.org/wiki/Physalis_peruviana
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/physalis-peruvianacreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Physalis peruviana
 
 **Cape gooseberry**, **groundcherry**, **goldenberry**, **aguaymanto**, **poha berry**
 
-*Physalis peruviana* is a herbaceous perennial plant in the nightshade family ([Solanaceae](/entities/solanaceae)) native to the Andean regions of South America — specifically Colombia, Ecuador, Peru, and Chile. It produces small, round, yellow-orange fruits enclosed in a papery calyx (husk), similar in structure to its close relative the tomatillo (*Physalis ixocarpa*). The fruit has a sweet-tart flavor described as a blend of tomato, pineapple, and mango.
+*Physalis peruviana* is a herbaceous perennial plant in the nightshade family (Solanaceae) native to the Andean regions of South America — specifically Colombia, Ecuador, Peru, and Chile. It produces small, round, yellow-orange fruits enclosed in a papery calyx (husk), similar in structure to its close relative the tomatillo (*Physalis ixocarpa*). The fruit has a sweet-tart flavor described as a blend of tomato, pineapple, and mango.
 
 ## Botanical Description
 
@@ -69,7 +70,7 @@ Studies have demonstrated hepatoprotective effects in animal models, anti-inflam
 
 *Physalis peruviana* is relatively easy to cultivate. Seeds are sown indoors 6–8 weeks before last frost, similar to tomatoes. Transplant to the garden after danger of frost has passed. Spacing of 60–90 cm between plants is recommended. The plant begins fruiting approximately 70–80 days after transplanting.
 
-In permaculture systems, groundcherry serves as a productive understory plant in food forests and polycultures. Its sprawling habit provides living mulch, and the calyx-covered fruits resist bird predation better than many berries. It pairs well with [comfrey](/entities/comfrey-symphytum-officinale), beans, and alliums in guild plantings.
+In permaculture systems, groundcherry serves as a productive understory plant in food forests and polycultures. Its sprawling habit provides living mulch, and the calyx-covered fruits resist bird predation better than many berries. It pairs well with [[comfrey-symphytum-officinale|comfrey]], beans, and alliums in guild plantings.
 
 Key cultivation notes:
 - Tolerates poor soils but produces best in fertile, well-drained ground
@@ -124,10 +125,14 @@ In the Andes, groundcherry is known as *aguaymanto* (Peru) or *uchuva* (Colombia
 
 ## See Also
 
+- [[perennial-vegetables]]
+
+- [[forest-garden-design-principles]]
+
 - [[echinopsis-peruviana]]
 
-- [Solanaceae](/entities/solanaceae) — nightshade family
-- [Comfrey](/entities/comfrey-symphytum-officinale) — companion planting partner
-- [Permaculture](/entities/permaculture) — integration into food forest design
-- [Moringa oleifera](/entities/moringa-oleifera) — complementary Andean/tropical superfood
-- [Ashwagandha](/entities/ashwagandha-withania-somnifera) — shared withanolide chemistry
+- Solanaceae — nightshade family
+- [[comfrey-symphytum-officinale|Comfrey]] — companion planting partner
+- [[permaculture|Permaculture]] — integration into food forest design
+- [[moringa-oleifera|Moringa oleifera]] — complementary Andean/tropical superfood
+- [[ashwagandha-withania-somnifera|Ashwagandha]] — shared withanolide chemistry

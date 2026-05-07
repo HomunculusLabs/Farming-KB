@@ -129,6 +129,9 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 ## See Also
 
+- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-methods]]
+
 - [[mushroom-cultivation-basics]]
 - [[pf-tek-overview-and-history]]
 

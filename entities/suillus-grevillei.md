@@ -122,6 +122,8 @@ Suillus grevillei exemplifies the intimate ecological partnerships between fungi
 
 ## See Also
 
+- [[suillus-placidus]]
+
 - [[agroforestry]]
 - [[companion-planting]]
 - [[ectomycorrhiza]]

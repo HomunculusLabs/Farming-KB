@@ -7,6 +7,7 @@ sources:
   - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 760-839, 2990-3025created: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Beta-Caryophyllene as a Dietary CB2 Cannabinoid

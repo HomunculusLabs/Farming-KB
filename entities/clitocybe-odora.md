@@ -126,6 +126,8 @@ The production of sclerotia — hardened, compact masses of mycelium — is an i
 
 ## See Also
 
+- [[clitocybe-dealbata]]
+
 - [[tricholoma-matsutake]] — Another strongly aromatic forest mushroom
 - [[pleurotus-ostreatus]] — Oyster mushroom, a common edible with decurrent gills
 - [[amanita-muscaria]] — A mycorrhizal forest mushroom with distinctive pigmentation

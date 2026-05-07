@@ -15,6 +15,7 @@ sources:
   - Li X et al. (2015). "Phytochemical and biological studies of Epimedium species: a review." Journal of Asian Natural Products Research, 17(4), 332-354.
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." People's Medical Publishing House.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

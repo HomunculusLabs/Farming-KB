@@ -17,6 +17,7 @@ sources:
   - Parejo, I. et al. (2002). "Natural Antioxidant Activity of the Essential Oil of Origanum majorana." Planta Medica 68: 735-738.
   - WHO (1999). "WHO Monographs on Selected Medicinal Plants, Vol. 1." World Health Organization, Geneva.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

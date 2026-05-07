@@ -21,11 +21,12 @@ sources:
   - https://doi.org/10.1111/j.1369-1600.2006.00384.x
   - https://www.sciencedirect.com/topics/psychology/set-and-settingcreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Set and Setting
 
-**Set and setting** is a foundational concept in psychedelic research, psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [Timothy Leary](/entities/timothy-leary), [Richard Alpert](/entities/richard-alpert) (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern psychedelic therapy, harm reduction, and clinical trial design.
+**Set and setting** is a foundational concept in psychedelic research, psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[timothy-leary|Timothy Leary]], [[richard-alpert|Richard Alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern psychedelic therapy, harm reduction, and clinical trial design.
 
 ## Historical Development
 
@@ -33,14 +34,14 @@ sources:
 
 The concept emerged from the Harvard Psilocybin Project, where Leary, Alpert, and Metzner administered psilocybin to hundreds of volunteers — including prisoners, graduate students, divinity students, and artists. They observed that identical doses produced dramatically different experiences depending on the participant's mindset and surrounding conditions, leading them to formalize "set and setting" as a fundamental principle.
 
-Their 1964 book *The Psychedelic Experience*, adapted from the [Tibetan Book of the Dead](/entities/tibetan-book-of-the-dead), provided a structured framework for preparing "set" through meditation, intention-setting, and psychological readiness.
+Their 1964 book *The Psychedelic Experience*, adapted from the Tibetan Book of the Dead, provided a structured framework for preparing "set" through meditation, intention-setting, and psychological readiness.
 
 ### Precedents
 
 While Leary's group coined the specific term, the underlying principle was recognized much earlier:
 
 - **Albert Hofmann** (1954, *The Doors of Perception*): Noted that mescaline's effects depended on the observer's mental state
-- **Indigenous traditions**: [Mazatec](/entities/mazatec-people) mushroom ceremonies, ayahuasca rituals, and peyote meetings all structure set and setting through ritual, song, prayer, and community
+- **Indigenous traditions**: [[mazatec-people|Mazatec]] mushroom ceremonies, ayahuasca rituals, and peyote meetings all structure set and setting through ritual, song, prayer, and community
 
 ## Components of Set
 
@@ -56,7 +57,7 @@ The "set" encompasses all internal factors:
 
 ### Therapeutic Set Preparation
 
-In modern clinical settings (e.g., [psilocybin](/entities/psilocybe-cubensis-entity) for treatment-resistant depression, [MDMA](/entities/mdma-entity) for PTSD), set preparation includes:
+In modern clinical settings (e.g., [[psilocybe-cubensis-entity|psilocybin]] for treatment-resistant depression, [[mdma-entity|MDMA]] for PTSD), set preparation includes:
 
 - 2–3 preparatory therapy sessions with trained facilitators
 - Discussion of intentions, fears, and expectations
@@ -87,7 +88,7 @@ Indigenous psychedelic traditions demonstrate sophisticated understanding of set
 
 - **Ayahuasca ceremonies**: Curanderos with icaros (medicine songs), dietary restrictions (*dieta*), ceremonial structure
 - **Peyote meetings** (Native American Church): All-night prayer with drumming, singing, community
-- **[Mazatec](/entities/mazatec-people) mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
+- **[[mazatec-people|Mazatec]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
 - **Iboga ceremonies** (Bwiti tradition): Initiation rites spanning days with complex ritual structure
 
 ## Scientific Evidence
@@ -142,9 +143,9 @@ Contemporary psychedelic therapy research has operationalized set and setting in
 
 ## See Also
 
-- [Timothy Leary](/entities/timothy-leary) — co-originator of the concept
-- [Stanislav Grof](/entities/stanislav-grof) — holotropic breathwork and psychedelic therapy pioneer
-- [Psilocybe cubensis](/entities/psilocybe-cubensis-entity) — primary research species
-- [Maria Sabina](/entities/maria-sabina) — Mazatec curandera who demonstrated ritual setting mastery
-- [Ketamine](/entities/ketamine) — clinical application of set and setting principles
-- [Salvinorin A](/entities/salvinorin-a-entity) — compound where set/setting profoundly shapes experience intensity
+- [[timothy-leary|Timothy Leary]] — co-originator of the concept
+- [[stanislav-grof|Stanislav Grof]] — holotropic breathwork and psychedelic therapy pioneer
+- [[psilocybe-cubensis-entity|Psilocybe cubensis]] — primary research species
+- [[maria-sabina|Maria Sabina]] — Mazatec curandera who demonstrated ritual setting mastery
+- [[ketamine|Ketamine]] — clinical application of set and setting principles
+- [[salvinorin-a-entity|Salvinorin A]] — compound where set/setting profoundly shapes experience intensity

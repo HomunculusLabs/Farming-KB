@@ -145,6 +145,11 @@ Cannabis sativa ranges from 12-35% (E)-BCP content by comparison.
 
 ## See Also
 
+- [[london-pound-cake]]
+
+- [[slapz]]
+- [[donny-burger]]
+
 - [[lambsbread]]
 - [[golden-teacher-cannabis]]
 - [[royal-gorilla]]

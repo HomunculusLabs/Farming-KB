@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-1|---
+---
      2|title: Psychedelic Amplifier and Microscope Metaphors
      3|tags:
      4|  - psychedelics

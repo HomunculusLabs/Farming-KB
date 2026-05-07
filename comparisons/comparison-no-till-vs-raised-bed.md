@@ -118,6 +118,8 @@ approach gives the convenience and soil control of raised beds while preserving 
 soil biology benefits of no-till management.
 
 ## See Also
+
+- [[comparison-keyhole-garden-vs-raised-bed]]
 - [[comparison-double-digging-vs-no-till]]
 - [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-square-foot-vs-raised-bed-gardening]]

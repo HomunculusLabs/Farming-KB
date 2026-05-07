@@ -28,6 +28,7 @@ sources:
   - Cook, B.G. et al. (2005). "Tropical Forages: An Interactive Selection Tool." CSIRO, DPI&F, CIAT, ILRI.
   - Khan, Z.R. et al. (2008). "Desmodium species in push-pull technology." Pest Management Science, 64(10), 1035–1042.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Desmodium incanum

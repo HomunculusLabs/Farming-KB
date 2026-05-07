@@ -12,6 +12,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Tryptamine Hallucinogens

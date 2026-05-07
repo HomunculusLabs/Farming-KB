@@ -21,6 +21,7 @@ sources:
   - "D'Hont, A., et al. 2012. 'The Banana (Musa acuminata) Genome and the Evolution of Monocotyledonous Plants.' Nature 488: 213–217."created: 2026-05-07
 type: comparison
 
+created: 2026-05-07
 ---
 
 # Cavendish vs. East African Highland Bananas

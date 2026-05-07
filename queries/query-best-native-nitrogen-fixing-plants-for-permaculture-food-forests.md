@@ -19,6 +19,7 @@ sources:
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.created: 2026-05-07
 type: query
 
+created: 2026-05-07
 ---
 
 # What Are the Best Native Nitrogen-Fixing Plants for Permaculture Food Forests?

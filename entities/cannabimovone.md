@@ -21,6 +21,7 @@ sources:
   - Hanuš, L. et al. (2016). "Cannabimovone, a novel cannabinoid from Cannabis." Phytochemistry, 130, 21–25.
   - ElSohly, M.A. & Slade, D. (2005). "Chemical constituents of marijuana." Pharmacology & Therapeutics, 95(2), 137–152.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Cannabimovone

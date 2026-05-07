@@ -129,3 +129,7 @@ living infrastructure that predates and outlasts the trees above.
   fairy ring fungi reproduce and spread
 - [[bloomfields-orchard-fungal-biology-and-ecology]] for the role of
   fungi in nutrient cycling
+
+## See Also
+
+- [[armillaria-cepistipes]]

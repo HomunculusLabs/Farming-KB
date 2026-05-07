@@ -7,7 +7,7 @@ tags: [natural-farming, fukuoka]
 sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 ---
 
-1|---
+---
      2|title: Phyllotaxy and Natural Tree Form Against Pruning
      3|tags: [pruning, tree-form, phyllotaxy, citrus, fruit-trees, natural-farming, fukuoka]
      4|date: 2026-04-28

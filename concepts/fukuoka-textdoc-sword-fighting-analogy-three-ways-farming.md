@@ -13,6 +13,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Sword Fighting Analogy and Three Ways of Farming

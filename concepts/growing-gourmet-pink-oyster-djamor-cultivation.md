@@ -141,5 +141,7 @@ Polyethylene bags or columns, trays, or racks.
 - Relative Humidity: 85-90%
 ## See Also
 
+- [[pink-runtz]]
+
 - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
 - [[growing-gourmet-golden-oyster-citrinopileatus-cultivation]]

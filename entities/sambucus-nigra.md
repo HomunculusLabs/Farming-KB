@@ -144,6 +144,8 @@ A 2019 meta-analysis concluded elderberry supplementation substantially reduced 
 
 ## See Also
 
+- [[sambucus-canadensis]]
+
 - [[calendula-officinalis]]
 - [[symphytum-officinale]]
 - [[ocimum-tenuiflorum]]

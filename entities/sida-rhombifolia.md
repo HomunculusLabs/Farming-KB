@@ -144,6 +144,8 @@ areas.
 
 ## See Also
 
+- [[sida-cordifolia]]
+
 - [[leonurus-sibiricus]]
 - [[mimosa-tenuiflora]]
 - [[mitragyna-speciosa]]

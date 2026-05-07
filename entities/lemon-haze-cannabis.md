@@ -9,6 +9,7 @@ sources:
   - "ElSohly MA, Slade D. Chemical constituents of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
   - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of cannabis strain reliability. Scientific Reports, 2016."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Lemon Haze (Cannabis Strain)

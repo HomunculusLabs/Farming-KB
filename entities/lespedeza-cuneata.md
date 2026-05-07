@@ -25,6 +25,7 @@ sources:
     trefoil and sericea for the tropics and subtropics." Tropical
     Grasslands, 41(1): 51-59.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Lespedeza cuneata

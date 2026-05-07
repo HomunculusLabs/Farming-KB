@@ -141,10 +141,10 @@ START: What is your USDA hardiness zone?
 
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 
-- [Legume Trees and Nitrogen-Fixing Permaculture Species](/wiki/topics/legume-trees-and-nitrogen-fixing-permaculture-species)
-- [Mesquite vs Black Locust vs Carob Tree](/wiki/comparisons/comparison-mesquite-vs-black-locust-vs-carob-tree)
-- [Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)
-- [Nut Tree Cultivation for Permaculture Food Forests](/wiki/topics/nut-tree-cultivation-for-permaculture-food-forests)
-- [Agroforestry and Alley Cropping](/wiki/topics/agroforestry-and-alley-cropping)
+- [[permaculture-plants-nitrogen-fixing-trees|Legume Trees and Nitrogen-Fixing Permaculture Species]]
+- [[comparison-mesquite-vs-black-locust-vs-carob-tree|Mesquite vs Black Locust vs Carob Tree]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
+- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest|Nut Tree Cultivation for Permaculture Food Forests]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems|Agroforestry and Alley Cropping]]
 - [[agroforestry]]
 - [[dynamic-accumulators]]

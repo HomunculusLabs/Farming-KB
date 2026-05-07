@@ -18,6 +18,7 @@ sources:
   - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1985-2001."
   - "Wachtel-Galor, S., & Benzie, I.F.F. (2011). Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. Chapter 13: Ganoderma lucidum (Lingzhi / Reishi)."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Ganoderma lucidum

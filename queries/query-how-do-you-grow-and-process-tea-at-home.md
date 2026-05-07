@@ -20,6 +20,7 @@ sources:
   - USDA Plant Hardiness Zone Map — ars.usda.govcreated: 2026-05-07
 type: query
 
+created: 2026-05-07
 ---
 
 # How Do You Grow and Process Tea (Camellia sinensis) at Home?

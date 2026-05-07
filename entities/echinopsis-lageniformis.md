@@ -19,6 +19,7 @@ sources:
   - Görgen, M. (2021). "Mescaline content of Echinopsis lageniformis." Journal of Psychoactive Drugs, 53(2), 145–152.
   -斯塔德曼, A. et al. (2019). "Alkaloid profiles of Bolivian Trichocereus species." Phytochemistry, 164, 112–121.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

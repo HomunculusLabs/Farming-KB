@@ -128,7 +128,9 @@ account, with capillarity providing substantial interest. Plants with
 extensive spacing continue to discover large amounts of soil water held
 in storage as their ever-expanding root systems explore new territory.
 
-## Related Concepts
+## Related
+
+- [[solomon-gardening-pest-philosophy-and-resilience]] Concepts
 
 - [[solomon-watering-and-dry-farming]]
 - [[solomon-irrigation-water-scarce]]

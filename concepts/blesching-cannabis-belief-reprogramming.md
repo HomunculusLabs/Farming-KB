@@ -124,7 +124,7 @@ Beliefs are not passive ideas but active forces with measurable physiological co
 
 ## See Also
 
-- [[blesching-cannabis-autism]]
+- blesching cannabis autism
 - [[blesching-cannabis-childbirth-pain]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabis-cancer-night-sweats]]

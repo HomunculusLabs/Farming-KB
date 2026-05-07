@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-1|---
+---
      2|title: Tryptamine Transtemporal Consciousness and the Nunc Stans
      3|tags:
      4|  - consciousness

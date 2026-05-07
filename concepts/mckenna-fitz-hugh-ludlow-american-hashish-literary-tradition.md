@@ -15,6 +15,7 @@ sources:
   - mckenna_t-food_of_the_gods.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Fitz Hugh Ludlow and the American Hashish Literary Tradition

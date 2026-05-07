@@ -17,6 +17,7 @@ sources:
   - Strahilevitz, M. et al. (2001). "Endogenous β-Carbolines as Potential Psychotropic Agents." Pharmacology Biochemistry and Behavior 68: 429-437.
   - Baker, G.B. et al. (1984). "The β-Carbolines: Potential Neuropharmacological Agents." Canadian Journal of Neurological Sciences 11(S4): 87-92.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

@@ -63,7 +63,7 @@ According to the Iliad, Achilles used yarrow to staunch the wounds of his soldie
 
 ### Chinese Medicine
 
-In [[traditional-Chinese-medicine]], dried yarrow stalks (*shi cao*) were historically used as divination tools in the [[I-Ching]]. Medicinally, it is classified as a hemostatic and is used to resolve blood stasis, invigorate circulation, and alleviate pain — particularly menstrual pain and traumatic injuries.
+In traditional Chinese medicine, dried yarrow stalks (*shi cao*) were historically used as divination tools in the blesching cannabis autism. Medicinally, it is classified as a hemostatic and is used to resolve blood stasis, invigorate circulation, and alleviate pain — particularly menstrual pain and traumatic injuries.
 
 ### Indigenous American Uses
 

@@ -17,6 +17,7 @@ sources:
   - "Kershaw, L. (2000). \"Edible and Medicinal Plants of the Rockies." Lone Pine Publishing."
   - "Peterson, L. (1978). \"A Field Guide to Edible Wild Plants of Eastern and Central North America.\" Houghton Mifflin."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

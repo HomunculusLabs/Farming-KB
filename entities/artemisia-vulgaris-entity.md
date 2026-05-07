@@ -122,6 +122,8 @@ Mugwort is among the most culturally important herbs in Eurasian tradition. In T
   Artemisia species may have already finished blooming.
 
 ## See Also
+
+- [[artemisia-vulgaris]]
 - [[artemisia-absinthium]]
 - [[achillea-millefolium]]
 - [[taraxacum-officinale]]

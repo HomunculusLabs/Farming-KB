@@ -18,6 +18,7 @@ sources:
   - "Steinert, J. et al. (2007). \"Catuama: A Functional Food Supplement.\" Journal of Ethnopharmacology, 109(1), 22–28."
   - "Carlini, E.A. (2003). \"Plants and the Central Nervous System.\" Pharmacology & Biochemistry of Behavior, 75(3), 501–512."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

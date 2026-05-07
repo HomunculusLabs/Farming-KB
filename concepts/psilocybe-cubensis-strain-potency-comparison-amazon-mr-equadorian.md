@@ -1,3 +1,12 @@
+---
+title: "Psilocybe Cubensis Strain Potency Comparison Amazon Mr Equadorian"
+created: 2026-05-07
+updated: 2026-05-07
+type: concept
+tags: []
+sources: []
+---
+
 --- title: Psilocybe Cubensis Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
   - psilocybin - psilocin - psilocybe-cubensis - strain-comparison - potency - alkaloid-profile -
   cultivation - HPLC - cap-stem-distribution - mycology

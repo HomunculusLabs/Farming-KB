@@ -18,6 +18,7 @@ sources:
   - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Voluntary Hallucinations from Psilocybin Vapor in Enclosed Spaces

@@ -17,6 +17,7 @@ sources:
   - Zadrazil, F. & Kurtzman, R.H. (1982). "The biology of Pleurotus cultivation in the tropics." In Tropical Mushrooms.
   - Chang, S.T. & Hayes, W.A. (1978). The Biology and Cultivation of Edible Mushrooms. Academic Press.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

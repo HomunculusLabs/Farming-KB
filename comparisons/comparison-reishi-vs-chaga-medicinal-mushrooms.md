@@ -125,9 +125,9 @@ Both mushrooms are widely available in health food stores, online retailers, and
 - [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 
-- [Medicinal Mushroom Cultivation](/wiki/medicinal-mushroom-cultivation)
-- [Cordyceps](/wiki/cordyceps)
-- [Shiitake](/wiki/shiitake)
-- [Oyster Mushrooms](/wiki/oyster-mushrooms)
-- [Beta-Glucans](/wiki/beta-glucans)
-- [Adaptogens](/wiki/adaptogens)
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods|Medicinal Mushroom Cultivation]]
+- [[cordyceps-militaris|Cordyceps]]
+- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs|Shiitake]]
+- [[oyster-mushrooms|Oyster Mushrooms]]
+- [[beta-glucans|Beta-Glucans]]
+- [[adaptogenic-herbs-guide|Adaptogens]]

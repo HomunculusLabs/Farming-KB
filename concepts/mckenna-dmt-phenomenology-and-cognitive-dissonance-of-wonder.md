@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-1|---
+---
      2|title: DMT Experience Phenomenology and the Cognitive Dissonance of Wonder
      3|tags:
      4|  - DMT

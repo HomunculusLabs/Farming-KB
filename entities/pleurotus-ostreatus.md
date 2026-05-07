@@ -9,6 +9,7 @@ sources:
   - "Kirk, Paul M. et al. Ainsworth & Bisby's Dictionary of the Fungi. CABI, 2008."
   - "Royer, F. et al. Mushrooms of the Pacific Northwest. Timber Press, 2014."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Pleurotus ostreatus (Oyster Mushroom)
@@ -143,3 +144,9 @@ In the contemporary mycological community, *P. ostreatus* is celebrated as the "
 - ***Pleurotus djamor*** (Pink oyster) — Vibrant pink coloration, tropical species, shorter shelf life.
 - ***Pleurotus cornucopiae*** (Branching oyster) — Forms clusters of multiple caps from a single base point.
 - ***Hypsizygus tessulatus*** (Elm oyster or shimeji) — Related genus, commercially important in Asian markets.
+
+## See Also
+
+- [[mushroom-cultivation-methods]]
+- [[mushroom-substrates]]
+- [[medicinal-mushroom-guide]]

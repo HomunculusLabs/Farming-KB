@@ -16,6 +16,7 @@ updated: 2026-04-28
 sources:
   - mckenna_t-tryptamines_consciousness.mdcreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Heraclitus Fragment 24 and the Tryptamine Aeon

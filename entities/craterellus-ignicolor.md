@@ -132,6 +132,8 @@ slugs, deer, and small mammals, which may assist in spore dispersal.
 
 ## See Also
 
+- [[craterellus-odoratus]]
+
 - [[cantharellus-cibarius]] — Golden chanterelle, the most widely
   recognized edible chanterelle
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, a close

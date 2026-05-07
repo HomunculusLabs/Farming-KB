@@ -17,6 +17,7 @@ sources:
   - Riba, J., et al. (2003). "Increasing tryptamine dose in ayahuasca." Psychopharmacology 166(1): 63–70.
   - Yritia, M., et al. (2005). "Determination of tryptamine, N-methyltryptamine, and N,N-dimethyltryptamine in ayahuasca." Journal of Chromatography B 820(2): 259–266.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

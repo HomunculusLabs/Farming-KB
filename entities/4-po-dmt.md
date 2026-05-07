@@ -21,6 +21,7 @@ sources:
     new analogs of psilocybin from Psilocybe baeocystis." Journal of
     Pharmaceutical Sciences, 66(5): 743-744.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # 4-PO-DMT

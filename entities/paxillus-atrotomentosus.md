@@ -15,6 +15,7 @@ sources:
   - Watling, R. (1970). "Studies on the genus Paxillus." *Notes from the Royal Botanic Garden Edinburgh* 30: 221–244.
   - Arnolds, E. (1989). "A preliminary red data list of macrofungi in the Netherlands." *Persoonia* 14: 91–106.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

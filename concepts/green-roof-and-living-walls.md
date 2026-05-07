@@ -115,6 +115,8 @@ A middle ground combining features of both extensive and intensive systems.
 - **Aesthetics**: Transforms barren surfaces into living landscapes
 - **Membrane protection**: Green roofs can double the lifespan of waterproof membranes by shielding from UV
 ## See Also
+
+- [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]
 - [[vertical-gardening-guide]]
 - [[rain-garden-design]]
 - [[container-gardening-guide]]

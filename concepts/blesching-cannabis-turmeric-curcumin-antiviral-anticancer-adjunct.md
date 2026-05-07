@@ -7,6 +7,7 @@ sources:
   - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 3669-3676, 4305-4308, 5213-5216created: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Turmeric and Curcumin as Antiviral and Anticancer Adjuncts

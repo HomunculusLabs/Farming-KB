@@ -3,163 +3,151 @@ title: OG Kush
 type: strain
 tags:
   - cannabis
-  - indica-dominant
+  - strain
   - hybrid
-  - california
-  - legendary-strain
-  - high-thc
+  - indica-dominant
+  - california-genetics
   - terpene-profile
-  - medical-cannabis
+  - legacy-strain
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.leafly.com/strains/og-kush
   - https://www.wikileaf.com/strain/og-kush/
-  - "ElSohly, M.A. et al. (2016). Changes in Cannabis Potency Over the Last Two Decades (1995–2014). Biological Psychiatry, 79(7), 613-619."
-  - "Mudge, E.M. et al. (2019). Chemotaxonomic Analysis of Cannabis sativa Using Terpenoid Profiling. Forensic Science International, 301, 56-63."
-  - "Smart, R. et al. (2017). Medical Marijuana Policies on Campus: Implications for Health. Journal of American College Health, 65(5), 368-374."created: 2026-05-07
-
+  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
+  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
 ---
 
 # OG Kush
 
-**OG Kush** is one of the most iconic and influential cannabis strains in modern history. A West Coast legend that emerged in the early 1990s in Southern California, OG Kush has served as the genetic backbone for hundreds of derivative strains and fundamentally shaped the identity of California cannabis culture. Despite its cultural ubiquity, its exact genetic lineage remains one of the most debated topics in cannabis genetics.
-
-## Strain Profile
-
-| Attribute | Detail |
-|---|---|
-| **Type** | Indica-dominant hybrid (typically 75% indica / 25% sativa) |
-| **THC content** | 19–26% (modern cuts; original was ~15–18%) |
-| **CBD content** | <0.1–0.3% |
-| **Flowering time** | 8–9 weeks indoors |
-| **Yield** | Moderate (300–400 g/m² indoor; 400–500 g/plant outdoor) |
-| **Aroma** | Earthy, pine, lemon, fuel, woody |
-| **Taste** | Citrus, pine, hashy, spicy, diesel undertones |
-| **Effect** | Euphoric onset → deeply relaxing body high; sedating at higher doses |
+**OG Kush** is a legendary cannabis strain widely regarded as one of the most influential and foundational hybrids in modern cannabis genetics. An indica-dominant hybrid (typically reported as 55% indica / 45% sativa), OG Kush has served as a parent or ancestor to hundreds of popular cultivars including Girl Scout Cookies, Headband, and Tahoe OG. Its name is said to originate from "Ocean Grown" Kush, referencing its cultivation along the Southern California coast, though the exact etymology remains debated among cannabis historians.
 
 ## Genetic Lineage
 
-The "OG" in OG Kush is commonly interpreted as "Ocean Grown" — a reference to its cultivation along the Southern California coast, particularly in the San Fernando Valley and Los Angeles area. However, the genetics remain contested with several competing narratives:
+The precise genetic origins of OG Kush are one of cannabis culture's most enduring mysteries. The most widely accepted theory traces it to a cross between a **Chemdawg** cut (itself derived from a bag seed found at a Grateful Dead show in 1991) and a **Lemon Thai** x **[[hindu-kush|Hindu Kush]]** pollen donor, likely bred in Northern California before migrating to Los Angeles in the mid-1990s.
 
-### Chemdawg × Lemon Thai × Hindu Kush (Most Widely Accepted)
-The prevailing theory, supported by chemotaxonomic analysis, traces OG Kush to a cross between a **Chemdawg** cutting brought from the East Coast (allegedly by a Grateful Dead follower in 1991) and a **Lemon Thai** sativa, with **Hindu Kush** genetics contributing to the indica dominance.
+Alternative lineage theories include:
+- A direct descendant of a Pakistani **Kush** landrace brought to the U.S. in the 1970s
+- A Chemdawg phenotype that stabilized in Florida before reaching the West Coast
+- A distinct West Coast selection from **91 Chemdawg** pollen
 
-### Chemdawg 91 × (Lemon Thai × Hindu Kush)
-A more detailed version of the above, specifying the Chemdawg '91 cut and treating the Lemon Thai × Hindu Kush as a distinct parent.
-
-### Key Clone-Only Cuts
-Several distinct phenotypes of OG Kush have been preserved as clone-only varieties, each with subtle differences in growth patterns, potency, and terpene profiles:
-
-- **Tahoe OG:** Darker, more indica-dominant; intense sedation; popular for insomnia
-- **Ghost OG:** Lighter green, frosty; balanced cerebral and physical effects; award-winning
-- **SFV OG (San Fernando Valley OG):** Dense, resinous; pine-dominant aroma; strong body effects
-- **Larry OG:** Cross with SFV OG; citrus-forward; energetic for an OG
-- **Master Kush:** Not a true OG but frequently confused; Dutch-bred Hindu Kush descendant
-- **Triple OG:** OG × OG × OG backcross; extremely potent; modern genetic
+Regardless of exact parentage, OG Kush emerged as a distinct clone-only cultivar in the Los Angeles area circa 1996, where it was propagated vegetatively and quickly became the cornerstone of the Southern California medical cannabis scene.
 
 ## Terpene Profile
 
-The characteristic aroma of OG Kush is defined by a distinctive terpene fingerprint:
+OG Kush's distinctive aroma and effects are largely driven by its complex terpene composition:
 
-| Terpene | Approximate % | Aroma Contribution |
-|---|---|---|
-| **Myrcene** | 0.5–1.2% | Earthy, musky, herbal base note |
-| **Limonene** | 0.3–0.8% | Citrus, lemon peel; mood elevation |
-| **Caryophyllene** | 0.2–0.6% | Pepper, spice; anti-inflammatory (CB2 agonist) |
-| **Linalool** | 0.05–0.2% | Floral, lavender; anxiolytic synergy |
-| **Pinene (β)** | 0.1–0.3% | Pine, forest; counteracts THC-induced memory impairment |
-| **Humulene** | 0.05–0.2% | Woody, earthy; appetite suppressant |
-| **Ocimene** | Trace | Sweet, herbal; uplifting |
+| Terpene | Typical Range | Aroma Contribution |
+|---------|--------------|-------------------|
+| Myrcene | 0.5–1.2% | Earthy, musky, herbal |
+| Limonene | 0.8–1.5% | Citrus, lemon, uplifting |
+| Caryophyllene | 0.3–0.8% | Pepper, spicy, woody |
+| Linalool | 0.1–0.4% | Floral, lavender, calming |
+| Humulene | 0.1–0.3% | Earthy, woody, hoppy |
+| Pinene (β) | Trace | Pine, fresh |
 
-The **limonene + myrcene + caryophyllene** combination is considered the "OG signature" and is now used as a chemotaxonomic marker to identify true OG Kush genetics.
+The **limonene-dominant** character combined with earthy myrcene base notes creates OG Kush's signature "lemon-pine-fuel" aroma. The interplay between limonene (typically associated with uplifting effects) and myrcene (associated with sedation) is thought to contribute to the strain's balanced psychoactive profile.
 
 ## Cannabinoid Profile
 
-Modern OG Kush selections exhibit significantly higher THC concentrations than the original 1990s phenotype:
+Modern OG Kush samples typically exhibit:
 
-- **Total THC:** 19–26% (tested flowers; some trophy cuts exceed 28%)
-- **THCV:** 0.1–0.5% (minor; contributes to appetite effects)
+- **THC:** 18–26% (occasionally testing up to 30% in select phenotypes)
+- **CBD:** <0.1–0.3% (negligible)
 - **CBG:** 0.1–0.5%
-- **CBC:** Trace
-- **CBD:** <0.3% (not a CBD source)
+- **THCV:** Trace amounts
 
-The low CBD:THC ratio means OG Kush is not suitable for patients seeking CBD-dominant therapeutics but is valued for high-THC applications.
+The high THC-to-CBD ratio places OG Kush firmly in the "high-THC" category. The strain produces significant quantities of **THCA** in raw flower, with total cannabinoid content typically ranging from 20–30%.
 
-## Effects and Experience
+## Phenotype Description
 
-### Onset (0–15 minutes)
-- Rapid onset of cerebral euphoria
-- Elevated mood, creativity, and sociability
-- Sensory enhancement (music sounds richer, colors more vivid)
-- Uplifting and slightly giggly at moderate doses
+### Plant Morphology
 
-### Peak (15–60 minutes)
-- Transition from cerebral to physical effects
-- Deep body relaxation begins
-- "Couch-lock" potential at higher doses
-- Munchies (appetite stimulation via CB1 agonism)
+OG Kush plants exhibit classic indica growth patterns with sativa-influenced leaf structure:
+- **Height:** Medium-tall (90–150 cm indoor), tends to stretch during early flowering
+- **Structure:** Branching is moderate; apical dominance is strong, producing a large central cola
+- **Leaf morphology:** Slightly narrow leaflets with sativa-like finger length, but denser than pure sativa
+- **Node spacing:** Moderate, tightening during flowering
+- **Root system:** Vigorous but benefits from training (LST, SCROG) to maximize yield
 
-### Comedown (2–4 hours)
-- Gradual transition to sedation
-- Sleepiness common in later stages
-- Residual body relaxation for 1–2 hours
+### Flower Characteristics
 
-**Best suited for:** Evening or nighttime use due to sedative tail.
+- **Bud structure:** Dense, chunky calyxes with moderate resin production
+- **Color:** Light to medium green with occasional orange-to-amber pistils; some phenotypes express purple hues in cooler temperatures
+- **Trichome coverage:** Heavy — flowers are typically frosted with large capitate-stalked trichomes
+- **Calyx-to-leaf ratio:** High, making trimming relatively straightforward
+- **Aroma intensity:** Very strong; pungent fuel-citrus-pine aroma detectable from several meters away
 
-## Medical Applications
+## Cultivation
 
-### Primary Indications
-- **Chronic pain:** Myrcene and caryophyllene provide analgesic synergy; effective for neuropathic and musculoskeletal pain
-- **Insomnia:** Sedative properties make it a go-to strain for sleep onset
-- **Stress and anxiety:** Limonene-mediated anxiolysis; however, high THC can paradoxically increase anxiety in susceptible individuals
-- **Depression:** Euphoric onset provides temporary mood elevation
-- **Appetite loss:** Strong orexigenic effect useful for cachexia, chemotherapy-induced anorexia, and HIV wasting syndrome
-- **PTSD:** Anecdotal reports of symptom reduction; limited clinical evidence
-- **Migraine:** Vasoactive and analgesic properties may reduce migraine severity
+### Growth Parameters
 
-### Contraindications
-- Anxiety disorders (high THC can exacerbate)
-- Cardiovascular conditions (tachycardia, orthostatic hypotension)
-- History of substance use disorder (THC has addictive potential)
-- Pregnancy and breastfeeding
+| Parameter | Optimal Range |
+|-----------|--------------|
+| Photoperiod | 12/12 flowering |
+| Flowering time | 8–9 weeks |
+| Indoor yield | 350–450 g/m² |
+| Outdoor yield | 400–500 g/plant |
+| Temperature (veg) | 22–28°C |
+| Temperature (flower) | 18–26°C |
+| Humidity (flower) | 40–55% RH |
+| Nutrient needs | Moderate-to-heavy feeder (N in veg, P-K in flower) |
 
-## Cultivation Notes
+### Cultivation Notes
 
-### Growing Difficulty: Moderate
-OG Kush is not a beginner strain but rewards experienced growers with exceptional quality.
+- **Cloning:** OG Kush is traditionally a clone-only strain; seed versions are typically crosses or S1 self-pollinations that may not perfectly replicate the original phenotype
+- **Training:** Responds well to low-stress training (LST), super cropping, and Screen of Green (SCROG)
+- **Nutrient sensitivity:** Can be sensitive to nitrogen levels during mid-to-late flowering; taper nitrogen by week 3 of flower to prevent " fox-tailing" and harsh smoke
+- **Pest resistance:** Moderate; susceptible to spider mites and powdery mildew in high-humidity environments
+- **Flush:** Benefits from a 1–2 week flush before harvest for smoother flavor
 
-**Key considerations:**
-- **Prone to hermaphroditism** under stress (light leaks, temperature swings, nutrient stress)
-- **Sensitive to overfeeding** — especially nitrogen; cal-mag supplementation important
-- **Requires low humidity** during flowering (40–50% RH) to prevent botrytis
-- **Strong odor** — activated carbon filtration essential for indoor grows
-- **Responds well to** SCROG (Screen of Green) and LST (Low Stress Training)
-- **Optimal temperature:** 68–80°F (20–27°C) day; 60–70°F (15–21°C) night
-- **pH range:** 6.0–6.8 (soil); 5.5–6.1 (hydroponics)
+## Effects and Medical Applications
 
-### Nutrient Requirements
-- **Vegetative:** Moderate N, adequate P and K
-- **Flowering:** Reduced N, increased P and K; boost PK in weeks 4–6
-- **Supplements:** Molasses (microbial food), cal-mag, silica (trichome production)
+### Psychoactive Profile
 
-## Legacy and Cultural Impact
+OG Kush produces a characteristic "creeper" onset that builds over 10–15 minutes into a full-bodied, long-lasting experience:
 
-OG Kush's influence on cannabis culture is arguably unmatched:
+- **Onset:** Initial cerebral uplift, euphoria, and heightened sensory perception (first 15–30 minutes)
+- **Peak:** Deep body relaxation spreading from the chest outward, coupled with introspective mental state (30–90 minutes)
+- **Duration:** 2–3 hours, with lingering body effects up to 4 hours
+- ** comedown:** Gradual, smooth transition to relaxed/sleepy state
 
-1. **Parent of hundreds of strains:** Girl Scout Cookies, Headband, Bubba Kush, Skywalker OG, Gelato (distant), Wedding Cake (distant), and countless others carry OG genetics
-2. **Defined "Kush" as a brand:** Before OG Kush, "Kush" referred specifically to landrace strains from the Hindu Kush mountains. OG Kush redefined the term as a quality marker
-3. **Hip-hop culture:** Referenced extensively in West Coast rap (Snoop Dogg, Cypress Hill, Kendrick Lamar)
-4. **Premium market benchmark:** OG Kush became the standard against which all other strains were judged in the pre-legalization era
-5. **Flavor profile revolution:** The citrus-pine-fuel terpene combination set a new expectation for cannabis aroma
+### Medical Applications
+
+- **Stress and anxiety:** Potent anxiolytic effects at moderate doses; limonene content contributes to mood elevation
+- **Pain management:** Strong analgesic properties for chronic pain, migraines, and muscle spasms
+- **Insomnia:** Effective sleep aid at higher doses; myrcene and linalool contribute to sedative effects
+- **Appetite stimulation:** Reliable munchies effect
+- **Depression:** Euphoric onset can provide temporary relief from depressive symptoms
+
+### Potential Adverse Effects
+
+- Dry mouth and dry eyes (common to most cannabis)
+- Paranoia or anxiety at high doses (especially in inexperienced users)
+- Couch-lock/sedation at doses above individual tolerance
+- Headache in rare cases (often related to poor flush or residual nutrients)
+
+## Cultural Significance
+
+OG Kush occupies a singular position in cannabis culture and genetics:
+- It defined the "Kush" aesthetic that dominated West Coast cannabis throughout the 2000s
+- The "OG" prefix has been applied to hundreds of descendant strains (Tahoe OG, SFV OG, Ghost OG, etc.)
+- It was instrumental in establishing Los Angeles as a global cannabis capital
+- The strain's genetics appear in an estimated 30–40% of all modern hybrid cultivars
+- It has been referenced extensively in hip-hop and popular culture, particularly in West Coast rap
+
+## Notable Descendant Strains
+
+- **Girl Scout Cookies** (OG Kush × [[durban-poison|Durban Poison]])
+- **Headband** (OG Kush × Sour Diesel)
+- **Tahoe OG** (OG Kush phenotype selected in Lake Tahoe)
+- **Ghost OG** (OG Kush cut popularized by the rapper Ghostface Killah)
+- **Larry OG** (OG Kush phenotype, parent of many OG crosses)
+- **Sundae Driver** (Girl Scout Cookies descendant)
 
 ## See Also
 
-- [[london-pound-cake]]
-
-- [[chemdawg]] — East Coast parent of OG Kush lineage
-- [[hindu-kush]] — Landrace indica contributing genetics
-- [[girl-scout-cookies]] — Notable OG Kush descendant
-- [[cannabis-terpene-entourage-effect]] — Terpene-cannabinoid synergy
-- [[gaias-garden-food-forest-history-and-evolution]] — Cultural and legal history
-- [[cannabis-sativa-indoor-cultivation-techniques]] — Comprehensive indoor growing guide
+- [[blue-dream]] — Another foundational West Coast hybrid
+- terpenes — Detailed guide to cannabis terpenes and their effects
+- cannabis cultivation — Comprehensive growing guide
+- [[Chemdawg]] — Key ancestor in OG Kush lineage

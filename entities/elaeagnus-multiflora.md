@@ -29,6 +29,7 @@ aliases:
   - Oleaster
   - Elaeagnus eduliscreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

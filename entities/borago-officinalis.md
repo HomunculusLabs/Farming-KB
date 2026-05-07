@@ -113,6 +113,8 @@ Allergic reactions to borage are rare but have been reported, particularly in in
 
 ## See Also
 
+- [[euphrasia-officinalis]]
+
 - [[comfrey]] — related Boraginaceae species with allantoin and medicinal applications
 - [[calendula-officinalis]] — companion plant with edible flowers and anti-inflammatory properties
 - [[echinacea-purpurea]] — medicinal herb for immune system support

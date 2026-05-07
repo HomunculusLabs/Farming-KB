@@ -18,6 +18,7 @@ sources:
   - Corazza, O. et al. (2014). "Adverse effects of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
   - Fraser, G.L. (2011). "Revisiting yohimbine pharmacology." CNS Drug Reviews, 17(3), 190–197.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

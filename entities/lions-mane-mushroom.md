@@ -9,6 +9,7 @@ sources:
   - "Kawagishi H, Zhuang C. Compounds for dementia from Hericium erinaceus. Drugs of the Future, 2008."
   - "Wong KH, Naidu M, David RP, et al. Neuroprotective effects of Lion's mane mushroom. BMC Complementary and Alternative Medicine, 2019."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Lion's Mane Mushroom (Hericium erinaceus)

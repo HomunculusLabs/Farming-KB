@@ -22,7 +22,7 @@ Choosing between cob and adobe depends on your climate, available materials, des
 
 ## Cob Building
 
-[Cob](/wiki/natural-building/[[cob-building]]) is a monolithic earthen building technique where walls are sculpted in place by hand without forms. The cob mix typically consists of clay-rich subsoil, sand, and straw, combined with water to a stiff mud consistency and applied in thick masses called cobs or loaves.
+[[[[cob-building]]|Cob]] is a monolithic earthen building technique where walls are sculpted in place by hand without forms. The cob mix typically consists of clay-rich subsoil, sand, and straw, combined with water to a stiff mud consistency and applied in thick masses called cobs or loaves.
 
 The cobbing process involves building up walls in courses, with each course allowed to stiffen slightly before the next is added. Unlike brick-based methods, there is no curing or drying time required between courses beyond initial set, allowing continuous building through a project. This makes [[cob-construction]] flow naturally once the rhythm is established.
 
@@ -42,7 +42,7 @@ A cob building typically requires a strong roof structure with large overhangs t
 
 ## Adobe Construction
 
-[Adobe](/wiki/natural-building/[[adobe-construction]]) uses sun-dried earth bricks laid up with mud mortar to form walls. The brick mixture typically contains clay-rich soil, sand, water, and often straw or other fiber for strength. Bricks are formed in moulds and dried in the sun for two to four weeks before use.
+[[[[adobe-construction]]|Adobe]] uses sun-dried earth bricks laid up with mud mortar to form walls. The brick mixture typically contains clay-rich soil, sand, water, and often straw or other fiber for strength. Bricks are formed in moulds and dried in the sun for two to four weeks before use.
 
 Adobe is one of the oldest building methods on earth, with structures dating back over 4000 years in the Middle East, the Americas, and Africa. The Spanish name "adobe" comes from the Arabic "at-tub," meaning brick, reflecting the deep history of this technique across cultures and continents.
 
@@ -116,11 +116,11 @@ In all cases, the key principles remain the same: a good raised foundation, gene
 
 - [[comparison-earthbag-vs-adobe-construction]]
 
-- [Natural Building](/wiki/natural-building/natural-building)
-- [Straw Bale Construction](/wiki/natural-building/[[straw-bale-construction]])
-- [Earth Plaster](/wiki/natural-building/earth-plaster)
-- [Lime Rendering](/wiki/natural-building/lime-rendering)
-- [Passive Solar Design](/wiki/building/[[passive-solar-design]])
-- [Thermal Mass](/wiki/building/thermal-mass)
-- [Rammed Earth](/wiki/natural-building/[[rammed-earth]])
-- [Foundation Design](/wiki/building/foundation-design)
+- [[natural-building|Natural Building]]
+- [[[[straw-bale-construction]]|Straw Bale Construction]]
+- [[earth-plaster-and-natural-finishes|Earth Plaster]]
+- Lime Rendering
+- [[[[passive-solar-design]]|Passive Solar Design]]
+- [[faires-thermal-mass-applications-in-building|Thermal Mass]]
+- [[[[rammed-earth]]|Rammed Earth]]
+- Foundation Design

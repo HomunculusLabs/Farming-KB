@@ -11,6 +11,7 @@ sources:
   - "USDA Natural Resources Conservation Service. (2023). Soil Health Technical Note: Compost and Biochar Applications."created: 2026-05-07
 type: comparison
 
+created: 2026-05-07
 ---
 
 ## Overview

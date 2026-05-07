@@ -16,6 +16,7 @@ sources:
   - Cookies Fam (2022). "London Pound Cake — Strain Library." cookiesfam.com.
   - cannabis-md (2022). "Terpene Profile Analysis of Popular Cake-Strain Varieties." Journal of Cannabis Research 4(2): 15-28.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

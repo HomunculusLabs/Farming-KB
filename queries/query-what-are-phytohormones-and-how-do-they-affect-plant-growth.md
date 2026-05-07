@@ -186,7 +186,7 @@ Every plant constantly produces and responds to phytohormones. Many organic prac
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
-- [Plant Anatomy and Physiology](/wiki/topics/plant-anatomy-and-physiology)
-- [Plant Propagation Techniques](/wiki/topics/plant-propagation-techniques)
-- [Compost Tea and Biological Extracts](/wiki/topics/compost-tea-and-biological-extracts)
-- [Cannabis Pest Disease Troubleshooting](/wiki/topics/cannabis-pest-disease-troubleshooting)
+- [[cannabis-plant-stress-types-and-recovery|Plant Anatomy and Physiology]]
+- [[plant-propagation-techniques|Plant Propagation Techniques]]
+- [[ingham-compost-tea-application-rates-and-timing|Compost Tea and Biological Extracts]]
+- [[cannabis-disease-pest-resistance-breeding-clarke|Cannabis Pest Disease Troubleshooting]]

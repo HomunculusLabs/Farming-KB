@@ -130,6 +130,8 @@ genetic integrity regardless of the name attached.
 
 ## See Also
 
+- [[miracle-alien-cookies]]
+
 - [[bubblegum]]
 - [[cap-junky]]
 - [[gsc-cannabis]]

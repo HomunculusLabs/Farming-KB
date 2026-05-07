@@ -131,6 +131,8 @@ mycorrhizal preferences.
 
 ## See Also
 
+- [[hydnellum-spongiosipes]]
+
 - [[hydnum-repandum]]
 - [[scleroderma-citrinum]]
 - [[suillus-luteus]]

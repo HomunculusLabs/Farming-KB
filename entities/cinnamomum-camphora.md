@@ -26,6 +26,7 @@ sources:
   - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora essential oil." Molecules, 20(9), 16757–16767.
   - Floyd, A.G. (1989). "Rainforest Trees of Mainland South-eastern Australia." Inkata Press.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Cinnamomum camphora

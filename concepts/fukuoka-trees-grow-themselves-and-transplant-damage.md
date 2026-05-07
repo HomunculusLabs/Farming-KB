@@ -7,7 +7,7 @@ tags: [natural-farming, fukuoka, trees]
 sources: []
 ---
 
-1|---
+---
      2|title: Trees Grow Themselves and the Damage of Transplanting
      3|tags: [natural-farming, trees, fruit-orchards, transplanting, root-systems, [[nematodes-in-soil-ecology]], masanobu-fukuoka, no-till]
      4|date: 2026-04-28

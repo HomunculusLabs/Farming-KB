@@ -15,6 +15,7 @@ sources:
   - van Beilen JB, Poirier Y (2007). "Guayule and Russian Dandelion as Alternative Sources of Natural Rubber." Critical Reviews in Biotechnology, 27(4), 217-231.
   - Cornish K et al. (2015). "Tire and rubber research from Russian dandelion and guayule." Industrial Crops and Products, 70, 91-96.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

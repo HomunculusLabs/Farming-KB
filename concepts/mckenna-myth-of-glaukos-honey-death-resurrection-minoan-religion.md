@@ -17,6 +17,7 @@ sources:
   - mckenna_t-food_of_the_gods.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # The Myth of Glaukos - Honey, Death and Resurrection in Minoan Religion

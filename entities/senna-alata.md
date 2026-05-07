@@ -17,6 +17,7 @@ sources:
   - Lewis, W.H., & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man's Health." Wiley.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

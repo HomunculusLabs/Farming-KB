@@ -7,7 +7,7 @@ tags: [natural-farming, fukuoka]
 sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 ---
 
-1|---
+---
      2|title: Paddy Field Ecosystem Balance Spiders Frogs Dragonflies
      3|tags: [ecology, rice-paddy, biological-control, biodiversity, spiders, frogs, dragonflies, natural-farming, fukuoka]
      4|date: 2026-04-28

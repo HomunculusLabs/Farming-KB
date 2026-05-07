@@ -138,6 +138,8 @@ and chemical controls for sustainable long-term pest management in any garden.
 
 ## Related
 
+- [[query-how-to-grow-and-use-lemongrass-for-pest-control]]
+
 - [[query-how-can-i-attract-dragonflies-to-my-pond-for-mosquito-control]]
 
 - [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]] Questions

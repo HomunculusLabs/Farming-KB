@@ -128,6 +128,8 @@ The pure compounds produced by this synthesis serve as essential reference stand
 
 ## See Also
 
+- [[psilocin-psilocybin-synthesis-shirota]]
+
 - [[psilocybin-pharmacology]] for the pharmacological effects and receptor interactions
 - [[tihkal-tryptamine-chemistry]] for the broader chemical context of indole-ethylamine compounds
 - [[psilocybe-species-identification]] for chromatographic methods of mushroom identification

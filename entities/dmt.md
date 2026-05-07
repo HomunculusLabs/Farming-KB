@@ -16,6 +16,7 @@ sources:
   - Carbonaro TM & Gatch MB (2016) "Neuropharmacology of N,N-dimethyltryptamine" Biochem Pharmacol
   - Palhano-Fontes F et al. (2019) "Ayahuasca's effects" Scientific Reports, PMID 30679438created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

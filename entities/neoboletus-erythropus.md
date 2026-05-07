@@ -16,6 +16,7 @@ sources:
   - "Kumar, T.K.A. & Manimohan, P. (2005). \"Boletes from Kerala State, India.\" Kavaka, 33, 53–76."
   - "Krieglsteiner, G.J. (2000). \"Die Großpilze Baden-Württembergs." Eugen Ulmer Verlag."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

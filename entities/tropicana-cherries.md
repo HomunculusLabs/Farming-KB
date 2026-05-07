@@ -22,6 +22,7 @@ aliases:
   - Tropicana Cherry
   - Cherry Tropicanacreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

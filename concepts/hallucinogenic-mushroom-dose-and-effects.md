@@ -7,6 +7,7 @@ sources:
   - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)created: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Hallucinogenic Mushroom Dose and Effects

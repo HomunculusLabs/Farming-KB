@@ -7,7 +7,7 @@ tags: [homesteading, farming, crop-planning]
 sources: []
 ---
 
-1|---
+---
      2|title: The Hidden Farm and Double Cropping Strategy
      3|tags: [winter-harvest, [[solomon-row-covers-and-season-extension]], double-cropping, eliot-coleman, cold-frames, succession-planting, protected-cultivation]
      4|date: 2026-04-28

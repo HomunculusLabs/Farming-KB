@@ -18,6 +18,7 @@ sources:
   - label: "Practical Plants Wiki — Achillea millefolium"
     url: "https://practicalplants.org/wiki/Achillea_millefolium"created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Yarrow (*Achillea millefolium* L.)

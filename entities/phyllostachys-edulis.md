@@ -22,13 +22,14 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/phyllostachys-edulis
   - https://www.bamboo-technical.org/created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Phyllostachys edulis
 
 **Moso bamboo**, **Mao bamboo**, **Chinese timber bamboo**
 
-*Phyllostachys edulis* is the world's most economically important bamboo species, native to China and Taiwan. A running bamboo in the grass family ([Poaceae](/entities/poaceae)), it produces the largest culms of any temperate bamboo — reaching heights of 20–28 meters and diameters of 10–20 cm. Moso bamboo is harvested for timber, edible shoots, paper pulp, textiles, and biochar, and plays a significant role in carbon sequestration, erosion control, and permaculture design. China maintains approximately 7 million hectares of bamboo forest, of which moso comprises roughly 70%.
+*Phyllostachys edulis* is the world's most economically important bamboo species, native to China and Taiwan. A running bamboo in the grass family (Poaceae), it produces the largest culms of any temperate bamboo — reaching heights of 20–28 meters and diameters of 10–20 cm. Moso bamboo is harvested for timber, edible shoots, paper pulp, textiles, and biochar, and plays a significant role in carbon sequestration, erosion control, and permaculture design. China maintains approximately 7 million hectares of bamboo forest, of which moso comprises roughly 70%.
 
 ## Botanical Description
 
@@ -133,7 +134,7 @@ Moso bamboo prefers well-drained, loamy to sandy loam soils (pH 5.0–7.0) with 
 - [[inga-edulis]]
 - [[boletus-edulis-entity]]
 
-- [Bamboo](/entities/bamboo) — general bamboo overview
-- [Biochar](/entities/biochar) — bamboo-derived soil amendment
-- [Food Forest](/entities/food-forest-permaculture) — integration into agroforestry systems
-- [Tagasaste](/entities/tagasaste) — complementary fast-growing multipurpose plant
+- [[bamboo-species-guide|Bamboo]] — general bamboo overview
+- [[biochar|Biochar]] — bamboo-derived soil amendment
+- [[food-forest-permaculture|Food Forest]] — integration into agroforestry systems
+- [[tagasaste|Tagasaste]] — complementary fast-growing multipurpose plant

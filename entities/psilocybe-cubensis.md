@@ -11,6 +11,7 @@ sources:
   - Tylutki, E.E. 'Mushrooms of the Pacific Northwest' 1979
   - Clinical Trials Registry, Johns Hopkins Universitycreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Psilocybe cubensis
@@ -146,3 +147,10 @@ cognitive enhancement, and preliminary evidence for cluster headache relief.
   disorders; serotonin syndrome risk with MAOIs/SSRIs
 - **Set and setting**: Mindset, environment, and integration support are critical
 - **Dependence**: No known addiction risk or withdrawal syndrome
+
+## See Also
+
+- [[psilocybin-mushroom-potency-and-dosage-guide]]
+
+- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-basics]]

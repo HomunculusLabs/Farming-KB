@@ -21,6 +21,7 @@ sources:
   - "Jefferies, P. et al. (2021). Symphytum as a dynamic accumulator in permaculture systems. Agroecology and Sustainable Food Systems, 45(3), 412-432."
   - "Navarrete, M. et al. (2019). Comfrey (Symphytum spp.) as a green manure and nutrient source in organic agriculture. Organic Agriculture, 9, 261-271."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Symphytum officinale

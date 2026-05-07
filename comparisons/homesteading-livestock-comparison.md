@@ -91,6 +91,8 @@ Start with **chickens** (layers) — the lowest barrier to entry, fastest return
 
 ## See Also
 
+- [[comparison-draft-animal-power-vs-tractor-farming]]
+
 - [[comparison-mealworm-farming-vs-cricket-farming]]
 
 - [[query-what-is-hydroponic-fodder-and-is-it-worth-growing-for-livestock]]

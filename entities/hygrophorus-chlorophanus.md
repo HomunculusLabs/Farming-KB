@@ -135,6 +135,6 @@ forest habitats with established mycorrhizal networks.
 - Hygrophorus-psittacinus
 - Hygrophorus-hypothejus
 - [[mycorrhiza]]
-- [[Picea-abies]]
+- picea-abies
 - Agaricales
 - Hygrophoraceae

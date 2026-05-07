@@ -115,6 +115,8 @@ roots is the easiest method. Hardy to USDA Zone 2.
 
 ## See Also
 
+- [[myrica-pennsylvanica]]
+
 - [[alnus-glutinosa]] — Alder, fellow actinorhizal nitrogen fixer
 - [[alnus-rubra]] — Red alder, Pacific Northwest N-fixing tree
 - [[shepherdia-canadensis]] — Soapberry, N-fixing permaculture shrub

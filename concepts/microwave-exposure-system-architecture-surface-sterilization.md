@@ -123,6 +123,8 @@ coupling are not assured.
 
 ## See Also
 
+- [[microwave-sterilization-system-hardware-architecture]]
+
 - [[microwave-surface-sterilization-technology]]
 - [[microwave-2-45-ghz-water-dipolar-coupling]]
 - [[microwave-sterilizable-access-port]]

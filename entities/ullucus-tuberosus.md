@@ -21,13 +21,14 @@ sources:
   - https://doi.org/10.1007/978-3-319-45126-3_8
   - https://www.bioversityinternational.org/e-library/publications/detail/andean-roots-and-tubers/created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Ullucus tuberosus
 
 **Ulluco**, **ulluku**, **melloco**, **olloc**, **rubas**
 
-*Ullucus tuberosus* is a perennial herbaceous plant in the family [Basellaceae](/entities/basellaceae) native to the Andean highlands of Peru, Bolivia, Ecuador, and Colombia. It is one of the most important traditional root crops of the Andes, cultivated alongside [potato](/entities/solanum-tuberosum), [oca](/entities/oxalis-tuberosa), and [mashua](/entities/tropaeolum-tuberosum) as part of the Andean tuber complex. Ulluco produces small, brightly colored tubers ranging from yellow and orange to magenta, red, and purple, often with contrasting pigmented bands or spots. It is the single most cold-tolerant of all cultivated tuber crops, capable of growing at altitudes up to 4,200 meters where few other crops survive.
+*Ullucus tuberosus* is a perennial herbaceous plant in the family Basellaceae native to the Andean highlands of Peru, Bolivia, Ecuador, and Colombia. It is one of the most important traditional root crops of the Andes, cultivated alongside potato, oca, and mashua as part of the Andean tuber complex. Ulluco produces small, brightly colored tubers ranging from yellow and orange to magenta, red, and purple, often with contrasting pigmented bands or spots. It is the single most cold-tolerant of all cultivated tuber crops, capable of growing at altitudes up to 4,200 meters where few other crops survive.
 
 ## Botanical Description
 
@@ -91,11 +92,11 @@ Small tubers (15–40 g "seed tubers") or tuber pieces are planted at the beginn
 ### Companion Planting
 
 In traditional Andean agriculture, ulluco is intercropped with:
-- [Potato](/entities/solanum-tuberosum) — complementary nutrient requirements
-- [Oca](/entities/oxalis-tuberosa) (*Oxalis tuberosa*) — different root depths, staggered harvest
-- [Mashua](/entities/tropaeolum-tuberosum) (*Tropaeolum tuberosum*) — pest-repellent properties
-- [Quinoa](/entities/chenopodium-quinoa) and [kiwicha](/entities/amaranthus-caudatus) — above-ground grain crops
-- [Tarwi](/entities/lupinus-mutabilis) — nitrogen-fixing lupin
+- Potato — complementary nutrient requirements
+- Oca (*Oxalis tuberosa*) — different root depths, staggered harvest
+- Mashua (*Tropaeolum tuberosum*) — pest-repellent properties
+- Quinoa and kiwicha — above-ground grain crops
+- Tarwi — nitrogen-fixing lupin
 
 This polyculture, called *suyu* or *achacana* locally, produces multiple crops from the same plot, reduces pest pressure, and maximizes land use efficiency on steep terraced hillsides.
 
@@ -128,8 +129,8 @@ The International Potato Center (CIP) in Lima maintains a germplasm collection o
 - [[pachyrhizus-tuberosus]]
 - [[helianthus-tuberosus]]
 
-- [Oxalis tuberosa](/entities/oxalis-tuberosa) — oca, companion Andean tuber
-- [Tropaeolum tuberosum](/entities/tropaeolum-tuberosum) — mashua, companion Andean tuber
-- [Solanum tuberosum](/entities/solanum-tuberosum) — potato, dominant Andean tuber crop
-- [Permaculture](/entities/permaculture) — design framework for polyculture integration
-- [Comfrey](/entities/comfrey-symphytum-officinale) — dynamic accumulator companion for tuber beds
+- Oxalis tuberosa — oca, companion Andean tuber
+- Tropaeolum tuberosum — mashua, companion Andean tuber
+- Solanum tuberosum — potato, dominant Andean tuber crop
+- [[permaculture|Permaculture]] — design framework for polyculture integration
+- [[comfrey-symphytum-officinale|Comfrey]] — dynamic accumulator companion for tuber beds

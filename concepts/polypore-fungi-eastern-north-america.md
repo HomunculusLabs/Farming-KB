@@ -128,6 +128,8 @@ medicinal polypores.
 
 ## See Also
 
+- [[trametes-pubescens]]
+
 - [[wolfiporia-cocos]]
 
 - [[coriolopsis-gallica]]

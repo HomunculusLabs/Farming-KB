@@ -123,6 +123,8 @@ Stuart notes that while many shamans could potentially be far more enlightening 
 
 ## See Also
 
+- [[ayahuasca-tourism-ethnography]]
+
 - [[ayahuasca-botany-and-preparation]]
 
 - [[dimethyltryptamine]]

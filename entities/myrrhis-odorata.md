@@ -122,6 +122,8 @@ The plant requires minimal maintenance once established, making it suitable for 
 
 ## See Also
 
+- [[cedrela-odorata]]
+
 - [[artemisia-dracunculus]]
 - [[anethum-graveolens]]
 - [[levisticum-officinale]]

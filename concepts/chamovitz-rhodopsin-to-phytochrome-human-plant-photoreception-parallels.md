@@ -17,6 +17,7 @@ sources:
   - grahamholmes-what-a-plant-knowsindd.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Rhodopsin to Phytochrome - Parallels Between Human and Plant Photoreception

@@ -127,6 +127,8 @@ habitat restoration projects.
 
 ## See Also
 
+- [[miscanthus-giganteus]]
+
 - [[angelica-sinensis]]
 
 - [[arundo-donax]] — giant reed, another high-yielding bioenergy grass

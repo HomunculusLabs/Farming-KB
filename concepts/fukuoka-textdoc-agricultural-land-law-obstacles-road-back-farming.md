@@ -13,6 +13,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Agricultural Land Law Obstacles and the Road Back to Farming

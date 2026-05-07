@@ -69,6 +69,8 @@ Duration: 8 - 12 h.
 
 ## See Also
 
+- [[proscaline]]
+
 [[escaline-entity]]
 
 [[mescaline-entity]]

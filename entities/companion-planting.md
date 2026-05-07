@@ -141,6 +141,10 @@ Meta-analyses of companion planting research show:
 
 ## See Also
 
+- [[smallanthus-sonchifolius]]
+- [[eucalyptus-globulus]]
+- [[malva-sylvestris]]
+
 - [[inula-helenium]]
 - [[epimedium-sagittatum]]
 - [[monarda-didyma]]

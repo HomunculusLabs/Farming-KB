@@ -125,6 +125,8 @@ Solomon acknowledges the value of beneficial insects but is pragmatic. Creating 
 
 ## See Also
 
+- [[solomon-organic-root-maggot-management]]
+
 - [[organic-pest-and-disease-management]]
 - [[fungal-pest-control]]
 - [[beneficial-insects-cannabis]]

@@ -17,6 +17,7 @@ sources:
   - MJBizDaily. "2024 Cannabis Strain Market Trends."
   - Cannabis Grow Bible. Green Candy Press, 5th Edition.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

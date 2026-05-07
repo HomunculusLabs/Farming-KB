@@ -20,6 +20,7 @@ sources:
   - "California Rare Fruit Growers. 'Banana Fruit Facts.' https://www.crfg.org/pubs/ff/banana.html"created: 2026-05-07
 type: query
 
+created: 2026-05-07
 ---
 
 # How Do I Grow Bananas Successfully in a Subtropical Climate?

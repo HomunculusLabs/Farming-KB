@@ -134,6 +134,8 @@ If you're new to cover crops, start simple: **cereal rye + crimson clover** in t
 
 ## See Also
 
+- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
+
 - [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 
 - [[cover-crops]]

@@ -108,6 +108,8 @@ The broad host range of this species makes it a generalist mycorrhizal partner, 
 
 ## See Also
 
+- [[xerocomus-chrysenteron]]
+
 - [[boletus-edulis]]
 - [[suillus-luteus]]
 - [[leccinum-scabrum]]

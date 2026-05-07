@@ -7,7 +7,7 @@ tags: [cannabis, indoor-growing, flowering]
 sources: []
 ---
 
-1|---
+---
      2|title: [[cannabis-sativa-indoor-cultivation-techniques]] Challenges and Flowering Time Problems
      3|tags: [cannabis-cultivation, [[psychedelic-plants-indoor-growing]], flowering-problems, photoperiod, [[cannabis-genetics-and-breeding]], environmental-stress, sativa]
      4|date: 2026-04-28

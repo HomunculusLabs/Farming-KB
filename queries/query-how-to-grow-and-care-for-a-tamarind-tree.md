@@ -155,6 +155,8 @@ If you don't have room for a full-sized tamarind:
 
 ## See Also
 
+- [[query-how-to-mount-and-care-for-epiphytes-at-home]]
+
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]] — comprehensive cultivation and uses reference
 - [[comparison-tamarind-vs-carob]] — tamarind compared to its Mediterranean analog
 - [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]] — understory companion crops

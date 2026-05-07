@@ -120,6 +120,8 @@ with a distinctive dextrinoid reaction.
 
 ## See Also
 
+- [[xerula-furfuracea]]
+
 - [[agaricus-bisporus]]
 - [[armillaria-mellea]]
 - [[mycelium]]

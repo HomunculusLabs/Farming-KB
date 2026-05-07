@@ -16,6 +16,7 @@ sources:
   - Cookies (2022). "Strain Library: Biscotti." cookies.co.
   - Hazekamp, A., et al. (2016). "Cannabis: from plant to medicine." Frontiers in Plant Science 7: 19.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

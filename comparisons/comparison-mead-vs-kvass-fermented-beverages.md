@@ -20,6 +20,7 @@ sources:
   - "Fermented Beverages in Human History" — Comprehensive Reviews in Food Science and Food Safety, 2019created: 2026-05-07
 type: comparison
 
+created: 2026-05-07
 ---
 
 # Mead vs Kvass

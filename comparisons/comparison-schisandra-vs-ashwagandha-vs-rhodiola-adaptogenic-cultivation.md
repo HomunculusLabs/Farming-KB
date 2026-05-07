@@ -19,6 +19,7 @@ sources:
   - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).created: 2026-05-07
 type: comparison
 
+created: 2026-05-07
 ---
 
 # Schisandra vs. Ashwagandha vs. Rhodiola — Adaptogenic Cultivation

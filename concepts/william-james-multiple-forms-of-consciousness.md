@@ -17,6 +17,7 @@ updated: 2026-04-28
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.mdcreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # William James and the Multiple Forms of Consciousness

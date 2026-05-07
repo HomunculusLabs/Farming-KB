@@ -17,6 +17,7 @@ sources:
   - https://extension.psu.edu/shiitake-mushroom-cultivation-on-logscreated: 2026-05-07
 type: query
 
+created: 2026-05-07
 ---
 
 # How Do I Start a Small-Scale Mushroom Log Cultivation Operation?

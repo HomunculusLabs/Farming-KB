@@ -25,6 +25,7 @@ sources:
   - Nachnani R, Avidan-Reuven T, Russo EB (2021). "Cannabigerol
     (CBG) in clinical trial: A review." Journal of Cannabis Research, 3(1): 31.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Cannabigerol

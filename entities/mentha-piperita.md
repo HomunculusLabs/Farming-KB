@@ -150,8 +150,8 @@ essential oils produced at industrial scale.
 - [[companion-planting]]
 - [[herbal-medicine]]
 - [[permaculture]]
-- [Mentha spicata](/wiki/entities/mentha-spicata) — Spearmint
-- [Lamiaceae](/wiki/entities/lamiaceae) — Mint family
-- [Essential Oils](/wiki/entities/essential-oils)
-- [Companion Planting](/wiki/entities/companion-planting)
-- [Menthol](/wiki/entities/menthol)
+- [[mentha-spicata|Mentha spicata]] — Spearmint
+- Lamiaceae — Mint family
+- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home|Essential Oils]]
+- [[companion-planting|Companion Planting]]
+- [[menthol|Menthol]]

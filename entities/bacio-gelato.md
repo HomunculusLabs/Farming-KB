@@ -25,6 +25,7 @@ sources:
   - AllBud (2024). "Bacio Gelato Strain Review." AllBud.com.
   - Cookies Brand (2023). "Gelato Lineage Genetics Reference." cookies.co.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Bacio Gelato

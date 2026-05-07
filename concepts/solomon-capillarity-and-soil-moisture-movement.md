@@ -7,7 +7,7 @@ tags: [soil-science, water, physics]
 sources: []
 ---
 
-1|---
+---
      2|title: Capillarity and Soil Moisture Movement
      3|tags: [soil-science, water-movement, capillarity, irrigation, gardening, steve-solomon, soil-physics, water-retention]
      4|date: 2026-04-28

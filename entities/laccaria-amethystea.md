@@ -102,6 +102,8 @@ The species has been investigated as a bioindicator of forest health and soil qu
 
 ## See Also
 
+- [[laccaria-ochropurpurea]]
+
 - [[laccaria-bicolor]]
 - [[laccaria-laccata]]
 - [[boletus-rex-veris]]

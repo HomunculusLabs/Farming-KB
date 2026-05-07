@@ -7,6 +7,7 @@ sources:
   - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 930-941, 4274-4285, 4986-4997, 5708-5715, 11159-11162created: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Clove as a CB2-Active Medicinal Botanical

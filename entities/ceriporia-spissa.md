@@ -15,6 +15,7 @@ sources:
   - Bernicchia A, Gorjón SP (2010). "Corticiaceae s.l. (Basidiomycota)." Fungi Flora Italica, 12.
   - Floudas D et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

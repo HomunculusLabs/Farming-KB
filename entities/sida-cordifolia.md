@@ -1,0 +1,136 @@
+---
+title: "Sida cordifolia"
+type: species
+tags:
+  - herbal-plant
+  - malvaceae
+  - ayurveda
+  - ephedrine-alkaloid
+  - ethnomedicine
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Kirtikar, K.R. & Basu, B.D. (1918). "Indian Medicinal Plants." Lalit Mohan Basu, Allahabad.
+  - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
+  - Warrier, P.K. et al. (1994). "Indian Medicinal Plants: A Compendium of 500 Species." Orient Longman.
+  - Atal, C.K. & Kapoor, B.M. (1982). "Cultivation and Utilization of Medicinal Plants." Regional Research Laboratory, Jammu-Tawi.
+  - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
+---
+
+## Overview
+
+**Sida cordifolia** L., commonly known as bala, country mallow, or heart-leaf sida, is a perennial herbaceous plant in the family Malvaceae.
+
+It has been used for over 2,000 years in Ayurvedic medicine as a rasayana (rejuvenative) tonic and treatment for respiratory conditions.
+
+The plant contains ephedrine and pseudoephedrine alkaloids, making it a botanical source of these stimulant compounds.
+
+Sida cordifolia is widely distributed across tropical and subtropical regions of Africa, Asia, and the Americas.
+
+It is classified as an invasive weed in many agricultural systems, though its medicinal properties continue to sustain commercial demand.
+
+## Taxonomy and Morphology
+
+- **Kingdom:** Plantae
+- **Division:** Magnoliophyta
+- **Class:** Magnoliopsida
+- **Order:** Malvales
+- **Family:** Malvaceae
+- **Genus:** Sida
+- **Species:** S. cordifolia
+
+**Authority:** Carl Linnaeus, Species Plantarum (1753).
+
+### Morphology
+
+**Growth habit:** Perennial herb or subshrub, 30–150 cm tall, with erect to spreading branches and a woody base.
+
+**Stems:** Green to brown, cylindrical, pubescent with stellate hairs, often branched from the base.
+
+**Leaves:** Alternate, simple, cordate (heart-shaped) at base, 2.5–7 cm long and 2–5 cm wide, serrate margins.
+
+The upper leaf surface is sparsely pubescent while the lower surface is densely covered with grey-white stellate hairs.
+
+**Flowers:** Solitary or in small axillary clusters, pale yellow to orange-yellow, 1–1.5 cm diameter.
+
+Petals are 5, slightly exceeding the calyx in length, with a prominent central column of fused stamens.
+
+**Fruit:** Schizocarp, 6–8 mm diameter, brown at maturity, breaking into 8–10 single-seeded mericarps.
+
+**Roots:** Thick, branching taproot with lateral roots extending 20–30 cm, yellowish-brown externally.
+
+## Distribution and Habitat
+
+Sida cordifolia is pantropical in distribution, occurring naturally across South and Southeast Asia, tropical Africa, and the Americas.
+
+In India, it is found throughout the country from sea level to 1,500 m elevation, particularly in wastelands and along roadsides.
+
+The species thrives in a wide range of soil types including sandy, loamy, and lateritic soils with moderate moisture retention.
+
+It grows as a common weed in agricultural fields, pastures, disturbed sites, and along fence lines and drainage ditches.
+
+The plant exhibits significant drought tolerance once established and can persist in degraded landscapes.
+
+It is classified as a problematic agricultural weed in cotton, soybean, and sugarcane cropping systems in several countries.
+
+## Bioactive Compounds and Pharmacology
+
+The primary bioactive constituents of Sida cordifolia are sympathomimetic amines and flavonoid glycosides.
+
+**Alkaloids:** Ephedrine (0.08–0.4% dry weight), pseudoephedrine, and trace amounts of vasicine and vasicinone.
+
+The ephedrine content varies significantly with genotype, growing conditions, and plant part, with the highest concentrations in seeds and roots.
+
+**Flavonoids:** Quercetin, kaempferol, and their glycosides, which contribute to anti-inflammatory and antioxidant activity.
+
+**Other constituents:** Phytosterols (β-sitosterol), mucilage (up to 8% in roots), fatty acids (linoleic, palmitic, and oleic acids).
+
+The ephedrine alkaloids act as non-selective adrenergic receptor agonists, producing bronchodilation, vasoconstriction, and CNS stimulation.
+
+Animal studies have demonstrated anti-inflammatory, analgesic, and hepatoprotective activities for the whole-plant extract.
+
+The root extract shows significant immunomodulatory effects in experimental models, supporting its traditional use as a rasayana.
+
+## Traditional and Modern Uses
+
+In Ayurveda, Sida cordifolia is a key ingredient in several classical formulations including Mahanarayan oil, Bala taila, and Dashmoola kwath.
+
+It is classified as a Balya (strength-promoting) herb and is used to treat vata disorders, respiratory conditions, and debility.
+
+Traditional applications include treatment of asthma, bronchitis, fever, urinary disorders, and nervous system weakness.
+
+The root is considered the most medicinally potent part and is used in decoctions, powders, and medicated oils.
+
+In African traditional medicine, the plant is used for wound healing, diarrhea, and as a galactagogue to promote lactation.
+
+In modern herbal medicine, Sida cordifolia supplements have been marketed for weight loss, energy enhancement, and athletic performance.
+
+Regulatory agencies in several countries have restricted or banned Sida cordifolia supplements due to ephedrine-related cardiovascular risks.
+
+The FDA banned dietary supplements containing ephedrine alkaloids in 2004, effectively removing S. cordifolia products from the US market.
+
+## Cultivation
+
+Sida cordifolia is propagated primarily by seeds, which require no special pretreatment and germinate within 7–14 days.
+
+Seeds are sown directly in the field or in nursery beds, with transplantation occurring 4–6 weeks after germination.
+
+The plant prefers well-drained sandy loam soils with a pH of 6.0–8.0 and requires full sun to partial shade.
+
+Root harvest typically occurs 12–18 months after planting, with yields of 2–4 tonnes of dried root per hectare.
+
+The crop requires minimal irrigation once established and is relatively pest-free under field conditions.
+
+Post-harvest processing involves washing, slicing, and shade-drying the roots to preserve alkaloid content.
+
+## See Also
+
+- [[ephedra-sinica]]
+- [[ephedrine]]
+- [[caffeine]]
+- [[withania-somnifera]]
+- [[astragalus-membranaceus]]
+- [[tinospora-cordifolia]]
+- [[andrographis-paniculata]]
+- [[picrorhiza-kurroa]]
+- [[terminalia-chebula]]

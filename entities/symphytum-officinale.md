@@ -17,6 +17,7 @@ sources:
   - Martin, D. (2014). Comfrey: Past, Present and Future. Hybrid Publisher.
   - Lawrence, H. (2018). The Permaculture Handbook. New Society Publishers.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Symphytum officinale (Common Comfrey)

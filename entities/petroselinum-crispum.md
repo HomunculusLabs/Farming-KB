@@ -29,6 +29,7 @@ aliases:
   - Italian Parsley
   - Petroselinum hortensecreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

@@ -130,6 +130,8 @@ The best way to learn syntropic agriculture is to start small, observe closely, 
 
 ## See Also
 
+- [[syntropic-agriculture]]
+
 - [[query-what-is-agroforestry-and-how-can-i-start]]
 
 - [[query-how-to-start-a-syntropic-farm]]

@@ -9,6 +9,7 @@ sources:
   - https://www.growforagecookferment.com/edible-flowers-guide/created: 2026-05-07
 type: query
 
+created: 2026-05-07
 ---
 
 # How Do I Grow Edible Flowers in a Permaculture Garden?

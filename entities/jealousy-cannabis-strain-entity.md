@@ -169,6 +169,8 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 
 ## See Also
 
+- [[mochi]]
+
 - [[jealousy]]
 
 - [[mochi-cannabis-strain]]

@@ -99,6 +99,8 @@ Based on trainee experience in Ubon Ratchathani (2000): average yield of 250 gra
 
 ## See Also
 
+- [[exotic-mushroom-cultivation-guide]]
+
 - [[mushroom-cultivation-disabilities-training-manual-overview]]
 - [[mushroom-cultivation-disabilities-pasteurization-methods]]
 - [[mushroom-cultivation-disabilities-marketing-and-enterprise]]

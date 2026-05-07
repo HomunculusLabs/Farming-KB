@@ -108,7 +108,9 @@ and temperatures rise, irrigation frequency increases again. Understanding
 these seasonal rhythms helps growers avoid both waterlogging and drought
 stress in the protected growing environment.
 
-## Related Concepts
+## Related
+
+- [[solomon-drip-irrigation-limitations-home-garden]] Concepts
 
 - [[coleman-beneficial-insects-and-ecological-pest-control]] — how
   irrigation solved an aphid problem

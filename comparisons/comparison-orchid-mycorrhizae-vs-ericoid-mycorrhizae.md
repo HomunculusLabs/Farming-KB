@@ -136,6 +136,8 @@ Orchid mycorrhizae and ericoid mycorrhizae represent two highly specialized evol
 
 ## See Also
 
+- [[comparison-bromeliad-vs-orchid-care]]
+
 - [[ericoid-and-orchid-mycorrhizae]]
 - [[comparison-amf-vs-ericoid-mycorrhiza]]
 - [[ericoid-mycorrhizae-types-and-ecology]]

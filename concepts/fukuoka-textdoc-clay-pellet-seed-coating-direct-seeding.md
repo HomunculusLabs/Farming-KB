@@ -7,7 +7,7 @@ tags: [natural-farming, fukuoka]
 sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 ---
 
-1|---
+---
      2|title: Clay Pellet Seed Coating Method for Direct Seeding
      3|tags: [seed-treatment, direct-seeding, rice, barley, no-tillage, natural-farming, fukuoka]
      4|date: 2026-04-28

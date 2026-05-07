@@ -14,6 +14,7 @@ sources:
   - "Ott, J. (1976). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History."
   - " Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Amanita muscaria

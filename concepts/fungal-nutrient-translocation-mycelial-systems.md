@@ -106,3 +106,7 @@ isolation, making them particularly important in [[fungal-decomposition-ecology]
 processes.
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungal-resource-translocation-in-mycelial-networks]]
+
+## See Also
+
+- [[gadd-mycelial-nutrient-translocation-imaging]]

@@ -19,6 +19,7 @@ sources:
   - Isaacs, R. et al. (2009). "Maximum pollinator visitation to Phacelia tanacetifolia occurs mid-morning." Journal of Apicultural Research, 48(3), 185–188.
   - Tephart, Y. et al. (2019). "Cover crop impacts on soil health in organic systems." Renewable Agriculture and Food Systems, 34(4), 312–325.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

@@ -18,6 +18,7 @@ sources:
   - USDA NRCS (2024). "Plant Profile: Desmodium canadense (Showy Tick Trefoil)." plants.usda.gov.
   - Rourke, J.P. (1974). "A revision of the genus Desmodium in Canada." Canadian Journal of Botany 52(7): 1583–1613.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

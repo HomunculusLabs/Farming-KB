@@ -18,6 +18,7 @@ sources:
   - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/dimethyltryptamine
   - https://en.wikipedia.org/wiki/N,N-Dimethyltryptaminecreated: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # N,N-Dimethyltryptamine (DMT)

@@ -12,6 +12,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.mdcreated: 2026-05-07
 type: concept
 
+created: 2026-05-07
 ---
 
 # Hyperspace, the Logos, and Consciousness
@@ -88,7 +89,7 @@ In this state, temporal succession is revealed as an artifact of ordinary consci
 
 In this state, all of human history is seen to accelerate toward a culminating moment. McKenna described "History as the shockwave of eschatology," with something at the end of time "casting an enormous shadow over human history, drawing all human becoming toward it."
 
-He pointed to visible acceleration in human development: fire discovered millions of years ago, language perhaps thirty-five thousand years ago, measurement five thousand years ago, Galileo four hundred years ago, and the [[Watson-Crick]] DNA discovery in the twentieth century.
+He pointed to visible acceleration in human development: fire discovered millions of years ago, language perhaps thirty-five thousand years ago, measurement five thousand years ago, Galileo four hundred years ago, and the Watson-Crick DNA discovery in the twentieth century.
 
 ## The Exteriorized Soul
 

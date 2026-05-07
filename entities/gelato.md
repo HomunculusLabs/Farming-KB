@@ -132,6 +132,8 @@ and balanced effects. Multiple phenotype-specific cuts command
 premium prices in the craft cannabis market.
 
 ## See Also
+
+- [[gelato-33]]
 - [[girl-scout-cookies]]
 - Sunset Sherbet
 - [[og-kush]]

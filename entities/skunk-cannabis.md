@@ -15,6 +15,7 @@ sources:
   - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis, 4(7-8), 660-667.
   - Mowatt L et al. (2020). "Terpene profiles of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

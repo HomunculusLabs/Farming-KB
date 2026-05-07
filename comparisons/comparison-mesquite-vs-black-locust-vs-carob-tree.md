@@ -145,8 +145,8 @@ Hard but rarely used commercially. Not a primary reason to grow carob.
 - [[ceratonia-siliqua]]
 - [[food-forest]]
 
-- [Legume Trees and Nitrogen-Fixing Permaculture Species](/wiki/topics/legume-trees-and-nitrogen-fixing-permaculture-species)
-- [Black Locust vs Honey Locust](/wiki/comparisons/comparison-black-locust-vs-honey-locust)
-- [Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)
-- [Desert and Arid Lands Permaculture](/wiki/topics/desert-and-arid-lands-permaculture)
-- [Nut Tree Cultivation for Permaculture Food Forests](/wiki/topics/nut-tree-cultivation-for-permaculture-food-forests)
+- [[permaculture-plants-nitrogen-fixing-trees|Legume Trees and Nitrogen-Fixing Permaculture Species]]
+- [[comparison-black-locust-vs-honey-locust|Black Locust vs Honey Locust]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
+- [[mollison-arid-lands-design-and-erosion-control|Desert and Arid Lands Permaculture]]
+- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest|Nut Tree Cultivation for Permaculture Food Forests]]

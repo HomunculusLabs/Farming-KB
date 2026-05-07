@@ -21,13 +21,14 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ensete-ventricosum
   - https://doi.org/10.1016/j.pbi.2019.01.006created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # Ensete ventricosum
 
 **Enset**, **Ethopian banana**, **false banana**, **enset ventricosum**
 
-*Ensete ventricosum* is a large, herbaceous, monocarpic perennial in the banana family ([Musaceae](/entities/musaceae)) native to the highlands of eastern and southern Africa. It is cultivated as a staple food crop by approximately 20 million people in southern Ethiopia, where it forms the basis of one of the world's most remarkable indigenous agricultural systems. Unlike true bananas (*Musa* spp.), enset is primarily grown for its starchy pseudostem and corm rather than its fruit (which is seedy and inedible). It has been called "the tree against hunger" for its extraordinary food security properties.
+*Ensete ventricosum* is a large, herbaceous, monocarpic perennial in the banana family (Musaceae) native to the highlands of eastern and southern Africa. It is cultivated as a staple food crop by approximately 20 million people in southern Ethiopia, where it forms the basis of one of the world's most remarkable indigenous agricultural systems. Unlike true bananas (*Musa* spp.), enset is primarily grown for its starchy pseudostem and corm rather than its fruit (which is seedy and inedible). It has been called "the tree against hunger" for its extraordinary food security properties.
 
 ## Botanical Description
 
@@ -131,10 +132,14 @@ The Ethiopian Biodiversity Institute maintains the world's largest enset germpla
 
 ## See Also
 
+- [[perennial-vegetables]]
+- [[gaias-garden-perennial-vegetables]]
+- [[mollison-designers-banana-circle-waste-recycling-system]]
+
 - [[gymnopilus-ventricosus]]
 
-- [Colocasia esculenta](/entities/colocasia-esculenta) — taro, complementary tropical root crop
-- [Food Forest](/entities/food-forest-permaculture) — agroforestry design principles
-- [Permaculture](/entities/permaculture) — design framework
-- [Terra preta](/entities/terra-preta) — Amazonian dark earth for soil improvement
-- [Biochar](/entities/biochar) — soil amendment for tropical agroforestry systems
+- [[colocasia-esculenta|Colocasia esculenta]] — taro, complementary tropical root crop
+- [[food-forest-permaculture|Food Forest]] — agroforestry design principles
+- [[permaculture|Permaculture]] — design framework
+- [[terra-preta|Terra preta]] — Amazonian dark earth for soil improvement
+- [[biochar|Biochar]] — soil amendment for tropical agroforestry systems

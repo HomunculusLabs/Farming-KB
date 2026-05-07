@@ -17,6 +17,7 @@ sources:
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264–355."
   - "Passie, T. et al. (2008). \"The Pharmacology of Lysergic Acid Diethylamide.\" CNS Neuroscience & Therapeutics, 14(4), 295–310."created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 ## Overview

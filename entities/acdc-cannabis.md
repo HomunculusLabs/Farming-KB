@@ -20,6 +20,7 @@ sources:
   - https://www.frontiersin.org/articles/10.3389/fphar.2018.00889/full
   - https://www.royalqueenseeds.com/blog-the-top-10-cbd-strains-n108created: 2026-05-07
 
+created: 2026-05-07
 ---
 
 # ACDC

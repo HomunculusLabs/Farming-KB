@@ -101,6 +101,8 @@ The compound can be synthesized from piperonal, isosafrole, or safrole. The unde
 
 ## Related
 
+- [[mda]]
+
 - [[mdma-serotonergic-neurotoxicity]] Compounds
 
 - mda-entity|MDA — N-demethylated parent, more psychedelic

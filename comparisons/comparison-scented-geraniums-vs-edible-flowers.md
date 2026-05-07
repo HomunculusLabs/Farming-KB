@@ -9,6 +9,7 @@ sources:
   - https://extension.oregonstate.edu/news/edible-flowerscreated: 2026-05-07
 type: comparison
 
+created: 2026-05-07
 ---
 
 # Scented Geraniums vs Edible Flowers

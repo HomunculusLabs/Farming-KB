@@ -114,6 +114,8 @@ As a prodrug of [[psilocin]], 4-AcO-DMT exhibits tolerance and cross-tolerance p
 
 ## See Also
 
+- [[4-acetoxy-dmt]]
+
 - [[psilocin]] — the active metabolite of 4-AcO-DMT
 - [[psilocybin]] — the natural phosphorylated analog
 - [[dimethyltryptamine]] — the unmethylated parent compound

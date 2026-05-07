@@ -7,7 +7,7 @@ tags: [natural-farming, fukuoka]
 sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 ---
 
-1|---
+---
      2|title: Desert Rainfall Vegetation Cycle Nature Cannot Be Dissected
      3|tags: [desertification, ecology, vegetation, rainfall, philosophy, natural-farming, fukuoka]
      4|date: 2026-04-28
