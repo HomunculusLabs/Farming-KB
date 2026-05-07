@@ -123,4 +123,6 @@ The time and attention required to produce a small
 quantity of first-class spawn are worth more than the
 cost of the spawn at the seed store.
 ## See Also
+
+- [[victorian-mushroom-spawn-types]]
 - [[falconer-steeped-spawn-and-transplanting]]

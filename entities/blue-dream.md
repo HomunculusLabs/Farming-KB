@@ -141,8 +141,12 @@ The strain has been referenced extensively in popular music, film, and televisio
 
 ## See Also
 
-- [[blueberry]] — indica parent strain
-- [[haze]] — sativa parent lineage
+- [[cannabis-hindu-kush-strain-description-clarke]]
+- [[cannabis-terpene-profiles]]
+- [[cannabis-phenotype-and-genotype-guide]]
+
+- blueberry — indica parent strain
+- haze — sativa parent lineage
 - [[myrcene]] — primary terpene
 - [[cannabis-terpene-entourage-effect]] — how terpenes modulate cannabinoid effects
-- [[thc]] — primary psychoactive cannabinoid
+- thc — primary psychoactive cannabinoid

@@ -142,6 +142,8 @@ It is commonly encountered online despite legal restrictions.
 
 ## See Also
 
+- [[pcp]]
+
 - [[ketamine]]
 - [[deschloroketamine]]
 - [[methoxetamine]]

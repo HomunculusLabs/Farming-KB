@@ -134,6 +134,8 @@ that are costly in both time and materials.
 
 ## See Also
 
+- [[sorghum-seed-spawn-production]]
+
 - [[mushworld-oyster-spawn-production-guide]]
 
 - [[mushroom-spawn-production-grain-inoculation]]

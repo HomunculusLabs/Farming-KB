@@ -139,3 +139,9 @@ Sorghum offers several advantages as a grain spawn substrate:
 ## Data Collection
 
 The FAO manual emphasizes the importance of observing and collecting data throughout the spawn production process. Notes should include dates, contamination rates, colonization speed, and any anomalies observed. This systematic record-keeping enables trainees to draw conclusions about their technique and make improvements over time.
+
+## See Also
+
+- [[oyster-mushroom-spawn-production]]
+- [[mushroom-substrates]]
+- [[grain-spawn-preparation]]

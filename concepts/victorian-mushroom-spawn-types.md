@@ -128,3 +128,9 @@ The spawn trade was characterized by secrecy. Market growers zealously guarded t
 ## Historical Significance
 
 The Victorian spawn types represent an important transitional period in mushroom cultivation, between the entirely empirical methods of earlier centuries and the scientific pure-culture spawn that would emerge in the early 20th century. The reliance on natural spawn and empirically manufactured bricks and flakes would soon be superseded by laboratory-produced pure culture spawn, but the basic principles of spawn selection, storage, and handling established during this era remained relevant to mushroom cultivation.
+
+## See Also
+
+- [[falconer-mushroom-spawn-types-and-merits]]
+- [[grain-spawn-preparation]]
+- [[mushroom-cultivation-basics]]

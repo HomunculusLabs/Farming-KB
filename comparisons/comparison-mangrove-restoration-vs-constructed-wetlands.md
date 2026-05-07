@@ -122,6 +122,8 @@ See also: [[singh-constructed-wetlands-fungal-wastewater-treatment]] | [[dighton
 
 ## See Also
 
+- [[comparison-constructed-wetlands-vs-bioswales]]
+
 - [[comparison-perlite-vs-vermiculite]]
 - [[constructed-wetlands-wastewater-treatment]]
 - [[comparison-greywater-vs-constructed-wetland]]

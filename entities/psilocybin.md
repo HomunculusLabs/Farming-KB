@@ -178,6 +178,6 @@ Psilocybin and psilocin are produced by over 200 species of fungi across multipl
 - [[dm |DMT]] — structural relative
 - [[lsd]] — comparative psychedelic pharmacology
 - [[5-HT2A-receptor]] — primary molecular target
-- [[psychedelic-assisted-psychotherapy]] — clinical framework
-- [[neuroplasticity]] — mechanism of therapeutic action
+- psychedelic assisted psychotherapy — clinical framework
+- neuroplasticity — mechanism of therapeutic action
 - [[psilocybe-cubensis]] — most common source species

@@ -118,6 +118,8 @@ hyperprolactinemia.
 
 ## See Also
 
+- [[poronia-punctata]]
+
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
 - [[biodiversity-fungi-plant-pathogens]]
 - [[endophytic-fungi-living-inside-plants]]

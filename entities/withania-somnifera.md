@@ -169,6 +169,6 @@ Ashwagandha's most well-documented effect is its reduction of cortisol and subje
 
 - [[rhodiola-rosea]] — comparative adaptogen
 - [[panax-ginseng]] — "Asian ginseng" comparison
-- [[withanolides]] — the steroidal lactone class
-- [[adaptogens]] — concept and mechanisms
+- withanolides — the steroidal lactone class
+- adaptogens — concept and mechanisms
 - [[turmeric]] — another heavily researched Ayurvedic herb

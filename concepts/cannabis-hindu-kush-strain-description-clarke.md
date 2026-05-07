@@ -91,6 +91,10 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 ## See Also
 
+- [[kalapuya]]
+
+- [[hindu-kush]]
+
 - [[jedi-kush]]
 
 - [[master-kush]]

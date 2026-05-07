@@ -110,6 +110,8 @@ Can be confused with non-psychoactive *Psilocybe* species and potentially toxic 
 
 ## See Also
 
+- [[psilocybe-tampensis]]
+
 - [[psilocybe-cubensis]] — The most widely cultivated psilocybian mushroom
 - [[psilocybe-semilanceata]] — Liberty cap, the most common wild psilocybian species in Europe
 - [[psilocybe-cyanescens]] — Wavy-capped psilocybe, a potent temperate species

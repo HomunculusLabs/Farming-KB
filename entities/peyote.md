@@ -127,3 +127,9 @@ Wild peyote populations are declining due to:
 - **Slow growth rates**: Harvested populations may take decades to recover
 
 *Peyote* is classified as **Vulnerable** on the IUCN Red List. Conservation efforts include CITES Appendix II listing and Mexican federal protection under NOM-059-SEMARNAT-2010.
+
+## See Also
+
+- [[mckenna-food-gods-ergot-kykeon-eleusinian]]
+- [[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
+- [[mescaline]]

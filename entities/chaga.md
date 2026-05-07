@@ -130,3 +130,9 @@ Wild chaga populations face increasing pressure from commercial harvest. Key sus
 - **Host tree mortality**: Removing entire conks accelerates tree death; responsible harvesters never harvest from trees under 15 cm DBH
 - **Cultivation**: *Inonotus obliquus* can be cultivated on birch substrates, though cultivated chaga differs in chemical profile from wild-harvested material, particularly in betulin-derived triterpenoid content
 - **Adulteration**: Products labeled "chaga" are sometimes adulterated with other dark fungal material or bulked with ground birch bark
+
+## See Also
+
+- [[chaga-inonotus-obliquus-medicinal-profile]]
+- [[medicinal-mushroom-extraction-preparation]]
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

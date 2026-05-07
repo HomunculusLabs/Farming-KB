@@ -136,6 +136,8 @@ every case.
 
 ## See Also
 
+- [[falconer-brick-spawn-manufacturing-and-quality]]
+
 - [[spawn-run-and-colonization]]
 
 - [[falconer-mushroom-spawn-types-and-merits]]

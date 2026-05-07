@@ -118,3 +118,9 @@ It is worth noting that Kwashi and Galanga are separated by vast taxonomic and g
 These minor psychoactive plants illustrate several important themes. They demonstrate that psychoactive plant use is far more widespread than commonly appreciated, extending beyond well-known hallucinogens to include many obscure local plants.
 
 They highlight the chemical complexity of plant pharmacology, where traditional knowledge may precede scientific identification by decades or centuries. They underscore the urgency of ethnobotanical documentation, as traditional knowledge of such plants is vulnerable to cultural disruption and environmental change. Both Kwashi and Galanga represent promising candidates for future phytochemical investigation that could illuminate novel psychoactive compounds or pharmacological mechanisms.
+
+## See Also
+
+- [[mckenna-food-gods-ergot-kykeon-eleusinian]]
+- [[plants-of-the-gods-conocybe-psychoactive-mushrooms]]
+- [[entheogen-culture]]

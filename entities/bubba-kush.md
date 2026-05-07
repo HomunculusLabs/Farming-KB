@@ -135,6 +135,8 @@ spasms, anxiety reduction (low-moderate doses), appetite stimulation, stress rel
 
 ## See Also
 
+- [[katsu-bubba]]
+
 - [[kush-mints]]
 
 - [[cannabis-for-chronic-pain]]

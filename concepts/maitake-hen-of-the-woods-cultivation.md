@@ -103,7 +103,9 @@ Approximately 27% protein (dry weight). Vitamin content: B1 (1.5 mg%), B2 (1.6 m
 
 Yield: 1/2 to 2 lbs mushroom per 5-7 lbs of sterilized, enriched hardwood sawdust. Harvest when leaflets fully extend and flesh at the base is still firm. Over-watering quickly causes fruitbodies to abort. Mushrooms wrapped in rice paper and refrigerated have extended shelf life up to two weeks at 35 F. In 1992 Japan, dried Maitake fetched $600-1,200 per dry pound on the medicinal mushroom market. The flesh is thick and dense at the stem base (better sliced), while upper petal-like caps are better chopped. Can be baked and stuffed with shrimp, sliced almonds, and cheese.
 
-## Related Topics
+## Related
+
+- [[chicken-of-the-woods]] Topics
 - [[mushroom-substrates]] for sawdust formulations
 - [[medicinal-mushroom-extraction-preparation]] for D-fraction extraction
 - [[mushroom-cultivation-fruiting-chambers]] for environmental triggers

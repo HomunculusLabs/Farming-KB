@@ -140,3 +140,10 @@ GRSP concentrations are used as a bioindicator of AMF activity and soil health i
 - **Phosphorus saturation**: Long-term application of high-P fertilizers can permanently reduce a soil's mycorrhizal inoculum potential
 - **Climate change**: Altered precipitation patterns and warming temperatures may disrupt the timing of plant-fungal phenological synchrony
 - **Monoculture agriculture**: Reduces mycorrhizal diversity to 10–20% of levels found in natural ecosystems; cover cropping can partially restore diversity
+
+## See Also
+
+- [[mycorrhizal-carbon-sequestration]]
+
+- [[ericoid-and-orchid-mycorrhizae]]
+- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]

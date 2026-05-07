@@ -144,6 +144,8 @@ in nature.
 
 ## See Also
 
+- [[cho-zero-emission-livestock-natural-farming]]
+
 - [[chos-global-natural-farming-livestock-applications]]
 - [[knf-livestock-chicken-house-natural-farming]]
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]

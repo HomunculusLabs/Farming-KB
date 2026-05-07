@@ -90,7 +90,9 @@ The dynamic accumulator concept, while practically useful, has been critiqued by
 
 The academic community prefers the term "bioaccumulator" for plants that concentrate nutrients above soil background levels, and reserves "hyperaccumulator" for the extreme metal concentrations seen in species growing on contaminated or metalliferous soils. The permaculture use of "dynamic accumulator" thus occupies an informal but practically meaningful middle ground.
 
-## Related Concepts
+## Related
+
+- [[dandelion]] Concepts
 
 - [[phytoremediation]] for environmental cleanup applications
 - [[hyperaccumulator-plants]] for extreme metal concentration

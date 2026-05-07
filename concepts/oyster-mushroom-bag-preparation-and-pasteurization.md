@@ -135,3 +135,9 @@ Different Pleurotus species have varying substrate preferences and temperature r
 ## Spent Substrate Recycling
 
 After harvest, spent substrate retains significant nutritional value. Studies show increased crude protein content compared with raw straw. It can be used as animal feed for poultry and ruminants, as compost for field application, or as substrate for growing other mushroom species. Converting agricultural waste into mushrooms, then into feed or soil amendment, represents a zero-waste approach that is a primary justification for promoting oyster mushroom cultivation in developing countries.
+
+## See Also
+
+- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
+- [[oyster-mushroom-spawn-production]]
+- [[contamination-identification-prevention]]

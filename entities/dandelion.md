@@ -142,3 +142,10 @@ In permaculture design, dandelion is recognized as a **dynamic accumulator** —
 - **Pest management**: The latex contains compounds toxic to some insect pests; interplanting with vulnerable crops provides mild pest deterrence
 - **Soil indicator**: Dandelion abundance indicates compacted, calcium-rich, or slightly acidic soils
 - **Inulin crop**: Root cultivation for prebiotic inulin production in food forests and agroforestry systems
+
+## See Also
+
+- [[permaculture-dandelion]]
+
+- [[dynamic-nutrient-accumulators]]
+- [[root-foraging-behavior]]

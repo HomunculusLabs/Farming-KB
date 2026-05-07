@@ -123,6 +123,6 @@ Analogues including TCP (thienylcyclohexylpiperidine) and PCE
 - [[muscimol]]
 - [[salvinorin-a]]
 - [[psilocybin]]
-- [[opium]]
+- opium
 - [[papaver-somniferum]]
 - [[ibotenic-acid]]

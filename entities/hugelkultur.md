@@ -161,8 +161,8 @@ While formal academic research on hügelkultur specifically is limited, the unde
 
 - [[sepp-holzer]] — popularizer of hügelkultur
 - [[biochar]] — complementary soil amendment for carbon sequestration
-- [[swales]] — water-harvesting earthworks often paired with hügel beds
+- swales — water-harvesting earthworks often paired with hügel beds
 - [[companion-planting]] — intercropping strategies for hügel beds
 - [[mycoremediation]] — fungal decomposition in soil systems
-- [[keyhole-garden]] — related intensive gardening technique
+- [[permaculture-designers-manual-keyhole-garden]] — related intensive gardening technique
 - [[no-till-agriculture]] — broader context of soil-conserving practices

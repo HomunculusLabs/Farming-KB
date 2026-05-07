@@ -142,3 +142,9 @@ The ceremonial aspect is particularly important in cultures where disability car
 ### Continuous Support
 
 Graduates are encouraged to maintain contact with the training center and with each other, forming networks for ongoing knowledge exchange and mutual support. Waste management and recycling are integrated throughout training at each step, reinforcing the self-reliance philosophy by demonstrating zero-waste cultivation.
+
+## See Also
+
+- [[mushroom-cultivation-for-disabilities-training-program]]
+- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
+- [[mushroom-cultivation-basics]]

@@ -98,7 +98,9 @@ Sulfur deficiency is increasingly common as air quality improves. Brassicas (cab
 | **Abundance** | Very high | Very high | Moderate |
 | **Common source** | Limestone, chalk | Dolomite | Gypsum, organic matter |
 
-## Related Topics
+## Related
+
+- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] Topics
 
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]] -- the primary macronutrients
 - [[plant-micronutrients-and-their-essential-functions]] -- the trace elements

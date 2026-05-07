@@ -111,7 +111,9 @@ health, biodiversity, and biological balance, "will one day be
 recognized as far more scientific" than the symptomatic treatments of
 conventional agriculture.
 
-## Related Concepts
+## Related
+
+- [[falconer-slug-and-wood-lice-pest-control]] Concepts
 
 - [[coleman-pest-management]] — broader pest management strategies
 - [[coleman-insects-diseases]] — specific insect and disease profiles

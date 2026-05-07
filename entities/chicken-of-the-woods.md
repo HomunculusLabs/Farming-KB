@@ -157,3 +157,10 @@ In permaculture systems, *Laetiporus* can be managed as a dual-purpose element:
 - **Yield**: Variable; 0.5–2 kg per log over a 3–5 year productive lifespan
 
 Commercial cultivation remains limited compared to shiitake and oyster mushrooms due to slower colonization and less reliable fruiting, but interest is growing among specialty mushroom growers and permaculture practitioners.
+
+## See Also
+
+- [[edible-wild-mushroom-guide]]
+
+- [[maitake-hen-of-the-woods-cultivation]]
+- [[mushroom-foraging-safety]]

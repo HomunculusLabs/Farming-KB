@@ -127,5 +127,7 @@ Several small brown mushrooms could be confused with G. fibula:
 
 ## Related
 
+- [[gerronema-strombodes]]
+
 - [[neurotropic-fungi-in-south-america]]
 - [[neurotropic-fungi-biogeographic-patterns]]

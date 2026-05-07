@@ -148,6 +148,8 @@ The fermentation principles remain applicable, particularly in tropical and subt
 
 ## See Also
 
+- [[oyster-mushroom-bag-preparation-and-pasteurization]]
+
 - [[oyster-mushroom-non-sterilized-substrate-cultivation]]
 - [[oyster-mushroom-sunflower-seed-hull-substrate]]
 

@@ -116,6 +116,8 @@ build upon this foundation.
 
 ## See Also
 
+- [[cho-seed-and-seedling-vitality-restoration]]
+
 -   [[knf-seed-treatment-and-soil-foundation]]
 -   [[jadam-seed-treatment-and-nursery-management]]
 -   [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

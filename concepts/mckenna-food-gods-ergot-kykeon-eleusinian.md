@@ -120,6 +120,8 @@ historical evidence of the sacrament's tangible nature.
 
 ## See Also
 
+- [[peyote]]
+
 - [[eleusinian-mysteries]]
 - [[mckenna-food-gods-graves-psilocybin-eleusis]]
 - [[mckenna-food-gods-fall-consciousness]]

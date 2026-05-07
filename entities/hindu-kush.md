@@ -130,7 +130,7 @@ levels.
 - [[master-kush]]
 - [[cannabis-indica]]
 - [[cannabis-sativa]]
-- [[hashish]]
-- [[charas]]
-- [[kush]]
-- [[thc]]
+- hashish
+- charas
+- kush
+- thc

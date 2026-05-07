@@ -138,7 +138,7 @@ prescription control, while standalone DXM remains OTC.
 
 - [[ketamine]]
 - [[dextromethorphan]]
-- [[opium]]
+- opium
 - [[papaver-somniferum]]
 - [[muscimol]]
 - [[ibotenic-acid]]

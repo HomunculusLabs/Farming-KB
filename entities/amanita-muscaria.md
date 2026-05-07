@@ -141,5 +141,5 @@ It should **not** be confused with lethal *Amanita* species (*A. phalloides*, *A
 
 - [[muscimol]] — primary psychoactive compound
 - [[psilocybin]] — comparison of GABAergic vs. serotonergic mushroom pharmacology
-- [[ergot]] — another fungus with profound cultural and pharmacological significance
+- ergot — another fungus with profound cultural and pharmacological significance
 - [[mycorrhizal-fungi]] — the ecological role of ectomycorrhizal partnerships

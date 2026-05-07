@@ -94,6 +94,8 @@ Chaga, also known as clinker polypore, cinder conk, tschaga (Russian), or kabano
 
 ## Related
 
+- [[chaga]]
+
 - [[inonotus-obliquus]] Topics
 
 - [[antiviral-properties-of-mushrooms]]

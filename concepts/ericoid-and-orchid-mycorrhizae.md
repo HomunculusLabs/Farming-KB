@@ -95,6 +95,10 @@ Orchid-fungal specificity varies widely:
 
 ## Related
 
+- [[mycorrhizae]]
+
+- [[lycopodium-clavatum]]
+
 - [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] Concepts
 
 - [[arbuscular-mycorrhizal-fungi]] -- the most common mycorrhizal type

@@ -177,6 +177,8 @@ Every plant constantly produces and responds to phytohormones. Many organic prac
 
 ## See Also
 
+- [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
+
 - [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
 
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

@@ -120,6 +120,8 @@ establishment.
 
 ## See Also
 
+- [[cho-plant-growth-stage-treatment-protocols]]
+
 -   [[knf-nutritive-cycle-theory]]
 -   [[cho-natural-farming-inputs-overview]]
 -   [[knf-seed-treatment-and-soil-foundation]]

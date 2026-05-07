@@ -23,13 +23,13 @@ sources:
 
 ## Short Answer
 
-PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and induced systemic resistance. For growers, PGPR represent a practical tool to reduce synthetic fertilizer and pesticide inputs while building healthier [[soil-microbiology|soil biology]].
+PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and induced systemic resistance. For growers, PGPR represent a practical tool to reduce synthetic fertilizer and pesticide inputs while building healthier [[soil-microbiology-basics|soil biology]].
 
 Think of them as a living soil amendment that works in partnership with your plants — feeding on [[root-exudates|root exudates]] and returning the favor with nutrients, growth hormones, and disease protection.
 
 ## What Does PGPR Stand For?
 
-PGPR stands for **Plant Growth-Promoting Rhizobacteria**. The term was coined by Kloepper and Schroth in 1978 when they discovered that certain bacteria colonizing the [[the-rhizosphere-ecology-and-plant-microbe-interactions|rhizosphere]] (the thin layer of soil directly influenced by plant roots) could significantly enhance plant growth compared to sterile or non-colonized controls. These bacteria live in or around root surfaces, feed on root exudates (sugars, amino acids, organic acids released by roots), and in return provide the plant with nutrients, growth stimulation, and disease protection.
+PGPR stands for **Plant Growth-Promoting Rhizobacteria**. The term was coined by Kloepper and Schroth in 1978 when they discovered that certain bacteria colonizing the rhizosphere (the thin layer of soil directly influenced by plant roots) could significantly enhance plant growth compared to sterile or non-colonized controls. These bacteria live in or around root surfaces, feed on root exudates (sugars, amino acids, organic acids released by roots), and in return provide the plant with nutrients, growth stimulation, and disease protection.
 
 The original definition was broad: any rhizosphere bacterium that, when inoculated onto seeds or roots, promotes plant growth. Over the decades, researchers have refined the classification to distinguish between **direct** mechanisms (nutrient supply, hormone production) and **indirect** mechanisms (biocontrol, stress tolerance). Today, PGPR are one of the most actively researched areas in sustainable agriculture, with thousands of peer-reviewed studies and a growing number of commercial products available to farmers and gardeners.
 
@@ -41,9 +41,9 @@ PGPR work through four broad categories of mechanisms. A single strain may emplo
 
 PGPR make essential nutrients available to plants that would otherwise be inaccessible in the soil:
 
-- **Nitrogen fixation:** Free-living bacteria like *Azotobacter* and *Azospirillum* convert atmospheric N₂ into ammonium (NH₄⁺) that plants can absorb. This complements the work of symbiotic [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation|nitrogen-fixing bacteria]] in legume nodules. Free-living N₂ fixers typically supply 10–50 kg N/ha/year depending on soil and climate conditions.
+- **Nitrogen fixation:** Free-living bacteria like *Azotobacter* and *Azospirillum* convert atmospheric N₂ into ammonium (NH₄⁺) that plants can absorb. This complements the work of symbiotic [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|nitrogen-fixing bacteria]] in legume nodules. Free-living N₂ fixers typically supply 10–50 kg N/ha/year depending on soil and climate conditions.
 
-- **Phosphate solubilization:** Many soils contain abundant phosphorus locked in insoluble mineral forms (tricalcium phosphate, rock phosphate). Genera like *Bacillus* and *Pseudomonas* secrete organic acids (gluconic, citric, oxalic) that dissolve these compounds, releasing plant-available phosphate. This is particularly valuable because 75–90% of applied phosphorus fertilizer can become immobilized in soil. See also [[phosphate-solubilization|phosphate solubilization]].
+- **Phosphate solubilization:** Many soils contain abundant phosphorus locked in insoluble mineral forms (tricalcium phosphate, rock phosphate). Genera like *Bacillus* and *Pseudomonas* secrete organic acids (gluconic, citric, oxalic) that dissolve these compounds, releasing plant-available phosphate. This is particularly valuable because 75–90% of applied phosphorus fertilizer can become immobilized in soil. See also [[fungal-organic-acid-metal-solubilization|phosphate solubilization]].
 
 - **Potassium solubilization:** Some PGPR solubilize K-bearing minerals (micas, feldspars) through acid production and chelation, mobilizing potassium that would otherwise remain bound in soil particles.
 
@@ -61,7 +61,7 @@ Many PGPR synthesize phytohormones that directly regulate plant growth and devel
 
 ### Biocontrol — Suppressing Pathogens
 
-PGPR protect plants from soil-borne diseases through multiple strategies that align well with [[integrated-pest-management-ipm|IPM]] approaches:
+PGPR protect plants from soil-borne diseases through multiple strategies that align well with [[integrated-pest-management|IPM]] approaches:
 
 - **Antibiotic production:** Compounds like 2,4-diacetylphloroglucinol (DAPG), pyoluteorin, phenazines, and pyrrolnitrin are toxic to fungal pathogens such as *Fusarium*, *Rhizoctonia*, and *Pythium*. Fluorescent *Pseudomonas* strains are especially prolific antibiotic producers.
 
@@ -96,7 +96,7 @@ Many PGPR are **multi-mechanistic** — a single strain may fix nitrogen *and* p
 
 ## How Do I Use PGPR in My Garden or Farm?
 
-PGPR are applied as [[microbial-inoculants-and-biological-soil-amendments|microbial inoculants]]. Here are the main application methods:
+PGPR are applied as [[biofertilizers-and-soil-inoculants|microbial inoculants]]. Here are the main application methods:
 
 ### Seed Coating
 
@@ -108,7 +108,7 @@ Dilute the inoculant in water (follow product label rates — typically 10⁸–
 
 ### Compost Tea Inoculation
 
-Add PGPR to aerated [[compost-tea-and-biological-extracts|compost tea]] as a brew-time inoculant. The tea's nutrient broth can multiply the bacteria before application. Apply as a soil drench or foliar spray. Avoid adding PGPR to tea that contains antimicrobial ingredients (like molasses at very high concentrations — it can crash the brew).
+Add PGPR to aerated [[ingham-field-guide-compost-tea-ingredients-and-recipes|compost tea]] as a brew-time inoculant. The tea's nutrient broth can multiply the bacteria before application. Apply as a soil drench or foliar spray. Avoid adding PGPR to tea that contains antimicrobial ingredients (like molasses at very high concentrations — it can crash the brew).
 
 ### Commercial Biofertilizer Products
 
@@ -117,7 +117,7 @@ Many companies sell PGPR-based products as granules, liquids, peat-based carrier
 ### Practical Tips
 
 - **Apply early:** PGPR need time to colonize roots before the plant faces stress. Apply at seeding or transplanting — not mid-season as a rescue treatment.
-- **Mind the microbiome:** PGPR must compete with the existing soil community. Adding organic matter (compost, [[biochar-in-regenerative-agriculture|biochar]]) can improve survival and establishment.
+- **Mind the microbiome:** PGPR must compete with the existing soil community. Adding organic matter (compost, [[biochar-in-agriculture|biochar]]) can improve survival and establishment.
 - **Avoid bactericides:** Copper-based fungicides, hydrogen peroxide, and some synthetic chemicals can kill PGPR. Check compatibility before tank-mixing.
 - **Storage matters:** Most inoculants have a shelf life of 6–12 months. Store cool and dry. Freeze-dried formulations last longer than liquids.
 - **Reapply as needed:** PGPR populations may decline over a growing season, especially in tilled soils. Reapplication at key growth stages (flowering, fruit set) can extend benefits.
@@ -136,14 +136,14 @@ PGPR are powerful but not a silver bullet. Key limitations to understand:
 - **Competition with native microbiome:** In soils with a dense, established microbial community, introduced PGPR may struggle to establish — paradoxically, the soils that need PGPR least may be the hardest to inoculate.
 - **Shelf life and viability:** Many inoculants lose viability during storage and transport. Liquid formulations have shorter shelf lives than lyophilized powders. Check CFU counts at time of use.
 - **Variable field results:** Greenhouse trials often show dramatic responses; field results can be inconsistent. Expect incremental improvements (10–30% yield gains under good conditions) rather than transformations.
-- **Not a substitute for good soil management:** PGPR work best as part of a holistic approach. See [[biochar-in-regenerative-agriculture|biochar]] and [[compost-tea-and-biological-extracts|compost tea]] as complementary practices.
+- **Not a substitute for good soil management:** PGPR work best as part of a holistic approach. See [[biochar-in-agriculture|biochar]] and [[ingham-field-guide-compost-tea-ingredients-and-recipes|compost tea]] as complementary practices.
 
 ## See Also
 
-- [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
-- [[the-rhizosphere-ecology-and-plant-microbe-interactions|The Rhizosphere: Ecology and Plant-Microbe Interactions]]
-- [[microbial-inoculants-and-biological-soil-amendments|Microbial Inoculants and Biological Soil Amendments]]
-- [[compost-tea-and-biological-extracts|Compost Tea and Biological Extracts]]
-- [[integrated-pest-management-ipm|Integrated Pest Management (IPM)]]
-- [[biochar-in-regenerative-agriculture|Biochar in Regenerative Agriculture]]
-- [[beneficial-insects-and-biological-pest-control|Beneficial Insects and Biological Pest Control]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
+- The Rhizosphere: Ecology and Plant-Microbe Interactions
+- [[biofertilizers-and-soil-inoculants|Microbial Inoculants and Biological Soil Amendments]]
+- [[ingham-field-guide-compost-tea-ingredients-and-recipes|Compost Tea and Biological Extracts]]
+- [[integrated-pest-management|Integrated Pest Management (IPM)]]
+- [[biochar-in-agriculture|Biochar in Regenerative Agriculture]]
+- [[hamilton-beneficial-insects-and-biological-pest-control|Beneficial Insects and Biological Pest Control]]

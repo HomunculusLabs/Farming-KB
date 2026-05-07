@@ -138,3 +138,7 @@ new discoveries in psychoactive mycology continue to emerge. The study
 of genera like *Conocybe* expands our understanding of the full
 spectrum of [[plants-of-the-gods-phytochemistry-sacred-plants]] and the cultural contexts in which these organisms
 have been revered as sacred.
+
+## See Also
+
+- [[kwashi-and-galanga-minor-psychoactive-plants]]

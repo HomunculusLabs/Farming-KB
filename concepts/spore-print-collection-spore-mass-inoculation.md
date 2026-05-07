@@ -131,8 +131,7 @@ density.
 
 Outdoor cultivators must hone their mushroom identification skills thoroughly.
 The most critical safety concern is avoiding members of the
-[[galerina-autumnalis|Galerina autumnalis]] and [[pholiotina-filaris-profile|Pholiotina
-filaris]] groups, both of which contain deadly amatoxins. These species can
+[[galerina-autumnalis|Galerina autumnalis]] and [[pholiotina-filaris-profile|Pholiotinafilaris]] groups, both of which contain deadly amatoxins. These species can
 resemble edible mushrooms and may colonize the same outdoor substrates as
 intended gourmet species. Cultivators must also be able to distinguish these
 dangerous species from Psilocybe species and other
