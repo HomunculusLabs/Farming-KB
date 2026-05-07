@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2527 pages**
+**2528 pages**
 
 ## #
 
@@ -1448,6 +1448,7 @@
 - [[lysergamide]]
 - [[lysergic-acid]]
 - [[lysergic-acid-amide]]
+- [[lysergic-acid-diethylamide]]
 - [[lysergic-acid-hydroxyethylamide]]
 - [[lysergol]]
 
