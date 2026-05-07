@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1374 pages**
+**1375 pages**
 
 ## #
 
@@ -279,6 +279,7 @@
 - [[european-mushroom-poisoning-history]]
 - [[everard-brande-1799-european-mushroom-discovery]]
 - [[exotic-cultivation-flush-management-and-casing-hygiene]]
+- [[exotic-mushroom-cultivation-guide]]
 
 ## F
 
@@ -1200,6 +1201,7 @@
 - [[psilocybin-mushroom-dosage-and-acute-effects]]
 - [[psilocybin-mushroom-drying-and-storage-methods]]
 - [[psilocybin-mushroom-evolution]]
+- [[psilocybin-mushroom-extraterrestrial-hypothesis]]
 - [[psilocybin-mushroom-field-collection-techniques]]
 - [[psilocybin-mushroom-global-distribution]]
 - [[psilocybin-mushroom-habitat-and-ecology]]
@@ -1236,7 +1238,6 @@
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]
 - [[psilocybin-mushrooms-overview]]
 - [[psilocybin-mushrooms-turner-guide]]
-- [[psilocybin_mushroom_extraterrestrial_hypothesis]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[psychedelic-mushroom-chemistry]]
 - [[psychedelic-mushroom-decriminalization]]

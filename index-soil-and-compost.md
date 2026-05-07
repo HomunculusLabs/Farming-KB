@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**403 pages**
+**404 pages**
 
 ## A
 
@@ -404,6 +404,7 @@
 - [[soil-testing-and-analysis]]
 - [[soil-testing-and-interpretation]]
 - [[soil-testing-methods-interpretation]]
+- [[solomon-buckwheat-summer-cover-crop-guide]]
 - [[solomon-capillarity-and-soil-moisture-movement]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-clay-soil-management-and-remediation]]

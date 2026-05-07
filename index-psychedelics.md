@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1284 pages**
+**1287 pages**
 
 ## #
 
@@ -88,6 +88,7 @@
 - [[ayahuasca-tourism-economics-peruvian-amazon]]
 - [[ayahuasca-tourism-ethics]]
 - [[ayahuasca-tourism-ethics-and-commodification]]
+- [[ayahuasca-tourism-ethnography]]
 - [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
 - [[ayahuasca-tourism-legal-status-by-country]]
 - [[ayahuasca-tourism-medical-risks-prescription-interactions]]
@@ -186,11 +187,11 @@
 - [[dmt-finnegans-wake-and-the-merry-go-raum]]
 - [[dmt-hyperspace-and-machine-elves]]
 - [[dmt-hyperspace-entities]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
 - [[dmt-reference]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-smoking-and-administration-methods]]
 - [[dmt-smoking-technique-and-preparation]]
-- [[dmt_nn_dimethyltryptamine]]
 - [[do-family-compounds-pihkal]]
 - [[dob-compound-profile]]
 - [[dob-pihkal-62]]
@@ -564,7 +565,7 @@
 - [[holzer-pig-integration]]
 - [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[huichol-peyote-tradition]]
-- [[hyperspace_logos_consciousness]]
+- [[hyperspace-logos-consciousness]]
 
 ## I
 
@@ -1016,6 +1017,7 @@
 - [[powell-universal-symbology-in-entheogenic-visions]]
 - [[practitioner-cannabis-ritual-use-and-sacrament]]
 - [[psilocin-and-psilocybin-chemistry]]
+- [[psilocin-psilocybin-synthesis-shirota]]
 - [[psilocybe-cubensis-strains-names-and-marketing]]
 - [[psilocybin-accidental-ingestion-australia]]
 - [[psilocybin-accidental-ingestion-cases]]
@@ -1072,6 +1074,7 @@
 - [[psilocybin-psilocin-chemistry]]
 - [[psilocybin-psilocin-flush-accumulation-patterns]]
 - [[psilocybin-psilocin-flush-variation]]
+- [[psilocybin-psilocin-variation-analysis]]
 - [[psilocybin-psilocin-variation-flushes]]
 - [[psilocybin-psychological-mechanisms]]
 - [[psilocybin-psychotherapy]]
@@ -1281,11 +1284,11 @@
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 - [[tryptamine-consciousness-theory]]
 - [[tryptamine-family-overview]]
+- [[tryptamine-hallucinogens]]
 - [[tryptamine-hallucinogens-and-consciousness]]
 - [[tryptamine-hallucinogens-consciousness]]
 - [[tryptamine-hypercontinuum]]
 - [[tryptamine-receptor-pharmacology]]
-- [[tryptamine_hallucinogens]]
 - [[tryptamines-and-quantum-mechanics]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
 - [[turkestan-mint-lagochilus-inebrians]]
@@ -1365,10 +1368,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[psilocybin_mushroom_extraterrestrial_hypothesis]]
-- [[self_transforming_machine_elves]]
-- [[dmt-nn-dimethyltryptamine-comprehensive]]
-- [[hyperspace-logos-consciousness]]
-- [[self-transforming-machine-elves]]
-- [[psilocybin-mushroom-extraterrestrial-hypothesis]]
-- [[tryptamine-hallucinogens]]

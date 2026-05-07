@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2361 pages**
+**2362 pages**
 
 ## #
 
@@ -2159,6 +2159,7 @@
 - [[soil-mycobiome-diversity]]
 - [[soil-mycobiome-structure]]
 - [[soil-quality-fungal-bioindicators]]
+- [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]
 - [[solomon-humus-building-and-soil-life]]
 - [[solomon-root-exudates-and-allelopathy]]
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]

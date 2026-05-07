@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**869 pages**
+**871 pages**
 
 ## A
 
@@ -760,6 +760,7 @@
 - [[solomon-crop-rotation-and-garden-planning]]
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-double-digging]]
+- [[solomon-drip-irrigation-limitations-home-garden]]
 - [[solomon-drought-gardening-and-water-conservation]]
 - [[solomon-fertigation-and-transplant-establishment]]
 - [[solomon-food-preservation-storage]]
@@ -792,6 +793,7 @@
 - [[solomon-leafy-greens-growing]]
 - [[solomon-lime-calcium-ph-management]]
 - [[solomon-on-root-cellaring]]
+- [[solomon-organic-root-maggot-management]]
 - [[solomon-pest-management-organic]]
 - [[solomon-pest-management-without-chemicals]]
 - [[solomon-planting-and-transplanting-guide]]

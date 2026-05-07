@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2383 pages**
+**2399 pages**
 
 ## #
 
@@ -333,6 +333,7 @@
 - [[ariadne-entity]]
 - [[ariadne-entity-pihkal]]
 - [[armillaria-bulbosa]]
+- [[armillaria-cepistipes]]
 - [[armillaria-gallica]]
 - [[armillaria-mellea]]
 - [[armillaria-mellea-entity]]
@@ -879,6 +880,7 @@
 - [[eugenia-caryophyllata]]
 - [[eugenol]]
 - [[eupatorium-perfoliatum]]
+- [[euphrasia-officinalis]]
 - [[euryale-ferox]]
 - [[eurycoma-longifolia]]
 - [[euterpe-oleracea]]
@@ -1099,6 +1101,7 @@
 - [[huperzine-a]]
 - [[hydnellum-aurantiacum]]
 - [[hydnellum-peckii]]
+- [[hydnellum-spongiosipes]]
 - [[hydnum-repandum]]
 - [[hydnum-repens]]
 - [[hydnum-umbilicatum]]
@@ -1412,6 +1415,7 @@
 - [[mazatec-people]]
 - [[mbdb-entity]]
 - [[mbt-entity-tihkal]]
+- [[mda]]
 - [[mda-entity]]
 - [[mda-entity-pihkal]]
 - [[mdai-entity]]
@@ -1492,7 +1496,9 @@
 - [[mimosa-tenuiflora-entity]]
 - [[mipla]]
 - [[miprocin]]
+- [[miproscaline]]
 - [[mipt-entity-tihkal]]
+- [[miracle-alien-cookies]]
 - [[miscanthus-sinensis]]
 - [[mitchella-repens]]
 - [[mitragyna-speciosa]]
@@ -1558,6 +1564,7 @@
 - [[myrcene]]
 - [[myrciaria-dubia]]
 - [[myrica-gale]]
+- [[myrica-pennsylvanica]]
 - [[myristica-fragrans]]
 - [[myristicin]]
 - [[myristicin-entity]]
@@ -1825,6 +1832,7 @@
 - [[portulaca-oleracea]]
 - [[pro-lad-entity-tihkal]]
 - [[propynyl-entity-pihkal]]
+- [[proscaline]]
 - [[proscaline-entity]]
 - [[prosopis-glandulosa]]
 - [[prosopis-juliflora]]
@@ -2051,6 +2059,7 @@
 - [[russula-cyanoxantha]]
 - [[russula-delica]]
 - [[russula-emetica]]
+- [[russula-ochroleuca]]
 - [[russula-vesca]]
 - [[russula-virescens]]
 - [[russula-xerampelina]]
@@ -2077,6 +2086,7 @@
 - [[salvinorin-a]]
 - [[salvinorin-a-entity]]
 - [[salvinorin-b]]
+- [[sambucus-canadensis]]
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
 - [[sanghuangporus-baumii]]
@@ -2131,7 +2141,9 @@
 - [[skunk-1]]
 - [[skunk-cannabis]]
 - [[skywalker-og]]
+- [[slapz]]
 - [[slurricane]]
+- [[smallanthus-sonchifolius]]
 - [[smilax-ornata]]
 - [[solidago-virgaurea]]
 - [[sophora-secundiflora-entity]]
@@ -2198,6 +2210,7 @@
 - [[swale]]
 - [[swertia-chirata]]
 - [[symphytum-officinale]]
+- [[syntropic-agriculture]]
 - [[syrian-rue]]
 
 ## T
@@ -2300,6 +2313,7 @@
 - [[trametes-hirsuta]]
 - [[trametes-ochracea]]
 - [[trametes-orientalis]]
+- [[trametes-pubescens]]
 - [[trametes-sanguinea]]
 - [[trametes-trogii]]
 - [[trametes-versicolor]]
@@ -2346,6 +2360,7 @@
 - [[tuber-aestivum]]
 - [[tuber-borchii]]
 - [[tuber-brumale]]
+- [[tuber-macrosporum]]
 - [[tuber-magnatum]]
 - [[tuber-melanosporum]]
 - [[tulsi]]
@@ -2422,6 +2437,7 @@
 - [[wedding-cake]]
 - [[wedding-cake-cannabis]]
 - [[weraroa-novae-zelandiae]]
+- [[white-cherry-gelato]]
 - [[white-rhino]]
 - [[white-runtz]]
 - [[white-widow]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1115 pages**
+**1121 pages**
 
 ## A
 
@@ -274,6 +274,7 @@
 - [[comparison-kefir-vs-kombucha]]
 - [[comparison-kefir-vs-yogurt]]
 - [[comparison-kelp-meal-vs-rock-dust]]
+- [[comparison-keyhole-garden-vs-raised-bed]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]
 - [[comparison-keyline-vs-contour]]
 - [[comparison-keyline-vs-contour-swale]]
@@ -333,6 +334,7 @@
 - [[comparison-mycoremediation-basics-vs-bioremediation-strategies]]
 - [[comparison-mycorrhizal-vs-endophytic-fungi]]
 - [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
+- [[comparison-native-bee-pollinators-vs-honeybees]]
 - [[comparison-natural-beekeeping-vs-standard-beekeeping]]
 - [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-natural-swimming-pool-vs-conventional-pool]]
@@ -376,6 +378,7 @@
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
+- [[comparison-potato-vs-sweet-potato-cultivation]]
 - [[comparison-prairie-restoration-vs-silvopasture]]
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
@@ -633,6 +636,7 @@
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]]
 - [[query-how-do-fungi-improve-soil-structure]]
+- [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]
 - [[query-how-do-i-adjust-soil-ph-naturally]]
 - [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
@@ -709,6 +713,7 @@
 - [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
 - [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]]
 - [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
+- [[query-how-do-i-prevent-and-manage-plant-diseases-organically]]
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
@@ -840,6 +845,7 @@
 - [[query-how-to-grow-black-currants-at-home]]
 - [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
 - [[query-how-to-grow-chaga-mushroom]]
+- [[query-how-to-grow-chickpeas-at-home]]
 - [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
 - [[query-how-to-grow-citrus-in-cold-climates]]
 - [[query-how-to-grow-dragon-fruit-pitaya-at-home]]
