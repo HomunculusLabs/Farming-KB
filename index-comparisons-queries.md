@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1159 pages**
+**1161 pages**
 
 ## A
 
@@ -425,6 +425,7 @@
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
+- [[comparison-rotational-grazing-vs-continuous-grazing]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-saffron-vs-turmeric-cultivation]]
 - [[comparison-scented-geraniums-vs-edible-flowers]]
@@ -678,6 +679,7 @@
 - [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
 - [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
+- [[query-how-do-i-design-a-multi-species-pasture-mix]]
 - [[query-how-do-i-design-a-succulent-green-roof]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
