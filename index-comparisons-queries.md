@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1121 pages**
+**1123 pages**
 
 ## A
 
@@ -105,6 +105,7 @@
 - [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-brassica-vs-nightshade-gardening]]
 - [[comparison-breadfruit-vs-cassava]]
+- [[comparison-bromeliad-vs-orchid-care]]
 - [[comparison-brown-rot-vs-white-rot-bioremediation]]
 - [[comparison-bsf-composting-vs-earthworm-breeding]]
 - [[comparison-bsf-composting-vs-hot-composting]]
@@ -904,6 +905,7 @@
 - [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
 - [[query-how-to-maximize-terpene-and-resin-production-in-cannabis]]
+- [[query-how-to-mount-and-care-for-epiphytes-at-home]]
 - [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
 - [[query-how-to-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]

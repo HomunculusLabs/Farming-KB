@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1375 pages**
+**1380 pages**
 
 ## #
 
@@ -121,6 +121,7 @@
 - [[cervantes-strain-selection]]
 - [[cervantes-tissue-culture-micropropagation]]
 - [[chaga-mushroom-research]]
+- [[challenge-microorganisms-microwave-surface-sterilization]]
 - [[chemical-analysis-psilocybin-mushrooms]]
 - [[chen-maitake-growth-parameters-environmental-control]]
 - [[chen-maitake-harvesting-yield-comparison]]
@@ -693,7 +694,9 @@
 - [[microwave-sterilizable-access-port]]
 - [[microwave-sterilization]]
 - [[microwave-sterilization-of-enclosed-systems]]
+- [[microwave-sterilization-system-hardware-architecture]]
 - [[microwave-surface-sterilization]]
+- [[microwave-surface-sterilization-core-concept]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-surface-sterilization-technology]]
 - [[microwave-vs-conventional-surface-sterilization-methods]]
@@ -1408,10 +1411,12 @@
 - [[tassili-plateau-mushroom-art]]
 - [[teonanacatl-and-mesoamerican-mushroom-cults]]
 - [[termitomyces-african-mushrooms]]
+- [[thermally-gentle-microwave-surface-sterilization]]
 - [[tissue-culture-cloning]]
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
 - [[trace-water-enhanced-microwave-sterilization]]
 - [[trace-water-enhanced-microwave-surface-sterilization]]
+- [[trace-water-flash-steam-microwave-sterilization]]
 - [[training-program-mushroom-cultivation]]
 - [[tropical-mushroom-house-construction]]
 - [[tropical-mushroom-spawn-production-materials]]

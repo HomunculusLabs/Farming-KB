@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**206 pages**
+**207 pages**
 
 ## A
 
@@ -80,6 +80,7 @@
 
 ## G
 
+- [[gadd-dry-rot-building-timber-decay]]
 - [[goat-cheese-making]]
 - [[goat-husbandry]]
 - [[goat-husbandry-detailed-guide]]

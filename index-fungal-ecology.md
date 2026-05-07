@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2362 pages**
+**2364 pages**
 
 ## #
 
@@ -1173,6 +1173,7 @@
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[gadd-beetle-gut-fungal-symbiosis]]
 - [[gadd-colony-morphogenesis-hyphal-growth]]
+- [[gadd-environmental-sensing-filamentous-fungi]]
 - [[gadd-fungal-biodegradation-bioremediation]]
 - [[gadd-fungal-biodiversity-conservation]]
 - [[gadd-fungal-biofilms-quorum-sensing]]
@@ -1201,6 +1202,7 @@
 - [[gadd-mathematical-modelling-fungal-mycelia]]
 - [[gadd-mineral-transformations-biogeochemistry]]
 - [[gadd-mycelial-network-dynamics]]
+- [[gadd-mycelial-nutrient-translocation-imaging]]
 - [[gadd-nematode-trapping-fungi-functional-genomics]]
 - [[gadd-penicillium-marneffei-population-genetics]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]
