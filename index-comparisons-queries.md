@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1098 pages**
+**1102 pages**
 
 ## A
 
@@ -170,6 +170,7 @@
 - [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[comparison-composting-toilets-vs-humanure]]
 - [[comparison-constructed-wetland-vs-backyard-pond]]
+- [[comparison-constructed-wetlands-vs-bioswales]]
 - [[comparison-coppicing-vs-pollarding]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[comparison-cowpea-vs-mung-bean]]
@@ -422,6 +423,7 @@
 - [[comparison-sheet-mulching-vs-double-digging]]
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
+- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 - [[comparison-silvopasture-systems-vs-pasture-management]]
 - [[comparison-silvopasture-vs-pasture]]
 - [[comparison-slip-form-stone-vs-timber-frame]]
@@ -609,6 +611,7 @@
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
+- [[query-how-can-i-attract-dragonflies-to-my-pond-for-mosquito-control]]
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
@@ -953,6 +956,7 @@
 - [[query-what-are-green-manures-and-how-to-use-them]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
+- [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
 - [[query-what-are-the-12-permaculture-principles]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]

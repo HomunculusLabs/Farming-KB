@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1264 pages**
+**1265 pages**
 
 ## #
 
@@ -595,6 +595,7 @@
 - [[keule-gomortega-keule-chilean-entheogen]]
 - [[knf-fish-farming-integration]]
 - [[knf-fish-pond-integration]]
+- [[kwashi-and-galanga-minor-psychoactive-plants]]
 - [[kykeon-elixir]]
 
 ## L

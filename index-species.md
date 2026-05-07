@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2306 pages**
+**2324 pages**
 
 ## #
 
@@ -258,6 +258,7 @@
 - [[allium-sativum-entity]]
 - [[allium-tuberosum]]
 - [[allium-ursinum]]
+- [[allylescaline]]
 - [[alnus-glutinosa]]
 - [[alnus-rubra]]
 - [[aloe-vera]]
@@ -532,6 +533,7 @@
 - [[cereal-milk]]
 - [[cetraria-islandica]]
 - [[chaetomium-globosum]]
+- [[chaga]]
 - [[chalciporus-piperatus]]
 - [[chamaecrista-fasciculata]]
 - [[chamaecytisus-palmensis]]
@@ -548,6 +550,7 @@
 - [[chenopodium-album]]
 - [[cherry-pie-cannabis]]
 - [[chestnut-entity]]
+- [[chicken-of-the-woods]]
 - [[chinampas]]
 - [[chinese-tallow-tree]]
 - [[chlorophyllum-molybdites]]
@@ -692,6 +695,7 @@
 - [[daldinia-concentrica]]
 - [[damiana]]
 - [[damiana-turnera-diffusa]]
+- [[dandelion]]
 - [[daniel-chamovitz]]
 - [[darren-doherty]]
 - [[datura-candida]]
@@ -778,6 +782,7 @@
 - [[duddingtonia-flagrans]]
 - [[durban-poison]]
 - [[durio-zibethinus]]
+- [[dxm]]
 - [[dynamic-accumulators]]
 
 ## E
@@ -842,6 +847,7 @@
 - [[eth-lad]]
 - [[eth-lad-entity-tihkal]]
 - [[eth-ma]]
+- [[ethocybin]]
 - [[ethyl-j-entity-pihkal]]
 - [[ethyl-k-entity-pihkal]]
 - [[ethylone]]
@@ -939,6 +945,7 @@
 - [[georgia-pie]]
 - [[geraniol]]
 - [[gerronema-fibula]]
+- [[gerronema-strombodes]]
 - [[ghost-train-haze]]
 - [[gigaspora-marginata]]
 - [[ginkgo-biloba]]
@@ -1046,6 +1053,7 @@
 - [[heterobasidion-annosum]]
 - [[hibiscus-cannabinus]]
 - [[hibiscus-sabdariffa]]
+- [[hindu-kush]]
 - [[hindu-kush-cannabis-entity]]
 - [[hippophae-rhamnoides]]
 - [[hippophae-rhamnoides-permaculture]]
@@ -1194,7 +1202,9 @@
 
 - [[kaempferia-galanga]]
 - [[kaempferol]]
+- [[kalapuya]]
 - [[kali-mist]]
+- [[katsu-bubba]]
 - [[kavalactones]]
 - [[ketamine]]
 - [[keyline-design]]
@@ -1324,6 +1334,7 @@
 - [[lycoperdon-marginatum]]
 - [[lycoperdon-mixtecorum]]
 - [[lycoperdon-perlatum]]
+- [[lycopodium-clavatum]]
 - [[lynn-margulis]]
 - [[lysergamide]]
 - [[lysergic-acid]]
@@ -1511,6 +1522,7 @@
 - [[mycoforestry]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
 - [[mycoremediation]]
+- [[mycorrhizae]]
 - [[myrcene]]
 - [[myrciaria-dubia]]
 - [[myrica-gale]]
@@ -1633,6 +1645,7 @@
 - [[papaver-rhoeas]]
 - [[papaver-somniferum]]
 - [[papaya-cannabis]]
+- [[paper-plane]]
 - [[paracoccidioides-brasiliensis]]
 - [[parkia-biglobosa]]
 - [[passiflora-incarnata]]
@@ -1645,6 +1658,7 @@
 - [[pausinystalia-yohimbe]]
 - [[pawpaw]]
 - [[paxillus-involutus]]
+- [[pcp]]
 - [[pe-entity-pihkal]]
 - [[pea-entity]]
 - [[pea-entity-pihkal]]
@@ -1668,6 +1682,7 @@
 - [[pestalotiopsis-microspora]]
 - [[petasites-hybridus]]
 - [[peter-oei]]
+- [[peyote]]
 - [[pfaffia-glomerata]]
 - [[phalaris-aquatica]]
 - [[phallus-impudicus]]
@@ -1690,6 +1705,7 @@
 - [[pholiotina-cyanopoda]]
 - [[phoma-exigua]]
 - [[phosphoryl-chloride]]
+- [[phragmites-australis]]
 - [[phyllanthus-emblica]]
 - [[phyllanthus-niruri]]
 - [[physarum-polycephalum]]
@@ -1763,6 +1779,7 @@
 - [[polysaccharide-peptide-psp]]
 - [[pongamia-pinnata]]
 - [[poria-cocos]]
+- [[poronia-punctata]]
 - [[portulaca-oleracea]]
 - [[pro-lad-entity-tihkal]]
 - [[propynyl-entity-pihkal]]
@@ -1883,6 +1900,7 @@
 - [[psilocybe-sylvatica]]
 - [[psilocybe-tampanensis]]
 - [[psilocybe-tampanensis-entity]]
+- [[psilocybe-tampensis]]
 - [[psilocybe-tasmaniana]]
 - [[psilocybe-thailandensis]]
 - [[psilocybe-thessalonica]]
