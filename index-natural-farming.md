@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**869 pages**
+**874 pages**
 
 ## A
 
@@ -87,9 +87,11 @@
 - [[four-principles-natural-farming]]
 - [[four-principles-of-natural-farming]]
 - [[four-principles-of-natural-farming-fukuoka]]
+- [[fukuoka-aerial-seeding-mangroves-ganges-river]]
 - [[fukuoka-africa-natural-farming]]
 - [[fukuoka-african-agriculture-observations]]
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]]
+- [[fukuoka-agricultural-production-net-energy-deduction]]
 - [[fukuoka-agriculture-for-tomorrow]]
 - [[fukuoka-agriculture-run-amok]]
 - [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
@@ -150,6 +152,7 @@
 - [[fukuoka-desert-revegetation-natural-farming]]
 - [[fukuoka-desert-revegetation-seed-diversity]]
 - [[fukuoka-desert-succession-ecology]]
+- [[fukuoka-dharma-wheel-theory-evolution]]
 - [[fukuoka-dharmic-law-all-things-return-to-one]]
 - [[fukuoka-diet-blood-thought-civilization]]
 - [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
@@ -235,6 +238,7 @@
 - [[fukuoka-mandarin-orange-citrus]]
 - [[fukuoka-mechanization-trap-and-farmer-alienation]]
 - [[fukuoka-medfly-quarantine]]
+- [[fukuoka-money-sucking-octopus-economy-critique]]
 - [[fukuoka-monoculture-meat-based-agricultural-system]]
 - [[fukuoka-mountain-soil-restoration]]
 - [[fukuoka-mu-economics]]
@@ -413,6 +417,7 @@
 - [[fukuoka-scientific-farming-paradoxes]]
 - [[fukuoka-seasonal-eating-natural-food-calendar]]
 - [[fukuoka-seasonal-food-mandala-local-diet]]
+- [[fukuoka-second-genesis-theory-global-seed-scattering]]
 - [[fukuoka-seed-ball-method]]
 - [[fukuoka-seed-ball-methods-advanced]]
 - [[fukuoka-seed-ball-one-seed-technique]]

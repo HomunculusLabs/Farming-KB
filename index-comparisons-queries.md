@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1155 pages**
+**1159 pages**
 
 ## A
 
@@ -116,6 +116,7 @@
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
 - [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
 - [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
+- [[comparison-calendula-vs-chamomile]]
 - [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
 - [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
@@ -148,6 +149,7 @@
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[comparison-cicadas-vs-locusts]]
 - [[comparison-cider-vs-mead-making]]
+- [[comparison-cinnamon-vs-clove-tropical-spice-cultivation]]
 - [[comparison-citrus-vs-mango-cultivation]]
 - [[comparison-cmh-vs-hps-grow-lights]]
 - [[comparison-cmh-vs-led-grow-lights]]
@@ -689,6 +691,7 @@
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-do-i-grow-alliums-successfully]]
+- [[query-how-do-i-grow-and-use-calendula-for-medicine-and-skincare]]
 - [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
 - [[query-how-do-i-grow-brassicas-successfully]]
 - [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]
@@ -860,6 +863,7 @@
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]
+- [[query-how-to-grow-and-process-maca-root]]
 - [[query-how-to-grow-and-use-lemongrass-for-pest-control]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]

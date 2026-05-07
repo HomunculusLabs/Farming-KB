@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1382 pages**
+**1387 pages**
 
 ## #
 
@@ -1137,6 +1137,7 @@
 - [[pf-tek-cake-birthing-technique]]
 - [[pf-tek-canning-jar-lid-configuration]]
 - [[pf-tek-contaminant-source-identification]]
+- [[pf-tek-control-jar-sterility-verification]]
 - [[pf-tek-desiccant-drying-technique]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-dual-chamber-terrarium-fruiting-conditions]]
@@ -1144,6 +1145,7 @@
 - [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
 - [[pf-tek-guide]]
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
+- [[pf-tek-jar-selection-and-physical-requirements]]
 - [[pf-tek-low-humidity-symptoms-and-remediation]]
 - [[pf-tek-maximum-fruiting-substrate-formula]]
 - [[pf-tek-mushroom-growth-timeline]]
@@ -1155,9 +1157,12 @@
 - [[pf-tek-primordia-formation-and-pinning-process]]
 - [[pf-tek-psilocybe-fanaticus]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
+- [[pf-tek-psilocybin-dosage-reference]]
 - [[pf-tek-spraying-and-ventilation-procedure]]
 - [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization]]
+- [[pf-tek-syringe-sterilization-and-storage]]
+- [[pf-tek-vermiculite-grading-and-water-retention]]
 - [[phase-ii-room-design]]
 - [[pine-mushroom-forestry-management]]
 - [[plaincourault-fresco-mushroom-myth]]
