@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1123 pages**
+**1129 pages**
 
 ## A
 
@@ -252,6 +252,7 @@
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[comparison-herb-spiral-vs-keyhole-garden]]
+- [[comparison-hickory-vs-pecan-vs-black-walnut-cultivation]]
 - [[comparison-high-tunnel-vs-walipini]]
 - [[comparison-honey-bees-vs-native-solitary-bees]]
 - [[comparison-horseradish-vs-wasabi-vs-mustard-cultivation]]
@@ -290,6 +291,7 @@
 - [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- [[comparison-lemongrass-vs-citronella-vs-palmarosa]]
 - [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
 - [[comparison-light-straw-clay-vs-hempcrete]]
 - [[comparison-lime-plaster-vs-earthen-plaster]]
@@ -383,6 +385,7 @@
 - [[comparison-prairie-restoration-vs-silvopasture]]
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
+- [[comparison-primary-vs-secondary-succession]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[comparison-pruning-vs-grafting]]
 - [[comparison-psilocybin-vs-mescaline]]
@@ -736,6 +739,7 @@
 - [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
 - [[query-how-do-i-start-farming-spirulina-at-home]]
 - [[query-how-do-i-start-growing-hazelnut-bushes]]
+- [[query-how-do-i-start-growing-hickory-trees]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
 - [[query-how-do-i-start-making-kefir-at-home]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]
@@ -839,6 +843,7 @@
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]
+- [[query-how-to-grow-and-use-lemongrass-for-pest-control]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]
 - [[query-how-to-grow-ashwagandha-at-home]]
@@ -1061,6 +1066,7 @@
 - [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]]
 - [[query-what-is-dry-farming-and-how-does-it-work]]
 - [[query-what-is-ecological-succession-and-how-can-farmers-use-it]]
+- [[query-what-is-ecological-succession-and-why-does-it-matter]]
 - [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-what-is-humanure-and-is-it-safe]]

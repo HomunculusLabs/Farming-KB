@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2416 pages**
+**2422 pages**
 
 ## #
 
@@ -106,6 +106,7 @@
 - [[3c-e-entity-pihkal]]
 - [[4-5-mdo-dipt-entity-tihkal]]
 - [[4-5-mdo-dmt-entity-tihkal]]
+- [[4-acetoxy-dmt]]
 - [[4-acetoxy-nn-dimethyltryptamine]]
 - [[4-aco-det]]
 - [[4-aco-det-entity]]
@@ -802,6 +803,7 @@
 - [[dpt-entity-tihkal]]
 - [[dronabinol]]
 - [[duboisia-hopwoodii]]
+- [[duck-tractor]]
 - [[duddingtonia-flagrans]]
 - [[durban-poison]]
 - [[durio-zibethinus]]
@@ -1409,6 +1411,7 @@
 - [[malawi-gold]]
 - [[malawi-gold-entity]]
 - [[malt-extract-agar]]
+- [[malva-sylvestris]]
 - [[mandragora-officinarum]]
 - [[mangifera-indica]]
 - [[manihot-esculenta]]
@@ -2022,6 +2025,7 @@
 - [[ramaria-botrytis]]
 - [[ramaria-formosa]]
 - [[ramaria-stricta]]
+- [[ramial-chipped-wood]]
 - [[raphanus-sativus]]
 - [[raphanus-sativus-var-longipinnatus]]
 - [[rauwolfia-serpentina]]
@@ -2073,6 +2077,7 @@
 - [[russula-cyanoxantha]]
 - [[russula-delica]]
 - [[russula-emetica]]
+- [[russula-integra]]
 - [[russula-ochroleuca]]
 - [[russula-vesca]]
 - [[russula-virescens]]
@@ -2474,6 +2479,7 @@
 - [[xanthoria-parietina]]
 - [[xanthosoma-sagittifolium]]
 - [[xerocomellus-chrysenteron]]
+- [[xerocomus-chrysenteron]]
 - [[xerocomus-subtomentosus]]
 - [[xerula-furfuracea]]
 - [[xerula-meadowii]]
