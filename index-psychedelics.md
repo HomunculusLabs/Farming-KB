@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1278 pages**
+**1281 pages**
 
 ## #
 
@@ -190,6 +190,7 @@
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-smoking-and-administration-methods]]
 - [[dmt-smoking-technique-and-preparation]]
+- [[dmt_nn_dimethyltryptamine]]
 - [[do-family-compounds-pihkal]]
 - [[dob-compound-profile]]
 - [[dob-pihkal-62]]
@@ -563,6 +564,7 @@
 - [[holzer-pig-integration]]
 - [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[huichol-peyote-tradition]]
+- [[hyperspace_logos_consciousness]]
 
 ## I
 
@@ -1280,6 +1282,7 @@
 - [[tryptamine-hallucinogens-consciousness]]
 - [[tryptamine-hypercontinuum]]
 - [[tryptamine-receptor-pharmacology]]
+- [[tryptamine_hallucinogens]]
 - [[tryptamines-and-quantum-mechanics]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
 - [[turkestan-mint-lagochilus-inebrians]]

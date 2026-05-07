@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1110 pages**
+**1111 pages**
 
 ## A
 
@@ -722,6 +722,7 @@
 - [[query-how-do-i-start-a-silvopasture-system-on-my-property]]
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+- [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
 - [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
 - [[query-how-do-i-start-farming-spirulina-at-home]]

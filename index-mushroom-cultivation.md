@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1372 pages**
+**1373 pages**
 
 ## #
 
@@ -1235,6 +1235,7 @@
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]
 - [[psilocybin-mushrooms-overview]]
 - [[psilocybin-mushrooms-turner-guide]]
+- [[psilocybin_mushroom_extraterrestrial_hypothesis]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[psychedelic-mushroom-chemistry]]
 - [[psychedelic-mushroom-decriminalization]]
