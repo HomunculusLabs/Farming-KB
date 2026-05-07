@@ -144,7 +144,9 @@ offset these costs.
   installation costs over 5-15 years.
 - Green infrastructure connects to [[constructed-wetlands-wastewater-treatment]] as part of integrated urban water management.
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-design-a-succulent-green-roof]] Questions
 
 - [[query-how-to-attract-and-support-native-bee-pollinators]]
 - [[query-how-to-create-a-biodiverse-pollinator-garden]]

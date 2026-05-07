@@ -13,6 +13,8 @@ sources:
   - USDA Forest Service Silvics Manual
   - Oikos Tree Crops Nursery
   - University of Minnesota Extension
+created: 2026-05-07
+type: query
 ---
 
 # How Do I Start Growing Hickory Trees?

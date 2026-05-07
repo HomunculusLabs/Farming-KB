@@ -12,6 +12,7 @@ sources:
   - AllBud (2024). "Donny Burger Strain Review." AllBud.com.
   - Symbiotic Genetics (2023). "Donny Burger — Strain Lineage." Official breeder catalog.
   - Baumeister, D. et al. (2022). "A comprehensive review of cannabis terpene pharmacology." Frontiers in Plant Science, 13, 865914.
+created: 2026-05-07
 ---
 
 ## Overview

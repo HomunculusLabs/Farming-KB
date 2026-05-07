@@ -14,6 +14,7 @@ sources:
   - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
   - Guzmán, G. et al. (2000). "A world monograph of the genus Psilocybe." Beiträge zur Kenntnis der Pilze Mitteleuropas.
   -https://www.shroomery.org/11983/Psilocybe-natalensis
+created: 2026-05-07
 ---
 
 # Psilocybe natalensis

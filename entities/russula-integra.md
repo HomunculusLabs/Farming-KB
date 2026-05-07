@@ -23,6 +23,7 @@ aliases:
   - Russula rosea
   -整合红菇
   - Rosy Russula
+created: 2026-05-07
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - gardening-when-it-counts-steve-solomon.md
 type: concept
+created: 2026-05-07
 ---
 
 # Drip Irrigation Limitations for the Home Garden

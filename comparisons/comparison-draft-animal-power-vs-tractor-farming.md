@@ -11,6 +11,7 @@ sources:
   - Kline H. "The Draft Horse Primer." Rodale Press, 1978.
   - Starkey P. "Harnessing and Equipping Draught Animals." FAO Animal Production and Health Paper, 1995.
 type: comparison
+created: 2026-05-07
 ---
 
 # Draft Animal Power vs Tractor Farming

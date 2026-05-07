@@ -9,6 +9,8 @@ sources:
   - Royal Horticultural Society. "Orchid Growing Guide." RHS Publications.
   - Bechtel, H., Cribb, P. & Launert, E. (1992). The Manual of Cultivated Orchid Species. MIT Press.
   - Kress, W.J. (2019). "Bromeliads: Tropical and Subtropical Plants for the Garden and Home." Smithsonian Gardens.
+created: 2026-05-07
+type: comparison
 ---
 
 # Bromeliad vs Orchid Care

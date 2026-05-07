@@ -15,6 +15,7 @@ sources:
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - USDA NRCS (2023). "Myrica pensylvanica Mirb. Plant Guide." USDA Natural Resources Conservation Service.
   - Young, J.A. & Young, C.G. (1992). "Seeds of Woody Plants in North America." Dioscorides Press.
+created: 2026-05-07
 ---
 
 # Myrica pensylvanica

@@ -16,6 +16,7 @@ sources:
   - https://www.wikileaf.com/strain/og-kush/
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
+created: 2026-05-07
 ---
 
 # OG Kush

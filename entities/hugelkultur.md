@@ -16,6 +16,7 @@ sources:
   - Falk, B. (2012). The Resilient Farm and Homestead. Chelsea Green Publishing.
   - Ludwig, J. (2014). "Hugelkultur: An Exploratory Study of Mound Cultivation." Permaculture Research Institute.
   - Wevers, J. (2020). "Hugelkultur Raised Beds: Soil Moisture and Temperature Dynamics." Agroecology and Sustainable Food Systems, 44(8), 1175–1193.
+created: 2026-05-07
 ---
 
 # Hugelkultur

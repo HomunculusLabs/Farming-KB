@@ -14,6 +14,7 @@ sources:
   - Shulgin, A.T. (1986). "Pharmacology of phenethylamines." In: Hallucinogens: Neurochemistry, Pharmacology, and Behavior. Academic Press.
   - Tricker, A.R. et al. (1989). "Quantitative structure-activity relationships of phenethylamine hallucinogens." Pharmacology Biochemistry and Behavior, 34(1), 145-150.
   - Halberstadt, A.L. et al. (2020). "Pharmacology of 2C phenethylamines." Current Topics in Behavioral Neurosciences, 44, 185-213.
+created: 2026-05-07
 ---
 
 ## Overview

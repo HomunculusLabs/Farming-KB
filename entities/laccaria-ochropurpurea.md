@@ -14,6 +14,7 @@ sources:
   - "Wilson, A.W. et al. (2017). \"Systematics of the genus Laccaria (Agaricales, Basidiomycota) in North America.\" Mycologia, 109(5), 795-818."
   - "Kropp, B.R. & Mueller, G.M. (1999). \"Laccaria.\" In: Cannon, P.F. et al. (eds.), Fungi of Europe."
   - "https://www.mycobank.org/Laccaria/ochropurpurea"
+created: 2026-05-07
 ---
 
 # Laccaria ochropurpurea

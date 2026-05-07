@@ -18,6 +18,7 @@ sources:
   - Carhart-Harris, R.L. et al. (2021). "Psilocybin for Treatment-Resistant Depression." NEJM.
   - Passie, T. et al. (2002). "The Pharmacology of Psilocybin." Addiction Biology.
   - Tupper, K.W. et al. (2015). "Psychedelics and Public Health." Curr Drug Abuse Rev.
+created: 2026-05-07
 ---
 
 # Psilocybin

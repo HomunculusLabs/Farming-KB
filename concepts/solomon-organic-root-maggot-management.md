@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - gardening-when-it-counts-steve-solomon.md
 type: concept
+created: 2026-05-07
 ---
 
 # Organic Root Maggot Management for Brassicas and Carrots

@@ -1,179 +1,135 @@
 ---
-title: Withania somnifera
+title: "Withania somnifera"
 type: species
-tags:
-  - herbal-plant
-  - adaptogen
-  - ayurveda
-  - medicinal-plant
-  - solanaceae
-  - nootropic
+tags: [herbal, adaptogen, ayurveda, medicinal-plant, withanolides, rasayana]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Withania+somnifera
-  - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR.
-  - Singh, N. et al. (2011). "An Overview on [[ashwagandha|Ashwagandha]]." African Journal of Traditional Medicine, 8(5S), 208–213.
-  - Patra, S. et al. (2024). "Withania somnifera: A Comprehensive Review of Phytochemistry, Pharmacology, and Clinical Applications." Phytomedicine, 133, 155378.
+  - Singh N, et al. "An overview on ashwagandha: A rasayana of Ayurveda." Afr J Tradit Complement Altern Med, 2011;8(5S):208-213.
+  - Chandrasekhar K, et al. "A prospective, randomized double-blind, placebo-controlled study of Ashwagandha root extract." Indian J Psychol Med, 2012;34(3):255-262.
+  - Pratte MA, et al. "An alternative treatment for anxiety: systematic review of ashwagandha extract." Complement Ther Med, 2014;22(4):763-771.
+  - Singh P, et al. "Withania somnifera: comprehensive review on phytochemistry, pharmacology, and ethnomedicinal uses." Phytomedicine, 2021;85:153540.
+  - Raut AA, et al. "Randomized trial of Ashwagandha extract in patients with hypothyroidism." J Altern Complement Med, 2018;24(8):773-780.
+  - Singh B, et al. "Standardized Ashwagandha root extract (KSM-66) improves sleep quality." Cureus, 2019;11(9):e5743.
+created: 2026-05-07
 ---
 
-# Withania somnifera
+# Withania somnifera (Ashwagandha)
 
-**Ashwagandha** | *Withania somnifera* (L.) Dunal
+**Ashwagandha** (Sanskrit: "smell of a horse," referring to the root's odor and the belief it imparts equine vigor) is the most important herb in Ayurvedic medicine and the most extensively researched adaptogen, used continuously for over 3,000 years.
 
 ## Taxonomy
 
-| Rank | Name |
-|------|------|
+| Rank | Classification |
+|------|---------------|
 | Kingdom | Plantae |
-| Clade | Tracheophytes |
-| Clade | Angiosperms |
-| Clade | Eudicots |
-| Clade | Asterids |
 | Order | Solanales |
-| Family | Solanaceae |
+| Family | **Solanaceae** (nightshade) |
 | Genus | *Withania* |
-| Species | *W. somnifera* |
+| Species | *W. somnifera* (L.) Dunal |
 
-## Etymology and Common Names
+The epithet *somnifera* (Latin: "sleep-inducing") reflects traditional sedative use. Two chemotypes exist: Indian (high in withanolide A, withanoside IV/V) and African/Middle Eastern (higher in withaferin A). The Indian variety is considered pharmacologically superior.
 
-- **Sanskrit**: *Ashwagandha* (अश्वगंधा) — "smell of a horse," referring to the root's characteristic odor and the belief that it imparts the vigor and strength of a horse
-- **Hindi**: Asgandh, Punir
-- **English**: Winter cherry, Indian ginseng, poison gooseberry
-- **Tamil**: Amukkara
-- **Chinese**: Tang suo ye (唐琐叶)
-- **Arabic**: Asab al-ward
+## Botanical Description
 
-## Description
-
-*Withania somnifera* is an evergreen shrub growing 35–75 cm tall. The plant has a robust, fleshy taproot system — the primary medicinal part. Leaves are dull green, elliptic to ovate, 5–12 cm long, arranged alternately. The species is morphologically variable, with two recognized chemotypes based on withanolide profiles.
-
-Flowers are small, green to yellow, borne in axillary cymes. Berries are small (6–8 mm), orange-red when ripe, enclosed in an inflated, papery calyx (the "winter cherry"). The entire plant, particularly the berries, contains solanine-like compounds and should be handled with care.
-
-## Distribution and Habitat
-
-Native to the dry regions of India, Pakistan, Afghanistan, Sri Lanka, and parts of North Africa (Egypt, Morocco). It thrives in arid and semi-arid environments with sandy, well-drained soils. Naturalized in the Mediterranean, the Canary Islands, and parts of the Middle East. Major commercial cultivation occurs in India (Rajasthan, Madhya Pradesh, Gujarat) and increasingly in the United States and parts of Africa.
+*W. somnifera* is an evergreen to deciduous **woody shrub**, 35–75 cm tall (up to 150 cm in cultivation). **Stems** are erect, branching from base, covered with fine stellate hairs. **Leaves** are simple, ovate, 5–12 cm, dull green, stellate-pubescent. **Flowers** are small, green to pale yellow, in axillary cymes. **Fruit** is a small **orange-red to bright red berry**, 6–8 mm, enclosed in an inflated papery calyx, containing numerous yellow-brown seeds. The **root** — the primary medicinal organ — is a thick, tuberous, fleshy taproot, creamy-white externally, pale yellow internally, with a characteristic musky odor. Optimal harvest at 2–3 years.
 
 ## Phytochemistry
 
-### Withanolides
+Activity is attributed primarily to C28 steroidal lactones (**withanolides**), alkaloids, and sitoindosides.
 
-The primary bioactive constituents are **withanolides** — a group of naturally occurring C28 steroidal lactones structurally related to ergostane-type steroids. Over 40 withanolides have been isolated from *W. somnifera*.
+- **Withaferin A**: Potent anti-inflammatory and pro-apoptotic; inhibits NF-κB and HSP90. Higher in African chemotypes.
+- **Withanolide D**: Neuroprotective; promotes neurite outgrowth and synaptic reconstruction. Key for cognition.
+- **Withanolide A**: Major Indian chemotype constituent; adaptogenic and immunomodulatory.
+- **Withanoside IV & V**: Glycosylated withanolides with neuroprotective and memory-enhancing properties; induce neurite regeneration in Alzheimer's models.
+- **12-Deoxywithastramonolide**: Anti-inflammatory withanolide from root extracts.
+- **Alkaloids**: Anaferine (mild acetylcholinesterase inhibition), anahygrine, cuscohygrine, tropine.
+- **Sitoindosides IX & X**: Steroidal glycosides potentiating immunomodulatory and adaptogenic actions.
+- **Other**: Iron (~3 mg/g in root powder), tryptophan (serotonergic effects).
 
-Key withanolides:
+## Traditional Use in Ayurveda
 
-| Compound | Activity |
-|----------|----------|
-| **Withaferin A** | Anticancer, anti-inflammatory, apoptosis inducer |
-| **Withanolide D** | Neuroprotective, cytotoxic to cancer cells |
-| **Withanone** | Anti-aging, telomerase modulation |
-| **Withasomniferol A** | Immunomodulatory |
-| **12-Deoxywithastramonolide** | Anti-inflammatory |
-| **Withanoside IV–VI** | Neuroprotective, memory enhancement |
+Central to classical texts (*Charaka Samhita*, *Sushruta Samhita*, *Bhava Prakasha Nighantu*), classified under multiple categories:
 
-### Alkaloids
+- **Rasayana** (rejuvenative) — longevity, vitality, tissue nourishment
+- **Balya** (strength-promoting) — physical strength, muscle mass, endurance
+- **Medhya Rasayana** (cognitive rejuvenator) — memory, intellect, neurological function
+- **Vajikarana** (aphrodisiac) — reproductive health, sexual vigor
+- **Shothahara** (anti-inflammatory) — swelling and edema reduction
 
-- **Withanine** — sedative, mild analgesic
-- **Somniferine** — respiratory stimulant
-- **Anahygrine** — antispasmodic
-- **Ashwagandhine** — minor alkaloid
+Traditional formulations include *Ashwagandharishta* (fermented), *Ashwagandha Ghrita* (medicated ghee), and *Churna* (powder). Root was typically prescribed in milk with ghee, honey, or sugar — supported by modern research showing improved withanolide bioavailability with lipids.
 
-### Other Constituents
+## Modern Pharmacology
 
-- **Sitoindosides VII–X** — glycowithanolides contributing to [[adaptogenic-herbs-guide|adaptogenic]] activity
-- **Iron** — root contains 3–5 mg/g, significant for anemia management
-- **Amino acids** — including tryptophan precursor to serotonin
-- **Flavonoids** — kaempferol, quercetin glycosides
+**Cortisol reduction & stress adaptation**: Consistently reduces serum cortisol (14–23% in trials) via HPA axis regulation, GABAergic modulation, and normalization of stress-responsive endocrine pathways.
 
-## Pharmacological Actions
+**Thyroid modulation**: Stimulates T3/T4 production by enhancing thyroid peroxidase activity and peripheral T4→T3 conversion. RCTs show TSH normalization and T3/T4 improvement in subclinical hypothyroidism at 600 mg/day.
 
-### Adaptogenic Activity
+**Neuroprotection & cognition**: Withanolides demonstrate antioxidant activity, acetylcholinesterase inhibition, neurite outgrowth promotion, amyloid-β plaque reduction, and glutamate excitotoxicity protection. Human trials report improved reaction time, memory, and cognitive performance.
 
-Ashwagandha is classified as a **rasayana** (rejuvenating) herb in Ayurveda and a modern **adaptogen** — a substance that helps the body resist physiological and psychological stress. The mechanism involves modulation of the **hypothalamic-pituitary-adrenal (HPA) axis**:
+**Anti-inflammatory & immunomodulation**: Withaferin A inhibits NF-κB, COX-2, and iNOS. Immunomodulatory effects include increased NK cell, macrophage, and T-lymphocyte activation. Functions as both immunostimulant and immunomodulator.
 
-- Reduces cortisol levels by 14–23% in chronically stressed individuals (double-blind trials)
-- Normalizes dysregulated cortisol rhythms
-- Reduces C-reactive protein (CRP) and other inflammatory markers
+**Anxiolytic & sleep enhancement**: GABA-mimetic withanolides produce anxiolytic effects comparable to benzodiazepines in animal models without dependency risk. Human RCTs show significant reductions in anxiety scores (HAM-A, PSS) and improved sleep onset, quality, and efficiency.
 
-A systematic review (Singh et al., 2021) covering 12 RCTs found that Ashwagandha supplementation significantly reduced perceived stress and cortisol compared to placebo.
+## Clinical Trial Summaries
 
-### Neuroprotective and Cognitive Effects
+| Study | Design | Dose | Key Findings |
+|-------|--------|------|-------------|
+| Chandrasekhar 2012 | RCT, n=64, stress | KSM-66 300 mg 2×/day, 60d | 44% ↓ Perceived Stress Scale vs. 5.5% placebo; cortisol ↓ |
+| Singh B 2019 | RCT, n=150, insomnia | KSM-66 300 mg 2×/day, 10wk | Significant Pittsburgh Sleep Quality Index improvement |
+| Pratte 2014 | Systematic review (5 RCTs) | 250–600 mg/day, 5–12wk | Consistent anxiolytic effect on HAM-A scores |
+| Raut 2018 | RCT, n=50, hypothyroid | Root extract 600 mg/day, 8wk | TSH normalized; T3 ↑18.6%, T4 ↑9.3% vs. placebo |
+| Lopresti 2019 | RCT, n=60, stress | Sensoril 250 mg/day, 8wk | ↓ stress/anxiety; ↑ well-being and sleep |
 
-- **Memory enhancement**: Withanoside IV and VI reverse scopolamine-induced amnesia in animal models and improve synaptic plasticity in the hippocampus
-- **Neuroregeneration**: Promotes neurite outgrowth and reconstruction of synapses; shown to regenerate axons and dendrites in damaged neural networks in rodent models
-- **GABAergic modulation**: Withanolide A potentiates GABA-A receptor activity, producing anxiolytic effects comparable to benzodiazepines without sedation or dependency
-- **Alzheimer's models**: Reverses β-amyloid-induced cognitive deficits; inhibits acetylcholinesterase with moderate potency
+## Cultivation
 
-### Anti-inflammatory and Immunomodulatory
+Semi-arid to subtropical climate (500–750 mm rainfall, 20–38°C); drought-tolerant once established. Prefers sandy loam, pH 7.5–8.0, well-drained (poor drainage causes root rot). Propagated primarily by seed (germination 10–15 days) or stem/root cuttings; nursery transplant at 30–40 days. Spacing: 40–50 cm between plants, 60 cm between rows. Roots harvested at 150–180 days (2–3 years for peak withanolides); yield 200–500 kg dried root/ha. Major producers: India (Rajasthan, Madhya Pradesh, Punjab), Nepal. Post-harvest: shade-dry below 40°C to preserve withanolides.
 
-Withaferin A inhibits NF-κB signaling by blocking IκB kinase (IKK) complex activity. Additional mechanisms include suppression of:
+## Preparations & Standardization
 
-- COX-2 and iNOS expression
-- TNF-α, IL-1β, IL-6 production
-- JAK/STAT signaling pathway
-- NLRP3 inflammasome activation
+**Root powder (Churna)**: Simplest traditional form; ≥1.5% total withanolides (HPLC).
 
-Immunomodulatory effects are bidirectional: enhances phagocytic activity of macrophages and NK cell cytotoxicity while suppressing overactive immune responses in autoimmune conditions.
+**KSM-66®** (Ixoreal Biomed): Full-spectrum root-only extract. Alcohol-based. ≥5% withanolides. Most widely studied in clinical trials. Retains natural withanolide ratios. Non-GMO.
 
-### Anticancer Properties
+**Sensoril®** (Natreon Inc.): Root + leaf extract. ≥10% withanolides. Leaf inclusion increases withanolide concentration (especially withaferin A), enhancing potency at lower doses with more pronounced cortisol/stress effects.
 
-Withaferin A is the most studied compound for anticancer activity:
+**Other forms**: Ashwagandha Ghrita (medicated ghee), Ashwagandharishta (fermented liquid, ~5–10% alcohol), tinctures (1:2–1:5 ratio).
 
-- Induces apoptosis via ROS generation, mitochondrial membrane depolarization, and caspase-3 activation
-- Inhibits HSP90 chaperone function, destabilizing oncogenic client proteins
-- Suppresses angiogenesis through VEGF inhibition
-- Shown activity against breast, prostate, lung, colon, and ovarian cancer cell lines in vitro
-- Synergistic effects with standard chemotherapeutics (cisplatin, paclitaxel)
+## Dosage Ranges
 
-**Note**: All anticancer data is preclinical. Ashwagandha should not be used as a substitute for conventional cancer treatment.
+| Preparation | Dose | Frequency | Notes |
+|-------------|------|-----------|-------|
+| Root powder | 1–6 g | 2–3× daily | Traditional Ayurvedic dose: 3–6 g/day |
+| KSM-66 (5%) | 300–600 mg | 1–2× daily | Most studied: 600 mg/day split |
+| Sensoril (10%) | 125–250 mg | 2× daily | Lower dose due to higher standardization |
+| Tincture (1:2–1:5) | 2–4 mL | 2–3× daily | Adjust per concentration |
+| Children (6–12 yr) | 250–500 mg powder | 1–2× daily | Medical supervision only |
 
-### Endocrine and Reproductive
+**Timing**: With warm milk before bed (sleep/stress) or with meals (thyroid/tonic). Fat-containing meals improve withanolide absorption. **Onset**: Acute anxiolytic effects in 2–4 weeks; full adaptogenic benefits at 8–12 weeks.
 
-- **Testosterone**: Several trials show 10–15% increase in testosterone in men after 8–12 weeks (600–675 mg/day KSM-66 extract)
-- **Thyroid**: Mild improvement in subclinical hypothyroidism (increases T3, T4; decreases TSH)
-- **Sperm quality**: Significant improvement in sperm count, motility, and morphology in infertile men
-- **Female fertility**: Pilot studies show improved sexual function and hormone balance in women
+## Safety & Drug Interactions
 
-## Dosage and Standardized Extracts
+Generally well-tolerated. Mild adverse effects: GI discomfort, nausea, dose-dependent drowsiness. Serious events rare. **Contraindications**: pregnancy (abortifacient/uterine stimulant), autoimmune conditions (theoretical immune stimulation risk), organ transplant recipients.
 
-| Form | Dose | Standardization |
-|------|------|----------------|
-| Root powder (traditional) | 1–6 g/day | 2.5% withanolides |
-| KSM-66 extract | 300–600 mg/day | ≥5% withanolides |
-| Sensoril extract | 125–250 mg/day | ≥10% withanolides |
-| Aqueous extract | 500–1000 mg/day | Varies |
-| Tincture (1:5) | 2–4 mL/day | Varies |
+| Drug Class | Interaction | Severity |
+|------------|------------|----------|
+| **Thyroid meds** (levothyroxine) | Additive — stimulates endogenous T3/T4 | Moderate — monitor TFTs |
+| **Sedatives/hypnotics** (benzodiazepines, zolpidem) | Additive CNS depression (GABA-mimetic) | Moderate |
+| **Immunosuppressants** (cyclosporine, tacrolimus, prednisone) | Antagonistic — may counteract suppression | High — avoid or monitor closely |
+| **Antidiabetics** (insulin, metformin) | Additive hypoglycemic effect | Low-Moderate |
+| **Antihypertensives** | Additive hypotensive effect | Low |
+| **Anticoagulants** (warfarin) | Potential additive antiplatelet effect | Low — monitor INR |
 
-KSM-66 (full-spectrum root extract, no leaves) and Sensoril (root + leaf extract) are the most clinically studied proprietary preparations. They differ in withanolide spectrum and potency.
+## Regulatory Status
 
-## Safety Profile
-
-Generally well-tolerated at standard doses. Mild side effects include gastrointestinal discomfort, drowsiness, and headache. **Contraindications and precautions**:
-
-- Pregnancy: Uterine stimulant properties — avoid
-- Autoimmune conditions: Immunostimulatory effects may exacerbate flares
-- Thyroid disorders: May potentiate thyroid hormone medications — monitor TSH
-- Diabetes: May lower blood glucose — monitor and adjust medications
-- Surgery: Discontinue 2 weeks before due to potential sedative and immunomodulatory effects
-
-Drug interactions: Potential interactions with immunosuppressants, thyroid medications, sedatives (benzodiazepines, barbiturates), and antidiabetic drugs.
-
-## Traditional and Historical Use
-
-Ashwagandha has been used in Ayurvedic medicine for over 3,000 years. Documented in classical texts including the *Charaka Samhita* and *Sushruta Samhita*. Traditional indications include:
-
-- *Vata* dosha imbalance (nervous system disorders)
-- Debility, emaciation, and convalescence
-- Insomnia and anxiety
-- Rheumatic and arthritic conditions
-- Sexual debility and infertility
-- Memory decline and cognitive weakness
-
-## Sustainability and Cultivation
-
-Wild populations in India are declining due to overharvesting. Cultivation initiatives in Rajasthan and Gujarat are expanding. The plant is drought-tolerant and requires minimal irrigation, making it suitable for sustainable agriculture in arid regions. Propagation is primarily by seed; roots are harvested after 150–180 days of growth.
+- **USA**: Dietary supplement (DSHEA); not FDA-approved for disease treatment. GRAS as food ingredient.
+- **India**: Ayurvedic Pharmacopoeia; Schedule E-1 (contraindication labeling required).
+- **EU**: Traditional herbal medicine in some member states; novel food considerations apply.
+- **Canada**: Licensed Natural Health Product with monograph claims.
 
 ## See Also
 
-- [[adaptogenic-herbs-overview]]
-- [[ashwagandha-growing-guide]]
+- [[cervantes-rejuvenation-re-vegging]]
+
+- [[adaptogenic-herbs-guide]]
+- [[herbal-medicine-preparation-methods]]

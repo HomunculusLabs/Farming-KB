@@ -16,6 +16,7 @@ sources:
   - "Christian, D.G. et al. (2008). \"Agricultural land use and energy crops.\" Aspects of Applied Biology, 90, 1-8."
   - "McCalmont, J.P. et al. (2017). \"Environmental trade-offs of miscanthus cultivation.\" GCB Bioenergy, 9(3), 445-458."
   - "https://www.rhs.org.uk/plants/13199/miscanthus-x-giganteus"
+created: 2026-05-07
 ---
 
 # Miscanthus giganteus

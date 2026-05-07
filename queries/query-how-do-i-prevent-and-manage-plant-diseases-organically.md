@@ -4,6 +4,8 @@ tags: [query, plant-disease, organic-farming, ipm, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+created: 2026-05-07
+type: query
 ---
 
 # How Do I Prevent and Manage Plant Diseases Organically?

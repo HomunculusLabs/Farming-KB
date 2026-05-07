@@ -16,6 +16,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2015). Medicinal Plants of the World. CABI Publishing.
   - Hutchings, A. et al. (1996). Zulu Medicinal Plants. University of Natal Press.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern Africa. Livingstone.
+created: 2026-05-07
 ---
 
 # Leonotis leonurus

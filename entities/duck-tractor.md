@@ -24,6 +24,7 @@ aliases:
   - Duck coop mobile
   - Duck ark
   - Pasture-based duck system
+created: 2026-05-07
 ---
 
 ## Overview

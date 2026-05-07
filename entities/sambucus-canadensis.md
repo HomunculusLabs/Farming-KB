@@ -14,6 +14,7 @@ sources:
   - Thomas, J.E. (2020). "The genus Sambucus: A review of ethnobotany, pharmacology, and phytochemistry." Journal of Ethnopharmacology, 265, 113312.
   - Finn, C.E. et al. (2015). "American elderberry (Sambucus canadensis)." HortScience, 50(5), 740-747.
   - USDA NRCS (2023). "Sambucus canadensis L. Plant Guide." USDA Natural Resources Conservation Service.
+created: 2026-05-07
 ---
 
 # Sambucus canadensis

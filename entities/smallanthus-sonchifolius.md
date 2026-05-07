@@ -16,6 +16,7 @@ sources:
   - Graefe, S. et al. (2004). "Processing and Application of Yacon (Smallanthus sonchifolius) for Human Consumption." Journal of Food Science, 69(1), 17-21.
   - Genta, S. et al. (2009). "Yacon Syrup: Beneficial Effects on Obesity and Insulin Resistance." Clinical Nutrition, 28(2), 182-187.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:298071-1
+created: 2026-05-07
 ---
 
 ## Overview

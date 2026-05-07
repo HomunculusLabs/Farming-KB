@@ -13,6 +13,7 @@ sources:
   - Leafly strain database. "Slapz." https://www.leafly.com/strains/slapz
   - AllBud strain database. "Slapz Strain." https://www.allbud.com/marijuana-strains/hybrid/slapz
   - SeedsHereNow. "Slapz by Capulator." https://seedsherenow.com
+created: 2026-05-07
 ---
 
 ## Overview

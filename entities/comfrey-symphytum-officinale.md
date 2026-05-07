@@ -16,6 +16,7 @@ sources:
   - Stickel, M. et al. (2011). "Comfrey — A Clinical Overview." Phytotherapy Research, 25(2), 253-257.
   - Ernst, E. (2003). "Herbal Medicines: Balancing Benefits and Risks." Drug Safety, 26(12), 813-850.
   - Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain and Other Temperate Climates. Permanent Publications.
+created: 2026-05-07
 ---
 
 # Comfrey (Symphytum officinale)

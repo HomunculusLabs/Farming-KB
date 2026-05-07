@@ -15,6 +15,8 @@ sources:
   - "Tavares, E.S., et al. (2023). 'Essential oils from Cymbopogon species: Chemical composition and bioactivity against arthropods of medical and veterinary importance.' Phytochemistry Reviews, 22(4), 821-845."
   - "Cruz, E.O., et al. (2022). 'Companion planting with aromatic grasses for sustainable [[integrated-pest-management|pest management]] in tropical vegetable gardens.' Agroecology and Sustainable Food Systems, 46(8), 1087-1105."
   - "Gbolade, A.A. (2009). 'Citronella oil: A review of its pharmacological properties and therapeutic potential.' Nigerian Journal of Physiological Sciences, 24(2), 125-130."
+created: 2026-05-07
+type: query
 ---
 
 # How to Grow and Use Lemongrass for Natural Pest Control

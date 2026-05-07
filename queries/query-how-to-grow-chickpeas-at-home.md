@@ -8,6 +8,8 @@ sources:
   - https://www.almanac.com/plant/chickpeas
   - Singh, K.B. et al. (1997). Chickpea: Botany, Production and Uses. CAB International
   - https://www.sare.org/publications/cover-crop-technical-note/chickpea/
+created: 2026-05-07
+type: query
 ---
 
 # How to Grow Chickpeas at Home

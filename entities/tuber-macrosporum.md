@@ -15,6 +15,7 @@ sources:
   - Bonito, G. et al. (2010). "Tuber macrosporum Vittad.: A Rare Truffle with Potential for Cultivation." Mycorrhiza, 20(8), 555-563.
   - Mello, A. et al. (2005). "Molecular Analysis of Tuber magnatum and Tuber macrosporum." Applied and Environmental Microbiology, 71(10), 5940-5945.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=182739
+created: 2026-05-07
 ---
 
 ## Overview

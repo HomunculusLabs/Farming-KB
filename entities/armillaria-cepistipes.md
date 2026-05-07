@@ -16,6 +16,7 @@ sources:
   - T-edge, D.J. et al. (2004). "Armillaria Species in Europe." Forest Pathology, 34(1), 1-13.
   - Prospero, S. & Holdenrieder, O. (2005). "Species Pairing in European Armillaria." Mycologia, 97(2), 412-425.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=131484
+created: 2026-05-07
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ sources:
   - AllBud (2024). "Gary Payton Strain Review." AllBud.com.
   - Cookies Genetics (2023). "Gary Payton — Strain Profile." Cookies official catalog.
   - Baumeister, D. et al. (2022). "A comprehensive review of cannabis terpene pharmacology." Frontiers in Plant Science, 13, 865914.
+created: 2026-05-07
 ---
 
 ## Overview

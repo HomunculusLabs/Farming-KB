@@ -15,6 +15,7 @@ sources:
   - Warrier, P.K. et al. (1994). "Indian Medicinal Plants: A Compendium of 500 Species." Orient Longman.
   - Atal, C.K. & Kapoor, B.M. (1982). "Cultivation and Utilization of Medicinal Plants." Regional Research Laboratory, Jammu-Tawi.
   - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
+created: 2026-05-07
 ---
 
 ## Overview

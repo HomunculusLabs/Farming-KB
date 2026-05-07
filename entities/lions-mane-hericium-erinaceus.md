@@ -14,6 +14,7 @@ sources:
   - Wong, K.H. et al. (2019). "Hericium erinaceus: A valuable edible and medicinal mushroom." Journal of Functional Foods, 59, 63-72.
   - Mori, K. et al. (2009). "Improving effects of the mushroom Yamabushitake on cognitive function." Phytotherapy Research, 23(3), 367-372.
   - Chiu, H.F. et al. (2018). "An update on the cognitive-enhancing effects of Hericium erinaceus." BMC Complementary and Alternative Medicine, 18(1), 131.
+created: 2026-05-07
 ---
 
 # Lion's Mane (Hericium erinaceus)

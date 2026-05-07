@@ -16,6 +16,8 @@ sources:
   - Chapin, F.S. III et al. (1994). "Mechanisms of Primary Succession Following
     Deglaciation at Glacier Bay, Alaska." *Ecological Monographs*, 64(2),
     149-175.
+created: 2026-05-07
+type: comparison
 ---
 
 ## Introduction

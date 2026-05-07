@@ -14,6 +14,8 @@ sources:
   - "Weyerstahl, P., Marschall-Weyerstahl, H. (1997). Constituents of the essential oil of Cymbopogon martinii. Flavour and Fragrance Journal, 12(3), 179-183."
   - "Ganjewala, D. (2009). Cymbopogon essential oils: Chemical compositions and bioactivities. International Journal of Essential Oil Therapeutics, 3(1), 56-65."
   - "Tanker, M., et al. (2002). Essential oils of Cymbopogon nardus and Cymbopogon winterianus from various origins. Journal of Essential Oil Research, 14(4), 244-248."
+created: 2026-05-07
+type: comparison
 ---
 
 # Lemongrass vs Citronella vs Palmarosa

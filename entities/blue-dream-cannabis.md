@@ -17,6 +17,7 @@ sources:
   - https://www.wikileaf.com/strain/blue-dream/ - analytical strain data
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Clinical Pharmacology & Therapeutics.
   - Mudge, E.M. et al. (2019). "Chemical Fingerprinting of the Cannabis Strain 'Blue Dream'." Molecules.
+created: 2026-05-07
 ---
 
 # Blue Dream

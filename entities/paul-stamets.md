@@ -18,6 +18,7 @@ sources:
   - Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
   - https://fungi.com/ — Fungi Perfecti official website
   - TED Talk: "6 Ways Mushrooms Can Save the World" (2008)
+created: 2026-05-07
 ---
 
 # Paul Stamets

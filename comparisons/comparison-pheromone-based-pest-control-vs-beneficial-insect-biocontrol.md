@@ -145,6 +145,8 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 
 ## See Also
 
+- [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
+
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 
 - [[plant-olfaction-and-chemical-sensing]] — the chemical signals underlying pheromone and HIPV systems

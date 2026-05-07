@@ -1368,3 +1368,4 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+- [[25c-nbome]]

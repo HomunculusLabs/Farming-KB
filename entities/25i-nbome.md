@@ -127,6 +127,8 @@ Originally developed as a research tool for mapping serotonin receptor pharmacol
 
 ## See Also
 
+- [[25c-nbome]]
+
 - [[25b-nbome]]
 
 - [[serotonin]]

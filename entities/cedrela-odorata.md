@@ -15,6 +15,7 @@ sources:
   - Styles, B.T. & Khosla, P.K. (1976). "Cedrela: a revision." Kew Bulletin, 31(3), 339-405.
   - Marín, E.A. & Barajas, M.G. (1996). "Cedrela odorata: Useful Trees of Tropical America." CATIE Technical Series.
   - Newton, A.C. et al. (1993). "Genetic variation in Cedrela odorata." Forest Ecology and Management, 62(1-4), 73-84.
+created: 2026-05-07
 ---
 
 ## Overview

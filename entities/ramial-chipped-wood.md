@@ -24,6 +24,7 @@ aliases:
   - Ramial Chipped Wood
   - BRF (Bois Raméal Fragmenté)
   - Fragmented Ramial Wood
+created: 2026-05-07
 ---
 
 ## Overview

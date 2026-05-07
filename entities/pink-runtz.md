@@ -14,6 +14,7 @@ sources:
   - "AllBud (2021). \"Pink Runtz Cannabis Strain Review.\" AllBud.com."
   - "Dumestre, V. et al. (2021). \"Cannabis terpene profiles of popular commercial strains.\" Journal of Cannabis Research, 3(1), 32."
   - "https://www.wikileaf.com/strain/pink-runtz"
+created: 2026-05-07
 ---
 
 # Pink Runtz

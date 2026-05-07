@@ -13,6 +13,7 @@ sources:
   - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press. Entry #58.
   - Trachsel, D. et al. (2013). "Phenethylamines: Basic Pharmacology and Clinical Aspects." In "Pharmacology of Club Drugs."
   - https://isomerdesign.com/PiHKAL/58.html
+created: 2026-05-07
 ---
 
 ## Overview

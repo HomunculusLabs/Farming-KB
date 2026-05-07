@@ -16,6 +16,7 @@ sources:
   - Coppen, J.J.W. (2002). "Eucalyptus: The Genus Eucalyptus." Taylor & Francis.
   - Li, Y. et al. (2021). "Chemical composition and biological activities of Eucalyptus globulus essential oil." Molecules, 26(14), 4182.
   - Duke, J.A. (2002). "CRC Handbook of Medicinal Spices." CRC Press.
+created: 2026-05-07
 ---
 
 # Eucalyptus globulus

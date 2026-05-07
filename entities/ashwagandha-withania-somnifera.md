@@ -14,6 +14,7 @@ sources:
   - Chandrasekhar, K. et al. (2012). "A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of Ashwagandha Root Extract." Indian Journal of Psychological Medicine, 34(3), 255-262.
   - Patwardhan, B. et al. (2000). "Ayurveda and Traditional Chinese Medicine: A Comparative Overview." Evidence-Based Complementary and Alternative Medicine, 2(4), 465-473.
   - Raut, A.A. et al. (2012). "Phytochemical Screening and Antimicrobial Activity of Withania somnifera." International Journal of Pharmaceutical Sciences and Research, 3(6), 1844-1848.
+created: 2026-05-07
 ---
 
 # Ashwagandha (Withania somnifera)

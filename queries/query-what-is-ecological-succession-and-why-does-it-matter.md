@@ -15,6 +15,8 @@ sources:
     Ecosystem Rehabilitation. Cambridge University Press.
   - Odum, E.P. (1969). "The Strategy of Ecosystem Development."
     Science, 164(3877), 262-270.
+created: 2026-05-07
+type: query
 ---
 
 # What Is Ecological Succession and Why Does It Matter?

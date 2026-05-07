@@ -13,6 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (2007) Fungi in the Environment. Cambridge University Press. Chapter 14 by Nicholas P. Money, pp. 289-310.
+created: 2026-05-07
+type: concept
 ---
 
 # Dry Rot Fungi and Timber Decay in Buildings

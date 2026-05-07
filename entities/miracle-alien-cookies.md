@@ -13,6 +13,7 @@ sources:
   - AllBud (2023). "Miracle Alien Cookies Strain Review." AllBud.com.
   - Dungeness Seeds (2022). "Capulator's MAC — Miracle Alien Cookies." Breeder catalog.
   - "Cookies Family Lineage Guide." (2024). Growers Network Technical Series, 12(3).
+created: 2026-05-07
 ---
 
 # Miracle Alien Cookies (MAC)

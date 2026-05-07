@@ -13,6 +13,7 @@ sources:
   - Kuo, M. (2024). "Clitocybe dealbata." MushroomExpert.com.
   - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
   - Wagstaff, D.J. & Boutin, B. (2013). "Muscarine-containing mushrooms." Toxicon, 76, 56–60.
+created: 2026-05-07
 ---
 
 ## Overview

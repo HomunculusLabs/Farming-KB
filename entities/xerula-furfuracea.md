@@ -13,6 +13,7 @@ sources:
   - Redhead, S.A. et al. (1987). "Xerula and related genera." Mycotaxon, 28, 501-519.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Arnolds, E. (2005). "The conservation of Xerula species in Europe." Czech Mycology, 57, 1-8.
+created: 2026-05-07
 ---
 
 ## Overview

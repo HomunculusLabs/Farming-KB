@@ -13,6 +13,7 @@ sources:
   - Kuo, M. (2024). "Suillus placidus." MushroomExpert.com.
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
   - Hall, I.R. et al. (1998). "Edible and Poisonous Mushrooms of the World." Timber Press.
+created: 2026-05-07
 ---
 
 ## Overview

@@ -14,6 +14,7 @@ sources:
   - Mudge, E.M. et al. (2018). "Cannabis sativa L. — An Overview." In: Cannabis sativa L., pp. 1-17.
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - Smart, R. et al. (2017). "The Importance of Genetic Diversity in Cannabis sativa." PLOS ONE, 12(11), e0187509.
+created: 2026-05-07
 ---
 
 # Blue Dream (Cannabis Strain)

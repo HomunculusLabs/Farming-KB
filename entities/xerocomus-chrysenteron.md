@@ -23,6 +23,7 @@ aliases:
   - Red-cracking Bolete
   -红裂孔牛肝菌
   - Boletus chrysenteron
+created: 2026-05-07
 ---
 
 ## Overview

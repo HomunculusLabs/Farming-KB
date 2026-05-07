@@ -14,6 +14,7 @@ sources:
   - Shulgin, A.T. (1975). "The Chemistry and Pharmacology of MDMA and MDA." In "Psychopharmacology of Hallucinogens." Pergamon Press.
   - Nichols, D.E. (1986). "Differences between the mechanism of action of MDMA, MDA, and the classic hallucinogens." Journal of Psychoactive Drugs, 18(4), 305-313.
   - Pasqualucci, V. et al. (1999). "MDA and MDMA: A review." European Review for Medical and Pharmacological Sciences, 3(4), 233-242.
+created: 2026-05-07
 ---
 
 # MDA (3,4-Methylenedioxyamphetamine)

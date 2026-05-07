@@ -16,6 +16,7 @@ sources:
   - "Abad, M.J. et al. (2012). \"The genus Artemisia: A review of bioactive essential oils.\" Molecules, 17(3), 2542-2566."
   - "Blumenthal, M. et al. (2000). Herbal Medicine: Expanded Commission E Monographs. Integrative Medicine Communications."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:80430-1"
+created: 2026-05-07
 ---
 
 # Artemisia vulgaris

@@ -14,6 +14,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/ (peer-reviewed studies on erinacines and hericenones)
   - Stamets, P. (2006). Mycelium Running. Ten Speed Press.
   - Wasser, S.P. (2014). "Medicinal mushroom science: history, current status, future trends." International Journal of Medicinal Mushrooms.
+created: 2026-05-07
 ---
 
 # Hericium erinaceus

@@ -13,6 +13,7 @@ sources:
   - Kuo, M. (2024). "Craterellus odoratus." MushroomExpert.com.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Buyck, B. et al. (2016). "The nomenclatural history of Craterellus." Mycotaxon, 131(2), 277–288.
+created: 2026-05-07
 ---
 
 ## Overview

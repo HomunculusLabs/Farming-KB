@@ -9,6 +9,8 @@ sources:
   - https://www.almanac.com/plant/potatoes
   - https://www.almanac.com/plant/sweet-potatoes
   - Dean, B.B. (1994). Sweetpotato: An Untapped Food Resource. Cambridge University Press
+created: 2026-05-07
+type: comparison
 ---
 
 # Potato vs Sweet Potato Cultivation

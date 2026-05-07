@@ -110,7 +110,9 @@ The goal is a managed aquatic crop, not an accidental release.
 - [[holzer-pond-shape-deep-shallow-zones]] shows why pond form affects management.
 - Harvesting is the difference between duckweed as yield and duckweed as nuisance.
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]] Questions
 
 - [[query-how-to-set-up-a-backyard-pond]]
 - [[query-how-does-aquaponics-work]]

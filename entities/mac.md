@@ -14,6 +14,7 @@ sources:
   - Leafly Strain Database. https://www.leafly.com/strains/mac
   - AllBud Strain Database. https://www.allbud.com/marijuana-strains/hybrid/mac
   - Wikileaf. https://www.wikileaf.com/strain/mac/
+created: 2026-05-07
 ---
 
 # MAC (Miracle Alien Cookies)

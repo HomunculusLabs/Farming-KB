@@ -121,7 +121,9 @@ soil building. Combining pecans with nitrogen-fixing understory trees
 and [[permaculture-plants-ground-covers-living-mulches]] creates a
 productive, self-maintaining polyculture system.
 
-## Related Concepts
+## Related
+
+- [[carya-illinoinensis]] Concepts
 
 - [[permaculture-food-forests-design-course]]
 - [[permaculture-plant-guilds]]

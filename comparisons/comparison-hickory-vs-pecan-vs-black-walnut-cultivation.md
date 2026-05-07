@@ -13,6 +13,8 @@ sources:
   - USDA Forest Service Silvics Manual
   - University of Georgia Extension
   - Iowa State University Extension
+created: 2026-05-07
+type: comparison
 ---
 
 # Hickory vs Pecan vs Black Walnut Cultivation

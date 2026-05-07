@@ -9,6 +9,8 @@ sources:
   - Wall, J. (2009). "Mounting Epiphytic Orchids on Cork Bark." American Orchid Society Bulletin.
   - Kramer, G. (2018). "Air Plant Care and Design: A Beginner's Guide." Timber Press.
   - Sieger, J. (2022). "Epiphyte Mounting: Techniques for Long-Term Success." Orchids Magazine.
+created: 2026-05-07
+type: query
 ---
 
 # How to Mount and Care for Epiphytes at Home
