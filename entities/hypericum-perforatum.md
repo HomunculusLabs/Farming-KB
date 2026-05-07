@@ -1,133 +1,139 @@
 ---
 title: Hypericum perforatum
-created: 2026-04-28
 type: species
-tags: [medicinal-plant, antidepressant, hypericaceae, hypericin, hyperforin, traditional-herbal, anti-inflammatory, antiviral, herbal]
+tags:
+  - herbal-plant
+  - medicinal-plant
+  - antidepressant
+  - permaculture
+  - apiary
+  - ethnobotany
+  - phytochemistry
 date: 2026-04-28
 updated: 2026-04-28
-sources: [https://pubmed.ncbi.nlm.nih.gov/, https://www.ncbi.nlm.nih.gov/books/NBK548091/]
+sources:
+  - https://en.wikipedia.org/wiki/Hypericum_perforatum
+  - https://www.ncbi.nlm.nih.gov/books/NBK532257/
+  - "Medical Herbalism" by David Hoffmann (2003)
+  - "St. John's Wort (Hypericum perforatum)" — Monograph, American Botanical Council (2022)
+  - European Medicines Agency (EMA) HMPC Monograph on Hyperici herba
 ---
 
 # Hypericum perforatum
 
-## Overview
+**Hypericum perforatum**, commonly known as **St. John's Wort**, is a perennial flowering plant in the family Hypericaceae. It is one of the most extensively researched medicinal plants in the world, with a body of clinical evidence supporting its use as an antidepressant that rivals many pharmaceutical alternatives. Native to Europe and Asia, it has become naturalized across much of the temperate world and is both valued for its medicinal properties and regarded as a problematic invasive species in some regions.
 
-Hypericum perforatum, commonly known as St. John's wort, is a flowering perennial plant that has been used medicinally for over 2,400 years, from ancient Greek physicians through medieval European herbalism to modern clinical phytotherapy. It is the most extensively researched herbal antidepressant, with over 100 clinical trials demonstrating efficacy for mild to moderate depression comparable to standard pharmaceutical antidepressants (SSRIs, TCAs) but with a more favorable side-effect profile. The plant's medicinal activity derives from a complex of bioactive compounds including hypericin, hyperforin, and numerous flavonoids, which act through multiple complementary mechanisms including serotonin, norepinephrine, and dopamine reuptake inhibition, as well as modulation of neuroendocrine and inflammatory pathways. St. John's wort also possesses significant antiviral, anti-inflammatory, wound-healing, and antimicrobial properties.
-
-## Taxonomy
+## Taxonomy and Classification
 
 - **Kingdom:** Plantae
 - **Clade:** Tracheophytes (vascular plants)
-- **Clade:** Angiosperms (flowering plants)
+- **Clade:** Angiosperms
 - **Clade:** Eudicots
 - **Clade:** Rosids
 - **Order:** Malpighiales
-- **Family:** Hypericaceae (St. John's wort family)
-- **Genus:** Hypericum
-- **Species:** H. perforatum L., 1753
-- **Common names:** St. John's wort, common St. John's wort, Klamath weed, goatweed, Tipton's weed, rosin rose, Johanniskraut (German), millepertuis (French), hierba de San Juan (Spanish)
-- **Etymology:** "Hypericum" from Greek "hyper" (above) + "eikon" (image"), referring to the ancient practice of hanging the plant above images to ward off evil spirits. "Perforatum" from Latin "perforatus" (pierced with holes), describing the translucent perforations visible in the leaves when held against light. "St. John's wort" refers to St. John the Baptist; the plant traditionally blooms around his feast day (June 24), and its red pigment was said to represent his martyrdom.
+- **Family:** Hypericaceae
+- **Genus:** *Hypericum*
+- **Species:** *H. perforatum*
 
-## Description
+The genus *Hypericum* contains approximately 490 species. The specific epithet *perforatum* refers to the characteristic perforated appearance of the leaves — when held against light, the translucent oil glands (pellucid dots) are visible as small holes, giving the leaf a "perforated" look.
 
-- **Growth habit:** Perennial herb, 30–120 cm tall. Erect, branching stems arising from a woody rootstock. Forms extensive rhizomatous root systems, enabling aggressive vegetative spread.
-- **Leaves:** Opposite, sessile (stalkless), ovate to oblong, 1–3 cm long and 0.3–1 cm wide. Dark green above, paler below. Characteristic feature: when held against light, numerous translucent glandular dots (oil glands) are visible, giving the leaf a "perforated" appearance — this is the diagnostic feature reflected in the species epithet. Also present are black or dark reddish nodules along the leaf margins containing hypericin.
-- **Flowers:** Bright yellow, 1.5–2.5 cm diameter, with 5 petals. Numerous stamens in 3–5 bundles (a key diagnostic feature of Hypericum). Petals often have black glandular dots along their margins. Flowers borne in broad, terminal corymbose panicles. Blooms June–September, peaking around the summer solstice.
-- **Fruit:** Ovoid to cylindrical capsule, 5–8 mm long, 3-celled, dehiscing (splitting open) when mature to release numerous small cylindrical seeds. Seeds are approximately 1 mm long, brown to dark brown.
-- **Roots:** Woody, branching rootstock with extensive rhizomes. Capable of forming dense clonal colonies through vegetative spread.
-- **Whole plant:** When fresh flowers or buds are crushed, they exude a deep reddish-purple pigment (hypericin-rich oil). The entire above-ground plant is used medicinally, harvested during flowering.
+## Botanical Description
 
-## Habitat and Distribution
+St. John's Wort is a herbaceous perennial growing 30–120 cm tall. It features:
 
-- **Native range:** Europe, western Asia (Turkey, the Caucasus), and North Africa. The precise native range is debated due to centuries of naturalization.
-- **Naturalized range:** Widely naturalized worldwide, including North America (where it arrived with European settlers), South America, Australia, New Zealand, South Africa, Japan, and eastern Asia. Classified as a noxious weed in many countries due to its invasiveness and toxicity to livestock.
-- **Habitat:** Highly adaptable. Found in meadows, pastures, roadsides, woodland margins, waste ground, and disturbed areas from sea level to 2,000 m elevation. Prefers well-drained soils, full sun to partial shade, and temperate climates.
-- **Cultivation:** Grown commercially for pharmaceutical production in Europe (Germany, France, Hungary, Poland), China, New Zealand, and Chile. Harvested during peak flowering, typically in July. Aerial parts are dried at temperatures below 40°C to preserve hypericin content.
-- **Invasive potential:** A problematic invasive species in rangelands, causing hypericism (photosensitization) in grazing livestock, particularly sheep, cattle, and horses. Biological control programs using Chrysolina beetles have been implemented in several countries.
+- **Stems:** Erect, branching, two-edged (slightly winged), with opposite leaves
+- **Leaves:** Oblanceolate to elliptic, 1–4 cm long, opposite, sessile or very short-petiolate, with distinctive translucent glandular dots visible when backlit
+- **Flowers:** Bright yellow, 1–2.5 cm in diameter, with 5 petals, numerous stamens in 3–5 bundles, blooming from June to August. The flowers contain hypericin — a red pigment that stains the fingers deep red-purple when crushed.
+- **Fruit:** A 3-valved capsule containing numerous small dark brown seeds
+- **Root system:** Extensive creeping rhizome enabling vegetative spread; individual plants can form dense clonal colonies
 
-## Chemistry and Bioactive Compounds
+## Phytochemistry
 
-Hypericum perforatum contains a complex and synergistic mixture of bioactive compounds:
+The pharmacological activity of *Hypericum perforatum* is attributed to a complex mixture of bioactive compounds:
 
-### Naphthodianthrones
+### Hypericins (naphthodianthrones)
+- **Hypericin** and **pseudohypericin** — red-pigmented anthraquinone derivatives concentrated in the flowers and buds. These are photosensitizing compounds (activated by UV light) and are primarily responsible for photosensitivity reactions. They also exhibit antiviral and antibacterial properties.
 
-- **Hypericin:** A red-pigmented anthraquinone derivative found in dark glands on leaves and petals (0.1–0.3% dry weight). Historically considered the primary antidepressant compound, though recent evidence suggests hyperforin may be more important for mood effects. Hypericin is a potent photosensitizer — it absorbs light energy (particularly UVA) and generates reactive oxygen species, which is the basis of both its antiviral activity (photodynamic therapy) and its photosensitivity side effect. Also demonstrates antiviral (particularly anti-retroviral) and antibacterial activity.
-- **Pseudohypericin:** A structurally related naphthodianthrone, typically present at concentrations similar to or slightly lower than hypericin. Shares photosensitizing and antiviral properties.
+### Hyperforins (phloroglucinol derivatives)
+- **Hyperforin** is now considered the primary antidepressant compound. It acts as a non-selective reuptake inhibitor of serotonin, norepinephrine, dopamine, GABA, and L-glutamate — a broader mechanism than any single pharmaceutical antidepressant. It is unstable and degrades rapidly, which has historically complicated standardization.
 
-### Phloroglucinol derivatives
+### Flavonoids
+- **Quercetin, rutin, hyperoside, isoquercitrin, kaempferol, amentoflavone, biapigenin** — contribute antioxidant, anti-inflammatory, and anxiolytic effects.
 
-- **Hyperforin:** An unstable prenylated phloroglucinol derivative and the most important bioactive compound for antidepressant activity. Inhibits the reuptake of serotonin, norepinephrine, dopamine, GABA, and L-glutamate — a broad-spectrum neurotransmitter reuptake inhibition profile unique among antidepressant agents. Also demonstrates potent anti-inflammatory activity (inhibits COX-1 and COX-2 at low micromolar concentrations), antibacterial activity (including MRSA), and pro-apoptotic effects on cancer cells. Highly unstable; degrades rapidly in light, air, and heat, requiring careful extraction and storage.
-- **Adhyperforin:** A related phloroglucinol with similar but less potent pharmacological activity.
+### Essential oil
+- Contains **tert-butyl hydroquinone**, **2-methyloctane**, **undecane**, and various sesquiterpenes.
 
-### Flavonoids and flavonol glycosides
+### Tannins
+- Catechin-type tannins contributing astringent properties.
 
-- **Quercetin, quercitrin, isoquercitrin, rutin, hyperoside:** Flavonol glycosides that contribute antioxidant, anti-inflammatory, and anxiolytic activity. Hyperoside (quercetin-3-O-galactoside) is a major constituent.
-- **Amentoflavone:** A biflavonoid with anxiolytic (benzodiazepine-receptor binding), antiviral, and anti-inflammatory properties.
-- **Biflavonoids:** Including I3,II8-biapigenin, with activity at GABA_A receptors.
+## Clinical Evidence
 
-### Other constituents
+### Depression (Major Depressive Disorder)
 
-- **Xanthones:** Including mangiferin and gentisein, with antioxidant and hepatoprotective properties.
-- **Essential oil:** Containing α-pinene, β-pinene, myrcene, limonene, and caryophyllene.
-- **Tannins:** Catechin-type condensed tannins with astringent and wound-healing properties.
-- **Amino acids and organic acids:** Including γ-aminobutyric acid (GABA) and caffeic acid derivatives.
+St. John's Wort is the most extensively studied herbal antidepressant. A 2008 Cochrane review (Linde et al.) analyzing 29 trials with 5,489 patients found:
 
-## Pharmacology and Traditional Uses
+- Superior to placebo with an odds ratio of 1.98 (95% CI: 1.49–2.64)
+- Comparable in efficacy to standard antidepressants (TCAs and SSRIs)
+- Significantly fewer adverse effects than pharmaceutical comparators
+- Higher continuation rates due to better tolerability
 
-### Historical and traditional use
+Subsequent meta-analyses have generally confirmed these findings, though with important caveats:
 
-- Used by Hippocrates (c. 400 BCE) and Dioscorides (c. 50 CE) for sciatica, wounds, and menstrual disorders
-- Paracelsus (1493–1541) recommended it for wounds, burns, and nerve pain
-- In medieval European folk medicine, hung above doors on St. John's Day (June 24) to ward off evil spirits and protect against disease
-- Oil macerate (St. John's oil) has been used for centuries as a topical wound healer and anti-inflammatory rub
-- Extensively used in European phytotherapy (Commission E, ESCOP, HMPC monographs) for depression, anxiety, and wound healing
+- Evidence is strongest for **mild to moderate depression**; data for severe depression is more limited
+- Doses in positive trials typically ranged from 300–900 mg of standardized extract daily
+- **Standardization to hyperforin content** (not just hypericin) correlates better with clinical efficacy
+- Significant heterogeneity between studies exists
 
-### Antidepressant activity
+### Other Indications (with varying evidence levels)
 
-- The most extensively studied herbal antidepressant, with meta-analyses of over 100 clinical trials demonstrating consistent efficacy for mild to moderate major depressive disorder
-- Comparable efficacy to SSRIs (fluoxetine, sertraline, paroxetine) and TCAs (amitriptyline, imipramine) in head-to-head trials for mild-moderate depression
-- Superior to placebo with effect sizes comparable to standard antidepressants (Cohen's d ≈ 0.5–0.7)
-- Lower incidence of side effects than SSRIs (particularly lower rates of sexual dysfunction, weight gain, and sedation)
-- Multi-target mechanism: hyperforin's broad-spectrum monoamine reuptake inhibition, hypericin's MAO inhibition (at high doses), and amentoflavone's GABA modulation may all contribute synergistically
-- The multi-target mechanism may explain why St. John's wort has broader efficacy across different depression subtypes compared to single-target pharmaceuticals
+- **Topical wounds and burns:** Hypericin-containing oils promote wound healing (traditional use with moderate clinical support)
+- **Anxiety disorders:** Some evidence for anxiolytic effects, possibly mediated by GABA modulation
+- **Somatoform disorders:** Limited evidence for improvement in medically unexplained physical symptoms
+- **Viral infections:** In vitro activity against enveloped viruses (HSV, HIV, influenza) has not translated to clinical efficacy; hypericin's photosensitizing properties complicate systemic use
 
-### Antiviral activity
+## Drug Interactions
 
-- Hypericin demonstrates potent antiviral activity through photodynamic mechanisms — when activated by visible or UVA light, it generates singlet oxygen and other reactive oxygen species that damage viral envelopes and capsids
-- In vitro activity against HIV, hepatitis C, herpes simplex, influenza, and SARS-CoV-2
-- Investigated as a blood product purifier to inactivate enveloped viruses in transfusion medicine
-- Photodynamic antiviral therapy remains an area of active research
+St. John's Wort is a **potent inducer of cytochrome P450 enzymes** (particularly CYP3A4) and **P-glycoprotein (ABCB1)**. This leads to clinically significant interactions with numerous medications:
 
-### Wound healing and anti-inflammatory activity
+- **Oral contraceptives:** Reduced efficacy, risk of breakthrough bleeding and unintended pregnancy
+- **Warfarin:** Reduced anticoagulant effect, increased risk of thrombotic events
+- **SSRIs/SNRIs:** Risk of serotonin syndrome when combined
+- **Immunosuppressants (cyclosporine, tacrolimus):** Reduced blood levels, risk of organ rejection in transplant patients
+- **Antiretrovirals (protease inhibitors, NNRTIs):** Reduced plasma concentrations
+- **Benzodiazepines and other CNS depressants:** Reduced efficacy through enzyme induction
+- **Theophylline:** Accelerated clearance
+- **Digoxin:** Reduced plasma levels through P-glycoprotein induction
 
-- Traditional topical use as St. John's oil (hypericin-rich macerate in olive oil) is supported by modern evidence of anti-inflammatory, antimicrobial, and tissue-regenerating properties
-- Hyperforin inhibits COX-1 and COX-2, reducing prostaglandin-mediated inflammation
-- Tannins and flavonoids provide astringent and antioxidant effects that support wound healing
-- Demonstrated efficacy in atopic dermatitis, minor burns, and surgical wound healing in clinical studies
+These interactions can persist for **2–3 weeks after discontinuation** due to sustained enzyme induction. St. John's Wort should not be combined with any of the above medications without medical supervision.
 
-### Anxiolytic activity
+## Photosensitivity
 
-- Amentoflavone binds to the benzodiazepine site of the GABA_A receptor, producing anxiolytic effects
-- Clinical evidence supports adjunctive use for anxiety disorders, particularly generalized anxiety and social anxiety
-- May have advantages over benzodiazepines due to lack of sedation, tolerance, and dependence
+Hypericin is a potent photosensitizer. Oral ingestion at therapeutic doses can cause **photosensitivity dermatitis** in susceptible individuals, manifesting as redness, itching, and blistering on sun-exposed skin. This risk is dose-dependent and is more pronounced with higher hypericin concentrations. Fair-skinned individuals and those taking higher doses should use sun protection.
 
-## Legal Status and Safety
+## Cultivation and Permaculture Applications
 
-- **Regulatory status:** Approved as a prescription antidepressant in Germany (commissioned by the German Commission E since 1984) and available as a licensed traditional herbal medicine in the European Union under the THR framework. Available as a dietary supplement in the United States (DSHEA). Listed in the European Pharmacopoeia, British Pharmacopoeia, and Chinese Pharmacopoeia. Not approved as a prescription antidepressant in the United States, UK (NICE guidelines), or Australia (where a prescription is required in some states).
-- **Drug interactions (major clinical concern):** St. John's wort is one of the most potent herbal inducers of cytochrome P450 enzymes (particularly CYP3A4) and the drug transporter P-glycoprotein. This can dramatically reduce blood levels of numerous critical medications including: oral contraceptives (risk of breakthrough bleeding and pregnancy), warfarin (risk of thrombosis), cyclosporine (risk of organ transplant rejection), antiretroviral protease inhibitors (risk of HIV treatment failure), digoxin, theophylline, oxycodone, and many others. Patients should consult their physician before combining St. John's wort with any prescription medication.
-- **Contraindications:** Not recommended for severe depression (insufficient evidence). Contraindicated with all MAO inhibitors (risk of serotonin syndrome). Contraindicated with SSRIs, SNRIs, and other serotonergic drugs (serotonin syndrome risk). Avoid in bipolar disorder (may trigger mania). Not recommended during pregnancy or breastfeeding.
-- **Photosensitivity:** Hypericin is a potent photosensitizer. High doses may cause photosensitivity reactions (sunburn-like skin reactions) in fair-skinned individuals exposed to intense sunlight, though this is uncommon at standard therapeutic doses.
-- **Side effects:** Generally well-tolerated at standard doses (300 mg extract standardized to 0.3% hypericin, 3 times daily). Most common side effects are mild gastrointestinal complaints, dizziness, dry mouth, and fatigue. Sexual dysfunction rate is significantly lower than with SSRIs.
+*Hypericum perforatum* is remarkably hardy and adaptable:
+
+- **Hardiness:** USDA Zones 3–8; tolerates a wide range of soil conditions from sandy to clay
+- **Light:** Full sun to partial shade; flowering is reduced in shade
+- **Propagation:** Seed (stratification improves germination), division of rhizomes, stem cuttings
+- **Growth rate:** Rapid; can become invasive in disturbed soils, pastures, and rangelands
+
+In **permaculture systems**, St. John's Wort serves multiple functions:
+
+- **Medicinal herb layer** in food forest understories
+- **Ground cover** with extensive root systems for erosion control
+- **Insectary plant** — attracts pollinators including bees, which produce a distinctive reddish-tinged honey from its nectar
+- **Dynamic accumulator** — roots access deep soil minerals
+- **Companion planting** — general pest deterrence (though allelopathic effects on neighboring plants have been documented)
+
+## Invasive Status
+
+*H. perforatum* is classified as a noxious weed in over 20 countries. It is particularly problematic in rangelands where it displaces native forage species and causes **hypericin photosensitization in livestock** (especially sheep and cattle), a condition known as "hypericism" or "St. John's Wort poisoning." Biological control programs using the beetle *Chrysolina quadrigemina* have been implemented in Australia and North America with mixed success.
 
 ## See Also
 
-- [[hypericin]]
-
-- [[leonurus-cardiaca]]
-- [[mimosa-tenuiflora]]
-- [[scutellaria-baicalensis]]
-
-- hypericin — Primary naphthodianthrone photosensitizer and antiviral compound
-- hyperforin — Primary antidepressant compound with broad-spectrum monoamine reuptake inhibition
-- amentoflavone — Biflavonoid with GABA_A receptor binding and anxiolytic properties
-- [[psilocybe-cubensis]] — Natural psychedelic with serotonergic mechanism, relevant for comparative neuropharmacology
+- [[hypericin]] — primary photosensitizing naphthodianthrone compound
+- [[hyperforin]] — primary antidepressant phloroglucinol compound
+- [[herbal-antidepressants]] — comparison with other botanical mood medicines
+- [[permaculture-medicinal-plants]] — medicinal species in permaculture design
