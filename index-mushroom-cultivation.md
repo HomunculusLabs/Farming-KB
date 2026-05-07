@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1351 pages**
+**1354 pages**
 
 ## #
 
@@ -1056,6 +1056,7 @@
 - [[oyster-mushroom-hypocrea-disease]]
 - [[oyster-mushroom-lifecycle-and-reproduction]]
 - [[oyster-mushroom-marketing-economics]]
+- [[oyster-mushroom-non-sterilized-substrate-cultivation]]
 - [[oyster-mushroom-nutritional-composition]]
 - [[oyster-mushroom-outdoor-low-tech-cultivation]]
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
@@ -1063,6 +1064,7 @@
 - [[oyster-mushroom-ph-and-substrate-chemistry]]
 - [[oyster-mushroom-pleurotus-ostreatus]]
 - [[oyster-mushroom-shelf-cultivation]]
+- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
 - [[oyster-mushroom-short-log-cultivation]]
 - [[oyster-mushroom-spawn-preparation]]
 - [[oyster-mushroom-spawn-production]]
@@ -1079,6 +1081,7 @@
 - [[oyster-mushroom-substrate-materials-guide]]
 - [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-substrates]]
+- [[oyster-mushroom-sunflower-seed-hull-substrate]]
 - [[oyster-mushroom-supplemented-sawdust-blocks]]
 - [[oyster-mushroom-varieties]]
 - [[oyster-mushroom-viral-diseases]]

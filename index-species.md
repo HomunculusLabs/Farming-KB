@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2251 pages**
+**2259 pages**
 
 ## #
 
@@ -267,6 +267,7 @@
 - [[amanita-caesarea]]
 - [[amanita-caesarea-mycology]]
 - [[amanita-ceceliae]]
+- [[amanita-cesarea]]
 - [[amanita-flavoconia]]
 - [[amanita-gemmata]]
 - [[amanita-jacksonii]]
@@ -407,6 +408,7 @@
 - [[biscotti-strain]]
 - [[bjerkandera-adusta]]
 - [[black-locust-entity]]
+- [[black-tuna]]
 - [[black-walnut-juglans-nigra]]
 - [[blackberry-kush]]
 - [[blastomyces-dermatitidis]]
@@ -541,6 +543,7 @@
 - [[chocolope]]
 - [[chondrostereum-purpureum]]
 - [[chop-and-drop]]
+- [[christian-ratsch]]
 - [[chroogomphus-rutilus]]
 - [[cichorium-intybus]]
 - [[cicuta-maculata]]
@@ -688,6 +691,7 @@
 - [[david-holmgren]]
 - [[dbt-entity-tihkal]]
 - [[deconica-crobula]]
+- [[delta-8-thc]]
 - [[dennis-mckenna]]
 - [[derris-indica]]
 - [[deschloroketamine]]
@@ -867,6 +871,7 @@
 - [[food-forest]]
 - [[food-forest-permaculture]]
 - [[forbidden-fruit-cannabis]]
+- [[fuligo-septica]]
 - [[fusarium-culmorum]]
 - [[fusarium-graminearum]]
 - [[fusarium-lateritium]]
@@ -984,6 +989,7 @@
 - [[gymnopilus-ventricosus]]
 - [[gymnopilus-viridans]]
 - [[gymnopus-dryophilus]]
+- [[gymnopus-junonius]]
 - [[gymnopus-liquidambaris]]
 - [[gynostemma-pentaphyllum]]
 - [[gynostemma-pentaphyllum-entity]]
@@ -1685,6 +1691,7 @@
 - [[plantago-lanceolata]]
 - [[plantago-major]]
 - [[platanus-x-hispanica]]
+- [[platinum-garlic]]
 - [[plectranthus-amboinicus]]
 - [[pleuran]]
 - [[pleurotin]]
@@ -2126,6 +2133,7 @@
 - [[terpinolene]]
 - [[tetrahydrocannabinol-thc]]
 - [[tetrahydrocannabinolic-acid-thca]]
+- [[tetrahydrocannabiphorol-thcp]]
 - [[tetrahydrocannabivarin-thcv]]
 - [[tetrahydroharmine]]
 - [[tetrahydroharmine-entity-tihkal]]
