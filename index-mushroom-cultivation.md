@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1387 pages**
+**1395 pages**
 
 ## #
 
@@ -1134,13 +1134,17 @@
 - [[pf-tek]]
 - [[pf-tek-aborts-and-potency-harvesting]]
 - [[pf-tek-alcohol-extraction-method]]
+- [[pf-tek-brown-rice-flour-freshness-and-preparation]]
 - [[pf-tek-cake-birthing-technique]]
 - [[pf-tek-canning-jar-lid-configuration]]
 - [[pf-tek-contaminant-source-identification]]
 - [[pf-tek-control-jar-sterility-verification]]
 - [[pf-tek-desiccant-drying-technique]]
+- [[pf-tek-desiccant-types-and-sources]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-dual-chamber-terrarium-fruiting-conditions]]
+- [[pf-tek-equipment-and-material-procurement-guide]]
+- [[pf-tek-ethyl-alcohol-procurement-guide]]
 - [[pf-tek-fruiting-chamber]]
 - [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
 - [[pf-tek-guide]]
@@ -1149,6 +1153,7 @@
 - [[pf-tek-low-humidity-symptoms-and-remediation]]
 - [[pf-tek-maximum-fruiting-substrate-formula]]
 - [[pf-tek-mushroom-growth-timeline]]
+- [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
 - [[pf-tek-mushroom-potency-and-age-relationship]]
 - [[pf-tek-non-germination-troubleshooting]]
 - [[pf-tek-overview-and-history]]
@@ -1158,9 +1163,12 @@
 - [[pf-tek-psilocybe-fanaticus]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
 - [[pf-tek-psilocybin-dosage-reference]]
+- [[pf-tek-secondary-flush-and-cake-exhaustion]]
 - [[pf-tek-spraying-and-ventilation-procedure]]
+- [[pf-tek-steam-sterilization-science-and-heat-management]]
 - [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization]]
+- [[pf-tek-substrate-moisture-diagnosis-and-correction]]
 - [[pf-tek-syringe-sterilization-and-storage]]
 - [[pf-tek-vermiculite-grading-and-water-retention]]
 - [[phase-ii-room-design]]
@@ -1456,14 +1464,3 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[pf-tek-brown-rice-flour-freshness-and-preparation]]
-- [[pf-tek-equipment-and-material-procurement-guide]]
-- [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
-- [[pf-tek-spore-syringe-boiling-water-sterilization]]
-- [[pf-tek-steam-sterilization-science-and-heat-management]]
-- [[pf-tek-substrate-moisture-diagnosis-and-correction]]
-- [[russula-olivacea]]
-- [[strobilurus-esculentus]]
-- [[pf-tek-desiccant-types-and-sources]]
-- [[pf-tek-ethyl-alcohol-procurement-guide]]
-- [[pf-tek-secondary-flush-and-cake-exhaustion]]

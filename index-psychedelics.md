@@ -1368,5 +1368,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[4-ho-mpt]]
-- [[cathinone]]

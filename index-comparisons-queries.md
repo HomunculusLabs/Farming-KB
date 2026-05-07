@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1165 pages**
+**1167 pages**
 
 ## A
 
@@ -268,6 +268,7 @@
 - [[comparison-horseradish-vs-wasabi-vs-mustard-cultivation]]
 - [[comparison-hot-composting-vs-bokashi]]
 - [[comparison-hps-vs-cmh]]
+- [[comparison-hugelkultur-vs-biochar-soil-building]]
 - [[comparison-hugelkultur-vs-chinampas]]
 - [[comparison-hugelkultur-vs-keyline-design]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]
@@ -869,6 +870,7 @@
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]
 - [[query-how-to-grow-and-process-maca-root]]
+- [[query-how-to-grow-and-use-chicory]]
 - [[query-how-to-grow-and-use-lemongrass-for-pest-control]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]
@@ -1219,5 +1221,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-hugelkultur-vs-biochar-soil-building]]
-- [[query-how-to-grow-and-use-chicory]]

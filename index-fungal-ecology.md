@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2372 pages**
+**2374 pages**
 
 ## #
 
@@ -1887,7 +1887,9 @@
 - [[petroleum-degradation-fungi]]
 - [[petroleum-hydrocarbon-fungal-biodegradation]]
 - [[pezizales-discomycete-ascomycete-diversity]]
+- [[pf-tek-spore-print-jar-dehumidification-and-storage]]
 - [[pf-tek-spore-printing-and-syringe-preparation]]
+- [[pf-tek-spore-syringe-boiling-water-sterilization]]
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
 - [[phallus-impudicus-stinkhorn]]
 - [[phase-i-compost-preparation-agaricus]]

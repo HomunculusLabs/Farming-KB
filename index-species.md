@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2528 pages**
+**2538 pages**
 
 ## #
 
@@ -132,6 +132,7 @@
 - [[4-ho-met-entity-tihkal]]
 - [[4-ho-mipt]]
 - [[4-ho-mipt-entity-tihkal]]
+- [[4-ho-mpt]]
 - [[4-ho-mpt-entity-tihkal]]
 - [[4-ho-pyr-t-entity-tihkal]]
 - [[4-hydroxyindole]]
@@ -273,6 +274,7 @@
 - [[allylescaline]]
 - [[alnus-glutinosa]]
 - [[alnus-rubra]]
+- [[aloe-arborescens]]
 - [[aloe-vera]]
 - [[alpha-amanitin]]
 - [[alpha-bisabolol]]
@@ -560,6 +562,7 @@
 - [[casuarina-equisetifolia]]
 - [[catha-edulis]]
 - [[catharanthus-roseus]]
+- [[cathinone]]
 - [[catuaba]]
 - [[caulophyllum-thalictroides]]
 - [[ceanothus-thyrsiflorus]]
@@ -709,6 +712,7 @@
 - [[corydalis-yanhusuo]]
 - [[corylus-avellana]]
 - [[coryphantha-compacta]]
+- [[cover-crop]]
 - [[cpm-entity]]
 - [[cpm-entity-pihkal]]
 - [[crataegus-monogyna]]
@@ -865,6 +869,7 @@
 - [[eleagnus-angustifolia]]
 - [[eleagnus-umbellata-entity]]
 - [[elemicin]]
+- [[eleusine-coracana]]
 - [[eleutherine-bulbosa]]
 - [[eleutherococcus-senticosus]]
 - [[eleutheromyces-subulatus]]
@@ -1723,6 +1728,7 @@
 - [[oplopanax-horridus]]
 - [[opuntia-ficus-indica]]
 - [[orellanine]]
+- [[oreoz]]
 - [[oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient-ohn]]
 - [[origanum-vulgare]]
@@ -2109,6 +2115,7 @@
 - [[rehmannia-glutinosa]]
 - [[reishi-ganoderma-lucidum]]
 - [[resveratrol]]
+- [[rhamnus-purshiana]]
 - [[rheum-palmatum]]
 - [[rhizoctonia-solani]]
 - [[rhizophagus-irregularis]]
@@ -2156,6 +2163,7 @@
 - [[russula-emetica]]
 - [[russula-integra]]
 - [[russula-ochroleuca]]
+- [[russula-olivacea]]
 - [[russula-vesca]]
 - [[russula-virescens]]
 - [[russula-xerampelina]]
@@ -2280,6 +2288,7 @@
 - [[streptomyces-avermitilis]]
 - [[streptomyces-griseus]]
 - [[strobilomyces-strobilaceus]]
+- [[strobilurus-esculentus]]
 - [[stropharia-ambigua]]
 - [[stropharia-ambiguata]]
 - [[stropharia-caerulea]]
@@ -2611,8 +2620,5 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
+- [[zookies-cannabis]]
 - [[zskittlez]]
-- [[aloe-arborescens]]
-- [[cover-crop]]
-- [[eleusine-coracana]]
-- [[rhamnus-purshiana]]
