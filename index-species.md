@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2225 pages**
+**2238 pages**
 
 ## #
 
@@ -535,6 +535,7 @@
 - [[chinese-tallow-tree]]
 - [[chlorophyllum-molybdites]]
 - [[cho-han-kyu]]
+- [[chocolope]]
 - [[chondrostereum-purpureum]]
 - [[chop-and-drop]]
 - [[chroogomphus-rutilus]]
@@ -1091,6 +1092,7 @@
 - [[inocybe-aeruginascens]]
 - [[inocybe-calamistrata]]
 - [[inocybe-coelestium]]
+- [[inocybe-corydalina]]
 - [[inocybe-corydalina-entity]]
 - [[inocybe-crocata]]
 - [[inocybe-erubescens]]
@@ -1166,6 +1168,7 @@
 - [[ketamine]]
 - [[keyline-design]]
 - [[khalifa-kush]]
+- [[korean-natural-farming]]
 - [[koryaks]]
 - [[kosher-kush-entity]]
 - [[kuehneromyces-mutabilis]]
@@ -1399,6 +1402,7 @@
 - [[methyl-ma-entity-pihkal]]
 - [[methyl-mmda-2-entity-pihkal]]
 - [[michael-harner]]
+- [[mimosa]]
 - [[mimosa-cannabis]]
 - [[mimosa-hostilis]]
 - [[mimosa-pudica]]
@@ -1417,10 +1421,12 @@
 - [[mmda-entity]]
 - [[mmda-entity-pihkal]]
 - [[mme-entity-pihkal]]
+- [[mochi]]
 - [[mochi-cannabis-strain]]
 - [[monacrosporium-haptotylum]]
 - [[monarda-didyma]]
 - [[monarda-fistulosa]]
+- [[monascus-purpureus]]
 - [[monotropa-uniflora]]
 - [[morchella-angusticeps]]
 - [[morchella-deliciosa]]
@@ -1450,6 +1456,7 @@
 - [[muscimol]]
 - [[muscimol-compound]]
 - [[muscimol-entity]]
+- [[mxe]]
 - [[mycelium]]
 - [[mycena-chlorophos]]
 - [[mycena-citrinomarginata]]
@@ -1507,6 +1514,7 @@
 - [[northern-lights-cannabis]]
 - [[northern-lights-entity]]
 - [[nothofagus-obliqua]]
+- [[nuciferine]]
 - [[nuphar-lutea]]
 - [[nyc-diesel]]
 - [[nymphaea-ampla]]
@@ -1616,6 +1624,7 @@
 - [[pestalotiopsis-microspora]]
 - [[petasites-hybridus]]
 - [[peter-oei]]
+- [[pfaffia-glomerata]]
 - [[phalaris-aquatica]]
 - [[phallus-impudicus]]
 - [[phallus-impudicus-entity]]
@@ -1650,6 +1659,7 @@
 - [[piper-guineense-entity]]
 - [[piper-methysticum]]
 - [[piper-methysticum-entity]]
+- [[piper-nigrum]]
 - [[piper-nigrum-entity]]
 - [[piperine]]
 - [[piptoporus-betulinus]]
@@ -1912,6 +1922,7 @@
 - [[romulan]]
 - [[rosa-canina]]
 - [[rosa-damascena]]
+- [[rosmarinus-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - [[royal-gorilla]]
 - [[rubroboletus-satanas]]
@@ -2099,6 +2110,7 @@
 - [[termitomyces-eurhizus]]
 - [[termitomyces-eurrhizus]]
 - [[termitomyces-heimii]]
+- [[termitomyces-titanicus]]
 - [[terpinolene]]
 - [[tetrahydrocannabinol-thc]]
 - [[tetrahydrocannabinolic-acid-thca]]
@@ -2279,6 +2291,7 @@
 - [[william-ozier-williams]]
 - [[win55212-2]]
 - [[withania-somnifera]]
+- [[wofati]]
 - [[wolfiporia-cocos]]
 - [[wolfiporia-extensa]]
 

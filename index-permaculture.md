@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1567 pages**
+**1568 pages**
 
 ## A
 
@@ -1538,6 +1538,7 @@
 - [[solomon-raised-beds-and-bed-preparation]]
 - [[sport-fishery-critique-mollison]]
 - [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
+- [[stametsian-permaculture-model]]
 - [[succession-in-permaculture]]
 - [[super-guild-design-inter-connections]]
 - [[swale-construction-guide]]

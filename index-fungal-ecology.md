@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2353 pages**
+**2356 pages**
 
 ## #
 
@@ -1237,6 +1237,7 @@
 - [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
 - [[growing-gourmet-dikaryotic-mycelium-clamp-connections]]
 - [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
+- [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
 - [[growing-gourmet-morel-cultivation]]
@@ -1517,6 +1518,7 @@
 - [[mushroom-spore-dispersal-ecological-networks]]
 - [[mushroom-spore-germination-media]]
 - [[mushroom-spore-identification]]
+- [[mushroom-spore-mating-incompatibility-factors]]
 - [[mushroom-spore-printing-and-storage]]
 - [[mushroom-spore-syringe-and-inoculation]]
 - [[mushroom-spore-syringe-making]]
@@ -1767,6 +1769,7 @@
 
 ## N
 
+- [[natural-culture-myco-landscaping]]
 - [[nematode-management]]
 - [[nematode-roles-in-soil]]
 - [[nematode-trapping-fungi]]

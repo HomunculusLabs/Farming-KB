@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**857 pages**
+**856 pages**
 
 ## A
 
@@ -751,7 +751,6 @@
 - [[knf-water-soluble-potassium-functions]]
 - [[knf-water-soluble-potassium-wsk]]
 - [[knf-yeast-preparation-detailed]]
-- [[korean-natural-farming]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[korean-natural-farming-imo-recipes]]
 - [[korean-natural-farming-lab-and-ohn-recipes]]
