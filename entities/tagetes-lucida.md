@@ -192,6 +192,8 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 
 ## See Also
 
+- [[tagetes-erecta]]
+
 - [[artemisia-dracunculus]]
 - [[companion-planting]]
 - [[food-forest]]

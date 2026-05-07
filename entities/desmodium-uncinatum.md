@@ -131,5 +131,5 @@ root-knot nematodes in sandy soils.
 - [[agroforestry]]
 - [[companion-planting]]
 - [[chop-and-drop]]
-- [[dynamic-accumulator]]
+- [[dynamic-accumulator-chop-and-drop-mulching]]
 - [[comfrey]]

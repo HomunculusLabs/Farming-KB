@@ -22,7 +22,7 @@ The most drought-tolerant legumes suited for both cover cropping and grain produ
 
 ## Why Legumes in Dryland Systems?
 
-Legumes fix atmospheric nitrogen through [[rhizobia-inoculation|rhizobial symbiosis]], reducing fertilizer costs by 30–80 kg N/ha. In drought-prone regions, choosing the right species matters more than in irrigated systems because water stress reduces nodulation and fixation efficiency. The legumes listed here maintain fixation under moderate water deficit better than most alternatives.
+Legumes fix atmospheric nitrogen through [[rhizobia-legume-nodule-formation|rhizobial symbiosis]], reducing fertilizer costs by 30–80 kg N/ha. In drought-prone regions, choosing the right species matters more than in irrigated systems because water stress reduces nodulation and fixation efficiency. The legumes listed here maintain fixation under moderate water deficit better than most alternatives.
 
 ## Species Profiles
 
@@ -129,7 +129,7 @@ Legumes fix atmospheric nitrogen through [[rhizobia-inoculation|rhizobial symbio
 - **Cool-season crops** (chickpea, lupin, fenugreek): Autumn sowing in Mediterranean climates; early spring sowing in continental climates. Chickpea tolerates light frost during vegetative stage.
 - **Adzuki bean:** Late spring planting after soil warms; tolerates cooler conditions than cowpea.
 
-### [[rhizobia-inoculation|Rhizobial Inoculation]]
+### [[rhizobia-legume-nodule-formation|Rhizobial Inoculation]]
 Correct inoculant strains are critical for drought systems because stressed plants form fewer nodules. Use:
 - **Cowpea/mung/adzuki/tepary:** Bradyrhizobium (cowpea group) — commercial inoculant group EL or similar.
 - **Chickpea:** Mesorhizobium ciceri — specific chickpea inoculant.
@@ -154,7 +154,7 @@ Apply inoculant as a seed slurry with a sticking agent and plant into moist soil
 
 ## Related Topics
 - [[cover-crop-selection-guide|Cover Crop Selection Guide]]
-- [[dryland-farming-strategies|Dryland Farming Strategies]]
-- [[nitrogen-credit-calculations|Nitrogen Credit Calculations for Legume Covers]]
-- [[rhizobia-inoculation|Rhizobia Inoculation Guide]]
-- [[legume-rotation-planning|Legume Rotation Planning]]
+- [[permaculture-dryland-strategies|Dryland Farming Strategies]]
+- Nitrogen Credit Calculations for Legume Covers
+- [[rhizobia-legume-nodule-formation|Rhizobia Inoculation Guide]]
+- [[hamilton-crop-rotation-and-vegetable-planning|Legume Rotation Planning]]

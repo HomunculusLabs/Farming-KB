@@ -127,6 +127,8 @@ These three strategies are not opposing teams — they are overlapping roles in 
 
 ## See Also
 
+- [[query-what-is-the-difference-between-saprotrophic-and-parasitic-fungi]]
+
 - [[arbuscular-mycorrhizal-fungi]]
 - [[composting]]
 - [[cover-crops]]

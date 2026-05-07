@@ -96,6 +96,8 @@ Tagari has applied for a tidewater and Salicornia leasehold to test out some of 
 
 ## See Also
 
+- [[salicornia-europaea]]
+
 - [[mollison-aquatic-polyculture-and-pond-culture]] for related polyculture approaches
 - [[permaculture-designers-manual-aquatic-plants]] for aquatic plant species references
 - [[permaculture-designers-manual-cover-crops-detailed]]

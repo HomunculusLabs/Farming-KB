@@ -141,6 +141,8 @@ Heritage grains improve farm systems beyond their direct value:
 
 ## See Also
 
+- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
+
 - [[faires-grain-harvesting-and-processing]]
 - [[no-till-grain-growing]]
 - [[mollison-permaculture-two-no-tillage-grain-cropping]]

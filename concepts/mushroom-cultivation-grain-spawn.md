@@ -84,6 +84,8 @@ Generational expansion: 1 petri dish can inoculate 10 G-1 jars, which can inocul
 
 ## See Also
 
+- [[mushroom-spawn-growth-cultivation]]
+
 - [[pf-tek-fruiting-chamber]]
 - [[mushroom-substrates]]
 - [[mushroom-spawn-making-detailed]]

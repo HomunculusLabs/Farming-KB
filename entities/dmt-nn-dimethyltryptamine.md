@@ -121,6 +121,11 @@ DMT is **Schedule I** under the US Controlled Substances Act and similarly contr
 
 ## See Also
 
+- [[4-prho-dmt]]
+
+- [[dmt-nndmt]]
+- [[eth-ma]]
+
 - [[5-meo-dmt]] — Related tryptamine with distinct pharmacology
 - [[psilocybin]] — Orally active natural psychedelic tryptamine
 - [[ayahuasca-botany-and-preparation]] — Traditional DMT-containing preparation

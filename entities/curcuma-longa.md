@@ -187,6 +187,8 @@ Asia:
   Qi; prescribed for menstrual pain, chest pain, and traumatic injuries
 
 ## See Also
+
+- [[curcuma-amada]]
 - zingiber officinale
 - [[piper-methysticum-entity]]
 - [[ashwagandha]]

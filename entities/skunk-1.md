@@ -143,6 +143,8 @@ sources: ["domain-knowledge"]
   making it arguably the most genetically pervasive strain in existence
 
 ## See Also
+
+- [[skunk]]
 - [[og-kush]]
 - [[northern-lights]]
 - [[hindu-kush-cannabis-entity]]

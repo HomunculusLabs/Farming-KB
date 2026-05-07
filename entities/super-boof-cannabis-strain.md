@@ -152,6 +152,8 @@ effects.
 
 ## See Also
 
+- [[super-boof]]
+
 - [[cannabis-strain-selection-guide]]
 - [[cannabis-hindu-kush-strain-description-clarke]]
 - [[cannabis-super-cropping-technique]]

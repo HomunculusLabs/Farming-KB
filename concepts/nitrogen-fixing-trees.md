@@ -138,6 +138,8 @@ this restorative capacity.
 
 ## See Also
 
+- [[parkia-biglobosa]]
+
 - [[eleagnus-angustifolia]]
 
 - [[guild-planting-systems]]

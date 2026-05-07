@@ -138,6 +138,8 @@ specific deficiency corrections identified through visual monitoring or
 tissue testing.
 
 ## See Also
+
+- [[comparison-bokashi-vs-effective-microorganisms]]
 - [[comparison-compost-tea-vs-biochar]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[bacterial-vs-fungal-compost-teas]]

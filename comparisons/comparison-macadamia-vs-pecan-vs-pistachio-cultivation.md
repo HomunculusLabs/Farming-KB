@@ -16,7 +16,7 @@ sources:
 
 # Macadamia vs Pecan vs Pistachio Cultivation
 
-This page compares three commercially important nut tree crops: [[macadamia]], [[pecan]], and [[pistachio]]. Each occupies a distinct climatic niche and differs substantially in management requirements, economics, and end use.
+This page compares three commercially important nut tree crops: [[macadamia]], [[permaculture-pecan-tree-profile]], and [[permaculture-pistachio-guide]]. Each occupies a distinct climatic niche and differs substantially in management requirements, economics, and end use.
 
 ## Overview
 
@@ -140,4 +140,4 @@ Pistachio offers the highest protein and lowest fat content. Macadamia is highes
 | Most tolerant of alternate-bearing variability | Pistachio (least affected) |
 | Highest protein yield per hectare | Pistachio |
 
-See also: [[walnut-cultivation]], [[almond-cultivation]], [[cashew-cultivation]], [[hazelnut-cultivation]], [[nut-tree-orchard-design]], [[climate-zones-for-tree-crops]].
+See also: [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], cashew cultivation, [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[faires-orchard-design-and-intercropping]], [[permaculture-climate-zones]].

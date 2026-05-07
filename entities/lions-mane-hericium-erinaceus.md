@@ -160,6 +160,8 @@ Lion's Mane is generally regarded as safe (GRAS) with no significant toxicity da
 
 ## See Also
 
+- [[hericium-erinaceus-lions-mane-cultivation]]
+
 - [[reishi-ganoderma-lucidum]] — another prominent medicinal mushroom
 - [[chaga-inonotus-obliquus-medicinal-profile]] — adaptogenic fungus with antioxidant properties
 - [[psilocybin]] — psychoactive fungal compound for comparison of fungal chemistry

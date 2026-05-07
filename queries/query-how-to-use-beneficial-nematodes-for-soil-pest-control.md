@@ -136,7 +136,9 @@ Nematodes need a film of water to move through soil pores. Apply when soil is mo
 - **Expired product:** Check use-by date; old product has declining viability
 - **Chemical residues:** Wait 2 weeks after any chemical pesticide or fertilizer application
 
-## Related Topics
+## Related
+
+- [[query-how-do-soil-aggregates-form-and-why-do-they-matter]] Topics
 
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-how-to-make-compost-tea-for-my-plants]]

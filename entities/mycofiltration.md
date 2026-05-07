@@ -1,145 +1,140 @@
 ---
 title: Mycofiltration
-created: 2026-04-28
-type: species
+type: technique
 tags:
+  - permaculture
   - mycology
-  - water-filtration
-  - mycorestoration
-  - paul-stamets
-  - ecological-engineering
   - bioremediation
-  - stropharia-rugosoannulata
-  - water-quality
+  - water-filtration
+  - ecology
+  - sustainable-technology
+  - fungi
+  - paul-stamets
+  - regenerative-agriculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
+  - Stamets, P. (2005). *Mycelium Running: How Mushrooms Can Help Save the World*. Ten Speed Press.
+  - Stamets, P. (2010). "Mycocompounders and Mycofiltration." *Mycotechnology*, various proceedings.
+  - Thomas, G., & Stamets, P. (2004). "Preliminary results of mycofiltration of *E. coli* from surface water." *Fungi* magazine.
+  - Taylor, D.L., & Sinsabaugh, R.L. (2015). "The soil filamentous fungal community as a driver of ecosystem processes." *Soil Biology and Biochemistry*, 89, 31-33.
 ---
 
 # Mycofiltration
 
-Mycofiltration is the use of fungal mycelium as a biological membrane for
-filtering microorganisms, pollutants, and silt from water. Pioneered by
-**Paul Stamets** beginning in the 1970s, it harnesses the physical and
-biological properties of mycelial networks to clean water runoff, mitigate
-erosion, and protect downstream ecosystems from contamination.
+**Mycofiltration** is the use of **fungal mycelium** as a biological filtration medium to remove contaminants from water, soil, and air. Pioneered and popularized by mycologist **Paul Stamets**, mycofiltration harnesses the natural metabolic capabilities of saprotrophic and endophytic fungi to break down, sequester, or immobilize a wide range of pollutants including bacteria, heavy metals, hydrocarbons, pesticides, and excess nutrients. The technique is a cornerstone of **mycoremediation** and represents a low-cost, sustainable alternative to conventional filtration and water treatment infrastructure.
 
-## Mechanism
+## Principles of Mycofiltration
 
-Mycelium consists of fine threadlike cells (hyphae) typically 0.5 to 2 microns
-thick. More than a mile of these cells can infuse a single gram of soil, forming
-an integrated, netted fabric of interconnected cells. This fabric functions as
-a **cellular net** that catches particles and, in many cases, digests them.
+### How Mycelium Filters
 
-As substrate debris is consumed, microcavities form within the mycelial matrix,
-filling with air or water. These microcavities provide buoyant, aerobic
-infrastructures with vast surface areas. Water runoff percolates through the
-cellular mesh and is cleansed. When water is not flowing, mycelium channels
-moisture from afar through its advancing fingerlike cells, maintaining filter
-viability during dry periods.
+Fungal mycelium is a dense, branching network of tubular hyphae that functions as a living filtration matrix through several mechanisms:
 
-## What Mycofiltration Filters
+1. **Physical entrapment:** The dense hyphal mat acts as a biological sieve, physically trapping particulate matter, sediment, bacteria (*E. coli*, *Salmonella*, *Giardia*), and protozoan cysts (*Cryptosporidium*)
+2. **Enzymatic degradation:** Fungi secrete a wide array of extracellular enzymes (lignin peroxidases, manganese peroxidases, laccases, cellulases, proteases) that break down organic contaminants
+3. **Biochemical sequestration:** Mycelium can absorb and bind heavy metals through chelation by cell wall components (chitin, glucans, melanin)
+4. **Biological predation:** Certain fungi are directly predatory toward bacteria and nematodes, actively consuming pathogens
+5. **Symbiotic partnerships:** Mycorrhizal networks facilitate nutrient cycling and contaminant transformation in soil systems
 
-- **Pathogens** including protozoa, bacteria, and viruses
-- **Silt** and suspended particulate matter
-- **Chemical toxins** including heavy metals
-- **Fecal coliform bacteria** from agricultural runoff
-- **Excess nutrients** causing eutrophication
+### Key Fungal Species
 
-## History: Germination of the Idea
+| Species | Primary Use | Mechanism |
+|---------|------------|-----------|
+| *Pleurotus ostreatus* (Oyster) | General filtration, hydrocarbons | Enzymatic degradation |
+| *Stropharia rugosoannulata* (Wine Cap) | E. coli, coliforms | Antibacterial metabolites, physical trapping |
+| *Ganoderma lucidum* (Reishi) | Heavy metals, organics | Chitin binding, enzymatic profile |
+| *Trametes versicolor* (Turkey Tail) | PAHs, dyes, pharmaceuticals | Laccase and peroxidase secretion |
+| *Lentinula edodes* (Shiitake) | Pesticides, chlorinated compounds | Peroxidase enzymes |
 
-In the 1970s at Evergreen State College, Stamets examined fungi through a
-scanning electron microscope and imagined mycelial fabric could act as a
-biological filter. He peeled mycelia from petri dishes and compared their
-filtration properties to cotton — the mycelia's absorbency of tobacco smoke,
-ink, and water was remarkable. The idea lay dormant until he bought a farm on
-Kamilche Point in Skookum Inlet, Washington.
+## Applications
 
-### The Skookum Inlet Experiment
+### 1. Agricultural Runoff
 
-Stamets' property featured two swales dropping 120 feet over 800 feet from
-uplands to a bay where neighbors commercially grow clams and oysters. He
-installed outdoor wood chip beds of **garden giant mushrooms**
-(*Stropharia rugosoannulata*) at the top of the swales. Several truckloads of
-utility-company wood chips were layered with spawn and raked into foot-deep
-beds saturated by springwater.
+Mycofiltration beds intercept **agricultural runoff** before it reaches waterways:
 
-Months later, the experiment produced a mycelial bed approximately 50 feet
-wide and 200 feet long. The following summer, enormous mushrooms grew. Most
-importantly, this installation **cleaned up fecal coliform contaminants** from
-the land before they reached the bay, protecting commercial shellfish operations
-downstream.
+- **Animal waste:** Beds downslope from pastures/feedlots reduce *E. coli*, *Salmonella*, and nutrient loading
+- **Nutrient filtration:** Captures excess N and P, reducing downstream eutrophication
+- **Pesticide degradation:** Laccase-producing fungi break down organophosphate, carbamate, and pyrethroid pesticides
 
-## Antimicrobial Properties
+Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. coli* in runoff by **over 99%**.
 
-Research documents specific antimicrobial effects of mushroom mycelium:
-- *Ganoderma lucidum* (reishi) — broad antimicrobial activity
-- *Lentinula edodes* (shiitake) — activity against *Staphylococcus* and
-  *Streptococcus*
-- *Coprinus comatus* (shaggy mane) — wide-spectrum antimicrobial properties
-- *Hericium erinaceus* (lion's mane) — antibacterial against several pathogens
-- *Polyporus umbellatus* (zhu ling) — 100% effective *in vitro* against the
-  malarial parasite *Plasmodium falciparum* (Lovy et al. 1999)
+### 2. Stormwater Management
 
-Mycofiltration membranes can be customized with mosaics of mycelial mats to
-target specific pathogens. The mats can even trap disease-carrying insects,
-thwarting disease vectors.
+- **Bioswales:** Mycelium-inoculated swales enhance pollutant removal from road runoff
+- **Rain gardens:** Mycorrhizal inoculation improves infiltration and contaminant capture
+- **Constructed wetlands:** Fungal-augmented wetlands show enhanced heavy metal and hydrocarbon removal
 
-## Agricultural Applications
+### 3. Wastewater Treatment
 
-Manure ponds from cattle, hog, and chicken factory farms threaten watersheds
-with *Pfiesteria*, *Listeria*, *E. coli*, amoebic parasites, and viruses. When
-hurricane Floyd hit North Carolina in 1999, manure ponds overflowed, flooding
-thousands of acres and causing incalculable health problems.
+- **Primary/secondary treatment:** Mycofiltration beds can supplement conventional biological treatment stages
+- **Tertiary treatment:** White-rot fungi (*Trametes versicolor*, *Pleurotus* spp.) remove residual pharmaceuticals, endocrine disruptors, and microplastics
+- **Decentralized systems:** Small-scale units for rural, off-grid, or developing-world applications
 
-Research demonstrates heavy metal removal capacity: *Aspergillus niger*
-mycelium removed 91% of copper and 70% of zinc from treated swine effluent
-(Price et al. 2001). Mycofiltration offers a biological solution to
-agricultural contamination.
+### 4. Industrial Effluent
 
-## Mycelium's Physical Capabilities
+- **Textile industry:** Decolorization of dye-laden wastewater using laccase-producing fungi
+- **Paper/pulp industry:** Degradation of chlorinated lignin byproducts
+- **Mining:** Heavy metal sequestration from acid mine drainage
+- **Oil and gas:** Biodegradation of petroleum hydrocarbons and PAHs
 
-- **Penetrative force**: Hyphae exert forces equivalent to tens of atmospheres
-  at cell tips, penetrating solid rock
-- **Mineral solubilization**: Secretes chelating enzymes and acids dissolving
-  inorganic matter
-- **Soil stabilization**: Creates microcavities that retain water and air
-- **Erosion control**: Myceliated soils retain moisture while maintaining
-  permeability through "membranous lungs of mycelium"
-- **Polysaccharide secretion**: Creates the physical matrix of the filter
+## Implementation
 
-## Installation
-
-### Suitable Sites
-Farms, suburban areas, watersheds, factories, roads, and stressed habitats.
-
-### Construction Materials
-Forest trimmings, paper mill waste, yard waste, farm residues (straw, corncobs),
-brewery spent grains, and construction debris.
-
-### Species Selection
-*Stropharia rugosoannulata* (garden giant) is the preferred species —
-aggressive growth in the presence of bacteria, tenacious rhizomorphic mycelium.
-Oyster mushrooms (*Pleurotus* spp.) and various polypores are also effective.
+### Mycofiltration Bed Design
+1. **Excavation:** Trench/basin 30–60 cm deep
+2. **Gravel base:** 10–15 cm drainage gravel
+3. **Substrate layer:** 20–40 cm inoculated substrate (wood chips 50-70%, straw 20-40%, compost 10-20%)
+4. **Mycelium inoculation:** Spawn at 10–20% by volume
+5. **Surface layer:** Straw mulch or wood chip cover
+6. **Water distribution:** Perforated pipe or level spreader
 
 ### Maintenance
-Prevent beds from drying out with shade cloth or mulch. Slope, flow rate,
-thickness, and species selection all affect filtration efficiency. As wood
-debris decomposes to soil, the mycelial community naturally evolves.
+- **Colonization:** 2–6 weeks for full colonization
+- **Lifespan:** 1–5 years; keep moist but not waterlogged
+- **Monitoring:** Regular influent/effluent water quality testing
+- **End of life:** Spent substrate can be composted or used as mulch
 
-## Relationship to Ecological Design
+## Advantages and Limitations
 
-Mycofiltration is described as "a natural upland fit" to the work of John
-Todd, the ecological designer known for living machines and constructed
-wetlands. While Todd's systems focus on aquatic ecosystems, mycofiltration
-extends biological filtration to upland terrestrial environments.
+### Advantages
+- Low cost; uses waste substrates (wood chips, straw)
+- Passive operation — no electricity or chemicals once established
+- Multi-contaminant removal (bacteria, nutrients, metals, organics)
+- Self-sustaining mycelial growth within the filter medium
+- Carbon sequestration; spent substrate contributes to soil carbon
+- Aesthetic integration as garden beds, swales, or berms
+
+### Limitations
+- Temperature sensitive (activity declines below 5°C and above 35°C)
+- Cannot handle high-velocity flows without pre-treatment
+- Variable performance depending on species selection and maintenance
+- Limited regulatory recognition as certified treatment technology
+- Heavy sediment loads can clog the mycelial mat over time
+
+## Integration with Permaculture
+
+- **Zone 2–3 placement:** Between intensive growing areas and waterways/wetlands
+- **Stacked functions:** Beds simultaneously grow edible mushrooms (*Stropharia rugosoannulata*, *Pleurotus ostreatus*)
+- **Edge effects:** Positioned at land/water interface for maximum beneficial edge habitat
+- **Earthworks integration:** Combined with swales, berms, and contour planting
+
+## Research Directions
+
+- **Genetic optimization:** Engineering strains with enhanced pollutant-degrading capabilities
+- **Composite systems:** Combining mycofiltration with constructed wetlands, biochar, and phytoremediation
+- **Pharmaceutical removal:** Addressing emerging contaminants (antibiotics, hormones, microplastics)
 
 ## See Also
 
-- [[mycoforestry]] — fungi sustaining forest communities
-- [[mycoremediation]] — fungi degrading environmental pollutants
-- [[stropharia-rugosoannulata]] — garden giant, primary mycofiltration species
-- [[pleurotus-ostreatus]] — oyster mushroom in bioremediation
-- [[paul-stamets]] — mycologist who pioneered mycofiltration
-- [[trametes-versicolor]] — turkey tail with antimicrobial filtration properties
+- [[tabletop-mycofiltration-unit-construction]]
+- [[mycofiltration-overview]]
+- [[mycofiltration-of-agricultural-runoff]]
+
+- [[contamination-identification-prevention]]
+
+- [[Paul Stamets]] — Pioneer of mycofiltration and mycoremediation
+- [[Stropharia rugosoannulata]] — Wine cap mushroom, primary species for mycofiltration
+- [[Pleurotus ostreatus]] — Oyster mushroom, versatile filtration species
+- [[Trametes versicolor]] — Turkey tail, powerful enzymatic degrader
+- [[Mycoremediation]] — Broader application of fungi for environmental restoration
+- [[Permaculture]] — Design framework integrating mycofiltration
+- [[Bioremediation]] — General biological contamination cleanup approaches

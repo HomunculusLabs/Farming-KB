@@ -123,6 +123,8 @@ A. bitorquis is comparable to other Agaricus species in nutritional content:
 
 ## See Also
 
+- [[agaricus-aurora]]
+
 - [[agaricus-campestris]] — Common meadow species for comparison
 - [[agaricus-arvensis]] — Horse Mushroom, larger grassland species
 - [[agaricus-brunnescens]] — Cultivation methods applicable to Agaricus species

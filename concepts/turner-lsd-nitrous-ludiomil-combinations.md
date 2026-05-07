@@ -104,7 +104,9 @@ The LSD + Ludiomil combination occupies a unique niche among [[turner-psychedeli
 
 - As with all experimental combinations, exercise caution and research thoroughly
 
-## Related Topics
+## Related
+
+- [[nitrous-oxide]] Topics
 
 - [[turner-multiple-combinations-cosmic-synergism]] - Multi-substance combinations including LSD
 

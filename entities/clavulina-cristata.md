@@ -143,6 +143,8 @@ obligate association with algae.
 
 ## See Also
 
+- [[clavulina-rugosa]]
+
 - [[cantharellus-cibarius]] — Chanterelle, fellow Cantharellales member of forest floors
 - [[ectomycorrhiza]] — Mutualistic root-fungus symbiosis central to forest ecology
 - [[ramaria-stricta]] — Common coral fungus of similar appearance but larger stature

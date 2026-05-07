@@ -123,7 +123,7 @@ acted on scheduling recommendations.
 - [[dextromethorphan]]
 - [[lsd]]
 - [[mdma]]
-- [[pcp]]
+- pcp
 - [[mxe]]
 - [[salvinorin-a]]
 - [[dmt]]

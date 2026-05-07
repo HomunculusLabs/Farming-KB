@@ -113,6 +113,8 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 In TIHKAL, Alexander Shulgin provides limited qualitative commentary on 4-AcO-DET, reflecting its status as a less extensively characterized compound compared to the more prominent entries like 4-AcO-DMT or psilocybin. The Shulgin scale rating system places it in the moderate intensity range, consistent with its observed pharmacological profile. The compound exemplifies the systematic SAR (structure-activity relationship) approach that defined Shulgin's research program: each N-alkyl substitution variant (dimethyl, diethyl, ethyl-methyl, dipropyl) revealed incremental differences in potency, duration, and subjective character, contributing to a cumulative understanding of tryptamine receptor pharmacology. The diethyl substitution consistently produces compounds with somewhat reduced potency but smoother, more "grounded" experiential profiles compared to their dimethyl counterparts.
 
 ## See Also
+
+- [[4-aco-det]]
 - [[4-aco-dmt]]
 - [[4-ho-mipt]]
 - [[4-ho-met]]

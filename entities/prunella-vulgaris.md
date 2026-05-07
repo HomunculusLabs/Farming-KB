@@ -129,6 +129,8 @@ P. vulgaris offers multiple functions in permaculture design:
 
 ## See Also
 
+- [[calluna-vulgaris]]
+
 - [[rosmarinus-officinalis-entity]]
 - [[salvia-officinalis]]
 - rosmarinic acid

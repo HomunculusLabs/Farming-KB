@@ -91,3 +91,7 @@ Palmer recommended two methods:
 He also dried mushrooms for winter: "No better substitute for meat than fungus can be found. Neither its odor when cooking, nor the gravy it makes, resembles any form of vegetable food. This is but natural, since the plant absorbs oxygen from the air, after the manner of animals."
 
 See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
+
+## See Also
+
+- [[nineteenth-century-mycology-public-ignorance]]

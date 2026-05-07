@@ -148,4 +148,4 @@ The preservation of Acapulco Gold and other Mexican landrace cannabis varieties 
 - [[panama-red]] — Another legendary Central American landrace sativa
 - [[colombian-gold]] — Colombian landrace with similar cultural significance
 - [[cannabis-sativa]] — Species-level page
-- [[terpenes]] — Overview of cannabis terpene chemistry and entourage effect
+- terpenes — Overview of cannabis terpene chemistry and entourage effect

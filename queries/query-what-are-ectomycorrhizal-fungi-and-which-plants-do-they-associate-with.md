@@ -150,3 +150,7 @@ temperature, soil pH, nutrient availability, and organic matter accumulation.
 ## Related Questions
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]
+
+## See Also
+
+- [[serendipita-indica]]

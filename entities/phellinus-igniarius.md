@@ -106,6 +106,8 @@ Bioavailability of hispolon is moderate, with peak plasma concentrations reached
 
 ## See Also
 
+- [[phellinus-gilvus]]
+
 - [[fomes-fomentarius]]
 - [[phellinus-linteus]]
 - [[inonotus-obliquus]]

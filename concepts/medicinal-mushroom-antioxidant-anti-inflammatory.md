@@ -92,6 +92,8 @@ The antioxidant and anti-inflammatory properties of mushroom extracts may contri
 
 ## See Also
 
+- [[sideritis-scardica]]
+
 - [[medicinal-mushroom-guide-enoki]]
 - [[medicinal-mushroom-guide-shiitake]]
 - [[medicinal-mushroom-cardiovascular-metabolic-effects]]

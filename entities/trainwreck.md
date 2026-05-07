@@ -124,6 +124,8 @@ Schedule I substance under U.S. federal law.
 
 ## See Also
 
+- [[ghost-train-haze]]
+
 - [[trainwreck-generational-breeding]]
 
 - [[blue-dream]]

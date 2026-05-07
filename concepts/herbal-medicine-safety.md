@@ -82,6 +82,8 @@ Herbalists, naturopathic physicians, and integrative medicine practitioners with
 
 ## See Also
 
+- [[senna-alexandrina]]
+
 - [[herb-drug-interactions]] — specific herb-drug interaction details
 - [[herbal-medicine]] — overview of herbal medicine
 - [[herbal-medicine-preparation-methods]] — safe preparation practices

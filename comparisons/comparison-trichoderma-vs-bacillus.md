@@ -191,6 +191,8 @@ Combining Trichoderma and Bacillus is often more effective than either alone:
 
 ## See Also
 
+- [[bacillus-amyloliquefaciens]]
+
 - [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]
 
 - [[pseudomonas]]

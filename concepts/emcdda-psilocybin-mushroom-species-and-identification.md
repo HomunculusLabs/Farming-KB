@@ -120,7 +120,9 @@ The health risks associated with picking wild mushrooms are significant
 because hallucinogenic mushrooms are easily mistakable for non-psychoactive,
 inedible, or poisonous species.
 
-## Related Topics
+## Related
+
+- [[mushroom-identification-myth-infallible-tests]] Topics
 
 - [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
   composition and pharmacological mechanisms

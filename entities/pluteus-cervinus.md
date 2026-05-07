@@ -128,6 +128,8 @@ While not commonly consumed, P. cervinus has a nutritional profile typical of wo
 
 ## See Also
 
+- [[pluteus-salvianus]]
+
 - [[pleurotus-ostreatus]] — Tree Oyster Mushroom for comparison of wood-inhabiting species
 - [[psilocybe-cyanescens]] — Shares wood chip habitat
 - [[volvariella-volvacea]] — Paddy Straw Mushroom, same family

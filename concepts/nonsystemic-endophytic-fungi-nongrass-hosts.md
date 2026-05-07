@@ -147,3 +147,7 @@ include:
 - **Surface sterilization** of plant tissues (sequential
   washes in ethanol and sodium hypochlorite) to eliminate
   epiphytic fungi
+
+## See Also
+
+- [[pestalotiopsis-microspora]]

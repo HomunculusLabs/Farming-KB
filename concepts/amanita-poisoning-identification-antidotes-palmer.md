@@ -115,7 +115,9 @@ Palmer's work was foundational in establishing:
 - That atropine from the Solanaceae is the specific antidote
 - That prompt aggressive atropine treatment saves lives
 
-## Related Pages
+## Related
+
+- [[amanita-poisoning-amanitine-toxicology]] Pages
 
 - [[amanita-genus-morphology]]
 - [[amanita-muscaria-guide]]

@@ -111,6 +111,8 @@ The Exodus Cheese clone, one of the most famous cannabis cuts in history, is bel
 
 ## See Also
 
+- [[rainbow-chips]]
+
 - [[skunk-1]] — Foundational hybrid parent of Super Skunk
 - [[afghan-kush]] — Landrace indica genetics related to the Afghani parent
 - [[northern-lights]] — Classic indica with similar breeding-era significance

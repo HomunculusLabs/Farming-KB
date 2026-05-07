@@ -80,6 +80,8 @@ The fatty acid profile of *H. repandum* is notable for its high content of linol
 
 ## See Also
 
+- [[hydnum-umbilicatum]]
+
 - [[cantharellus-cibarius]]
 - [[russula-edible-species]]
 - [[laccaria-laccata]]
