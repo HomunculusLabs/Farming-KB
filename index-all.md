@@ -1,6 +1,6 @@
 # Complete Page Index
 
-> All 13885 pages in the wiki, alphabetically.
+> All 13887 pages in the wiki, alphabetically.
 
 ## #
 
@@ -2600,6 +2600,7 @@
 - [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-desert-gardening-vs-drought-gardening]]
 - [[comparison-double-digging-vs-no-till]]
+- [[comparison-draft-animal-power-vs-tractor-farming]]
 - [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]
@@ -11909,6 +11910,7 @@
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[query-when-should-i-use-slip-form-stone-construction]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
+- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
 - [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
