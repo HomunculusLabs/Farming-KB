@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2359 pages**
+**2361 pages**
 
 ## #
 
@@ -70,6 +70,7 @@
 - [[amanita-muscaria-sacramental-wine-preparation]]
 - [[amanita-muscaria-use-australia-nz]]
 - [[amanita-phalloides-death-cap]]
+- [[amanita-poisoning-amanitine-toxicology]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
 - [[amanita-polymorphous-symbolic-names]]
 - [[amanita-preparation-methods]]
@@ -1804,6 +1805,7 @@
 - [[neurotropic-fungi-world-checklist]]
 - [[next-generation-sequencing-hidden-fungal-diversity]]
 - [[nicholas-money-mycologist]]
+- [[nineteenth-century-mycology-public-ignorance]]
 - [[nitroaromatic-degradation-by-white-rot-fungi]]
 - [[nitrogen-availability-in-legumes]]
 - [[nitrogen-fixing-plants]]

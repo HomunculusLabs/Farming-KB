@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2282 pages**
+**2296 pages**
 
 ## #
 
@@ -203,6 +203,7 @@
 - [[aflatoxin]]
 - [[agaricus-arvensis]]
 - [[agaricus-augustus]]
+- [[agaricus-aurora]]
 - [[agaricus-bisporus]]
 - [[agaricus-bitorquis]]
 - [[agaricus-blazei]]
@@ -664,6 +665,7 @@
 - [[cryptococcus-neoformans]]
 - [[cucurbita-pepo]]
 - [[curculigo-orchioides]]
+- [[curcuma-amada]]
 - [[curcuma-longa]]
 - [[curcumin]]
 - [[cuscuta-chinensis]]
@@ -705,6 +707,7 @@
 - [[desfontainia-spinosa]]
 - [[desmanthus-illinoensis]]
 - [[desmodium-gyrans]]
+- [[desmodium-uncinatum]]
 - [[desoxy-entity]]
 - [[desoxy-entity-pihkal]]
 - [[det]]
@@ -736,6 +739,7 @@
 - [[dmt]]
 - [[dmt-entity-tihkal]]
 - [[dmt-nn-dimethyltryptamine]]
+- [[dmt-nndmt]]
 - [[do-si-dos]]
 - [[do-si-dos-entity]]
 - [[doam-entity]]
@@ -832,6 +836,7 @@
 - [[eschscholzia-californica]]
 - [[eth-lad]]
 - [[eth-lad-entity-tihkal]]
+- [[eth-ma]]
 - [[ethyl-j-entity-pihkal]]
 - [[ethyl-k-entity-pihkal]]
 - [[ethylone]]
@@ -1059,6 +1064,7 @@
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
 - [[hydnum-repens]]
+- [[hydnum-umbilicatum]]
 - [[hydrastis-canadensis]]
 - [[hygrophorus-agathosmus]]
 - [[hygrophorus-chlorophanus]]
@@ -1530,6 +1536,7 @@
 - [[nicotiana-rustica]]
 - [[nicotine]]
 - [[nigella-sativa]]
+- [[nitrous-oxide]]
 - [[nmt-entity-tihkal]]
 - [[nn-dimethyltryptamine]]
 - [[nn-dmt]]
@@ -1660,6 +1667,7 @@
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
 - [[phellinus-ferreus]]
+- [[phellinus-gilvus]]
 - [[phellinus-igniarius]]
 - [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
@@ -1734,6 +1742,7 @@
 - [[pluteus-romellii]]
 - [[pluteus-salicinus]]
 - [[pluteus-saliginus]]
+- [[pluteus-salvianus]]
 - [[pluteus-salvinus]]
 - [[pluteus-umbrosus]]
 - [[pluteus-villosus]]
@@ -1916,6 +1925,7 @@
 
 ## R
 
+- [[rainbow-chips]]
 - [[rainbow-gtz]]
 - [[ralph-metzner]]
 - [[ramaria-botrytis]]
@@ -2033,6 +2043,7 @@
 - [[sheet-mulching]]
 - [[shepherdia-canadensis]]
 - [[sida-rhombifolia]]
+- [[sideritis-scardica]]
 - [[silene-capensis]]
 - [[silicon]]
 - [[silphium-laciniatum]]
@@ -2041,6 +2052,7 @@
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
 - [[sinapis-alba]]
+- [[skunk]]
 - [[skunk-1]]
 - [[skywalker-og]]
 - [[slurricane]]
@@ -2100,6 +2112,7 @@
 - [[sun-ra]]
 - [[sundae-driver]]
 - [[sunset-sherbet]]
+- [[super-boof]]
 - [[super-boof-cannabis-strain]]
 - [[super-glue]]
 - [[super-lemon-haze]]
@@ -2118,6 +2131,7 @@
 - [[tabernaemontana-divaricata]]
 - [[tabernanthe-iboga]]
 - [[tagasaste]]
+- [[tagetes-erecta]]
 - [[tagetes-erecta-entity]]
 - [[tagetes-lucida]]
 - [[tagetes-minuta]]
