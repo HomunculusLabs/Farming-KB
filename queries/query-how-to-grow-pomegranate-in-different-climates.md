@@ -10,6 +10,8 @@ sources:
   - https://www.almanac.com/plant/pomegranates
   - https://ucanr.edu/sites/alternativefruits/Pomegranate/
   - https://www.permaculture.co.uk/articles/growing-pomegranates-cooler-climates
+type: query
+created: 2026-05-03
 ---
 
 # How Do I Grow Pomegranate in Different Climates?

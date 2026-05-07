@@ -16,6 +16,7 @@ sources:
   - Patel, S., Gheewala, T., Patel, A. (2011). "In-vitro cytotoxicity activity of Solanum nigrum extract against Hep-2 cell line and Vero cell line." International Journal of Pharma and Bio Sciences 2(1): 348-356.
   - Bagalkotkar, G., Sagineedu, S.R., Saad, M.S., Stanslas, J. (2006). "Phytochemicals from Phyllanthus niruri Linn. and their pharmacological activities." Journal of Pharmacy and Pharmacology 58(12): 1559-1570.
   - WHO Monographs on Medicinal Plants, Volume 4 (2009). World Health Organization.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -16,6 +16,7 @@ sources:
   - Chen, J. et al. (2019). "Chemical constituents and pharmacological effects of Sanghuangporus vaninii." Journal of Ethnopharmacology 245: 112160.
   - Wang, X. & Liu, S. (2021). "Antitumor activity of Sanghuangporus vaninii extracts." Frontiers in Pharmacology 12: 680342.
   - Wu, F. et al. (2020). "Sanghuangporus vaninii and its potential health benefits: a review." Journal of Fungi 6(4): 331.
+created: 2026-04-28
 ---
 
 ## Overview

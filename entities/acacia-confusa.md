@@ -150,3 +150,4 @@ tissue used for extraction.
 - [[agroforestry]]
 - [[bufotenin]]
 - [[bufotenine]]
+- [[mimosa]]

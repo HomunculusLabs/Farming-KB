@@ -116,6 +116,8 @@ The pest deterrence is a secondary benefit that emerges naturally from a well-fu
 
 ## See Also
 
+- [[ingham-foliar-insect-pest-deterrence-mechanisms]]
+
 - [[aact-applications-guide-ingham]]
 - [[aact-disease-suppression-recipes]]
 - [[soil-food-web-nutrient-cycling]]

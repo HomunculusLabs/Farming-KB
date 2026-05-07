@@ -115,6 +115,9 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 - Substrate too compacted (lack of air exchange)
 
 ## Related
+
+- [[oyster-mushroom-non-sterilized-substrate-cultivation]]
+- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
 - [[cotter-oyster-mushroom-cultivation]] — for the complete cultivation cycle
 - [[oyster-mushroom-spawn-production]] — for making spawn
 - [[mushroom-cultivation-bulk-substrates]] — for broader substrate knowledge

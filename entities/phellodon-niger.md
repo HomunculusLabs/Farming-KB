@@ -15,6 +15,7 @@ sources:
   - Harrison, K.A. (1972). "Thelephorales (Aphyllophorales)." In: Ainsworth, Sparrow & Sussman, The Fungi, Vol. 4B.
   - Keller, C. (2006). "Tooth Fungi of Europe." Phellodon identification guide.
   - Hubbard, S.P. (2014). "Mycorrhizal ecology of Phellodon species." Mycorrhiza, 24(3), 183-196.
+created: 2026-04-28
 ---
 
 ## Overview

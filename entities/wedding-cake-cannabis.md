@@ -15,6 +15,7 @@ sources:
   - De Meijer EPM, Hammond KM, Peeters A. (2014). "The inheritance of chemical phenotype in Cannabis sativa L." Genetics, 183(1), 345-361.
   - Casano S, Grassi G, Martini V, et al. (2011). "Cannabis sativa L. and nonpsychoactive cannabinoids." Forensic Science International, 205(1-3), e5-e7.
   - Mudge EM, Murch SJ, Brown PDS. (2018). "Cannabinoid and terpenoid profiles of diverse Cannabis cultivars." Planta Medica, 84(18), 1374-1381.
+created: 2026-04-28
 ---
 
 # Wedding Cake

@@ -105,3 +105,7 @@ The intense flavour that develops at altitude makes stone fruit particularly val
 See also: [[holzer-recommended-old-fruit-varieties]], [[holzer-grafting-fruit-forest]], [[holzer-fruit-tree-planting-method]], [[holzer-microclimate-creation]], [[holzer-fruit-growing-marginal-climates]], [[holzer-wild-fruit-trees-and-hedges]]
 - [[microfungal-species-diversity-large-areas]]
 - [[sepp-holzer-fruit-tree-varieties]]
+
+## See Also
+
+- [[query-best-stone-fruit-varieties-for-different-climates]]

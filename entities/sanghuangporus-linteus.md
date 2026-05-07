@@ -17,6 +17,7 @@ sources:
   - Wang, X.M. & Zhang, M. (2018). "Antitumor polysaccharides from mushrooms: a review on their extraction, structure, and functional properties." Journal of Functional Foods, 52, 458-471.
   - Cui, B.K. et al. (2019). "Species diversity and phylogeny of Sanghuangporus (Hymenochaetaceae, Basidiomycota)." MycoKeys, 54, 1-25.
   - Index Fungorum. "Sanghuangporus linteus (Berk.) T. Wagner & M. Fisch." www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 # Sanghuangporus linteus

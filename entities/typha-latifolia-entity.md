@@ -146,6 +146,8 @@ permaculture water management:
   damage seed heads but rarely threaten plant health.
 ## See Also
 
+- [[typha-latifolia]]
+
 - [[cpm-entity-pihkal]]
 - [[4-d-entity-pihkal]]
 - [[5-toet-entity-pihkal]]

@@ -17,6 +17,7 @@ sources:
   - Myers, G.P. et al. (2004). "Brazil nuts and associated health benefits." Journal of Agricultural and Food Chemistry, 52(21), 6564-6570.
   - Peres, C.A. et al. (2003). "Demographic threats to the sustainable extraction of Brazil nuts." Conservation Biology, 17(5), 1222-1232.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:639788-1
+created: 2026-04-28
 ---
 
 ## Overview

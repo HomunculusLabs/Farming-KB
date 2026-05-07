@@ -17,6 +17,7 @@ sources:
   - Barnes, R.D. & Fagg, C.W. (2003). Faidherbia albida. Tropical Forestry Papers 41. Oxford Forestry Institute.
   - Sileshi, G.W. et al. (2011). "Fertilizer tree values for smallholder farmers." Field Crops Research 126: 19-29.
   - Kho, R.M. (2000). "A general tree-environment-crop interaction model." Agroforestry Systems 50: 107-131.
+created: 2026-04-28
 ---
 
 ## Overview

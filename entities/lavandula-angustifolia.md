@@ -16,6 +16,7 @@ sources:
   - Koul, B. et al. (2021). "Lavandula angustifolia essential oil: A review of its phytochemistry and pharmacological activities." *Molecules*, 26(10), 3039.
   - United States Department of Agriculture, Natural Resources Conservation Service. *PLANTS Database*. https://plants.usda.gov
   - Cavanagh, H.M.A. and Wilkinson, J.M. (2002). "Biological activities of lavender essential oil." *Phytotherapy Research*, 16(4), 301-308.
+created: 2026-04-28
 ---
 
 # Lavandula angustifolia

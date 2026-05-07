@@ -10,6 +10,8 @@ sources:
   - "Dixon, R.A. & Paiva, N.L. (1995). Stress-Induced Phenylpropanoid Metabolism. The Plant Cell, 7(7), 1085–1097."
   - "Ziegler, J. & Facchini, P.J. (2008). Alkaloid Biosynthesis: Metabolism and Transport. Annual Review of Plant Biology, 59, 735–769."
   - "Bowles, E.J. (2020). The Chemistry of Aromatherapeutic Oils, 3rd ed. Allen & Unwin."
+type: comparison
+created: 2026-04-28
 ---
 
 # Tannins vs Alkaloids vs Glycosides

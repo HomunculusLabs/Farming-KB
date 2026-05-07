@@ -116,6 +116,8 @@ A deep taproot extends 30–60 cm, with abundant lateral roots and prolific nodu
 
 ## See Also
 
+- [[mimosa-tenuiflora-entity]]
+
 - Desmodium uncinatum
 - [[mucuna-pruriens]]
 - [[arachis-pintoi-entity]]

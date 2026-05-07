@@ -15,6 +15,8 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3655461/
   - https://www.frontiersin.org/articles/10.3389/fmicb.2022.847582
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/actinomycetes
+type: query
+created: 2026-04-28
 ---
 
 # What Is the Role of Actinomycetes in Soil Health and Decomposition?

@@ -3,6 +3,9 @@ title: "Passiflora incarnata" type: species tags: [species, plant, herbal, medic
 created: 2026-04-28
   passifloraceae] date: 2026-04-28 updated: 2026-04-28 sources: - "General ethnobotanical and pharmacological knowledge"
 type: entity
+sources: []
+tags: []
+updated: 2026-05-06
 ---
 # Passiflora incarnata
 

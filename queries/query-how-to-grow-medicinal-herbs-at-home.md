@@ -104,6 +104,8 @@ these delicate compounds for long-term storage.
 
 ## Related
 
+- [[cinchona-officinalis]]
+
 - [[query-how-to-grow-sprouts-and-microgreens-at-home]] Questions
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

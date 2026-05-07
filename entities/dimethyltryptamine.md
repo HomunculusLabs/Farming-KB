@@ -119,6 +119,8 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 
 ## See Also
 
+- [[nn-dimethyltryptamine]]
+
 - [[tryptamine-consciousness-theory]] — parent compound class
 - [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
 - [[5-meo-dmt-compound-profile]] — more potent methoxy analogue

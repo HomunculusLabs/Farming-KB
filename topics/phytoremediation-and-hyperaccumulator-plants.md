@@ -101,15 +101,15 @@ Heavy metals are the primary target of phytoremediation due to their persistence
 
 Phytoremediation effectively addresses a range of organic pollutants:
 
-- **Petroleum hydrocarbons**: BTEX compounds (benzene, toluene, ethylbenzene, xylene), PAHs (polycyclic aromatic hydrocarbons), and TPH (total petroleum hydrocarbons) are degraded through rhizodegradation and phytodegradation. Grasses like tall fescue and ryegrass are effective due to their dense root systems.
+- **Petroleum hydrocarbons**: BTEX compounds (benzene, toluene, ethylbenzene, xylene), PAHs ([[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]), and TPH (total petroleum hydrocarbons) are degraded through rhizodegradation and phytodegradation. Grasses like tall fescue and ryegrass are effective due to their dense root systems.
 - **Chlorinated solvents**: Trichloroethylene (TCE) and perchloroethylene (PCE) can be degraded by deep-rooted trees like poplar and willow, which take up the compounds through their roots and metabolize them in above-ground tissues.
 - **Explosives**: TNT, RDX, and HMX can be phytodegraded by several plant species, with poplar and parrot feather (*Myriophyllum aquaticum*) showing particular effectiveness.
 - **Pesticides and herbicides**: Organochlorines, organophosphates, and triazine herbicides are degraded through a combination of phytodegradation and enhanced rhizosphere microbial activity.
-- **Polychlorinated biphenyls (PCBs)**: While resistant to degradation, certain plants like zucchini and pumpkin can take up PCBs, and rhizosphere microbes can slowly dechlorinate them.
+- **[[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]] (PCBs)**: While resistant to degradation, certain plants like zucchini and pumpkin can take up PCBs, and rhizosphere microbes can slowly dechlorinate them.
 
 ### Radionuclides
 
-Phytoremediation of radioactive contamination focuses on cesium-137, strontium-90, uranium, and plutonium. Sunflowers, Indian mustard, and certain grasses have demonstrated the ability to accumulate radionuclides from soil and water. While phytoextraction rates are slow compared to excavation, phytoremediation offers a low-cost, low-impact approach for vast areas of low-level contamination.
+Phytoremediation of [[radioactive-contamination-and-fungi]] focuses on cesium-137, strontium-90, uranium, and plutonium. Sunflowers, Indian mustard, and certain grasses have demonstrated the ability to accumulate radionuclides from soil and water. While phytoextraction rates are slow compared to excavation, phytoremediation offers a low-cost, low-impact approach for vast areas of low-level contamination.
 
 ## Enhancing Phytoremediation
 
@@ -119,7 +119,7 @@ Chelating agents like EDTA (ethylenediaminetetraacetic acid), EDDS (ethylenediam
 
 ### Microbial Partnerships
 
-Mycorrhizal fungi, plant growth-promoting rhizobacteria (PGPR), and endophytic bacteria can dramatically enhance phytoremediation. Arbuscular mycorrhizal fungi (AMF) extend the effective absorptive surface of root systems and can sequester metals in fungal tissues, reducing plant stress while maintaining contaminant uptake. PGPR produce siderophores, organic acids, and biosurfactants that mobilize metals, while also providing growth hormones that increase plant biomass.
+Mycorrhizal fungi, plant growth-promoting rhizobacteria (PGPR), and endophytic bacteria can dramatically enhance phytoremediation. [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]] (AMF) extend the effective absorptive surface of root systems and can sequester metals in fungal tissues, reducing plant stress while maintaining contaminant uptake. PGPR produce siderophores, organic acids, and biosurfactants that mobilize metals, while also providing growth hormones that increase plant biomass.
 
 ### Genetic Engineering
 
@@ -149,7 +149,7 @@ Organic amendments (compost, biosolids, biochar) improve soil structure, water-h
 
 - **Slow**: Phytoremediation typically requires multiple growing seasons to achieve significant contaminant reduction. Treatment timelines of 3–10+ years are common.
 - **Depth-limited**: Plant roots generally reach only 1–3 meters, leaving deeper contamination unaddressed.
-- **Climate-dependent**: Plant growth is seasonal and climate-sensitive, limiting effectiveness in extreme environments.
+- **Climate-dependent**: Plant growth is seasonal and climate-sensitive, limiting effectiveness [[fungal-biodiversity-in-extreme-environments]].
 - **Contaminant-specific**: Not all contaminants are amenable to phytoremediation; highly toxic or recalcitrant compounds may require conventional treatment.
 - **Biomass disposal**: Harvested contaminated biomass requires safe handling, processing, and disposal, particularly for heavy metal accumulators.
 - **Bioavailability constraints**: Contaminants tightly bound to soil particles may be unavailable for plant uptake without amendments.

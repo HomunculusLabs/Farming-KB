@@ -82,6 +82,8 @@ Myxomycetes feed on bacteria and other microorganisms in the plasmodial stage, p
 
 ## Related
 
+- [[fuligo-septica]]
+
 - [[fungal-symbiosis-types]]
 - [[fungal-parasites-invertebrates]]
 - [[ascomycete-phylum-guide]]

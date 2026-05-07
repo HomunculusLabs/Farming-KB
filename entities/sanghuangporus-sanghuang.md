@@ -22,6 +22,7 @@ sources:
     Macromolecules.
   - Zhu, T. et al. (2019). "Pharmacological review of Sanghuang."
     Journal of Ethnopharmacology.
+created: 2026-04-28
 ---
 
 ## Overview

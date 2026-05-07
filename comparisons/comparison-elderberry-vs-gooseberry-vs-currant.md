@@ -25,6 +25,8 @@ sources:
   - title: "The Holistic Orchard"
     author: "Michael Phillips"
     year: 2011
+type: comparison
+created: 2026-05-03
 ---
 
 # Elderberry vs Gooseberry vs Currant (Ribes) — Cultivation Comparison

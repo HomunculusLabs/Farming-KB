@@ -9,6 +9,8 @@ sources:
   - "Purdy, L.H. and Schmidt, R.A. 'Status of Cacao Witches' Broom,' Plant Disease, vol. 80, 1996."
   - "International Cocoa Organization (ICCO). 'Cocoa Production and Processing.' icco.org."
   - "Afoakwa, E.O. Chocolate Science and Technology, 2nd ed. Wiley-Blackwell, 2016."
+type: query
+created: 2026-05-03
 ---
 
 ## Can You Grow Cacao at Home?

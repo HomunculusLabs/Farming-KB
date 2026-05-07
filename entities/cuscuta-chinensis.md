@@ -15,6 +15,7 @@ sources:
   - Yang, X. et al. (2013). "Chemical constituents and bioactivities of Cuscuta chinensis." Chemistry of Natural Compounds, 49(6), 983-990.
   - Ye, M. et al. (2005). "Flavonoids from Cuscuta chinensis." Journal of Asian Natural Products Research, 7(5), 705-711.
   - Pawlowski, T.A. (2011). "Parasitic plants in agriculture." In: Parasitic Orobanchaceae, Springer, 317-333.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Dark septate endophytes (DSEs) are a diverse, polyphyletic group of conidial and sterile ascomycete fungi that colonize plant roots intracellularly and intercellularly. Characterized by their melanized, septate hyphae, these fungi form a distinct category of root symbionts that occupy ecological niches complementary to — and sometimes overlapping with — arbuscular mycorrhizal fungi (AMF) and ectomycorrhizal fungi (ECMF). Unlike mycorrhizal fungi, DSEs do not form highly structured interface organs such as arbuscules or Hartig nets, yet they can profoundly influence plant nutrition, stress tolerance, and ecosystem dynamics.
+Dark septate endophytes (DSEs) are a diverse, polyphyletic group of conidial and sterile ascomycete fungi that colonize plant roots intracellularly and intercellularly. Characterized by their melanized, septate hyphae, these fungi form a distinct category of root symbionts that occupy ecological niches complementary to — and sometimes overlapping with — [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi (ECMF). Unlike mycorrhizal fungi, DSEs do not form highly structured interface organs such as arbuscules or Hartig nets, yet they can profoundly influence plant nutrition, stress tolerance, and ecosystem dynamics.
 
 The study of DSEs represents one of the most rapidly expanding frontiers in root microbiology. As research increasingly focuses on the full spectrum of root-associated fungi — beyond the classical mycorrhizal paradigm — DSEs have emerged as key players in plant ecology, especially in extreme environments where traditional mycorrhizal associations are limited or absent.
 
@@ -79,7 +79,7 @@ Microsclerotia are among the most distinctive features of DSE colonization. Thes
 
 Microsclerotia of DSEs are functionally analogous to the vesicles of AMF and the sclerotia of pathogenic fungi, but they occupy an intermediate ecological position. They serve both as survival structures and as interfaces for resource exchange with the host plant.
 
-## Functional Roles and Ecological Significance
+## Functional Roles [[lichen-biology-and-ecological-significance]]
 
 ### Nutrient Acquisition
 
@@ -107,7 +107,7 @@ Beyond individual plant interactions, DSEs influence ecosystem processes:
 
 - **Soil aggregation**: DSE hyphae contribute to soil structure through the production of extracellular polymeric substances and physical binding of soil particles, particularly in sandy or degraded soils.
 - **Decomposition and carbon cycling**: As facultative saprotrophs, DSEs can decompose organic matter in the rhizosphere, contributing to carbon mineralization and nutrient cycling. Their dual lifestyle bridges the gap between symbiotic and free-living fungal functional groups.
-- **Plant community composition**: By differentially benefiting certain plant species, DSEs can influence competitive outcomes and plant community structure, particularly in stressful environments where their effects are most pronounced.
+- **[[mycorrhizal-effects-on-plant-community-composition]]**: By differentially benefiting certain plant species, DSEs can influence competitive outcomes and plant community structure, particularly [[fungi-in-stressful-environments]] where their effects are most pronounced.
 - **Succession dynamics**: DSE colonization patterns shift during primary and secondary succession, often preceding or replacing mycorrhizal colonization in disturbed or extreme habitats.
 
 ## Distribution and Habitat Preferences
@@ -139,7 +139,7 @@ DSEs frequently co-occur with both arbuscular and ectomycorrhizal fungi on the s
 
 ## Research Methods and Identification
 
-### Microscopic Identification
+### [[psilocybin-mushroom-microscopic-identification]]
 
 Traditional DSE detection relies on root clearing and staining protocols:
 

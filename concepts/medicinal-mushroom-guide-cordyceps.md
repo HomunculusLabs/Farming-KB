@@ -141,3 +141,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - [[medicinal-mushroom-guide-reishi]] for calming energy balance
 - [[adaptogenic-herbs-guide]] for complementary adaptogens
 - [[medicinal-mushroom-guide-lions-mane]] for cognitive performance pairing
+
+## See Also
+
+- [[huperzine-a]]

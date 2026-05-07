@@ -17,6 +17,8 @@ sources:
   - "ICARDA — International Center for Agricultural Research in the Dry Areas. https://www.icarda.org/"
   - "Muehlbauer, F.J., Sarker, A. & Vandenberg, A. (2010). Lentil breeding. In: Handbook of Plant Breeding, Vol. 5, Springer."
   - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: Grain Legumes, Springer."
+type: comparison
+created: 2026-05-03
 ---
 
 # Fava Bean vs Chickpea vs Lentil: Grain Legume Comparison

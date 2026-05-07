@@ -17,6 +17,7 @@ updated: 2026-04-28
 sources:
   - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
+created: 2026-04-28
 ---
 
 # Reversed Phase HPLC Quantification of Psilocybin and Psilocin

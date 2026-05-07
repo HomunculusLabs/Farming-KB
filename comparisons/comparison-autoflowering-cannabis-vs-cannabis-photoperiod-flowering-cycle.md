@@ -119,6 +119,8 @@ growers to trigger early flowering for multiple harvests per season without
 genetic modification.
 
 ## See Also
+
+- [[equatorial-photoperiod-early-flowering]]
 - [[cannabis-ruderalis]]
 - [[cannabis-lighting-guide]]
 - [[cannabis-topping-training]]

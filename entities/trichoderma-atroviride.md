@@ -15,6 +15,7 @@ sources:
   - Kubicek, C.P., Herrera-Estrella, A., Seidl-Seiboth, V. et al. (2011). "Comparative genome sequence analysis underscores mycoparasitism as the ancestral life style of Trichoderma." Genome Biology, 12, R40.
   - Lorito, M., Woo, S.L., Harman, G.E. & Monte, E. (2010). "Translational research on Trichoderma: from omics to the field." Annual Review of Phytopathology, 48, 445-468.
   - Mukherjee, P.K., Horwitz, B.A., Kenerley, C.M. (2012). "Secondary metabolism in Trichoderma — a genomic perspective." Microbiology, 158, 35-45.
+created: 2026-04-28
 ---
 
 # Trichoderma atroviride

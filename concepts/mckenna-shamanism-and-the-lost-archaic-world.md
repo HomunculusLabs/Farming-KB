@@ -70,6 +70,8 @@ McKenna's work represents one of the most ambitious attempts to construct a comp
 McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
+
+- [[bloomfield-mike-madelin-and-the-rotten-world-about-us]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
 - [[psychedelic-mushroom-history]]

@@ -10,6 +10,8 @@ sources:
   - "Missouri State University. (2022). *Elderberry Research and Development: cultivar trials and best practices.* Mountain Grove, MO."
   - "Kaack, K., & Austed, T. (1998). 'Interaction of a Complex of Cultivars of Sambucus nigra L.' *Gartenbauwissenschaft*, 63(1), 39–44."
   - "USDA Natural Resources Conservation Service. (2024). *Sambucus nigra & S. canadensis Plant Profiles.* plants.usda.gov."
+type: query
+created: 2026-04-28
 ---
 
 # Best Elderberry Varieties for Different Climates and Uses
@@ -168,6 +170,8 @@ Anthocyanin concentration determines therapeutic value for immune support and an
 5. **For home gardens**, York × Nova is the simplest, most reliable combination.
 
 ## See Also
+
+- [[query-best-kiwifruit-varieties-for-cold-climates]]
 
 - [[berry-fruit-production-in-permaculture]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]

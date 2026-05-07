@@ -71,7 +71,9 @@ The spider-leafhopper dynamic directly supports Fukuoka's [[fukuoka-four-princip
 
 4. The no-intervention principle: The most effective pest management strategy is to do nothing -- to trust the [[fukuoka-ecological-balance-principles]] that nature has refined over millions of years of evolution.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-spider-swarm-natural-predator-balance]] Concepts
 
 - [[fukuoka-natural-pest-balance]]
 

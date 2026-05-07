@@ -108,6 +108,8 @@ methods used for commercial mushroom polysaccharide products.
 
 ## See Also
 
+- [[phellinus-pomaceus]]
+
 - [[medicinal-mushroom-guide-meshima]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[psp-phase-clinical-trials]]

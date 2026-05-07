@@ -27,6 +27,7 @@ sources:
   - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland Vol 3." Verlag Mykologia.
   - Courtecuisse R, Duhem B (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Lange M, Hora FB (1963). "Collins Guide to Mushrooms and Toadstools." Collins.
+created: 2026-04-28
 ---
 
 ## Overview

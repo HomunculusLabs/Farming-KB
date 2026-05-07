@@ -114,6 +114,8 @@ The species is effective on degraded and marginal soils, including acidic tropic
 
 ## See Also
 
+- [[canavalia-gladiata]]
+
 - [[vicia-villosa]] — Hairy vetch, temperate cover crop legume
 - [[leucaena-leucocephala]] — Leucaena, tropical nitrogen-fixing tree
 - [[robinia-pseudoacacia]] — Black locust, temperate nitrogen-fixing tree

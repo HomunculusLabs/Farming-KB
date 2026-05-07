@@ -18,6 +18,7 @@ sources:
   - Mignouna, H.D. et al. (2009). "Yam (Dioscorea spp.): An orphan crop in need of attention." African Journal of Biotechnology, 8(23), 6670–6676.
   - Arnau, G. et al. (2017). "Advances in yam (Dioscorea spp.) genomics and breeding." Frontiers in Plant Science, 8, 2184.
   - Bhandari, M.R. et al. (2003). "The composition of Nepalese yam (Dioscorea esculenta) tubers." Journal of the Science of Food and Agriculture, 83(12), 1247–1252.
+created: 2026-04-28
 ---
 
 ## Overview

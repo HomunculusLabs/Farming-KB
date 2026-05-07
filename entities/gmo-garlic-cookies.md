@@ -119,6 +119,8 @@ GMO has gained significant traction in medical cannabis communities:
 
 ## See Also
 
+- [[platinum-garlic]]
+
 - [[garlic-growing-guide]]
 
 - [[girl-scout-cookies]]

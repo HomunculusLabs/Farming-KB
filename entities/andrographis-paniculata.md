@@ -16,6 +16,7 @@ sources:
   - Jarukamjorn, K. & Nemoto, N. (2008). "Pharmacological aspects of Andrographis paniculata on health and its major diterpenoid constituent andrographolide." Journal of Health Science, 54(4), 370-381.
   - Subramanian, P. et al. (2008). "Andrographolide: a potential cancer therapeutic agent from Andrographis paniculata." Current Medicinal Chemistry, 15(24), 2530-2539.
   - Puri, A. et al. (1993). "Immunostimulant activity of andrographolide." International Journal of Immunopharmacology, 15(1), 1-7.
+created: 2026-04-28
 ---
 
 ## Overview

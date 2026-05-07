@@ -94,7 +94,9 @@ Multiple Ganoderma species are sold as "reishi" commercially:
 - **G. lingzhi:** Recently differentiated from G. lucidum; the species most common in Chinese cultivation.
 - **G. sinense:** Used interchangeably in TCM; black-colored fruiting body.
 
-## Related Topics
+## Related
+
+- [[phellinus-pomaceus]] Topics
 
 - [[medicinal-mushroom-guide-lions-mane]] for cognitive mushroom comparisons
 - [[medicinal-mushroom-guide-turkey-tail]] for immune-focused alternatives

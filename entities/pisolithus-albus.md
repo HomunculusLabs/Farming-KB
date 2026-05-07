@@ -15,6 +15,7 @@ sources:
   - Anderson, I.C., Chambers, S.M. & Cairney, J.W.G. (2001). "Molecular determination of the life history of Pisolithus albus and P. tinctorius." Mycological Research, 105, 1105-1110.
   - Dell, B., Malajczuk, N. & Grove, T.S. (2002). "Ectomycorrhizal associations of Australian plants." In: Symbiotic Fungi. Berlin: Springer.
   - Watling, R. (2006). "Mycorrhizas in tropical forests." In: Fungal Ecology. Springer.
+created: 2026-04-28
 ---
 
 # Pisolithus albus

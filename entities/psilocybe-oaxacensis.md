@@ -16,6 +16,7 @@ sources:
   - Guzmán, G., et al. (2004). "A new bluing species of Psilocybe section Stropharia from Oaxaca, Mexico." Mycotaxon, 90(1): 221-224.
   - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
   - MushroomExpert.com. "Psilocybe oaxacensis." https://www.mushroomexpert.com/
+created: 2026-04-28
 ---
 
 ## Overview

@@ -17,6 +17,8 @@ sources:
   - USFS. "Acorns as Food: History, Processing, and Nutrition." USDA Forest Service, 2018.
   - McArthur, E. D. "Proceedings: Oak Woodlands and Hardwoods." USDA Forest Service RMRS, 2005.
   - Daniel, C. "Wild Plants I Have Known... and Eaten." Chelsea Green Publishing, 2010.
+type: query
+created: 2026-05-03
 ---
 
 # How to Process Acorns for Food

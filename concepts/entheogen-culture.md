@@ -114,6 +114,8 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 
 ## See Also
 
+- [[christian-ratsch]]
+
 - [[smartshop-hallucinogenic-mushroom-market]]
 
 - [[sacred-mushroom-traditions-in-mexico]]

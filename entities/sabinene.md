@@ -24,6 +24,7 @@ sources:
   - Gershenzon J, Dudareva N (2007). "The Function of Terpene Natural Products in the Natural World." Nature Chemical Biology 3(7): 408–414.
   - Rice PJ, Coats JR (1994). "Insecticidal Properties of Several Monoterpenoid Essential Oils." Pesticide Science 42(4): 261–266.
   - "Sabinene." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
+created: 2026-04-28
 ---
 
 ## Overview

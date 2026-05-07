@@ -17,6 +17,7 @@ sources:
   - Carsan S, Karanja J, Staudt M, et al. (2012). "A review on the quality of Calliandra calothyrsus as a fodder for ruminants." Agroforestry Systems, 86(2), 247-256.
   - Sumberg JE. (1985). "Calliandra calothyrsus: An agroforestry tree for the humid tropics." NFTA, Wau, Papua New Guinea.
   - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference and selection guide." World Agroforestry Centre.
+created: 2026-04-28
 ---
 
 # Calliandra calothyrsus

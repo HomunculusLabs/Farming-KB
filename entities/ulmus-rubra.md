@@ -17,6 +17,7 @@ sources:
   - USDA Forest Service Silvics Manual (1990). "Ulmus rubra Muhl." United States Department of Agriculture.
   - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs and Related Remedies." Pharmaceutical Products Press.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd Edition. CRC Press.
+created: 2026-04-28
 ---
 
 ## Overview

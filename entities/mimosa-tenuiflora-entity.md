@@ -2,6 +2,9 @@
 title: "Mimosa tenuiflora" type: species tags: [species, plant, tree, psychedelic, dmt-source, ethnobotany, fabaceae, permaculture] date: 2026-04-28 updated: 2026-04-28 sources: - "General ethnobotanical and phytochemical knowledge"
 created: 2026-04-28
 type: entity
+sources: []
+tags: []
+updated: 2026-05-06
 ---
 # Mimosa tenuiflora
 

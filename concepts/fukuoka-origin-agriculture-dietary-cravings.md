@@ -106,7 +106,9 @@ Fukuoka drew a direct line from individual dietary craving to global ecological 
 
 This framing suggests that environmental solutions cannot be purely technical. Carbon taxes, conservation programs, and sustainable agriculture certifications address symptoms rather than causes. For Fukuoka, genuine ecological restoration requires a transformation in human consciousness — specifically, the recovery of the capacity to find satisfaction in simple, local, naturally produced food. Until this inner transformation occurs, technological solutions to environmental problems will continue to generate new problems in an endless cycle of intervention and consequence.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-night-heron-revelation-origin-story]] Concepts
 
 - [[fukuoka-food-civilization-critique]] -- food and civilization
 - [[fukuoka-natural-diet-four-types]] -- the four types of diet

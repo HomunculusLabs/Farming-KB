@@ -27,6 +27,7 @@ sources:
   - "Jealousy Cannabis Strain." Wikileaf. www.wikileaf.com.
   - "Jealousy." GrowDiaries. www.growdiaries.com.
   - "Seed Junky Genetics Strain Catalog." seedjunky.com.
+created: 2026-04-28
 ---
 
 ## Overview

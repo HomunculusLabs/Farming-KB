@@ -96,6 +96,8 @@ S and N are closely linked because both are components of amino acids and protei
 
 ## See Also
 
+- [[ingham-nitrate-amino-sugars-plant-nutrition]]
+
 - [[micronutrients-plant-nutrition]]
 - [[nitrogen-plant-nutrition]]
 - [[calcium-magnesium-secondary-nutrients]]

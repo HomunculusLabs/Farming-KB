@@ -6,6 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+type: concept
+created: 2026-04-28
 ---
 
 # Fungal Hyphal Tip Growth and the Spitzenkörper

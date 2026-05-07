@@ -29,6 +29,7 @@ sources:
   - Liu, K. (1997). "Soybeans: Chemistry, Technology, and Utilization." Chapman & Hall.
   - Messina, M.J. (1999). "Legumes and soybeans: overview of their nutritional profiles and health effects." American Journal of Clinical Nutrition 70(3).
   - Wilson, R.F. (2004). "Seed composition." In: "Soybeans: Improvement, Production, and Uses." ASA-CSSA-SSSA.
+created: 2026-04-28
 ---
 
 ## Overview

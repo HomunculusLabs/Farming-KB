@@ -17,6 +17,7 @@ sources:
   - Martin, K. & Gilbertson, R.L. (1976). "Cultural and morphological studies on Sparassis radicata and S. crispa." Mycologia, 68(3), 612-626.
   - Wang, X. et al. (2018). "Anti-inflammatory polysaccharides from the cauliflower mushroom Sparassis latifolia." International Journal of Biological Macromolecules, 119, 1154-1162.
   - Index Fungorum. "Sparassis latifolia Y.C. Dai & Zheng." www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 # Sparassis latifolia

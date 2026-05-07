@@ -100,6 +100,8 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## See Also
 
+- [[helichrysum-italicum]]
+
 - [[vinca-minor]]
 - [[yarrow-achillea-millefolium]]
 

@@ -97,4 +97,6 @@ The choice between methods depends on available capital, infrastructure, product
 See also: [[shiitake-cultivation-log-method]], [[mushroom-substrate-comparison]], [[mushroom-cultivation-bulk-substrates]], [[mushroom-grow-room-design]], [[mushroom-pasteurization]], [[lions-mane-cultivation]], [[enoki-cultivation]], [[king-oyster-cultivation]]
 *Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Lentinula edodes growth parameters (pp. 259-270)*
 ## See Also
+
+- [[log-culture-outdoor-mushroom-cultivation]]
 - [[shiitake-cultivation-on-sawdust]]

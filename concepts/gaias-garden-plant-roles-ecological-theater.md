@@ -57,7 +57,8 @@ can be slashed or mowed several times a season.
 ### Woody Mulch Makers
 
 Many shrubs, especially nitrogen fixers, break
-down quickly:
+down quickly. The [[chop-and-drop-mulching]] technique
+takes advantage of these woody mulch makers:
 
 - Alder, Elaeagnus, Scotch broom, ceanothus
 - Trimmings from pencil-thin branches need no
@@ -80,7 +81,10 @@ in the soil and concentrate them in their leaves.
 The long taproots of these plants dredge up
 potassium, magnesium, calcium, sulfur, and other
 minerals. As foliage falls in autumn, nutrients
-build up in topsoil.
+build up in topsoil. [[dynamic-accumulators]] describes
+this nutrient-mining mechanism in detail, while
+[[comfrey-as-dynamic-accumulator]] profiles one of
+the most effective accumulator species.
 
 Key accumulators include:
 
@@ -114,6 +118,10 @@ Nitrogen fixers come in all sizes:
 - **Trees**: Black locust, alder, [[acacia]], mesquite
 
 ### Key Benefits
+
+[[nitrogen-fixing-plants]] provides a comprehensive
+reference for selecting nitrogen fixers by climate
+zone. Key benefits include:
 
 - Live nitrogen fixers are at least as
   growth-boosting as dead ones

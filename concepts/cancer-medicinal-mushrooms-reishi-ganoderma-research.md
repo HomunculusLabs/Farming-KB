@@ -122,4 +122,6 @@ treatments. University of Strathclyde.
 
 ## See Also
 
+- [[ganoderma-sinense]]
+
 - [[ganoderma-applanatum]]

@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - uwe-blesching-the-cannabis-health-index.md
+type: concept
+created: 2026-04-28
 ---
 
 # Cannabidiol Therapeutic Mechanisms

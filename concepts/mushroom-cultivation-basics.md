@@ -151,6 +151,10 @@ Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-trans
 
 ## See Also
 
+- [[straw-substrate-boil-a-bag-cultivation-method]]
+
+- [[panus-tigrinus]]
+
 - [[hydnum-repens]]
 - [[oudenansiella-mucida]]
 - [[pholiota-aurivella]]

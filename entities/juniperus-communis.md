@@ -17,6 +17,7 @@ sources:
   - Barros, L. et al. (2011). "Characterization of phenolic compounds in different wild edible mushroom species." Food Chemistry, 126(3), 1334–1340.
   - EMA/HMPC (2014). "Assessment report on Juniperus communis L., fructus." European Medicines Agency.
   - Altaf, R. et al. (2023). "A review on phytochemistry and pharmacological activities of Juniperus species." Journal of Pharmacy & Bioallied Sciences, 15(3), 261–272.
+created: 2026-04-28
 ---
 
 ## Overview

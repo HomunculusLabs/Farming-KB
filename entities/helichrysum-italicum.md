@@ -139,5 +139,5 @@ Traditional uses include wound healing, respiratory conditions, and digestive co
 - [[salvia-officinalis]]
 - [[thymus-vulgaris-entity]]
 - [[cistus-incanus]]
-- [[myrtle]]
+- myrtle
 - [[dynamic-accumulators]]

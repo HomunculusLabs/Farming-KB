@@ -147,5 +147,7 @@ spleen/stomach cold deficiency.
 
 ## See Also
 
+- [[holzer-medicinal-and-culinary-herbs-compendium]]
+
 - [[rheum-palmatum]] · [[aloe-vera]] · [[cinnamomum-cassia]]
 - sennosides · emodin · rhein

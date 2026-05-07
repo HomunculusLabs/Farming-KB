@@ -16,6 +16,7 @@ sources:
   - Pasiecznik, N.M. et al. (2001). "The Prosopis juliflora-Prosopis pallida Complex: A Monograph." HDRA, Coventry, UK.
   - Archer, S. (1995). "Herbivore mediation of grass-woody plant interactions." Tropical Grasslands 29(4): 218-235.
   - Felker, P. (1979). "Mesquite: An all-purpose leguminous arid land tree." In: New Agricultural Crops, AAAS Symposium.
+created: 2026-04-28
 ---
 
 ## Overview

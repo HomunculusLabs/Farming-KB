@@ -31,6 +31,7 @@ sources:
   - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloid concentrations in the seeds of Peganum harmala L." Phytochemistry Letters, 4(2), 136–139.
   - Pfau, W. & Skog, K. (2004). "Exposure to β-carbolines and heterocyclic amines." Cancer Letters, 198(2), 117–126.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
+created: 2026-04-28
 ---
 
 ## Overview

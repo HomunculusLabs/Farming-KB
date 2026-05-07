@@ -87,7 +87,9 @@ Moringa drouhardii from Madagascar has an enormous water-storing bottle trunk an
 - Serves multiple functions in [[permaculture-moringa|permaculture systems]] as windbreak, shade, and soil builder
 - Seeds purify water; flowers are edible; oil is used in cooking and cosmetics
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-grow-gooseberries-and-currants]] Questions
 
 - [[herb-garden-design]]
 - [[query-what-are-adaptogenic-herbs-and-how-do-i-grow-them]]

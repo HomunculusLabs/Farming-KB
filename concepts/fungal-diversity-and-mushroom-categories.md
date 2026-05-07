@@ -85,7 +85,9 @@ More than 527 mushroom species grow in old-growth forests, with at least 109 nat
 
 The branching network pattern of mycelium appears throughout nature — neurons in the brain, the Internet, dark matter filaments, hurricanes, blood vessels, river deltas. Stamets argues this reflects an energy-conserving architecture that the universe tends toward.
 
-## Related Concepts
+## Related
+
+- [[mushroom-nutritional-categories-and-fungal-habitat-roles]] Concepts
 
 - [[fungal-ecology]] — fungal roles in ecosystems
 - [[fungal-ecology-forest-floor]] — decomposition and nutrient cycling

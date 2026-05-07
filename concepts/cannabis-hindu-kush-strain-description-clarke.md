@@ -91,6 +91,8 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 ## See Also
 
+- [[jedi-kush]]
+
 - [[master-kush]]
 
 - [[og-kush-cannabis-strain]]

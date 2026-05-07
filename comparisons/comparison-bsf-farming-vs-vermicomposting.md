@@ -124,6 +124,8 @@ Neither system is objectively superior — they serve different functions. BSF e
 
 ## See Also
 
+- [[comparison-snail-farming-vs-vermicomposting]]
+
 - [[composting]]
 - [[homesteading]]
 - [[permaculture]]

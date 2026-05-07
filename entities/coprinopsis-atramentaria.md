@@ -16,6 +16,7 @@ sources:
   - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
   - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
   - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
+created: 2026-04-28
 ---
 
 ## Overview

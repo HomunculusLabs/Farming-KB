@@ -135,7 +135,9 @@ Turkey tail can be cultivated but is often wild-harvested due to abundance:
 - Possible interactions with immunosuppressant medications.
 - Safe during most chemotherapy regimens but always consult oncologist.
 
-## Related Topics
+## Related
+
+- [[fomitopsis-betulina]] Topics
 
 - [[medicinal-mushroom-guide-reishi]] for complementary immune support
 - [[medicinal-mushroom-guide-maitake]] for another beta-glucan rich mushroom

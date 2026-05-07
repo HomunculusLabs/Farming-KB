@@ -17,6 +17,7 @@ sources:
   - Pugliese, A. et al. (2000). "Insecticidal activity of Canavalia ensiformis and Canavalia gladiata lectins." Biotechnology Letters, 22(12), 1017-1021.
   - Smartt, J. (1990). Grain Legumes: Evolution and Genetic Resources. Cambridge University Press.
   - Ologhobo, A.D. & Fetuga, B.L. (1984). "Protein and mineral composition of some Nigerian legume seeds." Food Chemistry, 13(4), 303-310.
+created: 2026-04-28
 ---
 
 ## Overview
@@ -129,4 +130,4 @@ conditions.
 
 ## See Also
 
-[[canavalia-ensiformis]] · [[lablab-purpureus]] · [[mucuna-pruriens]] · [[arachis-pintoi]] · [[glycine-max]] · [[leucaena-leucocephala]] · [[gliricidia-sepium]] · [[vicia-faba]]
+[[canavalia-ensiformis]] · [[lablab-purpureus]] · [[mucuna-pruriens]] · [[arachis-pintoi-entity]] · [[glycine-max]] · [[leucaena-leucocephala]] · [[gliricidia-sepium]] · [[vicia-faba]]

@@ -149,3 +149,7 @@ total system output rises while external inputs fall. This principle applies
 far beyond rice paddies and is central to [[permaculture-design]] philosophy.
 
 ## References
+
+## See Also
+
+- [[integrated-paddy-rice-and-tree-system]]

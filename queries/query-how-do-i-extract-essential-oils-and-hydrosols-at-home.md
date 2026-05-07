@@ -4,6 +4,8 @@ tags: [query, essential-oils, hydrosols, distillation, aromatic-plants, herbalis
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
+created: 2026-04-28
 ---
 
 # How Do I Extract Essential Oils and Hydrosols at Home?

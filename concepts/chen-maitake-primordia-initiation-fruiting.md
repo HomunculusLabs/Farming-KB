@@ -142,3 +142,4 @@ See also [[mushroom-pinning-primordia-formation-strategies]],
 - [[chen-maitake-substrate-formulation]]
 
 - [[maitake-fruiting-body-success-rate-management]]
+- [[primordia-formation-initiation-strategy]]

@@ -14,6 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Pachyrhizus_erosus
+created: 2026-04-28
 ---
 
 # Jícama (Pachyrhizus erosus)

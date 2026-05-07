@@ -1,0 +1,141 @@
+---
+title: "Morus rubra"
+type: species
+tags:
+  - permaculture
+  - fruit-tree
+  - moraceae
+  - native-plant
+  - edible-fruit
+  - wildlife-habitat
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed., Stipes Publishing.
+  - USDA NRCS (2024). "Morus rubra L. Plant Guide." nrcs.usda.gov.
+  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
+  - Whitcomb, C.E. (1987). "Know It and Grow It III." Lacebark Publications.
+---
+
+# Morus rubra
+
+## Overview
+
+**Morus rubra** L., the red mulberry, is a deciduous tree native to eastern and central North America.
+
+It produces sweet, dark reddish-purple berries that have been used as food by Indigenous peoples for millennia.
+
+Red mulberry is closely related to the white mulberry (**[[morus-alba]]**) and black mulberry (**[[morus-nigra]]**), but is distinguished by its larger, sandpaper-textured leaves and deeper fruit color.
+
+The species is ecologically significant as a food source for birds, mammals, and insects, and is increasingly valued in permaculture and food-forest design.
+
+## Taxonomy and Morphology
+
+**Classification:**
+
+- Kingdom: Plantae
+- Order: Rosales
+- Family: Moraceae
+- Genus: Morus
+- Species: M. rubra
+
+**Authority:** Carl Linnaeus, Species Plantarum (1753).
+
+**Growth habit:** Medium-sized deciduous tree, typically 10–15 m tall, occasionally reaching 20 m.
+
+The crown is broadly rounded with a short trunk and spreading branches.
+
+**Bark:** Reddish-brown, becoming gray-brown and furrowed with age. Inner bark is orange.
+
+**Leaves:** Alternate, ovate to cordate, 10–20 cm long, with a coarsely serrated margin and acuminate tip.
+
+The upper surface is rough and sandpapery (unlike the smooth leaves of M. alba).
+
+Leaf shape is highly variable — some leaves are simple, others are deeply lobed, even on the same tree.
+
+This polymorphism is a distinctive feature that aids identification.
+
+**Flowers:** Monoecious or dioecious, appearing in spring with the leaves. Male catkins are slender, 2–4 cm long. Female spikes are shorter and stouter.
+
+**Fruit:** Multiple fruit (syncarp), 2–3 cm long, cylindrical, dark red to almost black when ripe.
+
+The fruit is juicy and sweet, ripening over an extended period from June through August.
+
+## Distribution and Habitat
+
+M. rubra is native to the eastern United States, from southern New England west to South Dakota and south to Texas and Florida.
+
+Its native range extends into southern Ontario, though populations there are considered at risk.
+
+The species is most commonly found in moist, rich bottomlands, floodplain forests, and along stream corridors.
+
+It tolerates a range of soil types including clay, loam, and sandy soils, but performs best in deep, moist, well-drained alluvial soils.
+
+Red mulberry is shade-tolerant in youth but becomes more light-demanding as it matures.
+
+It frequently occurs as an understory component of mixed hardwood forests alongside **[[tilia-cordata]]**, oaks, hickories, and **[[corylus-avellana]]**.
+
+Hybridization with introduced **[[morus-alba]]** (white mulberry) is widespread and threatens the genetic integrity of pure M. rubra populations.
+
+## Ecology and Wildlife Value
+
+Red mulberry fruit is a critical food resource for numerous bird species including robins, cedar waxwings, thrushes, orioles, and tanagers.
+
+Mammalian consumers include foxes, raccoons, opossums, squirrels, and deer, which disperse seeds through their droppings.
+
+The foliage serves as a larval host plant for the wild silk moth (*Hyalophora cecropia*) and several sphinx moth species.
+
+The tree provides nesting sites and cover for cavity-nesting birds and small mammals.
+
+In riparian corridors, red mulberry contributes to streambank stabilization and shade regulation for aquatic ecosystems.
+
+Its deep root system helps prevent soil erosion on slopes and floodplain margins.
+
+## Edibility and Culinary Use
+
+The berries of M. rubra are sweet and pleasant, with a flavor similar to but more complex than that of **[[morus-nigra]]**.
+
+They can be eaten fresh, dried, or processed into jams, jellies, pies, wines, and syrups.
+
+The fruit does not store well and should be used within a few days of harvest, making it primarily a foraging and home-garden crop.
+
+Nutritional profile: high in vitamin C, vitamin K, iron, and anthocyanin antioxidants.
+
+Red mulberry fruit has a higher antioxidant capacity than white mulberry, attributed to its darker pigmentation.
+
+Indigenous American peoples traditionally used the fruit fresh and dried, and prepared a purple dye from the berry juice.
+
+The wood is relatively soft and has limited commercial use, though it is occasionally employed for fence posts and rustic furniture.
+
+## Cultivation and Permaculture Applications
+
+Red mulberry is hardy in USDA zones 4–9 and is relatively easy to establish from seed or transplant.
+
+**Propagation:** Seeds require cold stratification (60–90 days at 1–5°C). Softwood cuttings and layering are also effective.
+
+**Growth rate:** Moderate, typically 30–60 cm per year in favorable conditions.
+
+Trees begin bearing fruit at 5–10 years of age when grown from seed.
+
+**Pollination:** Dioecious trees require both male and female specimens for fruit production. Monoecious individuals are self-fertile.
+
+In permaculture design, red mulberry serves multiple functions: food production, wildlife habitat, erosion control, and shade.
+
+It integrates well into food-forest guilds with nitrogen-fixing companions like **[[robinia-pseudoacacia]]** and ground-layer plants such as **[[comfrey]]**.
+
+The extended fruiting period provides a reliable food source during the mid-summer gap between spring berries and fall fruit.
+
+Compared to white mulberry, red mulberry is more cold-hardy and produces larger, tastier fruit, making it the preferred choice for cold-climate permaculture.
+
+## See Also
+
+- [[morus-nigra]]
+- [[morus-alba]]
+- [[maclura-pomifera]]
+- [[pawpaw]]
+- [[persimmon]]
+- [[tilia-cordata]]
+- [[corylus-avellana]]
+- [[robinia-pseudoacacia]]
+- [[comfrey]]
+- [[castanea-mollissima]]

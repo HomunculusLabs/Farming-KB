@@ -1,199 +1,138 @@
 ---
-title: "Achillea millefolium"
-created: 2026-04-28
+title: Achillea millefolium
 type: species
 tags:
   - herbal-plant
-  - medicinal-plant
+  - medicinal-herb
   - asteraceae
-  - perennial
-  - wound-healing
   - permaculture
   - companion-planting
-  - bitter-herb
-  - ethnobotanical
+  - wound-healing
+  - ethnobotany
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Benedek, B. et al. (2007). Yarrow (Achillea millefolium L.): traditional and medicinal uses. Journal of Pharmacy and Pharmacology, 59(S1), 125-127."
-  - "Saeidnia, S. et al. (2011). The genus Achillea. In Medicinal and Aromatic Plants of the World. Springer."
-  - "Chandler, R.F. et al. (1982). Ethnobotany and phytochemistry of yarrow, Achillea millefolium. Canadian Journal of Botany, 60(10), 2266-2271."
+  - https://pubmed.ncbi.nlm.nih.gov/?term=achillea+millefolium+pharmacology
+  - https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium
+  - European Medicines Agency. "Assessment report on Achillea millefolium." EMA/HMPC/572199/2009.
+  - Fathi, H. et al. "A comprehensive review of phytochemistry, pharmacology, and ethnobotany." Iranian Journal of Basic Medical Sciences, 2021.
+created: 2026-04-28
 ---
 
-# Achillea millefolium (Yarrow)
+# Achillea millefolium
 
-## Overview
-
-**Achillea millefolium**, commonly known as **yarrow**, is a hardy perennial herbaceous plant in the family Asteraceae. Native to temperate regions of the Northern Hemisphere, yarrow is one of the most widely distributed and culturally significant medicinal plants in human history. Named after the Greek hero Achilles, who supposedly used it to treat battlefield wounds, yarrow has been employed across civilizations for wound healing, fever reduction, digestive complaints, and as a protective and divinatory herb in European folk traditions.
+**Common Yarrow** — a hardy, rhizomatous perennial herb in the Asteraceae family, native to temperate regions of the Northern Hemisphere. One of the most historically significant medicinal plants in Western herbalism, with documented use spanning 3,000+ years. Equally valued in permaculture for its dynamic accumulator properties, insectary function, and soil-stabilizing capacity.
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Division:** Angiosperms (Magnoliophyta)
-- **Class:** Eudicots (Magnoliopsida)
-- **Order:** Asterales
-- **Family:** Asteraceae (Compositae)
-- **Tribe:** Anthemideae
-- **Genus:** Achillea
-- **Species:** A. millefolium
+- **Kingdom:** Plantae · **Division:** Angiospermae · **Class:** Magnoliopsida
+- **Order:** Asterales · **Family:** Asteraceae · **Genus:** *Achillea* · **Species:** *A. millefolium*
 
-*A. millefolium* is a highly polymorphic species complex with considerable morphological variation. Several subspecies and varieties are recognized, and the species readily hybridizes with other *Achillea* species, creating a taxonomically challenging group. Commonly recognized variants include:
+The genus honors the Greek hero **Achilles**, who used yarrow to treat soldiers' wounds at Troy. *Millefolium* (Latin: thousand leaves) refers to the finely divided foliage.
 
-- *A. millefolium* subsp. *millefolium* — Eurasian type
-- *A. millefolium* subsp. *occidentalis* — Western North American type
-- *A. millefolium* subsp. *lanulosa* — North American type (often treated as separate species *A. lanulosa*)
+**Common names:** Yarrow, nosebleed plant, soldier's woundwort, thousand-leaf, devil's nettle, bloodwort.
 
 ## Morphology
 
 ### Growth Habit
-Yarrow is an erect, rhizomatous perennial growing 20–100 cm (8–40 inches) tall. It forms dense clumps via spreading rhizomes and can colonize large areas, making it both a valuable ground cover and, in some contexts, an aggressive spreader.
 
-### Root System
-- **Fibrous root system** with extensive rhizomatous mat
-- Rhizomes grow horizontally 5–15 cm below the soil surface
-- Roots can extend 30+ cm deep, contributing to drought tolerance
-- Dense root network aids in soil stabilization and erosion control
+- **Life form:** Rhizomatous perennial, 20–100 cm tall
+- **Root system:** Extensive fibrous roots with spreading rhizomes; roots reach 1–2 m deep (dynamic nutrient accumulator)
+- **Lifespan:** 3–5+ years; spreads aggressively via rhizomes
+- **Stem:** Erect, angular, pubescent
 
-### Stem and Leaves
-- **Stems:** Erect, angular, slightly hairy, unbranched or sparingly branched above. Typically 1–5 stems per plant.
-- **Leaves:** Alternate, bipinnately or tripinnately dissected into numerous fine, linear segments 1–5 mm wide, giving a feathery, fern-like appearance. Leaves are 5–20 cm long, sessile or short-petiolate, aromatic when crushed. The specific epithet *millefolium* means "thousand-leaved," referencing the fine dissection.
-- **Basal rosette:** Overwintering basal leaves form a flat rosette; stem leaves are smaller and less divided toward the apex.
+### Leaves
+
+Alternate, sessile, bipinnate to tripinnatisect, 5–20 cm long. Segments are lanceolate, giving a feathery, fern-like appearance. Dark green above, greyish-green with woolly pubescence beneath. Aromatic when crushed — camphoraceous, slightly sweet.
 
 ### Flowers
-- **Inflorescence:** Flat-topped corymb or panicle, 5–15 cm across, composed of numerous small flower heads (capitula)
-- **Capitula:** 4–6 mm across, each containing 3–8 ray florets (pale pink, white, or occasionally yellow) and 10–20 disk florets (cream to pale yellow)
-- **Blooming period:** June to October (varies with latitude)
-- **Pollination:** Insect-pollinated; highly attractive to bees, butterflies, hoverflies, and predatory wasps
-- **Fruit:** Small, flattened achene, 1.5–2 mm, without pappus (rare for Asteraceae)
 
-### Aroma and Taste
-The aerial parts have a distinctive, pungent, camphoraceous, and slightly sweet aroma. The taste is bitter, astringent, and aromatic, with a characteristic warming quality that has been compared to chamomile with peppery notes.
+Flat-topped corymbose inflorescences, 5–15 cm diameter. Ray florets (3–8 per head) white to pale pink; disk florets (15–40) white to cream. Blooms June–October. Attractive to wide range of pollinators.
+
+**Fruits:** Achenes, 1.5–2 mm, wind-dispersed. Viability: 2–5 years.
 
 ## Distribution and Habitat
 
-Yarrow is native to temperate and boreal regions of the Northern Hemisphere (Europe, Asia, North America) and has been widely naturalized in the Southern Hemisphere (Australia, New Zealand, South America). It exhibits remarkable ecological amplitude:
+Native to Europe, Asia, and North America. Naturalized in Australasia, South America, and Africa. One of the most widely distributed herbaceous plants:
 
-- **Elevation:** Sea level to 3,500+ meters
-- **Soils:** Tolerates a wide pH range (4.5–8.0); prefers well-drained, sandy to loamy soils but grows in clay
-- **Moisture:** Drought-tolerant once established; prefers moderate moisture but tolerates both dry and periodically waterlogged conditions
-- **Light:** Full sun to partial shade
-- **Disturbance:** A classic ruderal species, thriving in disturbed habitats: roadsides, meadows, pastures, abandoned fields, forest edges, and waste ground
+- **Elevation:** Sea level to 3,500 m
+- **Soils:** Tolerates clay, loam, sandy, rocky. pH 4.5–8.0
+- **Climate:** USDA Zones 3–9. Drought-tolerant once established. Tolerates wind and coastal exposure.
+- **Habitats:** Meadows, pastures, roadsides, disturbed ground, forest margins
 
 ## Phytochemistry
 
-The complex phytochemical profile of yarrow underlies its diverse pharmacological activities:
+### Essential Oil (0.1–1.5% dry weight)
 
-### Essential Oil (0.1–1.5%)
-The composition varies significantly by chemotype and geographic origin. Major constituents include:
-- **Chamazulene** — Anti-inflammatory, blue-colored sesquiterpene formed from matricin during steam distillation
-- **α-Bisabolol** — Anti-inflammatory, anti-ulcer, anti-microbial
-- **1,8-Cineole (Eucalyptol)** — Expectorant, antimicrobial
-- **Camphor** — Stimulant, rubefacient, antimicrobial
-- **Linalool** — Anxiolytic, sedative
-- **Bornyl acetate** — Anti-spasmodic
-- **β-Caryophyllene** — Anti-inflammatory, CB2 agonist
-- ** Germacrene D** — Anti-microbial
+- **Chamazulene** — anti-inflammatory (blue-colored, formed during distillation)
+- **α-Bisabolol** — anti-inflammatory, antimicrobial
+- **1,8-Cineole** — expectorant, antimicrobial
+- **Camphor, Linalool, β-Caryophyllene, Bornyl acetate** — various therapeutic activities
 
-### Flavonoids
-- Apigenin, luteolin, and their glycosides (apigenin-7-O-glucoside, luteolin-7-O-glucoside)
-- Quercetin and isorhamnetin derivatives
-- Casticin
-- Astragalin
+### Other Constituents
 
-(Section truncated for length.)
-
-- **Betonicine** (stachydrine) — A betaine with diuretic and hepatoprotective properties
-
-### Tannins and Acids
-- Tannins (astringent, wound-healing)
-- Salicylic acid derivatives (anti-inflammatory, analgesic)
-- Caffeic acid and chlorogenic acid (antioxidant)
-- Formic and isovaleric acids (trace)
-
-### Vitamins and Minerals
-Rich in vitamin C, vitamin K (important for clotting), potassium, calcium, and magnesium.
+- **Flavonoids:** Apigenin-7-glucoside, luteolin-7-glucoside, rutin, quercetin
+- **Sesquiterpene lactones:** Achillin, leucodin, desacetylmatricarin — bitter, anti-inflammatory
+- **Alkaloid:** Achilleine — hemostatic, astringent
+- **Tannins (3–4%)** — astringent, wound-healing
+- **Coumarins** (umbelliferone) — antispasmodic
+- **Polysaccharides** — immunostimulant
 
 ## Traditional and Ethnobotanical Uses
 
-### European Traditions
-- **Ancient Greece:** Used by Achilles' soldiers to staunch battle wounds (hence *Achillea*); also used for gastrointestinal complaints and female reproductive health
-- **Anglo-Saxon England:** One of the "Nine Herbs Charm" (*niunda wyrta*), a pagan incantation against poison and infection
-- **Medieval Europe:** Component of wound-healing salves ( vulnerary herbs), fever teas, and ale flavoring (before hops)
-- **Folk divination:** I Ching substitute in European folk traditions; stalks used for divination in China (where the species was introduced)
+- **European tradition:** Wound healing (Achilles' soldiers), digestive tonic, women's health (menstrual cramps, heavy bleeding), respiratory fevers
+- **TCM:** Known as *shí yī* — hemostatic, promotes blood circulation
+- **North American Indigenous:** Paiute (cold remedy), Cheyenne (fever), Navajo (dermatological), Iroquois (childbirth), Ojibwe (wound poultice)
 
-### Indigenous North American Uses
-- **Internal:** Cold and flu remedy, fever reduction (diaphoretic tea), digestive aid, hemorrhoid treatment, menstrual regulation
-- **External:** Wound poultice, nosebleed treatment, hemorrhoid compress, burn salve, toothache (chewed root)
-- **Ceremonial:** Used in some Plains tribes' rituals; dried stalks used in prayer offerings
+## Pharmacological Activities
 
-### TCM (Traditional Chinese Medicine)
-Known as **shì cǎo** (蓍草), yarrow stalks were historically used in I Ching divination. The aerial parts are used to harmonize the blood, stop bleeding, and promote circulation.
+- **Hemostatic/Wound-healing:** Achilleine promotes coagulation; tannins provide astringent action; flavonoids reduce inflammation and promote fibroblast proliferation
+- **Anti-inflammatory:** Sesquiterpene lactones inhibit NF-κB and COX-2; comparable to diclofenac in some animal models
+- **Antimicrobial:** Active against *S. aureus*, *E. coli*, *C. albicans*, *P. aeruginosa*
+- **Spasmolytic:** Smooth muscle relaxant on intestinal and uterine tissue; EMA-approved for dyspeptic complaints
+- **Diaphoretic:** Promotes sweating during fevers
 
-## Modern Pharmacological Research
-
-### Anti-Inflammatory Activity
-Sesquiterpene lactones and flavonoids inhibit NF-κB, COX-2, and iNOS, reducing production of pro-inflammatory cytokines. Chamazulene and α-bisabolol are the primary anti-inflammatory agents. Topical preparations reduce inflammation in dermatitis models.
-
-### Wound Healing and Hemostatic Activity
-Achilleine promotes blood clotting through multiple mechanisms. Tannins provide astringent action that tightens tissues and reduces bleeding. Flavonoids promote collagen synthesis and angiogenesis. Combined, these properties validate yarrow's traditional use as a wound herb.
-
-### Antimicrobial Activity
-Essential oil and extracts demonstrate broad-spectrum antimicrobial activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*), and fungi (*Candida albicans*). The essential oil is most potent, with MIC values in the 0.1–1 mg/mL range.
-
-### Spasmolytic and Digestive Effects
-Flavonoids (apigenin) and essential oil components (linalool, camphor) exhibit smooth muscle relaxant activity on intestinal and uterine smooth muscle, supporting traditional use for digestive cramps and menstrual pain. Bitter principles stimulate digestive enzyme secretion and appetite.
-
-### Antioxidant Activity
-Flavonoid and phenolic acid content provides significant radical-scavenging activity (DPPH, ABTS, FRAP assays), contributing to cytoprotective and anti-aging effects.
-
-## Permaculture and Ecological Applications
-
-### Companion Planting
-Yarrow is an exceptional companion plant in permaculture systems:
-- **Accumulates nutrients:** Deep taproots mine phosphorus, potassium, and calcium from subsoil layers, making them available to neighboring plants via leaf mulch
-- **Attracts beneficial insects:** Flat-topped flower clusters are ideal landing platforms for predatory insects (ladybugs, lacewings, hoverflies, parasitic wasps) that control aphids and other pests
-- **Improves soil:** Rhizomatous root system prevents erosion and improves soil structure
-- **Compost accelerator:** Adding yarrow leaves to compost heaps speeds decomposition; the herb contains enzymes and copper that catalyze breakdown
-- **Pest deterrent:** Aromatic compounds may repel certain insect pests (though scientific evidence is mixed)
-
-### Ground Cover and Erosion Control
-Dense, rhizomatous growth makes yarrow effective as a living mulch and ground cover between taller perennials or in orchard understories. It tolerates foot traffic and mowing, making it suitable for alternative lawns and herbal lawns.
+## Permaculture Applications
 
 ### Dynamic Accumulator
-Listed as a dynamic accumulator of potassium, phosphorus, and copper, yarrow can be used in permaculture chop-and-drop mulch systems to cycle nutrients from deep soil layers to the surface.
 
-### Medicinal Food Forest Integration
-Yarrow integrates well into food forest and medicinal herb spirals, providing medicinal material, ecological services, and ornamental value simultaneously.
+Deep roots mine minerals from subsoil: **K** (high), **Ca** (moderate), **Mg** (moderate), **P** (some). Used as **chop-and-drop mulch** — cut and dropped around beds to return nutrients to topsoil. Frequently paired with comfrey for this purpose.
+
+### Insectary Plant
+
+Attracts predatory insects (ladybugs, lacewings, hoverflies, parasitic wasps). Hoverfly larvae are voracious aphid predators; flat flower heads provide ideal landing platforms. Repels some pest species through volatile oils.
+
+### Companion Planting
+
+- **Fruit trees:** Attracts pollinators, accumulates nutrients
+- **Vegetable gardens:** Borders attract beneficials, provide mulch material
+- **Brassicas:** Trap crop for cabbage white butterflies
+- **Aromatic masking:** Strong scent may mask crop odors from pests
+
+### Erosion Control and Ground Cover
+
+Rhizomatous roots stabilize slopes and embankments. Drought-tolerant pioneer for degraded soils. Forms dense mats that suppress weeds; tolerates moderate foot traffic.
 
 ## Cultivation
 
 | Parameter | Details |
 |-----------|---------|
-| **Propagation** | Seed (direct sow or start indoors), division (spring/fall), basal cuttings |
-| **Stratification** | Cold stratification (2–4 weeks at 4°C) improves germination; light aids germination |
-| **Germination** | 14–21 days at 18–22°C |
-| **Spacing** | 30–45 cm apart |
-| **Soil** | Adaptable; prefers well-drained, moderately fertile soil |
-| **Water** | Drought-tolerant; water until established, then minimal |
-| **Hardiness** | USDA Zones 3–9 |
-| **Lifespan** | Perennial; may require division every 3–4 years |
-| **Harvest** | Aerial parts during flowering (peak essential oil content) |
+| Propagation | Seed (surface sow, spring), division, softwood cuttings |
+| Germination | 14–21 days at 18–22 °C; light-dependent |
+| Spacing | 30–45 cm |
+| Soil | Any well-drained; tolerates poor, dry soils |
+| Water | Low — drought-tolerant once established |
+| Light | Full sun to partial shade |
+| Fertilizer | None required; excess N reduces essential oils |
+| Harvest | Aerial parts during flowering; dry in bundles, 5–10 days |
 
-## Safety and Contraindications
+## Safety
 
-Yarrow is generally safe when used appropriately:
-- **Pregnancy:** Contraindicated — uterotonic properties may stimulate contractions; historically used to induce menstruation
-- **Allergy:** Asteraceae family allergy (ragweed, chamomile, echinacea) may cross-react; sesquiterpene lactones can cause contact dermatitis
-- **Bleeding disorders:** May enhance anticoagulant effects; caution with warfarin and other blood thinners
-- **Photosensitivity:** Rare; some chemotypes contain phototoxic furanocoumarins
-- **Drug interactions:** May potentiate sedatives and antihypertensives
+Generally safe at therapeutic doses. Avoid during pregnancy (uterine stimulant). May interact with anticoagulants (coumarin content). Allergic reactions possible for Asteraceae-sensitive individuals.
 
 ## See Also
 
-- [[matricaria-chamomilla]] — German Chamomile (related Asteraceae medicinal herb)
-- [[calendula-officinalis]] — Calendula (companion wound-healing herb)
-- [[urtica-dioica]] — Nettle (complementary dynamic accumulator)
-- [[comfrey]] — Comfrey (permaculture companion, wound herb)
-- [[companion-planting]] — Comprehensive companion planting guide
-- [[cichorium-intybus]]
-- [[equisetum-arvense]]
+- [[symphytum-officinale]] — Comfrey, companion dynamic accumulator
+- [[urtica-dioica]] — Nettle, nutrient accumulator
+- [[calendula-officinalis]] — Calendula, wound-healing herb
+- achillea ptarmica — Sneezewort, related ornamental species

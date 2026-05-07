@@ -18,6 +18,8 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/mycorrhiza
   - https://www.frontiersin.org/articles/10.3389/fmicb.2021.642574
   - https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-121215-022332
+type: comparison
+created: 2026-04-28
 ---
 
 # Lichen Symbiosis vs Mycorrhizal Symbiosis

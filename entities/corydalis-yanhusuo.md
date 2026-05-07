@@ -151,6 +151,8 @@ Clinical trials and extensive clinical use in China support Yan Hu Suo extract f
 
 ## See Also
 
+- [[corydalis-cava]]
+
 - [[herbal-medicine]]
 
 - [[medicinal-mushrooms]]

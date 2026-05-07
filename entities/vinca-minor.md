@@ -17,6 +17,7 @@ sources:
   - Newall, C.A. et al. (1996). Herbal Medicines: A Guide for Health-Care Professionals. Pharmaceutical Press.
   - van Beek, T.A. (2005). "Chemical analysis of Vinca alkaloids." Journal of Pharmaceutical and Biomedical Analysis 38(4): 555-563.
   - Szabó, L. (1958). "Investigations on Vinca minor alkaloids." Acta Pharmaceutica Hungarica 28: 68-74.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -76,6 +76,8 @@ The interface between two ecosystems represents a third, more complex system com
 
 ## See Also
 
+- [[energy-circuit-models-permaculture-design]]
+
 - [[permaculture-two-design-principles]]
 
 - [[permaculture-design-principles-beginners]]

@@ -19,6 +19,8 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705345/
   - https://plantvillage.psu.edu/topics/cowpea/infos
   - https://www.grainlegumes.com/
+type: comparison
+created: 2026-05-03
 ---
 
 # Cowpea vs Mung Bean

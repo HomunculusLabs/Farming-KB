@@ -15,6 +15,7 @@ sources:
   - Harrison, K.A. (1964). "A Monograph of the genus Hydnellum (Fungi: Hydnaceae)." Nova Hedwigia.
   - Kõljalg, U. et al. (2013). "Towards a unified paradigm for sequence-based identification of fungi." Molecular Ecology, 22(21), 5271-5277.
   - URL: https://www.mycobank.org/
+created: 2026-04-28
 ---
 
 ## Overview

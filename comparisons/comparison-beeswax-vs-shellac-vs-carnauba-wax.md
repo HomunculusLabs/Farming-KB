@@ -9,6 +9,8 @@ sources:
   - "Baker, R.A. (2017). 'Carnauba Wax: Properties, Uses and Sustainability.' Palm Oil Research Institute."
   - "Briggs, M. (2004). 'Going with the Grain: Wood Finishing Handbook.' Guild of Master Craftsmen."
   - "US FDA Code of Federal Regulations, Title 21 — Food additive regulations for beeswax, shellac, and carnauba."
+type: comparison
+created: 2026-04-28
 ---
 
 # Beeswax vs Shellac vs Carnauba Wax
@@ -118,6 +120,9 @@ Many finishers combine these materials to leverage their complementary propertie
 
 ## See Also
 
-- [[lac-insect-and-shellac]] — deep dive into shellac production
-- [[beekeeping-and-pollinator-conservation]] — beeswax production context
-- [[natural-dye-plants-and-textile-fiber-crops]] — other natural coating materials
+- [[comparison-sourdough-vs-wild-yeast-bread]]
+- [[fukuoka-textdoc-three-types-farming-comparison-yields]]
+
+- [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] — deep dive into shellac production
+- beekeeping and pollinator conservation — beeswax production context
+- natural dye plants and textile fiber crops — other natural coating materials

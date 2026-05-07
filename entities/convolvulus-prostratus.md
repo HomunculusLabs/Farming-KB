@@ -31,6 +31,7 @@ sources:
   - Malhotra, C.L. et al. (1961). "Psychotropic effect of an indigenous drug (Convolvulus pluricaulis Choisy)." Indian Journal of Physiology and Pharmacology, 5, 91–96.
   - Kulkarni, S.K. et al. (2008). "Convolvulus pluricaulis: An overview." Pharmacognosy Reviews, 2(4), 268–273.
   - Nadkarni, A.K. (1976). "Indian Materia Medica." Popular Prakashan, Mumbai.
+created: 2026-04-28
 ---
 
 ## Overview
@@ -102,6 +103,8 @@ C. prostratus contains the characteristic convoline/shankhpushpine alkaloids not
 Pharmacopoeial standards in India have designated C. prostratus as the authentic source, but market samples frequently contain mixtures or substitutes. DNA barcoding using ITS regions has been proposed as a quality control measure to verify botanical identity in commercial preparations.
 
 ## See Also
+
+- [[convolvulus-pluricaulis]]
 
 - [[bacopa-monnieri]]
 - [[clitoria-ternatea]]

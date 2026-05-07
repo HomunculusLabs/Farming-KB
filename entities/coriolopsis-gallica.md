@@ -26,6 +26,7 @@ sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European polypores, Part 1." Synopsis Fungorum 6.
   - Dai, Y.C. et al. (2007). "Wood-inhabiting fungi in southern China." Mycotaxon 100.
   - Zhu, M. et al. (2019). "Antioxidant activities of polysaccharides from Coriolopsis gallica." Carbohydrate Polymers 223.
+created: 2026-04-28
 ---
 
 ## Overview

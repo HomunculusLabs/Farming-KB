@@ -16,6 +16,7 @@ sources:
   - Weedmaps (2022). "London Poundcake: Strain Info, Lineage, and More." Weedmaps.
   - Cannabis Training University (2023). "Top Exotic Cannabis Strains of 2023." CTU.
   - MJBizDaily (2023). "The Rise of Dessert and Pastry-Flavored Cannabis Strains." MJBizDaily.
+created: 2026-04-28
 ---
 
 ## Overview

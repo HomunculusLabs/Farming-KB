@@ -112,6 +112,8 @@ fungal species are lost.
 
 ## See Also
 
+- [[mycelium-as-natures-internet]]
+
 - [[fungal-resource-translocation-in-mycelial-networks]]
 - [[mycelium-running-stamets-fungal-ecology-networks]]
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]

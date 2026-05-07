@@ -85,6 +85,10 @@ The saffron milk cap (Lactarius deliciosus) is an edible ectomycorrhizal mushroo
 
 ## See Also
 
+- [[allium-ursinum]]
+
+- [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
+
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 
 - [[palmer-about-mushrooms-cooking-and-preservation]]

@@ -9,6 +9,8 @@ sources:
   - Jepson, P. (2016). "A Re-wilding Agenda for Europe: Creating a Network of Experimental Reserves." Ecography, 39(1), 117-126.
   - Lorimer, J. et al. (2015). "Rewilding: Science, Practice, and Politics." Annual Review of Environment and Resources, 40, 39-62.
   - Svenning, J.C. et al. (2016). "Science for a Wilder Anthropocene: Synthesis and Future Directions for Trophic Rewilding Research." Proceedings of the National Academy of Sciences, 113(4), 898-906.
+type: comparison
+created: 2026-04-28
 ---
 
 # Rewilding vs Traditional Conservation
@@ -118,3 +120,10 @@ Hybrid approaches are emerging that combine elements of both: protected area net
 ## Summary
 
 Rewilding and traditional conservation differ primarily in their visions of the endpoint (self-regulating vs. managed ecosystems), their methods (process-based vs. species-based), and their assumptions about human roles (minimal intervention vs. active stewardship). Both are necessary tools in the conservation toolkit, and the most effective conservation strategies will deploy each where it is most appropriate, guided by local ecological and social contexts.
+
+## See Also
+
+- [[comparison-no-till-vs-reduced-tillage]]
+- [[pioneer-species-and-succession-permaculture-design]]
+
+- [[comparison-agrovoltaics-vs-traditional-solar-farms]]

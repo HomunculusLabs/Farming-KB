@@ -19,8 +19,9 @@ sources:
   - https://www.sare.org/publications/cover-crops/
   - https://www.johnnyseeds.com/
   - https://www.seedsofchange.com/
+type: query
+created: 2026-05-03
 ---
-
 # What Are the Best Grain Legumes for a Small Homestead?
 
 Grain legumes (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve soil structure, and fit into diverse rotation and intercropping schemes. The "best" pulse crops depend on your climate, growing season, culinary preferences, and how much space you can dedicate. This guide covers the top recommendations organized by climate zone and purpose, with practical growing advice for each.
@@ -50,7 +51,6 @@ Fava beans are arguably the most useful pulse for a small homestead. They tolera
 - Pinch growing tips when first flowers appear to deter blackfly aphids
 - Harvest when pods swell but before seeds harden (fresh eating) or when pods dry and blacken (dry storage)
 - Chop stems at ground level after harvest and leave roots in place — they're loaded with fixed nitrogen
-
 **Yield Expectation**: 1.5–3 kg per 10 m row (dry seed)
 **Storage**: Dry seeds store 2–3 years in airtight containers. Fresh favas freeze well after blanching.
 

@@ -137,6 +137,8 @@ However, Shulgin maintained that the information was already available in the sc
 
 ## See Also
 
+- [[mipla]]
+
 - [[butylone]]
 
 - [[4-aco-mipt]]

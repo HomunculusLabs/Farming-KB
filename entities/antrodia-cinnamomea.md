@@ -31,6 +31,7 @@ aliases:
   - Antrodia camphorata
   - camphor tree mushroom
   - chang-chih
+created: 2026-04-28
 ---
 
 ## Overview

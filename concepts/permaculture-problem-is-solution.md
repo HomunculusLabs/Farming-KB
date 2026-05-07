@@ -77,6 +77,8 @@ This humility in the face of complexity is essential for applying "the problem i
 
 ## See Also
 
+- [[problem-is-the-solution-permaculture-maxim]]
+
 - [[permaculture-principle-observe-and-interact]]
 
 - [[permaculture-principle-apply-self-regulation]]

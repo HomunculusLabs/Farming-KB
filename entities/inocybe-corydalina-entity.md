@@ -121,3 +121,4 @@ Recent molecular phylogenetic studies have identified the psilocybin biosyntheti
 - [[muscarine]] — Toxic compound found in many Inocybe species
 - [[aeruginascin]] — Unique indole compound found in I. aeruginascens
 - [[psilocybe-semilanceata]] — For comparison with a dedicated psilocybin-producing genus
+- [[inocybe-corydalina]]

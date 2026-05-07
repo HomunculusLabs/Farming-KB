@@ -15,6 +15,7 @@ sources:
   - Green, J. (2017). "The Cannabis Grow Bible: The Definitive Guide to Growing Marijuana for Recreational and Medical Use." Green Candy Press.
   - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L: A Historical-Ethnographic Survey." Economic Botany, 26(4): 393-401.
   - MWORDS Cannabis Directory. "Lamb's Bread Strain Profile." https://www.leafly.com/strains/lambs-bread
+created: 2026-04-28
 ---
 
 ## Overview

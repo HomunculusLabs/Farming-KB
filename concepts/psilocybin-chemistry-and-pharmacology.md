@@ -35,8 +35,8 @@ phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT).
 Psilocybin is more stable in air and is water-soluble, which is why it is the
 primary compound found in dried mushroom tissue. Upon ingestion, psilocybin is
 rapidly dephosphorylated by alkaline phosphatase enzymes in the body to yield
-psilocin, the pharmacologically active compound that interacts directly with
-serotonin receptors in the brain.
+psilocin, the pharmacologically active compound. [[psilocybin-biosynthesis-pathway]]
+describes how fungi synthesize these compounds enzymatically.
 
 Two additional tryptamines may also be present: baeocystin (4-phosphoryloxy-N-
 methyltryptamine) and norbaeocystin (4-phosphoryloxytryptamine). These are
@@ -81,7 +81,8 @@ mushrooms often contain higher concentrations than mature specimens.
 ## Receptor Pharmacology
 
 Psilocin acts primarily as a post-synaptic agonist (or partial agonist) at the
-5-HT2A serotonin receptor subtype. This receptor is densely expressed in the
+5-HT2A serotonin receptor subtype. [[tryptamine-entity-tihkal]] catalogs
+related tryptamine compounds and their receptor affinities. This receptor is densely expressed in the
 cerebral cortex, particularly in layer V pyramidal neurons, and is the same
 primary receptor target of LSD and other classical psychedelics. Activation of
 5-HT2A receptors leads to increased cortical excitability, altered
@@ -137,7 +138,8 @@ substrate, and growing conditions.
 
 The blueing reaction that occurs when psilocybin-containing mushroom tissue is
 damaged is caused by enzymatic oxidation of psilocin and possibly other
-phenolic compounds. While useful as a field indicator, blueing is not perfectly
+phenolic compounds. [[psychedelic-mushroom-chemistry]] covers the blueing
+mechanism in detail. While useful as a field indicator, blueing is not perfectly
 correlated with potency. Some non-neurotropic species also exhibit blueing, and
 the intensity of blueing does not linearly predict psilocybin content. The
 blueing feature, combined with indole substance detection or the strong
@@ -155,7 +157,7 @@ tea." Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe-t
 Onset of effects typically occurs within 20 to 60 minutes after ingestion, with
 peak effects at 2 to 3 hours and total duration of approximately 4 to 6 hours.
 This is notably shorter than LSD (8 to 12 hours) and considerably shorter than
-the [[Amanita muscaria]] experience, which can last 8 to 10 hours and is
+the [[amanita-muscaria-pharmacology]] experience, which can last 8 to 10 hours and is
 complicated by the toxic and deliriant effects of ibotenic acid.
 
 ## Modern Research Implications

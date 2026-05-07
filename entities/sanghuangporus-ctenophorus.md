@@ -16,6 +16,7 @@ sources:
   - Chen Q, et al. (2020). "Anti-tumor polysaccharides from Sanghuangporus species: A review." International Journal of Biological Macromolecules, 164, 4251-4262.
   - Shen J, et al. (2017). "Medicinal values of Sanghuangporus sanghuang: A review." Journal of Ethnopharmacology, 196, 97-108.
   - Dai YC, et al. (2015). "Wood-inhabiting fungi in China." Fungal Diversity, 73, 1-10.
+created: 2026-04-28
 ---
 
 # Sanghuangporus ctenophorus

@@ -83,6 +83,8 @@ Soft fruits encompass brambles, shrubs, and herbaceous perennials. Cane fruits n
 
 ## Related
 
+- [[comparison-blueberry-vs-haskap-cultivation]]
+
 - [[organic-fruit-tree-care-calendar]]
 - [[hamilton-organic-pest-control]] for bird and pest protection
 - [[plant-propagation-methods]]

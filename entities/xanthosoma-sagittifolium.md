@@ -36,6 +36,7 @@ aliases:
   - taioba
   - mangareto
   - otoe
+created: 2026-04-28
 ---
 
 ## Overview

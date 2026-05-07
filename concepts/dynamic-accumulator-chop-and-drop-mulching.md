@@ -127,6 +127,8 @@ For most home gardens, a combination works best: chop-and-drop for perennial bed
 
 ## Related
 
+- [[chop-and-drop]]
+
 - [[comfrey-as-dynamic-accumulator]] Pages
 
 - [[dynamic-accumulator-plants-nitrogen]]

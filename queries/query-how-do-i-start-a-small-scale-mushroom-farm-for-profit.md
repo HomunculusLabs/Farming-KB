@@ -108,6 +108,8 @@ growing house.
 
 ## Related
 
+- [[query-how-to-start-a-small-scale-snail-farm]]
+
 - [[query-how-to-start-a-worm-farm-for-profit]] Questions
 [[query-how-to-start-growing-mushrooms-at-home]]
 [[query-how-to-set-up-a-monotub-mushroom-grow]]

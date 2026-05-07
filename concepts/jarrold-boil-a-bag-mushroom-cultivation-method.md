@@ -144,6 +144,8 @@ Designed for cold climates. A container with water, lid, and input fan; multiple
 - **Scalable**: Multiple bags can be processed simultaneously
 ## See Also
 
+- [[straw-substrate-boil-a-bag-cultivation-method]]
+
 - [[oyster-mushroom-bag-cultivation]]
 
 - [[mushroom-cultivation-troubleshooting-guide]]

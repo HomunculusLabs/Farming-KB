@@ -15,6 +15,7 @@ sources:
   - Arnason, T. et al. (1980). "Maya medicinal plants of San Jose Succotz, Belize." Journal of Ethnopharmacology 2(4): 345-364.
   - Mignouna, H.D. et al. (2009). "Yam (*Dioscorea* spp.): Overview." In: Vol. 2, Fruits and Nuts, Springer.
   - Bredeson, J.V. et al. (2016). "The genome of *Dioscorea alata*: A resource for yam genetic improvement." BMC Genomics 17: 553.
+created: 2026-04-28
 ---
 
 ## Overview

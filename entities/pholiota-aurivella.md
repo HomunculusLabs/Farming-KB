@@ -24,6 +24,7 @@ sources:
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Noordeloos, M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13.
   - Begerow, D. et al. (2020). "Fungal diversity." MycoBank, CBS-KNAW.
+created: 2026-04-28
 ---
 
 ## Overview

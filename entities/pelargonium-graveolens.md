@@ -21,6 +21,7 @@ sources:
     graveolens." International Journal of Pharmaceutical Sciences.
   - Mazzanti, L. et al. (2012). "Antimicrobial activity of geranium
     oil." Flavour and Fragrance Journal.
+created: 2026-04-28
 ---
 
 ## Overview

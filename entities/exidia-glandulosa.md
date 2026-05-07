@@ -14,6 +14,7 @@ sources:
   - Roberts, P. (2001). "British and Irish Jelly Fungi." British Mycological Society.
   - Kuo, M. (2023). "Exidia glandulosa." MushroomExpert.com.
   - Reid, D.A. (1973). "A monograph of the British species of Exidia." Trans. Brit. Mycol. Soc., 61(2), 297-325.
+created: 2026-04-28
 ---
 
 ## Overview

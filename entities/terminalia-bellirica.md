@@ -15,6 +15,7 @@ sources:
   - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. Boca Raton: CRC Press.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. New Delhi: CSIR.
   - FRLHT (Foundation for Revitalisation of Local Health Traditions). "Bibhitaki." Digital Plant Database.
+created: 2026-04-28
 ---
 
 # Terminalia bellirica

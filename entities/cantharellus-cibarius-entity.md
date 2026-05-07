@@ -148,6 +148,8 @@ aggregation and organic matter decomposition.
 
 ## See Also
 
+- [[cantharellus-lateritius]]
+
 - [[agroforestry]]
 - [[cantharellus-cibarius]]
 - [[craterellus-tubaeformis]]

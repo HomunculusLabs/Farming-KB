@@ -15,6 +15,7 @@ sources:
   - Fischer, M.S. & Binder, M. (2013). "Species recognition, geographic distribution and host specificity of Inonotus and related genera in Europe." Mycologia, 105(4), 969-980.
   - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of Wood Decay in Trees. Berlin: Springer.
   - Tabata, M. et al. (2014). "Inonotus obliquus sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
+created: 2026-04-28
 ---
 
 # Inonotus dryadeus

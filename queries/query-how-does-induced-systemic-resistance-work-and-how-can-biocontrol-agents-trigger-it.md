@@ -10,6 +10,8 @@ sources:
   - Ryu CM, Farag MA, Hu CH, et al. Bacterial volatiles promote growth in Arabidopsis. Proceedings of the National Academy of Sciences. 2003;100(8):4927-4932.
   - Verhagen BWM, Trotel-Aziz P, Couderchet M, Höfte M, Aziz A. Pseudomonas spp.-[[endophytic-mycorrhizal-induced-systemic-resistance|induced systemic resistance]] to Botrytis cinerea is associated with induction and priming of [[mycorrhiza-induced-resistance-defense-priming|defense responses]] in grapevine. Journal of Experimental Botany. 2010;61(1):249-260.
   - Conrath U, Beckers GJM, Flors V, et al. Priming: getting ready for battle. Molecular Plant-Microbe Interactions. 2006;19(10):1062-1071.
+type: query
+created: 2026-04-28
 ---
 
 # How Does Induced Systemic Resistance (ISR) Work and How Can Biocontrol Agents Trigger It

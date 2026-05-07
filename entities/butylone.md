@@ -18,6 +18,7 @@ sources:
   - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new psychoactive substances."
   - Zaitsu, K. et al. (2009). "Simultaneous determination of 11 cathinone derivatives in human hair by LC-MS/MS." Forensic Science International, 184(1–3), 1–7.
   - Iversen, L. (2014). "Contemporary research on the pharmacology and toxicology of recreational cathinones." Psychopharmacology, 231(5), 929–939.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -16,6 +16,8 @@ sources:
   - Pérez-Jiménez, J. et al. "Identification of the 100 Richest Dietary Sources of Polyphenols: An Application of the Phenol-Explorer Database." European Journal of Clinical Nutrition, vol. 64, supplement 3, 2010, pp. S112-S120.
   - Vauzour, D. et al. "Methods for Characterization of the Impact of Dietary Polyphenols on the Human Gut Microbiota." In "Dietary Polyphenols: Properties, Characterization, and Measurement," CRC Press, 2021.
   - Scalbert, A. et al. "Dietary Polyphenols and the Prevention of Diseases." Critical Reviews in Food Science and Nutrition, vol. 45, no. 4, 2005, pp. 287-306.
+type: query
+created: 2026-04-28
 ---
 
 # What Are the Health Benefits of Dietary Polyphenols and Which Foods Are the Best Sources?

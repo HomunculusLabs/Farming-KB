@@ -142,6 +142,8 @@ These infrastructure limitations both protect the authenticity of the experience
 
 ## See Also
 
+- [[brazilian-ayahuasca-churches]]
+
 - [[ayahuasca-tourism-ethics]] — ethical considerations in ayahuasca tourism and commodification
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]] — guidance on evaluating ayahuasca practitioners and ensuring participant safety
 - [[ayahuasca-tourism-western-seekers-and-integration]] — how Western seekers approach ayahuasca and integrate experiences

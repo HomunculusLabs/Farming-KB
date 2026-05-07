@@ -24,6 +24,7 @@ sources:
   - Sell CS (2003). "The Chemistry of Fragrances." Royal Society of Chemistry.
   - "Isopulegol." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
   - Kamatou GPP, Viljoen AM (2008). "A Review of the Application and Pharmacological Properties of *Agathosma betulina*." Journal of Ethnopharmacology 119(3): 421–430.
+created: 2026-04-28
 ---
 
 ## Overview

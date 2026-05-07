@@ -101,7 +101,9 @@ not be available through conventional nurseries or clone sources.
 - Home-scale setups are increasingly affordable, though the learning curve
   is steeper than conventional cloning methods
 
-## Related Questions
+## Related
+
+- [[query-what-is-plant-phenology-and-why-does-it-matter-for-growers]] Questions
 - [[query-how-to-clone-cannabis-plants-step-by-step]]
 - [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
 - [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]

@@ -12,6 +12,8 @@ updated: 2026-04-28 sources:
   - Michigan State University — chestnut cultivar trials   - Clemson Extension — chestnut production in the Southeast
   - University of Missouri — chestnut variety guide for the Midwest   - Eurocastanea network — European chestnut cultivar database
   - Savill et al. (2017) — The syndrome of chestnut blight
+sources: []
+tags: []
 ---
 
 # Best Chestnut Varieties for Different Climates and Uses
@@ -154,6 +156,8 @@ updated: 2026-04-28 sources:
 3. **European cultivars offer the best flour** — higher starch, traditional processing heritage
 
 ## See Also
+
+- [[query-best-stone-fruit-varieties-for-different-climates]]
 
 - [[query-best-elderberry-varieties-for-different-climates-and-uses]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]

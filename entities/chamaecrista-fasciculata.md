@@ -143,4 +143,4 @@ Indigenous peoples of eastern North America used partridge pea medicinally. The 
 - [[arachis-pintoi-entity]]
 - [[companion-planting]]
 - [[dynamic-accumulators]]
-- [[nitrogen-fixation]]
+- [[biological-nitrogen-fixation-agriculture]]

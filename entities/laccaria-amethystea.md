@@ -22,6 +22,7 @@ sources:
   - Kuo, M. (2024). "Laccaria amethystea." MushroomExpert.com. https://www.mushroomexpert.com/laccaria_amethystina.html
   - Mueller, G.M. et al. (2002). "Laccaria in North America." Mycotaxon 82: 15-32.
   - Wikipedia contributors (2025). "Laccaria amethystina." Wikipedia. https://en.wikipedia.org/wiki/Laccaria_amethystina
+created: 2026-04-28
 ---
 
 ## Overview

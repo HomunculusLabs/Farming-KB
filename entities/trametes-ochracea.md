@@ -14,6 +14,7 @@ sources:
   - Bernicchia, A. & Gorjón, S.P. (2010). "Fungi Europaei, Vol. 12: Polyporaceae s.l." Edizioni Candusso.
   - Zmitrovich, I.V. & Malysheva, V.F. (2013). "Towards a phylogenetic classification of the Polyporaceae." Mycotaxon 126: 249-276.
   - Justo, A. et al. (2017). "A revised morphological concept of Trametes (Polyporales)." Fungal Biology 121(12): 1145-1167.
+created: 2026-04-28
 ---
 
 ## Overview

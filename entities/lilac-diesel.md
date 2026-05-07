@@ -21,6 +21,7 @@ sources:
   - Wikileaf (2024). "Lilac Diesel." Wikileaf. https://www.wikileaf.com/strain/lilac-diesel
   - Growers Network (2023). "Breeding Diesel Lineages: A Grower's Guide."
   - Weedmaps Staff (2024). "Lilac Diesel Strain." Weedmaps. https://weedmaps.com/strains/lilac-diesel
+created: 2026-04-28
 ---
 
 ## Overview

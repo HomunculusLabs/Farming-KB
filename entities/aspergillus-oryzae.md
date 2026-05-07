@@ -130,3 +130,4 @@ Standard techniques for isolating and maintaining *A. oryzae* in the laboratory 
 - [[aspergillus-niger]]
 - fermentation-microbiology
 - Koji
+- [[monascus-purpureus]]

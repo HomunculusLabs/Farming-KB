@@ -20,6 +20,7 @@ sources:
     Aspergillaceae." Phytopathologische Zeitschrift.
   - Flieger, M. et al. (1997). "Ergot alkaloids — Sources, structures
     and analytical methods." Folia Microbiologica.
+created: 2026-04-28
 ---
 
 ## Overview

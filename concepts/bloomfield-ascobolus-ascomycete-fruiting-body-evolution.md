@@ -145,6 +145,8 @@ fungal biology.
 
 ## See Also
 
+- [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]
+
 - [[bloomfield-fungal-sex-pheromones-mating-communication]]
 - [[bloomfield-wood-decay-fungi-spalted-timber]]
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]

@@ -114,6 +114,8 @@ Some cover crops disrupt pest and disease cycles:
 
 ## See Also
 
+- [[chamaecrista-fasciculata]]
+
 - [[gaias-garden-cover-crops-soil-building]]
 - [[soil-building-ecological-garden]]
 - [[permaculture-nitrogen-fixing-trees-guide]]

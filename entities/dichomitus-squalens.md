@@ -17,6 +17,7 @@ sources:
   - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
   - Hofrichter, M. et al. (2010). "Reactive oxygen species in fungal lignin degradation." Fungal Biology Reviews, 24(3-4), 112-120.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=128404
+created: 2026-04-28
 ---
 
 ## Overview

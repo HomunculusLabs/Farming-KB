@@ -15,6 +15,7 @@ sources:
   - Brandt, S.D. et al. (2010). "Use of 4-substituted tryptamines in the UK." Drug Testing and Analysis 2(9): 431-440.
   - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new psychoactive substances."
   - Smith, J.P. et al. (2019). "Pharmacological characterization of N-substituted tryptamines at 5-HT receptors." Neuropharmacology 159: 107534.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -16,6 +16,7 @@ sources:
   - Ayerza R, Coates W. (2011). "Chia: Rediscovering a Forgotten Crop of the Aztecs." University of Arizona Press.
   - Ullah R, Nadeem M, Khalique A, et al. (2016). "Nutritional and therapeutic perspectives of chia (Salvia hispanica L.)." Journal of Food Science and Technology, 53(4), 1750-1758.
   - da Silva BP, Brandão LR, Pimentel IC, et al. (2017). "Sprouting of chia (Salvia hispanica L.) seeds." Food Chemistry, 221, 1764-1769.
+created: 2026-04-28
 ---
 
 # Salvia hispanica

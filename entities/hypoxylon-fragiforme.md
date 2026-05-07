@@ -109,6 +109,8 @@ Field identification is most reliable when both substrate (beech) and stroma mat
 
 ## See Also
 
+- [[hypoxylon-fuscum]]
+
 - [[fomes-fomentarius]] — Co-occurring polypore on beech wood
 - [[xylaria-polymorpha]] — Related Xylariaceae on dead wood
 - [[inonotus-obliquus]] — Another beech-associated sterile conk

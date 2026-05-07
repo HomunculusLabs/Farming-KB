@@ -97,6 +97,8 @@ If root-feeding nematodes (particularly lesion nematode) are detected, use non-h
 
 ## See Also
 
+- [[ingham-pleomorphism-microorganism-identification]]
+
 - [[ingham-leaf-surface-biology-exudates]]
 
 - [[ingham-soil-food-web-assessment-methods]]

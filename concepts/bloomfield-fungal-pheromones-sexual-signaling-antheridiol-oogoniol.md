@@ -123,7 +123,9 @@ signaling across the tree of life. Fungal pheromone research continues to inform
 understanding of mating type systems, sexual compatibility, and the evolution of
 reproductive isolation.
 
-## Related Topics
+## Related
+
+- [[bloomfield-fungal-life-cycle-spiral-versus-circle]] Topics
 
 - [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
 - [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]

@@ -17,6 +17,7 @@ sources:
   - Elevitch, C.R. (2006). "Terminalia catappa (tropical almond)." Species Profiles for Pacific Island Agroforestry.
   - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a multipurpose tree." Journal of Pharmacognosy and Phytochemistry 2(1): 30-35.
   - Morton, J.F. (1985). "Indian almond (Terminalia catappa), edible nuts and useful products." Economic Botany 39(2): 141-155.
+created: 2026-04-28
 ---
 
 ## Overview

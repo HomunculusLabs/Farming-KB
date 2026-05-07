@@ -84,6 +84,8 @@ With minimal heat, four to five crops can be harvested during winter months alon
 
 ## See Also
 
+- [[winter-succession-planting]]
+
 - [[coleman-planting-schedules]] — Specific sowing dates by crop
 - [[coleman-winter-greens]] — Individual crop details
 - [[coleman-greenhouse-soil-management]] — Soil care between plantings

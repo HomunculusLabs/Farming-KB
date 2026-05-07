@@ -136,3 +136,4 @@ paired with the bright fruitiness of chanterelles.
 - [[growing-gourmet-lions-mane-cultivation]]
 - [[lions-mane-indoor-cultivation]]
 - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
+- [[termitomyces-titanicus]]

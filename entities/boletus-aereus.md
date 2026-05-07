@@ -133,6 +133,8 @@ value yield crop with minimal maintenance requirements once established.
 
 ## See Also
 
+- [[xerocomellus-chrysenteron]]
+
 - [[boletus-edulis]]
 - [[boletus-reticulatus]]
 - [[boletus-regius]]

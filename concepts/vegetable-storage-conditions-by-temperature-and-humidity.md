@@ -142,3 +142,4 @@ children and pets.
 - [[cole-crop-harvest-and-storage]] for cole crop specifics
 - [[legume-and-fruit-vegetable-harvest]] for legume and fruit details
 - [[root-crop-harvest-and-storage]] for root crop specifics
+- [[spawn-storage-conditions]]

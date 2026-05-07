@@ -169,6 +169,11 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 
 ## See Also
 
+- [[jealousy]]
+
+- [[mochi-cannabis-strain]]
+- [[starfighter]]
+
 - [[gelato-cannabis]] — parent strain
 - [[girl-scout-cookies]] — foundational lineage
 - sunset sherbert — parent strain

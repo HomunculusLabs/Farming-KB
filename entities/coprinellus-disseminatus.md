@@ -15,6 +15,7 @@ sources:
   - Watling, R. (1982). "British Fungus Flora: Agarics and Boleti." Vol. 3. Royal Botanic Garden Edinburgh.
   - Kühner, R. (1980). "Les Hyménomycètes agaricoïdes." Bulletin de la Société Linnéenne de Lyon.
   - Kepler, R.M. et al. (2013). "Phylogenetic classification of coprinoid mushrooms." Mycologia 105(5): 1247-1261.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -95,7 +95,10 @@ soil and tree roots develop together.
 - Improves [[compost-biology-soil-food-web-inoculation]] and [[teaming-with-nutrients-composting-and-nutrient-cycling]] through better infiltration
 - Can be implemented at any scale using simple tools like an A-frame level
 
-## Related Questions
+## Related
+
+- [[query-how-do-trophic-cascades-work]]
+- [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] Questions
 [[query-how-to-build-a-swale-for-water-harvesting]]
 [[query-how-to-start-a-food-forest]]
 [[query-what-are-the-12-permaculture-principles]]

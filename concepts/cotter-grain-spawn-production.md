@@ -147,3 +147,4 @@ The goal is to preserve unique properties of every wild isolate.
 - [[cotter-culture-storage-senescence]] -- long-term preservation
 - [[cotter-spawn-production]] -- broader spawn production context
 - [[cotter-laboratory-setup]] -- lab equipment and design
+- [[pelletized-granular-spawn]]

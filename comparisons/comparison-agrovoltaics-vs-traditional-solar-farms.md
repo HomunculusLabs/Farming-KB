@@ -162,6 +162,8 @@ The choice between these approaches involves tradeoffs in energy yield, agricult
 
 ## See Also
 
+- [[comparison-rewilding-vs-traditional-conservation]]
+
 - [[water-harvesting-techniques-comparison]] — complementary water management strategies
 - [[hemenway-hedgerow-and-shelterbelt-design]] — farm infrastructure for microclimate management
 - [[agroforestry]] — dual land use with trees and crops

@@ -119,6 +119,8 @@ OG Kush clones are commercially ubiquitous but genetic drift and mislabeling are
 
 ## See Also
 
+- [[tahoe-og]]
+
 - [[cannabis-endocannabinoid-system]]
 - [[fukuoka-living-soil]]
 - [[flowering-phase-cannabis]]

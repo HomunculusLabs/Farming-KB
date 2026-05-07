@@ -130,3 +130,4 @@ fortified with peptone (MYPA). Notable features to observe include:
 - [[growing-gourmet-strain-evaluation-28-features]]
 - [[growing-gourmet-nutrified-agar-media]]
 - [[growing-gourmet-contamination-prevention]]
+- [[growing-gourmet-agar-media-formulas-preparation]]

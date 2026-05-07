@@ -17,6 +17,7 @@ sources:
   - Rukachaisirikul V, et al. (2003). "Antibacterial compounds from Boesenbergia pandurata." Songklanakarin Journal of Science and Technology, 25(2), 183-189.
   - Najmuldeen IA, et al. (2015). "Anti-inflammatory and cytotoxic activities of Boesenbergia rotunda." BMC Complementary and Alternative Medicine, 15, 139.
   - Intahphuak S, et al. (2010). "Anti-allergic, anti-inflammatory, and antioxidant activities of Boesenbergia rotunda." Journal of Health Science, 56(1), 36-41.
+created: 2026-04-28
 ---
 
 # Boesenbergia rotunda

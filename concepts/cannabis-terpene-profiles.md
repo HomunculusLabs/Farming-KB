@@ -73,6 +73,8 @@ The interaction between a strain's terpene profile and its cannabinoid content (
 
 ## See Also
 
+- [[guaiene]]
+
 - [[isopulegol]]
 
 - [[sabinene]]

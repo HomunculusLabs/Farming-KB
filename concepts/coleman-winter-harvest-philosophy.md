@@ -110,6 +110,8 @@ Successful winter harvest requires specific variety selection distinct from summ
 
 ## See Also
 
+- [[unheated-greenhouse-winter-harvest]]
+
 - [[coleman-unheated-greenhouse-design]] — Greenhouse construction details
 - [[coleman-protected-cultivation]] — Row covers and double-layer systems
 - [[coleman-four-season-farm]] — Farm philosophy and economics

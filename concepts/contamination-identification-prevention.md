@@ -87,7 +87,9 @@ Standing water, condensation, and humidifiers can harbor and distribute bacteria
 - Allow sufficient cooling before handling (but remember air drawn in during cooling must be clean)
 - Document cycle parameters for reproducibility
 
-## Related Topics
+## Related
+
+- [[leucocoprinus-birnbaumii]] Topics
 - mushroom contamination prevention for additional detail
 - [[mushroom-sterilization-methods]] for sterilization protocols
 - [[oyster-mushroom-spawn-production]] for clean spawn techniques

@@ -17,6 +17,8 @@ sources:
   - Battle I, Tous J. Carob Tree: Ceratonia siliqua L. Promoting the Conservation and Use of Underutilized Crops. 1997. IPGRI.
   - Youssef MM et al. Tamarindus indica: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
   - El Boushihi M et al. Carob (Ceratonia siliqua L.) Products. J Food Sci Technol. 2021.
+type: comparison
+created: 2026-05-03
 ---
 
 # Tamarind vs Carob Cultivation

@@ -139,7 +139,9 @@ cycle from clone to harvest.
 - A quality [[cannabis-indoor-ventilation-setup]] with both
   humidification and dehumidification enables precise VPD control
 
-## Related Questions
+## Related
+
+- [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]] Questions
 
 - [[query-how-to-manage-humidity-cannabis-grow-room]]
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]

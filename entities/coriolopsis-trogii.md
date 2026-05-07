@@ -15,6 +15,7 @@ sources:
   - Zmitrovich, I.V. & Malysheva, V.F. (2013). "Towards a uniform system of the Polyporales." Mycota 14.
   - Saparrat, M.C.N. et al. (2010). "Coriolopsis trogii: a wood-decaying fungus with potential for bioremediation." Revista Argentina de Microbiología 42(4): 269-273.
   - Elisashvili, V. et al. (2008). "Lignocellulose-degrading enzyme production by white-rot Basidiomycetes." Bioresource Technology 99(2): 453-461.
+created: 2026-04-28
 ---
 
 ## Overview

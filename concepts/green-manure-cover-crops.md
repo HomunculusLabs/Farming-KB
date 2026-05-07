@@ -73,7 +73,9 @@ Key points:
 - Cut plants at the base and leave to wilt before digging
 - Do not bury material deeper than about 6in (15cm)
 - If the crop has become woody, apply liquid [[kelp-meal-fertilizer]] or [[hamilton-animal-manure-types-and-use]] tea to assist decomposition
-- Dig in before flowering## Related Topics
+- Dig in before flowering## Related
+
+- [[sinapis-alba]] Topics
 
 - [[animal-manure-guide]] — animal manure as an alternative or supplement
 - [[crop-rotation-benefits]] — fitting green manure into the rotation cycle

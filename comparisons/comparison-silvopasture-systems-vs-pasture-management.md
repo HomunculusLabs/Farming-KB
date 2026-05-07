@@ -146,3 +146,7 @@ beneficial organisms that support the broader farm ecosystem. For new
 land acquisition where existing pasture can be designed with trees from
 the start, silvopasture avoids the conversion costs of retrofitting an
 established open-pasture system.
+
+## See Also
+
+- [[comparison-prairie-restoration-vs-silvopasture]]

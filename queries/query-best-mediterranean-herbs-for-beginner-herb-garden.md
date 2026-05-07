@@ -29,6 +29,8 @@ sources:
   - title: "University of Minnesota Extension — Growing Herbs at Home"
     url: "https://extension.umn.edu/horticulture/growing-herbs"
     type: website
+type: query
+created: 2026-05-03
 ---
 
 # Best Mediterranean Herbs for a Beginner Herb Garden

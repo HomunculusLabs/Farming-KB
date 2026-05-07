@@ -117,3 +117,4 @@ The Amanita muscaria experience is fundamentally different from [[psilocybin-com
 ## See Also
 
 - [[muscimol]]
+- [[amanita-muscaria]]

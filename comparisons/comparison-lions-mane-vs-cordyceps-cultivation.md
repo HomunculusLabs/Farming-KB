@@ -120,6 +120,8 @@ Regardless of the approach chosen, both species reward growers who invest in und
 
 ## See Also
 
+- [[comparison-blueberry-vs-haskap-cultivation]]
+
 - [[lions-mane-hericium-erinaceus]]
 
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]

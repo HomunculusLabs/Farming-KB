@@ -108,6 +108,8 @@ There is no single "best" formula — different materials are available at diffe
 
 ## See Also
 
+- [[oyster-mushroom-sunflower-seed-hull-substrate]]
+
 - [[mushroom-substrate-recipes]]
 
 - [[mushroom-cultivator-substrate-preparation]]

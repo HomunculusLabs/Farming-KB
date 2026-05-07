@@ -16,6 +16,7 @@ sources:
   - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa." Cambridge University Press.
   - Atawodi, S.E. et al. (2005). "Extracts of Cola nitida and Cola acuminata interfere with the genotoxicity of certain mutagens." Journal of Ethnopharmacology, 98(1-2), 117-124.
   - URL: https://powo.science.kew.org/
+created: 2026-04-28
 ---
 
 ## Overview

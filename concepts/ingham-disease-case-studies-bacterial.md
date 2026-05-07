@@ -131,6 +131,8 @@ are essential.
 
 ## See Also
 
+- [[ingham-aact-disease-case-studies-specific-pathogens]]
+
 - [[ingham-disease-case-studies-fungal]]
 - [[stamets-mycoforestry-case-studies]]
 - [[fungal-bioremediation-case-studies]]

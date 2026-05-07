@@ -145,4 +145,6 @@ for recreational or exploratory use
 exercise particular caution
 
 ## See Also
+
+- [[4-ho-dipt]]
 - [[psychedelic-safety-and-harm-reduction]]

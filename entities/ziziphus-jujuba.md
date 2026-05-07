@@ -18,6 +18,7 @@ sources:
   - Planta Médica. (2011). "Ziziphus jujuba: a review of its pharmacological effects." 77(14), 1567-1575.
   - Pandey, S. et al. (2019). "Ziziphus jujuba: A plant with multifaceted pharmacological actions." Phytotherapy Research, 33(12), 3066-3084.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:571858-1
+created: 2026-04-28
 ---
 
 ## Overview

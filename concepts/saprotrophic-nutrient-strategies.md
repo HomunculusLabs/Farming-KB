@@ -8,8 +8,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
 type: concept
 ---
 
-# Saprotrophic Nutrient saprotrophic fungirophic fungi obtain nutrients by decomposing dead organic matter,
-occupying a fundamentally different ecological nichemycorrhizal-fungiycorrhizal fungi or parasitic fungi. Their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
+# Saprotrophic fungi obtain nutrients by decomposing dead organic matter,
+occupying a fundamentally different ecological niche from [[arbuscular-mycorrhizal-fungi]] or parasitic fungi. Their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
 are shaped by the chemical complexity of their substrates, competitive
 interactions with other decomposers, and the stoichiometric constraints of
 fungal metabolism. Understanding these strategies is essential for predicting
@@ -29,7 +29,8 @@ include:
   enabling them to exploit heterogeneous substrates
 - **Lignin specialization:** White-rot fungi invest heavily in lignin
   peroxidases, manganese peroxidases, and laccases, allowing them to access
-  the most recalcitrant carbon in wood
+  the most recalcitrant carbon in wood. [[white-rot-fungi]] profiles
+  these lignin-degrading specialists in detail.
 - **Fenton chemistry:** Brown-rot fungi generate hydroxyl radicals through
   non-enzymatic iron reduction and hydrogen peroxide production, a
   chemically aggressive but energetically cheaper approach to cellulose
@@ -128,7 +129,9 @@ Saprotrophic fungi are classified by the substrates they specialize on:
   brown-rot, and soft-rot functional types
 - **Dung saprotrophs:** Coprophilous fungi decomposing herbivore dung, often
   with life cycles synchronized to animal digestion timing
-- **Soil saprotrophs:** Generalist decomposers of mixed organic matter
+- **Soil saprotrophs:** Generalist decomposers of mixed organic matter.
+  [[soil-food-web-structure]] describes how these interact with bacteria
+  and microfauna.
 - **Fungal saprotrophs:** Mycophagous fungi that decompose other fungi
 
 ## Implications for Ecosystem Models
@@ -143,7 +146,8 @@ ecosystem responses to environmental change:
   from resource-efficient to resource-expensive strategies, reducing soil
   carbon storage
 - **Carbon feedbacks:** The balance between fungal CUE and decomposition rate
-  determines whether warming accelerates or decelerates soil carbon loss
+  determines whether warming accelerates or decelerates soil carbon loss.
+  [[soil-food-web-nutrient-cycling]] provides the ecosystem-level framework.
 
 ## See Also
 - [[fungal-decomposition-ecology]] for the broader decomposition context

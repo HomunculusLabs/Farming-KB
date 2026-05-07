@@ -8,6 +8,8 @@ sources:
   - "Jenkins, S. (2004). 'Shellac: A Traditional Finish.' Fine Woodworking Magazine."
   - "FAO (1990). 'Lac: Production, Processing and Uses.' FAO Agricultural Services Bulletin."
   - "Champagne, A.M. et al. (2015). 'Lac insect (Kerria lacca) as a source of natural resin.' Journal of Applied Entomology."
+type: query
+created: 2026-04-28
 ---
 
 # What Is Shellac and How Is It Produced from Lac Insects?
@@ -122,6 +124,10 @@ Shellac has unique advantages that synthetics can't fully replicate:
 
 ## See Also
 
-- [[lac-insect-and-shellac]] — comprehensive topic page on lac cultivation and shellac science
+- [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture]]
+
+- [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
+
+- [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] — comprehensive topic page on lac cultivation and shellac science
 - [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] — how shellac compares to other natural finishes
-- [[beekeeping-and-pollinator-conservation]] — for comparison with another insect-produced natural material
+- beekeeping and pollinator conservation — for comparison with another insect-produced natural material

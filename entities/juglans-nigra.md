@@ -129,6 +129,8 @@ $8-25 per board foot depending on grade and figure.
 
 ## See Also
 
+- [[black-walnut-juglans-nigra]]
+
 - [[permaculture]]
 - [[agroforestry]]
 - [[companion-planting]]

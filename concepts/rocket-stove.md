@@ -123,3 +123,4 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 | Metal parts burning through | Thin steel in combustion chamber; high temperatures | Use thicker steel, firebrick, or cast refractory for the J-tube |
 ## Related
 - [[mud-oven]]
+- [[wofati]]

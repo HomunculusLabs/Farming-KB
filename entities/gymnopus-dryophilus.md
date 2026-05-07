@@ -123,6 +123,8 @@ Emerging research suggests *G. dryophilus* may interact with ectomycorrhizal fun
 
 ## See Also
 
+- [[gymnopus-liquidambaris]]
+
 - [[agar]]
 - [[cryptic-species]]
 - [[decomposition]]

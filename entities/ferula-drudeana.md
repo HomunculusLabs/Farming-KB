@@ -15,6 +15,7 @@ sources:
   - "Alphonso, A., et al. (2023). 'Phytochemical analysis of Ferula drudeana reveals psychoactive compounds.' Journal of Pharmacy and Pharmacology 75(2): 218–229."
   - "Mabberley, D.J. (2017). Mabberley's Plant-Book (4th ed.). Cambridge University Press."
   - "Hytten, J. (2023). 'The silphium mystery: could Ferula drudeana be the answer?' Mediterranean Botany 44(1): e78102."
+created: 2026-04-28
 ---
 
 # Ferula drudeana

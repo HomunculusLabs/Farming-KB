@@ -126,6 +126,8 @@ Commercial applications of phytochrome manipulation include:
 
 ## See Also
 
+- [[phytochrome-and-photoperiodism-in-plants]]
+
 - [[phototropism-and-phytochrome]]
 
 - [[phytochrome-and-plant-light-perception]]

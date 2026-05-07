@@ -111,6 +111,8 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 **Heavy metal warning**: Avoid wood chips from trees along busy roadways — automobile exhaust contaminates surrounding soil with lead and aluminum, which mushrooms can concentrate. Source wood from larger-diameter trees at sawmills. Test mushrooms if growing near industrial areas ($50-125 per analysis).
 ## See Also
 
+- [[gymnopus-junonius]]
+
 - [[amanita-flavoconia]]
 - [[cantharellus-cinnabarinus]]
 - [[clitocybe-gibba]]

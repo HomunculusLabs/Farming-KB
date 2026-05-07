@@ -20,7 +20,7 @@ sources:
 
 # Trichoderma and Biocontrol Fungi
 
-Trichoderma is a genus of filamentous ascomycete fungi ubiquitous in soil, plant root ecosystems, and decaying organic matter. Among the most studied and commercially deployed biocontrol agents in agriculture, species of Trichoderma suppress plant pathogens through multiple overlapping mechanisms including mycoparasitism, antibiosis, nutrient competition, and induction of plant systemic resistance. Their dual role as plant symbionts and opportunistic necrotrophs makes them uniquely versatile in integrated pest management (IPM) programs.
+Trichoderma is a genus of filamentous ascomycete fungi ubiquitous in soil, plant root ecosystems, and decaying organic matter. Among the most studied and commercially deployed biocontrol agents in agriculture, species of Trichoderma suppress plant pathogens through multiple overlapping mechanisms including mycoparasitism, antibiosis, nutrient competition, and induction of plant systemic resistance. Their dual role as plant symbionts and opportunistic necrotrophs makes them uniquely versatile in [[natural-farming-guide-integrated-pest-management]] (IPM) programs.
 
 ## Taxonomy and Species Overview
 
@@ -47,7 +47,7 @@ Trichoderma species deploy multiple, often simultaneous mechanisms against plant
 
 Mycoparasitism is the direct parasitic attack of one fungus on another, and is the hallmark biocontrol mechanism of *Trichoderma*. The process unfolds in a regulated sequence of recognition, attachment, penetration, and killing.
 
-**Recognition and chemotropism:** *Trichoderma* hyphae detect host fungi through chemical signals including exuded amino acids, sugars, and volatile organic compounds. The hyphae exhibit directed growth (chemotropism) toward the target pathogen. Lectin-carbohydrate interactions between *Trichoderma* cell wall proteins and pathogen surface receptors mediate initial attachment.
+**Recognition and chemotropism:** *Trichoderma* hyphae detect host fungi through chemical signals including exuded amino acids, sugars, and [[fungal-volatile-organic-compounds]]. The hyphae exhibit directed growth (chemotropism) toward the target pathogen. Lectin-carbohydrate interactions between *Trichoderma* cell wall proteins and pathogen surface receptors mediate initial attachment.
 
 **Attachment and coiling:** Upon contact, *Trichoderma* hyphae coil around the host hyphae, forming characteristic appressorium-like structures. This intimate contact is mediated by hydrophobins — small cysteine-rich proteins that coat the fungal surface and facilitate adhesion.
 
@@ -84,7 +84,7 @@ Trichoderma species are aggressive colonizers that exploit several competitive a
 - **Siderophore-mediated iron competition**: Trichoderma produces siderophores (ferric-specific chelators) that scavenge available iron from the soil solution. Under iron-limiting conditions — which are common in calcareous soils — this deprives pathogenic fungi of iron needed for growth and virulence. Trichoderma siderophores have higher affinity for Fe³⁺ than those produced by many plant pathogenic fungi.
 - **Nutrient sequestration**: Rapid uptake of glucose, amino acids, and other readily metabolizable carbon sources reduces substrate availability for slower-growing pathogens. Trichoderma's high-affinity glucose transporters and efficient nitrogen assimilation systems give it a competitive edge.
 
-### Induced Systemic Resistance (ISR)
+### [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR)
 
 Perhaps the most agriculturally significant mechanism of Trichoderma biocontrol is the induction of systemic resistance in host plants. When Trichoderma colonizes roots, it triggers a cascade of defense signaling that primes the entire plant for enhanced resistance against subsequent pathogen attack — including pathogens that Trichoderma never directly contacts.
 
@@ -166,7 +166,7 @@ Less common than soil applications but effective against foliar pathogens when f
 
 ### Synergism with Mycorrhizal Fungi
 
-The interaction between Trichoderma and arbuscular mycorrhizal fungi (AMF) is generally synergistic but complex. Trichoderma can stimulate AMF hyphal growth and spore germination through production of growth-promoting compounds and modification of the rhizosphere chemical environment. However, excessive Trichoderma populations can outcompete AMF for root colonization sites. Practical recommendations include applying AMF inoculants 2–3 weeks before Trichoderma to allow mycorrhizal establishment, or using reduced Trichoderma application rates when both agents are deployed together.
+The interaction between Trichoderma and [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]] (AMF) is generally synergistic but complex. Trichoderma can stimulate AMF hyphal growth and spore germination through production of growth-promoting compounds and modification of the rhizosphere chemical environment. However, excessive Trichoderma populations can outcompete AMF for root colonization sites. Practical recommendations include applying AMF inoculants 2–3 weeks before Trichoderma to allow mycorrhizal establishment, or using reduced Trichoderma application rates when both agents are deployed together.
 
 ### Interactions with Plant Growth-Promoting Rhizobacteria (PGPR)
 
@@ -218,7 +218,7 @@ In field applications, environmental variability reduces consistency compared to
 
 ### Orchards and Perennial Crops
 
-Trichoderma is applied as a soil drench around the root zone or through drip irrigation systems in orchard settings. Long-term colonization of perennial root systems allows for sustained biocontrol activity. In apple production, Trichoderma has been used successfully against *Armillaria* root rot and *Phytophthora* crown rot. In viticulture, soil applications reduce *Armillaria mellea* and *Rosellinia necatrix* in grapevine.
+Trichoderma is applied as a soil drench around the root zone or through [[cervantes-drip-irrigation-systems]] in orchard settings. Long-term colonization of perennial root systems allows for sustained biocontrol activity. In apple production, Trichoderma has been used successfully against *Armillaria* root rot and *Phytophthora* crown rot. In viticulture, soil applications reduce *Armillaria mellea* and *Rosellinia necatrix* in grapevine.
 
 ### Cannabis Cultivation
 

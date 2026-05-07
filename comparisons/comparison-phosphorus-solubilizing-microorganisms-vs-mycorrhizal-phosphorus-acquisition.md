@@ -11,6 +11,8 @@ sources:
   - Goldstein AH. Recent progress in understanding the molecular genetics and biochemistry of calcium phosphate solubilization by Gram negative bacteria. Biological Agriculture & Horticulture. 1995;12(2):185-193.
   - Jansa J, Wischnewski A, Czechowski T, Bujon W. Lost in translation: developing molecular markers for mycorrhizal functioning. Trends in Plant Science. 2013;18(9):501-507.
   - Hinsinger P, Bengough AG, Vetterlein D, Young IM. Rhizosphere: biophysics, biogeochemistry and ecological relevance. Plant and Soil. 2009;321(1-2):117-152.
+type: comparison
+created: 2026-04-28
 ---
 
 # Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition

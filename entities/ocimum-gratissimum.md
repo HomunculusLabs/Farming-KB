@@ -16,6 +16,7 @@ sources:
   - Ijeh, I.I. et al. (2005). "Anti-diarrheal activity of Ocimum gratissimum leaf extract." Journal of Ethnopharmacology, 99(2), 307-310.
   - Okafor, J.C. (1980). "Medicinal plants indigenous to Nigeria." Nigerian Field, 45, 49-55.
   - Grayer, R.J. et al. (1996). "Leaf flavonoid aglycones of Ocimum gratissimum." Biochemical Systematics and Ecology, 24(4), 297-299.
+created: 2026-04-28
 ---
 
 ## Overview
@@ -137,4 +138,4 @@ production stimulates bushier growth and extends productive lifespan.
 
 ## See Also
 
-[[ocimum-basilicum]] · [[ocimum-tenuiflorum]] · [[piper-nigrum]] · [[eugenia-caryophyllata]] · [[cymbopogon-citratus]] · [[azadirachta-indica]] · [[moringa-oleifera]] · [[cymbopogon-martinii]]
+[[ocimum-basilicum]] · [[ocimum-tenuiflorum]] · [[piper-nigrum-entity]] · [[eugenia-caryophyllata]] · [[cymbopogon-citratus]] · [[azadirachta-indica]] · [[moringa-oleifera]] · [[cymbopogon-martinii]]

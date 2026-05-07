@@ -15,6 +15,7 @@ sources:
   - Holmdahl, J. et al. (1987). "Fatal poisoning by Cortinarius speciosissimus." The Lancet, 330(8558), 437-438.
   - De Bellis, R. et al. (2019). "Cortinarius mushroom poisoning: A review of the recent literature." Clinical Toxicology, 57(12), 1097-1108.
   - Antkowiak, W.Z. & Gessner, W.P. (1979). "The structure of orellanine." Tetrahedron Letters, 20(21), 1931-1934.
+created: 2026-04-28
 ---
 
 ## Overview

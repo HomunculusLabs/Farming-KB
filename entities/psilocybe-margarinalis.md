@@ -137,6 +137,8 @@ psychoactive fungi in Mediterranean Europe.
 
 ## See Also
 
+- [[psilocybe-ovoidocystidiata]]
+
 - [[baeocystin]]
 - [[medicinal-mushrooms]]
 - [[mycorrhiza]]

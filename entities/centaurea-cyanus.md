@@ -16,6 +16,7 @@ sources:
   - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. Medpharm Scientific Publishers.
   - Barnes, J. et al. (2007). "Herbal Medicines." 3rd ed. Pharmaceutical Press.
   - European Medicines Agency (2014). "Assessment report on Centaurea cyanus L., flos." EMA/HMPC/591946/2010.
+created: 2026-04-28
 ---
 
 ## Overview

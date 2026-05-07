@@ -132,6 +132,8 @@ The clay pellet technique has become one of the most widely known practices asso
 
 ## See Also
 
+- [[clay-seed-pellet-production-method-concrete-mixer]]
+
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]

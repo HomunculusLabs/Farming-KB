@@ -15,6 +15,7 @@ sources:
   - Stadler, M. et al. (2010). "A polyketide synthase gene of Xylaria longipes." Applied Microbiology.
   - Fröhlich, J. & Hyde, K.D. (2000). "Biodiversity of saprobic microfungi." Fungal Diversity.
   - Petrini, L.E. & Petrini, O. (1985). "Xylariaceous fungi as endophytes." Sydowia.
+created: 2026-04-28
 ---
 
 ## Overview

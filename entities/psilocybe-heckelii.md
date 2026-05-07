@@ -16,6 +16,7 @@ sources:
   - Stamets P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
   - Guzmán G, et al. (2000). "A worldwide geographical distribution of the neurotropic fungi." Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Botánica, 71(1), 71-91.
   - Allen JW, Gartz J. (2001). "Ethnomycology, biochemistry, and cultivation of Psilocybe species in the tropics." Eleusis, 5, 39-58.
+created: 2026-04-28
 ---
 
 # Psilocybe heckelii

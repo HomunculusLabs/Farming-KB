@@ -19,6 +19,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK536695/
   - https://www.mdpi.com/1420-3049/26/7/1929
   - https://www.ecosia.org/search?q=achillea+millefolium+medicinal+review
+created: 2026-04-28
 ---
 
 # Yarrow (Achillea millefolium)

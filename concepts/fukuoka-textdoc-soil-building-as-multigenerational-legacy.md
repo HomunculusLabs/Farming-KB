@@ -90,7 +90,9 @@ For rundown orchards forty to fifty years old, Fukuoka recommends planting a lar
 
 The concept of soil as multigenerational legacy stands in direct opposition to the short-term thinking that dominates modern agriculture. Contemporary farming measures success by annual yield and quarterly profit. Fukuoka asks instead: what condition is the land left in for those who come after? Natural farming that requires no purchased inputs, no heavy machinery, and no chemical interventions produces soil that improves with each passing year, representing true capital accumulation that conventional economics fails to recognize.
 
-## Related Concepts
+## Related
+
+- [[trainwreck-generational-breeding]] Concepts
 
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
 - [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]

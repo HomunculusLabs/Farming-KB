@@ -1,148 +1,158 @@
 ---
-title: "Durban Poison"
+title: Durban Poison
 type: strain
 tags:
   - cannabis
-  - sativa
   - landrace
+  - sativa
   - african-genetics
-  - uplifting
+  - thcv
   - terpene-profile
-  - dagga
+  - cultivation
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Cannabible" series, Jason King (2001-2007)
-  - "The Emerald Triangle: Inside the Secret Market of the World's Most Expensive Weed", Emily Brady (2020)
-  - https://www.leafly.com/strains/durban-poison
-  - Clarke, R.C. & Merlin, M.D. "Cannabis: Evolution and Ethnobotany." University of California Press, 2013.
+  - https://www.leafly.com/strains/durban-poison — strain profile and reviews
+  - https://phylosbioscience.com/ — cannabis genomics and landrace mapping
+  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
+  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
+created: 2026-04-28
 ---
 
 # Durban Poison
 
-## Overview
+**Durban Poison** is a pure **Sativa** landrace cannabis strain originating from the South African port city of Durban. One of the few commercially available true landrace strains, it is celebrated for its uplifting, energetic effects and its distinct anise-and-citrus terpene profile. It serves as a foundational genetic pillar in modern cannabis breeding, contributing to numerous hybrid cultivars.
 
-**Durban Poison** is a pure *Cannabis sativa* landrace strain originating from the port city of Durban, South Africa. One of the few widely available pure sativa cultivars, it is celebrated for its energizing, clear-headed effects and distinctive anise-and-citrus aroma. The strain has become a foundational parent in modern breeding programs, contributing genetics to numerous hybrid cultivars valued for their uplifting profiles.
-
-## Genetic History
+## Genetic Lineage
 
 ### Landrace Origins
 
-Durban Poison descends from cannabis populations cultivated by indigenous communities in the KwaZulu-Natal region of South Africa for centuries. The local *dagga* varieties developed under the region's subtropical climate — warm, humid summers with abundant sunshine — selecting for tall stature, long flowering cycles, and high THC production.
+Durban Poison originates from the **KwaZulu-Natal** province of South Africa, where indigenous cannabis populations have grown for centuries. The strain was first brought to the United States in the late 1970s by cannabis enthusiast and breeder **Ed Rosenthal**, who reportedly received seeds from a South African contact.
 
-### Introduction to the West
+Key characteristics of the landrace:
 
-The strain was collected by cannabis breeder **Ed Rosenthal** during a trip to South Africa in the late 1970s. Rosenthal brought seeds back to the United States, where they were stabilized and selectively bred by Dutch seed companies in the 1980s and 1990s. The Dutch breeding work refined the strain while largely preserving its landrace character.
+- **Purity:** Considered one of the purest Sativa landraces available commercially
+- **Region of origin:** Coastal subtropical climate of Durban, South Africa (31°S latitude)
+- **Local use:** Historically cultivated by Zulu communities and traded through the Durban port
+- **Genomic profile:** Distinct African chemotype with unique terpene and cannabinoid ratios
 
-### Lineage & Progeny
+### Genetic Stability
 
-- **Classification**: Pure *Cannabis sativa* landrace (no confirmed indica or ruderalis admixture)
-- **Key progeny**: Girl Scout Cookies (Durban Poison × OG Kush), Cherry Pie, Tangie
-- **Breeder**: Stabilized by Dutch Passion Seeds
+As a landrace, Durban Poison exhibits remarkable genetic stability across generations. It breeds true in most phenotypic expressions, making it a reliable parent for hybrid development. Phylos Bioscience's cannabis genomic database confirms it clusters distinctly from other African landraces and modern cultivars.
 
-## Morphology & Growth
+## Chemotype Profile
 
-### Plant Structure
+### Cannabinoid Content
 
-Durban Poison exhibits classic sativa morphology:
+| Cannabinoid | Typical Range | Notes |
+|-------------|--------------|-------|
+| **THC** | 15–25% | Primary psychoactive compound; high-potency phenotypes can reach 25%+ |
+| **CBD** | <0.1% | Negligible; not a CBD-producing chemotype |
+| **THCV** | 0.3–1% | Notably elevated compared to most strains |
+| **CBG** | 0.1–0.5% | Present in trace amounts |
+| **CBC** | Trace | Minor cannabinoid presence |
 
-- **Height**: 150–200 cm outdoors; 80–130 cm indoors with training
-- **Structure**: Open, lanky branching with long internodal spacing
-- **Leaves**: Narrow, serrated leaflets typical of sativa expression; some phenotype variation in leaf width
-- **Buds**: Medium-dense, elongated calyxes with prominent pistils; frosty trichome coverage at maturity
+The elevated **THCV (tetrahydrocannabivarin)** content is particularly significant. THCV is a propyl homolog of THC with distinct pharmacological properties — it acts as a CB1 receptor antagonist at low doses (suppressing appetite) and a CB1 agonist at high doses, producing a clear-headed, stimulating effect that differs from the typical THC experience.
 
-### Flowering Characteristics
+### Terpene Profile
 
-| Trait | Value |
-|-------|-------|
-| Flowering time (indoor) | 8–9 weeks |
-| Flowering time (outdoor) | Late October harvest (Northern Hemisphere) |
-| Yield (indoor) | 350–450 g/m² |
-| Yield (outdoor) | 500–600 g/plant |
-| THC content | 15–25% |
-| CBD content | < 0.1% (negligible) |
+Durban Poison is terpene-dominant, with a distinctive profile that contributes significantly to its effects and aroma:
 
-### Cultivation Notes
+- **Myrcene (0.5–1.5%):** Present but lower than typical indica strains, contributing to the strain's less-sedative profile
+- **Ocimene (0.5–1%):** Sweet, woody, and herbaceous; contributes to the uplifting qualities
+- **Terpinolene (0.3–0.8%):** Complex floral-citrus-pine aroma; associated with antioxidant and mildly sedative properties
+- **Caryophyllene (0.3–0.7%):** Peppery, spicy notes; dietary cannabinoid that activates CB2 receptors
+- **Linalool (trace):** Floral notes
 
-- Performs well in both tropical and Mediterranean climates
-- Tolerates heat well but is sensitive to cold temperatures below 10°C
-- Requires vertical space or aggressive training (LST, ScrOG) indoors
-- Moderate nutrient requirements — prone to nitrogen toxicity if overfed during flowering
-- Natural pest resistance due to high terpene content, particularly resistant to spider mites
+### Primary Aroma and Flavor
 
-## Terpene Profile
-
-Durban Poison's terpene composition is one of its most distinctive features:
-
-### Dominant Terpenes
-
-1. **Terpinolene** (0.5–1.5%) — The defining terpene; contributes floral, piney, herbal, and slightly fruity notes. Rarely dominant in cannabis strains, terpinolene is associated with antioxidant and sedative properties in isolation.
-
-2. **Myrcene** (0.3–1.0%) — The most common cannabis terpene; adds earthy, herbal undertones. Contributes to the entourage effect despite being secondary here.
-
-3. **Ocimene** (0.2–0.8%) — Sweet, woody, herbaceous notes. Found in mint, basil, and mango.
-
-4. **Pinene** (0.2–0.6%) — Both α- and β-pinene present; contributes pine needle aroma and bronchodilatory effects.
-
-5. **Caryophyllene** (0.1–0.4%) — Peppery, spicy notes; functions as a dietary cannabinoid by binding to CB2 receptors.
-
-### Minor Terpenes
-
-Linalool, humulene, and limonene present in trace amounts contributing to the strain's complex bouquet.
+- **Aroma:** Pungent, sweet, anise-like with earthy undertones and a sharp citrus brightness
+- **Flavor:** Licorice and anise dominate, followed by earthy, slightly woody notes and a sweet, herbal finish
+- **Smoke:** Smooth and expansive; less likely to cause coughing compared to high-myrcene strains
 
 ## Effects Profile
 
 ### Subjective Experience
 
-Durban Poison is widely regarded as one of the most functional sativa strains available:
+Durban Poison is widely regarded as a quintessential "daytime" or "creative" strain. The effects are characterized by:
 
-- **Onset**: Rapid (5–15 minutes when inhaled)
-- **Duration**: 2–4 hours
-- **Head high**: Cerebral, clear-headed stimulation without the "racy" anxiety some sativas produce
-- **Body effects**: Minimal physical sedation; slight energetic buzz
-- **Creativity**: Enhanced focus and divergent thinking reported by many users
-- **Social effects**: Promotes conversation and engagement
+- **Onset:** Rapid (5–15 minutes when smoked or vaporized)
+- **Peak:** 30–90 minutes after onset
+- **Duration:** 2–4 hours depending on method of consumption and individual tolerance
+- **Character:** Clear-headed, energetic, focused, and uplifting with minimal body sedation
 
-### Therapeutic Applications
+### Reported Effects
 
-Anecdotal and clinical reports suggest utility for:
+**Positive effects (common):**
+- Euphoria and elevated mood
+- Heightened creativity and divergent thinking
+- Increased focus and mental clarity
+- Energy and motivation
+- Social engagement and talkativeness
+- Enhanced sensory perception
 
-- **ADHD**: Focusing effects without the anxiety of stimulant medications
-- **Fatigue**: Daytime energy promotion (not recommended for evening use)
-- **Depression**: Mood elevation and motivational enhancement
-- **Nausea**: Antiemetic properties typical of THC-rich strains
-- **Stress**: Functional stress relief that doesn't impair productivity
+**Potential negative effects (less common):**
+- Anxiety or paranoia at higher doses (particularly in THC-sensitive individuals)
+- Dry mouth and dry eyes
+- Mild tachycardia (increased heart rate)
+- Insomnia if consumed too late in the day
 
-### Potential Adverse Effects
+### Medicinal Applications
 
-- Dry mouth and dry eyes (common to most cannabis)
-- Mild anxiety at higher doses (less pronounced than many sativas)
-- Insomnia if consumed too close to bedtime
-- Paranoia in susceptible individuals at doses above personal tolerance
+Patient-reported therapeutic uses include:
 
-## Aroma & Flavor
+- **ADHD management:** The focusing, stimulant-like effects may help with attention and task completion
+- **Depression:** Uplifting mood effects without the lethargy associated with many high-THC indicas
+- **Fatigue:** Daytime energy enhancement
+- **Nausea and appetite:** THCV's appetite-modulating properties; THC-driven antiemetic effects
+- **Migraine:** Some patients report relief, possibly due to terpinolene and caryophyllene
+- **Stress relief:** Anxiolytic effects at moderate doses without cognitive impairment
 
-The sensory profile of Durban Poison is distinctive and complex:
+## Cultivation
 
-- **Primary**: Sweet anise, licorice, and black licorice
-- **Secondary**: Earthy, herbal, with citrus undertones
-- **Tertiary**: Pine, spice, and a subtle chalky/mineral quality
-- **Aftertaste**: Clean, slightly sweet with lingering anise
+### Growth Characteristics
 
-The aroma is often described as reminiscent of black licorice or fennel, which is unusual in cannabis and makes Durban Poison one of the most identifiable strains by scent alone.
+Durban Poison is relatively straightforward to cultivate but requires attention to its Sativa growth patterns:
+
+| Parameter | Details |
+|-----------|---------|
+| **Flowering time** | 8–9 weeks indoor; late Oct outdoor (N. Hemisphere) |
+| **Height** | Tall — 150–200 cm indoor; 250+ cm outdoor |
+| **Yield** | Moderate to high: 350–500 g/m² indoors; 500+ g/plant outdoors |
+| **Difficulty** | Moderate — requires space management and patience |
+| **Stretch ratio** | High — plants double or triple in height during early flowering |
+
+### Cultivation Recommendations
+
+- **Training:** Essential for indoor grows; LST (low-stress training), SCROG (screen of green), or topping recommended to manage height
+- **Climate:** Warm, Mediterranean-like conditions (21–29°C day, 15–20°C night)
+- **Nutrients:** Moderate feeder; slightly higher nitrogen in vegetative stage
+- **Humidity:** 50–60% during vegetative; reduce to 40–50% during flowering to prevent mold
+- **Light:** Thrives under full-spectrum lighting; 18/6 vegetative, 12/12 flowering
+- **Pest resistance:** Good natural resistance due to landrace genetics and thick resin
+
+### Phenotype Variation
+
+While genetically stable, some phenotype variation exists:
+
+**Tall phenotype:** Classic landrace with long internodes, finger-like buds, strong anise aroma
+- **Compact phenotype:** Shorter with denser buds and more citrus-dominant terpenes
+- **High-THCV phenotype:** Rare; elevated THCV and pronounced appetite-suppressing effects
+
+## Notable Hybrids
+
+Durban Poison is extensively used in breeding:
+- **Girl Scout Cookies (GSC):** Durban Poison × OG Kush — foundation of the modern "Cookie" lineage
+- **Durban Thai:** × Thai landrace — pure Sativa cross
 
 ## Cultural Significance
 
-Durban Poison holds a unique position in cannabis culture as:
-
-- One of the few commercially successful pure landrace strains available worldwide
-- A "gateway sativa" often recommended to indica-preferring consumers exploring sativa effects
-- A cornerstone breeding parent whose genetics appear in dozens of award-winning hybrids
-- A strain that has maintained its original character despite decades of commercial cultivation — relatively rare for a strain with its market longevity
+Durban Poison holds a unique position in cannabis culture as a bridge between indigenous African traditions and modern Western breeding. Its preservation as a relatively unhybridized landrace makes it valuable for genetic conservation, pure Sativa breeding programs, scientific research into cannabinoid profiles, and understanding the historical spread and domestication of cannabis.
 
 ## See Also
 
-- [[cannabis-terpene-profiles]] — Comprehensive terpene reference for cannabis
-- [[og-kush]] — Indica-dominant parent of many Durban Poison hybrids
-- [[girl-scout-cookies]] — Notable Durban Poison progeny strain
-- [[cannabis-landrace-strains]] — Guide to pure geographic cannabis varieties
+- [[cannabis-photoperiod-flowering-cycle]]
+
+- [[cervantes-indica-sativa-ruderalis-differences]]
+- palmer toadstool poisoning cases
+- [[cannabis-terpene-profiles]]

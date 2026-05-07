@@ -7,6 +7,7 @@ updated: 2026-04-12
 tyhomesteadingtags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+tags: []
 ---
 # [[livestock-fencing-guide|animal]] butcher and processing
 On-farm slaughter and processing is a fundamental [[homesteading]] skill that
@@ -149,3 +150,7 @@ sheep, goats, pigs, and cattle).
 - **Cutting order:** Remove legs first, then separate chuck/shoulder from
   rib/loin, then break individual cuts.
 - **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
+
+## See Also
+
+- [[animal-cookies]]

@@ -28,7 +28,8 @@ setups but can be applied to any growing style.
 ## Topping
 
 Topping is the practice of removing the main growing tip of the plant
-during the vegetative stage. The procedure involves cutting the top of
+during the vegetative stage. [[cannabis-vegetative-stage-management]] covers
+the optimal timing window. The procedure involves cutting the top of
 the plant just above the last branch formation, typically during the
 3rd or 4th week of vegetative growth. The cut is made by shearing away
 the main stem tip.
@@ -63,7 +64,8 @@ Plants are generally pruned 3 to 4 weeks into their vegetative cycle
 but can be pruned sooner, later, or more than once. A critical rule:
 pruning during flowering will cause problems with bud production because
 the plant diverts energy from bud growth into branch and leaf
-production, resulting in slower bud development.
+production, resulting in slower bud development. [[cannabis-flowering-stage-management]]
+explains why this hormonal shift occurs.
 
 ## The Pruning Path
 
@@ -135,7 +137,8 @@ overall bud production.
 
 If a stem breaks during training, hold it in place using a stake or
 stick support and bind it with cheesecloth or a cloth bandage wrap.
-Applying honey to the wound helps the plant heal faster. Watch for new
+Applying honey to the wound helps the plant heal faster. [[cannabis-cloning-and-mother-plants]]
+covers similar wound-care techniques used in cloning. Watch for new
 growth at the break area and trim it away, as it will try to break away
 the upper part of the stem, effectively topping the plant
 unintentionally.

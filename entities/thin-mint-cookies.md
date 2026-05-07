@@ -16,6 +16,7 @@ sources:
   - Zamnesia (2023). "Thin Mint Cookies: A GSC Phenotype." Zamnesia.com.
   - Mudge, E. et al. (2022). "Cannabinoid and terpene profiles of Girl Scout Cookies varieties." Cannabis and Cannabinoid Research 7(3): 245-258.
   - Smart, R. et al. (2022). "The phytochemical diversity of commercial Cannabis." Scientific Reports 12: 12597.
+created: 2026-04-28
 ---
 
 ## Overview

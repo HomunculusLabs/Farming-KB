@@ -18,6 +18,8 @@ sources:
   - Turinek, M., et al. (2009). Biodynamics — is it organic plus? *Journal of Sustainable Agriculture*, 33(1), 56-73.
   - Spieß, H., et al. (2011). Enhanced soil organic matter in long-term biodynamic farming. *Organic Agriculture*, 1(4), 219-233.
   - Zaller, J. G., & Köpke, U. (2004). Effects of biodynamic preparations on soil ecological parameters. *Applied Soil Ecology*, 27(2), 141-152.
+type: comparison
+created: 2026-04-28
 ---
 
 # Biodynamic Preparations Comparison

@@ -25,6 +25,7 @@ aliases:
   - GP
   - The Gary Payton
   - Greenhouse Gary Payton
+created: 2026-04-28
 ---
 
 ## Overview

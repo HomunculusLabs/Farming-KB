@@ -27,6 +27,7 @@ sources:
   - Asokan, S. et al. (2009). "Antimicrobial activity of Plectranthus amboinicus." Indian Journal of Pharmacology 41(5): 244-247.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
   - Ravindran, P.N. (2017). "The Encyclopedia of Herbs and Spices." CABI Publishing.
+created: 2026-04-28
 ---
 
 ## Overview

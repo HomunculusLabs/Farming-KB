@@ -16,6 +16,7 @@ sources:
   - Arora D, Burk WR. (1982). "A preliminary account of the western North American Omphalotus species." Mycotaxon, 15, 309-316.
   - Methven AS, Banning JT, Alford RE. (2010). "Omphalotus olivascens." MycoBank, Fungal Nomenclator.
   - Kuo M. (2024). "Omphalotus olearius and allies." MushroomExpert.com.
+created: 2026-04-28
 ---
 
 # Omphalotus olivascens

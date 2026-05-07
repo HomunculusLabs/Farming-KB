@@ -9,6 +9,8 @@ sources:
   - "Spice Board of India. Pepper Production and Post-Harvest Guidelines. https://www.indianspices.com/"
   - "Wood, G.A.R. & Lass, R.A. (2001). Cacao, 4th ed. Blackwell Science."
   - "Ravindran, P.N. (2000). Black Pepper: Piper nigrum. Harwood Academic Publishers."
+type: comparison
+created: 2026-05-03
 ---
 
 ## Overview

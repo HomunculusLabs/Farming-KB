@@ -16,6 +16,7 @@ sources:
   - Petrini, O. et al. (1995). "Host specificity and biodiversity in xylariaceous endophytes." Canadian Journal of Botany, 73(S1), S84-S91.
   - Stadler, M. et al. (2014). "A polythetic approach to the genus Hypoxylon." Fungal Diversity, 64(1), 1–51.
   - Sieber, T.N. (2007). "Endophytic fungi in forest trees." In: Microbial Root Endophytes. Springer, Berlin.
+created: 2026-04-28
 ---
 
 ## Overview

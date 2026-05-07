@@ -118,6 +118,8 @@ Acapulco Gold prefers conditions that mimic its tropical Mexican origin:
 The myrcene-dominant terpene profile contributes to the "creeper" effect — the high builds slowly and can surprise users accustomed to modern high-THC hybrids. The entourage effect with limonene and caryophyllene provides mood elevation and anti-inflammatory benefits.
 
 ## See Also
+
+- [[acapulco-gold-cannabis]]
 - [[thai-stick-entity]]
 - Lamb's Bread
 

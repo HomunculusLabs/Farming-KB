@@ -173,6 +173,8 @@ Cultivation of *F. officinalis* is challenging due to its slow growth and specif
 
 ## See Also
 
+- [[fomitopsis-betulina]]
+
 - [[bacillus-subtilis]]
 - [[ergosterol]]
 - [[fomes-fomentarius]]

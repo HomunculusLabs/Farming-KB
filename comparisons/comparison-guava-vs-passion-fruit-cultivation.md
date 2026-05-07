@@ -10,6 +10,8 @@ sources:
   - "Oliveira, J.C. & Ruggiero, C. (2005). Passionfruit culture in Brazil. Acta Horticulturae, 671, 27-42."
   - "FAO. (2022). FAOSTAT: Crops and livestock products. Food and Agriculture Organization of the United Nations."
   - "Preece, J.E. (2003). Propagation of tropical and subtropical fruits. Horticultural Reviews, 29, 351-392."
+type: comparison
+created: 2026-04-28
 ---
 
 ## Guava vs Passion Fruit Cultivation

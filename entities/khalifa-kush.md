@@ -15,6 +15,7 @@ sources:
   - "Leafly Staff (2020). 'Khalifa Kush cannabis strain information.' Leafly."
   - "MUDGE Labs (2022). 'Khalifa Kush cannabinoid and terpene profile analysis.' MUDGE Analytics Report."
   - "Davenport, M. (2023). 'Celebrity cannabis strains and brand influence.' Cannabis and Cannabinoid Research 8(2): 141–152."
+created: 2026-04-28
 ---
 
 # Khalifa Kush

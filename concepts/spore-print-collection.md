@@ -142,3 +142,7 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 - Spores of most tropical species die when frozen
 - Spore prints sealed on glass can be stored for years at room temperature
 - Label everything: date, species, location, collector, notes
+
+## See Also
+
+- [[spore-print-collection-spore-mass-inoculation]]

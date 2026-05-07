@@ -17,6 +17,7 @@ sources:
   - Zamnesia (2020). "THC Bomb Grow Report." Zamnesia Grow Journal.
   - Mudge, E. et al. (2018). "Cannabinoid and terpene profiling of
     commercial cannabis." Journal of Cannabis Research.
+created: 2026-04-28
 ---
 
 ## Overview

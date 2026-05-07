@@ -17,6 +17,7 @@ sources:
   - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
   - Trout, K. (2005). "Sacred Cacti: San Pedro, Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
   - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient South America." Haworth Press.
+created: 2026-04-28
 ---
 
 ## Overview

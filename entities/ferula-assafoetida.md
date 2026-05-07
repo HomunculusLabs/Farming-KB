@@ -124,6 +124,8 @@ remain limited to small-scale operations in Iran and India.
 
 ## See Also
 
+- [[ferula-drudeana]]
+
 - [[herbal-medicine-making-basics]]
 
 - [[foeniculum-vulgare-entity]] — Fennel, culinary Apiaceae with similar digestive uses

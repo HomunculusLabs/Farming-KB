@@ -15,6 +15,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry 79: 613-619.
   - Mudge, E.M. et al. (2018). "Cannabinoid Content in Commercially Available Cannabis Products." Journal of AOAC International 101: 1475-1482.
   - Pacific Seed Bank. "OG Kush Strain Information." pacificseedbank.com.
+created: 2026-04-28
 ---
 
 # OG Kush

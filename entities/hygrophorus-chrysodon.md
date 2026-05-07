@@ -26,6 +26,7 @@ sources:
   - Kühner R, Romagnesi H (1953). "Flore Analytique des Champignons Supérieurs." Masson.
   - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland Vol 3." Verlag Mykologia.
   - "Hygrophorus chrysodon." Index Fungorum. www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 ## Overview

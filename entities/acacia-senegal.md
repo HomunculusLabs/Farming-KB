@@ -32,6 +32,7 @@ sources:
   - Fagg, C.W. & Allison, G.E. (2004). "Acacia senegal and the gum arabic trade." ODI Forestry Programme, London.
   - Chikamai, B.N. & Odera, J.A. (2002). "Commercial prospects for gum arabic." In: "Proceedings of the Regional Conference on Gum Arabic," Khartoum.
   - Aronson, J. (2011). "Restoration of Arid and Semi-Arid Lands." Springer, Dordrecht.
+created: 2026-04-28
 ---
 
 ## Overview

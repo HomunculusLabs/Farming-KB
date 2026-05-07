@@ -15,6 +15,7 @@ sources:
   - Garg, S.N. & Siddiqui, M.S. (1999). "Variation in essential oil composition of Cymbopogon martinii during plant ontogeny." Journal of Essential Oil Research, 11, 155-157.
   - Dubey, R.C., Dwivedi, D. & Pandey, A.K. (2014). "Antimicrobial activity of Cymbopogon martinii essential oil." Journal of Applied Natural Science, 6, 46-50.
   - Pattanaik, S., Hota, D., Prajapati, S.C. & Pandey, S. (2011). "Pharmacological activities of Cymbopogon martinii (Roxb.) Wats: An overview." Pharmacognosy Reviews, 5, 71-75.
+created: 2026-04-28
 ---
 
 # Cymbopogon martinii

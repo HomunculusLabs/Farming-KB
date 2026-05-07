@@ -15,6 +15,8 @@ sources:
   - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
   - TNAU Agritech Portal. Tamarind Cultivation. Tamil Nadu Agricultural University.
   - Maundu P et al. Useful Trees and Shrubs of Kenya. 1999. World Agroforestry Centre.
+type: query
+created: 2026-05-03
 ---
 
 # How to Grow and Care for a Tamarind Tree

@@ -30,6 +30,7 @@ sources:
   - Nogueira-Miranda, C. et al. (2020). "Coriolopsis species: A review on secondary metabolites and biological activities." Phytochemistry, 169, 112126.
   - Moncalvo, J.M. & Ryvarden, L. (1997). "A nomenclatural study of the Polyporaceae." Synopsis Fungorum, 11, 1–76.
   - Index Fungorum. "Coriolopsis polyzona (Pers.) Ryvarden." www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 ## Overview

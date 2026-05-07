@@ -116,6 +116,8 @@ valuable and relatively easy to cultivate.
 
 ## See Also
 
+- [[strawberry-banana]]
+
 - [[harlequin-cannabis]]
 
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties

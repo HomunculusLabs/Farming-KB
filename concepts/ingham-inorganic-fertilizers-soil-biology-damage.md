@@ -6,6 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+type: concept
+created: 2026-04-28
 ---
 
 # Inorganic Fertilizers and Soil Biology Damage
@@ -138,6 +140,8 @@ intensive biological amendments initially, with input requirements
 declining as the foodweb recovers its self-regulating function.
 
 ## See Also
+
+- [[ingham-streptococcus-dairy-soil-disease]]
 
 - [[soil-foodweb-balancing-protocol-ingham]]
 - [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]

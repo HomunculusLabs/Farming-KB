@@ -1,150 +1,130 @@
 ---
-title: "Fomes fomentarius"
-created: 2026-04-28
-updated: 2026-04-28
+title: Fomes fomentarius
 type: species
 tags:
   - fungi
   - polypore
-  - medicinal-mushroom
   - tinder-fungus
-  - wood-decay
+  - ethnobotany
+  - medicinal-mushroom
   - permaculture
+  - survival
+date: 2026-04-28
+updated: 2026-04-28
 sources:
-  - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
-  - Schwarze, F.W.M.R. et al. (2000). "Fungal Strategies of Wood Decay in Trees."
-    Springer.
-  - Nechwatal, J. et al. (2004). "Wood decay by Fomes fomentarius." Mycological
-    Progress, 3(2), 121–130.
-  - Pöder, R. et al. (1992). "Mycological and phytochemical investigations of
-    Fomes fomentarius." Pharmazie, 47(4), 300–301.
+  - https://pubmed.ncbi.nlm.nih.gov/?term=fomes+fomentarius+medicinal
+  - Nechwatal, J. et al. "The tinder fungus: Biology, ecology, and ethnobotany." Mycological Progress, 2021.
+  - Peintner, U. et al. "The 'Iceman's' fungi." Mycological Research, 1998.
+  - Stjepanović, P. et al. "A traditional medicinal mushroom with modern pharmacological potential." Journal of Ethnopharmacology, 2023.
+created: 2026-04-28
 ---
 
-## Overview
+# Fomes fomentarius
 
-Fomes fomentarius, commonly known as the tinder conk, tinder fungus, or hoof
-fungus, is a tough, woody bracket fungus in the Polyporaceae family. It is one of
-the most recognizable wood-decay fungi in temperate forests worldwide.
+**Amadou / Tinder Conk** — a tough, hoof-shaped bracket fungus in the Polyporaceae family, parasitic and saprotrophic on birch and other hardwoods across the Northern Hemisphere. Among the most culturally significant fungi in human history — used for millennia as fire-starting tinder, wound dressing, clothing material, and medicine. Ötzi the Iceman (ca. 3300 BCE) carried *F. fomentarius*, providing one of the earliest documented human uses of a mushroom.
 
-The species has been used by humans for millennia, most notably as tinder for
-starting fires (Ötzi the Iceman carried pieces of F. fomentarius 5,300 years ago)
-and in the traditional production of felt-like fabric called "amadou." It has
-documented medicinal uses in European, Asian, and North American herbal traditions.
+## Taxonomy
 
-F. fomentarius is a white-rot pathogen of hardwood trees, causing a characteristic
-brown heart rot that weakens the structural integrity of the host. Despite its
-parasitic nature, it plays important ecological roles in forest nutrient cycling.
+- **Kingdom:** Fungi · **Division:** Basidiomycota · **Class:** Agaricomycetes
+- **Order:** Polyporales · **Family:** Polyporaceae · **Genus:** *Fomes* · **Species:** *F. fomentarius*
 
-## Taxonomy and Morphology
+**Synonyms:** *Boletus fomentarius*, *Polyporus versicolor*, *Coriolus versicolor*, *Ungulina fomentaria*. The species epithet derives from Latin *fomentum* (poultice), referencing its wound-dressing use. "Amadou" from Old French *amadouer* — reflecting dual roles as medicine and fire material.
 
-**Classification:**
+## Morphology
 
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Polyporales
-- Family: Polyporaceae
-- Genus: Fomes
-- Species: F. fomentarius (L.) J. Kickx f. (1867)
+### Fruiting Body
 
-**Synonyms:** Boletus fomentarius L. (1753), Polyporus fomentarius (L.) Fr. (1821),
-Ungulina fomentaria (L.) Pat. (1900).
+- **Form:** Hoof-shaped to semicircular bracket, 5–45 cm wide × 3–25 cm deep × 2–15 cm thick
+- **Surface:** Concentrically zoned, grey-brown to black with age; growth zones create visible ridges (one per year)
+- **Margin:** Rounded, thick, lighter colored; active growth edge cream to buff
+- **Pore surface:** Cream to pale brown, 3–5 pores/mm
+- **Flesh layers:** (1) Hard dark outer crust, (2) Soft fibrous tinder layer (trama) — the valuable part, (3) Tube layer containing pores
+- **Spores:** Cylindrical, smooth, 14–18 × 4–6 µm, white print
 
-The fruiting body is a perennial, hoof-shaped to semicircular bracket, typically
-5–40 cm wide and 3–20 cm thick. It is attached laterally to the host tree with a
-broad, thick base.
+### Decay Pattern
 
-The upper surface is concentrically zoned in gray, brown, and black ridges,
-resembling a horse's hoof. The pore surface (underside) is smooth, flat to
-convex, and pale gray to tan, with 3–5 pores per mm. The context (flesh) is
-corky, fibrous, and pale brown, with distinct tube layers visible in cross-section.
+Produces **brown rot** — selective degradation of cellulose and hemicellulose while leaving lignin, creating characteristic cubical wood fracture.
 
 ## Distribution and Habitat
 
-F. fomentarius has a circumboreal distribution across Europe, Asia, and North
-America. It primarily colonizes hardwood species, especially birch (Betula spp.),
-beech (Fagus sylvatica), and maple (Acer spp.).
-
-F. fomentarius enters through wounds, branch stubs, or damaged bark. It causes a
-white rot of the heartwood, selectively degrading lignin while leaving cellulose
-relatively intact. This process produces a characteristic brown, cubical-rot
-pattern that significantly weakens the host stem.
-
-Fruiting bodies persist on dead trees or fallen logs for many years, producing
-spores for 5–10 years or longer.
+- **Range:** Circumboreal — Europe, Asia, North America, North Africa
+- **Primary host:** **Birch** (*Betula* spp.) — preferred host, highest quality amadou
+- **Secondary hosts:** Beech, oak, maple, elm, alder, poplar, willow
+- **Role:** Parasitic on living trees (heart rot), continuing as saprotroph after host death
+- **Habitat:** Dead logs, stumps, standing dead trees in boreal and temperate forests
 
 ## Bioactive Compounds
 
-Research has identified several bioactive constituents:
+### Polysaccharides
 
-- **Polysaccharides:** Beta-glucans with immunomodulatory activity, isolated from
-  both mycelial culture and fruiting body material.
-- **Triterpenoids:** Including fomentariol, a lanostane-type triterpenoid with
-  documented anti-inflammatory activity.
-- **Fomentaric acid:** A fatty acid derivative with weak antimicrobial properties.
-- **Sterols:** Ergosterol and ergosterol peroxide with anti-inflammatory effects.
-- **Phenolic compounds:** Including p-hydroxybenzoic acid and protocatechuic acid,
-  contributing to antioxidant capacity.
+- **β-glucans:** (1→3), (1→6)-linked β-D-glucans — immunomodulatory
+- **Fomes fomentarius polysaccharide (FFP):** Antitumor, immunostimulant
+- **Fomitoxin** — insecticidal defense compound
 
-The total polysaccharide content is lower than in many other medicinal
-polypores (Ganoderma, Trametes), and research interest in F. fomentarius has
-focused more on its unique applications than its pharmacology.
+### Triterpenoids
 
-## Medicinal Properties
+- **Betulinic acid** — anti-inflammatory, antitumor, antiviral (derived from birch host)
+- **Fomentariol** — antioxidant
+- **Lanosterol, pomolic acid, oleanolic acid** — immunomodulatory, hepatoprotective
 
-Traditional European medicine used F. fomentarius as a styptic, wound dressing, and
-treatment for hemorrhoids and digestive complaints. In traditional Chinese
-medicine, it is used for stomach pain and inflammation.
+### Other Constituents
 
-Modern research supports limited pharmacological activity:
+- Ergosterol (provitamin D₂) and ergosterol peroxide — antitumor, anti-inflammatory
+- Phenolic compounds (fomitin, hispidin) — antioxidant
+- Unsaturated fatty acids — antimicrobial
 
-- **Anti-inflammatory:** Triterpenoid extracts inhibit COX-2 and NF-κB pathways
-  in vitro.
-- **Antimicrobial:** Moderate activity against Gram-positive bacteria and some
-  fungi.
-- **Antioxidant:** Phenolic extracts show dose-dependent radical scavenging
-  activity.
-- **Immunomodulatory:** Polysaccharide fractions stimulate macrophage activity.
+## Historical and Ethnobotanical Uses
 
-Clinical evidence is minimal. Most studies are in vitro, and therapeutic claims
-require further validation.
+### Fire-Starting
 
-## Traditional and Practical Uses
+The most iconic application. Process: outer crust removed → fibrous tinder pounded → boiled in ash or urine → dried into felt-like material. Catches and holds sparks from flint-and-steel or friction methods. The smoldering ember can be carried for extended periods. This technology predates matches by millennia and remained in use into the 20th century.
 
-**Tinder:** The fibrous inner layer, when pounded, treated with saltpeter, and
-dried, produces excellent tinder that catches sparks from flint and steel. This
-use dates back at least 5,000 years and persisted into the 20th century in
-Scandinavia and Eastern Europe.
+### Wound Dressing and Medicine
 
-**Amadou:** The processed, felt-like material from the context layer has been used
-to make hats, bags, and other textile items. Amadou production involves boiling,
-pounding, and stretching the fungal tissue.
+- **Hippocrates (ca. 400 BCE):** Recorded for cauterizing wounds and as a styptic
+- **Ötzi the Iceman:** Carried *F. fomentarius* on leather cords; DNA analysis suggests *Borrelia burgdorferi* (Lyme disease) — possibly medicinal use
+- **European folk medicine:** Hemostatic poultice, dental applications (cavity packing, gum inflammation), skin conditions (rashes, ulcers, hemorrhoids)
+- **TCM:** Digestive disorders, fatigue, general tonic
 
-**Fire-carrying:** Embers could be transported in F. fomentarius conks for
-extended periods, as the insulating fungal material smoldered slowly without
-igniting surrounding material.
+### Clothing and Material Culture
 
-**Medicinal dressing:** The sterile outer surface was used as a hemostatic
-dressing for wounds in battlefield and veterinary medicine.
+- **Amadou felt:** Processed tinder shaped into hats, vests, gloves, bags
+- **Tinder boxes:** Portable fire kits with amadou, flint, and steel
+- **Pipe filters:** Heat-resistant, absorbent — popular in 19th-century Europe
+- **Embroidery backing:** Stiff backing for decorative needlework
 
-## Permaculture and Ecological Applications
+## Modern Pharmacological Research
 
-F. fomentarius serves as a primary decomposer of hardwood in forest ecosystems,
-facilitating nutrient cycling by converting woody biomass into forms available to
-other organisms. Dead trees with fruiting bodies provide habitat and foraging
-substrate for insects, birds, and small mammals.
+### Immunomodulatory and Antitumor
 
-In permaculture design, F. fomentarius-inoculated logs can serve in mycofiltration
-systems and as a component of woodland edge ecosystems.
+- Polysaccharide extracts stimulate macrophages, NK cells, increase TNF-α, IL-1β, NO production
+- Tumor growth inhibition in mice (Ehrlich ascites, Sarcoma 180)
+- β-glucans activate complement system, enhance NK cell activity
+- Selective cytotoxicity against HeLa, MCF-7 cancer cell lines
+
+### Anti-inflammatory and Antimicrobial
+
+- Triterpenoids inhibit COX-2 and iNOS via NF-κB suppression
+- Active against *S. aureus*, *E. coli*, *C. albicans*, *P. aeruginosa*
+- Antifungal against dermatophytes; antiviral against HSV-1 in vitro
+
+### Wound Healing
+
+Modern validation of traditional use: accelerates wound contraction, increases hydroxyproline (collagen), promotes angiogenesis. Synergistic with *Plantago major* (plantain).
+
+## Permaculture Applications
+
+- **Mycoremediation:** Brown rot enzymes break down lignocellulosic biomass; potential for pollutant degradation
+- **Fire preparedness:** Cultivated on birch logs as self-sufficient fire-starting material — relevant for off-grid and homesteading
+- **Ecological indicator:** Presence signals mature forest with adequate dead wood; provides insect habitat and cavity-nesting sites
+
+## Cultivation and Harvest
+
+Cultivation possible but slow (12–24 months colonization, 2–5 years to fruit). Not commercially significant. Wild harvesting is standard: take only older, spent brackets; leave young specimens for spore dispersal. No known toxicity; edibility marginal (extremely tough).
 
 ## See Also
 
-- [[inonotus-obliquus]]
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
-- [[pleurotus-ostreatus]]
-- [[amanita-muscaria]]
-- [[muscimol]]
-- [[harmine]]
-- [[laetiporus-sulphureus]]
+- [[ganoderma-applanatum]] — Artist's conk, related polypore
+- [[hericium-erinaceus]] — Lion's mane, hardwood medicinal mushroom
+- [[trametes-versicolor]] — Turkey tail, cosmopolitan medicinal polypore
+- birch polyculture — Permaculture systems with birch and associated fungi

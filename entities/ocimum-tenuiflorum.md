@@ -17,6 +17,7 @@ sources:
   - Cohen, M.M. et al. (2014). "Tulsi: The medicinal herb." J. Ayurveda Integr. Med.
   - Gupta, S.K. et al. (2002). "Antistress effects of Ocimum sanctum." J. Altern. Complement. Med.
   - Mondal, S. et al. (2009). "The science behind sacredness of Tulsi." Asian J. Pharm. Clin. Res.
+created: 2026-04-28
 ---
 
 # Ocimum tenuiflorum

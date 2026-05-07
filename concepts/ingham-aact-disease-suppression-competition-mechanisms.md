@@ -6,6 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+type: concept
+created: 2026-04-28
 ---
 
 # AACT Disease Suppression Through Biological Competition

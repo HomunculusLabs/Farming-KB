@@ -16,6 +16,7 @@ sources:
   - Gaines, T.A. et al. (2010). "Gene amplification confers glyphosate resistance in Amaranthus palmeri." PNAS, 107(3), 1029-1034.
   - Sosnoskie, L.M. & Culpepper, A.S. (2014). "Glyphosate-resistant Palmer amaranth." Weed Technology, 28(3), 377-383.
   - URL: https://www.weedscience.org/
+created: 2026-04-28
 ---
 
 ## Overview
@@ -97,6 +98,8 @@ Germination occurs over an extended period from spring through mid-summer, with 
 
 ## See Also
 
+- [[holmgren-ecosynthesis-and-weedscape-ecology]]
+
 - [[invasive-species-management]]
 
 - **Amaranthus retroflexus** — Redroot pigweed, widespread agricultural weed
@@ -105,6 +108,8 @@ Germination occurs over an extended period from spring through mid-summer, with 
 - **Amaranthus tuberculatus** — Waterhemp, closely related resistant weed species
 
 ## See Also
+
+- [[holmgren-ecosynthesis-and-weedscape-ecology]]
 
 - [[invasive-species-management]]
 

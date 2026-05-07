@@ -10,6 +10,8 @@ sources:
   - "Fern, K. (2023). Plants For A Future — Fern Database. pfaf.org."
   - "Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing."
   - "Coope, G. (2004). Hardy Ferns. Royal Horticultural Society Plant Collector Guides."
+type: query
+created: 2026-04-28
 ---
 
 # What Are the Best Ferns for a Shade Garden or Food Forest?

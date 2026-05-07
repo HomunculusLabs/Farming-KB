@@ -130,6 +130,8 @@ sources: ["domain-knowledge"]
 - **Winter:** No protection needed in zones 5-10 if well-drained; cold-wet soils more dangerous than cold
 
 ## See Also
+
+- [[yucca-schidigera]]
 - [[yucca-filamentosa]] — Spanish Dagger, related southeastern Yucca species
 - [[persea-americana-entity]] — Century Plant, similar architectural xeriscape form
 - [[opuntia-ficus-indica]] — Eastern Prickly Pear, complementary xeriscape native

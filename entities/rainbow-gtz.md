@@ -25,6 +25,7 @@ sources:
   - Wikileaf. "Rainbow GTZ Strain Review." www.wikileaf.com/strain/rainbow-gtz.
   - GrowDiaries. "Rainbow GTZ Grow Reports." www.growdiaries.com.
   - SeedsHereNow. "Archive Seed Bank — Rainbow GTZ." www.seedsherenow.com.
+created: 2026-04-28
 ---
 
 ## Overview

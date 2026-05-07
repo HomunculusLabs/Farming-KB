@@ -8,6 +8,7 @@ sources:
   - "Clarke, R.C. (1981). Marijuana Botany. Ronin Publishing."
   - "ElSohly, M.A. et al. (2016). 'Changes in cannabis potency over the last two decades.' Biological Psychiatry, 79(7), 613-619."
   - "Small, E. & Cronquist, A. (1976). 'A practical and natural taxonomy for Cannabis.' Taxon, 25(4), 405-435."
+created: 2026-04-28
 ---
 
 # Purple Haze (Cannabis Strain)

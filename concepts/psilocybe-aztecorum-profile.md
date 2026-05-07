@@ -117,6 +117,8 @@ Mexican and Pacific Northwest populations.
 
 ## See Also
 
+- [[psilocybe-aztecorum]]
+
 - [[psilocybe-quebecensis-profile]]
 
 - [[psilocybe-coprophila-profile]]

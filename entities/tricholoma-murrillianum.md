@@ -18,6 +18,7 @@ sources:
   - Wang, Y. & Hall, I.R. (2004). "Edible Ectomycorrhizal Mushrooms." Springer-Verlag, Berlin.
   - Hosford, D. et al. (1997). "Matsutake: Mushrooms and People." Forest Service, Pacific Northwest Research Station, Portland.
   - Pilz, D. & Molina, R. (2002). "Commercial harvests of edible mushrooms from the forests of the Pacific Northwest United States." Economic Botany, 56(3), 241–253.
+created: 2026-04-28
 ---
 
 ## Overview

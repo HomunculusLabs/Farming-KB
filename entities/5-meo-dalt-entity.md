@@ -155,6 +155,8 @@ No formal LD₅₀ data are available for humans. Animal toxicity data are extre
 
 ## See Also
 
+- [[5-meo-dalt]]
+
 - [[5-meo-dmt]] — more potent 5-methoxy tryptamine
 - [[4-ho-dipt-entity-tihkal]] — related short-acting tryptamine
 - [[psilocin]] — natural psychedelic tryptamine

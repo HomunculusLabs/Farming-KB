@@ -46,7 +46,7 @@ A smaller, less well-known group of approximately 50 species that produce simple
 
 The evolutionary origins of slime molds extend back over a billion years. Molecular clock analyses place the divergence of Amoebozoa from other eukaryotic supergroups in the **Proterozoic Eon**, long before the colonization of land by plants and fungi. The Myxogastria and Dictyostelia are thought to have diverged from each other approximately 600–700 million years ago, with both groups adapting to terrestrial environments as soil and organic matter became available.
 
-The convergence of slime mold fruiting body morphology with that of true fungi (sporangia, stalks, spore dispersal) is a classic example of **evolutionary convergence** driven by similar dispersal challenges. Both groups independently evolved aerial spore release as a strategy for colonizing new substrates. The striking beauty of slime mold fruiting bodies — from the coral-like branches of *Ceratiomyxa* to the elegant lattices of *Lycogala* — rivals that of any macrofungus, yet these structures are produced by an entirely different lineage of life.
+The convergence of slime mold [[mushroom-fruiting-body-morphology]] with that of true fungi (sporangia, stalks, spore dispersal) is a classic example of **evolutionary convergence** driven by similar dispersal challenges. Both groups independently evolved aerial spore release as a strategy for colonizing new substrates. The striking beauty of slime mold fruiting bodies — from the coral-like branches of *Ceratiomyxa* to the elegant lattices of *Lycogala* — rivals that of any macrofungus, yet these structures are produced by an entirely different lineage of life.
 
 ## Life Cycle
 
@@ -74,7 +74,7 @@ Under adverse conditions, many myxomycetes can form **sclerotia** — hardened, 
 
 ### Sexual Reproduction and Genetic Diversity
 
-Myxomycetes exhibit both sexual and asexual reproductive strategies. Sexual reproduction occurs through the fusion of compatible amoebae or swarm cells, which may be governed by mating-type loci similar to those in fungi. This genetic mixing contributes to the remarkable diversity observed in natural populations. Many species also reproduce asexually via **apogamy**, where the diploid plasmodium forms directly from haploid amoebae without fusion, maintaining clonal lineages. The balance between sexual and asexual reproduction varies by species and environmental conditions, with sexual reproduction favored in heterogeneous environments where genetic diversity provides adaptive advantage.
+Myxomycetes exhibit both sexual and asexual reproductive strategies. Sexual reproduction occurs through the fusion of compatible amoebae or swarm cells, which may be governed by mating-type loci similar to those in fungi. This genetic mixing contributes to the remarkable diversity observed in natural populations. Many species also reproduce asexually via **apogamy**, where the diploid plasmodium forms directly from haploid amoebae without fusion, maintaining clonal lineages. The balance between sexual and asexual reproduction varies by species and environmental conditions, with sexual reproduction favored in [[fungal-mycelial-foraging-heterogeneous-environments]] where genetic diversity provides adaptive advantage.
 
 ## Cellular Slime Mold Social Biology
 
@@ -123,18 +123,18 @@ Slime molds produce a range of extracellular enzymes that allow them to exploit 
 
 While their enzyme complement is less powerful than that of lignocellulose-degrading fungi, slime molds are remarkably versatile generalist feeders capable of exploiting a wide range of organic substrates.
 
-### Pigments and Secondary Metabolites
+### Pigments [[plant-defense-chemistry-and-secondary-metabolites]]
 
 Many slime molds produce striking pigments that serve ecological functions:
 
-- **Yellow pigments** (fuligo, physarum): Carotenoid-derived compounds that may provide UV protection and have antimicrobial properties
+- **Yellow pigments** (fuligo, physarum): Carotenoid-derived compounds that may provide UV protection and have [[medicinal-mushroom-antimicrobial-properties]]
 - **Melanin**: Produced in the peridium and spore walls of many species, providing protection from UV radiation and desiccation
 - **Calcium carbonate crystals**: Deposited in the fruiting bodies of species in the order Physarales, forming the characteristic white lime deposits
 - **Fuligoic acid and related compounds**: Produced by *Fuligo septica* with reported antibacterial and antifungal activity
 
 ### Chemical Ecology
 
-Slime molds engage in chemical communication and warfare with other soil organisms. They produce volatile organic compounds (VOCs) that can attract or repel invertebrate dispersal agents. Some species produce compounds that inhibit bacterial growth or nematode feeding, providing chemical defense during the vulnerable fruiting stage. The study of slime mold chemical ecology is an emerging field with potential applications in discovering novel antimicrobial compounds.
+Slime molds engage in [[tompkins-plant-chemical-communication]] and warfare with other soil organisms. They produce volatile organic compounds (VOCs) that can attract or repel invertebrate dispersal agents. Some species produce compounds that inhibit bacterial growth or nematode feeding, providing chemical defense during the vulnerable fruiting stage. The study of slime mold chemical ecology is an emerging field with potential applications in discovering novel antimicrobial compounds.
 
 ## Ecological Roles
 

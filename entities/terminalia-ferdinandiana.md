@@ -17,6 +17,7 @@ sources:
   - Isbell BF, Humphreys FR. (1983). "Use of Terminalia ferdinandiana as a food source by Aborigines." Australian Aboriginal Studies, 1, 51-57.
   - Tan Y, et al. (2011). "Antioxidant and cytotoxic activities of Terminalia ferdinandiana." Journal of Agricultural and Food Chemistry, 59(1), 365-372.
   - http://www.anbg.gov.au/gnp/interns-2005/terminalia-ferdinandiana.html
+created: 2026-04-28
 ---
 
 # Terminalia ferdinandiana

@@ -146,6 +146,8 @@ customary manners.
 
 ## Related
 
+- [[thc-o-acetate]]
+
 - [[lemon-cannabis-alchemy-isomerization]]
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]

@@ -15,6 +15,7 @@ sources:
   - Strassman, R. (2001). DMT: The Spirit Molecule. Park Street Press.
   - Szára, S. (1956). "Dimethyltryptamine: its metabolism in man." Science.
   - Shen, H.W. et al. (2010). "DMT and 5-MeO-DMT in Psychiatry." Pharmacology & Therapeutics.
+created: 2026-04-28
 ---
 
 # N,N-Dimethyltryptamine (DMT)

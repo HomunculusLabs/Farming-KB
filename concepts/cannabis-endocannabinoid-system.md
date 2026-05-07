@@ -74,6 +74,8 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[mephedrone]]
+
 - [[cannabis-health-index-scoring-evidence-methodology]]
 - [[cannabis-health-index-evidence-based-framework-scoring-system]]
 

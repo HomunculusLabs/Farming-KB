@@ -28,6 +28,7 @@ sources:
   - Bao, Y. et al. (2016). "Chemical composition and bioactive compounds of alfalfa." Journal of the Science of Food and Agriculture 96(15).
   - Putnam, D.H. et al. (2001). "Alfalfa." University of Wisconsin Extension.
   - Julian, M.R. et al. (2009). "Medicinal properties of Medicago sativa." Phytotherapy Research 23(2).
+created: 2026-04-28
 ---
 
 ## Overview

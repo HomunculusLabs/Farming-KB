@@ -9,6 +9,8 @@ sources:
   - Estes, J.A. et al. (2011). "Trophic Downgrading of Planet Earth." Science, 333(6040), 301-306.
   - Schmitz, O.J. (2017). "Predators, Prey, and Ecological Balances." Ecology, 98(6), 1581-1592.
   - Terborgh, J. & Estes, J.A. (2010). Trophic Cascades: Predators, Prey, and the Changing Dynamics of Nature. Island Press.
+type: query
+created: 2026-04-28
 ---
 
 # How Do Trophic Cascades Work and Why Do They Matter?
@@ -163,3 +165,9 @@ Conservation biological control leverages trophic cascades by maintaining predat
 | Can cascades be reversed? | Often yes, through species reintroduction or protection |
 | What's a mesopredator release? | When apex predator loss causes mid-level predator increase |
 | What limits cascade strength? | Complex food webs, omnivory, environmental variability |
+
+## See Also
+
+- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
+- [[query-what-is-jadam-farming-and-how-does-it-work]]
+- [[query-how-does-phytoremediation-work-and-what-plants-are-best-for-it]]

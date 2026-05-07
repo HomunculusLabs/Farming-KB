@@ -113,7 +113,9 @@ Can also be grown on sterilized hardwood logs (oak) outdoors, fruiting in fall.
 - Avoid in pregnancy and breastfeeding due to limited safety data.
 - Theoretically could interfere with immunosuppressant therapy.
 
-## Related Topics
+## Related
+
+- [[huperzine-a]] Topics
 
 - [[nootropic-herbs-guide]] for complementary cognitive herbs
 - [[medicinal-mushroom-guide-reishi]] for a calming mushroom pairing

@@ -26,6 +26,7 @@ aliases:
   - snow fungus variant
   - ear mushroom
   - tree ear fungus
+created: 2026-04-28
 ---
 
 ## Overview

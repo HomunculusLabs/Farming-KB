@@ -16,6 +16,7 @@ sources:
   - AllBud. (2021). "Biscotti Weed Strain Review." AllBud.com.
   - Wikileaf. (2021). "Biscotti Strain: A Cookie Family Classic." Wikileaf.com.
   -.Cookies Fam breeding records and phenotype descriptions (community-documented).
+created: 2026-04-28
 ---
 
 # Biscotti
@@ -109,6 +110,8 @@ Biscotti has become a prolific parent strain in the modern cannabis breeding sce
 - **Motorbreath** (Biscotti × Motorbreath #15) — heavy OG diesel character
 
 ## See Also
+
+- [[black-tuna]]
 
 - [[girl-scout-cookies]]
 - [[gelato-cannabis]]

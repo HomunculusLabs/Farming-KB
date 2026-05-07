@@ -122,6 +122,8 @@ Medicinal and culinary herbs are integrated throughout the farm:
 
 ## See Also
 
+- [[trigonella-foenum-graecum]]
+
 - [[artemisia-absinthium]]
 
 - [[composting-humus-building-holzer]]

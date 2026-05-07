@@ -15,6 +15,7 @@ sources:
   - Cookies Genetics breeding records, Bay Area, California.
   - Phylos Bioscience (2023). "Cannabis Genetic Diversity Report." Phylos Galaxy.
   - Weedmaps (2024). "Kushi Mints Strain Overview." Weedmaps.com.
+created: 2026-04-28
 ---
 
 ## Overview

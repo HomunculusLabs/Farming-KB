@@ -20,6 +20,8 @@ sources:
   - Novoplansky, A. (2019). Plant-environment interactions: perception, proximate processing and multi-level responses. *Plant, Cell & Environment*, 42(3), 747-764.
   - Falik, O., et al. (2011). Plant root foraging obeys Darwinian conflict between siblings. *PLoS ONE*, 6(9), e23507.
   - Song, Y. Y., et al. (2010). Interplant communication of tomato plants through underground common mycorrhizal networks. *PLoS ONE*, 5(10), e13324.
+type: query
+created: 2026-04-28
 ---
 
 # How Do Plants Communicate and Respond to Stress?

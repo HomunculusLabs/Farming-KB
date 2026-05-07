@@ -28,6 +28,7 @@ sources:
   - Duc, G. et al. (2010). "Faba bean." In: Singh, R.J. (ed.) "Genetic Resources, Chromosome Engineering, and Crop Improvement." CRC Press.
   - Crépon, K. et al. (2010). "Nutritional value of faba bean." Grain Legumes 56.
   - Bond, D.A. & Lawes, D.A. (1978). "The influence of Vicia faba on the nitrogen economy of rotations." Rothamsted Experimental Station Report.
+created: 2026-04-28
 ---
 
 ## Overview

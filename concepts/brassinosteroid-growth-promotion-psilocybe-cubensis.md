@@ -13,6 +13,8 @@ created: 2026-04-28
 date: 2026-04-28 updated: 2026-04-28
 sources:   - raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 type: concept
+tags: []
+updated: 2026-05-06
 ---
 
 # Brassinosteroid Growth Promotion in Psilocybe Cubensis Brassinosteroids are a class of steroidal plant growth regulators that were first

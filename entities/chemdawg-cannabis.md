@@ -15,6 +15,7 @@ sources:
   - De Meijer EPM, Hammond KM, Peeters A. (2014). "The inheritance of chemical phenotype in Cannabis sativa L." Genetics, 183(1), 345-361.
   - ElSohly MA, Gul W. (2014). "Constituents of Cannabis sativa L." In Handbook of Cannabis, pp. 3-22. Oxford University Press.
   - Mudge EM, Murch SJ, Brown PDS. (2018). "Cannabinoid and terpenoid profiles of diverse Cannabis cultivars." Planta Medica, 84(18), 1374-1381.
+created: 2026-04-28
 ---
 
 # Chemdawg

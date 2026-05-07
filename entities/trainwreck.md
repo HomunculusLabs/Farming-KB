@@ -124,6 +124,8 @@ Schedule I substance under U.S. federal law.
 
 ## See Also
 
+- [[trainwreck-generational-breeding]]
+
 - [[blue-dream]]
 - [[gmo-cannabis]]
 - [[la-confidential]]

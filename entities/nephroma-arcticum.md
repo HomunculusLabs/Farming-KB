@@ -16,6 +16,7 @@ sources:
   - Jørgensen, P.M. & James, P.W. (1990). "Nephromataceae." Flora Neotropica Monograph 55.
   - Goward, T. (1999). "The Lichens of British Columbia." Royal BC Museum, Victoria.
   - URL: https://www.lichenportal.org/
+created: 2026-04-28
 ---
 
 ## Overview

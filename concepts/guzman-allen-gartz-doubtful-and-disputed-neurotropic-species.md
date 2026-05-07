@@ -25,17 +25,20 @@ controversies is essential for accurate classification and safe research.
 ## Sources of Confusion in Chemical Studies
 
 Several fundamental problems undermine the reliability of published chemical
-analyses of neurotropic fungi. These include errors in analytical methodology,
+analyses of neurotropic fungi. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
+documents these methodological failures in depth. These include errors in analytical methodology,
 lack of taxonomic expertise in chemical studies, misidentification of studied
 specimens, use of mixed-species samples, and failure to account for specimen
 age and preservation conditions. Ott (1993) and Stijve (1995) have been
 particularly critical of many published reports, flagging numerous studies as
-doubtful due to methodological flaws.
+doubtful due to methodological flaws. [[chemical-analysis-psilocybin-mushrooms]] reviews the
+analytical techniques that later researchers adopted to address these shortcomings.
 
 ## Species with Doubtful Psychoactive Reports
 
 Bresinsky and Besl (1990) considered studies on the hallucinogenic principles
-of several species to be doubtful: Stropharia cyanea (also known as Psilocybe
+of several species to be doubtful. [[fungal-taxonomy-and-classification]] discusses
+the challenges of chemical analysis in mycology more broadly: Stropharia cyanea (also known as Psilocybe
 caerulea), S. coronilla, Mycena pura, and Amanita gemmata. Samorini (1989)
 independently confirmed doubts about Mycena pura. These species had been
 reported in earlier literature as containing psychoactive compounds, but
@@ -64,7 +67,9 @@ and Besl (1990) reported the presence of psilocybin. Allen and Merlin (1992c)
 discussed the resulting doubts about this species' psychoactive properties.
 The consensus emerging from the Guzmán, Allen and Gartz analysis is that
 P. foenisecii is more likely toxic than neurotropic, as is typical of many
-Panaeoloideous fungi.
+Panaeoloideous fungi. [[panaeolus-panaeolina-neurotropic-species]] covers
+the broader genus context. [[panaeolina-foenisecii]] covers the entity-level taxonomy
+of this controversial species.
 
 ## The Problem of Misidentification
 
@@ -101,7 +106,8 @@ kept for more than one year are not effective and should be discarded.
 ## Conocybe siligineoides: A Sacred Mushroom Never Recollected
 
 Conocybe siligineoides was reported by Heim (1956b) and Heim and Wasson
-(1958) as a sacred mushroom in Mexico. No chemical studies have ever been
+(1958) as a sacred mushroom in Mexico. [[conocybe-siligineoides]] is the only known species
+page for this rare taxon. No chemical studies have ever been
 conducted on this species. While C. cyanopus and C. smithii were confirmed to
 contain psilocybin (Benedict et al., 1967), C. siligineoides was collected
 only once, in 1955 by Wasson in Oaxaca, Mexico. Despite extensive fieldwork
@@ -111,7 +117,7 @@ C. siligineoides, when the study actually concerned C. cyanopus and C. smithii.
 
 ## Modern Molecular Techniques in Resolving Disputes
 
-DNA barcoding and phylogenetic analysis have begun to resolve many of the taxonomic disputes catalogued by Guzmán, Allen, and Gartz. Internal transcribed spacer (ITS) sequencing has become the standard fungal barcode and allows researchers to verify specimen identity independently of morphological expertise. For example, molecular studies have confirmed that many "species" once reported to contain psilocybin were in fact misidentified collections of known neurotropic taxa growing in atypical habitats or displaying unusual morphology. The genus *Psilocybe* itself has undergone significant revision based on molecular phylogenetics, with many species transferred to other genera (*Deconica* for non-bluing, non-neurotropic species). This ongoing taxonomic restructuring means that some historical reports of "doubtful" species may reflect genuine chemical variation within species complexes rather than laboratory error. However, molecular tools cannot retroactively verify the identity of specimens analyzed decades ago in chemical studies, so historical literature will always carry some degree of uncertainty.
+DNA barcoding and phylogenetic analysis have begun to resolve many of the taxonomic disputes catalogued by Guzmán, Allen, and Gartz. [[fungal-dna-barcoding]] has become the standard fungal barcode and allows researchers to verify specimen identity independently of morphological expertise. For example, molecular studies have confirmed that many "species" once reported to contain psilocybin were in fact misidentified collections of known neurotropic taxa growing in atypical habitats or displaying unusual morphology. The genus *Psilocybe* itself has undergone significant revision based on molecular phylogenetics, with many species transferred to other genera (*Deconica* for non-bluing, non-neurotropic species). This ongoing taxonomic restructuring means that some historical reports of "doubtful" species may reflect genuine chemical variation within species complexes rather than laboratory error. However, molecular tools cannot retroactively verify the identity of specimens analyzed decades ago in chemical studies, so historical literature will always carry some degree of uncertainty.
 
 ## Implications for Classification
 

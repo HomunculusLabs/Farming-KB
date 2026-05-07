@@ -18,6 +18,8 @@ sources:
   - CCOF. "Organic Berry Production Guide." Cornell University, 2022.
   - OSU Extension. "Growing Currants and Gooseberries in the Home Garden." Oregon State University, 2020.
   - CRFG. "Gooseberry Fruit Facts." California Rare Fruit Growers, 2023.
+type: comparison
+created: 2026-05-03
 ---
 
 # Gooseberry vs Currant Cultivation Comparison

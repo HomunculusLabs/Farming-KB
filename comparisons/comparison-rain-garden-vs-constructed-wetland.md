@@ -126,6 +126,8 @@ The two systems work together in integrated stormwater treatment
 
 ## See Also
 
+- [[comparison-rain-garden-vs-bioswale]]
+
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 
 - [[comparison-greywater-vs-constructed-wetland]]

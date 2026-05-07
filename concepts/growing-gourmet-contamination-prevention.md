@@ -9,6 +9,7 @@ sources:
     author: paul-stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+updated: 2026-05-06
 ---
 # Contamination Prevention
 

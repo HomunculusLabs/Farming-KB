@@ -19,6 +19,8 @@ sources:
   - "Li, C. & Huang, W. (2015). 'Cultivation of Siraitia grosvenorii (monk fruit) in Guangxi, China: ecological requirements and agronomic practices.' Journal of Agricultural Science, 7(3), 78–87."
   - "Ceunen, S. & Geuns, J. (2013). 'Steviol glycosides: Chemical diversity, metabolism, and function.' Journal of Natural Products, 76(6), 1201–1228."
   - "Dai, X. et al. (2020). 'Mogrosides from Siraitia grosvenorii: Biosynthesis, extraction, and applications in food industry.' Frontiers in Nutrition, 7, 44."
+type: comparison
+created: 2026-04-28
 ---
 
 # Stevia vs Monk Fruit Sweetener Cultivation

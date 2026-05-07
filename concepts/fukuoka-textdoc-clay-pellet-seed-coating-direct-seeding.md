@@ -160,4 +160,6 @@ sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 
 ## See Also
 
+- [[clay-seed-pellet-production-method-concrete-mixer]]
+
 - [[clay-seed-pellets-direct-seeding]]

@@ -17,6 +17,7 @@ sources:
   - Mudge, E.M. et al. (2019). "A unified approach to Cannabis cultivar attribution." Scientific Reports, 9, 20523.
   - Smart, R. et al. (2017). "Medical marijuana policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
   - UK Drug Policy Commission (2012). "Classification and the Misuse of Drugs Act: An Overview." London: UKDPC.
+created: 2026-04-28
 ---
 
 ## Overview

@@ -13,6 +13,8 @@ date: 2026-04-28 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
+tags: []
+updated: 2026-05-06
 ---
 
 # Postwar Mite Epidemic and the Pesticide Spiral

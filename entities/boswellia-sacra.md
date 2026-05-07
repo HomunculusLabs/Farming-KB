@@ -15,6 +15,7 @@ sources:
   - "Al-Harrasi, A., et al. (2019). 'Boswellia sacra: a review of traditional uses, phytochemistry, and pharmacology.' Journal of Ethnopharmacology 245: 112163."
   - "Moussaieff, A., et al. (2012). 'Incensole acetate — a novel anti-inflammatory agent from Boswellia resin.' British Journal of Pharmacology 166(5): 1559–1568."
   - "Wabuyele, E., et al. (2016). 'Genetic diversity of Boswellia in the Horn of Africa.' Annals of Botany 118(6): 995–1006."
+created: 2026-04-28
 ---
 
 # Boswellia sacra
@@ -123,4 +124,4 @@ population decline across the species range.
 - [[boswellia-serrata]]
 - [[commiphora-myrrha]]
 - [[ferula-assafoetida]]
-- [[styrax-benzoin]]
+- styrax benzoin

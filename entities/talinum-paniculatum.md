@@ -16,6 +16,7 @@ sources:
   - Odukoya, K.A. et al. (2007). "Hypocholesterolemic effect of Talinum triangulare aqueous extract in rats." Phytotherapy Research, 21(3), 271-274.
   - Schatz, G.E. (2001). "Generic Tree Flora of Madagascar." Royal Botanic Gardens, Kew.
   - Chweya, J.A. & Eyzaguirre, P.B. (1999). "The biodiversity of traditional leafy vegetables." IPGRI, Rome.
+created: 2026-04-28
 ---
 
 ## Overview
@@ -135,4 +136,4 @@ multiplication for garden establishment.
 
 ## See Also
 
-[[portulaca-oleracea]] · [[moringa-oleifera]] · [[amaranthus-palmeri]] · [[centella-asiatica]] · [[piper-nigrum]] · [[ocimum-gratissimum]] · [[coriandrum-sativum]] · [[eugenia-caryophyllata]]
+[[portulaca-oleracea]] · [[moringa-oleifera]] · [[amaranthus-palmeri]] · [[centella-asiatica]] · [[piper-nigrum-entity]] · [[ocimum-gratissimum]] · [[coriandrum-sativum]] · [[eugenia-caryophyllata]]

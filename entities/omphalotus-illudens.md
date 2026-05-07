@@ -15,6 +15,7 @@ sources:
   - Petersen, R.H. & Krisai-Greilhuber, I. (1999). "Omphalotus in Europe." Österreichische Zeitschrift für Pilzkunde 8: 33-46.
   - Desjardin, D.E. et al. (2008). "Bioluminescent fungi." Mycologia 100(6): 897-905.
   - Wasson, R.G. (1980). "The bioluminescent agarics of Europe." Economic Botany 34(1): 65-75.
+created: 2026-04-28
 ---
 
 ## Overview

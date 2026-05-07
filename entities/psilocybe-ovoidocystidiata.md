@@ -14,6 +14,7 @@ sources:
   - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
   - "Kriegstein, A., et al. (2022). 'Psilocybe ovoidocystidiata: ecology and chemistry.' Journal of Fungi 8(11): 1147."
   - "Baroni, K.J. (2021). 'Distribution of Psilocybe ovoidocystidiata in the northeastern US.' Mycoscience 62(3): 195–204."
+created: 2026-04-28
 ---
 
 # Psilocybe ovoidocystidiata

@@ -33,6 +33,7 @@ aliases:
   - Brazilian arrowroot
   - manihot
   - sweet potato tree
+created: 2026-04-28
 ---
 
 ## Overview

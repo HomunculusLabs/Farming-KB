@@ -124,6 +124,8 @@ The common name "Blue Meanies" is shared with a different Australian *Psilocybe*
 
 ## See Also
 
+- [[panaeolus-cambodginiensis]]
+
 - [[panaeolus-cyanescens-entity]]
 
 - [[psilocybin]] — Pharmacology and therapeutic applications
