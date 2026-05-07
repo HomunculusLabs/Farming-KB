@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1265 pages**
+**1277 pages**
 
 ## #
 
@@ -183,6 +183,7 @@
 - [[dmt-endogenous-production]]
 - [[dmt-experience-and-hyperspace-entities]]
 - [[dmt-extraction-guide]]
+- [[dmt-finnegans-wake-and-the-merry-go-raum]]
 - [[dmt-hyperspace-and-machine-elves]]
 - [[dmt-hyperspace-entities]]
 - [[dmt-reference]]
@@ -271,6 +272,7 @@
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
+- [[fukuoka-textdoc-agricultural-land-law-obstacles-road-back-farming]]
 - [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 - [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
@@ -337,6 +339,7 @@
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[fukuoka-textdoc-imitation-cannot-outclass-original-persimmon-seed]]
+- [[fukuoka-textdoc-impoverished-national-agricultural-policy-farmer-decline]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
@@ -391,6 +394,7 @@
 - [[fukuoka-textdoc-paddy-ecosystem-spider-frog-dragonfly-balance]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]
+- [[fukuoka-textdoc-pastoral-farming-village-life-philosophy-mu]]
 - [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
 - [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
@@ -486,6 +490,7 @@
 - [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 - [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]]
 - [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+- [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
 
 ## H
 
@@ -527,6 +532,7 @@
 - [[hemenway-random-assembly-design-technique]]
 - [[hemenway-worm-bin-rabbit-integration]]
 - [[henbane-hyoscyamus-niger-ethnobotany]]
+- [[heraclitus-fragment-24-and-tryptamine-ecstasy]]
 - [[history-psychedelics-ancient]]
 - [[hofmann-delysid-product-psychotherapy]]
 - [[hofmann-ergonovine-self-experiment-detail]]
@@ -696,6 +702,7 @@
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-exteriorization-soul-translinguistic-matter]]
 - [[mckenna-fall-of-partnership-society]]
+- [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-archaic-revival]]
 - [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
@@ -749,6 +756,7 @@
 - [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-modest-proposal-drug-policy-reform]]
 - [[mckenna-monotheism-and-pathological-religion]]
+- [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]
 - [[mckenna-neanderthal-skull-vibration-language-evolution]]
 - [[mckenna-nostalgia-for-paradise]]
 - [[mckenna-octopus-intelligence-and-archaic-mind]]
@@ -762,6 +770,7 @@
 - [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
 - [[mckenna-plants-and-primates-coevolution]]
 - [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
+- [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]]
 - [[mckenna-psilocybin-and-language-formation]]
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
@@ -1191,6 +1200,7 @@
 - [[shamanic-ecstasy-and-techniques]]
 - [[shamanic-healing-variants-and-divination]]
 - [[shamanic-powers-ayahuasca]]
+- [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
 - [[shamanic-trance-cross-cultural-patterns]]
 - [[shamanic-use-of-psychedelics]]
 - [[shanshi-coriaria-thymifolia-andean-entheogen]]
@@ -1242,6 +1252,7 @@
 ## T
 
 - [[taique-desfontainia-hookeri-andean-shrub]]
+- [[talking-staff-and-council-practice-in-entheogenic-ceremonies]]
 - [[teonanacatl-aztec-codices-archaeology]]
 - [[teonanacatl-history]]
 - [[terence-mckenna-stoned-ape-hypothesis]]
@@ -1332,6 +1343,7 @@
 - [[weil-the-mind-drug-relationship-paradigm]]
 - [[weil-the-natural-mind-altered-states-normalcy]]
 - [[western-spiritual-tourism-chronology]]
+- [[william-james-multiple-forms-of-consciousness]]
 - [[williams-pdc-stacking-functions-and-system-integration]]
 
 ## Y

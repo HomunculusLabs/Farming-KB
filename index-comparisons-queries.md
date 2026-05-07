@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1106 pages**
+**1108 pages**
 
 ## A
 
@@ -407,6 +407,7 @@
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-saffron-vs-turmeric-cultivation]]
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
@@ -595,6 +596,7 @@
 - [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - [[query-best-mushroom-species-for-beginner-home-cultivation]]
 - [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-best-stone-fruit-varieties-for-different-climates]]
 - [[query-can-fungi-break-down-plastic-pollution]]
