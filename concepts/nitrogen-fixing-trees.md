@@ -138,6 +138,8 @@ this restorative capacity.
 
 ## See Also
 
+- [[albizia-julibrissin]]
+
 - [[parkia-biglobosa]]
 
 - [[eleagnus-angustifolia]]

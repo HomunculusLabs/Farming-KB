@@ -139,3 +139,7 @@ reduction guidance.
 - [[set-and-setting]]
 - [[psilocybin-mushroom-dosage-and-acute-effects]]
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
+
+## See Also
+
+- [[pf-tek-psilocybin-dosage-reference]]

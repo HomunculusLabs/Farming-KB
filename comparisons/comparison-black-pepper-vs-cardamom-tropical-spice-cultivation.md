@@ -137,3 +137,7 @@ Both crops reward careful site selection and attentive, year-round management. P
 Farmers with existing agroforestry systems at elevation may find cardamom an ideal high-value understory complement. Conversely, growers with open lowland plots and access to support tree species will find pepper the more practical and economically reliable choice. In some regions, the two crops can even be integrated — pepper vines trained on shade trees above cardamom clumps below — though this demands careful balance of light, nutrients, and management attention.
 
 Ultimately, the best choice depends on matching the crop to the specific conditions of the farm site, the grower's resources, and the target market.
+
+## See Also
+
+- [[comparison-cinnamon-vs-clove-tropical-spice-cultivation]]

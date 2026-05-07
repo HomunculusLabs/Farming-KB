@@ -115,6 +115,8 @@ Deciduous tree native to Japan, China, and the Himalayas. Suited to temperate an
 
 ## See Also
 
+- [[cercis-canadensis]]
+
 - [[permaculture-plants-fruit-trees-selection]] - broader fruit tree categories and principles
 - [[permaculture-plants-fruit-trees-subtropical]] - subtropical fruit species
 - [[permaculture-plants-legume-trees-acacia-carob-locust]] - companion nitrogen fixers

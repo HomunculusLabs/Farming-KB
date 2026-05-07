@@ -46,7 +46,7 @@ whose ability to break down lignin makes them uniquely valuable in nutrient cycl
 
 **Secondary decomposers** follow primary decomposers after some initial breakdown has
 occurred. They thrive on material that has already been partially softened and chemically
-altered by the primary species. [[Agaricus-bisporus|Agaricus bisporus]] (the common button
+altered by the primary species. [[agaricus-bisporus|Agaricus bisporus]] (the common button
 mushroom) and [[king-stropharia-wine-cap-cultivation|king Stropharia]] (*Stropharia rugosoannulata*) are classic
 secondary decomposers, typically found in composted or well-rotted substrates rather
 than fresh wood.
@@ -144,7 +144,7 @@ lifestyle illustrates the fluidity of fungal nutritional strategies.
 
 Many fungi do not fit neatly into a single category and are described as **facultative
 parasites**, capable of switching between saprophytic and parasitic modes depending on
-environmental conditions and host health. [[Honey-mushroom|Armillaria mellea]], for
+environmental conditions and host health. Armillaria mellea, for
 example, may live for years as a decomposer on dead wood, then opportunistically attack
 living trees when conditions allow. This flexibility accelerates the death of
 already-stressed trees and opens gaps for new growth, blurring the boundary between

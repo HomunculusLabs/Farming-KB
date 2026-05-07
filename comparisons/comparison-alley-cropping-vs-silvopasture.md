@@ -124,3 +124,7 @@ livestock, and tree products from the same land.
 - [[mollison-designers-silvopasture-integrated-tree-livestock]]
 - [[intercropping-systems]]
 - [[contour-line-water-management]]
+
+## See Also
+
+- [[alley-cropping]]

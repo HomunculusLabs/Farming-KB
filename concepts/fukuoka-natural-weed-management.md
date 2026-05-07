@@ -106,3 +106,7 @@ See also:
 - [[fukuoka-natural-rice-barley-cultivation]] — application in rice
 - [[fukuoka-vegetable-growing-natural-method]] — application in vegetables
 - [[fukuoka-natural-orchard-management]] — application in orchards
+
+## See Also
+
+- [[amaranthus-retroflexus]]

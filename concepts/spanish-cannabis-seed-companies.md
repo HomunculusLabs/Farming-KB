@@ -192,4 +192,4 @@ community that extend far beyond their commercial offerings:
 
 - [[jack-herer-cannabis-strain]]
 
-- [[Indica-Sativa Hybrid Breeding]]
+- Indica-Sativa Hybrid Breeding

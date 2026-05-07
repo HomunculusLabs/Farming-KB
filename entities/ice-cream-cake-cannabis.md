@@ -135,6 +135,8 @@ uplift before deeper physical relaxation.
 
 ## See Also
 
+- [[jungle-cake-cannabis]]
+
 - [[ice-cream-cake]]
 - [[gelato-cannabis]]
 - [[wedding-cake]]

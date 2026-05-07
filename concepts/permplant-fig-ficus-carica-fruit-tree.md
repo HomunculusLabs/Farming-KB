@@ -131,4 +131,6 @@ The dried fruit stores well, providing a year-round food resource.
 
 ## See Also
 
+- [[carica-papaya]]
+
 - [[permplant-chestnuts-castanea-nut-crop-coppice]]

@@ -105,6 +105,16 @@ Lion's Mane is generally regarded as safe with no significant toxicity in animal
 
 Lion's Mane can be integrated into food forest systems through inoculated hardwood logs or stump cultivation. It serves as a valuable decomposer in forest garden edge zones and can be grown on waste hardwood from orchard pruning. Its preference for oak and beech makes it well-suited to temperate food forests with these canopy trees. Inoculated logs can be placed in shaded understory positions, contributing to the fungal diversity of the ecosystem while providing an annual yield of edible and medicinal mushrooms.
 
+## Comparison to Other Medicinal Mushrooms
+
+| Property | Lion's Mane | Reishi | Turkey Tail | Cordyceps |
+|---|---|---|---|---|
+| Primary Benefit | Neuroprotection | Immune modulation | Immune support | Energy/stamina |
+| Key Compounds | Hericenones, Erinacines | Triterpenes, β-glucans | PSK, PSP | Cordycepin |
+| Culinary Use | Excellent | Poor (bitter) | Poor (woody) | Moderate |
+| Cultivation | Moderate | Moderate | Easy | Difficult |
+| Substrate | Hardwood | Hardwood | Broad spectrum | Grain/insect |
+
 ## See Also
 
 - [[hericium-erinaceus-lions-mane-cultivation]]

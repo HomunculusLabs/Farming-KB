@@ -119,6 +119,8 @@ of mushrooms, sometimes less than one franc per kilo.
 
 ## See Also
 
+- [[termitomyces-umkowaani]]
+
 - [[termitomyces-clypeatus]]
 
 - [[termitomyces-fuliginosus]]

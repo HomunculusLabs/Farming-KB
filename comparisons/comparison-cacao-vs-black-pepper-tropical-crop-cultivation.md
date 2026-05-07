@@ -133,3 +133,10 @@ Both crops offer important income diversification for smallholder farmers in the
 | Key diseases | Black pod, frosty pod, witches' broom, CSSV | Quick wilt, slow decline, pollu disease |
 
 Both cacao and black pepper are cornerstone crops for tropical smallholder livelihoods, offering complementary cultivation niches within agroforestry landscapes. While they differ fundamentally in growth habit, shade requirements, and processing needs, their shared need for warm, humid conditions and integration into multi-strata systems makes them compatible companions in diversified tropical farms.
+
+## See Also
+
+- [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
+
+- [[hibiscus-rosa-sinensis]]
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]

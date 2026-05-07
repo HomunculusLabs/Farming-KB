@@ -83,6 +83,8 @@ Landrace varieties, the original, regionally adapted cannabis strains from speci
 
 ## See Also
 
+- [[jillybean]]
+
 - [[golden-goat]]
 
 - [[kushi-mints]]

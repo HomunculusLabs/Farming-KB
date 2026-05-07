@@ -69,6 +69,8 @@ LSD is a Schedule I controlled substance under the United Nations Convention on 
 
 ## See Also
 
+- [[lysergic-acid-diethylamide]]
+
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[lysergic-acid-amide]]
 - [[ergot-and-lysergic-acid-history]]

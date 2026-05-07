@@ -136,4 +136,6 @@ IPM combines multiple pest management methods for sustainable, long-term control
 
 ## See Also
 
+- [[query-how-do-i-grow-and-use-calendula-for-medicine-and-skincare]]
+
 - [[comparison-lemongrass-vs-citronella-vs-palmarosa]]

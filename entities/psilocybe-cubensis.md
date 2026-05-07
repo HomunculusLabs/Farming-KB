@@ -3,147 +3,139 @@ title: Psilocybe cubensis
 type: species
 tags:
   - fungi
-  - psilocybin
   - psychedelic
   - basidiomycota
+  - psilocybin
+  - mushroom
   - entheogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Psilocybe_cubensis
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/psilocybe
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán G, Allen JW, Gartz J. "A worldwide geographical distribution of the neurotropic fungi." Mycotaxon. 1998.
+  - Stijve T, Kuyper TW. "Occurrence of psilocybin in various higher fungi." Persoonia. 1985.
+  - Stamets P. "Psilocybin Mushrooms of the World." Ten Speed Press. 1996.
 ---
 
 # Psilocybe cubensis
 
-**Psilocybe cubensis** is a species of psychedelic mushroom whose principal active compounds are psilocybin and psilocin. It is the most widely known and cultivated psilocybin mushroom, owing to its relatively large size, robust fruiting body, and moderate potency. The species belongs to the family **Hymenogastraceae** within the order **Agaricales**.
+**Psilocybe cubensis** is a species of psychedelic mushroom whose principal active compounds are psilocybin and psilocin. It is the most widely known and cultivated psilocybin mushroom, belonging to the family Hymenogastraceae in the order Agaricales.
 
-## Taxonomy and Etymology
+## Taxonomy
 
-The species was first described in 1906 by Franklin Sumner Earle as *Stropharia cubensis*, from specimens collected in Cuba. In 1947, Rolf Singer transferred it to the genus *Psilocybe*. The epithet *cubensis* refers to the island of Cuba, the type locality.
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Hymenogastraceae
+- **Genus:** *Psilocybe*
+- **Species:** *P. cubensis*
 
-Common names include **golden teacher**, **golden cap**, and **San Isidro**. The "golden teacher" moniker, now the most widely recognized cultivar name, allegedly references the introspective, wisdom-imparting experiences reported by users.
+The species was first described in 1906 by Franklin Sumner Earle in Cuba. The specific epithet *cubensis* refers to Cuba, where the species was first documented. It has since been found in tropical and subtropical regions around the world.
 
-## Morphology
+## Description
 
-### Cap (Pileus)
-- Diameter: 1.5–8 cm
-- Conic to convex when young, expanding to broadly convex or plane with age
-- Color: Cinnamon-brown to golden when young, fading to pale yellow or nearly white with maturity
-- Surface: Hygrophanous; viscid when moist, smooth to slightly wrinkled
-- Bruising: Distinctly blue when damaged, due to psilocin oxidation
+The cap of *P. cubensis* ranges from 1.5–8 cm in diameter, starting convex and expanding to broadly convex or nearly flat with age. The cap color varies from light brown to golden-brown when young, often with a distinct umbo (central nipple). The surface is hygrophanous — it dries to a lighter, yellowish-white color.
 
-### Gills (Lamellae)
-- Adnate to adnexed attachment, becoming subfree with age
-- Color: Gray to dark purple-brown at maturity
-- Spore print: Dark purple-brown
+- **Gills:** Adnate to adnexed, grayish in youth, darkening to purple-black with spore maturity.
+- **Stipe:** 4–15 cm tall, 0.4–1.4 cm thick, hollow, whitish, bruising bluish where damaged.
+- **Spore print:** Dark purple-brown.
+- **Spores:** Ellipsoidal, 11.5–17.3 × 8–11.5 µm.
 
-### Stipe (Stem)
-- Height: 4–15 cm, thickness: 0.4–1.4 cm
-- Hollow, equal or slightly tapering upward
-- White to yellowish, bruising blue
-- Partial veil leaving a persistent annulus (ring) on the upper stipe
+The characteristic bluing reaction upon bruising is caused by the oxidation of psilocin, a dephosphorylated metabolite of psilocybin.
 
-### Spores
-- Ellipsoid to rhomboid in face view
-- Dimensions: 11.5–17.3 × 7–12 µm
-- Wall: Thick, with a distinct germ pore
+## Distribution and Habitat
 
-## Chemistry and Pharmacology
+*P. cubensis* is a pantropical species found throughout the Americas, Southeast Asia, Australia, and parts of Africa. It grows in a variety of substrates but is most commonly found on:
 
-### Active Compounds
+- Dung of herbivorous mammals (especially cattle and horses)
+- Enriched pastures and meadows
+- Subtropical and tropical grasslands
 
-| Compound | Concentration (% dry weight) | Pharmacological Action |
-|----------|-----------------------------|----------------------|
-| Psilocybin | 0.5–1.3% | Prodrug; converted to psilocin |
-| Psilocin | 0.1–0.6% | Direct 5-HT2A agonist |
-| Baeocystin | 0.01–0.2% | Minor tryptamine alkaloid |
-| Norbaeocystin | Trace | Poorly characterized |
+The species fruits most abundantly during warm, humid seasons following heavy rainfall. It is particularly associated with cattle ranching regions, as bovine dung provides an ideal substrate.
 
-### Mechanism of Action
+## Chemistry
 
-Psilocybin is a **prodrug** that is dephosphorylated by alkaline phosphatase enzymes in the gastrointestinal tract and liver to form psilocin. Psilocin acts primarily as a **partial agonist at the serotonin 5-HT2A receptor**, which is densely expressed in the cerebral cortex, particularly in layer V pyramidal neurons. This receptor activation is considered the primary mechanism underlying the psychedelic experience.
+The primary psychoactive compounds in *P. cubensis* are:
 
-Additional receptor interactions include:
-- **5-HT1A** (partial agonist): Contributes to anxiolytic and mood effects
-- **5-HT2C** (agonist): May influence anxiety and perceptual changes
-- **Sigma-1 receptor**: Modulatory role in neuroprotection and neuroplasticity
+| Compound | Avg. % Dry Weight | Notes |
+|----------|-------------------|-------|
+| Psilocybin | 0.44–1.35% | Prodrug; converted to psilocin in vivo |
+| Psilocin | 0.10–0.60% | Active metabolite; responsible for bluing |
+| Baeocystin | 0.01–0.30% | Minor alkaloid; pharmacology less studied |
+| Norbaeocystin | Trace | Rarely quantified |
 
-## Natural Habitat and Distribution
+Potency varies significantly depending on strain, growing conditions, substrate, and maturity at harvest. Cultivated specimens tend to be more consistent in potency than wild-collected ones.
 
-*P. cubensis* is a **coprophilous** (dung-inhabiting) species, naturally found in subtropical and tropical environments:
+## Notable Strains
 
-- **Native range**: Gulf Coast states (USA), Central America, South America, the Caribbean, and Southeast Asia
-- **Substrate**: Primarily bovine and equine dung in grasslands and pastures
-- **Seasonality**: Fruiting occurs during warm, humid periods; spring through fall in temperate zones, year-round in the tropics
-- **Symbiosis**: Not mycorrhizal; saprotrophic decomposition of nutrient-rich herbivore dung
+Dozens of cultivated strains exist, each with distinctive morphological and potency profiles:
+
+- **Golden Teacher:** One of the most popular cultivation strains; moderate potency, reliable fruiting.
+- **B+:** Large-fruited, resilient strain suitable for beginners; golden-brown caps.
+- **Penis Envy:** Characteristically thick, dense stems with underdeveloped caps; reported 1.5–3× average potency.
+- **Cambodian:** Originating from specimens found near Angkor Wat; fast colonizer, moderate potency.
+- **Amazonian:** Large, robust fruiting bodies; collected from Amazonian region of Brazil.
 
 ## Cultivation
 
-*P. cubensis* is the most commonly cultivated psychedelic mushroom due to its:
-- Fast colonization rate (10–14 days on grain spawn)
-- Relatively low contamination susceptibility compared to other species
-- Tolerance of a wide range of substrates
-- Robust fruiting across multiple flushes
+*P. cubensis* is the easiest psilocybin mushroom to cultivate due to its fast colonization speed and relatively undemanding environmental requirements. Standard cultivation methods include:
 
-### Common Cultivation Methods
+1. **PF Tek (Psilocybe Fanaticus Technique):** Beginner-friendly method using brown rice flour and vermiculite in half-pint mason jars.
+2. **Monotub Cultivation:** Bulk method using grain spawn inoculated into a pasteurized bulk substrate (coconut coir, vermiculite, gypsum).
+3. **Straw/Log Cultivation:** Less common for *P. cubensis* but viable using pasteurized wheat or oat straw.
 
-1. **PF Tek (Psilocybe Fanaticus Technique)**: Brown rice flour and vermiculite in half-pint jars; beginner-friendly
-2. **Monotub Method**: Bulk substrate (coconut coir + vermiculite + gypsum, "CVG") in polypropylene tubs; higher yields
-3. **Straw/Log Methods**: Pasteurized wheat straw or supplemented hardwood sawdust; commercial-scale
+Optimal fruiting conditions: 23–27°C (73–81°F), 90–95% relative humidity, fresh air exchange, and indirect light on a 12/12 cycle.
 
-### Key Cultivation Parameters
+## Pharmacology
 
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Colonization temperature | 24–27°C (75–80°F) |
-| Fruiting temperature | 21–25°C (70–77°F) |
-| Relative humidity | 90–99% |
-| Light | Indirect ambient (12hr on/off cycle sufficient) |
-| Fresh air exchange | Critical for fruiting initiation |
-| Substrate pH | 5.5–6.5 |
+Psilocybin acts primarily as a serotonergic agonist, binding to 5-HT2A receptors in the brain. This interaction modulates the default mode network (DMN), leading to:
 
-## Notable Cultivars
+- Altered perception and cognition
+- Synesthesia and visual hallucinations
+- Ego dissolution and mystical-type experiences
+- Enhanced emotional processing and introspection
 
-Named strains are **genetic isolates**, not taxonomic varieties. Widely available cultivars include: **Golden Teacher** (moderate potency, reliable), **B+** (large fruits, resilient), **Penis Envy** (dense, reportedly higher potency), **Cambodian** (fast colonizer), **Ecuador** (large, thick-stemmed), and **Thai Koh Samui** (fast fruiting).
-
-## Therapeutic Research
-
-Contemporary clinical research has investigated psilocybin (standardized from *P. cubensis* and synthetic sources) for several conditions:
-
-- **Treatment-resistant depression**: Phase II trials showing rapid and sustained antidepressant effects after 1–2 sessions
-- **End-of-life anxiety**: Significant reduction in existential distress in terminal cancer patients
-- **Alcohol use disorder**: Proof-of-concept trials demonstrating reduced drinking days
-- **Obsessive-compulsive disorder**: Case reports and pilot studies showing symptom reduction
-- **Cluster headaches**: Self-reported efficacy, formal investigation ongoing
+Onset of effects occurs within 20–60 minutes, peaking at 2–3 hours with a total duration of 4–6 hours. Effects are dose-dependent, ranging from subtle perceptual shifts at 0.5–1 g dried to profound ego dissolution at 5+ g.
 
 ## Legal Status
 
-The legal status of *P. cubensis* varies significantly by jurisdiction:
+The legal status of *P. cubensis* varies globally:
 
-- **United States**: Schedule I under the Controlled Substances Act; psilocybin and psilocin are explicitly listed. Several cities and states have deprioritized enforcement (Denver, Oakland, Oregon, Colorado, Washington)
-- **Netherlands**: Fresh mushrooms were banned in 2008; truffles (*sclerotia*) remain legally sold in "smart shops"
-- **Brazil**: Not explicitly scheduled; sale and cultivation exist in a legal gray area
-- **Jamaica**: Legal; retreat centers operate openly
-- **Portugal**: Decriminalized for personal use (all drugs since 2001)
-- **Australia**: Scheduled (S9 prohibited substance); clinical trials permitted with TGA approval
+- **Prohibited:** United States (Schedule I), most of Europe, Australia, Japan
+- **Decriminalized:** Several US municipalities (Denver, Oakland, Santa Cruz, Ann Arbor, Washington DC)
+- **Legal/Regulated:** Oregon (regulated therapeutic use since 2020), Netherlands (fresh truffles only)
+- **Unscheduled:** Bahamas, Jamaica, Brazil (possession and sale not specifically prohibited)
 
-## Safety and Toxicology
+## Ethnobotanical History
 
-*P. cubensis* has a **high therapeutic index**; the lethal dose is estimated at over 1,000 times the effective dose. There are no confirmed human fatalities from psilocybin mushroom ingestion alone.
+Indigenous use of psilocybin mushrooms dates back at least 3,000 years, with evidence from pre-Columbian Mesoamerican stone mushroom statues (circa 500 BCE). The Aztecs called them *teonanácatl* ("divine mushroom") and used them in religious ceremonies and divination rituals.
 
-Primary risks include:
-- **Psychological distress**: "Bad trips" involving anxiety, paranoia, or panic, particularly at high doses, in unprepared settings, or in individuals with personal/family history of psychosis
-- **Accidental injury**: Impaired judgment during intoxication
-- **Misidentification**: Confusion with toxic species (e.g., *Galerina marginata*, which contains amatoxins); rare with *P. cubensis* due to its distinctive morphology
-- **HPPD**: Hallucinogen persisting perception disorder; rare, poorly understood
-- **Drug interactions**: Dangerous serotonergic interactions with MAOIs, SSRIs, and lithium
+Modern Western rediscovery is attributed to R. Gordon Wasson, who participated in a Mazatec mushroom ceremony in Oaxaca, Mexico in 1955. His account was published in *Life* magazine in 1957, catalyzing global interest. Albert Hofmann subsequently isolated and identified psilocybin and psilocin in 1958.
+
+## Therapeutic Potential
+
+Recent clinical research has explored psilocybin-assisted therapy for:
+
+- Treatment-resistant depression (TRD)
+- End-of-life anxiety in terminal illness
+- Alcohol use disorder
+- Tobacco/nicotine dependence
+- Post-traumatic stress disorder (PTSD)
+
+A landmark 2021 study published in *NEJM* found that a single 25 mg dose of synthetic psilocybin produced rapid and sustained antidepressant effects. As of 2026, psilocybin is in Phase III clinical trials for major depressive disorder.
+
+## Safety Profile
+
+*P. cubensis* has a very low toxicity profile. The LD50 of psilocybin in mice is approximately 280 mg/kg (intravenous). No confirmed human fatalities have been attributed to psilocybin mushroom toxicity alone. Primary risks include:
+
+- Psychological distress ("bad trips") — mitigated by set and setting, preparation, and integration
+- Accidental misidentification — risk of consuming toxic look-alikes when foraging
+- Precipitation of psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder
 
 ## See Also
 
 - [[psilocybin]] — Primary psychoactive compound
-- [[psilocybe-azurescens]] — More potent relative from the Pacific Northwest
-- [[psilocybe-semilanceata]] — "Liberty cap"; native to Europe
-- [[mycology]] — Study of fungi
-- [[entheogen-etymology-and-terminology]] — Psychoactive substances used in spiritual contexts
+- [[psilocin]] — Active metabolite
+- [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]] — Taxonomic family
+- [[golden-teacher]] — Popular cultivated strain
+- [[microdosing-guide]] — Sub-threshold dosing practice

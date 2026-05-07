@@ -122,3 +122,7 @@ Adaptive multi-paddock (AMP) grazing, promoted by [[permaculture-grazing-and-pas
 | Management complexity | Low | Moderate to high |
 | Best for | Large, low-cost land; low management capacity | Productive land; regenerative goals |
 | Transition difficulty | N/A (baseline) | Moderate (start simple, scale up) |
+
+## See Also
+
+- [[comparison-rotational-grazing-vs-continuous-grazing]]

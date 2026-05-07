@@ -188,4 +188,4 @@ legacy, the Chemdawg family remains at the forefront of cannabis genetics.
 
 - [[haze-lineage-and-history]]
 
-- [[Indica-Sativa Hybrid Breeding]]
+- Indica-Sativa Hybrid Breeding

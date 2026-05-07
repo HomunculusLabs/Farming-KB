@@ -121,6 +121,8 @@ knowledge makes the research possible.
 
 ## See Also
 
+- [[virola-surinamensis]]
+
 - [[mithraism-entheogenic-origins]]
 
 - [[psilocybin-mushrooms-biology]]

@@ -110,6 +110,8 @@ replaced both synthetic nitrogen and mechanical weed control. The
 
 ## See Also
 
+- [[fukuoka-agricultural-production-net-energy-deduction]]
+
 - [[fukuoka-energy-productivity-and-the-mechanization-trap]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-food-farming-unity]]

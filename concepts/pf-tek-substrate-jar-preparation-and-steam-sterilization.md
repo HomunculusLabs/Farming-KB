@@ -148,3 +148,7 @@ used incorrectly.
 - [[pf-tek-maximum-fruiting-substrate-formula]]
 - [[pf-tek-canning-jar-lid-configuration]]
 - [[pf-tek-overview-and-history]]
+
+## See Also
+
+- [[pf-tek-syringe-sterilization-and-storage]]

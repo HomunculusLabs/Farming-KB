@@ -82,6 +82,8 @@ The laccase enzyme from *T. hirsuta* is of particular biotechnological interest 
 
 ## See Also
 
+- [[trametes-hispida]]
+
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 - [[turkey-tail-trametes-versicolor]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]

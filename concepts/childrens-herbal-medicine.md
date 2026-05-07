@@ -89,3 +89,7 @@ For any serious or persistent condition, seek professional medical care. Herbal 
 - [[herbal-medicine-safety]] — Comprehensive safety principles
 - [[nervine-herbs-and-anxiety-relief]]
 - [[herbal-medicine-preparation-methods]]
+
+## See Also
+
+- [[stachys-officinalis]]

@@ -121,6 +121,8 @@ materials are grown on-site rather than imported, reducing both costs and the
 ecological footprint of fertility management.
 
 ## See Also
+
+- [[panicum-virgatum]]
 - [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]

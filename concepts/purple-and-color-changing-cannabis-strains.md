@@ -195,4 +195,4 @@ The best purple strains combine stunning aesthetics with genuine potency and com
 
 - Thai Landrace Sativas
 
-- [[Indica-Sativa Hybrid Breeding]]
+- Indica-Sativa Hybrid Breeding

@@ -126,5 +126,5 @@ Fukuoka challenged the entire framing of "food production" as a goal:
 - [[fukuoka-money-sucking-octopus-economy-critique]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-food-civilization-critique]]
-- [[fukuoka-energy-return-on-investment-agriculture]]
-- [[fukuoka-natural-farming-productivity]]
+- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
+- [[fukuoka-natural-farming-global-influence]]

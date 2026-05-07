@@ -1,122 +1,194 @@
 ---
 title: Ginkgo biloba
-created: 2026-04-28
 type: species
-tags: [medicinal-plant, nootropic, ginkgoaceae, flavonoid, terpene-lactone, anti-inflammatory, neuroprotective, living-fossil, herbal]
+tags:
+  - herbal-plant
+  - nootropic
+  - adaptogen
+  - medicinal-plant
+  - living-fossil
+  - gymnosperm
+  - circulatory-health
 date: 2026-04-28
 updated: 2026-04-28
-sources: [https://pubmed.ncbi.nlm.nih.gov/, https://www.ncbi.nlm.nih.gov/books/NBK534220/]
+sources:
+  - Singh B, Kaur P, Gopichand, et al. "Biology and chemistry of Ginkgo biloba." Fitoterapia. 2008.
+  - DeKosky ST, Williamson JD, Fitzpatrick AL, et al. "Ginkgo biloba for prevention of dementia." JAMA. 2008.
+  - Chan PC, Xia Q, Fu PP. "Ginkgo biloba leave extract: Biological, medicinal, and toxicological effects." Journal of Environmental Science and Health. 2007.
 ---
 
 # Ginkgo biloba
 
-## Overview
-
-Ginkgo biloba, commonly known as the ginkgo tree or maidenhair tree, is a unique species of gymnosperm and the sole surviving member of the order Ginkgoales, a group that dates back over 270 million years to the Permian period. Often described as a "living fossil," Ginkgo biloba has no close living relatives and represents one of the oldest extant tree species on Earth. Extracts from its leaves, particularly the standardized formulation EGb 761, are among the most widely used herbal medicines and [[medicinal-mushroom-dietary-supplements]] worldwide, prescribed primarily for cognitive enhancement, peripheral circulatory disorders, and tinnitus. The leaf extract contains a characteristic profile of flavonol glycosides and terpene lactones (ginkgolides and bilobalide) that demonstrate antioxidant, [[medicinal-mushroom-antioxidant-anti-inflammatory]], neuroprotective, and vasodilatory properties.
+**Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple mass extinction events. Beyond its botanical significance, ginkgo leaf extract is among the most widely used herbal supplements globally.
 
 ## Taxonomy
 
 - **Kingdom:** Plantae
-- **Clade:** Tracheophytes (vascular plants)
-- **Clade:** Gymnosperms (naked-seed plants)
-- **Clade:** Ginkgophyta
-- **Class:** Ginkgoopsida
-- **Order:** Ginkgoales
-- **Family:** Ginkgoaceae
-- **Genus:** Ginkgo (monotypic — sole living species)
-- **Species:** G. biloba L., 1771
-- **[[australian-magic-mushroom-common-names]]:** Ginkgo, maidenhair tree, ginkgo tree, yín xìng (銀杏, Chinese), ichō (イチョウ, Japanese), eunhaeng (은행, Korean)
-- **Etymology:** "Ginkgo" is a phonetic rendering of the Japanese pronunciation "ginkyō" of the Chinese characters 銀杏 (yín xìng), meaning "silver apricot," referring to the appearance of the seed. "Biloba" from Latin "bi" (two) + "loba" (lobed), describing the characteristic two-lobed fan-shaped leaf.
+- **Division:** Ginkgophyta (sole extant division)
+- **Class:** Ginkgoopsida (sole extant class)
+- **Order:** Ginkgoales (sole extant order)
+- **Family:** Ginkgoaceae (sole extant family)
+- **Genus:** *Ginkgo* (sole extant genus)
+- **Species:** *G. biloba*
 
-## Description
+*Ginkgo biloba* occupies a unique taxonomic position — it is the only surviving member of an ancient lineage that once included multiple genera and species. Charles Darwin himself referred to it as a "living fossil."
 
-- **Growth habit:** Large deciduous tree, typically 20–35 m tall with a spread of 9–15 m. Exceptionally long-lived — individual specimens can live over 1,000 years; the oldest known ginkgo is approximately 3,000 years old. Crown broadly conical when young, becoming irregular and spreading with age.
-- **Leaves:** Unique fan-shaped (flabelliform) leaves, 5–8 cm long and wide, with a notch at the apex creating a bilobed appearance (though not all leaves are bilobed). Veins radiate from the base in a dichotomous (forking) pattern — a primitive feature shared with fossil ginkgophytes. Leaves are bright green in summer, turning a brilliant golden-yellow in autumn before abscission.
-- **Flowers:** Ginkgo is dioecious (separate male and female trees). Male trees produce small catkin-like pollen cones (strobili) in spring. Female trees produce pairs of ovules at the tips of stalks.
-- **Seeds:** The "fruit" is technically a naked seed, not a true fruit (gymnosperm characteristic). Approximately 2–3 cm diameter, with a fleshy, yellowish-orange outer integument (sarcotesta) that produces a strong, unpleasant odor (butyric acid) when ripe. Inner seed has a hard shell enclosing an edible kernel (nut).
-- **Bark:** Gray to brown, deeply furrowed with corky ridges on older trees.
-- **Roots:** Deep taproot system when young, developing extensive lateral roots with age. Capable of producing aerial "chi-chi" (basal chichi) — downward-growing peg-like structures on the trunk that can develop roots and new trunks.
+## Botanical Description
 
-## Habitat and Distribution
+### Tree Characteristics
 
-- **Native range:** Southeastern China, with relict wild populations possibly persisting in the Tianmushan region of Zhejiang Province and in southwestern China (Xishuangbanna, Yunnan). True wild status is debated; most natural populations may be feral descendants of ancient cultivation.
-- **Cultivated range:** Planted worldwide as an ornamental and medicinal tree. Common in urban landscapes across temperate regions due to exceptional tolerance of pollution, compacted soils, pests, and disease. Widely cultivated in China, France, Germany, the [[sacramental-ayahuasca-legal-battles-united-states]], Japan, and South Korea for leaf production.
-- **Habitat:** Adaptable to a wide range of conditions. Prefers deep, well-drained, loamy soils but tolerates clay, sandy, and alkaline soils. Full sun to partial shade. Hardy to USDA zones 3–9.
-- **Cultivation for medicine:** Leaf harvest typically begins after 5–7 years. Leaves are collected in late summer to early autumn (when flavonoid content is highest), dried, and extracted. Major commercial leaf production in China, France, and Germany.
+- **Height:** 20–35 m (65–115 ft), exceptionally to 50 m
+- **Lifespan:** Extremely long-lived; individual specimens exceed 1,000 years, with some estimated at over 2,500 years
+- **Crown:** Broad, conical when young, becoming irregular and spreading with age
+- **Bark:** Gray-brown, deeply fissured, corky texture
+- **Root system:** Deep taproot when young; resistant to wind damage
 
-## Chemistry and Bioactive Compounds
+### Leaves
 
-Ginkgo biloba leaf extract contains a well-characterized profile of bioactive compounds:
+- **Shape:** Unique fan-shaped (flabellate) leaf, 5–10 cm long and wide
+- **Venation:** Dichotomously branched veins radiating from the petiole — a primitive trait shared with fossil ferns
+- **Color:** Bright green in spring/summer, turning brilliant golden-yellow in autumn
+- **Lobes:** Typically divided into two lobes (hence the species name *biloba*), though some leaves have a single central lobe
+- **Arrangement:** Alternate on long shoots, clustered in spur shoots
 
-### Flavonol glycosides (approximately 24% of standardized extract)
+### Reproduction
 
-- **Quercetin, kaempferol, and isorhamnetin derivatives:** The three aglycones, present as glycosides linked to glucose and rhamnose. Account for the majority of the flavonoid content.
-- **Bilobetin, ginkgetin, and sciadopitysin:** Biflavonoids (dimeric flavonoids) unique to Ginkgo. Demonstrate anti-inflammatory, antiviral, and neuroprotective activity.
-- **Flavonoid activity:** Potent free radical scavengers that protect endothelial cells and neurons from oxidative damage. Modulate mitochondrial function and reduce lipid peroxidation.
+Ginkgo is **dioecious** — male and female reproductive structures occur on separate trees:
 
-### Terpene lactones (approximately 6% of standardized extract)
+- **Male trees:** Produce catkin-like pollen cones (strobili) in spring
+- **Female trees:** Produce ovules at the tips of stalks; when fertilized, they develop into seeds
+- **Pollination:** Wind-pollinated; motile sperm (a rare trait among seed plants)
+- **Seeds:** Nut-like, 1.5–2 cm diameter, with a fleshy, malodorous outer layer (sarcotesta) containing butyric acid and ginkgotoxin
 
-- **Ginkgolides A, B, C, J, and M:** Unique diterpene structures found only in Ginkgo biloba. Highly specific platelet-activating factor (PAF) receptor antagonists. Ginkgolide B is the most potent PAF antagonist and the most extensively studied.
-- **Bilobalide:** A sesquiterpene lactone unique to ginkgo. Neuroprotective properties include reduction of cerebral edema, protection against ischemic neuronal damage, and enhancement of mitochondrial ATP production. Demonstrates GABA_A receptor modulation and anxiolytic-like effects in animal models.
+The characteristic foul odor of fallen ginkgo seeds has been variously described as resembling rancid butter, vomit, or dog feces — leading many urban plantings to specify male trees only.
 
-### Other constituents
+## Distribution and Ecology
 
-- **Ginkgolic acids:** Alkylphenol compounds found primarily in the seed coat. Can cause allergic contact dermatitis and are potential toxicants. Strictly limited in pharmaceutical-grade extracts (must be below 5 ppm in EGb 761).
-- **Proanthocyanidins:** Oligomeric tannins with antioxidant activity.
-- **Organic acids:** Including ascorbic acid, shikimic acid, and vanillic acid.
+### Natural Range
 
-### Standardized extract EGb 761
+The species is native to a small area in the mountains of eastern China:
 
-The most widely studied formulation, EGb 761 (Tebonin, Tanakan), is standardized to contain 24% ginkgo flavonol glycosides and 6% terpene lactones, with ginkgolic acids reduced to below 5 ppm. Over 400 [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]] and thousands of preclinical studies have been published on this specific extract.
+- Zhejiang province (Tianmushan Nature Reserve)
+- Possibly southwestern Hubei and western Guizhou provinces
 
-## Pharmacology and Traditional Uses
+### Cultivated Distribution
 
-### Traditional use history
+Ginkgo has been widely planted as an ornamental tree across temperate regions worldwide:
 
-- Used in Chinese medicine for over 500 years, primarily for respiratory complaints (asthma, bronchitis) and as a general circulatory tonic
-- Seeds (nuts) have been used as [[mushroom-cultivation-for-food-and-medicine]] in China and Japan for millennia
-- Leaf extract was developed as a pharmaceutical product in Germany in the 1960s, launching the modern era of ginkgo research
+- East Asia (China, Japan, Korea) — thousands of years of cultivation
+- Europe — introduced circa 1730
+- North America — introduced circa 1784
+- Southern Hemisphere — planted as ornamental in Australia, New Zealand, South America
 
-### Cerebrovascular and cognitive effects
+### Ecological Resilience
 
-- Improves cerebral blood flow through vasodilation and reduced blood viscosity
-- EGb 761 demonstrates modest but consistent improvement in cognitive function in patients with mild cognitive impairment and early Alzheimer's disease (confirmed in multiple meta-analyses and the 2009 GuidAge study of 2,854 participants)
-- Enhances memory, attention, and executive function in healthy adults, though effects are modest and more pronounced in older individuals
-- Protects against ischemic neuronal damage through antioxidant, anti-excitotoxic, and anti-apoptotic mechanisms
+Ginkgo is remarkably resilient:
 
-### Peripheral circulatory effects
+- Tolerant of urban pollution, compacted soils, road salt, and limited root space
+- Resistant to most pests and diseases
+- Survived the atomic bombing of Hiroshima — six ginkgo trees within 1–2 km of ground zero survived and regrew
+- Deeply drought-tolerant once established
 
-- Improves intermittent claudication (walking pain in peripheral arterial disease) by enhancing blood flow to extremities
-- Reduces symptoms of Raynaud's phenomenon and diabetic peripheral neuropathy
-- PAF antagonism by ginkgolides reduces platelet aggregation and thrombus formation
+## Phytochemistry
 
-### Tinnitus and vestibular disorders
+The medicinal properties of ginkgo are attributed to two major classes of compounds:
 
-- Some evidence for reduction in tinnitus severity, particularly in vascular-origin tinnitus, though clinical trial results are mixed
-- May improve vestibular compensation after inner ear injury
+### Flavonoid Glycosides (~24%)
 
-### Antioxidant mechanisms
+Primarily flavonol derivatives:
 
-- The combination of flavonol glycosides and terpene lactones provides multi-target antioxidant protection
-- Scavenges superoxide, hydroxyl, and peroxyl radicals; chelates transition metals (iron, copper) that catalyze free radical formation
-- Preserves mitochondrial membrane potential and ATP production under oxidative stress
-- Reduces biomarkers of oxidative damage (8-OHdG, MDA, protein carbonyls) in clinical studies
+- Quercetin, kaempferol, and isorhamnetin glycosides
+- Account for the antioxidant and free-radical scavenging activity
+- Standardized extracts contain 22–27% flavonoid glycosides
 
-### Anxiolytic and antidepressant effects
+### Terpene Lactones (~6%)
 
-- EGb 761 has demonstrated significant anxiolytic and antidepressant effects in several clinical trials, including a large study showing superiority over placebo for generalized anxiety disorder
-- Bilobalide's modulation of GABA_A receptors is proposed as one mechanism
+Unique diterpenes and sesquiterpenes:
 
-## Legal Status and Safety
+| Compound | Class | Properties |
+|----------|-------|------------|
+| Ginkgolide A | Diterpene | PAF antagonist; anti-platelet |
+| Ginkgolide B | Diterpene | Most potent PAF antagonist; neuroprotective |
+| Ginkgolide C | Diterpene | PAF antagonist |
+| Ginkgolide J | Diterpene | PAF antagonist |
+| Ginkgolide M | Diterpene | PAF antagonist |
+| Bilobalide | Sesquiterpene | Neuroprotective; anti-inflammatory |
 
-- **Regulatory status:** Approved as a prescription pharmaceutical in Germany and France for cognitive impairment and peripheral arterial disease. Available as a dietary supplement (DSHEA) in the United States. Listed in the Chinese, Japanese, European, and United States pharmacopoeias.
-- **Contraindications:** Contraindicated in individuals with bleeding disorders or those taking anticoagulant/antiplatelet medications (warfarin, aspirin, clopidogrel) due to ginkgolide-mediated PAF antagonism. Should be discontinued 36 hours before surgery. Avoid in epilepsy (rare seizure reports).
-- **Drug interactions:** Potentially significant interaction with warfarin (increased bleeding risk). May interact with anticonvulsants, antidiabetes medications, and cytochrome P450 substrates.
-- **Side effects:** Generally well-tolerated at standard doses (120–240 mg standardized extract daily). Most common side effects are mild gastrointestinal complaints and headache. Rare cases of bleeding and allergic skin reactions. The seed contains ginkgotoxin (4'-O-methylpyridoxine), which can cause seizures if consumed in large quantities.
+Ginkgolides are found nowhere else in nature and are unique to *Ginkgo biloba*.
+
+### Other Constituents
+
+- **Ginkgolic acids:** Alkylphenol compounds found in the seed coat; allergenic and potentially toxic (removed in standardized extracts)
+- **Proanthocyanidins:** Condensed tannins with antioxidant activity
+- **Organic acids:** Ascorbic acid, shikimic acid, vanillic acid
+
+## Standardized Extract: EGb 761
+
+The most studied ginkgo preparation is **EGb 761** (Tebonin/Tanakan), manufactured by Dr. Willmar Schwabe Pharmaceuticals:
+
+- **Standardization:** 24% flavonoid glycosides, 6% terpene lactones
+- **Ginkgolic acid content:** < 5 ppm (to minimize allergic reactions)
+- **Dosage in studies:** Typically 120–240 mg/day, divided into 2–3 doses
+- **Clinical trials:** Over 400 clinical studies and 50+ meta-analyses published
+
+## Pharmacological Actions
+
+### Cerebral Circulation
+
+- Vasodilatory effect on cerebral arteries
+- Improves cerebral blood flow, particularly in ischemic conditions
+- Reduces blood viscosity and inhibits platelet-activating factor (PAF)
+- Enhances oxygen and glucose delivery to brain tissue
+
+### Antioxidant Activity
+
+- Scavenges reactive oxygen species (ROS) and reactive nitrogen species (RNS)
+- Inhibits lipid peroxidation in neuronal membranes
+- Protects mitochondrial function against oxidative damage
+- Upregulates endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase)
+
+### Neuroprotection
+
+- Protects neurons against amyloid-beta-induced toxicity
+- Reduces excitotoxic neuronal death via NMDA receptor modulation
+- Enhances cholinergic neurotransmission (relevant to Alzheimer's pathology)
+- Promotes neurogenesis in the hippocampus
+
+### Anti-inflammatory
+
+- Inhibits NF-κB signaling pathway
+- Reduces pro-inflammatory cytokine production (TNF-α, IL-1β, IL-6)
+- Suppresses inducible nitric oxide synthase (iNOS) expression
+
+## Safety and Contraindications
+
+### Generally Well-Tolerated
+
+Most adverse effects are mild:
+
+- Headache, dizziness, gastrointestinal discomfort
+- Allergic skin reactions (primarily to ginkgolic acid impurities)
+
+### Drug Interactions
+
+- **Anticoagulants/antiplatelets:** Ginkgo inhibits PAF and may increase bleeding risk; caution with warfarin, aspirin, clopidogrel
+- **Seizure threshold:** May lower seizure threshold; caution in patients with epilepsy
+- **Cytochrome P450:** Minimal CYP interactions at standard doses
+
+### Contraindications
+
+- Known bleeding disorders
+- Concurrent anticoagulant therapy (without medical supervision)
+- Epilepsy or seizure disorders
+- Pregnancy and breastfeeding (insufficient safety data)
 
 ## See Also
 
-- [[panax-ginseng]] — Asian ginseng, frequently combined with ginkgo in nootropic supplement formulations
-- [[bacopa-monnieri]] — Brahmi, complementary herbal nootropic for memory and cognitive enhancement
-- [[withania-somnifera]] — Ashwagandha, adaptogenic herb with overlapping neuroprotective mechanisms
-- [[ptychopetalus-olacoides]]
+- [[adaptogenic-herbs-guide]]
+- [[medicinal-mushroom-guide]]
+
+- flavonoids — Polyphenolic antioxidant compounds
+- platelet activating factor — Target of ginkgolide antagonism
+- cognitive enhancers — Category of nootropic compounds
+- [[ginkgo-biloba]] — Other species with deep evolutionary lineages
+- egb 761 — Standardized ginkgo extract

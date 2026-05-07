@@ -144,6 +144,8 @@ cultivation practices.
 
 ## See Also
 
+- [[gelato-41]]
+
 - [[sunset-sherbert]]
 
 - [[girl-scout-cookies]] · [[og-kush-cannabis-entity]] · [[runtz-cannabis]] · [[zookies]]

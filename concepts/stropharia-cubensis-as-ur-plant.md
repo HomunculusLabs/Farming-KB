@@ -116,6 +116,8 @@ higher cultural levels and individual self-awareness.
 
 ## See Also
 
+- [[stropharia-ambiguata]]
+
 - [[psilocybin-in-human-evolution]]
 - [[shamanic-ecstasy-and-techniques]]
 - [[neurotropic-fungi-classification]]

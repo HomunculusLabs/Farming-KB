@@ -113,7 +113,7 @@ Jujube is one of the most versatile fruit trees in the kitchen:
 
 - **Fresh eating** — Crisp and refreshing straight off the tree.
 - **Drying** — The traditional preparation; dried fruit stores for months to years.
-- **Tea** — Dried jujubes are a staple ingredient in [[Chinese-herbal-tea|herbal teas]].
+- **Tea** — Dried jujubes are a staple ingredient in herbal teas.
 - **Candy and snacks** — Candied jujube (bing tang hong zao) is a popular Chinese
   confection.
 - **Medicine** — In [[traditional-Chinese-medicine]], jujube is used as a calming

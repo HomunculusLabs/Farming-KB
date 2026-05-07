@@ -104,3 +104,7 @@ mechanisms of action.
 ## Related Questions
 - [[adaptogenic-herbs-overview]]
 - [[comparison-chaga-vs-reishi-medicinal]]
+
+## See Also
+
+- [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]

@@ -100,6 +100,8 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 
 ## See Also
 
+- [[kalapuya-brunnea]]
+
 - [[tahoe-og]]
 - [[larry-og]]
 - [[sfv-og]]

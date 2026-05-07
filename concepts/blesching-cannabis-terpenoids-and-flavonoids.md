@@ -149,3 +149,7 @@ spices for individual therapeutic needs.
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 
 ]
+
+## See Also
+
+- [[luteolin]]

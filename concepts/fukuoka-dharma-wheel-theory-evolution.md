@@ -101,7 +101,7 @@ This theory has direct agricultural implications:
 
 ## Relationship to Mu Philosophy
 
-The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-mu-philosophy]]: when one sees and operates within transcendent time and space, it is the unity of all things that is perceived, not their divisions. The theory rejects the discriminating, analytical knowledge that Fukuoka saw as the fundamental error of Western science.
+The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-natural-farming-philosophy-of-mu]]: when one sees and operates within transcendent time and space, it is the unity of all things that is perceived, not their divisions. The theory rejects the discriminating, analytical knowledge that Fukuoka saw as the fundamental error of Western science.
 
 ## The Cave of the Intellect Connection
 
@@ -117,6 +117,6 @@ Fukuoka suggested the problem was in believing that human knowledge could fully 
 
 - [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-dharmic-law-all-things-return-to-one]]
-- [[fukuoka-dharma-wheel-civilization-collapse]]
-- [[fukuoka-mu-philosophy]]
-- [[fukuoka-insects-natural-crossbreeding]]
+- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
+- [[fukuoka-natural-farming-philosophy-of-mu]]
+- [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]

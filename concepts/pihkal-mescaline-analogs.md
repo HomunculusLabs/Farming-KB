@@ -142,6 +142,10 @@ essential for grasping the logic of Shulgin's systematic exploration.
 
 ## See Also
 
+- [[4-prho-dmt]]
+- [[eth-ma]]
+- [[isoproscaline]]
+
 - [[pihkal-2c-b-family]] — 2C psychedelic phenethylamines
 - [[pihkal-doa-family]] — DOx amphetamine derivatives
 - [[pihkal-mda-family]] — MDA, MDMA, and empathogenic compounds

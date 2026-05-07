@@ -107,6 +107,8 @@ The species is a candidate for conservation-focused cultivation research, which 
 
 ## See Also
 
+- [[termitomyces-titanellus]]
+
 - [[amanita-muscaria]]
 - [[psilocybe-cubensis]]
 - [[laccaria-bicolor]]

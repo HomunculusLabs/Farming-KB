@@ -90,3 +90,7 @@ The conservation of bolete diversity depends on maintaining healthy forest ecosy
 - [[mushroom-hunting-and-identification]]
 - [[mushroom-species-in-bioremediation]]
 - lookalikes
+
+## See Also
+
+- [[aureoboletus-mirabilis]]

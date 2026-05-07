@@ -118,6 +118,8 @@ harvesting fast-growing aquatic plants to maintain open water surface area.
 
 ## Related
 
+- [[query-how-do-i-design-a-multi-species-pasture-mix]]
+
 - [[query-how-do-i-create-habitat-for-amphibians-in-a-permaculture-system]]
 - [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 

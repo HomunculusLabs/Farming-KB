@@ -34,7 +34,7 @@ sources: []
     25|lecture "Tryptamine Hallucinogens and Consciousness," draws on Platonic philosophy,
     26|Thomistic theology, and personal [[dmt]] experience to argue that tryptamine states reveal
     27|a mode of consciousness that stands outside of time entirely. The framework connects the
-    28|subjective phenomenology of the [[DMT experience phenomenology and cognitive dissonance-29|of wonder]] to a sweeping vision of human eschatology and the ultimate trajectory of
+    28|subjective phenomenology of the of wonder to a sweeping vision of human eschatology and the ultimate trajectory of
     30|consciousness in the cosmos.
     31|
     32|## Plato's Metaphor of Time as Moving Image

@@ -143,6 +143,8 @@ parts throughout the growing season.
 
 ## See Also
 
+- [[comparison-calendula-vs-chamomile]]
+
 - [[comparison-comfrey-vs-dandelion]]
 
 - [[comparison-comfrey-vs-yarrow]] for dynamic accumulator and

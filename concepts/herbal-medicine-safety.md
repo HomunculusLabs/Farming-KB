@@ -82,6 +82,8 @@ Herbalists, naturopathic physicians, and integrative medicine practitioners with
 
 ## See Also
 
+- [[veratrum-album]]
+
 - [[senna-alexandrina]]
 
 - [[herb-drug-interactions]] — specific herb-drug interaction details

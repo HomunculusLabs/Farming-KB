@@ -122,6 +122,8 @@ at home while wild-harvesting chaga, creating a sustainable mixed approach
 that reduces pressure on wild chaga populations.
 
 ## See Also
+
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 - [[comparison-chaga-vs-reishi-medicinal]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]

@@ -87,6 +87,8 @@ Agroforestry approaches that combine pine trees with matsutake production repres
 
 ## See Also
 
+- [[psilocybe-cinctulus]]
+
 - [[matsutake-mushroom]]
 
 - [[fukuoka-pine-blight-matsutake-research]]

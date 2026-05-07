@@ -1219,3 +1219,5 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
+- [[comparison-hugelkultur-vs-biochar-soil-building]]
+- [[query-how-to-grow-and-use-chicory]]

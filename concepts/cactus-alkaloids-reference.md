@@ -88,6 +88,8 @@ See [[hallucinogenic-plant-chemistry]] and [[phenethylamine-chemistry-basics]] f
 
 ## See Also
 
+- [[morphine]]
+
 - [[mescaline-biosynthesis-and-precursor-enhancement]]
 - [[psychoactive-cacti-of-central-mexico]]
 - [[false-peyotes-mexican-cactus-ethnobotany]]

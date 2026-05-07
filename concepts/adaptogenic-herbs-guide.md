@@ -137,4 +137,6 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 
 ## See Also
 
+- [[emblica-officinalis]]
+
 - [[galium-aparine]]

@@ -114,6 +114,8 @@ Additionally, the interaction between the bacterial microbiome and the mycorrhiz
 
 ## See Also
 
+- [[edaphic-determinants-cannabis-microbiome-community-structure]]
+
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]] for detailed core microbiome analysis
 - [[methylophilus-cannabis-endorhiza-strain-specificity]] for the Methylophilus case study
 - [[cellvibrio-post-harvest-root-decay-cannabis]] for post-harvest microbiome dynamics

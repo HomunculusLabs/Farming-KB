@@ -141,6 +141,8 @@ toward soil management as the primary lever for microbiome engineering.
 
 ## See Also
 
+- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
+
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar community
   differences
 - [[soil-edaphic-factors-microbial-communities]] for soil chemistry effects

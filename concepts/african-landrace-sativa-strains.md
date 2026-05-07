@@ -173,12 +173,14 @@ cultivators willing to invest the time and effort:
 
 ## See Also
 
+- [[swazi-gold]]
+
 - [[cannabis-landrace-strains]]
 
 - [[haze-lineage-and-history]]
 
 - Thai Landrace Sativas
 
-- [[Indica-Sativa Hybrid Breeding]]
+- Indica-Sativa Hybrid Breeding
 
 - [[jack-herer-cannabis-strain]]

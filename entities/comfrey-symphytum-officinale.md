@@ -155,19 +155,7 @@ Comfrey has been used for centuries to heal wounds, fractures, and skin conditio
 
 ## Pests and Diseases
 
-Comfrey is remarkably pest- and disease-resistant. The coarse, hairy foliage deters most insect herbivores. Occasionally affected by:
-- **Comfrey rust (*Melampsorella symphyti*):** Fungal disease causing orange pustules on leaves; remove and destroy affected foliage
-- **Slugs and snails:** May damage young shoots in spring but rarely a serious problem on established plants
-- **Root rot:** Can occur in waterlogged, poorly drained soils
-
-## Integration in Polyculture Design
-
-Comfrey is one of the most frequently recommended plants in permaculture food forests and polyculture systems. Standard placement includes:
-- **Fruit tree guilds:** Planted in the drip line of fruit trees as a nutrient miner and mulch source
-- **Swale edges:** Planted on berms to stabilize soil and mine nutrients from the water-infiltrated zone
-- **Companion planting:** Near tomatoes, peppers, and potatoes for potassium supplementation
-- **Chicken forage zones:** Chickens will eat young comfrey leaves; the high protein content is beneficial
-- **Compost corner planting:** Dedicated comfrey beds adjacent to composting areas for easy harvest
+Comfrey is remarkably pest- and disease-resistant due to its coarse, hairy foliage. Occasional issues include comfrey rust (*Melampsorella symphyti*, remove affected foliage), slug damage on young shoots, and root rot in waterlogged soils.
 
 ## See Also
 

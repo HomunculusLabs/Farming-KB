@@ -107,6 +107,8 @@ The seed ball, in this light, is not merely a clever technique but an expression
 
 ## See Also
 
+- [[fukuoka-aerial-seeding-mangroves-ganges-river]]
+
 - [[comparison-seed-starting-vs-direct-seeding]]
 
 - [[clay-seed-balls-tsuchi-dango]]
