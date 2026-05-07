@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1111 pages**
+**1115 pages**
 
 ## A
 
@@ -312,6 +312,7 @@
 - [[comparison-martha-tent-vs-monotub]]
 - [[comparison-matsutake-vs-truffle-ecology-and-market]]
 - [[comparison-mead-making-vs-beer-brewing]]
+- [[comparison-mead-vs-kvass-fermented-beverages]]
 - [[comparison-mealworm-farming-vs-cricket-farming]]
 - [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
 - [[comparison-microgreens-vs-shoots-growing]]
@@ -408,6 +409,7 @@
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-saffron-vs-turmeric-cultivation]]
+- [[comparison-scented-geraniums-vs-edible-flowers]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
@@ -670,6 +672,7 @@
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
 - [[query-how-do-i-grow-carnivorous-plants-outdoors]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
+- [[query-how-do-i-grow-edible-flowers-in-a-permaculture-garden]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-do-i-grow-goji-berries-at-home]]
 - [[query-how-do-i-grow-gooseberries-and-currants]]
@@ -759,6 +762,7 @@
 - [[query-how-do-soil-aggregates-form-and-why-do-they-matter]]
 - [[query-how-do-trophic-cascades-work]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
+- [[query-how-do-you-grow-and-process-tea-at-home]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]
 - [[query-how-does-aquaponics-work]]

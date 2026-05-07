@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1373 pages**
+**1374 pages**
 
 ## #
 
@@ -682,6 +682,7 @@
 - [[medieval-mushroom-knowledge]]
 - [[mesoamerican-mushroom-ceremonies-teonanacatl]]
 - [[metol-testing-bluing-reaction-mushrooms]]
+- [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[mexican-indigenous-nomenclature-sacred-mushrooms]]
 - [[mexican-inquisition-against-mushroom-cults]]
 - [[mexican-mushroom-stones-archaeological-evidence]]

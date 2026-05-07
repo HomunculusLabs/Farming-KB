@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1281 pages**
+**1284 pages**
 
 ## #
 
@@ -841,8 +841,11 @@
 - [[mescaline-peyote-and-san-pedro-guide]]
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[mescaline-reference]]
+- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - [[metzner-ayahuasca-therapeutic-potential]]
 - [[metzner-brazilian-ayahuasca-churches-santo-daime-udv-barquinia]]
+- [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
+- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
 - [[metzner-entheogen-terminology-and-worldview-paradigms]]
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 - [[metzner-four-paradigms-entheogenic-healing]]
@@ -854,6 +857,7 @@
 - [[metzner-ibogaine-addiction-treatment]]
 - [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-mdma-assisted-therapy-research]]
+- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
 - [[metzner-psychedelic-amplifier-and-microscope-metaphors]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
@@ -1197,7 +1201,6 @@
 - [[scythian-cannabis-steam-bath-ritual]]
 - [[sepp-holzer-animal-integration]]
 - [[sepp-holzer-livestock-integration]]
-- [[set-and-setting]]
 - [[set-and-setting-eleusinian-initiation-methodology]]
 - [[set-and-setting-framework]]
 - [[shamanic-ecstasy-and-techniques]]
