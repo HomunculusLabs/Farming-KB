@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2467 pages**
+**2479 pages**
 
 ## #
 
@@ -163,6 +163,7 @@
 - [[5-meo-dmt]]
 - [[5-meo-dmt-entity]]
 - [[5-meo-dmt-entity-tihkal]]
+- [[5-meo-dpt]]
 - [[5-meo-eipt]]
 - [[5-meo-mipt]]
 - [[5-meo-mipt-entity]]
@@ -286,6 +287,7 @@
 - [[amanita-flavoconia]]
 - [[amanita-gemmata]]
 - [[amanita-jacksonii]]
+- [[amanita-mappa]]
 - [[amanita-muscaria]]
 - [[amanita-muscaria-entity]]
 - [[amanita-pantherina]]
@@ -723,6 +725,7 @@
 
 - [[dactylaria-brochopaga]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
+- [[daedalea-quercina]]
 - [[daedaleopsis-confragosa]]
 - [[dalbergia-sissoo]]
 - [[daldinia-concentrica]]
@@ -988,6 +991,8 @@
 - [[gelato]]
 - [[gelato-33]]
 - [[gelato-cannabis]]
+- [[gelonade]]
+- [[gelsemine]]
 - [[gelsemium-sempervirens]]
 - [[gentiana-lutea]]
 - [[geoff-hamilton]]
@@ -1275,6 +1280,7 @@
 - [[korean-natural-farming]]
 - [[koryaks]]
 - [[kosher-kush-entity]]
+- [[koumine]]
 - [[kuehneromyces-mutabilis]]
 - [[kuehneromyces-mutabilis-entity]]
 - [[kush-mints]]
@@ -1372,6 +1378,7 @@
 - [[lions-mane]]
 - [[lions-mane-hericium-erinaceus]]
 - [[lions-mane-mushroom]]
+- [[liquid-gelato]]
 - [[lloyd-library]]
 - [[lobaria-pulmonaria]]
 - [[lobelia-inflata]]
@@ -2212,6 +2219,7 @@
 - [[sporidesmium-sclerotivorum]]
 - [[stachybotrys-chartarum]]
 - [[stamets-patents]]
+- [[stamets-paul]]
 - [[stanislav-grof]]
 - [[stardawg]]
 - [[starfighter]]
@@ -2265,6 +2273,7 @@
 - [[super-skunk]]
 - [[sutherlandia-frutescens]]
 - [[swale]]
+- [[swale-design-water-harvesting]]
 - [[swertia-chirata]]
 - [[symphytum-officinale]]
 - [[syntropic-agriculture]]
@@ -2308,6 +2317,7 @@
 - [[terminalia-catappa]]
 - [[terminalia-chebula]]
 - [[terminalia-ferdinandiana]]
+- [[termitomyces-clypeatus]]
 - [[termitomyces-eurhizus]]
 - [[termitomyces-eurrhizus]]
 - [[termitomyces-fuliginosus]]
@@ -2387,6 +2397,7 @@
 - [[tremella-fusciformis]]
 - [[tremella-mesenterica]]
 - [[tribulus-terrestris]]
+- [[trichanthera-gigantea]]
 - [[trichocereus-bridgesii]]
 - [[trichocereus-pachanoi]]
 - [[trichocereus-peruvianus]]
@@ -2472,6 +2483,7 @@
 - [[viburnum-prunifolium]]
 - [[vic-high]]
 - [[vicia-faba]]
+- [[vicia-sativa]]
 - [[vicia-villosa]]
 - [[vietnam-black]]
 - [[vigna-radiata]]

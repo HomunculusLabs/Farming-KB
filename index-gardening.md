@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**875 pages**
+**877 pages**
 
 ## A
 
@@ -71,6 +71,7 @@
 - [[clay-pellet-seed-broadcasting]]
 - [[clay-pellet-seed-encapsulation]]
 - [[clay-seed-balls-tsuchi-dango]]
+- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 - [[clay-seed-pellet-production-method-concrete-mixer]]
 - [[clay-seed-pellets]]
 - [[clay-seed-pellets-direct-seeding]]
@@ -157,6 +158,7 @@
 - [[difficult-site-planting]]
 - [[diffusion-osmosis-and-active-transport-in-plants]]
 - [[dig-vs-no-dig-gardening]]
+- [[direct-seeding-non-cultivation]]
 - [[direct-seeding-techniques]]
 - [[dried-herb-storage]]
 - [[drip-irrigation-guide]]

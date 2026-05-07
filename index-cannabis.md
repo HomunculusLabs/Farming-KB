@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**949 pages**
+**950 pages**
 
 ## A
 
@@ -463,6 +463,7 @@
 - [[cannabis-microbiome-cultivar-specificity]]
 - [[cannabis-microbiome-experimental-design]]
 - [[cannabis-microbiome-research]]
+- [[cannabis-microbiome-soil-type-composition-strain-structure]]
 - [[cannabis-minor-cannabinoids]]
 - [[cannabis-mold-and-mildew-prevention]]
 - [[cannabis-molybdenum-nutrient]]
@@ -1012,4 +1013,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[cannabis-microbiome-soil-type-composition-strain-structure]]

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2371 pages**
+**2372 pages**
 
 ## #
 
@@ -587,6 +587,7 @@
 - [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]]
 - [[fukuoka-pine-blight-matsutake-portent]]
 - [[fukuoka-pine-blight-matsutake-research]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
 - [[fukuoka-straw-decomposition-microbial-succession]]
 - [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]]
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]

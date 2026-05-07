@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**864 pages**
+**869 pages**
 
 ## A
 
@@ -433,9 +433,13 @@
 - [[fukuoka-soil-microbiology]]
 - [[fukuoka-soil-observations]]
 - [[fukuoka-soil-self-improvement-without-tillage]]
+- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
+- [[fukuoka-sowing-cave-of-intellect-and-philosophy-of-mu]]
 - [[fukuoka-sowing-clay-seed-ball-preparation]]
 - [[fukuoka-sowing-desert-greening-worldwide-results]]
+- [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]]
 - [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
 - [[fukuoka-sowing-natural-farming-climate-change]]
 - [[fukuoka-sowing-natural-farming-philosophy]]
 - [[fukuoka-sowing-seed-ball-desert-revegetation]]
@@ -898,6 +902,7 @@
 - [[savory-weak-link-analysis]]
 - [[solomon-choosing-seeds-and-catalogs]]
 - [[st-johns-wort-guide]]
+- [[straw-mulch-in-agriculture]]
 - [[swiss-psycholytic-therapy-1988-1993]]
 
 ## T
@@ -921,4 +926,3 @@
 - [[ultra-low-jadam-sulfur-js]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
-- [[clay-seed-pellet-composition-and-aerial-seeding-method]]

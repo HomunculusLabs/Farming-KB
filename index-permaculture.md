@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1572 pages**
+**1573 pages**
 
 ## A
 
@@ -938,6 +938,7 @@
 - [[natfarm-swale-water-conservation]]
 - [[natfarm-zone-sector-permaculture-planning]]
 - [[natives-vs-exotics]]
+- [[natural-farm-establishment-protective-forests-and-windbreaks]]
 - [[natural-farm-permaculture-ethics-principles]]
 - [[natural-farming-guide-companion-planting-guilds]]
 - [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
@@ -1644,5 +1645,3 @@
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
-- [[swale-design-water-harvesting]]
-- [[natural-farm-establishment-protective-forests-and-windbreaks]]

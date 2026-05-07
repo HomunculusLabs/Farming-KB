@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1380 pages**
+**1382 pages**
 
 ## #
 
@@ -1141,6 +1141,7 @@
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-dual-chamber-terrarium-fruiting-conditions]]
 - [[pf-tek-fruiting-chamber]]
+- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
 - [[pf-tek-guide]]
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
 - [[pf-tek-low-humidity-symptoms-and-remediation]]
@@ -1151,6 +1152,7 @@
 - [[pf-tek-overview-and-history]]
 - [[pf-tek-perlite-humidification-technique]]
 - [[pf-tek-pressure-canner-sterilization]]
+- [[pf-tek-primordia-formation-and-pinning-process]]
 - [[pf-tek-psilocybe-fanaticus]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
 - [[pf-tek-spraying-and-ventilation-procedure]]
@@ -1449,5 +1451,3 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[pf-tek-primordia-formation-and-pinning-process]]
-- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]

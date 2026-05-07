@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1143 pages**
+**1147 pages**
 
 ## A
 
@@ -312,6 +312,7 @@
 - [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]]
 - [[comparison-lollipopping-vs-supercropping]]
 - [[comparison-loquat-vs-persimmon-cultivation]]
+- [[comparison-lupin-vs-crimson-clover-green-manure]]
 - [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
 - [[comparison-main-lining-vs-screen-of-green]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
@@ -519,6 +520,7 @@
 - [[comparison-windbreak-vs-hedgerow]]
 - [[comparison-windbreak-vs-swale]]
 - [[comparison-windbreak-vs-thermal-mass]]
+- [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
 - [[comparison-worm-farming-vs-bsf-larvae]]
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[comparison-xeriscaping-vs-drought-gardening]]
@@ -604,6 +606,7 @@
 - [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 - [[query-best-citrus-varieties-for-different-climates]]
+- [[query-best-cover-crops-for-sandy-soil]]
 - [[query-best-elderberry-varieties-for-different-climates-and-uses]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-grain-legumes-for-a-small-homestead]]
@@ -672,6 +675,7 @@
 - [[query-how-do-i-design-a-succulent-green-roof]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
+- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
 - [[query-how-do-i-design-and-plant-a-living-fence]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]
 - [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
