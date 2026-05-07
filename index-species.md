@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2479 pages**
+**2496 pages**
 
 ## #
 
@@ -261,6 +261,7 @@
 - [[alexander-shulgin]]
 - [[alfalfa-medicago-sativa]]
 - [[allan-savory]]
+- [[alley-cropping]]
 - [[allicin]]
 - [[allium-sativum]]
 - [[allium-sativum-entity]]
@@ -300,6 +301,7 @@
 - [[amanita-verna]]
 - [[amanita-virosa]]
 - [[amaranthus-palmeri]]
+- [[amaranthus-retroflexus]]
 - [[amelanchier-alnifolia]]
 - [[amnesia-haze]]
 - [[amorpha-fruticosa]]
@@ -312,6 +314,7 @@
 - [[andrew-weil]]
 - [[andrographis-paniculata]]
 - [[andy-letcher]]
+- [[anemopsis-californica]]
 - [[anethum-graveolens]]
 - [[angelica-archangelica]]
 - [[angelica-sinensis]]
@@ -394,6 +397,7 @@
 ## B
 
 - [[b-entity-pihkal]]
+- [[baccharis-trimera]]
 - [[bacillus-amyloliquefaciens]]
 - [[bacillus-megaterium]]
 - [[bacillus-subtilis]]
@@ -443,6 +447,7 @@
 - [[blue-dream]]
 - [[blue-dream-cannabis]]
 - [[blue-dream-cannabis-strain]]
+- [[blue-dream-strain]]
 - [[blueberry-cannabis]]
 - [[blumeria-graminis]]
 - [[bob-entity]]
@@ -491,6 +496,7 @@
 
 - [[caffeine]]
 - [[cajanus-cajan]]
+- [[cake-batter]]
 - [[calcarisporium-arbuscula]]
 - [[calea-zacatechichi]]
 - [[calendula-officinalis]]
@@ -558,6 +564,7 @@
 - [[cereal-milk]]
 - [[ceriporia-spissa]]
 - [[ceriporiopsis-subvermispora]]
+- [[cerrena-unicolor]]
 - [[cetraria-islandica]]
 - [[chaetomium-globosum]]
 - [[chaga]]
@@ -880,6 +887,7 @@
 - [[ergocryptine]]
 - [[ergoline]]
 - [[ergometrine]]
+- [[ergonovine]]
 - [[ergosterol]]
 - [[ergotamine]]
 - [[ergothioneine]]
@@ -1210,12 +1218,14 @@
 - [[inula-helenium]]
 - [[ip-entity]]
 - [[ip-entity-pihkal]]
+- [[ipomoea-batatas]]
 - [[ipomoea-tricolor]]
 - [[ipomoea-violacea]]
 - [[iris-entity]]
 - [[iris-entity-pihkal]]
 - [[irpex-lacteus]]
 - [[ischnoderma-resinosum]]
+- [[isoproscaline]]
 - [[isopulegol]]
 
 ## J
@@ -1258,6 +1268,7 @@
 - [[jujube-entity]]
 - [[julius-palmer]]
 - [[jungle-cake]]
+- [[jungle-cake-cannabis]]
 - [[jungle-juice]]
 - [[juniperus-communis]]
 - [[jurema]]
@@ -1301,6 +1312,7 @@
 - [[laccaria-proxima]]
 - [[laccase]]
 - [[lactarius-camphoratus]]
+- [[lactarius-chrysorrheus]]
 - [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
 - [[lactarius-piperatus]]
@@ -1405,6 +1417,7 @@
 - [[ludwig-prandtl]]
 - [[lupinus-albus]]
 - [[lupinus-polyphyllus]]
+- [[luteolin]]
 - [[lycium-barbarum]]
 - [[lycoperdon-marginatum]]
 - [[lycoperdon-mixtecorum]]
@@ -1412,6 +1425,7 @@
 - [[lycoperdon-pyriforme]]
 - [[lycopodium-clavatum]]
 - [[lynn-margulis]]
+- [[lyophyllum-decastes]]
 - [[lysergamide]]
 - [[lysergic-acid]]
 - [[lysergic-acid-amide]]
@@ -1923,6 +1937,7 @@
 - [[psilocybe-caerulescens]]
 - [[psilocybe-caerulescens-entity]]
 - [[psilocybe-caerulipes]]
+- [[psilocybe-cinctulus]]
 - [[psilocybe-collybioides]]
 - [[psilocybe-columbiana]]
 - [[psilocybe-coprophila]]
@@ -2218,6 +2233,7 @@
 - [[spilanthes-acmella]]
 - [[sporidesmium-sclerotivorum]]
 - [[stachybotrys-chartarum]]
+- [[stachys-officinalis]]
 - [[stamets-patents]]
 - [[stamets-paul]]
 - [[stanislav-grof]]
@@ -2469,6 +2485,7 @@
 - [[valeriana-officinalis]]
 - [[vanilla-planifolia]]
 - [[vasicine]]
+- [[veratrum-album]]
 - [[veratrum-viride]]
 - [[verbascum-thapsus]]
 - [[verbena-officinalis]]
