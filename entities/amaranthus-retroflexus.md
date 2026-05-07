@@ -6,8 +6,8 @@ tags:
   - edible-weed
   - permaculture
   - amaranthaceae
-  - pioneer-species
-  - soil-remediation
+  - [[permaculture-pioneer-species|pioneer]]-species
+  - [[fungal-soil-remediation-persistent-pollutants|soil]]-remediation
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-*Amaranthus retroflexus*, commonly known as redroot pigweed, rough pigweed, or green amaranth, is an annual herbaceous plant in the family Amaranthaceae. Despite being classified as one of the world's most widespread agricultural weeds, it is also a highly nutritious edible plant with deep roots in human food systems across multiple continents. The species exemplifies the blurred boundary between "weed" and "crop" and is increasingly recognized in permaculture and foraging communities as a valuable resource.
+*Amaranthus retroflexus*, commonly known as redroot [[amaranthus-palmeri|pigweed]], rough pigweed, or green amaranth, is an annual herbaceous plant in the family Amaranthaceae. Despite being classified as one of the world's most widespread agricultural weeds, it is also a highly nutritious edible plant with deep roots in human food systems across multiple continents. The species exemplifies the blurred boundary between "weed" and "crop" and is increasingly recognized in permaculture and foraging communities as a valuable resource.
 
 Native to North America, *A. retroflexus* has become a cosmopolitan species found on every inhabited continent. It is a vigorous pioneer species capable of rapidly colonizing disturbed soils, making it both a challenge for conventional agriculture and an ally in ecological restoration.
 

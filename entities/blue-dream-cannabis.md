@@ -123,7 +123,7 @@ The strain's commercial dominance also made it one of the most counterfeited nam
 
 - [[cannabis-sativa]] — sativa species overview
 - [[cannabis-indica]] — indica species overview
-- [[terpenes]] — overview of cannabis terpenes and their effects
-- [[thc]] — tetrahydrocannabinol pharmacology
-- [[dj-short-blueberry]] — the Blueberry parent strain
-- [[haze]] — the Haze parent strain
+- [[cannabis-terpene-profiles]] — overview of cannabis terpenes and their effects
+- [[cannabis-health-thc-tetrahydrocannabinol]] — tetrahydrocannabinol pharmacology
+- [[blueberry-cannabis]] — the Blueberry parent strain
+- [[haze-lineage-and-history]] — the Haze parent strain

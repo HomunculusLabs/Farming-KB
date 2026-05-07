@@ -85,7 +85,7 @@ McKenna traced the mushroom's role in human history through several distinct pha
 - **Ancient symbiosis:** Association with cattle and nomadic human populations, ensuring propagation alongside human migration
 - **Mesoamerican mushroom cults:** The mushroom was called *teonanacatl* ("flesh of the gods") and was central to indigenous religious practice, representing a form of theophagy rivaling the Christian Eucharist
 - **Spanish conquest and suppression:** The Franciscans destroyed the classic mushroom cults, driving them into the mountains of Oaxaca where only fragments survived
-- **Rediscovery:** [[Valentina Wasson|Valentina]] and [[R. Gordon Wasson]] found surviving mushroom ceremonies in the 1950s
+- **Rediscovery:** [[valentina-pavlovna-wasson|Valentina]] and [[R. Gordon Wasson]] found surviving mushroom ceremonies in the 1950s
 - **Modern era:** The mushroom's effects were "unleashed" upon the modern world through this rediscovery
 
 ## Connection to the Logos

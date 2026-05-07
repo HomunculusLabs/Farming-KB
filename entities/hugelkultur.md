@@ -147,4 +147,4 @@ For urban or space-limited settings:
 - [[sepp-holzer]] — Austrian farmer who popularized hugelkultur in modern permaculture
 - [[biochar]] — Charcoal-based soil amendment with similar carbon sequestration benefits
 - [[sheet-mulching]] — Surface composting technique often used in combination with hugelkultur
-- [[swales]] — Water-harvesting earthworks complementary to hugel beds
+- [[gaias-garden-swales-and-berms-construction]] — Water-harvesting earthworks complementary to hugel beds

@@ -146,4 +146,4 @@ Primary risks include:
 - [[psilocybe-azurescens]] — More potent relative from the Pacific Northwest
 - [[psilocybe-semilanceata]] — "Liberty cap"; native to Europe
 - [[mycology]] — Study of fungi
-- [[entheogen]] — Psychoactive substances used in spiritual contexts
+- [[entheogen-etymology-and-terminology]] — Psychoactive substances used in spiritual contexts

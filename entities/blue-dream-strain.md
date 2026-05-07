@@ -139,7 +139,7 @@ As of the mid-2020s, Blue Dream remains one of the top 10 bestselling strains in
 
 ## See Also
 
-- [[Blueberry]] — The indica parent strain by DJ Short
-- [[Haze]] — The legendary sativa parent
-- [[Cannabis Terpenes]] — Overview of terpene profiles and their effects
-- [[Sativa vs Indica]] — Understanding the hybrid spectrum
+- [[blueberry-cannabis]] — The indica parent strain by DJ Short
+- [[haze-lineage-and-history]] — The legendary sativa parent
+- [[cannabis-terpene-profiles]] — Overview of terpene profiles and their effects
+- [[comparison-cannabis-sativa-vs-cannabis-indica]] — Understanding the hybrid spectrum

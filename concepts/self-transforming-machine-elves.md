@@ -92,7 +92,7 @@ The elves may be manifestations of what McKenna called the Logos, a transhuman, 
 
 ## Relation to Other Entity Encounters
 
-McKenna noted that the motif of DMT entities is absent from the iconographic traditions familiar to him, including [[Hinduism|Hindu]] iconography and the thankas of Mahayana Buddhism.
+McKenna noted that the motif of DMT entities is absent from the iconographic traditions familiar to him, including Hindu iconography and the thankas of Mahayana Buddhism.
 
 He found this absence puzzling given that [[lsd]] experiences contained clear correspondences with Mahayana Buddhist imagery. The uniqueness of the DMT entity motif in human visual and religious tradition contributes to what McKenna called the "black hole effect" surrounding the compound.
 
@@ -122,7 +122,7 @@ The challenge is not to the entity's power but to its authority: "You say you ar
 
 ## The Absence from Art History
 
-One of the most puzzling aspects of the DMT entity encounter is its apparent absence from human art history. McKenna had collected [[Mahayana Buddhism|Mahayana]] thankas and was familiar with [[Hinduism|Hindu]] iconography, and he found clear correspondences between [[lsd]] experiences and these traditions. But the motifs of the DMT experience, including the machine elves, the translinguistic objects, and the hyperdimensional space itself, seemed to have no precedent in any visual tradition known to him.
+One of the most puzzling aspects of the DMT entity encounter is its apparent absence from human art history. McKenna had collected Mahayana thankas and was familiar with Hindu iconography, and he found clear correspondences between [[lsd]] experiences and these traditions. But the motifs of the DMT experience, including the machine elves, the translinguistic objects, and the hyperdimensional space itself, seemed to have no precedent in any visual tradition known to him.
 
 This absence is surprising given the intensity and reproducibility of the DMT experience. If art carries images "out of the Other from the Logos to the world," why is human art history "so devoid of what psychedelic voyagers have experienced so totally?"
 

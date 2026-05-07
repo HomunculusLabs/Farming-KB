@@ -73,7 +73,9 @@ changes.
 
 
 
-## Related Topics
+## Related
+
+- [[god-bud]] Topics
 - [[cannabis-sativa]]
 - [[cannabis-indica]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

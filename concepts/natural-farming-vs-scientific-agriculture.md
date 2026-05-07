@@ -65,7 +65,7 @@ He illustrated this with the metaphor of Mt. Fuji. A scientist who climbs the mo
 
 Fukuoka rejected the scientific framework of cause and effect as applied to natural systems. He argued that in nature, there is no cause and effect, only an endless chain of interwoven events and factors that exceeds human comprehension. Scientific agriculture isolates individual factors, assigns causation, and develops interventions, but this approach necessarily ignores the vast web of relationships that sustains living systems.
 
-He illustrated this with his analysis of [[Pine Disease and Matsutake Mushroom Decline|pine forest decline]]: soil acidity was blamed for tree death, but the acidity came from air pollution, which came from industrial activity, which was driven by economic policy, which was shaped by cultural values. Tracing causes backward leads to an infinite regression with no identifiable origin. The notion that eliminating one "cause" can restore health to a complex system is, in Fukuoka's view, a fundamental error of the scientific mindset.
+He illustrated this with his analysis of pine forest decline: soil acidity was blamed for tree death, but the acidity came from air pollution, which came from industrial activity, which was driven by economic policy, which was shaped by cultural values. Tracing causes backward leads to an infinite regression with no identifiable origin. The notion that eliminating one "cause" can restore health to a complex system is, in Fukuoka's view, a fundamental error of the scientific mindset.
 
 ### The Insignificance of Human Knowledge
 

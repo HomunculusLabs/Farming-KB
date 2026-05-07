@@ -36,7 +36,7 @@ The transition is the hardest part. Here's what to expect year by year:
 
 - **Year 1:** Soil structure is still loose from years of tillage. Seedbeds may be surprisingly good, but weed pressure spikes as the soil seed bank is brought to the surface by prior disturbance. Soil biology is depleted — expect reduced nutrient cycling.
 - **Year 2–3:** Soil begins to compact naturally (this is normal and desirable). Surface crusting can be an issue if residue cover is thin. Earthworm populations start increasing noticeably. Aggregate stability begins improving.
-- **Year 3–4:** Organic matter starts accumulating in the top 2–3 inches. Water infiltration visibly improves. [[Mycorrhiza|mycorrhizal]] colonization of crop roots increases, improving phosphorus uptake.
+- **Year 3–4:** Organic matter starts accumulating in the top 2–3 inches. Water infiltration visibly improves. [[mycorrhizal-symbiosis|mycorrhizal]] colonization of crop roots increases, improving phosphorus uptake.
 - **Year 5+:** The soil food web is well-established. Residue decomposes faster due to higher biological activity. Yields typically match or exceed conventional systems. Soil holds significantly more plant-available water.
 
 The key metric to watch is aggregate stability, not just organic matter percentage. Use a slake test to track progress.
@@ -87,7 +87,7 @@ What you can **sell or stop using:** moldboard plow, chisel plow, disc harrow, f
 
 - **Phosphorus and potassium:** Soil test and apply only what's needed. Surface application without incorporation is effective in no-till because the [[soil food web]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
 - **Nitrogen:** Expect a temporary nitrogen immobilization in years 1–2 as soil microbes break down residue. Increase N rates by 20–30 lbs/acre above conventional recommendations during this period. Legume cover crops can offset this by year 3+.
-- **[[Compost|Compost]] and manure:** Surface-applied compost or composted manure feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
+- **Compost and manure:** Surface-applied compost or composted manure feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
 - **pH management:** No-till soils tend to acidify at the surface. Monitor pH in the top 3 inches separately and apply lime accordingly. Pelletized lime is easier to surface-apply effectively.
 
 ## Common mistakes and pitfalls to avoid

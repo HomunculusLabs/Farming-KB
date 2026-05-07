@@ -1,0 +1,122 @@
+---
+title: Dharma Wheel Theory of Flux - Alternative to Darwinian Evolution
+tags:
+  - philosophy
+  - evolution
+  - biology
+  - natural-farming
+  - genetics
+  - fukuoka
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - masanobu-fukuoka-sowing-seeds-in-the-desert.md
+---
+
+# Dharma Wheel Theory of Flux in All Things
+
+## Overview
+
+The **Dharma Wheel Theory of Flux in All Things** is Masanobu Fukuoka's alternative to Darwin's theory of natural selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
+
+## Critique of Darwin's Theory
+
+Fukuoka raised several fundamental objections to Darwinian evolution:
+
+### The Problem of Superiority and Inferiority
+
+He questioned the basis for classifying species as "higher" or "lower," "strong" or "weak." Determining that the survival of the fittest is nature's providence and that humans are the highest, most evolved species reflects "the strongman logic of human beings" rather than the true state of nature. All living things depend on one another to survive, reproduce, and eventually decompose.
+
+### Fragmentation of Unity
+
+Darwin's theory breaks down Earth's 4.6 billion years into fragments of time and location, then classifies and systematizes organisms based on their differences. Species that were originally "brothers and sisters" became divided in people's thinking by being made into distinctly different things.
+
+### The Linear Time Assumption
+
+Darwin's theory relies on a concept of historical, linear time — the idea of time flowing in a straight line from past through present to future. Fukuoka argued this is a human invention created by the calendar and clock, not the way time actually exists in nature.
+
+## The Seto Inland Sea Metaphor
+
+Fukuoka used the islands of Japan's Seto Inland Sea to illustrate his theory:
+
+- The many islands have various shapes and different names and appear to be separate
+- But they are all connected at the bottom of the sea — they are really one single "island of Japan"
+- On a larger scale, they are connected to all islands and continents through the earth's crust
+- Similarly, animals and plants appear different but are all connected at the base
+
+Whether genes survive, "surfacing like islands floating in the Inland Sea," or sink beneath the water depends on the arrangement of genes and the constant rearrangement of subatomic particles.
+
+## True Time and Space
+
+Fukuoka distinguished between human time and transcendent time:
+
+**Human time** is linear — past, present, future — measured in minutes and seconds. It is an invention of clocks and calendars.
+
+**Transcendent time**, or time as it exists in nature, is a continuous moment of the present. Time does not flow mechanically in a straight line. It flows up and down, right and left, forward and backward — multifaceted and three-dimensional. The past is concealed within the instant of the present, and within this instant is concealed the eternity of the future.
+
+He illustrated this with a river: standing on the bank, water flows in one direction. But in a boat moving at the same speed as the water, the river does not seem to flow at all — the bank appears to move upstream. "The river does not flow. The bridge flows."
+
+## The Rising and Sinking of Genes
+
+Fukuoka's background as a microbiologist informed his genetic theory:
+
+- The fact that DNA structure and genetic code are the same for all living things indicates they are fundamentally related
+- Proteins serve as the liaison between living and nonliving forms
+- Whether something becomes a plant or a human being is a question of whether genetic factors "surface" or "sink"
+- Only a small portion of possible genetic combinations have successfully come into being; most are lost or dormant
+
+The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An acacia tree produces millions of seeds, each with distinctive genetic makeup, but after ten years perhaps only one or two trees survive as descendants — yet all the others were also possible.
+
+## The Alternative Creation Story
+
+Fukuoka offered a creation narrative as an alternative to Darwin:
+
+1. The Creator rolled the seeds of every living thing into clay pellets and gave them to messengers to scatter randomly
+2. Some seeds were programmed to become active soon after Earth's birth; others for water, mountains, or deserts
+3. Seeds designed to become human beings were made to come to life during later ages
+4. Millions of seeds were broadcast at one time — microorganisms, plants, and animals all appeared simultaneously
+5. Living things bearing similar genes manifested differently: some became forest trees, others the birds that lived in them
+
+The key difference from Darwin is the conception of time: "Millions and millions of years appear as a momentary flash." The innumerable varieties of living things did not originate at different times in different places, but rather at the same time and in the same place.
+
+## The Structure of the Dharma Wheel
+
+The dharma wheel represents natural law as:
+
+- **Three-dimensional**: expanding in all directions, developing and contracting simultaneously
+- **Spinning**: like the universe, heading in an unknown direction
+- **Converging and diverging**: the center hub is forever motionless and forever one
+- **Unified at the base**: instead of seeing distinctions among things, the purpose of all things is the same
+
+At creation, Earth and all living things were born as a single, unified body with a common fate. Everything regarding the roles, aims, and work of each originated and was concluded in the same instant. All things were designed so that one is many, the individual is the whole, the whole is perfect, there is no waste, nothing is useless, and all things perform their best service.
+
+## Implications for Natural Farming
+
+This theory has direct agricultural implications:
+
+- Since all living things are fundamentally one, harming plants, microorganisms, and insects through conventional agriculture means harming humanity
+- The classification of plants into species, genus, family, and order is an imposition and of no use
+- People do not need to create new varieties by artificial crossbreeding — insects create new varieties naturally in chemical-free fields
+- Genetic engineering is "the mad course" — unnecessary and dangerous
+
+## Relationship to Mu Philosophy
+
+The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-mu-philosophy]]: when one sees and operates within transcendent time and space, it is the unity of all things that is perceived, not their divisions. The theory rejects the discriminating, analytical knowledge that Fukuoka saw as the fundamental error of Western science.
+
+## The Cave of the Intellect Connection
+
+The Dharma Wheel Theory directly opposes what Fukuoka called "the cave of the intellect" — his brush-and-ink illustration showing two men toiling in a pit swinging pickaxes that represent the human intellect. The more they swing, the deeper the pit gets and the harder it is to escape. Darwin's theory of evolution, which breaks nature into fragments and classifies them in linear sequence, is itself an example of digging deeper into the cave of the intellect. Outside the cave, a person relaxes in sunlight, free from the drudgery of trying to understand nature through analysis, simply enjoying life while providing necessities through natural farming.
+
+## Fukuoka's Conversation with Fritjof Capra
+
+The Dharma Wheel Theory was informed by Fukuoka's meeting with Fritjof Capra, a professor of theoretical physics at UC Berkeley who was troubled that current theories of subatomic particles appeared incomplete. Capra had found hints in the Taoist concept of yin and yang and had likened the dance of subatomic particles to the dance of the Indian god Shiva, but could not find the fundamental principle.
+
+Fukuoka suggested the problem was in believing that human knowledge could fully comprehend nature. When he mentioned this limitation, Capra countered: "I've written more than ten books, but haven't you written books, too, thinking knowledge was useful?" Fukuoka responded that he wrote his books believing they were not useful at all, while Capra wrote believing they would help others. Both were investigating nature and yearning for a return to it, but on the question of affirming or negating human knowledge, they were moving in opposite directions.
+
+## See Also
+
+- [[fukuoka-critique-of-scientific-agriculture]]
+- [[fukuoka-dharmic-law-all-things-return-to-one]]
+- [[fukuoka-dharma-wheel-civilization-collapse]]
+- [[fukuoka-mu-philosophy]]
+- [[fukuoka-insects-natural-crossbreeding]]

@@ -2,146 +2,142 @@
 title: Paul Stamets
 type: person
 tags:
-  - mycology
-  - permaculture
-  - fungal-ecology
-  - medicinal-mushrooms
+  - mycologist
   - mycoremediation
+  - permaculture
+  - medicinal-mushrooms
   - author
-  - environmental-activism
+  - fungi-perfecti
+  - psilocybin-research
+  - TED
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (2005). Mycelium Running: How Mushrooms Can Help Save the World. Ten Speed Press.
+  - https://fungi.com/about-us/paul-stamets/
+  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
   - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
-  - Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
-  - TED Talk: "6 Ways Mushrooms Can Save the World" (2008)
-  - Fungi Perfecti company records and patent filings
+  - Stamets, P. & Zwickey, H. (2014). "Phase I clinical trial of Trametes versicolor in breast cancer." ISRN Oncology.
+  - Stamets, P. (2023). "Fungal inventions and intellectual property." Mycologia.
 ---
 
 # Paul Stamets
 
-**Paul Edward Stamets** (born July 17, 1955) is an American mycologist, author, entrepreneur, and advocate for the ecological and medicinal applications of fungi. He is widely regarded as the most influential popularizer of mycology in the modern era, known for his pioneering research on **mycoremediation**, **medicinal mushrooms**, and the ecological intelligence of fungal networks. Stamets operates Fungi Perfecti, LLC, a company specializing in gourmet and medicinal mushroom products, from his facility in Shelton, Washington.
+## Overview
+
+**Paul Stamets** (born 1955, Sultan, Washington) is an American mycologist, author, and entrepreneur widely regarded as the most influential figure in modern applied mycology. He is the founder of **[[stamets-paul|Fungi Perfecti]]**, a specialty mushroom company, and has authored six books on mushroom cultivation, identification, and applications. Stamets has been instrumental in advancing the fields of **mycoremediation** (using fungi to degrade environmental pollutants), **medicinal mushroom science**, and the broader concept of fungi as ecological engineers.
+
+His 2008 TED talk, "6 Ways Mushrooms Can Save the World," has been viewed over 8 million times and introduced millions to the ecological significance of the fungal kingdom.
 
 ## Biography
 
 ### Early Life and Education
-Born in 1955 in Columbiana, Ohio, Stamets developed an interest in mycology after discovering Psilocybe cubensis in a Florida cow pasture as a teenager. He attended The Evergreen State College in Olympia, Washington, studying ethnomycology under Dr. Andrew Weil. His thesis, "Psilocybe Mushrooms and Their Allies," laid groundwork for his first major publication.
 
-### Career Timeline
+Stamets was born in 1955 and grew up in Ohio and Washington state. He developed an early interest in natural history, particularly entomology, but was drawn to mycology as a teenager after discovering psilocybin mushrooms growing in the forests of the Pacific Northwest.
 
-| Year | Milestone |
-|------|-----------|
-| 1976 | Began formal study of psilocybin mushrooms; first field work |
-| 1978 | Discovered and named *Psilocybe stametsii*, *Psilocybe azurescens*, and other species |
-| 1983 | Co-authored *The Mushroom Cultivator* with J.S. Chilton — became the definitive guide |
-| 1986 | Founded Fungi Perfecti, LLC |
-| 1996 | Published *Psilocybin Mushrooms of the World* — comprehensive field guide |
-| 2005 | Published *Mycelium Running* — seminal work on fungal ecology |
-| 2006 | Named one of Utne Reader's "50 Visionaries Who Are Changing Your World" |
-| 2008 | Delivered TED Talk "6 Ways Mushrooms Can Save the World" (over 7 million views) |
-| 2014 | Received the Invention Ambassador award from the AAAS |
-| 2018 | Published research on cordycepin-infused mycelium as a biopesticide (Washington State University collaboration) |
-| 2020 | Launched Host Defense Organic Mushrooms product line (major national retail expansion) |
-| 2022 | Starred in *Fantastic Fungi* documentary (Louie Schwartzberg) |
+He studied at the **Evergreen State College** in Olympia, Washington, where he began formal research into the cultivation and taxonomy of psilocybin-containing mushrooms. His undergraduate thesis work became the foundation for his first book, *Psilocybin Mushrooms of the World*.
+
+### Career
+
+Stamets founded **Fungi Perfecti** in 1980 from his home in Kamilche, Washington. The company began as a small supplier of exotic mushroom cultures and has grown into a major producer of mushroom-based supplements, growing kits, and mycological products.
+
+He holds over **30 patents** related to fungal technologies, including methods for:
+
+- Pest control using entomopathogenic fungi
+- Mycoremediation of petroleum and chemical contaminants
+- Antiviral properties of mushroom extracts
+- Mushroom-based packaging materials
+- Methods for cultivating rare and medicinal mushroom species
 
 ## Major Contributions
 
 ### Mycoremediation
-Stamets coined the term **mycoremediation** and pioneered the use of fungi for environmental cleanup:
 
-- **Hydrocarbon degradation:** Demonstrated that *Pleurotus ostreatus* (oyster mushroom) mycelium can break down diesel fuel and petroleum hydrocarbons in contaminated soil, converting toxic compounds into non-toxic biomass
-- **Heavy metal filtration:** Developed mycofiltration systems using mycelial mats to filter agricultural runoff, capturing E. coli and excess nutrients before they reach waterways
-- **Pesticide degradation:** Published research showing fungal mycelium can break down persistent organophosphate pesticides
-- **Bioremediation patents:** Holds multiple patents on fungal-based environmental remediation technologies
+Stamets coined and popularized the term **mycoremediation** — the use of fungi to degrade, sequester, or otherwise remove environmental contaminants. His work has demonstrated fungal degradation of:
 
-Key concept: Stamets proposes that **mycelial networks** function as nature's internet — a biological web that transfers nutrients, chemical signals, and information across ecosystems. He popularized the term "mycelial mat" to describe the extensive underground networks that connect forest ecosystems.
+- **Petroleum hydrocarbons:** *Pleurotus ostreatus* (oyster mushroom) degrades diesel fuel and motor oil, converting toxic polycyclic aromatic hydrocarbons (PAHs) into non-toxic compost
+- **PCBs (polychlorinated biphenyls):** White-rot fungi (*Phanerochaete chrysosporium*, *Trametes versicolor*) produce lignin-degrading peroxidase enzymes that break down these persistent pollutants
+- **Heavy metals:** Mycelial mats can bioaccumulate and sequester heavy metals including lead, cadmium, and arsenic from contaminated soils
+- **PAHs and dioxins:** *Pleurotus* species demonstrate significant degradation of these recalcitrant compounds in field trials
+
+The **Battelle Marine Sciences Laboratory** conducted EPA-funded research confirming Stamets' methods, demonstrating 90%+ reduction of petroleum contaminants in soil using mycelial inoculation.
 
 ### Medicinal Mushroom Research
-Stamets has been instrumental in bringing medicinal mushrooms into mainstream awareness:
 
-- **Lion's Mane (*Hericium erinaceus*):** Advocated for its neuroprotective and cognitive-enhancing properties; collaborated with clinical researchers on NGF-stimulating effects of erinacines and hericenones
-- **Turkey Tail (*Trametes versicolor*):** Championed its immunomodulatory properties; his mother's recovery from breast cancer (using turkey tail alongside chemotherapy) became a widely cited anecdote
-- **Reishi (*Ganoderma lucidum*):** Promoted for its adaptogenic and anti-inflammatory properties
-- **Chaga (*Inonotus obliquus*):** Popularized as an antioxidant-rich functional food
-- **Cordyceps (*Cordyceps militaris*):** Advocated for athletic performance and energy enhancement
+Stamets has been a leading advocate for the therapeutic potential of mushrooms, particularly:
 
-### Biopesticide Innovation
-Stamets' research on entomopathogenic fungi led to the development of a novel approach to pest management:
+- **Turkey Tail (*Trametes versicolor*):** Co-authored a Phase I clinical trial (2014) demonstrating that turkey tail preparations improved immune function in breast cancer patients receiving chemotherapy. PSK (polysaccharide-K), derived from turkey tail, is an approved cancer adjunct therapy in Japan.
+- **Lion's Mane (*Hericium erinaceus*):** Promoted research into neuroregenerative compounds (hericenones, erinacines) and their potential for treating neurodegenerative diseases
+- **Reishi (*Ganoderma lucidum*):** Advanced understanding of immunomodulatory beta-glucans and triterpenes
+- **Chaga (*Inonotus obliquus*):** Researched antioxidant properties and potential anti-cancer activity
 
-- **Mycotized insects:** Discovered that bees exposed to *Metarhizium anisopliae* (a natural fungal pathogen of insects) and extracts of *Trametes versicolor* (turkey tail mushroom) showed dramatically reduced viral loads
-- **Patented anti-viral bee feed:** US Patent 10,287,319 (2019) covers compositions of mycelial extracts that activate bee immune systems, potentially addressing colony collapse disorder
-- **Targeted pest control:** Developed methods for attracting insect pests to fungal "traps" as an alternative to chemical pesticides
+### Host Defense® Line
 
-### Psilocybin Mushroom Taxonomy
-As a leading field mycologist, Stamets has discovered and described several Psilocybe species:
+Stamets developed the **Host Defense** line of mushroom supplements for Fungi Perfecti, using **mycelium biomass** grown on organic brown rice substrate. The line includes single-species and multi-species formulations targeting immune support, cognitive function, energy, and stress response.
 
-- ***Psilocybe azurescens*:** One of the most potent psilocybin-containing mushrooms, found in the Pacific Northwest coast (Astoria, Oregon area)
-- ***Psilocybe stametsii*:** Named in his honor by mycologist Gastón Guzmán
-- Significant contributions to the taxonomy and identification of Pacific Northwest psilocybin mushrooms
+### Entomopathogenic Fungi for Pest Control
+
+Stamets' patent on using **entomopathogenic fungi** for biological pest control has significant implications for sustainable agriculture:
+
+- *Metarhizium anisopliae* and *Beauveria bassiana* infect and kill insect pests without chemical pesticides
+- Discovered that certain fungi attract insects before infecting them (a "lure-and-kill" strategy)
+- His 2006 patent (US 7,122,176) describes using fungi to control carpenter ants, termites, and other structural pests
+
+### Mycological Beekeeping
+
+Stamets has pioneered research into the **relationship between fungi and pollinator health**:
+
+- Discovered that bees actively forage on mycelial mats growing in decaying wood
+- Hypothesized that exposure to mushroom-derived compounds boosts bee immune function
+- Launched the **BeeFriendly™** initiative, embedding mycelial substrates in beehives to test effects on colony health and resistance to deformed wing virus and Varroa mites
+- Preliminary results show significant reductions in viral loads in treated hives
+
+### Psilocybin Mushroom Research and Advocacy
+
+Stamets began his career studying psilocybin mushrooms and has remained a prominent advocate for their therapeutic potential:
+
+- Authored *Psilocybin Mushrooms of the World* (1996), the definitive field guide
+- Discovered and named several *Psilocybe* species, including *Psilocybe azurescens* (1996), among the most potent psilocybin mushrooms known
+- Proposed the **"Stamets Stack"** — a combination of psilocybin mushrooms with lion's mane (for neurogenesis), niacin (for vasodilation and delivery), and optionally *Bacopa monnieri* (for memory consolidation). This protocol aims to promote neurogenesis and repair neural damage
+- His 2023 patent application on nootropic mushroom-psychedelic combinations has attracted significant scientific and public attention
 
 ## Published Works
 
-### Books
-1. ***The Mushroom Cultivator*** (1983, with J.S. Chilton) — Comprehensive guide to growing mushrooms at home and commercially. Considered the foundational text for amateur and professional cultivators.
-2. ***Psilocybin Mushrooms of the World*** (1996) — Definitive field guide to psychoactive mushrooms worldwide. Covers identification, cultivation, and cultural history of over 100 species.
-3. ***Growing Gourmet and Medicinal Mushrooms*** (2000) — Expanded cultivation guide covering 25+ species with detailed techniques.
-4. ***Mycelium Running: How Mushrooms Can Save the World*** (2005) — Most influential work. Proposes fungi as solutions for ecological restoration, medicine, and sustainable technology.
+1. **Psilocybin Mushrooms of the World** (1996) — Comprehensive field guide and identification manual for psilocybin-containing fungi worldwide
+2. **Growing Gourmet and Medicinal Mushrooms** (1993, 3rd ed. 2000) — The standard reference for indoor and outdoor mushroom cultivation
+3. **Mycelium Running: How Mushrooms Can Help Save the World** (2005) — Landmark work on mycoremediation, mycoforestry, and ecological applications of fungi
+4. **The Mushroom Cultivator** (1983, with J.S. Chilton) — Foundational technical manual for small-scale commercial mushroom cultivation
+5. **Psilocybe Mushrooms and Their Allies** (1978) — Early monograph on psilocybin mushroom taxonomy and cultivation
+6. **Fantastic Fungi** (2019, companion book to the documentary) — Photographic and scientific overview of the fungal kingdom
 
-### Key Patents
-- US 6,660,431: Mycological pest control method
-- US 7,122,176: Mycological filtration of water
-- US 10,287,319: Mycelium extracts for bee health (anti-viral)
+## Awards and Recognition
 
-## Key Concepts and Frameworks
+- **Innovator of the Year** (2008), National Geographic Society
+- **TED Speaker** (2008, 2014) — "6 Ways Mushrooms Can Save the World"; "3 Ways the Mushroom Kingdom Can Save Us"
+- **NGO/Environmental Award** (2010), Boulder International Film Festival
+- **Rachel Carson Award** (2020), National Audubon Society
+- Elected Fellow, **The Explorers Club** (2018)
+- **Honorary Doctorate**, California Institute of Integral Studies (2022)
 
-### Mycological Solutions Framework
-Stamets proposes **"mycological solutions"** across six domains:
+## Influence on Permaculture
 
-1. **Mycorestoration** — Ecosystem repair using fungal communities
-2. **Mycoforestry** — Sustainable forestry practices incorporating mycelial networks
-3. **Mycoremediation** — Fungal degradation of environmental pollutants
-4. **Mycofiltration** — Mycelial-based water and soil filtration
-5. **Mycopesticides** — Biological pest control using entomopathogenic fungi
-6. **Mycelial permaculture** — Integration of fungi into food production systems
+Stamets' work has profoundly influenced the permaculture movement:
 
-### The Wood Wide Web
-Stamets was an early popularizer of the concept that forest fungal networks (mycorrhizal mycelium) facilitate communication and resource sharing between trees. While the science has been refined (Suzanne Simard's work at UBC is the primary academic source), Stamets' accessible framing brought this concept to millions.
+- **Mycological forestry:** Integrating mushroom cultivation into food forests and agroforestry systems
+- **Garden giants (*Stropharia rugosoannulata*):** Stamets championed this species for its ability to filter runoff, break down wood chips, and produce edible mushrooms in garden pathways
+- **Wood chip pathways:** Popularized the use of inoculated wood chip mulch for both path creation and mushroom production
+- **Species stacking:** Advocated for multi-species fungal inoculation to maximize ecological function (decomposition, nutrient cycling, plant partnership, biological pest control)
+- **Mycorrhizal networks:** While not the originator of the "wood wide web" concept, Stamets' popular writing brought fungal network ecology to mainstream awareness
 
-## Influence and Reception
+## Criticism and Controversy
 
-### Scientific Community
-- Work widely respected, though some academics critique oversimplification or premature claims
-- Mycoremediation validated by researchers at WSU, UW, and EPA
-- Published in *Applied and Environmental Microbiology*, *Mycologia*, *PLOS One*
-
-### Cultural Impact
-- The TED Talk brought fungal ecology into mainstream environmental discourse
-- *Fantastic Fungi* documentary (2019) featured Stamets as a central figure, reaching millions
-- His books are among the best-selling mycology texts in history
-- The "Save the Bees" mycelial feed technology attracted significant media attention and commercial interest
-- His advocacy contributed to the growing acceptance of medicinal mushrooms in Western health and wellness markets
-
-### Criticism
-- Some scientists argue premature extrapolation from lab to field conditions
-- Mycorrhizal "communication" claims challenged as anthropomorphizing (Suzanne Simard is primary academic source)
-- Host Defense commercial success drew quality control and marketing scrutiny
-- Psilocybin advocacy historically controversial, increasingly accepted
-
-## Personal Philosophy
-
-Stamets views fungi as **"nature's recycling system"** and argues that human civilization can learn from fungal networks' principles of cooperation, interconnectedness, and sustainability. He frequently states:
-
-> "The mycelial network is the neurological network of nature. The Earth's immune system is the mycelial network."
-
-His work is driven by a conviction that fungal biotechnology can address multiple planetary crises simultaneously — climate change, pollution, biodiversity loss, and human health.
-
-- **Award:** Invention Ambassador, AAAS; Utne Reader "50 Visionaries" (2006); TED Talk with 7M+ views
+- **Host Defense mycelium controversy:** Some independent analyses have questioned whether mycelium-grown-on-rice supplements contain significant levels of the beta-glucans and triterpenes found in fruiting body preparations. Stamets maintains that the mycelium biomass contains unique bioactive compounds not present in fruiting bodies alone.
+- **Extrapolation of preliminary data:** Critics note that some of Stamets' environmental claims (e.g., regarding mycoremediation at scale) are based on limited field trials and lab studies that may not translate directly to field conditions.
+- **Commercial interests:** As both researcher and product vendor, Stamets' dual role has drawn scrutiny regarding potential conflicts of interest.
 
 ## See Also
 
-- [[Mycelium]] — The vegetative body of fungi, central to Stamets' work
-- [[Mycorrhizal Networks]] — Symbiotic associations between fungi and plant roots
-- [[Mycoremediation]] — Use of fungi for environmental cleanup
-- [[Fungi Perfecti]] — Stamets' company
-- [[Psilocybe azurescens]] — Species discovered by Stamets
+- [[Hericium-erinaceus]] — Lion's Mane, key research species
+- [[Psilocybe-azurescens]] — species discovered by Stamets
+- [[Trametes-versicolor]] — Turkey Tail, medicinal research
+- [[mycoremediation]] — ecological application
+- [[mycelium]] — fungal growth form

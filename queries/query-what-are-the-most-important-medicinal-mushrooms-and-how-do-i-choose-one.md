@@ -156,9 +156,9 @@ When buying medicinal mushroom supplements, these factors separate quality produ
 
 ## See Also
 
-- [[chaga-vs-reishi-medicinal-mushrooms]]
-- [[lions-mane-vs-chaga-medicinal-mushrooms]]
-- [[cordyceps-vs-lions-mane-cultivation]]
-- [[oyster-vs-shiitake-cultivation]]
-- [[how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
-- [[what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
+- [[comparison-chaga-vs-reishi-medicinal]]
+- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
+- [[comparison-cordyceps-vs-lions-mane-cultivation]]
+- [[comparison-oyster-vs-shiitake-cultivation]]
+- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
+- [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]

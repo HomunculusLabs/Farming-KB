@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT or N,N-DMT) is a substituted tryptamine and classical psychedelic compound that occurs naturally in numerous plant species, animals, and potentially within the human body. It is one of the most potent psychoactive substances known, producing intense visionary experiences at very low doses, typically lasting 5–30 minutes when vaporized or injected (the "DMT flash") or 3–6 hours when taken orally with a monoamine oxidase inhibitor (MAOI), as in the Amazonian brew ayahuasca.
+N,N-Dimethyltryptamine (DMT or N,N-DMT) is a substituted tryptamine and classical psychedelic compound that occurs naturally in numerous plant species, animals, and potentially within the human body. It is one of the most potent psychoactive substances known, producing intense visionary experiences at very low doses, typically lasting 5–30 minutes when vaporized or injected (the "DMT flash") or 3–6 hours when taken orally with a monoamine oxidase inhibitor ([[harmala-alkaloids-and-ayahuasca-preparation|MAOI]]), as in the Amazonian brew [[entheogen-ayahuasca-admixture-plants|ayahuasca]].
 
 DMT was first synthesized by the Canadian chemist Richard Manske in 1931 and its psychoactive properties were discovered by the Hungarian chemist Stephen Szára in 1956. It is classified as a Schedule I controlled substance in most jurisdictions.
 
@@ -42,12 +42,12 @@ DMT is a structural analog of serotonin (5-hydroxytryptamine, 5-HT) and melatoni
 ## Pharmacology
 
 ### Mechanism of Action
-DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and mescaline. However, DMT also shows significant binding affinity at several other receptor sites:
+DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the same receptor subtype primarily responsible for the psychedelic effects of LSD, [[psilocybin-mushroom-potency-and-dosage-guide|psilocybin]], and [[mescaline-entity|mescaline]]. However, DMT also shows significant binding affinity at several other receptor sites:
 
 - **5-HT2A:** Primary site of psychedelic action (Ki ≈ 0.084 µM)
 - **5-HT2C:** Modulates anxiety, appetite, and mood
 - **5-HT1A:** May contribute to anxiolytic and prosocial effects
-- **Sigma-1 receptor:** Intracellular chaperone protein; may modulate neuroplasticity and neuroprotection
+- **Sigma-1 receptor:** Intracellular chaperone protein; may modulate [[psilocybin-neuroplasticity|neuroplasticity]] and neuroprotection
 - **Trace amine-associated receptor 1 (TAAR1):** Endogenous amine receptor
 - **SERT (serotonin transporter):** DMT is a substrate for the serotonin transporter
 
@@ -86,7 +86,7 @@ DMT occurs in a wide variety of plant species across multiple families:
 - ***Diplopterys cabrerana* (Chaliponga):** Leaves contain 0.2–0.6% DMT; used in Ecuadorian and Colombian ayahuasca.
 - ***Acacia* species:** Bark and phyllodes of many Australian *Acacia* species contain DMT, including *A. maidenii*, *A. phlebophylla*, and *A. obtusifolia*.
 - ***Desmanthus illinoensis* (Illinois bundleflower):** Root bark contains approximately 0.34% DMT.
-- ***Anadenanthera peregrina* (Yopo):** Seeds contain DMT, 5-MeO-DMT, and bufotenin; traditionally snuffed.
+- ***Anadenanthera peregrina* (Yopo):** Seeds contain DMT, [[5-meo-dmt-entity-tihkal|5-MeO-DMT]], and bufotenin; traditionally snuffed.
 
 ### Animal Sources
 - **Bufo alvarius (Sonoran Desert Toad):** Venom contains 5-MeO-DMT and bufotenin (not DMT itself, but structurally related).

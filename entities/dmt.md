@@ -3,7 +3,7 @@ title: N,N-Dimethyltryptamine
 type: chemical
 tags:
   - psychedelic-compound
-  - tryptamine
+  - [[tryptamine-hallucinogens|tryptamine]]
   - entheogen
   - endogenous-compound
   - schedule-i
@@ -124,6 +124,6 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 ## See Also
 
 - [[5-Methoxy-DMT]] — Related tryptamine with distinct pharmacological profile
-- [[Psilocybin]] — 4-PO-DMT, prodrug psychedelic tryptamine from mushrooms
-- [[Ayahuasca]] — Traditional Amazonian DMT-containing brew
+- [[psilocybin-mushroom-potency-and-dosage-guide]] — 4-PO-DMT, prodrug psychedelic tryptamine from mushrooms
+- [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian DMT-containing brew
 - [[5-HT2A Receptor]] — Primary target mediating psychedelic effects

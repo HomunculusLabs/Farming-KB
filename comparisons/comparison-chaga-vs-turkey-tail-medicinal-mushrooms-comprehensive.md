@@ -176,9 +176,9 @@ Turkey tail and chaga are both exceptional medicinal fungi, but they occupy diff
 
 ## See Also
 
-- [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
-- [[chaga-vs-reishi-medicinal-mushrooms]]
-- [[lions-mane-vs-chaga-medicinal-mushrooms]]
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[medicinal-mushroom-double-extraction-tincture]]
-- [[medicinal-mushrooms-overview]]
+- [[medicinal-mushroom-guide-turkey-tail]]
+- [[comparison-chaga-vs-reishi-medicinal]]
+- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
+- [[reishi-mushroom-medicinal-properties]]
+- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
+- [[medicinal-mushroom-guide-turkey-tail]]

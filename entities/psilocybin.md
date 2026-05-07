@@ -2,191 +2,126 @@
 title: Psilocybin
 type: chemical
 tags:
-  - psychedelic
-  - tryptamine
+  - [[entheogen-culture|psychedelic]]
+  - [[tryptamine-hallucinogens|tryptamine]]
+  - alkaloid
+  - neuropharmacology
+  - psychoactive
   - entheogen
-  - neurochemistry
-  - serotonergic
-  - fungi
-  - mental-health
-  - consciousness
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8403246/
-  - Carhart-Harris, R.L. et al. (2021). "Trial of Psilocybin versus Escitalopram for Depression." NEJM, 384(15), 1402-1411.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews, 68(2), 264-355.
-  - Passie, T. et al. (2002). "The Pharmacology of Psilocybin." Addiction Biology, 7(4), 357-364.
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7871357/
+  - https://pubmed.ncbi.nlm.nih.gov/33148276/
+  - https://www.nature.com/articles/s41386-020-0816-6
 ---
 
 # Psilocybin
 
-## Overview
-
-**Psilocybin** (4-PO-DMT, O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a naturally occurring psychedelic prodrug and serotonergic hallucinogen found in over 200 species of fungi, primarily in the genus *Psilocybe*. Upon ingestion, psilocybin is rapidly dephosphorylated by alkaline phosphatase enzymes into **psilocin** (4-HO-DMT), the pharmacologically active form. Psilocybin has been used for millennia in indigenous ceremonial contexts across Mesoamerica and is currently the subject of a major research renaissance in psychiatry for treating depression, anxiety, PTSD, and substance use disorders.
+**Psilocybin** (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a naturally occurring psychedelic prodrug and serotonergic hallucinogen produced by over 200 species of fungi in the genus *Psilocybe* and related genera. It is dephosphorylated in the body to the pharmacologically active compound psilocin, which acts primarily as a 5-HT₂A receptor agonist.
 
 ## Chemical Properties
 
-| Property | Value |
-|----------|-------|
-| **IUPAC Name** | [3-(2-Dimethylaminoethyl)-1H-indol-4-yl] dihydrogen phosphate |
-| **Molecular Formula** | C₁₂H₁₇N₂O₄P |
-| **Molecular Weight** | 284.25 g/mol |
-| **CAS Number** | 520-52-5 |
-| **Appearance** | White crystalline powder |
-| **Solubility** | Soluble in water; slightly soluble in ethanol |
-| **Melting Point** | 220–228°C (decomposes) |
-| **pKa** | 1.3 (phosphate), 6.5 (amine), 9.9 (phenol) |
+- **Chemical formula:** C₁₂H₁₇N₂O₄P
+- **Molecular weight:** 284.25 g/mol
+- **IUPAC name:** [3-(2-Dimethylaminoethyl)-1H-indol-4-yl] dihydrogen phosphate
+- **SMILES:** COc1cc2[nH]c(CCN(C)C)c(OC)c2cc1OP(=O)(O)O
+- **Appearance:** White to off-white crystalline powder
+- **Solubility:** Soluble in water; slightly soluble in ethanol; insoluble in nonpolar solvents
 
-### Chemical Structure
+Psilocybin is stable in dry storage but undergoes rapid dephosphorylation to psilocin in aqueous solution, particularly at alkaline pH. It is sensitive to light, heat, and oxidation. The phosphate ester bond is readily cleaved by endogenous alkaline phosphatases, primarily in the liver and intestinal mucosa.
 
-Psilocybin is a phosphorylated derivative of psilocin (4-HO-DMT), which is itself the 4-hydroxy analog of DMT (N,N-dimethyltryptamine). The phosphate ester at the 4-position is a prodrug modification that increases water solubility and stability but is rapidly cleaved in vivo.
+## Biosynthesis
 
-```
-HO-P(=O)(OH)-O     ← Phosphate ester (prodrug group)
-    |
-    C4
-    |
-   INDOLE RING — N(CH₃)₂   ← Dimethylamine (basic nitrogen)
-```
+In fungal organisms, psilocybin biosynthesis proceeds from L-tryptophan through a four-enzyme pathway:
+
+1. **L-tryptophan → tryptamine:** Catalyzed by aromatic L-amino acid decarboxylase (AADC).
+2. **Tryptamine → 4-hydroxytryptamine (N-methyl-4-hydroxytryptamine):** Catalyzed by a monooxygenase (PsiH), a cytochrome P450 enzyme.
+3. **4-Hydroxytryptamine → 4-hydroxy-N,N-dimethyltryptamine (norbaeocystin → baeocystin → psilocin):** Sequential N-methylation by an N-methyltransferase (PsiM) using S-adenosylmethionine (SAM) as the methyl donor.
+4. **Psilocin → psilocybin:** Phosphorylation by a 4-hydroxytryptamine kinase (PsiK) using ATP.
+
+The biosynthetic gene cluster was first characterized in *Psilocybe cubensis* by Fricke et al. (2017), revealing that the pathway is conserved across psilocybin-producing fungal lineages despite considerable phylogenetic divergence, suggesting possible horizontal gene transfer events.
 
 ## Pharmacology
 
-### Metabolism
+### Pharmacokinetics
 
-After oral administration, psilocybin undergoes rapid first-pass metabolism:
+After oral administration, psilocybin is rapidly absorbed (Tmax ≈ 40–60 minutes) and dephosphorylated to psilocin by alkaline phosphatases. Psilocin undergoes first-pass metabolism primarily via hepatic glucuronidation by UGT1A10 and UGT1A9 to form psilocin-O-glucuronide, the major urinary metabolite. Other minor metabolites include 4-hydroxyindoleacetic acid (4-HIAA) and various N-oxide derivatives.
 
-1. **Dephosphorylation:** Alkaline phosphatase (primarily in the intestinal mucosa and liver) converts psilocybin → psilocin
-2. **Glucuronidation:** Psilocin is conjugated with glucuronic acid by UGT1A10 (intestinal) and UGT1A9 (hepatic) to form **psilocin-O-glucuronide**, the primary inactive metabolite
-3. **Excretion:** ~65% excreted in urine as psilocin-O-glucuronide within 24 hours
+- **Bioavailability:** ~50% (oral), subject to extensive first-pass metabolism
+- **Plasma half-life of psilocin:** 2–3 hours
+- **Volume of distribution:** ~5.5 L/kg (extensive tissue distribution, including CNS)
+- **Plasma protein binding:** ~43%
 
-- **Onset of action:** 20–60 minutes post-ingestion
-- **Peak plasma concentration:** 60–90 minutes
-- **Duration of effect:** 4–6 hours
-- **Elimination half-life:** ~2.5 hours (psilocin)
+### Mechanism of Action
 
-### Receptor Pharmacology
+Psilocin is a partial agonist at the serotonin 5-HT₂A receptor (Ki ≈ 6 nM), which is considered the primary receptor mediating its psychedelic effects. Additional receptor interactions include:
 
-Psilocin is a **partial agonist** at serotonin 5-HT₂A receptors (Kᵢ ≈ 6–10 nM), which is the primary receptor responsible for its psychedelic effects. Additional receptor interactions include:
+- **5-HT₂C receptor:** Partial agonist (Ki ≈ 12 nM) — contributes to anxiogenic and stimulant effects
+- **5-HT₁A receptor:** Weak partial agonist (Ki ≈ 190 nM) — may contribute to anxiolytic and prosocial effects
+- **5-HT₂B receptor:** Agonist — potential cardiovascular safety concern
+- **σ-1 receptor:** Low affinity binding
 
-| Receptor | Action | Kᵢ / EC₅₀ | Significance |
-|----------|--------|-----------|-------------|
-| 5-HT₂A | Partial agonist | ~6 nM | Primary psychedelic mechanism |
-| 5-HT₂C | Partial agonist | ~25 nM | Anxiety, appetite effects |
-| 5-HT₁A | Partial agonist | ~190 nM | Mood, anxiolysis |
-| 5-HT₂B | Agonist | ~15 nM | Cardiac valve concerns at chronic doses |
-| 5-HT₇ | Agonist | ~40 nM | Circadian rhythm, thermoregulation |
-| Sigma-1 | Agonist | Low affinity | Neuroprotection |
-| TAAR1 | Agonist | Unknown | Trace amine signaling |
+The 5-HT₂A receptor is densely expressed in cortical layer V pyramidal neurons. Activation leads to increased cortical excitability, disruption of default mode network (DMN) connectivity, and enhanced cross-modal neural communication. Functional neuroimaging studies consistently show decreased functional connectivity within the DMN and increased global connectivity during the psychedelic state, correlating with subjective reports of ego dissolution and altered self-referential processing.
 
-### Neural Mechanisms of Psychedelic Action
+## Psychological Effects
 
-Current understanding of psilocybin's therapeutic mechanism centers on:
+The subjective effects of psilocybin are dose-dependent and profoundly influenced by set (psychological state and expectations) and setting (physical and social environment):
 
-1. **Cortical Entropy Increase:** fMRI studies show psilocybin increases the signal complexity and entropy of cortical activity, disrupting the default mode network (DMN) — a brain network associated with self-referential thinking and rumination
-2. **Global Brain Connectivity:** Enhanced functional connectivity between brain regions that are normally segregated, promoting novel associations and cognitive flexibility
-3. **DMN Disintegration:** Reduced DMN integrity correlates with the subjective experience of ego dissolution and mystical-type experiences
-4. **Neuroplasticity Promotion:** Preclinical evidence shows psilocybin promotes dendritic spine growth and increased synaptic density in the prefrontal cortex, mediated by 5-HT₂A-induced BDNF/TrkB signaling
-5. **Glutamate Release:** 5-HT₂A activation on cortical pyramidal neurons triggers glutamate release, amplifying the cascade of downstream effects
+### Acute Effects (Onset 20–60 min, Duration 4–6 hours)
+- Visual hallucinations: geometric patterns, color intensification, synesthesia
+- Altered perception of time and space
+- Ego dissolution or "mystical-type experiences"
+- Enhanced emotional sensitivity and introspection
+- Modified sense of meaning and self-reference
+- Sometimes anxiety or dysphoria (more common in unsupportive settings)
 
-## Clinical Research
+### Mystical-Type Experiences
+A validated instrument, the Mystical Experience Questionnaire (MEQ30), has been used in clinical trials to quantify the intensity of psilocybin-induced mystical experiences. High MEQ30 scores have been shown to predict long-term positive outcomes in therapeutic settings, including sustained increases in openness, gratitude, and prosocial attitudes.
+
+## Therapeutic Applications
 
 ### Treatment-Resistant Depression
 
-The most advanced clinical application is for treatment-resistant depression (TRD):
+A Phase II clinical trial (Carhart-Harris et al., 2016; Griffiths et al., 2016) demonstrated that a single dose of psilocybin (10 mg and 25 mg, one week apart) produced rapid and sustained antidepressant effects in patients with treatment-resistant depression. The FDA granted Breakthrough Therapy designation to psilocybin for major depressive disorder in 2018.
 
-- **Carhart-Harris et al. (2016):** Open-label pilot study at Imperial College London demonstrated significant antidepressant effects at 1-week and 3-month follow-up after a single 10mg/25mg dose session
-- **COMPASS Pathways Phase IIb (2021):** Largest psilocybin trial to date (n=233) showed 25mg psilocybin achieved a mean reduction of 17.8 points on the MADRS depression scale vs. 4.2 points for 1mg control at week 3
-- **Carhart-Harris et al. (2021, NEJM):** Psilocybin (25mg) vs. escitalopram (SSRI) for depression — psilocybin showed numerically greater but not statistically significant improvement on the QIDS-SR-16 primary endpoint; however, secondary outcomes favored psilocybin
+The largest clinical trial to date (COMPASS Pathways Phase IIb, 2021) investigated psilocybin (1 mg, 10 mg, 25 mg) in 233 patients with treatment-resistant depression. The 25 mg group showed a statistically significant reduction in MADRS depression scores at week 3 compared to the 1 mg control group (mean difference: −6.6 points), though responses were heterogeneous.
 
-### End-of-Life Anxiety
+### End-of-Life Anxiety and Depression
 
-- **Griffiths et al. (2016, JAMA Psychiatry):** Single high-dose psilocybin session produced significant and sustained decreases in depression and anxiety in patients with life-threatening cancer diagnoses, with effects persisting at 6-month follow-up
-- **Ross et al. (2016, JNPI):** Similar results with end-of-life psychiatric distress, with 83% of participants reporting increased well-being at 4.5 months
+Two landmark randomized controlled trials (Ross et al., 2016; Griffiths et al., 2016) demonstrated that a single moderate dose of psilocybin, combined with psychological support, produced significant and sustained reductions in depression and anxiety in patients with life-threatening cancer diagnoses. Effects persisted at 6-month and, in one study, 4.5-year follow-up.
 
 ### Substance Use Disorders
 
-- **Bogenschutz et al. (2022, JAMA Psychiatry):** Phase II trial for alcohol use disorder — psilocybin-assisted therapy (25mg + 40mg sessions) resulted in 48% reduction in heavy drinking days vs. 24% for placebo at 32-week follow-up
-- **Johnson et al. (2014):** Pilot study for smoking cessation showed 80% abstinence rate at 6 months, dramatically exceeding typical quit rates (~35% with varenicline)
+Pilot studies have explored psilocybin for nicotine dependence (Bogenschutz et al., 2015), alcohol use disorder (Bogenschutz et al., 2022), and cocaine use disorder. A 2022 Phase II trial for alcohol use disorder (N=93) found that psilocybin (25 mg/40 mg over two sessions) reduced heavy drinking days by 57% at 32-week follow-up compared to placebo (diphenhydramine).
 
-### PTSD and OCD
+### Obsessive-Compulsive Disorder
 
-Early-stage trials are underway for both conditions. Case reports and open-label studies suggest psilocybin may reduce avoidance behaviors and facilitate emotional processing of traumatic memories.
-
-## Natural Occurrence
-
-Psilocybin is biosynthesized by fungi via the *psiK*, *psiH*, *psiM*, and *psiD* gene cluster:
-
-1. **L-tryptophan → L-tryptamine** (via *psiD*, decarboxylation)
-2. **L-tryptamine → N,N-dimethyltryptamine** (via *psiM*, methylation)
-3. **DMT → 4-hydroxy-DMT (psilocin)** (via *psiH*, monooxygenase)
-4. **Psilocin → psilocybin** (via *psiK*, kinase, phosphorylation)
-
-### Major Psilocybin-Containing Genera
-
-- ***Psilocybe*** — ~150 species, the most well-known genus (*P. cubensis*, *P. semilanceata*, *P. cyanescens*)
-- ***Panaeolus*** — *P. cyanescens* (blue meanies), *P. cinctulus*
-- ***Gymnopilus*** — *G. spectabilis* (big laughing gym)
-- ***Inocybe*** — several species, though identification is dangerous due to toxic lookalikes
-- ***Pluteus*** — *P. salicinus*
-- ***Copelandia*** — tropical species, often very potent
-
-### Potency Ranges (dry weight basis)
-
-| Species | Psilocybin | Psilocin | Baeocystin | Total |
-|---------|-----------|----------|------------|-------|
-| *P. azurescens* | 0.5–1.8% | 0.1–0.6% | 0.05–0.3% | Up to 2.5% |
-| *P. cyanescens* | 0.3–1.5% | 0.1–0.5% | 0.02–0.2% | Up to 2.0% |
-| *P. semilanceata* | 0.2–1.0% | 0.1–0.4% | 0.01–0.15% | Up to 1.5% |
-| *P. cubensis* | 0.3–1.2% | 0.05–0.3% | 0.01–0.1% | Up to 1.5% |
+An early open-label study (Moreno et al., 2006) found that psilocybin produced acute reductions in OCD symptoms in all 9 participants, though the small sample size and open-label design limit conclusions.
 
 ## Legal Status
 
-- **United States:** Schedule I under the Controlled Substances Act. DEA-registered research is permitted. Oregon (Measure 109, 2020) and Colorado (Proposition 122, 2022) have legalized therapeutic use. Several cities have deprioritized enforcement
-- **United Kingdom:** Class A drug under the Misuse of Drugs Act 1971
-- **Netherlands:** Fresh *magic truffles* (sclerotia) remain legal; dried mushrooms banned since 2008
-- **Canada:** Section 56 exemptions granted for end-of-life palliative care; broader access through Health Canada's Special Access Programme since 2022
-- **Australia:** Reclassified as Schedule III (controlled substance) in 2023 for psychiatric use under authorized clinical settings — the first country to reschedule medically
-- **Brazil:** Not explicitly scheduled; personal possession and religious use permitted
-- **Portugal:** Decriminalized for personal use (all drugs since 2001)
+Psilocybin is classified as a Schedule I substance under the 1971 UN Convention on Psychotropic Substances, indicating high potential for abuse and no accepted medical use. National regulations vary:
 
-## Dosage Guidelines
-
-| Level | Psilocybin (mg) | Dried *P. cubensis* (g) | Effects |
-|-------|-----------------|--------------------------|---------|
-| Microdose | 0.1–0.3 | 0.05–0.15 | Sub-perceptual; mood enhancement, focus |
-| Mini-dose | 0.5–1.0 | 0.25–0.5 | Mild sensory enhancement |
-| Low | 2–5 | 1.0–2.5 | Visual patterning, altered cognition |
-| Moderate | 5–10 | 2.5–5.0 | Strong visuals, ego softening |
-| High | 10–20 | 5.0–10.0 | Mystical experiences, ego dissolution |
-| Heroic | 20–30+ | 10.0–15.0+ | Complete ego dissolution, transcendence |
+- **United States:** Schedule I under the Controlled Substances Act. As of 2024, Oregon and Colorado have legalized regulated therapeutic use. Several cities have decriminalized possession.
+- **Canada:** Schedule III under the Controlled Drugs and Substances Act. In 2023, Health Canada granted a Section 56 exemption allowing regulated healthcare practitioners to use psilocybin-assisted [[powell-psilocybin-end-of-life-anxiety|therapy]].
+- **Netherlands:** Fresh psilocybin mushrooms ("truffles") remain legal; dried mushrooms were banned in 2008.
+- **Australia:** Reclassified from Schedule 9 (prohibited) to Schedule 8 (controlled) for psychiatric use by authorized psychiatrists in 2023.
+- **Brazil:** Not specifically scheduled; mushrooms are legal to possess and cultivate.
 
 ## Safety Profile
 
-### Physiological Safety
+Psilocybin has a remarkably favorable physiological safety profile:
 
-- **Lethal dose (LD₅₀):** >600 mg/kg in rats (extremely wide therapeutic index; a lethal human dose is estimated at >100× a typical active dose)
-- **No known organ toxicity** at recreational or clinical doses
-- **No evidence of dependence or addiction** — psilocybin exhibits zero reinforcing properties in animal self-administration studies
+- **LD₅₀ (intravenous, rats):** 285 mg/kg — approximately 1000× a typical recreational dose
+- **No evidence of physiological dependence or addiction**
 - **No significant withdrawal syndrome**
+- **No organ toxicity at therapeutic doses**
 
-### Psychological Risks
+The primary risks are psychological: transient anxiety, panic reactions, and rare cases of prolonged psychosis or hallucinogen persisting perception disorder (HPPD), estimated at <1 in 50,000 users. Screening for personal or family history of psychotic disorders is a standard precaution in clinical settings. Drug-drug interactions are primarily serotonergic: concurrent use with SSRIs attenuates effects, while MAOIs, lithium, and tramadol increase seizure and serotonin syndrome risk.
 
-- **HPPD (Hallucinogen Persisting Perception Disorder):** Rare condition involving persistent visual disturbances; prevalence estimated at 1–4% in regular psychedelic users
-- **Acute anxiety/panic ("bad trip"):** Primarily related to set, setting, and dose. Incidence significantly reduced with proper preparation and integration
-- **Psychosis risk:** Individuals with personal or family history of schizophrenia or bipolar disorder with psychotic features are generally excluded from clinical trials due to theoretical risk of precipitating psychotic episodes
-- **Contradicted myths:** No evidence of chromosomal damage, brain damage, or flashbacks as commonly misunderstood
+## Natural Occurrence
 
-## History and Cultural Significance
+Psilocybin has been identified in over 200 fungal species across multiple genera, most abundantly in *Psilocybe* (*P. cubensis*, *P. semilanceata*, *P. cyanescens*, *P. azurescens*, *P. mexicana*), as well as *Panaeolus*, *Gymnopilus*, *Inocybe*, *Pluteus*, and *Copelandia* species. Concentrations vary widely: *P. azurescens* can contain up to 1.8% psilocybin (dry weight), while *P. cubensis* typically contains 0.5–1.0%.
 
-- **Pre-Columbian use:** Stone mushroom effigies (200–500 CE) found throughout Guatemala, Mexico, and Honduras — the "mushroom stones" of the Maya
-- **Aztec/Teotihuacan:** Called *teonanácatl* ("flesh of the gods") by the Nahua peoples. Used in ceremonial divination and healing rites
-- **Mazatec tradition:** Continued unbroken use by the Mazatec people of Oaxaca, Mexico, notably by curandera María Sabina who introduced psilocybin mushrooms to Western researchers
-- **Western discovery:** R. Gordon Wasson (1957) published his experience in *Life* magazine ("Seeking the Magic Mushroom"), catalyzing global interest
-- **Synthesis:** Albert Hofmann (Sandoz, 1958) first isolated and synthesized psilocybin, subsequently developing it as Indocybin™ for clinical research before it was banned worldwide in the 1970s
-
-## See Also
-
-- [[hericium-erinaceus]] — medicinal mushroom with different neuroactive properties
-- [[paul-stamets]] — mycologist and psychedelic fungi advocate
-- [[psilocybe-cubensis]] — most widely cultivated psilocybin mushroom species
+The ecological function of psilocybin in fungi remains debated. Hypotheses include insect deterrence, anti-microbial defense, and modulation of grazing pressure from herbivores. Recent research (Reynolds et al., 2018) suggests psilocybin may interfere with insect appetite by activating 5-HT₂ receptors in invertebrate nervous systems.

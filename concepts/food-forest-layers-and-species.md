@@ -148,3 +148,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ## Nitrogen Fixers by Layer
 | Layer | Species | Fix Rate (lb N/acre/yr) |
 |-------|---------|------------------------|
+
+## See Also
+
+- [[tropaeolum-tuberosum]]

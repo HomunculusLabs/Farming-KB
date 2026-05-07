@@ -122,6 +122,6 @@ Excellent pollinator plant for butterflies and native bees; goldfinches consume 
 
 ## See Also
 
-- [[Echinacea angustifolia]] — Narrow-leaved coneflower, traditionally preferred by herbalists
-- [[Astragalus membranaceus]] — Chinese adaptogenic herb with complementary immunomodulatory effects
-- [[Sambucus nigra]] — Elderberry, antiviral herb for respiratory infections
+- [[echinacea-purpurea]] — Narrow-leaved coneflower, traditionally preferred by herbalists
+- [[astragalus-membranaceus]] — Chinese adaptogenic herb with complementary immunomodulatory effects
+- [[sambucus-nigra]] — Elderberry, antiviral herb for respiratory infections

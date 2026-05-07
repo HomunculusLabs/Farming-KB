@@ -90,7 +90,7 @@ They are "sacred" and therefore excluded from political power, sitting at the he
 
 McKenna traced the suppression of tryptamine-containing plants to what he called the "Hellenistic-Christian-Judaic tradition."
 
-The Franciscans who arrived in the New World assumed a monopoly on theophagy (the eating of God) and encountered indigenous peoples calling a mushroom *teonanacatl*, "the flesh of the gods." The Inquisition drove the mushroom cults into the mountains of Oaxaca, where they survived in only a few villages until their rediscovery by [[Valentina Wasson|Valentina]] and [[R. Gordon Wasson]] in the 1950s.
+The Franciscans who arrived in the New World assumed a monopoly on theophagy (the eating of God) and encountered indigenous peoples calling a mushroom *teonanacatl*, "the flesh of the gods." The Inquisition drove the mushroom cults into the mountains of Oaxaca, where they survived in only a few villages until their rediscovery by [[valentina-pavlovna-wasson|Valentina]] and [[R. Gordon Wasson]] in the 1950s.
 
 ## The Black Hole Effect
 

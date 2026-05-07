@@ -123,4 +123,6 @@ accustomed to thinking of as primitive.
 
 ## See Also
 
+- [[ibogamine]]
+
 - [[mckenna-world-made-of-language]]

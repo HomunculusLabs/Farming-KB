@@ -59,7 +59,7 @@ reabsorb, maintaining soil fertility over long timescales.
 ### Parasitic Mushrooms
 
 Parasitic fungi feed on living hosts, deriving their nutrients at the expense of the host
-organism. While this category includes destructive species like [[Armillaria|Armillaria]]
+organism. While this category includes destructive species like [[armillaria-mellea|Armillaria]]
 (honey mushroom), which can kill trees, the line between parasitism and saprophytism is
 often blurred. Many parasitic fungi continue decomposing their host after death,
 transitioning to a saprophytic mode. True obligate parasites are relatively rare among

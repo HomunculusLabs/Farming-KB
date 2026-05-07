@@ -38,7 +38,7 @@ The entire annual cycle requires essentially only sowing seed and spreading stra
 3. **Harvest rice** while trampling over the young barley shoots and clover. Cut with a sickle or harvest mechanically
 4. **Dry rice** on the ground or on racks for three days, then thresh and clean
 5. **Scatter rice straw uncut** over the entire field. If chicken manure or decomposed organic matter is available, spread it over the straw
-6. **Mid-November to December**: Enclose rice seed in [[Clay Pellet Seed Broadcasting|clay pellets]] and scatter over the field (6.5 to 22 lbs per quarter-acre). This completes the sowing of all crops for the coming year
+6. **Mid-November to December**: Enclose rice seed in [[clay-pellet-seed-broadcasting|clay pellets]] and scatter over the field (6.5 to 22 lbs per quarter-acre). This completes the sowing of all crops for the coming year
 
 ### Spring and Early Summer (March to June)
 
@@ -89,7 +89,7 @@ The field is never plowed or turned. Soil structure is maintained and improved t
 
 ### Clay Pellet Seed Encapsulation
 
-Rice seed for overwintering must be protected from predation and premature germination. [[Clay Pellet Seed Broadcasting|Clay pellets]] serve this purpose, keeping the seed dormant until spring warmth and moisture trigger germination through the mulch layer.
+Rice seed for overwintering must be protected from predation and premature germination. [[clay-pellet-seed-broadcasting|Clay pellets]] serve this purpose, keeping the seed dormant until spring warmth and moisture trigger germination through the mulch layer.
 
 ## Fukuoka's Experimental Journey
 

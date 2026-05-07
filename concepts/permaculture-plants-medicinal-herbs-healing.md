@@ -128,6 +128,8 @@ The most valuable medicinal plants in permaculture are those that serve multiple
 
 ## See Also
 
+- [[alpinia-officinarum]]
+
 - [[comparison-elderberry-vs-echinacea]]
 
 - [[permaculture-plants-insectary-bee-forage]] - medicinal plants that double as bee forage
