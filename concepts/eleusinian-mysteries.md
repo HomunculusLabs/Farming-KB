@@ -123,8 +123,8 @@ The power of the Eleusinian experience — described by initiates as utterly tra
 - [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
 - [[ergot-alkaloids-eleusinian-mysteries]]
 
-- [[Stoned Ape Theory]]
-- [[DMT Hyperspace Entities]]
-- [[Partnership vs Dominator Societies]]
-- [[Minoan Civilization]]
-- [[Dionysus]]
+- [[stoned-ape-theory]]
+- [[dmt-hyperspace-entities]]
+- [[partnership-vs-dominator-societies]]
+- Minoan Civilization
+- Dionysus

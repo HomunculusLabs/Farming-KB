@@ -81,7 +81,7 @@ spanning several decades and numerous countries.
 ## Degradation of Traditional Use in Mexico
 
 Perhaps the most significant cultural impact documented in the paper is
-the degradation of traditional mushroom use in [[Mexico as a Neurotropic Fungi Diversity Hotspot]]. The paper's extensive Mexican species lists
+the degradation of traditional mushroom use in Mexico as a Neurotropic Fungi Diversity Hotspot. The paper's extensive Mexican species lists
 include many species with deep ethnomycological significance:
 
 - **Psilocybe mexicana**: One of the most sacred species, known as
@@ -165,6 +165,6 @@ distinguishing natural from anthropogenic distribution patterns:
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 
 - [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas]]
-- [[Psilocybe semilanceata Worldwide Temperate Distribution]]
-- [[Mexico as a Neurotropic Fungi Diversity Hotspot]]
+- Psilocybe semilanceata Worldwide Temperate Distribution
+- Mexico as a Neurotropic Fungi Diversity Hotspot
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]

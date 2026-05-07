@@ -18,7 +18,7 @@ type: concept
 
 # Four Principles of Natural Farming
 
-The four principles of natural farming form the philosophical and practical foundation of [[Masanobu Fukuoka]]'s approach to agriculture. They are: no cultivation (no tillage), no fertilizer, no weeding or herbicides, and no pesticides. Together, these principles constitute what Fukuoka called "do-nothing" farming, a method that reduces human labor to essentially just sowing seed and spreading straw mulch.
+The four principles of natural farming form the philosophical and practical foundation of [[masanobu-fukuoka]]'s approach to agriculture. They are: no cultivation (no tillage), no fertilizer, no weeding or herbicides, and no pesticides. Together, these principles constitute what Fukuoka called "do-nothing" farming, a method that reduces human labor to essentially just sowing seed and spreading straw mulch.
 
 ## The "Do-Nothing" Philosophy
 
@@ -96,7 +96,7 @@ Natural farming moves centripetally toward nature, converging toward a state of 
 
 ## See Also
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[fukuoka-natural-orchard-ground-cover]]
 - [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]

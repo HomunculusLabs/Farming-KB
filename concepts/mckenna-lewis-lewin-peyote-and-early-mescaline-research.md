@@ -29,7 +29,7 @@ Lewin's work was pioneering in its methodology. Rather than dismissing indigenou
 with empirical rigor and personal courage,
 ingesting the substances himself to document their effects. This combination of chemical analysis and self-experimentation established a template that
 would be followed by subsequent researchers in
-the field, from Arthur Heffter to [[Albert Hofmann]].
+the field, from Arthur Heffter to [[albert-hofmann]].
 
 The significance of Lewin's approach cannot be overstated. At a time when European science routinely dismissed indigenous knowledge as primitive
 superstition, Lewin demonstrated that the visionary

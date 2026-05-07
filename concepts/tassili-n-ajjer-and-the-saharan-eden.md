@@ -146,6 +146,6 @@ McKenna noted that Pfeiffer neglected to discuss psychoactive plants as a possib
 - [[stoned ape hypothesis]]
 - [[partnership and dominator models]]
 - [[shamanism as archaic technique of ecstasy]]
-- [[Stropharia cubensis]]
-- [[Archaic Revival]]
+- [[stropharia-cubensis]]
+- Archaic Revival
 - [[indole hallucinogens and human evolution]]

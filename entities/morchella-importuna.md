@@ -61,7 +61,7 @@ Fruiting occurs in spring (March–May in the Northern Hemisphere), often trigge
 
 The mycelium forms extensive networks in soil and woody substrates, persisting as a saprobic phase for extended periods before fruiting. Fruit body initiation appears to require a combination of temperature fluctuation, moisture availability, and possibly exposure to certain soil bacteria (including *Pseudomonas* species) that may act as fruiting triggers.
 
-Associated trees include [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]], cottonwood, [[permplant-alder-alnus-nitrogen-fixing-non-legume]], ash, [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]], and various conifers. The species is notably common in riparian corridors with [[Populus trichocarpa]] (black cottonwood) and [[Alnus rubra]] (red alder).
+Associated trees include [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]], cottonwood, [[permplant-alder-alnus-nitrogen-fixing-non-legume]], ash, [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]], and various conifers. The species is notably common in riparian corridors with Populus trichocarpa (black cottonwood) and [[alnus-rubra]] (red alder).
 
 ## Cultivation
 
@@ -103,7 +103,7 @@ Dried morels are nutritionally dense compared to most culinary mushrooms:
 | Phosphorus | 600–900 mg |
 | B vitamins (B1, B2, B3, B5) | Significant amounts |
 
-Morels are among the richest non-animal sources of vitamin D among cultivated mushrooms when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[Agaricus bisporus]] (button mushroom) and [[Lentinula edodes]] (shiitake).
+Morels are among the richest non-animal sources of vitamin D among cultivated mushrooms when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[agaricus-bisporus]] (button mushroom) and [[lentinula-edodes]] (shiitake).
 
 ## Similar Species
 

@@ -183,9 +183,9 @@ its role in cardiovascular medicine.
 
 - [[cervantes-colchicine-polyploidy-mutagenesis]]
 
-- [[Colchicum autumnale]]
-- [[Gloriosa superba]]
-- [[Podophyllotoxin]]
-- [[Vinblastine]]
-- [[Vinblastine]]
-- [[Tubulin]]
+- [[colchicum-autumnale]]
+- Gloriosa superba
+- Podophyllotoxin
+- Vinblastine
+- Vinblastine
+- Tubulin

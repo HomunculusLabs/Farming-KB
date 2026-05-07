@@ -124,7 +124,7 @@ Similar multi-plant preparations exist in other indigenous traditions: the Austr
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[plant-cell-structure-and-organelles]]
 
-- [[Stoned Ape Theory]]
-- [[Partnership vs Dominator Societies]]
-- [[DMT Hyperspace Entities]]
-- [[Symbiosis and Coevolution]]
+- [[stoned-ape-theory]]
+- [[partnership-vs-dominator-societies]]
+- [[dmt-hyperspace-entities]]
+- Symbiosis and Coevolution

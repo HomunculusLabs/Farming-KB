@@ -127,7 +127,7 @@ Generally regarded as safe in normal quantities. Limited safety data for pregnan
 
 - [[herb-growing-guide]]
 
-- [[Quercetin]] — Major flavonoid found in Cistus
-- [[Gallic acid]] — Phenolic acid constituent
-- [[Kaempferol]] — Flavonol with anti-inflammatory properties
-- [[Labdanum]] — Resin historically harvested from Cistus species
+- [[quercetin]] — Major flavonoid found in Cistus
+- Gallic acid — Phenolic acid constituent
+- [[kaempferol]] — Flavonol with anti-inflammatory properties
+- Labdanum — Resin historically harvested from Cistus species

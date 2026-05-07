@@ -147,9 +147,9 @@ psilocybin). UN Convention Schedule I. Recent changes: Oregon
 - [[baeocystin]]
 - [[dimethyltryptamine]]
 
-- [[Psilocybin]] — the phosphorylated prodrug form of psilocin.
-- [[Baeocystin]] — minor psilocybin mushroom alkaloid (4-PO-NMT).
+- [[psilocybin]] — the phosphorylated prodrug form of psilocin.
+- [[baeocystin]] — minor psilocybin mushroom alkaloid (4-PO-NMT).
 - [[4-AcO-DMT]] — psilacetin, a synthetic psilocin prodrug.
-- [[DMT]] — N,N-dimethyltryptamine, the unsubstituted parent.
+- [[dmt]] — N,N-dimethyltryptamine, the unsubstituted parent.
 - [[5-MeO-DMT]] — related serotonergic psychedelic with distinct
   pharmacology and shorter duration.

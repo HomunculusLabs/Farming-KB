@@ -170,10 +170,10 @@ formal credentials.
 
 ## Related Concepts
 
-- [[History of Mycology]]
-- [[Spore Discharge Mechanisms in Fungi]]
-- [[Gasteromycetes and Stinkhorn Fungi]]
-- [[Fungal Biology and Ecology]]
+- History of Mycology
+- Spore Discharge Mechanisms in Fungi
+- Gasteromycetes and Stinkhorn Fungi
+- Fungal Biology and Ecology
 
 ## See Also
 

@@ -135,11 +135,11 @@ up seedlings and uproot young plants. Introducing fowl after vegetables
 
 ## See also
 
-- [[Disease and Pest Management Without Chemicals]]
-- [[Semi-Wild Vegetable Cultivation]]
-- [[Natural Pest Balance Without Chemicals]]
-- [[Vegetable Disease and Insect Resistance Classification]]
-- [[Natural Crop Rotation and Vegetable Methods]]
+- Disease and Pest Management Without Chemicals
+- Semi-Wild Vegetable Cultivation
+- Natural Pest Balance Without Chemicals
+- Vegetable Disease and Insect Resistance Classification
+- Natural Crop Rotation and Vegetable Methods
 
 ## See Also
 

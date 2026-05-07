@@ -133,8 +133,8 @@ He connected the War on Drugs to the broader dominator project of maintaining co
 - [[mckenna-food-gods-partnership-dominator]]
 - [[partnership-versus-dominator-culture]]
 
-- [[Stoned Ape Theory]]
-- [[Eleusinian Mysteries]]
-- [[Exopheromones and Plant Intelligence]]
-- [[Qatal Huyuk]]
-- [[Tassili-n-Ajjer Rock Art]]
+- [[stoned-ape-theory]]
+- [[eleusinian-mysteries]]
+- [[exopheromones-and-plant-intelligence]]
+- Qatal Huyuk
+- Tassili-n-Ajjer Rock Art

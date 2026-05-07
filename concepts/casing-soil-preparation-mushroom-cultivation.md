@@ -63,7 +63,7 @@ Some authors advise against sterilising casing, arguing it kills beneficial micr
 
 ### Arguments For Sterilisation
 
-The source documentation reports consistently bad experiences with untreated or pasteurised casing soils. [[Sterilisation]] at 121°C for one hour in a [[pressure cooker]] provides the most reliable results. The pragmatic view: while beneficial organisms may help theoretically, untreated soil's contamination risk outweighs any benefit. The documentation states: "We just tell what works best for us!"
+The source documentation reports consistently bad experiences with untreated or pasteurised casing soils. Sterilisation at 121°C for one hour in a [[pressure cooker]] provides the most reliable results. The pragmatic view: while beneficial organisms may help theoretically, untreated soil's contamination risk outweighs any benefit. The documentation states: "We just tell what works best for us!"
 
 ### Practical Implementation
 
@@ -94,7 +94,7 @@ Once the [[fruiting-body-development]] cycle has been initiated, the casing requ
 - **Misting**: The casing surface should be misted daily to maintain moisture. Never spray directly — use a fine mist from above and allow droplets to settle gently.
 - **Avoid over-watering**: After a flush is picked, watering should be temporarily increased because maturing mushrooms pull significant moisture from the casing. However, the casing should never be allowed to become waterlogged.
 - **Clean the surface**: Remove dead pinheads (aborts) promptly, as they can become sites for mould colonisation on the casing surface.
-- **Flush management**: Well-maintained casings can produce 3-6 flushes depending on species and care. [[Psilocybe mexicana]] typically produces one large flush and a smaller second flush, while other species produce more consistent yields across multiple flushes.
+- **Flush management**: Well-maintained casings can produce 3-6 flushes depending on species and care. [[psilocybe-mexicana]] typically produces one large flush and a smaller second flush, while other species produce more consistent yields across multiple flushes.
 
 ## Fruiting Environment
 
@@ -106,7 +106,7 @@ The source documentation describes a simple but effective fruiting setup using c
 - Cold-shocking harder-to-fruit strains by placing them in a refrigerator overnight before putting them in the bins
 - Pinheads appearing 6-15 days after introducing casings to the bins, with mushrooms maturing in 5-7 days
 
-Notably, [[Psilocybe mexicana]], [[Psilocybe tampanensis]], and [[Panaeolus subbalteatus]] do not benefit from cold-shock treatment. Only certain difficult strains require it.
+Notably, [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] do not benefit from cold-shock treatment. Only certain difficult strains require it.
 
 ## Simplicity as a Design Principle
 
@@ -116,10 +116,10 @@ A notable theme in the source documentation is the emphasis on simplicity over s
 
 Different species exhibit distinct fruiting patterns when cased on grass seed substrate:
 
-- **[[Psilocybe cubensis]]** strains vary considerably. The documentation mentions "Ecuador cubensis" as an easy-fruiting strain that does not require cold shock, while other strains benefit from the treatment. First flushes are typically the largest.
-- **[[Psilocybe mexicana]]** usually produces one large flush followed by a noticeably smaller second flush. Total flush count is typically lower than cubensis.
-- **[[Psilocybe tampanensis]]** fruits less prolifically than cubensis but produces sclerotia as a supplementary harvest from both the jar and the casing layer.
-- **[[Panaeolus subbalteatus]]** has specific environmental requirements and does not benefit from cold shock.
+- **[[psilocybe-cubensis]]** strains vary considerably. The documentation mentions "Ecuador cubensis" as an easy-fruiting strain that does not require cold shock, while other strains benefit from the treatment. First flushes are typically the largest.
+- **[[psilocybe-mexicana]]** usually produces one large flush followed by a noticeably smaller second flush. Total flush count is typically lower than cubensis.
+- **[[psilocybe-tampanensis]]** fruits less prolifically than cubensis but produces sclerotia as a supplementary harvest from both the jar and the casing layer.
+- **[[panaeolus-subbalteatus]]** has specific environmental requirements and does not benefit from cold shock.
 
 The documentation notes that developing a "feeling" for the watering regime is essential — explicit directions are difficult to provide because optimal moisture varies with species, strain, ambient conditions, and casing depth. This skill develops with experience across multiple grows.
 

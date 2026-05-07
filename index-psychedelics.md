@@ -1365,3 +1365,10 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+- [[psilocybin_mushroom_extraterrestrial_hypothesis]]
+- [[self_transforming_machine_elves]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
+- [[hyperspace-logos-consciousness]]
+- [[self-transforming-machine-elves]]
+- [[psilocybin-mushroom-extraterrestrial-hypothesis]]
+- [[tryptamine-hallucinogens]]

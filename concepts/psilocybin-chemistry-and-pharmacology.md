@@ -52,7 +52,7 @@ Psilocybin and psilocin are volatile compounds that degrade over time,
 particularly when exposed to heat, light, and atmospheric oxygen. This
 degradation has several important practical and scientific consequences:
 
-**Specimen age.** Chemical analyses of herbarium specimens of [[Psilocybe-semilanceata]] demonstrated a clear inverse relationship between specimen age
+**Specimen age.** Chemical analyses of herbarium specimens of [[psilocybe-semilanceata]] demonstrated a clear inverse relationship between specimen age
 and psilocybin content: 0.014% dry weight in specimens from 1869, 0.67% from
 1954, and 0.84% from 1976. This progressive loss explains why indigenous
 Mazatec practitioners in Mexico traditionally discard dried mushroom specimens
@@ -60,14 +60,14 @@ older than one year, considering them no longer effective for ceremonial use.
 
 **Airborne exposure.** In a remarkable observation by Guzmán in Oaxaca in 1958,
 exposure to the strong acrid aroma of a room filled with fresh and semi-
-fermented specimens of multiple [[Psilocybe]] species (P. caerulescens, P.
+fermented specimens of multiple Psilocybe species (P. caerulescens, P.
 cordispora, P. cubensis, P. mexicana, and P. zapotecorum) produced colored
 hallucinations without any oral ingestion. The effects ceased immediately upon
 leaving the room, suggesting that volatile psilocin can be absorbed through
 inhalation at sufficient concentrations.
 
 **Age-dependent alkaloid profiles.** Repke et al. (1977) demonstrated
-variations in baeocystin presence according to specimen age. In [[Psilocybe-baeocystis]] and [[Psilocybe cyanescens]], no trace of indoles could be detected
+variations in baeocystin presence according to specimen age. In [[psilocybe-baeocystis]] and [[psilocybe-cyanescens]], no trace of indoles could be detected
 20 to 60 days after collection. Different indole alkaloids degrade at different
 rates, meaning the chemical profile of a given species changes significantly
 over time.
@@ -121,18 +121,18 @@ fundamental changes in thought, mood, and personality integration.
 
 Substances that produce psychotic and delirious effects without the classic
 visual disturbances are classified as pseudo-hallucinogens. The ibotenic acid-
-containing [[Amanita]] species belong to an entirely different pharmacological
-category, acting as GABA receptor modulators. The active chemicals in [[Amanita-muscaria]] — muscimol, ibotenic acid, and muscarine — are "totally different
+containing [[amanita]] species belong to an entirely different pharmacological
+category, acting as GABA receptor modulators. The active chemicals in [[amanita-muscaria]] — muscimol, ibotenic acid, and muscarine — are "totally different
 from mushrooms containing psilocybin" and carry substantially greater toxicity
 risks, with some closely related Amanita species being fatally poisonous.
 
 ## Potency Variation Across Species
 
 Potency varies enormously between species, geographic populations, and
-individual fruiting bodies. [[Psilocybe aztecorum]], found at elevations up to
-4,000 meters in the high mountains of Mexico, and [[Psilocybe semilanceata]]
+individual fruiting bodies. [[psilocybe-aztecorum]], found at elevations up to
+4,000 meters in the high mountains of Mexico, and [[psilocybe-semilanceata]]
 (liberty caps) of temperate Europe are among the more potent species.
-[[Psilocybe cubensis]], the most commonly cultivated species worldwide, is
+[[psilocybe-cubensis]], the most commonly cultivated species worldwide, is
 moderately potent but shows significant variation depending on strain,
 substrate, and growing conditions.
 
@@ -151,7 +151,7 @@ and Singer (1986) to confirm that certain species are neurotropic.
 In recreational and traditional contexts, psilocybin mushrooms are typically
 ingested orally, either eaten fresh or dried, or brewed into a tea. The EMCDDA
 (2006) noted that mushrooms are "typically chopped and ingested or brewed in
-tea." Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe-tampanensis]] produce hardened masses of mycelium known as "truffles" or
+tea." Sclerotia-forming species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis]] produce hardened masses of mycelium known as "truffles" or
 "philosopher's stones," consumed in the same manner.
 
 Onset of effects typically occurs within 20 to 60 minutes after ingestion, with
@@ -173,7 +173,7 @@ other psychoactive substances and contribute to its favorable safety profile in
 supervised clinical settings.
 
 The chemical understanding of psilocybin has evolved considerably since Albert
-Hofmann first isolated the compound from [[Psilocybe mexicana]] specimens
+Hofmann first isolated the compound from [[psilocybe-mexicana]] specimens
 collected by R. Gordon Wasson in Mexico in 1958. Modern analytical techniques
 including HPLC and mass spectrometry have resolved many contradictory results,
 though natural variability of fungal alkaloid content continues to present

@@ -33,7 +33,7 @@ critically important.
 
 ## Pharmacological Basis of Interactions
 
-[[Ayahuasca]] contains two primary pharmacological classes that together
+[[ayahuasca]] contains two primary pharmacological classes that together
 create a unique and dangerous interaction profile:
 
 - **Beta-carbolines** (harmine, harmaline, tetrahydroharmine): These

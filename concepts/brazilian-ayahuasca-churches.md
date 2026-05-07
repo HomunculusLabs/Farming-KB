@@ -119,7 +119,7 @@ social atomization of modern urban life.
 
 Participation in the ayahuasca churches tends to reduce the incidence of
 alcoholism and drug addiction among members. This has been documented in both
-the [[Native American Church]] in the United States and the Brazilian
+the Native American Church in the United States and the Brazilian
 ayahuasca churches. The mechanism appears to involve both the direct
 pharmacological effects of the ayahuasca experience, which often produces a
 profound reorientation of values and priorities, and the community support

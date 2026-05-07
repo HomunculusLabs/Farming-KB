@@ -116,10 +116,10 @@ King oyster mushrooms integrate well into permaculture systems as both a food cr
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[stamets-pleurotus-oyster-cultivation]]
 
-- [[Pleurotus ostreatus]]
-- [[Grifola frondosa]]
-- [[Hericium erinaceus]]
-- [[Mycelium]]
-- [[Fungal Cultivation]]
-- [[Permaculture]]
-- [[Ergothioneine]]
+- [[pleurotus-ostreatus]]
+- [[grifola-frondosa]]
+- [[hericium-erinaceus]]
+- [[mycelium]]
+- Fungal Cultivation
+- [[permaculture]]
+- [[ergothioneine]]

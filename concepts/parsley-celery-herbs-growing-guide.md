@@ -94,3 +94,7 @@ Sources: Steve Solomon, *Gardening When It Counts*, Chapters on parsley, celery,
 - [[gaias-garden-cover-crops-soil-building]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[solomon-cover-crops-green-manure-guide]]
+
+## See Also
+
+- [[petroselinum-crispum]]

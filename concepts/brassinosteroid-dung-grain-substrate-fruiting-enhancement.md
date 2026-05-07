@@ -13,18 +13,18 @@ type: concept
 
 ## Overview
 
-The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[Psilocybe cubensis]]. This finding, reported by Gartz, Adam, and Vorbrodt in 1990, was the first documented instance of a brassinosteroid accelerating both mycelial colonization and fruiting body production in a coprophilous fungus cultivated on a complex natural substrate.
+The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]]. This finding, reported by Gartz, Adam, and Vorbrodt in 1990, was the first documented instance of a brassinosteroid accelerating both mycelial colonization and fruiting body production in a coprophilous fungus cultivated on a complex natural substrate.
 
 ## Substrate Composition
 
 The cultivation substrate used in these experiments consisted of:
 
-- **Horse dung**: providing the primary organic matter and nitrogen source typical of [[Psilocybe cubensis]] natural ecology
+- **Horse dung**: providing the primary organic matter and nitrogen source typical of [[psilocybe-cubensis]] natural ecology
 - **Rice grain**: supplementing the dung with readily available carbohydrates to accelerate colonization
 - **Water**: at a ratio producing a moist but not waterlogged substrate
 - **KH₂PO₄**: added at 5 g per liter of substrate as a phosphorus and potassium supplement
 
-The combination of dung and grain is a traditional approach for cultivating coprophilous [[Psilocybe]] species, as it mimics the nutrient profile found in the natural substrate of herbivore manure enriched with partially digested grasses and grains.
+The combination of dung and grain is a traditional approach for cultivating coprophilous Psilocybe species, as it mimics the nutrient profile found in the natural substrate of herbivore manure enriched with partially digested grasses and grains.
 
 ## Brassinosteroid Application Rate
 
@@ -67,7 +67,7 @@ The brassinosteroid-treated cultures showed that the steroid promotes more effic
 
 ## Morphological Changes
 
-Interestingly, the brassinosteroid treatment also altered the morphology of the resulting fruit bodies. Treated cultures produced mushrooms that **lacked the typical membranous annulus** (ring) on the stem. The annulus is a taxonomically important feature of [[Psilocybe cubensis]].
+Interestingly, the brassinosteroid treatment also altered the morphology of the resulting fruit bodies. Treated cultures produced mushrooms that **lacked the typical membranous annulus** (ring) on the stem. The annulus is a taxonomically important feature of [[psilocybe-cubensis]].
 
 This morphological change raises important considerations for:
 
@@ -94,7 +94,7 @@ However, the morphological changes (annulus loss) and the current regulatory sta
 
 ## Experimental Design and Controls
 
-The study employed a rigorous experimental framework with ten independent runs for both agar and dung/grain substrate systems. This replication is notable because mycological experiments with bioactive compounds often suffer from small sample sizes. The use of a well-characterized strain of [[Psilocybe cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
+The study employed a rigorous experimental framework with ten independent runs for both agar and dung/grain substrate systems. This replication is notable because mycological experiments with bioactive compounds often suffer from small sample sizes. The use of a well-characterized strain of [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
 
 The consistent results across ten runs argue strongly against a placebo or偶然 effect. The probability of consistently observing 25 to 30% faster fruiting, 2 to 3.5-fold higher first flush counts, and 30 to 48% greater dry mass by chance alone is vanishingly small.
 

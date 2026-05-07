@@ -142,9 +142,9 @@ Multiple simultaneous revenue streams:
 - [[companion-planting]]
 - [[food-forest]]
 
-- [[Food Forest]] — agroforestry system focused on food production
-- [[Hugelkultur]] — soil-building technique complementary to silvopasture
-- [[Robinia pseudoacacia]] — nitrogen-fixing fodder tree for silvopasture
-- [[Keyline Design]] — water management design system for pasture integration
-- [[Swale]] — water harvesting earthwork for silvopasture systems
-- [[Three Sisters]] — companion planting model applicable to silvopasture understory
+- [[food-forest]] — agroforestry system focused on food production
+- [[hugelkultur]] — soil-building technique complementary to silvopasture
+- [[robinia-pseudoacacia]] — nitrogen-fixing fodder tree for silvopasture
+- [[keyline-design]] — water management design system for pasture integration
+- [[swale]] — water harvesting earthwork for silvopasture systems
+- [[three-sisters]] — companion planting model applicable to silvopasture understory

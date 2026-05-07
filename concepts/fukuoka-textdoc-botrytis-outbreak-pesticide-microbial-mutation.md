@@ -134,11 +134,11 @@ orchard. By weakening this natural defense system, the spraying program
 
 ## See also
 
-- [[Loquat Incident and Microbial Mutation]]
-- [[Pesticide Ecological Cascade and Forest Collapse]]
-- [[Microbial Ecology and Decomposition]]
-- [[Natural Pest Balance Without Chemicals]]
-- [[Critique of Scientific Farming]]
+- Loquat Incident and Microbial Mutation
+- Pesticide Ecological Cascade and Forest Collapse
+- Microbial Ecology and Decomposition
+- Natural Pest Balance Without Chemicals
+- Critique of Scientific Farming
 
 ## See Also
 

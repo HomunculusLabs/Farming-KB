@@ -5,7 +5,7 @@ tags: [botany, photobiology, photoreceptors, cryptochrome, blue-light, phototrop
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 
@@ -131,8 +131,8 @@ development.
 - [[daniel-chamovitz]]
 - [[phytochrome-and-plant-light-perception]]
 
-- [[Phytochrome and Plant Light Perception]] for the red/far-red photoreceptor system
-- [[Plant Photoreception and Phototropism]] for the broader context of light sensing
-- [[Plant Vision and Phototropism]] for Darwin's foundational experiments
-- [[Shade Avoidance Syndrome]] for far-red mediated neighbour detection
-- [[What a Plant Knows Plant Vision and Light Perception]] for the primary source
+- [[phytochrome-and-plant-light-perception]] for the red/far-red photoreceptor system
+- [[plant-photoreception-and-phototropism]] for the broader context of light sensing
+- [[plant-vision-and-phototropism]] for Darwin's foundational experiments
+- [[shade-avoidance-syndrome]] for far-red mediated neighbour detection
+- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source

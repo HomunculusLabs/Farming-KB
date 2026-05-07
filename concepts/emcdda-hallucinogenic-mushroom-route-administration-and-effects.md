@@ -59,7 +59,7 @@ The duration of the experience, commonly described as a "trip," typically lasts 
 
 ### Short-Term Tolerance
 
-Short-term tolerance develops rapidly to both physical and psychological effects of [[psilocybin]]. This means that subsequent doses taken within a short period (days) produce diminished effects, and dosages may need to be increased to achieve similar results. Cross-tolerance with other [[serotonin]] receptor agonists such as [[LSD]] also occurs.
+Short-term tolerance develops rapidly to both physical and psychological effects of [[psilocybin]]. This means that subsequent doses taken within a short period (days) produce diminished effects, and dosages may need to be increased to achieve similar results. Cross-tolerance with other [[serotonin]] receptor agonists such as [[lsd]] also occurs.
 
 ## Acute Psychological Effects
 
@@ -76,7 +76,7 @@ Subjective effects described by users during positive experiences include:
 - Mental stimulation and new insights, often about the nature of time
 - Quickly changing emotions described as "lots of fun and laughter"
 
-However, users have also reported that mushroom effects are not viewed as positively as the entactogenic effects of [[MDMA]], which may limit repeat use in social settings.
+However, users have also reported that mushroom effects are not viewed as positively as the entactogenic effects of [[mdma]], which may limit repeat use in social settings.
 
 ### Negative Effects ("Bad Trips")
 
@@ -125,7 +125,7 @@ The tendency for temporarily increased blood pressure may pose a risk for users 
 
 The psychoactive dose of [[psilocybin]] is believed to be between 45 micrograms per kilogram of body weight and 315 micrograms per kilogram of body weight. The "recommended" recreational dose ranges from 1 to 5 grams of dried mushrooms, with fresh mushrooms requiring approximately 10 times the weight (10 to 50 grams). However, these ranges should be interpreted with caution because:
 
-- [[Potency]] varies significantly between species and even individual specimens
+- Potency varies significantly between species and even individual specimens
 - Concentration of active compounds depends on growing conditions and age
 - Multiple active substances ([[psilocybin]], [[psilocin]], [[baeocystin]], [[norbaeocystin]]) may be present
 - Individual sensitivity varies widely
@@ -134,10 +134,10 @@ The psychoactive dose of [[psilocybin]] is believed to be between 45 micrograms 
 
 Mushroom effects differ from other commonly used substances in important ways:
 
-- Unlike [[MDMA]], mushroom experiences lack consistent entactogenic (empathy-generating) properties, which some users find less socially appealing
+- Unlike [[mdma]], mushroom experiences lack consistent entactogenic (empathy-generating) properties, which some users find less socially appealing
 - Unlike cannabis, the effects are more visually and cognitively intense, with less predictable emotional tone
 - The absence of physical dependency distinguishes mushrooms from many other recreational substances
-- The relatively short duration compared to [[LSD]] makes mushrooms more manageable for some users, though the experience can feel equally intense at equivalent doses
+- The relatively short duration compared to [[lsd]] makes mushrooms more manageable for some users, though the experience can feel equally intense at equivalent doses
 
 ## Related Topics
 

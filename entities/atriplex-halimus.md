@@ -126,8 +126,8 @@ High ash content reflects salt accumulation, which can partially substitute for 
 - [[casuarina-equisetifolia]]
 - [[elaeagnus-angustifolia]]
 
-- [[Atriplex canescens]] — Four-wing saltbush, North American relative
-- [[Hippophae rhamnoides]] — Sea buckthorn, halophytic permaculture shrub
-- [[Elaeagnus angustifolia]] — Russian olive, salt-tolerant nitrogen fixer
-- [[Casuarina equisetifolia]] — Australian pine, coastal windbreak companion
-- [[Silvopasture]] — Integration of trees and forage for livestock
+- Atriplex canescens — Four-wing saltbush, North American relative
+- [[hippophae-rhamnoides]] — Sea buckthorn, halophytic permaculture shrub
+- [[elaeagnus-angustifolia]] — Russian olive, salt-tolerant nitrogen fixer
+- [[casuarina-equisetifolia]] — Australian pine, coastal windbreak companion
+- [[silvopasture]] — Integration of trees and forage for livestock

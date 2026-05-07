@@ -15,7 +15,8 @@ sources:
   - Musgrave, I.F. et al. (1998). "Preliminary Studies on the Pharmacology of Pinoline." British Journal of Pharmacology 123: 121-128.
   - Haimovich, A. et al. (2004). "Pinoline and its Possible Role in Sleep Regulation." Sleep Medicine Reviews 8(4): 321-329.
   - Strahilevitz, M. et al. (2001). "Endogenous β-Carbolines as Potential Psychotropic Agents." Pharmacology Biochemistry and Behavior 68: 429-437.
-  - Baker, G.B. et al. (1984). "The β-Carbolines: Potential Neuropharmacological Agents." Canadian Journal of Neurological Sciences 11(S4): 87-92.
+  - Baker, G.B. et al. (1984). "The β-Carbolines: Potential Neuropharmacological Agents." Canadian Journal of Neurological Sciences 11(S4): 87-92.created: 2026-05-07
+
 ---
 
 ## Overview
@@ -115,6 +116,6 @@ Research into pinoline's therapeutic potential has focused on several areas, tho
 - [[5-meo-dmt]]
 - [[beta-carboline]]
 - [[banisteriopsis-caapi]]
-- [[ayahuasca]]
+- [[ayahuasca-preparation-and-ceremony]]
 - [[tryptamine]]
 - [[serotonin]]

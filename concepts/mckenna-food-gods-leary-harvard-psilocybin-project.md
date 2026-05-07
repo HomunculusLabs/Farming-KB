@@ -150,3 +150,7 @@ scientific and spiritual approaches, the role of charismatic individuals in shap
 public perception, and the conflict between individual exploration and institutional
 control. See also [[mckenna-discovery-and-impact-of-lsd]] and
 [[mckenna-invention-of-lsd-and-psychedelic-sixties]] for broader context.
+
+## See Also
+
+- [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]]

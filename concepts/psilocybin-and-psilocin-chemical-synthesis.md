@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Psilocin and [[psilocybin]] are the principal hallucinogenic constituents of "magic mushrooms" in the genus [[Psilocybe]]. Both compounds closely resemble the neurotransmitter serotonin, and their effects are believed to result from interference with normal brain serotonin function, likely through partial agonism at 5-HT2A receptors.
+Psilocin and [[psilocybin]] are the principal hallucinogenic constituents of "magic mushrooms" in the genus Psilocybe. Both compounds closely resemble the neurotransmitter serotonin, and their effects are believed to result from interference with normal brain serotonin function, likely through partial agonism at 5-HT2A receptors.
 
 The concise large-scale synthesis of these compounds was achieved by Shirota, Hakamata, and Goda at the National Institute of Health Sciences in Tokyo, published in the Journal of Natural Products in 2003. Their method produces gram-scale quantities without chromatographic purification.
 
@@ -25,7 +25,7 @@ Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-OH-DMT) is a substituted tryptamin
 
 Serotonin carries the hydroxyl at the 5-position, while psilocin carries it at the 4-position. The N,N-dimethylation further distinguishes it from the monomethylated neurotransmitter.
 
-[[Psilocybin]] is the 4-O-phosphoryl ester of psilocin, making it significantly more polar and chemically more stable. In the body, psilocybin is rapidly dephosphorylated by alkaline phosphatase to yield psilocin, the pharmacologically active compound that crosses the blood-brain barrier.
+[[psilocybin]] is the 4-O-phosphoryl ester of psilocin, making it significantly more polar and chemically more stable. In the body, psilocybin is rapidly dephosphorylated by alkaline phosphatase to yield psilocin, the pharmacologically active compound that crosses the blood-brain barrier.
 
 ### Minor Constituents
 
@@ -127,8 +127,8 @@ The serendipitous discovery of the self-purifying zwitterionic intermediate was 
 - [[shirota-psilocin-psilocybin-synthesis]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 
-- [[Psilocybin]]
-- [[Tryptamine Alkaloids]]
-- [[Serotonin Receptor Pharmacology]]
-- [[Forensic Analysis of Psychoactive Fungi]]
-- [[Magic Mushroom Species Identification]]
+- [[psilocybin]]
+- Tryptamine Alkaloids
+- Serotonin Receptor Pharmacology
+- Forensic Analysis of Psychoactive Fungi
+- Magic Mushroom Species Identification

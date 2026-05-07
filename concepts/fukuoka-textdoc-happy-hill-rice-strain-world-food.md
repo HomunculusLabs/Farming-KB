@@ -124,3 +124,7 @@ growing.
 - [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]]
 - [[natural-farming-philosophy-of-mu]]
 - [[do-nothing-farming]]
+
+## See Also
+
+- [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]]

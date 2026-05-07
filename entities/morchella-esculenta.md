@@ -183,9 +183,9 @@ While primarily valued as a food, morels have documented bioactive properties:
 
 - [[morchella-esculenta-entity]]
 
-- [[Gyromitra esculenta]] — False morel (toxic look-alike)
-- [[Morchella importuna]] — Black morel, commercially cultivated species
-- [[Cantharellus cibarius]] — Chanterelle, another prized edible mushroom
-- [[Tuber melanosporum]] — Périgord black truffle, the other mycological luxury ingredient
+- [[gyromitra-esculenta]] — False morel (toxic look-alike)
+- [[morchella-importuna]] — Black morel, commercially cultivated species
+- [[cantharellus-cibarius]] — Chanterelle, another prized edible mushroom
+- [[tuber-melanosporum]] — Périgord black truffle, the other mycological luxury ingredient
 - [[cantharellus-cibarius]]
 - [[decomposition]]

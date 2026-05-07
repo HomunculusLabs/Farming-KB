@@ -117,12 +117,12 @@ Third, that his philosophy is impractical for most farmers. Fukuoka conceded tha
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-natural-farming-principles]]
 
-- [[Fukuoka Natural Farming Philosophy]]
-- [[Natural Farming vs Scientific Agriculture]]
-- [[No-Till Agriculture]]
-- [[Clay Seed Pellets for Direct Seeding]]
-- [[Green Manure and Cover Cropping]]
-- [[Soil Food Web and Biological Plowing]]
-- [[Pest Outbreaks as Ecological Indicators]]
-- [[Mahayana and Hinayana Natural Farming]]
-- [[Energy Efficiency in Farming Systems]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[natural-farming-vs-scientific-agriculture]]
+- [[no-till-agriculture]]
+- Clay Seed Pellets for Direct Seeding
+- Green Manure and Cover Cropping
+- Soil Food Web and Biological Plowing
+- Pest Outbreaks as Ecological Indicators
+- [[mahayana-and-hinayana-natural-farming]]
+- Energy Efficiency in Farming Systems

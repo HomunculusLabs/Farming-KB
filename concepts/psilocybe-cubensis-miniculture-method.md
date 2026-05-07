@@ -15,7 +15,7 @@ type: concept
 
 ## Overview
 
-The miniculture technique is a small-scale indoor cultivation method for [[Psilocybe cubensis]] developed by Bigwood and Beug (1982) as an adaptation of earlier rye-grain spawn methods described by San Antonio (1971) and refined by Oss and Oeric (1976). It was designed to produce multiple successive flushes from a single culture under controlled conditions, making it ideal for scientific study of alkaloid variation across fruitings.
+The miniculture technique is a small-scale indoor cultivation method for [[psilocybe-cubensis]] developed by Bigwood and Beug (1982) as an adaptation of earlier rye-grain spawn methods described by San Antonio (1971) and refined by Oss and Oeric (1976). It was designed to produce multiple successive flushes from a single culture under controlled conditions, making it ideal for scientific study of alkaloid variation across fruitings.
 
 ## Substrate Preparation
 
@@ -103,7 +103,7 @@ The miniculture system produces modest but consistent yields suitable for analyt
 - **Duration**: At least 20 weeks of productive fruiting from a single inoculation
 - **Flush count**: Typically 5 to 6 flushes before the mycelium exhausts the substrate or succumbs to contamination
 
-While the absolute yield per jar is small compared to bulk cultivation methods, the miniculture system provides sufficient material for [[HPLC analysis of tryptamine alkaloids]] and other analytical techniques. The consistency of the controlled environment makes the trade-off between yield and reproducibility acceptable for research purposes.
+While the absolute yield per jar is small compared to bulk cultivation methods, the miniculture system provides sufficient material for [[hplc-analysis-of-tryptamine-alkaloids]] and other analytical techniques. The consistency of the controlled environment makes the trade-off between yield and reproducibility acceptable for research purposes.
 
 ## Advantages for Research
 
@@ -117,7 +117,7 @@ The miniculture method offers several advantages for controlled studies:
 
 ## See Also
 
-- [[Psilocybin Variation Across Flushes]]
-- [[Psilocin Accumulation Pattern Across Flushes]]
-- [[HPLC Analysis of Tryptamine Alkaloids]]
-- [[Cap vs Stem Alkaloid Distribution]]
+- [[psilocybin-variation-across-flushes]]
+- [[psilocin-accumulation-pattern-across-flushes]]
+- [[hplc-analysis-of-tryptamine-alkaloids]]
+- [[cap-vs-stem-alkaloid-distribution]]

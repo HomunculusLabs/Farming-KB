@@ -130,6 +130,8 @@ and the widely popular Mimosa.
 
 ## See Also
 
+- [[tropicana-cherries]]
+
 - [[girl-scout-cookies]] — female parent; foundational hybrid
 - [[mimosa-cannabis]] — popular progeny (Tropicana Cookies × Purple Punch)
 - [[blue-dream]] — complementary sativa-dominant daytime hybrid

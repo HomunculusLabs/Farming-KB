@@ -100,7 +100,7 @@ Encarsia formosa is a parasitoid of the greenhouse whitefly (*Trialeurodes vapor
 
 ### Aphidius spp. — Aphids in Field Crops
 
-Aphidius colemani and [[Aphidius ervi]] are aphid parasitoids used extensively in field crops, orchards, and greenhouses. They parasitize a wide range of aphid species, and their mummified hosts (aphid "mummies") are a familiar sight in monitored fields. They are particularly valuable in cereal crops and canola where aphid outbreaks can rapidly escalate.
+Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in field crops, orchards, and greenhouses. They parasitize a wide range of aphid species, and their mummified hosts (aphid "mummies") are a familiar sight in monitored fields. They are particularly valuable in cereal crops and canola where aphid outbreaks can rapidly escalate.
 
 ## Practical Tips for Gardeners and Farmers
 

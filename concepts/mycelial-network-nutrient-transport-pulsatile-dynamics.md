@@ -190,9 +190,9 @@ nitrogen deposition, and land-use modifications.
 - [[decomposition]]
 - [[fungal-intelligence]]
 - [[mycelial-networks]]
-- [[Fungi in the Environment]] for the broader context of environmental mycology
-- [[Saprotrophic fungi]] for the ecological role of decomposer fungi
-- [[Mycorrhizal networks]] for related transport networks in mutualistic fungi
-- [[Fungal biogeochemical cycling]] for the role of fungi in elemental cycles
-- [[Fungal network resilience]] for the robustness of mycelial networks to
+- Fungi in the Environment for the broader context of environmental mycology
+- [[saprotrophic-fungi]] for the ecological role of decomposer fungi
+- [[mycorrhizal-networks]] for related transport networks in mutualistic fungi
+- Fungal biogeochemical cycling for the role of fungi in elemental cycles
+- Fungal network resilience for the robustness of mycelial networks to
   disturbance

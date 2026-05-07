@@ -190,7 +190,7 @@ Astragalus has an excellent safety profile with a long history of use:
 - [[companion-planting]]
 - [[eleutherococcus-senticosus]]
 
-- [[Panax ginseng]] — Another premier adaptogen and Qi tonic
-- [[Withania somnifera]] — Ashwagandha, complementary adaptogen
-- [[Glycyrrhiza uralensis]] — Licorice root, common formula partner
-- [[Eleutherococcus senticosus]] — Siberian ginseng for endurance
+- [[panax-ginseng]] — Another premier adaptogen and Qi tonic
+- [[withania-somnifera]] — Ashwagandha, complementary adaptogen
+- [[glycyrrhiza-uralensis]] — Licorice root, common formula partner
+- [[eleutherococcus-senticosus]] — Siberian ginseng for endurance

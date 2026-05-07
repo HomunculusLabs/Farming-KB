@@ -133,8 +133,8 @@ The authors acknowledge several caveats to this hypothesis:
 - [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 
-- [[Mexico as Northern-Southern Mycobiotic Convergence Zone]]
-- [[Mycological Exploration Bias and Underexplored Regions]]
-- [[Cosmopolitan and Endemic Neurotropic Species]]
-- [[Psilocybe zapotecorum]]
-- [[Neurotropic Fungi Diversity and Vegetation Types]]
+- Mexico as Northern-Southern Mycobiotic Convergence Zone
+- Mycological Exploration Bias and Underexplored Regions
+- Cosmopolitan and Endemic Neurotropic Species
+- [[psilocybe-zapotecorum]]
+- Neurotropic Fungi Diversity and Vegetation Types

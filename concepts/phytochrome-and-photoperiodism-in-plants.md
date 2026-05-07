@@ -28,11 +28,11 @@ Together, these systems allow plants to monitor their light environment with ext
 
 ## Darwin and the Discovery of Phototropism
 
-The scientific study of plant light perception began in earnest with [[Charles Darwin]]'s pioneering experiments on [[phototropism]]. In his 1880 work *The Power of Movement in Plants*, Darwin and his son Francis demonstrated that the shoot tip of a growing grass coleoptile was necessary for the plant to bend toward light. When they covered the tip with an opaque cap, the plant no longer responded to directional light, even though the rest of the seedling remained fully illuminated. Conversely, covering the lower portion of the shoot had no effect — the plant still bent toward the light.
+The scientific study of plant light perception began in earnest with Charles Darwin's pioneering experiments on [[phototropism]]. In his 1880 work *The Power of Movement in Plants*, Darwin and his son Francis demonstrated that the shoot tip of a growing grass coleoptile was necessary for the plant to bend toward light. When they covered the tip with an opaque cap, the plant no longer responded to directional light, even though the rest of the seedling remained fully illuminated. Conversely, covering the lower portion of the shoot had no effect — the plant still bent toward the light.
 
 Darwin went further: he also showed that if the tip was cut off and a small piece of tin foil was placed asymmetrically on the stump, the plant would bend away from the foil. This elegant experiment proved that the "seeing" was localized to the shoot apex, and that some signal traveled downward from the tip to cause differential elongation on the shaded side. The nature of this signal — later identified as the plant hormone auxin — would occupy plant biologists for decades.
 
-Building on Darwin's work, the German botanist [[Julius von Sachs]] later identified that it was specifically [[blue light]] that drove the phototropic response. This was a critical insight, because it showed that plants do not respond uniformly to all wavelengths — they possess wavelength-specific photoreceptors, much as the human eye has different cone cells for different colors. Together, these findings established that plants possess dedicated sensory structures — primitive eyes, in a sense — that detect not just the presence of light, but its direction, quality, and duration. The subsequent discovery of cryptochromes as the blue-light photoreceptors responsible for phototropism and other blue-light responses confirmed Sachs' insight at the molecular level, and earned the researchers involved a share of the attention usually reserved for discoveries in animal sensory biology.
+Building on Darwin's work, the German botanist Julius von Sachs later identified that it was specifically [[blue light]] that drove the phototropic response. This was a critical insight, because it showed that plants do not respond uniformly to all wavelengths — they possess wavelength-specific photoreceptors, much as the human eye has different cone cells for different colors. Together, these findings established that plants possess dedicated sensory structures — primitive eyes, in a sense — that detect not just the presence of light, but its direction, quality, and duration. The subsequent discovery of cryptochromes as the blue-light photoreceptors responsible for phototropism and other blue-light responses confirmed Sachs' insight at the molecular level, and earned the researchers involved a share of the attention usually reserved for discoveries in animal sensory biology.
 
 ## The Maryland Mammoth Tobacco and the Discovery of Photoperiodism
 
@@ -40,7 +40,7 @@ One of the most consequential discoveries in plant biology came from an accident
 
 The connection between this giant tobacco and the seasonal timing of flowering was not immediately obvious. At the time, most botanists believed that temperature or total accumulated warmth were the primary factors controlling flowering. The idea that the duration of light itself could be a decisive signal seemed almost absurd — how could a plant count hours of daylight? Yet that is precisely what Maryland Mammoth tobacco was doing, and it would take the systematic approach of Garner and Allard to reveal this hidden capability.
 
-The mystery was solved in 1918 by two USDA scientists, [[Wightman Garner]] and [[Henry Allard]]. Working in Beltsville, Maryland, they conducted a landmark series of experiments in which they manipulated the duration of light exposure that plants received each day. They discovered that Maryland Mammoth tobacco was a **short-day plant** — it would only flower when exposed to day lengths shorter than a critical threshold (approximately 12 hours). Under the natural long days of a Maryland summer, the plant never received the inductive signal and simply continued vegetative growth. When Garner and Allard artificially shortened the day by moving the plants into a dark shed each afternoon, the tobacco finally flowered.
+The mystery was solved in 1918 by two USDA scientists, Wightman Garner and Henry Allard. Working in Beltsville, Maryland, they conducted a landmark series of experiments in which they manipulated the duration of light exposure that plants received each day. They discovered that Maryland Mammoth tobacco was a **short-day plant** — it would only flower when exposed to day lengths shorter than a critical threshold (approximately 12 hours). Under the natural long days of a Maryland summer, the plant never received the inductive signal and simply continued vegetative growth. When Garner and Allard artificially shortened the day by moving the plants into a dark shed each afternoon, the tobacco finally flowered.
 
 Garner and Allard named this phenomenon **[[phototropism-photoperiodism-discovery-phytochrome]]** and went on to demonstrate that many plant species — including chrysanthemums, soybeans, poinsettias, and spinach — use day length as a primary cue to time flowering, tuber formation, dormancy, and other seasonal events. Their work, published across a series of papers in the 1920s, fundamentally changed how botanists understood the relationship between plants and their environment. Plants were not simply passive responders to temperature and moisture — they were active time-keepers, capable of precise temporal measurement. Their work revealed that plants possess an internal calendar that allows them to anticipate seasonal changes and synchronize their development accordingly.
 
@@ -85,9 +85,9 @@ The pigment responsible for this remarkable switching behavior is [[phytochrome]
 - **Pr** (phytochrome red-absorbing form): Absorbs red light (~660 nm) and is converted to Pfr
 - **Pfr** (phytochrome far-red-absorbing form): Absorbs far-red light (~730 nm) and is converted back to Pr
 
-When Pr absorbs red light, it undergoes a conformational change to become Pfr. Pfr is the biologically active form of the pigment — it moves into the nucleus of plant cells, where it interacts with transcription factors such as [[PIF proteins]] to alter gene expression. During the night, Pfr slowly reverts back to Pr through a process called **dark reversion**, or it is actively degraded by the [[ubiquitin-proteasome pathway]]. This gradual loss of Pfr during the dark period is how the plant "counts" the hours of darkness. If the night is long enough, Pfr levels fall below the threshold needed to maintain repression of flowering genes in a short-day plant, and the flowering program is activated.
+When Pr absorbs red light, it undergoes a conformational change to become Pfr. Pfr is the biologically active form of the pigment — it moves into the nucleus of plant cells, where it interacts with transcription factors such as PIF proteins to alter gene expression. During the night, Pfr slowly reverts back to Pr through a process called **dark reversion**, or it is actively degraded by the [[ubiquitin-proteasome pathway]]. This gradual loss of Pfr during the dark period is how the plant "counts" the hours of darkness. If the night is long enough, Pfr levels fall below the threshold needed to maintain repression of flowering genes in a short-day plant, and the flowering program is activated.
 
-Phytochrome was first characterized biochemically by [[Sterling Hendricks]], [[Butler]], and colleagues at the USDA in the 1950s, using difference spectroscopy to detect the two forms of the pigment in plant extracts. It was the first photoreceptor discovered in any organism and remains one of the best-characterized signaling molecules in [[plant biology]]. The [[Arabidopsis]] genome encodes a small family of phytochrome genes (phyA through phyE), each with distinct roles in mediating responses to different light conditions. PhyA, for example, is primarily responsible for responses to continuous far-red light and is especially important for seedling emergence, while phyB is the major mediator of responses to red light and plays a central role in the shade avoidance response.
+Phytochrome was first characterized biochemically by Sterling Hendricks, Butler, and colleagues at the USDA in the 1950s, using difference spectroscopy to detect the two forms of the pigment in plant extracts. It was the first photoreceptor discovered in any organism and remains one of the best-characterized signaling molecules in [[plant biology]]. The Arabidopsis genome encodes a small family of phytochrome genes (phyA through phyE), each with distinct roles in mediating responses to different light conditions. PhyA, for example, is primarily responsible for responses to continuous far-red light and is especially important for seedling emergence, while phyB is the major mediator of responses to red light and plays a central role in the shade avoidance response.
 
 The phytochrome system also plays a critical role in seed germination. Many seeds, particularly those of small-seeded species that must germinate near the soil surface, require a brief pulse of red light to break dormancy. This is an adaptive strategy: a seed buried too deeply receives little red light (it is absorbed by the soil and overlying vegetation) and therefore remains dormant, while a seed near the surface receives abundant red light and germinates. Far-red light reverses this effect, ensuring that seeds only germinate when they are in an open, well-lit environment where seedlings have a realistic chance of surviving.
 
@@ -119,17 +119,17 @@ Understanding photoperiodism has had enormous practical significance in agricult
 
 The economic impact of photoperiod management in agriculture is measured in billions of dollars annually.
 
-As [[LED technology]] continues to improve and become more affordable, the precision with which growers can manipulate light signals will only increase, further blurring the line between natural and controlled plant environments. From a broader perspective, the phytochrome system serves as a powerful reminder that plants are not passive organisms — they are active, perceptive, and remarkably sophisticated participants in their ecological communities, capable of sensing and responding to their environment in ways we are still working to fully understand.
+As LED technology continues to improve and become more affordable, the precision with which growers can manipulate light signals will only increase, further blurring the line between natural and controlled plant environments. From a broader perspective, the phytochrome system serves as a powerful reminder that plants are not passive organisms — they are active, perceptive, and remarkably sophisticated participants in their ecological communities, capable of sensing and responding to their environment in ways we are still working to fully understand.
 
 ## See Also
 
-- [[Photosynthesis]]
-- [[Phototropism]]
-- [[Florigen]]
-- [[Circadian Rhythm in Plants]]
-- [[Plant Hormones]]
-- [[Blue Light Receptors]]
-- [[Seasonal Adaptation in Plants]]
+- Photosynthesis
+- [[phototropism]]
+- Florigen
+- Circadian Rhythm in Plants
+- Plant Hormones
+- Blue Light Receptors
+- Seasonal Adaptation in Plants
 
 ## References and Further Reading
 

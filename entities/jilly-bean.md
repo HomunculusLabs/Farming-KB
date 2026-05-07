@@ -149,10 +149,10 @@ achievable with proper training. Outdoors, plants can produce
 - [[bean-growing-guide]]
 - [[ice-cream-bean-entity]]
 
-- [[Space-Queen]]
-- [[Cinderella-99]]
-- [[Romulan]]
-- [[Orange-Velvet]]
-- [[Myrcene]]
-- [[Limonene]]
-- [[Cannabis-Terpenes]]
+- Space-Queen
+- [[cinderella-99]]
+- [[romulan]]
+- Orange-Velvet
+- [[myrcene]]
+- [[limonene]]
+- Cannabis-Terpenes

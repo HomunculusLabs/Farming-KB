@@ -125,6 +125,8 @@ root-knot nematodes in sandy soils.
 
 ## See Also
 
+- [[desmodium-incanum]]
+
 - [[mucuna-pruriens]]
 - [[crotalaria-juncea]]
 - [[cajanus-cajan]]

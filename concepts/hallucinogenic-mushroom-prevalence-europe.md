@@ -82,7 +82,7 @@ The only multi-year trend data available came from six consecutive annual reader
 - Last-month prevalence rose significantly from 2.4% in 2002 to 18% in 2004
 - These figures require cautious interpretation due to non-probability sampling methodology
 
-The average age for first use of hallucinogenic mushrooms was reported as 18 to 19 years. Among those who had used them, over half planned to take them again, with "Mexican" varieties ([[Psilocybe cubensis]]) being the most commonly used type.
+The average age for first use of hallucinogenic mushrooms was reported as 18 to 19 years. Among those who had used them, over half planned to take them again, with "Mexican" varieties ([[psilocybe-cubensis]]) being the most commonly used type.
 
 ## Perceived Availability
 
@@ -124,6 +124,6 @@ Several important limitations affect the interpretation of prevalence data:
 - [[psilocybe-cubensis]]
 - [[psilocybin]]
 
-- [[Psilocybin and Psilocin Chemistry]]
-- [[Smartshop and Online Mushroom Markets]]
-- [[Dose Effects and Health Risks of Psilocybin Mushrooms]]
+- [[psilocybin-and-psilocin-chemistry]]
+- [[smartshop-and-online-mushroom-markets]]
+- Dose Effects and Health Risks of Psilocybin Mushrooms

@@ -113,6 +113,12 @@ This ontological shock connects to McKenna's broader argument that "the human so
 
 ## See Also
 
+- [[self-transforming-machine-elves]]
+
+- [[self_transforming_machine_elves]]
+
+- [[psilocybin_mushroom_extraterrestrial_hypothesis]]
+
 - [[tryptamine-consciousness-theory]]
 - [[the-logos-and-translinguistic-matter]]
 - [[mckenna-dmt-experience-and-hyperspace]]

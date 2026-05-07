@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Spore printing and syringe preparation are essential skills in the [[pf-tek]] cultivation cycle, enabling the cultivator to harvest spores from mature [[Psilocybe cubensis]] specimens and prepare sterile spore solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following substrate preparation and fruiting. [[Psylocybe Fanaticus]] developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
+Spore printing and syringe preparation are essential skills in the [[pf-tek]] cultivation cycle, enabling the cultivator to harvest spores from mature [[psilocybe-cubensis]] specimens and prepare sterile spore solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following substrate preparation and fruiting. Psylocybe Fanaticus developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
 
 ## Spore Viability and Timing
 
@@ -38,7 +38,7 @@ The purple spore deposits signal that the mushroom has matured and entered its s
 
 ### Spore Degradation
 
-[[Psilocybe cubensis]] spores begin to degrade a few months after collection. After approximately one and a half years, spore germination is greatly reduced or fails entirely. Fresh spores germinate massively and quickly, making timely use important for reliable results.
+[[psilocybe-cubensis]] spores begin to degrade a few months after collection. After approximately one and a half years, spore germination is greatly reduced or fails entirely. Fresh spores germinate massively and quickly, making timely use important for reliable results.
 
 ## Spore Printing Equipment
 

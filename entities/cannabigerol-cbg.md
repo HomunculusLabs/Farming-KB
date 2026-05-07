@@ -83,6 +83,8 @@ resistance crisis. CBG-rich cannabis strains represent an emerging area
 of medical cannabis cultivation.
 
 ## See Also
+
+- [[cannabigerol]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - [[cannabichromene-cbc]]

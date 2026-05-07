@@ -140,10 +140,10 @@ Mainstream evolutionary biology has not accepted the theory, and no fossil or ar
 ## See Also
 
 - [[psilocybin]]
-- [[Stropharia cubensis]]
+- [[stropharia-cubensis]]
 - [[partnership and dominator models]]
 - [[shamanism as archaic technique of ecstasy]]
-- [[Transcendent Other]]
+- Transcendent Other
 - [[indole hallucinogens and human evolution]]
 - [[indole-hallucinogens-and-human-evolution]]
 - [[partnership-and-dominator-models]]

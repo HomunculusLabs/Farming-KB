@@ -179,8 +179,8 @@ Cultivation of *F. officinalis* is challenging due to its slow growth and specif
 - [[ergosterol]]
 - [[fomes-fomentarius]]
 
-- [[Fomitopsis]] (genus overview)
-- [[Fomes fomentarius]]
-- [[Ganoderma lucidum]] (comparison of medicinal polypores)
-- [[Larix occidentalis]] (primary host tree)
-- [[Old-growth forest]] (habitat)
+- Fomitopsis (genus overview)
+- [[fomes-fomentarius]]
+- [[ganoderma-lucidum]] (comparison of medicinal polypores)
+- Larix occidentalis (primary host tree)
+- Old-growth forest (habitat)

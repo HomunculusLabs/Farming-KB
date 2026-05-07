@@ -117,7 +117,7 @@ Fukuoka created, together with the insects in his fields, a new strain of rice h
 
 This breeding achievement, accomplished without genetic engineering or laboratory intervention, demonstrates that [[natural farming]] can produce results that rival or surpass scientific agriculture. The rice was not bred through deliberate crossing but emerged from the complex interactions between cultivated rice, wild relatives, and the farm ecosystem. It is a product of non-discriminating knowledge — allowing nature to select rather than imposing human preferences.
 
-## The [[Mu]] Philosophy: Returning to [[Source]]
+## The Mu Philosophy: Returning to Source
 
 Central to Fukuoka's epistemology is the concept of mu — emptiness, nothingness, or the void. This is not nihilism but a recognition that the source of all things is beyond human comprehension and categorization. Scientific knowledge, by constantly dividing and analyzing, moves further from this source. Non-discriminating knowledge, by contrast, seeks to return to the source by abandoning artificial distinctions.
 

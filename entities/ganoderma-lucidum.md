@@ -16,7 +16,8 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=ganoderma+lucidum+review
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5640186/
   - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1985-2001."
-  - "Wachtel-Galor, S., & Benzie, I.F.F. (2011). Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. Chapter 13: Ganoderma lucidum (Lingzhi / Reishi)."
+  - "Wachtel-Galor, S., & Benzie, I.F.F. (2011). Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. Chapter 13: Ganoderma lucidum (Lingzhi / Reishi)."created: 2026-05-07
+
 ---
 
 # Ganoderma lucidum
@@ -126,9 +127,9 @@ The reishi market suffers from significant quality issues:
 
 ## See Also
 
-- [[polypore-fungi]] — Polypore bracket fungi overview
+- [[bloomfields-orchard-mushroom-hunting-and-identification]] — Polypore bracket fungi overview
 - [[medicinal-mushrooms]] — Comprehensive guide to therapeutic fungi
-- [[adaptogenic-herbs]] — Cross-reference with other adaptogens
-- [[traditional-chinese-medicine-materia-medica]] — TCM herbal classification system
+- [[adaptogenic-herbs-overview]] — Cross-reference with other adaptogens
+- traditional chinese medicine materia medica — TCM herbal classification system
 - [[beta-glucans]] — Structural biology and immune mechanisms
 - [[ganoderic-acids]] — Detailed triterpenoid chemistry

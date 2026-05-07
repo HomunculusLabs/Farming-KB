@@ -135,3 +135,7 @@ fall right into the mainstream of cultural evolution." He speculated that
 "either language is the shadow of this ability or that this ability will be a
 further extension of language," potentially enabling "a human language in
 which the intent of meaning is actually beheld in three-dimensional space."
+
+## See Also
+
+- [[tryptamine-hallucinogens]]

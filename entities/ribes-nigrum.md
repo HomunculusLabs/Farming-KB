@@ -106,9 +106,9 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 
 ### Polyculture Integration
 - **Fruit tree understory:** Beneath apple, pear, or plum trees at 2–3 m spacing
-- **Berry guild:** Combine with [[Ribes rubrum]] (redcurrant), [[Aronia melanocarpa]] (chokeberry), [[Rubus idaeus]] (raspberry)
-- **Nitrogen-fixer companions:** [[Caragana arborescens]], [[Hippophae rhamnoides]] (seaberry)
-- **Dynamic accumulator:** [[Symphytum officinale]] (comfrey) provides potassium for fruit quality
+- **Berry guild:** Combine with Ribes rubrum (redcurrant), [[aronia-melanocarpa]] (chokeberry), Rubus idaeus (raspberry)
+- **Nitrogen-fixer companions:** [[caragana-arborescens]], [[hippophae-rhamnoides]] (seaberry)
+- **Dynamic accumulator:** [[symphytum-officinale]] (comfrey) provides potassium for fruit quality
 
 ## Propagation
 
@@ -128,11 +128,11 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 
 ## Related Species
 
-- [[Ribes rubrum]] — Redcurrant, sweeter and milder
-- [[Aronia melanocarpa]] — Chokeberry, similar nutritional profile
-- [[Rubus idaeus]] — Raspberry, complementary berry crop
-- [[Sambucus nigra]] — Elderberry, another dark-berried superfruit
-- [[Hippophae rhamnoides]] — Seaberry, nitrogen-fixing berry shrub
+- Ribes rubrum — Redcurrant, sweeter and milder
+- [[aronia-melanocarpa]] — Chokeberry, similar nutritional profile
+- Rubus idaeus — Raspberry, complementary berry crop
+- [[sambucus-nigra]] — Elderberry, another dark-berried superfruit
+- [[hippophae-rhamnoides]] — Seaberry, nitrogen-fixing berry shrub
 
 ## See Also
 

@@ -142,8 +142,8 @@ biogeography of neurotropic fungi.
 - [[psilocybe-cubensis-distribution-and-ecology]]
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
 
-- [[Psilocybe zapotecorum]]
-- [[Copelandia cyanescens]]
-- [[Neurotropic Fungi Diversity and Vegetation Types]]
-- [[Mycological Exploration Bias and Underexplored Regions]]
-- [[Cosmopolitan and Endemic Neurotropic Species]]
+- [[psilocybe-zapotecorum]]
+- [[copelandia-cyanescens]]
+- Neurotropic Fungi Diversity and Vegetation Types
+- Mycological Exploration Bias and Underexplored Regions
+- Cosmopolitan and Endemic Neurotropic Species

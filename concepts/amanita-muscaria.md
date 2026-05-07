@@ -23,11 +23,11 @@ Amanita muscaria, commonly known as the fly agaric, is a visually iconic mushroo
 
 Amanita muscaria is one of the most recognizable mushrooms in the world, with a bright red to orange cap covered in distinctive white warts or spots. The cap can reach 8 to 20 centimeters in diameter at maturity. It is widely depicted in popular culture, fairy tales, children's books, and video games, contributing to its familiarity among the general public.
 
-Despite this visual recognition, accurate identification in the field requires careful mycological knowledge. Many members of the [[Amanita]] genus are extremely toxic, and visual similarity between species within this genus can be dangerously misleading for casual foragers and consumers.
+Despite this visual recognition, accurate identification in the field requires careful mycological knowledge. Many members of the [[amanita]] genus are extremely toxic, and visual similarity between species within this genus can be dangerously misleading for casual foragers and consumers.
 
 ## Chemical Composition
 
-The active compounds in Amanita muscaria are fundamentally different from those found in [[Psilocybe]] species and act on entirely different neurotransmitter systems:
+The active compounds in Amanita muscaria are fundamentally different from those found in Psilocybe species and act on entirely different neurotransmitter systems:
 
 - **Muscimol**: The primary psychoactive compound, a potent GABA-A receptor agonist that produces sedative-hypnotic, anxiolytic, and dissociative effects. Muscimol is structurally related to GABA itself and acts as a direct agonist at the receptor site.
 - **Ibotenic acid**: A glutamate receptor agonist that is neurotoxic at sufficient doses. Ibotenic acid acts as a prodrug for muscimol, being partially converted to muscimol through decarboxylation during drying or heating. It is largely responsible for the toxic and unpleasant effects associated with improperly prepared Amanita muscaria.
@@ -40,7 +40,7 @@ This chemical profile is entirely distinct from the tryptamine-based [[psilocybi
 Amanita muscaria carries substantial toxicity risks that are considerably greater than those associated with psilocybin-containing mushrooms. Several factors contribute to this elevated risk profile:
 
 - The active compounds muscimol and ibotenic acid have a relatively narrow therapeutic window compared to psilocybin
-- Closely related [[Amanita]] species contain amatoxins that cause fatal liver and kidney failure
+- Closely related [[amanita]] species contain amatoxins that cause fatal liver and kidney failure
 - The visual similarity between Amanita species makes accidental substitution potentially lethal
 - Proper preparation methods are not widely understood by casual consumers
 
@@ -125,8 +125,8 @@ The switch from psilocybin mushrooms to Amanita muscaria following legal bans re
 
 - [[amanita-muscaria-pharmacology]] Concepts
 
-- [[Psilocybin]] - the chemically distinct compound found in traditional magic mushrooms
-- [[Hallucinogenic mushroom market in Europe]] - the market context driving Amanita substitution
-- [[Psilocybe cubensis]] - the most common species replaced by Amanita in retail markets
-- [[Bad trip]] - adverse reactions, which differ in character between Amanita and psilocybin species
-- [[Psilocybe]] - the genus containing the banned mushrooms that Amanita muscaria replaced
+- [[psilocybin]] - the chemically distinct compound found in traditional magic mushrooms
+- [[hallucinogenic-mushroom-market-in-europe]] - the market context driving Amanita substitution
+- [[psilocybe-cubensis]] - the most common species replaced by Amanita in retail markets
+- [[bad-trip]] - adverse reactions, which differ in character between Amanita and psilocybin species
+- Psilocybe - the genus containing the banned mushrooms that Amanita muscaria replaced

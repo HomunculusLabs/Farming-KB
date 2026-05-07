@@ -48,7 +48,7 @@ About 12 species of myxomycetes (slime molds) are found exclusively on dung, wit
 
 ### Zygomycetes
 
-Zygomycetes (pin molds and their relatives) are often the first fungi to appear on fresh dung. They are typically ruderal strategists — fast-growing, rapidly sporulating, and quick to exploit newly available resources. Key coprophilous genera include species of [[Mucorales]] that produce rapidly maturing sporangia. Zygomycetes are most reliably isolated from very fresh dung specimens.
+Zygomycetes (pin molds and their relatives) are often the first fungi to appear on fresh dung. They are typically ruderal strategists — fast-growing, rapidly sporulating, and quick to exploit newly available resources. Key coprophilous genera include species of Mucorales that produce rapidly maturing sporangia. Zygomycetes are most reliably isolated from very fresh dung specimens.
 
 ### Ascomycetes
 
@@ -97,7 +97,7 @@ Knowledge of coprophilous fungal biogeography remains limited by uneven sampling
 
 Most records come from Europe and North America, creating significant geographic bias in our understanding of coprophilous diversity. Species rarity may often be apparent rather than real, reflecting collecting intensity and mycological expertise rather than true absence.
 
-Some species show remarkable geographic restriction: [[Wawelia regia]] is known only from a single site near Krakow in southern Poland. Others ([[Dictyocoprotus mexicanus]] from Mexico, [[Protomycocladus faisalabadensis]] from Pakistan) are known from single collections. [[Phaeotrichum hystricinum]] is restricted to porcupine dung.
+Some species show remarkable geographic restriction: Wawelia regia is known only from a single site near Krakow in southern Poland. Others (Dictyocoprotus mexicanus from Mexico, Protomycocladus faisalabadensis from Pakistan) are known from single collections. Phaeotrichum hystricinum is restricted to porcupine dung.
 
 ## Sampling Methods
 

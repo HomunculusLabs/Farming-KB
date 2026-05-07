@@ -121,8 +121,8 @@ For permaculture and food forest designs, guava serves as a productive mid-canop
 - [[fruit-tree-grafting-guide]]
 - [[permaculture-food-storage-and-preservation]]
 
-- [[Tropical Fruit Orchard Design]] — broader guide to planning mixed tropical fruit systems.
-- [[Passion Fruit Varieties]] — detailed variety guide for purple and yellow types.
-- [[Guava Wilt Management]] — identification and control strategies for guava wilt disease.
-- [[Trellis Construction for Vining Fruits]] — plans and specifications for commercial trellis systems.
+- Tropical Fruit Orchard Design — broader guide to planning mixed tropical fruit systems.
+- Passion Fruit Varieties — detailed variety guide for purple and yellow types.
+- Guava Wilt Management — identification and control strategies for guava wilt disease.
+- Trellis Construction for Vining Fruits — plans and specifications for commercial trellis systems.
 - [[mollison-designers-macadamia-nut-in-tropical-polyculture]]

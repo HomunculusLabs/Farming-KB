@@ -89,7 +89,7 @@ Fungi and animals are more closely related to each other than either is
 to plants, belonging to the Opisthokonta supergroup. However,
 conservation across the enormous evolutionary distance between green
 algae and flowering plants suggests steroid-based signaling is a broadly
-conserved eukaryotic strategy. The sensitivity of [[Psilocybe cubensis]]
+conserved eukaryotic strategy. The sensitivity of [[psilocybe-cubensis]]
 to brassinosteroids may reflect a conserved steroid receptor system in
 fungi.
 
@@ -140,10 +140,10 @@ adding a previously unrecognized dimension to plant-fungal communication.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for classification as a hormone group
+- Brassinosteroids as steroidal phytohormones for fungal growth promotion for classification as a hormone group
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
   compound structure and preparation from stigmasterol
-- [[Steroidal regulation of fungal development and growth]] for the
+- Steroidal regulation of fungal development and growth for the
   implications of cross-kingdom steroid sensitivity
 
 ## See Also

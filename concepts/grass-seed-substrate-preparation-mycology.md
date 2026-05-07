@@ -17,18 +17,18 @@ type: concept
 
 # Grass Seed Substrate Preparation for Mycological Cultivation
 
-Grass seed substrate is a widely used medium for cultivating a variety of fungal species, particularly those in the genera [[Psilocybe]] and [[Panaeolus]]. The method offers a straightforward, cost-effective approach that balances nutritional content with ease of preparation, making it accessible to both novice and experienced cultivators. The technique was popularised in the mycological cultivation community for its reliability and the widespread availability of its core ingredient.
+Grass seed substrate is a widely used medium for cultivating a variety of fungal species, particularly those in the genera Psilocybe and Panaeolus. The method offers a straightforward, cost-effective approach that balances nutritional content with ease of preparation, making it accessible to both novice and experienced cultivators. The technique was popularised in the mycological cultivation community for its reliability and the widespread availability of its core ingredient.
 
 ## Species Suitability
 
 The grass seed substrate method is documented as effective for cultivating the following species:
 
-- [[Psilocybe mexicana]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
-- [[Psilocybe tampanensis]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
-- [[Psilocybe cubensis]] — mushrooms only; rye grain is preferred for this species due to its larger kernel size and higher nutrient density
-- [[Panaeolus subbalteatus]] — mushrooms
+- [[psilocybe-mexicana]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
+- [[psilocybe-tampanensis]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
+- [[psilocybe-cubensis]] — mushrooms only; rye grain is preferred for this species due to its larger kernel size and higher nutrient density
+- [[panaeolus-subbalteatus]] — mushrooms
 
-The substrate is particularly valued for sclerotia-producing species, as the grain medium allows direct formation without the need for [[casing-soil-preparation-mushroom-cultivation]]. The small kernel size of grass seed creates many individual colonisation points, which accelerates the rate at which mycelium permeates the entire substrate volume. This property is especially beneficial when working with slower-growing species like [[Psilocybe tampanensis]], where colonisation speed is often a limiting factor.
+The substrate is particularly valued for sclerotia-producing species, as the grain medium allows direct formation without the need for [[casing-soil-preparation-mushroom-cultivation]]. The small kernel size of grass seed creates many individual colonisation points, which accelerates the rate at which mycelium permeates the entire substrate volume. This property is especially beneficial when working with slower-growing species like [[psilocybe-tampanensis]], where colonisation speed is often a limiting factor.
 
 ## Seed Selection
 
@@ -84,7 +84,7 @@ Grass seed offers several benefits compared to other grain substrates:
 
 While grass seed is excellent for sclerotia-producing species, other substrates may be preferred for specific applications:
 
-- [[Rye grain]] is preferred for [[Psilocybe cubensis]] cultivation due to larger kernel size and higher nutrient density
+- Rye grain is preferred for [[psilocybe-cubensis]] cultivation due to larger kernel size and higher nutrient density
 - Brown rice flour and vermiculite (PF tek) remains popular for beginners due to simpler sterilisation requirements, though not suitable for grain-to-grain transfers
 - Wild bird seed mixtures can substitute for pure grass seed but introduce variability in kernel size and composition
 

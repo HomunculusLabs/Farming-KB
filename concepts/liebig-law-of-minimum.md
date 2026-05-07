@@ -21,7 +21,7 @@ type: concept
 
 **Liebig's law of minimum** (also known as the law of the minimum) states that plant growth is limited not by total resources available, but by the single resource that is scarcest relative to the plant's needs. Formulated by German chemist Justus von Liebig in the mid-nineteenth century, the law became the theoretical foundation for chemical agriculture and the modern fertilizer industry.
 
-In [[The Natural Way of Farming]], [[Masanobu Fukuoka]] examines this law critically, arguing that its application leads to a fundamentally flawed approach to soil and plant management.
+In The Natural Way of Farming, [[masanobu-fukuoka]] examines this law critically, arguing that its application leads to a fundamentally flawed approach to soil and plant management.
 
 ## The Original Formulation
 
@@ -39,7 +39,7 @@ The development of the Haber-Bosch process for industrial nitrogen fixation was 
 
 ## Fukuoka's Critique
 
-[[Masanobu Fukuoka]] argued that Liebig's law, while chemically accurate in a reductionist sense, is deeply misleading when applied to whole farming systems. His critique operates on several levels.
+[[masanobu-fukuoka]] argued that Liebig's law, while chemically accurate in a reductionist sense, is deeply misleading when applied to whole farming systems. His critique operates on several levels.
 
 ### Reduction of Biology to Chemistry
 
@@ -122,7 +122,7 @@ Practices such as cover cropping, minimal tillage, diverse rotations, and the re
 - [[liebig-law-of-minimum-critique-natural-farming]]
 
 - [[natural farming]]
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[do-nothing farming]]
 - [[soil fertility]]
 - [[nitrogen fixation]]

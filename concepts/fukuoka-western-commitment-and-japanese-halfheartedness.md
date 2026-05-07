@@ -23,7 +23,7 @@ In "The Road Back to Nature," Masanobu Fukuoka draws a striking contrast between
 
 ## The Western Approach to Zen and Natural Living
 
-Fukuoka observed that many young Westerners who visited his farm had first stopped at [[Zen temples]] such as Eihei-ji or practiced zazen meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don't understand." They would acknowledge that "nothing came of it and I don't understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
+Fukuoka observed that many young Westerners who visited his farm had first stopped at Zen temples such as Eihei-ji or practiced zazen meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don't understand." They would acknowledge that "nothing came of it and I don't understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
 
 The persistence of this admission is remarkable. Rather than claiming enlightenment or understanding after a brief exposure, Western practitioners maintained their humility and continued the practice. Fukuoka describes this as a "very small distinction" but identifies it as "where the big difference with the Japanese lies."
 

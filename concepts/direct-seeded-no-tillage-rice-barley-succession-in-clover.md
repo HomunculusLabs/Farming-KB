@@ -13,7 +13,7 @@ type: concept
 
 # Direct-Seeded No-Tillage Rice Barley Succession in Clover
 
-The direct-seeded, no-tillage rice-barley succession in a clover cover is the core practical technique of [[Masanobu Fukuoka]]'s natural farming system. Developed over decades of experimentation at his farm in Ehime Prefecture, Japan, this method enables the continuous cultivation of rice and winter grain (barley or wheat) on the same land without plowing, without chemical fertilizers, without pesticides, and with only a fraction of the labor required by conventional methods. Fukuoka referred to it as the "clover revolution" in rice and barley cropping.
+The direct-seeded, no-tillage rice-barley succession in a clover cover is the core practical technique of [[masanobu-fukuoka]]'s natural farming system. Developed over decades of experimentation at his farm in Ehime Prefecture, Japan, this method enables the continuous cultivation of rice and winter grain (barley or wheat) on the same land without plowing, without chemical fertilizers, without pesticides, and with only a fraction of the labor required by conventional methods. Fukuoka referred to it as the "clover revolution" in rice and barley cropping.
 
 ## The System at a Glance
 
@@ -125,9 +125,9 @@ Fukuoka's method was studied at a large number of agricultural testing stations 
 
 - [[no-tillage-rice-barley-succession-cropping]]
 
-- [[Four Principles of Natural Farming]]
-- [[Clay Pellet Seed Broadcasting]]
-- [[Natural Farming vs Scientific Agriculture]]
-- [[Masanobu Fukuoka]]
+- [[four-principles-of-natural-farming]]
+- [[clay-pellet-seed-broadcasting]]
+- [[natural-farming-vs-scientific-agriculture]]
+- [[masanobu-fukuoka]]
 - [[clay-pellet-seed-broadcasting]]
 - [[clay-pellet-seed-encapsulation]]

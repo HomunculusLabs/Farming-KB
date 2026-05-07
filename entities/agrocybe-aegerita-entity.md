@@ -121,8 +121,8 @@ In China, *A. aegerita* is among the top ten commercially cultivated mushrooms b
 - [[agrocybe-praecox]]
 - [[biological-efficiency]]
 
-- [[Agrocybe]] (genus overview)
-- [[Pleurotus ostreatus]] (similar cultivation methods)
-- [[Lentinula edodes]] (comparable nutritional profile)
-- [[Pholiota nameko]] (related Strophariaceae species)
-- [[Trametes versicolor]] (medicinal polypore comparison)
+- Agrocybe (genus overview)
+- [[pleurotus-ostreatus]] (similar cultivation methods)
+- [[lentinula-edodes]] (comparable nutritional profile)
+- [[pholiota-nameko]] (related Strophariaceae species)
+- [[trametes-versicolor]] (medicinal polypore comparison)

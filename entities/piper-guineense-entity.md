@@ -135,7 +135,7 @@ While not currently listed as threatened, wild populations face pressure from de
 - [[aspergillus-niger]]
 - [[candida-albicans]]
 
-- [[Piper nigrum]]
-- [[Piper methysticum]]
-- [[Piper longum]]
-- [[Capsicum annuum]] (comparison of pungent spices)
+- [[piper-nigrum]]
+- [[piper-methysticum]]
+- [[piper-longum]]
+- [[capsicum-annuum]] (comparison of pungent spices)

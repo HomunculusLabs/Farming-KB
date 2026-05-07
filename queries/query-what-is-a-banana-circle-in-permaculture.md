@@ -111,3 +111,7 @@ and turns what would normally be a disposal problem into a productive resource.
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-to-start-a-food-forest]]
 - [[query-how-do-i-use-comfrey-in-the-garden]]
+
+## See Also
+
+- [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]

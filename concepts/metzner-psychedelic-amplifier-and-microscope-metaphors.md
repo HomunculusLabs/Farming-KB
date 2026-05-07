@@ -60,7 +60,7 @@ sources: []
     51|
     52|The amplifier analogy also explains why the same substance can produce radically
     53|different experiences in different individuals, or even in the same individual at
-    54|different times. [[LSD]], [[psilocybin]], [[mescaline]], and [[DMT]] do not carry
+    54|different times. [[lsd]], [[psilocybin]], [[mescaline]], and [[dmt]] do not carry
     55|specific experiential content in the way that, say, a stimulant produces alertness or
     56|a sedative produces drowsiness. Instead, they amplify the full spectrum of the
     57|subject's consciousness, making the therapeutic encounter fundamentally personal and
@@ -84,7 +84,7 @@ sources: []
     75|subjective distortions. This framing was used by early researchers to argue that
     76|[[psychedelic psychotherapy]] was a legitimate form of scientific inquiry rather than a
     77|purely clinical or mystical endeavor. The realms of consciousness accessed through
-    78|these substances, including [[Grof perinatal matrices and transpersonal consciousness]]
+    78|these substances, including Grof perinatal matrices and transpersonal consciousness
     79|and the encounter with [[spirit beings and multiple realities in entheogenic-80|experience]], could be studied with the same rigor that biologists apply to cellular
     81|structures.
     82|
@@ -102,7 +102,7 @@ sources: []
     94|different therapeutic approaches. The European psycholytic school, working within a
     95|Freudian framework, used the amplifier model to explain how LSD could loosen defenses
     96|and make unconscious dynamics more accessible to analytic interpretation. Stanislav
-    97|Grof's discovery of [[Grof perinatal matrices and transpersonal consciousness]] was
+    97|Grof's discovery of Grof perinatal matrices and transpersonal consciousness was
     98|made possible by the amplifying effect of the drug on deeply buried psychosomatic
     99|patterns.
    100|
@@ -138,7 +138,7 @@ sources: []
    130|other classes of psychiatric medication. With tranquilizers, antidepressants,
    131|stimulants, and narcotics, the pharmacological action is paramount and set and setting
    132|play a minor role. A dose of diazepam will produce sedation regardless of whether the
-   133|patient is in a therapist's office or at a party. A dose of [[LSD]], by contrast, will
+   133|patient is in a therapist's office or at a party. A dose of [[lsd]], by contrast, will
    134|amplify the qualities of whichever setting the subject inhabits, making the
    135|therapeutic context not merely preferable but determinative of the experience's
    136|character and outcome.

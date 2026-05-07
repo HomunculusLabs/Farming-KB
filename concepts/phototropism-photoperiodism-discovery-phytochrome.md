@@ -106,7 +106,7 @@ The discovery that phytochrome in a single leaf can regulate flowering throughou
 
 Garner and Allard's work with Maryland Mammoth established a classification system that remains in use:
 
-- **Short-day plants**: Flower when the continuous dark period exceeds a critical length. Examples include chrysanthemums, soybeans, and [[Cannabis]] (under natural conditions). These plants are more accurately described as "long-night plants."
+- **Short-day plants**: Flower when the continuous dark period exceeds a critical length. Examples include chrysanthemums, soybeans, and Cannabis (under natural conditions). These plants are more accurately described as "long-night plants."
 - **Long-day plants**: Flower when the continuous dark period falls below a critical length. Examples include irises, barley, and spinach. These are more accurately "short-night plants."
 - **Day-neutral plants**: Flower regardless of photoperiod, responding primarily to other cues such as plant age or temperature. Examples include tomatoes and rice.
 

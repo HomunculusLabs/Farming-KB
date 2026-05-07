@@ -12,7 +12,7 @@ created: 2026-04-28
 # Unheated Greenhouse Winter Harvest
 
 The unheated greenhouse winter harvest system, developed and refined by
-[[Eliot Coleman]] at Four Season Farm in Harborside, Maine, enables year-round
+[[eliot-coleman]] at Four Season Farm in Harborside, Maine, enables year-round
 production of fresh vegetables in Zone 5 conditions (temperatures to -20F /
 -29C) without supplemental heat. The system relies on a double-layer protection
 strategy inside standard plastic-covered hoop houses, using the soil itself as
@@ -123,7 +123,7 @@ year-round production cycle. Planting begins August 1, which Coleman calls the
 planting than for spring because day length is contracting and temperatures
 dropping simultaneously. The goal is to get plants almost to maturity before
 day length becomes shorter than ten hours, after which growth effectively stops.
-[[Winter succession planting]] is the scheduling discipline that makes this
+[[winter-succession-planting]] is the scheduling discipline that makes this
 possible.
 
 ## Bed Management
@@ -153,4 +153,4 @@ approach also has deep roots in the [[parisian market gardening]] tradition of
 - [[parisian market gardening]]
 - [[mobile greenhouse]]
 - [[season extension]]
-- [[Eliot Coleman]]
+- [[eliot-coleman]]

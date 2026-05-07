@@ -157,8 +157,8 @@ condition.
 
 - [[psilocybin-psilocin-chemistry]]
 
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybe cubensis Distribution and Ecology]]
-- [[Psilocybe Diversity in Mexico]]
-- [[Sacred Mushroom Traditions in Mexico]]
+- [[neurotropic-fungi-classification]]
+- [[psilocybe-cubensis-distribution-and-ecology]]
+- [[psilocybe-diversity-in-mexico]]
+- [[sacred-mushroom-traditions-in-mexico]]
 - [[mitragynine]]

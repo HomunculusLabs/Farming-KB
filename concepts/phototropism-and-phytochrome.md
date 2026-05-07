@@ -39,7 +39,7 @@ experimental foundation for understanding how plants perceive directional light
 Darwin's key insight was that phototropism — the bending of a plant toward
 light — was not a product of photosynthesis but rather of a dedicated light-
 sensing system. In a series of simple but definitive experiments using canary
-grass ([[Phalaris canariensis]]) seedlings grown in total darkness, Darwin and
+grass (Phalaris canariensis) seedlings grown in total darkness, Darwin and
 his son demonstrated five critical findings:
 
 1. Untreated seedlings bent toward a dim gas lamp within three hours, even

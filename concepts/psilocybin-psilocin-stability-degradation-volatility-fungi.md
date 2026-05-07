@@ -21,7 +21,7 @@ Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, or 4-PO-DMT) is the phosphat
 
 ## Evidence from Herbarium Specimens
 
-Ohenoja and colleagues detected a clear decline in psilocybin concentration in herbarium specimens of [[Psilocybe semilanceata]] correlated with the age of the collections:
+Ohenoja and colleagues detected a clear decline in psilocybin concentration in herbarium specimens of [[psilocybe-semilanceata]] correlated with the age of the collections:
 
 - Specimens from **1869**: 0.014% dry weight psilocybin
 - Specimens from **1954**: 0.67% dry weight psilocybin
@@ -39,7 +39,7 @@ While the primary studies focused on time-dependent degradation, the rate of alk
 
 ## Time-Dependent Loss of Baeocystin
 
-Repke and colleagues showed that the related compound baeocystin exhibits age-dependent variation. In [[Psilocybe baeocystis]] and [[Psilocybe cyanescens]], specimens analyzed 20 to 60 days after collection showed **no trace of indole compounds** whatsoever. This finding has two important implications:
+Repke and colleagues showed that the related compound baeocystin exhibits age-dependent variation. In [[psilocybe-baeocystis]] and [[psilocybe-cyanescens]], specimens analyzed 20 to 60 days after collection showed **no trace of indole compounds** whatsoever. This finding has two important implications:
 
 1. Baeocystin may degrade even more rapidly than psilocybin.
 2. Chemical studies performed on specimens that are not freshly collected may produce misleadingly low or zero readings for baeocystin, even when the compound was originally present in significant quantities.
@@ -48,7 +48,7 @@ Repke and colleagues showed that the related compound baeocystin exhibits age-de
 
 Indigenous peoples of Mexico, who have used neurotropic fungi for centuries, possess traditional knowledge that aligns precisely with the laboratory findings on alkaloid degradation. Mexican Indian curanderos traditionally advise that **old dried specimens kept for more than one year are not good to use** and should be discarded. This practice likely evolved through empirical observation of diminished effects from aged material.
 
-Guzman himself reported a personal experience supporting the instability of these compounds. In 1958, while exploring Oaxaca in search of neurotropic fungi, he slept in a small closed room filled with a large collection of fresh and semifermented specimens of mixed [[Psilocybe]] species (P. caerulescens, P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum). The air was heavy with a strong acrid aroma, and despite never consuming any fungi, he experienced **colored hallucinations** from prolonged exposure to the volatile compounds. Upon leaving the room for fresh air, the hallucinations ceased immediately. This suggests that psilocybin and psilocin, or their precursors, may be **volatile** at least under conditions of high concentration and warm, enclosed spaces.
+Guzman himself reported a personal experience supporting the instability of these compounds. In 1958, while exploring Oaxaca in search of neurotropic fungi, he slept in a small closed room filled with a large collection of fresh and semifermented specimens of mixed Psilocybe species (P. caerulescens, P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum). The air was heavy with a strong acrid aroma, and despite never consuming any fungi, he experienced **colored hallucinations** from prolonged exposure to the volatile compounds. Upon leaving the room for fresh air, the hallucinations ceased immediately. This suggests that psilocybin and psilocin, or their precursors, may be **volatile** at least under conditions of high concentration and warm, enclosed spaces.
 
 ## Volatility and Environmental Exposure
 
@@ -59,7 +59,7 @@ The Guzman incident raises the possibility that psilocybin and related indoles m
 - **Forensic considerations**: The presence of psilocybin in the air of spaces where mushrooms have been stored could potentially be detected, providing an additional avenue for forensic investigation.
 - **Ecological questions**: It remains unknown whether volatile psilocybin compounds play any ecological role, such as in deterrence of herbivores or attraction of spore-dispersing animals.
 
-The acrid aroma described by Guzman is characteristic of many [[Psilocybe]] species and is often noted by field mycologists as a distinguishing feature. Whether this aroma is caused by psilocybin itself, by related indole compounds, or by other secondary metabolites is not definitively established.
+The acrid aroma described by Guzman is characteristic of many Psilocybe species and is often noted by field mycologists as a distinguishing feature. Whether this aroma is caused by psilocybin itself, by related indole compounds, or by other secondary metabolites is not definitively established.
 
 ## Implications for Chemical Studies
 
@@ -75,7 +75,7 @@ The problem of degradation interacts with the separate problem of taxonomic misi
 
 ### The Panaeolina foenisecii Controversy
 
-[[Panaeolina foenisecii]], the haymaker's mushroom, exemplifies the confusion caused by these methodological issues. Multiple research groups have reported contradictory findings, with some detecting psilocybin and others finding none. While some of this discrepancy may reflect genuine chemical variation between populations, specimen age and storage conditions likely contribute significantly to the inconsistent results.
+[[panaeolina-foenisecii]], the haymaker's mushroom, exemplifies the confusion caused by these methodological issues. Multiple research groups have reported contradictory findings, with some detecting psilocybin and others finding none. While some of this discrepancy may reflect genuine chemical variation between populations, specimen age and storage conditions likely contribute significantly to the inconsistent results.
 
 ## Practical Implications for Storage
 

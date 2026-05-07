@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-Bigwood and Beug (1982) developed a controlled [[psilocybe-cubensis-miniculture-on-rye-grain]] system using rye grain jars to study how [[psilocybin]] and [[psilocin]] levels vary across successive flushes of [[Psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybin-psilocin-flush-variation]] of tryptamine alkaloids in a single cultivated strain, and compared those results to [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye grain miniculture technique with high-performance liquid chromatography ([[HPLC]]) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
+Bigwood and Beug (1982) developed a controlled [[psilocybe-cubensis-miniculture-on-rye-grain]] system using rye grain jars to study how [[psilocybin]] and [[psilocin]] levels vary across successive flushes of [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybin-psilocin-flush-variation]] of tryptamine alkaloids in a single cultivated strain, and compared those results to [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye grain miniculture technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
 
 Prior to this work, most published alkaloid assays were performed on single-batch samples of unknown age, storage history, and strain identity, making it impossible to distinguish biological variation from degradation artifacts. Bigwood and Beug addressed this gap by controlling every variable from spore to analysis.
 
@@ -69,7 +69,7 @@ Proper storage conditions were critical: samples were kept at low temperature an
 
 ## HPLC Analysis Methodology
 
-Alkaloid quantification was performed using [[HPLC]] with ultraviolet detection. Key aspects of the analytical method:
+Alkaloid quantification was performed using HPLC with ultraviolet detection. Key aspects of the analytical method:
 
 - **Standards:** Authentic psilocybin and psilocin reference standards were obtained from the National Institute on Drug Abuse (NIDA), ensuring traceable calibration.
 - **Detection limit:** Approximately 0.01 μg, providing high sensitivity for detecting even trace levels of psilocin in early flushes.
@@ -110,9 +110,9 @@ The street samples showed roughly a **10-fold variation** in psilocybin content 
 
 This study was foundational in demonstrating that:
 
-1. [[Flush-variation]] in alkaloid content is substantial and non-trivial, with a greater than 4-fold range in psilocybin and an all-or-nothing pattern for psilocin.
+1. Flush-variation in alkaloid content is substantial and non-trivial, with a greater than 4-fold range in psilocybin and an all-or-nothing pattern for psilocin.
 2. Post-harvest handling critically affects alkaloid integrity, as shown by the low psilocin in [[psilocybe-cubensis-street-sample-potency-variability]].
-3. [[Cap-stem-distribution]] is non-uniform, meaning that whole-fruitbody analysis averages over significant internal variation.
+3. Cap-stem-distribution is non-uniform, meaning that whole-fruitbody analysis averages over significant internal variation.
 
 Limitations include the use of a single strain (the Pucallpa isolate), which means the results may not generalize to all *P. cubensis* strains or to other psilocybin-containing species. The miniculture conditions (small jars, indoor environment) also differ from natural or commercial growing operations, potentially affecting absolute alkaloid levels. Additionally, the sample size per flush was limited by the small-scale miniculture approach, and inter-jar variability was not fully characterized.
 

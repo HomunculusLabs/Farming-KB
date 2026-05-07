@@ -147,5 +147,5 @@ Non-pathogenic to humans, non-phytotoxic. GRAS status (EPA, OECD). Rare allergic
 ## See Also
 - [[trichoderma]] · [[trichoderma-viride]] · [[trichoderma-virens]]
 - [[contamination-identification-prevention]] · [[growing-gourmet-trichoderma-green-mold-management]]
-- [[Beauveria bassiana]] · [[Metarhizium anisopliae]] · [[Mycorrhizal Networks]]
-- [[Paul Stamets]] · [[Integrated Pest Management]]
+- [[beauveria-bassiana]] · [[metarhizium-anisopliae]] · [[mycorrhizal-networks]]
+- [[paul-stamets]] · [[integrated-pest-management]]

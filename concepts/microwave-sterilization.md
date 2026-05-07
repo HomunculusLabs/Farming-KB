@@ -35,7 +35,7 @@ Active vegetative microbial cells naturally contain water.
 
 Microwaves of sufficient intensity and duration penetrate the microbial cell wall, couple with the intrinsic cellular water, and kill the organism through thermal effects.
 
-This means even dry microwave irradiation is capable of killing most vegetative cells, including species like [[Escherichia coli]] and [[Pseudomonas cepacia]].
+This means even dry microwave irradiation is capable of killing most vegetative cells, including species like Escherichia coli and Pseudomonas cepacia.
 
 The key advantage is that the killing effect is achieved through volumetric heating of the cell contents rather than relying on external heat transfer through the surrounding medium.
 
@@ -43,7 +43,7 @@ The key advantage is that the killing effect is achieved through volumetric heat
 
 Bacterial spores present a greater challenge because they contain minimal free water for microwave energy to couple with.
 
-Spores such as [[Bacillus pumilus]] are relatively resistant to dry microwave irradiation due to the absence of free water for the microwaves to couple with.
+Spores such as Bacillus pumilus are relatively resistant to dry microwave irradiation due to the absence of free water for the microwaves to couple with.
 
 The solution involves introducing small quantities of water (approximately 9 uL per cm2) to the contaminated surface.
 
@@ -91,7 +91,7 @@ Experimental results demonstrate that total microwave exposure of 13.1 W-hr at a
 
 The efficiency of microbial kill depends on three primary variables: duration and intensity of microwave exposure, the amount of water present on the surface, and the kind and number of microorganisms present.
 
-Microbial kill curves for mixed surface populations of [[Bacillus pumilus]], [[Escherichia coli]], and [[Pseudomonas cepacia]] show progressive reduction with increasing microwave exposure.
+Microbial kill curves for mixed surface populations of Bacillus pumilus, Escherichia coli, and Pseudomonas cepacia show progressive reduction with increasing microwave exposure.
 
 A 10% reduction (one order of magnitude) is achieved at approximately 2-3 W-hr.
 

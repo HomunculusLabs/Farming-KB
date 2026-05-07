@@ -144,6 +144,8 @@ single liquid amendment.
 
 ## See Also
 
+- [[comparison-mead-vs-kvass-fermented-beverages]]
+
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-fpj-vs-ffj]]

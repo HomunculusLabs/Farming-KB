@@ -19,7 +19,7 @@ type: concept
 
 # Clay Pellet Seed Balls
 
-**Clay pellet seed balls** (also called seed pellets or clay dumplings) are a direct-seeding technique developed by [[Masanobu Fukuoka]] for use in [[natural farming]]. Seeds are encased in balls of clay and soil, which protect them from predation by birds and mice, regulate germination timing, and eliminate the need for tillage, transplanting, or nursery beds.
+**Clay pellet seed balls** (also called seed pellets or clay dumplings) are a direct-seeding technique developed by [[masanobu-fukuoka]] for use in [[natural farming]]. Seeds are encased in balls of clay and soil, which protect them from predation by birds and mice, regulate germination timing, and eliminate the need for tillage, transplanting, or nursery beds.
 
 The technique is integral to [[no-till rice barley succession]] and has been proposed as a method for large-scale desert revegetation.
 
@@ -127,7 +127,7 @@ The technique demonstrates that working with nature's own mechanisms of seed dis
 - [[clay-seed-balls-tsuchi-dango]]
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[natural farming]]
 - [[no-till rice barley succession]]
 - [[desert revegetation]]

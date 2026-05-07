@@ -28,8 +28,8 @@ The analytical system used in the 1982 study consisted of several components:
 
 The reversed-phase approach uses a non-polar stationary phase (typically silica bonded with C18 hydrocarbon chains) with a polar mobile phase (usually water or buffer mixed with an organic modifier such as methanol or acetonitrile). This configuration is well-suited for separating tryptamine alkaloids based on their differing polarities:
 
-- [[Psilocybin]] is a zwitterionic phosphate ester with both positively charged amine and negatively charged phosphate groups, making it relatively polar
-- [[Psilocin]] lacks the phosphate group and is less polar, resulting in stronger retention on the non-polar stationary phase and longer retention time
+- [[psilocybin]] is a zwitterionic phosphate ester with both positively charged amine and negatively charged phosphate groups, making it relatively polar
+- [[psilocin]] lacks the phosphate group and is less polar, resulting in stronger retention on the non-polar stationary phase and longer retention time
 
 This polarity difference produces baseline separation of the two compounds, allowing each to be quantified independently without interference.
 
@@ -93,7 +93,7 @@ The clarified extract is injected directly into the HPLC system without further 
 
 ### Psilocin Instability
 
-[[Psilocin]] is significantly less stable than [[psilocybin]] and poses special analytical challenges that must be addressed at every step of the workflow:
+[[psilocin]] is significantly less stable than [[psilocybin]] and poses special analytical challenges that must be addressed at every step of the workflow:
 
 - **Oxidation**: The free phenolic hydroxyl group is susceptible to oxidation, forming blue-colored quinone polymers. This is the same reaction responsible for the characteristic blue bruising observed when psilocybin mushrooms are handled or damaged.
 - **Light sensitivity**: Exposure to UV and visible light accelerates psilocin degradation
@@ -129,7 +129,7 @@ Despite these advances, the fundamental reversed-phase separation principles, ac
 
 ## See Also
 
-- [[Psilocybin Variation Across Flushes]]
-- [[Psilocin Accumulation Pattern Across Flushes]]
-- [[Cap vs Stem Alkaloid Distribution]]
-- [[Psilocybe Cubensis Miniculture Method]]
+- [[psilocybin-variation-across-flushes]]
+- [[psilocin-accumulation-pattern-across-flushes]]
+- [[cap-vs-stem-alkaloid-distribution]]
+- [[psilocybe-cubensis-miniculture-method]]

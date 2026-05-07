@@ -16,7 +16,8 @@ sources:
   - Rivera, D. et al. (2003). "Ethnobotany of Cydonia oblonga (quince) in the Mediterranean." Economic Botany 57(2): 186-194.
   - Magwaza, L.S. et al. (2016). "Quince (Cydonia oblonga Mill.) Fruit: A Review of Bioactive Compounds and Health Benefits." Food Science and Technology International 22(4): 335-353.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
-  - Jacke, D. & Toensmeier, E. (2005). "Edible Forest Gardens, Vol. 2." Chelsea Green Publishing.
+  - Jacke, D. & Toensmeier, E. (2005). "Edible Forest Gardens, Vol. 2." Chelsea Green Publishing.created: 2026-05-07
+
 ---
 
 ## Overview

@@ -194,7 +194,7 @@ naturally compact and resilient.
 - [[critical-mass]]
 - [[northern-lights]]
 - [[sea-of-green]]
-- [[White Widow]]
-- [[Indica]]
-- [[Medicinal Cannabis]]
-- [[Green House Seeds]]
+- [[white-widow]]
+- Indica
+- Medicinal Cannabis
+- Green House Seeds

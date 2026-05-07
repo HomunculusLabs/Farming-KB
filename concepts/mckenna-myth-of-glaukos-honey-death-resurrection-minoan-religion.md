@@ -14,7 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - mckenna_t-food_of_the_gods.md
+  - mckenna_t-food_of_the_gods.mdcreated: 2026-05-07
+type: concept
+
 ---
 
 # The Myth of Glaukos - Honey, Death and Resurrection in Minoan Religion
@@ -145,3 +147,10 @@ the subjugation of nature, the Minoans understood their gods as "a kind of psych
 climate" — immanent, participatory, accessible through botanical means rather than
 requiring priestly intermediaries. The Glaukos myth, in this reading, is a fossil of
 that older, partnership-oriented worldview.
+
+## See Also
+
+- [[entheogen-culture]]
+
+- [[terence-mckenna|McKenna]]
+- [[eleusinian-mysteries-history-and-structure|Minoan]]

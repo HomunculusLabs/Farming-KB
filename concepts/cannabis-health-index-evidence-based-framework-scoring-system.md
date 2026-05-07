@@ -187,11 +187,11 @@ typical in either pro- or anti-cannabis advocacy contexts.
 - [[cannabis-health-index]]
 - [[endocannabinoid-system]]
 - [[uwe-blesching]]
-- [[Cannabis therapeutics evidence hierarchy]] for detailed evidence level
+- Cannabis therapeutics evidence hierarchy for detailed evidence level
   definitions
-- [[Endocannabinoid system clinical pharmacology]] for the biological basis of
+- Endocannabinoid system clinical pharmacology for the biological basis of
   cannabinoid therapy
-- [[Cannabis entourage effect]] for the science of multi-compound interactions
-- [[Medical cannabis clinical trial methodology]] for challenges in cannabis
+- Cannabis entourage effect for the science of multi-compound interactions
+- Medical cannabis clinical trial methodology for challenges in cannabis
   research design
-- [[Cannabis dosing and administration routes]] for pharmacokinetic considerations
+- Cannabis dosing and administration routes for pharmacokinetic considerations

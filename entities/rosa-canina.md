@@ -152,6 +152,6 @@ ecological and practical functions:
 
 - [[peltigera-canina]]
 
-- [[Rosa-rugosa]]
-- [[Rosaceae]]
-- [[Wild-Edibles]]
+- Rosa-rugosa
+- Rosaceae
+- Wild-Edibles

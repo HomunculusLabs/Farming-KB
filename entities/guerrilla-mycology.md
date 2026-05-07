@@ -153,8 +153,8 @@ Guerrilla mycology raises important questions:
 - [[bloomfield-buller-experimental-mycology]]
 - [[history-of-mycology-timeline]]
 
-- [[Mycorrhizal Networks]] — fungal-plant symbiosis in ecosystems
-- [[Mycoremediation]] — comprehensive overview of fungal bioremediation
-- [[Pleurotus Ostreatus]] — oyster mushroom biology and cultivation
-- [[Radical Mycology Movement]] — community fungal education and activism
-- [[Permaculture Design Principles]] — ecological design framework
+- [[mycorrhizal-networks]] — fungal-plant symbiosis in ecosystems
+- [[mycoremediation]] — comprehensive overview of fungal bioremediation
+- [[pleurotus-ostreatus]] — oyster mushroom biology and cultivation
+- Radical Mycology Movement — community fungal education and activism
+- Permaculture Design Principles — ecological design framework

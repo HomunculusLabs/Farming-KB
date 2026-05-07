@@ -129,9 +129,9 @@ Where psychoactive plants do not occur, information transfer between species pro
 ## See Also
 
 - [[psilocybin]]
-- [[DMT]]
+- [[dmt]]
 - [[ayahuasca-preparation]]
 - [[ibogaine]]
-- [[Stropharia cubensis]]
+- [[stropharia-cubensis]]
 - [[stoned ape hypothesis]]
-- [[Transcendent Other]]
+- Transcendent Other

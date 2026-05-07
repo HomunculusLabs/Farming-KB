@@ -146,10 +146,10 @@ integration in polyculture systems.
 - [[calendula-officinalis]]
 - [[companion-planting]]
 
-- [[Calendula officinalis]] — Asteraceae medicinal flower with
+- [[calendula-officinalis]] — Asteraceae medicinal flower with
   overlapping topical anti-inflammatory uses.
-- [[Achillea millefolium]] — yarrow, related Asteraceae herb for
+- [[achillea-millefolium]] — yarrow, related Asteraceae herb for
   wound healing and digestive complaints.
-- [[Chamaemelum nobile]] — Roman chamomile, the perennial relative.
-- [[Hypericum perforatum]] — St. John's wort, used alongside
+- Chamaemelum nobile — Roman chamomile, the perennial relative.
+- [[hypericum-perforatum]] — St. John's wort, used alongside
   chamomile for mood support and wound healing.

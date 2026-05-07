@@ -105,7 +105,7 @@ The ECS demonstrates measurable connections between emotional states and physica
 
 ## Synthetic Cannabinoids
 
-Pharmaceutical cannabinoids include Sativex (plant-derived tincture), Dronabinol, Marinol, and Nabilone. These are FDA-approved for conditions including AIDS-related anorexia, chemotherapy-induced nausea, neurological disorders, inflammatory conditions, and [[PTSD]]. However, with the exception of Sativex, they lack the full spectrum of biologically active cannabis components.
+Pharmaceutical cannabinoids include Sativex (plant-derived tincture), Dronabinol, Marinol, and Nabilone. These are FDA-approved for conditions including AIDS-related anorexia, chemotherapy-induced nausea, neurological disorders, inflammatory conditions, and PTSD. However, with the exception of Sativex, they lack the full spectrum of biologically active cannabis components.
 
 ## Research Landscape
 

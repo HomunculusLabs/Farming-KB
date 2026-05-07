@@ -115,7 +115,9 @@ Today, full-time farm households in Japan have grown to 15 and even 25 acres in 
 
 The evidence is clear: more land per household has not meant greater security or prosperity. It has meant greater dependence on external inputs, greater debt, and greater vulnerability to market fluctuations.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-textdoc-agricultural-land-law-obstacles-road-back-farming]] Concepts
 
 - [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]

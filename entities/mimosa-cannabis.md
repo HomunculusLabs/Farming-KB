@@ -147,9 +147,9 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The entourage effect 
 - [[granddaddy-purple]]
 - [[green-crack]]
 
-- [[Blue Dream]] — similar sativa-dominant hybrid with balanced effects
+- [[blue-dream]] — similar sativa-dominant hybrid with balanced effects
 - [[Tangie (Cannabis)]] — pure citrus sativa, Clementine relative
-- [[Purple Punch]] — Mimosa's indica-dominant parent
-- [[Green Crack]] — another energizing daytime sativa-dominant strain
-- [[Super Lemon Haze]] — citrus-forward sativa with similar energetic profile
-- [[Sour Diesel]] — classic energizing sativa for daytime use
+- [[purple-punch]] — Mimosa's indica-dominant parent
+- [[green-crack]] — another energizing daytime sativa-dominant strain
+- [[super-lemon-haze]] — citrus-forward sativa with similar energetic profile
+- [[sour-diesel]] — classic energizing sativa for daytime use

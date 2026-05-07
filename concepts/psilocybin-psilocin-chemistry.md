@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Psilocybin and psilocin are the principal psychoactive compounds found in hallucinogenic mushrooms of the genera [[Psilocybe]], [[Conocybe]], [[Copelandia]], [[Panaeolus]], and [[Inocybe]]. They belong to the indolealkylamine (tryptamine) class of compounds, the same broad chemical family as LSD and serotonin (5-HT). Understanding their chemistry is essential for comprehending their pharmacological effects, potency variability, and legal status.
+Psilocybin and psilocin are the principal psychoactive compounds found in hallucinogenic mushrooms of the genera Psilocybe, Conocybe, Copelandia, Panaeolus, and Inocybe. They belong to the indolealkylamine (tryptamine) class of compounds, the same broad chemical family as LSD and serotonin (5-HT). Understanding their chemistry is essential for comprehending their pharmacological effects, potency variability, and legal status.
 
 ## Chemical Classification
 
@@ -77,7 +77,7 @@ Mushroom potency depends on several variables that contribute to the inherent un
 - **Part of the mushroom:** Caps generally contain higher concentrations of active alkaloids than stems, though both are psychoactive
 - **Storage conditions:** Drying method, temperature, and light exposure during storage affect degradation rates and final potency
 
-The most potent species (e.g., [[Psilocybe semilanceata]]) can contain up to approximately 1% psilocybin by dry weight. [[Psilocybe azurescens]] and [[Psilocybe bohemica]] have also been reported with higher-than-average potency. In contrast, [[Psilocybe cubensis]] typically contains psilocybin and psilocin at concentrations up to approximately 0.6%.
+The most potent species (e.g., [[psilocybe-semilanceata]]) can contain up to approximately 1% psilocybin by dry weight. [[psilocybe-azurescens]] and [[psilocybe-bohemica]] have also been reported with higher-than-average potency. In contrast, [[psilocybe-cubensis]] typically contains psilocybin and psilocin at concentrations up to approximately 0.6%.
 
 These values serve as rough orientation only. Individual specimens can vary considerably, making precise dosing from wild or even cultivated mushrooms inherently unpredictable. The concentration may also vary within a single specimen, with the cap generally containing higher alkaloid levels than the stem.
 
@@ -91,7 +91,7 @@ Because there is usually more than one active substance present (psilocybin, psi
 
 ## Comparison with Amanita Muscaria
 
-The chemistry of [[Amanita muscaria]] (fly agaric) is entirely distinct from psilocybin-containing mushrooms. Its active compounds are muscimol, ibotenic acid, and muscarine, which are chemically unrelated to tryptamines. Amanita species carry substantially greater toxicity risks, and some closely related Amanita species are lethally poisonous. This chemical distinction is important for both harm reduction and legal classification purposes.
+The chemistry of [[amanita-muscaria]] (fly agaric) is entirely distinct from psilocybin-containing mushrooms. Its active compounds are muscimol, ibotenic acid, and muscarine, which are chemically unrelated to tryptamines. Amanita species carry substantially greater toxicity risks, and some closely related Amanita species are lethally poisonous. This chemical distinction is important for both harm reduction and legal classification purposes.
 
 Muscimol is a GABA-A receptor agonist, producing sedative-hypnotic and dissociative effects that are qualitatively very different from the serotonergic psychedelic effects of psilocybin. Ibotenic acid is a glutamate receptor agonist that acts as a prodrug for muscimol through decarboxylation. The experiences produced by Amanita species are typically described as more delirious and less controllable than those of psilocybin mushrooms, with greater risk of nausea, confusion, and ataxia.
 
@@ -105,7 +105,7 @@ Psilocin and psilocybin are both controlled under the 1971 UN Convention on Psyc
 
 The nomenclature surrounding these compounds has evolved significantly. The term "hallucinogenic" refers to hallucination-producing properties, but the hallucinations are not the only or even primary effects. Changes of thought, mood, and personality integration are all important pharmacological effects. The preference among users for the term "psychedelic" reflects the desire for a name that captures the broader experiential aspects rather than focusing solely on perceptual changes.
 
-Historically, information about the use of mushrooms for hallucinogenic effects first appeared in a 1957 Life magazine article by R. Gordon Wasson, who described his experiences with psilocybin mushrooms in Mexico. This publication is widely credited with introducing psilocybin mushrooms to Western popular culture and scientific attention. Albert Hofmann, the Swiss chemist who first synthesized LSD, subsequently isolated and identified psilocybin and psilocin from [[Psilocybe mexicana]] specimens collected by Wasson, publishing the results in 1958.
+Historically, information about the use of mushrooms for hallucinogenic effects first appeared in a 1957 Life magazine article by R. Gordon Wasson, who described his experiences with psilocybin mushrooms in Mexico. This publication is widely credited with introducing psilocybin mushrooms to Western popular culture and scientific attention. Albert Hofmann, the Swiss chemist who first synthesized LSD, subsequently isolated and identified psilocybin and psilocin from [[psilocybe-mexicana]] specimens collected by Wasson, publishing the results in 1958.
 
 Since then, psilocybin has been the subject of clinical research exploring its potential therapeutic applications, particularly in the treatment of depression, anxiety, and substance use disorders. Modern research has used purified synthetic psilocybin in controlled clinical settings, providing a clearer picture of the pharmacology than studies using whole mushrooms with their variable alkaloid content.
 
@@ -119,6 +119,6 @@ The terminology used to describe these substances varies significantly between c
 - [[amanita-muscaria]]
 - [[baeocystin]]
 
-- [[Hallucinogenic Mushroom Prevalence in Europe]]
-- [[Dose Effects and Health Risks of Psilocybin Mushrooms]]
-- [[Psilocybe Species Identification]]
+- [[hallucinogenic-mushroom-prevalence-in-europe]]
+- Dose Effects and Health Risks of Psilocybin Mushrooms
+- [[psilocybe-species-identification]]

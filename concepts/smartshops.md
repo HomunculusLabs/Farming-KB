@@ -36,8 +36,8 @@ making them the single most important product category.
 A 2001 study of young people aged 12 and above in the Netherlands found that 64% of those
 aged 18 and older who had used magic mushrooms in the previous year had purchased them in
 smartshops. Smartshops also sold related products including sclerotia (marketed as
-philosopher's stones or truffles), particularly from [[Psilocybe mexicana]] and
-[[Psilocybe tampanensis]]. Some coffee shops, headshops (which sell drug paraphernalia),
+philosopher's stones or truffles), particularly from [[psilocybe-mexicana]] and
+[[psilocybe-tampanensis]]. Some coffee shops, headshops (which sell drug paraphernalia),
 and grow shops (for home cannabis cultivation) also sold hallucinogenic mushrooms. In some
 areas, paddo cabs operated home delivery services for hallucinogenic mushrooms, reflecting
 the degree of commercial sophistication in the Dutch market.
@@ -45,13 +45,13 @@ the degree of commercial sophistication in the Dutch market.
 ## Product Range and Marketing
 
 The primary hallucinogenic mushroom species sold by smartshops are cultivated
-[[Psilocybe cubensis]] varieties, most notably the Mexican strain. These are sold both
+[[psilocybe-cubensis]] varieties, most notably the Mexican strain. These are sold both
 fresh and dried, along with sclerotia, spore prints, spawn bags, and growkits for home
 cultivation. Mushrooms and related products are often marketed under the general label of
 herbal highs, a trend that emerged in the late 1990s reflecting consumer preference for
 natural and organic products. Other products sold under this label include herbal ecstasy
 (typically containing ephedra alkaloids from Sida cordifolia, guarana, caffeine, Siberian
-ginseng, and kola nut) and [[Salvia divinorum]].
+ginseng, and kola nut) and [[salvia-divinorum]].
 
 The term philosopher's stone is used commercially to describe the sclerotia of certain
 hallucinogenic mushrooms, a hardened mass of mycelium that serves as a defence mechanism
@@ -74,7 +74,7 @@ English, French, and German) to attract foreign customers, and a range of produc
 fresh mushrooms to cultivation supplies. Website statistics for one Dutch online shop
 showed that between May 2004 and February 2006, visitors came primarily from the Netherlands
 (73%), followed by Belgium (14%), Germany (2%), and France (2%). Prices for fresh
-[[Psilocybe cubensis]] ranged from approximately 8.5 to 45 EUR per 30 grams, while growkits
+[[psilocybe-cubensis]] ranged from approximately 8.5 to 45 EUR per 30 grams, while growkits
 sold for 25 to 100 EUR. Spore prints sold for 9 to 28 EUR.
 
 ## UK Market Before Prohibition
@@ -99,8 +99,8 @@ ultimately amended its law in 2005 to change the definition of controlled substa
 plant to organism, specifically to close this loophole for mushrooms.
 
 Following legislative changes in the UK (2005) and Ireland (2006), smartshops and online
-retailers adapted by pivoting to legal alternatives such as [[Amanita muscaria]] (fly agaric)
-and [[Amanita pantherina]] (panther cap), or products like Purple Ohms capsules containing
+retailers adapted by pivoting to legal alternatives such as [[amanita-muscaria]] (fly agaric)
+and [[amanita-pantherina]] (panther cap), or products like Purple Ohms capsules containing
 Hawaiian Baby Woodrose (Argyreia nervosa) seeds with lysergic acid amide (LSA). The UK
 Mixmag survey conducted in 2005, shortly after the imposition of stricter controls, found
 that 67% of respondents reported that mushrooms were less available than previously,
@@ -129,7 +129,7 @@ combination with alcohol.
 
 - [[smartshops-and-hallucinogenic-mushroom-retail]]
 
-- [[Hallucinogenic mushrooms]]
-- [[Psilocybe cubensis]]
-- [[Amanita muscaria]]
-- [[Salvia divinorum]]
+- Hallucinogenic mushrooms
+- [[psilocybe-cubensis]]
+- [[amanita-muscaria]]
+- [[salvia-divinorum]]

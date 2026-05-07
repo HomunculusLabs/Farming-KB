@@ -98,7 +98,7 @@ Angelica has a rich pharmacological profile attributed to its diverse phytochemi
 
 **Respiratory system:** As an expectorant, angelica promotes productive coughing in bronchitis, pleurisy, and chronic respiratory congestion. Its warming, diaphoretic properties make it useful in the early stages of colds and influenza — traditionally combined with elderflower and peppermint in fever teas.
 
-**Women's health:** Though less specific than its Chinese cousin [[Angelica sinensis]] (dong quai), European angelica has emmenagogue properties and has been used to stimulate delayed or absent menstruation. It was historically employed for dysmenorrhea and menopausal symptoms, though this use is less supported by modern clinical evidence.
+**Women's health:** Though less specific than its Chinese cousin [[angelica-sinensis]] (dong quai), European angelica has emmenagogue properties and has been used to stimulate delayed or absent menstruation. It was historically employed for dysmenorrhea and menopausal symptoms, though this use is less supported by modern clinical evidence.
 
 **Circulatory system:** The coumarin constituents have mild anticoagulant and blood-thinning effects. Angelica was traditionally used as a "blood purifier" and to promote peripheral circulation, particularly in cases of cold extremities and poor venous return. **Caution:** this anticoagulant effect necessitates caution in patients on warfarin or other blood-thinning medications.
 

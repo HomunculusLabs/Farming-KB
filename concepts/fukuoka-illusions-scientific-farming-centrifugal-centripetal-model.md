@@ -54,7 +54,7 @@ The plow serves as Fukuoka's primary example: "Flood a field with water, stir it
 
 Fukuoka provided quantitative evidence for the energy inefficiency of scientific farming:
 
-- [[Natural-farming]] produces approximately 130 pounds of rice (200,000 kilocalories) per man-day of labor, without outside material inputs
+- [[natural-farming]] produces approximately 130 pounds of rice (200,000 kilocalories) per man-day of labor, without outside material inputs
 - This is roughly 100 times the daily caloric intake of a farmer on a natural diet
 - Traditional farming with horses and oxen required ten times as much energy expenditure
 - Small-scale mechanization doubled the energy input again

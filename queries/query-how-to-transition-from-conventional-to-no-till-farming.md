@@ -113,7 +113,7 @@ Yield drag is real but typically limited to years 2–3, and only on 5–15% of 
 
 ## How do mycorrhizal networks recover?
 
-[[Mycorrhiza|Mycorrhizal fungi]] are severely damaged by tillage, which breaks hyphal networks. Recovery follows this pattern:
+[[mycorrhizal-fungi|Mycorrhiza]] are severely damaged by tillage, which breaks hyphal networks. Recovery follows this pattern:
 
 - **Year 1:** Mycorrhizal colonization rates may be under 10% of root length. Phosphorus uptake is reduced.
 - **Year 2–3:** Colonization rises to 30–50% as hyphae spread from undisturbed field margins, fence rows, and surviving root fragments. This is why leaving some areas undisturbed on the farm matters.

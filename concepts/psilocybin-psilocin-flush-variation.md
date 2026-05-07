@@ -15,17 +15,17 @@ sources:
 type: concept
 ---
 
-# Psilocybin and Psilocin Variation Across Flushes in [[Psilocybe cubensis]]
+# Psilocybin and Psilocin Variation Across Flushes in [[psilocybe-cubensis]]
 
 ## Overview
 
-The alkaloid content of [[Psilocybe cubensis]] fruiting bodies varies substantially across successive flushes (harvests) of the same culture. Research by Bigwood and Beug (1982) demonstrated that [[psilocin]] levels are nearly absent in early flushes, peak by the fourth flush, and then decline, while [[psilocybin]] shows no consistent directional trend but varies by a factor of four across flushes. These findings have direct implications for dosing accuracy and [[hofmann-self-experiment-with-ergonovine]] risks among recreational and therapeutic users.
+The alkaloid content of [[psilocybe-cubensis]] fruiting bodies varies substantially across successive flushes (harvests) of the same culture. Research by Bigwood and Beug (1982) demonstrated that [[psilocin]] levels are nearly absent in early flushes, peak by the fourth flush, and then decline, while [[psilocybin]] shows no consistent directional trend but varies by a factor of four across flushes. These findings have direct implications for dosing accuracy and [[hofmann-self-experiment-with-ergonovine]] risks among recreational and therapeutic users.
 
 ## Study Design
 
 ### Strain and Cultivation
 
-The study used the Amazonian strain of [[Psilocybe cubensis]], sourced from a spore print collected near Pucallpa, Peru. Cultivation followed the [[San Antonio 1971]] method as refined by Oss and Oeric (1976). The substrate consisted of [[psilocybe-cubensis-miniculture-on-rye-grain]] medium in miniculture jars (250 mL) containing 10 g of rye grain and 15 mL of water, autoclaved for sterility and inoculated with spore solution.
+The study used the Amazonian strain of [[psilocybe-cubensis]], sourced from a spore print collected near Pucallpa, Peru. Cultivation followed the San Antonio 1971 method as refined by Oss and Oeric (1976). The substrate consisted of [[psilocybe-cubensis-miniculture-on-rye-grain]] medium in miniculture jars (250 mL) containing 10 g of rye grain and 15 mL of water, autoclaved for sterility and inoculated with spore solution.
 
 Jars were shaken every four days for 28 days to promote even [[mycelial-network-communication]] colonization of the grain substrate. After full colonization, each jar was cased with a mixture of two parts [[peat-free-gardening]], one part calcium carbonate (CaCO₃), and two parts [[perlite-cannabis]] or [[vermiculite-cannabis]]. The casing layer serves as a reservoir for moisture and provides a microclimate conducive to [[chen-maitake-primordia-initiation-fruiting]] formation and fruiting body development.
 
@@ -39,7 +39,7 @@ This extended fruiting period made it possible to track alkaloid dynamics across
 
 ### Analytical Methods
 
-Alkaloid quantification was performed using [[reversed-phase HPLC]], calibrated against standards provided by the [[NIDA]] (National Institute on Drug Abuse). The detection limit was approximately 0.01 μg for both [[psilocybin]] and [[psilocin]]. This high sensitivity was essential for reliably detecting the very low psilocin concentrations present in early flushes, where values approached the threshold of detection.
+Alkaloid quantification was performed using [[reversed-phase HPLC]], calibrated against standards provided by the NIDA (National Institute on Drug Abuse). The detection limit was approximately 0.01 μg for both [[psilocybin]] and [[psilocin]]. This high sensitivity was essential for reliably detecting the very low psilocin concentrations present in early flushes, where values approached the threshold of detection.
 
 The use of NIDA-calibrated standards ensured analytical rigor and comparability with other studies employing the same reference materials, an important consideration for reproducibility in [[psychedelic research]].
 
@@ -60,13 +60,13 @@ The following table presents measured alkaloid levels in mg per gram of dry weig
 
 ### Psilocin Trends
 
-[[Psilocin]] was generally absent or near the detection limit in the first flush (0 mg/g in two of three samples). It remained low or absent through the second flush, rose to moderate levels by the third flush, and reached its maximum concentration in the fourth flush. By the sixth flush, psilocin had declined substantially. This pattern suggests that psilocin accumulation is a function of culture age and may reflect metabolic maturation of the [[mycelium]].
+[[psilocin]] was generally absent or near the detection limit in the first flush (0 mg/g in two of three samples). It remained low or absent through the second flush, rose to moderate levels by the third flush, and reached its maximum concentration in the fourth flush. By the sixth flush, psilocin had declined substantially. This pattern suggests that psilocin accumulation is a function of culture age and may reflect metabolic maturation of the [[mycelium]].
 
 The delayed onset of psilocin production relative to psilocybin may indicate that [[psilocin]] is not simply a degradation product of psilocybin but rather accumulates through a distinct metabolic pathway that develops as the culture matures. Alternatively, the increasing psilocin in later flushes could result from progressive depletion of phosphatase activity in aging fruiting bodies, reducing enzymatic conversion of psilocin back to its phosphorylated precursor.
 
 ### Psilocybin Trends
 
-[[Psilocybin]] showed no clear directional trend across flushes. Concentrations ranged from approximately 3.2 to 13.3 mg/g dry weight, representing a fourfold variation. The highest single measurement (13.3 mg/g) occurred in the third flush of one jar, but this was not consistently reproduced across replicates. The variability between jars within the same flush was comparable to the variability between flushes, indicating substantial sample-to-sample inconsistency.
+[[psilocybin]] showed no clear directional trend across flushes. Concentrations ranged from approximately 3.2 to 13.3 mg/g dry weight, representing a fourfold variation. The highest single measurement (13.3 mg/g) occurred in the third flush of one jar, but this was not consistently reproduced across replicates. The variability between jars within the same flush was comparable to the variability between flushes, indicating substantial sample-to-sample inconsistency.
 
 Notably, psilocybin was nearly always present at concentrations at least twice that of psilocin, and in early flushes the ratio was far higher due to the near-absence of psilocin. This persistent disparity underscores the chemical instability of psilocin relative to its phosphorylated analogue, [[psilocybin]].
 
@@ -104,13 +104,13 @@ For any application requiring consistent dosing, whether therapeutic, research, 
 
 ## Limitations
 
-The study analyzed a single strain (Amazonian) under one set of cultivation conditions. Alkaloid profiles may differ substantially for other [[Psilocybe cubensis]] strains or related [[Psilocybe]] species grown on different substrates or under varied environmental parameters such as temperature, humidity, and light exposure. The small number of replicate jars per flush limits the statistical power of the comparisons, and inter-jar variability was substantial.
+The study analyzed a single strain (Amazonian) under one set of cultivation conditions. Alkaloid profiles may differ substantially for other [[psilocybe-cubensis]] strains or related Psilocybe species grown on different substrates or under varied environmental parameters such as temperature, humidity, and light exposure. The small number of replicate jars per flush limits the statistical power of the comparisons, and inter-jar variability was substantial.
 
 Additionally, the study did not assess the effect of drying method on alkaloid preservation, which represents an important variable for real-world applicability. Psilocin is known to be susceptible to oxidative degradation, and drying temperature, airflow, and storage conditions could all influence the ratio of psilocybin to psilocin in the final product. Future work might address these variables systematically across multiple strains and substrates.
 
 ## Summary
 
-Bigwood and Beug (1982) provided the first controlled evidence that alkaloid content in [[Psilocybe cubensis]] is not uniform across flushes. The key findings are that [[psilocin]] follows a bell-shaped curve peaking at the fourth flush while [[psilocybin]] remains variable without a clear trend, that caps are roughly twice as potent as stems for psilocybin, and that street samples exhibit tenfold variability in potency. Together, these results demonstrate that dry weight alone is an unreliable proxy for [[psychedelic dose]].
+Bigwood and Beug (1982) provided the first controlled evidence that alkaloid content in [[psilocybe-cubensis]] is not uniform across flushes. The key findings are that [[psilocin]] follows a bell-shaped curve peaking at the fourth flush while [[psilocybin]] remains variable without a clear trend, that caps are roughly twice as potent as stems for psilocybin, and that street samples exhibit tenfold variability in potency. Together, these results demonstrate that dry weight alone is an unreliable proxy for [[psychedelic dose]].
 
 ## See Also
 
@@ -118,9 +118,9 @@ Bigwood and Beug (1982) provided the first controlled evidence that alkaloid con
 
 - [[psilocybin-variation-across-flushes]]
 
-- [[Psilocybe cubensis]] cultivation methods
-- [[Reversed-phase HPLC]] for alkaloid analysis
-- [[Psilocybin]] biosynthesis pathway
-- [[Self-blinding]] in psychedelic research
-- [[Street sample]] variability in illicit mushrooms
-- [[Microdosing]] and dosing uncertainty
+- [[psilocybe-cubensis]] cultivation methods
+- Reversed-phase HPLC for alkaloid analysis
+- [[psilocybin]] biosynthesis pathway
+- Self-blinding in psychedelic research
+- Street sample variability in illicit mushrooms
+- Microdosing and dosing uncertainty

@@ -125,6 +125,6 @@ it near the Polyporales and the Thelephorales.
 - [[foeniculum-vulgare-entity]]
 - [[origanum-vulgare-entity]]
 
-[[Hydnellum peckii]] · [[Hericium erinaceus]] · [[Fistulina hepatica]] ·
-[[Sarcodon imbricatus]] · [[Hydnum repandum]] · [[Lentinula edodes]] ·
-[[Pisolithus]] · [[Thelephora terrestris]] · [[Tricholoma matsutake]]
+[[hydnellum-peckii]] · [[hericium-erinaceus]] · [[fistulina-hepatica]] ·
+[[sarcodon-imbricatus]] · [[hydnum-repandum]] · [[lentinula-edodes]] ·
+Pisolithus · [[thelephora-terrestris]] · [[tricholoma-matsutake]]

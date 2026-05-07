@@ -142,7 +142,9 @@ with appropriate oil amendment. This maximises both yield and marketable
 cap size, and the simple two-component formulation is suitable for
 smallholder adoption.
 
-## Related Topics
+## Related
+
+- [[lentinus-tigrinus]] Topics
 
 - [[spawn-grain-performance-research]]: broader comparative analysis of
   spawn grain types across mushroom species

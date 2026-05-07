@@ -37,9 +37,9 @@ A **smartshop** is a retail establishment found predominantly in the Netherlands
 
 Smartshops and similar retailers sell a range of hallucinogenic mushroom products:
 
-- **Fresh mushrooms:** Most commonly [[Psilocybe cubensis]] varieties, sold by weight (typically 30 gram portions)
+- **Fresh mushrooms:** Most commonly [[psilocybe-cubensis]] varieties, sold by weight (typically 30 gram portions)
 - **Dried mushrooms:** For longer storage and later use
-- **Sclerotia (truffles):** Especially [[Psilocybe mexicana]], sold as "philosopher's stones"
+- **Sclerotia (truffles):** Especially [[psilocybe-mexicana]], sold as "philosopher's stones"
 - **Growkits:** Complete cultivation kits including colonized substrate, humidity bags, and instructions
 - **Spore prints and spore syringes:** For home cultivation on a substrate of nutrients
 - **Spawn bags:** Sterile bags containing hardwood chips inoculated with mushroom mycelium
@@ -67,7 +67,7 @@ Hallucinogenic mushrooms are known by a wide variety of names that often reflect
 - Czech: magicke houby
 - Spanish: hongos alucinogenos
 
-The late 1990s commercialization through smartshops introduced new marketing labels. Mushrooms were sold under the general umbrella of **"Herbal highs"** to align with the consumer trend toward natural and organic products. Other products sold under this label included herbal ecstasy and [[Salvia divinorum]].
+The late 1990s commercialization through smartshops introduced new marketing labels. Mushrooms were sold under the general umbrella of **"Herbal highs"** to align with the consumer trend toward natural and organic products. Other products sold under this label included herbal ecstasy and [[salvia-divinorum]].
 
 ## Online Internet Shops
 
@@ -118,14 +118,14 @@ Dutch smartshop product labels often included warnings about use by minors, duri
 Following the UK ban in July 2005:
 - UK internet sites stopped selling hallucinogenic mushrooms
 - Some sites claimed to be "sold out" while posting notices about impending legal changes
-- Online headshops began switching to legal alternatives: [[Amanita muscaria]] (fly agaric), [[Amanita pantherina]] (panther cap), and Purple Ohms capsules (containing LSA from Hawaiian Baby Woodrose)
+- Online headshops began switching to legal alternatives: [[amanita-muscaria]] (fly agaric), [[amanita-pantherina]] (panther cap), and Purple Ohms capsules (containing LSA from Hawaiian Baby Woodrose)
 - A 2005 Mixmag survey found 67% of respondents reported reduced availability post-ban
 
 This pattern of market substitution, where prohibition of one substance drives retailers to market potentially more dangerous alternatives, is a recurring feature of drug control policy.
 
 ## Wild Mushroom Foraging
 
-Evidence on the extent of wild foraging is sparse but exists. User websites provide identification guides and location sharing. Qualitative reports from Poland, Ireland, and the Czech Republic document seasonal foraging for wild [[Psilocybe semilanceata]]. However, the risk of misidentifying poisonous species limits the popularity of this approach.
+Evidence on the extent of wild foraging is sparse but exists. User websites provide identification guides and location sharing. Qualitative reports from Poland, Ireland, and the Czech Republic document seasonal foraging for wild [[psilocybe-semilanceata]]. However, the risk of misidentifying poisonous species limits the popularity of this approach.
 
 ## See Also
 
@@ -133,6 +133,6 @@ Evidence on the extent of wild foraging is sparse but exists. User websites prov
 - [[amanita-pantherina]]
 - [[copelandia-cyanescens]]
 
-- [[Hallucinogenic Mushroom Prevalence in Europe]]
-- [[Psilocybe Species Identification]]
-- [[Psilocybin and Psilocin Chemistry]]
+- [[hallucinogenic-mushroom-prevalence-in-europe]]
+- [[psilocybe-species-identification]]
+- [[psilocybin-and-psilocin-chemistry]]

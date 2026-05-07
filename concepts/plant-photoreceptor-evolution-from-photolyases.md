@@ -5,7 +5,7 @@ tags: [botany, evolution, photoreceptors, cryptochrome, photolyase, phytochrome,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 
@@ -131,8 +131,8 @@ timescales.
 - [[daniel-chamovitz]]
 - [[phytochrome-molecular-switch-mechanism]]
 
-- [[Cryptochrome and Blue Light Photoreception]] for detailed cryptochrome biology
-- [[Phytochrome Molecular Switch Mechanism]] for the Pr/Pfr system and gene family
-- [[Plant Vision and Phototropism]] for behavioural consequences of light sensing
-- [[What a Plant Knows Plant Vision and Light Perception]] for the primary source
-- [[Shade Avoidance Syndrome]] for an ecological application of evolved photoreception
+- [[cryptochrome-and-blue-light-photoreception]] for detailed cryptochrome biology
+- [[phytochrome-molecular-switch-mechanism]] for the Pr/Pfr system and gene family
+- [[plant-vision-and-phototropism]] for behavioural consequences of light sensing
+- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source
+- [[shade-avoidance-syndrome]] for an ecological application of evolved photoreception

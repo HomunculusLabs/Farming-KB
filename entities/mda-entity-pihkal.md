@@ -147,3 +147,7 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[shulgin-future-psychedelics-research-predictions]]
 - [[qualitative-comments-methodology-pihkal]]
 - [[turner-psychedelic-combination-experience-reports]]
+
+## See Also
+
+- [[pentylone]]

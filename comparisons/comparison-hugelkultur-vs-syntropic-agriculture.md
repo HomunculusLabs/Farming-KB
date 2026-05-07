@@ -36,11 +36,11 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 
 ### Hugelkultur
 
-[[Hugelkultur]] (German for "mound culture") originates from Eastern European and alpine farming traditions where raised beds were constructed from woody debris, sod, and organic matter. Austrian farmer **Sepp Holzer** popularized the technique globally through his permaculture work on the Krameterhof farm at 1,500m elevation. The system is founded on the principle that buried logs and branches act as a long-term water reservoir and nutrient bank as they decompose. It is inherently a passive system — once built, the mound largely manages itself through natural decomposition cycles.
+[[hugelkultur]] (German for "mound culture") originates from Eastern European and alpine farming traditions where raised beds were constructed from woody debris, sod, and organic matter. Austrian farmer **Sepp Holzer** popularized the technique globally through his permaculture work on the Krameterhof farm at 1,500m elevation. The system is founded on the principle that buried logs and branches act as a long-term water reservoir and nutrient bank as they decompose. It is inherently a passive system — once built, the mound largely manages itself through natural decomposition cycles.
 
 ### Syntropic Agriculture
 
-[[Syntropic agriculture]] was developed by **Ernst Götsch**, a Swiss-born farmer who moved to Brazil in the 1980s and spent decades restoring degraded farmland in the Atlantic Forest region. The system is grounded in the ecological principle of **natural succession** — the process by which ecosystems evolve from pioneer species to climax communities. Götsch's insight was that farmers can actively direct succession to produce food, timber, and fiber while simultaneously regenerating soil and ecosystem health. Species are planted in carefully designed consortia (groups) across multiple strata, and regular pruning drives biomass cycling and light optimization for understory crops.
+Syntropic agriculture was developed by **Ernst Götsch**, a Swiss-born farmer who moved to Brazil in the 1980s and spent decades restoring degraded farmland in the Atlantic Forest region. The system is grounded in the ecological principle of **natural succession** — the process by which ecosystems evolve from pioneer species to climax communities. Götsch's insight was that farmers can actively direct succession to produce food, timber, and fiber while simultaneously regenerating soil and ecosystem health. Species are planted in carefully designed consortia (groups) across multiple strata, and regular pruning drives biomass cycling and light optimization for understory crops.
 
 ## Core Techniques and Implementation
 
@@ -124,14 +124,14 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 
 ## See Also
 
-- [[Hugelkultur]]
-- [[Syntropic Agriculture]]
-- [[Food Forests]]
-- [[Agroforestry]]
-- [[Biochar]]
-- [[Compost]]
-- [[Natural Succession]]
-- [[Keyline Design]]
-- [[Permaculture]]
+- [[hugelkultur]]
+- Syntropic Agriculture
+- Food Forests
+- [[agroforestry]]
+- [[biochar]]
+- Compost
+- Natural Succession
+- [[keyline-design]]
+- [[permaculture]]
 - [[agroforestry]]
 - [[decomposition]]

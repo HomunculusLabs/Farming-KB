@@ -22,7 +22,7 @@ type: concept
 Beyond their growth-promoting properties, brassinosteroids have
 demonstrated significant anti-stress effects in agricultural
 applications. The Gartz, Adam and Vorbrodt (1990) study on
-[[Psilocybe cubensis]] references promising results of using
+[[psilocybe-cubensis]] references promising results of using
 brassinosteroid compounds to achieve higher crop yields and anti-stress
 effects, citing Maught (1981) and Hamada (1986). These anti-stress
 effects represent one of the most practically important aspects of
@@ -138,9 +138,9 @@ failures and substrate variability are ongoing challenges.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for the broader context of brassinosteroids in fungal
+- Brassinosteroids as steroidal phytohormones for fungal growth promotion for the broader context of brassinosteroids in fungal
   systems
-- [[Brassinosteroid enhancement of mushroom yield and dry mass]] for
+- Brassinosteroid enhancement of mushroom yield and dry mass for
   the growth promotion effects observed in the Gartz study
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
   compound used in research

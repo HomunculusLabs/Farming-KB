@@ -110,7 +110,7 @@ Ceremonies are almost always conducted in darkness or very low light, which
 facilitates the emergence of visions. The Mazatec velada involves
 participants sitting or lying in a very dark room with only a small candle.
 The reduced sensory input allows inner visionary content to become more vivid
-and coherent. The exception is the peyote ceremony of the [[Native AmericanChurch]], done around a central fire, where participants may see visions while
+and coherent. The exception is the peyote ceremony of the Native AmericanChurch, done around a central fire, where participants may see visions while
 staring into the flames. Even in this case, the ceremony is conducted at
 night, maintaining the contrast between darkness and firelight.
 

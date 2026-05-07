@@ -7,7 +7,8 @@ updated: 2026-04-28
 sources:
   - "Mori K, Inatomi S, Ouchi K, Azumi Y, Tuchida T. Improving effects of the mushroom Hericium erinaceus on mild cognitive impairment. Phytotherapy Research, 2009."
   - "Kawagishi H, Zhuang C. Compounds for dementia from Hericium erinaceus. Drugs of the Future, 2008."
-  - "Wong KH, Naidu M, David RP, et al. Neuroprotective effects of Lion's mane mushroom. BMC Complementary and Alternative Medicine, 2019."
+  - "Wong KH, Naidu M, David RP, et al. Neuroprotective effects of Lion's mane mushroom. BMC Complementary and Alternative Medicine, 2019."created: 2026-05-07
+
 ---
 
 # Lion's Mane Mushroom (Hericium erinaceus)
@@ -153,9 +154,13 @@ Lion's Mane is generally regarded as safe for most people when consumed as food 
 - In vitro studies demonstrate anti-inflammatory effects through inhibition of NF-κB signaling pathways.
 - Research from the University of Malaya (2019) confirmed neuroprotective effects through antioxidant and anti-apoptotic mechanisms.
 
-## Related Species
+## Related
+
+- [[hericium-erinaceus|Hericium]]
+- [[mushroom-cultivation-basics|cultivation]] Species
 
 - **Hericium coralloides**: Coral Hedgehog — branching spines, similar medicinal properties
 - **Hericium americanum**: Bear's Head Tooth — native to North America, larger branching habit
 - **Hericium abietis**: Conifer Coral — found on conifers in western North America
 - **Hericium erinaceus var. alba**: A white-cultivated strain selected for commercial production
+- [[cotter-mushroom-life-cycle-mycelium-biology|mycelium biology]]

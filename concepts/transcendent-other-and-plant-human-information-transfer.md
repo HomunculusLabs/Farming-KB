@@ -39,19 +39,19 @@ McKenna favored the third explanation, arguing that plant hallucinogens act as i
 
 ## The Ur Plant: Psilocybe cubensis as Evolutionary Catalyst
 
-By a process of elimination from candidate hallucinogenic plants, McKenna identified [[Psilocybe cubensis]] (referred to in the text as *Stropharia cubensis*) as the most likely "Ur plant" — the original catalyst of higher consciousness in hominids. The reasoning follows several steps:
+By a process of elimination from candidate hallucinogenic plants, McKenna identified [[psilocybe-cubensis]] (referred to in the text as *Stropharia cubensis*) as the most likely "Ur plant" — the original catalyst of higher consciousness in hominids. The reasoning follows several steps:
 
 - **Africa** supports almost no native hallucinogenic plants suitable for grassland-dwelling hominids. The eminent geographer Carl Saur felt there was no such thing as a natural grassland, suggesting all grasslands were human artifacts from cumulative seasonal burning. Grasslands have far fewer plant species than forests.
-- [[Tabernanthe iboga]] is a forest plant with no documented use before the early 19th century. It is rarely found growing outside cultivation. The Bwiti religion of the Fang acquired iboga during a centuries-long migration involving proximity to Pygmy peoples.
-- [[Peganum harmala]], rich in the betacarboline harmine, occurs across arid Mediterranean North Africa but has no record of use in Africa as a hallucinogen. It must be concentrated or combined with DMT to activate visionary potential.
+- [[tabernanthe-iboga]] is a forest plant with no documented use before the early 19th century. It is rarely found growing outside cultivation. The Bwiti religion of the Fang acquired iboga during a centuries-long migration involving proximity to Pygmy peoples.
+- [[peganum-harmala]], rich in the betacarboline harmine, occurs across arid Mediterranean North Africa but has no record of use in Africa as a hallucinogen. It must be concentrated or combined with DMT to activate visionary potential.
 - DMT-containing grasses would require extraction beyond the technical reach of early humans
 - That leaves coprophilic (dung-loving) mushrooms containing psilocybin
 
-[[Psilocybe cubensis]] is the only psilocybin-containing mushroom that both occurs in concentrated amounts and is free of nausea-producing compounds. It is pandemic throughout tropical regions wherever cattle of the zebu (*Bos indicus*) type graze. Archaeological evidence from Non Nak Tha, Thailand (dated to 15,000 B.P.), shows zebu cattle bones coincident with human graves, with the mushroom common in the area today.
+[[psilocybe-cubensis]] is the only psilocybin-containing mushroom that both occurs in concentrated amounts and is free of nausea-producing compounds. It is pandemic throughout tropical regions wherever cattle of the zebu (*Bos indicus*) type graze. Archaeological evidence from Non Nak Tha, Thailand (dated to 15,000 B.P.), shows zebu cattle bones coincident with human graves, with the mushroom common in the area today.
 
 ## The Mushroom-Cattle-Human Triad
 
-McKenna emphasized that the relationship between humans and [[Psilocybe cubensis]] necessarily included cattle, the creators of the only substrate for the mushrooms. This triadic relationship — human, cattle, mushroom — may be no more than a million years old, coinciding with the era of nomadic human hunters. The last 100,000 years is probably more than sufficient for the evolution of pastoralism from its earliest forms.
+McKenna emphasized that the relationship between humans and [[psilocybe-cubensis]] necessarily included cattle, the creators of the only substrate for the mushrooms. This triadic relationship — human, cattle, mushroom — may be no more than a million years old, coinciding with the era of nomadic human hunters. The last 100,000 years is probably more than sufficient for the evolution of pastoralism from its earliest forms.
 
 This is not a biological symbiosis requiring millions of years to evolve, but rather a "deep-rooted custom, an extremely powerful natural habit." The relationship has not been static but dynamic, bootstrapping humans to higher cultural levels and greater individual self-awareness. Whatever we call the human interaction with the mushroom, it has been a dynamic through which we have been bootstrapped to higher and higher cultural levels and levels of individual self-awareness.
 
@@ -91,7 +91,7 @@ Several aspects of McKenna's hypothesis remain speculative: the Ur plant identif
 
 ## The Bwiti and Iboga: An African Counterpoint
 
-McKenna's analysis of African hallucinogenic plant traditions provides important context for the Ur plant hypothesis. The Bwiti religion among the Fang of Gabon and Zaire is the only truly African hallucinogenic plant cult, centered on [[Tabernanthe iboga]]. Analyzed sociologically, Bwiti serves as a force for group cohesion and for holding marriages together. Historically, divorce is a chronic source of group anxiety among the Fang. Perhaps iboga, as well as being a hallucinogen, activates a pheromone promoting pair bonding.
+McKenna's analysis of African hallucinogenic plant traditions provides important context for the Ur plant hypothesis. The Bwiti religion among the Fang of Gabon and Zaire is the only truly African hallucinogenic plant cult, centered on [[tabernanthe-iboga]]. Analyzed sociologically, Bwiti serves as a force for group cohesion and for holding marriages together. Historically, divorce is a chronic source of group anxiety among the Fang. Perhaps iboga, as well as being a hallucinogen, activates a pheromone promoting pair bonding.
 
 The Fang believe they acquired this practice during a centuries-long migration involving proximity to Pygmy peoples. The root bark of the plant contains the psychoactive portion. According to the Fang, many grams of root material must be eaten to "open one's head," after which lesser amounts remain effective for the rest of a person's life. The plant became the first indole to come into vogue in Europe after being promoted at the Paris Exposition of 1867, sold as Lambarene, a cure for everything from neurasthenia to syphilis. The alkaloid ibogaine was isolated in 1901 but was quickly placed in Schedule I despite no evidence of danger or addiction.
 
@@ -107,7 +107,7 @@ McKenna proposed an "Archaic Revival" as the necessary cultural response to the 
 
 The suppression of altered states is not merely about drugs but about the suppression of the religious sensibility itself — an experience of religio based on plant-human relationships that were in place long before the advent of history. Restriction of religious use of psychedelic plants is, in McKenna's framing, a civil rights issue: the repression of a legitimate religious sensibility and the oldest form of human spirituality.
 
-## [[Plant Hallucinogens]] as Information Transfer Agents
+## Plant Hallucinogens as Information Transfer Agents
 
 McKenna's broader argument about plant-human coevolution positions psychoactive plants not as passive resources but as active agents in cultural and cognitive evolution. The plants produce compounds that directly affect human neural chemistry, and human cultures have responded by developing elaborate practices, mythologies, and social structures around their use. This is not one-way exploitation but a genuine symbiotic relationship.
 

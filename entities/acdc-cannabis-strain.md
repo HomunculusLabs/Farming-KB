@@ -145,6 +145,6 @@ ACDC's status varies by jurisdiction. In the United States, hemp-derived ACDC (t
 - [[acdc]]
 
 - [[Cannabidiol (CBD)]] — primary cannabinoid
-- [[Cannatonic]] — parent strain
+- Cannatonic — parent strain
 - [[Charlotte's Web]] — epilepsy-focused CBD strain
-- [[Entourage Effect]] — cannabinoid-terpene synergy
+- Entourage Effect — cannabinoid-terpene synergy

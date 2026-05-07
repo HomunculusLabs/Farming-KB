@@ -111,6 +111,8 @@ The Exodus Cheese clone, one of the most famous cannabis cuts in history, is bel
 
 ## See Also
 
+- [[skunk-cannabis]]
+
 - [[rainbow-chips]]
 
 - [[skunk-1]] — Foundational hybrid parent of Super Skunk

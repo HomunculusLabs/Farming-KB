@@ -19,7 +19,7 @@ type: concept
 
 # Direct-Seeded No-Tillage Rice/Barley Succession Cropping
 
-Direct-seeded no-tillage rice/barley succession cropping is the core practical technique developed by [[Masanobu Fukuoka]] for his natural farming method. It eliminates plowing, chemical fertilizers, prepared compost, and pesticides while producing yields equal to or better than conventional scientific farming. The method relies on a clover ground cover and rice straw mulch to maintain soil fertility and suppress weeds naturally.
+Direct-seeded no-tillage rice/barley succession cropping is the core practical technique developed by [[masanobu-fukuoka]] for his natural farming method. It eliminates plowing, chemical fertilizers, prepared compost, and pesticides while producing yields equal to or better than conventional scientific farming. The method relies on a clover ground cover and rice straw mulch to maintain soil fertility and suppress weeds naturally.
 
 ## Overview of the Method
 
@@ -76,7 +76,7 @@ Fukuoka created a hardy rice strain called "Happy Hill" with the blood of wild v
 
 ## See Also
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-natural-orchard-ground-cover]]
 - [[fukuoka-white-clover-cover-crop-system]]

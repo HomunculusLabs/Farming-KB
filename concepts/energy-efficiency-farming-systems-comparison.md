@@ -127,10 +127,10 @@ The ratio is staggering: natural farming requires one calorie of human energy to
 - [[natural-farming-methods-comparison]]
 
 - [[Fukuoka's Four Principles of Natural Farming]]
-- [[Natural Farming vs Scientific Agriculture]]
-- [[Natural Livestock Grazing Methods]]
-- [[Ecological Energetics of Food Systems]]
-- [[Petroleum Dependency in Modern Agriculture]]
-- [[Diet and Land Use Efficiency]]
-- [[Trophic Level Energy Loss in Food Production]]
-- [[Small-Scale Farming and Self-Sufficiency]]
+- [[natural-farming-vs-scientific-agriculture]]
+- Natural Livestock Grazing Methods
+- Ecological Energetics of Food Systems
+- Petroleum Dependency in Modern Agriculture
+- Diet and Land Use Efficiency
+- Trophic Level Energy Loss in Food Production
+- Small-Scale Farming and Self-Sufficiency

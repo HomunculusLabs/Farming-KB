@@ -135,11 +135,11 @@ allowed to graze freely in the orchard, closing nutrient cycles and
 
 ## See also
 
-- [[Natural Three-Dimensional Orchard Design]]
-- [[Orchard Soil Restoration on Barren Clay]]
-- [[Black Wattle Green Manure Trees and Orchard Soil Building]]
-- [[Natural Orchard Management Without Pruning]]
-- [[Natural Orchard Ground Cover Cultivation]]
+- Natural Three-Dimensional Orchard Design
+- Orchard Soil Restoration on Barren Clay
+- Black Wattle Green Manure Trees and Orchard Soil Building
+- Natural Orchard Management Without Pruning
+- Natural Orchard Ground Cover Cultivation
 
 ## See Also
 

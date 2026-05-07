@@ -126,3 +126,15 @@ The only multi-year trend data available on hallucinogenic mushroom use were der
 - [[hallucinogenic-mushroom-market-in-europe]] - retail and distribution patterns
 - [[amanita-muscaria]] - a chemically distinct hallucinogenic mushroom species
 - [[stamets-psylo-minor-genera-conocybe-gymnopilus]] - another genus of psilocybin-containing mushrooms
+
+## See Also
+
+- [[psilocybin-chemistry-and-pharmacology]]
+
+- [[psilocybin-degradation-volatility-and-specimen-age]]
+- [[stamets-psilocybin-habitats-ecology]]
+- [[stamets-african-psilocybin-mushroom-distribution]]
+
+- [[psilocybin-and-mystical-experience]]
+- [[psilocybin-compound-profile]]
+- [[psilocybin-therapeutic-applications]]

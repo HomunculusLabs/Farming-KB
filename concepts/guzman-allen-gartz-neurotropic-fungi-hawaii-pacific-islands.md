@@ -24,15 +24,15 @@ The Pacific Islands and Hawaiian Archipelago harbor a remarkable diversity of
 neurotropic fungi despite their geographic isolation. Hawaii in particular
 presents one of the most concentrated assemblages of neurotropic mushroom
 species known from any island chain, with species spanning four genera:
-[[Copelandia]], [[Panaeolus]], [[Psilocybe]], and [[Amanita]], plus the ergot
-fungus [[Claviceps paspali]]. This diversity is largely attributable to the
+Copelandia, Panaeolus, Psilocybe, and [[amanita]], plus the ergot
+fungus [[claviceps-paspali]]. This diversity is largely attributable to the
 introduction of livestock and the resulting coprophilous habitats.
 
 ## Hawaiian Neurotropic Mycoflora
 
 ### Copelandia Species (5 Species)
 
-Hawaii supports an extraordinary five species of [[Copelandia]], making it one
+Hawaii supports an extraordinary five species of Copelandia, making it one
 of the richest island locations for this genus worldwide:
 
 - **C. anomala** (Murrill) Singer -- Reported by Pollock (1976), Stijve (1992),
@@ -52,7 +52,7 @@ of the richest island locations for this genus worldwide:
 
 ### Panaeolus Species (3 Species)
 
-Three species of [[Panaeolus]] have been documented from Hawaii:
+Three species of Panaeolus have been documented from Hawaii:
 
 - **P. subbalteatus** -- Reported by Beug and Bigwood (1982), Stijve and
   Kuyper (1985), Gartz (1989b), Merlin and Allen (1993), and Allen (1998)
@@ -141,7 +141,7 @@ on South Pacific mycogeography.
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 
-- [[Copelandia genus diversity and biogeography]]
-- [[Psilocybe transcontinental species pairs]]
-- [[Conocybe and Gerronema neurotropic species]]
-- [[Neurotropic fungi of Central America and Caribbean]]
+- Copelandia genus diversity and biogeography
+- Psilocybe transcontinental species pairs
+- Conocybe and Gerronema neurotropic species
+- Neurotropic fungi of Central America and Caribbean

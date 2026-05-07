@@ -145,6 +145,8 @@ effectively changes gene expression.
 
 ## See Also
 
+- [[blesching-cannabis-emotional-intelligence-healing-framework]]
+
 - [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]
 
 - [[blesching-cannabis-endocannabinoid-mind-body]]

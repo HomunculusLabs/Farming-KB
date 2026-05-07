@@ -169,8 +169,8 @@ The greatest threat to wild populations is **habitat destruction** from urbaniza
 - [[chelidonium-majus]]
 - [[fungal-spores]]
 
-- [[Papaveraceae]] — Poppy family
-- [[Chelidonium majus]] — Greater celandine (related alkaloid-producing plant)
-- [[Macleaya cordata]] — Plume poppy (sanguinarine source)
-- [[Sanguinarine]] — Primary bioactive alkaloid
-- [[Myrmecochory]] — Ant-mediated seed dispersal
+- Papaveraceae — Poppy family
+- [[chelidonium-majus]] — Greater celandine (related alkaloid-producing plant)
+- Macleaya cordata — Plume poppy (sanguinarine source)
+- Sanguinarine — Primary bioactive alkaloid
+- Myrmecochory — Ant-mediated seed dispersal

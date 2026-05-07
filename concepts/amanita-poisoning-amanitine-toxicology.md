@@ -20,8 +20,8 @@ The Amanita family of mushrooms contains a tasteless, odorless alkaloid poison r
 The toxic principle found in the Amanita family has been isolated under several names by different chemists:
 
 - **Amanitine** — Letellier's designation, applied to the general poisonous principle found across multiple Amanita species. Palmer considered this the most appropriate term since it encompasses the others.
-- **Muscarine** — Schmiedeberg and Koppe's name for the alkaloid they isolated from [[Amanita muscarius]].
-- **Bulbosine** — Boudier's extract from [[Amanita bulbosa]].
+- **Muscarine** — Schmiedeberg and Koppe's name for the alkaloid they isolated from Amanita muscarius.
+- **Bulbosine** — Boudier's extract from Amanita bulbosa.
 
 All three designations refer to essentially the same class of toxic alkaloid with nearly identical physiological effects. The poison is tasteless, odorless, and undetectable by any simple chemical reagent. No antidote was known during Palmer's era, and he noted that physicians had "in all ages confessed their utter inability to find an antidote for this poison."
 
@@ -60,7 +60,7 @@ The elapsed time between the meal and the onset of symptoms is the physician's m
 
 ## The Farris Family Case (1885)
 
-The most thoroughly documented case in Palmer's book involved the Farris family of Shenandoah, Pennsylvania, in August 1885. Five people ate [[Amanita vernus]] stewed in milk. Key observations:
+The most thoroughly documented case in Palmer's book involved the Farris family of Shenandoah, Pennsylvania, in August 1885. Five people ate Amanita vernus stewed in milk. Key observations:
 
 - Symptoms began approximately 12 hours after ingestion
 - Two victims died (Thomas R. at 56 hours, Mrs. F. at 63 hours)
@@ -81,9 +81,9 @@ Palmer documented several personal experiments demonstrating the permeability of
 
 ## Antidotal Treatment
 
-Palmer advocated treatment from the [[Solanaceae]] (nightshade) family:
+Palmer advocated treatment from the Solanaceae (nightshade) family:
 
-- **Atropine** (from [[Atropa belladonna]]) — the most promising agent, administered by subcutaneous injection
+- **Atropine** (from [[atropa-belladonna]]) — the most promising agent, administered by subcutaneous injection
 - **Daturine and hyoscyamine** — successfully used by Dr. T.F. Wood of North Carolina
 - **Nicotine/tobacco** — suggested by Palmer based on personal experience
 - **Stramonium** — advocated by Professor Schiff of Italy
@@ -102,15 +102,15 @@ Additional features: pure white gills and stem, variable cap color (white, yello
 
 ## Historical Context
 
-Palmer noted that this poison has been known since the days of the Roman Empire. The Emperor Claudius was reportedly poisoned by a boletus, and Czar Nicholas allegedly died from [[Amanita muscarius]]. Despite this long history, no certain antidote existed until the late 19th century experiments with atropine.
+Palmer noted that this poison has been known since the days of the Roman Empire. The Emperor Claudius was reportedly poisoned by a boletus, and Czar Nicholas allegedly died from Amanita muscarius. Despite this long history, no certain antidote existed until the late 19th century experiments with atropine.
 
 ## Medicinal Potential
 
 Ironically, the same alkaloid that makes Amanita deadly has been explored for therapeutic use:
 
-- [[Amanita muscarius]] was used in Northern Russia for narcotic intoxication
-- Dr. Vigier prepared pharmaceutical forms of [[Amanita mappa]] extract for catarrhal affections
-- Dr. Curtis proposed [[Amanita phalloides]] as a treatment for cholera, Bright's disease, and intermittent fevers
+- Amanita muscarius was used in Northern Russia for narcotic intoxication
+- Dr. Vigier prepared pharmaceutical forms of Amanita mappa extract for catarrhal affections
+- Dr. Curtis proposed [[amanita-phalloides]] as a treatment for cholera, Bright's disease, and intermittent fevers
 - Cordier suggested it as a potential substitute for opium due to its narcotic properties and zero cultivation cost
 
 ## See Also

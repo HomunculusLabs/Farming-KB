@@ -120,10 +120,10 @@ Cassava is one of the most versatile permaculture crops in the tropics, valued f
 - [[mollison-designers-cassava-tropical-root-crops]]
 - [[permaculture-plants-root-crops-and-tubers]]
 
-- [[Colocasia esculenta]] — taro, another tropical tuber crop in polycultures
-- [[Xanthosoma sagittifolium]] — malanga, a related tropical tuber
-- [[Moringa oleifera]] — drought-tolerant multipurpose tree for tropical food forests
-- [[Gliricidia sepium]] — nitrogen-fixing companion tree for cassava systems
-- [[Pachyrhizus erosus]] — jicama, another tropical root crop
-- [[Dioscorea alata]] — winged yam, tropical tuber crop
-- [[Leucaena leucocephala]] — fast-growing legume tree for agroforestry
+- [[colocasia-esculenta]] — taro, another tropical tuber crop in polycultures
+- [[xanthosoma-sagittifolium]] — malanga, a related tropical tuber
+- [[moringa-oleifera]] — drought-tolerant multipurpose tree for tropical food forests
+- [[gliricidia-sepium]] — nitrogen-fixing companion tree for cassava systems
+- [[pachyrhizus-erosus]] — jicama, another tropical root crop
+- [[dioscorea-alata]] — winged yam, tropical tuber crop
+- [[leucaena-leucocephala]] — fast-growing legume tree for agroforestry

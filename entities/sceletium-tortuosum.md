@@ -121,8 +121,8 @@ Clinical research has explored *Sceletium* for:
 - [[kanna-sceletium-south-african-narcotic]]
 - [[sceletium-tortuosum]]
 
-- [[Mesembrine]] — Primary active alkaloid
-- [[Serotonin]] — Neurotransmitter system affected by *Sceletium* alkaloids
-- [[Psilocybin]] — Comparison with classical psychedelic tryptamines
-- [[Ashwagandha]] — Another plant-based adaptogen with anxiolytic properties
+- [[mesembrine]] — Primary active alkaloid
+- [[serotonin]] — Neurotransmitter system affected by *Sceletium* alkaloids
+- [[psilocybin]] — Comparison with classical psychedelic tryptamines
+- [[ashwagandha]] — Another plant-based adaptogen with anxiolytic properties
 - [[Kratom (Mitragyna speciosa)]] — Another ethnobotanical psychoactive plant

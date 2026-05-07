@@ -66,7 +66,7 @@ forward by Aldous Huxley. In analyzing his experiences with mescaline, Huxley qu
 > we should otherwise perceive or remember at any
 > moment, and leaving only that very small and special selection which is likely to be practically useful.
 
-According to such a theory, each one of us is potentially [[Mind at Large]]. But in so far as we are animals, our business is at all costs to survive.
+According to such a theory, each one of us is potentially Mind at Large. But in so far as we are animals, our business is at all costs to survive.
 To make biological survival possible, Mind at
 Large has to be funnelled through the reducing valve of the brain and nervous system. What comes out at the other end is a measly trickle of the kind
 of consciousness which will help us stay alive on
@@ -93,7 +93,7 @@ put maladaptive behaviors behind us. We can collectively recognize the virtues o
 
 ## Jaynes and the Breakdown of the Bicameral Mind
 
-Julian Jaynes's theory, presented in his controversial book The Origin of Consciousness in the Breakdown of the [[Bicameral Mind]], makes the point
+Julian Jaynes's theory, presented in his controversial book The Origin of Consciousness in the Breakdown of the Bicameral Mind, makes the point
 that major shifts in human self-definition may have
 occurred even in historical times. He proposes that through Homeric times people did not have the kind of interior psychic organization that we take
 for granted. What we call ego was for Homeric

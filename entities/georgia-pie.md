@@ -143,8 +143,8 @@ airflow and dehumidification are recommended. Cooler nighttime temperatures
 
 ## See Also
 
-- [[Girl Scout Cookies]]
-- [[GSC Cannabis]]
-- [[Kush Mints]]
-- [[Wedding Cake]]
-- [[Ice Cream Cake]]
+- [[girl-scout-cookies]]
+- [[gsc-cannabis]]
+- [[kush-mints]]
+- [[wedding-cake]]
+- [[ice-cream-cake]]

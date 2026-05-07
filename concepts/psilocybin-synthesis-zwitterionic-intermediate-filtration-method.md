@@ -93,7 +93,7 @@ The synthesized psilocybin matched literature values:
 
 The synthesis was developed to produce analytical standard compounds for Japanese regulatory enforcement. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law (enacted June 6, 2002), there was an urgent need for pure reference standards. The morphological identification of hallucinogenic mushrooms is extremely difficult without expert mycologists, making chromatographic methods (TLC, GC, HPLC) the primary identification tools. These methods require pure standard compounds, which are difficult to isolate from natural material because [[psilocin]] decomposes readily and [[psilocybin]] is highly polar.
 
-The difficulty of isolating pure alkaloids from fungal biomass is compounded by the variability of natural psilocybin and psilocin levels. [[Bigwood and Beug]] documented significant variation in alkaloid content between fruiting bodies, flushes, and even within the same mushroom cap versus stem. This natural variability makes synthetic standards essential for quantitative forensic work, where precise calibration curves require chemically pure reference materials.
+The difficulty of isolating pure alkaloids from fungal biomass is compounded by the variability of natural psilocybin and psilocin levels. Bigwood and Beug documented significant variation in alkaloid content between fruiting bodies, flushes, and even within the same mushroom cap versus stem. This natural variability makes synthetic standards essential for quantitative forensic work, where precise calibration curves require chemically pure reference materials.
 
 ## Previous Approaches and Their Limitations
 

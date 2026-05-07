@@ -180,10 +180,10 @@ Control methods include manual removal (digging out taproots), grazing managemen
 
 - [[origanum-vulgare-entity]]
 
-- [[Apiaceae]] (plant family)
-- [[Anethum graveolens]] (dill — close relative)
-- [[Pimpinella anisum]] (anise — similar flavor profile)
-- [[Ocimum basilicum]] (basil — companion herb)
-- [[Companion planting]] (permaculture technique)
+- Apiaceae (plant family)
+- [[anethum-graveolens]] (dill — close relative)
+- [[pimpinella-anisum]] (anise — similar flavor profile)
+- [[ocimum-basilicum]] (basil — companion herb)
+- [[companion-planting]] (permaculture technique)
 - [[aspergillus-niger]]
 - [[beneficial-insect-habitat]]

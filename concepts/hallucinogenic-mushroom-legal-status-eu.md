@@ -100,7 +100,7 @@ in the UK and Ireland. The legal change had immediate impact on both retail and 
 
 ### Market Adaptation
 
-Prohibition prompted adaptation rather than elimination. UK retailers began selling [[Amanitamuscaria]] (fly agaric) and [[Amanita pantherina]] as legal alternatives, despite substantial
+Prohibition prompted adaptation rather than elimination. UK retailers began selling Amanitamuscaria (fly agaric) and [[amanita-pantherina]] as legal alternatives, despite substantial
 toxicity risks. Purple Ohms capsules (Argyreia nervosa with LSA) were also marketed. In the Czech
 Republic, shops attempted to sell mushrooms as "aromatic and decorative goods" with disclaimers.
 
@@ -131,6 +131,6 @@ emerging drug trends must consider how contextual forces reinforce or legitimate
 
 - [[hallucinogenic mushrooms]]
 - [[psilocybin]]
-- [[Psilocybe cubensis]]
+- [[psilocybe-cubensis]]
 - [[smartshops and hallucinogenic mushroom retail]]
 - [[hallucinogenic mushroom prevalence in Europe]]

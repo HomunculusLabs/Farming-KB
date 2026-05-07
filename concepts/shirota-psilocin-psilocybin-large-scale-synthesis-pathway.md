@@ -36,7 +36,7 @@ Isolating [[psilocybin]] and [[psilocin]] from mushrooms on a gram scale for use
 
 ### Structural Context
 
-[[Psilocybin]] and [[psilocin]] are structurally similar to the neurotransmitter [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[baeocystin]] and [[norbaeocystin]] may also be present in mushroom material.
+[[psilocybin]] and [[psilocin]] are structurally similar to the neurotransmitter [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[baeocystin]] and [[norbaeocystin]] may also be present in mushroom material.
 
 ## Synthesis of Psilocin (1)
 

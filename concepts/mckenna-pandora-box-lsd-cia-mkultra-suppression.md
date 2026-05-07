@@ -20,15 +20,15 @@ psychedelics for a generation.
 
 ## The Cascade of Discovery (1947 to 1960)
 
-In 1947, news of [[Albert Hofmann]]'s extraordinary discovery of LSD, a megahallucinogen active in the microgram range, surfaced in the scientific
-literature. In 1954, [[Aldous Huxley]] wrote The
+In 1947, news of [[albert-hofmann]]'s extraordinary discovery of LSD, a megahallucinogen active in the microgram range, surfaced in the scientific
+literature. In 1954, [[aldous-huxley]] wrote The
 Doors of Perception, a brilliant literary snapshot of the European intellectual grappling with the realization of the true dimensions of consciousness
 and the cosmos. Huxley wrote that what most
 people see only under the influence of mescaline, the artist is congenitally equipped to see all the time, that a little of the knowledge belonging to
 Mind at Large oozes past the reducing valve of
 brain and ego into artistic consciousness.
 
-In 1956, the Czech chemist Steven Szara synthesized dimethyltryptamine, [[DMT]], which remains the most powerful of all hallucinogens and one of the
+In 1956, the Czech chemist Steven Szara synthesized dimethyltryptamine, [[dmt]], which remains the most powerful of all hallucinogens and one of the
 most short-acting compounds known. When smoked, DMT
 intoxication reaches a peak in about two minutes and then abates over about ten minutes. Szara's account described moving, brilliantly colored
 oriental motifs and wonderful scenes altering very
@@ -77,7 +77,7 @@ dollar twenty-five-year quest to conquer the human
 mind, none received as much attention or was embraced with such enthusiasm as LSD-25.
 
 During Richard Helms's tenure as CIA director, the Agency conducted a massive illegal domestic campaign against the antiwar movement through
-[[Operation MK-ULTRA]]. As a result of Helms's successful
+Operation MK-ULTRA. As a result of Helms's successful
 campaign, the New Left was in a shambles when he retired from the CIA in 1973. Most of the official records pertaining to the CIA's drug and mind
 control projects were summarily destroyed on orders
 from Helms shortly before his departure.

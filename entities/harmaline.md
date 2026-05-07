@@ -147,9 +147,9 @@ penetration and receptor interaction versus harmine.
 - [[harmala-alkaloids]]
 - [[passiflora-incarnata]]
 
-- [[Beta-Carboline]]
-- [[MAO Inhibitor]]
-- [[Ayahuasca]]
-- [[DMT]]
-- [[Peganum Harmala]]
-- [[Banisteriopsis Caapi]]
+- [[beta-carboline]]
+- MAO Inhibitor
+- [[ayahuasca]]
+- [[dmt]]
+- [[peganum-harmala]]
+- [[banisteriopsis-caapi]]

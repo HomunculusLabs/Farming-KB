@@ -77,6 +77,8 @@ and bee forage simultaneously. Its use as a nurse crop to pine trees
 demonstrates its value in succession-based forest establishment.
 
 ## See Also
+
+- [[lespedeza-cuneata]]
 - [[robinia-pseudoacacia]]
 - [[leucaena-entity]]
 - [[acacia]]

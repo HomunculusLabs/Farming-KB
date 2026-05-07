@@ -20,7 +20,7 @@ Psilocybe cubensis, also known as Stropharia cubensis, is the most commonly cult
 
 ## Taxonomy and Synonyms
 
-The species has been classified under both the [[Psilocybe]] and Stropharia genera at different periods in mycological history. Despite the ongoing taxonomic debate, Psilocybe cubensis remains the most widely used name in both the scientific literature and among recreational users. The species epithet "cubensis" refers to Cuba, where the species was first formally described.
+The species has been classified under both the Psilocybe and Stropharia genera at different periods in mycological history. Despite the ongoing taxonomic debate, Psilocybe cubensis remains the most widely used name in both the scientific literature and among recreational users. The species epithet "cubensis" refers to Cuba, where the species was first formally described.
 
 ## Named Varieties
 
@@ -60,11 +60,11 @@ The Free Spore Ring Europe, a non-profit organization, distributed various strai
 
 ## Natural Habitat and Distribution
 
-Unlike [[Psilocybe semilanceata]], which is widespread in temperate Europe, Psilocybe cubensis is a subtropical and tropical species. It is not reported to grow wild in Europe. In its natural range, which spans much of Central and South America, Southeast Asia, and parts of Australia and Africa, it typically grows on bovine or equine dung in humid grasslands and pastures.
+Unlike [[psilocybe-semilanceata]], which is widespread in temperate Europe, Psilocybe cubensis is a subtropical and tropical species. It is not reported to grow wild in Europe. In its natural range, which spans much of Central and South America, Southeast Asia, and parts of Australia and Africa, it typically grows on bovine or equine dung in humid grasslands and pastures.
 
 ## Potency
 
-Psilocybe cubensis is considered a moderate-potency species within the [[Psilocybe]] genus. [[Psilocybin]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[Psilocybe semilanceata]], which may contain up to 1% psilocybin, or high-potency species like Psilocybe azurescens and Psilocybe bohemica.
+Psilocybe cubensis is considered a moderate-potency species within the Psilocybe genus. [[psilocybin]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]], which may contain up to 1% psilocybin, or high-potency species like Psilocybe azurescens and Psilocybe bohemica.
 
 Because of this moderate potency profile, Psilocybe cubensis is sometimes characterized as a more manageable species for inexperienced users. However, individual sensitivity varies considerably and potency is never guaranteed from batch to batch, making reliable dosing difficult without analytical testing.
 
@@ -88,7 +88,7 @@ However, blue-bruising is not unique to psychoactive mushrooms. Numerous non-psy
 
 ## Sclerotia and Truffle Forms
 
-Some [[Psilocybe]] species, including Psilocybe mexicana and Psilocybe tampanensis, form sclerotia, which are hardened masses of mycelium that serve as a defence mechanism against adverse environmental conditions such as dryness, cold, heat, or excessive moisture. These sclerotia are more resistant to environmental stress than normal mycelium and can survive for extended periods in dormant states.
+Some Psilocybe species, including Psilocybe mexicana and Psilocybe tampanensis, form sclerotia, which are hardened masses of mycelium that serve as a defence mechanism against adverse environmental conditions such as dryness, cold, heat, or excessive moisture. These sclerotia are more resistant to environmental stress than normal mycelium and can survive for extended periods in dormant states.
 
 In the commercial market, the sclerotia of these species are sold under the names "truffles" or "philosopher's stone." They represent a distinct product category from the fresh or dried fruiting bodies more commonly associated with mushroom use. Philosopher's stones were available through Dutch smartshops and online retailers at prices of 10 to 17.50 EUR per 15 grams, making them a premium product compared to fresh Psilocybe cubensis.
 
@@ -98,7 +98,7 @@ The Dutch Risk Assessment Report noted that hallucinogenic mushrooms tend to be 
 
 ## European Distribution and Habitats
 
-A variety of psilocybin-containing mushroom species are found growing wild in Europe, particularly throughout central and northern Europe. Habitats include wet grassy fields, uncultivated pastures, and agricultural land. The most common wild European hallucinogenic mushroom is [[Psilocybe semilanceata]] (liberty caps), found in the UK, Norway, Germany, and many other countries.
+A variety of psilocybin-containing mushroom species are found growing wild in Europe, particularly throughout central and northern Europe. Habitats include wet grassy fields, uncultivated pastures, and agricultural land. The most common wild European hallucinogenic mushroom is [[psilocybe-semilanceata]] (liberty caps), found in the UK, Norway, Germany, and many other countries.
 
 Other species growing wild in Europe include Psilocybe cyanescens (wavy caps) as well as Psilocybe bohemica and Psilocybe moravica, particularly reported in the Czech Republic. Nearly all psilocybin-containing mushrooms are small brown or tan mushrooms that bruise blue when handled, but this feature is shared with many non-psychoactive species, making wild identification unreliable and potentially dangerous.
 
@@ -119,10 +119,23 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 - [[psilocybe-cubensis-profile]]
 - [[stropharia-cubensis]] Concepts
 
-- [[Psilocybin]] - the primary psychoactive compound in this species
-- [[Psilocybe]] - the genus to which this species belongs
-- [[Psilocybe semilanceata]] - the predominant wild European species
-- [[Hallucinogenic mushroom market in Europe]] - commercial distribution patterns
-- [[Conocybe]] - another genus of psilocybin-containing mushrooms
-- [[Panaeolus]] - genus including the potent Copelandia cyanescens
-- [[Bad trip]] - adverse psychological reactions to mushroom use
+- [[psilocybin]] - the primary psychoactive compound in this species
+- Psilocybe - the genus to which this species belongs
+- [[psilocybe-semilanceata]] - the predominant wild European species
+- [[hallucinogenic-mushroom-market-in-europe]] - commercial distribution patterns
+- Conocybe - another genus of psilocybin-containing mushrooms
+- Panaeolus - genus including the potent Copelandia cyanescens
+- [[bad-trip]] - adverse psychological reactions to mushroom use
+
+## See Also
+
+- [[mushroom-cultivation-basics]]
+- [[pf-tek-overview-and-history]]
+
+- [[psilocybe-cubensis-strains-names-and-marketing]]
+- [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
+- [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
+
+- [[psilocybe-cubensis-miniculture-method]]
+- [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
+- [[tropisms-psilocybe-cubensis-phototropism]]

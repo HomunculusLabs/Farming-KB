@@ -26,7 +26,7 @@ Hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]] present a di
 
 ### No Physical Dependence
 
-A key distinguishing feature of hallucinogenic mushrooms is that psychological and physical dependency does not occur with their use. There are no withdrawal symptoms associated with cessation of use. This contrasts sharply with substances such as cannabis, [[MDMA]], alcohol, and opioids.
+A key distinguishing feature of hallucinogenic mushrooms is that psychological and physical dependency does not occur with their use. There are no withdrawal symptoms associated with cessation of use. This contrasts sharply with substances such as cannabis, [[mdma]], alcohol, and opioids.
 
 ### Limited Repeat Use
 
@@ -34,7 +34,7 @@ Several factors naturally limit habitual use of hallucinogenic mushrooms:
 
 - **Rapid tolerance development**: Short-term tolerance builds quickly, requiring increasing doses for similar effects
 - **Intensity of experience**: The profoundly altered state is not conducive to frequent repetition
-- **Lack of entactogenic effects**: Unlike [[MDMA]], mushrooms do not reliably produce the positive mood-altering effects that encourage repeated social use
+- **Lack of entactogenic effects**: Unlike [[mdma]], mushrooms do not reliably produce the positive mood-altering effects that encourage repeated social use
 - **Unpredictable potency**: Variable [[green-cannabis-potency-maximizing]] between batches and species creates uncertainty
 - **Negative effects**: Nausea, panic attacks, and lack of sociable effects discourage regular use
 
@@ -114,7 +114,7 @@ These after-effects may persist for days, weeks, or even months. Some symptoms m
 
 ### Flashbacks
 
-[[Flashback]] phenomena can occur following hallucinogenic mushroom use, though they are reported less frequently than with [[LSD]]. These episodes generally involve:
+Flashback phenomena can occur following hallucinogenic mushroom use, though they are reported less frequently than with [[lsd]]. These episodes generally involve:
 
 - Perceptual alterations
 - Pseudo-hallucinations (rather than true hallucinations)
@@ -129,9 +129,9 @@ Intermittent and chronic psychotic states resulting from hallucinogenic mushroom
 
 ### Comparison with LSD Mental Health Risks
 
-The mental health risk profile of hallucinogenic mushrooms broadly parallels that of [[LSD]], though with some differences:
+The mental health risk profile of hallucinogenic mushrooms broadly parallels that of [[lsd]], though with some differences:
 
-- [[Flashback]] frequency appears lower with mushrooms than with LSD
+- Flashback frequency appears lower with mushrooms than with LSD
 - Duration of acute effects is shorter with mushrooms (2 to 6 hours versus 8 to 12 hours for LSD)
 - The lower [[green-cannabis-potency-maximizing]] ceiling of mushrooms compared to typical LSD doses may result in less intense psychotic-like episodes
 

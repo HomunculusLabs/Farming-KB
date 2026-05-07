@@ -138,6 +138,8 @@ investigated, though yohimbine content varies considerably.
 
 ## See Also
 
+- [[yohimbine]]
+
 - [[ephedra-sinica]] — another stimulant-containing plant with
   adrenergic activity
 - [[rauwolfia-serpentina]] — Indian snakerow, source of reserpine

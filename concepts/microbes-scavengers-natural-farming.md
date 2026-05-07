@@ -17,7 +17,7 @@ type: concept
 
 # Microbes as Scavengers in Natural Farming
 
-In [[Masanobu Fukuoka]]'s natural farming philosophy, microorganisms are nature's primary
+In [[masanobu-fukuoka]]'s natural farming philosophy, microorganisms are nature's primary
 recyclers and soil builders. His understanding of microbial ecology informs every aspect
 of his method, from [[clay-pellet-seed-balling|clay pellet]] composition to his critique
 of [[pesticides in the biosystem|pesticides]] and his argument for leaving nature alone.
@@ -132,7 +132,7 @@ single harmony. This is the natural order, and man is the sole heretic within it
 
 ## See Also
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[natural farming]]
 - [[clay-pellet-seed-balling]]
 - [[pesticides in the biosystem]]

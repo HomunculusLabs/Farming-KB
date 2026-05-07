@@ -129,8 +129,8 @@ More recently, research into 5-MeO-DMT has distinguished its entity-less experie
 - [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 - [[mckenna-food-gods-dmt-experience-hyperspace]]
 
-- [[Stoned Ape Theory]]
-- [[Exopheromones and Plant Intelligence]]
-- [[Eleusinian Mysteries]]
-- [[Ayahuasca Pharmacology]]
-- [[Transcendent Other]]
+- [[stoned-ape-theory]]
+- [[exopheromones-and-plant-intelligence]]
+- [[eleusinian-mysteries]]
+- [[ayahuasca-pharmacology]]
+- Transcendent Other

@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Unlike the progressive accumulation pattern seen with [[psilocin]], [[psilocybin]] levels in [[Psilocybe cubensis]] show no consistent upward or downward trend across successive flushes. Instead, psilocybin concentrations fluctuate unpredictably, varying by a factor of four or more even under tightly controlled growing conditions with identical substrate, genetics, and environmental parameters.
+Unlike the progressive accumulation pattern seen with [[psilocin]], [[psilocybin]] levels in [[psilocybe-cubensis]] show no consistent upward or downward trend across successive flushes. Instead, psilocybin concentrations fluctuate unpredictably, varying by a factor of four or more even under tightly controlled growing conditions with identical substrate, genetics, and environmental parameters.
 
 ## Measured Variation in Controlled Cultures
 
@@ -60,7 +60,7 @@ In the Bigwood and Beug (1982) study, three separate minicultures of the same Am
 
 ## Street Sample Variability
 
-Five street samples of dried [[Psilocybe cubensis]] were analyzed for comparison. These represented material obtained from unknown sources, grown under unknown conditions, and harvested at unknown flush numbers:
+Five street samples of dried [[psilocybe-cubensis]] were analyzed for comparison. These represented material obtained from unknown sources, grown under unknown conditions, and harvested at unknown flush numbers:
 
 | Sample | Psilocybin (mg/g) | Psilocin (mg/g) |
 |--------|-------------------|-----------------|
@@ -130,7 +130,7 @@ Older mycelium may allocate resources differently between growth, maintenance, r
 
 ## Implications for Dosage and Standardization
 
-The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[Psilocybe cubensis]] mushrooms provides no reliable indication of actual [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
+The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[psilocybe-cubensis]] mushrooms provides no reliable indication of actual [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
 
 Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[set and setting]] but also from genuine and substantial differences in chemical potency that are largely unpredictable.
 
@@ -140,7 +140,7 @@ Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) 
 
 - [[psilocin-accumulation-pattern-across-flushes]]
 
-- [[Psilocin Accumulation Pattern Across Flushes]]
-- [[Cap vs Stem Alkaloid Distribution]]
-- [[HPLC Analysis of Tryptamine Alkaloids]]
-- [[Psilocybe Cubensis Miniculture Method]]
+- [[psilocin-accumulation-pattern-across-flushes]]
+- [[cap-vs-stem-alkaloid-distribution]]
+- [[hplc-analysis-of-tryptamine-alkaloids]]
+- [[psilocybe-cubensis-miniculture-method]]

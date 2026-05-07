@@ -22,7 +22,7 @@ type: concept
 ## Overview
 
 Mexico is the global center of neurotropic fungal diversity, harboring 76
-species of neurotropic fungi, of which 44 belong to [[Psilocybe]] -- representing
+species of neurotropic fungi, of which 44 belong to Psilocybe -- representing
 39% of all known Psilocybe species worldwide. This concentration makes Mexico
 the most important country for neurotropic mycodiversity and the cradle of
 traditional mushroom-using cultures. The Central American and Caribbean regions
@@ -34,8 +34,8 @@ neurotropic species with their own ethnographic importance.
 ### Species Counts and Significance
 
 Mexico's 76 neurotropic species include representatives from nearly all major
-neurotropic genera: Psilocybe (44 taxa), [[Copelandia]] (3 species: C.
-cyanescens, C. mexicana, C. tropicalis), [[Panaeolus]] (7 species), Amanita
+neurotropic genera: Psilocybe (44 taxa), Copelandia (3 species: C.
+cyanescens, C. mexicana, C. tropicalis), Panaeolus (7 species), Amanita
 (2 species: A. muscaria, A. pantherina), Gymnopilus (5 species), Hypholoma
 (2 species), Conocybe (C. siliginoides), and others. The country also harbors
 ergot fungi (Claviceps paspali, C. purpurea), Cordyceps species, and sacred
@@ -65,7 +65,7 @@ from Mexico were distributed across vegetation types as follows:
 ### Altitudinal Extremes
 
 Mexican neurotropic fungi span an extraordinary altitudinal range. The highest
-recorded altitude is 4,000 m, where [[Psilocybe aztecorum]] var. aztecorum
+recorded altitude is 4,000 m, where [[psilocybe-aztecorum]] var. aztecorum
 grows in subalpine and alpine habitats of Mexico's highest volcanic mountains.
 P. aztecorum shows relationships with P. baeocystis from the Pacific Northwest
 and P. quebecensis from Quebec, Canada -- all Section Aztecorum. At the other
@@ -151,7 +151,7 @@ Copelandia cyanescens, and Panaeolus species.
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[neurotropic-fungi-in-central-america]]
 
-- [[Copelandia genus diversity and biogeography]]
-- [[Psilocybe transcontinental species pairs]]
-- [[Neurotropic fungi of Hawaii and Pacific Islands]]
-- [[Conocybe and Gerronema neurotropic species]]
+- Copelandia genus diversity and biogeography
+- Psilocybe transcontinental species pairs
+- Neurotropic fungi of Hawaii and Pacific Islands
+- Conocybe and Gerronema neurotropic species

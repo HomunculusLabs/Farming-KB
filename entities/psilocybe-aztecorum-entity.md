@@ -118,9 +118,9 @@ Onset occurs within 20–60 minutes, peaking at 2–3 hours, with total duration
 - [[dimethyltryptamine]]
 - [[norbaeocystin]]
 
-- [[Psilocybe]] (genus overview)
-- [[Psilocybe caerulescens]]
-- [[Psilocybe mexicana]]
-- [[Psilocybin]] (primary active compound)
+- Psilocybe (genus overview)
+- [[psilocybe-caerulescens]]
+- [[psilocybe-mexicana]]
+- [[psilocybin]] (primary active compound)
 - [[Teonanácatl]] (Aztec mushroom tradition)
-- [[Psilocybe pelliculosa]] (North American alpine relative)
+- Psilocybe pelliculosa (North American alpine relative)

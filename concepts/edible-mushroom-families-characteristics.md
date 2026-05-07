@@ -33,7 +33,7 @@ Palmer considered puff-balls the **safest mushrooms for beginners**. He stated: 
 - Globular shape, smooth skin
 - Pure white inside when young and edible
 - If a knife leaves a yellow stain, the specimen is too old
-- The giant puff-ball ([[Lycoperdon giganteum]]) is the largest species
+- The giant puff-ball (Lycoperdon giganteum) is the largest species
 - Smaller varieties are equally safe when white throughout
 - They change rapidly after gathering and should only be eaten in their freshest state
 
@@ -41,7 +41,7 @@ Palmer considered puff-balls the **safest mushrooms for beginners**. He stated: 
 Old puff-balls produce an anesthetic smoke when burnt and have been used to stupefy bees and even as a surgical anesthetic. The young ones have a smell "somewhat like valerian." The puff-ball contains an anesthetic substance about which little was known in Palmer's time.
 
 ### Dark-Fleshed Species
-Puff-balls dark inside when young ([[Scleroderma]]) are not considered edible. They are coarse and uninviting, though no authority brands them as specifically noxious.
+Puff-balls dark inside when young (Scleroderma) are not considered edible. They are coarse and uninviting, though no authority brands them as specifically noxious.
 
 ## Boleti
 
@@ -49,7 +49,7 @@ Puff-balls dark inside when young ([[Scleroderma]]) are not considered edible. T
 Palmer believed Boleti were "probably free from danger to human life" and noted that "there is no recorded case of death from toadstool poisoning that has been traced to a boletus." The Italians made extensive harvests of Boleti in American forests, using the same varieties they ate at home.
 
 ### Distinguishing Edible from Inedible
-The critical distinction is between Boleti (ground-growing, with distinct stems and easily separable pores) and their "twin brothers," the [[Polyporei]] (mostly wood-growing with abortive stems):
+The critical distinction is between Boleti (ground-growing, with distinct stems and easily separable pores) and their "twin brothers," the Polyporei (mostly wood-growing with abortive stems):
 
 **Edible indicators:**
 - Pores are brown, yellowish, or greenish
@@ -65,12 +65,12 @@ The critical distinction is between Boleti (ground-growing, with distinct stems 
 - Color change to red or blue when bruised or cut (though this alone does not indicate poison unless accompanied by bitterness)
 
 ### Notable Edible Species
-- [[Boletus edulis]] — the famous "Cep" of European cuisine, imported canned as "Cepes a l'huile"
-- [[Boletus sub-tomentosus]] — the olive-red boletus, one of Palmer's favorites, though dangerous when waterlogged
-- [[Boletus aestivalis]] — delicious but susceptible to absorbing environmental odors
+- [[boletus-edulis]] — the famous "Cep" of European cuisine, imported canned as "Cepes a l'huile"
+- Boletus sub-tomentosus — the olive-red boletus, one of Palmer's favorites, though dangerous when waterlogged
+- Boletus aestivalis — delicious but susceptible to absorbing environmental odors
 
 ### The Fermentation Hazard
-When heavily charged with water, the spongy substance of Boleti can enter "acidulous fermentation." A waterlogged [[Boletus sub-tomentosus]] showed brilliant blue on pressing and caused severe purging in three simultaneous cases. Lesson: eat only young specimens with substance "too solid to admit of fermentation."
+When heavily charged with water, the spongy substance of Boleti can enter "acidulous fermentation." A waterlogged Boletus sub-tomentosus showed brilliant blue on pressing and caused severe purging in three simultaneous cases. Lesson: eat only young specimens with substance "too solid to admit of fermentation."
 
 ## Hydnei (Tooth Fungi)
 
@@ -80,7 +80,7 @@ The teeth-bearing toadstools are "also safe fungi for the experiments of the ama
 ### Identification
 - Under the cap: small points or spines instead of gills or pores
 - In young specimens, the teeth/spines easily rub off
-- The [[Hydnum repandum]] (spreading hydnum) is the most common edible species
+- The [[hydnum-repandum]] (spreading hydnum) is the most common edible species
 
 ### Characteristics of Hydnum repandum
 - Usually yellow, sometimes reddish
@@ -142,7 +142,7 @@ The Russula family is "quite a safe one for beginners" because the noxious princ
 Palmer's rule: "If they are perfectly dry, taste a small piece. If it is not an edible russula, it will be likely to bite and sting the tongue, while all the esculent varieties of the genus are tasteless, mild, or with the flavor of chestnuts."
 
 ### Notable Species
-- [[Russula alutacea]] — bright red top, buff-colored gills, stout short stem; edible but easily confused with [[Russula emetica]] and [[Russula rosacea]] (both acrid)
+- Russula alutacea — bright red top, buff-colored gills, stout short stem; edible but easily confused with [[russula-emetica]] and Russula rosacea (both acrid)
 - Palmer always tasted a small piece of stem from each specimen while washing, even with familiar species
 
 ## Clavaria (Coral Fungi)

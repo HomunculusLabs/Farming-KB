@@ -146,8 +146,8 @@ Clay pellets replace transplanting. Intermittent irrigation replaces
 continuous flooding. The result is a system that is simultaneously
 more productive, more sustainable, and far less labor-intensive than
 conventional methods.
-See also: [[Clay Pellet Seed Encapsulation]], [[Natural Farming]],
-[[Green Manure Cover Cropping]]
+See also: [[clay-pellet-seed-encapsulation]], [[natural-farming]],
+Green Manure Cover Cropping
 
 ## See Also
 

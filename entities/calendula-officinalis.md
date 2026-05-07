@@ -155,9 +155,9 @@ Calendula officinalis is not considered threatened. Widely cultivated globally a
 - [[calendula-salve-making]]
 - [[laricifomes-officinalis]]
 
-- [[Symphytum-officinale]] — Comfrey, another permaculture wound-healing plant
-- [[Urtica-dioica]] — Nettle, dynamic accumulator for permaculture systems
-- [[Achillea-millefolium]] — Yarrow, companion plant with similar ecological roles
-- [[Trifolium-repens]] — White clover, nitrogen-fixing ground cover for permaculture
+- [[symphytum-officinale]] — Comfrey, another permaculture wound-healing plant
+- [[urtica-dioica]] — Nettle, dynamic accumulator for permaculture systems
+- [[achillea-millefolium]] — Yarrow, companion plant with similar ecological roles
+- [[trifolium-repens]] — White clover, nitrogen-fixing ground cover for permaculture
 - [[filipendula-ulmaria]]
 - [[tropaeolum-majus]]

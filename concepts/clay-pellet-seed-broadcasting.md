@@ -151,7 +151,7 @@ green cover, bringing back the rains.
 - [[clay-pellet-seed-balling]]
 - [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]]
 
-- [[The Four Principles of Natural Farming]]
+- The Four Principles of Natural Farming
 - [[energy-efficiency-natural-farming]]
-- [[Mahayana vs Hinayana Natural Farming]]
+- Mahayana vs Hinayana Natural Farming
 - [[natural-livestock-farming]]

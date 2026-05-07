@@ -17,10 +17,10 @@ Grass seed is an effective substrate for cultivating several species of Psilocyb
 
 Grass seed substrate is suitable for cultivating:
 
-- [[Psilocybe mexicana]] — mushrooms and sclerotia
-- [[Psilocybe tampanensis]] — mushrooms and sclerotia
-- [[Psilocybe cubensis]] — mushrooms only (rye grain is preferred for this species)
-- [[Panaeolus subbalteatus]] — mushrooms
+- [[psilocybe-mexicana]] — mushrooms and sclerotia
+- [[psilocybe-tampanensis]] — mushrooms and sclerotia
+- [[psilocybe-cubensis]] — mushrooms only (rye grain is preferred for this species)
+- [[panaeolus-subbalteatus]] — mushrooms
 
 ## Substrate Preparation
 
@@ -119,20 +119,20 @@ Simple clear plastic bins covered with polyethylene sheeting are sufficient. Fiv
 
 ### Cold Shocking
 
-Harder-to-fruit strains benefit from **cold shocking** — placing them in the fridge for one night before putting in fruiting bins. Easy fruiting strains (e.g., Ecuador cubensis) do not require this. [[Psilocybe mexicana]], [[Psilocybe tampanensis]], and [[Panaeolus subbalteatus]] do not benefit from cold shocking.
+Harder-to-fruit strains benefit from **cold shocking** — placing them in the fridge for one night before putting in fruiting bins. Easy fruiting strains (e.g., Ecuador cubensis) do not require this. [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] do not benefit from cold shocking.
 
 ### Flush Management
 
 - First pinheads appear 6-15 days after placing casings in bins
 - Mushrooms mature in 5-7 days
 - Expect 3 flushes normally, but up to 5-6 with proper watering
-- [[Psilocybe mexicana]] typically produces one big flush and a small second flush
+- [[psilocybe-mexicana]] typically produces one big flush and a small second flush
 - Increase watering directly after picking a flush
 - Remove dead pinheads (aborts) promptly to prevent mould
 
 ## Sclerotia Production
 
-[[Psilocybe tampanensis]] and [[Psilocybe mexicana]] produce **sclerotia** while still colonising in the jar — no casing is needed for sclerotia production. Simply leave fully colonised jars in a clean, preferably dark location. In the experience of the authors, sclerotia of P. tampanensis continue to enlarge until **4 months after inoculation**. Sclerotia of these species also form in the casing layer of cased trays.
+[[psilocybe-tampanensis]] and [[psilocybe-mexicana]] produce **sclerotia** while still colonising in the jar — no casing is needed for sclerotia production. Simply leave fully colonised jars in a clean, preferably dark location. In the experience of the authors, sclerotia of P. tampanensis continue to enlarge until **4 months after inoculation**. Sclerotia of these species also form in the casing layer of cased trays.
 
 ## See Also
 

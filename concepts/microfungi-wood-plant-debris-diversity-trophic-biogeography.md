@@ -21,7 +21,7 @@ The diversity of microfungi on plant debris is shaped by an extraordinary range 
 - **Position in habitat**: Superficial, buried, or immersed material; litter layer vs. canopy position; association with other organisms.
 - **Temporal dynamics**: Seasonal and successional changes in fungal communities occur even within single substrata.
 
-The importance of precise microhabitat definitions cannot be overstated. Fungal succession varies between upper and lower internodes of grass stems, between standing and uprooted culms, and even between upper and lower surfaces of individual fallen leaves. On desert plants like [[Agave]], seemingly barren healthy leaves may be colonized by microfungi at moisture-retaining sites such as leaf bases and rosettes.
+The importance of precise microhabitat definitions cannot be overstated. Fungal succession varies between upper and lower internodes of grass stems, between standing and uprooted culms, and even between upper and lower surfaces of individual fallen leaves. On desert plants like Agave, seemingly barren healthy leaves may be colonized by microfungi at moisture-retaining sites such as leaf bases and rosettes.
 
 ## Trophic Relationships
 
@@ -35,11 +35,11 @@ Saprobes need not evolve ways to penetrate living plant defenses, but this does 
 
 ### Biotrophy and Endophytism
 
-Species that show clear host or substratum preferences as apparent saprobes may actually be [[endophytic-fungi-biology-distribution-ecological-roles|endophytes]] during their initial growth stages. Many [[Xylariaceae]] species fall into this category — present as endophytes in unrelated living hosts but not developing after host death. The transition from endophyte to saprobe allows immediate utilization of dead tissue and represents an ecologically advantageous strategy.
+Species that show clear host or substratum preferences as apparent saprobes may actually be [[endophytic-fungi-biology-distribution-ecological-roles|endophytes]] during their initial growth stages. Many Xylariaceae species fall into this category — present as endophytes in unrelated living hosts but not developing after host death. The transition from endophyte to saprobe allows immediate utilization of dead tissue and represents an ecologically advantageous strategy.
 
 ### Necrotrophy
 
-Necrotrophic fungi have traditionally been regarded as strongly host-specific, resulting in numerous species names defined more by host identity than by fungal features. DNA analysis is revealing that such genera are systematically diverse, and species recognized by molecular evidence do not always correlate with host-based classifications. This challenges traditional species concepts in necrotrophic genera such as [[Colletotrichum]] and [[Phomopsis]].
+Necrotrophic fungi have traditionally been regarded as strongly host-specific, resulting in numerous species names defined more by host identity than by fungal features. DNA analysis is revealing that such genera are systematically diverse, and species recognized by molecular evidence do not always correlate with host-based classifications. This challenges traditional species concepts in necrotrophic genera such as Colletotrichum and Phomopsis.
 
 ## Life Strategies and Survival
 
@@ -65,7 +65,7 @@ Many microfungi have more than one morphologically distinct spore-bearing stage 
 - The anamorph may precede, follow, or occur simultaneously with the teleomorph
 - Anamorphs may form at different locations on the mycelium than teleomorphs
 
-For [[Diplocarpon rosae]] and [[Rhytisma acerinum]], the anamorph ([[Marssonina]] and [[Melasmia]] respectively) is formed as a necrotroph on leaves. After leaves fall, the anamorph ceases sporulation, and a teleomorph stroma is formed for overwintering. Ascospores reinfect new leaves in spring, producing the anamorph again — a complete seasonal cycle.
+For Diplocarpon rosae and Rhytisma acerinum, the anamorph (Marssonina and Melasmia respectively) is formed as a necrotroph on leaves. After leaves fall, the anamorph ceases sporulation, and a teleomorph stroma is formed for overwintering. Ascospores reinfect new leaves in spring, producing the anamorph again — a complete seasonal cycle.
 
 ## Decomposition and Nutrient Cycling
 

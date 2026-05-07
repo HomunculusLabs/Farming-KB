@@ -17,7 +17,7 @@ type: concept
 
 # Disappearance of the Natural Diet
 
-[[Masanobu Fukuoka]] dedicates a substantial portion of "The Natural Way of Farming" to
+[[masanobu-fukuoka]] dedicates a substantial portion of "The Natural Way of Farming" to
 the cultural and nutritional degradation caused by the modern diet. He traces the
 transformation from a diverse, locally adapted traditional cuisine to a uniform, processed
 global food system, arguing that the [[disappearance of the natural diet|disappearance]] of
@@ -131,7 +131,7 @@ and their preparation returns with it.
 
 ## See Also
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[natural farming]]
 - [[direct-seeded no-tillage rice barley succession]]
 - [[scientific agriculture]]

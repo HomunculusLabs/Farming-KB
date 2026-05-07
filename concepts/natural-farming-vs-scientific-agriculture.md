@@ -13,7 +13,7 @@ type: concept
 
 # Natural Farming vs Scientific Agriculture
 
-The contrast between natural farming and scientific agriculture is the central philosophical and practical theme of [[Masanobu Fukuoka]]'s work. Fukuoka argued that these two approaches are not merely different techniques but fundamentally opposed worldviews with divergent trajectories: natural farming moves toward simplification, convergence, and harmony with nature, while scientific agriculture moves toward increasing complexity, divergence, and ultimately destruction. This comparison underpins his critique of modern civilization and his proposal for an alternative relationship between humanity and the natural world.
+The contrast between natural farming and scientific agriculture is the central philosophical and practical theme of [[masanobu-fukuoka]]'s work. Fukuoka argued that these two approaches are not merely different techniques but fundamentally opposed worldviews with divergent trajectories: natural farming moves toward simplification, convergence, and harmony with nature, while scientific agriculture moves toward increasing complexity, divergence, and ultimately destruction. This comparison underpins his critique of modern civilization and his proposal for an alternative relationship between humanity and the natural world.
 
 ## Fundamental Differences
 
@@ -117,7 +117,7 @@ He acknowledged that those without experience of this mode of perception would f
 - [[critique-of-scientific-agriculture]]
 - [[decomposition]]
 
-- [[Four Principles of Natural Farming]]
-- [[Masanobu Fukuoka]]
-- [[Clay Pellet Seed Broadcasting]]
-- [[Direct-Seeded No-Tillage Rice Barley Succession in Clover]]
+- [[four-principles-of-natural-farming]]
+- [[masanobu-fukuoka]]
+- [[clay-pellet-seed-broadcasting]]
+- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]

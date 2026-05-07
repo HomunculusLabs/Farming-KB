@@ -23,7 +23,7 @@ Mushroom cultivation produces harvests in discrete waves known as
 flushes, and the dynamics of these cycles have significant implications
 for total yield, cultivation efficiency, and crop management. The Gartz,
 Adam and Vorbrodt (1990) study provided detailed flush data for
-[[Psilocybe cubensis]], reporting that across five flushes, brassinosteroid
+[[psilocybe-cubensis]], reporting that across five flushes, brassinosteroid
 treated cultures produced four to seven mushrooms in the first flush
 compared to one to three in the control. This observation illuminates
 flush dynamics and how they can be modulated by growth regulators.
@@ -33,7 +33,7 @@ flush dynamics and how they can be modulated by growth regulators.
 A flush is a synchronized wave of fruiting body production triggered
 when environmental and physiological conditions cause simultaneous
 primordia formation across the colonized substrate. Most cultivated
-mushroom species, including [[Psilocybe cubensis]], produce multiple
+mushroom species, including [[psilocybe-cubensis]], produce multiple
 flushes of diminishing size. Each flush represents a cycle of primordia
 initiation, mushroom maturation, harvest, and a recovery period.
 
@@ -97,7 +97,7 @@ producing many small flushes and others fewer but larger flushes.
 ## Five-Flush Production Cycle
 
 The Gartz study documented five flushes during fructification, a
-typical but not universal cycle for [[Psilocybe cubensis]]. Under optimal
+typical but not universal cycle for [[psilocybe-cubensis]]. Under optimal
 conditions, cubensis can produce five to seven flushes. Total flush
 number depends on substrate volume, nutrient content, and harvest
 thoroughness.
@@ -138,10 +138,10 @@ influences the interval between flushes and the size of the next crop.
 
 ## Related Concepts
 
-- [[Brassinosteroid acceleration of fruiting and flush timing in Psilocybe cubensis]] for detailed timing effects analysis
-- [[Brassinosteroid enhancement of mushroom yield and dry mass]] for
+- Brassinosteroid acceleration of fruiting and flush timing in Psilocybe cubensis for detailed timing effects analysis
+- Brassinosteroid enhancement of mushroom yield and dry mass for
   total production data across all flushes
-- [[Brassinosteroid suppression of abortive and incomplete fruit bodies in mushroom cultivation]] for quality improvement effects
+- Brassinosteroid suppression of abortive and incomplete fruit bodies in mushroom cultivation for quality improvement effects
 
 ## See Also
 

@@ -21,7 +21,7 @@ type: concept
 ## Overview
 
 Among the 216 neurotropic fungi cataloged by Guzman, Allen and Gartz (2000),
-the genera [[Conocybe]] and [[Gerronema]] represent smaller but taxonomically
+the genera Conocybe and Gerronema represent smaller but taxonomically
 interesting groups. Conocybe contributes 4 species, while Gerronema
 contributes 2 species. Both genera present significant taxonomic challenges,
 with disputed chemical analyses and inconsistent bluing reactions that
@@ -116,7 +116,7 @@ by Benedict et al. (1967), while C. siliginoides has never been analyzed.
 ### Bluing Reactions
 
 Bluing in Conocybe and Gerronema is generally less pronounced than in
-[[Psilocybe]] or [[Copelandia]]. C. cyanopus shows some blue staining at
+Psilocybe or Copelandia. C. cyanopus shows some blue staining at
 the stipe base, but the reaction is subtle. G. fibula typically does not
 show strong bluing. The absence of bluing does not necessarily indicate
 absence of psilocybin, as several confirmed neurotropic species in other
@@ -138,10 +138,10 @@ accurate identification difficult without specialist knowledge.
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
 
-- [[Copelandia genus diversity and biogeography]]
-- [[Neurotropic fungi of Hawaii and Pacific Islands]]
-- [[Psilocybe transcontinental species pairs]]
-- [[Neurotropic fungi of Central America and Caribbean]]
+- Copelandia genus diversity and biogeography
+- Neurotropic fungi of Hawaii and Pacific Islands
+- Psilocybe transcontinental species pairs
+- Neurotropic fungi of Central America and Caribbean
 - [[allen-gymnopilus-and-other-psychoactive-genera]] - Gymnopilus
   and other psychoactive genera beyond Conocybe and Gerronema
 - [[stamets-psylo-minor-genera-conocybe-gymnopilus]] - Conocybe and

@@ -18,7 +18,7 @@ type: concept
 # Fukuoka Natural Farming
 
 **Fukuoka Natural Farming** is an agricultural philosophy developed by Japanese farmer
-and philosopher [[Masanobu Fukuoka]] (1913 to 2008), articulated in *The Natural Way of
+and philosopher [[masanobu-fukuoka]] (1913 to 2008), articulated in *The Natural Way of
 Farming: The Theory and Practice of Green Philosophy*. It advocates a radical return to
 nature's own processes, rejecting the premise that human intervention is necessary to
 grow crops.
@@ -62,7 +62,7 @@ assumption of conventional and [[organic farming]]:
 ## The Rice and Winter Grain Cycle
 
 Fukuoka's most celebrated practical achievement is his direct-seeded, no-tillage
-[[jadam-rice-pesticide-program]] and winter grain rotation on [[Matsuyama]] flatland. The annual cycle
+[[jadam-rice-pesticide-program]] and winter grain rotation on Matsuyama flatland. The annual cycle
 proceeds as follows:
 
 - **Autumn:** While rice is still standing in the paddy, [[white-clover-ground-cover]] seed and winter
@@ -117,8 +117,8 @@ hydrological cycle rather than treating rainfall as an independent variable.
 
 ## Philosophy of Mu
 
-The intellectual foundation of Fukuoka's farming rests on the concept of [[Mu]] (無,
-"nothingness" or "void"), drawn from [[Buddhist philosophy]]. In this framework,
+The intellectual foundation of Fukuoka's farming rests on the concept of Mu (無,
+"nothingness" or "void"), drawn from Buddhist philosophy. In this framework,
 nature is already complete and self-sustaining; human knowledge and intervention
 are inherently reductive, fragmenting what is whole. Fukuoka described natural
 farming as **centrifugal and convergent** -- it radiates outward from a single

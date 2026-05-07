@@ -182,8 +182,8 @@ Reported adverse effects include:
 - [[dom]]
 - [[mdea]]
 
-- [[Methylone]] — N-methyl homolog (cathinone analog of MDMA)
-- [[MDEA]] — Ethylone without the β-keto group
-- [[Mephedrone]] — 4-methylmethcathinone (4-MMC)
-- [[MDMA]] — 3,4-methylenedioxymethamphetamine (reference entactogen)
-- [[Cathinone]] — Parent compound and pharmacological class
+- [[methylone]] — N-methyl homolog (cathinone analog of MDMA)
+- [[mdea]] — Ethylone without the β-keto group
+- [[mephedrone]] — 4-methylmethcathinone (4-MMC)
+- [[mdma]] — 3,4-methylenedioxymethamphetamine (reference entactogen)
+- Cathinone — Parent compound and pharmacological class

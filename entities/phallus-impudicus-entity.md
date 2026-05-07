@@ -117,8 +117,8 @@ Analysis of *P. impudicus* has revealed:
 - [[ergosterol]]
 - [[herbal-medicine]]
 
-- [[Phallus]] (genus overview)
-- [[Dictyophora duplicata]]
-- [[Clathrus ruber]]
-- [[Aseroe rubra]]
-- [[Lysurus mokusin]] (East Asian stinkhorn relative)
+- Phallus (genus overview)
+- Dictyophora duplicata
+- [[clathrus-ruber]]
+- Aseroe rubra
+- Lysurus mokusin (East Asian stinkhorn relative)

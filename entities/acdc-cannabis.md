@@ -1,150 +1,153 @@
 ---
-title: ACDC Cannabis Strain
-created: 2026-05-06
+title: 'ACDC'
 type: strain
-tags: cannabis, cbd-dominant, medicinal-cannabis, hemp
+tags:
+  - cannabis
+  - strain
+  - cbd
+  - high-cbd
+  - medical-cannabis
+  - cannabidiol
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lewis, M.A. et al. (2018). "Cannabinoid content and profile of high-CBD cannabis strains." Cannabis and Cannabinoid Research, 3(1), 45-54.
-  - Pacific Seed Bank. (2023). "ACDC Strain Profile: Complete Growing Guide and Medical Benefits."
-  - Russo, E.B. (2019). "The case for the entourage effect and conventional breeding of clinical cannabis." Frontiers in Plant Science, 10, 569.
+  - https://www.leafly.com/strains/acdc
+  - https://www.allbud.com/marijuana-strains/hybrid/acdc
+  - https://www.wikileaf.com/strain/acdc/
+  - https://www.projectcbd.org/strain/acdc
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7023045/
+  - https://www.epilepsy.com/stories/cbd-medical-marijuana
+  - https://www.frontiersin.org/articles/10.3389/fphar.2018.00889/full
+  - https://www.royalqueenseeds.com/blog-the-top-10-cbd-strains-n108created: 2026-05-07
+
 ---
 
-# ACDC Cannabis Strain
+# ACDC
 
-## Introduction
+ACDC is a prominent high-CBD cannabis strain renowned for its remarkably low THC content
+and therapeutic potential. It is one of the most widely recognized CBD-dominant cultivars
+in the medical cannabis community and has played a significant role in popularizing
+cannabidiol as a viable wellness compound.
 
-ACDC is a high-CBD, low-THC cannabis strain that has become one of the most widely recognized and commercially available CBD-dominant cultivars in the medical cannabis market. Developed through selective breeding from Cannatonic lineage, ACDC typically produces CBD:THC ratios of 20:1 or higher, delivering significant therapeutic effects without the intoxicating psychoactivity associated with THC-dominant strains. Its name, while often associated with the rock band, is officially attributed to the initials of a specific phenotype's parent plants. ACDC has become a foundational strain in the modern medical cannabis movement, particularly for patients seeking relief from pain, anxiety, and seizure disorders without cognitive impairment.
+## Overview
 
-## Genetic Lineage
+| Attribute         | Details                          |
+|-------------------|----------------------------------|
+| **Type**          | Sativa-dominant hybrid           |
+| **CBD Content**   | 15–20% (up to 24% in phenotypes)|
+| **THC Content**   | 0.5–1.5% (rarely above 2%)      |
+| **CBD:THC Ratio** | 20:1 to 30:1                    |
+| **Aroma**         | Earthy, sweet, pine, citrus      |
+| **Flavor**        | Mild pine, woody, slightly sweet |
 
-ACDC is a phenotype of Cannatonic, one of the original CBD-dominant hybrid strains. Its genetic background includes:
+## Lineage
 
-- **Primary lineage**: Cannatonic (phenotype selection)
-- **Cannatonic parents**: MK Ultra × G13 Haze
-- **Chemotype**: Type II (balanced THC:CBD) to Type I CBD-dominant (CBD > 1% with < 0.3% THC in hemp-legal phenotypes)
-- **Breeder**: Originally stabilized by the late cannabis breeder Subcool (TGA Subcool Seeds), though the exact selection was refined by multiple cultivators
+ACDC is a **phenotype of Cannatonic**, one of the foundational high-CBD breeding lines.
+Cannatonic itself is a cross between **MK Ultra** (indica) and **G13 Haze** (sativa),
+created by Resin Seeds in Spain. While Cannatonic typically produces CBD:THC ratios
+around 1:1 to 5:1, the specific ACDC phenotype was isolated and stabilized for its
+exceptionally high CBD-to-THC ratio of 20:1 or greater. The name is a nod to both the
+rock band and the idea of delivering cannabis benefits "AC/DC" — without the
+psychoactive "charge" of THC.
 
-The selection process involved identifying phenotypes that consistently produced CBD:THC ratios exceeding 20:1. Stable cuttings have been propagated vegetatively to maintain these chemotype characteristics across generations.
+## Cannabinoid Profile
 
-## Morphology and Description
+- **CBD (Cannabidiol):** 15–20%, with select phenotypes testing as high as 24%.
+- **THC (Tetrahydrocannabinol):** Typically 0.5–1.5%, consistently below legal THC
+  thresholds in many jurisdictions.
+- **CBD:THC Ratio:** 20:1 to 30:1, firmly CBD-dominant.
+- **Minor Cannabinoids:** Trace CBC, CBG, and THCV depending on phenotype and
+  growing conditions.
 
-ACDC exhibits a morphology typical of indica-dominant hybrids with sativa-influenced characteristics from its Haze ancestry.
+The ultra-low THC content means ACDC does not produce intoxicating effects, making it
+suitable for daytime use, THC-sensitive patients, and individuals in jurisdictions with
+strict THC limits.
 
-- **Plant structure**: Medium height, bushy and compact with moderate lateral branching
-- **Height**: Typically 90–150 cm indoors; can reach 180 cm outdoors
-- **Leaves**: Broad, dark green indica-style leaflets with occasional lighter variegation
-- **Buds**: Dense, medium to large, with a spade-like conical shape
-- **Trichome coverage**: Heavy resin production with abundant trichome heads
-- **Color**: Light to medium green with occasional purple hues under cooler temperatures
-- **Aroma**: Earthy, pine, and woody base notes with subtle floral and citrus undertones
-- **Flavor**: Smooth, herbal, and slightly sweet with a woody, peppery finish
-- **Pistil color**: Orange to amber at maturity
+## Terpene Profile
 
-## Cannabinoid and Terpene Profile
+- **Myrcene (β-Myrcene):** Dominant terpene; earthy, musky notes. Associated with
+  sedative, muscle-relaxant, and anti-inflammatory properties.
+- **α-Pinene:** Fresh pine aroma. Known for bronchodilator effects, mental clarity,
+  and potential memory preservation.
+- **β-Caryophyllene:** Peppery, spicy undertone. Binds to CB2 receptors as a dietary
+  cannabinoid, contributing anti-inflammatory and analgesic effects.
+- **Secondary Terpenes:** Humulene (appetite-suppressant), limonene (mood-elevating),
+  and linalool (calming) may be present in smaller quantities.
 
-### Cannabinoid Profile
+## Effects
 
-| Compound | Typical Range | Notes |
-|----------|--------------|-------|
-| CBD | 15–24% | Predominantly CBD-A before decarboxylation |
-| THC | 0.3–1.5% | Legally classified as hemp when < 0.3% |
-| CBG | 0.5–2.0% | Minor cannabinoid with anti-inflammatory properties |
-| CBC | Trace–1.0% | Contributes to anti-inflammatory effects |
-| CBDV | Trace | May contribute to anti-convulsant properties |
-| THCA | Corresponds to THC content | Non-psychoactive precursor |
+- **Non-psychoactive:** Clear-headed functionality with no cognitive impairment or
+  euphoria.
+- **Analgesic:** Mild to moderate pain relief without the sedation of high-THC strains.
+- **Anti-anxiety:** Calming and anxiolytic, attributed to CBD's interaction with
+  5-HT1A serotonin receptors.
+- **Anti-inflammatory:** Systemic inflammation reduction via CBD and caryophyllene.
+- **Focus:** Enhanced mental clarity and focus, possibly mediated by pinene.
 
-### Primary Terpenes
+## Medical Applications
 
-- **Myrcene** (0.5–1.2%): Sedative, muscle relaxant, anti-inflammatory
-- **Pinene (α and β)** (0.3–1.0%): Bronchodilator, memory enhancement, anti-anxiety
-- **Caryophyllene** (0.3–0.8%): Anti-inflammatory, analgesic via CB2 receptor agonism
-- **Limonene** (0.2–0.6%): Mood elevation, anxiolytic, anti-inflammatory
-- **Linalool** (0.1–0.5%): Anxiolytic, sedative, anticonvulsant
-- **Humulene** (0.1–0.4%): Anti-inflammatory, appetite suppressant
+- **Epilepsy and Seizure Disorders:** Gained prominence alongside Charlotte's Web
+  for managing treatment-resistant epilepsy, especially in pediatric patients.
+- **Chronic Pain:** Alternative or adjunct to opioid therapy for neuropathic pain,
+  fibromyalgia, and arthritis.
+- **Anxiety and PTSD:** Preferred for patients who cannot tolerate THC-induced anxiety.
+- **Inflammation:** Beneficial for autoimmune conditions and inflammatory bowel disease.
+- **Neurodegenerative Conditions:** Investigated for neuroprotective potential in
+  Parkinson's, MS, and Alzheimer's disease.
+- **Cancer Symptom Management:** Alleviates chemotherapy-induced nausea, pain, and
+  appetite loss without psychoactive burden.
 
-The terpene profile of ACDC contributes to what is known as the "entourage effect," wherein the combined activity of cannabinoids and terpenes produces therapeutic outcomes greater than the sum of isolated components.
+## Cultivation
 
-## Traditional and Modern Medicinal Uses
+| Parameter          | Details                                      |
+|--------------------|----------------------------------------------|
+| **Growing Difficulty** | Moderate (requires phenotype verification) |
+| **Flowering Time** | 8–9 weeks indoors                            |
+| **Harvest (Outdoor)**| Mid to late October                        |
+| **Indoor Yield**   | 12–16 oz/m²                                  |
+| **Outdoor Yield**  | 16–20 oz/plant                               |
+| **Height**         | Medium to tall (4–6 ft indoors)              |
+| **Preferred Climate**| Mediterranean, temperate, controlled indoor |
 
-ACDC is primarily valued as a therapeutic cultivar and is used in the management of numerous medical conditions:
-
-- **Epilepsy and seizure disorders**: High CBD content has demonstrated anticonvulsant properties, particularly in treatment-resistant forms of epilepsy such as Dravet syndrome and Lennox-Gastaut syndrome
-- **Chronic pain**: Anti-inflammatory and analgesic effects without opioid-like side effects or psychoactive impairment
-- **Anxiety and PTSD**: Anxiolytic effects attributed to CBD's modulation of 5-HT1A serotonin receptors
-- **Inflammation**: Beneficial for rheumatoid arthritis, inflammatory bowel disease, and neuropathic pain
-- **Neurodegenerative conditions**: Investigated for potential neuroprotective benefits in Parkinson's disease, Alzheimer's disease, and multiple sclerosis
-- **Cancer treatment support**: Used as an adjunct to manage chemotherapy-induced nausea, pain, and appetite loss
-- **Sleep disorders**: Low doses may promote wakefulness while higher doses support sleep onset
-
-## Pharmacology
-
-The pharmacological activity of ACDC is primarily mediated by cannabidiol (CBD), which interacts with multiple receptor systems:
-
-- **5-HT1A receptor agonism**: Mediates anxiolytic, antidepressant, and neuroprotective effects
-- **TRPV1 (vanilloid receptor) modulation**: Contributes to analgesic and anti-inflammatory effects
-- **GPR55 antagonism**: May modulate osteoclast function and cancer cell proliferation
-- **PPAR-γ agonism**: Anti-inflammatory and neuroprotective signaling
-- **Negative allosteric modulation of CB1 receptors**: Blocks THC's psychoactive effects while preserving therapeutic activity
-- **Anandamide reuptake inhibition**: Increases endogenous cannabinoid tone
-
-Importantly, the low THC content of ACDC means it does not produce significant CB1 receptor activation, avoiding the cognitive impairment, tachycardia, and anxiety that can accompany THC-rich strains at therapeutic doses.
-
-## Cultivation and Growing
-
-### Growing Parameters
-
-| Parameter | Indoor | Outdoor |
-|-----------|--------|---------|
-| Flowering time | 8–9 weeks | Mid-October harvest (Northern Hemisphere) |
-| Yield | 300–400 g/m² | 400–600 g/plant |
-| Difficulty | Moderate | Easy |
-| Height control | Regular training recommended | Supports natural growth |
-| Temperature | 20–28°C day / 15–20°C night | Hardy; tolerates 10–35°C range |
-| Humidity | 40–60% during flowering | Adapt to ambient conditions |
-
-### Cultivation Notes
-
-- ACDC is typically propagated via cloning to preserve the exact CBD:THC chemotype, as seed-grown plants exhibit significant chemotype variation
-- SCROG (Screen of Green) and LST (low-stress training) techniques improve yield and light penetration
-- Plants respond well to organic cultivation methods and living soil systems
-- Nutrient requirements are moderate; excessive nitrogen during flowering should be avoided to preserve terpene profiles
-- Pest resistance is generally good, though regular monitoring for spider mites, powdery mildew, and botrytis is recommended
-- CBD production peaks at 70–80 days of flowering; harvest timing significantly impacts CBD:THC ratio
+Significant phenotypic variation means growers should test cannabinoid content and select
+clones from verified high-CBD mother plants. Performs well in soil and hydroponics;
+responds to LST and ScrOG methods. Standard pest and mold precautions apply.
 
 ## Legal Status
 
-The legal status of ACDC varies by jurisdiction and depends on the THC content of the specific phenotype:
+- **United States:** Legal as hemp (below 0.3% THC under the 2018 Farm Bill); widely
+  available in state medical cannabis programs.
+- **European Union:** Legal as industrial hemp when THC is below 0.2–0.3% (varies by
+  member state).
+- **Canada:** Available through licensed producers under the Cannabis Act.
+- **Other Jurisdictions:** Varies; low THC often places it in more permissive categories.
 
-- **United States**: Phenotypes with < 0.3% THC (dry weight) are classified as hemp under the 2018 Farm Bill and are federally legal; higher-THC phenotypes require state-level medical cannabis authorization
-- **European Union**: CBD-dominant cannabis products are legal in most member states, with varying restrictions on THC content (typically < 0.2–0.3%)
-- **Canada**: Legal for both medical and recreational use under the Cannabis Act
-- **Australia**: Available through the Special Access Scheme (SAS) or authorized prescriber pathways
-- **United Kingdom**: CBD products are legal if THC content < 0.2% and products are marketed as food supplements
+## Comparison to Other High-CBD Strains
 
-## Safety and Contraindications
+| Strain          | CBD:THC Ratio | Key Characteristics                    |
+|-----------------|---------------|----------------------------------------|
+| **ACDC**        | 20:1–30:1     | Most CBD-dominant; minimal psychoactivity|
+| **Charlotte's Web** | 20:1–30:1 | Pediatric epilepsy focus; hemp-derived |
+| **Harlequin**   | 5:2           | Balanced CBD/THC; mild psychoactivity   |
+| **Cannatonic**  | 1:1 to 5:1    | Parent strain; wider phenotypic range   |
+| **Sour Tsunami**| 1:1           | First strain bred specifically for CBD  |
+| **Pennywise**   | 1:1           | High CBD with notable indica sedation   |
 
-ACDC is generally well-tolerated with an excellent safety profile. Known considerations include:
+ACDC and Charlotte's Web are the two strains most associated with pure CBD therapy. ACDC
+offers a more sativa-influenced profile (energy, clarity) versus the hemp-like
+Charlotte's Web, while Harlequin and Sour Tsunami suit users wanting mild psychoactivity
+alongside therapeutic effects.
 
-- **Drug interactions**: CBD is a potent inhibitor of CYP3A4 and CYP2D6 hepatic enzymes, potentially interacting with warfarin, cyclosporine, and numerous pharmaceuticals
-- **Hepatotoxicity**: High doses of CBD (>1500 mg/day) have been associated with elevated liver enzymes in clinical trials
-- **Fatigue and sedation**: May occur at higher doses
-- **Gastrointestinal effects**: Diarrhea and changes in appetite have been reported
-- **Pregnancy and lactation**: Cannabis use is contraindicated during pregnancy due to potential effects on fetal neurodevelopment
+## Notable Considerations
 
-## References and Further Reading
-
-1. Lewis, M.A., Russo, E.B., & Bergman, B.G. (2018). "Cannabinoid content and profile of high-CBD cannabis strains." *Cannabis and Cannabinoid Research*, 3(1), 45–54.
-2. Russo, E.B. (2019). "The case for the entourage effect and conventional breeding of clinical cannabis." *Frontiers in Plant Science*, 10, 569.
-3. Devinsky, O. et al. (2017). "Trial of Cannabidiol for Drug-Resistant Seizures in the Dravet Syndrome." *New England Journal of Medicine*, 376(21), 2011–2020.
-4. Babson, K.A., Sottile, J., & Morabito, D. (2017). "Cannabis, cannabinoids, and sleep: a review of the literature." *Current Psychiatry Reports*, 19(4), 23.
-5. McPartland, J.M. et al. (2017). "Cannabis sativa and Cannabis indica versus 'Sativa' and 'Indica'." *Cannabis and Cannabinoid Research*, 2(1), 44–54.
+- **Drug Testing:** Despite low THC, may trigger positive results on sensitive tests.
+- **Quality Control:** Phenotypic variation can significantly alter ratios; source from
+  reputable labs and verified growers.
+- **Dosage:** CBD dosage varies widely by individual and condition. Consult healthcare
+  providers for personalized guidance.
 
 ## See Also
 
 - [[acdc-cannabis-strain]]
-- [[acdc]]
-- [[query-how-to-increase-cannabis-yield]]
-- [[cannabis-landrace-strains]]
-- [[cervantes-hash-cannabis-oil-production]]
+- [[cervantes-cannabis-butter-cooking]]
+- [[blesching-cannabis-multiple-sclerosis]]

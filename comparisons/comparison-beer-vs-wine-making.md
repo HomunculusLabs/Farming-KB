@@ -130,6 +130,8 @@ bottles) make diversifying between beer and wine practical and cost-effective.
 
 ## See Also
 
+- [[wine-cap]]
+
 - [[vinegar-making]]
 - [[tempeh-making]]
 - [[wild-fermentation-vs-cultured-yeast]]

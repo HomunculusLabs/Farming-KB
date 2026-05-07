@@ -149,8 +149,8 @@ Guzmán remains the foundation for reliable mycological research.
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 
-- [[Psilocybe Taxonomic Challenges and Cryptic Species]]
-- [[Conflicting Chemical Analyses in Neurotropic Fungi]]
-- [[Neurotropic Fungi Classification Systems]]
-- [[Clavicipitalean Neurotropic Fungi]]
-- [[Mycological Exploration Bias and Underexplored Regions]]
+- Psilocybe Taxonomic Challenges and Cryptic Species
+- Conflicting Chemical Analyses in Neurotropic Fungi
+- Neurotropic Fungi Classification Systems
+- Clavicipitalean Neurotropic Fungi
+- Mycological Exploration Bias and Underexplored Regions

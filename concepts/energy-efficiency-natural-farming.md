@@ -136,7 +136,7 @@ because nature, not man, grows the rice and wheat.
 - [[natural-farming-imo-collection-and-cultivation]]
 - [[natural-farming]]
 
-- [[Mahayana vs Hinayana Natural Farming]]
-- [[The Four Principles of Natural Farming]]
+- Mahayana vs Hinayana Natural Farming
+- The Four Principles of Natural Farming
 - [[natural-livestock-farming]]
 - [[clay-pellet-seed-broadcasting]]

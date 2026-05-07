@@ -111,6 +111,8 @@ support plants that prefer fungally dominated soils.
 
 ## See Also
 
+- [[purpureocillium-lilacinum]]
+
 - [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
 
 - [[teaming-with-microbes-protists-and-nematode-predators]]

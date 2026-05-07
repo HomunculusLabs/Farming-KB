@@ -117,6 +117,8 @@ to line up with their own theories. The debate it sparked simply spun round with
 
 ## See Also
 
+- [[fly-agaric]]
+
 - [[amanita-muscaria-cultural-history]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[siberian-fly-agaric-orientalism]]

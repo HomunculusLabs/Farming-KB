@@ -162,13 +162,13 @@ Approximately **1.0 billion hectares** of land globally are under some form of a
 
 ## See Also
 
-- [[Silvopasture]] — Trees + livestock integration
-- [[Food Forest]] — Edible perennial polyculture systems
-- [[Hugelkultur]] — Raised-bed technique using woody debris
-- [[Plant Guild]] — Functional plant groupings in permaculture
-- [[Comfrey]] — Dynamic accumulator plant used in agroforestry
-- [[Mycorrhizae]] — Symbiotic fungi critical to agroforestry tree-crop interactions
-- [[Permaculture]] — Broader design framework incorporating agroforestry
+- [[silvopasture]] — Trees + livestock integration
+- [[food-forest]] — Edible perennial polyculture systems
+- [[hugelkultur]] — Raised-bed technique using woody debris
+- [[plant-guild]] — Functional plant groupings in permaculture
+- [[comfrey]] — Dynamic accumulator plant used in agroforestry
+- [[mycorrhizae]] — Symbiotic fungi critical to agroforestry tree-crop interactions
+- [[permaculture]] — Broader design framework incorporating agroforestry
 - [[epimedium-sagittatum]]
 - [[tabernaemontana-divaricata]]
 - [[rhizophagus-irregularis]]

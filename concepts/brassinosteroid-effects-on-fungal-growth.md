@@ -44,7 +44,7 @@ In both systems, the brassinosteroid was applied at 0.01 ppm (10 parts per billi
 
 ### Fungal Strain
 
-A strain of [[Psilocybe cubensis]] (Earle) Singer previously described by Gartz was used. This strain was selected for its characteristically high stability in growth and fruiting performance across various substrates.
+A strain of [[psilocybe-cubensis]] (Earle) Singer previously described by Gartz was used. This strain was selected for its characteristically high stability in growth and fruiting performance across various substrates.
 
 ## Results
 
@@ -124,8 +124,8 @@ The application of brassinosteroids to mushroom cultivation could offer several 
 
 - [[brassinosteroid-fungal-growth-effects]]
 
-- [[Psilocybe cubensis Cultivation]]
-- [[Fruiting Triggers and Environmental Parameters]]
-- [[Plant Hormones and Their Effects on Fungi]]
-- [[Mushroom Substrate Optimization]]
-- [[Biological Efficiency in Mushroom Cultivation]]
+- [[psilocybe-cubensis-cultivation]]
+- Fruiting Triggers and Environmental Parameters
+- Plant Hormones and Their Effects on Fungi
+- Mushroom Substrate Optimization
+- Biological Efficiency in Mushroom Cultivation

@@ -99,7 +99,7 @@ Research into anandamide has significant implications for understanding how the 
 
 ## Relationship to Plant Cannabinoids
 
-Anandamide's discovery illuminated why plant-derived cannabinoids like [[THC]] produce their effects. THC mimics anandamide by binding to the same CB1 and CB2 receptors, though THC is more resistant to enzymatic degradation and therefore produces more sustained and potent effects.
+Anandamide's discovery illuminated why plant-derived cannabinoids like THC produce their effects. THC mimics anandamide by binding to the same CB1 and CB2 receptors, though THC is more resistant to enzymatic degradation and therefore produces more sustained and potent effects.
 
 The structural similarity between THC and anandamide is not coincidental. Both molecules share a pharmacophore that allows them to activate cannabinoid receptors, but THC's resistance to FAAH degradation means it remains active for hours rather than minutes, producing the prolonged psychoactive and therapeutic effects associated with cannabis consumption.
 
@@ -119,7 +119,7 @@ Anandamide's role in mood regulation means that endocannabinoid tone influences 
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 
 - [[endocannabinoid system]]
-- [[THC]]
+- THC
 - [[cannabidiol-cbd]]
 - cannabis
 - [[blesching-cannabis-neurogenesis-and-neuroplasticity]]

@@ -19,7 +19,7 @@ Fungal life strategies, adapted from Grime's CSR theory for higher plants, descr
 Ruderal fungi thrive in disturbed but productive environments. They are characterized by:
 
 - **Short life spans and high reproductive potential**: Ruderal fungi are ephemeral, dedicating resources almost entirely to reproductive structures.
-- **Rapid growth**: Many [[Mucorales]] (pin molds) are classic ruderals, abundant in soil and quick to colonize fresh substrates.
+- **Rapid growth**: Many Mucorales (pin molds) are classic ruderals, abundant in soil and quick to colonize fresh substrates.
 - **Sensitivity to transient factors**: Ruderal species are particularly responsive to water stress and other fluctuating environmental conditions.
 - **Minimal role in decomposition**: Ruderals play an insignificant role in litter decomposition despite their abundance.
 

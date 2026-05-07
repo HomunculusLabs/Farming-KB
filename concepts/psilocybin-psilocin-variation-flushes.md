@@ -11,7 +11,7 @@ sources:
 
 # Psilocybin and Psilocin Variation Across Flushes
 
-The alkaloid content of [[Psilocybe cubensis]] varies significantly across successive fruitings (flushes) from the same mycelial culture.
+The alkaloid content of [[psilocybe-cubensis]] varies significantly across successive fruitings (flushes) from the same mycelial culture.
 
 This finding, established by Jeremy Bigwood and Michael W. Beug at The Evergreen State College and published in the Journal of Ethnopharmacology in 1982, has important implications for both cultivation practices and dosage predictability for users.
 
@@ -21,7 +21,7 @@ The study was motivated by observations that large variations in alkaloid levels
 
 ### Psilocybin Levels
 
-[[Psilocybin]] levels showed no consistent upward or downward trend as fruiting progressed across multiple flushes from the same culture.
+[[psilocybin]] levels showed no consistent upward or downward trend as fruiting progressed across multiple flushes from the same culture.
 
 However, levels varied unpredictably by a factor of four among different minicultures grown under rigidly controlled conditions.
 
@@ -41,7 +41,7 @@ Importantly, psilocybin levels on the last flush were generally similar to those
 
 ### Psilocin Levels
 
-[[Psilocin]] followed a markedly different and more predictable pattern.
+[[psilocin]] followed a markedly different and more predictable pattern.
 
 It was generally absent or near-zero in the first one or two flushes, reached maximum concentration by the fourth flush, and then appeared to begin declining.
 
@@ -123,7 +123,7 @@ This strain-dependent distribution pattern suggests genetic variation in alkaloi
 
 ## Street Sample Variability
 
-Five street samples of [[Psilocybe cubensis]] (all cultivated on rye-grain substrate) showed highly variable potency.
+Five street samples of [[psilocybe-cubensis]] (all cultivated on rye-grain substrate) showed highly variable potency.
 
 Sample 1 contained 5.6 mg/g psilocybin with 0 psilocin.
 

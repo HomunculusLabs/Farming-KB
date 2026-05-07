@@ -1,90 +1,93 @@
 ---
-title: "Sword Fighting Analogy: One-Sword, Two-Sword, and No-Sword Schools of Farming"
-created: 2026-05-06
-tags: [natural-farming, philosophy, mahayana, hinayana, scientific-farming, martial-arts-metaphor, fukuoka]
+title: Sword Fighting Analogy and Three Ways of Farming
+tags:
+  - natural-farming
+  - philosophy
+  - mahayana
+  - hinayana
+  - scientific-farming
+  - farming-methods
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - administrator-microsoft-word-fukuoka-textdoc.md
+  - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
+
 ---
 
-# Sword Fighting Analogy: One-Sword, Two-Sword, and No-Sword Schools of Farming
+# Sword Fighting Analogy and Three Ways of Farming
 
 
 
+## Overview
 
-
-## The Three Schools
-
-Masanobu Fukuoka borrows an analogy from the art of Japanese sword fighting to explain the relationship between the three ways of farming: Hinayana natural farming, scientific farming, and Mahayana natural farming. Each corresponds to a distinct school of swordsmanship with fundamentally different orientations, techniques, and ultimate aims.
-
-### The Two-Sword School: Scientific Farming
-
-Scientific farming corresponds to the two-sword school, directed outward. This school employs every means at its disposal, constantly increasing the number of swords — adding new techniques, technologies, chemicals, and interventions. Just as a swordsman wielding two blades strikes outward in multiple directions, scientific farming expands centrifugally away from nature, accumulating ever more methods and tools. The practitioner believes that more swords mean greater capability, just as the scientist believes that more knowledge and intervention produce better results.
-
-### The One-Sword School: Hinayana Natural Farming
-
-Hinayana natural farming corresponds to the one-sword school, directed toward the center. The practitioner holds a single blade and moves inward, seeking to reduce the number of means while still operating within the relative world. This school can be directly compared with the two-sword school because both occupy the same dimension — the world of relativity and discriminating knowledge. Both are derived from nature as verified through human intellect.
-
-However, the one-sword school moves in the opposite direction from the two-sword school. Where scientific farming adds human knowledge to natural forces, Hinayana farming attempts to cast off human knowledge and action, devoting itself to making the greatest possible use of the pure forces of nature. The one-sword practitioner tries to obtain the best possible results while progressively rendering all means useless — reducing the number of swords.
-
-The direction in which Hinayana natural farming points leads beyond the world of science entirely, toward a rejection of scientific thinking. Fukuoka compares this to the relationship between Eastern arts of healing and Western medicine: they operate in different directions even when they must borrow each other's terminology.
-
-### The No-Sword School: Mahayana Natural Farming
-
-Mahayana natural farming corresponds to the unmoving no-sword school, and comparison with the other two is impossible. The no-sword practitioner has transcended the need for any weapon whatsoever. Mahayana farming exists on an entirely different plane from both Hinayana and scientific farming. It does entirely without swords — without human means, knowledge, or action. It is nature itself.
-
-This school is "unmoving" not because it is static, but because it has reached the point of stillness that lies beyond all motion and counter-motion. The no-sword master does not fight because there is nothing to fight against; the Mahayana farmer does not farm because nature does all the farming.
+Fukuoka employs the Japanese martial art of sword fighting (kenjutsu) as a metaphor to distinguish three fundamental approaches to agriculture: Mahayana natural farming, Hinayana natural farming, and scientific farming. This analogy illuminates the philosophical foundations underlying each method and reveals why natural farming, though seemingly passive, represents the most advanced form of agriculture. The framework is central to understanding the theoretical basis of Fukuoka's critique of modern agricultural science.
 
 
 
+## The Three Ways Defined
 
+### Mahayana Natural Farming: The No-Sword School
 
-## Philosophical Foundation
+When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
 
-The sword fighting analogy rests on a philosophical conviction central to Fukuoka's thought: if man makes a genuine effort to approach nature, then even should he abandon all deeds and actions, nature will take each of these over and perform them for him. The progression from two swords to one sword to no sword is not a sequence of renunciation but of deepening trust in nature's inherent sufficiency.
+The relationship between man and nature is like an ideal marriage in which the partners together realize a perfect life without asking for, giving, or receiving anything of each other. Mahayana farming is the very embodiment of life in accordance with nature. Those who live such a life are hermits and wise men. In sword fighting terms, this is the unmoving no-sword school — comparison with which is impossible.
 
-This conviction inverts the common assumption that more effort and more tools produce better results. Instead, Fukuoka argues that the fewer the human interventions, the closer one approaches the perfection of nature. The two-sword school believes it is gaining ground by accumulating means; the one-sword school recognizes that means are being rendered unnecessary; and the no-sword school has arrived at the realization that means were never needed.
+### Hinayana Natural Farming: The One-Sword School
 
+This type of farming arises when man earnestly seeks entry to the realm of Mahayana farming. Desirous of the true blessings and bounty of nature, he prepares himself to receive it. This is the road leading directly to complete enlightenment, but is short of that perfect state. The relationship between man and nature here is like that of a lover who yearns after his loved one and asks for her hand, but has not realized full union.
 
+Hinayana farming attempts to cast off human knowledge and action and devote itself to making the greatest possible use of the pure forces of nature. It belongs in the same world of relativity as scientific farming, and so the two may be directly compared. But while Hinayana farming casts off human knowledge, scientific farming adds human knowledge and action in an effort to establish a superior way of farming. The direction in which Hinayana farming points leads beyond the world of science and to a rejection of scientific thinking.
 
+In sword fighting, Hinayana natural farming is likened to the one-sword school directed toward the center, while scientific farming is the two-sword school directed outward.
 
+### Scientific Farming: The Two-Sword School
 
-## The Asymmetry of Comparison
+Man exists in a state of contradiction, estranged from nature yet longing to return. A product of this condition, scientific farming forever wanders blindly back and forth, now calling upon nature's blessings, now rejecting them in favor of human knowledge. Like a lover unable to decide whose hand to ask in marriage, it imprudently courts while agonizing over indecision.
 
-A crucial insight embedded in the analogy is the asymmetry between the schools. The two-sword and one-sword schools can be compared because they occupy the same dimension. A practitioner of each can face the other and assess relative strengths. But the no-sword school exists on a fundamentally different plane. The no-sword master cannot be challenged because there is no contest. Mahayana natural farming cannot be compared with scientific farming because they do not share a common framework.
-
-Scientific farming is the sum of knowledge and forces extracted from nature by the human intellect — inherently finite, limited to small pockets of time and space. No matter how many swords are accumulated, human knowledge remains a tiny fraction of the infinitude of the natural world. Imperfection can never equal perfection. Nature encompasses everything; man will never be more than a small, imperfect part of its totality.
-
-
-
-
-
-## Implications for Agricultural Practice
-
-The sword fighting analogy has direct practical implications. Scientific farming uses all possible means — chemical fertilizers, pesticides, mechanization, genetic modification — and continually increases their number. Hinayana natural farming, such as organic farming, still uses some means but tries to reduce them progressively, approaching nature by eliminating human interventions one by one. Mahayana natural farming has no use for any means whatsoever; it is the "do-nothing" farming that trusts entirely in the inherent powers of nature.
-
-Fukuoka's own forty-year journey from scientific methods to his current practice mirrors the progression from the two-sword school through the one-sword school toward the no-sword school. He reports that his method has approached the point of "doing nothing" — his yields equal or exceed those of scientific farming, his labor and costs are a fraction of conventional methods, and no element of his cultivation generates pollution.
+Scientific farming uses all possible means at its disposal, increasing the number of swords. Natural farming tries to obtain the best possible results while rendering all means useless — in effect reducing the number of swords (Hinayana) or doing entirely without (Mahayana). This view rests on the philosophical conviction that if man makes a genuine effort to approach nature, then even should he abandon all deeds and actions, nature will take each over and perform them for him.
 
 
 
+## Yield Comparisons: When Each Method Excels
+
+Fukuoka provides explicit comparisons:
+
+1. **Scientific farming excels under unnatural conditions.** Growing produce in hothouses, hotbeds, clay pots, and cramped plots — pumping in chemical fertilizers and powerful pest control agents to grow out-of-season vegetables and splendid-looking fruit packed with artificial coloring. Yet this is only because under such unnatural conditions natural farming does not stand a chance.
+
+2. **Hinayana natural farming matches or exceeds scientific farming under natural conditions.** As conditions approach those of nature, Hinayana farming yields results at least as good as or better than scientific farming.
+
+3. **Mahayana natural farming is always superior in holistic terms.** Pure natural farming is total and comprehensive, so its achievements must be judged from a broad, universal perspective.
 
 
-## The Unmoving Center
 
-The no-sword school is described as "unmoving" — a term with deep resonance in Buddhist philosophy. It does not mean passivity or inertia. Rather, it describes a state of perfect equilibrium where all oppositions have been resolved. The unmoving center is the point from which the two-sword school moves outward and the one-sword school moves inward. Both are in motion relative to this center; only the no-sword school has reached it.
+## The Geometric Metaphor
 
-In agricultural terms, the unmoving center is the state where the farmer has dissolved the distinction between self and nature, between cultivation and growth, between effort and result. At this point, "farming" as a separate human activity ceases to exist, and what remains is simply the natural process of the earth producing food — which is all it ever was.
+Scientific farming and Hinayana farming both occupy the same dimension and may be described as "circles" of equal diameter, but one large difference is the very irregular contour of scientific farming. The irregular shape represents distortions and imperfections arising from the collection of narrow research findings. This contrasts sharply with the perfect circle signifying the perfection of nature toward which Hinayana farming aspires.
+
+The nature seen by man is just a superficial image of true nature, so the Hinayana circle is drawn much smaller than the Mahayana circle. Mahayana farming, which is nature itself, is superior in every respect.
 
 
+
+## The Fundamental Limitation of Science
+
+Philosophically, scientific farming cannot be superior to Mahayana natural farming because scientific farming is the sum of knowledge and forces extracted from nature by the human intellect — finite human knowledge. No matter how totaled, this amounts to a tiny, closely circumscribed fraction of the infinitude of the natural world. Human knowledge is always limited to small pockets of time and space and can never be collected into perfect knowledge.
+
+As imperfection can never equal perfection, scientific farming must always yield a step to Mahayana natural farming. Nature encompasses everything. No matter how desperately he struggles, man will never be more than a small, imperfect part of its totality.
+
+
+
+## Deformed Fruit and Local Utility
+
+The fruit produced by scientific farming is always large — even unnaturally so — in a relative sense, but invariably has grave flaws. What is being grown is essentially deformed fruit. Scientific farming constantly practices the unnatural without the slightest concern, but this invites the gravest of consequences. The unnaturalness leads directly to incompleteness, which is why results are always distorted and at best of only local utility.
 
 
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways|Mahayana, Hinayana, and Scientific Farming]]
-- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming|Centrifugal and Centripetal Forces in Farming]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming|The Entanglement of Natural and Scientific Farming]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming|Philosophy of Mu: Buddhist Roots of Natural Farming]]
-- [[fukuoka-textdoc-three-types-farming-comparison-yields|Three Types of Farming Compared: Yields]]
+- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
+- [[fukuoka-textdoc-three-types-farming-comparison-yields]]
+- [[fukuoka-textdoc-three-ways-farming-compared]]
+- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
+- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

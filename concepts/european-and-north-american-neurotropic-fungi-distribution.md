@@ -22,52 +22,52 @@ the most complete picture available of how these fungi occupy temperate ecosyste
 
 ### Widely Distributed European Species
 
-Fourteen species of neurotropic [[Psilocybe]] are known from Europe, along with numerous species from other genera.
+Fourteen species of neurotropic Psilocybe are known from Europe, along with numerous species from other genera.
 The most cosmopolitan species include:
 
-[[Psilocybe semilanceata]] (liberty cap) is the single most widespread European neurotropic species, documented
+[[psilocybe-semilanceata]] (liberty cap) is the single most widespread European neurotropic species, documented
 from virtually every country on the continent including Norway, Sweden, Finland, Iceland, the Faroe Islands,
 Estonia, Latvia, Lithuania, Russia, Poland, Germany, France, Great Britain, Ireland, Spain, Italy, Switzerland,
 Austria, Czech Republic, Bulgaria, Greece, and Portugal. It is also found in North America, South America, New
 Zealand, Australia, and Tasmania. Notably, it is absent from Mexico despite being nearly universal elsewhere in
 the temperate world.
 
-[[Amanita muscaria]] is universal across all European countries where surveys have been conducted. [[Panaeolina foenisecii]] is nearly as widespread, found from Iceland to Greece. [[Claviceps purpurea]] is the ergot fungus
+[[amanita-muscaria]] is universal across all European countries where surveys have been conducted. [[panaeolina-foenisecii]] is nearly as widespread, found from Iceland to Greece. [[claviceps-purpurea]] is the ergot fungus
 found throughout Europe on rye and other cereal grasses.
 
 ### Regionally Important European Species
 
-[[Psilocybe cyanescens]] is concentrated in western and central Europe, particularly the Netherlands, Germany,
+[[psilocybe-cyanescens]] is concentrated in western and central Europe, particularly the Netherlands, Germany,
 Great Britain, France, Italy, and Belgium. Known for its high potency and tendency to form large colonies on wood
 chip mulch in urban and suburban areas, it has become increasingly common as a result of modern landscaping
 practices that create ideal habitat.
 
-[[Psilocybe bohemica]] was originally described from Czechoslovakia by Sebek (1983) and is also found in Austria
-and Germany. [[Psilocybe serbica]] was described from Yugoslavia (Moser and Horak, 1968) and occurs in central and
-southeastern Europe. [[Psilocybe coprinifacies]] is known from Czechoslovakia and Great Britain. [[Psilocybe hispanica]] is a recently described species endemic to Spain.
+[[psilocybe-bohemica]] was originally described from Czechoslovakia by Sebek (1983) and is also found in Austria
+and Germany. [[psilocybe-serbica]] was described from Yugoslavia (Moser and Horak, 1968) and occurs in central and
+southeastern Europe. Psilocybe coprinifacies is known from Czechoslovakia and Great Britain. [[psilocybe-hispanica]] is a recently described species endemic to Spain.
 
-[[Inocybe aeruginascens]] was first discovered in Hungary by Babos (1968) and became particularly significant in
+[[inocybe-aeruginascens]] was first discovered in Hungary by Babos (1968) and became particularly significant in
 Berlin during the 1980s when it fruited abundantly in urban parks, including the famous Kaulsdorfer Busch. Also
 found in the Netherlands, Austria, France, and Germany.
 
 ### Country-by-Country Highlights
 
-**Germany** has the most diverse documented neurotropic mycota in Europe. [[Inocybe aeruginascens]] is particularly
-significant due to its mass fruiting events in Berlin's parks. The country also hosts [[Galerina steglichii]],
-described from Germany by Besl (1994), and [[Psilocybe azurescens]] (introduced from North America). Multiple
-species of [[Inocybe]] and [[Pluteus]] have been confirmed from German collections.
+**Germany** has the most diverse documented neurotropic mycota in Europe. [[inocybe-aeruginascens]] is particularly
+significant due to its mass fruiting events in Berlin's parks. The country also hosts [[galerina-steglichii]],
+described from Germany by Besl (1994), and [[psilocybe-azurescens]] (introduced from North America). Multiple
+species of Inocybe and Pluteus have been confirmed from German collections.
 
 **Great Britain** (including Ireland, Hebrides, and Shetland Islands) has been systematically surveyed since the
-18th century. [[Psilocybe semilanceata]] was recorded as early as Sowerby (1797-1809), and [[Psilocybe cyanescens]] was documented by Singer and Smith (1958). The country has seven confirmed species of [[Panaeolus]]
-and [[Panaeolina]], along with [[Gymnopilus purpuratus]], G. sapineus, and G. spectabilis.
+18th century. [[psilocybe-semilanceata]] was recorded as early as Sowerby (1797-1809), and [[psilocybe-cyanescens]] was documented by Singer and Smith (1958). The country has seven confirmed species of Panaeolus
+and Panaeolina, along with [[gymnopilus-purpuratus]], G. sapineus, and G. spectabilis.
 
 **Italy** has a particularly rich documented neurotropic mycota studied extensively by Giorgio Samorini (1989,
-1992, 1996), including rare species such as [[Mycena cyanorhiza]] and [[Inocybe tricolor]].
+1992, 1996), including rare species such as Mycena cyanorhiza and [[inocybe-tricolor]].
 
-**Norway and Finland** represent the northernmost records of neurotropic fungi in Europe, with [[Psilocybe semilanceata]] found above the Arctic Circle and [[Conocybe cyanopus]] documented from both countries. Finland
+**Norway and Finland** represent the northernmost records of neurotropic fungi in Europe, with [[psilocybe-semilanceata]] found above the Arctic Circle and [[conocybe-cyanopus]] documented from both countries. Finland
 also has P. fimetaria, P. pelliculosa, P. silvatica, and P. strictipes.
 
-**Russia** (including Siberia) has [[Amanita muscaria]] distributed across its vast territory, and [[Psilocybe semilanceata]] extending into Siberia.
+**Russia** (including Siberia) has [[amanita-muscaria]] distributed across its vast territory, and [[psilocybe-semilanceata]] extending into Siberia.
 
 ## North American Neurotropic Mycota
 
@@ -77,50 +77,50 @@ The Pacific Northwest of North America (Washington, Oregon, and British Columbia
 richest area for neurotropic fungal diversity. This region, with its mild wet winters and diverse forest types,
 hosts an extraordinary concentration of species:
 
-[[Psilocybe azurescens]] is one of the most potent psilocybin-containing species, discovered by Stamets and Gartz
-(1995) along the Oregon coast. It grows on decaying wood in coastal dune grasses. [[Psilocybe baeocystis]] is
-found in the Pacific Northwest and also in Maine, Michigan, and Ohio. [[Psilocybe cyanescens]] is widespread in
-the Pacific Northwest and also found in California, Ohio, Kentucky, and Europe. [[Psilocybe stuntzii]] is known
-only from the Pacific Northwest states of Washington and Oregon. [[Psilocybe pelliculosa]] and P. cyanofibrillosa
+[[psilocybe-azurescens]] is one of the most potent psilocybin-containing species, discovered by Stamets and Gartz
+(1995) along the Oregon coast. It grows on decaying wood in coastal dune grasses. [[psilocybe-baeocystis]] is
+found in the Pacific Northwest and also in Maine, Michigan, and Ohio. [[psilocybe-cyanescens]] is widespread in
+the Pacific Northwest and also found in California, Ohio, Kentucky, and Europe. [[psilocybe-stuntzii]] is known
+only from the Pacific Northwest states of Washington and Oregon. Psilocybe pelliculosa and P. cyanofibrillosa
 are primarily Pacific Northwest species.
 
 ### Eastern North American Species
 
-The eastern deciduous forests support fewer species but include some notable taxa. [[Psilocybe caerulipes]] is
-found in deciduous forests from Georgia and Florida north to Maine and Ontario, Canada. [[Psilocybe weilii]] was
-described from Georgia by Stamets (1996) and Guzmán et al. (1997). [[Psilocybe quebecensis]] is a Canadian endemic
-from Quebec, related to the Mexican P. aztecorum. [[Psilocybe tampanensis]] was originally described from Florida
+The eastern deciduous forests support fewer species but include some notable taxa. [[psilocybe-caerulipes]] is
+found in deciduous forests from Georgia and Florida north to Maine and Ontario, Canada. [[psilocybe-weilii]] was
+described from Georgia by Stamets (1996) and Guzmán et al. (1997). [[psilocybe-quebecensis]] is a Canadian endemic
+from Quebec, related to the Mexican P. aztecorum. [[psilocybe-tampanensis]] was originally described from Florida
 and is famous for producing sclerotia, commonly sold as "magic truffles" in the Netherlands.
 
 ### Southeastern and Gulf Coast Species
 
-The southeastern United States supports several tropical species at their northern range limits. [[Psilocybe cubensis]] is found along the Gulf Coast from Texas to Florida and north to South Carolina. [[Copelandia cyanescens]], C. westii, and C. chlorocystis are documented from Florida. [[Copelandia cambodginiensis]] is
+The southeastern United States supports several tropical species at their northern range limits. [[psilocybe-cubensis]] is found along the Gulf Coast from Texas to Florida and north to South Carolina. [[copelandia-cyanescens]], C. westii, and C. chlorocystis are documented from Florida. [[copelandia-cambodginiensis]] is
 recorded from Texas.
 
 ### Canadian and Alaskan Records
 
 Canada has confirmed records from every province. British Columbia has the richest mycota with more than 14
 neurotropic species. More northern territories (Yukon, Northwest Territories, Newfoundland) primarily host only
-[[Amanita muscaria]] and a few [[Panaeolus]] species. [[Psilocybe semilanceata]] extends to Prince Edward Island
+[[amanita-muscaria]] and a few Panaeolus species. [[psilocybe-semilanceata]] extends to Prince Edward Island
 and Newfoundland in the east and British Columbia in the west. Alaska records include A. muscaria, A. regalis,
-[[Panaeolus ater]], P. subbalteatus, and [[Psilocybe cyanescens]].
+Panaeolus ater, P. subbalteatus, and [[psilocybe-cyanescens]].
 
 ### Western Interior and Great Plains
 
 The interior western states and Great Plains have relatively depauperate neurotropic mycotas. Arizona, Colorado,
-Nebraska, and Wyoming primarily host [[Amanita muscaria]], [[Amanita pantherina]], [[Gymnopilus sapineus]], and
-widespread [[Panaeolus]] species. This pattern reflects the drier continental climate, which is less suitable for
+Nebraska, and Wyoming primarily host [[amanita-muscaria]], [[amanita-pantherina]], [[gymnopilus-sapineus]], and
+widespread Panaeolus species. This pattern reflects the drier continental climate, which is less suitable for
 most neurotropic fungi adapted to humid environments.
 
 ## Comparative Trans-Atlantic Patterns
 
 Several notable distributional patterns emerge from comparing the European and North American neurotropic
-mycotas. [[Psilocybe cyanescens]], P. fimetaria, P. pelliculosa, P. semilanceata, and P. silvatica occur in both
+mycotas. [[psilocybe-cyanescens]], P. fimetaria, P. pelliculosa, P. semilanceata, and P. silvatica occur in both
 North America and Europe, suggesting either ancient trans-Atlantic dispersal via spore transport or more recent
 anthropogenic introduction through commerce and travel.
 
-North American endemics include [[Psilocybe stuntzii]] (Pacific Northwest) and [[Psilocybe weilii]] (southeastern
-US). European endemics include [[Psilocybe bohemica]], P. serbica, and P. hispanica. [[Psilocybe semilanceata]]
+North American endemics include [[psilocybe-stuntzii]] (Pacific Northwest) and [[psilocybe-weilii]] (southeastern
+US). European endemics include [[psilocybe-bohemica]], P. serbica, and P. hispanica. [[psilocybe-semilanceata]]
 is notably absent from Mexico despite being widespread in both Europe and North America.
 
 ## See Also

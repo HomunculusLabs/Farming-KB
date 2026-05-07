@@ -14,7 +14,8 @@ sources:
   - Harrison, K.A. (1973). "The Genus Hericium in North America." Michigan Botanist 12: 165-179.
   - Petersen, R.H. (1984). "Type Studies in the Hericiaceae." Mycotaxon 20: 379-388.
   - Kuo, M. (2023). "Hericium Species of North America." MushroomExpert.com.
-  - Index Fungorum. "Hericium laciniatum (Leers) Pers." www.indexfungorum.org.
+  - Index Fungorum. "Hericium laciniatum (Leers) Pers." www.indexfungorum.org.created: 2026-05-07
+
 ---
 
 ## Overview

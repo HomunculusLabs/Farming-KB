@@ -130,7 +130,7 @@ various organic amendments that improve nutrient availability. Unlike these nutr
 of magnitude lower and appear to function as signaling molecules rather than nutrient sources.
 This places them in a fundamentally different category of growth promoters, more analogous to plant hormones than to fertilizers or supplements.
 Other steroidal compounds have been reported to affect fungal growth, including certain animal steroid hormones and synthetic anabolic steroids.
-However, the specificity and magnitude of the brassinosteroid effect on [[Psilocybe cubensis]] appears unusual even among steroidal growth promoters,
+However, the specificity and magnitude of the brassinosteroid effect on [[psilocybe-cubensis]] appears unusual even among steroidal growth promoters,
 suggesting a particularly strong interaction between the brassinosteroid structure and the fungal regulatory machinery.
 
 ## See Also
@@ -142,8 +142,8 @@ suggesting a particularly strong interaction between the brassinosteroid structu
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[brassinosteroid-fungal-growth-promotion]]
 
-- [[Psilocybe cubensis]] for the species profile and general cultivation information
-- [[Brassinosteroids]] for the broader class of plant growth regulators
-- [[Fungal hormone signaling]] for comparative hormone biology across kingdoms
-- [[Mushroom cultivation yield optimization]] for other approaches to improving
-  cultivation efficiency - [[Steroid signaling in fungi]] for the broader context of fungal steroid biology
+- [[psilocybe-cubensis]] for the species profile and general cultivation information
+- Brassinosteroids for the broader class of plant growth regulators
+- Fungal hormone signaling for comparative hormone biology across kingdoms
+- Mushroom cultivation yield optimization for other approaches to improving
+  cultivation efficiency - Steroid signaling in fungi for the broader context of fungal steroid biology

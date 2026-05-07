@@ -152,7 +152,7 @@ through seed banks and managed cultivation is essential for survival.
 - [[andrographis-paniculata]]
 - [[dom]]
 
-- [[Gentiana lutea]]
-- [[Andrographis paniculata]]
-- [[Tinospora cordifolia]]
-- [[Picrorhiza kurroa]]
+- [[gentiana-lutea]]
+- [[andrographis-paniculata]]
+- [[tinospora-cordifolia]]
+- [[picrorhiza-kurroa]]

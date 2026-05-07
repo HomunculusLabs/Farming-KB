@@ -127,10 +127,10 @@ All parts of the plant contain calcium oxalate crystals (raphides) that cause in
 
 - [[permaculture-plants-root-crops-and-tubers]]
 
-- [[Colocasia esculenta]] — taro, the closely related aroid root crop
-- [[Manihot esculenta]] — cassava, another tropical staple root crop
-- [[Dioscorea alata]] — winged yam, tropical tuber for food forests
-- [[Pachyrhizus erosus]] — jicama, tropical root crop with crispy tubers
-- [[Moringa oleifera]] — multipurpose tree companion in tropical systems
-- [[Gliricidia sepium]] — nitrogen-fixing shade tree for malanga intercropping
-- [[Leucaena leucocephala]] — leguminous shade tree for tropical agroforestry
+- [[colocasia-esculenta]] — taro, the closely related aroid root crop
+- [[manihot-esculenta]] — cassava, another tropical staple root crop
+- [[dioscorea-alata]] — winged yam, tropical tuber for food forests
+- [[pachyrhizus-erosus]] — jicama, tropical root crop with crispy tubers
+- [[moringa-oleifera]] — multipurpose tree companion in tropical systems
+- [[gliricidia-sepium]] — nitrogen-fixing shade tree for malanga intercropping
+- [[leucaena-leucocephala]] — leguminous shade tree for tropical agroforestry

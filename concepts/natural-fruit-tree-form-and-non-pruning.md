@@ -144,8 +144,8 @@ confused and complicated shape artificially modified to allow
 sunlight to reach each branch, while the natural pine achieves the
 same goal without any help from man. The question of natural versus
 artificial form in fruit trees is directly analogous.
-See also: [[Natural Farming]], [[Orchard Management]],
-[[Do Nothing Farming]]
+See also: [[natural-farming]], [[orchard-management]],
+[[do-nothing-farming]]
 
 ## See Also
 

@@ -16,7 +16,9 @@ sources:
   - Panossian, A. & Wikman, G. (2010). "Effects of Adaptogens on the Central Nervous System." Current Clinical Pharmacology 5(2).
   - Bone, K. & Mills, S. (2013). The Principles and Practice of Phytotherapy. Churchill Livingstone.
   - Duke, J. (2002). Handbook of Medicinal Herbs. CRC Press.
-  - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).
+  - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).created: 2026-05-07
+type: comparison
+
 ---
 
 # Schisandra vs. Ashwagandha vs. Rhodiola — Adaptogenic Cultivation
@@ -124,7 +126,7 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 
 ## See Also
 
-- [[ashwagandha-vs-rhodiola-cultivation|Ashwagandha vs. Rhodiola Cultivation]]
-- [[ashwagandha-vs-tulsi|Ashwagandha vs. Tulsi]]
-- [[medicinal-mushroom-cultivation-and-use|Medicinal Mushroom Cultivation]]
-- [[stinging-nettle-cultivation-foraging-nutrition-and-uses|Stinging Nettle Cultivation]]
+- [[comparison-ashwagandha-vs-rhodiola-cultivation|Ashwagandha vs. Rhodiola Cultivation]]
+- [[comparison-ashwagandha-vs-tulsi|Ashwagandha vs. Tulsi]]
+- [[medicinal-mushroom-guide-reishi|Medicinal Mushroom Cultivation]]
+- [[mushroom-log-stump-cultivation-tree-species-guide|Stinging Nettle Cultivation]]

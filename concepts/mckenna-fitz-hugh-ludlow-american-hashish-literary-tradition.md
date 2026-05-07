@@ -12,7 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - mckenna_t-food_of_the_gods.md
+  - mckenna_t-food_of_the_gods.mdcreated: 2026-05-07
+type: concept
+
 ---
 
 # Fitz Hugh Ludlow and the American Hashish Literary Tradition
@@ -142,3 +144,9 @@ and yet leave intact the structures of ordinary society."
   Eater (1857)
 - **William S. Burroughs** (1914-1997): Twentieth-century continuation of the tradition
 - **Hunter S. Thompson** (1937-2005): Gonzo journalism as pharmo-picaresque descendant
+
+## See Also
+
+- [[terence-mckenna|McKenna]]
+- [[cannabis-endocannabinoid-system|cannabis]]
+- [[fly-agaric-literary-history|psychedelic literary history]]

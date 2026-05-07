@@ -11,7 +11,7 @@ type: concept
 
 # Psilocybin Pharmacology
 
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, or 4-PO-DMT) is the primary psychoactive compound found in hallucinogenic mushrooms of the [[Psilocybe]] genus and related genera. It is a naturally occurring indolealkylamine tryptamine, chemically classified in the same group as LSD and DMT. Psilocybin serves as the phosphate ester prodrug of psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT), the pharmacologically active metabolite.
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, or 4-PO-DMT) is the primary psychoactive compound found in hallucinogenic mushrooms of the Psilocybe genus and related genera. It is a naturally occurring indolealkylamine tryptamine, chemically classified in the same group as LSD and DMT. Psilocybin serves as the phosphate ester prodrug of psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT), the pharmacologically active metabolite.
 
 ## Chemical Classification
 
@@ -56,7 +56,7 @@ The psychoactive dose of psilocybin is estimated at 45 to 315 micrograms per kil
 
 Mushroom potency varies considerably depending on:
 
-- **Species**: [[Psilocybe semilanceata]] (liberty caps) can contain up to 1% psilocybin, while [[Psilocybe cubensis]] contains up to 0.6% concentration of psilocybin and psilocin combined.
+- **Species**: [[psilocybe-semilanceata]] (liberty caps) can contain up to 1% psilocybin, while [[psilocybe-cubensis]] contains up to 0.6% concentration of psilocybin and psilocin combined.
 - **Origin and growing conditions**: Environmental factors such as substrate, temperature, and humidity affect alkaloid content.
 - **Age**: Potency can change as mushrooms mature or as dried mushrooms age.
 - **Preparation**: Drying concentrates the active compounds by removing water weight.
@@ -141,8 +141,8 @@ Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotro
 - [[psilocybin-pharmacology-detail]]
 - [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
 
-- [[Psilocybe cubensis]]
-- [[Psilocybe semilanceata]]
-- [[Amanita muscaria]]
+- [[psilocybe-cubensis]]
+- [[psilocybe-semilanceata]]
+- [[amanita-muscaria]]
 - [[hallucinogenic mushroom legislation in Europe]]
 - [[smartshops and hallucinogenic mushroom retail]]

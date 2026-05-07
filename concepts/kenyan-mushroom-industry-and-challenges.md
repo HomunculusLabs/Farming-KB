@@ -20,16 +20,16 @@ Kenya is a medium-sized East African tropical country with a total land area of 
 
 Kenya's population comprises 42 different indigenous tribes, 38 of which are known to use mushrooms as food. The population also includes immigrants and visitors from Asia, Europe, and America, creating hotel demand for mushroom dishes. Local people are increasingly discovering that mushrooms are both tasty and nutrient-rich. Tourism is the second major income source after agriculture, creating significant hotel and restaurant demand for mushrooms.
 
-In rural areas, people collect wild mushrooms and prepare them traditionally. The most popular wild-collected mushrooms are [[Termitomyces]] and [[Pleurotus]] species. However, deforestation reduces wild mushroom habitat each year, leading to declining wild collection. Many Kenyans, especially those living away from forests and those who cannot afford supermarket mushrooms, have never eaten mushrooms.
+In rural areas, people collect wild mushrooms and prepare them traditionally. The most popular wild-collected mushrooms are Termitomyces and Pleurotus species. However, deforestation reduces wild mushroom habitat each year, leading to declining wild collection. Many Kenyans, especially those living away from forests and those who cannot afford supermarket mushrooms, have never eaten mushrooms.
 
 
 
 
 ## Current Industry State
 
-The Kenyan mushroom industry remains in its infancy and grows slowly. Several commercial farms operate including Agridutt Ltd., Rift Valley mushrooms, Olive mushrooms, and Devani and Kanchan mushrooms. However, these are medium-sized farms with limited production capacity. Current total production is estimated at approximately 500 tons per annum, with [[Agaricus bisporus]] accounting for 476 tons. Kenya has the potential to produce over 100,000 tons per year.
+The Kenyan mushroom industry remains in its infancy and grows slowly. Several commercial farms operate including Agridutt Ltd., Rift Valley mushrooms, Olive mushrooms, and Devani and Kanchan mushrooms. However, these are medium-sized farms with limited production capacity. Current total production is estimated at approximately 500 tons per annum, with [[agaricus-bisporus]] accounting for 476 tons. Kenya has the potential to produce over 100,000 tons per year.
 
-Three types of mushrooms are grown: [[Agaricus]], oyster mushrooms ([[Pleurotus]] species), and shiitake. Button mushrooms account for over 95% of production volume. Only Agaricus is regularly sold fresh in supermarkets. Fresh oyster mushrooms appear rarely, and shiitake is usually sold directly to hotels and individuals.
+Three types of mushrooms are grown: Agaricus, oyster mushrooms (Pleurotus species), and shiitake. Button mushrooms account for over 95% of production volume. Only Agaricus is regularly sold fresh in supermarkets. Fresh oyster mushrooms appear rarely, and shiitake is usually sold directly to hotels and individuals.
 
 
 
@@ -62,9 +62,9 @@ The likely demand for oyster mushrooms is not high because few people know about
 
 ## Small-Scale Cultivation Initiatives
 
-In August 2003, a project was initiated involving over 100 families growing [[Pleurotus sajor-caju]] at home in small spaces like kitchens. The major aim was providing alternative food sources to counter malnutrition in Kenya. Many rural and urban slum residents suffer from protein and mineral deficiency. The ease of growing, high yields, high fruiting temperature, and high nutritional content made [[oyster mushroom]] cultivation appropriate for introduction in Kenya.
+In August 2003, a project was initiated involving over 100 families growing Pleurotus sajor-caju at home in small spaces like kitchens. The major aim was providing alternative food sources to counter malnutrition in Kenya. Many rural and urban slum residents suffer from protein and mineral deficiency. The ease of growing, high yields, high fruiting temperature, and high nutritional content made [[oyster mushroom]] cultivation appropriate for introduction in Kenya.
 
-Several [[Pleurotus]] species have been domesticated from Karura, Kakamega, and other forests. These locally adapted species grow fast and fruit readily in the tropical climate, though commercialization will take time.
+Several Pleurotus species have been domesticated from Karura, Kakamega, and other forests. These locally adapted species grow fast and fruit readily in the tropical climate, though commercialization will take time.
 
 
 
@@ -90,7 +90,7 @@ Several key recommendations have been identified for accelerating Kenya's mushro
 
 ## Feasibility Assessment
 
-Kenya's generally tropical climate makes most areas suitable for [[Pleurotus]] species cultivation, which tolerate higher fruiting temperatures. Agricultural residues from coffee, tea, sugarcane, rice, wheat, and cotton provide abundant potential substrate materials. The combination of nutritional need, substrate availability, suitable climate, and market demand suggests significant growth potential if the identified barriers to spawn access, knowledge dissemination, and market development can be overcome.
+Kenya's generally tropical climate makes most areas suitable for Pleurotus species cultivation, which tolerate higher fruiting temperatures. Agricultural residues from coffee, tea, sugarcane, rice, wheat, and cotton provide abundant potential substrate materials. The combination of nutritional need, substrate availability, suitable climate, and market demand suggests significant growth potential if the identified barriers to spawn access, knowledge dissemination, and market development can be overcome.
 
 ## See Also
 

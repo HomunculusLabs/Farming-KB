@@ -146,11 +146,11 @@ Many Mexican neurotropic fungi are threatened by:
 
 ## See Also
 
-- [[Psilocybe Genus Overview]]
-- [[Sacred Mushroom Use in Mexico]]
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybe mexicana]]
-- [[Copelandia Genus]]
+- Psilocybe Genus Overview
+- Sacred Mushroom Use in Mexico
+- [[neurotropic-fungi-classification]]
+- [[psilocybe-mexicana]]
+- [[copelandia-genus]]
 - [[neurotropic-fungi-of-mexico-and-mesoamerica]]
 - [[amanita-muscaria]]
 - [[amanita-pantherina]]

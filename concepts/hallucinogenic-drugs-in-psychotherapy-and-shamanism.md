@@ -116,8 +116,8 @@ William James's observation, made after his research with nitrous oxide nearly 1
 
 ## See Also
 
-- [[Set and Setting in Psychedelic Therapy]]
-- [[Psilocybin and Psilocin Chemistry]]
-- [[Ayahuasca and Its Chemical Constituents]]
-- [[Indigenous Mushroom Traditions]]
-- [[Psychedelic Renaissance and Modern Research]]
+- Set and Setting in Psychedelic Therapy
+- [[psilocybin-and-psilocin-chemistry]]
+- Ayahuasca and Its Chemical Constituents
+- Indigenous Mushroom Traditions
+- Psychedelic Renaissance and Modern Research

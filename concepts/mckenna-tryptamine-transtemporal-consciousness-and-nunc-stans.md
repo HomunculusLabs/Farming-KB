@@ -32,7 +32,7 @@ sources: []
     23|fundamentally **transtemporal** quality, an experience of timelessness that transcends
     24|the ordinary flow of chronological duration. This concept, articulated in his 1983 Esalen
     25|lecture "Tryptamine Hallucinogens and Consciousness," draws on Platonic philosophy,
-    26|Thomistic theology, and personal [[DMT]] experience to argue that tryptamine states reveal
+    26|Thomistic theology, and personal [[dmt]] experience to argue that tryptamine states reveal
     27|a mode of consciousness that stands outside of time entirely. The framework connects the
     28|subjective phenomenology of the [[DMT experience phenomenology and cognitive dissonance-29|of wonder]] to a sweeping vision of human eschatology and the ultimate trajectory of
     30|consciousness in the cosmos.
@@ -69,7 +69,7 @@ sources: []
     61|to medieval philosophy of time, and McKenna argued that the tryptamine hallucinogenic
     62|state provides experiential access to something functionally identical to the nunc stans.
     63|
-    64|Under the influence of [[DMT]] or [[psilocybin]], the subject encounters a state in
+    64|Under the influence of [[dmt]] or [[psilocybin]], the subject encounters a state in
     65|which all of human history is seen as leading toward a culminating moment, not as a
     66|distant prospect but as something immanently present. The distinction between
     67|anticipation and memory collapses. The future is experienced not as something that has
@@ -83,7 +83,7 @@ sources: []
     75|visible in all processes surrounding human civilization. He noted a telescoping pattern
     76|of innovation: fire was discovered several million years ago; language came perhaps
     77|thirty-five thousand years ago; measurement emerged five thousand years ago; Galileo
-    78|lived four hundred years ago; then Watson and Crick and the discovery of [[DNA]]. "What
+    78|lived four hundred years ago; then Watson and Crick and the discovery of DNA. "What
     79|is obviously happening," he wrote, "is that everything is being drawn together." This
     80|accelerating compression of innovation is, in McKenna's view, a manifestation of the
     81|[[eschatology and acceleration of history]], an attractor that exists at the end of

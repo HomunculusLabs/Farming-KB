@@ -146,9 +146,9 @@ sources:
 
 - [[glucuronidation]]
 
-- [[Kava]] — the plant *Piper methysticum* and its ethnobotany
-- [[GABA-A Receptor]] — primary target of kavalactone anxiolysis
-- [[Benzodiazepines]] — pharmaceutical comparison for anxiolytic efficacy
-- [[Flavokavains]] — non-lactone constituents with distinct pharmacology
-- [[Pipermethystine]] — hepatotoxic alkaloid implicated in adverse events
-- [[Kratom]] — another plant-derived anxiolytic with distinct pharmacology
+- Kava — the plant *Piper methysticum* and its ethnobotany
+- GABA-A Receptor — primary target of kavalactone anxiolysis
+- Benzodiazepines — pharmaceutical comparison for anxiolytic efficacy
+- Flavokavains — non-lactone constituents with distinct pharmacology
+- Pipermethystine — hepatotoxic alkaloid implicated in adverse events
+- Kratom — another plant-derived anxiolytic with distinct pharmacology

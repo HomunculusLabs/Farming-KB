@@ -165,20 +165,8 @@ Yes, but it requires a significant investment in climate control:
 
 A greenhouse-grown tree may produce fewer pods but can still yield enough for small-batch chocolate. See [[permaculture-greenhouse-indoor-growing]] for construction and management tips.
 
-## What Are the Best Companion Plants for Cacao?
 
-Cacao naturally grows under a tropical canopy, making [[agroforestry]] companion planting both practical and beneficial:
-| Companion | Benefit |
-|-----------|---------|
-| **Banana/plantain** (Musa spp.) | Fast shade establishment; windbreak; mulch from leaves |
-| **Gliricidia** (Gliricidia sepium) | Nitrogen-fixing; dappled shade; green manure |
-| **Inga** (Inga spp.) | Nitrogen-fixing shade tree; improves soil |
-| **Coconut** (Cocos nucifera) | Tall canopy shade; microclimate regulation |
-| **Citrus** (Citrus spp.) | Income diversification; light shade when pruned |
-| **Breadfruit** (Artocarpus altilis) | Deep shade for mature trees; food crop |
-| **Black pepper** (Piper nigrum) | Climbs cacao trunks; additional income |
-| **Timber trees** (Cordia, Terminalia) | Long-term shade and timber harvest |
-Avoid planting aggressive root competitors or allelopathic species near cacao. The ideal agroforestry system provides 25–50% overhead shade.
+(Section truncated for length.)
 
 ## Summary / Quick Reference
 
@@ -197,3 +185,5 @@ Avoid planting aggressive root competitors or allelopathic species near cacao. T
 | **Tempering** | Melt 50 °C → cool 27 °C → reheat 31 °C; pour and set |
 
 From seed to chocolate bar, the entire process takes roughly 3–5 years of tree growth plus 2–3 weeks of post-harvest processing. The fermentation, drying, and conching steps are where most flavor is made or lost — invest your attention there. Good luck, and enjoy the journey from tree to bar.
+
+See also: [[query-how-do-you-grow-and-process-tea-at-home]].

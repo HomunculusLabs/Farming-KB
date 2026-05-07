@@ -21,50 +21,50 @@ The largest group contains species with psilocybin and related indole compounds,
 
 | Genus | Number of Species |
 |-------|------------------|
-| [[Psilocybe]] | 116 |
-| [[Gymnopilus]] | 14 |
-| [[Panaeolus]] | 13 |
-| [[Copelandia]] | 12 |
-| [[Hypholoma]] | 6 |
-| [[Pluteus]] | 6 |
-| [[Inocybe]] | 6 |
-| [[Conocybe]] | 4 |
-| [[Panaeolina]] | 4 |
-| [[Gerronema]] | 2 |
-| [[Agrocybe]] | 1 |
-| [[Galerina]] | 1 |
-| [[Mycena]] | 1 |
+| Psilocybe | 116 |
+| Gymnopilus | 14 |
+| Panaeolus | 13 |
+| Copelandia | 12 |
+| Hypholoma | 6 |
+| Pluteus | 6 |
+| Inocybe | 6 |
+| Conocybe | 4 |
+| Panaeolina | 4 |
+| Gerronema | 2 |
+| Agrocybe | 1 |
+| Galerina | 1 |
+| Mycena | 1 |
 
 Several species in this group, mainly among the Panaeoloideous fungi, have no known chemical studies confirming the presence of active compounds. The presence of psilocybin in some species has been disputed or found to be unreliable upon re-analysis.
 
 ### Group 2: Ibotenic Acid
 
-This group contains three [[Amanita]] species known to produce ibotenic acid and muscimol:
+This group contains three [[amanita]] species known to produce ibotenic acid and muscimol:
 
 - **Amanita muscaria** — The classic fly agaric, used traditionally in Siberia among the Chukchee and Koryak peoples
 - **Amanita pantherina** — Panther cap, documented to contain ibotenic acid by Hatfield (1979)
 - **Amanita regalis** — A related species with similar properties
 
-The [[Amanita]] neurotropics are pharmacologically distinct from the psilocybin-containing fungi, acting primarily on GABA receptors rather than serotonin receptors.
+The [[amanita]] neurotropics are pharmacologically distinct from the psilocybin-containing fungi, acting primarily on GABA receptors rather than serotonin receptors.
 
 ### Group 3: Ergot Fungi
 
-The ergot group contains species of [[Claviceps]] and [[Cordyceps]]:
+The ergot group contains species of Claviceps and Cordyceps:
 
 - **5 species of Claviceps** — Including the famous Claviceps purpurea, source of ergot alkaloids that can produce hallucinations (ergotism)
 - **2 species of Cordyceps** — Including C. capitata and C. ophioglossoides, used ceremonially by indigenous peoples in Mexico
 
-These ascomycete fungi are taxonomically distinct from the basidiomycete neurotropics in Groups 1 and 2. The genus Cordyceps is closely related to Claviceps. In Mexico, Cordyceps species are used in special nocturnal ceremonies, sometimes eaten together with [[Psilocybe muliercula]].
+These ascomycete fungi are taxonomically distinct from the basidiomycete neurotropics in Groups 1 and 2. The genus Cordyceps is closely related to Claviceps. In Mexico, Cordyceps species are used in special nocturnal ceremonies, sometimes eaten together with [[psilocybe-muliercula]].
 
 ### Group 4: Sacred Fungi Without Confirmed Chemistry
 
 This group contains species used as sacred fungi for which no reliable chemical studies confirming neurotropic properties have been found:
 
 - **Bolets**: Two genera with 8 species total, reported by Heim as hallucinogenic among New Guinea aborigines, though Ott (1993) stated they do not possess neurotropic properties
-- **[[Russula]]**: 6 species used in ceremonial contexts
-- **Gasteromycetes** (puffballs): 6 species across 3 genera including [[Lycoperdon]] and [[Astraeus]]
+- **Russula**: 6 species used in ceremonial contexts
+- **Gasteromycetes** (puffballs): 6 species across 3 genera including Lycoperdon and Astraeus
 
-Many species in this group are likely the result of **confusion or substitution** with confirmed neurotropic species. For example, Ott et al. (1975) identified at least nine species of "narcotic puffballs" used by the Mixtec Indians of Oaxaca that contained no neurotropic properties. Similarly, [[Dictyophora indusiata]] is used for divination among the Chinantec Indians despite lacking confirmed active compounds.
+Many species in this group are likely the result of **confusion or substitution** with confirmed neurotropic species. For example, Ott et al. (1975) identified at least nine species of "narcotic puffballs" used by the Mixtec Indians of Oaxaca that contained no neurotropic properties. Similarly, [[dictyophora-indusiata]] is used for divination among the Chinantec Indians despite lacking confirmed active compounds.
 
 ## Problems in Classification
 
@@ -74,15 +74,15 @@ Misidentification is a significant factor contributing to confusion in published
 
 ### Conflicting Reports
 
-Frequently, a single species has been reported with and without neurotropic substances by different researchers. A prominent example is [[Panaeolina foenisecii]]: Mantle and Waight (1969), Ott and Guzmán (1976), Beug and Bigwood (1982), and Stijve (1987) found no psilocybin, while Robbers et al. (1969), Olah (1969), and others reported its presence. It appears P. foenisecii is more toxic than neurotropic.
+Frequently, a single species has been reported with and without neurotropic substances by different researchers. A prominent example is [[panaeolina-foenisecii]]: Mantle and Waight (1969), Ott and Guzmán (1976), Beug and Bigwood (1982), and Stijve (1987) found no psilocybin, while Robbers et al. (1969), Olah (1969), and others reported its presence. It appears P. foenisecii is more toxic than neurotropic.
 
 ### Volatility of Active Compounds
 
-The age of studied specimens is an important variable. Repke et al. (1977) showed variations in baeocystin content according to specimen age, with no trace of indoles in specimens analyzed 20-60 days after collection. This aligns with the traditional knowledge of Mexican Indians, who say that old dried specimens kept for more than one year are not effective. Ohenoja et al. (1987) found decreasing psilocybin in herbarium specimens of [[Psilocybe semilanceata]]: 0.014% (1869 specimen), 0.67% (1954), and 0.84% (1976).
+The age of studied specimens is an important variable. Repke et al. (1977) showed variations in baeocystin content according to specimen age, with no trace of indoles in specimens analyzed 20-60 days after collection. This aligns with the traditional knowledge of Mexican Indians, who say that old dried specimens kept for more than one year are not effective. Ohenoja et al. (1987) found decreasing psilocybin in herbarium specimens of [[psilocybe-semilanceata]]: 0.014% (1869 specimen), 0.67% (1954), and 0.84% (1976).
 
 ### Unreliable Studies
 
-Several chemical studies must be considered doubtful due to analytical errors. Bresinsky and Besl (1990) considered studies on [[Stropharia cyanea]], S. coronilla, Mycena pura, and Amanita gemmata to be doubtful. Stijve and Kuyper (1988) did not find psilocybin in Gerronema fibula, Gymnopilus fulgens, G. spectabilis, or several other species previously reported as active.
+Several chemical studies must be considered doubtful due to analytical errors. Bresinsky and Besl (1990) considered studies on Stropharia cyanea, S. coronilla, Mycena pura, and Amanita gemmata to be doubtful. Stijve and Kuyper (1988) did not find psilocybin in Gerronema fibula, Gymnopilus fulgens, G. spectabilis, or several other species previously reported as active.
 
 ## Indigenous Mexican Names and Traditional Use
 
@@ -95,7 +95,7 @@ The neurotropic fungi were so important in Mexican traditions that Guzmán (1997
 - **"Shi thó"** — That eruptions thing
 - **"Teotlaquilnanácatl"** — Divine fungus
 
-Common Spanish names include "san isidros" (a saint of agriculture, describing [[Psilocybe cubensis]]), "pajaritos" (little birds, for [[Psilocybe mexicana]]), and "derrumbes" (landslides, for [[Psilocybe zapotecorum]]).
+Common Spanish names include "san isidros" (a saint of agriculture, describing [[psilocybe-cubensis]]), "pajaritos" (little birds, for [[psilocybe-mexicana]]), and "derrumbes" (landslides, for [[psilocybe-zapotecorum]]).
 
 ## Historical Periods of Neurotropic Fungi Study
 

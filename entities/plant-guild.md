@@ -17,7 +17,7 @@ Plant guilds range from simple two- or three-species companion plantings to comp
 ## Definition & Theory
 In permaculture theory, a guild is formally defined as a group of organisms that function together as an integrated whole, each providing services that benefit the collective.
 The term is borrowed from ecology, where "guild" describes a group of species that exploit the same class of environmental resources in a similar way.
-[[Bill Mollison]] and [[David Holmgren]] adapted the ecological concept for design purposes, emphasizing intentional assembly of species to create mutualistic networks.
+[[bill-mollison]] and [[david-holmgren]] adapted the ecological concept for design purposes, emphasizing intentional assembly of species to create mutualistic networks.
 Guilds are grounded in the permaculture principle of "each element performs many functions" and "each function is supported by many elements."
 This functional redundancy increases system resilience — if one species fails, others can partially fill its role.
 Guilds also embody the principle of integrating rather than segregating, fostering beneficial connections between species that would not naturally co-occur in monoculture.
@@ -83,15 +83,15 @@ This microclimate buffering extends the growing range of some species and reduce
 Plant guilds are the fundamental building blocks of [[food-forest]] design.
 A food forest can be understood as a landscape-scale assembly of interconnected guilds organized into vertical canopy layers.
 Each tree or shrub in a food forest typically has its own associated guild, and these guilds overlap and interact across the landscape.
-[[Robert Hart]] pioneered the forest garden concept in temperate climates, demonstrating how guild-based polycultures could produce food while mimicking woodland ecosystems.
+[[robert-hart]] pioneered the forest garden concept in temperate climates, demonstrating how guild-based polycultures could produce food while mimicking woodland ecosystems.
 Dave Jacke's "Edible Forest Gardens" provides the most comprehensive treatment of guild-based food forest design, detailing how to assemble and manage nested guilds across multiple acres.
 ## Historical Development
 The concept of beneficial plant associations has ancient roots, with companion planting documented in Chinese, Greek, and indigenous American agricultural traditions.
-[[Bill Mollison]] and [[David Holmgren]] formalized the guild concept within the framework of [[permaculture]] in the 1970s, drawing on ecological theory and traditional land management practices.
+[[bill-mollison]] and [[david-holmgren]] formalized the guild concept within the framework of [[permaculture]] in the 1970s, drawing on ecological theory and traditional land management practices.
 Mollison's "Permaculture: A Designers' Manual" (1988) provides the foundational guild design methodology, including the concept of "guild analysis."
-[[David Holmgren]] further developed the theoretical underpinnings in "Permaculture: Principles and Pathways Beyond Sustainability" (2002).
-[[Toby Hemenway]] popularized guild design for home gardeners in "Gaia's Garden" (2001, 2nd ed. 2009), making the concept accessible to a broad audience with practical examples and step-by-step design guides.
-[[Robert Hart]] developed the forest garden model at his home in Shropshire, England, creating one of the first documented temperate food forests using guild-based planting.
+[[david-holmgren]] further developed the theoretical underpinnings in "Permaculture: Principles and Pathways Beyond Sustainability" (2002).
+[[toby-hemenway]] popularized guild design for home gardeners in "Gaia's Garden" (2001, 2nd ed. 2009), making the concept accessible to a broad audience with practical examples and step-by-step design guides.
+[[robert-hart]] developed the forest garden model at his home in Shropshire, England, creating one of the first documented temperate food forests using guild-based planting.
 Dave Jacke and Eric Toensmeier authored the two-volume "Edible Forest Gardens" (2005), which provides the most rigorous academic treatment of guild ecology and design methodology.
 ## Design Methodology
 Guild design in permaculture follows a systematic methodology:

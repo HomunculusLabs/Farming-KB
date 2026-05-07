@@ -17,60 +17,60 @@ The highlands of New Guinea represent one of the most intriguing yet scientifica
 
 Guzmán, Allen, and Gartz divide the world's neurotropic fungi into four categories. The fourth group encompasses sacred fungi whose chemical analysis has either not been performed, yielded inconclusive results, or failed to detect known psychoactive compounds. This group includes approximately 20 species across four genera:
 
-- [[Boletus]]: 6 species
-- [[Heimiella]]: 2 species
-- [[Russula]]: 6 species
+- Boletus: 6 species
+- Heimiella: 2 species
+- Russula: 6 species
 - Gasteromycetes: 6 species (including puffballs and related forms)
 
 ## Boletus Species of New Guinea
 
-### [[Boletus flammeus]] Corner
-Originally described by E.J.H. Corner from Malaysian material, [[Boletus flammeus]] has been recorded from Borneo, Singapore, and New Guinea. It was one of the first species investigated by Heim during his studies of New Guinea sacred fungi. Ott (1993) later stated that this species is not neurotropic, suggesting that either the chemical analyses were negative or the ethnographic reports were based on misidentification.
+### Boletus flammeus Corner
+Originally described by E.J.H. Corner from Malaysian material, Boletus flammeus has been recorded from Borneo, Singapore, and New Guinea. It was one of the first species investigated by Heim during his studies of New Guinea sacred fungi. Ott (1993) later stated that this species is not neurotropic, suggesting that either the chemical analyses were negative or the ethnographic reports were based on misidentification.
 
-### [[Boletus kumaeus]] Heim
-Described by Heim from New Guinea, [[Boletus kumaeus]] was named after the Kuma people among whom it was used. Heim initially classified it as a potentially psychoactive species. However, Ott (1993) subsequently stated that it is not neurotropic, casting doubt on its inclusion in the sacred fungi category.
+### Boletus kumaeus Heim
+Described by Heim from New Guinea, Boletus kumaeus was named after the Kuma people among whom it was used. Heim initially classified it as a potentially psychoactive species. However, Ott (1993) subsequently stated that it is not neurotropic, casting doubt on its inclusion in the sacred fungi category.
 
-### [[Boletus manicus]] Heim
-Perhaps the most famous of the New Guinea boletes, [[Boletus manicus]] was described by Heim from material collected in the New Guinea highlands. The specific epithet "manicus" refers to the "manic" state reportedly induced by consumption. It was reported to be used by certain highland peoples in ceremonial contexts. The species has been recorded from New Guinea and nearby islands.
+### Boletus manicus Heim
+Perhaps the most famous of the New Guinea boletes, Boletus manicus was described by Heim from material collected in the New Guinea highlands. The specific epithet "manicus" refers to the "manic" state reportedly induced by consumption. It was reported to be used by certain highland peoples in ceremonial contexts. The species has been recorded from New Guinea and nearby islands.
 
-### [[Boletus nigerrimus]]
+### Boletus nigerrimus
 Found in New Guinea and Singapore (Corner, 1972), this species was collected by Heim during his New Guinea expeditions.
 
-### [[Boletus nigroviolaceus]] Corner
-Originally described from Malaysian material, [[Boletus nigroviolaceus]] has been documented from Borneo, Singapore, Malaysia, and New Guinea. Despite its inclusion in sacred fungi lists, Ott (1993) stated that this species is not neurotropic based on chemical analysis.
+### Boletus nigroviolaceus Corner
+Originally described from Malaysian material, Boletus nigroviolaceus has been documented from Borneo, Singapore, Malaysia, and New Guinea. Despite its inclusion in sacred fungi lists, Ott (1993) stated that this species is not neurotropic based on chemical analysis.
 
-### [[Boletus reayi]] Heim
+### Boletus reayi Heim
 Described by Heim from New Guinea material, this species was collected during ethnobotanical investigations. Like several other New Guinea boletes, Ott (1993) stated that there is no scientific evidence that it is neurotropic.
 
 ## Russula Species of New Guinea
 
-Six [[Russula]] species from New Guinea have been proposed as neurotropic based on ethnographic evidence, though reliable chemical confirmation is lacking for all of them:
+Six Russula species from New Guinea have been proposed as neurotropic based on ethnographic evidence, though reliable chemical confirmation is lacking for all of them:
 
-### [[Russula agglutina]] Heim
-Described by Heim from New Guinea, [[Russula agglutina]] was documented in the context of sacred mushroom use. However, Ott (1993) noted that there is no scientific evidence confirming its neurotropic properties.
+### Russula agglutina Heim
+Described by Heim from New Guinea, Russula agglutina was documented in the context of sacred mushroom use. However, Ott (1993) noted that there is no scientific evidence confirming its neurotropic properties.
 
-### [[Russula kirinea]] Heim
+### Russula kirinea Heim
 Originally described from New Guinea, this species was recorded by Heim and Wasson (1958, 1965) and by Singer (1958, 1960). Ott (1993) found no scientific evidence for neurotropic activity.
 
-### [[Russula maenadum]] Heim
-Named with reference to the maenads (female followers of Dionysus in Greek mythology), [[Russula maenadum]] was described by Heim from New Guinea. The evocative name suggests its suspected psychoactive properties, but Ott (1993) confirmed that no scientific evidence supports neurotropic activity.
+### Russula maenadum Heim
+Named with reference to the maenads (female followers of Dionysus in Greek mythology), Russula maenadum was described by Heim from New Guinea. The evocative name suggests its suspected psychoactive properties, but Ott (1993) confirmed that no scientific evidence supports neurotropic activity.
 
-### [[Russula nondorbingi]]
+### Russula nondorbingi
 A New Guinea species documented by Singer, Heim, and Wasson, and subsequently discussed by Rumack and Salzman (1978). Ott (1993) wrote that there is no scientific evidence that this species is neurotropic.
 
-### [[Russula pseudomaenadum]] Heim
-Closely related to [[Russula maenadum]], [[Russula pseudomaenadum]] was also described by Heim from New Guinea. Like its congener, no scientific evidence confirms neurotropic activity.
+### Russula pseudomaenadum Heim
+Closely related to Russula maenadum, Russula pseudomaenadum was also described by Heim from New Guinea. Like its congener, no scientific evidence confirms neurotropic activity.
 
-### [[Russula wahgiensis]] Singer
+### Russula wahgiensis Singer
 Named after the Wahgi Valley in the New Guinea highlands, where indigenous mushroom use has been documented. The Wahgi Valley has been a focal point of ethnomycological research in New Guinea.
 
 ## Heimiella Species
 
-### [[Heimiella anguiformis]] (Heim) Boedijn
-Originally described from New Guinea, [[Heimiella anguiformis]] was documented by Heim and Wasson (1958, 1965) and by Singer (1978) in the context of sacred mushroom use. Ott (1993) expressed doubt that this species is neurotropic, noting that chemical evidence is lacking.
+### Heimiella anguiformis (Heim) Boedijn
+Originally described from New Guinea, Heimiella anguiformis was documented by Heim and Wasson (1958, 1965) and by Singer (1978) in the context of sacred mushroom use. Ott (1993) expressed doubt that this species is neurotropic, noting that chemical evidence is lacking.
 
-### [[Heimiella retispora]] Heim
-Described by Heim from New Guinea, [[Heimiella retispora]] was recorded by Heim and Wasson (1965) and by Schultes and Hofmann (1979). Like its congener, chemical verification of neurotropic properties is absent.
+### Heimiella retispora Heim
+Described by Heim from New Guinea, Heimiella retispora was recorded by Heim and Wasson (1965) and by Schultes and Hofmann (1979). Like its congener, chemical verification of neurotropic properties is absent.
 
 ## Scientific Uncertainty and the Need for Analysis
 
@@ -88,7 +88,7 @@ The case of the New Guinea sacred fungi illustrates a fundamental challenge in e
 
 ## Broader Context of Gasteromycetes
 
-Beyond the agarics and boletes, certain gasteromycetes (puffballs and earthstars) have also been proposed as sacred fungi. In Mexico, species of [[Lycoperdon]] and [[Vascellum]] were used in indigenous ceremonies. [[Lycoperdon candidum]] and [[Lycoperdon oblongiosporum]] were documented by Heim and Wasson (1958) from Mexican Mazatec contexts, along with [[Vascellum intermedium]], [[Vascellum pratense]], and [[Vascellum qudenii]]. These species belong to the fourth group of neurotropic fungi (sacred fungi without chemical confirmation) and share with the New Guinea species the characteristic of being known primarily from ethnographic rather than analytical evidence.
+Beyond the agarics and boletes, certain gasteromycetes (puffballs and earthstars) have also been proposed as sacred fungi. In Mexico, species of Lycoperdon and Vascellum were used in indigenous ceremonies. Lycoperdon candidum and Lycoperdon oblongiosporum were documented by Heim and Wasson (1958) from Mexican Mazatec contexts, along with Vascellum intermedium, Vascellum pratense, and Vascellum qudenii. These species belong to the fourth group of neurotropic fungi (sacred fungi without chemical confirmation) and share with the New Guinea species the characteristic of being known primarily from ethnographic rather than analytical evidence.
 
 ## Research Priorities
 
@@ -104,7 +104,7 @@ Singer subsequently studied many of the same species, providing additional taxon
 
 Mushroom use in New Guinea is embedded in complex cultural systems that differ significantly from Mesoamerican mushroom traditions. In the highlands of Papua New Guinea, certain mushrooms are reportedly consumed in the context of initiation ceremonies, healing rituals, and divination practices. Unlike the Mazatec tradition, where specific species and dosages are carefully managed by experienced curanderos, New Guinea mushroom practices appear to involve a broader range of species used with less formalized ritual structure.
 
-The Wahgi Valley has been identified as a particularly important area for ethnomycological research. Several [[Russula]] and [[Boletus]] species described by Heim bear names referencing this region, including [[Russula wahgiensis]]. Anthropological accounts suggest that mushroom use may be associated with male initiation ceremonies in some highland communities, though detailed ethnographic documentation remains limited.
+The Wahgi Valley has been identified as a particularly important area for ethnomycological research. Several Russula and Boletus species described by Heim bear names referencing this region, including Russula wahgiensis. Anthropological accounts suggest that mushroom use may be associated with male initiation ceremonies in some highland communities, though detailed ethnographic documentation remains limited.
 
 ## Chemical Analysis Challenges
 
@@ -120,7 +120,7 @@ Several factors complicate the chemical analysis of New Guinea sacred fungi:
 
 ## Relationship to Other Ceremonial Fungi Worldwide
 
-The New Guinea sacred fungi find parallels in other parts of the world where fungal species are used ceremonially without confirmed chemical analysis. In Mexico, several species of [[Lycoperdon]] (puffballs) and [[Vascellum]] were documented as sacred fungi by Heim and Wasson, though their psychoactive status was never definitively confirmed. Similarly, in various Asian traditions, species of [[Dictyophora indusiata]] (the veiled lady mushroom) have been used as sacred or medicinal fungi despite uncertain chemistry.
+The New Guinea sacred fungi find parallels in other parts of the world where fungal species are used ceremonially without confirmed chemical analysis. In Mexico, several species of Lycoperdon (puffballs) and Vascellum were documented as sacred fungi by Heim and Wasson, though their psychoactive status was never definitively confirmed. Similarly, in various Asian traditions, species of [[dictyophora-indusiata]] (the veiled lady mushroom) have been used as sacred or medicinal fungi despite uncertain chemistry.
 
 These cases collectively suggest that the global inventory of psychoactive fungi may be significantly larger than currently documented, and that many species used traditionally by indigenous peoples await proper chemical investigation.
 

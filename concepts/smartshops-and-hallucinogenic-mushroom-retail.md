@@ -37,7 +37,7 @@ areas, "paddo cabs" provide home delivery services for hallucinogenic mushrooms.
 
 ## Product Types Sold
 
-**Fresh mushrooms:** [[Psilocybe cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) are the
+**Fresh mushrooms:** [[psilocybe-cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) are the
 most commonly sold. Low water content allows freshness for 7 to 10 days. **Dried mushrooms:** Also
 widely available with longer storage life. **Sclerotia:** Psilocybe mexicana sold as "philosopher's
 stone" or "truffles." **Spore prints and spawn bags:** For home cultivation. **Grow kits:** Complete
@@ -86,11 +86,11 @@ availability following the UK legal change.
 
 The late 1990s trend toward organic products led smartshops to market mushrooms under "Herbal highs,"
 alongside "Herbal XTC" (Ephedra alkaloids, Sida Cordifolia, Guarana, Caffeine, Siberian Ginseng,
-Kola nut, Andorn) and [[Salvia divinorum]]. This positioned mushrooms as natural wellness products.
+Kola nut, Andorn) and [[salvia-divinorum]]. This positioned mushrooms as natural wellness products.
 
 ## Legal Alternative Products
 
-After prohibition, retailers shifted to legal alternatives: [[Amanita muscaria]] (fly agaric) and
+After prohibition, retailers shifted to legal alternatives: [[amanita-muscaria]] (fly agaric) and
 Amanita pantherina (panther mushroom), despite carrying substantial toxicity risks. Purple Ohms
 capsules containing Argyreia nervosa (Hawaiian Baby Woodrose) with LSA were also marketed as having
 LSD-like effects. The rapid diffusion of new products illustrates how market forces adapt to legal
@@ -128,6 +128,6 @@ first-ever seizure in 2006, from a Dutch retailer.
 
 - [[hallucinogenic mushrooms]]
 - [[psilocybin]]
-- [[Psilocybe cubensis]]
+- [[psilocybe-cubensis]]
 - [[hallucinogenic mushroom legal status EU]]
 - [[hallucinogenic mushroom prevalence in Europe]]

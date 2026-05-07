@@ -10,12 +10,12 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 # Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
 
-Section Zapotecorum of the genus [[Psilocybe]] represents one of the most
+Section Zapotecorum of the genus Psilocybe represents one of the most
 biogeographically significant groups of neurotropic fungi, with a
 distribution spanning from Mesoamerica through South America to the
 Pacific Islands, including a remarkable trans-Pacific disjunction between
 the Americas and New Zealand. According to [[Guzmán, Allen & Gartz (1998)]],
-this section bridges the mycobiotas of [[Mexico as a Northern and Southern Mycobiotic Convergence Zone]] and the [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]].
+this section bridges the mycobiotas of Mexico as a Northern and Southern Mycobiotic Convergence Zone and the Southern Hemisphere Origin Hypothesis for Neurotropic Fungi.
 
 ## Species Composition
 
@@ -69,7 +69,7 @@ South America:
 - **Ecuador and Venezuela**: P. yungensis and P. caerulescens documented
 
 The South American diversity of Section Zapotecorum is particularly rich in
-Amazon and Atlantic forest regions, supporting the [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]].
+Amazon and Atlantic forest regions, supporting the Southern Hemisphere Origin Hypothesis for Neurotropic Fungi.
 
 ## The Trans-Pacific Disjunction: New Zealand
 
@@ -121,7 +121,7 @@ Section Zapotecorum provides crucial evidence for major biogeographic
 hypotheses:
 
 - **Southern Hemisphere diversity center**: Greatest species diversity in
-  South America and Australasia supports the [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]
+  South America and Australasia supports the Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 - **Trans-Pacific connections**: The Americas-Australasia disjunction
   mirrors patterns in other organism groups
 - **North-South corridor**: Distribution from Mexico through South America
@@ -138,8 +138,8 @@ hypotheses:
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 
-- [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]
-- [[Mexico as a Northern and Southern Mycobiotic Convergence Zone]]
+- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+- Mexico as a Northern and Southern Mycobiotic Convergence Zone
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]
-- [[Psilocybe semilanceata Worldwide Temperate Distribution]]
+- Psilocybe semilanceata Worldwide Temperate Distribution
 - [[Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi]]

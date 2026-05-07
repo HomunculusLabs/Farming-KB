@@ -123,7 +123,7 @@ birthright and can be claimed by any individual.
 
 ## We Await Ourselves Within the Vision
 
-Nature is not the enemy, to be raped and conquered. Nature is ourselves, to be cherished and explored. [[Shamanism]] has always known this, and
+Nature is not the enemy, to be raped and conquered. Nature is ourselves, to be cherished and explored. [[shamanism]] has always known this, and
 shamanism has always, in its most authentic expressions,
 taught that the path required allies. These allies are the hallucinogenic plants and the mysterious teaching entities, luminous and transcendental,
 that reside in that nearby dimension of ecstatic

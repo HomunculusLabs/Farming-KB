@@ -119,10 +119,10 @@ Purple phenotype expression is enhanced by cooler night temperatures (15–18°C
 
 ## Related Strains
 
-- [[Zkittlez]] — parent strain, tropical fruit terpene powerhouse
-- [[Gelato]] — parent strain, creamy dessert profile
-- [[Girl Scout Cookies]] — grandparent lineage, foundational modern cultivar
-- [[Purple Punch]] — ancestor via Zkittlez, purple coloration source
+- [[zkittlez]] — parent strain, tropical fruit terpene powerhouse
+- [[gelato]] — parent strain, creamy dessert profile
+- [[girl-scout-cookies]] — grandparent lineage, foundational modern cultivar
+- [[purple-punch]] — ancestor via Zkittlez, purple coloration source
 
 ## See Also
 

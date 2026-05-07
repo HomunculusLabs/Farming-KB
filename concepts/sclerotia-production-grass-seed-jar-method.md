@@ -13,17 +13,17 @@ type: concept
 
 ## Overview
 
-[[Sclerotia]] are dense, compact masses of mycelium that serve as survival structures for certain fungal species. In the context of indoor cultivation, sclerotia are sometimes called "stone mushrooms" or "philosopher's stones" and are produced by species including [[Psilocybe mexicana]] and [[Psilocybe tampanensis]]. A detailed practical guide from the Exotic Cultivation Series documents the production of sclerotia directly within colonized grass seed jars, without the need for a separate casing or fruiting stage.
+Sclerotia are dense, compact masses of mycelium that serve as survival structures for certain fungal species. In the context of indoor cultivation, sclerotia are sometimes called "stone mushrooms" or "philosopher's stones" and are produced by species including [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]. A detailed practical guide from the Exotic Cultivation Series documents the production of sclerotia directly within colonized grass seed jars, without the need for a separate casing or fruiting stage.
 
 ## Species That Produce Cultivable Sclerotia
 
 The guide specifically addresses sclerotia production for:
 
-- **[[Psilocybe mexicana]]**: produces sclerotia both in jars and in casing layers; typically yields one large flush of mushrooms and a smaller second flush when fruited
-- **[[Psilocybe tampanensis]]**: the primary species for sclerotia production in this method; sclerotia continue to enlarge up to 4 months after inoculation
-- **[[Psilocybe cubensis]]**: noted for mushroom production only; rye grain is preferred over grass seed for this species
+- **[[psilocybe-mexicana]]**: produces sclerotia both in jars and in casing layers; typically yields one large flush of mushrooms and a smaller second flush when fruited
+- **[[psilocybe-tampanensis]]**: the primary species for sclerotia production in this method; sclerotia continue to enlarge up to 4 months after inoculation
+- **[[psilocybe-cubensis]]**: noted for mushroom production only; rye grain is preferred over grass seed for this species
 
-Other [[Psilocybe]] species known to form sclerotia include [[Psilocybe caerulescens]] and [[Psilocybe ochraceocentrata]], though these are not addressed in the guide.
+Other Psilocybe species known to form sclerotia include [[psilocybe-caerulescens]] and Psilocybe ochraceocentrata, though these are not addressed in the guide.
 
 ## Why Grass Seed for Sclerotia
 
@@ -34,7 +34,7 @@ Grass seed is particularly well suited to sclerotia production for several reaso
 3. **Water absorption**: Properly hydrated grass seed holds adequate moisture for the extended sclerotia production period without becoming anaerobic
 4. **Space efficiency**: Multiple jars can be stored in a small area during the 3 to 4 month sclerotia maturation period
 
-The most commonly used grass seed is **rye grass** ([[Lolium perenne]]), though mixtures of different grass species also work well. It is critical to source seed that has **not been treated with fungicides**, as these will kill or inhibit the mycelium.
+The most commonly used grass seed is **rye grass** (Lolium perenne), though mixtures of different grass species also work well. It is critical to source seed that has **not been treated with fungicides**, as these will kill or inhibit the mycelium.
 
 ## Jar Preparation for Sclerotia Production
 
@@ -76,7 +76,7 @@ A standard boiling pot is insufficient. After sterilization, once the pressure h
 
 Once jars reach room temperature, inoculation proceeds using any standard method:
 
-- **Spore syringe**: most common for [[Psilocybe mexicana]] and [[Psilocybe tampanensis]]
+- **Spore syringe**: most common for [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]
 - **Mycelium syringe**: liquid culture for faster colonization
 - **Agar wedge**: transferred with a flamed scalpel
 
@@ -104,14 +104,14 @@ Unlike fruiting body production, sclerotia form **without a casing layer** and *
 
 1. After full colonization, keep jars in a **clean, preferably dark location**
 2. Maintain temperature around 20°C
-3. Sclerotia of [[Psilocybe tampanensis]] continue enlarging for up to **4 months** after inoculation
+3. Sclerotia of [[psilocybe-tampanensis]] continue enlarging for up to **4 months** after inoculation
 4. No additional intervention is needed during this period
 
 The sclerotia form as hard, dense, roughly spherical masses embedded within and between the grass seed kernels. They are typically pale to golden brown in color.
 
 ## Sclerotia in Casing Layers
 
-The guide notes that sclerotia also form in the casing layer of cased trays for both [[Psilocybe mexicana]] and [[Psilocybe tampanensis]]. This means that cultivators who set up trays for mushroom fruiting may harvest sclerotia from the casing soil in addition to or instead of mushrooms, providing a dual-yield system.
+The guide notes that sclerotia also form in the casing layer of cased trays for both [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]. This means that cultivators who set up trays for mushroom fruiting may harvest sclerotia from the casing soil in addition to or instead of mushrooms, providing a dual-yield system.
 
 ## Advantages of Jar-Based Sclerotia Production
 

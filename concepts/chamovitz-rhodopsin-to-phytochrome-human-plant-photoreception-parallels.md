@@ -14,7 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - grahamholmes-what-a-plant-knowsindd.md
+  - grahamholmes-what-a-plant-knowsindd.mdcreated: 2026-05-07
+type: concept
+
 ---
 
 # Rhodopsin to Phytochrome - Parallels Between Human and Plant Photoreception
@@ -126,3 +128,10 @@ evolutionary solutions to the problem of extracting information from electromagn
 radiation, and both employ protein-based molecular machinery to convert light energy into
 biological signals that guide behavior. The difference is one of complexity and
 processing, not of kind.
+
+## See Also
+
+- [[plant-photoreceptor-evolution-from-photolyases|photoreceptor]]
+- [[plant-photoreceptor-evolution-from-photolyases|phytochrome]]
+- [[cannabis-photoperiodism-and-light-cycles|photoperiodism]]
+- [[darwin-phototropism-discovery-plant-light-perception|phototropism]]

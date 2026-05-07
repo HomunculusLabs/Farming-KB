@@ -14,7 +14,7 @@ In 1990, J. Gartz, G. Adam, and H.-M. Vorbrodt published the first documented
 study of brassinosteroid effects on fungal growth in Naturwissenschaften. The
 paper demonstrated that [[22S-23S-homobrassinolide]], a synthetic
 brassinosteroid phytohormone, dramatically accelerates mycelial growth and
-enhances fruiting body production in [[Psilocybe cubensis]] (Earle) Singer
+enhances fruiting body production in [[psilocybe-cubensis]] (Earle) Singer
 cultures when applied at extremely low concentrations.
 
 ## Brassinosteroid Background

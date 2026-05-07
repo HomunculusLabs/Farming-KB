@@ -21,7 +21,7 @@ The psychoactive potency of hallucinogenic mushrooms is highly variable, dependi
 
 ### Species Variation
 
-Different species contain markedly different concentrations of psilocybin and psilocin. [[Psilocybe semilanceata]] (liberty caps), the most common wild European species, typically contains higher concentrations of active compounds than many other species. [[Psilocybe cubensis]], the most commonly cultivated and marketed species, shows significant variation between the many named varieties (Mexican, Thai, Colombian, Amazonian, and others).
+Different species contain markedly different concentrations of psilocybin and psilocin. [[psilocybe-semilanceata]] (liberty caps), the most common wild European species, typically contains higher concentrations of active compounds than many other species. [[psilocybe-cubensis]], the most commonly cultivated and marketed species, shows significant variation between the many named varieties (Mexican, Thai, Colombian, Amazonian, and others).
 
 ### Unpredictable Potency
 
@@ -29,7 +29,7 @@ The EMCDDA emphasized that **potency is fundamentally unpredictable** in recreat
 
 ### Common Dosage Ranges
 
-A typical recreational dose consists of approximately 10 to 30 fresh specimens of [[Psilocybe cubensis]] or 1 to 3 grams of dried material. However, the wide variation in potency means that these figures serve only as very rough guides. Dried mushrooms are typically described as being approximately 10 percent of the fresh weight, with the implication that active compound concentration increases proportionally upon drying, though degradation of alkaloids during drying and storage complicates this assumption.
+A typical recreational dose consists of approximately 10 to 30 fresh specimens of [[psilocybe-cubensis]] or 1 to 3 grams of dried material. However, the wide variation in potency means that these figures serve only as very rough guides. Dried mushrooms are typically described as being approximately 10 percent of the fresh weight, with the implication that active compound concentration increases proportionally upon drying, though degradation of alkaloids during drying and storage complicates this assumption.
 
 ## Routes of Administration
 
@@ -38,7 +38,7 @@ Recreational users employ several methods of ingestion:
 - **Fresh mushrooms**: Eaten directly, often chopped and mixed with food to mask the taste.
 - **Dried mushrooms**: Consumed whole, chopped, or ground into a powder and encapsulated.
 - **Tea preparation**: Mushrooms are brewed in hot water, sometimes with flavoring agents. The liquid is consumed and the mushroom material discarded. This method may alter onset time and bioavailability.
-- **Sclerotia consumption**: Species such as [[Psilocybe mexicana]] and [[Psilocybe tampanensis]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
+- **Sclerotia consumption**: Species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
 
 ## Onset and Duration
 
@@ -111,10 +111,10 @@ The EMCDDA report contextualized mushroom risks by comparing them to other subst
 
 - Compared to cannabis, mushrooms have significantly lower prevalence and lower rates of habitual use.
 - Compared to [[ecstasy-mdma-guide]] (MDMA), mushrooms produce less predictable effects and are less sociable, limiting their use in dance music settings.
-- Compared to [[LSD]], mushrooms offer a shorter duration of action and are perceived as more "natural," which contributed to their appeal during the "return to nature" trend of the late 1990s.
-- Compared to [[Amanita muscaria]], psilocybin mushrooms carry lower toxicity risk. The active compounds in Amanita (muscimol, ibotenic acid, and muscarine) are chemically unrelated to psilocybin and carry substantial toxicity risks, with some closely related Amanita species being potentially fatal.
+- Compared to [[lsd]], mushrooms offer a shorter duration of action and are perceived as more "natural," which contributed to their appeal during the "return to nature" trend of the late 1990s.
+- Compared to [[amanita-muscaria]], psilocybin mushrooms carry lower toxicity risk. The active compounds in Amanita (muscimol, ibotenic acid, and muscarine) are chemically unrelated to psilocybin and carry substantial toxicity risks, with some closely related Amanita species being potentially fatal.
 
-The EMCDDA noted that the legislative trend of banning psilocybin mushrooms in the 2000s was followed by increased retailer interest in marketing [[Amanita muscaria]] as a legal alternative, a development the agency regarded with concern given the higher toxicity profile of Amanita species.
+The EMCDDA noted that the legislative trend of banning psilocybin mushrooms in the 2000s was followed by increased retailer interest in marketing [[amanita-muscaria]] as a legal alternative, a development the agency regarded with concern given the higher toxicity profile of Amanita species.
 
 ## See Also
 

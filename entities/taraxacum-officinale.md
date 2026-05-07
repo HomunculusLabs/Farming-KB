@@ -137,17 +137,19 @@ ecologically damaging invasive in most jurisdictions.
 
 ## See Also
 
+- [[taraxacum-kok-saghyz]]
+
 - [[echinacea-purpurea]]
 - [[jerusalem-artichoke]]
 - [[matricaria-chamomilla]]
 
-- [[Plantago major]] — broadleaf plantain, ubiquitous medicinal
+- [[plantago-major]] — broadleaf plantain, ubiquitous medicinal
   weed with overlapping wound-healing uses.
-- [[Urtica dioica]] — stinging nettle, nutrient-dense perennial
+- [[urtica-dioica]] — stinging nettle, nutrient-dense perennial
   with complementary dynamic accumulator properties.
-- [[Chicoric acid]] — primary phenolic in dandelion, also in
+- Chicoric acid — primary phenolic in dandelion, also in
   Echinacea purpurea.
-- [[Inulin]] — prebiotic polysaccharide in dandelion root, also
+- Inulin — prebiotic polysaccharide in dandelion root, also
   in chicory and Jerusalem artichoke.
-- [[Matricaria chamomilla]] — German chamomile, companion plant
+- [[matricaria-chamomilla]] — German chamomile, companion plant
   with similar ecological niches and overlapping chemistry.

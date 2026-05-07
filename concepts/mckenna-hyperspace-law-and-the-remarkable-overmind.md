@@ -12,7 +12,7 @@ type: concept
 # Hyperspace, the Law, and the Remarkable Overmind
 
 In the closing chapters of Food of the Gods, McKenna brings together several strands of his argument: the legal suppression of psychedelic compounds,
-the phenomenology of the [[DMT experience]], the
+the phenomenology of the DMT experience, the
 possibility of nonhuman intelligence accessible through tryptamine hallucinogens, and the question of what humanity must recover from its archaic past
 to survive the future. These themes converge on a
 single proposition: that the indole hallucinogens provide access to a dimension of reality that is both real and systematically denied by dominator
@@ -22,7 +22,7 @@ culture.
 
 DMT is currently a Schedule I compound in the United States, a classification reserved for drugs with no proven medical application whatsoever. Not
 even cocaine rates a Schedule I classification.
-[[Psilocybin]] and DMT were made Schedule I without any scientific evidence at all being presented for or against their use. In the paranoid
+[[psilocybin]] and DMT were made Schedule I without any scientific evidence at all being presented for or against their use. In the paranoid
 atmosphere of the late sixties, the mere fact that these
 compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged.
 
@@ -57,7 +57,7 @@ a world about the entities, their joys, their dreams, their poetry.
 
 ## Jung, the Cabiri, and the Alchemical Tradition
 
-Alone among twentieth-century schools of mainstream thought, [[Jungian psychology]] has sought to confront some of the phenomena so central to
+Alone among twentieth-century schools of mainstream thought, Jungian psychology has sought to confront some of the phenomena so central to
 [[shamanism]]. Alchemy, which Jung studied very
 carefully, was the inheritor of a long tradition of shamanistic and magical techniques, as well as more practical chemical procedures such as
 metalworking and embalming. The literature of alchemy

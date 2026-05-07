@@ -40,7 +40,7 @@ mushroom trade. It is estimated that there are approximately 120 to 150
 smartshops in the country, concentrated in Amsterdam. According to the
 Dutch Risk Assessment Report, hallucinogenic mushrooms make up
 approximately 50% of smartshop turnover. The types most commonly sold are
-[[Psilocybe cubensis]] varieties, most notably the Mexican strain, none of
+[[psilocybe-cubensis]] varieties, most notably the Mexican strain, none of
 which grow wild in Europe.
 
 Mushrooms are sold through multiple channels:
@@ -105,8 +105,8 @@ Legal prohibitions had immediate effects on market dynamics. In the UK,
 following the July 2005 reclassification of psilocybin mushrooms as a
 Class A drug, internet sites stopped selling them. The Mixmag 2005 survey
 found 67% of respondents reporting reduced availability. Retailers pivoted
-to selling legal alternatives such as [[Amanita muscaria]] (fly agaric)
-and [[Amanita muscaria|Amanita pantherina]] (panther mushroom), as well
+to selling legal alternatives such as [[amanita-muscaria]] (fly agaric)
+and [[amanita-pantherina|Amanita muscaria]] (panther mushroom), as well
 as Purple Ohms capsules containing Hawaiian Baby Woodrose with LSA.
 
 ## Consumer Behaviour
@@ -146,5 +146,5 @@ mushroom market:
 
 - [[hallucinogenic mushroom legal status in Europe]] for regulatory
   responses to this market
-- [[Psilocybe cubensis]] for the primary product sold through smartshops
+- [[psilocybe-cubensis]] for the primary product sold through smartshops
 - [[psilocybin-chemistry-pharmacology]] for the pharmacological basis

@@ -32,13 +32,13 @@ dephosphorylated counterpart psilocin (4-hydroxy-N,N-dimethyltryptamine)
 are both subject to progressive degradation over time. Research by
 Repke et al. (1977) demonstrated that variations in the presence of
 baeocystin, a related tryptamine alkaloid, occurred according to the
-age of studied materials. In specimens of [[Psilocybe baeocystis]] and
-[[Psilocybe cyanescens]], no trace of indole compounds could be
+age of studied materials. In specimens of [[psilocybe-baeocystis]] and
+[[psilocybe-cyanescens]], no trace of indole compounds could be
 detected in specimens analyzed 20 to 60 days after collection,
 establishing a clear temporal window for alkaloid stability.
 
 Ohenoja et al. (1987) provided quantitative evidence by studying
-herbarium specimens of [[Psilocybe semilanceata]] across different
+herbarium specimens of [[psilocybe-semilanceata]] across different
 collection years. Specimens from 1869 contained 0.014% dry weight
 psilocybin, specimens from 1954 contained 0.67%, and specimens from
 1976 contained 0.84%. This more than 60-fold difference between the
@@ -61,9 +61,9 @@ volatile properties allowing active compounds to be released into
 surrounding air from fresh or semi-fermented specimens. While exploring
 Oaxaca in 1958, Guzman experienced colored hallucinations without
 consuming any fungi. He was sleeping in a small closed-door room filled
-with fresh or semi-fermented specimens of [[Psilocybe caerulescens]],
-[[Psilocybe cordispora]], [[Psilocybe cubensis]], [[Psilocybe mexicana]],
-and [[Psilocybe zapotecorum]], gathered for commercial purposes. The air
+with fresh or semi-fermented specimens of [[psilocybe-caerulescens]],
+[[psilocybe-cordispora]], [[psilocybe-cubensis]], [[psilocybe-mexicana]],
+and [[psilocybe-zapotecorum]], gathered for commercial purposes. The air
 was heavy with acrid fungal aroma, and prolonged exposure in the
 enclosed space produced vivid hallucinations that ceased immediately
 upon leaving the room for fresh air.
@@ -73,8 +73,8 @@ upon leaving the room for fresh air.
 The volatility and degradation of these compounds has significant
 implications for reliability of published chemical analyses. Many
 studies may have failed to detect active compounds because analyzed
-specimens were too old. When Hofmann analyzed [[Cordyceps capitata]]
-and [[Cordyceps ophioglossoides]] (reported in Heim and Wasson, 1958),
+specimens were too old. When Hofmann analyzed Cordyceps capitata
+and Cordyceps ophioglossoides (reported in Heim and Wasson, 1958),
 he found no indole compounds. However, these specimens had been
 gathered by Wasson in a popular market and preserved for a long time.
 Given what is now known about degradation kinetics, it is probable that
@@ -87,9 +87,9 @@ The issue of specimen age is further complicated by misidentification in
 chemical studies. Many studies lacked a proper taxonomic basis, and in
 some cases mixtures of species were studied together. Guzman found that
 material used by Leslie and Repke to isolate psilocybin contained a
-mixture of [[Panaeolus]] species and [[Psilocybe mexicana]], together
-with [[Panaeolus coprophila]], all identified as a single species.
-Reports of psilocybin in [[Psilocybe pseudobullacea]] from Venezuela
+mixture of Panaeolus species and [[psilocybe-mexicana]], together
+with Panaeolus coprophila, all identified as a single species.
+Reports of psilocybin in Psilocybe pseudobullacea from Venezuela
 likely involved misidentified material, since P. pseudobullacea is not a
 bluing species and no neurotropic properties have been confirmed in
 properly identified specimens.
@@ -97,7 +97,7 @@ properly identified specimens.
 ## Conflicting Reports for the Same Species
 
 Degradation effects and misidentification have produced contradictory
-reports for the same species. [[Panaeolina foenisecii]], a common
+reports for the same species. [[panaeolina-foenisecii]], a common
 prairie fungus, tested negative for psilocybin in studies by Mantle and
 Waight (1969), Ott and Guzman (1976), Beug and Bigwood (1982), and
 Stijve (1987), but tested positive in studies by Robbers et al. (1969),
@@ -136,8 +136,8 @@ older than one year is well supported by modern biochemical evidence.
 
 ## See Also
 
-- [[Psilocybe]] genus overview
+- Psilocybe genus overview
 - [[psilocybin]] pharmacology and chemistry
 - [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
-- [[Psilocybe semilanceata]] ecology and chemistry
+- [[psilocybe-semilanceata]] ecology and chemistry

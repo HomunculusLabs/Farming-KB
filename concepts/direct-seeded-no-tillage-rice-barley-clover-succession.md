@@ -54,7 +54,7 @@ As the rice approaches maturity, the cycle begins again with the broadcasting of
 
 ## The Role of Clover
 
-[[Clover]] (likely [[white clover]], *Trifolium repens*) is the foundation of the system's fertility and weed management. It functions as:
+Clover (likely [[white clover]], *Trifolium repens*) is the foundation of the system's fertility and weed management. It functions as:
 
 - **Nitrogen fixer**: Symbiotic rhizobia in clover root nodules fix atmospheric nitrogen, eliminating the need for nitrogen fertilizer
 - **Living mulch**: The dense clover cover suppresses weed germination and growth
@@ -79,7 +79,7 @@ The straw is never plowed in. It remains on the surface as a mulch, decomposing 
 
 ## Clay Pellet Seed Encapsulation
 
-[[Clay pellets]] (also called seed balls or [[seed balls]]) solve several problems simultaneously. The rice seeds are coated with a layer of soil, then a layer of clay, forming small pellets that are scattered over the field. The clay pellet system provides:
+Clay pellets (also called seed balls or [[seed balls]]) solve several problems simultaneously. The rice seeds are coated with a layer of soil, then a layer of clay, forming small pellets that are scattered over the field. The clay pellet system provides:
 
 - **Protection from birds and rodents**: The hard clay exterior makes seeds unattractive to animals
 - **Moisture regulation**: The clay absorbs and retains moisture, providing optimal germination conditions

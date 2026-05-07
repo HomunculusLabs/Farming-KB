@@ -140,7 +140,7 @@ Wild populations are limited to a small area of the Sierra Mazateca in Oaxaca, M
 - [[mazatec-people]]
 - [[psilocybin]]
 
-- [[Psilocybin]] — classical serotonergic psychedelic for pharmacological comparison
-- [[DMT]] — potent short-acting tryptamine psychedelic
-- [[Kappa-Opioid-Receptor]] — pharmacological target of salvinorin A
-- [[Ethnobotany]] — study of traditional plant-human relationships
+- [[psilocybin]] — classical serotonergic psychedelic for pharmacological comparison
+- [[dmt]] — potent short-acting tryptamine psychedelic
+- Kappa-Opioid-Receptor — pharmacological target of salvinorin A
+- Ethnobotany — study of traditional plant-human relationships

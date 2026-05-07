@@ -145,8 +145,8 @@ All Panaeolus and Panaeolina species are coprophilous, playing an important ecol
 - [[copelandia-cyanescens]]
 - [[copelandia-genus]]
 
-- [[Copelandia Genus]]
-- [[Psilocybe Genus Overview]]
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybin Chemistry]]
-- [[Gymnopilus Genus Neurotropic Species]]
+- [[copelandia-genus]]
+- Psilocybe Genus Overview
+- [[neurotropic-fungi-classification]]
+- Psilocybin Chemistry
+- [[gymnopilus-genus-neurotropic-species]]

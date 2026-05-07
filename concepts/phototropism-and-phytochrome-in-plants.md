@@ -33,7 +33,7 @@ Plants lack a brain and nervous system, yet they possess photoreceptor proteins 
 
 Charles Darwin and his son Francis conducted pioneering experiments on phototropism in their 1880 book *The Power of Movement in Plants*.
 
-Darwin wrote that "there are extremely few [plants], of which some part does not bend towards lateral light." Their classic experiment used canary grass ([[Phalaris canariensis]]) seedlings grown in total darkness.
+Darwin wrote that "there are extremely few [plants], of which some part does not bend towards lateral light." Their classic experiment used canary grass (Phalaris canariensis) seedlings grown in total darkness.
 
 When exposed to an extremely dim gas lamp positioned twelve feet away (so dim the Darwins themselves could not see the seedlings or a pencil line on paper), the seedlings curved toward the light within three hours.
 
@@ -134,8 +134,8 @@ Commercial applications of phytochrome manipulation include:
 - [[plant-vision-and-phototropism]]
 - [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
 
-- [[Plant Sensory Systems]]
-- [[Photoperiodism]]
-- [[Auxin and Plant Growth Regulation]]
-- [[Circadian Rhythms in Plants]]
-- [[Shade Avoidance Response]]
+- Plant Sensory Systems
+- Photoperiodism
+- Auxin and Plant Growth Regulation
+- Circadian Rhythms in Plants
+- Shade Avoidance Response

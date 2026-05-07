@@ -192,7 +192,7 @@ Nettle tea is a standard organic fertilizer in permaculture and biodynamic agric
 
 - [[query-how-to-grow-and-use-stinging-nettle]]
 
-- [[Rumex-obtusifolius]] — Broad-leaved dock, traditional nettle sting remedy
+- Rumex-obtusifolius — Broad-leaved dock, traditional nettle sting remedy
 - [[comfrey]] — Another dynamic accumulator for permaculture systems
 - [[dynamic-accumulators]] — Comprehensive list of nutrient-mining plants
-- [[Forest-Gardening]] — Permaculture design system incorporating nettle
+- Forest-Gardening — Permaculture design system incorporating nettle

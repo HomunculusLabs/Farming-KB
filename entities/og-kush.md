@@ -17,7 +17,8 @@ sources:
   - https://www.wikileaf.com/strain/og-kush/
   - "ElSohly, M.A. et al. (2016). Changes in Cannabis Potency Over the Last Two Decades (1995–2014). Biological Psychiatry, 79(7), 613-619."
   - "Mudge, E.M. et al. (2019). Chemotaxonomic Analysis of Cannabis sativa Using Terpenoid Profiling. Forensic Science International, 301, 56-63."
-  - "Smart, R. et al. (2017). Medical Marijuana Policies on Campus: Implications for Health. Journal of American College Health, 65(5), 368-374."
+  - "Smart, R. et al. (2017). Medical Marijuana Policies on Campus: Implications for Health. Journal of American College Health, 65(5), 368-374."created: 2026-05-07
+
 ---
 
 # OG Kush
@@ -154,9 +155,11 @@ OG Kush's influence on cannabis culture is arguably unmatched:
 
 ## See Also
 
+- [[london-pound-cake]]
+
 - [[chemdawg]] — East Coast parent of OG Kush lineage
 - [[hindu-kush]] — Landrace indica contributing genetics
 - [[girl-scout-cookies]] — Notable OG Kush descendant
 - [[cannabis-terpene-entourage-effect]] — Terpene-cannabinoid synergy
-- [[california-cannabis-history]] — Cultural and legal history
-- [[cannabis-cultivation-indoor]] — Comprehensive indoor growing guide
+- [[gaias-garden-food-forest-history-and-evolution]] — Cultural and legal history
+- [[cannabis-sativa-indoor-cultivation-techniques]] — Comprehensive indoor growing guide

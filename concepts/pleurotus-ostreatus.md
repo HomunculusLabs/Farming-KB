@@ -138,6 +138,17 @@ bioremediation of polluted environments.
 
 ## See Also
 
+- [[mushroom-cultivation-basics]]
+- [[mushroom-substrates]]
+
+- [[pleurotus-flabellatus]]
+- [[pleurotus-djamor]]
+- [[pleurotus-columbinus]]
+
+- [[oyster-mushroom-pleurotus-ostreatus]]
+- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
+- [[pleurotus-eryngii]]
+
 - pleurotus
 - [[oyster-mushroom-substrates]]
 - [[bioavailability-in-fungal-bioremediation]]

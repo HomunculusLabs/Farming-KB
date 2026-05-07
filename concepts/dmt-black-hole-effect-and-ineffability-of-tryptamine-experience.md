@@ -55,7 +55,7 @@ we're doing.
 ## Comparison with Other Hallucinogenic Compounds
 
 Each major class of hallucinogen constitutes a phenomenologically
-defined universe unto itself. [[psilocybin]] and [[DMT]] invoke what
+defined universe unto itself. [[psilocybin]] and [[dmt]] invoke what
 McKenna called the Logos, working directly on language centers so that
 interior dialogue is a primary feature. DMT is distinguished by far
 greater intensity and shorter duration. The smoked experience begins in
@@ -144,7 +144,7 @@ the physical black hole's prevention of signal escape.
 ## See Also
 
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[DMT]] pharmacology and phenomenology
+- [[dmt]] pharmacology and phenomenology
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[tryptamine]] compounds overview

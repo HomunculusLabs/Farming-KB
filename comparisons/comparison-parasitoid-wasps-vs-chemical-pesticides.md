@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[Parasitoid wasps]] are a diverse group of hymenopteran insects that reproduce by laying
+Parasitoid wasps are a diverse group of hymenopteran insects that reproduce by laying
 their eggs inside or on the bodies of other arthropods, primarily pest insects. Upon
 hatching, the wasp larvae consume the host from within, ultimately killing it. Families
 such as Aphelinidae, Encyrtidae, Braconidae, and Ichneumonidae include many species widely

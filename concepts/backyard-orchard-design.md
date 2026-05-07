@@ -142,6 +142,8 @@ The space beneath and between fruit trees can be productive if designed carefull
 - Rootstock appropriate for your soil and space
 ## See Also
 
+- [[cydonia-oblonga]]
+
 - [[amelanchier-alnifolia]]
 - [[apple-tree-care]] for detailed apple tree management
 - [[stone-fruit-tree-care]] for peach, plum, and cherry care

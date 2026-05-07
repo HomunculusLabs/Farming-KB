@@ -176,10 +176,10 @@ understanding of fungal biology.
 
 ## Related Concepts
 
-- [[Fungal Biology and Ecology]]
-- [[Spore Discharge Mechanisms in Fungi]]
-- [[Fungal Pathogens and Human Disease]]
-- [[Gasteromycetes and Stinkhorn Fungi]]
+- Fungal Biology and Ecology
+- Spore Discharge Mechanisms in Fungi
+- Fungal Pathogens and Human Disease
+- Gasteromycetes and Stinkhorn Fungi
 
 ## See Also
 

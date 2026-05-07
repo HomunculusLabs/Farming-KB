@@ -22,7 +22,7 @@ type: concept
 
 One of the most significant biogeographic patterns identified by Guzman, Allen
 and Gartz (2000) is the existence of transcontinental species pairs in
-[[Psilocybe]] that suggest ancient Gondwanan and South Pacific connections.
+Psilocybe that suggest ancient Gondwanan and South Pacific connections.
 These disjunct distributions, where closely related species occur on widely
 separated continents, provide evidence for the evolutionary history of
 neurotropic fungi. The pattern was first noted by Horak (1983), who observed
@@ -152,7 +152,7 @@ Panaeolina species described by Hongo from Japan.
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 
-- [[Copelandia genus diversity and biogeography]]
-- [[Neurotropic fungi of Central America and Caribbean]]
-- [[Neurotropic fungi of Hawaii and Pacific Islands]]
-- [[Conocybe and Gerronema neurotropic species]]
+- Copelandia genus diversity and biogeography
+- Neurotropic fungi of Central America and Caribbean
+- Neurotropic fungi of Hawaii and Pacific Islands
+- Conocybe and Gerronema neurotropic species

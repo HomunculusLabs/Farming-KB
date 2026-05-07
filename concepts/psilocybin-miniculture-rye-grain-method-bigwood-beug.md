@@ -93,9 +93,9 @@ The miniculture method offers several advantages for mycochemical research:
 
 Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin]] and [[psilocin]] levels:
 
-- [[Psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
-- [[Psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
-- [[Psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
+- [[psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
+- [[psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
+- [[psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
 - Overall variation across controlled cultures spanned a factor of four
 - Street samples showed even greater variation, with [[psilocybin]] levels differing by over a factor of ten
 
@@ -125,9 +125,9 @@ Compared to contemporary cultivation techniques, the miniculture method occupies
 
 Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin]] and [[psilocin]] levels:
 
-- [[Psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
-- [[Psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
-- [[Psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
+- [[psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
+- [[psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
+- [[psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
 - Overall variation across controlled cultures spanned a factor of four
 - Street samples showed even greater variation, with [[psilocybin]] levels differing by over a factor of ten
 

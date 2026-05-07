@@ -122,6 +122,8 @@ Exercise is one of the most effective inducers of endogenous antioxidant defense
 
 ## See Also
 
+- [[ensete-ventricosum]]
+
 - [[phase-ii-conjugation-reactions-drug-metabolism]] — Glutathione conjugation and detoxification pathways
 - [[protein-folding-and-misfolding-diseases-biochemistry]] — Oxidative protein damage and misfolding
 - [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] — CYP enzymes as ROS sources

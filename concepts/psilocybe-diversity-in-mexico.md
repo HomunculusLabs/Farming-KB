@@ -158,7 +158,7 @@ throughout the country.
 - [[psilocybe-cubensis-distribution-and-ecology]]
 - [[entheogen-culture]]
 
-- [[Psilocybe cubensis Distribution and Ecology]]
-- [[Neurotropic Fungi Classification]]
-- [[Sacred Mushroom Traditions in Mexico]]
-- [[Psilocybin and Indole Alkaloid Chemistry in Fungi]]
+- [[psilocybe-cubensis-distribution-and-ecology]]
+- [[neurotropic-fungi-classification]]
+- [[sacred-mushroom-traditions-in-mexico]]
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]

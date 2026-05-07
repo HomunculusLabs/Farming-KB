@@ -112,6 +112,10 @@ All are edible and similarly prized. The complex is distinguished from toxic bol
 
 ## See Also
 
+- [[neoboletus-erythropus]]
+
+- [[phyllostachys-edulis]]
+
 - [[boletus-edulis-entity]]
 
 - [[suillus-luteus]] — Slippery Jack, another ectomycorrhizal bolete

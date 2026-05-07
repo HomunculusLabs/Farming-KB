@@ -147,6 +147,6 @@ is nonexistent.
 ## See Also
 
 - [[energy-efficiency-natural-farming]]
-- [[Mahayana vs Hinayana Natural Farming]]
+- Mahayana vs Hinayana Natural Farming
 - [[natural-livestock-farming]]
 - [[clay-pellet-seed-broadcasting]]

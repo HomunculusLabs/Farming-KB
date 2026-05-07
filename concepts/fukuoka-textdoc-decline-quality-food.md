@@ -117,6 +117,8 @@ relationship between earth, plant, and human being.
 
 ## See Also
 
+- [[fukuoka-textdoc-impoverished-national-agricultural-policy-farmer-decline]]
+
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]

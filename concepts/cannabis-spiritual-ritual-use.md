@@ -114,6 +114,8 @@ The guide notes that cannabis should only be used in jurisdictions where legally
 
 ## See Also
 
+- [[chocolope]]
+
 - [[entheogen-culture]] — Broader context of psychoactive plants in spiritual practice
 - [[psychedelic-compounds-reference]] — Pharmacological profiles of psychoactive substances
 - [[cannabis-vegetative-stage]] — Cannabis cultivation basics

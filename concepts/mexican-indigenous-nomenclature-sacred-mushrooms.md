@@ -35,7 +35,7 @@ later brought to wider attention by Richard Evans Schultes (1939), the
 term has become so indiscriminately used that it is applied to
 virtually any Mexican hallucinogenic fungus. This overgeneralization
 has caused significant confusion in the ethnobotanical literature, as
-the original Nahuatl term likely referred to specific [[Psilocybe]]
+the original Nahuatl term likely referred to specific Psilocybe
 species rather than neurotropic fungi in general.
 
 The Spanish Franciscans who encountered this practice during the
@@ -75,20 +75,20 @@ Several Spanish-language names were adopted by Indian communities:
 - **San Isidros** (Saint Isidores), named after the Catholic patron
   saint of agriculture, reflects syncretic blending of pre-Columbian
   mushroom veneration with Spanish Catholicism. Most commonly used for
-  [[Psilocybe cubensis]], which grows in manured agricultural fields.
+  [[psilocybe-cubensis]], which grows in manured agricultural fields.
 
 - **Pajaritos** (little birds), capturing both small size and possibly
   the capacity to transport the user to transcendent states. Most
-  commonly associated with [[Psilocybe mexicana]].
+  commonly associated with [[psilocybe-mexicana]].
 
 - **Derrumbes** (landslides), referring to dramatic psychological
   effects or the way mushrooms appear after heavy rains on disturbed
-  earth. Most commonly associated with [[Psilocybe zapotecorum]].
+  earth. Most commonly associated with [[psilocybe-zapotecorum]].
 
 ## The Mazatec Naming Confusion
 
 The Mazatec Indians of Oaxaca use the word nise (little bird) for both
-[[Psilocybe mexicana]] and [[Schizophyllum commune]]. While P. mexicana
+[[psilocybe-mexicana]] and [[schizophyllum-commune]]. While P. mexicana
 is a well-documented neurotropic species, S. commune is a common edible
 fungus with no known psychoactive properties. The confusion arises from
 superficial visual similarity between the small, fan-shaped fruiting
@@ -100,24 +100,24 @@ involved P. mexicana in Mexico.
 
 The Mixtec Indians of Oaxaca developed names for puffball fungi
 (Gasteromycetes) used alongside true neurotropic species in ceremonies.
-Heim and Wasson (1962) first reported use of [[Lycoperdon mixtecorum]]
-and [[Lycoperdon marginatum]] as narcotic fungi. However, subsequent
+Heim and Wasson (1962) first reported use of [[lycoperdon-mixtecorum]]
+and [[lycoperdon-marginatum]] as narcotic fungi. However, subsequent
 chemical analysis by Ott et al. (1975) confirmed that at least nine
 species used by the Mixtec contained no neurotropic properties. The
-Mixtec also used [[Scleroderma verrucosum]], experimentally proven to
+Mixtec also used Scleroderma verrucosum, experimentally proven to
 be poisonous. Ott et al. concluded that the Mixtec narcotic puffballs
 were edible species used in a manner suggesting confusion with more
 traditional neurotropic fungi for religious or magical purposes.
 
 ## Chinantec and Trique Ceremonial Fungi
 
-The Chinantec Indians of Oaxaca use [[Dictyophora indusiata]] in its
+The Chinantec Indians of Oaxaca use [[dictyophora-indusiata]] in its
 three forms as special narcotic fungi for divination purposes, though
 neurotropic properties remain uncertain. The Trique Indians of Alta
-Mixteca use [[Cordyceps capitata]] and [[Cordyceps ophioglossoides]]
-alongside [[Psilocybe muliercula]] in nocturnal ceremonies, calling
+Mixteca use Cordyceps capitata and Cordyceps ophioglossoides
+alongside [[psilocybe-muliercula]] in nocturnal ceremonies, calling
 them hombrecitos (little men) and mujercitas (little women)
-respectively. The host fungi [[Elaphomyces granulatus]], [[Elaphomyces muricatus]], and [[Elaphomyces reticulatus]] are placed at the ceremony
+respectively. The host fungi [[elaphomyces-granulatus]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
 center as a director. These Elaphomyces are also used separately to
 heal wounds and to rejuvenate the organism.
 
@@ -140,6 +140,6 @@ considerable ethnographic value.
 
 - [[neurotropic-fungi]] overview and classification
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-- [[Psilocybe mexicana]] ethnobotany and chemistry
-- [[Psilocybe zapotecorum]] distribution and traditional use
-- [[Cordyceps]] in Mesoamerican ceremonial use
+- [[psilocybe-mexicana]] ethnobotany and chemistry
+- [[psilocybe-zapotecorum]] distribution and traditional use
+- Cordyceps in Mesoamerican ceremonial use

@@ -136,12 +136,12 @@ Spores germinate readily on MEA/PDA agar, often visible within 48–72 hours at 
 
 ## Related Species
 
-- [[Psilocybe cubensis]] — Closest relative; most widely cultivated psychedelic mushroom
-- [[Psilocybe subcubensis]] — Tropical American relative
-- [[Psilocybe tampanensis]] — "Magic Truffles" species, section Cyanescens
-- [[Psilocybe azurescens]] — Pacific Northwest species, highest known psilocybin content
-- [[Psilocybe semilanceata]] — Liberty Cap, cosmopolitan temperate species
-- [[Psilocybe mexicana]] — Original "teonanacatl" from Central Mexico
+- [[psilocybe-cubensis]] — Closest relative; most widely cultivated psychedelic mushroom
+- [[psilocybe-subcubensis]] — Tropical American relative
+- [[psilocybe-tampanensis]] — "Magic Truffles" species, section Cyanescens
+- [[psilocybe-azurescens]] — Pacific Northwest species, highest known psilocybin content
+- [[psilocybe-semilanceata]] — Liberty Cap, cosmopolitan temperate species
+- [[psilocybe-mexicana]] — Original "teonanacatl" from Central Mexico
 
 ## See Also
 

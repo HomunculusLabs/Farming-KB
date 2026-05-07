@@ -130,7 +130,7 @@ Cookie-family terpene profiles (sweet, earthy, bakery-like with gas undertones) 
 - [[cannabis-hashish-guide]]
 - [[cannabis-menopause-research]]
 
-- [[OG Kush]] — legendary parent strain
-- [[Durban Poison]] — pure sativa landrace parent
-- [[Gelato]] — popular GSC descendant
-- [[Blue Dream]] — another benchmark hybrid strain
+- [[og-kush]] — legendary parent strain
+- [[durban-poison]] — pure sativa landrace parent
+- [[gelato]] — popular GSC descendant
+- [[blue-dream]] — another benchmark hybrid strain

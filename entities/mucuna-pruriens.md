@@ -137,7 +137,7 @@ The ecological role of *Mucuna pruriens* in its native and introduced ranges is 
 - [[cover-crop-species-comparison]]
 - [[legume-nitrogen-fixation-mechanism]]
 
-- [[Bufotenin]] — related tryptamine alkaloid found in different plant sources
-- [[Catharanthus roseus]] — another medicinally significant tropical plant with complex alkaloid chemistry
-- [[Withania somnifera]] — Ayurvedic adaptogen herb used alongside *M. pruriens* in traditional formulations
-- [[Fagopyrum esculentum]] — buckwheat, another cover crop with nutritional significance
+- [[bufotenin]] — related tryptamine alkaloid found in different plant sources
+- [[catharanthus-roseus]] — another medicinally significant tropical plant with complex alkaloid chemistry
+- [[withania-somnifera]] — Ayurvedic adaptogen herb used alongside *M. pruriens* in traditional formulations
+- [[fagopyrum-esculentum]] — buckwheat, another cover crop with nutritional significance

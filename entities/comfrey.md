@@ -19,7 +19,8 @@ sources:
   - "Stickel, F. & Seitz, H.K. (2000). The efficacy and safety of comfrey. Phytotherapy Research, 14(7), 503-507."
   - "Hills, L. (1976). Comfrey: Fodder, Food & Remedy. Faber & Faber."
   - "Jefferies, P. et al. (2021). Symphytum as a dynamic accumulator in permaculture systems. Agroecology and Sustainable Food Systems, 45(3), 412-432."
-  - "Navarrete, M. et al. (2019). Comfrey (Symphytum spp.) as a green manure and nutrient source in organic agriculture. Organic Agriculture, 9, 261-271."
+  - "Navarrete, M. et al. (2019). Comfrey (Symphytum spp.) as a green manure and nutrient source in organic agriculture. Organic Agriculture, 9, 261-271."created: 2026-05-07
+
 ---
 
 # Symphytum officinale
@@ -188,10 +189,10 @@ This is the central safety controversy. Comfrey contains unsaturated PAs (primar
 ## See Also
 
 - [[dynamic-accumulators]] — Complete list and nutrient profiles
-- [[permaculture-design-principles]] — Framework for ecological design
+- [[faires-permaculture-ethics-and-design-principles]] — Framework for ecological design
 - [[green-manure-crops]] — Comparison of nutrient-scavenging cover crops
-- [[bocking-14-comfrey]] — Detailed cultivar guide
-- [[pyrrolizidine-alkaloids]] — Chemistry and toxicology of PAs in medicinal plants
-- [[allantoin]] — Wound-healing compound pharmacology
-- [[companion-planting-chart]] — Comprehensive plant guild associations
-- [[organic-liquid-fertilizers]] — Comparative analysis of homemade plant feeds
+- [[comfrey-permaculture]] — Detailed cultivar guide
+- pyrrolizidine alkaloids — Chemistry and toxicology of PAs in medicinal plants
+- allantoin — Wound-healing compound pharmacology
+- [[companion-planting]] — Comprehensive plant guild associations
+- [[fruit-growing-guide-organic]] — Comparative analysis of homemade plant feeds

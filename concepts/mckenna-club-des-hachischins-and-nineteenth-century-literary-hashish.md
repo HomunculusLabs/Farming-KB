@@ -144,6 +144,8 @@ scholarly atmosphere of the Club des Hachischins would never be replicated.
 
 ## See Also
 
+- [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]]
+
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-cannabis-culture-history]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]

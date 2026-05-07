@@ -119,3 +119,7 @@ aware of:
 For honey production from specific forage, see [[honey-varieties-guide]].
 For seasonal management aligned with forage availability, see
 [[beekeeping-seasonal-calendar]].
+
+## See Also
+
+- [[phacelia-tanacetifolia]]

@@ -13,7 +13,7 @@ created: 2026-04-28
 
 ## Overview
 
-Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike [[THC]], CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[endocannabinoid system]] indirectly, interact with numerous non-cannabinoid receptors, and influence gene expression and enzyme activity. Clinical and preclinical research has demonstrated efficacy across neurological disorders, inflammatory conditions, psychiatric illness, and cancer.
+Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike THC, CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[endocannabinoid system]] indirectly, interact with numerous non-cannabinoid receptors, and influence gene expression and enzyme activity. Clinical and preclinical research has demonstrated efficacy across neurological disorders, inflammatory conditions, psychiatric illness, and cancer.
 
 ## Chemical Profile and Pharmacokinetics
 
@@ -120,7 +120,7 @@ The choice of administration route should be guided by the condition being treat
 - [[cannabis-health-cbd-cannabidiol]]
 
 - [[anandamide-and-the-endocannabinoid-system]]
-- [[THC]]
+- THC
 - [[endocannabinoid system]]
 - cannabis
 - [[entourage effect]]

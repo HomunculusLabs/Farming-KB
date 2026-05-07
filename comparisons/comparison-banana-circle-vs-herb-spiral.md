@@ -126,6 +126,8 @@ aesthetic and microclimate advantages of the spiral.
 
 ## See Also
 
+- [[comparison-cavendish-vs-east-african-highland-bananas]]
+
 - [[permaculture-designers-manual-banana-circles]] for construction and species 
 selection
 - [[herb-spiral]] for detailed design and planting guides

@@ -129,6 +129,8 @@ Water-extracted and ethanol-extracted products differ significantly in flavonoid
 
 ## See Also
 
+- [[epimedium-grandiflorum]]
+
 - [[agroforestry]]
 - [[companion-planting]]
 - [[dom]]

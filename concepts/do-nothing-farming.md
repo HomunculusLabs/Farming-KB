@@ -12,7 +12,7 @@ created: 2026-04-28
 # Do Nothing Farming
 
 Do-nothing farming is an agricultural philosophy and methodology developed by
-[[Masanobu Fukuoka]] over more than forty years on his farm in Shikoku, Japan.
+[[masanobu-fukuoka]] over more than forty years on his farm in Shikoku, Japan.
 The approach systematically eliminates unnecessary human interventions: plowing,
 fertilizing, composting, and pesticide use, by working with natural processes
 rather than against them. Fukuoka arrived at the method not by adding techniques
@@ -141,7 +141,7 @@ away from the source leads one astray.
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[no-till agriculture]]
 - [[natural pest control]]
 - [[white clover living mulch]]

@@ -124,6 +124,8 @@ ethnobotanists, chemists, and pharmacologists.
 
 ## See Also
 
+- [[jurema]]
+
 - [[mimosa-hostilis]]
 
 - [[voacanga-africana]]

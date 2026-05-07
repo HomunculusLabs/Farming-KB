@@ -32,7 +32,7 @@ sight in plants.
 
 ## Background: The Phenomenon of Phototropism
 
-[[Phototropism]] is the directional growth response of a plant toward
+[[phototropism]] is the directional growth response of a plant toward
 (positive phototropism) or away from (negative phototropism) a light
 source. Darwin observed this phenomenon ubiquitously, writing: "There
 are extremely few plants, of which some part does not bend towards

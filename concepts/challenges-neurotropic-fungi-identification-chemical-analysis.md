@@ -17,7 +17,7 @@ The study of neurotropic fungi faces methodological obstacles that pervade every
 
 The most pervasive problem in neurotropic fungal chemistry is the misidentification of specimens subjected to chemical analysis. This issue has profound consequences: a chemical analysis attributed to the wrong species creates false data that propagates through subsequent reviews and databases for decades. Several specific cases illustrate the severity of this problem:
 
-### The [[Psilocybe zapotecorum]] Complex
+### The [[psilocybe-zapotecorum]] Complex
 
 Multiple chemical studies have been published on "Psilocybe zapotecorum" specimens that were subsequently determined to represent different species within the Section Zapotecorum complex. This section contains numerous morphologically similar species that can be reliably distinguished only by microscopic examination of spore morphology, pleurocystidia shape, and cheilocystidia characteristics. Without proper taxonomic verification by a specialist, chemical studies of this complex may attribute results to the wrong species.
 
@@ -25,10 +25,10 @@ Multiple chemical studies have been published on "Psilocybe zapotecorum" specime
 
 Several pairs of neurotropic species are so morphologically similar that even experienced mycologists may confuse them in the field:
 
-- [[Psilocybe cyanescens]] and [[Psilocybe serbica]] (or [[Psilocybe bohemica]]) — both belong to Section Cyanescens, both bruise vividly blue, and both grow on wood. The European [[Psilocybe serbica]] was long confused with the North American [[Psilocybe cyanescens]]. Chemical studies that do not distinguish between these species may conflate their alkaloid profiles.
-- [[Psilocybe semilanceata]] and non-bluing [[Psilocybe]] species — the liberty cap is distinctive but small specimens may be confused with other [[Psilocybe]] species that do not contain psilocybin.
-- [[Panaeolus subbalteatus]] and [[Panaeolus papilionaceus]] — both are common dung-inhabiting species and are frequently confused, despite only one being confirmed to contain indole alkaloids.
-- [[Amanita muscaria]] varieties — the [[Amanita muscaria]] complex contains numerous subspecies and varieties (muscaria, americana, flavivolvata, kamtschatica, alba, formosa, persicina) that may differ in their chemical profiles but are frequently lumped together in chemical studies.
+- [[psilocybe-cyanescens]] and [[psilocybe-serbica]] (or [[psilocybe-bohemica]]) — both belong to Section Cyanescens, both bruise vividly blue, and both grow on wood. The European [[psilocybe-serbica]] was long confused with the North American [[psilocybe-cyanescens]]. Chemical studies that do not distinguish between these species may conflate their alkaloid profiles.
+- [[psilocybe-semilanceata]] and non-bluing Psilocybe species — the liberty cap is distinctive but small specimens may be confused with other Psilocybe species that do not contain psilocybin.
+- [[panaeolus-subbalteatus]] and [[panaeolus-papilionaceus]] — both are common dung-inhabiting species and are frequently confused, despite only one being confirmed to contain indole alkaloids.
+- [[amanita-muscaria]] varieties — the [[amanita-muscaria]] complex contains numerous subspecies and varieties (muscaria, americana, flavivolvata, kamtschatica, alba, formosa, persicina) that may differ in their chemical profiles but are frequently lumped together in chemical studies.
 
 ## Psilocybin Degradation to Psilocin
 
@@ -54,13 +54,13 @@ This problem is particularly severe for older studies from the 1960s-1970s, when
 
 Even when specimens are correctly identified and properly preserved, different analytical methods can yield contradictory results for the same species:
 
-### [[Psilocybe cubensis]] Variability
+### [[psilocybe-cubensis]] Variability
 
-Chemical analyses of [[Psilocybe cubensis]] from different geographical locations and at different developmental stages have shown enormous variation in alkaloid content. Reports range from 0.01% to over 1.0% total indole alkaloids. Some of this variation is genuine (reflecting genetic and environmental factors), but some results are clearly artifacts of methodology.
+Chemical analyses of [[psilocybe-cubensis]] from different geographical locations and at different developmental stages have shown enormous variation in alkaloid content. Reports range from 0.01% to over 1.0% total indole alkaloids. Some of this variation is genuine (reflecting genetic and environmental factors), but some results are clearly artifacts of methodology.
 
-### [[Gymnopilus]] Species
+### Gymnopilus Species
 
-The genus [[Gymnopilus]] presents particularly difficult analytical challenges. Several [[Gymnopilus]] species have been reported to contain psilocybin, but results are inconsistent. [[Gymnopilus spectabilis]], one of the most widely distributed neurotropic [[Gymnopilus]] species, has been reported both positive and negative for psilocybin depending on the study. The orange-to-red pigments characteristic of the genus may interfere with colorimetric and spectrophotometric analytical methods, producing false positives or false negatives.
+The genus Gymnopilus presents particularly difficult analytical challenges. Several Gymnopilus species have been reported to contain psilocybin, but results are inconsistent. [[gymnopilus-spectabilis]], one of the most widely distributed neurotropic Gymnopilus species, has been reported both positive and negative for psilocybin depending on the study. The orange-to-red pigments characteristic of the genus may interfere with colorimetric and spectrophotometric analytical methods, producing false positives or false negatives.
 
 ### Baeocystin and Norbaeocystin
 
@@ -80,18 +80,18 @@ The choice of analytical method significantly affects the reliability and compar
 The taxonomy of neurotropic fungi is in active flux, creating additional complications for interpreting chemical and distributional data:
 
 - Species names change as taxonomic revisions are published. A chemical analysis published under one name may need to be reinterpreted under a different name.
-- The circumscription of [[Psilocybe]] itself varies among authorities. Some European authors recognize [[Psilocybe coprinifacies]] as distinct from [[Psilocybe cyanescens]], while others consider them synonymous. This affects whether chemical analyses attributed to one name should be associated with the other.
-- Molecular phylogenetic studies have revealed that morphologically defined sections within [[Psilocybe]] may not correspond to natural evolutionary groups. As DNA-based taxonomy progresses, many current species concepts will likely be revised.
-- The exclusion of Section Chrysocystidiatae from [[Psilocybe]] (as followed by Guzmán, 1983) versus its inclusion (as in some other treatments) affects species counts and distributional data.
+- The circumscription of Psilocybe itself varies among authorities. Some European authors recognize Psilocybe coprinifacies as distinct from [[psilocybe-cyanescens]], while others consider them synonymous. This affects whether chemical analyses attributed to one name should be associated with the other.
+- Molecular phylogenetic studies have revealed that morphologically defined sections within Psilocybe may not correspond to natural evolutionary groups. As DNA-based taxonomy progresses, many current species concepts will likely be revised.
+- The exclusion of Section Chrysocystidiatae from Psilocybe (as followed by Guzmán, 1983) versus its inclusion (as in some other treatments) affects species counts and distributional data.
 
 ## Geographic Gaps and Sampling Bias
 
 Gartz (1996) observed that "the mushrooms occur in abundance wherever mycologists abound." This principle applies with particular force to neurotropic fungi:
 
-- **No records from major regions**: Southeastern Russia, Mongolia, Arabia, Turkey, Korea, Malaysia (except Java and Sumatra), and large parts of Africa have no documented neurotropic [[Psilocybe]] species despite suitable habitat.
+- **No records from major regions**: Southeastern Russia, Mongolia, Arabia, Turkey, Korea, Malaysia (except Java and Sumatra), and large parts of Africa have no documented neurotropic Psilocybe species despite suitable habitat.
 - **Collector bias**: Mycologists tend to collect in accessible, well-preserved habitats near research institutions. Remote tropical forests, which likely harbor the greatest diversity, are vastly undersampled.
 - **Publication bias**: Neurotropic fungi may be undercollected by professional mycologists due to legal restrictions or institutional policies, creating a systematic bias in distributional data.
-- **Mueller and Halling (1995)** published a major analysis of Neotropical agaric biodiversity that completely omitted all [[Psilocybe]] species, demonstrating that even comprehensive mycological surveys may overlook this genus.
+- **Mueller and Halling (1995)** published a major analysis of Neotropical agaric biodiversity that completely omitted all Psilocybe species, demonstrating that even comprehensive mycological surveys may overlook this genus.
 
 ## Recommendations for Future Research
 
@@ -110,15 +110,15 @@ Based on the challenges identified in this survey, rigorous future studies of ne
 
 The survey explicitly excluded several species that had been reported as neurotropic in the literature based on unreliable evidence:
 
-- **[[Psilocybe atrobrunnea]]** — excluded because chemical analyses were based on misidentified material; subsequent re-examination showed the species lacks bluing reaction and does not belong to a neurotropic section
-- **[[Psilocybe pseudobullacea]]** — excluded due to taxonomic uncertainty; the original description was based on insufficient material
-- **[[Psilocybe lazoi]]** — considered a doubtful species by Singer (1986), who treated it as non-bluing and independent of [[Psilocybe zapotecorum]]; the holotype material is too degraded for definitive chemical analysis
-- **[[Psathyrella sepulchralis]]** — excluded because reported neurotropic activity could not be confirmed; the original report was based on field observation rather than chemical analysis
-- **[[Panaeolus antillarum]]** — excluded due to contradictory chemical results and possible confusion with [[Panaeolus subbalteatus]]
+- **[[psilocybe-atrobrunnea]]** — excluded because chemical analyses were based on misidentified material; subsequent re-examination showed the species lacks bluing reaction and does not belong to a neurotropic section
+- **Psilocybe pseudobullacea** — excluded due to taxonomic uncertainty; the original description was based on insufficient material
+- **Psilocybe lazoi** — considered a doubtful species by Singer (1986), who treated it as non-bluing and independent of [[psilocybe-zapotecorum]]; the holotype material is too degraded for definitive chemical analysis
+- **Psathyrella sepulchralis** — excluded because reported neurotropic activity could not be confirmed; the original report was based on field observation rather than chemical analysis
+- **Panaeolus antillarum** — excluded due to contradictory chemical results and possible confusion with [[panaeolus-subbalteatus]]
 
-### The [[Psilocybe bohemica]] vs [[Psilocybe cyanescens]] Problem
+### The [[psilocybe-bohemica]] vs [[psilocybe-cyanescens]] Problem
 
-The European species [[Psilocybe bohemica]] (later treated as [[Psilocybe serbica]]) has a particularly contentious taxonomic history. Originally described from Czechoslovakia, it was long considered a synonym or variety of the North American [[Psilocybe cyanescens]]. Chemical studies conducted before the species were clearly distinguished attributed results to one name or the other inconsistently. This problem affects dozens of published chemical analyses and demonstrates how taxonomic uncertainty propagates through the chemical literature.
+The European species [[psilocybe-bohemica]] (later treated as [[psilocybe-serbica]]) has a particularly contentious taxonomic history. Originally described from Czechoslovakia, it was long considered a synonym or variety of the North American [[psilocybe-cyanescens]]. Chemical studies conducted before the species were clearly distinguished attributed results to one name or the other inconsistently. This problem affects dozens of published chemical analyses and demonstrates how taxonomic uncertainty propagates through the chemical literature.
 
 ### Geographic Origin Verification
 
@@ -131,7 +131,7 @@ Molecular phylogenetic methods offer the most promising path forward for resolvi
 - Verify species identifications independently of morphological characters, catching misidentifications that would otherwise corrupt chemical data
 - Reveal cryptic species that are morphologically identical but genetically distinct, potentially explaining contradictory chemical results for the "same" species
 - Reconstruct historical biogeographical patterns by estimating divergence times and ancestral distributions
-- Test the monophyly of morphologically defined sections within [[Psilocybe]] and other genera
+- Test the monophyly of morphologically defined sections within Psilocybe and other genera
 
 However, molecular phylogenetic studies of neurotropic fungi face their own challenges: many type specimens are too old for DNA extraction, many species are known from only one or a few collections (insufficient for population-level sampling), and the legal status of these fungi in many countries restricts the collection of fresh material for molecular work. Despite these obstacles, the application of molecular methods has already begun to revolutionize our understanding of neurotropic fungal systematics.
 

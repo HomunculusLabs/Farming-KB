@@ -112,6 +112,8 @@ Slug damage is the most frequently reported pest issue. Create a barrier of diat
 
 ## Related
 
+- [[query-how-do-i-grow-edible-flowers-in-a-permaculture-garden]]
+
 - [[stropharia-hornemannii]] Questions
 - [[query-how-to-grow-wine-cap-mushrooms]]
 - [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]

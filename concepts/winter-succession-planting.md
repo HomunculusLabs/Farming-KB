@@ -13,7 +13,7 @@ created: 2026-04-28
 
 Winter succession planting is the practice of scheduling repeated sowings of
 cold-hardy crops from early August through late fall to maintain continuous
-harvest through winter. Developed as part of [[Eliot Coleman]]'s winter-harvest
+harvest through winter. Developed as part of [[eliot-coleman]]'s winter-harvest
 system at Four Season Farm in Harborside, Maine, the technique accounts for the
 reversed seasonal dynamics of decreasing day length and cooling temperatures
 that make fall planting fundamentally different from spring planting. It is the
@@ -147,4 +147,4 @@ intensive winter production are universally applicable.
 - [[unheated greenhouse winter harvest]]
 - [[season extension]]
 - [[parisian market gardening]]
-- [[Eliot Coleman]]
+- [[eliot-coleman]]

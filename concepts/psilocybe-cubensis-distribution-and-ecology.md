@@ -150,7 +150,7 @@ coprophilous habit and represent a distinct ecological group within the genus.
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[mushroom-cultivation-basics]]
 
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybe Diversity in Mexico]]
-- [[Psilocybin and Indole Alkaloid Chemistry in Fungi]]
-- [[Sacred Mushroom Traditions in Mexico]]
+- [[neurotropic-fungi-classification]]
+- [[psilocybe-diversity-in-mexico]]
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
+- [[sacred-mushroom-traditions-in-mexico]]

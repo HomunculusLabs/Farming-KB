@@ -13,13 +13,13 @@ type: concept
 
 ## Overview
 
-Grass seed serves as an effective substrate for the cultivation of several [[Psilocybe]] species and related mushrooms. This method, documented in a practical cultivation guide, enables growers to produce both fruit bodies (mushrooms) and sclerotia (truffle-like underground storage structures) on sterilised grass seed. The technique is applicable to [[Psilocybe mexicana]], [[Psilocybe tampanensis]], [[Psilocybe cubensis]], and [[Panaeolus subbalteatus]].
+Grass seed serves as an effective substrate for the cultivation of several Psilocybe species and related mushrooms. This method, documented in a practical cultivation guide, enables growers to produce both fruit bodies (mushrooms) and sclerotia (truffle-like underground storage structures) on sterilised grass seed. The technique is applicable to [[psilocybe-mexicana]], [[psilocybe-tampanensis]], [[psilocybe-cubensis]], and [[panaeolus-subbalteatus]].
 
 ## Substrate Preparation
 
 ### Seed Selection
 
-The most commonly used seed is rye grass ([[Lolium perenne]]), though mixtures of different grass species also work well. The critical requirement is that the seed must not be treated with fungicides. Seed treated with fungicides is typically labeled as such on the packaging. Unexpensive seed can often be sourced from animal feed stores where it is sold as bird feed.
+The most commonly used seed is rye grass (Lolium perenne), though mixtures of different grass species also work well. The critical requirement is that the seed must not be treated with fungicides. Seed treated with fungicides is typically labeled as such on the packaging. Unexpensive seed can often be sourced from animal feed stores where it is sold as bird feed.
 
 ### Formula for 720 ml Jars
 
@@ -102,7 +102,7 @@ Simple clear plastic bins covered with polyethylene sheeting serve as effective 
 
 ### Cold Shock
 
-Harder-to-fruit strains benefit from cold shocking: placing trays in a refrigerator overnight before introducing fruiting conditions. Easy strains such as Ecuador [[psilocybe-cubensis]] do not require this treatment. [[Psilocybe mexicana]], [[Psilocybe tampanensis]], and [[Panaeolus subbalteatus]] do not benefit from cold shocking.
+Harder-to-fruit strains benefit from cold shocking: placing trays in a refrigerator overnight before introducing fruiting conditions. Easy strains such as Ecuador [[psilocybe-cubensis]] do not require this treatment. [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] do not benefit from cold shocking.
 
 ### Watering Regimen
 
@@ -121,7 +121,7 @@ Dead pinheads (aborts) should be removed promptly from the casing surface as the
 
 ## Sclerotia Production
 
-The mycelium of [[Psilocybe tampanensis]] and [[Psilocybe mexicana]] can produce sclerotia directly within the colonisation jar, without casing. Sclerotia continue to enlarge for up to 4 months after inoculation. Jars should be kept in a clean, preferably dark location. Sclerotia of these species also form within the casing layer of cased trays, meaning both mushrooms and sclerotia can be harvested from the same culture.
+The mycelium of [[psilocybe-tampanensis]] and [[psilocybe-mexicana]] can produce sclerotia directly within the colonisation jar, without casing. Sclerotia continue to enlarge for up to 4 months after inoculation. Jars should be kept in a clean, preferably dark location. Sclerotia of these species also form within the casing layer of cased trays, meaning both mushrooms and sclerotia can be harvested from the same culture.
 
 ## See Also
 
@@ -131,8 +131,8 @@ The mycelium of [[Psilocybe tampanensis]] and [[Psilocybe mexicana]] can produce
 - [[grass-seed-mushroom-cultivation]]
 - [[mollison-tropical-pasture-grass-species-selection-and-management]]
 
-- [[Psilocybe mexicana]]
-- [[Psilocybe tampanensis]]
-- [[Sclerotia Formation in Fungi]]
-- [[Mushroom Casing Soil Preparation]]
-- [[Sterilisation Techniques for Mushroom Cultivation]]
+- [[psilocybe-mexicana]]
+- [[psilocybe-tampanensis]]
+- Sclerotia Formation in Fungi
+- Mushroom Casing Soil Preparation
+- Sterilisation Techniques for Mushroom Cultivation

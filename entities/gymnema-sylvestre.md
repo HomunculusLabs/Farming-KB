@@ -147,9 +147,9 @@ Gurmarin extracts for sweet suppression: 500 mg before meals.
 - [[dom]]
 - [[stigmasterol]]
 
-- [[Swertia chirata]]
-- [[Tinospora cordifolia]]
-- [[Andrographis paniculata]]
-- [[Momordica charantia]]
-- [[Trigonella foenum-graecum]]
-- [[Piper nigrum]]
+- [[swertia-chirata]]
+- [[tinospora-cordifolia]]
+- [[andrographis-paniculata]]
+- Momordica charantia
+- [[trigonella-foenum-graecum]]
+- [[piper-nigrum]]

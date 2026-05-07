@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-There are more than 100 known species of hallucinogenic mushrooms, with the vast majority belonging to the genus [[Psilocybe]]. Accurate identification is critical both for foragers seeking psychoactive species and for harm reduction, as psilocybin-containing mushrooms are easily confused with non-psychoactive, inedible, or poisonous species. The complexity of mycological classification, combined with the different chemical profiles of various species, makes this a domain requiring careful study.
+There are more than 100 known species of hallucinogenic mushrooms, with the vast majority belonging to the genus Psilocybe. Accurate identification is critical both for foragers seeking psychoactive species and for harm reduction, as psilocybin-containing mushrooms are easily confused with non-psychoactive, inedible, or poisonous species. The complexity of mycological classification, combined with the different chemical profiles of various species, makes this a domain requiring careful study.
 
 ## Taxonomic Families
 
@@ -26,12 +26,12 @@ Psilocybin-containing fungi are distributed across several families:
 
 | Family | Genera | Notable Species |
 |--------|--------|----------------|
-| Strophariaceae | [[Psilocybe]] | P. cubensis, P. semilanceata, P. cyanescens |
-| Bolbitiaceae | [[Conocybe]] | C. smithii, C. cyanopus |
-| Coprinaceae | [[Copelandia]], [[Panaeolus]] | C. cyanescens, P. subbalteatus |
-| Cortinariaceae | [[Inocybe]] | I. aeruginascens, I. corydalina |
+| Strophariaceae | Psilocybe | P. cubensis, P. semilanceata, P. cyanescens |
+| Bolbitiaceae | Conocybe | C. smithii, C. cyanopus |
+| Coprinaceae | Copelandia, Panaeolus | C. cyanescens, P. subbalteatus |
+| Cortinariaceae | Inocybe | I. aeruginascens, I. corydalina |
 
-The genus [[Psilocybe]] is by far the most significant in terms of recreational use, followed by [[Panaeolus]]. The list of species and their geographical distributions is constantly revised by mycologists as taxonomic methods improve.
+The genus Psilocybe is by far the most significant in terms of recreational use, followed by Panaeolus. The list of species and their geographical distributions is constantly revised by mycologists as taxonomic methods improve.
 
 ## Most Common Recreational Species
 
@@ -45,7 +45,7 @@ This is the most commonly cultivated and marketed species worldwide. It is not n
 - Amazonian
 - Ecuadorian
 
-[[Psilocybe cubensis]] typically contains up to approximately 0.6% psilocybin and psilocin combined by dry weight, making it moderate in potency compared to some other species.
+[[psilocybe-cubensis]] typically contains up to approximately 0.6% psilocybin and psilocin combined by dry weight, making it moderate in potency compared to some other species.
 
 ### Psilocybe semilanceata (Liberty Caps)
 
@@ -53,7 +53,7 @@ This is the most common wild hallucinogenic mushroom in Europe. It is found thro
 
 ### Psilocybe cyanescens (Wavy Caps)
 
-Another European species, [[Psilocybe cyanescens]] is known for its wavy cap margin and relatively high potency. It is found in woodchip mulch, gardens, and similar disturbed habitats in temperate regions.
+Another European species, [[psilocybe-cyanescens]] is known for its wavy cap margin and relatively high potency. It is found in woodchip mulch, gardens, and similar disturbed habitats in temperate regions.
 
 ### Psilocybe mexicana and Psilocybe tampanensis (Truffles)
 
@@ -61,15 +61,15 @@ These species are notable for forming **sclerotia** rather than (or in addition 
 
 ### Psilocybe bohemica and Psilocybe moravica
 
-These species have been particularly reported growing in the Czech Republic. [[Psilocybe bohemica]] is among the higher-potency species documented. They represent part of the diverse European psilocybin mushroom flora that continues to be revised as mycologists refine species classifications using modern molecular techniques.
+These species have been particularly reported growing in the Czech Republic. [[psilocybe-bohemica]] is among the higher-potency species documented. They represent part of the diverse European psilocybin mushroom flora that continues to be revised as mycologists refine species classifications using modern molecular techniques.
 
 ### Copelandia cyanescens
 
-Also known as [[Panaeolus cyanescens]], this tropical and subtropical species is among the most potent psilocybin-containing mushrooms. It is not native to Europe but is cultivated and sold commercially through smartshops and online retailers. Its higher potency means smaller quantities are needed for psychoactive effects compared to [[Psilocybe cubensis]].
+Also known as [[panaeolus-cyanescens]], this tropical and subtropical species is among the most potent psilocybin-containing mushrooms. It is not native to Europe but is cultivated and sold commercially through smartshops and online retailers. Its higher potency means smaller quantities are needed for psychoactive effects compared to [[psilocybe-cubensis]].
 
 ### Psilocybe azurescens
 
-Known for very high potency, [[Psilocybe azurescens]] is native to the Pacific Northwest of North America. It is one of the most potent psilocybin-containing mushrooms known.
+Known for very high potency, [[psilocybe-azurescens]] is native to the Pacific Northwest of North America. It is one of the most potent psilocybin-containing mushrooms known.
 
 ## Key Identification Feature: Blue Bruising
 
@@ -85,7 +85,7 @@ Nearly all psilocybin-containing mushrooms share a similar general appearance th
 - **Gills:** Usually darkening to purplish-brown or black with spore maturity
 - **Spore print:** Dark purple-brown to nearly black
 
-This generic appearance means they can be mistaken for numerous species of [[Mycena]], [[Galerina]] (some of which are deadly poisonous, containing amatoxins), [[Inocybe]], [[Hebeloma]], and other small brown mushrooms found in similar habitats. The consequences of misidentification range from an unpleasant but harmless experience (non-psychoactive species) to potentially fatal poisoning (amatoxin-containing species).
+This generic appearance means they can be mistaken for numerous species of Mycena, Galerina (some of which are deadly poisonous, containing amatoxins), Inocybe, Hebeloma, and other small brown mushrooms found in similar habitats. The consequences of misidentification range from an unpleasant but harmless experience (non-psychoactive species) to potentially fatal poisoning (amatoxin-containing species).
 
 ## European Distribution
 
@@ -96,11 +96,11 @@ A variety of psilocybin-containing mushroom species grow wild in Europe, found p
 - Woodchip mulch and garden beds
 - Dung-enriched grasslands
 
-The most commonly encountered wild species in Europe is [[Psilocybe semilanceata]], with [[Psilocybe cyanescens]] also widespread in appropriate habitats.
+The most commonly encountered wild species in Europe is [[psilocybe-semilanceata]], with [[psilocybe-cyanescens]] also widespread in appropriate habitats.
 
 ## Dangers of Misidentification
 
-The risk of misidentification is one of the most significant health concerns associated with foraging for hallucinogenic mushrooms. Mushrooms of the genus [[Galerina]], particularly [[Galerina marginata]], contain the same deadly amatoxins found in the death cap ([[Amanita phalloides]]) and can be fatal if consumed. These species can grow in the same habitats as psilocybin mushrooms and share a similar small brown appearance.
+The risk of misidentification is one of the most significant health concerns associated with foraging for hallucinogenic mushrooms. Mushrooms of the genus Galerina, particularly [[galerina-marginata]], contain the same deadly amatoxins found in the death cap ([[amanita-phalloides]]) and can be fatal if consumed. These species can grow in the same habitats as psilocybin mushrooms and share a similar small brown appearance.
 
 This risk is one of the factors that limits the number of people willing to forage for wild hallucinogenic mushrooms, and it partially accounts for the predominance of cultivated mushrooms in commercial markets. The knowledge and experience required for safe identification serve as a natural barrier to casual experimentation with wild specimens.
 
@@ -112,7 +112,7 @@ Commercially, spore prints and spore syringes are sold for cultivation purposes.
 
 ## Commercially Marketed Species
 
-The species most commonly sold through smartshops and online retailers are [[Psilocybe cubensis]] varieties. None of the commonly marketed cubensis varieties are reported to grow wild in Europe, which means virtually all commercially available psilocybin mushrooms are deliberately cultivated rather than wild-harvested. Other marketed products include sclerotia of [[Psilocybe mexicana]] and growkits for home cultivation.
+The species most commonly sold through smartshops and online retailers are [[psilocybe-cubensis]] varieties. None of the commonly marketed cubensis varieties are reported to grow wild in Europe, which means virtually all commercially available psilocybin mushrooms are deliberately cultivated rather than wild-harvested. Other marketed products include sclerotia of [[psilocybe-mexicana]] and growkits for home cultivation.
 
 ## See Also
 
@@ -120,6 +120,6 @@ The species most commonly sold through smartshops and online retailers are [[Psi
 - [[copelandia-cyanescens]]
 - [[galerina-marginata]]
 
-- [[Psilocybin and Psilocin Chemistry]]
-- [[Smartshop and Online Mushroom Markets]]
-- [[Dose Effects and Health Risks of Psilocybin Mushrooms]]
+- [[psilocybin-and-psilocin-chemistry]]
+- [[smartshop-and-online-mushroom-markets]]
+- Dose Effects and Health Risks of Psilocybin Mushrooms

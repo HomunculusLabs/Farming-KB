@@ -132,9 +132,9 @@ Damiana is well-suited to warm-climate food forests and permaculture gardens. Dr
 - [[turnera-diffusa-entity]]
 - [[damiana-turnera-diffusa]]
 
-- [[Ashwagandha]] — adaptogenic herb with overlapping nervine and aphrodisiac indications
-- [[Piperine]] — bioavailability enhancer that may potentiate Damiana's flavonoid absorption
-- [[Bacopa monnieri]] — nootropic nervine herb from the Ayurvedic tradition
-- [[Salvia officinalis]] — aromatic Mediterranean herb with nervine and cognitive benefits
-- [[Comfrey]] — traditional medicinal plant with permaculture applications
+- [[ashwagandha]] — adaptogenic herb with overlapping nervine and aphrodisiac indications
+- [[piperine]] — bioavailability enhancer that may potentiate Damiana's flavonoid absorption
+- [[bacopa-monnieri]] — nootropic nervine herb from the Ayurvedic tradition
+- [[salvia-officinalis]] — aromatic Mediterranean herb with nervine and cognitive benefits
+- [[comfrey]] — traditional medicinal plant with permaculture applications
 - [[pausinystalia-yohimbe]]

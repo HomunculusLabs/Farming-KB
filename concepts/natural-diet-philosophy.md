@@ -122,8 +122,8 @@ leads back into discriminating knowledge. Those at the perimeter of
 spiritual enlightenment need not differentiate between plants or
 animals; all may become exquisite fare. Only man, having alienated
 himself from nature, cannot partake directly of its bounty.
-See also: [[Natural Farming]], [[Do Nothing Farming]],
-[[Clay Pellet Seed Encapsulation]]
+See also: [[natural-farming]], [[do-nothing-farming]],
+[[clay-pellet-seed-encapsulation]]
 
 ## See Also
 

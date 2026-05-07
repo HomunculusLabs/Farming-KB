@@ -147,7 +147,7 @@ Vines die back to ground in zones 5–7 and regrow from rootstock. Requires trel
 - [[passiflora-incarnata]]
 - [[passionflower-growing-guide]]
 
-- [[Valeriana officinalis]] — Valerian, commonly combined for sleep
-- [[Melissa officinalis]] — Lemon balm, complementary GABAergic herb
-- [[Scutellaria lateriflora]] — Skullcap, complementary nervine
-- [[Withania somnifera]] — Ashwagandha, adaptogenic anxiolytic
+- [[valeriana-officinalis]] — Valerian, commonly combined for sleep
+- [[melissa-officinalis]] — Lemon balm, complementary GABAergic herb
+- [[scutellaria-lateriflora]] — Skullcap, complementary nervine
+- [[withania-somnifera]] — Ashwagandha, adaptogenic anxiolytic

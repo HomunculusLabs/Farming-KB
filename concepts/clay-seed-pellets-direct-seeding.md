@@ -126,11 +126,11 @@ The clay pellet provides advantages that bare seed cannot: protection from birds
 - [[fukuoka-straw-seed-balls-direct-seeding]]
 
 - [[Fukuoka's Four Principles of Natural Farming]]
-- [[No-Till Agriculture]]
-- [[Desert Revegetation Strategies]]
-- [[Natural Farming vs Scientific Agriculture]]
-- [[Direct-Seeded Rice-Barley Succession]]
-- [[Seed Dormancy and Germination Triggers]]
-- [[Broadcast Seeding Techniques]]
-- [[Happy Hill Rice Variety]]
-- [[Green Manure and Cover Cropping]]
+- [[no-till-agriculture]]
+- Desert Revegetation Strategies
+- [[natural-farming-vs-scientific-agriculture]]
+- Direct-Seeded Rice-Barley Succession
+- Seed Dormancy and Germination Triggers
+- Broadcast Seeding Techniques
+- Happy Hill Rice Variety
+- Green Manure and Cover Cropping

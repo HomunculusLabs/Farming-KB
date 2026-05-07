@@ -130,6 +130,8 @@ environment with remarkable sophistication.
 
 ## See Also
 
+- [[chamovitz-rhodopsin-to-phytochrome-human-plant-photoreception-parallels]]
+
 - [[what-a-plant-knows-plant-vision-and-light-perception]] - Chamovitz
   on plant vision
 - [[plant-tropisms-perception-mechanisms]] - Tropism mechanisms

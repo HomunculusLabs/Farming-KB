@@ -17,7 +17,7 @@ type: concept
 
 # Natural Orchard Management
 
-Natural orchard management is [[Masanobu Fukuoka]]'s approach to establishing and
+Natural orchard management is [[masanobu-fukuoka]]'s approach to establishing and
 maintaining fruit tree orchards without chemical fertilizers, pesticides, pruning,
 tillage, or weeding. The method treats the orchard as a three-dimensional ecosystem
 rather than a monoculture production facility, integrating fruit trees with green manure
@@ -131,7 +131,7 @@ from the start, there should never be any need for pruning.
 - [[fukuoka-natural-orchard-management]]
 - [[natural-farming-soil-management]]
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[natural farming]]
 - [[clay-pellet-seed-balling]]
 - [[three-dimensional farming]]

@@ -90,6 +90,8 @@ Best sliced and sautéed like shiitake. Can be stuffed with shrimp, almonds, and
 
 ## See Also
 
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
+
 - [[maitake-grifola-frondosa]]
 
 - [[casing-layer-preparation]]

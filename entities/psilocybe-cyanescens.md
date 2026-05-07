@@ -151,7 +151,7 @@ Critical identification features distinguishing *P. cyanescens* from look-alikes
 
 ## See Also
 
-- [[Psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
+- [[psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
 - [[psilocybin]] — the primary psychoactive compound
 - [[psilocybin-assisted-therapy]] — clinical applications of psychedelic mushrooms
 - entheogenic fungi — mushrooms used in spiritual and ceremonial contexts

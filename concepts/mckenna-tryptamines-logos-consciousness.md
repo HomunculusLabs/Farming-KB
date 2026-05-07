@@ -111,9 +111,13 @@ The growing field of psychedelic integration therapy also draws on McKenna's ins
 
 ## See Also
 
+- [[hyperspace-logos-consciousness]]
+
+- [[william-james-multiple-forms-of-consciousness]]
+
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 
-- [[DMT-entheogenic-properties]] for pharmacological details on dimethyltryptamine
+- DMT-entheogenic-properties for pharmacological details on dimethyltryptamine
 - [[psilocybin-pharmacology]] for the chemistry and effects of psilocybin
 - [[ayahuasca-preparation-and-ceremony]] for the Amazonian DMT-containing preparation
 - [[psychedelic-mushroom-decriminalization]] for broader discussions of hallucinogen-induced experiences

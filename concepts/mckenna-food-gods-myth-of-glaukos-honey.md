@@ -84,6 +84,8 @@ McKenna acknowledges that "we may never know with certainty the role that halluc
 
 ## See Also
 
+- [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]
+
 - [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 - [[mckenna-food-gods-mead-honey-dionysian]]
 - [[mckenna-food-gods-soma-vedic-enigma]]

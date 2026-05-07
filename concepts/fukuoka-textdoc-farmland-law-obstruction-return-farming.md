@@ -137,9 +137,9 @@ water and sewage lines would not be needed, and the problem of pollution
 
 - [[Farming for All: A Quarter-Acre Vision]]
 - [[Road Back to Farming: Obstacles and Illusions]]
-- [[Mu Economics and the Economics of Natural Farming]]
-- [[Creating True People on the Do-Nothing Road]]
-- [[Decentralized Self-Sufficient Communities]]
+- Mu Economics and the Economics of Natural Farming
+- Creating True People on the Do-Nothing Road
+- Decentralized Self-Sufficient Communities
 
 ## See Also
 

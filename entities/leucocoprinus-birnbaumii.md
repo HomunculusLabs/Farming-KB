@@ -137,5 +137,5 @@ For indoor gardeners encountering *L. birnbaumii*:
 - [[lepiota-procera]]
 - [[mucor-piriformis]]
 - [[mycelium]]
-- [[Trichoderma]]
-- [[Mycorrhiza]]
+- [[trichoderma]]
+- [[mycorrhiza]]

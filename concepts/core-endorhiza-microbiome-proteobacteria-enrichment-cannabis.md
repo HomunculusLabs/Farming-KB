@@ -22,8 +22,8 @@ type: concept
 The root-associated bacterial communities of Cannabis, particularly the
 endorhiza (bacteria colonizing root tissue), are characterized by a
 dramatic shift in phylum-level composition compared to surrounding soil,
-with [[Proteobacteria]] strongly enriched at the expense of
-[[Acidobacteria]]. This shift follows patterns governed by the two-tier
+with Proteobacteria strongly enriched at the expense of
+Acidobacteria. This shift follows patterns governed by the two-tier
 selection model and reveals a conserved core endorhiza community shared
 across Cannabis cultivars.
 
@@ -64,12 +64,12 @@ endorhiza showed rho of 0.63, and bulk soil to endorhiza showed rho of
 Despite cultivar-specific differences, all Cannabis endorhiza samples
 maintained a conserved core community of bacterial taxa:
 
-- **[[Pseudomonas]]** (Gammaproteobacteria): Among the most prevalent
+- **[[pseudomonas]]** (Gammaproteobacteria): Among the most prevalent
   genera, Pseudomonas species are plant growth-promoting
   rhizobacteria producing phytohormones, siderophores, and
   antimicrobial compounds.
 
-- **[[Cellvibrio]]** (Gammaproteobacteria): An aerobic cellulolytic
+- **Cellvibrio** (Gammaproteobacteria): An aerobic cellulolytic
   bacterium not typically classified as an endophyte. Its consistent
   presence may relate to Cannabis fibrous composition and cellulose-
   derived carbon within root tissue.
@@ -97,11 +97,11 @@ Significant cultivar differences were composed mostly of Proteobacteria
 from orders Pseudomonadales, Burkholderiales, Sphingomonadales, and
 Rhizobiales. Two notable associations:
 
-- **[[Methylophilus]]** explained significant cultivar effect (FDR p =
+- **Methylophilus** explained significant cultivar effect (FDR p =
   0.012), comprising 13% of Bookoo Kush endorhiza community, 0.13% in
   Burmese, and was absent from Sour Diesel.
 
-- **[[Sphingomonas wittichii]]** showed prevalence in Maui Wowie. It
+- **Sphingomonas wittichii** showed prevalence in Maui Wowie. It
   can metabolize phenazine-1-carboxylic acid and has been implicated in
   increased soil survival, potentially conferring pathogen resistance.
 
@@ -146,6 +146,6 @@ data.
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cannabis-rhizosphere-microbiome]] overview
 - [[endorhiza-bacterial-communities]] bacteria and plant root colonization
-- [[Acidobacteria]] ecology and soil distribution
-- [[Proteobacteria]] in plant-associated environments
-- [[Pseudomonas]] as plant growth-promoting bacteria
+- Acidobacteria ecology and soil distribution
+- Proteobacteria in plant-associated environments
+- [[pseudomonas]] as plant growth-promoting bacteria

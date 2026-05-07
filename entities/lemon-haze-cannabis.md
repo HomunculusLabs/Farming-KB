@@ -7,7 +7,8 @@ updated: 2026-04-28
 sources:
   - "Hazekamp A, Tejkalová K, Syrovátková H. Cannabis Reporting. Cannabinoids and Terpenes. CannabiScope, 2016."
   - "ElSohly MA, Slade D. Chemical constituents of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
-  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of cannabis strain reliability. Scientific Reports, 2016."
+  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of cannabis strain reliability. Scientific Reports, 2016."created: 2026-05-07
+
 ---
 
 # Lemon Haze (Cannabis Strain)
@@ -142,7 +143,12 @@ Lemon Haze can be cultivated indoors, outdoors, or in greenhouses. It performs b
 - **Flavor**: Lemon candy with earthy, herbal background; smooth smoke when properly cured
 - **Aftertaste**: Clean citrus with lingering sweetness
 
-## Related Strains
+## Related
+
+- [[cannabis-endocannabinoid-system|cannabis]]
+- [[cannabis-terpene-profiles|terpene]]
+- [[cannabis-terpene-profiles|limonene]]
+- [[cannabis-sativa-indoor-cultivation-techniques|indoor growing]] Strains
 
 - **Super Lemon Haze**: A cross of Lemon Skunk and Super Silver Haze; considered a refinement of the original
 - **Amnesia Haze**: Sativa-dominant haze variety with different terpene profile

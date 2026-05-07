@@ -144,9 +144,9 @@ minimum 4–6 week recovery periods between uses to permit serotonin recovery.
 
 - [[5-APB]]
 - [[5-MeO-DIPT]]
-- [[MDA]]
-- [[MDMA]]
+- MDA
+- [[mdma]]
 - [[6-MeO-THH]]
 - [[2C-B]]
-- [[Mescaline]]
-- [[Benzofuran]]
+- [[mescaline]]
+- Benzofuran

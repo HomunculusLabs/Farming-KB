@@ -147,6 +147,8 @@ Ashwagandha and rhodiola occupy opposite ends of the cultivation spectrum. Ashwa
 
 ## See Also
 
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+
 - [[ashwagandha]]
 
 - [[comparison-shiitake-vs-oyster-cultivation]]

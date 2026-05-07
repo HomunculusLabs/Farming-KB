@@ -29,7 +29,7 @@ sources: []
     20|# DMT Experience Phenomenology and the Cognitive Dissonance of Wonder
     21|
     22|Terence McKenna provided one of the most detailed first-person phenomenological accounts
-    23|of the [[DMT]] experience in his 1983 Esalen lecture "Tryptamine Hallucinogens and
+    23|of the [[dmt]] experience in his 1983 Esalen lecture "Tryptamine Hallucinogens and
     24|Consciousness." His description traces the complete arc of a smoked DMT session, from
     25|onset through the encounter with [[self-transforming machine elves]] to the cognitive
     26|dissonance that arises when the human mind confronts translinguistic objects. This
@@ -37,7 +37,7 @@ sources: []
     30|
     31|## Onset: The First Fifteen Seconds
     32|
-    33|McKenna described the onset of smoked [[DMT]] as beginning approximately fifteen
+    33|McKenna described the onset of smoked [[dmt]] as beginning approximately fifteen
     34|seconds after inhalation. The subject immediately enters a trance state with eyes
     35|closed. The initial auditory phenomena include a sound "like ripping cellophane, like
     36|someone crumpling up plastic film and throwing it away." McKenna's friend suggested
@@ -50,7 +50,7 @@ sources: []
     43|surface of migrating and changing colored forms. At the synaptic level, McKenna
     44|reported, all available bond sites are being occupied, producing a mode shift occurring
     45|over approximately thirty seconds. The rapidity and completeness of this onset
-    46|distinguishes DMT from all other hallucinogens, including [[LSD]] and [[psilocybin]],
+    46|distinguishes DMT from all other hallucinogens, including [[lsd]] and [[psilocybin]],
     47|which build gradually over minutes or hours. The intensity of the onset is one reason
     48|McKenna described DMT as "bastante," Spanish for "enough," meaning so much enough that
     49|it is too much.

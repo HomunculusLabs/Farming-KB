@@ -83,7 +83,9 @@ Make a swale around the drip line of a tree, house, or other appropriate locale:
 2. Look out the window and try to understand your local hydro-cycle
 3. Discuss your observations with others
 
-## Related Concepts
+## Related
+
+- [[cis-haze]] Concepts
 
 - [[pdc-reading-landscape]]
 - [[pdc-climate-design-strategies]]

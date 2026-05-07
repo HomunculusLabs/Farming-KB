@@ -59,7 +59,7 @@ Shamanic healers typically undergo lengthy initiation and training, sometimes la
 
 ### Peyote Ceremonies
 
-The peyote ceremonies of the [[Native American Church]] in North America involve participants sitting on the ground in a circle around a blazing central fire in a tipi. Key features include:
+The peyote ceremonies of the Native American Church in North America involve participants sitting on the ground in a circle around a blazing central fire in a tipi. Key features include:
 
 - Ceremony lasts all night
 - Conducted by a "roadman" with assistance from a drummer, firekeeper, and cedar-man
@@ -162,3 +162,11 @@ While Western [[psychoactive-assisted psychotherapy]] and shamanic entheogenic h
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[icaros-power-songs]]
 - [[plant-teachers-ayahuasca]]
+
+## See Also
+
+- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
+- [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
+- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
+- [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
+- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]

@@ -132,10 +132,10 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 
 - [[contamination-identification-prevention]]
 
-- [[Paul Stamets]] — Pioneer of mycofiltration and mycoremediation
-- [[Stropharia rugosoannulata]] — Wine cap mushroom, primary species for mycofiltration
-- [[Pleurotus ostreatus]] — Oyster mushroom, versatile filtration species
-- [[Trametes versicolor]] — Turkey tail, powerful enzymatic degrader
-- [[Mycoremediation]] — Broader application of fungi for environmental restoration
-- [[Permaculture]] — Design framework integrating mycofiltration
-- [[Bioremediation]] — General biological contamination cleanup approaches
+- [[paul-stamets]] — Pioneer of mycofiltration and mycoremediation
+- [[stropharia-rugosoannulata]] — Wine cap mushroom, primary species for mycofiltration
+- [[pleurotus-ostreatus]] — Oyster mushroom, versatile filtration species
+- [[trametes-versicolor]] — Turkey tail, powerful enzymatic degrader
+- [[mycoremediation]] — Broader application of fungi for environmental restoration
+- [[permaculture]] — Design framework integrating mycofiltration
+- Bioremediation — General biological contamination cleanup approaches

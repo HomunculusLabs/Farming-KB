@@ -104,3 +104,7 @@ temperature in a dark, well-ventilated space preserves maximum potency.
 ## Related Questions
 - [[psilocybe-cubensis]]
 - [[psilocybe-azurescens]]
+
+## See Also
+
+- [[psilocybin-mushroom-extraterrestrial-hypothesis]]

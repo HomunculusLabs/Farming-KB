@@ -147,6 +147,6 @@ return to nothingness.
 ## See Also
 
 - [[energy-efficiency-natural-farming]]
-- [[The Four Principles of Natural Farming]]
+- The Four Principles of Natural Farming
 - [[natural-livestock-farming]]
 - [[clay-pellet-seed-broadcasting]]

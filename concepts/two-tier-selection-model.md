@@ -139,13 +139,13 @@ water as optimal explanatory factors (rho = 0.632).
 
 ## Related Concepts
 
-- [[Cannabis Microbiome]] for the full scope of microbial
+- Cannabis Microbiome for the full scope of microbial
   associations with Cannabis
-- [[Endorhiza]] for the biology of root-colonizing bacteria
-- [[Rhizosphere Ecology]] for broader root-zone microbial dynamics
-- [[Edaphic Factors]] for soil properties shaping microbial
+- Endorhiza for the biology of root-colonizing bacteria
+- [[rhizosphere-ecology]] for broader root-zone microbial dynamics
+- Edaphic Factors for soil properties shaping microbial
   communities
-- [[Cultivar Specificity]] for genetic influences on plant-microbe
+- Cultivar Specificity for genetic influences on plant-microbe
   interactions
 
 ## See Also

@@ -17,7 +17,7 @@ type: concept
 
 # Clay Pellet Seed Balling
 
-Clay pellet seed balling is [[Masanobu Fukuoka]]'s innovative technique for direct
+Clay pellet seed balling is [[masanobu-fukuoka]]'s innovative technique for direct
 seeding without tillage, irrigation, or chemical treatment. By encasing seeds in balls
 of clay-rich earth, the method protects seeds from predation and desiccation while
 creating a favorable micro-ecosystem for germination and early seedling growth.
@@ -138,7 +138,7 @@ clay pellet is merely the minimal assistance needed to let nature take its cours
 - [[natural-farming]]
 - [[natural-orchard-management]]
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[natural farming]]
 - [[direct-seeded no-tillage rice barley succession]]
 - [[microbes as scavengers in natural farming]]

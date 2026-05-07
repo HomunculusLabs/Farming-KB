@@ -110,6 +110,10 @@ Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–60
 
 ## See Also
 
+- [[tuber-brumale]]
+
+- [[pleurotus-flabellatus]]
+
 - [[pleurotus-ostreatus]] — Widely cultivated oyster mushroom, close relative
 - [[pleurotus-eryngii]] — King oyster mushroom, commercially important congener
 - [[beta-glucans]] — Key immunomodulatory polysaccharides found in medicinal fungi

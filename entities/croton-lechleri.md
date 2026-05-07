@@ -124,6 +124,6 @@ recovery periods between tappings.
 - [[mimosa-tenuiflora]]
 - [[uncaria-tomentosa]]
 
-[[Croton]] · [[Euphorbiaceae]] · [[Uncaria tomentosa]] · [[Bixa orellana]] ·
-[[Mimosa tenuiflora]] · [[Piper methysticum]] · [[Tabebuia]] ·
-[[Banisteriopsis caapi]] · [[Chondrodendron tomentosum]] · [[Cinchona]]
+Croton · Euphorbiaceae · [[uncaria-tomentosa]] · Bixa orellana ·
+[[mimosa-tenuiflora]] · [[piper-methysticum]] · Tabebuia ·
+[[banisteriopsis-caapi]] · Chondrodendron tomentosum · Cinchona

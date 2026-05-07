@@ -14,7 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - mckenna_t-food_of_the_gods.md
+  - mckenna_t-food_of_the_gods.mdcreated: 2026-05-07
+type: concept
+
 ---
 
 # Profanation of the Sacrament - From Psilocybin Cult to Alcohol Cult
@@ -122,3 +124,9 @@ The profanation of the sacrament is, in McKenna's view, the central narrative of
 civilization: the story of how humanity lost its original relationship with the vegetable
 mind and substituted for it a culture of domination, competition, and ecological
 destruction.
+
+## See Also
+
+- [[terence-mckenna|McKenna]]
+- [[psilocybin|psilocybin]]
+- [[entheogen-culture|sacrament]]

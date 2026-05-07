@@ -132,6 +132,8 @@ diversity of Psilocybe in Mexico is unmatched globally, reflecting both the
 country's complex topography and its ancient indigenous mushroom traditions.
 ## See Also
 
+- [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
+
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[gartz-global-psilocybin-mushroom-distribution]]

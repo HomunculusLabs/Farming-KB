@@ -137,8 +137,8 @@ Only a recovery of the relationship that humanity evolved with nature through us
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 
 - [[ayahuasca-preparation]]
-- [[Transcendent Other]]
+- Transcendent Other
 - [[partnership and dominator models]]
 - [[psilocybin]]
-- [[Archaic Revival]]
+- Archaic Revival
 - [[indole hallucinogens and human evolution]]

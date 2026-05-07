@@ -163,8 +163,8 @@ Guilds are most commonly applied in **Zones 1 and 2** (home garden and food fore
 - [[query-how-does-companion-planting-work-in-a-food-forest]]
 - [[comparison-companion-planting-vs-crop-rotation]]
 
-- [[Food-Forests]] — Multi-layered perennial polyculture systems built from guild design principles
-- [[Nitrogen-Fixing-Plants]] — Comprehensive list of leguminous and actinorhizal nitrogen fixers
-- [[Dynamic-Accumulators]] — Plants that mine minerals from deep soil layers
-- [[Keyline-Design]] — Water management system that integrates with guild and food forest layout
-- [[Hugelkultur]] — Raised bed technique using woody debris, often planted with companion guilds
+- Food-Forests — Multi-layered perennial polyculture systems built from guild design principles
+- [[nitrogen-fixing-plants]] — Comprehensive list of leguminous and actinorhizal nitrogen fixers
+- [[dynamic-accumulators]] — Plants that mine minerals from deep soil layers
+- [[keyline-design]] — Water management system that integrates with guild and food forest layout
+- [[hugelkultur]] — Raised bed technique using woody debris, often planted with companion guilds

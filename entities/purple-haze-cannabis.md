@@ -141,6 +141,8 @@ of Purple Haze or any cannabis strain are criminal offenses.
 
 ## See Also
 
+- [[lemon-haze-cannabis]]
+
 - [[cannabis-sativa]]
 - [[cannabis-indica]]
 - [[blue-dream]]

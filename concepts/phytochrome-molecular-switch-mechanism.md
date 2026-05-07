@@ -5,7 +5,7 @@ tags: [botany, photobiology, phytochrome, photoreceptors, molecular-biology, red
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 
@@ -145,8 +145,8 @@ importance across over a billion years of evolution.
 - [[daniel-chamovitz]]
 - [[phytochrome-and-plant-light-perception]]
 
-- [[Shade Avoidance Syndrome]] for the ecological application of phytochrome signalling
-- [[Cryptochrome and Blue Light Photoreception]] for the complementary blue light system
-- [[Phytochrome and Plant Light Perception]] for the broader phytochrome overview
-- [[Leaf-Based Photoperiodic Perception]] for phytochrome in leaves regulating flowering
-- [[What a Plant Knows Plant Vision and Light Perception]] for the primary source
+- [[shade-avoidance-syndrome]] for the ecological application of phytochrome signalling
+- [[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system
+- [[phytochrome-and-plant-light-perception]] for the broader phytochrome overview
+- [[leaf-based-photoperiodic-perception]] for phytochrome in leaves regulating flowering
+- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source

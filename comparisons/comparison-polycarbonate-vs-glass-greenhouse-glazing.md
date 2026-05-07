@@ -130,7 +130,7 @@ Polycarbonate is the clear winner on raw 20-year cost. Glass closes the gap in m
 
 ### Polycarbonate Is Best For
 
-- [[Cold frame]] and hoop-house upgrades
+- Cold frame and hoop-house upgrades
 - Homestead and backyard greenhouses in cold climates
 - High-altitude or exposed growing sites
 - Propagation houses where diffuse light is beneficial

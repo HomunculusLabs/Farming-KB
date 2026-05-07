@@ -16,7 +16,9 @@ sources:
   - NCRS Plant Materials Program — USDA Conservation Plant Guides.
   - Holzer, S. (2010). Sepp Holzer's Permaculture. Chelsea Green.
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. 1 & 2. Chelsea Green.
-  - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.
+  - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.created: 2026-05-07
+type: query
+
 ---
 
 # What Are the Best Native Nitrogen-Fixing Plants for Permaculture Food Forests?
@@ -189,8 +191,8 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 
 ## See Also
 
-- [[nitrogen-fixing-plants-and-soil-fertility|Nitrogen-Fixing Plants and Soil Fertility]]
-- [[agroforestry-and-alley-cropping|Agroforestry and Alley Cropping]]
+- [[nitrogen-fixing-plants|Nitrogen-Fixing Plants and Soil Fertility]]
+- [[cover-cropping-guide|Agroforestry and Alley Cropping]]
 - [[cover-crop-quick-reference|Cover Crop Quick Reference]]
 - [[dynamic-accumulator-quick-reference|Dynamic Accumulator Quick Reference]]
-- [[silvopasture-systems-design-and-management|Silvopasture Systems Design]]
+- [[natural-farming-guide-permaculture-design-for-small-holdings|Silvopasture Systems Design]]

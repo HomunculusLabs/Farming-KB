@@ -159,8 +159,8 @@ The taxonomic boundary between Copelandia and Panaeolus has been debated. Ola'h 
 - [[neurotropic-fungi-classification]]
 - [[psilocybin]]
 
-- [[Panaeolus and Panaeolina Genera]]
-- [[Psilocybe Genus Overview]]
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybin Chemistry]]
-- [[Sacred Mushroom Use in Mexico]]
+- Panaeolus and Panaeolina Genera
+- Psilocybe Genus Overview
+- [[neurotropic-fungi-classification]]
+- Psilocybin Chemistry
+- Sacred Mushroom Use in Mexico

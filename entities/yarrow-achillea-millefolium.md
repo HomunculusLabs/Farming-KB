@@ -26,7 +26,7 @@ created: 2026-04-28
 
 ## Overview
 
-[[Yarrow]] is a hardy, aromatic perennial herb in the [[Asteraceae]] family, widely distributed across temperate regions of the Northern Hemisphere. Renowned for its feathery foliage and flat-topped clusters of tiny flowers, yarrow has been used in [[amazonian-medicinal-plants-reference]] for millennia. It is valued equally as a [[medicinal-herb-growing]], a [[permaculture]] companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
+[[yarrow]] is a hardy, aromatic perennial herb in the Asteraceae family, widely distributed across temperate regions of the Northern Hemisphere. Renowned for its feathery foliage and flat-topped clusters of tiny flowers, yarrow has been used in [[amazonian-medicinal-plants-reference]] for millennia. It is valued equally as a [[medicinal-herb-growing]], a [[permaculture]] companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
 
 ## Taxonomy
 
@@ -38,7 +38,7 @@ created: 2026-04-28
 | Clade | Eudicots |
 | Clade | Asterids |
 | Order | Asterales |
-| Family | [[Asteraceae]] |
+| Family | Asteraceae |
 | Tribe | Anthemideae |
 | Genus | *Achillea* |
 | Species | *A. millefolium* |
@@ -59,7 +59,7 @@ Yarrow is native to temperate regions of Europe, Asia (particularly Siberia and 
 
 ### Greek and European Tradition
 
-According to the [[Iliad]], Achilles used yarrow to staunch the wounds of his soldiers during the Trojan War, giving rise to its scientific name and the folk name "soldier's woundwort." In medieval Europe, yarrow was one of the most important herbs in the Anglo-Saxon herbal tradition and was included in the "Nine Herbs Charm." It was commonly used to stop bleeding from cuts and nosebleeds, reduce fever, and treat gastrointestinal complaints. [[Nicholas Culpeper]] recommended it for piles, kidney stones, and menstrual irregularities.
+According to the Iliad, Achilles used yarrow to staunch the wounds of his soldiers during the Trojan War, giving rise to its scientific name and the folk name "soldier's woundwort." In medieval Europe, yarrow was one of the most important herbs in the Anglo-Saxon herbal tradition and was included in the "Nine Herbs Charm." It was commonly used to stop bleeding from cuts and nosebleeds, reduce fever, and treat gastrointestinal complaints. Nicholas Culpeper recommended it for piles, kidney stones, and menstrual irregularities.
 
 ### Chinese Medicine
 
@@ -67,7 +67,7 @@ In [[traditional-Chinese-medicine]], dried yarrow stalks (*shi cao*) were histor
 
 ### Indigenous American Uses
 
-Numerous Native American tribes used yarrow for similar purposes: wound care, digestive aid, headache relief, fever reduction, and as a ceremonial and ritual plant. The [[Navajo]] used it as a ceremonial emetic, while the [[Ojibwe]] applied it to burns and skin eruptions.
+Numerous Native American tribes used yarrow for similar purposes: wound care, digestive aid, headache relief, fever reduction, and as a ceremonial and ritual plant. The Navajo used it as a ceremonial emetic, while the Ojibwe applied it to burns and skin eruptions.
 
 ## Active Compounds
 
@@ -100,7 +100,7 @@ Yarrow is broadly classified as a [[blesching-cannabis-wound-care]] herb, a [[di
 | **Poultice** | Fresh or dried leaves moistened and applied directly | Cuts, abrasions, bruises, nosebleeds |
 | **Salve / ointment** | Infused oil combined with beeswax | Wound healing, rashes, minor burns |
 | **Bath** | Strong infusion added to bathwater | Skin conditions, feverish illness |
-| [[Culinary]] | Young leaves used sparingly in salads and soups | Nutritive tonic, bitter greens |
+| Culinary | Young leaves used sparingly in salads and soups | Nutritive tonic, bitter greens |
 
 ## Permaculture Applications
 
@@ -142,7 +142,7 @@ Yarrow plays an important ecological role in meadow and grassland ecosystems. It
 While yarrow is generally safe when used appropriately, several precautions apply:
 
 - **Pregnancy** — Contraindicated in pregnancy due to uterine-stimulating effects. Traditionally used to stimulate menstrual flow.
-- **Allergy** — Individuals sensitive to plants in the [[Asteraceae]] family (ragweed, chamomile, echinacea) may experience allergic reactions.
+- **Allergy** — Individuals sensitive to plants in the Asteraceae family (ragweed, chamomile, echinacea) may experience allergic reactions.
 - **Bleeding disorders** — Due to its anticoagulant coumarin content, caution is advised for those on blood-thinning medications or with bleeding disorders.
 - **Extended use** — Prolonged internal use may cause photosensitivity in some individuals.
 - **Essential oil** — Yarrow essential oil should not be taken internally and should be diluted before topical application.

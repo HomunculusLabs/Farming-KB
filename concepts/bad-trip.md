@@ -121,9 +121,9 @@ Intermittent and chronic psychotic states resulting from hallucinogenic mushroom
 - [[psychedelic-harm-reduction]]
 - [[psychedelic-integration-practices]] Concepts
 
-- [[Psilocybin]] - the pharmacological agent responsible for bad trips
-- [[Psilocybe cubensis]] - the most commonly consumed species
-- [[Hallucinogenic mushroom market in Europe]] - availability and prevalence patterns
-- [[Amanita muscaria]] - a distinct species with a different risk profile
-- [[Serotonin]] - the neurotransmitter system through which psilocybin acts
-- [[Psilocybe]] - the mushroom genus most commonly associated with bad trips
+- [[psilocybin]] - the pharmacological agent responsible for bad trips
+- [[psilocybe-cubensis]] - the most commonly consumed species
+- [[hallucinogenic-mushroom-market-in-europe]] - availability and prevalence patterns
+- [[amanita-muscaria]] - a distinct species with a different risk profile
+- [[serotonin]] - the neurotransmitter system through which psilocybin acts
+- Psilocybe - the mushroom genus most commonly associated with bad trips

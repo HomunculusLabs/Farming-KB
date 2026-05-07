@@ -52,7 +52,7 @@ Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* co
 
 The species fruits during the rainy season, typically from June through September, coinciding with the monsoon-influenced wet period that triggers fruiting across the Mexican psychedelic mushroom complex. It grows gregariously to subcespitose (in small clusters), often in association with decaying leaf litter, rich humus, and clay-loam soils along forest edges and in partially cleared montane pastures.
 
-Associated vegetation includes [[Pinus oaxacana]], [[Pinus patula]], [[Quercus]] spp., and various montane cloud forest species. The warm, humid microclimate of the Sierra Mazateca — with frequent fog and consistent rainfall during fruiting season — provides ideal conditions.
+Associated vegetation includes Pinus oaxacana, Pinus patula, Quercus spp., and various montane cloud forest species. The warm, humid microclimate of the Sierra Mazateca — with frequent fog and consistent rainfall during fruiting season — provides ideal conditions.
 
 ## Chemistry
 
@@ -60,12 +60,12 @@ Associated vegetation includes [[Pinus oaxacana]], [[Pinus patula]], [[Quercus]]
 
 | Compound | Concentration (dried) | Notes |
 |----------|----------------------|-------|
-| [[Psilocybin]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
-| [[Psilocin]] | 0.05–0.2% | Active metabolite; 4-HO-DMT |
+| [[psilocybin]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
+| [[psilocin]] | 0.05–0.2% | Active metabolite; 4-HO-DMT |
 | Baeocystin | Trace – 0.05% | 4-PO-NMT; minor alkaloid |
 | Norbaeocystin | Trace | NMT derivative |
 
-Total tryptamine content is moderate compared to more potent species like [[Psilocybe azurescens]] or [[Psilocybe bohemica]], producing mild to moderate psychedelic effects at typical doses of 1.5–3 g dried material. The experience profile is consistent with the Mazatec mushroom experience: gentle onset, rich visual and auditory enhancement, emotional introspection, and a contemplative, often spiritual character.
+Total tryptamine content is moderate compared to more potent species like [[psilocybe-azurescens]] or [[psilocybe-bohemica]], producing mild to moderate psychedelic effects at typical doses of 1.5–3 g dried material. The experience profile is consistent with the Mazatec mushroom experience: gentle onset, rich visual and auditory enhancement, emotional introspection, and a contemplative, often spiritual character.
 
 ## Indigenous Use and Cultural Context
 
@@ -116,11 +116,11 @@ The subjective experience profile of *P. huautla* is characterized by Mazatec pr
 
 ## Related Species
 
-- [[Psilocybe mexicana]] — Type species of the genus; smaller, more delicate; also from Oaxaca region
-- [[Psilocybe caerulescens]] — Larger, more robust; widespread in Mexico and the southeastern US
-- [[Psilocybe cubensis]] — Subtropical, dung-inhabiting; the most widely cultivated psilocybin mushroom
-- [[Psilocybe semilanceata]] — Temperate grassland species; "liberty cap"; circumpolar distribution
-- [[Psilocybe azurescens]] — Pacific Northwest species; the most potent known Psilocybe
+- [[psilocybe-mexicana]] — Type species of the genus; smaller, more delicate; also from Oaxaca region
+- [[psilocybe-caerulescens]] — Larger, more robust; widespread in Mexico and the southeastern US
+- [[psilocybe-cubensis]] — Subtropical, dung-inhabiting; the most widely cultivated psilocybin mushroom
+- [[psilocybe-semilanceata]] — Temperate grassland species; "liberty cap"; circumpolar distribution
+- [[psilocybe-azurescens]] — Pacific Northwest species; the most potent known Psilocybe
 
 ## See Also
 

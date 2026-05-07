@@ -126,8 +126,8 @@ GMO has gained significant traction in medical cannabis communities:
 - [[girl-scout-cookies]]
 - [[granddaddy-purple]]
 
-- [[Girl Scout Cookies]] — Foundational parent strain from the Cookie genetic line
-- [[Chemdawg]] — The other parent, contributing diesel pungency and potency
-- [[OG Kush]] — Influential ancestor in the Chemdawg lineage
-- [[Granddaddy Purple]] — Another heavy indica with potent sedating effects
-- [[Caryophyllene]] — Dominant terpene in GMO's profile
+- [[girl-scout-cookies]] — Foundational parent strain from the Cookie genetic line
+- [[chemdawg]] — The other parent, contributing diesel pungency and potency
+- [[og-kush]] — Influential ancestor in the Chemdawg lineage
+- [[granddaddy-purple]] — Another heavy indica with potent sedating effects
+- Caryophyllene — Dominant terpene in GMO's profile

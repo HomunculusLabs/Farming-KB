@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-[[Leonotis leonurus]], commonly known as **Wild Dagga** or **Lion's Tail**, is a robust perennial shrub in the mint family (Lamiaceae) native to southern and eastern [[Africa]]. It is distinguished by its tall, square stems bearing whorls of striking orange to reddish-orange tubular flowers arranged in dense, tiered clusters along the upper stem — a morphology that gives the plant its common name "Lion's Tail" (from the Greek *leon* = lion, *otis* = ear, and the Latin *leonurus* = lion-colored).
+[[leonotis-leonurus]], commonly known as **Wild Dagga** or **Lion's Tail**, is a robust perennial shrub in the mint family (Lamiaceae) native to southern and eastern Africa. It is distinguished by its tall, square stems bearing whorls of striking orange to reddish-orange tubular flowers arranged in dense, tiered clusters along the upper stem — a morphology that gives the plant its common name "Lion's Tail" (from the Greek *leon* = lion, *otis* = ear, and the Latin *leonurus* = lion-colored).
 
 The plant holds a prominent place in African traditional medicine and has gained international attention as a mild psychoactive herb used as a cannabis substitute. The dried flowers and leaves are smoked or brewed as tea, producing relaxing, mildly euphoric effects attributed to the diterpene lactone leonurine and related compounds. Beyond its recreational use, L. leonurus has a rich ethnopharmacological profile encompassing antimicrobial, anti-inflammatory, antidiabetic, and antispasmodic applications.
 
@@ -44,7 +44,7 @@ The plant holds a prominent place in African traditional medicine and has gained
 
 **Key synonyms:** *Phlomis leonurus* L. (1753), *Leonurus leonurus* (L.) R. Br. (1810). The genus *Leonotis* comprises approximately 10 species distributed across Africa and southern Asia, with L. leonurus being the most widely known and cultivated.
 
-The closely related [[Leonotis nepetifolia]] (Klip Dagga) is sometimes confused with L. leonurus but is an annual species with larger, more pendant flower clusters and a generally lower concentration of active compounds.
+The closely related [[leonotis-nepetifolia]] (Klip Dagga) is sometimes confused with L. leonurus but is an annual species with larger, more pendant flower clusters and a generally lower concentration of active compounds.
 
 ## Botanical Description
 
@@ -60,7 +60,7 @@ L. leonurus produces a diverse array of secondary metabolites across several che
 
 ### Diterpene Lactones (Primary Actives)
 - **Leonurine**: The signature compound, a diterpene lactone isolated from the flowers and leaves. Leonurine is considered primarily responsible for the mild psychoactive and relaxant effects. It exhibits monoamine oxidase (MAO) inhibitory activity at moderate concentrations, which may contribute to mood-enhancing effects through neurotransmitter potentiation.
-- **Marrubiin**: A furanolabdane diterpene also found in [[Marrubium vulgare]] (horehound), contributing to the bitter taste and expectorant properties.
+- **Marrubiin**: A furanolabdane diterpene also found in [[marrubium-vulgare]] (horehound), contributing to the bitter taste and expectorant properties.
 - **Pregna-4,20-diene-3,16-dione**: A steroidal compound with reported anti-inflammatory activity.
 
 ### Flavonoids
@@ -85,7 +85,7 @@ L. leonurus has been used extensively across southern and eastern Africa for a w
 - **Fever and malaria**: Leaf infusions used as antipyretic preparations
 - **Internal parasites**: Anthelmintic use among pastoral communities
 
-The Hottentot (Khoekhoe) and Xhosa peoples of [[South Africa]] have particularly well-documented traditions of L. leonurus use, and the plant remains widely sold in traditional medicine markets (muthi shops) throughout the region.
+The Hottentot (Khoekhoe) and Xhosa peoples of South Africa have particularly well-documented traditions of L. leonurus use, and the plant remains widely sold in traditional medicine markets (muthi shops) throughout the region.
 
 ### Psychoactive Use
 

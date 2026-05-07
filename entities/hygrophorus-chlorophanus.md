@@ -131,10 +131,10 @@ forest habitats with established mycorrhizal networks.
 
 - [[hygrophorus-russula]]
 
-- [[Hygrophorus]]
-- [[Hygrophorus-psittacinus]]
-- [[Hygrophorus-hypothejus]]
-- [[Mycorrhiza]]
+- Hygrophorus
+- Hygrophorus-psittacinus
+- Hygrophorus-hypothejus
+- [[mycorrhiza]]
 - [[Picea-abies]]
-- [[Agaricales]]
-- [[Hygrophoraceae]]
+- Agaricales
+- Hygrophoraceae

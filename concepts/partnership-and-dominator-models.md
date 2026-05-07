@@ -147,5 +147,5 @@ The ultimate consequence of this drift is the fatal ennui that now permeates Wes
 - [[stoned ape hypothesis]]
 - [[shamanism as archaic technique of ecstasy]]
 - [[tassili-n-ajjer and the Saharan Eden]]
-- [[Archaic Revival]]
-- [[Transcendent Other]]
+- Archaic Revival
+- Transcendent Other

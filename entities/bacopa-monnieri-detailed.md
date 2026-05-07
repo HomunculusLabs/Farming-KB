@@ -123,10 +123,10 @@ India is the primary commercial producer. Drying in shade preserves bacosides. W
 
 ## Related Species
 
-- [[Centella asiatica]] — Gotu Kola, sometimes also called "Brahmi"
-- [[Bacopa caroliniana]] — North American species, popular aquarium plant
-- [[Withania somnifera]] — Ashwagandha, often combined in Ayurvedic formulations
-- [[Convolvulus pluricaulis]] — Shankhpushpi, another Medhya Rasayana herb
+- [[centella-asiatica]] — Gotu Kola, sometimes also called "Brahmi"
+- Bacopa caroliniana — North American species, popular aquarium plant
+- [[withania-somnifera]] — Ashwagandha, often combined in Ayurvedic formulations
+- [[convolvulus-pluricaulis]] — Shankhpushpi, another Medhya Rasayana herb
 
 ## See Also
 

@@ -25,7 +25,7 @@ The market for hallucinogenic mushrooms in Europe expanded significantly during 
 
 The Netherlands served as the primary hub for the European hallucinogenic mushroom trade. An estimated 120 to 150 smartshops operated in the country, concentrated predominantly in Amsterdam. These shops specialized in psychoactive herbal substances that were legal under Dutch law, alongside vitamins, mineral supplements, and health products.
 
-The Dutch Risk Assessment Report of 2000 estimated that magic mushrooms accounted for approximately 50% of smartshop turnover. The types most commonly sold were [[Psilocybe cubensis]] varieties, particularly Mexican, Thai, Colombian, and Amazonian strains. In some areas, "paddo cabs" provided home delivery services. Coffee shops, headshops (selling drug paraphernalia such as pipes), and grow shops (for cannabis home cultivation) also occasionally sold hallucinogenic mushrooms.
+The Dutch Risk Assessment Report of 2000 estimated that magic mushrooms accounted for approximately 50% of smartshop turnover. The types most commonly sold were [[psilocybe-cubensis]] varieties, particularly Mexican, Thai, Colombian, and Amazonian strains. In some areas, "paddo cabs" provided home delivery services. Coffee shops, headshops (selling drug paraphernalia such as pipes), and grow shops (for cannabis home cultivation) also occasionally sold hallucinogenic mushrooms.
 
 A 2001 study among a representative sample of young persons aged 12 and above in the Netherlands found that 64% of those aged 18 and older who had used magic mushrooms in the preceding year had purchased them in smartshops.
 
@@ -45,9 +45,9 @@ A snapshot survey conducted in January 2006 using Google and AltaVista search en
 
 Products sold online spanned a range of formats:
 
-- Fresh [[Psilocybe cubensis]] (Mexican): 8.50 to 45.28 EUR per 30 grams
+- Fresh [[psilocybe-cubensis]] (Mexican): 8.50 to 45.28 EUR per 30 grams
 - Fresh Copelandia cyanescens: 13 to 17.50 EUR per 10 grams
-- [[Psilocybe mexicana]] truffles (philosopher's stones): 10 to 17.50 EUR per 15 grams
+- [[psilocybe-mexicana]] truffles (philosopher's stones): 10 to 17.50 EUR per 15 grams
 - Spawn bags (Psilocybe azurescens): 24 to 25 EUR each
 - Growkits: 25 to 100 EUR each, varying by species
 - Spore prints: 9 to 28 EUR each
@@ -58,11 +58,11 @@ Most online shops offered international shipping but advised customers to verify
 
 Hallucinogenic mushrooms are widely known as "magic mushrooms" in English-speaking contexts. Regional slang includes "paddos" in the Netherlands, "shrooms" in the UK, and "Zauberpilze" in Germany. Additional English terms include mush, mushies, boomers, cubes, liberty caps, caps, philosopher's stone, sacred mushrooms, and teonanacatl (the Aztec name meaning "divine flesh").
 
-The late 1990s commercialization through smartshops introduced new product labels. "Philosopher's stone" was adopted for the sclerotia of [[Psilocybe mexicana]] and [[Psilocybe tampanensis]]. Mushrooms were also marketed under the broader "Herbal highs" category alongside products like herbal ecstasy and [[Salvia divinorum]], capitalizing on consumer preference for natural and organic products.
+The late 1990s commercialization through smartshops introduced new product labels. "Philosopher's stone" was adopted for the sclerotia of [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]. Mushrooms were also marketed under the broader "Herbal highs" category alongside products like herbal ecstasy and [[salvia-divinorum]], capitalizing on consumer preference for natural and organic products.
 
 ## Wild Mushroom Collection
 
-Despite the predominance of cultivated mushrooms in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[Psilocybe semilanceata]] in local fields and pastures.
+Despite the predominance of cultivated mushrooms in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[psilocybe-semilanceata]] in local fields and pastures.
 
 In Poland, residents in local communities and shepherds in the south observed young people aged 15 to 19 seeking magic mushrooms. In Ireland, representatives of local communities in Kilkenny reported that mushrooms were "popular when in season." In the Czech Republic, consumption of locally grown hallucinogenic mushrooms was also reported.
 
@@ -76,7 +76,7 @@ Drug law offence data were sparse. The Czech Republic reported 9 offences relate
 
 ## Impact of Legal Changes
 
-The UK ban in July 2005 had an immediate impact on availability. A 2005 Mixmag survey found 67% of respondents reporting that mushrooms had become less available. Internet sites stopped selling mushrooms, with some switching to legal alternatives such as [[Amanita muscaria]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose (Argyreia nervosa) with its active compound LSA (lysergic acid amide).
+The UK ban in July 2005 had an immediate impact on availability. A 2005 Mixmag survey found 67% of respondents reporting that mushrooms had become less available. Internet sites stopped selling mushrooms, with some switching to legal alternatives such as [[amanita-muscaria]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose (Argyreia nervosa) with its active compound LSA (lysergic acid amide).
 
 The Irish online headshop THC removed all mushroom products after they became illegal on 31 January 2006. UK retailers such as EveryOneDoesIt.com and AllSalvia.co.uk pivoted to marketing Amanita muscaria and Amanita pantherina as legal alternatives.
 
@@ -119,10 +119,10 @@ Several converging factors drove the expansion of the European hallucinogenic mu
 
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Concepts
 
-- [[Psilocybe cubensis]] - the most commonly marketed species
-- [[Psilocybin]] - the primary active compound in market mushrooms
-- [[Amanita muscaria]] - the legal alternative that replaced banned mushrooms
-- [[Psilocybe mexicana]] - species whose sclerotia were marketed as philosopher's stones
-- [[Salvia divinorum]] - another product sold in herbal highs markets
-- [[Psilocybe semilanceata]] - the most common wild European species
-- [[Bad trip]] - adverse reactions that influenced market dynamics
+- [[psilocybe-cubensis]] - the most commonly marketed species
+- [[psilocybin]] - the primary active compound in market mushrooms
+- [[amanita-muscaria]] - the legal alternative that replaced banned mushrooms
+- [[psilocybe-mexicana]] - species whose sclerotia were marketed as philosopher's stones
+- [[salvia-divinorum]] - another product sold in herbal highs markets
+- [[psilocybe-semilanceata]] - the most common wild European species
+- [[bad-trip]] - adverse reactions that influenced market dynamics

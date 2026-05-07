@@ -10,7 +10,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 # Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
 
-Section Aztecorum of the genus [[Psilocybe]] represents a distinctive
+Section Aztecorum of the genus Psilocybe represents a distinctive
 biogeographic group of neurotropic fungi adapted to high-elevation,
 subalpine, and alpine habitats. According to [[Guzmán, Allen & Gartz (1998)]], this section includes species found at altitudes ranging from
 2,000 to 4,000 meters above sea level, primarily in Mexico and extending
@@ -76,7 +76,7 @@ The biogeographic connection between P. baeocystis of the Pacific Northwest
 and P. aztecorum of the Mexican highlands suggests a shared evolutionary
 history along the western mountain ranges of North America, with alpine
 habitats serving as corridors for distribution between tropical and
-temperate zones. This pattern parallels the [[Mexico as a Northern and Southern Mycobiotic Convergence Zone]] concept.
+temperate zones. This pattern parallels the Mexico as a Northern and Southern Mycobiotic Convergence Zone concept.
 
 ## Psilocybe quebecensis: Eastern North American Alpine Fungi
 
@@ -99,13 +99,13 @@ The Quebec population may represent:
 
 The Section Aztecorum species collectively demonstrate that alpine and
 subalpine habitats serve as important distribution corridors for neurotropic
-fungi. While most [[Psilocybe]] species are found in tropical and
+fungi. While most Psilocybe species are found in tropical and
 subtropical lowland forests, the alpine species occupy a distinct ecological
 niche that allows them to extend into higher latitudes and different climate
 zones.
 
 This pattern is significant for understanding the broader biogeographic
-framework proposed by [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]:
+framework proposed by Southern Hemisphere Origin Hypothesis for Neurotropic Fungi:
 
 - The majority of Psilocybe species occur in tropical and subtropical
   regions, supporting a Gondwanan origin
@@ -154,8 +154,8 @@ temperature gradients shift upward.
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 
-- [[Psilocybe semilanceata Worldwide Temperate Distribution]]
-- [[Mexico as a Neurotropic Fungi Diversity Hotspot]]
-- [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]
+- Psilocybe semilanceata Worldwide Temperate Distribution
+- Mexico as a Neurotropic Fungi Diversity Hotspot
+- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]
-- [[Mexico as a Northern and Southern Mycobiotic Convergence Zone]]
+- Mexico as a Northern and Southern Mycobiotic Convergence Zone

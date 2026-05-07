@@ -153,6 +153,6 @@ in nature.
 - [[fukuoka-natural-livestock-farming]]
 
 - [[energy-efficiency-natural-farming]]
-- [[The Four Principles of Natural Farming]]
-- [[Mahayana vs Hinayana Natural Farming]]
+- The Four Principles of Natural Farming
+- Mahayana vs Hinayana Natural Farming
 - [[clay-pellet-seed-broadcasting]]

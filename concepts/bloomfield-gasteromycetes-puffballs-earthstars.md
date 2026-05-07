@@ -132,3 +132,7 @@ principles of physics and timing.
   ecological roles of fungi in ecosystems
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
   for fungal reproductive strategies
+
+## See Also
+
+- [[astraeus-hygrometricus]]

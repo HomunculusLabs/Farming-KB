@@ -88,8 +88,7 @@ the gardener harvests from the sheltered interior.
 
 ## Multi-Function Stacking
 
-The food hedge follows [[gaias-garden-stacking-functions|the principle of stacking
-functions]]. Every plant in the hedge should perform multiple roles:
+The food hedge follows [[gaias-garden-stacking-functions|the principle of stackingfunctions]]. Every plant in the hedge should perform multiple roles:
 
 - **Nitrogen fixation:** Siberian pea shrub, buffaloberry, and Russian olive
   pump atmospheric nitrogen into the soil, reducing or eliminating the need for
@@ -113,8 +112,7 @@ functions]]. Every plant in the hedge should perform multiple roles:
 ## Integration with the Broader Landscape
 
 The food hedge should not exist in isolation. It connects to the broader
-garden design as part of a [[gaias-garden-polyculture-design-guidelines|polyculture
-system]]. The hedge's outer edge can blend into existing native vegetation, while
+garden design as part of a [[gaias-garden-polyculture-design-guidelines|polyculturesystem]]. The hedge's outer edge can blend into existing native vegetation, while
 the inner edge transitions into garden beds, guilds, or food forest plantings.
 
 In the zone system, the food hedge typically occupies the boundary between Zone
@@ -141,8 +139,7 @@ inputs.
 
 ## The Larger Principle
 
-The food hedge exemplifies a core principle of [[hemenway-ecological-garden-design|ecological
-garden design]]: every element should perform multiple functions. A fence
+The food hedge exemplifies a core principle of [[hemenway-ecological-garden-design|ecologicalgarden design]]: every element should perform multiple functions. A fence
 performs one function — exclusion. A food hedge performs six or more — food,
 fertility, water conservation, wind protection, wildlife habitat, and deer
 deflection — while requiring less maintenance and looking far more beautiful.

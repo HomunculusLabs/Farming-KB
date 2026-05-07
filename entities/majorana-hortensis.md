@@ -15,7 +15,8 @@ sources:
   - Bown, D. (2001). "The Herb Society of America Encyclopedia of Herbs & Their Uses." DK Publishing.
   - Rivera, D. et al. (2006). " ethnobotanical review of wild edible plants in the Mediterranean." Economic Botany 60(2): 126-145.
   - Parejo, I. et al. (2002). "Natural Antioxidant Activity of the Essential Oil of Origanum majorana." Planta Medica 68: 735-738.
-  - WHO (1999). "WHO Monographs on Selected Medicinal Plants, Vol. 1." World Health Organization, Geneva.
+  - WHO (1999). "WHO Monographs on Selected Medicinal Plants, Vol. 1." World Health Organization, Geneva.created: 2026-05-07
+
 ---
 
 ## Overview

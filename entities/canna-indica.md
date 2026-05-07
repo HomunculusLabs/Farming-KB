@@ -148,8 +148,8 @@ Can become aggressive in tropical/subtropical climates — spreads via rhizome f
 - [[hugelkultur]]
 - [[moringa-oleifera]]
 
-- [[Moringa oleifera]] — companion tree for subtropical food forests
-- [[Typha latifolia]] — another constructed wetland plant species
-- [[Comfrey]] — permaculture biomass and nutrient accumulator
-- [[Biochar]] — soil amendment complementary to wetland systems
-- [[Hugelkultur]] — water-retaining raised bed technique
+- [[moringa-oleifera]] — companion tree for subtropical food forests
+- [[typha-latifolia]] — another constructed wetland plant species
+- [[comfrey]] — permaculture biomass and nutrient accumulator
+- [[biochar]] — soil amendment complementary to wetland systems
+- [[hugelkultur]] — water-retaining raised bed technique

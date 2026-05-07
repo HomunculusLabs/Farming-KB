@@ -128,8 +128,8 @@ shape the pellets. It needs no irrigation, no plowing, and no ongoing
 maintenance. This makes it accessible even in regions with minimal
 infrastructure, offering a practical path toward ecological recovery
 where conventional approaches are too expensive or complex to deploy.
-See also: [[Natural Farming]], [[No Tillage Rice Barley Succession]],
-[[Green Manure Cover Cropping]]
+See also: [[natural-farming]], No Tillage Rice Barley Succession,
+Green Manure Cover Cropping
 
 ## See Also
 

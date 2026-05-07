@@ -27,11 +27,11 @@ Key morphological features include:
 
 The sequestrate habit has arisen independently in multiple evolutionary lineages. Morphological progressions from mushroom ancestors to sequestrate descendants are documented in several families:
 
-- **Cortinariaceae**: The mushroom genus [[Cortinarius]] is analogous to the stipitate sequestrate genus [[Thaxterogaster]]. Further reduction occurs in [[Cortinomyces]] and [[Hymenogaster]], with some species losing all trace of a columella.
-- **Russulaceae**: Progression from [[Russula]] species to stipitate [[Macowanites]], followed by astipitate [[Gymnomyces]]; and from [[Lactarius]] to [[Arcangeliella]] to [[Zelleromyces]].
-- **Tricholomataceae**: Reduction from [[Laccaria]] through [[Podohydnangium]] to [[Hydnangium]].
-- **Suillus lineage**: The Suillus to Gastrosuillus to Truncocolumella to [[Rhizopogon]] series, host-specific to Pinaceae.
-- **Ascomycetes**: Sequestrate forms in the [[Tuberaceae]] (true truffles) and Elaphomycetaceae.
+- **Cortinariaceae**: The mushroom genus Cortinarius is analogous to the stipitate sequestrate genus Thaxterogaster. Further reduction occurs in Cortinomyces and Hymenogaster, with some species losing all trace of a columella.
+- **Russulaceae**: Progression from Russula species to stipitate Macowanites, followed by astipitate Gymnomyces; and from Lactarius to Arcangeliella to Zelleromyces.
+- **Tricholomataceae**: Reduction from Laccaria through Podohydnangium to Hydnangium.
+- **Suillus lineage**: The Suillus to Gastrosuillus to Truncocolumella to Rhizopogon series, host-specific to Pinaceae.
+- **Ascomycetes**: Sequestrate forms in the Tuberaceae (true truffles) and Elaphomycetaceae.
 
 Molecular evidence confirms that these parallel evolutionary lines do not require massive numbers of mutations — the morphological changes from mushroom to truffle-like form can occur with relatively few genetic changes.
 
@@ -54,7 +54,7 @@ The loss of forcible spore discharge must be compensated by alternative dispersa
 
 - **Aromatic compounds**: Each sequestrate species produces its own array of aromas, usually combinations of several compounds including pheromones. Immature sporocarps have little distinctive odor; aroma increases in intensity as spores mature.
 - **Nutritional rewards**: Sequestrate fungi contain carbohydrates, nonprotein amino acids, proteins, and elevated mineral concentrations. Their nutritional value is evidenced by animals that eat little else.
-- **Visual signals**: Some species use visual cues — [[Paurocotylis pila]] has a scarlet peridium mimicking Podocarpus fruits. [[Phaeangium lefebvrei]] in Arabian and North African deserts produces clusters of small ascomata forming visible humps on the desert floor.
+- **Visual signals**: Some species use visual cues — Paurocotylis pila has a scarlet peridium mimicking Podocarpus fruits. Phaeangium lefebvrei in Arabian and North African deserts produces clusters of small ascomata forming visible humps on the desert floor.
 
 ### Spore Passage Through Digestive Tracts
 
@@ -63,8 +63,8 @@ All sterile tissues of sequestrate fungi are digested by mycophagous animals, bu
 ### Desert Adaptations
 
 Most desert-dwelling sequestrate fungi are adapted for passive spore dispersal by wind when not consumed by animals:
-- [[Carbomyces]] ascomata lift out of soil as they expand, dry, and disintegrate into spore-bearing powder that blows across the desert floor.
-- [[Terfezia]] and [[Tirmania]] species push overlying soil upward as they expand; wind blows away soil to expose the ascomata, which quickly dry into powder abraded by windblown sand.
+- Carbomyces ascomata lift out of soil as they expand, dry, and disintegrate into spore-bearing powder that blows across the desert floor.
+- Terfezia and Tirmania species push overlying soil upward as they expand; wind blows away soil to expose the ascomata, which quickly dry into powder abraded by windblown sand.
 
 ### Avian Dispersal
 
@@ -86,13 +86,13 @@ The Pacific Northwestern old-growth forests illustrate this interdependence: tre
 ## Continental Comparisons
 
 Australia and North America provide striking comparisons of parallel sequestrate evolution:
-- The Suillus-Gastrosuillus-Truncocolumella-[[Rhizopogon]] line is host-specific to Pinaceae (absent in Australia).
+- The Suillus-Gastrosuillus-Truncocolumella-Rhizopogon line is host-specific to Pinaceae (absent in Australia).
 - The Descolea-Setchelliogaster-Descomyces line is host-specific to Eucalyptus (absent in North America).
-- Shared lineages include [[Russula]]-Macowanites-Gymnomyces, [[Lactarius]]-Arcangeliella-Zelleromyces, and Cortinarius-Thaxterogaster-Protoglossum — found on both continents but with no species overlap.
+- Shared lineages include Russula-Macowanites-Gymnomyces, Lactarius-Arcangeliella-Zelleromyces, and Cortinarius-Thaxterogaster-Protoglossum — found on both continents but with no species overlap.
 
 ## Saprobic Sequestrate Fungi
 
-Relatively few sequestrate saprobes are known. Examples include [[Nivatogastrium nubigenum]] (on brown-cubical-rotted wood), [[Endoptychum depressum]], [[Paurocotylis pila]], and some [[Stephanospora]] and [[Weraroa]] species on forest humus. Their trophic characteristics remain poorly understood.
+Relatively few sequestrate saprobes are known. Examples include Nivatogastrium nubigenum (on brown-cubical-rotted wood), Endoptychum depressum, Paurocotylis pila, and some Stephanospora and Weraroa species on forest humus. Their trophic characteristics remain poorly understood.
 
 ## See Also
 

@@ -25,7 +25,7 @@ Palmer described observing spawn during earth-moving operations near the Brunswi
 
 > "As the pick of the workman broke up the soil, a white substance ran through every piece. Starting with large branches, it divided and sub-divided like the veins on the back of the hand."
 
-This "white vine" was the spawn of the [[Coprinus comatus]]. The smell was strong enough to be noticed from across the street.
+This "white vine" was the spawn of the [[coprinus-comatus]]. The smell was strong enough to be noticed from across the street.
 
 ### Microscopic Structure
 
@@ -49,7 +49,7 @@ The microscope shows in some fungal spores a conjugation indicating sexual diffe
 
 ### Speed of Growth
 
-The popular belief that mushrooms spring up in a single night is a "decided error." The common mushroom takes about 10 days to mature from a button the size of a pin-head to a disk three or four inches in diameter. Other species require similar periods, though the [[Coprinariae]] develop in about half that time.
+The popular belief that mushrooms spring up in a single night is a "decided error." The common mushroom takes about 10 days to mature from a button the size of a pin-head to a disk three or four inches in diameter. Other species require similar periods, though the Coprinariae develop in about half that time.
 
 ### The Role of Moisture
 
@@ -71,7 +71,7 @@ However, like any crop, mushroom spawn can fail in unfavorable years or even bec
 
 ### Why Only One Species Is Cultivated
 
-The common mushroom ([[Agaricus campestris]] / [[Agaricus arvensis]]) is the only fungal species ever successfully propagated by artificial means. Palmer proposed a plausible explanation: it follows the horse and grows from horse manure. The spores are probably swallowed in large numbers during grazing, and some necessary change for reproduction occurs either in the intestinal canal or in the manure. This explains why old manure heaps eventually generate their own spawn and produce fine mushrooms.
+The common mushroom ([[agaricus-campestris]] / [[agaricus-arvensis]]) is the only fungal species ever successfully propagated by artificial means. Palmer proposed a plausible explanation: it follows the horse and grows from horse manure. The spores are probably swallowed in large numbers during grazing, and some necessary change for reproduction occurs either in the intestinal canal or in the manure. This explains why old manure heaps eventually generate their own spawn and produce fine mushrooms.
 
 ### The Cultivation Process
 
@@ -102,10 +102,10 @@ The difficulty of cultivation kept prices high: one to two dollars per pound in 
 
 Palmer documented several cases showing how environment affects mushroom quality:
 
-- [[Boletus pachypus]] specimens communicated their strong nutty flavor to nearby potatoes through the refrigerator air
-- [[Agaricus melleus]] (maned mushroom) from lawns was delicious, but specimens from dust-heaps, brick-yards, or city offal had no flavor and would be "doubtless deleterious" in quantity
+- Boletus pachypus specimens communicated their strong nutty flavor to nearby potatoes through the refrigerator air
+- Agaricus melleus (maned mushroom) from lawns was delicious, but specimens from dust-heaps, brick-yards, or city offal had no flavor and would be "doubtless deleterious" in quantity
 - Mushrooms forced with potash cooked "like pieces of soap" with liquor resembling "strong lye"
-- [[Boletus aestivalis]] from certain locations was impregnated with the odor of decayed fish
+- Boletus aestivalis from certain locations was impregnated with the odor of decayed fish
 
 These observations demonstrate the extreme susceptibility of mushrooms to their growing conditions, reinforcing the need for careful selection and freshness.
 

@@ -30,7 +30,7 @@ sources: []
     21|# Grof Perinatal Matrices and Transpersonal Consciousness
     22|
     23|The Czech psychiatrist Stanislav Grof made one of the most significant discoveries in
-    24|the history of [[hallucinogenic drugs in psychotherapy]] when he found that [[LSD]]
+    24|the history of [[hallucinogenic drugs in psychotherapy]] when he found that [[lsd]]
     25|-assisted psychotherapy could access not only biographical childhood memories,
     26|consistent with the Freudian framework of the European [[psycholytic-and-psychedelic-therapy-models]] model, but also
     27|deeply buried perinatal matrices relating to the experience of birth, and ultimately

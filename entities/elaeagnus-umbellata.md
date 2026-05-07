@@ -99,6 +99,8 @@ However, the displacement of native shrub species (e.g., native *Viburnum*, *Cor
 
 ## See Also
 
+- [[elaeagnus-multiflora]]
+
 - [[elaeagnus-angustifolia]]
 - [[caragana-arborescens]]
 - [[robinia-pseudoacacia]]

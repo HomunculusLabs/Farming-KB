@@ -19,18 +19,18 @@ in temperate and subtropical orchards.
 ## What Is Jujube?
 
 Jujube (*Ziziphus jujuba*), commonly known as the Chinese date, is a deciduous tree
-in the buckthorn family [[Rhamnaceae]]. It has been cultivated in China for over
+in the buckthorn family Rhamnaceae. It has been cultivated in China for over
 4,000 years, making it one of the oldest domesticated fruit species. The tree
 typically reaches 15–30 feet at maturity and features glossy green leaves with a
 distinctive zigzag branching pattern. It was introduced to the United States in the
 mid-1800s and thrives across a surprisingly wide range of climates. See also
-[[Ziziphus]] for related species.
+Ziziphus for related species.
 
 ## What Does Jujube Taste Like?
 
 Flavor depends heavily on ripeness and preparation. **Fresh jujubes** eaten at peak
 ripeness are crisp and sweet with a texture reminiscent of a cross between an apple
-and an [[Asian-pear]]. The skin is thin and edible. **Dried jujubes** develop a
+and an Asian-pear. The skin is thin and edible. **Dried jujubes** develop a
 chewy, wrinkled texture and a concentrated, date-like sweetness — the origin of the
 "Chinese date" common name. Some varieties have a hint of tartness that balances the
 sugar content. Brix levels can reach 20–30% in fully dried fruit.

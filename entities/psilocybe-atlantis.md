@@ -127,9 +127,9 @@ Dried sclerotia should be stored in an airtight container with a desiccant packe
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[psilocybe-fuscoflocculosa]]
 
-- [[Psilocybe mexicana]] — type species of the sclerotia-producing complex
-- [[Psilocybe tampanensis]] — "philosopher's stones," another sclerotia producer
-- [[Psilocybe galindoi]] — closely related Mexican species
-- [[Psilocybin]] — primary psychoactive compound
-- [[Psilocin]] — active metabolite
-- [[Baeocystin]] — minor alkaloid
+- [[psilocybe-mexicana]] — type species of the sclerotia-producing complex
+- [[psilocybe-tampanensis]] — "philosopher's stones," another sclerotia producer
+- [[psilocybe-galindoi]] — closely related Mexican species
+- [[psilocybin]] — primary psychoactive compound
+- [[psilocin]] — active metabolite
+- [[baeocystin]] — minor alkaloid

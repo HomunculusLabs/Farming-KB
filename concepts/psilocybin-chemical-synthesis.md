@@ -144,11 +144,11 @@ indole derivatives on TLC plates.
 
 ## Related Concepts
 
-- [[Psilocybin]] for pharmacology and natural occurrence
-- [[Psilocin]] for the active dephosphorylated metabolite
-- [[Magic Mushrooms]] for fungal species producing these compounds
-- [[Serotonin Receptor Agonism]] for the hallucinogenic mechanism
-- [[Tryptamine Chemistry]] for broader indole alkaloid synthesis
+- [[psilocybin]] for pharmacology and natural occurrence
+- [[psilocin]] for the active dephosphorylated metabolite
+- Magic Mushrooms for fungal species producing these compounds
+- Serotonin Receptor Agonism for the hallucinogenic mechanism
+- Tryptamine Chemistry for broader indole alkaloid synthesis
 
 ## See Also
 

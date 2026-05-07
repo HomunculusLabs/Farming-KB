@@ -90,7 +90,7 @@ Several common issues can cause inoculation failure:
 ## Post-Inoculation Care
 
 - Place jars in a clean, draft-free location away from direct sunlight
-- Incubate at 20-25°C for [[Psilocybe]] species
+- Incubate at 20-25°C for Psilocybe species
 - Monitor regularly for white mycelial growth or contamination signs
 - First signs typically appear within 3-7 days (spores) or 1-3 days (mycelium/agar)
 

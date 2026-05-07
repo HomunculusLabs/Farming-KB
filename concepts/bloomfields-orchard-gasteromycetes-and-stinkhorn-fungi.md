@@ -164,10 +164,10 @@ wheeled, the dew of heaven was beading on a mushroom.
 
 ## Related Concepts
 
-- [[Spore Discharge Mechanisms in Fungi]]
-- [[Fungal Biology and Ecology]]
-- [[Mushroom Hunting and Identification]]
-- [[Fungal Pathogens and Human Disease]]
+- Spore Discharge Mechanisms in Fungi
+- Fungal Biology and Ecology
+- [[mushroom-hunting-and-identification]]
+- Fungal Pathogens and Human Disease
 
 ## See Also
 

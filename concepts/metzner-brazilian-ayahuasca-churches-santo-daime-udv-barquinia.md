@@ -130,7 +130,7 @@ sources: []
    123|for working-class and rural populations who may have limited access to other forms of
    124|social support.
    125|
-   126|Participation in both the [[Native American Church]] in the United States and the
+   126|Participation in both the Native American Church in the United States and the
    127|Brazilian hoasca churches has been shown to reduce the incidence of alcoholism and drug
    128|addiction. This anti-addiction effect is consistent with Metzner's observation that
    129|hallucinogens can serve to counteract the "consciousness-contracting and fixating

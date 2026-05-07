@@ -118,8 +118,8 @@ Sustainable foraging practices include cutting mushrooms at the base rather than
 - [[ectomycorrhizal-associations]]
 - [[fruiting-conditions]]
 
-- [[Morchella esculenta]] — Yellow Morel
-- [[Morchella importuna]] — Landscape Morel
-- [[Gyromitra esculenta]] — False Morel
-- [[Morchellaceae]] — Morel family taxonomy
-- [[Mycorrhizae]] — Fungal-root associations
+- [[morchella-esculenta]] — Yellow Morel
+- [[morchella-importuna]] — Landscape Morel
+- [[gyromitra-esculenta]] — False Morel
+- Morchellaceae — Morel family taxonomy
+- [[mycorrhizae]] — Fungal-root associations

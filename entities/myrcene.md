@@ -146,9 +146,9 @@ studies:
 - [[cannabis-sativa]]
 - [[cymbopogon-citratus]]
 
-- [[Cannabis sativa]]
-- [[OG Kush]]
-- [[Granddaddy Purple]]
-- [[Blue Dream]]
-- [[Cannabigerol]]
-- [[Cannabichromene]]
+- [[cannabis-sativa]]
+- [[og-kush]]
+- [[granddaddy-purple]]
+- [[blue-dream]]
+- [[cannabigerol]]
+- Cannabichromene

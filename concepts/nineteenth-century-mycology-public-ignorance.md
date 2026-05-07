@@ -60,13 +60,13 @@ One of the most frequently repeated stories was that Emperor Claudius was poison
 
 ### The Russian Intoxicant Story
 
-The well-attested practice of Northern Russians drinking a decoction of [[Amanita muscarius]] for narcotic intoxication was widely cited as evidence of the mushroom's dangerous properties. While true, the practice actually demonstrated that the Amanita could be consumed in controlled doses without death — evidence against the theory that edible mushrooms could become poisonous.
+The well-attested practice of Northern Russians drinking a decoction of Amanita muscarius for narcotic intoxication was widely cited as evidence of the mushroom's dangerous properties. While true, the practice actually demonstrated that the Amanita could be consumed in controlled doses without death — evidence against the theory that edible mushrooms could become poisonous.
 
 ## Public Perception and the Word "Toadstool"
 
 ### The Mushroom vs. Toadstool Fallacy
 
-Palmer attacked the fundamental linguistic confusion: "Every mushroom is a toadstool and every toadstool is a mushroom, exactly as every plant is a vegetable and every vegetable growth is a plant." The distinction existed solely because one variety ([[Agaricus campestris]]) was commercially cultivated and had acquired the dignified name "mushroom," while the hundreds of wild species were collectively dismissed as "toadstools."
+Palmer attacked the fundamental linguistic confusion: "Every mushroom is a toadstool and every toadstool is a mushroom, exactly as every plant is a vegetable and every vegetable growth is a plant." The distinction existed solely because one variety ([[agaricus-campestris]]) was commercially cultivated and had acquired the dignified name "mushroom," while the hundreds of wild species were collectively dismissed as "toadstools."
 
 ### Universal Fear
 
@@ -84,7 +84,7 @@ French mycology was significantly ahead of American work. The Moniteur Scientifi
 
 ### Cross-Atlantic Confirmation
 
-Palmer's theory that the [[Solanaceae]] provided antidotes for Amanita poisoning was confirmed independently by multiple researchers:
+Palmer's theory that the Solanaceae provided antidotes for Amanita poisoning was confirmed independently by multiple researchers:
 
 - Dr. Isaac Ott of the University of Pennsylvania demonstrated atropine's antagonism to muscarine in frog experiments
 - A New Jersey physician suggested atropine from belladonna after observing a toadstool-poisoned patient

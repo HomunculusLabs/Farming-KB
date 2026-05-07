@@ -16,7 +16,8 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7680745/
   - https://pubmed.ncbi.nlm.nih.gov/29944949/
   - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/dimethyltryptamine
-  - https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine
+  - https://en.wikipedia.org/wiki/N,N-Dimethyltryptaminecreated: 2026-05-07
+
 ---
 
 # N,N-Dimethyltryptamine (DMT)
@@ -157,9 +158,11 @@ Clinical interest in DMT has expanded significantly:
 
 ## See Also
 
-- [[ayahuasca]] — traditional brew and ceremony
+- [[pinoline]]
+
+- [[ayahuasca-preparation-and-ceremony]] — traditional brew and ceremony
 - [[psilocybin]] — related tryptamine psychedelic
-- [[tryptamines]] — chemical class overview
-- [[5-ht2a-receptor]] — primary pharmacological target
+- [[mckenna-tryptamines-logos-consciousness]] — chemical class overview
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — primary pharmacological target
 - [[harmine]] — MAOI β-carboline alkaloid
-- [[sigma-1-receptor]] — non-serotonergic target
+- [[sigma-1-receptor-and-psychedelics]] — non-serotonergic target

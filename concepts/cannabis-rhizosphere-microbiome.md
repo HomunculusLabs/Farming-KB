@@ -18,9 +18,9 @@ type: concept
 # Cannabis Rhizosphere Microbiome
 
 The cannabis rhizosphere microbiome refers to the community of microorganisms
-associated with the root systems of [[Cannabis]] plants. The first comprehensive
+associated with the root systems of Cannabis plants. The first comprehensive
 characterization of the [[cannabis-endorhiza-microbiome]], rhizosphere, and bulk soil microbiomes of
-multiple [[Cannabis sativa]] cultivars was published by Winston et al. (2014),
+multiple [[cannabis-sativa]] cultivars was published by Winston et al. (2014),
 who used Illumina 16S rRNA gene sequencing of the V4 region across five
 distinct cultivars grown in California.
 
@@ -43,17 +43,17 @@ genotype controls their relative abundances.
 ## Endorhiza Communities
 
 The endorhiza (root interior) microbiome showed the strongest cultivar
-specificity among all sample types. A core community of [[Pseudomonas]],
-[[Cellvibrio]], Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
+specificity among all sample types. A core community of [[pseudomonas]],
+Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
 Sphingobacteriales was consistently found across all cultivars. Most of these
 are well known [[endophytic-fungi-and-plant-health]] primarily within the orders Gammaproteobacteria
 and Alphaproteobacteria.
 
 Notable cultivar-specific differences included:
 
-- **Methylophilus** comprised 13% of the [[Bookoo Kush]] endorhiza community,
+- **Methylophilus** comprised 13% of the Bookoo Kush endorhiza community,
   0.13% in Burmese, and was absent in Sour Diesel
-- **Sphingomonas wittichii** was prevalent in [[Maui Wowie]], a species that
+- **Sphingomonas wittichii** was prevalent in [[maui-wowie]], a species that
   can metabolize phenazine-1-carboxylic acid and may enhance soil survival
 
 ## Taxonomic Shifts from Soil to Root
@@ -72,7 +72,7 @@ characterized by predictable taxonomic shifts:
 
 ## Edaphic Factors
 
-[[Edaphic factors]] were strongly correlated with community structure across
+Edaphic factors were strongly correlated with community structure across
 all sample types. The relative importance of factors in structuring microbial
 communities was:
 
@@ -101,7 +101,7 @@ strong selective filtering during root colonization.
 
 ## Cannabinoid Correlations
 
-[[Cannabinoid]] profiles were significantly correlated with endorhiza community
+Cannabinoid profiles were significantly correlated with endorhiza community
 structure (unweighted Mantel r-stat: 0.863, p = 0.001). However, THC
 concentration was also correlated with soil edaphic variables, making it
 difficult to disentangle the effects of plant secondary metabolism from soil
@@ -119,10 +119,10 @@ the host genotype.
 
 The research examined five cultivars across two experiments:
 
-- **Sour Diesel** — [[Cannabis sativa]], high THC to CBD ratio
+- **Sour Diesel** — [[cannabis-sativa]], high THC to CBD ratio
 - **Bookoo Kush** — sativa-dominant hybrid, moderately high THC to CBD ratio
 - **Burmese** — balanced hybrid, moderate THC to CBD ratio
-- **Maui Wowie** — [[Cannabis sativa]], high THC to CBD ratio
+- **Maui Wowie** — [[cannabis-sativa]], high THC to CBD ratio
 - **White Widow** — balanced hybrid, moderate THC to CBD ratio
 
 ## See Also

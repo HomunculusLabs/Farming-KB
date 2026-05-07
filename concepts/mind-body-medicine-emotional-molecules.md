@@ -150,8 +150,8 @@ Vipassana is a meditation technique designed to develop insights into the self t
 - [[blesching-cannabis-mind-body-medicine]]
 - [[blesching-cannabis-stds-mind-body]]
 
-- [[Endocannabinoid System]]
-- [[Cannabis Health Index Scoring System]]
-- [[Anandamide]]
-- [[Cannabidiol CBD]]
-- [[Tetrahydrocannabinol THC]]
+- [[endocannabinoid-system]]
+- [[cannabis-health-index-scoring-system]]
+- Anandamide
+- [[cannabidiol-cbd]]
+- [[tetrahydrocannabinol-thc]]

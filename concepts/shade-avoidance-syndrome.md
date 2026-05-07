@@ -5,7 +5,7 @@ tags: [botany, photobiology, shade-avoidance, phytochrome, plant-competition, fa
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[What a Plant Knows]] by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 

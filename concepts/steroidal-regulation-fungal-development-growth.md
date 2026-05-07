@@ -21,7 +21,7 @@ type: concept
 
 The demonstration by Gartz, Adam and Vorbrodt (1990) that a plant
 steroidal hormone, 22S,23S-homobrassinolide, profoundly affects the
-growth and development of [[Psilocybe cubensis]] raises fundamental
+growth and development of [[psilocybe-cubensis]] raises fundamental
 questions about steroidal signaling in fungi. The authors concluded that
 brassinosteroids could play a physiological role in higher fungi,
 suggesting that steroid-based growth regulation may be a conserved
@@ -130,7 +130,7 @@ independently multiple times. This reflects the unique chemical
 properties of steroids, which diffuse through membranes and interact
 with intracellular signaling proteins without dedicated transport.
 
-The sensitivity of [[Psilocybe cubensis]] to brassinosteroids may
+The sensitivity of [[psilocybe-cubensis]] to brassinosteroids may
 represent a window into an ancient signaling system predating plant-fungal
 divergence. Understanding this system could provide new tools for
 mushroom cultivation and new insights into eukaryotic signaling
@@ -138,10 +138,10 @@ evolution.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for the broader phytohormone context
-- [[Brassinosteroid effects on fungal morphology]] for morphological
+- Brassinosteroids as steroidal phytohormones for fungal growth promotion for the broader phytohormone context
+- [[brassinosteroid-effects-on-fungal-morphology]] for morphological
   changes in treated cultures
-- [[Brassinosteroid annulus loss in Psilocybe cubensis and taxonomic implications]] for the specific developmental alteration
+- Brassinosteroid annulus loss in Psilocybe cubensis and taxonomic implications for the specific developmental alteration
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the compound
   enabling cross-kingdom activity
 

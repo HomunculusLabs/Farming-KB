@@ -15,7 +15,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+  - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.mdcreated: 2026-05-07
+type: concept
+
 ---
 
 # Voluntary Hallucinations from Psilocybin Vapor in Enclosed Spaces
@@ -114,7 +116,10 @@ This observation also has relevance for the storage and transport of commercial
 specimens, particularly in contexts where large quantities of fresh mushrooms are held in
 enclosed containers for market distribution.
 
-## Related Phenomena
+## Related
+
+- [[psilocybin|psilocybin]]
+- [[dmt-smoking-and-administration-methods|vapor]] Phenomena
 
 The Oaxaca incident parallels other accounts of environmentally-mediated psychoactive
 effects from fungal collections, though such reports remain anecdotal in the scientific
@@ -122,3 +127,4 @@ literature. The primary active compounds, being tryptamine derivatives with rela
 low molecular weights, are chemically plausible candidates for airborne transmission under
 the conditions described, particularly when present in the large quantities involved in
 commercial gathering operations.
+- [[allen-psilocybin-potency-australian-species|psilocybin potency]]

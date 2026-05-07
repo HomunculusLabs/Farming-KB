@@ -103,6 +103,8 @@ Allegro's work remains a cautionary example in interdisciplinary scholarship: a 
 This topic connects to broader themes explored throughout the wiki.
 
 ## See Also
+
+- [[majorana-hortensis]]
 - [[sacred-mushroom-and-the-cross]]
 - [[allegro-philological-methodology]]
 - [[allegro-soma-and-vedic-traditions]]

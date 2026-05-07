@@ -13,7 +13,7 @@ type: concept
 
 # Pine Disease and Matsutake Mushroom Decline
 
-The widespread death of red pine forests (Pinus densiflora) across Japan, commonly attributed to the pinewood nematode (Bursaphelenchus xylophilus), served as a pivotal case study for [[Masanobu Fukuoka]] in demonstrating the complexity of ecological causation and the dangers of reductionist scientific thinking. Fukuoka's investigation led him to a radically different explanation than the prevailing scientific consensus, one that centered on soil acidification, microbial community disruption, and the loss of the matsutake mushroom (Tricholoma matsutake) as a keystone symbiont.
+The widespread death of red pine forests (Pinus densiflora) across Japan, commonly attributed to the pinewood nematode (Bursaphelenchus xylophilus), served as a pivotal case study for [[masanobu-fukuoka]] in demonstrating the complexity of ecological causation and the dangers of reductionist scientific thinking. Fukuoka's investigation led him to a radically different explanation than the prevailing scientific consensus, one that centered on soil acidification, microbial community disruption, and the loss of the matsutake mushroom (Tricholoma matsutake) as a keystone symbiont.
 
 ## The Prevailing Scientific Explanation
 
@@ -118,6 +118,6 @@ Fukuoka's ultimate conclusion was sobering: even if we can restore individual ga
 - [[four-principles-of-natural-farming]]
 - [[masanobu-fukuoka]]
 
-- [[Natural Farming vs Scientific Agriculture]]
-- [[Four Principles of Natural Farming]]
-- [[Masanobu Fukuoka]]
+- [[natural-farming-vs-scientific-agriculture]]
+- [[four-principles-of-natural-farming]]
+- [[masanobu-fukuoka]]

@@ -43,7 +43,7 @@ Ireland was the sixth country to tighten legislation during this period, followi
 
 ## Market Adaptation and Substitution
 
-The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal hallucinogenic mushroom species, particularly [[Amanita muscaria]] (fly agaric). This substitution effect was noted in the UK following the 2005 ban, where retailers began stocking fly agaric products. This raised concerns because Amanita muscaria contains fundamentally different active chemicals — muscimol, ibotenic acid, and muscarine — which carry substantial toxicity risks, and some closely related Amanita species are highly toxic and potentially fatal.
+The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal hallucinogenic mushroom species, particularly [[amanita-muscaria]] (fly agaric). This substitution effect was noted in the UK following the 2005 ban, where retailers began stocking fly agaric products. This raised concerns because Amanita muscaria contains fundamentally different active chemicals — muscimol, ibotenic acid, and muscarine — which carry substantial toxicity risks, and some closely related Amanita species are highly toxic and potentially fatal.
 
 
 
@@ -100,4 +100,4 @@ The report concluded that future work in the field of emerging drug trends must 
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[psilocybin]]
 - [[psilocin]]
-- [[Amanita muscaria]]
+- [[amanita-muscaria]]

@@ -123,6 +123,8 @@ ergot in Europe.
 
 ## See Also
 
+- [[syrian-rue]]
+
 - [[schultes-solandra-kieli-huichol-narcotic]]
 
 - [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian brew whose

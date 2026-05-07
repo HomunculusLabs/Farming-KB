@@ -184,9 +184,9 @@ and resources from the global health community.
 
 ## Related Concepts
 
-- [[Hyphal Growth and Invasive Biology]]
-- [[Fungal Biology and Ecology]]
-- [[History of Mycology]]
+- Hyphal Growth and Invasive Biology
+- Fungal Biology and Ecology
+- History of Mycology
 
 ## See Also
 

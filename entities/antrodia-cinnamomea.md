@@ -131,10 +131,10 @@ Several *Antrodia* species share morphological and phytochemical characteristics
 - [[medicinal-mushroom-guide]]
 - [[mushroom-cultivation-basics]]
 
-- [[Ganoderma lucidum]] — reishi, another premier hepatoprotective medicinal polypore
-- [[Inonotus obliquus]] — chaga, a comparably potent anti-inflammatory polypore
-- [[Trametes versicolor]] — turkey tail, known for polysaccharide-based immunomodulation
-- [[Fomes fomentarius]] — tinder conk, a related Fomitopsidaceae polypore
-- [[Coriolopsis gallica]] — tropical polypore with anti-inflammatory triterpenoids
-- [[Sanghuangporus vaninii]] — sanghuang, another rare polypore valued in TCM
-- [[Wolfiporia cocos]] — fu ling, a medicinal polypore used in liver and spleen disorders
+- [[ganoderma-lucidum]] — reishi, another premier hepatoprotective medicinal polypore
+- [[inonotus-obliquus]] — chaga, a comparably potent anti-inflammatory polypore
+- [[trametes-versicolor]] — turkey tail, known for polysaccharide-based immunomodulation
+- [[fomes-fomentarius]] — tinder conk, a related Fomitopsidaceae polypore
+- [[coriolopsis-gallica]] — tropical polypore with anti-inflammatory triterpenoids
+- [[sanghuangporus-vaninii]] — sanghuang, another rare polypore valued in TCM
+- [[wolfiporia-cocos]] — fu ling, a medicinal polypore used in liver and spleen disorders

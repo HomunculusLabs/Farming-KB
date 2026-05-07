@@ -146,6 +146,8 @@ When purchasing Jungle Cake, consumers should verify lab testing results, as the
 
 ## See Also
 
+- [[jungle-juice]]
+
 - [[lava-cake]]
 
 - [[wedding-cake]]

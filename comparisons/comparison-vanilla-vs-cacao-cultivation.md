@@ -21,13 +21,13 @@ A practical comparison for tropical growers evaluating these two high-value crop
 
 | Trait | Vanilla (*Vanilla planifolia*) | Cacao (*Theobroma cacao*) |
 |-------|-------------------------------|--------------------------|
-| Family | [[Orchidaceae]] (orchid) | [[Malvaceae]] / Sterculiaceae |
+| Family | Orchidaceae (orchid) | Malvaceae / Sterculiaceae |
 | Growth habit | Perennial climbing vine | Small understory tree (5–8 m) |
 | Lifespan | Productive ~10–15 years | Productive 25–50+ years |
 
 ## Origin and History
 
-Both crops share origins in [[Mexico]] and [[Central America]]. Vanilla was first cultivated by the Totonac people of Veracruz; cacao by the Olmec and later Maya civilizations. Both were significant in Mesoamerican culture — vanilla as a flavoring and ritual offering, cacao as currency, beverage, and sacred food. Spanish colonizers spread both globally in the 16th century.
+Both crops share origins in Mexico and Central America. Vanilla was first cultivated by the Totonac people of Veracruz; cacao by the Olmec and later Maya civilizations. Both were significant in Mesoamerican culture — vanilla as a flavoring and ritual offering, cacao as currency, beverage, and sacred food. Spanish colonizers spread both globally in the 16th century.
 
 ## Climate Requirements
 
@@ -52,7 +52,7 @@ Vanilla is generally more microclimate-sensitive — small deviations in humidit
 ## Propagation Methods
 
 - **Vanilla**: Primarily [[stem cuttings]] (60–120 cm sections). Seed propagation is possible but extremely slow and rarely used commercially. Vegetative propagation ensures flavor consistency.
-- **Cacao**: Primarily seeds (recalcitrant — must be planted fresh within weeks). [[Grafting]] and budding used for clonal propagation of superior varieties onto disease-resistant rootstock.
+- **Cacao**: Primarily seeds (recalcitrant — must be planted fresh within weeks). Grafting and budding used for clonal propagation of superior varieties onto disease-resistant rootstock.
 
 ## Pollination
 
@@ -82,8 +82,8 @@ Cacao generally offers higher biomass and tonnage per unit area.
 
 ## Market Value and Price Volatility
 
-- **Vanilla**: The second most expensive spice after saffron. Prices ranged from $25–600+/kg between 2015–2023. Extreme volatility driven by cyclones in [[Madagascar]] (which produces ~80% of global supply). Small-scale producers benefit enormously during price spikes but face devastation during crashes.
-- **Cacao**: More stable but still volatile. Historical range of $2,000–10,000+/tonne. The 2024–2025 price surge above $10,000/tonne reflected West African crop failures. [[Fair trade]] and [[organic certification]] premiums of 10–30% are accessible. See [[cacao market dynamics]].
+- **Vanilla**: The second most expensive spice after saffron. Prices ranged from $25–600+/kg between 2015–2023. Extreme volatility driven by cyclones in Madagascar (which produces ~80% of global supply). Small-scale producers benefit enormously during price spikes but face devastation during crashes.
+- **Cacao**: More stable but still volatile. Historical range of $2,000–10,000+/tonne. The 2024–2025 price surge above $10,000/tonne reflected West African crop failures. Fair trade and [[organic certification]] premiums of 10–30% are accessible. See [[cacao market dynamics]].
 
 ## Labor Intensity
 
@@ -93,7 +93,7 @@ Vanilla is dramatically more labor-intensive per kilogram of final product. Hand
 
 Both are excellent [[agroforestry]] candidates:
 
-- **Vanilla**: Requires living support trees ([[Inga]], [[Gliricidia]], [[Grevillea]]). Shade trees must be managed to provide dappled light at 30–50%. Vines climb trunks — tree spacing and pruning directly affect vanilla yields. Can be intercropped with cardamom, [[black pepper]], or [[turmeric]] at ground level.
+- **Vanilla**: Requires living support trees (Inga, Gliricidia, Grevillea). Shade trees must be managed to provide dappled light at 30–50%. Vines climb trunks — tree spacing and pruning directly affect vanilla yields. Can be intercropped with cardamom, [[black pepper]], or [[turmeric]] at ground level.
 - **Cacao**: Classic shade grown crop. Thrives under canopy of timber species, fruit trees (banana, citrus, mango), or nitrogen-fixing legumes. Cacao agroforests in West Africa and Indonesia are among the most biodiverse agricultural systems. See [[cacao agroforestry]].
 
 Both crops perform best in multi-strata polycultures, making them ideal for [[permaculture]] food forests.
@@ -110,8 +110,8 @@ Both crops perform best in multi-strata polycultures, making them ideal for [[pe
 
 ## Climate Vulnerability
 
-- **Vanilla**: Extremely vulnerable. Cyclones can destroy years of investment in hours (Madagascar, 2017). Also threatened by [[Fusarium]] root rot and viral diseases. Climate change shifting rainfall patterns is a major concern.
-- **Cacao**: Increasingly threatened by drought, heat stress, and expanding range of pests/diseases ([[CSSVD]], [[cacao swollen shoot virus]]). Requires breeding programs for climate resilience.
+- **Vanilla**: Extremely vulnerable. Cyclones can destroy years of investment in hours (Madagascar, 2017). Also threatened by Fusarium root rot and viral diseases. Climate change shifting rainfall patterns is a major concern.
+- **Cacao**: Increasingly threatened by drought, heat stress, and expanding range of pests/diseases (CSSVD, [[cacao swollen shoot virus]]). Requires breeding programs for climate resilience.
 
 ## Organic Certification and Permaculture Suitability
 

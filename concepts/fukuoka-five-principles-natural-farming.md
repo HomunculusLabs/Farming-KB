@@ -153,7 +153,7 @@ everywhere.
 - [[clay-pellet-seed-encapsulation]]
 - [[masanobu-fukuoka]]
 - [[matsutake-mushroom]]
-[[Masanobu Fukuoka]]
+[[masanobu-fukuoka]]
 [[no-tillage rice-barley succession cropping]]
 [[clay pellet seed encapsulation]]
 [[natural diet philosophy]]

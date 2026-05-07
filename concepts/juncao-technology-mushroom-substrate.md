@@ -107,24 +107,24 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 
 ### Pleurotus Species
 
-Multiple [[Pleurotus]] species thrive on Juncao, including P. ostreatus, P. sapidus, P. rhodophyllus, P. sajor-caju, P. citrinopileatus, P. cystidiosus, P. abalones, P. eryngii, and P. tuber-regium.
+Multiple Pleurotus species thrive on Juncao, including P. ostreatus, P. sapidus, P. rhodophyllus, P. sajor-caju, P. citrinopileatus, P. cystidiosus, P. abalones, P. eryngii, and P. tuber-regium.
 
 ### Other Cultivated Species
 
-- [[Agaricus bisporus]] and [[Agaricus blazei]]
-- [[Lentinula edodes]] (shiitake)
-- [[Ganoderma lucidum]] and [[Ganoderma sinense]]
-- [[Hericium erinaceus]] (lion's mane)
-- [[Grifola frondosa]] (maitake)
-- [[Auricularia auricula]] and [[Auricularia cornea]] (wood ear)
-- [[Volvariella volvacea]] (paddy straw mushroom)
-- [[Pholiota nameko]] and [[Agrocybe cylindracea]]
-- [[Coprinus comatus]] (shaggy mane)
-- [[Stropharia rugosoannulata]] (wine cap)
-- [[Armillaria mellea]] and [[Armillaria tabescens]]
-- [[Dictyophora]] species
-- [[Coriolus versicolor]] (turkey tail)
-- [[Poria cocos]] (fu ling)
+- [[agaricus-bisporus]] and [[agaricus-blazei]]
+- [[lentinula-edodes]] (shiitake)
+- [[ganoderma-lucidum]] and [[ganoderma-sinense]]
+- [[hericium-erinaceus]] (lion's mane)
+- [[grifola-frondosa]] (maitake)
+- [[auricularia-auricula]] and Auricularia cornea (wood ear)
+- [[volvariella-volvacea]] (paddy straw mushroom)
+- [[pholiota-nameko]] and [[agrocybe-cylindracea]]
+- [[coprinus-comatus]] (shaggy mane)
+- [[stropharia-rugosoannulata]] (wine cap)
+- [[armillaria-mellea]] and [[armillaria-tabescens]]
+- Dictyophora species
+- [[coriolus-versicolor]] (turkey tail)
+- [[poria-cocos]] (fu ling)
 
 ## Significance for Sustainable Cultivation
 

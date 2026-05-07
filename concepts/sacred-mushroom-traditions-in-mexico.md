@@ -161,7 +161,7 @@ cultural complexity.
 - [[entheogen-culture]]
 - [[psilocybe-diversity-in-mexico]]
 
-- [[Psilocybe Diversity in Mexico]]
-- [[Neurotropic Fungi Classification]]
-- [[Psilocybin and Indole Alkaloid Chemistry in Fungi]]
-- [[Psilocybe cubensis Distribution and Ecology]]
+- [[psilocybe-diversity-in-mexico]]
+- [[neurotropic-fungi-classification]]
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
+- [[psilocybe-cubensis-distribution-and-ecology]]

@@ -148,8 +148,8 @@ A greenhouse provides frost protection, extends the growing season by 2–3 mont
 1. **Microclimate creation:** Plant against heat-absorbing walls and use [[comparison-windbreak-vs-thermal-mass]] features to maximise solar exposure.
 2. **Grafting:** In frost-prone areas, graft purple passionfruit scions onto rootstock of *P. caerulea* or maypop for cold tolerance.
 3. **Succession planting:** Start seeds indoors 8–10 weeks before the last frost; transplant once soil temperatures exceed 15°C.
-4. [[Wind-protection]]: Install windbreaks (hedges, shade cloth) on exposed sites — passionfruit vines are susceptible to wind damage.
-5. [[Soil-preparation]]: Incorporate compost, aged manure, and rock phosphate into the planting hole. Side-dress with compost every 6–8 weeks.
+4. Wind-protection: Install windbreaks (hedges, shade cloth) on exposed sites — passionfruit vines are susceptible to wind damage.
+5. Soil-preparation: Incorporate compost, aged manure, and rock phosphate into the planting hole. Side-dress with compost every 6–8 weeks.
 6. **Pruning:** Prune in early spring to remove dead wood and stimulate productive laterals. Never remove more than one-third at once.
 7. **Water management:** Use [[cervantes-drip-irrigation-systems]] with [[cervantes-mulch-outdoor-moisture-conservation]] to prevent water stress and flower drop during fruit set.
 8. **Companion planting:** Interplant with [[comfrey]], marigolds, and basil to attract pollinators and deter pests.

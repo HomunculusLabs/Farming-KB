@@ -36,10 +36,10 @@ Mushroom potency is influenced by multiple factors that make consistent dosing i
 
 | Species | Approximate Max Psilocybin Content |
 |---------|-------------------------------------|
-| [[Psilocybe semilanceata]] | Up to ~1% dry weight |
-| [[Psilocybe azurescens]] | High potency (specific figures variable) |
-| [[Psilocybe bohemica]] | High potency |
-| [[Psilocybe cubensis]] | Up to ~0.6% dry weight |
+| [[psilocybe-semilanceata]] | Up to ~1% dry weight |
+| [[psilocybe-azurescens]] | High potency (specific figures variable) |
+| [[psilocybe-bohemica]] | High potency |
+| [[psilocybe-cubensis]] | Up to ~0.6% dry weight |
 
 These values are orientation only; individual specimens vary considerably.
 
@@ -142,6 +142,6 @@ Based on available evidence, key risk reduction considerations include:
 - [[psilocybe-bohemica]]
 - [[psilocybe-cubensis]]
 
-- [[Psilocybin and Psilocin Chemistry]]
-- [[Hallucinogenic Mushroom Prevalence in Europe]]
-- [[Psilocybe Species Identification]]
+- [[psilocybin-and-psilocin-chemistry]]
+- [[hallucinogenic-mushroom-prevalence-in-europe]]
+- [[psilocybe-species-identification]]

@@ -120,6 +120,8 @@ likely remain uninvestigated for their psychoactive properties.
 
 ## See Also
 
+- [[4-po-dmt]]
+
 - [[schultes-ayahuasca-magic-drink-amazon]] — the primary ayahuasca
   vine and its ceremonial use
 - [[schultes-ayahuasca-analogs-dmt-plants]] — other DMT-containing

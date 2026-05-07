@@ -56,7 +56,7 @@ red photopsins, but not the green photopsin.
 Charles and Francis Darwin demonstrated that plant bending toward
 light ([[phototropism-photoperiodism-discovery-phytochrome]]) was directed by a dedicated light-sensing
 mechanism at the shoot tip, not by photosynthesis. In their classic
-1880 experiment, canary grass ([[Phalaris canariensis]]) seedlings
+1880 experiment, canary grass (Phalaris canariensis) seedlings
 grown in darkness were exposed to a dim gas lamp. Five treatments were
 used: (a) untreated control, bending normally; (b) tip removed, no
 bending; (c) tip covered with lightproof cap, no bending; (d) tip
@@ -106,7 +106,7 @@ UV-induced damage.
 
 ## The Discovery of Photoperiodism
 
-The [[Maryland Mammoth]] tobacco strain, discovered in 1906, grew
+The Maryland Mammoth tobacco strain, discovered in 1906, grew
 continuously without flowering. In 1918, Garner and Allard at the USDA
 discovered that limiting daily light exposure caused flowering. This
 [[phytochrome-red-far-red-switch-and-photoperiodism]] revealed that plants measure day length to time

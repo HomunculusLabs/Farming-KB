@@ -148,7 +148,7 @@ The most important identification features are: small size, black spore print, m
 - [[biological-efficiency]]
 - [[copelandia-cyanescens]]
 
-- [[Psilocybin]] — primary psychoactive tryptamine compound
-- [[Psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
-- [[Hericium-erinaceus]] — non-psychoactive medicinal mushroom for comparison
-- [[Tryptamine]] — parent chemical class of psilocybin and psilocin
+- [[psilocybin]] — primary psychoactive tryptamine compound
+- [[psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
+- [[hericium-erinaceus]] — non-psychoactive medicinal mushroom for comparison
+- [[tryptamine]] — parent chemical class of psilocybin and psilocin

@@ -19,7 +19,7 @@ type: concept
 
 # Natural Farming (Fukuoka)
 
-**Natural farming** is the method of agriculture developed by [[Masanobu Fukuoka]] on his farm in Ehime Prefecture, Shikoku, Japan. It is described as "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." The system eliminates plowing, chemical fertilizers, prepared compost, pesticides, and weeding, producing yields of approximately 22 bushels (1,300 pounds) of rice and 22 bushels of winter grain per quarter-acre without any external inputs beyond seeds and straw.
+**Natural farming** is the method of agriculture developed by [[masanobu-fukuoka]] on his farm in Ehime Prefecture, Shikoku, Japan. It is described as "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." The system eliminates plowing, chemical fertilizers, prepared compost, pesticides, and weeding, producing yields of approximately 22 bushels (1,300 pounds) of rice and 22 bushels of winter grain per quarter-acre without any external inputs beyond seeds and straw.
 
 ## Definition and Scope
 
@@ -134,7 +134,7 @@ He proposed that the seeds of certain plants be sown over the deserts in clay pe
 - [[fukuoka-naming-problem-of-natural-farming]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]
 
-- [[Masanobu Fukuoka]]
+- [[masanobu-fukuoka]]
 - [[do-nothing farming]]
 - [[clay pellet seed balls]]
 - [[no-till rice barley succession]]

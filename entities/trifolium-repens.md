@@ -193,7 +193,7 @@ All parts of white clover are edible:
 - [[companion-planting]]
 - [[composting]]
 - [[cover-crops]]
-- [[Trifolium pratense]] — Red Clover, related medicinal legume
-- [[Medicago sativa]] — Alfalfa, another important forage legume
-- [[Nitrogen Fixation]] — Biological nitrogen fixation process
-- [[Cover Crops]] — Cover cropping in permaculture and agriculture
+- [[trifolium-pratense]] — Red Clover, related medicinal legume
+- [[medicago-sativa]] — Alfalfa, another important forage legume
+- Nitrogen Fixation — Biological nitrogen fixation process
+- [[cover-crops]] — Cover cropping in permaculture and agriculture

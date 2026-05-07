@@ -127,8 +127,8 @@ Hart's work has been particularly influential in the development of **food fores
 - [[robert-connell-clarke]]
 - [[robert-graves-british-mushroom-connection]]
 
-- [[Bill Mollison]] — co-originator of permaculture design
-- [[Sepp Holzer]] — Austrian permaculture practitioner with complementary approaches
-- [[Masanobu Fukuoka]] — Japanese natural farming pioneer who influenced Hart
-- [[Geoff Lawton]] — permaculture designer and educator
+- [[bill-mollison]] — co-originator of permaculture design
+- [[sepp-holzer]] — Austrian permaculture practitioner with complementary approaches
+- [[masanobu-fukuoka]] — Japanese natural farming pioneer who influenced Hart
+- [[geoff-lawton]] — permaculture designer and educator
 - [[food-forest-design]] — detailed treatment of forest garden design principles

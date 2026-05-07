@@ -55,16 +55,16 @@ who had used other illegal drugs.
 
 Most recreationally used mushrooms in Europe were cultivated rather than
 wild-picked, despite the fact that hallucinogenic mushrooms grow wild
-throughout much of central and northern Europe. [[Psilocybe semilanceata]]
+throughout much of central and northern Europe. [[psilocybe-semilanceata]]
 (liberty caps) represents the most common wild European species, found in
 habitats including wet grassy fields and uncultivated pastures in the UK,
-Norway, and Germany. Other wild species include [[Psilocybe cyanescens]] (wavy
+Norway, and Germany. Other wild species include [[psilocybe-cyanescens]] (wavy
 caps) and species reported in the Czech Republic such as Psilocybe bohemica
 and Psilocybe moravica.
 
 Mushrooms were sold through multiple channels: as fresh and dried products in
 smartshops and market stalls, and as home cultivation materials including
-mushroom prints, spawn bags, and grow kits via internet shops. [[Psilocybe cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) were the most
+mushroom prints, spawn bags, and grow kits via internet shops. [[psilocybe-cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) were the most
 commonly marketed. Some species such as Psilocybe mexicana and Psilocybe
 tampanensis form sclerotia, sold as "truffles" or "philosopher's stones."
 
@@ -100,7 +100,7 @@ and 2006: Denmark (2001), the Netherlands (2002), Germany, Estonia, the UK
 (2005), and Ireland (2006). Reports from the UK suggested that legislation
 had a measurable impact on availability and internet sales volumes. Following
 these legal restrictions, retailers showed emerging interest in selling
-alternative legal hallucinogenic mushrooms, particularly [[Amanita muscaria]],
+alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria]],
 raising public health concerns due to the different chemistry and toxicity
 profile of ibotenic acid-containing species compared to psilocybin mushrooms.
 

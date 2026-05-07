@@ -17,10 +17,10 @@ type: concept
 
 # Actively Aerated Compost Tea
 
-Actively Aerated Compost Tea ([[AACT]]) is a water extract of compost that is
+Actively Aerated Compost Tea (AACT) is a water extract of compost that is
 brewed with supplemental foods to enhance beneficial microbial growth while
 maintaining aerobic conditions through active aeration. Developed and
-promoted by Dr. Elaine Ingham through the [[Soil Foodweb Institute]], AACT
+promoted by Dr. Elaine Ingham through the Soil Foodweb Institute, AACT
 is used as a biological amendment to restore and maintain the [[soil food web]] in agricultural systems.
 
 ## Definition and Distinction from Other Preparations
@@ -31,11 +31,11 @@ AACT is strictly defined and distinguished from several related preparations:
   wake up and multiply. Requires physical extraction from compost.
 - **Compost Leachate**: Passive process containing only soluble nutrients,
   enzymes, hormones, and humics.
-- **Fermentative Compost Tea ([[FCT]])**: Selects for facultative anaerobic
+- **Fermentative Compost Tea (FCT)**: Selects for facultative anaerobic
   organisms that suppress diseases through antibiotic interactions.
-- **Long-Brewing Compost Tea ([[LBCT]])**: Starts aerobic, passes through
+- **Long-Brewing Compost Tea (LBCT)**: Starts aerobic, passes through
   anaerobic phase, then returns to aerobic conditions.
-- **Not-Aerobic Compost Tea ([[NACT]])**: Anaerobic bacteria dominate,
+- **Not-Aerobic Compost Tea (NACT)**: Anaerobic bacteria dominate,
   producing materials that prevent growth of particular organisms.
 
 True compost tea must contain soluble nutrients AND the full range of
@@ -73,7 +73,7 @@ Maintaining aerobic conditions is the single most critical factor. When
 dissolved oxygen drops and conditions become anaerobic:
 
 - Beneficial fungi, protozoa, and nematodes are killed
-- Human pathogens such as [[Clostridium]], E. coli, Salmonella, and Shigella
+- Human pathogens such as Clostridium, E. coli, Salmonella, and Shigella
   may proliferate
 - Beneficial communities never recover their full diversity even if returned
   to aerobic conditions
@@ -89,7 +89,7 @@ Dr. Ingham advocates direct microscopy for assessing compost tea biology:
 - Only 0.1 to 10% of soil organisms grow on any single plate medium
 - Plate methods cannot distinguish active from dormant organisms
 - Fungal morphology and hyphal diameter critical for identification are lost
-- [[Protozoa]] and [[protozoa-roles-in-soil]] require observation of live movement
+- Protozoa and [[protozoa-roles-in-soil]] require observation of live movement
 - Organism group ratios determining soil health cannot be assessed via plates
 
 ## Organism Groups and Their Roles
@@ -133,4 +133,4 @@ compost tea delivery systems for large-scale agriculture.
 - [[protozoa-roles-in-soil]]
 - [[protozoa-roles-in-soil]]
 - [[edaphic factors]]
-- [[Elaine Ingham]]
+- [[elaine-ingham]]

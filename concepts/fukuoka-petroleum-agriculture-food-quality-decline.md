@@ -62,7 +62,7 @@ Fukuoka quantifies the energy inefficiency of modern farming in stark terms:
 
 | Farming System | Energy Output per Man-Day | Notes |
 |---|---|---|
-| [[Natural farming]] | 200,000 kcal (130 lbs rice) | No outside inputs |
+| [[natural-farming]] | 200,000 kcal (130 lbs rice) | No outside inputs |
 | Traditional farming (horses/oxen) | ~20,000 kcal | 10x less efficient |
 | Small-scale mechanization | ~10,000 kcal | 2x less again |
 | Large-scale mechanization | ~5,000 kcal | 2x less again |
@@ -111,7 +111,7 @@ Fukuoka's analysis anticipates many concerns central to modern [[permaculture]] 
 - The **energy return on investment (EROI)** of industrial agriculture is negative when full lifecycle costs are counted
 - **Food miles** and distribution inefficiency are hidden costs of centralized production
 - The **organic food movement**, while an improvement, remains within the scientific agriculture paradigm because it still treats soil as a nutrient delivery medium rather than a living ecosystem
-- [[No-tillage farming]] and [[cover cropping]] systems derive directly from Fukuoka's principles
+- No-tillage farming and [[cover cropping]] systems derive directly from Fukuoka's principles
 
 ## See Also
 

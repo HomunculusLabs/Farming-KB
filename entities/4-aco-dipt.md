@@ -131,10 +131,10 @@ is often governed by analogue drug legislation:
 - [[4-ho-dipt-entity-tihkal]]
 - [[dipt-entity-tihkal]]
 
-- [[Tryptamine]]
+- [[tryptamine]]
 - [[5-HT2A-Receptor]]
-- [[Psilocin]]
-- [[DiPT]]
+- [[psilocin]]
+- [[dipt]]
 - [[4-AcO-DMT]]
-- [[Psychedelic-Compounds]]
-- [[Research-Chemicals]]
+- Psychedelic-Compounds
+- Research-Chemicals

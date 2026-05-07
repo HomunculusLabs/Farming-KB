@@ -109,12 +109,12 @@ After Fukuoka's death in 2008, his son continued to maintain the farm using the 
 
 ## See Also
 
-- [[Bill Mollison]] — co-originator of permaculture, deeply influenced by Fukuoka
-- [[Sepp Holzer]] — Austrian farmer practicing a complementary approach to natural agriculture
-- [[Master Cho]] — Korean natural farming pioneer with methods inspired by Fukuoka
-- [[Gaias Garden]] — Toby Hemenway's permaculture guide informed by Fukuoka's principles
-- [[One Straw Revolution]] — Fukuoka's seminal work that introduced natural farming to the West
-- [[Sowing Seeds in the Desert]] — Fukuoka's later work on applying natural farming to arid land restoration
+- [[bill-mollison]] — co-originator of permaculture, deeply influenced by Fukuoka
+- [[sepp-holzer]] — Austrian farmer practicing a complementary approach to natural agriculture
+- [[master-cho]] — Korean natural farming pioneer with methods inspired by Fukuoka
+- Gaias Garden — Toby Hemenway's permaculture guide informed by Fukuoka's principles
+- One Straw Revolution — Fukuoka's seminal work that introduced natural farming to the West
+- Sowing Seeds in the Desert — Fukuoka's later work on applying natural farming to arid land restoration
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-food-spirit-united]]
 - [[fukuoka-california-foxtail-greening-discovery]]

@@ -18,7 +18,7 @@ type: concept
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, or 4-PO-DMT) is the
 primary psychoactive prodrug found in hallucinogenic mushrooms of the genus
-[[Psilocybe cubensis]] and related species. It belongs to the
+[[psilocybe-cubensis]] and related species. It belongs to the
 indolealkylamine class of hallucinogens, the same chemical family as LSD.
 In the body, psilocybin is dephosphorylated to psilocin
 (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT), which is the
@@ -151,7 +151,7 @@ scientific community despite its inaccuracy). In practice, the terms
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[tihkal-psilocin-psilocybin-chemistry]]
 
-- [[Psilocybe cubensis]] for the most commonly cultivated species
+- [[psilocybe-cubensis]] for the most commonly cultivated species
 - [[hallucinogenic mushroom legal status in Europe]] for regulatory
   context
-- [[Amanita muscaria]] for a chemically distinct hallucinogenic mushroom
+- [[amanita-muscaria]] for a chemically distinct hallucinogenic mushroom

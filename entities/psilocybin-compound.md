@@ -175,8 +175,8 @@ significantly mitigate adverse outcomes.
 
 - [[psilocybin-compound-profile]]
 
-- [[Psilocybe cubensis]]
-- [[DMT]]
-- [[LSD]]
+- [[psilocybe-cubensis]]
+- [[dmt]]
+- [[lsd]]
 - [[5-HT₂A receptor]]
-- [[Neuroplasticity]]
+- Neuroplasticity

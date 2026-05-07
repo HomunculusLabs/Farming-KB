@@ -37,7 +37,7 @@ This means that the "eye" for photoperiodic flowering is not in the tip at all, 
 
 The mechanism works through a chain of events:
 
-1. [[Phytochrome]] in leaf cells absorbs red or far-red light
+1. [[phytochrome]] in leaf cells absorbs red or far-red light
 2. The activated phytochrome initiates production of a mobile signal within the leaf
 3. This signal travels from the leaf through the vascular system to the shoot apex
 4. At the apex, the signal triggers (or suppresses) the transition from vegetative growth to flowering
@@ -57,7 +57,7 @@ This distributed sensing architecture offers significant ecological advantages:
 
 ### Mechanism of Action
 
-[[Phytochrome]] in leaves functions as a molecular light-activated switch. The mechanism, elucidated by Warren L. Butler and colleagues by the early 1960s, works as follows:
+[[phytochrome]] in leaves functions as a molecular light-activated switch. The mechanism, elucidated by Warren L. Butler and colleagues by the early 1960s, works as follows:
 
 - **Red light** activates phytochrome, converting it to the Pfr (far-red absorbing) form, which promotes flowering in long-day plants
 - **Far-red light** inactivates phytochrome, converting it to the Pr (red absorbing) form, which reverses the flowering signal

@@ -180,10 +180,10 @@ reproductive success.
 
 ## Related Concepts
 
-- [[Gasteromycetes and Stinkhorn Fungi]]
-- [[Hyphal Growth and Invasive Biology]]
-- [[Fungal Biology and Ecology]]
-- [[Mushroom Hunting and Identification]]
+- Gasteromycetes and Stinkhorn Fungi
+- Hyphal Growth and Invasive Biology
+- Fungal Biology and Ecology
+- [[mushroom-hunting-and-identification]]
 
 ## See Also
 

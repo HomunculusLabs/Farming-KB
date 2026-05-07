@@ -20,11 +20,11 @@ type: concept
 
 ## Overview
 
-The genus [[Copelandia]] comprises 12 recognized species of neurotropic fungi
+The genus Copelandia comprises 12 recognized species of neurotropic fungi
 within the family Coprinaceae, making it the third most species-rich genus among
-psilocybin-containing mushrooms after [[Psilocybe]] (116 species) and
-[[Gymnopilus]] (14 species). Copelandia is classified within the Panaeoloideae,
-alongside [[Panaeolus]] (13 species) and [[Panaeolina]] (4 species), for a total
+psilocybin-containing mushrooms after Psilocybe (116 species) and
+Gymnopilus (14 species). Copelandia is classified within the Panaeoloideae,
+alongside Panaeolus (13 species) and Panaeolina (4 species), for a total
 of 29 species in this subfamily considered in the Guzman, Allen and Gartz (2000)
 treatment of 216 neurotropic fungi worldwide.
 
@@ -48,7 +48,7 @@ considered C. mexicana to be a nomen excluded. However, Guzman, Allen and Gartz
 (2000) maintained C. mexicana as a valid species, noting the importance of
 preserving taxonomic distinctions pending further study.
 
-Copelandia species are frequently confused with [[Panaeolus antillarum]], an
+Copelandia species are frequently confused with Panaeolus antillarum, an
 edible white mushroom that grows on cow dung alongside Copelandia species. P.
 antillarum does not turn blue when bruised, but recreational users often
 misidentify it as Copelandia, leading to erroneous reports of neurotropic
@@ -87,7 +87,7 @@ The 12 species of Copelandia recognized by Guzman, Allen and Gartz (2000):
 ### Tropical and Subtropical Concentration
 
 Copelandia species are predominantly tropical and subtropical in distribution.
-Unlike [[Psilocybe semilanceata]] and other temperate neurotropic fungi, the
+Unlike [[psilocybe-semilanceata]] and other temperate neurotropic fungi, the
 genus is largely absent from temperate zones. One notable exception: C.
 cyanescens occasionally grows in disturbed temperate areas, including the Valley
 of Mexico at 2,220 m altitude (observed by Guzman and Lincoff) and in central
@@ -135,7 +135,7 @@ the 16th-17th centuries yet the species does not grow natively in Europe.
 
 Copelandia species are among the most reliable bluing neurotropic fungi. The
 characteristic blue bruising indicates the presence of psilocybin and related
-indole compounds. Along with [[Conocybe]] and [[Psilocybe]], Copelandia
+indole compounds. Along with Conocybe and Psilocybe, Copelandia
 represents one of three genera where bluing is most consistently associated
 with neurotropic alkaloid content. Most Copelandia species have been
 chemically confirmed to contain psilocybin and psilocin.
@@ -150,7 +150,7 @@ chemically confirmed to contain psilocybin and psilocin.
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 
-- [[Neurotropic fungi of Hawaii and Pacific Islands]]
-- [[Psilocybe transcontinental species pairs]]
-- [[Neurotropic fungi of Central America and Caribbean]]
-- [[Conocybe and Gerronema neurotropic species]]
+- Neurotropic fungi of Hawaii and Pacific Islands
+- Psilocybe transcontinental species pairs
+- Neurotropic fungi of Central America and Caribbean
+- Conocybe and Gerronema neurotropic species

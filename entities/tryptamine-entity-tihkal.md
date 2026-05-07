@@ -85,6 +85,8 @@ substances.
 
 ## See Also
 
+- [[tryptamine_hallucinogens]]
+
 - [[tryptamine-family-overview]] — comprehensive family overview
 - [[tryptamine-consciousness-theory]] — consciousness research
 - [[tryptophan-decarboxylase]] — biosynthetic enzyme

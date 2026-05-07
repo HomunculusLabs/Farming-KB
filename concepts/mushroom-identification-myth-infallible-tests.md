@@ -19,7 +19,7 @@ One of the most persistent and dangerous misconceptions about wild mushrooms is 
 
 ### The Silver Spoon Test
 
-Perhaps the most widespread belief was that stirring mushrooms with a silver spoon would reveal poison by discoloration. This belief persisted across cultures and centuries. Dr. F.S. Cordier of Paris tested this with [[Agaricus bulbosus]] and other poisonous mushrooms, finding that silver remained brilliant. Palmer explained the phenomenon rationally: decomposing mushrooms of any kind release sulphuretted hydrogen, which can blacken silver. This indicates spoilage, not inherent toxicity. Many perfectly edible mushrooms will also discolor silver if past their prime. The test is useless for distinguishing poisonous from wholesome fresh specimens.
+Perhaps the most widespread belief was that stirring mushrooms with a silver spoon would reveal poison by discoloration. This belief persisted across cultures and centuries. Dr. F.S. Cordier of Paris tested this with Agaricus bulbosus and other poisonous mushrooms, finding that silver remained brilliant. Palmer explained the phenomenon rationally: decomposing mushrooms of any kind release sulphuretted hydrogen, which can blacken silver. This indicates spoilage, not inherent toxicity. Many perfectly edible mushrooms will also discolor silver if past their prime. The test is useless for distinguishing poisonous from wholesome fresh specimens.
 
 ### The Peeling Test
 
@@ -35,15 +35,15 @@ The belief that an edible mushroom's stem should pull out "like an umbrella hand
 
 ### Habitat Myths
 
-Newspapers routinely declared that mushrooms found in "damp, dark places" or "on decaying animal matter" were poisonous, while those from "open spots, meadows, or cultivated fields" were safe. Palmer demonstrated the opposite: the very best edible mushrooms grow in damp, dark places. The edible [[Marasmius oreades]] has a thin cap and grows in grassy lawns. The edible [[Agaricus ulmarius]] grows eccentrically from tree bark. Habitat tells the gatherer nothing about toxicity.
+Newspapers routinely declared that mushrooms found in "damp, dark places" or "on decaying animal matter" were poisonous, while those from "open spots, meadows, or cultivated fields" were safe. Palmer demonstrated the opposite: the very best edible mushrooms grow in damp, dark places. The edible [[marasmius-oreades]] has a thin cap and grows in grassy lawns. The edible Agaricus ulmarius grows eccentrically from tree bark. Habitat tells the gatherer nothing about toxicity.
 
 ### The Snail and Insect Test
 
-The claim that poisonous mushrooms are avoided by insects, worms, and snails was repeatedly cited. Palmer noted he had never seen a snail on a mushroom, and that slugs were often cut out of edible specimens without affecting edibility. Pigs ate [[Amanita]] stew without ill effect, yet the same mushroom kills humans. Squirrels were observed holding Russulae "as they held nuts," and snakes or land-tortoises glided away when Palmer touched their fungal food. Animals offer no reliable guide to human safety, since their digestive systems tolerate substances that are lethal to people.
+The claim that poisonous mushrooms are avoided by insects, worms, and snails was repeatedly cited. Palmer noted he had never seen a snail on a mushroom, and that slugs were often cut out of edible specimens without affecting edibility. Pigs ate [[amanita]] stew without ill effect, yet the same mushroom kills humans. Squirrels were observed holding Russulae "as they held nuts," and snakes or land-tortoises glided away when Palmer touched their fungal food. Animals offer no reliable guide to human safety, since their digestive systems tolerate substances that are lethal to people.
 
 ### The Color Change Test
 
-The belief that mushrooms changing color when bruised are poisonous is particularly dangerous. The [[Boletus cyane sceus]] turns "throughout the most beautiful blue" and is entirely edible. Many edible Boleti change to red or blue on cutting. Meanwhile, the deadly [[Amanita]] "remains the purest white under all conditions." This myth causes gatherers to discard safe, colorful fungi while feeling safe with the most dangerous species.
+The belief that mushrooms changing color when bruised are poisonous is particularly dangerous. The Boletus cyane sceus turns "throughout the most beautiful blue" and is entirely edible. Many edible Boleti change to red or blue on cutting. Meanwhile, the deadly [[amanita]] "remains the purest white under all conditions." This myth causes gatherers to discard safe, colorful fungi while feeling safe with the most dangerous species.
 
 ## The "Poisonous Under Unknown Conditions" Theory
 
@@ -87,7 +87,7 @@ Palmer proposed a practical three-tier classification:
 
 The second category is harmless once identified; the third is invariably fatal. The confusion arose because many authorities applied the word "poisonous" indiscriminately to both categories, leading people to believe all non-esculent mushrooms were equally dangerous.
 
-This conflation had real consequences. Worthington G. Smith's chart labeled whole families as "poisonous" when they were merely disagreeable. Books by Cordier of France and Cooke and Berkeley of England all used the term loosely. A cook who learned that "boleti are poisonous" would discard [[Boletus edulis]], one of the finest edible fungi in the world, while remaining vulnerable to the genuinely deadly Amanita because it looked "like a regular mushroom."
+This conflation had real consequences. Worthington G. Smith's chart labeled whole families as "poisonous" when they were merely disagreeable. Books by Cordier of France and Cooke and Berkeley of England all used the term loosely. A cook who learned that "boleti are poisonous" would discard [[boletus-edulis]], one of the finest edible fungi in the world, while remaining vulnerable to the genuinely deadly Amanita because it looked "like a regular mushroom."
 
 ## The Necessity of Undisguised Preparation
 
@@ -103,7 +103,7 @@ Palmer specifically warned against combining multiple mushroom varieties in a si
 
 ## Children as Natural Discriminators
 
-Palmer observed that children, with "unperverted appetites," readily learned to distinguish good from bad fungi. His most promising student was a girl of ten who instinctively avoided deadly Amanitas while picking and tasting [[Russula]] species in the woods. He attributed this to the cultivated perceptiveness that children develop quickly, analogous to how they learn to distinguish familiar foods.
+Palmer observed that children, with "unperverted appetites," readily learned to distinguish good from bad fungi. His most promising student was a girl of ten who instinctively avoided deadly Amanitas while picking and tasting Russula species in the woods. He attributed this to the cultivated perceptiveness that children develop quickly, analogous to how they learn to distinguish familiar foods.
 
 The practical lesson was that anyone of "ordinary tact and perceptive faculties" could be taught to identify some twenty or thirty different varieties of mushrooms that would be "delicious and wholesome additions to the table." The learning curve was steepest for adults who had internalized the various myths and folklore. A person who simply brought specimens to Palmer's office for identification, without formal study, eventually learned to eat "without hesitation, whenever in season, about thirty varieties" — all from repeated exposure and the slow development of pattern recognition.
 

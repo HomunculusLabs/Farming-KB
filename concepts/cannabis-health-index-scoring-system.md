@@ -136,8 +136,8 @@ The CHI was published alongside a free mobile application and a companion monthl
 - [[blesching-cannabis-health-index-autoimmune-conditions]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 
-- [[Endocannabinoid System]]
-- [[Cannabis and Anorexia Cachexia]]
-- [[Mind Body Medicine and Emotional Molecules]]
-- [[Tetrahydrocannabinol THC]]
-- [[Cannabidiol CBD]]
+- [[endocannabinoid-system]]
+- [[cannabis-and-anorexia-cachexia]]
+- Mind Body Medicine and Emotional Molecules
+- [[tetrahydrocannabinol-thc]]
+- [[cannabidiol-cbd]]

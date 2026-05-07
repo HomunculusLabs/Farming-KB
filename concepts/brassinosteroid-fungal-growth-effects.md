@@ -23,7 +23,7 @@ Brassinosteroids are a class of naturally occurring steroidal plant-growth regul
 
 ## The Gartz et al. Study (1990)
 
-The most significant investigation into brassinosteroid effects on fungi was conducted by [[Gartz-Jörg]], [[Adam-L]], and [[Vorbrodt-HM]] in 1990. Their study examined the impact of [[22S-23S-homobrassinolide]] on the cultivation of [[psilocybe-cubensis]], a basidiomycete mushroom widely used as a model organism in mycological research. The researchers sought to determine whether exogenous application of brassinosteroids could accelerate mycelial growth and improve fruiting body yield.
+The most significant investigation into brassinosteroid effects on fungi was conducted by [[Gartz-Jörg]], Adam-L, and Vorbrodt-HM in 1990. Their study examined the impact of [[22S-23S-homobrassinolide]] on the cultivation of [[psilocybe-cubensis]], a basidiomycete mushroom widely used as a model organism in mycological research. The researchers sought to determine whether exogenous application of brassinosteroids could accelerate mycelial growth and improve fruiting body yield.
 
 
 
@@ -33,7 +33,7 @@ The most significant investigation into brassinosteroid effects on fungi was con
 The study employed two distinct cultivation systems to assess brassinosteroid effects:
 
 - **Agar medium:** A 6% [[malt-extract-agar]] substrate was used to measure radial mycelial growth rates. Brassinosteroid solutions were applied to the agar surface at controlled concentrations.
-- **Compost substrate:** A bulk substrate composed of horse dung and rice grain, supplemented with [[KH2PO4]] (potassium dihydrogen phosphate) as a buffer and nutrient source, was used for fruiting trials. This substrate was sterilized and inoculated with mycelial cultures before being placed in fruiting conditions with controlled humidity and temperature.
+- **Compost substrate:** A bulk substrate composed of horse dung and rice grain, supplemented with KH2PO4 (potassium dihydrogen phosphate) as a buffer and nutrient source, was used for fruiting trials. This substrate was sterilized and inoculated with mycelial cultures before being placed in fruiting conditions with controlled humidity and temperature.
 
 
 

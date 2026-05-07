@@ -25,7 +25,7 @@ P. cubensis is a coprophilous (dung-inhabiting) species that fruits almost
 exclusively on bovine dung, particularly that of cattle (Bos taurus). This
 specialized substrate requirement is the key to understanding both its
 current worldwide distribution and its historical biogeography. Unlike many
-other [[Psilocybe]] species that grow on decaying wood, leaf litter, or
+other Psilocybe species that grow on decaying wood, leaf litter, or
 organic soils in forest habitats, P. cubensis is adapted to open,
 sun-exposed pastures and grasslands where cattle graze.
 
@@ -161,7 +161,7 @@ cubensis, though none match its geographic range:
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 
-- [[Psilocybe semilanceata Worldwide Temperate Distribution]]
+- Psilocybe semilanceata Worldwide Temperate Distribution
 - [[Four Groups of Neurotropic Fungi: Global Distribution]]
-- [[Southern Hemisphere Origin Hypothesis for Neurotropic Fungi]]
-- [[Neurotropic Fungi Underground Trade and Legislation]]
+- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+- Neurotropic Fungi Underground Trade and Legislation

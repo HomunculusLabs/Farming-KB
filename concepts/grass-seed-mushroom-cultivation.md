@@ -145,11 +145,11 @@ Sclerotia are dense, hard, truffle-like masses that serve as nutrient reserves f
 
 ## Related Concepts
 
-- [[Psilocybe mexicana]] for the species biology and natural history
-- [[Psilocybe tampanensis]] for the Philosopher's Stone sclerotia-producing species
-- [[Sclerotia]] for the biology and chemistry of fungal storage structures
-- [[Mushroom Substrate]] for comparison with other cultivation media
-- [[Sterile Technique]] for contamination prevention in mycological work
+- [[psilocybe-mexicana]] for the species biology and natural history
+- [[psilocybe-tampanensis]] for the Philosopher's Stone sclerotia-producing species
+- Sclerotia for the biology and chemistry of fungal storage structures
+- Mushroom Substrate for comparison with other cultivation media
+- Sterile Technique for contamination prevention in mycological work
 
 ## See Also
 

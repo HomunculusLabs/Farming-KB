@@ -160,8 +160,8 @@ The interplay between limonene's uplifting qualities and myrcene's sedating prop
 - [[sour-diesel]]
 - [[wedding-cake]]
 
-- [[Girl Scout Cookies]] — Grandparent strain via Animal Cookies
-- [[Sour Diesel]] — Ancestor via Sour Apple
-- [[Gelato]] — Related dessert-profile hybrid
-- [[Wedding Cake]] — Another Cookies-lineage dessert strain
-- [[Limonene]] — Primary terpene
+- [[girl-scout-cookies]] — Grandparent strain via Animal Cookies
+- [[sour-diesel]] — Ancestor via Sour Apple
+- [[gelato]] — Related dessert-profile hybrid
+- [[wedding-cake]] — Another Cookies-lineage dessert strain
+- [[limonene]] — Primary terpene

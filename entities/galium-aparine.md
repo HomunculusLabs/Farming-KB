@@ -146,7 +146,7 @@ and benefits subsequent crops when applied as mulch or compost amendment.
 
 - [[medicinal-herb-growing]]
 
-- [[Urtica dioica]]
-- [[Plantago major]]
-- [[Taraxacum officinale]]
-- [[Borago officinalis]]
+- [[urtica-dioica]]
+- [[plantago-major]]
+- [[taraxacum-officinale]]
+- [[borago-officinalis]]

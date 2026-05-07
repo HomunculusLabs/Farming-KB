@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-The distribution of [[psilocybin]] and [[psilocin]] between the cap (pileus) and stem (stipe) of [[Psilocybe cubensis]] fruiting bodies is not uniform. Research by Bigwood and Beug (1982) demonstrates that caps consistently contain higher concentrations of psilocybin than stems, while psilocin distribution between these tissues varies dramatically by strain. Understanding this tissue-specific alkaloid localization provides insight into both the biology of tryptamine biosynthesis and the practical considerations of mushroom consumption and analysis.
+The distribution of [[psilocybin]] and [[psilocin]] between the cap (pileus) and stem (stipe) of [[psilocybe-cubensis]] fruiting bodies is not uniform. Research by Bigwood and Beug (1982) demonstrates that caps consistently contain higher concentrations of psilocybin than stems, while psilocin distribution between these tissues varies dramatically by strain. Understanding this tissue-specific alkaloid localization provides insight into both the biology of tryptamine biosynthesis and the practical considerations of mushroom consumption and analysis.
 
 ## Anatomical Context
 
-The fruiting body of [[Psilocybe cubensis]] consists of two main structural components:
+The fruiting body of [[psilocybe-cubensis]] consists of two main structural components:
 
 ### Cap (Pileus)
 
@@ -92,7 +92,7 @@ The tissue-specific distribution may also change over the lifespan of the fruiti
 
 When considering total alkaloid yield from a fruiting body, both concentration and tissue mass must be accounted for:
 
-- Caps typically constitute 30 to 50 percent of the total dry weight of a [[Psilocybe cubensis]] fruiting body
+- Caps typically constitute 30 to 50 percent of the total dry weight of a [[psilocybe-cubensis]] fruiting body
 - Stems constitute the remaining 50 to 70 percent
 - Despite higher concentrations in caps, the greater mass of stem tissue means that a significant fraction of total alkaloid content resides in the stems
 
@@ -124,7 +124,7 @@ The development of standardized analytical protocols for [[tryptamine]] alkaloid
 
 ## See Also
 
-- [[Psilocybin Variation Across Flushes]]
-- [[Psilocin Accumulation Pattern Across Flushes]]
-- [[Psilocybe Cubensis Miniculture Method]]
-- [[HPLC Analysis of Tryptamine Alkaloids]]
+- [[psilocybin-variation-across-flushes]]
+- [[psilocin-accumulation-pattern-across-flushes]]
+- [[psilocybe-cubensis-miniculture-method]]
+- [[hplc-analysis-of-tryptamine-alkaloids]]

@@ -69,7 +69,7 @@ This combination creates serious risks for tourists who may be unaware of contra
 
 Most shamans are unfamiliar with Western pharmaceuticals, so the responsibility falls entirely on the tourist to be aware of dangerous interactions.
 
-Particularly dangerous interactions can occur with medications used to treat [[AIDS]] and [[HIV]], antidepressants and psychiatric medications (especially SSRIs, which can cause serotonin syndrome when combined with ayahuasca's MAOI content), and other medications affecting serotonin levels.
+Particularly dangerous interactions can occur with medications used to treat AIDS and HIV, antidepressants and psychiatric medications (especially SSRIs, which can cause serotonin syndrome when combined with ayahuasca's MAOI content), and other medications affecting serotonin levels.
 
 There is at least one documented fatality: an AIDS patient died during a ceremony in Bolivia despite appearing sufficiently healthy to dance at the beginning of the service.
 
@@ -135,4 +135,4 @@ Stuart notes that while many shamans could potentially be far more enlightening 
 
 - [[harm reduction]]
 
-- [[Santo Daime]]
+- Santo Daime

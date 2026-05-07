@@ -109,6 +109,8 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 
 ## See Also
 
+- [[hyperspace_logos_consciousness]]
+
 - [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
 - [[mckenna-tryptamine-transtemporal-consciousness-and-nunc-stans]]
 - [[mckenna-orientomania-and-european-discovery-of-hashish]]

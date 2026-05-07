@@ -31,7 +31,7 @@ The practical consequence for home gardeners, who grow food for nutrition rather
 
 ## How Potassium Drives Yield
 
-[[Potassium]] (K) is one of the three primary [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining turgor pressure, and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
+Potassium (K) is one of the three primary [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining turgor pressure, and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
 
 However, when potassium is supplied in excess, plants respond by accumulating it in their tissues. This drives cellular expansion and increases water uptake, resulting in larger cells and greater overall plant mass. The effect is most visible in root crops and leafy vegetables, where additional potassium produces noticeably larger roots and more voluminous leaves.
 
@@ -65,7 +65,7 @@ Solomon acknowledges that a gardener "could sizably increase bulk yield by boost
 
 For home gardeners growing food for personal consumption rather than market sale, the economics of the potassium tradeoff are reversed. The gardener's interest is in maximizing nutrition per unit of garden space and per unit of labor, not in maximizing weight of harvest. This means that deliberately limiting potassium, while ensuring adequate supplies of all other nutrients, is the rational strategy.
 
-Gardeners should be cautious with amendments that are primarily potassium sources. [[Wood ashes]], while a traditional amendment widely recommended in gardening literature, are very high in potassium and can push soil levels beyond what is optimal for nutritional quality. Similarly, heavy applications of compost or [[manure-quality-variability-and-fertilizer-value]], which contain significant potassium, can accumulate excess potassium over time.
+Gardeners should be cautious with amendments that are primarily potassium sources. Wood ashes, while a traditional amendment widely recommended in gardening literature, are very high in potassium and can push soil levels beyond what is optimal for nutritional quality. Similarly, heavy applications of compost or [[manure-quality-variability-and-fertilizer-value]], which contain significant potassium, can accumulate excess potassium over time.
 
 The challenge is that potassium is easy to oversupply and difficult to remove from soil. Unlike nitrogen, which leaches readily, or phosphorus, which becomes fixed in soil minerals, potassium can persist in plant-available forms for years. A few seasons of excessive potassium application can create a long-term nutritional deficit that cannot be quickly corrected.
 

@@ -127,8 +127,8 @@ Despite its controversial status in academic circles, the Stoned Ape Theory has 
 - [[terence-mckenna-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 
-- [[Partnership vs Dominator Societies]]
-- [[Exopheromones and Plant Intelligence]]
-- [[Eleusinian Mysteries]]
-- [[DMT Hyperspace Entities]]
-- [[Qatal Huyuk]]
+- [[partnership-vs-dominator-societies]]
+- [[exopheromones-and-plant-intelligence]]
+- [[eleusinian-mysteries]]
+- [[dmt-hyperspace-entities]]
+- Qatal Huyuk
