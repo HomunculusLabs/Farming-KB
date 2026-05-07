@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2339 pages**
+**2344 pages**
 
 ## #
 
@@ -361,6 +361,7 @@
 - [[aspergillus-fumigatus]]
 - [[aspergillus-niger]]
 - [[aspergillus-oryzae]]
+- [[astraeus-hygrometricus]]
 - [[astragalus-membranaceus]]
 - [[atriplex-halimus]]
 - [[atropa-belladonna]]
@@ -414,6 +415,7 @@
 - [[biochar]]
 - [[bis-tom-entity-pihkal]]
 - [[bisabolol]]
+- [[biscotti]]
 - [[biscotti-cannabis-strain]]
 - [[biscotti-strain]]
 - [[bjerkandera-adusta]]
@@ -717,6 +719,7 @@
 - [[deschloroketamine]]
 - [[desfontainia-spinosa]]
 - [[desmanthus-illinoensis]]
+- [[desmodium-canadense]]
 - [[desmodium-gyrans]]
 - [[desmodium-uncinatum]]
 - [[desoxy-entity]]
@@ -1667,6 +1670,7 @@
 - [[paulownia-tomentosa]]
 - [[pausinystalia-yohimbe]]
 - [[pawpaw]]
+- [[paxillus-atrotomentosus]]
 - [[paxillus-involutus]]
 - [[pcp]]
 - [[pe-entity-pihkal]]
@@ -2072,6 +2076,7 @@
 - [[scutellaria-baicalensis]]
 - [[scutellaria-lateriflora]]
 - [[scutellospora-calospora]]
+- [[senna-alata]]
 - [[senna-alexandrina]]
 - [[sepp-holzer]]
 - [[sepp-holzer-entity]]
