@@ -82,7 +82,9 @@ When the farmer forgets the land to which he owes his existence and becomes conc
 
 
 
-## Related Concepts
+## Related
+
+- [[fukuoka-american-agricultural-decline]] Concepts
 
 - [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]

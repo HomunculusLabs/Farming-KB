@@ -109,6 +109,8 @@ The genus *Panus* was historically merged with *Lentinus* but molecular phylogen
 
 ## See Also
 
+- [[panus-conchatus]]
+
 - [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
 - [[trametes-versicolor]]

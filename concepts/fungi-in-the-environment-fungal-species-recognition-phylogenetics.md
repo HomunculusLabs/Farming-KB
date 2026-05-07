@@ -122,4 +122,4 @@ Despite these advances, the search for diagnosable phenotypic characters that co
 
 - [[fungal-biodiversity]] for the broader context of fungal species diversity
 - [[extremophilic-fungi]] for environmental factors influencing fungal speciation
-- [[fungal-ecosystems]] for ecological context of fungal populations
+- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for ecological context of fungal populations

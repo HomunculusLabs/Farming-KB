@@ -137,6 +137,10 @@ Lion's Mane has a firm, meaty texture and a mild, sweet flavor often compared to
 
 ## See Also
 
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]
+- [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
+- [[mushroom-cultivation-basics]]
+
 - [[species:ganoderma-lucidum]] — Reishi, another major medicinal mushroom
 - [[compound:beta-glucan]] — Key immunomodulatory polysaccharide
 - [[compound:psilocybin]] — Psychoactive fungal compound for comparison

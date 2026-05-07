@@ -146,3 +146,6 @@ Standard rates from the field guide:
   mildew alerts)
 - Water serves as carrier; ensure adequate volume to cover the
 ## See Also
+
+- [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
+- [[ingham-paper-cardboard-fungal-foods-compost]]

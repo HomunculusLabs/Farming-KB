@@ -1644,3 +1644,5 @@
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
+- [[swale-design-water-harvesting]]
+- [[natural-farm-establishment-protective-forests-and-windbreaks]]

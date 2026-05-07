@@ -118,6 +118,8 @@ The Malaysian Ministry of Health classifies tongkat ali as a traditional medicin
 
 ## See Also
 
+- [[euphoria-longifolia]]
+
 - [[ashwagandha|Withania somnifera]]
 - [[rhodiola-rosea|Rhodiola rosea]]
 - [[adaptogenic-herbs-guide]]

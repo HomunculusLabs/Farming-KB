@@ -82,6 +82,8 @@ mat in Oregon estimated to be over 2,200 years old.
 
 ## See Also
 
+- [[hygrophoropsis-aurantiaca]]
+
 - [[mycelial-networks]]
 - [[mycorrhizal-fungi]]
 - [[mushroom-life-cycle]]

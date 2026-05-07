@@ -119,6 +119,8 @@ Thelephora terrestris is most similar to Suillus bovinus in decomposition suppre
 
 ## See Also
 
+- [[thelephora-palmata]]
+
 - [[tribulus-terrestris]]
 
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

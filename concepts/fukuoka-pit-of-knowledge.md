@@ -91,3 +91,7 @@ The pit of knowledge metaphor connects to Fukuoka's broader [[fukuoka-mu-nothing
 - When he arrived at this conclusion, "I lost a standard by which to judge what is true and what is false"
 
 See also: [[fukuoka-natural-farming-speech-1975]], [[fukuoka-scientific-farming-paradoxes]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-direct-observation-method]], [[fukuoka-critique-western-dietetics-nutritional-science]], [[fukuoka-errors-human-intellect]], [[fukuoka-science-continues-rampage]], [[fukuoka-critique-laws-agricultural-science]]
+
+## See Also
+
+- [[fukuoka-pit-of-knowledge-fragmented-science]]

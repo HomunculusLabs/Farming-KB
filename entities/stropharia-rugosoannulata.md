@@ -152,6 +152,8 @@ The species exemplifies multi-functional integration in perennial polyculture sy
 
 ## See Also
 
+- [[stropharia-ambiguata]]
+
 - [[stropharia-rugosoannulata-permaculture]]
 - [[stropharia-ambigua]]
 - [[stropharia-cubensis]]

@@ -1449,3 +1449,5 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
+- [[pf-tek-primordia-formation-and-pinning-process]]
+- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]

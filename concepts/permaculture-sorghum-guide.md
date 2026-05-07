@@ -85,6 +85,8 @@ Plants cannot be used as fodder until at least 18 inches (0.5 m) tall. Young sho
 
 ## See Also
 
+- [[sorghum-vs-millet-comparison]]
+
 - [[permaculture-grain-crops]]
 
 - [[grain-harvesting-and-storage]]

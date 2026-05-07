@@ -114,6 +114,6 @@ The beetle gut remains one of the most promising frontiers for fungal biodiversi
 ## See Also
 
 - [[fungal-biodiversity]] for the broader context of fungal species diversity
-- [[decomposition-wood-decay]] for fungal decomposition of woody substrates
-- [[fungal-ecosystems]] for fungal roles in ecosystem processes
-- [[soil-fungal-community-structure]] for fungal communities in soil habitats
+- [[fungi-in-the-environment-decomposition-wood-decay]] for fungal decomposition of woody substrates
+- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for fungal roles in ecosystem processes
+- [[fungi-in-the-environment-soil-fungal-community-structure]] for fungal communities in soil habitats

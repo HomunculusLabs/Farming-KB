@@ -137,6 +137,8 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[natural-farm-establishment-protective-forests-and-windbreaks]]
+
 - [[cho-natural-farming-philosophy-of-non-interference]]
 
 - [[integrated-paddy-rice-and-tree-system]]

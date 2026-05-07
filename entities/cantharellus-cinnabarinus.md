@@ -118,6 +118,8 @@ The cinnabar chanterelle's role in **forest ecosystem health** — nutrient cycl
 
 ## See Also
 
+- [[cantharellus-subalbidus]]
+
 - [[cantharellus-cibarius]] — golden chanterelle, the most widely known chanterelle species
 - [[craterellus-tubaeformis]] — winter chanterelle, a related edible species
 - [[craterellus-cornucopioides]] — horn of plenty, a dark-colored chanterelle relative

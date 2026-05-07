@@ -144,6 +144,8 @@ increased disease pressure, which further stresses the plant.
 
 ## See Also
 
+- [[aact-disease-suppression-mechanisms-ingham]]
+
 - [[actively-aerated-compost-tea]]
 - [[ingham-aact-disease-suppression]]
 - [[soil-foodweb-balancing-protocol-ingham]]

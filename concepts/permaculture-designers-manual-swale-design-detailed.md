@@ -86,6 +86,8 @@ A swale is a large hollow or broad drain intended to first pool, then absorb all
 
 ## See Also
 
+- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
+
 - [[keyline-design]]
 - [[permaculture-designers-manual-dam-construction]]
 - [[soil-erosion-control]]

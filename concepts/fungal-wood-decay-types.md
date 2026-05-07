@@ -110,6 +110,8 @@ management decisions regarding snag retention and coarse woody debris management
 
 ## Related
 
+- [[pseudofistulina-fistulosa]]
+
 - [[coriolopsis-capitata]]
 
 - [[ischnoderma-resinosum]]

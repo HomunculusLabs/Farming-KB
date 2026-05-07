@@ -32,7 +32,7 @@ The most drought-tolerant cereal on Earth. Pearl millet reliably produces grain 
 - **Days to maturity:** 75–100 days (early varieties)
 - **Small-scale yield:** 400–1,200 kg/ha; up to 2,000 kg/ha with good management
 - **Nutritional highlights:** High in iron (6–12 mg/100 g), zinc, and B vitamins; ~11% protein
-- **Processing difficulty:** Moderate — hulling needed but manageable with small hammer mills; see [[grain-processing-equipment]]
+- **Processing difficulty:** Moderate — hulling needed but manageable with small hammer mills; see grain processing equipment
 - **Best fit:** Hot semi-arid regions with sandy soils; the default choice where rainfall is below 400 mm
 
 ### Sorghum (*Sorghum bicolor*)
@@ -45,7 +45,7 @@ The second-most drought-tolerant major cereal. Extremely versatile — used for 
 - **Small-scale yield:** 600–1,800 kg/ha
 - **Nutritional highlights:** ~10–12% protein; high antioxidants; gluten-free; slow-digesting starch
 - **Processing difficulty:** Low to moderate — easy to thresh; requires dehulling for food-grade flour
-- **Best fit:** Semi-arid subtropics; dual-purpose (grain + fodder); see also [[sorghum-syrup-production]]
+- **Best fit:** Semi-arid subtropics; dual-purpose (grain + fodder); see also [[permaculture-sorghum-guide]]
 
 ### Finger Millet (*Eleusine coracana*)
 
@@ -56,7 +56,7 @@ A staple in East Africa and South Asia with exceptional nutritional density and 
 - **Days to maturity:** 100–120 days
 - **Small-scale yield:** 500–1,500 kg/ha
 - **Nutritional highlights:** Very high in calcium (344 mg/100 g), iron, and methionine; outstanding for child nutrition
-- **Processing difficulty:** Moderate — tiny grains require specialized dehulling or pounding; see [[finger-millet-processing]]
+- **Processing difficulty:** Moderate — tiny grains require specialized dehulling or pounding; see finger millet processing
 - **Best fit:** Subtropical highlands; farmers prioritizing nutritional output over sheer yield
 
 ### Foxtail Millet (*Setaria italica*)
@@ -80,7 +80,7 @@ A pseudo-cereal with the highest protein quality of any grain crop. Grown for bo
 - **Days to maturity:** 90–110 days (grain harvest)
 - **Small-scale yield:** 500–1,500 kg/ha grain; leaves are a bonus crop
 - **Nutritional highlights:** 14–16% protein with complete amino acid profile (high lysine); rich in iron and magnesium
-- **Processing difficulty:** High — tiny seeds require careful winnowing and specialized equipment; see [[amaranth-processing-guide]]
+- **Processing difficulty:** High — tiny seeds require careful winnowing and specialized equipment; see amaranth processing guide
 - **Best fit:** Farmers seeking maximum nutritional value per hectare; willing to invest in processing
 
 ### Quinoa (*Chenopodium quinoa*)
@@ -109,7 +109,7 @@ A tiny-seeded Ethiopian staple with excellent drought endurance once established
 
 ### Heritage Wheat & Barley (Landraces)
 
-Traditional wheat and barley landraces (e.g., [[heritage-wheat-varieties]], [[barley-for-smallholders]]) are worth considering for temperate dryland farms receiving at least 400 mm of rain. Not as drought-tolerant as millets, but offer familiar processing and established markets. Yields: 800–2,000 kg/ha (wheat) and 600–1,600 kg/ha (barley) in low-input dryland systems.
+Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley for smallholders) are worth considering for temperate dryland farms receiving at least 400 mm of rain. Not as drought-tolerant as millets, but offer familiar processing and established markets. Yields: 800–2,000 kg/ha (wheat) and 600–1,600 kg/ha (barley) in low-input dryland systems.
 
 ## Decision Matrix
 
@@ -127,7 +127,7 @@ Traditional wheat and barley landraces (e.g., [[heritage-wheat-varieties]], [[ba
 ## Quick Recommendations by Context
 
 ### Hot Semi-Arid (250–400 mm annual rainfall, >35 °C summer peaks)
-**Pearl millet** is your crop. It is the only reliable grain producer at the lower end of this range. Pair with cowpea or pigeon pea for nitrogen fixation. See [[semi-arid-grain-systems]].
+**Pearl millet** is your crop. It is the only reliable grain producer at the lower end of this range. Pair with cowpea or pigeon pea for nitrogen fixation. See semi arid grain systems.
 
 ### Semi-Arid Subtropical (400–600 mm, warm winters)
 **Sorghum** or **pearl millet** depending on your exact rainfall. Sorghum gives higher yields and better fodder at the upper end. Consider a pearl millet–sorghum rotation.
@@ -152,12 +152,14 @@ Traditional wheat and barley landraces (e.g., [[heritage-wheat-varieties]], [[ba
 1. **Match maturity length to your rainy season.** A 120-day variety in a 90-day rainy season is a guaranteed loss.
 2. **Focus on establishment.** Most drought-tolerant grains are drought-hardy *after* establishment. Ensure adequate soil moisture at planting.
 3. **Diversify.** Plant two grain species rather than betting on one — pearl millet + foxtail millet, or sorghum + finger millet spreads risk.
-4. **Invest in processing early.** The biggest bottleneck isn't growing alternative grains — it's processing them. See [[grain-harvesting-and-storage]] and [[small-scale-milling-options]].
-5. **Save seed.** Drought years produce the most resilient seed. Select from the best-performing plants each season. See [[seed-saving-for-grains]].
+4. **Invest in processing early.** The biggest bottleneck isn't growing alternative grains — it's processing them. See [[grain-harvesting-and-storage]] and small scale milling options.
+5. **Save seed.** Drought years produce the most resilient seed. Select from the best-performing plants each season. See seed saving for grains.
 
 ## Related Pages
 
-- [[semi-arid-grain-systems]] · [[sorghum-syrup-production]] · [[grain-processing-equipment]]
-- [[finger-millet-processing]] · [[heritage-wheat-varieties]] · [[barley-for-smallholders]]
-- [[grain-harvesting-and-storage]] · [[small-scale-milling-options]] · [[seed-saving-for-grains]]
-- [[amaranth-processing-guide]] · [[water-wise-farming-overview]]
+- semi arid grain systems · [[permaculture-sorghum-guide]] · grain processing equipment
+- finger millet processing · heritage wheat varieties · barley for smallholders
+- [[grain-harvesting-and-storage]] · small scale milling options · seed saving for grains
+- amaranth processing guide · water wise farming overview
+
+- [[permaculture-sorghum-guide]]

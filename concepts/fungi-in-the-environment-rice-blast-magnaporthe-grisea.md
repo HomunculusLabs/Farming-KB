@@ -113,7 +113,7 @@ Understanding the molecular basis of *M. grisea* infection has direct implicatio
 
 ## See Also
 
-- [[fungal-endophytes-plant-communities]] for other plant-fungal interactions
-- [[plant-fungal-interactions]] for broader context on plant pathology
-- [[symbiotic-relationships]] for contrast with mutualistic associations
+- [[garden-plant-groupings]] for other plant-fungal interactions
+- [[fungal-spore-mounting-and-preservation-techniques]] for broader context on plant pathology
+- [[fungal-spore-mounting-and-preservation-techniques]] for contrast with mutualistic associations
 - [[fungal-biodiversity]] for fungal species diversity

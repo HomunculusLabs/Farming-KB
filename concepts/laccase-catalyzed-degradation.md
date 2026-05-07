@@ -127,6 +127,8 @@ Based on gene expression, two types of laccases have been distinguished: constit
 
 ## See Also
 
+- [[ceriporiopsis-subvermispora]]
+
 - [[enzymatic-degradation-in-mycoremediation]]
 
 - [[mycoremediation-enzymology]]

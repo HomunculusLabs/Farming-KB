@@ -130,6 +130,6 @@ Morels offer several potential applications in permaculture and ecological desig
 ## See Also
 
 - [[gyromitra-esculenta]] — toxic false morel lookalike
-- [[morchella-cultivation]] — techniques for growing morels
-- [[edible-wild-fungi]] — guide to foraging edible mushrooms
+- [[medicinal-mushroom-guide-turkey-tail]] — techniques for growing morels
+- [[cannabis-strain-guide-reference]] — guide to foraging edible mushrooms
 - [[mycorrhizal-networks]] — fungal networks in forest ecosystems

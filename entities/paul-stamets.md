@@ -134,5 +134,5 @@ His personal narrative emphasizes the interconnection between scientific rigor, 
 - [[Hericium-erinaceus]] — Lion's mane mushroom, a species Stamets has championed
 - [[Ganoderma-lucidum]] — Reishi mushroom, central to his Host Defense product line
 - [[mycoremediation]] — Environmental cleanup using fungi
-- [[Psilocybe]] — Genus of psychoactive mushrooms Stamets has researched and advocated for
+- Psilocybe — Genus of psychoactive mushrooms Stamets has researched and advocated for
 - [[permaculture]] — Ecological design framework aligned with Stamets' philosophy

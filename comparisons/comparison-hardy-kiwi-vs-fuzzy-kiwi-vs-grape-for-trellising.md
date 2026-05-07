@@ -135,6 +135,8 @@ Hardy kiwi commands premium prices at farmers' markets due to novelty, exception
 
 ## See Also
 
+- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
+
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — detailed kiwifruit growing guide

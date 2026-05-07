@@ -125,6 +125,8 @@ For most homesteaders and small-scale growers in zones 5–8, hazelnuts offer th
 
 ## See Also
 
+- [[comparison-soursop-vs-cherimoya-cultivation]]
+
 - [[comparison-horseradish-vs-wasabi-vs-mustard-cultivation]]
 
 - [[gaias-garden-white-oak-hazelnut-guild-design]]

@@ -19,7 +19,7 @@ sources:
 
 # Sorghum vs Millet — Comparison for Small-Scale Farming
 
-Both [[sorghum]] and millet are C4 cereal grasses renowned for their ability to produce grain under heat and water stress that devastates maize, wheat, and rice. For small-scale farmers in semi-arid and tropical regions, choosing between them — or combining them — can determine food security and farm resilience. This comparison focuses on **grain sorghum** (*Sorghum bicolor*) against the two most widely cultivated millets: **pearl millet** (*Pennisetum glaucum*) and **finger millet** (*Eleusine coracana*), with brief notes on foxtail millet (*Setaria italica*).
+Both [[permaculture-sorghum-guide]] and millet are C4 cereal grasses renowned for their ability to produce grain under heat and water stress that devastates maize, wheat, and rice. For small-scale farmers in semi-arid and tropical regions, choosing between them — or combining them — can determine food security and farm resilience. This comparison focuses on **grain sorghum** (*Sorghum bicolor*) against the two most widely cultivated millets: **pearl millet** (*Pennisetum glaucum*) and **finger millet** (*Eleusine coracana*), with brief notes on foxtail millet (*Setaria italica*).
 
 ## Summary Comparison
 
@@ -89,11 +89,11 @@ Finger millet is the most labor-intensive. Its tiny seeds (1–1.5 mm) require f
 | Magnesium (mg) | 165 | 114 | 137 |
 | Methionine (g/100g protein) | 1.6 | 2.2 | 2.1 |
 
-All three are [[gluten-free]], making them important for people with celiac disease. Finger millet stands out for its exceptionally high calcium content (344 mg/100g — comparable to milk) and high dietary fiber. Pearl millet has the best overall amino acid profile, with higher methionine and cysteine than sorghum. Sorghum contains unique antioxidants (3-deoxyanthocyanidins) not found in millets.
+All three are gluten free, making them important for people with celiac disease. Finger millet stands out for its exceptionally high calcium content (344 mg/100g — comparable to milk) and high dietary fiber. Pearl millet has the best overall amino acid profile, with higher methionine and cysteine than sorghum. Sorghum contains unique antioxidants (3-deoxyanthocyanidins) not found in millets.
 
 ## Uses Beyond Grain
 
-- **Sorghum:** Dual-purpose (grain + [[animal feed]]). Sweet types produce syrup and biofuel. Stalks used for fencing, thatch, and [[bioenergy]]. Broomcorn types for broom manufacturing. Industrial applications including biodegradable packaging.
+- **Sorghum:** Dual-purpose (grain + [[animal feed]]). Sweet types produce syrup and biofuel. Stalks used for fencing, thatch, and bioenergy. Broomcorn types for broom manufacturing. Industrial applications including biodegradable packaging.
 - **Pearl millet:** Primarily a food grain in Africa and South Asia. Stover is valuable dry-season fodder — pearl millet straw retains higher protein and digestibility than sorghum straw. Limited industrial uses.
 - **Finger millet:** Primarily food (ragi mudde, porridge, malted weaning foods, fermented beverages). Finger millet straw is lower quality fodder but used as mulch. Recently gaining attention as a "superfood" in health food markets.
 
@@ -128,7 +128,7 @@ All three are [[gluten-free]], making them important for people with celiac dise
 
 ### Consider Growing Both
 
-Many traditional farming systems intercrop sorghum and pearl millet, exploiting their complementary root depths and growth durations. In India's semi-arid Deccan Plateau, sorghum (deeper rooted, longer season) is intercropped with pearl millet (shallower rooted, quicker) on the same field, reducing risk and maximizing land-use efficiency. See [[companion planting]] and [[intercropping]] for design principles.
+Many traditional farming systems intercrop sorghum and pearl millet, exploiting their complementary root depths and growth durations. In India's semi-arid Deccan Plateau, sorghum (deeper rooted, longer season) is intercropped with pearl millet (shallower rooted, quicker) on the same field, reducing risk and maximizing land-use efficiency. See [[companion planting]] and [[cannabis-strain-guide-reference]] for design principles.
 
 ## Integration with Regenerative Systems
 

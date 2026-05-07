@@ -135,6 +135,8 @@ START: What is your USDA hardiness zone?
 
 ## See Also
 
+- [[query-which-drought-tolerant-fruit-trees-are-best-for-permaculture-food-forests]]
+
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
 
 - [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]

@@ -154,7 +154,9 @@ Apply inoculant as a seed slurry with a sticking agent and plant into moist soil
 - **Multi-year breaks:** Pigeon pea in 3–5 year phases rebuilds soil N and breaks weed/pathogen cycles in tropical dryland systems.
 - **Emergency drought cover:** Tepary bean or guar can be planted late in drought years when other cover crop options fail—they mature fast enough on minimal stored soil moisture.
 
-## Related Topics
+## Related
+
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]] Topics
 - [[cover-crop-selection-guide|Cover Crop Selection Guide]]
 - [[permaculture-dryland-strategies|Dryland Farming Strategies]]
 - Nitrogen Credit Calculations for Legume Covers

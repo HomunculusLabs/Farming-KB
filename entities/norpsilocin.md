@@ -84,6 +84,8 @@ Norpsilocin is primarily significant as a **biosynthetic marker** that helped re
 
 ## See Also
 
+- [[norpsilocybin]]
+
 - [[psilocybin-tryptamine-chemistry-fungi]]
 
 - [[psilocybin-biosynthesis-pathway]]

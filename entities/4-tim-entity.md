@@ -77,6 +77,8 @@ Duration: 8 - 12 h.
 
 ## See Also
 
+- [[4-acetoxy-det]]
+
 [[im-entity]]
 
 [[3-tm-entity]]

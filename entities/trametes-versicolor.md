@@ -136,6 +136,8 @@ Excellent safety profile — no significant adverse effects in decades of clinic
 
 ## See Also
 
+- [[trametes-gibbosa]]
+
 - [[ganoderma-lucidum]] — Reishi, complementary medicinal polypore
 - [[lentinula-edodes]] — Shiitake, companion log-cultivation mushroom
 - [[hericium-erinaceus]] — Lion's mane, neuroprotective medicinal mushroom

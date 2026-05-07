@@ -178,3 +178,9 @@ When budgeting, factor in the need for multiple releases per season. A single pr
 10. **Plan for the full season.** Biological control is not a one-time event — it is an ongoing management strategy. Plan your release schedule, supplemental food applications, banker plant maintenance, and monitoring routine for the entire crop cycle before the season begins. Build relationships with suppliers and have a backup plan in case initial releases fail to establish.
 
 Predatory mites are one of the most proven, reliable, and cost-effective tools available for biological pest management. With proper species selection, timely releases, careful environmental management, and ongoing monitoring, they can provide excellent pest control while reducing or eliminating dependence on chemical pesticides.
+
+## See Also
+
+- [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- [[hamilton-beneficial-insects-and-biological-pest-control]]

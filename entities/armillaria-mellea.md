@@ -97,6 +97,8 @@ infected stumps, improving tree vigor, and selecting resistant rootstocks.
 
 ## See Also
 
+- [[armillaria-solidipes]]
+
 - [[armillaria-tabescens]]
 
 - [[armillaria-bulbosa]]

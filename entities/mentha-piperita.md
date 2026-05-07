@@ -145,6 +145,8 @@ essential oils produced at industrial scale.
 
 ## See Also
 
+- [[mentha-suaveolens]]
+
 - [[mentha-spicata]]
 
 - [[companion-planting]]

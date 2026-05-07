@@ -103,3 +103,7 @@ DOC is a potent 5-HT2A agonist with additional affinity for 5-HT2B and 5-HT2C re
 - Start early in the day given the extended duration
 - See [[dom-compound-profile]] for general DOx harm reduction principles
 - See [[2c-family-compounds-overview]] for broader phenethylamine harm reduction context
+
+## See Also
+
+- [[speciogynine]]

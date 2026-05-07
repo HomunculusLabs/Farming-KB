@@ -115,6 +115,8 @@ The chemical synthesis of 4-hydroxytryptamine is primarily of academic interest,
 
 ## See Also
 
+- [[taurine]]
+
 - [[psilocin]] — the N,N-dimethylated product of 4-hydroxytryptamine
 - [[psilocybin]] — the phosphorylated derivative of psilocin
 - [[tryptamine]] — the substrate for 4-hydroxylation by PsiD

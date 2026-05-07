@@ -182,6 +182,8 @@ Steam distillation and CO₂ extraction are complementary methods rather than co
 
 ## See Also
 
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]

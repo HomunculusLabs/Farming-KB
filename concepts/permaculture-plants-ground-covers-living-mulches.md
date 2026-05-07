@@ -101,6 +101,8 @@ Species for saline and coastal environments:
 
 ## See Also
 
+- [[ajuga-reptans]]
+
 - [[ulmus-rubra]]
 
 - [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers

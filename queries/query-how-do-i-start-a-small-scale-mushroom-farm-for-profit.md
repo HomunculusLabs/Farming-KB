@@ -108,6 +108,8 @@ growing house.
 
 ## Related
 
+- [[query-how-do-i-start-a-small-home-vineyard-for-table-grapes]]
+
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 
 - [[query-how-to-start-a-small-scale-snail-farm]]

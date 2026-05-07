@@ -139,7 +139,9 @@ oxygen data.
 Both must meet chemistry and pathogen testing standards at city,
 county, state, and federal levels.
 
-## Related Topics
+## Related
+
+- [[ingham-thermal-compost-versus-worm-compost]] Topics
 
 - [[aact-compost-quality-standards-ingham]] for testing requirements and compost quality
 - [[vermicomposting]] for vermicompost production details

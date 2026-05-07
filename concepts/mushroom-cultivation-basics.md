@@ -151,6 +151,8 @@ Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-trans
 
 ## See Also
 
+- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
+
 - [[query-best-mushroom-species-for-beginner-home-cultivation]]
 
 - [[xerula-meadowii]]

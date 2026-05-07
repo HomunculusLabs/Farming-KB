@@ -101,6 +101,9 @@ Understanding fungal decomposition is valuable for agriculture:
 
 ## See Also
 
+- [[fungi-in-the-environment-fungi-in-beetle-guts]]
+- [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
+
 - [[fungal-decomposition]]
 - [[fungal-wood-decay-types]]
 - [[brown-rot-fungi-biodegradation]]

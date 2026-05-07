@@ -156,6 +156,8 @@ L. perlatum plays several important ecological functions:
 
 ## See Also
 
+- [[lycoperdon-pyriforme]]
+
 - [[calvatia-gigantea]]
 - [[decomposition]]
 - [[food-forest]]

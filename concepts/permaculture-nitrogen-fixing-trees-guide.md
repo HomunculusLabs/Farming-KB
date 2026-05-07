@@ -123,4 +123,6 @@ A leguminous shrub to 3 m, native to Japan but widely grown in Korea for soil re
 
 ## See Also
 
+- [[ceanothus-thyrsiflorus]]
+
 - [[caragana-arborescens]]

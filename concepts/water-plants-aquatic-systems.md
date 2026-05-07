@@ -141,3 +141,7 @@ Water plants provide critical functions in [[food-forest-establishment]] and
 - Food production: Multiple species provide human and animal food
 - Habitat creation: Shelter for fish, insects, and wildlife
 - Fodder Crops: Many water plants serve as livestock feed
+
+## See Also
+
+- [[swale-design-water-harvesting]]

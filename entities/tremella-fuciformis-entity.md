@@ -142,6 +142,8 @@ Kidney, and Stomach meridians:
 
 ## See Also
 
+- [[tremella-fusciformis]]
+
 - [[tremella-fuciformis]]
 - [[lentinula-edodes]]
 - [[ganoderma-lucidum]]

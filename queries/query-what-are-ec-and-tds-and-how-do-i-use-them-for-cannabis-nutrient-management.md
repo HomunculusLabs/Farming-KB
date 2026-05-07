@@ -104,7 +104,9 @@ chemistry.
 - EC meters are essential tools for [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]]
   and [[comparison-coco-coir-vs-peat]] cultivation systems
 
-## Related Questions
+## Related
+
+- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] Questions
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
 - [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]

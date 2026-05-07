@@ -147,3 +147,9 @@ ACDC is widely prescribed across medical cannabis programs for the following con
 ## Notable Distinctions
 
 ACDC occupies a unique position in cannabis genetics as one of the first widely recognized **CBD-dominant chemotypes** that proved cannabis could provide profound therapeutic benefit without psychoactivity. Its development and popularization helped catalyze the broader medical and scientific interest in CBD that has defined the post-2010 era of cannabinoid research.
+
+## See Also
+
+- [[cannabis-strain-naming]]
+- [[green-cannabis-grow-bible-strain-selection-genetics]]
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

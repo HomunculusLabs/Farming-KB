@@ -129,3 +129,7 @@ In his "Message for Peace" letter, Fukuoka expresses alarm about the direction o
 He warns that the day will come when data processed by computers will be transmitted directly into the human brain, reducing it to a mere data receiving unit, so that computers can give orders to humans and manipulate them. In this scenario, who would take responsibility if something goes wrong? The thin line separating the genes of a Nobel prize winner from those of a madman makes genetic medicine particularly dangerous.
 
 ## The Biological Weapons Parallel
+
+## See Also
+
+- [[fukuoka-critique-modern-livestock-fisheries]]

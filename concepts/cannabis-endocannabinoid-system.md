@@ -74,6 +74,8 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[cannabis-microbiome-soil-type-composition-strain-structure]]
+
 - [[charlottes-web]]
 - [[big-bud]]
 - [[lemon-cherry-gelato]]

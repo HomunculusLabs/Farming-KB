@@ -121,6 +121,6 @@ Plant-parasitic nematodes cause enormous agricultural losses worldwide, and nema
 ## See Also
 
 - [[fungal-biodiversity]] for broader context on fungal diversity in soil
-- [[soil-fungi-roles]] for the ecological roles of fungi in soil environments
-- [[fungal-ecosystems]] for fungal interactions within ecosystems
-- [[bioremediation-applications]] for applied uses of fungi
+- [[fungi-in-the-environment-soil-fungi-roles]] for the ecological roles of fungi in soil environments
+- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for fungal interactions within ecosystems
+- [[mycoremediation-case-studies]] for applied uses of fungi

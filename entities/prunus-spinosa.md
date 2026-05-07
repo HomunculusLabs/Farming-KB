@@ -117,6 +117,8 @@ Root suckering habit can be managed by periodic cutting; the plant regrows vigor
 
 ## See Also
 
+- [[prunus-dulcis]]
+
 - prunus dulcis
 - rubus fruticosus
 - [[crataegus-monogyna]]

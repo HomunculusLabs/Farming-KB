@@ -146,3 +146,7 @@ recommends Sweet Meat (from Harris Seeds or Territorial) for long keeping.
 The old "apple" or "lemon" cucumber adapts to lower fertility. Hybrid
 melon seed is expensive; in maritime climates only the earliest hybrids
 produce anything, and only on black plastic.
+
+## See Also
+
+- [[momordica-charantia]]

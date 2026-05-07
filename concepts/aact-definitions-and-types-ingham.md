@@ -113,7 +113,9 @@ be scaled to the site: small trials, careful monitoring, and comparison against
 an untreated area are usually more reliable than immediate whole-system
 changes.
 
-## Related Topics
+## Related
+
+- [[aact-tea-types-and-definitions-ingham]] Topics
 - [[lactic-acid-bacteria]]
 - [[elaine-ingham]]
 - [[vermicomposting]]

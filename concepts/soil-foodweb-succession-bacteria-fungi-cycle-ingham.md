@@ -129,6 +129,8 @@ Applying compost teas that match the target plant community's preferred foodweb 
 
 ## See Also
 
+- [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
+
 - [[soil-foodweb-balancing-protocol-ingham]]
 
 - [[soil-food-web-nutrient-cycling]]

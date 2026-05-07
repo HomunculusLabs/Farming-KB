@@ -122,4 +122,6 @@ Once seedlings have 3-4 sets of true leaves and are 2-4 weeks old, they can be t
 
 ## Related
 
+- [[spanish-cannabis-seed-companies]]
+
 - [[first-time-grower-common-mistakes]]

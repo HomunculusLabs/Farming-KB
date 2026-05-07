@@ -119,6 +119,8 @@ and serves as a food source for various invertebrates and small mammals.
 
 ## See Also
 
+- [[helvella-acetabulum]]
+
 - [[sparassis-crispa]]
 
 - [[gyromitra-esculenta]]

@@ -1,0 +1,136 @@
+---
+title: "Momordica charantia"
+type: species
+tags:
+  - cucurbitaceae
+  - medicinal-plant
+  - edible-plant
+  - permaculture
+  - anti-diabetic
+  - tropical
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Raman, A. & Lau, C. (1996). "Anti-diabetic properties and phytochemistry of Momordica charantia." Phytomedicine, 2(4), 349–362.
+  - Tan, M.J. et al. (2008). "Antidiabetic activities of the bitter gourd Momordica charantia." British Journal of Pharmacology, 154(7), 1316–1328.
+  - NTBG (2024). "Breadfruit Institute — Pacific Agroforestry Species." ntbg.org.
+---
+
+## Overview
+
+Momordica charantia, commonly known as bitter melon or bitter gourd, is a tropical and subtropical vine in the family Cucurbitaceae.
+
+It is widely cultivated across South and Southeast Asia, Africa, and the Caribbean for its edible fruit.
+
+The fruit is distinctive for its warty, oblong appearance and intensely bitter flavor.
+
+It has a long history of use in traditional medicine, particularly for managing blood glucose levels.
+
+## Taxonomy and Morphology
+
+Momordica charantia was described by Carl Linnaeus in 1753.
+
+The genus Momordica contains approximately 60 species distributed across the tropics.
+
+The plant is a herbaceous annual vine growing 2–4 m in length with tendrils.
+
+Leaves are palmately lobed, 5–12 cm across, with serrated margins.
+
+Flowers are yellow, dioecious or monoecious, approximately 2.5 cm in diameter.
+
+The fruit is an oblong pepo, 10–30 cm long, with a characteristic warty or ridged surface.
+
+Immature fruit is green, turning yellow-orange at maturity.
+
+The inner pulp is white and surrounds seeds covered in a bright red aril.
+
+Seeds are oval, flattened, and approximately 1.3 cm long.
+
+## Distribution and Habitat
+
+Momordica charantia originated in the Indian subcontinent and is now pantropical.
+
+It is naturalized throughout tropical Africa, Southeast Asia, China, and the Caribbean.
+
+The plant thrives in warm, humid conditions with temperatures between 24–30°C.
+
+It grows well in a variety of soils but prefers well-drained, fertile loams with pH 5.5–6.7.
+
+Optimal rainfall is 600–1200 mm annually with consistent moisture.
+
+## Cultivation
+
+Bitter melon is typically direct-seeded after the last frost in tropical climates.
+
+Seeds germinate in 7–14 days at soil temperatures above 20°C.
+
+Plants require full sun and a sturdy trellis or support structure for optimal production.
+
+Fruiting begins 60–70 days after sowing, with harvest continuing for 2–3 months.
+
+Yields range from 10–20 tonnes per hectare under good management.
+
+Common pests include fruit flies, aphids, and powdery mildew in humid conditions.
+
+Companion planting with allium species can help deter certain insect pests.
+
+## Bioactive Compounds and Pharmacology
+
+Momordica charantia contains over 200 phytochemicals with documented bioactivity.
+
+Key compounds include charantin, polypeptide-p (plant insulin), vicine, and momordicosides.
+
+Charantin, a steroid saponin mixture, has demonstrated hypoglycemic effects in animal models.
+
+Polypeptide-p mimics insulin action, promoting glucose uptake in peripheral tissues.
+
+Momordicosides are triterpenoid glycosides with anti-inflammatory and anticancer properties.
+
+Multiple clinical trials have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
+
+However, effects are modest compared to conventional pharmaceuticals, and standardization remains challenging.
+
+The fruit also contains significant amounts of vitamin C, vitamin A, folate, and potassium.
+
+## Culinary Use
+
+Immature green fruit is the primary edible part, consumed in curries, stir-fries, and soups.
+
+It is a staple vegetable in Indian, Chinese, Filipino, Japanese, and Caribbean cuisines.
+
+The bitter flavor is typically tempered by blanching, salting, or pairing with strong spices.
+
+In Indian cooking, it is stuffed with spiced fillings and deep-fried or cooked in gravies.
+
+In Okinawan cuisine, bitter melon is a key ingredient in goya champuru, a stir-fry with tofu.
+
+Young leaves and shoots are also edible and consumed as leafy greens in some regions.
+
+The red aril surrounding mature seeds is sweet and occasionally eaten as a delicacy.
+
+## Permaculture Applications
+
+Bitter melon functions well as a productive climbing vine in tropical food forests.
+
+It can be trained along fences, trellises, or over nitrogen-fixing tree canopies.
+
+The dense foliage provides shade and microclimate moderation for understory crops.
+
+Its rapid growth makes it effective as a seasonal ground cover in agroforestry systems.
+
+The plant attracts pollinators and beneficial insects when in flower.
+
+Crop residue after harvest can be incorporated into compost as a nutrient-rich green material.
+
+## See Also
+
+- [[cucurbita-pepo]]
+- [[pachyrhizus-erosus]]
+- [[moringa-oleifera]]
+- [[azolla-filiculoides]]
+- [[lemna-minor]]
+- [[glycyrrhiza-glabra]]
+- [[passiflora-incarnata]]
+- [[allium-sativum]]
+- [[zingiber-officinale]]
+- [[curcuma-longa]]

@@ -151,4 +151,4 @@ OG Kush occupies a singular position in cannabis culture and genetics:
 - [[blue-dream]] — Another foundational West Coast hybrid
 - terpenes — Detailed guide to cannabis terpenes and their effects
 - cannabis cultivation — Comprehensive growing guide
-- [[Chemdawg]] — Key ancestor in OG Kush lineage
+- [[chemdawg]] — Key ancestor in OG Kush lineage

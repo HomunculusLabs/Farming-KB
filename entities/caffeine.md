@@ -137,7 +137,9 @@ Caffeine withdrawal is recognized in DSM-5 as a psychiatric condition. Symptoms 
 
 Unregulated worldwide. No scheduling under the UN Convention on Psychotropic Substances. Permitted in all jurisdictions as a food additive and pharmaceutical ingredient.
 
-## Related Compounds
+## Related
+
+- [[cola-nitida]] Compounds
 
 - **Theobromine** (3,7-dimethylxanthine) — primary alkaloid in cacao; milder stimulant
 - **Theophylline** (1,3-dimethylxanthine) — bronchodilator used therapeutically for respiratory conditions

@@ -138,6 +138,10 @@ Improved reaction time, task performance, and memory in both healthy adults and 
 
 ## See Also
 
+- [[herbal-medicine-making-basics]]
+- [[herbal-medicine-preparation-methods]]
+- [[adaptogenic-herbs-guide]]
+
 - [[species:panax-ginseng]] — "Asian ginseng," another major adaptogen for comparison
 - [[species:ocimum-tenuiflorum]] — Tulsi/holy basil, complementary Ayurvedic adaptogen
 - [[compound:withaferin-a]] — Primary cytotoxic withanolide
