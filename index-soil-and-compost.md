@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**402 pages**
+**403 pages**
 
 ## A
 
@@ -136,6 +136,7 @@
 - [[gaias-garden-nutrient-accumulators-dynamic-accumulators]]
 - [[gaias-garden-rabbits-and-worm-composting]]
 - [[gaias-garden-soil-building]]
+- [[gaias-garden-soil-food-web-ecology]]
 - [[gaias-garden-spike-roots-soil-conditioning]]
 - [[garden-location-and-soil-preparation]]
 - [[garden-myths-mulch-and-watering]]

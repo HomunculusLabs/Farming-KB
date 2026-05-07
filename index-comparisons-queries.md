@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1102 pages**
+**1106 pages**
 
 ## A
 
@@ -37,6 +37,7 @@
 - [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 - [[comparison-alley-cropping-vs-silvopasture]]
+- [[comparison-aloe-vs-agave]]
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]
 - [[comparison-amf-vs-ecm]]
 - [[comparison-amf-vs-endophytic-fungi]]
@@ -221,6 +222,7 @@
 - [[comparison-free-living-vs-parasitic-nematodes]]
 - [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
+- [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - [[comparison-fukuoka-vs-holzer]]
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-gabions-vs-check-dams]]
@@ -591,6 +593,7 @@
 - [[query-best-kiwifruit-varieties-for-cold-climates]]
 - [[query-best-light-schedule-for-cannabis]]
 - [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
+- [[query-best-mushroom-species-for-beginner-home-cultivation]]
 - [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-best-stone-fruit-varieties-for-different-climates]]
@@ -979,6 +982,7 @@
 - [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]
 - [[query-what-are-the-best-mushrooms-for-medicinal-use]]
 - [[query-what-are-the-best-natural-building-methods]]
+- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]
 - [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture-food-forests]]
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 - [[query-what-are-the-best-perennial-grains-for-regenerative-farming]]

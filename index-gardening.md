@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**864 pages**
+**868 pages**
 
 ## A
 
@@ -257,11 +257,13 @@
 - [[gaias-garden-backyard-wetland-design]]
 - [[gaias-garden-bees-and-pollinators]]
 - [[gaias-garden-beneficial-birds-wildlife]]
+- [[gaias-garden-beneficial-insects-gallery]]
 - [[gaias-garden-berry-bushes-guide]]
 - [[gaias-garden-bird-habitat-design]]
 - [[gaias-garden-catching-storing-and-conserving-water]]
 - [[gaias-garden-creating-community-gardens]]
 - [[gaias-garden-deer-deflecting-food-hedges]]
+- [[gaias-garden-deer-food-hedge-design]]
 - [[gaias-garden-design-process]]
 - [[gaias-garden-designers-observation-checklist]]
 - [[gaias-garden-ecology-for-gardeners]]
@@ -280,10 +282,12 @@
 - [[gaias-garden-methods]]
 - [[gaias-garden-microclimates]]
 - [[gaias-garden-multipurpose-plants]]
+- [[gaias-garden-natives-exotics-balance]]
 - [[gaias-garden-natural-pest-disease-management]]
 - [[gaias-garden-niche-cascade-and-ecological-principles]]
 - [[gaias-garden-nurse-plants]]
 - [[gaias-garden-nut-trees-home-garden]]
+- [[gaias-garden-perennial-food-plants]]
 - [[gaias-garden-perennial-vegetables]]
 - [[gaias-garden-plant-community-ecology]]
 - [[gaias-garden-plant-roles-ecological-theater]]

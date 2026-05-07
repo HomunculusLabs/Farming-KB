@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2324 pages**
+**2333 pages**
 
 ## #
 
@@ -270,6 +270,7 @@
 - [[alpinia-galanga]]
 - [[alternaria-alternata]]
 - [[althaea-officinalis]]
+- [[althea-officinalis]]
 - [[amanita-bisporigera]]
 - [[amanita-caesarea]]
 - [[amanita-caesarea-mycology]]
@@ -885,6 +886,7 @@
 - [[flammulina-velutipes]]
 - [[flea-entity]]
 - [[flea-entity-pihkal]]
+- [[foeniculum-vulgare]]
 - [[foeniculum-vulgare-entity]]
 - [[fomes-entity]]
 - [[fomes-fomentarius]]
@@ -1113,6 +1115,7 @@
 - [[ibotenic-acid]]
 - [[ibotenic-acid-entity]]
 - [[ice-cream-bean-entity]]
+- [[ice-cream-cake]]
 - [[ice-cream-cake-cannabis]]
 - [[idnna-entity]]
 - [[idnna-entity-pihkal]]
@@ -1205,6 +1208,7 @@
 - [[kalapuya]]
 - [[kali-mist]]
 - [[katsu-bubba]]
+- [[kavain]]
 - [[kavalactones]]
 - [[ketamine]]
 - [[keyline-design]]
@@ -1556,6 +1560,7 @@
 - [[nicotine]]
 - [[nigella-sativa]]
 - [[nitrous-oxide]]
+- [[nmt]]
 - [[nmt-entity-tihkal]]
 - [[nn-dimethyltryptamine]]
 - [[nn-dmt]]
@@ -1957,6 +1962,7 @@
 - [[ramaria-botrytis]]
 - [[ramaria-formosa]]
 - [[ramaria-stricta]]
+- [[raphanus-sativus]]
 - [[raphanus-sativus-var-longipinnatus]]
 - [[rauwolfia-serpentina]]
 - [[rehmannia-glutinosa]]
@@ -1996,6 +2002,7 @@
 - [[royal-gorilla]]
 - [[rubroboletus-satanas]]
 - [[rubus-idaeus-entity]]
+- [[rudolf-steiner]]
 - [[rumex-acetosa]]
 - [[rumex-crispus]]
 - [[rumex-obtusifolius-entity]]
@@ -2189,6 +2196,7 @@
 - [[terminalia-ferdinandiana]]
 - [[termitomyces-eurhizus]]
 - [[termitomyces-eurrhizus]]
+- [[termitomyces-fuliginosus]]
 - [[termitomyces-heimii]]
 - [[termitomyces-titanicus]]
 - [[terpinolene]]
@@ -2385,6 +2393,7 @@
 - [[xanthoria-parietina]]
 - [[xanthosoma-sagittifolium]]
 - [[xerocomellus-chrysenteron]]
+- [[xerocomus-subtomentosus]]
 - [[xerula-meadowii]]
 - [[xylaria-hypoxylon]]
 - [[xylaria-longipes]]
