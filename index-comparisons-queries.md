@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1086 pages**
+**1092 pages**
 
 ## A
 
@@ -189,6 +189,7 @@
 - [[comparison-dynamic-accumulators-vs-cover-crops]]
 - [[comparison-earthbag-construction-vs-cob-construction]]
 - [[comparison-earthbag-vs-adobe-construction]]
+- [[comparison-earthbag-vs-cob-construction]]
 - [[comparison-earthship-vs-cob-construction]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-elderberry-vs-echinacea]]
@@ -247,6 +248,7 @@
 - [[comparison-herb-spiral-vs-keyhole-garden]]
 - [[comparison-high-tunnel-vs-walipini]]
 - [[comparison-honey-bees-vs-native-solitary-bees]]
+- [[comparison-horseradish-vs-wasabi-vs-mustard-cultivation]]
 - [[comparison-hot-composting-vs-bokashi]]
 - [[comparison-hps-vs-cmh]]
 - [[comparison-hugelkultur-vs-chinampas]]
@@ -287,6 +289,7 @@
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
 - [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
+- [[comparison-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-liquid-culture-vs-grain-spawn]]
 - [[comparison-living-fences-vs-hedgerows]]
 - [[comparison-living-mulch-vs-cover-crops]]
@@ -599,6 +602,7 @@
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
+- [[query-fruity-body-vs-mycelium-extract-medicinal-mushroom-supplements]]
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
@@ -656,6 +660,7 @@
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-do-i-grow-goji-berries-at-home]]
 - [[query-how-do-i-grow-gooseberries-and-currants]]
+- [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
@@ -705,6 +710,7 @@
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+- [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
 - [[query-how-do-i-start-farming-spirulina-at-home]]
 - [[query-how-do-i-start-growing-hazelnut-bushes]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
