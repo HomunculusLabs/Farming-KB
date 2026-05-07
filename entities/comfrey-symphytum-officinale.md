@@ -16,6 +16,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/symphytum-officinale
   - Hills, Lawrence D. "Comfrey: Past, Present and Future." Faber & Faber, 1976.
   - Jefferies, Philip. "The Comfrey Report." Henry Doubleday Research Association, 1983.
+created: 2026-04-28
 ---
 
 # Comfrey (Symphytum officinale)
@@ -168,7 +169,7 @@ Comfrey contains hepatotoxic PAs, primarily **symphytine**, **echimidine**, and 
 
 ## See Also
 
-- [[stinging-nettle-urtica-dioica]] — complementary dynamic accumulator for nitrogen
+- [[stinging-nettle]] — complementary dynamic accumulator for nitrogen
 - [[yarrow-achillea-millefolium]] — nutrient accumulator for phosphorus and potassium
 - [[dynamic-accumulators]] — comprehensive guide to nutrient-mining plants
-- [[comfrey-liquid-fertilizer]] — detailed recipe and application guide
+- comfrey liquid fertilizer — detailed recipe and application guide

@@ -13,6 +13,7 @@ sources:
   - Tulloss, R.E. (1998). "Amanita — distribution, taxonomy, & usage." https://www.amanitaceae.org
   - Boa, E. (2004). "Wild Edible Fungi: A Global Overview of Their Use and Importance to People." FAO.
   - Consiglio, G. et al. (2002). "Amanita caesarea complex in Europe." Mycotaxon 83: 1–12.
+created: 2026-04-28
 ---
 
 # Amanita cesarea

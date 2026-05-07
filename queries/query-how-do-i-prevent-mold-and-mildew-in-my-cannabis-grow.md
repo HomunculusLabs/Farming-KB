@@ -94,7 +94,9 @@ when inhaled through smoking or vaporizing.
 - Inspect plants regularly and remove any affected material immediately to
   prevent spread
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]] Questions
 - [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 - [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
 - [[query-how-to-manage-humidity-cannabis-grow-room]]

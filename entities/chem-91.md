@@ -14,6 +14,7 @@ sources:
   - "The History of Chemdawg." High Times, 2019.
   - Pearson, D. et al. (2019). "A genetic and chemical survey of Cannabis chemotypes." Cannabis and Cannabinoid Research 4(1): 15-24.
   - "Chem 91 Strain Review." AllBud, 2024.
+created: 2026-04-28
 ---
 
 # Chem 91

@@ -6,6 +6,8 @@ updated: 2026-04-28
 sources:
   - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Principle 2: Catch and Store Energy, pp. 28-46; Principle 4: Apply Self-regulation and Accept Feedback, pp. 72-81.
   - Odum, H.T. *Environmental Accounting: EMERGY and Environmental Decision Making*. Wiley, 1996.
+created: 2026-04-28
+type: concept
 ---
 
 # Energy Circuit Models in Permaculture Design

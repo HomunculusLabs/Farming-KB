@@ -15,6 +15,7 @@ sources:
   - Merry Jane (2019). "Strawberry Banana: The Complete Guide." MerryJane.com.
   - MJBizDaily (2022). "Top-Selling Strains in California Dispensaries."
   - Wikileaf (2021). "Strawberry Banana Strain Review." Wikileaf.com.
+created: 2026-04-28
 ---
 
 # Strawberry Banana

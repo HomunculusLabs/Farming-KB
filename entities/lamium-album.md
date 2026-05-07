@@ -14,6 +14,7 @@ sources:
   - Barnes, J., Anderson, L.A. & Phillipson, J.D. (2007). "Herbal Medicines." 3rd ed., Pharmaceutical Press.
   - Bremness, L. (1994). "Herbs." DK Publishing.
   - Chiej, R. (1984). "Macdonald Encyclopedia of Medicinal Plants." Macdonald.
+created: 2026-04-28
 ---
 
 # Lamium album
@@ -52,7 +53,7 @@ The leaf arrangement closely mimics that of **[[urtica-dioica]]**, which is the 
 
 **Flowers:** Whorls of 2–6 in the upper leaf axils. Corolla 15–25 mm long, white to cream, tubular with a hooded upper lip and reflexed lower lip.
 
-The flowers are markedly larger and more showy than those of related species like **[[lamium-purpureum]]**.
+The flowers are markedly larger and more showy than those of related species like **Lamium purpureum**.
 
 Flowering occurs from March through November in temperate regions.
 

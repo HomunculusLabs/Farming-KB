@@ -14,6 +14,7 @@ sources:
   - Citti C, et al. "A novel phytocannabinoid isolated from Cannabis sativa L. with an in vivo cannabinoid activity." Scientific Reports, 2019. 9(1): 20335.
   - Linciano P, et al. "Cannabielsoin (CBE): An overview on its chemistry, pharmacology, and presence in cannabis." Molecules, 2020.
   - Caprioglio D, et al. "Medicinal use of cannabinoids: The state of play and perspectives." International Journal of Molecular Sciences, 2023.
+created: 2026-04-28
 ---
 
 # Tetrahydrocannabiphorol (THCP)

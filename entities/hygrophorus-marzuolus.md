@@ -15,6 +15,7 @@ sources:
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Basso, M.T. (1999). "Fungi Europaei Vol. 7: Hygrophorus." Edizioni Candusso.
   - Arnolds, E. (2003). "The Genus Hygrophorus." Bibliotheca Mycologica.
+created: 2026-04-28
 ---
 
 # Hygrophorus marzuolus

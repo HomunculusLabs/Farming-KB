@@ -16,6 +16,7 @@ sources:
   - Wikileaf strain reviews. "Platinum Garlic Strain Information."
   - AllBud strain catalog. "Platinum Garlic Marijuana Strain."
   - GrowDiaries grow reports, 2021–2024. Community cultivation data.
+created: 2026-04-28
 ---
 
 # Platinum Garlic

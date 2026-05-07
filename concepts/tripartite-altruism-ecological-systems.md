@@ -6,6 +6,8 @@ updated: 2026-04-28
 sources:
   - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Principle 4: Apply Self-regulation and Accept Feedback, pp. 72-81.
   - Odum, H.T. *Systems Ecology*. Wiley, 1983.
+created: 2026-04-28
+type: concept
 ---
 
 # Tripartite Altruism in Ecological Systems

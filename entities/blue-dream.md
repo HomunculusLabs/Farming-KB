@@ -16,6 +16,7 @@ sources:
   - https://www.wikileaf.com/strain/blue-dream/
   - https://phylosbio.com/
   - Mudge, E.M. et al. "Cannabinoid and Terpenoid Profile." ACS Omega, 2019.
+created: 2026-04-28
 ---
 
 # Blue Dream
@@ -143,4 +144,4 @@ Blue Dream has been the **best-selling cannabis strain** in multiple US legal ma
 - [[girl-scout-cookies]] — high-potency hybrid for comparison
 - [[sour-diesel]] — sativa-dominant energetic alternative
 - [[jack-herer]] — Haze-lineage sativa with similar cerebral effects
-- [[terpenes]] — detailed terpene pharmacology reference
+- [[cannabis-terpene-profiles]] — detailed terpene pharmacology reference

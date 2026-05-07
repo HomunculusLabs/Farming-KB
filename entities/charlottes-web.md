@@ -27,6 +27,7 @@ aliases:
   - Charlotte's Web CBD
   - The Weed
   - Hippie's Disappointment
+created: 2026-04-28
 ---
 
 ## Overview
@@ -109,14 +110,14 @@ The documentary "Weed" by Dr. Sanjay Gupta, which first aired on CNN in August 2
 
 ## See Also
 
-- [[cannabidiol]]
+- cannabidiol
 - [[acdc-cannabis]]
 - [[harlequin]]
 - [[sour-diesel]]
 - [[white-widow]]
 - [[blue-dream]]
 - [[piperine]]
-- [[anti-inflammatory]]
+- [[cannabis-anti-inflammatory-applications]]
 - [[berberine]]
 - [[glycyrrhiza-glabra]]
 - [[ocimum-sanctum]]

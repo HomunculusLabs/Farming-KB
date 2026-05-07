@@ -32,6 +32,7 @@ sources:
   - Green, A.R. et al. (2014). "The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, 'ecstasy')." Pharmacological Reviews, 66(3), 907–972.
   - European Monitoring Centre for Drugs and Drug Addiction. (2023). "Mephedrone Drug Profile." EMCDDA-Europol.
   - Prosser, J.M. & Nelson, L.S. (2012). "The toxicology of bath salts: A review of synthetic cathinones." Journal of Medical Toxicology, 8(1), 33–42.
+created: 2026-04-28
 ---
 
 ## Overview

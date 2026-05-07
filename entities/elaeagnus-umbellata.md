@@ -16,6 +16,7 @@ sources:
   - USDA-NRCS (2020). "Plant Guide: Autumn olive (Elaeagnus umbellata)." USDA Natural Resources Conservation Service.
   - Fordham, I.M. et al. (2001). "Lycopene and tocopherol content of autumn olive berries." Journal of the American Society for Horticultural Science 126(1): 14-18.
   - Catling, P.M. & Porebski, S. (1994). "The history of invasion and current status of Elaeagnus umbellata in Ontario." Canadian Field-Naturalist 108(3): 305-310.
+created: 2026-04-28
 ---
 
 ## Overview

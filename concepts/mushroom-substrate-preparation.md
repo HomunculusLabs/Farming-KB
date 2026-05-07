@@ -125,6 +125,8 @@ consistent results.
 
 ## See Also
 
+- [[juncao-technology-mushroom-substrate]]
+
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[gourmet-medicinal-mushroom-substrate-preparation]]
 - [[mushroom-cultivator-substrate-preparation]]

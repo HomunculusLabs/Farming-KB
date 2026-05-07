@@ -151,6 +151,12 @@ Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-trans
 
 ## See Also
 
+- [[xerula-meadowii]]
+- [[stereum-ostrea]]
+- [[hypsizygus-tessellatus]]
+- [[leccinum-aurantiacum]]
+- [[trametes-cinnabarina]]
+
 - [[straw-substrate-boil-a-bag-cultivation-method]]
 
 - [[panus-tigrinus]]

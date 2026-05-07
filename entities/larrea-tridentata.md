@@ -16,6 +16,7 @@ sources:
   - Gnadinger, C.B. (1930). "The creosote bush." Journal of the American Pharmaceutical Association 19(9): 865-870.
   - Deamer, D.W. et al. (1974). "Nordihydroguaiaretic acid: cytotoxicity and mechanism of action." Nature 250(463): 273-275.
   - O'Dell, R.A. et al. (2019). "Clonal age of Larrea tridentata clones." Oecologia 189(3): 819-826.
+created: 2026-04-28
 ---
 
 ## Overview

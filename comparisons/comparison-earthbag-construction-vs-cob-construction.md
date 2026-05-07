@@ -113,6 +113,8 @@ Many experienced natural builders combine both methods to leverage their respect
 
 ## See Also
 
+- [[comparison-earthbag-vs-cob-construction]]
+
 - [[comparison-ferrocement-vs-earthbag]]
 
 - [[natural-building]]

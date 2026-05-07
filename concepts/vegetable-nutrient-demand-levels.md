@@ -10,6 +10,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - gardening-when-it-counts-steve-solomon.md
+created: 2026-04-28
+type: concept
 ---
 
 # Vegetable Nutrient Demand Levels

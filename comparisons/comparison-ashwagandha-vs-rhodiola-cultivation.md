@@ -10,6 +10,8 @@ sources:
   - "Singh, N., et al. (2011). An overview on ashwagandha. African Journal of Traditional Medicine, 8(5S), 208-213."
   - "Book: Crellin, J. & Philpott, J. (1990). Herbal Medicine: A Canadian Herbalist's Guide. NC Press."
   - "Book: Bown, D. (2001). Encyclopedia of Herbs and Their Uses. Dorling Kindersley."
+created: 2026-05-03
+type: comparison
 ---
 
 # Ashwagandha vs Rhodiola Cultivation

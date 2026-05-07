@@ -30,6 +30,7 @@ sources:
   - U.S. Department of Agriculture. (2024). "Sinapis alba L." Natural Resources Conservation Service PLANTS Database.
   - Gentry, L.E. et al. (2013). "Managing weeds with cover crops in the upper midwestern United States." USDA-ARS Technical Bulletin.
   - Brown, P.D. & Morra, M.J. (1997). "Control of soil-borne plant pests using glucosinolate-containing plants." Advances in Agronomy, 61, 167–231.
+created: 2026-04-28
 ---
 
 ## Overview

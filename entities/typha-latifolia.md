@@ -17,6 +17,7 @@ sources:
   - Kuhn, D.N. & Klotz, L.H. (1997). "Edible Wild Plants of the Midwest." Purdue University Press.
   - Chambers, R.M. et al. (2008). "Typha latifolia Growth and Expansion." Wetlands Ecology and Management.
   - Vymazal, J. (2011). "Constructed Wetlands for Wastewater Treatment." Ecological Engineering.
+created: 2026-04-28
 ---
 
 # Typha latifolia

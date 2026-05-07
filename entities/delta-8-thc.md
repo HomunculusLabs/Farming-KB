@@ -13,6 +13,7 @@ sources:
   - Hanuš L, et al. "Δ⁸-THC: Structure elucidation, synthesis, and pharmacology." Experientia, 1966.
   - Kruger DJ, Kruger JS. "The potency and constituents of delta-8-THC products." Journal of Cannabis Research, 2022.
   - U.S. Farm Bill (2018) and DEA Interim Final Rule on Hemp Derivatives, 2020.
+created: 2026-04-28
 ---
 
 # Delta-8-Tetrahydrocannabinol (Δ⁸-THC)

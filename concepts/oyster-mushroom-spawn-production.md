@@ -134,6 +134,8 @@ that are costly in both time and materials.
 
 ## See Also
 
+- [[mushworld-oyster-spawn-production-guide]]
+
 - [[mushroom-spawn-production-grain-inoculation]]
 - [[mushroom-training-spawn-production]]
 - [[singh-mushroom-spawn-production-grain-spawn]]

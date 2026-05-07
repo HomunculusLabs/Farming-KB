@@ -15,6 +15,7 @@ sources:
   - Reckweg, M. et al. (2021). "5-MeO-DALT: pharmacology and toxicology of a designer tryptamine." Psychopharmacology 238(2): 435-447.
   - EMCDDA (2009). "Europol-EMCDDA report on N,N-diallyl-5-methoxytryptamine." EMCDDA-Europol Joint Publications.
   - Suzuki, H. et al. (2015). "5-HT₂A receptor binding of novel N-substituted tryptamines." Bioorganic & Medicinal Chemistry Letters 25(19): 4275-4279.
+created: 2026-04-28
 ---
 
 ## Overview

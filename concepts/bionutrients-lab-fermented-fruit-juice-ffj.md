@@ -12,7 +12,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 Fermented Fruit Juice (FFJ) is a bionutrient produced by fermenting ripe fruits with crude sugar or molasses. Through the process of osmotic pressure and microbial fermentation, the active ingredients, enzymes, vitamins, and minerals from the fruit are extracted into a bioavailable liquid form. FFJ provides targeted nutrition for plants and serves as food for beneficial indigenous microorganisms in the soil.
 
-Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-lactic-acid-bacteria-serum]], [[bionutrients-lab-calcium-phosphate-calamansi]], and [[bionutrients-lab-oriental-herbal-nutrients-ohn]].
+Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-lactic-acid-bacteria-serum]], [[bionutrients-lab-calcium-phosphate-calamansi]], and [[bionutrients-lab-oriental-herbal-nutrients-ohn]]. For the Cho Global Natural Farming context of fermented fruit juices, see [[cho-fermented-plant-juice-preparation]] and [[cho-natural-farming-inputs-overview]]. The companion Filipino method is documented at [[bahay-kubo-fpj-and-ffj-fermentation]].
 
 ## Why Fermentation Over Extraction
 

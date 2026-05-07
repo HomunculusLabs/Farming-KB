@@ -142,3 +142,5 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Sambucus spp** (elder) — edible fruits, flowers, roots
 ## Notes
 Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].
+
+Many alkaline-tolerant species listed here overlap with [[windbreak-shelterbelt-species-selection]] and [[agroforestry]] design palettes, since coastal and calcareous sites often demand dual-purpose plantings. For complementary strategies on difficult sites, see [[drought-tolerant-planting-design]] and [[acid-and-alkaline-soil-management]]. Nitrogen-fixing trees such as [[alnus-glutinosa]] and [[nitrogen-fixing-plants]] can improve alkaline soils over time by contributing organic matter and lowering pH through root exudates.

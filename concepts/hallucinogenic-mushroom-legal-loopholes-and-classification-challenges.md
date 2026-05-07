@@ -118,6 +118,8 @@ The experience with hallucinogenic mushroom legislation highlights several impor
 
 ## See Also
 
+- [[kenyan-mushroom-industry-and-challenges]]
+
 - [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]

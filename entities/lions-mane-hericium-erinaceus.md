@@ -13,6 +13,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=Hericium+erinaceus
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8866845/
   - Stamets, Paul. "Growing Gourmet & Medicinal Mushrooms." Ten Speed Press, 2000.
+created: 2026-04-28
 ---
 
 # Lion's Mane (Hericium erinaceus)
@@ -160,6 +161,6 @@ Lion's Mane is generally regarded as safe (GRAS) with no significant toxicity da
 ## See Also
 
 - [[reishi-ganoderma-lucidum]] — another prominent medicinal mushroom
-- [[chaga-inonotus-obliquus]] — adaptogenic fungus with antioxidant properties
+- [[chaga-inonotus-obliquus-medicinal-profile]] — adaptogenic fungus with antioxidant properties
 - [[psilocybin]] — psychoactive fungal compound for comparison of fungal chemistry
 - [[turkey-tail-trametes-versicolor]] — medicinal mushroom for immune support

@@ -148,6 +148,8 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lion's Mane (*Hericium erinaceus*),
 
 ## See Also
 
+- [[comparison-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
+
 - [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]

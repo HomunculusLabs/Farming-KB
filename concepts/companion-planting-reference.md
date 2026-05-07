@@ -104,7 +104,9 @@ These plants attract pollinators and predatory insects that control pest populat
 - Beans/peas (fix nitrogen) with corn, squash, or brassicas (heavy feeders).
 - Clover as living mulch under fruiting vegetables.
 
-## Related Concepts
+## Related
+
+- [[pisum-sativum]] Concepts
 
 - [[hemenway-hugelkultur-guide]] for mound-based polyculture planting
 - [[composting-methods-comparison]] for building soil fertility to support companion systems

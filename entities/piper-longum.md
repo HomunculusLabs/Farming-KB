@@ -29,6 +29,7 @@ aliases:
   - Thippili
   - Indonesian Long Pepper
   - Piper longum L.
+created: 2026-04-28
 ---
 
 ## Overview

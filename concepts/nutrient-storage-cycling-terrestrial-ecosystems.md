@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Principle 2: Catch and Store Energy, pp. 34-46.
+created: 2026-04-28
+type: concept
 ---
 
 # Nutrient Storage and Cycling in Terrestrial Ecosystems

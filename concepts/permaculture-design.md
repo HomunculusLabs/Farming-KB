@@ -125,6 +125,11 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 
 ## Related
 
+- [[5-apb]]
+- [[5-ho-dmt]]
+- [[lysergamide]]
+- [[morus-rubra]]
+
 - [[permaculture-community-design]] Pages
 - [[permaculture-principles]]
 - [[permaculture-design-methods]] -- Comprehensive design toolkit

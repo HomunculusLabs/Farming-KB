@@ -11,6 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - MushWorld, "Oyster Mushroom Cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 5: Substrate - Non-Sterilized Wheat Straw by Ahklaq Khan, Pakistan.
+created: 2026-04-28
+type: concept
 ---
 
 # Oyster Mushroom Non-Sterilized Substrate Cultivation
@@ -100,6 +102,8 @@ This method is most suited for small-scale farmers in rural areas of developing 
 The technique is particularly relevant for community-based mushroom projects where training farmers in complex pasteurization procedures may be impractical. Its simplicity means that once learned, the method can be replicated independently without ongoing technical support.
 
 ## See Also
+
+- [[non-sterilized-wheat-straw-oyster-cultivation]]
 
 - [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
 - [[oyster-mushroom-sunflower-seed-hull-substrate]]

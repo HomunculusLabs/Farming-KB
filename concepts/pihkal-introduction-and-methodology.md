@@ -137,6 +137,9 @@ However, Shulgin maintained that the information was already available in the sc
 
 ## See Also
 
+- [[1cplsd]]
+- [[methylone]]
+
 - [[mipla]]
 
 - [[butylone]]

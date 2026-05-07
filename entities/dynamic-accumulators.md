@@ -152,6 +152,9 @@ minerals from construction-exposed subsoil. Chicory and dandelion are effective 
 
 ## See Also
 
+- [[equisetum-arvense]]
+- [[rumex-crispus]]
+
 - [[leucaena-leucocephala]]
 
 - [[achillea-millefolium]]

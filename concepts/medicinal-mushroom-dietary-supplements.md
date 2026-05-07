@@ -88,6 +88,9 @@ Mushroom DS products may play a role in cancer chemoprevention — the preventio
 
 ## Related
 
+- [[lignosus-rhizophorae]]
+- [[query-fruity-body-vs-mycelium-extract-medicinal-mushroom-supplements]]
+
 - [[medicinal-mushroom-compound-extraction]]
 - [[medicinal-mushroom-regulatory-frameworks]]
 - [[fungal-chromogens-and-color-change]]

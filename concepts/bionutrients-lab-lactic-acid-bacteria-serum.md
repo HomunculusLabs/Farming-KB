@@ -12,7 +12,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 Lactic acid bacteria (LAB) serum is one of the major workhorse beneficial indigenous microorganisms used in natural farming. LAB is popularly used in composting to arrest foul odors associated with anaerobic decomposition. It thrives and feeds on the ammonia released during decomposition, converting wastes into harmless forms through natural biological processes. As described by Gil Carandang of Herbana Farms, LAB serum is the single most important microorganism in the beneficial indigenous microorganism (BIM) formulation, comprising 50% of the total mix.
 
-Related preparations include [[bionutrients-lab-indigenous-microorganisms-imo]], [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fermented-plant-juice-fpj]], and [[bionutrients-lab-oriental-herbal-nutrients-ohn]].
+Related preparations include [[bionutrients-lab-indigenous-microorganisms-imo]], [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fermented-plant-juice-fpj]], and [[bionutrients-lab-oriental-herbal-nutrients-ohn]]. For the microbiology behind lactic acid bacteria, see [[lactic-acid-bacteria]] and [[actinomycetes-soil-biology]] for the actinomycete group mentioned as complementary organisms. The compost tea application context is covered by [[teaming-with-microbes-compost-tea-brewing-guide]], and [[bokashi-composting]] describes how LAB is used in anaerobic fermented compost systems.
 
 ## Role in Natural Farming Systems
 

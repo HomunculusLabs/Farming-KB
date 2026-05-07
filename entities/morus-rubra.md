@@ -15,6 +15,7 @@ sources:
   - USDA NRCS (2024). "Morus rubra L. Plant Guide." nrcs.usda.gov.
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - Whitcomb, C.E. (1987). "Know It and Grow It III." Lacebark Publications.
+created: 2026-04-28
 ---
 
 # Morus rubra

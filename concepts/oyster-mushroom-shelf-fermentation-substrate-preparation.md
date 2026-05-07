@@ -12,6 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - MushWorld, "Oyster Mushroom Cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of Mushroom Cultivation: Fermentation of Substrate."
+created: 2026-04-28
+type: concept
 ---
 
 # Oyster Mushroom Shelf Cultivation Fermentation and Substrate Preparation

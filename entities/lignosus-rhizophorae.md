@@ -26,6 +26,7 @@ aliases:
   - Susu Harimau
   - Cendawan Susu Rimau
   - Lignosus rhizophorae (Murrill) Ryvarden
+created: 2026-04-28
 ---
 
 ## Overview
@@ -121,5 +122,5 @@ The species has not been assessed for the IUCN Red List, but habitat loss from m
 - [[fomes-fomentarius]]
 - [[coriolopsis-gallica]]
 - [[mycoremediation]]
-- [[beta-glucan]]
-- [[anti-inflammatory]]
+- [[beta-glucans]]
+- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

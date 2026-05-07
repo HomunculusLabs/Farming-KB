@@ -15,6 +15,7 @@ sources:
   - Ryvarden, L. & Gilbourn, L. (2004). "European polypores." Fungiflora, Oslo.
   - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
   - Zmitrovich, I.V. & Malysheva, V.F. (2013). "Towards a genus-level taxonomy of the Hymenochaetaceae." Mycologia 105(4): 869-880.
+created: 2026-04-28
 ---
 
 ## Overview

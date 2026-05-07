@@ -100,6 +100,8 @@ Design is an iterative process, not a one-time event. Your plan will evolve as y
 
 ## Related
 
+- [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
+
 - [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]] Questions
 - [[query-how-to-start-a-food-forest]]
 - [[query-what-are-the-12-permaculture-principles]]

@@ -12,6 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - unknown-oyster-mushroom-cultivation.md
+created: 2026-04-28
+type: concept
 ---
 
 # MushWorld Oyster Spawn Production Guide
@@ -23,7 +25,7 @@ A comprehensive guide to producing oyster mushroom (Pleurotus spp.) spawn from a
 Mushroom spawn comes in several forms, each suited to different scales of production:
 
 - **Grain spawn**: Mycelium grown on sterilized grains such as rye, sorghum, or millet. Most commonly used for commercial production. Easy to distribute through substrate.
-- **Sawdust spawn**: Mycelium on sterilized sawdust, typically used for [[log-cultivation]] of oyster mushrooms.
+- **Sawdust spawn**: Mycelium on sterilized sawdust, typically used for [[log-cultivation-of-mushrooms]] of oyster mushrooms.
 - **Plug spawn**: Wooden dowels colonized with mycelium, used primarily for log inoculation.
 - **Liquid spawn**: Mycelium suspended in a nutrient broth, allowing rapid inoculation of large volumes.
 
@@ -128,3 +130,10 @@ Grain spawn can serve two purposes after full colonization:
 
 - Cho, Song Baek. "Introduction to Mushroom." In Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation. MushWorld, 2004.
 - Adrian Ogden and Katherine Prowse. "Spawn." In Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation. MushWorld, 2004.
+
+## See Also
+
+- [[oyster-mushroom]]
+- [[mushroom-spawn-production]]
+- [[mushroom-cultivation-basics]]
+- [[mushroom-cultivation-bulk-substrates]]

@@ -5,6 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Ch. "Purpose of this Book", "Preface", "Introduction", "Beyond Sustainability".
+created: 2026-04-28
+type: concept
 ---
 
 # Holmgren's Energy Descent Pathways

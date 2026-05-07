@@ -11,6 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - MushWorld, "Oyster Mushroom Cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 5: Substrate - Sunflower Seed Hulls by N.R. Curvetto, R. Gonzalez Matute, D. Figlas and S. Delmastro, Universidad Nacional del Sur, Argentina.
+created: 2026-04-28
+type: concept
 ---
 
 # Oyster Mushroom Sunflower Seed Hull Substrate

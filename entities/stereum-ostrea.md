@@ -14,6 +14,7 @@ sources:
   - Bernicchia, A. (2005). "Fungi Europaei." Vol. 10, Candusso.
   - Gilb., G.S. & M. Blackburn (2006). "A preliminary account of Stereum in the southeastern United States." Mycotaxon 97: 207-222.
   - Index Fungorum (2024). www.indexfungorum.org.
+created: 2026-04-28
 ---
 
 # Stereum ostrea

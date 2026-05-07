@@ -16,6 +16,7 @@ sources:
   - AllBud strain reviews. "Black Tuna Cannabis Strain." Accessed 2024.
   - Cannabis Winnipeg strain archive. "Black Tuna — BC's Underground Legend."
   - Cannabis Growers and Smokers Forum (CGS). Historical strain discussion threads, 2010–2018.
+created: 2026-04-28
 ---
 
 # Black Tuna

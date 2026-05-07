@@ -16,6 +16,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8765048/
   - Singh, N. et al. "An overview on ashwagandha." African Journal of Traditional Medicine, 2011.
   - Chandrasekhar, K. et al. "A prospective, randomized double-blind, placebo-controlled study." Indian Journal of Psychological Medicine, 2012.
+created: 2026-04-28
 ---
 
 # Ashwagandha (Withania somnifera)
@@ -170,4 +171,4 @@ Several patented, clinically studied extracts are commercially available:
 - [[rhodiola-rosea]] — complementary adaptogen for fatigue and stress
 - [[reishi-ganoderma-lucidum]] — fungal adaptogen with overlapping immunomodulatory effects
 - [[lions-mane-hericium-erinaceus]] — neurogenic mushroom for cognitive support
-- [[turmeric-curcuma-longa]] — anti-inflammatory herb with synergistic potential
+- [[curcuma-longa]] — anti-inflammatory herb with synergistic potential

@@ -6,6 +6,8 @@ updated: 2026-04-28
 sources:
   - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Principle 1: Observe and Interact, pp. 19-26.
   - Holmgren, David. *Collected Writings 1978-2000*. Various articles on weeds, pests, and revegetation.
+created: 2026-04-28
+type: concept
 ---
 
 # The Problem Is the Solution — Permaculture Design Maxim

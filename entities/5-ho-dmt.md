@@ -29,6 +29,7 @@ aliases:
   - 5-Hydroxy-N,N-dimethyltryptamine
   - Mappine
   - Cebil
+created: 2026-04-28
 ---
 
 ## Overview

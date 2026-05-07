@@ -21,6 +21,8 @@ sources:
     url: https://extension.umn.edu/product-and-plant-selection/growing-gooseberries-and-currants
   - title: North Carolina State University Extension — Muscadine and Bunch Grape Growing Guide (Ribes pest reference)
     url: https://content.ces.ncsu.edu/
+created: 2026-05-03
+type: query
 ---
 
 # How Do I Grow Gooseberries and Currants?

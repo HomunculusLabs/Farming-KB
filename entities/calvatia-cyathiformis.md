@@ -22,6 +22,7 @@ sources:
   - Roody, W.C. (2003). "Mushrooms of West Virginia and the Central Appalachians." University Press of Kentucky.
   - Kuo, M. (2023). "Calvatia cyathiformis." MushroomExpert.com. https://www.mushroomexpert.com/calvatia_cyathiformis.html
   - Index Fungorum. (2024). "Calvatia cyathiformis (Bosc) Morgan." https://www.indexfungorum.org/
+created: 2026-04-28
 ---
 
 ## Overview

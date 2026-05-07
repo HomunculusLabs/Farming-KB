@@ -142,6 +142,10 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 
 ## Related
 
+- [[thymus-vulgaris]]
+- [[lamium-album]]
+- [[piper-longum]]
+
 - [[cover-cropping-guide]]
 - [[beekeeping-basics]]
 - [[seasonal-planning]]

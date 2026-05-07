@@ -74,6 +74,12 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[charlottes-web]]
+- [[big-bud]]
+- [[lemon-cherry-gelato]]
+- [[chem-91]]
+- [[super-glue]]
+
 - [[mephedrone]]
 
 - [[cannabis-health-index-scoring-evidence-methodology]]

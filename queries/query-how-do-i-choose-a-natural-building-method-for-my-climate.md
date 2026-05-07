@@ -4,6 +4,8 @@ tags: [query, natural-building, climate, sustainable-construction, decision-guid
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+created: 2026-04-28
+type: query
 ---
 
 # How Do I Choose a Natural Building Method for My Climate?

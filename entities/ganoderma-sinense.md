@@ -16,6 +16,7 @@ sources:
   - Shi, L. et al. (2015). "Ganoderma sinense polysaccharide: extraction, structure and bioactivity." Carbohydrate Polymers 132: 219-227.
   - Cao, Q.Z. & Lin, Z.B. (2006). "Antitumor and anti-angiogenic activity of Ganoderma lucidum polysaccharides peptide." Acta Pharmacologica Sinica 27(5): 659-665.
   - Chinese Pharmacopoeia (2020). "Lingzhi (Ganoderma lucidum and G. sinense)." China Medical Science Press.
+created: 2026-04-28
 ---
 
 ## Overview

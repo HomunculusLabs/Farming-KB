@@ -73,6 +73,8 @@ The interaction between a strain's terpene profile and its cannabinoid content (
 
 ## See Also
 
+- [[blue-dream]]
+
 - [[guaiene]]
 
 - [[isopulegol]]

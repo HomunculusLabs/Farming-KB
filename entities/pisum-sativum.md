@@ -29,6 +29,7 @@ aliases:
   - Pisum sativum L.
   - Erbse
   - Pois
+created: 2026-04-28
 ---
 
 ## Overview
@@ -113,9 +114,9 @@ Pea protein isolate (80–90% protein) has become commercially significant as a 
 - [[trifolium-pratense]]
 - [[medicago-sativa]]
 - [[glycine-max]]
-- [[cicer-arietinum]]
-- [[lens-culinaris]]
-- [[arachis-hypogaea]]
-- [[phaseolus-vulgaris]]
+- Cicer arietinum
+- Lens culinaris
+- Arachis hypogaea
+- Phaseolus vulgaris
 - [[fagopyrum-esculentum]]
-- [[hordeum-vulgare]]
+- Hordeum vulgare
