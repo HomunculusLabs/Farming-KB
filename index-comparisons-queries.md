@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1142 pages**
+**1151 pages**
 
 ## A
 
@@ -400,6 +400,7 @@
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
+- [[comparison-pond-design-vs-dam-construction]]
 - [[comparison-potato-vs-sweet-potato-cultivation]]
 - [[comparison-prairie-restoration-vs-silvopasture]]
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
@@ -468,6 +469,8 @@
 - [[comparison-soil-food-web-vs-biochar]]
 - [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 - [[comparison-solar-cooking-vs-cob-oven]]
+- [[comparison-solar-cooking-vs-rocket-stove]]
+- [[comparison-solar-cooking-vs-solar-dehydrating]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]
 - [[comparison-solar-dehydrator-vs-root-cellar]]
 - [[comparison-solarization-vs-occultation]]
@@ -518,6 +521,7 @@
 - [[comparison-vermicomposting-vs-composting-organic-garden]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-vermicomposting-vs-leaf-mold]]
+- [[comparison-vertical-gardening-vs-container-gardening]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-walipini-vs-greenhouse]]
@@ -773,6 +777,7 @@
 - [[query-how-do-i-use-comfrey-in-the-garden]]
 - [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
+- [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
 - [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 - [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]]
 - [[query-how-do-i-use-spent-mushroom-substrate-in-my-garden]]
@@ -1001,6 +1006,7 @@
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
+- [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
 - [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
@@ -1017,6 +1023,7 @@
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
 - [[query-what-are-the-best-fig-varieties-for-different-climates]]
+- [[query-what-are-the-best-fish-species-for-different-aquaponics-setups]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]
@@ -1091,6 +1098,7 @@
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
 - [[query-what-is-jadam-farming-and-how-does-it-work]]
 - [[query-what-is-jujube-and-how-do-i-grow-it]]
+- [[query-what-is-keyline-design-and-how-does-it-work]]
 - [[query-what-is-korean-natural-farming-and-how-does-it-work]]
 - [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 - [[query-what-is-living-mulch-and-when-should-i-use-it]]
@@ -1106,6 +1114,7 @@
 - [[query-what-is-sheet-mulching-and-how-to-do-it]]
 - [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
+- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1583 pages**
+**1584 pages**
 
 ## A
 
@@ -163,6 +163,7 @@
 - [[fruit-tree-guild-roles]]
 - [[fukuoka-duck-rice-fish-polyculture]]
 - [[fukuoka-evergreen-state-permaculture-conference]]
+- [[fukuoka-food-forest-orchard-design]]
 - [[fukuoka-shelterbelt-and-farm-site-selection]]
 - [[fukuoka-wood-preserve-shelterbelt-design]]
 
