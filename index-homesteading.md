@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**202 pages**
+**201 pages**
 
 ## A
 
@@ -66,7 +66,6 @@
 - [[egg-preservation-methods]]
 - [[emergency-preparedness]]
 - [[energy-efficiency-farming-systems-comparison]]
-- [[energy-efficiency-in-agriculture]]
 - [[energy-efficient-house-design]]
 - [[extreme-heat-preparedness]]
 

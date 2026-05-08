@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**402 pages**
+**416 pages**
 
 ## A
 
@@ -41,7 +41,6 @@
 - [[bionutrients-guide]]
 - [[bionutrients-lab-calcium-phosphate-calamansi]]
 - [[bionutrients-lab-lactic-acid-bacteria-serum]]
-- [[black-soldier-fly-composting]]
 - [[bokashi-compost-method]]
 - [[bokashi-composting]]
 - [[building-soil]]
@@ -55,13 +54,15 @@
 - [[capillary-action-in-soils]]
 - [[cation-exchange-capacity]]
 - [[chelated-nutrients]]
+- [[clay-soil-management-solomon]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]
 - [[coleman-greenhouse-soil-management]]
 - [[coleman-soil-preparation-for-winter]]
 - [[coleman-tiller-broadfork-and-soil-aeration-tools]]
-- [[comfrey-as-dynamic-accumulator]]
+- [[coleman-winter-soil-health]]
 - [[complete-organic-fertilizer-cof]]
+- [[complete-organic-fertilizer-cof-recipe-solomon]]
 - [[complete-organic-fertilizer-formulation]]
 - [[complete-organic-fertilizer-recipes]]
 - [[compost-biology-organisms]]
@@ -186,6 +187,7 @@
 
 ## I
 
+- [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-aact-disease-case-studies-specific-pathogens]]
 - [[ingham-aact-disease-suppression]]
@@ -196,13 +198,17 @@
 - [[ingham-anaerobic-organisms-role-soil]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-antibiotics-osmotic-shock-compost-tea]]
+- [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]
 - [[ingham-charcoal-biochar-compost-tea]]
 - [[ingham-chelation-microbial-nutrient-processing]]
 - [[ingham-coli-compost-tea-food-safety]]
 - [[ingham-compost-contaminants]]
 - [[ingham-compost-tea-application-rates-and-timing]]
+- [[ingham-compost-tea-holding-time-shelf-life]]
+- [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 - [[ingham-compost-tea-recipe-ratios]]
+- [[ingham-compost-tea-recipes-and-ingredient-formulations]]
 - [[ingham-cover-crops-soil-biology]]
 - [[ingham-disease-case-studies-bacterial]]
 - [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
@@ -228,6 +234,7 @@
 - [[ingham-soil-drench-dilution-rates]]
 - [[ingham-soil-drench-techniques]]
 - [[ingham-soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
 - [[ingham-spray-nozzles-equipment-compost-tea]]
 - [[ingham-streptococcus-dairy-soil-disease]]
 - [[ingham-thermal-compost-versus-worm-compost]]
@@ -235,6 +242,7 @@
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-vermicompost-worm-castings]]
 - [[ingham-vineyard-success-story]]
+- [[ingham-worm-leachate-versus-aact-comparison]]
 - [[ingham-yeasts-molds-compost-tea]]
 - [[interpreting-soil-test-results]]
 
@@ -382,6 +390,7 @@
 - [[soil-conditioning-chisel-plow-biological-methods]]
 - [[soil-edaphic-factors-microbial-communities]]
 - [[soil-erosion-control]]
+- [[soil-fertility-building-gradient-solomon]]
 - [[soil-fertility-management]]
 - [[soil-food-web]]
 - [[soil-food-web-and-building-living-soil]]
@@ -414,12 +423,17 @@
 - [[solomon-composting-methods]]
 - [[solomon-cover-crops-green-manure-guide]]
 - [[solomon-fertilizer-selection-application]]
+- [[solomon-garden-ley-rotation-soil-restoration]]
+- [[solomon-green-manure-cover-crop-techniques]]
+- [[solomon-humanure-recycling-and-composting]]
+- [[solomon-manure-nutrient-variability-COF]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-mulching-and-cover-cropping]]
 - [[solomon-phosphorus-potassium-and-secondary-nutrients]]
 - [[solomon-potassium-yield-versus-nutrition-tradeoff]]
 - [[solomon-potting-mix-and-seedling-soil-recipe]]
 - [[solomon-sheet-composting-mulch-gardening]]
+- [[solomon-soil-freezing-requirements-sustainable-gardening]]
 - [[solomon-soil-mineral-depletion]]
 - [[solomon-soil-preparation-bed-prep]]
 - [[solomon-soil-temperature-and-nighttime-plant-growth]]

@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**935 pages**
+**943 pages**
 
 ## A
 
@@ -59,6 +59,7 @@
 - [[blesching-cannabis-cervical-cancer]]
 - [[blesching-cannabis-chemotherapy-nausea]]
 - [[blesching-cannabis-chi-score-methodology]]
+- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 - [[blesching-cannabis-childbirth-pain]]
 - [[blesching-cannabis-chronic-non-malignant-pain]]
 - [[blesching-cannabis-clove-medicinal-cb2-botanical]]
@@ -125,6 +126,7 @@
 - [[blesching-cannabis-menstrual-pain]]
 - [[blesching-cannabis-mental-disorders]]
 - [[blesching-cannabis-migraine]]
+- [[blesching-cannabis-modes-administration-pharmacokinetics]]
 - [[blesching-cannabis-morning-sickness]]
 - [[blesching-cannabis-motion-sickness]]
 - [[blesching-cannabis-mrsa]]
@@ -166,6 +168,7 @@
 - [[blesching-cannabis-systemic-sclerosis]]
 - [[blesching-cannabis-telomeres-telomerase-longevity]]
 - [[blesching-cannabis-terpenoids-and-flavonoids]]
+- [[blesching-cannabis-therapeutic-window-dosing]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-thyroid-cancer]]
 - [[blesching-cannabis-tourette-syndrome]]
@@ -267,6 +270,7 @@
 - [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-chemical-burn-vs-deficiency]]
 - [[cannabis-chemical-fertilizers]]
+- [[cannabis-chemotherapy-antiemetic-evidence]]
 - [[cannabis-chemotype-classification]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-chromatography-cannabinoid-purification]]
@@ -306,6 +310,7 @@
 - [[cannabis-endorhiza-microbiome]]
 - [[cannabis-environment-control]]
 - [[cannabis-epilepsy-research-detailed]]
+- [[cannabis-evidence-based-medicine-chi-methodology]]
 - [[cannabis-extraction-basics]]
 - [[cannabis-extraction-methods]]
 - [[cannabis-extraction-solvents]]
@@ -402,7 +407,7 @@
 - [[cannabis-health-cbd-cannabidiol]]
 - [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabis-health-index]]
-- [[cannabis-health-index-evidence-based-framework-scoring-system]]
+- [[cannabis-health-index-chi-scoring]]
 - [[cannabis-health-index-scoring-evidence-methodology]]
 - [[cannabis-health-index-scoring-system]]
 - [[cannabis-health-methods-of-administration]]
@@ -463,6 +468,7 @@
 - [[cannabis-musculoskeletal-conditions]]
 - [[cannabis-neurological-conditions]]
 - [[cannabis-neuroprotection]]
+- [[cannabis-neuroprotection-mechanisms-neurological-diseases]]
 - [[cannabis-nitrogen]]
 - [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]
@@ -812,6 +818,7 @@
 - [[flowering-phase-cannabis]]
 - [[foliar-feeding]]
 - [[foliar-feeding-plants]]
+- [[four-prime-cannabinoids]]
 - [[fungus-gnats-cannabis]]
 
 ## G
@@ -960,6 +967,7 @@
 - [[screen-of-green]]
 - [[sea-of-green]]
 - [[silica-cannabis]]
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]]
 - [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[spagyric-cannabis-preparation]]
 - [[spanish-cannabis-seed-companies]]

@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1577 pages**
+**1583 pages**
 
 ## A
 
@@ -56,6 +56,8 @@
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[bill-mollison-permaculture-a-designers-manual-trees-as-climate-modifiers]]
+- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[biodiversity-sampling-protocol-design]]
@@ -161,6 +163,7 @@
 - [[fruit-tree-guild-roles]]
 - [[fukuoka-duck-rice-fish-polyculture]]
 - [[fukuoka-evergreen-state-permaculture-conference]]
+- [[fukuoka-shelterbelt-and-farm-site-selection]]
 - [[fukuoka-wood-preserve-shelterbelt-design]]
 
 ## G
@@ -1262,6 +1265,7 @@
 - [[permaculture-education-and-design-course]]
 - [[permaculture-element-analysis-design-methods]]
 - [[permaculture-emergy-accounting]]
+- [[permaculture-energy-accounting-transition-farming]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
 - [[permaculture-energy-descent-planning]]
 - [[permaculture-energy-storage-systems]]
@@ -1341,6 +1345,7 @@
 - [[permaculture-mapping-and-base-maps]]
 - [[permaculture-mapping-and-design-tools]]
 - [[permaculture-mapping-and-reading-the-landscape]]
+- [[permaculture-maximum-yield-fallacy]]
 - [[permaculture-mesquite]]
 - [[permaculture-moringa]]
 - [[permaculture-mulberry]]
@@ -1458,6 +1463,7 @@
 - [[permaculture-two-species-compendium]]
 - [[permaculture-urban-design]]
 - [[permaculture-urban-design-apartments-balconies]]
+- [[permaculture-urban-waste-food-systems]]
 - [[permaculture-useful-plants-reference]]
 - [[permaculture-village-design]]
 - [[permaculture-vine-crops]]
