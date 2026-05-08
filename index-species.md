@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2538 pages**
+**2546 pages**
 
 ## #
 
@@ -545,6 +545,7 @@
 - [[cannabis-sour-diesel]]
 - [[cantharellus-cibarius]]
 - [[cantharellus-cibarius-entity]]
+- [[cantharellus-cinereus]]
 - [[cantharellus-cinnabarinus]]
 - [[cantharellus-lateritius]]
 - [[cantharellus-subalbidus]]
@@ -591,6 +592,7 @@
 - [[chelidonium-majus]]
 - [[chem-91]]
 - [[chemdawg]]
+- [[chemdawg-91]]
 - [[chemdawg-cannabis]]
 - [[chemdawg-entity]]
 - [[chemdog]]
@@ -838,6 +840,7 @@
 - [[dpt]]
 - [[dpt-entity-tihkal]]
 - [[dronabinol]]
+- [[drosera-rotundifolia]]
 - [[duboisia-hopwoodii]]
 - [[duck-tractor]]
 - [[duddingtonia-flagrans]]
@@ -892,6 +895,7 @@
 - [[ephedrine]]
 - [[epibrassinolide]]
 - [[epichloe-typhina]]
+- [[epilobium-angustifolium]]
 - [[epimedium-grandiflorum]]
 - [[epimedium-sagittatum]]
 - [[equisetum-arvense]]
@@ -2252,6 +2256,8 @@
 - [[slurricane]]
 - [[smallanthus-sonchifolius]]
 - [[smilax-ornata]]
+- [[smilax-regelii]]
+- [[solidago-canadensis]]
 - [[solidago-virgaurea]]
 - [[sophora-secundiflora-entity]]
 - [[sour-diesel]]
@@ -2451,6 +2457,7 @@
 - [[tremella-fuciformis-entity]]
 - [[tremella-fusciformis]]
 - [[tremella-mesenterica]]
+- [[triangle-kush]]
 - [[tribulus-terrestris]]
 - [[trichanthera-gigantea]]
 - [[trichocereus-bridgesii]]
@@ -2597,6 +2604,7 @@
 - [[xeromphalina-campanella]]
 - [[xerula-furfuracea]]
 - [[xerula-meadowii]]
+- [[xerula-megacystis]]
 - [[xylaria-hypoxylon]]
 - [[xylaria-longipes]]
 - [[xylaria-polymorpha]]

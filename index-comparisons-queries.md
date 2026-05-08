@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1167 pages**
+**1169 pages**
 
 ## A
 
@@ -166,6 +166,7 @@
 - [[comparison-coffee-vs-cacao-cultivation]]
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
+- [[comparison-comfrey-tea-vs-compost-tea]]
 - [[comparison-comfrey-vs-dandelion]]
 - [[comparison-comfrey-vs-yarrow]]
 - [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
@@ -1199,6 +1200,7 @@
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 - [[query-why-cant-heat-engines-be-100-percent-efficient]]
 - [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]
+- [[query-why-is-comfrey-controversial]]
 
 ## R
 
