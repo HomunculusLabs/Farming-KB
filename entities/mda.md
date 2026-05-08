@@ -110,7 +110,7 @@ It was placed under Schedule I in the United States in 1970 with the passage of 
 
 - [[mdma]]
 - [[lsd]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[dmt]]
 - [[2c-b]]
 - [[dom]]

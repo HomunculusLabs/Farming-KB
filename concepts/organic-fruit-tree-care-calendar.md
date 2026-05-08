@@ -122,5 +122,5 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 - [[permaculture-chicken-tractors]] — for chickens under fruit trees
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-pruning-fruit-tree-natural-management]]

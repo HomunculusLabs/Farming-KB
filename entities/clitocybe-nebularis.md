@@ -139,7 +139,7 @@ nutrients released by autumn leaf and needle fall.
 - nebularin
 - [[trametes-versicolor]]
 - [[lentinula-edodes]]
-- [[boletus-edulis]]
-- [[coprinopsis-atriamentaria]]
+- [[boletus-edulis-entity]]
+- [[coprinopsis-atramentaria]]
 - [[armillaria-mellea]]
 - [[mycorrhizal-fungi]]

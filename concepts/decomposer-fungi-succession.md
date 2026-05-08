@@ -120,7 +120,7 @@ After catastrophes, saprophytes lead the way toward renewal:
 
 - [[fungal-decomposition-of-wood]] -- wood decomposition processes and enzymes
 - [[fungal-ecology-decomposition-cycles]] -- broader decomposition ecology
-- [[fungal-ecology-forest-floor]] -- decomposition dynamics on the forest floor
+- [[the-soil-food-web]] -- decomposition dynamics on the forest floor
 - [[mycoforestry]] -- managing decomposition in forest ecosystems
 - [[mushroom-cultivation-basics]] -- practical cultivation applications
 - [[fungal-enzyme-systems-and-nutrient-cycling]] -- enzymatic basis of decomposition

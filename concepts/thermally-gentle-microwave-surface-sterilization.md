@@ -17,7 +17,7 @@ type: concept
 
 ## Overview
 
-A critical advantage of microwave surface sterilization over conventional methods is its ability to achieve complete microbial kill with minimal thermal impact on the underlying substrate or surrounding materials. This thermally gentle characteristic makes microwave sterilization particularly valuable for [[thermally labile]] systems that cannot withstand the high temperatures required by traditional sterilization approaches such as autoclaving or dry heat treatment.
+A critical advantage of microwave surface sterilization over conventional methods is its ability to achieve complete microbial kill with minimal thermal impact on the underlying substrate or surrounding materials. This thermally gentle characteristic makes microwave sterilization particularly valuable for [[thermally-labile]] systems that cannot withstand the high temperatures required by traditional sterilization approaches such as autoclaving or dry heat treatment.
 
 ## The Thermal Impact Problem in Conventional Sterilization
 
@@ -47,7 +47,7 @@ Microwave surface sterilization achieves microbial kill with minimal bulk heatin
 
 ### Selective Dielectric Absorption
 
-The 2.45 GHz microwave energy couples selectively with [[dipolar water molecules]] rather than heating the entire bulk material uniformly. Different materials have vastly different dielectric loss factors at microwave frequencies. Water has an extremely high loss factor at 2.45 GHz, meaning it absorbs microwave energy efficiently and converts it to heat. Most structural materials (metals, glass, many ceramics, dry polymers) have much lower loss factors and absorb relatively little microwave energy at this frequency.
+The 2.45 GHz microwave energy couples selectively with [[dipolar-water-molecules]] rather than heating the entire bulk material uniformly. Different materials have vastly different dielectric loss factors at microwave frequencies. Water has an extremely high loss factor at 2.45 GHz, meaning it absorbs microwave energy efficiently and converts it to heat. Most structural materials (metals, glass, many ceramics, dry polymers) have much lower loss factors and absorb relatively little microwave energy at this frequency.
 
 When only trace quantities of water (approximately 9 uL per cm^2) are present on the surface, the microwave energy is absorbed primarily by this thin water layer. The underlying substrate material, having a much lower dielectric loss, remains largely transparent to the microwave field and experiences minimal heating. This selective absorption confines the thermal effect to the immediate surface zone where microorganisms reside.
 
@@ -65,7 +65,7 @@ Unlike autoclaving which requires sustained high temperature for extended period
 
 ### Barrier Penetration Without Bulk Heating
 
-Microwave radiation has been demonstrated to penetrate [[elastomeric materials]] and other dielectric barriers to sterilize enclosed surfaces without heating the barrier material to damaging temperatures. The microwave energy passes through the barrier material with minimal absorption (due to its low dielectric loss at 2.45 GHz) and is absorbed primarily by the water content on or within the target organisms on the far side of the barrier. This enables sterilization of fully enclosed systems that would be impossible to treat with surface-applied heat or chemicals.
+Microwave radiation has been demonstrated to penetrate [[elastomeric-materials]] and other dielectric barriers to sterilize enclosed surfaces without heating the barrier material to damaging temperatures. The microwave energy passes through the barrier material with minimal absorption (due to its low dielectric loss at 2.45 GHz) and is absorbed primarily by the water content on or within the target organisms on the far side of the barrier. This enables sterilization of fully enclosed systems that would be impossible to treat with surface-applied heat or chemicals.
 
 ## Quantitative Thermal Comparison
 
@@ -90,7 +90,7 @@ Industrial and research [[fungal-bioreactor-types]] often require sterile sampli
 
 ### Mushroom Cultivation Equipment
 
-In [[mushroom cultivation]], certain equipment and container systems may be heat-sensitive. Microwave sterilization offers an alternative for decontaminating surfaces of [[fruiting chambers]], humidity systems, and air handling components where autoclave temperatures could damage seals, sensors, or electronic controls. The ability to sterilize enclosed systems through barrier penetration is particularly relevant for sealed [[grow containers]] and [[sterile inoculation]] setups where maintaining equipment integrity is essential for long-term productivity.
+In [[mushroom-cultivation]], certain equipment and container systems may be heat-sensitive. Microwave sterilization offers an alternative for decontaminating surfaces of [[fruiting-chambers]], humidity systems, and air handling components where autoclave temperatures could damage seals, sensors, or electronic controls. The ability to sterilize enclosed systems through barrier penetration is particularly relevant for sealed [[grow-containers]] and [[sterile-inoculation]] setups where maintaining equipment integrity is essential for long-term productivity.
 
 ### Medical and Pharmaceutical Applications
 
@@ -128,10 +128,10 @@ Despite its advantages, microwave surface sterilization has limitations related 
 
 ## See Also
 
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 
-- [[surface sterilization methods comparison]] for detailed method comparisons
-- [[microwave vs conventional surface sterilization methods]] for advantages and tradeoffs
-- [[trace water enhanced microwave surface sterilization]] for the water enhancement mechanism
-- [[microwave penetration of elastomeric materials]] for barrier penetration capability
-- [[microwave surface sterilization core concept]] for the underlying principle
+- [[surface-sterilization-methods-comparison]] for detailed method comparisons
+- [[microwave-vs-conventional-surface-sterilization-methods]] for advantages and tradeoffs
+- [[trace-water-enhanced-microwave-surface-sterilization]] for the water enhancement mechanism
+- [[microwave-penetration-of-elastomeric-materials]] for barrier penetration capability
+- [[microwave-surface-sterilization-core-concept]] for the underlying principle

@@ -124,7 +124,7 @@ Despite these limitations, perceived availability data provide a valuable comple
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

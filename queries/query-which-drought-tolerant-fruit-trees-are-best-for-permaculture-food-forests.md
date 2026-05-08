@@ -23,7 +23,7 @@ type: query
 
 ## Quick Answer
 
-The best drought-tolerant fruit trees for permaculture food forests depend on your climate zone and minimum annual rainfall, but the top performers across most dryland conditions include **jujube**, **pomegranate**, **carob**, **mesquite**, **fig**, **olive**, **date palm**, **loquat**, **persimmon**, and **pawpaw** (for temperate zones). Each offers edible yields, ecological services, and compatibility with multi-layer food forest designs. Below is a breakdown by climate category.
+The best [[drought-tolerant-planting-design]] fruit trees for permaculture-food-waste-cyclingod-forests-design-course]] depend on your climate zone and minimum annual rainfall, but the top performers across most dryland conditions include **jujube**, **pomegranate**, **carob**, **mesquite**, **fig**, **olive**, **date palm**, **loquat**, **persimmon**, and **pawpaw** (for temperate zones). Each offers edible yields, ecological services, and compatibility with multi-layer food forest designs. Below is a breakdown by climate category.
 
 ---
 
@@ -36,7 +36,7 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 - **Minimum rainfall**: 300–400 mm once established
 - **Yield**: 30–80 kg/tree/year
 - **Fruit**: Sweet, apple-like when fresh; dried resembles dates
-- **Why it excels**: Deep taproot (up to 6 m), nitrogen in leaf litter, natural bonsai form needs minimal pruning, productive from year 3, virtually pest-free
+- **Why it excels**: Deep taproot (up to 6 m), nitrogen in [[leaf-litter-microfungal-diversity-tropical-temperate]], natural bonsai form needs minimal pruning, productive from year 3, virtually pest-free
 - **Food forest role**: Canopy or understory tree; excellent bee forage with tiny fragrant flowers; produces in partial shade
 - **Cultivars**: 'Li', 'Lang', 'Sherwood', 'Sugarcane', 'So'
 
@@ -142,51 +142,6 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 ### Cornelian Cherry (*Cornus mas*)
 
 - **Minimum rainfall**: 500 mm
-- **Yield**: 15–25 kg/tree/year
-- **Fruit**: Tart cherry-like fruit for preserves, juice, drying; very high in vitamin C
-- **Why it excels**: Extremely cold-hardy; drought-tolerant once established; very early spring flowers (February-March); few pests or diseases; long-lived (100+ years); ornamental bark
-- **Food forest role**: Early pollen source for emerging bees; multi-use canopy or understory tree; nitrogen-rich leaf litter
-- **Cultivars**: 'Krazulya', 'Pioneer', 'Red Star', 'Ukraine', 'Elegant'
-
----
-
-## Establishment Tips for Dryland Fruit Trees
-
-Regardless of species, success in dryland food forests depends heavily on proper establishment:
-
-1. **Plant at the right time**: Plant at the beginning of your rainy season so roots establish before dry conditions arrive
-2. **Deep planting holes**: Dig holes 2–3× the root ball size and loosen the bottom to encourage deep rooting
-3. **Water deeply, infrequently**: During establishment, water deeply (to 60+ cm depth) once or twice per week rather than frequent shallow watering
-4. **Mulch heavily**: Apply 10–15 cm of organic mulch in a wide ring around the tree, keeping mulch away from the trunk
-5. **Swales and berms**: On slopes, plant on the berm of a swale to capture and infiltrate runoff water
-6. **Nurse plants**: Use fast-growing pioneer species (acacia, tagasaste, comfrey, daikon radish) to provide initial shade and wind protection for young fruit trees
-7. **Supplemental water for first 2–3 years**: Even drought-tolerant trees need regular water until their root systems are fully developed
-8. **Choose the right rootstock**: Grafted trees on drought-tolerant rootstocks outperform seedlings in marginal conditions
-
-## Designing a Drought-Tolerant Food Forest
-
-A resilient dryland food forest layers drought-adapted species vertically:
-
-- **Canopy**: Mesquite, carob, olive, date palm (nitrogen-fixers and windbreaks)
-- **Mid-canopy**: Pomegranate, fig, loquat, persimmon
-- **Understory**: Jujube, pawpaw, serviceberry, cornelian cherry
-- **Shrub layer**: Rosemary, lavender, sage, prickly pear, elderberry, currants
-- **Herbaceous**: Comfrey, artichoke, asparagus, rhubarb, perennial herbs
-- **Groundcover**: Creeping thyme, yarrow, clover, native grasses
-- **Root layer**: Jerusalem artichoke, yacon, sweet potato
-- **Vine layer**: Passionfruit (tropical), grapes, hardy kiwi (temperate)
-
-The key principle is **start with the skeleton** — establish canopy and windbreak trees first (they take the longest to mature), then fill in lower layers progressively. In truly arid areas (under 300 mm annual rainfall), focus on canopy trees first and accept that understory production will be limited without supplementary water.
-
-## Key Takeaways
-
-- **Jujube** is the single most versatile drought-tolerant fruit tree — it grows in tropical, subtropical, and temperate zones, fruits prolifically, and requires virtually no care once established
-- **Carob and mesquite** are essential food forest canopy trees in arid regions because they fix nitrogen, provide shade, and produce edible pods
-- **Fig** is the best drought-tolerant tree for Mediterranean climates that also wants fresh fruit production
-- **Pawpaw** fills the unique niche of a shade-tolerant fruit tree for temperate food forests
-- **Water during establishment is non-negotiable** — even the most drought-tolerant tree needs consistent water for its first 2–3 years
-- **Design for your worst year, not your average year** — choose species that survive extreme drought, not just tolerate moderate dryness
-
 ## See Also
 
 - [[permaculture-plants-fruit-trees-subtropical]]

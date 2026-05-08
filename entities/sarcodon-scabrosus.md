@@ -118,5 +118,5 @@ While not considered dangerously poisonous, *S. scabrosus* can cause:
 - [[hydnellum-peckii]] — Bleeding tooth fungus, visually distinctive Thelephorales member
 - [[hydnum-repandum]] — Edible hedgehog mushroom, the most commonly foraged tooth fungus
 - [[ectomycorrhizal-fungi]] — Overview of the mycorrhizal lifestyle
-- [[fungal-ecology-forest-floor]] — Forest floor fungal ecology and decomposition cycles
-- [[boletus-edulis]] — Fellow ectomycorrhizal associate of coniferous forests
+- [[the-soil-food-web]] — Forest floor fungal ecology and decomposition cycles
+- [[boletus-edulis-entity]] — Fellow ectomycorrhizal associate of coniferous forests

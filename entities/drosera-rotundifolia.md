@@ -129,4 +129,4 @@ Propagation is typically from seed (which requires cold stratification) or by le
 - [[valeriana-officinalis]]
 - [[scutellaria-baicalensis]]
 - [[artemisia-absinthium]]
-- [[artemisia-vulgaris]]
+- [[artemisia-vulgaris-entity]]

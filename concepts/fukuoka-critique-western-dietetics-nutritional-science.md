@@ -69,7 +69,7 @@ An adult who has lost his instinctive sense of taste no longer appreciates rice.
 
 "If we grew rice suited to the climate of this 'Land of Ripening Grain,' stopped importing wheat, grew early-maturing naked barley that can be harvested during May before the early summer rains, and revived the practices of eating brown rice and rice-and-barley like the farmers and samurai of old -- if we did all these things, then we would see an immediate improvement in Japan's food situation and the health of her people."
 
-See also [[fukuoka-natural-diet-four-types]], [[fukuoka-five-tastes-health]], and [[fukuoka-natural-diet-principles]].
+See also [[fukuoka-natural-diet-four-types]], [[fukuoka-five-tastes-health]], and [[fukuoka-natural-farming-philosophy]].
 
 ## Related Concepts
 

@@ -101,12 +101,12 @@ It serves as a low-growing ground cover in tropical food forests and agroforestr
 ## See Also
 
 - [[leonotis-leonurus]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[scutellaria-baicalensis]]
 - [[scutellaria-lateriflora]]
 - [[valeriana-officinalis]]
 - [[passiflora-incarnata]]
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[mimosa-hostilis]]
 - [[croton-lechleri]]
 - [[verbascum-thapsus]]

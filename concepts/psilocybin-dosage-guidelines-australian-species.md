@@ -29,13 +29,13 @@ to [[psychedelic-mushroom-set-and-setting]].
 A key finding from Australian research is that wild-collected specimens are
 generally less potent than cultivated ones. Margot and Watling (1981) were
 surprised by the comparatively small amounts of psilocybin and psilocin which
-they extracted from wild specimens of [[psilocybe-cubensis-profile]] collected from
+they extracted from wild specimens of [[psychedelic-mushrooms-species-and-identification]] collected from
 five different locations in Australia, suggesting that much larger doses would
 be required to produce significant hallucinations.
 
 ## Psilocybe cubensis
 
-[[psilocybe-cubensis-profile]] is the most commonly consumed psychoactive mushroom in
+[[psychedelic-mushrooms-species-and-identification]] is the most commonly consumed psychoactive mushroom in
 Australia. Dosage varies significantly between wild and cultivated specimens:
 
 - Wild-collected: Relatively mild experience; requires large amounts of fresh
@@ -53,13 +53,13 @@ Australia. Dosage varies significantly between wild and cultivated specimens:
 Ethnopharmacologist Jonathan Ott (1976, 1993) observed "the ingestion of from
 0.5 gm to 5.9 gm dried weight (10 gm to 40 gm fresh)" of various species of
 Psilocybe. Dosage for psilocybe subcubensis would be the same as for
-[[psilocybe-cubensis-profile]], as both species are macroscopically alike and only
+[[psychedelic-mushrooms-species-and-identification]], as both species are macroscopically alike and only
 distinguishable by spore size.
 
 ## Copelandia cyanescens
 
 [[panaeolus-cyanescens-bali-omelette]] ("blue meanies") is generally more potent per unit
-weight than [[psilocybe-cubensis-profile]]:
+weight than [[psychedelic-mushrooms-species-and-identification]]:
 
 - Usual dosage: 1 to 3 large specimens (cap diameter approximately 5 mm), or
   5 to 10 medium-sized mushrooms (cap diameter approximately 2.5 mm)
@@ -80,7 +80,7 @@ species in southeastern Australia:
 
 ## Psilocybe semilanceata
 
-[[psilocybe-semilanceata-profile]] ("liberty cap"), found in Tasmania and New Zealand:
+[[psychedelic-mushrooms-species-and-identification]] ("liberty cap"), found in Tasmania and New Zealand:
 
 - 7 to 10 grams fresh (approximately 20 to 30 mushrooms), or 1 gram dried
 

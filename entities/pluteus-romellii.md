@@ -17,7 +17,7 @@ sources:
 # Pluteus romellii
 
 **Pluteus romellii** is a wood-inhabiting mushroom in the family Pluteaceae and one of
-several Pluteus species reported to contain [[psilocybin]]. The genus Pluteus is
+several Pluteus species reported to contain [[psilocybin-compound]]. The genus Pluteus is
 distinctive for its free gills and pink spore print, characteristics that separate it from
 most other gilled mushrooms. While the majority of Pluteus species are non-psychoactive,
 a subset of the genus produces indole alkaloids, making them of interest to mycologists
@@ -107,7 +107,7 @@ though the season may extend in areas with mild winters.
 
 ## Chemistry
 
-Chemical analysis has confirmed the presence of [[psilocybin]] in Pluteus romellii, placing
+Chemical analysis has confirmed the presence of [[psilocybin-compound]] in Pluteus romellii, placing
 it among the psychoactive members of the genus. The psychoactive Pluteus species share
 several characteristics: they all produce psilocybin and/or psilocin, they typically bruise
 bluish when damaged (though subtly), and they are all lignicolous.

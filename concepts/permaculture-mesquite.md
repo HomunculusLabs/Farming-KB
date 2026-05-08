@@ -61,7 +61,7 @@ Mesquite pods have been a traditional food source for indigenous peoples of the 
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], mesquite exemplifies the principle of "the problem is the solution" — a tree considered invasive in grazing land becomes invaluable in food forest design. Its deep taproot mines minerals from subsoil layers and brings them to the surface through leaf fall. As a [[permaculture-wildlife-corridors]] multi-function plant, mesquite provides food, fuel, forage, nitrogen fixation, microclimate modification, and wildlife habitat simultaneously. It is an excellent [[permaculture-pioneer-species]] for degraded arid lands, establishing quickly and creating conditions for succession.
+In [[permaculture-design-principles]], mesquite exemplifies the principle of "the problem is the solution" — a tree considered invasive in grazing land becomes invaluable in food forest design. Its deep taproot mines minerals from subsoil layers and brings them to the surface through leaf fall. As a [[permaculture-wildlife-corridors]] multi-function plant, mesquite provides food, fuel, forage, nitrogen fixation, microclimate modification, and wildlife habitat simultaneously. It is an excellent [[permaculture-pioneer-species]] for degraded arid lands, establishing quickly and creating conditions for succession.
 
 ## Pests and Diseases
 

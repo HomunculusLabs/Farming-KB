@@ -142,22 +142,6 @@ sources: [raw/papers/pf-tek-psilocybe-fanaticus.md]
    133|- Replenishing water in the perlite as it evaporates
    134|
    135|The low-maintenance nature of the dual chamber design was a key factor in its
-   136|widespread adoption. Unlike more complex automated setups, the PF Tek requires
-   137|no timers, pumps, or electronic controls. A few minutes of attention per day
-   138|is sufficient for successful cultivation.
-   139|
-   140|## Fruiting Timeline
-   141|
-   142|After birthing, pin formation (primordia development) typically begins within 5
-   143|to 14 days. This waiting period requires patience and consistent maintenance of
-   144|humidity and temperature. Once pins appear, mushroom growth proceeds rapidly,
-   145|with mature mushrooms ready for harvest within 5 to 7 days of pin formation.
-   146|The mushrooms are harvested by gently twisting and pulling at the base of the
-   147|stem just before or as the veil beneath the cap begins to tear.
-   148|
-   149|Multiple flushes (harvest cycles) are possible from each cake, with diminishing
-   150|yields over successive flushes. The first flush typically produces the largest
-
 ## See Also
 
 - [[fruiting-conditions]]

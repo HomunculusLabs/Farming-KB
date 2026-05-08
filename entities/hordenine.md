@@ -19,7 +19,6 @@ sources:
   - Pålsson, K. et al. (1999). "Hordenine: A Naturally Occurring MAOI." Journal of Pharmacy and Pharmacology, 51(5), 553-557.
   - Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
 ---
-
 # Hordenine
 
 ## Overview
@@ -30,7 +29,7 @@ plant species, most notably barley (*Hordeum vulgare*) and various cacti.
 It acts primarily as an indirect adrenergic agonist and a reversible inhibitor
 of monoamine oxidase B (MAO-B), contributing to mild stimulant effects.
 Hordenine has a long history of use in traditional medicine and has attracted
-interest in pharmacology and nutritional science.
+interest in pharmacology and [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## Chemical Properties
 
@@ -41,7 +40,7 @@ interest in pharmacology and nutritional science.
 - **Structure type:** Substituted phenethylamine; N,N-dimethyl derivative
   of tyramine
 - **Appearance:** White crystalline solid
-- **Melting point:** 117–118°C
+- **Melting point:[[ingoldian-hyphomycetes-spore-dispersal-in-water]]18°C
 - **Solubility:** Soluble in water, ethanol, and chloroform; slightly
   soluble in ether
 
@@ -58,7 +57,7 @@ readily absorbed due to moderate lipophilicity (logP ~1.3).
   including increased heart rate, blood pressure elevation, and mild
   central stimulation.
 - **MAO-B inhibition:** Reversibly inhibits monoamine oxidase B with
-  moderate potency (IC₅₀ ~50 µM). This inhibition increases synaptic
+  moderate potency (IC₅₀ ~50 µM). This inhibition increasesserotonin]]
   levels of phenethylamine and trace amines but has minimal effect on
   serotonin or norepinephrine metabolism, which are primarily degraded
   by MAO-A.
@@ -82,8 +81,7 @@ and tyramine, with subsequent oxidative deamination by MAO.
   tachycardia, hypertension, anxiety, insomnia, headache.
 
 **Duration:** 2–4 hours when taken orally.
-
-**Onset:** 20–45 minutes.
+[[ephedrine]]** 20–45 minutes.
 
 Hordenine's effects are considerably milder than those of ephedrine or
 amphetamines, and it is sometimes described as a gentle, clean stimulant
@@ -92,7 +90,7 @@ with less peripheral jitteriness.
 ## Natural Sources
 
 Hordenine occurs in several plant families:
-- **Poaceae:** Barley (*Hordeum vulgare*, 0.02–0.2% in sprouted grain),
+- **Poaceae:** Barleyechinopsis-pachanoi]], 0.02–0.2% in sprouted grain),
   millet, rye grass.
 - **Cactaceae:** *Echinopsis pachanoi* (San Pedro), *E. peruvianus*,
   *E. bridgesii* at 0.01–0.1% dry weight.
@@ -148,10 +146,3 @@ specified maximum levels.
 - **Ephedrine:** Structurally similar phenethylamine with direct and
   indirect adrenergic agonism; significantly more potent stimulant.
 - **Phenethylamine:** Simplest member of the class; endogenous trace
-  amine; rapidly metabolized by MAO-B.
-
-## See Also
-
-- [[acacia]]
-- [[echinopsis-pachanoi]]
-- [[ephedrine]]

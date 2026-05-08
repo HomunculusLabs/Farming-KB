@@ -79,7 +79,7 @@ Duration: 8 - 12 h.
 
 3 te entity
 
-[[proscaline-entity]]
+[[proscaline]]
 
 [[te-entity]]
 

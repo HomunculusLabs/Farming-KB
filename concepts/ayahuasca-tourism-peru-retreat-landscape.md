@@ -148,4 +148,3 @@ These infrastructure limitations both protect the authenticity of the experience
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]] — guidance on evaluating ayahuasca practitioners and ensuring participant safety
 - [[ayahuasca-tourism-western-seekers-and-integration]] — how Western seekers approach ayahuasca and integrate experiences
 - [[psychedelic-spirituality-and-religion]] — broader context of ayahuasca within psychedelic spiritual traditions
-- [[entheogenic-ceremony-preparation]] — preparation protocols for entheogenic ceremonies including ayahuasca

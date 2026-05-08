@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Water Catchment and Conservation in Permaculture
 

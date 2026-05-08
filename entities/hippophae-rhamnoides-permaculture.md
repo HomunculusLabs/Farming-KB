@@ -1,5 +1,5 @@
 ---
-title: "Hippophae rhamnoides (Permaculture)"
+title: "[[hippophae-rhamnoides]] ([[permaculture]])"
 created: 2026-04-28
 type: species
 tags:
@@ -20,12 +20,10 @@ sources:
   - E. P. Kallio et al. (2002). "Vitamin C, flavonoids, and phenolic acids in sea buckthorn." Journal of Agricultural and Food Chemistry, 50(10), 3004–3009.
   - S. C. Sabir et al. (2005). "Chemistry and pharmacology of Hippophae rhamnoides." Natural Product Reports, 22(6), 695–711.
 ---
-
 ## Overview
 
-*Hippophae rhamnoides*, commonly known as sea buckthorn, is a deciduous, nitrogen-fixing
-shrub in the family Elaeagnaceae native to Europe and Asia. It is among the most valuable
-multi-purpose plants for permaculture and ecological restoration, combining nitrogen
+*Hippophae rhamnoides*, commonly known as [[comparison-aronia-vs-goji-vs-sea-buckthorn]], is a deciduous, nitrogen-fixing
+shrub in the family Elaeagnaceae native to Europe and Asimulti-purpose-treesg the most valuabletropical-rainforest-seedling-[[mycorrhiza]]-ecological-restorationfor permaculture and ecological restoration, combining nitrogen
 fixation, erosion control, windbreak function, wildlife habitat, and highly nutritious
 fruit production in a single hardy, low-maintenance species.
 
@@ -101,7 +99,7 @@ The berries are among the most nutrient-dense fruits known:
 - Vitamin E: 100–300 mg per 100 g (one of the richest plant sources)
 - Carotenoids: 30–100 mg per 100 g (beta-carotene, lycopene, zeaxanthin)
 - Omega fatty acids: 3–4% of berry weight (rare in fruit — omega-3, -6, -7, -9)
-- Flavonoids: 200–1500 mg per 100 g (isorhamnetin, quercetin, kaempferol)
+- Flavonoids: 200–1500 mg per 100 g (isorhamnetin, [[quercetin]], [[kaempferol]])
 
 Seed oil and pulp oil are both commercially produced. Seed oil is rich in omega-3 and
 omega-6 fatty acids, while pulp oil is higher in omega-7 (palmitoleic acid) and
@@ -126,7 +124,7 @@ cardioprotective effects in preclinical studies.
 
 ## Permaculture and Agroforestry Applications
 
-Sea buckthorn is one of the most functional plants in permaculture design, serving at
+Sea buckthorn is one of the most functional plants in [[permaculture-design]], serving at
 least six distinct roles simultaneously:
 
 **Nitrogen fixation:** The Frankia root nodules fix significant atmospheric nitrogen,
@@ -142,17 +140,9 @@ birds. The persistent berries are an important winter food source for thrushes,
 waxwings, and other frugivorous birds, supporting wildlife through lean months.
 
 **Pioneer species:** Sea buckthorn establishes rapidly on degraded, infertile, or saline
-sites, building soil organic matter and nitrogen content for subsequent plantings. It is
+sites, [[building-soil]] organic matter and nitrogen content for subsequent plantings. It is
 widely used in mine reclamation and coastal restoration.
 
 **Food production:** The nutrient-dense berries provide a high-value yield that can be
 processed into juices, oils, preserves, and supplements, creating economic returns from
 marginal land.
-
-## See Also
-
-- [[permaculture-designers-manual-essential-oil-plants]]
-
-- [[hippophae-rhamnoides]]
-
-- [[query-how-do-i-grow-sea-buckthorn]]

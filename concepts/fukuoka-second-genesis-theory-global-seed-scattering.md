@@ -132,6 +132,6 @@ Fukuoka acknowledged some of these concerns but maintained that the greater dang
 
 - [[fukuoka-clay-seed-pellets]]
 - [[fukuoka-desert-revegetation-natural-farming]]
-- [[fukuoka-greening-deserts]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-desert-greening-plant-irrigation]]
 - [[fukuoka-natures-self-organizing-principles]]

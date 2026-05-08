@@ -93,7 +93,7 @@ and can access exchange sites that roots alone cannot reach. A healthy,
 biologically active soil effectively multiplies the functional CEC beyond what a
 chemical soil test alone would indicate.
 
-[[trace-elements-in-soil]] availability is also governed by CEC. Micronutrients
+[[composting-and-soil-biology]] availability is also governed by CEC. Micronutrients
 like iron, manganese, zinc, copper, and boron exist as cations in soil solution and
 are subject to the same exchange dynamics as macronutrients. In low-CEC soils,
 these trace elements are easily leached beyond the root zone, leading to deficiency
@@ -120,4 +120,4 @@ simple cation competition.
 - [[cannabis-ph-management-and-soil-flushing]]
 - [[cannabis-soil-and-nutrient-requirements]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[trace-elements-in-soil]]
+- [[composting-and-soil-biology]]

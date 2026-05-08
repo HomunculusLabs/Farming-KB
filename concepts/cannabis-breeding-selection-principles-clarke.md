@@ -148,4 +148,3 @@ selection of seeds made at a later date.
 - [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-- [[cannabis-polyploidy-colchicine-treatment-clarke]]

@@ -132,46 +132,6 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 
 ### Fennel Leaves (Fronds)
 
-- Used as a garnish and flavoring herb, similar to dill
-- Incorporated into salads, soups, fish dishes, and egg preparations
-- Fennel pollen (harvested from flowers) is a gourmet spice with intense anise flavor
-
-## Permaculture and Ecological Functions
-
-Fennel is a valuable plant in permaculture and ecological gardening systems:
-
-### Companion Planting
-
-- **Pest deterrence:** The strong aroma repels aphids, flea beetles, and certain caterpillars
-- **Pollinator attraction:** The umbel flowers are excellent nectar sources for hoverflies (Syrphidae), ladybugs, parasitic wasps, and bees; fennel is considered one of the best plants for attracting beneficial insects
-- **Incompatible with:** Most vegetables (especially beans, tomatoes, kohlrabi, and cilantro); allelopathic compounds may inhibit nearby plant growth
-
-### Ecological Roles
-
-- **Beneficial insect habitat:** Provides overwintering sites and nectar for predatory and parasitic insects
-- **Erosion control:** Deep taproot helps stabilize soil on slopes
-- **Soil improvement:** Deep roots bring up nutrients from subsoil layers
-
-### Cultivation
-
-- **Propagation:** Direct seeding in spring or autumn; stratification improves germination; seeds germinate in 7–14 days at 15–20°C
-- **Soil:** Well-drained, fertile loam; tolerant of poor soils and drought once established; pH 6.0–8.0
-- **Sun:** Full sun (6+ hours daily)
-- **Water:** Moderate; drought-tolerant once established but produces better bulbs with consistent moisture
-- **Spacing:** 30–45 cm between plants
-- **Hardiness:** Hardy to USDA Zone 5 (-20°F / -29°C)
-- **Harvest:** Leaves can be harvested throughout the growing season; seeds are collected when fully ripe (brown); Florence fennel bulbs are harvested when 7–10 cm diameter
-
-## Invasive Potential
-
-*F. vulgare* is classified as a noxious or invasive weed in several jurisdictions:
-
-- **California, USA:** Listed as an invasive species by the California Invasive Plant Council; displaces native coastal scrub and grassland species
-- **Australia:** Declared a Weed of National Significance (WoNS); dense infestations exclude native vegetation and alter fire regimes
-- **South Africa:** Category 1b invasive species under NEM:BA regulations
-
-Control methods include manual removal (digging out taproots), grazing management, and targeted herbicide application.
-
 ## See Also
 
 - [[foeniculum-vulgare]]

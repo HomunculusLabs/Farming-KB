@@ -1,5 +1,5 @@
 ---
-title: "Bats vs. Purple Martins vs. Dragonflies for Mosquito and Flying Insect Control"
+title: "Bats vs. Purple Martins vs. Dragonflies for Mosquito and Flying [[cervantes-mealybugs-scale-insect-control]]"
 tags:
   - biological-control
   - mosquito-control
@@ -18,7 +18,7 @@ sources:
   - "Whitaker, J.O. Jr. (1995). Food of the Big Brown Bat Eptesicus fuscus from Maternity Colonies in Indiana and Illinois. American Midland Naturalist, 134(2), 346–360."
   - "Brown, C.R. & Brown, M.B. (2018). 'The role of aerial insectivores in pest control.' Ecology and Evolution, 8(11), 5485–5493."
   - "Corbet, P.S. (1999). Dragonflies: Behavior and Ecology of Odonata. Cornell University Press."
-  - "Xue, R.-D. et al. (2010). 'Biological control of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
+  - "Xue, R.-D. et al. (2010). '[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
   - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird House Placement Guidelines.'"
   - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural pest suppression: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
   - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."
@@ -26,11 +26,11 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Bats vs. Purple Martins vs. Dragonflies for Mosquito and Flying Insect Control
+# Bats vs. Purple Martins vs. Dragonflies for Mosquito and Fl [[fukuoka-science-destroyer-of-nature]] ct Control
 
 ## Introduction
 
-Three of nature's most celebrated mosquito hunters — **bats**, **purple martins** (*Progne subis*), and **dragonflies** (Odonata) — are frequently promoted as biological control agents for homesteads and permaculture sites. But how do they actually compare in effectiveness, habitat requirements, and practicality? This guide evaluates each against the others across the dimensions that matter most to land managers.
+Three of nature's most celebrated mosquito hunters — **bats**, **purple martins** (*Progne subis*), and **dragonflies** (Odonata) — are frequently promoted as biological control agents [[graywater-systems-for-homesteads]] [[query-best-goat-breeds-for-small-homestead-and-permaculture]] sites. But how do they actually compare in effectiveness, habitat requirements, and practicality? This guide evaluates each against the others across the dimensions that matter most to land managers.
 
 ## Quick Comparison Table
 

@@ -147,9 +147,3 @@ Muscimol itself is not scheduled under the UN Convention on Psychotropic Substan
 - [[amanita-muscaria]]
 - [[ergotamine]]
 - [[ibotenic-acid]]
-
-- [[amanita-muscaria]] — primary natural source of muscimol
-- [[ibotenic-acid]] — biosynthetic precursor to muscimol; glutamate agonist
-- GABA-Receptors — pharmacological target of muscimol
-- [[psilocybin]] — serotonergic psychedelic compound for pharmacological comparison
-- [[ergotamine]] — another fungal-derived psychoactive compound

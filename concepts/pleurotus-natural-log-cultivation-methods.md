@@ -148,5 +148,3 @@ some strains show tolerance for softwoods.
 - [[log-waxing-inoculation-sealing]] techniques
 - [[pleurotus-substrate-biological-efficiency]] data
 - [[cotter-oyster-mushroom-cultivation]] cultivation guide
-- [[cotter-spawn-production]] types and preparation
-- outdoor growing methods

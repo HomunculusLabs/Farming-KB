@@ -102,7 +102,7 @@ For areas where soil cannot be replaced (deep contamination, concrete):
 - [[holzer-bypass-technique]]
 
 - [[holzer-balcony-garden]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[raised-bed-gardening]]
 - [[composting-humus-building-holzer]]
 - [[gaias-garden-cover-crops-soil-building]]

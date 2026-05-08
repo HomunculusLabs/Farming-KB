@@ -142,10 +142,8 @@ The motif is powerful, but enzyme mechanism must be inferred from multiple lines
 ## Related Concepts
 Catalytic triads connect naturally to [[enzyme-kinetics-michaelis-menten-model]] because active-site chemistry determines kcat and sometimes KM.
 
-They also connect to [[structure-activity-relationship-medicinal-chemistry]] when inhibitors are optimized for selectivity, residence time, and reactivity.
+They also connect to structure activity relationship medicinal chemistry when inhibitors are optimized for selectivity, residence time, and reactivity.
 
 The oxyanion hole is a companion motif that stabilizes tetrahedral intermediates during acylation and deacylation.
 
 Covalent catalysis, general acid-base catalysis, transition-state stabilization, and substrate proximity effects all converge in the triad mechanism.
-
-For biochemistry, the triad is a compact teaching model of how proteins convert ordinary functional groups into selective chemical catalysts.

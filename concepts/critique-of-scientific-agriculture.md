@@ -148,6 +148,3 @@ it claims to oppose.
 ## The Path Forward
 
 The only effective path is to relinquish human knowledge and trust nature's inherent
-wisdom. Rather than fixing symptoms through targeted interventions, one must restore
-the conditions under which nature maintains its own balance. Man cannot equal the
-yields of nature.

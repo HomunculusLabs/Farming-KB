@@ -132,4 +132,4 @@ It serves as a food source for various invertebrates including beetles (Coleopte
 - [[pleurotus-ostreatus]]
 - [[agaricus-bisporus]]
 - [[lentinula-edodes]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]

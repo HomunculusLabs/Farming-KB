@@ -140,36 +140,6 @@ Lion's Mane is considered one of the finest edible wild mushrooms:
 Lion's Mane is commercially cultivated on hardwood substrates:
 
 - **Substrate:** Hardwood sawdust (oak, beech, maple) supplemented with wheat bran (10–20%). Soy hull supplementation improves yield significantly.
-- **Methods:** Supplemented sawdust blocks (most common commercial method), log inoculation (outdoor), and liquid culture (for mycelium production)
-- **Conditions:**
-  - Spawn run: 20–25°C, 2–4 weeks
-  - Fruiting initiation: 15–20°C, high humidity (90–95% RH), fresh air exchange, indirect light
-  - Fruit body development: 2–4 weeks
-- **Yield:** Biological efficiency of 50–100% (0.5–1.0 kg fresh per kg dry substrate)
-- **Harvest:** Cut at base when spines begin to elongate and before they discolor. Over-mature specimens become tough and bitter.
-
-## Dosage and Supplementation
-
-Common supplement dosages based on available research:
-
-- **Powdered fruiting body:** 1–3 g/day (based on Mori et al. 2009 protocol)
-- **Standardized extract (8:1 or 10:1):** 500–1000 mg/day
-- **Dual extract (water + alcohol):** 500–1500 mg/day (captures both β-glucans and terpenoids/phenolics)
-- **Mycelium on grain vs. fruiting body:** Significant quality debate. Mycelium-on-grain products may contain high starch content from the grain substrate, diluting active compounds. Fruiting body extracts are generally preferred.
-
-## Safety
-
-Lion's Mane is considered very safe with an excellent tolerability profile:
-
-- **Side effects:** Rare. Occasional mild gastrointestinal discomfort, skin rash (possible allergic reaction in individuals sensitive to mushrooms)
-- **Drug interactions:** Theoretical blood-thinning effects (antiplatelet activity) — caution with anticoagulant medications. May enhance immune function — theoretical interaction with immunosuppressants.
-- **Pregnancy/lactation:** Insufficient data; use not recommended
-- **Autoimmune conditions:** Theoretical risk of immune stimulation; consult healthcare provider
-
-## Conservation Status
-
-Wild Lion's Mane populations are declining in many regions due to habitat loss (old-growth forest removal) and over-foraging. In several European countries, it is listed as threatened or near-threatened. Cultivated Lion's Mane is widely available and should be preferred over wild harvesting.
-
 ## See Also
 
 - [[reishi-mushroom-medicinal-research]] — Another medicinal mushroom with immunomodulatory properties

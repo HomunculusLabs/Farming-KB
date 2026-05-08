@@ -19,7 +19,7 @@ In Japan, over 366 accidental ingestions of psilocybin mushrooms were reported i
 
 ## Species Responsible for Historical Intoxications
 
-Outside of a few intoxications caused by [[psilocybe-cubensis-profile]] in Africa and one caused by [[psilocybe-semilanceata]] in England in the late 1700s, the majority of all pre-recreational intoxications were caused by various species of Panaeolus, with the exceptions of Japan and the northeastern United States where some inebriations resulted from ingesting Gymnopilus species.
+Outside of a few intoxications caused by [[psychedelic-mushrooms-species-and-identification]] in Africa and one caused by [[psilocybe-semilanceata]] in England in the late 1700s, the majority of all pre-recreational intoxications were caused by various species of Panaeolus, with the exceptions of Japan and the northeastern United States where some inebriations resulted from ingesting Gymnopilus species.
 
 Subjective effects of [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[panaeolus-cyanescens-bali-omelette]] produced more tranquil and less hallucinogenic effects compared to [[psilocybe-genus-diversity-and-taxonomy]] species.
 
@@ -27,7 +27,7 @@ Subjective effects of [[panaeolus-cyanescens-bali-omelette]] intoxication were t
 
 The greatest danger from mushroom foraging lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with psilocybe cyanescens detailed, [[psilocybe-baeocystis-profile]], and [[psilocybe-stuntzii-profile]] in mulched gardens.
 
-Chlorophyllum molybdites ("green gills" or "Morgan's Lepiota"), considered toxic but not deadly, is often picked in Florida and mistaken for [[psilocybe-cubensis-profile]]. In Tampa, Florida, over 90% of all mushroom poisonings were attributed to C. molybdites ingestion. This species is also common in Australia and may be mistaken for psilocybin mushrooms.
+Chlorophyllum molybdites ("green gills" or "Morgan's Lepiota"), considered toxic but not deadly, is often picked in Florida and mistaken for [[psychedelic-mushrooms-species-and-identification]]. In Tampa, Florida, over 90% of all mushroom poisonings were attributed to C. molybdites ingestion. This species is also common in Australia and may be mistaken for psilocybin mushrooms.
 
 A sixteen-year-old girl from Whidbey Island, Washington died in December 1981 after accidentally eating Galerina autumnalis, having mistaken it for a Psilocybe species. She and her companions did not report the consumption to medical authorities for two days due to fear of prosecution. See [[mushroom-poisoning-and-lookalikes]] and [[psilocybin-mushroom-deadly-lookalikes]] for detailed identification guidance.
 

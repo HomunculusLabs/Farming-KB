@@ -147,5 +147,3 @@ The mating system of a species directly affects how cultivators generate new
 strains. Bifactorial species require more careful spore pairing work than
 unifactorial species. Homothallic species like Agaricus brunnescens simplify
 ## See Also
-
-- [[mushroom-genetics-and-mating-systems]]

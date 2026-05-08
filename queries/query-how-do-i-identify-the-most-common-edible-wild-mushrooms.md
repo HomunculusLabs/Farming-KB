@@ -76,7 +76,7 @@ be vividly colored.
 
 ## Chicken of the Woods: Bright Shelf Fungi
 
-[[laetiporus-sulphureus]], commonly known as chicken of the woods, is one of
+[[laetiporus-sulphureus-permaculture]], commonly known as chicken of the woods, is one of
 the easiest mushrooms to identify due to its striking appearance. It grows as
 large, overlapping shelf-like brackets on the trunks and stumps of hardwood
 trees. The upper surface is bright orange to orange-yellow, while the pore

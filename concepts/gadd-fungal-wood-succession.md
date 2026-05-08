@@ -118,6 +118,6 @@ fungi and their invertebrate grazers. Mycelia are highly nutritious; Collembola,
 
 ## See Also
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-biodiversity-forest-ecosystems]]

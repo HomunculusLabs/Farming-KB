@@ -148,4 +148,3 @@ to 16 inches without full inversion, striking a middle ground.
 
 ## See Also
 - [[comparison-double-digging-vs-no-till]]
-- [[sheet-mulching]]

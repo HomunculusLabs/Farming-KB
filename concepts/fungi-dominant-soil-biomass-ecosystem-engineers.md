@@ -135,57 +135,6 @@ and indirect mechanisms.
 Direct mechanisms include the production of organic acids (oxalic, citric, gluconic)
 that dissolve mineral surfaces, the secretion of siderophores that chelate iron and
 other metals, and the physical penetration of mineral matrices by hyphal tips
-exerting turgor pressures of several atmospheres.
-Indirect mechanisms include the modification of soil microenvironmental conditions,
-such as pH and redox potential, that affect mineral stability.
-Lithotrophic fungi, those capable of using inorganic substrates as energy sources,
-include species that oxidize iron, sulfur, and manganese.
-These fungi play important roles in the initial stages of soil formation from rock,
-particularly in extreme environments such as desert crusts, arctic soils, and mine
-tailings where other weathering agents are limited.
-The ability of fungi to tolerate extreme pH, temperature, and metal concentrations
-makes them pioneer organisms in primary succession.
-
-## Heavy Metal Interactions and Bioremediation
-
-Fungi interact with heavy metals through several mechanisms that have both ecological
-and bioremediation significance.
-Biosorption, the passive binding of metal ions to cell wall components including
-chitin, glucans, and melanin, can concentrate metals from solution by factors of
-hundreds or thousands.
-Bioaccumulation involves active uptake and intracellular sequestration of metals,
-often into vacuoles or bound to metallothionein-like proteins.
-Biotransformation includes redox reactions that alter metal speciation, for example
-reducing hexavalent chromium to less toxic trivalent chromium or oxidizing
-manganese from Mn(II) to Mn(IV).
-These metal interaction mechanisms have been exploited in fungal bioremediation
-technologies for contaminated soils and wastewater.
-Fungal mycelia have been used as biosorbents for the removal of heavy metals
-including cadmium, copper, lead, and uranium from industrial effluents.
-The advantage of fungal biosorption over conventional approaches such as chemical
-precipitation or ion exchange includes lower cost, higher efficiency for dilute
-solutions, and the potential for metal recovery from spent biomass.
-
-## Carbon Sequestration
-
-Fungi contribute to soil carbon sequestration through multiple pathways.
-Fungal biomass itself represents a significant carbon pool, with relatively slow
-turnover rates compared to bacterial biomass.
-The production of recalcitrant compounds such as chitin, melanin, and glomalin adds
-stable carbon forms to soil.
-Fungal-mediated aggregation protects organic matter within soil aggregates from
-microbial decomposition, extending carbon residence times.
-The preferential use of simple carbon compounds by fungi may leave more complex,
-recalcitrant organic molecules in soil, contributing to the formation of humus.
-The relative importance of fungal versus bacterial pathways in soil carbon cycling
-has implications for climate change predictions.
-Soils dominated by fungal decomposition pathways tend to have higher carbon-to-
-nitrogen ratios, slower decomposition rates, and greater carbon storage capacity
-than bacteria-dominated soils.
-Land management practices that shift the soil microbial community toward fungal
-dominance, such as reduced tillage and perennial cropping, may therefore enhance
-soil carbon sequestration.
-
 ## See Also
 
 - [[arbuscular-mycorrhizal-fungi]]

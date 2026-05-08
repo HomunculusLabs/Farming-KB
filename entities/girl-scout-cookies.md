@@ -134,50 +134,16 @@ GSC has been widely used medicinally for:
   evidence remains limited
 - **Muscle spasms**: Muscle relaxant properties beneficial for
   conditions like MS and fibromyalgia
-
-## Awards and Recognition
-
-Girl Scout Cookies was one of the most decorated cannabis strains of
-the 2010s, winning numerous Cannabis Cup and competition awards:
-
-- 2013 High Times Cannabis Cup, San Francisco: 1st Place Hybrid
-- 2014 High Times Cannabis Cup, Amsterdam: 3rd Place Hybrid
-- 2014 High Times U.S. Cannabis Cup, Denver: 1st Place Hybrid
-- 2015 High Times World Cannabis Cup: Multiple category placements
-- 2016 and 2017: Continued placement in major competition categories
-
-The strain's competition success helped establish the Cookies brand
-as a premium genetic lineage, influencing breeder priorities toward
-terpene quality alongside potency.
-
-## Cultural Impact and Legacy
-
-GSC's influence on the modern cannabis industry is difficult to
-overstate. It catalyzed several major shifts:
-
-- **Cookie Family genetics**: Dozens of commercial strains descend from
-  GSC crosses, including Gelato, Sunset Sherbet, Thin Mint, Animal
-  Cookies, GSC Headband, and many others.
-- **Brand building**: The Cookies brand (now a major licensed cannabis
-  company) traces its identity directly to this strain.
-- **Terpene-focused breeding**: GSC helped shift breeder attention from
-  pure THC maximization toward complex terpene profiles.
-- **Clone economy**: The strain demonstrated the commercial value of
-  exclusive clone-only genetics in the legal market.
-- **Instagram-era cannabis**: GSC was one of the first strains to gain
-  massive social media exposure, with images of its frosted buds
-  becoming iconic.
-
 ## See Also
 
 - [[animal-face]]
 - [[og-kush]]
 - [[sour-diesel]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[jack-herer]]
 - [[northern-lights]]
-- [[white-widow]]
+- [[white-widow-entity]]
 - [[gorilla-glue]]
 - [[cannabis-sativa]]
 - [[cannabis-indica]]
-- [[mendo-breath]]
+- [[mendo-breath-entity]]

@@ -95,7 +95,7 @@ Species with low fire potential for integration into fire-safe landscape design:
 - [[permaculture-design-course-methodology]]
 - [[salt-tolerant-plant-guide]]
 - [[permaculture-fruit-tree-guide]]
-- [[water-plant-guide]]
+- [[aquatic-plants-and-pond-ecosystems]]
 - [[salt-tolerant-plant-guide]]
 - [[alkaline-soil-plants]]
 

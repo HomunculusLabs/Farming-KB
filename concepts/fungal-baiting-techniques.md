@@ -21,7 +21,7 @@ The effectiveness of baiting depends on matching the bait material to the nutrit
 
 ### Baiting for Zoosporic Fungi
 
-[[zoosporic-mycoparasites-aquatic-fungi]] (chytrids, oomycetes, and hyphochytrids) are particularly amenable to baiting because their motile zoospores actively seek out suitable substrates. Common baits include:
+zoosporic mycoparasites aquatic fungi (chytrids, oomycetes, and hyphochytrids) are particularly amenable to baiting because their motile zoospores actively seek out suitable substrates. Common baits include:
 - **Chitin baits**: purified chitin, shrimp exoskeletons, or insect cuticle to bait chitinolytic species
 - **Cellulose baits**: cellophane, filter paper, or plant material to bait cellulolytic species
 - **Pollen grains**: collect a wide range of chytrids from water and soil samples

@@ -110,7 +110,7 @@ Research interest in H. tessellatus has increased substantially since 2010, driv
 ## See Also
 
 - [[agaricus-bisporus]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[flammulina-velutipes]]
 - [[grifola-frondosa]]
 - [[hericium-erinaceus]]
@@ -118,5 +118,5 @@ Research interest in H. tessellatus has increased substantially since 2010, driv
 - [[morchella-esculenta]]
 - [[pleurotus-ostreatus]]
 - [[stropharia-rugosoannulata]]
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 - [[trametes-versicolor]]

@@ -10,10 +10,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe plutonia
 
-**Psilocybe plutonia** is a small, dung-inhabiting [[psilocybin]]-containing mushroom in the
+**Psilocybe plutonia** is a small, dung-inhabiting [[psilocybin-compound]]-containing mushroom in the
 family Hymenogastraceae. It is one of the less commonly documented species within the genus
 Psilocybe, found primarily in tropical and subtropical regions of the Americas. The species
-belongs to the first group of neurotropic fungi, containing [[psilocybin]] and related indole
+belongs to the first group of neurotropic fungi, containing [[psilocybin-compound]] and related indole
 alkaloids. It was originally described by the British mycologists Miles Joseph Berkeley and
 Moses Ashley Curtis.
 
@@ -27,9 +27,9 @@ dark-spored, dung-inhabiting psilocybian species due to its nondescript appearan
 
 In the comprehensive classification system of Guzmán, Allen, and Gartz (2000), which cataloged
 216 known neurotropic fungal species worldwide, *P. plutonia* is recognized as one of the 116
-species within the genus Psilocybe that contain or are suspected to contain [[psilocybin]]
+species within the genus Psilocybe that contain or are suspected to contain [[psilocybin-compound]]
 and related indole alkaloids. Within the genus, *P. plutonia* belongs to section Psilocybe
-(the [[psilocybin]]-containing core group), which is characterized by dark spore prints,
+(the [[psilocybin-compound]]-containing core group), which is characterized by dark spore prints,
 the presence of a pleurocystidia (sterile cells on gill faces), and the
 absence of a true partial veil (annulus) in most species.
 
@@ -62,7 +62,7 @@ is often absent or so fragile that it disappears quickly. The stipe is hollow.
 
 The flesh (context) is very thin, pale, and fragile. It does not have any distinctive odor.
 The taste has been variously described as farinaceous (mealy or flour-like) or mild. Like
-many [[psilocybin]] species, *P. plutonia* may exhibit slight bluish bruising on the stipe
+many [[psilocybin-compound]] species, *P. plutonia* may exhibit slight bluish bruising on the stipe
 base or cap when damaged, though this reaction is often faint and may be absent in young
 or dried specimens.
 
@@ -103,8 +103,8 @@ persist for only 1 to 3 days before deteriorating.
 
 ## Chemistry
 
-Like other [[psilocybin]]-containing species in section Psilocybe, *P. plutonia* contains
-[[psilocybin]] and [[psilocin]] as its primary bioactive indole alkaloids. Psilocybin
+Like other [[psilocybin-compound]]-containing species in section Psilocybe, *P. plutonia* contains
+[[psilocybin-compound]] and [[psilocin]] as its primary bioactive indole alkaloids. Psilocybin
 (4-phosphoryloxy-N,N-dimethyltryptamine) serves as a prodrug, being dephosphorylated in the
 body to the pharmacologically active [[psilocin]] (4-hydroxy-N,N-dimethyltryptamine). Psilocin
 acts primarily as a 5-HT2A serotonin receptor agonist, producing its

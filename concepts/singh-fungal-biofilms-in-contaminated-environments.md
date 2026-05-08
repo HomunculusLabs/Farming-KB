@@ -148,4 +148,3 @@ remediation systems.
 ## See Also
 
 - [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] -- key enzymes produced within biofilms
-- volatile organic compound biodegradation -- biofilm VOC treatment

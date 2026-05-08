@@ -143,5 +143,5 @@ while reducing the flowering window to 8–10 weeks.
 
 - [[skunk-1]] — Descendant hybrid carrying Colombian Gold genetics
 - [[acapulco-gold]] — Fellow foundational 1970s imported sativa landrace
-- [[thai-stick]] — Another pillar sativa landrace of the classic import era
+- [[thai-stick-entity]] — Another pillar sativa landrace of the classic import era
 - [[cannabis-sativa]] — Species page for the broader sativa classification

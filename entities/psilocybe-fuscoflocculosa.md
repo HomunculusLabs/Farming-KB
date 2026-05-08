@@ -16,7 +16,7 @@ sources:
 
 # Psilocybe fuscoflocculosa
 
-**Psilocybe fuscoflocculosa** is a tropical and subtropical [[psilocybin]]-containing mushroom species notable for its distinctive floccose (woolly) veil remnants on the cap surface. The species epithet refers to its dark (fuscous) and woolly covering.
+**Psilocybe fuscoflocculosa** is a tropical and subtropical [[psilocybin-compound]]-containing mushroom species notable for its distinctive floccose (woolly) veil remnants on the cap surface. The species epithet refers to its dark (fuscous) and woolly covering.
 
 ## Taxonomy
 

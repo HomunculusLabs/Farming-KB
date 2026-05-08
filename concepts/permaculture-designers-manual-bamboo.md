@@ -89,8 +89,8 @@ In cold climates, marginal or semi-hardy plants such as bamboo may survive frost
 - [[permaculture-designers-manual-tropical-climates]]
 - [[permaculture-designers-manual-vines-and-climbers]]
 - [[permaculture-designers-manual-temperate-climate-design]]
-- [[permaculture-earthworks-guide]]
-- [[swale-construction-guide]]
+- [[permaculture-water-harvesting-earthworks]]
+- [[organic-vegetable-growing-and-market-gardening]]
 
 ## Source
 

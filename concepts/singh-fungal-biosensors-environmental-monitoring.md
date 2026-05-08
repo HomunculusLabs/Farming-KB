@@ -148,4 +148,3 @@ biomass regeneration timing.
 
 Emerging trends include [[singh-genetically-engineered-fungi-bioremediation]] fungal strains with
 enhanced sensitivity and specificity, [[singh-fungal-nanoparticles-remediation]] integration
-for improved transducer interfaces, and wireless biosensor networks for

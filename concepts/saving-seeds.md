@@ -8,10 +8,10 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 # Saving Seeds
-[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
+[[permaculture-design|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 ## Why Save Seeds
 - Cost savings: never buy seed for your staple crops again
-- Adaptation: plants become better adapted to your soil, climate, and growing methods over generations -- a principle shared with [[permaculture-seed-saving-and-selection|permaculture seed saving]]
+- Adaptation: plants become better adapted to your soil, climate, and growing methods over generations -- a principle shared with [[permaculture-design|permaculture seed saving]]
 - Genetic diversity: preserve heirloom and open-pollinated varieties that may disappear from commercial catalogs
 - Self-reliance: independence from seed companies and supply chain disruptions
 - Community: share and trade seeds with other local growers

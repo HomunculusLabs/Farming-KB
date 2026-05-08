@@ -85,7 +85,7 @@ Substrate properties that influence material outcome:
 
 The most commercially mature mycelium material process produces rigid foam-like composites used for packaging insulation and structural panels:
 
-1. **Substrate preparation**: Agricultural waste is milled to a consistent particle size (typically 1–5 mm), pasteurized (60–80°C for 30–120 minutes) to eliminate competing organisms, and adjusted to approximately 65% moisture content
+1. **[[substrate-preparation-and-pasteurization]]**: Agricultural waste is milled to a consistent particle size (typically 1–5 mm), pasteurized (60–80°C for 30–120 minutes) to eliminate competing organisms, and adjusted to approximately 65% moisture content
 2. **Inoculation**: Mycelium spawn (grain spawn or liquid culture) is mixed with the cooled substrate at a rate of 5–15% by weight
 3. **Molding**: The inoculated substrate is packed into molds of the desired shape. Molds can range from simple rectangular forms to complex custom geometries
 4. **Incubation**: Molds are held in controlled environments (22–28°C, 85–95% relative humidity, ambient CO₂, minimal light) for 3–7 days while the mycelium colonizes the substrate completely
@@ -329,7 +329,7 @@ Combining mycelium with other bio-based materials:
 It is possible to produce mycelium materials at home or in a small workshop with minimal equipment:
 
 **Basic equipment needed:**
-- Pressure cooker or large pot for substrate pasteurization
+- [[pressure-cooker-sterilisation-fungal-substrate]] or large pot for substrate pasteurization
 - Clean containers or molds
 - Spray bottle for moisture maintenance
 - Clean workspace (wipeable surfaces, 70% isopropyl alcohol)
@@ -392,8 +392,8 @@ The convergence of biotechnology, materials science, and sustainable design posi
 
 ## See Also
 
-- [Biochar in Regenerative Agriculture](biochar-in-regenerative-agriculture.md)
+- [Biochar in Regenerative Agriculture]([[biochar-in-regenerative-agriculture]].md)
 - [Bioremediation Using Fungi](bioremediation-using-fungi.md)
-- [Mycelium Networks and Fungal Ecology](mycelium-networks-and-fungal-ecology.md)
-- [Oyster Mushroom Cultivation and Species Guide](oyster-mushroom-cultivation-and-species-guide.md)
-- [Shiitake Mushroom Cultivation and Medicinal Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)
+- [Mycelium Networks and Fungal Ecology]([[mycelium-networks-and-fungal-ecology]].md)
+- [Oyster Mushroom Cultivation and Species Guide](oyster-mushroom-cultivation-methodson-and-species-guide]]steurization-methods]]-and-species-guide.md)
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]] Cultivation and Medicinal Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)

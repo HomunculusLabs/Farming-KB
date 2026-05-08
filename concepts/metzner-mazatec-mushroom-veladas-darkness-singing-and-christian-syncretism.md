@@ -121,7 +121,7 @@ rather than community worship.
 ## See Also
 
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mazatec-mushrooms-of-language]]
 
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]

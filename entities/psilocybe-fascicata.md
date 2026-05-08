@@ -47,7 +47,7 @@ More recent molecular phylogenetic studies have generally supported this placeme
 ### Bluing Reaction
 
 The blue staining reaction is prominent and serves as the primary field indicator of psychoactive content.
-The bluing occurs on the stem (especially near the base), gills, and sometimes the cap flesh when bruised, indicating the presence of [[psilocybin]] and/or [[psilocin]].
+The bluing occurs on the stem (especially near the base), gills, and sometimes the cap flesh when bruised, indicating the presence of [[psilocybin-compound]] and/or [[psilocin]].
 The intensity of bluing can vary among specimens and may correlate with alkaloid content, though this relationship is not strictly proportional.
 
 The biochemistry of the bluing reaction involves the enzymatic oxidation of psilocin (and possibly other phenolic compounds) to form blue-colored quinone polymers.
@@ -75,7 +75,7 @@ Associations with specific tree species have not been well documented, but colle
 
 ## Chemistry
 
-The species is confirmed to contain [[psilocybin]] and likely [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
+The species is confirmed to contain [[psilocybin-compound]] and likely [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
 Quantitative data from [[bigwood]] and [[beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[psilocybe-cubensis-potency-variation-by-flush]].
 
 The presence of [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
@@ -123,7 +123,7 @@ Key differentiating features of *P. fascicata* include its clustered growth on d
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-mexicana-cultivation]]

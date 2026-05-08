@@ -30,7 +30,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[psilocybin|psilocybin]]. Where psilocybin carries a phosphoryloxy group at the 4-position of the indole ring attached to dimethyltryptamine, ethocybin substitutes an ethylphosphoryloxy group.
+**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[psilocybin-compound|psilocybin]]. Where psilocybin carries a phosphoryloxy group at the 4-position of the indole ring attached to dimethyltryptamine, ethocybin substitutes an ethylphosphoryloxy group.
 
 The compound was first synthesized and characterized by Alexander Shulgin, who documented it in [[lsd-entity-tihkal|TIHKAL]] (Tryptamines I Have Known and Loved). Ethocybin is a prodrug — the phosphate ester is cleaved in vivo by alkaline phosphatase enzymes to produce the active metabolite 4-HO-DMT ([[psilocin|psilocin]]), the same active metabolite produced by psilocybin.
 
@@ -108,7 +108,7 @@ Internationally, the compound is not specifically listed in the UN Convention on
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[4-aco-dmt]]
 - [[4-ho-met]]

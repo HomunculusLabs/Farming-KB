@@ -104,6 +104,6 @@ Sometimes a person who received introductory design training will engage a profe
 - [[pdc-design-exercise-method]]
 - [[pdc-design-methodology]]
 - [[mollison-pdc-introduction-principles]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-pattern-application]]

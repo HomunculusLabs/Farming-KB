@@ -13,13 +13,13 @@ type: concept
 
 ## The World's Least Discussed Addiction
 
-In *Food of the Gods*, Terence McKenna argues that sugar is "the world's least discussed and most widespread addiction" and "one of the hardest of all habits to kick." Sugar addicts may be maintenance users or binge eaters.
+In *Food of the Gods*, [[terence-mckenna]] argues that sugar is "the world's least discussed and most widespread addiction" and "one of the hardest of all habits to kick." Sugar addicts may be maintenance users or binge eaters.
 
 The depths of serious sugar addiction are exemplified by bulimics who may binge on sugar-saturated food and then induce vomiting or use laxatives to enable them to eat more sugar. McKenna asks the reader to imagine if a similar practice were associated with heroin addiction, how much more odious and insidious the use of heroin would then seem.
 
 As with all stimulants, ingestion of sugar is followed by a brief euphoric "rush," which is itself followed by depression and guilt.
 
-Sugar addiction rarely occurs alone as a syndrome. Mixed addictions, such as sugar and caffeine, are more common. Some addicts use diet pills to control soaring body weight, and then tranquilizers to mitigate the jitteriness caused by the diet pills.
+Sugar addiction rarely occurs alone as a syndrome. Mixed addictions, such as sugar and [[caffeine]], are more common. Some addicts use diet pills to control soaring body weight, and then tranquilizers to mitigate the jitteriness caused by the diet pills.
 
 Sugar abuse is often involved in the development of serious alcohol abuse. An absolute correlation has been shown between high sugar consumption and high alcohol intake outside meals.
 
@@ -37,13 +37,13 @@ Evolutionary logic dictates that animals able and willing to tolerate many margi
 
 Broadening of tastes is a learned process with both psychological and biochemical components. It entails overcoming the inertia of established habits while adapting to chemically exotic foods.
 
-In the case of hallucinogenic plants, the shifts in self-image and societal role that follow acceptance are rapid and massive. But countless plants that impart flavoring but confer little nutritional value have also managed to become items habitually used by human beings.
+In the case of [[hallucinogenic-plants-new-world]], the shifts in self-image and societal role that follow acceptance are rapid and massive. But countless plants that impart flavoring but confer little nutritional value have also managed to become items habitually used by human beings.
 
-These flavoring plants went from being exotic luxuries of a tiny leisure class in Roman times to commercial commodities that focused vast European efforts at exploration and colonization.
+These flavoring plants went from being exotic luxuries of a tiny leisure class in Roman times to commercial commodities that focused vast European efforts at exploration [[spawn-run-and-colonization]].
 
 They drove the engines of mercantilism and empire building that replaced the inward-turned medieval stasis in Christian Europe.
 
-As schoolchildren we are taught that the spice trade ended the Middle Ages and created the basis of modern trade and commerce. What we are not made aware of is that the breakup of Christian medieval Europe occurred as a result of an epidemic obsession with the new, the exotic, and the delightful — in short, with consciousness-expanding substances.
+As schoolchildren we are taught that the spice trade ended the Middle Ages and created the basis of modern trade and commerce. What we are not made aware of is that the breakup of Christian [[arthur-mushroom-iconography-medieval-europe]] occurred as a result of an epidemic obsession with the new, the exotic, and the delightful — in short, with consciousness-expanding substances.
 
 Drugs such as coffee, wormwood, and opium, dyes, silks, rare woods, gems, and even human beings were brought back to Europe and displayed almost like the plunder of a looted extraterrestrial civilization.
 
@@ -53,7 +53,7 @@ Is it any wonder, then, that dyes and spices became an absolute mania for mediev
 
 ## Sugar Through the Ages
 
-Sugar had been known for centuries as a rare medicinal substance. The Romans knew it was derived from a bamboo-like grass. But the tropical conditions needed for sugarcane ensured that sugar would be a rare and imported commodity in Europe.
+Sugar had been known for centuries as a rare medicinal substance. The Romans knew it was derived from a bamboo-like grass. But the tropical conditions needed for sugarcane ensured that sugar would be a rare and imported commodity [[hallucinogenic-mushroom-market-in-europe]].
 
 Only in the nineteenth century, at the encouragement of Napoleon I, were sugar beets developed as an alternative to cane sugar. Sugarcane is known to occur as a wild plant, and the genus is well represented in tropical Asia, with at least five species native to India.
 
@@ -145,7 +145,6 @@ Sugar and the caffeine drugs that spread with it reinforce and support industria
 
 ## Related Concepts
 
-- [[mckenna-food-gods-partnership-dominator|Partnership and Dominator Societies]]
-- [[mckenna-food-gods-natural-synthetic-drugs|Natural and Synthetic Drugs]]
-- [[mckenna-food-gods-tea-coffee-drugs-gentility|Tea, Coffee, and the Drugs of Gentility]]
-- [[mckenna-food-gods-mead-honey-dionysian|Mead, Honey, and the Dionysian]]
+- [[mckenna-food-gods-partnership-dominator]]
+- [[mckenna-food-gods-natural-synthetic-drugs]]
+- [[mckenna-food-gods-tea-coffee-drugs-gentility]]

@@ -148,4 +148,3 @@ for mulch when it begins to compete with the established plant.
   mulch simultaneously
 - The chaperone strategy connects to [[gaias-garden-microclimates]] creation
 - [[permaculture-plant-stacking-vertical-guilds]] frequently incorporate nurse plants as support species
-- Nurse plants help establish [[permaculture-food-forests-design-course]] in Zones 2 through 4

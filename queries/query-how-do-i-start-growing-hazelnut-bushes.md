@@ -7,10 +7,9 @@ updated: 2026-04-28
 sources: [https://www.extension.oregonstate.edu, https://www.sare.org, https://www.rhs.org.uk, https://www.fao.org, https://www.usda.gov]
 type: query
 ---
+# How Do [[query-what-is-syntropic-agriculture-and-how-do-i-start]] Growing Hazelnut Bushes?
 
-# How Do I Start Growing Hazelnut Bushes?
-
-Hazelnuts (also called filberts) are one of the easiest nut-producing plants to grow. They are cold-hardy, adaptable to a wide range of soils, and begin producing nuts within 3–5 years. With just two compatible bushes, proper spacing, and basic care, you can harvest your own nuts for decades with minimal effort.
+Hazelnuts (also called filquery-what-are-the-best-[[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] o-i-make-koji-at-home-for-beginners]]-to-groware one of the easiest nut-producing plants to grow. They are cold-hardy, adaptable to a wide range of soils, and begin producing nuts within 3–5 years. With just two compatible bushes, proper spacing, and basic care, you can harvest your own nuts for decades with minimal effort.
 
 ## What You Need to Know Before Planting
 
@@ -36,13 +35,13 @@ Hazelnuts (also called filberts) are one of the easiest nut-producing plants to 
 | 6–8 | 'Barcelona', 'Tonda di Giffoni', 'Ennis' | Classic European filberts. Best nut size and flavor. Watch for eastern filbert blight in humid areas. |
 | 8–9 | 'Butler', 'Hall's Giant' | Only if you get 800+ chill hours. Avoid if winters are mild. |
 
-**Key distinction:** American hazelnuts (*Corylus americana*) are smaller, more cold-tolerant, and disease-resistant. European hazelnuts (*Corylus avellana*) produce larger nuts but are vulnerable to eastern filbert blight (EFB). OSU hybrids combine European nut size with American blight resistance — these are the best choice for most home growers.
+**Key distinction:** American hazelncorylus-avellanaericana*) are smaller, more cold-tolerant, [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]-resistant. European hazelnuts (*[[corylus-avellana]]*) produce larger nuts but are vulnerable to eastern filbert blight (EFB). OSU hybrids combine European nut size with American blight resistance — these are the best choice for most home growers.
 
-**If you're buying just two bushes:** Get 'Jefferson' (pollinates with 'Gem' or 'Theta') or 'Yamhill' (pollinates with 'Wepster'). Both are EFB-resistant and widely available from nurseries.
+**If you're buying just two bushes:** Get 'Jefferson' (pollinates with 'Gem' or 'Theta')[[query-how-to-clone-cannabis-plants-step-by-step]]' (pollinates with 'Wepster'). Both are EFB-resistant and widely available from nurseries.
 
 ## Step-by-Step Planting Guide
 
-### 1. Soil Preparation (1–2 weeks before planting)
+### 1. [[organic-garden-soil-preparation]] (1–2 weeks before planting)
 - Test your soil pH. Adjust to 6.0–7.0 with lime (to raise) or elemental sulfur (to lower).
 - Work 2–4 inches of compost into the top 12 inches of soil over a 3-foot radius per planting site.
 - If your soil is heavy clay, build a slight mound (4–6 inches tall, 4 feet wide) to improve drainage.
@@ -60,7 +59,7 @@ Hazelnuts (also called filberts) are one of the easiest nut-producing plants to 
 6. Apply 3–4 inches of wood chip or bark mulch in a 3-foot circle. Keep mulch 3 inches away from the trunk to prevent rot.
 
 ### 4. First-Year Care
-- Water 2–3 times per week (5 gallons each) during dry spells for the first growing season.
+- Water 2–3 times per week (5 gallons each) during dry spells for the first [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 - Do not fertilize at planting. Wait until the second year.
 - Remove any flowers that form — let the plant put energy into root growth.
 - Stake the plant only if the site is very windy. Remove the stake after the first year.
@@ -147,10 +146,3 @@ Hazelnuts are monoecious (separate male and female flowers on the same plant) bu
 - [ ] Harvest fallen nuts in late August–September; dry 2–3 weeks before storage
 
 ## See Also
-
-- [[query-how-do-i-start-growing-hickory-trees]]
-
-- [[gaias-garden-white-oak-hazelnut-guild-design]]
-- [[holzer-sweet-chestnut-and-nut-trees]]
-
-- [[query-how-to-start-growing-mushrooms-at-home]]

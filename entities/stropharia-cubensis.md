@@ -19,7 +19,7 @@ sources:
 
 **Stropharia cubensis** is a coprophilous (dung-inhabiting) basidiomycete fungus in the
 family Hymenogastraceae, widely known for its production of the psychoactive compounds
-[[psilocybin]] and [[psilocin]]. It is the most widely distributed and commonly cultivated
+[[psilocybin-compound]] and [[psilocin]]. It is the most widely distributed and commonly cultivated
 psychoactive mushroom species in the world, and the species most frequently associated with
 both traditional ceremonial use and modern recreational and therapeutic applications. Its
 accessibility, rapid growth cycle, and moderate potency have made it the de facto gateway
@@ -77,7 +77,7 @@ and climatic conditions has contributed to its remarkable cosmopolitan distribut
 
 ## Chemistry
 
-The principal psychoactive constituents are [[psilocybin]] (typically 0.5–1.2% dry weight)
+The principal psychoactive constituents are [[psilocybin-compound]] (typically 0.5–1.2% dry weight)
 and [[psilocin]]. Baeocystin and norbaeocystin are present as minor alkaloids at roughly
 10–30% of psilocybin content. Biosynthesis proceeds through the tryptamine pathway via
 enzymes PsiD, PsiH, PsiM, and PsiK, whose genes form a clustered biosynthetic gene
@@ -134,7 +134,7 @@ domestication events:
 
 ## Legal Status
 
-The species is controlled in many jurisdictions due to its [[psilocybin]] content. Schedule
+The species is controlled in many jurisdictions due to its [[psilocybin-compound]] content. Schedule
 I in the United States under the Controlled Substances Act. Legal status varies globally:
 the Netherlands banned fresh mushrooms in 2008, while Brazil does not specifically schedule
 the mushrooms themselves. Decriminalization measures have passed in multiple US

@@ -13,7 +13,7 @@ type: concept
 
 The modern era of psychopharmacology's interest in the aboriginal use of hallucinogenic plants dates to only a century before McKenna wrote, beginning
 with the work of German pharmacologist Lewis
-Lewin. His investigations into [[golden-guide-peyote-and-mescaline-cacti]] and subsequent isolation of [[mescaline]] launched an entire discipline and introduced Western science to
+Lewin. His investigations into [[golden-guide-peyote-and-mescaline-cacti]] and subsequent isolation of [[mescaline-entity]] launched an entire discipline and introduced Western science to
 the systematic study of visionary plant compounds.
 This chapter of scientific history represents one of the first bridges between indigenous shamanic knowledge and the Western laboratory.
 
@@ -59,7 +59,7 @@ his era.
 
 ## Arthur Heffter Isolates Mescaline
 
-Also in 1897, Arthur Heffter, a rival of Lewin's, became the first human being to isolate and ingest pure [[mescaline]]. Mescaline is a powerful
+Also in 1897, Arthur Heffter, a rival of Lewin's, became the first human being to isolate and ingest pure [[mescaline-entity]]. Mescaline is a powerful
 visionary phenethylamine that occurs in the peyote
 cactus Lophophora williamsii. It has been used for at least several centuries by the Indians of Northern Mexico. Its use in Peru, where it is derived
 from species of cactus other than peyote, is at
@@ -94,7 +94,7 @@ surrealists and psychologists who shared a fascination with the images hidden in
 
 ## Kurt Beringer and Psychedelic Psychiatry
 
-Dr. Kurt Beringer, Lewin's student and an acquaintance of Hermann Hesse and Carl Jung, became the father of [[psychedelic psychiatry]]. His
+Dr. Kurt Beringer, Lewin's student and an acquaintance of Hermann Hesse and Carl Jung, became the father of [[psychedelic-psychiatry]]. His
 phenomenological approach stressed careful reportage of the
 internal vistas beheld under the influence of mescaline. He conducted hundreds of experiments with mescaline in human beings, building a substantial
 body of data on the nature of the visionary
@@ -121,7 +121,7 @@ description of the psychedelic experience.
 
 Kluver documented the progression from elementary visual phenomena to complex imagery, noting the appearance of geometric forms, scintillating screws,
 rotating wheels, and eventually elaborate
-representational visions. His work established the baseline against which all subsequent phenomenological studies of [[hallucinogenic compounds]]
+representational visions. His work established the baseline against which all subsequent phenomenological studies of [[hallucinogenic-compounds]]
 would be measured. The formal description of recurring
 visual patterns, the so-called form constants, remains one of the foundational contributions of early mescaline research to the broader understanding
 of visual hallucination.

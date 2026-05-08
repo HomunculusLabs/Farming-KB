@@ -148,5 +148,3 @@ gout
 tubulin
 mitotic inhibitor
 familial mediterranean fever
-colchicaceae
-liliaceae

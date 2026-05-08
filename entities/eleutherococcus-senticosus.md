@@ -140,29 +140,6 @@ inputs once established, making it suitable for low-maintenance
 herb gardens and permaculture systems.
 
 ## Permaculture and Agroforestry Applications
-
-- **Understory shrub:** Functions well as a mid-layer plant in
-  food forest designs beneath taller canopy trees
-- **Wildlife value:** Fruits are consumed by birds; the dense,
-  thorny growth provides nesting habitat and cover
-- **Soil stabilization:** Extensive root system helps prevent erosion
-  on slopes and riparian areas
-- **Polyculture integration:** Compatible with ginseng (Panax spp.),
-  goldenseal (Hydrastis canadensis), and other shade-tolerant
-  medicinal herbs in forest garden systems
-
-## Safety and Contraindications
-
-- Generally well-tolerated at standard doses (300–1200 mg/day of
-  standardized extract)
-- May cause insomnia if taken late in the day
-- Contraindicated in pregnancy and breastfeeding (insufficient
-  safety data)
-- Potential interactions with anticoagulants (warfarin),
-  antidiabetic drugs, and immunosuppressants
-- Should not be confused with true ginseng (Panax spp.) —
-  different active compounds and safety profiles
-
 ## See Also
 
 - [[panax-ginseng]]

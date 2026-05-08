@@ -11,7 +11,7 @@ sources:
 
 # Psilocybe mulgrewii
 
-Psilocybe mulgrewii is a rare bluing Psilocybe species in section Cyanescens, first described from the Pacific Northwest of North America. It is closely related to [[stamets-psi-psilocybe-azurescens-species-guide]] and [[psilocybe-cyanofibrillosa]], sharing their preference for coastal dune grass habitats and potent [[psilocybin]] content. Despite its relative obscurity, the species represents an important member of the cyanescens species complex, contributing to our understanding of speciation and biogeography in psilocybian fungi of the Pacific Northwest. Very few collections exist in herbaria, and the species remains poorly known even among experienced field mycologists.
+Psilocybe mulgrewii is a rare bluing Psilocybe species in section Cyanescens, first described from the Pacific Northwest of North America. It is closely related to [[stamets-psi-psilocybe-azurescens-species-guide]] and [[psilocybe-cyanofibrillosa]], sharing their preference for coastal dune grass habitats and potent [[psilocybin-compound]] content. Despite its relative obscurity, the species represents an important member of the cyanescens species complex, contributing to our understanding of speciation and biogeography in psilocybian fungi of the Pacific Northwest. Very few collections exist in herbaria, and the species remains poorly known even among experienced field mycologists.
 
 ## History of Study
 
@@ -26,7 +26,7 @@ The taxonomic placement within section Cyanescens is well supported by both morp
 ## Description
 
 ### Cap (Pileus)
-The pileus ranges from 15 to 40 mm in diameter, convex to broadly convex, expanding to nearly plane with age. The surface is hygrophanous, deeply striate at the margin when moist, and smooth to slightly wrinkled. Coloration is caramel brown to dark reddish brown when fresh, fading to ochraceous or straw yellow as it dries. The cap surface bruises distinctly blue to blue-black where handled or damaged, a reliable field indicator of [[psilocybin]] and [[psilocin]] content. In young specimens, the cap may have a slight umbo, though this is less pronounced than in [[stamets-psi-psilocybe-azurescens-species-guide]]. The cap cuticle (pellicle) is gelatinous and separable, a trait shared with other section Cyanescens members.
+The pileus ranges from 15 to 40 mm in diameter, convex to broadly convex, expanding to nearly plane with age. The surface is hygrophanous, deeply striate at the margin when moist, and smooth to slightly wrinkled. Coloration is caramel brown to dark reddish brown when fresh, fading to ochraceous or straw yellow as it dries. The cap surface bruises distinctly blue to blue-black where handled or damaged, a reliable field indicator of [[psilocybin-compound]] and [[psilocin]] content. In young specimens, the cap may have a slight umbo, though this is less pronounced than in [[stamets-psi-psilocybe-azurescens-species-guide]]. The cap cuticle (pellicle) is gelatinous and separable, a trait shared with other section Cyanescens members.
 
 ### Gills (Lamellae)
 Gills are adnate to adnexed, moderately crowded, with lamellulae of varying lengths. Color is initially grayish but matures to dark purplish brown with spore maturity. Gill edges are typically white and fringed, a character shared with other members of section Cyanescens. The attachment to the stipe can show a slight tooth-like decurrent tooth, and the gill spacing is moderately close, allowing easy viewing of the spore color transition.
@@ -81,7 +81,7 @@ Several dune restoration projects along the Oregon and Washington coasts have ta
 
 ## Chemistry and Active Compounds
 
-Psilocybe mulgrewii is a [[psilocybin]]-containing species. Analytical studies by Jochen-Gartz|Gartz reported the following approximate alkaloid concentrations in dried basidiocarps:
+Psilocybe mulgrewii is a [[psilocybin-compound]]-containing species. Analytical studies by Jochen-Gartz|Gartz reported the following approximate alkaloid concentrations in dried basidiocarps:
 
 - **Psilocybin:** 0.3 to 0.7% dry weight
 - **Psilocin:** 0.1 to 0.3% dry weight
@@ -117,5 +117,5 @@ Isolation of a clean culture from a wild specimen would require cloning from fre
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] — Widespread species in the same section
 - [[psilocybe-cyanofibrillosa]] — Similar-sized dune grassland associate
 - Section Cyanescens — Taxonomic section overview
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound
 - [[jochen-gartz]] — Describing mycologist

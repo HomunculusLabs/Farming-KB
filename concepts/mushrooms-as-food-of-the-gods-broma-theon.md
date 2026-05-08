@@ -67,7 +67,7 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[dom]]
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[piriformospora-indica-in-plant-fungal-co-culture]]

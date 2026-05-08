@@ -134,7 +134,7 @@ Best practices include cutting mushrooms at the base (not uprooting), leaving so
 
 - [[lactarius-deliciosus]] — The orange-latex sister species, more widely distributed
 - [[lactarius-indigo]] — Indigo milk cap, North American species with dramatically different coloration
-- [[boletus-edulis]] — Fellow prized ectomycorrhizal pine associate in Mediterranean foraging
+- [[boletus-edulis-entity]] — Fellow prized ectomycorrhizal pine associate in Mediterranean foraging
 - [[russula-cyanoxantha]] — Russula from the same habitat for comparison
 - [[ectomycorrhizal-fungi]] — Overview of the mycorrhizal ecology
 - [[fungal-ecology-forest-ecosystems]] — Forest ecosystem fungal ecology

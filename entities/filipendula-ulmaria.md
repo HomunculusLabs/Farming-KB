@@ -123,5 +123,5 @@ pharmacologically consequential plants in modern medicine.
 - [[salix-alba]] — White willow, another natural salicylate source
 - [[hypericum-perforatum]] — St. John's wort, complementary anti-inflammatory herb
 - [[calendula-officinalis]] — Calendula, complementary medicinal plant for skin and wound healing
-- [[filipendula-ulmaria]] — Taxonomic and etymological context for the species name
+- filipendula ulmaria — Taxonomic and etymological context for the species name
 - tanacetum parthenium — Feverfew, another traditional headache remedy

@@ -138,25 +138,6 @@ relativity, and the law of minimum, is nothing other than a manifestation
 of the great harmony and balance of nature. Each springs from a single
 source.
 
-What has misled man is that, when the same law emanates from a single
-source in different directions, he perceives each image as representing a
-different law. Scientists have examined nature from every conceivable angle
-and have seen this unity as a thousand different forms. Although they
-recognize that these separate laws are intimately related, there is a world
-of difference between this realization and the awareness that all laws are
-one and the same.
-
-The law of diminishing returns, concerning gains and losses, does not
-reflect a true understanding of nature, a world without loss or gain. When
-one has understood that there is no large or small in nature, only a great
-harmony, the notion of a minimum and maximum nutrient also is reduced to a
-petty, circumstantial view.
-
-Nature is an absolute void. Those who see nature as a point have gone one
-step astray, those who see it as a circle have gone two steps astray, and
-those who see breadth, matter, time, and cycles have wandered off into a
-world of illusion distant and divorced from true nature.
-
 ## See Also
 
 - [[fukuoka-critique-of-liebig-law-of-minimum]]

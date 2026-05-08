@@ -69,7 +69,7 @@ See also: [[fukuoka-seed-selection-methods]], [[fukuoka-seed-war-rice-weapon]], 
 
 ## See Also
 
-[[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-orchard-ground-cover]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-observation-based-farming]]
+[[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-observation-based-farming]]
 
 ## Practical Applications
 

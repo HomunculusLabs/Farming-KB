@@ -140,32 +140,6 @@ Mycorrhizal communities change predictably with ecosystem development:
 2. **Mid-succession**: Mixtures of AM and ECM fungi as woody species establish.
 3. **Late succession**: ECM fungi dominate in mature forests, especially coniferous and mixed hardwood forests on nutrient-poor soils. ECM fungi's ability to access organic nitrogen provides a competitive advantage.
 
-## Cultivation and Practical Applications
-
-### Lichens
-
-- Lichens are extremely slow-growing (0.1–10 mm per year) and virtually impossible to cultivate at scale
-- They are harvested from wild populations for extraction of usnic acid (antimicrobial), dyes, and traditional medicines
-- Conservation concerns arise from overharvesting of slow-growing species like *Usnea* and *Cladonia*
-- Lichen cultivation research focuses on axenic culture of mycobionts and photobionts followed by resynthesis, but this remains technically challenging and commercially impractical
-
-### Mycorrhizae
-
-- AM fungi inoculants are commercially available (e.g., *Rhizophagus irregularis*, *Funneliformis mosseae*) for agriculture, horticulture, and restoration
-- ECM inoculants (e.g., *Pisolithus tinctorius*, *Laccaria bicolor*) are used in forestry, mine reclamation, and orchard establishment
-- Mycorrhizal inoculation benefits are most pronounced in disturbed or degraded soils where native mycorrhizal communities are depleted
-- Compost teas, cover crops, and minimal tillage promote native mycorrhizal populations in agricultural systems
-
-## Summary
-
-While both lichen and mycorrhizal symbioses are fungus-centered mutualisms involving nutrient exchange, they represent fundamentally different ecological strategies:
-
-- **Lichens** create autonomous, self-sufficient organisms capable of colonizing the harshest terrestrial surfaces. They are pioneers, bioindicators, and nutrient cyclers in extreme environments where vascular plants cannot survive.
-
-- **Mycorrhizae** are underground partnerships that underpin the productivity of virtually all terrestrial plant communities. They are nutrient conduits, ecosystem engineers, and community organizers that shape the structure and function of terrestrial ecosystems from deserts to boreal forests.
-
-Both symbioses illustrate the evolutionary power of mutualism and demonstrate that fungi are not merely decomposers—they are architects of ecosystems through their partnerships with photosynthetic organisms.
-
 ## See Also
 
 - [[lichen-biology-guide|Lichen Biology and Ecological Significance]]

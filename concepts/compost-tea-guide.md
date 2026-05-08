@@ -70,7 +70,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 - **Orchard/trees**: 20 gal/acre, spring and fall; 5 gal/acre monthly in growing season
 - **Indoor beds**: 1-2 cups per sq ft, monthly
 - **Turf**: 15-20 gal/acre, spring and fall
-- Apply to [[no-till-gardening-method]] beds during regular watering
+- Apply to [[composting-and-soil-biology]] beds during regular watering
 - Timing: at first true leaf, flower bud, post-seed-set
 ### Foliar Spray
 - 5 gal/acre per 6 feet of canopy height

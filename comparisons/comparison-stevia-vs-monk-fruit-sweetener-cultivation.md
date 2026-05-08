@@ -55,7 +55,7 @@ Stevia is a relatively compact bushy plant in the daisy family, while monk fruit
 | **Hardiness Zones** | USDA 9–11 (can be annual in 8) | USDA 10–11 (tropical/subtropical only) |
 | **Optimal Temp Range** | 20–30 °C (68–86 °F) | 22–30 °C (72–86 °F) |
 | **Frost Tolerance** | Sensitive; dies back below 5 °C | Very sensitive; no frost tolerance |
-| **Day Length** | Short-day flowering (12–13 hrs) | Tropical day-neutral; needs warm, humid conditions |
+| **Day Length** | [[short-day-and-long-day-plant-classification]] flowering (12–13 hrs) | Tropical day-neutral; needs warm, humid conditions |
 | **Humidity** | Moderate (50–70%); tolerates drier air | High (70–90%); requires significant humidity |
 
 Monk fruit is far more climate-restricted than stevia. It demands the hot, humid, sheltered mountain valleys of subtropical southern China and has been notoriously difficult to cultivate outside this region. Stevia is more adaptable and has been successfully grown in India, Kenya, Paraguay, Japan, Canada (greenhouse), and the southern United States.
@@ -76,7 +76,7 @@ Both plants share similar propagation options:
 
 - **Seeds**: Stevia seeds have low and variable germination rates (often <40%), and seed-grown plants show significant variation in steviol glycoside content. Monk fruit seeds also have uneven germination and long dormancy. Seed propagation is generally avoided for commercial production of both crops.
 - **Stem cuttings**: The preferred method for stevia. Softwood or semi-hardwood cuttings root readily under mist (2–3 weeks). For monk fruit, vine cuttings from established plants are common but require warm, humid conditions for rooting.
-- **Tissue culture**: Increasingly important for both species. Stevia micropropagation ensures genetic uniformity and high rebaudioside-A content. For monk fruit, tissue culture is essential for producing disease-free planting material, as the crop is prone to viral infections transmitted through vegetative propagation.
+- **Tissue culture**: Increasingly important for both species. Stevia micropropagation ensures genetic uniformity and high rebaudioside-A content. For monk fruit, tissue culture is essential for producing disease-free planting material, as the crop is prone to viral infections transmitted through [[vegetative-propagation-methods-mollison]].
 
 ## Growth Cycle and Time to Harvest
 
@@ -98,7 +98,7 @@ Stevia offers a much faster return on investment, with multiple leaf harvests pe
 
 **Stevia processing** begins with leaf harvesting, drying (sun-dried or low-temperature dehydrated), then water or ethanol extraction. The crude extract is purified via ion-exchange chromatography or membrane filtration to isolate rebaudioside A and other steviol glycosides. The final product may be a white powder (95%+ Reb A) or blended with other sweeteners.
 
-**Monk fruit processing** involves harvesting mature fruits, crushing them, and steeping in hot water. The juice is filtered and concentrated. Mogrosides are precipitated or spray-dried into a fine powder. The process is simpler than stevia extraction, though the raw fruit is bulkier to transport.
+**Monk fruit processing** involves harvesting mature fruits, crushing them, and steeping in [[hot-water-and-hydrated-lime-substrate-treatment]]. The juice is filtered and concentrated. Mogrosides are precipitated or spray-dried into a fine powder. The process is simpler than stevia extraction, though the raw fruit is bulkier to transport.
 
 ## Sweetness Compounds
 
@@ -122,13 +122,13 @@ Monk fruit extract commands a significantly higher price than stevia leaf or ext
 
 ## Pest and Disease Challenges
 
-**Stevia** is susceptible to root rot (*Phytophthora*, *Fusarium*), septoria leaf spot, powdery mildew, and aphids. Good drainage and crop rotation are essential. Deer and rabbits find the leaves palatable and can decimate plantings.
+**Stevia** is susceptible to root rot (*Phytophthora*, *Fusarium*), septoria leaf spot, powdery mildew, and aphids. Good drainage and [[crop-rotation-vegetable-garden]] are essential. Deer and rabbits find the leaves palatable and can decimate plantings.
 
 **Monk fruit** faces significant viral diseases (mosaic virus, transmitted by aphids), powdery mildew, fruit rot, and root-knot nematodes. The dioecious nature of the plant (separate male/female vines) adds complexity — growers must maintain appropriate male-to-female ratios (typically 1:10 to 1:20) for pollination. Viral pressure is a major reason tissue culture propagation is preferred.
 
 ## Permaculture and Food Forest Suitability
 
-**Stevia** integrates well into food forests as an understory herb. Its compact size allows it to fill gaps between larger plants. It can serve as a living mulch, and the flowers attract beneficial insects. However, it requires good drainage and may struggle in very humid, poorly ventilated understory conditions.
+**Stevia** integrates well into food forests as an understory herb. Its compact size allows it to fill gaps between larger plants. It can serve as a [[living-mulch-systems-guide]], and the flowers attract beneficial insects. However, it requires good drainage and may struggle in very humid, poorly ventilated understory conditions.
 
 **Monk fruit** is naturally suited to food forest or agroforestry systems. As a climbing vine, it can be trained on pergolas, over existing trees, or on dedicated trellises. In its native habitat, it grows in forest margins and mountain slopes. Its shade tolerance and vertical growth habit make it an excellent candidate for layered polyculture — though it demands the right climate. Outside subtropical humid zones, it is not viable in permaculture systems.
 
@@ -142,18 +142,6 @@ Monk fruit extract commands a significantly higher price than stevia leaf or ext
 
 | Attribute | Stevia | Monk Fruit |
 |---|---|---|
-| **Ease of cultivation** | Moderate — relatively accessible | Difficult — climate-limited |
-| **Time to harvest** | 3–4 months | 12–18 months |
-| **Climate flexibility** | Broad (zones 8–11 with protection) | Narrow (zones 10–11) |
-| **Indoor/greenhouse** | Excellent | Very difficult |
-| **Permaculture fit** | Good understory herb | Excellent vine (right climate) |
-| **Market value** | Moderate, commoditized | High, premium niche |
-| **Taste quality** | Good (better with Reb D/M) | Excellent, clean |
-| **Scale accessibility** | Smallholder-friendly | Requires more investment |
-| **Propagation ease** | Easy (cuttings) | Moderate (tissue culture preferred) |
-
-Both crops represent promising alternatives to sugar cane and sugar beet for natural sweetener production. Stevia is the more practical choice for most growers due to its adaptability, while monk fruit offers superior taste and higher value for those who can meet its demanding cultivation requirements.
-
 ## See Also
 
 - [[hamilton-soft-fruit-cultivation]]

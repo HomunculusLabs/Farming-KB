@@ -138,7 +138,7 @@ Psilocybe:
   isolated)
 - Psilocybe caerulescens (the "landslide mushroom" widely used by the
   Mazatec)
-- [[psilocybe-cubensis-profile]] (a widely distributed tropical species)
+- [[psychedelic-mushrooms-species-and-identification]] (a widely distributed tropical species)
 - Psilocybe zapotecorum (an important species in Oaxacan traditions)
 - Numerous other Psilocybe species (over 100 psychoactive species worl
   dwide)

@@ -124,7 +124,7 @@ the unpredictability of dosage in informal settings.
 ## Related Concepts
 
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
-- [[psilocybin-psilocin-flush-variation]]
+- psilocybin psilocin flush accumulation patterns
 - [[psilocybin-variation-across-flushes]]
 - [[psilocybe-cubensis-street-sample-potency-variability]]
 - [[psilocybe-cubensis-miniculture-on-rye-grain]]

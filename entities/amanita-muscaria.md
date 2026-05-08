@@ -118,5 +118,5 @@ While *A. muscaria* is not widely consumed as food due to its toxicity concerns,
 
 - [[amanita-phalloides]] — Death Cap
 - [[psilocybe-cubensis]] — Psilocybin-containing mushroom
-- [[muscimol]] — Primary psychoactive compound
+- [[muscimol-entity]] — Primary psychoactive compound
 - [[ectomycorrhiza]] — Symbiotic root-fungus association

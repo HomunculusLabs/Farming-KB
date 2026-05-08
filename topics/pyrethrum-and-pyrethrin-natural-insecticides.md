@@ -75,7 +75,7 @@ Pyrethrins act on the nervous systems of insects through multiple pathways:
 
 2. **Rapid knockdown**: The initial paralysis ("knockdown") is caused by this hyperexcitation of the peripheral nervous system. Affected insects become paralyzed within seconds to minutes of exposure.
 
-3. **Lethal effect**: With sufficient exposure, the hyperexcitation leads to total nervous system failure and death. However, many insects can recover from knockdown if the dose is sublethal, as some species possess detoxification enzymes (cytochrome P450 monooxygenases) that metabolize pyrethrins.
+3. **Lethal effect**: With sufficient exposure, the hyperexcitation leads to total nervous system failure and death. However, many insects can recover from knockdown if the dose is sublethal, as some species possess detoxification enzymes ([[cytochrome-p450-enzymes-structure-function-pharmacology]] monooxygenases) that metabolize pyrethrins.
 
 4. **Repellent activity**: At sublethal concentrations, pyrethrins also act as effective repellents, making them useful in mosquito coils, flea collars, and animal sprays.
 
@@ -111,7 +111,7 @@ Pyrethrins are effective against a broad range of insect pests:
 - Whiteflies
 - Thrips
 - Leafhoppers
-- Spider mites (moderate efficacy)
+- [[spider-mites-cannabis]] (moderate efficacy)
 
 **Other pests:**
 - Fleas and ticks (on animals)
@@ -126,7 +126,7 @@ Several important limitations should be understood:
 
 1. **Resistance**: Repeated use of pyrethrins has led to resistance development in several pest species, particularly diamondback moth (Plutella xylostella), greenhouse whitefly, and two-spotted spider mite. Resistance mechanisms include enhanced P450 activity (which is why PBO is added), target site insensitivity (kdr mutations), and increased excretion.
 
-2. **Broad-spectrum toxicity**: Pyrethrins kill beneficial insects as readily as pests. They are highly toxic to bees (though short residual activity means evening application can mitigate harm), predatory mites, lady beetles, lacewings, and parasitic wasps. This makes them a poor choice for integrated pest management programs during periods of beneficial insect activity.
+2. **Broad-spectrum toxicity**: Pyrethrins kill [[beneficial-insects-guide]] as readily as pests. They are highly toxic to bees (though short residual activity means evening application can mitigate harm), predatory mites, lady beetles, lacewings, and parasitic wasps. This makes them a poor choice for [[integrated-pest-management-ipm]] management programs during periods of [[beneficial-insect-habitat]] activity.
 
 3. **Short residual activity**: While this is an advantage for residue concerns, it means repeated applications (every 2–5 days) may be needed for sustained pest control.
 
@@ -241,7 +241,7 @@ While commercial pyrethrin products are widely available, some small-scale growe
 2. Dust directly onto plants or apply with a puff duster
 3. Apply in early morning when dew is present for better adhesion
 4. Reapply after rain or heavy dew
-5. Typical dilution: 50% pyrethrum powder + 50% inert carrier (talc, clay, or diatomaceous earth)
+5. Typical dilution: 50% pyrethrum powder + 50% inert carrier (talc, clay, or [[diatomaceous-earth-cannabis]])
 
 ### Homemade Pyrethrum Extract
 
@@ -293,7 +293,7 @@ The global pyrethrum market is valued at approximately $200–250 million USD an
 - Increasing restrictions on synthetic insecticides (EU regulations, California Prop 65, etc.)
 - Public health applications (mosquito control, bed bug treatments)
 - Veterinary and companion animal products (flea/tick sprays, shampoos, collars)
-- Post-harvest grain protection and stored product pest management
+- [[post-harvest-handling-marketing-mushrooms]] grain protection and stored product pest management
 
 Supply volatility remains a challenge, as pyrethrum production is concentrated in a few developing countries and is subject to weather variability, labor costs, and competing crops.
 
@@ -340,7 +340,7 @@ Understanding pyrethrin's effects on key beneficial organisms is essential for I
 | Parasitic wasps (Braconidae, Ichneumonidae) | High | Very small size makes them especially vulnerable to fine sprays |
 | Syrphid flies (hoverflies) | High | Adults killed on contact; larvae (aphid predators) also susceptible |
 | Predatory mites (Phytoseiidae) | Moderate to high | Pyrethrin applications can cause mite flare-ups by eliminating predators |
-| Ground beetles (Carabidae) | Moderate | Less exposed to foliar sprays due to ground-dwelling habit |
+| [[ground-beetles-carabidae-and-biological-pest-control]] (Carabidae) | Moderate | Less exposed to foliar sprays due to ground-dwelling habit |
 | Spiders | Low to moderate | Many spiders are tolerant; web-dwelling species are relatively protected |
 | Earthworms | Low | Contact toxicity is low; soil applications at label rates are generally safe |
 

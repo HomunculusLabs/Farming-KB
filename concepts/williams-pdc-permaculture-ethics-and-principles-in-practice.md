@@ -148,5 +148,3 @@ Permaculture Designers agree on is that Permaculture is about
 - [[pdc-yield-harvest-and-seasonal-calendar]]
 
 - [[faires-permaculture-ethics-and-design-principles]]
-
-- [[pdc-permaculture-ethics-in-practice]]

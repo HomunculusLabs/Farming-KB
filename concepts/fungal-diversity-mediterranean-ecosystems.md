@@ -10,7 +10,7 @@ sources: []
 
 Mediterranean-type ecosystems, characterized by hot dry summers and cool wet winters, harbor distinctive fungal communities adapted to pronounced seasonality and periodic drought stress. These ecosystems occur in five Mediterranean climate regions worldwide.
 
-[[fungal-biodiversity]] [[fungal-biodiversity-soil-habitats]] [[fungal-diversity-deserts-arid-lands]]
+[[fungal-biodiversity]] [[the-soil-food-web]] [[fungal-diversity-deserts-arid-lands]]
 
 ## Mediterranean Climate Conditions
 
@@ -26,7 +26,7 @@ Mediterranean soils support characteristic assemblages of microfungi adapted to 
 
 Factors such as the aspect of the site, topographic variation, and soil type affect microfungal diversity but primarily through their influences on the flora and local moisture retention.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-biodiversity-biogeography]]
+[[the-soil-food-web]] [[fungal-biodiversity-biogeography]]
 
 ## Mycorrhizal Fungi
 
@@ -82,7 +82,7 @@ Mediterranean ecosystems are considered highly vulnerable to climate change, wit
 
 Expansion of arid conditions at the expense of Mediterranean shrublands could reduce both plant and fungal diversity in these biodiversity hotspots.
 
-[[fungal-responses-climate-change]] [[fungal-conservation-strategies]]
+[[fungal-responses-climate-change]] [[ethnomycology]]
 
 ## Research Needs
 

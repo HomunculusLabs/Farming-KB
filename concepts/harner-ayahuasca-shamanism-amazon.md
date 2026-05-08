@@ -74,10 +74,10 @@ The volume establishes ayahuasca not as a peripheral curiosity but as central to
 
 ## Related Topics
 
-- [[harner-siberian-shamanism-and-amanita]]
+- [[ethnomycology]]
 - [[harner-shamanic-journey-and-altered-states]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[ethnomycology]]
 
 ## Chapters Referenced
 
@@ -89,5 +89,5 @@ The volume establishes ayahuasca not as a peripheral curiosity but as central to
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[shamanic-trance-cross-cultural-patterns]]
 - [[harner-shamanic-journey-and-altered-states]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[ethnomycology]]
 - [[amazonian-sorcery-illness-and-curing-practices]]

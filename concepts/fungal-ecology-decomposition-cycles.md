@@ -129,4 +129,4 @@ Stamets emphasizes the interdependence of fungi and bacteria:
 - [[mycoforestry-forest-restoration]] for forest applications
 - [[glomalin-and-soil-carbon]] for the carbon sequestration glycoprotein
 ## Related
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]

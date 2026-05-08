@@ -148,4 +148,3 @@ ET responds to multiple environmental drivers:
 - irrigation methods and efficiency — [[irrigation-systems]] and water delivery
 - [[mollison-designers-soil-water-storage-and-field-capacity]] — soil water storage and availability
 - drought stress physiology in plants — plant responses to water deficit
-- [[solomon-climate-zones-and-growing-seasons]] — agro-climatic classification

@@ -99,7 +99,7 @@ visual effects ranges from:
 However, personal tolerance to this species may occur with continued use. Some
 experienced consumers have reportedly ingested as many as 50 to 200 fresh
 specimens of various sizes. The species is generally considered to be more
-potent per unit weight than [[psilocybe-cubensis-profile]].
+potent per unit weight than [[psychedelic-mushrooms-species-and-identification]].
 
 ## Historical Significance
 
@@ -127,7 +127,7 @@ of psychoactivity, as discussed in the context of
 
 ## See Also
 
-- [[psilocybe-cubensis-profile]] -- the "gold top" species, commonly confused with
+- [[psychedelic-mushrooms-species-and-identification]] -- the "gold top" species, commonly confused with
   C. cyanescens
 - [[cattle-dispersal-psychoactive-fungi-australia]] -- how the species arrived
   in Australasia

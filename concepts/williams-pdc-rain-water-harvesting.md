@@ -146,6 +146,5 @@ understanding of rain water harvesting techniques and design.
 
 ## See Also
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-principle-catch-and-store-energy]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]

@@ -147,5 +147,3 @@ making it difficult to disassociate microbiome-cannabinoid associations from
 soil chemistry effects. For more on cannabinoid biosynthesis, see [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]].
 
 ## See Also
-
-- [[understanding-cultivar-two-tier-selection-model-cannabis-microbiome]]

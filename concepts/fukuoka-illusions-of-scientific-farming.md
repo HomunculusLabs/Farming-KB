@@ -87,5 +87,5 @@ In contrast, the Eastern view holds that man should seek to become one with natu
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[non-causality-in-nature]]
-- [[mahayana-and-hinayana-natural-farming]]
+- [[korean-natural-farming-and-jadam]]
 - [[do-nothing-farming]]

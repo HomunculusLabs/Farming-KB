@@ -104,4 +104,4 @@ than simple volume-based yield calculations.
 ## Related
 
 - [[bioregional-organization]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]

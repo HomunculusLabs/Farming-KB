@@ -118,7 +118,7 @@ administration) became the dominant mode of use for Anadenanthera.
 ## Related Topics
 
 - [[anadenanthera-entheogens]] - detailed entheogen profile
-- [[cebil-anadenanthera-colubrina-snuff]] - Cebil snuff details
+- [[ayahuasca-and-dmt-plant-medicine]] - Cebil snuff details
 - [[yopo-anadenanthera-peregrina-snuff]] - Yopo snuff profile
 - [[yopo-snuff]] - general Yopo reference
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]] - DMT

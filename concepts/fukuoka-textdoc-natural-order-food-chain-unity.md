@@ -120,7 +120,7 @@ management ever could.
 
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
-- [[fukuoka-textdoc-straw-decomposition-ecological-succession]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]

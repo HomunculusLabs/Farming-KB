@@ -17,17 +17,17 @@ created: 2026-04-28
 
 ## Overview
 
-Rewilding and traditional conservation represent distinct philosophical and practical approaches to protecting and restoring biodiversity. While both share the fundamental goal of preserving nature, they differ substantially in their methods, assumptions, and visions of what "conserved" landscapes should look like. Traditional conservation focuses on protecting existing species, habitats, and ecological processes — often maintaining degraded or modified ecosystems in their current state. Rewilding seeks to restore self-sustaining ecosystems with minimal human intervention by reinstating natural processes, particularly trophic interactions driven by apex predators and large herbivores.
+Rewilding and traditional conservation represent distinct philosophical and practical approaches to protecting and restoring biodiversity. While both share the fundamental goal of preserving nature, they differ substantially in their methods, assumptions, and visions of what "conserved" landscapes should look like. Traditional conservation focuses on protecting existing species, habitats, and ecological processes — often maintaining degraded or modified ecosystems in their current state. Rewilding seeks to restore self-sustaining ecosystems with minimal human intervention by reinstating [[mollison-sewage-treatment-natural-processes]], particularly trophic interactions driven by apex predators and large herbivores.
 
 ## Definitions
 
 ### Traditional Conservation
 
-Traditional conservation encompasses the suite of practices developed since the late 19th century, including the establishment of protected areas (national parks, wildlife reserves, nature reserves), species-focused management (captive breeding, habitat management, anti-poaching), and sustainable use programs. It is characterized by intensive management, clear targets (species populations, habitat area), and often a baseline anchored in recent historical conditions or the "highest achievable" state given existing constraints.
+Traditional conservation encompasses the suite of practices developed since the late [[history-of-american-mycology-19th-century]], including the establishment of protected areas (national parks, wildlife reserves, nature reserves), species-focused management (captive breeding, habitat management, anti-poaching), and sustainable use programs. It is characterized by intensive management, clear targets (species populations, habitat area), and often a baseline anchored in recent historical conditions or the "highest achievable" state given existing constraints.
 
 ### Rewilding
 
-Rewilding is a relatively recent approach (formalized in the 1990s) that aims to restore ecosystem function and resilience by reducing human control and allowing natural processes to self-organize. The core principles, as articulated by Soulé and Noss (1998), are: (1) large protected core areas, (2) ecological connectivity between cores, and (3) reintroduction or surrogacy of keystone species — particularly apex predators and large herbivores. Perino et al. (2019) emphasize that rewilding aims for **self-sustaining ecosystems** with minimal ongoing management.
+Rewilding is a relatively recent approach (formalized in the 1990s) that aims to restore [[fungal-biodiversity-ecosystem-function]] [[solomon-gardening-pest-philosophy-and-resilience]] by reducing human control and allowing natural processes to self-organize. The core principles, as articulated by Soulé and Noss (1998), are: (1) large protected core areas, (2) ecological connectivity between cores, and (3) reintroduction or surrogacy of [[keystone-species-and-trophic-cascades]] — particularly apex predators and large herbivores. Perino et al. (2019) emphasize that rewilding aims for **self-sustaining ecosystems** with minimal ongoing management.
 
 ## Key Differences
 
@@ -35,7 +35,7 @@ Rewilding is a relatively recent approach (formalized in the 1990s) that aims to
 
 Traditional conservation typically requires ongoing, often intensive management: habitat management (mowing, grazing, burning), population control (culling overabundant species, supplementing declining ones), predator control, invasive species removal, and monitoring. A nature reserve managed traditionally may require permanent staff conducting regular interventions.
 
-Rewilding explicitly aims to **reduce** ongoing management by restoring natural regulatory processes. The goal is for trophic cascades, natural disturbance regimes, and ecological succession to replace human management. This is both a philosophical preference (nature knows best) and a practical one (reducing long-term management costs).
+Rewilding explicitly aims to **reduce** ongoing management by restoring natural regulatory processes. The goal is for trophic cascades, natural disturbance regimes, and [[ecological-succession]] to replace human management. This is both a philosophical preference (nature knows best) and a practical one (reducing long-term management costs).
 
 ### Baseline and Targets
 

@@ -23,7 +23,7 @@ remarkable rock paintings of this region, one image in particular has attracted
 enormous attention: a figure known as the "bee-masked shaman," surrounded by
 what appear to be rows of mushroom-shaped objects.
 
-The interpretation of this image was popularised by [[terence-mckenna-stoned-ape-hypothesis]], who reproduced it in two of his widely read books. The figure appears
+The interpretation of this image was popularised by [[psychedelic-mushrooms-species-and-identification]], who reproduced it in two of his widely read books. The figure appears
 to be a human in an elaborate costume or mask, seemingly in a state of ecstatic
 dance or trance, surrounded by mushroom-like forms.
 

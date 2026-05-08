@@ -21,7 +21,7 @@ sources:
 
 # Permaculture Community Design
 
-Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical design process and [[permaculture-design]] for zone/sector basics.
+Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design]] for the technical design process and [[permaculture-design]] for zone/sector basics.
 
 ## The Ten-Step Community Building Process
 
@@ -82,7 +82,7 @@ Once the organizational structure is in place, the Steward Council answers: What
 
 ### 7. Create the Permaculture Design
 
-Apply the standard [[permaculture-design-methods]] to the community's physical space.
+Apply the standard [[permaculture-design]] to the community's physical space.
 
 ### 8. Plan Programs and Events
 
@@ -112,7 +112,7 @@ Arcosanti, Auroville, Damanhur, The Farm, Findhorn -- all studied as models with
 
 ## Links
 
-- [[permaculture-design-methods]] -- Technical design process
+- [[permaculture-design]] -- Technical design process
 - [[permaculture-design]] -- Zone/sector analysis
 - [[permaculture-principles]] -- Ethics and principles
 - [[permaculture-zones-in-practice]] -- Zone application

@@ -32,7 +32,7 @@ The species is most commonly found on members of the Russulaceae, particularly s
 
 ### Cantharellaceae
 
-C. arbuscula colonizes the basidiomes of [[cantharellus-cibarius]] so thoroughly that isolation of that species from tissue culture is effectively impossible (Schouten and Waandrager 1979). This has practical implications for mycologists attempting to culture chanterelles from wild-collected specimens, as C. arbuscula contamination can easily outcompete the host fungus on artificial media.
+C. arbuscula colonizes the basidiomes of [[cantharellus-cibarius-entity]] so thoroughly that isolation of that species from tissue culture is effectively impossible (Schouten and Waandrager 1979). This has practical implications for mycologists attempting to culture chanterelles from wild-collected specimens, as C. arbuscula contamination can easily outcompete the host fungus on artificial media.
 
 ### Xylariaceae and Hypoxylaceae
 

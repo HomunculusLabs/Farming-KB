@@ -148,4 +148,3 @@ strains for bioremediation applications.
 
 - [[staycare-fungal-metal-transformations-soil]]
 - [[staycare-fungal-biosorption-of-heavy-metals]]
-- [[staycare-organometallic-compound-dealkylation-by-fungi]]

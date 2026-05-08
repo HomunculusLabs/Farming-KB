@@ -60,7 +60,7 @@ A practical comparison for growers choosing between these two major tropical per
 
 ## Shade Tolerance
 
-**Coffee** has a flexible shade requirement. Full-sun varieties (common in Brazil and Vietnam) maximize yield but require heavy chemical inputs. Shade-grown coffee (under Inga, Grevillea, or nitrogen-fixing legumes) produces slower-riening cherries with denser beans and superior flavor. Shade also reduces pest pressure and erosion.
+**Coffee** has a flexible shade requirement. Full-sun varieties (common in Brazil and Vietnam) maximize yield but require heavy chemical inputs. Shade-grown coffee (under Inga, Grevillea, or [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] legumes) produces slower-riening cherries with denser beans and superior flavor. Shade also reduces pest pressure and erosion.
 
 **Cacao** evolved as a true understory tree in Amazonian forests. It requires 30–50 % canopy cover for optimal growth. Full sun exposure causes leaf burn, reduced pod set, and higher stress. Shade trees (Gliricidia, Erythrina, Terminalia) are essentially mandatory for productive cacao.
 
@@ -88,11 +88,11 @@ A practical comparison for growers choosing between these two major tropical per
 
 **Cacao:** Frosty pod rot (*Moniliophthora roreri*) and witches' broom (*Moniliophthora perniciosa*) are catastrophic in Central and South America. Black pod (*Phytophthora spp.*) is the leading disease in West Africa (the world's largest production region). Major insect pests include mirids (sucking bugs), cocoa pod borer, and capsids.
 
-**Verdict:** Both crops face serious disease pressure. Coffee has more established resistant varieties; cacao breeding for disease resistance has been slower. Integrated pest management and genetic resistance are essential for both.
+**Verdict:** Both crops face serious disease pressure. Coffee has more established resistant varieties; cacao breeding for disease resistance has been slower. [[integrated-pest-management-ipm]] management and genetic resistance are essential for both.
 
 ## Harvesting and Processing
 
-**Coffee:** Cherries are hand-picked (selective picking for specialty) or strip-picked. Processing is either washed (wet method — superior for arabica) or natural (dry method). Post-harvest processing requires water access, drying space, and storage. Drying takes 7–21 days depending on method and climate.
+**Coffee:** Cherries are hand-picked (selective picking for specialty) or strip-picked. Processing is either washed (wet method — superior for arabica) or natural (dry method). [[post-harvest-handling-marketing-mushrooms]] processing requires water access, drying space, and storage. Drying takes 7–21 days depending on method and climate.
 
 **Cacao:** Pods are hand-harvested year-round, cut from the tree with machetes. Beans are extracted, fermented (5–7 days in boxes or heaps), then dried (5–14 days). Processing is labor-intensive but requires no specialized equipment beyond fermentation boxes and drying racks. Post-harvest quality strongly affects chocolate flavor.
 
@@ -122,7 +122,7 @@ A **coffee-cacao intercrop** is feasible in the 400–800 m altitude band. Cacao
 
 ## Permaculture Suitability
 
-**Coffee:** High suitability as a mid-canopy element in food forest systems. Nitrogen-fixing overstory, ground covers beneath, and poultry integration work well. Drought-tolerant once established. Good fit for Zones 9–11.
+**Coffee:** High suitability as a mid-canopy element in [[food-forest-establishment]] systems. Nitrogen-fixing overstory, ground covers beneath, and poultry integration work well. [[drought-tolerant-planting-design]] once established. Good fit for Zones 9–11.
 
 **Cacao:** Excellent permaculture candidate in humid lowland tropics (Zones 11–12). Functions as the primary canopy fruit tree in a food forest. Requires reliable rainfall and wind protection. Pairs well with banana/plantain, taro, turmeric, and vanilla as understory companions.
 
@@ -142,22 +142,6 @@ A **coffee-cacao intercrop** is feasible in the 400–800 m altitude band. Cacao
 - Requires more labor per unit of output than coffee
 
 ## Summary and Verdict
-
-| Criteria | Better Choice |
-|---|---|
-| Cooler highland site (>800 m) | Coffee |
-| Hot, humid lowland site (<400 m) | Cacao |
-| Established market access | Coffee |
-| Simpler post-harvest processing | Cacao |
-| Higher per-hectare yield potential | Coffee |
-| Greater agroforestry shade integration | Cacao |
-| Shorter time to first harvest | Coffee (slight edge) |
-| Longer productive lifespan | Cacao |
-| Lower disease pressure | Coffee (marginally) |
-| Fine-flavor premium potential | Both (equal) |
-
-Both crops are exceptional choices for tropical perennial food systems. The deciding factor is almost always **site conditions** — specifically altitude, temperature, and rainfall pattern. Where conditions allow both, growing them together in a diversified agroforestry system maximizes resilience, income stability, and ecological benefits. Neither crop should be grown as a monoculture; both perform dramatically better — ecologically and economically — within diverse, multi-strata farming systems.
-
 ## See Also
 
 - [[oyster-mushroom-coffee-grounds-cultivation]]

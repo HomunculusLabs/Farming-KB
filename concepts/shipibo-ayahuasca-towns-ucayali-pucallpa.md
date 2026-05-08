@@ -129,7 +129,6 @@ are said to derive directly from ayahuasca
 visions, representing the "designs" of the
 plant spirits.
 
-
 ## See also
 
 - [[ayahuasca-tourism-peru-retreat-landscape]]

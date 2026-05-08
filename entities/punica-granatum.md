@@ -1,12 +1,12 @@
 ---
-title: "Punica granatum"
+title: "punica granatum"
 created: 2026-04-28
 type: species
 tags:
   - pomegranate
   - herbal-plant
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - edible-fruit
   - superfruit
   - polyphenols
@@ -26,7 +26,6 @@ sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Punica+granatum
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007340/
 ---
-
 # Punica granatum
 
 ## Overview
@@ -37,10 +36,10 @@ cultivated across the Mediterranean, Middle East, and tropical-subtropical regio
 over 5,000 years. The fruit is a large leathery berry (5–12 cm diameter) containing
 hundreds of fleshy, juice-filled arils, each enclosing a single seed.
 
-Pomegranate is valued simultaneously as a food crop, medicinal plant, and ornamental
+Pomegranate is valued simultaneously as a food crop, [[medicinal-plant-preparations-tinctures-salves-teas]], and ornamental
 species. Its rich polyphenol content — particularly punicalagins, ellagic acid, and
-anthocyanins — underpins a substantial body of pharmacological research. In permaculture
-design, pomegranate serves as a drought-hardy, multi-use element in food forest guilds.
+anthocyanins — underpins a substanbill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculturearmacological research. In permaculture
+design, pomegranate serves as a drought-hardy, multi-use element in [[food-forest]] guilds.
 
 ## Taxonomy
 
@@ -85,7 +84,7 @@ membranes, and juice:
 - **Ellagic acid:** Hydrolysis product of punicalagins with anti-proliferative properties.
 - **Anthocyanins:** Cyanidin-3-glucoside, delphinidin-3-glucoside, and pelargonidin
   derivatives giving arils their red-purple color.
-- **Flavonoids:** Quercetin, kaempferol, luteolin, and naringenin glycosides.
+- **Flavonoids:** [[quercetin]], [[kaempferol]], [[luteolin]], and naringenin glycosides.
 - **Fatty acids:** Seed oil contains punicic acid (C18:3 cis-9, trans-11, cis-13), a
   conjugated linolenic acid with anti-inflammatory activity.
 - **Alkaloids:** Pelletierine in bark; citric, malic, and succinic acids in juice.
@@ -148,5 +147,3 @@ in Northern Hemisphere; fruit does not ripen off-tree.
 ## See Also
 
 - [[agroforestry]]
-- [[dom]]
-- [[food-forest]]

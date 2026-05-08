@@ -148,5 +148,3 @@ Per 100 g raw Hass avocado:
 - [[morus-alba]]
 - [[macadamia-entity]]
 - [[food-forest-permaculture]]
-- [[moringa-oleifera]]
-- [[persea-americana-entity]]

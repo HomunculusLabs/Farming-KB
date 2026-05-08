@@ -17,7 +17,7 @@ sources:
 
 # The Four Principles of Natural Farming
 
-Masanobu Fukuoka's natural farming is built on four foundational
+[[masanobu-fukuoka]]'s [[natural-farming]] is built on four foundational
 principles: no cultivation, no fertilizer, no weeding, and no pesticides.
 These are not merely techniques but represent a fundamental philosophical
 orientation toward working with nature rather than imposing human will.
@@ -87,7 +87,7 @@ minerals creates imbalances.
 **Nature provides complete nutrition.** One gram of soil on Fukuoka's
 farm contains about 100 million nitrogen-fixing bacteria and numerous
 other microorganisms that make nutrients available in balanced
-proportions. Green manure crops and natural decomposition provide all
+propo [[green-manure-crops]] re crops and natural [[decomposition]] provide all
 the fertility that plants need.
 
 **Compost is unnecessary when straw is returned.** Rice straw applied
@@ -148,5 +148,3 @@ is nonexistent.
 
 - [[energy-efficiency-natural-farming]]
 - Mahayana vs Hinayana Natural Farming
-- [[natural-livestock-farming]]
-- [[clay-pellet-seed-broadcasting]]

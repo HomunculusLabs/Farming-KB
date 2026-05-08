@@ -127,7 +127,7 @@ These nutrients remain immobilized inside the bacteria until the bacteria are ea
 - teaming with microbes protozoa
 - [[soil-food-web]]
 - [[root-exudates]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 
 ## Merged: Protozoa Grazing and Nutrient Cycling - Teaming with Microbes
 

@@ -17,7 +17,7 @@ Certain substances called chromogens occur in fungal flesh together with oxidisi
 
 Known chromogens and their associated fungi include:
 
-- **Boletol** -- found in Boletus species. Causes vivid blue colour change on exposure to air (e.g., [[boletus-edulis]], [[porcini-boletus-guide]]). The bluing is almost instantaneous in some species. Boletol oxidation produces a distinctive indigo-blue that can be striking and alarming to uninformed foragers.
+- **Boletol** -- found in Boletus species. Causes vivid blue colour change on exposure to air (e.g., [[boletus-edulis-entity]], [[porcini-boletus-guide]]). The bluing is almost instantaneous in some species. Boletol oxidation produces a distinctive indigo-blue that can be striking and alarming to uninformed foragers.
 - **Tyrosin** -- found in Russula species. Contributes to colour changes in Russulaceae when flesh is cut. The oxidation pathway involves tyrosinase enzymes converting tyrosine derivatives through dopa compounds to melanin-like pigments.
 - **Gyrocyanin** and **gyroflexin** -- found in various gilled mushrooms, producing greyish or greenish-blue discolouration.
 - **Variegatic acid** and **xerocomic acid** -- in Boletus species, contributing to complex multi-stage colour changes from yellow through blue to grey-black.

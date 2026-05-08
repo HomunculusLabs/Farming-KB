@@ -59,7 +59,7 @@ from the impact of raindrops, reducing surface crusting and runoff. The root
 systems hold soil in place on slopes and in windy areas. During winter months,
 a living root system in the ground, often called a living mulch, prevents the
 leaching of soluble nutrients that would otherwise be lost when the soil sits
-bare. This protective function is one of the key [[no-till-benefits]], as
+bare. This protective function is one of the key [[composting-and-soil-biology]], as
 no-till systems rely on continuous cover crop rotations to maintain soil
 structure and prevent degradation between cash crops.
 

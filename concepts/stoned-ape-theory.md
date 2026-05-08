@@ -124,7 +124,7 @@ Despite its controversial status in academic circles, the Stoned Ape Theory has 
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis]]
 - [[psilocybin-stoned-ape-hypothesis-critique]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 
 - [[partnership-vs-dominator-societies]]

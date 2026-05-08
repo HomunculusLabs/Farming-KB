@@ -81,7 +81,7 @@ The timing of the Phase I to Phase II transition is important. Moving too early 
 
 [[phase-ii-composting]] — pasteurization and conditioning
 
-[[mushroom-compost-substrates]] — compost as a growing substrate
+[[mushroom-cultivation-fundamentals]] — compost as a growing substrate
 
 [[mushroom-substrate-supplementation]] — supplement types and timing
 

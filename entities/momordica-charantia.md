@@ -132,6 +132,6 @@ Crop residue after harvest can be incorporated into compost as a nutrient-rich g
 - [[lemna-minor]]
 - [[glycyrrhiza-glabra]]
 - [[passiflora-incarnata]]
-- [[allium-sativum]]
+- [[allium-sativum-entity]]
 - [[zingiber-officinale]]
 - [[curcuma-longa]]

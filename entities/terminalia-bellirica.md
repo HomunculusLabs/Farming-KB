@@ -127,9 +127,9 @@ The species responds well to organic manuring and tolerates moderately acidic to
 
 - [[terminalia-chebula]]
 - combretaceae
-- [[terminalia-bellirica]]
+- terminalia bellirica
 - [[amazonian-medicinal-plants-reference]]
 - [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[armillaria-gallica]]
 - [[armillaria-gallica]]
-- [[terminalia-bellirica]]
+- terminalia bellirica

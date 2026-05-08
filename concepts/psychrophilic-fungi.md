@@ -85,7 +85,7 @@ Warming temperatures in polar and alpine regions threaten cold-adapted fungal co
 - [[fungal-biodiversity-alpine-arctic]]
 - [[fungal-biodiversity-in-extreme-environments]]
 - [[thermophilic-fungi]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[saprobic-soil-fungi]]
 - [[fungal-biogeography]]
 

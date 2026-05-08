@@ -76,7 +76,7 @@ The diversity maintained in home gardens and community seed banks exceeds anythi
 
 [[permaculture-seed-saving]]
 
-[[permaculture-seed-saving-and-selection]]
+[[permaculture-design]]
 
 [[permaculture-seed-saving-networks]]
 

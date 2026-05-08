@@ -77,7 +77,7 @@ McKenna's prescription is what he calls the Archaic Revival: a recovery of the s
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]] -- Jaynes's theory of ego development
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-dissolution-of-the-dominator-culture]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[weil-the-natural-mind-altered-states-normalcy]]
 - [[dominator-culture-and-partnership-society]]
 

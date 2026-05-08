@@ -138,57 +138,9 @@ societies using hallucinogenic plants:
    realities, variously called the "inner world," "spirit world," "upper
    or lower world," "dreamtime," or "otherworld," accessed through journeys
    or direct perception
-5. **Spirit beings**: Encounters with nonmaterial entities associated with
-   animals, plants, places, ancestors, and other nonordinary beings,
-   experienced as allies, power animals, guardians, or helpers
-
-## Syncretic Folk Religious Ceremonies
-
-In Brazil, three major churches use ayahuasca as a sacrament: Santo Daime,
-Uniao do Vegetal (UDV), and Barquinia. Each was founded in the 1950s by rubber
-tappers who encountered the brew through indigenous ayahuasqueros and received
-visionary instructions to organize churches.
-These ceremonies have formalized entheogenic experience into weekly communal
-worship involving hundreds of participants. Research by Charles Grob, Dennis
-McKenna, and others confirmed that long-term membership is associated with no
-adverse health effects and reduced incidence of alcoholism and drug addiction.
-The UDV features formal sermons and question-and-answer periods. Santo Daime
-emphasizes congregational singing and sometimes dancing. Barquinia
-incorporates elements of Umbanda involving contact with ancestors and orixas.
-
-An important social function of these religious ceremonies is to strengthen
-community bonds and provide a protective shield of traditional lore against
-the encroachments of Christian missionaries and Western consumer culture.
-
-## Hybrid Shamanic-Therapeutic Rituals
-
-Modern Western practices blend traditional shamanic elements with
-psychotherapeutic intentions. Neoshamanic medicine circles feature:
-
-- Circle formation with participants sitting or lying
-- Central altar or fire
-- Experienced guide with one or more assistants
-- Semidarkness or eyeshades
-- Music (drumming, rattling, singing, recorded music)
-- Invocation of the four directions and elements
-- Cultivation of a respectful, spiritual attitude
-
-Preparation includes meditation, nature solo time, or expressive arts
-(drawing, painting, journal work). Post-ceremony integration involves sharing
-lessons learned. Some variation of the talking staff (council practice) is
-often used, where only the person holding the staff sings or speaks.
-
-Participants tend to be experienced in multiple psychospiritual practices
-including meditation, yoga, and body-oriented therapy. Most have expanded their
-belief systems to accept the reality of spirit beings and multiple worlds.
-
-William James, after his experiments with nitrous oxide, wrote in 1901 that
-"no account of the universe in its totality can be final which leaves these
-other forms of consciousness quite disregarded."
-
 ## See Also
 
-- [[psilocybin]] - the active compound in Psilocybe mushrooms used in
+- [[psilocybin-compound]] - the active compound in Psilocybe mushrooms used in
   Mazatec ceremonies
 - [[harmala-alkaloids-and-ayahuasca-preparation]] - the Amazonian decoction used in South American
   entheogenic rituals

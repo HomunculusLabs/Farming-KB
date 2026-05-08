@@ -398,7 +398,7 @@ destroyed by unaddressed sector forces.
 - permaculture zone and sector analysis
 - [[permaculture-zone-planning-detailed]]
 - [[mollison-zone-and-sector-analysis]]
-- [[holmgren-zones-and-sectors-design-framework]]
+- [[permaculture-design]]
 - [[mollison-designers-sector-analysis-wind-sun-fire]]
 - [[pdc-sector-analysis-guide]]
 - [[permaculture-zone-one-design]]
@@ -416,3 +416,6 @@ destroyed by unaddressed sector forces.
   Future. Island Press, 1990.
 - Ozier Williams, William. PDC: A Permaculture Design Course.
   Permaculture Institute, 2019.
+## Permaculture Design for Different Climates
+
+# Permaculture Design for Different Climates Permaculture design must be adapted to the specific climatic conditions of each site. Temperature, rainfall patterns, humidity, wind, solar exposure, and seasonal variation all influence which design elements are appropriate and how they should be configured. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles|Bill Mollison's Designer's Manual]] organizes design approaches by broad climatic zones, recognizing that the same principle (e.g., water harvesting) requires very different implementations in humid tropics versus arid deserts. Understanding climate is the foundation of effective permaculture design. ## Tropical and Subtropical Design Tropical climates (consistently warm, with distinct wet and dry seasons) support year-round growing but present challenges including rapid nutrient cycling, heavy rainfall, pest pressure, and soil leaching. ...

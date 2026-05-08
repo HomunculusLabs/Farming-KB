@@ -148,4 +148,3 @@ wick-like action transfers moisture directly to the cakes.
 
 - [[pf-tek-overview-and-history]]
 - [[fruiting-conditions-and-harvesting]]
-- dual chambered terrarium design

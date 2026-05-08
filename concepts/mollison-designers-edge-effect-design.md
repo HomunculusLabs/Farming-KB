@@ -148,4 +148,3 @@ productivity, and resilience. By studying natural edge patterns and applying
 the principles of lobate form, spiral geometry, and gradient management,
 designers can create systems that produce far more than conventional rectangular
 layouts. Edge is where energy and matter exchange between systems, and it is
-this exchange that drives the extraordinary productivity of transition zones.

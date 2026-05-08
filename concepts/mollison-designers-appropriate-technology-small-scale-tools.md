@@ -37,7 +37,7 @@ Mollison defines appropriate technology as tools and systems that are:
 
 This framework draws from the work of E.F. Schumacher and the
 intermediate technology movement, filtered through a permaculture
-lens that prioritizes [[gaias-garden-edge-effect]] and multiple functions.
+lens that prioritizes gaias garden edge effect and multiple functions.
 
 ## Essential Hand Tools
 
@@ -53,7 +53,7 @@ The broadfork (or grelinette) is recommended for soil aeration
 without inversion. Unlike a rototiller, the broadfork loosens soil by
 lifting and fracturing it, preserving the soil structure and
 mycorrhizal networks that are central to [[soil-food-web]] health.
-It is particularly useful in established [[no-till-gardening-method]] beds and
+It is particularly useful in established [[composting-and-soil-biology]] beds and
 broadacre [[keyline-design]] pasture improvement.
 
 Wheel hoes and collinear hoes allow rapid cultivation of row crops

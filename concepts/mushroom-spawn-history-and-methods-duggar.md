@@ -79,7 +79,7 @@ Repin in Paris also referenced a secret method for effecting spore germination, 
 - [[duggar-mushroom-growing-history-and-methods]]
 
 - [[mushroom-grain-spawn-preparation]]
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-compost-bed-systems-duggar]]
 - [[mushroom-house-construction-duggar]]
 - [[mushroom-genetics-strain-selection]]

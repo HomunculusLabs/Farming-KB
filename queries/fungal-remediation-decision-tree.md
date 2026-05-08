@@ -112,4 +112,4 @@ Key rules: surface area should be several times the contamination source; water 
 
 ## Related
 
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]

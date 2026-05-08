@@ -1,5 +1,5 @@
 ---
-title: "How Do I Design a Succulent Green Roof?"
+title: "How Do I Design a Succulent [[green-roof-and-living-walls]]?"
 tags:
   - green-roof
   - sedum
@@ -26,19 +26,18 @@ sources:
 created: 2026-05-07
 type: query
 ---
-
 # How Do I Design a Succulent Green Roof?
 
 ## Executive Summary
 
-A succulent green roof is a lightweight, low-maintenance living roof system built primarily with **Sedum** and drought-tolerant succulents. Extensive green roofs (shallow substrate, 2–6 in.) are ideal for succulents and add only 15–30 psf of load. They reduce stormwater runoff, lower urban heat island effects, and extend roof membrane lifespan. Success depends on proper structural assessment, a layered assembly (waterproofing → root barrier → drainage → substrate → plants), and selecting region-appropriate species.
+A succulent green roof is a lightweight, low-maintenance living roof system built primarily with **Sedum** and [[drought-tolerant-planting-design]] succulents. Extensive green roofs (shallow substrate, 2–6 in.) are ideal for succulents and add only 15–30 psf of load. They reduce stormwater runoff, lower urban heat island effects, and extend roof membrane lifespan. Success depends on proper structural assessment, a layered assembly (waterproofing → root barrier → drainage → substrate → plants), and selecting region-approquery-how-to-clone-[[query-how-to-prevent-hermaphrodite-cannabis-plants]]-step-by-stepes.
 
-## Step-by-Step Design Process
+## Step-by-Step [[gaias-garden-design-process]]
 
 1. **Structural Assessment** — Hire a structural engineer to confirm the roof can support 15–30 psf (saturated weight). Existing residential roofs often need reinforcement.
 2. **Waterproofing** — Install a high-quality waterproof membrane (TPO, EPDM, or modified bitumen). Test integrity before proceeding.
 3. **Root Barrier** — Add a copper or polyethylene root barrier to prevent root penetration into the membrane.
-4. **Drainage Layer** — Use a dimple-board or granular drainage mat (1–2 in.) to prevent waterlogging and allow excess runoff.
+4. **Drainage Layer** — Use a dimple-board or granular drainage mat (1–2 [[cervantes-green-algae-growing-medium]]-algae-growing-mediumt waterlogging and allow excess runoff.
 5. **Growing Medium (Substrate)** — Use a mineral-based engineered green roof substrate (see details below).
 6. **Plant Selection** — Choose Sedum and succulent species suited to your USDA hardiness zone and roof microclimate.
 7. **Installation** — Lay substrate, plant plugs or pre-grown mats, and apply a light temporary erosion blanket if exposed.
@@ -47,10 +46,10 @@ A succulent green roof is a lightweight, low-maintenance living roof system buil
 ## Extensive vs. Intensive Green Roofs
 
 | Feature | Extensive (Recommended for Succulents) | Intensive |
-|---|---|---|
+| | -| -|
 | Substrate depth | 2–6 in. | 6–24+ in. |
 | Weight (saturated) | 15–30 psf | 60–150 psf |
-| Plant palette | Sedum, Delosperma, Sempervivum | Perennials, shrubs, vegetables |
+| [[food-forest-plant-palette]] | Sedum, Delosperma, Sempervivum | Perennials, shrubs, vegetables |
 | Maintenance | 1–2× per year | Weekly to monthly |
 | Irrigation needed | Only during establishment | Ongoing |
 | Cost (install) | $15–$25/sq ft | $25–$60+/sq ft |
@@ -59,14 +58,14 @@ A succulent green roof is a lightweight, low-maintenance living roof system buil
 
 ## Recommended Substrate Composition
 
-FLL-compliant green roof substrates are **mineral-based, low in organic matter**:
+FLL-compliant green roof substrates are **mineral-based, low in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]**:
 
 - **Base:** 70–85% expanded shale, expanded clay, or crushed brick
 - **Organic amendment:** 5–15% compost or aged pine bark (no peat — it decomposes)
 - **Additives:** 5–10% perlite or pumice for extra drainage
 
 | Species Group | Recommended Depth | Notes |
-|---|---|---|
+| -| -| -|
 | Small Sedum (S. acre, S. album) | 2–3 in. | Shallow-rooted, spreads by stolons |
 | Medium Sedum (S. kamtschaticum, S. spurium) | 3–4 in. | Robust spreaders, good coverage |
 | Large Sedum (S. spectabile, S. telephium) | 4–6 in. | Taller varieties, deeper roots |
@@ -75,7 +74,7 @@ FLL-compliant green roof substrates are **mineral-based, low in organic matter**
 ## Best Succulent Species for Green Roofs
 
 | Species | USDA Zones | Drought Tolerance | Notes |
-|---|---|---|---|
+| -| -| -| -|
 | *Sedum acre* | 3–9 | Very High | Aggressive spreader, yellow flowers |
 | *Sedum album* | 3–9 | Very High | White flowers, color shifts in cold |
 | *Sedum kamtschaticum* | 3–9 | High | Orange flowers, very reliable |
@@ -100,7 +99,7 @@ FLL-compliant green roof substrates are **mineral-based, low in organic matter**
 ## Load Calculations and Structural Requirements
 
 | Layer | Typical Weight (psf) |
-|---|---|
+| -| -|
 | Waterproof membrane | 1–2 psf |
 | Root barrier | 0.5–1 psf |
 | Drainage layer | 2–4 psf |
@@ -135,7 +134,7 @@ Most modern commercial roofs support 30+ psf; older residential roofs may suppor
 ## Cost Considerations
 
 | Component | Typical Cost/sq ft |
-|---|---|
+| -| -|
 | Waterproofing + root barrier | $4–$8 |
 | Drainage layer | $2–$4 |
 | Substrate (delivered, placed) | $4–$8 |
@@ -146,12 +145,4 @@ Most modern commercial roofs support 30+ psf; older residential roofs may suppor
 
 ## Related
 
-- [[living-mulch-systems-guide]]
-
-- [[green-roof-and-living-walls]]
-- [[reciprocal-roof-frame]] Wiki Links
-
-- how does stormwater management work with green roofs
-- what are the best drought tolerant plants for rooftops
-- how to calculate roof load for a green roof
-- what is xeriscaping and how to apply it in urban settings
+- [[living-mulch-systems-guide

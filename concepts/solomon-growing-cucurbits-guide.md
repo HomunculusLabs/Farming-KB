@@ -148,5 +148,3 @@ melon seed is expensive; in maritime climates only the earliest hybrids
 produce anything, and only on black plastic.
 
 ## See Also
-
-- [[momordica-charantia]]

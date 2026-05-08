@@ -119,7 +119,7 @@ Allergic reactions to borage are rare but have been reported, particularly in in
 - [[calendula-officinalis]] — companion plant with edible flowers and anti-inflammatory properties
 - [[echinacea-purpurea]] — medicinal herb for immune system support
 - [[ocimum-basilicum]] — culinary herb commonly companion-planted with borage
-- [[rosmarinus-officinalis]] — rosemary, a Mediterranean medicinal and culinary herb
+- [[rosmarinus-officinalis-entity]] — rosemary, a Mediterranean medicinal and culinary herb
 - [[mentha-piperita]] — peppermint, a source of menthol with overlapping medicinal uses
 - [[taraxacum-officinale]] — dandelion, a deep-rooted perennial with medicinal and ecological value
 - [[stinging-nettle]] — nutrient-dense perennial with anti-inflammatory properties

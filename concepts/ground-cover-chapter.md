@@ -97,7 +97,7 @@ Species that survive right to the ocean's edge, stabilising dunes and coastal he
 ## Related
 
 - [[fire-resistant-plants]]
-- [[difficult-site-planting]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[salt-tolerant-plant-guide]]
 - [[multi-purpose-trees]]
 - [[food-forest-understory-plants]]

@@ -39,7 +39,7 @@ Fungi degrade mineral substrates through two synergistic categories: biomechanic
 
 ### Direct biomechanical weathering
 
-Direct degradation occurs through extensive hyphal penetration into decayed rocks and active tunneling into otherwise intact mineral matter. Fungal hyphae penetrate along crystal planes, cleavages, cracks, and grain boundaries in rock types including sandstone, calcitic and dolomitic rocks. The mechanical force driving this penetration derives from osmotically generated turgor pressure within the hyphae, which can be considerable.
+Direct degradation occurs through extensive hyphal penetration into decayed rocks and active tunneling into otherwise intact mineral matter. [[fungal-hyphae-invasive-growth-mechanisms]] penetrate along crystal planes, cleavages, cracks, and grain boundaries in rock types including sandstone, calcitic and dolomitic rocks. The mechanical force driving this penetration derives from osmotically generated turgor pressure within the hyphae, which can be considerable.
 
 Biomechanical penetration into mineral matter is facilitated by thigmotropic reactions and lubrication with mucilaginous slime. Thigmotropism, or contact guidance, is a directed mode of fungal growth toward grooves, ridges, and pores in solid material. This mechanism explains how fungal hyphae systematically explore and exploit weakened sites in mineral surfaces, concentrating mechanical force where it will be most effective.
 
@@ -67,7 +67,7 @@ Oxalic acid is particularly aggressive in attacking mineral surfaces because it 
 
 ### Redoxolysis
 
-Redoxolysis involves oxidation-reduction reactions that transform mineral phases. Fungal-mediated redox reactions can change the oxidation state of metals within mineral lattices, destabilizing the crystal structure and promoting dissolution. This mechanism is particularly relevant for iron- and manganese-bearing minerals such as biotite and pyroxene.
+Redoxolysis involves oxidation-reduction reactions that transform mineral phases. Fungal-mediated redox reactions can change the oxidation state of metals within mineral lattices, destabilizing the [[crystal-structure-and-crystal-defects]] and promoting dissolution. This mechanism is particularly relevant for iron- and manganese-bearing minerals such as biotite and pyroxene.
 
 ## Metal Immobilization and Precipitation
 
@@ -79,11 +79,11 @@ Fungi can be highly efficient bioaccumulators of soluble and particulate forms o
 
 The formation of secondary organic and inorganic minerals by fungi occurs through both metabolism-independent and metabolism-dependent processes. Precipitation, nucleation, and deposition of crystalline material on and within cell walls are influenced by environmental pH and the composition of cell walls.
 
-This process is important in soil because precipitation of carbonates, phosphates, and hydroxides increases soil aggregation. Cations such as silicon, iron, aluminum, and calcium (released through dissolution mechanisms) stimulate precipitation of compounds that act as bonding agents for soil particles. Hyphae enmesh soil particles, alter their alignment, and release organic metabolites that enhance aggregate stability, directly contributing to soil structure formation and maintenance.
+This process is important in soil because precipitation of carbonates, phosphates, and hydroxides increases soil aggregation. Cations such as silicon, iron, aluminum, and calcium (released through dissolution mechanisms) stimulate precipitation of compounds that act as bonding agents for soil particles. Hyphae enmesh soil particles, alter their alignment, and release organic metabolites that enhance aggregate stability, directly contributing to [[soil-structure-and-aggregate-ecology]] formation and maintenance.
 
 ## Rock-Dwelling Fungal Communities
 
-Fungi colonize rocks through several distinct ecological strategies. Rock-inhabiting microorganisms are classified based on their relationship to the rock surface and internal structure:
+Fungi colonize rocks through several distinct ecological strategies. [[rock-inhabiting-microcolonial-fungi-detail]] microorganisms are classified based on their relationship to the rock surface and internal structure:
 
 - **Epilithic**: occurring on the surface of rocks and building stone
 - **Hypolithic**: associated with the underside of pebbles and stones
@@ -100,7 +100,7 @@ Fungal weathering of limestone, sandstone, and marble has been extensively descr
 
 ## Environmental Applications
 
-Fungal bioweathering has important implications for environmental management. The dissolution of rock substrates releases essential plant nutrients into soil ecosystems. In contaminated environments, fungal metal-transforming capacity offers potential for bioremediation of polluted soils, treatment of solid industrial wastes, recovery of metals from low-grade ores, and detoxification of metal-bearing minerals and industrial byproducts.
+Fungal bioweathering has important implications for environmental management. The dissolution of rock substrates releases essential plant nutrients into soil ecosystems. In contaminated environments, [[fungal-metal-transformations-biosorption]]-transforming capacity offers potential for bioremediation of polluted soils, treatment of solid industrial wastes, recovery of metals from low-grade ores, and detoxification of metal-bearing minerals and industrial byproducts.
 
 The ability of fungi to immobilize metals via biosorption, intracellular accumulation, and extracellular precipitation turns metals into chemically more inert forms and therefore results in detoxification. Fungi with chromium-reducing activity may be useful for treatment of chromium-polluted soils, converting highly toxic hexavalent chromium (Cr(VI)) to less toxic trivalent chromium (Cr(III)).
 

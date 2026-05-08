@@ -147,5 +147,3 @@ Range design should incorporate wildlife needs:
 - Create pond and wetland areas for waterfowl and amphibians
 - Avoid monoculture pastures -- diverse plantings support more wildlife
   species
-
-## See Also

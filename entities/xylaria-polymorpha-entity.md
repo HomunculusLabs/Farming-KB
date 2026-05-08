@@ -1,5 +1,5 @@
 ---
-title: Xylaria polymorpha (Dead Man's Fingers)
+title: [[xylaria-polymorpha]] (Dead Man's Fingers)
 created: 2026-04-28
 type: species
 tags:
@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Xylaria polymorpha, commonly known as Dead Man's Fingers, is a saprotrophic ascomycete fungus that fruits on decaying hardwood stumps and logs in temperate forests worldwide. It is among the most recognizable and frequently encountered pyrenomycetes (fungi that produce spores in perithecia — tiny flask-shaped structures) due to its striking, finger-like fruiting bodies that emerge from wood in clusters, resembling charred or mummified human fingers. Despite its macabre appearance, X. polymorpha is harmless to humans and plays an ecologically vital role as a primary and secondary wood decomposer. The genus Xylaria is closely related to the entomopathogenic genus *Cordyceps*, and recent phylogenetic work has revealed that many Xylaria species have endophytic phases, living within living plant tissues before switching to saprotrophic decomposition after host tissue death.
+Xylaria polymorpha, commonly known as Dead Man's Fingers, is a saprotrophic ascomycete fungus that fruits on decaying hardwood stumps and logs in temperate forests worldwide. It is among the most recognizable and frequently encountered pyrenomycetes (fungi that produce spores in perithecia — tiny flask-shaped structures) due to its striking, finger-like fruiting bodies that emerge from wood in clusters, resembling charred or mummified human fingers. Despite its macabre appearance, X. polymorpha is harmless to humans and plays an ecologically vital role as a primary and secondary wood decomposer. The genus Xylaria is closely related to the entomopathogenic genus *Cordyceps*, and recent phylogenetic work has revealed that many Xylaria species have endophytic phases, living within living plant tissues before switching to [[saprotrophic-decomposition]] after host tissue death.
 
 ## Taxonomy
 
@@ -46,7 +46,7 @@ Xylaria polymorpha, commonly known as Dead Man's Fingers, is a saprotrophic asco
 - *Xylaria digitata* (Schwein.) Berk.
 - *Xylaria hypoxylon* sensu auct. (frequently confused, not a true synonym)
 
-The species epithet *polymorpha* ("many-formed") refers to the considerable variation in the shape, size, and color of the fruiting bodies, which can lead to confusion with other *Xylaria* species. Some mycologists have suggested the *X. polymorpha* species complex may contain several cryptic species distinguishable by molecular data.
+The species epithet *polymorpha* ("many-formed") refers to the considerable variation in the shape, size, and color of the fruiting bodies, which can lead to confusion with other *Xylaria* species. Some mycologists have suggested the *X. polymorpha* species complex may contain several [[cryptic-species]] distinguishable by molecular data.
 
 ## Morphology
 
@@ -65,7 +65,7 @@ The stroma (plural: stromata) is the visible, macroscopic structure:
 - **Conidia (asexual stage):** Ellipsoidal to cylindrical, hyaline (colorless), 3–5 × 1–2 µm, produced holoblastically on the stroma surface during the early fertile stage. The conidial stage was historically described as *Xylocladium* or *Nodulisporium*.
 
 ### Cultural Characteristics
-On malt extract agar (MEA), *X. polymorpha* grows slowly (1–3 mm/day at 25°C), producing white, aerial mycelium that darkens to gray or olive with age. Colonies may produce a distinctive pattern of concentric rings.
+On [[malt-extract-agar]] (MEA), *X. polymorpha* grows slowly (1–3 mm/day at 25°C), producing white, aerial mycelium that darkens to gray or olive with age. Colonies may produce a distinctive pattern of concentric rings.
 
 ## Distribution and Habitat
 
@@ -81,7 +81,7 @@ On malt extract agar (MEA), *X. polymorpha* grows slowly (1–3 mm/day at 25°C)
 ### Substrate and Ecology
 - **Primary substrate:** Decaying stumps, logs, and fallen branches of hardwood trees. Most commonly found on oak (*Quercus*), maple (*Acer*), beech (*Fagus*), ash (*Fraxinus*), elm (*Ulmus*), and birch (*Betula*). Occasionally reported on conifers but strongly prefers angiosperms.
 - **Ecological role:** A **white-rot fungus** that degrades lignin and cellulose in dead wood. It plays a significant role in carbon cycling in forest ecosystems, breaking down recalcitrant lignin polymers that many other organisms cannot process.
-- **Succession:** Often appears in mid-to-late stages of wood decomposition, following primary colonizers. May share substrate with other Xylaria species, *Hypoxylon* species, and various basidiomycete wood-rotters.
+- **Succession:** Often appears in mid-to-late stages of wood [[decomposition]], following primary colonizers. May share substrate with other Xylaria species, *Hypoxylon* species, and various basidiomycete wood-rotters.
 - **Endophytic phase:** Molecular studies have confirmed that *X. polymorpha* DNA can be detected within the living tissues of healthy host trees, indicating a latent endophytic phase. The fungus persists asymptomatically within the host until tissue death triggers the switch to active saprotrophic growth and fruiting.
 
 ## Chemical Constituents and Bioactivity
@@ -98,7 +98,7 @@ On malt extract agar (MEA), *X. polymorpha* grows slowly (1–3 mm/day at 25°C)
 ### Medicinal Potential
 Research on *X. polymorpha* specifically is limited, but studies on related *Xylaria* species have shown:
 
-- **Antimicrobial activity:** Crude extracts demonstrate inhibition of *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*
+- **Antimicrobial activity:** Crude extracts demonstrate inhibition of *Staphylococcus aureus*, *Escherichia coli*, and *[[candida-albicans]]*
 - **Antioxidant activity:** Methanolic extracts show significant DPPH radical scavenging activity
 - **Antitumor activity:** Some isolated compounds show cytotoxicity against human cancer cell lines (HeLa, MCF-7) in vitro
 - **Anti-inflammatory effects:** Ethanol extracts reduce pro-inflammatory cytokine production in cell culture models
@@ -148,6 +148,3 @@ Research on *X. polymorpha* specifically is limited, but studies on related *Xyl
 - [[xylaria-hypoxylon]] — genus overview
 - [[cordyceps-militaris]] — related entomopathogenic fungus in Xylariales
 - [[xylaria-hypoxylon]] — related wood-inhabiting genus
-- [[fomes-fomentarius]] — another common bracket fungus on dead wood
-- [[trametes-versicolor]] — colorful wood-decay polypore
-- [[daldinia-concentrica]] — King Alfred's cakes, another carbonaceous wood fungus

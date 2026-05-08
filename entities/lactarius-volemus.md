@@ -1,5 +1,5 @@
 ---
-title: "Lactarius volemus"
+title: "lactarius volemus"
 created: 2026-04-28
 type: species
 tags:
@@ -20,7 +20,6 @@ sources:
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
   - Arnolds, E. (1986). "Ecology and coenology of macrofungi in grasslands and moist heathlands." Bibl. Mycol., 90.
 ---
-
 # Lactarius volemus
 
 ## Overview
@@ -28,7 +27,7 @@ sources:
 *Lactarius volemus* (Fr.) Fr., the apricot milkcap or tawny milkcap,
 is an edible basidiomycete in the family Russulaceae. It is widely
 distributed across temperate deciduous forests of the Northern
-Hemisphere, forming ectomycorrhizal associations primarily with oaks
+Hemisphere, forming [[ectomycorrhizal-associations]] primarily with oaks
 and beeches.
 
 The species is identifiable by its dry orange-brown cap, copious white
@@ -82,14 +81,14 @@ to slightly acrid.
 ## Distribution and Habitat
 
 **Range:** Widespread across Europe (Scandinavia to Mediterranean),
-Asia (China, Japan, Korea, northern India), eastern North America,
-and parts of North Africa and Central America.
+Asia (China, Japan, Korea, northern Indipolypore-fungi-eastern-north-americarica,
+and parts of North Africa and [[guzman-psilocybin-mushrooms-mexico-central-america]].
 
 **Habitat:** Ectomycorrhizal, primarily with oaks (*Quercus*) and
 beech (*Fagus*), occasionally birch and hornbeam. Found in deciduous
 and mixed forests on acidic to neutral soils. Fruits singly or in
 scattered groups from late summer through autumn (July–November).
-Prefers mature forest stands with well-developed mycorrhizal networks.
+Prefers mature forest stannitrogen-transfer-through-[[common-mycorrhizal-networks]]-networksed [[mycorrhizal-networks]].
 
 ## Culinary and Nutritional Value
 
@@ -101,20 +100,20 @@ Must be thoroughly cooked before consumption. Raw specimens cause
 gastrointestinal upset due to terpenoid compounds in the latex.
 Cooking eliminates both the fishy odor and irritant properties.
 Popular in Hungarian, Slovak, and Romanian mushroom cuisine, and used
-in stir-fries and soups in Chinese cooking. Dried for winter storage
+in stir-fries and soups in Chinese cooking. Dried [[coleman-soil-preparation-for-winter]] storage
 in some traditions.
 
 **Nutritional profile** (per 100 g fresh, approximate): Protein 2.5 g,
 carbohydrates 5 g, fat 0.5 g, fiber 1.5 g. Moderate potassium,
 phosphorus, and B vitamins.
 
-## Bioactive Compounds
+## [[medicinal-mushroom-extraction-bioactive-compounds]]
 
 - **Volemolide** — sesquiterpene lactone contributing to flavor and
   latex properties
 - **Volemitol** — a heptitol (C₇H₁₆O₇) first isolated from this
-  species; also found in primrose and some lichens
-- **Sterols** — ergosterol and ergosterol peroxide in fruiting bodies
+  species; also found in primrose and some [[lichens]]
+- **Sterols** — [[ergosterol]] and ergosterol peroxide in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 - **Fatty acids** — linoleic acid predominant, with oleic and
   palmitic as minor components
 
@@ -145,12 +144,6 @@ species in its range.
 Direct cultivation is not commercially practiced due to obligate
 ectomycorrhizal lifestyle. Indirect benefits include inoculation of
 oak and beech plantings with spore slurry to accelerate mycorrhizal
-establishment in food-forest designs, reliable autumn foraging in
+establishment in [[food-forest]] designs, reliable autumn foraging in
 mature oak-beech stands within agroforestry systems, and contribution
 to soil structure and water retention in tree-crop systems.
-
-## See Also
-
-- [[agroforestry]]
-- [[ectomycorrhiza]]
-- [[ectomycorrhizal-associations]]

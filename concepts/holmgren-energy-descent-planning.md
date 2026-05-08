@@ -36,7 +36,7 @@ As we reduce our dependence on the global economy and replace it with household 
 
 ## Key Planning Principles
 
-Energy descent planning draws on all twelve [[holmgren-twelve-design-principles-overview]] but several are especially critical:
+Energy descent planning draws on all twelve [[permaculture-design]] but several are especially critical:
 
 ### Maximising Energy Capture and Storage
 
@@ -60,7 +60,7 @@ In an energy growth phase, maximising efficiency is a rational strategy. In desc
 
 Energy descent planning must be bioregionally specific. What works in one climate, soil type, and cultural context will not necessarily transfer. bioregionalism-in-permaculture|Bioregional organisation becomes increasingly important as global supply chains weaken and local self-reliance grows more critical.
 
-The [[holmgren-zones-and-sectors-design-framework]] provides the spatial organising tools for bioregional adaptation, while [[holmgren-pattern-thinking-and-pattern-language]] provides the conceptual framework for understanding how local systems connect to larger-scale patterns.
+The [[permaculture-design]] provides the spatial organising tools for bioregional adaptation, while [[holmgren-pattern-thinking-and-pattern-language]] provides the conceptual framework for understanding how local systems connect to larger-scale patterns.
 
 Bioregional planning requires detailed understanding of local carrying capacity: how much food, water, fuel, and fiber a given landscape can sustainably produce. This understanding must account for climate variability, soil limitations, water availability, and existing land use patterns. Holmgren emphasises that realistic bioregional assessments are essential for avoiding the trap of techno-optimism — the belief that innovation will overcome fundamental biophysical limits. Honest assessment of what a landscape can actually support, combined with permaculture design to maximise that support, forms the foundation of credible energy descent planning.
 
@@ -117,4 +117,4 @@ The difference between Cuba's involuntary transition and the permaculture approa
 
 A critical but often overlooked dimension of energy descent planning is education and skill transfer. Holmgren emphasises that the knowledge and skills needed for low-energy living are fundamentally different from those taught in conventional education systems. Practical skills in food production, building, repair, water management, and community organisation become essential, while many professional specialisations developed during the era of cheap energy become less relevant.
 
-Permaculture design education serves as a bridge between the current high-energy culture and the competencies needed for descent. The [[holmgren-twelve-design-principles-overview]] function as a transferable thinking framework applicable across all domains of life. Teaching these principles — through design courses, demonstration sites, and community projects — builds the cognitive infrastructure for adaptation that is at least as important as physical infrastructure.
+Permaculture design education serves as a bridge between the current high-energy culture and the competencies needed for descent. The [[permaculture-design]] function as a transferable thinking framework applicable across all domains of life. Teaching these principles — through design courses, demonstration sites, and community projects — builds the cognitive infrastructure for adaptation that is at least as important as physical infrastructure.

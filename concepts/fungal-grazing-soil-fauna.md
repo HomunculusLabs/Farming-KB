@@ -109,5 +109,5 @@ Fungi have evolved multiple strategies to defend against grazing by soil fauna. 
 - [[fungal-secondary-productivity]] — fungal biomass as food for grazers
 - [[fungal-soil-food-web]] — position of grazing in soil food webs
 - [[fungal-nematode-trapping]] — predatory fungi that trap nematodes
-- [[soil-arthropods]] — soil fauna that graze on fungi
+- soil arthropods — soil fauna that graze on fungi
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

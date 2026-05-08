@@ -148,4 +148,3 @@ phototropism research today.
 - [[what-a-plant-knows-plant-vision-and-light-perception]] - Chamovitz
   overview of plant vision
 - [[phototropism-photoperiodism-discovery-phytochrome]] - Broader
-  history of light response discoveries

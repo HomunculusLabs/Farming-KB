@@ -1,5 +1,5 @@
 ---
-title: Mentha piperita
+title: mentha piperita
 created: 2026-04-28
 type: species
 tags:
@@ -111,7 +111,7 @@ Midwestern and balanced English.
 No viable seeds — all cultivation is vegetative. Root barriers
 recommended to contain aggressive spread.
 
-## Companion Planting and Permaculture Role
+## [[companion-planting]] and Permaculture Role
 
 - **Pest repellent:** Deters aphids, flea beetles, cabbage
   moths, ants; used as barrier plant
@@ -148,12 +148,3 @@ essential oils produced at industrial scale.
 - [[mentha-suaveolens]]
 
 - [[mentha-spicata]]
-
-- [[companion-planting]]
-- [[herbal-medicine]]
-- [[permaculture]]
-- [[mentha-spicata|Mentha spicata]] — Spearmint
-- Lamiaceae — Mint family
-- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home|Essential Oils]]
-- [[companion-planting|Companion Planting]]
-- [[menthol|Menthol]]

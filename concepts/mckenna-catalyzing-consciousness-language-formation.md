@@ -141,7 +141,7 @@ senses and by the deeper dimensions of awareness.
 
 - [[mckenna-cannabis-language-weaving-cordage-narrative]]
 
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

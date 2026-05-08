@@ -16,7 +16,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# [[psilocybe-semilanceata-profile]]
+# [[psychedelic-mushrooms-species-and-identification]]
 
 **Authority**: (Fries) Kummer
 

@@ -76,7 +76,7 @@ Sampling studies have shown that species-substrata curves rarely reach an asympt
 ## See Also
 
 - [[biodiversity-fungi-wood-decay-succession]]
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[soil-food-web-nutrient-cycling]]
 
 - [[fungal-cellulose-decomposition-fungal-enzymes]]

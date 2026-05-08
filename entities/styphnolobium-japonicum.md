@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-**Styphnolobium japonicum** (syn. *Sophora japonica*), commonly known as the **Japanese pagoda tree** or **scholar tree**, is a deciduous tree native to eastern Asia (China, Korea, Japan) that occupies a unique and valuable niche in permaculture design, agroforestry systems, and traditional medicine. Unlike most leguminous trees, it associates with **rhizobial bacteria** to fix atmospheric nitrogen through a symbiotic root nodule system, making it an exceptional fertility-building element in food forests and polycultures. Its flowers, buds, and pods have been used in Chinese medicine for millennia, and its ornamental value, drought tolerance, and wildlife support make it a multifunctional staple in ecological design.
+**Styphnolobium japonicum** (syn. *Sophora japonica*), commonly known as the **Japanese pagoda tree** or **scholar tree**, is a deciduous tree native to eastern Asia (China, Korea, Japan) that occupies a unique and valuable niche in [[permaculture-design]], agroforestry systems, and traditional medicine. Unlike most leguminous trees, it associates with **rhizobial bacteria** to fix atmospheric nitrogen through a symbiotic root nodule system, making it an exceptional fertility-building element in food forests and polycultures. Its flowers, buds, and pods have been used in Chinese medicine for millennia, and its ornamental value, drought tolerance, and wildlife support make it a multifunctional staple in ecological design.
 
 ## Taxonomy
 
@@ -66,7 +66,7 @@ Gray-brown, developing ridges and furrows with age. Young branches are green and
 - **Mature trees (20+ years):** 40–80 kg N/ha/year
 - **Leaf litter contribution:** Additional 20–40 kg N/ha/year through decomposition
 
-This makes the pagoda tree an excellent "fertility pillar" in food forest design, particularly when planted on contour with nitrogen-hungry fruit trees and berry bushes in the adjacent alleys.
+This makes the pagoda tree an excellent "fertility pillar" in [[food-forest-design]], particularly when planted on contour with nitrogen-hungry fruit trees and berry bushes in the adjacent alleys.
 
 ### Pollinator Support
 The late summer bloom period (July–September) fills a critical nectar gap. The flowers produce abundant nectar with moderate sugar concentration (25–40% Brix), yielding:
@@ -112,12 +112,12 @@ Recommended companion plants in a pagoda tree guild:
 - **Berry bushes:** Currants, gooseberries, aronia (tolerate dappled shade)
 - **Herbaceous layer:** Comfrey, yarrow, mint, chives, garlic
 - **Ground cover:** White clover, creeping thyme, nitrogen-neutral accumulators
-- **Root crops:** Daikon radish (bioturbation), Jerusalem artichoke (dynamic accumulator)
+- **Root crops:** Daikon radish (bioturbation), [[jerusalem-artichoke]] (dynamic accumulator)
 - **Climbers:** Kiwi, hardy passionflower (utilize trunk for support)
 
 ### Polyculture Patterns
 - **N-fixing overstory** in a 7-layer food forest
-- **Alley cropping** with rows of pagoda trees spaced 8–12 m apart, intercropped with vegetables, grains, or pasture
+- **[[alley-cropping]]** with rows of pagoda trees spaced 8–12 m apart, intercropped with vegetables, grains, or pasture
 - **Silvopasture** component providing shade and forage for livestock (seeds and pods browsed by poultry and sheep)
 - **Riparian buffer** plantings along waterways
 
@@ -140,17 +140,6 @@ Recommended companion plants in a pagoda tree guild:
 | Flower buds (Huai Mi) | June–July | Harvest before opening; dry immediately |
 | Flowers | July–August | Harvest at peak bloom; dry or use fresh |
 | Pods | October–November | Harvest when yellow-brown; dry for medicine |
-| Seeds | November–December | Collect fallen pods; cold-store for propagation |
-| Leaf litter | Autumn | Leave in place for nitrogen cycling and mulch |
-| Nectar | July–September | Bee forage; do not harvest directly |
-
-## Potential Challenges
-
-- **Invasive potential:** Naturalized in parts of eastern North America and Europe; monitor spread in sensitive ecosystems. Produces abundant viable seed. Not considered highly invasive due to slow seedling establishment.
-- **Toxicity:** Pods and seeds contain quinolizidine alkaloid precursors (cytosine, matrine in trace amounts); not recommended for heavy livestock browsing. Flowers and buds are safe.
-- **Branch breakage:** Weak-wooded in extreme winds; structural pruning recommended in exposed sites.
-- **Late leaf-out:** One of the last trees to leaf out in spring (May in temperate zones), providing early-season solar access to understory plants.
-
 ## See Also
 
 - [[permaculture-tree-crop-systems]]

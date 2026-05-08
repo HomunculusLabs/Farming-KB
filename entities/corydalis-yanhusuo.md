@@ -138,17 +138,6 @@ Multiple alkaloids inhibit:
 - NF-κB signaling pathway
 - TNF-α, IL-1β, and IL-6 production
 - NLRP3 inflammasome activation
-
-### Antiplatelet and Antithrombotic
-Tetrahydrocoptisine and other alkaloids inhibit platelet aggregation and reduce thrombus formation in animal models, supporting the traditional use for blood-invigorating effects.
-
-## Clinical Applications
-
-### Pain Management
-Clinical trials and extensive clinical use in China support Yan Hu Suo extract for:
-
-- **Chronic pain conditions:** Neuralgia, fibromyalgia, chronic headache
-
 ## See Also
 
 - [[corydalis-cava]]

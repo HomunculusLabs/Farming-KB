@@ -92,7 +92,7 @@ A good basic soilless mix might contain:
 When amending garden soil for indoor use, amend by up to 80 percent
 with mineral amendments to improve water retention and drainage. Even
 soil that drains well outdoors needs amending to drain properly
-indoors. For more on complete soil mixes, see [[cervantes-growing-medium]] and [[cervantes-organic-growing]].
+indoors. For more on complete soil mixes, see [[cervantes-growing-medium]] and [[cannabis-advanced-growing-techniques]].
 
 ## Choosing the Right Amendment
 
@@ -134,7 +134,7 @@ or coarse sand for cloning applications.
 - [[knf-vs-chemical-farming-comparison]] Concepts
 
 - [[cervantes-growing-medium]] - comprehensive guide to growing media
-- [[cervantes-organic-growing]] - organic approaches to soil management
-- [[cervantes-transplanting-potting-up]] - potting up with amended soil
-- [[cervantes-water-quality-management]] - watering amended soils
+- [[cannabis-advanced-growing-techniques]] - organic approaches to soil management
+- [[cannabis-advanced-growing-techniques]] - potting up with amended soil
+- [[cannabis-advanced-growing-techniques]] - watering amended soils
 - [[cervantes-container-gardening-pot-size]] - containers and drainage

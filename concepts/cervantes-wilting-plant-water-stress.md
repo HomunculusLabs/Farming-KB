@@ -112,10 +112,10 @@ When plants wilt, check these factors in order:
 
 ## See Also
 
-- [[cervantes-plant-stress-recovery]] - recovering from various
+- [[cannabis-advanced-growing-techniques]] - recovering from various
   stress types
 - [[cervantes-co2-enrichment]] - CO2 effects on plant turgor
 - [[cervantes-cloning]] - managing wilt in cuttings
-- [[cervantes-water-quality-management]] - water quality and plant
+- [[cannabis-advanced-growing-techniques]] - water quality and plant
   health
 - [[cervantes-pest-disease]] - disease-related wilting causes

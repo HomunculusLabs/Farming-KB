@@ -17,7 +17,7 @@ Mescaline is the prototype phenethylamine psychedelic. Many synthetic "designer"
 
 ### Psychoactive Trichocereus Species
 
-Multiple Trichocereus species contain mescaline and related alkaloids: *T. bridgesii*, *T. cuzcoensis*, *T. fulvinanus*, *T. macrogonus*, *T. pachanoi*, *T. peruvianus* (several times more potent by weight), *T. taquimbalensis*, *T. tersheckii*, *T. validus*, and *T. werdermannius*. See [[peyote-and-psychoactive-cacti]] for full species details.
+Multiple Trichocereus species contain mescaline and related alkaloids: *T. bridgesii*, *T. cuzcoensis*, *T. fulvinanus*, *T. macrogonus*, *T. pachanoi*, *T. peruvianus* (several times more potent by weight), *T. taquimbalensis*, *T. tersheckii*, *T. validus*, and *T. werdermannius*. See [[ethnomycology]] for full species details.
 
 ## History
 
@@ -98,6 +98,6 @@ Mescaline hydrochloride is ~25% more potent than mescaline sulfate. Those claimi
 - [[mescaline-compound-profile]] — compound chemistry details
 - [[mescaline-extraction-guide]] — extraction methods
 - [[peyote-ceremony-guide]] — ceremonial use
-- [[peyote-and-psychoactive-cacti]] — cactus species overview
+- [[ethnomycology]] — cactus species overview
 - [[san-pedro-cactus-preparation]] — San Pedro preparation
 - [[shamanic-use-of-psychedelics]] — indigenous practices

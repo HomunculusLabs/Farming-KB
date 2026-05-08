@@ -109,7 +109,7 @@ Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
 - [[lowenfels-soil-horizons-profiles]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[bacterial-to-fungal-soil-succession]]
-- [[nutrient-retention-soil-food-web]]
+- [[composting-and-soil-biology]]
 ## Merged: Soil Tea Recipe
 
 # Soil Tea Recipe

@@ -13,7 +13,7 @@ sources:
 
 **Updated:** 2026-04-21
 
-Though often overlooked, algae and slime molds play supporting roles in the [[nutrient-retention-soil-food-web]]. They are not related to each other -- algae are photosynthetic organisms while slime molds are heterotrophic consumers -- but both contribute to nutrient cycling and soil formation in ways that affect gardeners and the broader ecosystem.
+Though often overlooked, algae and slime molds play supporting roles in the [[composting-and-soil-biology]]. They are not related to each other -- algae are photosynthetic organisms while slime molds are heterotrophic consumers -- but both contribute to nutrient cycling and soil formation in ways that affect gardeners and the broader ecosystem.
 
 ## Algae
 
@@ -29,7 +29,7 @@ Most algae require very moist conditions, but some grow in hot deserts and at th
 
 Algae are closely related to bacteria on the tree of life but are often thought of as primitive plants because they are photoautotrophic -- they take energy from the sun and produce their own food.
 
-Like plants, algae are primary producers, not dependent on the soil's organic matter or other members of the [[nutrient-retention-soil-food-web]] for food. However, they lack the specialization of higher plants: no true roots, leaves, stems, or vascular system.
+Like plants, algae are primary producers, not dependent on the soil's organic matter or other members of the [[composting-and-soil-biology]] for food. However, they lack the specialization of higher plants: no true roots, leaves, stems, or vascular system.
 
 Their role in the [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]] is distinct from that of higher plants. While vascular plants dominate terrestrial photosynthesis, algae contribute significantly in aquatic systems and on exposed soil surfaces where their productivity can be surprisingly high.
 
@@ -53,13 +53,13 @@ Lichens represent the symbiotic relationship between certain algae and fungi.
 
 The fungus provides a humid, protected environment for the alga; the alga provides photosynthesized food to the fungus. Together they accelerate rock weathering considerably. Lichens also contribute nitrogen to soil through their cyanobacterial partners.
 
-Lichens are among the most resilient organisms on Earth, capable of surviving extreme temperatures, desiccation, and UV radiation. Their role in primary succession -- colonizing bare rock and beginning the process of soil formation -- makes them essential pioneers in [[fungal-ecology-forest-floor]].
+Lichens are among the most resilient organisms on Earth, capable of surviving extreme temperatures, desiccation, and UV radiation. Their role in primary succession -- colonizing bare rock and beginning the process of soil formation -- makes them essential pioneers in [[the-soil-food-web]].
 
 ### Blue-Green Algae and Nitrogen Fixation
 
 Blue-green algae (Cyanophyta) use the enzyme nitrogenase to fix nitrogen, either in a symbiotic relationship or nonsymbiotically, similar to nitrogen-fixing bacteria.
 
-This is how rice plants can get nitrogen from the water in which they grow. The [[nitrogen-cycle-in-soil]] benefits significantly from cyanobacterial activity, particularly in flooded agricultural systems and in soils where other nitrogen-fixing organisms are limited.
+This is how rice plants can get nitrogen from the water in which they grow. The [[composting-and-soil-biology]] benefits significantly from cyanobacterial activity, particularly in flooded agricultural systems and in soils where other nitrogen-fixing organisms are limited.
 
 ### Role in Soil Structure
 
@@ -123,9 +123,9 @@ When conditions become unfavorable, plasmodia dry up and turn to powdery dust. W
 
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 - [[soil-food-web-nutrient-cycling]]
 

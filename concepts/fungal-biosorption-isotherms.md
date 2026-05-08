@@ -145,7 +145,6 @@ properties with the physical characteristics of the support material.
 
 ## See Also
 
-- [[mycoremediation-biosorption-mechanisms]]
+- [[bioremediation-using-fungi]]
 - [[bioremediation-fungal-biomass-biosorbent-material]]
 - [[bioremediation-fungal-metal-metalloid-transformations]]
-- [[bioremediation-fungal-metallothioneins-phytochelatins]]

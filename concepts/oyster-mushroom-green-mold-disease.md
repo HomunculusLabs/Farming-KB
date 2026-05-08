@@ -118,7 +118,7 @@ show that prochloraz-manganese complex (Sporgon) is by far the most effective tr
 - [[mushroom-contamination-identification]] for identifying mold and other contamination types
 - [[cotter-mushroom-pests-diseases]] for comprehensive pest and disease management
 - [[oyster-mushroom-spawn-production]] for producing clean, contamination-free spawn
-- [[mushroom-cultivation-sterile-technique]] for hygiene protocols to prevent contamination
+- [[mushroom-cultivation-fundamentals]] for hygiene protocols to prevent contamination
 - [[oyster-mushroom-bag-cultivation]] for bag cultivation methods that minimize mold risk
 
 ## Related

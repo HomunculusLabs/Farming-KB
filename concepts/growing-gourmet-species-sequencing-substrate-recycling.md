@@ -98,5 +98,5 @@ Species sequencing transforms mushroom cultivation from a linear process (input,
 ## See Also
 
 - [[mushroom-cultivator-substrate-preparation]] — Comprehensive substrate preparation techniques
-- [[matching-spawn-substrate-critical-choices]] — Matching spawn type to substrate material
+- [[mushroom-cultivation-fundamentals]] — Matching spawn type to substrate material
 - [[bulk-substrate-field-capacity]] — Field capacity and moisture management for bulk substrates

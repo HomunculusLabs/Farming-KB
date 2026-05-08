@@ -34,7 +34,7 @@ sources:
 
 ## Overview
 
-β-Caryophyllene (BCP) is a bicyclic sesquiterpene found in the essential oils of numerous plants, most notably black pepper (*Piper nigrum*), cloves (*Syzygium aromaticum*), cinnamon (*Cinnamomum* spp.), rosemary (*Rosmarinus officinalis*), hops (*Humulus lupulus*), and cannabis (*Cannabis sativa*). It is one of the most abundant terpenes in cannabis, typically comprising 5–15% of the essential oil profile in strains like Girl Scout Cookies, OG Kush, and Bubba Kush.
+β-Caryophyllene (BCP) is a bicyclic sesquiterpene found in the essential oils of numerous plants, most notably black pepper (*[[piper-nigrum-entity]]*), cloves (*[[syzygium-aromaticum]]*), cinnamon (*Cinnamomum* spp.), rosemary (*[[rosmarinus-officinalis-entity]]*), hops (*[[humulus-lupulus]]*), and cannabis (*[[cannabis-sativa]]*). It is one of the most abundant terpenes in cannabis, typically comprising 5–15% of the essential oil profile in strains like Girl Scout Cookies, OG Kush, and Bubba Kush.
 
 BCP is distinguished from other terpenes by its unique chemical structure: a cyclobutane ring fused to a trans-cyclooctene ring, making it one of the few natural products containing a cyclobutane moiety. This structural feature is critical to its biological activity.
 

@@ -19,12 +19,8 @@ sources:
   - https://doi.org/10.1016/j.tplants.2021.01.005
 type: query
 ---
-
-# How Do Fungal Volatile Compounds Affect Plant Growth and Other Microorganisms?
-
-## Quick Answer
-
-Fungal volatile organic compounds (FVOCs) are airborne chemical signals produced by fungi that influence neighboring organisms without physical contact. They can **stimulate or inhibit plant growth**, **prime plant immune defenses**, **suppress or attract specific microorganisms**, and **mediate interactions with insects**. The effect depends on the fungal species, the specific compounds emitted, the concentration, and the receiving organism. *Trichoderma* species are the best-studied beneficial FVOC producers, while some *Fusarium* and *Aspergillus* species emit growth-inhibiting volatiles.
+# How Do [[mycovolatiles-fungal-volatile-compounds]] Affect Plant Growth and Other Microorganisms?
+[[fungal-volatile-organic-compounds]] organic compounds (FVOCs) are airborne chemstaycare-degradation-of-plant-cell-wall-polymers-by-funginals produced by fungi that influence neighboring organisms withoutplant-immune-system-pti-etintact. They can **stimulate or inhibit plant growth**, **prime plant immune defenses**, **suppress or attract specific microorganisms**, and **mediate interactions with insects**. The effect depends on the fungal species, the specific compounds emitted, the concentration, and the receiving organism. *Trichoderma* species are the best-studied beneficial FVOC producers, while some *Fusarium* and *Aspergillus* species emit growth-inhibiting volatiles.
 
 ## Effects on Plant Growth
 
@@ -61,7 +57,7 @@ FVOCs can "vaccinate" plants against future pathogen attacks through a process c
 - 2,3-Butanediol (SA + JA priming)
 - 6-PP (JA/ET priming)
 - 3-Octanone (JA priming)
-- Sesquiterpenes from *Serendipita indica* (broad-spectrum priming)
+- Sesquiterpenes from *[[serendipita-indica]]* (broad-spectrum priming)
 
 **Duration**: Priming effects typically last 1–3 weeks after volatile exposure ends. Epigenetic modifications (DNA methylation, histone acetylation) may underlie this transient "memory."
 
@@ -75,17 +71,17 @@ Many FVOCs are bactericidal or bacteriostatic:
 |---|---|---|
 | Benzaldehyde | *Penicillium*, *Aspergillus* | Gram-positive and Gram-negative bacteria |
 | 2-Nonanone | *Trichoderma* spp. | *Pseudomonas*, *Bacillus* |
-| DMDS (dimethyl disulfide) | *Trichoderma viride* | Broad-spectrum; nematicidal too |
+| DMDS (dimethyl disulfide) | *[[trichoderma-viride]]* | Broad-spectrum; nematicidal too |
 | 6-PP | *Trichoderma* spp. | Plant-pathogenic *Pseudomonas*, *Xanthomonas* |
 | Isoamyl alcohol | Yeasts, filamentous fungi | Some soil bacteria at high concentrations |
 
 ### Bacterial Attraction and Recruitment
 
-Some FVOCs attract beneficial bacteria to fungal hyphae:
+Some FVOCs attract beneficial bacteria to [[fungal-hyphae]]:
 
 - **CO₂ and ethanol gradients** around active fungal hyphae serve as chemoattractants for *Pseudomonas* and *Burkholderia* species, recruiting them to the mycosphere where they can form mutualistic relationships.
-- **Fungal oxalic acid and citric acid** (semi-volatile) attract *Bacillus subtilis* to *Trichoderma* hyphae, where the two organisms collaborate to suppress plant pathogens.
-- **Dimethyl disulfide** attracts certain *Streptomyces* species that produce antifungal antibiotics—a case where a fungal volatile attracts its own natural enemy, suggesting a regulatory feedback loop.
+- **Fungal oxalic acid and citric acid** (semi-volatile) attract *[[bacillus-subtilis]]* to *Trichoderma* hyphae, where the two organisms collaborate to suppress plant pathogens.
+- **Dimethyl disulfide** attracts certain *Streptomyces* species that produce anti [[fungal-antibiotics]]—a case where a fungal volatile attracts its own natural enemy, suggesting a regulatory feedback loop.
 
 ### Bacterial Community Shaping
 
@@ -97,7 +93,7 @@ In soil microcosm experiments, adding FVOC-producing *Trichoderma* to soil shift
 
 Fungal-fungal volatile interactions are a major driver of competition in soil:
 
-- **6-PP** inhibits *Botrytis cinerea*, *Rhizoctonia solani*, and *Fusarium* growth at 50–100 μg/L in headspace.
+- **6-PP** inhibits *[[botrytis-cinerea]]*, *Rhizoctonia solani*, and *Fusarium* growth at 50–100 μg/L in headspace.
 - **DMDS** suppresses *Armillaria* and various wood-decay fungi.
 - **2-Heptanone** and **3-octanone** from *Trichoderma* inhibit spore germination of competing fungi.
 - **Volatile blends from *Muscodor albus*** (an endophytic fungus) are lethal to a broad spectrum of fungi and bacteria—the "mycofumigation" concept is based on this property.
@@ -148,11 +144,3 @@ Not all fungal-fungal volatile interactions are antagonistic:
 - **Outdoor volatility**: In open field conditions, FVOCs disperse rapidly. The concentrated effects observed in laboratory sealed-plate systems may not translate directly to field conditions.
 - **Species specificity**: A volatile that promotes growth in one plant species may inhibit another. Always test in the specific crop context.
 - **Interaction complexity**: In natural soil, dozens of fungal species produce hundreds of volatiles simultaneously. The net effect is the result of complex interactions, not any single compound.
-
-## See Also
-
-- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
-- [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
-- [[query-how-do-i-design-and-plant-a-living-fence]]
-- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
-- [[query-what-are-the-three-sisters-and-how-do-i-plant-them]]

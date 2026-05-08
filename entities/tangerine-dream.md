@@ -148,6 +148,3 @@ discreet grows.
 - [[tangie-cannabis]] — pure sativa with intense tangerine aroma
 - [[chemdawg]] — influential parent strain contributing diesel terpenes
   to many hybrids
-- [[sour-diesel]] — energetic sativa-dominant strain with contrasting
-  diesel profile
-- [[blue-dream]] — popular balanced hybrid with crossover medical appeal

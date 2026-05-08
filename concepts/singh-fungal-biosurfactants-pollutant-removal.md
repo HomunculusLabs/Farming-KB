@@ -148,4 +148,3 @@ direct inoculation eliminates separate production steps.
 
 - [[singh-fungal-petroleum-hydrocarbon-metabolism]]
 - [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[singh-fungal-bioaugmentation-contaminated-soils]]

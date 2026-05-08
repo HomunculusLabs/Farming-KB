@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital nitrogen-fixing pioneer species with significant applications in ecological restoration and permaculture.
+**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
 
 ## Taxonomy
 
@@ -106,7 +106,7 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Indigenous Maya Use
 
 - Evidence of *M. tenuiflora* use in Maya ceremonial contexts in southern Mexico and Guatemala
-- Archaeological findings of DMT-containing residue in Maya ritual vessels
+- Archaeological findings of [[dmt-containing-plants-and-maoi-combination]] residue in Maya ritual vessels
 
 ## Ecological Role and Permaculture Applications
 
@@ -114,7 +114,7 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 
 - **Rhizobial symbiosis**: *M. tenuiflora* forms nitrogen-fixing nodules with Bradyrhizobium and Rhizobium species, contributing 20–60 kg N/ha/year to the soil
 - **Pioneer species**: One of the first woody species to colonize degraded land in the Caatinga; creates favorable conditions for succession by improving soil fertility
-- **Leaf litter**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
+- **[[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
 
 ### Ecological Restoration
 
@@ -142,57 +142,6 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Dermatological
 
 - **Wound healing**: Promotes fibroblast proliferation, collagen synthesis, and epithelialization; the combination of tannins (astringent), flavonoids (anti-inflammatory), and mucilages (moisture retention) provides a multi-mechanism approach
-- **Burns**: Topical bark preparations used for first and second-degree burns; reduces pain and accelerates healing
-- **Anti-aging**: Cosmetic applications for skin rejuvenation; antioxidant flavonoids reduce oxidative damage
-- **Anti-acne**: Antimicrobial tannins and saponins help control *Propionibacterium acnes*
-
-### Antimicrobial
-
-- **Bacterial inhibition**: Active against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Bacillus subtilis*
-- **Fungal activity**: Inhibits *Candida albicans* and dermatophyte species
-- **Mechanisms**: Tannins disrupt microbial cell membranes; flavonoids inhibit bacterial enzymes
-
-### Anti-Inflammatory
-
-- Reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in vitro
-- Tannins inhibit cyclooxygenase (COX) and lipoxygenase (LOX) pathways
-- Traditional use for joint pain and inflammatory skin conditions
-
-## Cultivation
-
-### Propagation
-
-- **Seed propagation**: Seeds require scarification (hot water treatment: 80°C water, soak 24 hours, or mechanical nicking) to break physical dormancy; germination in 7–21 days at 25–30°C; seed viability maintained for 3–5 years in dry, cool storage
-- **Cuttings**: Semi-hardwood cuttings root readily with rooting hormone; 60–80% success rate
-- **Direct seeding**: Successful in tropical conditions during rainy season; pre-soaked seeds planted 1–2 cm deep
-
-### Growing Conditions
-
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Climate | Tropical and subtropical; tolerates 5–45°C |
-| Rainfall | 250–1500 mm annually; drought-deciduous in dry conditions |
-| Soil | Well-drained sandy to loamy; tolerates poor, rocky soils |
-| Soil pH | 5.5–7.5; tolerates mildly acidic conditions |
-| Sun exposure | Full sun |
-| Altitude | 0–1000 m |
-| Growth rate | Very fast; 1–3 m/year in favorable conditions |
-| Lifespan | 20–40 years |
-| coppicing | Regrows vigorously; can be cut to ground level |
-
-### Harvesting
-
-- **Root bark**: Harvest from mature plants (> 2 years); the inner bark is carefully separated from the outer bark and woody core; sustainable practices involve harvesting lateral roots rather than killing the main tree
-- **Sustainability concerns**: Increasing commercial demand for DMT-containing root bark has led to overharvesting in some regions; cultivated sources are strongly preferred over wild harvest
-- **Leaf harvest**: Can be harvested year-round for mulch and fodder without harming the plant
-
-## Conservation Status
-
-- **IUCN status**: Not formally assessed globally; locally common in native range
-- **Threats**: Overharvesting for root bark (entheogenic market); habitat destruction from agricultural expansion and urbanization; climate change increasing drought frequency in the Caatinga
-- **Conservation**: Protected in some Brazilian states; cultivation programs encouraged to reduce wild harvest pressure
-- **Sustainable sourcing**: Ethical suppliers cultivate *M. tenuiflora* specifically for bark harvest, using coppicing methods that allow plant regeneration
-
 ## See Also
 
 - [[agroforestry]]

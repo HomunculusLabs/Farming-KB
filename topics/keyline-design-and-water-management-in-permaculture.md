@@ -21,7 +21,7 @@ sources:
 
 # Keyline Design and Water Management in Permaculture
 
-Keyline design is a landscape management technique developed by Australian farmer and engineer Percival Alfred (P.A.) Yeomans in the 1940s and 1950s. It provides a systematic approach to understanding land shape, managing water, and building fertile soil in agricultural landscapes. The method centers on identifying specific contour lines in a landscape — called keylines — and using them as guides for water harvesting, irrigation, and soil-building earthworks.
+Keyline design is a landscape management technique developed by Australian farmer and engineer Percival Alfred (P.A.) Yeomans in the 1940s and 1950s. It provides a systematic approach to understanding land shape, managing water, and building fertile soil in agricultural landscapes. The method centers on identifying specific contour lines in a landscape — called keylines — and using them as guides for [[water-harvesting-techniques-comparison]], irrigation, and soil-building earthworks.
 
 ## Origins and Historical Context
 
@@ -66,11 +66,11 @@ Yeomans identified four types of valley formations in agricultural landscapes:
 
 ### The Keyline Plow
 
-P.A. Yeomans invented a specialized plow — the **keyline plow** (or **Yeomans plow**) — designed to cultivate soil without inverting it. Unlike a moldboard plow that turns soil over, the keyline plow uses narrow shanks (typically 3–5) fitted with shallow points or blades that slice through the soil at or just below the surface, creating narrow channels without disturbing the soil structure.
+P.A. Yeomans invented a specialized plow — the **keyline plow** (or **Yeomans plow**) — designed to cultivate soil without inverting it. Unlike a moldboard plow that turns soil over, the keyline plow uses narrow shanks (typically 3–5) fitted with shallow points or blades that slice through the soil at or just below the surface, creating narrow channels without disturbing the [[soil-structure-and-aggregate-ecology]].
 
 Key features of the keyline plow:
 
-- **Non-inversion design** — preserves soil structure, mycorrhizal networks, and microbial communities
+- **Non-inversion design** — preserves soil structure, [[mycorrhizal-networks-and-forest-communication]], and microbial communities
 - **Shallow cultivation** — typically 5–15 cm (2–6 inches) deep, breaking compaction layers without deep disruption
 - **Multiple shanks** — spaced 30–60 cm apart, treating a wide swath in a single pass
 - **Low draft requirement** — can be pulled by relatively small tractors or even animals
@@ -135,20 +135,20 @@ On a properly designed keyline property, the water cycle works as follows:
 
 ### Keyline in the Permaculture Design Framework
 
-Bill Mollison incorporated keyline design extensively into *Permaculture: A Designers' Manual* (1988), recognizing it as one of the foundational tools for landscape-scale water management. In permaculture, keyline design is typically applied at **Zone 3** (farm-scale production) and **Zone 4** (large-scale grazing and forestry) levels, though the principles apply at any scale.
+[[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] incorporated keyline design extensively into *Permaculture: A Designers' Manual* (1988), recognizing it as one of the foundational tools for landscape-scale water management. In permaculture, keyline design is typically applied at **Zone 3** (farm-scale production) and **Zone 4** (large-scale grazing and forestry) levels, though the principles apply at any scale.
 
 Keyline fits within permaculture's broader design principles:
 
 - **Observe and interact** — keyline begins with careful topographic observation
 - **Catch and store energy** — water is the primary "energy" being captured and stored
 - **Obtain a yield** — improved water retention directly increases productivity
-- **Apply self-regulation and accept feedback** — the system is monitored and adjusted over time
+- **[[apply-self-regulation-permaculture-principle]]-regulation and accept feedback** — the system is monitored and adjusted over time
 - **Use small and slow solutions** — keyline cultivation is a gradual, biological approach rather than heavy earthworks
 - **Use edges and value the marginal** — keyline design specifically targets the valley-ridge transition zones
 
 ### Combining Keyline with Other Permaculture Techniques
 
-Keyline design integrates well with other permaculture water management strategies:
+Keyline design integrates well with other [[permaculture-water-harvesting-detailed]] management strategies:
 
 | Technique | Relationship to Keyline |
 |-----------|------------------------|
@@ -170,7 +170,7 @@ One of the most significant benefits of keyline design is its impact on soil hea
 - **Microbial activity** — improved moisture and aeration stimulate soil biology
 - **Carbon sequestration** — deep-rooting plants and improved soil biology increase soil carbon storage
 
-Yeomans considered soil building to be inseparable from water management. The Keyline Scale of Permanence (later adapted by permaculture designers) ranks factors from most permanent to least permanent:
+Yeomans considered soil building to be inseparable from water management. The Keyline Scale of Permanence (later adapted by [[permaculture-designers-manual-cattle-systems]]) ranks factors from most permanent to least permanent:
 
 1. Climate
 2. Land shape
@@ -361,7 +361,7 @@ The original keyline property demonstrated dramatic improvements:
 
 ### Taranaki Farm, Victoria, Australia
 
-Managed by Darren Doherty (a prominent keyline and regenerative agriculture advocate), Taranaki Farm demonstrated keyline design integrated with holistic grazing:
+Managed by Darren Doherty (a prominent keyline and regenerative agriculture advocate), Taranaki Farm demonstrated keyline design integrated with [[holistic-grazing-and-pasture-management]]:
 
 - Keyline cultivation combined with high-density rotational grazing
 - 20+ keyline dams providing gravity-fed irrigation across the property

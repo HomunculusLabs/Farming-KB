@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Catalytic Hydrogenolysis for [[psilocybin]] Debenzylation
+# Catalytic Hydrogenolysis for [[psilocybin-compound]] Debenzylation
 
 ## Overview
 

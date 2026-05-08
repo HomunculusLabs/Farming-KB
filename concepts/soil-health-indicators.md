@@ -108,5 +108,5 @@ The simplest soil health assessment:
 - [[soil-food-web-nutrient-cycling]] — the biological system these indicators measure
 - [[soil-testing]] — laboratory testing methods
 - [[compost-tea-aact]] — how to restore soil biology
-- [[no-till-gardening-method]] — practices that protect soil health
+- [[composting-and-soil-biology]] — practices that protect soil health
 - [[soil-food-web-nutrient-cycling]] — the philosophy of biological soil management

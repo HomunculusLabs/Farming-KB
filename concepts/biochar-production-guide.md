@@ -127,7 +127,7 @@ Application frequency: Biochar is essentially permanent in soil. One application
 ## See Also
 
 - [[hugelkultur-bed-construction-detailed]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[compost-tea-guide]]
 - [[knf-preparations]]
 ## Related

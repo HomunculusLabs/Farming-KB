@@ -88,7 +88,7 @@ The strong link between plant diversity and microfungal diversity means that pla
 
 - [[fungal-succession-woody-debris-ecology]]
 - [[fungal-endophytes-grass-crop-systems]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[mycorrhizal-fungi-biome-surveys]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]
 

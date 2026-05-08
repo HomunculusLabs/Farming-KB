@@ -1,5 +1,5 @@
 ---
-title: "Gymnopilus ventricosus"
+title: "gymnopilus ventricosus"
 created: 2026-04-28
 type: species
 tags: [fungi, gymnopilus, non-psilocybe, north-america, europe, cortinariaceae]
@@ -58,7 +58,7 @@ G. spectabilis).
 
 | Feature | Description |
 |---------|-------------|
-| Spore print | Rusty orange to orangish brown |
+| [[spore-print]] | Rusty orange to orangish brown |
 | Spores | Ellipsoid, slightly ornamented, rusty brown |
 | Spore size | 7.5-10 × 4.5-5.5 µm |
 | Spore view | Ellipsoid in side view, ovoid in face view |
@@ -84,7 +84,7 @@ from Europe:
 ## Chemistry and Active Compounds
 
 - **Psilocybin:** NOT detected — G. ventricosus is considered inactive
-- **Psilocin:** NOT detected
+- **[[psilocin]]:** NOT detected
 - **Novel compounds:** Not specifically reported
 - **Bitter principles:** Present, contributing to the bitter taste (though
   less bitter than G. spectabilis)
@@ -92,7 +92,7 @@ from Europe:
 The key distinction from G. spectabilis is the absence of psilocybin and
 psilocin. Stijve and Kuyper (1988) reported no detectable psilocybin in
 Swiss, Dutch, and American collections of specimens identified as
-G. spectabilis, many of which Beug and Bigwood (1982b) and Smith (1980)
+G. spectabilis, many of which Beug and [[bigwood]] (1982b) and Smith (1980)
 noted were actually G. ventricosus.
 
 ## Similar Species
@@ -103,7 +103,7 @@ noted were actually G. ventricosus.
 | G. validipes | Smaller, weakly active (0.12% psilocybin); mild taste; hardwood preference |
 | G. luteofolius | Brighter yellow, smaller, more southern distribution; active |
 | G. junonius | Very large, common in the eastern US; taxonomically confused with G. spectabilis |
-| Armillaria mellea | Edible honey mushroom; white spore print, grows in clusters at tree bases |
+| [[armillaria-mellea]] | Edible honey mushroom; white spore print, grows in clusters at tree bases |
 
 The confusion between G. ventricosus and G. spectabilis is one of the most
 persistent identification problems in the psychoactive mycological literature.
@@ -146,9 +146,5 @@ understanding true chemical diversity within Gymnopilus.
 
 ## See Also
 
-- [[gymnopilus-spectabilis]]
+- [[gymnopilus-spectabilis-entity]]
 - [[gymnopilus-validipes]]
-- [[gymnopilus-luteofolius]]
-- [[gymnopilus-junonius]]
-- [[armillaria-mellea]]
-- [[psilocybin]]

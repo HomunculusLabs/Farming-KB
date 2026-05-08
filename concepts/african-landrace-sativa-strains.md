@@ -134,43 +134,6 @@ and rewarding.
 
 Another African landrace-inspired variety, King Congo brings genetics from the Congo region
 into the modern breeding landscape. These central African genetics remain relatively rare in
-commercial seed form, making strains like King Congo particularly valuable for preservation
-efforts and for breeders seeking to diversify their genetic portfolios.
-
-## Jamaican Landrace Connections
-
-### Jamaican Lions
-
-Eva Female Seeds' Jamaican Lions is a pure sativa from Jamaica that shares genetic heritage
-with African landraces brought to the Caribbean during the transatlantic trade. Jamaica's
-tropical climate allowed these African genetics to flourish and diverge over centuries, creating
-distinct Jamaican expressions of what were originally African varieties.
-
-### Jamaican Dream
-
-Also from Eva Female Seeds, Jamaican Dream is another Jamaican sativa that carries African
-landrace ancestry. The connection between African and Caribbean cannabis genetics represents one
-of the most fascinating chapters in the global spread of cannabis cultivation.
-
-## Cultivation Considerations
-
-Growing African landrace strains presents unique challenges and rewards for dedicated
-cultivators willing to invest the time and effort:
-- **Climate**: Most require warm to tropical environments; outdoor cultivation is strongly
-  preferred for pure landraces that evolved under equatorial conditions
-- **Space**: Plants can reach 9 to 14 feet in height, requiring significant vertical room and
-  often staking or other structural support
-- **Flowering time**: Typically 9 to 14 weeks, with some equatorial varieties requiring even
-  longer periods to reach full maturity
-- **Photoperiod**: Equatorial strains adapted to near-constant 12/12 light cycles, which can
-  complicate cultivation at higher latitudes where seasonal light changes are dramatic
-- **Training**: Low Stress Training and staking are often essential to manage height and
-  support heavy branches laden with buds
-- **Yield**: Despite the challenges, yields can be substantial — 500 grams per plant or more
-  is common for well-grown outdoor plants
-- **Potency**: THC content ranges from 14% to 22%+, with some varieties producing remarkably
-  psychedelic effects that surprise even experienced consumers
-
 ## See Also
 
 - [[swazi-gold]]

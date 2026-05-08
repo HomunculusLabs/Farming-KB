@@ -87,7 +87,7 @@ Biogas from manure is possible but has trade-offs:
 
 ## Related
 
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[permaculture-community-scale-design]]
 - [[energy-efficient-house-design]]
 - [[mollison-thermal-mass-passive-building]]

@@ -11,7 +11,7 @@ type: entity
 # Psilocybe strictipes
 
 **Type:** Species (Fungi, Basidiomycota, Agaricales)
-**Category:** [[psilocybin]]-containing mushroom
+**Category:** [[psilocybin-compound]]-containing mushroom
 **Also known as:** none widely used
 
 ## Overview

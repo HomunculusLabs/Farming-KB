@@ -148,4 +148,3 @@ scales ranging from small garden plots to large contaminated sites.
 - [[fungal-bioremediation-mechanisms]]
 - [[fungal-bioaccumulation-heavy-metals]]
 - [[stamets-mycoremediation-principles]]
-- [[mushroom-substrate-preparation]]

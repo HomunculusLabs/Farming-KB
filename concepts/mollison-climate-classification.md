@@ -92,7 +92,7 @@ The overriding message of Mollison's climate chapter is that above all, designer
 
 [[cool-climate-settlement-design-mollison]]
 
-[[permaculture-climate-classification]]
+[[permaculture-design]]
 
 [[permaculture-climate-zones]]
 

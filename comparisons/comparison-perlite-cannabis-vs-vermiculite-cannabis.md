@@ -125,5 +125,5 @@ containers for drainage and vermiculite near the surface for moisture retention.
 - [[cannabis-indoor-soil-mix-and-preparation]]
 - [[coco-coir-cannabis]]
 - [[living-soil-cannabis]]
-- [[peat-free-gardening]]
+- peat free gardening
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]

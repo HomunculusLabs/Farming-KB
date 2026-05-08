@@ -148,4 +148,3 @@ Hot jars cooling suck in air with airborne contaminants. An average room has
 - [[mushroom-grain-spawn-preparation]]
 - [[magic-mushroom-preparation-and-consumption-methods]]
 - [[azurescens-spawn-preparation-grain-to-wood]]
-- [[gottlieb-peyote-extraction-and-preparation-methods]]

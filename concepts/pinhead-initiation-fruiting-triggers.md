@@ -23,7 +23,7 @@ Most cultivated species require a temperature drop from their spawn-running opti
 - Agaricus Bitorquis: From 84-86°F (spawn) to 75-77°F (fruiting)
 - Agaricus Brunnescens: From 75-81°F (spawn) to 60-64°F (fruiting)
 - Lentinus Edodes: From 72-77°F (spawn) to 50-60°F (fruiting)
-- [[psilocybe-cubensis-profile]]: Less dramatic temperature shift needed
+- [[psychedelic-mushrooms-species-and-identification]]: Less dramatic temperature shift needed
 
 ### High Humidity
 - 95-100% relative humidity is required for primordia formation

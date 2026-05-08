@@ -127,7 +127,7 @@ by 2-4 mm, stout. Spores bright rusty orange, 6.5-8 by 4.5-5.2 um.
 south Australia. **Potency**: Weakly to moderately active. 0.23-0.25%
 psilocybin, 0.21-0.33% psilocin, 0.03-0.05% baeocystin.
 
-### [[gymnopilus-spectabilis]] (Fries) Singer
+### [[gymnopilus-spectabilis-entity]] (Fries) Singer
 
 "Big gym, giant laughing mushroom." Cap 5-40 cm, bright yellowish
 orange to rusty orange. Dry, fibrillose scales. Gills adnate to sinuate,
@@ -148,4 +148,3 @@ are actually G. ventricosus, an inactive look-alike.
 
 - [[stamets-psylo-minor-genera-inocybe-pluteus]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]

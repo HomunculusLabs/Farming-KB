@@ -148,4 +148,3 @@ manages the potassium and micronutrient curve through flowering.
 - [[knf-fermented-fruit-juice]] for general FFJ preparation methods
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]] for Master Cho's
   FFJ principles
-- [[knf-water-soluble-calcium]] for calcium supplementation during

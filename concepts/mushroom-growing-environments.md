@@ -148,4 +148,3 @@ completely before introducing new substrates.
 - [[fruiting-conditions-mushroom-cultivation]]
 - [[contamination-prevention-in-mushroom-cultivation]]
 - [[cotter-substrate-preparation]]
-- [[sterilization-techniques-mushroom-cultivation]]

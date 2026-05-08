@@ -70,7 +70,7 @@ Eclectic physicians used skullcap for:
 
 ### Modern Herbal Practice
 
-Contemporary Western herbalism continues to use S. lateriflora as a primary nervine tonic and anxiolytic, often in combination with other calming herbs such as *Passiflora incarnata*, *Valeriana officinalis*, *Melissa officinalis*, and *Avena sativa* in nervine formulas.
+Contemporary Western herbalism continues to use S. lateriflora as a primary nervine tonic and anxiolytic, often in combination with other calming herbs such as *[[passiflora-incarnata]]*, *[[valeriana-officinalis]]*, *[[melissa-officinalis]]*, and *Avena sativa* in nervine formulas.
 
 ## Phytochemistry
 
@@ -144,12 +144,6 @@ S. lateriflora has an excellent safety profile with no significant toxicity in t
 
 ## Cultivation
 
-Hardy to USDA zones 4–9. Propagation by seed (stratification recommended), division, or stem cuttings. Prefers moist, rich soils in partial shade. Space plants 30–45 cm apart. Harvest aerial parts during flowering for peak potency. Overwintering survival is excellent once established. Companion planting with other moisture-loving Lamiaceae members works well.
+Hardy to USDA zones 4–9. Propagation by seed (stratification recommended), division, or stem cuttings. Prefers moist, rich soils in partial shade. Space plants 30–45 cm apart. Harvest aerial parts during flowering for peak potency. Overwintering survival is excellent once established. [[companion-planting]] with other moisture-loving Lamiaceae members works well.
 
 ## See Also
-
-- [[herbal-plant-remedies]]
-
-- [[scutellaria-baicalensis]]
-- [[cannabis-for-mental-health]]
-- [[herbal-plant-remedies]]

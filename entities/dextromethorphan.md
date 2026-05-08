@@ -108,10 +108,10 @@ Pharmaceutical companies have responded to abuse concerns with formulation chang
 - [[harmine]]
 - [[psilocin]]
 - [[bufotenin]]
-- [[ergine]]
-- [[noribogaine]]
-- [[salvinorin-a]]
-- [[muscimol]]
+- [[ergine-entity]]
+- [[noribogaine-entity]]
+- [[salvinorin-a-entity]]
+- [[muscimol-entity]]
 - codeine
 - morphine
 - [[ibogaine]]
@@ -119,5 +119,5 @@ Pharmaceutical companies have responded to abuse concerns with formulation chang
 - [[2c-b]]
 - [[ergotamine]]
 - [[harmine-entity-tihkal]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[mxe]]

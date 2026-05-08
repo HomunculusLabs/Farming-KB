@@ -113,8 +113,8 @@ Common property resource management systems (forests, grazing, water) demonstrat
 Holmgren emphasises that permaculture is not just a design system for landscapes but a framework for personal and social transformation. The most powerful changes start with the individual, in the garden, and radiate outward through demonstration and example.
 
 See also: [[permaculture-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-retrofit-suburbia]], , , [[holmgren-permaculture-change-principle]],
-- [[permaculture-principle-integrate-rather-than-segregate]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[holmgren-top-down-thinking-bottom-up-action]]
 - [[permaculture-principle-apply-self-regulation]]
 - [[holmgren-problems-of-success-and-energy-descent]]

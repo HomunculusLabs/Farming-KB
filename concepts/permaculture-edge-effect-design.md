@@ -105,7 +105,7 @@ Williams defines an ecotone as a "clash zone" where two or more biomes come toge
 
 ## Related Concepts
 
-- [[permaculture-principle-use-edges-and-value-the-marginal]]
+- [[permaculture-design-principles]]
 - [[edge-effect-and-microclimate]]
 - [[permaculture-herb-spiral-details]]
 - [[permaculture-designers-manual-keyhole-garden]]

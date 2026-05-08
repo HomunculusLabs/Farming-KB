@@ -96,7 +96,7 @@ Beyond the pond construction described in [[sepp-holzer-pond-construction]], Hol
 
 Holzer's approach to animal health prioritises prevention over treatment. Animals with access to diverse forage, clean water, natural shelter, and appropriate social groups rarely fall ill. He avoids routine medication and vaccination, instead relying on genetic robustness and environmental quality. When health issues arise, he first addresses environmental factors -- diet, stress, housing -- before considering interventions. See [[permaculture-domestic-animals]] for broader discussion.
 
-See also: [[permaculture-animal-integration]], [[permaculture-domestic-animals]], [[sepp-holzer-method]], [[paddock-system-pigs]], [[forage-systems-animals-permaculture]]
+See also: [[permaculture-animal-integration]], [[permaculture-domestic-animals]], [[sepp-holzer-method]], [[backyard-poultry-and-integrated-animal-systems]], [[forage-systems-animals-permaculture]]
 
 ## Related
 

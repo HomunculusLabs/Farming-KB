@@ -147,6 +147,3 @@ anticoagulant effects.
 ## See Also
 
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
-
-- [[cotter-substrate-preparation]]
-- [[sterilization-techniques-mushroom-cultivation]]

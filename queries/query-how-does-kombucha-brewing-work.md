@@ -50,7 +50,7 @@ jar and the SCOBY is added along with a cup of starter liquid from a previous ba
 The starter liquid acidifies the new batch, lowering the pH to a level that
 inhibits mold and harmful bacteria while the SCOBY establishes itself.
 
-The [[kombucha-brewing]] guide covers the specifics of SCOBY handling, starter
+The kombucha brewing guide covers the specifics of SCOBY handling, starter
 liquid ratios, and troubleshooting common fermentation problems.
 
 The jar is covered with a breathable cloth secured with a rubber band and placed

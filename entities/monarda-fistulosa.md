@@ -136,7 +136,7 @@ substitute.
 - [[ocimum-basilicum]]
 - [[cymbopogon-citratus]]
 - [[agastache-foeniculum]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - solidago canadensis
 - [[asclepias-syriaca]]
 - [[echinacea-purpurea]]

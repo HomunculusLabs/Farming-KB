@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|wine cap]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
+Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for wine cap (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
 
 ## Site Selection
 
@@ -136,7 +136,7 @@ Morel cultivation outdoors remains challenging but has been achieved:
 
 ## See Also
 
-- [[wine-cap-stropharia-cultivation|wine cap cultivation]]
+- wine cap cultivation
 - [[kings-stropharia-garden-giant|King Stropharia]]
 - [[outdoor-mushroom-bed|outdoor mushroom beds]]
 - [[log-cultivation-methods|log cultivation methods]]

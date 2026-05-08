@@ -121,7 +121,7 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 - WARNING: Avoid tamarisk species due to their tendency to increase surface salinity
 - Use mound planting (200-300 mm above ground level) following contours for waterlogged saline areas
 - Casuarina and Acacia species provide both fodder and wind protection
-- Integrate with [[permaculture-earthworks-guide]] for drainage and water table management
+- Integrate with [[permaculture-water-harvesting-earthworks]] for drainage and water table management
 - Combine with [[permaculture-water-harvesting-detailed]] to manage water table levels
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

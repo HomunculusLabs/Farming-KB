@@ -148,4 +148,3 @@ preservation traditions.
 ## See Also
 
 - [[comparison-lacto-fermentation-vs-canning]]
-- [[comparison-fermented-vegetables-vs-canning]]

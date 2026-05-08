@@ -148,4 +148,3 @@ The largest quantity seized was 11.5 kg in Poland in 2004.
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]

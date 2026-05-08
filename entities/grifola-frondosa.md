@@ -122,7 +122,7 @@ The mushroom is used in a wide range of Japanese, Chinese, and Western cuisines 
 
 - [[trametes-versicolor]] — Polypore with extensively studied immunomodulatory polysaccharides (PSK/PSP)
 - [[hericium-erinaceus]] — Medicinal mushroom with neuroprotective and immunomodulatory properties
-- [[laetiporus-sulphureus]] — Edible polypore bracket fungus, "chicken of the woods"
+- [[laetiporus-sulphureus-permaculture]] — Edible polypore bracket fungus, "chicken of the woods"
 - [[pleurotus-ostreatus]] — Commercially cultivated edible mushroom with nutraceutical properties
 - [[fomes-fomentarius]] — Perennial polypore with distinct bioactive triterpenoid profile
 - [[psilocybe-cubensis]] — Contrasts with maitake as a psychoactive vs. medicinal mushroom

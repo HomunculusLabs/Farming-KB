@@ -130,7 +130,7 @@ gardens.
 
 ## See Also
 
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[cannabis-sativa]]
 - [[mimosa-tenuiflora]]
 - [[salvia-divinorum]]

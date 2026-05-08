@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Flammulina sapinea** | *Gymnopilus sapineus* (Fr.) Maire ex Singer
 
-Gymnopilus sapineus is a wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae under modern classification) that has been reported to contain [[psilocybin]] and related tryptamine alkaloids, placing it among the neurotropic fungi catalogued by Guzmán, Allen, and Gartz in their worldwide distribution study. It is one of approximately 14 species of Gymnopilus recognized as containing or suspected to contain psychoactive indole compounds. The genus Gymnopilus is commonly known as the "big laughing gym" mushrooms, a name derived from the genus type species [[gymnopilus-spectabilis]].
+Gymnopilus sapineus is a wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae under modern classification) that has been reported to contain [[psilocybin-compound]] and related tryptamine alkaloids, placing it among the neurotropic fungi catalogued by Guzmán, Allen, and Gartz in their worldwide distribution study. It is one of approximately 14 species of Gymnopilus recognized as containing or suspected to contain psychoactive indole compounds. The genus Gymnopilus is commonly known as the "big laughing gym" mushrooms, a name derived from the genus type species [[gymnopilus-spectabilis-entity]].
 
 ## Taxonomy and Classification
 
@@ -47,7 +47,7 @@ Fruiting occurs from late summer through autumn, typically from August to Novemb
 
 ## Chemistry and Psychoactive Properties
 
-Gymnopilus sapineus has been reported to contain [[psilocybin]] and [[psilocin]], though the concentrations are generally lower than those found in the more potent members of the genus such as [[gymnopilus-spectabilis]] and [[gymnopilus-purpuratus]]. The presence of baeocystin has also been detected in some Gymnopilus species, though specific analysis of G. sapineus for this compound is limited.
+Gymnopilus sapineus has been reported to contain [[psilocybin-compound]] and [[psilocin]], though the concentrations are generally lower than those found in the more potent members of the genus such as [[gymnopilus-spectabilis-entity]] and [[gymnopilus-purpuratus]]. The presence of baeocystin has also been detected in some Gymnopilus species, though specific analysis of G. sapineus for this compound is limited.
 
 Chemical analysis of Gymnopilus species is complicated by the presence of bitter, non-psychoactive compounds that may mask or interact with the indole alkaloids. The bitter taste characteristic of the genus may be related to sesquiterpene compounds rather than the tryptamine alkaloids.
 
@@ -65,7 +65,7 @@ Several Gymnopilus species are morphologically similar and can be difficult to d
 
 - **gymnopilus penetrans**: Very similar, growing on conifer wood; some authorities consider it synonymous with G. sapineus
 - **gymnopilus liquiritiae**: Grows primarily on broadleaf wood and has a darker cap; also contains psilocybin
-- **[[gymnopilus-spectabilis]]**: Larger and more brightly colored, with more pronounced bruising reactions and higher psilocybin content
+- **[[gymnopilus-spectabilis-entity]]**: Larger and more brightly colored, with more pronounced bruising reactions and higher psilocybin content
 - **[[gymnopilus-aeruginosus]]**: Has a distinctive greenish-blue coloration and grows on conifer wood
 - **[[gymnopilus-validipes]]**: Similar size but often found in grassy areas near wood, with a more robust stipe
 
@@ -105,12 +105,12 @@ Gymnopilus sapineus can be found from late summer through late autumn, with peak
 
 ## Legal Status
 
-Gymnopilus sapineus is not specifically scheduled or regulated in most jurisdictions. However, its content of [[psilocybin]] and [[psilocin]], which are controlled substances in many countries, could theoretically make possession and use illegal under laws that prohibit the possession of psilocybin-containing fungi regardless of species. In practice, enforcement rarely targets Gymnopilus species due to their low potency and the difficulty of accurate identification.
+Gymnopilus sapineus is not specifically scheduled or regulated in most jurisdictions. However, its content of [[psilocybin-compound]] and [[psilocin]], which are controlled substances in many countries, could theoretically make possession and use illegal under laws that prohibit the possession of psilocybin-containing fungi regardless of species. In practice, enforcement rarely targets Gymnopilus species due to their low potency and the difficulty of accurate identification.
 
 ## See Also
 
-- [[gymnopilus-spectabilis]] — the type species for the genus, known as the "big laughing gym"
+- [[gymnopilus-spectabilis-entity]] — the type species for the genus, known as the "big laughing gym"
 - [[gymnopilus-purpuratus]] — a brightly colored South American species with high psilocybin content
 - [[gymnopilus-luteofolius]] — a small, brightly colored species found in the Southern Hemisphere
-- [[psilocybin]] — the primary psychoactive indole alkaloid
+- [[psilocybin-compound]] — the primary psychoactive indole alkaloid
 - cortinariaceae — the fungal family to which Gymnopilus belongs

@@ -26,7 +26,7 @@ At Rothamsted, the mean age of humus was measured at 1,400 years, derived from t
 
 During growth, approximately 30% of plant energy is lost as sugars and other compounds via root exudates. This massive below-ground energy subsidy fuels the microbial and faunal communities that sustain soil fertility.
 
-The dynamics of this exudation are central to [[compost-chemistry-soil-food-web]].
+The dynamics of this exudation are central to [[composting-and-soil-biology]].
 
 At Rothamsted, the biomass proportions were measured as follows:
 
@@ -94,7 +94,7 @@ See [[nematodes-in-soil-ecology]] for detail on this critical group.
 
 Mites, springtails, small myriapods, enchytraeid worms, false scorpions, and termites. These organisms fragment organic matter, stimulating microbial decomposition.
 
-Details on [[soil-arthropods]] and [[fungal-earthworm-interactions]] cover many of these groups.
+Details on soil arthropods and [[fungal-earthworm-interactions]] cover many of these groups.
 
 **Macrofauna (2-20mm):**
 

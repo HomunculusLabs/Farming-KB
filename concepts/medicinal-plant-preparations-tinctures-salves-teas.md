@@ -103,7 +103,7 @@ alkaloids and resins.
 
 - [[lobelia-inflata]]
 
-- [[ocimum-tenuiflorum]]
+- [[ocimum-tenuiflorum-entity]]
 
 - [[mentha-pulegium]]
 
@@ -115,7 +115,7 @@ alkaloids and resins.
 
 ## Related
 
-- [[herbal-plant-remedies]]
+- herbal plant remedies
 - [[herbal-salves-and-balms]]
 - [[calendula-salve-making]]
 - [[water-pathways-through-plants]]

@@ -148,4 +148,3 @@ pinheads (aborts) removed from the surface helps prevent mold outbreaks.
   casing
 - [[fruiting-chamber-setup]]: Chamber design for cased trays
 - [[sclerotia-cultivation]]: Alternative production without casing
-- [[psilocybe-mexicana-cultivation]]: Casing-dependent species details

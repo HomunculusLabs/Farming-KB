@@ -118,5 +118,5 @@ The Wasson-Hofmann-Ruck collaboration established a new paradigm in classical sc
 
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 - [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]

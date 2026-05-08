@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-Bigwood and Beug (1982) developed a controlled [[psilocybe-cubensis-miniculture-on-rye-grain]] system using rye grain jars to study how [[psilocybin]] and [[psilocin]] levels vary across successive flushes of [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybin-psilocin-flush-variation]] of tryptamine alkaloids in a single cultivated strain, and compared those results to [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye grain miniculture technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
+Bigwood and Beug (1982) developed a controlled [[psilocybe-cubensis-miniculture-on-rye-grain]] system using rye grain jars to study how [[psilocybin-compound]] and [[psilocin]] levels vary across successive flushes of [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybin-psilocin-flush-accumulation-patterns]] of tryptamine alkaloids in a single cultivated strain, and compared those results to [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye grain miniculture technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
 
 Prior to this work, most published alkaloid assays were performed on single-batch samples of unknown age, storage history, and strain identity, making it impossible to distinguish biological variation from degradation artifacts. Bigwood and Beug addressed this gap by controlling every variable from spore to analysis.
 
@@ -82,7 +82,7 @@ The use of NIDA-certified standards and a sensitive HPLC-UV platform gave the st
 
 ### Psilocybin Across Flushes
 
-[[psilocybin]] levels ranged from **3.2 to 13.3 mg/g dry weight** across all flushes. No consistent increasing or decreasing trend was observed across flushes. Psilocybin concentrations were highly variable, with individual flush measurements fluctuating considerably. This variability suggests that psilocybin biosynthesis is not simply a cumulative or depleting process but is influenced by factors such as substrate nutrient status, microclimate conditions, and fungal physiology at the time of each fruiting event.
+[[psilocybin-compound]] levels ranged from **3.2 to 13.3 mg/g dry weight** across all flushes. No consistent increasing or decreasing trend was observed across flushes. Psilocybin concentrations were highly variable, with individual flush measurements fluctuating considerably. This variability suggests that psilocybin biosynthesis is not simply a cumulative or depleting process but is influenced by factors such as substrate nutrient status, microclimate conditions, and fungal physiology at the time of each fruiting event.
 
 ### Psilocin Across Flushes
 

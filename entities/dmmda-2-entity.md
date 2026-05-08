@@ -74,7 +74,7 @@ At the time DMMDA and DMMDA-2 were synthesized, Shulgin envisioned a thorough st
 - [[mmda-2-compound-profile]] (the phenethylamine analogue)
 - mda-entity|MDA (the parent methylenedioxy compound)
 - mdma-entity|MDMA (the N-methyl derivative)
-- [[mda-compound-profile]]
+- [[ayahuasca-and-dmt-plant-medicine]]
 - [[2c-family-compounds-overview]]
 - [[mmda-3a-entity-pihkal]]
 - [[lsd-synthesis-history]]

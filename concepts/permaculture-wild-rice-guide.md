@@ -43,7 +43,7 @@ Wild rice is propagated by seed, which requires cold stratification. In nature, 
 
 ## Companion Planting
 
-In [[permaculture-design-principles-beginners]], wild rice occupies the emergent aquatic zone in [[permaculture-food-forest-design-principles]] pond systems. It provides food and habitat for waterfowl, rails, and other marsh birds, supporting [[permaculture-beekeeping]] through pollen production. Wild rice should be kept separate from cattails, which outcompete it for space and nutrients. It pairs well with wild rice grass (Glyceria) and pickerelweed in constructed wetland systems. As [[permaculture-wildlife-corridors]], wild rice serves as a food producer, wildlife habitat creator, and water filtration element.
+In [[permaculture-design-principles]], wild rice occupies the emergent aquatic zone in [[permaculture-food-forest-design-principles]] pond systems. It provides food and habitat for waterfowl, rails, and other marsh birds, supporting [[permaculture-beekeeping]] through pollen production. Wild rice should be kept separate from cattails, which outcompete it for space and nutrients. It pairs well with wild rice grass (Glyceria) and pickerelweed in constructed wetland systems. As [[permaculture-wildlife-corridors]], wild rice serves as a food producer, wildlife habitat creator, and water filtration element.
 
 ## Culinary Uses
 
@@ -79,7 +79,7 @@ Native Americans traditionally harvested wild rice by canoe, using knocking stic
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], wild rice represents a high-value [[permaculture-wildlife-corridors]] element in constructed wetland systems. It produces nutrient-dense food while simultaneously providing water filtration, wildlife habitat, and aesthetic beauty. In [[permaculture-food-forest-design-principles]], incorporating wild rice into pond or wetland zones creates productive aquatic polycultures. Wild rice systems demonstrate the permaculture principle of integrating rather than segregating — the rice, water, wildlife, and microorganisms form a self-regulating ecosystem.
+In [[permaculture-design-principles]], wild rice represents a high-value [[permaculture-wildlife-corridors]] element in constructed wetland systems. It produces nutrient-dense food while simultaneously providing water filtration, wildlife habitat, and aesthetic beauty. In [[permaculture-food-forest-design-principles]], incorporating wild rice into pond or wetland zones creates productive aquatic polycultures. Wild rice systems demonstrate the permaculture principle of integrating rather than segregating — the rice, water, wildlife, and microorganisms form a self-regulating ecosystem.
 
 ## Nutritional Value
 

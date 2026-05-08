@@ -134,7 +134,7 @@ hallucinogenic mushrooms:
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
-- [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]

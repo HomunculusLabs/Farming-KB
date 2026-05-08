@@ -50,7 +50,7 @@ Unlike many rhizobia, Frankia can be cultured independently on nutrient media as
 
 Actinorhizal plants are pioneer species in many ecosystems and are particularly important in nitrogen-poor or disturbed habitats. Species such as Alnus (alders) are common along riverbanks and in glacial forelands, where they contribute significantly to soil nitrogen accumulation. Casuarina species are used in agroforestry and land reclamation in tropical and subtropical regions. Hippophae (sea buckthorn) and Elaeagnus are valued for both nitrogen fixation and their edible fruits.
 
-Actinorhizal plants contribute substantially to the global [[nitrogen-cycle-in-soil]], with Alnus species alone estimated to fix up to 300 kg N per hectare per year in some temperate ecosystems.
+Actinorhizal plants contribute substantially to the global [[composting-and-soil-biology]], with Alnus species alone estimated to fix up to 300 kg N per hectare per year in some temperate ecosystems.
 
 Many actinorhizal hosts also form dual symbioses with [[mycorrhizal-fungi]], enhancing phosphorus uptake alongside nitrogen fixation.
 

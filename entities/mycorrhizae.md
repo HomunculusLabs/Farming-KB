@@ -26,7 +26,7 @@ Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and 
 
 ## Types of Mycorrhizae
 
-### Arbuscular Mycorrhizal Fungi (AMF)
+### Arbuscular [[mycorrhizal-fungi]] (AMF)
 
 Arbuscular mycorrhizae are the most common type, associated with approximately 72% of all land plants. The defining feature is the formation of **arbuscules** — highly branched tree-like structures inside cortical root cells that serve as the primary site of nutrient exchange. Key genera include *Rhizophagus* (formerly *Glomus*), *Funneliformis*, and * Gigaspora*. AMF are obligate biotrophs; they cannot complete their life cycle without a host plant. They produce large multinucleate spores (200–600 µm) in the soil and belong to the phylum Glomeromycota.
 
@@ -46,7 +46,7 @@ Orchid seeds lack endosperm and require a mycorrhizal fungus (usually *Rhizocton
 
 The core mycorrhizal trade involves:
 
-- **Phosphorus**: Fungal hyphae explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
+- **Phosphorus**: [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
 - **Nitrogen**: AMF access ammonium and amino acids; ECM fungi are particularly efficient at mining organic nitrogen from soil organic matter via protease secretion.
 - **Carbon**: The host plant supplies 10–20% of its photosynthetically fixed carbon (up to 30% in some ECM associations) to the fungal partner as glucose and fructose.
 - **Micronutrients**: Copper, zinc, and other trace elements are also transported to plants via fungal hyphae.

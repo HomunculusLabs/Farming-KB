@@ -118,6 +118,6 @@ No "method" is needed for loving nature. The only road to nature is non-action, 
 ## See Also
 
 - [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]

@@ -127,6 +127,6 @@ The 2C family includes numerous structural analogues with varying pharmacologica
 - [[pihkal-introduction-and-methodology]]
 - [[psychedelic-fungi-taxonomy]]
 - [[lsd]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[pihkal-introduction-and-methodology]]
 - nps

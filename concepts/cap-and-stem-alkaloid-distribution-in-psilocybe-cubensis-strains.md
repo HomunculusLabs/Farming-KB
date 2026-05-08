@@ -17,7 +17,7 @@ created: 2026-04-28
 
 # Cap and Stem Alkaloid Distribution in Psilocybe cubensis Strains
 
-Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three strains of [[psilocybe-cubensis]] and discovered a striking pattern: [[psilocybin]] is concentrated in the caps, while the small amounts of psilocin present in first-flush mushrooms are found predominantly or exclusively in the stems. This tissue-specific compartmentalization provides insight into the spatial organization of tryptamine metabolism in fungal fruiting bodies.
+Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three strains of [[psilocybe-cubensis]] and discovered a striking pattern: [[psilocybin-compound]] is concentrated in the caps, while the small amounts of psilocin present in first-flush mushrooms are found predominantly or exclusively in the stems. This tissue-specific compartmentalization provides insight into the spatial organization of tryptamine metabolism in fungal fruiting bodies.
 
 ## Analytical Results: First Flush Cap vs Stem
 
@@ -64,7 +64,7 @@ The fact that the M.R. and Ecuadorian strains showed the same pattern (caps high
 
 ## Implications for Consumption and Dosage
 
-The uneven distribution of [[alkaloid biosynthesis]] products across fruiting body tissues has practical implications for consumers and cultivators:
+The uneven distribution of [[alkaloid-biosynthesis]] products across fruiting body tissues has practical implications for consumers and cultivators:
 
 - **Caps are more potent per gram**: In most strains, caps contain significantly more psilocybin by dry weight than stems. Dried cap material is generally more potent than stem material for psilocybin content.
 - **Whole mushroom consumption averages the difference**: Eating whole fruiting bodies (caps and stems together) provides a blended alkaloid profile. Selective consumption of only caps or only stems would alter the [[psilocybin-psilocin-variation-flushes]] experienced.

@@ -117,7 +117,7 @@ relationship between earth, plant, and human being.
 
 ## See Also
 
-- [[fukuoka-textdoc-impoverished-national-agricultural-policy-farmer-decline]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 
@@ -127,6 +127,6 @@ relationship between earth, plant, and human being.
 
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-food-civilization-critique]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-natural-food-philosophy]]
 - [[fukuoka-textdoc-nature-of-food]]

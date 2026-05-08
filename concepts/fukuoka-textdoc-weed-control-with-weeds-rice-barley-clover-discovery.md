@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-One of the most counterintuitive yet practically significant innovations in Masanobu Fukuoka's natural farming system is the principle of weed control with weeds, and the discovery that white clover serves as the ideal living ground cover for both rice and barley fields.
+One of the most counterintuitive yet practically significant innovations in Masanobu Fukuoka's [[natural-farming-animal-husbandry]] system is the principle of weed control with weeds, and the discovery that white clover serves as the ideal living ground cover for both rice and barley fields.
 
 Rather than fighting weeds as enemies to be eradicated, Fukuoka learned to work with them, using competitive plant communities and strategic timing to manage weed populations without herbicides or cultivation. The introduction of white clover into his rotation system was the key breakthrough that made this approach viable on a commercial scale.
 
@@ -69,9 +69,9 @@ Clover also had the remarkable ability to go dormant under stress. During the ri
 
 ## Clover as Living Mulch
 
-The role of clover in Fukuoka's system extended far beyond simple weed suppression. Clover served as a living mulch that performed many of the functions normally requiring human labor or chemical inputs. It fixed nitrogen, reducing the need for fertilizer. It protected the soil from erosion during heavy rains. It maintained soil moisture during dry periods by shading the soil surface. It provided habitat for beneficial insects, including predators of crop pests.
+The role of clover in Fukuoka's system extended far beyond simple [[weed-suppression-strategies]]. Clover served as a living mulch that performed many of the functions normally requiring human labor or chemical inputs. It fixed nitrogen, reducing the need for fertilizer. It protected the soil from erosion during heavy rains. It maintained soil moisture during dry periods by shading the soil surface. It provided habitat for beneficial insects, including predators of crop pests.
 
-And when it was trampled or mowed to prevent it from overwhelming young crop seedlings, the decomposing clover biomass served as a green manure that fed soil microorganisms and crop plants alike. Fukuoka observed that fields with well-established clover ground cover developed a distinctive soil ecosystem. Earthworm populations increased dramatically, their burrows improving soil structure and water infiltration.
+And when it was trampled or mowed to prevent it from overwhelming young crop seedlings, the decomposing clover biomass served as a green manure that fed [[soil-microorganisms-natural-fertility]] and crop plants alike. Fukuoka observed that fields with well-established clover ground cover developed a distinctive soil ecosystem. Earthworm populations increased dramatically, their burrows improving [[soil-structure-and-aggregate-ecology]] and water infiltration.
 
 Beneficial fungi formed mycorrhizal associations with crop roots, extending the effective root system and improving nutrient uptake. The soil surface developed a soft, spongy texture that absorbed rainfall readily and resisted compaction.
 
@@ -79,7 +79,7 @@ Beneficial fungi formed mycorrhizal associations with crop roots, extending the 
 
 The primary challenge with clover was preventing it from competing too strongly with crop seedlings, particularly during the establishment phase. Young barley and rice plants were vulnerable to being smothered by vigorous clover growth. Fukuoka developed several techniques for managing this competition.
 
-The most important was timing: by broadcasting crop seeds at the right moment, he could ensure that crop seedlings emerged and established themselves before the clover began its most active growth phase. He also used the weight of rice straw mulch to suppress clover in the areas where crop seeds had been sown.
+The most important was timing: by broadcasting crop seeds at the right moment, he could ensure that crop seedlings emerged and established themselves before the clover began its most active growth phase. He also used the weight of rice [[straw-mulch-in-agriculture]] to suppress clover in the areas where crop seeds had been sown.
 
 The straw slowed clover growth while allowing crop seedlings to push through. In some cases, he trampled the clover lightly before sowing, damaging but not killing it, to give crop seedlings a head start. These techniques required careful observation and timing but no special equipment or inputs.
 
@@ -108,7 +108,6 @@ Only truly harmful weeds that threatened to overwhelm crops were actively manage
 Harmful weeds were managed through a combination of crop competition, strategic flooding, mowing, and the creation of unfavorable conditions for their growth. Fukuoka found that most problem weeds could be controlled by adjusting the timing of seeding, the depth of flooding, or the density of the crop stand. These adjustments required knowledge of the specific weed species and their life cycles, knowledge that Fukuoka acquired through years of careful observation.
 
 The practical lesson was that weed management in a natural farming system requires more knowledge of ecology and less knowledge of chemistry than conventional weed management. The farmer must understand how plants interact with each other and with their environment, rather than merely knowing which herbicide kills which weed.
-
 
 ## See Also
 

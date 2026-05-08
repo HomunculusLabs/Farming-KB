@@ -79,7 +79,7 @@ The rhizobia-legume symbiosis is the single most important biological nitrogen f
 
 ## Related
 
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-cell-membrane-transport-proteins]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]

@@ -144,6 +144,6 @@ to improve seedling establishment on nutrient-poor sites.
 - [[suillus-americanus]]
 - [[suillus-pungens]]
 - [[suillus-grevillei]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[russula-xerampelina]]
 - [[lactarius-deliciosus]]

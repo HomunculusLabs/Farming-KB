@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Ethics Foundation
 
-Ethics are the moral principles that guide action toward good and right outcomes and away from bad and wrong outcomes. In permaculture, ethics function as constraints on survival instincts and self-interest -- they are culturally evolved mechanisms for more enlightened self-interest, a more inclusive view of who and what constitutes "us," and a longer-term understanding of good and bad outcomes. This connects directly to [[permaculture-design]], [[permaculture-earthworks-guide]], and [[permaculture-energy-descent-planning]].
+Ethics are the moral principles that guide action toward good and right outcomes and away from bad and wrong outcomes. In permaculture, ethics function as constraints on survival instincts and self-interest -- they are culturally evolved mechanisms for more enlightened self-interest, a more inclusive view of who and what constitutes "us," and a longer-term understanding of good and bad outcomes. This connects directly to [[permaculture-design]], [[permaculture-water-harvesting-earthworks]], and [[permaculture-energy-descent-planning]].
 
 ## Ethics as Ecologically Functional
 
@@ -97,7 +97,7 @@ Permaculture design principles are conceptual tools for finding what is appropri
 ## See Also
 
 - [[permaculture-ethics]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-design]]
 - [[permaculture-energy-descent-planning]]
 - [[consumer-versus-conserver-society]]

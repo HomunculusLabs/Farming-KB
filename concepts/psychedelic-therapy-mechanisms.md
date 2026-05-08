@@ -106,7 +106,7 @@ distress and improve quality of remaining life.
 
 - [[psilocybin-psychotherapy]]
 - [[psychedelic-therapy-models-comparison]]
-- [[psychedelic-assisted-therapy-protocol]]
+- psychedelic assisted therapy protocol
 - [[psychedelic-therapy-set-and-setting]]
 - [[psilocybin-and-addiction-treatment]]
 - [[hofmann-lsd-psychiatric-research]]

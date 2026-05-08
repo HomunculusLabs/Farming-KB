@@ -141,46 +141,6 @@ Pruning is also your primary disease management tool. Follow these rules:
 
 1. **Remove all pruned material from the planting area.** Burn, chip, or compost (hot compost only — 140°F+ for several days). Do not leave cut canes on the ground as disease inoculum.
 2. **Sanitize pruning tools.** Wipe blades with 70% isopropyl alcohol or 10% bleach solution between plants, especially if any canes show disease symptoms.
-3. **Prune on dry days.** Avoid pruning when foliage is wet to minimize disease spread.
-4. **Remove wild brambles** within 600 feet of your planting. They harbor pests and diseases that spread to cultivated varieties.
-5. **Immediately remove and destroy** any canes showing orange rust, verticillium wilt, or virus symptoms. These diseases have no cure and can spread rapidly.
-
-## Annual Pruning Calendar (Summary)
-
-| Month | Action | Bramble Types |
-|-------|--------|---------------|
-| **Jun–Jul** | Tip-prune primocanes at 36–48" (erect blackberry) or 24–30" (black raspberry) | Erect blackberry, Black raspberry |
-| **Jul–Aug** | Remove spent floricanes after harvest; thin primocanes | All floricane-fruiting types |
-| **Aug–Oct** | Harvest primocane fruit; optionally mow after hard frost | Primocane-fruiting types |
-| **Feb–Mar** | Dormant pruning: shorten canes, thin, shorten laterals | All floricane-fruiting types |
-| **Feb–Mar** | Mow all canes to ground level | Primocane-fruiting (single-crop) |
-| **Feb–Mar** | Remove only upper fruited portions of canes | Primocane-fruiting (double-crop) |
-
-## Common Pruning Mistakes
-
-| Mistake | Consequence | Fix |
-|---------|------------|-----|
-| Skipping post-harvest floricane removal | Dense canopy, reduced airflow, disease, smaller berries | Remove spent canes immediately after harvest |
-| Over-thinning primocanes | Reduced yield potential | Keep the target density per foot of row |
-| Under-thinning primocanes | Crowded, shaded canopy; poor fruit quality | Be ruthless — thin to the strongest canes |
-| Tip-pruning trailing blackberries | Reduced fruiting surface, lower yield | Never tip-prune trailing types |
-| Waiting too long to prune | Difficult to distinguish floricanes from primocanes | Prune within 1–2 weeks of final harvest |
-| Not removing diseased canes | Disease spreads to healthy canes | Inspect during every pruning session; remove immediately |
-| Using dull or dirty tools | Ragged cuts that invite infection; cross-contamination | Sharpen blades annually; sanitize between plants |
-
-## Maximize Yield: The Complete Checklist
-
-- [ ] **Spring**: Apply balanced fertilizer to support primocane growth
-- [ ] **Summer**: Tip-prune erect blackberry and black raspberry primocanes at recommended height
-- [ ] **Post-harvest**: Cut all fruited floricanes to ground level within 2 weeks
-- [ ] **Post-harvest**: Thin primocanes to target density; remove weak/diseased canes
-- [ ] **Late winter**: Dormant pruning — shorten canes, manage laterals, final thinning
-- [ ] **Late winter**: For primocane types, mow to ground level (single crop) or manage double-crop canes
-- [ ] **Year-round**: Remove all wild brambles nearby; sanitize tools; remove diseased material
-- [ ] **Year-round**: Maintain trellis system; keep mulch fresh; monitor for pests and diseases
-
-Following this pruning program consistently will maximize your bramble yield, improve fruit quality, extend the productive life of your planting, and keep disease pressure manageable for years to come.
-
 ## See Also
 
 - [[query-what-are-the-best-fig-varieties-for-different-climates]]

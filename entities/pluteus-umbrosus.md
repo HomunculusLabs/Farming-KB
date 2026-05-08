@@ -12,8 +12,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Pluteus umbrosus** is a species of neurotropic mushroom in the family Pluteaceae. It is one of 6 species of *Pluteus* documented as containing or suspected to contain psilocybin and related indole alkaloids in the worldwide survey of neurotropic fungi by Guzmán, Allen & Gartz (1998), which cataloged 216 species across four major groups of psychoactive fungi. The species is notable for its dark, shadowy cap coloration and its growth on dead hardwood, distinguishing it ecologically from many other psilocybin-containing genera.
 
-
-
 ## Taxonomy
 
 The genus *Pluteus* was established by the Swedish mycologist Elias Magnus Fries and contains approximately 300 described species worldwide. It is the most commonly encountered genus in the family Pluteaceae, with most species being wood-inhabiting saprotrophs. The genus name is derived from the Latin "pluteus," meaning a shelf or board, possibly referring to the shelf-like growth habit of some species.
@@ -22,15 +20,11 @@ Unlike most other psilocybin-containing genera (such as Psilocybe, Panaeolus, an
 
 *Pluteus* species with confirmed or suspected psychoactive properties documented in the Guzmán, Allen & Gartz survey include [[pluteus-salicinus]], [[pluteus-glaucotinctus]], and [[pluteus-romellii]], among others. The specific epithet "umbrosus" is derived from Latin, meaning shadowy or shaded, referring to the dark cap coloration of this species.
 
-
-
 ## Distribution
 
 *Pluteus umbrosus* has a distribution primarily in temperate and boreal forest regions of the Northern Hemisphere. The genus *Pluteus* as a whole is cosmopolitan, with neurotropic species documented in Europe, North America, and parts of Asia. *P. umbrosus* is found growing on dead hardwood in forested environments, particularly in old-growth and mature forests where substantial amounts of coarse woody debris are available.
 
 The distribution of neurotropic Pluteus species is less concentrated in tropical regions compared to genera like Psilocybe and Panaeolus, with most documented species occurring in temperate forest zones. This temperate distribution pattern may reflect the greater availability of suitable hardwood substrates in these regions rather than climatic preferences per se.
-
-
 
 ## Description
 
@@ -42,15 +36,11 @@ The stipe is central, typically 3 to 7 cm long and 3 to 8 mm thick, often white 
 
 The spore print is pink to salmon-pink, which immediately distinguishes Pluteus from all other psilocybin-containing genera. Spores are broadly elliptical to globose, smooth, and typically 6 to 8 µm in length. Microscopic examination reveals the presence of cheilocystidia (sterile cells on the gill edges) that are often flask-shaped (lecythiform) or with projecting apical tips — features important for species-level identification within the genus.
 
-
-
 ## Habitat
 
 *Pluteus umbrosus* is a saprotrophic wood-decomposing fungus, growing exclusively on dead hardwood logs, stumps, and branches. It shows a preference for well-decayed hardwood substrates such as oak, beech, ash, and elm, and is typically found in shaded, moist forest environments where woody debris is abundant. The species can be found in a variety of forest types including deciduous broadleaf forests, mixed woodlands, and occasionally in parkland or urban settings where mature hardwood trees are present.
 
 This strict association with dead wood is typical of the genus and distinguishes Pluteus from dung-inhabiting (coprophilous) genera like Panaeolus and Copelandia or terrestrial genera like many Psilocybe species. The wood-inhabiting lifestyle means that Pluteus species are typically found in forested habitats rather than open grasslands or pastures, and they often fruit during the cooler, wetter months when moisture conditions in dead wood are optimal for fungal metabolism.
-
-
 
 ## Chemistry
 
@@ -58,19 +48,13 @@ This strict association with dead wood is typical of the genus and distinguishes
 
 The concentrations of psychoactive compounds in *Pluteus* species are generally variable and often lower than those found in many Psilocybe species. The bluing reaction upon bruising may be subtle or absent in some Pluteus species, making chemical identification based on visual cues alone unreliable. Chemical confirmation using chromatographic methods is necessary to definitively establish the presence and concentration of psychoactive alkaloids in any given specimen.
 
-
-
 ## Ecological Role
 
 As a saprotrophic decomposer of hardwood, *P. umbrosus* plays an important ecological role in forest nutrient cycling, breaking down cellulose and lignin in dead wood and returning carbon, nitrogen, and mineral nutrients to the soil. This ecological function is shared with many other wood-inhabiting fungi but is less commonly associated with psychoactive species, most of which are either coprophilic (dung-inhabiting) or terrestrial. The ability of Pluteus species to decompose wood places them in a different ecological niche from most other neurotropic fungi, potentially explaining why they are less commonly encountered by foragers seeking psychoactive mushrooms.
 
-
-
 ## Identification and Safety
 
 The pink spore print of *Pluteus* is the most reliable field characteristic for identifying the genus. This feature is critical for distinguishing it from lookalikes in other genera. However, within the genus, accurate species identification often requires microscopic examination of cystidia, cheilocystidia, and pleurocystidia features. Foragers should note that while *P. umbrosus* contains psilocybin, accurate identification to species level is essential and should not be attempted based on macroscopic features alone. The genus Volvariella also has pink spore prints and free gills, though Volvariella species typically have a volva (cup-like structure) at the base of the stipe, which Pluteus lacks.
-
-
 
 ## Related Species
 
@@ -79,8 +63,6 @@ The pink spore print of *Pluteus* is the most reliable field characteristic for 
 - [[pluteus-romellii]] — European species with documented psychoactive properties
 - [[volvariella-volvacea]] — the paddy straw mushroom, shares pink spore print but has a volva
 
-
-
 ## See Also
 
 - [[pluteus-salicinus]]
@@ -88,6 +70,6 @@ The pink spore print of *Pluteus* is the most reliable field characteristic for 
 - [[pluteus-salicinus-profile]]
 
 - Pluteus — genus overview
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - Pluteaceae — family overview
 - [[distribution-of-neurotropic-fungi]] — Guzmán, Allen & Gartz source survey

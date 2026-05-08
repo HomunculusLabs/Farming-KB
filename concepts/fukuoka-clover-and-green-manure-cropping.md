@@ -108,7 +108,7 @@ The green manure approach thus serves not only as a replacement for chemical nit
 - [[fukuoka-white-clover-cover-crop-system]]
 - [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-ground-cover-strategy]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[cover-crops-green-manures]]
 - [[green-manure-cover-crops]]
 - [[fukuoka-crop-rotation-and-natural-weeds]]

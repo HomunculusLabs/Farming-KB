@@ -85,7 +85,7 @@ Endophytes mediate plant-herbivore interactions, influence plant community compo
 - [[fungal-nematode-interactions-biodiversity]]
 - [[mycorrhizal-fungi-bioremediation]]
 - [[microfungal-species-diversity-large-areas]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 
 Source: Comprehensive review of fungal biodiversity literature
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

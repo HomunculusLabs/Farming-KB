@@ -92,7 +92,7 @@ dehydrogenase.
 
 Muscarine poisoning, caused by species such as Inocybe and Clitocybe,
 produces symptoms similar to organophosphate poisoning: sweating, salivation,
-lacrimation, blurred vision, and respiratory distress. [[psilocybin]]-containing
+lacrimation, blurred vision, and respiratory distress. [[psilocybin-compound]]-containing
 mushrooms cause hallucinations and altered consciousness but are rarely
 physically dangerous.
 

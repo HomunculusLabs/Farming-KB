@@ -135,7 +135,7 @@ along with myristicin and other compounds.
 
 ## See Also
 - [[myristicin-entity]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[safrole]]
 - eugenol
-- [[psilocybin]]
+- [[psilocybin-compound]]

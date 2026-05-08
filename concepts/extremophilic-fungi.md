@@ -122,7 +122,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 - Melanin-based radioprotection research
 
 ## Related
-- [[fungal-biodiversity-soil-habitats]] — for soil fungal communities
+- [[the-soil-food-web]] — for soil fungal communities
 - [[fungal-biodiversity-tropical-ecosystems]] — for comparison with tropical diversity
 - [[cotter-mycoremediation-overview]] — for fungal remediation applications
 - [[fungal-biology-fundamentals]]

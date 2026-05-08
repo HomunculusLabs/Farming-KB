@@ -124,7 +124,7 @@ chemical fungicides for powdery mildew control.
 ## See Also
 Related: [[powdery-mildews-erysiphaceae-diversity-host-range]], [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]], [[cervantes-powdery-mildew-prevention-treatment]]
 
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - [[fungal-plant-diseases]]
 - erysiphe
 - sphaerotheca

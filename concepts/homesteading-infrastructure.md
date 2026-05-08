@@ -115,7 +115,7 @@ Zone 5: Wildlife area, observation, reference ecosystem
 1. Water system (roof catchment, storage, distribution)
 2. Composting system (bins, tools, animal manure management)
 3. Animal housing and fencing
-4. Garden beds and [[no-till-gardening-method]] setup
+4. Garden beds and [[composting-and-soil-biology]] setup
 5. [[food-forest-design]] planting
 6. Food preservation infrastructure
 7. Energy systems (as budget allows)

@@ -146,5 +146,5 @@ Supercropping works well in combination with other training methods:
 - [[cervantes-pruning-training]]
 - [[sea-of-green]]
 - [[screen-of-green]]
-- [[cervantes-plant-stress-recovery]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-vegetative-phase]]

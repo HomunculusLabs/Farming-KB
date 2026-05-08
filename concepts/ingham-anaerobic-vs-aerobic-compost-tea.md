@@ -147,7 +147,3 @@ These design failures, not limitations of compost tea, explain many negative res
 - [[fungal-decomposition-resource-quality-determinants]]
 - [[bacterial-vs-fungal-compost-teas]]
 - [[humic-acids-soil-biology-ingham]]
-
-## See Also
-
-- [[aerobic-vs-anaerobic-tea-benefits-comparison]]

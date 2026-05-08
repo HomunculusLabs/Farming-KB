@@ -109,7 +109,7 @@ Propagation is primarily by seed, which germinates within 2–4 weeks when fresh
 
 ## See Also
 
-- [[eugenia-caryophyllata]]
+- eugenia caryophyllata
 - pimenta dioica
 - [[cinnamomum-verum]]
 - [[zingiber-officinale]]

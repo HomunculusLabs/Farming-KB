@@ -94,7 +94,7 @@ For commercial application, several microorganisms have received EPA approval in
 - Pseudomonas (5 species, 5 isolates)
 - Streptomyces griseoviridis (1 isolate)
 
-See also: [[mycopesticides-fungal-biocontrol]], [[mycoparasitic-fungi-biocontrol-agents]]
+See also: [[mushroom-cultivation-fundamentals]], [[mycoparasitic-fungi-biocontrol-agents]]
 
 ## Mode of Action and Safety
 

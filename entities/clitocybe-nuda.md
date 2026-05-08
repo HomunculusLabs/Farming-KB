@@ -145,5 +145,5 @@ In permaculture and forest garden systems, *C. nuda* offers several valuable fun
 - [[agaricus-campestris]] — Meadow mushroom, another autumn saprotroph
 - [[tricholoma-terreum]] — Truffle-like woodland mushroom with similar earthy flavor
 - [[lepiota-procera]] — Parasol mushroom, woodland edible
-- [[coprinus-comatus]] — Shaggy mane, autumn grassland edible
+- [[coprinus-comatus-detailed]] — Shaggy mane, autumn grassland edible
 - [[calvatia-gigantea]] — Giant puffball, another distinctive autumn mushroom

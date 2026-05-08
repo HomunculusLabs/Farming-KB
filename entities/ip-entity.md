@@ -117,7 +117,7 @@ The compound's effects profile -- with its emphasis on emotional processing and 
 
 - [[escaline-entity]] -- 3,5-dimethoxy-4-ethoxyphenethylamine (shorter chain)
 
-- [[proscaline-entity]] -- 3,5-dimethoxy-4-propoxyphenethylamine (linear propyl)
+- [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine (linear propyl)
 
 - [[im-entity]] -- isomescaline (different positional isomer)
 

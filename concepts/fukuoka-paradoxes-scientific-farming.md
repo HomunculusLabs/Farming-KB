@@ -121,7 +121,7 @@ have done nothing but torment and squeeze the life out of the farmer.
 
 ## See Also
 
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-critique-laws-agricultural-science]]
 - [[fukuoka-straw-mulch-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

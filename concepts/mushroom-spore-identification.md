@@ -19,7 +19,7 @@ in mushroom taxonomy and field mycology. Spore prints provide
 essential information for narrowing down the genus and species
 of an unknown mushroom, serving as a primary diagnostic feature
 alongside the bluing reaction, cap characteristics, and habitat
-data. For [[psilocybin]]-containing mushrooms, spore color is
+data. For [[psilocybin-compound]]-containing mushrooms, spore color is
 particularly important in the initial identification process.
 
 ## The Spore Print Technique
@@ -120,7 +120,7 @@ spore prints contain genetic material from potentially millions
 of individual spores, meaning that cultivation from spores
 will produce genetically variable offspring. For maintaining
 specific genetic lines, tissue culture from a single fruiting
-body is preferred. See [[psilocybin-mushroom-cultivation-basics]] for methods of working with spores in
+body is preferred. See [[mushroom-cultivation-fundamentals]] for methods of working with spores in
 cultivation contexts.
 
 ## Spore Dispersal in Nature

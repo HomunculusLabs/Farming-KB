@@ -77,7 +77,7 @@ AACT is a liquid extract of compost, actively aerated to multiply beneficial mic
 - **Vegetables/flowers**: 15 gal per acre, every 10-14 days
 - **Orchard/trees**: 10-15 gal per acre, spring and fall
 - **Indoor beds**: 1-2 cups per square foot, monthly
-- Apply to [[no-till-gardening-method]] beds during watering
+- Apply to [[composting-and-soil-biology]] beds during watering
 
 ### Foliar Spray
 - 5 gal per acre per 6 feet of canopy height

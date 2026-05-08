@@ -120,7 +120,7 @@ hallucinogenic plants.
 
 ## Related Topics
 
-- [[hallucinogenic-plants-of-the-world]] - worldwide overview
+- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview
 - [[hallucinogenic-plants-history-ethnobotany]] - historical survey
 - [[old-world-hallucinogenic-plants-overview]] - Old World plants
 - [[us-native-hallucinogenic-dissociative-plants]] - North American

@@ -106,7 +106,7 @@ Mulching is surface composting -- spreading organic material over the soil as gr
 
 - [[soil-food-web-structure]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-raised-beds-systems]]
 
 ## Related

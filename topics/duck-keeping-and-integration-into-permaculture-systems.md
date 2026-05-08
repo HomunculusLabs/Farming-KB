@@ -107,7 +107,7 @@ Ducks need protection from predators and extreme weather, but their housing requ
 1. **Simple hoop coop**: PVC or cattle panel hoop covered with tarps — cheap, portable, well-ventilated
 2. **Mobile duck tractor**: A-frame or flat-deck design on skids — moved daily across pasture or garden beds
 3. **Stationary coop with run**: Traditional coop with attached fenced area — suitable for small flocks
-4. **Night house only**: In mild climates, ducks may only need a secure lockup at night if they free-range during the day
+4. **Night house only**: In mild climates, ducks may only need a secure lockup at night if they [[free-range-poultry-forage-design-mollison]] during the day
 
 ### Bedding Management
 
@@ -154,10 +154,10 @@ A well-designed duck pond serves multiple functions: water for ducks, habitat fo
 **Constructed mini-pond**:
 - 50–200 gallon stock tank or rubber liner pond
 - Drain and refill weekly (or use the nutrient-rich water on garden beds)
-- Add aquatic plants for filtration and shade
+- Add [[aquatic-plants-and-pond-ecosystems]] for filtration and shade
 - Position downhill from garden areas for gravity-fed irrigation
 
-**Key design principle**: Duck ponds should be part of a larger water management system, not isolated. Pond overflow should feed into swales, greywater systems, or irrigated garden zones.
+**Key [[design-principle-integration]]**: Duck ponds should be part of a larger water management system, not isolated. Pond overflow should feed into swales, [[greywater-systems-detailed]], or irrigated garden zones.
 
 ### Water Quality Management
 
@@ -205,9 +205,9 @@ Even with excellent forage, supplemental feed ensures adequate nutrition:
 - **Oats**: Good energy source; can replace up to 25% of grain ration
 - **Peas and lentils**: Excellent protein supplement; ducks love them
 - **Kitchen scraps**: Vegetable trimmings, fruit, bread (moderate amounts)
-- **Black soldier fly larvae**: 40%+ protein; excellent supplemental feed
+- **[[black-soldier-fly-larvae-as-feed]] larvae**: 40%+ protein; excellent supplemental feed
 - **Duckweed**: 35–40% protein; can be grown in duck ponds for self-feeding
-- **Azolla**: Nitrogen-fixing aquatic fern; 25–30% protein
+- **Azolla**: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] aquatic fern; 25–30% protein
 - **Mealworms**: High protein treat; can be farmed at home
 - **Shell grit**: Free-choice oyster shell for calcium (layers only)
 
@@ -221,7 +221,7 @@ A duck tractor is a mobile enclosure that concentrates ducks' foraging and ferti
 
 **Uses**:
 - **Pre-planting slug control**: Run the tractor over beds 1–2 weeks before planting — ducks will decimate slug populations
-- **Post-harvest cleanup**: Ducks consume fallen fruit, pest insects, and weed seeds after harvest
+- **[[post-harvest-handling-marketing-mushrooms]] cleanup**: Ducks consume fallen fruit, pest insects, and weed seeds after harvest
 - **Fertilization**: Duck manure applied directly to beds provides nitrogen; move before planting to avoid burning
 - **Weed management**: Ducks eat many weed seedlings and young weeds
 
@@ -309,7 +309,7 @@ Advanced permaculture designs combine ducks with:
 
 ### Niacin Deficiency in Ducklings
 
-This is the most common nutritional issue in duck keeping. Ducklings require 2–3× more niacin than chicks. Signs appear at 2–4 weeks:
+This is the most common nutritional issue in [[duck-keeping-guide-detailed]]. Ducklings require 2–3× more niacin than chicks. Signs appear at 2–4 weeks:
 
 - Stiff, awkward gait
 - Bowing of legs

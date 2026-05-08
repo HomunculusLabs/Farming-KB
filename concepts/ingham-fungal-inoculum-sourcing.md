@@ -18,7 +18,7 @@ Dr. Elaine Ingham emphasizes that the most critical missing component in most ag
 
 Fungal hyphae are physically broken by tillage. Every pass with a plow, rototiller, or disc severs the filamentous networks that fungi have built through the soil. Chemical fertilizers and pesticides further reduce fungal populations by eliminating the organisms on which fungi depend or by directly killing sensitive species. Ingham notes that compost tea "provides the inoculum of fungi, since that is most often what is lost with conventional tillage and chemical applications."
 
-The result is that most agricultural soils are bacterial-dominated -- 75% of the time, according to Ingham. While annual vegetables and row crops can tolerate bacterial soils, perennials, trees, and shrubs require fungal-dominated soil food webs for optimal health. Even annual crops benefit from elevated fungal biomass for disease resistance and [[nutrient-retention-soil-food-web]].
+The result is that most agricultural soils are bacterial-dominated -- 75% of the time, according to Ingham. While annual vegetables and row crops can tolerate bacterial soils, perennials, trees, and shrubs require fungal-dominated soil food webs for optimal health. Even annual crops benefit from elevated fungal biomass for disease resistance and [[composting-and-soil-biology]].
 
 ## Identifying Beneficial Fungi in Compost
 

@@ -1,5 +1,5 @@
 ---
-title: "Bauhaus Movement"
+title: "bauhaus movement"
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
@@ -148,6 +148,3 @@ typography
 international style
 
 ## Related Topics
-- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
-- [[permaculture-designers-manual-house-design-principles]]
-- [[permaculture-bioregional-architecture]]

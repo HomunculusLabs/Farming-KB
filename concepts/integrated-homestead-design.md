@@ -74,7 +74,7 @@ The kitchen is the processing hub where raw products become preserved food, medi
 Energy flows from sun through photosynthesis into biomass, then into soil carbon.
 - **[[homestead-energy-conservation]]** powers the homestead with minimal grid dependence.
 - **[[greenhouse-design]]** captures solar energy via passive solar design and thermal mass.
-- **[[no-till-gardening-method]]** and [[regenerative-agriculture-history]] sequester carbon — 1% OM increase stores ~20,000 gal water/acre.
+- **[[composting-and-soil-biology]]** and [[regenerative-agriculture-history]] sequester carbon — 1% OM increase stores ~20,000 gal water/acre.
 - **[[cover-cropping-guide]]** and [[food-forest-design]] maintain living roots year-round.
 - **[[composting-systems]]** stabilizes carbon that would otherwise off-gas.
 ## The Zone Integration Map
@@ -85,7 +85,7 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 - [[dairy-and-cheesemaking]], [[food-preservation-canning]], [[herbal-medicine]] processing areas
 - [[knf-preparations]] brewing area (FPJ, FAA, LAB fermentation)
 ### Zone 1 — Intensive Garden (Daily Visit)
-- Annual vegetables with [[companion-planting-reference]], [[no-till-gardening-method]] beds
+- Annual vegetables with [[companion-planting-reference]], [[composting-and-soil-biology]] beds
 - [[greenhouse-design]], compost bins, seedling nursery
 - Duck pond, rain barrels
 ### Zone 2 — Animals & Perennials (Daily-Weekly)
@@ -104,7 +104,7 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 ## Key Synergies (Quick Reference)
 | System A | System B | Connection |
 |----------|----------|------------|
-| [[duck-keeping]] | [[cannabis-pest-management]] | Ducks eat slugs, snails, gnat larvae |
+| [[duck-keeping]] | cannabis pest management | Ducks eat slugs, snails, gnat larvae |
 | [[goat-keeping]] | [[food-forest-design]] | Browse understory, control brush, fertilize |
 | [[beekeeping-basics]] | [[orchard-management]] | Pollination increases yield 20-50% |
 | [[mushroom-cultivation-basics]] | [[orchard-management]] | Pruning waste → mushroom substrate |
@@ -120,7 +120,7 @@ If you can only close a few loops, these have the highest impact:
 2. **Kitchen scraps → bokashi/vermicompost → soil** — Closes the waste loop. [[bokashi]] handles what [[vermicomposting]] can't.
 3. **Rainwater → garden/animals** — Reduces well dependence 30-60%. ([[water-management]])
 4. **Cover crops → nitrogen + organic matter** — Free fertilizer. Never leave soil bare. ([[cover-cropping-guide]])
-5. **Ducks in garden rotation** — Chemical-free pest control. ([[duck-keeping]], [[cannabis-pest-management]])
+5. **Ducks in garden rotation** — Chemical-free pest control. ([[duck-keeping]], cannabis pest management)
 6. **Mushrooms on waste substrate** — Straw/sawdust → food + compost input. ([[mushroom-cultivation-basics]])
 7. **KNF inputs from on-farm materials** — Self-made from weeds, eggshells, fish, rice. ([[knf-preparations]])
 ## Startup Sequence
@@ -128,7 +128,7 @@ If you can only close a few loops, these have the highest impact:
 2. **Compost** ([[composting-systems]], [[vermicomposting]])
 3. **Animals** ([[duck-keeping]] first, then [[goat-keeping]])
 4. **KNF/EM** ([[indigenous-microorganisms-imo]], [[knf-preparations]], or [[jadam-methods]])
-5. **Garden & food forest** ([[no-till-gardening-method]], [[food-forest-design]], [[orchard-management]])
+5. **Garden & food forest** ([[composting-and-soil-biology]], [[food-forest-design]], [[orchard-management]])
 6. **Mushrooms** ([[mushroom-cultivation-basics]])
 7. **Cannabis** ([[cannabis-living-soil-guide]])
 8. **Dairy** ([[dairy-and-cheesemaking]])
@@ -144,4 +144,4 @@ See [[homestead-startup-checklist]] for detailed phased plan with budgets. See [
 | Irrigation from rain/pond | 0% | 30-50% | 70%+ |
 | KNF inputs self-made | 0% | 50% | 90%+ |
 | Cover crops on bare soil | 0% | 50% | 90%+ |
-The goal: reducing external inputs while increasing yields, soil health, and ecosystem function. See [[regenerative-agriculture-history]] and [[permaculture-principles]]. See [[permaculture-zones-in-practice]] for zone-by-zone element placement details. See [[permaculture-design-methods]] for the full analytical design process, [[keyline-design]] for landscape water management, and [[edge-effect-and-microclimate]] for maximising productivity at system boundaries.
+The goal: reducing external inputs while increasing yields, soil health, and ecosystem function. See [[regenerative-agriculture-history]] and [[permaculture-principles]]. See [[permaculture-zones-in-practice]] for zone-by-zone element placement details. See [[permaculture-design]] for the full analytical design process, [[keyline-design]] for landscape water management, and [[edge-effect-and-microclimate]] for maximising productivity at system boundaries.

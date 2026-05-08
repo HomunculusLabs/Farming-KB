@@ -119,7 +119,7 @@ morphological features.
 - [[psilocybe-azurescens]]
 - [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[baeocystin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 ## Cultivation
 

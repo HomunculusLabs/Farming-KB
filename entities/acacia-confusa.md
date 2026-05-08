@@ -1,5 +1,5 @@
 ---
-title: "Acacia confusa"
+title: "acacia confusa"
 created: 2026-04-28
 type: species
 tags: [species, leguminosae, dmt-source, nitrogen-fixer, permaculture, ethnobotanical, asian-plant]
@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324678/"
-  - "https://pfaf.org/user/Plant.aspx?LatinName=Acacia+confusa"
+  - "https://pfaf.org/user/Plant.aspx?LatinName=[[acacia]]+confusa"
 ---
 # Acacia confusa
 Acacia confusa, commonly known as small Philippine acacia, Formosan
@@ -15,7 +15,7 @@ acacia, or taiwan acacia, is a perennial tree in the family Fabaceae
 (subfamily Mimosoideae), native to Southeast Asia and widely naturalized
 across tropical and subtropical regions. The tree is significant both
 ecologically and ethnobotanically: its root bark contains high
-concentrations of N,N-dimethyltryptamine (DMT) and related
+concentrations of N,N-[[dimethyltryptamine]] (DMT) and related
 tryptamine alkaloids, making it one of the most important botanical
 sources of DMT globally. In permaculture and agroforestry, Acacia
 confusa is valued as a fast-growing nitrogen fixer, erosion controller,
@@ -96,8 +96,8 @@ tissue used for extraction.
 ## Ethnobotanical and Cultural Significance
 - Despite its high DMT content, there is no evidence of traditional
   indigenous use of Acacia confusa as an entheogen — this distinguishes
-  it from other DMT-containing plants like Psychotria viridis or
-  Diplopterys cabrerana
+  it from other DMT-containing plants like [[psychotria-viridis]] or
+  [[diplopterys-cabrerana]]
 - The species gained prominence in the global ethnobotanical community
   in the 2000s following online publication of its alkaloid profile
 - In Taiwan, the tree is commonly planted for soil stabilization and
@@ -118,7 +118,7 @@ tissue used for extraction.
   Philippines
 ## Permaculture Applications
 - **Nitrogen-Fixing Overstory:** Provides dappled shade and nitrogen
-  for understory crops in food forest systems
+  for understory crops in [[food-forest]] systems
   quickly, adding nitrogen-rich organic matter to soil
 - **Fodder:** Young leaves and pods are palatable to livestock (though
   seeds contain tryptamines)
@@ -148,6 +148,3 @@ tissue used for extraction.
 - [[acacia-acuminata]]
 
 - [[agroforestry]]
-- [[bufotenin]]
-- [[bufotenine]]
-- [[mimosa]]

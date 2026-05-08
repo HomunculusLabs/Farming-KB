@@ -70,13 +70,13 @@ The filamentous growth habit of fungi provides advantages in soil environments, 
 
 Engineered in situ bioremediation of petroleum-contaminated sites has received wide acclaim because it requires little energy, preserves soil structure, and can detoxify contaminants. Complete mineralization of hydrocarbons to innocuous end products is preferred compared to partial degradation to metabolites whose fate and effects are unknown. Rapid degradation of petroleum occurs under aerobic conditions, though anaerobic degradation pathways also exist.
 
-Fungal cultures inoculated on ceramic support media have shown ability to degrade vapor-phase volatile organic compounds as their sole carbon and energy sources. This biofilter approach combines physical capture of volatile hydrocarbons with biological oxidation, offering a treatment solution for air emissions from petroleum-contaminated sites. See [[biosurfactants-in-bioremediation]] for field-scale applications.
+Fungal cultures inoculated on ceramic support media have shown ability to degrade vapor-phase volatile organic compounds as their sole carbon and energy sources. This biofilter approach combines physical capture of volatile hydrocarbons with biological oxidation, offering a treatment solution for air emissions from petroleum-contaminated sites. See [[bioremediation-using-fungi]] for field-scale applications.
 
 ## See Also
 
-[[biosurfactants-in-bioremediation]]
+[[bioremediation-using-fungi]]
 
-[[biosurfactants-in-bioremediation]]
+[[bioremediation-using-fungi]]
 
 [[mycoremediation-of-pahs]]
 

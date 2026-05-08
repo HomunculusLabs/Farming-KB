@@ -64,7 +64,7 @@ holzer roundwood shelters earth cellars | [[sepp-holzer-livestock-integration]] 
 
 - [[ben-law]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.

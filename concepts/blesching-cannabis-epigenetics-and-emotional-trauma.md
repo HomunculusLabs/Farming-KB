@@ -1,5 +1,5 @@
 ---
-title: Epigenetics, Emotional Trauma, and the Endocannabinoid System
+title: Epigenetics, Emotional Trauma, and the [[endocannabinoid-system]]
 created: 2026-04-28
 tags: [epigenetics, emotional-trauma, endocannabinoid-system,
   mind-body-medicine, cannabis, cellular-memory,
@@ -110,7 +110,7 @@ conditioning and extinction — the goal in PTSD therapies.
 
 An Ottawa study (2009) reported cannabis removed fear responses to
 stressors such as nightmares and flashbacks. Forty-seven PTSD patients
-receiving Nabilone showed 72% experienced cessation or significant
+receiving [[nabilone]] showed 72% experienced cessation or significant
 reduction in nightmare intensity.
 
 Blesching identifies four approaches to mind-body medicine:
@@ -148,9 +148,3 @@ effectively changes gene expression.
 - [[blesching-cannabis-emotional-intelligence-healing-framework]]
 
 - [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]
-
-- [[blesching-cannabis-endocannabinoid-mind-body]]
-- [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
-- [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
-- [[blesching-cannabis-ptsd-anxiety]]
-- [[endocannabinoid-system]]

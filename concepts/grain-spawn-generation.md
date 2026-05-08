@@ -148,4 +148,3 @@ generations preserves both purity and vigor.
 - [[mushroom-contamination-vectors]] for preventing contamination
 - [[mushroom-sterile-technique]] for laboratory protocols
 - [[enriched-sawdust-cultivation]] for the next stage after grain spawn
-- [[growing-gourmet-nutrified-agar-media]] for the stage before grain spawn

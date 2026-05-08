@@ -126,7 +126,7 @@ further enriching the soil.
 
 ## Related
 
-- [[solomon-capillarity-and-soil-moisture-movement]] Concepts
+- solomon capillarity and soil moisture movement Concepts
 
 - [[solomon-compost-organic-matter]]
 - [[solomon-carbon-nitrogen-ratios]]

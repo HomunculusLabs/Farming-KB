@@ -128,7 +128,7 @@ maintain the genetics indefinitely through cloning.
 
 ## Related
 
-- [[green-cannabis-grow-bible-seed-germination-methods]] Pages
+- green cannabis grow bible seed germination methods Pages
 
 - [[cannabis-cloning]]
 - [[cannabis-cloning-guide]]

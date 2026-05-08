@@ -124,9 +124,9 @@ Biochar works synergistically with:
 - **Mycorrhizal inoculants**: Biochar provides substrate for fungal colonization
 - **Rock minerals**: Biochar can hold mineral nutrients in plant-available forms
 - [[green-manure-crops]]: Cover crops add organic matter that works with biochar's nutrient-holding capacity
-- [[no-till-gardening-method]]: Biochar is most effective in undisturbed soils where pore structure is preserved
+- [[composting-and-soil-biology]]: Biochar is most effective in undisturbed soils where pore structure is preserved
 ## Related Topics
-- [[no-till-gardening-method]] for systems that preserve biochar's soil structure benefits
+- [[composting-and-soil-biology]] for systems that preserve biochar's soil structure benefits
 - [[green-manure-crops]] for pairing biochar with organic fertility sources
 - [[rainwater-harvesting-systems]] for maximizing water retention with biochar
 - [[soil-food-web-nutrient-cycling]] for general soil health context

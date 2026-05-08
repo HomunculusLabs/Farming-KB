@@ -86,7 +86,7 @@ The manual emphasises that vines can produce significant mulch biomass, support 
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-tropical-climates]]
 - [[permaculture-designers-manual-temperate-climate-design]]
-- [[bamboo-species-guide]]
+- bamboo species guide
 
 ## Source
 

@@ -148,4 +148,3 @@ established.
 - [[taraxacum-officinale]]
 - [[urtica-dioica]]
 - [[moringa-oleifera]]
-- [[glycyrrhiza-glabra]]

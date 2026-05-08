@@ -132,7 +132,7 @@ areas is discouraged in favor of native groundcover alternatives.
 - [[catharanthus-roseus]]
 - [[hypericum-perforatum]]
 - [[valeriana-officinalis]]
-- [[rosmarinus-officinalis]]
+- [[rosmarinus-officinalis-entity]]
 - [[glycyrrhiza-glabra]]
 - [[mentha-piperita]]
 - [[passiflora-incarnata]]

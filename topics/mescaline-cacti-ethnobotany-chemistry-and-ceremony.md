@@ -386,7 +386,7 @@ out experience with greater depth of emotional content.
 - [[schultes-peyote-and-mescaline]] for the historical ethnobotany
 - [[plants-of-the-gods-trichocereus-san-pedro-chemistry]] for San Pedro chemistry
 - [[harner-american-indian-peyote-rituals]] for the anthropological perspective
-- [[peyote-and-psychoactive-cacti]] for conservation and legal status
+- [[ethnomycology]] for conservation and legal status
 
 ## References
 

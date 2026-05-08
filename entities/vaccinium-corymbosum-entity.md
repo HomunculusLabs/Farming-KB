@@ -148,4 +148,3 @@ Per 100 g raw highbush blueberries:
 - [[rubus-idaeus-entity]]
 - [[symphytum-officinale]]
 - [[food-forest-permaculture]]
-- [[elaeagnus-umbellata]]

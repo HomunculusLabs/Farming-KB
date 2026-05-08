@@ -23,7 +23,7 @@ Wild fermentation — also called spontaneous fermentation — is the practice o
 
 Wild fermentation relies on the diverse community of bacteria, yeasts, and molds that colonize raw foods. These microorganisms — *Lactobacillus* species, wild *Saccharomyces* and non-*Saccharomyces* yeasts, acetic acid bacteria, and various filamentous fungi — are ubiquitous in soil, on plant surfaces, in the air, on human hands, and on the surfaces of fermentation vessels and tools.
 
-When environmental conditions shift — through the addition of salt, the exclusion of oxygen, a change in pH or temperature, or the depletion of easily metabolized sugars — the microbial community undergoes ecological succession. Different organisms dominate at different stages, each creating conditions that favor the next wave. This dynamic, multi-species process is what gives wild-fermented foods their characteristic depth, complexity, and variability.
+When environmental conditions shift — through the addition of salt, the exclusion of oxygen, a change in pH or temperature, or the depletion of easily metabolized sugars — the microbial community undergoes ecological succession. Different organisms dominate at different stages, each creating conditions that favor the next wave. This dynamic, multi-species process is what gives wild-[[fermented-foods-and-beverages]] their characteristic depth, complexity, and variability.
 
 ### Key Characteristics
 
@@ -45,11 +45,11 @@ Wild fermentation is fundamentally an ecological process. Understanding successi
 
 **Phase 2: Acidification.** As lactic acid bacteria (LAB) — primarily *Lactobacillus* species — proliferate, they produce lactic acid, dropping the pH from near-neutral to 3.5–4.5. This acidic environment is inhospitable to most pathogens and spoilage organisms, providing a natural preservation mechanism. The dominant LAB species shift over time as acidity increases: *Lactobacillus plantarum*, *L. brevis*, and *L. pentosus* are common late-stage dominants in vegetable ferments.
 
-**Phase 3: Maturation and stability.** Once pH is sufficiently low and acid concentrations are high, the microbial community stabilizes. Flavor compounds accumulate through secondary metabolism — esters, diacetyl, acetaldehyde, and various sulfur-containing compounds. In long ferments (sauerkraut aged for months, kimchi stored in onggi jars), enzymatic breakdown of plant cell walls continues, developing umami and complexity.
+**Phase 3: Maturation and stability.** Once pH is sufficiently low and acid concentrations are high, the microbial community stabilizes. Flavor compounds accumulate through secondary metabolism — esters, diacetyl, acetaldehyde, and various sulfur-containing compounds. In long ferments (sauerkraut aged for months, kimchi stored in onggi jars), enzymatic breakdown of [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls continues, developing umami and complexity.
 
 ### The Role of Yeasts in Wild Fermentation
 
-Wild yeasts are critical in beverage fermentations and also play important roles in many food fermentations. *Saccharomyces cerevisiae* — the species used in commercial baker's and brewer's yeast — is surprisingly rare in the wild. Instead, spontaneous alcoholic fermentations are typically initiated by a succession of non-*Saccharomyces* species:
+Wild yeasts are critical in beverage fermentations and also play important roles in many food fermentations. *[[saccharomyces-cerevisiae]]* — the species used in commercial baker's and brewer's yeast — is surprisingly rare in the wild. Instead, spontaneous alcoholic fermentations are typically initiated by a succession of non-*Saccharomyces* species:
 
 - ***Hanseniaspora/Kloeckera***: Apiculate (lemon-shaped) yeasts that dominate early fermentation. They produce high levels of acetic acid, ethyl acetate, and various esters. Sensitive to ethanol — typically die off as alcohol rises above 4–6%. Found on grapes, apples, berries, and other fruit skins.
 - ***Candida*** and ***Pichia***: Oxidative yeasts that form pellicles (thin white films) on the surface of fermenting liquids where oxygen is available. They produce acetic acid, ethyl acetate, and other volatile compounds. *Pichia kluyveri* is valued in some wine and cider traditions for its tropical fruit aromas.
@@ -61,7 +61,7 @@ Wild yeasts are critical in beverage fermentations and also play important roles
 
 As fermentation proceeds and ethanol concentration rises, alcohol-tolerant *Saccharomyces* species eventually dominate, completing sugar conversion to ethanol and CO₂. But in many traditional processes, the non-*Saccharomyces* yeasts are never fully displaced, and their metabolic products — esters, higher alcohols, volatile phenols, glycerol, and acetaldehyde — define the character of the final beverage.
 
-In food fermentations (sourdough, fermented vegetables), yeasts play supporting roles — producing CO₂ for leavening (in bread) and contributing subtle aromatic complexity. The yeast communities in sourdough, for example, are typically dominated by *Kazachstania exigua*, *Wickerhamomyces anomalus*, and *Pichia kudriavzevii* rather than *Saccharomyces cerevisiae*.
+In food fermentations (sourdough, [[fermented-vegetables-guide]]), yeasts play supporting roles — producing CO₂ for leavening (in bread) and contributing subtle aromatic complexity. The yeast communities in sourdough, for example, are typically dominated by *Kazachstania exigua*, *Wickerhamomyces anomalus*, and *Pichia kudriavzevii* rather than *Saccharomyces cerevisiae*.
 
 ### Acetic Acid Bacteria
 
@@ -146,7 +146,7 @@ Raw milk harbors a rich microbiome — lactic acid bacteria, propionibacteria, y
 
 These are among the most technically demanding wild ferments due to safety concerns — raw meat and fish can harbor dangerous pathogens.
 
-- **Salami and other dry-cured sausages** (Italy, Germany, Spain): Ground meat is mixed with salt, spices, and sometimes a starter culture (traditionally back-slopped from a previous batch). Fermentation by LAB lowers pH, and drying reduces water activity to safe levels.
+- **Salami and other dry-cured sausages** (Italy, Germany, Spain): Ground meat is mixed with salt, spices, and sometimes a starter culture (traditionally back-slopped from a previous batch). Fermentation by LAB lowers pH, and drying reduces [[water-activity-osmophilic-fungal-media-preparation]] to safe levels.
 - **Icelandic skyr and surströmming** (Sweden): Herring fermented in brine for months, developing strong odors.
 - **Fish sauce** (Southeast Asia): Small fish (anchovies) are packed in salt and fermented for 6–18 months. Enzymatic breakdown of proteins produces the characteristic umami-rich liquid.
 - **Shiokara** (Japan): Fish or squid viscera fermented with salt and rice bran.
@@ -179,7 +179,7 @@ Temperature is the primary driver of fermentation speed and microbial community 
 | 10–15°C (50–59°F) | Very slow. Favors *Leuconostoc* and heterofermentative LAB. Produces milder acidity and more complex aromas. Ideal for long-aging sauerkraut. |
 | 18–22°C (65–72°F) | Optimal range for most vegetable ferments. Balanced LAB activity with good acid production. |
 | 24–30°C (75–86°F) | Fast fermentation. Favors *Lactobacillus plantarum* and other homofermentative LAB. Can produce sharp, clean acidity. Risk of kahm yeast development. |
-| Above 30°C (86°F) | Rapid fermentation. Risk of off-flavors, excessive CO₂ production, and soft texture. Some tropical ferments (kimchi, some Southeast Asian preparations) are adapted to these temperatures. |
+| Above 30°C (86°F) | Rapid fermentation. Risk of off-flavors, excessive CO₂ production, and soft texture. Some tropical ferments (kimchi, some [[southeast-asian-mushroom-tourism-bali]] preparations) are adapted to these temperatures. |
 
 ### Anaerobic Conditions
 
@@ -231,7 +231,7 @@ The concept of terroir — that the flavor of a fermented product reflects the s
 
 Wild fermentation has been practiced safely for thousands of years across every inhabited continent. The key safety principles are well-understood:
 
-1. **Salt and acidity are your allies.** Properly salted, sufficiently acidic fermented foods are among the safest preserved foods known. The combination of NaCl, low pH, and antimicrobial metabolites (bacteriocins, hydrogen peroxide, organic acids) creates a multi-layered defense against pathogens.
+1. **Salt and acidity are your allies.** Properly salted, sufficiently acidic fermented foods are among the safest preserved foods known. The combination of NaCl, low pH, and antimicrobial metabolites (bacteriocins, [[hydrogen-peroxide-tissue-culture-wild-polypores]], organic acids) creates a multi-layered defense against pathogens.
 2. **Botulism is extremely rare** in properly conducted vegetable fermentation. The conditions that favor lactic acid bacteria (moderate salt, anaerobic, room temperature) overlap with but are not identical to conditions that favor *Clostridium botulinum*. The rapid acidification by LAB typically prevents *C. botulinum* growth long before toxin production could occur.
 3. **Fresh, clean ingredients and clean equipment** minimize the risk of contamination. Wash hands and vessels, use fresh produce, and maintain proper brine concentration.
 4. **Sensory evaluation is reliable.** Human senses are well-calibrated to detect spoilage. If a ferment smells or looks wrong — trust your nose and eyes. When in doubt, throw it out.
@@ -274,7 +274,7 @@ Wild fermentation is experiencing a significant revival driven by several conver
 - **Interest in gut health** and the microbiome has popularized fermented foods broadly.
 - **Natural wine and craft fermentation** movements celebrate microbial diversity and terroir.
 - **Indigenous food sovereignty** movements are reclaiming traditional fermentation practices.
-- **Permaculture and regenerative agriculture** philosophies align with the principles of wild fermentation — working with natural systems rather than controlling them.
+- **Permaculture and [[regenerative-agriculture-overview]]** philosophies align with the principles of wild fermentation — working with natural systems rather than controlling them.
 
 Notable contemporary advocates include Sandor Katz, whose 2003 book *Wild Fermentation* catalyzed a global revival, and the growing community of natural winemakers, farmhouse brewers, and experimental fermenters who share knowledge through workshops, online communities, and fermentation festivals.
 

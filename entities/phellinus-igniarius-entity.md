@@ -148,6 +148,3 @@ growth and specific substrate requirements.
 - [[phellinus-linteus]]
 - [[phellinus-ferreus]]
 - [[inonotus-hispidus-entity]]
-- [[inonotus-obliquus]]
-- [[trametes-versicolor]]
-- [[poria-cocos]]

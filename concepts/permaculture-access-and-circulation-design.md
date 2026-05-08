@@ -38,7 +38,7 @@ On sloped land, roads and main pathways should follow the contour wherever possi
 ### Multiple Functions
 
 Every path and road should serve more than one purpose:
-- Access routes that also function as [[swale-construction-guide|swales]] for water harvesting
+- Access routes that also function as [[organic-vegetable-growing-and-market-gardening|swales]] for water harvesting
 - Pathways that define garden bed shapes (keyhole beds, mandala gardens)
 - Roads that double as firebreaks
 - Paths that channel foot traffic away from sensitive areas
@@ -144,5 +144,5 @@ Mollison emphasizes the connection between roads and water:
 - [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-mapping-and-reading-the-landscape]]

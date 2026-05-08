@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Trap cropping and push-pull strategies are ecologically-based pest management techniques that manipulate insect behavior and plant chemistry to protect crops without reliance on synthetic pesticides. These methods exploit the natural preferences of pest insects—drawing them toward decoy plants (trap crops) or repelling them from the main crop while attracting them to a perimeter (push-pull)—reducing pest pressure on the target harvest. Together they form a cornerstone of integrated pest management (IPM) and have been validated across diverse cropping systems on every inhabited continent.
+Trap cropping and push-pull strategies are ecologically-based pest management techniques that manipulate insect behavior and plant chemistry to protect crops without reliance on synthetic pesticides. These methods exploit the natural preferences of pest insects—drawing them toward decoy plants (trap crops) or repelling them from the main crop while attracting them to a perimeter (push-pull)—reducing pest pressure on the target harvest. Together they form a cornerstone of [[integrated-pest-management-ipm]] management (IPM) and have been validated across diverse cropping systems on every inhabited continent.
 
 ## What Is Trap Cropping?
 
@@ -96,10 +96,10 @@ The most extensively validated push-pull system was developed by the Internation
 
 **Mechanism**:
 1. Desmodium releases volatile chemicals that repel stemborer moths from maize
-2. Desmodium root exudates trigger suicidal germination of Striga seeds, depleting the soil seed bank
+2. Desmodium [[root-exudates-rhizosphere]] trigger suicidal germination of Striga seeds, depleting the soil seed bank
 3. Napier grass at the border attracts stemborer moths for oviposition
 4. Napier grass stems produce a gummy substance that kills boring larvae before they can develop
-5. Desmodium is a legume that fixes nitrogen, improving soil fertility for the maize crop
+5. Desmodium is a legume that fixes nitrogen, improving [[soil-fertility-management]] for the maize crop
 
 **Results**: Adoption of push-pull technology has produced maize yield increases of 2–3× compared to monoculture, while virtually eliminating Striga infestation in treated fields. The system also provides high-quality livestock fodder (both Napier grass and desmodium), diversifying farm income.
 
@@ -158,7 +158,7 @@ A trap crop that is attractive at the wrong growth stage or to the wrong pest sp
 The trap crop must reach its most attractive stage before or concurrent with the main crop's vulnerable stage. If the main crop emerges and becomes attractive before the trap crop, pests will colonize the cash crop directly. Solutions include:
 
 - Planting the trap crop 2–4 weeks earlier than the main crop
-- Using transplants for the trap crop while direct-seeding the main crop
+- Using transplants for the trap crop while [[direct-seeding-techniques]] the main crop
 - Selecting fast-growing cultivars for the trap crop
 - Using multiple successions of the trap crop to extend the attractive period
 
@@ -198,8 +198,8 @@ In most documented cases, trap cropping is cost-effective when pesticide applica
 Trap crops create concentrated pest populations that are ideal targets for biological control agents:
 
 - **Conservation biological control**: Parasitoid wasps such as *Trichogramma* spp. can be released onto or near trap crops where host eggs are concentrated, increasing parasitism efficiency. Parasitism rates of 70–90% have been documented on trap crops vs. 10–30% on scattered hosts in the main crop.
-- **Predator support**: Diverse trap crop borders provide habitat for generalist predators (lady beetles, lacewings, ground beetles) that spill over into the main crop.
-- **Microbial pesticides**: Applications of Bt, entomopathogenic nematodes, or entomopathogenic fungi are more efficient on concentrated pest populations in trap crops, requiring less product for equivalent control.
+- **Predator support**: Diverse trap crop borders provide habitat for generalist predators (lady beetles, lacewings, [[ground-beetles-carabidae-and-biological-pest-control]]) that spill over into the main crop.
+- **Microbial pesticides**: Applications of Bt, entomopathogenic nematodes, or [[entomopathogenic-fungi-and-biological-pest-control]] are more efficient on concentrated pest populations in trap crops, requiring less product for equivalent control.
 
 ### Pheromone-Based Enhancement
 
@@ -208,7 +208,7 @@ Mating disruption pheromones can be applied to trap crops to further concentrate
 ### Cultural Control Synergy
 
 Trap cropping synergizes with:
-- **Crop rotation**: Breaks pest cycles that trap cropping alone might not interrupt
+- **[[crop-rotation-vegetable-garden]]**: Breaks pest cycles that trap cropping alone might not interrupt
 - **Tillage timing**: Destroying overwintering sites in combination with trap cropping provides multi-season pest suppression
 - **Sanitation**: Removing crop residues after harvest prevents carryover that could overwhelm trap crops in subsequent seasons
 
@@ -224,7 +224,7 @@ Trap crops that attract large pest populations may support populations of natura
 
 ### Spatial Requirements
 
-Small or intensively managed gardens may lack space for dedicated trap crops. In these situations, interplanting repellent companion plants (a simplified push strategy) or using sacrificial plants within the garden bed can provide partial protection.
+Small or intensively managed gardens may lack space for dedicated trap crops. In these situations, interplanting repellent companion plants (a simplified push strategy) or using sacrificial plants within the [[garden-bed-preparation]] can provide partial protection.
 
 ### Climate and Environmental Variability
 

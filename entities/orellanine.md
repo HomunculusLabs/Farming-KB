@@ -115,7 +115,7 @@ In forensic contexts, orellanine can be detected in urine, blood, and gastric co
 - [[alpha-amanitin]]
 - [[aflatoxin]]
 - [[ibotenic-acid]]
-- [[muscimol]]
+- [[muscimol-entity]]
 - nephrotoxin
 - bipyridine
 - [[muscimol-compound]]

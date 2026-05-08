@@ -88,7 +88,7 @@ Russula mushrooms do not have the intense umami flavor of porcini or the complex
 
 Russula species are among the most important ectomycorrhizal fungi in temperate and boreal forests. They form extensive mycorrhizal networks with forest trees, facilitating nutrient exchange and contributing to forest health and productivity.
 
-The genus shows considerable host specificity, with different Russula species specializing on different tree hosts. This diversity of associations contributes to the overall resilience of forest mycorrhizal communities. Studies have shown that Russula diversity is a good indicator of forest ecosystem health and soil quality. See [[ectomycorrhizal-ecology]] and [[fungal-conservation-strategies]] for ecological context.
+The genus shows considerable host specificity, with different Russula species specializing on different tree hosts. This diversity of associations contributes to the overall resilience of forest mycorrhizal communities. Studies have shown that Russula diversity is a good indicator of forest ecosystem health and soil quality. See [[ectomycorrhizal-ecology]] and [[ethnomycology]] for ecological context.
 
 ## See Also
 

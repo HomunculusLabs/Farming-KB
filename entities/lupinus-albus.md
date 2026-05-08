@@ -89,7 +89,7 @@ improving drainage and root penetration for following crops.
 
 In permaculture designs, L. albus integrates well in guild plantings with fruit and
 nut trees. Its nitrogen contribution supports establishing [[moringa-oleifera]] in
-subtropical systems. In temperate food forests, interplanting beneath [[robinia- pseudoacacia]] or [[acacia-confusa]] combines deep nitrogen inputs from both taprooted
+subtropical systems. In temperate food forests, interplanting beneath [[robinia-pseudoacacia]] or [[acacia-confusa]] combines deep nitrogen inputs from both taprooted
 and nodal-fixing species. Dense biomass provides weed suppression and mulch. Flowering
 supports pollinators that also service neighboring [[tagetes-erecta-entity]] plantings.
 [[tithonia-diversifolia]] cuttings interplanted with lupin benefit from elevated soil

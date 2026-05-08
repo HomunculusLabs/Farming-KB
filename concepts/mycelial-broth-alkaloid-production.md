@@ -136,8 +136,8 @@ The extracted material is best kept in a dry, airtight container under refrigera
 - [[psilocybin-extraction-guide]] — ethanol and water extraction methods
 - [[psilocybin-large-scale-production]] — room design for continuous production
 - [[mushroom-liquid-culture]] — LC techniques for spawn production
-- [[mushroom-cultivation-sterile-technique]] — contamination prevention
+- [[mushroom-cultivation-fundamentals]] — contamination prevention
 - [[mushroom-strain-preservation-senescence]] — maintaining long-term cultures
-- [[psilocybin-mushroom-cultivation-basics]] — standard fruiting methods
+- [[mushroom-cultivation-fundamentals]] — standard fruiting methods
 - [[psilocybin-potency-dosage-guide]] — dosing the extracted material
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]

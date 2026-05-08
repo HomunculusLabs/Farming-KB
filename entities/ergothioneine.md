@@ -143,6 +143,6 @@ Ergothioneine is available as a dietary supplement:
 - Glutathione — The body's primary endogenous antioxidant
 - [[lentinula-edodes]] — Shiitake mushroom, a rich source of ergothioneine
 - [[pleurotus-ostreatus]] — Oyster mushroom, another major source
-- [[boletus-edulis]] — Porcini, the richest known source
+- [[boletus-edulis-entity]] — Porcini, the richest known source
 - [[medicinal-mushrooms]] — Overview of therapeutic mushroom species
 - Oxidative Stress — The condition ergothioneine helps mitigate

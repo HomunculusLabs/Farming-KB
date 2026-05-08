@@ -84,7 +84,7 @@ Fruiting occurs during warm, wet periods, typically from late spring through aut
 - **Baeocystin:** Minor constituent
 - **Gymnopiline:** Characteristic bis-naphthoquinone pigment of the genus (non-psychoactive)
 
-The total psilocybin content of *G. earlei* is reported as low to moderate compared to [[gymnopilus-spectabilis]], with significant variability between geographic populations and individual collections.
+The total psilocybin content of *G. earlei* is reported as low to moderate compared to [[gymnopilus-spectabilis-entity]], with significant variability between geographic populations and individual collections.
 
 ### Pigments
 
@@ -115,11 +115,11 @@ The species likely serves as a food source for various invertebrates and may for
 
 ## See Also
 
-- [[gymnopilus-spectabilis]] — Big laughing gym, the best-known psilocybian Gymnopilus species
+- [[gymnopilus-spectabilis-entity]] — Big laughing gym, the best-known psilocybian Gymnopilus species
 - [[gymnopilus-luteofolius]] — A smaller psilocybian Gymnopilus with yellow-orange coloration
 - [[gymnopilus-purpuratus]] — A South American species with purple tones
 - [[gymnopilus-junonius]] — The spectacular Gymnopilus, a large non-psychoactive species
 - [[psilocybe-cubensis]] — The most widely cultivated psilocybian mushroom
-- [[psilocybin]] — The primary psychoactive indole alkaloid
+- [[psilocybin-compound]] — The primary psychoactive indole alkaloid
 - [[pluteus-cyanopus]] — Blue-footed Pluteus, another non-hymenogastraceous psilocybian
 - [[panaeolus-cyanescens]] — Blue meanies, a potent tropical psilocybian species

@@ -141,18 +141,6 @@ inhibition of hepatic gluconeogenesis.
 
 Spirulina acts as a biosorbent for lead, cadmium, mercury, and arsenic due
 to surface binding sites on cell wall polysaccharides. Used adjunctively for
-arsenic poisoning in Bangladesh.
-
-## Safety and Contraindications
-
-GRAS status at doses up to 8 g/day. Key concerns:
-
-- **Microcystin contamination**: Wild-harvested Spirulina may contain
-  toxic *Microcystis aeruginosa*. Only tested products should be consumed.
-- **Phenylketonuria (PKU)**: Contains phenylalanine.
-- **Autoimmune conditions**: Immunostimulatory effects warrant caution.
-- **Anticoagulant interaction**: High doses may enhance bleeding risk.
-
 ## See Also
 
 - [[aquaculture-in-permaculture]]

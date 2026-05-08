@@ -119,11 +119,11 @@ MAC is considered a strong breeding parent and has been used extensively to crea
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[gelato]]
-- [[wedding-cake]]
-- [[biscotti]]
+- [[gelato-cannabis]]
+- [[wedding-cake-cannabis]]
+- [[biscotti-cannabis]]
 - [[animal-face]]
 - [[kush-mints]]
-- [[zookies]]
+- [[zookies-cannabis]]
 - [[thin-mint-cookies]]
 - [[cereal-milk]]

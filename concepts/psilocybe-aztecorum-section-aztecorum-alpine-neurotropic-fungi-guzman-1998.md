@@ -12,7 +12,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Section Aztecorum of the genus Psilocybe represents a distinctive
 biogeographic group of neurotropic fungi adapted to high-elevation,
-subalpine, and alpine habitats. According to [[Guzmán, Allen & Gartz (1998)]], this section includes species found at altitudes ranging from
+subalpine, and alpine habitats. According to [[guzmán,-allen-&-gartz-(1998)]], this section includes species found at altitudes ranging from
 2,000 to 4,000 meters above sea level, primarily in Mexico and extending
 northward into the Pacific Northwest of North America and as far east as
 Quebec, Canada. The alpine adaptation of these species distinguishes them
@@ -134,18 +134,6 @@ high-elevation habitats:
 However, the Section Aztecorum species are unique in their restriction to
 alpine and subalpine zones, making them the most specialized high-elevation
 neurotropic fungi.
-
-## Conservation and Ethnomycological Significance
-
-P. aztecorum holds particular ethnomycological importance as one of the
-sacred mushrooms used by indigenous peoples of central Mexico. The species
-was identified by R. Gordon Wasson during his famous expeditions with
-Maria Sabina, though it is distinct from the more commonly known P.
-mexicana and P. caerulescens. The alpine habitat of P. aztecorum has
-likely provided some protection from habitat destruction, though climate
-change poses a potential threat to high-elevation fungal communities as
-temperature gradients shift upward.
-
 ## See Also
 
 - [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
@@ -157,5 +145,5 @@ temperature gradients shift upward.
 - Psilocybe semilanceata Worldwide Temperate Distribution
 - Mexico as a Neurotropic Fungi Diversity Hotspot
 - Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
-- [[Four Groups of Neurotropic Fungi: Global Distribution]]
+- [[four-groups-of-neurotropic-fungi:-global-distribution]]
 - Mexico as a Northern and Southern Mycobiotic Convergence Zone

@@ -491,3 +491,6 @@ conservation biology, and cultural anthropology.
   Origins of Hallucinogenic Use*. McGraw-Hill.
 - Naranjo, C. (1973). *The Healing Journey: New Approaches to
   Consciousness*. Pantheon Books.
+## Hallucinogenic Plants of the World
+
+# Hallucinogenic Plants of the World ## Overview Hallucinogenic plants have been used by humans for thousands of years, "probably since he began gathering plants for food." They have played an extensive role in human culture -- as sacred sacraments, medicines, divinatory tools, and sources of artistic inspiration. The Golden Guide to Hallucinogenic Plants provides a comprehensive survey of the major psychoactive plant families and their cultural significance. ## Classification of Hallinogens The active compounds in hallucinogenic plants are "true narcotics" that distort perception and alter consciousness. Various names have been proposed: - **Hallucinogens** (hallucination generators) -- the term that "comes closest" to satisfying scientists - **Psychotomimetics** (psychosis mimickers) - **Psychotaraxics** (mind disturbers) - **Psychedelics** (mind manifesters) ## Major Plant Families **Mushrooms** Two broad groups of hallucinogenic mushrooms exist: 1. **Amanita muscaria and A. ...

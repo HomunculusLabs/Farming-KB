@@ -130,7 +130,7 @@ Natural systems benefit from the network effect -- the more individuals involved
 - [[permaculture-zone-planning]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-sector-analysis]]
-- [[permaculture-design-different-climates]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-element-analysis-design-methods]]
 - [[pdc-integrated-farm-design]]
 

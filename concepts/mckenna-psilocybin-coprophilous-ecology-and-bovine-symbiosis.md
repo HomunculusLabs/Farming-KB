@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[psilocybin]]-containing mushrooms and pastoral cattle herding represents a profound instance of [[mckenna-plants-and-primates-coevolution]] and [[symbiosis-in-fungi]] between a fungal species and a human cultural practice. The key ecological fact underlying this argument is that the most potent psilocybin-containing mushrooms, particularly [[psilocybe-cubensis]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
+In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[psilocybin-compound]]-containing mushrooms and pastoral cattle herding represents a profound instance of [[mckenna-plants-and-primates-coevolution]] and [[symbiosis-in-fungi]] between a fungal species and a human cultural practice. The key ecological fact underlying this argument is that the most potent psilocybin-containing mushrooms, particularly [[psilocybe-cubensis]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
 
 ## Coprophilous Fungi: Biology and Habitat
 
@@ -33,7 +33,7 @@ The life cycle of a coprophilous psilocybin mushroom creates a dispersal mechani
 
 McKenna frames the human-psilocybin relationship within the broader biological concept of [[symbiosis-in-fungi]], which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
 
-He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between [[leafcutter ants]] and a cultivated [[basidiomycete-phylum-guide]] fungus, described by E.O. Wilson.
+He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between [[leafcutter-ants]] and a cultivated [[basidiomycete-phylum-guide]] fungus, described by E.O. Wilson.
 
 ## The Leafcutter Ant Analogy
 
@@ -49,7 +49,7 @@ McKenna argues that the domestication of cattle, beginning roughly 10,000 years 
 
 With the advent of pastoralism, cattle were kept in close proximity to human settlements. Their dung accumulated in and around villages, creating ideal conditions for prolific mushroom fruiting. Humans living among cattle herds would have encountered psilocybin mushrooms regularly and predictably, rather than sporadically. McKenna describes this as the "human-mushroom interspecies codependency" being "enhanced and deepened" by domestication.
 
-This ecological change coincides with, and McKenna argues helped cause, several major developments in human culture: the emergence of [[religious ritual]], [[calendar making]], and [[natural magic]]. The regular availability of visionary fungi in pastoral communities provided the experiential basis for shamanic practices and cosmological systems that persist in modified forms to this day.
+This ecological change coincides with, and McKenna argues helped cause, several major developments in human culture: the emergence of [[religious-ritual]], [[calendar-making]], and [[natural-magic]]. The regular availability of visionary fungi in pastoral communities provided the experiential basis for shamanic practices and cosmological systems that persist in modified forms to this day.
 
 ## The Million-Year Prehistory
 
@@ -59,7 +59,7 @@ The African savannah, where early hominids evolved, supported large herds of wil
 
 ## From Pastoralism to Urbanism
 
-McKenna traces a line from pastoral mushroom use to the founding of the first walled cities. Shortly after humans encountered the visionary fungi of the African grasslands, and like the [[leafcutter ants]], "we too became the dominant species of our area, and we too learned ways of keeping the bulk of our populations safe in subterranean retreats. In our case these retreats were walled cities."
+McKenna traces a line from pastoral mushroom use to the founding of the first walled cities. Shortly after humans encountered the visionary fungi of the African grasslands, and like the [[leafcutter-ants]], "we too became the dominant species of our area, and we too learned ways of keeping the bulk of our populations safe in subterranean retreats. In our case these retreats were walled cities."
 
 The parallel with ant architecture is deliberate. Just as leafcutter ants build elaborate underground structures to house their fungal gardens and their populations, early human civilizations built walled cities that concentrated both human populations and their cattle. The dung-filled streets and pastures of ancient cities would have been mushroom gardens in all but name.
 
@@ -81,7 +81,7 @@ The mushroom contains two primary psychoactive compounds: psilocybin and psiloci
 
 The coprophilous ecology of psilocybin mushrooms means that their conservation is tied to the preservation of grazing ecosystems and pastoral lifestyles. The decline of traditional cattle herding in many parts of the world, replaced by confined feeding operations where dung is managed as waste rather than allowed to accumulate in pastures, reduces the habitat available for these fungi.
 
-Industrial cattle operations typically collect and process manure, often composting it at temperatures that destroy fungal spores, or applying it to fields in ways that do not allow mushroom fruiting. The loss of free-ranging pastoral herds thus threatens not only cultural traditions but also the ecological niche that has supported [[psilocybin]] mushrooms for millennia. Understanding the coprophilous ecology of these mushrooms is essential for any conservation strategy aimed at preserving them in their natural habitats.
+Industrial cattle operations typically collect and process manure, often composting it at temperatures that destroy fungal spores, or applying it to fields in ways that do not allow mushroom fruiting. The loss of free-ranging pastoral herds thus threatens not only cultural traditions but also the ecological niche that has supported [[psilocybin-compound]] mushrooms for millennia. Understanding the coprophilous ecology of these mushrooms is essential for any conservation strategy aimed at preserving them in their natural habitats.
 
 ## Alternative Hypotheses and Criticism
 

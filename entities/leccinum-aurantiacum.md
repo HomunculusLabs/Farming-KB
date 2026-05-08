@@ -100,14 +100,14 @@ The species bioaccumulates heavy metals from soil, particularly lead and cadmium
 ## See Also
 
 - [[leccinum-scabrum]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[suillus-grevillei]]
 - [[xerocomellus-chrysenteron]]
 - [[amanita-muscaria]]
 - [[lactarius-deliciosus]]
 - [[russula-vesca]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[piptoporus-betulinus]]
 - [[mycorrhiza]]
 - [[mycorrhizal-fungi]]

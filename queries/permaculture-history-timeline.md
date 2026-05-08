@@ -74,7 +74,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   expanding the framework with practical design strategies
   for rural and urban environments.
   Introduces concepts of zones, sectors, and element placement.
-  See [[permaculture-design-methods]] and [[permaculture-zones-in-practice]].
+  See [[permaculture-design]] and [[permaculture-zones-in-practice]].
 - **1979 — Mollison begins teaching PDCs:**
   Launches the first Permaculture Design Courses,
   establishing the 72-hour curriculum format
@@ -132,7 +132,7 @@ The modern era of permaculture — from Gaia's Garden and Holmgren's 12 principl
 ## Related Pages
 - [[permaculture-principles]] — the 12 design principles detailed
 - [[permaculture-design]] — complete design methodology
-- [[permaculture-design-methods]] — Mollison's design toolkit and process
+- [[permaculture-design]] — Mollison's design toolkit and process
 - [[food-forest-design]] — food forest systems and implementation
 - [[permaculture-zones-in-practice]] — zone planning with examples
 - [[permaculture-plant-catalog]] — plant reference for design

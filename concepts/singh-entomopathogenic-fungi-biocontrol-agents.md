@@ -148,4 +148,3 @@ potential effects on non-target organisms.
 
 - [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
-- [[mycoremediation-pahs]]

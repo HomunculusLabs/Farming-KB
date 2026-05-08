@@ -88,7 +88,7 @@ Every time soil is moved, follow immediately with planting or seeding. Have mate
 - [[permaculture-water-harvesting-detailed]]
 - [[permaculture-irrigation-design]]
 - [[permaculture-dam-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-catchment-design]]
 - [[permaculture-sector-analysis]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

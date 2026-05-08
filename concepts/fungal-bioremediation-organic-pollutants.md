@@ -86,7 +86,7 @@ The fungal approach offers several key advantages: nonspecific enzyme systems at
 
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[factors-affecting-mycoremediation-efficiency]]
-- [[mycoremediation-advantages-limitations]]
+- [[bioremediation-using-fungi]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
 - [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]

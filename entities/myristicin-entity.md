@@ -127,14 +127,14 @@ recreational use as a legal psychoactive, always followed by consensus that
 the experience was unpleasant and not worth repeating.
 ## See Also
 
-- [[myristicin]]
+- myristicin entity
 
 - [[cpm-entity-pihkal]]
 - [[4-d-entity-pihkal]]
 - [[5-toet-entity-pihkal]]
 - [[lsd-entity-tihkal]]
 - [[4-ho-mipt-entity-tihkal]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - Safrole
 - Elemicin
 - [[harmine-entity-tihkal]]

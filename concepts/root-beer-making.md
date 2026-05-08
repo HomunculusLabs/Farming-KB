@@ -143,6 +143,6 @@ Home-fermented root beer builds pressure in sealed bottles. Over-carbonated bott
 
 ## See Also
 
-- [[kombucha-brewing]] — another home-brewed fermented beverage
-- [[kefir-making]] — fermented beverage with natural carbonation
+- kombucha brewing — another home-brewed fermented beverage
+- kefir making — fermented beverage with natural carbonation
 - [[vinegar-making]] — another traditional fermentation with sugar and yeast

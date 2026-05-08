@@ -109,7 +109,6 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - Dioecious or mostly dioecious — plant multiple for pollination
 - Mediterranean native; thrives on poor, rocky soils
 
-
 (Section truncated for length.)
 
 ## Zone 9–11: Subtropical and Tropical
@@ -139,54 +138,6 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - Reliable production in Zone 9+
 - Many cultivars available for low-chill climates
 - Frost risk is minimal; production is consistent
-
-**5. Tropical Nuts (Zone 10–11)**
-- **Pili nut** (*Canarium ovatum*): Philippines native; high fat, excellent flavor
-- **Breadnut** (*Artocarpus camansi*): Starchy, bread-like when cooked
-- **Candlenut** (*Aleurites moluccanus*): Oil-rich; used for lighting and cooking
-- **Beechnut alternatives**: Various tropical Fagus relatives
-
-## Cross-Zone Strategies
-
-### "Portfolio" Approach
-Plant a diversity of species across chill requirements so that in any given year, at least some species will produce well regardless of weather variability. A resilient food forest in Zone 5 might include:
-- Low-chill species (hazelnut, heartnut) that tolerate variable winters
-- Medium-chill species (chestnut, pecan) for reliable production
-- High-chill species (black walnut, hickory) for cold winters when they produce best
-
-### Microclimate Extension
-- **Frost pockets**: Avoid planting early-blooming species (almond, pecan) in low-lying areas where cold air settles
-- **Thermal mass**: Stone walls, buildings, and ponds moderate temperatures; extend effective hardiness by 0.5–1 zone
-- **Windbreaks**: Reduce wind chill and protect brittle young growth; extend effective hardiness by 0.5 zone
-- **Slope aspect**: South-facing slopes gain 2–4°C over flat ground; critical in marginal zones
-- **Snow cover**: Acts as insulation; bare frozen ground is harder on roots than snow-covered ground
-
-### Climate Change Considerations
-- Zone boundaries are shifting northward by approximately 0.5 zone per decade in many regions
-- Plant for your projected 2050 climate zone, not your current zone
-- Include species from one zone warmer as "climate hedge" plantings
-- Maintain diversity to spread risk across species with different climate sensitivities
-
-## Common Mistakes to Avoid
-
-1. **Planting only one species**: Monoculture nut orchards are vulnerable to species-specific pests and diseases. Always plant multiple species.
-2. **Ignoring pollination requirements**: Most nut trees require cross-pollination from a different cultivar. Research compatibility before planting.
-3. **Poor site selection**: Nut trees are permanent. Choose well-drained sites with appropriate sun exposure. You can't easily move a 10-year-old tree.
-4. **Underestimating establishment time**: Nut trees take 5–15 years to produce significantly. Plan complementary annual crops and fast-bearing perennials during the wait.
-5. **Neglecting weed control during establishment**: Young nut trees competing with weeds grow 50–70% slower. Maintain weed-free circles for at least 3–5 years.
-6. **Planting too deep**: The root flare must remain above ground level. Burying it leads to crown rot and decline.
-7. **Ignoring juglone**: If planting walnuts, plan the entire understory for juglone tolerance.
-8. **No deer protection**: Deer will browse young nut trees to death. Fence or cage every tree until it's above browse height (1.5–2 m).
-
-## Key References
-
-1. Smith, J. Russell. *Tree Crops: A Permanent Agriculture*. Devin-Adair, 1953.
-2. Crawford, Martin. *Creating a Forest Garden*. Green Books, 2010.
-3. Shepard, Mark. *Restoration Agriculture*. Acres USA, 2013.
-4. Toensmeier, Eric. *The Carbon Farming Solution*. Chelsea Green, 2016.
-5. USDA Plant Hardiness Zone Map (2012 update): planthardiness.ars.usda.gov
-6. Northern Nut Growers Association (NNGA): annual reports and cultivar recommendations.
-7. Badgersett Research Farm: hybrid hazel and chestnut research for cold climates.
 
 ## See Also
 

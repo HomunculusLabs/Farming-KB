@@ -116,7 +116,7 @@ International drug surveillance programs have tracked 2C-P as part of the broade
 - [[2c-t-7]]
 - [[2c-t-2]]
 - [[dom]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - doi
 - [[dob-entity-pihkal]]
 - [[lsd]]

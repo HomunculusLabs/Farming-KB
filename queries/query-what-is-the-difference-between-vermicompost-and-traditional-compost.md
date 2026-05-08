@@ -94,7 +94,7 @@ standard worm bin occupies roughly 2 square feet of floor space and fits under a
 kitchen sink, in a closet, or on a balcony. This makes it ideal for apartments,
 classrooms, offices, and urban settings. Various container designs are compared in
 [[worm-bin-types-comparison]], and detailed build instructions are provided in
-[[wormery-construction]].
+[[composting-and-soil-biology]].
 ## Effort Level
 Traditional composting demands periodic turning, monitoring of moisture and
 temperature, and attention to the carbon-to-nitrogen ratio. It is moderately

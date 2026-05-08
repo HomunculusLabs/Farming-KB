@@ -41,7 +41,7 @@ Quinoa is direct-seeded after the danger of frost has passed. Sow seeds 0.25-0.5
 
 ## Companion Planting
 
-Quinoa fits well into Permaculture Cover Crops Guide rotations, particularly in cool, dry climates. It is a [[permaculture-wildlife-corridors]] dynamic accumulator, drawing nutrients from deep soil layers. In [[permaculture-design-principles-beginners]], quinoa can be interplanted with legumes such as beans or peas for mutual benefit — legumes fix nitrogen while quinoa provides structural support. It also pairs well with root vegetables like potatoes and beets. Avoid planting near lamb's quarter (Chenopodium album), as cross-pollination can occur since they are the same genus.
+Quinoa fits well into Permaculture Cover Crops Guide rotations, particularly in cool, dry climates. It is a [[permaculture-wildlife-corridors]] dynamic accumulator, drawing nutrients from deep soil layers. In [[permaculture-design-principles]], quinoa can be interplanted with legumes such as beans or peas for mutual benefit — legumes fix nitrogen while quinoa provides structural support. It also pairs well with root vegetables like potatoes and beets. Avoid planting near lamb's quarter (Chenopodium album), as cross-pollination can occur since they are the same genus.
 
 ## Culinary Uses
 

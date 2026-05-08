@@ -104,7 +104,7 @@ Beyond table consumption, paddy straw mushroom shows immunobiological activity. 
 
 - [[stamets-cultivator-paddy-straw-volvariella-volvacea-cultivation]]
 
-- [[growing-gourmet-paddy-straw-mushroom-volvariella]]
+- growing gourmet paddy straw mushroom volvariella
 
 - [[pleurotus-tuberregium-sclerotia-cultivation]]
 - [[shiitake-strain-classification-and-substrate-formulas]]

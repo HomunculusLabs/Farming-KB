@@ -65,7 +65,7 @@ This focus on indigenous learning connects to the broader [[bioregionalism-in-pe
 
 Permaculture education extends far beyond formal courses. Demonstration sites such as Holmgren's Melliodora provide living examples where practitioners can observe mature permaculture systems in action over many years.
 
-These demonstration sites serve as three-dimensional textbooks where the principles described in [[permaculture-design-principles-beginners]] can be observed in living, functioning systems.
+These demonstration sites serve as three-dimensional textbooks where the principles described in [[permaculture-design-principles]] can be observed in living, functioning systems.
 
 Permaculture convergences and gatherings facilitate peer learning, skill sharing, and community building among practitioners from diverse regions and backgrounds.
 
@@ -81,7 +81,7 @@ The [[permaculture-energy-descent-planning]] framework provides the context for 
 
 Critical thinking, systems understanding, and design literacy are the most transferable skills that permaculture education develops, applicable far beyond food production and land management.
 
-The [[permaculture-earthworks-guide]] provide a conceptual framework that helps learners integrate diverse knowledge into coherent design thinking applicable to any situation.
+The [[permaculture-water-harvesting-earthworks]] provide a conceptual framework that helps learners integrate diverse knowledge into coherent design thinking applicable to any situation.
 
 ## Further Reading and References
 

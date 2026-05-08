@@ -124,7 +124,7 @@ and fruiting areas to minimize cross-contamination.
 ## See Also
 
 - [[oyster-mushroom-substrates]]
-- [[mushroom-compost-substrates]]
+- [[mushroom-cultivation-fundamentals]]
 - [[bulk-substrate-preparation]]
 - [[mushroom-substrate-sterilization-and-pasteurization]]
 

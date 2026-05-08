@@ -132,7 +132,7 @@ sources: []
 ## See Also
 
 - [[heat-transfer-mechanisms]]
-- [[reynolds-number-and-flow-regimes]]
+- reynolds number and flow regimes
 - [[navier-stokes-equations-fluid-dynamics]]
-- [[boundary-layer-theory-fluid-dynamics]]
+- boundary layer theory fluid dynamics
 - [[finite-element-method]]

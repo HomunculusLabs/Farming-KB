@@ -30,7 +30,7 @@ sources:
 - concepts/mushroom-sterile-technique.md
 ---
 # First-Time Grower Common Mistakes
-The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
+The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and cannabis pest management for detailed fixes.
 ---
 ## Mushroom Cultivation Mistakes (10)
 ### 1. Skipping Sterile Technique
@@ -90,7 +90,7 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 14. No Pest Prevention
 **What happens**: Spider mites, fungus gnats, or thrips discovered at week 4 of flower when it's too late to spray effectively.
 **Why**: Not inspecting regularly, not quarantining new plants, no sticky traps, no preventive beneficial insects.
-**How to avoid**: Daily scouting starting week 1. Yellow sticky traps. Introduce predatory mites preventively. Quarantine clones 7-14 days. See [[cannabis-pest-management]].
+**How to avoid**: Daily scouting starting week 1. Yellow sticky traps. Introduce predatory mites preventively. Quarantine clones 7-14 days. See cannabis pest management.
 ### 15. Harvesting Too Early
 **What happens**: Buds are airy, low potency, clear trichomes indicate undeveloped cannabinoids. Lower yield.
 **Why**: Impatience or following breeder timelines too rigidly without checking trichomes.
@@ -124,4 +124,4 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 - [[cannabis-flowering-stage]] — flower timeline, nutrition, environment
 - [[cannabis-plant-nutrition]] — NPK, organic sources, deficiency diagnosis
 - [[cannabis-harvest-and-curing]] — proper harvest, dry, and cure
-- [[cannabis-pest-management]] — IPM and organic controls
+- cannabis pest management — IPM and organic controls

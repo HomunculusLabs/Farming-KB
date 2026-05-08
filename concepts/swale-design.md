@@ -85,7 +85,7 @@ Sediment accumulation in swale bottoms gradually reduces infiltration capacity. 
 
 [[permaculture-earthworks]]
 
-[[permaculture-earthworks-guide]]
+[[permaculture-water-harvesting-earthworks]]
 
 [[permaculture-earthworks-and-water-harvesting]]
 

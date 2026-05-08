@@ -121,5 +121,5 @@ chemical or pharmacological investigation.
   content
 - [[panaeolus-subbalteatus]] — a larger Panaeolus species found on dung and enriched
   soil
-- [[psilocybin]] — the primary psychoactive compound found in this species
+- [[psilocybin-compound]] — the primary psychoactive compound found in this species
 - [[coprophilous-fungi]] — the ecological category of dung-inhabiting fungi

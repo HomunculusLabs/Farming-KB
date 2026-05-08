@@ -148,4 +148,3 @@ should be used medicinally.
 - migraine treatments
 - herbal migraine prophylaxis
 - pyrrolizidine alkaloids
-- medicinal asters

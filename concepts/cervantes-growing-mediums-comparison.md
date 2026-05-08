@@ -144,5 +144,5 @@ For cloning and seed starting:
 - [[cervantes-rockwool-growing-substrate]]
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
 - [[cervantes-ph-management-testing]]
-- [[cervantes-water-quality-management]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-container-gardening-pot-size]]

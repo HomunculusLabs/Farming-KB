@@ -64,7 +64,7 @@ Add SMS to your compost pile at **up to 25% by volume**. The residual fungal enz
 
 ### In a no-till living soil system
 
-SMS is an excellent top-dressing ingredient for cannabis living soil builds. Its fungal dominance complements bacterial-dominant compost and supports a diverse [[compost-chemistry-soil-food-web]]. Apply a thin layer (½ inch) during the transition from veg to flower.
+SMS is an excellent top-dressing ingredient for cannabis living soil builds. Its fungal dominance complements bacterial-dominant compost and supports a diverse [[composting-and-soil-biology]]. Apply a thin layer (½ inch) during the transition from veg to flower.
 
 ### As a worm bin food source
 

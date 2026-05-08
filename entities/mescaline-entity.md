@@ -28,7 +28,7 @@ sources:
 | **Melting point** | 35–36°C |
 | **Solubility** | Soluble in water, ethanol, and dilute acids |
 
-Mescaline is a substituted phenethylamine, structurally related to [[2C-B]], DOB, and other members of the phenethylamine psychedelic family. The 3,4,5-trimethoxy substitution pattern on the phenyl ring is the defining pharmacophore. It is biosynthesized in cacti from the amino acid tyrosine through a pathway involving dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3-hydroxy-4,5-dimethoxyphenethylamine.
+Mescaline is a substituted phenethylamine, structurally related to [[2c-b]], DOB, and other members of the phenethylamine psychedelic family. The 3,4,5-trimethoxy substitution pattern on the phenyl ring is the defining pharmacophore. It is biosynthesized in cacti from the amino acid tyrosine through a pathway involving dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3-hydroxy-4,5-dimethoxyphenethylamine.
 
 ## Natural Sources
 
@@ -134,8 +134,8 @@ Mescaline-containing cacti hold irreplaceable cultural importance:
 - [[anadenanthera-peregrina]]
 - [[arthur-heffter]]
 
-- [[psilocybin]] — Another classical psychedelic, shorter duration and higher potency
-- [[2C-B]] — Synthetic phenethylamine psychedelic structurally related to mescaline
+- [[psilocybin-compound]] — Another classical psychedelic, shorter duration and higher potency
+- [[2c-b]] — Synthetic phenethylamine psychedelic structurally related to mescaline
 - [[dmt]] — Short-acting tryptamine psychedelic used in ayahuasca
 - [[lsd]] — The most potent classical psychedelic, sharing 5-HT₂A agonism
 - San Pedro cactus — Primary cultivated source of mescaline in modern use

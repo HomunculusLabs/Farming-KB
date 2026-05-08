@@ -123,7 +123,7 @@ Modern equivalents would cost significantly more due to inflation, but the propo
 - [[laminar-flow-hood-diy-construction]] — complete DIY construction guide
 - [[laminar-flow-hood-guide]] — laminar flow hood usage and protocol
 - [[mushroom-laminarar-flow-hood]] — laminar flow hood overview
-- [[mushroom-cultivation-sterile-technique]] — sterile technique principles
+- [[mushroom-cultivation-fundamentals]] — sterile technique principles
 - [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
 - [[contamination-identification-prevention]] — contamination identification and prevention
 - [[agar-work-guide]] — agar work in the flow hood

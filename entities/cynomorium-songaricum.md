@@ -148,4 +148,3 @@ cultivation challenging.
 - [[cuscuta-chinensis]]
 - [[glycyrrhiza-uralensis]]
 - [[withania-somnifera]]
-- [[terminalia-chebula]]

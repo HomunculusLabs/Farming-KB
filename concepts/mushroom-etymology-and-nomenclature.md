@@ -31,7 +31,7 @@ to the most commonly eaten species. In French, "champignon" originally meant
 any mushroom but now primarily refers to cultivated Agaricus bisporus. In
 German, "Pilz" serves as the general term while "Champignon" specifically
 denotes the cultivated button mushroom, borrowed from French. See
-[[mushroom-identification-resources]] for how these naming conventions affect
+[[mushroom-cultivation-fundamentals]] for how these naming conventions affect
 field
 identification.
 ## The Word "Toadstool"

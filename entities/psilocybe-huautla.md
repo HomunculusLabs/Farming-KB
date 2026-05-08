@@ -22,11 +22,11 @@ sources:
 
 # Psilocybe huautla
 
-**Psilocybe huautla** is a psychedelic mushroom species in the family Hymenogastraceae, first described by Gastón Guzmán, Florencia Ramírez-Guillén, and John W. Allen in 2004. Named after the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico — the epicenter of Mazatec mushroom use — this species is deeply intertwined with the cultural history of [[psilocybin]] mushrooms and their role in indigenous spiritual practice.
+**Psilocybe huautla** is a psychedelic mushroom species in the family Hymenogastraceae, first described by Gastón Guzmán, Florencia Ramírez-Guillén, and John W. Allen in 2004. Named after the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico — the epicenter of Mazatec mushroom use — this species is deeply intertwined with the cultural history of [[psilocybin-compound]] mushrooms and their role in indigenous spiritual practice.
 
 ## Taxonomy and Etymology
 
-The species epithet *huautla* honors the municipio of Huautla de Jiménez, Oaxaca, where [[María Sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
+The species epithet *huautla* honors the municipio of Huautla de Jiménez, Oaxaca, where [[maría-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
 
 Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* complex of section *Mexicanae*, closely related to *P. caerulescens*, *P. mexicana*, and *P. ochraceocentrata*. It was distinguished from similar species through careful morphological comparison and ITS rDNA sequencing.
 
@@ -38,7 +38,7 @@ Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* co
 
 **Stipe:** 4–12 cm long, 3–6 mm thick, cylindrical, equal or slightly thickened at the base. Surface smooth to finely fibrillose, whitish to cream, bruising prominently blue-green where damaged. Partial veil present, leaving a persistent annular zone (often a thin, membranous ring or merely a darker fibrillose band) near the apex.
 
-**Flesh:** Thin, watery. Color whitish in the cap, cream in the stipe. Stains vividly and rapidly blue-green to indigo when cut or bruised, particularly in the stipe base. The bluing reaction is caused by oxidation of psilocin, a dephosphorylated metabolite of [[psilocybin]].
+**Flesh:** Thin, watery. Color whitish in the cap, cream in the stipe. Stains vividly and rapidly blue-green to indigo when cut or bruised, particularly in the stipe base. The bluing reaction is caused by oxidation of psilocin, a dephosphorylated metabolite of [[psilocybin-compound]].
 
 **Spore print:** Dark purple-brown to nearly black.
 
@@ -60,7 +60,7 @@ Associated vegetation includes Pinus oaxacana, Pinus patula, Quercus spp., and v
 
 | Compound | Concentration (dried) | Notes |
 |----------|----------------------|-------|
-| [[psilocybin]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
+| [[psilocybin-compound]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
 | [[psilocin]] | 0.05–0.2% | Active metabolite; 4-HO-DMT |
 | Baeocystin | Trace – 0.05% | 4-PO-NMT; minor alkaloid |
 | Norbaeocystin | Trace | NMT derivative |
@@ -77,13 +77,13 @@ Total tryptamine content is moderate compared to more potent species like [[psil
 - **Guidance** for personal and community decisions
 - **Celebration** of seasonal and agricultural cycles
 
-The most famous practitioner of this tradition was [[María Sabina]] Magdalena García (1894–1985), a Mazatec curandera whose ceremonies with Wasson in 1955 brought psilocybin mushrooms to Western scientific attention. Sabina's ritual use involved consuming pairs of mushrooms (referred to as "little children") in darkness, accompanied by chanting (*cánticos*) and rhythmic invocation. She described the mushroom experience as a journey to a spiritual realm where truth and healing could be accessed.
+The most famous practitioner of this tradition was [[maría-sabina]] Magdalena García (1894–1985), a Mazatec curandera whose ceremonies with Wasson in 1955 brought psilocybin mushrooms to Western scientific attention. Sabina's ritual use involved consuming pairs of mushrooms (referred to as "little children") in darkness, accompanied by chanting (*cánticos*) and rhythmic invocation. She described the mushroom experience as a journey to a spiritual realm where truth and healing could be accessed.
 
 The influx of Western seekers following Wasson's publications disrupted the traditional practice and drew unwanted attention from Mexican authorities. María Sabina later expressed regret about this exposure, as the commodification and recreational use of the mushrooms violated their sacred context. Despite this, the Mazatec mushroom tradition persists in Oaxaca to this day, guarded by practitioners who maintain the ceremonial framework.
 
 ## Legal Status
 
-*Psilocybe huautla* contains [[psilocybin]] and [[psilocin]], both of which are scheduled under the UN Convention on Psychotropic Substances (1971). In Mexico, psilocybin mushrooms are technically illegal under federal law, though indigenous ceremonial use has historically been tolerated. In the United States, the species is classified as Schedule I under the Controlled Substances Act. Several jurisdictions have recently moved toward decriminalization or regulated therapeutic access to psilocybin-containing mushrooms, including Oregon, Colorado, and various municipalities.
+*Psilocybe huautla* contains [[psilocybin-compound]] and [[psilocin]], both of which are scheduled under the UN Convention on Psychotropic Substances (1971). In Mexico, psilocybin mushrooms are technically illegal under federal law, though indigenous ceremonial use has historically been tolerated. In the United States, the species is classified as Schedule I under the Controlled Substances Act. Several jurisdictions have recently moved toward decriminalization or regulated therapeutic access to psilocybin-containing mushrooms, including Oregon, Colorado, and various municipalities.
 
 ## Conservation
 
@@ -91,7 +91,7 @@ While *Psilocybe huautla* has not been formally assessed by the IUCN, its restri
 
 ## Cultivation and Propagation
 
-*Psilocybe huautla* can be cultivated using standard [[psilocybe cubensis]] cultivation techniques with modifications for its ecological preferences. The species is less forgiving than *P. cubensis* regarding substrate and environmental parameters, and is more commonly collected from the wild than grown commercially.
+*Psilocybe huautla* can be cultivated using standard [[psilocybe-cubensis]] cultivation techniques with modifications for its ecological preferences. The species is less forgiving than *P. cubensis* regarding substrate and environmental parameters, and is more commonly collected from the wild than grown commercially.
 
 **Substrate preferences:** The species colonizes a range of substrates including pasteurized wheat straw, hardwood sawdust, and enriched compost. Substrates supplemented with hardwood sawdust or leaf compost better approximate the natural forest-floor conditions of the Sierra Mazateca.
 

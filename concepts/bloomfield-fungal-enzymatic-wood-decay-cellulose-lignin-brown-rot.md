@@ -148,6 +148,3 @@ of the world's largest organism by area.
 - [[bloomfield-wood-decay-fungi-spalted-timber]]
 - [[fungal-ecology-forest-ecosystems]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[bloomfield-basidiomycete-biology-overview]]
-- [[bloomfield-fairy-rings-armillaria-giant-fungi]]
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]]

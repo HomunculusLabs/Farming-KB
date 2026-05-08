@@ -110,7 +110,7 @@ toxic in most species, with seeds being particularly dangerous.
 ## Amanita Muscaria and Amanita Pantherina
 
 [[amanita-muscaria-ambrosia-preparation]] (fly agaric) and amanita pantherina (panther
-cap) contain muscimol (GABA receptor agonist) and [[amanita-muscaria-and-ibotenic-acid-fungi]]
+cap) contain muscimol (GABA receptor agonist) and amanita-muscaria-and-ibotenic-acid-fungi
 (excitatory glutamate receptor agonist). Usually not hepatotoxic when
 properly identified, but overdose can be lethal. Intoxication begins
 within 30 minutes, peaking over 2-3 hours. Ibotenic acid decarboxylates

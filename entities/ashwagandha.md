@@ -14,7 +14,7 @@ sources:
 
 # Withania somnifera (Ashwagandha)
 
-Withania somnifera, commonly known as ashwagandha, Indian ginseng, or winter cherry, is an evergreen shrub in the Solanaceae (nightshade) family. It is one of the most important herbs in Ayurvedic medicine, where it has been used for over 3,000 years as a rasayana (rejuvenating tonic). The name "ashwagandha" derives from Sanskrit, meaning "smell of the horse," referring both to the root's characteristic odor and the traditional belief that it confers the vigor and strength of a horse. Modern pharmacological research has validated many of its traditional uses, establishing it as one of the most evidence-based adaptogenic herbs.
+[[withania-somnifera]], commonly known as ashwagandha, Indian ginseng, or winter cherry, is an evergreen shrub in the Solanaceae (nightshade) family. It is one of the most important herbs in Ayurvedic medicine, where it has been used for over 3,000 years as a rasayana (rejuvenating tonic). The name "ashwagandha" derives from Sanskrit, meaning "smell of the horse," referring both to the root's characteristic odor and the traditional belief that it confers the vigor and strength of a horse. Modern pharmacological research has validated many of its traditional uses, establishing it as one of the most evidence-based [[adaptogenic-herbs-overview]].
 
 ## Botanical Description
 
@@ -43,7 +43,7 @@ The specific withanolide profile varies significantly based on genotype, cultiva
 
 ## Pharmacology
 
-Ashwagandha exerts its adaptogenic effects through multiple interconnected mechanisms. The herb modulates the hypothalamic-pituitary-adrenal (HPA) axis, reducing excessive cortisol secretion during chronic stress. This is mediated through GABA-mimetic activity and regulation of corticotropin-releasing hormone. Anti-inflammatory effects are driven by withaferin A's inhibition of NF-κB, COX-2, and iNOS expression, as well as reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). Neuroprotective mechanisms include antioxidant activity (scavenging of reactive oxygen species, enhancement of endogenous antioxidant enzymes), modulation of Nrf2/ARE signaling, promotion of synaptic plasticity, and acetylcholinesterase inhibition. Immunomodulatory effects include activation of macrophages, enhancement of NK cell cytotoxicity, and T-cell proliferation. The herb also demonstrates thyroid-stimulating activity, particularly in subclinical hypothyroidism.
+Ashwagandha exerts its adaptogenic effects through multiple interconnected mechanisms. The herb modulates the hypothalamic-pituitary-adrenal (HPA) axis, reducing excessive cortisol secretion during chronic stress. This is mediated through GABA-mimetic activity and regulation of corticotropin-releasing hormone. Anti-inflammatory effects are driven by withaferin A's inhibition of NF-κB, COX-2, and iNOS expression, as well as reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). Neuroprotective mechanisms include antioxidant activity (scavenging of [[reactive-oxygen-species-and-oxidative-stress]], enhancement of endogenous antioxidant enzymes), modulation of Nrf2/ARE signaling, promotion of synaptic plasticity, and acetylcholinesterase inhibition. Immunomodulatory effects include activation of macrophages, enhancement of NK cell cytotoxicity, and T-cell proliferation. The herb also demonstrates thyroid-stimulating activity, particularly in subclinical hypothyroidism.
 
 ## Clinical Evidence
 

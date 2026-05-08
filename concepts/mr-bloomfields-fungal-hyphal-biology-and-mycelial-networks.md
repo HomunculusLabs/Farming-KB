@@ -126,8 +126,8 @@ Pathogenic mycelia attack living plants and animals, causing diseases
 that shape the composition of plant communities and impose significant
 costs on agriculture and human health.
 ## See Also
-- [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
-- [[mr-bloomfields-cordyceps-and-entomopathogenic-fungi]]
+- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
+- [[cordyceps-and-entomopathogenic-fungi]]
 - [[plant-cell-structure-and-organelles]]
 - [[dighton-mycorrhizal-succession-forest-ecosystems]]
 - [[singh-fungal-plant-growth-promoting-mechanisms]]

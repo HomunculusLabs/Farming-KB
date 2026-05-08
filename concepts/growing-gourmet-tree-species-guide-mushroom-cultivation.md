@@ -137,7 +137,7 @@ under ideal environmental conditions.
 See also: [[growing-gourmet-substrate-materials-wood-types]]
 See also: [[growing-gourmet-substrate-preparation]]
 See also: [[growing-gourmet-outdoor-log-inoculation-techniques]]
-See also: [[growing-gourmet-shiitake-cultivation]]
+See also: [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 
 ## See Also
 

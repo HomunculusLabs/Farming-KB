@@ -118,6 +118,6 @@ The preserve also serves an important function as wildlife habitat. Birds that n
 
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]] for detailed preserve management
 - [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] for bamboo-specific practices
-- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]] for companion tree planting
+- [[fukuoka-natural-farming-philosophy]] for companion tree planting
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]] for multi-layered orchard design
-- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] for windbreak species selection
+- fukuoka textdoc shelterbelt design environmental tree planting for windbreak species selection

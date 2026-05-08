@@ -96,7 +96,7 @@ Large, slow-growing trees. Self-pollinating.
 
 - [[organic-fruit-tree-care-calendar]]
 - [[hamilton-organic-pest-control]] for pest management
-- [[urban-permaculture-design-methods]]
+- [[urban-permaculture-and-guerrilla-gardening]]
 - [[composting-systems]] for mulch and soil preparation
 - [[growing-soft-fruit-organically]]
 - [[jadam-fruit-tree-winter-pest-control]]

@@ -1,5 +1,5 @@
 ---
-title: Ocimum sanctum
+title: ocimum sanctum
 type: species
 tags:
   - herbal-plant
@@ -17,7 +17,7 @@ sources:
   - "Mondal, S. et al. (2009). The phytochemical and pharmacological profile of Ocimum sanctum Linn. Indian Journal of Pharmacology, 41(6), 246-251."
   - "Gupta, S.K. et al. (2002). Antioxidant and hypoglycemic effects of Ocimum sanctum. Journal of Ethnopharmacology, 79(2), 169-176."
   - "Singh, S. et al. (2007). Ocimum sanctum: A review of the medicinal properties. Pharmacognosy Reviews, 1(1), 131-148."
-  - "Kumar, V. et al. (2019). Comparative analysis of eugenol-rich chemotypes of Ocimum species. Industrial Crops and Products, 130, 447-457."
+  - "Kumar, V. et al. (2019). Comparative analysis of [[eugenol]]-rich chemotypes of Ocimum species. Industrial Crops and Products, 130, 447-457."
 created: 2026-04-28
 ---
 
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Ocimum sanctum** L. (syn. *Ocimum tenuiflorum*), commonly known as **Holy Basil** or **Tulsi** (Sanskrit: "the incomparable one"), is an aromatic perennial herb in the family Lamiaceae. It is one of the most sacred plants in Hinduism, where it is considered an earthly manifestation of the goddess Tulsi and has been cultivated for over 5,000 years in Indian temple gardens and household courtyards. Beyond its religious significance, Tulsi is a cornerstone of **Ayurvedic medicine**, valued as an adaptogen, rasayana (rejuvenative tonic), and broad-spectrum therapeutic agent with extensive modern pharmacological validation.
+**Ocimum sanctum** L. (syn. *Ocimum tenuiflorum*), commonly known as **Holy Basil** or **[[tulsi]]** (Sanskrit: "the incomparable one"), is an aromatic perennial herb in the family Lamiaceae. It is one of the most sacred plants in Hinduism, where it is considered an earthly manifestation of the goddess Tulsi and has been cultivated for over 5,000 years in Indian temple gardens and household courtyards. Beyond its religious significance, Tulsi is a cornerstone of **Ayurvedic medicine**, valued as an adaptogen, rasayana (rejuvenative tonic), and broad-spectrum therapeutic agent with extensive modern pharmacological validation.
 
 ## Taxonomy and Nomenclature
 
@@ -42,7 +42,7 @@ Tulsi exists in several distinct forms:
 
 1. **Krishna Tulsi** (*O. sanctum* var. *purpurascens*) — Purple-leaved, peppery/clove flavor, highest eugenol. Most medicinally potent in Ayurveda.
 2. **Rama Tulsi** (*O. sanctum* var. *sanctum*) — Green-leaved, milder/sweeter, most widely cultivated.
-3. **Vana Tulsi** (*O. gratissimum*) — Wild forest basil, tall/woody, camphoraceous aroma.
+3. **Vana Tulsi** (*O. gratissimum*) — Wild forest basil, tall/woody, [[camphor]] aceous aroma.
 4. **Kapoor Tulsi** — Commercial hybrid bred for vigorous growth, widely available in the West.
 
 ## Morphology
@@ -63,10 +63,10 @@ The essential oil composition varies significantly between chemotypes, but the m
 - **Methyl eugenol**: Present in some chemotypes; genotoxicity concerns at high doses.
 
 ### Terpenoids
-- **Linalool** (2–15%): Anxiolytic, sedative, anti-inflammatory
+- **[[linalool]]** (2–15%): Anxiolytic, sedative, anti-inflammatory
 - **β-Caryophyllene** (5–20%): Cannabinoid receptor 2 (CB₂) agonist; anti-inflammatory
-- **α-Pinene, β-Pinene, Camphor, Limonene**: Minor terpenoid constituents contributing to aroma and pharmacology
-- **Ursolic acid** and **Oleanolic acid**: Triterpenoid acids with anti-inflammatory, hepatoprotective, and anti-cancer properties
+- **α-[[pinene]], β-Pinene, Camphor, Limonene**: Minor terpenoid constituents contributing to aroma and pharmacology
+- **[[ursolic-acid]]** and **Oleanolic acid**: Triterpenoid acids with anti-inflammatory, hepatoprotective, and anti-cancer properties
 
 ### Flavonoids
 - **Apigenin**: Anxiolytic, anti-cancer
@@ -148,6 +148,3 @@ Tulsi is an excellent **companion plant** and polyculture component:
 - [[myrrhis-odorata]]
 
 - [[ocimum-basilicum]] — Sweet basil, culinary relative
-- [[eugenol]] — Primary phenylpropanoid constituent
-- [[ashwagandha]] — *Withania somnifera*, complementary Ayurvedic adaptogen
-- [[permaculture-herb-spiral-details]] — Design integration of medicinal herbs in permaculture systems

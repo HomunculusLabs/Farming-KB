@@ -141,52 +141,6 @@ or overly wet pockets in the finished substrate. The soaking period partially hy
 the endosperm, making nutrients more accessible to colonising mycelium.
 
 The primary disadvantage is the additional preparation time required. The direct addition
-method allows same-day preparation and sterilisation, while the soak method requires
-planning at least 12 hours ahead.
-
-## Calibration Through Experimentation
-
-Because of the inherent variability in grass seed, cultivators are advised to experiment
-with their water ratios. A systematic approach involves preparing several test jars with
-varying water amounts while keeping all other variables constant.
-
-After sterilisation and cooling, each jar is evaluated for shakeability and visual
-moisture indicators. Good substrate shows individual kernels that are swollen and
-slightly shiny but not coated in free water. When shaken, the substrate produces a
-rattling sound as kernels tumble against each other and the glass walls.
-
-Poor substrate shows kernels stuck together in a wet mass. Shaking produces a dull
-thudding sound. Tilting the jar causes the entire mass to move as a single block. Free
-water may be visible pooling at the bottom of the jar.
-
-## Visual Assessment Criteria
-
-The appearance of properly hydrated grain after sterilisation is distinctive. Individual
-kernels should be plump and swollen to roughly 1.5 to 2 times their dry size. The seed
-coat may show slight cracking from the expansion. A thin film of moisture should be
-visible on the glass walls of the jar immediately after shaking, but this film should
-evaporate within a few minutes.
-
-Over-hydrated grain shows a different appearance. The kernels may be swollen to bursting,
-with the endosperm visible through ruptured seed coats. The grain mass clings to the jar
-walls and does not fall away when tilted. A persistent layer of water remains at the
-bottom of the jar even after extended shaking.
-
-Under-hydrated grain appears dry and hard. The kernels show little or no swelling
-compared to their pre-sterilisation state. The seed coats remain intact and tight. No
-moisture film appears on the glass walls. The grain rattles loudly and freely.
-
-## Record Keeping for Moisture Optimisation
-
-Keeping detailed notes on the water-to-seed ratios used with each batch, including the
-supplier, variety, and date of purchase, allows prediction of appropriate ratios for
-familiar seed sources. Over time these records become an invaluable reference that
-reduces the need for test batches and increases first-attempt success rates.
-
-When switching to a new batch or variety of grass seed, prepare a single test jar before
-committing to a full production run. This small investment of time and materials prevents
-the loss of entire batches to incorrect moisture levels.
-
 ## See Also
 
 - [[grass-seed-substrate-preparation-mycology]]

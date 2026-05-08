@@ -119,4 +119,3 @@ Natural farming, as Fukuoka conceives it, is a practice rather than a theory. It
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-liebig-law-critique]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
-

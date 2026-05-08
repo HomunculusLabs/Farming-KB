@@ -68,7 +68,7 @@ Not all tree species respond equally well to coppicing or pollarding. The best r
 
 ### Ideal coppice species
 
-- **Hazel** (*Corylus avellana*) — the classic coppice species; short rotation (5–10 years) for hurdle rods and bean poles.
+- **Hazel** (*[[corylus-avellana]]*) — the classic coppice species; short rotation (5–10 years) for hurdle rods and bean poles.
 - **Sweet chestnut** (*Castanea sativa*) — long rotation (15–25 years) for durable fencing and building timber.
 - **Willow** (*Salix* spp.) — very fast growth; short rotation for basketry and biomass.
 - **Ash** (*Fraxinus excelsior*) — good general-purpose coppice for firewood and tool handles.
@@ -80,7 +80,7 @@ Not all tree species respond equally well to coppicing or pollarding. The best r
 - **Ash** — widely pollarded across lowland England for tool handles and firewood.
 - **Oak** — pollarded oaks are iconic features of historic deer parks and royal forests.
 - **Lime** (*Tilia* spp.) — frequently pollarded in continental Europe for leaf fodder.
-- **Beech** (*Fagus sylvatica*) — slower to respond but produces fine-grained timber.
+- **Beech** (*[[fagus-sylvatica]]*) — slower to respond but produces fine-grained timber.
 
 Conifers generally do not coppice or pollard reliably, with a few exceptions (yew can be pollarded).
 
@@ -88,7 +88,7 @@ Conifers generally do not coppice or pollard reliably, with a few exceptions (ye
 
 ## Yield Characteristics
 
-Coppiced stools typically produce many straight, even-sized rods — ideal for hurdle-making, basketry, thatching spars, and charcoal production. The yield per unit area is high because the regrowth competes for light, promoting vertical extension. A well-managed hazel coppice can yield 5–8 tonnes per hectare per rotation.
+Coppiced stools typically produce many straight, even-sized rods — ideal for hurdle-making, basketry, thatching spars, and [[charcoal-production-for-cooking]]. The yield per unit area is high because the regrowth competes for light, promoting vertical extension. A well-managed hazel coppice can yield 5–8 tonnes per hectare per rotation.
 
 Pollarded trees produce fewer, often thicker poles, and the form is less uniform. However, pollarding can yield usable timber in situations where coppicing would be impossible due to grazing. Pollard poles tend to have more taper and branching than coppice rods, reflecting the greater distance from the root system to the cut point.
 
@@ -112,7 +112,7 @@ Pollarding demands significantly more skill and equipment. Working at height req
 
 ## Risks and Longevity
 
-Both techniques are remarkably sustainable when applied to appropriate species, but risks exist. In coppicing, the cut surfaces are close to soil-borne fungal pathogens, and poorly angled cuts can encourage water retention and decay. Grazing damage to fresh shoots can kill the stool if sustained.
+Both techniques are remarkably sustainable when applied to appropriate species, but risks exist. In coppicing, the cut surfaces are close to soil-borne [[fungal-pathogens-human-disease]], and poorly angled cuts can encourage water retention and decay. Grazing damage to fresh shoots can kill the stool if sustained.
 
 In pollarding, the heavy pollard head can split in strong winds, and the repeated removal of the canopy can gradually reduce the tree's vigour over many centuries. Heart rot in the pollard head is common but usually tolerated by the tree. Topping (cutting a mature, previously unmanaged tree at height) is not true pollarding and frequently leads to decay and structural failure — pollarding must begin when the tree is young.
 

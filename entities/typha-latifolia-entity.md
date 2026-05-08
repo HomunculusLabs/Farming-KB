@@ -2,7 +2,7 @@
 title: "Typha latifolia"
 created: 2026-04-28
 type: species
-tags: [species, plant, wetland, permaculture, edible, medicinal, typhaceae]
+tags: [species, plant, wetland, [[permaculture]], edible, medicinal, typhaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -12,12 +12,12 @@ sources:
 Typha latifolia, commonly known as broadleaf cattail or common cattail, is a
 perennial herbaceous aquatic plant in the family Typhaceae, found in wetlands,
 marshes, and shallow water bodies across much of the Northern Hemisphere. One
-of the most versatile and widely utilized wild plants in human history, nearly
+of the most versatile and widely utilized [[faires-edible-and-useful-wild-plants]] in human history, nearly
 every part of T. latifolia is edible or otherwise useful, earning it
 descriptions such as "the supermarket of the swamp" and "the survival plant."
-It provides food (rhizomes, shoots, pollen, seeds), building material
-(thatching, insulation), and ecological services (water filtration, erosion
-control, wildlife habitat). In permaculture design, cattail is valued as a
+It provides food (rhizobamboo-as-building-materialen, seeds), building material
+(thatching, insulation), and ecological sehemenway-backyard-wildlife-habitatltration, erosion
+control, wildlife habitat). In [[permaculture-design]], cattail is valued as a
 multi-functional water-edge element that simultaneously produces food, filters
 runoff, creates microclimates, and supports biodiversity. Its rapid growth and
 aggressive colonization also make it a potential invader in managed systems,
@@ -117,7 +117,7 @@ Virtually every part of Typha latifolia is edible at some stage:
   limited.
 ## Permaculture Applications
 Typha latifolia is one of the most valuable multi-functional plants in
-permaculture water management:
+permaculture [[water-management]]:
 - **Constructed wetlands and greywater treatment:** Among the most effective
   vascular plants for polishing greywater and treating effluent. Dense
   root/rhizome networks host diverse microbial communities that break down
@@ -146,14 +146,4 @@ permaculture water management:
   damage seed heads but rarely threaten plant health.
 ## See Also
 
-- [[typha-latifolia]]
-
-- [[cpm-entity-pihkal]]
-- [[4-d-entity-pihkal]]
-- [[5-toet-entity-pihkal]]
-- [[lsd-entity-tihkal]]
-- [[4-ho-mipt-entity-tihkal]]
-- Sagittaria latifolia
-- Medicago sativa
-- [[symphytum-officinale]]
-- [[urtica-dioica]]
+- typha latifolia entity

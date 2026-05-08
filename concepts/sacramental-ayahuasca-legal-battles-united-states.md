@@ -138,50 +138,6 @@ peyote, and the use of peyote by specially invited non-natives.
 The Santo Daime and UDV, by contrast, have no racial or ethnic exclusionary
 rules and are open to people of any background. This openness created
 complications for the DEA, which began redrafting peyote regulations in 2000 by
-deleting all mention of the NAC. Purportedly, this was done to bring the wording
-in line with the 1994 Amendments of the American Indian Religious Freedom Act,
-but it was also motivated by the desire to prevent groups like the UDV from
-claiming equal protection under the Constitution.
-
-## Health Research Supporting Religious Use
-
-Research has provided empirical support for the safety of sacramental ayahuasca
-use. A pilot survey assessing the psychological and general health of 15 male
-UDV members residing in Brazil found no adverse health consequences from use of
-ayahuasca and recommended further research into claims of health benefits.
-
-Charles Grob, Dennis McKenna, and colleagues confirmed that membership in
-Brazilian ayahuasca churches and long-term consumption of the tea was associated
-with no adverse health effects, and indeed with a reduction in addictions and
-other psychopathologies. Members of these faiths assert that ayahuasca has
-assisted their recovery from addiction to alcohol and other drugs, paralleling
-earlier findings regarding LSD and other hallucinogens in the treatment of
-alcoholism and heroin addiction.
-
-DMT is physiologically nonaddictive, though the MAOIs contained in orally active
-preparations such as ayahuasca lead to nausea and vomiting that routinely
-follows consumption. Law enforcement measures might not be capable of
-controlling DMT use should local plants become popular manufacture sources,
-since Amazonian plants are not needed for rendering DMT orally active. The same
-beta-carboline MAOIs are found in Peganum harmala (Syrian rue) and Passiflora
-incarnata (passionflower), both of which grow in the United States.
-
-## Broader Implications
-
-The ayahuasca legal cases raise fundamental questions about the definition of
-religious practice, the scope of the Controlled Substances Act, and the ability
-of the American legal system to accommodate spiritual traditions that originated
-outside Western culture. Unlike the NAC, whose claims are grounded in treaty
-obligations to indigenous peoples, the Brazilian ayahuasca churches must make
-their case under the Religious Freedom Restoration Act and the First Amendment.
-
-As history has proven with the NAC, the threat to public welfare does not
-emanate from religious practice but from individuals engaging in irresponsible,
-illicit drug abuse. Although peyote is a Schedule I illicit substance, the
-300,000 Native Americans of the NAC are permitted the nondrug sacramental use of
-peyote. Similar accommodations may expand to American members of the UDV and
-Santo Daime for their nondrug sacramental use of ayahuasca.
-
 ## See Also
 
 - [[alan-shoemaker-ayahuasca-legal-peru]]

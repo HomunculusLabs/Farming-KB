@@ -22,16 +22,16 @@ sources:
 
 # Nut Tree Cultivation for Permaculture Food Forests
 
-Nut trees are among the highest-yielding perennial staple crops available to permaculture designers and food forest stewards. They produce calorie-dense, protein-rich, storable nuts that can serve as foundational food sources for humans, livestock, and wildlife. When integrated into polycultural systems, nut trees provide canopy structure, wind protection, mulch, and deep nutrient cycling from subsoil layers unavailable to annual crops.
+Nut trees are among the highest-yielding perennial staple crops available to [[permaculture-designers-manual-cattle-systems]] and food forest stewards. They produce calorie-dense, protein-rich, storable nuts that can serve as foundational food sources for humans, livestock, and wildlife. When integrated into polycultural systems, nut trees provide canopy structure, wind protection, mulch, and deep nutrient cycling from subsoil layers unavailable to annual crops.
 
 ## Why Nut Trees Belong in Every Food Forest
 
 Nut trees occupy the **overstory and mid-canopy layers** of a food forest design, where they perform multiple functions simultaneously:
 
 - **Food production**: Nuts are 50–70% fat by weight, with significant protein (10–25%) and complex carbohydrates, making them among the most calorically dense plant foods on Earth.
-- **Carbon sequestration**: A mature walnut tree sequesters 20–30 kg of CO₂ per year in above-ground biomass alone, with far more in root systems and associated mycorrhizal networks.
+- **Carbon sequestration**: A mature walnut tree sequesters 20–30 kg of CO₂ per year in above-ground biomass alone, with far more in root systems and associated [[mycorrhizal-networks-and-forest-communication]].
 - **Microclimate creation**: Tall nut tree canopies moderate temperature extremes, reduce wind speed by 40–60%, and slow evapotranspiration in understory layers.
-- **Soil building**: Deep taproots (especially in hickory and walnut) mine minerals from 3–10+ meters below the surface, cycling calcium, magnesium, and trace elements into the canopy and eventually into surface soils via leaf litter.
+- **Soil building**: Deep taproots (especially in hickory and walnut) mine minerals from 3–10+ meters below the surface, cycling calcium, magnesium, and trace elements into the canopy and eventually into surface soils via [[leaf-litter-microfungal-diversity-tropical-temperate]].
 - **Fodder**: Many nut species produce edible leaves, husks, and press cake (after oil extraction) suitable for poultry and livestock feed.
 
 ## Major Nut Tree Species for Temperate Climates
@@ -72,7 +72,7 @@ Walnuts produce the most calorically dense nut in temperate climates, with 65% f
 | **Nut quality** | Strong flavor, thick shell | Mild, thin shell |
 | **Root habit** | Deep taproot | Deep taproot |
 
-**Juglone allelopathy:** Black walnuts produce juglone (5-hydroxy-1,4-naphthoquinone), a compound toxic to many plant species including tomatoes, potatoes, nightshades, apples, and blueberries. However, many permaculture plants are juglone-tolerant: black raspberry, pawpaw, elderberry, currants, mulberry, persimmon, chestnut, and many nitrogen-fixing trees like black locust and autumn olive. Design food forest understories accordingly.
+**Juglone allelopathy:** Black walnuts produce juglone (5-hydroxy-1,4-naphthoquinone), a compound toxic to many plant species including tomatoes, potatoes, nightshades, apples, and blueberries. However, many [[permaculture-plants-root-crops-and-tubers]] are juglone-tolerant: black raspberry, pawpaw, elderberry, currants, mulberry, persimmon, chestnut, and many [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees like black locust and autumn olive. Design food forest understories accordingly.
 
 **Key considerations:**
 - Walnuts need deep, well-drained soils (minimum 1 m to water table).
@@ -200,7 +200,7 @@ A productive nut tree guild layers complementary plants beneath and around each 
 |--------|---------|-------------------|-------|
 | **Standard orchard** | 12 × 12 m | ~70 | Full light, machinery access |
 | **Intensive food forest** | 8 × 8 m | ~150 | Interplanted with smaller trees |
-| **Silvopasture** | 15 × 15 m | ~45 | Wide spacing for pasture/forage |
+| **Silvopasture** | 15 × 15 m | ~45 | [[wide-spacing-dry-gardening-low-irrigation-solomon]] for pasture/forage |
 | **Alley cropping** | 15 m rows, 1–2 m in-row | ~70–100 | Annual crops between rows |
 | **Windbreak/hedgerow** | 1.5–3 m (hazelnut) | Variable | Dense planting for wind protection |
 
@@ -300,7 +300,7 @@ Nitrogen-fixing trees are essential companions in nut tree systems, providing bi
 | Pest | Affected Species | Management |
 |------|-----------------|------------|
 | **Walnut husk fly** (*Rhagoletis completa*) | Walnut | Remove and destroy infested husks; monitor with traps |
-| **Chestnut weevil** (*Curculio* spp.) | Chestnut | Hot water treatment (49°C for 20 min) after harvest |
+| **Chestnut weevil** (*Curculio* spp.) | Chestnut | [[hot-water-and-hydrated-lime-substrate-treatment]] treatment (49°C for 20 min) after harvest |
 | **Pecan weevil** (*Curculio caryae*) | Pecan | Orchard floor management; beneficial nematodes |
 | **Codling moth** (*Cydia pomonella*) | Walnut | Pheromone traps; BT sprays |
 | **Filbertworm** (*Cydia latiferreana*) | Hazelnut | Pheromone traps; cultural controls |
@@ -356,7 +356,7 @@ Nut trees are inherently more climate-resilient than annual crops:
 - **Deep roots** access water and nutrients unavailable to shallow-rooted annuals.
 - **Perennial lifecycle** avoids annual planting/harvest disruptions from weather events.
 - **Long lifespan** allows individual trees to experience and adapt to multi-year climate patterns.
-- **Carbon farming**: Nut tree agroforestry systems sequester 2–10 tonnes of CO₂ per hectare per year.
+- **[[carbon-farming-and-climate-resilient-agriculture]]**: Nut tree agroforestry systems sequester 2–10 tonnes of CO₂ per hectare per year.
 
 Select diverse species and cultivars to hedge against climate uncertainty. Include species from a range of native ranges and adapt your plantings based on projected climate shifts for your region.
 

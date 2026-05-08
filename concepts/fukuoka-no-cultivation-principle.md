@@ -32,7 +32,7 @@ People transplant saplings without giving thought to what they are doing. They c
 
 There is no need to plow because nature has been working at it for thousands of years. Man has restrained the hand of nature and taken up the plow himself. No amount of research can teach man everything there is to know about the soil, and he will certainly never create soils more perfect than those of nature.
 
-[[fukuoka-four-principles-natural-farming]] | [[fukuoka-natural-diet-theory]] | [[no-till-gardening-method]] | [[soil-health-indicators]] | [[fukuoka-do-nothing-farming-philosophy]]
+[[fukuoka-four-principles-natural-farming]] | [[fukuoka-natural-diet-theory]] | [[composting-and-soil-biology]] | [[soil-health-indicators]] | [[fukuoka-do-nothing-farming-philosophy]]
 
 ## Key Points
 

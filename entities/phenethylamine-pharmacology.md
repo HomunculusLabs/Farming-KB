@@ -49,7 +49,7 @@ Three-carbon chain compounds (amphetamines) are generally more potent and longer
 
 ### Entactogens (MDA/MDMA Family)
 
-- [[mda-entity]] — the parent, both psychedelic and stimulant
+- [[mda]] — the parent, both psychedelic and stimulant
 - [[mdma-entity]] — N-methyl-MDA, the prototypical entactogen
 - [[mdea-entity]] (MDE) — N-ethyl-MDA, similar but without MDMA's "magic"
 - [[mbdb-entity]] — N-methyl-1,3-benzodioxolylbutanamine, a non-neurotoxic analogue
@@ -60,7 +60,7 @@ Compounds structurally related to natural essential oils, differing only by elem
 
 - [[mmda-entity]] — from myristicin (nutmeg)
 - [[tma-entity]] — from elemicin
-- [[mda-entity]] — from safrole
+- [[mda]] — from safrole
 - The essential oils serve as a pharmacological index for their amphetamine counterparts
 
 ## Pharmacological Mechanisms

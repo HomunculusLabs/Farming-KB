@@ -148,4 +148,3 @@ The active principle can be absorbed through the skin. If you gently hold a fres
 - [[amanita-muscaria-living-bread-sacrament]] -- Fungal loaf cultivation
 - [[amanita-muscaria-pharmacology-dosing-guide]] -- Dosage information
 - [[soma-multi-plant-admixture-theory]] -- Ancient origins
-- [[amanita-muscaria-eucharist-wafer-preparation]]

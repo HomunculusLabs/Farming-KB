@@ -85,7 +85,7 @@ By the 1970s, oil crises and other factors impacted the capacity to support cont
 
 ## Permaculture as Conserver Design
 
-Permaculture is, at its core, the design science of the conserver society. The [[permaculture-ethics]] of earth care, people care, and fair share are the ethical foundation of conservation. The [[permaculture-earthworks-guide]] are the design tools for building conserver systems. [[retrofitting-suburbs-permaculture]] is the practical strategy for making the transition in existing settlements.
+Permaculture is, at its core, the design science of the conserver society. The [[permaculture-ethics]] of earth care, people care, and fair share are the ethical foundation of conservation. The [[permaculture-water-harvesting-earthworks]] are the design tools for building conserver systems. [[retrofitting-suburbs-permaculture]] is the practical strategy for making the transition in existing settlements.
 
 Holmgren argues that the consumer/conserver distinction is more useful than the more common developed/developing or rich/poor dichotomies because it describes structural relationships rather than relative positions. A wealthy community with strong local food systems, renewable energy, and cooperative economics is more "conserver" than a poor community dependent on imported food, diesel generators, and extractive industries.
 

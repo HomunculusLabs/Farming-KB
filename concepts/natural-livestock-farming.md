@@ -148,11 +148,3 @@ in nature.
 
 - [[chos-global-natural-farming-livestock-applications]]
 - [[knf-livestock-chicken-house-natural-farming]]
-- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
-- [[natural-farming-livestock-integration]]
-- [[fukuoka-natural-livestock-farming]]
-
-- [[energy-efficiency-natural-farming]]
-- The Four Principles of Natural Farming
-- Mahayana vs Hinayana Natural Farming
-- [[clay-pellet-seed-broadcasting]]

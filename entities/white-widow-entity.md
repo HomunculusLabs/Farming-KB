@@ -148,5 +148,3 @@ optimal.
 
 - [[jack-herer]] — Fellow Dutch coffeeshop classic; sativa-dominant comparison
 - [[northern-lights]] — Indica-dominant foundational strain from same era
-- [[skunk-1]] — Another foundational Dutch breeding parent from the 1990s
-- [[og-kush]] — Influential West Coast strain that shares White Widow lineage in some crosses

@@ -147,5 +147,4 @@ recommended for first-line malaria treatment.
 
 - [[artemisia-annua]] — The source plant of artemisinin, a widely
   cultivated medicinal herb with additional bioactive compounds.
-- [[psilocybin]] — Another plant-derived bioactive compound with
-  significant pharmacological properties, produced by fungal species.
+- [[psilocybin-compound]] — Another plant-derived bioactive compound with

@@ -12,7 +12,7 @@ sources:
 
 Masanobu Fukuoka's [[fukuoka-natural-vs-scientific-farming]] is grounded in a sweeping critique of modern agricultural development. He saw the entire project of scientific agriculture as fundamentally misguided -- not merely in its methods but in its underlying assumptions about humanity's relationship with nature.
 
-This critique extended beyond farming practices to encompass the entire edifice of [[fukuoka-critique-scientific-agriculture]] as an institution, an ideology, and a civilizational force.
+This critique extended beyond farming practices to encompass the entire edifice of [[fukuoka-critique-of-scientific-agriculture]] as an institution, an ideology, and a civilizational force.
 
 ## America's Self-Destruction
 
@@ -106,7 +106,7 @@ Ultimately, Fukuoka's critique points toward a radically different understanding
 
 This is not laziness but the deepest form of wisdom: the recognition that nature already knows how to grow food, and that human intervention almost always makes things worse. The path forward is not more technology but less -- a return to the [[fukuoka-return-to-nature-philosophy]] of working with nature rather than against it.
 
-See also: [[fukuoka-natural-vs-scientific-farming]], [[fukuoka-pest-management-without-chemicals]], [[fukuoka-living-soil]], [[fukuoka-food-civilization-critique]], [[fukuoka-critique-scientific-agriculture]], [[fukuoka-breakdown-japanese-agriculture]]
+See also: [[fukuoka-natural-vs-scientific-farming]], [[fukuoka-pest-management-without-chemicals]], [[fukuoka-living-soil]], [[fukuoka-food-civilization-critique]], [[fukuoka-critique-of-scientific-agriculture]], [[fukuoka-breakdown-japanese-agriculture]]
 
 ## Related
 

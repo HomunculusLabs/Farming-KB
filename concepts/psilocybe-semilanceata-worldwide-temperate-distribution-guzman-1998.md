@@ -12,7 +12,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Psilocybe semilanceata, commonly known as the liberty cap, is one of the most
 widely distributed neurotropic fungi in the world. According to the global
-survey by [[Guzmán, Allen & Gartz (1998)]], this species has been documented
+survey by [[guzmán,-allen-&-gartz-(1998)]], this species has been documented
 across an extraordinary range of temperate and boreal habitats spanning both
 hemispheres, yet is notably absent from Mexico as a Neurotropic Fungi Diversity Hotspot, making its distribution pattern a biogeographic anomaly.
 
@@ -148,10 +148,3 @@ distributions, including:
 - [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
 - [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[psilocybe-semilanceata-distribution-ecology]]
-- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
-- [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
-
-- [[Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi]]
-- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas]]
-- [[Four Groups of Neurotropic Fungi: Global Distribution]]
-- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi

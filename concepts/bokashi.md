@@ -92,7 +92,7 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 - Can inoculate bokashi with [[indigenous-microorganisms-imo]] instead of commercial EM
 - Fermented material adds both organic matter and lactic acid bacteria
 - Combine with [[vermicomposting]] and compost for complete soil biology
-- Works well in [[no-till-gardening-method]] systems as layered amendment
+- Works well in [[composting-and-soil-biology]] systems as layered amendment
 
 ## Tips
 

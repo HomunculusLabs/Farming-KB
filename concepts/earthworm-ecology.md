@@ -92,7 +92,7 @@ necessary to support worms -- are in place. If worms are present, the rest of
 the soil food web is likely functioning well.
 
 See also: [[soil-food-web-structure]], [[compost-biology-soil-food-web-inoculation]],
-[[fukuoka-no-till-rice-barley-succession]]
+[[no-till-rice-barley-succession]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

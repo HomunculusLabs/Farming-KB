@@ -79,7 +79,7 @@ The emphasis on local seed networks and community seed banks reflects the permac
 
 - [[home-garden-seed-saving]]
 
-- [[permaculture-seed-saving-and-selection]]
+- [[permaculture-design]]
 
 - [[seed-saving-techniques]]
 

@@ -95,7 +95,7 @@ The concept of soil as multigenerational legacy stands in direct opposition to t
 - [[trainwreck-generational-breeding]] Concepts
 
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
-- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-soil-building-approach]]

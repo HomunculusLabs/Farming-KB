@@ -147,5 +147,3 @@ interactions combine in a productive polyculture:
   (corn tall, beans climbing, squash sprawling), and different nutrient
   niches (beans fix nitrogen, corn uses nitrogen, squash uses potassium).
   Total system productivity exceeds any monoculture of the three species.
-
-## Climate-Specific Companion Planting Guidelines

@@ -1,5 +1,5 @@
 ---
-title: "Statistical Mechanics"
+title: "statistical mechanics"
 type: concept
 category: physics
 related:
@@ -148,7 +148,3 @@ heat — directly links computation to thermodynamics.
 | M. Planck | 1858–1947 | Energy quantization (1900), blackbody formula |
 | A. Einstein | 1879–1955 | Photoelectric effect, Brownian motion, solid C_V |
 | S.N. Bose | 1894–1974 | Photon statistics (1924), BE statistics basis |
-## See Also
-- [[phase-transitions-and-critical-phenomena]]
-- [[bulk-substrate-field-capacity]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]

@@ -104,7 +104,7 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 - **Broad-spectrum sprays** (pyrethroids, organophosphates): kill pollinators directly. Never spray during bloom.
 - **Fungicides**: generally lower toxicity but some (captan, chlorothalonil) harm bee larvae in combination with other chemicals.
 - **Timing**: if spraying is necessary, apply after dusk when bees are inactive. Use products with short residual toxicity.
-- **Alternatives**: see [[insect-allies]] for biological controls (Bt, spinosad, neem — use with caution); [[cannabis-pest-management]] for IPM framework; hand-picking, row covers, companion planting.
+- **Alternatives**: see [[insect-allies]] for biological controls (Bt, spinosad, neem — use with caution); cannabis pest management for IPM framework; hand-picking, row covers, companion planting.
 
 ## Seasonal Needs
 

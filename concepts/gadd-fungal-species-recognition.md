@@ -147,5 +147,3 @@ biosecurity, and the interpretation of ecological studies.
 ## See Also
 
 - [[biodiversity-fungal-species-abundance-diversity]]
-
-- [[fungal-species-recognition-genetics]]

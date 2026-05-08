@@ -51,7 +51,7 @@ Dr. A. E. Stocks (1963) reported that between 1957 and 1963, 11 patients
 were admitted to the Princess Alexandra Hospital in Brisbane due to
 complications from poisoning by several different species of toxic and/or
 mind-altering fungi. Five of these cases were definitively caused by
-psilocybian mushrooms ([[psilocybe-cubensis-profile]]), and two additional patients
+psilocybian mushrooms ([[psychedelic-mushrooms-species-and-identification]]), and two additional patients
 were also probably affected by psilocybian intoxication.
 
 Stocks's paper presented two notable case histories:
@@ -119,7 +119,7 @@ Merlin (1992) concluded that P. foenisecii is not psychoactive.
 
 A significant danger in the Australian context involves Chlorophyllum
 molybdites ("green gills" or "Morgan's Lepiota"), which is common in Australia
-and may be mistaken for [[psilocybe-cubensis-profile]]. In Florida, over 90% of all
+and may be mistaken for [[psychedelic-mushrooms-species-and-identification]]. In Florida, over 90% of all
 mushroom poisonings were reportedly the result of ingesting C. molybdites. The
 inherent danger from ingesting wild mushrooms lies not so much in consuming a
 hallucinogenic variety, but rather in picking and eating a toxic species which

@@ -1,7 +1,7 @@
 ---
 title: "Microgreens vs Shoots — Growing Methods Comparison"
 created: 2026-04-28
-tags: [microgreens, shoots, cut-and-come-again, growing-methods, indoor-farming, urban-agriculture, comparison]
+tags: [microgreens, shoots, cut-and-come-again, [[no-till-grain-growing-methods]], indoor-farming, urban-agriculture, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -34,29 +34,28 @@ sources:
     year: 2025
 type: comparison
 ---
+# Microgreens vs Shoots — [[mushroom-growing-methods-comparison]]
 
-# Microgreens vs Shoots — Growing Methods Comparison
-
-This guide compares two closely related but distinct categories of young edible greens: **microgreens** and **shoots** (also called *leafy shoots* or *cut-and-come-again greens*). Both are grown in soil or soilless medium with light exposure — they are **not** sprouts, which are germinated in water without light.
+This guide compares two closely related but distinct categories of young edible greens: **microgreens** and **shoots** (also called *leafy shoots* or *cut-and-come-again greens*). Bosingh-[[fungal-interactions-with-microbes]]-with-[[singh-fungal-biosorption-reactors-heavy-metals]]-in-soilgrown in soil or soilless medium with light exposure — they are **not** sprouts, which are germinated [[ingoldian-hyphomycetes-spore-dispersal-in-water]] without light.
 
 ## Key Definitions
 
 | Term | Definition |
 |------|-----------|
 | **Microgreens** | Harvested at the first true leaf stage (cotyledons fully open, first true leaves just emerging). Grown 7–21 days. Single harvest. |
-| **Shoots** | Allowed to develop 2–4 true leaves before harvest. Grown 14–35 days. Often supports multiple harvests (cut-and-come-again). |
+| **Shoots** | Allowed to develop 2–4 true leaves [[cannabis-flushing-before-harvest]]. Grown 14–35 days. Often supports multiple harvests (cut-and-come-again). |
 
 ## Quick Comparison Table
 
 | Attribute | Microgreens | Shoots |
 |-----------|-------------|--------|
-| **Growing medium** | Soil, coconut coir, hemp mats, hydroponic pads | Soil preferred (deeper root zone needed), coir works |
+| **[[cervantes-green-algae-growing-medium]]** | Soil, coconut coir, hemp mats, hydroponic pads | Soil preferred (deeper root zone needed), coir works |
 | **Medium depth** | 1–2 cm (½–¾ in) | 3–5 cm (1–2 in) |
 | **Light requirements** | Moderate — 12–16 hrs/day, 2000–5000 lux | Higher — 14–16 hrs/day, 4000–8000 lux |
 | **Light type** | T5, LED strips adequate | Full-spectrum LED recommended for denser foliage |
 | **Seed density** | Dense: 10–50 seeds/sq in depending on variety | Moderate: 5–15 seeds/sq in (more spacing needed) |
 | **Blackout period** | 3–5 days (weighted cover for sturdy stems) | 3–5 days; lighter weight, longer stems OK |
-| **Harvest time** | 7–21 days from sowing | 14–35 days from sowing |
+| **[[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]** | 7–21 days from sowing | 14–35 days from sowing |
 | **Harvest stage** | First true leaf emerging | 2–4 true leaves developed |
 | **Harvest method** | Cut once at soil level with shears or knife | Cut at 1–2 in above soil; regrows for 2–4 cuts |
 | **Yield (per 10×20 tray)** | 2–6 oz (55–170 g) per harvest | 4–12 oz (110–340 g) total across multiple cuts |
@@ -147,13 +146,3 @@ Microgreens are the faster entry point for new growers, while shoots offer bette
 Choose **microgreens** when speed, concentrated flavor, and rapid turnover are priorities. They are ideal for small spaces, quick market entry, and garnish-focused production.
 
 Choose **shoots** when maximizing yield per seed, extending harvest windows, and producing a sturdier, longer-shelf-life product are more important. Pea and sunflower shoots in particular offer excellent commercial potential with manageable growing requirements.
-
-## See Also
-
-- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
-- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[comparison-berry-growing-vs-fruit-tree-pruning]]
-- [[cervantes-growing-mediums-comparison]]
-- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
-
-- [[appropriate-technology]]

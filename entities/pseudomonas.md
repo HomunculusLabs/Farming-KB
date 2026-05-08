@@ -26,7 +26,7 @@ rod-shaped bacteria in the family Pseudomonadaceae. With over 270 named
 species, it is one of the most ecologically versatile bacterial genera,
 inhabiting soil, water, plant surfaces, and animal tissues. Members play
 critical roles in [[soil-food-web]] dynamics,
-[[plant-growth-promoting-rhizobacteria]], [[mycopesticides-fungal-biocontrol]],
+[[plant-growth-promoting-rhizobacteria]], [[mushroom-cultivation-fundamentals]],
 bioremediation, and [[mushroom-cultivation]].
 
 ## Taxonomy and Characteristics
@@ -64,7 +64,7 @@ Many *Pseudomonas* species are among the most important
 
 ## Biocontrol
 
-*Pseudomonas* species are among the most widely studied [[mycopesticides-fungal-biocontrol]]
+*Pseudomonas* species are among the most widely studied [[mushroom-cultivation-fundamentals]]
 bacteria. Mechanisms include:
 
 - **Antibiotic production:** Phenazine, pyoluteorin, DAPG, pyrrolnitrin,

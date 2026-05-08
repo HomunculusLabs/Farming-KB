@@ -148,4 +148,3 @@ applications of permaculture principles at the home garden scale.
 - [[mollison-pdc-trellis-systems-climate-control]]
 - [[permaculture-zone-one-design]]
 - [[jeavons-companion-planting]]
-- [[polyculture-design-hemenway]]

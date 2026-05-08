@@ -105,7 +105,7 @@ Up to about ten black wattles should be planted per quarter-acre among fruit tre
 Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
 
 ## See Also
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-ground-cover-strategy]]
 - [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-white-clover-cover-crop-system]]

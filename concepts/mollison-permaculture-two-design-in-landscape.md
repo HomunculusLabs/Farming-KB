@@ -28,7 +28,7 @@ Permaculture Two (1979) establishes seven foundational reasons for designing pla
 
 7. Provide wide range of necessities -- achievable by every person on small areas
 
-These seven reasons form the philosophical foundation that [[permaculture-two-design-principles]] elaborates into practical design methodology. They connect directly to the [[permaculture-design-principles-beginners]] framework used in modern design courses.
+These seven reasons form the philosophical foundation that [[permaculture-two-design-principles]] elaborates into practical design methodology. They connect directly to the [[permaculture-design-principles]] framework used in modern design courses.
 
 ## Slope-Based Design Principles
 
@@ -80,7 +80,7 @@ The interface between two ecosystems represents a third, more complex system com
 
 - [[permaculture-two-design-principles]]
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 
 - [[keyline-design-water-management]]
 

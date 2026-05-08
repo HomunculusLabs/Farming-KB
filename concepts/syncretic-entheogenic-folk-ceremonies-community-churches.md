@@ -1,7 +1,7 @@
 ---
 title: Syncretic Entheogenic Folk Ceremonies and Community Churches
 created: 2026-04-28
-tags: [entheogens, shamanism, ayahuasca, peyote, iboga, religion, syncretism, indigenous-culture, community, ceremonial-practices]
+tags: [entheogens, shamanism, ayahuasca, [[peyote]], iboga, religion, syncretism, indigenous-culture, community, ceremonial-practices]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,9 +9,7 @@ sources:
 type: concept
 ---
 
-# Syncretic Entheogenic Folk Ceremonies and Community Churches
-
-Ralph Metzner identified a distinct category of entheogenic practice: **syncretic folk religious ceremonies** that sit between traditional shamanic healing rituals and modern Western therapeutic approaches. These ceremonies involve fairly large groups (20 to several hundred participants) and emphasize group worship, celebration, singing, and prayer over individual healing or divination. Groups have typically organized into recognized churches, providing social cohesion and legal protection for members.
+# Syncretic Entheogenic Folk Ceremonies and Community Church [[ralph-metzner]] zner identified a distinct category of entheogenic practice: **syncretic folk religious ceremonies** that sit between traditio [[shamanic-healing-variants-and-divination]] ling rituals and modern Western therapeutic approaches. These ceremonies involve fairly large groups (20 to several hundred participants) and emphasize group worship, celebration, singing, and prayer over individual healing or divination. Groups have typically organized into recognized churches, providing social cohesion and legal protection for members.
 
 ## Distinguishing Features from Shamanic Rituals
 
@@ -33,7 +31,7 @@ An important social function of these religious ceremonies is to strengthen comm
 
 Anthropologists have noted that these churches provide a **protective shield of traditional lore** against the encroachments of Christian missionaries and the seductions of Western consumer culture.
 
-## Peyote Ceremonies: Native American Church
+## Peyote Ceremonies: [[halpern-sacramental-peyote-and-native-american-church]] ting-methods-and-indigenous-agriculture]] Church
 
 ### Legal History
 

@@ -27,7 +27,7 @@ distinct cultivars grown in California.
 ## Two-Tier Selection Model
 
 The microbial communities associated with cannabis roots are governed by a
-two-tier selection model. In this framework, the bulk soil [[edaphic factors]]
+two-tier selection model. In this framework, the bulk soil [[edaphic-factors]]
 such as pH, nitrogen, carbon, salinity, and water content primarily determine
 which microorganisms are available to colonize the rhizosphere. This represents
 the first tier of selection. The second tier occurs when specific cultivar
@@ -128,8 +128,8 @@ The research examined five cultivars across two experiments:
 ## See Also
 
 - [[cannabis-endorhiza-microbiome]]
-- [[soil food web]]
-- [[mycorrhizal fungi]]
-- [[edaphic factors]]
+- [[soil-food-web]]
+- [[mycorrhizal-fungi]]
+- [[edaphic-factors]]
 - [[cannabis-minor-cannabinoids]]
 - [[endophytic-fungi-and-plant-health]]

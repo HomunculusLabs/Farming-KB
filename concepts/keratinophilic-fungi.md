@@ -105,4 +105,4 @@ Keratinophilic fungi are significant causes of superficial fungal infections:
 - Filipello Marchisio, V. 2000. Keratinophilic fungi: their role in nature and degradation
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]

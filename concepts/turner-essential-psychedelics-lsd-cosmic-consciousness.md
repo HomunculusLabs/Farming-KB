@@ -122,7 +122,7 @@ in a sober state.
 - [[turner-harmala-psychedelic-potentiation-signature]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
 - [[leary-psychedelic-bardo-model]]
-- [[psychedelic-mushroom-music-and-culture]]
+- [[mushroom-cultivation-fundamentals]]
 - [[timothy-leary-harvard-psilocybin-experiments]]
 
 ## See Also

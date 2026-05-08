@@ -37,7 +37,7 @@ The dramatic rise from zero to peak levels by flush 4 suggests that psilocin pro
 
 ## Biosynthetic Interpretation
 
-The delayed accumulation of psilocin relative to [[psilocybin]] supports the hypothesis that psilocin is primarily a **dephosphorylation product** of psilocybin rather than being independently synthesized in significant quantities. Several possible explanations exist for this temporal pattern:
+The delayed accumulation of psilocin relative to [[psilocybin-compound]] supports the hypothesis that psilocin is primarily a **dephosphorylation product** of psilocybin rather than being independently synthesized in significant quantities. Several possible explanations exist for this temporal pattern:
 
 - **Enzyme induction**: The phosphatase enzyme responsible for converting psilocybin to psilocin may be upregulated only after repeated fruiting cycles, possibly as a stress response to substrate depletion or contamination pressure. Fungal phosphatases are known to be inducible under nutrient limitation.
 - **Substrate depletion**: As nutritional resources in the rye grain substrate become exhausted, the metabolic pathways may shift toward catabolic processes, including dephosphorylation of stored psilocybin. This would be consistent with the role of phosphate as both a nutrient and a regulatory signal in fungal metabolism.
@@ -67,7 +67,7 @@ The flush-dependent nature of psilocin accumulation has practical consequences f
 
 - **Potency is not uniform**: Growers cannot assume consistent alkaloid profiles across all flushes from a single grow. Later flushes contain proportionally more psilocin, which may produce qualitatively different subjective effects.
 - **Harvest timing matters**: If maximizing total tryptamine content is desired, later flushes (3 to 5) may be preferable. If consistent dosing is important, blending material from multiple flushes is advisable to average out the variation.
-- **Drying and storage**: Since psilocin is less stable than [[psilocybin]], later-flush material with higher psilocin content may degrade faster during drying and storage, particularly if not freeze-dried immediately. This has been confirmed by subsequent studies showing psilocin oxidizes to blue quinone polymers upon exposure to air and light.
+- **Drying and storage**: Since psilocin is less stable than [[psilocybin-compound]], later-flush material with higher psilocin content may degrade faster during drying and storage, particularly if not freeze-dried immediately. This has been confirmed by subsequent studies showing psilocin oxidizes to blue quinone polymers upon exposure to air and light.
 - **Flush management decisions**: Some cultivators choose to discard early flushes and focus on later flushes for personal use, while others blend all flushes together to average out the variability in potency and alkaloid profile.
 
 ## Comparison With Other Strains

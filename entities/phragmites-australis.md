@@ -103,7 +103,7 @@ Additional uses include basket weaving, paper pulp, musical reed instruments, an
 
 ## See Also
 
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - wetland
 - [[phytoremediation]]
 - bioremediation

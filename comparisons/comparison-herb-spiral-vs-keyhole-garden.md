@@ -122,7 +122,7 @@ capacity.
 - [[permaculture-designers-manual-keyhole-garden]] for building plans and compost basket details
 - [[mandala-garden-design]] for larger-scale circular garden patterns
 - [[zone-1-intensive-garden]] for Zone 1 planning principles
-- [[gaias-garden-herb-spiral-and-natural-patterns]] for Toby Hemenway's approach
+- gaias garden herb spiral and natural patterns for Toby Hemenway's approach
 - [[mollison-designers-herb-spiral-design-construction]] for the original 
 design manual reference
 - [[comparison-banana-circle-vs-herb-spiral]]

@@ -81,7 +81,7 @@ The method also demonstrates the [[fukuoka-natural-soil-fertility]] principle: s
 
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 
-- [[fukuoka-no-till-rice-barley-succession]]
+- [[no-till-rice-barley-succession]]
 
 - [[fukuoka-high-yield-rice-barley]]
 

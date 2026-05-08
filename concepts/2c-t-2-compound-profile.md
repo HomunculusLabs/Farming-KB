@@ -109,4 +109,4 @@ changes.
 - [[psychedelic-safety-and-harm-reduction]]
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 - [[phenethylamine-synthesis-safety]]
-- [[structure-activity-relationship-medicinal-chemistry]]
+- structure activity relationship medicinal chemistry

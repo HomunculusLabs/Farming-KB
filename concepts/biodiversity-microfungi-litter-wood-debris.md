@@ -148,4 +148,3 @@ cycling, breaking down cellulose, lignin, and other complex plant
 polymers. They interact with [[biodiversity-fungi-soil-fungal-communities]] through spore rain
 and substrate continuity. Their activities influence soil structure,
 water retention, and the availability of nutrients for plant growth.
-Some litter-inhabiting microfungi also function as [[biodiversity-fungi-plant-pathogens]] or produce

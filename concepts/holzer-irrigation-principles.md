@@ -49,7 +49,7 @@ in any environment.
 
 The most important and sustainable approach is maintaining a good
 hydrological balance. This ensures sufficient dew and vegetation that
-prevents soil from drying out. [[holzer-water-landscapes-pond-building]] are the primary tool for achieving this.
+prevents soil from drying out. [[sepp-holzer-permaculture-and-rebel-farming]] are the primary tool for achieving this.
 
 ### 2. Water Less
 
@@ -133,9 +133,9 @@ plant health.
 
 ## Integration with Broader Water Management
 
-Irrigation is just one aspect of [[holzer-water-landscapes-pond-building]]. The hierarchy of importance is:
+Irrigation is just one aspect of [[sepp-holzer-permaculture-and-rebel-farming]]. The hierarchy of importance is:
 
-1. Establish hydrological balance through [[holzer-water-landscapes-pond-building]] and [[comparison-swale-vs-contour-line-water-management]]
+1. Establish hydrological balance through [[sepp-holzer-permaculture-and-rebel-farming]] and [[comparison-swale-vs-contour-line-water-management]]
 2. Build soil organic matter to increase water retention capacity
 3. Maintain permanent vegetation cover
 4. Use mulch where vegetation cover is absent

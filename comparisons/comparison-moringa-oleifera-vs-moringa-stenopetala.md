@@ -1,5 +1,5 @@
 ---
-title: "Moringa oleifera vs. Moringa stenopetala"
+title: "[[moringa]] ga-oleifera-cultivation-uses-and-nutrition]] vs. [[moringa-stenopetala]]"
 created: 2026-04-28
 tags:
   - moringa
@@ -36,7 +36,7 @@ type: comparison
 | **Drought tolerance** | Excellent | Excellent, slightly better in prolonged dry seasons |
 | **Nutritional density** | Exceptionally high | Slightly higher in some minerals (Ca, Fe) |
 | **Leaf taste** | Peppery, horseradish-like | Milder, more cabbage-like, less bitter |
-| **Water purification** | Well-studied, highly effective | Effective, less studied |
+| **[[query-can-moringa-be-used-for-water-purification]]** | Well-studied, highly effective | Effective, less studied |
 | **Global availability** | Widespread (supplements, powder, fresh) | Limited outside East Africa |
 | **Optimal climate** | Tropical / subtropical arid to semi-arid | Subtropical / mild tropical, higher elevations OK |
 
@@ -48,7 +48,7 @@ type: comparison
 
 ## Native Range and Climate Adaptation
 
-*Moringa oleifera* originates from the foothills of the Himalayas in northern India and Pakistan but has naturalized across tropical and subtropical regions worldwide — from Southeast Asia to West Africa, Central America, and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
+*Moringa oleifera* originates from the foothills of the Himalayas in northern India and Pakistan but has naturalized across tropical and subtropical regions worldwide — from [[fungi-of-southeast-asia]] to West Africa, Central America, and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
 
 *Moringa stenopetala* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for East African highland farming systems where *M. oleifera* would struggle.
 

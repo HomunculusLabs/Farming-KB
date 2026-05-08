@@ -90,7 +90,7 @@ The branching network pattern of mycelium appears throughout nature — neurons 
 - [[mushroom-nutritional-categories-and-fungal-habitat-roles]] Concepts
 
 - [[fungal-ecology]] — fungal roles in ecosystems
-- [[fungal-ecology-forest-floor]] — decomposition and nutrient cycling
+- [[the-soil-food-web]] — decomposition and nutrient cycling
 - [[fungal-species-concept]] — species-level fungal biology
 - [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
 - [[saprotrophic-fungi]] — decomposer fungi in detail

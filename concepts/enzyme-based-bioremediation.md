@@ -113,7 +113,7 @@ Protein engineering approaches including directed evolution and rational design 
 
 Enzyme production using recombinant expression systems in yeast, fungi, or bacteria can provide the large quantities needed for field-scale applications.
 
-Integration of enzyme-based treatment with other remediation technologies, including [[fungal-bioreactor-effluent-treatment]] and [[biosurfactants-in-bioremediation]], can create synergistic treatment trains that address the limitations of individual approaches.
+Integration of enzyme-based treatment with other remediation technologies, including [[fungal-bioreactor-effluent-treatment]] and [[bioremediation-using-fungi]], can create synergistic treatment trains that address the limitations of individual approaches.
 
 Development of robust enzyme formulations that maintain activity during storage, transport, and application is essential for practical deployment of enzyme-based remediation technologies.
 

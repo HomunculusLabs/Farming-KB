@@ -1,20 +1,19 @@
 ---
 title: "Telepathine, Harmala Alkaloids, and the MAO Inhibitor Discovery"
 created: 2026-04-28
-tags: [telepathine, harmine, harmala, MAO-inhibitor, ayahuasca, Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
+tags: [telepathine, [[harmine]], harmala, MAO-inhibitor, [[ayahuasca]], Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
+# Telepathine, [[harmala-alkaloids-and-ayahuasca-preparation]], and the MAO Inhibitor Discovery
 
-# Telepathine, Harmala Alkaloids, and the MAO Inhibitor Discovery
-
-In *Food of the Gods*, Terence McKenna recounts the remarkable story of "telepathine" — a
-compound initially isolated from the Amazonian ayahuasca vine and named for its reputed
-telepathy-inducing properties — and its later identification as harmine, a beta-carboline
-alkaloid found in *Peganum harmala* (Syrian rue). This narrative illuminates a crucial
+In *Food of the Gods*, [[terence-mckenna]] recounts the remarkable story of "telepathine" — a
+compounamazonian-ayahuasca-purge-and-diet-practicesd from the Amazonian ayahuasca vine and named for its reputed
+telepharmineducing properties — and its later identification as harmine, a beta-carboline
+alkaloid found in *[[peganum-harmala]]* ([[syrian-rue]]). This narrative illuminates a crucial
 pharmacological discovery: the mechanism of monoamine oxidase inhibition (MAOI), which
 indigenous Amazonian peoples had exploited for centuries in their preparation of
 ayahuasca. The story of telepathine exemplifies the tension between indigenous knowledge
@@ -26,7 +25,7 @@ The story begins with the nineteenth-century explorer-naturalists. In the 1850s,
 Richard Spruce and Alfred Russel Wallace traveled in the Amazon drainage. On the upper
 reaches of the Rio Negro, Spruce observed a group of Indians preparing an unfamiliar
 hallucinogen. The main ingredient was a liana, a woody climbing vine, which he named
-*Banisteria caapi* (later reclassified as *Banisteriopsis caapi*). Several years later,
+*Banisteria caapi* (later reclassified as *[[banisteriopsis-caapi]]*). Several years later,
 while traveling in western Ecuador, Spruce saw the same plant being used to make a
 hallucinogen called ayahuasca.
 
@@ -65,7 +64,7 @@ where it competes with serotonin for synaptic bonding sites.
 McKenna stresses the extraordinary nature of this discovery: "Native peoples of the
 Amazon region have brilliantly exploited these facts in their search for techniques to
 access the magical dimensions crucial to shamanism." By combining DMT-containing plants
-with plants that contain MAO inhibitors in their ayahuasca preparations, indigenous
+with plants that contain MAO inhibitors in their [[ayahuasca-preparation]] s, indigenous
 peoples "have long exploited a pharmacological mechanism, MAO inhibition, not described by
 Western science until the 1950s."
 
@@ -148,36 +147,3 @@ magical songs. McKenna explains that the ayahuasca experience includes "extremel
 tapestries of visual hallucination that are particularly susceptible to being 'driven' and
 directed by sound, especially vocally produced sound." Consequently, the ayahuasca-using
 cultures have developed a large repository of magical songs.
-
-The effectiveness, sophistication, and dedication of an ayahuasquero is predicated upon
-how many magical songs he or she has effectively memorized. In actual curing sessions,
-both patient and healer ingest ayahuasca and the singing of the magical songs becomes a
-shared experience that is largely visual. This integration of sound and vision represents a
-sophisticated technology of consciousness that has no parallel in Western psychotherapy.
-
-## Health, Integration, and the Group Mind Hypothesis
-
-McKenna reports on the health effects of long-term ayahuasca use based on his experiences
-among the mestizo populations of Amazonas. He is convinced that "the long-term effect of
-ayahuasca use is an extraordinary state of health and integration." Ayahuasqueros use
-sound and suggestion to direct healing energy into parts of the body and unexamined
-aspects of personal history where psychic tension has accumulated.
-
-Perhaps the most provocative aspect of McKenna's discussion is his treatment of reports
-of "group-mind or telepathy" among less acculturated tribal peoples who use ayahuasca.
-McKenna acknowledges that Western skepticism would dismiss such claims but argues that
-"the chief lesson to be learned from the psychedelic experience is the degree to which
-unexamined cultural values and limitations of language have made us the unwitting
-prisoners of our own assumptions." He notes the "low incidence of serious mental illness
-among such populations" and suggests that this may be related to their regular use of
-psychedelic plants in a context of cultural integration and shamanic guidance.
-
-## Connections
-
-- [[mckenna-ayahuasca-and-amazonian-shamanism]] — the broader context of Amazonian shamanic practice
-- [[mckenna-beringer-mescaline-psychedelic-psychiatry]] — the German psychopharmacological tradition that studied telepathine
-- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] — endogenous DMT and its relationship to ayahuasca compounds
-- [[mckenna-tryptamine-shamanic-identification-and-signs]] — shamanic use of tryptamine-containing plants
-- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] — the pharmacology of ayahuasca's DMT-MAOI combination
-- [[mckenna-shamanism-and-the-lost-archaic-world]] — the archaic context of plant-based shamanism
-- [[mckenna-techniques-of-ecstasy]] — the techniques underlying shamanic plant use

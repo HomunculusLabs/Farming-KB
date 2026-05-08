@@ -38,7 +38,7 @@ Kava occupies a central role in the social, political, and spiritual life of Pac
 | **Family** | Piperaceae |
 | **Genus** | *Piper* |
 | **Species** | *P. methysticum* G.Forst. |
-| **Common names** | Kava, kava kava, ʻawa (Hawaiʻi), yaqona (Fiji), sakau (Pohnpei), malok (Vanuatu) |
+| **Common names** | Kava, [[kava-kava-ethnobotany-chemistry]], ʻawa (Hawaiʻi), yaqona (Fiji), sakau (Pohnpei), malok (Vanuatu) |
 | **Chromosome count** | 2n = 130 (sterile pentaploid) |
 
 ### Morphology
@@ -52,7 +52,7 @@ Kava is a slow-growing, dioecious (in wild relatives) or functionally sterile sh
 
 ### Relationship to Wild Relatives
 
-Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometimes called *Piper subbullatum*), a wild species found in Melanesia. The domestication process — selection for higher kavalactone content, sterility, and vegetative propagation — likely occurred over 3,000+ years in northern Vanuatu before spreading across the Pacific.
+Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometimes called *Piper subbullatum*), a wild species found in Melanesia. The domestication process — selection for higher kavalactone content, sterility, and [[vegetative-propagation-methods-mollison]] — likely occurred over 3,000+ years in northern Vanuatu before spreading across the Pacific.
 
 ## Ethnobotany and Cultural Significance
 
@@ -149,7 +149,7 @@ The chemotype is written as a six-digit number representing the descending order
 
 - **Flavokavains** (A, B, C): Chalcone compounds found in the peel and crown. Flavokavain B has been implicated in potential hepatotoxicity at high concentrations. Noble kavas have lower flavokavain levels than tudei varieties.
 - **Pipermethystine**: An alkaloid found primarily in the above-ground parts (stems and leaves) and in the peel of aerial-grown kava. Associated with hepatotoxicity. NOT found in significant quantities in properly prepared root-only material from noble varieties.
-- **Essential oils**: Various sesquiterpenes contribute to the characteristic pungent aroma.
+- **[[essential-oils-and-hydrosol-distillation]]**: Various sesquiterpenes contribute to the characteristic pungent aroma.
 
 ## Cultivation
 
@@ -206,7 +206,7 @@ Kava grows slowly for the first 6–12 months as the root system establishes. Gr
 - Avoid excessive nitrogen, which can reduce kavalactone concentrations
 - Foliar feeding with micronutrients (especially boron and zinc) can improve growth
 
-**Weed management**:
+**[[weed-management-strategies]]**:
 - Hand-weeding in the first year; kava is sensitive to herbicides
 - As plants mature, the canopy suppresses most weeds
 - Mulching is the primary weed control strategy
@@ -228,7 +228,7 @@ Kava grows slowly for the first 6–12 months as the root system establishes. Gr
 - **Signs of maturity**: Thick stem base (10–15 cm diameter), yellowing lower leaves, reduced new growth
 - **Harvest method**: Dig carefully around the crown to avoid damaging lateral roots. Lift the entire root mass. Separate the crown (basal stump) from lateral roots — lateral roots are preferred for drinking.
 - **Fresh weight yield**: 3–10 kg per plant depending on variety, age, and growing conditions
-- **Post-harvest**: Wash roots thoroughly, peel (especially important — the peel contains higher pipermethystine), and either use fresh or dry
+- **[[post-harvest-handling-marketing-mushrooms]]**: Wash roots thoroughly, peel (especially important — the peel contains higher pipermethystine), and either use fresh or dry
 
 ### Drying and Processing
 
@@ -242,7 +242,7 @@ Kava grows slowly for the first 6–12 months as the root system establishes. Gr
 
 Noble kava varieties typically contain **3–8% total kavalactones** by dry weight. The highest concentrations are found in the lateral roots, particularly the finer root tips. The crown/peel contains lower kavalactone percentages and higher levels of potentially problematic compounds.
 
-Factors affecting kavalactone content:
+[[factors-affecting-mycoremediation-efficiency]] kavalactone content:
 - **Variety/chemotype**: Primary determinant
 - **Plant age**: Increases with maturity; peaks at 3–5 years
 - **Growing conditions**: Adequate potassium and moderate stress can boost concentrations
@@ -289,7 +289,7 @@ In the early 2000s, several cases of hepatotoxicity linked to kava consumption p
 3. **Poor quality control**: Adulterated or incorrectly identified plant material
 4. **Solvent extraction methods**: Acetone and ethanol extracts may concentrate harmful compounds differently than traditional water extraction
 5. **Pre-existing liver conditions**: Some patients had pre-existing liver disease or were taking hepatotoxic medications concurrently
-6. **CYP450 interactions**: Kavalactones inhibit certain cytochrome P450 enzymes, potentially interacting with pharmaceuticals
+6. **CYP450 interactions**: Kavalactones inhibit certain [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes, potentially interacting with pharmaceuticals
 
 ### Current Regulatory Status
 
@@ -395,4 +395,4 @@ The 3–5 year maturation period makes kava a long-term investment, but its high
 
 ## Summary
 
-Kava represents one of humanity's oldest and most culturally significant psychoactive plants. Its unique pharmacology — anxiolytic without sedation, relaxing without intoxication — makes it a compelling alternative to pharmaceutical anxiolytics and alcohol. When sourced from noble varieties, prepared from peeled lateral roots using traditional water extraction, and consumed responsibly, kava has an excellent safety profile supported by thousands of years of traditional use and growing clinical evidence. The plant's cultivation supports Pacific Island economies while preserving cultural traditions, and modern research continues to validate and expand our understanding of this remarkable species.
+Kava represents one of humanity's oldest and most culturally significant [[psychoactive-plants-united-states]]. Its unique pharmacology — anxiolytic without sedation, relaxing without intoxication — makes it a compelling alternative to pharmaceutical anxiolytics and alcohol. When sourced from noble varieties, prepared from peeled lateral roots using traditional water extraction, and consumed responsibly, kava has an excellent safety profile supported by thousands of years of traditional use and growing clinical evidence. The plant's cultivation supports Pacific Island economies while preserving cultural traditions, and modern research continues to validate and expand our understanding of this remarkable species.

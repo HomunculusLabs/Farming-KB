@@ -62,7 +62,7 @@ has allowed the species to spread widely throughout the country.
 
 ## Habitat and Ecology
 
-Unlike the dung-inhabiting [[psilocybe-cubensis-profile]] or [[panaeolus-cyanescens-bali-omelette]],
+Unlike the dung-inhabiting [[psychedelic-mushrooms-species-and-identification]] or [[panaeolus-cyanescens-bali-omelette]],
 P. subaeruginosa is primarily a wood-inhabiting species. Its preference for
 decaying wood chips, bark mulch, and buried woody debris places it in a
 different ecological niche. In urban and suburban environments, it is frequently
@@ -79,7 +79,7 @@ The psychoactive properties of psilocybe subaeruginosa australia were first
 confirmed in 1970 when Picker and Rickards reported finding psilocybine (but
 no psilocine) in Australian specimens. This was only the second record of
 hallucinogenic mushrooms in Australia, following the 1958 documentation of
-[[psilocybe-cubensis-profile]] by Aberdeen and Vogt.
+[[psychedelic-mushrooms-species-and-identification]] by Aberdeen and Vogt.
 
 The development of a more accurate method for determining the exact amounts of
 hallucinogenic compounds was driven by the need to analyze confiscated specimens
@@ -108,7 +108,7 @@ discussed in [[metol-testing-bluing-reaction-mushrooms]].
 ## Dosage
 
 Dosage for psilocybe subaeruginosa australia is approximately the same as that given
-for [[psilocybe-cubensis-profile]]: 1 to 3 large specimens, 4 to 6 small specimens,
+for [[psychedelic-mushrooms-species-and-identification]]: 1 to 3 large specimens, 4 to 6 small specimens,
 or 1 to 2 grams of dried material. However, bioassays of related Australian
 wood-chip species suggest they may be as potent as Psilocybe cyanescens, which
 is considered one of the most potent psilocybian species commonly found
@@ -127,7 +127,7 @@ Schedule 1 drugs by the International Convention on Psychotropic Substances of
 
 ## See Also
 
-- [[psilocybe-cubensis-profile]] -- the most common dung-inhabiting psychoactive species
+- [[psychedelic-mushrooms-species-and-identification]] -- the most common dung-inhabiting psychoactive species
 - [[panaeolus-cyanescens-bali-omelette]] -- another common Australian psychoactive species
 - [[cattle-dispersal-psychoactive-fungi-australia]] -- how fungi arrived in
   Australia

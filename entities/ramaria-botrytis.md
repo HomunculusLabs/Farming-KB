@@ -45,7 +45,7 @@ Ramaria botrytis produces some of the largest fruiting bodies among coral mushro
 - **Branching pattern:** Repeatedly branched from a thick, fleshy base. The main stalk is short and stout, 2–4 cm thick, dividing into several primary branches that subdivide into numerous secondary and tertiary branches. The branching pattern is erect and symmetrical, somewhat resembling a cauliflower or coral colony.
 - **Coloration:** The base and primary branches are white to pale cream or buff. The branch tips and younger growth are distinctly pink to rose-colored, sometimes with salmon or apricot tints. With age, the pink fades and the entire fruiting body may become brownish or ochraceous. The flesh is white.
 - **Flesh:** Firm and white when young, becoming soft and crumbly with age. The flesh has a mild, pleasant odor and a mildly peppery or slightly bitter taste.
-- **Spore print:** Pale yellowish-buff to ochre.
+- **[[spore-print]]:** Pale yellowish-buff to ochre.
 - **Spores:** Ellipsoidal to narrowly ovoid, finely roughened (echinulate), 8–14 × 3.5–5.5 µm.
 - **Habitat:** Growing on the ground in deciduous and mixed forests, often partially buried in leaf litter or duff.
 
@@ -86,8 +86,8 @@ Ramaria botrytis is generally considered a good edible mushroom when collected y
 
 Correct identification of Ramaria botrytis requires distinguishing it from several similar coral mushrooms:
 
-- **Ramaria formosa:** Similar in size and general appearance but has more orange to salmon-pink coloration throughout and a distinctly bitter or acrid taste. R. formosa is considered poisonous and causes gastrointestinal distress. The two species can be very difficult to distinguish without tasting (a small amount touched to the tongue and spat out).
-- **Ramaria stricta:** A smaller, upright coral mushroom with a more restricted branching pattern. Usually found on decaying wood rather than on the ground. Edible but not choice.
+- **[[ramaria-formosa]]:** Similar in size and general appearance but has more orange to salmon-pink coloration throughout and a distinctly bitter or acrid taste. R. formosa is considered poisonous and causes gastrointestinal distress. The two species can be very difficult to distinguish without tasting (a small amount touched to the tongue and spat out).
+- **[[ramaria-stricta]]:** A smaller, upright coral mushroom with a more restricted branching pattern. Usually found on decaying wood rather than on the ground. Edible but not choice.
 - **Ramaria aurea:** Golden-yellow coral mushroom, also edible but with a different color scheme.
 - **Ramaria obtusissima:** Similar branching but with blunt branch tips and different spore morphology.
 
@@ -99,7 +99,7 @@ Research on Ramaria botrytis specifically is limited, but studies on related Ram
 
 - **Antioxidant compounds:** Methanolic extracts show significant DPPH radical scavenging activity, attributed to phenolic compounds and carotenoids
 - **Anti-inflammatory:** Water-soluble polysaccharide fractions from Ramaria species exhibit anti-inflammatory activity in vitro
-- **Immunomodulatory:** Beta-glucans and other polysaccharides contribute to immune system stimulation
+- **Immunomodulatory:** [[beta-glucans]] and other polysaccharides contribute to immune system stimulation
 - **Antimicrobial:** Some Ramaria species show activity against Gram-positive bacteria and select fungi
 
 The pink pigmentation of the branch tips is due to carotenoid compounds, which may have additional antioxidant properties. The specific carotenoid profile of R. botrytis has not been fully characterized.
@@ -123,11 +123,11 @@ Ramaria botrytis is not currently listed as threatened, but like many ectomycorr
 - Air pollution and acid deposition
 - Changes in forest composition due to climate change
 
-In some European countries, the species has declined in areas with intensive forest management. Collection for food should be done sustainably, leaving some specimens to complete their spore dispersal function.
+In some European countries, the species has declined in areas with intensive forest management. Collection for food should be done sustainably, leaving some specimens to complete their [[spore-dispersal]] function.
 
 ## See Also
 
-- [[cantharellus-cibarius]] — Golden Chanterelle, another prized mycorrhizal edible
+- [[cantharellus-cibarius-entity]] — Golden Chanterelle, another prized mycorrhizal edible
 - clavulina cristata — Crested Coral, a smaller coral mushroom in a different genus
 - [[hericium-erinaceus]] — Lion's Mane, another visually distinctive edible mushroom
 - [[ectomycorrhizal-associations]] — Mycorrhizal ecology and forest dynamics

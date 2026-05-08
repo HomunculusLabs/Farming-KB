@@ -71,7 +71,7 @@ Fire defense works from valleys upward. Valleys naturally accumulate moisture an
 
 ## Integration with Other Systems
 
-Fire control in permaculture is never treated as a standalone system. It is integrated with water management ([[water-storage-techniques]], [[keyline-design]]), earthworks ([[permaculture-earthworks-guide]]), animal systems ([[forage-systems-animals-permaculture]]), and house siting ([[permaculture-site-analysis]]). The key insight is that good design for one purpose inherently improves conditions for others -- properly placed water, roads, and vegetation serve fire safety, food production, and comfort simultaneously.
+Fire control in permaculture is never treated as a standalone system. It is integrated with water management ([[water-storage-techniques]], [[keyline-design]]), earthworks ([[permaculture-water-harvesting-earthworks]]), animal systems ([[forage-systems-animals-permaculture]]), and house siting ([[permaculture-site-analysis]]). The key insight is that good design for one purpose inherently improves conditions for others -- properly placed water, roads, and vegetation serve fire safety, food production, and comfort simultaneously.
 
 ## See Also
 
@@ -81,7 +81,7 @@ Fire control in permaculture is never treated as a standalone system. It is inte
 - [[permaculture-site-analysis]]
 - [[sectors-in-permaculture]]
 - [[permaculture-zones-system]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[forests-in-permaculture]]
 
 ## Related

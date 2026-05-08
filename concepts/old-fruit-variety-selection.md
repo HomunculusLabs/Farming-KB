@@ -12,10 +12,6 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 [[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For Holzer's broader approach, see [[sepp-holzer-method]] and [[permaculture]].
 This connects to [[apple-centered-guild-design]] and [[fruit-tree-propagation]] for complementary orchard techniques. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
-
-
-
-
 ## Recommended Old Apple Varieties
 
 | Variety | Location & Characteristics | Ripening Time | Fruit Characteristics |
@@ -35,10 +31,6 @@ This connects to [[apple-centered-guild-design]] and [[fruit-tree-propagation]] 
 | Winter Rambou | Fresh soil, scab resistant, winter apple | Beginning of October | Cooking and dessert apple, stores until January |
 | Zabergau Reinettes | Moderately sensitive to frost, grows on dry soil | Mid to end of October | Sweet and aromatic, stores until March |
 
-
-
-
-
 ## Recommended Old Pear Varieties
 
 | Variety | Characteristics | Ripening Time | Fruit |
@@ -50,10 +42,6 @@ This connects to [[apple-centered-guild-design]] and [[fruit-tree-propagation]] 
 | Williams' Bon Chretien | Does not need much sun, good yields in partial shade | End of August | Particularly good flavour, very aromatic |
 | Subira | Undemanding, thrives at high altitudes | September | Exceptionally good for schnapps |
 
-
-
-
-
 ## Recommended Damson and Plum Varieties
 
 | Variety | Characteristics | Ripening Time | Fruit |
@@ -64,27 +52,15 @@ This connects to [[apple-centered-guild-design]] and [[fruit-tree-propagation]] 
 | Kirke's Plum | Undemanding, resistant to cold, well suited to harsh conditions | September | Large, sweet, juicy dessert plum |
 | Czar | Prefers good wet soil in sheltered areas, ripens up to 1,400m | August | Juicy and mildly aromatic |
 
-
-
-
-
 ## Wild and Sour Cherries
 
 [[holzer-livestock-integration]] complements these orchard strategies.
 Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
 
-
-
-
-
 ## Apricot and Peach Varieties
 
 [[seed-saving-techniques]] are essential for preserving these old varieties.
 These can be grown at altitude if sheltered from wind and grown in climatically advantageous locations. Microclimates using stones or bodies of water to reflect heat are necessary. Under no circumstances should chemical fertilisers be used — fertilised trees do not lignify well enough and are not frost resistant.
-
-
-
-
 
 ## Related
 
@@ -94,7 +70,7 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[apple-tree-care]]
 - [[climate-and-microclimate-management]]
 - [[holzer-old-varieties-and-seed-saving]] — Holzer's approach to preserving old varieties
-- [[stone-fruit-tree-care]] — care guide for stone fruits (plums, cherries, peaches)
+- stone fruit tree care — care guide for stone fruits (plums, cherries, peaches)
 - [[windbreak-shelterbelt-species-selection]] — shelterbelt species for orchard protection
 - [[fruit-tree-pruning]] — pruning techniques for fruit trees
 - [[grafting-fruit-trees]] — grafting methods for propagation

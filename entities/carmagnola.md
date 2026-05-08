@@ -140,55 +140,6 @@ The terpene profile of Carmagnola is characteristic of European fiber hemp:
 ### Seed Composition
 
 Carmagnola seeds are nutritionally valuable:
-
-- **Oil content:** 30–35% of seed weight
-- **Fatty acid profile:** Rich in linoleic acid (ω-6, ~55%), α-linolenic acid (ω-3, ~20%), and oleic acid (~12%); optimal ω-6:ω-3 ratio of approximately 3:1
-- **Protein:** 25–30% of seed weight; complete protein with all essential amino acids
-- **Minerals:** Rich in magnesium, phosphorus, potassium, and iron
-- **Vitamins:** Significant vitamin E (tocopherols) content
-
-## Modern Applications
-
-### CBD Flower Production
-
-Since the early 2010s, Carmagnola has gained commercial value as a CBD-rich floral hemp cultivar. Its compliance with EU THC limits combined with meaningful CBD content makes it suitable for:
-
-- CBD extraction (supercritical CO₂, ethanol, or hydrocarbon extraction)
-- Herbal tea and infusions
-- Cannabidiol dietary supplements
-- Aromatherapy and cosmetic products
-
-### Fiber Applications
-
-- **Textile fibers:** High-quality bast fiber suitable for textile spinning
-- **Technical fibers:** Composite reinforcement, insulation materials, geotextiles
-- **Cellulose pulp:** Paper production, bioplastics, construction materials
-- **Hempcrete:** Carbon-negative building material using hemp shiv (woody core)
-
-### Seed and Oil Applications
-
-- **Food:** Cold-pressed hemp seed oil for culinary and nutraceutical use
-- **Animal feed:** Hemp seed cake (defatted meal) as protein-rich livestock feed
-- **Cosmetics:** Hemp seed oil in skincare products for its moisturizing and anti-inflammatory properties
-- **Industrial:** Bio-based lubricants, paints, and varnishes
-
-### Ecological Benefits
-
-- **Carbon sequestration:** Hemp is one of the fastest CO₂-to-biomass conversion plants; Carmagnola's tall growth habit maximizes carbon capture
-- **Soil remediation:** Deep taproot breaks compacted soil; crop rotation improves soil structure
-- **Biodiversity:** Hemp fields support pollinators and beneficial insects
-- **Phytoremediation:** Hemp can accumulate heavy metals from contaminated soils (not recommended for food production on such sites)
-
-## Genetic Significance
-
-Carmagnola represents a genetically distinct European hemp lineage that has not been subjected to the intensive hybridization and selection pressure of modern drug-type cultivars. Its gene pool is valuable for:
-
-- **Breeding programs:** Source of CBD-rich genetics compliant with EU THC limits
-- **Biodiversity conservation:** One of few surviving heritage European fiber hemp landraces
-- **Genetic studies:** Reference material for understanding the evolution of fiber vs. drug-type cannabis chemotypes
-
-Genetic analyses using SSR markers and SNP arrays have confirmed that Carmagnola clusters distinctly from Central European fiber cultivars (like Fedora, Futura, and Felina) and from drug-type cultivars, suggesting centuries of independent selection in the Piedmont environment.
-
 ## See Also
 
 - [[cannabis-sativa]] — species overview and taxonomy

@@ -30,7 +30,7 @@ The Permaculture Institute (the name of this company) exists to work in areas of
 
 Under trust drawn up according to the laws of your country, it adds "for the good of all Americans" (or equivalent). This publicly oriented trust confers advantages:
 - Immunity from land taxes, rates, and local government charges
-- Automatic membership in [[hallucinogenic-plants-of-the-world]] Free [[permaculture-designers-manual-seed-exchange]]** (4,600 institutes, 680 botanical gardens)
+- Automatic membership in [[entheogenic-plants-and-psychoactive-flora]] Free [[permaculture-designers-manual-seed-exchange]]** (4,600 institutes, 680 botanical gardens)
 - Joint research with any other institute of its kind
 - Links with funding staff arrangements
 - Insulated from corporate risk -- if this fails, so do schools, churches, and public institutions, making it nearly unheard of for it to be raided

@@ -120,7 +120,7 @@ The refreshing coolness of a shadehouse in hot Australian summer is remarkable. 
 
 - [[mollison-salicornia-flats-and-estuarine-aquaculture]]
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-urban-design-apartments-balconies]]
 

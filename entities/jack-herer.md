@@ -138,7 +138,7 @@ Jack Herer's trophy cabinet is among the most decorated of any cannabis strain:
 
 ## See Also
 
-- [[cannabis-jack-herer]] — The person for whom this strain is named
+- jack herer — The person for whom this strain is named
 - [[haze-lineage-and-history]] — Primary sativa parent
 - [[northern-lights]] — Indica parent contributing resin production
 - [[cannabis-terpene-profiles]] — Terpene profiles and their effects

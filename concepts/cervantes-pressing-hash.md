@@ -135,4 +135,4 @@ a few minutes to penetrate and act.
 - [[cervantes-water-hash-bubble-hash]]
 - [[cervantes-dry-sieve-hash-pollinator]]
 - [[cervantes-hash-storage]]
-- [[cervantes-trichome-resin-production]]
+- [[cannabis-advanced-growing-techniques]]

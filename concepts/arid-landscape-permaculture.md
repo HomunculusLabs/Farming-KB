@@ -52,7 +52,7 @@ Insulated granitic domes serve as very solid run-off areas, some covering many t
 Fold mountains are the most extensive features in many deserts. **Synclines** erode to canoe shapes. **Anticlines** form whalebacks, with rivers forming on their spines creating valleys. A dam at the exit of such a river creates a freshwater lake. This connects to [[keyline-design]] principles for valley floor water management.
 
 ### Palisades
-Palisades of harder rock running along slopes like sub-contours create a striking vegetation contrast: growth is taller, greener, and denser on the upslope side because run-off is slowed and forced to infiltrate. These natural sub-contour features can be extended with [[permaculture-earthworks-guide]] to expand productive zones.
+Palisades of harder rock running along slopes like sub-contours create a striking vegetation contrast: growth is taller, greener, and denser on the upslope side because run-off is slowed and forced to infiltrate. These natural sub-contour features can be extended with [[permaculture-water-harvesting-earthworks]] to expand productive zones.
 
 ## Desert Microclimates
 Dwellings should be sited under cliffs: on the shade side in hot deserts, and where winter sun enters but summer sun is excluded. Sixteen feet into rock, temperature variation is negligible. Gutters along cliff tops redirect rain away from dwelling faces. See [[permaculture-climate-strategies]] and [[permaculture-climate-zones]].
@@ -69,7 +69,7 @@ Coastal defense systems on islands parallel desert wind protection: multiple row
 
 - [[comparison-arid-vs-tropical-permaculture]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-zones-system]]
 - [[permaculture-design]]
 - [[keyline-design]]

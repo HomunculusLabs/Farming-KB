@@ -146,4 +146,4 @@ Trainwreck holds a unique position in cannabis culture as one of the quintessent
 - [[jack-herer]] — Another foundational Northern California-era hybrid
 - [[og-kush]] — Southern California counterpart and fellow legacy strain
 - [[sour-diesel]] — East Coast sativa-dominant strain from the same era
-- [[blue-dream]] — Blueberry × Haze cross with a similar balanced profile
+- [[cannabis-blue-dream]] — Blueberry × Haze cross with a similar balanced profile

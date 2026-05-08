@@ -139,41 +139,9 @@ shared by UV light and some chemical disinfection methods.
 ## Comparison with Other Sterilization Methods
 
 Each conventional sterilization method has characteristic strengths and
-limitations:
-
-- Autoclaving achieves reliable sterilization but involves high thermal impact that can damage heat-sensitive materials, electronics, and biological samples. Cycle times are relatively long.
-- Gamma irradiation achieves good penetration and no chemical residue but can degrade sensitive polymers and electronic components. It requires specialized shielding facilities.
-- UV light is fast and leaves no residue but cannot effectively treat shadowed areas or complex geometries. Its effectiveness depends on direct line-of-sight exposure.
-- Chemical disinfectants such as ethylene oxide, alcohols, quaternary amines, hydrogen peroxide, or elemental iodine leave chemical residues that may interfere with subsequent operations. Some are corrosive to metals or damaging to certain materials.
-- Microwave sterilization with controlled moisture achieves low thermal impact, no chemical residue, excellent penetration through materials, and effective treatment of complex surface geometries, all with relatively fast treatment times.
-
-## Relevance to Mycological and Laboratory Applications
-
-For mushroom cultivation and laboratory mycology, microwave surface
-sterilization offers a potential tool for decontaminating work surfaces,
-transfer ports, and equipment without the heat damage of autoclaving or the
-chemical residues of alcohol and bleach treatments. The ability to sterilize
-complex geometries and enclosed spaces through material penetration is
-particularly relevant for several common mycological applications.
-
-Laminar flow hood surfaces and work areas could be decontaminated between uses
-without chemical sprays. Inoculation ports on spawn bags and cultivation
-containers could be sterilized through the bag material itself. Connection
-points and valve assemblies in closed-loop cultivation systems could be treated
-without disassembly. The trace water requirement is easily met by a light
-misting with sterile water before treatment.
-
-The key practical consideration for mycological applications is ensuring
-adequate moisture on the surface being treated. Dry microwave irradiation alone
-is insufficient for killing spores, which are of particular concern in
-mycological contexts. The addition of a thin film of water (approximately 9
-microliters per square centimeter) activates the steam-based kill mechanism that
-destroys even resistant bacterial and fungal spores, making this technology
-broadly applicable to contamination challenges in cultivation environments.
-
 ## See Also
 
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 - [[mushroom-microwave-sterilization]]
 - [[appropriate-technology]]
 

@@ -84,7 +84,7 @@ Organic matter not only increases CEC but also increases the soil's buffering ca
 ## Related
 
 - [[plant-nutrient-uptake-mechanisms]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 - [[phosphorus-availability]]
 - [[potassium-role-in-plants]]
 - [[micronutrient-deficiency-symptoms]]

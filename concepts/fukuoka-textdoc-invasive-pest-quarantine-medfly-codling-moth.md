@@ -148,10 +148,3 @@ chemical protection and border controls.
 ## Lessons for Natural Farmers
 
 For practitioners of natural farming, the invasive pest scenario underscores several
-practical principles. First, maintaining diverse plantings makes it harder for any
-single pest to devastate the entire farm. Second, healthy soil and healthy plants
-provide inherent resistance that reduces the severity of pest damage even when novel
-pests arrive. Third, the presence of diverse insect populations, including predators
-and parasites, creates a natural buffer against pest outbreaks. These principles,
-derived from Fukuoka observations and philosophy, offer practical guidance for
-building farming systems that are resilient in the face of ecological change.

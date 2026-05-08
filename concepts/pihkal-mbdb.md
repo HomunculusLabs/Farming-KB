@@ -148,4 +148,3 @@ stimulant or psychedelic contamination.
 - [[pihkal-mdma]]
 - [[pihkal-mda]]
 - Pihkal Mde
-- [[pihkal-mescaline]]

@@ -71,7 +71,7 @@ An alternative to the traditional heap is sheet composting, where organic materi
 
 ## Compost Tea and Liquid Compost
 
-Water drained from the bottom of a compost heap or wormery makes an excellent liquid fertilizer. Dilute 10:1 with water and use as a foliar feed or soil drench. This "compost tea" contains soluble nutrients and beneficial microorganisms. See [[homemade-liquid-fertilizer]] for detailed instructions on making and using liquid feeds from compost and other organic materials.
+Water drained from the bottom of a compost heap or wormery makes an excellent liquid fertilizer. Dilute 10:1 with water and use as a foliar feed or soil drench. This "compost tea" contains soluble nutrients and beneficial microorganisms. See [[organic-vegetable-growing-and-market-gardening]] for detailed instructions on making and using liquid feeds from compost and other organic materials.
 
 ## Hot Composting vs. Cold Composting
 

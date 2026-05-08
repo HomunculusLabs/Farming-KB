@@ -148,5 +148,3 @@ All Panaeolus and Panaeolina species are coprophilous, playing an important ecol
 - [[copelandia-genus]]
 - Psilocybe Genus Overview
 - [[neurotropic-fungi-classification]]
-- Psilocybin Chemistry
-- [[gymnopilus-genus-neurotropic-species]]

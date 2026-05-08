@@ -146,6 +146,5 @@ diversity within what was traditionally considered a single species.
 - [[amanita-pantherina]]
 - [[amanita-rubescens]]
 - [[amanita-gemmata]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]
-- [[tricholoma-equestre]]

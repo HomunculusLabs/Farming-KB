@@ -13,7 +13,7 @@ created: 2026-04-28
 
 ## Overview
 
-Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike THC, CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[endocannabinoid system]] indirectly, interact with numerous non-cannabinoid receptors, and influence gene expression and enzyme activity. Clinical and preclinical research has demonstrated efficacy across neurological disorders, inflammatory conditions, psychiatric illness, and cancer.
+Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike THC, CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[endocannabinoid-system]] indirectly, interact with numerous non-cannabinoid receptors, and influence gene expression and enzyme activity. Clinical and preclinical research has demonstrated efficacy across neurological disorders, inflammatory conditions, psychiatric illness, and cancer.
 
 ## Chemical Profile and Pharmacokinetics
 
@@ -25,7 +25,7 @@ CBD content in plant material varies by strain and depends on whether the materi
 
 ## Endocannabinoid System Modulation
 
-Although CBD has low direct affinity for CB1 and CB2 receptors, it profoundly influences the [[endocannabinoid system]] through several indirect mechanisms that are central to its therapeutic action.
+Although CBD has low direct affinity for CB1 and CB2 receptors, it profoundly influences the [[endocannabinoid-system]] through several indirect mechanisms that are central to its therapeutic action.
 
 ### FAAH inhibition
 
@@ -121,6 +121,6 @@ The choice of administration route should be guided by the condition being treat
 
 - [[anandamide-and-the-endocannabinoid-system]]
 - THC
-- [[endocannabinoid system]]
+- [[endocannabinoid-system]]
 - cannabis
-- [[entourage effect]]
+- [[entourage-effect]]

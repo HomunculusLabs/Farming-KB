@@ -8,11 +8,9 @@ sources: []
 ---
 # Fungal Phylogeny and Systematics
 
-
 ## Overview
 
 Fungal systematics — the science of classifying and naming fungi [[ascomycete-phylum-guide]] — has been transformed by molecular phylogenetics over the past three decades. Modern systematics integrates morphological, ecological, cultural, and molecular data to reconstruct evolution [[fungal-species-concept-and-taxonomy]]ary relationships and develop natural classification systems. Despite significant progress, fungal systematics remains challenging due to the enormous undocumented diversity and the prevalence of convergent morphologies.
-
 
 ## Phylogenetic Framework
 
@@ -29,11 +27,9 @@ Phylogenetic analyses consistently recover the following pattern:
 - **Glomales**: Arbuscular mycorrhizal fungi represent a distinct lineage, separate from other Zygomycota and of great antiquity (approximately 400 million years).
 - **Crown group**: Ascomycota and Basidiomycota form a monophyletic "crown group" of primarily terrestrial fungi that has undergone enormous diversification.
 
-
 ## Taxonomic Coverage and Gaps
 
 Fewer than 800 fungi have been included together in any single phylogenetic reconstruction — less than 1% of the approximately 74,000-120,000 described species. Taxonomic coverage across higher taxa is highly uneven. Most phylogenetic studies focus on model organisms, economically important species, or easily cultured taxa, leaving vast groups of unculturable or rarely collected fungi unrepresented.
-
 
 ## Molecular Phylogenetic Methods
 
@@ -45,7 +41,6 @@ The nuclear ribosomal DNA region (SSU, ITS, 5.8S, LSU) remains the workhorse of 
 
 Modern analyses use maximum likelihood, Bayesian inference, and maximum parsimony methods. The ITS region has been proposed as the universal DNA barcode for fungi, offering the best species-level resolution across the kingdom. However, no single marker resolves all fungal relationships, and concatenated multi-gene datasets are preferred for deeper nodes.
 
-
 ## Key Phylogenetic Discoveries
 
 Molecular data have required numerous reclassifications:
@@ -55,7 +50,6 @@ Molecular data have required numerous reclassifications:
 - Some Acaulospora and Glomus species placed closer to Geosiphon pyriforme than to other AM fungi, leading to new families (Archaeosporaceae, Paraglomaceae)
 - Many morphologically defined species shown to be polyphyletic or paraphyletic
 - Cryptic species complexes revealed within morphologically uniform taxa
-
 
 ## Challenges
 
@@ -71,11 +65,9 @@ With fewer than 1% of described species included in phylogenetic analyses, many 
 
 Some researchers advocate using informal clade names rather than formal Linnaean taxon designations until relationships are better resolved. The tension between stability (maintaining established names) and accuracy (reflecting phylogeny) continues to challenge fungal systematics.
 
-
 ## Integration of Data Sources
 
 The most robust systematic conclusions come from integrating multiple data sources: morphology (macroscopic and microscopic), ultrastructure, ecology, biogeography, cultural characteristics, and multiple molecular markers. All taxonomic decisions are hypotheses to be tested and potentially refuted by new evidence.
-
 
 ## Related Topics
 

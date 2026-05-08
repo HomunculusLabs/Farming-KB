@@ -122,7 +122,7 @@ sources: [raw/papers/medicinal-herb-profiles.md]
    113|### Therapeutic Applications
    114|
    115|**Uterine and menstrual disorders:** Cramp bark is the archetypal uterine antispasmodic in Western herbalism. It is indicated for:
-   116|- **Dysmenorrhea** (painful periods): Reduces uterine cramping and associated pain. Often combined with [[wild yam]] (*Dioscorea villosa*) and [[cramp bark]] for synergistic antispasmodic effect.
+   116|- **Dysmenorrhea** (painful periods): Reduces uterine cramping and associated pain. Often combined with [[wild-yam]] (*Dioscorea villosa*) and [[cramp-bark]] for synergistic antispasmodic effect.
    117|- **Threatened miscarriage:** Traditionally used to prevent early pregnancy loss associated with uterine spasm (modern evidence is limited; use only under professional supervision).
    118|- **Menopausal cramping:** Uterine cramping and pelvic discomfort during perimenopause.
    119|- **Afterbirth pains:** Postpartum uterine cramping.
@@ -141,21 +141,6 @@ sources: [raw/papers/medicinal-herb-profiles.md]
    132|- Historically used for nervous palpitations and cardiac anxiety (less supported by evidence)
    133|
    134|### Dosage
-   135|
-   136|- **Dried bark decoction:** 2–4 g dried bark in 250 ml water, simmered 15–20 minutes, 3 times daily
-   137|- **Tincture (1:5, 45% ethanol):** 2–4 ml, 3 times daily
-   138|- **Fluid extract (1:1):** 0.5–1 ml, 3 times daily
-   139|- **Topical:** Tincture diluted in warm water as a compress for muscle cramps
-   140|
-   141|### Safety and Contraindications
-   142|
-   143|- **Pregnancy:** Cramp bark is traditionally used for threatened miscarriage, but should only be used under the supervision of a qualified midwife or herbalist. Avoid in the first trimester unless professionally directed.
-   144|- **Anticoagulant interaction:** Coumarin constituents have theoretical blood-thinning effects; exercise caution with warfarin and antiplatelet medications (clinical significance unconfirmed).
-   145|- **Allergy:** Rare allergic reactions possible in individuals sensitive to Caprifoliaceae/Adoxaceae family members.
-   146|- Generally well-tolerated with a wide safety margin at standard doses.
-   147|
-   148|## Culinary Uses
-
 ## See Also
 
 - [[viburnum-prunifolium]]

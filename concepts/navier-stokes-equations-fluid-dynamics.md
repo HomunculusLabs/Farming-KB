@@ -60,7 +60,7 @@ The convective term is the source of nonlinearity, responsible for turbulence an
 - **Euler equations** (μ → 0, inviscid): Valid at high Reynolds numbers away from boundaries. Foundation of potential flow and aerodynamic lift theory. Hyperbolic character.
 - **Stokes flow** (Re ≪ 1, creeping flow): Inertia negligible, equation becomes linear: 0 = −∇p + μ∇²**u** + **f**. Governs microfluidics, lubrication theory, biological flows at Re ~ 10⁻⁵.
 - **Potential flow** (irrotational + inviscid): **u** = ∇φ, Bernoulli's equation holds throughout. Cannot predict drag (d'Alembert's paradox) but useful for preliminary aerodynamic design.
-- **Boundary layer approximation** (Prandtl, 1904): At high Re near walls, viscous effects confined to thin layer. Yields parabolic Prandtl equations. See [[boundary-layer-theory-fluid-dynamics]].
+- **Boundary layer approximation** (Prandtl, 1904): At high Re near walls, viscous effects confined to thin layer. Yields parabolic Prandtl equations. See boundary layer theory fluid dynamics.
 
 ## Dimensionless Numbers
 
@@ -145,7 +145,6 @@ Fefferman, C.L. (2006). "Existence and smoothness of the Navier-Stokes equation.
 
 ## See Also
 
-- [[boundary-layer-theory-fluid-dynamics]]
+- boundary layer theory fluid dynamics
 - [[turbulence-modeling-fluid-dynamics]]
 - [[heat-transfer-mechanisms]]
-- [[laws-of-thermodynamics]]

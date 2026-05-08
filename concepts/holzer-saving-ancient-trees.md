@@ -43,7 +43,7 @@ around it, not to water or fertilise the tree directly:
 2. Add deep-rooting plants like clover that bring nutrients from deep layers
    and fix nitrogen.
 3. Ensure there is enough moisture in the ground by restoring the
-   [[holzer-water-landscapes-pond-building]] of the wider
+   [[sepp-holzer-permaculture-and-rebel-farming]] of the wider
    area.
 4. Add organic matter and compost to retain moisture and feed soil life.
 5. Visit a healthy forest in the region to see what companion plants grow

@@ -78,7 +78,7 @@ The tree occupies a wide range of habitats including savanna woodland, dry decid
 
 ### Ecological Role
 
-Baobabs are keystone species in many African savanna ecosystems. Their flowers provide nectar for bats, bush babies, and numerous insect species. The fruit is eaten by elephants, baboons, vervet monkeys, and various antelope species, who disperse the seeds. Elephants are particularly important dispersal agents — they consume large quantities of fruit and can transport seeds over considerable distances.
+Baobabs are [[keystone-species-and-trophic-cascades]] in many African savanna ecosystems. Their flowers provide nectar for bats, bush babies, and numerous insect species. The fruit is eaten by elephants, baboons, vervet monkeys, and various antelope species, who disperse the seeds. Elephants are particularly important dispersal agents — they consume large quantities of fruit and can transport seeds over considerable distances.
 
 The tree provides critical habitat for cavity-nesting birds (including hornbills, rollers, and parrots), reptiles, bats, and arboreal mammals. Hollow trunks of ancient baobabs serve as natural water reservoirs during drought and have been used by humans and wildlife alike.
 
@@ -97,11 +97,11 @@ Baobab seeds have a hard, water-impermeable seed coat that requires scarificatio
 
 - **Acid scarification**: Soaking seeds in concentrated sulfuric acid for 6–12 hours (laboratory method)
 - **Mechanical scarification**: nicking or filing the seed coat, or cracking with pliers
-- **Hot water treatment**: Pouring boiling water over seeds and allowing to soak for 24 hours
+- **[[hot-water-and-hydrated-lime-substrate-treatment]] treatment**: Pouring boiling water over seeds and allowing to soak for 24 hours
 
 After scarification, seeds are sown 2–3 cm deep in well-draining potting mix. Germination typically occurs within 2–6 weeks at temperatures of 25–35°C. Germination rates of 70–90% are achievable with proper treatment. Seedlings grow slowly at first but accelerate once the taproot is established.
 
-**Vegetative Propagation:**
+**[[vegetative-propagation-methods-mollison]]:**
 - **Stem cuttings**: Hardwood cuttings (30–100 cm long, 5–10 cm diameter) can be rooted, though success rates are variable (30–70%). Cuttings are taken during the dormant season and planted in sandy rooting medium with bottom heat. This method produces fruit-bearing trees faster than seed propagation.
 - **Grafting**: Grafting scions onto established rootstocks has been used commercially, particularly for selecting superior fruit-producing genotypes. Cleft and side-veneer grafting methods are common.
 - **Tissue culture**: Micropropagation protocols have been developed for several *Adansonia* species but are not yet widely used in commercial production.
@@ -120,7 +120,7 @@ Planting guidelines:
 
 ### Irrigation
 
-Established baobabs are extremely drought-tolerant and generally require no supplemental irrigation once their root systems are well developed (typically after 3–5 years). During the establishment period, occasional deep watering during dry spells promotes faster growth. Overwatering, especially in heavy soils, can cause root rot and is the most common cause of death in cultivated baobabs.
+Established baobabs are extremely [[drought-tolerant-planting-design]] and generally require no supplemental irrigation once their root systems are well developed (typically after 3–5 years). During the establishment period, occasional deep watering during dry spells promotes faster growth. Overwatering, especially in heavy soils, can cause root rot and is the most common cause of death in cultivated baobabs.
 
 ### Fertilization
 
@@ -281,11 +281,11 @@ Baobabs offer several advantages for integration into agroforestry and permacult
 
 1. **Deep nutrient cycling**: Deep roots bring up minerals from subsoil layers
 2. **Microclimate modification**: Large canopies provide shade and windbreak effects
-3. **Nitrogen contribution**: Though not a nitrogen-fixer, leaf litter contributes organic matter
+3. **Nitrogen contribution**: Though not a nitrogen-fixer, [[leaf-litter-microfungal-diversity-tropical-temperate]] contributes organic matter
 4. **Drought resilience**: Maintains productivity when other crops fail
 5. **Multi-layer production**: Produces food at multiple levels (leaves, fruit pulp, seeds, oil)
 6. **Long-term yield stability**: Centuries of productive lifespan provide intergenerational food security
-7. **Soil improvement**: Leaf litter and root exudates improve soil structure and microbial activity
+7. **Soil improvement**: Leaf litter and root exudates improve [[soil-structure-and-aggregate-ecology]] and microbial activity
 8. **Livestock fodder**: Leaves provide nutritious fodder during dry seasons when other forage is scarce
 
 ### Companion Planting
@@ -301,7 +301,7 @@ Baobabs combine well with:
 ### Design Considerations for Permaculture
 
 - Place baobabs in Zone 3 or 4 of permaculture designs (infrequent management)
-- Use as windbreaks on the northern (southern hemisphere) or southern (northern hemisphere) boundary
+- Use as windbreaks on the northern ([[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]) or southern (northern hemisphere) boundary
 - Position to cast shade on livestock areas during hot seasons
 - Consider mature canopy spread (20–30 m) when planning adjacent plantings
 - Allow adequate space for future trunk expansion
@@ -343,6 +343,6 @@ The "Avenue of the Baobabs" in Madagascar is a UNESCO World Heritage Site candid
 
 - Wickens, G.E. & Lowe, P. (2008). *The Baobabs: Pachycauls of Africa, Madagascar and Australia*. Springer.
 - Sidibe, M. & Williams, J.T. (2002). *Baobab — Adansonia digitata*. International Centre for Underutilised Crops, Southampton.
-- Venter, S.M. & Witkowski, E.T.F. (2013). "Where are the young baobabs? Factors affecting regeneration of Adansonia digitata in a savanna ecosystem." *African Journal of Ecology*, 51(1).
+- Venter, S.M. & Witkowski, E.T.F. (2013). "Where are the young baobabs? [[factors-affecting-mycoremediation-efficiency]] regeneration of Adansonia digitata in a savanna ecosystem." *African Journal of Ecology*, 51(1).
 - Patrut, A. et al. (2018). "The demise of the largest and oldest African baobabs." *Nature Plants*, 4, 423–426.
 - Chadare, F.J. et al. (2009). "Adansonia digitata L.: Properties and uses." *Critical Reviews in Food Science and Nutrition*, 49(3), 254–274.

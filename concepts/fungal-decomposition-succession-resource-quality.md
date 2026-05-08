@@ -104,7 +104,7 @@ The fungal decomposition succession determines:
 
 ## Related
 
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[fungal-role-in-carbon-cycling]]
 - [[fungal-bacterial-interactions]]
 - [[fungal-stable-isotope-ecology]]

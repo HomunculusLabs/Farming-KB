@@ -141,4 +141,4 @@ changes.
 - [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
 - [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
 - [[shulgin-dosage-guidelines]]
-- [[structure-activity-relationship-medicinal-chemistry]]
+- structure activity relationship medicinal chemistry

@@ -59,7 +59,7 @@ Monoterpenes like limonene and pinene are light, sharp, and
 highly volatile — they evaporate quickly and tend to be
 antimicrobial and energizing.
 
-Sesquiterpenes like beta-caryophyllene and bisabolol are heavier,
+Sesquiterpenes like [[beta-caryophyllene-dietary-cannabinoid]] and bisabolol are heavier,
 with deeper, warmer aromas and pronounced anti-inflammatory
 properties.
 
@@ -103,7 +103,7 @@ water — where it condenses back into liquid form.
 
 The resulting liquid separates into two layers: the essential oil
 (lighter than water in most cases) floats on top, while the
-hydrosol (water saturated with water-soluble plant compounds and
+hydrosol (water saturated with [[water-soluble-calcium-phosphate-wcp]] plant compounds and
 trace oil) sits below.
 
 A few oils — notably clove, wintergreen, and vetiver — are denser
@@ -254,11 +254,11 @@ with earthy, grounding aromas.
 ## Growing Aromatic Plants for Distillation
 
 Many aromatic plants are straightforward to cultivate and well
-suited to permaculture food forests, herb spirals, and kitchen
+suited to [[permaculture-food-forests-design-course]], herb spirals, and kitchen
 gardens.
 
 Lavender thrives in full sun with well-drained, slightly alkaline
-soil (pH 6.5-7.5) and is drought-tolerant once established.
+soil (pH 6.5-7.5) and is [[drought-tolerant-planting-design]] once established.
 
 It should be harvested at peak flowering — when roughly one-third
 to one-half of the flower buds have opened — for maximum oil
@@ -272,7 +272,7 @@ in pots or dedicated beds; it prefers moist, rich soil and
 partial shade in hot climates.
 
 For annual production, basil, clary sage, and German chamomile
-can be direct-seeded after frost and harvested multiple times per
+can be [[direct-seeded-notillage-rice-barley-clover-succession]] after frost and harvested multiple times per
 season.
 
 The key to maximizing essential oil content is environmental

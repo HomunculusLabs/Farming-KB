@@ -148,5 +148,3 @@ Yes. Isolated ponds support fewer species and are more vulnerable to local extin
 - [ ] Eliminate synthetic chemical use within 30 m
 - [ ] Connect to other habitat via hedgerows or brush corridors
 - [ ] Begin seasonal monitoring in spring
----
-**Related topics:** [[psilocybin-mushroom-habitat-and-ecology]] · [[mollison-aquatic-pond-types-and-nomenclature]] · [[singh-constructed-wetlands-fungal-wastewater-treatment]] · [[hamilton-beneficial-insects-and-biological-pest-control]] · [[jadam-livestock-integration-and-manure-management]] · [[jadam-pest-control-with-natural-pesticides-jhs]] · [[water-harvesting-techniques-comparison]] · companion planting and polycultures

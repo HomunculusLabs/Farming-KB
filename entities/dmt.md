@@ -126,4 +126,4 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 - [[5-Methoxy-DMT]] — Related tryptamine with distinct pharmacological profile
 - [[psilocybin-mushroom-potency-and-dosage-guide]] — 4-PO-DMT, prodrug psychedelic tryptamine from mushrooms
 - [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian DMT-containing brew
-- [[5-HT2A Receptor]] — Primary target mediating psychedelic effects
+- [[5-ht2a-receptor]] — Primary target mediating psychedelic effects

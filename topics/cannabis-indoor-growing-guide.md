@@ -480,3 +480,22 @@ container.
 - Green, Greg. "The Cannabis Grow Bible." Green Candy Press, 2017.
 - Clarke, Robert C. "Marijuana Botany: An Advanced Study." Ronin Publishing,
   1981.
+## Blesching Cannabis Turmeric Curcumin Antiviral Anticancer Adjunct
+
+# Turmeric and Curcumin as Antiviral and Anticancer Adjuncts ## Overview Turmeric (*Curcuma longa*) is described in the Cannabis Health Index (CHI) as "almost considered a wonder drug with a broad therapeutic potential." The primary active constituent, curcumin, has demonstrated significant antiviral activity against herpes simplex virus type I (HSV-I) by blocking viral gene expression through promoter inhibition. The German Commission E has approved turmeric for the treatment of digestive difficulties at a dose of 1.5 to 3 grams daily. The CHI positions turmeric as a food-based complementary therapy that can work alongside cannabis and other botanical medicines. ## Turmeric in the CHI Framework Within the Cannabis Health Index, turmeric appears in multiple "Let Food Be Thy Medicine" sections across various disease entries. Its inclusion reflects the CHI's integrative philosophy: cannabis therapy is most effective when supported by complementary nutritional and botanical interventions. ...
+
+## Cannabis Extraction Methods Overview
+
+## Cannabis Extraction Methods Overview Cannabis extraction encompasses a diverse range of techniques for separating desirable compounds — cannabinoids, terpenes, and flavonoids — from plant material. Each method produces different types of extracts with distinct characteristics regarding potency, flavor, purity, safety, and intended use. The [[cannabis-extraction-basics]] page covers fundamental concepts; this page provides a comparative overview of all major extraction methods and their practical considerations. ## Mechanical Methods Mechanical extraction uses physical force rather than chemical solvents, producing what are considered the most "natural" concentrates. **Dry sifting** passes cannabis over graduated screens to separate trichome heads (kief) from plant material. ...
+
+## Cannabis Extraction Solvent Properties And Safety
+
+## Solvent Properties for Cannabis Extraction The choice of solvent in cannabis extraction determines the chemical profile, purity, safety, and overall quality of the final product. Each solvent has unique properties — polarity, boiling point, toxicity, and selectivity — that make it more or less suitable for specific extraction goals. Understanding these properties is essential for producing safe, high-quality extracts. The [[cannabis-extraction-basics]] overview covers extraction methods broadly; this page focuses specifically on solvent characteristics and safety considerations. ## Ethanol Ethanol (C2H5OH) is the most widely used solvent in commercial cannabis extraction due to its favorable safety profile, regulatory acceptance, and broad extraction capability. ...
+
+## Cannabis Grow Room Security
+
+Updated: 2026-04-18 Source: The Cannabis Grow Bible, Greg Green (Ch. 4) Security is one of the most critical aspects of cannabis cultivation. According to Greg Green, loose lips cause 99.9% of all security breaches. The single most important rule for any grower is: **NEVER TELL ANYONE THAT YOU ARE GROWING CANNABIS.** ## The Golden Rule of Security If yo ## Practical Context Cannabis Grow Room Security is relevant to farming knowledge because it connects observation, site conditions, and management choices. Treat it as a working topic rather than a standalone label: the useful questions are where it appears, what conditions make it stronger or weaker, and how it changes decisions in the field. ...
+
+## Durban Poison
+
+# Durban Poison Durban Poison is one of the most important and influential pure sativa landrace strains in cannabis genetics. Originating from the city of Durban, South Africa, located approximately 30 degrees south latitude, this strain has played a pivotal role in cannabis breeding worldwide, particularly in the development of early-finishing sativa hybrids suited for northern hemisphere cultivation. ## Geographic Origin and Significance Durban Poison originates from Durban, South Africa, a coastal city positioned at roughly 30 degrees south latitude. This geographic positioning is critical to understanding the strain's unique flowering characteristics. When grown in the northern hemisphere, Durban Poison begins flowering outdoors in late June and finishes in the second half of September, well before coastal fog or autumn rain becomes problematic. ...

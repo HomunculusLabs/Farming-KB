@@ -1,5 +1,5 @@
 ---
-title: How Does Phytoremediation Work and What Plants Are Best for It?
+title: How Does [[phytoremediation]] Work and What Plants Are Best for It?
 created: 2026-04-28
 tags:
   - phytoremediation
@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Pilon-Smits, E. (2005). "Phytoremediation." Annual Review of Plant Biology, 56, 15-39.
   - Salt, D.E., Smith, R.D., & Raskin, I. (1998). "Phytoremediation." Annual Review of Plant Physiology and Plant Molecular Biology, 49, 643-668.
-  - Mahar, A., Wang, P., Ali, A., et al. (2016). "Challenges and opportunities in the phytoremediation of heavy metals contaminated soils." Ecological Engineering, 94, 1-11.
+  - Mahar, A., Wang, P., Ali, A., et al. (2016). "Challenges and opportunities in the phytoremediation of [[singh-fungal-biosorption-reactors-heavy-metals]] contaminated soils." Ecological Engineering, 94, 1-11.
   - Gerhardt, K.E., Huang, X.D., Glick, B.R., & Greenberg, B.M. (2009). "Phytoremediation and rhizoremediation of organic soil contaminants." Plant Science, 176(1), 20-30.
   - Ali, H., Khan, E., & Sajad, M.A. (2013). "Phytoremediation of heavy metals—Concepts and applications." Chemosphere, 91(7), 869-881.
 type: query
@@ -23,9 +23,8 @@ type: query
 
 # How Does Phytoremediation Work and What Plants Are Best for It?
 
-## What Is Phytoremediation and How Does It Work?
-
-Phytoremediation is the use of living plants to clean up contaminated soil, water, and air. Plants naturally absorb water, nutrients, and minerals from their environment—and in doing so, they can take up, stabilize, degrade, or filter out pollutants including heavy metals, organic compounds, pesticides, and even some radionuclides. It is a low-cost, solar-driven, and environmentally friendly alternative to traditional excavation or chemical treatment.
+## What Is Phytoremediation and How Does [[symbiosis-art-of-living]]
+Phytoremed [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]] s the use of living plants to clean up contaminated soil, water, and air. Plants naturally absorb water, nutrients, and minerals from their environment—and in doing so, they can take up, stabilize, degrade, or filter out pollutants including heavy metals, [[fungal-volatile-organic-compounds]], pesticides, and even some radionuclides. It is a low-cost, solar-driven, and environmentally friendly alternative to traditional excavation or chemical treatment.
 
 ---
 
@@ -57,7 +56,7 @@ Deep-rooted plants such as poplars and willows act as "living pumps," controllin
 |---|---|---|
 | **Thlaspi caerulescens** (Alpine pennycress) | Zn, Cd | Classic hyperaccumulator; up to 30,000 mg/kg Zn in shoots |
 | **Arabidopsis halleri** | Zn, Cd | Model research species for metal hyperaccumulation |
-| **Brassica juncea** (Indian mustard) | Pb, Cd, Cr, Ni, Zn | Fast-growing, high biomass, widely used in field trials |
+| **[[brassica-juncea]]** (Indian mustard) | Pb, Cd, Cr, Ni, Zn | Fast-growing, high biomass, widely used in field trials |
 | **Helianthus annuus** (Sunflower) | Pb, U, Cs, Sr, Cd | Excellent for both soil and water remediation |
 | **Pteris vittata** (Chinese brake fern) | As | First known arsenic hyperaccumulator; up to 2.3% As in fronds |
 | ** Alyssum spp.** | Ni | Strong nickel hyperaccumulators, used for Ni mine tailings |
@@ -70,9 +69,9 @@ Deep-rooted plants such as poplars and willows act as "living pumps," controllin
 
 ## What Plants Work for Organic Pollutants?
 
-- **Petroleum hydrocarbons (PAHs, BTEX):** Tall fescue (*Festuca arundinacea*), switchgrass (*Panicum virgatum*), poplars, and willows. Grasses are especially effective because their dense fibrous root systems support large microbial communities that degrade organics (rhizodegradation).
+- **Petroleum hydrocarbons (PAHs, BTEX):** Tall fescue (*Festuca arundinacea*), switchgrass (*[[panicum-virgatum]]*), poplars, and willows. Grasses are especially effective because their dense fibrous root systems support large microbial communities that degrade organics (rhizodegradation).
 - **Trichloroethylene (TCE):** Hybrid poplars (*Populus deltoides × nigra*) can take up and metabolize TCE via phytodegradation.
-- **Pesticides/herbicides:** Aquatic plants like water hyacinth (*Eichhornia crassipes*) and duckweed (*Lemna minor*) for water; ryegrass and alfalfa for soil.
+- **Pesticides/herbicides:** Aquatic plants like water hyacinth (*Eichhornia crassipes*) and duckweed (*[[lemna-minor]]*) for water; ryegrass and alfalfa for soil.
 - **Explosives (TNT, RDX):** Parrot feather (*Myriophyllum aquaticum*) and hybrid poplars have shown degradation capacity.
 
 ---
@@ -147,9 +146,3 @@ Multiple cropping cycles per year (in warm climates) and chelant-assisted phytoe
 4. **Monitor and harvest:** Test plant tissue and soil regularly. Harvest above-ground biomass before senescence to prevent contaminant recycling.
 5. **Manage disposal:** Compost contaminated biomass in lined facilities, incinerate with emission controls, or process for metal recovery (phytomining).
 6. **Consider hybrid approaches:** Phytoremediation pairs well with biochar amendment, microbial inoculation, and gentle soil amendment (lime, compost) for synergistic effects.
-
-## See Also
-
-- [[query-how-does-spirulina-compare-to-other-protein-sources-for-homestead-use]]
-- [[aflatoxin]]
-- [[mycotoxins]]

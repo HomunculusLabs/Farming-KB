@@ -112,13 +112,13 @@ appearance as both familiar (the archetypal fairy-tale toadstool) and dangerous
 (poisonous, mind-altering) makes it a perfect literary symbol of the uncanny.
 
 The literary history of the fly-agaric thus runs parallel to, and informs, the
-broader cultural history documented in works of [[psychedelic-mushroom-art-and-iconography]] and the [[psychedelic-mushroom-music-and-culture]] that grew around psychoactive fungi.
+broader cultural history documented in works of [[psychedelic-mushroom-art-and-iconography]] and the [[mushroom-cultivation-fundamentals]] that grew around psychoactive fungi.
 
 ## See Also
 
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]] - The mushroom's full history
 - [[psychedelic-mushroom-art-and-iconography]] - Visual representations of mushrooms
-- [[psychedelic-mushroom-music-and-culture]] - Mushroom culture in music
+- [[mushroom-cultivation-fundamentals]] - Mushroom culture in music
 - [[magic-mushroom-cultural-history]] - Broader cultural history
 - [[amanita-muscaria-chemistry-and-pharmacology]] - The Siberian practices that inspired these writers
 - [[christmas-mushroom-symbolism]] - Another cultural domain of the fly-agaric

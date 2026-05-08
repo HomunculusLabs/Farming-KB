@@ -110,7 +110,7 @@ timing indicators.
 
 ## See Also
 - [[morchella-esculenta]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]
 - [[morchella-deliciosa]]
 - [[morchella-sextelata]]

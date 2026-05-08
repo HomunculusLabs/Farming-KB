@@ -148,4 +148,3 @@ scrub and mixed chaparral plant communities.
 - [[eschscholzia-californica]] — California poppy, native medicinal herb
 - [[verbascum-thapsus]] — mullein, respiratory remedy from a different tradition
 - [[usnea-barbata]] — old man's beard lichen, respiratory remedy in traditional medicine
-- [[mentha-piperita]] — peppermint, complementary decongestant herb

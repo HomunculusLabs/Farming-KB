@@ -140,23 +140,6 @@ Functional MRI and EEG studies have revealed that DMT produces:
 
 - Decreased activity in the default mode network (DMN), correlating with ego dissolution
 - Increased global brain connectivity and entropy
-- Disruption of alpha and increased theta/gamma oscillations
-- Altered functional connectivity between the visual cortex and other brain regions
-
-## Legal Status
-
-DMT is classified as a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). It is scheduled or controlled in most countries worldwide. Notable exceptions and special legal frameworks exist for traditional religious use (ayahuasca ceremonies have received legal protections in several jurisdictions, including Brazil, Peru, the United States (UDV v. DEA, 2006), and the Netherlands).
-
-## Safety Profile
-
-DMT is considered physically safe at common doses, with no documented cases of fatal overdose from DMT alone. The primary risks are psychological:
-
-- **Acute anxiety/panic:** Particularly at high doses or in unprepared users
-- **HPT (Hyperventilation-induced panic trigger):** Inhaled DMT can trigger rapid breathing
-- **Cardiovascular effects:** Transient increases in heart rate and blood pressure
-- **Serotonin syndrome risk:** Theoretical when combined with serotonergic medications (SSRIs, MAOIs, tramadol), though documented cases are extremely rare
-- **Psychiatric contraindications:** Persons with personal or family history of psychosis or schizophrenia are generally advised against use
-
 ## See Also
 
 - [[dmt-black-hole-effect-and-shamanic-practice]]

@@ -28,7 +28,7 @@ The ideal termination window depends on the cover crop species, intended benefit
 ### Roller-Crimping (No-Till)
 The gold standard for no-till systems. A roller-crimper is a heavy steel cylinder with welded blades that crimps the cover crop stems at regular intervals, breaking the vascular tissue without cutting the plant. The cover crop dies in place and forms a thick mulch mat.
 **Advantages**:
-- No soil disturbance preserves [[no-till-gardening-method]] benefits
+- No soil disturbance preserves [[composting-and-soil-biology]] benefits
 - Creates a weed-suppressing mulch mat
 - Retains soil moisture
 - No fuel-intensive tillage

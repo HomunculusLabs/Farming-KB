@@ -125,7 +125,7 @@ These secondary benefits make DE a dual-purpose amendment for organic cannabis g
 
 ## Integration with Other Controls
 
-DE works well within a broader [[cannabis-pest-management]] program. Because its action is purely mechanical, pests cannot develop chemical resistance to DE. It can be combined with other [[hamilton-organic-pest-control]] methods, but avoid applying DE to foliage immediately before or after releasing predatory insects, as the abrasive particles can damage beneficials as well.
+DE works well within a broader cannabis pest management program. Because its action is purely mechanical, pests cannot develop chemical resistance to DE. It can be combined with other [[hamilton-organic-pest-control]] methods, but avoid applying DE to foliage immediately before or after releasing predatory insects, as the abrasive particles can damage beneficials as well.
 
 For more on non-chemical pest control, see [[integrated-pest-management]] and [[organic-pest-and-disease-management]].
 

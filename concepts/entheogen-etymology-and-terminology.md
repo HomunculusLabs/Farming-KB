@@ -28,7 +28,7 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
     19|    27|LSD in 1943). Huxley had provided Osmond with his first mescaline experience,
     20|    28|immortalized in *The Doors of Perception* (1954). 29|
     21|    30|The word combines the Greek roots *psyche* (mind or soul) and *delos*
-    22|    31|(manifest or visible), yielding "mind-manifesting." Timothy Leary, Frank
+    22|    31|(manifest or visible), yielding "mind-manifesting." [[timothy-leary-harvard-psilocybin-experiments]], Frank
     23|    32|Barron, and Richard Alpert adopted and popularized the term at the Harvard
     24|    33|research project, where it became associated with the concept of "consciousness
     25|    34|expansion," a deliberate contrast to the contracted, fixated awareness
@@ -146,8 +146,5 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
 - [[metzner-entheogen-terminology-and-worldview-paradigms]] 171|
    136|   172|- [Psychedelic Set and Setting](psychedelic-set-and-setting.md)
    137|   173|- [European Psycholytic Therapy 1960s 1970s](european-psycholytic-therapy-1960s-1970s.md)
-   138|   174|- [Metzner Psycholytic Psychedelic Therapy Models](metzner-psycholytic-psychedelic-therapy-models.md)
-   139|   175|- [Metzner Hybrid Shamanic Therapeutic Rituals](metzner-hybrid-shamanic-therapeutic-rituals.md)
-   140|   176|- [Plant Teachers Ayahuasca](plant-teachers-ayahuasca.md) 177|
-- [[albert-hofmann]]
-- [[aldous-huxley]]
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison|Metzner Psycholytic/Psychedelic Therapy Models]]
+   139|   175|- [Metzner Hybrid Shamanic Therapeutic Rituals]([[metzner-hybrid-shamanic-therapeutic-rituals]]-therapeutic-rituals.md)

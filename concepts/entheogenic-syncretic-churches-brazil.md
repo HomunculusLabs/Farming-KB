@@ -139,46 +139,6 @@ forms, paralleling the dual existence of peyote use in both Huichol shamanic
 practice and the organized Native American Church. This pattern suggests that
 entheogenic plant medicines naturally lend themselves to both intimate healing
 contexts and larger communal religious frameworks.
-
-Pharmacological research has indicated that ibogaine may have a specific action
-on receptor sites for cocaine in the brain, raising the possibility of a
-chemical antidote to addiction. Metzner proposes the broader hypothesis that all
-consciousness-expanding hallucinogens, including LSD, peyote, and ayahuasca, can
-serve to counteract the consciousness-contracting and fixating effects of
-addictive narcotics and stimulants.
-
-## Social Functions of Syncretic Churches
-
-These syncretic religious movements serve several important social functions
-beyond providing spiritual experience.
-
-**Community cohesion:** An important social function is strengthening community
-bonds and providing members with a sense of participation and belonging. The
-organized church structure provides social cohesion and legal protection that
-informal shamanic practice cannot offer.
-
-**Addiction reduction:** Participation tends to reduce the incidence of
-alcoholism and drug addiction among members. Research by Grob, McKenna, and
-colleagues confirmed that membership in these churches and long-term consumption
-of the tea was associated with no adverse health effects and indeed with a
-reduction of addictions and other psychopathologies.
-
-**Cultural preservation:** These churches provide a protective shield of
-traditional lore against the encroachments of Christian missionaries and the
-seductions of Western consumer culture. As anthropologists have noted, they
-serve as a buffer against cultural assimilation.
-
-**Accessibility:** The syncretic churches have made profoundly spiritually
-transforming experiences with entheogenic plant medicines accessible to a large
-number and wide spectrum of people in all walks of life. In traditional shamanic
-contexts, only a limited number of people came into contact with these
-medicines.
-
-Metzner suggests that through these movements, we may be seeing the beginnings
-of a broader cultural transformation movement with significant impact on the
-relationship between Western societies and consciousness-altering plant
-medicines.
-
 ## See Also
 
 - [[sacramental-ayahuasca-legal-battles-united-states]] for legal battles

@@ -51,7 +51,7 @@ Fruiting occurs from late spring through autumn, typically after periods of rain
 
 ## Chemistry
 
-Unlike species retained in the genus Psilocybe, *D. crobula* does not produce [[psilocybin]], [[psilocin]], or related tryptamine alkaloids. It is not psychoactive. The absence of blue-staining is a reliable field indicator of the lack of psilocybin, though some genuinely psychoactive species may show minimal bluing under certain conditions.
+Unlike species retained in the genus Psilocybe, *D. crobula* does not produce [[psilocybin-compound]], [[psilocin]], or related tryptamine alkaloids. It is not psychoactive. The absence of blue-staining is a reliable field indicator of the lack of psilocybin, though some genuinely psychoactive species may show minimal bluing under certain conditions.
 
 ## Similar Species
 

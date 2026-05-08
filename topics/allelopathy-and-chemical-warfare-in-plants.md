@@ -40,9 +40,9 @@ Understanding allelopathy transforms how we think about companion planting, weed
 
 Allelopathic compounds belong to diverse chemical families, each with distinct modes of action:
 
-**Phenolic Compounds** are the most widespread allelochemicals. They include simple phenols, coumarins, flavonoids, and tannins. Juglone, the infamous compound released by black walnut (*Juglans nigra*), is a naphthoquinone — a type of phenolic — that inhibits respiration in sensitive plants by disrupting mitochondrial electron transport. Phenolics generally act by interfering with enzyme function, membrane integrity, or nutrient uptake.
+**Phenolic Compounds** are the most widespread allelochemicals. They include simple phenols, coumarins, flavonoids, and tannins. Juglone, the infamous compound released by black walnut (*Juglans nigra*), is a naphthoquinone — a type of phenolic — that inhibits respiration in sensitive plants by disrupting mitochondrial [[electron-transport-chain-mitochondrial-respiration]]. Phenolics generally act by interfering with enzyme function, membrane integrity, or nutrient uptake.
 
-**Terpenoids and Essential Oils** include monoterpenes, sesquiterpenes, and diterpenes. Many aromatic herbs — sage, rosemary, thyme, and wormwood — release volatile terpenoids that suppress seed germination and seedling growth of neighboring plants. The characteristic fragrance of these herbs is, in ecological terms, a chemical boundary marker.
+**Terpenoids and [[essential-oils-and-hydrosol-distillation]]** include monoterpenes, sesquiterpenes, and diterpenes. Many aromatic herbs — sage, rosemary, thyme, and wormwood — release volatile terpenoids that suppress seed germination and seedling growth of neighboring plants. The characteristic fragrance of these herbs is, in ecological terms, a chemical boundary marker.
 
 **Alkaloids** are nitrogen-containing compounds with potent biological activity. Caffeine in coffee grounds, nicotine in tobacco, and solanine in nightshades all have allelopathic properties. Caffeine, for instance, is highly phytotoxic at the concentrations found in coffee grounds and can suppress germination of many small-seeded species.
 
@@ -56,7 +56,7 @@ Allelochemicals enter the environment through several pathways:
 
 **Root Exudation** is the primary route. Plant roots continuously release a complex cocktail of organic compounds into the rhizosphere — sugars, amino acids, organic acids, phenolics, and terpenoids. These exudates can constitute 10–40% of total photosynthate in some species. This is not waste; it is active chemical communication and warfare. Exudates recruit beneficial mycorrhizal partners, repel pathogens, inhibit competitors, and alter soil chemistry.
 
-**Leaching from Above-Ground Tissues** occurs when rain or dew washes water-soluble compounds from leaves and stems onto the soil surface. This is particularly significant for plants with high concentrations of water-soluble phenolics and alkaloids. Eucalyptus leaves, for example, leach phenolic compounds that create a bare zone beneath the tree canopy.
+**Leaching from Above-Ground Tissues** occurs when rain or dew washes [[water-soluble-calcium-phosphate-wcp]] compounds from leaves and stems onto the soil surface. This is particularly significant for plants with high concentrations of water-soluble phenolics and alkaloids. Eucalyptus leaves, for example, leach phenolic compounds that create a bare zone beneath the [[tree-canopy-fungal-sampling-techniques]].
 
 **Volatile Emission** allows plants to influence neighbors at a distance. Volatile terpenoids and other aromatic compounds diffuse through the air, potentially affecting plants several meters away. This is the mechanism behind the traditional companion-planting advice to interplant aromatic herbs among vegetables.
 
@@ -70,7 +70,7 @@ The most famous allelopathic plant in temperate horticulture, black walnut produ
 
 Not all plants are sensitive to juglone. Black raspberry, blackberry, pawpaw, persimmon, cherry, redbud, and many native woodland plants tolerate it well. This selective toxicity is one of the reasons black walnut creates distinctive understory plant communities.
 
-The practical lesson: know where black walnut roots run before planting a garden. Raised beds with root barriers can sometimes bypass the problem, but juglone-contaminated soil brought in from beneath walnuts can carry the toxin.
+The practical lesson: know where black walnut roots run before planting a garden. [[raised-beds-vs-in-ground-vs-containers]] with root barriers can sometimes bypass the problem, but juglone-contaminated soil brought in from beneath walnuts can carry the toxin.
 
 ### Sorghum and Sorghum-Sudangrass
 
@@ -137,9 +137,9 @@ Many traditional companion-planting combinations can be explained or re-evaluate
 
 Allelochemicals do not act in isolation — they interact with the soil food web in complex ways:
 
-**Microbial Degradation** — Soil microorganisms are the primary agents of allelochemical breakdown. A healthy, biodiverse soil community degrades allelopathic compounds rapidly, reducing the duration of their effect. Compacted, anaerobic, or biologically depleted soils may retain allelopathic compounds longer, extending the suppressive window.
+**Microbial Degradation** — [[soil-microorganisms-natural-fertility]] are the primary agents of allelochemical breakdown. A healthy, biodiverse soil community degrades allelopathic compounds rapidly, reducing the duration of their effect. Compacted, anaerobic, or biologically depleted soils may retain allelopathic compounds longer, extending the suppressive window.
 
-**Mycorrhizal Modulation** — Mycorrhizal networks can both transmit allelochemicals between plants and buffer plants against their effects. Some research suggests that plants connected by common mycorrhizal networks can "eavesdrop" on neighbors' chemical signals and respond preemptively.
+**Mycorrhizal Modulation** — [[mycorrhizal-networks-and-forest-communication]] can both transmit allelochemicals between plants and buffer plants against their effects. Some research suggests that plants connected by common mycorrhizal networks can "eavesdrop" on neighbors' chemical signals and respond preemptively.
 
 **Selective Pressure on Soil Communities** — Allelopathic plants don't just affect other plants — they shape the entire soil microbial community. Black walnut soils, for example, develop distinct microbial communities adapted to the presence of juglone. This is one reason why simply removing a walnut tree does not immediately make the soil safe for juglone-sensitive plants; the soil biological community needs time to shift.
 
@@ -165,7 +165,7 @@ Allelochemicals do not act in isolation — they interact with the soil food web
 
 ### Allelopathy in Permaculture Design
 
-Permaculture designers can use allelopathy intentionally:
+[[permaculture-designers-manual-cattle-systems]] can use allelopathy intentionally:
 
 - **Edge plantings of allelopathic species** — wormwood, southernwood, or tansy at garden edges to create buffer zones against encroaching weeds.
 - **Strategic placement of walnut-compatible species** — in areas influenced by black walnut, plant tolerant species like pawpaw, serviceberry, elderberry, and black raspberry.

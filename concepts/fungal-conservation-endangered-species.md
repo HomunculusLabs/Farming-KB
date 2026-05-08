@@ -80,7 +80,7 @@ Practical conservation measures include:
 ## See Also
 
 - [[fungal-conservation-challenges]] — broader conservation challenges
-- [[fungal-conservation-strategies]] — conservation approaches
+- [[ethnomycology]] — conservation approaches
 - [[fungal-biodiversity-conservation-status]] — current status overview
 - [[fungal-roles-in-old-growth-forests]] — old-growth forest fungal communities
 - [[fungal-ecosystem-services]] — ecosystem functions of fungi

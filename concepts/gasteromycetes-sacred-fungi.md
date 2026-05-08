@@ -60,7 +60,7 @@ indigenous peoples of Mexico:
 The use of puffballs as sacred fungi raises interesting questions about
 the nature of indigenous mushroom classification. Unlike Psilocybe and
 Copelandia species, puffballs have not been confirmed to contain
-[[psilocybin]], [[psilocin]], or other known psychoactive tryptamine compounds.
+[[psilocybin-compound]], [[psilocin]], or other known psychoactive tryptamine compounds.
 Several hypotheses have been proposed to explain their sacred status:
 
 1. **Undetected compounds**: Puffballs may contain as-yet-unidentified

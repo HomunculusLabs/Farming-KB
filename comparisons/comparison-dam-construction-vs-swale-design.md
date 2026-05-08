@@ -22,7 +22,7 @@ In practice, most productive farms benefit from a thoughtful combination of both
 
 ## Dam Construction
 
-[[[[dam-construction]]|Dams]] are engineered structures built to impound water behind a wall or embankment, creating open surface storage. Common types include earth dams, rock-fill dams, and concrete dams. Earth dams are most common on farms, built from compacted local soil with a clay core for sealing against seepage.
+[[[dam-construction]]|Dams]] are engineered structures built to impound water behind a wall or embankment, creating open surface storage. Common types include earth dams, rock-fill dams, and concrete dams. Earth dams are most common on farms, built from compacted local soil with a clay core for sealing against seepage.
 
 Dams serve multiple purposes on a productive farm or homestead:
 
@@ -49,7 +49,7 @@ Local regulations may require dam safety assessments, environmental impact studi
 
 ## Swale Design
 
-[[[[swale-design]]|Swales]] are level channels excavated along the contour of a slope, designed to intercept, slow, and infiltrate surface water runoff. Unlike dams, swales do not store water on the surface for extended periods.
+[[[swale-design]]|Swales]] are level channels excavated along the contour of a slope, designed to intercept, slow, and infiltrate surface water runoff. Unlike dams, swales do not store water on the surface for extended periods.
 
 Their primary purpose is to hold water temporarily so it percolates into the soil, recharging groundwater and creating moist planting zones downslope. Swales are typically built with a level bottom and a downslope berm formed from the excavated material.
 
@@ -114,10 +114,10 @@ The order of implementation matters. Begin with the highest priority earthworks 
 ## See Also
 
 - [[pdc-water-harvesting-earthworks-design|Water Harvesting]]
-- [[[[keyline-design]]|Keyline Design]]
+- [[[keyline-design]]|Keyline Design]]
 - [[keypoint-dam-water-storage-earthworks|Earthworks]]
 - [[mollison-designers-contour-surveying-a-frame-bunyip-level|Contour Surveying]]
-- [[[[irrigation-systems]]|Irrigation Systems]]
+- [[[irrigation-systems]]|Irrigation Systems]]
 - [[permaculture-humid-landscape-strategies|Landscape Rehydration]]
 - [[natfarm-aquaculture-pond-design|Aquaculture Ponds]]
 - [[soil-erosion-control|Erosion Control]]

@@ -1,5 +1,5 @@
 ---
-title: "Grape vs Hardy Kiwi for Homestead Trellising"
+title: "Grape vs Hardy Kiwi [[basic-plumbing-for-homestead]] Trellising"
 tags: [grape, hardy-kiwi, trellising, homesteading, permaculture, fruit]
 date: 2026-04-28
 updated: 2026-04-28
@@ -15,13 +15,13 @@ type: comparison
 
 # Grape vs Hardy Kiwi for Homestead Trellising
 
-Both grapes (*Vitis* spp.) and hardy kiwi (*Actinidia arguta*) are vigorous, perennial vines that excel on trellis systems, making them popular choices for homesteaders looking to maximize vertical growing space. This comparison covers the key practical differences to help you choose the right vine for your site and goals.
+Both grapes (*Vitis* spp.) and hardy kiwi (*Actinidia arguta*) are vigorous, perennial vines that excel on trellis systems, making them popular choices for homesteaders looking to maximize [[coleman-greenhouse-tomato-vertical-growing]] space. This comparison covers the key practical differences to help you choose the right vine for your site [[query-how-to-choose-cover-crops-for-your-climate-and-goals]].
 
 ## Overview
 
-**Grapes** are well-established deciduous vines with centuries of cultivation history. Hundreds of cultivars exist for fresh eating, wine, juice, raisins, and preserves. They are widely adapted and among the most forgiving fruiting vines for beginning growers.
+**Grapes** are well-established deciduous vines with centuries of [[magic-mushroom-cultivation-history]]. Hundreds of cultivars exist for fresh eating, wine, juice, raisins, and preserves. They are widely adapted and among the most forgiving fruiting vines for beginning growers.
 
-**Hardy Kiwi** (also called kiwiberry or bower vine) produces small, smooth-skinned fruit the size of a large grape with a sweet, tropical flavor reminiscent of standard fuzzy kiwi. Native to East Asia, *A. arguta* has gained popularity in permaculture circles for its exceptional vigor, shade production, and unique fruit.
+**Hardy Kiwi** (also called kiwiberry or bower vine) produces small, smooth-skinned fruit the size of a large grape with a sweet, tropical flavor reminiscent of standard fuzzy kiwi. Native to East Asia, *A. arguta* has gained popularity [[water-harvesting-and-conservation-in-permaculture]] circles for its exceptional vigor, shade production, and unique fruit.
 
 ## Growth Habit and Vigor
 

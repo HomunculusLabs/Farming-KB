@@ -148,5 +148,3 @@ encountered as a "weed" mushroom in commercial mushroom cultivation facilities.
 - [[agar]]
 - [[coprinopsis-atramentaria]]
 - [[dom]]
-
-- [[coprinopsis-atramentaria]]

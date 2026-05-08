@@ -148,4 +148,3 @@ Cover above-ground growth when temperatures drop below 2°C (36°F). Protects do
 
 ### Winter (December–February)
 - [ ] Keep indoor plants bright and cool (10–15°C). Water once every 1–2 weeks sparingly.
-- [ ] Check for spider mites and mealybugs. Prune lightly. Plan next season.

@@ -27,7 +27,7 @@ Six mushroom species have demonstrated total cholesterol reduction:
 - [[mushroom-training-shiitake-cultivation]] — via eritadenine (see below)
 - [[medicinal-mushroom-guide-cordyceps]] — via lovastatin production; 4% dried mushroom in high-cholesterol diet reduced serum and liver cholesterol in rats
 - [[medicinal-mushroom-guide-cordyceps]]
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 
 ### Eritadenine (Lentinus edodes)
 

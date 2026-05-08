@@ -128,9 +128,9 @@ Placing cuttings directly into a glass of water. Roots form at the water line. S
 ## Related Topics
 
 - [[cannabis-vegetative-growth-stage]]
-- [[green-cannabis-grow-bible-seed-germination-methods]]
+- green cannabis grow bible seed germination methods
 - cannabis cloning and mother plants
-- [[green-cannabis-grow-bible-seed-germination-methods]] (alternative to cloning)
+- green cannabis grow bible seed germination methods (alternative to cloning)
 - [[cannabis-root-microbiome]] (important for clone health)
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-nutrient-solution-preparation]]

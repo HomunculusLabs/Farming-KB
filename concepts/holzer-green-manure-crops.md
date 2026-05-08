@@ -136,7 +136,7 @@ multi-functional system.
 - [[holzer-pig-keeping-paddock-system]]
 Related topics: [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]],
 [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]],
-[[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]],
+[[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]],
 [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]],
 [[holzer-assessing-the-land]], [[holzer-terrace-construction-guide]],
 [[composting-humus-building-holzer]], [[cover-cropping-guide]], [[green-manure-crops]]

@@ -69,7 +69,7 @@ These cases of misinterpretation do not prove that prehistoric people never used
 
 ## See Also
 
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[outdoor-mushroom-cultivation]]
 

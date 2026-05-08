@@ -117,5 +117,5 @@ Modern interest in the species is driven entirely by laboratory pharmacology rat
 - [[coriolopsis-capitata]]
 - [[trametes-hirsuta]]
 - [[hericium-erinaceus]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[inonotus-obliquus]]

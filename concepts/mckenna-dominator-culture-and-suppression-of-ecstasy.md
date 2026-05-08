@@ -148,6 +148,3 @@ excluded.
 - [Partnership versus Dominator 
 Societies](partnership-versus-dominator-societies.md)
 - [Entheogenic Plants and Religious 
-Freedom](entheogenic-plants-and-religious-freedom.md)
-- [War on Drugs and Cultural 
-Suppression](war-on-drugs-and-cultural-suppression.md)

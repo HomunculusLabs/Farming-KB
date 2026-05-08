@@ -139,28 +139,6 @@ The maximum formula also requires slight tamping down of the substrate after
 loading. The jar is lightly slammed on the palm a couple of times to lower the
 mixture level to approximately 1/2 inch from the jar top.
 
-## Water Quality Considerations
-
-The PF TEK calls for distilled or filtered drinking water in the substrate
-formula. Water quality can affect both the nutritional availability and the
-contamination risk. The water volume in the formula should be measured
-accurately using the specified standards.
-
-Using too little water leads to the dried substrate problem, while too much
-creates the sloppy, waterlogged conditions that promote bacterial growth and
-hinder mycelial expansion.
-
-## Record Keeping for Moisture Optimization
-
-The PF TEK repeatedly emphasizes the importance of keeping notes on substrate
-formulas. Each combination of rice flour quantity, vermiculite type, water
-volume, sterilization duration, and lid tightness should be recorded along
-with the colonization results.
-
-Over multiple grows, this record keeping allows the cultivator to dial in the
-optimal formula for their specific materials and conditions. Take notes and go
-with what fruits the best.
-
 ## Related Concepts
 
 - [[pf-tek-vermiculite-grading-and-water-retention]] for vermiculite water holding properties

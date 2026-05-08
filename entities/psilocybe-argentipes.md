@@ -15,7 +15,7 @@ type: entity
 **Also known as:** None widely used
 
 ## Overview
-Psilocybe argentipes is a moderately to highly active [[psilocybin]]
+Psilocybe argentipes is a moderately to highly active [[psilocybin-compound]]
 mushroom known only from Japan. The species name ("silver-footed")
 refers to the silvery patches of fibrils adorning the stem. It grows
 gregariously on soil rich in woody debris near Cryptomeria japonica,

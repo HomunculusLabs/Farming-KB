@@ -129,7 +129,7 @@ The terpene profile is the defining feature of Blueberry and responsible for its
 
 ## See Also
 
-- [[blue-dream-cannabis]] — Most famous Blueberry descendant (Blueberry × Haze)
+- [[blue-dream-strain]] — Most famous Blueberry descendant (Blueberry × Haze)
 - [[purple-haze-cannabis]] — Another purple-colored classic with different lineage
 - [[granddaddy-purple]] — Purple indica with overlapping genetic territory
 - [[northern-lights]] — Foundational indica frequently crossed with Blueberry

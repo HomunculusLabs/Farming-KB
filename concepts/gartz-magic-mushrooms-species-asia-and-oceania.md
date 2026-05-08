@@ -42,7 +42,7 @@ cultural history:
 
 Japanese folklore features "maitake" (Dancing Mushrooms) and "waraitake"
 (Laughing Mushrooms), though the original species thought responsible
-(Panaeolus papilionaceus and [[gymnopilus-spectabilis]]) are now known not to
+(Panaeolus papilionaceus and [[gymnopilus-spectabilis-entity]]) are now known not to
 contain psychoactive substances. Mushroom cultivation in Japan has a
 2,000-year tradition.
 

@@ -138,57 +138,6 @@ type: comparison
 | Compost tea inoculant | Both | Trichoderma in fungal-dominant teas; Bacillus in bacterial-dominant teas |
 | Post-chemical pesticide application | Bacillus | Greater fungicide tolerance |
 | Stored grain protection | Bacillus | Endospore stability, antifungal VOCs, long persistence |
----
-
-## Synergy: Using Both Together
-
-Combining Trichoderma and Bacillus is often more effective than either alone:
-
-1. **Complementary mechanisms**: Mycoparasitism (Trichoderma) + lipopeptide antibiosis (Bacillus) attack pathogens through independent pathways, reducing the likelihood of pathogen adaptation or resistance.
-2. **Niche partitioning**: Trichoderma colonizes the rhizosphere soil and root surface cortex; Bacillus dominates the rhizoplane and root interior (endophytic colonization). Together, they provide multi-layered protection.
-3. **Cross-stimulation**: Some Bacillus strains stimulate Trichoderma growth and sporulation, and vice versa. Bacillus VOCs (2,3-butanediol) enhance Trichoderma biocontrol gene expression.
-4. **Nutrient cycling**: Trichoderma degrades complex organic matter (cellulose, chitin); Bacillus metabolizes simpler compounds. Together, they accelerate nutrient mineralization.
-5. **Broader ISR**: Each triggers partially overlapping but distinct defense pathways, providing more comprehensive induced resistance.
-
-**Practical combination approaches**:
-- Seed coating with Bacillus endospores + soil drench with Trichoderma conidia at planting
-- Alternating applications in compost tea programs (fungal tea one week, bacterial tea the next)
-- Co-formulated products (increasingly available commercially)
-- Separate application to avoid direct competition: Bacillus first (rapid colonization), then Trichoderma (slower but deeper colonization) 1–2 weeks later
-
-**Caveats for combination**:
-- Some Bacillus strains produce compounds antagonistic to Trichoderma (not all strains are compatible).
-- Competition for root colonization sites can reduce efficacy of one or both if applied simultaneously at high rates.
-- pH and nutrient conditions that favor one may disadvantage the other.
-- Always test strain compatibility before combining specific products.
-
----
-
-## Choosing the Right Product
-
-### For Organic and Regenerative Growers
-
-- **Bacillus** products are often the first choice due to lower cost, longer shelf life, ease of application, and broad efficacy. *B. subtilis* (strain QST 713, sold as Serenade) and *B. amyloliquefaciens* (strain FZB42, sold as Taegro) are among the most widely used.
-- **Trichoderma** is preferred when the primary target is a specific fungal pathogen, especially soilborne Fusarium, Rhizoctonia, or Sclerotinia. *T. harzianum* (strain T-22, sold as RootShield) and *T. asperellum* (strain T34) are industry standards.
-- **Both** is the optimal choice for serious disease pressure and long-term soil health building.
-
-### Quality Indicators
-
-- **CFU count**: Look for ≥1×10⁹ CFU/g for Bacillus; ≥1×10⁸ CFU/g for Trichoderma.
-- **Strain specificity**: Species alone is insufficient — strain matters enormously. Buy products with identified, tested strains.
-- **Carrier material**: Talc, vermiculite, or peat-based carriers improve survival during storage and application.
-- **Contamination testing**: Reputable manufacturers test for absence of human pathogens and contaminant organisms.
-
----
-
-## Bottom Line
-
-**Trichoderma** excels as a specialist fungal predator — unmatched against soilborne fungal pathogens through direct mycoparasitism, but more demanding in its environmental requirements and storage. Think of it as a **precision tool** for fungal disease management.
-
-**Bacillus** is the Swiss Army knife — a tough, versatile generalist that works across environments, survives almost anything, provides broad-spectrum protection (fungal + bacterial), and promotes plant growth through multiple mechanisms. Its endospore biology makes it the **reliable workhorse** of biological agriculture.
-
-**Together**, they are synergistic and complementary — the combination provides broader-spectrum protection, more robust soil colonization, and greater resilience than either agent alone.
-
 ## See Also
 
 - [[bacillus-amyloliquefaciens]]

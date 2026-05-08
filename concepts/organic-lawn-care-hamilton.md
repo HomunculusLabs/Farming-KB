@@ -96,7 +96,7 @@ Lawns are remarkably resilient and can survive extended dry periods by going dor
 - [[composting-science-solomon]]
 - [[complete-organic-fertilizer-recipes]]
 - [[ph-and-nutrient-availability-garden-soils]]
-- [[wormery-construction]]
+- [[composting-and-soil-biology]]
 - [[seasonal-gardening-calendar]]
 
 ## Source

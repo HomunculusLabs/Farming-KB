@@ -94,7 +94,7 @@ growing cycles and eliminates the need for physical root pruning.
 The best approach is preventing rootbound conditions entirely:
 
 - Start plants in adequately sized containers from the beginning
-- [[cervantes-transplanting-potting-up]] incrementally as plants grow
+- [[cannabis-advanced-growing-techniques]] incrementally as plants grow
 - Use fabric pots or air-pruning containers to encourage lateral roots
 - Monitor root growth through drainage holes as an early indicator
 - Apply chemical root pruning coatings to long-term containers
@@ -104,7 +104,7 @@ The best approach is preventing rootbound conditions entirely:
 Root pruning is a deliberate stress that temporarily slows growth but
 yields long-term benefits in root efficiency. Unlike accidental
 rootbound stress, controlled pruning allows the grower to time the
-recovery period. See [[cervantes-plant-stress-recovery]] for how
+recovery period. See [[cannabis-advanced-growing-techniques]] for how
 plants recover from deliberate and accidental stress events.
 
 Plants that remain severely rootbound for extended periods may never

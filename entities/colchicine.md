@@ -123,48 +123,6 @@ and serves as a warning sign.
 **Hematologic:** Bone marrow suppression, leukopenia,
 thrombocytopenia, and aplastic anemia at toxic doses. Risk is
 increased in patients with renal or hepatic impairment.
-
-**Neuromyopathy:** Proximal muscle weakness and elevated CK,
-particularly with chronic use or in renal impairment.
-
-**Multiorgan failure:** Massive overdose causes fulminant multiorgan
-failure with a characteristic 7–10 day latent period followed by
-rapid clinical deterioration. Fatal dose as low as 0.5 mg/kg.
-No specific antidote exists; treatment is supportive.
-
-**Drug interactions:** CYP3A4 and P-glycoprotein inhibitors
-(clarithromycin, ketoconazole, cyclosporine, HIV protease inhibitors)
-dramatically increase colchicine blood levels and toxicity risk.
-
-Contraindicated in severe renal (CrCl <30 mL/min) or hepatic
-impairment.
-
-## Biosynthesis
-
-Colchicine is biosynthesized in *Colchicum autumnale* and *Gloriosa
-superba* via a complex pathway involving phenylalanine and tyrosine
-precursors.
-
-The pathway proceeds through a series of condensation, ring
-formation, and methylation steps. The autumn crocus accumulates
-colchicine primarily in seeds and corms at concentrations of
-0.1–0.5% dry weight.
-
-## History
-
-Colchicine-containing plants (*Colchicum autumnale*) were described
-by Dioscorides in *De Materia Medica* (c. 50–70 CE) for the
-treatment of gout.
-
-The alkaloid was first isolated in 1820 by the French chemists
-Pelletier and Caventou.
-
-It entered formal pharmacopoeias in the 19th century and remains
-one of the oldest continuously used pharmaceutical agents.
-
-The 2009 COLCOT trial and subsequent studies significantly expanded
-its role in cardiovascular medicine.
-
 ## Related Compounds
 
 - **Colchiceine** — deacetylated metabolite, less active.

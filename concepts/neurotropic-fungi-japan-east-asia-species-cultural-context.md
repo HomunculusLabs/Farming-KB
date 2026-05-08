@@ -71,9 +71,7 @@ Asia:
 
 ### Gymnopilus Species
 
-
 (Section truncated for length.)
-
 
 - **Copelandia tropicalis**: Imazeki and Hongo (1987).
 - **Cordyceps capitata**: Heim and Wasson (1958), Schultes and Hofmann
@@ -140,58 +138,10 @@ diversity in Psilocybe and Copelandia:
 - **Psilocybe semilanceata**: Bhide et al. (1987).
 - **Copelandia bispora**, **C. cyanescens**, **C. tirunelveliensis**:
   Natarajan and Raman (1983).
-- **Hypholoma gigaspora** and **H. guzmanii**: Natarajan and Raman
-  (1983, 1985), Guzmán (1995).
-
-### Southeast Asia
-
-The tropical regions of Southeast Asia, including Thailand, Indonesia,
-Cambodia, Vietnam, the Philippines, and Sri Lanka, have rich neurotropic
-mycofloras dominated by Copelandia and Psilocybe cubensis:
-- **Thailand**: C. cyanescens, P. cubensis, P. samuiensis (Allen and
-  Merlin, 1992a, b; Gartz et al., 1994; Guzmán et al., 1993a).
-- **Indonesia**: C. cyanescens, P. subaeruginascens var.
-  subaeruginascens (Singer and Smith, 1958; Koike et al., 1981).
-- **Cambodia**: C. cambodginiensis, C. cyanescens, C. tropicalis,
-  P. cubensis (Ola'h, 1969, 1970; Weeks et al., 1979).
-- **Vietnam**: P. cubensis, A. pantherina (Heim, 1956a, 1958a;
-  Chilton, 1978).
-- **Philippines**: C. cyanescens, C. tropicalis, P. cubensis (Singer,
-  1960a; Ola'h, 1969; Heim, 1978).
-- **Sri Lanka**: C. cyanescens, C. cambodginiensis, P. goniospora,
-  P. ochreata, P. rostrata (Coomaraswamy, 1979; Pegler, 1986).
-
-## Cultural Context
-
-The use of Amanita muscaria in the context of the Soma question (Wasson,
-1968) represents the most significant cultural connection between East
-Asian neurotropic fungi and human society. Wasson's hypothesis that Soma
-was A. muscaria, while controversial, has generated extensive
-scholarship on the intersection of mycology, linguistics, and Vedic
-religion.
-In Japan, several species including Dictyophora indusiata have
-traditional cultural significance as edible or medicinal fungi. The
-neurotropic Psilocybe species of Japan have received less attention in
-the ethnographic literature compared to their Mesoamerican counterparts.
-
-## Biogeographic Patterns
-
-East Asian neurotropic fungi show several notable biogeographic patterns:
-1. **Endemism**: Several species are endemic to East Asia, including
-   P. argentipes, P. subcaerulipes, P. venenata, and P. septentrionalis.
-2. **Transcontinental connections**: P. subaeruginascens links Japan
-   with Indonesia, while P. cubensis connects Southeast Asia with the
-   broader pantropical distribution.
-3. **Northern Hemisphere Amanita**: A. muscaria in the Himalaya and
-   Tibet connects with the circumboreal distribution of this species.
-4. **Gymnopilus richness**: Japan has an unusually rich neurotropic
-   Gymnopilus flora, comparable to the Pacific Northwest of North
-   America.
-
 ## See Also
 
 - [[amanita-muscaria]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi
 - [[amanita-pantherina]]
 - [Neurotropic Fungi in Asia](guzman-allen-gartz-neurotropic-fungi-asia.md)
 - [Amanita Muscaria and Ibotenic Acid Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)

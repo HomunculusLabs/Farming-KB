@@ -41,7 +41,7 @@ It is important to handle the topsoil very carefully. Mistakes are frequently ma
 
 In areas where there is little rain, I try to angle the terraces into the hill slightly to help retain water. When stabilising the terraces against heavy rainfall, it is important to make sure that their alignment will not channel the water.
 
-[[holzer-terrace-systems]] | [[permaculture-earthworks-guide]] | [[holzer-permaculture-landscape-design]] | [[holzer-water-landscapes]] | [[sepp-holzer-method]]
+[[holzer-terrace-systems]] | [[permaculture-water-harvesting-earthworks]] | [[holzer-permaculture-landscape-design]] | [[holzer-water-landscapes]] | [[sepp-holzer-method]]
 
 ## Key Points
 
@@ -70,7 +70,7 @@ In areas where there is little rain, I try to angle the terraces into the hill s
 ## See Also
 - [[holzer-roundwood-shelters-earth-cellars]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], holzer terrace construction guide.
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], holzer terrace construction guide.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
@@ -98,7 +98,7 @@ In cold mountain climates like those at the Krameterhof, terraces serve addition
 
 ## Mechanical Considerations and Earthmoving
 
-Holzer's approach to terrace construction emphasises efficiency in earthmoving operations. When using mechanical excavators, he recommends working from the top of the slope downward, creating each terrace in sequence so that the excavated material from one terrace is used to build the embankment of the terrace below. This "cut-and-fill" approach minimises the distance that earth must be moved and reduces the total machine hours required. The excavator operator plays a critical role — an experienced operator who understands the principles of [[permaculture-earthworks-guide]] can shape terraces that closely conform to the natural contours of the land, reducing the need for subsequent manual finishing work.
+Holzer's approach to terrace construction emphasises efficiency in earthmoving operations. When using mechanical excavators, he recommends working from the top of the slope downward, creating each terrace in sequence so that the excavated material from one terrace is used to build the embankment of the terrace below. This "cut-and-fill" approach minimises the distance that earth must be moved and reduces the total machine hours required. The excavator operator plays a critical role — an experienced operator who understands the principles of [[permaculture-water-harvesting-earthworks]] can shape terraces that closely conform to the natural contours of the land, reducing the need for subsequent manual finishing work.
 Holzer cautions against over-engineering terrace structures. Unlike conventional agricultural engineering, which often specifies concrete retaining walls, engineered drainage systems, and imported fill material, Holzer's terraces rely on the natural stability of properly compacted earth embankments and the root-reinforcing effect of living plant systems. This approach dramatically reduces construction costs but requires greater skill in site assessment and construction technique. The key to stability is proper compaction of the embankment fill and the immediate establishment of a dense cover of stabilising vegetation on the riser face. When these principles are followed correctly, Holzer reports that his terraces have withstood extreme rainfall events that would have destroyed conventionally engineered structures.
 For smaller-scale projects where mechanical equipment is not available, Holzer has developed techniques for terrace construction using hand tools and animal power. Stone retaining walls, built without mortar using the dry-stone technique traditional to European mountain agriculture, can stabilise terrace risers on slopes where earth embankments alone would be insufficient. The integration of [[sepp-holzer-terrace-systems-and-raised-beds]] into hand-built terraces allows even small-scale farmers to create productive growing areas on steep terrain without the need for imported soil or fertiliser.
 

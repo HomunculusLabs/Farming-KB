@@ -136,46 +136,6 @@ Ethylone was marketed online as a "legal high" under various names including:
 
 It was frequently misrepresented as MDMA or methylone in the illicit market, contributing to unexpected and sometimes adverse experiences among users who believed they were consuming a different substance. This misrepresentation remains a significant public health concern.
 
-### Legal Status (as of 2026)
-
-| Jurisdiction | Status |
-|-------------|--------|
-| United States | Schedule I (temporarily scheduled in 2014, permanently scheduled 2021 via the Cathinone类 scheduling act) |
-| United Kingdom | Class B under the Psychoactive Substances Act 2016 |
-| European Union | Controlled under individual member state legislation; EU-wide early warning monitoring |
-| Canada | Schedule I under the Controlled Drugs and Substances Act |
-| Australia | Schedule 9 (Prohibited Substance) |
-| China | Controlled substance since 2015 |
-
-## Toxicology and Harm Reduction
-
-### Acute Toxicity
-
-Reported adverse effects include:
-
-- Severe agitation and anxiety
-- Hypertension and tachycardia requiring emergency treatment
-- Hyponatremia (rare, but possible with excessive water intake)
-- Serotonin syndrome — risk is lower than MDMA due to reduced SERT activity, but remains possible, especially when combined with other serotonergic substances
-- Seizures — reported in cases of extreme overdose
-
-### Dangerous Interactions
-
-- **MAOIs:** Potentially life-threatening serotonin syndrome — absolute contraindication
-- **Other serotonergic drugs:** SSRIs, SNRIs, tramadol, tryptamines — increased serotonin syndrome risk
-- **Stimulants:** Cocaine, amphetamines, caffeine — additive cardiovascular strain
-- **Alcohol:** Masks stimulant effects, increases dehydration risk
-- **Antidepressants:** Chronic SSRI use significantly blunts effects
-
-### Harm Reduction Practices
-
-- **Test your substance:** Reagent testing (Marquis, Mecke, Simons) can help identify but cannot distinguish ethylone from other cathinones. GC-MS or LC-MS is required for definitive identification.
-- **Start low, go slow:** Begin with a low test dose due to potency variability and potential misidentification
-- **Stay hydrated:** Drink water at a normal rate (250–500 mL/hour); avoid excessive water intake
-- **Control temperature:** Take breaks from dancing, cool down regularly
-- **Avoid redosing:** The initial dose produces diminishing returns on redose; redosing significantly increases cardiovascular strain and neurotoxicity risk
-- **Space usage:** Wait a minimum of 4–6 weeks between uses to allow monoamine recovery
-
 ## See Also
 
 - [[caffeine]]

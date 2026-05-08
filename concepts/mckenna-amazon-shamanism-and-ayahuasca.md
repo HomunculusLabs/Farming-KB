@@ -10,7 +10,7 @@ tags: [ayahuasca, shamanism]
 
 # McKenna on Amazon Shamanism and Ayahuasca
 
-[[terence-mckenna-stoned-ape-hypothesis]]'s experiences in the Upper Amazon basin beginning in 1970
+[[psychedelic-mushrooms-species-and-identification]]'s experiences in the Upper Amazon basin beginning in 1970
 form the empirical foundation for many arguments in [[mckenna-food-of-the-gods-thesis]]. His fieldwork among mestizo and indigenous Amazonian peoples
 convinced him that shamanism is
 often intuitively guided group decision making, and that ayahuasca

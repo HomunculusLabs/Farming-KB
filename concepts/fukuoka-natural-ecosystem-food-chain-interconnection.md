@@ -148,4 +148,3 @@ operate freely and maintain the health of the farm.
 [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 [[fukuoka-pest-ecology]]
 [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-[[fukuoka-natures-self-organizing-principles]]

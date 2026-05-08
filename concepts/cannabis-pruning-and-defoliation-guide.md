@@ -76,7 +76,7 @@ Most stem breaks heal within one to two weeks if properly supported. The plant w
 
 ## Defoliation and Pest Prevention
 
-Removing dead or dying foliage from the grow area reduces hiding places for pests and eliminates potential sites for mold colonization. Leaves with visible mold, rust, or unusual spotting should be removed immediately and disposed of outside the grow space. Good defoliation hygiene is a component of integrated pest management as described in [[cannabis-pest-management]].
+Removing dead or dying foliage from the grow area reduces hiding places for pests and eliminates potential sites for mold colonization. Leaves with visible mold, rust, or unusual spotting should be removed immediately and disposed of outside the grow space. Good defoliation hygiene is a component of integrated pest management as described in cannabis pest management.
 
 Mold looks like a rust or fluff on leaves and will spread to other parts of the plant if left unchecked. Any leaves showing signs of mold should be cut away during thinning sessions. Maintaining good airflow through proper pruning and plant spacing is one of the most effective mold prevention strategies available.
 

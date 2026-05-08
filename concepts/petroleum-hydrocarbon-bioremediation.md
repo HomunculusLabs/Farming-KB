@@ -13,7 +13,7 @@ Petroleum hydrocarbons are among the most widespread environmental contaminants,
 
 The bioremediation of petroleum-contaminated environments relies on the metabolic activities of hydrocarbon-degrading microorganisms, including bacteria, fungi, and yeasts, which can use various fractions of crude oil and refined petroleum products as carbon and energy sources.
 
-This topic addresses the general principles of petroleum hydrocarbon biodegradation, complementing the fungal-specific discussions in [[fungal-oil-petroleum-bioremediation]], [[petroleum-hydrocarbon-fungal-biodegradation]], and [[biosurfactants-in-bioremediation]].
+This topic addresses the general principles of petroleum hydrocarbon biodegradation, complementing the fungal-specific discussions in [[fungal-oil-petroleum-bioremediation]], [[petroleum-hydrocarbon-fungal-biodegradation]], and [[bioremediation-using-fungi]].
 
 ## Composition of Petroleum Contaminants
 
@@ -99,7 +99,7 @@ Bioaugmentation involves the introduction of exogenous hydrocarbon-degrading mic
 
 [[bioaugmentation-strategies]] for petroleum contamination may include inoculation with consortia of characterized hydrocarbon degraders or with organisms possessing specialized capabilities such as surfactant production.
 
-[[biosurfactants-in-bioremediation]] play an important role in petroleum biodegradation by increasing the bioavailability of hydrophobic hydrocarbons through micelle formation and reduction of interfacial tension.
+[[bioremediation-using-fungi]] play an important role in petroleum biodegradation by increasing the bioavailability of hydrophobic hydrocarbons through micelle formation and reduction of interfacial tension.
 
 Fungal-bacterial coculture systems, described in [[fungal-bacterial-coculture-bioremediation]], can enhance petroleum degradation through complementary metabolic activities.
 

@@ -148,4 +148,3 @@ of premalignant lesions in the bladder and gastrointestinal tract.
 - [[salvinorin-a-entity]]
 - [[berberine]]
 - [[resveratrol]]
-- [[curcumin]]

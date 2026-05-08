@@ -123,4 +123,4 @@ The ventilation pipe diameter should be scaled accordingly — a general guideli
 
 - [[earth-cellar-construction]]
 - [[natural-building-materials-guide]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]

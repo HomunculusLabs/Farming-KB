@@ -35,7 +35,7 @@ tags: [profile]
 
 The **Koryaks** are an Indigenous people of the Russian Far East, historically centered north of the Kamchatka Peninsula and along Bering Sea coastlands.
 They are relevant to this wiki because ethnographic accounts of Koryak life became one of the principal sources for claims about [[amanita-muscaria]] in Siberian shamanism.
-In the [[siberian-shamanism-and-amanita]] concept page, Koryak evidence appears as a major case through writers such as Waldemar Jochelson and later interpreters such as Michael Harner and R. Gordon Wasson.
+In the [[ethnomycology]] concept page, Koryak evidence appears as a major case through writers such as Waldemar Jochelson and later interpreters such as Michael Harner and R. Gordon Wasson.
 A careful entity page must separate the people themselves from later Western theories built from selective readings of their traditions.
 ## Identity
 
@@ -87,7 +87,7 @@ Koryak accounts are among the most frequently cited sources for ritual and intox
 The mushroom is the red-and-white fly agaric, containing ibotenic acid and muscimol rather than psilocybin.
 Ethnographers described consumption of the mushroom by some Koryak individuals and communities.
 They also reported secondary ingestion through urine, because muscimol can pass through the body while retaining psychoactivity.
-The [[siberian-shamanism-and-amanita]] concept page notes this practice as a recurring example in the literature.
+The [[ethnomycology]] concept page notes this practice as a recurring example in the literature.
 It should be treated as a documented but context-specific practice, not as proof that all Siberian shamanism was mushroom-based.
 ## Jochelson's Role
 Waldemar Jochelson conducted influential fieldwork among Koryak communities around 1900-1901.
@@ -109,7 +109,7 @@ Do not collapse Koryak, Chukchi, Yukagir, Even, and other Siberian peoples into 
 Do not project modern psychedelic categories onto Indigenous cosmology without context.
 ## Relevance to the Wiki
 
-The Koryaks provide a concrete entity behind discussions of [[amanita-muscaria-pharmacology]] and [[siberian-shamanism-and-amanita]].
+The Koryaks provide a concrete entity behind discussions of [[amanita-muscaria-pharmacology]] and [[ethnomycology]].
 They connect mycology, anthropology, colonial history, Indigenous Siberia, and the history of psychedelic interpretation.
 They also help correct a common imbalance: Western accounts cite Koryak practices while rarely treating Koryak people as historical actors in their own right.
 An entity page restores that context.
@@ -125,7 +125,7 @@ An entity page restores that context.
 * **Interpretive caution:** documented Amanita use should not be inflated into a total explanation of Koryak religion.
 ## See Also
 
-* [[siberian-shamanism-and-amanita]]
+* [[ethnomycology]]
 * [[amanita-muscaria]]
 * [[amanita-muscaria-pharmacology]]
 * [[gordon-wasson]]

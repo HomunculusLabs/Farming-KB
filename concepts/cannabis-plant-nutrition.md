@@ -132,7 +132,7 @@ The biosynthesis of cannabinoids and terpenes shares precursors with fatty acid 
 - [[mycorrhizal-fungi]] — fungal partners for nutrient uptake
 - [[cannabis-vegetative-stage]] — veg nutrition management
 - [[cannabis-flowering-stage]] — flower nutrition management
-- [[cannabis-pest-management]]
+- cannabis pest management
 - [[knf-preparations]]
 - [[nutritive-cycle-theory]]
 - [[fish-amino-acid-faa]]

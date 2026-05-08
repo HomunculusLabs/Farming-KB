@@ -1,5 +1,5 @@
 ---
-title: "Bruce Banner"
+title: "bruce banner"
 created: 2026-04-28
 type: strain
 tags:
@@ -32,7 +32,7 @@ sources:
 
 **Parent strains:**
 - **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast cannabis genetics. Contributes potency, complex terpene profile (earthy, piney, fuel), and sedative body effects.
-- **Strawberry Diesel** (♂ paternal parent) — a cross of Strawberry Cough and NYC Diesel. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
+- **Strawberry Diesel** (♂ paternal parent) — a cross of [[strawberry-cough]] and [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
 
 **Genetic ratio:** Approximately 60% sativa / 40% indica, though the experience shifts markedly from sativa-dominant onset to indica-dominant come-down.
 
@@ -67,10 +67,10 @@ Bruce Banner's terpene profile is complex and layered, reflecting its dual herit
 - Smooth smoke with expanding, full-bodied vapor
 
 **Dominant terpenes:**
-- **Myrcene** (herbal, musky, sedative) — typically the most abundant, contributing to the heavy body effects
+- **[[myrcene]]** (herbal, musky, sedative) — typically the most abundant, contributing to the heavy body effects
 - **Caryophyllene** (peppery, spicy) — anti-inflammatory, contributes to the diesel/fuel aroma
-- **Limonene** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
-- **Pinene** (pine, alertness) — bronchodilatory, counteracts some sedative effects
+- **[[limonene]]** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
+- **[[pinene]]** (pine, alertness) — bronchodilatory, counteracts some sedative effects
 - **Linalool** (floral, calming) — present in moderate amounts, contributing to the relaxing finish
 
 ## Cannabinoid Profile
@@ -148,6 +148,3 @@ Multiple placements in High Times Cannabis Cup (Colorado events) and Emerald Cup
 
 - [[og-kush]] — The legendary OG Kush parent
 - [[sour-diesel]] — NYC Diesel relative contributing to the lineage
-- [[girl-scout-cookies]] — Another high-THC modern classic
-- [[granddaddy-purple]] — A complementary high-potency indica
-- [[super-lemon-haze]] — A contrasting sativa-dominant powerhouse

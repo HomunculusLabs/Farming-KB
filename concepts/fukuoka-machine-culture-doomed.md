@@ -67,7 +67,7 @@ See also: [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-view-of-nature-an
 
 ## See Also
 
-[[fukuoka-rice-barley-dual-culture]], [[fukuoka-culture-of-clothing-and-meat]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-orchard-ground-cover]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
+[[fukuoka-rice-barley-dual-culture]], [[fukuoka-culture-of-clothing-and-meat]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
 
 ## Practical Applications
 

@@ -135,57 +135,6 @@ products were no longer available since becoming illegal on January 31, 2006.
 These rapid responses demonstrate the sensitivity of online retailers to legal
 changes and their willingness to comply with new restrictions.
 The UK prohibition was estimated to have affected approximately 300 shops and market
-stalls that had been selling hallucinogenic mushrooms, with a market turnover
-estimated at around 1 million pounds per annum.
-
-## Market Substitution Effect
-
-The prohibition of psilocybin-containing mushrooms triggered a notable market
-substitution effect that illustrates a common unintended consequence of drug
-prohibition.
-UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching sales
-to legal alternatives, notably Fly Agaric (Amanita muscaria) and the closely related
-Amanita pantherina (Panther mushroom).
-Another product increasingly marketed as a legal alternative was Purple Ohms
-capsules, whose main ingredient is Argyreia nervosa (Hawaiian Baby Woodrose)
-containing Lysergic Acid Amide (LSA).
-This pattern of substitution toward potentially more dangerous alternatives is
-significant because the active chemicals in Amanita muscaria, namely muscimol,
-ibotenic acid, and muscarine, are totally different from psilocybin and are known
-to carry substantial toxicity risks.
-Some closely related Amanita species are highly toxic and could cause fatal
-poisoning, creating a paradoxical increase in health risk as a consequence of
-prohibition.
-
-## Retailer Risk Information Quality
-
-A snapshot analysis of 21 online shops found significant deficiencies in the quality
-of consumer safety information.
-While the majority warned against using hallucinogenic mushrooms when taking
-medication and/or in combination with alcohol or other drugs, only two-thirds
-recommended against use when suffering from depression or psychosis.
-About half provided dosage information and safe use practices such as consuming on
-an empty stomach, drinking liquids during the experience, and consuming in a quiet
-safe environment.
-Most sites described sought-after effects, yet few provided information on how to
-enhance positive effects.
-The vast majority excluded information on possible negative side effects, with only
-a minority explicitly mentioning nausea and sickness.
-This information asymmetry between positive and negative effect descriptions
-represents a significant consumer protection concern, as users may be inadequately
-prepared for adverse experiences.
-
-## Broader Market Context
-
-In the UK prior to prohibition, approximately 300 shops and market stalls sold
-hallucinogenic mushrooms.
-The UK Treasury collected sales tax estimated at up to 175,000 pounds per year on a
-turnover of around 1 million pounds.
-Data from the Mixmag 2004 readership survey showed that 54.6% of users had purchased
-their last batch of mushrooms in a club, shop, or stall, 16% from a friend, and 4.2%
-via the internet, indicating that despite the growth of online sales, physical
-retail outlets remained the dominant distribution channel.
-
 ## See Also
 
 - [[amanita-muscaria]]

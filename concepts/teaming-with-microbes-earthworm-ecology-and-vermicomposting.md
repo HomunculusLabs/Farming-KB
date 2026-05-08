@@ -147,7 +147,3 @@ fungi, protozoa, and nematodes -- all necessary to support worms -- are
 present and functioning.
 
 [[actinomycetes-soil-biology]] are another key group of soil organisms that work alongside earthworms in decomposition. For practical guidance on methods, [[comparison-vermicomposting-vs-composting-organic-garden]] compares approaches for organic gardens. Earthworms also contribute to [[biodiversity-of-fungi-decomposition-nutrient-cycling]] across ecosystems. Techniques for boosting worm populations are covered in [[compost-biology-soil-food-web-inoculation]].
-
-## See Also
-
-- [[comparison-matsutake-vs-truffle-ecology-and-market]]

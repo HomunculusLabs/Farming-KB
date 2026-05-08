@@ -15,7 +15,7 @@ type: concept
 
 The genus *Dioscorea* — commonly known as yams or sweet potatoes — provides a striking example of how plant chemistry can profoundly influence animal reproduction and population dynamics.
 
-Terence McKenna used *Dioscorea* in *Food of the Gods* to illustrate the broader principle that early hominids' expanding omnivorous diet exposed them to a wide range of bioactive plant compounds capable of affecting fertility, maturation, and genetic variation, with far-reaching consequences for human evolution.
+[[terence-mckenna]] used *Dioscorea* in *Food of the Gods* to illustrate the broader principle that early hominids' expanding omnivorous diet exposed them to a wide range of bioactive plant compounds capable of affecting fertility, maturation, and genetic variation, with far-reaching consequences for human evolution.
 
 ## The Dioscorea Example
 
@@ -57,9 +57,9 @@ Many plants contain compounds analogous to mammalian hormones — phytoestrogens
 
 Some plant compounds can accelerate or delay sexual maturation, with cascading effects on population structure and social organization.
 
-McKenna suggested that ibogaine from *Tabernanthe iboga* may activate pheromones promoting pair bonding, explaining its role in maintaining marriage stability among the Fang people.
+McKenna suggested that [[ibogaine]] from *[[tabernanthe-iboga]]* may activate pheromones promoting pair bonding, explaining its role in maintaining marriage stability among the Fang people.
 
-Psilocybin at moderate doses triggers restlessness and sexual arousal, potentially increasing reproductive frequency.
+[[psilocybin]] at moderate doses triggers restlessness and sexual arousal, potentially increasing reproductive frequency.
 
 These effects mean that a group's choice of food plants can function as an unconscious form of population regulation and social engineering — a phenomenon McKenna saw as central to understanding the relationship between diet and cultural evolution.
 
@@ -77,7 +77,7 @@ Increased mutation rates generate more genetic variation upon which natural sele
 
 In the compressed timeframe of human evolution, this accelerated variation may have been crucial.
 
-Dennis McKenna proposed that the apparent atrophy of the human olfactory system may represent a "functional shift in a set of primitive, externally directed chemo-receptors to an interiorized regulatory function" related to the pineal gland's control of the pheromonal system, gonadal development, and the timing of puberty.
+[[dennis-mckenna]] proposed that the apparent atrophy of the human olfactory system may represent a "functional shift in a set of primitive, externally directed chemo-receptors to an interiorized regulatory function" related to the pineal gland's control of the pheromonal system, gonadal development, and the timing of puberty.
 
 Neuroactive amines and alkaloids in the early primate diet may have played a role in this biochemical activation.
 
@@ -148,7 +148,3 @@ The evolutionary impact of such compounds would be amplified in omnivorous speci
 - [[dioscorea-alata]]
 
 - [[mckenna-diet-symbiosis-human-evolution]]
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
-- [[mckenna-plants-and-primates-coevolution]]
-- [[mckenna-food-gods-ibogaine-bwiti-fang]]
-- [[mckenna-ur-plant-hypothesis]]

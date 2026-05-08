@@ -141,5 +141,5 @@ a dry spring period.
 
 - [[leccinum-scabrum]] — Birch-associated *Leccinum*, common lookalike
 - [[suillus-luteus]] — Pine-associated bolete, contrasting mycorrhizal partner
-- [[boletus-edulis]] — Premium edible bolete for comparison
+- [[boletus-edulis-entity]] — Premium edible bolete for comparison
 - [[gyroporus-cyanescens]] — Another bolete with distinctive color reactions

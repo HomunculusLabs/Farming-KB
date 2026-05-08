@@ -6,7 +6,7 @@ type: concept
 tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
 sources: []
 ---
-# lemon balm growing guide (Melissa officinalis)
+# lemon balm growing guide ([[melissa-officinalis]])
 ## Overview
 Lemon balm is a vigorous perennial herb in the mint family, native to the
 Mediterranean region and Central Asia. Prized for its bright, lemon-scented
@@ -132,7 +132,7 @@ Lemon balm is generally pest and disease resistant. Watch for:
 - Slugs: May damage young growth; use organic slug controls
 ## See Also
 - [[chamomile-growing-guide]] -- pair with lemon balm in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another aromatic medicinal herb for daily
+- holy basil tulsi guide -- another aromatic medicinal herb for daily
   wellness teas
 ## Related
 - [[st-johns-wort-guide]]

@@ -120,4 +120,4 @@ irrepressible human desire for novel experience.
 - [[mushroom-home-cultivation-history]]
 - [[magic-mushroom-british-underground-and-festivals]]
 - [[global-psychedelic-mushroom-species-diversity]]
-- [[psilocybe-mexicana-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

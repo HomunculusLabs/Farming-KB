@@ -148,4 +148,3 @@ Mollison describes the [[soil-food-web]] as a pyramid of feeding relationships:
 3. **Mutualists**: Mycorrhizal fungi and nitrogen-fixing bacteria that
    exchange nutrients with plants.
 4. **Predators and grazers**: Protozoa, nematodes, and microarthropods that
-   regulate bacterial and fungal populations.

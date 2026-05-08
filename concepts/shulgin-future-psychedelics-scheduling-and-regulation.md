@@ -76,9 +76,9 @@ Rather than either the specificity or generality approach, Shulgin implicitly ad
 - [[turner-multiple-combinations-specific-reports]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[lsd-chemical-modifications-and-analogs]]
-- [[mycoremediation-regulatory-framework]]
+- mycoremediation regulatory framework
 - [[holzer-polycultures-catch-crop-combinations]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 - [[composting-materials-alternative]]
 - [[mycelium-running-pest-control-with-fungi]]
 - [[fungal-research-compound-reference]]

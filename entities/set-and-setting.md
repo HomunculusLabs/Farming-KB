@@ -148,4 +148,3 @@ Contemporary psychedelic therapy research has operationalized set and setting in
 - [[psilocybe-cubensis-entity|Psilocybe cubensis]] — primary research species
 - [[maria-sabina|Maria Sabina]] — Mazatec curandera who demonstrated ritual setting mastery
 - [[ketamine|Ketamine]] — clinical application of set and setting principles
-- [[salvinorin-a-entity|Salvinorin A]] — compound where set/setting profoundly shapes experience intensity

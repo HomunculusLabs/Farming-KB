@@ -125,7 +125,7 @@ psilocybin-containing members of the genus Gymnopilus:
 ## Similar Species
 | Species | Distinguishing Features |
 |---|---|
-| [[gymnopilus-spectabilis]] | Larger, brighter orange; more potent |
+| [[gymnopilus-spectabilis-entity]] | Larger, brighter orange; more potent |
 | [[gymnopilus-junonius]] | Very large, bitter; found on hardwood |
 | [[gymnopilus-luteofolius]] | Bright orange-yellow; smaller stature |
 | [[gymnopilus-fulgens]] | Bright orange cap; more vivid coloring |
@@ -133,7 +133,7 @@ psilocybin-containing members of the genus Gymnopilus:
 | [[gymnopilus-aeruginosus]] | Greenish tints; distinctive coloration |
 | [[gymnopilus-purpuratus]] | Purplish-red tones; South American |
 ## See Also
-- [[gymnopilus-spectabilis]]
+- [[gymnopilus-spectabilis-entity]]
 - [[gymnopilus-junonius]]
 - [[gymnopilus-fulgens]]
 - [[gymnopilus-luteofolius]]

@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Triangle Kush is a pure indica cannabis strain that originated in Florida during the 1990s and is widely regarded as one of the most influential Kush varieties in modern cannabis breeding. Named after Florida's three most iconic cannabis-producing regions — Miami, Tampa, and Jacksonville — the strain emerged from a tight-knit community of underground growers who cultivated and refined it across the state's Gulf and Atlantic coasts. Its reputation as a potent, flavorful, and genetically stable indica made it a foundational building block for dozens of commercially successful crosses.
+Triangle Kush is a pure indica cannabis strain that originated in Florida during the 1990s and is widely regarded as one of the most influential Kush varieties in modern [[cannabis-breeding-and-genetics]]. Named after Florida's three most iconic cannabis-producing regions — Miami, Tampa, and Jacksonville — the strain emerged from a tight-knit community of underground growers who cultivated and refined it across the state's Gulf and Atlantic coasts. Its reputation as a potent, flavorful, and genetically stable indica made it a foundational building block for dozens of commercially successful crosses.
 
 The strain is celebrated for its deeply relaxing physical effects and complex, pungent aroma that blends earthy, citrus, and hash-like qualities. With THC content typically ranging from 20% to 26%, Triangle Kush delivers a heavy-bodied sedation that has made it a favorite among medical patients seeking relief from chronic pain, insomnia, and muscle spasms. Despite its underground origins, it has achieved legendary status among cannabis enthusiasts and breeders worldwide, frequently appearing on "best Kush" lists and earning high ratings across major cannabis databases.
 
@@ -113,12 +113,12 @@ The strain's influence extended beyond Florida as cuttings made their way to Cal
 The following sources were consulted in the preparation of this article:
 
 1. Leafly. "Triangle Kush Strain Information." Leafly, 2024. https://leafly.com/strains/triangle-kush
-2. AllBud. "Triangle Kush Marijuana Strain." AllBud, 2024. https://www.allbud.com/marijuana-strains/indica/triangle-kush
+2. AllBud. "Triangle Kush [[marijuana-strain-guide-hybrid]]." AllBud, 2024. https://www.allbud.com/marijuana-strains/indica/triangle-kush
 3. Phylos Bioscience. "Galaxy: Cannabis Genetic Analysis Platform." Phylos Bioscience, 2023. https://phylosbioscience.com
 4. CannaConnection. "Triangle Kush." CannaConnection, 2024. https://www.cannaconnection.com/strains/717-triangle-kush
 5. Wikileaf. "Triangle Kush Strain." Wikileaf, 2024. https://www.wikileaf.com/strain/triangle-kush
-6. Cannabis Genetics. "Triangle Kush — Genetic Lineage and History." Cannabis Genetics Database, 2023. https://www.cannabisgenetics.io
-7. Mudge, E.M., et al. "Chemotaxonomic Analysis of Cannabis Sativa L. by Terpene [[cannabis-terpene-profiles|Profiles]]." *Frontiers in Plant Science*, vol. 13, 2022, pp. 1–15.
+6. [[cannabis-genetics-and-breeding]]. "Triangle Kush — Genetic Lineage and History." Cannabis Genetics Database, 2023. https://www.cannabisgenetics.io
+7. Mudge, E.M., et al. "Chemotaxonomic Analysis of [[cannabis-sativa-dominant-growing-challenges]] L. by Terpene [[cannabis-terpene-profiles]]." *Frontiers in [[plant-science-exploring-rich-history]]*, vol. 13, 2022, pp. 1–15.
 
 ## See Also
 

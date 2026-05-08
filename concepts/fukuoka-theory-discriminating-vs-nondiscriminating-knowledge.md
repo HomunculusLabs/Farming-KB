@@ -148,4 +148,3 @@ naturally arrive at practices that preserve and enhance that wholeness.
 ## See Also
 
 - [[fukuoka-theory-three-ways-of-farming]]
-- [[fukuoka-limits-scientific-method-agriculture]]

@@ -18,7 +18,7 @@ for uncontrolled pollen distribution. The resulting first-generation seeds,
 produced from unknowable parentage combinations, were called the "Trainwreck
 generation." This method was the origin of many named West Coast sativa lines
 and represents an important historical breeding approach predating modern
-controlled crosses and [[equatorial photoperiod early flowering]] techniques.
+controlled crosses and [[equatorial-photoperiod-early-flowering]] techniques.
 
 ## The Method
 
@@ -109,7 +109,7 @@ importance:
 ## Relationship to Other Breeding Approaches
 
 The Trainwreck method existed alongside and eventually gave way to more
-controlled approaches. The introduction of [[equatorial photoperiod earlyflowering]] genetics in the late 1970s provided a more targeted solution to the
+controlled approaches. The introduction of [[equatorial-photoperiod-earlyflowering]] genetics in the late 1970s provided a more targeted solution to the
 long-flowering sativa problem. Later, Afghan indica dominance in hybrid breeding
 provided yet another approach. Indoor cultivation made controlled crosses
 straightforward, eliminating the need for wind-mediated pollination. However,
@@ -122,6 +122,6 @@ lineage to those original Northern California breeding patches.
 - [[trainwreck-cannabis]]
 - [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
 
-- [[equatorial photoperiod early flowering]]
-- [[cannabis photoperiodism]]
-- [[sativa domestication]]
+- [[equatorial-photoperiod-early-flowering]]
+- [[cannabis-photoperiodism]]
+- [[sativa-domestication]]

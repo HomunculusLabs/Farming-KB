@@ -148,4 +148,3 @@ fruiting well after the first frost.
 ## See Also
 
 - [[psilocybin-mushroom-six-classic-habitats]]
-- [[stamets-psilocybin-habitats-ecology]]

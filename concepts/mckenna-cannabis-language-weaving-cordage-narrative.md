@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis and the Language of Story: Weaving, Cordage, and Narrative
 
-One of Terence McKenna's most provocative arguments in *Food of the Gods* concerns the deep entanglement between cannabis as a cordage plant and the vocabulary of spoken discourse in English. He proposes that the shared terminology for weaving and storytelling reflects an ancient cultural connection between the psychoactive hemp plant and the intellectual processes behind both textile arts and narrative invention.
+One of [[terence-mckenna-tryptamine-hypothesis]]'s most provocative arguments in *Food of the Gods* concerns the deep entanglement between cannabis as a cordage plant and the vocabulary of spoken discourse in English. He proposes that the shared terminology for weaving and storytelling reflects an ancient cultural connection between the psychoactive hemp plant and the intellectual processes behind both textile arts and narrative invention.
 
 ## The Shared Vocabulary of Textile and Tale
 
@@ -27,7 +27,7 @@ This dual nature, as both practical material and consciousness-altering substanc
 
 ## The Successor to Sacred Mushrooms
 
-McKenna positions cannabis as the most likely plant candidate to replace the sacred psilocybin mushrooms of the older partnership cultures of the Near East. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the partnership society.
+McKenna positions cannabis as the most likely plant candidate to replace the sacred [[psilocybin-mushrooms-central-south-america-distribution]] of the older partnership cultures of the Near East. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the partnership society.
 
 The growing presence of cannabis in Vedic society and later in Islam may have acted to slow the rise of dominator values. It gave encouragement to heterodox forces such as Shivites in Hinduism and Sufis in Islam. These groups made no secret of their reliance on cannabis as a source of religious inspiration that was particularly feminine in emphasis.
 
@@ -95,7 +95,7 @@ When used occasionally in a context of ritual and culturally reinforced expectat
 
 ## Cannabis and the Partnership Revival
 
-Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the Archaic Revival. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values.
+Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the [[archaic-revival-philosophy]]. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values.
 
 No other drug can compete with cannabis for its ability to satisfy the innate yearnings for Archaic boundary dissolution and yet leave intact the structures of ordinary society. The longer hair lengths for men seen with the rise of marijuana use in the 1960s were a textbook case of an influx of apparently feminine values accompanying the use of a boundary-dissolving plant.
 
@@ -113,7 +113,7 @@ The bard who could weave together genealogies, cosmological narratives, and prac
 
 ## The Suppression of Cannabis Knowledge
 
-The history of cannabis prohibition, in McKenna's framework, represents not just a pharmacological judgment but a cultural war against the partnership values the plant encodes. Every society that has banned cannabis has been a dominator culture in the grip of hierarchical, male-dominated values.
+The history of [[cannabis-prohibition-history]], in McKenna's framework, represents not just a pharmacological judgment but a cultural war against the partnership values the plant encodes. Every society that has banned cannabis has been a [[dominator-culture-and-partnership-society]] in the grip of hierarchical, male-dominated values.
 
 The suppression of cannabis knowledge means the suppression of the very vocabulary that connects us to our partnership past. When the metaphors become dead language, when people no longer understand why we speak of weaving stories, the cultural memory of the Archaic partnership fades that much further from reach.
 
@@ -123,6 +123,6 @@ McKenna's etymological argument, while speculative, points toward a deeper truth
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocybin-mushroom]]
 - [[psilocybin-mushrooms]]

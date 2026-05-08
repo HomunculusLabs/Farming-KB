@@ -148,5 +148,3 @@ aquatic ecosystems deepens.
 - [[water-management]]
 - pond ecology
 - [[holzer-aquaculture-pond-construction]]
-- integrated aquaculture
-- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]

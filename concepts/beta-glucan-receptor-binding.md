@@ -53,7 +53,7 @@ Upon beta-glucan binding to CR3, multiple immune pathways are activated:
 - Enhanced mRNA levels of IL-1beta, IL-6, and TNF-alpha in macrophages (demonstrated with [[grifron-d-maitake-beta-glucan]] via RT-PCR)
 - Cytokine gene expression patterns differ by cell type: peritoneal exudate cells, splenocytes, and hepatocytes show distinct kinetics
 - Protein synthesis and gene expression of cytokines are regulated separately
-- [[turkey-tail-mushroom-cancer-research]] induces gene expression of TNF-alpha, IL-1, and IL-2, promoting IFN-gamma production
+- [[mushroom-cultivation-fundamentals]] induces gene expression of TNF-alpha, IL-1, and IL-2, promoting IFN-gamma production
 
 ### T-Cell Dependence
 - Neither schizophyllan-research|schizophyllan nor [[lentinan-pre-clinical-antitumour-models]] demonstrated antitumour activity against S-180 in mice treated with cyclosporin A (T-cell suppressor)
@@ -70,7 +70,7 @@ Upon beta-glucan binding to CR3, multiple immune pathways are activated:
 ### NK Cell Activation
 - Beta-glucan priming of CR3 on NK cells enhances their ability to kill iC3b-opsonised tumour cells
 - [[agaricus-blazei-murill-research]] demonstrated selective tumouricidal effects mediated specifically through NK cell activation and apoptosis
-- [[turkey-tail-mushroom-cancer-research]] treatment increased NK cell activity by an average of 64.5% in 138 cancer patients
+- [[mushroom-cultivation-fundamentals]] treatment increased NK cell activity by an average of 64.5% in 138 cancer patients
 
 ## NF-kappaB Signaling
 

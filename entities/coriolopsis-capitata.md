@@ -122,7 +122,7 @@ Its fruiting bodies are occasionally consumed by arboreal mammals, though it is 
 - [[ganoderma-lucidum]]
 - [[fomes-fomentarius]]
 - [[phellinus-linteus]]
-- [[coriolopsis-capitata]]
+- coriolopsis capitata
 - [[bjerkandera-adusta]]
 - [[xylaria-polymorpha]]
 - [[daldinia-concentrica]]

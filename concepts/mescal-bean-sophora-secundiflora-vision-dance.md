@@ -62,10 +62,10 @@ The mescal bean holds a unique place in the ethnopharmacology of North America a
 
 ## Related
 
-- [[peyote-and-psychoactive-cacti]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[ethnomycology]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[old-world-hallucinogenic-plants-overview]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 
 ## Historical Context
 

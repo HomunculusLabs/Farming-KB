@@ -64,7 +64,7 @@ the soil between grows, living soil growers simply remove the main root ball, to
 with fresh compost and amendments, and replant directly into the existing soil. Over
 multiple grow cycles, the soil food web becomes increasingly complex and productive.
 The [[no-till-cannabis]] page covers no-till cannabis growing specifically, and the
-[[no-till-gardening-method]] page addresses no-till principles more broadly.
+[[composting-and-soil-biology]] page addresses no-till principles more broadly.
 
 Flavor and terpene development are consistently reported to be superior in living soil
 compared to hydroponic or synthetic grows. The theory is that the slower, more complex

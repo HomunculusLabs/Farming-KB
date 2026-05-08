@@ -91,4 +91,4 @@ The bluing reaction of G. luteofolius could potentially be confused with the bla
 
 Only skilled mycologists should attempt identification of rusty-spored psilocybin mushrooms.
 
-See also: [[psilocybin-mushroom-deadly-lookalikes]], [[gymnopilus-spectabilis]], [[gymnopilus-purpuratus]], [[psilocybin-mushroom-minor-genera]], [[psilocybin-mushroom-deadly-lookalikes]]
+See also: [[psilocybin-mushroom-deadly-lookalikes]], [[gymnopilus-spectabilis-entity]], [[gymnopilus-purpuratus]], [[psilocybin-mushroom-minor-genera]], [[psilocybin-mushroom-deadly-lookalikes]]

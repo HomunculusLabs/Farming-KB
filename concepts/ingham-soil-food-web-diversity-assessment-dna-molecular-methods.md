@@ -1,0 +1,121 @@
+---
+title: "Soil Food Web Diversity Assessment: DNA and Molecular Methods"
+source: "[[elaine-ingham]] Ph.D. — The Field Guide I for [[actively-aerated-compost-tea]] (AACT)"
+tags: [soil-food-web, microbiology, DNA-testing, diversity-assessment, molecular-methods, compost-tea, soil-health]
+created: 2026-05-08
+---
+
+# Soil Food Web Diversity Assessment: DNA and Molecular Methods
+
+## Overview
+
+Assessing microbial diversity in soil, compost, and [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] is critical for understanding [[soil-health-management]], [[ingham-aact-disease-suppression]], [[teaming-with-nutrients-composting-and-nutrient-cycling]]. Dr. [[elaine-ingham]]'s [[soil-foodweb-balancing-protocol-ingham]] Inc. (SFI) developed a multi-tiered approach progressing from morphological microscopy toward molecular DNA-based methods. Understanding both approaches and their limitations is essential for [[biological-soil-crusts]] leman-greenhouse-soil-management]].
+
+## Why Diversity Matters
+
+Ingham emphasizes that diversity is "critically important" in compost tea and soil biology. Key relationships between diversity and function include:
+
+- **Disease suppression**: Higher total bacterial and fungal biomass generally correlates with greater diversity, and both are needed for reliable disease prevention.
+- **Nutrient cycling**: Diverse food webs ensure multiple nutrient pathways operate simultaneously, preventing nutrient lock-up.
+- **Soil structure**: Fungal diversity drives aggregate formation through glomalin and biological glues.
+- **Resilience**: Diverse communities recover faster from disturbance.
+
+Good, healthy soil and compost contain approximately **25,000 unique DNA strands per gram**, reflecting immense biological complexity.
+
+## Morphological Assessment via Direct Microscopy
+
+The foundation of SFI's approach examines organisms in their living state without culturing.
+
+### Bacterial Morphotyping
+
+Bacteria are categorized by shape, size, color, motility, and structures like flagella or slime layers:
+
+- **Forms**: Rod, cocci, spiral, and filamentous shapes observed at 400x magnification.
+- **Slime production**: EPS (extracellular polymeric substances) appear as halos around cells — important for soil aggregation and related to glomalin-like substances.
+- **Motility**: Flagellated bacteria indicate active nutrient cycling behavior.
+- **Size variation**: Bacillus species vary in length depending on food resources, potentially causing one species to be counted as two.
+
+### Fungal Morphotyping
+
+Fungi are assessed by hyphal diameter, branching patterns, septation, and color:
+
+- **Diameter**: Thin hyphae (2-4 µm) are typically saprophytic; thicker hyphae suggest established decomposers.
+- **Septation**: Septate fungi include many decomposers and [[mycorrhizal-types]].
+- **Melanization**: Dark-pigmented hyphae indicate stress tolerance and competitive ability.
+
+### Limitations of Morphological Assessment
+
+1. **Type II errors predominate**: Different species that look identical are counted as one. We underestimate diversity, not overestimate.
+2. **Pleomorphism confusion**: Pseudomonads produce colonies with wildly different appearances yet are the same species microscopically. The slime quality differs, not the cell shape.
+3. **Multi-name problem**: Pathogenic bacteria may have different names depending on which host plant they were identified on.
+4. **Fixation destroys dynamics**: Killing organisms to observe them means life-cycle forms cannot be tracked.
+
+Despite limitations, Ingham considers direct microscopy "certainly much more useful than plate count approaches."
+
+## Plate Count Methods: Why They Fail
+
+Ingham is sharply critical of plate count methods:
+
+- **Selective growth**: Only 0.1-1% of soil organisms grow on any given culture medium. Most soil microbes are unculturable.
+- **Temperature mismatch**: Plates incubate at one temperature; soil and leaf surfaces experience dramatic daily fluctuations.
+- **E. coli misidentification**: E. coli does not grow well on standard EMB plates used for detection.
+- **False negatives**: Plate counts dramatically underrepresent actual diversity.
+
+## DNA-Based Assessment
+
+### Current Capabilities and Limitations
+
+- **Unique strands**: ~25,000 unique DNA strands per gram of healthy soil/compost.
+- **Species boundaries**: Debate continues about how many base-pair differences define a species. Some pathogens differ from non-pathogens by only one base pair.
+- **Plasmid DNA**: Extrachromosomal material must be accounted for to avoid overcounting.
+- **Cost**: Equipment for probe replication and fluorescent excitation costs ~$190,000.
+- **Repeatability**: Significant problems remain with molecular approaches.
+- **Sample timing**: Samples must arrive within 12 hours because E. coli reproduces every 20-30 minutes.
+
+### E. coli DNA Testing
+
+DNA chips offer rapid pathogen detection but are currently limited to hospital labs due to cost. Chain-of-custody requires processing within 12 hours for valid evidence.
+
+## The SFI Assessment Framework
+
+### Tier 1: Direct Microscopy (Standard)
+
+Primary workhorse assessment at 400x magnification measuring:
+
+- Total and active bacteria/fungi biomass (µg/g)
+- Protozoa (flagellates, amoebae, ciliates)
+- Nematodes (bacterial-feeding, fungal-feeding, root-feeding, predatory)
+- Mycorrhizal colonization percentage
+
+### Tier 2: Beneficial Organism Assays
+
+Morphotyping differentiates more species than plate counts, with molecular components for N-fixation assessment (nif gene detection) and pathogen screening.
+
+### Tier 3: Full Molecular DNA Assessment
+
+Comprehensive approach using DNA chip arrays, PCR amplification, probe development, and gene sequencing.
+
+## Compost Tea Diversity and Quality
+
+- **Multiple compost sources**: "The more types of compost (with the greater diversity), the better."
+- **Local advantage**: Most non-urban, non-desert areas have sufficient indigenous organisms for good compost without special inoculants.
+- **Indoor composting caveat**: Composting grocery store vegetables indoors produces "a bizarre set of organisms" unlike normal soil communities.
+
+## Pleomorphism in Soil Microorganisms
+
+- **Colony-level**: Same bacterium produces morphologically different colonies on plates.
+- **Life cycle forms**: Some organisms assume genuinely different forms throughout their life cycle.
+- **Implication**: Molecular methods detecting genetic identity regardless of morphological state are ultimately necessary for accurate species-level work.
+
+## Practical Recommendations
+
+1. **Start with direct microscopy**: Affordable, immediate, captures living organisms in functional state.
+2. **Use SFI or equivalent labs**: Send samples for comprehensive food web analysis.
+3. **Track trends over time**: Repeated assessments showing community changes are more valuable than single snapshots.
+4. **Correlate with plant health**: Document disease pressure and crop performance alongside biology data.
+5. **Use diversity as proxy**: High total biomass generally indicates adequate diversity when full species ID is unavailable.
+
+## Key Sources
+
+- Ingham, E.R. (2004). *The Field Guide I for Actively Aerated Compost Tea (AACT)*. Sustainable Studies Institute.
+- Soil Foodweb Inc. (SFI) testing protocols and assay development documentation.

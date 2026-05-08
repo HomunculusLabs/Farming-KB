@@ -39,7 +39,7 @@ Reported from tropical and subtropical regions of the Americas. It is likely a s
 
 ## Chemistry
 
-Presumed to contain [[psilocybin]] and [[psilocin]] based on its placement in the genus and reported bluing reactions. The bluing reaction upon bruising is a strong indicator of the presence of these tryptamine compounds, though not all blueing species have been analytically confirmed. Quantitative data on alkaloid concentrations are limited.
+Presumed to contain [[psilocybin-compound]] and [[psilocin]] based on its placement in the genus and reported bluing reactions. The bluing reaction upon bruising is a strong indicator of the presence of these tryptamine compounds, though not all blueing species have been analytically confirmed. Quantitative data on alkaloid concentrations are limited.
 
 ## Similar Species
 

@@ -148,8 +148,3 @@ composted or disposed of responsibly.
 For broader context on identifying and preventing problems across all stages of
 cultivation, see [[contaminant-identification-and-prevention]]. Combining the
 practices outlined here with vigilant observation will dramatically reduce
-losses and improve consistency in your mushroom growing operation.
-
-## See Also
-
-- [[query-how-do-i-prevent-and-manage-plant-diseases-organically]]

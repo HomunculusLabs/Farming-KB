@@ -1,5 +1,5 @@
 ---
-title: Pheromone-Based Pest Control vs. Beneficial Insect Biocontrol
+title: Pheromone-Based [[beneficial-insects-and-biological-pest-control]] vs. [[beneficial-insect-habitat]] Biocontrol
 created: 2026-04-28
 tags: [pest-control, pheromones, biological-control, IPM, integrated-pest-management, semiochemicals, beneficial-insects, sustainable-agriculture, entomology]
 date: 2026-04-28
@@ -19,15 +19,15 @@ type: comparison
 
 | Feature | Pheromone-Based Pest Control | Beneficial Insect Biocontrol |
 |---------|------------------------------|------------------------------|
-| **Mechanism** | Manipulates insect behavior using synthetic copies of insect-produced chemical signals | Deploys living predators, parasitoids, or pathogens to kill pest populations |
-| **Target specificity** | Extremely high — species-specific sex/aggregation pheromones | Moderate to high — predators may be generalists; parasitoids often species-specific |
+| **Mechanism** | Manipulates insect behavior using synthetic copies of insect-produced chemical signals | Deploys living predators, parasitoids, or pathogens to kill [[query-how-do-parasitoid-wasps-control-pest-populations]] |
+| **Target specificity** | Extremely high — [[species-specific-cold-shock-response-psilocybe]] sex/aggregation pheromones | Moderate to high — predators may be generalists; parasitoids often species-specific |
 | **Mode of action** | Mating disruption, mass trapping, attract-and-kill | Direct predation, parasitism, or disease |
 | **Speed of effect** | Immediate behavioral effect; population reduction over 1–3 generations | Predator establishment takes days to weeks; population suppression gradual |
 | **Persistence** | Requires continuous pheromone presence (seasonal dispenser replacement) | Self-sustaining if predators establish; may require periodic augmentation |
 | **Cost per season** | $20–$150/acre depending on crop and pest | $30–$400/acre depending on agent and release rate |
 | **Non-target impact** | Negligible (species-specific compounds) | Low but possible (generalist predators may affect non-pest species) |
 | **Resistance risk** | Very low | Low to moderate |
-| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse cropping systems |
+| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse [[leucaena-alley-cropping-systems]] |
 | **Organic certification** | Generally permitted (OMRI-listed products) | Permitted; some formulations may have restrictions |
 
 ## Core Differences
@@ -101,7 +101,7 @@ Using two unrelated control mechanisms simultaneously makes it far more difficul
 
 In California wine grape production, many growers combine:
 - **Mating disruption dispensers** for grape berry moth (*Lobesia botrana*) and omnivorous leafroller (*Platynota stultana*).
-- **Conservation biocontrol** through cover crops that support predatory mites and parasitic wasps.
+- **Conservation biocontrol** through [[cover-crop]] s that support predatory mites and parasitic wasps.
 - **Targeted *Trichogramma* releases** for secondary lepidopteran pests.
 - **Minimal insecticide use** — reserved for threshold-based interventions only.
 
@@ -148,9 +148,3 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 - [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
 
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
-
-- [[plant-olfaction-and-chemical-sensing]] — the chemical signals underlying pheromone and HIPV systems
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — detailed guide to biocontrol agents
-- [[jadam-pest-control-with-natural-pesticides-jhs]] — additional non-synthetic pest management options
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — microbial biocontrol agents
-- [[integrated-pest-management]] — comprehensive IPM framework

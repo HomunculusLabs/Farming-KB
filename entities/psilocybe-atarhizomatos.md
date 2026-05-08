@@ -130,4 +130,4 @@ No commercial spawn or cultivation kits are available for this species.
 - [[psilocybe-azurescens]] — The most potent *Psilocybe* species known
 - [[psilocybe-cyanescens]] — Wavy caps, widespread in the Pacific Northwest
 - [[baeocystin]] — Tryptamine alkaloid found in many *Psilocybe* species
-- [[psilocybin]] — Primary psychoactive compound in bluing *Psilocybe* species
+- [[psilocybin-compound]] — Primary psychoactive compound in bluing *Psilocybe* species

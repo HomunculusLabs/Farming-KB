@@ -79,7 +79,7 @@ pressure, soil biology, yields, and long-term resilience.
 ## Related Topics
 
 - [[humphry-osmond]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]
 - [[ald-52]]

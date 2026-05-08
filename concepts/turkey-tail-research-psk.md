@@ -117,5 +117,5 @@ Ongoing Phase III trials are expected to further clarify the optimal dosing, tim
 - [[maitake-d-fraction-research]]
 - [[cordyceps-research-cancer]]
 - [[lentinan-clinical-research]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psk-breast-lung-cancer-clinical-trials]]

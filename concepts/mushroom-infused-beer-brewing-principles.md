@@ -37,7 +37,7 @@ significantly.
 
 ## Cleanliness Requirements
 
-As with [[mushroom-cultivation-sterile-technique]] in mushroom cultivation, cleanliness is
+As with [[mushroom-cultivation-fundamentals]] in mushroom cultivation, cleanliness is
 critical in brewing. Although brewing is more forgiving than sterile tissue
 culture, contamination can accumulate across batch expansions and alter the
 fermentation dynamics. All equipment should be thoroughly sanitized before

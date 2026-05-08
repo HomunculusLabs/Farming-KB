@@ -133,6 +133,6 @@ Growers transitioning from cubensis should be aware of these adjustments:
 - panaeolus tropicalis cultivation differences — species profile and identification
 - [[panaeolus-cyanescens-bali-omelette]] — species profile and identification
 - [[copelandia-genus-species-guide]] — genus-level taxonomy
-- [[psilocybe-cubensis-profile]] — comparison species
+- [[psychedelic-mushrooms-species-and-identification]] — comparison species
 - [[mushroom-cultivation-fruiting-chambers]] — fruiting environment design
-- [[mushroom-cultivation-sterile-technique]] — sterile procedures
+- [[mushroom-cultivation-fundamentals]] — sterile procedures

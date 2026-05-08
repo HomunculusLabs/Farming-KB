@@ -123,7 +123,7 @@ suit any number of seeds required.
 - [[cannabis-pollen-collection]]
 - [[cannabis-male-plant-management]]
 - [[cannabis-seed-storage-and-viability]]
-- [[green-cannabis-grow-bible-seed-germination-methods]]
+- green cannabis grow bible seed germination methods
 - [[cannabis-seed-germination-viability-breeding-clarke]]
 - [[cannabis-seedling-care-guide]]
 - [[cannabis-sinsemilla-life-cycle]]

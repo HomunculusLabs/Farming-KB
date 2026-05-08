@@ -1,5 +1,5 @@
 ---
-title: "Purple Urkle"
+title: "purple urkle"
 created: 2026-04-28
 type: strain
 tags:
@@ -66,12 +66,12 @@ Purple Urkle is considered one of the benchmark strains for grape-forward terpen
 - Light pine and herbal background
 
 **Flavor on inhalation:** Sweet grape with a smooth, slightly sugary entry.
-The flavor is often compared to grape soda, Welch's grape juice, or grape bubblegum.
+The flavor is often compared to grape soda, Welch's grape juice, or grape [[bubblegum]].
 
 **Flavor on exhalation:** Earthy, hashy finish with lingering berry sweetness.
 Some phenotypes express a slightly spicy, peppery backnote.
 
-The distinctive grape aroma is primarily attributable to the interplay of myrcene, caryophyllene, and specific anthocyanin-associated volatile compounds that co-occur with the purple pigmentation.
+The distinctive grape aroma is primarily attributable to the interplay of [[myrcene]], caryophyllene, and specific anthocyanin-associated volatile compounds that co-occur with the purple pigmentation.
 
 ## Terpene Profile
 
@@ -79,7 +79,7 @@ Dominant terpenes in Purple Urkle (approximate ranges from available analyses):
 
 - **Myrcene:** 0.8–1.5% — Sedative, musky notes; primary driver of indica body effects
 - **β-Caryophyllene:** 0.3–0.7% — Peppery warmth; binds CB2 receptors for anti-inflammatory potential
-- **Linalool:** 0.2–0.5% — Floral, lavender character; enhances relaxation
+- **[[linalool]]:** 0.2–0.5% — Floral, lavender character; enhances relaxation
 - **Pinene (α + β):** 0.1–0.3% — Pine freshness; may counteract cognitive fog
 - **Humulene:** 0.1–0.2% — Earthy depth; appetite-suppressing properties
 
@@ -119,7 +119,7 @@ Nighttime temperatures of 10–15°C (50–59°F) during weeks 6–8 of flowerin
 Continuous warm temperatures will result in predominantly green phenotypes with reduced purple coloration.
 
 **Growing notes:**
-- Responds well to low-stress training (LST) and Sea of Green methods
+- Responds well to low-stress training (LST) and [[sea-of-green]] methods
 - Branching is moderate; apical dominance is pronounced
 - Nutrient requirements are moderate; avoid excessive nitrogen during flowering
 - Susceptible to powdery mildew and botrytis in high-humidity environments
@@ -138,7 +138,7 @@ Continuous warm temperatures will result in predominantly green phenotypes with 
 Purple Urkle has served as a foundational parent in cannabis breeding for purple-colored varieties:
 
 - **Granddaddy Purple (GDP)** — The most famous derivative; reportedly a cross of Purple Urkle with Big Bud
-- **Grape Ape** — Purple Urkle crossed with Afghani and Mendocino Purps lineage
+- **[[grape-ape]]** — Purple Urkle crossed with Afghani and Mendocino Purps lineage
 - **Grape Krush** — DJ Short breeding line incorporating Purple Urkle genetics
 - **Durple Urkle** — Select phenotype with enhanced purple expression
 - **Violator Kush** — Some lines incorporate Purple Urkle heritage
@@ -148,6 +148,3 @@ The strain remains available primarily as a clone-only variety in Northern Calif
 ## See Also
 
 - [[purple-punch]]
-
-- [[granddaddy-purple]] — Most celebrated descendant of Purple Urkle lineage
-- [[purple-haze-cannabis]] — Classic purple sativa for comparison of contrasting effects profiles

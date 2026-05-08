@@ -97,7 +97,7 @@ Photosynthesis is the entry point for carbon into the biological cycle:
 - [[molecules-of-life-plant-cells]]
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[mycorrhiza]]
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[natural-fertilizer-sources-and-application]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

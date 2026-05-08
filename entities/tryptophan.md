@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Tryptophan
 
-**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[indole]]-containing compounds of pharmacological significance, including the neurotransmitter [[serotonin]], the hormone [[melatonin-entity-tihkal]], and the entire class of psychedelic tryptamines such as [[psilocybin]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] (via ergoline biosynthesis). As an essential amino acid, it cannot be synthesized de novo by humans and must be obtained through dietary intake.
+**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[indole]]-containing compounds of pharmacological significance, including the neurotransmitter [[serotonin]], the hormone [[melatonin-entity-tihkal]], and the entire class of psychedelic tryptamines such as [[psilocybin-compound]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] (via ergoline biosynthesis). As an essential amino acid, it cannot be synthesized de novo by humans and must be obtained through dietary intake.
 
 ## Chemical Properties
 
@@ -67,21 +67,21 @@ Tryptophan occupies a central position in the biosynthesis of all indole alkaloi
 tryptophan → 5-HTP → [[serotonin]] → [[melatonin-entity-tihkal]]
 
 ### Tryptamine Pathway (Mushrooms)
-tryptophan → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine → [[psilocybin]] / [[baeocystin]] / [[norbaeocystin]] / [[aeruginascin]]
+tryptophan → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine → [[psilocybin-compound]] / [[baeocystin]] / [[norbaeocystin]] / [[aeruginascin]]
 
 ### Tryptamine Pathway (Mammals/Plants)
 tryptophan → [[tryptamine-consciousness-theory]] → dimethyltryptamine|DMT (via INMT)
 
 ### Tryptophan and Psychedelic Biosynthesis in Fungi
 
-In psychedelic mushrooms of the genus [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[psilocybin]] involves a series of enzymatic modifications to the [[indole]] ring and ethylamine side chain:
+In psychedelic mushrooms of the genus [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[psilocybin-compound]] involves a series of enzymatic modifications to the [[indole]] ring and ethylamine side chain:
 
 1. tryptophan → [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase)
 2. [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine (monooxygenase, PsiH)
 3. 4-Hydroxytryptamine → 4-hydroxytryptamine monophosphate (kinase, PsiK)
 4. 4-Hydroxytryptamine monophosphate → [[norbaeocystin]] (methyltransferase, PsiM)
 5. [[norbaeocystin]] → [[baeocystin]] (PsiM, second methylation)
-6. [[baeocystin]] → [[psilocybin]] (PsiM, third methylation)
+6. [[baeocystin]] → [[psilocybin-compound]] (PsiM, third methylation)
 
 This pathway was elucidated through the identification of the "Psi" (psilocybin) gene cluster in [[psilocybe-cubensis-potency-variation-by-flush]] by researchers including Dirk Hoffmeister and colleagues. The enzymes PsiH (a cytochrome P450 monooxygenase), PsiK (a 4-hydroxytryptamine kinase), and PsiM (a SAM-dependent methyltransferase) constitute the core biosynthetic machinery.
 
@@ -109,7 +109,7 @@ Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. 
 - [[indole]] — the bicyclic aromatic ring system comprising tryptophan's side chain
 - [[tryptamine-consciousness-theory]] — decarboxylated tryptophan; parent of all psychoactive tryptamines
 - [[serotonin]] — 5-hydroxytryptamine; the primary mammalian neurotransmitter derived from tryptophan
-- [[psilocybin]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom alkaloid biosynthesized from tryptophan
+- [[psilocybin-compound]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom alkaloid biosynthesized from tryptophan
 - [[dimethyltryptamine]] — N,N-dimethyltryptamine; endogenous psychedelic formed from tryptophan via tryptamine
 - [[melatonin-entity-tihkal]] — circadian hormone derived from serotonin (itself from tryptophan)
 - [[baeocystin]] — N-desmethylpsilocybin; mushroom alkaloid in the tryptophan-derived pathway
@@ -119,6 +119,6 @@ Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. 
 
 - [[tryptamine-consciousness-theory]] — direct decarboxylation product and parent compound class
 - [[serotonin]] — primary mammalian neurotransmitter derived from tryptophan
-- [[psilocybin]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
+- [[psilocybin-compound]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
 - [[indole]] — core heterocyclic scaffold of tryptophan and all tryptamine derivatives
 - [[baeocystin]] — intermediate in fungal tryptophan-to-psilocybin biosynthesis

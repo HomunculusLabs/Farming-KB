@@ -148,7 +148,3 @@ countries, though several nations restrict sale of extracted ibotenic acid.
   agent
 - [[amanita-muscaria]] — Principal natural source organism
 - [[amanita-pantherina]] — Related source species with comparable chemistry
-- [[psilocybin-entity]] — Fungal psychoactive compound for comparison of
-  pharmacological mechanism (serotonergic vs. glutamatergic)
-- [[bufotenin]] — Another fungal-derived psychoactive compound with distinct
-  receptor pharmacology

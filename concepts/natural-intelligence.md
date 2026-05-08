@@ -88,7 +88,7 @@ Those scientists who diligently propound the myth that we are mere bystanders on
 
 The Gaia hypothesis, formulated by James Lovelock and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
 
-The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[fungal-ecology-forest-floor]] representing one of its most ancient and sophisticated computational substrates.
+The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[the-soil-food-web]] representing one of its most ancient and sophisticated computational substrates.
 
 ### Panpsychism and Information Integration
 

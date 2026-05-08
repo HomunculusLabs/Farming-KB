@@ -78,7 +78,7 @@ The optical rotation of the product (259-269 degrees) is a measure of its purity
 See [[cannabis-extraction-methods]] for broader extraction context and [[thc-acetate-and-isomerization]] for related THC chemistry.
 
 Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[cannabis-reflux-extraction-apparatus]]
 - [[cannabis-high-volume-extraction]]
 - [[cannabis-ice-water-extraction]]

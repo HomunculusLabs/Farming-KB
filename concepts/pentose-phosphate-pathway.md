@@ -13,7 +13,7 @@ sources: []
 The pentose phosphate pathway (PPP), also known as the phosphogluconate pathway or hexose
 monophosphate (HMP) shunt, is a cytosolic metabolic pathway parallel to [[glycolysis-embden-meyerhof-parnas-pathway|glycolysis]] that
 generates NADPH and five-carbon sugars (pentoses). Unlike glycolysis, which is primarily
-catabolic, the PPP serves anabolic functions: NADPH provides reducing power for [[beta-oxidation-fatty-acid-catabolism|fatty acid]]
+catabolic, the PPP serves anabolic functions: NADPH provides reducing power for fatty acid
 and [[medicinal-mushroom-cardiovascular-cholesterol-research|cholesterol]] biosynthesis, nucleotide synthesis, and maintenance of the reduced [[glutathione-biochemistry-and-redox-biology|glutathione]]
 pool that protects cells from oxidative damage. Ribose-5-phosphate produced by the pathway is
 the precursor for nucleotide and nucleic acid synthesis. The pathway was elucidated in the

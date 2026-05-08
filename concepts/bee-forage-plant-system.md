@@ -98,4 +98,4 @@ Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), C
 
 - [[medicinal-herbs-for-livestock]]
 - [[zone-sector-analysis-guide]]
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-design]]

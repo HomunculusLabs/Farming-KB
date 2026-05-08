@@ -145,5 +145,5 @@ Water serves multiple functions:
 ## Related
 
 - [[mollison-arid-lands-design-and-erosion-control]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 - [[permaculture-ground-cover-plants]]

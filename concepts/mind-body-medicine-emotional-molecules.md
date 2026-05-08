@@ -7,7 +7,7 @@ tags:
   - endocannabinoid-system
   - psychosomatic
   - emotional-intelligence
-  - serotonin
+  - [[serotonin]]
   - dopamine
   - oxytocin
   - gaba
@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-The connection between molecules, emotions, and conscious interventions represents a critical bridge in understanding how the endocannabinoid system mediates between the mind and the body. Research has established that emotional states produce measurable changes in the body's biochemistry, and conversely, the body's molecular state directly influences emotional experience. This bidirectional relationship forms the scientific basis of mind-body medicine.
+The connection between molecules, emotions, and conscious interventions represents a critical bridge in understanding how the [[endocannabinoid-system]] mediates between the mind and the body. Research has established that emotional states produce measurable changes in the body's biochemistry, and conversely, the body's molecular state directly influences emotional experience. This bidirectional relationship forms the scientific basis of mind-body medicine.
 
 The endocannabinoid system occupies a unique position in this framework because it directly modulates both the nervous system and the immune system, making it a primary mediator of how emotional states translate into physiological outcomes. CB1 receptors in the brain and nervous system influence mood, cognition, and perception, while CB2 receptors in the immune system regulate inflammatory responses that are profoundly affected by emotional states.
 
@@ -148,10 +148,3 @@ Vipassana is a meditation technique designed to develop insights into the self t
 
 - [[cannabis-mind-body-medicine-integration]]
 - [[blesching-cannabis-mind-body-medicine]]
-- [[blesching-cannabis-stds-mind-body]]
-
-- [[endocannabinoid-system]]
-- [[cannabis-health-index-scoring-system]]
-- Anandamide
-- [[cannabidiol-cbd]]
-- [[tetrahydrocannabinol-thc]]

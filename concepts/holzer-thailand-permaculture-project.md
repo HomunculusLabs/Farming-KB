@@ -11,11 +11,9 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 A [[permaculture]] project designed by [[sepp-holzer]] was undertaken at an orphanage in Thailand, designed to create a self-sustaining landscape that integrates water management, food production, building with local materials, and community education.
 
-
 ## Site Conditions
 
 The roughly 50-hectare plot of land directly borders intensively farmed paddy fields. Water was available in large amounts but was heavily polluted from intensive farming. High quality clay was available in inexhaustible amounts on site, making it an ideal building material. Storage rooms and even houses could be built simply and very inexpensively using local clay.
-
 
 ## LOVE ~ PEACE Water Landscape
 
@@ -26,16 +24,13 @@ Within the individual ponds, deep and shallow areas accommodate the different re
 
 The result is a water garden with many uses, enclosed by a raised bed — a design approach detailed in [[raised-bed-gardening]]. A lake with an island, on which an earth cellar will be built, completes the plan.
 
-
 ## Flood Protection and Land Creation
 
 The changes to the shape of the land not only increase the area of workable land, but also protect it from flooding. The entire area of land is protected from flooding by a dam, which also minimises the amount of harmful substances coming in from the side bordering the heavily fertilised paddy field.
 
-
 ## Microclimate Creation
 
 The changes to the land include the creation of different [[microclimate-creation-permaculture]] such as dry areas and "mini rainforests" — a precursor to the [[food-forest]] concept. These changes should not only provide usable areas of land that can be farmed the whole year round, but also serve as a recreational and experimental landscape, a garden for the children at the orphanage, a pick-your-own area, a display garden, livestock keeping area, and a sanctuary for birds and wild animals.
-
 
 ## Water Treatment and Supply
 
@@ -48,21 +43,17 @@ Restoring the water supply, which was polluted with many harmful substances, to 
 - Construction of a deep well
 - Pump system powered by water, wind power, or electricity from photovoltaic cells to save energy
 
-
 ## Fruit Tree Trenches
 
 Children helped plant fruit trees (mango, papaya, and many others) in trenches — a technique described in [[holzer-fruit-tree-planting-method]] and also used extensively at the Krameterhof. This technique involves planting trees in excavated trenches that collect water and organic matter, giving the young trees the best possible start.
-
 
 ## Clay Building
 
 Using an excavator, buildings of clay construction could be erected very quickly. The concept proposed using locally available clay and loam for storage rooms and houses, following principles of [[earth-cellar-construction]] adapted to tropical conditions.
 
-
 ## Project Context
 
 The project was undertaken with a couple running the orphanage, whose commitment was described as an example to all. Sepp Holzer worked on the concept with them, though regular oversight was difficult due to the distance between Austria and Thailand.
-
 
 ## Design Principles Applied
 
@@ -73,7 +64,6 @@ This project demonstrates Holzer's core [[permaculture-climatic-zones-design]] p
 3. **Microclimate creation** -- Shaping land to create diverse growing conditions from dry areas to mini rainforests
 4. **Integration of education and production** -- The landscape serves as both a teaching garden for orphans and a productive food system
 5. **Closed-loop water management** -- Wastewater treated naturally through reed beds, water cycled through the pond system
-
 
 ## Related Concepts
 
@@ -98,12 +88,10 @@ This project demonstrates Holzer's core [[permaculture-climatic-zones-design]] p
 
 [[permaculture-climatic-zones-design]]
 
-
 ## Source
 
 [[krameterhof-holzer-model-farm]] -- Projects chapter, Thailand permaculture project section.
 - [[holzer-fruit-tree-planting-method]]
-
 
 ## See Also
 

@@ -21,7 +21,7 @@ Mushroom) in Japan, is a favorite of Midwest mushroom hunters.
 Found on dead hardwoods, especially stumps, logs, and soils rich
 in wood debris, this species is an excellent candidate for
 recycling stumps. The Japanese have pioneered cultivation using
-techniques similar to [[growing-gourmet-shiitake-cultivation]].
+techniques similar to [[shiitake-mushroom-cultivation-and-medicinal-properties]].
 
 ## Taxonomic Notes
 

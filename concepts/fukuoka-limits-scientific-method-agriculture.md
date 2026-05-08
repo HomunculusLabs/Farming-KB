@@ -25,7 +25,7 @@ Modern scientific agriculture has no unifying vision. Research wanders about aim
 
 Even though it is the same quarter acre, the farmer must grow his crops differently each year in accordance with variations in weather, insect populations, the condition of the soil, and many other natural factors. Nature is everywhere in perpetual motion; conditions are never exactly the same in any two years.
 
-This observation is central to Fukuoka's [[fukuoka-critique-scientific-agriculture]]. The scientific method depends on reproducibility -- the ability to isolate variables and produce consistent results. But nature is not reproducible. Every field is different, every year is different, every day is different. Research results obtained under controlled conditions cannot be reliably applied to the infinitely variable conditions of actual farming.
+This observation is central to Fukuoka's [[fukuoka-critique-of-scientific-agriculture]]. The scientific method depends on reproducibility -- the ability to isolate variables and produce consistent results. But nature is not reproducible. Every field is different, every year is different, every day is different. Research results obtained under controlled conditions cannot be reliably applied to the infinitely variable conditions of actual farming.
 
 The practical farmer knows this intuitively. The experienced farmer adjusts his practices constantly in response to changing conditions, using judgment and sensitivity that cannot be captured in a research protocol. Scientific agriculture, by contrast, produces standardized recommendations that ignore the uniqueness of each farm, each season, and each moment.
 
@@ -97,7 +97,7 @@ The limits of the scientific method explain why [[fukuoka-four-principles-natura
 
 - [[fukuoka-do-nothing-farming-philosophy]]
 
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 
 - [[fukuoka-direct-observation-method]]
 

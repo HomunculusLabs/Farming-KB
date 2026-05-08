@@ -120,4 +120,4 @@ To make homemade brown rice powder for the substrate, place regular brown rice i
 - [[pf-tek-maximum-fruiting-substrate-formula|Maximum Fruiting Formula]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier|Dry Vermiculite Contaminant Barrier]]
 - [[pf-tek-perlite-humidification-technique|Perlite Humidification Technique]]
-- [[pf-tek-vermiculite-grading-and-water-retention|Vermiculite Grading and Water Retention]]
+- Vermiculite Grading and Water Retention

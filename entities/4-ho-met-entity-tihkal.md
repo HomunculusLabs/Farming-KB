@@ -132,7 +132,7 @@ feel are consistently reported by experienced users.
 
 ## Legal Status
 
-4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive Substances Act (2016) covers it as a psychoactive substance.
+4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin-compound]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive Substances Act (2016) covers it as a psychoactive substance.
 
 ## Cultural and Historical Significance
 

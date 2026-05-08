@@ -13,8 +13,6 @@ type: concept
 
 # Four Stages of Abandoning the Mystery
 
-
-
 ## Overview
 
 Terence McKenna proposes a four-stage model for the progressive abandonment of
@@ -30,8 +28,6 @@ The abandonment of the original catalyst for the emergence of self-reflection
 and language, the *Stropharia cubensis* psilocybin-containing mushroom, was a
 process with four distinct stages. Each stage represents a further dilution of
 awareness of the power and the numinous meaning resident in the mystery.
-
-
 
 ## Stage One: Psychoactive Plant Substitutes
 
@@ -67,8 +63,6 @@ cultures, fermented cereals and grains were manipulated experimentally to
 produce early types of beer. Each substitution represented a step further from
 the original visionary experience toward increasingly profane intoxication.
 
-
-
 ## Stage Two: Inactive Symbolic Materials
 
 The second step in the abandonment was the substitution of completely inactive
@@ -91,8 +85,6 @@ sustains the practice long after its pharmacological content has disappeared.
 Participants may experience psychosomatic effects, conditioned responses, and
 social reinforcement that mimic genuine visionary experience, but the authentic
 encounter with boundary-dissolving consciousness is gone.
-
-
 
 ## Stage Three: Pure Symbol, Dogma, and Lineage
 
@@ -120,8 +112,6 @@ were finally suppressed by enthusiastic Christian barbarians in A.D. 268. The
 consequence of that severed connection is the modern world: a planet dying under
 moral anesthesia.
 
-
-
 ## Stage Four: Denial, Demonization, and Scientism
 
 The fourth and final stage is the complete abandonment of even the pretense of
@@ -139,4 +129,3 @@ and threatening to social values. The current suppression of psychedelic
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-

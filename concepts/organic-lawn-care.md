@@ -89,7 +89,7 @@ Mow only during the growing season — grass stops growing in winter and does no
 
 - [[composting-materials-alternative]]
 - [[sheet-mulching-lasagna-gardening]]
-- [[trace-elements-in-soil]]
+- [[composting-and-soil-biology]]
 - [[bacterial-vs-fungal-soil]]
 - [[soil-building-permaculture]]
 - [[gaias-garden-cover-crops-soil-building]]

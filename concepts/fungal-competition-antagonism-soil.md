@@ -15,7 +15,7 @@ md]
 Fungal mycelia growing through soil inevitably encounter other mycelia, leading to direct
 competition for nutrients in soil solution and antagonistic interactions. These
 competitive encounters are fundamental drivers of [[fungal-community-assembly]], shaping
-[[fungal-biodiversity-soil-habitats]] and influencing the outcomes of
+[[the-soil-food-web]] and influencing the outcomes of
 [[fungal-decomposition]]. Understanding fungal combat and antagonism is critical for
 predicting how [[fungal-ecosystem-roles]] manifest in natural environments.
 

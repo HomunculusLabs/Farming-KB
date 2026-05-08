@@ -73,7 +73,7 @@ the lifecycle footprint of synthetic N is considerably larger. BNF, powered enti
 photosynthate, is effectively carbon-neutral and can be carbon-negative when legumes
 build soil organic matter.
 
-**Nitrous Oxide (N₂O).** N₂O is a greenhouse gas with ~265× the global warming potential
+**[[nitrous-oxide]] (N₂O).** N₂O is a greenhouse gas with ~265× the global warming potential
 of CO₂ over 100 years and is also the leading ozone-depleting substance emitted today.
 Synthetic fertilizers are the dominant anthropogenic source of N₂O, driven by excess
 nitrogen cycling through denitrifying bacteria. BNF systems release less N₂O per unit of
@@ -99,9 +99,9 @@ a feedback loop where soils become less capable of cycling nutrients independent
 "nitrogen trap" that undermines system resilience.
 
 BNF systems, particularly legume-based rotations and intercropping, actively build soil
-organic matter through root exudates, nodule turnover, and biomass incorporation. They
+organic matter through [[root-exudates]], nodule turnover, and biomass incorporation. They
 support diverse microbial communities, improve soil aggregation and water infiltration,
-and enhance phosphorus availability through mycorrhizal networks. Cover-crop legumes
+and enhance [[phosphorus-availability]] through [[mycorrhizal-networks]]. Cover-crop legumes
 (crimson clover, hairy vetch, field peas, cowpeas) add both nitrogen and substantial
 carbon to the soil profile.
 
@@ -148,11 +148,3 @@ the foundational nitrogen source in rotations and cover crops, reserving synthet
 applications for targeted supplementation when genuine deficits arise. As climate
 pressure intensifies and fossil energy costs rise, transitioning toward BNF-dominant
 systems represents a critical lever for reducing agriculture's climate footprint,
-protecting waterways, restoring soil ecosystems, and building truly sustainable food
-systems for the long term.
-
-## See Also
-
-- [[melilotus-officinalis]]
-- [[agroforestry]]
-- [[cover-crops]]

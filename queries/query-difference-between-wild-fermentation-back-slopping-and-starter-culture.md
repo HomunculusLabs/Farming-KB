@@ -87,7 +87,7 @@ Sourdough bread, ongoing household fermentation routines, dairy kefir and water 
 You inoculate with a defined, isolated microbial strain (or small blend) produced in a laboratory or obtained from a reliable supplier. The culture is introduced at high cell density, establishing immediate dominance over any ambient organisms.
 
 ### Examples
-- **Active dry yeast** (bread or beer): A single *Saccharomyces cerevisiae* strain selected for reliable fermentation performance.
+- **Active dry yeast** (bread or beer): A single *[[saccharomyces-cerevisiae]]* strain selected for reliable fermentation performance.
 - **Mesophilic/thermophilic cheese cultures**: Defined blends of *Lactococcus lactis*, *Lactobacillus helveticus*, *Streptococcus thermophilus*, etc.
 - **Direct-vat-set (DVS) vegetable cultures**: Freeze-dried *Lactobacillus plantarum* or similar for controlled vegetable fermentation.
 - **Tempeh spores**: *Rhizopus oligosporus* spore powder for reliable mold growth on soybeans.

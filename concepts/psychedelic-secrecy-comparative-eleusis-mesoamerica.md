@@ -55,7 +55,7 @@ The consequences of breaking the Eleusinian oath of silence were among the most 
 
 The severity of the penalty underscores the functional importance of secrecy: the Athenian state recognized that the Mysteries' power depended on the preservation of the initiate's ignorance about what would occur. The [[eleusinian-profanes-scandal-of-415-bce]] demonstrated that even the suspicion of a breach could provoke a political crisis, suggesting that the Athenian elite understood the Mysteries to involve something more than ordinary religious ceremony.
 
-In Mesoamerica, the consequences of secrecy violations were less formalized but equally devastating in practice. When Wasson published his account of the [[maria-sabina-mazatec-mushroom-ceremony]], the resulting influx of outsiders disrupted the social and spiritual ecology that had sustained the tradition for centuries. Maria Sabina herself expressed deep regret that the sacred mushrooms had been "profaned" by exposure to the outside world.
+In Mesoamerica, the consequences of secrecy violations were less formalized but equally devastating in practice. When Wasson published his account of the [[mushroom-cultivation-fundamentals]], the resulting influx of outsiders disrupted the social and spiritual ecology that had sustained the tradition for centuries. Maria Sabina herself expressed deep regret that the sacred mushrooms had been "profaned" by exposure to the outside world.
 
 ## Secrecy and the Modern Psychedelic Underground
 

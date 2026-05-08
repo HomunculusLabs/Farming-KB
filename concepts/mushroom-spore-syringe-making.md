@@ -102,7 +102,7 @@ Spore syringes can inoculate grain jars/bags directly:
 3. Shake the jar to distribute spores
 4. Incubate at appropriate temperature
 
-Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-cloning-isolation|agar-cultured mycelium]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
+Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-fundamentals|agar-cultured mycelium]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
 
 ## Spore Syringe Storage
 
@@ -126,7 +126,7 @@ Common contamination sources in spore syringe preparation:
 - [[mushroom-spore-syringe-preparation|spore syringe preparation guide]]
 - [[fungal-spore-print-guide|spore print guide]]
 - [[mushroom-spore-printing-and-storage|spore printing and storage]]
-- [[mushroom-cultivation-sterile-technique|sterile technique in mushroom cultivation]]
+- [[mushroom-cultivation-fundamentals|sterile technique in mushroom cultivation]]
 
 ## Related
 

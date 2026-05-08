@@ -140,28 +140,6 @@ Pseudomonas excels through **siderophore-mediated competition**: fluorescent pse
 ---
 
 ## Best-Use Scenarios
-
-| Scenario | Recommended Agent(s) | Rationale |
-|----------|---------------------|-----------|
-| Fusarium wilt in solanaceous crops | Trichoderma (+ Bacillus) | Mycoparasitism + antibiosis synergy |
-| Damping-off in seedling production | Bacillus or Pseudomonas | Rapid action, seed treatment compatible |
-| Take-all in wheat | Pseudomonas (DAPG producers) | DAPG is specifically effective against Gaeumannomyces |
-| Bacterial wilt (Ralstonia) in tomatoes | Pseudomonas + Bacillus | Antibacterial antibiotics and siderophores |
-| General soil health building | Trichoderma + Bacillus | Complementary mechanisms, good persistence |
-| Cold climate agriculture | Pseudomonas + Bacillus | Both active at lower temperatures than Trichoderma |
-| Hot, arid environments | Bacillus | Endospore resilience to heat and drought |
-| High-value greenhouse crops | All three (sequential) | Maximum protection justifies cost and effort |
-| Organic field crops on a budget | Bacillus | Lowest cost, broadest availability, reliable |
-| Compost tea programs | Trichoderma (fungal) + Bacillus (bacterial) | Match organism to tea type |
-
----
-
-## Summary
-
-**Trichoderma** is the fungal specialist — unmatched for mycoparasitism of soilborne fungal pathogens (*Fusarium*, *Rhizoctonia*, *Sclerotinia*). Best for warm, moist, organic-rich soils. **Bacillus** is the resilient generalist and workhorse of biological agriculture — endospore biology gives it unmatched shelf life and toughness, with broad-spectrum efficacy against both fungal and bacterial pathogens. **Pseudomonas** is the precision tool, excelling against specific targets (Pythium, take-all, Ralstonia) through siderophore-mediated iron competition and strain-specific antibiotics, but demanding more attentive management due to lower persistence.
-
-The **optimal strategy** uses all three synergistically: Bacillus for baseline resilience, Trichoderma for aggressive fungal pathogen control, and Pseudomonas for precision targeting of specific diseases. Sequential application with appropriate strain selection maximizes compatibility and minimizes antagonism.
-
 ## See Also
 
 - [[comparison-trichoderma-vs-bacillus]]

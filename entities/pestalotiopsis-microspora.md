@@ -1,5 +1,5 @@
 ---
-title: "Pestalotiopsis microspora"
+title: "pestalotiopsis microspora"
 created: 2026-04-28
 type: species
 tags:
@@ -9,7 +9,7 @@ tags:
   - plastic-degradation
   - permaculture
   - saprophyte
-  - mycoremediation
+  - [[mycoremediation]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -24,7 +24,6 @@ sources:
     status and future perspectives." Environmental Science & Technology
     56(16): 11485-11499.
 ---
-
 # Pestalotiopsis microspora
 
 ## Overview
@@ -34,7 +33,7 @@ international attention in 2011 when Yale University researchers demonstrated
 its ability to **biodegrade polyurethane (PU) plastic** — the first fungus
 shown to digest polyurethane in both aerobic and anaerobic conditions.
 Originally isolated from plant tissues in the Ecuadorian Amazon, this species
-represents a significant discovery in mycoremediation.
+represents a significant discovery [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
 
 Beyond plastic degradation, P. microspora produces diverse **secondary
 metabolites** with antimicrobial and antitumor properties. As an endophyte,
@@ -55,13 +54,11 @@ The taxonomy of Pestalotiopsis has undergone significant revision. Many
 species formerly placed in Pestalotia were transferred to Pestalotiopsis.
 Modern phylogenetic analyses using ITS, β-tubulin, and TEF1-α gene regions
 continue to refine species boundaries within the genus, which contains
-over 200 described species.
+over 200 descrgreen-[[cannabis-vegetative-growth-stage]]-growth]] Morphology
 
-## Morphology
+### [[green-cannabis-vegetative-growth]]
 
-### Vegetative Growth
-
-- **Colony:** On PDA, 5–7 cm diameter in 7 days at 25°C; circular, felty to
+- **Colony:** On PDA, 5–7 cm diameter in 7 days at 25°C; circulamycelium]] to
   cottony, white to cream-colored aerial mycelium
 - **Reverse:** Pale yellow to brownish, sometimes dark pigmentation
 - **Growth rate:** Moderate to rapid; optimum 25–28°C
@@ -76,14 +73,14 @@ over 200 described species.
 - **Apical appendages:** 2–3 tubular filaments, 15–40 μm long
 - **Basal appendage:** Filamentous, 8–25 μm long
 
-The 4-celled conidium with appendages is diagnostic for Pestalotiopsis.
-Species-level identification requires molecular methods.
+The 4-celled conidium with appendages is diagnostic fmolecular-methods-in-situ-[[fungal-diversity-arid-environments]]-monitoring]].
+Species-level identification requires [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]].
 
 ## Distribution and Habitat
 
 P. microspora has a **pantropical to subtropical distribution**:
 
-- **Range:** South America (Amazon Basin), Central America, Southeast Asia,
+- **Range:** [[gartz-magic-mushrooms-species-south-america]] (Amazon Basin), [[guzman-psilocybin-mushrooms-mexico-central-america]], Southeast Asia,
   Africa, and Pacific islands
 - **Host plants:** Over 30 genera including Theobroma (cacao), Hevea (rubber),
   palms, orchids, and tropical hardwoods
@@ -148,12 +145,3 @@ P. microspora has potential applications in designed ecological systems:
 
 - **Pestalotiopsis steymarkii:** Amazonian endophyte; also degrades
   cellulose-rich substrates
-- **Pestalotiopsis vismiae:** Produces bioactive clavine alkaloids
-- **Pestalotiopsis clavispora:** Common tropical endophyte with antimicrobial
-  metabolite production
-
-## See Also
-
-- [[agroforestry]]
-- [[composting]]
-- [[endophytic-fungi]]

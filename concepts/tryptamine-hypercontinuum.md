@@ -146,13 +146,5 @@ issues of life and death" to have transformative power.
 ## Related Concepts
 
 - [[dimethyltryptamine]] for the pharmacology and chemistry of DMT
-- [[psilocybin]] for the mushroom-derived tryptamine compound
+- [[psilocybin-compound]] for the mushroom-derived tryptamine compound
 - [[stoned-ape-hypothesis]] for McKenna's evolutionary theory
-- [[shamanism]] for the cultural context of tryptamine use
-- [[ayahuasca]] for the Amazonian DMT-based brew
-
-## See Also
-
-- [[alexander-shulgin]]
-- [[dimethyltryptamine]]
-- [[fungal-spores]]

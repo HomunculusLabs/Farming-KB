@@ -147,5 +147,3 @@ then maintain it with regular FPE applications for crop-specific nutrition.
 - [[compost-tea-recipe-guide]]
 - [[compost-tea-aact]]
 - [[soil-food-web]]
-
-- [[comparison-compost-tea-vs-biochar]]

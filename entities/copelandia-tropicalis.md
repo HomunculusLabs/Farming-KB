@@ -1,24 +1,19 @@
 ---
-title: "Copelandia tropicalis"
+title: "copelandia tropicalis"
 created: 2026-04-28
 type: species
 tags: [fungi, copelandia, panaeolus, psychedelic, tropical, pantropical, coprophilous]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "/Users/t3rpz/wiki/raw/papers/[[psilocybin]]-mushrooms-of-the-world-stamets.md"
+  - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-[[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]-&-gartz.md"
 ---
-
-# Copelandia tropicalis
-
-Copelandia tropicalis (syn. Panaeolus tropicalis) is a small, potently
+# Copelandia tropicalis [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] is (syn. [[panaeolus-tropicalis-cultivation-differences]]) is a small, potently
 psychoactive mushroom in the family Bolbitiaceae, belonging to the
-"Copelandian Panaeoli" — bluing, dung-inhabiting tropical mushrooms known
+"Copelandian Panaeoli" — bluing, dung-inhabiting tropicpsilocybinms known
 for high psilocybin content. Described by Oláh in 1969 and later transferred
-to Copelandia by Singer and Weeks, it is pantropical: Hawaii, Southeast
-Asia, Africa, Central America, and Oceania. Less well-known than its
-close relative Copelandia cyanescens despite its wide range.
+to Copelandia by Singer and Weeks, it is pantropical: guzman-allen-gartz-neurotropic-fungi-caribbean-central-americast despite its wide range.
 
 ## Taxonomy and Naming
 
@@ -26,7 +21,7 @@ close relative Copelandia cyanescens despite its wide range.
 - **Family:** Bolbitiaceae
 - **Genus:** Copelandia (sometimes retained in Panaeolus)
 - **Species:** C. tropicalis (Ola'h) Singer & R.A. Weeks
-- **Basionym:** Panaeolus tropicalis Ola'h (1969)
+- **Basionym:** [[panaeolus-tropicalis]] Ola'h (1969)
 - **Synonyms:** Panaeolus tropicalis Ola'h
 - **Species number 30** in Guzmán, Allen & Gartz's Copelandia checklist
 - Gerhardt (1996) recognized C. tropica Natarajan & Raman as nom. dubia
@@ -56,7 +51,7 @@ character for identification.
 
 | Feature | Description |
 |---------|-------------|
-| Spore print | Dark violet black to black |
+| [[spore]] print | Dark violet black to black |
 | Spores | Lemon-shaped in side view, ellipsoid in face view |
 | Spore size | 10-12 × 7-9 µm |
 | Spore ornamentation | Internally granulated (key diagnostic feature vs. C. cyanescens) |
@@ -74,8 +69,7 @@ Copelandia tropicalis has a wide pantropical distribution:
   Merlin & Allen (1993), Allen (1998)
 - **Southeast Asia:** Cambodia, China, Japan, Singapore, Malaysia, Bonin
   Islands
-- **Africa:** Central Africa, Tanzania, Zaire
-- **Central America:** Mexico (Guzmán & Pérez-Patraca, 1972; Pollock, 1976)
+- **Africa:** Central Africa, Tanzania, Za [[guzman-psilocybin-mushrooms-mexico-central-america]] America:** Mexico (Guzmán & Pérez-Patraca, 1972; Pollock, 1976)
 - **Oceania:** Bonin Islands, Fiji
 - **Habitat:** Coprophilous — cow dung and dung of wild animals in tropical
   and subtropical regions
@@ -100,7 +94,7 @@ tend to be among the more potent psilocybin-containing mushrooms.
 |---------|----------------|
 | C. cyanescens | Larger spores (11-14 × 7-9 µm), no internal granulation; more robust |
 | C. cambodginiensis | Predominantly 4-spored basidia; pleurocystidia with darker apices |
-| Panaeolus subbalteatus | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
+| [[panaeolus-subbalteatus]] | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
 | Panaeolus cinctulus | Temperate to subtropical; larger, with a distinct annular zone; less potent |
 | Panaeolus fimicola | Small, non-bluing, temperate; not psychoactive |
 
@@ -147,11 +141,3 @@ less studied than its famous relative C. cyanescens.
   C. cambodginiensis (4-spored, darker pleurocystidia apices)
 
 ## See Also
-
-- [[copelandia-cyanescens]]
-- [[copelandia-cambodginiensis]]
-- [[panaeolus-subbalteatus]]
-- [[panaeolus-cinctulus]]
-- [[psilocybe-cubensis]]
-- [[psilocybin]]
-- [[psilocin]]

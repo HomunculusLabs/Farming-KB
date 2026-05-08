@@ -145,5 +145,5 @@ yields while contributing to forest succession dynamics.
 - [[fomes-fomentarius]]
 - [[pleurotus-ostreatus]]
 - betulinic acid
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[baeocystin]]

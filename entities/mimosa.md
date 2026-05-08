@@ -142,11 +142,9 @@ Purple coloration is enhanced by cooler nighttime temperatures (below
 ## See Also
 
 - [[purple-punch]]
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - terpene profile
 - [[limonene]]
 - [[myrcene]]
 - caryophyllene
 - [[cannabis-sativa]]
-- hybrid
-- thc

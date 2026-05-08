@@ -1,5 +1,5 @@
 ---
-title: "Salvia apiana"
+title: "salvia apiana"
 created: 2026-04-28
 type: species
 tags:
@@ -20,12 +20,11 @@ sources:
   - Hickman, J.C. (1993). The Jepson Manual: Higher Plants of California. University of California Press.
   - Roosevelt, A.C. (2014). "Ethnobotany and the Economics of White Sage Harvesting." Journal of Ethnobiology, 34(2), 167-185.
 ---
-
 # Salvia apiana
 
 ## Overview
 
-**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern United States and northwestern Mexico. It is one of the most culturally significant plants in North American Indigenous traditions, widely used in smudging ceremonies for spiritual purification. The species is highly aromatic, drought-adapted, and supports a diverse range of native pollinators.
+**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern [[sacramental-ayahuasca-legal-battles-united-states]] and northwestern Mexico. It is one of the most culturally significant plants in North American Indigenous traditions, widely used in smudging ceremonies for spiritual purification. The species is highly aromatic, drought-adapted, and supports a diverse range of native pollinators.
 
 ## Taxonomy
 
@@ -74,23 +73,18 @@ western Mojave Desert), southern Nevada, Arizona, and Baja California, Mexico.
 
 **Habitat:** Coastal sage scrub, chaparral margins, dry rocky hillsides,
 canyon walls, and oak woodland edges. Elevation 0–1,500 m. Tolerates
-serpentine soils. Extremely drought-adapted, surviving on as little as
-150–250 mm annual precipitation.
+serpentine soils. Extremely drought-adapted, surviving on as little medicinal-mushroom-extraction-bioactive-compoundsl monoterpenes, sesquiterpenes, and phenolics:
 
-## Bioactive Compounds
-
-The essential oil contains monoterpenes, sesquiterpenes, and phenolics:
-
-- **1,8-Cineole (eucalyptol):** 30–40%, dominant camphoraceous aroma,
+- **1,8-Cinemedicinal-mushroom-antioxidant-anti-inflammatory]]** 30–40%, dominant camphoraceous aroma,
   antimicrobial and anti-inflammatory.
 - **Camphor:** 10–15%, cooling sensation, antimicrobial.
-- **α-Pinene:** 5–12%, bronchodilatory and anti-inflammatory.
+- **α-[[pinene]]:** 5–12%, bronchodilatory and anti-inflammatory.
 - **β-Pinene:** 3–8%, antimicrobial.
 - **Bornyl acetate:** 2–5%, anti-inflammatory.
-- **Rosmarinic acid:** phenolic, significant antioxidant activity.
+- **Rosmarinic acid:** phenolic, sicalendula-cultivation-and-medicinal-usesant activity.
 - **Carnosic acid:** diterpene, antioxidant and neuroprotective.
 
-## Traditional and Medicinal Uses
+## Traditional and [[bee-product-medicinal-uses]]
 
 **Indigenous uses:** White sage is central to the ceremonial traditions
 of numerous Indigenous peoples of Southern California and northern Baja
@@ -103,7 +97,7 @@ complaints. Leaf preparations were applied topically to wounds and used
 as a wash for skin conditions. Seeds were ground into pinole, a traditional
 food staple.
 
-**Contemporary herbal use:** The dried herb is widely sold for smudging.
+**Contemporary herbal use:** The [[dried-herb-storage]] is widely sold for smudging.
 Tea preparations are used as a gargle for sore throats, a steam inhalation
 for respiratory congestion, and a topical wash for minor wounds. Tinctures
 are employed for their antimicrobial and astringent properties.
@@ -123,7 +117,7 @@ Leaves harvested year-round; peak essential oil content during flowering
 **Pollinator support:** Exceptional pollinator plant with long-tubed flowers
 adapted for large-bodied bees (*Anthophora* species, carpenter bees, bumblebees),
 hummingbirds, and sphinx moths. The pollen-lever mechanism ensures efficient transfer.
-**Wildlife habitat:** Cover and foraging for quail, towhees, and chaparral birds.
+**[[wildlife-habitat-creation]]:** Cover [[faires-mushroom-growing-and-foraging]] for quail, towhees, and chaparral birds.
 Seeds consumed by finches and sparrows.
 **Soil stabilization:** Extensive root systems stabilize dry hillsides and canyon walls.
 
@@ -147,10 +141,3 @@ cultivated supply chains to reduce wild collection pressure.
   fragrant blue flowers, grayer foliage.
 
 ## See Also
-
-- [[native-plant-gardening]]
-
-- [[herbal-plant-remedies]]
-
-- [[salvia-officinalis]]
-- [[herbal-plant-remedies]]

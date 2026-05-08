@@ -35,7 +35,7 @@ sources:
 
 Dragonflies (suborder **Anisoptera**) and damselflies (suborder **Zygoptera**) together form the order **Odonata**, among the most ancient and effective aerial predators on Earth. Fossil records trace their lineage back over 300 million years — predating dinosaurs — with prehistoric relatives like *Meganeura* boasting wingspans exceeding 70 cm. Today's odonates are smaller but no less formidable: adult dragonflies achieve hunting success rates of up to 95%, making them the most efficient predators in the animal kingdom.
 
-For permaculture designers, homesteaders, and ecological land managers, odonates are invaluable allies. Their aquatic larvae (naiads) are voracious predators of mosquito larvae and other pest species, while adults consume enormous quantities of flying insects including mosquitoes, midges, flies, and agricultural pests. Odonates are also **bioindicator species** — their presence reliably signals healthy, unpolluted water bodies.
+For [[permaculture-designers-manual-cattle-systems]], homesteaders, and ecological land managers, odonates are invaluable allies. Their aquatic larvae (naiads) are voracious predators of mosquito larvae and other pest species, while adults consume enormous quantities of flying insects including mosquitoes, midges, flies, and agricultural pests. Odonates are also **bioindicator species** — their presence reliably signals healthy, unpolluted water bodies.
 
 ## Taxonomy and Classification
 
@@ -99,7 +99,7 @@ Odonata exhibit **hemimetabolous development** (incomplete metamorphosis) with t
 
 ### Egg Stage (1–6 weeks)
 
-- Females lay eggs **oviposit** into plant tissue (endophytic), on the water surface (epiphytic), or into mud/water (exophytic)
+- Females lay eggs **oviposit** into [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] (endophytic), on the water surface (epiphytic), or into mud/water (exophytic)
 - Egg morphology varies by oviposition strategy: endophytic eggs are elongate with a chorionic filament for anchoring in plant tissue
 - Many temperate species overwinter as eggs, with embryonic development arrested by diapause
 - Damselflies typically insert eggs into submerged or emergent plant stems using a sharp ovipositor
@@ -207,7 +207,7 @@ Odonates require **clean, shallow, fish-free or fish-scarce water** for successf
 
 - **Pond size:** Minimum ~3 m diameter; larger ponds support greater species diversity
 - **Depth:** Varying depth zones preferred — shallow margins (< 30 cm) for oviposition and naiad habitat, deeper zones for overwintering
-- **Vegetation:** A mix of emergent, submergent, and floating aquatic plants is essential:
+- **Vegetation:** A mix of emergent, submergent, and floating [[aquatic-plants-and-pond-ecosystems]] is essential:
   - **Emergent plants** (rushes, sedges, cattails, irises) — oviposition substrates and emergence supports
   - **Submergent plants** (hornwort, pondweed) — naiad shelter and hunting habitat
   - **Floating plants** (water lilies, duckweed) — perching sites and shade
@@ -251,7 +251,7 @@ Odonate-based pest control works best as part of an **integrated approach**:
 2. **Avoid broad-spectrum insecticides** near water bodies — these kill odonate adults and naiads
 3. **Maintain terrestrial habitat** — tall grasses, wildflower meadows, and hedgerows near ponds provide adult foraging and roosting areas
 4. **Create multiple small ponds** rather than one large one to increase habitat edge and diversity
-5. **Supplement with BTI (Bacillus thuringiensis israelensis)** for severe mosquito outbreaks — BTI is species-specific to Diptera and does not harm odonates
+5. **Supplement with BTI (Bacillus thuringiensis israelensis)** for severe mosquito outbreaks — BTI is [[species-specific-cold-shock-response-psilocybe]] to Diptera and does not harm odonates
 
 ## Odonates as Bioindicators
 
@@ -261,7 +261,7 @@ Odonates are recognized internationally as **indicators of freshwater ecosystem 
 - **Tolerant species** (some Libellulidae) can persist in eutrophic or disturbed habitats but may indicate degraded conditions
 - The **Odonate Habitat Index (OHI)** and **Odonata Biological Assessment Tool (OBAT)** are used by conservation agencies to assess wetland quality
 - Presence of diverse odonate assemblages (10+ species at a single water body) strongly correlates with good water quality and healthy aquatic ecosystems
-- Dragonfly Watch and citizen science programs (e.g., the British Dragonfly Society's recording scheme, iNaturalist) use odonate distributions to track environmental change
+- Dragonfly Watch and [[citizen-science-fungal-biodiversity-discovery]] programs (e.g., the British Dragonfly Society's recording scheme, iNaturalist) use odonate distributions to track environmental change
 
 ## Conservation Status and Threats
 
@@ -286,7 +286,7 @@ Odonates are recognized internationally as **indicators of freshwater ecosystem 
 
 ### Designing a Dragonfly Pond
 
-A well-designed permaculture pond can attract 20+ odonate species within 2–3 years of establishment:
+A well-designed [[permaculture-pond-construction]] can attract 20+ odonate species within 2–3 years of establishment:
 
 1. **Shape:** Irregular shoreline with varied depth — avoid perfectly circular or rectangular ponds
 2. **Depth gradient:**
@@ -313,7 +313,7 @@ A well-designed permaculture pond can attract 20+ odonate species within 2–3 y
 
 ### Integration with Other Biocontrol
 
-Odonates complement other biological pest control agents:
+Odonates complement other [[biological-pest-control-balance]] control agents:
 
 - **Bats:** Active at night when dragonflies are roosting — temporal complementarity
 - **Purple martins and swallows:** Aerial insectivores that share daytime hunting niches but at different altitudes
@@ -324,7 +324,7 @@ Odonates complement other biological pest control agents:
 ## Cultural Significance
 
 - **Japanese culture:** Dragonflies (*tombo*) are symbols of courage, strength, and happiness. Japan is known as *Akitsushima* ("Dragonfly Island") in ancient texts
-- **Native American traditions:** Dragonflies symbolize swiftness, illusion, and transformation in several tribal cultures
+- **[[native-american-planting-methods-and-indigenous-agriculture]] traditions:** Dragonflies symbolize swiftness, illusion, and transformation in several tribal cultures
 - **European folklore:** In Sweden, dragonflies were called *trollslända* (troll's spindle) and were associated with magic and the supernatural
 - **Art and literature:** Odonates have inspired artists from Albrecht Dürer to contemporary nature photographers; they feature in haiku poetry, textile patterns, and jewelry design
 - **Citizen science:** Dragonfly watching (odonatology) is a growing hobby; the British Dragonfly Society and Dragonfly Society of the Americas coordinate recording networks with thousands of participants

@@ -9,7 +9,7 @@ sources:
 ---
 # MDBU (N-Butyl-MDA; 3,4-Methylenedioxy-N-butylamphetamine)
 
-MDBU is a substituted amphetamine compound and the N-butyl derivative of [[mda-entity]]. It represents the exploration of longer N-alkyl chain substitutions on the MDA skeleton. The compound is listed as PIHKAL entry #102.
+MDBU is a substituted amphetamine compound and the N-butyl derivative of [[mda]]. It represents the exploration of longer N-alkyl chain substitutions on the MDA skeleton. The compound is listed as PIHKAL entry #102.
 
 ## Chemical Classification
 
@@ -17,7 +17,7 @@ MDBU belongs to the amphetamine class of chemical compounds.
 
 It is formally named 3,4-methylenedioxy-N-butylamphetamine.
 
-It is the N-butyl homologue of [[mda-entity]], with a four-carbon butyl chain replacing the hydrogen on the nitrogen atom.
+It is the N-butyl homologue of [[mda]], with a four-carbon butyl chain replacing the hydrogen on the nitrogen atom.
 
 MDBU was synthesized as part of the systematic exploration of N-alkyl chain length on the MDA scaffold.
 
@@ -77,7 +77,7 @@ The reaction with simple ammonia (as ammonium acetate) gives consistently poor y
 
 ## Relationship to Other N-Substituted MDA Compounds
 
-[[mda-entity]] has N-H and is fully psychedelic.
+[[mda]] has N-H and is fully psychedelic.
 
 [[mdma-entity]] has N-methyl and is a potent entactogen.
 
@@ -101,7 +101,7 @@ The compound is considered inactive.
 
 ## See Also
 
-[[mda-entity]]
+[[mda]]
 
 [[mdma-entity]]
 

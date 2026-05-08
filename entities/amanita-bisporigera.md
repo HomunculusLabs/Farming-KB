@@ -1,5 +1,5 @@
 ---
-title: Amanita bisporigera
+title: amanita bisporigera
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
@@ -14,7 +14,7 @@ taxonomy:
   phylum: Basidiomycota
   class: Agaricomycetes
   order: Agaricales
-  family: Amanitaceae
+  family: [[amanita]] ceae
   genus: Amanita
   species: A. bisporigera
   section: Phalloideae
@@ -37,8 +37,8 @@ dangerous organisms that amateur foragers encounter in eastern forests.
 
 Described by George Francis Atkinson in 1906 (*Botanical Gazette*, Vol. 42),
 the species name derives from Latin *bis-* ("two") and *sporigera*
-("spore-bearing"), referring to its characteristically two-spored basidia.
-Early treatments placed it as *Amanita verna* var. *bisporigera* before
+("[[spore]]-bearing"), referring to its characteristically two-spored basidia.
+Early treatments placed it as *[[amanita-verna]]* var. *bisporigera* before
 elevation to full species rank. Molecular phylogenetics (ITS, LSU, RPB2,
 TEF1 markers) confirms it as distinct from European *A. virosa* and western
 North American *A. ocreata*.
@@ -54,7 +54,7 @@ a bulbous base enveloped by the volva. The ring (annulus) is membranous,
 white, skirt-like, near the stipe apex — persistent but fragile. The volva
 is saccate, white, membranous, cupping the stem base, often partially buried.
 Flesh is white, thin, firm, and does not change color on exposure. Odor is
-mild and pleasant — dangerously non-distinctive. Spore print is white.
+mild and pleasant — dangerously non-distinctive. [[spore-print]] is white.
 
 ## Spore Characteristics
 
@@ -143,12 +143,7 @@ America. Victims often include experienced foragers who mistake it for edible
 *[[volvariella-volvacea]]* ([[paddy-straw-mushroom]]) or *Amanita* sect. *Vaginatae*.
 Several US fatalities documented annually. The name "Destroying Angel"
 captures the juxtaposition of pure white beauty and lethal toxicity. It is
-a cornerstone example in mycology education, underscoring: never eat a
+a cornerstone example in [[mycology]] education, underscoring: never eat a
 white-gilled, white mushroom with a volva unless identified by an expert.
 
 ## See Also
-
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[amanita-phalloides-death-cap]]
-- [[amanita-muscaria-ethnobotany]]
-- [[amanita-muscaria-pharmacology]]

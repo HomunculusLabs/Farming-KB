@@ -13,7 +13,7 @@ Biosorption isotherms are mathematical models that describe the distribution of 
 
 These models are fundamental tools for designing and optimizing biosorption-based water treatment systems, providing quantitative relationships between contaminant concentration in solution and the amount sorbed per unit mass of biosorbent.
 
-The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in [[fungal-biosorption-mechanisms]] and [[fungal-metal-biosorption]]. These models are essential for engineering [[mycoremediation-bioreactor-design]] systems and inform field-scale [[mycoremediation-field-applications]] where real-world conditions deviate significantly from laboratory isotherm predictions.
+The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in [[fungal-biosorption-mechanisms]] and [[fungal-metal-biosorption]]. These models are essential for engineering [[mycoremediation-bioreactor-design]] systems and inform field-scale [[bioremediation-using-fungi]] where real-world conditions deviate significantly from laboratory isotherm predictions.
 
 ## Langmuir Isotherm Model
 

@@ -56,7 +56,7 @@ Developed primarily by breeding programs in Germany (e.g., University of Kiel) a
 - **Pros**: Highest yield among perennial grains; strong winter hardiness; familiar processing chain.
 - **Cons**: Limited breeding outside Europe; shorter stand life (3–5 years); still requires dehulling.
 
-### Perennial Rice (Oryza sativa × Oryza rufipogon / O. longistaminata)
+### Perennial Rice ([[oryza-sativa]] × Oryza rufipogon / O. longistaminata)
 
 Developed by researchers at Yunnan Agricultural University in China and the International Rice Research Institute (IRRI).
 
@@ -67,7 +67,7 @@ Developed by researchers at Yunnan Agricultural University in China and the Inte
 - **Pros**: Dramatic reduction in labor (no transplanting), seed costs, and methane emissions from puddled rice paddies.
 - **Cons**: Yield penalty; ratooning vigor declines over years; disease susceptibility in some lines; not yet market-ready.
 
-### Perennial Sorghum (Sorghum bicolor × S. halepense hybrids)
+### Perennial Sorghum ([[sorghum-bicolor]] × S. halepense hybrids)
 
 Crosses between grain sorghum and johnsongrass, explored by The Land Institute and USDA-ARS.
 
@@ -119,7 +119,7 @@ Efforts to cross annual wheat (Triticum aestivum) with perennial wheatgrass spec
 
 **Where to source seed:** Kernza seed is available through The Land Institute's partner network and select organic seed suppliers. Perennial rye seed can be sourced from European forage seed companies. For experimental species, connect directly with university breeding programs.
 
-**Establishment challenges:** Perennial grains typically require careful establishment in year one. Kernza and perennial rye benefit from planting in late summer/early fall (similar to winter wheat) with minimal competition. Weed pressure is the biggest challenge during establishment — consider companion crops or cover crop mulches. Avoid grazing or harvesting grain in the first year to allow root system development.
+**Establishment challenges:** Perennial grains typically require careful establishment in year one. Kernza and perennial rye benefit from planting in late summer/early fall (similar to winter wheat) with minimal competition. Weed pressure is the biggest challenge during establishment — consider companion crops or [[cover-crop]] mulches. Avoid grazing or harvesting grain in the first year to allow root system development.
 
 **Expected ROI timeline:** Most perennial grains reach full production in year 2–3. Initial yields are low, but costs drop after year one (no replanting, reduced inputs). Profitability depends on premium markets — Kernza products often command 2–3× the price of conventional wheat. Expect a 3–5 year horizon to positive ROI.
 

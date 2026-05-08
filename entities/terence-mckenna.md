@@ -63,7 +63,7 @@ Widely criticized as numerological pseudoscience.
 
 McKenna popularized "psychonaut" — an explorer of consciousness through
 psychedelics, meditation, and other techniques. His "heroic dose" prescription
-(5g dried [[psilocybin]] in silent darkness) became a standard reference,
+(5g dried [[psilocybin-compound]] in silent darkness) became a standard reference,
 emphasizing responsible use and [[set-and-setting]].
 
 ## Key Works
@@ -148,10 +148,3 @@ culture, influencing decriminalization movements, artists, and filmmakers.
   [[albert-hofmann]], [[aldous-huxley]]
 - **Peers:** [[timothy-leary]], [[ralph-metzner]], [[claude-naranjo]],
   [[stanislav-grof]], [[jonathan-ott]], [[alexander-shulgin]], [[andrew-weil]]
-
-## See Also
-
-- [[mckenna-four-stages-abandoning-mystery]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
-- [[mckenna-television-dominator-drug]]
-- [[mckenna-genesis-first-drug-bust]]

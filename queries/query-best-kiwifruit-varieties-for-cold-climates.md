@@ -141,19 +141,6 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 7. **Soil preparation before planting.** Cold soils warm slowly. Amend with compost to improve drainage and warmth. Raised beds can help in heavy clay soils.
 
-8. **Fertilize conservatively.** Late-season nitrogen pushes soft, frost-tender growth. Stop all nitrogen application by mid-July.
-
-## Where to Buy
-
-Hardy kiwi and arctic kiwi plants are available from:
-- **One Green World** (Oregon) — wide selection of *arguta* and *kolomikta*.
-- **Raintree Nursery** (Washington) — reliable source for cold-hardy kiwi.
-- **Stark Bro's** — carries Ananasnaya and pollinators.
-- **Nature Hills Nursery** — online source with nationwide shipping.
-- **Local nurseries** — increasingly stocking hardy kiwi as awareness grows.
-
-Always confirm the sex of plants when ordering. You need at least one male for every 6–8 females.
-
 ## See Also
 
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — complete growing guide

@@ -103,7 +103,7 @@ Contemporary macrobiotic practice has evolved significantly from its origins. Ma
 
 ## Related
 
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-food-philosophy]]
 - [[natural-farming-food-philosophy]]
 - [[one-straw-revolution-philosophy]]

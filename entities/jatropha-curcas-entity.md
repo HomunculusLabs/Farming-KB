@@ -146,5 +146,5 @@ stress but the species survives where few others can.
 ## See Also
 - [[ricinus-communis-entity]]
 - [[moringa-oleifera]]
-- [[jatropha-curcas-entity]]
+- jatropha curcas entity
 - [[simmondsia-chinensis]]

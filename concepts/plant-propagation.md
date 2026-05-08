@@ -79,7 +79,7 @@ The propagation nursery integrates with other permaculture systems. Compost from
 
 [[permaculture-seed-saving]]
 
-[[permaculture-seed-saving-and-selection]]
+[[permaculture-design]]
 
 [[permaculture-plant-selection]]
 

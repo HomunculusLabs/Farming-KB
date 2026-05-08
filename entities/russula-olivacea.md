@@ -113,7 +113,7 @@ The olive-green coloration and large size help distinguish *R. olivacea* from mo
 - [[russula-emetica]]
 - [[russula-vesca]]
 - [[russula-xerampelina]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
 - [[amanita-muscaria]]
 - [[suillus-luteus]]

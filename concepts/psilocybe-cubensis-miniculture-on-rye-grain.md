@@ -132,24 +132,6 @@ favorable for fruiting body development.
 
 The first flush typically occurs four to five weeks after initial
 inoculation, approximately two weeks after casing. This timeline
-includes the 28-day colonization period plus two weeks for the mycelium
-to colonize the casing layer, form primordia, and develop mature
-fruiting bodies.
-
-## Extended Production and Yields
-
-The minicultures continue producing mushrooms for at least 20 weeks
-provided they remain uncontaminated. Each flush was harvested as soon
-as sporocarps reached maturity, and mushrooms were immediately
-freeze-dried, sealed in plastic, and stored at minus 5 degrees Celsius.
-This rapid processing was essential to prevent degradation of the labile
-[[psilocin]] compound.
-
-The method reliably produces at least five flushes. In one exceptional
-case, a sixth flush was obtained. The average total yield was 2.7 grams
-dry weight per miniculture unit across all flushes. Voucher specimens
-were deposited in the University of Washington Herbarium (WTU).
-
 ## Related
 
 - [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]

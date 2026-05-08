@@ -27,7 +27,7 @@ type: concept
 
 ## Overview
 
-Shirota, Hakamata, and Goda (2003) reported a concise, gram-scale synthesis of both [[psilocin]] and [[psilocybin]], the principal hallucinogenic constituents of [[magic mushrooms]], from commercially available [[4-hydroxyindole]]. The key innovation was achieving both targets without any chromatographic purification at any step. Psilocybin synthesis was made possible by the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate that could be isolated by simple filtration, avoiding the anion-exchange chromatography required in prior methods. The work was published in the Journal of Natural Products (Vol. 66, No. 6) and conducted at the National Institute of Health Sciences, Tokyo, Japan.
+Shirota, Hakamata, and Goda (2003) reported a concise, gram-scale synthesis of both [[psilocin]] and [[psilocybin-compound]], the principal hallucinogenic constituents of [[magic-mushrooms]], from commercially available [[4-hydroxyindole]]. The key innovation was achieving both targets without any chromatographic purification at any step. Psilocybin synthesis was made possible by the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate that could be isolated by simple filtration, avoiding the anion-exchange chromatography required in prior methods. The work was published in the Journal of Natural Products (Vol. 66, No. 6) and conducted at the National Institute of Health Sciences, Tokyo, Japan.
 
 ## Background and Motivation
 

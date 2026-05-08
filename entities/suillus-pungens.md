@@ -121,6 +121,6 @@ pore layer should be removed and the cap peeled.
 
 - [[suillus-luteus]]
 - [[suillus-granulatus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - pinus radiata
 - [[ectomycorrhiza]]

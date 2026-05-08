@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1178 pages**
+**1183 pages**
 
 ## A
 
@@ -346,6 +346,7 @@
 - [[comparison-morel-vs-chanterelle]]
 - [[comparison-moringa-oleifera-vs-moringa-stenopetala]]
 - [[comparison-moringa-vs-comfrey]]
+- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]
 - [[comparison-mulching-guide-vs-green-manure-guide]]
@@ -721,6 +722,7 @@
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 - [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]
+- [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-sea-buckthorn]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
@@ -729,6 +731,7 @@
 - [[query-how-do-i-identify-and-control-common-garden-pests-organically]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
+- [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]]
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]
@@ -1030,6 +1033,7 @@
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
 - [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
+- [[query-what-are-the-best-chicken-breeds-for-a-backyard-flock]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
 - [[query-what-are-the-best-crops-for-a-desert-food-forest]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
@@ -1172,6 +1176,7 @@
 - [[query-what-is-the-difference-between-saprotrophic-and-parasitic-fungi]]
 - [[query-what-is-the-difference-between-saprotrophic-parasitic-and-mutualistic-fungi]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
+- [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]]
 - [[query-what-is-the-difference-between-topping-and-fimming-cannabis]]
 - [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]
 - [[query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis]]

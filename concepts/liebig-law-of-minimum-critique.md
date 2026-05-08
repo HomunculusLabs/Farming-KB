@@ -139,6 +139,6 @@ moving further from the truth.
 
 - [[fukuoka-liebig-law-critique]]
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-food-civilization-critique]]
 - [[fukuoka-critique-modern-agriculture]]

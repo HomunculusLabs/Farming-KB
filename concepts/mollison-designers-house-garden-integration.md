@@ -147,5 +147,3 @@ maintenance effort, creating a living environment that is both productive
 and pleasurable.
 
 ## See Also
-
-- [[mollison-designers-forest-garden-layer-canopy-understory]]

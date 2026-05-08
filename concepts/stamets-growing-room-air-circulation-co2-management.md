@@ -90,7 +90,7 @@ per hour:
 
 Species-specific maximum growing gourmet growing rates:
 - [[agaricus-brunnescens]]: 4 to 6 air exchanges per hour
-- [[psilocybe-cubensis-profile]]: 2 to 3 air exchanges per hour
+- [[psychedelic-mushrooms-species-and-identification]]: 2 to 3 air exchanges per hour
 
 ## Air-to-Bed Ratio
 

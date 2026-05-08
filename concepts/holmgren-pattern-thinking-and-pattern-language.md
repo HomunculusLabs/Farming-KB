@@ -16,7 +16,7 @@ Pattern thinking is the ability to recognise, understand, and apply recurring sp
 
 The first six principles tend to consider systems from the bottom-up perspective of elements, organisms, and individuals. The second six principles tend to emphasise the top-down perspective of the patterns and relationships that tend to emerge by system self-organisation and co-evolution. The commonality of patterns observable in nature and society allows us not only to make sense of what we see but to use a pattern from one context and scale to design in another.
 
-Pattern recognition, discussed in [[holmgren-observe-and-interact]], is the necessary precursor to the process of design. The spider on its web, with its concentric and radial design, evokes [[holmgren-zones-and-sectors-design-framework]], the best-known and perhaps most widely applied aspect of permaculture design. The design pattern of the web is clear, but the details always vary.
+Pattern recognition, discussed in [[permaculture-design]], is the necessary precursor to the process of design. The spider on its web, with its concentric and radial design, evokes [[permaculture-design]], the best-known and perhaps most widely applied aspect of permaculture design. The design pattern of the web is clear, but the details always vary.
 
 ## The Problem of Modernity
 

@@ -111,11 +111,11 @@ The documentary "Weed" by Dr. Sanjay Gupta, which first aired on CNN in August 2
 ## See Also
 
 - cannabidiol
-- [[acdc-cannabis]]
+- [[acdc-cannabis-strain]]
 - [[harlequin]]
 - [[sour-diesel]]
-- [[white-widow]]
-- [[blue-dream]]
+- [[white-widow-entity]]
+- [[cannabis-blue-dream]]
 - [[piperine]]
 - [[cannabis-anti-inflammatory-applications]]
 - [[berberine]]

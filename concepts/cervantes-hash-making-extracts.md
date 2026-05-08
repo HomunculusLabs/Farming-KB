@@ -102,8 +102,8 @@ The basic equipment needed for ice water extraction is minimal: a bucket (5-gall
 
 - [[cervantes-15-bag-water-hash-extraction]]
 
-- [[cervantes-harvest-techniques]]
-- [[cervantes-curing-storage]]
+- [[cannabis-advanced-growing-techniques]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-flowering-phase]]
 - [[cervantes-strain-selection]]
 - [[cannabis-concentrates-and-extracts]]

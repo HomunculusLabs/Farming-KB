@@ -31,7 +31,7 @@ cubensis is perhaps the most well-known species, native to
 tropical and subtropical regions of the Americas and widely
 cultivated. It is a large, robust mushroom found on bovine
 dung in pastures, making it one of the easiest species to
-identify and cultivate for [[psilocybin-mushroom-cultivation-basics]].
+identify and cultivate for [[mushroom-cultivation-fundamentals]].
 
 Psilocybe semilanceata, the liberty cap, is Europe's most
 popular psychoactive species and may be the most common

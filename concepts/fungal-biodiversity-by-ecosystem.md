@@ -28,7 +28,7 @@ Characteristic grassland soil fungi include Acremonium, Arthrinium, Cladosporium
 
 ## Soil and Litter Systems
 
-Soil represents perhaps the most diverse fungal habitat, yet also the most poorly characterized. In a British deciduous forest, fungal mycelia contributed approximately 89% of the total living microbial biomass (Frankland 1982). Soil fungal communities include decomposers, mycorrhizal symbionts, pathogens, and [[endophytic-fungal-diversity]] representatives. See [[soil-fungal-diversity]] and [[fungal-biodiversity-soil-habitats]] for detailed treatment. The soil mycobiota drives [[fungal-decomposition-nutrient-cycling]] and forms the foundation of terrestrial [[fungal-ecosystem-services]].
+Soil represents perhaps the most diverse fungal habitat, yet also the most poorly characterized. In a British deciduous forest, fungal mycelia contributed approximately 89% of the total living microbial biomass (Frankland 1982). Soil fungal communities include decomposers, mycorrhizal symbionts, pathogens, and [[endophytic-fungal-diversity]] representatives. See [[soil-fungal-diversity]] and [[the-soil-food-web]] for detailed treatment. The soil mycobiota drives [[fungal-decomposition-nutrient-cycling]] and forms the foundation of terrestrial [[fungal-ecosystem-services]].
 
 Species richness in soil fungal communities apparently increases through both primary and secondary succession in plant communities. In the Wisconsin surveys spanning more than 20 years, northern upland conifer-hardwood forests yielded more than 476 taxa from 8,061 isolates — the highest diversity of any vegetation type surveyed.
 

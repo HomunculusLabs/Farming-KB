@@ -143,6 +143,6 @@ bed preparation) and quality (worm castings for seed starting, top-dressing, and
  [[vermicomposting]]
  [[solomon-composting-methods]]
  [[teaming-with-microbes-compost-tea-brewing-guide]]
- [[wormery-construction]]
+ [[composting-and-soil-biology]]
  [[bokashi-composting]]
  [[solomon-carbon-nitrogen-ratios]]

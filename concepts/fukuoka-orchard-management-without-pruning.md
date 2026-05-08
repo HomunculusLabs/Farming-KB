@@ -61,7 +61,7 @@ He progressed through three stages of orchard floor management:
 2. Cultivation under green manure crops
 3. A ground cover of [[fukuoka-white-clover-cover-crop-system]] with no weeding, tillage, or fertilizer
 
-He found that "weeding in orchards is not only useless, it is positively harmful." The [[fukuoka-natural-orchard-ground-cover]] of clover and vegetables enriches the soil, prevents erosion, and supports beneficial insect populations. His approach to the orchard floor embodies the [[fukuoka-ground-cover-strategy]] that he also applied to grain fields.
+He found that "weeding in orchards is not only useless, it is positively harmful." The [[fukuoka-natural-farming-philosophy]] of clover and vegetables enriches the soil, prevents erosion, and supports beneficial insect populations. His approach to the orchard floor embodies the [[fukuoka-ground-cover-strategy]] that he also applied to grain fields.
 
 ### Ladino Clover and Cover Crops
 
@@ -120,7 +120,7 @@ The orchard thus becomes not a managed monoculture but "an organically integrate
 - [[fukuoka-no-prune-fruit-tree-method]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]
 - [[fukuoka-natural-orchard-management]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-orchard-management-detailed]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-pruning-fruit-tree-natural-management]]

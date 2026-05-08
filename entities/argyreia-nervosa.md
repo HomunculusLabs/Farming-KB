@@ -1,11 +1,11 @@
 ---
-title: Argyreia nervosa
+title: argyreia nervosa
 created: 2026-04-28
 type: species
 tags:
   - hawaiian-baby-woodrose
   - lsa
-  - ergoline-alkaloids
+  - [[ergoline]]-alkaloids
   - psychedelic
   - convolvulaceae
   - morning-glory
@@ -21,23 +21,22 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6609648/
   - https://www.erowid.org/plants/argyreia/argyreia.shtml
 ---
-
 # Argyreia nervosa (Hawaiian Baby Woodrose)
 
-**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBWR), is a perennial climbing vine in the Convolvulaceae (morning glory) family. Native to the Indian subcontinent, it is widely cultivated as an ornamental and is known for its seeds, which contain ergoline alkaloids including **lysergic acid amide (LSA)**, a naturally occurring compound structurally related to LSD.
+**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBWR), is a perennial climbing vine in the Convolvulaceae (morning glory) family. Native to the Indian subcontinent, it is widely cultivated as an ornamental and is known for its seeds, which contain [[morning-glory-lsa-and-ergoline-alkaloids]] including **[[lysergic-acid-amide]] (LSA)**, a naturally occurring compound structurally related to LSD.
 
 ## Taxonomy and Botany
 
 - **Family:** Convolvulaceae
 - **Genus:** *Argyreia*
-- **Species:** *A. nervosa* (Burman f.) Bojer
+- **Species:** *A. nervoaustralian-magic-mushroom-common-namesf.) Bojer
 - **Common names:** Hawaiian Baby Woodrose, Elephant Creeper, Woolly Morning Glory, Vidhara (Sanskrit/Ayurveda)
 
 The plant is a vigorous woody vine that can climb 10–15 meters. It features large, heart-shaped leaves (10–20 cm) covered on the undersurface with a distinctive silvery-white indumentum (fuzzy hair). Flowers are trumpet-shaped, pink to purplish, approximately 5–7 cm long. The seed pods are round, woody capsules containing 1–4 large, durable seeds (~8–12 mm diameter).
 
 ### Distribution
 - **Native:** Indian subcontinent (India, Nepal, Sri Lanka, Bangladesh)
-- **Introduced/naturalized:** Hawaii, Caribbean, West Africa, Southeast Asia, northern Australia
+- **Infungi-of-southeast-asiaalized:** Hawaii, Caribbean, West Africa, Southeast Asia, northern Australia
 - **Habitat:** Tropical and subtropical forests, roadsides, disturbed areas up to 1000 m elevation
 
 ## Chemical Composition
@@ -47,10 +46,10 @@ The primary psychoactive constituents are ergoline alkaloids found predominantly
 
 | Alkaloid | Approximate Content | Notes |
 |----------|-------------------|-------|
-| Ergine (LSA) | 0.3–0.9% | Primary psychoactive; lysergic acid amide |
+| Ergine (LSA) | 0.3–0.9% | Primary psychoactive; [[lysergic-acid]] amide |
 | Isoergine | 0.05–0.2% | Isomer of LSA; less active |
-| Ergometrine (ergonovine) | 0.01–0.06% | Uterotonic; ergot alkaloid |
-| Lysergic acid hydroxyethylamide (LSH) | Trace | Potentially psychoactive |
+| [[ergometrine]] ([[ergonovine]]) | 0.01–0.06% | Uterotonic; ergot alkaloid |
+| [[lysergic-acid-hydroxyethylamide]] (LSH) | Trace | Potentially psychoactive |
 | Lysergic acid amide | — | Same as ergine |
 | Chanoclavine | Trace | Ergot alkaloid precursor |
 | Elymoclavine | Trace | Ergot alkaloid |
@@ -147,9 +146,3 @@ Commercially available HBWR seeds sold for horticultural purposes are often trea
 - Medications affecting serotonin (SSRIs, triptans)
 
 ## Cultivation
-
-## See Also
-
-- [[lysergic-acid]]
-- [[lysergic-acid-amide]]
-- [[lysergic-acid-hydroxyethylamide]]

@@ -39,7 +39,7 @@ Japan has a tradition of mushroom cultivation spanning at least 2,000 years. The
 
 - Collecting naturally grown mycelia of Lentinus edodes (Berk.) Singer (shiitake)
 - Transferring onto pieces of wood selected to serve as new substrates
-- This technique of transferring colonized wood to fresh substrate is essentially the same principle used in modern [[psilocybin-mushroom-cultivation-basics]]
+- This technique of transferring colonized wood to fresh substrate is essentially the same principle used in modern [[mushroom-cultivation-fundamentals]]
 
 ### Chinese Parallels
 
@@ -103,7 +103,7 @@ Much work remains to be done in Japanese psychoactive mycology:
 - [[psilocybe-cubensis-potency-variation-by-flush]] -- Close relative of Japanese species
 - [[psilocybe-semilanceata]] -- Comparison species
 - [[magic-mushroom-cultural-history]] -- Broader cultural context
-- [[psilocybin-mushroom-cultivation-basics]] -- Cultivation techniques
+- [[mushroom-cultivation-fundamentals]] -- Cultivation techniques
 - [[magic-mushrooms-japan]] -- Existing page on this topic
 - [[stropharia-rugoso-annulata-mycofiltration]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]

@@ -119,7 +119,7 @@ enclosed containers for market distribution.
 
 ## Related
 
-- [[psilocybin|psilocybin]]
+- [[psilocybin-compound|psilocybin]]
 - [[dmt-smoking-and-administration-methods|vapor]] Phenomena
 
 The Oaxaca incident parallels other accounts of environmentally-mediated psychoactive

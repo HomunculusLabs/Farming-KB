@@ -101,7 +101,7 @@ Tree energy transactions connect to [[edge-effect-and-microclimate]], [[permacul
 - [[guild-design-methodology]]
 - [[permaculture-windbreak]]
 - [[forests-in-permaculture]]
-- [[permaculture-climate-classification]]
+- [[permaculture-design]]
 
 ## Merged: Mollison Trees Energy Transactions
 

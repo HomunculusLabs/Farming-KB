@@ -134,54 +134,6 @@ literature.
 
 The CHI framework's primary strength lies in its transparency.
 By making explicit the evidence levels, efficacy assessments, and scoring
-methodology, it allows readers to understand exactly how each recommendation was
-derived and to adjust their own clinical decisions based on their assessment of the
-underlying evidence quality.
-This contrasts with the opaque expert-consensus approaches that have characterized
-much of medical cannabis guidance.
-Additionally, the framework's comprehensive scope, covering dozens of conditions
-from chronic pain and nausea to epilepsy and autoimmune disorders, provides a
-unified reference that would otherwise require consultation of numerous disparate
-sources.
-The consistent application of the same scoring methodology across conditions enables
-meaningful cross-condition comparisons that are not possible when each condition is
-evaluated using different criteria.
-
-## Limitations and Critique
-
-The CHI framework faces several significant limitations.
-The multiplication of evidence quality and efficacy scores can produce misleading
-results in edge cases.
-A treatment with moderate efficacy supported by high-quality evidence may receive a
-similar score to a highly effective treatment with moderate evidence, yet the
-clinical implications of these two scenarios differ substantially.
-The framework also struggles with the heterogeneity of cannabis preparations used
-across studies, where differences in THC:CBD ratios, administration routes, dosing
-schedules, and product types can make meta-analysis problematic.
-Publication bias represents a persistent concern, as positive findings are more
-likely to be published than negative results, potentially inflating the CHI scores
-for some conditions.
-The rapid pace of cannabis research also means that any static reference work will
-inevitably become outdated, necessitating regular updates to maintain clinical
-relevance.
-
-## Clinical Application Guidance
-
-Despite its limitations, the CHI framework provides actionable guidance for
-clinicians and patients navigating medical cannabis decisions.
-The scoring system enables rapid identification of conditions where the evidence
-base is strongest, helping to prioritize cannabis applications where clinical
-confidence is highest.
-For conditions with lower scores, the framework still provides a structured summary
-of available evidence that can inform shared decision-making between clinicians and
-patients.
-The framework's explicit acknowledgment of evidence quality also serves as a useful
-counterpoint to the often uncritical enthusiasm found in popular cannabis health
-literature.
-By demanding transparency about the strength of supporting evidence, the CHI
-encourages a more nuanced and realistic assessment of cannabis therapeutics than is
-typical in either pro- or anti-cannabis advocacy contexts.
-
 ## See Also
 
 - [[cannabis-health-index]]

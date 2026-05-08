@@ -144,11 +144,7 @@ A natural hybrid (*S. officinale* × *S. asperum*), triploid (2n=36), generally 
 
 ## See Also
 
-- [[Dynamic Accumulators]]
-- [[Comfrey Tea — Preparation and Use]]
-- [[Bocking Cultivars Comparison]]
-- [[Russian Comfrey — Symphytum × uplandicum]]
-- [[Permaculture Guild Design — Fruit Tree Comfrey Association]]
-- [[Pyrrolizidine Alkaloid Toxicity in Medicinal Herbs]]
-- [[Nitrogen-Fixing Plants]]
-- [[Compost Activators]]
+- [[dynamic-accumulators]]
+- [[comfrey-tea-—-preparation-and-use]]
+- [[bocking-cultivars-comparison]]
+- [[russian-comfrey-—-symphytum-×-uplandicum]]

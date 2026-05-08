@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Psilocin and [[psilocybin]] are the principal hallucinogenic constituents of "magic mushrooms" in the genus Psilocybe. Both compounds closely resemble the neurotransmitter serotonin, and their effects are believed to result from interference with normal brain serotonin function, likely through partial agonism at 5-HT2A receptors.
+Psilocin and [[psilocybin-compound]] are the principal hallucinogenic constituents of "magic mushrooms" in the genus Psilocybe. Both compounds closely resemble the neurotransmitter serotonin, and their effects are believed to result from interference with normal brain serotonin function, likely through partial agonism at 5-HT2A receptors.
 
 The concise large-scale synthesis of these compounds was achieved by Shirota, Hakamata, and Goda at the National Institute of Health Sciences in Tokyo, published in the Journal of Natural Products in 2003. Their method produces gram-scale quantities without chromatographic purification.
 
@@ -25,7 +25,7 @@ Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-OH-DMT) is a substituted tryptamin
 
 Serotonin carries the hydroxyl at the 5-position, while psilocin carries it at the 4-position. The N,N-dimethylation further distinguishes it from the monomethylated neurotransmitter.
 
-[[psilocybin]] is the 4-O-phosphoryl ester of psilocin, making it significantly more polar and chemically more stable. In the body, psilocybin is rapidly dephosphorylated by alkaline phosphatase to yield psilocin, the pharmacologically active compound that crosses the blood-brain barrier.
+[[psilocybin-compound]] is the 4-O-phosphoryl ester of psilocin, making it significantly more polar and chemically more stable. In the body, psilocybin is rapidly dephosphorylated by alkaline phosphatase to yield psilocin, the pharmacologically active compound that crosses the blood-brain barrier.
 
 ### Minor Constituents
 
@@ -92,7 +92,7 @@ Simple filtration after suspending the reaction mixture in dichloromethane overn
 
 ### Final Deprotection
 
-Catalytic hydrogenolysis using 10% palladium on carbon under hydrogen atmosphere in methanol yielded [[psilocybin]] as white needle crystals.
+Catalytic hydrogenolysis using 10% palladium on carbon under hydrogen atmosphere in methanol yielded [[psilocybin-compound]] as white needle crystals.
 
 Melting point: 190 to 198 degrees Celsius. Isolated yield from psilocin exceeded 72% on gram scale, a dramatic improvement over previously reported yields of 20% and 47% that required anion-exchange chromatography.
 
@@ -121,13 +121,13 @@ The serendipitous discovery of the self-purifying zwitterionic intermediate was 
 
 ## See Also
 
-- [[psilocybin-psilocin-chemical-synthesis]]
-- [[psilocybin-psilocin-chemical-synthesis-shirota]]
+- psilocybin and psilocin chemical synthesis
+- psilocybin and psilocin chemical synthesis
 - [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
 - [[shirota-psilocin-psilocybin-synthesis]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - Tryptamine Alkaloids
 - Serotonin Receptor Pharmacology
 - Forensic Analysis of Psychoactive Fungi

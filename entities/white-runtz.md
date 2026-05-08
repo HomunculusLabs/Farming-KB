@@ -148,4 +148,3 @@ that gives mature buds a nearly white, snow-dusted appearance.
 - [[zkittlez]]
 - [[girl-scout-cookies]]
 - [[purple-punch]]
-- [[runtz]]

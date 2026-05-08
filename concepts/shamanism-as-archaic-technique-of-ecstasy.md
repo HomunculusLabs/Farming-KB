@@ -138,7 +138,7 @@ Only a recovery of the relationship that humanity evolved with nature through us
 
 - [[ayahuasca-preparation]]
 - Transcendent Other
-- [[partnership and dominator models]]
-- [[psilocybin]]
+- [[partnership-and-dominator-models]]
+- [[psilocybin-compound]]
 - Archaic Revival
-- [[indole hallucinogens and human evolution]]
+- [[indole-hallucinogens-and-human-evolution]]

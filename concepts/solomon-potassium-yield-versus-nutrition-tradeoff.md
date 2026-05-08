@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon identifies a critical but widely ignored inverse relationship between [[potassium-plant-nutrition]] levels in soil and the nutritional quality of harvested vegetables. While boosting soil potassium increases bulk yield, it does so primarily by increasing starch and fiber content at the expense of protein, vitamins, enzymes, and [[trace minerals]]. Solomon argues that most commercial growers, whether chemical or organic, push potassium to high levels for profit, producing vegetables that are calorically larger but nutritionally inferior.
+Steve Solomon identifies a critical but widely ignored inverse relationship between [[potassium-plant-nutrition]] levels in soil and the nutritional quality of harvested vegetables. While boosting soil potassium increases bulk yield, it does so primarily by increasing starch and fiber content at the expense of protein, vitamins, enzymes, and [[trace-minerals]]. Solomon argues that most commercial growers, whether chemical or organic, push potassium to high levels for profit, producing vegetables that are calorically larger but nutritionally inferior.
 
 ## The Yield-Nutrition Inverse Relationship
 
@@ -35,7 +35,7 @@ Potassium (K) is one of the three primary [[plant-secondary-macronutrients-calci
 
 However, when potassium is supplied in excess, plants respond by accumulating it in their tissues. This drives cellular expansion and increases water uptake, resulting in larger cells and greater overall plant mass. The effect is most visible in root crops and leafy vegetables, where additional potassium produces noticeably larger roots and more voluminous leaves.
 
-The mechanism is analogous to inflating a balloon: the volume increases, but the substance inside does not become more concentrated. In fact, it becomes more dilute. The additional plant mass is mostly water and structural carbohydrates (cellulose, hemicellulose) rather than nutritionally dense compounds like proteins, essential fatty acids, vitamins, and [[trace minerals]].
+The mechanism is analogous to inflating a balloon: the volume increases, but the substance inside does not become more concentrated. In fact, it becomes more dilute. The additional plant mass is mostly water and structural carbohydrates (cellulose, hemicellulose) rather than nutritionally dense compounds like proteins, essential fatty acids, vitamins, and [[trace-minerals]].
 
 ## The Commercial Incentive Problem
 
@@ -101,7 +101,7 @@ One of the most challenging aspects of potassium management is that excess potas
 
 This persistence means that gardeners who have inherited soils with historically high potassium applications, whether from previous owners who used synthetic fertilizers or from heavy manuring, may face a long correction period. Solomon's recommendation to deliberately limit potassium is easier to implement from the start than to correct after the fact. Gardeners starting new plots should be conservative with potassium from the beginning.
 
-Common potassium-rich amendments that gardeners should use sparingly include [[wood ashes]], which can contain 3 to 7 percent potassium; greensand, a mined mineral deposit containing about 5 to 6 percent potassium; and [[kelp meal]], which while valuable for its trace mineral content also contributes significant potassium. Even repeated applications of compost, which typically contains about 0.5 to 1 percent potassium, can accumulate to problematic levels over many seasons.
+Common potassium-rich amendments that gardeners should use sparingly include [[wood-ashes]], which can contain 3 to 7 percent potassium; greensand, a mined mineral deposit containing about 5 to 6 percent potassium; and [[kelp-meal]], which while valuable for its trace mineral content also contributes significant potassium. Even repeated applications of compost, which typically contains about 0.5 to 1 percent potassium, can accumulate to problematic levels over many seasons.
 
 ## Key Considerations
 

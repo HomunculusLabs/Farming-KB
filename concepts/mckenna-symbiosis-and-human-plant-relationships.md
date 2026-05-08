@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
 
 McKenna argued that the relationship between humans and psychoactive plants represents one of the most profound and overlooked symbiotic partnerships in the natural world. Drawing on the work of Lynn Margulis and other theorists of symbiogenesis, he suggested that coevolution between humans and plants has shaped human consciousness, culture, and social organization in ways that mainstream science has failed to appreciate.
 
-The [[terence-mckenna-stoned-ape-hypothesis]] is the most famous expression of this idea, but McKenna's symbiotic thinking extends far beyond the stoned ape theory. He saw the entire history of human-plant relationships as a dialogue — a two-way communication in which plants "teach" humans and humans, in turn, propagate and protect the plants that serve them.
+The [[psychedelic-mushrooms-species-and-identification]] is the most famous expression of this idea, but McKenna's symbiotic thinking extends far beyond the stoned ape theory. He saw the entire history of human-plant relationships as a dialogue — a two-way communication in which plants "teach" humans and humans, in turn, propagate and protect the plants that serve them.
 
 ## Categories of Human-Plant Symbiosis
 
@@ -56,7 +56,7 @@ These partnerships, McKenna argued, are not merely utilitarian — they are sacr
 The symbiotic paradigm has profound implications for modern agriculture, medicine, and environmental policy. If humans are genuinely in symbiotic partnership with certain plant species — not merely exploiting them but being shaped by them in return — then the industrial destruction of plant diversity represents an attack on the very foundations of human consciousness and well-being. McKenna saw the preservation of psychoactive plant species as essential not only for biodiversity but for the future evolution of human consciousness.
 
 See also:
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-language-and-reality]]
 - [[mycorrhizal-networks]]
@@ -86,4 +86,4 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]

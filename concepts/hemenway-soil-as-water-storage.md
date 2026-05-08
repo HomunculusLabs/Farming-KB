@@ -116,7 +116,7 @@ and organic matter.
 Tilling destroys soil structure and burns through organic
 matter. Bare soil loses moisture to evaporation. Chemical
 fertilizers bypass the soil food web, reducing the organisms
-that build water-holding capacity. In contrast, [[no-till-gardening-method]], deep mulching, and
+that build water-holding capacity. In contrast, [[composting-and-soil-biology]], deep mulching, and
 composting all build the soil's ability to store water.
 
 ## See Also

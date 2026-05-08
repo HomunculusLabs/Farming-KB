@@ -148,4 +148,3 @@ by equalizing gravitational stimuli across all sides of the fruiting body.
 - [[psilocybe-cubensis]]
 - fungal-anemotropism
 - basidiocarp-development
-- sporulation-in-fungi

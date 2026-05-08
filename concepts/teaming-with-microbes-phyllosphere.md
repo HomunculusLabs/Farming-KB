@@ -15,7 +15,7 @@ sources:
 
 While much attention in soil food web science focuses on the rhizosphere -- the zone of microbial activity around roots -- an equally important but often overlooked microbial community exists on the surfaces of plant leaves. This aerial counterpart to the rhizosphere is called the phyllosphere.
 
-The [[nutrient-retention-soil-food-web]] extends above ground in ways that many gardeners fail to appreciate. Just as roots are surrounded by a thriving microbial community, every leaf surface supports its own ecosystem of bacteria, fungi, and other microorganisms that play critical roles in plant health and disease resistance.
+The [[composting-and-soil-biology]] extends above ground in ways that many gardeners fail to appreciate. Just as roots are surrounded by a thriving microbial community, every leaf surface supports its own ecosystem of bacteria, fungi, and other microorganisms that play critical roles in plant health and disease resistance.
 
 ## What Is the Phyllosphere?
 
@@ -75,7 +75,7 @@ Understanding the phyllosphere has practical implications for gardeners and farm
 
 - **Plant diversity** in the garden supports a diverse phyllosphere microbiome across different plant species, creating a more resilient overall ecosystem.
 
-- **Air quality** matters: air pollution can damage the phyllosphere community just as chemical contamination damages the [[nutrient-retention-soil-food-web]].
+- **Air quality** matters: air pollution can damage the phyllosphere community just as chemical contamination damages the [[composting-and-soil-biology]].
 
 ## Connection to the Soil Food Web
 

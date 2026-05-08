@@ -97,7 +97,7 @@ It is important to note that mushroom polysaccharides are generally well-tolerat
 ## See Also
 - [[mushroom-cancer-clinical-trials-overview]]
 - [[medicinal-mushroom-immune-modulation]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[maitake-mushroom-research]]
 - [[mushroom-combination-therapy-chemotherapy]]

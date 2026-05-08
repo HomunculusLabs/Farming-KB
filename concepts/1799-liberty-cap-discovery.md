@@ -8,7 +8,7 @@ sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
 ---
 # The 1799 Liberty Cap Discovery
 
-The 1799 case of the J.S. family in London's Piccadilly is the earliest conclusively identified instance of [[psilocybe-semilanceata-profile]] (Liberty Cap) intoxication in the historical record. Documented by Dr Everard Brande and later re-examined by Rolf Singer in the 1960s, this case represents a pivotal moment in the documented history of magic mushrooms in Europe.
+The 1799 case of the J.S. family in London's Piccadilly is the earliest conclusively identified instance of [[psychedelic-mushrooms-species-and-identification]] (Liberty Cap) intoxication in the historical record. Documented by Dr Everard Brande and later re-examined by Rolf Singer in the 1960s, this case represents a pivotal moment in the documented history of magic mushrooms in Europe.
 
 ## The Incident
 
@@ -70,7 +70,7 @@ This case is significant because:
 
 - [[liberty-cap-british-discovery-1970s]]
 
-- [[psilocybe-semilanceata-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[archaeology-of-psychedelic-mushroom-use]]
 - 1799 liberty cap discovery
 - History Of Magic Mushroom Discovery
@@ -112,5 +112,5 @@ changes.
 - [[psilocybe-semilanceata]]
 - [[rolf-singer]]
 - [[psilocybin-mushroom]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]

@@ -33,7 +33,7 @@ Some authorities have suggested that *P. venenata* may be conspecific with or cl
 
 ## Psychoactive Properties
 
-Chemical analysis of *P. venenata* collections has confirmed the presence of [[psilocybin]] and [[psilocin]]. Some analyses have also reported [[baeocystin]] and [[norbaeocystin]]. The chemical profile includes:
+Chemical analysis of *P. venenata* collections has confirmed the presence of [[psilocybin-compound]] and [[psilocin]]. Some analyses have also reported [[baeocystin]] and [[norbaeocystin]]. The chemical profile includes:
 - **Psilocybin**: 0.15% to 0.85% of dry weight (varies by collection)
 - **Psilocin**: 0.02% to 0.25% of dry weight
 - **Baeocystin**: trace to 0.1% of dry weight
@@ -78,7 +78,7 @@ The use of psychoactive mushrooms in Japan is not as well documented as in Mesoa
 - [[psilocybe-argentipes]]: Asian psilocybin mushroom
 - [[psilocybe-yungensis]]: Neotropical species with Asian distribution
 - [[psilocybe-coprophila]]: Small coprophilous species
-- [[psilocybin]]: Primary psychoactive alkaloid
+- [[psilocybin-compound]]: Primary psychoactive alkaloid
 - [[psilocin]]: Active metabolite responsible for blue bruising reaction
 - [[baeocystin]]: Secondary alkaloid detected in this species
 - [[norbaeocystin]]: Additional tryptamine alkaloid present in related species

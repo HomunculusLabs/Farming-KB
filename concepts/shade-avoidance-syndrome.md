@@ -148,4 +148,3 @@ Modern crop varieties bred for high planting densities have been selected for re
 - [[phytochrome-red-far-red-switch-and-photoperiodism]] for the molecular basis of shade detection
 - [[phytochrome-molecular-switch-mechanism]] for Pr/Pfr interconversion details
 - [[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system
-- [[plant-photoreception-and-phototropism]] for directional light responses

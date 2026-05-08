@@ -71,7 +71,7 @@ PIHKAL entry #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
 > enhancementmescalinee eyes-closed imagery to music was noteworthy.
 > Thinking skills and conversation seemed to be fully under control, if
 > not enhanced. There was none of the colorful psychedelic world of
-> [[mescaline]], but this might be just around the corner; perhaps with a
+> [[mescaline-entity]], but this might be just around the corner; perhaps with a
 > larger dose. This is a comfortable in-between level. Sleep was not
 > possible at the sixth hour, but two hours later, it was easy and very
 > restful. There was no negative price to pay the next day.

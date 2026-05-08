@@ -143,4 +143,4 @@ doses of 9 g dried mushroom per day.
 - [[ganoderma-lucidum]] — Medicinal polypore with complementary immunomodulatory compounds
 - [[agaricus-bisporus]] — Most cultivated mushroom worldwide by volume
 - [[trametes-versicolor]] — Turkey tail, source of PSP and PSK polysaccharides
-- [[boletus-edulis]] — Premium wild-foraged edible bolete of temperate forests
+- [[boletus-edulis-entity]] — Premium wild-foraged edible bolete of temperate forests

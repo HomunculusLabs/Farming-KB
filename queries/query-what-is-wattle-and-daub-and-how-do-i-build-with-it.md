@@ -142,30 +142,6 @@ It is **not suitable** for:
 ## Is Wattle and Daub Right for My Project?
 
 **Yes, if:**
-- You have or can build a timber frame
-- You want low-cost, low-carbon walls
-- You have access to clay soil and flexible branches
-- You enjoy hands-on, tactile building work
-- You're in a mild to dry climate
-
-**Consider cob instead if:**
-- You don't want to build a full timber frame
-- You want load-bearing earth walls
-- You prefer sculptural, curved architecture
-- You need maximum thermal mass
-
-**Consider light clay straw instead if:**
-- You need better insulation than earth provides
-- You want a lighter-weight wall system
-- You have abundant straw but limited clay
-
-## Further Reading
-
-- [[comparison-wattle-and-daub-vs-cob-construction]] — Full topic page with detailed technical information
-- [[comparison-wattle-and-daub-vs-cob-construction]] — How wattle and daub compares to cob
-- [[building-with-natural-materials]] — Overview of all natural building methods
-- [[building-with-natural-materials]] — Another approach to earth-based building
-
 ## See Also
 
 - [[what-natural-farming-method-should-i-use]]

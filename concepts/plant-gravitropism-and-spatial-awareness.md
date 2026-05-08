@@ -148,4 +148,3 @@ remarkable plasticity of plant growth regulation.
 - [[truffle-auxin-root-morphogenesis]]
 - polar auxin transport
 - statocytes
-- plant tropisms

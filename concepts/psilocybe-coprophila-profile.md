@@ -148,4 +148,3 @@ features and careful observation of macroscopic characteristics.
 ## See Also
 
 - [[psilocybe-aztecorum-profile]]
-- [[psilocybe-azurescens-profile]]

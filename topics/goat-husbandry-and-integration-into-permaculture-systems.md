@@ -12,7 +12,7 @@ sources: [https://www.attra.ncat.org, https://www.fao.org/dairy-production-produ
 
 Goats are among the most versatile livestock a homesteader or permaculture practitioner can integrate into their system. As ruminants with strong browsing preferences, they convert woody browse, invasive brush, and diverse forage into milk, meat, fiber, and fertility — all while performing vegetation management that would otherwise require machinery or herbicides. Their relatively small size, high reproductive rate, and adaptability to varied terrain make them particularly suited to small-scale, diversified operations.
 
-In permaculture design, goats occupy multiple functional niches: they are a **yield element** (milk, meat, fiber, breeding stock), a **maintenance element** (vegetation control, firebreak creation, nutrient cycling), and a **connective element** (linking pasture, orchard, and forest systems through rotational grazing). Understanding their biology, behavior, and management requirements is essential for successful integration.
+In [[permaculture-design-course-notes]], goats occupy multiple functional niches: they are a **yield element** (milk, meat, fiber, breeding stock), a **maintenance element** (vegetation control, firebreak creation, [[nutrient-cycling-in-soil]]), and a **connective element** (linking pasture, orchard, and forest systems through rotational grazing). Understanding their biology, behavior, and management requirements is essential for successful integration.
 
 ## Goat Breeds for Permaculture
 
@@ -83,7 +83,7 @@ Goats require protection from wind, rain, and extreme temperatures. Unlike cattl
 **Portable shelter designs for rotational grazing:**
 - Hoop houses on skids (moveable with ATV or by hand)
 - Cattle panel A-frame shelters
-- Straw bale temporary shelters (excellent cold-weather insulation)
+- [[straw-bale-construction]] temporary shelters (excellent cold-weather insulation)
 - Pallet shelters with tarp or metal roofing
 
 ### Fencing
@@ -147,7 +147,7 @@ Internal parasites — especially **Haemonchus contortus** (barber pole worm) �
 2. **Rotational grazing**: Move goats off contaminated pasture before larvae become infective (~21 days in warm weather, longer in cool).
 3. **Multi-species grazing**: Rotate cattle, horses, or sheep behind goats. Each species' parasites are host-specific.
 4. **Tannin-rich forage**: Sericea lespedeza, chicory, and bird's-foot trefoil contain condensed tannins that reduce parasite burden.
-5. **Herbal dewormers**: Wormwood, garlic, pumpkin seeds, diatomaceous earth — anecdotal support but limited clinical evidence. Use as supplements, not replacements for chemical dewormers.
+5. **Herbal dewormers**: Wormwood, garlic, pumpkin seeds, [[diatomaceous-earth-cannabis]] — anecdotal support but limited clinical evidence. Use as supplements, not replacements for chemical dewormers.
 6. **Targeted selective treatment**: Only deworm animals showing clinical signs. Preserve refugia (population of susceptible worms) to slow drug resistance.
 
 **Chemical dewormers (use strategically):**
@@ -227,7 +227,7 @@ Rotational grazing maximizes forage utilization, breaks parasite cycles, and bui
 
 Goats excel at targeted vegetation management:
 
-- **Invasive species control**: Goats readily consume multiflora rose, autumn olive, kudzu, bittersweet, Japanese honeysuckle, buckthorn, and thistle. Multi-year targeted grazing can suppress or eliminate invasives without herbicides.
+- **[[invasive-species-management]] control**: Goats readily consume multiflora rose, autumn olive, kudzu, bittersweet, Japanese honeysuckle, buckthorn, and thistle. Multi-year targeted grazing can suppress or eliminate invasives without herbicides.
 - **Firebreak maintenance**: Grazing strips through brushland reduces fuel load and creates defensible space.
 - **Forest understory management**: Goats browse understory brush without damaging mature trees when properly managed. Useful for silvopasture establishment.
 - **Orchard maintenance**: Goats clean up dropped fruit (reducing pest habitat), control groundcover, and fertilize trees. Protect tree trunks with guards to prevent bark stripping.
@@ -240,7 +240,7 @@ Goats excel at targeted vegetation management:
 
 **Goats + Fruit Trees**: Goats can graze under established fruit trees if trunks are protected. They control competing vegetation, cycle nutrients, and reduce mowing needs. Avoid grazing young trees (goats will debark saplings).
 
-**Goats + Water Systems**: Position goat shelters upslope from swales and ponds so manure and urine nutrients flow into water-harvesting earthworks. Design grazing cells around existing water features.
+**Goats + Water Systems**: Position goat shelters upslope from swales and ponds so manure and urine nutrients flow into [[water-harvesting-techniques-comparison]] earthworks. Design grazing cells around existing water features.
 
 ## Economic Considerations
 
@@ -266,7 +266,7 @@ Goats excel at targeted vegetation management:
 - **Breeding stock**: Registered doelings command premium prices ($400–$1,000+)
 - **Fiber**: Mohair $5–$12/lb raw; cashmere $40–$100/lb raw
 - **Vegetation management services**: Hire goats for brush clearing ($200–$800/day depending on herd size and acreage)
-- **Manure/compost**: Value as soil amendment; sale or on-farm use
+- **Manure/compost**: Value as [[soil-amendment-reference]]; sale or on-farm use
 
 ## Troubleshooting Common Issues
 
@@ -296,7 +296,7 @@ Symptoms: rough, faded coat (especially black goats turning reddish), poor growt
 
 ### Summer (June–August)
 - Peak forage availability; maximize grazing
-- Heat management: shade, fresh water, electrolytes in extreme heat
+- Heat management: shade, fresh water, electrolytes in [[extreme-heat-preparedness]]
 - Breeding season begins (August) — introduce bucks or plan AI
 - Wean kids at 8–12 weeks
 - Begin FAMACHA scoring and fecal egg counts regularly

@@ -88,7 +88,7 @@ No-till practices allow existing mycorrhizal networks to persist and expand rath
 ## See also
 
 - [[teaming-with-microbes-no-till-benefits]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[soil-compaction-solutions-ingham]]
 - [[teaming-with-microbes-mycorrhizal-associations]]

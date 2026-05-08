@@ -7,13 +7,13 @@ sources: []
 type: query
 ---
 
-## Can I grow oca in my climate?
+## Can I grow oca in [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]?
 
-Oca can be grown in USDA Hardiness Zones 6–10, with the best results in Zones 7–9. It thrives in maritime and cool-summer climates—Pacific Northwest, British Isles, coastal New Zealand, parts of coastal Europe, and similar areas. The limiting factor is not winter cold (tubers survive underground to -5°C) but rather having enough short days before autumn frost for tubers to develop. In Zones 3–5, oca is possible with cold frames, heavy mulching, or day-neutral varieties, but yields will be modest.
+Oca can be grown in USDA Hardiness Zones 6–10, with the best results in Zones 7–9. It thrives in maritime and cool-summer climates—[[psilocybin-north-america-pacific-northwest]], British Isles, coastal [[magic-mushrooms-australia-new-zealand]], parts of coastal Europe, and similar areas. The limiting factor is not winter cold (tubers survive underground to -5°C) but rather having enough short days before autumn frost for tubers to develop. In Zones 3–5, oca is possible with [[faires-season-extension-cold-frames]], heavy mulching, or day-neutral varieties, but yields will be modest.
 
 ## When should I plant oca?
 
-Plant oca in spring after the last expected frost, once soil temperatures reach 8–10°C. In most temperate regions this means April to mid-May. Pre-sprout tubers indoors 3–4 weeks before planting by placing them in trays of damp potting mix in a bright, cool location (10–15°C). This gives the plants a head start on the short growing season.
+Plant oca in spring after the last expected frost, once soil temperatures reach 8–10°C. In most temperate regions this means April to mid-May. Pre-sprout tubers indoors 3–4 weeks before planting by placing them in trays of damp potting mix in a bright, cool location (10–15°C). This gives the plants a head start on the short [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## How do I deal with the daylength problem?
 
@@ -131,4 +131,4 @@ Absolutely. Select your best-performing plants at harvest and set aside 10–15 
 - [[solomon-climate-zones-and-growing-seasons]]
 
 - [[comparison-oca-vs-potato]]
-- [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+- query how to grow and use oca in temperate climates

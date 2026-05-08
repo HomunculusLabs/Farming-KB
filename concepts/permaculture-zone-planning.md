@@ -90,7 +90,7 @@ In Zone 1, designers are information developers who tend intensive systems. In Z
 
 The factors that change in zone planning as distance increases include the main design purpose (from domestic sufficiency to gathering and forestry), plant establishment methods (from complete sheet mulching to soil conditioning only), pruning approaches (from intensive espalier to unpruned volunteer trees), and tree selection (from selected dwarf varieties to thinned natural regeneration).
 
-Zone planning is one of the first concepts taught in [[permaculture-design-course-notes]] and remains central to [[permaculture-design-principles-beginners]].
+Zone planning is one of the first concepts taught in [[permaculture-design-course-notes]] and remains central to [[permaculture-design-principles]].
 
 The approach can be applied at any scale, from [[urban-permaculture-design]] to [[permaculture-community-scale-design]], making it one of the most universally applicable tools in permaculture.
 

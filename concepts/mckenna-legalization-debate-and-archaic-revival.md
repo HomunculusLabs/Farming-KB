@@ -8,14 +8,13 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-
 # Legalization Debate and the Archaic Revival
 
 ## Hyperspace and the Law
 
-DMT is currently a Schedule I compound in the United States, a classification for
-drugs with no proven medical application whatsoever. Not even cocaine rates a
-Schedule I classification. Psilocybin and DMT were made Schedule I without any
+DMT is currently a Schedule I compound in the [[sacramental-ayahuasca-legal-battles-united-states]], a classification for
+drugs with no proven medical application whatsoever. Not even cocpsilocybin]] a
+Schedule I classification. [[psilocybin]] and DMT were made Schedule I without any
 scientific evidence at all being presented for or against their use. In the paranoid
 atmosphere of the late sixties, the mere fact that these compounds cause
 hallucinations was sufficient grounds for their placement in a category so restrictive
@@ -26,11 +25,11 @@ time dissection of corpses was forbidden by the Church and denounced as witchcra
 Modern anatomy was created by medical students who visited battlefields or who stole
 corpses from the gallows. To advance their knowledge of the human body, they risked
 arrest and imprisonment. Should we be any less courageous in attempting to push back
-the frontiers of the known and the possible?
+thmckenna-sugar-as-addiction-and-drug-of-the-dominatorf the known and the possible?
 
 The dominator mentality has always resisted change, almost as if it sensed the
-possibility of a kind of change that would leave it bereft of its power once and for
-all. In the phenomenon of the indole hallucinogens that prescient fear has born
+possibility of a kind of cha [[indole]] at would leave it bereft of its power once and for
+all. In the phenomenon of the indole hallucinofukuoka-ignorant-agriculture-pit-of-knowledgeescient fear has born
 bounteous fruit: nothing less than the fruit of the Tree of Knowledge. To eat it is
 to become as gods, and that will surely mean eclipse for the style of the dominators.
 
@@ -148,9 +147,3 @@ several options:
    that did not involve firearms or felonious assault.
 
 ## See Also
-
-- [[mckenna-hyperspace-and-human-freedom]] for the philosophy of psychedelic liberation
-- [[mckenna-drug-war-and-human-freedom]] for analysis of drug war politics
-- [[mckenna-archaic-revival]] for the broader concept of the Archaic Revival
-- [[mckenna-dominator-vs-partnership-society-model]] for the cultural theory
-- [[psychedelic-research-legal-history-united-states]] for legal context

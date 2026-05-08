@@ -1,5 +1,5 @@
 ---
-title: "Plumbago zeylanica"
+title: "plumbago zeylanica"
 created: 2026-04-28
 type: species
 tags:
@@ -115,7 +115,7 @@ Modern pharmacological research supports several traditional uses:
 - **Anti-inflammatory:** Plumbagin inhibits NF-κB and COX-2 pathways,
   reducing pro-inflammatory cytokine production in vitro and in vivo
 - **Antimicrobial:** Active against *Staphylococcus aureus*,
-  *Escherichia coli*, *Pseudomonas aeruginosa*, and *Candida albicans*;
+  *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[candida-albicans]]*;
   MIC values typically in the 8–64 µg/mL range
 - **Anticancer:** Plumbagin induces apoptosis in multiple cancer cell
   lines (breast, lung, colon, prostate) through ROS-mediated pathways
@@ -148,4 +148,3 @@ disease problems are documented for cultivated crops.
 
 - [[juglans-regia]] — Walnut contains juglone, a related naphthoquinone
 - [[agaritine]] — Another plant-derived compound with dose-dependent toxicity
-- [[andrographis-paniculata]] — Ayurvedic hepatoprotective herb with overlapping uses

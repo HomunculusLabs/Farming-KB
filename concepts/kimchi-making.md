@@ -113,6 +113,6 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 - Too sour — expected with long fermentation; use for cooking instead of eating fresh
 - Not fermenting — room temperature too cold, salt concentration too high, or chlorinated water
 ## See Also
-- [[pickle-making]] — lactic acid fermentation of vegetables in brine
+- pickle making — lactic acid fermentation of vegetables in brine
 - [[miso-making]] — another Asian fermented food tradition
 - [[hot-sauce-making]] — another spicy condiment with fermentation options

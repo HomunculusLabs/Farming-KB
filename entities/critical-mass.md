@@ -148,4 +148,3 @@ sources: ["domain-knowledge"]
 - [[skunk-1]] — Parent strain contributing vigor and skunky aroma
 - [[northern-lights]] — Pure indica with comparable relaxing effects
 - [[granddaddy-purple]] — Heavy indica with similar sedative and pain-relief properties
-- [[hindu-kush-cannabis-entity]] — Pure landrace indica, ancestor through Afghani parent

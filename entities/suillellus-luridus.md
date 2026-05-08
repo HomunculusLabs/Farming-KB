@@ -133,7 +133,7 @@ is a valued culinary mushroom.
 
 ## See Also
 
-- [[boletus-edulis|Boletus edulis]]
+- [[boletus-edulis-entity|Boletus edulis]]
 - [[rubroboletus-satanas|Rubroboletus satanas]]
 - Neoboletus erythropus
 - [[gyromitra-esculenta|Gyromitra esculenta]]

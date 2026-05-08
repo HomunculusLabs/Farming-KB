@@ -31,7 +31,7 @@ Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 - Soft, succulent tissue susceptible to disease and pests
 - Environmental harm: nitrogen leaching contaminates groundwater and surface water
 ### Soil Cycling
-Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[nitrogen-cycle-in-soil|Nitrogen fixation]] by [[arbuscular-mycorrhizal-fungi|mycorrhizal fungi]] and nitrogen-fixing bacteria (Rhizobia, Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
+Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[composting-and-soil-biology|Nitrogen fixation]] by [[arbuscular-mycorrhizal-fungi|mycorrhizal fungi]] and nitrogen-fixing bacteria (Rhizobia, Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
 ## Phosphorus (P)
 ### Role in Plants
 - **DNA and RNA component:** Essential for the genetic code and its translation
@@ -102,4 +102,4 @@ Released from organic material by microbial activity and weathered from gypsum r
 - [[plant-nutrient-mobility-in-soil|nutrient mobility]]
 - [[plant-micronutrient-functions|micronutrient functions]]
 - [[plant-nutrient-deficiency-guide|nutrient deficiency guide]]
-- [[nitrogen-cycle-in-soil|nitrogen cycle]]
+- [[composting-and-soil-biology|nitrogen cycle]]

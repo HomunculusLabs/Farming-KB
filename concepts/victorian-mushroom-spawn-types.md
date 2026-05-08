@@ -9,9 +9,9 @@ created: 2026-05-07
 type: concept
 ---
 
-# Victorian Mushroom Spawn Types
+# Victorian [[mushroom-spawn]] Types
 
-In the late 19th century, mushroom spawn was obtained through several distinct channels, each with unique characteristics regarding preparation, appearance, vigor, and availability. William Falconer documented these in detail in *Mushrooms: How to Grow Them* (1891), providing the most comprehensive English-language account of the spawn trade during the Victorian era.
+In the late 19th century, mushroom spawn was obtained through several distinct channels, each with unique characteristics regarding preparation, appearance, vigor, and availability. [[william-falconer]] documented these in detail in *Mushrooms: How to Grow Them* (1891), providing the most comprehensive English-language account of the spawn trade during the Victorian era.
 
 ## Overview of Spawn Categories
 
@@ -123,7 +123,7 @@ Falconer was emphatic about the importance of using fresh spawn. Given that it t
 
 ## The Spawn Trade
 
-The Victorian mushroom spawn trade was a significant commercial enterprise. Leading importers in major American cities handled thousands of pounds annually. The demand was described as "unprecedented," with some leading importers selling out their supply before November. Market growers, rather than private gardeners, drove the demand, as they had discovered there was substantial profit in mushroom cultivation.
+The Victorian mushroom spawn trade was a significant commercial enterprise. Leading importers in major American cities handled thousands of pounds annually. The demand was described as "unprecedented," with some leading importers selling out their supply before November. Market growers, rather than private gardeners, drove the demand, as they had discovered there was substantial profit in [[mushroom-cultivation]].
 
 The spawn trade was characterized by secrecy. Market growers zealously guarded their cultivation methods, and spawn makers kept their manufacturing processes confidential. This secrecy contributed to the mystique surrounding mushroom growing and made reliable information difficult to obtain for beginners.
 

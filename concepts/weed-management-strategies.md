@@ -43,7 +43,7 @@ Effective for weeds in rows and pathways. Disturbs only the top inch of soil, mi
   - **Draw hoe**: Pull toward you; good for pushing soil away from rows
   - **Stirrup hoe (oscillating hoe)**: Cuts on both push and pull strokes; most efficient for row weeding
   - **Collinear hoe**: Sharp, narrow blade; works in tight spaces between crops
-  - **Wheel hoe**: Push-pull hoe mounted on wheels; efficient for larger gardens (see [[no-till-gardening-method]])
+  - **Wheel hoe**: Push-pull hoe mounted on wheels; efficient for larger gardens (see [[composting-and-soil-biology]])
 - **Timing**: Hoe on a dry, sunny day — exposed weed roots dry out and die quickly. Hoeing in wet weather allows pulled weeds to re-root.
 - **Depth**: Cultivate no deeper than 1 inch. Deep hoeing brings new weed seeds to the surface.
 ## Mechanical Weed Control
@@ -59,7 +59,7 @@ A propane torch is used to briefly flame weeds, killing them by rupturing plant 
 Mechanical tillage destroys weeds by cutting, burying, and uprooting. However, tilling also brings buried weed seeds to the surface, creating a long-term weed management problem.
 - **Short-term**: Tilling effectively eliminates existing weeds
 - **Long-term**: Tilling increases the weed seed bank by triggering germination of buried seeds. Each tilling event germinates a new wave of weeds.
-- **In regenerative systems**: Tilling is avoided in favor of [[no-till-gardening-method]]. If tilling is used for initial bed preparation, follow immediately with heavy mulching to suppress the germinated weeds.
+- **In regenerative systems**: Tilling is avoided in favor of [[composting-and-soil-biology]]. If tilling is used for initial bed preparation, follow immediately with heavy mulching to suppress the germinated weeds.
 - **Rototiller vs. tiller**: Rototillers invert the soil, bringing the most buried seeds to the surface. Broadforks and chisel plows fracture soil without inversion — better for long-term weed management.
 ### Mowing
 Regular mowing prevents annual weeds from setting seed and gradually weakens perennial weeds by depleting their root reserves.
@@ -87,7 +87,7 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 - Best results: in hot, sunny climates with long summer days
 - Side benefit: soil nutrient availability may increase after solarization (ammonification of organic nitrogen)
 ## Sheet Mulching (Lasagna Gardening)
-Sheet mulching smothers existing vegetation and weed seeds under multiple layers of organic material. It is the primary weed-control method in [[no-till-gardening-method]] systems.
+Sheet mulching smothers existing vegetation and weed seeds under multiple layers of organic material. It is the primary weed-control method in [[composting-and-soil-biology]] systems.
 ### Layer-by-Layer Process
 1. **Mow or cut**: Cut existing vegetation to ground level. Leave cut material in place.
 2. **Cardboard layer**: Lay down overlapping pieces of uncoated cardboard (remove tape, staples, labels). Wet thoroughly. This layer blocks light and smothers existing plants.
@@ -103,7 +103,7 @@ Sheet mulching smothers existing vegetation and weed seeds under multiple layers
 - Some persistent perennial weeds (bindweed, nutsedge) may push through the cardboard
 - Takes several months for full effectiveness — not an instant solution
 - Heavy cardboard may impede water infiltration initially
-- See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems
+- See [[composting-and-soil-biology]] for integrating sheet mulching into no-till systems
 ## Preventive Strategies
 ### Mulching
 Organic mulch (straw, leaves, wood chips, compost) is the most effective long-term weed suppression strategy.

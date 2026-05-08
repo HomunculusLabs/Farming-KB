@@ -102,7 +102,7 @@ E. pachanoi is legal to grow as an ornamental in most countries. However, its cu
 
 - echinopsis peruviana (Peruvian Torch)
 - [[lophophora-williamsii]] (Peyote)
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[albert-hofmann]]
 - [[plants-of-the-gods-amanita-muscaria]] (concept page)
 - [[trichocereus-pachanoi]]

@@ -4,8 +4,8 @@ tags: [ashwagandha, rhodiola, adaptogen, medicinal-herbs, cultivation-comparison
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "Brown, R.P., Gerbarg, P.L., & Ramazanov, Z. (2002). Rhodiola rosea: A Phytomedicinal Overview. HerbalGram, 56, 40-52."
-  - "Kumar, V., et al. (2015). Cultivation of Ashwagandha (Withania somnifera Dunal): A Review. International Journal of Herbal Medicine, 3(4), 32-38."
+  - "Brown, R.P., Gerbarg, P.L., & Ramazanov, Z. (2002). [[rhodiola-rosea]]: A Phytomedicinal Overview. HerbalGram, 56, 40-52."
+  - "Kumar, V., et al. (2015). Cultivation of Ashwagandha ([[withania-somnifera]] Dunal): A Review. International Journal of Herbal Medicine, 3(4), 32-38."
   - "Panossian, A., & Wikman, G. (2010). Evidence-based efficacy of Rhodiola rosea L. extract in fatigue and stress. Phytomedicine, 17(7), 481-493."
   - "Singh, N., et al. (2011). An overview on ashwagandha. African Journal of Traditional Medicine, 8(5S), 208-213."
   - "Book: Crellin, J. & Philpott, J. (1990). Herbal Medicine: A Canadian Herbalist's Guide. NC Press."
@@ -13,15 +13,14 @@ sources:
 created: 2026-05-03
 type: comparison
 ---
-
-# Ashwagandha vs Rhodiola Cultivation
+# [[ashwagandha]] vs Rhodiola Cultivation
 
 ## Quick Comparison
 
-| Attribute | Ashwagandha (*Withania somnifera*) | Rhodiola (*Rhodiola rosea*) |
+| Attribute | Ashwagandhwithania-somniferafera*) | Rhorhodiola-roseala rosea*) |
 |---|---|---|
 | **Hardiness Zones** | 8–11 (USDA) | 1–8 (USDA) |
-| **Native Range** | Dry regions of India, North Africa, Middle East | Arctic and alpine regions of Europe, Asia, North America |
+| **Native Range** | Dry regions of India, North Africa, Middle East | Arctic and alpine regions of Eumaitake-growth-parameter-comparison-china-japan-north-americaorth America |
 | **Lifecycle** | Tender perennial (grown as annual in most climates) | Hardy perennial |
 | **Optimal Temperature** | 20–35°C (68–95°F) | 10–20°C (50–68°F) |
 | **Soil pH** | 7.0–8.5 (alkaline) | 5.0–7.0 (acidic to neutral) |
@@ -138,7 +137,7 @@ Both plants are heliophilic but with different heat tolerances. **Ashwagandha** 
 | Rocky, acidic, gravelly soil | Rhodiola | Prefers thin, acidic substrates |
 | Low-input / beginner grower | Ashwagandha | Fast cycle, forgiving of mistakes |
 | High-value niche market | Rhodiola | Supply-constrained, premium pricing |
-| Companion planting with vegetables | Neither | Ashwagandha is allelopathic; rhodiola has specific soil needs |
+| [[companion-planting]] with vegetables | Neither | Ashwagandha is allelopathic; rhodiola has specific soil needs |
 | Container cultivation | Ashwagandha | Adapted to confined root space; rhodiola needs deep drainage |
 
 ## Key Takeaway
@@ -148,8 +147,3 @@ Ashwagandha and rhodiola occupy opposite ends of the cultivation spectrum. Ashwa
 ## See Also
 
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
-
-- [[ashwagandha]]
-
-- [[comparison-shiitake-vs-oyster-cultivation]]
-- [[ashwagandha-growing-guide]]

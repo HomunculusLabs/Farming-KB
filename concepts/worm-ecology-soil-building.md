@@ -104,7 +104,7 @@ The top of the soil food web includes predators that keep populations in balance
 - Predatory mites that control pest populations
 - Ants and spiders that patrol the soil surface and upper layers
 
-This three-tiered food web ensures that no single organism dominates and that nutrients cycle efficiently through the system. See [[soil-arthropods]] and protozoa-in-soil|soil protozoa for more detail.
+This three-tiered food web ensures that no single organism dominates and that nutrients cycle efficiently through the system. See soil arthropods and protozoa-in-soil|soil protozoa for more detail.
 
 ## Humus Formation
 

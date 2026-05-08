@@ -19,9 +19,9 @@ type: concept
 
 # Clay Pellet Seed Balls
 
-**Clay pellet seed balls** (also called seed pellets or clay dumplings) are a direct-seeding technique developed by [[masanobu-fukuoka]] for use in [[natural farming]]. Seeds are encased in balls of clay and soil, which protect them from predation by birds and mice, regulate germination timing, and eliminate the need for tillage, transplanting, or nursery beds.
+**Clay pellet seed balls** (also called seed pellets or clay dumplings) are a direct-seeding technique developed by [[masanobu-fukuoka]] for use in [[natural-farming]]. Seeds are encased in balls of clay and soil, which protect them from predation by birds and mice, regulate germination timing, and eliminate the need for tillage, transplanting, or nursery beds.
 
-The technique is integral to [[no-till rice barley succession]] and has been proposed as a method for large-scale desert revegetation.
+The technique is integral to [[no-till-rice-barley-succession]] and has been proposed as a method for large-scale desert revegetation.
 
 ## Purpose and Rationale
 
@@ -115,7 +115,7 @@ The clay acts as a moisture buffer, holding water around the seed and preventing
 
 ## Influence and Legacy
 
-The clay pellet technique has been adopted and adapted by permaculture practitioners and natural farmers worldwide. It represents a practical application of the [[do-nothing farming]] philosophy, achieving through intelligent design what conventional agriculture achieves through brute force and chemical inputs.
+The clay pellet technique has been adopted and adapted by permaculture practitioners and natural farmers worldwide. It represents a practical application of the [[do-nothing-farming]] philosophy, achieving through intelligent design what conventional agriculture achieves through brute force and chemical inputs.
 
 The technique demonstrates that working with nature's own mechanisms of seed dispersal and protection can be more effective than attempting to control every variable through human intervention.
 
@@ -128,7 +128,7 @@ The technique demonstrates that working with nature's own mechanisms of seed dis
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 
 - [[masanobu-fukuoka]]
-- [[natural farming]]
-- [[no-till rice barley succession]]
-- [[desert revegetation]]
-- [[straw mulching]]
+- [[natural-farming]]
+- [[no-till-rice-barley-succession]]
+- [[desert-revegetation]]
+- [[straw-mulching]]

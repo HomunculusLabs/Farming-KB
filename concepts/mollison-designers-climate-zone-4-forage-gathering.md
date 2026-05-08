@@ -148,4 +148,3 @@ Zone 4 provides critical connectivity for wildlife movement. Mollison
 recommends maintaining continuous vegetation corridors linking Zone 5
 wilderness areas through Zone 4. These corridors support natural pest
 control by allowing predatory species to move from wild areas into managed
-zones. See [[permaculture-wildlife-corridors]] for design details. Zone 4 is also the

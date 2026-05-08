@@ -113,13 +113,13 @@ A large genus of approximately 850 species native to Australia, many with valuab
 - Plant in shelterbelts and windbreaks for multi-function barriers
 - Integrate into grazing systems as protein-rich fodder
 - Place in [[permaculture-guild-design-method|guilds]] around food-producing trees
-- Use in [[permaculture-earthworks-guide|earthworks stabilization]] on slopes and waterways
+- Use in [[permaculture-water-harvesting-earthworks|earthworks stabilization]] on slopes and waterways
 
 ## Related Concepts
 
 - [[permaculture-guild-design-method]]
 - permaculture-multi-purpose-plants
-- [[permaculture-woody-mulch-systems]]
+- [[permaculture-design]]
 - [[permaculture-tree-crop-systems]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 - [[permaculture-forestry-systems]]

@@ -7,15 +7,6 @@ tags: [chemistry, pharmacology, psychedelics, tryptamine, serotonin, mushrooms, 
 sources: [raw/papers/shulgin-a-tihkal.md]
 ---
 
-
-
-
-
-
-
-
-
-
 ## 4-HO-DMT — Psilocin and Psilocybin
 
 Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) and its phosphate ester psilocybin are the principal psychoactive alkaloids found in Psilocybe, Panaeolus, Inocybe, and Conocybe mushrooms. They were first isolated from Psilocybe mexicana by Albert Hofmann in 1958.
@@ -66,18 +57,9 @@ Shulgin noted significant uncertainties when equating the pure chemicals with th
 
 Psilocin and psilocybin are Schedule I drugs under the US Controlled Substances Act. Interestingly, no mushroom genera (Psilocybe, Panaeolus, Inocybe, Stropharia) or individual species are explicitly named in federal statute. However, since the fruiting bodies contain Schedule I substances, growing or possessing them can be treated as manufacture or distribution of controlled substances.
 
-
-
-
-
-
-
-
-
-
 ## See Also
 
-- [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-and-psilocin-chemistry]]
 
 - [[tryptamine-family-overview]]
 - [[tihkal-introduction-and-methodology]]

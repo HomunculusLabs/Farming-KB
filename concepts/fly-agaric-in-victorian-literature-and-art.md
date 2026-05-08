@@ -113,7 +113,7 @@ The Victorian ethnographic engagement with psychoactive fungi thus represents an
 - [[fly-agaric-victorian-fairy-paintings]]
 
 - [[amanita-muscaria-cultural-history]]
-- [[victorian-mycology]]
+- [[ethnomycology]]
 - [[siberian-fly-agaric-tradition]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[christmas-mushroom-symbolism]]

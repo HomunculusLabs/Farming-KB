@@ -19,7 +19,7 @@ After two to three cycles, a well-managed no-till bed requires minimal external 
 No-till cannabis cultivation borrows principles from regenerative agriculture and applies them to container and raised bed cannabis production.
 The fundamental idea is that healthy soil is a living ecosystem, and every time you disturb it through tilling, dumping, or replacing it, you set back the biological communities that drive plant health.
 The [[no-till-cannabis]] approach instead builds soil biology over multiple grow cycles, creating a system that becomes more productive and resilient over time rather than requiring constant external inputs and replacement.
-This approach aligns naturally with [[jadam-soil-management-no-till-and-weed-control]] principles and the broader [[no-till-gardening-method]] philosophy that has been validated across thousands of acres of agricultural land worldwide.
+This approach aligns naturally with [[jadam-soil-management-no-till-and-weed-control]] principles and the broader [[composting-and-soil-biology]] philosophy that has been validated across thousands of acres of agricultural land worldwide.
 For cannabis growers specifically, no-till methods pair exceptionally well with [[cannabis-knf-ffj-ripeness-progression]] and other biological input systems that support the soil food web rather than bypassing it.
 
 ### Building a Living Soil Foundation
@@ -73,7 +73,7 @@ The [[jadam-soil-surface-management-no-till]] principles can be directly applied
 The [[comparison-no-till-vs-living-soil-cannabis]] reveals that while these terms are often used interchangeably, there are subtle but important differences.
 All no-till cannabis systems use living soil biology, but not all living soil systems are no-till.
 A grower could use a living soil recipe in a single grow and then discard the soil, missing the cumulative benefits that no-till provides over multiple cycles.
-The [[no-till-gardening-method]] explains the broader agricultural principles behind this approach, including how no-till practices increase soil organic matter by 0.5 to 1 percent per year, improve water retention by up to 50 percent, and dramatically reduce erosion and nutrient runoff.
+The [[composting-and-soil-biology]] explains the broader agricultural principles behind this approach, including how no-till practices increase soil organic matter by 0.5 to 1 percent per year, improve water retention by up to 50 percent, and dramatically reduce erosion and nutrient runoff.
 
 The long-term benefits of no-till cannabis are substantial and well-documented.
 After three to five grow cycles, a well-managed no-till bed develops a crumbly, dark, rich soil structure that retains moisture beautifully and requires significantly less frequent watering.
@@ -88,7 +88,7 @@ This cumulative improvement is the hallmark of no-till cultivation and represent
 - [[cannabis-living-soil-amendment-schedule]] covers the top-dress amendments needed at each growth stage
 - Roots are left in place after harvest to decompose and feed soil biology per [[jadam-soil-management-no-till-and-weed-control]]
 - The [[comparison-no-till-vs-living-soil-cannabis]] clarifies the relationship between these related but distinct approaches
-- [[no-till-gardening-method]] explains how no-till increases organic matter and water retention over time
+- [[composting-and-soil-biology]] explains how no-till increases organic matter and water retention over time
 - Mulch layers retain moisture, suppress weeds, and continuously feed the soil food web
 - A one-inch compost top-dress between grows recharges the bed with fresh biology and organic matter
 - After three to five cycles, no-till soil develops superior structure and requires fewer external inputs

@@ -12,38 +12,37 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P., "Medicinal Mushrooms as a Source of Antitumor and Immunomodulating Polysaccharides," Applied Microbiology and Biotechnology, vol. 60, 2002.
+  - Wasser, S.P., "[[medicinal-mushrooms]] as a Source of Antitumor and Immunomodulating Polysaccharides," Applied Microbiology and Biotechnology, vol. 60, 2002.
   - Hobbs, C., "Medicinal Mushrooms: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
   - Stamets, P., "Growing Gourmet and Medicinal Mushrooms," 3rd ed., Ten Speed Press, 2000.
   - Pillai, T.G. et al., "An Updated Review of Turkey Tail Mushroom," Phytochemistry, vol. 188, 2022.
   - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its Bioactive Compounds," Molecules, vol. 25, 2020.
 type: comparison
 ---
-
-# Reishi vs Lion's Mane vs Turkey Tail
+# Reishi vs Lion's Mane vs [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
 
 ## Overview
 
-Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lion's Mane (*Hericium erinaceus*), and Turkey Tail (*Trametes versicolor*) are three of the most extensively researched and widely used medicinal mushrooms. Each has a distinct primary bioactive profile, traditional use pattern, and cultivation approach. Together they represent the three pillars of functional mushroom therapy: adaptogenic immune modulation (Reishi), neurological support (Lion's Mane), and immune activation (Turkey Tail).
+Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolorerinaceus*), and Turkey Tail (*[[trametes-versicolor]]*) are three of the most extensively researched and widely used medicinal mushrooms. Each hcho-indigenous-microorganisms-collection-and-cultivationrimary bioactive profile, traditional use pattern, and cultivation approach. Together they represent the three pillars of functional mushroom therapy: adaptogenic immune modulation (Reishi), neurological support (Lion's Mane), and immune activation (Turkey Tail).
 
 ## Species Identification
 
 | Feature | Reishi | Lion's Mane | Turkey Tail |
 |---|---|---|---|
-| **Scientific name** | *Ganoderma lingzhi* (Asian) / *G. sessile* (North American) | *Hericium erinaceus* | *Trametes versicolor* (syn. *Coriolus versicolor*) |
+| **Scientific name** | *Ganoderma lingzhi* (Asian) / *G. sessile* (North American) | *[[hericium-erinaceus]]* | *Trametes versicolor* (syn. *[[coriolus-versicolor]]*) |
 | **Order/Family** | Polyporales / Ganodermataceae | Russulales / Hericiaceae | Polyporales / Polyporaceae |
 | **Fruiting body** | Kidney-shaped, convex; lacquered red-brown surface; white pore layer underneath | Cascading white spines from a single base; sphere- or elongated-shaped; turns yellowish with age | Thin, fan-shaped bracket; concentric color zones (brown, tan, white, blue); velvety upper surface |
 | **Size** | 5–30 cm diameter; 2–10 cm thick | 5–25 cm diameter; spines 1–5 cm long | 2–10 cm diameter; 1–5 mm thick |
 | **Habitat** | Saprotrophic on dead/dying hardwood; also parasitic on living trees in Asia | Saprotrophic on dead/dying hardwood (oak, walnut, beech, maple) | Saprotrophic on dead hardwood and conifer stumps/logs worldwide |
 | **Distribution** | Temperate and subtropical Asia; cultivated globally | Temperate forests of North America, Europe, Asia; cultivated globally | Cosmopolitan; one of the most common bracket fungi worldwide |
-| **Spore print** | Brown | White to cream | White |
+| **[[spore-print]]** | Brown | White to cream | White |
 
 ## Primary Bioactive Compounds
 
 | Compound Class | Reishi | Lion's Mane | Turkey Tail |
 |---|---|---|---|
 | **Polysaccharides** | β-glucans (1,3- and 1,6-), ganoderan | β-glucans, heteroglycans | PSK (polysaccharide-K), PSP (polysaccharide-peptide), β-glucans |
-| **Triterpenoids** | Ganoderic acids (150+ identified), lucidenic acids | Hericenones (from fruiting body), erinacines (from mycelium) | Sterols (ergosterol), triterpenes (minor) |
+| **Triterpenoids** | [[ganoderic-acids]] (150+ identified), lucidenic acids | Hericenones (from fruiting body), erinacines (from mycelium) | Sterols (ergosterol), triterpenes (minor) |
 | **Other actives** | Lingzhi-8 protein, nucleotides, sterols, coumarins | Hericenones C–H, erinacines A–I | Bovinocins, phenolic compounds, flavonoids |
 | **Key mechanism** | Immunomodulation (biphasic), anti-inflammatory, hepatoprotective, adaptogenic | NGF (nerve growth factor) synthesis stimulation, neuroprotection, myelin support | Immune activation (NK cells, T-cells, macrophages), anti-tumor adjunct |
 
@@ -82,7 +81,7 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lion's Mane (*Hericium erinaceus*),
 | **Fresh air exchange** | High — conch form requires restricted FAE; antler form requires very high CO₂ | Moderate to high | Moderate; tolerant of a range |
 | **Humidity** | 85–95% | 85–95% | 80–90% |
 | **Light** | Low for antler form; moderate for conch form | Low to moderate; direct light inhibits pinning | Low to moderate |
-| **Yield (biological efficiency)** | 30–50% on sawdust | 100–150% on sawdust | 80–120% on sawdust |
+| **Yield ([[biological-efficiency]])** | 30–50% on sawdust | 100–150% on sawdust | 80–120% on sawdust |
 | **Cultivation forms** | Antler (high CO₂), conch (normal FAE), log-grown (wild form) | Standard fruiting body; also liquid culture mycelium for supplements | Primarily fruiting body; also substrate-grown blocks for extraction |
 
 ## Product Forms and Quality
@@ -147,11 +146,3 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lion's Mane (*Hericium erinaceus*),
 | **Best for** | Daily adaptogen | Cognitive support | Acute immune support |
 
 ## See Also
-
-- [[comparison-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
-
-- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]

@@ -55,7 +55,7 @@ Also documented, particularly at higher doses:
 Less commonly reported but present in some entries:
 - Can arise from confronting unresolved emotional material
 - May accompany the comedown phase
-- Some compounds (particularly [[mda-compound-profile]]) have a noted "crash" period
+- Some compounds (particularly [[ayahuasca-and-dmt-plant-medicine]]) have a noted "crash" period
 ## Cognitive Effects
 ### Altered Thinking
 - Non-linear or associative thinking patterns
@@ -108,7 +108,7 @@ One of the most consistently and enthusiastically reported effects:
 - Heavy cognitive component
 - Significant stimulant character
 - Can be overwhelming
-### MD Family ([[mda-compound-profile]], [[mdma-in-pihkal-context]])
+### MD Family ([[ayahuasca-and-dmt-plant-medicine]], [[mdma-in-pihkal-context]])
 - Emotional warmth and empathy
 - Variable visual intensity (MDA more visual than MDMA)
 - Entactogenic quality

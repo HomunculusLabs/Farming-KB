@@ -78,7 +78,7 @@ Fungi occupy diverse ecological niches and their biodegradation activities are i
 
 In the context of [[cotter-mycoremediation-overview]], understanding how fungi interact with their environment helps predict and optimize their performance in remediation applications. The ability of fungi to form extensive mycelial networks allows them to explore large volumes of soil and access pollutants that may be poorly available to bacteria.
 
-Fungi also produce a wide range of secondary metabolites, including organic acids, solvents, and surfactants, that can modify the bioavailability of contaminants and influence the activity of other microorganisms in contaminated environments. [[biosurfactants-in-bioremediation]] produced by fungi can enhance the solubilization and accessibility of hydrophobic pollutants.
+Fungi also produce a wide range of secondary metabolites, including organic acids, solvents, and surfactants, that can modify the bioavailability of contaminants and influence the activity of other microorganisms in contaminated environments. [[bioremediation-using-fungi]] produced by fungi can enhance the solubilization and accessibility of hydrophobic pollutants.
 
 ## Future Directions
 
@@ -100,4 +100,4 @@ The application of molecular tools, including [[ligninolytic-enzymes-bioremediat
 - [[cotter-mycoremediation-overview]]
 - [[fungal-ecology]]
 - [[genetic-engineering-fungal-bioremediation]]
-- [[biosurfactants-in-bioremediation]]
+- [[bioremediation-using-fungi]]

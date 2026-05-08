@@ -143,8 +143,8 @@ of low-intensity, chemical-free land management.
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[boletus-pinophilus]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[agaricus-sylvicola]]
 - [[tricholoma-portentosum]]

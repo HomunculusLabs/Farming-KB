@@ -148,4 +148,3 @@ long-term monitoring.
 - [[eric-toensmeier]] — Co-author of Edible Forest Gardens; perennial polyculture expert
 - [[mark-shepard]] — Restoration agriculture; farm-scale perennial systems
 - [[ben-falk]] — Resilient farm design; applied permaculture in Vermont
-- [[agroforestry]] — Broader practice integrating trees with agriculture

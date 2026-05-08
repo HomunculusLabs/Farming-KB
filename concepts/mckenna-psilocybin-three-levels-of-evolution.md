@@ -48,7 +48,7 @@ Perhaps the widespread need for corrective lenses among modern humans is a legac
 
 See also:
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[psilocin-and-psilocybin-chemistry]]
@@ -75,7 +75,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 ## Broader Context
 
 This analysis is part of McKenna's larger project, articulated most fully in [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.

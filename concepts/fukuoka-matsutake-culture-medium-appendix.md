@@ -148,8 +148,3 @@ defies purely scientific approaches.
 - [[fukuoka-soil-microbiology]]
 
 ## Related Topics
-
-[[fukuoka-natural-farming-principles]] provides the foundational philosophy behind Fukuoka's organic approach to cultivation.
-[[fukuoka-desert-revegetation-natural-farming]] describes the large-scale application of clay pellets inoculated with cultured microorganisms.
-[[fukuoka-nature-transcends-human-knowledge]] explores the epistemological stance that motivates Fukuoka's preference for natural over reductionist methods.
-[[fukuoka-matsutake-artificial-cultivation-attempt]] documents earlier unsuccessful efforts to cultivate matsutake by conventional laboratory means.

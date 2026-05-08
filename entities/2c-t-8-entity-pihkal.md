@@ -89,7 +89,7 @@ PIHKAL entry #44. 2,5-DIMETHOXY-4-CYCLOPROPYLMETHYLTHIOPHENETHYLAMINE.
 
 ## Extensions and Commentary
 
-With 2C-T-8, there are as many negatives as there are positives, and the particular substitution pattern is not one to set the world on fire. The first step was made towards the synthesis of the 3-carbon counterpart, 2,5-dimethoxy-4-cyclopropylmethylthioamphetamine, ALEPH-8. The above benzaldehyde (2.2 g) was cooked overnight on the steam bath in nitroethane (20 mL) containing ammonium acetate (0[[mescaline]] when the solvent was removed, the residue was converted to orange crystals by the addition of a little MeOH. This was not pursued further. Although the cyclopropylmethyl group was quite something on the mescaline oxygen atom, it is less appealing on the 2C-T-X sulfur atom, and there is even less enthusiasm to put it into an ALEPH. That's the
+With 2C-T-8, there are as many negatives as there are positives, and the particular substitution pattern is not one to set the world on fire. The first step was made towards the synthesis of the 3-carbon counterpart, 2,5-dimethoxy-4-cyclopropylmethylthioamphetamine, ALEPH-8. The above benzaldehyde (2.2 g) was cooked overnight on the steam bath in nitroethane (20 mL) containing ammonium acetate (0[[mescaline-entity]] when the solvent was removed, the residue was converted to orange crystals by the addition of a little MeOH. This was not pursued further. Although the cyclopropylmethyl group was quite something on the mescaline oxygen atom, it is less appealing on the 2C-T-X sulfur atom, and there is even less enthusiasm to put it into an ALEPH. That's the
 
 way it is, and who could have guessed!
 

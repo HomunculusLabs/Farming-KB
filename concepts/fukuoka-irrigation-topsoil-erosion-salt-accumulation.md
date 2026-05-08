@@ -133,51 +133,13 @@ When the soil gives out and fields are abandoned by ranchers, fruit growers move
 in, set up sprinklers on the weary land, spread chemical fertilizers, and grow
 plums, apricots, and oranges. This is no longer crop production under natural
 conditions; it is farming based on petroleum energy. Even the water, although
-sometimes drawn from nearby sources, is often piped in from hundreds of miles
-away. The continuous deposition of salt in the topsoil eventually turns the
-irrigated land into a salt field.
-
-## The Negative Cycle
-
-The application of modern farming methods further aggravates the problem,
-creating a negative cycle. In America, land is irrigated with sprinklers and
-forage crops grown there. These crops are nourished with chemical fertilizers,
-then harvested using large combines, and exported throughout the world as cattle
-feed. The livestock raised in Japan is not fattened on Japanese feed but on
-American exports.
-The soil has been pulverized by large tractors and the organic matter consumed
-and exhausted. Few microbes exist in the soil, and when there is rainfall, the
-topsoil washes away at an alarming rate. The modern farming system amounts to
-what Fukuoka called agriculture run amok: an arrangement that depletes the very
-foundation upon which it depends.
-
-## Fukuoka's Alternative
-
-Fukuoka's natural farming approach stands in direct opposition to this system.
-By maintaining permanent ground cover, eliminating tillage, and avoiding
-irrigation where possible, his methods build soil rather than deplete it. His
-observation that the soil at field corners, untouched by machines, remained rich
-suggested that the simplest path to soil restoration was simply to stop
-destroying it through mechanical and chemical intervention. The lesson from his
-American observations was clear: a farming system that destroys its own
-foundation cannot sustain itself indefinitely, regardless of how much petroleum
-energy is applied to prop it up.
-One night, beneath the stars at a commune in the Upper Lake hills of California,
-an excellent method for overcoming the problem of the solid cover of yellow
-foxtail grass suddenly occurred to him. California's summer grasses had not
-withered at all; they were simply summer-dormant. They had to be awakened from
-their dormancy. He became convinced that the ambitious idea of blanketing the
-scorching Californian sands with green vegetation was more than just an idle
-dream, and he pledged with the young people at the camp to turn California into
-a lush, green land and make the rains fall there once more.
-
 ## See Also
 
-- [[fukuoka-textdoc-imitation-cannot-outclass-original-persimmon-seed]]
-- [[fukuoka-textdoc-sword-fighting-analogy-three-ways-farming]]
-- [[fukuoka-textdoc-kitchen-knife-two-edged-sword-zen-food-culture]]
-- [[fukuoka-textdoc-scientific-farming-deformed-fruit-distortion-incompleteness]]
-- [[fukuoka-textdoc-scientists-meet-limits-soil-science-no-tillage]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-desert-cause-vegetation]] for Fukuoka on vegetation and desertification
 - [[fukuoka-deficit-farming]] for the deficit farming concept

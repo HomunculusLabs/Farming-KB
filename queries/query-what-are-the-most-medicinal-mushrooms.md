@@ -34,7 +34,7 @@ mushroom, scientifically known as [[trametes-versicolor]]. This bracket fungus
 is rich in polysaccharopeptides, particularly PSK (polysaccharide-K) and PSP
 (polysaccharopeptide), which have demonstrated significant immune-modulating and
 anti-tumor properties. Research compiled under
-[[turkey-tail-mushroom-cancer-research]] shows that PSK is approved as an
+[[mushroom-cultivation-fundamentals]] shows that PSK is approved as an
 adjuvant cancer therapy in Japan, where it is prescribed alongside standard
 treatments to improve survival rates in gastric and colorectal cancers. The
 [[turkey-tail-research-psk]] page details how PSK works by activating natural
@@ -145,7 +145,6 @@ mycological community.
 ## Related Questions
 
 - [[medicinal-mushrooms]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[beta-glucans]]
 - [[antiviral-properties-of-mushrooms]]
-- [[ahcc-active-hexose-correlated-compound]]

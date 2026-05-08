@@ -122,4 +122,4 @@ rich amendments or nutrient solutions.
 - [[cervantes-ph-management-testing]]
 - [[cervantes-organic-mineral-amendments]]
 - [[cervantes-nutrient-management]]
-- [[cervantes-water-quality-management]]
+- [[cannabis-advanced-growing-techniques]]

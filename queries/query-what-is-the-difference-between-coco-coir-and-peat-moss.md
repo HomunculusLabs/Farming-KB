@@ -55,7 +55,7 @@ For growers focused on cannabis-specific media blends, the [[perlite-cannabis]] 
 
 Environmental impact is where the most significant difference lies between these two growing media. Peat bogs are critical carbon sinks, and harvesting peat releases stored carbon dioxide into the atmosphere. Peat bogs also take thousands of years to form, making peat moss effectively a non-renewable resource on human timescales.
 
-This has led to a growing movement toward [[peat-free-gardening]], with many countries and regions regulating or phasing out peat sales entirely. The United Kingdom, for example, has set targets to eliminate peat from amateur gardening by 2024 and from professional horticulture by 2030.
+This has led to a growing movement toward peat free gardening, with many countries and regions regulating or phasing out peat sales entirely. The United Kingdom, for example, has set targets to eliminate peat from amateur gardening by 2024 and from professional horticulture by 2030.
 
 Coco coir, as an agricultural byproduct, is widely considered a more sustainable option, though it is not without its own set of concerns. Some coir products require extensive washing to remove residual salts from processing, and shipping coconut products across the globe carries its own carbon footprint.
 
@@ -86,7 +86,7 @@ For home gardeners and small-scale growers, this means coir is likely to become 
 ## Key Points
 
 - Coco coir is a renewable coconut byproduct with a near-neutral pH, while peat moss is harvested from ancient bogs and is highly acidic. See [[comparison-coco-coir-vs-peat]] for a detailed comparison.
-- Peat moss is essentially non-renewable, and its extraction releases significant stored carbon, driving the [[peat-free-gardening]] movement worldwide.
+- Peat moss is essentially non-renewable, and its extraction releases significant stored carbon, driving the peat free gardening movement worldwide.
 - Coco coir re-wets easily after drying, while peat moss can become hydrophobic and resist rehydration once fully dried out.
 - Both media benefit from aeration amendments like perlite and vermiculite, as described in [[cervantes-soil-amendments-perlite-vermiculite-pumice]] and the [[soil-amendment-reference]].
 - Cannabis growers increasingly favor coco coir for its drainage properties and compatibility with liquid nutrient feeding schedules. See [[coco-coir-cannabis]] for more.
@@ -97,7 +97,7 @@ For home gardeners and small-scale growers, this means coir is likely to become 
 
 - [[comparison-coco-coir-vs-peat]]
 - [[hamilton-peat-free-gardening-and-alternatives]]
-- [[peat-free-gardening]]
+- peat free gardening
 - [[coco-coir-cannabis]]
 - [[soil-amendment-reference]]
 - [[perlite-cannabis]]

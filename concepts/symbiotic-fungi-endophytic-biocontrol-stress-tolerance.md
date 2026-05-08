@@ -69,7 +69,7 @@ Endophytes can influence plant growth through production of plant hormones:
 - **Cytokinins**: Promote cell division and delay senescence
 - **Ethylene modulation**: Some endophytes produce ACC deaminase, reducing stress ethylene levels
 
-See also: [[nutrient-retention-soil-food-web]], [[fungal-enzymatic-capabilities]]
+See also: [[composting-and-soil-biology]], [[fungal-enzymatic-capabilities]]
 
 ### Enhanced Photosynthesis
 
@@ -93,7 +93,7 @@ Notable examples:
 - Muscodor albus: Produces volatile organic compounds that kill a broad spectrum of microorganisms
 - Various endophytic Fusarium species: Produce antibiotics and lytic enzymes
 
-See also: [[singh-fungal-plant-growth-regulators-production]], [[fungal-enzymatic-capabilities]], [[mycopesticides-fungal-biocontrol]]
+See also: [[singh-fungal-plant-growth-regulators-production]], [[fungal-enzymatic-capabilities]], [[mushroom-cultivation-fundamentals]]
 
 ### Induced Systemic Resistance
 

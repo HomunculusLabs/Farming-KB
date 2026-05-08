@@ -148,4 +148,3 @@ and intangible values that far exceed short-term yield maximization.
   through root observation
 - [[fukuoka-orchard-cover-crop-black-wattle-system]] for natural approaches
   to soil building through cover crops
-- [[mollison-pdc-sheet-mulching-versus-composting]] for [[permaculture]] soil

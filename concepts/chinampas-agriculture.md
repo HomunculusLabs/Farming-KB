@@ -148,4 +148,3 @@ and produce additional harvests.
 - [[water-garden-and-ponds]]
 - [[swale-design-construction]]
 - [[aquatic-polyculture-design-mollison]]
-- [[tropical-permaculture-guide]]

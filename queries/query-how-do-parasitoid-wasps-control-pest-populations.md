@@ -12,7 +12,7 @@ type: query
 
 ## TL;DR
 
-[[parasitoid wasps and biological [[organic-pest-and-disease-management|pest control]]|Parasitoid wasps]] are among the most effective natural enemies of agricultural pests. They locate specific host insects, lay their eggs inside or on them, and the developing wasp larvae consume the host from within — ultimately killing it. Because they reproduce faster than their hosts and can track pest population surges, they provide self-sustaining, long-term suppression of pest numbers without the ecological damage caused by broad-spectrum insecticides.
+[[parasitoid-wasps-and-biological-[[organic-pest-and-disease-management|pest control]]|Parasitoid wasps]] are among the most effective natural enemies of agricultural pests. They locate specific host insects, lay their eggs inside or on them, and the developing wasp larvae consume the host from within — ultimately killing it. Because they reproduce faster than their hosts and can track pest population surges, they provide self-sustaining, long-term suppression of pest numbers without the ecological damage caused by broad-spectrum insecticides.
 
 ## How Do Parasitoid Wasps Find Their Hosts?
 
@@ -86,7 +86,7 @@ Most parasitoid wasps have **shorter generation times** than their hosts. A typi
 
 ### Population Cycles
 
-In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within [[integrated pest management]] frameworks, the goal is to keep both cycles at low amplitudes so that pest numbers remain below economic thresholds.
+In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within [[integrated-pest-management]] frameworks, the goal is to keep both cycles at low amplitudes so that pest numbers remain below economic thresholds.
 
 ## Examples of Successful Biological Control
 
@@ -119,7 +119,7 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 ### Avoiding Harmful Insecticides
 
 - **Broad-spectrum insecticides** (pyrethroids, organophosphates, neonicotinoids) are highly toxic to parasitoid wasps at field-realistic concentrations.
-- **Selective products**: If insecticide use is necessary, choose products with low toxicity to [[[[beneficial-insects-pollinators|beneficial insects]]]] (e.g., *Bacillus thuringiensis* for caterpillar control).
+- **Selective products**: If insecticide use is necessary, choose products with low toxicity to [[[beneficial-insects-pollinators|beneficial insects]]]] (e.g., *Bacillus thuringiensis* for caterpillar control).
 - **Timing sprays**: If you must spray, do so before releasing wasps and allow sufficient residue breakdown (check product-specific pre-release intervals).
 
 ### Ordering from Insectaries
@@ -135,22 +135,11 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 **False.** The vast majority of parasitoid wasps are far too small to sting humans, and their ovipositors are adapted for piercing insect cuticle, not vertebrate skin. Even larger species like the pimpline ichneumonids are not aggressive toward people. Parasitoid wasps are among the most harmless-to-humans insects in existence.
 
 ### "They'll become pests themselves"
-
-**False.** Parasitoid wasps are **highly host-specific**. Most species attack only a single genus or even a single species of insect. They cannot reproduce without their specific host and cannot switch to attacking non-target organisms. Classical biological control programs rigorously test host specificity before any release.
-
-### "Chemical control is always faster"
-
-**Not necessarily.** While chemical insecticides can produce rapid knockdown of visible pests, they often fail to reach protected life stages and do not provide residual control without repeated applications. Parasitoid wasps actively seek out hidden hosts and provide self-sustaining suppression. In many crops, biological control programs achieve comparable or superior pest suppression with lower costs over the growing season.
-
-### "You have to choose between biological control and chemical control"
-
-**False.** The core philosophy of [[integrated pest management]] is to combine compatible methods. Selective insecticides, careful timing, and habitat management can all coexist with parasitoid wasp populations. The goal is not to eliminate all chemical use but to reserve it for situations where biological control alone is insufficient.
-
 ## See Also
 
-- [[parasitoid wasps and biological pest control]]
-- [[beneficial insects]]
-- [[integrated pest management]]
+- [[parasitoid-wasps-and-biological-pest-control]]
+- [[beneficial-insects]]
+- [[integrated-pest-management]]
 - insectary plants
 - Trichogramma wasps
 - Encarsia formosa

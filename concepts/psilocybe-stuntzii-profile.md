@@ -97,5 +97,5 @@ Despite widespread usage in the Pacific Northwest, no fatalities or serious phys
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Another major Pacific Northwest bluing species
 - [[psilocybe-pelliculosa-profile]] -- Wood-inhabiting lookalike
 - [[panaeolus-subbalteatus-profile]] -- Regionally important alternative
-- [[psilocybin-mushroom-cultivation-basics]] -- Cultivation techniques
+- [[mushroom-cultivation-fundamentals]] -- Cultivation techniques
 - [[psilocybin-north-america-pacific-northwest]] -- Regional overview

@@ -98,7 +98,7 @@ The naming system thus follows the Muni-Metro letter designations for the alpha-
 
 METHYL-J occupies a position in the systematic exploration of alpha-alkyl chain extension from the MDA/MDMA scaffold.
 
-[[mda-entity]] has an alpha-methyl group (the original compound).
+[[mda]] has an alpha-methyl group (the original compound).
 
 j (BDB) has an alpha-ethyl group (one carbon longer).
 
@@ -132,7 +132,7 @@ Supplementation with 50-70 mg at approximately 2 hours is effective.
 
 [[mdma-entity]]
 
-[[mda-entity]]
+[[mda]]
 
 j
 

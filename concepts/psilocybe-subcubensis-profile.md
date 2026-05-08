@@ -148,4 +148,3 @@ practical purposes in the field, the two species are treated
 - [[psilocybe-subcubensis]]
 
 - [[psilocybe-aztecorum-profile]]
-- [[psilocybe-azurescens-profile]]

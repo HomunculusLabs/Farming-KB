@@ -17,7 +17,7 @@ type: concept
 # Psilocybin Mushroom Cultivation Compost Basics
 
 F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom* included a
-foundational overview of [[psilocybin-mushroom-cultivation-basics]] techniques, focusing on [[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described horse manure compost
+foundational overview of [[mushroom-cultivation-fundamentals]] techniques, focusing on [[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described horse manure compost
 preparation, spawn production, and bed management -- representing one of the
 earliest published practical cultivation instructions in the underground
 psychedelic literature.
@@ -132,7 +132,7 @@ and Paul Stamets.
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psilocybin-cultivation]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 - psilocybin-mycelium-lifecycle-grain-manure

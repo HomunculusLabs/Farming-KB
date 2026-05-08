@@ -92,7 +92,7 @@ While Harner does not address it directly in this work, the use of *Amanita musc
 
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[ethnomycology]]
 - [[harner-shamanic-journey-and-altered-states]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]

@@ -114,7 +114,7 @@ When failure consequences are high, conservative assumptions are paired with ins
 
 ## Related Concepts
 Fatigue crack growth complements S-N curves by focusing on crack size rather than only cycles to failure.
-It is linked to [[fracture-mechanics-engineering-materials]], [[creep-deformation-high-temperature-materials]], [[phase-diagrams-and-phase-transformations]], and [[finite-element-method]].
+It is linked to [[fracture-mechanics-engineering-materials]], creep deformation high temperature materials, [[phase-diagrams-and-phase-transformations]], and [[finite-element-method]].
 It also informs nondestructive evaluation, maintenance scheduling, reliability assessment, and forensic failure analysis.
 Understanding the topic explains why apparently small surface defects can control the lifetime of large machines.
 

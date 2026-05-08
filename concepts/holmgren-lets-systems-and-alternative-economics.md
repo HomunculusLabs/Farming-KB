@@ -120,4 +120,4 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 
 - [[plant-hormones-and-chemical-signaling-systems]]
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

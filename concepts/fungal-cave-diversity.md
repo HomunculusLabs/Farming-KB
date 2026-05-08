@@ -18,7 +18,7 @@ Caves provide stable environments with constant temperature approximating the me
 
 Different cave zones, from entrance areas with some light to deep zones in perpetual darkness, support distinct fungal communities. Air currents, water flow patterns, and mineralogy create additional habitat variation within caves.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[fungal-environmental-sensing]]
 
 ## Oligotrophic Cave Fungi
 
@@ -102,7 +102,7 @@ Cave management practices can directly affect fungal communities in several ways
 
 White-nose syndrome, caused by the fungus *Pseudogymnoascus destructans*, dramatically illustrates the vulnerability of cave ecosystems to fungal disturbance. While this pathogen primarily affects hibernating bats, its introduction to North American caves from Eurasia demonstrates how easily cave microbial communities can be disrupted by novel organisms introduced through human activity.
 
-[[fungal-conservation-strategies]] [[mycorrhizal-fungi]]
+[[ethnomycology]] [[mycorrhizal-fungi]]
 
 ## Research Needs
 

@@ -139,7 +139,7 @@ Moving toward bioregional organization requires:
 - [[bioregional-organization]]
 - [[permaculture-community-resilience-strategies]]
 - [[permaculture-principles]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[holmgren-permaculture-change-principle]]
 - [[lichens-primary-production-soil-formation-dighton]]

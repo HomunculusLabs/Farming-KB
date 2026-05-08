@@ -112,7 +112,7 @@ The contrast between psilocybin mushrooms (which McKenna celebrates) and sugar, 
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## Contemporary Relevance
 

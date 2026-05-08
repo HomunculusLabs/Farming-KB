@@ -148,4 +148,3 @@ needs in temperate climates, reducing or eliminating fossil fuel
 dependence. Mollison views passive solar design as inseparable from
 [[permaculture-design]] -- it requires no ongoing energy input,
 relies on observation and understanding of natural cycles, and creates
-buildings that work with rather than against their environment.

@@ -114,7 +114,7 @@ Bioethanol production from sweet potato typically yields 80–120 liters per ton
 - [[manihot-esculenta]]
 - [[colocasia-esculenta]]
 - [[taraxacum-officinale]]
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - [[medicago-sativa]]
 - [[trifolium-pratense]]
 - [[hugelkultur]]

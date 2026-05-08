@@ -55,7 +55,7 @@ Acorn flour has a rich, nutty flavor similar to chestnut flour. It can be used i
 
 ## Permaculture Design Role
 
-Oaks are keystone species in temperate [[permaculture-design-principles-beginners]], supporting more life forms than almost any other tree genus. They function as [[permaculture-wildlife-corridors]] dynamic accumulators, drawing minerals from deep soil layers. Their dropping leaves create rich leaf mold that builds soil organic matter. In [[permaculture-fruit-tree-guide]] design, oaks provide wind protection and create microclimates for more sensitive understory species. Their long lifespan means they serve as permanent infrastructure in food forest systems, persisting for centuries.
+Oaks are keystone species in temperate [[permaculture-design-principles]], supporting more life forms than almost any other tree genus. They function as [[permaculture-wildlife-corridors]] dynamic accumulators, drawing minerals from deep soil layers. Their dropping leaves create rich leaf mold that builds soil organic matter. In [[permaculture-fruit-tree-guide]] design, oaks provide wind protection and create microclimates for more sensitive understory species. Their long lifespan means they serve as permanent infrastructure in food forest systems, persisting for centuries.
 
 ## Pests and Diseases
 

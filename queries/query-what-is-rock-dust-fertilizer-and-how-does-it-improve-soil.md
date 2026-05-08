@@ -59,7 +59,7 @@ three primary macronutrients, plants require dozens of micronutrients for optima
 including zinc, copper, manganese, boron, cobalt, and molybdenum. Deficiencies in these
 trace elements can lead to poor growth, disease susceptibility, and reduced nutritional
 quality of harvested crops. Rock dust addresses this gap comprehensively, as explored in
-[[trace-elements-in-soil]]. A single application can provide a slow-release source of
+[[composting-and-soil-biology]]. A single application can provide a slow-release source of
 these minerals for several years.
 
 ### Synergy with Biochar
@@ -113,7 +113,7 @@ colder months can begin breaking it down before the main growing season.
   (70+ trace minerals), and glacial rock dust (diverse mineral mix)
 - It replenishes trace elements like zinc, copper, manganese, and boron that NPK
   fertilizers do not provide, supporting comprehensive plant nutrition as covered in
-  [[trace-elements-in-soil]]
+  [[composting-and-soil-biology]]
 - Rock dust works best when combined with organic matter like compost and paired with
   amendments like [[biochar-soil-amendment]] that help retain released minerals
 - Apply at 10 to 20 pounds per 100 square feet for garden beds; benefits accumulate over

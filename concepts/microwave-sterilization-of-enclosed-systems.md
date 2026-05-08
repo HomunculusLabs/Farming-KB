@@ -140,6 +140,6 @@ applications.
 
 ## See Also
 
-- [[microwave-surface-sterilization]] for the core technology
+- microwave-surface-sterilization for the core technology
 - [[microwave-sterilizable-access-port]] for the engineered system using this capability
 - [[trace-water-enhanced-microwave-sterilization]] for the steam generation mechanism

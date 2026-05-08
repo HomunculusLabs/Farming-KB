@@ -134,7 +134,7 @@ Moso bamboo prefers well-drained, loamy to sandy loam soils (pH 5.0–7.0) with 
 - [[inga-edulis]]
 - [[boletus-edulis-entity]]
 
-- [[bamboo-species-guide|Bamboo]] — general bamboo overview
+- Bamboo — general bamboo overview
 - [[biochar|Biochar]] — bamboo-derived soil amendment
 - [[food-forest-permaculture|Food Forest]] — integration into agroforestry systems
 - [[tagasaste|Tagasaste]] — complementary fast-growing multipurpose plant

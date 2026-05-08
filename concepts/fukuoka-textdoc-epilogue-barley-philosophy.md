@@ -138,24 +138,12 @@ The epilogue ends with Fukuoka's vision of his farm in spring:
 
 The young people who come from the cities live in crude huts among chickens and goats, and gather around the sunken hearth to talk and laugh loudly.
 
-This image of community, simplicity, and natural abundance is Fukuoka's final answer to the complexity and alienation of modern civilization.
-
-## Greening the Deserts Vision
-
-In the appendix, Fukuoka extended this vision to the global scale with his "Greening the Deserts" initiative.
-
-The core principle is that "nature always returns to its former state."
-
-He envisioned not the creation of green oases through artificial irrigation, but "the return of entire deserts to their former state as earthly paradises."
-
-This proposal — sowing clay pellets containing seeds of desert-appropriate plants across arid landscapes — represented Fukuoka's belief that even the most extreme environmental degradation could be reversed through natural methods, provided humanity was willing to step back and allow nature to heal itself.
-
 ## See Also
 
 - [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
-- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
 
 - [[natural-farming]]

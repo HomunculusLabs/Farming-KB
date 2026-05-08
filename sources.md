@@ -1,8 +1,8 @@
 # Source Catalog — Farming KB
 
-**Last updated:** 2026-05-05
-**Total raw sources:** 151
-**Total raw text:** 55.7MB (1,037,829 lines)
+**Last updated:** 2026-05-07
+**Total raw sources:** 155
+**Total raw text:** 56.6MB (1,051,007 lines)
 **Total wiki pages:** 12,581
 
 ## Page Inventory

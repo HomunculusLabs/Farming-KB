@@ -138,7 +138,7 @@ Spore printing and syringe preparation close the [[psilocybe-cubensis]] cultivat
 3. Syringes are used to inoculate new [[pf-tek]] substrate jars
 4. Colonised jars produce new fruiting bodies, completing the cycle
 
-This approach, using mass [[spore inoculation]] directly to the fruiting substrate rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
+This approach, using mass [[spore-inoculation]] directly to the fruiting substrate rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
 
 ## Related Topics
 
@@ -147,7 +147,3 @@ This approach, using mass [[spore inoculation]] directly to the fruiting substra
 - [[pf-tek-maximum-fruiting-substrate-formula|pf-substrate-formula]]
 - [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-mushroom-growth-timeline]]
-
-## See Also
-
-- [[pf-tek-brown-rice-flour-freshness-and-preparation]]

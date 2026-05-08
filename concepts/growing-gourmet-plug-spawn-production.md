@@ -31,7 +31,7 @@ evolved. When an oak stump is inoculated with plug spawn of
 several mushroom species, the stump becomes a platform for
 producing multiple species of gourmet and medicinal mushrooms over
 several years. This method is especially useful for the outdoor
-cultivation of [[growing-gourmet-shiitake-cultivation]],
+cultivation of [[shiitake-mushroom-cultivation-and-medicinal-properties]],
 [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]],
 [[growing-gourmet-reishi-cultivation]], and [[growing-gourmet-maitake-cultivation]].
 
@@ -59,7 +59,7 @@ enzymes and acids to break down the proposed food source. Once
 acclimated, the mycelium carries a genetic memory of the end
 substrate to which it is destined.
 
-For [[growing-gourmet-shiitake-cultivation]], [[growing-gourmet-enoki-cultivation]],
+For [[shiitake-mushroom-cultivation-and-medicinal-properties]], [[growing-gourmet-enoki-cultivation]],
 [[growing-gourmet-maitake-cultivation]], and [[growing-gourmet-reishi-cultivation]], the mycelium can be
 acquainted with the host substrate by introducing to the media a
 1-2 gram sample of the sawdust directly into the liquid
@@ -130,6 +130,6 @@ slowing its rate of decline.
 - growing gourmet plug spawn production
 - [[growing-gourmet-grain-spawn-generation]]
 - [[growing-gourmet-substrate-materials-wood-types]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-natural-culture-myco-landscaping]]
 - [[growing-gourmet-basidium-spore-production]]

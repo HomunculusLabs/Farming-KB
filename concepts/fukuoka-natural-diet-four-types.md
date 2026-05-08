@@ -92,7 +92,7 @@ The character of food lies neither exclusively in itself nor in man. Only when f
 
 - [[fukuoka-critique-western-dietetics]]
 
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[natural-farming-food-philosophy]]
 

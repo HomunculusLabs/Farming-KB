@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Galerina steglichii
 
-*Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocybin]] and [[psilocin]]. It is one of only a handful of Galerina species found to contain psychoactive indole alkaloids, making it a scientifically noteworthy but potentially dangerous species. The genus Galerina is primarily notorious for containing deadly poisonous species that produce amatoxins, the same toxins found in [[amanita-phalloides-death-cap]] (the death cap). This dual identity — some species hallucinogenic, others lethal — makes Galerina one of the most important genera for foragers and mycologists to understand thoroughly.
+*Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocybin-compound]] and [[psilocin]]. It is one of only a handful of Galerina species found to contain psychoactive indole alkaloids, making it a scientifically noteworthy but potentially dangerous species. The genus Galerina is primarily notorious for containing deadly poisonous species that produce amatoxins, the same toxins found in [[amanita-phalloides-death-cap]] (the death cap). This dual identity — some species hallucinogenic, others lethal — makes Galerina one of the most important genera for foragers and mycologists to understand thoroughly.
 
 ## Taxonomy and Classification
 
@@ -47,10 +47,10 @@ Due to its rarity and inconspicuous appearance, G. steglichii is likely undercol
 
 ## Chemistry and Bioactive Compounds
 
-Galerina steglichii is notable for being one of the few Galerina species confirmed to contain [[psilocybin]] and [[psilocin]] rather than the deadly amatoxins characteristic of most other species in the genus. This chemical distinction is critically important:
+Galerina steglichii is notable for being one of the few Galerina species confirmed to contain [[psilocybin-compound]] and [[psilocin]] rather than the deadly amatoxins characteristic of most other species in the genus. This chemical distinction is critically important:
 
 **Psychoactive compounds detected:**
-- [[psilocybin]] — the phosphorylated prodrug that is converted to psilocin in the body
+- [[psilocybin-compound]] — the phosphorylated prodrug that is converted to psilocin in the body
 - [[psilocin]] — the active psychoactive compound, a serotonin 5-HT2A receptor agonist
 
 **Toxic compounds NOT detected:**
@@ -121,12 +121,12 @@ Galerina steglichii is an autumn-fruiting species in temperate regions, typicall
 
 ## Legal Status
 
-Galerina steglichii is not specifically regulated. However, its content of [[psilocybin]] could subject it to the same legal restrictions as other psilocybin-containing fungi in jurisdictions where such laws apply. Given the extreme danger of misidentification with amatoxin-containing species, possession for consumption purposes would be exceptionally ill-advised regardless of legal status.
+Galerina steglichii is not specifically regulated. However, its content of [[psilocybin-compound]] could subject it to the same legal restrictions as other psilocybin-containing fungi in jurisdictions where such laws apply. Given the extreme danger of misidentification with amatoxin-containing species, possession for consumption purposes would be exceptionally ill-advised regardless of legal status.
 
 ## See Also
 
 - [[galerina-autumnalis]] — the deadly funeral bell, containing lethal amatoxins
-- [[psilocybin]] — the psychoactive compound found in G. steglichii
+- [[psilocybin-compound]] — the psychoactive compound found in G. steglichii
 - amatoxins — the deadly hepatotoxins found in other Galerina species
 - [[psilocybe-cyanescens]] — a wood-inhabiting psilocybin species with a similar brown appearance
 - [[conocybe-cyanopus]] — another psilocybin-containing genus with small brown mushrooms

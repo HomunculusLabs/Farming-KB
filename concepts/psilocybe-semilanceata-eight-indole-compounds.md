@@ -123,7 +123,7 @@ The concept that the full complement of indole compounds produces effects superi
 
 ## See Also
 
-- [[psilocybe-semilanceata-profile]] -- Full species profile
+- [[psychedelic-mushrooms-species-and-identification]] -- Full species profile
 - [[psilocin-and-psilocybin-chemistry]] -- Primary compound
 - [[psilocin-and-psilocybin-chemistry]] -- Active metabolite
 - Baeocystin chemistry and pharmacology -- Key secondary compound

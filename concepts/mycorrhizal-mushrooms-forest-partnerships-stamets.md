@@ -27,7 +27,7 @@ Ectomycorrhizal fungi form exterior sheaths around the roots of partner plants:
 - Surface area of [[mycorrhizal-fungi]] may be **10 to 100 times greater** than the surface area of leaves in a forest
 - The mycelium brings distant nutrients and moisture to the host plant
 - The plant provides sugars (mostly hexoses) that the fungi convert to mannitols, arabitols, and erythritols
-- Major ectomycorrhizal mushrooms include matsutake, porcini ([[boletus-edulis]]), chanterelles, and truffles
+- Major ectomycorrhizal mushrooms include matsutake, porcini ([[boletus-edulis-entity]]), chanterelles, and truffles
 
 ### Endomycorrhizal (Arbuscular) Associations
 

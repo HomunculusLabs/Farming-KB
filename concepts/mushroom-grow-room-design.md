@@ -148,4 +148,3 @@ A basic grow room setup can be assembled for $100-300:
 - [[bulk-substrate-preparation]] — substrate considerations for the grow room
 - [[agar-culture-and-isolation]]
 - [[grain-spawn-preparation]]
-- [[fruiting-body-development]]

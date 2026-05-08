@@ -63,7 +63,7 @@ Fish hydrolysate contributes bioactive compounds from a different angle:
 
 - **Free amino acids** — directly absorbed by roots and foliage, reducing the plant's energy cost for nitrogen assimilation
 - **Peptides** — signaling molecules that can trigger plant defense responses
-- **Omega-3 fatty acids and fish oils** — support beneficial soil microorganisms, especially mycorrhizal fungi
+- **Omega-3 fatty acids and fish oils** — support beneficial soil microorganisms, especially [[mycorrhizal-fungi]]
 - **B-vitamins** (B1, B12) — found in cold-processed hydrolysates, support plant metabolism
 - **Chitin traces** (from shellfish bycatch) — can stimulate plant immune responses
 
@@ -73,7 +73,7 @@ Fish hydrolysate contributes bioactive compounds from a different angle:
 
 - **Seaweed extract** stimulates microbial activity through its alginates, mannitol, and polyphenols. It selectively promotes beneficial bacteria and increases mycorrhizal colonization. The chelating action of alginates makes unavailable soil minerals accessible to both microbes and roots.
 
-- **Fish hydrolysate** provides a direct food source for soil bacteria and fungi via amino acids and proteins. This rapid feeding can create a microbial "bloom." The fish oils and lipids are especially valuable for feeding saprophytic fungi that build stable soil organic matter.
+- **Fish hydrolysate** provides a direct food source for soil bacteria and fungi via amino acids and proteins. This rapid feeding can create a microbial "bloom." The fish oils and lipids are especially valuable for feeding [[saprophytic-fungi]] that build stable soil organic matter.
 
 Combined, they create synergy: fish hydrolysate feeds the microbial workforce, while seaweed extract provides signaling compounds directing that workforce toward beneficial activity.
 
@@ -142,36 +142,6 @@ Seaweed extract is generally more shelf-stable and easier to handle, making it m
 
 ### Fish Hydrolysate
 **Pros:**
-- Meaningful nitrogen from organic, protein-derived source
-- Full amino acid profile directly usable by plants
-- Feeds both plants and soil biology simultaneously
-- Made from recycled fishery waste — reduces food system waste
-- Cost-effective per unit of nitrogen among organic sources
-
-**Cons:**
-- Strong, persistent odor can be problematic in residential areas
-- Shorter shelf life, especially unpreserved formulations
-- Can attract animals if soil-applied
-- Requires filtration for foliar or drip applications
-- Quality varies with fish source and enzymatic process used
-
-## When to Choose Which
-
-### Choose Seaweed Extract When:
-- **Stress mitigation is the priority** — cytokinins and betaines help plants cope with heat waves, drought, frost, and transplant shock
-- **You need a micronutrient boost** — the broad mineral spectrum fills gaps that NPK fertilizers miss
-- **You're growing in containers or hydroponics** — chelated micronutrients and biostimulant effects are especially valuable in soilless media
-- **You already have adequate nitrogen** — it complements existing fertility without pushing excessive vegetative growth
-
-### Choose Fish Hydrolysate When:
-- **You need an organic nitrogen source** — for heavy-feeding crops (corn, tomatoes, brassicas) in vegetative stages
-- **Building soil biology is a goal** — amino acids and lipids feed bacteria and fungi, building soil organic matter
-- **You want feeding plus stimulation** — it delivers both nutrients and bioactive compounds in one application
-- **You're running a compost tea program** — one of the most effective nitrogen boosters for aerated compost tea
-
-### Best Strategy: Use Both Together
-Many experienced organic growers combine both inputs at reduced rates. A typical program uses seaweed extract as a foliar spray every 2–3 weeks for biostimulation, while fish hydrolysate is soil-drenched or added to compost tea for nitrogen feeding. Together they address both plant nutrition and plant signaling. Start with half the recommended rate of each when combining, observe plant response, and adjust from there.
-
 ## See Also
 
 - [[building-soil]]

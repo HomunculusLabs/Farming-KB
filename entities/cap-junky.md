@@ -123,6 +123,6 @@ control to express its full terpene potential.
 - [[wine-cap-mushroom-cultivation]]
 - [[query-how-to-grow-wine-cap-mushrooms]]
 
-Alien Cookies · [[MAC (Miracle Alien Cookies)]] · GMO · [[wedding-cake]] ·
-[[ice-cream-cake]] · [[gary-payton]] · [[jealousy]] · [[kush-mints]] ·
-[[do-si-dos]] · [[animal-cookies]] · [[runtz]]
+Alien Cookies · [[mac-(miracle-alien-cookies)]] · GMO · [[wedding-cake-cannabis]] ·
+[[ice-cream-cake-cannabis]] · [[gary-payton-cannabis]] · [[jealousy]] · [[kush-mints]] ·
+[[do-si-dos-entity]] · [[animal-cookies]] · [[runtz-entity]]

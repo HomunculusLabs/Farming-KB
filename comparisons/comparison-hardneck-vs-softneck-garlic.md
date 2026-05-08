@@ -15,7 +15,7 @@ type: comparison
 
 # Hardneck Garlic vs Softneck Garlic
 
-All garlic falls into two broad categories: **hardneck** (*Allium sativum* var. *ophioscorodon*) and **softneck** (*Allium sativum* var. *sativum*). The distinction matters for growers because the two types differ significantly in flavor, storage, climate adaptation, and how they're managed in the field. This page covers the practical trade-offs so you can pick the right type — or mix of both — for your site.
+All garlic falls into two broad categories: **hardneck** (*[[allium-sativum-entity]]* var. *ophioscorodon*) and **softneck** (*Allium sativum* var. *sativum*). The distinction matters for growers because the two types differ significantly in flavor, storage, climate adaptation, and how they're managed in the field. This page covers the practical trade-offs so you can pick the right type — or mix of both — for your site.
 
 ## Quick-Reference Comparison Table
 

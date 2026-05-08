@@ -148,4 +148,3 @@ radicchio, Belgian endive, and sugarloaf chicory.
 - [[taraxacum-officinale]]
 - [[trifolium-repens]]
 - [[achillea-millefolium]]
-- [[symphytum-officinale]]

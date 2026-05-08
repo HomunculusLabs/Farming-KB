@@ -59,7 +59,7 @@ In natural environments, anastomosis allows fungal individuals to share resource
 
 This natural process creates genetic diversity within what appears to be a single organism. It also allows beneficial mutations arising in one part of the network to spread to other parts through hyphal fusion.
 
-In the context of [[fungal-ecology-forest-floor]], anastomosis between mycorrhizal networks creates the "[[mycorrhizal-networks-common-mycelial-network]]" — a shared fungal infrastructure through which trees can exchange nutrients and chemical signals. This network-level perspective on fungal biology has revolutionized our understanding of forest ecosystems.
+In the context of [[the-soil-food-web]], anastomosis between mycorrhizal networks creates the "[[mycorrhizal-networks-common-mycelial-network]]" — a shared fungal infrastructure through which trees can exchange nutrients and chemical signals. This network-level perspective on fungal biology has revolutionized our understanding of forest ecosystems.
 
 ## Senescence and Anastomosis
 
@@ -89,7 +89,7 @@ Document the lineage of each culture — tracking it from the original isolation
 
 [[fungal-culture-preservation]] — maintaining stock cultures
 
-[[mushroom-cultivation-cloning-isolation]] — tissue cloning for strain preservation
+[[mushroom-cultivation-fundamentals]] — tissue cloning for strain preservation
 
 [[common-mycorrhizal-networks]] — anastomosis in ecological networks
 

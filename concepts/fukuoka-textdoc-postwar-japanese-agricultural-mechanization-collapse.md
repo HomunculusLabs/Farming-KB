@@ -139,25 +139,6 @@ sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
    130|Japanese rice fields. The first application does not kill rice leafhoppers but
    131|eliminates tens of thousands of young spiders per square yard, along with swarms
    132|of fireflies. The second application kills chalcid wasps (important predators)
-   133|while also destroying dragonfly larvae, tadpoles, and loaches.
-   134|
-   135|A particularly devastating chain reaction involves pine forest ecosystem
-   136|collapse: clear-cutting and cedar planting eliminates food for small birds,
-   137|allowing long-horned beetles to flourish. Beetles carry nematodes that attack
-   138|red pines, which are already weakened by the disappearance of edible matsutake
-   139|fungus that lived symbiotically on their roots. The matsutake died due to an
-   140|increase in harmful Botrytis fungus, caused by soil acidity from atmospheric
-   141|pollution and acid rain.
-   142|
-   143|## The Rodenticide Paradox
-   144|
-   145|Fukuoka describes a particularly illustrative chain reaction. When pines die,
-   146|bamboo grass thickets emerge. Mice feed on abundant bamboo grass berries and
-   147|multiply, attacking cedar saplings. Man applies rodenticide, but as mice
-   148|vanish, weasels and snakes that feed on them also decline. To protect the
-   149|weasels, man then begins raising mice to restore the rodent population. "Isn't
-   150|this the stuff of crazed dreams?" Fukuoka asks, illustrating how each
-
 ## See Also
 
 - [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]

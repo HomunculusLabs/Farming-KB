@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-text
 
 Anticholinergic plants containing atropine and scopolamine are among the most dangerous psychoactive botanicals available. Found growing wild throughout much of the United States and commonly cultivated as ornamentals, these plants can cause severe, prolonged, and potentially fatal intoxication. Understanding their pharmacology, identification, and risks is essential for foragers, clinicians, and anyone interested in psychoactive plants.
 
-[[hallucinogenic-plants-of-the-world]]
+[[entheogenic-plants-and-psychoactive-flora]]
 
 ## Pharmacology of Anticholinergics
 

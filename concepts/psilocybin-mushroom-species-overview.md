@@ -99,7 +99,7 @@ classified within Panaeolus. They are known for their potency:
 
 ## Genus Gymnopilus
 
-- **[[gymnopilus-spectabilis]]**: Known as the "Big Laughing Gym," this
+- **[[gymnopilus-spectabilis-entity]]**: Known as the "Big Laughing Gym," this
   wood-inhabiting species grows on stumps and tree bases. Documented
   growing in Mendocino, California, with photos also sourced from
   published field guides. Can produce large clusters with orange to

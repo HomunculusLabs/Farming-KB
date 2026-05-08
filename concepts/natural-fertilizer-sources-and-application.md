@@ -28,7 +28,7 @@ Natural fertilizers should be selected based on soil test results. No two garden
 
 ### Nitrogen Source Considerations
 
-Fast-acting nitrogen sources like blood meal and fish emulsion are useful for quick corrections but can burn plants if over-applied. Slow-release sources like feather meal and cottonseed meal provide a steadier supply that feeds the [[nutrient-retention-soil-food-web]] over months rather than days. Composted manures offer a balanced approach with moderate nitrogen plus significant organic matter.
+Fast-acting nitrogen sources like blood meal and fish emulsion are useful for quick corrections but can burn plants if over-applied. Slow-release sources like feather meal and cottonseed meal provide a steadier supply that feeds the [[composting-and-soil-biology]] over months rather than days. Composted manures offer a balanced approach with moderate nitrogen plus significant organic matter.
 
 ## Phosphorus Sources
 

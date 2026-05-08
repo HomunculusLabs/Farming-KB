@@ -88,7 +88,7 @@ Ashwagandha is notably easier in poor, dry soils and rewards neglect once
 established. Tulsi is more demanding of fertility and consistent moisture but
 rewards with a much faster harvest cycle and the ability to harvest repeatedly
 throughout the season. See [[ashwagandha-growing-guide]] and
-[[holy-basil-tulsi-guide]] for full cultivation details.
+holy basil tulsi guide for full cultivation details.
 
 ## Propagation and Harvest
 

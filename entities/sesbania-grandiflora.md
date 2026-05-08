@@ -148,4 +148,3 @@ One of the most productive multipurpose tropical trees.
 - [[leucaena-alley-cropping-systems]]
 - [[gliricidia-sepium]]
 - [[alfalfa-medicago-sativa]]
-- [[moringa-oleifera]]

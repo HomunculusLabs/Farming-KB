@@ -87,7 +87,7 @@ Rain gardens generally outperform bioswales in pollutant removal because water c
 - You have a defined, small drainage area (single roof downspout, short driveway, small patio)
 - Your site has well-draining soils (or you can amend them) and you want maximum infiltration
 - Aesthetics are important — rain gardens look like ornamental garden beds when not actively ponding
-- You want to create pollinator habitat and integrate stormwater management with ornamental landscaping
+- You want to create [[pollinator-habitat]] and integrate stormwater management with ornamental landscaping
 - Space is limited but you have a suitable flat or gently sloped area
 - You're working in a residential setting where a bowl-shaped garden bed fits naturally into the landscape
 
@@ -119,7 +119,7 @@ This approach maximizes both the conveyance function of bioswales and the infilt
 | **Sediment removal** | Every 2–5 years from soil surface | More frequent; check dams trap sediment; clean annually |
 | **Plant replacement** | As needed; replace dead plants promptly to prevent erosion | Reseed bare spots; replace failed check dams |
 | **Erosion repair** | Rare if properly designed | Common issue; check channel banks and check dams after heavy rain |
-| **Soil testing** | Every 3–5 years to assess infiltration capacity | Less critical but monitor for compaction |
+| **[[soil-testing]]** | Every 3–5 years to assess infiltration capacity | Less critical but monitor for compaction |
 | **Inlet/outlet clearing** | Clean overflow outlet annually | Clear inlet and outlet points; remove debris after storms |
 
 ## Common Mistakes to Avoid

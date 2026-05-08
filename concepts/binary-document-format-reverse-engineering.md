@@ -97,5 +97,5 @@ description and parsing.
 - [[genetic-engineering-fungal-bioremediation]]
 
 - [[microsoft-word-document-format-history]]
-- [[ole2-compound-binary-file-format]]
-- [[ole2-compound-binary-file-format]]
+- ole2 compound binary file format
+- ole2 compound binary file format

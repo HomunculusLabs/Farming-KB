@@ -148,4 +148,3 @@ biological materials flow freely within communities.
 - [[cotter-mycoremediation-techniques]]
 - [[mycorestoration-ecology]]
 - [[mycoremediation-basics]]
-- [[cotter-recycling-composting-vermicomposting-mushrooms]]

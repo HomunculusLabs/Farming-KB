@@ -1,5 +1,5 @@
 ---
-title: "Caulophyllum thalictroides"
+title: "caulophyllum thalictroides"
 created: 2026-05-06
 type: species
 tags:
@@ -97,7 +97,7 @@ saponins concentrated in the rhizome:
   activity
 
 The alkaloid profile is of particular concern: N-methylcytisine has
-nicotinic receptor activity comparable to nicotine, and anagyrine is a
+nicotinic receptor activity comparable to [[nicotine]], and anagyrine is a
 documented teratogen causing contracted foal syndrome in cattle.
 
 ## Traditional Medicinal Use
@@ -114,7 +114,7 @@ Cherokee, and Penobscot, used blue cohosh extensively in women's medicine.
 
 Eclectic physicians of the 19th century included blue cohosh in "Partus
 Praeparator" (labor-preparing) formulations, typically combined with black
-cohosh (*Actaea racemosa*) and raspberry leaf (*Rubus idaeus*).
+cohosh (*[[actaea-racemosa]]*) and raspberry leaf (*Rubus idaeus*).
 
 **Modern safety concerns:**
 The FDA classifies blue cohosh as an herb of "undefined safety." Multiple
@@ -148,10 +148,3 @@ Blue cohosh is rarely affected by pests or diseases. Its alkaloid content
 provides natural deterrence against herbivory.
 
 ## Permaculture Applications
-
-## See Also
-
-- [[herbal-plant-remedies]]
-- [[cannabis-terpene-profiles]]
-
-- [[herbal-medicine-making-basics]]

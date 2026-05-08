@@ -133,6 +133,6 @@ of Edible Mushrooms.
 
 ## See Also
 
-- [[growing-gourmet-paddy-straw-mushroom-volvariella]]
+- growing gourmet paddy straw mushroom volvariella
 - [[agaricus-bitorquis-cultivation-guide]]
 - [[spawn-running-in-bulk-substrates]]

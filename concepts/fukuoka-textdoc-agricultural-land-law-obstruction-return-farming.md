@@ -135,25 +135,6 @@ not to have that law. Only the barest minimum of laws is
 needed to create a world that can get along without laws.
 
 Were it necessary to have a single law, then it should be
-that one shall build one's house at least sixty feet from
-one's neighbor. If people were to scatter out and build a
-small house on a quarter-acre wherever they pleased, then
-the food problem would take care of itself, water and sewage
-lines would not be needed, and the problem of pollution
-would be licked.
-
-## The Farmer as Servant of Nature
-
-Farming has nothing to do, fundamentally, with
-profitability. The overriding concern is how to make use
-of the land. The goal of farming is to produce plentiful
-harvest by bringing out the full forces of nature, because
-this also happens to be the shortest road to knowing and
-approaching nature. The fields of nature are the
-representatives of nature; they are God. The farmer is in
-the service of God, so immediate gain is a secondary
-concern.
-
 ## See Also
 
 - [[fukuoka-textdoc-farming-for-all-vision]] for the

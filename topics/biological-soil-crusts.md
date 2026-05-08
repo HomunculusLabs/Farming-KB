@@ -71,7 +71,7 @@ Key features:
 - *Syntrichia ruralis* is one of the most widespread biocrust mosses globally, known for its extraordinary desiccation tolerance — it can survive losing 95% of its water content and resume photosynthesis within minutes of rehydration (poikilohydric strategy).
 - The crust darkens significantly (dark brown to black), increasing surface albedo absorption by 5–15% compared to bare soil.
 - Crust thickness reaches 5–10 mm, with substantially improved soil stabilization and water retention.
-- Fungal hyphae become more prominent, connecting moss rhizoids to soil particles.
+- [[fungal-hyphae-invasive-growth-mechanisms]] become more prominent, connecting moss rhizoids to soil particles.
 - Lichen propagules may begin to establish at this stage.
 - Nitrogen fixation rates can peak at **10–25 kg N/ha/year**.
 - Duration: years to decades.
@@ -118,8 +118,8 @@ Biocrusts are the **primary source of new nitrogen** in many dryland ecosystems,
   - Leaching of ammonium into soil solution during wetting events
   - Decomposition of crust biomass by heterotrophic microorganisms
   - Consumption of crust organisms by microfauna and their subsequent predation
-  - Direct transfer to vascular plant roots via common mycorrhizal networks
-- Rodriguez-Caballero et al. (2018) estimated biocrusts contribute roughly **49 Tg N/year** globally — approximately half of all terrestrial biological nitrogen fixation.
+  - Direct transfer to vascular plant roots via common [[mycorrhizal-networks-and-forest-communication]]
+- Rodriguez-Caballero et al. (2018) estimated biocrusts contribute roughly **49 Tg N/year** globally — approximately half of all terrestrial [[biological-nitrogen-fixation-agriculture]] fixation.
 
 ### Phosphorus and Other Nutrients
 
@@ -136,7 +136,7 @@ Biocrusts are the **primary source of new nitrogen** in many dryland ecosystems,
 
 The relationship between biocrusts and water infiltration is complex and depends on crust type and environmental conditions:
 
-- **Light cyanobacterial crusts** generally **increase infiltration** by protecting surface soil structure from raindrop impact and maintaining macropores.
+- **Light cyanobacterial crusts** generally **increase infiltration** by protecting surface [[soil-structure-and-aggregate-ecology]] from raindrop impact and maintaining macropores.
 - **Dark (mature) crusts** can **reduce infiltration** by 10–50% under high-intensity rainfall, because the EPS swells when wet, clogging surface pores. This is a significant concern in some managed drylands.
 - **Moss-dominated crusts** create a spongy surface layer that can increase water retention at the surface but slow downward percolation.
 - The net effect on infiltration varies by soil texture, slope, rainfall intensity, and crust community composition.
@@ -163,8 +163,8 @@ The relationship between biocrusts and water infiltration is complex and depends
 1. **Nutrient enrichment**: Biocrust-derived nitrogen and other nutrients create "fertility islands" that benefit neighboring plants.
 2. **Seed trapping**: Rough crust surfaces trap wind-dispersed seeds, increasing germination sites.
 3. **Moisture retention**: Crust-associated moisture benefits seedling establishment, especially for shallow-rooted species.
-4. **Mycorrhizal facilitation**: Crust fungi include arbuscular mycorrhizal (AMF) species that can colonize plant roots.
-5. **Hormone production**: Some cyanobacteria and crust-associated bacteria produce auxins, cytokinins, and gibberellins that stimulate plant growth.
+4. **Mycorrhizal facilitation**: Crust fungi include [[arbuscular-mycorrhizal-colonization-patterns]] (AMF) species that can colonize plant roots.
+5. **Hormone production**: Some cyanobacteria and crust-associated bacteria produce auxins, cytokinins, and gibberellins that stimulate [[plant-growth-promoting-rhizobacteria]].
 
 ### Negative Effects
 
@@ -199,7 +199,7 @@ The net effect of biocrusts on vascular plants is generally **positive in drylan
 | Colorado Plateau, USA | Lichen-moss-cyanobacteria | *Syntrichia*, *Collema*, *Microcoleus* |
 | Negev Desert, Israel | Cyanobacterial-lichen | *Microcoleus*, *Scytonema*, *Squamaria* |
 | Gurbantunggut Desert, China | Cyanobacterial-moss | *Microcoleus*, *Syntrichia* |
-| Australian Arid Zone | Cyanobacterial | *Microcoleus*, *Nostoc*, *Scytonema* |
+| Australian [[arid-zone-permaculture-strategies-mollison]] | Cyanobacterial | *Microcoleus*, *Nostoc*, *Scytonema* |
 | Antarctic Dry Valleys | Lichen-cyanobacterial | *Buellia*, *Caloplaca*, *Nostoc* |
 | Inner Mongolia, China | Moss-cyanobacterial | *Syntrichia*, *Didymodon*, *Microcoleus* |
 | Sahel Region, Africa | Cyanobacterial | *Microcoleus*, *Scytonema* |
@@ -220,7 +220,7 @@ The net effect of biocrusts on vascular plants is generally **positive in drylan
 
 - **Increased temperature**: Warming favors bacterial decomposition of crust organic matter, potentially tipping the carbon balance from sink to source.
 - **Altered precipitation patterns**: More intense storms can erode disturbed crusts; fewer, smaller precipitation events reduce photosynthetic activity.
-- **Nitrogen deposition**: Atmospheric N deposition from fossil fuel combustion shifts crust community composition toward chlorophyll-rich cyanobacteria and away from nitrogen-fixing organisms, potentially reducing N fixation capacity.
+- **Nitrogen deposition**: Atmospheric N deposition from fossil fuel combustion shifts crust community composition toward chlorophyll-rich cyanobacteria and away from [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] organisms, potentially reducing N fixation capacity.
 - **Dust emissions**: Crust destruction increases dust emission, creating a positive feedback loop (more dust → less crust → more erosion → more dust).
 
 ### Invasive Species

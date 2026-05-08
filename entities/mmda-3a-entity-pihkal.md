@@ -143,7 +143,7 @@ removal of the solvent, gave 33.1 g of a yellow-colored product.
 This, upon one additional recrystallization from boiling cyclohexane,
 ## See Also
 - [[qualitative-comments-methodology-pihkal]]
-- [[permaculture-principle-use-edges-and-value-the-marginal]]
+- [[permaculture-design-principles]]
 - [[4t-mmda-2-entity-pihkal]]
 - [[mmda-3b-entity-pihkal]]
 - [[pihkal-qualitative-effects-themes]]

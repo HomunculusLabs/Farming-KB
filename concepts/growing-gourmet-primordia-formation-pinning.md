@@ -97,7 +97,7 @@ mushrooms unless light is sustained.
 
 Without secondary exposure to light post-primordia formation,
 Oyster mushrooms in particular malform. Their stems elongate and
-the caps remain undeveloped. Oyster, [[growing-gourmet-shiitake-cultivation]], and [[growing-gourmet-reishi-cultivation]] all demonstrate strong photosensitivity.
+the caps remain undeveloped. Oyster, [[shiitake-mushroom-cultivation-and-medicinal-properties]], and [[growing-gourmet-reishi-cultivation]] all demonstrate strong photosensitivity.
 
 ## Cold Shock Requirements
 

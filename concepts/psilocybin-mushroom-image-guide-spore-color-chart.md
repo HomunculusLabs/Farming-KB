@@ -148,10 +148,3 @@ the decision tree from the guide's species works as follows:
      Galerina (potentially lethal)
    - No, white or cream: Not a psilocybin mushroom from this
      guide's genera
-
-## See Also
-
-- [[gymnopilus-genus-neurotropic-species]]
-- [[psilocybe-semilanceata]]
-- [[panaeolus-acuminatus]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]

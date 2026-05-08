@@ -111,4 +111,4 @@ Nickel is a relatively recent addition to the list of essential nutrients, and s
 - [[plant-macronutrient-functions|macronutrient functions]]
 - [[plant-nutrient-mobility-in-soil|nutrient mobility]]
 - [[micronutrient-deficiency-symptoms|micronutrient deficiency symptoms]]
-- [[trace-elements-in-soil|trace elements in soil]]
+- [[composting-and-soil-biology|trace elements in soil]]

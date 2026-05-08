@@ -117,6 +117,6 @@ Over 15,000 studies on cannabinoids exist in the U.S. National Library of Medici
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - [[anandamide-aea]]
-- [[cannabis therapeutics]]
+- [[cannabis-therapeutics]]
 - neuroplasticity
-- [[cannabis health index]]
+- [[cannabis-health-index]]

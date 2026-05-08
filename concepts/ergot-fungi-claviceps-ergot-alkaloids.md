@@ -126,5 +126,5 @@ ergot fungi across diverse climatic zones and grass hosts.
 
 - [[neurotropic-fungi-classification]]
 - [[psilocybin-tryptamine-chemistry-fungi]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi
 - [[traditional-indigenous-use-sacred-fungi]]

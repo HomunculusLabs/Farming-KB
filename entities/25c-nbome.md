@@ -136,6 +136,6 @@ under emergency scheduling or permanent control.
 - [[2c-b]]
 - [[lsd]]
 - 2C-C
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[dmt]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

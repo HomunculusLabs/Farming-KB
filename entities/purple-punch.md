@@ -148,4 +148,3 @@ Purple Punch has become foundational breeding stock with numerous successful cro
 - [[gelato-cannabis]]
 - [[og-kush]]
 - [[cannabis-indica]]
-- [[cannabidiol-cbd]]

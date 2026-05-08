@@ -17,11 +17,11 @@ type: concept
 
 # Aseptic Inoculation Technique for Fungal Cultures
 
-Inoculation — the introduction of fungal inoculum into a sterile substrate — is the step where contamination is most likely to be introduced. Mastering aseptic technique is therefore the single most important skill for successful [[mycological cultivation]]. Even perfectly prepared substrate and ideal environmental conditions cannot compensate for poor inoculation hygiene. The difference between consistent success and consistent failure often comes down to discipline at this stage.
+Inoculation — the introduction of fungal inoculum into a sterile substrate — is the step where contamination is most likely to be introduced. Mastering aseptic technique is therefore the single most important skill for successful [[mycological-cultivation]]. Even perfectly prepared substrate and ideal environmental conditions cannot compensate for poor inoculation hygiene. The difference between consistent success and consistent failure often comes down to discipline at this stage.
 
 ## Inoculum Types
 
-Multiple forms of fungal inoculum can be used to start a culture on [[grass-seed substrate]] or other prepared media:
+Multiple forms of fungal inoculum can be used to start a culture on [[grass-seed-substrate]] or other prepared media:
 
 - **Spore syringes**: A suspension of spores in sterile water. The most accessible form for beginners but carries higher genetic variability, as each spore represents a unique genetic individual with potentially different growth characteristics.
 - **Mycelium syringes**: Live mycelium in sterile water. Faster colonisation since the organism is already germinated. Shorter shelf life — use promptly.

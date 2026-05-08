@@ -119,7 +119,7 @@ Despite these challenges, successful bypass installations have been established 
 
 ## Related
 
-- [[town-garden-design]] — design principles for small urban gardens
+- [[organic-vegetable-growing-and-market-gardening]] — design principles for small urban gardens
 - [[container-gardening-guide]] — growing in containers and troughs
 - [[green-roof-and-living-walls]] — vertical greening of buildings
 - [[sepp-holzer-method]] — the broader permaculture framework

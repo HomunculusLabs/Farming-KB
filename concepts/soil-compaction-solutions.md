@@ -63,7 +63,7 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 - **Keyline plowing**: On sloping land, plow parallel to the keyline to redistribute water and break compaction
 - **Swales**: Capture and infiltrate water along contour, reducing runoff pressure on compacted areas
 - [[keyline-design]] for details on keyline methods
-- [[swale-construction-guide]] for swale building
+- [[organic-vegetable-growing-and-market-gardening]] for swale building
 
 ## Priority Approach
 1. **Stop causing it** — paths, raised beds, no wet-soil working
@@ -95,7 +95,7 @@ species like daikon radish is more effective.
 ## Related
 - [[soil-food-web-structure]] — for the biology that prevents and heals compaction
 - [[bacterial-vs-fungal-soil]] — for how soil biology type affects structure
-- [[no-till-gardening-method]] — for preventing compaction through reduced tillage
+- [[composting-and-soil-biology]] — for preventing compaction through reduced tillage
 - soil compaction solutions — for tool-specific guidance
 
 ## Key Considerations

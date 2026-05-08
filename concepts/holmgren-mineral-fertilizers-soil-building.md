@@ -90,4 +90,4 @@ Holmgren acknowledges it is hard and maybe unwise to completely avoid using foss
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Principle 2, pp. 32-34, 48-50
 - [[building-soil-fertility-long-term]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]

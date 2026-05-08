@@ -15,7 +15,7 @@ sources:
 
 # Psychoactive Cacti of Central Mexico
 
-Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as [[peyote-and-psychoactive-cacti]] substitutes in ceremonial and healing contexts. The [[mescalero-apache-peyote-use]] and other tribes of the region have traditionally employed these plants in rituals, though many contain alkaloid levels too low to produce significant psychoactive effects. Several of these species are now rare or endangered.
+Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as [[ethnomycology]] substitutes in ceremonial and healing contexts. The [[mescalero-apache-peyote-use]] and other tribes of the region have traditionally employed these plants in rituals, though many contain alkaloid levels too low to produce significant psychoactive effects. Several of these species are now rare or endangered.
 
 ## Peyotillo (Pelecyphora aselliformis)
 
@@ -114,7 +114,7 @@ The legal status of these cacti varies significantly by jurisdiction. In the Uni
 - [[false-peyotes-mexican-cactus-ethnobotany]]
 - [[peyote-cultivation]]
 - [[psychoactive-cacti-species-reference]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[psychedelic-plants-chemical-guide]]
 - [[cactus-alkaloids-reference]]
 - [[mescaline-compound-profile]]

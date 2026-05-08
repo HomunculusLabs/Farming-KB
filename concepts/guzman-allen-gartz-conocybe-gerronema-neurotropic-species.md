@@ -148,12 +148,3 @@ accurate identification difficult without specialist knowledge.
   Gymnopilus identification from Stamets
 - [[stamets-psi-bluing-reaction-psilocybin-indicator]] - bluing
   reactions as a psilocybin indicator
-- [[tropical-vs-temperate-distribution-neurotropic-fungi]] -
-  climate-driven distribution patterns
-
-[[allen-gymnopilus-and-other-psychoactive-genera]] covers
-Gymnopilus and other genera not discussed here. [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
-provides field identification guidance for Conocybe. [[stamets-psi-bluing-reaction-psilocybin-indicator]]
-explains the limited bluing reactions characteristic of these genera.
-[[tropical-vs-temperate-distribution-neurotropic-fungi]] provides
-biogeographic context for the reported ranges of these species.

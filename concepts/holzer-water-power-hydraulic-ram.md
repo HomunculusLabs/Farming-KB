@@ -81,7 +81,7 @@ The aeration provided by the water flowing through the turbines and rams
 improves water quality for the [[holzer-aquaculture-pond-construction]] and
 [[holzer-fish-farming]] systems.
 
-This integration exemplifies the [[permaculture-principle-integrate-rather-than-segregate]]: the energy generation system is not separate from the
+This integration exemplifies the [[permaculture-design-principles]]: the energy generation system is not separate from the
 aquaculture system, but actively supports it. Every output of one element
 becomes an input for another.
 

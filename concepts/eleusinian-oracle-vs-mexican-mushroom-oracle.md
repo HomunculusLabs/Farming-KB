@@ -65,7 +65,7 @@ The [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] across t
 
 ## Wasson's Personal Experience with the Oracle
 
-Wasson's understanding of the Mexican mushroom oracle was not merely academic. During his [[wasson-mexico-expeditions]] beginning in 1953, he participated in multiple veladas under the guidance of [[maria-sabina-mazatec-mushroom-ceremony]] and other Mazatec curanderas. His firsthand experience of the mushroom's oracular function — the way it seemed to respond to questions and provide guidance — profoundly shaped his comparative analysis of Eleusis.
+Wasson's understanding of the Mexican mushroom oracle was not merely academic. During his [[wasson-mexico-expeditions]] beginning in 1953, he participated in multiple veladas under the guidance of [[mushroom-cultivation-fundamentals]] and other Mazatec curanderas. His firsthand experience of the mushroom's oracular function — the way it seemed to respond to questions and provide guidance — profoundly shaped his comparative analysis of Eleusis.
 
 Wasson described the mushroom experience as providing "a sense of the proximity of the divine" and "visions that seemed to answer questions not yet articulated." This phenomenological similarity between the Mazatec mushroom oracle and the descriptions of the Eleusinian vision left by ancient initiates — particularly the emphasis on seeing things "freshly created" and the sense of communion with the divine — formed the empirical basis for his argument that both traditions employed psychoactive sacraments.
 

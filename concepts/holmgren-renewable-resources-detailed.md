@@ -56,9 +56,9 @@ are very low because the landscape-forming processes have already created most o
 the infrastructure needed. In the case of biomass from forest waste or thinnings,
 the photosynthesis and the natural processes of the forest have already done
 most of the work.
-[[permaculture-principle-use-and-value-renewable-resources]] |
+[[permaculture-design-principles]] |
 [[permaculture-principles]] | [[holmgren-catch-and-store-energy-detailed]] |
-[[energy-descent-action-planning]] | [[permaculture-earthworks-guide]]
+[[energy-descent-action-planning]] | [[permaculture-water-harvesting-earthworks]]
 ## Renewable Services in Permaculture Design
 A key distinction in Holmgren's framework is between renewable resources (which
 are consumed when used) and renewable services (which provide ongoing benefits
@@ -139,10 +139,10 @@ for building resilience against the
 [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] that Holmgren anticipates.
 ## See Also
 - [[holmgren-produce-no-waste-detailed]]
-Related topics: [[permaculture-principles]], [[permaculture-earthworks-guide]],
+Related topics: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]],
 [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]],
 [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]],
 [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]],
-[[permaculture-design-methods]], [[permaculture-site-analysis]],
-[[permaculture-zone-planning]], [[permaculture-principle-use-and-value-renewable-resources]],
-[[permaculture-principle-catch-and-store-energy]], [[permaculture-principle-produce-no-waste]]
+[[permaculture-design]], [[permaculture-site-analysis]],
+[[permaculture-zone-planning]], [[permaculture-design-principles]],
+[[permaculture-design-principles]], [[permaculture-principle-produce-no-waste]]

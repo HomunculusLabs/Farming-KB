@@ -108,7 +108,7 @@ Day-neutral varieties developed by breeding programs in Nigeria and Thailand hav
 - [[l-theanine]]
 - [[ashwagandha]]
 - [[curcumin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[panax-ginseng]]
 - [[rhodiola-rosea]]
 - [[ocimum-sanctum]]

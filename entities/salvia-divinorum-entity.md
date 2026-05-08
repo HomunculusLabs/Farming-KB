@@ -138,9 +138,9 @@ Wild populations are limited to a small area of the Sierra Mazateca in Oaxaca, M
 
 - [[gordon-wasson]]
 - [[mazatec-people]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
-- [[psilocybin]] — classical serotonergic psychedelic for pharmacological comparison
+- [[psilocybin-compound]] — classical serotonergic psychedelic for pharmacological comparison
 - [[dmt]] — potent short-acting tryptamine psychedelic
 - Kappa-Opioid-Receptor — pharmacological target of salvinorin A
 - Ethnobotany — study of traditional plant-human relationships

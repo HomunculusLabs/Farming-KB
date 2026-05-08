@@ -123,7 +123,7 @@ The strain responds well to training techniques including SCROG, LST, and superc
 - [[sfv-og]]
 - [[girl-scout-cookies]]
 - [[tahoe-og]]
-- [[do-si-dos]]
+- [[do-si-dos-entity]]
 - [[starfighter]]
 - [[skunk-1]]
 - [[ice-cream-cake-cannabis]]

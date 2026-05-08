@@ -87,7 +87,7 @@ Riparian buffer restoration along contaminated waterways provides filtration of 
 
 Fungal communities in restored wetlands, including both saprotrophic and mycorrhizal species, contribute to organic matter processing, nutrient cycling, and plant community development.
 
-[[fungal-biodiversity-forest-ecosystems]] and [[fungal-biodiversity-soil-habitats]] describe fungal community ecology relevant to wetland and riparian restoration.
+[[fungal-biodiversity-forest-ecosystems]] and [[the-soil-food-web]] describe fungal community ecology relevant to wetland and riparian restoration.
 
 ## Monitoring Ecological Recovery
 

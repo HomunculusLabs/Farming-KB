@@ -137,7 +137,7 @@ older than one year is well supported by modern biochemical evidence.
 ## See Also
 
 - Psilocybe genus overview
-- [[psilocybin]] pharmacology and chemistry
+- [[psilocybin-compound]] pharmacology and chemistry
 - [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 - [[psilocybe-semilanceata]] ecology and chemistry

@@ -90,7 +90,7 @@ Black peppermint is an excellent sewage treatment plant:
 - [Duck pond systems -- can integrate with sewage treatment
 - [Greywater systems -- separate from blackwater/sewage
 - [Pond construction -- technical aspects
-- [[off-grid-waste-management]] -- broader [[permaculture-waste-management]] strategy
+- [[off-grid-waste-management]] -- broader permaculture waste management strategy
 
 ## See Also
 

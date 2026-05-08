@@ -137,9 +137,9 @@ uplift before deeper physical relaxation.
 
 - [[jungle-cake-cannabis]]
 
-- [[ice-cream-cake]]
+- ice cream cake cannabis
 - [[gelato-cannabis]]
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - [[girl-scout-cookies]]
 - sunset sherbert cannabis
 - [[og-kush]]

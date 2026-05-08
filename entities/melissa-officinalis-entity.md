@@ -112,10 +112,10 @@ The 16th-century herbalist John Gerard wrote that lemon balm "comforteth the hea
 
 ## See Also
 
-- [[lavandula-angustifolia]]
+- [[lavandula-angustifolia-entity]]
 - [[valeriana-officinalis]]
 - [[passiflora-incarnata]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[scutellaria-baicalensis]]
 - [[hypericum-perforatum]]
 - [[ocimum-sanctum]]

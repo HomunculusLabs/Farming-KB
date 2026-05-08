@@ -148,4 +148,3 @@ lollipopping), producing some of the highest-quality yields achievable with trai
 - [[cannabis-pruning-and-defoliation-guide]]
 - [[comparison-topping-vs-fimming]]
 - [[cannabis-vegetative-growth-stage]]
-- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]

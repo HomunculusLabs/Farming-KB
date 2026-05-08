@@ -112,7 +112,7 @@ rather than the transcendent visions described in religious texts.
 
 Wasson himself admitted to being "at a loss to explain the failure" of his own
 experiments with the fly-agaric. Unlike the comparatively dependable action of
-[[psilocybin]], there is simply no way of predicting which way the fly-agaric
+[[psilocybin-compound]], there is simply no way of predicting which way the fly-agaric
 experience will go.
 
 ## Legacy

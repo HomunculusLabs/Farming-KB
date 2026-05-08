@@ -148,7 +148,3 @@ Fresh or dried Tulsi leaves are used in:
 - [[ashwagandha]]
 - [[candida-albicans]]
 - [[food-forest]]
-
-- [[ashwagandha]] — another major Ayurvedic adaptogen
-- [[withania-somnifera]] — adaptogen with complementary stress-modulating properties
-- [[eugenol]] — primary bioactive compound found in Tulsi and cloves

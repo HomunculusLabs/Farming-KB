@@ -37,7 +37,7 @@ A 2001 study of young people aged 12 and above in the Netherlands found that 64%
 aged 18 and older who had used magic mushrooms in the previous year had purchased them in
 smartshops. Smartshops also sold related products including sclerotia (marketed as
 philosopher's stones or truffles), particularly from [[psilocybe-mexicana]] and
-[[psilocybe-tampanensis]]. Some coffee shops, headshops (which sell drug paraphernalia),
+[[psilocybe-tampanensis-entity]]. Some coffee shops, headshops (which sell drug paraphernalia),
 and grow shops (for home cannabis cultivation) also sold hallucinogenic mushrooms. In some
 areas, paddo cabs operated home delivery services for hallucinogenic mushrooms, reflecting
 the degree of commercial sophistication in the Dutch market.
@@ -119,7 +119,7 @@ However, the vast majority of retailers emphasised positive effects while exclud
 minimising information about negative side effects such as nausea, panic attacks, and the
 potential for bad trips. Only a minority of sites explicitly mentioned common adverse
 effects. As a rule, information leaflets provided no information about maximum shelf life,
-the nature of possible side-effects, or the proportion of active substances ([[psilocybin]]
+the nature of possible side-effects, or the proportion of active substances ([[psilocybin-compound]]
 and [[psilocin]]). Smartshop product labels in the Netherlands typically warned that persons
 under 18 should not use the product, and advised against use when pregnant, using
 medication, suffering from mental illness, when driving or operating machines, or in

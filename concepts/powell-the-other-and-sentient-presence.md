@@ -65,7 +65,7 @@ cases, providing a coherent framework for understanding experience.
 
 ## The Many Guises of the Other
 
-Following [[terence-mckenna-stoned-ape-hypothesis]], Powell notes that the Other appears in culturally
+Following [[psychedelic-mushrooms-species-and-identification]], Powell notes that the Other appears in culturally
 determined forms. For contemporary Westerners, UFO and alien motifs are
 common in entheogenic visions. McKenna suggested that the UFO is the Other
 in the guise of a contemporary symbol, donning "the mask of the UFO" to

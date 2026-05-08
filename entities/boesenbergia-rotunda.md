@@ -116,6 +116,6 @@ Key cultivation parameters:
 - [[ursolic-acid]]
 - [[astragalus-membranaceus]]
 - [[ephedra-sinica]]
-- [[ocimum-tenuiflorum]]
+- [[ocimum-tenuiflorum-entity]]
 - [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]

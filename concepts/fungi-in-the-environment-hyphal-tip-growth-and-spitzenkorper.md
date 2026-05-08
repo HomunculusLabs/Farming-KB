@@ -148,4 +148,3 @@ adaptation through modulation of branching patterns.
 - [[gadd-colony-morphogenesis-hyphal-growth]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]

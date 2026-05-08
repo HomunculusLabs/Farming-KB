@@ -148,4 +148,3 @@ difficult to find in light-polluted environments.
 - [[neonothopanus-nambi]]
 
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]] — Armillaria species including the bioluminescent honey fungus
-- [[bloomfield-fungal-biology-and-hyphal-growth]] — fundamental fungal biology relevant to understanding bioluminescent metabolism

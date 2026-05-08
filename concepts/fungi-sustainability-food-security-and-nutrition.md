@@ -81,6 +81,6 @@ The UN's "Decade of Education for Sustainable Development" (beginning January 20
 
 ## See Also
 
-- [[fungi-sustainability-biofuel-and-enzymes]]
+- [[bioremediation-using-fungi]]
 - [[oyster-mushroom-spent-substrate-recycling]]
 - [[fungi-and-sustainability]]

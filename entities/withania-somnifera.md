@@ -1,11 +1,11 @@
 ---
-title: 'Withania somnifera'
+title: 'withania somnifera'
 type: species
 tags: [herbal-plant, adaptogen, ayurveda, medicinal-herb]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singh N, et al. "An overview on ashwagandha: A rasayana (rejuvenator) of Ayurveda." African Journal of Traditional, Complementary and Alternative Medicines, 2011;8(5S):208-213.
+  - Singh N, et al. "An overview on [[ashwagandha]]: A rasayana (rejuvenator) of Ayurveda." African Journal of Traditional, Complementary and Alternative Medicines, 2011;8(5S):208-213.
   - Chandrasekhar K, et al. "A prospective, randomised double-blind, placebo-controlled study of safety and efficacy of Ashwagandha root extract in reducing stress and anxiety in adults." Indian Journal of Psychological Medicine, 2012;34(3):255-262.
   - Singh R, et al. "Withania somnifera (Ashwagandha): a comprehensive review on phytochemistry, pharmacology, and role in cancer therapy." Phytomedicine, 2021;80:153383.
   - Mishra P, et al. "Ecology, conservation, and cultivation of Withania somnifera: An important medicinal plant of arid and semi-arid regions." Economic Botany, 2020;74(2):161-175.
@@ -71,7 +71,7 @@ The primary bioactive constituents of Withania somnifera are a group of naturall
 
 - **Alkaloids**: Including anaferine, anahygrine, and somniferine.
 - **Saponins**: Sitoindosides VII–X, which may contribute to adaptogenic activity.
-- **Flavonoids**: Including kaempferol and quercetin derivatives.
+- **Flavonoids**: Including [[kaempferol]] and [[quercetin]] derivatives.
 - **Iron**: The root contains significant iron content (~3 mg/g dry weight), relevant to its traditional use as a blood-building tonic.
 
 The withanolide profile varies significantly with cultivar, geographic origin, harvest time, and processing method. Standardized extracts are typically calibrated to 2.5–5% total withanolides.
@@ -145,11 +145,6 @@ Ashwagandha is generally well tolerated at standard doses. The most commonly rep
 
 ## Sustainability and Conservation Status
 
-Withania somnifera is listed as **Least Concern** on the IUCN Red List due to its wide distribution and extensive cultivation. However, wild populations in parts of India and Pakistan face pressure from overharvesting of wild-crafted roots, genetic erosion from reliance on few cultivated accessions, and adulteration of commercial supplies with related Withania species. Sustainable cultivation initiatives and tissue culture propagation programs are underway in India to reduce pressure on wild populations and improve crop uniformity. The species is well-suited to organic cultivation due to its natural pest resistance and low fertilizer requirements.
+Withania somnifera is listed as **Least Concern** on the IUCN Red List due to its wide distribution and extensive cultivation. However, wild populations in parts of India and Pakistan face pressure from overharvesting of wild-crafted roots, genetic erosion from reliance on few cultivated accessions, and adulteration of commercial supplies with related Withania species. Sustainable cultivation initiatives and [[tissue-culture-cloning]] propagation programs are underway in India to reduce pressure on wild populations and improve crop uniformity. The species is well-suited to organic cultivation due to its [[natural-pest-deterrents]] resistance and low fertilizer requirements.
 
 ## See Also
-
-- [[adaptogenic-herbs-overview]]
-
-- [[ashwagandha-withania-somnifera]]
-- [[adaptogenic-herbs-guide]]

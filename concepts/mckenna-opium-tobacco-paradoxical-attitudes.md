@@ -85,7 +85,7 @@ See also:
 ## Key Points
 
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The [[terence-mckenna-stoned-ape-hypothesis]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- The [[psychedelic-mushrooms-species-and-identification]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 - The pattern of criminalizing consciousness-expanding plants while promoting consciousness-contracting substances is, for McKenna, the defining hypocrisy of dominator culture
@@ -111,13 +111,13 @@ The pattern McKenna identified in the Opium Wars — powerful entities profiting
 
 - [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
 
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-sugar-slavery-and-dominance]]
 - [[psychedelic-therapy-current-research]]

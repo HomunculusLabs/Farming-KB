@@ -1,36 +1,35 @@
 ---
-title: "Serendipita indica"
+title: "serendipita indica"
 created: 2026-04-28
 type: species
 tags:
   - fungi
   - root-endophyte
-  - plant-growth-promoting
+  - [[solomon-soil-temperature-and-nighttime-plant-growth]]-promoting
   - permaculture
   - soil-biology
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Verma, S. et al. (1998). "Piriformospora indica gen. nov., sp. nov." Mycologia 90(5): 896-903.
-  - Varma, A. et al. (1999). "Piriformospora indica, a cultivable plant growth-promoting root endophyte." Applied and Environmental Microbiology 65(6): 2741-2744.
-  - Qiang, X. et al. (2012). "The root endophyte fungus Piriformospora indica reprograms barley to salt stress tolerance." PNAS 109(33): 13174-13179.
+  - Verma, S. et al. (1998). "[[piriformospora-indica]] gen. nov., sp. nov." Mycologia 90(5): 896-903.
+  - Varma, A. et al. (1999). "[[piriformospora-indica]], a cultivable plant growth-promoting root endophyte." Applied and Environmental Microbiology 65(6): 2741-2744.
+  - Qiang, X. et al. (2012). "The root endophyte fungus Piriformospora indica reprograms barley to s [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]] ance." PNAS 109(33): 13174-13179.
   - Weiß, M. et al. (2016). "Serendipita indica: From genome analyses to applications." Microbiome 4: 64.
   - Lahrmann, U. & Zuccaro, A. (2012). "Opprimo ergo sum — it is time to interact with fungal models." Plant Signaling & Behavior 7(6): 627-630.
 ---
-
 # Serendipita indica
 
 ## Overview
 
-*Serendipita indica* (syn. *Piriformospora indica*) is a cultivable
+*Serendipita indica* (syn. *[[piriformospora-indica-in-plant-fungal-co-culture]]*) is a cultivable
 root-colonizing endophytic fungus in the order Sebacinales, discovered
-in the Thar Desert of Rajasthan, India in 1997.
+in the Thar Desert of Rajasthaquery-what-are-phytohormones-and-how-do-they-affect-plant-growth]]1997.
 
 It promotes plant growth, enhances stress tolerance, and provides
-broad-spectrum disease resistance across an exceptionally wide host
+broad-spectrum disease resistance actropical-rainforest-restorat [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] izal-fungiost
 range — monocots, dicots, and some bryophytes.
 
-Unlike arbuscular mycorrhizal fungi (AMF), *S. indica* is axenically
+Unlike [[arbuscular-mycorrhizal-fungi]] (AMF), *S. indica* is axenically
 cultivable on artificial media, making it practical for both research
 and agricultural application.
 
@@ -45,7 +44,7 @@ and agricultural application.
 - **Species:** S. indica
 
 Originally described as *Piriformospora indica* by Verma et al. (1998)
-from the rhizosphere of *Prosopis juliflora* in the Indian Thar Desert.
+from the rhizosphere of *[[prosopis-juliflora]]* in the Indian Thar Desert.
 
 Transferred to *Serendipita* in 2016 based on molecular phylogenetic
 analyses.
@@ -128,7 +127,7 @@ parasitize its host.
 Over 250 secreted effector proteins modulate plant immunity and
 facilitate colonization.
 
-## Comparison with Arbuscular Mycorrhizal Fungi
+## Comparis [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]] gi-diversity]] al Fungi
 
 | Feature | *S. indica* | AMF (*Rhizophagus*) |
 |---------|------------|---------------------|
@@ -148,12 +147,3 @@ Commercially available in India and Europe for horticultural use.
 
 - *Serendipita herbipolensis* — European relative; similar PGPR
 properties.
-- *Serendipita williamsii* — root endophyte of saw palmetto.
-- *Sebacina vermifera* — sebacinoid fungus with orchid mycorrhizal
-associations.
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhiza]]
-- [[mycorrhizal-fungi]]

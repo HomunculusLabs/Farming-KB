@@ -113,7 +113,7 @@ Hemenway advises pragmatism: "Using nonrenewable resources to create a landscape
 - [[permaculture-animal-integration]] — Animals complete the producer-consumer-decomposer cycle
 - [[gaia-garden-plant-guilds]] — Plant communities that mimic natural succession
 - [[gaias-garden-methods]] — Home-scale permaculture methods
-- [[permaculture-design-methods]] — Site analysis and design assembly
+- [[permaculture-design]] — Site analysis and design assembly
 - [[permaculture-zones-in-practice]] — Zone planning for garden assembly
 - [[soil-food-web-nutrient-cycling]] — The decomposer foundation of succession
 - [[edge-effect-and-microclimate]] — Creating benign microclimates for establishment

@@ -85,5 +85,5 @@ These findings align with broader research on the therapeutic potential and ecol
 - [[cannabis-flowering-stage-management]] — managing flowering conditions
 - [[cannabis-photoperiodism-and-light-cycles]] — light cycle requirements
 - [[cannabis-flowering-stage-management]] — environmental management
-- [[cannabis-pest-management]] — biological stressors
+- cannabis pest management — biological stressors
 - [[cannabis-nutrient-lockout-and-ph]] — nutrient-related stress

@@ -74,7 +74,7 @@ Gottlieb notes that higher purification beyond the crude extraction is possible 
 - [[alexander-shulgin]]
 - [[shulgin-future-drugs]]
 - [[albert-hofmann]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
 - [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]

@@ -126,4 +126,4 @@ The reversal of its edibility status was controversial in mycological circles. S
 - [[amanita-muscaria]] — Another prominent mycorrhizal mushroom of pine forests
 - [[gyromitra-esculenta]] — Another example of a historically consumed mushroom now known to be toxic
 - [[cortinarius-rubellus]] — Deadly poisonous mycorrhizal mushroom of coniferous forests
-- [[boletus-edulis]] — Safe, prized edible mushroom of similar pine forest habitats
+- [[boletus-edulis-entity]] — Safe, prized edible mushroom of similar pine forest habitats

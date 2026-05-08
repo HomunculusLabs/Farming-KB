@@ -66,7 +66,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin]] and [[psilocin]]
+- Contains [[psilocybin-compound]] and [[psilocin]]
 - Considered mildly to moderately active
 - Alkaloid content may be lower than in more well known Psilocybe species
 - Bluing reaction is not always prominent, which may correlate with lower psilocin concentrations

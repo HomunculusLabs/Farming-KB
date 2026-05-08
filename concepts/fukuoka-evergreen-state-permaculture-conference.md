@@ -119,6 +119,6 @@ but essential struggle to turn agriculture back toward nature.
 
 - [[fukuoka-natural-farming-vs-organic-farming]]
 - [[fukuoka-food-and-human-health]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - UC Davis Agriculture Department Visit
 - [[fukuoka-road-three-don-quixotes]]

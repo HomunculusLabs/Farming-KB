@@ -147,4 +147,4 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
 ## See Also
 
-- [[homestead-planning-and-zoning]]
+- homestead planning and zoning

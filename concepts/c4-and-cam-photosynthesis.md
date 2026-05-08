@@ -5,7 +5,8 @@ updated: 2026-05-06
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]
 date: 2026-05-02
 type: concept
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 c4 and cam photosynthesis are evolutionary adaptations that concentrate

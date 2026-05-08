@@ -14,7 +14,7 @@ sources:
 
 # Hazelnut Cultivation and Variety Guide
 
-The hazelnut (also called filbert or cobnut) is a versatile, long-lived nut-producing shrub or small tree in the genus *Corylus* (family Betulaceae). Cultivated for thousands of years, hazelnuts rank among the most important nut crops worldwide, prized for their rich flavor, high nutritional value, and adaptability to diverse growing systems — from commercial orchards to permaculture food forests.
+The hazelnut (also called filbert or cobnut) is a versatile, long-lived nut-producing shrub or small tree in the genus *Corylus* (family Betulaceae). Cultivated for thousands of years, hazelnuts rank among the most important nut crops worldwide, prized for their rich flavor, high nutritional value, and adaptability to diverse growing systems — from commercial orchards to permaculture-food-waste-cyclingod-forests-design-course]].
 
 ## Species Overview
 
@@ -193,7 +193,7 @@ Causes brown-black lesions on leaves, twigs, and catkins. Favored by warm, wet c
 
 - **Squirrels and jays**: Often the most significant pest at homestead scale. Net individual bushes at nut set, use scare devices (owl decoys, reflective tape), or cage traps. A dedicated terrier or livestock guardian dog can provide effective control.
 - **Crown gall (*Agrobacterium tumefaciens*)**: Causes tumorous growths at the root crown. Avoid planting in contaminated soils. Inspect nursery stock carefully before planting; reject plants with galls on roots.
-- **Root rot (*Phytophthora* spp.)**: A soil-borne water mold favored by poorly drained soils. Symptoms include yellowing, wilting, and eventual death. Ensure adequate soil drainage; avoid planting in low, poorly drained sites. Raised beds can help in marginal sites.
+- **Root rot (*Phytophthora* spp.)**: A soil-borne water mold favored by poorly drained soils. Symptoms include yellowing, wilting, and eventual death. Ensure adequate soil drainage; avoid planting in low, poorly drained sites. [[raised-beds-vs-in-ground-vs-containers]] can help in marginal sites.
 - **Hazelnut aphid (*Myzocallis coryli*)**: Small yellow-green aphids that feed on the undersides of leaves. Usually controlled by natural predators (lady beetles, lacewings). Severe infestations may warrant insecticidal soap.
 
 ## Harvesting and Processing
@@ -277,13 +277,13 @@ Hazelnuts are exceptional candidates for food forest and agroforestry systems du
 ### Below the Hazelnut (Understory)
 
 - **Currants**, **gooseberries**, **elderberry** — shade-tolerant fruiting shrubs that fill the lower shrub layer.
-- **Comfrey** (*Symphytum officinale*) — deep-rooted dynamic accumulator that mines nutrients from subsoil and produces copious biomass for mulch.
+- **Comfrey** (*Symphytum officinale*) — deep-rooted [[dynamic-accumulator-plants-potassium]] that mines nutrients from subsoil and produces copious biomass for mulch.
 - **Rhubarb**, **hostas**, **sorrel** — shade-tolerant edible perennials for the herbaceous layer.
-- **Mint family** (*Mentha*, *Monarda*) — insectary plants that attract beneficial insects (though hazelnut itself is wind-pollinated, beneficial predators in the system help manage pest populations).
+- **Mint family** (*Mentha*, *Monarda*) — [[insectary-plants-for-pest-control]] that attract beneficial insects (though hazelnut itself is wind-pollinated, beneficial predators in the system help manage pest populations).
 
 ### Nitrogen Fixers
 
-- **Autumn olive** (*Elaeagnus umbellata*), **Russian olive** (*E. angustifolia*), **sea buckthorn** (*Hippophae rhamnoides*), and **alders** (*Alnus* spp.) provide biological nitrogen fixation and can serve as windbreaks or hedgerow companions. Goumi (*Elaeagnus multiflora*) is a non-invasive nitrogen-fixing option that also produces edible fruit.
+- **Autumn olive** (*Elaeagnus umbellata*), **Russian olive** (*E. angustifolia*), **[[sea-buckthorn-cultivation-and-uses]]** (*Hippophae rhamnoides*), and **alders** (*Alnus* spp.) provide [[biological-nitrogen-fixation-agriculture]] fixation and can serve as windbreaks or hedgerow companions. Goumi (*Elaeagnus multiflora*) is a non-invasive [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] option that also produces edible fruit.
 
 ### Guild Design Considerations
 

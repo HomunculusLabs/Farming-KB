@@ -148,4 +148,3 @@ synthesized within the plant from terpene precursors.
 - [[cannabis-hybridization-back-crossing-methods-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-terpene-and-aroma-chemistry-clarke]]
-- [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]

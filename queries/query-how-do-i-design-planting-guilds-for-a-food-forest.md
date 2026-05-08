@@ -21,19 +21,19 @@ sources:
 type: query
 ---
 
-# How Do I Design Planting Guilds for a Food Forest?
+# How Do I Design Planting Guilds for a [[food-forest]]?
 
-A planting guild (also called a plant guild or companion guild) is a community of plants that support each other through mutual benefits — nutrient cycling, pest management, pollination, and microclimate creation. In food forest design, guilds are the building blocks that make the system function as a self-sustaining ecosystem rather than a collection of isolated trees.
+A planting guild (also called a [[plant-guild]] or companion guild) is a community of plants that support each other through mutual benefits — nutrient cycling, pest management, pollination, and microclimate creation. In [[food-forest-design]], guilds are the building blocks that make the system function as a self-sustaining ecosystem rather than a collection of isolated trees.
 
 ## What Is a Guild?
 
 A guild centers on a **central element** — usually a fruit or nut tree — and includes companion plants that fill specific functional roles:
 - **Nitrogen fixers**: Convert atmospheric nitrogen into plant-available form (legumes and actinorhizal plants)
-- **Dynamic accumulators**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
+- **[[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
 - **Ground covers**: Living mulches that suppress weeds, retain moisture, and protect soil
 - **Root crops**: Plants that occupy different soil horizons to reduce competition
-- **Mulch producers**: Plants that generate biomass for sheet mulching and compost
+- **Mulch producers**: Plants that generate biomass for [[sheet-mulching]] and compost
 - **Pest confusers**: Aromatic plants that mask crop scents or repel pests
 
 A well-designed guild provides most or all of these functions around each central tree, reducing or eliminating the need for external inputs.
@@ -142,47 +142,6 @@ Choose at least one plant for each guild function, prioritizing multi-functional
 | Function | Example Plants |
 |----------|---------------|
 | Nitrogen fixer | Siberian pea shrub, goumi, seaberry, lupine, clover, groundnut, pigeon pea, false indigo |
-| Dynamic accumulator | Comfrey, yarrow, dandelion, chicory, nettle, plantain, borage, dock |
-| Insectary | Dill, fennel, yarrow, borage, calendula, alyssum, cosmos, zinnia, buckwheat, tansy |
-| Ground cover | Clover, creeping thyme, oregano, strawberry, nasturtium, sweet potato, mint |
-| Mulch producer | Comfrey, artichoke, Jerusalem artichoke, cardoon, rhubarb, sorghum |
-| Pest confuser | Garlic, chives, onions, marigolds, nasturtium, tansy, rue, wormwood |
-
-(Section truncated for length.)
-
-- Sheet mulch the entire guild area before planting to suppress weeds and build soil
-- Inoculate with mycorrhizal fungi at planting time
-- Observe and adjust: remove plants that aren't thriving, add plants that fill gaps
-- A guild matures over 5–10 years — plan for succession as the system evolves
-
-## Common Mistakes
-
-1. **Over-planting too close to the trunk**: Young trees need clear space around the root flare. Keep competition at least 30 cm from the trunk and increase the radius as the tree grows.
-2. **Ignoring mature sizes**: Research the mature spread of every plant. A guild designed for a 2-year-old landscape will be overcrowded by year 5 if mature sizes aren't accounted for.
-3. **Planting too many aggressive spreaders**: Comfrey, mint, Jerusalem artichoke, and lemon balm can overwhelm a guild if not managed. Use root barriers or choose less aggressive alternatives.
-4. **Neglecting the fungal layer**: Inoculate with mycorrhizal fungi and consider intentionally growing edible mushrooms (wine cap, oyster) on woody mulch in the guild.
-5. **Mono-functional planting**: Every plant should serve 2+ functions. A plant that only looks pretty is wasting valuable guild space.
-6. **Copying guilds without adaptation**: The classic apple guild from Massachusetts won't work the same in Arizona or Scotland. Adapt species selection to your climate, soil, and goals.
-
-## Quick Guild Design Template
-
-For any central tree, use this fill-in-the-blank approach:
-- **Central tree**: [Your chosen fruit/nut tree]
-- **Nitrogen fixer**: [Choose 1–2 adapted to your zone]
-- **Dynamic accumulator**: [Comfrey or local equivalent]
-- **Insectary (spring bloom)**: [Early-flowering species]
-- **Insectary (summer bloom)**: [Mid-season flowering species]
-- **Insectary (fall bloom)**: [Late-season flowering species]
-- **Ground cover / living mulch**: [Clover, thyme, or local equivalent]
-- **Pest confuser / allium**: [Garlic, chives, or local equivalent]
-- **Mulch producer**: [Comfrey, artichoke, or local equivalent]
-- **Root crop / bio-drill**: [Daikon radish or similar]
-- **Climber (optional)**: [Grape, kiwi, or nitrogen-fixing vine]
-- **Bulb (spring)**: [Daffodils, garlic, or local equivalent]
-- **Fungal inoculation**: [Mycorrhizal inoculant + wine cap spawn]
-
-This template produces a functional guild for almost any climate zone — swap species based on your local conditions while maintaining the functional roles.
-
 ## See Also
 
 - [[achillea-millefolium]]

@@ -124,4 +124,4 @@ indications).
 - [[dmt]] — non-ergoline psychedelic for comparison
 - [[5-meo-dmt]] — tryptamine psychedelic
 - [[ibotenic-acid]] — glutamate-receptor agonist from Amanita species
-- [[psilocybin]] — mushroom-derived psychedelic acting on serotonin receptors
+- [[psilocybin-compound]] — mushroom-derived psychedelic acting on serotonin receptors

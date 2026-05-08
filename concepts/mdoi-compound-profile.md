@@ -45,7 +45,7 @@ As a ring-substituted amphetamine, MDOI likely acts as a serotonin receptor agon
 
 ## Comparison to Related Compounds
 
-- **MDA** ([[mda-compound-profile]]): MDOI has additional methoxy groups, increasing its psychedelic character
+- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): MDOI has additional methoxy groups, increasing its psychedelic character
 - **DOB** ([[dob-compound-profile]]): DOB has a bromine rather than a methylenedioxy bridge, producing more potent and longer-lasting effects
 - **MDMA** ([[mdma-in-pihkal-context]]): MDOI lacks MDMA's N-methyl group and has different ring substitution, producing a more psychedelic and less empathogenic profile
 
@@ -61,7 +61,7 @@ As a ring-substituted amphetamine with both methoxy and methylenedioxy groups, M
 
 Given the 8-12 hour duration, users should plan for a full day commitment. The combination of stimulant (amphetamine backbone) and psychedelic (serotonergic) effects can produce significant cardiovascular strain. Hydration, comfortable setting, and a trusted sitter are essential. As with all research chemicals, reagent testing is recommended to verify identity and purity before consumption. The extended duration also increases the risk of sleep disruption — planning the experience for morning start allows for natural resolution before bedtime.
 
-See also: [[mda-compound-profile]], [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]]
+See also: [[ayahuasca-and-dmt-plant-medicine]], [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]]
 
 ## Practical Use
 This topic is best evaluated in context: climate, available materials, labor,

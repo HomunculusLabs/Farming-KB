@@ -51,7 +51,7 @@ Spores are spherical to broadly ellipsoidal, 5–8 µm in diameter, ornamented w
 
 The species is terrestrial and saprotrophic, fruiting on soil in open grasslands, pastures, lawns, parks, and along roadsides. It prefers warm, humid conditions and typically fruits from late summer through autumn (August to November in North America).
 
-It occasionally appears in disturbed habitats including cultivated fields and garden beds. Unlike many puffballs, it is rarely found on wood or woody debris, distinguishing it from species like **[[coprinus-comatus]]**.
+It occasionally appears in disturbed habitats including cultivated fields and garden beds. Unlike many puffballs, it is rarely found on wood or woody debris, distinguishing it from species like **[[coprinus-comatus-detailed]]**.
 
 ## Edibility and Culinary Use
 
@@ -110,8 +110,8 @@ Foragers should avoid collecting from roadsides, lawns treated with herbicides o
 - [[calvatia-gigantea]] — giant puffball, the most commonly foraged member of the genus
 - [[lycoperdon-perlatum]] — gem-studded puffball, a smaller but widespread edible species
 - [[agaricus-campestris]] — meadow mushroom, a common grassland fungus
-- [[boletus-edulis]] — king bolete, a mycorrhizal grassland and forest species
-- [[coprinus-comatus]] — shaggy mane, an ink-cap fungus of disturbed ground
+- [[boletus-edulis-entity]] — king bolete, a mycorrhizal grassland and forest species
+- [[coprinus-comatus-detailed]] — shaggy mane, an ink-cap fungus of disturbed ground
 - [[agaricus-bisporus]] — button mushroom, the most widely cultivated fungus
 - [[pleurotus-ostreatus]] — oyster mushroom, a wood-decomposing edible species
 - [[trametes-versicolor]] — turkey tail, a common polypore with medicinal properties

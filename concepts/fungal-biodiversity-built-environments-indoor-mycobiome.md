@@ -148,4 +148,3 @@ indoor fungal health risks.
 - [[biodiversity-xerophilic-fungi-dry-environments]]
 - [[biodiversity-medically-important-fungi-isolation]]
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[biodiversity-yeast-diversity-ecology]]

@@ -65,7 +65,7 @@ Commercial and recreational harvesting of wild edible mushrooms (particularly in
 
 ### Habitat Protection
 
-Protecting forest ecosystems, particularly old-growth stands, is the single most effective strategy for fungal conservation. [[fungal-conservation-strategies|Conservation strategies]] should include:
+Protecting forest ecosystems, particularly old-growth stands, is the single most effective strategy for fungal conservation. [[ethnomycology|Conservation strategies]] should include:
 
 - Maintaining dead wood and woody debris in managed forests
 - Preserving diverse age classes of trees for mycorrhizal partner continuity

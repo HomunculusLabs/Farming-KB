@@ -100,7 +100,7 @@ Large animal activity causes sudden and long-term vegetation change that persist
 
 Designers should record such sites, identify the characteristic plant communities, and locate similar sites for reference. This data aids conservation and provides practical information about soil drainage since rabbits choose well-drained sites for their warrens.
 
-Nutrient supply from guano deposits and soil conditioning from termite activity can inform [[permaculture-soil-strategies]] and guide the establishment of tree clumps following natural fertility indicators. Macrofaunal effects connect to broader soil ecology topics including [[nematodes-in-soil-ecology]], [[soil-arthropods]], and [[bacterial-vs-fungal-soil]] dynamics.
+Nutrient supply from guano deposits and soil conditioning from termite activity can inform [[permaculture-soil-strategies]] and guide the establishment of tree clumps following natural fertility indicators. Macrofaunal effects connect to broader soil ecology topics including [[nematodes-in-soil-ecology]], soil arthropods, and [[bacterial-vs-fungal-soil]] dynamics.
 
 ## Practical Application
 
@@ -130,7 +130,7 @@ Cross-reference biological observations with physical tests where needed, but le
 
 [[nematodes-in-soil-ecology]]
 
-[[soil-arthropods]]
+soil arthropods
 
 [[permaculture-frost-protection-strategies]]
 

@@ -113,7 +113,7 @@ Several breeders have used Gelonade as a parent in further crosses, including co
 
 ## See Also
 
-- [[gelato]]
+- [[gelato-cannabis]]
 - [[gelato-33]]
 - [[lemon-haze]]
 - [[tropicana-cookies]]

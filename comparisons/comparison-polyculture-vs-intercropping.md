@@ -148,4 +148,3 @@ continuous ground cover and biological activity. See
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - Companion Planting Vs Polyculture
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[polyculture-design-hemenway]]

@@ -17,7 +17,7 @@ type: concept
 
 # Amanita muscaria
 
-Amanita muscaria, commonly known as the fly agaric, is a visually iconic mushroom belonging to the Agaricaceae family. It is chemically distinct from [[psilocybin]]-containing mushrooms and has emerged as a marketed legal alternative in jurisdictions where psilocybin mushrooms have been prohibited. Its active compounds carry substantially greater toxicity risks than those of traditional magic mushrooms.
+Amanita muscaria, commonly known as the fly agaric, is a visually iconic mushroom belonging to the Agaricaceae family. It is chemically distinct from [[psilocybin-compound]]-containing mushrooms and has emerged as a marketed legal alternative in jurisdictions where psilocybin mushrooms have been prohibited. Its active compounds carry substantially greater toxicity risks than those of traditional magic mushrooms.
 
 ## Appearance and Identification
 
@@ -33,7 +33,7 @@ The active compounds in Amanita muscaria are fundamentally different from those 
 - **Ibotenic acid**: A glutamate receptor agonist that is neurotoxic at sufficient doses. Ibotenic acid acts as a prodrug for muscimol, being partially converted to muscimol through decarboxylation during drying or heating. It is largely responsible for the toxic and unpleasant effects associated with improperly prepared Amanita muscaria.
 - **Muscarine**: Present only in small quantities in Amanita muscaria. Despite the species name (muscaria = muscarine-containing), muscimol and ibotenic acid are the primary active compounds, not muscarine.
 
-This chemical profile is entirely distinct from the tryptamine-based [[psilocybin]] and psilocin found in the Strophariaceae, Bolbitiaceae, Coprinaceae, and Cortinariaceae families. Amanita muscaria acts primarily on the GABAergic and glutamatergic systems rather than the serotonergic pathways targeted by classical psychedelics.
+This chemical profile is entirely distinct from the tryptamine-based [[psilocybin-compound]] and psilocin found in the Strophariaceae, Bolbitiaceae, Coprinaceae, and Cortinariaceae families. Amanita muscaria acts primarily on the GABAergic and glutamatergic systems rather than the serotonergic pathways targeted by classical psychedelics.
 
 ## Toxicity Risks
 
@@ -64,7 +64,7 @@ This substitution raised significant public health concerns documented by the EM
 
 ## Effects Profile
 
-The effects of Amanita muscaria differ markedly from those of classical psychedelics. Muscimol acts as a GABA-A agonist, producing effects more akin to alcohol, benzodiazepines, or dissociative anesthetics than to [[psilocybin]] or LSD. Reported effects include:
+The effects of Amanita muscaria differ markedly from those of classical psychedelics. Muscimol acts as a GABA-A agonist, producing effects more akin to alcohol, benzodiazepines, or dissociative anesthetics than to [[psilocybin-compound]] or LSD. Reported effects include:
 
 - Sedation, drowsiness, and lethargy
 - Dissociation and altered perception of self and environment
@@ -125,7 +125,7 @@ The switch from psilocybin mushrooms to Amanita muscaria following legal bans re
 
 - [[amanita-muscaria-pharmacology]] Concepts
 
-- [[psilocybin]] - the chemically distinct compound found in traditional magic mushrooms
+- [[psilocybin-compound]] - the chemically distinct compound found in traditional magic mushrooms
 - [[hallucinogenic-mushroom-market-in-europe]] - the market context driving Amanita substitution
 - [[psilocybe-cubensis]] - the most common species replaced by Amanita in retail markets
 - [[bad-trip]] - adverse reactions, which differ in character between Amanita and psilocybin species

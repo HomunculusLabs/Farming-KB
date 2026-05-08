@@ -123,6 +123,6 @@ identified in confirmed *R. virescens* specimens.
 ## See Also
 
 - [[russula-emetica]] — acrid red russula for contrast
-- [[boletus-edulis]] — porcini, another prized ectomycorrhizal edible
-- [[cantharellus-cibarius]] — chanterelle, often found in the same habitat
+- [[boletus-edulis-entity]] — porcini, another prized ectomycorrhizal edible
+- [[cantharellus-cibarius-entity]] — chanterelle, often found in the same habitat
 - [[amanita-phalloides]] — death cap, the critical lookalike to distinguish

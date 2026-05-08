@@ -148,5 +148,3 @@ Extrapolation techniques should be used to
 supplement, not replace, thorough field sampling. The greatest constraint
 on [[fungal-biodiversity]] estimation remains the paucity of taxonomic
 ## See Also
-
-- [[fungal-biodiversity-species-estimation]]

@@ -124,6 +124,6 @@ every subsequent drug crisis.
 - [[mckenna-dionysus-dying-god-archetype]]
 - [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]

@@ -39,7 +39,7 @@ The [[cotter-oyster-mushroom-cultivation]] guide covers container selection, sub
 
 ## Wine Cap Mushrooms for Outdoor Growing
 
-For growers who prefer an outdoor approach, [[wine-cap-stropharia-cultivation]] is one of the easiest options:
+For growers who prefer an outdoor approach, wine cap stropharia cultivation is one of the easiest options:
 
 - They grow directly on wood chips and garden mulch with minimal setup
 - Simply inoculate hardwood chips with spawn and spread in a shaded bed

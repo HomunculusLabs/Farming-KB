@@ -117,6 +117,6 @@ T. indicum (Chinese truffle) can superficially resemble T. brumale but typically
 - [[tuber-melanosporum]]
 - [[tuber-aestivum]]
 - [[morchella-esculenta]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[trametes-versicolor]]
 - [[laccaria-laccata]]

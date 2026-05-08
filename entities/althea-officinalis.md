@@ -115,7 +115,7 @@ Within Malvaceae, *Abelmoschus esculentus* (okra) shares the characteristic muci
 - [[valeriana-officinalis]]
 - [[melissa-officinalis]]
 - [[passiflora-incarnata]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[glycyrrhiza-uralensis]]
 - [[panax-ginseng]]
 - [[withania-somnifera]]

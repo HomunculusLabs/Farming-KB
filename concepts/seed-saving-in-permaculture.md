@@ -10,11 +10,9 @@ sources:
 
 **Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 12) | **Updated:** 2026-04-18
 
-
 ## Overview
 
 Seed saving is a critical act of resistance against corporate control of food systems. The 20-30 basic food crop seeds (grains and grain legumes) are subject to concerted efforts at total control by agro-chemical multinationals. Permaculture advocates for local seed sovereignty through exchanges, libraries, and open-pollinated non-patented seed networks. See also [[seed-saving-techniques]], [[seed-saving-vegetables]], and [[community-economics-in-permaculture]].
-
 
 ## The Threat of Seed Monopoly
 
@@ -25,7 +23,6 @@ Seed saving is a critical act of resistance against corporate control of food sy
 - Seeds altered to suit agro-chemical industry purposes, not local food production
 - Seed outlets for farmers bought up by agro-chemical industry
 - Estimated 85% of European varieties lost due to monopoly control of market by seed patenting
-
 
 ## The Response: Seed Sovereignty
 
@@ -39,7 +36,6 @@ In response, people and organizations everywhere have established:
 ### Key Principle
 "A region in any climate can escape external food control via a local, regional, and national network of seed exchanges and open-pollinated (non-hybrid) non-patented seed."
 
-
 ## The Encouraging Result
 
 Despite the enormous loss of locally adapted seed:
@@ -48,14 +44,12 @@ Despite the enormous loss of locally adapted seed:
 - Perennials and trees providing staple food have largely usurped seed patenting
 - Every gardener who opposes external control preserves valuable varieties
 
-
 ## Heirloom and Traditional Varieties
 
 - Many preserved varieties are heirloom or locally reliable traditional food plants
 - Specific to site, climate, or regional preference
 - These species and varieties give any new gardener a vast range of potential product
 - It is particularly important for small farmers to grow and share seed
-
 
 ## Seed Resources
 
@@ -64,7 +58,6 @@ Despite the enormous loss of locally adapted seed:
 - Local seed networks are more reliable than corporate supply chains
 - Regional adaptation improves over successive generations of saved seed
 
-
 ## Integration with Permaculture Design
 
 - Seed saving is integral to permaculture's goal of self-reliance
@@ -72,7 +65,6 @@ Despite the enormous loss of locally adapted seed:
 - Local seed networks form part of [[bioregional-organization]]
 - Seed diversity is essential for resilient [[village-development-in-permaculture]]
 - Combined with [[faires-plant-communities-and-guilds]] for complete food system design
-
 
 ## Related Topics
 

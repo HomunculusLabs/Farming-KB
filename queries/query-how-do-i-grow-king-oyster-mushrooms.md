@@ -148,5 +148,3 @@ Mushrooms that abort mid-development may be experiencing temperature stress, ins
 - King oyster mushrooms ([[pleurotus-eryngii]]) require supplemented hardwood sawdust substrates and precise environmental control to produce premium thick-stemmed fruiting bodies
 - Maintain temperatures of 12 to 18 degrees Celsius during fruiting with elevated carbon dioxide levels early on for stem elongation, then increase air exchange for cap development
 - A tightly packed substrate and proper [[incubation-and-colonization]] at 20 to 25 degrees Celsius for 21 to 30 days ensures strong mycelial networks for robust fruiting
-- The [[oyster-mushroom-bottle-cultivation]] method is ideal for king oysters, producing large individual mushrooms with thick stems and small caps
-- Biological efficiency ranges from 75 to 200 percent depending on substrate formulation, with [[mushroom-cultivation-bulk-substrates]] like Master's Mix yielding the highest returns

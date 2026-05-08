@@ -23,7 +23,7 @@ incorporation, and microbial biomass turnover.
 
 Nitrogen is the most abundant element in Earth's atmosphere at 78%, yet it
 is often the most limiting nutrient in garden soils because plants cannot
-use atmospheric nitrogen (N2) directly. The [[nitrogen-cycle-in-soil|nitrogen cycle]] is the series
+use atmospheric nitrogen (N2) directly. The [[composting-and-soil-biology|nitrogen cycle]] is the series
 of biological and chemical processes that convert inert atmospheric nitrogen
 into biologically available forms that plants can absorb through their roots.
 Understanding this cycle allows gardeners to manage nitrogen more

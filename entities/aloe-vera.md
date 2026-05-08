@@ -139,53 +139,11 @@ products containing aloin is generally considered safe.
 - **Digestive support:** Traditional use for constipation (latex),
   GERD, and ulcerative colitis; evidence is mixed
 - **Blood sugar regulation:** Some clinical trials show mild
-  hypoglycemic effect in type 2 diabetes, but more research is needed
-- **Oral health:** Aloe vera juice shows comparable effectiveness
-  to chlorhexidine mouthwash for plaque and gingivitis reduction
-- **Immune support:** Acemannan has demonstrated immunomodulatory
-  effects in vitro and in animal studies; human clinical data is
-  limited
-
-## Cultivation and Propagation
-
-A. vera is one of the easiest medicinal plants to cultivate, making it
-an excellent entry point for home herb gardens. Key cultivation
-parameters:
-
-- **Propagation:** Primarily by offsets (pups) produced at the base
-  of mature plants; these can be separated and replanted when 10–15 cm
-  tall. Seed propagation is possible but slow and less reliable.
-- **Planting:** Space 30–45 cm apart in well-drained soil. Containers
-  should have drainage holes and be proportioned to the root mass —
-  over-potting increases root rot risk.
-- **Watering:** Allow soil to dry completely between waterings.
-  In winter, reduce watering to once per month.
-- **Fertilization:** Minimal requirements; a dilute balanced
-  fertilizer once or twice during the growing season is sufficient.
-- **Pests:** Generally pest-resistant; mealybugs and scale insects
-  can occur, especially on stressed or overwatered plants.
-- **Harvest:** Mature outer leaves can be harvested as needed by
-  cutting close to the base with a sharp knife. The plant regenerates
-  leaves continuously.
-
-## Permaculture Applications
-
-- **Xeriscaping:** Ideal for water-wise landscapes and drought-
-  tolerant gardens; requires minimal irrigation once established
-- **Fire-resistant planting:** Succulent water content makes it
-  useful in firewise landscape design
-- **Indoor air quality:** NASA clean air study included A. vera as
-  a formaldehyde remover (though practical significance is debated)
-- **Companion planting:** Works well alongside other Mediterranean
-  herbs (rosemary, lavender, thyme) that share similar water needs
-- **Multi-functional:** Provides medicine, ornamental value, and
-  erosion control on slopes
-
 ## See Also
 
-- [[aloe-vera]] — check for additional entity variants
+- aloe vera — check for additional entity variants
 - [[tagetes-lucida]]
 - [[calendula-officinalis]]
-- [[ocimum-tenuiflorum]]
+- [[ocimum-tenuiflorum-entity]]
 - [[symphytum-officinale]]
 - [[rheum-palmatum]]

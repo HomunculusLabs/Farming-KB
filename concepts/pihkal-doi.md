@@ -148,4 +148,3 @@ pharmacological impact of alpha-methylation.
 - [[pihkal-dob]]
 - [[pihkal-dom]]
 - [[pihkal-2c-i]]
-- [[pihkal-doc]]

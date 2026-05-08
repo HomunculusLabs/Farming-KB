@@ -132,39 +132,6 @@ fruiting bodies are typically only a few millimeters tall.
 Raindrops splash the peridioles from the cups onto surrounding grass
 blades. The peridioles are equipped with sticky threads (funiculi)
 that anchor them to vegetation.
-Herbivores grazing nearby consume the peridioles, passing the spores
-through their digestive systems and depositing them in warm manure,
-which provides an ideal substrate for the next generation.
-
-## The Cannon Fungus: Sphaerobolus
-
-*Sphaerobolus* operates the most spectacular gasteromycete discharge
-mechanism. Its fruiting body functions as a tiny trampoline.
-When mature, the inner layer of a cup-shaped structure inverts
-explosively, launching a black ball of spores up to several meters.
-The spore balls adhere to surfaces with incredible tenacity, staining
-paintwork on cars and buildings. Like bird's nest fungi, *Sphaerobolus*
-is adapted for passage through herbivore digestive systems.
-
-## Evolution of Gasteromycetes
-
-Gasteromycetes are defined by the internal formation of spores rather
-than by shared ancestry. They appear to have evolved independently from
-multiple lineages of gilled and pored mushrooms.
-The transition likely involved the gradual loss of the unfolding
-capacity of the fruiting body, resulting in enclosed hymenial tissues
-that preclude ballistic spore discharge.
-This evolutionary shift enabled gasteromycetes to colonize much drier
-habitats than other basidiomycetes, as their dispersal mechanisms are
-not dependent on the water condensation required for Buller's drop.
-False truffles provide compelling evidence for this evolutionary
-pathway. Genetic data show that some false truffles are closely related
-to boletes, and the buried fruiting body can be explained by the
-mutation of just a few genes controlling emergence from the soil.
-Small changes in enzyme activity during development can transform a
-Phallus-type receptacle into an Anthurus-type star, suggesting that the
-remarkable diversity of gasteromycete forms evolved relatively quickly.
-
 ## Related Topics
 
 - [[fungal-spore-discharge-mechanisms]]

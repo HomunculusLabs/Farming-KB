@@ -137,7 +137,7 @@ play in reinforcing or legitimating forms of regulation.
 
 ## See Also
 
-- [[smartshop-online-mushroom-markets]]
+- [[smartshop-and-online-mushroom-markets]]
 
 - [[online-homestead-sales]]
 

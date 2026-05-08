@@ -129,7 +129,7 @@ Mycelium Running by Paul Stamets, Chapter 7: Mycoremediation
 - [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[cotter-mycoremediation-overview]]
 - [[petroleum-hydrocarbon-fungal-biodegradation]]
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[fungal-carbon-substrate-utilization-efficiency]]
 - [[mycelium-running-pest-control-with-fungi]]

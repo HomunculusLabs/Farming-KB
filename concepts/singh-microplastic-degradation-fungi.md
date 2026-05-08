@@ -148,4 +148,3 @@ Fungal microplastic degradation integrates with
 
 - [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-biodegradation-biodeterioration-materials]]

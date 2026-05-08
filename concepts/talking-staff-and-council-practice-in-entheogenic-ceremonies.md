@@ -1,7 +1,7 @@
 ---
-title: "Talking Staff and Council Practice in Entheogenic Ceremonies"
+title: "talking staff and council practice in entheogenic ceremonies"
 tags:
-  - shamanism
+  - [[shamanism]]
   - entheogens
   - ceremony
   - talking-staff
@@ -20,18 +20,15 @@ sources:
 
 created: 2026-05-07
 ---
-
 # Talking Staff and Council Practice in Entheogenic Ceremonies
 
 ## Origin and Transmission
 
 The talking staff (also called the singing staff or speaking staff) practice used in many
 modern hybrid shamanic therapeutic circles originated among the Indigenous peoples of the
-Pacific Northwest of North America. It has since become a widely adopted element in
-contemporary entheogenic ceremony and is now, as Metzner notes, "more generally referred to
+[[psilocybin-north-america-pacific-northwest]] of North America. It has since become a widely adoentheogenic-ceremony-preparationemporary [[entheogenic-ceremony]] and is now, as Metzner notes, "more generally referred to
 as 'council.'" The practice represents one of the most successful and natural examples of
-cross-cultural adoption in the modern entheogenic movement — a genuine indigenous
-contribution to the toolkit of Western psychedelic therapy. The transmission path is
+cross-cultural adoption in the modern entheogenic movement — a genuine indigpsychedelic-therapy-shamanism-comparisonto the toolkit of Western psychedelic therapy. The transmission path is
 characteristic of the broader exchange between indigenous shamanic traditions and Western
 psychotherapeutic practice. The talking staff entered the modern entheogenic lexicon not
 through academic anthropology but through direct experiential contact between Western
@@ -95,7 +92,7 @@ boundaries between different modes of consciousness and activity. Before the med
 taken, the staff circulates among participants who share their intentions and purposes for
 the ceremony. This practice of "clarifying intentions with respect to healing and
 divination" is recognized by experienced entheogenic explorers as essential to the set and
-setting framework first articulated by Timothy Leary, Ralph Metzner, and Richard Alpert in
+setting framework first articulated by [[timothy-leary]], [[ralph-metzner]], and [[richard-alpert]] in
 their 1963 paper. During the height of the entheogenic experience, the staff may circulate
 for spontaneous expression — singing, weeping, chanting, or speaking in whatever form the
 medicine inspires. After the ceremony, sometimes the morning after, the staff returns for
@@ -147,12 +144,3 @@ participants into their work with the entheogenic medicines. Participants tend t
 that the entheogenic plant medicines, when combined with meditative or therapeutic insight
 processes, function to amplify awareness and sensitize perception, particularly amplifying
 somatic, emotional, and instinctual awareness.
-
-## See Also
-
-- [[metzner-hybrid-shamanic-therapeutic-rituals]] for the full ceremonial context
-- [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]] for the three core shamanic features
-- [[metzner-four-paradigms-psychedelic-healing]] for the comparative framework
-- [[metzner-entheogen-terminology-and-worldview-paradigms]] for set and setting theory
-- [[entheogenic-ceremony-preparation]] for preparation practices
-- [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]] for community forms

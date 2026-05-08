@@ -14,7 +14,7 @@ type: concept
 Fukuoka presents a detailed critique of the energy efficiency of modern
 agriculture, demonstrating that scientific farming's claimed high productivity
 is an illusion when energy inputs are properly accounted for. This analysis
-forms a cornerstone of his [[fukuoka-critique-scientific-agriculture]].
+forms a cornerstone of his [[fukuoka-critique-of-scientific-agriculture]].
 
 ## Energy Efficiency Comparison
 
@@ -143,7 +143,7 @@ begun searching frantically for the road leading toward
 
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-critique-modern-livestock]]
 - [[fukuoka-natural-farming-method]]
 - [[fukuoka-japan-postwar-agriculture]]

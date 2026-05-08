@@ -93,7 +93,7 @@ def pop(n=3, exclude_prefixes=None):
         if item["prefix"] in exclude_prefixes:
             continue
         # Skip if mined in last 5 minutes (reduced from 15 to allow faster cycling)
-        if now - item.get("last_mined", 0) < 300:
+        if now - item.get("last_mined", 0) < 60:
             continue
         picked.append(item)
         item["last_mined"] = now

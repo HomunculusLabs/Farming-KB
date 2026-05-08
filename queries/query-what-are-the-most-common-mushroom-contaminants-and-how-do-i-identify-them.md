@@ -21,7 +21,7 @@ Understanding the basics of each major contaminant type will help you diagnose p
 Contaminants compete with your mushroom mycelium for nutrients and space in the substrate.
 Some produce toxins or inhibit mushroom growth through antibiotic compounds that suppress mycelial expansion and fruiting body development.
 Contaminants are everywhere in our environment: in the air, on surfaces, in water, and on our skin.
-The goal of [[mushroom-cultivation-sterile-technique]] is not to eliminate all microorganisms entirely, which is impossible outside of a laboratory cleanroom.
+The goal of [[mushroom-cultivation-fundamentals]] is not to eliminate all microorganisms entirely, which is impossible outside of a laboratory cleanroom.
 Rather, the goal is to create conditions where your mushroom mycelium has a significant head start over potential contaminants.
 Understanding what each contaminant looks like and how it behaves allows you to identify problems early and quarantine affected cultures.
 ### Trichoderma (Green Mold)
@@ -114,7 +114,7 @@ Flame-sterilizing injection ports and using sterile syringes for every transfer 
 | Fruiting | Cobweb mold, bacterial blotch | Air exchange, humidity management |
 ### Prevention Strategies
 Prevention is always more effective than treatment when it comes to contamination in mushroom cultivation.
-The foundation of prevention is good [[mushroom-cultivation-sterile-technique]], which includes washing hands and arms before every procedure.
+The foundation of prevention is good [[mushroom-cultivation-fundamentals]], which includes washing hands and arms before every procedure.
 Wearing gloves and a face mask during inoculation adds another layer of protection against contamination.
 Flame-sterilizing all metal tools between uses eliminates contaminants on tool surfaces.
 Working in front of a laminar flow hood whenever possible provides the cleanest air environment for sensitive operations.
@@ -136,7 +136,7 @@ After removing contaminated materials, clean all surfaces with a 10 percent blea
 Consider running a HEPA air filter for several hours to capture remaining airborne spores in the growing area.
 ## Key Points
 - Trichoderma green mold is the most common and destructive contaminant, appearing first as white growth that turns bright green within 48 hours
-- Proper [[mushroom-cultivation-sterile-technique]] including hand washing, flame sterilization, and laminar flow hood use prevents most contamination events
+- Proper [[mushroom-cultivation-fundamentals]] including hand washing, flame sterilization, and laminar flow hood use prevents most contamination events
 - Bacterial contamination in grain spawn usually indicates incomplete pressure cooking, while mold contamination suggests airborne spore exposure during inoculation
 - Cobweb mold on fruiting bodies can be treated with hydrogen peroxide, but most contaminated grain spawn and agar plates should be discarded immediately
 - Always test [[mushroom-liquid-culture]] on agar before using it to inoculate grain spawn, as liquid culture is highly susceptible to yeast contamination
@@ -148,4 +148,3 @@ Consider running a HEPA air filter for several hours to capture remaining airbor
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
-- [[query-how-do-i-grow-cordyceps-mushrooms]]

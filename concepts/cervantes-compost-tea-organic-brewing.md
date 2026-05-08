@@ -145,5 +145,5 @@ of organic matter and increasing nutrient availability.
 
 ## See Also
 
-- [[cervantes-organic-growing]] for comprehensive organic techniques
+- [[cannabis-advanced-growing-techniques]] for comprehensive organic techniques
 - [[cervantes-organic-amendments-chart]] for organic nutrient sources

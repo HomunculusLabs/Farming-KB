@@ -55,7 +55,7 @@ Liquid cultures require more equipment and skill to produce. A pressure cooker, 
 
 ## When to Use Each
 
-Spore syringes are ideal for beginners, for establishing new genetic stock, for species that are difficult to germinate on agar, and for long-term storage of genetic diversity. Liquid cultures are preferred for cultivators who have already isolated desirable strains through [[mushroom-cultivation-cloning-isolation]] or strain isolation, for rapid and consistent production grows, and for scaling up to larger cultivation volumes. Many experienced cultivators use both: spore syringes for genetic exploration and liquid cultures for reliable production from proven strains.
+Spore syringes are ideal for beginners, for establishing new genetic stock, for species that are difficult to germinate on agar, and for long-term storage of genetic diversity. Liquid cultures are preferred for cultivators who have already isolated desirable strains through [[mushroom-cultivation-fundamentals]] or strain isolation, for rapid and consistent production grows, and for scaling up to larger cultivation volumes. Many experienced cultivators use both: spore syringes for genetic exploration and liquid cultures for reliable production from proven strains.
 
 ## Comparison Summary Table
 

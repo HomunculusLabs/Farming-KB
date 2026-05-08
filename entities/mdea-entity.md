@@ -19,7 +19,7 @@ PIHKAL entry #106 (listed as "MDE"). Also known as MDE, EVE, or N-Ethyl-MDA. MDE
 - HCl salt mp: 198-199 C (LAH reduction), 201-202 C (NaBH3CN reduction)
 - N-Acetyl intermediate: white crystals from EtOAc/hexane, mp 92-93 C
 - Free base: off-white oil, distilled at 145-150 C at 0.5 mm/Hg
-- Structural relationship: N-ethyl homologue of [[mda-entity]]; one carbon longer on the nitrogen than [[mdma-entity]] (N-methyl)
+- Structural relationship: N-ethyl homologue of [[mda]]; one carbon longer on the nitrogen than [[mdma-entity]] (N-methyl)
 
 ## Dosage and Duration
 
@@ -78,7 +78,7 @@ Teeth clenching can occur, especially with supplemental dosages. Supplements hav
 ## See Also
 
 - [[mdma-entity]] — the N-methyl analogue, more widely studied and used
-- [[mda-entity]] — the N-H parent compound with longer duration and more psychedelic character
+- [[mda]] — the N-H parent compound with longer duration and more psychedelic character
 - [[mbdb-entity]] — another N-substituted MDA analogue (N-methyl-N-benzyl)
 - [[phenethylamine-pharmacology]] — broader pharmacological context
 - [[2c-b-compound-profile]] — commonly combined with MDEA via window exploitation

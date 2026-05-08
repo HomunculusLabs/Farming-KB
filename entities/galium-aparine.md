@@ -148,5 +148,3 @@ and benefits subsequent crops when applied as mulch or compost amendment.
 
 - [[urtica-dioica]]
 - [[plantago-major]]
-- [[taraxacum-officinale]]
-- [[borago-officinalis]]

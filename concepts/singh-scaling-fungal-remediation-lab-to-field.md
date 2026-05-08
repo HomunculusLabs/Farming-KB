@@ -45,7 +45,7 @@ predict field performance.
 
 ### Microcosm and Mesocosm Studies
 
-[[singh-microcosm-and-mesocosm-studies-in-mycorrhizal-remediation]] (1-10 L) introduce soil-based
+singh microcosm and mesocosm studies in mycorrhizal remediation (1-10 L) introduce soil-based
 systems, multi-species communities, and variable conditions.
 Mesocosms (10-1000 L) approximate field conditions with larger soil
 volumes, outdoor exposure, [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]], and spatial monitoring networks.
@@ -148,4 +148,3 @@ perception. Transparent communication is essential.
 - [[singh-electrokinetic-fungal-remediation]]
 
 - [[singh-soil-fungal-bioremediation-strategies]]
-- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

@@ -110,7 +110,7 @@ same time produce good protein foods.
 - [[fukuoka-textdoc-what-plowing-really-is]]
 
 - [[fukuoka-straw-natural-farming-philosophy]]
-- [[fukuoka-straw-four-principles]]
+- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-winter-grain-straw-mulch]]
 - [[fukuoka-straw-seed-balls-direct-seeding]]
 - [[fukuoka-straw-soil-building]]

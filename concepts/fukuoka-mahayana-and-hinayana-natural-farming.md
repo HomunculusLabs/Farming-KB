@@ -123,17 +123,6 @@ farming is total and comprehensive.
 
 This philosophical framework has direct practical consequences:
 
-- Mahayana farming needs no inputs, no knowledge, no effort
-- Hinayana farming minimises inputs and approaches nature's methods
-- Scientific farming maximises inputs and control over nature
-
-The [[fukuoka-four-principles-natural-farming]] (no tillage,
-no fertilizer, no pesticides, no weeding) represent the practical
-expression of Mahayana philosophy. [[fukuoka-natural-vs-scientific-farming]] illustrates how these philosophical differences
-manifest in real-world outcomes. [[steve-solomon|Steve Solomon]]'s work
-provides a complementary soil-fertility perspective, while [[sepp-holzer|Sepp Holzer]]'s
-Krameterhof demonstrates large-scale natural farming in a temperate climate.
-
 ## Related Concepts
 
 - [[fukuoka-natural-farming-philosophy]]

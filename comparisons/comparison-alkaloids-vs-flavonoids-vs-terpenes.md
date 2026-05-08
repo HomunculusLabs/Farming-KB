@@ -13,14 +13,13 @@ sources:
     url: https://link.springer.com/book/10.1007/978-3-319-42940-0
 type: comparison
 ---
-
 # Alkaloids vs Flavonoids vs Terpenes
 
-Alkaloids, flavonoids, and terpenes represent three of the most pharmacologically significant classes of plant secondary metabolites. While all serve protective and ecological roles in plants, they differ profoundly in chemistry, biosynthesis, and therapeutic application. This page provides a structured comparison across nine key dimensions.
+Alkaloids, flavonoids, and terpenes represent three of the most pharmacologically significant classes of [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] metabolites. While all serve protective and ecological roles in plants, they differ profoundly in chemistry, biosynthesis, and therapeutic application. This page provides a structured comparison across nine key dimensions.
 
 ## Chemical Structure and Defining Features
 
-**Alkaloids** are defined by the presence of at least one basic nitrogen atom, typically within a heterocyclic ring system. They range from simple structures like nicotine (MW ~162 Da) to complex polycyclic molecules like vinblastine (MW ~811 Da). Most are derived from amino acid precursors and exhibit marked basicity (pKa 6–10), allowing them to form water-soluble salts. Common ring systems include indole, quinoline, isoquinoline, and pyridine scaffolds, with stereochemistry often critical for biological activity. The nitrogen atom is typically tertiary or secondary and confers the basic properties central to both their extraction chemistry and receptor interactions.
+**Alkaloids** are defined by the presence of at least one basic nitrogen atom, typically within a heterocyclic ringnicotine]] They range from simple structures like nicotine (MW ~162 Da) to complex polycyclic molecules like vinblastine (MW ~811 Da). Most are derived from amino acid precursors and exhibit marked basicity (pKa 6–10), allowing them to form water-soluble salts. Common ring systems include indole, quinoline, isoquinoline, and pyridine scaffolds, with stereochemistry often critical for biological activity. The nitrogen atom is typically tertiary or secondary and confers the basic properties central to both their extraction chemistry and receptor interactions.
 
 **Flavonoids** are polyphenolic compounds built on a C₆-C₃-C₆ flavone skeleton: two aromatic rings (A and B) connected by a three-carbon bridge forming a heterocyclic pyran ring (C). Molecular weights typically fall between 270–600 Da. They lack nitrogen entirely and are characterized by multiple hydroxyl groups that confer antioxidant capacity. Major subclasses include flavones (apigenin, luteolin), flavonols (quercetin, kaempferol), flavanones (hesperetin, naringenin), isoflavones (genistein, daidzein), and anthocyanidins (cyanidin, delphinidin). The degree of hydroxylation, glycosylation, and methylation patterns determine both their bioactivity and physicochemical properties.
 
@@ -56,19 +55,19 @@ Alkaloids are unique in relying heavily on amino acid skeletons. True alkaloids 
 
 | Compound | Class | Source Plant |
 |----------|-------|-------------|
-| Morphine, codeine | Alkaloid | *Papaver somniferum* (opium poppy) |
-| Caffeine | Alkaloid | *Coffea arabica*, *Camellia sinensis* |
-| Quinine | Alkaloid | *Cinchona officinalis* |
-| Vincristine | Alkaloid | *Catharanthus roseus* (Madagascar periwinkle) |
-| Quercetin | Flavonoid | *Allium cepa*, *Sophora japonica* |
+| Morphine, codeine | Alkaloid | *[[papaver-somniferum]]* (opium poppy) |
+| Caffeine | Alkaloid | *[[coffea-arabica]]*, *Camellia sinensis* |
+| Quinine | Alkaloid | *[[cinchona-officinalis]]* |
+| Vincristine | Alkaloid | *[[catharanthus-roseus]]* (Madagascar periwinkle) |
+| Quercetin | Flavonoid | *[[allium-cepa]]*, *Sophora japonica* |
 | Kaempferol | Flavonoid | Tea, kale, beans |
 | Hesperidin | Flavonoid | Citrus fruits |
 | Genistein | Flavonoid (isoflavone) | Soybeans (*Glycine max*) |
 | Limonene | Terpene | Citrus peel |
-| Menthol | Terpene | *Mentha piperita* (peppermint) |
+| Menthol | Terpene | *[[mentha-piperita]]* (peppermint) |
 | β-Caryophyllene | Terpene | Black pepper, cannabis, cloves |
 | Taxol (paclitaxel) | Diterpene alkaloid | *Taxus brevifolia* (Pacific yew) |
-| Artemisinin | Sesquiterpene lactone | *Artemisia annua* (sweet wormwood) |
+| Artemisinin | Sesquiterpene lactone | *[[artemisia-annua]]* (sweet wormwood) |
 
 ## Solubility and Extraction Considerations
 
@@ -147,9 +146,3 @@ Modern analytical techniques differ in suitability across the three classes:
 These complementary methods ensure comprehensive phytochemical profiling when investigating medicinal plants or evaluating herbal product quality.
 
 ## See Also
-
-- [[comparison-tannins-vs-alkaloids-vs-glycosides]]
-
-- [[artemisia-annua]]
-- [[artemisinin]]
-- [[berberine]]

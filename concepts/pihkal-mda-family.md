@@ -148,4 +148,3 @@ rather than recreational party drugs.
 - [[pihkal-2c-b-family]] — 2C psychedelic phenethylamines
 - [[pihkal-mescaline-analogs]] — Mescaline-based analogs
 - [[pihkal-doa-family]] — DOx amphetamine derivatives
-- [[phenethylamine-chemistry-basics]] — Biography of the chemist

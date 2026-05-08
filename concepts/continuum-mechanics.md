@@ -148,4 +148,3 @@ The most important practical skill is not merely solving equations but selecting
 - Wikipedia, "Continuum mechanics," accessed 2026-05-02.
 - Truesdell and Noll, The Non-Linear Field Theories of Mechanics.
 - Malvern, Introduction to the Mechanics of a Continuous Medium.
-- Gurtin, Fried, and Anand, The Mechanics and Thermodynamics of Continua.

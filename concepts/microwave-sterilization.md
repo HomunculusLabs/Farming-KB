@@ -132,35 +132,18 @@ Fifth, the sterilization cycle is relatively rapid compared to autoclaving or ga
 Originally developed for space applications aboard spacecraft, microwave surface sterilization has broader potential applications across multiple fields.
 
 These include sterilizing access ports for ECLSS waters and biological experiments, enabling aseptic sampling without compromising closed systems.
-
-Decontaminating complex surface geometries in thermally sensitive medical equipment is another promising application.
-
-Surface decontamination of food processing equipment where chemical residues are unacceptable represents a further use case.
-
-Sterilizing mating fixtures and transfer assemblies in clean room environments and sterilizing surfaces within sealed or elastomeric housings that cannot be opened for conventional treatment round out the primary application areas.
-
-## Limitations
-
-The technique requires the presence of trace water for reliable spore destruction.
-
-Complex surface geometries may require careful antenna placement and multiple irradiation angles to ensure complete coverage.
-
-Effectiveness depends on proper coupling of microwave energy to target surfaces, which may vary with material composition and geometry.
-
-The method was validated at a specific frequency of 2.45 GHz and power density of 3.6 W per cm2; other parameters may require separate validation studies.
-
 ## See Also
 
 - [[mushroom-cultivation-contamination-control]]
 
-- [[sterilization techniques]]
+- [[sterilization-techniques]]
 
 - [[contamination-identification-prevention]]
 
-- [[microwave food processing]]
+- [[microwave-food-processing]]
 
-- [[aseptic technique]]
+- [[aseptic-technique]]
 
 - [[comparison-pasteurization-vs-sterilization]]
 
-- [[bacillus pumilus]]
+- [[bacillus-pumilus]]

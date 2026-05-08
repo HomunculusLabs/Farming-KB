@@ -82,7 +82,7 @@ If the soil already contains abundant soluble nitrate, the plant may use that ni
 This is efficient for the plant but disappointing for the grower trying to build new nitrogen.
 A heavily fertilized bed can therefore produce lush legume growth with less biological fixation than expected.
 The relationship between soil nitrogen and fixation is part of [[nitrogen-availability-in-legumes]].
-It also fits the broader [[nitrogen-cycle-agriculture]] and [[nitrogen-cycle-in-soil]].
+It also fits the broader [[nitrogen-cycle-agriculture]] and [[composting-and-soil-biology]].
 
 ### Harvest versus return
 

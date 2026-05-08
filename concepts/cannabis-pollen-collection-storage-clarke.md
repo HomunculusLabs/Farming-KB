@@ -138,7 +138,7 @@ screen such as fuel filter screening or a tea strainer.
 A pistillate flower cluster is ripe for fertilization as long as pale,
 slender pistils emerge from the calyxes. The largest yield of uniform,
 healthy seeds is achieved by pollinating during peak floral stage, when
-the seed plant is covered with thick clusters of white pistils and [[cervantes-trichome-resin-production]] has just begun.
+the seed plant is covered with thick clusters of white pistils and [[cannabis-advanced-growing-techniques]] has just begun.
 
 The pollination bag is slipped over the pistillate limb tip, sealed, and
 shaken vigorously to disperse pollen evenly throughout the enclosure.
@@ -148,6 +148,3 @@ parent, seed parent, date, and any relevant notes.
 See also:
 [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 [[cannabis-seed-germination-viability-breeding-clarke]]
-[[cannabis-seed-production]]
-[[strain-selection-development]]
-[[vegetative-phase-cannabis]]

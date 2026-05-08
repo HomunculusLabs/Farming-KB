@@ -132,7 +132,7 @@ Cannabis compounds (especially CBD) inhibit and induce cytochrome P450 enzymes, 
 ## Related
 - [[cannabis-cancer-symptom-management]]
 - [[cannabis-cardiovascular-health]]
-- [[cannabis-health-index-scoring]]
+- [[cannabis-health-index-scoring-system]]
 - [[cannabis-tinctures-and-edibles]]
 - [[cannabis-anxiety-research]]
 - [[cannabis-and-ibs-research]]

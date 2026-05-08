@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-α-Bisabolol (also known as levomenol or (-)-α-bisabolol) is a monocyclic sesquiterpene alcohol with the molecular formula C₁₅H₂₆O. It is the primary aromatic constituent of German chamomile (Matricaria chamomilla) essential oil, where it typically constitutes 25–50% of the total volatile profile. Beyond chamomile, it occurs naturally in the essential oils of candeia (Eremanthus erythrocladus), myrrh (Commiphora myrrha), and various cannabis cultivars. Renowned for its gentle, sweet floral aroma, α-bisabolol is one of the most extensively researched terpenes in dermatology and is a common ingredient in premium skincare formulations. In cannabis, it contributes to the entourage effect by enhancing transdermal absorption and modulating anti-inflammatory pathways.
+α-Bisabolol (also known as levomenol or (-)-α-bisabolol) is a monocyclic sesquiterpene alcohol with the molecular formula C₁₅H₂₆O. It is the primary aromatic constituent of German chamomile (Matricaria chamomilla) essential oil, where it typically constitutes 25–50% of the total volatile profile. Beyond chamomile, it occurs naturally in the essential oils of candeia (Eremanthus erythrocladus), myrrh ([[commiphora-myrrha]]), and various cannabis cultivars. Renowned for its gentle, sweet floral aroma, α-bisabolol is one of the most extensively researched terpenes in dermatology and is a common ingredient in premium skincare formulations. In cannabis, it contributes to the entourage effect by enhancing transdermal absorption and modulating anti-inflammatory pathways.
 
 ## Chemical Profile
 
@@ -101,7 +101,7 @@ In the cannabis entourage model, α-bisabolol is theorized to synergize with can
 ## Extraction and Production
 
 Natural (-)-α-bisabolol is primarily extracted by steam distillation of candeia wood bark, yielding a colorless to pale yellow oil. Due to overharvesting concerns with native Brazilian candeia forests, sustainable cultivation programs and synthetic production methods have been developed:
-- **Biotechnological production**: Engineered yeast (Saccharomyces cerevisiae) strains expressing a bisabolol synthase gene from Matricaria chamomilla can produce α-bisabolol via fermentation, achieving titers of >100 mg/L
+- **Biotechnological production**: Engineered yeast ([[saccharomyces-cerevisiae]]) strains expressing a bisabolol synthase gene from Matricaria chamomilla can produce α-bisabolol via fermentation, achieving titers of >100 mg/L
 - **Semi-synthetic**: Can be synthesized from (−)-α-pinene via a multi-step chemical route, though this produces racemic mixtures with reduced biological activity
 
 ## Key Details

@@ -148,4 +148,3 @@ technology transfer across Africa and Asia.
 - [[mushroom-training-incubation-management]]
 - [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
 - [[oyster-mushroom-cultivation-economics]]
-- [[mushroom-growing-house-construction-low-cost]]

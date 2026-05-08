@@ -133,7 +133,6 @@ preserves the leaf's structural integrity. The distinction between food and
 medicine, so sharp in Western thought, may be a cultural artifact rather than a 
 natural boundary.
 
-
 - [Indole Hallucinogens and Human 
 Evolution](indole-hallucinogens-and-human-evolution.md)
 - [McKenna Food of the Gods](mckenna-food-of-the-gods.md)

@@ -8,10 +8,9 @@ sources:
   - raw/papers/mckenna_t-food_of_the-gods.md
 type: concept
 ---
+# War as Vector of Addiction: [[morphine]], Soldiers, and the Drug Trade
 
-# War as Vector of Addiction: Morphine, Soldiers, and the Drug Trade
-
-One of the most striking patterns identified by Terence McKenna in *Food of the Gods* is
+One of the most striking patterns identifiedterence-mckenna-[[tryptamine]]-hypothesisenna in *Food of the Gods* is
 the recurring role of warfare as a mechanism for spreading drug addiction through
 populations. McKenna argues that war functions as a "vector of addiction" — a biological
 metaphor that captures the way military conflict systematically introduces addictive
@@ -25,14 +24,12 @@ The pattern begins with the invention of the hypodermic syringe by Alexander Woo
 1853. Before this invention, physicians had used the hollow stems of lilac plants to
 introduce drugs inside the body. Wood's innovation made possible the intravenous injection
 of morphine, transforming it from an oral medicine into a drug capable of producing
-intense, rapid-onset euphoria.
-
-The syringe arrived just in time to be deployed on a massive scale during the American
+intense, rapid-onset euphorpermaculture-cycles-and-niches-in-timee syringe arrived just in time to be deployed on a massive scale during the American
 Civil War (1861-1865) and the Franco-Prussian War (1870-1871). Morphine was injected
 into soldiers wounded on the battlefield, establishing what McKenna identifies as a
 repeating pattern in the history of opiates: war as vector of addiction.
 
-By 1890, battlefield use of morphine had produced significant addict populations in both
+By 1890, battlefield use of morphine hasacramental-[[ayahuasca]]-legal-battles-united-statesgnificant addict populations in both
 Europe and the United States. So many Civil War veterans returned home as addicts to
 injectable morphine that yellow journalists of the era referred to morphine addiction as
 "the soldier's disease." This term is remarkable for its candor — it acknowledged that
@@ -144,26 +141,6 @@ psychoactive substances.
 McKenna's analysis reveals a self-reinforcing cycle: war creates the conditions (trauma,
 disrupted social structures, medical need) that drive drug use; drug use creates the
 markets that sustain organized crime; organized crime creates the corruption that
-undermines governance; and governance failure creates the conditions for further conflict.
-This cycle has operated throughout the modern period.
-
-The pattern of war as vector of addiction is not merely a historical curiosity but a
-structural feature of the dominator culture that McKenna identifies throughout *Food of
-the Gods*. The same culture that wages war also creates the conditions for addiction, and
-then wages a "war on drugs" that further militarizes society and creates more addiction.
-Breaking this cycle requires, in McKenna's view, a fundamental transformation of the
-dominator-paradigm relationship between humans and psychoactive substances.
-
-## Connections
-
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]] — the broader history of heroin and synthetic drugs
-- [[mckenna-opium-wars-and-drug-diplomacy]] — the British opium trade as colonial warfare
-- [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] — the technology behind drug intensification
-- [[mckenna-drug-war-and-human-freedom]] — McKenna's analysis of the modern war on drugs
-- [[mckenna-drugs-governments-and-intelligence-agencies]] — government complicity in the drug trade
-- [[mckenna-dominator-vs-partnership-society-model]] — the theoretical framework linking war, domination, and drugs
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]] — the political suppression of beneficial substances
-
 ## See Also
 
 - [[mckenna-acquired-tastes-chemical-addiction-syndrome]]

@@ -148,4 +148,3 @@ managed worm bin produces minimal odor and can process a pound of food waste per
 day per square foot of surface area.
 
 See also: [[soil-health-and-management]], [[home-vegetable-gardening]],
-[[fungal-chitin-decomposition-nutrient-cycling]], [[cover-cropping-natural-farming]], organic gardening

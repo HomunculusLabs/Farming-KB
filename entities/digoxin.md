@@ -81,7 +81,7 @@ membrane-bound Na+/K+-ATPase (sodium pump):
 **Botanical source:** *Digitalis lanata* (Grecian foxglove, Scrophulariaceae),
 cultivated commercially in Europe, South America, and India. The leaves
 contain 0.2–0.5% total cardenolides, with digoxin and lanatoside C as the
-principal constituents. *Digitalis purpurea* (common foxglove) contains
+principal constituents. *[[digitalis-purpurea]]* (common foxglove) contains
 primarily digitoxin rather than digoxin.
 
 **Biosynthetic pathway:**
@@ -148,4 +148,3 @@ xanthopsia — yellow-tinged vision), blurred vision, fatigue
 
 - [[galantamine]] — Alkaloid Na+/K+-ATPase modulator used in Alzheimer's disease
 - [[thujone]] — Monoterpene with CNS effects and narrow therapeutic window
-- [[colchicine]] — Plant-derived pharmaceutical with toxicity management parallels

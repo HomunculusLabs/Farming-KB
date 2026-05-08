@@ -138,17 +138,6 @@ With hired labor, expect 2–3× materials cost. Costs vary by region and hemp a
 ## Climate-Specific Advice
 
 **Cold climates (Zones 3–5):** 300+ mm walls. Use thermal breaks at studs. Pair with breathable exterior weather-resistant barrier.
-
-**Temperate climates (Zones 6–7):** 200–250 mm sufficient. Focus on airtightness at frame-to-hempcrete interface.
-
-**Hot-humid climates (Zones 8–10):** Hempcrete's hygroscopicity buffers humidity naturally. Use 200 mm walls, good overhangs, drainage planes; never use impermeable coatings.
-
-**Arid climates:** Protect from direct sun/wind. Mist walls during first curing week.
-
----
-
-*Last updated: 2026-04-28. Always consult local building authorities and a qualified structural engineer before beginning construction.*
-
 ## See Also
 
 - [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]]

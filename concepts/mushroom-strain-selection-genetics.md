@@ -85,7 +85,7 @@ Psilocybe cubensis strains described by Stamets:
 ## Related
 
 - [[agar-culture-techniques-detailed]] for isolation and sector selection
-- [[mushroom-cultivation-cloning-isolation]] for preserving selected dikaryons
+- [[mushroom-cultivation-fundamentals]] for preserving selected dikaryons
 - [[fungal-biology-fundamentals]] for cellular biology of fungi
 - [[mushroom-environmental-parameters]] for species-specific growth data
 - [[stamets-spore-germination-and-tissue-culture]]

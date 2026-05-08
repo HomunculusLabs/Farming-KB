@@ -142,22 +142,6 @@ sources: [raw/papers/emcdda-hallucinogenic-mushrooms-emerging-trend-europe.md]
    133|being plants. Germany changed its controlled substance definition from "plant"
    134|to "organism" in March 2005 to close the fungal loophole. The Dutch Supreme
    135|Court ruled that dried, mashed, or processed mushrooms were controlled but
-   136|fresh ones were not, creating a decade-long grey market that the smartshop
-   137|industry exploited.
-   138|
-   139|## The Internet Information Ecosystem
-   140|
-   141|Since the late 1990s, extensive internet repositories of information on
-   142|hallucinogenic mushrooms emerged, contributing to accessibility of information
-   143|on effects, dosages, chemistry, and user experiences. US-based sites included
-   144|Erowid, Lycaeum, Mycotopia, Shroomery, MushroomJohn, and The Entheogen Review.
-   145|Dedicated national sites appeared across Europe, including Champis (France),
-   146|Daath (Hungary), Norshroom (Norway), and Taikasieniforum (Finland). These sites
-   147|typically provided information on effects, dosages, laws, and trip reports,
-   148|with many including photo galleries, cultivation advice, and community forums.
-   149|
-   150|## Risk Reduction Information Gaps
-
 ## See Also
 
 - [[amanita-muscaria]]

@@ -21,7 +21,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost that is
 brewed with supplemental foods to enhance beneficial microbial growth while
 maintaining aerobic conditions through active aeration. Developed and
 promoted by Dr. Elaine Ingham through the Soil Foodweb Institute, AACT
-is used as a biological amendment to restore and maintain the [[soil food web]] in agricultural systems.
+is used as a biological amendment to restore and maintain the [[soil-food-web]] in agricultural systems.
 
 ## Definition and Distinction from Other Preparations
 
@@ -53,7 +53,7 @@ suppression mechanism.
 
 ## The Five Soil Food Web Benefits
 
-Applying AACT to restore a healthy [[soil food web]] provides five benefits:
+Applying AACT to restore a healthy [[soil-food-web]] provides five benefits:
 
 1. **Disease suppression**: Disease organisms are outcompeted through food
    resource competition and physical occupation of infection sites.
@@ -126,11 +126,11 @@ compost tea delivery systems for large-scale agriculture.
 
 ## See Also
 
-- [[soil food web]]
+- [[soil-food-web]]
 - compost
-- [[mycorrhizal fungi]]
+- [[mycorrhizal-fungi]]
 - [[glomalin]]
 - [[protozoa-roles-in-soil]]
 - [[protozoa-roles-in-soil]]
-- [[edaphic factors]]
+- [[edaphic-factors]]
 - [[elaine-ingham]]

@@ -129,7 +129,7 @@ Many mycotic diseases are acquired from nonanimal environmental
 sources. Disease agents participate in regulation of animal
 population densities, influencing factors such as the availability
 of animals to predators. Enumeration of such agents is directly
-salient to [[fungal-conservation-strategies]].
+salient to [[ethnomycology]].
 
 Often, isolation of fungi from human and animal infections is of
 ecological interest because it reveals the presence of fundamentally

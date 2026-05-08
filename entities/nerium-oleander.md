@@ -118,8 +118,8 @@ The name "oleander" derives from the Greek *oleandrion*, itself possibly a corru
 
 - [[digitalis-purpurea]] — foxglove, another cardiac glycoside-containing medicinal plant
 - [[convallaria-majalis]] — lily of the valley, cardiac glycoside source
-- [[nerium-oleander]] — African source of the cardiac glycoside ouabain
+- nerium oleander — African source of the cardiac glycoside ouabain
 - [[atropa-belladonna]] — deadly nightshade, another highly toxic medicinal plant
 - [[ricinus-communis-entity]] — castor bean, toxic ornamental with medicinal history
-- [[nerium-oleander]] — "suicide tree," related Apocynaceae cardiac glycoside species
+- nerium oleander — "suicide tree," related Apocynaceae cardiac glycoside species
 - apocynaceae — plant family overview

@@ -28,7 +28,7 @@ In conifer-hardwood forests, calcium content of the litter, irrespective of tree
 
 The high species richness in conifer-hardwood forests, exceeding that of all other Wisconsin vegetation types, reflects the habitat heterogeneity created by mixing conifer and hardwood species.
 
-[[fungal-community-ecology]] [[fungal-ecology-forest-floor]] [[fungal-community-ecology]]
+[[fungal-community-ecology]] [[the-soil-food-web]] [[fungal-community-ecology]]
 
 ## Psychrophilic and Psychrotolerant Fungi
 

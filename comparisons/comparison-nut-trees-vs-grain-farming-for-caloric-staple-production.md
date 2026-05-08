@@ -140,56 +140,6 @@ Nut trees and grains serve overlapping but distinct nutritional roles:
 
 **Nut trees excel at**: Healthy fats (especially omega-3 from walnuts), vitamin E, magnesium, manganese, copper, zinc, high-quality protein with all essential amino acids. Chestnuts provide grain-like carbohydrate nutrition with added micronutrients.
 
-**Optimal approach**: A combined system using both provides the most nutritionally complete diet. Chestnuts can partially or fully replace grain flour in many recipes, while oil-rich nuts (walnut, hickory, pecan, hazelnut) provide essential fatty acids that grains lack.
-
-## Climate Resilience
-
-| Stress Factor | Nut Trees | Annual Grains |
-|--------------|-----------|---------------|
-| **Drought** | Tolerant (deep roots, water storage) | Vulnerable (shallow roots, short season) |
-| **Flooding** | Tolerant (well-drained sites); some species adapt | Devastating (crop loss) |
-| **Heat waves** | Canopy moderates microclimate | Heat stress reduces yields |
-| **Late frost** | Canopy delays bloom; variable damage | Can destroy entire crop |
-| **Extreme weather** | Flexible harvest windows (nuts store on tree) | Narrow harvest windows |
-| **Pest outbreaks** | Polyculture reduces risk | Monoculture amplifies risk |
-| **Multi-year failure** | Extremely rare | Possible (consecutive droughts) |
-
-## Synthesis: When to Choose Which
-
-**Choose nut trees when:**
-- Long-term food security is the priority
-- Soil conservation and ecosystem health matter
-- You have land you can commit for decades
-- Drought resilience is important
-- You want to reduce fossil fuel dependence
-- You can accept 5–15 years of low/no production during establishment
-- You're designing a polyculture food forest or agroforestry system
-
-**Choose annual grains when:**
-- Immediate caloric production is needed
-- You have limited land and need maximum caloric density
-- You have access to mechanized farming equipment
-- Market infrastructure for grains exists in your area
-- You're farming rented or temporary land
-- You need rapid returns on investment
-
-**Choose both (recommended):**
-- Plant nut trees for long-term staple production on suitable land
-- Grow annual grains in the understory or alleys during the establishment phase
-- Transition grain production to the nut tree alleys as canopy closes
-- Maintain a small annual grain plot for quick-turnaround calories and crop rotation benefits
-
-The most resilient food systems combine the caloric density of grains with the ecological stability, nutritional quality, and long-term productivity of nut trees — exactly the model proposed by Mark Shepard's Restoration Agriculture and J. Russell Smith's Tree Crops paradigm.
-
-## Key References
-
-1. Smith, J. Russell. *Tree Crops: A Permanent Agriculture*. Devin-Adair, 1953.
-2. Shepard, Mark. *Restoration Agriculture*. Acres USA, 2013.
-3. Toensmeier, Eric. *The Carbon Farming Solution*. Chelsea Green, 2016.
-4. Crawford, Martin. *Creating a Forest Garden*. Green Books, 2010.
-5. Jackson, Wes. "Becoming Native to This Place" and Land Institute research publications.
-6. USDA National Agricultural Statistics Service (NASS) — Crop Production Reports.
-
 ## See Also
 
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]

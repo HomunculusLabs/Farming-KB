@@ -122,7 +122,7 @@ unable to live out their natural lifespan.
 ## See Also
 
 - [[natural-farming-soil-management]]
-- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

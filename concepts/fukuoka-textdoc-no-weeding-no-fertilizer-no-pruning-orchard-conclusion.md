@@ -148,4 +148,3 @@ farmers, but the rapid-changing world had no time for the foolish talk of a farm
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

@@ -76,11 +76,11 @@ Oz magazine, IT, and later publications like Frendz provided not only cultural c
 
 This information flow was unmediated by the scientific establishment or the mainstream press, creating a folk pharmacology that existed in parallel to (and sometimes in tension with) academic research.
 
-## The Connection to the [[psilocybin-in-the-counter-culture]]
+## The Connection to the [[psychedelic-mushrooms-species-and-identification]]
 
 The British mushroom discovery was part of a broader pattern of psychedelic knowledge exchange across the Atlantic.
 
-The [[psilocybin-in-the-counter-culture]] of the 1960s had been primarily centred on LSD, but the discovery that native British mushrooms were psychoactive added a new dimension to the movement.
+The [[psychedelic-mushrooms-species-and-identification]] of the 1960s had been primarily centred on LSD, but the discovery that native British mushrooms were psychoactive added a new dimension to the movement.
 
 Foraging for mushrooms required engagement with the natural landscape, connecting urban countercultural ideals to rural environments in a way that synthetic drugs could not.
 
@@ -103,5 +103,5 @@ The [[magic-mushroom-cultural-history]] of British mushroom use cannot be unders
 
 ## Related
 
-- [[psilocybin-in-the-counter-culture]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[roger-heim-scientific-study-psilocybin]]

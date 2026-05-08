@@ -81,7 +81,7 @@ The QOL data provide strong support for incorporating mushroom-derived compounds
 
 ## See Also
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[cancer-prevention-dietary-mushroom-intake]]
 - [[mushroom-life-cycle-stamets]]
 - [[cuthill-mushroom-cultivation-history-19th-century]]

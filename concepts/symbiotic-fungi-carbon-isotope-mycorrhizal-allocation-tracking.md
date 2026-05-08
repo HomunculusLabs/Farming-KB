@@ -148,5 +148,3 @@ i17:0, a17:0, cy17:0, 10Me17:0, and cy19:0 serve as indicators of
 - [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] Topics
 
 - [[symbiotic-fungi-endophytic-fungi-in-plants]] for in vitro systems
-
-Related topics include [[arbuscular-mycorrhizal-fungi]], [[mycorrhiza]], [[ectomycorrhizal-fungi]].

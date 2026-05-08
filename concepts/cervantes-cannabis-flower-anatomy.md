@@ -112,7 +112,7 @@ and calyx production rather than seed development.
 ## See Also
 
 - [[cervantes-flowering-phase]] - flowering cycle and management
-- [[cervantes-trichome-resin-production]] - trichomes and resin
+- [[cannabis-advanced-growing-techniques]] - trichomes and resin
   glands
 - [[cervantes-harvest-timing-trichome-ripeness]] - using flower
   cues to time harvest

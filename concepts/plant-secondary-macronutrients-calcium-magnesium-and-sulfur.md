@@ -147,5 +147,3 @@ The choice of liming material has a direct effect on the calcium-magnesium balan
 ## Symptoms of Imbalance
 
 **Calcium deficiency symptoms:** Since calcium is immobile in plants, deficiencies appear in the youngest tissue first -- growing tips of roots and shoots, and young leaves become malformed. Blossom end rot in tomatoes and peppers is the classic calcium deficiency symptom, though it often reflects calcium transport problems rather than true soil deficiency. Other symptoms include stunted roots, curled leaves, and premature death of growing points.
-
-**Magnesium deficiency symptoms:** Interveinal chlorosis in older leaves -- yellowing between the leaf veins while veins remain green. In severe cases, leaves may become reddish-purple. Older leaves show symptoms first because magnesium is mobile and is translocated to younger tissue when supplies are limited.

@@ -100,5 +100,5 @@ The therapeutic model integrates pharmacological effects (enhanced trust, reduce
 
 - [[philosophical-implications-of-psychedelics]]
 - [[ecstasy-mdma-heart-opening-psychedelic]]
-- [[psychedelic-assisted-therapy-protocol]]
+- psychedelic assisted therapy protocol
 - [[psychedelic-crisis-response-protocol]]

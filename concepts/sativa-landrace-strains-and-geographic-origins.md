@@ -148,4 +148,3 @@ times, hermaphroditic tendencies, and variable offspring expression.
 - [[cannabis-landrace-strains]]
 - [[cannabis-sativa-breeding-evolution]]
 - [[sativa-terpene-profiles-and-aromatic-diversity]]
-- [[cannabis-phenotype-and-genotype-guide]]

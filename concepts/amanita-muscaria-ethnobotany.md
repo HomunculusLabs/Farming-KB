@@ -96,6 +96,6 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 
 ## Related Topics
 
-- [[psychedelic-plants-in-ancient-cultures]] for the Soma and Eleusinian mysteries
+- [[ethnomycology]] for the Soma and Eleusinian mysteries
 - [[sacred-mushroom-hypothesis]] for Allegro's theory about Christianity
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic use

@@ -135,33 +135,6 @@ European settlers adopted bloodroot from Native American practice:
 Bloodroot is **toxic** when ingested in significant quantities and should be handled with care:
 
 - **Internal toxicity:** Nausea, vomiting, dizziness, visual disturbances, and in severe cases, cardiovascular collapse and respiratory depression. The LD₅₀ of sanguinarine in rodents is approximately 18 mg/kg (intraperitoneal).
-- **Topical toxicity:** The latex is a potent caustic agent that can cause severe chemical burns, tissue necrosis, and scarring when applied to skin. Historical use for "escharotic" (tissue-destroying) treatment of skin lesions can result in significant tissue damage without eliminating underlying malignancy.
-- **Contraindications:** Not safe for internal use during pregnancy (uterine stimulant). Should not be used by individuals with glaucoma (sanguinarine affects intraocular pressure).
-
-**Warning:** Self-treatment of suspected skin cancers with bloodroot preparations is dangerous. The resulting tissue destruction can mask the extent of a malignancy while failing to eliminate it. Medical supervision is essential.
-
-## Ecological Interactions
-
-### Pollination Ecology
-
-Bloodroot flowers provide an important early-season nectar source for emerging pollinators, particularly small native bees (*Andrena* spp.), honeybees, and syrphid flies. The flowers are thermogenic, maintaining temperatures above ambient for brief periods, which may enhance volatile production and pollinator attraction.
-
-### Ant Dispersal
-
-The myrmecochorous seed dispersal mechanism is ecologically significant. Bloodroot seeds are dispersed by **Aphaenogaster*, *Myrmica*, and *Formica* species. Studies show that ant-dispersed seeds have significantly higher germination rates than undispersed seeds, as the ants remove competing fungal spores and deposit seeds in favorable microsites.
-
-### Herbivore Defense
-
-The alkaloid-rich latex serves as an effective deterrent against most mammalian herbivores and many insect pests. White-tailed deer generally avoid browsing bloodroot foliage. Slugs and snails are the primary herbivores, though even they show reduced feeding compared to non-alkaloidal spring ephemerals.
-
-## Conservation Status
-
-- **NatureServe:** G5 (Globally Secure)
-- **State-level concern:** Listed as endangered, threatened, or of special concern in several states including Florida, New York, and Rhode Island, primarily due to habitat loss from development and illegal wild harvesting for the herbal trade
-- **CITES:** Not listed, but wild collection is regulated in some jurisdictions
-
-The greatest threat to wild populations is **habitat destruction** from urbanization and forestry, combined with unsustainable wild harvesting driven by herbal supplement demand. Cultivated bloodroot is commercially available and should be preferred over wild-collected material.
-
 ## See Also
 
 - [[hydrastis-canadensis]]

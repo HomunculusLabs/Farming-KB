@@ -148,5 +148,3 @@ yielding approximately 1-2 pounds of dried turmeric powder per 10 square
 - [[valerian-growing-guide]]
 - [[ginger-growing-guide]] -- close relative with similar cultivation
   requirements
-- [[ashwagandha-growing-guide]] -- another tropical/subtropical medicinal
-  root crop

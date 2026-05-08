@@ -85,7 +85,7 @@ Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
 
 ## Related
 
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 
 ## See Also
 

@@ -110,7 +110,7 @@ Fresh fruit needing minimal care (no artificial fertilizers, sprays, forcing) is
 ## Related
 
 - [[permaculture-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[mollison-permaculture-two-sound-walls-noise-control]]
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]

@@ -10,7 +10,7 @@ tags: [reference]
 
 # McKenna's Stoned Ape Hypothesis in Food of the Gods
 
-The "stoned ape" hypothesis is [[terence-mckenna-stoned-ape-hypothesis]]'s central evolutionary
+The "stoned ape" hypothesis is [[psychedelic-mushrooms-species-and-identification]]'s central evolutionary
 argument in [[mckenna-food-of-the-gods-thesis]]: that
 psilocybin-containing mushrooms played a decisive role in the emergence of
 Homo sapiens from primate ancestors. McKenna argues that early hominids
@@ -124,7 +124,7 @@ dynamic equilibrium with nature, at variance with our primate past.
 
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-diet-symbiosis-human-evolution]]

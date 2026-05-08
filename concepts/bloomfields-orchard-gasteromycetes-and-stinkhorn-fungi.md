@@ -131,37 +131,6 @@ fungus is adapted for passage through an herbivore gut,
 but its intended targets are grass blades rather than
 parked cars.
 
-## Evolutionary Significance
-
-The diversity of gasteromycete forms likely evolved rapidly
-through small modifications in developmental gene
-expression. Different dispersal vectors drove different
-solutions.
-Fly-attracted stinkhorns evolved scents paralleling
-carrion flowers like Amorphophallus titanum. Wind-
-dispersed puffballs invested in massive spore production.
-Bird's nest fungi evolved two-stage dispersal through
-animal guts.
-The loss of the catapult mechanism enables colonization
-of drier habitats. The evolutionary history of truffles
-illustrates this trajectory. Beginning 300 million years
-ago with disc-shaped apothecia on forest floors, successive
-modifications produced partially buried fruiting bodies,
-then fully subterranean forms attractive to mammals whose
-scent-producing pathways evolved to mimic mammalian sexual
-attractants.
-
-## Fossil Record
-
-Fossilized hyphae of basidiomycetes date to the Permian
-period, 290 million years ago. Exquisitely preserved
-mushrooms found in Cretaceous amber from New Jersey are
-more than 90 million years old yet instantly recognizable.
-Electron microscopy of spores in the amber reveals the
-hilar appendix, the decisive signature of the catapult
-mechanism. While dinosaurs trotted past and pterosaurs
-wheeled, the dew of heaven was beading on a mushroom.
-
 ## Related Concepts
 
 - Spore Discharge Mechanisms in Fungi
@@ -171,7 +140,7 @@ wheeled, the dew of heaven was beading on a mushroom.
 
 ## See Also
 
-- [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
+- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[bloomfields-orchard-mushroom-hunting-and-identification]]
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
 - [[stinkhorn-fungi-gasteromycetes]]

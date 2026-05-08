@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # Gramine
 
-Gramine, also known as donaxine or 3-(dimethylaminomethyl)indole, is a naturally occurring indole alkaloid found in several plant species. It is of interest in the chemistry of [[tryptamine]] and [[psilocybin]] derivatives as a structural analog and potential chemical intermediate. Gramine contains an indole ring with a dimethylaminomethyl substituent at the 3-position, making it a close structural relative of [[tryptamine]] and [[dimethyltryptamine]].
+Gramine, also known as donaxine or 3-(dimethylaminomethyl)indole, is a naturally occurring indole alkaloid found in several plant species. It is of interest in the chemistry of [[tryptamine]] and [[psilocybin-compound]] derivatives as a structural analog and potential chemical intermediate. Gramine contains an indole ring with a dimethylaminomethyl substituent at the 3-position, making it a close structural relative of [[tryptamine]] and [[dimethyltryptamine]].
 
 ## Chemical Structure and Properties
 
@@ -46,7 +46,7 @@ Gramine is a valuable intermediate in the synthesis of tryptamine derivatives an
 
 - **Tryptamine synthesis**: Gramine can be converted to [[tryptamine]] through a Strecker degradation or through the intermediate formation of 3-indolecarboxaldehyde followed by reductive amination.
 - **Side chain extension**: The Mannich reaction product gramine can be used as a starting point for building more complex indole alkaloids by modifying or extending the dimethylaminomethyl group.
-- **[[psilocybin]] analog synthesis**: While gramine itself is not an intermediate in [[psilocybin]] biosynthesis, the chemistry of gramine and related Mannich bases is relevant to the synthetic construction of the tryptamine side chain in laboratory routes to [[psilocin]] and [[psilocybin]].
+- **[[psilocybin-compound]] analog synthesis**: While gramine itself is not an intermediate in [[psilocybin-compound]] biosynthesis, the chemistry of gramine and related Mannich bases is relevant to the synthetic construction of the tryptamine side chain in laboratory routes to [[psilocin]] and [[psilocybin-compound]].
 
 The structural relationship between gramine and the tryptamine class of compounds makes it a useful reference compound in studies of structure-activity relationships among indole alkaloids.
 

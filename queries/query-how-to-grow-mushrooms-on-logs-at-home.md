@@ -140,37 +140,6 @@ again. Logs can typically produce 2–4 flushes per year.
 
 | Species | Difficulty | Time to First Crop | Log Life | Best Wood |
 |---|---|---|---|---|
-| **Shiitake** | Easy | 6–12 months | 4–7 years | Oak, maple, beech |
-| **Pearl Oyster** | Easy | 4–9 months | 2–4 years | Birch, maple, poplar |
-| **Wine Cap** | Very easy | 2–4 months | 2–3 years | Wood chips, softer woods |
-| **Lion's Mane** | Moderate | 12–18 months | 4–6 years | Oak, beech, maple |
-| **Reishi** | Moderate | 12–24 months | 4–6 years | Oak |
-
-## Common Mistakes to Avoid
-
-- **Using old logs**: Logs cut more than 8 weeks ago may already be colonized
-  by wild fungi. Always use the freshest logs possible.
-- **Skipping the wax seal**: Unsealed holes dry out quickly, killing the spawn,
-  and provide entry points for contaminants.
-- **Overwatering**: Soaking logs too frequently drowns the mycelium and promotes
-  mold. Once per month is sufficient during dry spells.
-- **Wrong wood species**: Conifers, black walnut, and highly rot-resistant
-  woods like locust will not produce mushrooms.
-- **Impatience**: Don't force fruit before colonization is complete. Check for
-  mycelium at the log ends — if you don't see white growth, wait longer.
-- **Full sun exposure**: Direct sunlight heats and dries logs. Always provide
-  shade.
-
-## How Many Logs Should You Start With?
-
-- **1–5 logs**: Good trial to learn the process. Low commitment, but yields
-  will be modest (a few kg of mushrooms per year).
-- **10–20 logs**: A solid home-scale setup. Can produce 10–20 kg of fresh
-  mushrooms per year at peak production. Enough for home use plus sharing or
-  selling.
-- **50–100 logs**: A small commercial or serious homesteading operation.
-  Requires dedicated space and more consistent management.
-
 ## See Also
 
 - [[mushroom-log-cultivation|Mushroom Log Cultivation (full topic page)]]

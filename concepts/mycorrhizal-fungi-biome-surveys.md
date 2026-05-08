@@ -97,7 +97,7 @@ Mycorrhizal surveys inform agricultural practices:
 ## See Also
 
 - [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[mycorrhizal-networks-and-forest-communication]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-biodiversity-inventory-design]]

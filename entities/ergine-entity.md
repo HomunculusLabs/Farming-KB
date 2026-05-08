@@ -146,5 +146,5 @@ contraindicated in pregnancy.
 - [[claviceps-purpurea]]
 - [[ipomoea-tricolor]]
 - [[argyreia-nervosa]]
-- [[psilocybin]]
-- [[ergine]]
+- [[psilocybin-compound]]
+- ergine entity

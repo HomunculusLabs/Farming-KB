@@ -26,7 +26,7 @@ The importance of fungal biodiversity assessment extends beyond academic
 taxonomy. Fungi play fundamental roles in nutrient cycling, decomposition,
 [[fungi-in-the-environment-symbiotic-relationships]], and ecosystem function. Understanding fungal
 community composition is essential for monitoring ecosystem health, guiding
-[[fungal-conservation-strategies]], and discovering novel species with potential
+[[ethnomycology]], and discovering novel species with potential
 biotechnological or pharmaceutical applications.
 
 ## Key Concepts

@@ -104,12 +104,12 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - **Instant bed method**: Use thicker finished compost layer for immediate planting
 - [[sheet-mulching-lasagna-gardening|Lasagna gardening]]: Similar technique with slightly different layering emphasis
 - [[chop-and-drop-mulching|Chop and drop]]: In-place mulching using existing vegetation
-- [[hugelkultur-bed-construction|Hugelkultur]]: Incorporates logs and woody debris beneath the sheet mulch layers
+- [[organic-vegetable-growing-and-market-gardening|Hugelkultur]]: Incorporates logs and woody debris beneath the sheet mulch layers
 ## Related Concepts
 - [[sheet-mulching]]
 - [[sheet-mulching-lasagna-gardening]]
 - [[sheet-composting]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[mulching-guide]]
 - [[compost-building-guide]]
 - comfrey-plant-guide

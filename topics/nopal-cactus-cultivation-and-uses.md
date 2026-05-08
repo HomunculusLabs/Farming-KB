@@ -69,7 +69,7 @@ Nopal cactus thrives in warm, arid to semi-arid climates but is remarkably adapt
 
 Nopal is one of the most cold-tolerant cacti. Established plants of *O. ficus-indica* can survive brief freezes to -10°C, and *O. humifusa* (eastern prickly pear) tolerates temperatures to -25°C. However, cold tolerance depends heavily on the cladode water content — drier plants survive colder temperatures.
 
-The plant is highly drought-tolerant once established, using **Crassulacean Acid Metabolism (CAM)** photosynthesis, which opens stomata at night to minimize water loss. Typical water use efficiency is 3–5× that of C3 crops like wheat or corn.
+The plant is highly [[drought-tolerant-planting-design]] once established, using **Crassulacean Acid Metabolism (CAM)** photosynthesis, which opens stomata at night to minimize water loss. Typical water use efficiency is 3–5× that of C3 crops like wheat or corn.
 
 ## Soil Requirements
 
@@ -118,7 +118,7 @@ Seed-grown plants are highly variable and typically take 3–4 years to reach pr
 | Fruit production | 4.0 × 4.0 m | 625 |
 | Forage production | 0.5 × 0.3 m | 66,000 |
 | Hedgerow / living fence | 1.0 m apart (linear) | 10,000/linear km |
-| Food forest understory | 3.0 × 3.0 m | 1,100 |
+| [[food-forest-understory-plants]] | 3.0 × 3.0 m | 1,100 |
 
 ### Irrigation
 
@@ -274,7 +274,7 @@ Nopal's extensive shallow root system binds soil effectively on slopes and degra
 
 - CAM photosynthesis provides high water-use efficiency while maintaining carbon fixation rates of 3–10 g CO₂/m²/day.
 - Above-ground biomass accumulation in mature *O. ficus-indica* plantations can reach 40–80 t/ha of dry matter.
-- Nopal is increasingly recognized as a carbon farming tool in arid regions.
+- Nopal is increasingly recognized as a [[carbon-farming-and-climate-resilient-agriculture]] tool in arid regions.
 
 ### Wildlife Habitat
 
@@ -333,10 +333,10 @@ The most effective approach combines:
 | 'Reyna' | Mexico | Medium-large, tender, low mucilage | Considered the premium vegetable nopal in Mexico |
 | 'Milpa Alta' | Mexico | Large, thick, very tender | Named after the famous nopal-producing district of Mexico City |
 | 'Copena V1' | Mexico | Large, productive, spineless | Developed by CIBNOR for commercial production |
-| 'Copena F1' | Mexico | Medium, tender, good post-harvest | High commercial quality |
+| 'Copena F1' | Mexico | Medium, tender, good [[post-harvest-handling-marketing-mushrooms]] | High commercial quality |
 | 'Jalpa' | Mexico | Small-medium, tender | Good for home gardens |
 | 'Chompa' | Mexico | Medium, smooth | Widely adapted |
-| 'Burbank Spineless' | USA | Medium, very productive | Developed by Luther Burbank; popular in California |
+| 'Burbank Spineless' | USA | Medium, very productive | Developed by [[luther-burbank-plant-breeding-methods]]; popular in California |
 | 'Texas Star' | USA | Medium-large | Adapted to hot, dry conditions |
 
 ### Fruit Cultivars (Tunas)
@@ -366,7 +366,7 @@ Nopal extract is used in skin care products for moisturizing, anti-aging, and an
 
 ### Dye Production
 
-The cochineal insect (*Dactylopius coccus*) cultivated on Opuntia pads produces carminic acid, one of the most stable natural red dyes. This industry was central to the pre-Columbian and colonial Mexican economy and is experiencing a revival as a natural food and cosmetic colorant.
+The cochineal insect (*Dactylopius coccus*) cultivated on Opuntia pads produces carminic acid, one of the most stable natural red dyes. This industry was central to the [[pre-columbian-mushroom-use]] and colonial Mexican economy and is experiencing a revival as a natural food and cosmetic colorant.
 
 ### Biofuel
 
@@ -387,10 +387,10 @@ Nopal integrates well into permaculture and food forest systems:
 
 ### Nopal in Polyculture Systems
 
-- **Agroforestry**: Nopal as understory beneath nitrogen-fixing trees.
+- **Agroforestry**: Nopal as understory beneath [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees.
 - **Silvopasture**: Spineless Opuntia as living fence + forage for livestock.
 - **Windbreaks**: Dense nopal hedges reduce wind erosion and provide shelter.
-- **Living fences**: Traditional use throughout Mexico and Central America — pads planted closely in a line create an impenetrable livestock barrier within 2–3 years.
+- **[[living-fences-and-hedgerows]]**: Traditional use throughout Mexico and Central America — pads planted closely in a line create an impenetrable livestock barrier within 2–3 years.
 
 ## Harvesting and Post-Harvest
 

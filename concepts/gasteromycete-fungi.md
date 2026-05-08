@@ -142,7 +142,7 @@ that parallels the insect attraction of stinkhorns.
 ## See Also
 
 - [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
-- [[ballistospore-discharge]]
+- [[mushroom-cultivation-fundamentals]]
 - [[fungal-spore-dispersal]]
 - [[mycelial-network-biology]]
 - [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]

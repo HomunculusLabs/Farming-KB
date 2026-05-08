@@ -146,5 +146,5 @@ airflow and dehumidification are recommended. Cooler nighttime temperatures
 - [[girl-scout-cookies]]
 - [[gsc-cannabis]]
 - [[kush-mints]]
-- [[wedding-cake]]
-- [[ice-cream-cake]]
+- [[wedding-cake-cannabis]]
+- [[ice-cream-cake-cannabis]]

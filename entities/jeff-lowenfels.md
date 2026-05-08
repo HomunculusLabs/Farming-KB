@@ -79,4 +79,4 @@ The "Teaming With" trilogy has become essential reading for organic and regenera
 - [[glomalin-and-soil-carbon]] — Mycorrhizal soil carbon compound
 - [[soil-fertility-management]] — Nutrient management
 - [[vermicomposting]] — Worm composting
-- [[no-till-gardening-method]] — Protecting fungal networks
+- [[composting-and-soil-biology]] — Protecting fungal networks

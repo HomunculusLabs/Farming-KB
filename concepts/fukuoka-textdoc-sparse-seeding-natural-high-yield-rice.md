@@ -21,13 +21,13 @@ type: concept
 
 # Sparse Seeding for Natural High-Yield Rice Cultivation
 
-Fukuoka's method of direct seeding rice with extreme sparsity challenges one of the most deeply held assumptions of modern agriculture: that denser planting always leads to higher yields. His experiments with broadcasting seed at very low densities, combined with clay-ball encapsulation and straw mulching, demonstrated that rice plants can achieve remarkable yields when given ample space to express their natural growth habits.
+Fukuoka's method of [[fukuoka-seed-balls-and-direct-seeding]] rice with extreme sparsity challenges one of the most deeply held assumptions of [[fukuoka-critique-modern-agriculture]]: that denser planting always leads to higher yields. His experiments with broadcasting seed at very low densities, combined with clay-ball encapsulation [[natural-ground-cover-and-straw-mulching]], demonstrated that rice plants can achieve remarkable yields when given ample space to express their natural growth habits.
 
 ## The Problem with Dense Transplanting
 
-Modern rice cultivation relies on transplanting densely packed seedlings from nursery beds into flooded paddies. This method, while labor-intensive, has been justified by the belief that more plants per unit area translates to greater total grain production.
+Modern rice cultivation relies on transplanting densely packed seedlings from nursery beds into flooded paddies. This method, while labor-intensive, has been justified by the belief that more plants per unit area translates to greater total [[gourmet-medicinal-mushroom-spawn-grain-production]].
 
-However, Fukuoka observed that crowded rice plants compete with each other for light, air, and nutrients. The resulting plants grow tall and spindly, their stems weakened by competition. They become susceptible to lodging (falling over) in wind and rain, and disease spreads more readily through the dense canopy.
+However, Fukuoka observed that crowded rice plants compete with each other for light, air, [[cannabis-soil-and-nutrients]]. The resulting plants grow tall and spindly, their stems weakened by competition. They become susceptible to lodging (falling over) in wind and rain, and disease spreads more readily through the dense canopy.
 
 The conventional approach also requires enormous labor: raising seedlings in special beds, maintaining flooded paddies, and the backbreaking work of transplanting each seedling by hand. All of this, in Fukuoka's view, was unnecessary interference with a process that nature could handle far more efficiently.
 
@@ -143,8 +143,8 @@ It suggests that the modern drive toward ever-higher planting densities, support
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
+- fukuoka textdoc sparse seeding natural high yield rice
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]

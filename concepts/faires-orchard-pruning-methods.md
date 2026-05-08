@@ -92,4 +92,4 @@ Stop grass competition in first few years with:
 
 - [[edge-effect-in-permaculture]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]

@@ -41,7 +41,7 @@ MEPEA came to Shulgin's attention through a contact named Stanislov Wistupkin, w
 
 Wistupkin provided a Czech-language publication by Otakar Leminger (now deceased) that described both MEPEA and MAPEA (3-methoxy-4-allyloxyphenethylamine) as mood elevators active between 100 and 300 milligrams.
 
-The same Czech publication also described [[escaline-entity]], [[proscaline-entity]], and the allyloxy analogue ([[al-entity]]), all of which have been confirmed as active in man.
+The same Czech publication also described [[escaline-entity]], [[proscaline]], and the allyloxy analogue ([[al-entity]]), all of which have been confirmed as active in man.
 
 Leminger worked for years in industry, publishing this research only upon retirement.
 
@@ -79,7 +79,7 @@ This is the only published material dealing with psychedelic drugs that Shulgin 
 
 [[escaline-entity]] - 3,5-dimethoxy-4-ethoxyphenethylamine, more potent three-substituent analogue
 
-[[proscaline-entity]] - 3,5-dimethoxy-4-propoxyphenethylamine
+[[proscaline]] - 3,5-dimethoxy-4-propoxyphenethylamine
 
 [[al-entity]] - 3,5-dimethoxy-4-allyloxyphenethylamine, also from Leminger's work
 

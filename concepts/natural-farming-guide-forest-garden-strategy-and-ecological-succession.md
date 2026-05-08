@@ -148,4 +148,3 @@ ensures informed decisions when designing new plant communities.
 
 In a traditional monoculture farm, each plant can grow as large as possible
 and produce maximum fruit. In a polyculture forest garden, individual plants
-may not produce as much, but the total yield from all species combined will

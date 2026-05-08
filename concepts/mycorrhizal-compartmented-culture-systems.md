@@ -56,7 +56,7 @@ A key challenge in mycorrhizal research using compartmented systems is the lack 
 
 ## Nitrogen Transport Studies
 
-While phosphorus transport has been the primary focus of compartmented system research, these systems are equally valuable for studying nitrogen uptake and translocation by mycorrhizal fungi. Using 15N-labelled compounds in the hyphal compartment, researchers have demonstrated that AM fungi can take up both inorganic (ammonium, nitrate) and organic (amino acids) nitrogen forms and translocate them to host plants. This has important implications for understanding [[mycorrhizal-nutrient-uptake]] and the role of mycorrhizal fungi in the [[nitrogen-cycle-in-soil]].
+While phosphorus transport has been the primary focus of compartmented system research, these systems are equally valuable for studying nitrogen uptake and translocation by mycorrhizal fungi. Using 15N-labelled compounds in the hyphal compartment, researchers have demonstrated that AM fungi can take up both inorganic (ammonium, nitrate) and organic (amino acids) nitrogen forms and translocate them to host plants. This has important implications for understanding [[mycorrhizal-nutrient-uptake]] and the role of mycorrhizal fungi in the [[composting-and-soil-biology]].
 
 ## Molecular and Genomic Applications
 

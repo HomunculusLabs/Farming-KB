@@ -82,7 +82,7 @@ The single most important agronomic feature of grain legumes is their ability to
 
 1. **Signal Exchange**: Legume roots exude flavonoid compounds that attract compatible rhizobia and induce their *nod* (nodulation) genes.
 2. **Infection**: Rhizobia attach to root hairs and form an infection thread that penetrates root cortical cells.
-3. **Nodule Formation**: Root cortical cells divide to form a nodule, within which rhizobia differentiate into bacteroids — the nitrogen-fixing form.
+3. **Nodule Formation**: Root cortical cells divide to form a nodule, within which rhizobia differentiate into bacteroids — the [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] form.
 4. **Nitrogenase Activity**: Bacteroids produce the enzyme nitrogenase, which catalyzes the reduction of N₂ to ammonia (NH₃) at the expense of ATP and reducing power from photosynthesis.
 5. **Ammonia Assimilation**: The plant assimilates ammonia into amino acids (glutamine, asparagine) for transport and use.
 
@@ -120,7 +120,7 @@ Chickpeas are the second most widely grown pulse globally (after dry beans), wit
 - **Desi**: Small, dark-colored seeds with rough coats. Grown primarily in South Asia and Ethiopia. Higher fiber and antioxidant content. Better drought tolerance.
 - **Kabuli**: Large, cream-colored seeds with smooth coats. Preferred in Mediterranean, Middle Eastern, and Western markets. Higher yields under good conditions but less stress-tolerant.
 
-**Growing Conditions**: Chickpeas are extremely drought-tolerant among grain legumes, owing to their deep taproot system (often exceeding 1.5 m) and phenological escape strategy — they flower and set seed during the cool season, maturing before summer drought. Optimal temperature: 18–29°C. Soil pH: 6.0–8.0 (tolerates alkaline soils better than most legumes). Sensitive to waterlogging, frost, and high humidity (which promotes *Ascochyta* blight).
+**Growing Conditions**: Chickpeas are extremely [[drought-tolerant-planting-design]] among grain legumes, owing to their deep taproot system (often exceeding 1.5 m) and phenological escape strategy — they flower and set seed during the cool season, maturing before summer drought. Optimal temperature: 18–29°C. Soil pH: 6.0–8.0 (tolerates alkaline soils better than most legumes). Sensitive to waterlogging, frost, and high humidity (which promotes *Ascochyta* blight).
 
 **Cultural Significance**: Chickpeas are foundational to cuisines across the Middle East (hummus, falafel), South Asia (chana masala, besan flour), Mediterranean (socca), and increasingly global markets as a plant protein ingredient.
 
@@ -155,7 +155,7 @@ Dry peas are among the most widely adapted grain legumes, grown from the subtrop
 - **Green Pea**: Smaller market but commands premium prices. Used in split pea soup, dahl, and snack foods.
 - **Maple Pea**: Brown-marbled seeds; primarily used as birdseed and cover crop in Europe.
 
-**Agronomic Notes**: Peas are relatively easy to grow, have moderate nitrogen fixation, and produce useful biomass. They are susceptible to a range of foliar diseases (powdery mildew, *Ascochyta*, downy mildew) that require varietal resistance or fungicide management in humid regions.
+**Agronomic Notes**: Peas are relatively easy to grow, have moderate nitrogen fixation, and produce useful biomass. They are susceptible to a range of foliar diseases (powdery mildew, *Ascochyta*, [[downy-mildew-biology-diversity-peronosporales]]) that require varietal resistance or fungicide management in humid regions.
 
 ## Warm-Season Grain Legumes
 
@@ -189,7 +189,7 @@ Pigeon pea is a perennial woody shrub (though usually managed as an annual or bi
 
 ### Mung Bean (*Vigna radiata*)
 
-Mung beans are the primary pulse for sprout production globally and are also consumed as whole or split dry seeds in South and Southeast Asian cuisines. Their short growing season (60–90 days) allows double or triple cropping in tropical and subtropical systems.
+Mung beans are the primary pulse for sprout production globally and are also consumed as whole or split dry seeds in South and [[southeast-asian-mushroom-tourism-bali]] cuisines. Their short growing season (60–90 days) allows double or triple cropping in tropical and subtropical systems.
 
 **Culinary Uses**: Bean sprouts, mung dal, cellophane/glass noodles (fen pi), sweet soups, and pastry fillings across Asian cuisines.
 
@@ -215,7 +215,7 @@ Grain legumes are the cornerstone of sustainable cereal-based farming systems wo
 1. **Nitrogen Supply**: The nitrogen credit from a well-nodulated pulse crop can supply 50–80% of the nitrogen needs of a subsequent cereal crop, reducing synthetic fertilizer requirements.
 2. **Disease Break**: Pulse crops disrupt the life cycles of cereal pathogens (take-all, crown rot, root lesion nematodes) that build up in continuous cereal systems.
 3. **Weed Suppression**: The different growth habits and management of pulse crops (different sowing times, row spacings, herbicide options) disrupt weed cycles.
-4. **Soil Structure**: Legume root systems improve soil aggregation and porosity, enhancing water infiltration for subsequent crops.
+4. **[[soil-structure-and-aggregate-ecology]]**: Legume root systems improve soil aggregation and porosity, enhancing water infiltration for subsequent crops.
 5. **Carbon Input**: Pulse residues contribute to soil organic matter, though less than cereal residues due to lower lignin content and faster decomposition.
 
 ### Intercropping Systems
@@ -241,7 +241,7 @@ India is by far the world's largest pulse producer and consumer, growing over 25
 1. **Yield Stagnation**: Pulse yields have increased far more slowly than cereal yields over the past 50 years. Average global yields remain low (chickpea: ~1 t/ha, lentil: ~1.2 t/ha, dry pea: ~1.8 t/ha) compared to theoretical potential (3–5 t/ha for most species).
 2. **Biotic Stresses**: Fungal diseases (*Ascochyta* blight, Fusarium wilt, rust), insect pests (pod borer, bruchid beetles, aphids), parasitic weeds (broomrape), and viral diseases cause major losses.
 3. **Abiotic Stresses**: Drought, heat, salinity, and waterlogging all significantly reduce pulse yields. Climate change is increasing the frequency and severity of these stresses.
-4. **Post-Harvest Losses**: In many developing countries, 10–30% of pulse harvests are lost to inadequate storage (bruchid beetle damage, mold, rodent damage).
+4. **[[post-harvest-handling-marketing-mushrooms]] Losses**: In many developing countries, 10–30% of pulse harvests are lost to inadequate storage (bruchid beetle damage, mold, rodent damage).
 5. **Anti-Nutritional Factors**: Despite processing methods, flatulence and digestive discomfort limit pulse consumption in some populations, constraining demand growth.
 
 ## Breeding and Genetic Improvement
@@ -262,7 +262,7 @@ Genomic resources for pulses have expanded dramatically in the past decade, with
 ### Integration Strategies
 
 - **Multi-strata systems**: Pigeon pea as a mid-canopy nitrogen-fixer between fruit trees and ground covers.
-- **Cover crop rotations**: Cowpea or mung bean as warm-season green manures, fava or field pea as cool-season covers.
+- **Cover crop rotations**: Cowpea or mung bean as warm-season [[green-manures-and-cover-crop-systems]], fava or field pea as cool-season covers.
 - **Guild design**: Climbing beans on corn stalks with squash as ground cover (Three Sisters adaptation).
 - **Food forest integration**: Fava beans as nitrogen-fixing understory in temperate food forests; pigeon pea in tropical systems.
 - **Chop-and-drop mulch**: Pigeon pea and lupin prunings provide high-nitrogen mulch for fruit trees and garden beds.
@@ -285,7 +285,7 @@ Pulses are positioned to become increasingly important in 21st-century food syst
 
 - **Plant-based protein demand**: Growing consumer interest in vegetarian and flexitarian diets is driving demand for pulse-derived protein ingredients (isolates, concentrates, flours).
 - **Climate resilience**: As climate change increases drought and heat stress, pulses' stress tolerance and low input requirements become strategic advantages.
-- **Soil health restoration**: Recognition of synthetic nitrogen's environmental costs (groundwater contamination, N₂O emissions, energy intensity) is driving interest in biological nitrogen fixation.
+- **Soil health restoration**: Recognition of synthetic nitrogen's environmental costs (groundwater contamination, N₂O emissions, energy intensity) is driving interest in [[biological-nitrogen-fixation-agriculture]] fixation.
 - **Nutritional security**: Pulses provide affordable protein and micronutrients to populations that cannot access animal-source foods.
 - **Biodiversity**: Increasing crop diversity with pulses reduces the vulnerability inherent in cereal-dominated farming systems.
 

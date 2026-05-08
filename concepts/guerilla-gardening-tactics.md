@@ -116,7 +116,7 @@ Guerilla gardening is the act of gardening on land that the gardener does not le
 - [[urban-permaculture-techniques]] — for urban permaculture methods
 - [[natural-farming-seed-balls]] — for seed ball details
 - [[permaculture-sheet-mulch-detailed-guide]] — for no-dig bed creation
-- [[permaculture-design-principles-beginners]] — for design fundamentals
+- [[permaculture-design-principles]] — for design fundamentals
 - [[permaculture-cycles-and-niches-in-time]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[what-natural-farming-method-should-i-use]]

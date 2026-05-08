@@ -146,4 +146,4 @@ A comprehensive soil conditioner applied per acre:
 - Soil: 500 kg
 - Seawater: 3 liters
 ## See Also
-- [[green-cannabis-grow-bible-seed-germination-methods]]
+- green cannabis grow bible seed germination methods

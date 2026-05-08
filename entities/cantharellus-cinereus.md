@@ -118,9 +118,9 @@ hymenophore, providing a clear distinguishing feature upon close inspection.
 
 ## See Also
 
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[cantharellus-tubaeformis]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[laccaria-bicolor]]
 - [[armillaria-mellea]]

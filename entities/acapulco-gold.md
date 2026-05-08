@@ -23,9 +23,9 @@ created: 2026-05-07
 
 **Acapulco Golden** · **Mexican Gold** · **Oro de Acapulco**
 
-Acapulco Gold is a legendary heirloom sativa-dominant cannabis strain originating from the Guerrero region of Mexico, near the Pacific coast city of Acapulco. Once one of the most famous cannabis varieties in the world, it was a primary staple of the North American illicit cannabis market from the 1960s through the early 1980s. The strain is named for its golden-brown appearance when properly cured, reminiscent of a gold nugget.
+Acapulco Gold is a legendary heirloom sativa-dominant [[cannabis-strain-chupacabra]] originating from the Guerrero region [[neurotropic-fungi-of-mexico]], near the Pacific coast city of Acapulco. Once one of the most famous cannabis varieties in the world, it was a primary staple of the North American illicit cannabis market from the 1960s through the early 1980s. The strain is named for its golden-brown appearance when properly cured, reminiscent of a gold nugget.
 
-## Lineage and Genetics
+## Lineage [[cannabis-seed-banks-and-genetics]]
 
 Acapulco Gold is a **landrace sativa** — a variety that evolved naturally in its native environment without modern hybridization. Its genetics reflect the tropical Mexican sativa gene pool, characterized by tall stature, long flowering periods, and a cerebral, uplifting psychoactive profile.
 
@@ -35,7 +35,7 @@ Acapulco Gold is a **landrace sativa** — a variety that evolved naturally in i
 - **Lineage:** Mexican landrace (Guerrero region)
 - **THC Content:** 15–23% (modern stabilized versions up to 23%)
 - **CBD Content:** <0.1% (typically undetectable)
-- **Dominant Terpenes:** Caryophyllene, myrcene, pinene
+- **Dominant Terpenes:** Caryophyllene, [[myrcene]], [[pinene]]
 - **Flowering Time:** 10–12 weeks (indoor); late October–November (outdoor, Northern Hemisphere)
 
 The original landrace genetics have been largely displaced in the wild by hybridization with introduced varieties. Modern "Acapulco Gold" seeds are stabilized recreations or crosses that aim to preserve the original phenotype's characteristics.
@@ -148,5 +148,3 @@ The preservation of Acapulco Gold and other Mexican landrace cannabis varieties 
 - [[og-kush]] — Indica-dominant counterpoint to sativa landraces
 - [[panama-red]] — Another legendary Central American landrace sativa
 - [[colombian-gold]] — Colombian landrace with similar cultural significance
-- [[cannabis-sativa]] — Species-level page
-- terpenes — Overview of cannabis terpene chemistry and entourage effect

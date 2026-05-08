@@ -118,6 +118,6 @@ The rate of terpene degradation depends on several environmental and storage fac
 ## See Also
 
 - [[cannabis-resin-production-and-quality-traits-clarke]] - Resin production and quality traits
-- [[cannabis-pest-management]] - Pest defense roles of terpenes and cannabinoids
+- cannabis pest management - Pest defense roles of terpenes and cannabinoids
 - [[cannabis-hashish-guide]] - Traditional hashish production methods that concentrate terpenes
 - [[cannabis-terpene-entourage-effect-profiles]]

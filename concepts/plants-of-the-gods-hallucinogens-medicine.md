@@ -148,9 +148,3 @@ virtually without physical risk, though psychological preparation
 remains essential.
 
 ## See Also
-
-- [[plants-of-the-gods-chemical-structures-hallucinogens]]
-- [[schultes-hallucinogens-medical-psychotherapy]]
-- [[plants-of-the-gods-phytochemistry-sacred-plants]]
-- [[consciousness-and-psychedelics]]
-- [[schultes-ololiuqui-vines-serpent]]

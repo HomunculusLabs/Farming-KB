@@ -110,7 +110,7 @@ This philosophy stands in contrast to precision agriculture, which seeks to opti
 
 ## See Also
 
-[[fukuoka-critique-green-revolution]], [[fukuoka-one-straw-revolution-philosophy]], [[fukuoka-the-one-straw-revolution-final-chapter]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-orchard-ground-cover]]
+[[fukuoka-critique-green-revolution]], [[fukuoka-one-straw-revolution-philosophy]], [[fukuoka-the-one-straw-revolution-final-chapter]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]]
 
 ## Practical Applications
 

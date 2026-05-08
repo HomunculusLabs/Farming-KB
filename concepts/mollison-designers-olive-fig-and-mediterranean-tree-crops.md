@@ -147,5 +147,3 @@ nut crops, making them central to Mediterranean permaculture design:
 
 Pomegranates are exceptionally well-adapted to hot, dry Mediterranean
 conditions and offer multiple design benefits:
-
-- **Heat tolerance**: Thrives where summer temperatures exceed 40 degrees

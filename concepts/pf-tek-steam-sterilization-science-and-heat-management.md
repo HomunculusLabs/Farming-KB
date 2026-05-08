@@ -139,30 +139,6 @@ After sterilization, jars must cool completely before inoculation. The PF TEK
 states that any jar to be inoculated must be cool to the touch before
 proceeding. Inoculating a warm jar kills the spores immediately upon contact.
 
-This is listed as one of the primary causes of non-germination and is an easy
-mistake to make when the cultivator is eager to proceed. The cultivator
-should plan the sterilization timing to allow adequate cooling time, typically
-several hours, before the inoculation session.
-
-After the jars have cooled, the lids should be tightened and the jars stored
-in a cool, draft-free place until ready for inoculation.
-
-## Control Jar Verification Technique
-
-The control jar technique is recommended to verify sterilization effectiveness.
-After jars are sterilized and cooled, one or more jars are left uninoculated
-and observed for several days.
-
-Any colored growths, changes in substrate appearance, or the telltale
-rancid odor of bacteria indicate that the sterilization process was
-insufficient. If there is a problem at this stage, the sterilization time
-should be lengthened.
-
-If the jars remain clean and unchanged, they are confirmed ready for spore
-syringe inoculation. If contamination occurs only after inoculation, the
-syringe was contaminated or the dry vermiculite layer was breached during
-inoculation.
-
 ## Related Concepts
 
 - [[pf-tek-steam-sterilization-technique]] for the complete step-by-step procedure

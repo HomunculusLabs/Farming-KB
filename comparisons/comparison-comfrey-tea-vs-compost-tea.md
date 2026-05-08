@@ -140,24 +140,6 @@ An aerobic "quick brew" method exists (aerating leaves and water for 24–48 hou
 - Your crops are heavy potassium feeders (tomatoes, peppers, potatoes, fruit trees, berries, squash).
 - You need a long-lasting liquid fertilizer that can be stored for weeks.
 - You want to cycle nutrients from comfrey's deep taproot into your crop root zone.
-- You are building potassium reserves in your soil for long-term fruit production.
-
-### Choose Compost Tea When
-
-- You need rapid biological inoculation for disease suppression on foliar surfaces.
-- You are establishing new soil biology in disturbed or depleted soils.
-- You want to shift microbial ratios (e.g., fungal-dominant tea for orchards and perennials, bacterial-dominant tea for annual vegetables).
-- You need a foliar application for immediate plant health benefits.
-- You want to multiply the benefits of your existing high-quality compost across a larger area.
-
-## Can They Be Combined?
-
-Yes, but with timing considerations. Comfrey tea and compost tea serve different functions and can be applied in alternation throughout the season. A common schedule is to apply compost tea as a foliar spray early in the season for disease prevention and soil biology establishment, then switch to comfrey tea as a soil drench during flowering and fruiting when potassium demand peaks. Avoid mixing the two liquids before application, as the acidic comfrey tea can kill the aerobic microbes in compost tea.
-
-## Summary
-
-Comfrey tea and compost tea are complementary tools for the organic grower. Comfrey tea is a potent, potassium-rich nutrient source produced slowly through anaerobic fermentation, best suited for soil drenching fruiting crops. Compost tea is a fast-brewed biological inoculant that delivers living soil organisms for foliar or soil application, best suited for disease suppression and soil biology management. Neither is a complete fertilizer on its own — both work best as part of an integrated soil health strategy that includes compost, mulch, cover crops, and mineral amendments.
-
 ## See Also
 
 - [[comparison-fermented-plant-extract-vs-compost-tea]]

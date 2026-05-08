@@ -20,7 +20,7 @@ The distribution of species across elevation gradients follows distinct ecologic
 
 Low-elevation tropical and subtropical species dominate the largest number of psilocybin mushroom habitats.
 
-[[psilocybe-cubensis-profile]] is common at low elevations throughout the tropics, growing on cow dung in pastures.
+[[psychedelic-mushrooms-species-and-identification]] is common at low elevations throughout the tropics, growing on cow dung in pastures.
 
 [[panaeolus-cyanescens-bali-omelette]] and other Copelandia species thrive at low tropical elevations.
 
@@ -62,9 +62,9 @@ Some species show remarkable altitudinal flexibility.
 
 Copelandia cyanescens ranges from low tropical elevations to 3,000 meters in Hawaii and 2,220 meters in Mexico City.
 
-[[psilocybe-semilanceata-profile]] occupies temperate elevations across Europe, India, Russia, North and South America, and Australasia, though it is unknown in Mexico.
+[[psychedelic-mushrooms-species-and-identification]] occupies temperate elevations across Europe, India, Russia, North and South America, and Australasia, though it is unknown in Mexico.
 
-[[psilocybe-cyanescens-profile]] occupies temperate lowland to mid-elevation habitats in Europe, North America, and possibly Africa.
+[[psychedelic-mushrooms-species-and-identification]] occupies temperate lowland to mid-elevation habitats in Europe, North America, and possibly Africa.
 
 ## Elevation and Latitudinal Relationships
 

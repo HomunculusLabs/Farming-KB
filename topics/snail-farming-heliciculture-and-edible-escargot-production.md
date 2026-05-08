@@ -80,7 +80,7 @@ Choose a site with the following characteristics:
 
 - **Shelter from wind**: Wind accelerates moisture loss and can desiccate snails.
 - **Partial shade**: Dappled sunlight or artificial shade structures. Full sun causes overheating; deep shade promotes fungal growth.
-- **Good drainage**: Waterlogged soil promotes bacterial and fungal infections. Raised beds or sloped terrain are ideal.
+- **Good drainage**: Waterlogged soil promotes bacterial and fungal infections. [[raised-beds-vs-in-ground-vs-containers]] or sloped terrain are ideal.
 - **Access to water**: Reliable water source for misting and irrigation.
 - **Proximity to feed sources**: Reduces labor for daily feeding routines.
 - **Biosecurity**: Distance from chemical spraying, industrial pollution, and areas with known snail predators or parasites.
@@ -105,7 +105,7 @@ The simplest and lowest-cost approach. Snails roam freely within fenced enclosur
 
 Climate-controlled indoor facilities using trays, racks, or pens. Common in Europe and for premium escargot production.
 
-**Advantages**: Complete environmental control, year-round production, higher density, better biosecurity.
+**Advantages**: Complete [[environmental-control-mushroom-growing]], year-round production, higher density, better biosecurity.
 **Disadvantages**: High capital cost, energy-intensive, requires mechanical ventilation and humidity control.
 
 **Construction**:
@@ -134,7 +134,7 @@ A compromise between open and indoor systems. Polyethylene-covered structures wi
 
 #### Free-Range Agroforestry Integration
 
-Snails are integrated into existing food forests, orchards, or agroforestry systems. Trees provide shade and leaf litter; ground covers provide forage.
+Snails are integrated into existing food forests, orchards, or agroforestry systems. Trees provide shade and [[leaf-litter-microfungal-diversity-tropical-temperate]]; ground covers provide forage.
 
 **Advantages**: Zero dedicated infrastructure cost, enhances biodiversity, utilizes existing land, permaculture-compatible.
 **Disadvantages**: Lowest yield per unit area, difficult to harvest, high predation risk, seasonal limitations.
@@ -253,7 +253,7 @@ In open systems, uncontrolled breeding leads to overcrowding, stunted growth, an
 ### Integrated Pest Management for Snail Farms
 
 - **Physical barriers**: Solid fencing, buried edges, overhanging lips.
-- **Biological control**: Encourage ground beetles (which eat snail eggs and small juveniles but not market-sized snails). Note: this requires careful management.
+- **Biological control**: Encourage [[ground-beetles-carabidae-and-biological-pest-control]] (which eat snail eggs and small juveniles but not market-sized snails). Note: this requires careful management.
 - **Cultural practices**: Regular cleaning, proper density management, balanced nutrition.
 - **Chemical control**: Avoid slug pellets and pesticides near snail enclosures. Snails are highly sensitive to chemicals.
 
@@ -301,7 +301,7 @@ Before processing, snails must be purged to empty their digestive tracts of soil
 
 ### By-Products
 
-- **Snail shells**: Ground for calcium supplement in animal feed, soil amendment, or craft materials.
+- **Snail shells**: Ground for calcium supplement in animal feed, [[soil-amendment-reference]], or craft materials.
 - **Snail mucin**: Collected by placing snails over a mesh; mucin drips through. Filtered and processed for cosmetic use (anti-aging creams, serums). The snail is unharmed and returned to its enclosure.
 - **Snail slime (helixir)**: Used in traditional medicine for wound healing and respiratory conditions.
 - **Viscera**: Can be composted or processed for animal feed.
@@ -357,14 +357,14 @@ Snails thrive in the understory of food forests where leaf litter, shade, and mo
 
 - **Comfrey**: Provides shade, accumulates calcium from deep soil layers, and supplies leaf litter for snail forage.
 - **Chicory and dandelion**: Excellent snail forage with deep taproots.
-- **Clover and vetch**: Nitrogen-fixing ground covers that provide supplementary protein-rich forage.
+- **Clover and vetch**: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] ground covers that provide supplementary protein-rich forage.
 - **Fruit trees**: Fallen fruit supplements snail diet. Snails help decompose fruit drop.
 
 ### Synergies with Other Livestock
 
 - **Ducks and chickens**: Can be rotated through snail pens after harvest to clean up pests and residual organic matter. Do NOT allow simultaneous access.
 - **Earthworms**: Can coexist in outdoor pens; both benefit from organic matter decomposition.
-- **Black soldier fly larvae**: Can process snail waste (viscera, dead snails) into protein-rich animal feed.
+- **[[black-soldier-fly-larvae-as-feed]] larvae**: Can process snail waste (viscera, dead snails) into protein-rich animal feed.
 
 ### Waste-Feed Loops
 
@@ -406,4 +406,4 @@ Snails thrive in the understory of food forests where leaf litter, shade, and mo
 
 ## Summary
 
-Heliciculture is a low-input, high-potential form of livestock farming well-suited to permaculture systems, smallholdings, and diversified farms. With proper species selection, enclosure design, nutrition management, and biosecurity protocols, snail farming can provide a reliable source of protein, supplementary income, and valuable by-products while integrating harmoniously into existing agricultural and ecological systems.
+Heliciculture is a [[low-input-vegetable-gardening]], high-potential form of livestock farming well-suited to permaculture systems, smallholdings, and diversified farms. With proper species selection, enclosure design, nutrition management, and biosecurity protocols, snail farming can provide a reliable source of protein, supplementary income, and valuable by-products while integrating harmoniously into existing agricultural and ecological systems.

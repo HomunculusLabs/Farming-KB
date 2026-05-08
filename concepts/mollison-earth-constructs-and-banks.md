@@ -122,7 +122,7 @@ This dual benefit makes earth constructs one of the most efficient design elemen
 
 [[permaculture-earthworks]]
 
-[[permaculture-earthworks-guide]]
+[[permaculture-water-harvesting-earthworks]]
 
 [[permaculture-earthworks-and-water-harvesting]]
 

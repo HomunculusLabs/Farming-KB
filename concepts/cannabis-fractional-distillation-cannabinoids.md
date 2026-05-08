@@ -72,7 +72,7 @@ Fractional distillation is typically the final step in a multi-stage refinement 
 - [[cannabis-chromatography-cannabinoid-purification]] for alternative advanced purification
 - [[cannabis-honey-oil-production]] for charcoal filtration as an alternative refinement
 - [[cannabis-oil-isomerization]] for CBD-to-THC conversion before distillation
-- [[cannabis-extraction-solvent-properties-and-safety]] for solvent handling at scale
+- [[cannabis-indoor-growing-guide]] for solvent handling at scale
 - [[cannabis-concentrates-and-extracts]] for refined products
 - [[cbd-to-thc-isomerization-chemistry]] for the chemistry of THC production
 

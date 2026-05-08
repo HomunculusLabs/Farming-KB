@@ -141,30 +141,9 @@ achieving this:
    the uphill side of the farm builds humus that washes downhill with
    rainwater, continuously enriching the fields below.
 
-One foot of topsoil in a natural forest holds enough nutrients to sustain fruit
-trees for ten years without any fertilization. Three feet of rich soil can
-supply nutrients for approximately thirty years. The ground cover system
-builds and maintains this natural fertility without depleting it.
-
-## The Problem with Clean Cultivation
-
-Modern orchard management practices clean cultivation, which removes all
-vegetation from the orchard floor to reduce competition with fruit trees.
-Fukuoka regarded this as fundamentally destructive. Clean cultivation exposes
-bare soil to erosion by rain and wind, destroys the habitat of beneficial
-organisms, and progressively depletes soil organic matter. The result is a
-soil surface that hardens and cracks, requiring tillage to break up, which
-further damages soil structure in a self-reinforcing cycle of degradation.
-
-The conventional farmer who hauls rice and barley straw from paddy fields to
-hillside orchards and carries weeds back down to the fields is merely
-transporting fertility from one location to another while depleting both. Only
-a system that enriches field, garden, and hillside simultaneously through
-living ground covers can break this pattern of extraction.
-
 ## See Also
 
 - [[no-till-direct-seeding-rice-barley]]
-- [[mahayana-and-hinayana-natural-farming]]
+- [[korean-natural-farming-and-jadam]]
 - [[clay-pellet-desert-revegetation]]
 - [[non-causality-in-nature]]

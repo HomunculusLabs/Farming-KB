@@ -138,7 +138,7 @@ strain's association with premium, high-powered effects.
 - [[sour-diesel]]
 - [[chemdog]]
 - [[nyc-diesel]]
-- [[og-kush-cannabis-strain]]
+- [[og-kush]]
 - [[myrcene]]
 - [[beta-caryophyllene]]
 - [[limonene]]

@@ -148,4 +148,3 @@ analyses.
 
 - [[fungal-biodiversity-forest-ecosystems]] for community-level analysis
 - [[fungal-species-estimates-biodiversity-overview]] for species counts
-- [[kingdom-fungi-phylogeny]] for phylogenetic classification

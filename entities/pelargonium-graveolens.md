@@ -148,8 +148,3 @@ compounds that suppress weed germination.
 - [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 
 - [Pelargonium sidoides](pelargonium-sidoides.md)
-- [Lavandula angustifolia](lavandula-angustifolia.md)
-- [Rosmarinus officinalis](rosmarinus-officinalis-entity.md)
-- [Mentha spicata](mentha-spicata.md)
-- [Ocimum basilicum](ocimum-basilicum.md)
-- [Calendula officinalis](calendula-officinalis.md)

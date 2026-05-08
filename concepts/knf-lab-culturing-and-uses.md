@@ -12,7 +12,7 @@ type: concept
 
 [[lactic-acid-bacteria-lab]]) are anaerobic microorganisms that break
 sugar into lactic acid in the absence of oxygen. LAB is very effective
-in improving soil ventilation, promoting rapid growth of [[stone-fruit-tree-care]]s
+in improving soil ventilation, promoting rapid growth of stone fruit tree cares
 and leaf vegetables, and increasing the solubility of fertilizers.
 
 ## LAB Characteristics

@@ -67,7 +67,7 @@ This rapid reproduction allows flexible herd management, scaling production up o
 
 A breeding program can be structured to provide regular meat harvests throughout the year, ensuring a steady protein supply.
 
-[[permaculture-seed-saving-and-selection]] principles apply similarly to animal breeding, maintaining genetic diversity and adapting stock to local conditions.
+[[permaculture-design]] principles apply similarly to animal breeding, maintaining genetic diversity and adapting stock to local conditions.
 
 In the [[mollison-animal-integration-in-permaculture]] framework, rabbits are integrated with other system elements for maximum efficiency.
 

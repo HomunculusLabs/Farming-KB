@@ -148,4 +148,3 @@ safety.
 - psilocybin
 - psilocin
 - [[psilocybe-cubensis]]
-- tryptamine-alkaloids

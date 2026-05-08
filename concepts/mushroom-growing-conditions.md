@@ -148,4 +148,3 @@ F was incorrect; that temperature is fatal if maintained for some time.
 
 - [[agaricus-campestris]] - the common cultivated mushroom
 - [[mushroom-compost-preparation]] - fermented manure substrate
-- [[mushroom-spawn-making]] - pure culture spawn production

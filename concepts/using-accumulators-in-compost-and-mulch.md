@@ -148,4 +148,3 @@ is consistent harvesting and recycling of the biomass to close the
 - [[dynamic-accumulators-overview]] covers the concept and plant selection.
 - Green manure and cover crop strategies details species selection
   and timing for different climates and seasons.
-- [[phosphate-and-potassium-accumulators]] describes specific plants for

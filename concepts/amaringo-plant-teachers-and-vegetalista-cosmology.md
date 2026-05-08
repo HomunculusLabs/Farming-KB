@@ -137,20 +137,6 @@ to the brew, call forth visions and spirit beings, cure illnesses (snake bites,
 mal aire, sorcery), strengthen one's visionary power, guard against enemy
 visions, and defend against sorcerers during trance. Each plant, animal, and
 spirit possesses its own specific icaro. The machashca cantaro (pitcher of
-vision) contains icaros that guard and amplify visionary power.
-
-## The Ayahuasca Session Structure
-
-Sessions begin around 9-10 PM in complete darkness. The vegetalista blows
-smoke on each person's head, sometimes with perfume or camphorated water.
-Before drinking, participants pray to the ayahuasca spirit requesting visions
-of distant relatives, lost objects, illness causes, enemies, or their future.
-A single yawn predicts beautiful visions; multiple yawns signal strong visions
-or enemy attack. Left arm contractions indicate sorcery; right arm contractions
-indicate the visions will reveal all that was asked.
-
-## Dietary Discipline
-
 ## See Also
 
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] — detailed breakdown of the banco, muraya, and sumiruna ranks

@@ -38,7 +38,7 @@ Despite this suppression, the tradition survived in remote communities, particul
 
 ## Wasson and the Rediscovery
 
-The modern rediscovery of teonanacatl began with R. Gordon Wasson, a vice president of J.P. Morgan who became an amateur ethnomycologist. In 1955, Wasson traveled to Huautla de Jiménez in Oaxaca and participated in a velada conducted by [[maria-sabina-mazatec-mushroom-ceremony]]. His 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin mushrooms to the Western world and triggered both scientific interest and a countercultural fascination that continues to this day.
+The modern rediscovery of teonanacatl began with R. Gordon Wasson, a vice president of J.P. Morgan who became an amateur ethnomycologist. In 1955, Wasson traveled to Huautla de Jiménez in Oaxaca and participated in a velada conducted by [[mushroom-cultivation-fundamentals]]. His 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin mushrooms to the Western world and triggered both scientific interest and a countercultural fascination that continues to this day.
 
 Wasson's revelation attracted the attention of Albert Hofmann, who traveled to Mexico in 1958 and successfully isolated psilocybin and psilocin from *Psilocybe mexicana* specimens collected near Huautla. The subsequent synthesis of psilocybin by Sandoz laboratories made the compound available for clinical research worldwide.
 
@@ -52,7 +52,7 @@ The stones typically depict a human or animal figure atop a mushroom-shaped base
 
 In the late 20th and early 21st centuries, there has been a significant revival of interest in teonanacatl, both as a subject of clinical research and as a sacrament in neo-indigenous spiritual movements. The [[psilocybin-mushroom-legal-history]] reflects ongoing tension between traditional use, scientific research, and drug prohibition.
 
-See also [[global-psychedelic-mushroom-species-diversity]], [[maria-sabina-mazatec-mushroom-ceremony]], [[magic-mushroom-history-timeline]], [[psilocybin-mushroom-legal-history]].
+See also [[global-psychedelic-mushroom-species-diversity]], [[mushroom-cultivation-fundamentals]], [[magic-mushroom-history-timeline]], [[psilocybin-mushroom-legal-history]].
 
 ## Key Points
 
@@ -75,7 +75,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 ## Broader Context
 
 This analysis is part of McKenna's larger project, articulated most fully in [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.

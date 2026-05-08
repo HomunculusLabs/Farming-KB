@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-19
 
-David Holmgren's critical analysis of solar photovoltaic cells appears in *Permaculture: Principles and Pathways Beyond Sustainability* (2002) within the discussion of [[holmgren-renewable-resources-detailed]] and [[permaculture-principle-use-and-value-renewable-resources]]. His assessment, drawing on Howard T. Odum's EMERGY analysis methodology, challenges the popular belief that solar cells can sustain a high-tech society in a post-fossil-fuel future.
+David Holmgren's critical analysis of solar photovoltaic cells appears in *Permaculture: Principles and Pathways Beyond Sustainability* (2002) within the discussion of [[holmgren-renewable-resources-detailed]] and [[permaculture-design-principles]]. His assessment, drawing on Howard T. Odum's EMERGY analysis methodology, challenges the popular belief that solar cells can sustain a high-tech society in a post-fossil-fuel future.
 
 ## The Core Argument
 
@@ -36,7 +36,7 @@ The EMERGY methodology is based on universal energy laws and uses an energy symb
 
 ## The Maximum Power Law Argument
 
-A more fundamental argument rests on the Maximum Power Law (Principle 3: [[permaculture-principle-obtain-a-yield]]). Because solar energy has been the primary external energy available for life on Earth, billions of years of evolution have probably already optimized the capture and conversion of solar energy. Technological alternatives are unlikely to match that efficiency when properly evaluated.
+A more fundamental argument rests on the Maximum Power Law (Principle 3: [[permaculture-design-principles]]). Because solar energy has been the primary external energy available for life on Earth, billions of years of evolution have probably already optimized the capture and conversion of solar energy. Technological alternatives are unlikely to match that efficiency when properly evaluated.
 
 Holmgren quotes Odum directly: after a billion years of natural selection, "the natural conversion of sunlight to electric charge that occurs in all green plant photosynthesis may already be the highest net EMERGY possible." Studies in biophysics show isolated chloroplasts to be more efficient than hardware cells.
 
@@ -88,7 +88,7 @@ EMERGY accounting has a positive aspect in that it reorganises our understanding
 
 - [[holmgren-renewable-resources-detailed]]
 
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]
 
 - [[holmgren-ecological-footprint-analysis]]
 

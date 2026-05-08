@@ -141,7 +141,7 @@ demand toward potentially riskier alternatives.
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+- [[hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]

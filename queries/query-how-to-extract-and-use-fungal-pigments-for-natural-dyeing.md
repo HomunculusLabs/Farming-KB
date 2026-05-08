@@ -19,12 +19,11 @@ sources:
   - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
 type: query
 ---
+# How to Extract [[jadam-microbial-solution-jms-preparation-and-use]] Fungal Pigments for Natural Dyeing
 
-# How to Extract and Use Fungal Pigments for Natural Dyeing
+Fungal pigments offer a remarkable and often overloolichensette for natural dyers. Mushrooms and lichens can produce vivid yellows, deep reds, rich blues, and earthy greens that rival any plant-based dye. This guide covers everything you need to get started, from selecting species to query-what-is-the-strongest-psilocybin-mushroom-speciesg color on fiber.
 
-Fungal pigments offer a remarkable and often overlooked palette for natural dyers. Mushrooms and lichens can produce vivid yellows, deep reds, rich blues, and earthy greens that rival any plant-based dye. This guide covers everything you need to get started, from selecting species to achieving lasting color on fiber.
-
----
+ 
 
 ## Which mushroom species produce the best dyes?
 
@@ -33,13 +32,13 @@ Some of the most reliable and vivid dye mushrooms include:
 - **Cortinarius species** (especially C. sanguineus and C. semisanguineus): Intense reds and oranges. These are among the most celebrated dye fungi worldwide.
 - **Phaeolus schweinitzii**: Produces strong yellows, golds, and greens depending on the mordant. Widely available on conifer stumps.
 - **Hapalopilus nidulans**: Yields vivid purples and pinks, one of the few fungi to produce these colors.
-- **Pisolithus tinctorius**: The "dyeball" mushroom gives rich yellows, oranges, and tans. Common in disturbed soils and along roadsides.
-- **Lobaria pulmonaria** and other lichens: Produce browns, tans, and sometimes yellows through boiling.
-- **Hydnellum peckii** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
+- **[[pisolithus-tinctorius]]**: The "dyeball" mushroom gives rich yellows, oranges, and tans. Common in disturbed soils and along roadsides.
+- **[[lobaria-pulmonaria]]** and other lichens: Produce browns, tans, and sometimes yellows through boiling.
+- **[[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
 
 Beginners should start with Phaeolus schweinitzii or Pisolithus tinctorius, as they are abundant, easy to identify, and forgiving in the dye pot.
 
----
+ -
 
 ## How do I extract pigment from mushrooms?
 
@@ -52,9 +51,9 @@ The basic extraction process is straightforward:
 5. **Simmer** in a stainless steel or enamel pot (never aluminum) at a low boil for 1 to 2 hours. Use roughly equal parts mushroom material to water by weight.
 6. **Strain** the liquid through a fine mesh or cheesecloth. The resulting dyebath is ready to use.
 
-For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the spent mushroom material for compost -- it returns nutrients to the soil.
+For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the spent mushroom material for compost   it returns nutrients to the soil.
 
----
+ -
 
 ## What mordants work best with fungal dyes?
 
@@ -68,7 +67,7 @@ Mordants fix the dye to fiber and often shift or intensify the color. The most c
 
 Always mordant fiber **before** dyeing. Dissolve the mordant in hot water, add your pre-wetted fiber, and simmer for 45-60 minutes. Rinse gently before placing fiber in the dyebath.
 
----
+ -
 
 ## Can I grow my own dye mushrooms?
 
@@ -76,12 +75,12 @@ Yes, several dye fungi can be cultivated, making the craft more sustainable and 
 
 - **Phaeolus schweinitzii** and **Ganoderma species** can be grown on inoculated conifer wood chips or logs using plug spawn or sawdust spawn.
 - **Pisolithus tinctorius** associates with tree roots and can be introduced to soil near compatible tree species (especially pines and oaks).
-- **Oyster mushrooms (Pleurotus ostreatus)**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
-- **Trametes versicolor** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
+- **[[oyster-mushroom]] s ([[pleurotus-ostreatus]])**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
+- **[[trametes-versicolor]]** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
 
 Purchase spawn from reputable mycology suppliers. Inoculate outdoor wood chip beds in spring or fall and expect fruiting within 6-18 months depending on species and conditions.
 
----
+ -
 
 ## What safety precautions should I follow?
 
@@ -94,25 +93,25 @@ Mushroom dyeing involves some important safety considerations:
 - **Dispose of spent mordant solutions responsibly.** Copper and tin solutions should not be poured down drains; dispose of them according to local hazardous waste guidelines.
 - **Some people are sensitive to fungal spores.** If you have allergies or respiratory conditions, consider wearing a mask when handling dry or fresh mushrooms.
 
----
+ -
 
 ## How do I achieve specific colors (reds, yellows, blues, greens)?
 
 Here is a quick reference for targeting specific hues:
 
 | Color | Mushroom Species | Mordant | Notes |
-|-------|-----------------|---------|-------|
+|   -|        -|    -|   -|
 | Red | Cortinarius sanguineus, C. semisanguineus | Alum | Simmer gently to preserve red pigments |
 | Orange | Phaeolus schweinitzii | Alum | Fresh specimens give stronger color |
 | Yellow | Pisolithus tinctorius, Phaeolus schweinitzii | Alum | One of the easiest colors to achieve |
 | Green | Phaeolus schweinitzii | Iron | Iron saddens yellow to olive green |
 | Purple/Pink | Hapalopilus nidulans | Alum or copper | Rare and prized fungal color |
-| Blue | Indigo is not a fungus; for blue, over-dye yellow-dyed fiber in an indigo vat | -- | True fungal blues are extremely rare |
+| Blue | Indigo is not a fungus; for blue, over-dye yellow-dyed fiber in an indigo vat |   | True fungal blues are extremely rare |
 | Brown/Tan | Lichens, Boletus species | Alum | Reliable and earthy tones |
 
 Overdyeing is a powerful technique. Dip yellow-dyed fiber in a red bath to shift toward orange, or use iron modifiers after dyeing to deepen and shift colors without a second dye session.
 
----
+ -
 
 ## What fibers accept fungal dyes best?
 
@@ -129,7 +128,7 @@ Cellulose fibers can be dyed but require more preparation:
 
 Always scour fiber thoroughly before dyeing to remove oils, sizing, or natural waxes that block pigment absorption.
 
----
+ -
 
 ## How lightfast and wash-fast are fungal dyes?
 
@@ -146,8 +145,4 @@ Mushroom dyeing is a rewarding intersection of mycology and fiber arts. Start si
 
 ## See Also
 
-- [[query-how-do-i-start-natural-dyeing-with-plants]]
-
-- [[agricultural-waste-substrates]]
-- [[fungal-spores]]
-- [[hydnellum-peckii]]
+- query-how-do-i-start-natural-dyeing-with-plants

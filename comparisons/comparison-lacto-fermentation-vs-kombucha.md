@@ -21,7 +21,7 @@ Both lacto-fermentation and kombucha are anaerobic fermentation processes that p
 
 | Feature | Lacto-Fermentation | Kombucha |
 |---------|-------------------|----------|
-| **Primary organism** | Lactic acid bacteria (LAB) | SCOBY (bacteria + yeast consortium) |
+| **Primary organism** | [[lactic-acid-bacteria]] (LAB) | SCOBY (bacteria + yeast consortium) |
 | **Key microbes** | *Lactobacillus*, *Leuconostoc*, *Pediococcus* | *Komagataeibacter*, *Zygosaccharomyces*, *Saccharomyces* |
 | **Substrate** | Vegetables, fruits, dairy, grains | Sweetened tea (Camellia sinensis) |
 | **Primary acid** | Lactic acid | Acetic acid + gluconic acid |
@@ -43,7 +43,7 @@ Lacto-fermentation is driven primarily by **lactic acid bacteria (LAB)** — a d
 
 1. **Early stage** — *Leuconostoc* species initiate fermentation, producing CO₂, lactic acid, and some ethanol (heterolactic pathway). This creates the initial anaerobic conditions and lowers pH.
 2. **Mid stage** — *Lactobacillus* species dominate as acidity increases, producing predominantly lactic acid (homolactic pathway).
-3. **Late stage** — More acid-tolerant species like *Lactobacillus plantarum* complete fermentation, achieving final pH of 3.4–4.5.
+3. **Late stage** — More acid-tolerant species like *[[lactobacillus-plantarum]]* complete fermentation, achieving final pH of 3.4–4.5.
 
 No yeast is intentionally involved, though wild yeasts may be present in small numbers. The fermentation relies on bacteria naturally present on the vegetable surface (hence the importance of organic, unwashed produce for wild fermentation).
 
@@ -142,32 +142,6 @@ Both methods produce probiotics, but the organisms and their potential benefits 
 | **Yeast presence** | Minimal (except in dairy kefir) | Significant (*Zygosaccharomyces*, *Saccharomyces*) |
 | **CFU count** | High (10⁸–10⁹ CFU/mL typical) | Moderate (10⁶–10⁸ CFU/mL typical) |
 | **Survival through GI tract** | Well-studied; many strains show good survival | Less studied; acetic acid environment may reduce viability |
-| **Prebiotic content** | Moderate (fiber from vegetables) | Low (unless fruit is added in secondary) |
-
-Lacto-fermented vegetables generally deliver a higher and more diverse probiotic load, particularly of well-studied *Lactobacillus* strains with established benefits for gut health. Kombucha provides a more diverse microbial community including both bacteria and yeasts, but with less research on the specific health impacts of kombucha's unique organism profile.
-
-## When to Choose Which Method
-
-### Choose Lacto-Fermentation When:
-- Preserving seasonal vegetable abundance for long-term storage
-- Maximizing probiotic content and diversity
-- Working with vegetables, dairy, or grains
-- Shelf stability without refrigeration is important
-- Avoiding all caffeine and alcohol
-- Building a self-sustaining fermentation practice (no special starter needed for most vegetables)
-
-### Choose Kombucha When:
-- Creating a refreshing, effervescent beverage
-- Interested in the complex, layered flavor profile of mixed-acid fermentation
-- Wanting a daily probiotic beverage with lower effort per serving
-- Enjoying the creative potential of secondary fermentation flavors
-- The caffeine content of tea is acceptable
-- Building a continuous-brew system for regular production
-
-## Can They Be Combined?
-
-Yes, in creative ways. Some fermenters add lacto-fermented fruit or vegetable juices to kombucha during secondary fermentation, creating hybrid beverages that combine the microbial benefits of both methods. Additionally, some commercial "gut shots" and tonics blend lacto-fermented vegetable brines with kombucha or other cultured beverages. However, combining the cultures directly (adding SCOBY to a vegetable ferment or vice versa) is generally not recommended, as the different microbial communities may compete and produce unpredictable or unpleasant results.
-
 ## See Also
 
 - [[comparison-perlite-vs-vermiculite]]

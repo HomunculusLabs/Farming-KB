@@ -81,7 +81,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 ## Merged: Stoned Ape Theory
 
 # Stoned Ape Theory

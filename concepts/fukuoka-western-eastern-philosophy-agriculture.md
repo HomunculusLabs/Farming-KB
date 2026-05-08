@@ -79,7 +79,7 @@ His prescription: "Instead of praying to God as a mighty power that reigns over 
 
 These philosophical observations underpin Fukuoka's agricultural methods:
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]] -- knowledge as an obstacle
-- [[fukuoka-natural-diet-principles]] -- food as the basis of health
+- [[fukuoka-natural-farming-philosophy]] -- food as the basis of health
 - [[fukuoka-natural-diet-philosophy]] -- the philosophy of natural eating
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] -- spirituality and farming
 
@@ -135,7 +135,7 @@ When one lives in the country and one's diet and body changes, everything become
 
 Fukuoka noted that many people come to his orchard huts wanting to become farmers, but inside they haven't really made up their minds. They talk about how "life in the cities is meaningless," but all they want is to give farming a try. If it doesn't suit them, they soon abandon it. Only those who are sick or in total despair, or who are genuinely dedicated to a natural diet and find the wild greens delicious, are able to stay. Both the body and mind must agree — it doesn't matter which you start from, but both must be in accord.
 
-This holistic alignment mirrors the [[fukuoka-natural-diet-principles]] that Fukuoka advocates — food is not merely nutrition but a pathway to perceiving nature correctly.
+This holistic alignment mirrors the [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to perceiving nature correctly.
 
 ## "Do-Nothing" Nature
 

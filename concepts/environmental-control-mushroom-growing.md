@@ -21,7 +21,7 @@ A growing room must maintain temperature range at high humidity via insulation a
 Different mushroom species have precise temperature requirements at each stage:
 - agaricus-bitorquis: Spawn run at 84-86°F, cropping at 75-77°F
 - agaricus-brunnescens: Prefers cooler conditions than bitorquis
-- [[psilocybe-cubensis-profile]]: Tolerant of warmer temperatures
+- [[psychedelic-mushrooms-species-and-identification]]: Tolerant of warmer temperatures
 - Thermal death limits for most species begin around 93-95°F over prolonged exposure
 
 Temperature stratification and CO2 stratification are ongoing problems that the air circulation system must counteract, especially during spawn running when full recirculation is used.
@@ -45,7 +45,7 @@ Full recirculation (damper closed) maintains even conditions and counteracts tem
 Fresh air requirements vary by species:
 - agaricus-brunnescens: 4-6 air changes per hour
 - agaricus-bitorquis: Half the fresh air of brunnescens
-- [[psilocybe-cubensis-profile]]: 2-3 changes per hour (more CO2 tolerant)
+- [[psychedelic-mushrooms-species-and-identification]]: 2-3 changes per hour (more CO2 tolerant)
 
 ### CO2 Monitoring
 The most accurate method employs a multiple gas detector measuring CO2 in parts per million (ppm), from 300 ppm (natural level) up to 20,000 ppm. Physical development of mushrooms serves as a visual guide: high CO2 produces long stems and small underdeveloped caps in Agaricus and Pleurotus.

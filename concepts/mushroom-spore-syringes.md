@@ -125,7 +125,7 @@ important for cultivators:
 
 The legal status of mushroom spores varies significantly by jurisdiction. In
 many countries, including most of the United States, mushroom spores of
-[[psilocybin]] species are legal to possess and distribute because the spores
+[[psilocybin-compound]] species are legal to possess and distribute because the spores
 themselves do not contain controlled substances (psilocybin and psilocin are
 produced only after germination and mycelial growth). However, several US
 states (California, Georgia, and Idaho) have explicitly banned psilocybin
@@ -139,4 +139,4 @@ current legal status in their jurisdiction.
 - [[grain-spawn-preparation]]
 - [[spore-print-collection]]
 - [[psilocybe-cubensis]]
-- [[mushroom-spore-mating-incompatibility-factors]]
+- [[mushroom-cultivation-fundamentals]]

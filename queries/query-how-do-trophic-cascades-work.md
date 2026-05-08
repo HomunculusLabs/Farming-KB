@@ -47,7 +47,7 @@ More subtly, predators can affect ecosystems without killing prey — simply by 
 
 **Top-down cascades** (predator-driven) occur when higher trophic levels regulate lower ones. The classic "green world" hypothesis — the world is green because predators keep herbivores in check — is a top-down model.
 
-**Bottom-up cascades** (resource-driven) occur when nutrient availability or primary productivity limits higher trophic levels. More nitrogen → more plant growth → more herbivores → more predators. Both forces operate simultaneously in most ecosystems, but one typically dominates.
+**Bottom-up cascades** (resource-driven) occur when nutrient availability or primary productivity limits higher trophic levels. More nitrogen → more [[plant-growth-promoting-rhizobacteria]] → more herbivores → more predators. Both forces operate simultaneously in most ecosystems, but one typically dominates.
 
 ### How to Tell Which Is Dominant
 
@@ -109,7 +109,7 @@ Understanding cascades is essential for effective conservation. Protecting an en
 
 ### Invasive Species Management
 
-Trophic cascades explain why invasive species can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
+Trophic cascades explain why [[invasive-species-management]] can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
 
 ## Cascades in Human-Dominated Landscapes
 
@@ -142,30 +142,6 @@ While the loss of apex consumers has caused widespread ecological degradation (E
 ## Practical Applications
 
 ### Designing Rewilding Projects
-
-Understanding cascades helps determine which species to reintroduce and in what order. Generally, restoring apex predators first is most effective because their effects cascade downward. However, habitat must be sufficient to support predator populations before reintroduction.
-
-### Managing Fisheries
-
-Ecosystem-based fisheries management (EBFM) explicitly considers trophic interactions. Fishing down the food web — catching large predators first, then shifting to smaller species — has caused widespread trophic cascades in marine ecosystems. Maintaining predator populations is essential for sustainable fisheries.
-
-### Pest Management in Agriculture
-
-Conservation biological control leverages trophic cascades by maintaining predator populations in crop systems. Practices include habitat strips, reduced insecticide use, and providing alternative prey to sustain predator populations when pest numbers are low.
-
-## Quick Reference
-
-| Question | Answer |
-|----------|--------|
-| What triggers a trophic cascade? | Adding or removing a species at one trophic level |
-| How many levels does a cascade need? | Minimum 3 levels (predator → herbivore → plant) |
-| Are cascades always top-down? | No — bottom-up (nutrient-driven) cascades also occur |
-| What's the strongest evidence? | Predator removal/reintroduction experiments |
-| Do cascades occur in agriculture? | Yes — insecticide removal of natural enemies triggers pest outbreaks |
-| Can cascades be reversed? | Often yes, through species reintroduction or protection |
-| What's a mesopredator release? | When apex predator loss causes mid-level predator increase |
-| What limits cascade strength? | Complex food webs, omnivory, environmental variability |
-
 ## See Also
 
 - [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]

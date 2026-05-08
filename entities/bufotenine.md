@@ -12,10 +12,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 **Bufotenine** (5-hydroxy-N,N-dimethyltryptamine, **5-OH-DMT**) is a naturally occurring tryptamine alkaloid found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in South American snuff traditions and historically labeled as a toxic deliriant.
 
-
-
-
-
 ## Chemistry
 
 - **IUPAC**: 5-Hydroxy-N,N-dimethyl-1H-indole-3-ethanamine
@@ -26,10 +22,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - White crystalline solid as freebase; forms salts (hydrochloride, sulfate)
 - Can be converted to 5-MeO-DMT via methylation of the 5-hydroxyl group
 
-
-
-
-
 ## Pharmacology
 
 - **Partial agonist at 5-HT₂A** with additional activity at 5-HT₁A, 5-HT₂C, 5-HT₃, and 5-HT₄ receptor subtypes
@@ -38,10 +30,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Effects profile includes: intense visual hallucinations, anxiety, dysphoria, pressure in the head and chest, purging (nausea/vomiting)
 - The negative reputation partly stems from early clinical studies using intravenous administration at high doses in psychiatric settings (Fabing & Hawkins, 1956)
 
-
-
-
-
 ## Natural Occurrence
 
 - **Animal sources**: Secretions of *Bufo marinus* (cane toad), *Bufo alvarius* (Sonoran Desert toad), *Rhinella marina*, and numerous other Bufonidae species; typically co-occurs with 5-MeO-DMT and bufogenins
@@ -49,19 +37,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Human occurrence**: Detected in human urine, blood, and cerebrospinal fluid; endogenous production confirmed but function unknown
 - Present in the Amazonian snuff **epená** (Virola) and **yopo** preparations
 
-
-
-
-
 ## Cultural Use
 
 - Primary ingredient in **yopo** and **vilca** snuffs of the Orinoco basin and Andean highlands, used for millennia in shamanic and divinatory contexts
 - Preparation involves toasting, grinding, and mixing with calcined shell (calcium hydroxide) to freebase the alkaloid and potentially convert bufotenine to 5-MeO-DMT through pyrolysis
 - Archaeological evidence of snuff trays and tubes dating to 1000+ BCE in the Caribbean and South America
-
-
-
-
 
 ## Toxicology
 
@@ -70,23 +50,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Standard tryptamine precautions; contraindicated with MAOIs (though poor MAO substrate, cardiovascular risk exists)
 - Modern research suggests bufotenine's negative reputation may be overstated and dose/route-dependent
 
-
-
-
-
 ## Legal Status
 
 - Schedule I in the United States
 - Internationally controlled under the UN Convention on Psychotropic Substances
 - Present in *Anadenanthera* seeds sold commercially, creating legal ambiguity in some jurisdictions
 
-
-
-
-
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 - [[tihkal-tryptamine-chemistry]]
 

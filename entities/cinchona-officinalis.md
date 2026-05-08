@@ -148,5 +148,3 @@ Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely repl
 - `[[artemisia-annua]]` — Source of artemisinin, the modern first-line antimalarial
 - `[[camellia-sinensis-entity]]` — Tea, a common understory companion in Cinchona agroforestry
 - `[[piper-nigrum-entity]]` — Black pepper, another tropical spice tree in agroforestry systems
-- `[[glycyrrhiza-glabra]]` — Licorice, another bark-derived medicinal plant with alkaloid pharmacology
-- `[[colchicine]]` — Another plant-derived alkaloid with pharmaceutical importance

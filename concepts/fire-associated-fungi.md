@@ -137,7 +137,7 @@ Volcanic soils (Andisols) have distinctive physical and chemical properties incl
 
 The mineralogy of volcanic soils affects nutrient availability, water retention, and pH, all of which influence fungal community composition. The high porosity of volcanic ash deposits can create both well-drained and waterlogged microhabitats.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[fungal-environmental-sensing]]
 
 ## Thermophilic Fungi in Geothermal Areas
 

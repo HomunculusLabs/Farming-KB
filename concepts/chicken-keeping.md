@@ -50,7 +50,7 @@ Bred for maximum egg production (250-320 eggs/year):
 - **Door**: Pop door (12x12 inches) with automatic opener option. Human access door for cleaning.
 ### Coop Types
 - **Stationary coop**: Permanent structure with attached run. Most common. Easier to predator-proof.
-- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
+- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[composting-and-soil-biology]] integration. Best for spring-fall.
 - **Coop and run**: Stationary coop with large fenced outdoor run. Cover run with wire/netting for aerial predator protection.
 ### Deep Litter Method
 1. Start with 4-6 inches of pine shavings or dry leaves on coop floor

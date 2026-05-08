@@ -20,7 +20,7 @@ type: concept
 Terence McKenna's 1983 lecture at the Lilly/Goswami Conference on Consciousness
 and Quantum Physics at Esalen Institute presents a phenomenological
 exploration of the tryptamine hallucinogens — dimethyltryptamine ([[dmt]]),
-[[psilocybin]], and [[harmala-alkaloids-and-ayahuasca-preparation]] — and their implications for understanding
+[[psilocybin-compound]], and [[harmala-alkaloids-and-ayahuasca-preparation]] — and their implications for understanding
 human consciousness. The talk was later published in *The Archaic Revival*
 (1992).
 
@@ -28,7 +28,7 @@ human consciousness. The talk was later published in *The Archaic Revival*
 
 The tryptamine hallucinogens are derived from [[tryptophan]] and share a
 structural relationship with [[serotonin]] (5-hydroxytryptamine), the major
-neurotransmitter in the human brain. [[psilocybin]] is 4-phosphoraloxy-N,N-
+neurotransmitter in the human brain. [[psilocybin-compound]] is 4-phosphoraloxy-N,N-
 dimethyltryptamine, while [[dmt]] is an endogenous hallucinogen present in
 small amounts in the human brain. This structural similarity to serotonin is
 likely the basis for their hallucinogenic effects through interference with
@@ -64,7 +64,7 @@ intelligence that conveys translinguistic information.
 
 ## The Logos and Language
 
-A central theme is that [[psilocybin]] and [[dmt]] "invoke the Logos," working
+A central theme is that [[psilocybin-compound]] and [[dmt]] "invoke the Logos," working
 directly on the language centers of the brain. An important aspect of the
 experience is glossolalia — not the classical form studied in religious
 contexts, but a brain state allowing expression of the assembly language
@@ -120,10 +120,10 @@ McKenna considered a technical gloss for complex concepts.
 
 ## See Also
 
-- [[tryptamine-hallucinogens-consciousness]]
+- tryptamine hallucinogens and consciousness
 
 - [[dmt]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
 - [[tryptamine-receptor-pharmacology]]
 - [[serotonin]]

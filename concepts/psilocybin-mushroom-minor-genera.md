@@ -55,7 +55,7 @@ Mycorrhizal "fibrehead" mushrooms, most of which are dangerous due to muscarine-
 
 Muscarine has been identified in at least 40 Inocybe species, with fatalities dating to the early 20th century.
 
-Confirmed active species: [[inocybe-aeruginascens-profile]] (psilocybin levels comparable to [[psilocybe-mexicana-profile]]), Inocybe corydalina, I. haemacta, I. tricolor, I. coelestium.
+Confirmed active species: [[inocybe-aeruginascens-profile]] (psilocybin levels comparable to [[psychedelic-mushrooms-species-and-identification]]), Inocybe corydalina, I. haemacta, I. tricolor, I. coelestium.
 
 The active species are extremely rare compared to the poisonous ones.
 

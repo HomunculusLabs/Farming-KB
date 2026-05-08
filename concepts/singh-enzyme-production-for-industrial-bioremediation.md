@@ -148,4 +148,3 @@ SmF offers better process control for industrial production:
 - [[charcoal-production-for-cooking]]
 
 - [[laccase-mediator-system-dye]] -- principal fungal oxidase for bioremediation
-- [[manganese-peroxidase-mechanism]] -- Mn(II)-oxidizing peroxidase

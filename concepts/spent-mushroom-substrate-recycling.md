@@ -95,7 +95,7 @@ The invasive water hyacinth (*Eichhornia crassipes*) chokes waterways across sou
 
 - [[spent-mushroom-substrate]] Topics
 
-- [[mushroom-compost-substrates]] — compost-based substrates for mushroom cultivation
+- [[mushroom-cultivation-fundamentals]] — compost-based substrates for mushroom cultivation
 - [[oyster-mushroom-bag-cultivation]] — bag cultivation methods that produce SMS
 - [[bulk-substrate-preparation]] — preparing substrates for oyster mushroom growth
 

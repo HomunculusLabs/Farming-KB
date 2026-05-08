@@ -142,6 +142,6 @@ away from the source leads one astray.
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
 - [[masanobu-fukuoka]]
-- [[no-till agriculture]]
-- [[natural pest control]]
-- [[white clover living mulch]]
+- [[no-till-agriculture]]
+- [[natural-pest-control]]
+- [[white-clover-living-mulch]]

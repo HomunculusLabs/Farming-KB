@@ -21,7 +21,7 @@ Species of [[ascomycete-phylum-guide]] are considered the most xerotolerant taxa
 Melanized cell walls represent another important adaptation, providing protection against intense ultraviolet radiation that characterizes open desert environments. Dark-pigmented fungi such as Alternaria, Ulocladium, and Curvularia species are disproportionately represented in desert soil communities. The [[xerophilic-xerotolerant-fungi]] are particularly well-adapted to these conditions.
 
 ## Desert Soil Fungal Communities
-The [[fungal-biodiversity-soil-habitats]] framework helps contextualize desert soil communities. Desert soils generally are characterized by low propagule densities but high species diversity (Christensen 1981a; Mouchacca 1995). Mitosporic fungi with melanized, often thick-walled conidia are well represented, including genera such as Alternaria, Ulocladium, Curvularia, Periconia, and Papulaspora.
+The [[the-soil-food-web]] framework helps contextualize desert soil communities. Desert soils generally are characterized by low propagule densities but high species diversity (Christensen 1981a; Mouchacca 1995). Mitosporic fungi with melanized, often thick-walled conidia are well represented, including genera such as Alternaria, Ulocladium, Curvularia, Periconia, and Papulaspora.
 
 Fungi with melanized pycnidia, dark-spored ascomycetes, and fungi producing chlamydospores, bulbils, or sclerotia are also common in desert soils. These structures are considered adaptations to extreme desiccation and insolation.
 
@@ -61,14 +61,14 @@ Crust-forming fungi, including cyanobacteria-lichen associations, stabilize dese
 ## Climate Change Implications
 [[fungal-climate-change-responses]] documents how fungal communities respond to warming. Climate change is expected to intensify aridification in many regions, potentially expanding the ecological significance of xerotolerant and xerophilic fungi. Understanding [[fungal-biodiversity-in-extreme-environments]] provides a foundation for predicting how fungal communities will respond to increasing temperatures and decreasing precipitation.
 
-Desert fungi may serve as model systems for studying fungal adaptations to water stress, with implications for agriculture and biotechnology. Research into their stress tolerance mechanisms could inform the development of drought-resistant crop varieties. See [[fungal-biodiversity-soil-habitats]] for comparative soil fungal ecology across environments.
+Desert fungi may serve as model systems for studying fungal adaptations to water stress, with implications for agriculture and biotechnology. Research into their stress tolerance mechanisms could inform the development of drought-resistant crop varieties. See [[the-soil-food-web]] for comparative soil fungal ecology across environments.
 
 ## Related Topics
 
 - [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-diversity-extreme-environments]]
 - [[halophilic-fungi]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[extremophilic-fungi]]
 - [[fungal-stress-responses]]
 

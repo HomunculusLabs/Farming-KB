@@ -41,9 +41,9 @@ sources:
 
 ## Introduction
 
-Mediterranean herbs are among the most rewarding and resilient plants a gardener can grow. Originating from the sun-drenched, well-drained soils of the Mediterranean basin — spanning southern Europe, North Africa, and the Middle East — these plants have evolved to thrive in conditions that challenge many other species: lean, alkaline soils; blazing summer heat; long dry spells; and cool, moist winters. This adaptation makes them exceptionally well-suited to water-wise gardens, xeriscaping, permaculture food forests, and container growing.
+Mediterranean herbs are among the most rewarding and resilient plants a gardener can grow. Originating from the sun-drenched, well-drained soils of the Mediterranean basin — spanning southern Europe, North Africa, and the Middle East — these plants have evolved to thrive in conditions that challenge many other species: lean, alkaline soils; blazing summer heat; long dry spells; and cool, moist winters. This adaptation makes them exceptionally well-suited to water-wise gardens, xeriscaping, [[permaculture-food-forests-design-course]], and [[container-growing-vegetables-herbs]].
 
-The eight herbs covered in this guide — **rosemary, lavender, thyme, oregano, sage, savory, hyssop, and marjoram** — share a family resemblance in their cultivation needs. Most belong to the *Lamiaceae* (mint) family, characterized by square stems, opposite leaves, and aromatic essential oils concentrated in glandular hairs on their foliage. These essential oils are both the source of their culinary and medicinal value and the reason many pests find them unpalatable.
+The eight herbs covered in this guide — **rosemary, lavender, thyme, oregano, sage, savory, hyssop, and marjoram** — share a family resemblance in their cultivation needs. Most belong to the *Lamiaceae* (mint) family, characterized by square stems, opposite leaves, and aromatic [[essential-oils-and-hydrosol-distillation]] concentrated in glandular hairs on their foliage. These essential oils are both the source of their culinary and medicinal value and the reason many pests find them unpalatable.
 
 This page provides a comprehensive reference for cultivating these herbs, whether you are a beginner with a sunny windowsill or an experienced gardener designing a large-scale herb garden.
 
@@ -62,7 +62,7 @@ This page provides a comprehensive reference for cultivating these herbs, whethe
 | **Size** | 2–6 ft tall, 2–4 ft wide depending on variety. |
 | **Lifespan** | Perennial shrub; can live 15–30+ years. |
 
-Rosemary is a woody evergreen shrub that forms the backbone of many Mediterranean herb gardens. It prefers lean soil — avoid rich amendments or heavy fertilization, which promotes soft, floppy growth susceptible to fungal disease. Choose upright varieties (e.g., 'Tuscan Blue', 'Miss Jessopp's Upright') for hedging or culinary harvest, and trailing varieties (e.g., 'Prostratus', 'Huntington Carpet') for raised beds and walls.
+Rosemary is a woody evergreen shrub that forms the backbone of many Mediterranean herb gardens. It prefers lean soil — avoid rich amendments or heavy fertilization, which promotes soft, floppy growth susceptible to fungal disease. Choose upright varieties (e.g., 'Tuscan Blue', 'Miss Jessopp's Upright') for hedging or culinary harvest, and trailing varieties (e.g., 'Prostratus', 'Huntington Carpet') for [[raised-beds-vs-in-ground-vs-containers]] and walls.
 
 ### Lavender (*Lavandula* spp.)
 
@@ -94,7 +94,7 @@ Common thyme (*T. vulgaris*) is the standard culinary variety. Lemon thyme (*T. 
 
 | Requirement | Details |
 |---|---|
-| **Soil** | Well-drained, any reasonable garden soil; pH 6.0–8.0. Tolerates rocky, poor soils. |
+| **Soil** | Well-drained, any reasonable [[garden-soil-terminology-glossary]]; pH 6.0–8.0. Tolerates rocky, poor soils. |
 | **Sun** | Full sun; 6+ hours. |
 | **Water** | Low to moderate. Drought-tolerant once established. |
 | **Hardiness Zones** | Greek oregano (*O. vulgare* subsp. *hirtum*): Zones 5–10. Italian oregano (*O. × majoricum*): Zones 6–10. |
@@ -163,10 +163,10 @@ Sweet marjoram has a delicate, sweet, and slightly floral flavor — milder and 
 
 Most Mediterranean herbs can be grown from seed, but results vary:
 
-- **Thyme, oregano, savory, hyssop, marjoram**: Germinate readily from seed. Sow indoors 6–8 weeks before the last frost date on the surface of a light seed-starting mix (do not bury — light aids germination). Maintain 65–70°F (18–21°C) with bottom heat. Germination typically occurs in 10–21 days.
+- **Thyme, oregano, savory, hyssop, marjoram**: Germinate readily from seed. Sow indoors 6–8 weeks before the last frost date on the surface of a light [[seed-starting-methods-comparison]] mix (do not bury — light aids germination). Maintain 65–70°F (18–21°C) with bottom heat. Germination typically occurs in 10–21 days.
 - **Sage**: Seeds germinate in 14–21 days. Stratification (cold treatment) for 2–4 weeks can improve germination rates.
 - **Lavender**: Seeds have low and uneven germination (14–30 days). Cold stratification at 40°F (4°C) for 4–6 weeks before sowing significantly improves rates. Many growers prefer cuttings.
-- **Rosemary**: Seed germination is notoriously poor (14–28 days, often below 30% success rate). Stratification and GA₃ treatment can help, but cuttings are strongly recommended.
+- **Rosemary**: [[seed-germination-techniques-solomon]] is notoriously poor (14–28 days, often below 30% success rate). Stratification and GA₃ treatment can help, but cuttings are strongly recommended.
 
 **Key tip**: Use a sterile, well-draining seed mix. Mediterranean herb seeds are susceptible to damping off — provide good air circulation and avoid overwatering.
 
@@ -273,7 +273,7 @@ The deep root systems of rosemary, sage, and lavender help break up compacted su
 - **Rosemary**: Traditionally used to improve memory and concentration. Contains rosmarinic acid and carnosic acid with documented anti-inflammatory and antioxidant properties. Used topically in massage oils for muscle pain. May improve circulation.
 - **Lavender**: Widely used for its calming and anxiolytic (anxiety-reducing) effects. Lavender oil is used in aromatherapy for sleep and relaxation. Applied topically for minor burns and insect bites (diluted in a carrier oil). Internal use of lavender oil is not recommended without professional guidance.
 - **Thyme**: Thymol, the primary active compound, is a potent antiseptic and expectorant. Thyme tea is a traditional remedy for coughs, bronchitis, and sore throats. Thymol is an ingredient in many commercial mouthwashes.
-- **Oregano**: Oil of oregano (high in carvacrol and thymol) has demonstrated antimicrobial, antifungal, and antiviral properties in laboratory studies. Used as a natural remedy for respiratory and digestive complaints.
+- **Oregano**: Oil of oregano (high in carvacrol and thymol) has demonstrated antimicrobial, antifungal, and [[antiviral-properties-of-mushrooms]] in laboratory studies. Used as a natural remedy for respiratory and digestive complaints.
 - **Sage**: One of the most well-documented medicinal herbs. Used for sore throats and gum inflammation (gargle). May help reduce menopausal hot flashes (clinical evidence supports moderate efficacy). Traditionally used for digestive issues and memory support.
 - **Hyssop**: Used in traditional European herbalism as an expectorant for respiratory infections. Contains marrubiin (also found in horehound), which stimulates mucus production. Tea used for colds and congestion.
 - **Marjoram**: Mild sedative and digestive aid. Marjoram tea is traditionally used for anxiety, insomnia, and digestive upset. Applied as a poultice for muscle aches.

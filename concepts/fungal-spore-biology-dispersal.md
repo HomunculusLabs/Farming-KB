@@ -37,7 +37,7 @@ Key spore types reflect the enormous morphological diversity of the Kingdom Fung
 - **Conidia**: Asexual, mitotic spores produced at the tips or sides of specialized structures (conidiophores). The most common spore type among filamentous fungi. Conidial morphology is a key taxonomic character. Some conidia act as germination self-inhibitors (Macko and Staples, 1973)
 - **Ascospores**: Sexual, meiotic spores produced within asci. Typically eight per ascus, though some species produce fewer. Ascospore morphology varies from needle-shaped to globose, often with ornamental features
 - **Basidiospores**: Sexual, meiotic spores produced externally on basidia. The defining spore type of the [[basidiomycete-phylum-guide]]. Typically four per basidium, forcibly discharged by the ballistospore mechanism
-- **Sporangiospores**: Asexual spores produced within sporangia, characteristic of [[zygomycete-phylum-guide]]. Released when the sporangium wall ruptures
+- **Sporangiospores**: Asexual spores produced within sporangia, characteristic of zygomycete phylum guide. Released when the sporangium wall ruptures
 - **Zoospores**: Motile, flagellated spores of aquatic fungi (chytrids, oomycetes)
 - **Gloeocapsidia**: Spores enmeshed in a gelatinous matrix, found in some [[coprophilous-fungi]]
 - **Chlamydospores**: Thick-walled resting spores that survive extended periods of adverse conditions, formed from hyphal cells

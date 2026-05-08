@@ -142,30 +142,6 @@ independence for nations facing scarcity.
 
 Fukuoka proposed greening deserts using clay seed pellets. Seeds of green
 manure trees (such as black wattle, growing with less than 2 inches of annual
-rainfall), clover, alfalfa, bur clover, grain, and vegetable seeds are mixed,
-coated with soil, then encased in clay. The pellets protect seeds from
-predation and prevent premature germination. When scattered by hand over arid
-land, seeds remain dormant until sufficient rain falls.
-
-Fukuoka's key insight: "rain does not fall from the heavens; it issues forth
-from the ground." Deserts form not because of insufficient rain, but because
-vegetation has disappeared, breaking the local water cycle. Building dams
-treats the symptom; restoring vegetation addresses the cause. He advocated
-rapid revegetation through broad seeding, trusting nature to select species
-best adapted to local conditions, rather than conducting scientific studies of
-desertification causation.
-
-## Legacy and Influence
-
-Fukuoka's ideas have influenced permaculture, regenerative agriculture, no-
-till farming, conservation agriculture, and the broader sustainable agriculture
-movement. His demonstration that a single farmer working with nature rather
-than against it could produce abundant food with minimal labor remains a
-powerful challenge to the industrial agriculture paradigm. The philosophy of
-"Mu" — achieving productivity through non-action and alignment with natural
-processes — offers a fundamentally different relationship between humans and
-the land.
-
 ## See Also
 
 - [[fukuoka-five-principles-natural-farming]]

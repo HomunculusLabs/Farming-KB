@@ -36,13 +36,13 @@ If nothing is wrong with you, there is no reason to eat them.
 
 Until recent times, mushrooms were the only medicine the Indians had.
 
-Their medicinal value is considered both magical and chemical. See [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[psilocybe-mexicana-profile]] for the primary species involved.
+Their medicinal value is considered both magical and chemical. See [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[psychedelic-mushrooms-species-and-identification]] for the primary species involved.
 
 According to the Indians, syphilis, cancer, and epilepsy have been alleviated; tumors cured.
 
 Particularly effective for stomach disorders and skin irritations.
 
-The shamaness Irene Pineda de Figueroa discovered her vocation when mushrooms cured her of a post-bereavement skin affliction. For more on prominent Mazatec curanderas, see [[maria-sabina-mazatec-mushroom-curandera]] and [[maria-sabina-mazatec-mushroom-ceremony]].
+The shamaness Irene Pineda de Figueroa discovered her vocation when mushrooms cured her of a post-bereavement skin affliction. For more on prominent Mazatec curanderas, see [[maria-sabina-mazatec-mushroom-curandera]] and [[mushroom-cultivation-fundamentals]].
 
 ## The Shaman as Speaker
 

@@ -138,28 +138,6 @@ non-host species and resistant rootstocks. Various Curculionidae weevil species 
 tubers in the field and storage, with larvae boring into flesh and promoting secondary
 fungal infections. Additional pests include aphids (infesting young shoots and flowers,
 potentially transmitting viral diseases), whiteflies (causing honeydew and sooty mold),
-and pod borers. Fungal diseases including powdery mildew, root rot (Fusarium and
-Pythium), and anthracnose affect jícama under humid conditions. Good drainage, adequate
-spacing, and resistant cultivar selection help mitigate these issues.
-
-## Similar Species
-### Pachyrhizus tuberosus (Ahipa)
-Also called ahipa or Amazonian yam bean, native to the Amazon basin and Andean region.
-It produces smaller tubers (0.2–0.5 kg) but is similarly crisp and sweet. Ahipa has
-gained research attention as an underutilized crop due to its shorter growing season,
-higher disease resistance, and edible young pods (unlike P. erosus). It is considered
-promising for diversifying tropical agriculture and improving food security.
-### Pachyrhizus ahipa
-Some taxonomists consider P. ahipa a distinct species or subspecies of P. tuberosus.
-Cultivated in the Bolivian and Peruvian Andes at higher altitudes than P. erosus,
-making it suitable for cooler tropical highland environments.
-### Pachyrhizus erosus Cultivar Groups
-Two main cultivar groups are recognized: **jícama de agua** (water jícama), producing a
-large, spherical, watery tuber with smooth skin — the most commercially important type;
-and **jícama de leche** (milk jícama), producing an elongated, tapered tuber with
-denser flesh and rougher skin, preferred in some regions for its concentrated flavor
-and firmer texture.
-
 ## See Also
 
 - [[pachyrhizus-tuberosus]]

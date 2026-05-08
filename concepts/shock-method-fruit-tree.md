@@ -35,7 +35,7 @@ If a tree in full leaf and fruit were planted and not watered, all its energy wo
 
 Trees treated using the shock method concentrate on taking root and do not produce shoots until they have the energy to do so. The trees are raised to be independent.
 
-Trees planted this way grow best between [[holzer-raised-bed-design|raised beds]] where a large amount of moisture collects, providing ideal conditions for root establishment.
+Trees planted this way grow best between [[sepp-holzer-permaculture-and-rebel-farming|raised beds]] where a large amount of moisture collects, providing ideal conditions for root establishment.
 
 ## Physiological Basis
 
@@ -132,5 +132,5 @@ However, the vigorous root development it produces suggests that even for health
 - [[fruit-forest-establishment]]
 - [[fruit-tree-grafting-guide]]
 - [[old-fruit-variety-selection]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[earth-cellar-construction]]

@@ -69,7 +69,7 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Planting**: Everything in ground. Transplant sweet potatoes (slips), successions of beans, corn.
 - **[[herbal-medicine]]**: Transplant calendula, chamomile, holy basil, ashwagandha seedlings.
 - **Pest management**: Install row covers on brassicas. Set up traps for cucumber beetles, squash bugs.
-- **Cannabis**: Full vegetative growth. Defoliate lower growth. Monitor for pests. See [[cannabis-pest-management]].
+- **Cannabis**: Full vegetative growth. Defoliate lower growth. Monitor for pests. See cannabis pest management.
 - **Animals**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats — copper bolus if needed.
 - **Compost**: Turn piles every 2-3 weeks. Harvest finished compost for garden beds.
 

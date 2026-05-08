@@ -31,7 +31,7 @@ Saffron cultivation dates back over 3,500 years. The plant likely originated in 
 
 The saffron crocus is a member of the Iridaceae family, subfamily Crocoideae. Key botanical features include:
 
-- **Corm**: A compressed underground stem acting as a storage organ, 2–5 cm in diameter, covered with fibrous tunics. Corms are the sole means of vegetative propagation.
+- **Corm**: A compressed underground stem acting as a storage organ, 2–5 cm in diameter, covered with fibrous tunics. Corms are the sole means of [[vegetative-propagation-methods-mollison]].
 - **Leaves**: 5–11 narrow, grass-like leaves emerge with or shortly after flowering, reaching 20–40 cm. Leaves photosynthesize through winter and die back in spring, replenishing the corm's energy reserves.
 - **Flowers**: Lilac to purple, borne singly on short stalks, appearing in autumn (September–November depending on latitude). Each flower contains three vivid red stigmas (the saffron), three yellow stamens, and a long white style connecting stigma to ovary.
 - **Roots**: Contractile roots pull the replacement corm deeper each year. New roots emerge from the base of the new corm in late summer.
@@ -48,7 +48,7 @@ Saffron thrives in regions with:
 - **Low humidity**: High humidity during flowering favors *Fusarium* and other fungal pathogens. Arid to semi-arid Mediterranean climates (Köppen Csa, Csb, BSk) are ideal.
 - **Full sun**: At least 6–8 hours of direct sunlight during the growing season.
 
-Optimal altitude ranges from sea level to approximately 2,000 meters, though performance varies with latitude. In the Southern Hemisphere (e.g., New Zealand, Tasmania), the reversed seasons allow autumn flowering from March to May.
+Optimal altitude ranges from sea level to approximately 2,000 meters, though performance varies with latitude. In the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] (e.g., New Zealand, Tasmania), the reversed seasons allow autumn flowering from March to May.
 
 ### Hardiness Zones
 
@@ -61,7 +61,7 @@ Saffron is relatively undemanding regarding soil but performs best in:
 - **Texture**: Well-drained sandy loam to loamy soils. Heavy clay soils impede drainage and promote corm rot. Excessively sandy soils may require more frequent irrigation.
 - **pH**: Neutral to slightly alkaline (6.5–8.0). The plant tolerates mildly saline soils better than many crops.
 - **Organic matter**: Moderate organic matter content (1.5–3%). Excessive nitrogen from fresh manure promotes foliage at the expense of flower production.
-- **Drainage**: Excellent drainage is non-negotiable. Standing water during any season will kill corms within days. Raised beds or mounded rows are recommended in heavier soils.
+- **Drainage**: Excellent drainage is non-negotiable. Standing water during any season will kill corms within days. [[raised-beds-vs-in-ground-vs-containers]] or mounded rows are recommended in heavier soils.
 - **Depth**: Soils should be deep enough (minimum 30 cm) to allow corms to develop replacement corms at multiple depths.
 
 ## Corm Propagation and Planting
@@ -103,7 +103,7 @@ Raised beds (15–20 cm high) improve drainage in all soil types. Beds should be
 
 ### Pre-Planting
 
-1. **Soil testing**: Conduct comprehensive soil tests (pH, NPK, organic matter, micronutrients, salinity, and pathogen screening) 3–6 months before planting.
+1. **[[soil-testing-and-fertility-planning]]**: Conduct comprehensive soil tests (pH, NPK, organic matter, micronutrients, salinity, and pathogen screening) 3–6 months before planting.
 2. **Deep tillage**: Subsoil to 40–50 cm to break hardpans and improve drainage, especially in heavy soils.
 3. **Base fertilization**: Incorporate well-composted manure or compost (20–30 t/ha) and rock phosphate (500 kg/ha) into the soil 2–4 weeks before planting. Avoid excessive nitrogen.
 4. **Solarization**: In regions with hot summers, solarize beds for 4–6 weeks before planting to reduce soil-borne pathogens, nematodes, and weed seeds.
@@ -115,7 +115,7 @@ Avoid planting saffron after other Iridaceae or after crops susceptible to *Fusa
 
 ## Irrigation Management
 
-Saffron is relatively drought-tolerant but benefits from strategic irrigation:
+Saffron is relatively [[drought-tolerant-planting-design]] but benefits from strategic irrigation:
 
 1. **Pre-planting irrigation**: Light irrigation 1–2 days before planting to settle the soil.
 2. **First post-planting irrigation**: Apply 30–40 mm of water approximately 10–15 days after planting to stimulate root emergence and flower initiation. This is often the most critical irrigation of the season.
@@ -131,7 +131,7 @@ Saffron has modest nutrient demands compared to most crops:
 
 | Nutrient | Annual Rate (kg/ha) | Timing |
 |----------|-------------------|--------|
-| Nitrogen (N) | 30–60 | Split: half pre-plant, half post-harvest (spring) |
+| Nitrogen (N) | 30–60 | Split: half pre-plant, half [[post-harvest-handling-marketing-mushrooms]] (spring) |
 | Phosphorus (P₂O₅) | 40–80 | Pre-plant, incorporated into beds |
 | Potassium (K₂O) | 30–50 | Pre-plant or early spring |
 | Compost/Manure | 20–30 t/ha | Pre-plant (well-composted only) |
@@ -170,7 +170,7 @@ Weed competition is one of the most significant challenges in saffron production
 | Corm rot | *Fusarium oxysporum*, *F. moniliforme* | Soft, brown corms; yellowing foliage | Crop rotation, clean corms, fungicide dip, well-drained soil |
 | Corm decay | *Rhizoctonia crocorum* (violet root rot) | Purple-brown fungal mat on corms | Long rotation (6+ years), soil solarization |
 | Rust | *Uromyces croci* | Orange pustules on leaves | Remove affected foliage, avoid overhead irrigation |
-| Smut | *Urocystis colchici* | Dark spore masses on plant parts | Hot water treatment of corms, destroy infected plants |
+| Smut | *Urocystis colchici* | Dark spore masses on plant parts | [[hot-water-and-hydrated-lime-substrate-treatment]] treatment of corms, destroy infected plants |
 | Viruses | Cucumber mosaic virus, Tobacco rattle virus | Stunting, leaf mottling, deformed flowers | Use virus-free corms, control aphid vectors |
 
 ### Pests
@@ -347,7 +347,7 @@ Care must be taken that intercrops do not compete for water or nutrients during 
 | Month | Activity |
 |-------|----------|
 | June–July | Lift corms (if replanting), clean, sort, store |
-| August | Soil preparation, bed formation, pre-plant fertilization |
+| August | [[soil-preparation-organic-gardens]], bed formation, pre-plant fertilization |
 | September | Plant corms, first irrigation |
 | October | Begin flowering, daily flower harvest, stigma extraction |
 | November | Complete harvest, continue stigma drying, winter fertilization |

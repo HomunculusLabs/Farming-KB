@@ -21,7 +21,7 @@ different values: soil biology and long-term health versus convenience and immed
 control.
 
 ## No-Till Gardening
-[[no-till-gardening-method]]
+[[composting-and-soil-biology]]
 No-till gardening is a cultivation system that preserves soil structure by eliminating
 plowing, rototilling, and any form of soil inversion. Organic matter is applied to the
 surface as compost, mulch, and cover crops, with earthworms, microbes, and fungi

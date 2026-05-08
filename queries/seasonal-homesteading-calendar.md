@@ -93,7 +93,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 ## May
 
-**Garden tasks**: Everything in ground. Transplant sweet potato slips. Succession sow beans, corn, cucumbers. Transplant herbs (calendula, chamomile, holy basil, ashwagandha). Install [[mulching-guide]] on all beds. Begin [[cannabis-pest-management]] scouting. Full [[cannabis-vegetative-stage]] -- training (LST, topping), defoliation.
+**Garden tasks**: Everything in ground. Transplant sweet potato slips. Succession sow beans, corn, cucumbers. Transplant herbs (calendula, chamomile, holy basil, ashwagandha). Install [[mulching-guide]] on all beds. Begin cannabis pest management scouting. Full [[cannabis-vegetative-stage]] -- training (LST, topping), defoliation.
 
 **Livestock**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats -- copper bolus if needed. Monitor for internal parasites (FAMACHA scoring).
 

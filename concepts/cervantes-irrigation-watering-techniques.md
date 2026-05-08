@@ -17,7 +17,7 @@ size dictate water consumption. This page covers irrigation
 fundamentals for soil and soilless growing. For hydroponic irrigation
 systems, see [[cervantes-drip-irrigation-systems]] and
 [[cervantes-hydroponic-systems]]. See also
-[[cervantes-water-quality-management]] and
+[[cannabis-advanced-growing-techniques]] and
 [[cervantes-moisture-meters-watering-technique]].
 
 ## Factors Affecting Water Consumption

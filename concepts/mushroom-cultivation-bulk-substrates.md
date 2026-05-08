@@ -112,7 +112,7 @@ Spent substrate retains significant organic matter and microbial life, making it
 ## See Also
 
 - [[mushroom-cultivation-grain-spawn]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-cultivation-fruiting-chambers]]
 - [[shiitake-cultivation-log-method]]
 - [[cotter-oyster-mushroom-cultivation]]

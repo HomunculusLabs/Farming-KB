@@ -18,7 +18,7 @@ type: concept
 
 Bill Mollison's [[permaculture-designers-manual-bamboo]] identifies the
 aquatic edge -- the interface between water and land -- as one of the
-most productive and biodiverse zones in any landscape. The [[gaias-garden-edge-effect]] principle states that the boundary between two ecosystems
+most productive and biodiverse zones in any landscape. The gaias garden edge effect principle states that the boundary between two ecosystems
 supports more species and greater productivity than either ecosystem
 alone, and nowhere is this more evident than at the margins of ponds,
 lakes, streams, and constructed wetlands.
@@ -145,7 +145,6 @@ conditions.
 ## See Also
 
 - [[permaculture-designers-manual-bamboo]] -- source reference
-- [[gaias-garden-edge-effect]] -- productivity of boundary zones
+- gaias garden edge effect -- productivity of boundary zones
 - [[permaculture-principles]] -- biological resource management
 - [[keyline-design]] -- broader water management context
-- [[permaculture-zone-planning]] -- placement of ponds and wetlands

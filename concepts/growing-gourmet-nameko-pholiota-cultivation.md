@@ -20,7 +20,7 @@ edible species. Many species are characterized by a glutinous, slimy
 veil coating the surface of the cap. However, the Japanese discovered
 that Pholiota nameko is a superior gourmet mushroom. It is one of the
 most popular cultivated mushrooms in Japan, closely ranking behind
-[[growing-gourmet-shiitake-cultivation]] and
+[[shiitake-mushroom-cultivation-and-medicinal-properties]] and
 [[growing-gourmet-enoki-cultivation]].
 
 ## Taxonomy and Common Names
@@ -143,7 +143,7 @@ in Chinese; no parallel Western studies are known.
 
 ## Related Topics
 
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]

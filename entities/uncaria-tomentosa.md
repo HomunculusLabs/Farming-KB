@@ -1,5 +1,5 @@
 ---
-title: "Uncaria tomentosa"
+title: "uncaria tomentosa"
 created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, rubiaceae, herbal, medicinal, amazonian]
@@ -25,7 +25,7 @@ thorns on the vine that resemble a cat's claws. Indigenous
 Ashaninka, Shipibo, and other Amazonian peoples have used the
 vine's inner bark for centuries to treat a wide range of
 conditions including arthritis, digestive disorders, wounds,
-infections, and as a general tonic. Modern herbal medicine has
+infections, and as a general tonic. Modern [[herbal-medicine]] has
 adopted cat's claw as one of the primary antiviral and immune-
 supporting botanicals.
 
@@ -145,7 +145,6 @@ longitudinal strips from one side only, allowing regeneration.
 
 ## See Also
 
-- [[uncaria-tomentosa]]
+- uncaria tomentosa
 - [[mitragyna-speciosa]]
 - [[banisteriopsis-caapi]]
-- [[psychotria-viridis]]

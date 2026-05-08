@@ -32,7 +32,7 @@ the mushroom than in the loose network of the mycelium.
 
 Key medicinal polysaccharides identified include:
 
-- Lentinan: from [[growing-gourmet-shiitake-cultivation]]
+- Lentinan: from [[shiitake-mushroom-cultivation-and-medicinal-properties]]
   (Lentinula edodes)
 - Flammulin or "FVP": from [[growing-gourmet-enoki-cultivation]]
   (Flammulina velutipes)
@@ -140,6 +140,6 @@ and recuperation, longevity, sexual prowess, wisdom, and happiness.
 
 - [[growing-gourmet-reishi-cultivation]]
 - [[growing-gourmet-maitake-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-north-american-reishi-species]]
 - [[growing-gourmet-strain-selection]]

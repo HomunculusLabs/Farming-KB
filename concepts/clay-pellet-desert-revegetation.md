@@ -141,48 +141,9 @@ analysis, irrigation, or ongoing human management.
 
 The method embodies the principle of non-causality: rather than attempting to
 understand why the desert formed and addressing specific causes, it simply
-introduces the conditions for life and allows nature's self-organizing
-processes to determine the outcome. It also embodies the philosophy of Mu,
-or nothingness, by requiring no specialized knowledge and no complex
-infrastructure, only seeds, clay, soil, and the willingness to scatter them
-and wait.
-
-## The Happy Hill Rice Connection
-
-Fukuoka's development of the "Happy Hill" rice strain illustrates the
-potential of this approach for food security. This hardy variety, developed
-through natural selection on his farm, incorporates wild rice genetics. A
-single head of Happy Hill rice, sent to a food-scarce country and sown over
-a ten-square-yard area, could yield 5,000 grains in one year. This would
-provide enough seed for a half-acre the following year, fifty acres two years
-hence, and 7,000 acres in the fourth year. The seed rice could become the
-foundation for an entire nation's food independence.
-
-Fukuoka envisioned combining his rice variety with the clay pellet technique
-to deliver food security alongside ecological restoration. The same pellet
-scattering operations that introduce revegetation species could include food
-crop seeds, creating the conditions for both ecological recovery and
-sustainable food production simultaneously.
-
-## Scale and Feasibility
-
-The practical advantages of the clay pellet method for large-scale
-revegetation are considerable. Pellets can be mass-produced with simple
-equipment. They are lightweight, easy to transport, and can be scattered
-from aircraft over inaccessible terrain. They require no site preparation,
-irrigation, or follow-up maintenance. The initial cost is limited to seed
-procurement and pellet production.
-
-Fukuoka acknowledged that natural farming will never see general application
-in its true form and would serve primarily as a brake on the destruction
-caused by scientific agriculture and industrial civilization. The desert
-revegetation proposal represents an attempt to apply this braking function
-at the largest possible scale, addressing global desertification through the
-simplest possible means.
-
 ## See Also
 
 - [[no-till-direct-seeding-rice-barley]]
 - [[natural-ground-cover-and-straw-mulching]]
-- [[mahayana-and-hinayana-natural-farming]]
+- [[korean-natural-farming-and-jadam]]
 - [[non-causality-in-nature]]

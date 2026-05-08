@@ -81,7 +81,7 @@ stains is very rare overall.
 
 ## Alkaloid Content
 
-Stijve concluded that dried fruiting bodies contain about 0.1% [[psilocybin]]
+Stijve concluded that dried fruiting bodies contain about 0.1% [[psilocybin-compound]]
 regardless of location, plus a tiny amount of [[baeocystin]]. However, dried
 mushrooms from the Pacific Northwest have been reported to contain 0.16% to
 0.65% psilocybin. The first North American analyses (1959) led to isolation of
@@ -147,5 +147,3 @@ subbalteatus has received relatively little modern research attention. The
 variability in reported psilocybin content (0.1% in Europe versus up to 0.65%
 in the Pacific Northwest) suggests either genuine geographic variation or
 ## See Also
-
-- [[panaeolus-mushroom-intoxication-history]]

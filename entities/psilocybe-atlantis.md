@@ -128,8 +128,8 @@ Dried sclerotia should be stored in an airtight container with a desiccant packe
 - [[psilocybe-fuscoflocculosa]]
 
 - [[psilocybe-mexicana]] — type species of the sclerotia-producing complex
-- [[psilocybe-tampanensis]] — "philosopher's stones," another sclerotia producer
+- [[psilocybe-tampanensis-entity]] — "philosopher's stones," another sclerotia producer
 - [[psilocybe-galindoi]] — closely related Mexican species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — minor alkaloid

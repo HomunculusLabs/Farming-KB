@@ -148,4 +148,3 @@ schedule to support recovery growth.
 - [[low-stress-training]]
 - apical dominance
 - [[canopy-layer-design-food-forests]]
-- [[defoliation-cannabis]]

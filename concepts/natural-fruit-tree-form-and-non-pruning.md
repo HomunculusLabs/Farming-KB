@@ -148,7 +148,3 @@ See also: [[natural-farming]], [[orchard-management]],
 [[do-nothing-farming]]
 
 ## See Also
-
-- [[do-nothing-farming]]
-- [[masanobu-fukuoka]]
-- [[natural-farming]]

@@ -132,13 +132,13 @@ Police or customs seizures were reported in 2004 in Czech Republic,
 Estonia, Germany, Greece, Hungary, Lithuania, Netherlands, Norway,
 Poland, Portugal, Slovakia, Slovenia, and Sweden. The largest quantity
 seized was 11.5 kg in Poland. Estonia confiscated 14 mail deliveries of
-[[psilocybin]] mushrooms or their spores/mycelium.
+[[psilocybin-compound]] mushrooms or their spores/mycelium.
 
 ## Related Topics
 
-- [[emcdda-hallucinogenic-mushroom-legal-status-europe]] for how
+- [[hallucinogenic-mushroom-legal-status-europe]] for how
   legislation shaped the retail market
-- [[emcdda-hallucinogenic-mushroom-prevalence-europe]] for usage
+- [[hallucinogenic-mushroom-prevalence-europe]] for usage
   data
 - [[emcdda-psilocybin-mushroom-species-and-identification]] for the
   species commonly sold in retail markets

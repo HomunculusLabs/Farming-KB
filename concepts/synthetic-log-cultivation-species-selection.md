@@ -88,7 +88,7 @@ Maitake's cultivation demands differ markedly from other [[mushroom-cultivation-
 1. Obtain strains that have been tested and demonstrated as good fruiting strains by reputable growers or research institutions.
 2. Match strain origin to cultivation environment (e.g., North American strains for North American conditions, Chinese strains for Chinese conditions).
 3. Document performance metrics (spawn run duration, primordia initiation timing, yield, quality) for each strain used across multiple production cycles.
-4. Maintain strain purity through proper [[mushroom-cultivation-sterile-technique]] during spawn preparation and inoculation.
+4. Maintain strain purity through proper [[mushroom-cultivation-fundamentals]] during spawn preparation and inoculation.
 5. Consider the total production timeline: approximately 3-3.5 months from inoculation to harvest for most maitake strains.
 6. Evaluate substrate compatibility: test new strains on the locally available hardwood species to optimize cost-effectiveness.
 7. Keep detailed records of environmental parameters at each growth stage to refine strain-specific management protocols.
@@ -102,7 +102,7 @@ Maitake's cultivation demands differ markedly from other [[mushroom-cultivation-
 - [[maitake-cancer-clinical-research]]
 - [[holzer-mushroom-cultivation-methods]]
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 - [[spawn-generation-techniques]]
 - [[spawn-production-techniques]]
 - [[synthetic-log-mushroom-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: "Panax quinquefolius"
+title: "panax quinquefolius"
 created: 2026-04-28
 type: species
 tags:
@@ -35,8 +35,8 @@ sources:
 
 - **Common name:** American ginseng
 - **Family:** Araliaceae (ginseng family)
-- **Origin:** Eastern North America
-- **Native range:** Appalachian region (southern to central), Great Lakes region, Ontario (Canada)
+- **Origin:** [[polypore-fungi-eastern-north-america]] le-mushrooms-north-america]]
+- **Native range:** [[bolete-fungi-appalachian-region]] (southern to central), Great Lakes region, Ontario (Canada)
 - **Growth habit:** Herbaceous perennial; 30–50 cm tall at maturity
 - **Root:** Fleshy, spindle-shaped taproot, often with anthropomorphic branching
 - **Leaves:** Compound, palmately divided into 3–5 leaflets per leaf
@@ -62,12 +62,12 @@ sources:
 - **Authority:** Linnaeus (1753)
 - **Close relatives:** *P. ginseng* (Asian), *P. notoginseng* (Tienchi), *P. trifolius* (dwarf ginseng)
 
-## Chemical Constituents
+## [[guzman-magic-mushrooms-chemical-constituents]]
 
 - **Primary actives:** Ginsenosides (dammarane-type triterpene saponins)
   - **Rb1:** Most abundant ginsenoside in *P. quinquefolius* (~3–6% dry root weight); higher than in *P. ginseng*
   - **Re:** Second most abundant; significant immunomodulatory activity
-  - **Rd:** Anti-inflammatory; neuroprotective properties
+  - **Rd:** [[medicinal-mushroom-antioxidant-anti-inflammatory]]; neuroprotective properties
   - **Rc:** Sedative and anxiolytic effects
   - **Rg1:** Present at lower concentrations than in *P. ginseng*
   - **F11 (pseudoginsenoside F11):** Marker compound unique to American ginseng
@@ -78,7 +78,7 @@ sources:
   - Polyacetylenes (panaxynol, panaxydol) — antitumor activity
   - Essential oil (trace amounts)
 
-## Traditional & Medicinal Uses
+## Traditional & [[bee-product-medicinal-uses]]
 
 ### Indigenous North American Uses
 - Root used by Cherokee, Creek, Iroquois, Menominee, Ojibwa, and other peoples
@@ -138,7 +138,7 @@ sources:
   - Adaptogenic and nootropic plant compounds
   - Conservation of economically important species
   - Comparative pharmacognosy with related *Panax* species
-  - Trade dynamics in traditional and modern herbal medicine markets
+  - Trade dynamics in traditional and modern [[herbal-medicine]] markets
 
 ## See Also
 
@@ -148,4 +148,3 @@ sources:
 - adaptogens — Adaptogenic herbs and compounds
 - ginsenosides — Active triterpene saponins
 - woodland botanicals — Forest-grown medicinal plants
-- [[fukuoka-natural-protective-forests-appendix]] — Internationally regulated plant species

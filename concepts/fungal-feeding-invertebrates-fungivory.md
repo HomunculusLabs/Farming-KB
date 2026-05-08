@@ -99,7 +99,7 @@ Key patterns across ecosystems:
 
 - **[[fungal-biodiversity-alpine-arctic]]**: Low plant biomass but comparatively high litter fall relative to standing biomass; decomposition slow due to poor litter quality and narrow windows for microbial activity; organic matter accumulates, peaty soil profiles evolve; systems dominated by fungi (Heal and Dighton, 1986).
 
-- **[[fungal-biodiversity-forest-floor]]**: High plant biomass, low litter fall, but accumulation occurs due to recalcitrance of litter (low resource quality, high C:N and lignin:N ratios). [[fungal-ecology-forest-floor]] fungal biomass is a major component of soil organic matter.
+- **[[fungal-biodiversity-forest-floor]]**: High plant biomass, low litter fall, but accumulation occurs due to recalcitrance of litter (low resource quality, high C:N and lignin:N ratios). [[the-soil-food-web]] fungal biomass is a major component of soil organic matter.
 
 - **[[fungal-biodiversity-tropical-forests]]**: Very high plant biomass, high litter fall, but sparse litter on soil indicating rapid decomposition from favorable climate and high resource quality. Tropical forests input more litter than temperate (9 t/ha/yr vs 3 t/ha/yr), with 75% of phosphorus and 41% of potassium flux in the litter.
 
@@ -107,7 +107,7 @@ Key patterns across ecosystems:
 
 Fungal hyphae colonizing resources incorporate mineral elements into their biomass (immobilization phase), converting these materials to growth. The system is leaky, however, with some nutrients lost as the hyphal front advances. Nutrients temporarily locked up within fungal biomass become available upon fungal death or through grazing by invertebrate fungivores.
 
-In a temperate Douglas fir forest ecosystem, fungal biomass accounts for 5 t/ha of the total soil organic matter and immobilizes significant quantities of nitrogen, phosphorus, and potassium. This immobilization creates a substantial nutrient reservoir within the [[nutrient-retention-soil-food-web]].
+In a temperate Douglas fir forest ecosystem, fungal biomass accounts for 5 t/ha of the total soil organic matter and immobilizes significant quantities of nitrogen, phosphorus, and potassium. This immobilization creates a substantial nutrient reservoir within the [[composting-and-soil-biology]].
 
 ## Carbon-Nutrient Ratios
 

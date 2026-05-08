@@ -148,4 +148,3 @@ cycle after starting plants in a faster hydroponic vegetative system.
 - [[living-soil-cannabis]]
 - [[hydroponic-cannabis]]
 - [[no-till-cannabis]]
-- mycorrhizal fungi cannabis

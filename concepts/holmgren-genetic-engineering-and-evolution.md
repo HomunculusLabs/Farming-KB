@@ -87,7 +87,7 @@ If a Conservation phase lasts a long time and survives several disturbance cycle
 "We are unable to stop the accumulation of risk of catastrophic change resulting from nuclear radiation, the greenhouse effect or genetic engineering." These out-of-control forces have simply replaced, in the human psyche, some of the high-order, large-scale forces of nature and/or gods that previously precipitated catastrophic change as well as bestowing gifts of abundance.
 
 See also: [[holmgren-ecosynthesis-and-weedscape-ecology]], [[holmgren-emergence-and-long-term-cycles]], [[holmgren-permaculture-change-principle]],,
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[permaculture-ecosynthesis-novel-ecosystems]]
 - [[teaming-with-microbes-old-growth-forest]]

@@ -146,4 +146,4 @@ Mollison and Holmgren both emphasize that permaculture is not just about agricul
 
 ## See Also
 
-- [[permaculture-design-principles-beginners]] for a gentler introduction to the core concepts
+- [[permaculture-design-principles]] for a gentler introduction to the core concepts

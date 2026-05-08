@@ -65,7 +65,7 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 
 **Azomite (0-0-0.1):** Volcanic ash mineral deposit containing 67 trace minerals. Very slow release; lasts 2-4 years. Best used as a long-term soil mineral supplement rather than a quick correction.
 
-**Compost:** The most balanced and forgiving of all [[jeavons-fertilization-organic-soil-amendments]]. Finished compost contains N-P-K in roughly 1-1-1 ratios along with calcium, magnesium, sulfur, and all micronutrients. Its greatest value lies not in nutrient quantity but in feeding the [[nutrient-retention-soil-food-web]] that makes all other nutrients available.
+**Compost:** The most balanced and forgiving of all [[jeavons-fertilization-organic-soil-amendments]]. Finished compost contains N-P-K in roughly 1-1-1 ratios along with calcium, magnesium, sulfur, and all micronutrients. Its greatest value lies not in nutrient quantity but in feeding the [[composting-and-soil-biology]] that makes all other nutrients available.
 
 ## Calcium and Sulfur Sources
 

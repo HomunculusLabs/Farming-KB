@@ -43,7 +43,7 @@ North American and Eastern Asiatic species: ties exist between Psilocybe graveol
 
 Southeastern Asiatic species: Psilocybe subaeruginascens var. subaeruginascens from Japan and Java, var. septentrionalis only from Japan.
 
-Tropical and subtropical species: [[psilocybe-cubensis-profile]], Psilocybe subcubensis, [[copelandia-genus-species-guide]] species, possibly Gerronema fibula.
+Tropical and subtropical species: [[psychedelic-mushrooms-species-and-identification]], Psilocybe subcubensis, [[copelandia-genus-species-guide]] species, possibly Gerronema fibula.
 
 Arctic and alpine species: [[psilocybe-azurescens-profile]] var. aztecorum from Mexican high mountains, closely related to [[psilocybe-subaeruginosa-australia]] from the Pacific Northwest and P. quebecensis from Quebec.
 
@@ -59,7 +59,7 @@ Mexico represents a conjugation of both northern and southern mycobiotas.
 
 Horak observed that South American and Mesoamerican species are closely related to those of Southeastern Asia (New Guinea, Indonesia, Australia).
 
-Psilocybe samuiensis from Thailand and [[psilocybe-mexicana-profile]] from New Zealand are both closely related to [[psilocybe-mexicana-profile]] from Mexico and Guatemala (all Section Mexicanae).
+Psilocybe samuiensis from Thailand and [[psychedelic-mushrooms-species-and-identification]] from New Zealand are both closely related to [[psychedelic-mushrooms-species-and-identification]] from Mexico and Guatemala (all Section Mexicanae).
 
 [[psilocybe-genus-classification]] from New Zealand is closely related to P. zapotecorum from Mexico and South America (both Section Zapotecorum).
 
@@ -107,9 +107,9 @@ The majority of neurotropic Psilocybe species grow in subtropical, mesophytic, c
 
 In Mexico, of 42 neurotropic Psilocybe species, 34 are from mesophytic forests, 4 from tropical forests, and 4 from coniferous forests.
 
-Coprophilous species on cow dung include [[psilocybe-cubensis-profile]], Psilocybe subcubensis, and [[copelandia-genus-species-guide]] species.
+Coprophilous species on cow dung include [[psychedelic-mushrooms-species-and-identification]], Psilocybe subcubensis, and [[copelandia-genus-species-guide]] species.
 
-Temperate species include [[psilocybe-semilanceata-profile]], known from Europe, India, Russia, Canada, USA, Chile, Peru, New Zealand, Australia, and Tasmania, but unknown in Mexico.
+Temperate species include [[psychedelic-mushrooms-species-and-identification]], known from Europe, India, Russia, Canada, USA, Chile, Peru, New Zealand, Australia, and Tasmania, but unknown in Mexico.
 
 See also: [[psilocybin-mushroom-global-distribution]], [[psilocybin-mushroom-distribution-worldwide]], [[neotropical-psilocybin-mushrooms]], [[psilocybin-mushroom-altitudinal-distribution]]
 

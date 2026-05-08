@@ -132,57 +132,6 @@ Following permaculture zone theory:
 Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors, noise, views) and designs the food forest to intercept, channel, or buffer these energies as appropriate.
 
 ### Establishment Timeline
-
-| Phase | Timeframe | Activities |
-|-------|-----------|------------|
-| Design and preparation | Year 0 | Site assessment, earthworks (swales, ponds), sheet mulching, cover cropping |
-| Pioneer planting | Year 1 | Nitrogen-fixing trees, dynamic accumulators, green manure crops, soil building |
-| Framework planting | Years 1–2 | Canopy and understory fruit/nut trees, shrub layer establishment |
-| Fill planting | Years 2–4 | Herbaceous perennials, ground covers, vines, root crops, mushroom inoculation |
-| Productivity onset | Years 3–7 | First significant harvests; system begins self-regulating; canopy begins closing |
-| Mature food forest | Years 7–15+ | Full productivity; minimal external inputs required; self-maintaining system |
-
-## Benefits
-
-### Ecological Benefits
-
-- **Biodiversity:** Food forests typically support 10–100× more species than monoculture agriculture; create habitat for pollinators, birds, amphibians, and beneficial insects
-- **Soil health:** Continuous root systems prevent erosion; mycorrhizal networks build soil structure; organic matter accumulates; no tillage required
-- **Water management:** Multi-layered canopy intercepts rainfall, reducing runoff; deep root systems improve infiltration; mulch layer reduces evaporation
-- **Carbon sequestration:** Perennial woody systems sequester significantly more carbon than annual agriculture; estimated 2–10 tonnes CO₂/ha/year depending on design and climate
-- **Resilience:** Species diversity provides redundancy against crop failure; polycultures are less susceptible to pest and disease outbreaks than monocultures
-
-### Productivity Benefits
-
-- **Yield per unit area:** Multi-layer production can exceed conventional orchard yields on a per-hectare basis when total caloric and nutritional output is measured across all layers
-- **Extended harvest season:** Careful species selection can provide year-round harvests in temperate climates (root crops in winter, berries in summer, nuts in autumn, evergreen greens year-round)
-- **Reduced inputs:** Once established, food forests require minimal irrigation, fertilization, pest control, and energy inputs compared to conventional food production
-- **Longevity:** Productive lifespan of 50–100+ years for a well-designed system, compared to annual replanting
-
-### Social and Economic Benefits
-
-- **Food security:** Diverse, resilient food production close to home
-- **Community building:** Food forests serve as educational spaces, community gathering places, and sources of free or low-cost food
-- **Skill development:** Requires and develops skills in observation, ecological thinking, plant identification, and systems design
-- **Land use efficiency:** Productive use of marginal land, urban spaces, and small parcels unsuitable for conventional agriculture
-
-## Challenges and Limitations
-
-- **Establishment time:** 5–15 years to reach full productivity; requires patience and initial investment
-- **Design complexity:** Effective food forest design requires deep knowledge of plant interactions, microclimate management, and ecological principles
-- **Harvest efficiency:** Multi-layer polycultures can be difficult to harvest mechanically; labor-intensive hand harvesting is typical
-- **Space requirements:** Full seven-layer systems require significant vertical space; urban applications are limited to modified 3–4 layer designs
-- **Regulatory barriers:** Zoning laws, agricultural regulations, and land use codes may restrict food forest establishment in some jurisdictions
-- **Pest management:** While diverse systems reduce pest pressure, specific crops may still require protection; integrated pest management strategies are essential
-
-## Notable Examples
-
-- **Martin Crawford's Forest Garden (Devon, UK):** 2-acre temperate food forest established in the 1990s; over 500 edible plant species; documented extensively in books and films
-- **Beacon Food Forest (Seattle, USA):** 7-acre public food forest on public park land; community-designed and maintained; includes a food forest, community garden, and educational areas
-- **Lawton's Greening the Desert (Jordan):** Food forest established in arid landscape using swales, mulching, and appropriate species selection; demonstrates food forest viability in challenging climates
-- **Kerala Homegardens (India):** Traditional multi-strata systems covering an estimated 500,000 hectares; among the most productive and biodiverse agricultural systems documented
-- **Chagga Homegardens (Tanzania):** Multi-layered agroforests on the slopes of Mount Kilimanjaro; sustain populations of 2+ million people; centuries-old management tradition
-
 ## See Also
 
 - [[permaculture]] — The design framework underlying food forest principles

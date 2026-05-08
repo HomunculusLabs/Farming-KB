@@ -23,7 +23,7 @@ Nematodes (roundworms) are among the most abundant animals on Earth, with an est
 
 ## Overview of Free-Living Nematodes
 
-Free-living nematodes are the unsung heroes of soil biology. They do not feed on living plant tissue. Instead, they occupy critical roles in nutrient cycling and the soil food web. There are four main feeding groups:
+Free-living nematodes are the unsung heroes of soil biology. They do not feed on living [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]. Instead, they occupy critical roles in nutrient cycling and the soil food web. There are four main feeding groups:
 
 **Bacterivorous nematodes** feed on bacteria and are among the most common soil nematodes. By grazing on bacterial populations, they stimulate bacterial growth and activity, releasing plant-available nitrogen through their waste. Their short generation times (as little as four to six days under warm conditions) make them highly responsive to organic matter additions. In soils receiving regular compost applications, bacterivorous nematodes can multiply rapidly, forming a critical link between organic inputs and plant nutrition.
 
@@ -33,7 +33,7 @@ Free-living nematodes are the unsung heroes of soil biology. They do not feed on
 
 Populations of predacious nematodes tend to be lower than those of bacterivores or fungivores, but their impact is disproportionate. A single *Mononchus* individual may consume dozens of prey nematodes during its lifetime. Building conditions that support these predators is one of the most promising approaches to biological suppression of nematode pests.
 
-**Omnivorous nematodes** have broad diets that include bacteria, fungi, algae, and sometimes other small soil organisms. They occupy a generalist niche and contribute to nutrient cycling across multiple pathways. Some omnivorous species can be distinguished by their large stylets, which they use to puncture fungal hyphae or even small invertebrates. Their presence is often used as a bioindicator of undisturbed, mature soils because they are among the first groups to decline under intensive tillage or chemical inputs.
+**Omnivorous nematodes** have broad diets that include bacteria, fungi, algae, and sometimes other small soil organisms. They occupy a generalist niche and contribute to nutrient cycling across multiple pathways. Some omnivorous species can be distinguished by their large stylets, which they use to puncture [[fungal-hyphae-invasive-growth-mechanisms]] or even small invertebrates. Their presence is often used as a bioindicator of undisturbed, mature soils because they are among the first groups to decline under intensive tillage or chemical inputs.
 
 ## Overview of Plant-Parasitic Nematodes
 
@@ -69,7 +69,7 @@ The table below summarizes the most important practical distinctions between fre
 
 ## Ecological Roles
 
-Free-living nematodes occupy multiple trophic levels in the soil food web. Bacterivores and fungivores are primary consumers that regulate microbial populations and mineralize nutrients. When a bacterivorous nematode consumes bacteria, up to 60% of the nitrogen in those bacteria becomes available to plants as ammonium within hours. This process, known as the microbial loop, is one of the most important pathways for nutrient availability in agricultural soils. The fungal feeding channel is equally important: fungivorous nematodes grazing on mycorrhizal networks can stimulate fungal growth while releasing phosphorus and other nutrients locked in fungal biomass.
+Free-living nematodes occupy multiple trophic levels in the soil food web. Bacterivores and fungivores are primary consumers that regulate microbial populations and mineralize nutrients. When a bacterivorous nematode consumes bacteria, up to 60% of the nitrogen in those bacteria becomes available to plants as ammonium within hours. This process, known as the microbial loop, is one of the most important pathways for nutrient availability in agricultural soils. The fungal feeding channel is equally important: fungivorous nematodes grazing on [[mycorrhizal-networks-and-forest-communication]] can stimulate fungal growth while releasing phosphorus and other nutrients locked in fungal biomass.
 
 Predacious nematodes sit at the top of the nematode food chain. Their presence in soil often correlates with lower populations of plant-parasitic nematodes. Research has shown that soils with diverse nematode communities, including healthy populations of predators, naturally suppress nematode pests more effectively than degraded soils. The food web enrichment index, which weights the community toward bacterivores and fungivores, is a strong predictor of nematode pest suppression.
 
@@ -107,7 +107,7 @@ Managing plant-parasitic nematodes requires an integrated approach. No single me
 
 - **Soil solarization** involves covering moist soil with clear plastic during hot summer months. Soil temperatures above 45°C (113°F) sustained for several weeks can kill nematodes in the upper soil profile. This works best in hot climates and in combination with other methods. Solarization also stimulates beneficial microorganisms that can colonize the sanitized root zone before pests reestablish.
 
-- **Organic amendments** such as compost, green manures, and specific biofumigant crops (mustard, sorghum-sudangrass) release nematicidal compounds as they decompose. These amendments also boost free-living nematode populations, which can help suppress parasites through competition and predation. Mustard seed meal, applied at 200–400 kg/ha, has shown consistent suppression of root-knot nematodes in multiple trials.
+- **Organic amendments** such as compost, [[green-manures-and-cover-crop-systems]], and specific biofumigant crops (mustard, sorghum-sudangrass) release nematicidal compounds as they decompose. These amendments also boost free-living nematode populations, which can help suppress parasites through competition and predation. Mustard seed meal, applied at 200–400 kg/ha, has shown consistent suppression of root-knot nematodes in multiple trials.
 
 - **Biological control agents** including the fungus *Purpureocillium lilacinum* and the bacterium *Pasteuria penetrans* are commercially available. These agents parasitize or infect plant-parasitic nematodes, reducing their populations over time. They are most effective when used preventively in combination with good cultural practices. Mycorrhizal inoculants can also provide some protection by improving root vigor and triggering plant defense responses.
 
@@ -123,7 +123,7 @@ Building soil biology is the most sustainable long-term strategy for nematode ma
 
 - **Add organic matter regularly.** Compost, cover crops, and mulch feed the bacteria and fungi that bacterivorous and fungivorous nematodes depend on. In general, 1–2 inches of well-composted material worked into the soil annually provides a strong foundation for the soil food web. Fresh manures can be problematic because they may harbor nematode eggs; use fully composted material instead.
 
-- **Minimize soil disturbance.** Excessive tillage disrupts fungal networks and physical soil structure that free-living nematodes rely on. Reduced tillage or no-till systems tend to support more diverse and abundant nematode communities. Where tillage is necessary, time it to coincide with periods when pest nematodes are in vulnerable life stages (often during hot, dry conditions).
+- **Minimize soil disturbance.** Excessive tillage disrupts fungal networks and physical [[soil-structure-and-aggregate-ecology]] that free-living nematodes rely on. Reduced tillage or no-till systems tend to support more diverse and abundant nematode communities. Where tillage is necessary, time it to coincide with periods when pest nematodes are in vulnerable life stages (often during hot, dry conditions).
 
 - **Use diverse cover crop mixtures.** Multi-species cover crops support a wider range of soil organisms than single-species plantings. Grass-legume mixes are particularly effective at feeding both bacterial and fungal decomposition pathways. Some cover crops, such as marigold (*Tagetes* spp.) and sunn hemp (*Crotalaria juncea*), also produce compounds that are directly toxic to plant-parasitic nematodes while supporting beneficial species.
 

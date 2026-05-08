@@ -110,7 +110,7 @@ Under the 1971 United Nations Convention on Psychotropic Substances, psilocybin 
 - [[inocybe-haemacta]] — closely related neurotropic Inocybe species
 - [[inocybe-tricolor]] — another psilocybin-containing Inocybe from Europe
 - [[inocybe-calamistrata]] — common toxic lookalike containing muscarine
-- [[psilocybin]] — primary psychoactive compound found in the species
+- [[psilocybin-compound]] — primary psychoactive compound found in the species
 - [[muscarine]] — toxic alkaloid found in many Inocybe species, the key danger
 - [[amanita-muscaria]] — another muscarine-containing toxic mushroom for comparison
 ## References

@@ -31,7 +31,7 @@ Unlike many mushroom polysaccharides that act purely through immune modulation, 
 - **Carmustine/GD combination** showed 90% reduction in cell viability, suggesting chemosensitising potential
 - GD may potentiate anticancer drugs through inactivation of **glyoxalase I**, a vital detoxifying enzyme
 
-The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among medicinal mushroom preparations. Most other mushroom polysaccharides (including [[turkey-tail-mushroom-cancer-research]] and [[lentinan-pre-clinical-antitumour-models]]) operate primarily through immune modulation rather than direct tumour cell killing.
+The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among medicinal mushroom preparations. Most other mushroom polysaccharides (including [[mushroom-cultivation-fundamentals]] and [[lentinan-pre-clinical-antitumour-models]]) operate primarily through immune modulation rather than direct tumour cell killing.
 
 ## Clinical Trials
 

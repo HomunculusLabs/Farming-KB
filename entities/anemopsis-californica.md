@@ -104,7 +104,7 @@ It is a valuable component of native pollinator gardens in the Southwest, attrac
 - [[verbascum-thapsus]]
 - [[solidago-virgaurea]]
 - [[baccharis-trimera]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[sambucus-nigra]]
 - [[urtica-dioica]]
 - [[hypericum-perforatum]]

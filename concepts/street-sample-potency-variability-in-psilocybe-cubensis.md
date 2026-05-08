@@ -51,7 +51,7 @@ The near-absence of psilocin in all street samples aligns with the [[psilocin-ac
 
 Under controlled conditions, Bigwood and Beug's Amazonian strain produced psilocybin levels ranging from approximately 1.7 to 13.3 mg/g across flushes. The street sample range of 0.7 to 6.2 mg/g falls within the lower portion of this range, suggesting that street samples may represent:
 
-- Different strains with inherently lower [[alkaloid biosynthesis]] capacity than the Amazonian strain used in the controlled study, reflecting the genetic diversity present in commercial and hobbyist spawn stocks.
+- Different strains with inherently lower [[alkaloid-biosynthesis]] capacity than the Amazonian strain used in the controlled study, reflecting the genetic diversity present in commercial and hobbyist spawn stocks.
 - Suboptimal growing conditions including temperature fluctuations, humidity control issues, substrate quality variation, or inadequate gas exchange during fruiting.
 - Early harvesting before full potency is reached, as the psilocin-absent profile strongly suggests first-flush material.
 - Degradation during drying, storage, or distribution, although the samples were reportedly kept frozen, which would minimize degradation.
@@ -68,7 +68,7 @@ The practical consequence of this variability is severe. A consumer eating 1 gra
 ### Harm Reduction Recommendations
 
 - **Start low, go slow**: The unpredictability of street samples makes conservative dosing essential, particularly for inexperienced users. Beginning with 0.5 to 1.0 g and waiting 60 to 90 minutes before considering additional material is strongly advisable.
-- **Batch testing**: Analytical testing services such as those offered by harm reduction organizations can quantify [[psilocybin]] and [[psilocin]] content, allowing users to calibrate doses more precisely.
+- **Batch testing**: Analytical testing services such as those offered by harm reduction organizations can quantify [[psilocybin-compound]] and [[psilocin]] content, allowing users to calibrate doses more precisely.
 - **Source consistency**: Obtaining material from a single known grower and single batch reduces within-session variability, though inter-batch differences remain significant even from the same source.
 - **Blending**: Homogenizing material from multiple flushes or multiple fruiting bodies can average out some of the variability.
 
@@ -76,7 +76,7 @@ The practical consequence of this variability is severe. A consumer eating 1 gra
 
 Bigwood and Beug concluded their paper with a prescient observation that remains relevant over four decades later: "It is clear that entheogenic and recreational users of this species have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight of the mushroom. It thus seems likely that variations in the subjective experience will not only come from the effects of set and setting but will also stem in very real measure from large dosage differences."
 
-This was one of the earliest scientific acknowledgments that [[dosage variability]] is a major confounding factor in psychedelic experiences, independent of the psychological and environmental factors traditionally emphasized in the clinical literature. Prior to this study, most discussions of variable psychedelic experiences attributed differences entirely to psychological set and situational setting, with little consideration of the pharmacological variability inherent in natural fungal preparations.
+This was one of the earliest scientific acknowledgments that [[dosage-variability]] is a major confounding factor in psychedelic experiences, independent of the psychological and environmental factors traditionally emphasized in the clinical literature. Prior to this study, most discussions of variable psychedelic experiences attributed differences entirely to psychological set and situational setting, with little consideration of the pharmacological variability inherent in natural fungal preparations.
 
 The insight has proven prescient as the field of psychedelic science has matured and the importance of precise dosing has become increasingly recognized in clinical trial design and therapeutic practice. The insight that pharmacological variability contributes to experiential unpredictability has since been confirmed by modern clinical research.
 

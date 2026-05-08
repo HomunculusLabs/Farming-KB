@@ -47,7 +47,7 @@ Bioavailability limitations are particularly significant for hydrophobic organic
 
 [[bioavailability-in-fungal-bioremediation]] discusses how bioavailability constraints affect fungal bioremediation performance.
 
-Surfactant addition, as described in [[biosurfactants-in-bioremediation]], can enhance bioavailability but introduces additional complexity in terms of surfactant delivery, fate, and potential ecological effects.
+Surfactant addition, as described in [[bioremediation-using-fungi]], can enhance bioavailability but introduces additional complexity in terms of surfactant delivery, fate, and potential ecological effects.
 
 Physical treatments including soil mixing, tilling, or electrokinetics can enhance bioavailability but add cost and operational complexity.
 

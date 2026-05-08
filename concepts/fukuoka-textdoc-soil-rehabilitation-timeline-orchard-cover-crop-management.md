@@ -135,42 +135,15 @@ were to be correctly understood as a legacy to be preserved for
 future generations, the general opinion of natural farming
 would improve.
 
-Once sown, a cover crop of clover remains hardy for about six
-to seven years, after which growth gradually slows. By about
-ten years after the original planting the crop has declined to
-the point where weeds begin to reemerge. The soil tends to
-become imbalanced when a stand of one type of plant is grown
-year after year. The emergence and succession of different
-weeds is more natural and more conducive to soil enrichment.
-
-## Reading the Soil Through Its Weeds
-
-One can understand the nature of the soil more quickly by
-examining the weeds growing in it than by examining the soil
-itself. Weeds solve the problems of both the soil and the
-weeds. By sowing vegetable seeds of the same family as the
-weeds growing in the orchard, vegetable plants can eventually
-be made to replace the weeds.
-
-## Fruit Tree Lifespan: The Ultimate Measure
-
-The beneficial effects of natural soil management show up
-ultimately in the longer lifetime of the fruit trees, which
-is perhaps two to three times that of fruit trees grown by
-scientific methods. Fruit trees grown in artificially prepared
-soil with artificial fertilizers are inevitably weak, becoming
-either dwarfs or leggy, and unable to live out their natural
-span of life.
-
 ## See Also
 
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
   for detailed clover lifecycle analysis
-- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
+- [[fukuoka-natural-farming-philosophy]]
   for black wattle specifics
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
   for the weed succession process
 - [[fukuoka-textdoc-natural-soil-management]] for broader
   soil management philosophy
-- [[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]] for
+- [[fukuoka-natural-farming-philosophy]] for
   earthworm contributions

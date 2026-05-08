@@ -107,34 +107,12 @@ Bad trips are usually followed by faintness, sadness, depression, and paranoid i
 
 ## Acute Physiological Effects
 
-Physiological effects are generally mild:
-
-- Dizziness and nausea (over 25% of recent users reported nausea or vomiting)
-- Weakness and muscle aching
-- Shivering
-- Abdominal pain
-- Pupil dilation (mydriasis)
-- Mild to moderate increase in heart rate (tachycardia)
-- Increased breathing rate (tachypnea)
-- Elevated blood pressure
-- Body temperature generally remains normal
-
-Severe symptoms including persistent vomiting and diarrhoea have been recorded. The temporary blood pressure increase may pose risks for individuals with cardiovascular conditions, especially untreated hypertension.
-
-## Dependency Profile
-
-Psychological and physical dependency does not develop with mushroom use. No withdrawal symptoms occur upon cessation. This pharmacological profile is consistent with the lack of direct dopaminergic reward pathway activation by psilocybin and psilocin.
-
-## Toxicity
-
-Acute toxicity of psilocybin is considered low. Fatal intoxications directly attributable to mushroom consumption are exceedingly rare. There is no evidence of chronic toxicity, no irreversible organ damage reported, and insufficient data on mutagenicity and teratogenicity to draw conclusions. Benzodiazepines are the safest medication of choice for managing acute adverse reactions.
-
 ## See Also
 
 - [[psilocybin-and-psilocin-chemistry]]: chemical structures and pharmacology
 - [[psilocybe-cubensis]]: the most commonly cultivated hallucinogenic mushroom
 - [[emcdda-hallucinogenic-mushroom-health-risks]]: psychiatric complications
-- [[hallucinogenic-mushroom-prevalence-in-europe]]: epidemiological patterns
+- [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological patterns
 - [[hallucinogenic-mushroom-legislation-in-europe]]: legal status and responses
 
 ## Wild Mushroom Identification Risks

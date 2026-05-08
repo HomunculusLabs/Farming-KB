@@ -1,5 +1,5 @@
 ---
-title: "Agroecology vs Permaculture"
+title: "[[agroecology]] [[comparison-syntropic-vs-permaculture]] re]]"
 created: 2026-05-06
 tags:
   - agroecology
@@ -23,11 +23,11 @@ type: comparison
 
 # Agroecology vs Permaculture
 
-## Quick Reference Comparison
+## [[cover-crop-quick-reference]] Comparison
 
 | Dimension | Agroecology | Permaculture |
 |---|---|---|
-| **Origin** | Academic ecology + peasant movements (1970s–80s, Latin America & US) | Design system (1978, Australia) |
+| **Origin** | Academic ecology + peasant movements (1970s–80s, Latin America & US) | [[natural-farming-guide-zone-design-system]] (1978, Australia) |
 | **Founders** | Altieri, Gliessman, Sebastião Pinheiro, Latin American campesino movements | Bill Mollison, David Holmgren |
 | **Primary identity** | Scientific discipline, social movement, and farming practice | Integrated design framework and ethical design system |
 | **Methodology** | Empirical research, ecological theory, participatory action research | Pattern observation, zone-and-sector analysis, design principles |
@@ -76,14 +76,14 @@ Permaculture's philosophical foundation is built on three ethics: **earth care**
 2. Catch and store energy
 3. Obtain a yield
 4. Apply self-regulation and accept feedback
-5. Use and value renewable resources and services
+5. [[use-and-value-renewable-resources]] and services
 6. Produce no waste
 7. Design from patterns to details
 8. Integrate rather than segregate
 9. Use small and slow solutions
 10. Use and value diversity
-11. Use edges and value the marginal
-12. Creatively use and respond to change
+11. [[use-edges-and-value-the-marginal]]
+12. [[creatively-use-and-respond-to-change]]
 
 These principles are intentionally broad and domain-general—they apply equally to food production, building design, financial systems, and community governance. This generality is permaculture's defining philosophical characteristic: it is a design system for sustainable human habitation, of which agriculture is one component.
 
@@ -148,5 +148,3 @@ The most productive path forward likely lies not in choosing between them but in
 - [[comparison-fig-vs-mulberry-for-permaculture]]
 - [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
 - [[comparison-backyard-food-forest-vs-urban-permaculture]]
-- [[comparison-syntropic-vs-permaculture]]
-- [[comparison-permaculture-beekeeping-vs-natural-beekeeping]]

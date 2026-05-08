@@ -110,7 +110,7 @@ The elm oyster mycelium interacts with plant roots, enhancing growth while produ
 
 ## Integration with No-Till
 
-[[no-till-gardening-method]] and garden mushrooms are natural allies:
+[[composting-and-soil-biology]] and garden mushrooms are natural allies:
 - Mycelium decomposes crop stubble in place
 - No tilling preserves the mycelial network
 - Sheet mulching with inoculated material builds soil while filtering runoff

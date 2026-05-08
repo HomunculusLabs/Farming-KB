@@ -147,7 +147,3 @@ converts starches to sugars.
 ## Related
 
 - [[query-how-do-i-grow-alliums-successfully]] Questions
-
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
-- [[query-how-do-i-winterize-my-garden-and-prepare-for-spring]]
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

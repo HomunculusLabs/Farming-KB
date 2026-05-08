@@ -66,7 +66,7 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[peyote-and-psychoactive-cacti]]
+- [[ethnomycology]]
 - [[lophophora-williamsii]]
 - [[psilocin]]
 - [[mycelium]]

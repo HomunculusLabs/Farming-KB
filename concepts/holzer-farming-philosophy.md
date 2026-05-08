@@ -93,8 +93,8 @@ Two qualities Holzer returns to repeatedly are courage and careful observation. 
 
 ## Related
 
-- [[holzer-raised-bed-design]]
-- [[voles-control-methods]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
+- voles control methods
 - [[bypass-technique-planting]]
 - [[holzer-saving-ancient-trees]]
 - [[holzer-symbiotic-interaction-theory]]

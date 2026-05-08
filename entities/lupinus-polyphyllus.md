@@ -1,9 +1,9 @@
 ---
-title: "Lupinus polyphyllus"
+title: "lupinus polyphyllus"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixer
   - fabaceae
   - ornamental-plant
@@ -25,8 +25,8 @@ sources:
 
 Lupinus polyphyllus, commonly known as the large-leaved lupine or Russell
 lupine, is a perennial herbaceous legume in the family Fabaceae. Native to
-western North America from British Columbia to California, it has become
-widely naturalized in Europe, New Zealand, and South America. In permaculture
+west [[palmer-edible-mushrooms-north-america]] rica from British Columbia to California, it has become
+widely naturali [[hallucinogenic-mushroom-market-in-europe]] ro [[magic-mushrooms-australia-new-zealand]] land, [[gartz-magic-mushrooms-species-south-america]] ri [[water-harvesting-and-conservation-in-permaculture]] ture
 systems, it is valued as a vigorous nitrogen fixer, pollinator resource, and
 pioneer species for soil rehabilitation.
 
@@ -95,7 +95,7 @@ it one of the most productive perennial nitrogen fixers in temperate climates.
   Biomass incorporation adds both N and organic matter.
 - **Living mulch:** Dense foliage suppresses weeds effectively within a
   1-meter radius of the crown.
-- **Companion planting:** Pairs well with fruit trees, berries, and heavy-
+- **[[companion-planting]]:** Pairs well with fruit trees, berries, and heavy-
   feeding vegetables. The deep taproot brings nutrients from subsoil layers.
 
 ### Pollinator Support
@@ -148,8 +148,3 @@ nitrogen-fixers (Trifolium pratense, Lotus corniculatus) or sterile cultivars.
 
 - [[trifolium-repens]] — Alternative temperate nitrogen-fixing ground cover
 - [[lupinus-albus]] — Closely related white lupine with grain uses
-- [[alfalfa-medicago-sativa]] — High-productivity perennial nitrogen fixer
-- [[vicia-villosa]] — Winter-hardy annual legume for cover cropping
-- [[comfrey-permaculture]] — Dynamic accumulator species for permaculture
-  polycultures
-- [[caragana-arborescens]] — Woody nitrogen-fixing shrub for temperate zones

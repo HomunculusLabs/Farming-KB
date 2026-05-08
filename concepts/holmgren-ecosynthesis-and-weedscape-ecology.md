@@ -102,4 +102,4 @@ See also: [[holmgren-ecological-succession-and-pulsing]], [[holmgren-permacultur
 - [[garden-myths-native-plants-and-invasive-species]]
 - [[holmgren-trees-nature-solar-power-plants]]
 - [[natural-farming-seed-balls]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]

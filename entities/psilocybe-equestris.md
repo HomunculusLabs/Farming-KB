@@ -146,6 +146,5 @@ enforcement for personal possession of psilocybin mushrooms.
 ## See Also
 - [[psilocybe-semilanceata]]
 - [[psilocybe-pelliculosa-profile]]
-- [[psilocybe-strictipes]]
+- [[psilocybe-strictipes-entity]]
 - [[psilocybe-cyanescens]]
-- [[psilocybe-azurescens]]

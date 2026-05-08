@@ -140,8 +140,8 @@ flush before harvest for optimal terpene expression.
 ## See Also
 
 - [[ice-cream-cake-cannabis]]
-- [[wedding-cake]]
-- [[chemdawg-entity]]
+- [[wedding-cake-cannabis]]
+- [[chemdawg-cannabis]]
 - [[girl-scout-cookies]]
 - [[jungle-cake]]
 - [[purple-punch]]

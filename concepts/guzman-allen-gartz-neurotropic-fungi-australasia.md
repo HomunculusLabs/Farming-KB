@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of Australia and New Zealand: Biogeography and Endemism
+# [[neurotropic-fungi]] of Australia and New Zealand: Biogeography and Endemism
 
 Australasia, comprising Australia, New Zealand, Tasmania, and the Pacific island nations, represents one of the most distinctive biogeographic regions for neurotropic fungi. The long geological isolation of the Australian continent and New Zealand archipelago, combined with their unique flora dominated by Eucalyptus and Nothofagus, has resulted in a neurotropic mycoflora that includes both cosmopolitan species and notable endemics. The work of Allen et al. (1991), Johnston and Buchanan (1995), Chang and Mills (1992), and others has revealed a surprisingly diverse psilocybian mycoflora in the region.
 
@@ -28,10 +28,10 @@ Australia possesses a diverse neurotropic mycoflora despite its relatively arid 
 ### Documented Species from Australia
 
 **Psilocybe species:**
-- **Psilocybe subaeruginosa** — perhaps the most iconic Australian neurotropic fungus; first reported by Picker and Richards (1970), subsequently documented by Hall (1973), Southcott (1974), Cleland (1976), Chilton (1978), Margot and Watling (1981), Guzmán (1983), Chang and Mills (1992), and Johnston and Buchanan (1995). This species is closely related to the European P. cyanescens but is a distinct taxon. It grows on wood chips, mulch, and in gardens, and is particularly abundant in the Melbourne area during autumn.
-- **Psilocybe cubensis** — common in tropical Queensland pastures; documented by Hall (1973), Southcott (1974), Margot and Watling (1981), Guzmán (1995), Gartz (1996), and Stamets (1996).
-- **Psilocybe semilanceata** — the "liberty cap," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the Southern Hemisphere, far from its European center of distribution, is biogeographically significant.
-- **Psilocybe cyanescens** — documented by Margot and Watling (1981) and Guzmán (1995); found in wood chip mulch gardens, similar to its habitat in the Pacific Northwest of North America.
+- **[[psilocybe-subaeruginosa]]** — perhaps the most iconic Australian neurotropic fungus; first reported by Picker and Richards (1970), subsequently documented by Hall (1973), Southcott (1974), Cleland (1976), Chilton (1978), Margot and Watling (1981), Guzmán (1983), Chang and Mills (1992), and Johnston and Buchanan (1995). This species is closely related to the European P. cyanescens but is a distinct taxon. It grows on wood chips, mulch, and in gardens, and is particularly abundant in the Melbourne area during autumn.
+- **[[psilocybe-cubensis]]** — common in tropical Queensland pastures; documented by Hall (1973), Southcott (1974), Margot and Watling (1981), Guzmán (1995), Gartz (1996), and Stamets (1996).
+- **[[psilocybe-semilanceata]]** — the "liberty cap," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the Southern Hemisphere, far from its European center of distribution, is biogeographically significant.
+- **[[psilocybe-cyanescens]]** — documented by Margot and Watling (1981) and Guzmán (1995); found in wood chip mulch gardens, similar to its habitat in the Pacific Northwest of North America.
 - **Psilocybe australiana** — an endemic Australian species described by Margot and Watling (1981); also documented by Guzmán (1983), Chang and Mills (1992), and Stamets (1996).
 - **Psilocybe eucalypta** — another endemic species, described by Margot and Watling (1981) and Guzmán (1983); named for its association with Eucalyptus, reflecting the unique Australian mycological context.
 - **Psilocybe tasmaniana** — a Tasmanian endemic described by Guzmán (1983), documented by Chang and Mills (1992) and Stamets (1996).

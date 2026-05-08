@@ -139,41 +139,6 @@ several months to over a year.
 ## Distinguishing Non-Germination from Halted Growth
 
 It is important to distinguish true non-germination from growth that germinated but
-subsequently halted. These two problems have different causes and different remedies.
-Halted growth, where the fungus spreads initially but stops at a certain point, is
-typically a sign of dried substrate rather than dead spores. This commonly occurs
-when jars are overheated during steam sterilization, which dries the substrate.
-The fungus will spread but stop at a certain point depending on how dry the substrate
-has become. Generally, any halted growth with no contamination is a sign of dried
-substrate. The remedy for halted growth is to increase the water content of the
-substrate formula in future batches.
-True non-germination shows no white fuzzy growth whatsoever after 10 or more days,
-indicating the spores never began their life cycle at all. This points to either dead
-spores from heat or cold damage, or inoculation that failed to reach the substrate.
-
-## Diagnostic Checklist
-
-When non-germination occurs across multiple jars, evaluate each potential cause
-systematically:
-1. Review inoculation technique: was the needle inserted deep enough to reach below
-   the dry vermiculite barrier, and was the syringe tilted to direct solution down
-   the jar wall?
-2. Check jar temperature history: were jars given adequate cooling time after
-   sterilization, and did they feel cool to the touch at the time of inoculation?
-3. Consider environmental exposure of the syringe: was it subjected to extreme heat
-   or cold during shipping or storage?
-4. Examine substrate moisture: was the substrate dried out during sterilization from
-   overheating? Was the pot lid tight enough during steaming?
-
-## Spore Viability and Aging
-
-Psilocybe Cubensis spores begin to degrade a few months after they are collected.
-After approximately one and a half years, spore germination will be greatly reduced
-or will not occur at all.
-Germination is massive and quick when the spores are fresh, providing a clear visual
-indicator of syringe quality. A properly prepared spore syringe stored in cool, dark
-conditions will be good for several months and even up to a year or more.
-
 ## Related Concepts
 
 - [[pf-tek-dry-vermiculite-contaminant-barrier]] for the role of the top vermiculite

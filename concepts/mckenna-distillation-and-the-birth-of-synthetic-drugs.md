@@ -138,57 +138,12 @@ society whether in the home countries or the colonies.
 ## Fermentation as a Natural Process
 
 It is important to understand that fermentation itself is a
-natural process. Alcohol can be fermented out of many kinds
-of fruits, grains, and plants, and so has been more widely
-experimented with than obscure and localized sources of
-intoxication. Indeed, fermentation is a natural process
-that in many cases is difficult to avoid. Birds, raccoons,
-horses, and even wasps and butterflies are aware of the
-fleeting virtues that attend eating fermented fruit.
-Field teams have investigated dozens of cases of animal
-intoxication, from Sumatra to the Sudan, involving
-creatures from bumblebees to bull elephants. In natural
-habitats, most animals seek alcohol-laden food for the
-smells, tastes, calories, or nutrients they provide. The
-intoxications are side effects but not serious enough to
-deter future use. One sort of accidental intoxication occurs
-when tree sap is exposed to the proper temperature and
-ferments. The North American sapsuckers drill pitlike holes
-in trees that then fill with sap, leaving the doors open
-for the sap to ferment and intoxicate other animals.
-
-## The Dominator Drug Par Excellence
-
-(Section content removed for length. See source for full details.)
-
-## Significance for the Natural-Synthetic Debate
-
-The distinction between natural and synthetic drugs that
-McKenna draws through the history of distillation remains
-relevant to contemporary debates about drug policy and
-pharmacology. The pattern of taking a whole plant used
-safely in traditional contexts and reducing it to a
-concentrated chemical that becomes socially destructive has
-been repeated with morphine, cocaine, heroin, and the
-synthetic drugs of the twentieth century. Each iteration
-further removes the substance from its ecological and
-cultural context, producing drugs that are progressively
-more addictive and more harmful.
-McKenna's analysis suggests that the problem lies not in
-the plants themselves but in the dominator culture's
-compulsion to isolate, purify, and concentrate, stripping
-away the ritual context and communal safeguards that
-governed plant use in partnership societies. The alchemical
-dream of capturing the essence of nature in a purified form
-becomes, in McKenna's telling, a nightmare of addiction
-and social destruction.
-
 ## See also
 
 - [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-food-of-the-gods-thesis]]

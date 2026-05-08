@@ -11,7 +11,7 @@ sources:
 
 The element analysis is the core design methodology in Nicole Faires' approach to permaculture. Every element on a property -- whether a chicken, a rock pile, a herb garden, or a fruit tree -- is analyzed using a simple card system that identifies its inputs, characteristics, and outputs. The goal is to match the output of one element to the input of another, creating closed loops where nothing is wasted.
 
-This method is part of the broader [[permaculture-design-process]] and connects to [[permaculture-design-methods]]. It should be performed after initial [[permaculture-site-analysis]] and before placing elements into zones via [[faires-zone-and-sector-planning]].
+This method is part of the broader [[permaculture-design-process]] and connects to [[permaculture-design]]. It should be performed after initial [[permaculture-site-analysis]] and before placing elements into zones via [[faires-zone-and-sector-planning]].
 
 ## Step 1: Site Inventory
 
@@ -105,7 +105,7 @@ Create a visual diagram showing all the connections between elements. Arrows flo
 - Which inputs are unmet (work you must provide yourself)
 - Opportunities for new connections by adding missing elements
 
-The more connections between elements, the more self-sustaining the system becomes. Every unmatched output represents pollution or waste; every unmet input represents work you must do yourself. This directly applies the principle of [[permaculture-principle-integrate-rather-than-segregate]].
+The more connections between elements, the more self-sustaining the system becomes. Every unmatched output represents pollution or waste; every unmet input represents work you must do yourself. This directly applies the principle of [[permaculture-design-principles]].
 
 ## Step 7: Place Elements in Zones
 

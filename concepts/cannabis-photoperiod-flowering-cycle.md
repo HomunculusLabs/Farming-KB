@@ -147,9 +147,3 @@ identified as female.
   management.
 
 ## See Also
-
-- [[phytochrome-and-photoperiodism-in-plants]]
-
-- [[equatorial-photoperiod-early-flowering]]
-
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]

@@ -127,7 +127,7 @@ cannabis cultivation where phosphorus uptake and drought resilience directly
 affect yield. Any system using minimal tillage and avoiding high-phosphorus
 synthetic fertilizers will benefit from protecting and encouraging native
 mycorrhizal populations. See [[mycorrhizal-inoculation-guide]] for application
-details and [[no-till-gardening-method]] for practices that protect mycorrhizal
+details and [[composting-and-soil-biology]] for practices that protect mycorrhizal
 networks.
 
 ## When to Choose Saprotrophic Focus

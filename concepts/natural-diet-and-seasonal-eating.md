@@ -141,19 +141,6 @@ and seaweed represent, in Fukuoka's view, a form of food preparation that
 preserves both nourishment and the spiritual connection between humans and
 nature.
 
-## The Diet of Self-Sufficiency
-
-Natural diet is inseparable from natural farming. Young people living in
-Fukuoka's orchard grew large, hardy vegetables simply by scattering seeds of
-cruciferous vegetables in fall, solanaceous vegetables in spring, and
-leguminous vegetables in early summer among the orchard weeds. These vegetables
-served as fitting food for those living self-sufficiently on a natural diet of
-brown rice and vegetables, without electricity or running water.
-
-Fukuoka's broader vision was that the natural farming orchard, managed as a
-single microcosm including fowl, livestock, and humans, could provide complete
-dietary self-sufficiency.
-
 ## See Also
 
 - [[natural-farming-five-principles]]

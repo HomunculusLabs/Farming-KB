@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most North American and European markets. Native to southern China and mainland Southeast Asia, C. cassia has been used for over 4,000 years in Chinese medicine (as "Rou Gui" 桂枝/肉桂) and remains one of the most economically important spice trees globally. The bark, twigs, leaves, and buds all have commercial applications, yielding essential oils rich in cinnamaldehyde and coumarin.
+Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most North American and European markets. Native to southern China and mainland [[fungi-of-southeast-asia]], C. cassia has been used for over 4,000 years in Chinese medicine (as "Rou Gui" 桂枝/肉桂) and remains one of the most economically important spice trees globally. The bark, twigs, leaves, and buds all have commercial applications, yielding [[essential-oils-and-hydrosol-distillation]] rich in cinnamaldehyde and coumarin.
 
 ## Taxonomy
 
@@ -43,7 +43,7 @@ Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, 
 
 ### Key Distinction from Cinnamomum verum
 
-C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most commercially important cinnamon species:
+C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most [[commercially-important-pleurotus-species-cultivation-guide]] cinnamon species:
 
 - **Bark:** Cassia — thick (2–5 mm), hard, rough, single-layer quills; Ceylon — thin (0.5–1 mm), papery, multi-layered cigar-like quills.
 - **Flavor:** Cassia — bold, pungent, strongly sweet with harsh heat; Ceylon — delicate, warm, complex with citrus notes.
@@ -54,7 +54,7 @@ C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most commercially 
 
 ### Vegetative Description
 
-- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall in cultivation, up to 20 m in the wild. Dense, rounded crown. Aromatic all parts.
+- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall [[mushroom-flies-in-cultivation]], up to 20 m in the wild. Dense, rounded crown. Aromatic all parts.
 - **Trunk:** Diameter 30–60 cm at maturity. Bark grey-brown, rough and fissured on mature trees, smooth on young branches. The commercial bark is stripped from branches and young stems, not the main trunk.
 - **Leaves:** Alternate, leathery, ovate to elliptic-lanceolate, 8–20 cm × 4–8 cm, with 3 prominent longitudinal veins (trinerved). Upper surface dark glossy green, lower paler and densely pubescent when young. Margin entire. Strongly aromatic when crushed.
 - **Young shoots:** Covered with fine rusty-brown pubescence, becoming glabrous.
@@ -70,7 +70,7 @@ C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most commercially 
 ## Distribution and Habitat
 
 - **Native range:** Southern China (Guangxi, Guangdong, Yunnan, Guizhou, Fujian, Hainan), northern Vietnam, Laos, Myanmar. Guangxi produces ≈80% of world supply.
-- **Naturalized/cultivated:** Widely planted in tropical Asia (Indonesia, India, Sri Lanka, Bangladesh, Thailand, Cambodia, Japan), East Africa (Madagascar, Tanzania, Kenya), South America (Brazil, Ecuador), and Caribbean.
+- **Naturalized/cultivated:** Widely planted in tropical Asia (Indonesia, India, Sri Lanka, Bangladesh, Thailand, Cambodia, Japan), East Africa (Madagascar, Tanzania, Kenya), [[gartz-magic-mushrooms-species-south-america]] (Brazil, Ecuador), and Caribbean.
 - **Elevation:** 100–500 m native; cultivated from sea level to 1,000 m.
 - **Climate:** Requires warm, humid tropical to subtropical conditions. Optimal temperature 20–30°C. Tolerates brief light frost but not sustained freezing. Annual rainfall requirement: 1,250–2,500 mm, with a distinct dry season preferred for bark harvesting.
 - **Soil:** Prefers deep, fertile, well-drained sandy loam to loam soils, slightly acidic (pH 5.5–6.5). Tolerates poor soils but bark quality suffers. Does not tolerate waterlogging.
@@ -148,4 +148,3 @@ The most clinically significant modern application of C. cassia is its role in g
 - [[cinnamomum-verum]] — Ceylon cinnamon, the "true cinnamon" with lower coumarin content
 - [[eugenia-bone]] — Clove, sharing eugenol chemistry and antimicrobial properties
 - [[zingiber-officinale]] — Ginger, companion spice in five-spice powder and chai
-- [[alpinia-galanga]] — Greater galangal, frequently combined with cassia in Southeast Asian cuisine

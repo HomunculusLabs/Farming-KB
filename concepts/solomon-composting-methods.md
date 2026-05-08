@@ -106,6 +106,6 @@ For gardeners who cannot produce high-quality compost (most of us), Solomon's Co
 
 - [[organic-composting-methods]]
 - [[composting-materials-alternative]]
-- [[wormery-construction]]
+- [[composting-and-soil-biology]]
 - [[bokashi-compost-method]]
 - [[soil-food-web-nutrient-cycling]]

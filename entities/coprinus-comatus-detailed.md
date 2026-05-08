@@ -139,7 +139,7 @@ Beyond the novel antibiotic and anti-tumor properties mentioned above, C. comatu
 
 ## See Also
 
-- [[coprinus-comatus]]
+- coprinus comatus detailed
 
 - calvatia-gigantea — Giant Puffball, another large distinctive edible
 - [[agaricus-campestris]] — Meadow Mushroom, similar lawn habitat

@@ -148,4 +148,3 @@ indigenous competition are active areas of investigation.
 - [[staycare-fungal-formulation-in-situ-bioremediation]] for
   additional formulation details
 - [[fungal-immobilization-bioreactor-systems]] for
-  immobilization techniques

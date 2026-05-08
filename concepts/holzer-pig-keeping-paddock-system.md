@@ -37,7 +37,7 @@ Pigs also make a large contribution to the regulation of snails and other pests.
 
 On the Krameterhof, all of the land is managed as part of a paddock system. This means that all livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The paddock system mimics the natural grazing patterns of wild animals, preventing overgrazing while ensuring regular soil disturbance and fertilization.
 
-Pigs do not have sweat glands, so they have to rely on bodies of water and wallowing to regulate their body temperature in hot weather. When they wallow, the pigs cover themselves in a layer of mud which protects light-skinned breeds from sunburn and helps control external parasites. Access to water for wallowing is therefore an essential design consideration in the paddock system, connecting to [[holzer-water-landscapes-pond-building]] approach.
+Pigs do not have sweat glands, so they have to rely on bodies of water and wallowing to regulate their body temperature in hot weather. When they wallow, the pigs cover themselves in a layer of mud which protects light-skinned breeds from sunburn and helps control external parasites. Access to water for wallowing is therefore an essential design consideration in the paddock system, connecting to [[sepp-holzer-permaculture-and-rebel-farming]] approach.
 
 ## Fencing and Management
 
@@ -101,7 +101,7 @@ A particularly elegant integration involves intercropping within pig paddocks. H
 
 The paddock system requires specific infrastructure that differs significantly from conventional pig housing. Robust fencing is the primary requirement — pigs are strong, intelligent, and persistent in their efforts to explore beyond boundaries. Holzer uses a combination of permanent fencing (wooden or metal posts with wire) for paddock boundaries and portable electric fencing for subdividing paddocks and directing pig movement. Electric fencing must be powerful enough to deliver a convincing shock through the pig's tough skin and layer of fat.
 
-Water access is essential year-round. In summer, pigs need wallowing areas deep enough for full body immersion — Holzer designs these as natural ponds connected to his broader [[holzer-water-landscapes-pond-building]] system. In winter, access to running water or snow is necessary for hydration. Water infrastructure must be pig-proof, as pigs will destroy inadequately protected pipes, troughs, and fittings.
+Water access is essential year-round. In summer, pigs need wallowing areas deep enough for full body immersion — Holzer designs these as natural ponds connected to his broader [[sepp-holzer-permaculture-and-rebel-farming]] system. In winter, access to running water or snow is necessary for hydration. Water infrastructure must be pig-proof, as pigs will destroy inadequately protected pipes, troughs, and fittings.
 
 Shelter structures on the Krameterhof are simple, open-fronted buildings that protect from wind and precipitation without enclosing the animals. These are oriented to block prevailing winter winds while allowing sun exposure. Deep bedding of straw or hay provides floor insulation and allows natural nesting behavior. Feed storage structures must be secure against pig access — pigs will readily break into inadequately protected stores.
 
@@ -116,5 +116,5 @@ Carrying capacity is not fixed but varies with the season. Spring and summer sup
 - [[holzer-raised-bed-design-principles]]
 - [[holzer-earth-shelters-pigsties]]
 - [[holzer-cattle-poultry-management]]
-- [[holzer-water-landscapes-pond-building]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[sepp-holzer-garden-helpers-and-pest-regulation]]

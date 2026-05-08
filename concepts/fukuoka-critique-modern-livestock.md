@@ -100,7 +100,7 @@ Masanobu Fukuoka's critique of modern medicine, developed throughout "The Road B
 
 ## Medicine as Symptom of Human Hubris
 
-Fukuoka places medical science alongside agricultural science as domains where human hubris has produced catastrophic results. Just as [[fukuoka-critique-scientific-agriculture]] has destroyed soils and ecosystems, modern medicine has destroyed the natural healing capacity of the human body. Both operate from the same flawed premise: that human knowledge can improve upon nature.
+Fukuoka places medical science alongside agricultural science as domains where human hubris has produced catastrophic results. Just as [[fukuoka-critique-of-scientific-agriculture]] has destroyed soils and ecosystems, modern medicine has destroyed the natural healing capacity of the human body. Both operate from the same flawed premise: that human knowledge can improve upon nature.
 
 He argues that scientists today have become the "palanquin bearers of rampaging science," drunk on the sound of the words "high technology." Medical researchers, like agricultural researchers, pursue ever more specialized knowledge while losing sight of the whole.
 

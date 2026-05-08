@@ -148,7 +148,3 @@ while sharing biodynamic's emphasis on on-farm self-sufficiency.
 
 - [[biodynamic-preparations-comparison]]
 - [[comparison-knf-vs-biodynamic]]
-- [[comparison-biochar-vs-biofertilizer]]
-- [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
-- [[biodynamic-agriculture-and-steiner]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]

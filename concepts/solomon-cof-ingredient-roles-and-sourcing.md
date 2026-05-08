@@ -77,13 +77,13 @@ Gypsum is particularly valuable in soils that are already at an adequate pH but 
 
 ## Rock Phosphate or Bone Meal (Phosphorus)
 
-The COF formula calls for one part of a [[phosphorus-availability]] source, with three options: finely ground rock phosphate (either "hard" or "soft" varieties), [[bone meal]], or high-phosphate guano. Rock phosphate is the most economical choice and releases phosphorus slowly over years as it weathers in the soil.
+The COF formula calls for one part of a [[phosphorus-availability]] source, with three options: finely ground rock phosphate (either "hard" or "soft" varieties), [[bone-meal]], or high-phosphate guano. Rock phosphate is the most economical choice and releases phosphorus slowly over years as it weathers in the soil.
 
 Solomon notes that [[phosphorus-availability]] availability from rock phosphate is enhanced by the acidic conditions created as organic matter decomposes. The slow-release nature of rock phosphate means that annual applications build up a phosphorus reserve in the soil, reducing the need for heavy applications in subsequent years. The phosphorus content of rock phosphate has steadily decreased in commercially available sources over recent decades, making the less expensive options increasingly attractive relative to their nutrient content.
 
 ## Kelp Meal or Basalt Dust (Trace Minerals)
 
-One part of either [[kelp meal]] or [[basalt dust]] provides the broad spectrum of [[trace minerals]] that chemical fertilizers lack. Kelp meal is particularly rich in growth regulators, natural hormones, cytokinins, and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
+One part of either [[kelp-meal]] or [[basalt-dust]] provides the broad spectrum of [[trace-minerals]] that chemical fertilizers lack. Kelp meal is particularly rich in growth regulators, natural hormones, cytokinins, and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
 
 Kelp meal sourced from places like South Korea can be more economical than domestic sources, as the cost of labor and exchange rates favor import pricing. Basalt dust is a suitable substitute, offering a different but equally broad mineral profile derived from volcanic rock. The kelp meal option, while somewhat costly, "adds considerable fortitude to the plants and vegetables" and Solomon urges gardeners to go as far as their budget allows to include it.
 
@@ -95,7 +95,7 @@ For gardeners in urban areas without access to farm supply stores, Solomon ackno
 
 ## Application Rates and Timing
 
-The standard application rate is 4 to 6 quarts (approximately 4 to 6 liters) of COF per 100 square feet of raised bed, or per 50 feet of row that is 12 to 18 inches wide. This is applied at least once a year, ideally in spring. The fertilizer is mixed into the top few inches of soil with a hoe or spade, or simply spread on top of [[no-till-benefits]] beds where soil organisms will incorporate it.
+The standard application rate is 4 to 6 quarts (approximately 4 to 6 liters) of COF per 100 square feet of raised bed, or per 50 feet of row that is 12 to 18 inches wide. This is applied at least once a year, ideally in spring. The fertilizer is mixed into the top few inches of soil with a hoe or spade, or simply spread on top of [[composting-and-soil-biology]] beds where soil organisms will incorporate it.
 
 For medium and high-demand vegetables, additional side-dressings can be applied every few weeks during the growing season. Solomon advises sprinkling small amounts of COF in a circle around each plant, covering the area that the root system will eventually occupy, and gradually widening the ring as the plant grows. He provides specific side-dressing rates for high-demand crops like tomatoes and beets.
 

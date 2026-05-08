@@ -60,7 +60,7 @@ Chemical analyses of [[psilocybe-cubensis]] from different geographical location
 
 ### Gymnopilus Species
 
-The genus Gymnopilus presents particularly difficult analytical challenges. Several Gymnopilus species have been reported to contain psilocybin, but results are inconsistent. [[gymnopilus-spectabilis]], one of the most widely distributed neurotropic Gymnopilus species, has been reported both positive and negative for psilocybin depending on the study. The orange-to-red pigments characteristic of the genus may interfere with colorimetric and spectrophotometric analytical methods, producing false positives or false negatives.
+The genus Gymnopilus presents particularly difficult analytical challenges. Several Gymnopilus species have been reported to contain psilocybin, but results are inconsistent. [[gymnopilus-spectabilis-entity]], one of the most widely distributed neurotropic Gymnopilus species, has been reported both positive and negative for psilocybin depending on the study. The orange-to-red pigments characteristic of the genus may interfere with colorimetric and spectrophotometric analytical methods, producing false positives or false negatives.
 
 ### Baeocystin and Norbaeocystin
 

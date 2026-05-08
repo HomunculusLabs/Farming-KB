@@ -82,7 +82,7 @@ As a coprophilous decomposer, P. campanulatus plays an important ecological role
 
 ## Chemistry
 
-The species has been reported to contain [[psilocybin]] and [[psilocin]], though typically at lower concentrations than more potent Panaeolus species. Psychoactive content varies significantly depending on:
+The species has been reported to contain [[psilocybin-compound]] and [[psilocin]], though typically at lower concentrations than more potent Panaeolus species. Psychoactive content varies significantly depending on:
 
 - Geographic origin of the collection
 - Specific substrate composition
@@ -115,7 +115,7 @@ As a psilocybin-containing species, P. campanulatus is subject to legal restrict
 - [[panaeolus-cyanescens]] — Much more potent Panaeolus species
 - [[panaeolus-subbalteatus]] — Common psychoactive Panaeolus with banded cap
 - [[psilocybe-cubensis]] — Another coprophilous psychoactive species of greater potency
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound
 
 ## References
 

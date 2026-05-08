@@ -25,7 +25,7 @@ neutralize environmental contaminants. The concept was pioneered by Paul Stamets
 and has since been validated by numerous scientific studies and field
 applications. The [[mycoremediation-basic-techniques]] page
 covers the foundational methods, while the
-[[mycoremediation-advantages-limitations]] page
+[[bioremediation-using-fungi]] page
 provides a realistic assessment of what mycoremediation can and cannot do.
 Unlike many remediation approaches that require expensive equipment and energy
 inputs, mycoremediation works with natural fungal biology to break down

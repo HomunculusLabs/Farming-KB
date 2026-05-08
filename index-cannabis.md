@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**939 pages**
+**935 pages**
 
 ## A
 
@@ -41,7 +41,6 @@
 - [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 - [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
 - [[blesching-cannabis-arthritis]]
-- [[blesching-cannabis-asthma]]
 - [[blesching-cannabis-atherosclerosis]]
 - [[blesching-cannabis-autism]]
 - [[blesching-cannabis-bacterial-infections]]
@@ -80,7 +79,6 @@
 - [[blesching-cannabis-eczema-dermatitis]]
 - [[blesching-cannabis-emotional-intelligence-healing-framework]]
 - [[blesching-cannabis-encephalitis]]
-- [[blesching-cannabis-endometriosis]]
 - [[blesching-cannabis-epigenetics-and-emotional-trauma]]
 - [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]
 - [[blesching-cannabis-febrile-seizures]]
@@ -115,7 +113,6 @@
 - [[blesching-cannabis-inflammation]]
 - [[blesching-cannabis-inflammatory-bowel-disease]]
 - [[blesching-cannabis-inflammatory-diseases]]
-- [[blesching-cannabis-insomnia]]
 - [[blesching-cannabis-interstitial-cystitis]]
 - [[blesching-cannabis-irritable-bowel-syndrome]]
 - [[blesching-cannabis-itching-pruritis]]
@@ -160,7 +157,6 @@
 - [[blesching-cannabis-schizophrenia]]
 - [[blesching-cannabis-seborrhea]]
 - [[blesching-cannabis-serotonin-endocannabinoid-system]]
-- [[blesching-cannabis-sickle-cell-disease]]
 - [[blesching-cannabis-skin-cancer-non-melanoma]]
 - [[blesching-cannabis-skin-diseases]]
 - [[blesching-cannabis-sleep-disorders]]
@@ -407,7 +403,6 @@
 - [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabis-health-index]]
 - [[cannabis-health-index-evidence-based-framework-scoring-system]]
-- [[cannabis-health-index-scoring]]
 - [[cannabis-health-index-scoring-evidence-methodology]]
 - [[cannabis-health-index-scoring-system]]
 - [[cannabis-health-methods-of-administration]]
@@ -978,6 +973,7 @@
 - [[terpene-profile-chemotaxonomy]]
 - [[thc-acetate-and-isomerization]]
 - [[thc-acetate-synthesis-and-pharmacology]]
+- [[thc-isomerization]]
 - [[thrips-cannabis]]
 - [[topping-cannabis]]
 - [[training-cannabis]]

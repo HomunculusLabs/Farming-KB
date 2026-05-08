@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-Edaphic factors, the physical and chemical properties of soil, are the primary determinants of [[microbial community]] structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that [[soil type]] was the strongest predictor of both community composition and abundance.
+Edaphic factors, the physical and chemical properties of soil, are the primary determinants of [[microbial-community]] structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that [[soil-type]] was the strongest predictor of both community composition and abundance.
 
-Soil type outweighed both [[sample type]] (endorhiza, rhizosphere, bulk soil) and Cannabis cultivar in structuring the microbiome. Understanding the relative importance of individual edaphic variables is essential for managing soil health to support beneficial plant-microbe associations.
+Soil type outweighed both [[sample-type]] (endorhiza, rhizosphere, bulk soil) and Cannabis cultivar in structuring the microbiome. Understanding the relative importance of individual edaphic variables is essential for managing soil health to support beneficial plant-microbe associations.
 
 ## Ranked Importance of Edaphic Variables
 
-Using Mantel tests correlating soil physicochemical data with community [[beta diversity]], the study ranked five edaphic factors by their influence on microbial community structure.
+Using Mantel tests correlating soil physicochemical data with community [[beta-diversity]], the study ranked five edaphic factors by their influence on microbial community structure.
 
 ### Weighted Analysis (Abundance-Sensitive)
 
@@ -55,7 +55,7 @@ The Mo-Bio soil had nitrogen concentrations ranging from approximately 0.26% to 
 
 Nitrogen availability directly influences microbial growth rates, biomass production, and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
 
-Nitrogen-limited environments may select for oligotrophic organisms adapted to nutrient scarcity such as Acidobacteria. The strong nitrogen signal across all compartments suggests it structures the foundational soil community, which then propagates influence through the [[two-tier selection model]].
+Nitrogen-limited environments may select for oligotrophic organisms adapted to nutrient scarcity such as Acidobacteria. The strong nitrogen signal across all compartments suggests it structures the foundational soil community, which then propagates influence through the [[two-tier-selection-model]].
 
 The BEST analysis confirmed nitrogen as part of the optimal three-variable model along with carbon and water, explaining community variance with a combined rho of 0.632.
 
@@ -107,7 +107,7 @@ Cultivar effects were only detectable in the [[cannabis-endorhiza-microbiome]] c
 
 ## Practical Soil Management Implications
 
-The dominance of edaphic factors means that soil management practices optimizing nitrogen, carbon, water, and salinity will have the greatest impact on the cannabis microbiome. These practices create the foundation from which beneficial endorhiza communities are drawn through the [[two-tier selection model]].
+The dominance of edaphic factors means that soil management practices optimizing nitrogen, carbon, water, and salinity will have the greatest impact on the cannabis microbiome. These practices create the foundation from which beneficial endorhiza communities are drawn through the [[two-tier-selection-model]].
 
 Organic matter amendments increase both carbon content and water-holding capacity, addressing two of the top three edaphic factors simultaneously. Cover cropping and green manuring can maintain nitrogen availability while adding diverse carbon sources that support microbial diversity.
 
@@ -119,9 +119,9 @@ Regular soil testing for nitrogen, carbon, salinity, and pH is recommended to tr
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[cannabis-rhizosphere-microbiome]]
 
-- [[two-tier selection model]]
-- [[alpha diversity gradient bulk soil cannabis endorhiza]]
-- [[cannabis endorhiza microbiome]]
-- [[edaphic factors cannabis endorhiza microbiome assembly]]
-- [[nitrogen cycling soil microbiome]]
-- [[cannabinoid concentration endorhiza microbiome correlation cannabis]]
+- [[two-tier-selection-model]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[cannabis-endorhiza-microbiome]]
+- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
+- [[nitrogen-cycling-soil-microbiome]]
+- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]

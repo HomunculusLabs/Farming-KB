@@ -124,8 +124,8 @@ Both can be brewed simultaneously — many home fermenters keep a kefir jar on t
 
 - [[comparison-kombucha-vs-kefir]]
 
-- [[kefir-making]] — detailed guide to milk and water kefir
-- [[kombucha-brewing]] — full kombucha brewing walkthrough
+- kefir making — detailed guide to milk and water kefir
+- kombucha brewing — full kombucha brewing walkthrough
 - [[kombucha-and-fermented-teas-guide]] — broader fermented tea reference
 - [[fermented-vegetables-guide]] — another entry point to home fermentation
 - [[wild-fermentation-vs-cultured-yeast]] — culture starters compared

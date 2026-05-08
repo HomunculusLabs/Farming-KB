@@ -142,18 +142,6 @@ Clinical research uses synthetic DMT fumarate administered intravenously (0.1–
 - **UN Convention:** Schedule I of the 1971 Convention on Psychotropic Substances
 - **Brazil:** Legal for religious use by recognized ayahuasca churches (Santo Daime, União do Vegetal)
 - **Peru:** Decriminalized for traditional/ceremonial use
-- **Canada:** Patented for clinical research; restricted under Controlled Drugs and Substances Act
-- **Netherlands:** Not explicitly scheduled (legal gray area); DMT-containing plants are legal
-
-## Safety Profile
-
-- **Toxicity:** Very high therapeutic index — fatal overdose has never been documented
-- **Cardiovascular:** Transient increases in heart rate and blood pressure; caution in those with cardiovascular conditions
-- **Serotonin syndrome:** Theoretical risk when combined with serotonergic medications (SSRIs, MAOIs)
-- **Psychological risk:** Can trigger transient anxiety, confusion, or distressing experiences; integration support recommended
-- **Dependence:** No addictive potential; no withdrawal syndrome; often reduces desire for other substances
-- **Contraindications:** Schizophrenia spectrum disorders, cardiovascular disease, current MAOI/SSRI use, pregnancy
-
 ## See Also
 
 - [[dmt-nn-dimethyltryptamine]]

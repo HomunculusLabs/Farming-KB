@@ -57,7 +57,7 @@ Functional genomics approaches have revealed that M. grisea possesses a remarkab
 
 [[nematode-trapping-fungi]] can grow as saprophytes in soils and enter predatory mode when nematodes are detected.
 
-They produce specialized trapping structures to capture and digest nematodes, making them important biological control agents. DNA microarray studies have revealed the complex gene regulation underlying the switch between saprophytic and predatory lifestyles. This predatory behavior represents one of the most fascinating [[nutrient-retention-soil-food-web]] in soil ecology.
+They produce specialized trapping structures to capture and digest nematodes, making them important biological control agents. DNA microarray studies have revealed the complex gene regulation underlying the switch between saprophytic and predatory lifestyles. This predatory behavior represents one of the most fascinating [[composting-and-soil-biology]] in soil ecology.
 
 ## Endophytic Fungi
 

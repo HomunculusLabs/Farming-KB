@@ -148,4 +148,3 @@ As the oven cools over the next several hours, the dropping temperature range is
 - [[cob-building]]
 - [[rocket-stove-design]]
 - [[cob-oven-construction]]
-- [[permaculture-design]]

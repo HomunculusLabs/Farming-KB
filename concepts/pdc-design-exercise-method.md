@@ -95,5 +95,5 @@ Make a swale around the drip line of a tree, house, or other appropriate locale:
 Source: William Ozier Williams PDC: A Permaculture Design Course
 - [[pdc-practical-exercises-and-field-activities]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

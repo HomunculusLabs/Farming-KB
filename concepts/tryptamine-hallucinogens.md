@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # Tryptamine Hallucinogens
 
-Tryptamine hallucinogens are a family of psychoactive compounds derived from the amino acid [[tryptophan]]. The principal members discussed by Terence McKenna include [[dmt]], [[psilocybin]], and [[ayahuasca]].
+Tryptamine hallucinogens are a family of psychoactive compounds derived from the amino acid [[tryptophan]]. The principal members discussed by Terence McKenna include [[dmt]], [[psilocybin-compound]], and [[ayahuasca]].
 
 These compounds occupy what McKenna called a "very circumscribed place in organic nature" with important implications for the study of human consciousness and its relationship to quantum mechanical reality.
 
@@ -26,7 +26,7 @@ These compounds occupy what McKenna called a "very circumscribed place in organi
 The tryptamine hallucinogens share a common structural foundation: the indole ring system derived from tryptophan. The key compounds include:
 
 - **[[dmt]] (N,N-Dimethyltryptamine):** The simplest and most powerful member, endogenous to the human brain, active when smoked (5-minute duration) or orally with an MAOI (hours-long duration via ayahuasca)
-- **[[psilocybin]] (4-phosphoryloxy-N,N-dimethyltryptamine):** The psychoactive compound found in psilocybin mushrooms, metabolized in the body to psilocin
+- **[[psilocybin-compound]] (4-phosphoryloxy-N,N-dimethyltryptamine):** The psychoactive compound found in psilocybin mushrooms, metabolized in the body to psilocin
 - **[[serotonin]] (5-hydroxytryptamine):** The major neurotransmitter in the human brain, structurally similar to DMT, found in all life and most concentrated in humans
 - **Ayahuasca:** A combination of DMT with a monoamine oxidase inhibitor that allows oral activity, used for millennia in Amazonian shamanic practice
 
@@ -34,7 +34,7 @@ The structural relationships among these compounds are not incidental. The close
 
 ## Distinguishing Features from Other Hallucinogens
 
-What distinguishes the tryptamine family from other hallucinogens like [[lsd]] and [[mescaline]] is the combination of several unique properties:
+What distinguishes the tryptamine family from other hallucinogens like [[lsd]] and [[mescaline-entity]] is the combination of several unique properties:
 
 1. **Intensity of visual hallucination:** The interior landscapes are immensely vivid, with information presented three-dimensionally and deployed fourth-dimensionally, "coded as light and as evolving surfaces"
 2. **Concentration of activity in the visual cortex:** The tryptamines produce a uniquely intense visual phenomenology centered in the visual processing areas of the brain
@@ -54,7 +54,7 @@ This hypercontinuum includes:
 - Translinguistic information complexes that resist translation into human language
 - The Logos as a transhuman intelligence accessible at the quantum foundation of being
 
-The consistency of this hypercontinuum across different compounds ([[dmt]], [[psilocybin]], [[ayahuasca]]) and different experiencers is one of its most remarkable features. McKenna argued that this consistency suggests the hypercontinuum has an objective existence independent of any individual's psychology or expectations.
+The consistency of this hypercontinuum across different compounds ([[dmt]], [[psilocybin-compound]], [[ayahuasca]]) and different experiencers is one of its most remarkable features. McKenna argued that this consistency suggests the hypercontinuum has an objective existence independent of any individual's psychology or expectations.
 
 ## Quantum Mechanical Correlates
 
@@ -90,7 +90,7 @@ They are "sacred" and therefore excluded from political power, sitting at the he
 
 McKenna traced the suppression of tryptamine-containing plants to what he called the "Hellenistic-Christian-Judaic tradition."
 
-The Franciscans who arrived in the New World assumed a monopoly on theophagy (the eating of God) and encountered indigenous peoples calling a mushroom *teonanacatl*, "the flesh of the gods." The Inquisition drove the mushroom cults into the mountains of Oaxaca, where they survived in only a few villages until their rediscovery by [[valentina-pavlovna-wasson|Valentina]] and [[R. Gordon Wasson]] in the 1950s.
+The Franciscans who arrived in the New World assumed a monopoly on theophagy (the eating of God) and encountered indigenous peoples calling a mushroom *teonanacatl*, "the flesh of the gods." The Inquisition drove the mushroom cults into the mountains of Oaxaca, where they survived in only a few villages until their rediscovery by [[valentina-pavlovna-wasson|Valentina]] and [[r.-gordon-wasson]] in the 1950s.
 
 ## The Black Hole Effect
 

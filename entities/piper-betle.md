@@ -148,4 +148,3 @@ vine contributes to household income and biodiversity.
 - [[piper-nigrum-entity]] · [[piper-methysticum-entity]]
 - [[piperine]] · [[eugenol]] · [[beta-caryophyllene]]
 - [[areca-catechu]] · [[arecoline]]
-- [[zingiber-officinale]]

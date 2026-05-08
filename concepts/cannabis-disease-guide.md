@@ -130,6 +130,6 @@ Damping off is a condition affecting seedlings and young clones, caused by sever
 5. **Genetic selection**: Choose mold-resistant strains for humid climates
 6. **Early detection**: Inspect plants regularly; catch problems before they spread
 7. **Quarantine**: Isolate any sick plant immediately
-Diseases often follow pest damage — weakened plants from [[cannabis-pest-management]] issues are more susceptible to infection. Maintaining plant vigor through proper [[cannabis-nutrient-recipes]] is the foundation of disease resistance.
+Diseases often follow pest damage — weakened plants from cannabis pest management issues are more susceptible to infection. Maintaining plant vigor through proper [[cannabis-nutrient-recipes]] is the foundation of disease resistance.
 ## Related
-- [[cannabis-pest-management]]
+- cannabis pest management

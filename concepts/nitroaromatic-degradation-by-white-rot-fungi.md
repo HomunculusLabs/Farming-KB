@@ -91,7 +91,7 @@ The treatment of nitroaromatic-contaminated soil by white rot fungi presents spe
 
 - **Treatment time** -- field-scale fungal treatment may require months to achieve significant contaminant reduction
 
-Strategies to address these challenges include soil amendment with organic substrates (straw, sawdust) to support fungal growth, bioaugmentation with pre-adapted fungal inocula, and combined biological-physical treatment approaches. These field considerations are discussed in [[mycoremediation-field-applications]].
+Strategies to address these challenges include soil amendment with organic substrates (straw, sawdust) to support fungal growth, bioaugmentation with pre-adapted fungal inocula, and combined biological-physical treatment approaches. These field considerations are discussed in [[bioremediation-using-fungi]].
 
 ## Cometabolic Transformation
 
@@ -107,7 +107,7 @@ Many nitroaromatic degradation reactions by white rot fungi are cometabolic, mea
 
 - [[ligninolytic-enzymes-bioremediation]]
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 
 - [[mycoremediation-of-petroleum-hydrocarbons]]
 

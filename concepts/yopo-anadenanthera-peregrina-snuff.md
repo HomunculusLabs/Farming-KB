@@ -62,9 +62,9 @@ The yopo tradition parallels other South American snuffing practices, including 
 
 ## Related
 
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[old-world-hallucinogenic-plants-overview]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 
 ## Historical Context
 

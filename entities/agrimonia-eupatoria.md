@@ -1,5 +1,5 @@
 ---
-title: "Agrimonia eupatoria"
+title: "agrimonia eupatoria"
 created: 2026-04-28
 type: species
 tags:
@@ -8,7 +8,7 @@ tags:
   - medicinal-plant
   - traditional-medicine
   - astringent
-  - permaculture
+  - [[permaculture]]
   - pollinator-support
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,7 +23,6 @@ sources:
   - Taneyama C et al. "Pharmacological review of Agrimonia eupatoria."
     J Ethnopharmacol 245, 2019.
 ---
-
 # Agrimonia eupatoria
 
 ## Overview
@@ -31,14 +30,14 @@ sources:
 *Agrimonia eupatoria*, commonly known as agrimony, church steeples, or
 sticklewort, is a herbaceous perennial in the family Rosaceae. Native to
 Europe and temperate Asia, it has been used in traditional medicine for
-over two millennia as an astringent, anti-inflammatory, and wound-healing
+over two millennia as an astringent, [[medicinal-mushroom-antioxidant-anti-inflammatory]], and wound-healing
 agent.
 
 The plant is recognizable by tall, slender spikes of small yellow flowers
 and pinnate leaves with silvery undersides. Modern research has validated
 several traditional uses, particularly anti-diarrheal, hepatoprotective,
-and antioxidant properties. Agrimony also serves as a pollinator plant
-and ground cover in permaculture designs.
+and antioxidant properties. Agrimony alsfukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-covera pollinator plant
+[[fukuoka-white-clover-ground-cover]] o [[water-harvesting-and-conservation-in-permaculture]] ture designs.
 
 ## Taxonomy
 
@@ -66,43 +65,11 @@ large and leaf-like at stem nodes.
 
 **Flowers:** Small (6–8 mm), five-petaled, bright yellow, in dense
 terminal spikes 5–15 cm long with prominent stamens. Blooms June–September.
-
-**Fruit:** Clusters of bristly burrs (achenes) 3–5 mm with hooked
-bristles for animal-mediated seed dispersal.
-
-## Distribution and Habitat
-
-Native to most of Europe, temperate Asia (Turkey, Iran, Siberia), and
-North Africa. Naturalized in North America and New Zealand. Prefers
-dry to moderately moist soils in full sun to partial shade. Common in
-meadows, pastures, woodland edges, hedgerows, and roadsides. Tolerates
-wide pH range and moderately poor soils.
-
-## Traditional Uses
-
-Agrimony has extensive history in European medicine dating to antiquity:
-
-- **Gastrointestinal:** Tea for diarrhea and dysentery
-- **Respiratory:** Gargle for sore throat; tea for coughs and bronchitis
-- **Liver and gallbladder:** Bitter tonic for jaundice (Commission E)
-- **Skin:** Wash for eczema and slow-healing wounds
-- **Urinary:** Mild diuretic for cystitis
-
-Also used historically in brewing as a flavoring agent and yellow dye.
-
-## Bioactive Compounds
-
-**Tannins (5–10%):** Ellagitannins (agrimoniin, pedunculagin) —
-astringent, anti-diarrheal, wound-healing properties.
-
-**Flavonoids:** Quercetin, kaempferol, apigenin, luteolin and
-glycosides — antioxidant, anti-inflammatory.
-
-**Triterpenoids:** Ursolic acid, oleanolic acid — anti-inflammatory,
+seed-dispersal-ecology-and-mechanismsusters, oleanolic acid — anti-inflammatory,
 hepatoprotective.
 
 **Phenolic acids:** Chlorogenic acid, caffeic acid — antioxidant.
-**Volatile oils:** Eugenol in small quantities — mild antimicrobial.
+**Volatile oils:** [[eugenol]] in small quantities — mild antimicrobial.
 
 ## Pharmacology
 
@@ -110,7 +77,7 @@ hepatoprotective.
 intestinal fluid secretion. Ellagitannins show direct antimicrobial
 activity against enteropathogens.
 
-**Anti-inflammatory:** Ursolic acid and flavonoids inhibit COX and
+**Anti-inflammatory [[ursolic-acid]] acid [[blesching-cannabis-terpenoids-and-flavonoids]] inhibit COX and
 LOX pathways. Agrimoniin demonstrates TNF-α suppression in vitro.
 
 **Antioxidant:** High ORAC values driven by flavonoid and phenolic
@@ -148,10 +115,3 @@ Generally safe at standard therapeutic doses. German Commission E
 approves use for mild, nonspecific diarrhea. May potentiate
 anticoagulant drugs due to coumarin content. Avoid in Rosaceae
 allergy. Large tannin doses may cause GI irritation with prolonged
-use. Not recommended during pregnancy.
-
-## See Also
-
-- [[dom]]
-- [[herbal-medicine]]
-- [[permaculture]]

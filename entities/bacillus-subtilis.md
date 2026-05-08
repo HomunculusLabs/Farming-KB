@@ -1,5 +1,5 @@
 ---
-title: Bacillus subtilis
+title: bacillus subtilis
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
@@ -147,11 +147,3 @@ Type species of *Bacillus*. Closest relatives: the *B. cereus* group (*B.
 cereus*, *B. thuringiensis*, *B. anthracis*), sharing high genomic similarity
 but differing in pathogenicity. *B. licheniformis* is used in industrial
 ## See Also
-
-- bacillus subtilis
-- [[knf-hay-bacillus-disease-control]]
-- [[cervantes-bacillus-thuringiensis-bt-control]]
-- [[bacillus-megaterium]]
-- [[pycnoporus-cinnabarinus]]
-- [[bondarzewia-berkeleyi]]
-- [[guaiol]]

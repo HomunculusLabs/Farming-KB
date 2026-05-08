@@ -132,7 +132,4 @@ The question of how quickly we develop into a mature community able to address t
 
 If we are serious about an Archaic Revival, then we need a new paradigmatic image that can take us rapidly forward and through the historical choke point that we can feel impeding and resisting a more expansive, more humane, more caring dimension that is insisting on being born.
 
-
-
-
 See also: [[mckenna-drug-war-and-human-freedom]], [[mckenna-dmt-experience-and-hyperspace]], [[mckenna-archaic-revival]], [[mckenna-food-of-the-gods-thesis]], [[mckenna-consciousness-expansion-and-drug-war]]

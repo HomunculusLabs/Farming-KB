@@ -124,7 +124,7 @@ Accessory systems include growing compost materials as hedgerow, herbs, or soft-
 
 [[permaculture-biogas-systems]]
 
-[[permaculture-woody-mulch-systems]]
+[[permaculture-design]]
 
 [[soil-building-permaculture]]
 

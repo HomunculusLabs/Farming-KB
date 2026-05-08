@@ -117,7 +117,7 @@ Preservation method that also creates flavor:
 - Pair with: cream, eggs, poultry, light wines, tarragon
 - Do not pair with vinegar or strong acids (masks flavor)
 
-### Porcini/Boletes ([[boletus-edulis]] group)
+### Porcini/Boletes ([[boletus-edulis-entity]] group)
 - Rich, nutty, meaty flavor; the "king" of edible mushrooms
 - Check all boletes for blue staining (some are bittlentinula-edodesest methods: sauteing, drying, risotto, soups
 - Pair with: pasta, rice, Parmesan, thyme, white wine

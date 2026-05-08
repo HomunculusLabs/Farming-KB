@@ -107,7 +107,7 @@ Fukuoka's natural barley and rice method consistently produced yields comparable
 - [[fukuoka-rice-barley-step-by-step-method]]
 - [[fukuoka-rice-barley-no-till-method]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
-- [[fukuoka-no-till-rice-barley-succession]]
+- [[no-till-rice-barley-succession]]
 - [[fukuoka-soil-self-improvement-without-tillage]]
 - [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-road-back-clover-barley-rice-method]]

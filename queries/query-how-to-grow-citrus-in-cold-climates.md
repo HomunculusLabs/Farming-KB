@@ -1,7 +1,7 @@
 ---
 title: 'How to Grow Citrus in Cold Climates'
 created: 2026-04-28
-tags: [citrus, cold-climate, container-growing, greenhouse, overwintering, zone-pushing, query]
+tags: [citrus, [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]], container-growing, greenhouse, overwintering, zone-pushing, query]
 date: 2026-05-03
 updated: 2026-05-03
 sources:
@@ -15,7 +15,7 @@ type: query
 
 # How to Grow Citrus in Cold Climates
 
-A practical FAQ for growing citrus in USDA Zones 4–8, covering variety selection, container culture, overwintering, and zone-pushing techniques.
+A practical FAQ for [[old-fruit-variety-selection]] USDA Zones 4–8, covering variety selection, container culture, overwintering, and zone-pushing techniques.
 
 ---
 
@@ -23,7 +23,7 @@ A practical FAQ for growing citrus in USDA Zones 4–8, covering variety selecti
 
 The most cold-tolerant citrus varieties, listed from hardiest to least:
 
-- **Kumquat (Nagami, Marumi):** Survives down to **10°F (−12°C)** with leaf drop; the gold standard for marginal climates.
+- **Kumquat (Nagami, Marumi):** Survives down to **10°F (−12°[[holzer-fruit-growing-marginal-climates]] op; the gold standard for marginal climates.
 - **Calamondin:** Hardy to about **15°F (−9°C)**; a sour mandarin-kumquat hybrid great for marmalade.
 - **Satsuma mandarin (Owari, Brown Select):** Hardy to **15–18°F (−9 to −8°C)**; excellent fruit quality, widely adapted.
 - **Yuzu:** Tolerates down to **10°F (−12°C)**; prized in Japanese cuisine for its aromatic rind and juice.
@@ -37,11 +37,11 @@ For reference, true lemons (Eureka, Lisbon) are damaged around 26°F, while lime
 
 ## How should I grow citrus in containers?
 
-Container growing is the most reliable method in cold climates, allowing you to move trees indoors or to shelter during winter.
+[[container-growing-vegetables-herbs]] is the most reliable method in cold climates, allowing you to move trees indoors or to shelter during winter.
 
 **Pot sizes:** Start with a 5-gallon pot for a 1–2 year tree. Gradually step up to a 15–20 gallon pot for mature specimens. Larger pots hold more moisture but are harder to move.
 
-**Soil mix:** Use a well-draining, slightly acidic mix: 40% high-quality potting soil, 30% perlite or pumice, 20% pine bark fines, and 10% compost or worm castings. Avoid garden soil—it compacts and promotes root rot.
+**Soil mix:** Use a well-draining, slightly acidic mix: 40% high-quality potting soil, 30% perlite or pumice, 20% pine bark fines, and 10% compost or [[ingham-vermicompost-worm-castings]]. Avoid garden soil—it compacts and promotes root rot.
 
 **Root pruning:** Every 2–3 years, remove the tree from its pot in early spring and prune away 1–2 inches of the outer root ball. Repot with fresh mix. This controls size and rejuvenates the root system without needing ever-larger pots.
 

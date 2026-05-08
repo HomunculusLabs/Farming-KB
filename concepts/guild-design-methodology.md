@@ -102,12 +102,12 @@ Every designer and gardener can plan such guilds for specific target species, sp
 
 ## Guilds in Permaculture Design
 
-When we design plant guilds, as we always try to do in a polyculture, we try to maximise the benefits of each species to the others. We can also add factors of convenience to ourselves, or which save us inputs of fertiliser or pesticides. The assembly of beneficial and cooperative guilds is central to [[permaculture-design-methods]], while guilds are one manifestation of the [[complexity-and-connections]] that make polycultural systems stable and productive.
+When we design plant guilds, as we always try to do in a polyculture, we try to maximise the benefits of each species to the others. We can also add factors of convenience to ourselves, or which save us inputs of fertiliser or pesticides. The assembly of beneficial and cooperative guilds is central to [[permaculture-design]], while guilds are one manifestation of the [[complexity-and-connections]] that make polycultural systems stable and productive.
 
 ## See Also
 
 - [[complexity-and-connections]] -- theory behind guild complexity
-- [[permaculture-design-methods]] -- design processes using guilds
+- [[permaculture-design]] -- design processes using guilds
 - [[permitted-vs-forced-functions]] -- function analysis
 - [[edge-effect-and-microclimate]] -- edge effects in guild placement
 - [[succession-in-permaculture]] -- guilds evolve through succession

@@ -124,7 +124,7 @@ No serious adverse interactions with pharmaceuticals have been documented, but t
 ## See Also
 
 - [[chemdawg]] — Parent lineage, one of the most influential modern cannabis strains
-- [[chemdawg-entity]] — Detailed entity page for the Chemdawg genetic line
+- [[chemdawg-cannabis]] — Detailed entity page for the Chemdawg genetic line
 - [[sour-diesel]] — Related diesel-aroma strain from overlapping breeding circles
 - [[og-kush]] — Another foundational strain with Chemdawg genetic contributions
 - [[e-beta-caryophyllene-bcp]] — Primary terpene in Stardawg, a CB2 receptor agonist

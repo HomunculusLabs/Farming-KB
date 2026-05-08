@@ -26,7 +26,7 @@ Defined traditionally by the presence of a single posteriorly inserted smooth fl
 
 ### Zygomycota
 
-A group of more than 1,000 species defined by the presence of a meiospore (zygospore) and absence of a flagellum. As currently defined, zygomycetes are polyphyletic — they do not form a natural evolutionary group. Major orders include Mucorales, Entomophthorales, and Trichomycetes. Some genera like Basidiobolus have uncertain phylogenetic placement. The coenocytic mycelium and formation of zygospores through sexual reproduction characterize this diverse group. See [[zygomycete-phylum-guide]] for expanded treatment.
+A group of more than 1,000 species defined by the presence of a meiospore (zygospore) and absence of a flagellum. As currently defined, zygomycetes are polyphyletic — they do not form a natural evolutionary group. Major orders include Mucorales, Entomophthorales, and Trichomycetes. Some genera like Basidiobolus have uncertain phylogenetic placement. The coenocytic mycelium and formation of zygospores through sexual reproduction characterize this diverse group. See zygomycete phylum guide for expanded treatment.
 
 ### Ascomycota
 
@@ -91,7 +91,7 @@ The tension between classification stability and phylogenetic accuracy continues
 - [[chytrid-fungi-guide]] — detailed chytrid treatment
 - [[ascomycete-phylum-guide]] — ascomycete classification
 - [[basidiomycete-phylum-guide]] — basidiomycete classification
-- [[zygomycete-phylum-guide]] — zygomycete diversity
+- zygomycete phylum guide — zygomycete diversity
 - [[oomycetes-water-molds]] — Oomycota and water molds
 - [[myxomycetes-slime-molds]] — slime mold diversity
 - [[fungal-evolution]] — evolutionary patterns across the kingdom

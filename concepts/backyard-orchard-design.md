@@ -70,7 +70,7 @@ Most fruit trees require cross-pollination from a different variety that blooms 
 - Peaches: mostly self-fertile (one tree is sufficient)
 - Plums: Japanese plums need cross-pollination; European plums are mostly self-fertile
 - Apricots: mostly self-fertile but set better with a partner
-- See [[stone-fruit-tree-care]] for detailed pollination requirements
+- See stone fruit tree care for detailed pollination requirements
 ### Pollination Distance
 - Trees should be within 50-100 feet of each other for reliable cross-pollination
 - Bees travel further but pollen viability decreases with distance
@@ -146,6 +146,5 @@ The space beneath and between fruit trees can be productive if designed carefull
 
 - [[amelanchier-alnifolia]]
 - [[apple-tree-care]] for detailed apple tree management
-- [[stone-fruit-tree-care]] for peach, plum, and cherry care
+- stone fruit tree care for peach, plum, and cherry care
 - [[food-forest-design]] for integrating orchard trees into a perennial polyculture
-- [[seasonal-gardening-calendar]] for seasonal orchard tasks

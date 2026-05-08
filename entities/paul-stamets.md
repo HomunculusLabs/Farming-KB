@@ -146,6 +146,5 @@ His TED talk and media appearances have made him the most recognized mycologist 
 
 - [[mycoremediation]] — environmental cleanup using fungi
 - [[pleurotus-ostreatus]] — oyster mushroom, key species in Stamets' work
-- [[psilocybin]] — psychedelic compound Stamets has researched and advocated for
+- [[psilocybin-compound]] — psychedelic compound Stamets has researched and advocated for
 - [[laricifomes-officinalis]] — Agarikon, the rare old-growth polypore
-- [[mycorrhizal-networks]] — underground fungal communication systems

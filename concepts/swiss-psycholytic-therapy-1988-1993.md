@@ -113,4 +113,4 @@ Gartz predicted that psilocybin would stand out as "the most valuable and benefi
 - [[psilocybin-toxicity-and-safety-profile]] -- Safety data supporting clinical use
 - [[lsd-history]] -- The primary substance used in terminal patient treatment
 - [[timothy-leary-harvard-psilocybin-experiments]] -- Earlier American research
-- [[psychedelic-assisted-therapy-protocol]] -- Modern protocols
+- psychedelic assisted therapy protocol -- Modern protocols

@@ -122,6 +122,6 @@ The systematic study of tryptamine N-oxides is an area of growing interest in ps
 - [[dimethyltryptamine]] — the parent compound and metabolic precursor
 - [[tryptamine]] — the base scaffold
 - [[psilocin]] — the 4-hydroxylated analog with psychedelic activity
-- [[psilocybin]] — the phosphorylated prodrug of psilocin
+- [[psilocybin-compound]] — the phosphorylated prodrug of psilocin
 - [[serotonin]] — the endogenous indoleamine neurotransmitter
 - [[bufotenin-entity-tihkal]] — the 5-hydroxylated analog of DMT

@@ -131,5 +131,5 @@ After harvest, quality can be monitored by:
 - [[cannabis-ice-water-extraction]]
 - [[cannabis-yield-optimization]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[cannabis-hash-making-from-extracted-oil]]

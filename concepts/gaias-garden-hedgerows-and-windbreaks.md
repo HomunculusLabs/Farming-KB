@@ -116,7 +116,7 @@ habitat patches across the landscape, allowing birds, insects, and
 small mammals to move safely between areas. This connectivity is
 essential for maintaining healthy wildlife populations.
 
-Hedgerows also connect to [[gaias-garden-edge-effect]] principles.
+Hedgerows also connect to gaias garden edge effect principles.
 The edge between a hedgerow and the adjacent garden or lawn creates a
 zone of increased diversity and productivity. Plants at the hedgerow
 margin receive different light, moisture, and nutrient conditions than
@@ -135,5 +135,5 @@ a cornerstone of [[gaias-garden-urban-permaculture-design]] and
 - [[gaias-garden-microclimates]]
 - [[gaias-garden-beneficial-birds-wildlife]]
 - [[gaias-garden-multipurpose-plants]]
-- [[gaias-garden-edge-effect]]
+- gaias garden edge effect
 - [[ecological-gardening-principles]]

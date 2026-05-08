@@ -25,7 +25,7 @@ created: 2026-05-03
 
 # Cowpea vs Mung Bean
 
-Cowpea (*Vigna unguiculata*) and mung bean (*Vigna radiata*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers choose the right species for their context.
+Cowpea (*[[vigna-unguiculata]]*) and mung bean (*[[vigna-radiata]]*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers choose the right species for their context.
 
 ## Taxonomy and Origin
 
@@ -37,7 +37,7 @@ Cowpea (*Vigna unguiculata*) and mung bean (*Vigna radiata*) are two warm-season
 | **Primary Gene Pool** | Sub-Saharan Africa | Indian subcontinent |
 | **Wild Progenitor** | *V. unguiculata* ssp. *dekindtiana* | *V. radiata* var. *sublobata* |
 
-Both species belong to the *Vigna* genus (subgenus *Ceratotropis*), which is distinct from Old World beans (*Phaseolus*) and New World beans (*Phaseolus vulgaris*). Their shared genus gives them similar plant architecture and growth habits, but they evolved under very different selection pressures — cowpea under Sahelian drought and heat, mung bean under monsoonal warm-season rainfall.
+Both species belong to the *Vigna* genus (subgenus *Ceratotropis*), which is distinct from Old World beans (*Phaseolus*) and New World beans (*[[phaseolus-vulgaris]]*). Their shared genus gives them similar plant architecture and growth habits, but they evolved under very different selection pressures — cowpea under Sahelian drought and heat, mung bean under monsoonal warm-season rainfall.
 
 ## Growth Habit and Morphology
 
@@ -141,30 +141,6 @@ Both species are highly susceptible to bruchid beetle (*Callosobruchus* spp.) da
 - **Cold storage**: Where available, the most effective method
 
 Mung bean's smaller seed size makes it slightly more vulnerable to rapid infestation, as beetles can damage a larger proportion of the seed mass. Proper drying and hermetic storage are essential for both crops.
-
-## When to Choose Cowpea
-
-- **Arid and semi-arid environments** with unreliable rainfall (300–500 mm)
-- **Hot climates** with temperatures regularly exceeding 35°C
-- **Poor, sandy, or low-fertility soils** where other legumes struggle
-- **Intercropping with cereals** (cowpea's shade tolerance and climbing types are advantageous)
-- **Dual-purpose systems** requiring both grain and fodder
-- **West African, Sahelian, or Caribbean food systems** aligned with local cuisine
-- **No access to inoculant** (cowpea's promiscuous nodulation ensures reliable N fixation)
-
-## When to Choose Mung Bean
-
-- **Subhumid to humid tropical environments** with 500–1,200 mm rainfall
-- **Short-season windows** between other crops (55–90 day maturity)
-- **Sprout production** as a primary market or home-use goal
-- **South/Southeast Asian cuisine** where mung dal and glass noodles are staples
-- **Double or triple cropping systems** where rapid turnaround is essential
-- **Gluten-free flour production** for baking applications
-- **Areas where bruchid-resistant varieties** are available (active breeding programs in India, Australia, and Myanmar)
-
-## Conclusion
-
-Cowpea and mung bean are complementary rather than competing species. Cowpea is the rugged survivor — adapted to extreme heat, drought, and poor soils, providing reliable yields where few other crops can. Mung bean is the quick specialist — a fast-maturing, high-quality pulse that excels in environments with adequate moisture and shorter growing windows. In tropical homesteads and permaculture systems, growing both species across different seasons and microclimates maximizes protein production, soil health benefits, and dietary diversity throughout the year.
 
 ## See Also
 

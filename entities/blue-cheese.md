@@ -129,6 +129,6 @@ headache on comedown. Contraindicated for daytime use in most contexts.
 ## See Also
 
 - [[og-kush]] — classic indica-dominant with overlapping sedative effects
-- [[blue-dream]] — Blueberry lineage cousin with sativa-dominant profile
+- [[cannabis-blue-dream]] — Blueberry lineage cousin with sativa-dominant profile
 - [[skunk-1]] — ancestor of the Cheese line
 - [[girl-scout-cookies]] — contemporary high-THC strain with pungent aroma

@@ -111,7 +111,7 @@ Some foragers collect young specimens for soups and stews, where prolonged cooki
 - [[laccaria-bicolor]] — Closely related ectomycorrhizal Laccaria species
 - [[laccaria-laccata]] — The type species of the genus
 - [[laccaria-proxima]] — Western North American counterpart
-- [[boletus-edulis]] — Co-occurring ectomycorrhizal edible fungus
+- [[boletus-edulis-entity]] — Co-occurring ectomycorrhizal edible fungus
 - [[mycorrhiza]] — Overview of mycorrhizal symbiosis
 - [[ectomycorrhiza]] — Detail on ectomycorrhizal associations
 - [[russula-emetica]] — Another colorful ectomycorrhizal genus

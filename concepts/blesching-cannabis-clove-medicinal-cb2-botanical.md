@@ -82,5 +82,5 @@ While clove has an excellent safety profile as a culinary spice used worldwide f
 ## See Also
 
 - [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] for the broader spice CB2 framework
-- [[blesching-cannabis-turmeric-curcumin-antiviral-anticancer-adjunct]] for curcumin as another food-based antiviral
+- [[cannabis-indoor-growing-guide]] for curcumin as another food-based antiviral
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for synergistic compound interactions

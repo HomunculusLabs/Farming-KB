@@ -101,4 +101,4 @@ Agroforestry approaches that combine pine trees with matsutake production repres
 
 - [[wild-mushroom-harvest-sustainability]]
 
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]

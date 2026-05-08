@@ -4,118 +4,129 @@ type: species
 tags:
   - lamiaceae
   - culinary-herb
-  - medicinal-plant
+  - medicinal-herb
   - essential-oil
-  - aromatic
-  - mediterranean
-date: 2026-04-28
-updated: 2026-04-28
+  - antimicrobial
+  - traditional-medicine
+date: 2026-05-08
+updated: 2026-05-08
 sources:
-  - Stahl-Biskup, E. & Saez, F. (2002). "Thyme: The Genus Thymus." Medicinal and Aromatic Plants—Industrial Profiles, Taylor & Francis.
-  - Zarzuelo, A. & Crespo, E. (2002). "The medicinal and non-medicinal uses of thyme." In: Thyme: The Genus Thymus, pp. 145-167.
-  - Mockute, D. et al. (2005). "Variation of the essential oil composition of Thymus vulgaris." Chemija 16(1): 23-28.
-  - Miura, K. et al. (2002). "Antibacterial activity of thyme essential oil." Journal of Applied Microbiology 93(2): 261-268.
-created: 2026-04-28
+  - Stahl-Biskup, E. & Saez, F. (2002). "Thyme: The Genus Thymus." Taylor & Francis.
+  - Cornara, L. et al. (2018). "Thymus vulgaris L. as a source of bioactive molecules." Evidence-Based Complementary and Alternative Medicine.
+  - Baser, K.H.C. & Demirci, B. (2007). "Chemistry of the genus Thymus — a review." Flavour and Fragrance Journal.
+  - European Medicines Agency (2013). "Assessment report on Thymus vulgaris L., Thymus zygis L." EMA/HMPC/1371/2009.
+  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers.
 ---
 
 ## Overview
 
-Thymus vulgaris, commonly known as common thyme or garden thyme, is a woody-based perennial herb in the family Lamiaceae. Native to the Mediterranean basin, thyme has been cultivated for over 5,000 years as both a culinary herb and a medicinal plant.
+**Thymus vulgaris** L., commonly known as common thyme or garden thyme, is an aromatic perennial subshrub in the family Lamiaceae.
 
-The species is one of the most commercially important aromatic herbs globally, with essential oil production exceeding 2,000 metric tons annually. Spain, France, and Morocco are the leading producers. Thyme's distinctive flavor and aroma, derived primarily from the phenolic monoterpene thymol, make it indispensable in Mediterranean, Middle Eastern, and European cuisines.
+Native to the Mediterranean basin, it is one of the most widely cultivated culinary herbs in the world.
 
-The ancient Egyptians used thyme in embalming, while Greeks burned it as incense in temples and added it to bathwater for its purifying properties. Roman soldiers reportedly soaked in thyme-infused baths before battle, believing the herb conferred courage and strength. This association with bravery persisted through the medieval period, when knights received sprigs of thyme from their ladies before tournaments.
+The species is commercially valued for its essential oil, which contains thymol and carvacrol — potent antimicrobial compounds with applications in pharmaceuticals, food preservation, and oral care.
 
-## Taxonomy
+Thyme has been used medicinally since antiquity, documented by Dioscorides, Pliny the Elder, and in medieval herbal compendia.
 
-Kingdom: Plantae
+## Taxonomy and Morphology
 
-Division: Magnoliophyta
+**Classification:** Kingdom Plantae → Angiosperms → Eudicots → Asterids → Order Lamiales → Family Lamiaceae → Subfamily Nepetoideae → Tribe Mentheae → Genus *Thymus* → Species *T. vulgaris*.
 
-Class: Magnoliopsida
+**Authority:** Carl Linnaeus, *Species Plantarum* (1753).
 
-Order: Lamiales
+The plant forms a compact woody-based subshrub 15–30 cm tall with a spreading habit.
 
-Family: Lamiaceae
+Stems are woody at the base, herbaceous above, and densely covered with fine whitish hairs.
 
-Genus: Thymus
+Leaves are opposite, sessile, linear to lanceolate, 4–12 mm long and 1–4 mm wide.
 
-Species: T. vulgaris L.
+Leaf margins are entire or slightly revolute, with the upper surface green and the underside grayish-tomentose.
 
-The genus Thymus comprises approximately 350 species of aromatic perennial herbs and subshrubs.
+Oil glands are visible as translucent dots on the leaf surface when held to light.
 
-T. vulgaris is the type species of the genus and the most widely cultivated member. The generic name derives from the Greek "thymon," meaning "to fumigate" or "to offer as incense," reflecting the ancient practice of burning thyme as ritual purification. Several subspecies and varieties have been described, though taxonomic boundaries within the genus remain contentious due to frequent hybridization and polyploidy.
+Flowers are arranged in terminal, capitate whorls subtended by leaf-like bracts.
 
-## Morphology
+The calyx is tubular, 3–4 mm long, bilabiate with the upper lip 3-toothed and the lower lip 2-toothed.
 
-T. vulgaris is a low-growing, woody-based subshrub reaching 15 to 30 cm in height. The stems are slender, wiry, and procumbent at the base with ascending flowering shoots. Older stems become woody and brown, while new growth is green and herbaceous.
+Corolla is pink to purple, 5–7 mm long, with a short tube and bilabiate limb; flowering occurs May–August.
 
-Plants typically form dense cushions or mounds 20 to 40 cm in diameter, with a compact, bushy habit when grown in full sun. In shaded conditions, the habit becomes more open and leggy, with reduced flowering and lower essential oil content. Regular harvesting encourages lateral branching and maintains a compact growth form.
-
-Leaves are opposite, sessile, elliptic to lanceolate, 4 to 12 mm long and 1 to 4 mm wide.
-
-Leaf margins are entire and often revolute, with the abaxial surface covered in dense glandular trichomes that produce the essential oil. The adaxial surface is glabrous to sparsely pubescent and dark green. Leaf size and oil gland density vary significantly between chemotypes and are influenced by environmental factors including light intensity, water availability, and soil mineral content.
-
-Flowers are arranged in whorled terminal heads or elongated spikes. Individual flowers are bilabiate, 4 to 6 mm long, with a pink to lilac corolla and a calyx that is tubular and hairy. The upper lip is notched and the lower lip has three lobes of approximately equal size. Flowering occurs from late spring through mid-summer.
-
-The root system is fibrous and relatively shallow, extending 15 to 25 cm below the soil surface. This shallow root system makes thyme susceptible to waterlogging but well-adapted to thin, rocky soils where deeper-rooted species cannot establish. The plant's woody base acts as a persistent carbohydrate reserve, enabling regrowth after harvesting or grazing.
+Roots are fibrous and shallow, spreading horizontally from the woody crown.
 
 ## Distribution and Habitat
 
-T. vulgaris is native to the western Mediterranean region, including southern Europe (France, Spain, Italy, Greece) and North Africa (Morocco, Algeria, Tunisia). It has been widely naturalized in temperate regions worldwide and is cultivated commercially across Europe, North America, and parts of Asia.
+*T. vulgaris* is native to the western Mediterranean, including southern France, Spain, Italy, and the Balkan Peninsula.
 
-Naturalized populations in North America and Australia are primarily descended from European introductions dating to the colonial period. These populations often exhibit distinct chemotype profiles compared to their Mediterranean ancestors, reflecting adaptation to different soil and climatic conditions over several centuries of naturalization.
+It grows wild on dry, rocky slopes, limestone outcrops, and in garigue and maquis vegetation communities.
 
-In its native range, thyme colonizes dry, rocky, calcareous soils on hillsides, garrigue, and maquis vegetation. The species is highly drought-tolerant and thrives in full sun with well-drained, alkaline soils. It is found at elevations from sea level to 2,000 meters in Mediterranean mountain ranges.
+The species has been widely naturalized in temperate regions worldwide through cultivation escape.
 
-The species serves as an important nectar source for pollinators, particularly honey bees (Apis mellifera), which produce a highly prized monofloral thyme honey in Mediterranean regions. This honey commands premium prices due to its distinctive flavor, high antioxidant content, and limited geographic availability.
+Optimal growth occurs in well-drained, calcareous soils with full sun exposure.
 
-Thyme-derived honey typically contains measurable quantities of thymol and carvacrol, which contribute natural antimicrobial preservation properties. Studies have demonstrated that thyme honey retains antibacterial activity against pathogenic strains even after prolonged storage, making it valuable both as a food product and a wound-care adjunct in folk medicine traditions.
+It is drought-tolerant once established, requiring minimal irrigation in Mediterranean climates.
 
-## Bioactive Compounds and Pharmacology
+Hardiness ranges from USDA zones 5–9, though cold tolerance varies among cultivars.
 
-The essential oil of T. vulgaris contains 20 to 60 identified compounds, with six chemotypes recognized based on dominant constituents: thymol, carvacrol, linalool, geraniol, α-terpineol, and trans-thuyanol.
+## Chemistry and Pharmacology
 
-Thymol (2-isopropyl-5-methylphenol) is the primary bioactive compound, comprising 20 to 55 percent of the essential oil depending on chemotype and growing conditions.
+The essential oil of *T. vulgaris* (0.8–2.5% v/w) is dominated by phenolic monoterpenes.
 
-Thymol demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria (MIC values of 0.06 to 0.5 mg/mL for Staphylococcus aureus) and fungi (Candida albicans MIC of 0.25 mg/mL). The compound acts by disrupting bacterial cell membrane integrity through integration into the lipid bilayer, increasing permeability and causing leakage of intracellular contents.
+Six chemotypes have been identified based on dominant essential oil constituents: thymol, carvacrol, linalool, geraniol, α-terpineol, and trans-thuyanol.
 
-Carvacrol, the second major phenolic monoterpene, contributes additional antimicrobial and anti-inflammatory activity. Rosmarinic acid, a caffeic acid ester present in the aqueous extract, exhibits potent antioxidant and anti-inflammatory properties through inhibition of COX-1, COX-2, and 5-LOX enzymes.
+The thymol chemotype is the most commercially significant, containing 30–55% thymol.
 
-Flavonoids identified in T. vulgaris include luteolin, apigenin, and naringenin, which contribute additional antioxidant and anti-allergic activity. The essential oil also contains significant quantities of p-cymene (5 to 15 percent), which acts synergistically with thymol to enhance membrane permeability and antimicrobial efficacy against bacterial targets.
+Thymol exhibits broad-spectrum antimicrobial activity against bacteria, fungi, and viruses.
 
-## Traditional and Modern Uses
+It disrupts microbial cell membranes and inhibits ergosterol biosynthesis in fungal pathogens.
 
-Thyme has been used medicinally since at least 3,000 BCE, with documented use in Egyptian embalming practices, Greek temple incense, and Roman bath infusions. Hippocrates recommended thyme for respiratory ailments, a use that persists in modern phytotherapy.
+Carvacrol shares similar antimicrobial mechanisms and demonstrates anti-inflammatory activity via NF-κB pathway inhibition.
 
-During the medieval period, thyme was a component of plague remedies and was strewn on floors to mask unpleasant odors. The herb was also placed in pillows to promote restful sleep and ward off nightmares, a folk tradition supported by the mild sedative activity of linalool-rich chemotypes.
+Rosmarinic acid and flavonoids (apigenin, luteolin, naringenin) contribute antioxidant capacity.
 
-In contemporary herbal medicine, thyme preparations are indicated for acute bronchitis, productive coughs, and upper respiratory tract infections. The German Commission E and European Medicines Agency have approved thyme herb preparations for these indications based on clinical evidence from multiple randomized controlled trials.
+The essential oil demonstrates expectorant, spasmolytic, and bronchodilatory effects in preclinical airway models.
 
-Topically, thyme oil is used in mouthwashes for gingivitis and in antiseptic wound dressings.
+Topical application shows wound-healing acceleration attributed to antimicrobial and anti-inflammatory properties.
 
-The oil's carminative properties make it useful for digestive discomfort and bloating. In aromatherapy, thyme essential oil is employed for its stimulating and expectorant effects. Culinary applications include use in bouquet garni, herbes de Provence, and za'atar blends, where it pairs well with lamb, poultry, tomatoes, and roasted vegetables.
+Oral thyme preparations are approved by ESCOP for cough and bronchitis, and by the German Commission E for respiratory catarrh.
+
+## Culinary Use
+
+Thyme is a fundamental herb in Mediterranean, French, and Middle Eastern cuisines.
+
+It pairs well with roasted meats, poultry, vegetables, soups, stews, and tomato-based sauces.
+
+The herb is a component of the French *herbes de Provence* blend and the Middle Eastern *za'atar* mixture.
+
+Dried thyme retains flavor well and is often preferred to fresh in slow-cooked dishes.
+
+Leaves can be stripped from woody stems for use, or whole sprigs added and removed before serving.
+
+Flowering tops are used to make thyme honey, a prized monofloral honey in Mediterranean beekeeping.
+
+Bouquet garni — a bundle of thyme, bay leaf, and parsley — is a standard flavoring base in French cooking.
 
 ## Cultivation
 
-Commercial thyme is propagated by seed, cuttings, or division. Seed-grown plants exhibit significant genetic variation in essential oil composition, so clonal propagation by stem cuttings is preferred for consistent chemotype production.
+Commercial propagation is primarily by seed, cuttings, or division of established plants.
 
-Softwood cuttings taken in spring root readily under mist propagation with rooting hormone, achieving 80 to 95 percent success rates. Hardwood cuttings from established plants can be taken in autumn. Tissue culture micropropagation is used commercially for large-scale production of elite chemotype selections, with protocols achieving rapid multiplication rates and high genetic fidelity.
+Seed germination is slow and uneven (14–28 days at 20°C); stratification at 4°C for 2 weeks improves uniformity.
 
-Plants require full sun exposure and well-drained soil with pH 6.0 to 8.0.
+Softwood cuttings taken in summer root readily under mist propagation within 3–4 weeks.
 
-Irrigation requirements are low once established, with deep watering needed only during prolonged drought. Nitrogen fertilization should be minimal, as excess nitrogen reduces essential oil concentration and promotes lush vegetative growth at the expense of flowering. Phosphorus and potassium applications improve oil quality and root development respectively.
+Plants are spaced 20–30 cm apart in rows 40–60 cm wide in well-drained soils.
 
-Harvest occurs during full flowering when essential oil content peaks at 1.5 to 3.0 percent of dry weight. Fresh herb yields are typically 8 to 15 metric tons per hectare. Post-harvest drying at 35 to 40°C preserves the essential oil profile, with dried herb retaining 80 to 90 percent of the volatile oil content of fresh material.
+Harvesting occurs just before or during flowering when essential oil concentration peaks.
 
-The commercial lifespan of a thyme planting is 4 to 7 years before productivity declines and replanting is required. Intercropping with legumes can improve soil nitrogen availability and extend the productive lifespan. Organic certification is common for commercial thyme operations, as the species requires minimal synthetic inputs when grown in appropriate climates.
+Yield of dried herb ranges from 1.5–3 tonnes per hectare; essential oil yield is 15–40 kg/ha.
+
+The species is susceptible to root rot in poorly drained soils and Botrytis infections under humid conditions.
 
 ## See Also
 
 - [[lavandula-angustifolia]]
-- [[mentha-piperita]]
+- [[melissa-officinalis]]
 - [[ocimum-basilicum]]
 - [[origanum-vulgare]]
 - [[rosmarinus-officinalis]]
 - [[salvia-officinalis]]
-- [[melissa-officinalis]]
+- [[scutellaria-baicalensis]]
+- [[verbena-officinalis]]

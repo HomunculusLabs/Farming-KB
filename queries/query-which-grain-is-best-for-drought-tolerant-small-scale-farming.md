@@ -25,7 +25,7 @@ For most small-scale farmers in water-limited regions, **pearl millet** is the s
 
 ## Grain-by-Grain Profiles
 
-### Pearl Millet (*Pennisetum glaucum*)
+### Pearl Millet (*[[pennisetum-glaucum]]*)
 
 The most drought-tolerant cereal on Earth. Pearl millet reliably produces grain where sorghum and maize fail.
 
@@ -37,7 +37,7 @@ The most drought-tolerant cereal on Earth. Pearl millet reliably produces grain 
 - **Processing difficulty:** Moderate — hulling needed but manageable with small hammer mills; see grain processing equipment
 - **Best fit:** Hot semi-arid regions with sandy soils; the default choice where rainfall is below 400 mm
 
-### Sorghum (*Sorghum bicolor*)
+### Sorghum (*[[sorghum-bicolor]]*)
 
 The second-most drought-tolerant major cereal. Extremely versatile — used for grain, syrup, fodder, and thatch.
 
@@ -49,7 +49,7 @@ The second-most drought-tolerant major cereal. Extremely versatile — used for 
 - **Processing difficulty:** Low to moderate — easy to thresh; requires dehulling for food-grade flour
 - **Best fit:** Semi-arid subtropics; dual-purpose (grain + fodder); see also [[permaculture-sorghum-guide]]
 
-### Finger Millet (*Eleusine coracana*)
+### Finger Millet (*[[eleusine-coracana]]*)
 
 A staple in East Africa and South Asia with exceptional nutritional density and reliable performance on marginal soils.
 
@@ -61,7 +61,7 @@ A staple in East Africa and South Asia with exceptional nutritional density and 
 - **Processing difficulty:** Moderate — tiny grains require specialized dehulling or pounding; see finger millet processing
 - **Best fit:** Subtropical highlands; farmers prioritizing nutritional output over sheer yield
 
-### Foxtail Millet (*Setaria italica*)
+### Foxtail Millet (*[[setaria-italica]]*)
 
 One of the oldest cultivated grains. Extremely fast-maturing and well-suited to short rainy seasons.
 
@@ -85,7 +85,7 @@ A pseudo-cereal with the highest protein quality of any grain crop. Grown for bo
 - **Processing difficulty:** High — tiny seeds require careful winnowing and specialized equipment; see amaranth processing guide
 - **Best fit:** Farmers seeking maximum nutritional value per hectare; willing to invest in processing
 
-### Quinoa (*Chenopodium quinoa*)
+### Quinoa (*[[chenopodium-quinoa]]*)
 
 Famous for nutrition but more demanding than often advertised. Best suited to cool dry conditions, not true desert.
 
@@ -135,28 +135,6 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 **Sorghum** or **pearl millet** depending on your exact rainfall. Sorghum gives higher yields and better fodder at the upper end. Consider a pearl millet–sorghum rotation.
 
 ### Short Rainy Season / Double Cropping
-**Foxtail millet** matures in as little as 60 days, allowing harvest before rains stop entirely or fitting a second crop into the season.
-
-### Subtropical Highlands (moderate rainfall, cooler nights)
-**Finger millet** excels here, especially for nutrition-focused farms. Teff is also viable if you can manage the processing challenges.
-
-### Cool Dryland / Temperate Marginal (400–550 mm, cold winters)
-**Heritage wheat or barley landraces** are practical here — better climate match than tropical millets, and processing infrastructure exists in most temperate regions.
-
-### Maximum Nutrition Per Drop of Water
-**Amaranth** delivers the highest protein quality and density per unit of water. The processing challenge is real, but for a homestead feeding a family nutritionally, the tradeoff is worth it.
-
-### Niche Market + Dryland Conditions
-**Quinoa** (if cool enough) or **teff** (if highland) can command premium prices — but secure market access before committing.
-
-## Key Principles for Drought-Grain Success
-
-1. **Match maturity length to your rainy season.** A 120-day variety in a 90-day rainy season is a guaranteed loss.
-2. **Focus on establishment.** Most drought-tolerant grains are drought-hardy *after* establishment. Ensure adequate soil moisture at planting.
-3. **Diversify.** Plant two grain species rather than betting on one — pearl millet + foxtail millet, or sorghum + finger millet spreads risk.
-4. **Invest in processing early.** The biggest bottleneck isn't growing alternative grains — it's processing them. See [[grain-harvesting-and-storage]] and small scale milling options.
-5. **Save seed.** Drought years produce the most resilient seed. Select from the best-performing plants each season. See seed saving for grains.
-
 ## Related Pages
 
 - semi arid grain systems · [[permaculture-sorghum-guide]] · grain processing equipment

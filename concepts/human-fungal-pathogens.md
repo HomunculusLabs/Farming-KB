@@ -132,39 +132,6 @@ when flagellated zoospores in water contact skin wounds.
 The zoospores settle, retract their flagella, secrete adhesive, and
 push invasive hyphae into the tissue. Human cases are most common in
 Thailand and other Asian countries.
-Treatment is extremely challenging because *Pythium* lacks ergosterol
-in its membranes, rendering standard antifungal drugs ineffective.
-Surgical debridement is the primary treatment, and immunotherapy with
-vaccines developed by Leonel Mendoza at Michigan State University has
-shown promise.
-The disease has likely existed for hundreds of millions of years, with
-the pathogen possibly consuming prehistoric animals long before the
-appearance of mammals.
-
-## Histoplasmosis
-
-Histoplasmosis (Ohio Valley disease) is caused by *Histoplasma
-capsulatum*, another fungus associated with bird droppings and
-starling roosts. Most people in endemic areas have been colonized,
-typically without symptoms.
-The fungus forms calcified nodules in the lungs, but can reactivate
-and disseminate to any tissue in immunocompromised patients. Its
-sexual stage, *Ajellomyces*, was also discovered by Kwon-Chung,
-adding to her remarkable contributions to medical mycology.
-
-## Broader Evolutionary Perspective
-
-The broad host ranges of many fungal pathogens argue for lengthy
-evolutionary histories. *Cryptococcus* infections have been reported
-in bats, camels, cats, cheetahs, dolphins, ferrets, horses, koalas,
-and many other species.
-The "corpse finder" fungus (*Hebeloma syriense*) colonizes buried
-bodies, and its fruiting bodies can serve as forensic evidence.
-This deep evolutionary context suggests that fungi we consider
-opportunistic human pathogens may in fact be ancient parasites whose
-relationships with animal hosts far predate the appearance of Homo
-sapiens.
-
 ## Related Topics
 
 - [[hyphal-biology-and-turgor-pressure]]

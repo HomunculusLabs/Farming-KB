@@ -140,26 +140,6 @@ from reality, and amnesia. This contrasts sharply with the generally lucid,
 visually rich, and introspective nature of the classic hallucinogen experience.
 
 ## Psilocybin and Serotonin Structural Relationship
-
-Psilocin and psilocybin closely resemble serotonin (5-hydroxytryptamine, 5-HT)
-in molecular structure, differing primarily by the presence of N,N-dimethyl
-substitution on the ethylamine side chain and the 4-hydroxy or
-4-phosphoryloxy substituent on the indole ring. This structural similarity
-underlies their mechanism of action: psilocin acts as a 5-HT2A post-synaptic
-agonist or partial agonist, interfering with normal serotonergic
-neurotransmission. The hallucinogenic effect of magic mushrooms is thought to
-result from this serotonergic interference, a mechanism potentially shared with
-LSD and other classical hallucinogens.
-
-## Regulatory Implications of Classification
-
-The chemical classification of hallucinogens has practical consequences for drug
-scheduling and legal control. In the European Union, psilocybin and
-psilocin-containing fungi were progressively brought under narcotics legislation
-during the 2000s. The complexity of hallucinogen classification, spanning
-multiple chemical families with varying legal statuses, creates challenges for
-consistent regulatory responses across jurisdictions.
-
 ## See Also
 
 - [[savory-solar-dollars-and-wealth-classification]]

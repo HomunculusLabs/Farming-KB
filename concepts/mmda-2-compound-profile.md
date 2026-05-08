@@ -27,7 +27,7 @@ sources:
 | **Strong dose** | 50+ mg |
 | **Duration** | 8-12 hours |
 
-MMDA-2 is roughly a third more potent than MMDA, with a similar long duration profile. The experience tends toward more visual content compared to MMDA's dreamlike character. Subjects consistently report that the onset is remarkably gradual — one described it as a "slow-on, slow-off" experience that unfolds over 90 minutes or more, unlike the relatively abrupt onset characteristic of compounds like [[mda-compound-profile]] or [[tma-2-compound-profile]]. This slow onset, while reducing anxiety for some users, means that impatience can lead to dangerous redosing before the full effects are apparent.
+MMDA-2 is roughly a third more potent than MMDA, with a similar long duration profile. The experience tends toward more visual content compared to MMDA's dreamlike character. Subjects consistently report that the onset is remarkably gradual — one described it as a "slow-on, slow-off" experience that unfolds over 90 minutes or more, unlike the relatively abrupt onset characteristic of compounds like [[ayahuasca-and-dmt-plant-medicine]] or [[tma-2-compound-profile]]. This slow onset, while reducing anxiety for some users, means that impatience can lead to dangerous redosing before the full effects are apparent.
 
 ## Qualitative Effects (from PIHKAL #133)
 
@@ -57,7 +57,7 @@ MMDA-2 corresponds to one of the ten Essential Amphetamines described by Shulgin
 
 ## Extensions and Commentary
 
-A comparison of MMDA-2 to [[mda-compound-profile]] was often made by subjects familiar with both. The structural resemblance is clear: the complete MDA molecule with the addition of a methoxy group. One property shared with MDA is the broad variety of opinions as to the quality of its action -- some like it much, and some like it not at all. This variability in subjective response is a hallmark of many substituted amphetamines and may reflect genetic differences in metabolic enzyme activity, individual variations in 5-HT2A receptor density or binding affinity, or differences in set and setting that amplify or attenuate specific aspects of the drug experience.
+A comparison of MMDA-2 to [[ayahuasca-and-dmt-plant-medicine]] was often made by subjects familiar with both. The structural resemblance is clear: the complete MDA molecule with the addition of a methoxy group. One property shared with MDA is the broad variety of opinions as to the quality of its action -- some like it much, and some like it not at all. This variability in subjective response is a hallmark of many substituted amphetamines and may reflect genetic differences in metabolic enzyme activity, individual variations in 5-HT2A receptor density or binding affinity, or differences in set and setting that amplify or attenuate specific aspects of the drug experience.
 
 The phenethylamine analog of MMDA-2 (2C-2, 2-methoxy-4,5-methylenedioxyphenethylamine HCl, mp 218-219 deg C) showed no effects at up to 2.6 milligrams, but no higher trials were made. This result is consistent with the general finding that the phenethylamine versions of active amphetamines tend to be significantly less potent or inactive, reflecting the importance of the alpha-methyl group for 5-HT2A receptor binding in this chemical series. The 4-carbon homologue (4C-2) was also synthesized but never tasted, leaving its pharmacological profile unexplored.
 
@@ -76,7 +76,7 @@ Understanding MMDA-2's place in the substituted amphetamine landscape requires c
 - **MMDA** ([[mmda-compound-profile]]): 3-methoxy-4,5-methylenedioxy; higher dose range (100-250 mg), dreamlike rather than visual character. MMDA occupies the position closest to MDA's substitution pattern, with the methoxy group adjacent to the methylenedioxy bridge.
 - **MMDA-3a**: 2-methoxy-3,4-methylenedioxy; similar dose range to MMDA-2, from croweacin essential oil. The third positional isomer completes the set of possible methoxy-methylenedioxy orientations on the benzene ring.
 - **DMMDA** ([[dmmda-compound-profile]]): 2,5-dimethoxy-3,4-methylenedioxy; four ring substituents, 30-75 mg dose range. The additional methoxy group increases potency significantly compared to the tri-oxygenated MMDA series.
-- **MDA** ([[mda-compound-profile]]): Simple 3,4-methylenedioxy; more empathogenic, shorter duration (6-8 hours). MDA serves as the parent compound for the entire MMDA series, with each additional methoxy group modifying the character and duration of the experience.
+- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): Simple 3,4-methylenedioxy; more empathogenic, shorter duration (6-8 hours). MDA serves as the parent compound for the entire MMDA series, with each additional methoxy group modifying the character and duration of the experience.
 - **TMA-2** ([[tma-2-compound-profile]]): 2,4,5-trimethoxy; a core member of the TMA family that shares the 2,4,5 ring substitution pattern with MMDA-2 (where the 4,5 positions are connected by the methylenedioxy bridge rather than separate methoxy groups). The structural similarity produces overlapping effects, though MMDA-2 is generally considered to have a smoother experience profile.
 
 The systematic exploration of these positional isomers by Shulgin and his research group represents one of the most thorough structure-activity relationship studies ever conducted on psychoactive amphetamines. Each positional change produces a distinct psychoactive profile, demonstrating the remarkable sensitivity of the human serotonin system to subtle variations in molecular geometry.
@@ -85,13 +85,13 @@ The systematic exploration of these positional isomers by Shulgin and his resear
 
 The name MMDA-2 follows Shulgin's systematic numbering: "MMDA" stands for methoxy-methylenedioxy-amphetamine, and the "-2" indicates the second positional isomer of this substitution pattern. The compound was explored in the 1960s as part of the systematic study of methoxy-methylenedioxy amphetamines. See [[pihkal-introduction-and-methodology]] and [[synthetic-tryptamine-methods]].
 
-See also: [[mmda-compound-profile]], [[dmmda-compound-profile]], [[mda-compound-profile]], [[tma-2-compound-profile]], [[phenethylamine-chemistry-basics]]
+See also: [[mmda-compound-profile]], [[dmmda-compound-profile]], [[ayahuasca-and-dmt-plant-medicine]], [[tma-2-compound-profile]], [[phenethylamine-chemistry-basics]]
 
 ## Pharmacological Considerations
 
 MMDA-2's tetraoxygenated substitution pattern (two oxygens from the methylenedioxy bridge plus two methoxy groups) places it among the more heavily substituted amphetamines in terms of ring oxygenation. This high degree of substitution correlates with the extended duration of action, as the additional polar groups slow hepatic metabolism and extend the compound's plasma half-life. The 8-12 hour duration is notably longer than MDA's typical 6-8 hours and substantially longer than MDMA's 3-5 hours, reflecting the metabolic stability conferred by the extra methoxy group.
 
-The gastrointestinal effects reported at higher doses (abdominal cramping, flatulence, difficulty defecating) are consistent with 5-HT3 receptor activation in the enteric nervous system. Serotonin receptors are densely distributed throughout the gut, and compounds with significant serotonergic activity frequently produce nausea and GI discomfort. This pharmacological profile parallels that of other substituted amphetamines, though the intensity of GI symptoms with MMDA-2 appears unusually pronounced compared to [[mda-compound-profile]] at equivalent subjective intensity.
+The gastrointestinal effects reported at higher doses (abdominal cramping, flatulence, difficulty defecating) are consistent with 5-HT3 receptor activation in the enteric nervous system. Serotonin receptors are densely distributed throughout the gut, and compounds with significant serotonergic activity frequently produce nausea and GI discomfort. This pharmacological profile parallels that of other substituted amphetamines, though the intensity of GI symptoms with MMDA-2 appears unusually pronounced compared to [[ayahuasca-and-dmt-plant-medicine]] at equivalent subjective intensity.
 
 ## Analytical and Forensic Profile
 

@@ -9,11 +9,9 @@ sources:
 ---
 # JADAM Do As Nature Does Philosophy
 
-
 ## Overview
 
 "Do as nature does" (the Way resembles nature) is the first and foundational principle of JADAM organic farming. Drawn from Laozi's Dao De Jing (chapter 25), it teaches that the wisdom of farming is found by observing and emulating natural processes. Nature has been farming for billions of years with extraordinary success -- it is the ultimate teacher.
-
 
 ## The Philosophical Foundation
 
@@ -22,7 +20,6 @@ The Dao De Jing states: "The Way (Dao) resembles nature." JADAM extends this: "T
 Modern agriculture has completely excluded the "emotional" part of farming -- the love and communication between humans and plants. Agriculture has become a form of mechanics, where life is treated as if it were inanimate. Farmers entrust the fundamentals of their farming to so-called experts, just as sick people entrust their health to doctors.
 
 JADAM's response: learn from nature. Nature is millions of times older than any person and has trillions more experiences. "The greatest teaching and wisdom are in nature."
-
 
 ## Nature's Answers to Farming Problems
 
@@ -48,13 +45,11 @@ In nature, all microorganisms are beneficial -- diversity is the key. Wherever a
 
 Nature does not use rice bran or oil cakes. Soil beneath trees has dark leaf mold on top and coarse rock sediment below, where microbes break rock into mineral nutrients. The "secret" is combining organic matter from above with mineral diversity from below.
 
-
 ## The Commercialization Critique
 
 Modern organic farming has evolved into "buying expensive things from afar instead of valuing what is near and cheap." Manufacturers, distributors, and retailers shaped organic farming into its current expensive form. Their profit-seeking motivated the development of agricultural technology.
 
 Agricultural technology is becoming more complicated, not because it truly needs to be, but to scare farmers. When farming appears difficult, farmers give up trying to understand it and surrender control to experts and corporations. "Education, workshops, seminars, exhibitions and the like all make farmers more confused."
-
 
 ## Traditional Farming Wisdom
 
@@ -68,7 +63,6 @@ Korea has practiced organic farming for approximately 4,300 years (since the fou
 
 Franklin Hiram King, chief of the US Division of Soil Management, visited China, Korea, and Japan in 1909 and documented their permanent agriculture systems. He recognized these Asian nations as the true founders of organic farming and criticized European and American methods for destroying soil in less than 100 years.
 
-
 ## See Also
 
 - [[jadam-nature-as-teacher-philosophy]] -- expanded nature-as-teacher concept
@@ -79,7 +73,6 @@ Franklin Hiram King, chief of the US Division of Soil Management, visited China,
 - [[jadam-compost-free-approach]] -- nature's approach to fertilization
 - [[jadam-customized-microorganism-medium]] -- learning from leaf mold
 - [[jadam-cover-crop-method]] -- working with natural vegetation cycles
-
 
 ## Related
 

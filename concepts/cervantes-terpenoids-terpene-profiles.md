@@ -106,14 +106,14 @@ Terpenoid production is influenced by growing conditions. Warmer
 temperatures bring out more smell, which is associated with higher
 THCV concentrations. The [[cervantes-flowering-phase]] environment
 including temperature, light spectrum, and nutrient availability all
-affect the terpenoid profile. See [[cervantes-trichome-resin-production]] for details on how resin gland development correlates with
+affect the terpenoid profile. See [[cannabis-advanced-growing-techniques]] for details on how resin gland development correlates with
 terpenoid and cannabinoid production.
 
 ## Related Concepts
 
 - [[cervantes-cannabinoids-thc-cbd-chemistry]] - the cannabinoid
   companions to terpenoids in the entourage effect
-- [[cervantes-trichome-resin-production]] - glandular trichomes
+- [[cannabis-advanced-growing-techniques]] - glandular trichomes
   produce both terpenoids and cannabinoids
 - [[cervantes-harvest-timing-trichome-ripeness]] - harvest timing
   affects terpenoid maturity

@@ -40,7 +40,7 @@ The pharmacokinetics of DMT are unusual. When smoked or injected, the onset is w
 
 5-Methoxy-DMT (5-MeO-DMT), a closely related tryptamine found in the venom of the Bufo alvarius toad and in certain plant species, produces an even more intense but briefer experience than DMT itself. McKenna distinguished between the two compounds, noting that while DMT tends to produce richly detailed visionary landscapes populated with apparent entities, 5-MeO-DMT more often produces an experience of ego dissolution and unity consciousness — the "white light" experience described in mystical traditions across cultures.
 
-Psilocybin, the phosphorylated prodrug of psilocin, is found in over 200 species of mushrooms worldwide. Its effects are longer-lasting than DMT but still relatively brief (4-6 hours). McKenna considered psilocybin the most important of all the indole hallucinogens because of its role in his [[terence-mckenna-stoned-ape-hypothesis]].
+Psilocybin, the phosphorylated prodrug of psilocin, is found in over 200 species of mushrooms worldwide. Its effects are longer-lasting than DMT but still relatively brief (4-6 hours). McKenna considered psilocybin the most important of all the indole hallucinogens because of its role in his [[psychedelic-mushrooms-species-and-identification]].
 
 Psilocybin-containing mushrooms are found across every inhabited continent, from Psilocybe cubensis in tropical and subtropical regions to Psilocybe semilanceata in temperate grasslands of Europe and North America. This extraordinary biogeographic distribution suggests that human exposure to tryptamine hallucinogens has been widespread throughout our evolutionary history, a point McKenna used to support his argument for the deep coevolutionary relationship between humans and psychoactive fungi. Modern clinical research has confirmed psilocybin's therapeutic potential, with FDA-designated breakthrough therapy status for treatment-resistant depression as of 2018.
 
@@ -116,6 +116,6 @@ The four families framework also connects to contemporary research in pharmacolo
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[phenethylamine-tryptamine-comparison]]
 - [[mckenna-dmt-experience-and-hyperspace]]

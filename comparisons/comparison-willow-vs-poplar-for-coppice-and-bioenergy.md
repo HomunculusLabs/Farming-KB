@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview / Summary
 
-Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable woody biomass on relatively short rotations. Willow dominates in cooler, wetter climates (northern Europe, Scandinavia, UK) while poplar is favoured in continental climates with warmer summers and deeper, drier soils (central Europe, North America). Choosing between them depends primarily on site conditions, climate, end-use requirements, and the intended rotation length. This comparison covers the key agronomic, environmental, and economic factors that determine suitability.
+Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable [[coppice-and-pollard-systems-for-woody-biomass]] on relatively short rotations. Willow dominates in cooler, wetter climates (northern Europe, Scandinavia, UK) while poplar is favoured in continental climates with warmer summers and deeper, drier soils (central Europe, [[palmer-edible-mushrooms-north-america]]). Choosing between them depends primarily on site conditions, climate, end-use requirements, and the intended rotation length. This comparison covers the key agronomic, environmental, and economic factors that determine suitability.
 
 ## Growth Rate & Yield
 
@@ -21,7 +21,7 @@ Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely plante
 | Willow (Salix) | 8–12 | 10–15 (optimal sites) | 2–3 years |
 | Poplar (Populus) | 8–14 | 12–18 (optimal sites) | 3–4 years |
 
-Willow typically achieves harvestable biomass faster due to its lower initial stool height and rapid basal sprouting. Poplar, with a taller single-stem establishment phase, may produce higher absolute yields per hectare on well-drained, fertile sites. Both respond strongly to fertilisation, weed control, and adequate water supply.
+Willow typically achieves harvestable biomass faster due to its lower initial stool height and rapid basal sprouting. Poplar, with a taller single-stem establishment phase, may produce higher absolute yields per hectare on well-drained, fertile sites. Both respond strongly to fertilisation, [[hamilton-organic-weed-control]], and adequate [[mollison-designers-wind-energy-and-windmills-for-water-supply]].
 
 ## Establishment & Propagation
 
@@ -44,7 +44,7 @@ Willow is the clear choice for marginal, wet, or reclaimed land. Poplar excels o
 
 ## Coppice Rotation Lengths
 
-- **Willow:** 2–4 year rotations; most commonly 3-year cycles. Stools remain productive for 20–30 years with 7–10 harvest cycles before replanting is needed.
+- **Willow:** 2–4 year rotations; most commonly 3-[[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]. Stools remain productive for 20–30 years with 7–10 harvest cycles before replanting is needed.
 - **Poplar:** 3–5 year rotations (SRC); 8–15 year rotations for Short Rotation Forestry (SRF). Stools are productive for 15–25 years with 4–8 SRC harvests.
 
 Shorter willow rotations favour more frequent harvesting but smaller-diameter material. Poplar's longer rotations produce larger-diameter chips, preferred by some combustion and gasification systems.

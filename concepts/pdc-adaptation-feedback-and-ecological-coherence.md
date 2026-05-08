@@ -141,7 +141,7 @@ When feedback indicates that adjustment is needed, use this framework:
 1. Identify the specific problem or opportunity
 2. Understand the root cause (not just symptoms)
 3. Generate multiple possible responses
-4. Evaluate each response against [[permaculture-principle-obtain-a-yield]]s
+4. Evaluate each response against [[permaculture-design-principles]]s
 5. Choose the response that best addresses the root cause while maintaining ecological coherence
 6. Implement the change using small and slow solutions
 7. Monitor the results of the change

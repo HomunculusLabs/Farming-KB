@@ -450,3 +450,6 @@ Productive ecological design should not obscure ordinary water safety.
 - Freshwater fungi and aquatic fungal communities concept summaries in the LLM
   Wiki, 2026.
 - Duckweed. LLM Wiki concept page, 2026.
+## Water Plant Guide
+
+# Water Plant Guide Water plants provide direct food for humans and aquatic animals, and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups: 1. **Submerged Plants**: Roots act only as anchors; nutrients, CO2, and oxygen transfer over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria. ...

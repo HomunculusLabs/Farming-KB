@@ -78,7 +78,7 @@ The standard method for collecting myxomycetes from field substrates:
 
 ## Ecological Interactions
 
-Myxomycetes feed on bacteria and other microorganisms in the plasmodial stage, positioning them as important bacterial grazers in [[fungal-ecology-forest-floor]] communities. Their occurrence on dung also links them to [[coprophilous-fungi]] successional studies, where they typically appear late in the decomposition sequence, sometimes up to two months after substrate deposition. Their sensitivity to moisture and microhabitat conditions makes them potential bioindicators of ecosystem health.
+Myxomycetes feed on bacteria and other microorganisms in the plasmodial stage, positioning them as important bacterial grazers in [[the-soil-food-web]] communities. Their occurrence on dung also links them to [[coprophilous-fungi]] successional studies, where they typically appear late in the decomposition sequence, sometimes up to two months after substrate deposition. Their sensitivity to moisture and microhabitat conditions makes them potential bioindicators of ecosystem health.
 
 ## Related
 

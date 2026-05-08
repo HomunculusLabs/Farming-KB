@@ -148,4 +148,3 @@ before interest rekindles.
 ## See Also
 
 - [[stamets-psylo-dangers-mistaken-identification]]
-- [[stamets-psylo-field-collection-techniques]]

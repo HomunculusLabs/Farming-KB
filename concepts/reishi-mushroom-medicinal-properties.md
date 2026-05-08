@@ -93,12 +93,12 @@ The woody fruiting body of Reishi is too tough to eat directly and requires extr
 
 ## Market and Significance
 
-Annual worldwide value of G. lucidum products exceeds **US $1.6 billion**. It is one of the two major medicinal mushrooms (along with [[turkey-tail-mushroom-cancer-research]]) that are distinctly inedible in raw form, requiring extraction for consumption. Reishi is cultivated commercially on hardwood substrates (oak, plum, guava logs) and on supplemented sawdust blocks.
+Annual worldwide value of G. lucidum products exceeds **US $1.6 billion**. It is one of the two major medicinal mushrooms (along with [[mushroom-cultivation-fundamentals]]) that are distinctly inedible in raw form, requiring extraction for consumption. Reishi is cultivated commercially on hardwood substrates (oak, plum, guava logs) and on supplemented sawdust blocks.
 
 ## Related Topics
 
 - [[medicinal-mushroom-immune-modulation]] -- broader immunology context
-- [[turkey-tail-mushroom-cancer-research]] -- comparative medicinal mushroom
+- [[mushroom-cultivation-fundamentals]] -- comparative medicinal mushroom
 - [[maitake-d-fraction-research]] -- another key medicinal species
 - [[shiitake-medicinal-compounds]] -- shiitake therapeutic compounds
 - [[agaricus-blazei-murill-research]] -- additional medicinal mushroom research

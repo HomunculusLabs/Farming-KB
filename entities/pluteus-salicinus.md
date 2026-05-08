@@ -16,7 +16,7 @@ sources:
 
 # Pluteus salicinus
 
-**Pluteus salicinus** is a widely distributed mushroom species known to contain [[psilocybin]] and [[psilocin]]. It is one of the few species outside the genus Psilocybe that reliably produces these psychoactive compounds. Found across temperate regions of the Northern Hemisphere, it grows on dead and decaying hardwood and is recognized by its distinctive blue-bruising reaction and pinkish spore print.
+**Pluteus salicinus** is a widely distributed mushroom species known to contain [[psilocybin-compound]] and [[psilocin]]. It is one of the few species outside the genus Psilocybe that reliably produces these psychoactive compounds. Found across temperate regions of the Northern Hemisphere, it grows on dead and decaying hardwood and is recognized by its distinctive blue-bruising reaction and pinkish spore print.
 
 ## Taxonomy and Classification
 
@@ -52,7 +52,7 @@ It is found in forests, woodlands, riparian zones, and parks wherever suitable d
 
 ## Chemistry and Pharmacology
 
-*P. salicinus* contains [[psilocybin]] and [[psilocin]], confirmed by multiple analytical studies. Baeocystin has also been detected. The potency is generally reported as low to moderate, though there is considerable variation between collections, likely influenced by substrate, genetics, and environmental conditions. The blue-bruising reaction on the cap surface and stem is a reliable indicator of alkaloid presence.
+*P. salicinus* contains [[psilocybin-compound]] and [[psilocin]], confirmed by multiple analytical studies. Baeocystin has also been detected. The potency is generally reported as low to moderate, though there is considerable variation between collections, likely influenced by substrate, genetics, and environmental conditions. The blue-bruising reaction on the cap surface and stem is a reliable indicator of alkaloid presence.
 
 The combination of psilocybin with the free gill morphology and pink spore print makes *P. salicinus* an interesting species from both a taxonomic and pharmacological perspective, demonstrating that psychoactive tryptamine biosynthesis has evolved independently across multiple mushroom lineages.
 
@@ -79,6 +79,6 @@ As a psilocybin-containing species, *P. salicinus* is illegal to possess, cultiv
 - [[pluteus-glaucotinctus]]
 - [[pluteus-nigroviridis]]
 - [[pluteus-americanus]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[pluteus-glaucus]]
 - [[pluteus-salvinus]]

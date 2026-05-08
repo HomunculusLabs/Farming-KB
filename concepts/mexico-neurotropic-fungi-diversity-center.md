@@ -15,19 +15,18 @@ sources:
   - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
 type: concept
 ---
+# Mexico as Center [[southern-hemisphere-origin-of-neurotropic-fungi]] Diversity
 
-# Mexico as Center of Neurotropic Fungi Diversity
-
-Mexico is the **undisputed global center of diversity** for neurotropic fungi, harboring an extraordinary concentration of species found nowhere else on Earth. With **76 neurotropic species** documented, including **44 species of Psilocybe** alone (representing 39% of all known Psilocybe species worldwide), Mexico far exceeds any other country or region in neurotropic fungal biodiversity.
+Mexico is the **undisputed global center of diversity** for neurotropic fungi, harboring an extraordinary concentration of species found noguzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]. With **76 [[panaeolus-panaeolina-neurotropic-species]]** documented, including **44 species of Psilocybe** alone (representing 39% of all known [[psilocybe-species-europe]] worldwide), Mexico far exceeds any other country or region in neurotropic [[fungal-biodiversity]].
 
 ## Why Mexico? The Ecological Context
 
-Several factors contribute to Mexico's exceptional neurotropic fungal diversity:
+Several factors contribute to Mexico's exceptional [[mexico-global-center-neurotropic-fungal-diversity]] ty-arid-environments]]:
 
-1. **Geographic position**: Mexico spans temperate, subtropical, and tropical climate zones, creating diverse microhabitats
+1. **Geographic position**: Mexico spans temperate, subtropical, and [[query-how-to-design-a-food-forest-for-a-tropical-climate]] son-designers-house-design-climate-zones]], creating diverse microhabitats
 2. **Mountain ranges**: The Sierra Madre Occidental, Sierra Madre Oriental, Transverse Volcanic Belt, and Sierra Madre del Sur provide varied elevations (from sea level to over 4,000 m) and aspect conditions
 3. **Biodiversity hotspot**: Mexico is one of the world's megadiverse countries, with high plant diversity providing diverse substrates
-4. **Subtropical humid forests**: The majority of Psilocybe species occur in these forests, which are well represented in southern and eastern Mexico
+4. **Subtropical humid forests**: The majority [[grass-seed-cultivation-of-psilocybe-species]] occur in these forests, which are well represented in southern and eastern Mexico
 5. **Endemism**: Many Mexican Psilocybe species are microendemic, restricted to small areas
 
 ## The Psilocybe Diversity
@@ -71,7 +70,7 @@ Several species that occur more broadly also have significant Mexican population
 - **P. yungensis**: Widespread but significant in Mexico
 - **P. wassoniorum**: Named in honor of R. Gordon Wasson
 
-## Non Psilocybe Neurotropic Fungi in Mexico
+## Non Psilocybe [[neurotropic-fungi-in-mexico]]
 
 Mexico's neurotropic diversity extends well beyond Psilocybe:
 
@@ -86,7 +85,7 @@ Mexico's neurotropic diversity extends well beyond Psilocybe:
 - P. retirugis
 - P. fimicola
 - P. venezolanus
-- Panaeolina foenisecii
+- [[panaeolina-foenisecii]]
 
 ### Gymnopilus Species
 - G. spectabilis, G. lateritius, G. liquiritiae, G. sapineus, G. subpurpuratus
@@ -95,12 +94,12 @@ Mexico's neurotropic diversity extends well beyond Psilocybe:
 - H. naematoliformis, H. rhombispora
 
 ### Other Genera
-- **Conocybe siligineoides**: Known as "kiowa" or "hongo de pie de mazorca" (corn ear mushroom), used by the Mazatec
+- **[[conocybe-siligineoides]]**: Known as "kiowa" or "hongo de pie de mazorca" (corn ear mushroom), used by the Mazatec
 - **Amanita muscaria**: Present but not traditionally used in Mexico
 - **Amanita pantherina**: Present
 - **Claviceps paspali** and **C. purpurea**: Ergot fungi
 - **Cordyceps capitata** and **C. ophioglossoides**: Considered sacred by indigenous peoples
-- **Dictyophora indusiata**: The veiled lady mushroom, considered sacred
+- **[[dictyophora-indusiata]]**: The veiled lady mushroom, considered sacred
 - **Lycoperdon candidum**, **Vascellum intermedium**, **V. pratense**, **V. qudenii**: Puffball species considered sacred
 
 ## Sacred Mushroom Traditions
@@ -148,9 +147,3 @@ Many Mexican neurotropic fungi are threatened by:
 
 - Psilocybe Genus Overview
 - Sacred Mushroom Use in Mexico
-- [[neurotropic-fungi-classification]]
-- [[psilocybe-mexicana]]
-- [[copelandia-genus]]
-- [[neurotropic-fungi-of-mexico-and-mesoamerica]]
-- [[amanita-muscaria]]
-- [[amanita-pantherina]]

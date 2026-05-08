@@ -148,4 +148,3 @@ the finished biology across the garden.
 - [[hot-composting-vs-vermicompost-vs-bokashi]]
 - Vermicomposting Vs Hot Composting
 - [[composting-systems]]
-- [[compost-tea-guide]]

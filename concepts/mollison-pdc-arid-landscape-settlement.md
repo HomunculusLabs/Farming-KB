@@ -148,4 +148,3 @@ On the edges of arid lands, simple strategies enable reclamation:
 4. Store water in sand-filled tanks where evaporation is eliminated
 5. Plant rapidly-responding tree crops at wadi moisture points
 6. Build rock dams and diversion drains to concentrate scattered flow
-7. Fence strategically to stabilize sand and establish pioneer

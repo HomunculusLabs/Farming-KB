@@ -119,7 +119,7 @@ Some of the ergoline-type alkaloids produced by *C. paspali* could potentially f
 ## See Also
 - [[claviceps-purpurea]] — The classic cereal ergot fungus producing peptide ergot alkaloids; causative agent of ergotism
 - [[ergotamine]] — Principal peptide ergot alkaloid of *C. purpurea*; major pharmaceutical agent used in migraine treatment
-- [[psilocybin]] — Indole alkaloid from psilocybian mushrooms; distinct chemotaxonomic context within fungal alkaloid diversity
+- [[psilocybin-compound]] — Indole alkaloid from psilocybian mushrooms; distinct chemotaxonomic context within fungal alkaloid diversity
 - [[lysergic-acid-amide]] — Ergoline alkaloid found in several *Claviceps* and *Ipomoea* species; close structural relative of *C. paspali* clavines
 - [[fomes-fomentarius]] — Polypore fungus (tinder conk); included for cross-reference in mycological taxonomy and general mycology
 - Additional related topics: ergot alkaloid biosynthesis, indole-diterpenoid natural products, clavicipitaceous endophytes of grasses, veterinary mycotoxicology

@@ -148,4 +148,3 @@ minutes. The circle is then closed, completing the ritual.
 ## See Also
 
 - [[cannabis-spiritual-use]] for the broader sacramental philosophy
-- [[cannabis-healing-ritual]] for the healing energy ceremony

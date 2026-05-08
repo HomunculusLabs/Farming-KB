@@ -72,7 +72,7 @@ The net pattern also applies to seed spacing in raised beds:
 
 ## Relationship to Other Patterns
 
-The net pattern is one of several natural patterns described in [[gaias-garden-herb-spiral-and-natural-patterns]], alongside:
+The net pattern is one of several natural patterns described in gaias garden herb spiral and natural patterns, alongside:
 
 - **Spirals** — for herb gardens and space efficiency
 - **Branches** — for garden path design
@@ -83,8 +83,8 @@ All of these patterns are "patterns of expansion, contraction, and even distribu
 
 ## See Also
 
-- [[gaias-garden-herb-spiral-and-natural-patterns]] — spiral, branch, and net patterns
-- [[gaias-garden-edge-effect]] — edge effect in garden design
+- gaias garden herb spiral and natural patterns — spiral, branch, and net patterns
+- gaias garden edge effect — edge effect in garden design
 - [[faires-swales-and-water-conservation]] — swales for water conservation
 - [[mollison-pdc-dam-construction-water-systems]] — dam and water systems
 - [[mollison-pdc-keypoint-keyline-humid]] — keyline water management

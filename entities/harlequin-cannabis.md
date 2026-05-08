@@ -148,10 +148,3 @@ sources:
 - [[colombian-gold]]
 
 - Cannabidiol — primary therapeutic compound
-- [[Sativa (Cannabis)]] — dominant subspecies classification
-- Medical Cannabis — clinical applications and evidence base
-- Entourage Effect — synergistic cannabinoid–terpene interaction
-- Cannabis Terpenes — aromatic compounds and their effects
-- [[colombian-gold]] — parent landrace strain
-- [[Thai (Cannabis)]] — parent landrace strain
-- Epidiolex — FDA-approved CBD pharmaceutical

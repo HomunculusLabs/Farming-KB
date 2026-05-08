@@ -139,19 +139,6 @@ obscure until the role of mycelium was properly understood.
 
 Palmer credited early European cultivators with discovering that small
 pieces of mushroom-bearing soil could be transplanted to fresh beds to
-initiate new crops. This practice, crude as it was, represented the
-first deliberate use of spawn. Over time, the technique was refined into
-the commercial production of brick spawn and flake spawn that Falconer
-and others would later describe in detail.
-
-The connection between the horse and mushroom reproduction also explained
-why certain pastures and meadows produced abundant wild mushrooms while
-others did not. Fields grazed by horses for generations accumulated a
-reservoir of fungal spores and mycelial fragments in the soil, creating
-conditions favorable for recurring fruiting. This historical relationship
-between equine husbandry and fungal propagation is one of the oldest
-examples of human-assisted mushroom cultivation.
-
 ## See Also
 
 [[comparison-grain-spawn-vs-sawdust-spawn]],

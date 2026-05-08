@@ -139,20 +139,6 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 |---|---|
 | Fastest yield & highest volume | Elderberry |
 | Best for partial shade | Currant (red/white) |
-| Most versatile raw fruit | Gooseberry (ripe) |
-| Highest vitamin C content | Black currant |
-| Easiest to propagate | Elderberry (cuttings) |
-| Most compact footprint | Currant or gooseberry |
-| Best for medicinal/immune products | Elderberry |
-| Most pest/disease challenges | Gooseberry (powdery mildew) |
-| Best for permaculture hedgerow | Elderberry + currant combination |
-| Wet-soil tolerance | Elderberry |
-| Longest productive lifespan | Gooseberry |
-
-For most home growers, a **complementary planting of all three** provides
-successive harvests (currants early summer, gooseberries mid-summer,
-elderberries late summer) and spreads pest/disease risk across unrelated genera.
-
 ## See Also
 
 - [[comparison-gooseberry-vs-currant]]

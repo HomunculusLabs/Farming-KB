@@ -26,29 +26,28 @@ sources:
   - Danell, E., Eberhardt, U. (2002). "Cantharellus." Mycota VII Part B. Springer.
   - https://www.mycobank.org/page/Cantharellus%20cibarius
 ---
-
 # Cantharellus cibarius
 
 **Chanterelle** is one of the most prized wild edible mushrooms in the
 Northern Hemisphere, valued for its fruity aroma, peppery flavor, and firm
-flesh. Unlike most cultivated mushrooms, chanterelles are obligate
+flesh. Unlike most [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]], chanterelles are obligate
 ectomycorrhizal partners of forest trees and have resisted large-scale
 commercial cultivation despite decades of effort.
 
-The golden chanterelle is the type species of the genus *Cantharellus* and
-the mushroom most foragers mean when they say simply "chanterelle." Its
-global economic importance is substantial — in some European countries,
-chanterelles account for a significant share of the wild mushroom harvest.
+The golden chanterelle is the type specallegro-[[canaanite-religion-and-mushroom-symbolism]]-and-the-mushroomenus *Cantharellus* and
+[[allegro-canaanite-religion-and-the-mushroom]] most foragers mean when they say simply "chanterelle." Its
+global economic importance is substantial — in soquery-how-to-identify-[[psilocybe-cubensis]]-in-the-wildean countries,
+chanterelles account for a significant share of the [[wild-mushroom-harvest-sustainability]] harvest.
 
 ## Taxonomy
 
 Basidiomycota → Agaricomycetes → Cantharellales → **Cantharellaceae →
 *Cantharellus → *C. cibarius** Fr. (1821).
 
-The original Fries description encompassed what molecular phylogenetics has
-since split into a species complex across Eurasia and North America. North
+The originamaitake-growth-parameter-comparison-china-japan-north-americaiption encompassed what molecular phylogenetics has
+since split into a species complex across Eurasia and [[palmer-edible-mushrooms-north-america]]. North
 American "golden chanterelles" have been reclassified as *C. roseocanus*
-(Pacific Northwest), *C. cascadensis*, and *C. appalachiensis* (eastern
+([[psilocybin-north-america-pacific-northwest]]), *C. cascadensis*, and *C. appalachiensis* (eastern
 hardwoods). European *C. cibarius* sensu stricto is restricted to
 association with *Fagus* and *Picea*.
 
@@ -64,14 +63,14 @@ association with *Fagus* and *Picea*.
   color as cap or slightly paler; smooth, dry
 - **Flesh:** Pale yellow, firm and dense; fruity apricot-like odor,
   mildly peppery taste
-- **Spore print:** Pale yellow to cream; spores elliptical, 7–10 ×
+- **[[spore]] re-print-collection-spore-mass-inoculation]]:** Pale yellow to cream; spores elliptical, 7–10 ×
   5–6.5 μm, smooth, inamyloid
 
 ## Distribution and Habitat
 
 Chanterelles are broadly distributed across temperate and boreal forests
 of Europe, Asia, and North America, ranging from the Mediterranean to
-Scandinavia. They form ectomycorrhizal associations with *Quercus*,
+Scandinavia. They form [[ectomycorrhizal-associations]] with *Quercus*,
 *Fagus*, *Picea*, *Pinus*, *Betula*, and *Corylus*. Fruiting occurs in
 summer and autumn (July–October in temperate zones), often in flushes
 triggered by warm rain. They prefer old-growth or mature forest stands
@@ -86,7 +85,7 @@ butter; pairs well with cream, eggs, poultry, and light sauces; suitable
 for drying and reconstitution. Nutritionally rich in potassium, vitamin
 D2, and ergothioneine with significant antioxidant activity.
 
-**Toxic lookalikes:** *Omphalotus olearius* (Jack-o'-lantern) — true
+**Toxic lookalikes:** *[[omphalotus-olearius]]* (Jack-o'-lantern) — true
 gills, bioluminescent, orange, causes severe GI distress; *Hygrophoropsis
 aurantiaca* (False chanterelle) — thinner, true gills, edible but
 inferior.
@@ -108,7 +107,7 @@ inferior.
 Despite commercial value, *C. cibarius* has never been successfully
 cultivated at scale. Key obstacles include obligate ectomycorrhizal
 dependency, years-long lag between inoculation and fruiting, sensitivity
-to competing mycorrhizal fungi, and low inconsistent yields. Research
+to competing [[mycorrhizal-fungi]], and low inconsistent yields. Research
 using nursery-grown seedlings pre-inoculated with chanterelle mycelium
 continues in Scandinavia and China but remains far below economic
 viability.
@@ -143,13 +142,7 @@ aggregation and organic matter decomposition.
 - *C. minor* — miniature species, 1–3 cm cap; same habitat and edibility
 - *C. subalbidus* (White chanterelle) — Pacific Northwest; white to
   pale cream, similar flavor
-- *Craterellus tubaeformis* (Winter chanterelle) — darker,
+- *[[craterellus-tubaeformis]]* (Winter chanterelle) — darker,
   trumpet-shaped, now in *Craterellus*; excellent edibility
 
 ## See Also
-
-- [[cantharellus-lateritius]]
-
-- [[agroforestry]]
-- [[cantharellus-cibarius]]
-- [[craterellus-tubaeformis]]

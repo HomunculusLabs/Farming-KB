@@ -63,7 +63,7 @@ Reagent tests use chemical solutions that change color in the presence of specif
 #### Ehrlich Reagent
 
 - **Contains**: p-Dimethylaminobenzaldehyde (p-DMAB) in ethanol
-- **Detects**: Indole compounds -- LSD, [[psilocybin]]/[[psilocin]], DMT, 5-MeO-DMT, tryptamines
+- **Detects**: Indole compounds -- LSD, [[psilocybin-compound]]/[[psilocin]], DMT, 5-MeO-DMT, tryptamines
 - **Color reactions**:
   - LSD: Purple/pink
   - Psilocybin/psilocin: Purple/pink

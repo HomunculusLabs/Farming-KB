@@ -1,5 +1,5 @@
 ---
-title: "Peanut Butter Breath"
+title: "peanut butter breath"
 created: 2026-04-28
 type: strain
 tags:
@@ -7,7 +7,7 @@ tags:
   - indica-dominant
   - hybrid
   - do-si-dos-lineage
-  - mendo-breath-lineage
+  - [[mendo-breath-entity]]-lineage
   - nutty-aroma
   - thc-dominant
 date: 2026-04-28
@@ -19,21 +19,19 @@ sources:
   - Jackson, G. et al. (2021). "Terpene Profiling of Novel Cannabis Cultivars." Journal of Cannabis Research, 3, 17.
   - Holmes, E. et al. (2020). "Cannabis Chemovar Classification." Scientific Reports, 10, 15888.
 ---
-
 # Peanut Butter Breath
 
 ## Overview
 
-**Peanut Butter Breath** is an indica-dominant hybrid cannabis strain bred by
-ThugPug Genetics (also credited to Obsidian33 and crossing work by various
-breeders). It is a cross between **Do-Si-Dos** and **Mendo Breath**, two
+**Peanut Butter Breath** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by
+ThugPug Genetics (also credited to Obsidian33 and crossing work by vamendo-breath-entityrs). It is a cross between **Do-Si-Dos** and **Mendo Breath**, two
 potent indica-leaning cultivars. Named for its distinctive nutty, earthy
 aroma reminiscent of peanut butter, this strain has become a commercial
-favorite for its heavy sedative effects and unique flavor profile.
+favorite for its heavy sedative effects angirl-scout-cookiesofile.
 
 ## Lineage
 
-- **Female parent:** Do-Si-Dos (Girl Scout Cookies × Face Off OG)
+- **Female parent:** Do-Si-Dos ([[girl-scout-cookies]] × Face Off OG)
 - **Male parent:** Mendo Breath (OGKB Breath × Mendo Montage)
 
 The genetic ratio is approximately 70% indica / 30% sativa, reflecting the
@@ -58,16 +56,15 @@ combination rather than actual peanut compounds.
 **Secondary notes:** Diesel, skunk, dried herbs, subtle sweet vanilla.
 Breaking buds intensifies the earthy, peppery character.
 
-**Flavor:** Smooth, creamy inhale with roasted nut quality. Exhale brings
-earthy, woody notes with a slightly pungent finish. Smoke is thick.
+**Flavor:** Smooth, creamy inhale with roasted nut quality. Exhale bringterpene-profile-chemotaxonomy]] notes with a slightly pungent finish. Smoke is thick.
 
-## Terpene Profile
+## [[terpene-profile-chemotaxonomy]]
 
 - **Caryophyllene:** 0.5–1.0% — dominant, spicy and woody; CB2 receptor
-  binding for anti-inflammatory effects.
-- **Limonene:** 0.3–0.7% — citrus undertone, mood elevation.
-- **Myrcene:** 0.4–0.8% — herbal, musky; enhances sedation and couch-lock.
-- **Humulene:** 0.2–0.5% — earthy; appetite suppressant.
+  binding for [[medicinal-mushroom-antioxidant-anti-inflammatory]] effects.
+- **[[limonene]]:** 0.3–0.7% — citrus undertone, mood elevation.
+- **[[myrcene]]:** 0.4–0.8% — herbal, musky; enhances sedation and couch-lock.
+- **[[humulene]]:** 0.2–0.5% — earthy; appetite suppressant.
 - **Pinene:** trace — subtle pine, counteracts some sedation.
 
 The combination of high caryophyllene with myrcene and humulene creates
@@ -148,9 +145,3 @@ recommended. Watch for spider mites in dry conditions.
   amplifying the sweet, dessert-like terpene profile.
 - **Peanut Butter Cup:** Cross with Chocolate Thai, combining nutty
   and chocolate terpene profiles.
-
-## See Also
-
-- [[faires-dairy-processing-cheese-and-butter]]
-- [[girl-scout-cookies]]
-- [[mendo-breath]]

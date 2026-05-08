@@ -6,10 +6,9 @@ updated: 2026-05-03
 sources: []
 type: comparison
 ---
-
 ## Overview
 
-Potato (*Solanum tuberosum*) and oca (*Oxalis tuberosa*) are the two most important tuber crops of the Andean highlands, both domesticated thousands of years ago in the same region. Yet their global trajectories could not be more different: the potato became one of the world's most essential food crops, feeding billions, while oca remained a regional specialty. This comparison examines their botanical differences, cultivation requirements, nutritional profiles, and potential roles in future food systems.
+Potato (*Solanum tuberosum*) and oca (*[[oxalis-tuberosa]]*) are the two most important tuber crops of the Andean highlands, both domesticated thousands of years ago in the same region. Yet their global trajectories could not be more different: the potato became one of the world's most essential food crops, feeding billions, while oca remained a regional specialty. This comparison examines their botanical differences, cultivation requirements, nutritional profiles, and potential roles in futmollison-town-[[permaculture]] re-urban-design]]-food-systemstems.
 
 ## Botanical Classification
 
@@ -21,10 +20,10 @@ Potato (*Solanum tuberosum*) and oca (*Oxalis tuberosa*) are the two most import
 | **Leaves** | Compound, pinnate | Trifoliate, clover-like |
 | **Flowers** | White, pink, purple, blue | Yellow, funnel-shaped |
 | **Tuber formation** | On stolons from stem base | On stolons at stem tips |
-| **Toxicity** | Solanine in green/sprouted tubers | Oxalic acid in raw tubers |
-| **Seed production** | True seed (berry fruits) common | Rare, mostly vegetative |
+| **Toxicity** | Solanine in green/sprouted [[cannabis-controlled-pollination-seed-production]] acid in raw tubers |
+| **[[cervantes-feminized-seed-production]]** | True seed ([[permaculture-designers-manual-berry-fruits]]) common | Rare, mostly vegetative |
 
-The most important taxonomic distinction for growers: potatoes are nightshades (related to tomatoes, peppers, eggplant) while oca is a wood sorrel. This means oca is immune to all Solanaceae-specific diseases and pests—a major advantage in crop rotation.
+The most important taxonomic distinction [[query-what-is-plant-phenology-and-why-does-it-matter-for-growers]]: potatoes are nightshades (related to tomatoes, peppers, eggplant) while oca is a wood sorrel. This means oca is immune to all Solanaceae-specific diseases and pests—a major advantage in crop rotation.
 
 ## Cultivation Comparison
 
@@ -147,6 +146,3 @@ Potato and oca are not competitors but complementary crops. The potato's global 
 ## See Also
 
 - [[growing-potatoes-organically]]
-
-- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[query-how-to-grow-and-use-oca-in-temperate-climates]]

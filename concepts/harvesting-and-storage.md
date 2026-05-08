@@ -148,4 +148,3 @@ therapeutic compounds from species like Reishi and Turkey Tail.
 ## See Also
 
 - [[fruiting-environment]]
-- [[substrate-preparation]]

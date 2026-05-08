@@ -148,4 +148,3 @@ reduce the number of concurrent fermentation batches while still capturing the b
 adjusting dilution rates, material selection, and application frequency based on plant response rather than rigid recipes.
 
 ## See Also
-- [[korean-natural-farming-imo-recipes]]

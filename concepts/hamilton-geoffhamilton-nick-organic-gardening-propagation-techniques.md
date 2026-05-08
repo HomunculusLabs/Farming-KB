@@ -148,4 +148,3 @@ eliminates the growth check that sometimes follows transplanting.
 - [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] for controlled environment growing
 - [[mollison-designers-composting-toilets-and-humanure]] for making your own potting compost
-- [[cannabis-organic-fertilizers]] for feeding young plants

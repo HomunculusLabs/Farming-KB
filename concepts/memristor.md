@@ -1,12 +1,11 @@
 ---
-title: "Memristor"
+title: "memristor"
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
 type: concept
 tags: [reference]
 ---
-
 # Memristor
 ## Overview
 A memristor is an electrical circuit element whose resistance depends on the history of current or voltage that has passed through it.
@@ -67,7 +66,7 @@ Thermal effects are also important because nanoscale switching can localize heat
 
 Device-to-device variation is not just a manufacturing problem; it is part of the physical nature of many switching mechanisms.
 
-## History and context
+## History [[oss-oeric-legal-disclaimer-and-context]]
 The theoretical memristor was proposed by Leon Chua in 1971 as a missing basic circuit element.
 
 Chua argued that symmetry in circuit variables implied a relation between charge and flux analogous to the known resistor, capacitor, and inductor relations.
@@ -88,7 +87,7 @@ Engineers often use the term pragmatically for resistive switching elements with
 
 The development of memristors overlaps with the search for post-CMOS memory technologies.
 
-Flash memory scaling limits, data-center energy costs, and artificial intelligence workloads all increased interest in non-volatile, dense, low-energy devices.
+Flash memory scaling limits, data-center energy costs, and artificial intelligence workloads all increased inlow-energy-futures-in-permaculturenon-volatile, dense, low-energy devices.
 
 At the same time, machine learning created demand for hardware that can multiply matrices efficiently.
 
@@ -106,7 +105,7 @@ Another major application is in-memory computing.
 
 A crossbar array can store matrix weights as conductances and process vector inputs as voltages.
 
-The resulting currents represent analog sums, reducing data movement between memory and processor.
+The resulting currents represent analog sums, reducing data movement betenergy-efficient-house-designprocessor.
 
 This approach is promising for energy-efficient inference but faces precision, noise, drift, and calibration challenges.
 Memristors are also explored for neuromorphic systems.
@@ -133,8 +132,7 @@ non-volatile memory
 
 neuromorphic computing
 
-semiconductor fabrication
-materials science
+semiconductor fabrphase-change-materials-thermal-energy-storagerials science
 
 machine learning
 
@@ -148,5 +146,3 @@ ferroelectricity
 
 nanotechnology
 - [[slime-mold-computation]]
-- [[biological-memory-non-neural]]
-- [[unconventional-computing]]

@@ -129,7 +129,7 @@ agricultural transformation.
 
 ## Related Concepts
 
-- [[holzer-raised-bed-design]] - Raised bed design principles
+- [[sepp-holzer-permaculture-and-rebel-farming]] - Raised bed design principles
 - [[holzer-crater-gardens-hugelkultur]] - Crater gardens and hugelkultur
 - [[holzer-microclimate-creation]] - Microclimate creation techniques
 - [[holzer-terrace-systems]] - Terrace systems for slopes

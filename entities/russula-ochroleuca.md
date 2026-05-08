@@ -140,6 +140,6 @@ Within the *R. subsect. Ochroleucinae*, the combination of white spore print, mo
 - [[lactarius-deliciosus]]
 - [[lactarius-rufus]]
 - [[lactarius-volemus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[amanita-muscaria]]
 - [[mycorrhizae]]

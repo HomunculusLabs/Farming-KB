@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-Picrorhiza kurroa, known as kutki or karu in Ayurvedic medicine, is a perennial herbaceous plant in the family Plantaginaceae (traditionally placed in Scrophulariaceae). Native to the high-altitude Himalayas (2,500–5,000 m elevation), it is one of the most important medicinal plants in traditional Indian medicine, valued primarily for its hepatoprotective, anti-inflammatory, and immunomodulatory properties. The dried rhizome and root constitute the crude drug "Kutki," which has been used for over 3,000 years in Ayurvedic and Unani systems. Due to overharvesting from wild populations, the species is classified as endangered by the IUCN.
+Picrorhiza kurroa, known as kutki or karu in Ayurvedic medicine, is a perennial herbaceous plant in the family Plantaginaceae (traditionally placed in Scrophulariaceae). Native to the high-altitude Himalayas (2,500–5,000 m elevation), it is one of the most important [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in traditional Indian medicine, valued primarily for its hepatoprotective, [[medicinal-mushroom-antioxidant-anti-inflammatory]], and immunomodulatory properties. The dried rhizome and root constitute the crude drug "Kutki," which has been used for over 3,000 years in Ayurvedic and Unani systems. Due to overharvesting from wild populations, the species is classified as endangered by the IUCN.
 
 ## Taxonomy
 
@@ -69,7 +69,7 @@ The genus name derives from Greek *pikros* (bitter) and *rhiza* (root), referrin
 - **Geographic range:** Endemic to the Himalayas, found from Kashmir through Himachal Pradesh, Uttarakhand, Nepal, Sikkim, and Bhutan, extending eastward into Arunachal Pradesh and southern Tibet.
 - **Elevation:** 2,500–5,000 m above sea level. Most abundant between 3,000–4,200 m.
 - **Habitat:** Rocky crevices, scree slopes, moraines, grassy meadows, and open slopes in the alpine and subalpine zones. Often found on north-facing slopes with moist, well-drained conditions.
-- **Climate:** Exposed to extreme cold (−20°C in winter), high UV, strong winds, short growing seasons (3–5 months). Survives underground as dormant rhizome.
+- **Climate:** Exposed to extreme cold (−20°C in winter), high UV, strong winds, short [[jeavons-climate-adaptation-growing-seasons]] (3–5 months). Survives underground as dormant rhizome.
 - **Soil:** Rocky, gravelly, loamy soils with high organic content from decomposing moss and alpine grasses. pH 5.5–7.0.
 
 ## Phytochemistry
@@ -83,7 +83,7 @@ The primary bioactive constituents of P. kurroa are iridoid glycosides and cucur
 - **Cucurbitacin glycosides:** Including cucurbitacin D, E, I, and K — bitter triterpenoid compounds contributing to anti-inflammatory activity.
 - **Vanillic acid:** Phenolic acid with antioxidant properties.
 - **Apocynin:** Acetophenone derivative with anti-inflammatory and antioxidant activity.
-- **Other constituents:** Small amounts of phenolic compounds (ferulic acid, p-coumaric acid), sterols (β-sitosterol), and flavonoids.
+- **Other constituents:** Small amounts of [[ingham-tannins-terpenes-phenolic-compounds]] (ferulic acid, p-coumaric acid), sterols (β-sitosterol), [[blesching-cannabis-terpenoids-and-flavonoids]].
 
 ### Picroside I and II
 

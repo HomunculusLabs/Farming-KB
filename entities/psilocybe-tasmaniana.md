@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe tasmaniana
 
-**Psilocybe tasmaniana** is a [[psilocybin]]-containing mushroom species native to the island state of Tasmania, Australia. It is one of the less well-documented psychoactive fungi in the Australasian region, though it has been confirmed to produce the indole alkaloids psilocybin and psilocin.
+**Psilocybe tasmaniana** is a [[psilocybin-compound]]-containing mushroom species native to the island state of Tasmania, Australia. It is one of the less well-documented psychoactive fungi in the Australasian region, though it has been confirmed to produce the indole alkaloids psilocybin and psilocin.
 
 ## Taxonomy and Classification
 
@@ -35,7 +35,7 @@ Fruiting typically occurs in the cooler months of autumn and early winter, when 
 
 ## Chemistry and Potency
 
-*Psilocybe tasmaniana* has been confirmed to contain [[psilocybin]] and [[psilocin]], the primary psychoactive tryptamine alkaloids. Analytical studies have verified the presence of these compounds through thin-layer chromatography (TLC) and more advanced analytical methods such as high-performance liquid chromatography (HPLC) and gas chromatography-mass spectrometry (GC-MS).
+*Psilocybe tasmaniana* has been confirmed to contain [[psilocybin-compound]] and [[psilocin]], the primary psychoactive tryptamine alkaloids. Analytical studies have verified the presence of these compounds through thin-layer chromatography (TLC) and more advanced analytical methods such as high-performance liquid chromatography (HPLC) and gas chromatography-mass spectrometry (GC-MS).
 
 The species is considered to be of moderate potency relative to other Australian psychoactive mushrooms. It is less potent than [[psilocybe-subaeruginosa]], which is regarded as one of the most potent species in the Australasian region, but comparable to [[psilocybe-cubensis]] in its overall alkaloid content per dry weight. Estimated alkaloid concentrations based on bioassay and limited analytical data are approximately 0.3–0.7% psilocybin and 0.05–0.2% psilocin per dry weight. [[baeocystin]] has been detected in trace amounts in related Tasmanian species and may also be present.
 

@@ -138,4 +138,4 @@ Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*; Bill Molliso
 
 ## Related
 
-- [[urban-permaculture-design-methods]]
+- [[urban-permaculture-and-guerrilla-gardening]]

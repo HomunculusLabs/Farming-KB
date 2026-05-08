@@ -147,6 +147,3 @@ Six classic habitat types for psilocybin mushrooms (per Stamets):
 - [[psychedelic-plant-sources]] -- All major psychedelic organism sources
 
 ## Related
-
-- [[fungi-around-the-world-species-distribution]] — broader fungal species distribution by region
-- [[gartz-magic-mushrooms-global-distribution-patterns]]

@@ -148,4 +148,3 @@ Native American policy.
 - peyote
 - ayahuasca
 - [[keewaydinoquay-native-american-mushroom-traditions]]
-- religious freedom

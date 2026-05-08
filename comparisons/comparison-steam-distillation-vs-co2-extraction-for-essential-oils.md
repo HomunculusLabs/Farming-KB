@@ -139,47 +139,6 @@ The same plant extracted by both methods can yield noticeably different chemical
 | Gingerols | 0 | 15–30 |
 | Shogaols | 0 | 5–10 |
 | 6-Gingerol | 0 | 5–8 |
-
-The CO₂ extract captures the pungent gingerols (responsible for ginger's "heat") that are completely absent in steam-distilled oil, making CO₂ extract far superior for flavor and therapeutic applications.
-
-## Choosing Between Methods
-
-### Choose Steam Distillation When:
-
-- **Budget is limited**: Startup costs are 10–100× lower than CO₂ extraction
-- **Producing standard essential oils**: For aromatherapy, perfumery, or massage therapy where established steam-distilled profiles are expected
-- **Harvesting hydrosols**: You want both essential oil and hydrosol (rose water, lavender water, orange blossom water)
-- **Extracting high-yield herbs**: Lavender, peppermint, eucalyptus, tea tree, rosemary, and other high-volatile-oil plants give excellent yields via steam
-- **Traditional pharmacopoeial compliance**: You need products that meet USP, EP, or BP monograph specifications
-- **Scale matters**: You need to process hundreds of kilograms of biomass per day
-- **Off-grid or low-tech operation**: Steam distillation can be run with a wood-fired boiler and gravity-fed water
-
-### Choose CO₂ Extraction When:
-
-- **Maximum aromatic fidelity** is required: The extract must capture the true, complete aroma of the plant
-- **Working with delicate flowers**: Jasmine, rose, tuberose, and other flowers that lose key notes during steam distillation
-- **Capturing non-volatile actives**: Gingerols, curcuminoids, cannabidiol (CBD), hop acids, or other compounds that steam cannot extract
-- **Low-temperature processing** is critical: Heat-sensitive terpenes, esters, and phenols are preserved
-- **Premium product positioning**: CO₂ extracts command higher prices and are valued in natural perfumery, high-end cosmetics, and specialty food/flavor industries
-- **Solvent-free certification**: CO₂ extraction is classified as solvent-free by most regulatory bodies (USDA Organic, EU Organic)
-- **Extracting cannabis or hemp**: CO₂ is the gold standard for full-spectrum cannabinoid and terpene extraction
-
-## Environmental and Safety Comparison
-
-| Factor | Steam Distillation | CO₂ Extraction |
-|--------|-------------------|----------------|
-| Energy source | Heat (firewood, gas, electric) | Electricity (compressor) |
-| CO₂ emissions | Combustion byproducts | None (CO₂ is recycled; net zero) |
-| Water consumption | High (steam + cooling) | Low (cooling only) |
-| Chemical hazards | None (water/steam) | High pressure (explosion risk if mismanaged) |
-| Flammability risk | Low (if electric heat) | None (CO₂ is non-flammable) |
-| Operator training | Basic | Specialized (pressure vessel safety) |
-| Regulatory compliance | Minimal | Pressure vessel inspection, safety certifications |
-
-## Summary
-
-Steam distillation and CO₂ extraction are complementary methods rather than competitors. Steam distillation remains the workhorse of the essential oil industry — it is affordable, scalable, well-understood, and produces the classic aromatic profiles that define aromatherapy and perfumery. CO₂ extraction excels when the goal is the most complete, plant-true extract possible, especially for delicate flowers, resinous plants, and botanicals where heat-sensitive or non-volatile compounds carry significant therapeutic or organoleptic value. The choice between them should be driven by the target plant material, the desired product profile, the available budget, and the intended market application.
-
 ## See Also
 
 - [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]

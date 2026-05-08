@@ -11,7 +11,7 @@ type: concept
 
 # Kwashi and Galanga: Minor Psychoactive Plants
 
-Richard Evans Schultes documented numerous lesser-known psychoactive plants in *Hallucinogenic Plants* (Golden Press, 1976). Among the more obscure entries are Kwashi (Pancratium trianthum) of southern Africa and Galanga or Maraba (Kaempferia galanga) of New Guinea and Southeast Asia. Both plants have limited but culturally significant uses as psychoactive substances, and both remain poorly understood chemically.
+[[richard-evans-schultes]] documented numerous lesser-known psychoactive plants in *Hallucinogenic Plants* (Golden Press, 1976). Among the more obscure entries are Kwashi ([[pancratium-trianthum]]) of southern Africa and Galanga or Maraba ([[kaempferia-galanga]]) of New Guinea and Southeast Asia. Both plants have limited but culturally significant uses as psychoactive substances, and both remain poorly understood chemically.
 
 ## Kwashi (Pancratium trianthum)
 
@@ -68,7 +68,7 @@ Galanga (Kaempferia galanga) is a member of the ginger family, Zingiberaceae. Th
 
 Kaempferia galanga is native to Southeast Asia and widely cultivated throughout the region. Known by many local names, Galanga and Maraba are among those recorded by Schultes.
 
-The plant should not be confused with greater galangal (Alpinia galanga) or lesser galangal (Alpinia officinarum), which are different genera in the same family. The taxonomy of commonly called "galangal" plants is frequently confused in both the ethnobotanical and culinary literature.
+The plant should not be confused with greater galangal ([[alpinia-galanga]]) or lesser galangal ([[alpinia-officinarum]]), which are different genera in the same family. The taxonomy of commonly called "galangal" plants is frequently confused in both the ethnobotanical and culinary literature.
 
 ### Psychoactive Use
 

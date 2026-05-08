@@ -126,8 +126,8 @@ In designed ecosystems and broad-scale permaculture, London plane offers:
 
 - [[salvia-hispanica]]
 
-- [[platanus-x-hispanica]] — American sycamore, parent species
-- [[platanus-x-hispanica]] — Oriental plane, parent species
+- platanus x hispanica — American sycamore, parent species
+- platanus x hispanica — Oriental plane, parent species
 - acer saccharum — sugar maple, similar leaf shape
 - [[quercus-robur]] — English oak, companion urban forest tree
 - [[tilia-cordata]] — little-leaf linden, urban shade tree

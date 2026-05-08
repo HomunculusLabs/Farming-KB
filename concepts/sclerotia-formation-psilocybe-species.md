@@ -21,7 +21,7 @@ Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that ser
 
 ## Biological Function
 
-Sclerotia are fungal storage organs allowing the organism to endure adverse conditions — drought, extreme temperatures, nutrient depletion, wildfire — by entering a dormant state persisting for months or years. Within the sclerotium, mycelium concentrates nutrients, water, and bioactive compounds (including [[psilocybin]] and [[psilocin]]) in a compact form protected by a melanised rind layer providing resistance to microbial attack and desiccation.
+Sclerotia are fungal storage organs allowing the organism to endure adverse conditions — drought, extreme temperatures, nutrient depletion, wildfire — by entering a dormant state persisting for months or years. Within the sclerotium, mycelium concentrates nutrients, water, and bioactive compounds (including [[psilocybin-compound]] and [[psilocin]]) in a compact form protected by a melanised rind layer providing resistance to microbial attack and desiccation.
 
 When conditions become favourable, sclerotia germinate to produce mycelium that may form fruiting bodies, completing the lifecycle. Some species produce mycelium directly from sclerotia to colonise new substrate without an intermediate fruiting stage — a dual strategy maximising survival and reproduction chances.
 
@@ -33,7 +33,7 @@ Originally discovered near Tampa, Florida in 1977 by Steven Pollock and Gaston G
 
 ### Psilocybe mexicana
 
-A species with deep Mesoamerican ethnobotanical significance, [[psilocybe-mexicana]] was identified by R. Gordon Wasson and Roger Heim in their pioneering investigations. The Aztec called these fungi "teonanacatl" — "flesh of the gods." It produces smaller sclerotia than [[psilocybe-tampanensis]] but is scientifically important as the first psilocybin-containing species studied in modern Western mycology. Albert Hofmann isolated and named psilocybin from its specimens in 1958.
+A species with deep Mesoamerican ethnobotanical significance, [[psilocybe-mexicana]] was identified by R. Gordon Wasson and Roger Heim in their pioneering investigations. The Aztec called these fungi "teonanacatl" — "flesh of the gods." It produces smaller sclerotia than [[psilocybe-tampanensis-entity]] but is scientifically important as the first psilocybin-containing species studied in modern Western mycology. Albert Hofmann isolated and named psilocybin from its specimens in 1958.
 
 ## Cultivation Requirements
 
@@ -45,7 +45,7 @@ Sclerotia production does not require [[casing-soil-preparation-mushroom-cultiva
 
 - **Temperature**: Room temperature (approximately 20°C) is suitable. No cold shock or temperature drop is required or beneficial.
 - **Light**: Dark or low-light preferred. Sclerotia formation is not light-triggered; light may divert metabolic resources away from sclerotia production toward primordia development.
-- **Duration**: The key difference from mushroom cultivation. Sclerotia require significantly longer incubation — approximately 4 months after [[inoculation-methods]] for optimal development of [[psilocybe-tampanensis]].
+- **Duration**: The key difference from mushroom cultivation. Sclerotia require significantly longer incubation — approximately 4 months after [[inoculation-methods]] for optimal development of [[psilocybe-tampanensis-entity]].
 - **Gas exchange**: Loose jar lids suffice. No special fresh air exchange schedule needed. Oxygen requirements during sclerotia formation are modest compared to active fruiting.
 
 ### Timeline
@@ -77,7 +77,7 @@ Mature sclerotia have several distinguishing features:
 
 - **Texture**: Firm and somewhat rubbery, similar to a chestnut. They resist gentle pressure but can be cut with a knife.
 - **Colour**: Dark brown to reddish-brown, often with a lighter interior when cut open. The dark exterior rind is the melanised protective layer.
-- **Size**: Varies considerably depending on species, substrate, and incubation duration. [[psilocybe-tampanensis]] sclerotia can range from pea-sized to golf-ball-sized.
+- **Size**: Varies considerably depending on species, substrate, and incubation duration. [[psilocybe-tampanensis-entity]] sclerotia can range from pea-sized to golf-ball-sized.
 - **Shape**: Generally irregular and roughly spherical, though often distorted by contact with jar walls or other sclerotia.
 
 ## Storage
@@ -88,7 +88,7 @@ Fresh sclerotia store refrigerated for several weeks. For long-term preservation
 
 Yields from sclerotia cultivation on grass seed substrate vary depending on species, strain, incubation duration, and jar size. Some general observations from the source documentation:
 
-- [[psilocybe-tampanensis]] is the more prolific sclerotia producer, forming larger and more numerous stones
+- [[psilocybe-tampanensis-entity]] is the more prolific sclerotia producer, forming larger and more numerous stones
 - [[psilocybe-mexicana]] produces smaller sclerotia overall but may form them more quickly
 - Yield is proportional to substrate volume — larger jars produce more total sclerotia but require longer colonisation and incubation times
 - The relationship between incubation time and yield is not linear — most growth occurs in the 8-14 week window, with diminishing returns beyond 16 weeks

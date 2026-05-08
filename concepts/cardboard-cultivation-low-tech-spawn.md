@@ -59,7 +59,7 @@ a container, and mushroom spawn.
 ## Cardboard Spawn Expansion (Low-Tech Method)
 
 Beyond fruiting, cardboard serves as a primitive spawn creation system that
-requires no [[mushroom-cultivation-sterile-technique]] or laboratory equipment. This method,
+requires no [[mushroom-cultivation-fundamentals]] or laboratory equipment. This method,
 called cardboard inoculation, is suitable for species that grow readily on
 wood, including oysters, blewits, and king stropharia. It is not effective
 for secondary decomposers like almond portabella, or mycorrhizal species.

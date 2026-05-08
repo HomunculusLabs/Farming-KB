@@ -8,7 +8,7 @@ sources: []
 ---
 # Nitrogen-Fixing Trees and Shrubs for Permaculture
 
-Nitrogen-fixing trees and shrubs are the backbone of [[permaculture-energy-systems]], serving as pioneer species that rehabilitate degraded land and nurse crops to maturity. They convert atmospheric nitrogen into plant-available forms through symbiotic root bacteria, eliminating the need for synthetic fertilizers. See [[legume-nitrogen-dynamics]] and [[nitrogen-cycle-in-soil]] for the underlying biology, and [[fungal-role-in-nitrogen-cycling]] for the mycorrhizal dimension.
+Nitrogen-fixing trees and shrubs are the backbone of [[permaculture-energy-systems]], serving as pioneer species that rehabilitate degraded land and nurse crops to maturity. They convert atmospheric nitrogen into plant-available forms through symbiotic root bacteria, eliminating the need for synthetic fertilizers. See [[legume-nitrogen-dynamics]] and [[composting-and-soil-biology]] for the underlying biology, and [[fungal-role-in-nitrogen-cycling]] for the mycorrhizal dimension.
 
 ## The Pioneer Pattern
 

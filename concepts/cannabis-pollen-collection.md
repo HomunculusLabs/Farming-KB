@@ -126,7 +126,7 @@ crops.
 - [[cannabis-seed-production]]
 - [[cannabis-male-plant-management]]
 - [[cannabis-controlled-pollination-seed-production]]
-- [[green-cannabis-grow-bible-seed-germination-methods]]
+- green cannabis grow bible seed germination methods
 - [[cannabis-male-plant-identification]]
 - [[cannabis-sinsemilla-life-cycle]]
 - [[cannabis-seed-germination-viability-breeding-clarke]]

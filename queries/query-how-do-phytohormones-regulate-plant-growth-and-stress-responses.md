@@ -1,5 +1,5 @@
 ---
-title: "How Do Phytohormones Regulate Plant Growth and Stress Responses?"
+title: "How Do Phytohormones Regulate [[solomon-soil-temperature-and-nighttime-plant-growth]] and [[lichen-poikilohydry-and-drought-stress-responses]]?"
 tags:
   - phytohormones
   - plant-growth-regulation
@@ -28,14 +28,14 @@ type: query
 
 Phytohormones are the chemical messengers that coordinate every aspect of a plant's life — from the first cell division in a germinating seed to the final stages of fruit ripening and leaf senescence. Unlike animals, plants lack a nervous system and a circulatory system, so they rely entirely on these small molecules to sense their environment and respond appropriately. This guide explains how phytohormones regulate growth and stress responses, with practical takeaways for organic growers.
 
-## The Five Classical Hormones and Growth Regulation
+## The Five Classical Hormones and [[phytohormones-and-plant-growth-regulation]]
 
 ### Auxin: The Growth Director
 
-Auxin (primarily indole-3-acetic acid, IAA) is produced in shoot tips, young leaves, and developing seeds, then transported downward through the plant via polar auxin transport. Its primary roles include:
+Auxin (primarily [[indole]]-3-acetic acid, IAA) is produced in shoot tips, young leaves, and developing seeds, then transported downward through the plant via polar auxin transport. Its primary roles include:
 
-- **Cell elongation:** Auxin loosens cell walls by activating proton pumps (H⁺-ATPases), lowering pH and activating wall-loosening enzymes (expansins). This is how stems grow toward light (phototropism) — auxin accumulates on the shaded side and those cells elongate more.
-- **Apical dominance:** The shoot tip produces auxin that suppresses lateral bud growth. When you "top" a plant (remove the apical tip), auxin levels drop in the upper stem and lateral branches surge — a technique widely used in cannabis training and fruit tree pruning.
+- **Cell elongation:** Auxin loosens [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] by activating proton pumps (H⁺-ATPases), lowering pH and activating wall-loosening enzymes (expansins). This is how stems grow toward light (phototropism) — auxin accumulates on the shaded side and those cells elongate more.
+- **Apical dominance:** The shoot tip produces auxin that suppresses lateral bud growth. When you "top" a plant (remove the apical tip), auxin levels drop in the upper stem and lateral branches surge — a technique widely used in cannabis training and [[fruit-tree-pruning]].
 - **Root initiation:** Auxin accumulation at cut surfaces triggers adventitious root formation, which is why rooting powders contain synthetic auxins (IBA or NAA).
 
 ### Gibberellins: The Elongation Engine
@@ -97,7 +97,7 @@ JA and SA signaling are mutually antagonistic — when one pathway is strongly a
 - **Under pathogen attack:** SA pathway dominates, JA is suppressed → plant becomes more susceptible to herbivores
 - **Mixed attacks:** Complex crosstalk determines the net response, with ethylene often modulating the balance
 
-This tradeoff has practical implications for [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation|IPM]]: applying too much of one type of elicitor can leave plants vulnerable to other threats.
+This tradeoff has practical implications for [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]: applying too much of one type of elicitor can leave plants vulnerable to other threats.
 
 ## How Growth and Defense Are Integrated
 
@@ -107,7 +107,7 @@ The growth-defense tradeoff is managed at the molecular level through shared sig
 2. **NPR1** (SA signaling hub) represses auxin signaling, slowing growth during pathogen defense
 3. **BZR1** (BR signaling transcription factor) regulates both growth genes and defense genes depending on which partner proteins it interacts with
 
-In practice, this means a plant growing rapidly with abundant nutrients and water is allocating fewer resources to defense. Conversely, a mildly stressed plant may grow more slowly but be better defended against pests and diseases — a principle exploited in [[no-till-agriculture|no-till systems]] where moderate stress from mulch and competition can prime plant defenses.
+In practice, this means a plant growing rapidly with abundant nutrients and water is allocating fewer resources to defense. Conversely, a mildly stressed plant may grow more slowly but be better defended against pests and diseases — a principle exploited in [[no-till-agriculture]] where moderate stress from mulch and competition can prime plant defenses.
 
 ## Practical Takeaways for Organic Growers
 
@@ -128,7 +128,7 @@ In practice, this means a plant growing rapidly with abundant nutrients and wate
 - **Controlled drought stress** (reducing irrigation slightly) increases ABA production and can improve subsequent drought tolerance — a technique called "priming"
 - **Methyl jasmonate sprays** can induce pest resistance before insect pressure arrives, though timing and dose are critical to avoid growth penalties
 - **Seaweed extracts** contain natural cytokinins, auxins, and betaines that help plants manage stress without synthetic inputs
-- **[[teaming-with-microbes-compost-tea-and-microbial-inoculants|Beneficial microbes]]** like Trichoderma and mycorrhizal fungi prime JA and SA pathways for faster defense activation
+- **[[teaming-with-microbes-compost-tea-and-microbial-inoculants]]** like Trichoderma and mycorrhizal fungi prime JA and SA pathways for faster defense activation
 
 ### Avoiding Harmful PGRs
 
@@ -147,11 +147,3 @@ Some synthetic plant growth regulators are prohibited or strongly discouraged:
 **"Stress is always bad for plants."** False. Mild, transient stress (hormesis) can prime stronger defense responses and improve stress resilience. The key is managing stress intensity and duration.
 
 **"JA and SA work together."** Partially true — they can be synergistic against some threats, but the dominant relationship is antagonistic. Activating both simultaneously at high levels creates a hormonal conflict that weakens both responses.
-
-## See Also
-
-- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] — Comprehensive reference on all phytohormone classes
-- plant defense chemistry and secondary metabolites — Secondary metabolites produced in hormone-mediated defense
-- [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] — Detailed comparison of JA vs SA defense pathways
-- [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] — How hormone-mediated defense fits into IPM
-- the rhizosphere ecology and plant microbe interactions — Microbial production and modulation of phytohormones

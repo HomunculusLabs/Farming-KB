@@ -34,7 +34,7 @@ The earliest archaeological evidence of wattle and daub construction dates to th
 
 - **Europe**: Became the dominant infill method for timber-framed buildings from the medieval period through the 18th century. English half-timbered houses, German Fachwerk, and French colombage all employed wattle and daub panels between structural timber posts.
 - **Africa**: Widely used across West Africa (especially Nigeria, Ghana, and Cameroon), where the technique persists in rural areas. African builders often use bamboo or raffia palm for wattles and lateritic soils rich in iron oxides for the daub.
-- **Americas**: Pre-Columbian builders in the American Southwest (Pueblo peoples) and Mesoamerica used variations. European colonists brought the technique to North America, where it was common in the Appalachian region and the Midwest through the 19th century.
+- **Americas**: [[pre-columbian-mushroom-use]] builders in the American Southwest (Pueblo peoples) and Mesoamerica used variations. European colonists brought the technique to North America, where it was common in the Appalachian region and the Midwest through the 19th century.
 - **Asia**: Found in traditional Korean hanok construction, Chinese rural dwellings, and Indian vernacular architecture. In Japan, a variant called *nuriya* used bamboo wattles with earthen plaster.
 - **Oceania**: Māori wharenui (meeting houses) in New Zealand traditionally used raupō (bulrush) and clay daub on a wooden frame.
 
@@ -63,7 +63,7 @@ The wattle is the structural lattice that holds the daub in place. It must be fl
 
 **Wattle construction process:**
 
-1. **Stakes (uprights)**: Cut 60–90 cm long, sharpened, and driven into the ground or set into a timber frame at 30–45 cm intervals. Stakes should be 2–4 cm in diameter.
+1. **Stakes (uprights)**: Cut 60–90 cm long, sharpened, and driven into the ground or set into a [[timber-frame-basics]] at 30–45 cm intervals. Stakes should be 2–4 cm in diameter.
 2. **Withies (weavers)**: Long, flexible rods 1–2 cm in diameter, woven horizontally in and out of the stakes. Start from the bottom and work up.
 3. **Weaving pattern**: Alternate each row — if the first row goes behind the first stake, the second row goes in front. This creates a tight, interlocking panel.
 4. **Tension**: Pack the weaving tightly. As the withies dry, they shrink slightly and tighten the lattice further.
@@ -87,7 +87,7 @@ The daub is the earthen mixture packed into and over the wattle. A good daub has
 - **Crushed brick or tile (pozzolanic)**: Adds hydraulic properties; improves water resistance. Common in Roman and medieval European daub.
 - **Lime**: Added to improve weather resistance. A 1:3 lime-to-clay ratio creates a more durable, breathable panel.
 - **Casein (milk protein)**: Acts as a natural waterproofing agent when mixed into the daub or used as a surface treatment.
-- **Cattail fluff or bulrush fiber**: Used by Native American and Pacific Island builders for lightweight insulation.
+- **Cattail fluff or bulrush fiber**: Used by [[native-american-planting-methods-and-indigenous-agriculture]] and Pacific Island builders for lightweight insulation.
 
 ## Construction Process
 
@@ -141,7 +141,7 @@ Wattle and daub is a **non-structural infill** material. It cannot bear vertical
 |----------|--------------|-------|
 | **R-value** (per 25 cm wall) | R-2 to R-4 | Depends on density and moisture content; comparable to adobe or rammed earth of similar thickness |
 | **Thermal mass** | High | Dense earthen walls absorb heat during the day and release it at night, moderating indoor temperature swings |
-| **Thermal lag** | 6–10 hours | Heat absorbed at noon is released in the evening, making these walls ideal for passive solar design |
+| **Thermal lag** | 6–10 hours | Heat absorbed at noon is released in the evening, making these walls ideal for [[passive-solar-design]] design |
 | **Breathability** | Excellent | The porous clay matrix allows water vapor to pass through, preventing condensation and mold |
 
 ### Acoustic Performance
@@ -178,7 +178,7 @@ Despite containing wood, wattle and daub has good fire resistance:
 
 ### Rising Damp
 
-**Cause**: Ground moisture wicking up into the wall through capillary action.
+**Cause**: Ground moisture wicking up into the wall through [[capillary-action-in-soils]].
 
 **Solutions**:
 - Ensure the wall base is at least 15 cm above grade on a non-porous plinth (stone, brick, concrete)
@@ -210,7 +210,7 @@ Despite containing wood, wattle and daub has good fire resistance:
 
 ### Permaculture and Homesteading
 
-Wattle and daub is increasingly popular in permaculture design for:
+Wattle and daub is increasingly popular in [[permaculture-design-course-notes]] for:
 
 - **Chicken coops and animal shelters**: Low-cost, breathable, well-insulated structures using on-farm materials.
 - **Greenhouse infill panels**: Provides thermal mass for passive solar greenhouses.
@@ -228,10 +228,10 @@ In the sustainable architecture movement, wattle and daub is valued for:
 
 ### Hybrid Systems
 
-Modern builders often combine wattle and daub with other natural building methods:
+Modern builders often combine wattle and daub with other [[natural-building-materials-guide]] methods:
 
 - **Wattle and daub + timber frame**: The traditional and still most common combination.
-- **Wattle and daub + straw bale**: Daub as exterior render over straw bale walls for weather protection.
+- **Wattle and daub + [[straw-bale-construction]]**: Daub as exterior render over straw bale walls for weather protection.
 - **Wattle and daub + cob**: Cob for massive base walls, wattle-and-daub for lighter upper-story infill.
 - **Wattle and daub + light clay straw**: A hybrid where the wattle is packed with a light clay-straw mix instead of solid earth, reducing weight while maintaining insulation.
 

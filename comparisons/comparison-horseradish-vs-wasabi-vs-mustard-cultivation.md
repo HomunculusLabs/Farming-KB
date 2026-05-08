@@ -14,8 +14,8 @@ type: comparison
 
 # Horseradish vs Wasabi vs Mustard: Cultivation Comparison
 
-Horseradish (*Armoracia rusticana*), wasabi (*Eutrema japonicum*), and mustard (primarily
-*Sinapis alba* and *Brassica juncea*) share a family connection in Brassicaceae, a reliance on
+Horseradish (*[[armoracia-rusticana]]*), wasabi (*Eutrema japonicum*), and mustard (primarily
+*[[sinapis-alba]]* and *[[brassica-juncea]]*) share a family connection in Brassicaceae, a reliance on
 glucosinolate hydrolysis for their signature pungency, and centuries of use as spicy condiments.
 Despite these commonalities, their cultivation requirements differ dramatically — from
 horseradish's near-indestructible resilience to wasabi's exacting demands. This comparison helps
@@ -59,7 +59,7 @@ protection is essential below zone 7.
 
 Mustard occupies a broad middle ground. Most species are cool-season annuals grown in spring or
 fall, tolerating light frost. They perform well in [[query-what-is-companion-planting-and-how-does-it-work]] as a
-quick-maturing intercrop or cover crop. Asian mustard varieties (*B. juncea*) are more
+quick-maturing intercrop or [[cover-crop]]. Asian mustard varieties (*B. juncea*) are more
 heat-tolerant. Mustard also functions as a biofumigant cover crop; glucosinolate breakdown
 suppresses soil-borne pathogens and nematodes when incorporated into soil.
 

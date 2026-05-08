@@ -12,7 +12,7 @@ tags: [psilocybin]
 
 A core argument in [Food of the Gods is
 that psilocybin acted as the primary catalyst for the emergence of human
-language. [[terence-mckenna-stoned-ape-hypothesis]] contends that the uniquely human capacity for
+language. [[psychedelic-mushrooms-species-and-identification]] contends that the uniquely human capacity for
 language did not arise from purely internal evolutionary pressures but was
 synergized by the inclusion of [Stropharia cubensis mushrooms in the hominid diet. This argument connects to the
 broader [catalytic model of

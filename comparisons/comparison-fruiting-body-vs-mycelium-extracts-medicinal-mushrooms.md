@@ -13,7 +13,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Fruiting Body vs Mycelium-on-Grain Extracts for Medicinal Mushrooms
+# Fruiting Body vs Mycelium-on-Grain Extracts for [[medicinal-mushrooms]]
 
 ## Overview
 
@@ -31,7 +31,7 @@ Mycelium is the vegetative root-like network of the fungus. Mycelium-on-grain pr
 
 ## Beta-Glucan Content and Bioactive Compounds
 
-Beta-glucans (specifically β-1,3/1,6-D-glucans) are the primary immunomodulatory polysaccharides in medicinal mushrooms. Research consistently shows significant differences between product types:
+[[beta-glucans]] (specifically β-1,3/1,6-D-glucans) are the primary immunomodulatory polysaccharides in medicinal mushrooms. Research consistently shows significant differences between product types:
 
 - **Fruiting body extracts** contain concentrated beta-glucan levels, typically **15–50%+** depending on species and extraction quality.
 - **Mycelium-on-grain products** contain substantially lower beta-glucan content, often **<5%**, because the product is diluted by grain biomass.
@@ -51,7 +51,7 @@ This is the most debated issue in the mushroom supplement industry:
 
 ## Terpenoid and Triterpenoid Content
 
-Triterpenoids (notably ganoderic acids in reishi, hericenones/erinacines in lion's mane) are critical bioactive compounds with anti-inflammatory, neuroprotective, and hepatoprotective properties:
+Triterpenoids (notably [[ganoderic-acids]] in reishi, hericenones/erinacines in lion's mane) are critical bioactive compounds with anti-inflammatory, neuroprotective, and hepatoprotective properties:
 
 - **Fruiting bodies** are the primary site of triterpenoid accumulation. Concentrations can be **5–10× higher** than in mycelium.
 - **Mycelium-on-grain** products contain minimal triterpenoids. What small amounts exist are further diluted by the grain biomass.

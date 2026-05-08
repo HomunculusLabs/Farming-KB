@@ -117,5 +117,5 @@ Conservation recommendations include maintaining continuous forest canopy cover,
 - [[laccaria-laccata]]
 - [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]

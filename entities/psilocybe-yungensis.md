@@ -11,7 +11,7 @@ type: entity
 # Psilocybe yungensis
 
 **Type:** Species (Fungus)
-**Category:** [[psilocybin]]-containing mushroom
+**Category:** [[psilocybin-compound]]-containing mushroom
 **Also known as:** divinatory mushroom, genius mushroom
 
 ## Overview

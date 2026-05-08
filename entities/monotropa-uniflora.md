@@ -118,6 +118,6 @@ The plant's dependence on specific fungal and tree partners makes it particularl
 
 - [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]]
 - [[russula-edible-species]]
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 - [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]]

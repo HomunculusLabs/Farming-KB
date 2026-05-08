@@ -83,10 +83,10 @@ connections shaped the current distribution.
 
 ## Hongo's Nine Distribution Types
 
-The distribution of neurotropic fungi worldwide can be categorized using
+The [[distribution-of-neurotropic-fungi]] worldwide can be categorized using
 the nine types proposed by Hongo (1978) for Japanese fungi:
 
-1. **Cosmopolitan species**: Panaeolus spp. and Panaeolina foenisecii
+1. **Cosmopolitan species**: Panaeolus spp. and [[panaeolina-foenisecii]]
 2. **Northern hemisphere species**: Amanita spp., Cordyceps spp.,
    Psilocybe pelliculosa, P. silvatica
 3. **Eurasian species**: Amanita muscaria and some northern hemisphere
@@ -99,7 +99,7 @@ the nine types proposed by Hongo (1978) for Japanese fungi:
 6. **Southeastern Asiatic species**: P. subaeruginascens var.
    subaeruginascens from Japan and Java
 7. **Tropical and subtropical species**: P. cubensis, P. subcubensis,
-   Copelandia cyanescens, C. tropicalis, and other Copelandia species
+   [[copelandia-cyanescens]], C. tropicalis, and other Copelandia species
 8. **Arctic and alpine species**: P. aztecorum var. aztecorum from
    high Mexican mountains (4,000 m), related to P. baeocystis from
    the Pacific Northwest and P. quebecensis from Quebec, Canada
@@ -132,7 +132,7 @@ Certain species show clear ecological preferences:
   Inocybe species
 - **Tropical/subtropical**: Psilocybe cubensis, P. subcubensis, and
   Copelandia spp. (with exceptions)
-- **Broadly temperate**: Psilocybe semilanceata (Europe, India, Russia,
+- **Broadly tempe [[psilocybe-semilanceata]] lanceata (Europe, India, Russia,
   Canada, USA, Chile, Peru, New Zealand, Australia, Tasmania), though
   surprisingly absent from Mexico
 
@@ -148,10 +148,3 @@ exploration rather than genuine absence.
 ## Related
 
 - [[psilocybe-global-biodiversity-southern-hemisphere-origin]] Topics
-
-- The global distribution maps and species lists are available in
-  [[guzman-allen-gartz-global-psilocybe-biogeography]].
-- Mexico's role as a biogeographic crossroads is explored in
-  [[mexico-neurotropic-fungi-diversity-center]].
-- The taxonomic sections referenced here are detailed in
-  [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]].

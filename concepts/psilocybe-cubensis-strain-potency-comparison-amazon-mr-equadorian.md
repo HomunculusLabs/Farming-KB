@@ -4,7 +4,8 @@ created: 2026-05-07
 updated: 2026-05-07
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 --- title: Psilocybe Cubensis Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
@@ -22,7 +23,7 @@ type: concept ---
 Bigwood and Beug (1982) compared the alkaloid profiles of three distinct strains of
 [[psilocybe-cubensis]] grown on rye-grain substrate, analyzing caps and stems separately from their
 first flush.  The three strains, designated Amazon, M.R., and Equadorian, each displayed unique
-distribution patterns of [[psilocybin]] and [[psilocin]] between fruiting body tissues. These
+distribution patterns of [[psilocybin-compound]] and [[psilocin]] between fruiting body tissues. These
 differences reveal that alkaloid distribution is strain-dependent and cannot be generalized across
 all Psilocybe cubensis varieties, a finding with important implications for research methodology and
 practical dosing.
@@ -55,7 +56,7 @@ the strain itself.
 - Caps: 6.7 mg/g psilocybin, 0 mg/g psilocin - Stems: 4.2 mg/g psilocybin, 0.35 mg/g psilocin
 
 This strain demonstrated a pronounced pattern where caps contained approximately 60% more
-[[psilocybin]] than stems (6.7 versus 4.2 mg/g). The small amount of [[psilocin]] detected (0.35
+[[psilocybin-compound]] than stems (6.7 versus 4.2 mg/g). The small amount of [[psilocin]] detected (0.35
 mg/g) was found exclusively in stem tissue, with none detected in the caps above the detection limit
 of approximately 0.01 micrograms. The cap-to-stem psilocybin ratio was 1.59:1.
 
@@ -73,7 +74,7 @@ similar selective pressures.
 
 - Caps: 5.7 mg/g psilocybin, 0.1 mg/g psilocin - Stems: 5.7 mg/g psilocybin, 0 mg/g psilocin
 
-The Amazon strain was unique in showing perfectly equal [[psilocybin]] distribution between cap and
+The Amazon strain was unique in showing perfectly equal [[psilocybin-compound]] distribution between cap and
 stem tissues, both measuring 5.7 mg/g. It also differed fundamentally from the other two strains by
 having a trace of psilocin (0.1 mg/g) in the cap rather than the stem, which is the reverse of the
 pattern observed in the M.R. and Equadorian strains.

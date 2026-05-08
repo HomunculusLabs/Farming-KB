@@ -24,7 +24,7 @@ sources:
 # Organic Gardening Techniques (Geoff Hamilton)
 Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
 ## The No-Dig Approach
-Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds specific techniques:
+Hamilton's core philosophy aligns with [[composting-and-soil-biology]] but adds specific techniques:
 ### Deep Bed System
 - Double-dig only once at establishment — never again
 - Beds 4-5 feet wide, any length, with permanent paths between
@@ -119,7 +119,7 @@ See [[companion-planting-reference]] for full details. Hamilton's top combinatio
 - [[greenhouse-design]] — Protected growing structures
 - [[orchard-management]] — Fruit tree care
 - [[mulching-guide]] — Mulch types and application
-- [[no-till-gardening-method]] — Minimum disturbance soil management
+- [[composting-and-soil-biology]] — Minimum disturbance soil management
 - [[weed-management-strategies]] — Weed ecology and control
 - [[seasonal-planning]] — Monthly task calendar
 - [[soil-fertility-management]] — Organic soil management

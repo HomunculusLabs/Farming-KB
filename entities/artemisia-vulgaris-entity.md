@@ -123,7 +123,7 @@ Mugwort is among the most culturally important herbs in Eurasian tradition. In T
 
 ## See Also
 
-- [[artemisia-vulgaris]]
+- artemisia vulgaris entity
 - [[artemisia-absinthium]]
 - [[achillea-millefolium]]
 - [[taraxacum-officinale]]

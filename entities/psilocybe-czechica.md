@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe czechica
 
-**Psilocybe czechica** is a bluing [[psilocybin]]-containing mushroom species from Central Europe, first described from the Czech Republic. It is a relatively obscure member of the Psilocybe genus, representing the psilocybian mycoflora of Central European forest and grassland ecosystems.
+**Psilocybe czechica** is a bluing [[psilocybin-compound]]-containing mushroom species from Central Europe, first described from the Czech Republic. It is a relatively obscure member of the Psilocybe genus, representing the psilocybian mycoflora of Central European forest and grassland ecosystems.
 
 ## Taxonomy
 
@@ -81,7 +81,7 @@ The specific epithet *czechica* honors the Czech Republic, where the species was
 **P. czechica** contains the standard psilocybian alkaloid profile, though detailed analytical data from multiple collections is limited.
 
 ### Alkaloid Content
-- [[psilocybin]]: 0.2 to 0.6% dry weight (estimated)
+- [[psilocybin-compound]]: 0.2 to 0.6% dry weight (estimated)
 - [[psilocin]]: trace amounts
 - [[baeocystin]]: present in small quantities
 
@@ -118,7 +118,7 @@ The Czech Republic has a notable history of mycological research, and the discov
 
 ## Legal Status
 
-As with all [[psilocybin]]-containing mushrooms, **P. czechica** is controlled under drug legislation. In the Czech Republic, psilocybin and psilocin are scheduled substances, and the collection and possession of psychoactive mushrooms is restricted.
+As with all [[psilocybin-compound]]-containing mushrooms, **P. czechica** is controlled under drug legislation. In the Czech Republic, psilocybin and psilocin are scheduled substances, and the collection and possession of psychoactive mushrooms is restricted.
 
 ## See Also
 
@@ -127,5 +127,5 @@ As with all [[psilocybin]]-containing mushrooms, **P. czechica** is controlled u
 - [[psilocybe-bohemica]] — related Central European species
 - [[psilocybe-semilanceata]] — widespread European liberty cap
 - [[psilocybe-serbica]] — Balkan forest species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[baeocystin]] — minor alkaloid constituent

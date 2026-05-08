@@ -147,5 +147,3 @@ produce suckers that can be separated and transplanted. See also
 for general propagation techniques.
 
 ## See Also
-
-- [[ziziphus-jujuba]]

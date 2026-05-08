@@ -136,57 +136,9 @@ After warming to 0 degrees Celsius and aqueous workup, the expected
 O,O-dibenzyl phosphate intermediate undergoes a spontaneous intramolecular
 rearrangement: one benzyl group migrates from the phosphate oxygen to the
 quaternary ammonium nitrogen of the dimethylaminoethyl side chain, forming a
-zwitterionic N,O-dibenzyl phosphate derivative.
-
-This zwitterion is insoluble in dichloromethane, while excess dibenzyl
-phosphate is removed by washing with CH2Cl2. The zwitterionic compound is
-isolated by simple filtration in 85.2% yield (10.5 g from 26.4 mmol psilocin).
-
-The structure was definitively confirmed by 2D NMR experiments. The HMBC
-spectrum showed that one benzyl group is directly linked to the quaternary
-nitrogen, while the other remains on the phosphate oxygen. The NOESY spectrum
-supported these assignments. The 31P NMR signal at -5.45 ppm and the
-high-resolution mass spectrum (m/z 465.1883, calculated 465.1943 for
-C26H30N2O4P) confirmed the zwitterionic structure.
-
-### Step 6: Catalytic Hydrogenolysis to Psilocybin
-
-The zwitterionic intermediate is dissolved in methanol and subjected to
-catalytic hydrogenolysis using 10% palladium on carbon under a hydrogen
-atmosphere at room temperature. After 2 hours, water is added to dissolve
-deposited product, and hydrogenation continues for one more hour.
-
-The catalyst is removed by filtration through Celite, and the solution is
-concentrated to afford psilocybin as white needle crystals. The product is
-collected by filtration and washed with ethanol, yielding 5.6 g (87.5% from
-the zwitterion, 72% overall from psilocin) even at gram scale.
-
-The melting point of 190 to 198 degrees Celsius is consistent with literature
-values.
-
-## Spectroscopic Characterization
-
-Psilocybin was thoroughly characterized:
-
-- UV: lambda max at 221.0, 267.5, 278.5, and 290.0 nm
-- IR: nu max at 3266, 3034, 1620, and 1580 cm-1
-- 1H NMR and 13C NMR consistent with the expected structure
-- 31P NMR: delta -4.48 ppm, confirming the OPO3H2 phosphate group
-- ESI-MS: m/z 285 [M+H]+
-- High-resolution MS: confirmed molecular formula C12H18N2O4P
-
-## Regulatory Context
-
-In Japan, fungi containing psilocybin and psilocin were regulated under the
-Narcotics and Psychotropic Control Law beginning June 6, 2002. Morphological
-and microscopic identification of psilocybin-containing mushrooms is difficult
-without expert knowledge, so chromatographic methods (TLC, GC, HPLC) are
-typically employed. The pure reference standards produced by this synthesis are
-essential for these forensic analytical procedures.
-
 ## See Also
 
-- [[psilocybin]] - the psychoactive prodrug compound found in Psilocybe
+- [[psilocybin-compound]] - the psychoactive prodrug compound found in Psilocybe
   mushrooms
 - [[psilocin]] - the dephosphorylated active metabolite and primary
   psychedelic agent

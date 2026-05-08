@@ -143,5 +143,5 @@ Rauwolfia serpentina is foundational to the pharmacology of [[indole]] alkaloids
 - chlorpromazine
 - yohimbine
 - ayurveda
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[4-hydroxytryptamine]]

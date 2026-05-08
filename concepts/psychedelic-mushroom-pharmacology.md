@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin-compound]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -121,7 +121,7 @@ This increased connectivity may allow the brain to escape entrenched patterns of
 
 Rapid and significant tolerance develops to the effects of psilocybin:
 
-- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, [[mescaline]])
+- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, [[mescaline-entity]])
 - Tolerance is largely gone within 7-14 days of abstinence
 - The mechanism involves 5-HT2A receptor downregulation and desensitization
 - No evidence of physical dependence or withdrawal syndrome
@@ -147,4 +147,4 @@ Psilocybin has a very high safety profile:
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[psychedelic-mushroom-set-and-setting]]
 - [[psychedelic-mushroom-dosage-guide]]
-- [[psychedelic-mushroom-music-and-culture]]
+- [[mushroom-cultivation-fundamentals]]

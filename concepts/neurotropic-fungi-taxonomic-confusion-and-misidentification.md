@@ -57,7 +57,7 @@ In Chignahuapan, Puebla, Mexico, a church was built in honor of Ganoderma lobatu
 
 ## Polypores as Alleged Psychotropics
 
-Oldridge et al. (1989) classified certain polypores containing hordenine, N-methyltyramine, and tyramine as psychotropic, including [[laetiporus-sulphureus]] and [[meripilus-giganteus]]. These compounds produce dizziness and disorientation but are not true hallucinogens. *L. sulphureus* is one of the most important edible fungi in Mexico and worldwide. Thoen (1982) documented the use of polypores in religious ceremonies for magic, including Polyporus tuberaster, [[poria-cocos]], [[ganoderma-lucidum]], and [[fomes-fomentarius]]. In Alaska, Phellinus igniarus and *F. fomentarius* were observed as narcotic fungi, though their psychoactivity remains unverified.
+Oldridge et al. (1989) classified certain polypores containing hordenine, N-methyltyramine, and tyramine as psychotropic, including [[laetiporus-sulphureus-permaculture]] and [[meripilus-giganteus]]. These compounds produce dizziness and disorientation but are not true hallucinogens. *L. sulphureus* is one of the most important edible fungi in Mexico and worldwide. Thoen (1982) documented the use of polypores in religious ceremonies for magic, including Polyporus tuberaster, [[poria-cocos]], [[ganoderma-lucidum]], and [[fomes-fomentarius]]. In Alaska, Phellinus igniarus and *F. fomentarius* were observed as narcotic fungi, though their psychoactivity remains unverified.
 
 ## Psilocybe coprinifacies Taxonomic History
 
@@ -101,7 +101,7 @@ The 1998 survey divided neurotropic fungi into four groups based on chemical and
 
 1. **Indole-containing fungi**: Those with psilocybin, psilocin, baeocystin, and norbaeocystin, mainly the bluing species of Psilocybe, Conocybe, and Copelandia, but also found or probably found in some non-bluing species of Agrocybe, Galerina, Gerronema, Gymnopilus, Inocybe, Mycena, Panaeolina, Panaeolus, and Pluteus.
 
-2. **Ibotenic acid fungi**: [[amanita-muscaria]], [[amanita-pantherina]], and [[amanita-regalis]].
+2. **Ibotenic acid fungi**: [[amanita-muscaria]], [[amanita-pantherina]], and [[amanita-regalis-entity]].
 
 3. **Ergot fungi**: [[claviceps-purpurea]] and allies, including C. nigricans, C. paspali, C. rolfesii, and C. tripsicii, plus probably two species of Cordyceps.
 
@@ -127,7 +127,7 @@ This volatility problem means that negative chemical results cannot be taken as 
 
 ## See Also
 
-- [[neurotropic-fungi-volatility-and-potency-degradation]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[neurotropic-fungi-of-mexico-and-mesoamerica]]
 - [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
 - [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]

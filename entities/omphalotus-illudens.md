@@ -113,7 +113,7 @@ Research into the genetics of fungal bioluminescence has identified the hispidin
 ## See Also
 
 - [[omphalotus-olearius]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[armillaria-mellea]]
 - [[clitocybe-nebularis]]
 - [[pleurotus-ostreatus]]

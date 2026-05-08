@@ -91,7 +91,7 @@ The [[comparison-insectary-plants-vs-trap-crops]] analysis shows that both appro
 - Flowering plants like marigolds and yarrow attract [[beneficial-insects-cannabis]] that control pests
 - [[companion-planting-deterrents]] work best when distributed throughout the garden, not clustered
 - Nitrogen-fixing clover and dynamic accumulators like comfrey improve soil fertility for cannabis
-- Trap crops like nasturtiums draw pests away from cannabis as part of [[cannabis-pest-management]]
+- Trap crops like nasturtiums draw pests away from cannabis as part of cannabis pest management
 
 ## Related Questions
 

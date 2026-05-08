@@ -114,10 +114,10 @@ Yields are low and the inedible texture limits practical cultivation interest to
 
 - [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[hericium-erinaceus]]
 - [[suillus-luteus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[polyporus-umbellatus]]
 - [[coriolopsis-capitata]]
 - [[laccaria-bicolor]]

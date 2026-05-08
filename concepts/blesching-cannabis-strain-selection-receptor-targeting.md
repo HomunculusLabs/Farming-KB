@@ -128,21 +128,6 @@ Cannabis sativa ranges from 12-35% (E)-BCP content by comparison.
 2. Match receptor profile to strain type — sativa for CB1, indica for CB2
 3. Consider the entourage effect — whole-plant products may outperform
    isolates
-4. Start low, go slow — individual responses vary significantly
-5. Combine with dietary cannabinoids — spices provide additional CB2
-   activation
-
-## Key Takeaways
-
-- CB1 receptors (brain/CNS) produce psychoactive effects and modulate
-  mood, memory, and pain
-- CB2 receptors (immune/peripheral) provide non-psychoactive anti-
-  inflammatory and immune-modulating effects
-- Sativa-dominant strains favor CB1 for cerebral effects; indica-dominant
-  favor CB2 for body effects
-- The entourage effect suggests whole-plant cannabis outperforms isolates
-- Common spices provide dietary CB2 activation via (E)-BCP
-
 ## See Also
 
 - [[london-pound-cake]]

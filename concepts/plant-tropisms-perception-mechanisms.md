@@ -148,4 +148,3 @@ to Bose as "To the Revealer of a New World."
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
 - [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]

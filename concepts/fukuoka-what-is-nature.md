@@ -90,5 +90,5 @@ Fukuoka devoted decades to examining whether natural farming can really compete 
 - [[fukuoka-nature-perfect-imperfect]]
 - [[fukuoka-return-to-nature-philosophy]]
 - [[fukuoka-natural-farming-transcends-time-space]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-natural-vs-scientific-farming]]

@@ -148,4 +148,3 @@ PGPR are powerful but not a silver bullet. Key limitations to understand:
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes|Compost Tea and Biological Extracts]]
 - [[integrated-pest-management|Integrated Pest Management (IPM)]]
 - [[biochar-in-agriculture|Biochar in Regenerative Agriculture]]
-- [[hamilton-beneficial-insects-and-biological-pest-control|Beneficial Insects and Biological Pest Control]]

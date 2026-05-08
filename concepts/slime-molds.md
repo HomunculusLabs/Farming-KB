@@ -107,7 +107,7 @@ performing a form of natural optimization.
 ## Ecological Role
 
 Slime molds play important roles [[teaming-with-microbes-bacteria-and-archaea-in-soil]] ecosystems. Their primary food is
-bacteria, and they help regulate bacterial populations [[trace-elements-in-soil]] and on decaying
+bacteria, and they help regulate bacterial populations [[composting-and-soil-biology]] and on decaying
 wood. By concentrating nutrients in their spores and fruiting bodies, they
 also make those nutrients available to other organisms. Their plasmodia
 contribute to soil structure and moisture retention. In forest ecosystems,
@@ -148,4 +148,3 @@ immune cell behavior and the mechanisms of cancer metastasis. The organism's
 social behavior has also made it a model for studying the evolution of
 - [[mycelium]]
 - [[spore-dispersal]]
-- [[fungal-taxonomy]]

@@ -82,7 +82,7 @@ Cutworms are among the many caterpillars and larvae controlled
 by Bt formulations, along with corn earworms, gypsy moth
 larvae, and budworms. They are particularly damaging to young
 seedlings and recently
-[[cervantes-transplanting-potting-up]] plants.
+[[cannabis-advanced-growing-techniques]] plants.
 
 ### Damage
 
@@ -130,7 +130,7 @@ cutworm pupae to predators and freezing temperatures.
   pests
 - [[cervantes-seedling-care-early-growth]] - protecting young
   plants
-- [[cervantes-transplanting-potting-up]] - transplant
+- [[cannabis-advanced-growing-techniques]] - transplant
   protection
 - [[cervantes-root-rot-pythium-damping-off]] - secondary
   root diseases

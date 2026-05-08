@@ -49,8 +49,8 @@ Fukuoka criticized agricultural science for:
 ## Related
 - [[fukuoka-natural-farming-four-principles]] — for the practical application
 - [[fukuoka-natural-farming-four-principles]] — for broader natural farming context
-- [[no-till-gardening-method]] — for modern no-till approaches
-- [[permaculture-introduction-and-ethics]] — for related permaculture philosophy
+- [[composting-and-soil-biology]] — for modern no-till approaches
+- [[permaculture-design-principles]] — for related permaculture philosophy
 - [[fukuoka-desert-reclamation]]
 - [[fukuoka-orchard-method]]
 - [[fukuoka-rice-and-barley-natural-farming]]

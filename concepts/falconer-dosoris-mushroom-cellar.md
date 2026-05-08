@@ -148,12 +148,3 @@ were typically brick spawn or flake spawn, as described by Falconer.
 - A single tall ventilating shaft works better than multiple
   small ones
 - The [[falconer-making-up-mushroom-beds]] arrangement should prioritize ease of
-  access for all operations from [[falconer-spawning-the-beds]] to harvest
-
-## See Also
-
-[[falconer-mushroom-cellar-ventilation-and-moisture]],
-[[falconer-mushroom-cultivation-history]],
-[[falconer-mushroom-cultivation-victorian-methods]],
-[[falconer-mushroom-cellar-management]], and
-[[falconer-mushroom-spawn-types-and-merits]]

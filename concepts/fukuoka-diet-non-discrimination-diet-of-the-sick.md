@@ -109,7 +109,7 @@ The connection between diet and place was equally important. Fukuoka argued that
 ## Related Concepts
 
 - [[fukuoka-natural-diet-four-types]] -- the four types of diet hierarchy
-- [[fukuoka-natural-diet-principles]] -- natural diet principles
+- [[fukuoka-natural-farming-philosophy]] -- natural diet principles
 - [[fukuoka-natural-body-and-health]] -- the natural body
 - [[fukuoka-cleansing-diet]] -- cleansing and healing diet
 - [[fukuoka-food-and-human-health]] -- food and human health

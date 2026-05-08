@@ -117,7 +117,7 @@ like Pleurotus ostreatus or Lentinula edodes.
 - [[agaricus-subrufescens]]
 - [[trametes-versicolor]]
 - [[schizophyllum-commune]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[auricularia-auricula-judae]]
 - [[morchella-esculenta]]
 - [[psilocybe-cubensis]]

@@ -148,4 +148,3 @@ regard, as they directly connect plant roots to mineral soil horizons.
 
 Fungal weathering contributes to soil formation, landscape evolution, and the
 global cycling of carbon, nitrogen, phosphorus, and metals. In
-[[gadd-fungal-biodegradation-bioremediation]], the ability of fungi to

@@ -10,19 +10,19 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # 4-Hydroxyindole
 
-4-Hydroxyindole is an organic compound and a key intermediate in the chemical synthesis of [[psilocin]], [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in psychedelic mushroom metabolism.
+4-Hydroxyindole is an organic compound and a key intermediate in the chemical synthesis of [[psilocin]], [[psilocybin-compound]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in psychedelic mushroom metabolism.
 
 ## Chemical Structure and Properties
 
 4-Hydroxyindole has the molecular formula C₈H₇NO and a molecular weight of 133.15 g/mol. The IUPAC name is 1H-indol-4-ol. The compound consists of an indole ring system — a fused bicyclic structure of a benzene ring joined to a pyrrole ring — with a hydroxyl substituent at the 4-position of the benzene moiety.
 
-This hydroxyl group at the 4-position is the defining feature that makes 4-hydroxyindole the direct precursor to [[psilocin]] and [[psilocybin]]. In the natural biosynthetic pathway within [[psilocybin]] species, the corresponding intermediate is 4-hydroxy-L-tryptophan or its decarboxylated product, but 4-hydroxyindole itself is the core heterocyclic scaffold used in chemical synthesis.
+This hydroxyl group at the 4-position is the defining feature that makes 4-hydroxyindole the direct precursor to [[psilocin]] and [[psilocybin-compound]]. In the natural biosynthetic pathway within [[psilocybin-compound]] species, the corresponding intermediate is 4-hydroxy-L-tryptophan or its decarboxylated product, but 4-hydroxyindole itself is the core heterocyclic scaffold used in chemical synthesis.
 
 The compound is a solid at room temperature but is sensitive to oxidation and light, particularly in solution. It is sparingly soluble in water and more soluble in organic solvents such as ethanol, methanol, and ethyl acetate.
 
 ## Role in Psilocybin Synthesis
 
-4-Hydroxyindole is the starting material or a critical intermediate in virtually all published synthetic routes to [[psilocin]] and [[psilocybin]]. In the concise large-scale synthesis described by Shirota, Hakamata, and Goda, 4-hydroxyindole serves as the foundational intermediate from which the side chain and phosphoryl group are introduced.
+4-Hydroxyindole is the starting material or a critical intermediate in virtually all published synthetic routes to [[psilocin]] and [[psilocybin-compound]]. In the concise large-scale synthesis described by Shirota, Hakamata, and Goda, 4-hydroxyindole serves as the foundational intermediate from which the side chain and phosphoryl group are introduced.
 
 The general synthetic strategy proceeds as follows:
 
@@ -30,7 +30,7 @@ The general synthetic strategy proceeds as follows:
 
 2. **Protection and functionalization**: The 4-hydroxy group may be protected (e.g., as an acetate or benzyl ether) during side chain installation to prevent unwanted side reactions, then deprotected to yield [[psilocin]].
 
-3. **Phosphorylation**: [[psilocin]] can then be phosphorylated using phosphoryl chloride (POCl₃) or other phosphorylating agents to yield [[psilocybin]].
+3. **Phosphorylation**: [[psilocin]] can then be phosphorylated using phosphoryl chloride (POCl₃) or other phosphorylating agents to yield [[psilocybin-compound]].
 
 Alternative synthetic routes may begin from other starting materials (such as 4-benzyloxyindole or 4-methoxyindole) and ultimately arrive at 4-hydroxyindole derivatives before final deprotection.
 
@@ -47,7 +47,7 @@ The Shirota synthesis and related industrial approaches typically employ a prote
 
 ## Relevance to Biosynthesis
 
-In the natural biosynthetic pathway of [[psilocybin]], the enzyme PsiD (a tryptamine 4-hydroxylase) catalyzes the hydroxylation of [[tryptamine]] at the 4-position of the indole ring to produce 4-hydroxytryptamine. This enzyme-generated intermediate is the biological equivalent of the chemical synthesis intermediate derived from 4-hydroxyindole. Understanding the structure and reactivity of 4-hydroxyindole and its derivatives is therefore essential to both laboratory and enzymatic approaches to [[psilocybin]] production.
+In the natural biosynthetic pathway of [[psilocybin-compound]], the enzyme PsiD (a tryptamine 4-hydroxylase) catalyzes the hydroxylation of [[tryptamine]] at the 4-position of the indole ring to produce 4-hydroxytryptamine. This enzyme-generated intermediate is the biological equivalent of the chemical synthesis intermediate derived from 4-hydroxyindole. Understanding the structure and reactivity of 4-hydroxyindole and its derivatives is therefore essential to both laboratory and enzymatic approaches to [[psilocybin-compound]] production.
 
 ## Spectroscopic Properties
 
@@ -57,7 +57,7 @@ In the natural biosynthetic pathway of [[psilocybin]], the enzyme PsiD (a trypta
 - **NMR spectroscopy**: The 1H NMR spectrum in DMSO-d6 shows characteristic signals including a singlet for the indole NH at approximately 10.5 ppm, a doublet for H-7 at approximately 6.9 ppm, and aromatic multiplets between 6.5 and 7.5 ppm. The hydroxyl proton appears as a broad singlet around 9.0 to 9.5 ppm.
 - **Mass spectrometry**: The molecular ion peak at m/z 133 corresponds to the molecular weight. Characteristic fragment ions include m/z 116 (loss of NH) and m/z 89 (indole ring fragment).
 
-These spectroscopic signatures are essential for monitoring the progress of [[psilocybin]] synthesis and confirming the purity of intermediates at each stage.
+These spectroscopic signatures are essential for monitoring the progress of [[psilocybin-compound]] synthesis and confirming the purity of intermediates at each stage.
 
 ## Stability and Handling
 
@@ -70,7 +70,7 @@ These spectroscopic signatures are essential for monitoring the progress of [[ps
 
 ## Other Applications
 
-Beyond its role in [[psilocybin]] chemistry, 4-hydroxyindole and its derivatives have applications in:
+Beyond its role in [[psilocybin-compound]] chemistry, 4-hydroxyindole and its derivatives have applications in:
 
 - **Pharmaceutical chemistry**: As intermediates in the synthesis of serotonergic drugs and indole-based pharmaceuticals targeting [[serotonin]] receptors.
 - **Materials science**: As precursors to indole-based polymers and conducting materials.
@@ -81,7 +81,7 @@ Beyond its role in [[psilocybin]] chemistry, 4-hydroxyindole and its derivatives
 
 The hydroxyindoles constitute a family of six positional isomers (2-, 3-, 4-, 5-, 6-, and 7-hydroxyindole), each with distinct chemical properties and biological relevance:
 
-- **4-Hydroxyindole**: The focus of this article, critical for [[psilocybin]] synthesis and biosynthesis.
+- **4-Hydroxyindole**: The focus of this article, critical for [[psilocybin-compound]] synthesis and biosynthesis.
 - **5-Hydroxyindole**: The precursor to [[serotonin]] and melatonin biosynthesis, formed by the hydroxylation of [[tryptamine]] by tryptophan hydroxylase.
 - **6-Hydroxyindole**: An intermediate in the biosynthesis of certain indole-derived natural products and melanin-related compounds.
 - **7-Hydroxyindole**: Less commonly encountered, but of interest in the chemistry of indole alkaloids and as a potential synthetic intermediate.
@@ -103,7 +103,7 @@ Each of these derivatives has specific applications in synthetic chemistry and m
 
 ## Industrial Relevance
 
-The demand for 4-hydroxyindole has increased with the growing interest in [[psilocybin]] for therapeutic applications. As pharmaceutical companies and research institutions scale up production of [[psilocybin]] and related compounds, the need for reliable, high-quality supplies of 4-hydroxyindole and its protected derivatives has grown correspondingly.
+The demand for 4-hydroxyindole has increased with the growing interest in [[psilocybin-compound]] for therapeutic applications. As pharmaceutical companies and research institutions scale up production of [[psilocybin-compound]] and related compounds, the need for reliable, high-quality supplies of 4-hydroxyindole and its protected derivatives has grown correspondingly.
 
 Several contract manufacturing organizations now offer 4-hydroxyindole as a catalog item or custom synthesis service, with capacities ranging from gram-scale for research to kilogram-scale for process development. The cost has decreased as demand has increased, though it remains one of the more expensive indole building blocks due to the synthetic challenges involved in its preparation.
 
@@ -114,7 +114,7 @@ Several contract manufacturing organizations now offer 4-hydroxyindole as a cata
 ## See Also
 
 - [[psilocin]] — the primary product derived from 4-hydroxyindole
-- [[psilocybin]] — the phosphorylated derivative of psilocin
+- [[psilocybin-compound]] — the phosphorylated derivative of psilocin
 - [[tryptamine]] — the unhydroxylated parent amine
 - [[indole]] — the parent heterocyclic compound
 - [[4-acetoxy-nn-dimethyltryptamine]] — the acetylated prodrug derivative

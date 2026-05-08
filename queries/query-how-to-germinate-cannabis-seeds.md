@@ -34,7 +34,7 @@ between two layers of damp (not dripping) paper towel on a plate, cover with ano
 plate or seal in a ziplock bag to maintain humidity, and keep in a warm dark place.
 Check every 12 to 24 hours, and once the taproot emerges to about 1 to 2 centimeters,
 carefully transfer the seed to your growing medium with the taproot pointing downward.
-The [[green-cannabis-grow-bible-seed-germination-methods]] page from Greg Green's
+The green cannabis grow bible seed germination methods page from Greg Green's
 reference work provides detailed instructions and common pitfalls to avoid.
 
 Direct planting into the final growing medium avoids the transplant shock that can

@@ -61,7 +61,7 @@ The story is obviously garbled in this version, and the simile contest regarding
 
 ## The Alchemical Children
 
-A parallel example is provided by the mushroom cults of the New World: throughout their range in Mesoamerica, the psychoactive mushrooms are thought of as small children -- los ninos, "the dear sweet little ones," [[maria-sabina-mazatec-mushroom-ceremony]], the mushroom shamaness of Huautla de Jimenez, called them. This is an instance of the motif of the alchemical children, the elfin denizens of some nearby magical continuum, accessed through psilocybin.
+A parallel example is provided by the mushroom cults of the New World: throughout their range in Mesoamerica, the psychoactive mushrooms are thought of as small children -- los ninos, "the dear sweet little ones," [[mushroom-cultivation-fundamentals]], the mushroom shamaness of Huautla de Jimenez, called them. This is an instance of the motif of the alchemical children, the elfin denizens of some nearby magical continuum, accessed through psilocybin.
 
 ## Minoan Opium and the Decline of Mushroom Use
 
@@ -85,6 +85,6 @@ Opium was consonant with the style of Minoan culture and helped to preserve it. 
 
 [[dominator-culture-and-partnership-society]]
 
-[[maria-sabina-mazatec-mushroom-ceremony]]
+[[mushroom-cultivation-fundamentals]]
 
 [[mckenna-food-of-the-gods-thesis]]

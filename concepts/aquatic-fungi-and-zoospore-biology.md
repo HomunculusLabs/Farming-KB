@@ -140,40 +140,6 @@ host preferences.
 In laboratory settings, zoospores can be directed by electrodes
 delivering currents equivalent to those produced by roots. Confined to
 a microscope slide, zoospores demonstrate remarkable determination,
-avoiding the heat of the microscope lamp by swimming toward cooler
-edges, bouncing off glass, and searching for an escape route until
-their cytoplasmic fuel is exhausted.
-
-## Sexual Reproduction in Water Molds
-
-Water molds reproduce sexually through the interaction of male
-structures (antheridia) and female structures (oogonia). Communication
-between mating types is mediated by pheromones.
-The water mold *Achlya ambisexualis* produces antheridiol and
-oogoniol, steroid-like compounds remarkably similar in structure to
-human sex hormones (estrogen, progesterone, and testosterone) despite
-the enormous evolutionary distance between oomycetes and animals.
-These pheromones coordinate a complex developmental sequence: the
-female pheromone triggers antheridial branch formation, while the male
-pheromone directs the growth of these branches toward the oogonia for
-fertilization.
-
-## Ecological and Pathological Significance
-
-Aquatic fungi are instrumental in leaf decomposition in freshwater
-ecosystems, recycling nutrients and forming a critical link in aquatic
-food webs.
-However, several species are significant pathogens:
-- *Saprolegnia*: devastating infections of fish and amphibians
-- *Pythium insidiosum*: pythiosis in mammals, transmitted when
-  zoospores contact skin wounds
-- *Phytophthora infestans*: the potato blight pathogen that caused the
-  Irish Potato Famine, using swimming zoospores to infect potato plants
-The dual existence of oomycetes as both sedentary mycelial organisms and
-active swimmers is a window into evolutionary history. Every time a
-water mold stops extending hyphae and discharges zoospores into the
-water, it displays a primeval fragment of its ancestry.
-
 ## Related Topics
 
 - [[hyphal-biology-and-turgor-pressure]]

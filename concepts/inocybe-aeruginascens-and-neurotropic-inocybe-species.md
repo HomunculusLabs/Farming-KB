@@ -24,7 +24,7 @@ neurotropic fungi. As members of the family Cortinariaceae, Inocybe
 species are not visually associated with the typical "magic mushroom"
 morphotype, lacking the [[metol-testing-bluing-reaction-mushrooms|bluing reaction]] characteristic of most
 psilocybin-containing fungi. Yet several Inocybe species have been
-confirmed to contain [[psilocybin]], [[psilocin]], and related indole
+confirmed to contain [[psilocybin-compound]], [[psilocin]], and related indole
 alkaloids, making them important but often overlooked members of the
 [[neurotropic-fungi|neurotropic mycoflora]]. See [[psilocybe-genus-diversity-and-taxonomy]] for
 comparison with the more widely studied [[mushroom-spore-printing-and-storage|spore-print-producing]] Psilocybe genus.
@@ -68,7 +68,7 @@ through the work of German mycologists and chemists.
   fungi, it does not typically show the characteristic blue bruising
   reaction, though some collections may show slight greenish-blue
   discoloration.
-- **Chemical constituents**: Contains [[psilocybin]], [[psilocin]], and
+- **Chemical constituents**: Contains [[psilocybin-compound]], [[psilocin]], and
   [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|baeocystin]]. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
   1996) conducted extensive chemical analyses of German collections,
   documenting the indole alkaloid profile.
@@ -125,52 +125,6 @@ The neurotropic Inocybe species are significant for several reasons:
    patterns and chemical ecology.
 2. **Toxicity concern**: Inocybe species as a genus include many
    species that contain dangerous toxins (particularly [[muscarine]]),
-   unrelated to psilocybin. The presence of both neurotropic and
-   toxic compounds in the same genus creates a significant
-   identification challenge — see [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
-   for an overview of dangerous fungal toxins. Misidentification of a
-   toxic Inocybe for a neurotropic one could have serious health
-   consequences.
-3. **Non-bluing species**: The neurotropic Inocybe species generally
-   do not exhibit the characteristic blue bruising reaction of most
-   psilocybin-containing fungi. This makes visual identification of
-   their neurotropic status essentially impossible without chemical
-   analysis.
-4. **Urban ecology**: I. aeruginascens in particular has been
-   documented fruiting in urban parks and disturbed habitats in
-   European cities, an unusual ecological niche for a mycorrhizal
-   species.
-
-## The Berlin Phenomenon
-
-The discovery of I. aeruginascens as a recreational drug in Berlin
-during the early 1980s represents a unique chapter in the ethnopharmacology
-of neurotropic fungi. Drewitz (1983) and Hohmeyer (1984) documented
-individuals collecting and consuming I. aeruginascens from public parks
-in Berlin. Gartz (1985a, 1986a) subsequently confirmed the presence of
-psilocybin and psilocin in these collections.
-This phenomenon is particularly notable because it involved a genus not
-traditionally associated with psychoactive use, highlighting the gaps
-in public knowledge about fungal toxicology and the potential dangers of
-confusing neurotropic Inocybe species with potentially lethal toxic
-Inocybe species.
-
-## Research Needs
-
-Several areas require further investigation regarding neurotropic
-Inocybe species:
-- The full geographic range of all six confirmed species remains
-  incompletely documented, particularly outside of Europe.
-- The ecological factors that influence psilocybin production in
-  [[mycorrhizal-fungi]] are poorly understood.
-- The relationship between the indole alkaloid content and the
-  muscarine content in Inocybe species needs clarification.
-- Molecular phylogenetic studies could determine whether neurotropic
-  Inocybe species form a monophyletic group or whether the trait has
-  evolved independently multiple times within the genus. See also
-  [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] for the
-  biochemical pathways underlying these compounds.
-
 ## See Also
 
 - [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and distribution of neurotropic Inocybe

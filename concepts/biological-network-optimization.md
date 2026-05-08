@@ -148,4 +148,3 @@ biological network principles, producing emergent collective intelligence.
 - [[fungal-intelligence]]
 - [[physarum-computation]]
 - adaptive network reinforcement
-- [[xylem-and-phloem-transport-systems-in-plants]]

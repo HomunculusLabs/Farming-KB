@@ -44,7 +44,7 @@ Figs grow at a moderate to fast pace, typically reaching 3–6 m in cultivation 
 
 ## Climate Range and Cold Hardiness
 
-This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*Morus alba* var. *tatarica*) and Illinois everbearing — are extremely cold-hardy, reliably growing in USDA Zone 4 (−34 °C / −30 °F). Figs are generally hardy to Zone 7–8 unprotected, though cold-hardy cultivars like 'Chicago Hardy' and 'Brown Turkey' can survive in Zone 6 with winter protection (mulching, wrapping, or burying). In hot, dry climates (Zone 9–10), both thrive, but figs have the edge — they are native to the Mediterranean and tolerate intense heat, drought, and alkaline soils that stress mulberries.
+This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*[[morus-alba]]* var. *tatarica*) and Illinois everbearing — are extremely cold-hardy, reliably growing in USDA Zone 4 (−34 °C / −30 °F). Figs are generally hardy to Zone 7–8 unprotected, though cold-hardy cultivars like 'Chicago Hardy' and 'Brown Turkey' can survive in Zone 6 with winter protection (mulching, wrapping, or burying). In hot, dry climates (Zone 9–10), both thrive, but figs have the edge — they are native to the Mediterranean and tolerate intense heat, drought, and alkaline soils that stress mulberries.
 
 ## Fruit Characteristics
 
@@ -70,7 +70,7 @@ Both trees are among the most pest-resistant fruit options available. Figs can s
 
 ## Propagation Ease
 
-Both are trivially easy to propagate from cuttings. Fig cuttings root readily from 15–30 cm hardwood sections in perlite, water, or directly in soil. Mulberries root quickly from softwood cuttings in spring or hardwood cuttings in winter. Air layering also works well for both. This ease of propagation makes them ideal for plant sharing, nursery income, or rapid food forest establishment.
+Both are trivially easy to propagate from cuttings. Fig cuttings root readily from 15–30 cm hardwood sections in perlite, water, or directly in soil. Mulberries root quickly from softwood cuttings in spring or hardwood cuttings in winter. Air layering also works well for both. This ease of propagation makes them ideal for plant sharing, nursery income, or rapid [[food-forest-establishment]].
 
 ## Wildlife Value
 

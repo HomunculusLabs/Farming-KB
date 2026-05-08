@@ -148,4 +148,3 @@ Regular consumption is associated with reduced platelet aggregation, improved en
 - [[glycyrrhiza-glabra]] — Licorice, another leguminous herb with similar growing zone
 - [[tagetes-erecta-entity]] — Marigold, companion plant for nematode deterrence
 - [[ocimum-basilicum]] — Basil, companion plant that improves pepper flavor
-- [[piper-nigrum-entity]] — Black pepper, the unrelated spice that gave "pepper" its name

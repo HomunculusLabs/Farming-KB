@@ -148,4 +148,3 @@ origins in treated environments.
 
 - [[singh-detection-methods-degrading-fungi-environment]]
 - [[singh-key-fungal-genera-bioremediation]]
-- [[singh-microcosm-and-mesocosm-studies-in-mycorrhizal-remediation]]

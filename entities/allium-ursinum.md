@@ -108,7 +108,7 @@ Propagation is primarily by bulb division in autumn or seed sowing in late summe
 
 ## See Also
 
-- [[allium-sativum]]
+- [[allium-sativum-entity]]
 - [[borago-officinalis]]
 - [[urtica-dioica]]
 - [[taraxacum-officinale]]

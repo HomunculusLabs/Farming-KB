@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[garden-tools-selection]] and Maintenance
+# [[organic-vegetable-growing-and-market-gardening]] and Maintenance
 
 [[steve-solomon]] insists that to vegetable garden successfully you only need
 a few hand tools, provided they are high quality and properly sharpened.

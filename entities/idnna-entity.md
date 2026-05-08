@@ -121,7 +121,7 @@ The N,N-dimethylation proved effective in abolishing psychedelic effects while p
 
 [[2c-i-entity]]
 
-[[mda-entity]]
+[[mda]]
 
 ## References
 

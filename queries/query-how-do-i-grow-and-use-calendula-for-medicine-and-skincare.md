@@ -140,28 +140,6 @@ Spread petals in a single layer on a screen or paper towel. Dry in a warm, dark,
 ### Pro Tips
 
 - **Patch test** first: Apply a small amount to your inner wrist and wait 24 hours to check for allergic reaction, especially if you have Asteraceae (ragweed) allergies.
-- **Resin content matters**: Sticky, resinous calendula varieties like 'Resina' are significantly more potent for topical use. Choose your variety accordingly.
-- **Fresh vs dried**: For infused oils, dried petals are preferred because water in fresh petals can cause mold. If using fresh, wilt them for 12–24 hours before infusing.
-- **Combine with other herbs**: Calendula pairs exceptionally well with lavender (calming, antimicrobial), plantain (drawing, soothing), and comfrey (cell-proliferation, though comfrey is for closed wounds only).
-- **Sun protection**: Calendula's carotenoids (lutein, β-carotene) offer mild UV protection. A calendula-infused face oil provides antioxidant defense against photoaging but is NOT a substitute for sunscreen.
-
-## Companion Planting Benefits
-
-Beyond medicine, calendula serves your garden:
-
-- **Plant near tomatoes and peppers**: Its root exudates suppress nematodes in the soil.
-- **Interplant with brassicas**: Attracts hoverflies whose larvae eat cabbage aphids and caterpillars.
-- **Edge your vegetable beds**: Creates a pest-trap barrier that lures aphids away from crops.
-- **Under fruit trees**: Provides long-season nectar for pollinators and beneficial insects.
-- **Chop and drop**: At season's end, cut plants at soil level and leave as mulch to add organic matter.
-
-## Safety Notes
-
-- **Topical use**: Safe for virtually everyone, including infants and children. Widely used in commercial pediatric skin products.
-- **Internal use**: Tea and tincture are generally safe for adults. Avoid oral use during pregnancy without professional guidance (traditional uterine-stimulant effects).
-- **Allergies**: Those allergic to ragweed, chrysanthemums, or daisies (Asteraceae family) should use with caution.
-- **Not a replacement for medical care**: See a healthcare provider for deep wounds, infected wounds, severe burns, or persistent skin conditions.
-
 ## See Also
 
 - [[calendula-officinalis]]

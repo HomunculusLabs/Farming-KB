@@ -86,5 +86,5 @@ Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
 - [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-oil-isomerization]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]

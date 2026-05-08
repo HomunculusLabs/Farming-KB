@@ -1,0 +1,136 @@
+---
+title: Water Plants for Permaculture Aquatic Systems
+source: a-selection-permaculture-plants.md
+author: Jeff Nugent and Julia Boniface
+topics: water-plants, aquaculture, ponds, wetlands, azolla, duckweed, taro, permaculture
+---
+
+# Water Plants for Permaculture Aquatic Systems
+
+Nugent and Boniface's *Permaculture Plants* dedicates a substantial section to
+water plants, organized into four functional categories based on their growth
+habit and position within aquatic systems. No aquatic system in permaculture
+is complete without a diverse range of plants performing multiple functions:
+food production, water oxygenation, nutrient cycling, habitat creation, and
+erosion control.
+
+## The Four Categories of Water Plants
+
+### Submerged Plants
+Entirely underwater except possibly flowers. Roots act only as anchors;
+nutrient, gas, and oxygen exchange occurs across the entire plant surface.
+Oxygen released during photosynthesis enters the water directly, benefiting
+fish and aerobic bacteria that break down organic matter. These are essential
+for maintaining healthy dissolved oxygen levels.
+
+### Floating-Leaved Plants
+Often directly useful to humans but of less direct benefit to fish. Usually
+found only in calm waters. Some anchor to the bottom and absorb nutrients
+from soil; others float freely, deriving nutrients from the water. Their
+leaves can shade the entire water surface, reducing light, heat, and oxygen
+reaching the water below — a consideration when selecting species.
+
+### Emergent Plants
+Roots and stems live below water while leaves and flowers rise above. By
+designing pond shallows, large areas can be dedicated to emergent plants,
+making them highly productive zones in aquaculture systems.
+
+### Margin Plants
+Do not grow in water, though roots may be seasonally submerged. They grow
+in association with water systems and derive extra moisture from moist edge
+soils. They form the transition zone between aquatic and terrestrial systems.
+
+## Key Submerged and Floating Species
+
+### Azolla (*Azolla* spp)
+A small, free-floating fern that hosts the nitrogen-fixing alga *Anabaena
+azollae* in its leaves. Used extensively in Vietnamese rice paddies as a
+companion plant providing nitrogen to rice. Also feeds tilapia and other fish
+in integrated rice-fish systems. Valuable as fodder for pigs, poultry, and
+waterfowl. Controls mosquitoes and weeds by covering the water surface. When
+dried, makes nitrogen-rich mulch with water-holding properties similar to
+peat moss.
+
+### Duckweed (*Lemna*, *Wolffia*, *Spirodella*, *Wolffiella* spp)
+Approximately 40 known species of free-floating plants, among the most
+vigorous growers on Earth — some double their numbers every three days.
+Excellent for removing excess nutrients from water. *[[lemna-minor]]* and *L.
+trisulca* concentrate boron, aluminium, manganese, iron, titanium, copper,
+and cobalt from water into their tissues. Good fodder for fish, ducks, and
+domestic animals. *Spirodella* species can produce the feed equivalent of
+60 hectares of soybeans from a single hectare (protein 37–45%).
+
+### Wolffia (*Wolffia arrhiza*)
+The smallest flowering plant on Earth and edible for humans. Dry weight
+composition: 20% protein, 44% carbohydrate, 5% fat, plus vitamins A, B2,
+B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable, tasting
+like sweet cabbage. Thai calculated annual yield: 10.5 tonnes dry weight
+per hectare per year.
+
+## Key Emergent Food Plants
+
+### Taro (*[[colocasia-esculenta]]*)
+Possibly the earliest cultivated plant, grown in paddy culture like rice.
+Corms compare nutritionally to potatoes and sweet potatoes. Leaves and
+petioles can be cooked and eaten like spinach. Requires 6–7 month frost-
+free period. Some cultivars are highly salt tolerant. Per 100 g of corms:
+73% water, 98 calories, 23.7 g carbohydrate, 1.9 g protein, 514 mg
+potassium.
+
+### Water Spinach / Kang Kong (*Ipomoea aquatica*)
+One of the most productive leaf vegetables known, with yields up to 60
+tonnes per hectare. Protein 1.9–4.6%, carbohydrate averages 4.3%. Good
+source of vitamins A, C, and E, iron, and minerals. Valuable for herbivorous
+fish and does not require dewatering for animal feed. Cold sensitive; usually
+grown as an annual in cooler climates.
+
+### Chinese Water Chestnut (*Eleocharis dulcis*)
+Perennial rush-like plant growing in 50–200 mm of water. Rhizome yields
+can exceed 7 tonnes per hectare (carbohydrate 30%, protein 1.5%). Often
+grown in rotation with rice and as a companion to taro, lotus, and water
+lilies.
+
+### Lotus (*[[nelumbo-nucifera]]*)
+Herbaceous perennial to 2 m, cultivated for seeds, leaves (harvested in
+spring), and rhizomes (harvested in autumn). Leaves can reach 1 m in
+diameter. Native to northern Australia with varieties suited to temperate
+sites.
+
+### Cattail / Cumbungi (*Typha* spp)
+Perhaps the most versatile water plant. Food uses include: pollen (rich
+in protein, carbohydrate, oil) mixed with flour at up to 1:1 ratio; young
+white spring shoots steamed as vegetable; flower heads steamed like corn
+cobs; tubers cooked like potatoes; roots dried and ground into flour
+comparable to rice and corn flour (yield: 7,000 kg/ha). Non-food uses:
+paper pulp, jute-like fibre (7–10 tonnes/ha), caulking material, water
+filtration (absorbs PCPs and other contaminants), bank stabilization, and
+wind shelter to reduce evaporation.
+
+### Water Cress (*[[nasturtium-officinale]]*)
+Fast-growing (30–60 days) broad-leafed herb requiring cool or cold flowing
+water. Extraordinarily nutritious: per 100 g contains 4900 IU vitamin A,
+79 mg vitamin C, 151 mg calcium, and 2.2 g protein. Warning: should not
+be grown for human consumption in polluted waters.
+
+## Margin and Water Meadow Plants
+
+- **Water mimosa** (*Neptunia oleracea*) — floating leguminous plant; leaves
+  and stems eaten in salads in Thailand and Vietnam
+- **Arrowhead** (*Sagittaria* spp) — tubers eaten like potatoes; up to 5–7%
+  protein for a root crop; requires 6–7 month growing season
+- **Wild rice** (*Zizania aquatica*) — high in vitamin B, easily digested;
+  green seed requires no cooking, only steeping in boiling water
+- **Common reed** (*[[phragmites-australis]]*) — edible shoots, rhizomes, and
+  grain; used for thatching, paper, arrows, and musical reeds
+- **Tania / Cocoyam** (*Xanthosoma* spp) — grows in soil too damp for
+  conventional root crops; cormels ready in as little as 3 months
+
+## Design Considerations
+
+A well-designed permaculture pond integrates all four plant categories:
+submerged plants for oxygenation, floating plants for nutrient extraction
+and mulch production, emergent plants in shallows for intensive food
+production, and margin plants for the terrestrial-aquatic transition zone.
+The key is balance — floating plants that cover the entire surface can
+deplete oxygen for fish, so periodic harvesting serves both as yield and
+as system maintenance.

@@ -42,7 +42,7 @@ See also: Ololiuqui, [[kykeon-elixir]]
 
 ## Peyotl -- The Sacred Cactus
 
-Peyote ([[peyote-and-psychoactive-cacti]]) was another major Aztec
+Peyote ([[ethnomycology]]) was another major Aztec
 entheogen. Of great antiquity, its use has now spread from its original
 Mexican homeland to Texas, where it became the basis of a new Native American
 religion. Its main psychoactive alkaloid, mescaline, was later utilized in

@@ -52,7 +52,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 - Seeding rate: 80-120 lbs/acre
 - Benefits: Quick establishment, winter-kill leaves dead mulch on surface, scavenges nutrients, fibrous roots build soil structure
 - Termination: Winter kill naturally — no mechanical termination needed
-- Good for: [[no-till-gardening-method|No-till]] gardens where you want a dead mulch in spring
+- Good for: [[composting-and-soil-biology|No-till]] gardens where you want a dead mulch in spring
 
 **Buckwheat (Fagopyrum esculentum)**
 - Hardiness: tender annual, killed by frost
@@ -133,7 +133,7 @@ Cover crops are an excellent way to maintain soil biology between cash crop cycl
 
 - [[solomon-buckwheat-summer-cover-crop-guide]]
 
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[sheet-mulching]]
 - [[cannabis-living-soil-guide]]

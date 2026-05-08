@@ -142,7 +142,7 @@ with negligible psychoactivity.
 
 ## See Also
 
-- [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[salvia-divinorum]]
 - [[salvia-divinorum-entity]]
 - kappa opioid receptor

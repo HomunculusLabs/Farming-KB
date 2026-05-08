@@ -24,7 +24,7 @@ creating a favorable micro-ecosystem for germination and early seedling growth.
 
 ## The Problem with Direct Seeding
 
-Fukuoka's [[direct-seeded no-tillage rice barley succession|no-tillage rice-barley]]
+Fukuoka's [[direct-seeded-no-tillage-rice-barley-succession|no-tillage rice-barley]]
 succession cropping system depends on reliable direct seeding. However, direct seeding
 into untilled soil presents several challenges: seeds may be eaten by birds, mice, or
 insects; they may dry out before germinating; or they may be washed away by rain. In a
@@ -42,7 +42,7 @@ protective shell that hardens when dry, shielding the seed inside from external 
 
 The pellet also serves as a microbial delivery system. One gram of soil from Fukuoka's
 farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching
-microbes. By mixing soil into the pellet, these [[microbes as scavengers in natural farming|beneficial microorganisms]] are inoculated directly into the germination zone.
+microbes. By mixing soil into the pellet, these [[microbes-as-scavengers-in-natural-farming|beneficial microorganisms]] are inoculated directly into the germination zone.
 
 The inclusion of organic matter within the pellet provides initial nutrients for the
 seedling once germination begins, while the clay regulates moisture retention and
@@ -96,7 +96,7 @@ approach has been used successfully to revegetate denuded slopes and desertified
 
 ### Vegetable Gardens
 
-In the [[natural orchard management|natural orchard]] and vegetable garden, clay
+In the [[natural-orchard-management|natural orchard]] and vegetable garden, clay
 pellets allow direct seeding of vegetables and herbs without preparing seed beds.
 Pellets are simply scattered where plants are desired, and nature handles the rest.
 
@@ -139,8 +139,8 @@ clay pellet is merely the minimal assistance needed to let nature take its cours
 - [[natural-orchard-management]]
 
 - [[masanobu-fukuoka]]
-- [[natural farming]]
-- [[direct-seeded no-tillage rice barley succession]]
-- [[microbes as scavengers in natural farming]]
-- [[natural orchard management]]
-- [[no-tillage agriculture]]
+- [[natural-farming]]
+- [[direct-seeded-no-tillage-rice-barley-succession]]
+- [[microbes-as-scavengers-in-natural-farming]]
+- [[natural-orchard-management]]
+- [[no-tillage-agriculture]]

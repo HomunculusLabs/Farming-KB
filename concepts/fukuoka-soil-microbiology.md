@@ -45,7 +45,7 @@ Fukuoka saw modern [[composting-materials-alternative]] methods as unnecessary i
 
 "Hundreds of millions of microorganisms crowd each gram of soil. Bacteria are present in this soil, but so are other bacteria that kill these bacteria, and yet other bacteria that kill the killer bacteria. The soil contains bacteria harmful to man, but also many that are harmless or even beneficial."
 
-This self-regulating balance is destroyed by chemical inputs. Spraying herbicides kills weeds but also acts as a bactericide and fungicide, eliminating putrefactive fungi on fallen leaves, devastating earthworm and ground beetle habitats, and destroying microorganisms in the ground. The [[nitrogen-cycle-in-soil]] depends on this balance remaining intact.
+This self-regulating balance is destroyed by chemical inputs. Spraying herbicides kills weeds but also acts as a bactericide and fungicide, eliminating putrefactive fungi on fallen leaves, devastating earthworm and ground beetle habitats, and destroying microorganisms in the ground. The [[composting-and-soil-biology]] depends on this balance remaining intact.
 
 ## Self-Governed Providence
 

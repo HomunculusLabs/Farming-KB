@@ -12,7 +12,7 @@ sources:
 
 ## Language as a Psychedelic Achievement
 
-McKenna argued in Food of the Gods that language itself may have emerged from the interaction between early humans and psychedelic mushrooms. In the [[terence-mckenna-stoned-ape-hypothesis]], psilocybin at moderate doses produces heightened visual acuity and increased sexual arousal, while at higher doses it produces "community-boundary dissolution" and glossolalia — spontaneous, unintelligible speech.
+McKenna argued in Food of the Gods that language itself may have emerged from the interaction between early humans and psychedelic mushrooms. In the [[psychedelic-mushrooms-species-and-identification]], psilocybin at moderate doses produces heightened visual acuity and increased sexual arousal, while at higher doses it produces "community-boundary dissolution" and glossolalia — spontaneous, unintelligible speech.
 
 This glossolalia, McKenna suggested, was the raw material from which language was eventually refined. The mushroom experience provided the catalytic shock that moved Homo erectus from a species with minimal vocalization to one with complex syntactical language. This is perhaps McKenna's most controversial claim, as mainstream linguistics traces language evolution to social pressures, tool-making, and anatomical changes in the vocal tract.
 
@@ -53,7 +53,7 @@ Mainstream linguists have been uniformly skeptical of McKenna's claims about the
 Nevertheless, McKenna's work has influenced contemporary discussions about consciousness, language, and ecology. His insistence that the psychedelic experience is fundamentally linguistic — that it involves the perception of syntactical structures, information exchange, and communicative intent — has resonated with researchers studying the neuroscience of consciousness and the therapeutic potential of psychedelics.
 
 See also:
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-dmt-experience-and-hyperspace]]
 - mckenna philosophy and cosmology
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
@@ -120,4 +120,4 @@ ways that support creative and flexible thinking.
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]

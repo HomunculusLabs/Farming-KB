@@ -130,7 +130,7 @@ against all vascular wilt diseases:
 - [[cervantes-pest-disease]] - comprehensive pest and disease guide
 - [[cervantes-wilting-plant-water-stress]] - non-disease causes of
   wilting
-- [[cervantes-water-quality-management]] - water quality and
+- [[cannabis-advanced-growing-techniques]] - water quality and
   disease prevention
 - [[cervantes-hydroponic-systems]] - system design and disease risk
 - [[cervantes-trichoderma-beneficial-fungi]] - biological disease

@@ -9,7 +9,7 @@ sources:
 ---
 # Mushroom Genetics and Mating Systems
 
-Mushroom genetics directly impacts the cultivator's ability to produce reliable strains, maintain genetic quality, and develop new varieties. Understanding the genetic basis of [[mushroom-biology-structure-life-cycle]] is essential for anyone doing [[mushroom-strain-selection-genetics]], [[mushroom-cultivation-cloning-isolation]], or [[agar-culture-work]].
+Mushroom genetics directly impacts the cultivator's ability to produce reliable strains, maintain genetic quality, and develop new varieties. Understanding the genetic basis of [[mushroom-biology-structure-life-cycle]] is essential for anyone doing [[mushroom-strain-selection-genetics]], [[mushroom-cultivation-fundamentals]], or [[agar-culture-work]].
 
 This content draws primarily from Chapter XV of Paul Stamets' [[stamets-cultivator-trichoderma-prevention-and-treatment]], which remains the most accessible treatment of genetics written specifically for cultivators.
 
@@ -97,7 +97,7 @@ On the sparse plates, slower-growing monokaryons can be distinguished from faste
 
 [[mushroom-strain-selection]] — practical strain selection for cultivation
 
-[[mushroom-cultivation-cloning-isolation]] — tissue cloning techniques
+[[mushroom-cultivation-fundamentals]] — tissue cloning techniques
 
 [[agar-work-guide]] — agar media preparation and handling
 

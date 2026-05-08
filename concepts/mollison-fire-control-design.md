@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Mollison provides a comprehensive system for designing fire-resistant landscapes, emphasizing that fire periodicity is determined by fuel accumulation rate and site moisture content. The strategy progresses from valleys upward, creating non-fuel surfaces and fire shadows. This approach integrates fire safety into the broader [[permaculture-design-principles-beginners]] framework, making fire resilience an inherent property of the landscape rather than an afterthought.
+Mollison provides a comprehensive system for designing fire-resistant landscapes, emphasizing that fire periodicity is determined by fuel accumulation rate and site moisture content. The strategy progresses from valleys upward, creating non-fuel surfaces and fire shadows. This approach integrates fire safety into the broader [[permaculture-design-principles]] framework, making fire resilience an inherent property of the landscape rather than an afterthought.
 
 ## Fire Periodicity
 

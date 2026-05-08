@@ -147,7 +147,3 @@ expansions for Hermitian operators.
 
 - [[tryptamines-and-quantum-mechanics]]
 - [[stereochemistry-and-chirality]]
-
-- [[semiconductor-physics-and-devices]]
-- [[quantum-error-correction]]
-- [[quantum-mechanical-correlates-of-hallucinogenesis]]

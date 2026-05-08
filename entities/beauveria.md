@@ -148,4 +148,3 @@ strain development), and Paul Stamets (mycopesticide advocacy).
 - [[ingham-beauveria-parasitic-fungi]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[cordyceps-and-entomopathogenic-fungi]]
-- [[stamets-inventions-and-innovations]]

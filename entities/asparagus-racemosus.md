@@ -147,5 +147,3 @@ Cultivation initiatives by government agencies and NGOs are promoting sustainabl
 - Can be intercropped with fruit trees, [[bacopa-monnieri]], and [[glycyrrhiza-glabra]]
 
 ## See Also
-
-- [[withania-somnifera]] — Ashwagandha; complementary Ayurvedic adaptogen commonly paired with shatavari

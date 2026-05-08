@@ -117,7 +117,7 @@ This multi-level framework challenges the conventional scientific view of psycho
 
 ## The Problem of Modern Reductionism
 
-McKenna's theory also functions as a critique of modern pharmacology's approach to [[psychoactive compounds]]. The isolation and study of individual molecules — psilocybin, DMT, mescaline — strips these substances of their cultural and ecological context. The full experience induced by a [[plant hallucinogen]] in its traditional setting involves not just the active compound but the set and setting, the expectations and beliefs of the participant, the guidance of experienced practitioners, and the integration of the experience into a broader worldview.
+McKenna's theory also functions as a critique of modern pharmacology's approach to [[psychoactive-compounds]]. The isolation and study of individual molecules — psilocybin, DMT, mescaline — strips these substances of their cultural and ecological context. The full experience induced by a [[plant-hallucinogen]] in its traditional setting involves not just the active compound but the set and setting, the expectations and beliefs of the participant, the guidance of experienced practitioners, and the integration of the experience into a broader worldview.
 
 Modern clinical research, while valuable, tends to treat these compounds as interchangeable tools for studying brain function or treating specific disorders. McKenna would argue that this approach misses the essential nature of the plant-human relationship and the transformative potential that exists only within the full ceremonial and cultural context.
 

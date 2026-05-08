@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-The third principle of Fukuoka's natural farming is "no weeding." Fukuoka challenges the fundamental assumption that weeds compete with crops and must be eliminated. Drawing on observations of natural ecosystems, he argues that weeds are not merely tolerated by nature but are essential contributors to soil health, erosion prevention, and ecological balance. His principle of "weed utility" demonstrates that weeds can be actively employed as allies in cultivation, replacing the labor of weeding with the benefits of living ground cover.
+The third principle of Fukuoka's [[natural-farming-animal-husbandry]] is "no weeding." Fukuoka challenges the fundamental assumption that weeds compete with crops and must be eliminated. Drawing on observations of natural ecosystems, he argues that weeds are not merely tolerated by nature but are essential contributors to soil health, erosion prevention, and ecological balance. His principle of "weed utility" demonstrates that weeds can be actively employed as allies in cultivation, replacing the labor of weeding with the benefits of living ground cover.
 
 ## Is There Such a Thing as a Weed?
 
@@ -92,7 +92,7 @@ In Fukuoka's citrus orchard, he first attempted cultivation under a cover of gra
 Fukuoka is particularly emphatic about the harmfulness of weeding in orchards:
 
 ### Destruction of Soil Structure
-Pulling weeds removes the root systems that maintain soil porosity. The bare soil left after weeding is exposed to rain compaction and erosion, degrading the very soil structure that fruit trees depend on.
+Pulling weeds removes the root systems that maintain soil porosity. The bare soil left after weeding is exposed to rain compaction and erosion, degrading the very [[soil-structure-and-aggregate-ecology]] that fruit trees depend on.
 
 ### Exposure to Temperature Extremes
 Without a weed cover, soil temperatures fluctuate more dramatically between day and night. This stresses root systems of fruit trees and reduces microbial activity near the soil surface.
@@ -105,7 +105,7 @@ Weeds provide habitat for predatory insects that control pest populations. Remov
 
 ## Rice and Barley: The Succession Cropping Method
 
-Fukuoka extends the no-weeding principle to grain cultivation through his innovative succession cropping method:
+Fukuoka extends the no-weeding principle to [[grain-cultivation-small-scale]] through his innovative succession cropping method:
 
 ### Barley and Clover Over Rice
 He seeds barley together with clover over the standing heads of rice. The rice is still standing when the barley and clover germinate, providing shade and protection for the emerging seedlings.
@@ -121,7 +121,7 @@ Fukuoka found that, like fruit trees, rice and barley can be grown without weedi
 
 ## The Philosophical Foundation: Nature Does Not Make Mistakes
 
-The no-weeding principle rests on the same philosophical foundation as the other natural farming principles:
+The no-weeding principle rests on the same philosophical foundation as the other [[natural-farming-principles-fukuoka]]:
 
 ### Natural Balance
 There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of beneficial insects. By extension, it does not admit to the existence of weeds versus crops. These are human categories imposed on a natural system that recognizes no such distinctions.
@@ -140,24 +140,10 @@ For farmers seeking to implement the no-weeding principle, Fukuoka offers concre
 Before attempting to manage weeds, study the natural succession patterns in your area. Learn which weeds appear first after disturbance, which follow, and which dominate mature stands. Understanding this sequence allows strategic intervention.
 
 ### Choose Beneficial Ground Covers
-Select ground cover plants that serve multiple purposes: nitrogen fixation, weed suppression, erosion control, and beneficial insect habitat. Clover, vetch, alfalfa, and various grasses can serve as effective living mulches.
+Select ground cover plants that serve multiple purposes: nitrogen fixation, [[weed-suppression-strategies]], erosion control, and beneficial insect habitat. Clover, vetch, alfalfa, and various grasses can serve as effective living mulches.
 
 ### Allow Partial Wildness
 Accept that some degree of "wildness" in the field is not only tolerable but beneficial. The goal is not a perfectly clean field but a field in ecological balance where crops and non-crop plants coexist productively.
 
 ### Time Seeding Strategically
 Use the succession cropping approach: seed the next crop before harvesting the current one. This ensures continuous ground cover and eliminates the window during which weeds could establish themselves.
-
-### Kill Two Birds with One Stone
-Growing fruit trees and tending an orchard can be made easier and more advantageous than normal methods. By using weeds and green manure as allies rather than enemies, the farmer reduces labor, improves soil health, and increases crop resilience simultaneously.
-
-## Wikilinks
-
-[[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-Clover Ground Cover Citrus Orchard
-[[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
-Green Manure Soil Building
-[[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
-No Weeding Principle Crop Coexistence
-Natural Vegetable Growing Wild Yields
-Living Mulch Rice Succession Clover Barley

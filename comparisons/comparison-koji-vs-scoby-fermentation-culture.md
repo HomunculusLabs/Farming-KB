@@ -25,10 +25,10 @@ A practical comparison of two foundational fermentation cultures — **koji** (*
 | **Fermentation products** | Miso, shoyu, sake, amazake, shio koji, mirin | Kombucha, jun, kombucha vinegar |
 | **Active temperature** | 30–35 °C (86–95 °F) | 20–28 °C (68–82 °F) |
 | **Typical duration** | 36–72 hours (koji itself); months for finished products | 7–21 days per batch |
-| **Equipment needs** | Steamer, incubator, wooden trays, humidity control | Glass vessel, cloth cover, pH strips |
+| **Equipment needs** | Steamer, incubator, wooden trays, [[greg-green-temperature-and-humidity-control]] | Glass vessel, cloth cover, pH strips |
 | **Skill level** | Moderate to advanced | Beginner to moderate |
-| **Historical origin** | China (~300 BCE), refined in Japan | Manchuria/Northeast China (~200 BCE) |
-| **Scalability** | Moderate — requires climate control | High — simple vessel scaling |
+| **Historical origin** | China (~300 BCE), refined [[fukuoka-why-natural-farming-blocked-in-japan]] | Manchuria/Northeast China (~200 BCE) |
+| **Scalability** | Moderate — requires [[mollison-pdc-trellis-systems-climate-control]] | High — simple vessel scaling |
 | **Core safety concern** | Mycotoxin risk from misidentification or contamination | Mold contamination on pellicle surface |
 
 ## Organism Type
@@ -43,7 +43,7 @@ A practical comparison of two foundational fermentation cultures — **koji** (*
 
 Koji thrives on **starch-rich grains and protein-rich legumes**: polished rice (short-grain for sake, long-grain for amazake), roasted barley (for shio koji or miso), and steamed soybeans (for miso and shoyu). The substrate must be cooked, cooled, and inoculated with koji spores (*tane-koji*).
 
-SCOBY requires **sweetened tea**: black tea (Camellia sinensis) is traditional for kombucha, while green tea or a green/oolong blend is used for jun. Sugar (white, cane, or honey for jun) feeds the yeast. The tea provides nitrogen, tannins, and trace minerals essential for healthy fermentation.
+SCOBY requires **sweetened tea**: black tea ([[camellia-sinensis-entity]]) is traditional for kombucha, while green tea or a green/oolong blend is used for jun. Sugar (white, cane, or honey for jun) feeds the yeast. The tea provides nitrogen, tannins, and [[solomon-vegetable-nutritional-decline-trace-minerals]] essential for healthy fermentation.
 
 ## Fermentation Products
 

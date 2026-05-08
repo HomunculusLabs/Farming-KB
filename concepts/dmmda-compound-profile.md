@@ -92,7 +92,7 @@ DMMDA is derived from apiole (1-allyl-2,5-dimethoxy-3,4-methylenedioxybenzene), 
 
 The heavily substituted aromatic ring creates steric constraints that likely affect receptor binding. The broad melting point range (165-175 °C) suggests possible crystallization issues related to the molecule's conformational flexibility. DMMDA acts as a serotonin receptor agonist. See [[phenethylamine-receptor-pharmacology]] and [[phenethylamine-chemistry-basics]].
 
-The unusually high doses required for full psychedelic effects (75 mg) relative to other substituted amphetamines suggest that the tetraoxygenated substitution pattern may reduce receptor affinity compared to tri-substituted analogues like [[mda-compound-profile]].
+The unusually high doses required for full psychedelic effects (75 mg) relative to other substituted amphetamines suggest that the tetraoxygenated substitution pattern may reduce receptor affinity compared to tri-substituted analogues like [[ayahuasca-and-dmt-plant-medicine]].
 
 ## Analogues and Derivatives
 

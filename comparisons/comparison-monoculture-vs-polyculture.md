@@ -148,4 +148,3 @@ the cash crop phase.
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-food-forest-vs-polyculture]]
 - [[comparison-green-manure-vs-cover-crops]]
-- [[comparison-no-till-vs-conventional-tillage]]

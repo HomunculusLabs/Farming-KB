@@ -36,7 +36,7 @@ A reliable detection method is to tap a suspect leaf over a white sheet of paper
 
 ## Environmental Prevention
 
-Spider mites thrive in hot, dry environments with low humidity. Indoor grow rooms are particularly vulnerable during flowering when temperatures run warm and humidity is reduced to prevent bud rot. Environmental management is the first line of defense in any [[cannabis-pest-management]] strategy.
+Spider mites thrive in hot, dry environments with low humidity. Indoor grow rooms are particularly vulnerable during flowering when temperatures run warm and humidity is reduced to prevent bud rot. Environmental management is the first line of defense in any cannabis pest management strategy.
 
 Environmental factors that favor spider mite outbreaks:
 
@@ -92,7 +92,7 @@ Treatments should be repeated every three to five days for two to three weeks to
 
 ## Key Points
 
-- Spider mites thrive in hot, dry conditions; humidity control and airflow are primary [[cannabis-pest-management]] defenses
+- Spider mites thrive in hot, dry conditions; humidity control and airflow are primary cannabis pest management defenses
 - Inspect leaf undersides weekly with a magnifier for early [[spider-mites-cannabis]] detection
 - Biological predators like Phytoseiulus persimilis provide the best long-term [[cervantes-biological-pest-control-predators]]
 - [[neem-oil-cannabis]] and insecticidal soaps require thorough leaf underside coverage and repeated applications

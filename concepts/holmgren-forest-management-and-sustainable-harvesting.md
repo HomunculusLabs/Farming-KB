@@ -103,8 +103,8 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 
 - [[holmgren-forest-management-sustainable-yield]]
 - [[faires-grain-harvesting-and-processing]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 - [[holmgren-permaculture-land-tenure-and-legal-structures]]
-- [[permaculture-principle-observe-and-interact]]
+- [[permaculture-design-principles]]
 - [[holmgren-catch-and-store-energy-detailed]]
 - [[holmgren-built-environment-energy-store]]

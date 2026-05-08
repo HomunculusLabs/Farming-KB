@@ -139,26 +139,6 @@ Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both w
 
 | Aspect | Potato | Sweet Potato |
 |---|---|---|
-| **Good companions** | Beans, corn, cabbage family, horseradish | Beans, peas, southern peas |
-| **Bad companions** | Tomatoes, cucumbers, sunflowers | Squash (competing vine space) |
-| **Role in guilds** | Staple calorie crop in cool climates | Staple calorie crop in warm climates |
-| **Soil building** | Moderate; hilling disturbs soil | Good; sprawling vine acts as living mulch |
-| **Succession** | Follows legumes; precedes grains | Follows legumes; precedes leafy greens |
-
-## When to Choose Each
-
-**Choose potatoes when:**
-- You have a cool growing season (spring crop in most climates)
-- Your soil is heavier or retains moisture well
-- You want a reliable staple crop that stores well in cool conditions
-- You live in zones 2–7
-
-**Choose sweet potatoes when:**
-- You have a long, warm growing season (summer crop)
-- Your soil is sandy and well-drained
-- You want a drought-tolerant staple crop with superior nutrition (especially vitamin A)
-- You live in zones 7–11 (or can use season extension in zones 5–6)
-
 ## See Also
 
 - [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]

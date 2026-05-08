@@ -13,14 +13,14 @@ type: concept
 
 ## Overview
 
-The 2003 synthesis of [[psilocybin]] by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences introduced a critical innovation: the **isolation of a zwitterionic N,O-dibenzyl phosphate derivative** (compound 8) as the key intermediate en route to [[psilocybin]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical standard compounds for forensic and regulatory identification of hallucinogenic mushrooms.
+The 2003 synthesis of [[psilocybin-compound]] by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences introduced a critical innovation: the **isolation of a zwitterionic N,O-dibenzyl phosphate derivative** (compound 8) as the key intermediate en route to [[psilocybin-compound]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical standard compounds for forensic and regulatory identification of hallucinogenic mushrooms.
 
 ## The Phosphorylation Challenge
 
-Converting [[psilocin]] to [[psilocybin]] requires introducing a phosphate ester group at the 4-hydroxy position of the indole ring. This phosphorylation step had historically been the bottleneck in psilocybin synthesis because:
+Converting [[psilocin]] to [[psilocybin-compound]] requires introducing a phosphate ester group at the 4-hydroxy position of the indole ring. This phosphorylation step had historically been the bottleneck in psilocybin synthesis because:
 
 1. Psilocin is a secondary amine that can also be phosphorylated at nitrogen, creating regioselectivity problems
-2. The phosphate ester product ([[psilocybin]]) is highly polar and difficult to purify by conventional means
+2. The phosphate ester product ([[psilocybin-compound]]) is highly polar and difficult to purify by conventional means
 3. Previous methods required anion-exchange chromatography (Nichols and Frescas, 1999) or achieved only low yields (20% by Troxler et al., 1959; 47% by Nichols and Frescas, 1999)
 
 ## The Pyrophosphate Method
@@ -63,7 +63,7 @@ The zwitterionic nature of compound 8 was the key to scalable synthesis because:
 
 ## Catalytic Hydrogenolysis to Psilocybin
 
-The final step converted compound 8 to [[psilocybin]] via catalytic hydrogenolysis:
+The final step converted compound 8 to [[psilocybin-compound]] via catalytic hydrogenolysis:
 
 - **Conditions**: 10% palladium on activated carbon, hydrogen atmosphere, methanol solvent, room temperature
 - **Mechanism**: Both benzyl groups (N-benzyl and O-benzyl phosphate) are cleaved simultaneously by hydrogenolysis, yielding free psilocybin with its O-phosphate group intact
@@ -91,7 +91,7 @@ The synthesized psilocybin matched literature values:
 
 ## Forensic and Regulatory Context
 
-The synthesis was developed to produce analytical standard compounds for Japanese regulatory enforcement. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law (enacted June 6, 2002), there was an urgent need for pure reference standards. The morphological identification of hallucinogenic mushrooms is extremely difficult without expert mycologists, making chromatographic methods (TLC, GC, HPLC) the primary identification tools. These methods require pure standard compounds, which are difficult to isolate from natural material because [[psilocin]] decomposes readily and [[psilocybin]] is highly polar.
+The synthesis was developed to produce analytical standard compounds for Japanese regulatory enforcement. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law (enacted June 6, 2002), there was an urgent need for pure reference standards. The morphological identification of hallucinogenic mushrooms is extremely difficult without expert mycologists, making chromatographic methods (TLC, GC, HPLC) the primary identification tools. These methods require pure standard compounds, which are difficult to isolate from natural material because [[psilocin]] decomposes readily and [[psilocybin-compound]] is highly polar.
 
 The difficulty of isolating pure alkaloids from fungal biomass is compounded by the variability of natural psilocybin and psilocin levels. Bigwood and Beug documented significant variation in alkaloid content between fruiting bodies, flushes, and even within the same mushroom cap versus stem. This natural variability makes synthetic standards essential for quantitative forensic work, where precise calibration curves require chemically pure reference materials.
 
@@ -126,7 +126,7 @@ This type of N-to-O or O-to-N group migration is relatively uncommon in phosphor
 
 ## See Also
 
-- [[psilocybin-psilocin-chemical-synthesis-shirota]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
 - [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]

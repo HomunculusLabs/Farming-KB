@@ -132,7 +132,7 @@ the late 1960's when the psychedelic concept exploded on the public
 scene. MDA was called the "hug-drug" and was said to stand for Mellow
 Drug of America. There was no difficulty in obtaining unending
 quantities of it, as it was available as a research chemical from
-several scientific supply houses (as were [[mescaline]] and LSD) and was
+several scientific supply houses (as were [[mescaline-entity]] and LSD) and was
 sold inexpensively under its chemical name.
 A few experimental trials with the pure optical isomers show a
 consistency with all the other psychedelic compounds that have been
@@ -147,7 +147,3 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[shulgin-future-psychedelics-research-predictions]]
 - [[qualitative-comments-methodology-pihkal]]
 - [[turner-psychedelic-combination-experience-reports]]
-
-## See Also
-
-- [[pentylone]]

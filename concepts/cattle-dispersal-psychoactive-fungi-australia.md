@@ -60,7 +60,7 @@ coprophilous fungi on kangaroo droppings etc."
 Several key species of psychoactive mushrooms are believed to have been
 introduced to Australia through the cattle dispersal mechanism:
 
-- [[psilocybe-cubensis-profile]] (known locally as "gold caps" or "gold tops") -- the
+- [[psychedelic-mushrooms-species-and-identification]] (known locally as "gold caps" or "gold tops") -- the
   most popular and widely recognized species, growing on cow dung in tropical
   and subtropical regions
 
@@ -70,7 +70,7 @@ introduced to Australia through the cattle dispersal mechanism:
 - Panaeolus subbalteatus -- common in the dung of cattle and also fruiting
   abundantly in composting hay and stable shavings
 
-- [[psilocybe-semilanceata-profile]] -- grows in the manured soil of four-legged
+- [[psychedelic-mushrooms-species-and-identification]] -- grows in the manured soil of four-legged
   ruminants but not directly from manure itself
 
 ## Geographic Distribution in Australia
@@ -81,7 +81,7 @@ rainfall belt of Queensland, New South Wales, and northern Victoria. These
 regions generally provide adequate climatic environments for the growth of
 psilocybian mushrooms, especially after heavy rains.
 
-It has been suggested that [[psilocybe-cubensis-profile]] was introduced into Australia
+It has been suggested that [[psychedelic-mushrooms-species-and-identification]] was introduced into Australia
 accidentally by early settlers along with their livestock. This same spore
 dispersal mechanism probably applies to [[panaeolus-cyanescens-bali-omelette]],
 Panaeolus subbalteatus, and several additional species known to occur in or
@@ -95,14 +95,14 @@ locations where they were originally collected.
 In the case of New Zealand, cattle are the primary substrate source for
 [[panaeolus-cyanescens-bali-omelette]]. The species predominates in the New Plymouth region,
 an area of intensive dairy farming. Mushrooms appear in autumn, most commonly
-under lupine bushes in coastal paddocks. The [[psilocybe-semilanceata-profile]]
+under lupine bushes in coastal paddocks. The [[psychedelic-mushrooms-species-and-identification]]
 ("liberty cap") only grows in the manured soil of four-legged ruminants and
 not directly from manure (Jansen, Pers. Comm., 1988).
 
 ## Early Farmers and Accidental Ingestion
 
 Some mycologists who have studied the "magic mushrooms" in Australia and New
-Zealand claim that the "use of [[psilocybe-cubensis-profile]] as a recreational drug
+Zealand claim that the "use of [[psychedelic-mushrooms-species-and-identification]] as a recreational drug
 tends to confirm the belief that some farmers in early times may have added
 one or two basidiomes (gilled mushrooms) to a meal to liven it up, and still
 do" (Margot & Watling, 1981). This suggests that the introduction of

@@ -131,7 +131,7 @@ Widely cultivated in subtropical regions and naturalized in areas with suitable 
 | [[copelandia-tropicalis]] | Tropical Central American relative
 | [[panaeolus-fimicola]] | Inactive; smaller spores; lacks blue bruising |
 | [[psilocybe-cubensis]] | Larger, more robust; grows on dung but also enriched soils; lower potency |
-| [[gymnopilus-spectabilis]] | Much larger; orange-brown; grows on wood; contains psilocybin at lower levels |
+| [[gymnopilus-spectabilis-entity]] | Much larger; orange-brown; grows on wood; contains psilocybin at lower levels |
 
 ## Legal Status
 
@@ -144,8 +144,7 @@ Widely cultivated in subtropical regions and naturalized in areas with suitable 
 
 ## See Also
 
-- [[psilocybin]] — Primary psychoactive tryptamine compound
+- [[psilocybin-compound]] — Primary psychoactive tryptamine compound
 - [[psilocybe-azurescens]] — Pacific Northwest species with comparable potency
 - [[panaeolus-cinctulus]] — Widespread panaeolus with lower alkaloid content
 - [[gymnopilus-purpuratus]] — Wood-inhabiting psilocybin mushroom of the Southern Hemisphere
-- [[copelandia-tropicalis]] — Tropical Central American relative

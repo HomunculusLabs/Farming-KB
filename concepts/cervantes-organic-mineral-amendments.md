@@ -124,7 +124,7 @@ more on pH management.
 ## Related Topics
 
 - [[cervantes-organic-amendments-chart]]
-- [[cervantes-organic-growing]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-dolomite-lime-ph-buffering]]
 - [[cervantes-ph-management-testing]]
 - [[cervantes-nutrient-management]]

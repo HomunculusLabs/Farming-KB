@@ -148,6 +148,3 @@ Remove older canes (>4 years) as fruit is produced primarily on 2–3 year old w
 - [[permaculture-autumn-olive]]
 - [[black-locust-entity]]
 - [[fly-agaric-siberian-shamanic-practice]]
-- [[comfrey]]
-- [[tagasaste]]
-- [[goumi]]

@@ -140,7 +140,7 @@ represents one of the most extensively documented entheogenic
 practices of the pre-contact Americas.
 
 ## See Also
-- [[cebil-anadenanthera-colubrina-snuff]]
+- [[ayahuasca-and-dmt-plant-medicine]]
 - [[yopo-anadenanthera-peregrina-snuff]]
 - [[anadenanthera-colubrina]]
 - [[anadenanthera-colubrina]]

@@ -90,7 +90,7 @@ These three methods address different aspects of the design challenge. Data over
 
 [[mollison-broadscale-landscape-analysis]]
 
-[[permaculture-design-methods]]
+[[permaculture-design]]
 
 [[permaculture-design-process]]
 

@@ -62,7 +62,7 @@ This small but culturally significant group contains species with ibotenic acid
 and muscimol as their primary active compounds. These are GABAergic substances
 that act on the brain quite differently from the serotonergic tryptamines of
 Group 1. The three recognized species are [[amanita-muscaria]] (fly agaric),
-[[amanita-pantherina]] (panther cap), and [[amanita-regalis]].
+[[amanita-pantherina]] (panther cap), and [[amanita-regalis-entity]].
 
 [[amanita-muscaria]] is the iconic red-capped mushroom with white spots, used
 sacramentally by Siberian peoples including the Chukchee and Koryak. These
@@ -113,7 +113,7 @@ specimens of a different, unnamed neurotropic species. Psilocybe-coprinifacies h
 
 **Contradictory chemical results.** [[panaeolina-foenisecii]], a cosmopolitan
 lawn mushroom, has been reported both with and without psilocybin. It is now
-considered more likely toxic than neurotropic. [[gymnopilus-spectabilis]] has
+considered more likely toxic than neurotropic. [[gymnopilus-spectabilis-entity]] has
 yielded conflicting analytical results across different laboratories.
 
 **Age-dependent potency.** Psilocybin and psilocin degrade over time. Herbarium
@@ -130,7 +130,7 @@ species because both produce white fruit bodies on cow dung.
 ## Non-Psilocybin Fungi Erroneously Reported as Neurotropic
 
 Several common edible species have been incorrectly reported as hallucinogenic.
-[[laetiporus-sulphureus]] and [[meripilus-giganteus]] contain hordenine and
+[[laetiporus-sulphureus-permaculture]] and [[meripilus-giganteus]] contain hordenine and
 tyramine, which can cause dizziness, but are widely eaten. [[chlorophyllum-molybdites]] is poisonous despite its Yoruba name "a jegba ariwo-orun" (eat and
 hear voices from heaven). Ganoderma lobatum was venerated in a Mexican church
 in Chignahuapan, Puebla — a church built specifically in honor of the fungus —
@@ -148,10 +148,3 @@ India, Russia, and parts of North America. Many regions remain critically under-
 surveyed, with no records from southeastern Russia, Mongolia, Arabia, Turkey,
 Korea, Malaysia (except Java and Sumatra), and Hawaii. As Guzmán observed, "The
 mushrooms occur in abundance wherever mycologists abound."
-
-## See Also
-
-- [[guzman-magic-mushrooms-psilocybe-species-list]]
-
-- [[psilocybin-mushroom-distribution-worldwide]]
-- [[panaeolus-panaeolina-neurotropic-species]]

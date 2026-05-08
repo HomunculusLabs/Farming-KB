@@ -119,7 +119,7 @@ The transition between saprotrophic growth and predatory trap formation represen
 ## See Also
 Related: [[nematode-trapping-fungi]], [[fungal-nematode-trapping]], [[nematode-trapping-fungi]]
 
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[nematodes-in-soil-ecology]]
 - [[fungal-pest-control]]

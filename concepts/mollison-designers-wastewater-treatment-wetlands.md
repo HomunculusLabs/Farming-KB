@@ -148,4 +148,3 @@ or leafy greens eaten raw.
 The biomass produced by wetland plants (reeds, cattails) can be harvested
 for mulch, compost, or biofuel, closing the nutrient loop and returning
 captured fertility to the [[mollison-designers-multi-strata-canopy-design]].
-In this way, wastewater treatment becomes a productive element of the

@@ -148,4 +148,3 @@ from the indifferent one:
 - Peel large mushrooms; rub small ones with vinegar
 - Serve immediately and always hot
 - Preserve aroma by covered cooking and covered serving
-- Choose flavor over appearance when trade-offs arise

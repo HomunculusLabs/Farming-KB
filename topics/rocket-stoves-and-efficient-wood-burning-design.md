@@ -15,7 +15,7 @@ sources:
 
 ## Introduction
 
-Rocket stoves are hyper-efficient, clean-burning wood combustion systems that use an insulated J-shaped (or L-shaped) combustion chamber to achieve near-complete fuel burn. Originally developed as appropriate technology for developing-world cooking, the design principles have been adapted into rocket mass heaters for space heating, water heating, and even greenhouse heating. A well-built rocket stove can reduce wood consumption by 60–80% compared to conventional open fires or standard woodstoves, while producing dramatically less smoke and particulate emissions.
+Rocket stoves are hyper-efficient, clean-burning wood combustion systems that use an insulated J-shaped (or L-shaped) combustion chamber to achieve near-complete fuel burn. Originally developed as appropriate technology for developing-world cooking, the design principles have been adapted into [[rocket-mass-heater-design]] heaters for space heating, water heating, and even greenhouse heating. A well-built rocket stove can reduce wood consumption by 60–80% compared to conventional open fires or standard woodstoves, while producing dramatically less smoke and particulate emissions.
 
 The core innovation is the **insulated heat riser** — a vertical chimney section surrounding the combustion zone that creates strong draft, elevates combustion temperatures above 1000°C (1800°F), and burns off smoke and creosote that would otherwise escape as pollution. When coupled with thermal mass (as in a rocket mass heater), the system stores heat for hours after the fire goes out, providing steady, comfortable warmth from brief, intense burns.
 
@@ -118,11 +118,11 @@ Disadvantages:
 
 ### Rocket Water Heaters
 
-Rocket stove combustion chambers plumbed into water heating systems. The exhaust passes through a thermosiphon loop or heat exchanger before venting. Can provide domestic hot water or hydronic heating. Requires careful design to avoid steam explosion risk — water must never be in direct contact with the combustion chamber.
+Rocket stove combustion chambers plumbed into water heating systems. The exhaust passes through a thermosiphon loop or [[heat-exchanger-effectiveness-ntu]] before venting. Can provide domestic [[hot-water-and-hydrated-lime-substrate-treatment]] or hydronic heating. Requires careful design to avoid steam explosion risk — water must never be in direct contact with the combustion chamber.
 
 ### Rocket Cookstoves with Oven
 
-Hybrid designs that combine a rocket stove cooktop with a baking oven. Hot gases from the J-tube pass around an insulated oven box before exiting through a chimney. Popular in off-grid kitchens and community settings.
+Hybrid designs that combine a rocket stove cooktop with a baking oven. Hot gases from the J-tube pass around an insulated oven box before exiting through a chimney. Popular in [[off-grid-electricity-basics]] kitchens and community settings.
 
 ## Materials and Construction
 
@@ -211,7 +211,7 @@ Start with small, dry kindling. The system will smoke initially as residual mois
 ### Thermal Performance Metrics
 
 - **Combustion efficiency**: 95–99% (near-complete fuel utilization)
-- **Heat transfer efficiency**: 80–92% (heat captured into room/mass vs lost to exhaust)
+- **[[heat-transfer-mechanisms]] efficiency**: 80–92% (heat captured into room/mass vs lost to exhaust)
 - **Cobble bench surface temperature**: 32–43°C (90–110°F) during active heating — warm to the touch, not dangerously hot
 - **Heat duration**: 12–24 hours from a 1–2 hour burn (depending on mass size and insulation)
 - **Exhaust temperature at chimney**: 50–90°C — confirming most heat has been extracted
@@ -295,10 +295,10 @@ Rocket mass heaters integrated into greenhouse design, with the exhaust running 
 
 ## Integration with Permaculture Systems
 
-Rocket mass heaters fit naturally into permaculture design:
+Rocket mass heaters fit naturally into [[permaculture-design-course-notes]]:
 
 - **Wood source**: Use coppiced or pollarded firewood from on-site tree systems (willow, hazel, ash, oak). This creates a closed-loop fertility cycle — wood ash returned to the land.
-- **Thermal zoning**: Place the heated cob bench as a divider between zones, creating warm microclimates for seed starting, food drying, or indoor growing.
+- **Thermal zoning**: Place the heated cob bench as a divider between zones, creating warm microclimates for [[seed-starting-methods-comparison]], food drying, or indoor growing.
 - **Combined functions**: Cook on the barrel top while heating the space. Heat water. Dry food. The multi-function principle is core to permaculture design.
 - **Material sourcing**: Build from reclaimed and local materials — urbanite, local clay subsoil, straw from grain crops, reclaimed barrels. Minimal embodied energy.
 - **Zone 1 placement**: The daily wood-loading chore makes this a Zone 1 element. Place it where you pass daily, near the kitchen and living areas.
@@ -331,4 +331,4 @@ In spring and fall, smaller, shorter burns provide gentle warmth without overhea
 
 ## Conclusion
 
-Rocket stoves and rocket mass heaters represent one of the most significant appropriate-technology innovations for residential wood heating. Their combination of extreme efficiency, near-zero emissions, low cost (when DIY-built), and use of local materials makes them uniquely suited to homesteading, off-grid living, and permaculture systems. While they require careful design and construction to perform optimally, the principles are straightforward and the building community is extensive and supportive. As energy costs rise and climate concerns intensify, rocket mass heaters offer a proven, low-tech path to sustainable heating.
+Rocket stoves and rocket mass heaters represent one of the most significant appropriate-technology innovations for residential wood heating. Their combination of extreme efficiency, near-[[zero-emissions-research-and-initiatives]], low cost (when DIY-built), and use of local materials makes them uniquely suited to homesteading, off-grid living, and permaculture systems. While they require careful design and construction to perform optimally, the principles are straightforward and the building community is extensive and supportive. As energy costs rise and climate concerns intensify, rocket mass heaters offer a proven, low-tech path to sustainable heating.

@@ -123,7 +123,7 @@ long-term ecological monitoring of remediated areas.
 
 ## See Also
 
-- [[gadd-environmental-sensing-filamentous-fungi]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[singh-fungal-biosensors-environmental-monitoring]]
 - [[singh-fungal-community-analysis-molecular-methods]]

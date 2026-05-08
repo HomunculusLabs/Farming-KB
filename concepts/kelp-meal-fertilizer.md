@@ -9,17 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Kelp Meal Fertilizer
 
-
-
-
-
 ## Overview
 
 Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of trace elements.
-
-
-
-
 
 ## Nutrient Content
 
@@ -27,10 +19,6 @@ Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive
 - **Phosphorus:** 0.2%
 - **Potassium:** 2.3%
 - **Trace elements:** Full range (60-70 elements total)
-
-
-
-
 
 ## Uses and Benefits
 
@@ -47,10 +35,6 @@ Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive
 - Best used when the soil is warm to enable bacteria to break it down and make nutrients available to plants
 - For nitrogen specifically: do not apply later than midsummer or it will be washed into the subsoil; avoid applying later than end of summer if frosts occur (prevents encouraging soft foliage damaged by frost)
 
-
-
-
-
 ## Fresh Kelp/Seaweed
 
 If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides additional benefits:
@@ -61,10 +45,6 @@ If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides
 - In soil, kelp releases nutrients otherwise unavailable to plants
 - Alginate content binds soil particles together, improving soil structure
 - Most effective if composted for a while, but rots down quickly so some gardeners dig it in fresh
-
-
-
-
 
 ## Comparison with Other Organic Fertilizers
 
@@ -78,12 +58,8 @@ If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides
 
 Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition.
 
-
-
-
-
 ## Related
 
-- [[trace-elements-in-soil]] — preventing and treating trace element deficiencies
-- [[homemade-liquid-fertilizer]] — liquid kelp fertilizer as a foliar spray
+- [[composting-and-soil-biology]] — preventing and treating trace element deficiencies
+- [[organic-vegetable-growing-and-market-gardening]] — liquid kelp fertilizer as a foliar spray
 - [[soil-conditioners-guide]] — kelp as a soil conditioner

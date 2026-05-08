@@ -136,31 +136,6 @@ Goji berries are remarkably pest-resistant, but watch for:
 
 ## Winter Care
 
-- **Zones 5–9, in-ground:** No special protection for established plants
-- **First winter:** Apply 3–4 inches of mulch after the ground freezes
-- **Container plants:** Move to a sheltered location; wrap the pot in burlap or bubble wrap; water sparingly
-- Goji are deciduous — leaf drop in fall is normal; do not fertilize in fall or winter
-
-## Companion Plants and Fruiting Timeline
-
-**Good companions:** Comfrey (dynamic accumulator), chives and garlic (pest deterrent), yarrow (attracts beneficials), white clover (nitrogen-fixing living mulch), lavender or rosemary (share similar pH preferences). **Avoid:** Tomatoes, peppers, eggplants — shared Solanaceae disease risk.
-
-**When to expect fruit:** Rooted cuttings produce in year 1–2, bare root in year 2, seed in year 3–4. Peak production begins around year 3–4 and a healthy mature bush yields **2–5 lbs/year for 20+ years**.
-
-## Quick Reference
-
-| Factor | Recommendation |
-|---|---|
-| Hardiness | USDA Zones 5–9 |
-| Sun | Full sun (6–8+ hours) |
-| Soil pH | 6.5–8.0 (slightly alkaline) |
-| Spacing | 4–6 feet apart |
-| Water | Deeply every 1–2 weeks once established |
-| Fertilizer | Light, balanced; avoid excess nitrogen |
-| Prune | Annually in late winter |
-| Container | 18–24 inch pot minimum |
-| Lifespan | 20+ years |
-
 ## See Also
 
 - [[query-how-to-grow-chickpeas-at-home]]

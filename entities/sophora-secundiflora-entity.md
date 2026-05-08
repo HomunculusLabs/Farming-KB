@@ -132,7 +132,7 @@ international regulations; standard nursery trade item worldwide.
 ## See Also
 
 - [[mescal-bean-sophora-secundiflora-vision-dance]]
-- [[peyote-and-psychoactive-cacti]]
+- [[ethnomycology]]
 - [[datura-stramonium]]
 - [[tabernanthe-iboga]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]

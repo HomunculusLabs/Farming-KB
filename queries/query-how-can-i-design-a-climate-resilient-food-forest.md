@@ -64,7 +64,7 @@ Within a single species, seed provenance matters enormously. A persimmon from Ge
 - **Canopy**: Honey locust, carob, mesquite, blight-resistant chestnut
 - **Understory**: Persimmon, jujube, white mulberry
 - **Shrubs**: Seaberry, goumi, autumn olive (check invasiveness lists), currants
-- **Herbaceous**: Good King Henry, perennial kale, Jerusalem artichoke, groundnut
+- **Herbaceous**: Good King Henry, perennial kale, [[jerusalem-artichoke]], groundnut
 - **Ground cover**: Comfrey, yarrow, clover, creeping thyme
 
 ### Diversity Rules
@@ -100,7 +100,7 @@ Design for both abundance and scarcity.
 - Swales are shallow ditches on contour with excavated soil mounded downhill. They catch, spread, and sink runoff, recharging groundwater.
 - Space swales every 10–50 feet on moderate slopes. Plant canopy trees on the berm where soil is deepest.
 
-### Keyline Design
+### [[keyline-design]]
 
 For larger properties, keyline patterning (P.A. Yeomans) plows shallow subsoil channels along the "keypoint" where a valley transitions from convex to concave, spreading water from wet valleys to dry ridges.
 
@@ -121,7 +121,7 @@ Healthy soil holds more water, cycles more nutrients, and supports the microbial
 
 - **Mulch**: Mix woody mulch for perennials with green chop-and-drop for active areas. Never leave bare soil — it erodes, heats up, and loses carbon.
 - **Biochar**: Inoculate it first (mix with compost for 2–4 weeks), then apply at 5–10% of soil volume in planting holes. It improves water retention and sequesters carbon for centuries.
-- **Mycorrhizal inoculation**: These fungi extend root networks by up to 700× and dramatically improve drought resilience. Avoid tilling. Use sheet mulching and minimal-disturbance planting. Inoculate bare-root plantings with commercial products or import soil from a healthy nearby forest.
+- **[[mycorrhizal-inoculation]]**: These fungi extend root networks by up to 700× and dramatically improve drought resilience. Avoid tilling. Use [[sheet-mulching]] and minimal-disturbance planting. Inoculate bare-root plantings with commercial products or import soil from a healthy nearby forest.
 
 ---
 
@@ -141,35 +141,6 @@ Build your list using climate analogs, provenance-aware sourcing, and functional
 
 ### Step 5: Install Infrastructure
 Build earthworks and windbreaks before planting. Set up temporary irrigation for establishment.
-
-### Step 6: Plant and Establish
-Sheet mulch 6–12 months before planting. Start with canopy and windbreak trees, then work down through layers. Mulch heavily and water deeply but infrequently. Inoculate with mycorrhizae at planting.
-
-### Step 7: Monitor, Adapt, and Evolve
-Keep a journal. Replace failures with different species or provenances — that's data, not defeat. Shift understory plantings as canopy closes. Plan succession: coppice fast-growing nitrogen fixers (black locust, tagasaste) as climax trees mature.
-
----
-
-## Quick Reference: Resilience Checklist
-
-- [ ] One full year of site observation completed
-- [ ] Climate risk map created (frost, heat, flood, drought, wind)
-- [ ] Species from climate analog regions with diverse provenances
-- [ ] 3–5 species per functional niche planted
-- [ ] Multi-row windbreak installed on windward side
-- [ ] Swales or keyline earthworks on contour
-- [ ] Deep-rooted perennials prioritized over annuals
-- [ ] 4–6 inches of mulch on all planted areas
-- [ ] Biochar inoculated and applied in planting holes
-- [ ] Mycorrhizal inoculant used at planting; no tilling
-- [ ] Water management for both excess and scarcity
-- [ ] 30%+ native species for pollinator support
-- [ ] Observation journal started and maintained
-- [ ] Phased planting plan covering 3–5 years
-
----
-
-**Remember**: A climate-resilient food forest is never "finished." It's a living system you co-evolve with. Start small, observe deeply, and trust that diversity and thoughtful design will carry you through. Every tree you plant is an act of hope backed by good science.
 
 ## See Also
 

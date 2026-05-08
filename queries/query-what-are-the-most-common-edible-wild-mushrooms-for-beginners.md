@@ -50,7 +50,7 @@ distinguish true from false morels by examining cap attachment, interior
 structure, and cap shape is essential before consuming any morel.
 
 The king bolete (Boletus edulis), also known as porcini, is prized for its
-rich, nutty flavor and meaty texture. [[boletus-edulis]] has a brown cap, thick
+rich, nutty flavor and meaty texture. [[boletus-edulis-entity]] has a brown cap, thick
 white stem with a fine net pattern (reticulation) near the top, and spongy
 pore surface under the cap instead of gills. Boletes as a group are
 identified by their pore surface rather than gills, which immediately
@@ -93,7 +93,7 @@ percent confident in its identification.
   look-alikes
 - The [[mushroom-foraging-safety-guide]] emphasizes positive identification
   before consuming any wild mushroom
-- [[chanterelle-guide]], [[morel-mushroom-guide]], and [[boletus-edulis]]
+- [[chanterelle-guide]], [[morel-mushroom-guide]], and [[boletus-edulis-entity]]
   resources provide detailed identification criteria
 - [[wild-mushroom-harvest-sustainability]] practices protect fungal
   populations for future foraging seasons

@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 
-Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern chemical analyses have largely failed to confirm the presence of significant quantities of [[psilocybin]] or [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's worldwide survey of neurotropic fungi and continues to appear in older literature on hallucinogenic mushrooms.
+Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern chemical analyses have largely failed to confirm the presence of significant quantities of [[psilocybin-compound]] or [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's worldwide survey of neurotropic fungi and continues to appear in older literature on hallucinogenic mushrooms.
 
 ## Taxonomy and Classification
 
@@ -51,7 +51,7 @@ The species is saprotrophic, growing on decaying grass, thatch, leaf litter, and
 
 The question of whether Panaeolina foenisecii contains psychoactive compounds has been debated for decades, and the literature contains conflicting reports:
 
-**Reports of psychoactivity:** Early surveys of hallucinogenic mushrooms, including those by Singer and Smith (1958) and some subsequent authors, listed P. foenisecii among species suspected to contain [[psilocybin]]. Anecdotal reports of mild psychoactive effects following ingestion have appeared in the popular literature. Some early chemical analyses reportedly detected trace amounts of psilocybin or related compounds.
+**Reports of psychoactivity:** Early surveys of hallucinogenic mushrooms, including those by Singer and Smith (1958) and some subsequent authors, listed P. foenisecii among species suspected to contain [[psilocybin-compound]]. Anecdotal reports of mild psychoactive effects following ingestion have appeared in the popular literature. Some early chemical analyses reportedly detected trace amounts of psilocybin or related compounds.
 
 **Modern analyses:** More rigorous modern chemical studies, including those using HPLC and GC-MS, have generally failed to detect psilocybin, psilocin, baeocystin, or other psychoactive indole alkaloids in P. foenisecii at meaningful concentrations. The species was included in Guzmán, Allen, and Gartz's (1998) worldwide distribution study of neurotropic fungi, but with the caveat that many species in the Panaeoloideous group lack reliable chemical studies.
 

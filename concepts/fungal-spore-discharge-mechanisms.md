@@ -139,54 +139,6 @@ removal.
 
 In these experiments, spores were subjected to temperatures as low as
 minus 180 degrees Celsius, dried in a vacuum, and irradiated with an
-intense beam of electrons. Only dehydration in alcohol proved lethal.
-
-This extreme resilience lends credence to the claim that certain
-microbes might survive apocalyptic changes in Earth's climate,
-including ozone thinning, global warming, or even nuclear war.
-
-## Gasteromycete Dispersal Strategies
-
-Gasteromycetes (stomach fungi) have abandoned the water-dependent
-catapult mechanism entirely, evolving diverse alternatives. Puffballs
-and earth-stars rely on mechanical disturbance: when raindrops, animals,
-or wind jostle the fruiting body, clouds of spores are puffed into the
-air through an apical pore.
-
-The giant puffball (*Calvatia gigantea*) can produce an estimated 7
-trillion spores from a single fruiting body, making it the most
-fecund organism on the planet.
-
-Bird's nest fungi use a two-stage mechanism where raindrops splash
-packets of spores (peridioles) onto surrounding grass, where they are
-ingested by herbivores and deposited in dung.
-
-The cannon fungus *Sphaerobolus* operates a microscopic trampoline
-that can shoot a black ball of spores several meters with enough force
-to stick tenaciously to painted surfaces.
-
-Stinkhorns and cage fungi employ animal vectors. Their spores are
-embedded in foul-smelling slime containing volatile compounds including
-hydrogen sulfide, formaldehyde, and methylmercaptan. Flies and slugs
-are attracted to the carrion-like odor, consume or carry the spores,
-and disperse them through defecation.
-
-## Evolutionary Significance
-
-The diversity of spore discharge mechanisms reflects the remarkable
-evolutionary plasticity of fungi. The transition from gilled mushrooms
-to gasteromycetes likely involved the gradual loss of the unfolding
-capacity of the fruiting body, producing enclosed spore-bearing
-tissues.
-
-This transition enabled gasteromycetes to colonize much drier habitats
-than other basidiomycetes, including sandy soils and deserts.
-
-Fossil evidence from Cretaceous amber, more than 90 million years old,
-shows mushroom spores still bearing the hilar appendix that is the
-hallmark of the ballistospore discharge mechanism, demonstrating the
-antiquity of this process.
-
 ## Related Topics
 
 - [[hyphal-biology-and-turgor-pressure]]

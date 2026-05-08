@@ -130,46 +130,9 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 - **90–180 minutes:** Gradual tapering. Residual relaxation and mild euphoria persist for 1–2 additional hours.
 
 ### Reported Effects (Positive)
-- Intense euphoria and mood elevation
-- Deep physical relaxation without incapacitation
-- Enhanced sensory appreciation (music, food, visual art)
-- Creative ideation (early phase)
-- Stress and anxiety relief
-- Mild to moderate pain relief (muscular, inflammatory)
-- Appetite stimulation
-
-### Reported Effects (Negative / Side Effects)
-- Dry mouth and dry eyes (common)
-- Moderate to strong "couch-lock" at higher doses
-- Anxiety or paranoia in susceptible individuals, particularly at doses above tolerance
-- Dizziness or lightheadedness on standing (orthostatic hypotension)
-- Impaired short-term memory and concentration
-
-### Medical Applications
-- **Stress and anxiety disorders:** Anxiolytic effects make it popular for generalized anxiety and situational stress
-- **Chronic pain:** Moderate analgesic effects for muscular pain, neuropathic discomfort, and inflammation
-- **Insomnia:** Effective for sleep onset at moderate-to-high doses, though not as sedating as pure indicas like Granddaddy Purple
-- **Appetite disorders:** Strong munchies effect useful for cachexia, nausea, and appetite suppression from medications
-- **PTSD:** Some patients report relief from intrusive thoughts and hyperarousal symptoms
-
-## Cultivation
-
-### Growing Characteristics
-- **Difficulty:** Moderate. Requires attention to training and environmental control for optimal results but is generally forgiving for intermediate growers.
-- **Flowering time:** 8–9 weeks indoors (56–63 days)
-- **Yield:** Moderate to high (400–500 g/m² indoors). Not the heaviest yielder but quality compensates.
-- **Height:** Medium stature, reaching 100–150 cm indoors. Responds well to low-stress training (LST), scrog, and topping.
-- **Stretch:** Moderate (30–50% stretch in early flowering).
-
-### Environmental Preferences
-- **Temperature:** 20–28°C during lights-on; 15–20°C during dark period (cooler nights enhance purple coloration)
-- **Humidity:** 50–60% vegetative; 40–50% flowering (lower to prevent bud rot in dense colas)
-- **Nutrients:** Moderate to heavy feeder. Responds well to increased PK (phosphorus/potassium) during weeks 4–7 of flowering for enhanced trichome production.
-- **Support:** Dense, heavy buds require trellis netting or bamboo stakes to prevent branches from breaking under weight.
-
 ## See Also
 
-- [[mochi]]
+- [[mochi-cannabis]]
 
 - [[jealousy]]
 
@@ -180,7 +143,7 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 - [[girl-scout-cookies]] — foundational lineage
 - sunset sherbert — parent strain
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]] — dominant terpene
-- [[runtz]] — related Cookies-family hybrid
-- [[wedding-cake]] — another Gelato-descended strain
+- [[runtz-entity]] — related Cookies-family hybrid
+- [[wedding-cake-cannabis]] — another Gelato-descended strain
 - [[cannabis-sativa]] — sativa species reference
 - [[cannabis-indica]] — indica species reference

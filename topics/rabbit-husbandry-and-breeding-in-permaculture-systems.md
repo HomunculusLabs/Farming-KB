@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Rabbits are among the most efficient and space-conscious livestock a homesteader or permaculture practitioner can integrate into a design. They convert forage and kitchen scraps into high-quality protein (meat), valuable manure, and warm fiber (for wool breeds), all while requiring a fraction of the space, feed, and water that larger livestock demand. In a permaculture context, rabbits function as a keystone element in integrated systems — connecting garden waste streams, compost production, soil fertility, and food production into closed-loop cycles.
+Rabbits are among the most efficient and space-conscious livestock a homesteader or permaculture practitioner can integrate into a design. They convert forage and kitchen scraps into high-quality protein (meat), valuable manure, and warm fiber (for wool breeds), all while requiring a fraction of the space, feed, and water that larger livestock demand. In a permaculture context, rabbits function as a keystone element in integrated systems — connecting garden waste streams, compost production, [[soil-fertility-management]], and food production into closed-loop cycles.
 
 A single breeding doe can produce 40–60+ pounds of dressed meat per year while generating several hundred pounds of nitrogen-rich manure. Their compact size, rapid reproduction, and quiet demeanor make them ideal for suburban lots, rural homesteads, and even urban settings where zoning permits.
 
@@ -42,9 +42,9 @@ A single breeding doe can produce 40–60+ pounds of dressed meat per year while
 ### Integration Benefits
 
 - **Manure production:** Rabbit manure is a "cold" manure, meaning it can be applied directly to gardens without composting (though composting improves nutrient availability). It is approximately 2.4% nitrogen, 1.4% phosphorus, and 0.6% potassium — richer than poultry manure in nitrogen.
-- **Waste stream utilization:** Rabbits thrive on garden trimmings, weed biomass, fruit tree prunings (leaves and small twigs), surplus root vegetables, and grain screenings — turning waste into protein.
+- **Waste stream utilization:** Rabbits thrive on garden trimmings, weed biomass, [[fruit-tree-grafting-guide]] prunings (leaves and small twigs), surplus root vegetables, and grain screenings — turning waste into protein.
 - **Worm farm integration:** Rabbit droppings that fall through wire-mesh floors into worm bins create a self-feeding vermicomposting system. Red wigglers thrive on rabbit manure, producing castings and serving as supplemental poultry or fish feed.
-- **Heat generation:** A colony of rabbits produces body heat that can be harvested in greenhouse or root cellar designs through passive thermal integration.
+- **Heat generation:** A colony of rabbits produces body heat that can be harvested in greenhouse or [[root-cellar-design-and-construction]] designs through passive thermal integration.
 - **Low noise footprint:** Unlike roosters, goats, or geese, rabbits are virtually silent, making them neighbor-friendly livestock.
 
 ---
@@ -300,13 +300,13 @@ Unlike "hot" manures from poultry and livestock that require composting before u
 
 - **Immediate soil application:** No composting required (though composting improves phosphorus availability)
 - **Won't burn plants:** Low salt content and balanced NPK ratio
-- **Improves soil structure:** The pelletized form creates micro-aggregates in soil
+- **Improves [[soil-structure-and-aggregate-ecology]]:** The pelletized form creates micro-aggregates in soil
 - **High calcium content:** Particularly beneficial for tomatoes, peppers, and other calcium-demanding crops
 - **Feeds earthworms:** Worms are attracted to rabbit manure and multiply rapidly beneath hutches
 
 ### Vermicomposting Integration
 
-A worm bin placed directly beneath wire-mesh rabbit hutches creates a self-feeding, self-harvesting system:
+A [[worm-bin-types-comparison]] placed directly beneath wire-mesh rabbit hutches creates a self-feeding, self-harvesting system:
 
 1. Red wigglers (*Eisenia fetida*) live in bedding (shredded newspaper, leaves) in a bin or pit beneath the hutch
 2. Rabbit droppings fall through the wire and are consumed by worms
@@ -321,7 +321,7 @@ This is one of the most elegant closed-loop integrations in permaculture: kitche
 - **Side-dressing:** ½–1 cup of pellets per plant, worked lightly into soil surface
 - **Top-dressing lawns:** 10 lbs per 100 sq ft, watered in
 - **Compost activator:** Add 1–2 gallons of rabbit manure to compost piles to accelerate decomposition
-- **Compost tea:** Steep 1 part rabbit manure in 5 parts water for 24–48 hours; strain and apply as liquid fertilizer
+- **Compost tea:** Steep 1 part rabbit manure in 5 parts water for 24–48 hours; strain and apply as [[liquid-fertilizer-from-weeds]]
 
 ---
 
@@ -330,7 +330,7 @@ This is one of the most elegant closed-loop integrations in permaculture: kitche
 ### Zone Placement
 
 - **Zone 1–2:** Breeding hutches and daily care operations near the home for convenience
-- **Zone 2:** Grow-out tractors and colony systems on vegetable garden margins
+- **Zone 2:** Grow-out tractors and colony systems on [[vegetable-garden-fertilization]] margins
 - **Zone 3:** Pasture rotation areas for forage-based grow-out systems
 
 ### Rabbit-Chicken-Garden Integration
@@ -400,7 +400,7 @@ Within 4–5 months, this setup can be producing a steady supply of meat and a c
 
 ## Glossary
 
-- **Cecotrope:** Soft, nutrient-dense fecal pellet produced by rabbits through cecal fermentation and re-ingested for nutrient capture
+- **Cecotrope:** Soft, [[nutrient-dense-gardening]] fecal pellet produced by rabbits through cecal fermentation and re-ingested for nutrient capture
 - **Kindling:** The act of giving birth (in rabbits)
 - **Fryer:** A young rabbit (8–12 weeks) raised for meat
 - **Doe:** A female rabbit

@@ -51,7 +51,7 @@ Bigwood and Beug noted that psilocybin was "nearly always at least twice the lev
 | 4     | ~2:1                                 | Significant psilocin |
 | 5     | ~2:1                                 | Significant psilocin |
 
-The declining ratio across flushes is driven entirely by increasing psilocin, not by decreasing psilocybin. This observation is crucial for understanding the temporal dynamics of [[alkaloid biosynthesis]] in this species and has implications for both the pharmacokinetics and subjective character of experiences with early versus late harvest material.
+The declining ratio across flushes is driven entirely by increasing psilocin, not by decreasing psilocybin. This observation is crucial for understanding the temporal dynamics of [[alkaloid-biosynthesis]] in this species and has implications for both the pharmacokinetics and subjective character of experiences with early versus late harvest material.
 
 ## Fourfold Variation Under Controlled Conditions
 
@@ -70,7 +70,7 @@ When Bigwood and Beug analyzed five street samples of dried [[psilocybe-cubensis
 
 The unpredictability of psilocybin levels has direct safety implications for both recreational and therapeutic use:
 
-- A given dry weight of mushrooms could contain anywhere from 0.7 to 13+ mg/g of [[psilocybin]], depending on genetics, flush number, and growing conditions.
+- A given dry weight of mushrooms could contain anywhere from 0.7 to 13+ mg/g of [[psilocybin-compound]], depending on genetics, flush number, and growing conditions.
 - Combined with the additional variability introduced by psilocin accumulation patterns, the total tryptamine content is even less predictable.
 - Users cannot reliably estimate dosage by weight alone, making standardization of preparations critically important for research and therapeutic applications.
 - The roughly fourfold variation under controlled conditions sets a floor on the achievable precision of natural mushroom preparations, regardless of cultivation expertise or environmental control.

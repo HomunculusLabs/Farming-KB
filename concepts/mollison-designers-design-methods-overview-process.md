@@ -148,4 +148,3 @@ windbreaks and pioneer trees early, access roads before earthworks, fencing
 before livestock, soil-building before planting, and Zone 1 before outer
 zones. Implementation remains flexible -- the real world always differs
 from the design. Monitoring reveals what works; evaluation compares outcomes
-with intent; adjustment modifies the design based on feedback. This

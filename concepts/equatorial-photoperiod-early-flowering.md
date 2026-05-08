@@ -135,6 +135,6 @@ these equatorial lines as valuable genetic resources.
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[cannabis-photoperiod-flowering-cycle]]
 
-- [[trainwreck generational breeding]]
-- [[cannabis photoperiodism]]
-- [[sativa domestication]]
+- [[trainwreck-generational-breeding]]
+- [[cannabis-photoperiodism]]
+- [[sativa-domestication]]

@@ -1,5 +1,5 @@
 ---
-title: "Camphor"
+title: "camphor"
 created: 2026-04-28
 type: chemical
 tags:
@@ -23,7 +23,7 @@ sources:
 ## Overview
 
 Camphor is a bicyclic monoterpene ketone (C10H16O) with a characteristic penetrating
-aroma. It occurs naturally in the wood of *Cinnamomum camphora* (camphor tree) and
+aroma. It occurs naturally in the wood of *[[cinnamomum-camphora]]* (camphor tree) and
 in several other aromatic plant species. Historically one of the most important
 commodity terpenes in global trade, camphor has been used for millennia in
 traditional Chinese, Japanese, and Indian medicine.
@@ -69,8 +69,8 @@ Camphor produces multiple pharmacological effects through several receptor syste
 - High doses: generalized CNS depression, seizures (dose-dependent biphasic effect)
 
 **Antimicrobial activity:**
-- Active against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*)
-- Moderate antifungal activity against *Candida albicans* and dermatophytes
+- Active against Gram-positive bacteria (*Staphylococcus aureus*, *[[bacillus-subtilis]]*)
+- Moderate antifungal activity against *[[candida-albicans]]* and dermatophytes
 - Insecticidal and moth-repellent properties (basis of naphthalene replacement)
 
 **Topical effects:**
@@ -90,8 +90,8 @@ exceeding 11% camphor are restricted in many jurisdictions.
 - *Dryobalanops aromatica* (Dipterocarpaceae) — Borneo camphor tree; source of
   (+)-camphor enantiomer, historically traded as "Borneo camphor"
 - *Blumea balsamifera* (Asteraceae) — sambong; leaves contain 0.5–2% camphor
-- *Salvia officinalis* (Lamiaceae) — sage; minor camphor constituent in essential oil
-- *Rosmarinus officinalis* (Lamiaceae) — rosemary; camphor is a significant
+- *[[salvia-officinalis]]* (Lamiaceae) — sage; minor camphor constituent in essential oil
+- *[[rosmarinus-officinalis]]* (Lamiaceae) — rosemary; camphor is a significant
   component (5–15%) of rosemary essential oil
 
 **Biosynthesis:** Camphor is synthesized via the mevalonate pathway (MVA) from
@@ -148,4 +148,3 @@ extensively in incense, medicine, and wood preservation.
   and antimicrobial applications
 - [[thujone]] — Monoterpene ketone with GABA_A antagonism; comparison of
   biphasic neurotoxicity profiles
-- [[linalool]] — Monoterpene alcohol with anxiolytic and TRP channel activity

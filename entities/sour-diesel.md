@@ -115,6 +115,6 @@ Consumers seeking authentic Sour Diesel are advised to source from reputable bre
 - [[jack-herer]]
 - [[blesching-cannabis-sativa-indica-classification]]
 - [[northern-lights]]
-- [[white-widow]]
+- [[white-widow-entity]]
 - chemdog lineage
 - [[cannabis-terpene-entourage-effect]]

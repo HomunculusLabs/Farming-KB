@@ -148,4 +148,3 @@ two-carbon extension with a built-in amine, exactly what is needed for
 the tryptamine side chain after reduction.
 
 ## See Also
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]

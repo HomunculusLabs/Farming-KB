@@ -147,10 +147,3 @@ practical approach for industrial wastewater treatment applications.
 
 - [[singh-fungal-biosorption-cadmium]]
 - [[singh-fungal-biosorption-lead-copper]]
-
-## Related Pages
-
-[[singh-chromium-bioremediation-fungi]] examines fungal mechanisms for chromium removal, complementing the mycosorption overview.
-[[fungal-pah-degradation-pathways]] covers fungal degradation of organic pollutants, extending biosorption to chemical transformation.
-[[mycoremediation-bioreactor-design-considerations]] addresses scaling biosorption from bench to practical treatment systems.
-[[singh-composted-biomass-as-soil-amendment-remediation]] explores repurposing spent fungal biosorbent biomass for soil remediation.

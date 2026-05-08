@@ -148,4 +148,3 @@ Fukuoka's argument against pruning embodies his broader philosophy:
 - [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-one-straw-revolution-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
-- phyllotaxy

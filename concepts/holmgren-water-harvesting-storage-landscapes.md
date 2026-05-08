@@ -126,5 +126,5 @@ siltation, and salinity. This catchment pattern of land use has been promoted by
 both the Landcare movement and the earlier Soil Conservation movement.
 
 See also: [[holmgren-catch-and-store-energy-detailed]],
-[[holmgren-zones-and-sectors-design-framework]],
+[[permaculture-design]],
 [[holmgren-appropriate-non-renewable-resources]]

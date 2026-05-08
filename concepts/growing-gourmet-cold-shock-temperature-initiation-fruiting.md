@@ -118,5 +118,5 @@ principles of temperature initiation include:
 - [[growing-gourmet-primordia-formation-pinning]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-indoor-growing-environment]]
-- [[growing-gourmet-paddy-straw-mushroom-volvariella]]
+- growing gourmet paddy straw mushroom volvariella
 - [[growing-gourmet-enoki-cultivation]]

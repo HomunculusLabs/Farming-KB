@@ -69,7 +69,7 @@ Fertilizers degrade soil, which requires more fertilizer, which further degrades
 
 The alternative proposed by Fukuoka in [[fukuoka-natural-farming-philosophy]] is to stop intervening altogether and trust in the self-regulating capacity of natural systems.
 
-This is not passivity; it is a profound humility that recognizes the limits of human knowledge and the wisdom of nature's own processes. The farmer who practices [[no-till-gardening-method]] and allows natural succession to guide the development of his land is, in Fukuoka's view, not doing less but doing something far more difficult: yielding to an intelligence greater than his own.
+This is not passivity; it is a profound humility that recognizes the limits of human knowledge and the wisdom of nature's own processes. The farmer who practices [[composting-and-soil-biology]] and allows natural succession to guide the development of his land is, in Fukuoka's view, not doing less but doing something far more difficult: yielding to an intelligence greater than his own.
 
 [[fukuoka-ignorant-agriculture-pit-of-knowledge]] | [[fukuoka-errors-human-intellect]] | [[fukuoka-critique-modern-agriculture]] | [[fukuoka-critique-soil-cultivation]] | [[fukuoka-natural-soil-fertility]]
 

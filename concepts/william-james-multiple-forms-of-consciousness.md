@@ -148,4 +148,3 @@ results demand serious attention regardless of one's ontological commitments.
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for the modern practice context
 - [[metzner-entheogen-terminology-and-worldview-paradigms]] for terminology discussion
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] for the five conclusions
-- [[tryptamine-hallucinogens-and-consciousness]] for McKenna's parallel argument from phenomenology

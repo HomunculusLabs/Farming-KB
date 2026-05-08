@@ -132,7 +132,7 @@ sources: ["domain-knowledge"]
 ## See Also
 
 - [[yucca-schidigera]]
-- [[yucca-filamentosa]] — Spanish Dagger, related southeastern Yucca species
+- yucca filamentosa — Spanish Dagger, related southeastern Yucca species
 - [[persea-americana-entity]] — Century Plant, similar architectural xeriscape form
 - [[opuntia-ficus-indica]] — Eastern Prickly Pear, complementary xeriscape native
 - [[echinacea-purpurea]] — Purple Coneflower, native pollinator-supporting companion

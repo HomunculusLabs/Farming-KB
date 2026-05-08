@@ -15,7 +15,7 @@ created: 2026-04-28
 
 # Predatory Mites vs. Ladybugs for Biological Pest Control
 
-Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used biological control agents in integrated pest management (IPM) programs. They occupy different ecological niches and target distinct pest guilds, making them complementary tools in most agricultural systems.
+Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used biological control agents in [[integrated-pest-management]] (IPM) programs. They occupy different ecological niches and target distinct pest guilds, making them complementary tools in most agricultural systems.
 
 ## Comparison at a Glance
 
@@ -107,7 +107,7 @@ Humidity is the primary limiting factor for phytoseiids; below 50% RH, egg hatch
 
 **Predatory mites** are compatible with many selective pesticides but highly sensitive to broad-spectrum acaricides (abamectin, bifenthrin, etoxazole) and pyrethroids. They are highly compatible with other biocontrol agents (parasitoid wasps, entomopathogenic fungi) since they occupy a different trophic niche.
 
-**Ladybugs** are sensitive to broad-spectrum insecticides (pyrethroids, organophosphates, neonicotinoids) but compatible with many fungal biopesticides (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
+**Ladybugs** are sensitive to broad-spectrum insecticides (pyrethroids, organophosphates, neonicotinoids) but compatible with many [[fungal-biopesticides]] (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
 
 ## Advantages and Disadvantages
 

@@ -138,19 +138,6 @@ Rice growth in Kochi Prefecture, with its warm temperatures and high humidity, w
 Disease and pest attack was "one method taken by nature for suppressing excessive growth."
 
 The first thing that pops into the head of an agricultural scientist when he sees a pest emerge is how to kill it.
-
-Instead, he should examine the causes of the outbreak and cut off the problem at its roots.
-
-## Scientific Farming as Temporary Expedient
-
-The Kochi campaign demonstrated to Fukuoka that, "since the purpose of scientific agriculture is always and everywhere convenience to man, no matter how large and complete the technology amassed, it will never amount to more than a temporary expedient." The post-season cultivar selected was merely one that would not reduce yields when planted in July; in no way was it capable of positively raising yields.
-
-Crop cultivation techniques based on late planting are all mere stopgap measures for holding crop losses to a minimum. This incident taught him "not to rely on human action and strengthened my resolve to move toward a natural way of farming."
-
-## The Turning Point Toward Natural Farming
-
-The realization that the most comprehensive and scientifically sophisticated pest control program could achieve only the elimination of a single pest without improving overall productivity was a decisive moment in Fukuoka's intellectual journey from agricultural scientist to natural farming advocate. It demonstrated that scientific farming was always reactive, always addressing symptoms rather than causes, and always producing temporary fixes that created new problems requiring further intervention. The Kochi campaign was, in effect, a practical demonstration of the theoretical principles that Fukuoka had been developing: that nature is self-regulating, that human interference disrupts rather than improves natural systems, and that the only path to truly productive agriculture lies in understanding and working with nature rather than attempting to dominate it.
-
 ## See Also
 
 - [[fukuoka-kochi-rice-borer-eradication-debacle]]

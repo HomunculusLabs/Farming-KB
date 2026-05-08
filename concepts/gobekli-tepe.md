@@ -24,7 +24,7 @@ Its interpretation remains debated because there is no writing and because only 
 Gobekli Tepe is best understood as a regional ceremonial landscape rather than an isolated miracle.
 Nearby sites such as Karahan Tepe and Nevali Cori show related architectural and symbolic traditions.
 Together these places illuminate a transformative period when Southwest Asian societies were experimenting with settlement, cultivation, and ritual life.
-Gobekli Tepe is therefore central to discussions of [[archaeology-of-psychedelic-mushrooms]], [[chinampas]], and other cases where material remains challenge simple cultural timelines.
+Gobekli Tepe is therefore central to discussions of [[mushroom-cultivation-fundamentals]], [[chinampas]], and other cases where material remains challenge simple cultural timelines.
 Its public fame has also made it a test case for how archaeology is communicated, sensationalized, and protected.
 
 ## Key Aspects
@@ -114,11 +114,11 @@ It also asks how memory, labor, and symbolism become embedded in stone.
 [[meiji-restoration]] is historically unrelated but similarly shows how new evidence and new institutions can reorganize cultural narratives.
 [[chinampas]] offers a later example of sophisticated landscape engineering outside simple evolutionary stereotypes.
 [[permaculture-patterns-in-nature]] connects indirectly through attention to landscape, settlement, and human ecological design.
-[[archaeology-of-psychedelic-mushrooms]] shares the challenge of interpreting symbolic material culture without written records.
+[[mushroom-cultivation-fundamentals]] shares the challenge of interpreting symbolic material culture without written records.
 [[entheogens-in-ancient-cultures]] is relevant as a cautionary comparison for interpreting ritual evidence.
 [[dominator-culture-and-partnership-society]] intersects with debates about social hierarchy, though its categories should be applied carefully.
 [[demeter-and-persephone-in-eleusinian-mythology]] provides a later agricultural ritual comparison, not a direct lineage.
-[[hallucinogenic-plants-of-the-world]] illustrates the broader ethnobotanical temptation to overinterpret prehistoric symbols.
+[[entheogenic-plants-and-psychoactive-flora]] illustrates the broader ethnobotanical temptation to overinterpret prehistoric symbols.
 [[bauhaus-movement]] is unrelated in time but comparable as a case where built form carries social ideals.
 [[kintsugi]] offers a cultural analogy for memory preserved in material traces.
 

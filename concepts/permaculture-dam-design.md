@@ -87,7 +87,7 @@ The relationship between dam placement and [[permaculture-earthworks]] is fundam
 
 For comprehensive dam building guidance, Mollison references Kenneth D. Nelson's comprehensive text on small [[mollison-designers-dam-construction-and-water-storage]], which covers catchment treatments, runoff calculations, soils, construction, outlets, volume and cost estimates, and detailed drawings for adjunct structures. However, most engineering texts concentrate on valley dams and less on the biological uses of dams or their placement within total designed landscapes.
 
-The [[swale-construction-guide]] and [[swale-design-construction]] pages provide complementary detail on absorption-based water management that works alongside dam-based storage systems.
+The [[organic-vegetable-growing-and-market-gardening]] and [[swale-design-construction]] pages provide complementary detail on absorption-based water management that works alongside dam-based storage systems.
 
 ## Related
 

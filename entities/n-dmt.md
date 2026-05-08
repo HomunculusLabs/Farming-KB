@@ -133,6 +133,6 @@ DMT is one of the most widely distributed psychedelic compounds in nature, occur
 ## See Also
 
 - [[bufotenin]] — 5-HO-DMT, a closely related tryptamine found in Anadenanthera species
-- [[psilocybin]] — 4-PO-DMT, the prodrug of psilocin, another naturally occurring psychedelic tryptamine
+- [[psilocybin-compound]] — 4-PO-DMT, the prodrug of psilocin, another naturally occurring psychedelic tryptamine
 - [[5-meo-dmt]] — 5-Methoxy-DMT, a related compound found in Bufo alvarius toad venom
 - [[harmine-entity-tihkal]] — Beta-carboline alkaloid and MAOI, essential component of ayahuasca

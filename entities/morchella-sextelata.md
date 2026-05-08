@@ -1,5 +1,5 @@
 ---
-title: "Morchella sextelata"
+title: "morchella sextelata"
 created: 2026-04-28
 type: species
 tags:
@@ -25,20 +25,19 @@ sources:
   - Buscot F. "Field and laboratory synthesis of Morchella
     mycorrhiza." Mycorrhiza 2, 1992.
 ---
-
 # Morchella sextelata
 
 ## Overview
 
 *Morchella sextelata* is a true morel in the family Morchellaceae,
 commonly called a burn-site or fire morel. Described in 2012 from
-western North America, it fruits prolifically in the first 1–3 years
+western [[maitake-growth-parameter-comparison-china-japan-north-america]], it fruits prolifically in the first 1–3 years
 following forest fires.
 
 *M. sextelata* is highly prized as an edible with excellent culinary
 quality. Its predictable post-fire fruiting and recent success in
-commercial cultivation make it economically and ecologically
-significant. Part of the *Morchella elata* clade (black morels).
+commercial cultivation make it econmorchella-elataologically
+significant. Part of the *[[morchella-elata]]* clade (black morels).
 
 ## Taxonomy
 
@@ -76,11 +75,11 @@ operculate.
 
 ## Distribution and Habitat
 
-*Morchella sextelata* occurs in western North America, from British
-Columbia through the Pacific Northwest, Rocky Mountains, and Sierra
+*Morchella sextelata* occurs in wpsilocybin-[[palmer-edible-mushrooms-north-america]]-pacific-northwestica, from British
+Columbia through the [[psilocybin-north-america-pacific-northwest]], Rocky Mountains, and Sierra
 Nevada to New Mexico.
 
-The species fruits almost exclusively in recently burned coniferous
+The species fruits almost exclusively in redouglas-fired coniferous
 forests (1–3 years post-fire). Preferred associates include
 Douglas-fir, ponderosa pine, lodgepole pine, and grand fir. Fruitings
 occur at 500–2,500 meters on burned mineral soil, often near fallen
@@ -90,18 +89,18 @@ triggered by warming soil temperatures and spring precipitation.
 ## Ecological Role
 
 The ecological role of burn-site morels is partially characterized.
-Evidence supports both saprotrophic and facultative mycorrhizal
+Evidence supportdecompositionrophic and facultative mycorrhizal
 lifestyles:
 
-**Saprotrophic component:** Decomposition of fire-killed woody debris
-and soil organic matter. Post-fire conditions create abundant
+**Saprotrophic component:** Decomposition of fire-killed [[fungal-diversity-leaf-litter-coarse-woody-debris]]
+and [[mollison-designers-humus-building-and-soil-organic-matter]] doc-composting-critique-futility-prepared-organic-matter]]. Post-fire conditions create abundant
 particulate carbon from charred wood.
 
 **Mycorrhizal component:** Root-tip analysis suggests facultative
 association with conifer root systems. The post-fire nutrient flush
 creates a temporary permissive window for fruiting.
 
-**Fire ecology:** Productivity correlates with fire severity, soil
+**[[fungal-diversity-fire-ecology]]:** Productivity correlates with fire severity, soil
 heating depth, and pre-fire forest type. High-severity burns with
 substantial duff consumption produce the largest fruitings.
 
@@ -110,7 +109,7 @@ substantial duff consumption produce the largest fruitings.
 Commercial cultivation was pioneered in China and adapted for western
 strains:
 
-**Substrate:** Two-phase system with cereal grain spawn (rye/wheat)
+**Substrate:** Two-phase system with cereal [[grain-spawn-generation]] (rye/wheat)
 and nutritionally supplemented soil casing (peat, loam, calcium
 carbonate, gypsum).
 
@@ -138,7 +137,7 @@ acid), vitamin D2, and minerals (iron, phosphorus, potassium).
 - ***M. capitata***: Very similar; distinguished by DNA and geography
 - ***M. importuna***: Urban morel, smaller, thinner ridges
 - ***M. tomentosa***: Fuzzy-foot morel, pubescent stipe
-- ***Verpa bohemica***: Cap hangs free from stipe, can cause GI upset
+- ***[[verpa-bohemica]]***: Cap hangs free from stipe, can cause GI upset
 
 ## Conservation
 
@@ -147,9 +146,3 @@ Overharvesting is a concern in productive burn areas, though harvesting
 impact on mycelial populations remains debated. Commercial permits are
 required on public lands in many western states. Raking can damage soil
 structure and regenerating vegetation in post-fire landscapes.
-
-## See Also
-
-- [[decomposition]]
-- [[morchella-elata]]
-- [[mycorrhiza]]

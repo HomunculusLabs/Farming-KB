@@ -130,5 +130,5 @@ Small structures placed in drainage channels to slow water flow and trap sedimen
 - [[keyline-design]] for landscape-scale water distribution
 - [[rainwater-harvesting-systems]] for collection and storage
 - erosion for erosion control
-- [[permaculture-design-methods]] for design framework
-- [[permaculture-earthworks-guide]] — Permaculture Earthworks Guide is a comprehensive reference for all types of permaculture earthworks.
+- [[permaculture-design]] for design framework
+- [[permaculture-water-harvesting-earthworks]] — Permaculture Earthworks Guide is a comprehensive reference for all types of permaculture earthworks.

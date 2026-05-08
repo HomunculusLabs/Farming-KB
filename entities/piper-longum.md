@@ -118,7 +118,7 @@ Major cultivation challenges include susceptibility to Phytophthora root rot, me
 
 ## See Also
 
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[piperine]]
 - [[curcumin]]
 - [[zingiber-officinale]]

@@ -1,141 +1,133 @@
 ---
-title: "Peyote And Mescaline"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [ethnobotany, pharmacology, psychedelics]
-sources: []
----
----
 title: Peyote and Mescaline
-tags: [pharmacology, mescaline, indigenous-practices, ethnobotany]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+aliases: [Lophophora williamsii, mescaline cactus, peyote ceremony, Native American Church]
+tags: [ethnobotany, hallucinogens, peyote, mescaline, entheogens, cactaceae]
+created: 2026-05-08
+source: "A Golden Guide to Hallucinogenic Plants — Richard Evans Schultes (1976)"
 ---
 
 # Peyote and Mescaline
 
-Peyote (Lophophora williamsii) is a small, spineless cactus native to the
-Chihuahuan Desert that contains the phenethylamine alkaloid mescaline as its
-primary psychoactive [[2c-t-7-compound-profile]]. Peyote has been used in ceremonial contexts by
-indigenous peoples of North America for thousands of years and remains central
-to the religious practices [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] Native American Church. Mescaline was the
-first classical psychedelic to be chemically identified and characterized.
+Peyote (*Lophophora williamsii*) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline, a potent naturally occurring psychedelic compound. Schultes's "Golden Guide to Hallucinogenic Plants" identifies peyote as "paramount among the hallucinogens of religious significance," noting its central role in indigenous American spiritual practices spanning thousands of years.
 
-## Botanical Background
+## The Cactus
 
-Peyote is a perennial cactus that grows in a limited range spanning southern
-Texas through central Mexico. It typically grows as a flattened, blue-green
-button-shaped crown above ground, with the majority [[allegro-colour-and-consistency-of-the-amanita-muscaria]] plant consisting
-of an extensive underground root system. The above-ground portion, known as
-the crown or button, contains the highest concentration of mescaline and
-related alkaloids.
+### Botanical Description
 
-The plant is extremely slow-growing, taking 5 to 10 years to reach maturity.
-Wild populations have been depleted by overharvesting, leading to conservation
-concerns. Peyote is legally protected in some jurisdictions, though
-harvesting for religious use by members [[allegro-names-of-the-gods-and-their-fertility-origins]] Native American Church is
-permitted under specific legal exemptions [[allegro-death-and-resurrection-in-the-mushroom-cult]] United States.
+- **Family**: Cactaceae.
+- **Species**: *Lophophora williamsii* (Lem. ex Salm-Dyck) J.M. Coult.
+- **Appearance**: Small, blue-green, spineless cactus growing partially underground. The above-ground portion (the "button") is a flattened, dome-shaped crown 2–5 cm in diameter.
+- **Root**: Large, carrot-like taproot extending well below the soil surface.
+- **Flowers**: Small pink or white flowers arising from the crown, typically appearing in spring.
+- **Habitat**: Chihuahuan Desert — rocky limestone soils, thorn scrub, and desert grassland in southern Texas (Rio Grande region) and throughout north-central Mexico.
+- **Growth rate**: Extremely slow in the wild; individual plants may be decades old. Cultivation under controlled conditions accelerates growth significantly.
 
-## Chemistry of Mescaline
+### Related Species ("False Peyotes")
 
-Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring
-phenethylamine alkaloid and one [[allegro-fertility-philosophy-of-the-ancient-near-east]] four principal classical psychedelics,
-alongside psilocybin, LSD, [[ayahuasca-additive-plants-and-dmt-synergy]]. It is structurally distinct from the
-[[tryptamine]] class of psychedelics, consisting of a phenethylamine backbone
-with three methoxy groups at the 3, 4, and 5 positions of the aromatic ring.
+Schultes documents several cacti that are used similarly to peyote or confused with it:
 
-The effective oral dose of mescaline is approximately 200 to 500 milligrams,
-which is relatively high compared to other classical psychedelics. The onset
-of effects occurs within one to two hours, peaks at three to five hours, and
-lasts eight to twelve hours. Mescaline is metabolized primarily through
-oxidative deamination by monoamine oxidase, with subsequent conjugation and
-renal excretion.
+- **Ariocarpus retusus** — "Star cactus" or "false peyote"; used by the Tarahumara of Mexico.
+- **Ariocarpus fissuratus** — "Living rock cactus"; contains some psychoactive alkaloids.
+- **Astrophytum asterias** — "Sea urchin cactus"; used as a peyote substitute in some regions.
+- **Epithelantha micromeris** — "Button cactus"; small cactus used ceremonially.
+- **Lophophora diffusa** — A related species found in central Mexico; contains lower mescaline levels.
 
-## Pharmacological Mechanism
+## Mescaline
 
-Mescaline acts primarily as a partial agonist at serotonin 5-HT2A receptors,
-the same receptor subtype that mediates the effects of other classical
-psychedelics. This shared mechanism of action underlies the phenomenological
-similarities between mescaline and other psychedelic compounds, including
-altered perception, synesthesia, enhanced pattern recognition, and changes
-in the sense of self and time.
+### Chemistry
 
-Mescaline also shows affinity for 5-HT2C, 5-HT1A, and alpha-1 adrenergic
-receptors, contributing to its distinct subjective profile. Users frequently
-report a greater emphasis on vivid visual hallucinations with mescaline
-compared to other psychedelics, along with a pronounced quality of emotional
-warmth and connectedness.
+- **Chemical name**: 3,4,5-trimethoxyphenethylamine.
+- **Classification**: Phenethylamine alkaloid.
+- **Structure**: A phenethylamine backbone with three methoxy groups at positions 3, 4, and 5 of the benzene ring.
+- **Isolation**: First isolated from peyote by Arthur Heffter in 1897. First synthesized by Ernst Späth in 1919.
+- **Dosage**: 200–500 mg produces a full psychedelic experience.
 
-## Indigenous Ceremonial Use
+### Pharmacology
 
-The ceremonial use of peyote in North America dates back at least 5,000 years,
-based on archaeological evidence including peyote buttons found in cave
-deposits in Texas. The modern Native American Church, formally incorporated
-in 1918, uses peyote as a sacrament in ceremonies that typically involve
-all-night prayer, singing, drumming, and the consumption of peyote buttons.
+- Mescaline acts primarily as a serotonin 5-HT2A receptor agonist, the same mechanism shared by LSD and psilocin.
+- Effects onset: 45–120 minutes after ingestion.
+- Duration: 8–12 hours (significantly longer than psilocybin).
+- Also has affinity for 5-HT2C and alpha-adrenergic receptors.
+- Metabolized by the liver; primarily excreted in urine.
 
-Peyote ceremonies are structured rituals conducted by experienced practitioners
-known as roadmen. The ceremony follows a well-defined sequence of prayers,
-songs, and communal activities designed to facilitate healing, spiritual
-guidance, and community bonding. Participants report that the peyote
-experience enhances emotional insight, promotes moral reflection, and
-strengthens social bonds.
+### Other Alkaloids in Peyote
 
-## Legal Status
+Peyote contains over 50 identified alkaloids beyond mescaline:
 
-In the United States, peyote is classified as a Schedule I controlled
-substance under the Controlled Substances Act. However, the American Indian
-Religious Freedom Act Amendments of 1994 specifically protect the use of
-peyote by members of the Native American Church for bona fide religious
-ceremonies. This exemption has been upheld by multiple court decisions.
+- **Pellotine** — A tetrahydroisoquinoline alkaloid with sedative properties.
+- **Anhalonine** and **Anhalonidine** — Related isoquinoline alkaloids.
+- **Lophophorine** — May contribute to the overall psychoactive profile.
+- **Hordenine** — A phenethylamine with mild stimulant effects.
 
-Mescaline itself is also a Schedule I substance, and its synthetic
-preparation and possession are prohibited outside of approved research
-contexts. Despite its Schedule I status, mescaline is not considered to have
-significant abuse potential, and physical dependence has not been documented.
+The full spectrum of alkaloids may contribute to the subjective experience differing from pure synthetic mescaline.
 
-## Clinical Research Interest
+## Indigenous Use
 
-There has been renewed scientific interest in mescaline in recent years as
-part of the broader renaissance in psychedelic research. However, clinical
-studies of mescaline have lagged behind those of psilocybin and MDMA,
-partly due to the longer duration of action and partly due to supply
-constraints. Contemporary research is exploring its potential applications
-in depression, anxiety, and substance use disorders, and modern studies are
-beginning to characterize its subjective effects using standardized
-measurement tools.
+### Historical Context
 
-## Comparison with Other Classical Psychedelics
+Archaeological evidence suggests peyote use dates back at least 5,000 years in North America:
 
-Mescaline occupies a distinctive position among classical psychedelics due to
-its phenethylamine structure, relatively high effective dose, and long
-duration of action. Compared to psilocybin (6-8 hours) and DMT (15-60 minutes
-when vaporized), mescaline's 8-12 hour duration makes it one of the longest-
-acting naturally occurring psychedelics. This extended duration has both
-advantages and disadvantages in therapeutic contexts.
+- **Radiocarbon dating** of peyote buttons found in archaeological sites on the Rio Grande confirms use spanning millennia.
+- **Rock art** and pictographs in the Lower Pecos region of Texas depict peyote and ceremonial scenes.
+- **Textile evidence** — Woven peyote symbols appear in pre-Columbian textiles from northern Mexico.
 
-The subjective quality of mescaline experiences is often described as more
-visual and less cognitive than psilocybin, with users reporting richly
-detailed hallucinations of geometric patterns, organic forms, and landscapes.
-The emotional tone is frequently characterized as warm and benevolent, with
-a strong sense of connection to nature and the natural world. These qualities
-have contributed to mescaline's enduring appeal in both indigenous ceremonial
-and modern recreational contexts.
+### Ceremonial Use
 
-## Pharmacokinetic Variability
+The peyote ceremony (as depicted in Schultes's guide, from a painting by Tsa Toke, a Kiowa artist) involves:
 
-The pharmacokinetics of mescaline show considerable interindividual
-variability, influenced by factors including body weight, metabolic rate,
-gastric pH, and genetic polymorphisms in metabolizing enzymes. This
-variability can make dose determination challenging, particularly in
-non-clinical settings. The compound is metabolized primarily by hepatic
-monoamine oxidase, with subsequent conjugation and renal excretion.
+- **Night-long ceremony** — Sessions begin after dark and continue until dawn.
+- **Central fire and crescent altar** — The ceremonial space is organized around a fire pit and a crescent-shaped earthen altar.
+- **Eagle feather fans** — Used to direct smoke and as ceremonial instruments; feathers symbolize morning prayers.
+- **Drumming and singing** — Peyote songs, passed down through generations, accompany the ceremony.
+- **Sequential consumption** — Participants consume peyote buttons in stages throughout the night.
 
-Food intake significantly affects absorption rates, with mescaline taken
-on an empty stomach typically producing more rapid and intense effects.
-The relatively high effective dose compared to other psychedelics means that
-dose-dependent adverse effects, including nausea, vomiting, and anxiety, are
-more common with mescaline than with more potent compounds.
+### The Native American Church
+
+The Native American Church (NAC), formally incorporated in 1918, is the institutional embodiment of peyote religion:
+
+- Combines Christian elements with traditional indigenous peyote practices.
+- Membership includes over 250,000 people from numerous tribes across the US and Canada.
+- Peyote is considered a sacrament — not a "drug" — used for healing, prayer, and guidance.
+- Protected under the American Indian Religious Freedom Act (1978, amended 1994), which explicitly exempts peyote use from controlled substance laws for NAC members.
+
+### Mexican Indigenous Use
+
+Several Mexican indigenous groups maintain pre-Columbian peyote traditions:
+
+- **Huichol (Wixárika)** — Annual pilgrimage to Wirikuta (the peyote homeland in San Luis Potosí) to harvest peyote. One of the most elaborate surviving peyote traditions.
+- **Tarahumara (Rarámuri)** — Use peyote in endurance running ceremonies and healing rituals.
+- **Coras** — Use peyote in ceremonial contexts similar to the Huichol.
+
+## Cultural Significance
+
+Schultes emphasizes that peyote is not merely a recreational intoxicant but a sacred plant embedded in a complex religious worldview:
+
+- **Mediator between worlds** — Peyote is believed to allow communication with ancestors, spirits, and divine forces.
+- **Healing** — Used to diagnose and treat physical, emotional, and spiritual illness.
+- **Moral teaching** — Peyote ceremonies reinforce community values, ethics, and social cohesion.
+- **Identity** — Peyote religion is a core element of cultural identity for participating tribes.
+
+## Modern Research
+
+Contemporary research has revisited mescaline and peyote for therapeutic potential:
+
+- **Neuroplasticity** — Like other psychedelics, mescaline promotes neural growth and connectivity.
+- **Addiction treatment** — The Native American Church has long used peyote to treat alcoholism; clinical research is beginning to investigate this application.
+- **End-of-life anxiety** — Preliminary studies suggest potential for reducing existential distress in terminal illness.
+- **Consciousness research** — Mescaline's long duration provides unique opportunities for studying psychedelic states.
+
+## Conservation Concerns
+
+Wild peyote populations face increasing pressure:
+
+- **Overharvesting** — Demand from the Native American Church and commercial collectors has depleted some populations.
+- **Habitat destruction** — Land development, mining, and agriculture in the Chihuahuan Desert reduce available habitat.
+- **Slow growth** — Wild peyote takes 5–15 years to reach maturity; populations cannot quickly recover from harvesting.
+- **Cultivation initiatives** — Conservation organizations and the NAC are developing sustainable cultivation programs to reduce wild harvesting pressure.
+
+## See Also
+
+- [[psilocybin-mushrooms]]
+- [[ayahuasca-and-banisteriopsis-caapi]]
+- [[datura-as-hallucinogen]]
+- [[fly-agaric-as-hallucinogen]]

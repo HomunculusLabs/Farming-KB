@@ -41,7 +41,7 @@ The PF Tek method, short for Psilocybe Fanaticus Technique, is the classic begin
 approach for growing [[psilocybe-cubensis]] and related species. It involves preparing
 jars filled with a substrate of brown rice flour and vermiculite, sterilizing them in
 a pressure cooker, inoculating them with spore syringes, and waiting for full
-colonization before introducing fruiting conditions. The [[psilocybin-mushroom-cultivation-basics]] documents how this method revolutionized home cultivation in
+colonization before introducing fruiting conditions. The [[mushroom-cultivation-fundamentals]] documents how this method revolutionized home cultivation in
 the 1990s and remains popular today. PF Tek requires only a pressure cooker, spore
 syringes, mason jars, and a simple fruiting chamber, making it an affordable first
 project for those willing to learn the fundamentals.

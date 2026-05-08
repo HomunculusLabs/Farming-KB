@@ -148,4 +148,3 @@ other plant nutrients and beneficial microorganisms.
   mineral-concentrating plants.
 - Phosphate and potassium accumulators covers other important mineral
   cycling plants.
-- Using accumulators in compost and mulch details practical methods

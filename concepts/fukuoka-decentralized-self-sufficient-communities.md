@@ -55,7 +55,7 @@ During his travels through America, Fukuoka observed that farmers who "plow fiel
 
 - Village-scale farming using [[fukuoka-rice-and-barley-natural-farming]] and [[fukuoka-natural-diet-food-philosophy]] produced better nutrition and greater resilience
 
-In Fukuoka's vision, a self-sufficient community would integrate [[fukuoka-natural-diet-principles]] with [[fukuoka-natural-farming-philosophy-of-mu]], creating a closed loop where food grown naturally is eaten locally, and crop residues return to the soil through [[fukuoka-straw-mulch-philosophy]] and [[fukuoka-white-clover-ground-cover]].
+In Fukuoka's vision, a self-sufficient community would integrate [[fukuoka-natural-farming-philosophy]] with [[fukuoka-natural-farming-philosophy-of-mu]], creating a closed loop where food grown naturally is eaten locally, and crop residues return to the soil through [[fukuoka-straw-mulch-philosophy]] and [[fukuoka-white-clover-ground-cover]].
 
 ## Independence from Industrial Systems
 
@@ -95,7 +95,7 @@ Fukuoka connected community self-sufficiency to broader questions of war and pea
 
 - [[fukuoka-ground-cover-strategy]]
 
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-critique-modern-agriculture]]
 

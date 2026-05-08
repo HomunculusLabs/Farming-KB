@@ -147,5 +147,3 @@ farming practice.
   invaluable cultural heritage.
 
 ## See Also
-
-- [[knf-imo-diversity-and-best-practices]]

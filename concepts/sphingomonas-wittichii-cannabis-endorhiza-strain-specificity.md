@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] is a bacterium within the Alphaproteobacteria that emerged as a significantly differentiating operational taxonomic unit (OTU) between Cannabis cultivars in the Winston et al. (2014) study of the cannabis microbiome.
+sphingomonas wittichii cannabis endorhiza strain specificity is a bacterium within the Alphaproteobacteria that emerged as a significantly differentiating operational taxonomic unit (OTU) between Cannabis cultivars in the Winston et al. (2014) study of the cannabis microbiome.
 
 This organism was found to be prevalent in the [[maui-wowie]] cultivar endorhiza but was notably absent or reduced in other cultivars. It represents one of the key taxa driving observed cultivar-specific differences in [[cannabis-endorhiza-microbiome]] microbial community structure.
 
@@ -36,17 +36,17 @@ Additionally, the unique membrane composition may confer increased resistance to
 
 Members of this genus are widely distributed in soil and aquatic environments and are renowned for their ability to degrade a variety of aromatic and recalcitrant organic compounds. The genus includes species capable of degrading polycyclic aromatic hydrocarbons, xenobiotics, and various plant-derived phenolic compounds.
 
-This catabolic versatility is relevant to understanding their role in the [[cannabis endorhiza]], where they encounter a complex mixture of root exudates and secondary metabolites. The ability to metabolize diverse aromatic compounds may provide Sphingomonas with a competitive advantage in this chemically complex environment.
+This catabolic versatility is relevant to understanding their role in the [[cannabis-endorhiza]], where they encounter a complex mixture of root exudates and secondary metabolites. The ability to metabolize diverse aromatic compounds may provide Sphingomonas with a competitive advantage in this chemically complex environment.
 
 ## Phenazine Metabolism and Ecological Significance
 
-[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] has been documented as capable of metabolizing [[phenazine-1-carboxylic acid]], a compound with broad-spectrum antimicrobial properties. Phenazines are secondary metabolites produced by certain bacteria, particularly [[pseudomonas]] species, that function as virulence factors, signaling molecules, and competitive weapons in microbial communities.
+sphingomonas wittichii cannabis endorhiza strain specificity has been documented as capable of metabolizing [[phenazine-1-carboxylic-acid]], a compound with broad-spectrum antimicrobial properties. Phenazines are secondary metabolites produced by certain bacteria, particularly [[pseudomonas]] species, that function as virulence factors, signaling molecules, and competitive weapons in microbial communities.
 
-The capacity to degrade these compounds could provide S. wittichii with a unique ecological niche within the endorhiza where phenazine-producing organisms are present. Within the [[core endorhiza community]], [[pseudomonas]] is a dominant member and known phenazine producer.
+The capacity to degrade these compounds could provide S. wittichii with a unique ecological niche within the endorhiza where phenazine-producing organisms are present. Within the [[core-endorhiza-community]], [[pseudomonas]] is a dominant member and known phenazine producer.
 
 If Pseudomonas within cannabis roots produces phenazines to suppress competitors, the presence of a phenazine-degrading organism like S. wittichii could serve as a natural buffer. This buffer would prevent excessive phenazine accumulation and maintain community balance within the root microbiome.
 
-This type of interaction suggests potential keystone dynamics where S. wittichii modulates inter-microbial competition within the root environment. The phenazine degradation capability also relates to broader concepts of [[microbial terroir]] in cannabis production systems.
+This type of interaction suggests potential keystone dynamics where S. wittichii modulates inter-microbial competition within the root environment. The phenazine degradation capability also relates to broader concepts of [[microbial-terroir]] in cannabis production systems.
 
 If specific combinations of cultivar genetics and associated microbial communities consistently produce distinctive chemical profiles, then organisms like S. wittichii that modulate the chemical landscape of the root become integral components of the terroir system.
 
@@ -62,7 +62,7 @@ However, the specific identification of S. wittichii as a differentiating taxon 
 
 ## Cultivar-Specific Prevalence in Cannabis
 
-In the Winston et al. study, when controlling for [[soil type]] and sample compartment, S. wittichii was identified as one of the most significant OTUs differentiating Cannabis strains. The fact that this organism differentiated between cultivars in the [[cannabis-endorhiza-microbiome]] but not in the rhizosphere or [[bulk soil]] compartments is consistent with the [[two-tier selection model]].
+In the Winston et al. study, when controlling for [[soil-type]] and sample compartment, S. wittichii was identified as one of the most significant OTUs differentiating Cannabis strains. The fact that this organism differentiated between cultivars in the [[cannabis-endorhiza-microbiome]] but not in the rhizosphere or [[bulk-soil]] compartments is consistent with the [[two-tier-selection-model]].
 
 Under this model, the first filtering step driven by soil and rhizodeposition creates a generalist pool of potential endophytes. The second step, driven by host genotype-dependent selection, fine-tunes the community within plant tissues.
 
@@ -70,7 +70,7 @@ S. wittichii appears to be a taxon that passes the first filter but is only sele
 
 ## Comparison With Methylophilus
 
-[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] can be compared with Methylophilus, another strain-differentiating taxon identified in the same study. While Methylophilus was the most dramatically different taxon between cultivars in the first experiment (13% in Bookoo Kush, 0.13% in Burmese, absent in Sour Diesel), S. wittichii was identified in the second experiment as differentiating between Maui Wowie and White Widow.
+sphingomonas wittichii cannabis endorhiza strain specificity can be compared with Methylophilus, another strain-differentiating taxon identified in the same study. While Methylophilus was the most dramatically different taxon between cultivars in the first experiment (13% in Bookoo Kush, 0.13% in Burmese, absent in Sour Diesel), S. wittichii was identified in the second experiment as differentiating between Maui Wowie and White Widow.
 
 Together, these two taxa demonstrate that strain-specific microbial associations are not limited to a single phylogenetic group or a single experiment. They represent a reproducible feature of cannabis microbiome assembly that operates across different experimental conditions and cultivar combinations.
 
@@ -80,7 +80,7 @@ Each cultivar appears to fine-tune its endorhiza community by selectively enrich
 
 ## Survival in Soil and Legacy Effects
 
-[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] has been implicated in increased survival in soil environments more broadly. As a soil-derived organism that colonizes the endorhiza, its persistence in the rhizosphere between plantings could influence subsequent colonization events.
+sphingomonas wittichii cannabis endorhiza strain specificity has been implicated in increased survival in soil environments more broadly. As a soil-derived organism that colonizes the endorhiza, its persistence in the rhizosphere between plantings could influence subsequent colonization events.
 
 This is particularly relevant for understanding how cultivar-specific microbial associations might be partially maintained across growing seasons through soil legacy effects. If a cultivar is grown repeatedly in the same location, its specific microbial associates could accumulate in the soil over time.
 
@@ -92,9 +92,9 @@ This soil legacy effect has practical implications for crop rotation and success
 
 ## Relationship to the Core Endorhiza Community
 
-The [[core endorhiza community]] of cannabis includes [[pseudomonas]], Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. S. wittichii was not part of this universal core but was a significant component of the Maui Wowie cultivar-specific community.
+The [[core-endorhiza-community]] of cannabis includes [[pseudomonas]], Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. S. wittichii was not part of this universal core but was a significant component of the Maui Wowie cultivar-specific community.
 
-This distinction between universal core taxa and cultivar-enriched taxa is fundamental to understanding how the [[two-tier selection model]] operates in practice. The core provides functional stability, while cultivar-specific additions may provide specialized functions optimized for particular genotypes.
+This distinction between universal core taxa and cultivar-enriched taxa is fundamental to understanding how the [[two-tier-selection-model]] operates in practice. The core provides functional stability, while cultivar-specific additions may provide specialized functions optimized for particular genotypes.
 
 ## Implications for Bioinoculant Development
 
@@ -115,9 +115,9 @@ Future work should include isolation and characterization of S. wittichii strain
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 
-- [[two-tier selection model]] for the broader framework
+- [[two-tier-selection-model]] for the broader framework
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[cannabis endorhiza microbiome]]
-- [[microbial terroir]] in agricultural systems
-- [[core endorhiza bacterial community composition in cannabis]]
+- [[cannabis-endorhiza-microbiome]]
+- [[microbial-terroir]] in agricultural systems
+- [[core-endorhiza-bacterial-community-composition-in-cannabis]]

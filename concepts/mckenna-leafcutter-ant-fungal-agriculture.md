@@ -13,9 +13,9 @@ type: concept
 
 ## Overview
 
-The relationship between leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one of nature's most remarkable examples of interspecies symbiosis — a fungal agriculture system that evolved millions of years ago in South America.
+The relationship between leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one [[fukuoka-science-destroyer-of-nature]]'s most remarkable examples of interspecies symbiosis — a fungal agriculture system that evolved millions of years ago [[neurotropic-fungi-in-south-america]]-mushrooms-species-south-america]].
 
-Terence McKenna used this relationship as a central analogy in *Food of the Gods* to illustrate how human-plant interactions, particularly with psychoactive mushrooms, may have functioned as a form of **behavioral symbiosis** that conferred adaptive advantages and catalyzed cultural evolution.
+[[terence-mckenna]] used this relationship as a central analogy in *Food of the Gods* to illustrate how human-[[endophytic-fungi-plant-interactions]], particularly with psychoactive mushrooms, may have functioned as a form of **behavioral symbiosis** that conferred adaptive advantages and catalyzed cultural evolution.
 
 ## The Leafcutter Ant System
 
@@ -148,5 +148,3 @@ Some exopheromones may act in ways that allow a small group of individuals to af
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-plants-and-primates-coevolution]]
-- [[mckenna-ur-plant-hypothesis]]
-- [[mckenna-food-of-the-gods-thesis]]

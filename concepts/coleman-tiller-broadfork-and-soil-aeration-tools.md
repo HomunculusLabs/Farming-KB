@@ -18,7 +18,7 @@ type: concept
 
 # The Tilther, Broadfork, and Greenhouse Soil Aeration Tools
 
-Soil preparation in the greenhouse requires different tools than field cultivation because of the confined space, frequent replanting, and need to avoid disturbing deeper soil layers. Eliot Coleman developed and refined a specific toolkit for greenhouse soil management that emphasizes shallow working, minimal disturbance, and efficiency.
+[[soil-preparation-organic-gardens]] in the greenhouse requires different tools than field cultivation because of the confined space, frequent replanting, and need to avoid disturbing deeper soil layers. Eliot Coleman developed and refined a specific toolkit for greenhouse soil management that emphasizes shallow working, minimal disturbance, and efficiency.
 
 ## The Problem with Traditional Tillage
 
@@ -55,7 +55,7 @@ The Tilther represents a philosophy of tool design: start from the specific need
 The decision to limit soil working to the top two inches reflects several interconnected insights:
 
 - Weed seeds deeper than two inches remain dormant and are not brought to the surface where light and moisture would trigger germination
-- Shallow working preserves the soil structure that has been built up in deeper layers
+- Shallow working preserves the [[soil-structure-and-aggregate-ecology]] that has been built up in deeper layers
 - Beneficial soil organisms and their networks in the deeper soil are not disrupted
 - The compost and amendments applied to the surface are mixed only into the zone where they are most effective
 - Soil moisture is conserved because deeper layers are not exposed to evaporation
@@ -115,7 +115,7 @@ Coleman's approach to tool development reflects several principles applicable to
 
 ## The Broom Lesson
 
-An illustrative story from Coleman's experience underscores the importance of tool innovation rooted in the user's actual needs. While demonstrating an "ideal planting hoe" to a community garden group, an older woman observed the demonstration, disappeared to the tool shed, and returned with an ancient broom with short, worn bristles. Holding it upside down, she used the wooden handle tip to make a neat furrow, dropped in bean seeds, then turned the broom right side up and deftly brushed soil over the seeds and firmed them with the worn bristles.
+An illustrative story from Coleman's experience underscores the importance of tool innovation rooted in the user's actual needs. While demonstrating an "ideal planting hoe" to a [[community-garden-design]] group, an older woman observed the demonstration, disappeared to the tool shed, and returned with an ancient broom with short, worn bristles. Holding it upside down, she used the wooden handle tip to make a neat furrow, dropped in bean seeds, then turned the broom right side up and deftly brushed soil over the seeds and firmed them with the worn bristles.
 
 This improvised tool was brilliant: it was inexpensive because it had been recycled, it performed multiple jobs (furrowing, covering, and firming) with no moving parts, it saved bending or kneeling since it could be used standing up, and the stiff bristles could also cultivate out small weeds. The lesson was that everyone who grows plants has a favorite tool, and given the ingenuity of gardeners, there is no end to the simple solutions for making almost any garden task easier. The best tools are born from intimate knowledge of the specific job, not from marketing catalogs.
 
@@ -129,7 +129,7 @@ The parallel to sports equipment is instructive. Enormous amounts of time, money
 
 ## Connection to Weed Management
 
-The two-inch depth principle of the Tilther directly supports the farm's weed management strategy (see [[coleman-weed-control]]). By working only the top two inches of soil, the Tilther ensures that the vast majority of the weed seed bank remains buried too deeply to germinate. This passive weed suppression complements the active weed control measures used in the greenhouse and represents a form of preventive weed management that requires no additional labor.
+The two-inch depth principle of the Tilther directly supports the farm's [[weed-management-strategies]] strategy (see [[coleman-weed-control]]). By working only the top two inches of soil, the Tilther ensures that the vast majority of the weed seed bank remains buried too deeply to germinate. This passive [[weed-suppression-strategies]] complements the active weed control measures used in the greenhouse and represents a form of preventive weed management that requires no additional labor.
 
 ## The Pinpoint Seeder Connection
 

@@ -81,10 +81,10 @@ MMDA's substitution pattern (3-methoxy-4,5-methylenedioxy) is one of three possi
 ## Comparison to Related Compounds
 
 - **MDMA** ([[mdma-compound-profile]]): N-methyl-MDA; dramatically different character — empathogenic, shorter duration, much more potent at lower doses
-- **MDA** ([[mda-compound-profile]]): Parent compound without the methoxy; more stimulant and empathogenic qualities
+- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): Parent compound without the methoxy; more stimulant and empathogenic qualities
 - **MMDA-2** ([[mmda-2-compound-profile]]): Different methoxy position (2-methoxy); more potent and more visual
 - **DMMDA** ([[dmmda-compound-profile]]): Additional methoxy at position 2; lower dose range (30-75 mg)
 - **TMA** ([[soma-vedic-history]]): All three positions as methoxy (no methylenedioxy); similar dose range, more stimulant character
 
-See also: [[mda-compound-profile]], [[mdma-compound-profile]], [[mmda-2-compound-profile]], [[dmmda-compound-profile]], [[soma-vedic-history]], [[phenethylamine-chemistry-basics]], [[synthetic-tryptamine-methods]]
+See also: [[ayahuasca-and-dmt-plant-medicine]], [[mdma-compound-profile]], [[mmda-2-compound-profile]], [[dmmda-compound-profile]], [[soma-vedic-history]], [[phenethylamine-chemistry-basics]], [[synthetic-tryptamine-methods]]
 - [[essential-amphetamines-and-natural-precursors]]

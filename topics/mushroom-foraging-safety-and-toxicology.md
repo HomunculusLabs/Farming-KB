@@ -573,7 +573,7 @@ the absence of symptoms is not a reason for complacency.
 ## See Also
 
 - [[mushroom-identification-basics]]
-- [[mushroom-identification-resources]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psilocybin-mushroom-identification]]
 - [[fungal-spore-print-guide]]
 - [[mushroom-foraging-safety]]

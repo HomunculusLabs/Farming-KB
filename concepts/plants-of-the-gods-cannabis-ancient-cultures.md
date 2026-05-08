@@ -128,4 +128,4 @@ World than the Old, even though cannabis dominates Old World usage.
 - [[cannabis-spiritual-ritual-use]] - spiritual practices
 - [[mckenna-cannabis-culture-history]] - McKenna's perspective
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey
-- [[hallucinogenic-plants-of-the-world]] - worldwide overview
+- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview

@@ -527,3 +527,6 @@ inoculum from a known-clean source before resuming work.
   of the Cultivated Mushroom. John Wiley and Sons, 1985.
 - Wuest, P.J. and Bengtson, G.D. Pennsylvania State University
   Mushroom Growers Handbook. Penn State, 1982.
+## Fairy Rings And Giant Mycelia
+
+# Fairy Rings and Giant Mycelia Fairy rings are visible circles of mushroom fruiting bodies caused by the radial expansion of a single underground mycelium. The phenomenon reveals the hidden scale and age of fungal organisms, from small lawn rings to the largest organisms on Earth. ## How Fairy Rings Form When food is plentiful, a mycelium tends to adopt a doughnut or torus shape, spreading outward from its point of origin while leaving an ever-widening circle of dead and dying cells at its core. This distinctive growth pattern is caused by programmed senescence — older hyphal compartments behind the extending tips eventually seal off as their septal pores are plugged. The active growing perimeter of the mycelium produces annual flushes of mushrooms, creating the visible ring (Money, 2002). ...

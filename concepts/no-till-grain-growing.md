@@ -111,7 +111,7 @@ Understanding when grain is ready:
 - [[grain-harvesting-and-storage]] — harvest and storage methods
 - [[fukuoka-seed-ball-technique]] — Fukuoka's seed ball method
 - [[pasture-management-and-forage]] — rotational land use
-- [[no-till-gardening-method]] — no-till principles in vegetable gardens
+- [[composting-and-soil-biology]] — no-till principles in vegetable gardens
 - [[fukuoka-natural-farming]] — Fukuoka's philosophy and methods
 - [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-vegetable-growing-natural-method]]

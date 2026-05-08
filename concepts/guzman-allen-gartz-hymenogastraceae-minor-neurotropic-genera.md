@@ -148,4 +148,3 @@ The minor neurotropic genera require substantially more research attention.
 Chemical verification of reported species, proper taxonomic identification,
 and expanded field surveys should be priorities. The discovery of additional
 neurotropic species could significantly increase the known diversity, which
-currently stands at 216 species worldwide.

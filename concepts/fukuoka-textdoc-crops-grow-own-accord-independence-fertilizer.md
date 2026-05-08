@@ -147,7 +147,3 @@ Fukuoka's natural farming takes the opposite stance: if a problem arises, one re
 [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 
 ## See Also
-
-- [[vigna-radiata]]
-
-- [[psophocarpus-tetragonolobus]]

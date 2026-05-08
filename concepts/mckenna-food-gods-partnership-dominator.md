@@ -106,7 +106,7 @@ McKenna was careful to distinguish this proposal from naive nostalgia. He did no
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-food-gods-archaic-revival]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[entheogenic-symbiosis-and-gaian-mind]]
+- [[ethnomycology]]
 - [[mckenna-food-gods-tassili-cave-paintings]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
 - [[mckenna-food-gods-fall-consciousness]]

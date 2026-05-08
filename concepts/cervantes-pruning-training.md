@@ -133,15 +133,15 @@ Unlike topping or super cropping, LST causes minimal stress and the plant contin
 
 - [[cervantes-root-pruning-rootbound-management]]
 
-- [[cervantes-flushing-pre-harvest]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-grow-room-design-advanced]]
 - [[cervantes-light-spectrum-photomorphogenesis]]
-- [[cervantes-plant-stress-recovery]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-seed-production-storage]]
 - [[cervantes-tissue-culture-micropropagation]]
-- [[cervantes-transplanting-potting-up]]
-- [[cervantes-trichome-resin-production]]
-- [[cervantes-water-culture-systems]] Topics
+- [[cannabis-advanced-growing-techniques]]
+- [[cannabis-advanced-growing-techniques]]
+- [[cannabis-advanced-growing-techniques]] Topics
 - [[cervantes-cloning]] — Mother plant management for SOG
 - [[cervantes-lighting-systems]] — Light efficiency and training
 - [[cervantes-flowering-phase]] — Training effects on flowering

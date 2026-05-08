@@ -135,53 +135,6 @@ The most studied ginkgo preparation is **EGb 761** (Tebonin/Tanakan), manufactur
 
 ### Cerebral Circulation
 
-- Vasodilatory effect on cerebral arteries
-- Improves cerebral blood flow, particularly in ischemic conditions
-- Reduces blood viscosity and inhibits platelet-activating factor (PAF)
-- Enhances oxygen and glucose delivery to brain tissue
-
-### Antioxidant Activity
-
-- Scavenges reactive oxygen species (ROS) and reactive nitrogen species (RNS)
-- Inhibits lipid peroxidation in neuronal membranes
-- Protects mitochondrial function against oxidative damage
-- Upregulates endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase)
-
-### Neuroprotection
-
-- Protects neurons against amyloid-beta-induced toxicity
-- Reduces excitotoxic neuronal death via NMDA receptor modulation
-- Enhances cholinergic neurotransmission (relevant to Alzheimer's pathology)
-- Promotes neurogenesis in the hippocampus
-
-### Anti-inflammatory
-
-- Inhibits NF-κB signaling pathway
-- Reduces pro-inflammatory cytokine production (TNF-α, IL-1β, IL-6)
-- Suppresses inducible nitric oxide synthase (iNOS) expression
-
-## Safety and Contraindications
-
-### Generally Well-Tolerated
-
-Most adverse effects are mild:
-
-- Headache, dizziness, gastrointestinal discomfort
-- Allergic skin reactions (primarily to ginkgolic acid impurities)
-
-### Drug Interactions
-
-- **Anticoagulants/antiplatelets:** Ginkgo inhibits PAF and may increase bleeding risk; caution with warfarin, aspirin, clopidogrel
-- **Seizure threshold:** May lower seizure threshold; caution in patients with epilepsy
-- **Cytochrome P450:** Minimal CYP interactions at standard doses
-
-### Contraindications
-
-- Known bleeding disorders
-- Concurrent anticoagulant therapy (without medical supervision)
-- Epilepsy or seizure disorders
-- Pregnancy and breastfeeding (insufficient safety data)
-
 ## See Also
 
 - [[permaculture-plant-catalog]]
@@ -192,5 +145,5 @@ Most adverse effects are mild:
 - flavonoids — Polyphenolic antioxidant compounds
 - platelet activating factor — Target of ginkgolide antagonism
 - cognitive enhancers — Category of nootropic compounds
-- [[ginkgo-biloba]] — Other species with deep evolutionary lineages
+- ginkgo biloba — Other species with deep evolutionary lineages
 - egb 761 — Standardized ginkgo extract

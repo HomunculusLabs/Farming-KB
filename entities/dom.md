@@ -29,7 +29,7 @@ alpha-methyl group on the ethylamine side chain. This alpha-methyl substitution 
 phenethylamine to an amphetamine, conferring dramatically increased metabolic stability, potency, and duration by
 protecting the molecule from rapid oxidative deamination by MAO enzymes. DOM is typically encountered as a white powder
 or in tablet form. The effective oral dose is remarkably low at 3–10 mg, making it approximately 20–40 times more
-potent than [[mescaline]] by weight. Duration extends to 14–20 hours or longer at higher doses.
+potent than [[mescaline-entity]] by weight. Duration extends to 14–20 hours or longer at higher doses.
 
 ## Pharmacology
 
@@ -118,7 +118,7 @@ Related: [[psychedelic-drug-testing-and-adulterant-screening]]
 - [[theobromine]]
 - [[gymnema-sylvestre]]
 - [[arthrospira-platensis]]
-- [[mendo-breath]]
+- [[mendo-breath-entity]]
 - [[agrimonia-eupatoria]]
 - [[monarda-didyma]]
 - [[nasturtium-officinale]]

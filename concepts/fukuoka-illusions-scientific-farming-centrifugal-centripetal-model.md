@@ -132,5 +132,5 @@ This observation encapsulates his entire philosophy: left alone, nature achieves
 - [[fukuoka-illusions-of-scientific-farming]] - Direct treatment from the source
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]] - The geometric model
 - [[fukuoka-energy-productivity-and-the-mechanization-trap]] - Energy efficiency analysis
-- [[four-principles-of-natural-farming-fukuoka]] - No tillage, no fertilizer, no pesticides, no weeding
+- [[fukuoka-natural-farming-philosophy]] - No tillage, no fertilizer, no pesticides, no weeding
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]] - The chain-of-causation critique

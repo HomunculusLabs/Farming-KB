@@ -14,7 +14,7 @@ Section Zapotecorum of the genus Psilocybe represents one of the most
 biogeographically significant groups of neurotropic fungi, with a
 distribution spanning from Mesoamerica through South America to the
 Pacific Islands, including a remarkable trans-Pacific disjunction between
-the Americas and New Zealand. According to [[Guzmán, Allen & Gartz (1998)]],
+the Americas and New Zealand. According to [[guzmán,-allen-&-gartz-(1998)]],
 this section bridges the mycobiotas of Mexico as a Northern and Southern Mycobiotic Convergence Zone and the Southern Hemisphere Origin Hypothesis for Neurotropic Fungi.
 
 ## Species Composition
@@ -140,6 +140,6 @@ hypotheses:
 
 - Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 - Mexico as a Northern and Southern Mycobiotic Convergence Zone
-- [[Four Groups of Neurotropic Fungi: Global Distribution]]
+- [[four-groups-of-neurotropic-fungi:-global-distribution]]
 - Psilocybe semilanceata Worldwide Temperate Distribution
-- [[Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi]]
+- [[psilocybe-aztecorum-section-aztecorum:-alpine-neurotropic-fungi]]

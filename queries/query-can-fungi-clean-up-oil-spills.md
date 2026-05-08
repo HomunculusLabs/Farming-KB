@@ -76,7 +76,7 @@ acknowledged. It works best in moderate climates with adequate moisture and orga
 matter. Extreme pH, temperature, or contaminant concentrations can inhibit fungal
 activity and limit treatment effectiveness. Treatment timelines are longer than
 physical removal methods like excavation, often requiring months to years for complete
-remediation. The [[mycoremediation-advantages-limitations]] page provides a balanced
+remediation. The [[bioremediation-using-fungi]] page provides a balanced
 assessment of when mycoremediation is and is not appropriate. The [[bioremediation-scale-up]] guide addresses the engineering challenges of moving from laboratory
 results to field-scale deployment.
 

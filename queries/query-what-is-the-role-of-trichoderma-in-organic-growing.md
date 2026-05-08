@@ -50,7 +50,7 @@ available for plant uptake. Some strains produce indole-3-acetic acid (IAA),
 a plant hormone similar to auxin that stimulates root elongation and
 branching. The presence of Trichoderma in the rhizosphere can increase root
 biomass by 30 to 50 percent, which translates directly to improved nutrient
-and water uptake. This is especially valuable in [[cannabis-living-soil-guide|living soil]] systems and [[no-till-gardening-method|no-till]] gardens where building robust
+and water uptake. This is especially valuable in [[cannabis-living-soil-guide|living soil]] systems and [[composting-and-soil-biology|no-till]] gardens where building robust
 root networks is a priority for long-term plant health and yield potential.
 
 Trichoderma also primes the plant immune system through a phenomenon called

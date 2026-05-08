@@ -99,7 +99,7 @@ The presence of easily metabolizable carbon sources can repress the ligninolytic
 
 Balancing fungal growth requirements with cometabolic enzyme induction requires careful management of nutrient conditions in bioremediation systems.
 
-The addition of surfactants, as described in [[biosurfactants-in-bioremediation]], can enhance cometabolic degradation of hydrophobic pollutants by increasing their bioavailability to fungal enzymes.
+The addition of surfactants, as described in [[bioremediation-using-fungi]], can enhance cometabolic degradation of hydrophobic pollutants by increasing their bioavailability to fungal enzymes.
 
 Mediator compounds such as ABTS, HBT, and violuric acid can extend the substrate range of laccase, enabling cometabolic oxidation of recalcitrant compounds that are not directly oxidized by the enzyme.
 

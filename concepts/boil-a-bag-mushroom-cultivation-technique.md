@@ -135,4 +135,4 @@ substrates readily.
 - substrate
 - [[jarrold-boil-a-bag-mushroom-cultivation-method]]
 - [[sterile-technique-mushroom-cultivation]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]

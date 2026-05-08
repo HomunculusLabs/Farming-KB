@@ -124,7 +124,7 @@ might emerge from the American heartland.
 - [[fukuoka-natural-upland-rice-minor-grains]]
 
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-no-till-rice-barley-succession]]
+- [[no-till-rice-barley-succession]]
 - [[fukuoka-straw-mulch-system]]
 - [[fukuoka-critique-organic-farming-ecology]]
 - [[fukuoka-natural-farming-in-arid-regions]]

@@ -148,4 +148,3 @@ relying on pistil coloration alone.
 - [[cannabis-photoperiod-flowering-cycle]]
 - [[cannabis-photoperiodism-and-light-cycles]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]
-- [[harvesting-and-storage]]

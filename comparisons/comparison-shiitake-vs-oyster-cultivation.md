@@ -148,7 +148,3 @@ regardless of seasonal limitations.
 - [[comparison-oyster-vs-shiitake-cultivation]]
 
 - [[shiitake-cultivation-guide]]
-- [[cotter-oyster-mushroom-cultivation]]
-- [[oyster-mushroom-coffee-grounds-cultivation]]
-- [[shiitake-mushroom-cultivation]]
-- [[growing-gourmet-pink-oyster-djamor-cultivation]]

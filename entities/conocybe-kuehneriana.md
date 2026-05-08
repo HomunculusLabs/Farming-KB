@@ -11,7 +11,7 @@ sources:
 
 # Conocybe kuehneriana
 
-A small, inconspicuous grassland mushroom in the family Bolbitiaceae reported to contain [[psilocybin]] and [[psilocin]].
+A small, inconspicuous grassland mushroom in the family Bolbitiaceae reported to contain [[psilocybin-compound]] and [[psilocin]].
 
 One of several psychoactive species within the genus Conocybe, a group often overlooked by mushroom foragers due to the small stature and fragile nature of its members.
 
@@ -115,7 +115,7 @@ Confirmed to contain psychoactive indole alkaloids, though analytical data in pu
 
 Reported constituents:
 
-- **[[psilocybin]]** — Present in detectable quantities, estimated at 0.02-0.1% dry weight
+- **[[psilocybin-compound]]** — Present in detectable quantities, estimated at 0.02-0.1% dry weight
 - **[[psilocin]]** — Present in trace amounts
 
 Concentrations generally lower than those found in [[psilocybe-cubensis]] or [[psilocybe-semilanceata]].

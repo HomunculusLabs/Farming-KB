@@ -139,8 +139,8 @@ magnitude.
 
 - [[russula-xerampelina]]
 - [[russula-emetica]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]
 - [[lactarius-deliciosus]]
 - [[amanita-muscaria]]
 - [[agaricus-bisporus]]

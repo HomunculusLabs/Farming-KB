@@ -147,5 +147,3 @@ batch with the plant source and date of preparation for quality
 ## See Also
 
 - [[bionutrients-lab-fermented-plant-juice-fpj]]
-
-- [[jadam-fermented-plant-juice-preparation]]

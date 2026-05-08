@@ -132,7 +132,7 @@ A comprehensive index of species mentioned in Permaculture Two (1979) with their
 
 ## Related
 
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-designers-manual-windbreak-species]]
 - [[permaculture-designers-manual-windbreak-species]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

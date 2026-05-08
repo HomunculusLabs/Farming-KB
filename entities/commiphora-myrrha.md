@@ -148,4 +148,3 @@ yellowish-brown tears over 2–3 weeks. Average yields are
 - [[cinnamomum-cassia]]
 - [[myristica-fragrans]]
 - [[punica-granatum]]
-- [[ocimum-sanctum]]

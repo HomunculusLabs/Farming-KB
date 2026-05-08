@@ -112,12 +112,12 @@ Exidia species have demonstrated anti-inflammatory effects in vitro.
 
 The species also produces melanin pigments contributing to its dark coloration
 and potential UV protection. Research into E. glandulosa bioactive compounds
-remains limited compared to commercially significant species like [[tremella- fuciformis]] and [[auricularia-auricula-judae]].
+remains limited compared to commercially significant species like [[tremella--fuciformis]] and [[auricularia-auricula-judae]].
 
 ## See Also
 
 - [[auricularia-auricula-judae]]
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 - [[tremella-mesenterica]]
 - [[lentinula-edodes]]
 - [[trametes-versicolor]]

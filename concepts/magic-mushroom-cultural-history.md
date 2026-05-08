@@ -28,7 +28,7 @@ The use of psychoactive mushrooms in Mesoamerica dates back thousands of years:
 R. Gordon Wasson, a vice president of J.P. Morgan and amateur mycologist, and his wife Valentina Pavlovna, became fascinated by the cultural dichotomy between mushroom-loving and mushroom-fearing peoples:
 
 - Their ethnomycological research across cultures led them to Mexico
-- On June 29-30, 1955, Wasson became the first known Westerner to participate in a Mazatec velada (night mushroom ceremony), guided by curandera [[maria-sabina-mazatec-mushroom-ceremony]] in Huautla de Jimenez, Oaxaca
+- On June 29-30, 1955, Wasson became the first known Westerner to participate in a Mazatec velada (night mushroom ceremony), guided by curandera [[mushroom-cultivation-fundamentals]] in Huautla de Jimenez, Oaxaca
 - Wasson's article "Seeking the Magic Mushroom" was published in LIFE Magazine on May 13, 1957 -- bringing psilocybin mushrooms to global attention
 - Wasson and Wasson (1957) and subsequent works with Roger Heim identified the mushrooms as species of Psilocybe
 

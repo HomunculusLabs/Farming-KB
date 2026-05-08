@@ -95,5 +95,5 @@ Permaculture emerged from Tasmania because it is a place where modernity and nat
 See also: [[urban-permaculture-edge-effect-and-design-principles]], [[permaculture-principles]], [[permaculture-fire-management]],,, [[holmgren-permaculture-diversity-principle]]
 - [[urban-permaculture-food-forest-succession]]
 - [[holmgren-edge-theory-and-urban-rural-fringe]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
-- [[permaculture-principle-use-edges-and-value-the-marginal]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]

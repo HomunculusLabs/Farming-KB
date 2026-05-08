@@ -53,7 +53,7 @@ An important insight from this principle is that change at different scales has 
 
 ## Connections
 
-This principle connects to [[permaculture-principle-observe-and-interact]] (observation reveals patterns), [[permaculture-principle-use-small-and-slow-solutions]] (cellular design at appropriate scale), [[permaculture-principle-use-edges-and-value-the-marginal]] (edge is a pattern of exchange), and herb spiral design (spiral pattern applied in garden design). See also [[permaculture-principles]], [[permaculture-zones-and-sectors]], and [[patterns-in-nature]].
+This principle connects to [[permaculture-design-principles]] (observation reveals patterns), [[permaculture-design-principles]] (cellular design at appropriate scale), [[permaculture-design-principles]] (edge is a pattern of exchange), and herb spiral design (spiral pattern applied in garden design). See also [[permaculture-principles]], [[permaculture-zones-and-sectors]], and [[patterns-in-nature]].
 
 ## Applied Notes
 

@@ -11,7 +11,7 @@ sources:
 
 # Fermented Dairy and Cultured Milk Products
 
-Fermented dairy products are among the oldest processed foods in human history, dating back at least 10,000 years to the domestication of ruminants in the Fertile Crescent. By harnessing lactic acid bacteria (LAB) and other microorganisms, milk is transformed into a staggering variety of products with extended shelf life, improved digestibility, enhanced nutritional profiles, and complex flavors. Today, cultured dairy spans from everyday staples like yogurt and kefir to regional specialties like Icelandic skyr, Finnish viili, and Georgian matsoni.
+Fermented dairy products are among the oldest processed foods in human history, dating back at least 10,000 years to the domestication of ruminants in the Fertile Crescent. By harnessing [[lactic-acid-bacteria]] bacteria (LAB) and other microorganisms, milk is transformed into a staggering variety of products with extended shelf life, improved digestibility, enhanced nutritional profiles, and complex flavors. Today, cultured dairy spans from everyday staples like yogurt and kefir to regional specialties like Icelandic skyr, Finnish viili, and Georgian matsoni.
 
 ## The Science of Milk Fermentation
 
@@ -27,7 +27,7 @@ The primary drivers of dairy fermentation are lactic acid bacteria, a diverse gr
 
 ### Homolactic vs. Heterolactic Fermentation
 
-LAB follow two primary metabolic pathways:
+LAB follow two [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways:
 
 **Homolactic fermentation** (Embden–Meyerhof pathway) converts nearly all glucose to lactic acid:
 
@@ -79,7 +79,7 @@ Kefir is a complex, self-carbonating fermented milk produced using kefir grains 
 **Kefir grain microbiome (30–50+ species):**
 
 - **Bacteria:** *Lactobacillus kefiranofaciens*, *L. kefiri*, *L. parakefiri*, *L. acidophilus*, *Lactococcus lactis*, *Leuconostoc mesenteroides*, *Streptococcus thermophilus*, *Acetobacter* spp.
-- **Yeasts:** *Kluyveromyces marxianus*, *Saccharomyces cerevisiae*, *Torulaspora delbrueckii*
+- **Yeasts:** *Kluyveromyces marxianus*, *[[saccharomyces-cerevisiae]]*, *Torulaspora delbrueckii*
 
 This diversity produces ethanol (typically 0.5–2.0% ABV), CO₂ (effervescence), lactic acid, acetic acid, and a range of aromatic compounds. The result is a tangy, slightly fizzy, thinner-than-yogurt beverage with a flavor profile far more complex than yogurt.
 
@@ -99,11 +99,11 @@ This diversity produces ethanol (typically 0.5–2.0% ABV), CO₂ (effervescence
 
 ### Cheese Cultures
 
-Cheese making begins with the same LAB as other fermented dairy but diverges through curd formation, cutting, cooking, pressing, and aging. Key culture categories:
+[[cheese-making-basics]] begins with the same LAB as other fermented dairy but diverges through curd formation, cutting, cooking, pressing, and aging. Key culture categories:
 
 - **Mesophilic starters** (optimal 20–30°C): *Lactococcus lactis* subsp. *lactis* and *cremoris*. Used for cheddar, Gouda, brie, camembert, feta.
 - **Thermophilic starters** (optimal 40–45°C): *S. thermophilus*, *L. delbrueckii* subsp. *bulgaricus* and *lactis*. Used for Swiss, Parmesan, mozzarella, Gruyère.
-- **Secondary/adjunct cultures:** *Penicillium roqueforti* (blue cheese), *P. camemberti* (bloomy rinds), *Propionibacterium freudenreichii* (Swiss eyes/CO₂), *Brevibacterium linens* (washed rinds like Limburger).
+- **Secondary/adjunct cultures:** *Penicillium roqueforti* ([[blue-cheese]]), *P. camemberti* (bloomy rinds), *Propionibacterium freudenreichii* (Swiss eyes/CO₂), *Brevibacterium linens* (washed rinds like Limburger).
 - **Starter culture formats:** DVI (direct vat inoculation) freeze-dried packets; mother cultures bulk-prepared from DVI; heirloom/undefined cultures maintained through serial propagation.
 
 ### Regional Cultured Milk Traditions
@@ -137,7 +137,7 @@ This makes most fermented dairy tolerable for individuals with lactose malabsorp
 
 The probiotic potential of fermented dairy depends on strain survival through the gastrointestinal tract. Key factors:
 
-- **Strain selection:** *L. acidophilus*, *L. rhamnosus* GG, *Bifidobacterium animalis* subsp. *lactis* BB-12 are among the most studied probiotic strains.
+- **[[strain-selection-development]]:** *L. acidophilus*, *L. rhamnosus* GG, *Bifidobacterium animalis* subsp. *lactis* BB-12 are among the most studied probiotic strains.
 - **Dose:** Effective probiotic doses are typically 10⁶–10⁹ CFU per serving. Kefir routinely achieves 10⁷–10⁹ CFU/mL due to its diverse microbiome.
 - **Survival:** Fat content, acidity, and food matrix protect bacteria during gastric transit. Milk fat and protein buffer stomach acid.
 - **Bioactive peptides:** Fermentation releases casein-derived peptides with ACE-inhibitory (antihypertensive), antimicrobial, immunomodulatory, and antioxidant properties.
@@ -163,7 +163,7 @@ Fermentation enhances several micronutrients:
 
 ### Milk Selection
 
-Raw milk produces the most complex flavors but carries food safety considerations. Pasteurized (not ultra-pasteurized/UHT) whole milk gives the best results for most products — UHT milk has denatured proteins that may not set properly. Goat and sheep milk work well and produce slightly different flavor profiles (goat: tangy, "barny"; sheep: rich, sweet).
+[[raw-milk-guide]] produces the most complex flavors but carries food safety considerations. Pasteurized (not ultra-pasteurized/UHT) whole milk gives the best results for most products — UHT milk has denatured proteins that may not set properly. Goat and sheep milk work well and produce slightly different flavor profiles (goat: tangy, "barny"; sheep: rich, sweet).
 
 ### Basic Yogurt Recipe
 
@@ -215,7 +215,7 @@ Dairy goats and cows are the most common homestead milk sources. A single dairy 
 
 ### Waste Stream Integration
 
-- **Whey** (the liquid byproduct of cheese and strained yogurt making) is rich in protein, lactose, and minerals. It can be: fed to pigs and poultry (excellent protein supplement), used to water plants (diluted 1:5), added to compost to stimulate microbial activity, or fermented further into whey-based beverages.
+- **Whey** (the liquid byproduct of cheese and strained yogurt making) is rich in protein, lactose, and minerals. It can be: fed to pigs and poultry (excellent protein supplement), used to [[water-plants-aquatic-systems]] (diluted 1:5), added to compost to stimulate microbial activity, or fermented further into whey-based beverages.
 - **Sour milk** past its drinking prime is perfect for baking (pancakes, waffles, biscuits), cheese making (paneer, ricotta), or as a culture medium for other fermentations.
 
 ### Seasonal Considerations

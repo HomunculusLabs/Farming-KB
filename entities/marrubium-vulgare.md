@@ -128,11 +128,11 @@ The species also has value as a **trap crop** for certain insect pests, drawing 
 - [[tanacetum-vulgare]]
 - [[foeniculum-vulgare-entity]]
 - [[auriscalpium-vulgare]]
-- [[origanum-vulgare]]
+- [[origanum-vulgare-entity]]
 
 - [[mentha-spicata]]
 - [[thymus-vulgaris-entity]]
-- [[origanum-vulgare]]
+- [[origanum-vulgare-entity]]
 - [[salvia-officinalis]]
 - [[glycyrrhiza-glabra]]
 - [[plantago-major]]

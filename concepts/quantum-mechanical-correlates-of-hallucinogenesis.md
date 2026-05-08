@@ -14,24 +14,24 @@ sources: [raw/papers/psilocybin-synthesis-shirota.md]
     10|# Quantum Mechanical Correlates of Hallucinogenesis 11|
     12|The relationship between molecular structure and hallucinogenic activity
     13|reveals an intriguing connection between quantum mechanical phenomena and
-    14|conscious experience. Terence McKenna, drawing on work by John Smythies,
+    14|conscious experience. [[terence-mckenna]], drawing on work by John Smythies,
     15|Alexander Shulgin, and others, argued that hallucinogenesis operates at the
     16|quantum mechanical level, where minute structural changes in molecules produce
     17|dramatically different experiential outcomes. This framework, while
     18|speculative, challenges purely reductive pharmacological models and suggests
     19|that the study of hallucinogenic compounds may illuminate the quantum
-    20|foundations of consciousness itself. 21|
-    22|## Structure-Activity Relationships at the Atomic Level 23|
+    20|foundations [[william-james-multiple-forms-of-consciousness]] itself. 21|
+    22|## [[md-family-structure-activity]] Relationships at the Atomic Level 23|
     24|The core observation is deceptively simple: if one atom on the molecular ring
     25|of an inactive compound is moved, the compound becomes highly active as a
     26|hallucinogen. This extreme sensitivity to molecular geometry at the subatomic
     27|scale suggests what McKenna calls "a perfect proof of the dynamic linkage at
     28|the formative level between quantum mechanically described matter and mind."
     29|The implication is that consciousness itself may be fundamentally quantum
-    30|mechanical in nature, and that hallucinogenic compounds work by perturbing
+    30|mechanical [[pdc-patterns-in-nature]], and that hallucinogenic compounds work by perturbing
     31|quantum-level processes in the brain. 32|
     33|This stands in contrast to purely pharmacological explanations that focus on
-    34|receptor binding affinities and neurotransmitter system modulation. While
+    34|[[beta-glucan-receptor-binding]] affinities and neurotransmitter system modulation. While
     35|those models are not wrong, they operate at a higher level of description
     36|that may miss the fundamental mechanism by which molecular structure translates
     37|into experiential content. The quantum perspective suggests that the

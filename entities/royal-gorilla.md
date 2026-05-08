@@ -132,8 +132,8 @@ Anecdotal reports and limited clinical evidence suggest efficacy for:
 
 ## See Also
 
-- [[chemdawg-entity]] — Ancestor strain contributing fuel terpene profile
+- [[chemdawg-cannabis]] — Ancestor strain contributing fuel terpene profile
 - [[sour-diesel]] — Related lineage through Sour Dubb parent
 - [[gorilla-glue]] — Name-sharing hybrid with overlapping Chemdawg lineage
 - [[girl-scout-cookies]] — Contemporary high-resin award-winning hybrid
-- [[jack-herer-entity]] — Benchmark for balanced hybrid comparison
+- [[jack-herer]] — Benchmark for balanced hybrid comparison

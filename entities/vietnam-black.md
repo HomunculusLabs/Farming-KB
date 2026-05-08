@@ -1,5 +1,5 @@
 ---
-title: "Vietnam Black"
+title: "vietnam black"
 created: 2026-04-28
 type: strain
 tags:
@@ -22,15 +22,14 @@ sources:
   - De Meijer, E.P.M. et al. (2003). "The inheritance of chemical phenotype
     in Cannabis sativa L." Genetics.
 ---
-
 # Vietnam Black
 
-**Vietnam Black** is a rare pure sativa cannabis strain originating from
+**Vietnam Black** is a rare pure sativa [[cannabis-strain-guide-reference]] originating from
 Southeast Asia, specifically the highland regions of Vietnam, Laos, and
 Cambodia. Known among cannabis connoisseurs as one of the most potent and
 cerebrally intense landrace-influenced sativas available, Vietnam Black
 produces deeply psychedelic, mind-expanding effects alongside a uniquely
-complex earthy-spice terpene profile. Its genetic lineage places it among
+cterpene-profile-chemotaxonomypice terpene profile. Its genetic lineage places it among
 the most historically significant Asian sativa landraces, with connections
 to the cannabis traditions of the Golden Triangle and Vietnamese hill
 tribe communities.
@@ -43,7 +42,7 @@ tribe communities.
 - **Breeder:** Landrace — naturally selected over centuries by indigenous
   hill tribe cultivators in the Annamite Range
 - **Genetic stability:** Moderate — significant phenotypic variation
-  within populations due to landrace genetics
+  within [[southeast-asian-mushroom-tourism-bali]] to landrace genetics
 
 Southeast Asian cannabis has a deep cultural history. Vietnamese landraces
 were used traditionally in folk medicine, spiritual ceremonies, and hemp
@@ -148,12 +147,3 @@ users.
 - Insomnia if consumed late in the day
 - Dry mouth and dry eyes
 - Mild tachycardia
-- Potential for depersonalization in susceptible individuals
-
-## See Also
-
-- [[permplant-black-locust-nitrogen-fixing-timber]]
-- [[black-soldier-fly-larvae-as-feed]]
-- [[fukuoka-black-wattle-fertilizer-tree-method]]
-- [[sooty-molds-black-mildews-tropical-foliar-fungi]]
-- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]

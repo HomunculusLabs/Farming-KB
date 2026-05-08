@@ -137,9 +137,9 @@ horticultural suppliers.
 
 - [[cervantes-compost-tea-organic-brewing]] - brewing teas with
   beneficial organisms
-- [[cervantes-organic-growing]] - organic cultivation methods
+- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-organic-amendments-chart]] - inputs for soil biology
 - [[cervantes-rooting-hormones-cloning]] - root development aids
-- [[cervantes-water-quality-management]] - water quality affects
+- [[cannabis-advanced-growing-techniques]] - water quality affects
   beneficial organisms
 - [[trichoderma]]

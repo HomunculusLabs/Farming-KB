@@ -140,23 +140,6 @@ fungi.
 Spore formation is not restricted to submerged locations. Ingoldians also grow
 on plants that overhang creeks, entering the water during rainstorms. This
 mermaid-like life cycle explains their appearance on riparian vegetation.
-
-A distinct but related group, the aero-aquatics, specialize in leaf
-decomposition in stagnant water and produce ornate barrel-shaped and cage-
-shaped conidia that trap air bubbles. Barrel shapes are constructed by hyphae
-growing in tight helical paths, while cages form from repeated branching and
-aggregation. The trapped air bubbles provide buoyancy, lifting spores to the
-water surface for dispersal.
-
-## Henry Descals and Ongoing Taxonomy
-
-Henry Descals, a Spanish mycologist who worked with John Webster at the
-University of Exeter, has spent more than twenty years preparing a definitive
-monograph of Ingoldian fungi. He isolates spores from decaying leaves using
-a remarkable technique: plucking his own eyelashes and gluing them to cocktail
-sticks, using the pointed tips as precision instruments. Each time the
-monograph nears completion, new species are discovered, extending the date.
-
 ## See Also
 
 - [[aquatic-fungi-and-zoospore-biology]]

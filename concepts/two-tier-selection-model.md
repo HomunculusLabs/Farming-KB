@@ -87,19 +87,19 @@ microbial community structure across the soil-to-root gradient:
    with the other soil (mean = 2162; p = 1.209e-15).
 
 4. **Cultivar-Specific Core Communities**: Each cultivar maintains a
-   core endorhiza community. The Cannabis core included *Pseudomonas*,
+   core endorhiza community. The Cannabis core included *[[pseudomonas]]*,
    *Cellvibrio*, *Oxalobacteraceae*, *Xanthomonadaceae*,
    *Actinomycetales*, and *Sphingobacteriales*.
 
 ## Evidence from Two Cannabis Experiments
 
-**First Experiment** (Sour Diesel, Bookoo Kush, Burmese): Illumina
+**First Experiment [[sour-diesel]] esel, Bookoo Kush, Burmese): Illumina
 16S rRNA V4 sequencing of 27 samples from Vista, California (November
 2011). Endorhiza clustered significantly by strain (weighted ADONIS:
 R2 = 0.59, p = 0.004). *Methylophilus* comprised 13% of Bookoo Kush
 endorhiza, 0.13% in Burmese, absent in Sour Diesel.
 
-**Second Experiment** (White Widow, Maui Wowie, two soil types):
+**Second Experiment** (White Wid [[maui-wowie]] owie, two soil types):
 42 samples from Vista and Orange County (August 2012).
 *Sphingomonas wittichii* was significantly more prevalent in Maui
 Wowie endorhiza — a species known to metabolize phenazine-1-carboxylic
@@ -131,7 +131,7 @@ endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42).
 
 The first experiment sampled roots eight weeks post-harvest;
 *Cellvibrio* abundance was 16.9% versus 0.095% in growing plants,
-indicating root decomposition confounded rhizosphere signals.
+indicating r [[decomposition]] tion confounded rhizosphere signals.
 Cannabinoid concentrations correlated with endorhiza structure
 (Mantel: r = 0.863, p = 0.001), but THC also correlated with
 edaphic variables. BEST analysis identified nitrogen, carbon, and
@@ -147,9 +147,3 @@ water as optimal explanatory factors (rho = 0.632).
   communities
 - Cultivar Specificity for genetic influences on plant-microbe
   interactions
-
-## See Also
-
-- [[decomposition]]
-- [[pseudomonas]]
-- [[rhizosphere-ecology]]

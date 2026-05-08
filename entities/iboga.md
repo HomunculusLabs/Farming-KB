@@ -140,31 +140,10 @@ Ibogaine is unique among psychedelics for its well-documented capacity to interr
 ## Conservation Status
 
 Wild populations of Tabernanthe iboga are declining due to:
-
-- Overharvesting to meet growing international demand for iboga/ibogaine
-- Deforestation of Central African rainforests
-- Slow growth rate of the species
-
-Cultivation programs in Gabon and elsewhere aim to ensure sustainable supply while preserving wild populations.
-
-## Legal Status
-
-| Jurisdiction | Status |
-|---|---|
-| United States | Schedule I (DEA) |
-| France | Schedule I |
-| Belgium | Schedule I |
-| Switzerland | Listed controlled substance |
-| United Kingdom | Class A / Class B (varies) |
-| Brazil | Not scheduled (available in treatment) |
-| New Zealand | Prescription medicine (Class B) |
-| Gabon | Protected cultural heritage; legal for Bwiti use |
-| International | Not scheduled under UN conventions |
-
 ## See Also
 
 - [[ibogaine]] — detailed pharmacology of the primary alkaloid
 - [[5-meo-dmt]] — another psychedelic with anti-addictive potential
-- [[psilocybin]] — psychedelic with emerging clinical applications
+- [[psilocybin-compound]] — psychedelic with emerging clinical applications
 - [[salvia-divinorum]] — plant-derived psychedelic with different receptor profile
 - [[mitragyna-speciosa]] — plant with opioid-like effects used for self-managed withdrawal

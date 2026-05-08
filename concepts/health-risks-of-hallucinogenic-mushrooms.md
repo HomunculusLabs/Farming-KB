@@ -140,26 +140,10 @@ Several factors increase the probability of adverse outcomes:
 - **Unpredictable potency**: Psilocybin and psilocin content varies enormously
   between species, individual specimens, and preparation methods.
 - **Inexperienced users**: Individuals unfamiliar with the effects may panic at
-  normal perceptual alterations, misinterpreting them as evidence of poisoning.
-- **Polydrug use**: Combining mushrooms with alcohol, stimulants, or other
-  psychoactive substances amplifies adverse effects.
-- **Unsafe settings**: Use in uncontrolled environments increases anxiety and
-  accident risk.
-
-## Clinical Management
-
-Acute adverse reactions to hallucinogenic mushrooms are primarily managed
-through supportive care in a calm, reassuring environment. Benzodiazepines may
-be administered for severe anxiety. Antipsychotics are generally avoided unless
-genuine psychotic features persist well beyond the expected duration of action.
-Physical examination should focus on identifying possible misidentification of
-toxic mushroom species, which would require entirely different clinical
-protocols including potential liver function monitoring.
-
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[eu-legislation-hallucinogenic-mushrooms-2001-2006]]
+- [[mushroom-cultivation-fundamentals]]
 - [[hallucinogenic-mushrooms-european-trends]]

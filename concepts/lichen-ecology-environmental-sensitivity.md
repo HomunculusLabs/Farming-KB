@@ -56,7 +56,7 @@ On rock surfaces, crustose lichens typically colonize first, followed by foliose
 
 In forest ecosystems, lichen communities shift with canopy closure and light availability, with sun-tolerant species dominating in open areas and shade-tolerant species in closed canopy conditions.
 
-In the [[fungal-ecology-forest-floor]], lichens contribute to the structural complexity of bark and wood surfaces, providing microhabitats for other fungi and microorganisms.
+In the [[the-soil-food-web]], lichens contribute to the structural complexity of bark and wood surfaces, providing microhabitats for other fungi and microorganisms.
 
 ## Climate Change Impacts
 
@@ -72,7 +72,7 @@ Changes in fog frequency and humidity affect lichens in coastal and montane envi
 
 Cyanobacteria-containing lichens are significant contributors to nitrogen inputs in many ecosystems, particularly in boreal forests, tundra, and coastal habitats where they are among the primary biological sources of fixed nitrogen.
 
-The [[nitrogen-cycle-in-soil]] benefits from lichen-mediated nitrogen fixation, which can add 1-5 kg N per hectare per year in some boreal forest floor communities.
+The [[composting-and-soil-biology]] benefits from lichen-mediated nitrogen fixation, which can add 1-5 kg N per hectare per year in some boreal forest floor communities.
 
 However, elevated atmospheric nitrogen deposition from human activities can disrupt lichen communities by favoring nitrophilous species over sensitive oligotrophic species.
 

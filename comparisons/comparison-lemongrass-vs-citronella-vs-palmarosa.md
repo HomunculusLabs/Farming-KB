@@ -20,7 +20,7 @@ type: comparison
 
 # Lemongrass vs Citronella vs Palmarosa
 
-All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical and subtropical grasses in the Poaceae family valued worldwide for their fragrant essential oils. Though they share a lemony scent profile, their chemistry, uses, and growing requirements differ considerably. This comparison covers the most commercially significant species in each category.
+All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical and subtropical grasses in the Poaceae family valued worldwide for their fragrant [[essential-oils-and-hydrosol-distillation]]. Though they share a lemony scent profile, their chemistry, uses, and growing requirements differ considerably. This comparison covers the most commercially significant species in each category.
 
 ## Quick Reference Table
 
@@ -57,7 +57,7 @@ The defining difference among these grasses is their dominant essential oil chem
 ## Primary Uses
 
 ### Culinary and Medicinal — Lemongrass
-Lemongrass is the only one of the three widely used as a food ingredient. The fresh stalk base is essential to Thai, Vietnamese, Laotian, and Indonesian cuisines — featured in tom yum, curries, soups, and salads. Medicinally, citral has demonstrated antibacterial, antifungal, and anti-inflammatory activity in vitro. Lemongrass tea is a traditional remedy for fever, digestive complaints, and anxiety in South and Southeast Asian folk medicine.
+Lemongrass is the only one of the three widely used as a food ingredient. The fresh stalk base is essential to Thai, Vietnamese, Laotian, and Indonesian cuisines — featured in tom yum, curries, soups, and salads. Medicinally, citral has demonstrated antibacterial, antifungal, and anti-inflammatory activity in vitro. Lemongrass tea is a traditional remedy for fever, digestive complaints, and anxiety in South and [[southeast-asian-mushroom-tourism-bali]] folk medicine.
 
 ### Insect Repellent — Citronella
 Citronella oil is the most widely used natural insect repellent globally. EPA-registered as a biopesticide, it is the active ingredient in candles, sprays, lotions, and wearable repellent bands. Studies show citronella provides 1-3 hours of mosquito protection, less than DEET but preferred for low-toxicity applications. It is also used in industrial soaps, detergents, and household cleaners.
@@ -69,9 +69,9 @@ Palmarosa oil is a staple in perfumery and cosmetic formulations. Its rose-like 
 
 All three grasses prefer full sun (6-8+ hours direct), warm temperatures, and consistent moisture during the growing season. However, their tolerances diverge in important ways.
 
-**Lemongrass** thrives in rich, fertile, well-drained soil with regular watering and nitrogen supplementation. It grows fastest at 25-35 C and suffers below 7 C. In temperate climates it is grown as an annual or overwintered indoors. Heavy clumps should be divided every 1-2 years to maintain vigor.
+**Lemongrass** thrives in rich, fertile, well-drained soil with regular watering and [[nitrogen-supplementation-for-mushroom-substrates]]. It grows fastest at 25-35 C and suffers below 7 C. In temperate climates it is grown as an annual or overwintered indoors. Heavy clumps should be divided every 1-2 years to maintain vigor.
 
-**Citronella** is the most drought-tolerant of the three once established. It tolerates sandy, relatively poor soils and is commonly grown in tropical plantation systems. *C. winterianus* performs best with moderate fertility and good drainage. It is widely cultivated in Indonesia, China, Vietnam, Brazil, and Madagascar.
+**Citronella** is the most [[drought-tolerant-planting-design]] of the three once established. It tolerates sandy, relatively poor soils and is commonly grown in tropical plantation systems. *C. winterianus* performs best with moderate fertility and good drainage. It is widely cultivated in Indonesia, China, Vietnam, Brazil, and Madagascar.
 
 **Palmarosa** prefers light, well-drained soils and tolerates slightly alkaline conditions. It is the most cold-adapted of the three — mature plants can survive brief frosts down to roughly -2 C if well-established, making it marginally viable in USDA zone 9b. It requires the longest growing season (6-8 months) to produce a quality oil crop.
 
@@ -112,7 +112,7 @@ All three grasses offer value in permaculture systems:
 - **Pest management**: Citronella planted around seating areas, doorways, and garden beds can reduce mosquito presence, though the effect is localized and moderate.
 - **Mulch and biomass**: All produce abundant biomass suitable for mulch or compost.
 - **Edge plantings**: Their clumping habit makes them effective boundary plants and living barriers.
-- **Polyculture stacking**: Lemongrass is compatible with intercropping with legumes and other herbs in kitchen garden systems. Palmarosa can serve as a taller understory layer in food forest designs.
+- **Polyculture stacking**: Lemongrass is compatible with intercropping with legumes and other herbs in kitchen garden systems. Palmarosa can serve as a taller understory layer in [[food-forest-establishment]] designs.
 - **Water management**: Lemongrass clumps help stabilize soil and slow runoff on gentle slopes.
 
 ## Summary

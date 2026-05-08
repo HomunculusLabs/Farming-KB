@@ -20,7 +20,7 @@ type: concept
 
 # No-Till Rice-Barley Succession
 
-**No-till rice-barley succession** is the core cultivation method of [[masanobu-fukuoka]]'s [[natural farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay pellet seed balls]] for direct seeding.
+**No-till rice-barley succession** is the core cultivation method of [[masanobu-fukuoka]]'s [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay-pellet-seed-balls]] for direct seeding.
 
 Fukuoka described the method as "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." His field had not been plowed or turned in over thirty years.
 
@@ -114,15 +114,15 @@ After thirty years, he reduced his labor to essentially just sowing seed and spr
 
 ## See Also
 
-- [[fukuoka-no-till-rice-barley-succession]]
+- no till rice barley succession
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[fukuoka-rice-barley-no-till-method]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
 
-- [[natural farming]]
+- [[natural-farming]]
 - [[masanobu-fukuoka]]
-- [[clay pellet seed balls]]
-- [[straw mulching]]
-- [[no-till agriculture]]
-- [[crop rotation]]
+- [[clay-pellet-seed-balls]]
+- [[straw-mulching]]
+- [[no-till-agriculture]]
+- [[crop-rotation]]

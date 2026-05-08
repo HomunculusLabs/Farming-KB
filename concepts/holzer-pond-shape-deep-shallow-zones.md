@@ -82,7 +82,7 @@ system that supports the entire [[holzer-permaculture-landscape-design]].
 ## Related Topics
 
 - [[holzer-pond-construction-and-aquaculture]]
-- [[holzer-water-landscapes-pond-building]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-pond-lake-design]]
 - [[holzer-aquaculture-fish-farming]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

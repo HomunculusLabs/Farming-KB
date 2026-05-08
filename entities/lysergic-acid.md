@@ -121,7 +121,7 @@ psychoactive properties on April 16, 1943 — the famous "Bicycle Day."
 
 ## See Also
 
-- [[psilocybin]] — Serotonergic psychedelic with distinct indole structure
+- [[psilocybin-compound]] — Serotonergic psychedelic with distinct indole structure
 - [[ergotamine]] — Major ergot alkaloid and lysergic acid derivative
 - [[lysergic-acid-amide]] — Direct amide of lysergic acid found in morning glories
 - [[tryptamine]] — Parent scaffold of the ergoline biosynthetic pathway

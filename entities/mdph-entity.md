@@ -21,7 +21,7 @@ MDPH is the alpha,alpha-dimethyl homologue of mdpea (homopiperonylamine).
 
 It contains two methyl groups on the alpha-carbon (the carbon adjacent to the aromatic ring), making it a phentermine derivative.
 
-The methylenedioxy substitution pattern at the 3,4-positions is shared with [[mda-entity]], [[mdma-entity]], and related compounds.
+The methylenedioxy substitution pattern at the 3,4-positions is shared with [[mda]], [[mdma-entity]], and related compounds.
 
 ## Pharmacological Profile
 
@@ -29,7 +29,7 @@ MDPH is an active psychoactive compound with a dosage range of 160 to 240 millig
 
 The duration of effects is 3 to 5 hours.
 
-The compound produces effects described as similar to but distinct from [[mda-entity]], with a shorter duration and less intensity.
+The compound produces effects described as similar to but distinct from [[mda]], with a shorter duration and less intensity.
 
 The typical experience is a pleasant stoning effect without dramatic psychedelic features.
 
@@ -37,7 +37,7 @@ The typical experience is a pleasant stoning effect without dramatic psychedelic
 
 At 120 mg, the alert was felt in 40 minutes and the subject was substantially affected at 1 hour 20 minutes.
 
-The experience was described as quite like [[mda-entity]]: simple, with no lines, no colors, no motion, no fantasy.
+The experience was described as quite like [[mda]]: simple, with no lines, no colors, no motion, no fantasy.
 
 Subjects reported being pleasantly stoned, with real anorexia and impotency.
 
@@ -61,7 +61,7 @@ Physical problems included eye mismanagement, teeth clenching, and a tendency to
 
 Sleep was possible at only five hours into the experience.
 
-The experience was described as a short-lived plus two that was not as rewarding as [[mda-entity]] and had none of the magic of [[mdma-entity]].
+The experience was described as a short-lived plus two that was not as rewarding as [[mda]] and had none of the magic of [[mdma-entity]].
 
 ## The Logic of Drug Design
 
@@ -121,7 +121,7 @@ The compound was described as having hints of physical problems at higher doses.
 
 mdpea
 
-[[mda-entity]]
+[[mda]]
 
 [[mdma-entity]]
 

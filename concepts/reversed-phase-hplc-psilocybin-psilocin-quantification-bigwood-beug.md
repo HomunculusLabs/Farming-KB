@@ -24,7 +24,7 @@ created: 2026-04-28
 
 ## Overview
 
-Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (HPLC) to quantify [[psilocybin]] and [[psilocin]]
+Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (HPLC) to quantify [[psilocybin-compound]] and [[psilocin]]
 levels in [[psilocybe-cubensis]] fruiting bodies across multiple flushes. Their analytical protocol, calibrated against National Institute
 on Drug Abuse (NIDA) reference standards and confirmed by thin-layer chromatography, established a robust method for detecting tryptamine
 alkaloids at microgram sensitivity with approximately 10% repeatability. This methodological rigor was essential for distinguishing genuine
@@ -57,7 +57,7 @@ comparison of Bigwood and Beug's results with those of other researchers who mig
 ## Linear Dynamic Range
 
 The calibration curve demonstrated a linear relationship between analyte concentration and peak area over the range of 0.2 to 3 micrograms
-total [[psilocybin]] or [[psilocin]]. Linearity across this range meant that the instrument response was directly proportional to the amount
+total [[psilocybin-compound]] or [[psilocin]]. Linearity across this range meant that the instrument response was directly proportional to the amount
 of analyte present, allowing straightforward quantification by comparing sample peak areas to the calibration curve without the need for
 complex curve-fitting algorithms.
 
@@ -134,6 +134,6 @@ range and detection limits, and the TLC confirmation step established methodolog
 
 - [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]
-- [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-and-psilocin-chemistry]]
 - [[psilocybin-psilocin-stability-degradation-volatility-fungi]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]

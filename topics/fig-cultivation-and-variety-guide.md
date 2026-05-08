@@ -63,7 +63,7 @@ Figs require a dormancy period of approximately 100–200 chill hours (hours bel
 
 | Zone | Suitability | Notes |
 |------|-------------|-------|
-| **4–5** | Marginal, requires heavy protection | In-ground survival unlikely; container growing with winter storage is the only reliable method. |
+| **4–5** | Marginal, requires heavy protection | In-ground survival unlikely; [[container-growing-vegetables-herbs]] with winter storage is the only reliable method. |
 | **6** | Possible with cold-hardy varieties and protection | Chicago Hardy, Brown Turkey, Celeste can survive with winter mulching. Dieback to the ground is common; roots resprout in spring. |
 | **7–8** | Good | Ideal range for most Common type figs. Some winter protection advised for young trees. |
 | **9–10** | Excellent | Peak production. Virtually all varieties thrive. |
@@ -82,7 +82,7 @@ Figs are remarkably adaptable to soil conditions but perform best with the follo
 
 - **Soil type:** Well-drained loam to sandy loam. They tolerate clay if drainage is adequate, and even sandy soils if watered regularly.
 - **pH:** 6.0–7.5 is ideal. They are more tolerant of alkaline soils than most fruit trees.
-- **Drainage:** Critical. Fig roots are highly susceptible to root rot (Phytophthora) in waterlogged soil. Raised beds or mounds can compensate for heavy soils.
+- **Drainage:** Critical. Fig roots are highly susceptible to root rot (Phytophthora) in waterlogged soil. [[raised-beds-vs-in-ground-vs-containers]] or mounds can compensate for heavy soils.
 - **Sun:** Full sun is essential — minimum 6–8 hours of direct sunlight during the growing season.
 - **Space:** Standard trees reach 15–30 ft (4.5–9 m) tall and wide at maturity, depending on variety. They can be kept smaller with pruning or container culture.
 
@@ -105,7 +105,7 @@ Figs are remarkably adaptable to soil conditions but perform best with the follo
 
 ### Establishment Care
 
-- **Watering:** Water deeply 2–3 times per week during the first growing season, tapering to once per week in the second year. Established trees are drought-tolerant but produce best with consistent moisture.
+- **Watering:** Water deeply 2–3 times per week during the first growing season, tapering to once per week in the second year. Established trees are [[drought-tolerant-planting-design]] but produce best with consistent moisture.
 - **Weed control:** Maintain a weed-free mulch ring extending to the drip line for at least the first 3 years.
 
 ## Pruning
@@ -141,7 +141,7 @@ Figs adapt exceptionally well to espalier training against walls and fences. The
 
 Figs are light feeders compared to most fruit trees. Excessive nitrogen produces lush vegetative growth at the expense of fruit:
 
-- **Young trees (1–3 years):** Apply ½ cup of balanced organic fertilizer (e.g., 8-8-8 or 5-5-5) per inch of trunk diameter, spread in a circle 2–3 ft from the trunk, in early spring.
+- **Young trees (1–3 years):** Apply ½ cup of balanced [[organic-fertilizer-sources-guide]] (e.g., 8-8-8 or 5-5-5) per inch of trunk diameter, spread in a circle 2–3 ft from the trunk, in early spring.
 - **Mature trees (4+ years):** Apply 1–2 cups of 5-5-5 or similar, or top-dress with 2–3 inches of well-rotted compost. Many established figs need no supplemental fertilizer if grown in good soil with annual compost mulching.
 - **Micronutrients:** Figs can develop iron chlorosis (yellowing leaves with green veins) in alkaline soils. Apply chelated iron (EDDHA) as a foliar spray or soil drench if symptoms appear.
 - **Potassium:** Adequate potassium is important for fruit sweetness and disease resistance. Wood ash or kelp meal can supplement if soil tests indicate deficiency.
@@ -291,9 +291,9 @@ Grafting is rarely necessary for Common type figs but is used to propagate Smyrn
 
 Figs are excellent canopy or sub-canopy trees in food forest designs:
 
-- **Canopy layer** in Mediterranean and subtropical food forests
-- **Sub-canopy** in warmer temperate food forests where larger nitrogen-fixing trees form the upper canopy
-- **Edge plantings** — their drought tolerance and vigorous growth make them ideal for windward edges and microclimate creation
+- **[[canopy-layer-design-food-forests]]** in Mediterranean and subtropical food forests
+- **Sub-canopy** in warmer temperate food forests where larger [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees form the upper canopy
+- **Edge plantings** — their drought tolerance and vigorous growth make them ideal for windward edges and [[microclimate-creation-permaculture]]
 
 ### Guild Plants
 
@@ -301,7 +301,7 @@ Companion plants that pair well with figs:
 
 | Layer | Plant | Function |
 |-------|-------|----------|
-| **Ground cover** | Comfrey (*Symphytum*) | Dynamic accumulator; mulch production |
+| **Ground cover** | Comfrey (*Symphytum*) | [[dynamic-accumulator-plants-potassium]]; mulch production |
 | **Ground cover** | White clover (*Trifolium repens*) | Nitrogen fixation; living mulch |
 | **Herbaceous** | Yarrow (*Achillea millefolium*) | Attracts beneficial insects; accumulates nutrients |
 | **Herbaceous** | Borage (*Borago officinalis*) | Attracts pollinators; trace mineral accumulator |

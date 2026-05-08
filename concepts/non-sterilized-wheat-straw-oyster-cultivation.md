@@ -11,7 +11,7 @@ type: concept
 
 # Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
 
-Traditional [[oyster mushroom]] cultivation requires pasteurization or sterilization of substrate materials, which is often the most expensive step due to fuel consumption for steaming or boiling. This process is also tricky and labor-intensive. A method developed in Pakistan demonstrates that oyster mushrooms can be cultivated successfully on wheat straw without pasteurization or sterilization by using natural antimicrobial agents including limestone (calcium carbonate) and yellow pulse powder.
+Traditional [[oyster-mushroom]] cultivation requires pasteurization or sterilization of substrate materials, which is often the most expensive step due to fuel consumption for steaming or boiling. This process is also tricky and labor-intensive. A method developed in Pakistan demonstrates that oyster mushrooms can be cultivated successfully on wheat straw without pasteurization or sterilization by using natural antimicrobial agents including limestone (calcium carbonate) and yellow pulse powder.
 
 ## Principle
 
@@ -55,7 +55,7 @@ Quickly cover the entire substrate with a plastic sheet to retain heat and humid
 
 ### Step 5: Spawning
 
-After 24 hours, move the substrate to shelves, trays, or bags for spawning. For shelf cultivation, spread the prepared substrate evenly on brick shelves in the growing room. Add water if needed. Sprinkle [[mushroom spawn]] evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
+After 24 hours, move the substrate to shelves, trays, or bags for spawning. For shelf cultivation, spread the prepared substrate evenly on brick shelves in the growing room. Add water if needed. Sprinkle [[mushroom-spawn]] evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
 
 ### Step 6: Sealing
 
@@ -67,7 +67,7 @@ After 7 to 8 days, mycelium begins growing and spreading across the shelf surfac
 
 ### Step 8: Full Colonization
 
-Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[fruiting initiation|pinning]].
+Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[fruiting-initiation|pinning]].
 
 ### Step 9: Fruiting Management
 
@@ -101,7 +101,7 @@ This method offers several significant advantages for small-scale and resource-l
 
 ## Related Methods
 
-This approach is related to other low-cost [[oyster mushroom]] cultivation techniques including [[non-pasteurized straw substrate]] methods, [[cold water lime pasteurization]], and [[hydrated lime treatment]] of straw substrates. The principle of using alkaline conditions to suppress competing organisms while supporting Pleurotus mycelium underlies several [[low-cost mushroom cultivation]] approaches developed for resource-limited growers.
+This approach is related to other low-cost [[oyster-mushroom]] cultivation techniques including [[non-pasteurized-straw-substrate]] methods, [[cold-water-lime-pasteurization]], and [[hydrated-lime-treatment]] of straw substrates. The principle of using alkaline conditions to suppress competing organisms while supporting Pleurotus mycelium underlies several [[low-cost-mushroom-cultivation]] approaches developed for resource-limited growers.
 
 ## See Also
 

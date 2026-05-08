@@ -140,30 +140,6 @@ signal that the mushroom has matured and is now in its sporulation cycle.
 
 This is the time to take spore prints for future cultivation. Mature specimens
 are excellent for spore production but represent the weakest point in their
-potency curve. The mature specimens are good for spore collecting and
-showcasing but are weak in psychedelic potency.
-
-## Bluing Reaction
-
-Throughout the lifecycle, physical handling of the fungus can cause bruising
-that manifests as bluish marks on the stems and caps. This bluing is a
-well-known characteristic of psilocybin-containing mushrooms and results from
-the oxidation of psilocin.
-
-While bruising indicates handling stress, the fungus is described as resilient
-and can tolerate a certain amount of handling. The cultivator is advised to
-handle cakes as minimally as possible to preserve quality. When removing the
-fungus cake from the jar, the cake should be lightly slammed onto a cushioned
-surface and not squeezed or bruised.
-
-## Secondary Flush
-
-After the initial fruiting flush, which lasts about 2 weeks, the mycelium
-cake begins to turn blue and no more mushrooms form. If the cake is
-thoroughly cleaned after the initial fruiting, secondary fruit bodies
-sometimes form, but they are usually sparse and small. The entire process from
-spore inoculation to fruiting takes approximately 4 to 6 weeks.
-
 ## Related Concepts
 
 - [[pf-tek-mushroom-growth-timeline]] for specific timeframes of each lifecycle stage

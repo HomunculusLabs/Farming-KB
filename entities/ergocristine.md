@@ -138,5 +138,5 @@ postpartum hemorrhage, though dosing was imprecise and dangerous.
 - [[ergometrine]] — Simpler ergot alkaloid, used obstetrically
 - [[lsd]] — Semisynthetic psychedelic derived from lysergic acid
 - [[lysergic-acid-amide]] — Natural lysergamide, related compound
-- [[psilocybin]] — Contrasting tryptamine-class fungal alkaloid
+- [[psilocybin-compound]] — Contrasting tryptamine-class fungal alkaloid
 - [[aeruginascin]] — Related bioactive fungal alkaloid

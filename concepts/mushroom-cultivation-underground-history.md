@@ -29,7 +29,7 @@ clandestine cultivation.
 
 ## The McKenna Brothers' Method
 
-The breakthrough in home cultivation came from [[terence-mckenna-stoned-ape-hypothesis]] and
+The breakthrough in home cultivation came from [[psychedelic-mushrooms-species-and-identification]] and
 Dennis McKenna. After their experiences at La Chorrera in Colombia in 1971,
 where they found abundant Psilocybe cubensis growing from cow dung, the brothers
 developed a cultivation method that was revolutionary in its accessibility.

@@ -1,5 +1,5 @@
 ---
-title: "Integrated Mosquito Management for Permaculture and Homestead Ponds"
+title: "Integrated Mosquito Management for [[permaculture]] and Homestead Ponds"
 tags:
   - mosquitoes
   - pond-management
@@ -18,22 +18,21 @@ sources:
   - "Becker, N. et al. (2010). Mosquitoes and Their Control, 2nd ed. Springer."
   - "University of California Agriculture & Natural Resources. 'Mosquito Fish: Care and Use.' UC ANR Publication 7213."
   - "Marten, G.G. & Reid, J.W. (2007). 'Cyclopoid copepods.' Journal of the American Mosquito Control Association, 23(2 Suppl), 65–92."
-  - "Xu, Q. et al. (2020). 'Efficacy and environmental safety of Bacillus thuringiensis israelensis for mosquito larval control.' Toxins, 12(12), 772."
+  - "Xu, Q. et al. (2020). 'Efficacy and environmental safety of [[bacillus-thuringiensis]] israelensis for mosquito larval control.' Toxins, 12(12), 772."
   - "Culiseta, Inc. 'Dragonflies as Bioindicators and Mosquito Predators in Constructed Wetlands.' Wetlands Ecology and Management, 2019."
   - "Foster, W.A. & Walker, E.D. (2019). 'Mosquitoes (Culicidae).' Medical and Veterinary Entomology, 3rd ed."
 created: 2026-05-07
 type: query
 ---
+# Integrated Mosquito Management [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and Homestead Ponds
 
-# Integrated Mosquito Management for Permaculture and Homestead Ponds
-
-> **TL;DR:** The most effective mosquito strategy isn't a single fix — it's a layered system of pond design, biological predators, physical barriers, and targeted natural larvicides. When stacked together, these approaches create a pond ecosystem that suppresses mosquitoes while supporting fish, wildlife, and food production.
+> **TL;DR:** The most effective mosquito strathemenway-water-harvesting-and-pond-design]] single fix — it's a layered system of pond design, biological predators, physical barriers, and targeted natural larvicides. When stacked together, these approaches create a pond ecosystem that suppresses mosquitoes while supporting fish, wildlife, and food production.
 
 ---
 
 ## Why Mosquitoes Love Ponds (And Why That's a Design Problem)
 
-Mosquitoes need **still, shallow, nutrient-rich water** to breed. Most species complete their larval cycle in 7–10 days in warm water. Ponds with large shallow margins, stagnant zones, and excessive organic debris are ideal nurseries. The good news: every one of these conditions is correctable through design and management.
+Mosquitoes need **still, shallow, nutrient-rich water** to breed. Most species complete their larval cycle in 7–10 days in warm water. Ponds with large shallow margins, stagnant zones, and excessive organic debris are isilvopasture-systems-design-and-managementood news: every one of these conditions is correctable through design and management.
 
 ---
 
@@ -147,10 +146,4 @@ The single best mosquito predator you can invite. Dragonfly nymphs are aquatic a
 
 ## Related Queries
 
-- [[query-how-can-i-attract-dragonflies-to-my-pond-for-mosquito-control|How Can I Attract Dragonflies to My Pond for Mosquito Control?]]
-- [[query-how-to-control-fungus-gnats-organically|How to Control Fungus Gnats Organically]]
-
-## See Also
-
-- [[permaculture-pond-and-water-garden]]
-- [[gaias-garden-natural-pest-disease-management]]
+- [[query-how-can-i-attract-dragonflies-to-my-pond-for-mosquito-control]]

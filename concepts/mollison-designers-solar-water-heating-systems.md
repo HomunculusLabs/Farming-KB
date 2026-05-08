@@ -148,4 +148,3 @@ tropical locations can reach 80-100%.
 
 - [[permaculture-solar-energy-inventions]]
 - [[passive-solar-design]]
-- [[appropriate-technology]]

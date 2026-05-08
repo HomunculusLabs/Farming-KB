@@ -74,7 +74,7 @@ Rivers that once ran clear from mountain forests now carry sediment and agricult
 
 Fukuoka saw these changes not as inevitable progress but as a preventable tragedy -- the result of abandoning a way of working with nature that had sustained Japanese civilization for over a thousand years.
 
-The recovery of [[soil-food-web-nutrient-cycling]] and the adoption of [[no-till-gardening-method]] methods represent partial steps back toward the wholeness that was lost, but Fukuoka would argue that the deeper recovery must be philosophical and spiritual, not merely technical.
+The recovery of [[soil-food-web-nutrient-cycling]] and the adoption of [[composting-and-soil-biology]] methods represent partial steps back toward the wholeness that was lost, but Fukuoka would argue that the deeper recovery must be philosophical and spiritual, not merely technical.
 
 The true cost of modern agriculture cannot be measured in yen per kilogram of rice. It must be measured in the loss of soil depth, the extinction of local varieties, the contamination of groundwater, and the severing of the bond between people and the land that feeds them.
 

@@ -15,7 +15,7 @@ type: concept
 Chemical analysis of [[ceremonial-shamanic-use-psychoactive-mushrooms]] is essential for confirming species
 identification, quantifying alkaloid content, and understanding the
 pharmacological properties of psilocybin-containing fungi. Since the initial
-discovery of psilocybin in European [[psilocybe-semilanceata-profile]] by paper
+discovery of psilocybin in European [[psychedelic-mushrooms-species-and-identification]] by paper
 chromatography in 1963, analytical methods have evolved from simple
 chromatographic techniques to sophisticated High Performance Liquid
 Chromatography (HPLC) systems capable of precise quantification of multiple

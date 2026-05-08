@@ -128,7 +128,7 @@ whether edible, medicinal, structural, or ecological.
 
 ## The Role of Edges and Margins
 
-The principle of using edges and valuing [[permaculture-principle-use-edges-and-value-the-marginal]] complements
+The principle of using edges and valuing [[permaculture-design-principles]] complements
 stacking functions. Where two ecosystems meet, such as where forest
 meets grassland or where water meets land, there is an edge effect
 that creates increased diversity and productivity. These transition
@@ -148,4 +148,3 @@ more working as an integrated team than any element could working
 separately. This is the essence of Permaculture design excellence:
 creating systems where everything serves multiple purposes and
 everything connects to everything else in mutually beneficial
-relationships that increase with complexity and time.

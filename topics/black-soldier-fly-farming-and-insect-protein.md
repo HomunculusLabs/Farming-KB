@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-The black soldier fly (BSF), *Hermetia illucens*, is a dipteran insect native to the Americas and now distributed globally across tropical, subtropical, and warm temperate regions. It has emerged as one of the most promising insect species for industrial and small-scale protein production due to its voracious appetite as larvae, high feed conversion efficiency, and ability to convert organic waste streams into nutrient-dense biomass. BSF farming sits at the intersection of waste management, sustainable agriculture, and circular food systems, making it a natural fit for permaculture and homesteading operations.
+The [[black-soldier-fly-larvae-as-feed]] (BSF), *Hermetia illucens*, is a dipteran insect native to the Americas and now distributed globally across tropical, subtropical, and warm temperate regions. It has emerged as one of the most promising insect species for industrial and small-scale protein production due to its voracious appetite as larvae, high feed conversion efficiency, and ability to convert organic waste streams into nutrient-dense biomass. BSF farming sits at the intersection of waste management, sustainable agriculture, and circular food systems, making it a natural fit for permaculture and homesteading operations.
 
 Unlike houseflies, adult BSF do not feed and do not transmit disease. They lack functional mouthparts as adults and live only 5–8 days, focused entirely on reproduction. This makes them exceptionally clean and safe to rear in proximity to human habitation.
 
@@ -222,17 +222,17 @@ BSF fat is dominated by lauric acid (C12:0), comprising 40–60% of total fatty 
 
 ### Frass (Residual Substrate)
 
-BSF frass is the digested and residual organic material remaining after larvae have processed the substrate. It is a high-quality organic fertilizer:
+BSF frass is the digested and residual organic material remaining after larvae have processed the substrate. It is a high-quality [[organic-fertilizer-sources-guide]]:
 - **NPK:** Approximately 3-3-2 (variable by substrate)
 - **Organic matter:** 40–60%
 - **Beneficial microbes:** Contains chitin-degrading bacteria that suppress plant pathogens
-- **Chitin content:** 5–10% stimulates plant immune responses (systemic acquired resistance)
+- **Chitin content:** 5–10% stimulates [[plant-immune-system-pti-eti]] responses (systemic acquired resistance)
 
-Frass can be applied directly as a soil amendment, composted further, brewed into compost tea, or used as a potting mix component. It is particularly valued in organic and regenerative agriculture for its plant-protective properties.
+Frass can be applied directly as a soil amendment, composted further, brewed into compost tea, or used as a potting mix component. It is particularly valued in organic and [[regenerative-agriculture-overview]] for its plant-protective properties.
 
 ### BSF Leachate (Liquid Drainage)
 
-The liquid that drains from BSF bins is a nutrient-rich liquid often called "BSF tea" or "liquid frass." It contains dissolved minerals, amino acids, and microbial metabolites. Dilute 1:10–1:50 with water and apply as a liquid fertilizer. Do not use undiluted — it can burn plants.
+The liquid that drains from BSF bins is a nutrient-rich liquid often called "BSF tea" or "liquid frass." It contains dissolved minerals, amino acids, and microbial metabolites. Dilute 1:10–1:50 with water and apply as a [[liquid-fertilizer-from-weeds]]. Do not use undiluted — it can burn plants.
 
 ## Integration with Permaculture and Homesteading
 
@@ -241,9 +241,9 @@ The liquid that drains from BSF bins is a nutrient-rich liquid often called "BSF
 BSF farming excels in integrated food production systems:
 
 1. **Kitchen scraps → BSF larvae → Poultry feed → Eggs/meat → Kitchen scraps** — A complete nutrient loop
-2. **Garden waste → BSF → Frass → Garden fertilizer** — Closed-loop soil fertility
+2. **Garden waste → BSF → Frass → Garden fertilizer** — Closed-loop [[soil-fertility-management]]
 3. **Aquaponics fish waste → BSF larvae → Fish feed** — Reducing external feed inputs
-4. **Brewery/distillery waste → BSF → Livestock feed** — Valorizing industrial byproducts
+4. **Brewery/distillery waste → BSF → [[livestock-feed-formulation]]** — Valorizing industrial byproducts
 
 ### Zoning in Permaculture Design
 
@@ -274,7 +274,7 @@ BSF farming excels in integrated food production systems:
 - **Startup cost (hobby):** $50–200 (bin, starter larvae, basic supplies)
 - **Startup cost (small farm):** $2,000–10,000 (multi-bin system, climate control, processing equipment)
 - **Production cost:** $0.50–2.00 per kg of live larvae, depending on substrate cost and scale
-- **Revenue potential:** Dried BSF meal sells for $800–2,000/tonne commercially; live larvae for backyard poultry command premium prices ($15–30/kg retail)
+- **Revenue potential:** Dried BSF meal sells for $800–2,000/tonne commercially; live larvae for [[backyard-poultry-and-integrated-animal-systems]] command premium prices ($15–30/kg retail)
 
 ### Regulatory Landscape (as of 2026)
 

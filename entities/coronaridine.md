@@ -119,10 +119,10 @@ Several synthetic derivatives of coronaridine have been prepared, including 18-m
 ## See Also
 
 - [[ibogaine]]
-- [[noribogaine]]
-- [[voacangine]]
+- [[noribogaine-entity]]
+- [[voacangine-entity]]
 - [[tabernanthe-iboga]]
 - [[banisteriopsis-caapi]]
 - [[harmine]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - tabernanthine

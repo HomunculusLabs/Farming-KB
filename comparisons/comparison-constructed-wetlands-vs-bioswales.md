@@ -54,9 +54,9 @@ Bioswales are designed as **conveyance features** and can handle high-intensity 
 
 ## Vegetation Requirements
 
-Constructed wetlands require emergent aquatic species tolerant of saturated or inundated conditions. Common choices include *Typha latifolia* (cattail), *Phragmites australis* (reed canary grass), *Scirpus* spp. (bulrushes), *Juncus* spp. (rushes), and *Iris versicolor* (blue flag iris). Plant density targets of 2–4 plants per square meter ensure adequate root-zone treatment.
+Constructed wetlands require emergent aquatic species tolerant of saturated or inundated conditions. Common choices include *[[typha-latifolia-entity]]* (cattail), *[[phragmites-australis]]* (reed canary grass), *Scirpus* spp. (bulrushes), *Juncus* spp. (rushes), and *Iris versicolor* (blue flag iris). Plant density targets of 2–4 plants per square meter ensure adequate root-zone treatment.
 
-Bioswales use a broader palette of upland and mesic species. Native grasses (*Panicum virgatum*, *Schizachyrium scoparium*), sedges (*Carex* spp.), and deep-rooted perennials (*Echinacea purpurea*, *Solidago* spp.) are preferred for erosion control, pollutant uptake, and drought tolerance. Trees and shrubs may be included along swale margins for canopy interception.
+Bioswales use a broader palette of upland and mesic species. Native grasses (*[[panicum-virgatum]]*, *Schizachyrium scoparium*), sedges (*Carex* spp.), and deep-rooted perennials (*[[echinacea-purpurea]]*, *Solidago* spp.) are preferred for erosion control, pollutant uptake, and drought tolerance. Trees and shrubs may be included along swale margins for canopy interception.
 
 ## Maintenance and Long-Term Operation
 

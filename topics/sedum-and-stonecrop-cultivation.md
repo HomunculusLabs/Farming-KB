@@ -69,13 +69,13 @@ Sedum species exhibit remarkable morphological diversity, adapted to their varie
 
 ### Species Profiles
 
-**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping ground cover with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable green roof species.
+**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping ground cover with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable [[green-roof-and-living-walls]] species.
 
 **Sedum kamtschaticum** — Native to Kamchatka, Japan, and Korea. Semi-upright habit with glossy green, toothed leaves. Excellent fall color. Cultivar 'Variegatum' features creamy-edged foliage. Important green roof species for deeper substrates.
 
 **Sedum spectabile** (Hylotelephium spectabile) — Native to China and Korea. Tall, upright clumps with broad gray-green leaves and large, flat-topped flower clusters. A cornerstone of the late-summer and autumn garden. Notable cultivars include 'Autumn Joy', 'Brilliant', 'Meteor', and 'Matrona'.
 
-**Sedum acre** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely drought-tolerant but can become aggressive in ideal conditions. Contains alkaloids that make it mildly toxic if ingested in quantity.
+**Sedum acre** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely [[drought-tolerant-planting-design]] but can become aggressive in ideal conditions. Contains alkaloids that make it mildly toxic if ingested in quantity.
 
 **Sedum album** — Widespread across Europe and North Africa. Forms dense white-flowered mats. Numerous cultivars including 'Coral Carpet' (pink new growth), 'Murale' (compact form), and variegated selections. Highly adaptable.
 
@@ -191,18 +191,18 @@ Sedums are among the lowest-maintenance garden perennials:
 
 | Problem | Symptoms | Control |
 |---------|----------|---------|
-| Slugs and snails | Irregular holes in leaves, slimy trails | Beer traps, diatomaceous earth, iron phosphate bait |
+| Slugs and snails | Irregular holes in leaves, slimy trails | Beer traps, [[diatomaceous-earth-cannabis]], iron phosphate bait |
 | Aphids | Curling leaves, sticky honeydew, sooty mold | Insecticidal soap, strong water spray, ladybug introductions |
 | Mealybugs | White cottony masses at leaf axils and stems | Isopropyl alcohol swabs, neem oil, systemic insecticides |
 | Root and stem rot | Mushy, discolored bases, wilting, collapse | Improve drainage immediately; remove affected plants; reduce watering |
-| Fungal leaf spots | Brown/black spots on foliage | Improve air circulation; remove affected foliage; avoid overhead watering |
+| [[fungal-leaf-litter-diversity]] spots | Brown/black spots on foliage | Improve air circulation; remove affected foliage; avoid overhead watering |
 | Deer and rabbits | Grazed foliage, missing stems | Generally avoided due to succulent (bitter) foliage; protect young plants |
 
 ## Uses in Landscaping
 
 - **Green Roofs**: Sedums are the dominant plants in extensive green roof systems worldwide due to their shallow root systems, drought tolerance, and ability to survive in thin substrates.
 - **Living Walls**: Trailing and compact species suitable for vertical garden systems with minimal irrigation.
-- **Ground Covers**: Creeping species provide colorful, drought-resistant alternatives to turf in sunny areas with poor soil.
+- **Ground Covers**: Creeping species provide colorful, [[drought-resistant-gardening-and-water-wise-landscaping]] alternatives to turf in sunny areas with poor soil.
 - **Rock Gardens**: Ideal subjects for alpine and rock garden settings; natural appearance on stone and gravel.
 - **Containers and troughs**: Excellent in shallow containers, hypertufa troughs, and living wreaths.
 - **Borders**: Upright species (S. spectabile) provide late-season structure, color, and pollinator resources in mixed perennial borders.
@@ -275,7 +275,7 @@ Sedum is one of the few temperate-zone genera that utilizes **Crassulacean Acid 
 | **Late Spring** | Plant new sedums after frost danger passes. Begin regular watering of new plantings. Control slugs as they emerge. |
 | **Summer** | Minimal watering for established plants. Monitor green roof installations during heat waves (supplemental water if wilted for >1 week). Deadhead if desired (not necessary). |
 | **Early Fall** | Stop fertilizing. Reduce watering. Take final cuttings before frost. Allow upright species to develop autumn color. |
-| **Late Fall** | Leave standing stems of upright species for winter interest and wildlife habitat. Ensure drainage is adequate (no standing water). |
+| **Late Fall** | Leave standing stems of upright species for winter interest and [[wildlife-habitat-creation]]. Ensure drainage is adequate (no standing water). |
 | **Winter** | No active care needed. Snow cover provides insulation. Monitor for rodent damage under snow on green roofs. |
 
 ### Zones 6–8 (Temperate Climates)
@@ -283,7 +283,7 @@ Sedum is one of the few temperate-zone genera that utilizes **Crassulacean Acid 
 | Season | Tasks |
 |--------|-------|
 | **Spring** | Light cleanup of debris. Cut back upright species. Divide every 3–4 years. Watch for aphids on new growth. |
-| **Summer** | Water container plantings weekly. Minimal irrigation for in-ground plants. Green roofs may need occasional deep watering during extreme heat. |
+| **Summer** | Water container plantings weekly. Minimal irrigation for in-ground plants. Green roofs may need occasional deep watering during [[extreme-heat-preparedness]]. |
 | **Fall** | Take cuttings for propagation. Reduce watering. Enjoy autumn color and seed heads on upright species. |
 | **Winter** | Protect tender species (S. dasyphyllum, S. adolphii) with row cover or move containers to sheltered location. |
 
@@ -317,7 +317,7 @@ Sedum is one of the few temperate-zone genera that utilizes **Crassulacean Acid 
 
 ### Wildlife Habitat
 
-- Dense sedum mats provide shelter for ground-dwelling beneficial insects, including ground beetles and spiders.
+- Dense sedum mats provide shelter for ground-dwelling beneficial insects, including [[ground-beetles-carabidae-and-biological-pest-control]] and spiders.
 - Seed heads of upright species provide winter food for birds.
 - Green roof sedum installations create habitat corridors for urban wildlife.
 - Sedums generally have low wildlife toxicity (S. acre is a notable exception, containing potentially irritant alkaloids).

@@ -148,5 +148,3 @@ capacity for biodiversity is enhanced.
 - mycelium running mycelium natures internet
 - [[mycelium-running-bioremediation-mushroom-projects]]
 - [[mycelium-running-endophyte-mutualistic-symbionts]]
-
-- [[mycelial-archetype]]

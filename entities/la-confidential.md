@@ -1,5 +1,5 @@
 ---
-title: "LA Confidential"
+title: "la confidential"
 created: 2026-04-28
 type: strain
 tags:
@@ -28,15 +28,14 @@ sources:
     University of California Press.
   - Cannabis Cup Archives. High Times Magazine, various years.
 ---
-
 # LA Confidential
 
-LA Confidential is an indica-dominant cannabis strain bred by DNA Genetics,
+LA Confidential is an indica-dominant [[cannabis-strain-guide-reference]] bred by DNA Genetics,
 known for its potent sedative effects, dark dense buds, and classic Afghani
 character. Originally developed in Southern California, it gained prominence
 after winning multiple Cannabis Cup awards in the mid-2000s. The strain has
-become a staple in the medical cannabis community for pain management,
-insomnia, and anxiety relief. Its lineage traces to two California landrace
+become a staple in the medical cancannabis-[[cannabis-for-chronic-pain]]-management]] for [[cannabis-chronic-pain-management]],
+insomnia, [[nervine-herbs-and-anxiety-relief]]. Its lineage traces to two California landrace
 and heirloom selections, producing a plant with straightforward cultivation
 needs and consistently high resin production.
 
@@ -71,15 +70,15 @@ rust-colored, and tend to retract into the bud mass.
 - **Secondary notes:** Notes of damp soil, leather, and a subtle sweetness
   reminiscent of dark wood or incense on the finish.
 - **Flavor:** Smooth, woodsy smoke with pine and earth on the inhale; exhale
-  reveals a slightly sweet, almost creamy aftertaste with lingering spice.
+  reveals a slightly sweet, almost creterpene-profile-chemotaxonomywith lingering spice.
 
-## Terpene Profile
+## [[terpene-profile-chemotaxonomy]]
 
-- **Myrcene (dominant):** ~0.8–1.2% — contributes sedative, musky,
+- **[[myrcene]] (dominant):** ~0.8–1.2% — contributes sedative, musky,
   earthy character; primary driver of the indica-leaning physical effects.
 - **Caryophyllene:** ~0.3–0.5% — adds peppery, spicy warmth and interacts
-  with CB₂ receptors for anti-inflammatory modulation.
-- **Limonene:** ~0.2–0.4% — subtle citrus lift in the background, offsets
+  with CB₂ receptors for [[medicinal-mushroom-antioxidant-anti-inflammatory]] modulation.
+- **[[limonene]]:** ~0.2–0.4% — subtle citrus lift in the background, offsets
   the heavy earth notes and may contribute mild mood elevation.
 - **Pinene:** ~0.1–0.3% — pine needle sharpness in the aroma; may help
   counteract some of the cognitive fog associated with high-myrcene strains.
@@ -148,11 +147,3 @@ variant that expresses deeper coloration in cooler temperatures, and a
 slightly more sativa-influenced cut with longer flowering time and more
 cerebral effect. DNA Genetics' original cut remains the most widely
 available. LA Confidential has been used as a parent in crosses including
-Confidential Cheese (with UK Cheese) and LA Con (with various hybrids).
-
-## See Also
-
-- [[cannabis-indica]]
-
-- [[cannabis-strain-selection-guide]]
-- [[cannabis-phenotype-and-genotype-guide]]

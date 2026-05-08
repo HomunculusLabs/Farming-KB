@@ -81,7 +81,7 @@ Cladophialophora sp. strain T1 degrades alkylated benzenes such as toluene, ethy
 
 White rot fungi have been successfully applied to remediate contaminated field soils. P. chrysosporium depleted 2,4,5-T and pentachlorophenol from contaminated soil samples. In field studies with P. chrysosporium and P. sordida, 88-91% of PCP was depleted within 6.5 weeks even under suboptimal temperature conditions. Spent sawdust cultures of Lentinula edodes reduced PCP levels in soil by 44.4-60.5%.
 
-However, the fungus must compete with indigenous microorganisms, and conditions favoring peroxidase production may enhance growth of antagonistic pseudomonads. P. chrysosporium can degrade xenobiotics in soil under non-sterile conditions, indicating ability to compete under natural conditions. Optimization of environmental parameters and selection of superior strains remain key to improving [[mycoremediation-field-applications]].
+However, the fungus must compete with indigenous microorganisms, and conditions favoring peroxidase production may enhance growth of antagonistic pseudomonads. P. chrysosporium can degrade xenobiotics in soil under non-sterile conditions, indicating ability to compete under natural conditions. Optimization of environmental parameters and selection of superior strains remain key to improving [[bioremediation-using-fungi]].
 
 ## See Also
 

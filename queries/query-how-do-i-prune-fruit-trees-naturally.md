@@ -50,7 +50,7 @@ One well-placed thinning cut is often better than ten small cuts scattered throu
 
 Fruit species differ in where they flower, so the same cut can help one crop and reduce another crop.
 Apples and pears often fruit on spurs, while peaches fruit heavily on younger wood.
-[[stone-fruit-tree-care]] is useful because stone fruits require more caution around disease, timing, and fruiting wood.
+stone fruit tree care is useful because stone fruits require more caution around disease, timing, and fruiting wood.
 [[fruit-tree-varieties]] matters because vigor, spur habit, disease resistance, and harvest season all change pruning response.
 If you are unsure, prune lightly and observe where flowers and fruit appear the next season.
 The tree can teach its own pruning pattern if the grower watches rather than imposing a rigid recipe.
@@ -92,7 +92,7 @@ Do not prune every tree identically because species, age, rootstock, and site ex
 - Use [[fruit-tree-pruning]] for basic pruning cuts and [[fruit-tree-pruning-training]] for young tree structure.
 - Compare standard pruning with [[fukuoka-orchard-management-without-pruning]] before cutting heavily.
 - Favor thinning cuts over repeated heading cuts when you want natural form and less water sprout regrowth.
-- Match cuts to species because [[stone-fruit-tree-care]] differs from apple and pear spur management.
+- Match cuts to species because stone fruit tree care differs from apple and pear spur management.
 - Keep the orchard floor healthy with [[fukuoka-orchard-floor-management]] and [[orchard-plant-guilds-mollison]].
 - Prune less when trees are drought-stressed, diseased, frozen, or recovering from damage.
 - Treat pruning as part of [[orchard-management]], not as a substitute for soil and site design.

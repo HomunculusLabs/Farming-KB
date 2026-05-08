@@ -147,5 +147,3 @@ other's growth and productivity. Mollison encourages practitioners to:
 
 This collective guild-building knowledge accelerates the development
 of productive, low-maintenance polycultural systems.
-
-## Modern Digital Tools

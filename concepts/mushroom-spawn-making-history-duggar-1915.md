@@ -67,11 +67,11 @@ Growers should always insist upon receiving fresh, vigorous spawn. The improveme
 - [[grain-spawn-preparation]]
 - [[grain-spawn-types-and-preparation]]
 - [[spawn-production-techniques]]
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 - [[history-of-mushroom-cultivation]]
 - [[history-of-mushroom-cultivation]]
 - [[mushroom-classification-basidiomycete-families]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]
 
 ## Practical Applications
 

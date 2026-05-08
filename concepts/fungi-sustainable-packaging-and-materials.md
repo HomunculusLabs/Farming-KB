@@ -44,7 +44,7 @@ After mushroom fruiting and harvest, the substrate undergoes further transformat
 
 Mycelium binds organic substrates into densely matted, physically robust materials. The article describes myceliated wood chips used for [[soil-erosion-control]]: when depressions and roadside ditches are filled with inoculated chips, mycelium creates a bound network that resists erosion and silt flow.
 
-This demonstrates mycelium's capacity to form coherent structural materials from loose organic matter—principles directly applicable to [[fungi-sustainability-building-materials-mycotecture]]. The [[fungal-lignin-degradation-enzymology]] of lignin and cellulose creates a mycelium-bound composite with structural properties.
+This demonstrates mycelium's capacity to form coherent structural materials from loose organic matter—principles directly applicable to [[bioremediation-using-fungi]]. The [[fungal-lignin-degradation-enzymology]] of lignin and cellulose creates a mycelium-bound composite with structural properties.
 
 ## Integrated Biological Processing Systems
 
@@ -81,6 +81,6 @@ The article notes that critical global environmental problems result from non-su
 
 ## See Also
 
-- [[fungi-sustainability-building-materials-mycotecture]]
+- [[bioremediation-using-fungi]]
 - [[fungi-sustainability-food-security-and-nutrition]]
 - [[fungi-and-sustainability]]

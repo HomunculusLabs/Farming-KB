@@ -38,7 +38,7 @@ In [[mollison-permaculture-two-zone-planning-and-site-layout]], chestnuts are ty
 
 - Eaten raw; tastier roasted, boiled, preserved by drying or pickling
 
-This is the primary commercial species in Europe and the most widely planted chestnut worldwide. Its ability to [[query-how-to-design-a-permaculture-property-from-scratch]] makes it exceptionally valuable for sustainable forestry and [[permaculture-woody-mulch-systems]].
+This is the primary commercial species in Europe and the most widely planted chestnut worldwide. Its ability to [[query-how-to-design-a-permaculture-property-from-scratch]] makes it exceptionally valuable for sustainable forestry and [[permaculture-design]].
 
 ### Castanea crenata (Japanese Chestnut)
 
@@ -88,7 +88,7 @@ The copious leaf fall contributes significant organic matter to the soil surface
 
 ## Cultivation Notes
 
-Chestnuts require well-drained, acidic to neutral soils and full sun for optimal production. They benefit from [[permaculture-earthworks-guide]] to ensure adequate drainage on heavier soils. Spacing of 10-15m is recommended for full-sized trees, with closer spacing possible for coppice systems.
+Chestnuts require well-drained, acidic to neutral soils and full sun for optimal production. They benefit from [[permaculture-water-harvesting-earthworks]] to ensure adequate drainage on heavier soils. Spacing of 10-15m is recommended for full-sized trees, with closer spacing possible for coppice systems.
 
 ## Related
 

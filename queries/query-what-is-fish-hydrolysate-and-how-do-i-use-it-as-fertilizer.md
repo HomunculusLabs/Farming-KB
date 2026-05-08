@@ -66,7 +66,7 @@ process these compounds into plant-available forms. The [[cannabis-living-soil-g
 maintaining active soil biology throughout the grow cycle.
 
 From a soil science perspective, fish hydrolysate supports the
-[[nitrogen-cycle-in-soil]] in several ways. The nitrogen in hydrolysate
+[[composting-and-soil-biology]] in several ways. The nitrogen in hydrolysate
 is primarily in the form of amino acids and proteins rather than soluble
 nitrates. This means it must be mineralized by soil microorganisms before
 plants can take it up, which provides a slow-release effect and reduces
@@ -118,7 +118,7 @@ breaks.
   and oils that heat-processed fish emulsion lacks
 - It feeds the [[soil-food-web]] with biologically active compounds,
   functioning as both fertilizer and microbial stimulant
-- The [[nitrogen-cycle-in-soil]] converts protein-bound nitrogen in
+- The [[composting-and-soil-biology]] converts protein-bound nitrogen in
   hydrolysate into plant-available forms through microbial mineralization
 - Apply as a soil drench at 1 to 4 ounces per gallon every 2 to 4 weeks,
   or as a half-strength foliar spray

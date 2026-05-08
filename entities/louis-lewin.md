@@ -130,6 +130,6 @@ and their effects on human consciousness.
 ## Related
 
 - [[history-psychedelics-ancient]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[psilocybin-toxicity-and-safety-profile]]
 - ethnobotanical history

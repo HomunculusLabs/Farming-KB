@@ -19,7 +19,7 @@ type: concept
 
 Grass seed is a versatile substrate for cultivating Psilocybe species,
 supporting both mushroom fruitbody production and [[fungal-sclerotia-and-resting-structures]] formation. The
-method is particularly well suited for [[psilocybe-mexicana]] and [[psilocybe-tampanensis]], which produce sclerotia directly within colonized grain without
+method is particularly well suited for [[psilocybe-mexicana]] and [[psilocybe-tampanensis-entity]], which produce sclerotia directly within colonized grain without
 requiring a [[mushroom-casing-layers]] layer or fruiting conditions.
 
 ## Suitable Species
@@ -27,9 +27,9 @@ requiring a [[mushroom-casing-layers]] layer or fruiting conditions.
 The grass seed method supports:
 
 - **[[psilocybe-mexicana]]** — mushrooms and sclerotia
-- **[[psilocybe-tampanensis]]** — mushrooms and sclerotia (commonly called
+- **[[psilocybe-tampanensis-entity]]** — mushrooms and sclerotia (commonly called
   "philosopher's stones")
-- **[[psilocybe-cubensis]]** — mushrooms only; [[rye grain]] is preferred
+- **[[psilocybe-cubensis]]** — mushrooms only; [[rye-grain]] is preferred
 - **[[panaeolus-subbalteatus]]** — mushrooms only
 
 ## Substrate Preparation
@@ -85,7 +85,7 @@ immediately.
 ## Casing for Mushroom Production
 
 Fully colonized grain is transferred to 1-litre plastic trays. The surface is
-leveled and covered with 1.5-2.0 cm of [[casing soil]], kept roughly even
+leveled and covered with 1.5-2.0 cm of [[casing-soil]], kept roughly even
 with small valleys and hills.
 
 ### Casing Soil Recipe
@@ -107,7 +107,7 @@ Simple clear plastic bins covered with polyethylene sheeting with melted
 holes for air exchange work well. Evaporation from five cased trays per bin
 provides sufficient humidity. Harder-to-fruit strains benefit from cold shock
 (one night refrigerated); this is unnecessary for easy strains like Ecuador
-[[psilocybe-cubensis]] and unhelpful for [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]].
+[[psilocybe-cubensis]] and unhelpful for [[psilocybe-mexicana]], [[psilocybe-tampanensis-entity]], and [[panaeolus-subbalteatus]].
 
 Mist daily, never let casing dry out. Increase watering after each flush.
 Remove dead pinheads (aborts) promptly to prevent mold. First pinheads appear
@@ -116,7 +116,7 @@ days. Expect 3 flushes per casing (up to 5-6 with proper watering). [[psilocybe-
 
 ## Sclerotia Production
 
-[[psilocybe-tampanensis]] and [[psilocybe-mexicana]] produce sclerotia while
+[[psilocybe-tampanensis-entity]] and [[psilocybe-mexicana]] produce sclerotia while
 still colonizing in the jar — no casing or fruiting chamber needed. Sclerotia
 enlarge until approximately 4 months after inoculation. Jars should be kept in
 a clean, preferably dark location. Sclerotia also form in the casing layer of
@@ -126,8 +126,8 @@ cased trays.
 
 - [[fungal-sclerotia-and-resting-structures]]
 - [[psilocybe-mexicana]]
-- [[psilocybe-tampanensis]]
+- [[psilocybe-tampanensis-entity]]
 - [[psilocybe-cubensis]]
 - [[mushroom-casing-layers]]
-- [[rye grain]]
+- [[rye-grain]]
 - [[mushroom-substrates]]

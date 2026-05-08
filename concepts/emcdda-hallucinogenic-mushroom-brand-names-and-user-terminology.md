@@ -147,4 +147,4 @@ market data.
 [[emcdda-hallucinogenic-mushroom-markets-availability]]
 [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
-[[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+[[hallucinogenic-mushroom-legal-status-europe]]

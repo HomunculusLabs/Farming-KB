@@ -77,4 +77,4 @@ A notable feature discussed by Allen is the significant potency difference betwe
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
 - [[psilocybe-australiana]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

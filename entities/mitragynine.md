@@ -1,8 +1,8 @@
 ---
-title: "Mitragynine"
+title: "mitragynine"
 created: 2026-04-28
 type: chemical
-tags: [alkaloid, opioid-receptor-agonist, indole-alkaloid, analgesic, psychoactive, mitragyna, kratom]
+tags: [alkaloid, opioid-receptor-agonist, [[indole]]-alkaloid, analgesic, psychoactive, mitragyna, kratom]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +26,7 @@ research and regulatory debate.
 - **IUPAC Name:** Methyl (2E)-2-[(2S,3S)-3-ethyl-8-methoxy-1,2,3,4,6,7,
   12,12b-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate
 - **Chemical Class:** Indole alkaloid (corynanthean type)
-- **Structural Family:** Related to yohimbine and [[voacangine]];
+- **Structural Family:** Related to [[yohimbine]] and [[voacangine-entity]];
   contains a corynanthe skeleton with a methoxy-substituted
   indole ring and a methoxycarbonyl side chain
 ### Physicochemical Properties
@@ -48,12 +48,12 @@ research and regulatory debate.
 | δ-opioid (DOR) | Agonist | ~100–300 nM | Antidepressant-like |
 | κ-opioid (KOR) | Weak agonist/antagonist | >1 µM | Dysphoria at high dose |
 | α₂-adrenergic | Agonist | ~1–5 µM | Sedation, antinociception |
-| Serotonin 5-HT₂A | Antagonist | ~1 µM | Modulates mood |
+| [[serotonin]] 5-HT₂A | Antagonist | ~1 µM | Modulates mood |
 | Dopamine D₂ | Weak antagonist | >10 µM | Limited dopaminergic |
 | Adenosine A₂A | Unknown | — | May contribute to stimulation |
 ### Key Pharmacological Features
 - **Partial Mu Agonism:** Mitragynine's partial agonism at MOR
-  produces analgesia without the full efficacy of morphine or
+  produces analgesia without the full efficacy of [[morphine]] or
   fentanyl, which correlates with its lower abuse potential and
   absence of fatal respiratory depression
 - **Biased Signaling:** Preferentially activates G-protein over
@@ -75,7 +75,7 @@ research and regulatory debate.
   blood-brain barrier; moderately protein-bound (~70%)
 - **Metabolism:** Primarily hepatic via CYP3A4 and CYP2D6; major
   pathway: O-demethylation to 7-hydroxymitragynine; also:
-  9-O-demethylation, 16-carboxylation, glucuronidation
+  9-O-demethylation, 16-carboxylation, [[glucuronidation]]
 - **Half-Life:** Terminal half-life ~3.5–9 hours (mitragynine);
   7-hydroxymitragynine ~2.5 hours
 - **Excretion:** Primarily renal (urine); minor fecal excretion
@@ -147,7 +147,3 @@ research and regulatory debate.
 - **Australia:** Schedule 9 (prohibited substance) since 2003
 - **International:** Not scheduled under UN drug conventions
 ## See Also
-
-- [[7-hydroxymitragynine]]
-- 7 hydroxymitragynine (proposed entity)
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] — broader indole alkaloid chemistry context

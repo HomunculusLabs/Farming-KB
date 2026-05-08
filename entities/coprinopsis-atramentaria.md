@@ -120,7 +120,7 @@ The most reliable identification feature distinguishing C. atramentaria from sim
 
 ## See Also
 
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[coprinellus-micaceus]]
 - [[psilocybe-cubensis]]
 - [[amanita-muscaria]]

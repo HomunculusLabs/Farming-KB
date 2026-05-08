@@ -63,7 +63,7 @@ dormant for at least one growing season. Fresh valerian roots have a
 distinctive and very strong odor that many find unpleasant, but this
 dissipates when the roots are properly dried.
 
-The [[holy-basil-tulsi-guide]] guide covers one of the
+The holy basil tulsi guide guide covers one of the
 most revered herbs in Ayurvedic tradition. Tulsi is an adaptogenic herb that
 supports stress resilience, immune function, and overall vitality. It is
 easy to grow from seed and thrives in warm conditions with plenty of
@@ -97,7 +97,7 @@ these delicate compounds for long-term storage.
 - Dry herbs quickly in a well-ventilated, dark space to preserve volatile
   oils and active compounds
 - [[ashwagandha-growing-guide]] and
-  [[holy-basil-tulsi-guide]] are excellent adaptogens for home
+  holy basil tulsi guide are excellent adaptogens for home
   cultivation in warm climates
 - [[valerian-growing-guide]] and chamomile provide reliable calming
   and sleep support with relatively easy cultivation requirements

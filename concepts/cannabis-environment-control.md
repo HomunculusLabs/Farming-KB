@@ -130,4 +130,4 @@ Modern grow controllers integrate temperature, humidity, CO2, and light manageme
 - **TrolMaster**: Full environmental control with CO2, lighting, and irrigation integration
 - **Inkbird ITC-308**: Budget-friendly temperature controller for heating/cooling
 
-Consistent environmental control during [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] reduces stress and pest susceptibility, as covered in [[cannabis-pest-management]] and [[cannabis-disease-guide]]. Proper [[cannabis-nutrient-recipes]] also depend on stable environmental conditions for optimal uptake.
+Consistent environmental control during [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] reduces stress and pest susceptibility, as covered in cannabis pest management and [[cannabis-disease-guide]]. Proper [[cannabis-nutrient-recipes]] also depend on stable environmental conditions for optimal uptake.

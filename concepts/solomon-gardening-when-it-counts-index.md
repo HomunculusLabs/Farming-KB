@@ -76,13 +76,13 @@ Pages on related gardening topics created from other sources:
 
 - [[growing-food-in-hard-times]] - Solomon's approach to food self-sufficiency
 
-- [[wireworm-control]] - Pest management from Solomon
+- [[organic-vegetable-growing-and-market-gardening]] - Pest management from Solomon
 
 - [[geoff-hamilton-organic-techniques]] - Complementary organic gardening perspective
 
 - [[organic-composting-methods]] - Composting methods from Hamilton
 
-- [[garden-tools-selection]] - Garden tools overview
+- [[organic-vegetable-growing-and-market-gardening]] - Garden tools overview
 
 ## Source Statistics
 

@@ -148,5 +148,3 @@ species adapted to seasonal moisture stress.
 
 - [[comparison-syntropic-vs-permaculture]]
 - [[permaculture-design]]
-- [[permaculture-climate-zones]]
-- [[permaculture-water-systems]]

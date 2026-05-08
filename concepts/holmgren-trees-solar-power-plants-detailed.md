@@ -121,7 +121,7 @@ question of how to create forests that were agriculturally productive, rather
 than simply seeing the need for less farmland and more forest for catchment
 protection.
 
-The [[holmgren-zones-and-sectors-design-framework]] places forests primarily in
+The [[permaculture-design]] places forests primarily in
 Zone 4 (managed rangeland and forests) and Zone 5 (wilderness ecological
 reference), but their influence extends through all zones via shelter, water
 regulation, and nutrient cycling.

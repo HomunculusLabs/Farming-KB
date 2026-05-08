@@ -110,7 +110,7 @@ Due to the lack of formal pharmacological research, individuals with cardiovascu
 
 ## See Also
 
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[proscaline]]
 - [[escaline-entity]]
 - [[2c-b]]

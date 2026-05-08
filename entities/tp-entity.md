@@ -9,7 +9,7 @@ sources:
 ---
 # TP (Thioproscaline; 3,5-Dimethoxy-4-(n)-propylthiophenethylamine)
 
-TP is a sulfur-substituted phenethylamine and the n-propylthio homologue of [[proscaline-entity]]. It is one of the most potent compounds in the thio-series of mescaline analogues explored in PIHKAL. The compound is listed as PIHKAL entry #174.
+TP is a sulfur-substituted phenethylamine and the n-propylthio homologue of [[proscaline]]. It is one of the most potent compounds in the thio-series of mescaline analogues explored in PIHKAL. The compound is listed as PIHKAL entry #174.
 
 ## Chemical Classification
 
@@ -17,7 +17,7 @@ TP belongs to the phenethylamine class of chemical compounds.
 
 It is formally named 3,5-dimethoxy-4-(n)-propylthiophenethylamine, also known as thioproscaline.
 
-TP is the n-propylthio analogue of [[proscaline-entity]], where the 4-propoxy group of proscaline is replaced by a 4-n-propylthio group.
+TP is the n-propylthio analogue of [[proscaline]], where the 4-propoxy group of proscaline is replaced by a 4-n-propylthio group.
 
 The compound follows the general pattern of thio-analogues: replacing an oxygen atom with a sulfur atom.
 
@@ -29,7 +29,7 @@ TP is a highly potent psychedelic compound with a dosage range of only 20 to 25 
 
 The duration of effects is 10 to 15 hours.
 
-This represents a dramatic increase in potency over the parent compound [[proscaline-entity]], which is active at doses above 150 mg.
+This represents a dramatic increase in potency over the parent compound [[proscaline]], which is active at doses above 150 mg.
 
 The potency increase of approximately 6-8 times is attributed to the sulfur substitution.
 
@@ -49,7 +49,7 @@ The thio-series of mescaline analogues demonstrates a consistent pattern of incr
 
 [[mescaline-entity]] itself requires doses of 200-400 mg.
 
-[[proscaline-entity]] (with a 4-propoxy group) requires doses above 150 mg.
+[[proscaline]] (with a 4-propoxy group) requires doses above 150 mg.
 
 TP (with a 4-n-propylthio group) requires only 20-25 mg, representing a dramatic increase.
 
@@ -81,7 +81,7 @@ The heavy body feeling may be concerning for some users.
 
 ## See Also
 
-[[proscaline-entity]]
+[[proscaline]]
 
 [[mescaline-entity]]
 

@@ -91,7 +91,7 @@ Field-scale application of fungal degradation for dioxins and PCBs faces several
 
 - **Monitoring requirements** -- analytical detection of dioxins and PCBs requires sophisticated equipment (GC-MS), making treatment monitoring expensive
 
-Despite these challenges, [[mycoremediation-field-applications]] have shown promise, particularly when combined with soil amendments (surfactants, organic co-substrates) and physical treatments (soil mixing, aeration) that enhance pollutant bioavailability.
+Despite these challenges, [[bioremediation-using-fungi]] have shown promise, particularly when combined with soil amendments (surfactants, organic co-substrates) and physical treatments (soil mixing, aeration) that enhance pollutant bioavailability.
 
 ## See Also
 
@@ -103,6 +103,6 @@ Despite these challenges, [[mycoremediation-field-applications]] have shown prom
 
 - [[white-rot-fungi-bioremediation]]
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 
 - [[fungal-treatment-of-industrial-wastewaters]]

@@ -148,5 +148,3 @@ the full potential of these remarkable plants.
 - [[cannabis-sativa-vs-indica-guide]]
 - [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-photoperiodism-and-light-cycles]]
-- [[defoliation-cannabis]]
-- [[nigella-sativa]]

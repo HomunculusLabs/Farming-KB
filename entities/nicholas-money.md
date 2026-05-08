@@ -74,7 +74,7 @@ Money's ability to explain complex mycological concepts in vivid, literary prose
 
 - [[ingold-cecil-t]] — Money documented Ingold's aquatic fungi discovery (book dedicated to him)
 
-- [[fairy-rings-and-giant-mycelia]] — fungal ecology topics Money covers
+- [[mushroom-contamination-identification-and-troubleshooting]] — fungal ecology topics Money covers
 
 - [[fungal-parasites-and-predators]] — predatory fungi covered in Money's book
 

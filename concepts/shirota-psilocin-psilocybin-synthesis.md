@@ -14,7 +14,7 @@ Osamu Shirota, Wataru Hakamata, and Yukihiro Goda published "Concise
 Large-Scale Synthesis of Psilocin and Psilocybin" in the Journal of Natural
 Products in 2003. Working at the National Institute of Health Sciences in
 Tokyo, the team achieved the first gram-scale syntheses of both [[psilocin]]
-(4-HO-DMT) and [[psilocybin]] (4-PO-DMT), the principal hallucinogenic
+(4-HO-DMT) and [[psilocybin-compound]] (4-PO-DMT), the principal hallucinogenic
 constituents of "magic mushrooms," without requiring any chromatographic
 purification step.
 
@@ -123,7 +123,7 @@ excess reagent.
 
 Catalytic hydrogenolysis of the zwitterionic intermediate using palladium on
 carbon in methanol at room temperature removed both benzyl groups and yielded
-[[psilocybin]] as a white needle crystalline powder. The overall isolated yield
+[[psilocybin-compound]] as a white needle crystalline powder. The overall isolated yield
 from psilocin was greater than 72%, even at gram scale, with melting point 190
 to 198 degrees Celsius, consistent with literature values. The product was
 obtained without any chromatographic purification such as the anion-exchange

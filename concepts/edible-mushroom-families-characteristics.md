@@ -65,7 +65,7 @@ The critical distinction is between Boleti (ground-growing, with distinct stems 
 - Color change to red or blue when bruised or cut (though this alone does not indicate poison unless accompanied by bitterness)
 
 ### Notable Edible Species
-- [[boletus-edulis]] — the famous "Cep" of European cuisine, imported canned as "Cepes a l'huile"
+- [[boletus-edulis-entity]] — the famous "Cep" of European cuisine, imported canned as "Cepes a l'huile"
 - Boletus sub-tomentosus — the olive-red boletus, one of Palmer's favorites, though dangerous when waterlogged
 - Boletus aestivalis — delicious but susceptible to absorbing environmental odors
 
@@ -148,9 +148,3 @@ Palmer's rule: "If they are perfectly dry, taste a small piece. If it is not an 
 ## Clavaria (Coral Fungi)
 
 Club-shaped or coral-like fungi growing in forests, described by Palmer as "more delicate food than cauliflower, nicer in soup or stew than vermicelli." They have little branches dividing from a common base, grow from a few inches to two feet, and must be eaten young before becoming infested with maggots. Cut off just below the top and gathered perfectly clean.
-
-## See Also
-
-- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
-- [[edible-wild-mushroom-guide]]
-- [[hallucinogenic-mushroom-species-families-overview]]

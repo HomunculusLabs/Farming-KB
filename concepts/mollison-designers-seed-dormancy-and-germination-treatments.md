@@ -148,8 +148,3 @@ methods that mirror natural processes.
 - [[mollison-designers-seed-pelleting-and-pretreatment]]
 - [[permaculture-designers-manual-pioneer-species]]
 - [[permaculture-designers-manual-plant-nursery]]
-- [[biointensive-seed-saving]]
-- [[permaculture-seed-saving-breeding]]
-- [[permaculture-designers-manual-cold-climates]]
-- [[mollison-no-tillage-grain-systems]]
-- [[temperature-effects-plant-nutrient-uptake]]

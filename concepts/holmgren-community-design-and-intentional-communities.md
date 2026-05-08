@@ -96,4 +96,4 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 - [[permaculture-intentional-community-design]]
 - [[holmgren-intentional-communities-history]]
 - [[faires-permaculture-community-and-village-design]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

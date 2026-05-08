@@ -148,4 +148,3 @@ crack detection), radiography, eddy current, and acoustic emission.
 - [[natural-building-materials-guide]]
 - [[building-with-natural-materials]]
 - [[comparison-cob-building-vs-adobe-construction]]
-- [[fungi-sustainability-building-materials-mycotecture]]

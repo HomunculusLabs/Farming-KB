@@ -53,7 +53,7 @@ The [[forests-in-permaculture]] principle is embodied here: the forest was treat
 
 On very exposed dry sites, the Hawaiians used "tiny rock walls, little rock mulch walls in amazingly intricate cross-wind patterns, sometimes only ten feet apart." Behind these they grew dryland crops like sweet potato, and a dryland fern for mulch. Mollison marvels: "You can do no better than to study the ancient technology of the Hawaiian gardener. For what limited species he had at his command, he was a superb technician and an excellent designer."
 
-This patterning is "all over the landscape" and can be read with a [[permaculture-design-methods]] eye to understand the water-harvesting and wind-management principles at work. The rock mulch walls created microclimates that retained moisture and moderated temperature, allowing cultivation on sites that would otherwise be barren.
+This patterning is "all over the landscape" and can be read with a [[permaculture-design]] eye to understand the water-harvesting and wind-management principles at work. The rock mulch walls created microclimates that retained moisture and moderated temperature, allowing cultivation on sites that would otherwise be barren.
 
 ## Climate Games on High Islands
 

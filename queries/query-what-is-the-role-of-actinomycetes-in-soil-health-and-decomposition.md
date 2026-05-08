@@ -140,22 +140,6 @@ These products are available as wettable powders or granules for soil drench, se
 | Decomposition speed | Slower; specialize in recalcitrant materials | Faster; dominate early decomposition |
 | Lignin degradation | Limited (some species) | Excellent (white-rot and brown-rot fungi) |
 | Cellulose degradation | Very good; heat-stable enzymes | Excellent; cellulase complexes |
-| Temperature tolerance | Higher (thermophilic species to 70°C) | Lower (most mesophilic; some thermophilic) |
-| Antibiotic production | Extensive; diverse antibiotics | Limited; mainly secondary metabolites |
-| pH tolerance | Prefers neutral to alkaline | Broader range; many acid-tolerant |
-| Role in composting | Dominates thermophilic and curing phases | Dominates mesophilic early phase |
-
-In practice, actinomycetes and fungi are **complementary** rather than competitive. Healthy soils and composts contain abundant populations of both, and the decomposition of organic matter is most efficient when the full spectrum of decomposer organisms is present.
-
-## Key Takeaways
-
-1. **Actinomycetes are essential decomposers** that specialize in breaking down the toughest plant polymers (cellulose, hemicellulose, chitin, and partially lignin)
-2. **They are nature's antibiotics factory**, producing compounds that suppress plant diseases and shape soil microbial communities
-3. **They fix nitrogen** (*Frankia*) and **solubilize phosphorus**, contributing directly to plant nutrition
-4. **The earthy smell of good soil is geosmin**, a volatile compound produced by actinomycetes—a reliable indicator of biological activity
-5. **Promoting actinomycetes** is best achieved through compost addition, reduced tillage, cover cropping, and minimal use of synthetic inputs
-6. **They complement fungi** in the decomposition food web: fungi dominate early decomposition of fresh material, while actinomycetes handle the recalcitrant residues that remain
-
 ## See Also
 
 - Actinomycetes and Soil Ecology

@@ -76,7 +76,7 @@ The species is found in pastures, grassy fields, and forest clearings, often gro
 
 ## Chemistry
 
-psilocybe rugosoannulata contains [[psilocybin]] and [[psilocin]] as its primary active compounds. While quantitative analytical data is limited due to the species' relative rarity in collections, available data suggests moderate alkaloid levels consistent with other Neotropical coprophilous Psilocybe species.
+psilocybe rugosoannulata contains [[psilocybin-compound]] and [[psilocin]] as its primary active compounds. While quantitative analytical data is limited due to the species' relative rarity in collections, available data suggests moderate alkaloid levels consistent with other Neotropical coprophilous Psilocybe species.
 
 Baeocystin has been detected as a minor constituent. The alkaloid profile of dung-inhabiting Psilocybe species often shows higher variability than that of wood-inhabiting species, possibly reflecting differences in substrate nutrient availability and microbial competition in the coprophilous niche. Studies of psilocybin variation across the genus have documented that environmental factors including substrate nitrogen content, temperature during fruiting, and degree of desiccation all influence final alkaloid concentrations.
 
@@ -97,7 +97,7 @@ psilocybe rugosoannulata was described by Rolf Singer as part of his monumental 
 
 ## Toxicity and Safety
 
-psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocybin]] and [[psilocin]] have low physiological toxicity, and no deaths have been attributed to psilocybin mushroom ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with psilocybin mushrooms. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
+psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocybin-compound]] and [[psilocin]] have low physiological toxicity, and no deaths have been attributed to psilocybin mushroom ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with psilocybin mushrooms. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
 
 ## Ethnobotanical Context
 
@@ -119,4 +119,4 @@ The presence of psilocybe rugosoannulata in tropical pastures indicates a health
 
 ## Legal Status
 
-psilocybe rugosoannulata is controlled as a psilocybin-containing species under the drug laws of most countries where it occurs. In Brazil, psilocybin mushrooms are not specifically scheduled, but the active compounds [[psilocybin]] and [[psilocin]] are controlled substances under international conventions including the UN Convention on Psychotropic Substances. In Colombia and Ecuador, the species is implicitly controlled through the scheduling of its active constituents.
+psilocybe rugosoannulata is controlled as a psilocybin-containing species under the drug laws of most countries where it occurs. In Brazil, psilocybin mushrooms are not specifically scheduled, but the active compounds [[psilocybin-compound]] and [[psilocin]] are controlled substances under international conventions including the UN Convention on Psychotropic Substances. In Colombia and Ecuador, the species is implicitly controlled through the scheduling of its active constituents.

@@ -38,7 +38,7 @@ reliable main crop are preferred.
 
 Choosing the right variety is the single most important decision for cold-
 climate fig growing. The following varieties have proven hardiness and
-reliable fruit production in zones 5 through 7.
+reliable [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in zones 5 through 7.
 
 | Variety | Hardiness | Fruit Quality | Notes |
 |---------|-----------|--------------|-------|
@@ -47,7 +47,7 @@ reliable fruit production in zones 5 through 7.
 | Celeste | Zone 6 (0°F) | Small, violet, very sweet | Closed eye resists rain |
 | LSU Purple | Zone 6 (0°F) | Purple, excellent flavor | Good for humid areas |
 | Hardy Chicago | Zone 5 (-10°F) | Brown, good producer | Same as Chicago Hardy |
-| Violette de Bordeaux | Zone 6 (5°F) | Dark purple, exceptional | Best flavor for cold areas |
+| Violette de Bordeaux | Zone 6 (5°F) | Dark purple, exceptional | [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] for cold areas |
 | Desert King | Zone 6 (0°F) | Green skin, pink flesh | Excellent breba crop |
 | Negronne | Zone 6 (0°F) | Black, berry-like flavor | Compact growth habit |
 
@@ -58,7 +58,7 @@ offering reliable production with moderate winter protection.
 
 ## Creating a Protected Microclimate
 
-Microclimate management is essential for fig success in cold regions. Figs
+[[natural-farming-guide-microclimate-management]] is essential for fig success in cold regions. Figs
 planted against a south-facing wall receive reflected heat and wind
 protection, often creating a zone that is 5 to 10 degrees warmer than the
 surrounding area. Brick, stone, or stucco walls absorb heat during the day
@@ -68,11 +68,11 @@ Other microclimate strategies include planting near large rocks or pavement
 that radiate heat, and placing figs under evergreen canopy for wind protection.
 Avoid planting in low-lying frost pockets where cold air collects.
 
-## Winter Protection Methods
+## Winter [[holzer-browsing-protection-methods]]
 
 Several winter protection methods allow figs to survive and produce in zones
 5 and 6. The simplest approach is heavy mulching. After the first hard frost
-causes leaf drop, pile 12 to 18 inches of straw, leaves, or wood chips over
+causes leaf drop, pile 12 to 18 inches of straw, leaves, or [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] over
 the base of the plant. This insulates the root crown and lower trunk, which
 is the most cold-sensitive part of the tree. Even if all above-ground wood
 dies back, a protected root crown will send up vigorous new shoots in spring.
@@ -92,7 +92,7 @@ and staked upright. This method allows figs to survive in zone 4 with
 minimal dieback, but it requires a flexible young tree and significant
 physical effort each fall and spring.
 
-## Container Growing as an Alternative
+## [[container-growing-vegetables-herbs]] as an Alternative
 
 Growing figs in containers is a practical alternative for cold-climate
 growers who want to avoid winter protection routines. Figs have shallow root
@@ -148,9 +148,3 @@ fermentation. Choose closed-eye varieties like Celeste to prevent this issue.
 - [[query-how-to-grow-passionfruit-in-different-climates]]
 
 - [[query-how-to-grow-avocados-in-cold-climates]] Questions
-
-- [[query-how-to-build-a-raised-bed-garden]]
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
-- [[query-how-do-i-create-microclimates-in-my-garden]]
-- [[query-how-to-grow-food-in-small-spaces-vertically]]
-- [[query-how-to-grow-citrus-in-cold-climates]]

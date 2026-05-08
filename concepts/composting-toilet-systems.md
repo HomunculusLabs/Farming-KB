@@ -142,19 +142,6 @@ A permanent installation with a larger composting chamber:
   water system design
 - **National standards**: NSF/ANSI 41 is the US standard for composting
   toilets; look for certified models
-## Choosing the Right System
-| Factor | Self-Contained | Centralized | DIY UDDT |
-|---|---|---|---|
-| Upfront cost | $800-2,500 | $3,000-10,000 | $100-500 |
-| Installation | Easy | Moderate | Easy-Moderate |
-| Capacity | 1-2 people | 4-6 people | 2-4 people |
-| Electricity | Often required | Often required | None |
-| Maintenance | Frequent | Moderate | Frequent |
-| Best for | Cabins, small homes | Family homes | Off-grid homesteads |
-For complementary off-grid water and sanitation infrastructure, see
-[[well-drilling-and-maintenance]], [[rainwater-harvesting-systems]], and
-[[water-management]].
-
 ## See Also
 
 [[thermal-composting-vs-aact]] — Comparing thermal composting with actively aerated compost tea

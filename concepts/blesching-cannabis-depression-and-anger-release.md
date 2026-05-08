@@ -148,5 +148,3 @@ dopaminergic, and serotonergic systems.
 - [[cannabidiol-cbd]]
 - [[blesching-cannabis-endocannabinoid-mind-body]]
 - [[blesching-cannabis-serotonin-endocannabinoid-system]]
-- [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
-- [[cannabis-health-index]]

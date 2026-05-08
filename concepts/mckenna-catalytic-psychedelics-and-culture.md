@@ -12,7 +12,7 @@ tags: [culture, psychedelics]
 
 The concept of psychedelics as cultural catalysts is the unifying theoretical
 framework of [[mckenna-food-of-the-gods-thesis]].
-[[terence-mckenna-stoned-ape-hypothesis]] argues that psychoactive plants do not cause consciousness
+[[psychedelic-mushrooms-species-and-identification]] argues that psychoactive plants do not cause consciousness
 but rather catalyze processes already present, dramatically accelerating the
 emergence of language, religion, social bonding, and cultural innovation. This
 "catalytic model" underpins his [[mckenna-food-of-the-gods-stoned-ape-hypothesis]], his reading of history, and his prescription for the future.

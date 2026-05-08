@@ -25,13 +25,13 @@ active compounds:
 
 1. **Psilocybin and related indole alkaloids** — The largest group,
    encompassing the majority of known neurotropic species. The principal
-   compounds are [[psilocybin]], [[psilocin]], [[baeocystin]], and
+   compounds are [[psilocybin-compound]], [[psilocin]], [[baeocystin]], and
    [[norbaeocystin]]. These are tryptamine derivatives that act primarily
    as serotonin 5-HT2A receptor agonists.
 
 2. **Ibotenic acid and muscimol** — Found in species of Amanita, notably
    [[allegro-colour-and-consistency-of-the-amanita-muscaria]], [[amanita-pantherina]], and
-   [[amanita-regalis]]. These GABAergic compounds produce a
+   [[amanita-regalis-entity]]. These GABAergic compounds produce a
    fundamentally different psychoactive profile compared to the psilocybin
    group, often described as deliriant rather than psychedelic.
 
@@ -106,7 +106,7 @@ hemisphere, concentrated in subtropical humid forests. See
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - Psilocybe
 - [[entheogenic-fungi-in-mexico]]
 - [[amanita-muscaria]]

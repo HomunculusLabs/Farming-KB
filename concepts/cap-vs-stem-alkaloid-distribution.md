@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The distribution of [[psilocybin]] and [[psilocin]] between the cap (pileus) and stem (stipe) of [[psilocybe-cubensis]] fruiting bodies is not uniform. Research by Bigwood and Beug (1982) demonstrates that caps consistently contain higher concentrations of psilocybin than stems, while psilocin distribution between these tissues varies dramatically by strain. Understanding this tissue-specific alkaloid localization provides insight into both the biology of tryptamine biosynthesis and the practical considerations of mushroom consumption and analysis.
+The distribution of [[psilocybin-compound]] and [[psilocin]] between the cap (pileus) and stem (stipe) of [[psilocybe-cubensis]] fruiting bodies is not uniform. Research by Bigwood and Beug (1982) demonstrates that caps consistently contain higher concentrations of psilocybin than stems, while psilocin distribution between these tissues varies dramatically by strain. Understanding this tissue-specific alkaloid localization provides insight into both the biology of tryptamine biosynthesis and the practical considerations of mushroom consumption and analysis.
 
 ## Anatomical Context
 
@@ -70,7 +70,7 @@ Several biological mechanisms may explain the differential alkaloid distribution
 
 ### Cap Tissues as Primary Biosynthetic Sites
 
-The cap contains the [[gill tissue]] (lamellae) where spores are produced. The hymenium is one of the most metabolically active regions of the fruiting body, with high rates of cell division, protein synthesis, and secondary metabolite production. Higher psilocybin concentrations in caps likely reflect greater enzymatic activity in the spore-producing tissues, where the biosynthetic enzymes for tryptamine alkaloids are most abundantly expressed.
+The cap contains the [[gill-tissue]] (lamellae) where spores are produced. The hymenium is one of the most metabolically active regions of the fruiting body, with high rates of cell division, protein synthesis, and secondary metabolite production. Higher psilocybin concentrations in caps likely reflect greater enzymatic activity in the spore-producing tissues, where the biosynthetic enzymes for tryptamine alkaloids are most abundantly expressed.
 
 ### Stem as a Transport or Conversion Tissue
 

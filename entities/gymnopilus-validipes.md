@@ -11,7 +11,7 @@ type: entity
 # Gymnopilus validipes
 
 **Type:** Species (Fungus)
-**Category:** [[psilocybin]]-containing mushroom (minor genus)
+**Category:** [[psilocybin-compound]]-containing mushroom (minor genus)
 **Also known as:** validipes Gymnopilus, big-laughing gym
 
 ## Overview
@@ -76,7 +76,7 @@ characteristic bitter taste of G. spectabilis, making identification
 more challenging.
 
 ## See Also
-- [[gymnopilus-spectabilis]]
+- [[gymnopilus-spectabilis-entity]]
 - [[armillaria-mellea]]
 - [[gymnopilus-luteofolius]]
 - [[gymnopilus-purpuratus]]

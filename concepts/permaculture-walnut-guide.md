@@ -45,7 +45,7 @@ Walnuts can be grown from seed or grafted cultivars. For seed propagation, plant
 
 ## Companion Planting
 
-Black walnut produces juglone, a chemical compound allelopathic to many plants. In [[permaculture-design-principles-beginners]], this means careful companion selection is essential. Juglone-tolerant plants include black raspberry, pawpaw, elderberry, persimmon, and currants. Many common vegetables (tomatoes, potatoes, peppers, eggplant) are highly sensitive and should not be planted near walnuts. In [[permaculture-tree-crop-systems]], walnuts are best placed at the edge of food forests where their juglone influence is limited. As [[permaculture-wildlife-corridors]], walnuts serve as long-term canopy elements providing nuts, timber, and wildlife habitat.
+Black walnut produces juglone, a chemical compound allelopathic to many plants. In [[permaculture-design-principles]], this means careful companion selection is essential. Juglone-tolerant plants include black raspberry, pawpaw, elderberry, persimmon, and currants. Many common vegetables (tomatoes, potatoes, peppers, eggplant) are highly sensitive and should not be planted near walnuts. In [[permaculture-tree-crop-systems]], walnuts are best placed at the edge of food forests where their juglone influence is limited. As [[permaculture-wildlife-corridors]], walnuts serve as long-term canopy elements providing nuts, timber, and wildlife habitat.
 
 ## Culinary Uses
 

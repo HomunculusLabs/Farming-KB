@@ -87,7 +87,7 @@ Soil fungi show distinct vertical stratification:
 - **Grasslands**: High diversity of AM fungi and saprotrophs
 - **Agricultural soils**: Reduced diversity; dominated by fast-growing Ascomycetes
 - **Disturbed soils**: Shift toward r-selected species (fast-growing, generalist)
-- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[no-till-gardening-method]])
+- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[composting-and-soil-biology]])
 
 ### Seasonal and Temporal Dynamics
 - Fungal biomass and community composition fluctuate seasonally

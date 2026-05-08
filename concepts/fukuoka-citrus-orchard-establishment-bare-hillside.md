@@ -14,8 +14,6 @@ orchards from bare hillside land, providing a practical model for
 [[fukuoka-natural-orchard-development]]
 without plowing, fertilizers, or pesticides.
 
-
-
 ## Starting from Scratch
 
 After the war, when Fukuoka first began farming, he started with 1 3/4
@@ -28,8 +26,6 @@ and uncultivated for many years.
 The method was simple: all he did was dig holes in a contour line and
 plant the citrus seedlings. He did not plow the land or apply any
 fertilizer.
-
-
 
 ## The Natural Succession Process
 
@@ -45,8 +41,6 @@ orchard. The key difference was that the soil had been built up
 naturally over those years through the action of the weeds and grasses,
 without any artificial inputs.
 
-
-
 ## The Orchard Ecosystem
 
 In conventional fruit orchards, there was not a blade of grass to be
@@ -57,8 +51,6 @@ cover have become common.
 
 Fukuoka grew several varieties of citrus on the hillsides near his
 home. The system worked as a complete [[fukuoka-natural-farming-philosophy-of-mu]] alongside rice, barley, and [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]].
-
-
 
 ## Connection to Pruning Philosophy
 
@@ -74,12 +66,10 @@ Growing fruit without pruning, fertilizing, or using chemical sprays
 is possible. It all begins with planting the seedling and allowing it
 to develop its natural shape.
 
-
-
 ## See Also
 
 - [[fukuoka-natural-orchard-development]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-orchard-floor-management]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - [[fukuoka-argument-against-pruning]]

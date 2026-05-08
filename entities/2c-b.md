@@ -31,15 +31,15 @@ sources:
 | CAS Number | 66142-81-2 |
 | Formula | C₁₀H₁₄BrNO₂ |
 | Molecular Weight | 260.14 g/mol |
-| Class | Substituted phenethylamine (2C family) |
+| Class | Substituted phenethylamine ([[2c-family-compounds-overview]]) |
 | Smiles | COc1cc(Br)c(cc1OCC)OC |
-| First Synthesized | 1974 by Alexander Shulgin |
+| First Synthesized | 1974 by [[alexander-shulgin]] |
 
 ## Overview
 
-2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by Alexander Shulgin in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD and psilocybin) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced sensory perception, and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
+2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by Alexander Shulgin in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD [[cia-mkultra-and-psilocybin]] in]]) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced sensory perception, and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
 
-The compound gained significant popularity in the global psychedelic community during the 1980s and 1990s, initially sold legally as an aphrodisiac under brand names like "Nexus" and "Erox" before being scheduled internationally. It remains one of the most commonly used novel psychedelics worldwide.
+The compound gained significant popularity in the [[global-psychedelic-mushroom-species-diversity]] community during the 1980s and 1990s, initially sold legally as an aphrodisiac under brand names like "Nexus" and "Erox" before being scheduled internationally. It remains one of the most commonly used novel psychedelics worldwide.
 
 ## Pharmacology
 

@@ -1,5 +1,5 @@
 ---
-title: "Laccaria proxima"
+title: "laccaria proxima"
 created: 2026-04-28
 type: species
 tags:
@@ -11,7 +11,7 @@ tags:
   - temperate-fungi
   - europe
   - north-america
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixation
   - forest-ecology
   - pioneer-fungus
@@ -27,16 +27,15 @@ sources:
   - Chambers, S.M. et al. (2000). "Molecular identification of Laccaria spp. associated with Salix in Australia." Mycological Research 104(1): 37-45.
   - Kropp, B.R. (2013). "Mycorrhizal inoculation of seedlings of Salix." Forest Ecology and Management 304: 348-353.
 ---
-
 ## Overview
 
 *Laccaria proxima* is a mycorrhizal agaric mushroom in the family Hydnangiaceae,
 widely distributed across temperate and boreal regions of the Northern Hemisphere.
-The species forms ectomycorrhizal associations primarily with willows (*Salix* spp.)
+The species forms [[ectomycorrhizal-associations]] primarily with willows (*Salix* spp.)
 and other pioneer trees in disturbed, nitrogen-poor, or sandy habitats including
 coastal dunes, riverbanks, and reclaimed mine sites. Its role as an early-stage
-mycorrhizal partner in primary succession and ecological restoration has made it
-a focus of research in land reclamation and permaculture applications. The mushroom
+mycorrhizal partnerdighton-fungi-volcanic-glacier-primary-successionsion [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] tion has made it
+aquery-best-goat-breeds-[[query-best-grain-legumes-for-a-small-homestead]] tead-and-permaculturech in [[pioneer-species-for-land-reclamation]] [[query-best-goat-breeds-for-small-homestead-and-permaculture]] applications. [[allegro-canaanite-religion-and-the-mushroom]]
 is edible, though not widely collected for the table due to its small size and
 fibrous texture.
 
@@ -47,7 +46,7 @@ proxima***
 
 Described by Jean-Baptiste Émile Boudier in 1887 from French collections. The genus
 *Laccaria* contains approximately 75 species worldwide, characterized by
-long-spined basidia and amyloid spore ornamentation. *L. proxima* belongs to the
+long-spined basidia and amyloid [[spore]] ornamentation. *L. proxima* belongs to the
 *Laccaria laccata* species complex, a group of morphologically similar species
 differentiated by microscopic features and molecular phylogeny. Within this
 complex, *L. proxima* is distinguished by its preference for willow associates
@@ -92,7 +91,7 @@ and alders (*Alnus* spp.). Fruiting from late summer through autumn (August–No
 *Laccaria proxima* forms ectomycorrhizal associations that are ecologically
 significant in several contexts:
 
-- **Pioneer species**: As one of the first ectomycorrhizal fungi to colonize
+- **Pioneer species**: As one of the first [[ectomycorrhizal-fungi]] to colonize
   disturbed or primary successional sites, *L. proxima* facilitates
   establishment of willow and other pioneer trees on nutrient-poor substrates.
 - **Nutrient exchange**: The mycorrhizal mantle enhances host plant uptake of
@@ -109,12 +108,12 @@ significant in several contexts:
 ## Ecological Restoration and Permaculture
 
 *Laccaria proxima* has direct applications in ecological restoration and
-permaculture design:
+[[permaculture-design]]:
 
 - **Mine site reclamation**: Inoculation of willow seedlings with *L. proxima*
   significantly improves survival and growth on heavy-metal-contaminated mine
   tailings and spoil heaps. The fungal mantle binds metals, reducing
-  phytotoxicity while enabling plant nutrient uptake.
+  phytotoxicity while enabling [[plant-nutrient-uptake]].
 - **Dune stabilization**: Willows mycorrhized with *L. proxima* establish
   more rapidly on coastal dunes, contributing to sand stabilization and
   facilitating succession to more diverse plant communities.
@@ -143,11 +142,7 @@ mushrooms from other genera is possible for inexperienced foragers.
   habitats; more delicate stipe and more pronounced lilac tones.
 - ***Laccaria bicolor***: North American species with distinctive violet-blue
   tones on cap and stipe; associated with conifers and hardwoods.
-- ***Laccaria amethystina***: Larger, with distinctive deep violet color
+- ***[[laccaria-amethystina]]***: Larger, with distinctive deep violet color
   throughout; found in forest settings, not typically in sandy dunes.
 
 ## See Also
-
-- [[ectomycorrhiza]]
-- [[ectomycorrhizal-associations]]
-- [[ectomycorrhizal-fungi]]

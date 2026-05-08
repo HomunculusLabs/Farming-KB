@@ -1,13 +1,12 @@
 ---
-title: "Kalman Filter"
+title: "kalman filter"
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
 tags: []
 type: concept
 ---
-
-# Kalman Filter
+# [[kalman-filter-vs-wavelet-transform]]
 ## Overview
 The kalman filter wavelet is a recursive algorithm for estimating the hidden state of a dynamic system.
 It combines predictions from a mathematical model with noisy measurements from sensors or observations.
@@ -18,9 +17,8 @@ Under those assumptions it is the optimal minimum-variance estimator.
 The filter tracks both a state estimate and an uncertainty estimate.
 Uncertainty is represented by a covariance matrix that changes as evidence accumulates.
 The method is recursive, so it does not need to store the full history of measurements.
-This makes it useful for real-time systems with limited memory and processing power.
-## Core idea
-A Kalman filter alternates between prediction and correction.
+This makes it useful for real-time syssmall-scale-grain-growing-and-processingted memory and processing power.
+## Cpf tek substrate moisture diagnosis and correctionman filter alternates between prediction and correction.
 Prediction projects the current state forward using a dynamical model.
 Correction adjusts that projection using the newest measurement.
 The prediction step says what should happen if the model is trusted.
@@ -31,18 +29,18 @@ A low Kalman gain gives more weight to the model forecast.
 The gain is computed from uncertainty, not chosen by intuition alone.
 If measurements are noisy, the filter trusts them less.
 If the model forecast is uncertain, the filter trusts measurements more.
-This uncertainty-weighted fusion is the algorithm's essential insight.
-## State-space formulation
+This uncertainty weighted fusion is the algorithm's essential insight.
+## State space formulation
 The system state is usually written as a vector x.
 For a vehicle, x might include position, velocity, acceleration, and heading.
-For a financial model, x might include latent trend and volatility components.
+For a financmapsmodel, x might include latent trend and volatility components.
 The state transition matrix maps the previous state into the next predicted state.
-A control-input matrix can include known commands, such as thrust or steering.
-The process-noise covariance models disturbances not captured by the transition model.
+A control input matrix can include known commands, such as thrust or steering.
+The process noise covariance models disturbances not captured by the transition model.
 The measurement matrix maps hidden state variables into observable measurements.
-The measurement-noise covariance describes sensor error or observation error.
-Together these matrices define a probabilistic state-space model.
-The filter can be interpreted as [[bayesian-inference]] performed sequentially.
+The measurement noise covariance describes sensor error or observation error.
+Together these matrices define a probabilistic state space model.
+The filter can be interpreted as [[[[bayesian-inference]] performed sequentially.
 Each prediction is a prior distribution over the next state.
 Each correction is a posterior distribution after observing new data.
 ## Prediction step
@@ -128,7 +126,7 @@ It never simply averages a model and a measurement.
 Instead it asks how uncertain each source is.
 It makes uncertainty operational rather than rhetorical.
 This is why it remains important despite its age.
-The same pattern appears in broader bayesian inference and probabilistic modeling.
+The same pattern appears in broader [[bayesian-inference]] and probabilistic modeling.
 Beliefs are predicted forward, confronted with evidence, and revised quantitatively.
 The filter also illustrates why good models and good measurements complement each other.
 A weak model can be rescued by frequent accurate measurements.
@@ -148,6 +146,3 @@ Recognizing these limits is part of competent use.
 
 ## Related Topics
 These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
-- [[plant-signaling-pathways]]
-- [[computational-fluid-dynamics]]
-- [[fungal-diversity-estimation-methods]]

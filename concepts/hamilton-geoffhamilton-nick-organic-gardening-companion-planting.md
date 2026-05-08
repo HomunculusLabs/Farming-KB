@@ -148,4 +148,3 @@ tips:
 - [[hamilton-organic-pest-control]]
 - [[herb-garden-design]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-- [[hamilton-layering-propagation-techniques]]

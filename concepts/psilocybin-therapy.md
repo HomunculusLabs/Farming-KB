@@ -129,6 +129,6 @@ of vulnerable populations.
 
 - [[psilocybin-pharmacology]]
 - [[psilocybin-mushrooms-biology]]
-- [[psychedelic-assisted-therapy-protocol]]
+- psychedelic assisted therapy protocol
 - [[entheogenic-fungi-history]]
 - [[psilocybin-depression-anxiety-treatment]]

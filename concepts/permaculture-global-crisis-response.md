@@ -88,7 +88,7 @@ Ecosynthesis -- the evolution of new ecosystems of native and exotic species res
 
 ## Permaculture as Strategic Framework
 
-Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-earthworks-guide]] and [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available. They work at every scale -- from a backyard garden to a national economy -- and in every domain -- from agriculture to governance to education.
+Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-water-harvesting-earthworks]] and [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available. They work at every scale -- from a backyard garden to a national economy -- and in every domain -- from agriculture to governance to education.
 
 The rapid evolution of more appropriate governance, economy and culture, including art and myth, are central to adapting to energy descent. "To claim that it is possible to use Permaculture principles to design a sustainable culture and society may be too big a leap, but I believe it is possible at least to use them for evaluating the diverse cultural phenomena we find ourselves participating in."
 
@@ -112,7 +112,7 @@ Holmgren emphasises that scepticism and resistance to dogma are just as importan
 - [[consumer-versus-conserver-society]]
 - [[low-energy-futures-in-permaculture]]
 - [[permaculture-ethics]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-and-community]]
 - [[competition-cooperation-permaculture]]
 - [[retrofitting-suburbs-permaculture]]

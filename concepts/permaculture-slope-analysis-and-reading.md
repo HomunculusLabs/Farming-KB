@@ -138,9 +138,9 @@ Mollison distinguishes between two landform profiles:
 ## Related Concepts
 
 - [[keyline-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-earthworks]]
-- [[swale-construction-guide]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[permaculture-water-harvesting]]
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-mapping-and-reading-the-landscape]]

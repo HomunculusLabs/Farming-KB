@@ -148,4 +148,3 @@ by sequestering iron from competing microorganisms.
   microbial interactions affecting nutrient availability
 - [[symbiotic-fungi-arbuscular-mycorrhizal-proteomics-techniques]] for
   analytical approaches to mycorrhizal study
-- [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]] for

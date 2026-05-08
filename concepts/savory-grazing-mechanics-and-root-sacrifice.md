@@ -148,4 +148,3 @@ rainfall, recovery can require many months.
 - [[savory-recovery-and-grazing-periods]]
 - [[savory-stock-density-vs-stocking-rate]]
 - [[savory-perennial-grass-and-desertification]]
-- [[savory-livestock-grazing-planning]]

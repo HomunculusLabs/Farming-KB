@@ -114,5 +114,5 @@ For more complete information on cannabis extraction, Cervantes references "The 
 - [[cannabis-manicuring-techniques]]
 - [[cannabis-hashish-production]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[cannabis-seed-selection-and-strain-types]]

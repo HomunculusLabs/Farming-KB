@@ -140,7 +140,7 @@ into the bed surface between plantings.
 The concept was pioneered in the 1950s by E.M. Emmert, a professor of
 horticulture at the University of Kentucky, and was largely ignored at the time.
 Coleman revived and commercialized the approach starting in the 1990s. The
-approach also has deep roots in the [[parisian market gardening]] tradition of
+approach also has deep roots in the [[parisian-market-gardening]] tradition of
 19th-century Paris.
 
 ## See Also
@@ -148,9 +148,3 @@ approach also has deep roots in the [[parisian market gardening]] tradition of
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvest-washing-and-packing]]
 - [[coleman-winter-harvest-philosophy]]
-
-- [[winter succession planting]]
-- [[parisian market gardening]]
-- [[mobile greenhouse]]
-- [[season extension]]
-- [[eliot-coleman]]

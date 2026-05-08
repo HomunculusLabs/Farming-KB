@@ -118,13 +118,13 @@ flowering.
 
 ## See Also
 
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[tangie]]
 - [[chemdawg]]
 - [[sour-diesel]]
 - [[skunk-1]]
 - [[jack-herer]]
 - [[romulan]]
-- [[ice-cream-cake]]
-- [[runtz]]
-- [[gelato]]
+- [[ice-cream-cake-cannabis]]
+- [[runtz-entity]]
+- [[gelato-cannabis]]

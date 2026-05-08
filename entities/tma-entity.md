@@ -123,6 +123,6 @@ The "Essential Amphetamine" concept that TMA exemplifies has proven to be an end
 
 - [[tma-6-entity]] -- 2,4,6-trimethoxyamphetamine
 
-- [[mda-entity]] -- 3,4-methylenedioxyamphetamine
+- [[mda]] -- 3,4-methylenedioxyamphetamine
 
 - [[phenethylamine-pharmacology]] -- general pharmacology

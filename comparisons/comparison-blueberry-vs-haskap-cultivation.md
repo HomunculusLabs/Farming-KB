@@ -36,7 +36,7 @@ Blueberries are long-lived (30–50 years) with shallow, fibrous root systems he
 
 ### Haskap / Honeyberry (*Lonicera caerulea*)
 
-Haskap is a species of honeysuckle native to circumboreal regions including Siberia, northern Japan, and parts of Canada. Commercially developed since the mid-20th century, it is increasingly available in nurseries. Haskap is extremely cold-hardy (USDA Zones 2–7) and among the earliest-fruiting shrubs — often ripening 2–4 weeks before strawberries. Fruit is elongated, deep blue-purple, with a flavour blending blueberry, raspberry, and black currant. See [[comparison-blueberry-vs-haskap-cultivation]] for detailed cultivation guidance.
+Haskap is a species of honeysuckle native to circumboreal regions including Siberia, northern Japan, and parts of Canada. Commercially developed since the mid-20th century, it is increasingly available in nurseries. Haskap is extremely cold-hardy (USDA Zones 2–7) and among the earliest-fruiting shrubs — often ripening 2–4 weeks before strawberries. Fruit is elongated, deep blue-purple, with a flavour blending blueberry, raspberry, and black currant. See comparison blueberry vs haskap cultivation for detailed cultivation guidance.
 
 ## Climate Hardiness
 
@@ -116,7 +116,7 @@ Haskap enters production faster and provides the first fresh fruit of the season
 - **Recommended pairing:** 'Tundra' × 'Borealis' (firm/tart × soft/sweet).
 - **Japanese selections:** 'Kawai', 'Keiko' — excellent fresh-eating quality.
 
-See [[comparison-blueberry-vs-haskap-cultivation]] for detailed profiles and pollination charts.
+See comparison blueberry vs haskap cultivation for detailed profiles and pollination charts.
 
 ## Pros and Cons Summary
 
@@ -143,22 +143,6 @@ See [[comparison-blueberry-vs-haskap-cultivation]] for detailed profiles and pol
 - You prefer firmer fruit for baking, freezing, and long storage.
 - You want a longer harvest window with staggered ripening.
 - You value widely available, well-tested varieties.
-
-### Choose Haskap If:
-
-- You live in Zones 2–5 and want reliable berries without winter protection.
-- You have neutral to alkaline soil and want to avoid ongoing acidification.
-- You want the earliest possible fruit harvest — often before strawberries.
-- You want lower pest/disease management demands (no SWD during harvest).
-- You have space for at least two compatible pollination partners.
-
-### Consider Growing Both
-
-In Zones 3–6, both species can provide berries from late May through August. Haskap covers the early gap; blueberries carry mid-summer. They share similar sun and water needs; the main management difference is soil pH — plant blueberries in dedicated acidic beds and give haskap standard garden soil.
-
----
-
-*Related pages:* [[comparison-blueberry-vs-haskap-cultivation]] · [[growing-soft-fruit-organically]] · [[living-soil-cannabis]]
 
 ## See Also
 

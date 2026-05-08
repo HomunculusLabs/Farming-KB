@@ -148,8 +148,3 @@ years to maintain vigor. Deadhead to prolong bloom.
 - [[achillea-millefolium]]
 - [[companion-planting]]
 - [[dynamic-accumulators]]
-
-- Plantain — companion first-aid wound herb
-- [[comfrey]] — dynamic accumulator for compost
-- Calendula — companion medicinal flower
-- [[dynamic-accumulators]] — permaculture concept

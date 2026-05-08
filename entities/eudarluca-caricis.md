@@ -120,7 +120,7 @@ Related: [[rust-fungi-biodiversity-life-cycles]], [[biodiversity-rust-fungi-ured
 
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
 
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - puccinia graminis
 - [[aphanocladium-album]]
 - cladosporium uredinicola

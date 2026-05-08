@@ -124,7 +124,7 @@ As decomposition progresses, the bed becomes increasingly productive:
 - **Reduced irrigation**: Mature beds can go 2-4 weeks without watering in temperate climates
 - **Extended season**: Decomposition heat extends spring and fall growing windows
 - **Waste utilization**: Converts brush, fallen trees, and prunings into productive growing space
-- **No-till**: Once built, hugel beds are never tilled. [[no-till-gardening-method]] is inherent to the design.
+- **No-till**: Once built, hugel beds are never tilled. [[composting-and-soil-biology]] is inherent to the design.
 - **Soil building**: Creates deep, rich topsoil from wood waste
 - **Microclimate creation**: Mounds create sun-facing and shade-facing microclimates for diverse plantings
 
@@ -147,6 +147,3 @@ As decomposition progresses, the bed becomes increasingly productive:
 - [[comparison-hugelkultur-vs-syntropic-agriculture]]
 
 - [[permaculture-earthworks]]
-
-- [[plant-nutrient-deficiency-guide]]
-- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction provides the step-by-step building guide for creating a hugelkultur mound.

@@ -105,7 +105,7 @@ Rooftops offer the most growing space in urban settings but require special cons
 - Provide larger growing plots (typically 10x10 to 20x20 feet)
 - Access to shared tools, compost, water, and community knowledge
 - Opportunities to grow staples (potatoes, squash, corn) that need more space
-- Connect with [[permaculture-design-principles-beginners]] through hands-on practice
+- Connect with [[permaculture-design-principles]] through hands-on practice
 
 ### Guerrilla Gardening
 

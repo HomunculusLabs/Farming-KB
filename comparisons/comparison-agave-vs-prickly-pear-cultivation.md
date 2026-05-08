@@ -64,7 +64,7 @@ A critical distinction shapes every aspect of cultivation: **agave is monocarpic
 
 ### Agave
 
-Agave propagation relies on **pups (offsets)** separated from the mother plant at 15–30 cm tall. Pups root readily when the cut surface is allowed to dry for 1–3 days before planting. Some species also produce **bulbils** — small plantlets on the flower stalk — which can be collected and planted. Seed propagation is slow (germination can take 1–3 months) and is primarily used for breeding programs rather than production. Most commercial operations plant from nursery-raised offsets at densities of 1,000–3,000 plants/hectare, depending on species and end product. See [[mushroom-cultivation-cloning-isolation|cloning techniques]] for related propagation concepts.
+Agave propagation relies on **pups (offsets)** separated from the mother plant at 15–30 cm tall. Pups root readily when the cut surface is allowed to dry for 1–3 days before planting. Some species also produce **bulbils** — small plantlets on the flower stalk — which can be collected and planted. Seed propagation is slow (germination can take 1–3 months) and is primarily used for breeding programs rather than production. Most commercial operations plant from nursery-raised offsets at densities of 1,000–3,000 plants/hectare, depending on species and end product. See [[mushroom-cultivation-fundamentals|cloning techniques]] for related propagation concepts.
 
 ### Prickly Pear
 

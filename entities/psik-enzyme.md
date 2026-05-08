@@ -71,7 +71,7 @@ pressure, soil biology, yields, and long-term resilience.
 - [[psilocin]]
 - [[serotonin]]
 - [[tryptophan]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 ## See Also
 

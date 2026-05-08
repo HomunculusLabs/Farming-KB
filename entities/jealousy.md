@@ -107,10 +107,10 @@ Among cannabis competition circles, Jealousy earned recognition at multiple even
 
 ## See Also
 
-- [[gelato]]
+- [[gelato-cannabis]]
 - [[sunset-sherbet]]
 - [[og-kush]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[sour-diesel]]
 - [[jack-herer]]
 - [[northern-lights]]

@@ -139,5 +139,5 @@ Important safety tips for water extraction:
 - [[cannabis-quality-testing]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[water-pathways-through-plants]]

@@ -147,11 +147,3 @@ plastic bags under cold, moist conditions for 2 to 4 months.
   exchange, extending storage life
 
 ## See Also
-
-- [[vegetable-garden-harvest]] — Comprehensive harvest and storage
-  for all vegetables
-- [[cole-crop-harvest-and-storage]] — Cole crop harvest and storage
-- [[legume-and-fruit-vegetable-harvest]] — Legume and fruiting
-  vegetable harvest
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
-  reference

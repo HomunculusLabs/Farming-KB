@@ -125,7 +125,7 @@ Milking is done every 12 hours, starting early morning before goats go eat. Alwa
 - [[urban-permaculture-pig-land-clearing]]
 - [[permaculture-animal-integration]]
 - [[zone-and-sector-analysis]]
-- [[permaculture-introduction-and-ethics]]
+- [[permaculture-design-principles]]
 
 ## Merged: Pig Foraging and Breeding Guide
 Updated: 2026-04-18 Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living Pigs are very efficient foragers and will eat any fruit that falls on the ground (helping to deter pests), grass, herbs, vines, and nuts and will dig up roots with their noses. This rooting action makes them excellent natural plows, preparing and clearing a garden bed before planting. - [[faires-rabbit-and-small-poultry-keeping]] - faires duck pig and goat systems - faires duck pig and goat systems - [[faires-pasture-forage-tree-systems]] - [[faires-livestock-integration-systems]] The best place is a shady, treed area full of waste material and weeds and not too muddy.

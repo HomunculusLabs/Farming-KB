@@ -10,7 +10,7 @@ sources: []
 
 Approaches to sampling macrofungi have developed considerably over the past several decades, driven by the need to document fungal diversity in forests and other ecosystems. Macrofungi — fungi that produce visible, fleshy, or woody sporocarps — present unique challenges for [[fungal-zoospore-biology-and-flagellate-motility]] because sporocarp production is episodic, influenced by weather and season, and often poorly correlated with the actual presence and distribution of fungal mycelia in the environment.
 
-This page summarizes protocols and considerations for sampling macrofungi, drawing on the work of O'Dell, Lodge, Mueller, and colleagues as part of broader efforts in [[fungal-biodiversity-inventory-design]] and [[fungal-ecology-forest-floor]].
+This page summarizes protocols and considerations for sampling macrofungi, drawing on the work of O'Dell, Lodge, Mueller, and colleagues as part of broader efforts in [[fungal-biodiversity-inventory-design]] and [[the-soil-food-web]].
 
 ## Inventorying Versus Monitoring
 

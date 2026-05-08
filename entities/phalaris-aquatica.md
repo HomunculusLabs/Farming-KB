@@ -148,4 +148,3 @@ in riparian and coastal areas. California Invasive Plant Council rates it **"Mod
 - [[typha-latifolia-entity]] — Common Cattail, co-occurs in riparian habitats
 - [[mimosa-hostilis]] — Jurema, more reliable DMT-containing species
 - [[psychotria-viridis]] — Chacruna, principal ayahuasca DMT admixture
-- [[banisteriopsis-caapi]] — Ayahuasca vine, β-carboline MAOI source

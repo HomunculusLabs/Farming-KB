@@ -68,7 +68,7 @@ Prioritize resources that can be sustained indefinitely:
 - Biological fertility instead of synthetic fertilizers
 - Human and animal labor instead of fossil-fueled machines
 - Local materials instead of transported goods
-- [[permaculture-principle-use-and-value-renewable-resources|Use and value renewable resources and services]]
+- [[permaculture-design-principles|Use and value renewable resources and services]]
 
 ## The Retrofit Approach
 
@@ -113,8 +113,8 @@ Holmgren suggests that energy descent will not be a sudden collapse but a steppe
 - [[energy-efficiency-in-agriculture]] Concepts
 
 - [[permaculture-principles]]
-- [[permaculture-principle-creatively-use-and-respond-to-change|Use creativity to respond to change]]
-- [[permaculture-principle-obtain-a-yield|Obtain a yield]]
+- [[permaculture-design-principles|Use creativity to respond to change]]
+- [[permaculture-design-principles|Obtain a yield]]
 - [[permaculture-principle-design-from-patterns-to-details|Design from patterns to details]]
 - [[permaculture-community-resilience]]
 - [[permaculture-climate-adaptation]]

@@ -22,7 +22,7 @@ sources:
 
 # Symphytum officinale
 
-**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in permaculture design, organic agriculture, and traditional herbal medicine, renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable biomass production capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
+**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[permaculture-design]], organic agriculture, and traditional [[herbal-medicine]], renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable biomass production capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
 
 ## Taxonomy and Classification
 

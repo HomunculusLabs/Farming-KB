@@ -106,7 +106,7 @@ The same molecule, psilocybin, can sit inside very different social worlds.
 ## Relevance to the Wiki
 
 The Mazatec connect Indigenous Mexican religion, ethnomycology, psychedelic chemistry, and modern cultural history.
-They are a necessary entity for pages about [[psilocybin]], [[psilocybin-mushrooms]], [[gordon-wasson]], [[albert-hofmann]], and [[psychedelic-mushroom-music-and-culture]].
+They are a necessary entity for pages about [[psilocybin-compound]], [[psilocybin-mushrooms]], [[gordon-wasson]], [[albert-hofmann]], and [[mushroom-cultivation-fundamentals]].
 They also anchor the difference between a concept page on psilocybin discovery and an entity page about a living people.
 ## Key Details
 
@@ -121,9 +121,9 @@ They also anchor the difference between a concept page on psilocybin discovery a
 ## See Also
 
 * [[hofmann-lsd-mazatec-and-psilocybin]]
-* [[psychedelic-mushroom-music-and-culture]]
+* [[mushroom-cultivation-fundamentals]]
 * [[maria-sabina]]
 * [[gordon-wasson]]
 * [[albert-hofmann]]
-* [[psilocybin]]
+* [[psilocybin-compound]]
 * [[salvia-divinorum]]

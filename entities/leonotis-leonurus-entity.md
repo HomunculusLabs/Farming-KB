@@ -118,7 +118,7 @@ Hard pruning after flowering encourages bushy, compact growth and repeat bloomin
 ## See Also
 
 - [[leonotis-nepetifolia]] — a closely related annual species with similar uses
-- [[leonurus-cardiaca]] — motherwort, a related Lamiaceae species with leonurine
+- [[leonurus-cardiaca-entity]] — motherwort, a related Lamiaceae species with leonurine
 - [[leonurus-cardiaca-entity]] — entity page for motherwort
 - [[salvia-officinalis]] — common sage, another Lamiaceae medicinal plant
 - [[tagetes-lucida]] — Mexican tarragon, a traditional smoking herb

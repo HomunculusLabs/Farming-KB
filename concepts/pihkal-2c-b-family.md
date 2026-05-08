@@ -148,4 +148,3 @@ within the broader context of [[phenethylamine-chemistry-basics]] research.
 - [[phenethylamine-chemistry-basics]] — Biography of the chemist
 - [[phenethylamine-chemistry-basics]] — Co-author and research partner
 - [[phenethylamine-chemistry-basics]] — Overview of the broader class
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — Pharmacological targets

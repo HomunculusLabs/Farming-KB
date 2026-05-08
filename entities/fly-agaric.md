@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Amanita muscaria** (L.) Lam., commonly known as the fly agaric or fly amanita, is one of the most iconic and recognizable organisms on Earth — the quintessential "toadstool" of fairy tales, children's literature, and video game culture. Beyond its striking appearance, A. muscaria is a pharmacologically complex psychoactive mushroom containing the excitatory amino acids ibotenic acid and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing psilocybin mushrooms.
+**[[amanita-muscaria]]** (L.) Lam., commonly known as the fly agaric or fly amanita, is one of the most iconic and recognizable organisms on Earth — the quintessential "toadstool" of fairy tales, children's literature, and video game culture. Beyond its striking appearance, A. muscaria is a pharmacologically complex psychoactive mushroom containing the excitatory amino acids [[ibotenic-acid]] and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing [[psilocybin-mushrooms]].
 
 The species has a rich ethnobotanical history spanning Siberia, northern Europe, India, and Mesoamerica, and is increasingly studied for its potential therapeutic applications in neurological and psychiatric conditions.
 
@@ -46,7 +46,7 @@ The species has a rich ethnobotanical history spanning Siberia, northern Europe,
 - **Gills:** Free, crowded, white to creamy, with a floccose edge
 - **Stipe:** 8–20 cm × 1–2.5 cm, white, cylindrical, slightly tapering upward; bears a prominent skirt-like annulus (ring) near the apex; base bulbous with 2–4 concentric rings of volval remnants (shaggy remnants of the universal veil at the base)
 - **Flesh:** White, firm; odor mild to slightly sweet
-- **Spore print:** White
+- **[[spore-print]]:** White
 - **Spores:** Globose to broadly ellipsoid, smooth, 8–12 × 6.5–9 μm, non-amyloid
 
 ### Varieties and Color Morphs
@@ -141,20 +141,6 @@ Contemporary use of A. muscaria is primarily in the form of dried mushroom mater
 ## Toxicology and Safety
 
 ### Acute Toxicity
-
-A. muscaria is generally considered of low lethality. Fatalities are extremely rare:
-
-- **LD₅₀ (mice, i.p.):** ~385 mg/kg (ibotenic acid); ~45 mg/kg (muscimol)
-- **Symptoms of overdose:** Confusion, agitation, delirium, seizures (from ibotenic acid excitotoxicity), vomiting, drowsiness
-- **Treatment:** Supportive care; benzodiazepines for seizures; no specific antidote
-
-### Notably Absent Toxins
-
-A. muscaria does **not** contain amatoxins (deadly bicyclic octapeptides found in A. phalloides) or pharmacologically significant muscarine (<0.0002%).
-
-## Cultivation
-
-A. muscaria cannot be commercially cultivated due to its obligate ectomycorrhizal requirement. Wild harvesting remains the only practical source.
 
 ## See Also
 

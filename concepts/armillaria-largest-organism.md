@@ -140,45 +140,6 @@ species. In some forests, the removal of stumps after logging has reduced
 ## Ecological Role
 
 Despite its pathogenic nature, *Armillaria* plays a vital ecological role in
-forest ecosystems as a decomposer of wood. By breaking down cellulose and lignin
-in dead and dying trees, the fungus releases nutrients back into the soil,
-making them available for other organisms.
-
-The fungus contributes to the carbon cycle and helps maintain the dynamic
-equilibrium of forest communities. Without decomposers like *Armillaria*, dead
-wood would accumulate indefinitely, locking up nutrients essential for new
-growth.
-
-*Armillaria* honey mushrooms (the fruiting bodies) are themselves edible when
-thoroughly cooked and are among the most sought-after wild mushrooms in many
-regions. However, they must be carefully distinguished from other mushrooms, as
-some species cause gastrointestinal distress when raw.
-
-## Electrical Activity of Mycelia
-
-Research has demonstrated that hyphae throughout a mycelium are electrically
-active, maintaining membrane voltages of 100 to 200 millivolts. When one part of
-the mycelium is damaged, electrical responses can be detected in hyphae far
-removed from the injury.
-
-This demonstrates a surprising level of irritability for an organism that lacks a
-nervous system and suggests that the connections among all hyphae in a mycelium
-allow these filamentous cells to cooperate as a single integrated organism. The
-electrical signaling may coordinate responses to environmental stimuli across
-the entire mycelial network.
-
-## Fairy Rings
-
-The toroid growth pattern of *Armillaria* mycelia creates fairy rings, circular
-patterns of mushroom fruiting bodies that appear in grasslands and forests. The
-rings expand outward as the mycelium grows, with the oldest material at the
-center dying and decomposing.
-
-In some cases, fairy rings can be hundreds of years old and extend for meters
-in diameter, making them visible evidence of the massive underground organism.
-The rings are most conspicuous in grasslands, where the darkened zone of
-decomposed organic matter contrasts with the surrounding turf.
-
 ## See Also
 
 - [[basidiomycota-classification-major-clades|Basidiomycota overview]]

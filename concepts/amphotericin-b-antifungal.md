@@ -147,7 +147,3 @@ Notable for being effective against Mucorales, which are resistant to most other
 - [[cryptococcus-neoformans-pathogenesis]] - Major clinical indication
 - [[mucormycosis-zygomycete-infections]] - Major clinical indication
 - [[fungal-spore-biology]] - Other drug targets
-
-[[streptomyces]] soil bacteria produce many clinically important antibiotics.
-[[candida-albicans]] is the most common yeast pathogen treated with amphotericin B.
-Laboratory isolation of pathogenic fungi often relies on [[selective-agents-fungal-isolation-antibiotics-fungicides]].

@@ -141,26 +141,9 @@ These sites typically provide effects information, dosage guides, chemistry deta
 ## Brand Names and User Terminology
 
 Mushrooms are known by numerous names reflecting marketing strategies and cultural contexts:
-
-- **English**: magic mushrooms, shrooms, mush, mushies, boomers, psilocybes, cubes, caps, philosopher's stone, sacred mushrooms, teonanacatl, Mexican mushrooms, moon children
-- **Dutch**: paddos
-- **German**: Zauberpilze, Psychoaktive Pilze
-- **French**: champignons hallucinogenes, champis
-
-The "Herbal highs" marketing label emerged in the late 1990s, grouping mushrooms with herbal ecstasy, [[salvia-divinorum]], and other products under an organic/natural branding strategy.
-
-## Post-Prohibition Market Shifts
-
-Following UK prohibition (July 2005) and Irish criminalisation (January 2006):
-
-- UK internet sites stopped selling psilocybin mushrooms
-- Retailers switched to legal alternatives, primarily [[amanita-muscaria]] (fly agaric) and [[amanita-pantherina]] (panther cap)
-- Products like **Purple Ohms capsules** (containing [[argyreia-nervosa]] / Hawaiian Baby Woodrose with LSA) were increasingly marketed as legal mushroom alternatives
-- 67% of UK Mixmag respondents reported reduced availability post-prohibition
-
 ## See Also
 
-- [[hallucinogenic-mushroom-prevalence-in-europe]]: usage data
+- [[hallucinogenic-mushroom-prevalence-europe]]: usage data
 - [[hallucinogenic-mushroom-legislation-in-europe]]: legal framework driving market changes
 - [[hallucinogenic-mushroom-dose-and-effects]]: product effects information
 - [[psilocybin-and-psilocin-chemistry]]: active compounds in commercial products

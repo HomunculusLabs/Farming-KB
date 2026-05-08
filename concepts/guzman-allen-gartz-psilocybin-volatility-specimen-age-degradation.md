@@ -29,7 +29,7 @@ The Repke study established that the window for accurate chemical analysis of fr
 
 ## Ohenoja's Herbarium Specimen Decline Data
 
-Ohenoja et al. (1987) provided compelling evidence for long-term psilocybin degradation by analyzing herbarium specimens of Psilocybe semilanceata of different ages. They found 0.014% dry weight in specimens from 1869, 0.67% dry weight in specimens from 1954, and 0.84% dry weight in specimens from 1976. This dramatic decline over more than a century demonstrates the progressive loss of active compounds.
+Ohenoja et al. (1987) provided compelling evidence for long-term psilocybin degradation by analyzing [[herbarium-specimens-fungal-collections]] of [[psilocybe-semilanceata-distribution-ecology]] of different ages. They found 0.014% dry weight in specimens from 1869, 0.67% dry weight in specimens from 1954, and 0.84% dry weight in specimens from 1976. This dramatic decline over more than a century demonstrates the progressive loss of active compounds.
 
 ### Quantifying the Rate of Decline
 
@@ -45,7 +45,7 @@ The correspondence between indigenous knowledge and laboratory findings is remar
 
 ## Guzman's Personal Experience With Airborne Hallucinations
 
-One of the authors, Gaston Guzman, observed in an experiment that normal doses of hallucinogenic fungi were only slightly neurotropic or entirely inactive in persons who ate them because the fungi had been kept dried for almost a year. But even more remarkable was an experience Guzman had in 1958 while exploring Oaxaca, Mexico, looking for neurotropic fungi.
+One of the authors, Gaston Guzman, observed in an experiment that normal doses of hallucinogenic fungi were only slightly neurotropic or entirely inactive in persons who ate them because the fungi had been kept dried for almost a year. But even more remarkable was an experience Guzman had in 1958 while exploring Oaxaca, Mexico, looking for [[neurotropic-fungi-four-group-classification-system]].
 
 ### The Incident in Oaxaca
 
@@ -57,11 +57,11 @@ The air of the room was heavy with a strong acrid aroma of the fungi, and Guzman
 
 ## Hofmann's Negative Results From Old Cordyceps Specimens
 
-The age of fungi surely accounts for the reason why Albert Hofmann, in his work with Roger Heim and R. Gordon Wasson (1958), did not find any indoles present in specimens of Cordyceps capitata and C. ophioglossoides. These specimens had been gathered by Wasson in a popular market in Mexico as sacred fungi and had been preserved for a long time before chemical analysis.
+The age of fungi surely accounts for the reason why [[albert-hofmann-eleusinian-potion-analysis]], in his work with Roger Heim and R. Gordon Wasson (1958), did not find any indoles present in specimens of Cordyceps capitata and C. ophioglossoides. These specimens had been gathered by Wasson in a popular market in Mexico as sacred fungi and had been preserved for a long time before chemical analysis.
 
 ### The Cordyceps Species in Mexican Ritual
 
-These two species of Cordyceps are very important to the Indians of the Nevado de Toluca region in Mexico, where they are used together with Psilocybe muliercula, called "hombrecitos" (little men) and "mujercitas" (little women), respectively. The genus Cordyceps is closely related taxonomically to Claviceps purpurea, the famous ergot that produces certain types of hallucinations. These species are used in special nocturnal ceremonies.
+These two species of Cordyceps are very important to the Indians of the Nevado de Toluca region in Mexico, where they are used together with Psilocybe muliercula, called "hombrecitos" (little men) and "mujercitas" (little women), respectively. The genus Cordyceps is closely related taxonomically to [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]], the famous ergot that produces certain types of hallucinations. These species are used in special nocturnal ceremonies.
 
 ### The Elaphomyces Connection
 

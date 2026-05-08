@@ -20,8 +20,8 @@ type: concept
 [[masanobu-fukuoka]] dedicates a substantial portion of "The Natural Way of Farming" to
 the cultural and nutritional degradation caused by the modern diet. He traces the
 transformation from a diverse, locally adapted traditional cuisine to a uniform, processed
-global food system, arguing that the [[disappearance of the natural diet|disappearance]] of
-traditional foodways mirrors the collapse of [[natural farming]] itself.
+global food system, arguing that the [[disappearance-of-the-natural-diet|disappearance]] of
+traditional foodways mirrors the collapse of [[natural-farming]] itself.
 
 ## The Splendid Variety of the Traditional Diet
 
@@ -39,7 +39,7 @@ well. Every river and stream was teeming with fish. Carp and crucian carp swam
 everywhere, and with the abundance of frogs, loaches, and killifish, a fish diet was
 standard in farming villages.
 
-This dietary abundance was made possible by the self-sufficiency of [[direct-seeded no-tillage rice barley succession|rice-barley]] farming households, which produced most
+This dietary abundance was made possible by the self-sufficiency of [[direct-seeded-no-tillage-rice-barley-succession|rice-barley]] farming households, which produced most
 of their own food. The diet was not limited by scarcity but by knowledge of what was
 edible. Fukuoka notes that early man undoubtedly ate several dozen times the number of
 plant and animal species eaten by modern man.
@@ -71,7 +71,7 @@ contain important nutrients.
 
 The proliferation of artificial flavorings, preservatives, and chemical additives
 represents a further departure from natural eating. Fukuoka links this directly to the
-same [[scientific agriculture|scientific mindset]] that has transformed farming, noting
+same [[scientific-agriculture|scientific mindset]] that has transformed farming, noting
 that the same reductionist thinking that isolates NPK as the essential plant nutrients
 also reduces food to its chemical components.
 
@@ -103,7 +103,7 @@ equilibrium and opens the door to disease.
 
 For Fukuoka, the disappearance of the natural diet is not just a practical concern but
 a symptom of humanity's fundamental estrangement from nature. The same arrogance that
-leads man to believe he can improve upon nature through [[scientific agriculture|modern farming methods]] leads him to believe he can improve upon natural food through
+leads man to believe he can improve upon nature through [[scientific-agriculture|modern farming methods]] leads him to believe he can improve upon natural food through
 processing and chemical modification.
 
 This philosophical critique extends to [[mahayana-hinayana-natural-farming|the Mahayana versus Hinayana distinction]] in farming. Just as the "Hinayana" farmer works
@@ -125,17 +125,17 @@ no longer understand natural food.
 
 The recovery requires simultaneously rebuilding the relationship between farmer and
 consumer, between city and country, and between human beings and the natural world.
-When the [[natural orchard management|orchard]] and the rice paddy are managed naturally,
+When the [[natural-orchard-management|orchard]] and the rice paddy are managed naturally,
 the diversity of food returns. When food diversity returns, knowledge of edible plants
 and their preparation returns with it.
 
 ## See Also
 
 - [[masanobu-fukuoka]]
-- [[natural farming]]
-- [[direct-seeded no-tillage rice barley succession]]
-- [[scientific agriculture]]
-- [[traditional Japanese foodways]]
+- [[natural-farming]]
+- [[direct-seeded-no-tillage-rice-barley-succession]]
+- [[scientific-agriculture]]
+- [[traditional-japanese-foodways]]
 - [[mahayana-hinayana-natural-farming]]
 - [[masanobu-fukuoka]]
 - [[natural-diet]]

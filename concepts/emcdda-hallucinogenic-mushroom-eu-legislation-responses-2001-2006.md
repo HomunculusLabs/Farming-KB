@@ -11,11 +11,7 @@ type: concept
 
 # EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006
 
-Between 2001 and 2006, six European Union member states tightened their legislation on hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]]. These legal changes coincided with increasing prevalence of recreational use and expanding commercial markets, particularly through [[smartshops]] and internet retail. The EMCDDA documented these responses as part of its emerging drug trend monitoring through the E-POD (European Perspectives on Drugs) pilot project.
-
-
-
-
+Between 2001 and 2006, six European Union member states tightened their legislation on hallucinogenic mushrooms containing [[psilocybin-compound]] and [[psilocin]]. These legal changes coincided with increasing prevalence of recreational use and expanding commercial markets, particularly through [[smartshops]] and internet retail. The EMCDDA documented these responses as part of its emerging drug trend monitoring through the E-POD (European Perspectives on Drugs) pilot project.
 
 ## Countries That Enacted Legislation
 
@@ -37,33 +33,17 @@ The UK enacted the most commercially disruptive legislation, prohibiting the sal
 ### Ireland (2006)
 Ireland was the sixth country to tighten legislation during this period, following the pattern established by the UK and other nations.
 
-
-
-
-
 ## Market Adaptation and Substitution
 
 The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal hallucinogenic mushroom species, particularly [[amanita-muscaria]] (fly agaric). This substitution effect was noted in the UK following the 2005 ban, where retailers began stocking fly agaric products. This raised concerns because Amanita muscaria contains fundamentally different active chemicals — muscimol, ibotenic acid, and muscarine — which carry substantial toxicity risks, and some closely related Amanita species are highly toxic and potentially fatal.
-
-
-
-
 
 ## Legal Loopholes and Evasion Strategies
 
 Some retailers exploited legal loopholes to continue selling hallucinogenic mushrooms. In the Czech Republic, a newspaper reported that a shop in Prague attempted to sell mushrooms under the label of "aromatic and decorative goods," providing a leaflet warning customers not to ingest them, thereby evading national legislation.
 
-
-
-
-
 ## Impact Assessment
 
 Reports from the UK suggested that legislation had a measurable impact on the availability of mushrooms and the overall volume of internet sales. The EMCDDA noted that legal responses alone were insufficient without considering the broader contextual forces — lifestyle trends, economic interests of retailers, and the "return to nature" movement — that drove the emerging trend.
-
-
-
-
 
 ## Broader Context: Lifestyle Trends and Drug Policy
 
@@ -75,10 +55,6 @@ The EMCDDA case study emphasized that drug trend emergence and response cannot b
 - Economic interests of retailers and market stall operators
 
 The report concluded that future work in the field of emerging drug trends must consider the crucial part that contextual forces play in reinforcing or legitimating forms of regulation. The mushroom case study became a model for understanding how lifestyle trends and commercial interests interact with legislative responses to shape drug market dynamics in the EU.
-
-
-
-
 
 ## Related
 
@@ -98,6 +74,6 @@ The report concluded that future work in the field of emerging drug trends must 
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[amanita-muscaria]]

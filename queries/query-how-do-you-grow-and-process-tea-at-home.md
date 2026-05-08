@@ -136,21 +136,6 @@ Pluck leaves
 ## Troubleshooting
 
 | Problem | Likely Cause | Solution |
-|---|---|---|
-| Yellow leaves with green veins | Iron deficiency (high pH) | Add iron sulfate; lower pH with sulfur |
-| Brown crispy leaf edges | Wind burn or salt damage | Improve shelter; flush soil with fresh water |
-| Poor growth, pale leaves | Nitrogen deficiency | Apply ammonium sulfate or cottonseed meal |
-| Green tea tastes bitter | Water too hot or steeped too long | Use 70–80°C water; steep 2–3 min max |
-| Black tea tastes flat | Insufficient oxidation | Extend oxidation time; bruise leaves more thoroughly |
-
-## FAQ
-
-**How many plants do I need?** One mature bush (5+ years) yields 30–50 g dried tea per harvest. Most casual drinkers want 2–4 plants.
-
-**Can I grow tea from grocery store tea bags?** Very low germination rate and unknown variety. Buy proper seeds or plants instead.
-
-**Can I grow tea indoors year-round?** Tea needs winter dormancy and bright, cool growing seasons. Indoor-only growth is challenging without a greenhouse.
-
 ## See Also
 
 - [[query-how-to-grow-and-process-maca-root]]
@@ -159,6 +144,6 @@ Pluck leaves
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-how-to-grow-black-currants-at-home]]
 
-- [[kombucha-brewing|Tea Cultivation and Camellia sinensis Processing — full topic page]]
+- Tea Cultivation and Camellia sinensis Processing — full topic page
 - [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea|Yerba Mate vs Guayusa vs Yaupon vs Tea]]
-- [[kombucha-brewing|Kombucha Brewing and Fermented Tea Culture]]
+- Kombucha Brewing and Fermented Tea Culture

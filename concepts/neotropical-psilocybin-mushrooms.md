@@ -33,7 +33,7 @@ The rediscovery of traditional hallucinogenic mushroom use among indigenous peop
 
 Schultes (1939), Singer (1949, 1958, 1959), and others documented species used by Mazatec, Zapotec, Mixtec, Nahua, and other indigenous groups.
 
-Key Mexican species include [[psilocybe-mexicana-profile]], Psilocybe zapotecorum, Psilocybe caerulescens, Psilocybe hochlandleri, and many others.
+Key Mexican species include [[psychedelic-mushrooms-species-and-identification]], Psilocybe zapotecorum, Psilocybe caerulescens, Psilocybe hochlandleri, and many others.
 
 Psilocybe aztecorum grows exclusively in subalpine and alpine habitats of the high mountains of Mexico, reaching 4,000 meters elevation.
 
@@ -77,7 +77,7 @@ The connections between North and South American mycobiotas create Mexico's extr
 
 ## Coprophilous Neotropical Species
 
-[[psilocybe-cubensis-profile]] is very common in Mexico, Central America, and South America, growing on cow dung.
+[[psychedelic-mushrooms-species-and-identification]] is very common in Mexico, Central America, and South America, growing on cow dung.
 
 The cattle in America were introduced by Spanish colonists in the 16th-17th centuries, and P. cubensis does not grow in Europe.
 

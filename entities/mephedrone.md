@@ -114,7 +114,7 @@ Testing services such as drug checking programs can identify mephedrone in table
 - [[mdma]] — the primary empathogen to which mephedrone is most often compared
 - [[ethylone]] — beta-keto analogue of MDMA and structural relative of mephedrone
 - [[butylone]] — N-ethyl cathinone with stimulant and mild empathogenic effects
-- [[mescaline]] — natural phenethylamine psychedelic with different receptor profile
+- [[mescaline-entity]] — natural phenethylamine psychedelic with different receptor profile
 - [[dmt]] — tryptamine psychedelic with rapid onset and short duration
 - [[lsd]] — classical psychedelic with serotonergic mechanism of action
 - [[ketamine]] — dissociative anesthetic with different pharmacological class

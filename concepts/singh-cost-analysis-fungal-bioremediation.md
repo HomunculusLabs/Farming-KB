@@ -76,7 +76,7 @@ Indirect costs that influence overall project economics include:
   treatment duration.
 - **Performance uncertainty**: Risk premiums for uncertain treatment outcomes
   may increase financing costs or require performance bonds.
-- **Regulatory compliance**: Monitoring, reporting, and [[mycoremediation-regulatory-framework]]
+- **Regulatory compliance**: Monitoring, reporting, and mycoremediation regulatory framework
   compliance costs can be substantial, particularly for innovative
   applications requiring additional regulatory review.
 - **Residuals management**: Disposal of spent [[singh-fungal-biosorbents-mycosorption-mechanisms]]
@@ -148,4 +148,3 @@ Fungal bioremediation can generate offsetting revenue:
   recovered through acid desorption. [[singh-nickel-zinc-fungal-biosorption]] and [[singh-selenium-arsenic-biotransformation-fungi]]
   recovery is technically feasible.
 - **Carbon credits**: In-situ treatment avoids greenhouse gas emissions from
-  excavation, transport, and thermal treatment.

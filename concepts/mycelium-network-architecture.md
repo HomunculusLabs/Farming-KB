@@ -148,4 +148,3 @@ streamlined configurations, while in variable environments they maintain
 more exploratory, redundant architectures.
 - [[fungal-ecology]]
 - [[wood-decay-fungi]]
-- [[biological-network-theory]]

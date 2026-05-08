@@ -81,7 +81,7 @@ Permaculture's role is to understand these new natures and work with them to cre
 
 - [[permaculture-reading-landscape]]
 
-- [[permaculture-principle-creatively-use-and-respond-to-change]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-principle-use-and-value-diversity]]
 

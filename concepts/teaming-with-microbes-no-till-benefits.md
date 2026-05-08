@@ -64,7 +64,7 @@ When planting is necessary, the recommendation is to disturb only what is absolu
 - [[teaming-with-microbes-cover-crops-soil-health]]
 
 - [[penicillium-entity]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[soil-food-web]]
 - [[glomalin-and-soil-carbon]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]

@@ -125,7 +125,7 @@ strongly supports the mushroom identification, and the connection between
 teonanacatl and psilocybin mushrooms is widely accepted in both
 anthropological and mycological circles.
 - [[maria-sabina-mazatec-mushroom-curandera]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mazatec-mushroom-culture-and-velada]]
 - [[magic-mushroom-british-underground-and-festivals]]
 - [[mexican-mushroom-stones-archaeological-evidence]]

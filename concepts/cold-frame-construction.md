@@ -11,10 +11,6 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
 
-
-
-
-
 ## Construction
 
 ### Materials
@@ -36,19 +32,11 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 4. Add a prop stick to hold the lid open at various angles
 5. Place on well-drained soil in a sheltered, south-facing position
 
-
-
-
-
 ## Placement
 - South-facing wall is ideal (reflects additional heat)
 - Protect from north winds with a fence, hedge, or building
 - Site near a water source
 - Level ground with good drainage
-
-
-
-
 
 ## Seasonal Use
 
@@ -59,10 +47,6 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 | Autumn | Extend harvest of lettuce, greens, radishes |
 | Winter | Overwinter hardy crops (parsley, leeks, spinach) |
 
-
-
-
-
 ## Temperature Management
 - On sunny days, internal temperature can reach 70-100°F even when outside is freezing
 - **Prop the lid open** when temperatures exceed 65°F inside to prevent overheating
@@ -70,18 +54,10 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 - Use a thermometer inside to monitor conditions
 - On very cold nights, cover with an insulating blanket or straw bales
 
-
-
-
-
 ## What to Grow
 - Early spring: lettuce, spinach, radishes, onions, brassicas
 - Autumn extension: lettuce, Asian greens, arugula, carrots, beets
 - Winter: garlic, shallots, overwintering onions
-
-
-
-
 
 ## Related
 - [[seed-starting-indoors]] — for earlier starts under lights

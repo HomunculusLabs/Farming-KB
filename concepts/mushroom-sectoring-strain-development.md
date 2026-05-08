@@ -91,6 +91,6 @@ The key challenge in breeding is that in tetrapolar species, only one quarter of
 
 [[fungal-culture-preservation]] — preserving selected strains long-term
 
-[[mushroom-cultivation-cloning-isolation]] — tissue cloning as an alternative to multispore work
+[[mushroom-cultivation-fundamentals]] — tissue cloning as an alternative to multispore work
 
 [[mushroom-spore-printing-and-storage]] — starting material for strain development

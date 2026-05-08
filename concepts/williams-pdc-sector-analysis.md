@@ -135,4 +135,4 @@ accurate and useful your sector diagram will be.
 - [[passive-solar-design]]
 - [[permaculture-beginners-guide-zones-and-sectors]]
 - [[holmgren-passive-solar-and-building-design]]
-- [[holmgren-zones-and-sectors-design-framework]]
+- [[permaculture-design]]

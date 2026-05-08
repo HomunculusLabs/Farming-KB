@@ -115,7 +115,7 @@ These limitations make careful controls and orthogonal characterization essentia
 - Molecular self-assembly
 - Coordination chemistry
 - [[enzyme-kinetics-michaelis-menten-model]]
-- [[structure-activity-relationship-medicinal-chemistry]]
+- structure activity relationship medicinal chemistry
 
 ## References
 

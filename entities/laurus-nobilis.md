@@ -127,6 +127,6 @@ Bay laurel is most commonly propagated from **semi-hardwood cuttings** taken in 
 
 - myrtus communis — myrtle, another Mediterranean evergreen aromatic
 - [[rosmarinus-officinalis-entity]] — rosemary, companion Mediterranean culinary herb
-- [[origanum-vulgare]] — oregano, culinary Lamiaceae herb
+- [[origanum-vulgare-entity]] — oregano, culinary Lamiaceae herb
 - [[ocimum-basilicum]] — basil, annual culinary herb
 - [[sambucus-nigra]] — elderberry, complementary hedgerow species

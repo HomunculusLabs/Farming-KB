@@ -79,14 +79,14 @@ Understanding cycles and temporal niches leads to several design principles:
 - Recognise that climax is temporary; design for disturbance as well as stability
 - Fill every temporal niche with productive occupation
 
-These temporal considerations connect to [[complexity-and-connections]] and [[permaculture-design-methods]] as aspects of systems thinking applied to design. The concept of niches also relates to [[edge-effect-in-permaculture]] -- edges create niche opportunities by bringing together the conditions of two adjacent systems.
+These temporal considerations connect to [[complexity-and-connections]] and [[permaculture-design]] as aspects of systems thinking applied to design. The concept of niches also relates to [[edge-effect-in-permaculture]] -- edges create niche opportunities by bringing together the conditions of two adjacent systems.
 
 ## Related
 
 - [[mollison-designers-cycles-niches-and-time]]
 
 - [[permaculture-succession]]
-- [[permaculture-design-methods]]
+- [[permaculture-design]]
 - [[permaculture-water-strategies]]
 - [[permaculture-earthworks]]
 - [[gaias-garden-cover-crops-soil-building]]

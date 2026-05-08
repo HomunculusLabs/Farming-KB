@@ -128,5 +128,5 @@ chemicals.
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
 - [[cervantes-terpenoids-terpene-profiles]]
 - [[cannabis-endocannabinoid-system]]
-- [[cervantes-organic-growing]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-contaminant-pesticide-safety]]

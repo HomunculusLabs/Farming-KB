@@ -89,7 +89,7 @@ Fertilizer pollution doesn't only affect water — it degrades soils too:
 
 ### The Role of Soil Biology
 
-The [[nutrient-retention-soil-food-web]] acts as a natural nutrient retention system. When organic fertilizers are applied, soil microorganisms incorporate the nutrients into their biomass before releasing them slowly over time. This biological buffering prevents the sudden nutrient surges that cause leaching and runoff. In contrast, soluble synthetic fertilizers deliver nutrients all at once, far exceeding what plants and soil organisms can immediately absorb.
+The [[composting-and-soil-biology]] acts as a natural nutrient retention system. When organic fertilizers are applied, soil microorganisms incorporate the nutrients into their biomass before releasing them slowly over time. This biological buffering prevents the sudden nutrient surges that cause leaching and runoff. In contrast, soluble synthetic fertilizers deliver nutrients all at once, far exceeding what plants and soil organisms can immediately absorb.
 
 ### Mycorrhizal Networks
 
@@ -116,5 +116,5 @@ Every gardener can contribute to reducing fertilizer pollution:
 - [[natural-fertilizer-sources-and-application]]
 - [[biofertilizers-and-soil-inoculants]]
 - [[ph-and-nutrient-availability-garden-soils]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 - [[soil-food-web-nutrient-cycling]]

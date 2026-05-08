@@ -26,13 +26,13 @@ The SCOBY (Symbiotic Culture of Bacteria and Yeast) is not a single organism but
 - **Acetobacter (Komagataeibacter) xylinum** — The primary cellulose producer. This acetic acid bacterium oxidizes ethanol (produced by yeasts) into acetic acid, giving kombucha its characteristic tartness and creating the protective cellulose pellicle.
 - **Gluconacetobacter** — Produces gluconic acid, contributing sweetness balance and additional antimicrobial properties.
 - **Zygosaccharomyces** species — Osmotolerant yeasts that initiate fermentation by consuming sucrose and producing ethanol, carbon dioxide, and a range of flavor compounds.
-- **Saccharomyces cerevisiae** — Brewer's/baker's yeast, commonly present and contributes to ethanol and CO₂ production.
+- **[[saccharomyces-cerevisiae]]** — Brewer's/baker's yeast, commonly present and contributes to ethanol and CO₂ production.
 - **Brettanomyces** (Dekkera) — Wild yeast strains that contribute complex, fruity, or "funky" flavor notes, especially in longer ferments.
 - **Lactobacillus** species — Produce lactic acid, adding subtle tang and contributing probiotic diversity.
 
 ### The Cellulose Pellicle
 
-The floating mat is almost entirely bacterial cellulose — an ultra-pure form of cellulose with a nanofibrillar structure. Unlike plant cellulose, bacterial cellulose contains no lignin or hemicellulose, giving it exceptional water-holding capacity and tensile strength. Each new batch of kombucha produces a new pellicle on the surface, and layers can be separated to start new batches or shared with other brewers.
+The floating mat is almost entirely bacterial cellulose — an ultra-pure form of cellulose with a nanofibrillar structure. Unlike [[plant-cellulose-and-carbohydrate-chemistry]], bacterial cellulose contains no lignin or hemicellulose, giving it exceptional water-holding capacity and tensile strength. Each new batch of kombucha produces a new pellicle on the surface, and layers can be separated to start new batches or shared with other brewers.
 
 The pellicle serves several functions:
 - **Physical barrier** — Seals the liquid surface from airborne contaminants and oxygen exposure
@@ -84,7 +84,7 @@ Semi-oxidized teas create a middle ground with complex, layered flavors. Tieguan
 
 ### Herbal and Decaffeinated Options
 
-Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true Camellia sinensis tea works well. Popular additions include:
+Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true [[camellia-sinensis-entity]] tea works well. Popular additions include:
 - **Hibiscus** — Vibrant red color and tart cranberry-like flavor
 - **Rooibos** — Naturally sweet, caffeine-free base when blended
 - **Chamomile** — Calming floral notes
@@ -93,7 +93,7 @@ Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support S
 ### Teas to Avoid
 
 - Flavored oils ( Earl Grey's bergamot oil) can inhibit SCOBY growth
-- Herbal teas with strong essential oils (peppermint in high concentration, eucalyptus)
+- Herbal teas with strong [[essential-oils-and-hydrosol-distillation]] (peppermint in high concentration, eucalyptus)
 - Artificially flavored or sweetened teas
 
 ## Sugar Selection
@@ -198,7 +198,7 @@ Research on kombucha is still emerging, with most studies conducted in vitro or 
 
 - **Acidity** — Kombucha's low pH (2.5–3.5) can damage tooth enamel; rinse mouth with water after drinking
 - **Alcohol content** — Home-brewed kombucha may contain 0.5–3% ABV depending on fermentation time and conditions; legally significant in some jurisdictions
-- **Histamine intolerance** — Fermented foods can trigger symptoms in histamine-sensitive individuals
+- **Histamine intolerance** — [[fermented-foods-and-beverages]] can trigger symptoms in histamine-sensitive individuals
 - **Immunocompromised individuals** — Should consult healthcare provider before consuming live fermented foods due to risk of opportunistic infection
 - **Pregnancy** — Limited research; many healthcare providers recommend avoiding due to trace alcohol and caffeine content
 - **Heavy metal leaching** — Never brew or store kombucha in ceramic or lead-glazed containers; acids can leach heavy metals
@@ -240,7 +240,7 @@ Understanding kombucha's organic acid composition explains its characteristic fl
 - **Gluconic acid (C₆H₁₂O₇)** — A milder, slightly sweet acid produced when *Gluconacetobacter* oxidizes glucose directly. Balances acetic acid's sharpness and contributes to the beverage's round mouthfeel. Typically 2–5 g/L.
 - **Lactic acid (C₃H₆O₃)** — Produced by *Lactobacillus* species via glycolysis. Contributes clean, yogurt-like tang. More prominent in longer ferments. Typically 0.5–2 g/L.
 - **Malic acid** — Found naturally in tea; contributes subtle apple-like tartness. May be metabolized by malolactic bacteria into lactic acid over time.
-- **Citric acid** — Present in small amounts from tea leaves; adds brightness.
+- **[[citric-acid-cycle-tca-krebs-cycle]]** — Present in small amounts from tea leaves; adds brightness.
 - **Succinic acid** — A metabolic intermediate that contributes umami and slight saltiness.
 - **Usnic acid** — Produced by some SCOBY cultures; has antimicrobial properties but can be hepatotoxic in very high concentrations (not a concern at normal kombucha levels).
 
@@ -326,7 +326,7 @@ In the United States, commercially produced kombucha is regulated by the FDA and
 
 ## Cultural Significance
 
-Kombucha represents a modern intersection of ancient fermentation wisdom and contemporary wellness culture. Its resurgence since the early 2000s has paralleled growing interest in gut health, probiotics, and functional foods. The sharing of SCOBYs between brewers — a tradition dating back centuries — embodies a culture of communal food production that predates commercial food systems. Today, kombucha sits at the center of broader conversations about fermentation as a form of food sovereignty, microbial literacy, and sustainable food preservation.
+Kombucha represents a modern intersection of ancient fermentation wisdom and contemporary wellness culture. Its resurgence since the early 2000s has paralleled growing interest in gut health, probiotics, and [[functional-foods-medicinal-mushrooms]]. The sharing of SCOBYs between brewers — a tradition dating back centuries — embodies a culture of communal food production that predates commercial food systems. Today, kombucha sits at the center of broader conversations about fermentation as a form of food sovereignty, microbial literacy, and sustainable [[food-preservation-canning]].
 
 ### Historical Timeline
 

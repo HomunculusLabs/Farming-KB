@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka presents a striking analysis of how dietary
+[[masanobu-fukuoka]] presents a striking analysis of how dietary
 choices determine the amount of land needed to support human
 life. By calculating the land area required per person
 depending on whether they eat grains, potatoes, milk, pork,
@@ -148,11 +148,3 @@ fending for themselves under the open sky.
 
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
   for the energy calculations
-- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]
-  for livestock-specific analysis
-- [[fukuoka-textdoc-laying-waste-land-sea]] for the
-  broader environmental impact
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-  for agriculture's energy paradox
-- [[fukuoka-textdoc-natural-livestock-open-grazing]] for
-  open grazing methods

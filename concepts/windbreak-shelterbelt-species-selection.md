@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Windbreak and Shelterbelt Species Selection
 
@@ -58,7 +59,7 @@ For example, a windward edge of seaberry (Hippophae) or caragana, a middle row o
 
 In sandy and calcareous soils, specific species perform better as windbreaks. Good windbreak species for sandy soils include casuarinas, some acacia species, and poplars. For low windbreaks on sandy and calcareous soils, certain acacias and native shrubs are ideal.
 
-Trees that readily form thickets are ideal for low windbreaks and erosion control. On slopes, windbreaks should be combined with terraces to prevent both wind erosion and water erosion, connecting to [[holzer-terrace-systems]] and [[permaculture-earthworks-guide]].
+Trees that readily form thickets are ideal for low windbreaks and erosion control. On slopes, windbreaks should be combined with terraces to prevent both wind erosion and water erosion, connecting to [[holzer-terrace-systems]] and [[permaculture-water-harvesting-earthworks]].
 
 ## Fodder Windbreaks
 
@@ -70,7 +71,7 @@ Tagasaste (tree lucerne) can serve as both a windbreak and a high-protein fodder
 
 Windbreaks planted as continuous corridors connecting habitat areas serve dual functions. They provide wind protection while allowing wildlife to move safely across the landscape. Species that produce berries, seeds, or nectar attract birds and beneficial insects, integrating windbreak design with [[permaculture-wildlife-corridors]] and [[permaculture-insectary-plants]].
 
-Hawthorns, elderberries, and native berry-producing shrubs in windbreaks provide food for birds, who in turn provide pest control services for adjacent crops. This multi-functional approach embodies [[permaculture-principle-integrate-rather-than-segregate]].
+Hawthorns, elderberries, and native berry-producing shrubs in windbreaks provide food for birds, who in turn provide pest control services for adjacent crops. This multi-functional approach embodies [[permaculture-design-principles]].
 
 ## Windbreak Maintenance
 

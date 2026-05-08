@@ -16,7 +16,7 @@ Sequestrate fungi are fungi whose spore-bearing structures remain enclosed, do n
 
 ### Convergent Evolution
 
-Sequestrate fruiting bodies have evolved independently in multiple lineages of [[ascomycete-phylum-guide]], [[basidiomycete-phylum-guide]], and [[zygomycete-phylum-guide]]. This convergent evolution reflects adaptation to spore dispersal by animals (primarily mammals) rather than by wind. The enclosed fruiting body protects spores from desiccation and makes them attractive to mycophagous animals. See also [[fungal-speciation-evolution]] for broader evolutionary context.
+Sequestrate fruiting bodies have evolved independently in multiple lineages of [[ascomycete-phylum-guide]], [[basidiomycete-phylum-guide]], and zygomycete phylum guide. This convergent evolution reflects adaptation to spore dispersal by animals (primarily mammals) rather than by wind. The enclosed fruiting body protects spores from desiccation and makes them attractive to mycophagous animals. See also [[fungal-speciation-evolution]] for broader evolutionary context.
 
 ### Morphological Reduction Sequences
 
@@ -44,7 +44,7 @@ Over 70 genera of sequestrate fungi have been described, with many undescribed g
 
 ## Zygomycete Sequestrate Fungi
 
-The Glomales fossil record suggests an extremely early occurrence of species forming individual spores among roots in soil (Taylor et al. 1995), placing sequestrate-like forms deep in fungal evolutionary history. Sequestrate Zygomycetes may represent an evolutionary progression in the opposite direction from that seen in Basidiomycota and Ascomycota -- from simple to complex rather than from complex to reduced. This makes them a unique case study in [[fungal-endemism-and-biogeography]] and [[arbuscular-mycorrhizal-fungi]] evolution. See [[zygomycete-phylum-guide]] for detailed Zygomycete taxonomy.
+The Glomales fossil record suggests an extremely early occurrence of species forming individual spores among roots in soil (Taylor et al. 1995), placing sequestrate-like forms deep in fungal evolutionary history. Sequestrate Zygomycetes may represent an evolutionary progression in the opposite direction from that seen in Basidiomycota and Ascomycota -- from simple to complex rather than from complex to reduced. This makes them a unique case study in [[fungal-endemism-and-biogeography]] and [[arbuscular-mycorrhizal-fungi]] evolution. See zygomycete phylum guide for detailed Zygomycete taxonomy.
 
 ## Diversity and Distribution
 
@@ -120,7 +120,7 @@ Many sequestrate fungi face threats from habitat destruction, particularly the c
 - [[fungal-conservation-endangered-species]] -- conservation of rare sequestrate taxa
 - [[fungal-biodiversity]] -- sequestrate fungi within global fungal diversity
 - [[fungal-species-concept]] -- species delimitation in sequestrate fungi
-- [[zygomycete-phylum-guide]] -- Zygomycete sequestrate forms
+- zygomycete phylum guide -- Zygomycete sequestrate forms
 - [[basidiomycete-phylum-guide]] -- Basidiomycete sequestrate diversity
 - [[ascomycete-phylum-guide]] -- Ascomycete truffles and allies
 - [[fungal-inventory-methods]] -- field survey techniques

@@ -106,7 +106,7 @@ from each section of your garden. This ties directly into
 different nutrients are being taken up and returned to the soil in a more
 balanced pattern over time.
 
-For gardeners practicing [[no-till-benefits]] methods, crop rotation
+For gardeners practicing [[composting-and-soil-biology]] methods, crop rotation
 pairs naturally with permanent bed systems where pathways remain fixed
 and only the planting zones rotate. This approach minimizes soil
 disturbance while still reaping the pest, disease, and nutrient benefits

@@ -121,6 +121,6 @@ Starting with "Contaminant not parasitizing the fruitbody":
 -   [[mushroom-cultivator-contamination-prevention]] — prevention
     strategies
 -   [[troubleshooting-mushroom-contamination]] — troubleshooting guide
--   [[mushroom-cultivation-sterile-technique]] — sterile technique
+-   [[mushroom-cultivation-fundamentals]] — sterile technique
     fundamentals
 -   [[trichoderma-forest-green-mold-guide]] — Trichoderma-specific guide

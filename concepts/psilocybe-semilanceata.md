@@ -18,7 +18,7 @@ type: concept
 
 Psilocybe semilanceata, commonly known as the liberty cap, is the most common wild
 hallucinogenic mushroom in Europe and one of the most potent naturally occurring sources of
-[[psilocybin]]. It belongs to the Strophariaceae family and the Psilocybe genus. Unlike
+[[psilocybin-compound]]. It belongs to the Strophariaceae family and the Psilocybe genus. Unlike
 [[psilocybe-cubensis]], which is predominantly cultivated for the commercial market,
 P. semilanceata is primarily encountered in the wild, where it is foraged by mushroom hunters
 rather than purchased through retail channels.
@@ -125,6 +125,6 @@ without criminalising landowners on whose property they grow.
 ## See Also
 
 - [[psilocybe-cubensis]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - Hallucinogenic mushrooms
 - [[amanita-muscaria]]

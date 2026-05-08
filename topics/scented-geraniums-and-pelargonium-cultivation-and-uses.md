@@ -11,7 +11,7 @@ sources:
 
 # Scented Geraniums and Pelargonium Cultivation and Uses
 
-Scented geraniums—botanically *Pelargonium* species and their hybrids—are among the most versatile and underappreciated plants in the home garden and permaculture landscape. Despite their common name, they are not true geraniums (*Geranium* spp., cranesbills) but belong to the Geraniaceae family alongside their distant cousins. Native primarily to southern Africa, these aromatic plants have been cultivated for centuries for their essential oils, culinary applications, medicinal properties, and ornamental value.
+Scented geraniums—botanically *Pelargonium* species and their hybrids—are among the most versatile and underappreciated plants in the home garden and permaculture landscape. Despite their common name, they are not true geraniums (*Geranium* spp., cranesbills) but belong to the Geraniaceae family alongside their distant cousins. Native primarily to southern Africa, these aromatic plants have been cultivated for centuries for their [[essential-oils-and-hydrosol-distillation]], culinary applications, medicinal properties, and ornamental value.
 
 ## Taxonomy and Origins
 
@@ -88,9 +88,9 @@ Full sun (6–8 hours) produces the most compact growth and highest essential oi
 
 Well-drained soil is non-negotiable. Scented geraniums are highly susceptible to root rot in heavy, waterlogged soils.
 
-- **Garden soil**: Sandy loam amended with perlite or coarse sand; pH 6.0–7.0
+- **[[garden-soil-terminology-glossary]]**: Sandy loam amended with perlite or coarse sand; pH 6.0–7.0
 - **Containers**: Potting mix with 30–40% perlite or pumice; terracotta pots preferred for drainage
-- **Raised beds**: Excellent option in clay-heavy soils
+- **[[raised-beds-vs-in-ground-vs-containers]]**: Excellent option in clay-heavy soils
 
 ### Watering
 
@@ -110,7 +110,7 @@ These are light feeders. Excess nitrogen produces lush but scentless foliage.
 1. Take 3–4 inch cuttings from non-flowering stems in spring or late summer
 2. Remove lower leaves, leaving 2–3 nodes
 3. Dip cut end in rooting hormone (optional but improves success rate)
-4. Stick into moist perlite, sand, or seed-starting mix
+4. Stick into moist perlite, sand, or [[seed-starting-methods-comparison]] mix
 5. Maintain high humidity (humidity dome or plastic bag) and bright indirect light
 6. Roots form in 2–4 weeks; transplant when roots are 1–2 inches long
 
@@ -245,7 +245,7 @@ Freeze whole leaves in ice cube trays with water or oil for convenient later use
 Scented geraniums are ideally suited to Mediterranean conditions. Plant in well-drained sandy or rocky soil in full sun. They can survive on minimal irrigation once established, making them excellent candidates for xeriscaping and water-wise gardens. In these climates, they can be planted directly in the ground as permanent landscape elements.
 
 ### Temperate Climates (Zones 7–8)
-In regions with mild but freezing winters, scented geraniums can be grown in the ground during frost-free months but must be protected or brought indoors before temperatures drop below 30°F (-1°C). Heavy mulching with straw or frost cloth can provide brief protection down to 25°F (-4°C), but extended freezes are fatal. Container growing simplifies the transition indoors.
+In regions with mild but freezing winters, scented geraniums can be grown in the ground during frost-free months but must be protected or brought indoors before temperatures drop below 30°F (-1°C). Heavy mulching with straw or frost cloth can provide brief protection down to 25°F (-4°C), but extended freezes are fatal. [[container-growing-vegetables-herbs]] simplifies the transition indoors.
 
 ### Cold Climates (Zones 6 and below)
 Container growing is essential. Plants spend May–October outdoors and October–April indoors. Select compact varieties for indoor growing — large specimens like *P. tomentosum* need significant space. South-facing windows with supplemental light from a simple LED grow strip are sufficient to keep plants healthy through winter. The dormant storage method (dark, cool basement, monthly watering) works well for growers without adequate indoor light.
@@ -268,7 +268,7 @@ High humidity is the primary challenge. Scented geraniums can struggle with fung
 ## Landscaping and Design Uses
 
 ### Container Combinations
-Scented geraniums pair beautifully with other drought-tolerant plants in mixed containers:
+Scented geraniums pair beautifully with other [[drought-tolerant-planting-design]] plants in mixed containers:
 - Rose geranium + trailing rosemary + ornamental oregano
 - Lemon geranium + lavender + thyme (Mediterranean theme)
 - Peppermint geranium + creeping jenny + variegated mint
@@ -317,4 +317,4 @@ In traditional Cape Dutch and Afrikaner culture, rose geranium leaves were place
 
 ## Summary
 
-Scented geraniums are remarkably multifunctional plants that bridge the gap between ornamental gardening, culinary arts, herbal medicine, and permaculture design. Their drought tolerance, pest-repelling properties, ease of propagation, and extraordinary aromatic diversity make them invaluable in any garden setting. Whether grown in a kitchen window, a permaculture guild, or a dedicated aromatic garden, pelargoniums reward the grower with fragrance, flavor, and beauty throughout the growing season—and with proper overwintering, for many years beyond.
+Scented geraniums are remarkably multifunctional plants that bridge the gap between ornamental gardening, culinary arts, herbal medicine, and [[permaculture-design-course-notes]]. Their drought tolerance, pest-repelling properties, ease of propagation, and extraordinary aromatic diversity make them invaluable in any garden setting. Whether grown in a kitchen window, a [[permaculture-guild-design-method]], or a dedicated aromatic garden, pelargoniums reward the grower with fragrance, flavor, and beauty throughout the growing season—and with proper overwintering, for many years beyond.

@@ -120,4 +120,4 @@ Red varieties require full sun for maximum anthocyanin development. Green variet
 
 - [[ocimum-basilicum]] — Closely related Lamiaceae herb with overlapping culinary and aromatic profiles
 - [[mentha-piperita]] — Fellow mint-family herb with complementary phytochemistry (menthol vs. perillaldehyde)
-- [[ocimum-tenuiflorum]] — Sacred basil with overlapping traditional medicine applications in Asian systems
+- [[ocimum-tenuiflorum-entity]] — Sacred basil with overlapping traditional medicine applications in Asian systems

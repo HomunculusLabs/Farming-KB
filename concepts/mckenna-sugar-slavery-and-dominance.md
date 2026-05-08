@@ -116,6 +116,6 @@ McKenna's framing of sugar as a drug has gained additional support from modern n
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[psychedelic-plants-and-civilization]]

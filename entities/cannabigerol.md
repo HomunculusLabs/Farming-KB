@@ -148,4 +148,3 @@ dried floral material.
 - [[cannabis-minor-cannabinoids]]
 - [[cannabis-minor-cannabinoids]]
 - [[myrcene]]
-- [[limonene]]

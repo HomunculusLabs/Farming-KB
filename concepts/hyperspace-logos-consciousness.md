@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # Hyperspace, the Logos, and Consciousness
 
-Terence McKenna's framework of hyperspace and the Logos provides an ontological interpretation of the experiences produced by [[tryptamine hallucinogens]]. This framework posits that the [[dmt]] and [[psilocybin]] states grant access to a dimension of transhuman intelligence that exists at the quantum foundation of being, in the human future, and after death, all of which are "seen to be part of a single continuum."
+Terence McKenna's framework of hyperspace and the Logos provides an ontological interpretation of the experiences produced by [[tryptamine-hallucinogens]]. This framework posits that the [[dmt]] and [[psilocybin-compound]] states grant access to a dimension of transhuman intelligence that exists at the quantum foundation of being, in the human future, and after death, all of which are "seen to be part of a single continuum."
 
 The framework integrates elements of quantum physics, philosophy of mind, and phenomenological description into a unified account of consciousness and its relationship to a larger informational reality.
 
@@ -27,7 +27,7 @@ McKenna used the term "Logos" to refer to the transhuman, hyperdimensional intel
 
 - A universe of "active intelligence that is transhuman, hyperdimensional, and extremely alien"
 - Something that exists "one quanta away" from ordinary reality, always present but normally inaccessible
-- Accessible through [[tryptamine hallucinogens]], which "invoke the Logos" by acting directly on the brain's language centers
+- Accessible through [[tryptamine-hallucinogens]], which "invoke the Logos" by acting directly on the brain's language centers
 - Capable of conveying translinguistic information that cannot be translated into any human language
 - Consistently encountered across different tryptamine compounds and different experiencers
 
@@ -41,7 +41,7 @@ Hyperspace in McKenna's framework is not a speculative physics concept but a phe
 
 - A feeling of being underground or inside an insulated, domed space (the "merry go raum")
 - Three-dimensional and fourth-dimensional deployment of information coded as light and evolving surfaces
-- The presence of [[self-transforming machine elves]] and other hyperdimensional entities
+- The presence of [[self-transforming-machine-elves]] and other hyperdimensional entities
 - Translinguistic information complexes that resist human comprehension
 - An intensity that exceeds any other form of hallucinogenic experience
 
@@ -52,7 +52,7 @@ McKenna stated that "magic is alive in hyperspace" and that the gnosis present t
 A central claim of McKenna's framework is that several states previously considered discrete and separate are actually part of a single continuum:
 
 - Dream
-- The [[psilocybin]] trance
+- The [[psilocybin-compound]] trance
 - The [[dmt]] state
 - The quantum foundation of being
 - The human future
@@ -115,7 +115,7 @@ The resolution, he argued, lies in learning to "love the alien," which would beg
 
 ## Philip K. Dick and the Hibernation of the Logos
 
-McKenna drew on [[Philip K. Dick]]'s novel Valis for the concept of the Logos as a "creature of pure information" that was buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
+McKenna drew on [[philip-k.-dick]]'s novel Valis for the concept of the Logos as a "creature of pure information" that was buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
 
 The Logos existed as static information until 1947, when the Nag Hammadi texts were translated and read, bringing the symbiotic intelligence back to life. This parallels the rediscovery of psilocybin mushrooms by the Wassons in the 1950s, which "unleashed" a consciousness that had been driven into hiding.
 

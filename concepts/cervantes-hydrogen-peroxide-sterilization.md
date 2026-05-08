@@ -48,7 +48,7 @@ found in well water as well as removing chlorine from tap water.
 
 For growers using well water or municipal water with chlorine, hydrogen
 peroxide provides a way to purify the water supply before it reaches
-plants. See [[cervantes-water-quality-management]] for comprehensive
+plants. See [[cannabis-advanced-growing-techniques]] for comprehensive
 water treatment guidance.
 
 ## Hydroponic Applications
@@ -136,11 +136,11 @@ in recirculating systems.
 
 - [[hydrogen-peroxide-tissue-culture-wild-polypores]] Concepts
 
-- [[cervantes-water-quality-management]] - comprehensive water
+- [[cannabis-advanced-growing-techniques]] - comprehensive water
   treatment
 - [[cervantes-seed-germination]] - seed sterilization and germination
 - [[cervantes-hydroponic-systems]] - hydroponic applications
-- [[cervantes-water-culture-systems]] - water culture and oxygenation
+- [[cannabis-advanced-growing-techniques]] - water culture and oxygenation
 - [[cervantes-pest-disease]] - disease prevention and treatment
 - [[cervantes-trichoderma-beneficial-fungi]] - beneficial organisms
   affected by H2O2

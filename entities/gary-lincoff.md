@@ -76,8 +76,8 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[psilocybe-tampanensis]]
+- [[psilocybe-tampanensis-entity]]
 - [[psilocybin-mushrooms]]
 - [[mushroom-identification]]
 - [[psilocybin-mushroom]]
-- [[gary-payton]]
+- [[gary-payton-cannabis]]

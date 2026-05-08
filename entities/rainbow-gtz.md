@@ -108,8 +108,8 @@ The strain's genetics have also been incorporated into several crosses in the co
 - [[grape-ape]]
 - triangle kush
 - og triple og
-- [[runtz]]
-- [[gelato]]
+- [[runtz-entity]]
+- [[gelato-cannabis]]
 - [[kush-mints]]
 - exotic strains
 - [[cannabis-extraction-basics]]

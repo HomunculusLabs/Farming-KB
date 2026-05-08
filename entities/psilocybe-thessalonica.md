@@ -46,7 +46,7 @@ This edaphic specialization may be a key factor limiting its distribution to the
 
 ## Chemistry
 
-The species contains [[psilocybin]] and [[psilocin]], as evidenced by both the characteristic blue bruising reaction and chemical analysis. Psilocybin has been confirmed by both thin-layer chromatography (TLC) and high-performance liquid chromatography (HPLC) analyses of dried fruiting body tissue.
+The species contains [[psilocybin-compound]] and [[psilocin]], as evidenced by both the characteristic blue bruising reaction and chemical analysis. Psilocybin has been confirmed by both thin-layer chromatography (TLC) and high-performance liquid chromatography (HPLC) analyses of dried fruiting body tissue.
 Psilocin is present in the fresh material, consistent with the strong bluing reaction observed on the stipe and lamellae. [[baeocystin]] is also likely present, as it commonly co-occurs with psilocybin in section Psilocybe species, though specific quantitative data are limited.
 Overall potency is considered comparable to [[psilocybe-serbica]] and other Balkan Psilocybe species, placing it in the moderate range. The psychoactive effects are consistent with those of other psilocybin-containing fungi, primarily mediated by agonist activity at serotonin 5-HT2A receptors.
 The onset of effects following ingestion typically occurs within 30 to 60 minutes, with a duration of 4 to 6 hours, consistent with the pharmacokinetic profile of orally administered psilocybin. These parameters align with those reported for other section Psilocybe species of similar alkaloid content.
@@ -77,6 +77,6 @@ The Mediterranean Basin biodiversity hotspot, in which *P. thessalonica* occurs,
 - [[psilocybe-serbica]]: closely related Balkan species
 - [[psilocybe-bohemica]]: Central European congener
 - [[psilocybe-moravica]]: related species from the Czech Republic
-- [[psilocybin]]: primary psychoactive alkaloid
+- [[psilocybin-compound]]: primary psychoactive alkaloid
 - [[baeocystin]]: minor tryptamine alkaloid likely present
 - [[gartz-magic-mushrooms-global-distribution-patterns]]: source survey covering this species

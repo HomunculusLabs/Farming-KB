@@ -148,4 +148,3 @@ identified as a specific medicine.
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[oner-cannabis-terpene-profiles-effects]]
-- [[cannabis-for-hepatitis-and-liver-conditions]]

@@ -117,7 +117,7 @@ See also: [[fungal-endophytes-agricultural-crops]]
 
 Endophytes are being explored as biocontrol agents against plant diseases. Some endophytic species produce antimicrobial compounds effective against important plant pathogens. The internal colonization of plant tissues gives endophytes a unique advantage as biocontrol agents, as they are already positioned within the host tissue where pathogens attempt to establish.
 
-See also: [[mycopesticides-fungal-biocontrol]], [[fungal-mycoparasitism-and-biocontrol-interactions]], [[mycopesticides-fungal-biocontrol]]
+See also: [[mushroom-cultivation-fundamentals]], [[fungal-mycoparasitism-and-biocontrol-interactions]], [[mushroom-cultivation-fundamentals]]
 
 ### Phytoremediation
 

@@ -1,11 +1,11 @@
 ---
-title: "Solidago virgaurea"
+title: "solidago virgaurea"
 created: 2026-04-28
 type: species
 tags:
   - herbal-plant
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - pollinator-plant
   - dynamic-accumulator
   - traditional-medicine
@@ -22,18 +22,17 @@ sources:
   - Kavalali, G. (2003). "Solidago virgaurea: phytochemical and pharmacological
     properties." Pharmacognosy Reviews.
 ---
-
 # Solidago virgaurea
 
 **European Goldenrod** is a perennial herbaceous plant in the *Asteraceae*
 family, native to Europe and western Asia. Known as *Goldrute* in German and
 *verge d'or* in French, it has been used medicinally for over 700 years,
-primarily as a diuretic and anti-inflammatory agent for urinary tract
-disorders. In permaculture systems, goldenrod serves as a late-season
+primarily as a diuretic and [[medicinal-mushroom-antioxidant-anti-inflammatory]] agent for urinary tract
+disorde [[water-harvesting-and-conservation-in-permaculture]] gners-electric-fencing-in-permaculture-systems]]-and-integration-into-permaculture-systems]], goldenrod serves as a late-season
 pollinator resource, a dynamic mineral accumulator, and a companion plant
-that attracts predatory insects.
+that attractrichome-development-and-morphologynsects.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 - **Kingdom:** Plantae
 - **Division:** Angiosperms
@@ -64,7 +63,7 @@ Blooms July through October — a critical late-season nectar source.
 ## Distribution and Habitat
 
 Native to Europe, western Siberia, and parts of North Africa.
-Naturalized in eastern North America, New Zealand, and southeastern
+Naturalized in [[polypore-fungi-eastern-north-america]] le-mushrooms-north-america]], New Zealand, and southeastern
 Australia. Grows in open woodlands, forest edges, meadows, roadsides, and
 rocky slopes from lowland to subalpine elevations (up to 2,500 m).
 
@@ -97,13 +96,13 @@ constituents:
 ### Urinary Tract Support
 
 The best-validated medicinal application. European Medicines Agency (EMA)
-recognizes *Solidaginis herba* as a traditional herbal medicine for:
+recognizes *Solidaginis herba* as a traditional [[herbal-medicine]] for:
 - Irritative symptoms of the lower urinary tract
 - Prophylaxis of urinary gravel (kidney stones)
 - Adjunctive treatment of bacterial urinary tract infections
 
 A 2006 randomized, double-blind clinical trial (Melzer et al.) demonstrated
-that a fixed combination of *S. virgaurea* and *Betula pendula* leaf extract
+that a fixed combination of *S. virgaurea* and *[[betula-pendula]]* leaf extract
 significantly reduced urinary symptoms compared to placebo over 12 weeks.
 
 ### Anti-inflammatory Properties
@@ -130,7 +129,7 @@ Goldenrod has multiple valuable functions in designed ecosystems:
   lacewings, and parasitic wasps that control aphid populations
 - **Erosion control:** Rhizomatous root systems stabilize slopes and
   stream banks
-- **Companion planting:** Repels certain pest insects when interplanted
+- **[[companion-planting]]:** Repels certain pest insects when interplanted
   with vegetables; attracts pollinators to adjacent fruit crops
 - **Chop-and-drop mulch:** High C:N ratio foliage provides long-lasting
   mulch when cut back in late autumn
@@ -148,10 +147,3 @@ Contraindicated in edema due to cardiac or renal insufficiency. Avoid during
 pregnancy and lactation due to insufficient safety data.
 
 ## See Also
-
-- [[beneficial-insect-habitat]]
-
-- [[herb-growing-guide]]
-
-- [[companion-planting]]
-

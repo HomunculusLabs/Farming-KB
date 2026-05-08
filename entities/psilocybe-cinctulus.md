@@ -115,7 +115,7 @@ Emerging interest in microdosing has renewed attention on *P. cinctulus* as a lo
 - [[psilocybe-cubensis]]
 - [[panaeolus-subbalteatus]]
 - [[baeocystin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[amanita-muscaria]]
 - [[copelandia-cyanescens]]
 - [[panaeolus-cyanescens]]

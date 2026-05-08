@@ -124,5 +124,5 @@ The genus *Grindelia* contains approximately 30 species distributed across North
 - [[verbascum-thapsus]]
 - [[inula-helenium]]
 - [[tussilago-farfara]]
-- [[thymus-vulgaris]]
+- [[thymus-vulgaris-entity]]
 - [[hypericum-perforatum]]

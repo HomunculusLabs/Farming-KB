@@ -22,7 +22,7 @@ achieving productive growing conditions.
 
 ## No-Till
 
-[[no-till-benefits]]
+[[composting-and-soil-biology]]
 
 No-till farming and gardening eliminates all mechanical soil
 disturbance entirely. Instead of turning, tilling, or cultivating
@@ -148,5 +148,3 @@ undisturbed.
 - [[living-soil-cannabis]]
 - [[fukuoka-no-till-grain-production-method]]
 - [[coleman-bed-preparation-and-minimal-tillage]]
-- [[comparison-living-soil-vs-hydroponic]]
-- [[comparison-chisel-plough-vs-no-tillage]]

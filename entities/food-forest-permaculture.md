@@ -20,7 +20,7 @@ sources:
   - https://www.agroforestry.org/ — temperate agroforestry resources
 ---
 
-# Food Forest
+# [[food-forest]]
 
 A **food forest** (also called a **forest garden**) is a **perennial polyculture system** designed to mimic the structure and function of a natural forest ecosystem while producing an abundance of food, fiber, medicine, and other useful yields. Rooted in the principles of **permaculture** and **agroforestry**, food forests represent one of the most regenerative, sustainable, and productive forms of human agriculture — capable of producing more calories per acre than conventional annual farming while simultaneously building soil, sequestering carbon, supporting biodiversity, and requiring minimal external inputs once established.
 
@@ -62,7 +62,7 @@ Food forests are designed around **vertical stratification** — the concept tha
 
 **4. Herbaceous Layer — 0.5–2 meters**
 - Non-woody perennial plants and some self-seeding annuals
-- Species: Comfrey, Jerusalem artichoke, globe artichoke, asparagus, rhubarb, Good King Henry, sea kale, cardoon, lovage, mints, perennial kale
+- Species: Comfrey, [[jerusalem-artichoke]], globe artichoke, asparagus, rhubarb, Good King Henry, sea kale, cardoon, lovage, mints, perennial kale
 - Function: Dynamic nutrient accumulation (comfrey), diverse greens and vegetables, ground cover
 - Notes: Comfrey (*Symphytum* spp.) is considered the "queen" of this layer — deep taproots mine subsoil minerals for surface mulch
 
@@ -74,7 +74,7 @@ Food forests are designed around **vertical stratification** — the concept tha
 
 **6. Root Layer (Rhizosphere) — 0–2+ meters deep**
 - Edible root crops and tuberous perennials
-- Species: Potatoes (in early succession), yacon, oca, mashua, groundnut (*Apios americana*), Jerusalem artichoke, skirret, Chinese artichoke, horseradish, camas
+- Species: Potatoes (in early succession), yacon, oca, mashua, groundnut (*[[apios-americana]]*), Jerusalem artichoke, skirret, Chinese artichoke, horseradish, camas
 - Function: Calorie-dense staple crops, soil aeration, nutrient cycling
 - Notes: Many are shade-tolerant and can be interplanted throughout all layers
 
@@ -88,7 +88,7 @@ Food forests are designed around **vertical stratification** — the concept tha
 
 **8. Fungal Layer (Mycorrhizal)**
 - Mushroom-producing fungi integrated throughout the system
-- Species: Wine cap (*Stropharia rugosoannulata*), shiitake on logs, oyster mushrooms, king stropharia in mulch paths, chanterelles (long-term)
+- Species: Wine cap (*[[stropharia-rugosoannulata]]*), shiitake on logs, oyster mushrooms, king stropharia in mulch paths, chanterelles (long-term)
 - Function: Decomposition, nutrient cycling, mycorrhizal networks connecting plants, additional food yield
 
 **9. Aquatic/Wetland Layer**
@@ -142,56 +142,6 @@ A well-designed food forest produces:
 - **Water:** Improved infiltration, spring restoration
 - **Habitat:** Wildlife corridors, pollinator refuges, bird nesting sites
 - **Beauty:** Aesthetic, recreational, and educational value
-
-### Case Studies
-
-**Martin Crawford's Forest Garden (Dartmoor, UK):**
-- ~0.5 acre, established 1994, >500 species
-- Over 500 edible/medicinal species in a temperate climate
-- Yields recorded for hundreds of species
-- Demonstrated viability of food forests in cool temperate climates
-
-**Beacon Food Forest (Seattle, USA):**
-- 7-acre public food forest on city land
-- Community-designed and maintained
-- Includes P-Patch allotments, gathering spaces, food forest layers
-- Model for urban food forestry worldwide
-
-**Annie's Annuals & Perennials (Richmond, CA):**
-- Mediterranean climate food forest demonstration
-- Emphasis on drought-adapted perennial crops
-
-## Climate Adaptability
-
-Food forests are adaptable to virtually every climate zone:
-
-- **Temperate:** Apple, pear, chestnut, hazelnut, berry shrubs, comfrey guilds
-- **Subtropical:** Citrus, avocado, loquat, banana, passionfruit, sweet potato
-- **Tropical:** Breadfruit, coconut, durian, cacao, banana, taro, cassava, vanilla
-- **Arid/Semi-arid:** Mesquite, date palm, pomegranate, fig, agave, prickly pear, moringa
-- **Cold continental:** Siberian peashrub, sea buckthorn, haskap, saskatoon, groundnut
-
-The key principle remains: **mimic the local forest structure** using locally adapted species.
-
-## Challenges and Considerations
-
-- **Establishment time:** Food forests require 3–7 years before significant yields; this is a long-term investment
-- **Initial labor and cost:** Establishment requires significant upfront work and investment in plants, mulch, and infrastructure
-- **Design complexity:** Proper guild design requires knowledge of plant interactions, root patterns, light requirements, and succession
-- **Pest management in early stages:** Young plants are vulnerable before the ecosystem self-regulates
-- **Social acceptance:** Food forests challenge conventional notions of agriculture and landscaping; education is often needed
-- **Access and harvest efficiency:** Densely layered systems can make harvesting difficult; design pathways carefully
-- **Nut crop processing:** Many staple calories (acorns, chestnuts) require processing; this knowledge has been largely lost
-
-## Carbon Sequestration
-
-Food forests are among the most effective **carbon-negative land use systems**:
-- Perennial woody biomass sequesters carbon above and below ground
-- No-till practices preserve soil carbon stocks
-- Deep-rooted perennials move carbon deep into soil profiles
-- Estimated sequestration: 2–10 tonnes CO₂/ha/year (varies by climate and maturity)
-- Net carbon storage increases for 30–50+ years as the system matures
-
 ## See Also
 
 - [[agroforestry]]

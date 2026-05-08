@@ -15,7 +15,7 @@ sources:
   - https://doi.org/10.1007/s00134-011-2361-1
   - https://www.dea.gov/drug-information/peyote
 aliases:
-  - Lophophora williamsii
+  - [[lophophora-williamsii]]
   - peyotl
   - mescal button
 created: 2026-05-07
@@ -23,7 +23,7 @@ created: 2026-05-07
 
 # Peyote
 
-Peyote (*Lophophora williamsii*) is a small, spineless cactus in the family Cactaceae, native to the Chihuahuan Desert spanning southern Texas (Rio Grande Valley) and central Mexico (states of Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, and Zacatecas). It is one of the oldest known psychoactive plants, with archaeological evidence of ritual use dating back over 5,700 years. Peyote contains **mescaline** (3,4,5-trimethoxyphenethylamine) as its primary psychoactive alkaloid, along with numerous other compounds including hordenine, anhalonine, anhalonidine, pellotine, and lophophorine.
+Peyote (*Lophophora williamsii*) is a small, spineless cactus in the family Cactaceae, native to the Chihuahuan Desert spanning southern Texas (Rio Grande Valley) and [[psychoactive-cacti-of-central-mexico]] (states of Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, and Zacatecas). It is one of the oldest known [[kwashi-and-galanga-minor-psychoactive-plants]], with [[mexican-mushroom-stones-archaeological-evidence]] of [[cannabis-spiritual-ritual-use]] dating back over 5,700 years. Peyote contains **mescaline** (3,4,5-trimethoxyphenethylamine) as its primary psychoactive alkaloid, along with numerous other compounds including hordenine, anhalonine, anhalonidine, pellotine, and lophophorine.
 
 ## Taxonomy and Botany
 
@@ -133,4 +133,4 @@ Wild peyote populations are declining due to:
 
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
-- [[mescaline]]
+- [[mescaline-entity]]

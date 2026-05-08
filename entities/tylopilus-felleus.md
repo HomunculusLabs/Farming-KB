@@ -142,10 +142,9 @@ immediate confirmation if the identity is already strongly suspected.
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[leccinum-scabrum]]
 - [[suillus-luteus]]
 - [[gyroporus-cyanescens]]
 - xerocomellus chrysenteron
 - [[rubroboletus-satanas]]
-- [[chalciporus-piperatus]]

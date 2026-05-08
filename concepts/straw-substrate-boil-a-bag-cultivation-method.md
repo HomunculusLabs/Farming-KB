@@ -142,11 +142,9 @@ that is more vulnerable to bacterial contamination than plain straw alone.
 
 ## Spore Syringe Preparation
 
-
 ## See Also
 
 - [[pf-tek-psilocybe-fanaticus]]
 - [[oyster-straw-substrate-preparation]]
 - [[pressure-cooker-sterilisation-fungal-substrate]]
-- [[perlite-humidification-mushroom-fruiting-chambers]]
-- [[mushroom-spore-syringe-preparation]]
+- [[mushroom-cultivation-fundamentals]]

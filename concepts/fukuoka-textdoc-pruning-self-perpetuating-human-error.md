@@ -30,7 +30,7 @@ As the tree grows older, the branches become ridiculously long, crossing with th
 
 ## Phyllotaxy: Nature's Perfect Order
 
-But if, instead of being neglected or abandoned, the tree is left to grow in its natural form, this is altogether a different matter. Yet no one has ever really seen a totally natural fruit tree or given any thought as to what a natural fruit tree is. Nature is a world simple and close at hand, yet at the same time distant and inaccessible.
+But if, instead of being neglected or abandoned, the tree is left to grow in its natural form, this is altogether a different matter. Yet no one has ever really seen a totally [[natural-fruit-tree-form-and-non-pruning]] tree or given any thought as to what a natural fruit tree is. Nature is a world simple and close at hand, yet at the same time distant and inaccessible.
 
 Take a look at the pines and cedars that grow in natural forests. The trunks of these trees never branch or twist as long as they are not cut or harmed. The branches on the right and left sides of the tree do not run up against each other or cross. There are no dense lower branches that die back.
 
@@ -48,7 +48,7 @@ This first pruning operation alone robs the tree of its natural form. The saplin
 
 People will stand in front of a citrus tree and, saying that these branches here are growing so closely that they are shutting off sunlight, casually make a few quick cuts with the shears. But they never stop to consider the enormous impact this has on the tree. Because of this single pruning, the grower will have to continue pruning the tree for the rest of its lifetime.
 
-Pruning only creates a need for more pruning, but if the grower realizes that trees not in need of pruning also exist in this world and is determined to grow such trees, they will bear fruit without pruning. How much wiser and easier it is to limit oneself to minimal corrective pruning aimed only at bringing the tree closer to its natural form rather than practicing a method of fruit growing that requires extensive pruning each and every year.
+Pruning only creates a need for more pruning, but if the grower realizes that trees not in need of pruning also exist in this world and is determined to grow such trees, they will bear fruit without pruning. How much wiser and easier it is to limit oneself to minimal corrective pruning aimed only at bringing the tree closer to its natural form rather than practicing a method of [[fruit-growing-guide-organic]] that requires extensive pruning each and every year.
 
 ## The Wound That Never Heals
 
@@ -82,7 +82,7 @@ But is it really in the best interests of the farmer to rashly prune his trees w
 
 One of the most persistent misunderstandings is equating a neglected, abandoned tree with a natural one. When an orchard is abandoned, the trees do not revert to their natural form — they carry the scars of every previous pruning cut. The dense, tangled canopy of an abandoned citrus grove is not natural growth but the accumulated chaos of old wounds sprouting adventitious branches.
 
-A truly natural fruit tree is one that was never interfered with from the moment it germinated. Its central leader grows straight and unimpeded. Its scaffold branches emerge at species-specific angles, spaced according to phyllotaxy, without any crossing or crowding. Sunlight penetrates evenly through the canopy.
+A truly natural fruit tree is one that was never interfered with from the moment it germinated. Its central leader grows straight and unimpeded. Its scaffold branches emerge at [[species-specific-cold-shock-response-psilocybe]] angles, spaced according to phyllotaxy, without any crossing or crowding. Sunlight penetrates evenly through the canopy.
 
 Abandoned trees, by contrast, retain the structural distortions imposed during their early years of cultivation. Their lower branches may be missing because they were removed for harvesting convenience. Their trunks may fork low because the leader was headed back as a sapling. These are artifacts of human intervention, not characteristics of nature.
 
@@ -92,7 +92,7 @@ The difference is not merely aesthetic. Abandoned trees are far more susceptible
 
 The natural form of most deciduous fruit trees is a central leader system. When it was reported at a meeting of the Ehime Prefectural Fruit Growers Association that the natural form of the citrus tree is not what it had been thought to be, but a central leader type form, this created a stir among several specialists present, but was laughed off as just so much nonsense by the farmers.
 
-The natural form of a citrus tree is constant and unchanging in natural farming and permits pruning to be dispensed with.
+The natural form of a citrus tree is constant and unchanging in [[natural-farming-animal-husbandry]] and permits pruning to be dispensed with.
 
 Examples of natural forms include the early-ripening Satsuma orange as a low, pyramidal form; the late-ripening Satsuma orange as a tallish, cypress-like conical form; and the summer orange, shaddock, persimmon, chestnut, pear, apple, and loquat as tall, cedar-like conical forms. All are basically central leader type trees.
 
@@ -112,7 +112,7 @@ The chestnut similarly grows as a tall central leader tree when undisturbed, its
 
 If you draw a mental picture of the natural form of a tree and make every effort to protect the tree from the local environment, then it will thrive, putting out good fruit year after year. The natural form permits tree growth and development best suited to the cultivation environment and reduces susceptibility to disease and insect damage.
 
-Whatever new pruning techniques may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage.
+Whatever new [[pruning-techniques-organic]] may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage.
 
 When for purely human reasons there is absolutely no alternative, then the wisest choice is to adopt a form that is basically natural but makes some compromises. The very first thing that one must do when preparing to grow a type of fruit tree by the methods of natural farming is to know the natural form for that fruit tree.
 

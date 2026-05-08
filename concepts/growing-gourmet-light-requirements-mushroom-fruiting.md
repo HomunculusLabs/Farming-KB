@@ -125,4 +125,4 @@ developing caps.
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-indoor-growing-environment]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]

@@ -137,11 +137,11 @@ When foraging for *Boletus regius*, the non-bleuing reaction is the single most 
 ## See Also
 
 - [[porcini-boletus-guide]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[boletus-pinophilus]]
 - [[boletus-reticulatus]]
 
-- [[boletus-edulis]] — Porcini, the most commercially important bolete
+- [[boletus-edulis-entity]] — Porcini, the most commercially important bolete
 - [[boletus-reticulatus]] — Bicolor bolete, close relative
 - [[neoboletus-erythropus]] — Scarletina bolete, frequently confused
 - [[boletus-pinophilus]] — Pine bolete, similar habitat

@@ -135,28 +135,14 @@ Leaves were crushed and inhaled to relieve congestion or applied as poultices to
 
 The species was introduced to Europe in the 1850s and quickly became a standard medicinal plant.
 
-Eucalyptus oil is widely used in pharmaceuticals, cosmetics, and aromatherapy products.
-
-It is a common ingredient in chest rubs, cough syrups, throat lozenges, and inhalants.
-
-Industrial applications include use as a solvent, disinfectant, and fragrance component.
-
-The timber is used in construction, fencing, and paper pulp production.
-
-In permaculture and agroforestry, the tree serves as a fast-growing windbreak and biomass producer.
-
-Dried leaves are effective as a natural insect repellent, particularly against mosquitoes.
-
-The species is also planted for land reclamation and mine site rehabilitation.
-
 ## See Also
 
 - [[eucalyptol]]
 - [[cymbopogon-citratus]]
 - [[melissa-officinalis]]
 - [[mentha-piperita]]
-- [[rosmarinus-officinalis]]
-- [[thymus-vulgaris]]
+- [[rosmarinus-officinalis-entity]]
+- [[thymus-vulgaris-entity]]
 - [[azadirachta-indica]]
 - [[pinene]]
 - [[limonene]]

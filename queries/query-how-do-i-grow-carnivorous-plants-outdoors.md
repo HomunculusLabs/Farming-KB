@@ -12,14 +12,14 @@ type: query
 
 ## Short Answer
 
-Growing carnivorous plants outdoors is easier than most people think, provided you give them the right **soil, water, and light**. Most temperate species like **Sarracenia** (pitcher plants) and **Drosera** (sundews) thrive in a sunny bog garden with rainwater or distilled water and a nutrient-poor peat-based medium. The key principles are: **no fertilizer**, **no tap water**, and **no regular potting soil** — these plants evolved to catch nutrients from insects, not absorb them from the ground. See [[carnivorous plants biology and cultivation]] for deeper background.
+Growing carnivorous plants outdoors is easier than most people think, provided you give them the right **soil, water, and light**. Most temperate species like **Sarracenia** (pitcher plants) and **Drosera** (sundews) thrive in a sunny bog garden with rainwater or distilled water and a nutrient-poor peat-based medium. The key principles are: **no fertilizer**, **no tap water**, and **no regular potting soil** — these plants evolved to catch nutrients from insects, not absorb them from the ground. See [[carnivorous-plants-biology-and-cultivation]] for deeper background.
 
 ## Quick-Start Checklist
 
 1. **Choose your species** based on your USDA hardiness zone (see table below).
 2. **Select a location** with at least 6 hours of direct sun per day.
 3. **Source the right soil**: a 1:1 mix of sphagnum peat moss and silica sand (or perlite).
-4. **Set up a water source**: collect rainwater (see [[rainwater harvesting]]) or buy distilled water.
+4. **Set up a water source**: collect rainwater (see [[rainwater-harvesting]]) or buy distilled water.
 5. **Plant in containers** with drainage holes sitting in water trays, or build a **bog garden**.
 6. **Keep soil consistently moist** using the tray method — never let it dry out completely.
 7. **Do not fertilize** — ever.
@@ -39,7 +39,7 @@ Growing carnivorous plants outdoors is easier than most people think, provided y
 
 ## Building a Bog Garden
 
-A **bog garden** is the most natural and low-maintenance way to grow temperate carnivorous plants. See [[bog gardens]] for a full construction guide; here are the essentials:
+A **bog garden** is the most natural and low-maintenance way to grow temperate carnivorous plants. See [[bog-gardens]] for a full construction guide; here are the essentials:
 
 - **Location**: Full sun (6+ hours). Morning sun with afternoon shade is ideal in very hot climates.
 - **Size**: At least 18 inches deep — deeper bogs retain moisture better.
@@ -61,7 +61,7 @@ If a bog garden isn't feasible, containers work perfectly well:
 
 ## Water Requirements
 
-**What water to use:** Rainwater (best — see [[rainwater harvesting]]), distilled water, or reverse osmosis water.
+**What water to use:** Rainwater (best — see [[rainwater-harvesting]]), distilled water, or reverse osmosis water.
 
 **Never use:** Tap water (chlorine, minerals, salts), bottled spring water (dissolved minerals), or softened water (high sodium).
 
@@ -78,7 +78,7 @@ The cardinal rule: **soil must be nutrient-free and acidic** (pH 4.5–6.0).
 
 **Species adjustments:** *Nepenthes* — add orchid bark (up to 30%) for drainage. *Drosera* — pure peat or peat:sand works well. *Venus flytrap* — standard mix; tolerates slightly sandier blends.
 
-**NEVER use:** Regular potting soil, compost, manure, Miracle-Gro, garden soil/loam, or vermiculite. See [[soil health]] for more on soil chemistry.
+**NEVER use:** Regular potting soil, compost, manure, Miracle-Gro, garden soil/loam, or vermiculite. See [[soil-health]] for more on soil chemistry.
 
 ## Light Requirements
 
@@ -147,13 +147,4 @@ Avoid chemical pesticides — stick to **organic, gentle treatments**.
 | Plants dying after winter | Skipped dormancy or too wet in winter | Ensure cold period; keep barely damp in winter |
 | Aphid clusters on new growth | Aphid infestation | Spray with neem oil or rinse with water |
 
-For more detailed cultivation guidance, see [[carnivorous plants biology and cultivation]] and [[bog gardens]]. For water sourcing tips, visit [[rainwater harvesting]].
-
-## See Also
-- [[drosera-rotundifolia]]
-
-- [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
-- [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
-- [[query-how-to-grow-potatoes-organically]]
-- [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
-- [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
+For more detailed cultivation guidance, see [[carnivorous-plants-biology-and-cultivation]] and [[bog-gardens]]. For water sourcing tips, visit [[rainwater-harvesting]].

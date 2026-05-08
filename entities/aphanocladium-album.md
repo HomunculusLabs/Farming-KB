@@ -121,7 +121,7 @@ evolution and host specialization.
 - [[sphaerotheca-fuliginea]]
 Related: [[linum-album-piriformospora-indica-co-culture-system]], [[biodiversity-rust-fungi-urediniomycetes]], [[rust-fungi-biodiversity-life-cycles]]
 
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - puccinia graminis
 - [[eudarluca-caricis]]
 - [[ampelomyces-quisqualis]]

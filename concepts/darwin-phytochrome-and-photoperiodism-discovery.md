@@ -147,9 +147,3 @@ light-sensing systems, each optimized for different ecological functions.
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]
 - [[darwin-phototropism-discovery-plant-light-perception]]
 - [[darwins-phototropism-experiments]]
-
-- [Darwin Phototropism Discovery Plant Light Perception](darwin-phototropism-discovery-plant-light-perception.md)
-- [Darwins Phototropism Experiments](darwins-phototropism-experiments.md)
-- [Maryland Mammoth Tobacco and the Discovery of Photoperiodism](maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism.md)
-- [Phytochrome Molecular Switch Mechanism](phytochrome-molecular-switch-mechanism.md)
-- [Chamovitz Photoperiodism Phytochrome Plant Vision](chamovitz-photoperiodism-phytochrome-plant-vision.md)

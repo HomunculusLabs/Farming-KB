@@ -148,5 +148,3 @@ the start, silvopasture avoids the conversion costs of retrofitting an
 established open-pasture system.
 
 ## See Also
-
-- [[comparison-prairie-restoration-vs-silvopasture]]

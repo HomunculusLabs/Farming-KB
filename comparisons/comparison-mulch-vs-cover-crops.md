@@ -148,6 +148,3 @@ soil food web diversity across all trophic levels.
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
 - [[teaming-with-microbes-no-till-gardening-soil-health]]
-- [[cover-crop-species-comparison]]
-- [[comparison-green-manure-vs-composting]]
-- [[mulch-types-effects-soil-biology]]

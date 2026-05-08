@@ -80,5 +80,5 @@ The broader question Allegro raised -- whether psychoactive plants played a role
 ## Related Topics
 
 - [[amanita-muscaria-ethnobotany]] for the fly-agaric in Siberian and other cultures
-- [[psychedelic-plants-in-ancient-cultures]] for more credible theories about ancient psychedelic use
+- [[ethnomycology]] for more credible theories about ancient psychedelic use
 - [[mushroom-folklore-and-culture]] for mushroom folklore

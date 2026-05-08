@@ -23,7 +23,7 @@ sources:
 ## Overview
 
 4-HO-MET (4-hydroxy-N-methyl-N-ethyltryptamine), also known as metocin, methylpropyltryptamine, or colloquially as "colour," is a synthetic psychedelic substance of the tryptamine class.
-It is a close structural analog of [[psilocin]] (4-HO-DMT), the active metabolite of [[psilocybin]], differing only by the replacement of one methyl group on the terminal amine with an ethyl group.
+It is a close structural analog of [[psilocin]] (4-HO-DMT), the active metabolite of [[psilocybin-compound]], differing only by the replacement of one methyl group on the terminal amine with an ethyl group.
 First synthesized and characterized by Alexander Shulgin, 4-HO-MET was documented in TiHKAL (Tryptamines I Have Known and Loved) as entry #40, where Shulgin reported it produces a psychedelic experience comparable to psilocybin but with distinctive visual richness.
 The compound has gained popularity as a research chemical and is valued for its reportedly gentler, more recreational character compared to other synthetic tryptamines.
 
@@ -45,7 +45,7 @@ This small structural change — swapping one methyl for an ethyl — significan
 
 ### Mechanism of Action
 
-4-HO-MET acts primarily as a partial agonist at the 5-HT₂A serotonin receptor, the same receptor primarily responsible for the psychedelic effects of [[lsd]], [[psilocybin]], and [[mescaline]].
+4-HO-MET acts primarily as a partial agonist at the 5-HT₂A serotonin receptor, the same receptor primarily responsible for the psychedelic effects of [[lsd]], [[psilocybin-compound]], and [[mescaline-entity]].
 It also shows affinity for several other serotonin receptor subtypes:
 
 | Receptor | Affinity | Functional Activity |
@@ -68,7 +68,7 @@ As with other 4-substituted tryptamines, the 4-hydroxy group is essential for ps
 - Bioavailability: Moderate; significant first-pass metabolism in the liver
 - Excretion: Primarily renal as metabolites
 
-The shorter duration compared to [[psilocybin]] is one of the most commonly cited differences, making 4-HO-MET appealing to those who prefer a more condensed experience.
+The shorter duration compared to [[psilocybin-compound]] is one of the most commonly cited differences, making 4-HO-MET appealing to those who prefer a more condensed experience.
 The N-ethyl group increases lipophilicity relative to [[psilocin]], potentially affecting blood-brain barrier penetration and metabolism rate.
 
 ## Dosage Ranges
@@ -81,7 +81,7 @@ The N-ethyl group increases lipophilicity relative to [[psilocin]], potentially 
 
 ## Subjective Effects
 
-The effects of 4-HO-MET are broadly similar to those of [[psilocybin]] mushrooms but with some notable qualitative differences reported by users:
+The effects of 4-HO-MET are broadly similar to those of [[psilocybin-compound]] mushrooms but with some notable qualitative differences reported by users:
 
 ### Physical Effects
 
@@ -95,7 +95,7 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]] mushrooms
 - Geometric visual patterning with flowing, organic qualities
 - Trailing and afterimage effects, enhanced pattern recognition
 - Closed-eye imagery described as vivid, colorful, and dreamlike
-- Many users report visuals as more "colorful" and less "geometric" than [[psilocybin]]
+- Many users report visuals as more "colorful" and less "geometric" than [[psilocybin-compound]]
 
 ### Cognitive and Emotional Effects
 
@@ -109,7 +109,7 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]] mushrooms
 | Compound | Duration | Visual Intensity | Introspection | Nausea | Legality |
 |----------|----------|-----------------|---------------|--------|----------|
 | 4-HO-MET | 4–6 hours | High | Moderate | Moderate | Varies |
-| [[psilocybin]] | 5–7 hours | High | High | Low-Moderate | Varies |
+| [[psilocybin-compound]] | 5–7 hours | High | High | Low-Moderate | Varies |
 | [[4-aco-dmt]] | 4–6 hours | High | High | Low | Varies |
 | [[dipt]] | 6–10 hours | Moderate | Low | High | Varies |
 | [[lsd]] | 8–12 hours | Very High | Very High | Low | Varies |
@@ -119,11 +119,11 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]] mushrooms
 - First synthesized by Alexander Shulgin, documented in TiHKAL (1997) as entry #40
 - Shulgin reported threshold dose of 10 mg, full effects at 20–30 mg; described "a +++, with rich imagery"
 - Emerged on the research chemical market in the late 2000s/early 2010s
-- Limited formal clinical research compared to [[psilocybin]]
+- Limited formal clinical research compared to [[psilocybin-compound]]
 
 ## Legal Status
 
-- **United States:** Not specifically scheduled; may fall under Federal Analog Act as [[psilocybin]] analog (Schedule I)
+- **United States:** Not specifically scheduled; may fall under Federal Analog Act as [[psilocybin-compound]] analog (Schedule I)
 - **United Kingdom:** Class A under Psychoactive Substances Act amendments
 - **Canada:** Schedule III of the Controlled Drugs and Substances Act
 - **Germany:** Controlled under NpSG (New Psychoactive Substances Act)
@@ -141,7 +141,7 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]] mushrooms
 ## See Also
 
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[4-aco-dmt]]
 - [[dipt]]
 - [[alexander-shulgin]]

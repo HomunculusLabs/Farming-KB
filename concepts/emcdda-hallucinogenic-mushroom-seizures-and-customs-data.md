@@ -146,7 +146,5 @@ extent of the trade.
 ## See also
 
 [[emcdda-hallucinogenic-mushroom-legal-responses]]
-[[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+[[hallucinogenic-mushroom-legal-status-europe]]
 [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-[[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-[[emcdda-hallucinogenic-mushroom-markets-availability]]

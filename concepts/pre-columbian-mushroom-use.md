@@ -93,7 +93,7 @@ sight." His wife Valentina had earlier discovered the living mushroom cult in
 Albert Hofmann subsequently visited the shaman Maria Sabina in 1962 and
 identified the active principles as psilocybine and psilocine.
 
-See also: [[maria-sabina-mazatec-mushroom-ceremony]],
+See also: [[mushroom-cultivation-fundamentals]],
 [[maria-sabina-mazatec-mushroom-curandera]], [[mazatec-mushroom-culture-and-velada]],
 [[mazatec-mushroom-tradition]], [[wasson-mexico-expeditions]],
 albert hofmann
@@ -127,5 +127,5 @@ and P. pelliculosa. In 1979, the largest and most potent species in the
 genus was found in Astoria, Oregon: Psilocybe azurescens, containing the
 highest concentration of psilocybine of all known mushrooms.
 
-See also: [[psilocybe-mexicana-profile]], [[psilocybe-genus-classification]],
+See also: [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-genus-classification]],
 [[psilocybe-azurescens-profile]], [[mushroom-stone-artifacts]], [[maya-entheogens]]

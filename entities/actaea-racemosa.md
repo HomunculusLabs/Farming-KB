@@ -78,7 +78,7 @@ sources: [raw/papers/medicinal-herb-profiles.md]
     69|- In coves, floodplains, and second-growth forests
     70|- Elevations from sea level to ~1,500 m
     71|
-    72|It prefers partial to full shade, consistently moist soils, and the dappled light of the forest understory. Associated canopy trees include [[calcium-accumulators-and-oak-leaves]], hickory, [[maple-syrup-production]], [[tulip poplar]], [[permaculture-neem-and-indian-beech-utility-trees]], and hemlock. The species is classified as "Apparently Secure" (G4) by NatureServe globally, though some populations are declining due to habitat loss and wild harvesting pressure.
+    72|It prefers partial to full shade, consistently moist soils, and the dappled light of the forest understory. Associated canopy trees include [[calcium-accumulators-and-oak-leaves]], hickory, [[maple-syrup-production]], [[tulip-poplar]], [[permaculture-neem-and-indian-beech-utility-trees]], and hemlock. The species is classified as "Apparently Secure" (G4) by NatureServe globally, though some populations are declining due to habitat loss and wild harvesting pressure.
     73|
     74|## Cultivation
     75|
@@ -148,9 +148,3 @@ sources: [raw/papers/medicinal-herb-profiles.md]
    139|- **Hepatotoxicity concern:** Rare cases of hepatotoxicity have been reported, but causality analysis (including EMA and WHO assessments) found no consistent evidence of hepatotoxic risk. Monitoring of liver enzymes is recommended as a precaution. Products should carry labeling about rare hepatic adverse events.
    140|- **Drug interactions:** No clinically significant interactions have been confirmed. Theoretical interaction with CYP450 enzymes (particularly CYP3A4 and CYP2D6) has not been borne out in clinical studies.
    141|- **Contraindications:** Pregnancy and lactation (insufficient safety data); estrogen-sensitive cancers remain controversial — while black cohosh does not appear to be estrogenic, expert opinion is divided, and patients with breast cancer should consult their oncologist.
-   142|
-   143|### Dosage
-   144|
-   145|- **Standardized extract (BNO 1055 / Remifemin®):** 20–40 mg/day of extract standardized to 2.5% triterpene glycosides (1 mg 23-epi-26-deoxyactein)
-   146|- **Dried root:** 40–200 mg/day
-   147|- **Tincture (1:5, 40–60% ethanol):** 2–4 ml, 2–3 times daily

@@ -74,7 +74,7 @@ Fukuoka extends his warning to human genetic manipulation:
 
 Fukuoka's objections to biotechnology are rooted in what he saw as a fundamental misunderstanding of nature's complexity. He argued that genetic engineering treats living organisms as machines that can be reprogrammed, ignoring the vast web of ecological relationships that sustain them. A crop engineered for higher yield, for example, may require correspondingly higher nutrient inputs, increased water, and more pest management — effectively externalizing hidden costs that natural systems would have internalized.
 
-He specifically criticized the reductionist premise behind biotechnology: that individual genes can be isolated, modified, and inserted without unintended consequences. In his view, the genetic code was not a simple instruction manual but part of an interconnected whole that had evolved over millions of years. Altering one component without understanding the full system was, to Fukuoka, akin to randomly rewiring an airplane mid-flight. This perspective aligns with his broader [[fukuoka-critique-scientific-agriculture]], which holds that human intervention in natural systems invariably produces unforeseen side effects.
+He specifically criticized the reductionist premise behind biotechnology: that individual genes can be isolated, modified, and inserted without unintended consequences. In his view, the genetic code was not a simple instruction manual but part of an interconnected whole that had evolved over millions of years. Altering one component without understanding the full system was, to Fukuoka, akin to randomly rewiring an airplane mid-flight. This perspective aligns with his broader [[fukuoka-critique-of-scientific-agriculture]], which holds that human intervention in natural systems invariably produces unforeseen side effects.
 
 ## Relation to the Broader Natural Farming Movement
 
@@ -113,6 +113,6 @@ This spiritual dimension distinguishes Fukuoka's critique from purely secular or
 - [[fukuoka-village-without-war-and-peace]]
 - [[fukuoka-science-destroyer-of-nature]]
 - [[fukuoka-machine-culture-doomed]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-transcends-time-space]]

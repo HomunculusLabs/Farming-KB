@@ -124,7 +124,7 @@ Essential diagnostic tool. Place cap gills-down on half white/half black paper, 
 - [[fungal-biology-fundamentals]] -- Understanding fungal reproduction aids identification
 
 ## See Also
-- [[mushroom-identification-resources]]
+- [[mushroom-cultivation-fundamentals]]
 
 See also: [[f-c-ghouled]] — author of early North American psilocybin identification guide.
 - [[mushroom-toxicity-identification-warnings]]

@@ -148,4 +148,3 @@ Meta-analyses of companion planting research show:
 - [[inula-helenium]]
 - [[epimedium-sagittatum]]
 - [[monarda-didyma]]
-- [[morinda-citrifolia]]

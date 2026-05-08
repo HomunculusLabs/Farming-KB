@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Unlike the progressive accumulation pattern seen with [[psilocin]], [[psilocybin]] levels in [[psilocybe-cubensis]] show no consistent upward or downward trend across successive flushes. Instead, psilocybin concentrations fluctuate unpredictably, varying by a factor of four or more even under tightly controlled growing conditions with identical substrate, genetics, and environmental parameters.
+Unlike the progressive accumulation pattern seen with [[psilocin]], [[psilocybin-compound]] levels in [[psilocybe-cubensis]] show no consistent upward or downward trend across successive flushes. Instead, psilocybin concentrations fluctuate unpredictably, varying by a factor of four or more even under tightly controlled growing conditions with identical substrate, genetics, and environmental parameters.
 
 ## Measured Variation in Controlled Cultures
 
@@ -82,7 +82,7 @@ Notably, psilocin was consistently low or absent in all street samples, which ma
 
 ## Contrast With Psilocin
 
-The behavior of [[psilocybin]] and [[psilocin]] across flushes is fundamentally different:
+The behavior of [[psilocybin-compound]] and [[psilocin]] across flushes is fundamentally different:
 
 | Property | Psilocybin | Psilocin |
 |----------|-----------|----------|
@@ -132,7 +132,7 @@ Older mycelium may allocate resources differently between growth, maintenance, r
 
 The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[psilocybe-cubensis]] mushrooms provides no reliable indication of actual [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
 
-Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[set and setting]] but also from genuine and substantial differences in chemical potency that are largely unpredictable.
+Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[set-and-setting]] but also from genuine and substantial differences in chemical potency that are largely unpredictable.
 
 ## See Also
 

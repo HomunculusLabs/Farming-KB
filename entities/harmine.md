@@ -138,9 +138,9 @@ many countries. Religious use of ayahuasca is protected in Brazil and Peru.
 
 - [[banisteriopsis-caapi]]
 - [[salvia-divinorum]]
-- [[salvinorin-a]]
-- [[muscimol]]
-- [[psilocybin]]
+- [[salvinorin-a-entity]]
+- [[muscimol-entity]]
+- [[psilocybin-compound]]
 - [[amanita-muscaria]]
 - [[ibogaine]]
 - myristicin

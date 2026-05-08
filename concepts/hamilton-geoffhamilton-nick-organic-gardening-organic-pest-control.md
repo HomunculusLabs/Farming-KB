@@ -148,4 +148,3 @@ eelworm-resistant Phlox varieties.
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]

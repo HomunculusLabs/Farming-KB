@@ -126,6 +126,6 @@ acted on scheduling recommendations.
 - [[mdma]]
 - pcp
 - [[mxe]]
-- [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[dmt]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

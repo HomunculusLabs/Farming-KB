@@ -144,14 +144,7 @@ Golden Teacher occupies a prominent place in contemporary psychedelic culture:
 ## See Also
 
 - [[golden-teacher-cubensis]]
-- [[golden-teacher]]
+- [[golden-teacher-cannabis]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
-
-- [Psilocybe cubensis](#) — Parent species
-- [Psilocybin](#) — Primary psychoactive compound
-- [Penis Envy (strain)](#) — High-potency *P. cubensis* strain
-- [Psychedelic therapy](#) — Clinical use of psychedelic compounds
-- [Microdosing](#) — Sub-perceptual dosing practices
-- [Paul Stamets](#) — Mycologist and psilocybin mushroom researcher

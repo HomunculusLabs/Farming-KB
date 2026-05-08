@@ -11,7 +11,7 @@ created: 2026-04-28
 
 [[masanobu-fukuoka]] developed a comprehensive philosophy of natural diet expressed through two "food
 mandala" diagrams. These circular diagrams map the relationship between seasonal foods, local
-environments, and human nourishment, forming the dietary counterpart to his [[fukuoka-natural-farming- method|natural farming method]]. His food philosophy challenges both Western nutritional science and
+environments, and human nourishment, forming the dietary counterpart to his [[fukuoka-natural-farming-method|natural farming method]]. His food philosophy challenges both Western nutritional science and
 Eastern yin-yang dietary systems.
 
 ## Nature's Food Mandala
@@ -142,4 +142,4 @@ Japanese pickling methods preserved the vegetable's own flavour. If by being coo
 strange and exotic flavour merely to delight the palate, this is false cooking. The art of cooking
 begins with these fundamentals.
 
-See also: [[fukuoka-natural-diet-theory]], [[fukuoka-natural-diet-principles]], [[fukuoka-do-nothing-health-philosophy]], [[fukuoka-fruit-processing-and-natural-food-marketing]]
+See also: [[fukuoka-natural-diet-theory]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-do-nothing-health-philosophy]], [[fukuoka-fruit-processing-and-natural-food-marketing]]

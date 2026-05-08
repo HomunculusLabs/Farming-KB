@@ -148,4 +148,3 @@ as they turn away from nature.
 
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-natural-livestock-farming]]
-- [[fukuoka-natural-grazing-ideal]]

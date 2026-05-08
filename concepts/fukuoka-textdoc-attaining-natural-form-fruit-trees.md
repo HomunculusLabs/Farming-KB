@@ -122,5 +122,5 @@ Whatever new pruning techniques may arise in the future, knowing the true natura
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]
-- [[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
+- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]

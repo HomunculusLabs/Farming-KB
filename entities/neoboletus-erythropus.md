@@ -107,7 +107,7 @@ Climate change may affect distribution patterns, as ectomycorrhizal fungi are se
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[rubroboletus-satanas]]
 - [[suillus-luteus]]
 - [[suillus-granulatus]]

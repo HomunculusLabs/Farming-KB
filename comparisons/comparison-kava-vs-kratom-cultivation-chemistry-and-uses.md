@@ -1,7 +1,7 @@
 ---
 title: Kava vs Kratom — Cultivation, Chemistry, and Uses
 tags:
-  - [[[[kava-kava-ethnobotany-chemistry|kava]]-kava-[[entheogen-etymology-and-terminology|ethnobotany]]-chemistry|kava]]
+  - kava-kava-[[entheogen-etymology-and-terminology]]-chemistry|kava]]
   - kratom
   - piper-methysticum
   - mitragyna-speciosa
@@ -25,11 +25,11 @@ sources:
 
 ## At a Glance
 
-| Feature | Kava (*Piper methysticum*) | Kratom (*Mitragyna speciosa*) |
+| Feature | Kava (*[[piper-methysticum-entity]]*) | Kratom (*[[mitragyna-speciosa]]*) |
 |---------|---------------------------|------------------------------|
 | **Family** | Piperaceae (pepper) | Rubiaceae (coffee) |
-| **Origin** | Vanuatu / western Pacific | Southeast Asia (Thailand, Indonesia, Malaysia) |
-| **Active compounds** | Kavalactones (6 major) | Mitragynine, 7-hydroxymitragynine, speciociliatine |
+| **Origin** | Vanuatu / western Pacific | [[fungi-of-southeast-asia]] (Thailand, Indonesia, Malaysia) |
+| **Active compounds** | [[kavalactones]] (6 major) | [[mitragynine]], 7-hydroxymitragynine, speciociliatine |
 | **Primary effects** | Anxiolytic, relaxant, mild euphoria | Stimulant (low dose), analgesic/sedative (high dose) |
 | **Legal status (US)** | Legal (dietary supplement) | Legal federally; banned in 6+ states |
 | **Legal status (global)** | Mostly legal; restricted in some EU/ANZ | Banned in Thailand, Malaysia, Australia, several EU nations |
@@ -79,7 +79,7 @@ sources:
 | **Duration** | 2–4 hours | 3–6 hours |
 | **Dose-response** | Linear; more = more relaxed | Biphasic: stimulating (1–5 g), sedating (7–15 g+) |
 | **Tolerance development** | Minimal; reverse tolerance reported | Moderate; develops with regular use |
-| **Withdrawal** | None to minimal | Possible; [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home|anxiety]], insomnia, muscle pain (opioid-like) |
+| **Withdrawal** | None to minimal | Possible; [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]], insomnia, muscle pain (opioid-like) |
 
 ### Safety Concerns
 

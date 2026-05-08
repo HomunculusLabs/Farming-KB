@@ -142,13 +142,8 @@ The most important identification features are: small size, black spore print, m
 
 ## See Also
 
-- [[paneolus-cyanescens]]
+- panaeolus cyanescens entity
 
 - [[baeocystin]]
 - [[biological-efficiency]]
 - [[copelandia-cyanescens]]
-
-- [[psilocybin]] — primary psychoactive tryptamine compound
-- [[psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
-- [[hericium-erinaceus]] — non-psychoactive medicinal mushroom for comparison
-- [[tryptamine]] — parent chemical class of psilocybin and psilocin

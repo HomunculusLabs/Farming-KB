@@ -63,8 +63,8 @@ Other brown-spored genera with abundant poisonous species:
 - deadly fungi identification guide
 - amanita poisoning types
 - [[mushroom-identification]]
-- [[psilocybe-semilanceata-profile]]
-- [[psilocybe-cyanescens-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## Practical Applications
 

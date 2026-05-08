@@ -62,7 +62,7 @@ The wild European species. Variable in flower color (white to purple). Seed-prod
 
 ### *Symphytum x uplandicum* (Russian Comfrey)
 
-A naturally occurring hybrid between *S. officinale* and *S. asperum*. Sterile triploid; produces negligible viable seed. This sterility is a significant advantage in garden settings because it eliminates self-seeding and reduces invasive spread. Most cultivated comfrey varieties sold for permaculture and garden use belong to this hybrid group.
+A naturally occurring hybrid between *S. officinale* and *S. asperum*. Sterile triploid; produces negligible viable seed. This sterility is a significant advantage in garden settings because it eliminates [[self-seeding-annuals-permaculture-two]] and reduces invasive spread. Most cultivated comfrey varieties sold for permaculture and garden use belong to this hybrid group.
 
 ### Bocking Cultivars
 
@@ -229,7 +229,7 @@ Fresh comfrey leaves spread 5–10 cm thick around plants provide a nitrogen- an
 - Fruit bushes and trees
 - Curcurbits
 
-The leaves decompose quickly enough that they rarely need to be incorporated. In no-till systems, comfrey mulch is one of the most effective ways to feed crops without disturbing soil structure.
+The leaves decompose quickly enough that they rarely need to be incorporated. In no-till systems, comfrey mulch is one of the most effective ways to feed crops without disturbing [[soil-structure-and-aggregate-ecology]].
 
 ### Compost Activator
 
@@ -237,7 +237,7 @@ Adding comfrey leaves to compost piles accelerates decomposition. The high nitro
 
 ### Dynamic Accumulator
 
-The term "dynamic accumulator" describes plants whose deep roots mine minerals from subsoil horizons and bring them into biological cycling through leaf drop and decomposition. Comfrey is one of the most widely cited dynamic accumulators in permaculture literature.
+The term "[[dynamic-accumulator-plants-potassium]]" describes plants whose deep roots mine minerals from subsoil horizons and bring them into biological cycling through leaf drop and decomposition. Comfrey is one of the most widely cited dynamic accumulators in permaculture literature.
 
 Minerals accumulated in above-ground biomass (dry weight basis):
 
@@ -257,7 +257,7 @@ Minerals accumulated in above-ground biomass (dry weight basis):
 Comfrey integrates well into diverse planting schemes:
 
 - **Under fruit trees**: The standard permaculture guild placement. Comfrey's deep taproot does not compete significantly with tree roots in the topsoil zone, while the leaf biomass feeds the tree through mulch and decomposition.
-- **Around nitrogen-fixing plants**: Pair comfrey with leguminous plants (beans, peas, clover, elaeagnus) to capture both fixed nitrogen and mined minerals.
+- **Around [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] plants**: Pair comfrey with leguminous plants (beans, peas, clover, elaeagnus) to capture both fixed nitrogen and mined minerals.
 - **Berry bushes**: Comfrey planted between and around currant, gooseberry, and blueberry bushes provides potassium-rich mulch.
 - **Avoid planting near**: Root vegetables (carrots, parsnips) in the same bed, as comfrey's root system may physically interfere with root crop development.
 
@@ -276,7 +276,7 @@ The hairy leaves are a natural deterrent to many leaf-feeding insects. Comfrey c
 This is a critical consideration for gardeners and land managers:
 
 - ***S. officinale*** (common comfrey): Produces viable seed and can spread aggressively. Not recommended for gardens.
-- ***S. x uplandicum*** (Bocking cultivars): Sterile triploids that do not set viable seed. Spread is limited to vegetative propagation by root fragments.
+- ***S. x uplandicum*** (Bocking cultivars): Sterile triploids that do not set viable seed. Spread is limited to [[vegetative-propagation-methods-mollison]] by root fragments.
 
 **Eradication is extremely difficult.** Any fragment of root left in the soil can regenerate. Mechanical cultivation (rototilling) chops and distributes root pieces, worsening the problem. If removal is necessary:
 
@@ -285,7 +285,7 @@ This is a critical consideration for gardeners and land managers:
 3. Cover the area with light-excluding material (black plastic, thick cardboard) for at least one full growing season.
 4. Do not put any comfrey root or leaf material in compost if there is any risk of live root fragments.
 
-Site comfrey carefully from the start. Permanent bed positions (along fences, under trees, in dedicated fertility strips) are preferable to mixed annual vegetable beds where soil disturbance is frequent.
+Site comfrey carefully from the start. Permanent bed positions (along fences, under trees, in dedicated fertility strips) are preferable to mixed annual vegetable beds where [[soil-disturbance-mycorrhizal-impact]] is frequent.
 
 ## Harvesting Techniques
 
@@ -336,7 +336,7 @@ Comfrey is one of the most useful plants in no-till and minimal-till systems bec
 2. **Chop-and-drop mulch**: Cut comfrey in place and let it decompose where it falls, or carry cut material to crop beds. No digging or turning required.
 3. **Nutrient cycling**: In permanent bed systems, comfrey planted at the edges of beds produces a continuous supply of fertility that is carried onto the beds as mulch.
 4. **Soil structure improvement**: Comfrey roots penetrate compacted subsoil layers, creating channels that improve water infiltration and root penetration for subsequent crops. This is a slow process but beneficial over years.
-5. **Living mulch pathways**: Comfrey planted in permanent pathways between raised beds produces mulch that is easily raked onto adjacent beds, while suppressing pathway weeds through dense shade.
+5. **Living mulch pathways**: Comfrey planted in permanent pathways between [[raised-beds-vs-in-ground-vs-containers]] produces mulch that is easily raked onto adjacent beds, while suppressing pathway weeds through dense shade.
 
 **Practical no-till layout**: Plant comfrey in a dedicated "fertility hedge" along one side of the garden, spaced 60–75 cm apart. Harvest leaves with a sickle or shears and distribute as mulch across beds. This separates the vigorous perennial comfrey from annual crop roots while maintaining easy access.
 
@@ -346,4 +346,4 @@ Comfrey is a high-biomass perennial with few equals in the temperate garden for 
 
 The primary cautions are the hepatotoxic pyrrolizidine alkaloids that make internal use inadvisable, and the difficulty of eradicating established plants. Both are manageable with informed site selection and external-only use of the herb.
 
-For growers focused on building soil health, reducing off-farm fertilizer inputs, and integrating perennial support species into food production systems, comfrey remains one of the most productive and versatile plants available.
+For growers focused on [[building-soil-fertility-long-term]] health, reducing off-farm fertilizer inputs, and integrating perennial support species into food production systems, comfrey remains one of the most productive and versatile plants available.

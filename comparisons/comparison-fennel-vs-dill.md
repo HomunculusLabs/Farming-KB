@@ -148,5 +148,3 @@ Fennel and dill are superficially similar Apiaceae herbs with distinct personali
 ## See Also
 
 - [[cervantes-odor-deodorizers-comparison]]
-- [[comparison-agar-vs-liquid-culture]]
-- [[comparison-amf-vs-endophytic-fungi]]

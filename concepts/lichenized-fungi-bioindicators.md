@@ -10,7 +10,7 @@ sources: []
 
 Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey.
 
-[[lichenized-fungi-detailed]] [[fungal-biodiversity-biogeography]] [[fungal-conservation-strategies]]
+[[lichenized-fungi-detailed]] [[fungal-biodiversity-biogeography]] [[ethnomycology]]
 
 ## Air Quality Monitoring
 
@@ -34,7 +34,7 @@ Lichens occupy surfaces at scales corresponding to microhabitat variation. Above
 
 Microhabitat variables important to lichens include light regime, moisture status, and type, hardness, chemistry (especially pH and calcium content), and age of substratum. Major differences in species composition on rocks or soil are related to differences in calcareous composition of the substratum.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[fungal-environmental-sensing]]
 
 ## Epiphytic Lichen Diversity
 
@@ -64,7 +64,7 @@ Lichen surveys are often requested for protected areas expected to remain intact
 
 Habitats that contribute much to the diversity of lichenized fungi, such as rock outcrops, talus piles, coarse woody debris, and desert pavements, are often less important for vascular plant communities. This underscores the need for lichen-specific surveys rather than relying solely on vascular plant data.
 
-[[fungal-conservation-strategies]] [[fungal-biodiversity]]
+[[ethnomycology]] [[fungal-biodiversity]]
 
 ## Vagrant and Terricolous Lichens
 

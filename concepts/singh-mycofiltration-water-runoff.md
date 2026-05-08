@@ -148,4 +148,3 @@ agricultural BMPs, brownfield redevelopment,
 
 - [[singh-constructed-wetlands-fungal-wastewater-treatment]]
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[singh-fungal-biosorption-reactors-heavy-metals]]

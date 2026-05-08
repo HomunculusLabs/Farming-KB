@@ -148,4 +148,3 @@ flavor and seed saving.
 - [[cervantes-hybrid-varieties-types]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
 - [[seed-saving-methods-home-garden]]
-- [[cervantes-seed-population-types-ibl-hybrid]]

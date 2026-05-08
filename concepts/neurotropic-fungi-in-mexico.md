@@ -40,7 +40,7 @@ Key Mexican Psilocybe species include:
 - **P. mexicana** — The type species for Section Mexicanae, among the most
   well-documented ceremonial species. First studied by
   [[roger-heim-scientific-study-psilocybin]] and R. Gordon Wasson. See
-  [[psilocybe-mexicana-profile]]
+  [[psychedelic-mushrooms-species-and-identification]]
 - **P. caerulescens** — Known as "derrumbes" (landslides), found in cloud
   forests. Two varieties: var. caerulescens and var. ombrophila
 - **P. zapotecorum** — Named after the Zapotec people of Oaxaca, found in

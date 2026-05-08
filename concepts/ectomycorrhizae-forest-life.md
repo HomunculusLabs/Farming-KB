@@ -95,7 +95,7 @@ These results consistently demonstrate that inoculated trees require less fertil
 - [[mycorrhizal-inoculation-guide]]
 - [[glomalin-and-soil-carbon]]
 - [[fungal-nutrient-cycling-forests]]
-- [[fairy-rings-and-giant-mycelia]]
+- [[mushroom-contamination-identification-and-troubleshooting]]
 
 ## Related
 

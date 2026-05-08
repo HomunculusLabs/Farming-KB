@@ -9,7 +9,7 @@ sources:
 ---
 # J (BDB; 2-Amino-1-(3,4-methylenedioxyphenyl)butane)
 
-J, also known as BDB, is a phenethylamine compound and the alpha-ethyl homologue of [[mda-entity]]. It is the primary member of the "Classic Ladies" series of MDA homologues and the direct parent compound of [[mbdb-entity]] (Methyl-J). The compound is listed as PIHKAL entry #94.
+J, also known as BDB, is a phenethylamine compound and the alpha-ethyl homologue of [[mda]]. It is the primary member of the "Classic Ladies" series of MDA homologues and the direct parent compound of [[mbdb-entity]] (Methyl-J). The compound is listed as PIHKAL entry #94.
 
 ## Chemical Classification
 
@@ -19,7 +19,7 @@ It is formally named 2-amino-1-(3,4-methylenedioxyphenyl)butane.
 
 The code name BDB derives from the IUPAC nomenclature using 1,3-benzodioxole: 1-(1,3-benzodioxol-5-yl)-2-butanamine.
 
-J is the alpha-ethyl analogue of [[mda-entity]] (which has an alpha-methyl group), making it one carbon longer on the carbon chain adjacent to the amine.
+J is the alpha-ethyl analogue of [[mda]] (which has an alpha-methyl group), making it one carbon longer on the carbon chain adjacent to the amine.
 
 The N-methyl homologue of J is [[mbdb-entity]], also known as METHYL-J or EDEN.
 
@@ -29,7 +29,7 @@ J is an active psychoactive compound with a dosage range of 150 to 230 milligram
 
 The duration of effects is 4 to 8 hours.
 
-The compound is generally described as more "stoning" than [[mdma-entity]], more similar in character to [[mda-entity]], but with a similar chronology of effects.
+The compound is generally described as more "stoning" than [[mdma-entity]], more similar in character to [[mda]], but with a similar chronology of effects.
 
 All subjects who explored J accepted it and commented favorably.
 
@@ -77,7 +77,7 @@ The hydrochloride salt melts at 159-161 degrees C.
 
 ## The Classic Ladies Series
 
-J is one of the ten "Classic Ladies," the ten possible alpha-homologues of [[mda-entity]] that Shulgin discussed beginning with the [[ariadne-entity]] entry.
+J is one of the ten "Classic Ladies," the ten possible alpha-homologues of [[mda]] that Shulgin discussed beginning with the [[ariadne-entity]] entry.
 
 Each Lady represents a different length alpha-alkyl chain on the MDA skeleton.
 
@@ -95,7 +95,7 @@ The "J" code name follows Shulgin's alphabetical naming system for MDA homologue
 
 ## Relationship to MDMA and MBDB
 
-J is the alpha-ethyl analogue of [[mda-entity]], while [[mdma-entity]] is the N-methyl derivative of MDA.
+J is the alpha-ethyl analogue of [[mda]], while [[mdma-entity]] is the N-methyl derivative of MDA.
 
 [[mbdb-entity]] (METHYL-J) is the N-methyl derivative of J, combining both the alpha-ethyl chain extension and the N-methylation.
 
@@ -113,7 +113,7 @@ Supplementation appears effective, mimicking the common [[mdma-entity]] procedur
 
 ## See Also
 
-[[mda-entity]]
+[[mda]]
 
 [[mdma-entity]]
 

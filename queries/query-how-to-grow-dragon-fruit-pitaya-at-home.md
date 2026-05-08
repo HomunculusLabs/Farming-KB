@@ -140,26 +140,6 @@ Yes, with caveats. Dragon fruit needs strong light to flower and fruit.
 
 ## How long until I get fruit?
 
-| Stage | Timeframe |
-|-------|-----------|
-| Cutting roots | 3–4 weeks |
-| First 1–2 feet of growth | 3–6 months |
-| Plant reaches top of trellis | 12–18 months |
-| First flowers appear | 18–24 months from cutting |
-| First harvest | 24–36 months from cutting |
-
-**Seed-grown timeline:** 5–7 years to first fruit. Not recommended for home growers who want results. The plant needs to reach the top of its support and cascade downward before it reliably flowers — this triggers the reproductive phase.
-
----
-
-## Quick-start checklist for beginners
-
-1. Get a 12–18 inch cutting (self-pollinating variety like 'Vietnamese Jaina' or 'Physical Graffiti').
-2. Callus 5–7 days, plant in a 5-gallon pot with well-draining mix (40% potting soil, 30% perlite, 30% sand/bark).
-3. Set up a trellis and place in full sun (6–8 hours). Transition gradually.
-4. Water every 7–10 days in summer, every 3–4 weeks in winter. Fertilize every 6–8 weeks with 8-8-8, switch to 2-10-10 in late spring.
-5. Upgrade to a 15–25 gallon pot after year one. Hand-pollinate if indoors. Harvest when fully colored and slightly soft.
-
 ## See Also
 
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]

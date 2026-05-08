@@ -119,6 +119,6 @@ The E-POD project informed the subsequent development of the EMCDDA's Early Warn
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[hallucinogenic-mushroom-legal-status-europe]]

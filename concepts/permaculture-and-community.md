@@ -92,6 +92,6 @@ Intentional communities are tackling the hard but rewarding job of evolving ways
 - [[consumer-versus-conserver-society]]
 - [[permaculture-ethics]]
 - [[low-energy-futures-in-permaculture]]
-- [[permaculture-earthworks-guide]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-water-harvesting-earthworks]]
+- [[permaculture-design-principles]]
 - [[holmgren-permaculture-land-tenure-and-legal-structures]]

@@ -108,14 +108,14 @@ The cannabinoid-to-terpene ratio in Pistil Whippersnapper is notable for its rel
 - **Humidity:** 50–70% vegetative; reduce to 40–50% during flowering to prevent bud rot (this strain's large, dense colas are susceptible to Botrytis in humid conditions)
 - **Light:** High light requirements (PPFD 800–1200 μmol/m²/s); benefits from supplemental UV-B during late flowering for enhanced trichome production
 - **Nutrients:** Heavy feeder during vegetative stage; moderate nitrogen, elevated phosphorus and potassium during flowering. Responds well to organic amendments (compost tea, bat guano, kelp meal). Watch for nitrogen toxicity—this strain can be sensitive to excess nitrogen, presenting as dark green, clawing leaves.
-- **Training:** LST (low-stress training) and SCROG (screen of green) are highly recommended to manage height and maximize light penetration. Topping once or twice during early vegetative stage promotes a bushier canopy.
+- **Training:** LST (low-stress training) and SCROG ([[screen-of-green]]) are highly recommended to manage height and maximize light penetration. Topping once or twice during early vegetative stage promotes a bushier canopy.
 
 ### Pest and Disease Resistance
 
 - **Moderate resistance** to spider mites and powdery mildew
-- **Susceptible** to Botrytis cinerea (bud rot) due to dense cola formation — ensure good airflow and low flowering humidity
+- **Susceptible** to [[botrytis-cinerea]] (bud rot) due to dense cola formation — ensure good airflow and low flowering humidity
 - **Moderate resistance** to thrips and fungus gnats
-- Neem oil and predatory mite introductions (*Amblyseius cucumeris*, *Phytoseiulus persimilis*) are effective integrated pest management strategies
+- Neem oil and predatory mite introductions (*Amblyseius cucumeris*, *Phytoseiulus persimilis*) are effective [[integrated-pest-management]] strategies
 
 ## Phenotype Variation
 

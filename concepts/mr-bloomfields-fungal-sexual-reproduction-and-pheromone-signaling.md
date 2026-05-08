@@ -123,7 +123,7 @@ wasting resources on fruiting bodies that would be destroyed by heat,
 drought, or darkness.
 ## See Also
 - [[mr-bloomfields-fungal-hyphal-biology-and-mycelial-networks]]
-- [[mr-bloomfields-cordyceps-and-entomopathogenic-fungi]]
+- [[cordyceps-and-entomopathogenic-fungi]]
 - [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
-- [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
+- mr bloomfields fungal sexual reproduction and pheromone signaling
 - [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]

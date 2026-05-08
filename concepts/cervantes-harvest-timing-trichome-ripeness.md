@@ -108,6 +108,6 @@ and are turning from clear to milky/creamy translucent. Senescing glands
 that turn brown and shrink are decomposing, and THC content is diminishing.
 Act decisively once the target ripeness is observed.
 
-See also: [[cervantes-harvest-techniques]],
-[[cervantes-trichome-resin-production]],
-[[cervantes-flowering-phase]], [[cervantes-flushing-pre-harvest]], [[cervantes-hash-making-extracts]]
+See also: [[cannabis-advanced-growing-techniques]],
+[[cannabis-advanced-growing-techniques]],
+[[cervantes-flowering-phase]], [[cannabis-advanced-growing-techniques]], [[cervantes-hash-making-extracts]]

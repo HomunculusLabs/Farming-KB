@@ -134,7 +134,7 @@ See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and autho
 
 - [[andy-letcher]]
 - [[cannabis-spiritual-ritual-use]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[ayahuasca-preparation]]
 - [[iboga-tabernanthe]]
 - [[dm-turner]]
@@ -148,7 +148,3 @@ Per [[richard-evans-schultes-updated]]' *Golden Guide to Hallucinogenic Plants* 
 ### Indole Alkaloids (Tryptamine Derivatives)
 The most common class. All share the indole nucleus — a structural similarity to the neurohumoral serotonin (5-hydroxydimethyltryptamine), which may explain their activity on the central nervous system. Includes:
 - **Simple tryptamines:** DMT, 5-MeO-DMT, bufotenine (found in Virola, Anadenanthera, Psychotria)
-- **4-Substituted tryptamines:** Psilocybin (phosphoric acid ester of 4-hydroxydimethyltryptamine) and psilocin — a structure type never before known as a naturally occurring plant constituent when discovered
-- **Ergoline alkaloids:** Lysergic acid amide (morning glories/ololiuqui), ergine, lysergic acid diethylamide (LSD — semi-synthetic from Claviceps)
-- **Beta-carboline alkaloids:** Harmine, harmaline, tetrahydroharmine (Syrian Rue, Banisteriopsis caapi) — monoamine oxidase inhibitors that enable oral DMT activity
-- **Ibogaine alkaloids:** Ibogaine (Tabernanthe iboga)

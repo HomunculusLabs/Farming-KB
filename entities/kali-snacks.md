@@ -111,13 +111,13 @@ sites.
 
 ## See Also
 
-- [[runtz]]
+- [[runtz-entity]]
 - [[animal-cookies]]
 - [[girl-scout-cookies]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[gelato-cannabis]]
-- [[zookies]]
-- [[biscotti]]
+- [[zookies-cannabis]]
+- [[biscotti-cannabis]]
 - [[mac-1]]
 - [[jack-herer]]
-- [[white-widow]]
+- [[white-widow-entity]]

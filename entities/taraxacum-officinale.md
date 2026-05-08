@@ -148,8 +148,3 @@ ecologically damaging invasive in most jurisdictions.
 - [[urtica-dioica]] — stinging nettle, nutrient-dense perennial
   with complementary dynamic accumulator properties.
 - Chicoric acid — primary phenolic in dandelion, also in
-  Echinacea purpurea.
-- Inulin — prebiotic polysaccharide in dandelion root, also
-  in chicory and Jerusalem artichoke.
-- [[matricaria-chamomilla]] — German chamomile, companion plant
-  with similar ecological niches and overlapping chemistry.

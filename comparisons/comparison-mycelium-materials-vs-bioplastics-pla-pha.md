@@ -137,50 +137,9 @@ Key characteristic: PHA is both **biologically produced and biologically degrade
 | **Price per kg** | $10–50 (commodity), $100–300 (leather) | $1.50–3.00 | $4–10 |
 | **Production growth rate** | ~30–50% CAGR | ~15–20% CAGR | ~25–35% CAGR |
 
-### Scalability Challenges
-
-**Mycelium**:
-- Growth is batch-based and space-intensive; difficult to match petrochemical throughput
-- Biological variability requires quality control per batch
-- Cold chain logistics for spawn and finished products
-- Limited standardization across the industry
-
-**PLA**:
-- Feedstock competition with food supply (corn, sugarcane)
-- Requires dedicated composting infrastructure that doesn't exist in most municipalities
-- Contamination of conventional plastic recycling streams
-
-**PHA**:
-- Extraction is solvent-intensive and expensive
-- Fermentation yields are lower than for PLA production
-- Scale-up has been slower than projected due to extraction costs
-
-## Summary
-
-**Choose mycelium materials when:**
-- Insulation or cushioning performance is primary (packaging, acoustic panels, building insulation)
-- Carbon negativity or waste upcycling is a core requirement
-- A natural, textured aesthetic is desired (fashion, interior design)
-- Home compostability matters
-- Batch customization (unique shapes) is more important than mass production
-
-**Choose PLA when:**
-- Low cost and high-volume production are essential
-- Transparency, clarity, or food-contact certification is needed
-- Standard plastic manufacturing infrastructure (injection molding, extrusion) must be used
-- 3D printing filament is the application
-
-**Choose PHA when:**
-- Marine biodegradability is required
-- Flexible or elastomeric properties are needed
-- Soil biodegradation for agricultural applications (mulch films, plant pots)
-- Medical biocompatibility is needed
-
-The three materials are **complementary**, not competing. An ideal sustainable materials strategy uses all three — mycelium for structural, insulative, and aesthetic applications; PLA for high-volume, low-cost rigid items; and PHA for flexible, marine-safe, and soil-degradable products.
-
 ## See Also
 
-- [[mycelium-composites-materials]]
+- [[bioremediation-using-fungi]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 

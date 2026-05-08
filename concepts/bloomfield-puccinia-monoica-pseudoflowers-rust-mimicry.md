@@ -15,11 +15,11 @@ sources:
 type: concept
 ---
 
-# [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]], Pseudoflowers, and Rust Mimicry
+# bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
 
 Rust fungi are among the most destructive plant pathogens on Earth,
 causing billions of dollars in crop losses annually. The most remarkable
-of these parasites is [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]], a rust fungus that
+of these parasites is bloomfield puccinia monoica pseudoflowers rust mimicry, a rust fungus that
 orchestrates one of nature's most extraordinary acts of deception: it
 transforms the leaves and stems of its host plant into convincing
 imitations of flowers, complete with pigmented surfaces and sweet
@@ -28,7 +28,7 @@ sexual apparatus of insects to accomplish its own reproduction.
 
 ## The Pseudoflower Phenomenon
 
-In the case of [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]], which infects plants in the cabbage
+In the case of bloomfield puccinia monoica pseudoflowers rust mimicry, which infects plants in the cabbage
 family, clusters of leaves covered with yellow spermagonia are such
 perfect mimics of actual flowers that fewer of the surrounding plants
 of other species with yellow-colored flowers become pollinated and set

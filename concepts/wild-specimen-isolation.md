@@ -45,7 +45,7 @@ Spore print color is one of the most important field identification characterist
 
 - **Purple-brown prints** -- typical of Psilocybe cubensis and other psychoactive gymnopiloid species
 
-Recording spore print color alongside habitat, substrate, and morphological notes creates a comprehensive specimen record that aids in both identification and future reference. This documentation practice is especially important when collecting specimens for [[mushroom-cultivation-cloning-isolation]] work.
+Recording spore print color alongside habitat, substrate, and morphological notes creates a comprehensive specimen record that aids in both identification and future reference. This documentation practice is especially important when collecting specimens for [[mushroom-cultivation-fundamentals]] work.
 
 ## The Partial Veil Advantage
 

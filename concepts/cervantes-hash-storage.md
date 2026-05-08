@@ -120,8 +120,8 @@ decline can be minimized through proper storage.
 
 ## See Also
 
-- [[cervantes-curing-storage]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-drying-buds-methods]]
 - [[cervantes-pressing-hash]]
 - [[cervantes-hash-making-extracts]]
-- [[cervantes-trichome-resin-production]]
+- [[cannabis-advanced-growing-techniques]]

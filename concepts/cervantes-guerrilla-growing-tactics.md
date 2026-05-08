@@ -144,5 +144,5 @@ or bird identification book.
 - [[outdoor-cannabis-growing]]
 - [[cervantes-strain-selection]]
 - [[cervantes-mulch-outdoor-moisture-conservation]]
-- [[cervantes-harvest-techniques]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-temperature-management]]

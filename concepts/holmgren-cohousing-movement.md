@@ -18,7 +18,7 @@ David Holmgren discusses cohousing and related models of intentional community i
 
 Cohousing models attempt to balance private household autonomy with shared common resources and social infrastructure. Individual households maintain their own living spaces, kitchens, and economic independence, while sharing common facilities such as laundry, workshop, guest rooms, and community gardens. This avoids many governance problems of full communal living while capturing some economies of scale.
 
-This middle-ground approach reflects the permaculture principle of finding balance between integration and autonomy, connecting to [[holmgren-integrate-segregate-detailed]] and [[permaculture-principle-integrate-rather-than-segregate]].
+This middle-ground approach reflects the permaculture principle of finding balance between integration and autonomy, connecting to [[holmgren-integrate-segregate-detailed]] and [[permaculture-design-principles]].
 
 ## Connection to Permaculture Principles
 

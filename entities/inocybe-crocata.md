@@ -16,7 +16,7 @@ sources:
 
 # Inocybe crocata
 
-**Inocybe crocata** is a species of inocybe mushroom in the family Inocybaceae. It is one of several Inocybe species reported to contain [[psilocybin]] and [[psilocin]], though it is far more notorious for containing dangerously toxic levels of [[muscarine]]. Found across temperate regions of Europe and North America, it grows in association with a variety of trees and is frequently encountered in mixed woodlands.
+**Inocybe crocata** is a species of inocybe mushroom in the family Inocybaceae. It is one of several Inocybe species reported to contain [[psilocybin-compound]] and [[psilocin]], though it is far more notorious for containing dangerously toxic levels of [[muscarine]]. Found across temperate regions of Europe and North America, it grows in association with a variety of trees and is frequently encountered in mixed woodlands.
 
 ## Taxonomy and Naming
 
@@ -37,7 +37,7 @@ The specific epithet *crocata* refers to the saffron or orange-yellow coloration
 
 ## Psychoactive and Toxic Constituents
 
-Some collections of *I. crocata* have been reported to contain trace amounts of [[psilocybin]] and [[psilocin]], placing it among the minority of Inocybe species with psychoactive properties. However, the concentrations are generally low and unreliable. Far more significantly, *I. crocata* — like most species in the genus — contains substantial quantities of [[muscarine]], a toxic alkaloid that acts as a parasympathomimetic agent.
+Some collections of *I. crocata* have been reported to contain trace amounts of [[psilocybin-compound]] and [[psilocin]], placing it among the minority of Inocybe species with psychoactive properties. However, the concentrations are generally low and unreliable. Far more significantly, *I. crocata* — like most species in the genus — contains substantial quantities of [[muscarine]], a toxic alkaloid that acts as a parasympathomimetic agent.
 
 Muscarine poisoning causes symptoms including excessive salivation, lacrimation (tearing), sweating, bradycardia (slow heart rate), bronchoconstriction, gastrointestinal distress (nausea, vomiting, diarrhea), and in severe cases, hypotension and respiratory failure. These symptoms can begin within 30 minutes to 2 hours of ingestion. Unlike the ibotenic acid and muscimol found in [[amanita-muscaria]], muscarine is not substantially degraded by cooking or drying.
 
@@ -78,4 +78,4 @@ Despite its psychoactive potential, *I. crocata* has never been documented as a 
 - [[inocybe-haemacta]] — reddish-toned psilocybin-containing Inocybe
 - [[inocybe-tricolor]] — North American psilocybin-containing Inocybe
 - [[muscarine]] — the toxic alkaloid found in most Inocybe species
-- [[psilocybin]] — the psychoactive compound found in trace amounts in some Inocybe species
+- [[psilocybin-compound]] — the psychoactive compound found in trace amounts in some Inocybe species

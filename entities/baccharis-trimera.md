@@ -107,7 +107,7 @@ As a nectar source, carqueja supports pollinator populations including bees and 
 - [[mentha-piperita]]
 - [[glycyrrhiza-glabra]]
 - [[borago-officinalis]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[scutellaria-baicalensis]]
 - [[verbascum-thapsus]]
 - [[monarda-fistulosa]]

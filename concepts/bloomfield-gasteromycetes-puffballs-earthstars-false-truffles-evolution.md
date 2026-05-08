@@ -5,25 +5,24 @@ tags: [mycology, fungal-biology, gasteromycetes, puffballs, earthstars, false-tr
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+  - raw/papers/mr-bloomfields-orchard---
+the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 type: concept
 ---
 
-# Gasteromycetes, Puffballs, Earthstars, False Truffles, and Evolution
+# Gasteromycetes, Puffballs, Earthstars, False Truffles, [[gaias-garden-food-forest-history-and-evolution]]
 
 Gasteromycetes are a group of basidiomycete fungi in which the spore-
-producing hymenium is enclosed within the fruiting body, rather than
+produfruiting-body-development]] is enclosed within the fruiting body, rather than
 exposed on gills, pores, or spines as in typical mushrooms. This
 enclosed architecture represents a major evolutionary departure from
 the ancestral condition of exposed hymenia and has profound consequences
-for how these fungi disperse their spores. The group includes puffballs,
-earthstars, bird's nest fungi, stinkhorns, cage fungi, and false
-truffles, all of which have independently abandoned the ballistospore
-catapult mechanism in favor of alternative dispersal strategies.
+for how these fungi disperse their spores. The group includes pstinkhorns-and-cage-fungiearthstars, bird's nest fungi, stinkhorns, cage fungi, and falsmushroom-spore-catapult-mechanism]] which have independently abandoned the ballistospore
+catapult mechanism in favgasteromycete-fungi-overviewispersal strategies.
 
 ## Loss of Ballistospore Discharge
 
-The spores of gasteromycete fungi are spherical or ellipsoidal with no
+The spores of [[gasteromycete-fungi]] are spherical or ellipsoidal with no
 hilar appendix, the small protruding attachment point found on spores
 discharged by the catapult mechanism. The lack of this appendage accords
 with the absence of the ballistospore discharge mechanism. Evidence
@@ -78,7 +77,7 @@ Stinkhorns (Phallus and related genera) produce a slimy, foul-smelling
 spore mass called the gleba at the tip of an erect fruiting body. The
 odor, which resembles decaying flesh or carrion, attracts flies and
 other insects that land on the gleba, become coated with spores, and
-carry them to new locations. Spore dispersal in stinkhorns depends
+carry them to new locations. [[spore-dispersal]] in stinkhorns depends
 entirely upon animal vectors. The fruiting body develops rapidly from
 an egg-like structure (the volva) that remains visible at the base of
 the mature mushroom. The expansion of the stinkhorn is driven by
@@ -107,7 +106,7 @@ efficiency of animal-mediated dispersal.
 
 ## False Truffles
 
-False truffles are gasteromycete fruiting bodies that mature beneath
+False truffles are [[gasteromycete-fruiting-bodies]] that mature beneath
 the soil surface. They serve as attractive lures for rodents, which
 disperse their spores for the nutritional reward of the fungal flesh.
 The mammalian dispersal strategy of false truffles parallels that of
@@ -140,17 +139,10 @@ flexibility of the basidiomycete fruiting body.
 Unlike gilled mushrooms, which cool during spore release due to
 evaporative water loss, gasteromycetes maintain temperatures equal to
 the surrounding air. This is because they have abandoned the water-
-dependent spore discharge mechanism. Water conservation, rather than
+dependent spore discharge mechanism. [[water-conservation]], rather than
 evaporative cooling, is the thermodynamic priority for these fungi,
 and this fundamental difference in water economy underpins their
 ability to colonize dry habitats that are inhospitable to gilled
 mushrooms.
 
 ## See Also
-
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
-- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
-- [[puffball-fungi]]
-- [[stinkhorn-fungi-biology]]
-- [[bloomfield-truffle-hunting-and-culinary-fungi]]
-- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]

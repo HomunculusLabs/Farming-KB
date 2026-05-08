@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 **Gymnopilus luteus** is a large, orange to yellow **Gymnopilus** species found growing
 on hardwood logs and stumps in eastern North America and parts of Europe. It is closely
 related to the well-known psychoactive species [[gymnopilus-junonius]] and
-[[gymnopilus-spectabilis]], and like those species, it contains the psychoactive
+[[gymnopilus-spectabilis-entity]], and like those species, it contains the psychoactive
 compounds psilocybin and psilocin, though typically in low concentrations.
 
 ## Taxonomy and Naming
@@ -68,7 +68,7 @@ collections from the northeastern United States (New York, Pennsylvania, Massach
 Vermont, and Maine) and southeastern Canada (Ontario and Quebec). Its range extends
 southward through the Appalachian region into the Carolinas, Tennessee, and Georgia.
 There are also reports from Europe, particularly central and eastern Europe, though
-some of these may represent misidentifications of [[gymnopilus-spectabilis]] or other
+some of these may represent misidentifications of [[gymnopilus-spectabilis-entity]] or other
 Gymnopilus species. The species appears to be most common in the Great Lakes region
 and the northeastern hardwood forests.
 
@@ -87,7 +87,7 @@ on coniferous wood.
 Gymnopilus luteus is known to contain the indole alkaloids psilocybin and psilocin,
 which are responsible for its psychoactive effects. However, concentrations are
 generally reported to be low compared to other psychoactive Gymnopilus species such as
-[[gymnopilus-spectabilis]] and [[gymnopilus-junonius]]. Published analytical data for
+[[gymnopilus-spectabilis-entity]] and [[gymnopilus-junonius]]. Published analytical data for
 G. luteus specifically is limited, but psilocybin content has been estimated at
 approximately 0.14% per dry weight in the limited analyses available. Additionally,
 the species contains bis-noryangonin, a phenolic compound that may serve as a
@@ -111,7 +111,7 @@ which may relate to the presence of additional compounds in Gymnopilus species.
 Gymnopilus luteus can be confused with several other orange Gymnopilus species, making
 accurate identification challenging:
 
-- [[gymnopilus-spectabilis]] is typically larger and more brightly colored, with a
+- [[gymnopilus-spectabilis-entity]] is typically larger and more brightly colored, with a
   more pronounced scaly cap surface
 - [[gymnopilus-junonius]] tends to grow on conifer wood and has a more robust stature
 - [[gymnopilus-luteofolius]] is smaller and has a more purple-toned coloration
@@ -144,7 +144,7 @@ While Gymnopilus luteus is not considered dangerously toxic, accurate identifica
 is critical. The genus Gymnopilus contains both psychoactive and non-psychoactive
 species, and misidentification with toxic species in other orange-colored genera is
 possible. Some Gymnopilus species contain bitter-tasting compounds and may cause
-- [[gymnopilus-spectabilis]] — the most widely recognized psychoactive Gymnopilus
+- [[gymnopilus-spectabilis-entity]] — the most widely recognized psychoactive Gymnopilus
 - [[gymnopilus-junonius]] — a common large Gymnopilus of conifer wood
-- [[psilocybin]] — the primary psychoactive compound found in this species
+- [[psilocybin-compound]] — the primary psychoactive compound found in this species
 - [[gymnopilus-luteofolius]] — a related species with more purplish tones

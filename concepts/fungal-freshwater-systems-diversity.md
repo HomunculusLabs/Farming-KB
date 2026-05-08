@@ -86,4 +86,4 @@ The diversity of freshwater fungi is vast but poorly documented. Many species kn
 
 Freshwater fungal diversity is threatened by water pollution, habitat modification, channelization, and climate change. Alteration of riparian vegetation affects the quality and quantity of leaf litter inputs that support aquatic fungal communities.
 
-[[fungal-conservation-strategies]] [[mycorrhizal-fungi]]
+[[ethnomycology]] [[mycorrhizal-fungi]]

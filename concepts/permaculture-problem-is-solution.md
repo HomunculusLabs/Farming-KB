@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Problem Is the Solution
 
-"The problem is the solution" is one of the most widely recognised permaculture maxims, expressing the idea that things are not always as they seem and that the elements we view negatively may have a positive aspect that is more important than, or at least compensates for, the predominant negative perception. david holmgren explores this principle extensively in [[permaculture-principle-observe-and-interact]] of Permaculture: Principles and Pathways Beyond Sustainability.
+"The problem is the solution" is one of the most widely recognised permaculture maxims, expressing the idea that things are not always as they seem and that the elements we view negatively may have a positive aspect that is more important than, or at least compensates for, the predominant negative perception. david holmgren explores this principle extensively in [[permaculture-design-principles]] of Permaculture: Principles and Pathways Beyond Sustainability.
 
 ## Reframing Problems as Resources
 
@@ -79,11 +79,11 @@ This humility in the face of complexity is essential for applying "the problem i
 
 - [[problem-is-the-solution-permaculture-maxim]]
 
-- [[permaculture-principle-observe-and-interact]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-principle-apply-self-regulation]]
 
-- [[permaculture-principle-creatively-use-and-respond-to-change]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-reading-landscape]]
 

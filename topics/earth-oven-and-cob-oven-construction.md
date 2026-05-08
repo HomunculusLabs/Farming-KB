@@ -13,7 +13,7 @@ sources:
 
 # Earth Oven and Cob Oven Construction
 
-Earth ovens are among humanity's oldest cooking technologies — a fire-heated enclosure built from subsoil, clay, sand, and fiber that uses the thermal mass of earthen materials to bake, roast, and slow-cook food. Cob ovens, a subset of earth oven construction using the cob building method (clay-sand-straw mix), offer accessible, low-cost, and remarkably effective cooking for homesteads, farms, and backyard gardens.
+Earth ovens are among humanity's oldest cooking technologies — a fire-heated enclosure built from subsoil, clay, sand, and fiber that uses the thermal mass of earthen materials to bake, roast, and slow-cook food. Cob ovens, a subset of earth oven construction using the [[cob-building-basics-detailed]] method (clay-sand-straw mix), offer accessible, low-cost, and remarkably effective cooking for homesteads, farms, and backyard gardens.
 
 ## History and Cultural Significance
 
@@ -39,7 +39,7 @@ Cob is a mixture of three primary ingredients in specific proportions:
 
 ### Testing Your Soil
 
-Not all soil contains enough clay for cob. Perform a simple **mason jar test**: fill a jar 1/3 with soil, add water to the top, shake vigorously, and let settle for 24 hours. Sand settles first (bottom), then silt, then clay (top). You want roughly 20–30% clay content.
+Not all soil contains enough clay for cob. Perform a simple **[[mason-jar-preserving-guide]] test**: fill a jar 1/3 with soil, add water to the top, shake vigorously, and let settle for 24 hours. Sand settles first (bottom), then silt, then clay (top). You want roughly 20–30% clay content.
 
 A **ball test** confirms workability: form a golf-ball-sized ball of moist soil, drop it from waist height. If it cracks badly, add clay. If it deforms into a pancake, add sand. If it holds its shape with minor surface cracking, you have good cob soil.
 
@@ -191,7 +191,7 @@ You'll see hairline cracks during curing — this is normal. Fill them with wet 
 | Oven Wall Temperature | Food |
 |-----------------------|------|
 | 230–290°C (450–550°F) | Pizza (2–3 min), flatbread |
-| 200–230°C (400–450°F) | Sourdough bread (20–30 min), rolls |
+| 200–230°C (400–450°F) | [[sourdough-bread-guide]] (20–30 min), rolls |
 | 175–200°C (350–400°F) | Roasting vegetables, chicken, cake |
 | 120–175°C (250–350°F) | Casseroles, beans, slow-roasted meats |
 | Below 120°C (250°F) | Dehydrating, keeping food warm, yogurt |
@@ -244,7 +244,7 @@ Most small cob ovens don't need a chimney — smoke drafts naturally through the
 
 ### Rocket Mass Heater Oven
 
-Combining a rocket stove combustion chamber with a cob oven's thermal mass creates a highly efficient hybrid. The J-tube rocket burn provides nearly complete combustion (less smoke, less fuel) while the cob bell stores heat. Plans are available from organizations like Aprovecho Research Center.
+Combining a [[rocket-stove]] combustion chamber with a [[cob-oven-construction]]'s thermal mass creates a highly efficient hybrid. The J-tube rocket burn provides nearly complete combustion (less smoke, less fuel) while the cob bell stores heat. Plans are available from organizations like Aprovecho Research Center.
 
 ### Tandoor-Style Cylindrical Oven
 
@@ -345,7 +345,7 @@ Consider hosting a workshop: participants contribute labor (and often a material
 |------|---------------|
 | Sand and clay (if not on-site) | $0–50 |
 | Firebricks (30–50) | $30–80 |
-| Straw bale | $5–15 |
+| [[straw-bale-construction]] | $5–15 |
 | Perlite/insulation (2–3 bags) | $20–50 |
 | Lime for plaster | $10–25 |
 | Total (using on-site soil) | $65–220 |
@@ -356,7 +356,7 @@ Compare this to $2,000–10,000+ for a masonry or prefabricated oven. The cob ov
 ## Resources for Further Learning
 
 - **Kiko Denzer, *Build Your Own Earth Oven*** (3rd ed.) — The essential reference. Clear, illustrated, beginner-friendly.
-- **Cob Cottage Company** (cobcottage.com) — Workshops, books, and decades of natural building expertise.
+- **Cob Cottage Company** (cobcottage.com) — Workshops, books, and decades of [[natural-building-materials-guide]] expertise.
 - **Ianto Evans et al., *The Hand-Sculpted House*** — Comprehensive cob building for structures beyond ovens.
 - **Aprovecho Research Center** — Rocket stove and efficient combustion research for oven hybrids.
-- **The Mud Home** (themudhome.com) — Practical earth building guides and community.
+- **The Mud Home** (themudhome.com) — Practical [[earth-building-permaculture]] guides and community.

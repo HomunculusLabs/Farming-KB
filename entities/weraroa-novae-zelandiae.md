@@ -117,7 +117,7 @@ Cultivation of *Weraroa novae-zelandiae* is rarely attempted and considered chal
 
 ## See Also
 
-- [[psilocybin]] — the primary psychoactive compound
+- [[psilocybin-compound]] — the primary psychoactive compound
 - [[psilocybe-subaeruginosa]] — closest agaricoid relative in New Zealand
 - [[psilocybe-azurescens]] — comparison of potency among wood-inhabiting Psilocybe species
 - [[baeocystin]] — minor alkaloid also found in this species

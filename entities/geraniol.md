@@ -75,7 +75,7 @@ indomethacin.
 Geraniol exhibits broad-spectrum antimicrobial activity against both
 Gram-positive and Gram-negative bacteria, as well as fungi and yeasts.
 Notable MIC values include *Staphylococcus aureus* (64 µg/mL),
-*Escherichia coli* (256 µg/mL), and *Candida albicans* (128 µg/mL).
+*Escherichia coli* (256 µg/mL), and *[[candida-albicans]]* (128 µg/mL).
 Its mechanism involves disruption of microbial cell membrane integrity.
 
 **Neuroprotective effects:**
@@ -100,12 +100,12 @@ essential oils:
 
 | Plant Source | Geraniol Content | Notes |
 |-------------|-----------------|-------|
-| *Pelargonium graveolens* (rose geranium) | 15–30% | Primary commercial source |
-| *Cymbopogon martinii* (palmarosa) | 80–95% | Highest natural concentration |
-| *Rosa damascena* (damask rose) | 10–25% | Perfumery standard |
+| *[[pelargonium-graveolens]]* (rose geranium) | 15–30% | Primary commercial source |
+| *[[cymbopogon-martinii]]* (palmarosa) | 80–95% | Highest natural concentration |
+| *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
 | *Cymbopogon winterianus* (citronella) | 30–45% | Insect repellent source |
 | *Citrus* spp. (lemon, orange) | 1–5% | Minor constituent |
-| *Ocimum basilicum* (basil) | 1–8% | Culinary herb |
+| *[[ocimum-basilicum]]* (basil) | 1–8% | Culinary herb |
 | Cannabis cultivars | Trace – 0.5% | Floral-rosy aroma contributor |
 
 In cannabis, geraniol is classified as a minor terpene but contributes
@@ -148,9 +148,3 @@ post-harvest preservation of fruits and vegetables.
 | Geranyl acetate | Ester derivative (acetyl ester of geraniol) |
 
 ## See Also
-
-- [[herbal-medicine-making-basics]]
-- [[herbal-plant-remedies]]
-
-- [[cannabis-terpene-profiles]]
-

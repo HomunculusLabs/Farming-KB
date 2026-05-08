@@ -101,7 +101,7 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 3. **Nettles for compost activation** -- a layer of fresh nettles between brown layers heats the pile quickly. Also excellent as [[fermented-plant-extract-fpe]] material.
 4. **Harvest at dawn for FPJ** -- peak sugar content in early morning. Ferment within hours for best results.
 5. **Return biomass where it grew** -- accumulators mine from below; surface-mulching returns nutrients to topsoil where crop roots access them. Works with [[soil-food-web-nutrient-cycling]] biology.
-6. **Many accumulators double as cover crops** -- clovers, vetch, buckwheat, and chicory integrate into [[no-till-gardening-method]] rotations.
+6. **Many accumulators double as cover crops** -- clovers, vetch, buckwheat, and chicory integrate into [[composting-and-soil-biology]] rotations.
 
 ## See Also
 
@@ -110,5 +110,5 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 - [[fermented-plant-extract-fpe]] -- making extracts from accumulators
 - [[knf-preparations]] -- KNF inputs from accumulator plants
 - [[soil-food-web-nutrient-cycling]] -- biology that cycles accumulated nutrients
-- [[no-till-gardening-method]] -- surface-mulch integration
+- [[composting-and-soil-biology]] -- surface-mulch integration
 - [[companion-planting-reference]] -- accumulator placement in polycultures

@@ -20,7 +20,7 @@ The four main substrate categories are coprophilous (dung-inhabiting), lignicolo
 
 The largest group of tropical and subtropical psilocybin mushrooms grows directly on herbivore dung.
 
-[[psilocybe-cubensis-profile]] grows on cow dung throughout the tropics and subtropics.
+[[psychedelic-mushrooms-species-and-identification]] grows on cow dung throughout the tropics and subtropics.
 
 [[panaeolus-cyanescens-bali-omelette]] grows on cow dung and water buffalo dung across Asia, the Pacific, and other tropical regions.
 
@@ -40,7 +40,7 @@ Psilocybe cubensis does not grow in Europe despite the presence of cattle, sugge
 
 Many temperate psilocybin mushrooms decompose wood, particularly the "woodlovers" of the Pacific Northwest.
 
-[[psilocybe-cyanescens-profile]] grows on wood debris, wood chips, and sawdust.
+[[psychedelic-mushrooms-species-and-identification]] grows on wood debris, wood chips, and sawdust.
 
 [[psilocybe-azurescens-profile]] grows on decaying wood in coastal dune grasses.
 
@@ -56,7 +56,7 @@ Psilocybe caerulescens (venenata) in Japan grows on top of wood and dung, illust
 
 ## Terricolous Species: Soil-Inhabiting
 
-[[psilocybe-semilanceata-profile]] grows in grassy areas, particularly in pastures grazed by sheep and cows, but not directly on dung.
+[[psychedelic-mushrooms-species-and-identification]] grows in grassy areas, particularly in pastures grazed by sheep and cows, but not directly on dung.
 
 It is a nitrophilic species that benefits from nutrient-rich soils in established pastures.
 

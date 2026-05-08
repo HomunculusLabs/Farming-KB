@@ -135,39 +135,6 @@ neurons via 5-HT₂A-mediated pathways (Ly et al., 2018).
 | Dose level | Psilocybin (mg) | Dried *P. cubensis* (g) |
 |------------|-----------------|--------------------------|
 | Microdose | 0.1–0.3 | 0.1–0.3 |
-| Light | 1–2.5 | 0.5–1.5 |
-| Moderate | 2.5–5 | 1.5–3.5 |
-| Strong | 5–10 | 3.5–7 |
-| Heroic | 10+ | 7+ |
-
-## Legal Status
-
-Psilocybin is classified as a Schedule I controlled substance under the UN
-Convention on Psychotropic Substances (1971), making it illegal in most
-jurisdictions. Notable exceptions and reforms include:
-
-- **Netherlands:** Fresh psilocybin mushrooms (truffles) remain legal; dried
-  mushrooms banned since 2008.
-- **Oregon (USA):** Psilocybin legalized for therapeutic use under Measure 109
-  (2020); personal possession decriminalized under Measure 110.
-- **Colorado (USA):** Decriminalized and regulated under Proposition 122 (2022).
-- **Canada:** Granted "breakthrough therapy" status; limited clinical access
-  through Special Access Programme.
-- **Australia:** Rescheduled as a controlled drug for psychiatric use by
-  authorized psychiatrists (2023).
-- **Brazil, Jamaica, Samoa, Bahamas:** No specific legal prohibition on
-  psilocybin mushrooms.
-
-## Safety Profile
-
-Psilocybin has a high therapeutic index (LD₅₀ in mice: ~280 mg/kg IV). No
-deaths have been directly attributed to psilocybin toxicity alone. Primary
-risks include psychological distress (anxiety, paranoia, "bad trips"),
-especially in individuals with personal or family history of psychotic
-disorders, and physical risks from accidental injury during intoxication.
-Harm reduction practices (set and setting, trip sitting, integration therapy)
-significantly mitigate adverse outcomes.
-
 ## See Also
 
 - [[psilocybin-mushroom-biology-chemistry]]
@@ -178,5 +145,5 @@ significantly mitigate adverse outcomes.
 - [[psilocybe-cubensis]]
 - [[dmt]]
 - [[lsd]]
-- [[5-HT₂A receptor]]
+- [[5-ht₂a-receptor]]
 - Neuroplasticity

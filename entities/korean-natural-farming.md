@@ -140,22 +140,6 @@ KNF principles have been adapted for:
 
 ## Comparison with Other Systems
 
-| Feature | KNF | EM (Effective Microorganisms) | Biodynamics | Organic |
-|---|---|---|---|---|
-| Input cost | Very low (on-farm) | Low-moderate | Moderate | Moderate-high |
-| External inputs | None | Commercial EM cultures | Biodynamic preparations | Organic fertilizers |
-| Fermentation focus | Primary | Primary | Secondary | Minimal |
-| Codified system | Yes | Yes | Yes | Variable |
-| Climate adaptation | Local IMO adaptation | Standardized | Standardized | Variable |
-
-## Criticisms and Limitations
-
-- **Lack of peer-reviewed research:** KNF practices are primarily supported by anecdotal evidence and farmer experience rather than controlled scientific studies
-- **Variability:** Locally produced inputs can vary significantly in quality and microbial composition
-- **Scalability:** Labor-intensive input production may limit large-scale adoption
-- **Standardization:** Difficult to standardize practices across different climates, soils, and crops
-- **Learning curve:** The input system requires significant knowledge and practice to master
-
 ## See Also
 
 - [[fukuoka-one-straw-revolution-philosophy]] — Masanobu Fukuoka's natural farming philosophy

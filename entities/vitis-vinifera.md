@@ -117,5 +117,5 @@ Major global cultivars include Cabernet Sauvignon, Merlot, Chardonnay, Pinot Noi
 - [[comfrey]]
 - [[permaculture]]
 - [[guild-planting]]
-- [[rosmarinus-officinalis]]
-- [[origanum-vulgare]]
+- [[rosmarinus-officinalis-entity]]
+- [[origanum-vulgare-entity]]

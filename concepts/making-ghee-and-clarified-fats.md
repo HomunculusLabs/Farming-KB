@@ -13,8 +13,6 @@ Updated: 2026-04-18
 
 Ghee (clarified butter) is butter that has been rendered to remove milk solids and water, leaving pure butterfat. Ghee has a much longer shelf life than fresh butter -- months at room temperature -- and a higher smoke point, making it superior for cooking. It is a traditional food preservation method in South Asian and Middle Eastern cuisines and an essential skill for [[sustainable-living-habits-for-homesteads]].
 
-
-
 ## Why Make Ghee
 
 - **Shelf stability** -- lasts months at room temperature without refrigeration, making it ideal for off-grid living and food storage
@@ -22,8 +20,6 @@ Ghee (clarified butter) is butter that has been rendered to remove milk solids a
 - **Lactose-free** -- milk solids are removed, making it tolerable for many people with dairy sensitivities
 - **Nutrient-dense** -- retains fat-soluble vitamins A, D, E, and K from the butter
 - **Traditional preservation** -- one of the oldest methods of preserving butterfat
-
-
 
 ## Making Ghee Step by Step
 
@@ -44,8 +40,6 @@ Ghee (clarified butter) is butter that has been rendered to remove milk solids a
 
 7. **Store** -- let the ghee cool to room temperature, then seal the jar. Store at room temperature in a cool, dark place. It will keep for months. Some sources say properly made ghee can last a year or more.
 
-
-
 ## Other Clarified Fats
 
 ### Rendering Lard
@@ -62,8 +56,6 @@ Lard (rendered pork fat) can be preserved similarly:
 
 Beef tallow is rendered the same way as lard from beef suet (kidney fat). Tallow has been used historically for cooking, soap making, candle making, and waterproofing. It is shelf-stable for extended periods.
 
-
-
 ## Egg Preservation in Fat
 
 Eggs can be preserved by coating in lard:
@@ -72,8 +64,6 @@ Eggs can be preserved by coating in lard:
 3. Lay out to dry, then buff gently with a clean towel to spread lard evenly
 4. Pack eggs in salt in a large bucket so no eggs touch each other
 5. Store in a cool place for 6 months to a year
-
-
 
 ## See Also
 

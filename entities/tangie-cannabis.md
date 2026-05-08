@@ -111,8 +111,8 @@ Tangie is a significant entry in the cannabis wiki due to its role as a modern c
 - [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
 - [[sour-diesel]] — Another legendary sativa-dominant strain with energizing properties
 - [[amnesia-haze]] — Sativa-dominant strain with similar potency and cerebral stimulation
-- [[blue-dream]] — Popular sativa-dominant hybrid offering balanced effects
-- [[durban-poison]] — Pure landrace sativa with energetic daytime effects
+- [[cannabis-blue-dream]] — Popular sativa-dominant hybrid offering balanced effects
+- [[cannabis-indoor-growing-guide]] — Pure landrace sativa with energetic daytime effects
 - [[myrcene]] — Dominant terpene in Tangie's profile
 - [[limonene]] — Citrus terpene key to Tangie's signature aroma
 - [[linalool]] — Floral terpene contributing to Tangie's balanced relaxation

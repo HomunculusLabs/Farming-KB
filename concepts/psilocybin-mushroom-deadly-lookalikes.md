@@ -58,7 +58,7 @@ The general shape of Galerina autumnalis can be very similar to Psilocybe stuntz
 
 Both are small, squat mushrooms with brown caps and a ring on their stems.
 
-Mycenoid Galerinas closely resemble [[psilocybin-liquid-culture]] and [[psilocybe-semilanceata-profile]].
+Mycenoid Galerinas closely resemble [[psilocybin-liquid-culture]] and [[psychedelic-mushrooms-species-and-identification]].
 
 Color is by far the best feature for separating Galerinas from Psilocybes, not shape or habitat.
 

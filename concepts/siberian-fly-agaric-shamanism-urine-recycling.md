@@ -47,7 +47,7 @@ Shamans became the talk of coffee shops and salons, inspired fashion trends, for
 
 As the century progressed, the shaman ceased to be considered the embodiment of irrationality and came to be seen as a privileged individual whose creative trance gave a unique vantage point on the world. Contemporaneously, the emerging Romantic movement produced its own inflated idea of the "artist," with creativity viewed as something mysterious and God-given. Siberian shamans were being elevated as Rousseauesque noble-savages at the very time that indigenous tribespeople were being denigrated as backward primitives.
 
-This Romantic transformation had lasting consequences. The image of the shaman as a visionary artist — accessing realms of consciousness unavailable to ordinary perception — would be taken up by the [[psilocybin-in-the-counter-culture]] of the twentieth century, which saw in Siberian shamanism a precursor to its own exploration of altered states.
+This Romantic transformation had lasting consequences. The image of the shaman as a visionary artist — accessing realms of consciousness unavailable to ordinary perception — would be taken up by the [[psychedelic-mushrooms-species-and-identification]] of the twentieth century, which saw in Siberian shamanism a precursor to its own exploration of altered states.
 
 ## The [[amanita-muscaria-chemistry-and-pharmacology]] Tradition
 
@@ -81,7 +81,7 @@ The pharmacological research into muscimol metabolism that began with curiosity 
 
 - [[magic-mushroom-history-timeline]]
 
-- [[victorian-mycology]]
+- [[ethnomycology]]
 
 ## Related
 

@@ -1,5 +1,5 @@
 ---
-title: "Nigella sativa"
+title: "nigella sativa"
 created: 2026-04-28
 type: species
 tags:
@@ -19,12 +19,11 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3644242/
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nigella-sativa
 ---
-
 # Nigella sativa
 
 ## Overview
 
-**Nigella sativa**, commonly known as black seed, black cumin, kalonji (Hindi/Urdu), habbat al-barakah (Arabic: "seed of blessing"), or Roman coriander, is an annual flowering plant in the family Ranunculaceae (buttercup family). Native to Southern Europe, North Africa, and Southwest Asia, it has been cultivated for over 3,000 years as both a culinary spice and a traditional medicinal herb. The seeds and their primary bioactive constituent, thymoquinone, possess documented anti-inflammatory, antioxidant, immunomodulatory, antidiabetic, and anticancer properties, making *N. sativa* one of the most extensively researched medicinal plants in modern pharmacognosy.
+**Nigella sativa**, commonly known as black seed, black cumin, kalonji (Hindi/Urdu), habbat al-barakah (Arabic: "seed of blessing"), or Roman coriander, is an annual flowering plant in the family Ranunculaceae (buttercup family). Native to Southern Europe, North Africa, and Southwest Asia, it has been cultivated for over 3,000 years as both a culinary spice and a traditional [[medicinal-herb-growing-guide]]. The seeds and their primary bioactive constituent, thymoquinone, pmedicinal-mushroom-antioxidant-anti-inflammatory]] anti-inflammatory, antioxidant, immunomodulatory, antidiabetic, and anticancer properties, makinquery-what-are-the-main-bioactive-compounds-in-medicinal-plantse of the most extensively researched medicinal plants in modern pharmacognosy.
 
 ## Taxonomy and Classification
 
@@ -79,7 +78,7 @@ Thymoquinone is the most pharmacologically significant constituent, though it is
 - **Carvacrol:** Monoterpene phenol; antimicrobial, antioxidant
 - **4-Terpineol:** Monoterpene alcohol; antimicrobial, insecticidal
 - **Longifolene:** Sesquiterpene; anti-inflammatory
-- **α-Pinene, β-pinene:** Monoterpenes; bronchodilatory, anti-inflammatory
+- **α-[[pinene]], β-pinene:** Monoterpenes; bronchodilatory, anti-inflammatory
 - **T-anethole:** Phenylpropene; antimicrobial
 - **Nigellicine and nigellidine:** Alkaloids unique to *N. sativa*; immunomodulatory
 - **Fixed oil fatty acids:** Linoleic acid (C18:2, ~55%), oleic acid (C18:1, ~20%), palmitic acid (C16:0, ~12%), stearic acid (C18:0, ~3%)
@@ -88,7 +87,7 @@ Thymoquinone is the most pharmacologically significant constituent, though it is
 Cold-pressed black seed oil is the most common commercial preparation. It contains:
 - Essential oil fraction (0.4–0.5%): Volatile compounds including thymoquinone
 - Fixed oil fraction: Rich in unsaturated fatty acids, particularly linoleic acid (omega-6)
-- Phytosterols: β-Sitosterol, stigmasterol, campesterol
+- Phytosterols: β-Sitosterol, [[stigmasterol]], campesterol
 - Tocopherols (vitamin E): α-Tocopherol, γ-tocopherol
 - Squalene: Triterpene with antioxidant properties
 
@@ -110,7 +109,7 @@ Multiple clinical trials have demonstrated that black seed supplementation (1–
 Preclinical studies show thymoquinone induces apoptosis in cancer cell lines (breast, colon, prostate, lung, pancreatic, leukemia) through multiple mechanisms: ROS generation, mitochondrial disruption, caspase activation, and inhibition of PI3K/Akt and NF-κB pathways. Clinical trials remain limited.
 
 ### Antimicrobial
-Black seed oil and essential oil exhibit broad-spectrum antimicrobial activity against Gram-positive and Gram-negative bacteria (including MRSA), fungi (including *Candida albicans*), and parasites (*Plasmodium*, *Schistosoma*).
+Black seed oil and essential oil exhibit broad-spectrum antimicrobial activity against Gram-positive and Gram-negative bacteria (including MRSA), fungi (including *[[candida-albicans]]*), and parasites (*Plasmodium*, *Schistosoma*).
 
 ### Respiratory and Gastroprotective
 Traditional respiratory use is supported by bronchodilatory and antiasthmatic effects; thymoquinone reduces airway inflammation. Also demonstrates gastroprotective effects against gastric ulcers via antioxidant and anti-inflammatory mechanisms.
@@ -147,7 +146,3 @@ Traditional respiratory use is supported by bronchodilatory and antiasthmatic ef
 ## See Also
 
 - [[cannabis-sativa-morphology-and-plant-architecture]]
-
-- [[ashwagandha-withania-somnifera]] — Another adaptogenic herb with extensive research
-- [[bacopa-monnieri]] — Nootropic Ayurvedic herb with complementary actions
-- [[ocimum-sanctum]] — Tulsi — Rasayana herb with overlapping anti-inflammatory properties

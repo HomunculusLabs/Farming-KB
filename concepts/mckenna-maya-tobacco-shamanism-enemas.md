@@ -148,4 +148,3 @@ the Mesoamerican entheogenic complex.
 ## See Also
 
 - [[entheogen-culture]]
-- [[mckenna-food-gods-mesoamerican-mushrooms]]

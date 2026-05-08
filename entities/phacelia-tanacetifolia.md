@@ -101,7 +101,7 @@ Seed is readily available from cover crop suppliers and pollinator seed mix vend
 
 - [[borago-officinalis]]
 - [[foeniculum-vulgare]]
-- [[tagetes-erecta]]
+- [[tagetes-erecta-entity]]
 - [[tropaeolum-majus]]
 - [[fagopyrum-esculentum]]
 - [[trifolium-pratense]]

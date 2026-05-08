@@ -148,4 +148,3 @@ Clamp connections are absent, typical for the genus Agaricus. See
 - [[stamets-compost-preparation]]
 - [[stamets-casing-layer-design]]
 - [[stamets-cultivator-agaricus-bisporus-commercial-methods]]
-- [[stamets-pinning-initiation-stages-environmental-control]]

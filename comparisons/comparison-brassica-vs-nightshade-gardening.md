@@ -148,4 +148,3 @@ protection gives nightshades an early start.
 - [[comparison-tomato-vs-pepper-growing]]
 - [[comparison-annual-vs-perennial]]
 - [[crop-rotation-principles]]
-- [[season-extension-techniques]]

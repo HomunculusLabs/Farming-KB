@@ -19,16 +19,15 @@ sources:
   - Gilroy, S., et al. (2016). Plant behavior and communication. *American Journal of Botany*, 103(5), 765-771.
   - Novoplansky, A. (2019). Plant-environment interactions: perception, proximate processing and multi-level responses. *Plant, Cell & Environment*, 42(3), 747-764.
   - Falik, O., et al. (2011). Plant root foraging obeys Darwinian conflict between siblings. *PLoS ONE*, 6(9), e23507.
-  - Song, Y. Y., et al. (2010). Interplant communication of tomato plants through underground common mycorrhizal networks. *PLoS ONE*, 5(10), e13324.
+  - Song, Y. Y., et al. (2010). Interplant communication of tomato plants through underground [[common-mycorrhizal-networks]]. *PLoS ONE*, 5(10), e13324.
 type: query
 created: 2026-04-28
 ---
-
 # How Do Plants Communicate and Respond to Stress?
 
 ## Quick Answer
 
-Plants communicate and respond to stress through an astonishing array of mechanisms: **volatile organic compounds (VOCs)** released into the air, **root exudates** secreted into soil, **electrical signals** that travel through tissues, **hormonal cascades** that reprogram gene expression, and **mycorrhizal fungal networks** that connect plants underground. Far from being passive organisms, plants actively perceive their environment, warn neighbors of danger, recruit bodyguards, share resources, and make sophisticated foraging decisions — all without a nervous system.
+Plants communicate and respond to stress through an astonishing array of mechanisms: **[[fungal-volatile-organic-compounds]] (VOCs)** released into mycorrhizal-biocontrol-phytophthora-[[root-exudates]] ot exudates** secreted into soil, **electrical signals** that travel through tissues, **hormonamycorrhizal-fungal-diversityreprogram gene expression, and **mycorrhizal fungal networks** that connect plants underground. Far from being passive organisms, plants actively perceive their environment, warn neighbors of danger, recruit bodyguards, share resources, and make sophisticated foraging decisions — all without a nervous system.
 
 ## The Main Communication Channels
 
@@ -54,7 +53,7 @@ When a plant is attacked by herbivores, it releases a specific blend of volatile
 Roots release a staggering diversity of chemicals into the rhizosphere — up to 10–20% of photosynthetically fixed carbon:
 
 **Root exudate functions in communication:**
-- **Allelopathy:** Plants release compounds that inhibit the growth of competitors. Black walnut (*Juglans nigra*) releases juglone; sorghum releases sorgoleone; spotted knapweed releases catechin.
+- **Allelopathy:** Plants release compounds that inhibit the growth of competitors. Black walnut (*[[juglans-nigra]]*) releases juglone; sorghum releases sorgoleone; spotted knapweed releases catechin.
 - **Sibling recognition:** Roots can distinguish between self and non-self. Plants invest more root growth in pots with strangers than with siblings, suggesting kin recognition mediated by root exudate profiles.
 - **Microbial recruitment:** Roots release specific exudates to attract beneficial microbes. Legumes release flavonoids that trigger *Rhizobium* nodulation genes. Maize roots release benzoxazinoids that shape the root microbiome.
 - **Nematode and pathogen defense:** Roots release compounds that repel parasitic nematodes or stimulate antagonistic microbes. Some plants release **exudate traps** that lure pathogenic fungi to their roots and then kill them with localized oxidative bursts.
@@ -63,7 +62,7 @@ Roots release a staggering diversity of chemicals into the rhizosphere — up to
 
 Plants generate and propagate electrical signals analogous to (but simpler than) animal action potentials:
 
-- **Action potentials (APs):** Rapid depolarization waves (1–10 cm/sec) triggered by wounding, cold shock, or osmotic stress. In *Mimosa pudica* (sensitive plant), APs trigger rapid leaf closure.
+- **Action potentials (APs):** Rapid depolarization waves (1–10 cm/sec) triggered by wounding, cold shock, or osmotic stress. In *[[mimosa-pudica]]* (sensitive plant), APs trigger rapid leaf closure.
 - **Variation potentials (VPs) / slow wave potentials:** Slower signals (1–10 mm/sec) triggered by severe wounding, burning, or salt stress. VPs propagate through the xylem and can travel throughout the entire plant within minutes.
 - **System potentials (SPs):** Hyperpolarization waves that precede VPs and may prime tissues for defense responses.
 
@@ -74,7 +73,7 @@ Plants generate and propagate electrical signals analogous to (but simpler than)
 
 ### 4. Mycorrhizal Networks (The "Wood Wide Web")
 
-Plants connected through **common mycorrhizal networks (CMNs)** — shared fungal hyphae linking multiple plant root systems — can exchange:
+Plants connected through **common [[mycorrhizal-networks]] (CMNs)** — shared fungal hyphae linking multiple plant root systems — can exchange:
 
 - **Carbon:** Trees in shaded understory positions receive photosynthate from sun-exposed canopy trees through CMNs. "Mother trees" preferentially transfer carbon to their own seedlings.
 - **Nitrogen and phosphorus:** Nutrients are moved between plants through fungal hyphae, often from nutrient-rich to nutrient-poor individuals.
@@ -86,7 +85,7 @@ Plants connected through **common mycorrhizal networks (CMNs)** — shared funga
 Phytohormones are the internal language of plant stress responses:
 
 | Hormone | Primary Stress Role | Key Responses |
-|---------|-------------------|---------------|
+|    |         -|       -|
 | **Jasmonic acid (JA)** | Herbivore attack, wounding | Protease inhibitors, toxic secondary metabolites, VOC emission |
 | **Salicylic acid (SA)** | Biotrophic pathogen attack | Systemic acquired resistance (SAR), PR protein production |
 | **Ethylene** | Flooding, senescence, ripening | Aerenchyma formation, leaf abscission, fruit ripening |
@@ -121,7 +120,7 @@ Phytohormones are the internal language of plant stress responses:
 ### Abiotic Stress Responses
 
 | Stress | Key Hormone(s) | Primary Responses |
-|--------|---------------|------------------|
+|    |       -|         |
 | **Drought** | ABA | Stomatal closure, osmolyte accumulation (proline, glycine betaine), increased root:shoot ratio, aquaporin regulation, cuticular wax deposition |
 | **Heat** | Ethylene, SA | Heat shock proteins (HSPs), membrane lipid remodeling, ROS scavenging, reduced auxin |
 | **Cold** | ABA, SA | CBF/DREB transcription factors, membrane desaturation, sugar cryoprotectants, antifreeze proteins |
@@ -147,8 +146,4 @@ Plants exhibit a form of "memory" called **priming**: after experiencing one str
 ## See Also
 
 - [[plant-sensory-biology]]
-- plant defense chemistry and secondary metabolites
-- [[singh-fungal-volatile-organic-compounds-biodegradation]]
-- [[mycorrhizal-networks-and-forest-communication]]
-- [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-- [[integrated-pest-management]]
+- [[plant-defense-chemistry-and-secondary-metabolites]]

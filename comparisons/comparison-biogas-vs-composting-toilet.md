@@ -148,5 +148,3 @@ food and every element should perform multiple functions.
 - [[mollison-designers-composting-toilets-and-humanure]]
 - [[mollison-sewage-biogas-systems]]
 - [[permaculture-designers-manual-biogas-digester]]
-- [[comparison-composting-toilets-vs-humanure]]
-- [[comparison-dam-construction-vs-swale-design]]

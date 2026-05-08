@@ -146,6 +146,4 @@ misting. This cycle of misting and fanning provides both humidity and FAE.
 
 - [[mushroom-cultivation-fruiting-chambers]]
 - [[mushroom-lighting-and-environmental-requirements]]
-- [[psilocybin-mushroom-cultivation-basics]]
-
-- [[mycelial-growth-and-colonization]]
+- [[mushroom-cultivation-fundamentals]]

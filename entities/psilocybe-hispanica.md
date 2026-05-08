@@ -97,7 +97,7 @@ Pileipellis a cutis with embedded gelatinous hyphae.
 
 ## Chemistry
 
-Chemical analysis confirmed the presence of [[psilocybin]] and trace amounts of [[psilocin]].
+Chemical analysis confirmed the presence of [[psilocybin-compound]] and trace amounts of [[psilocin]].
 
 Concentrations are moderate, generally lower than those of [[psilocybe-semilanceata]] or [[psilocybe-azurescens]].
 
@@ -131,7 +131,7 @@ No documented traditional or indigenous uses of psilocybe hispanica exist.
 
 As a recently described species (2000), it was identified through scientific survey rather than ethnobotanical inquiry.
 
-The species is classified as a controlled substance in many jurisdictions due to its [[psilocybin]] content.
+The species is classified as a controlled substance in many jurisdictions due to its [[psilocybin-compound]] content.
 
 Its restricted range and rarity mean it is seldom encountered outside of mycological research contexts.
 

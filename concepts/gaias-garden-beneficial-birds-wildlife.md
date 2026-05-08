@@ -64,7 +64,7 @@ To attract and nurture numerous birds from many species, a yard should furnish m
 
 ## The Edge Effect for Wildlife
 
-The edge between two habitat types -- such as lawn and shrub border, or shrub and tree canopy -- creates especially rich zones. New species colonize these edges that would not live in either habitat alone. This [[gaias-garden-edge-effect]] means that a yard with varied plant heights and types will support far more wildlife than a uniform planting. Design the garden with transitions rather than abrupt boundaries to maximize these productive edge zones.
+The edge between two habitat types -- such as lawn and shrub border, or shrub and tree canopy -- creates especially rich zones. New species colonize these edges that would not live in either habitat alone. This gaias garden edge effect means that a yard with varied plant heights and types will support far more wildlife than a uniform planting. Design the garden with transitions rather than abrupt boundaries to maximize these productive edge zones.
 
 ## Wildlife and the Ecological Garden
 
@@ -72,7 +72,7 @@ Gardens for wildlife are immensely valuable, but they are only a partial answer 
 
 ## Ponds and Water Features for Wildlife
 
-While a full [[gaias-garden-backyard-wetland-design]] may not fit every property, even a small pond dramatically increases wildlife habitat. A pond provides drinking water for birds and mammals, breeding habitat for frogs and dragonflies, and a focal point for garden design. The [[gaias-garden-edge-effect]] around a pond is especially productive -- the transition from water to land creates multiple microhabitats in a small area.
+While a full [[gaias-garden-backyard-wetland-design]] may not fit every property, even a small pond dramatically increases wildlife habitat. A pond provides drinking water for birds and mammals, breeding habitat for frogs and dragonflies, and a focal point for garden design. The gaias garden edge effect around a pond is especially productive -- the transition from water to land creates multiple microhabitats in a small area.
 
 Key design elements for a wildlife pond:
 
@@ -98,6 +98,6 @@ Beyond birds, other animals contribute to the ecological garden:
 - [[pollinator-gardening]] for supporting pollinators specifically
 - [[gaias-garden-chicken-tractors]] for integrating poultry into the garden
 - [[gaias-garden-duck-integration]] for waterfowl benefits including pest control
-- [[gaias-garden-edge-effect]] for maximizing habitat diversity
+- gaias garden edge effect for maximizing habitat diversity
 - [[gaias-garden-berry-bushes-guide]] for dual-purpose wildlife food and human food plants
 - Bird-friendly plants for specific species recommendations

@@ -13,9 +13,6 @@ type: concept
 
 # Genesis as the First Drug Bust
 
-
-
-
 ## Overview
 
 In *Food of the Gods*, Terence McKenna interprets the Book of Genesis as an
@@ -26,9 +23,6 @@ humans who have consumed the forbidden fruit of the Tree of Knowledge, a
 substance McKenna identifies as the psilocybin-containing mushroom *Stropharia
 cubensis*. This reading transforms the Genesis narrative from a story of
 original sin into a record of ecological catastrophe and cultural displacement.
-
-
-
 
 ## The Edenic Reading of Genesis 3
 
@@ -50,9 +44,6 @@ authoritarian anxiety. The expulsion from Eden, with its "cherubim and a sword
 whirling and flashing to guard the way to the tree of life," McKenna interprets
 as an allegory for the severe drought conditions that drove the mushroom-using
 pastoralists out of their Saharan paradise.
-
-
-
 
 ## The Woman as Mistress of Magical Plants
 
@@ -80,9 +71,6 @@ the shrines at Catal Huyuk is overwhelming; the presence of built-in "recliners"
 in some shrines suggests that curing or midwifery in a shamanic style may have
 been part of the rites, practices most likely conducted by women.
 
-
-
-
 ## The Serpent as Knowledge Bearer
 
 The serpent in the Genesis story plays a crucial role as the agent who
@@ -108,9 +96,6 @@ hidden dimensions of reality is a near-universal motif in shamanic traditions.
 Its appearance in Genesis as the tempter who offers knowledge represents the
 inversion of a much older tradition in which the serpent was a helper and guide
 to the realms of plant wisdom.
-
-
-
 
 ## Drought and the Historical Expulsion
 
@@ -141,4 +126,3 @@ and divine punishment. What was once a story about climate and migration became
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-four-stages-abandoning-mystery]]
-

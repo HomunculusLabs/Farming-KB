@@ -110,7 +110,7 @@ The taxonomic boundary between *C. gibba* and *C. infundibuliformis* has been de
 
 - `[[laccaria-amethystina]]` — Co-occurring forest floor agaric with similar fruiting period
 - `[[calocybe-gambosa]]` — Edible agaric of European forests with similar trophic niche
-- `[[boletus-edulis]]` — Mycorrhizal associate sharing oak and beech woodland habitats
+- `[[boletus-edulis-entity]]` — Mycorrhizal associate sharing oak and beech woodland habitats
 - `[[amanita-muscaria]]` — Common forest floor mushroom of the same woodland type
 - `[[psilocybe-cubensis]]` — For comparison of agaric fruiting body morphology
 - `[[trametes-versicolor]]` — Fellow saprotrophic wood and litter decomposer

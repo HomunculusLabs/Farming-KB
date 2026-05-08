@@ -25,7 +25,7 @@ sources:
 
 # Haskap and Honeyberry Cultivation and Variety Guide
 
-Haskap (also known as honeyberry, blue honeysuckle, or *Lonicera caerulea*) is a remarkably cold-hardy deciduous shrub producing elongated blue berries with an exceptional nutritional profile. Native to the circumpolar boreal regions of North America, Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early harvest window, and growing reputation as a "superfood" have made it an increasingly popular choice for home gardeners, permaculture designers, and commercial fruit growers alike.
+Haskap (also known as honeyberry, blue honeysuckle, or *Lonicera caerulea*) is a remarkably cold-hardy deciduous shrub producing elongated blue berries with an exceptional nutritional profile. Native to the circumpolar boreal regions of North America, Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early harvest window, and growing reputation as a "superfood" have made it an increasingly popular choice for home gardeners, [[permaculture-designers-manual-cattle-systems]], and commercial fruit growers alike.
 
 ## Botanical Background and Species Description
 
@@ -76,12 +76,12 @@ Haskap is adaptable but performs best in well-drained, loamy soils:
 - **Texture**: Loam to sandy loam preferred; tolerates clay if well-drained
 - **Organic matter**: High organic matter (4–6%) is beneficial
 - **Drainage**: Critical — standing water causes root rot
-- **Moisture**: Consistent moisture preferred; drought-tolerant once established
+- **Moisture**: Consistent moisture preferred; [[drought-tolerant-planting-design]] once established
 - **Sun**: Full sun for maximum fruit production; tolerates partial shade (reduces yield by ~30%)
 - **Wind protection**: Sheltered sites preferred; strong winds damage flowers and fruit
 - **Frost pockets**: Avoid — though flowers are frost-tolerant, extreme cold exposure reduces pollination
 
-For permaculture food forests, haskap fits well as an understory shrub beneath taller fruit trees, provided it receives at least 6 hours of direct sunlight.
+For permaculture-food-waste-cyclingod-forests-design-course]], haskap fits well as an understory shrub beneath taller fruit trees, provided it receives at least 6 hours of direct sunlight.
 
 ## Propagation Methods
 
@@ -183,7 +183,7 @@ Avoid high-nitrogen fertilizers that promote excessive vegetative growth at the 
 
 - **Establishment (year 1)**: Water deeply 2–3 times per week; never let soil dry completely
 - **Fruiting years**: Supplemental irrigation during flowering and fruit development is critical; 25–40 mm per week
-- **Post-harvest**: Moderate watering; established plants tolerate some drought
+- **[[post-harvest-handling-marketing-mushrooms]]**: Moderate watering; established plants tolerate some drought
 - **Drip irrigation**: Ideal for commercial plantings; delivers water directly to root zone
 - **Avoid**: Overhead watering during fruit ripening (promotes fruit rot)
 
@@ -306,7 +306,7 @@ Haskap integrates well into diverse plantings:
 
 ### Plants to Avoid Nearby
 
-- **Black walnut**: Juglone toxicity may affect haskap
+- **[[black-walnut-juglone-plant-toxicity]]**: Juglone toxicity may affect haskap
 - **Aggressive spreaders** (mint, running bamboo): Competition for water and nutrients
 - **Large shade trees** that would reduce haskap below 6 hours of direct sun
 
@@ -361,14 +361,14 @@ Haskap's unique flavour profile — described as a blend of blueberry, raspberry
 
 ## Haskap in Permaculture Design
 
-Haskap is an excellent permaculture plant with multiple functions:
+Haskap is an excellent [[permaculture-plant-stacking-vertical-guilds]] with multiple functions:
 
 - **Food production**: Early-season fruit when few other edibles are available
 - **Wildlife habitat**: Dense shrub form provides bird shelter; flowers support early pollinators
 - **Erosion control**: Extensive root system stabilizes soil on slopes
 - **Nitrogen cycling**: Leaves are high in nutrients; drop as autumn mulch
 - **Ornamental value**: Attractive flowers, fruit, and fall colour
-- **Layer stacking**: Works as understory beneath taller trees; canopy layer for shade-loving herbs
+- **Layer stacking**: Works as understory beneath taller trees; [[canopy-layer-design-food-forests]] for shade-loving herbs
 - **Windbreak component**: Dense growth provides wind filtering when planted in rows
 - **Edge plant**: Thrives on forest edges and transition zones
 - **Climate resilience**: Extreme cold hardiness makes it a reliable producer in uncertain climates

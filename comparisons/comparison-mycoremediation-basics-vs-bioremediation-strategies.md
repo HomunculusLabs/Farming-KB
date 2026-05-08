@@ -139,7 +139,7 @@ regulatory structure needed to deploy mycoremediation effectively.
 ## See Also
 
 - [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
-- [[mycoremediation-phytoremediation-combined]] — detailed plant vs fungal comparison
+- [[bioremediation-using-fungi]] — detailed plant vs fungal comparison
 - [[biochar-soil-remediation]] — soil amendment supporting both approaches
 - [[bioaugmentation-strategies]] — introducing specific organisms for remediation
 - [[biostimulation-techniques]] — stimulating native microbial communities

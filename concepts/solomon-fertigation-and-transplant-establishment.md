@@ -148,5 +148,3 @@ transplants.
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-cof-ingredient-roles-and-sourcing]]
 - [[solomon-transplanting-and-hardening-off]]
-- [[solomon-seed-starting-transplanting]]
-- [[solomon-potting-mix-and-seedling-soil-recipe]]

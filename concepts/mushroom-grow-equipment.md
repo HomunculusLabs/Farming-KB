@@ -43,7 +43,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 | Pressure cooker (23qt+) | $80–200 | Sterilize grain jars, agar media, substrates | Essential. Must reach 15 PSI. All-American 941 recommended by Oss & Oeric. |
 | Pressure canner | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
-| Microwave (for [[microwave-surface-sterilization]]) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
+| Microwave (for microwave-surface-sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
 **Sterilization times at 15 PSI** ([[pf-tek]] at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)

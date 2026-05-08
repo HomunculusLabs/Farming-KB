@@ -81,7 +81,7 @@ In the realm of academia, the growing field of psychedelic studies has begun to 
 
 McKenna was not the first to articulate the idea that modern humanity has lost something vital from its prehistoric relationship with the natural world. Riane Eisler's "The Chalice and the Blade" (1987) independently developed a strikingly similar thesis, distinguishing between "partnership" and "dominator" models of social organization and tracing the shift from egalitarian, goddess-worshipping Neolithic cultures to patriarchal warrior societies. Julian Jaynes' "The Origin of Consciousness in the Breakdown of the Bicameral Mind" (1976) proposed that human consciousness itself underwent a radical transformation in the second millennium BCE, moving from a hallucinatory, auditory mode of cognition to the introspective, self-aware mode we consider normal today. McKenna drew on both of these frameworks, adding his own emphasis on the role of psychoactive plants as catalysts in these transitions.
 
-The Romantic movement of the 18th and 19th centuries represents an earlier Archaic Revival impulse. Wordsworth, Blake, and the German Naturphilosophen all sought to recover a mode of knowing grounded in direct experience of nature rather than abstract rationalism. The Transcendentalists — Emerson, Thoreau, and Whitman — extended this into an American context, advocating for direct experiential knowledge of the natural world. McKenna positioned his own work as a continuation of this tradition, updated with modern understanding of neurochemistry, ecology, and shamanic practice from [[entheogenic-symbiosis-and-gaian-mind]].
+The Romantic movement of the 18th and 19th centuries represents an earlier Archaic Revival impulse. Wordsworth, Blake, and the German Naturphilosophen all sought to recover a mode of knowing grounded in direct experience of nature rather than abstract rationalism. The Transcendentalists — Emerson, Thoreau, and Whitman — extended this into an American context, advocating for direct experiential knowledge of the natural world. McKenna positioned his own work as a continuation of this tradition, updated with modern understanding of neurochemistry, ecology, and shamanic practice from [[ethnomycology]].
 
 ## The Gaian Hypothesis and Planetary Intelligence
 
@@ -109,9 +109,9 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 
 ## See Also
 
-- [[hyperspace_logos_consciousness]]
+- [[hyperspace-logos-consciousness]]
 
-- [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
-- [[mckenna-tryptamine-transtemporal-consciousness-and-nunc-stans]]
+- mckenna dmt phenomenology and cognitive dissonance of wonder
+- mckenna tryptamine transtemporal consciousness and nunc stans
 - [[mckenna-orientomania-and-european-discovery-of-hashish]]
 - [[mckenna-cacao-chocolate-mesoamerican-religion]]

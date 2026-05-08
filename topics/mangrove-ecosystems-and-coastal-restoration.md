@@ -26,7 +26,7 @@ sources:
 
 ## Introduction
 
-Mangroves are a diverse group of salt-tolerant trees and shrubs that occupy the intertidal zone of tropical and subtropical coastlines. Found in over 120 countries and territories, they form some of the most productive and ecologically significant ecosystems on Earth. Spanning approximately 150,000 km² globally (down from an estimated 200,000 km² historically), mangrove forests provide critical ecosystem services including coastal protection, carbon sequestration, fisheries nursery habitat, water filtration, and livelihood support for an estimated 120 million people worldwide.
+Mangroves are a diverse group of [[salt-tolerant-fodder-species]] trees and shrubs that occupy the intertidal zone of tropical and subtropical coastlines. Found in over 120 countries and territories, they form some of the most productive and ecologically significant ecosystems on Earth. Spanning approximately 150,000 km² globally (down from an estimated 200,000 km² historically), mangrove forests provide critical ecosystem services including coastal protection, carbon sequestration, fisheries nursery habitat, water filtration, and livelihood support for an estimated 120 million people worldwide.
 
 The intersection of climate change, coastal development, and aquaculture expansion has made mangrove loss one of the most pressing conservation challenges of the 21st century. This page examines mangrove biology, ecology, threats, restoration science, and their integration with permaculture and agroforestry systems.
 
@@ -79,7 +79,7 @@ Zonation is not rigid—overlap and gradation are common, and the pattern varies
 
 ### Primary Productivity
 
-Mangrove forests are among the most productive ecosystems on Earth, with net primary productivity (NPP) ranging from 4 to 28 tonnes of dry matter per hectare per year. Leaf litter production alone contributes 5–12 t/ha/yr, forming the base of complex detrital food webs. Only 5–10% of leaf litter is consumed directly by herbivores; the remainder enters the detritus pathway, decomposed by bacteria, fungi, and microfauna.
+Mangrove forests are among the most productive ecosystems on Earth, with net primary productivity (NPP) ranging from 4 to 28 tonnes of dry matter per hectare per year. [[leaf-litter-microfungal-diversity-tropical-temperate]] production alone contributes 5–12 t/ha/yr, forming the base of complex detrital food webs. Only 5–10% of leaf litter is consumed directly by herbivores; the remainder enters the detritus pathway, decomposed by bacteria, fungi, and microfauna.
 
 ### Food Webs and Fisheries
 
@@ -139,7 +139,7 @@ Historical mangrove loss has been severe:
 
 ### Primary Drivers of Loss
 
-**Aquaculture and Shrimp Farming.** Conversion to shrimp ponds has been the single largest driver of mangrove loss, particularly in Thailand, Vietnam, Indonesia, Ecuador, and Bangladesh. Between 1980 and 2000, an estimated 1.0–1.5 million hectares of mangroves were converted to aquaculture ponds globally. Most shrimp pond operations are short-lived (3–8 years) before disease, soil acidification, and pond abandonment render them unproductive.
+**Aquaculture and Shrimp Farming.** Conversion to shrimp ponds has been the single largest driver of mangrove loss, particularly in Thailand, Vietnam, Indonesia, Ecuador, and Bangladesh. Between 1980 and 2000, an estimated 1.0–1.5 million hectares of mangroves were converted to [[aquaculture-ponds-and-integrated-fish-systems]] globally. Most shrimp pond operations are short-lived (3–8 years) before disease, soil acidification, and pond abandonment render them unproductive.
 
 **Coastal Development.** Urban expansion, port construction, tourism infrastructure, and industrial development continue to claim mangrove areas, especially in rapidly developing coastal zones of Southeast Asia, the Middle East, and West Africa.
 
@@ -191,7 +191,7 @@ Lewis (2009) identifies six key steps for successful mangrove restoration:
 - **Spacing** — 1.0–1.5 m between plants (approximately 4,400–10,000 plants/ha) is standard
 - **Species selection** — Match species to tidal elevation: *Rhizophora* and *Avicennia* for low intertidal; *Bruguiera* and *Ceriops* for mid-elevation; *Xylocarpus* for high intertidal
 - **Mixed-species planting** — Preferable to monocultures for biodiversity, resilience, and natural forest structure
-- **Site preparation** — Clear debris, remove invasive species, ensure tidal access, and mark elevation contours before planting
+- **Site preparation** — Clear debris, remove [[invasive-species-management]], ensure tidal access, and mark elevation contours before planting
 
 ### Monitoring and Success Metrics
 
@@ -260,7 +260,7 @@ Mangroves provide a wide range of harvestable products compatible with permacult
 
 ### Mangrove Buffer Zones in Permaculture Design
 
-In permaculture site design, mangroves serve multiple functions in Zone 4–5:
+In [[permaculture-site-analysis]] design, mangroves serve multiple functions in Zone 4–5:
 - **Coastal defense** — Storm surge and erosion protection for inland production zones
 - **Water filtration** — Biological treatment of wastewater before discharge to coastal waters
 - **Nursery function** — Supporting fisheries that can be harvested in adjacent aquaculture or marine zones
@@ -271,7 +271,7 @@ In permaculture site design, mangroves serve multiple functions in Zone 4–5:
 
 - Maintain a minimum buffer of 100–200 m of intact mangrove between development and the coastline
 - Design landward transitions from mangrove to salt-tolerant perennials (e.g., *Casuarina*, *Pandanus*) to upland species
-- Integrate mangrove channels into site water management plans
+- Integrate mangrove channels into site [[water-management]] plans
 - Preserve natural tidal hydrology — avoid blocking or restricting tidal flow
 - Consider future sea level rise in site planning and species selection
 
@@ -305,4 +305,4 @@ Mangrove ecosystems occupy a critical intersection between biodiversity conserva
 
 Successful restoration requires a fundamental shift from planting-centric approaches to hydrology-first, ecologically informed methodologies. Community engagement, sustainable livelihood integration, and landscape-scale planning are essential for long-term success. The emerging blue carbon economy provides new financial incentives for mangrove conservation and restoration, but must be carefully designed to ensure equitable benefit-sharing and avoid greenwashing.
 
-For permaculture practitioners, mangroves offer a powerful model of multi-functional ecosystem design—demonstrating how productive systems can simultaneously provide food, materials, coastal defense, water treatment, carbon sequestration, and wildlife habitat within a single integrated system.
+For permaculture practitioners, mangroves offer a powerful model of multi-functional ecosystem design—demonstrating how productive systems can simultaneously provide food, materials, coastal defense, water treatment, carbon sequestration, and [[wildlife-habitat-creation]] within a single integrated system.

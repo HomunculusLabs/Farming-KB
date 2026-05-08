@@ -148,4 +148,3 @@ fulfill its promise.
 - [[mycoremediation-basic-techniques]]
 - [[mycoremediation-techniques]]
 - [[mycoremediation-bioreactor-design]]
-- [[mycoremediation-scale-up-challenges]]

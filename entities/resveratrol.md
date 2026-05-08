@@ -6,7 +6,7 @@ tags:
   - polyphenol
   - stilbene
   - antioxidant
-  - anti-inflammatory
+  - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
   - phytoalexin
   - herbal
   - longevity
@@ -24,13 +24,12 @@ sources:
   - Singh, C.K. et al. (2015). "Resveratrol: mechanism of action and its
     therapeutic potential." Frontiers in Pharmacology 6: 342.
 ---
-
 # Resveratrol
 
 ## Overview
 
 Resveratrol (3,5,4'-trihydroxy-trans-stilbene) is a natural stilbenoid
-polyphenol produced by several plants in response to stress, injury, or
+polyphenol produced by several plants in response [[query-how-do-plants-communicate-and-respond-to-stress]], injury, or
 fungal infection. It functions as a **phytoalexin** — an antimicrobial
 compound synthesized de novo in response to pathogen attack. First isolated
 in 1940 from white hellebore (Veratrum grandiflorum), resveratrol gained
@@ -49,8 +48,7 @@ as glucoside conjugates, primarily **piceid** (resveratrol-3-O-β-D-glucoside).
 - **IUPAC name:** 5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol
 - **Structure type:** Stilbene (1,2-diphenylethylene) with three hydroxyl
   substituents
-- **Appearance:** White to off-white crystalline powder
-- **Solubility:** Poorly soluble in water (~0.03 g/L); soluble in ethanol,
+- **Appearance:** White to off-white crysingoldian-hyphomycetes-[[spore-dispersal]]-in-waterpowde [[ingoldian-hyphomycetes-spore-dispersal-in-water]] lubility:** Poorly soluble in water (~0.03 g/L); soluble in ethanol,
   DMSO, and acetone
 - **Melting point:** 261–263°C (trans-isomer)
 - **UV absorption:** Maximum at 306 nm (trans), 286 nm (cis)
@@ -62,11 +60,7 @@ to the cis-form upon exposure to UV light or high pH.
 
 Resveratrol is found in relatively high concentrations in:
 
-- **Japanese knotweed** (Fallopia japonica) — 0.5–1.5% dry weight in roots;
-  primary commercial source for supplements
-- **Grape skins** (Vitis vinifera) — 0.5–3 mg/L in red wines, <0.1 mg/L in
-  white wines; concentrated in skin, not flesh
-- **Peanuts** (Arachis hypogaea) — 0.02–0.3 μg/g
+- **Japanese knotweed** (Fallopia japonica) — 0.vitis-viniferaght) — 0.5–3arachis-hypogaeaes,) — 0.02–0.3 μg/g
 - **Blueberries** — 0.02–0.2 μg/g fresh weight
 - **Cocoa** — 0.1–0.5 μg/g
 - **Mulberries** (Morus spp.) — variable
@@ -86,14 +80,13 @@ often modest pharmacological profile:
   insulin sensitivity and mitochondrial biogenesis
 - **NF-κB inhibition:** Suppresses pro-inflammatory cytokine expression
   (TNF-α, IL-6, IL-1β)
-- **Estrogen receptor modulation:** Weak ERβ agonist / ERα antagonist
-  (phytoestrogen activity)
+- **Estrogen receptor modulation:** Weak ERβ agonist / ERα antagonimedicinal-mushroom-antioxidant-anti-inflammatoryen activity)
 - **COX inhibition:** Weak COX-1/COX-2 inhibition, contributing to
   anti-inflammatory effects
 - **Nrf2 activation:** Upregulates endogenous antioxidant enzymes (SOD,
   catalase, GPx)
 
-Oral bioavailability is very low (~1%) due to rapid glucuronidation and
+[[first-pass-metabolism-and-oral-bioavailability]] is very low (~1%) due to rapid [[glucuronidation]] and
 sulfation. Peak plasma concentrations after a 500 mg dose are typically
 1–5 μM, whereas in vitro studies use 10–100 μM.
 
@@ -131,14 +124,14 @@ Extends lifespan in yeast, nematodes, fruit flies, and obese mouse models
 (via SIRT1), but not in normal-fed mice. Relevance to human aging is
 speculative.
 
-## Dosing and Safety
+## Dosing [[palmer-about-mushrooms-foraging-basics-and-safety]]
 
 - **Typical supplement doses:** 150–500 mg/day (trans-resveratrol)
 - **Clinical trial doses:** 100–2000 mg/day (most commonly 250–500 mg/day)
 - **Half-life:** 1–3 hours (parent compound)
 - **Safety:** Well tolerated at doses up to 2000 mg/day. Adverse effects
   are limited to gastrointestinal discomfort at high doses; potential
-  drug interactions via CYP450 enzyme inhibition above 2.5 g/day
+  drug interactions via CYP450 [[enzyme-inhibition]] above 2.5 g/day
 
 ## Related Compounds
 
@@ -148,9 +141,3 @@ speculative.
   with distinct biological activities
 - **Oxyresveratrol:** 2,3',4,5'-tetrahydroxy stilbene from mulberry;
   potent tyrosinase inhibitor
-
-## See Also
-
-- [[enzyme-inhibition]]
-- [[glucuronidation]]
-- [[saccharomyces-cerevisiae]]

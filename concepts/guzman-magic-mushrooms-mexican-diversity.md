@@ -70,7 +70,7 @@ Mexico's neurotropic Psilocybe fauna spans multiple taxonomic sections and ecolo
 - [[conocybe-siligineoides]]: A species known primarily from the Mazatec region of Oaxaca, one of the few non-Psilocybe genera used in traditional ceremonies
 
 ### Gymnopilus
-- [[gymnopilus-spectabilis]]: The "big laughing gym," a widely distributed neurotropic species
+- [[gymnopilus-spectabilis-entity]]: The "big laughing gym," a widely distributed neurotropic species
 - Gymnopilus subpurpuratus: A Mexican species with documented psychoactive properties
 - Gymnopilus lateritius: Present in Mexican forests
 - [[gymnopilus-sapineus]]: Found on woody substrates
@@ -117,7 +117,7 @@ The distribution of neurotropic species across Mexico's diverse vegetation zones
 These humid, fog-drenched forests at 1,000 to 2,500 m elevation harbor the greatest concentration of neurotropic species. Key species include [[psilocybe-zapotecorum]], [[psilocybe-caerulescens]], [[psilocybe-muliercula]], [[psilocybe-wassoniorum]], Psilocybe sanctorum, and numerous others. The combination of high humidity, moderate temperatures, and abundant woody debris creates ideal conditions.
 
 ### Coniferous Forests
-Species found in pine and pine-oak forests include [[psilocybe-aztecorum]], Psilocybe barrerae, Psilocybe fagicola, [[amanita-muscaria]], and [[gymnopilus-spectabilis]]. These forests, while less diverse in neurotropic species than cloud forests, have been more intensively studied.
+Species found in pine and pine-oak forests include [[psilocybe-aztecorum]], Psilocybe barrerae, Psilocybe fagicola, [[amanita-muscaria]], and [[gymnopilus-spectabilis-entity]]. These forests, while less diverse in neurotropic species than cloud forests, have been more intensively studied.
 
 ### Tropical Deciduous Forests
 The tropical lowlands and deciduous forests harbor species such as [[psilocybe-cubensis]], [[copelandia-cyanescens]], [[copelandia-tropicalis]], and [[panaeolus-sphinctrinus]]. These tend to be the more widely distributed, pantropical species.

@@ -148,6 +148,3 @@ psychoactive fungi in Mediterranean Europe.
 - [[psilocybe-subaeruginosa]]
 - [[psilocybe-serbica]]
 - [[psilocybe-azurescens]]
-- [[psilocybin]]
-- [[psilocin]]
-- [[baeocystin]]

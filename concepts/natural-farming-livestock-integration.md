@@ -11,9 +11,6 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 Integrating livestock into a farming system creates closed nutrient loops, reduces feed costs through foraging, and provides pest control, fertilization, and soil cultivation services that would otherwise require labor and machinery.
 
-
-
-
 ## Chickens in the Garden
 
 ### Benefits
@@ -34,9 +31,6 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Move tractor every 1-3 days depending on ground cover
 - Don't leave on one spot longer than a week (nitrogen burn)
 
-
-
-
 ## Ducks
 
 ### Benefits
@@ -52,9 +46,6 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Ducks near ponds: manage algae, mosquito larvae
 - 3-5 ducks sufficient for a typical garden pest control rotation
 
-
-
-
 ## Goats
 
 ### Benefits
@@ -69,20 +60,14 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - 2-4 goats per acre on brushy land
 - Keep away from fruit trees and gardens (they eat everything)
 
-
-
-
 ## Rotation Principles
 - Never graze the same area continuously — rotate to prevent parasite buildup
 - Follow livestock with a rest period (30-90 days) for pasture recovery
 - Match livestock to the landscape: goats on brush, chickens on flat ground, ducks near water
 - Use multiple species in rotation (chickens follow cattle to break fly parasite cycles)
 
-
-
-
 ## Related
-- [[paddock-system-pigs]] — for pig integration in permaculture
+- [[backyard-poultry-and-integrated-animal-systems]] — for pig integration in permaculture
 - [[holzer-livestock-integration]] — for Sepp Holzer's approach
 - [[duck-rice-paddy]] — for duck-rice integration
 - [[animal-manure-guide]] — for manure nutrient content and use

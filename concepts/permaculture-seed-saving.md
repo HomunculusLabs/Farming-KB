@@ -132,7 +132,7 @@ Community seed banks are shared repositories of locally adapted seeds:
 
 ## Connections
 
-Seed saving deepens the [[permaculture-design-principles-beginners]] ethic of producing no waste and caring for future generations. The genetics and adaptation principles relate to [[cannabis-phenotype-and-genotype-guide]] concepts of selecting for desired traits. Practical seed saving techniques overlap with [[home-garden-seed-saving]] methods for the home garden.
+Seed saving deepens the [[permaculture-design-principles]] ethic of producing no waste and caring for future generations. The genetics and adaptation principles relate to [[cannabis-phenotype-and-genotype-guide]] concepts of selecting for desired traits. Practical seed saving techniques overlap with [[home-garden-seed-saving]] methods for the home garden.
 
 ## Related
 

@@ -138,4 +138,4 @@ program.
 - [[schisandra-chinensis]]
 - [[eleutherococcus-senticosus]]
 - [[withania-somnifera]]
-- [[ocimum-tenuiflorum]]
+- [[ocimum-tenuiflorum-entity]]

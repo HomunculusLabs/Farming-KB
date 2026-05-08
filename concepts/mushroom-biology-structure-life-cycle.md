@@ -42,7 +42,7 @@ Within the mushroom cells, the two nuclei fuse, meiosis occurs, and spores are f
 ## Nutritional Strategies
 
 ### Saprophytic
-The majority of fungi are saprophytic — nature's recyclers, feeding on dead plant and animal cells. Most cultivated mushrooms ([[agaricus-bisporus-cultivation-biology]], [[psilocybe-cubensis-profile]], [[cotter-mycoremediation-overview]]) are saprophytes.
+The majority of fungi are saprophytic — nature's recyclers, feeding on dead plant and animal cells. Most cultivated mushrooms ([[agaricus-bisporus-cultivation-biology]], [[psychedelic-mushrooms-species-and-identification]], [[cotter-mycoremediation-overview]]) are saprophytes.
 
 ### Symbiotic (Mycorrhizal)
 Some fungi bond with plant roots to form complex underground networks called mycorrhizae — a "wood-wide web" without which both plant and fungus would struggle. [[amanita-muscaria-guide]] is mycorrhizal. Many commercially important wild mushrooms (chanterelles, porcini, matsutake) are mycorrhizal and extremely difficult to cultivate.

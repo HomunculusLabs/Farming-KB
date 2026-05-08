@@ -119,6 +119,6 @@ Cannabis remains illegal in Jamaica for recreational use, though decriminalizati
 
 - [[lamb-bread]]
 
-- [[blue-dream-cannabis]]
+- [[blue-dream-strain]]
 - [[girl-scout-cookies]]
-- [[acdc-cannabis]]
+- [[acdc-cannabis-strain]]

@@ -118,5 +118,5 @@ Several pharmaceutical companies have investigated 5-HT2A partial agonists in th
 - [[4-ho-mipt]]
 - [[5-meo-mipt]]
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[lsd]]

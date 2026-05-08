@@ -148,4 +148,3 @@ networks as they recover.
 - [[mycorrhizal-silviculture-lowenfels]]
 - [[mycorrhizal-networks]]
 - [[mycoforestry]]
-- [[mycoremediation]]

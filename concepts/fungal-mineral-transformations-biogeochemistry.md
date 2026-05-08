@@ -65,7 +65,7 @@ The formation of secondary minerals — organic and inorganic precipitates on an
 
 Through mineral dissolution, fungi release phosphorus from otherwise insoluble phosphate compounds, making it bioavailable for plants and microorganisms. The [[fungal-ecology-decomposition-cycles]] is especially significant in forest soils where mycorrhizal fungi dominate microbial biomass.
 
-The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[mycorrhiza-carbon-cycle-sequestration]], these processes contribute directly to soil carbon sequestration by forming recalcitrant organic-mineral complexes.
+The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[the-soil-food-web]], these processes contribute directly to soil carbon sequestration by forming recalcitrant organic-mineral complexes.
 
 ## Calcium Oxalate and Carbonate Biomineralization
 

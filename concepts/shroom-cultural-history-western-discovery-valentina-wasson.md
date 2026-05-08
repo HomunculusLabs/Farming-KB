@@ -84,7 +84,7 @@ Letcher subjects Wasson's theories to sustained criticism:
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — Sabina's life and the Mazatec practices Wasson documented
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]] — The cultural revolution Wasson's article helped trigger
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — Wasson's theories about prehistoric mushroom cults
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[roger-heim-scientific-study-psilocybin]]
 - [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]

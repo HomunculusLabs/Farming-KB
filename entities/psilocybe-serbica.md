@@ -136,7 +136,7 @@ by breaking down recalcitrant wood components.
 ## See Also
 
 - [[psilocybe-cubensis]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[baeocystin]]
 - [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[panaeolus-cyanescens]]

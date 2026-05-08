@@ -98,7 +98,7 @@ Key areas requiring further investigation include:
 - [[2c-d-pihkal-entry-23]]
 - [[functional-foods-medicinal-mushrooms]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 
 ## Related
 

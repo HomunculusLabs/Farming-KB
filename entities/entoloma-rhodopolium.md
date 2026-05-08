@@ -128,7 +128,7 @@ and autumn temperatures. Prolonged drought severely reduces fruiting.
 
 ## See Also
 
-[[entoloma-sinuatum]], [[boletus-edulis]], [[amanita-pantherina]],
-[[laccaria-bicolor]], [[coprinus-comatus]], [[psilocybe-semilanceata]],
+[[entoloma-sinuatum]], [[boletus-edulis-entity]], [[amanita-pantherina]],
+[[laccaria-bicolor]], [[coprinus-comatus-detailed]], [[psilocybe-semilanceata]],
 [[amanita-muscaria]], [[pleurotus-ostreatus]], and [[agaricus-bisporus]]
 for comparison with other temperate agarics.

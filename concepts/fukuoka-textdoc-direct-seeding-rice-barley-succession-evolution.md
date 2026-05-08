@@ -141,20 +141,9 @@ success contributed to the eventual synthesis.
 The rice/barley succession system integrates several other Fukuoka innovations.
 [[fukuoka-white-clover-cover-crop-system]] provides the living mulch that
 suppresses weeds and fixes nitrogen.
-[[fukuoka-textdoc-straw-mulching-rice-barley-cropping]] returns organic matter
+[[fukuoka-natural-farming-philosophy]] returns organic matter
 and protects soil.
 [[fukuoka-textdoc-soil-self-plowing-natural-root-action]] replaces mechanical
 tillage with natural soil processes.
 [[fukuoka-textdoc-no-weeding-principle-weed-utility]] eliminates the need for
 weed control through competitive ground covers.
-
-## Nitrogen Economy
-
-Fukuoka noted that about seventy percent of the nitrogenous components absorbed
-by rice and barley are supplied directly by the soil, while about thirty percent
-are furnished artificially by fertilization. If all straw and chaff from
-threshed grain were returned to the fields, farmers would only need to apply at
-most fifteen percent of the nitrogenous components required by the plants. His
-natural succession system approaches this ideal by returning all organic matter
-and relying on biological nitrogen fixation through the clover ground cover,
-eliminating the need for external nitrogen inputs entirely.

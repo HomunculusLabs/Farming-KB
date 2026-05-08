@@ -53,7 +53,7 @@ thousands of acres with animal feces.
 
 ## Mycoremediation of Urban Brownfields
 
-[[mycoremediation-field-applications]] can transform contaminated urban
+[[bioremediation-using-fungi]] can transform contaminated urban
 sites:
 
 - Diesel-contaminated soil: Stamets's WSDOT experiment reduced total

@@ -112,10 +112,10 @@ Among collectors, Bacio is considered the most aromatic and visually striking of
 - [[girl-scout-cookies]] — parent lineage (Thin Mint phenotype)
 - [[og-kush]] — grandparent lineage
 - [[thin-mint-cookies]] — Thin Mint GSC phenotype
-- [[blue-dream]] — classic West Coast balanced hybrid
-- [[wedding-cake]] — related Cookies-family dessert strain
+- [[cannabis-blue-dream]] — classic West Coast balanced hybrid
+- [[wedding-cake-cannabis]] — related Cookies-family dessert strain
 - [[mac-1]] — modern high-potency hybrid
-- [[zookies]] — Animal Cookies × Gorilla Glue cross
+- [[zookies-cannabis]] — Animal Cookies × Gorilla Glue cross
 - [[myrcene]] — sedative monoterpene in the profile
 - [[limonene]] — dominant citrus terpene
 - [[cannabis-terpene-profiles]] — peppery anti-inflammatory sesquiterpene

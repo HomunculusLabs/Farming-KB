@@ -17,7 +17,7 @@ type: concept
 # Permaculture Site Design: Zones, Slopes, and Cellular Patterns
 
 David Holmgren elaborates the practical application of Permaculture site design,
-building on the [[holmgren-zones-and-sectors-design-framework]] with detailed
+building on the [[permaculture-design]] with detailed
 discussion of cellular design, slope utilisation, and the tools and processes used
 in Permaculture Design Courses and consultancy work.
 
@@ -107,7 +107,7 @@ Permaculture practice:
 - Scoring or rating of key development options or siting choices
 - Flow charts to explore complex development processes and works
 
-These tools support the [[holmgren-observe-and-interact]] principle by providing
+These tools support the [[permaculture-design]] principle by providing
 structured ways to process observations into design decisions. Systems
 identification and mapping has mostly been by the apprenticeship model within
 government agencies and design professions.
@@ -124,7 +124,7 @@ The relationship between sites, the flows of resources, information, and people
 between them, and the pattern they create across the landscape are all aspects
 that site-based design alone cannot address adequately.
 
-See also: [[holmgren-zones-and-sectors-design-framework]],
+See also: [[permaculture-design]],
 [[holmgren-site-design-as-cellular-design]],
 [[holmgren-water-harvesting-storage-landscapes]],
 [[permaculture-water-harvesting]],

@@ -134,20 +134,9 @@ Guerrilla mycology raises important questions:
 
 - **Urban food forests:** Integrating edible and medicinal mushrooms into community gardens
 - **Brownfield restoration:** Remediation of abandoned industrial sites for community use
-- **Waste stream diversion:** Using coffee grounds, spent grain, and other waste substrates for mushroom cultivation
-- **Education:** Teaching fungal biology and ecology through hands-on community workshops
-
-## Limitations and Criticisms
-
-- **Scale:** Guerrilla methods are effective at the community scale but cannot replace industrial remediation for heavily contaminated Superfund sites
-- **Monitoring:** Without systematic monitoring, outcomes are anecdotal and hard to evaluate
-- **Regulatory barriers:** In many jurisdictions, introducing organisms into the environment without permits is illegal, regardless of intent
-- **Oversimplification:** Popular accounts sometimes overstate the capabilities of mycoremediation — fungi cannot solve all contamination problems
-- **Reproducibility:** Field conditions introduce enormous variability; results from controlled lab studies may not translate directly
-
 ## See Also
 
-- [[amanita-caesarea-mycology]]
+- [[amanita-caesarea]]
 - [[contamination-prevention-mycology]]
 - [[victorian-mycology-and-fairy-rings]]
 - [[bloomfield-buller-experimental-mycology]]

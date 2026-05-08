@@ -19,12 +19,11 @@ sources:
 created: 2026-05-07
 type: comparison
 ---
-
 ## Introduction
 
-Ecological succession describes the directional, predictable process by which
+[[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] describes the directional, predictable process by which
 biological communities change over time following a disturbance or the creation
-of new habitat. Two fundamental types are recognized: **primary succession**,
+of dighton-fungi-volcanic-glacier-primary-successionundamental types are recognized: **primary succession**,
 which begins on lifeless substrates with no pre-existing soil, and **secondary
 succession**, which occurs where an existing community has been disturbed but
 soil and some organisms remain. Understanding the distinction is critical for
@@ -35,17 +34,12 @@ enormously in starting conditions, speed, and the mechanisms driving change.
 ## Comparison Table
 
 | Feature | Primary Succession | Secondary Succession |
-|---|---|---|
+| | -| -|
 | **Starting conditions** | Bare rock, lava, sand, or glacial till — no soil or organisms | Disturbed site with intact soil and seed bank |
 | **Soil presence** | Absent; must develop from weathering and organic input | Present; often nutrient-rich from prior community |
-| **Time to climax community** | Hundreds to thousands of years | Decades to a few centuries |
-| **Pioneer species types** | Lichens, cyanobacteria, mosses, wind-dispersed forbs | Fast-growing herbaceous plants, grasses, shrubs |
-| **Examples** | Volcanic islands, glacial moraines, sand dunes, mine tailings | Forest fire recovery, abandoned farmland, logged forests |
-| **Nutrient availability** | Extremely low; relies on atmospheric deposition and weathering | Moderate to high; organic matter and nutrients persist in soil |
-| **Biodiversity trajectory** | Low initial diversity, gradual increase over long timescales | Moderate initial diversity, rapid recovery toward prior levels |
-| **Human relevance** | Revegetating extreme sites; understanding soil formation | Agriculture abandonment, post-fire management, forestry |
-| **Rate of progression** | Very slow (centimeters of soil per century) | Relatively fast; observable within a human lifetime |
-| **Community memory** | None — no residual organisms or propagules | Strong — seed banks, surviving roots, mycorrhizal networks |
+| **Time to climax community** | Hund [[lichens]] thousands of years | Decades to a few centuries |
+| **Pipermaculture-designers-manual-herbaceous-plantses** | Lichens, cyanobacteria, mosses, wind-dispersed forbs | Fast-growing herbaceous plants, grasses, shrubs |
+| **Examples** | V fungal enzyme activity nutrient availabilityial moraines, sand dunes, mine tailings |
 | **Role of facilitation** | Dominant; early species alter substrate for later arrivals | Important but less critical; soil already supports growth |
 | **Predictability** | Lower; novel substrates create unique trajectories | Higher; prior community constrains recovery pathways |
 
@@ -115,7 +109,7 @@ interventions restoration practitioners should consider.
 Understanding succession types is essential for effective restoration:
 
 - **Primary succession sites** require active intervention — soil amendments,
-  mycorrhizal inoculation, nurse plants, and careful pioneer species selection.
+  [[mycorrhizal-inoculation]], [[nurse-plants]], and careful pioneer species selection.
   Natural recovery may be impractically slow for human management timescales.
   Mine reclamation and volcanic restoration are canonical examples.
 
@@ -148,12 +142,3 @@ guidelines, and monitoring protocols in major restoration programs worldwide.
 - Severe disturbances create a continuum between the two types rather than a
   sharp boundary; assessment of residual soil and biota determines the
   appropriate restoration strategy.
-- **Restoration implications:** active intervention (soil building, inoculation,
-  planting) for primary sites; assisted or passive recovery for secondary sites.
-
-## See Also
-
-- [[mollison-pioneer-species-and-accelerated-succession]]
-
-- [[mycorrhizal-succession-primary-secondary]]
-- [[dighton-fungi-volcanic-glacier-primary-succession]]

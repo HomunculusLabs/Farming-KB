@@ -113,7 +113,7 @@ brittle, with no remaining flexibility in the flesh.
 - [[mushroom-growing-methods-comparison]]
 
 - [[growing-gourmet-mind-and-methods-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-maitake-cultivation]]
 - [[growing-gourmet-flush-management-cropping-cycles]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

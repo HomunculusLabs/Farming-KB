@@ -11,8 +11,7 @@ sources:
   - https://mgonline.com/articles/grapetypes.aspx
 created: 2026-04-28
 ---
-
-# How Do I Start a Small Home Vineyard for Table Grapes?
+# How Do [[query-what-is-syntropic-agriculture-and-how-do-i-start]] a Small Home Vineyard for Table Grapes?
 
 Growing table grapes at home is one of the most rewarding perennial fruit projects you can
 take on. A small vineyard of just 4–8 vines can supply your family with fresh grapes for
@@ -26,7 +25,7 @@ This means a 4-vine vineyard fits in a space as small as **8 × 24 feet**. If sp
 consider a single-row planting along a fence line — grapes are remarkably adaptable to
 narrow spaces. Each mature vine needs roughly **50–100 square feet** of canopy area.
 
-## What are the best table grape varieties for home growers in different climates?
+## What aquery-how-to-grow-passionfruit-in-different-climatespe varieties for home growers in different climates?
 
 Choosing the right variety for your USDA hardiness zone is the single most important
 decision you'll make. Here are proven picks by zone:
@@ -35,8 +34,8 @@ decision you'll make. Here are proven picks by zone:
 - **Zones 5–6:** Concord, Reliance, Himrod (seedless), Marquette, Canadice.
 - **Zones 7–8:** Thompson Seedless, Flame Seedless, Muscat of Alexandria, Niagara.
 - **Zones 9–10:** Perlette, Fantasy Seedless, Crimson Seedless, Southern Home Muscadine.
-- **Hot & humid Southeast (zones 7–9):** Carlos, Noble, and other muscadine varieties
-  resist Pierce's disease and thrive where Vitis vinifera struggles.
+- **Hot & humid Southeast (zones 7–9):** Cavitis-viniferand other muscadine varieties
+  resist Pierce's disease and thrive where [[vitis-vinifera]] struggles.
 
 Seedless varieties are popular for fresh eating, but many seeded types like Concord and
 Niagara offer superior flavor and disease resistance for home growers.
@@ -113,7 +112,7 @@ spot in winter if your variety isn't fully hardy.
 
 ## What cover crops work well between vine rows?
 
-Cover crops suppress weeds, improve soil structure, and attract beneficial insects:
+[[cover-crop]] s suppress weeds, improve soil structure, and attract beneficial insects:
 - **White clover** — fixes nitrogen, tolerates foot traffic, low-growing.
 - **Crimson clover** — excellent nitrogen fixer, beautiful red flowers.
 - **Annual ryegrass** — fast-establishing, prevents erosion.
@@ -148,12 +147,3 @@ Harvest in the morning after dew has dried for the best flavor.
 
 Growing grapes at home is a marathon, not a sprint. Start small, stay consistent with
 pruning, and within a few seasons you'll be harvesting armloads of sweet, sun-warmed
-grapes right from your backyard.
-
-## See Also
-- [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
-
-- [[query-how-do-i-prevent-and-manage-plant-diseases-organically]]
-- [[query-how-to-choose-cover-crops-for-your-climate-and-goals]]
-
-- [[vitis-vinifera]]

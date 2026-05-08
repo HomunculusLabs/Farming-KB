@@ -148,4 +148,3 @@ Amaranth, barley, corn, millet, oats, quinoa, sunflower, wheat
 - Lee, A. Chicken Tractor
 - Mollison, B. Permaculture: A Designer's Manual
 - [[gaias-garden-cover-crops-soil-building]]
-- [[urban-permaculture-trees-water-cycling]]

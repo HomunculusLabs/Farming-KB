@@ -148,4 +148,3 @@ discovered at one scale apply at any other. This fractal quality means
 garden patterns inform regional planning and vice versa. See
 [[permaculture-principles]] for how pattern understanding connects to the
 broader design framework. Ultimately, pattern understanding is a design
-language -- a vocabulary of spatial and temporal relationships that the

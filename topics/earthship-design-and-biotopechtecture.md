@@ -55,9 +55,9 @@ The interior temperature of a well-designed earthship typically stays between 18
 
 ### Electricity from Sun and Wind
 
-Earthships are designed to be off-grid, generating their own electricity through a combination of photovoltaic panels and wind turbines. The electrical system is typically a 12-volt or 24-volt DC system, similar to what you would find in an RV or boat, though inverters can convert this to standard 120V or 240V AC for conventional appliances.
+Earthships are designed to be [[off-grid-electricity-basics]], generating their own electricity through a combination of photovoltaic panels and wind turbines. The electrical system is typically a 12-volt or 24-volt DC system, similar to what you would find in an RV or boat, though inverters can convert this to standard 120V or 240V AC for conventional appliances.
 
-The key to the electrical system is conservation rather than generation. Earthships use energy-efficient appliances, LED lighting, and DC-powered refrigeration to minimize power consumption. A typical earthship requires between 600 and 1,200 watts of solar capacity, supplemented by a small wind turbine. Battery banks store energy for cloudy or windless days, and a backup generator may be included for extended periods of poor weather.
+The key to the electrical system is conservation rather than generation. Earthships use [[energy-efficient-house-design]] appliances, LED lighting, and DC-powered refrigeration to minimize power consumption. A typical earthship requires between 600 and 1,200 watts of solar capacity, supplemented by a small wind turbine. Battery banks store energy for cloudy or windless days, and a backup generator may be included for extended periods of poor weather.
 
 Because earthships are designed from the ground up to minimize electrical demand — using passive solar heating instead of electric furnaces, natural ventilation instead of air conditioning, and gravity-fed water systems where possible — their energy needs are a fraction of those in a conventional home of the same size.
 
@@ -67,13 +67,13 @@ The roof of an earthship serves as the primary catchment surface for rainwater. 
 
 The harvested rainwater passes through a series of filters before it becomes potable. A sediment filter removes particulate matter, a carbon filter eliminates odors and chemicals, and a UV sterilization unit kills bacteria and pathogens. This system can produce water that meets or exceeds municipal drinking water standards.
 
-In arid regions where rainfall is insufficient, earthships can incorporate supplementary water sources such as wells, municipal connections, or condensation systems. However, the goal is always to maximize the use of harvested rainwater first. Water efficiency measures — low-flow fixtures, composting toilets, and greywater recycling — dramatically reduce the total water demand of an earthship household.
+In arid regions where rainfall is insufficient, earthships can incorporate supplementary water sources such as wells, municipal connections, or condensation systems. However, the goal is always to maximize the use of harvested rainwater first. [[water-use-efficiency-plants]] measures — low-flow fixtures, composting toilets, and greywater recycling — dramatically reduce the total water demand of an earthship household.
 
 ### Greywater and Blackwater Treatment
 
 Earthships treat all wastewater on-site through biological systems that mimic natural processes. Greywater from sinks, showers, and washing machines is filtered through indoor botanical cells — planter boxes filled with gravel and soil where plants thrive on the nutrient-rich water. As greywater percolates through the root zones of these plants, it is naturally cleaned by the soil biology, microorganisms, and plant uptake. By the time the water exits the indoor planter, it is clean enough to be used for toilet flushing or directed to outdoor irrigation.
 
-Blackwater from toilets follows a separate path. It flows into an outdoor septic tank for initial anaerobic decomposition, then into a lined, outdoor botanical cell where larger plants and trees process the remaining nutrients. This system, essentially a constructed wetland on a residential scale, can treat blackwater effectively without any mechanical aeration or chemical additives. The final effluent can be used to irrigate non-food landscaping.
+Blackwater from toilets follows a separate path. It flows into an outdoor septic tank for initial anaerobic decomposition, then into a lined, outdoor botanical cell where larger plants and trees process the remaining nutrients. This system, essentially a [[constructed-wetland-design]] on a residential scale, can treat blackwater effectively without any mechanical aeration or chemical additives. The final effluent can be used to irrigate non-food landscaping.
 
 This approach to wastewater is fundamentally different from conventional septic systems. Instead of treating waste as a problem to be hidden and pumped away, earthships treat it as a resource — water and nutrients are captured and reused within the system rather than being lost.
 
@@ -81,7 +81,7 @@ This approach to wastewater is fundamentally different from conventional septic 
 
 The indoor planters that treat greywater also serve as indoor gardens. Earthships typically include substantial greenhouse space along the south-facing glass wall, where vegetables, herbs, and even small fruit trees can be grown year-round. The greywater irrigation means that these plants receive a steady supply of water and nutrients without any additional input from the homeowner.
 
-In addition to the indoor growing space, many earthships incorporate outdoor gardens, cold frames, and small-scale food forests. The built-in greenhouse also serves as a thermal buffer zone between the living space and the outside, further improving energy efficiency.
+In addition to the indoor growing space, many earthships incorporate outdoor gardens, cold frames, and small-scale food forests. The built-in greenhouse also serves as a thermal buffer zone between the living space and the outside, further improving [[energy-efficiency-farming-systems-comparison]].
 
 The food production capacity of an earthship varies with climate, design, and the skill of the occupant, but it can meaningfully supplement a household's food needs. Some earthship residents report growing a significant portion of their annual vegetable consumption indoors, particularly in cold climates where outdoor growing seasons are short.
 
@@ -89,7 +89,7 @@ The food production capacity of an earthship varies with climate, design, and th
 
 Beyond the tire walls, earthships make extensive use of recycled and natural materials. Interior walls are often built from recycled cans and bottles set into cement or adobe mortar. These walls create striking visual effects when light passes through the colored glass, and they significantly reduce the amount of new material needed for construction. Bottle walls also serve a practical function — the glass acts as a thermal bridge, allowing some heat transfer between rooms or between the interior and the thermal-mass tire walls.
 
-Flooring in earthships is typically poured adobe or flagstone over the earth, providing additional thermal mass underfoot. The roof structure uses conventional lumber or recycled timber, insulated with straw bales, wool, or recycled denim. Exterior finishes use natural plasters — earth plaster, lime wash, or a combination — rather than synthetic paints or siding.
+Flooring in earthships is typically poured adobe or flagstone over the earth, providing additional thermal mass underfoot. The roof structure uses conventional lumber or recycled timber, insulated with straw bales, wool, or recycled denim. Exterior finishes use [[natural-plasters-and-earthen-wall-finishes]] — [[earth-plaster-and-natural-finishes]], lime wash, or a combination — rather than synthetic paints or siding.
 
 A single earthship can incorporate thousands of discarded tires and hundreds of pounds of recycled cans and bottles. This is not merely an aesthetic choice; it addresses the global problem of tire waste. An estimated 1.5 billion tires are discarded annually worldwide, and tires do not decompose. Using them as building material sequesters them permanently while putting their thermal mass to productive use.
 
@@ -131,6 +131,6 @@ The cost of building an earthship is often debated. Reynolds has claimed that ea
 
 Earthships exist within a broader movement of natural and sustainable building that includes cob, straw bale, rammed earth, hempcrete, and timber frame construction. Each approach has its strengths and ideal applications. Earthships are unique in their integrated systems approach — they address not just the structure itself but energy, water, waste, and food production as interconnected systems.
 
-The biotopechtecture philosophy has influenced sustainable architecture far beyond the specific earthship form. Many of Reynolds' ideas — passive solar heating, rainwater harvesting, greywater recycling, building with waste materials — have been adopted by mainstream green builders and incorporated into sustainable building standards. Earthships remain one of the most ambitious and holistic attempts to create a truly self-sufficient home.
+The biotopechtecture philosophy has influenced sustainable architecture far beyond the specific earthship form. Many of Reynolds' ideas — passive solar heating, [[rainwater-harvesting-systems]], greywater recycling, building with waste materials — have been adopted by mainstream green builders and incorporated into sustainable building standards. Earthships remain one of the most ambitious and holistic attempts to create a truly self-sufficient home.
 
 For homesteaders, permaculture practitioners, and anyone interested in reducing their ecological footprint, earthships offer a proven model for radically sustainable housing. While they are not the right solution for every person or every site, they demonstrate that it is possible to build comfortable, beautiful homes that produce their own energy, harvest their own water, treat their own waste, and grow their own food — all from materials that would otherwise be discarded.

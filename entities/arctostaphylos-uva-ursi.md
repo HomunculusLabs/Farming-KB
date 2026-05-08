@@ -8,7 +8,7 @@ tags:
   - herbal-medicine
   - urinary-tract-health
   - arbutin
-  - permaculture
+  - [[permaculture]]
   - groundcover
   - wild-edible
   - ethnobotany
@@ -21,7 +21,6 @@ sources:
   - Tyler, V.E. (1993). "The Honest Herbal." 3rd ed. Haworth Press.
   - USDA Forest Service. "FEIS: Arctostaphylos uva-ursi." feis.crs.usda.gov.
 ---
-
 # Arctostaphylos uva-ursi
 
 ## Overview
@@ -29,13 +28,12 @@ sources:
 *Arctostaphylos uva-ursi* (L.) Spreng., commonly known as bearberry or
 kinnikinnick, is a low-growing evergreen subshrub in the family
 Ericaceae. Native to circumboreal regions of the Northern Hemisphere,
-it is one of the most widely documented medicinal plants in both
+it is one of the most widely documented [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in both
 Western herbalism and Indigenous North American medicine.
 
 The species is valued for urinary tract antiseptic properties attributed
-to the glycoside arbutin. Its dense, mat-forming growth habit also
-makes it an important groundcover for erosion control and a functional
-element in permaculture and restoration landscapes.
+to the glycoside arbutin. Its dense, mat-forming gcomparison-vetiver-grass-vs-bamboo-for-erosion-controlkes it an important groundco [[mollison-designers-vetiver-grass-for-erosion-control]]-erosion-control]] trol and a functional
+elem [[water-harvesting-and-conservation-in-permaculture]] ture [[chestnut-cultivation-and-restoration]] landscapes.
 
 ## Taxonomy
 
@@ -49,7 +47,7 @@ element in permaculture and restoration landscapes.
 
 **Basionym:** *Arbutus uva-ursi* L. (1753)
 
-**Common names:** bearberry, kinnikinnick, pinemat manzanita, hog
+**[[australian-magic-mushroom-common-names]]:** bearberry, kinnikinnick, pinemat manzanita, hog
 cranberry, sandberry, rockberry. "Bearberry" derives from bears
 heavily consuming the fruit. "Kinnikinnick" is Algonquian for "that
 which is mixed," referring to the traditional smoking mixture.
@@ -65,7 +63,7 @@ short racemes of 5–15. Blooms April–June.
 **Fruit:** Red drupe 6–9 mm, mealy when fresh, sweeter after frost.
 Ripe August–October, persists through winter.
 
-**Roots:** Shallow, fibrous, with ericoid mycorrhizal associations
+**Roots:** Shallow, fibrous, with ericoid [[plants-without-mycorrhizal-associations]]
 for nutrient uptake in poor soils.
 
 ## Distribution and Habitat
@@ -89,7 +87,7 @@ Primary medicinal constituents are concentrated in the leaves:
   coli*, *Proteus*, *Pseudomonas*, *Staphylococcus*
 - **Tannins** (15–20%) — galloyl and ellagitannins with astringent
   and anti-inflammatory effects
-- **Ursolic acid** — triterpene with anti-inflammatory and
+- **[[ursolic-acid]]** — triterpene with anti-inflammatory and
   hepatoprotective activity
 - **Allantoin** — cell-proliferant and wound-healing compound
 - **Flavonoids** — quercetin, kaempferol, myricetin glycosides
@@ -97,7 +95,7 @@ Primary medicinal constituents are concentrated in the leaves:
 ## Pharmacology and Medical Use
 
 **Urinary tract infections:** The primary approved use in European
-herbal medicine (EMA-approved traditional herbal medicinal product).
+[[herbal-medicine]] (EMA-approved traditional herbal medicinal product).
 Arbutin is absorbed in the GI tract, transported to the kidneys, and
 hydrolyzed to hydroquinone in alkaline urine, where it exerts
 bacteriostatic activity against *E. coli* (causative agent in 80–90%
@@ -148,10 +146,3 @@ Virtually pest-free.
 - *A. patula* (greenleaf manzanita) — taller, California
 - *A. columbiana* (hairy manzanita) — Pacific Northwest, taller
 - *Vaccinium vitis-idaea* (lingonberry) — similar fruit, different
-  leaf arrangement
-
-## See Also
-
-- [[dom]]
-- [[ericoid-mycorrhiza]]
-- [[food-forest]]

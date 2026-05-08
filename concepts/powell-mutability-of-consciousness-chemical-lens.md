@@ -148,4 +148,3 @@ consciousness better able to grapple with ultimate questions about reality.
 - [[powell-psilocybin-solution-ecological-cognition-theory]]
 - [[powell-psilocybin-solution-psychedelics-and-problem-solving]]
 - [[powell-psilocybin-brain-plasticity]]
-- [[mckenna-consciousness-expansion-and-drug-war]]

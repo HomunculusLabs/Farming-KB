@@ -106,8 +106,8 @@ Schultes notes that hallucinogenic compounds are so prevalent in some families (
 ## See Also
 
 - [[richard-evans-schultes-updated]]
-- [[hallucinogenic-plants-of-the-world]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[amanita-muscaria-guide]]
 - [[amanita-muscaria-ethnobotany]]
 - [[fly-agaric-ethnobotany]]
@@ -117,7 +117,7 @@ Schultes notes that hallucinogenic compounds are so prevalent in some families (
 - [[virola-snuff]]
 - [[anadenanthera-entheogens]]
 - [[yopo-anadenanthera-peregrina-snuff]]
-- [[peyote-and-psychoactive-cacti]]
+- [[ethnomycology]]
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[psilocybin-mushroom-biology-chemistry]]
 - [[psilocybin-compound-profile]]

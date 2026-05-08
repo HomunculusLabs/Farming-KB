@@ -135,6 +135,6 @@ is often governed by analogue drug legislation:
 - [[5-HT2A-Receptor]]
 - [[psilocin]]
 - [[dipt]]
-- [[4-AcO-DMT]]
+- [[4-aco-dmt]]
 - Psychedelic-Compounds
 - Research-Chemicals

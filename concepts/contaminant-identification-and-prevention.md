@@ -148,4 +148,3 @@ increase the water content of the substrate formula.
 ## See Also
 
 - [[jar-preparation-and-sterilization]]
-- [[inoculation-technique-and-alcohol-flaming]]

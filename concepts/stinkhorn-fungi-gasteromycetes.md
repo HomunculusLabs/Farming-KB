@@ -141,48 +141,6 @@ evolution between Kingdom Fungi and Kingdom Plantae.
 
 ## Other Gasteromycetes
 
-### Puffballs, Earth-Balls, and Earth-Stars
-
-These fungi expel spores puffed into the air and carried by wind. Puffballs
-(*Lycoperdon*) contain vast quantities of dry spores within a papery skin that
-ruptures when impacted by raindrops or animal feet. Earth-stars (*Geastrum*)
-open star-like to elevate the spore chamber above the ground, improving wind
-dispersal. Earth-balls (*Scleroderma*) remain closed and release spores only
-when their thick outer wall cracks from weathering.
-
-### Bird's Nest Fungi
-
-Bird's nest fungi (*Cyathus*) form tiny champagne flute-shaped fruiting bodies
-containing spore packets called **peridioles**. Raindrops splash peridioles
-onto surrounding grass blades. Herbivores consume them, and the spores pass
-through the digestive system to be deposited in warm manure, which offers ideal
-substrate for new colonies.
-
-### Sphaerobolus: The Cannon Fungus
-
-*Sphaerobolus* grows on wood mulch and shoots a black ball of spores from a
-fruiting body operating as a tiny trampoline. The inner cup flips inside-out
-like a gymnast launching from a vaulting horse, propelling the spore ball with
-a force of 10,000 times the acceleration due to gravity. The spore balls stick
-to smooth surfaces with incredible tenacity and can damage car paintwork.
-
-[[ballistospore-discharge]] describes the ballistic spore launch used by typical agarics — the very system gasteromycetes have abandoned in favour of animal and rain dispersal. [[fungal-spore-dispersal]] covers the full range of dispersal strategies across the fungal kingdom.
-
-[[basidiospore-discharge-mechanism]] explains the physics of active spore release in agarics and other hymenomycetes.
-
-## Ecological Significance
-
-Stinkhorn and cage fungi play important roles in forest ecosystems as
-decomposers. Their fruiting bodies emerge from buried mycelia that process
-organic matter in soil and leaf litter. The reliance on insect vectors for spore
-dispersal makes them particularly effective in dense forest environments where
-wind dispersal is less efficient.
-
-The loss of the water-dependent catapult mechanism enables gasteromycetes to
-colonize much drier habitats than other basidiomycetes, and many are found on
-sandy soils and even in deserts. Their eggs and young fruiting bodies are also
-consumed by various animals, contributing to food webs in woodland ecosystems.
-
 ## See Also
 
 - [[basidiomycota-classification-major-clades|Basidiomycota overview]]

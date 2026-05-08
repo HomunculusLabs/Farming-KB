@@ -140,21 +140,6 @@ tags: []
 - Ensure excellent soil drainage (mound or berm planting if needed)
 - Irrigate during nut fill (July–September) to prevent heat stress
 - Site on north-facing slopes or higher elevations to reduce heat load
-- Monitor for oriental chestnut gall wasp; consider biological control releases of *Torymus sinensis*
-
-## Where to Buy Chestnut Trees
-
-| Nursery | Specialization | Ships To | |---------|---------------|----------|
-| Burnt Ridge Nursery | Dunstan, Chinese, European cultivars | US (lower 48) | | Stark Bros | Colossal, Dunstan, Chinese selections | US |
-| One Green World | Chinese, Japanese, European cultivars | US | | Ty Ty Nursery | Dunstan, Colossal, Chinese | US (South/Southeast) |
-| Cummins Nursery | Grafted chestnut cultivars | US (Northeast) | | Grandpa's Orchard | Chinese, Dunstan | US |
-| Finch Nursery | TACF restoration seedlings | US (Appalachian region) | | Europlants Italia | European cultivars (Marrone, Marigoule) | EU |
-| Viveros Provedo | Spanish chestnut cultivars | EU |
-## Key Takeaways
-1. **Chinese chestnut is the most versatile choice** — cold-hardy, blight-resistant, productive, and widely available
-2. **[[query-what-are-the-best-fig-varieties-for-different-climates|Colossal]] is the standard for fresh eating** — large nuts, reliable yield, widely available
-3. **European cultivars offer the best flour** — higher starch, traditional processing heritage
-
 ## See Also
 
 - [[query-best-stone-fruit-varieties-for-different-climates]]

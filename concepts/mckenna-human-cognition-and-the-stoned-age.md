@@ -14,7 +14,7 @@ sources:
 
 The "Stoned Ape" hypothesis is McKenna's most famous and most controversial contribution to evolutionary theory. First articulated in Food of the Gods (1992), it proposes that the transition from Homo erectus to Homo sapiens was catalyzed by the regular consumption of psilocybin mushrooms in the African savanna. The hypothesis challenges the mainstream view that human cognitive evolution was driven primarily by tool use, social complexity, and anatomical changes in the brain.
 
-McKenna proposed a three-stage model of mushroom use, with different doses producing different evolutionary effects. See [[terence-mckenna-stoned-ape-hypothesis]] for the full argument. This page examines the cognitive dimensions of the hypothesis in detail.
+McKenna proposed a three-stage model of mushroom use, with different doses producing different evolutionary effects. See [[psychedelic-mushrooms-species-and-identification]] for the full argument. This page examines the cognitive dimensions of the hypothesis in detail.
 
 ## Stage 1: Increased Visual Acuity
 
@@ -59,7 +59,7 @@ The Stoned Ape hypothesis has been widely criticized by evolutionary biologists,
 Despite these criticisms, the hypothesis remains one of the most thought-provoking proposals about the origins of human consciousness. At minimum, it highlights the extent to which the relationship between humans and psychoactive plants has been neglected by mainstream evolutionary theory.
 
 See also:
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[psilocybin-neuroscience]]
@@ -89,7 +89,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## Merged: Human Cognition and Symbolic Capacity
 Terence McKenna's analysis of human cognitive uniqueness in Food of the Gods connects directly to his [[mckenna-transcendent-other-and-exopheromones]] hypothesis and language development arguments. He frames human cognition as fundamentally an adaptive response to the demands of symbolic processing, and argues that psychedelic plants catalyzed the emergence of the unique cognitive capacities that distinguish Homo sapiens from other primates. - mckenna human cognition and the stoned age - [[mckenna-transcendent-other-and-exopheromones]] - [[urban-ayahuasca-iquitos-healing]] - [[philosophical-implications-of-psychedelics]] McKenna argues that all uniquely human characteristics can be subsumed under the heading of cognitive activities: "dance, philosophy, painting, poetry, sport, meditation, erotic fantasy, politics, and ecstatic self-intoxication.

@@ -94,11 +94,11 @@ Holmgren stresses that resilience is built incrementally, through many small act
 
 ## See Also
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[permaculture-retrofitting-suburbs]]
 - [[permaculture-bioregional-organization]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[holmgren-household-economy-and-self-reliance]]
 - [[holmgren-energy-descent-culture-adaptation]]
 - [[mollison-permaculture-two-community-self-reliance]]

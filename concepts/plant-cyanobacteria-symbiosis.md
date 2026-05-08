@@ -24,7 +24,7 @@ Liverworts such as Anthoceros, Notothylas and Blasia possess cyanobacteria (Nost
 
 Within the cavity, Anthoceros produces branched hypha-like filaments interspersed with the algal colony, facilitating transport and exchange of materials between partners.
 
-Bryophyte-cyanobacteria symbioses are particularly important in boreal and subarctic ecosystems where they contribute significantly to the [[nitrogen-cycle-in-soil]], fixing atmospheric nitrogen in nutrient-poor bog and tundra habitats where few other nitrogen-fixing organisms thrive.
+Bryophyte-cyanobacteria symbioses are particularly important in boreal and subarctic ecosystems where they contribute significantly to the [[composting-and-soil-biology]], fixing atmospheric nitrogen in nutrient-poor bog and tundra habitats where few other nitrogen-fixing organisms thrive.
 
 ## Azolla-Anabaena Symbiosis
 

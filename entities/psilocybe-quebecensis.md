@@ -52,7 +52,7 @@ The species grows on decaying wood, woody debris, and in wood chip mulch in fore
 
 ## Chemistry and Pharmacology
 
-*P. quebecensis* contains [[psilocybin]] and [[psilocin]], confirmed by chemical analysis. Baeocystin has also been reported. The potency is generally considered low to moderate, though quantitative data from multiple collections are limited. The blue-bruising reaction on the stem and, to a lesser extent, on the gills and cap is a reliable indicator of alkaloid presence.
+*P. quebecensis* contains [[psilocybin-compound]] and [[psilocin]], confirmed by chemical analysis. Baeocystin has also been reported. The potency is generally considered low to moderate, though quantitative data from multiple collections are limited. The blue-bruising reaction on the stem and, to a lesser extent, on the gills and cap is a reliable indicator of alkaloid presence.
 
 The adaptation of this species to cold northern climates is of particular interest, as it suggests that psilocybin biosynthesis is compatible with low-temperature fruiting, a trait that could be relevant for understanding the ecological role of these compounds.
 
@@ -79,4 +79,4 @@ As a psilocybin-containing species, *P. quebecensis* is illegal to possess, cult
 - [[psilocybe-silvatica]]
 - [[psilocybe-pelliculosa-entity]]
 - [[psilocybe-montana]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

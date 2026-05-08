@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM [[stone-fruit-tree-care]] management combines deep [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] work before budding/sprouting with a complete [[ultra-low-cost-jadam-natural-pesticide-jnp]] system. The approach yields remarkable results -- documented cases include a single grape vine covering 900 sq m with 3,000 fruits (Deokhyeon Do's farm in Gochang) and kiwi farming with organic methods producing high yields (Chanmo Gim's farm in Goseong).
+JADAM stone fruit tree care management combines deep [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] work before budding/sprouting with a complete [[ultra-low-cost-jadam-natural-pesticide-jnp]] system. The approach yields remarkable results -- documented cases include a single grape vine covering 900 sq m with 3,000 fruits (Deokhyeon Do's farm in Gochang) and kiwi farming with organic methods producing high yields (Chanmo Gim's farm in Goseong).
 
 ## Soil Foundation for Fruit Trees
 

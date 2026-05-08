@@ -132,12 +132,12 @@ No physical toxicity has been documented at typical recreational or therapeutic 
 ## See Also
 
 - [[psilocybe-cubensis]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-azurescens]]
 - [[psilocybe-mexicana]]
 - [[panaeolus-cyanescens]]
-- [[gymnopilus-spectabilis]]
+- [[gymnopilus-spectabilis-entity]]
 - [[psilocybe-semilanceata]]
 - [[psilocybe-cyanescens]]

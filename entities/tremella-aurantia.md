@@ -22,7 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 - **Genus:** Tremella
 - **Species:** T. aurantia
 
-The species has a complex taxonomic history and has been referred to by various synonyms. The specific epithet "aurantia" derives from the Latin for golden or orange, referring to the characteristic color of the fruiting body. It is closely related to [[tremella-mesenterica]] and [[tremella-fuciformis]], both of which have documented medicinal value.
+The species has a complex taxonomic history and has been referred to by various synonyms. The specific epithet "aurantia" derives from the Latin for golden or orange, referring to the characteristic color of the fruiting body. It is closely related to [[tremella-mesenterica]] and [[tremella-fuciformis-entity]], both of which have documented medicinal value.
 
 ## Morphology
 
@@ -30,7 +30,7 @@ Tremella aurantia produces gelatinous, foliose to cerebriform fruiting bodies wi
 
 - **Fruiting body:** Irregularly lobed, folded, or brain-like gelatinous mass, typically 3-10 cm across and 1-3 cm thick when fully hydrated. The lobes are often erect and convoluted, forming an ear-like or brain-like shape.
 - **Color:** Bright orange to golden-yellow when fresh and hydrated. The color may darken to reddish-orange with age. When dry, the fruiting body shrinks to a hard, dark orange to reddish-brown crust that can rehydrate to its original form.
-- **Texture:** Soft, gelatinous, and jelly-like when fresh. The texture is more rubbery and substantial than that of [[tremella-fuciformis]] but similar to [[tremella-mesenterica]].
+- **Texture:** Soft, gelatinous, and jelly-like when fresh. The texture is more rubbery and substantial than that of [[tremella-fuciformis-entity]] but similar to [[tremella-mesenterica]].
 - **Surface:** Smooth to slightly wrinkled, shiny when wet, with a translucent quality in thinner parts.
 - **Hymenium:** Spores are produced over the entire surface of the fruiting body, with no differentiated structures such as gills or pores.
 - **Spores:** Subglobose to broadly ellipsoidal, smooth, 7-10 × 6-9 μm. Spores germinate by producing yeast-like cells or by mating with compatible yeast-phase cells.
@@ -68,7 +68,7 @@ The fruiting bodies of T. aurantia appear on the upper surface or margins of the
 
 Chemical studies of T. aurantia have identified several bioactive constituents:
 
-- **Polysaccharides:** Water-soluble acidic heteropolysaccharides constitute the major bioactive fraction. These are primarily glucuronoxylomannans composed of a mannose backbone with xylose and glucuronic acid side chains. This structural type is similar to the tremellans found in [[tremella-fuciformis]] and [[tremella-mesenterica]].
+- **Polysaccharides:** Water-soluble acidic heteropolysaccharides constitute the major bioactive fraction. These are primarily glucuronoxylomannans composed of a mannose backbone with xylose and glucuronic acid side chains. This structural type is similar to the tremellans found in [[tremella-fuciformis-entity]] and [[tremella-mesenterica]].
 - **Carotenoids:** The bright orange color is due to carotenoid pigments, including beta-carotene, lutein, and related compounds that contribute to antioxidant activity.
 - **Phenolic compounds:** Various phenolic acids with antioxidant and anti-inflammatory properties.
 - **Proteins:** Low protein content consistent with gelatinous fungal fruiting bodies.
@@ -97,7 +97,7 @@ T. aurantia exhibits significant antioxidant capacity through multiple mechanism
 - Lipid peroxidation inhibition
 - Metal ion chelating activity
 - Cellular antioxidant enzyme activation (superoxide dismutase, catalase, glutathione peroxidase)
-- The antioxidant activity is enhanced by the presence of carotenoid pigments, which are more abundant in T. aurantia than in the white-colored [[tremella-fuciformis]]
+- The antioxidant activity is enhanced by the presence of carotenoid pigments, which are more abundant in T. aurantia than in the white-colored [[tremella-fuciformis-entity]]
 
 ### Anti-Inflammatory Effects
 
@@ -143,7 +143,7 @@ T. aurantia is considered safe for consumption with no significant toxicity repo
 
 ## See Also
 
-- [[tremella-fuciformis]] — commercially cultivated white jelly fungus
+- [[tremella-fuciformis-entity]] — commercially cultivated white jelly fungus
 - [[tremella-mesenterica]] — related yellow jelly fungus
 - [[trametes-versicolor]] — primary host fungus and source of PSK/PSP
 - [[psk-polysaccharide-krestin]] — protein-bound polysaccharide from the host

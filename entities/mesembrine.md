@@ -116,7 +116,7 @@ Kanna and mesembrine extracts are widely available through online vendors and sp
 - [[sceletium-tortuosum]] — the primary plant source of mesembrine
 - [[kanna-sceletium-south-african-narcotic]] — traditional Khoisan use of Sceletium preparations
 - [[5-meo-dmt]] — psychedelic tryptamine found in some South African plant species
-- [[psilocybin]] — classical psychedelic with serotonergic mechanism
+- [[psilocybin-compound]] — classical psychedelic with serotonergic mechanism
 - [[tabernanthe-iboga]] — African entheogenic plant with antidepressant properties
 - [[piper-methysticum-entity]] — kava, another natural anxiolytic plant preparation
 - [[banisteriopsis-caapi]] — ayahuasca vine with serotonergic activity

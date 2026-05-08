@@ -136,27 +136,6 @@ Ohenoja et al. (1987) made the notable discovery that herbarium specimens lose p
 - 1976 specimen: 0.84% psilocybin (dry weight)
 
 This finding corroborates indigenous Mexican knowledge, where dried specimens older than one year are considered inactive and discarded.
-
-## Ecological Requirements
-
-P. semilanceata is typically found in:
-- **Temperate grasslands**: Pastures, meadows, and lawns
-- **Autumn fruiting**: September through November in the Northern Hemisphere; April through June in the Southern Hemisphere
-- **Rich soils**: Often associated with soils enriched by animal manure (though not directly on dung like Panaeolus)
-- **Dune grasslands**: Common in coastal dune systems in Britain and northern Europe
-- **Mountain meadows**: Found at elevations up to alpine zones
-- **Moisture dependent**: Requires adequate rainfall or morning dew for fruiting
-
-## Cultural and Legal Significance
-
-P. semilanceata is the most commonly collected wild psychoactive mushroom in Europe and is responsible for the majority of foraging related mushroom poisonings (which are actually psilocybin intoxications) reported to European poison control centers. It has been the subject of legislation in multiple countries:
-
-- **United Kingdom**: Controlled under the Misuse of Drugs Act (Class A)
-- **Netherlands**: Formerly sold openly in "smart shops"; banned in 2008
-- **Germany**: Controlled under the Narcotics Act (Betäubungsmittelgesetz)
-- **United States**: Controlled under Schedule I of the Controlled Substances Act
-- **Australia and New Zealand**: Controlled substances
-
 ## See Also
 
 - [[psilocybe-semilanceata-transcontinental-distribution-patterns]]

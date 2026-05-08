@@ -74,11 +74,11 @@ The food produced may be abundant in quantity but deficient in quality.
 
 The food produced may be abundant in quantity but deficient in quality, and the systems that produce it are fundamentally fragile, dependent on continuous supplies of fossil energy and agrochemicals.
 
-Fukuoka saw [[no-till-gardening-method]] and the use of [[cover-cropping-guide]] not as alternative technologies but as elements of a fundamentally different relationship between humans and food. When food is grown in harmony with nature, it nourishes not only the body but the soil, the water, the ecosystem, and the human spirit.
+Fukuoka saw [[composting-and-soil-biology]] and the use of [[cover-cropping-guide]] not as alternative technologies but as elements of a fundamentally different relationship between humans and food. When food is grown in harmony with nature, it nourishes not only the body but the soil, the water, the ecosystem, and the human spirit.
 
 The disappearance of a natural diet is, in Fukuoka's view, not merely a nutritional crisis but a civilizational one -- a sign that humanity has lost its way.
 
-[[fukuoka-natural-diet-philosophy]] | [[fukuoka-natural-diet-principles]] | [[fukuoka-critique-green-revolution]] | [[natural-farming-food-philosophy]] | [[fukuoka-tasty-rice-illusion]]
+[[fukuoka-natural-diet-philosophy]] | [[fukuoka-natural-farming-philosophy]] | [[fukuoka-critique-green-revolution]] | [[natural-farming-food-philosophy]] | [[fukuoka-tasty-rice-illusion]]
 
 ## Key Points
 

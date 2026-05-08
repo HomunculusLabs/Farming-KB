@@ -39,7 +39,7 @@ The discipline of design helps overcome the tendency to react to crises with iso
 
 Design is also about timing and succession -- understanding that systems evolve and that today's design should anticipate and facilitate future development.
 
-[[permaculture-design]] | [[permaculture-design-process]] | [[holmgren-permaculture-ethics-foundations]] | [[holmgren-design-patterns-details-detailed]] | [[permaculture-earthworks-guide]]
+[[permaculture-design]] | [[permaculture-design-process]] | [[holmgren-permaculture-ethics-foundations]] | [[holmgren-design-patterns-details-detailed]] | [[permaculture-water-harvesting-earthworks]]
 
 ## Key Points
 
@@ -67,7 +67,7 @@ Design is also about timing and succession -- understanding that systems evolve 
 
 ## See Also
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

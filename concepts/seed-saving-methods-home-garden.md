@@ -121,7 +121,7 @@ To prevent unwanted crossing between varieties of the same species:
 - [[weed-management-strategies]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter 5 (Seeds)
-- [[permaculture-seed-saving-and-selection]]
+- [[permaculture-design]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[home-garden-seed-saving]]
 - [[permaculture-designers-manual-seed-saving-varieties]]

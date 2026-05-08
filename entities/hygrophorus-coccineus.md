@@ -111,8 +111,8 @@ The key field distinction between *H. coccineus* and the superficially similar *
 
 - `[[hydnum-repandum]]` — Co-occurring mycorrhizal mushroom of coniferous forests
 - `[[laccaria-amethystina]]` — Ectomycorrhizal agaric sharing similar habitat and season
-- `[[cantharellus-cibarius]]` — Edible mycorrhizal species of similar forest type
+- `[[cantharellus-cibarius-entity]]` — Edible mycorrhizal species of similar forest type
 - `[[suillus-luteus]]` — Conifer-associated mycorrhizal mushroom with overlapping range
 - `[[russula-brevipes]]` — Ectomycorrhizal species of conifer forests
-- `[[boletus-edulis]]` — Iconic mycorrhizal mushroom of conifer and hardwood forests
+- `[[boletus-edulis-entity]]` — Iconic mycorrhizal mushroom of conifer and hardwood forests
 - `[[amanita-jacksonii]]` — Red-capped edible mushroom for comparison of identification features

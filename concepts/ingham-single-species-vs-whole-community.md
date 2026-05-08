@@ -148,4 +148,3 @@ monitoring assesses the overall community structure. Direct
 microscopy allows the practitioner to see the full range of
 organisms present, assess their relative abundances, and determine
 whether the community is balanced for the intended use. This
-whole-community assessment approach provides more actionable

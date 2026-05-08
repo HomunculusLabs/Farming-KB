@@ -148,4 +148,3 @@ The species responds well to coppicing and pollarding for managed harvest of fol
 - [[acacia]]
 - [[leucaena-leucocephala]]
 - [[gliricidia-sepium]]
-- [[permaculture]]

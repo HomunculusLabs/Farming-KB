@@ -60,7 +60,7 @@ The carbon cost of mycorrhizal symbiosis represents a significant portion of the
 
 ## Carbon Allocation in Ectomycorrhizal Forest Ecosystems
 
-In forest ecosystems dominated by [[ectomycorrhizal-fungal-ecology]], carbon allocation patterns are particularly important for understanding long-term carbon storage. ECM fungi receive large quantities of plant-derived carbon and channel it into extensive mycelial networks that persist in soil for months to years. A portion of this carbon is transferred to [[fungal-decomposition-wood-litter]] processes and supports diverse microbial communities on the [[fungal-ecology-forest-floor]]. The sheer biomass of ECM mycelium in forests represents one of the largest below-ground carbon pools in many temperate and boreal ecosystems.
+In forest ecosystems dominated by [[ectomycorrhizal-fungal-ecology]], carbon allocation patterns are particularly important for understanding long-term carbon storage. ECM fungi receive large quantities of plant-derived carbon and channel it into extensive mycelial networks that persist in soil for months to years. A portion of this carbon is transferred to [[fungal-decomposition-wood-litter]] processes and supports diverse microbial communities on the [[the-soil-food-web]]. The sheer biomass of ECM mycelium in forests represents one of the largest below-ground carbon pools in many temperate and boreal ecosystems.
 
 ## Measuring Carbon Allocation in the Field
 

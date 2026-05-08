@@ -148,4 +148,3 @@ mesorhizobium loti
 condensed tannin
 proanthocyanidin
 [[permaculture-plants-ground-covers-and-accumulators]]
-polyommatus icarus

@@ -24,7 +24,7 @@ type: comparison
 
 # French Marigold Biofumigation vs Mustard Biofumigation
 
-Biofumigation is an organic pest-management strategy that uses specific cover crops to release naturally occurring toxic compounds into the soil, suppressing soil-borne pathogens, nematodes, and fungi. Two of the most widely adopted biofumigant crop families are **French marigolds** (*Tagetes* spp.) and **mustards/brassicas** (*Brassica* spp., *Sinapis* spp.). While both approaches share the principle of growing and incorporating pest-suppressive plants, their biochemical mechanisms, target spectra, and practical management differ significantly. This comparison helps growers choose the right biofumigant strategy for their specific pest pressures, climate, and rotation constraints. See also [[biofumigation-and-brassica-cover-crops-for-pest-management]] for deeper coverage of brassica-based approaches.
+Biofumigation is an [[organic-pest-and-disease-management]]-management strategy that uses specific cover crops to release naturally occurring toxic compounds into the soil, suppressing soil-borne pathogens, nematodes, and fungi. Two of the most widely adopted biofumigant crop families are **French marigolds** (*Tagetes* spp.) and **mustards/brassicas** (*Brassica* spp., *Sinapis* spp.). While both approaches share the principle of growing and incorporating pest-suppressive plants, their biochemical mechanisms, target spectra, and practical management differ significantly. This comparison helps growers choose the right biofumigant strategy for their specific pest pressures, climate, and rotation constraints. See also [[biofumigation-and-brassica-cover-crops-for-pest-management]] for deeper coverage of brassica-based approaches.
 
 ## Side-by-Side Comparison
 
@@ -37,7 +37,7 @@ Biofumigation is an organic pest-management strategy that uses specific cover cr
 | **Best varieties** | *T. patula* (French), *T. erecta* (African) | *Brassica juncea* (Indian mustard), *B. napus* (rapeseed), *Sinapis alba* (white mustard) |
 | **Growth cycle** | 60–90 days to flower; often grown as full-season intercrop | 6–10 weeks; well-suited as a quick fall or spring catch crop |
 | **Incorporation method** | Living root effect; benefits from in-place root decay rather than incorporation | Must be chopped finely and incorporated immediately to maximize ITC release |
-| **Soil preparation** | Standard tillage; no special incorporation timing needed | Requires rapid chopping and immediate incorporation into moist soil, then sealing (rolling or irrigation) |
+| **[[soil-preparation-organic-gardens]]** | Standard tillage; no special incorporation timing needed | Requires rapid chopping and immediate incorporation into moist soil, then sealing (rolling or irrigation) |
 | **Cost** | Higher seed cost; longer field occupation | Lower seed cost per acre; fast turnaround suits tight rotations |
 | **Climate preference** | Warm-season; frost-sensitive | Cool-season; most brassicas tolerate light frost |
 | **Allelopathic risk** | Low; marigolds are compatible with most succeeding crops | Moderate; residue phytotoxicity can delay sensitive crop establishment |
@@ -57,7 +57,7 @@ Marigolds are best regarded as a **specialized nematicidal biofumigant**. Resear
 - **Temperature**: Require warm soil (≥15°C for reliable germination). Frost kills plants outright.
 - **Sowing**: Direct seed at 1–2 cm depth, 15–30 cm within-row spacing.
 - **Duration**: Allow at least 60–90 days of growth for meaningful root-zone saturation.
-- **Soil**: Tolerant of a wide range of soils; moderately drought-tolerant once established.
+- **Soil**: Tolerant of a wide range of soils; moderately [[drought-tolerant-planting-design]] once established.
 
 ### Integration into Rotations
 
@@ -74,7 +74,7 @@ Marigolds fit best as a **summer fallow replacement** or as interplanted rows wi
 
 ### Mechanism of Action
 
-Mustard biofumigation exploits the **glucosinolate–myrosinase system** found in Brassicaceae. Glucosinolates are stored in plant cell vacuoles, separate from the enzyme myrosinase. When plant tissue is damaged (chopped and incorporated), myrosinase hydrolyzes glucosinolates into **isothiocyanates (ITCs)** — volatile, biologically active "mustard oils." ITCs are broad-spectrum biocides toxic to nematodes, fungi, bacteria, insect eggs, and even some weed seeds. The effectiveness depends on rapid incorporation into moist soil (field capacity or above) to allow ITC volatilization throughout the soil profile.
+Mustard biofumigation exploits the **glucosinolate–myrosinase system** found in Brassicaceae. Glucosinolates are stored in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles, separate from the enzyme myrosinase. When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is damaged (chopped and incorporated), myrosinase hydrolyzes glucosinolates into **isothiocyanates (ITCs)** — volatile, biologically active "mustard oils." ITCs are broad-spectrum biocides toxic to nematodes, fungi, bacteria, insect eggs, and even some weed seeds. The effectiveness depends on rapid incorporation into moist soil (field capacity or above) to allow ITC volatilization throughout the soil profile.
 
 ### Target Pests and Effectiveness
 

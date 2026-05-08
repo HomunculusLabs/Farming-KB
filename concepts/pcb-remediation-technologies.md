@@ -74,7 +74,7 @@ The selection of PCB remediation technology depends on multiple factors includin
 
 [[ectomycorrhizal-remediation]]
 
-[[biosurfactants-in-bioremediation]]
+[[bioremediation-using-fungi]]
 
 [[bioaugmentation-strategies]]
 

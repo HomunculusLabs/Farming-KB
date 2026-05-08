@@ -88,7 +88,7 @@ mulches that promote infiltration. In areas
 where runoff is an issue, consider using shredded bark or arborist wood
 chips that create a rough surface to slow and spread water flow.
 
-Long-term [[no-till-benefits]] include significant improvements in soil
+Long-term [[composting-and-soil-biology]] include significant improvements in soil
 drainage over time. Tilling destroys soil aggregates and the fungal
 networks that help bind soil particles together, leading to surface
 crusting and poor infiltration. By adopting no-till practices and feeding
@@ -115,7 +115,7 @@ conditions.
   with severe drainage problems or heavy clay
 - Build earthworm populations through [[worm-ecology-soil-building]] to
   create natural drainage channels and improve soil structure over time
-- Adopt [[no-till-benefits]] practices to maintain the soil aggregates
+- Adopt [[composting-and-soil-biology]] practices to maintain the soil aggregates
   and biological networks that keep drainage functioning well long-term
 
 ## Related Questions

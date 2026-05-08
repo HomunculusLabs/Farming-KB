@@ -16,8 +16,6 @@ sources:
 
 # Psilocybe naematoliformis
 
-
-
 ## Taxonomy
 
 - **Kingdom:** Fungi
@@ -29,8 +27,6 @@ sources:
 - **Species:** *P. naematoliformis*
 
 First described by Guzmán in 1979 from collections in the state of Veracruz, Mexico. The species epithet refers to the resemblance of its basidiocarps to those in the genus *Naematoloma* (now subsumed into *Hypholoma* and *Psilocybe* sensu lato).
-
-
 
 ## Description
 
@@ -57,31 +53,21 @@ First described by Guzmán in 1979 from collections in the state of Veracruz, Me
 - Basidia 2- or 4-spored
 - Pleurocystidia and cheilocystidia present, ventricose with extended necks
 
-
-
 ## Distribution and Habitat
 
 Native to subtropical and tropical forests of eastern Mexico, particularly Veracruz and surrounding states. Found growing on clay soils in coffee plantations and disturbed areas, often in association with decaying plant debris and leaf litter. Fruiting occurs during the rainy season from June through September.
-
-
 
 ## Chemistry and Pharmacology
 
 Contains psilocybin and psilocin as the primary active compounds. [[baeocystin]] has also been detected in varying concentrations. The species is moderately potent compared to other *Psilocybe* species, though systematic quantitative analyses remain limited. Guzmán's original collections confirmed bluing reactions consistent with indoleamine content.
 
-
-
 ## Similar Species
 
 Closely resembles *[[psilocybe-zapotecorum]]* in general stature and habitat preferences but is smaller in all dimensions and differs in spore morphology. The hygrophanous cap and more slender stature help separate it from *Psilocybe caerulescens*, which shares overlapping range in Mexico. Microscopic examination of cystidia and spore size is recommended for confident identification.
 
-
-
 ## Ethnobotanical Notes
 
 While not documented as a major ceremonial species, *P. naematoliformis* occurs in regions of Mexico with a long history of mushroom use among indigenous Nahua and other ethnic groups. It is likely that this species has been encountered alongside better-known psychoactive fungi during traditional foraging, though specific ethnographic accounts are absent from the literature.
-
-
 
 ## Conservation Status
 

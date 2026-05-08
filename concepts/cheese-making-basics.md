@@ -148,5 +148,3 @@ Whey is a valuable byproduct of cheese making:
 - [[cheese-cannabis]] Topics
 
 - [[food-fermentation-guide]] for the science of bacterial cultures in food
-- [[food-dehydration-guide]] for preserving aged cheeses
-- [[sourdough-bread-guide]] for using whey in bread recipes

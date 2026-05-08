@@ -147,7 +147,3 @@ Trichomes are tiny, mushroom-shaped glandular hairs that cover the surface of ca
 - Other cannabinoids and flavonoids
 
 ## Trichome Types
-
-## See Also
-
-- [[cannabimovone]]

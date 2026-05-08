@@ -148,12 +148,3 @@ The on-site assessment covers these domains:
 - **Existing water features**: Dams, tanks, bores, wells, springs, streams,
   wetlands. Map their location, capacity, reliability, and water quality.
 - **Catchment analysis**: Calculate the catchment area contributing water to
-  each point on the site. This informs [[mollison-designers-dam-construction-and-water-storage]] and [[mollison-designers-roof-water-catchment-calculations]]
-
-## See Also
-
-[[williams-pdc-client-interview-process]] offers a complementary client interview framework from a modern PDC context.
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] covers the core design principles that guide all site assessment decisions.
-[[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] details the zone and sector planning methodology referenced throughout the assessment.
-[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] connects site assessment findings to guild and polyculture design.
-[[water-catchment-permaculture]] provides practical water harvesting design guidance for the catchment analysis phase.

@@ -93,5 +93,5 @@ The Lloyd Library represents several important cultural themes:
 ## See Also
 - [[fungal-kingdom-classification]] — The mycologist whose collections form the library's core
 - [[nicholas-money]] — Discusses the Lloyd Library in Mr. Bloomfield's Orchard
-- [[victorian-mycology]] — Broader context of the era in which the library was founded
+- [[ethnomycology]] — Broader context of the era in which the library was founded
 - [[buller-ahr]] — Subject of much of Curtis Lloyd's research housed in the library

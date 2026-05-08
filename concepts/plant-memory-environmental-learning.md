@@ -118,7 +118,7 @@ This has reignited philosophical debates about the nature of cognition and aware
 
 ## See Also
 
-- [[Phytochrome and Photoperiodism]]
-- [[Systemic Acquired Resistance in Plants]]
-- [[Plant Olfaction and Volatile Organic Compound Signaling]]
-- [[Vernalization and Flowering Time Control]]
+- [[phytochrome-and-photoperiodism]]
+- [[systemic-acquired-resistance-in-plants]]
+- [[plant-olfaction-and-volatile-organic-compound-signaling]]
+- [[vernalization-and-flowering-time-control]]

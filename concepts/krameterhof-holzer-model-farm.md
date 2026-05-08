@@ -50,7 +50,7 @@ The raised beds serve as windbreaks, water harvesters, and growing spaces simult
 
 ## Animal Integration
 
-Livestock at the Krameterhof includes cattle, [[mangalitza-pig-breeds]], Duroc pigs, Turopoije pigs, poultry, and other species. Animals are managed using [[holzer-livestock-philosophy-paddock-system]] where different species rotate through areas, each contributing different benefits. Pigs serve as living ploughs, turning and aerating soil while fertilizing it. Cattle graze on diverse pastures and contribute manure. Poultry scratch through manure and crop residues, controlling pests and distributing fertility.
+Livestock at the Krameterhof includes cattle, [[backyard-poultry-and-integrated-animal-systems]], Duroc pigs, Turopoije pigs, poultry, and other species. Animals are managed using [[holzer-livestock-philosophy-paddock-system]] where different species rotate through areas, each contributing different benefits. Pigs serve as living ploughs, turning and aerating soil while fertilizing it. Cattle graze on diverse pastures and contribute manure. Poultry scratch through manure and crop residues, controlling pests and distributing fertility.
 
 The animal shelters at the Krameterhof use [[holzer-roundwood-shelter-construction]] and earth-sheltered design, providing warmth in winter and coolness in summer without energy inputs.
 

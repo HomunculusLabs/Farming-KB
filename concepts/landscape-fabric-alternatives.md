@@ -18,7 +18,7 @@ Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but i
 - **Cost**: Expensive for large areas compared to natural alternatives
 - **Weed seeds**: Weed seeds germinate in debris that accumulates on top of the fabric
 ## Alternative 1: Cardboard (Best for Initial Bed Creation)
-Unprinted, uncoated brown cardboard is the most effective initial weed barrier for [[no-till-gardening-method|no-till]] garden beds.
+Unprinted, uncoated brown cardboard is the most effective initial weed barrier for [[composting-and-soil-biology|no-till]] garden beds.
 Advantages:
 - Completely biodegradable — breaks down within 6-12 months
 - Blocks light effectively, killing existing weeds
@@ -111,7 +111,7 @@ How to use:
 | Leaf mold | Free | 1 season | Moderate | Excellent | Amendment + mulch |
 | Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
 ## See Also
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[sheet-mulching]]
 - [[cover-crop-guide-detailed]]
 - [[hugelkultur-bed-construction-detailed]]

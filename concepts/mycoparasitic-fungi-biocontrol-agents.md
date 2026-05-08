@@ -9,7 +9,7 @@ sources: []
 
 # Mycoparasitic Fungi as Biocontrol Agents
 
-Mycoparasitic fungi — fungi that parasitize other fungi — represent a major class of [[mycopesticides-fungal-biocontrol]] agents used against plant-pathogenic fungi. Approximately 2,175 species of fungicolous fungi are known across all major fungal groups, with biocontrol applications documented for species in the Hypocreales, Zoopagales, Tremellales, and various mitosporic genera. This diversity makes fungicolous fungi one of the most important functional groups for biological disease management in agriculture.
+Mycoparasitic fungi — fungi that parasitize other fungi — represent a major class of [[mushroom-cultivation-fundamentals]] agents used against plant-pathogenic fungi. Approximately 2,175 species of fungicolous fungi are known across all major fungal groups, with biocontrol applications documented for species in the Hypocreales, Zoopagales, Tremellales, and various mitosporic genera. This diversity makes fungicolous fungi one of the most important functional groups for biological disease management in agriculture.
 
 ## Types of Mycoparasitism
 
@@ -92,7 +92,7 @@ The biocontrol efficacy of mycoparasitic fungi depends on environmental conditio
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[mycorrhizal-biocontrol]]
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-contamination-control-strategies]]
 
 ## Sources

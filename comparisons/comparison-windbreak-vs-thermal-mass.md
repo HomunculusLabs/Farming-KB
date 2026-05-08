@@ -148,5 +148,3 @@ biodiversity at high altitude.
 - [[mollison-thermal-mass-passive-building]]
 - [[faires-thermal-mass-applications-in-building]]
 - [[comparison-windbreak-vs-hedgerow]]
-- [[comparison-passive-solar-vs-earth-sheltered]]
-- [[holzer-microclimate-creation]]

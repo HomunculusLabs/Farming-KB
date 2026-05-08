@@ -148,5 +148,3 @@ research.
 - [[tompkins-jagadis-bose-plant-response-crescograph]]
 - [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
 - [[tompkins-plant-electrical-signals]]
-- [[tompkins-plant-growth-regulators]]
-- [[cleve-backster-plant-perception-experiments]]

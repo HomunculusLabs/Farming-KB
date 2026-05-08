@@ -148,5 +148,3 @@ prevents erosion, fixes nitrogen through legumes, and produces diverse food
 crops without chemical inputs. The integration of fruit trees into this
 system creates the vertical dimension that makes the three-dimensional
 ## See Also
-
-- [[fukuoka-lundberg-family-farms-natural-rice]]

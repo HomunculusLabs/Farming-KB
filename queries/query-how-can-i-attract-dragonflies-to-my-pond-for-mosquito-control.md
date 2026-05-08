@@ -1,13 +1,12 @@
 ---
 title: How Can I Attract Dragonflies to My Pond for Natural Mosquito Control?
-tags: [dragonflies, mosquito-control, pond-design, odonata-habitat, biological-pest-control, water-features, permaculture, aquatic-ecology]
+tags: [dragonflies, mosquito-control, pond-design, odonata-habitat, biological-pest-control, water-features, [[permaculture]], aquatic-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
 created: 2026-05-07
 type: query
 ---
-
 # How Can I Attract Dragonflies to My Pond for Natural Mosquito Control?
 
 Dragonflies are among the most effective natural predators of mosquitoes, and designing your pond to welcome them is one of the smartest things you can do for mosquito control. This guide covers everything you need to know to create a dragonfly-friendly pond habitat.
@@ -16,13 +15,13 @@ Dragonflies are among the most effective natural predators of mosquitoes, and de
 
 ## Why Are Dragonflies Such Effective Mosquito Predators?
 
-Dragonflies hunt mosquitoes at **every stage of life**, making them a dual-threat pest control system:
+Dragonflies hunt mosquitoes at **every stage of life**, making them a dual-threat [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] system:
 
 - **Nymphs (aquatic larvae):** Dragonfly nymphs live underwater for weeks to years depending on species. They are ambush predators with a specialized extendable jaw (labium) that shoots out to grab prey. A single nymph can consume hundreds of mosquito larvae before maturing. They also eat other aquatic pests like midge larvae and aquatic worms.
 
 - **Adults:** Adult dragonflies are aerial hunters capable of catching mosquitoes mid-flight. They can eat 30–100+ mosquitoes per day and hunt near ponds, gardens, and patios. Their large eyes give them nearly 360° vision, and they can fly in any direction — mosquitoes have almost nowhere to hide.
 
-- **Damselflies** (close relatives) also prey on mosquitoes and share the same habitat needs, so your pond design will attract both groups.
+- **Damselflies** (close relatives) alsohemenway-water-harvesting-and-pond-designsquitoes and share the same habitat needs, so your pond design will attract both groups.
 
 ---
 
@@ -50,7 +49,7 @@ A mix of emergent, submerged, and floating plants creates the layered habitat dr
 - **Cattails (*Typha* spp.)** — Tall perches and good windbreaks, but can be invasive — contain them in pots
 
 ### Submerged Plants (grow entirely underwater)
-- **Hornwort (*Ceratophyllum demersum*)** — Provides oxygen and cover for nymphs
+- **Hornwort (*Ceratophyllum demersum*)** — Provides oxygen and coveremcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - **Eelgrass (*Vallisneria*)** — Long grass-like leaves that nymphs use for shelter and hunting
 
 ### Floating Plants (leaves on the surface)
@@ -75,7 +74,7 @@ Adult dragonflies are cold-blooded and need warm surfaces to raise their body te
 
 - **Flat rocks** placed at the pond's edge, partially in sun
 - **Bare branches or dead wood** angled over the water — they love to perch on twigs
-- **Logs** partially submerged at the shoreline
+- [[permaculture-designers-manual-water-qualityially submerged at the shoreline
 - Even a wooden stake or bamboo pole driven into the shallow margin works well
 
 ---
@@ -93,7 +92,7 @@ Dragonflies are sensitive to water contamination:
 
 ## How Much Sun Does a Dragonfly Pond Need?
 
-Most dragonfly species prefer **full sun to partial shade** — at least 6 hours of direct sunlight daily. Warmer water speeds nymph development and encourages adult activity. A pond tucked under dense tree canopy will attract far fewer dragonflies.
+Most dragonfly specietree-canopy-fungal-sampling-techniquesfull sun to partial shade** — at least 6 hours of direct sunlight daily. Warmer water speeds nymph development and encourages adult activity. A pond tucked under dense tree canopy will attract far fewer dragonflies.
 
 ---
 
@@ -148,11 +147,3 @@ Dragonflies work best as part of a broader integrated approach:
 - **Keep a species log** — photograph and identify visitors. Many regions have citizen science programs (e.g., OdonataCentral) where you can report sightings.
 - **Watch for nymph exuviae** — the shed skins left behind on stems and rocks after emergence are a sure sign of successful breeding.
 - **Count perching adults** in the early morning or late afternoon when they're most active.
-- **Avoid netting or handling** — enjoy them with binoculars and cameras instead.
-- A healthy dragonfly population is a sign of a thriving pond ecosystem. With the right design, your pond becomes a living habitat that supports remarkable biodiversity.
-
-## See Also
-
-- [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
-- [[coleman-beneficial-insects-and-ecological-pest-control]]
-- [[permaculture-pond-construction]]

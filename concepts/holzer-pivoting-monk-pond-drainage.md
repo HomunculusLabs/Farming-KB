@@ -127,7 +127,7 @@ prevent water from pooling and freezing around the mechanism.
 ## Related Topics
 
 - [[holzer-pond-construction-and-aquaculture]]
-- [[holzer-water-landscapes-pond-building]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-pond-lake-design]]
 - [[holzer-aquaculture-pond-construction]]
 - [[holzer-fish-farming]]

@@ -148,4 +148,3 @@ timeline is typical:
 - [[casing-layer-preparation]]: Casing soil recipe and application
 - [[sclerotia-cultivation]]: Alternative to fruiting body production
 - [[psilocybe-mexicana-cultivation]]: Species-specific fruiting notes
-- [[psilocybe-tampanensis-cultivation]]: Species-specific fruiting notes

@@ -45,7 +45,7 @@ Sorghum is direct-seeded after soil has warmed to at least 65°F (18°C). Plant 
 
 ## Companion Planting
 
-Sorghum works well in Permaculture Cover Crops Guide rotations in warm climates, following nitrogen-fixing legumes. In [[permaculture-design-principles-beginners]], sorghum provides windbreak protection for shorter crops and serves as a [[permaculture-wildlife-corridors]] biomass producer. It pairs well with cowpeas, mung beans, and peanuts as companion crops. Sorghum's tall growth habit provides a living trellis for climbing beans. Avoid planting near other Sorghum species to prevent cross-pollination if saving seed. As [[urban-permaculture-fodder-trees-livestock]] annual equivalent, mature sorghum provides substantial animal feed.
+Sorghum works well in Permaculture Cover Crops Guide rotations in warm climates, following nitrogen-fixing legumes. In [[permaculture-design-principles]], sorghum provides windbreak protection for shorter crops and serves as a [[permaculture-wildlife-corridors]] biomass producer. It pairs well with cowpeas, mung beans, and peanuts as companion crops. Sorghum's tall growth habit provides a living trellis for climbing beans. Avoid planting near other Sorghum species to prevent cross-pollination if saving seed. As [[urban-permaculture-fodder-trees-livestock]] annual equivalent, mature sorghum provides substantial animal feed.
 
 ## Culinary Uses
 

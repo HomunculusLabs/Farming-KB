@@ -125,7 +125,7 @@ Hofmann in 1958.
 ## See Also
 
 - [[hallucinogenic-drugs]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psychedelic-psychotherapy]]
 - [[mushroom-cultivation]]
 - [[mycology]]

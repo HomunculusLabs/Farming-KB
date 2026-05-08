@@ -28,23 +28,9 @@ sources:
 
 German mycologist and chemist known for extensive research on the global distribution, chemistry, and cultural use of psilocybin-containing mushrooms.
 
-
-
-
-
-
-
-
 ## Overview
 
 Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and ethnomycology of psychoactive fungi. He has published extensively on the worldwide occurrence of magic mushrooms and conducted pioneering chemical analyses of numerous species. Based at the Institut fur Biotechnologie der AdW der DDR, Leipzig.
-
-
-
-
-
-
-
 
 ## Key Contributions
 
@@ -58,13 +44,6 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 - **Japanese mushroom research:** Documented psychoactive species in Japan including Psilocybe subcaerulipes, P. argentipes, and P. venenata (formerly Stropharia venenata Imai).
 - **Psilocybe azurescens description:** Co-described P. azurescens with [[paul-stamets]] (1995), the most potent psilocybin mushroom known (up to 1.78% total alkaloids), from the Columbia River basin near Astoria, Oregon.
 
-
-
-
-
-
-
-
 ## Major Works
 
 - "Magic Mushrooms Around the World" — Comprehensive survey of global psilocybin mushroom species, distribution, chemistry, and cultural contexts.
@@ -72,13 +51,6 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 - "Biotransformation of Tryptamine in Fruiting Mycelia of Psilocybe cubensis" (1989, Planta Medica) — Key paper on enzymatic alkaloid conversion.
 - "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis" (1990, Naturwissenschaften) — First demonstration of brassinosteroid effects on fungi.
 - Numerous chemical analysis papers on psilocybin/psilocin content in mushroom species.
-
-
-
-
-
-
-
 
 ## See Also
 

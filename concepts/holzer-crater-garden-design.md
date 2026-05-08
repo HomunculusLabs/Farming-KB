@@ -138,11 +138,11 @@ which is very useful during hot summers.
 ## Permaculture Principles in Action
 
 The crater garden embodies several key permaculture principles. It
-demonstrates [[permaculture-principle-creatively-use-and-respond-to-change]]
+demonstrates [[permaculture-design-principles]]
 by transforming flat, featureless land into a diverse growing environment. It
-uses [[permaculture-principle-use-edges-and-value-the-marginal]] by creating
+uses [[permaculture-design-principles]] by creating
 numerous edges between the raised beds, the crater walls, and the central
 depression, all of which support different ecological niches. The design
-follows [[permaculture-principle-use-small-and-slow-solutions]] by working
+follows [[permaculture-design-principles]] by working
 with natural patterns of water flow and microclimate rather than fighting
 against them.

@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-A key finding from Bigwood and Beug (1982) is that [[psilocybin]] levels in [[psilocybe-cubensis]] showed no consistent upward or downward
+A key finding from Bigwood and Beug (1982) is that [[psilocybin-compound]] levels in [[psilocybe-cubensis]] showed no consistent upward or downward
 trend as fruiting progressed through multiple flushes. While individual flushes varied unpredictably by a factor of four, the overall
 psilocybin concentration at the final flush was generally comparable to the first flush. This stability contrasts sharply with [[psilocin]],
 which systematically accumulates over successive flushes. Understanding this divergent behavior is essential for predicting total alkaloid
@@ -143,6 +143,6 @@ flushes as weak may be throwing away material with higher total alkaloid content
 
 - [[psilocin-accumulation-pattern-across-flushes]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[psilocybin-psilocin-flush-variation]]
+- [[psilocybin-psilocin-flush-accumulation-patterns]]
 - [[psilocybin-psilocin-variation-flushes]]
 - [[psilocybe-cubensis-street-sample-potency-variability]]

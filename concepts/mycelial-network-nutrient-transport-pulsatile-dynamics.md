@@ -136,55 +136,6 @@ exploration followed by focused exploitation of discovered resources.
 ## Pulsatile Transport Discovery
 
 (Section content removed for length. See source for full details.)
-
-## Route-Switching Behavior
-
-In larger microcosms with wood-block inocula and sand substrata, researchers
-observed complex route-switching behavior over extended periods exceeding six weeks.
-Not all cords transported simultaneously.
-Some pre-existing cords showed no radiolabelled nutrient movement until triggered,
-then filled at a similar rate to the primary cord, acting as transport routes only
-transiently before signal declined.
-Other subsidiary cords showed multiple phases of transport, with some initiated
-synchronously with the main cord and others starting at later times.
-This dynamic rerouting of transport pathways suggests that the mycelial network
-actively manages its transport infrastructure in response to changing resource
-conditions.
-The ability to activate and deactivate transport routes provides resilience against
-damage, as alternative pathways can be rapidly brought online if primary routes are
-disrupted.
-The route-switching behavior also demonstrates that the network possesses a form of
-functional plasticity that allows it to optimize resource distribution as
-conditions change.
-
-## Centimetre to Metre Scale Network Analysis
-
-At the largest scale, researchers translated the morphological structures of fungal
-mycelia into graph-theoretic representations, with branch points or junctions as
-nodes and persistent cords as links.
-Tips have a degree of 1, while branch points typically have a degree of 3.
-This approach enables the application of network analysis tools including node
-degree, network diameter, mean shortest path, clustering coefficient, alpha index,
-beta index, and gamma index.
-Comparative analysis with generated test networks such as Delaunay triangulation,
-relative neighborhood graphs, and minimum spanning trees allows characterization of
-the efficiency and resilience of fungal transport networks.
-The fungal networks typically exhibit properties intermediate between these
-mathematical extremes, suggesting evolutionary optimization for balancing transport
-efficiency with robustness to damage and the ability to incorporate new resources.
-
-## Ecological Significance
-
-The ability of mycelial networks to dynamically redistribute nutrients, redirect
-transport routes, and synchronize pulsatile flow across domains has profound
-implications for forest ecosystem function.
-These networks effectively serve as biological distribution systems that can respond
-to resource heterogeneity on multiple timescales, from minutes for pulsatile flow to
-weeks for growth phase transitions and route-switching.
-Understanding these mechanisms is crucial for predicting how forest decomposition
-and nutrient cycling will respond to environmental changes including climate change,
-nitrogen deposition, and land-use modifications.
-
 ## See Also
 
 - [[decomposition]]

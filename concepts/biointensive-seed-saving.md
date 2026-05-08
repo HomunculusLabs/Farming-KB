@@ -92,7 +92,7 @@ Jeavons recommends dedicating approximately 5-10% of garden space to seed produc
 
 - [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
-- [[permaculture-seed-saving-and-selection]]
+- [[permaculture-design]]
 - [[root-vegetable-storage-guide]]
 
 ## Related

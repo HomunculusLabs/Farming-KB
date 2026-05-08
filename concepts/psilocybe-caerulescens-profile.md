@@ -11,7 +11,7 @@ type: concept
 # [[psilocybe-caerulescens-entity]] [[psilocybe-ovoideocystidiata-species-profile]]
 
 Psilocybe caerulescens Murrill, including the variety P. caerulescens var.
-mazatecorum Heim, is a moderately to highly potent [[psilocybin-mushroom-cultivation-basics]]
+mazatecorum Heim, is a moderately to highly potent [[mushroom-cultivation-fundamentals]]
 commonly known as "derrumbes" (landslide mushroom). It holds significant
 ethnobotanical importance as one of the probable candidates for the
 teonanacatl used by the Aztecs, alongside [[psilocybe-aztecorum-entity-the-mushroom-cultivator]].

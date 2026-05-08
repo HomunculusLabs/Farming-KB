@@ -147,5 +147,3 @@ seems like primitive conditions. Others encounter pronounced contamination
 levels and must invest in high technology controls. Each circumstance dictates
 an appropriate countermeasure. Whether one is a home cultivator or a spawn
 ## See Also
-
-- [[stamets-grain-sterilization-contamination-sources]]

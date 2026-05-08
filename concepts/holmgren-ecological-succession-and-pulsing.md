@@ -113,4 +113,4 @@ See also:, [[holmgren-permaculture-change-principle]], [[permaculture-fire-manag
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
 - [[holmgren-built-environment-energy-store]]
 - [[building-soil-fertility-long-term]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]

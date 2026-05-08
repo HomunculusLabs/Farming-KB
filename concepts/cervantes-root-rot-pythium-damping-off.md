@@ -117,7 +117,7 @@ broader disease management strategies.
 Pythium is the worst pathogen in hydroponic systems. It flourishes in
 stagnant, warm nutrient solution with low dissolved oxygen. See
 [[cervantes-reservoir-temperature-management]] for temperature
-control and [[cervantes-water-culture-systems]] for system design that
+control and [[cannabis-advanced-growing-techniques]] for system design that
 minimizes Pythium risk. Maintaining nutrient solution temperature
 below 75 degrees F and ensuring adequate aeration are the most
 effective preventive measures.

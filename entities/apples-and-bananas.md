@@ -112,7 +112,7 @@ The strain demonstrates moderate resistance to common cannabis pathogens includi
 
 ## Related
 
-- [[homestead-planning-and-zoning]]
+- homestead planning and zoning
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[cannabis-and-liver-cancer-research]]
 - [[cannabis-and-depression-research]]

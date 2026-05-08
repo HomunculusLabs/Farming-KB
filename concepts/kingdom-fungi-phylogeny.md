@@ -148,4 +148,3 @@ terrestrial environments and make life on Earth possible.
 
 - [[fungal-species-estimates-biodiversity-overview]] for species counts
 - [[fungal-biodiversity-forest-ecosystems]] for analytical approaches
-- [[urediniomycetes-rust-fungi-yeastlike-relatives]] for Urediniomycetes

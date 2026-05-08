@@ -113,7 +113,7 @@ intermediates) could eventually provide sufficient quantities for systematic pha
 ## See Also
 
 - [[mimosa-tenuiflora]]
-- [[N,N-dimethyltryptamine]]
+- [[n-n-dimethyltryptamine]]
 - [[harmine]]
 - [[harmaline]]
 - [[β-carbolines]]

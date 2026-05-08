@@ -89,7 +89,7 @@ Thawing permafrost releases massive quantities of organic carbon that have been 
 
 - [[psychrophilic-fungi]]
 - [[fungal-biodiversity-in-extreme-environments]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[dark-septate-endophytes]]
 - [[sequestrate-fungi-diversity]]
 - [[fungal-decomposition]]

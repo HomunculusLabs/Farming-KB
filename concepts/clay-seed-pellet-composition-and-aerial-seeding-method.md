@@ -10,7 +10,7 @@ type: concept
 
 # Clay Seed Pellet Composition and Aerial Seeding Method
 
-The clay seed pellet (sometimes called a "seed ball" or "tsuchi dango") is Masanobu Fukuoka's primary tool for large-scale revegetation and natural farming. It is a deceptively simple technology — clay, seeds, and organic matter formed into spheres — that solves several problems simultaneously: seed predation, moisture retention, germination triggering, and distribution logistics.
+The clay seed pellet (sometimes called a "seed ball" or "tsuchi dango") is [[masanobu-fukuoka]]'s primary tool for large-scale revegetation and [[natural-farming]]. It is a deceptively simple technology — clay, seeds, and organic matter formed into spheres — that solves several problems simultaneously: seed predation, moisture retention, germination triggering, and distribution logistics.
 
 Appendix B of "Sowing Seeds in the Desert" provides the technical details of pellet preparation.
 
@@ -53,7 +53,7 @@ Organic matter serves as the nutrient source and microbial inoculant for the ger
 
 Fukuoka recommended including soil from the target site in the organic matter component. This local soil carries the native microbial community — bacteria, fungi, actinomycetes — that are adapted to the local conditions and can form symbiotic relationships with the germinating seedlings.
 
-This is particularly important for mycorrhizal fungi, which form associations with tree roots and dramatically improve the seedling's ability to absorb water and nutrients.
+This is particularly important for [[mycorrhizal-fungi]], which form associations with tree roots and dramatically improve the seedling's ability to absorb water and nutrients.
 
 ## Pellet Formation Process
 
@@ -87,7 +87,7 @@ For large-scale operations, pellet production is typically scheduled to coincide
 
 ## Advantages Over Conventional Methods
 
-Compared to conventional tree planting with nursery-grown saplings, clay seed pellets offer several decisive advantages:
+Compared to conventional tree planting with nursery-grown saplings, [[clay-seed-pellets]] offer several decisive advantages:
 
 - **No nursery phase**: Seeds go directly from pellet preparation to field deployment, eliminating months of nursery care
 - **No irrigation**: Once distributed, pellets rely entirely on natural rainfall
@@ -126,5 +126,5 @@ The Japanese term "tsuchi dango" literally means "earth dumpling," reflecting th
 - [[clay-pellet-desert-revegetation]]
 
 - [[natural-farm-establishment-protective-forests-and-windbreaks]] for the broader revegetation methodology
-- [[fukuoka-greening-deserts|natural farming green desert concept]] for Fukuoka's global vision
+- [[fukuoka-natural-farming-philosophy]] for Fukuoka's global vision
 - fukuoka-natural-farming-philosophy for the philosophical foundation

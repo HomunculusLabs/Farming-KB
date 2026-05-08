@@ -85,7 +85,7 @@ PAHs that are strongly sorbed to organic matter or sequestered within soil aggre
 
 Surfactants, including both synthetic surfactants and microbial biosurfactants, can enhance PAH bioavailability by solubilizing sorbed PAHs into micellar phase.
 
-[[biosurfactants-in-bioremediation]] describes the production and application of biosurfactants for enhancing PAH bioavailability and degradation.
+[[bioremediation-using-fungi]] describes the production and application of biosurfactants for enhancing PAH bioavailability and degradation.
 
 Oxygen availability limits aerobic PAH degradation in saturated subsurface environments and in the interior of soil aggregates.
 

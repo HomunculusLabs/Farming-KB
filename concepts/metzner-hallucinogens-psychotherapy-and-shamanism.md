@@ -1,5 +1,5 @@
 ---
-title: "Metzner Hallucinogens Psychotherapy and Shamanism"
+title: "metzner hallucinogens psychotherapy and shamanism"
 created: 2026-04-28
 tags: [ralph-metzner, psychotherapy, shamanism, psychedelics, entheogen, set-and-setting, indigenous-healing, transpersonal, ritual]
 date: 2026-04-28
@@ -10,17 +10,17 @@ type: concept
 
 # Metzner Hallucinogens Psychotherapy and Shamanism
 
-Ralph Metzner published "Hallucinogenic Drugs and Plants in Psychotherapy and
+[[ralph-metzner]] published "[[hallucinogenic-drugs]] and Plants in Psychotherapy and
 Shamanism" in the Journal of Psychoactive Drugs in 1998. Drawing on over 35
 years of consciousness studies research, including his early work at Harvard
-with Timothy Leary and Richard Alpert, Metzner proposed a comparative framework
+with [[timothy-leary]] and [[richard-alpert]], Metzner proposed a comparative framework
 of four paradigms for understanding the use of psychoactive substances in
 healing and knowledge acquisition across Western and indigenous traditions.
 
 ## Terminology and Definitions
 
 Metzner used three terms interchangeably: "psychedelic" (mind-manifesting,
-coined by Humphrey Osmond and Aldous Huxley), "hallucinogenic" (from the Latin
+coined by Humphrey Osmond and [[aldous-huxley]]), "hallucinogenic" (from the Latin
 alucinare, "to wander in one's mind"), and "entheogen" (from R. Gordon Wasson
 and Jonathan Ott, meaning "releasing or expressing the divine within"). He
 noted that the scientific community largely adopted "hallucinogen" despite its
@@ -148,11 +148,3 @@ an experienced guide, the importance of set and setting, and the potential for
 healing and insight. The fundamental divergence lies in underlying cosmology:
 the Western paradigm operates within a single-material-reality framework where
 psychedelic experiences are understood as products of brain chemistry, while
-shamanic traditions perceive the beings and worlds encountered in visionary
-states as ontologically real.
-
-## See Also
-
-- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
-
-- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]

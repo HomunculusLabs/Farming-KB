@@ -109,7 +109,7 @@ morphological adaptations.
 - [[suillus-luteus]]
 - [[suillus-granulatus]]
 - [[laccaria-laccata]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[hydnellum-aurantiacum]]
 - [[phellodon-niger]]
 - [[paxillus-atrotomentosus]]

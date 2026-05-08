@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Terence McKenna proposed that the relationship between [[psilocybin]]-containing mushrooms and the evolution of human language was not merely incidental but causal. In "Food of the Gods," he argued that psilocybin's primary synergistic effect lies in the domain of language: it excites vocalization, empowers articulation, and can transmute language into something that is "visibly beheld." This theory positions the psilocybin mushroom as the catalyst that transformed primate vocalization into syntactic language, with profound consequences for human cognitive evolution.
+Terence McKenna proposed that the relationship between [[psilocybin-compound]]-containing mushrooms and the evolution of human language was not merely incidental but causal. In "Food of the Gods," he argued that psilocybin's primary synergistic effect lies in the domain of language: it excites vocalization, empowers articulation, and can transmute language into something that is "visibly beheld." This theory positions the psilocybin mushroom as the catalyst that transformed primate vocalization into syntactic language, with profound consequences for human cognitive evolution.
 
 ## The Core Thesis: Psilocybin as Linguistic Catalyst
 

@@ -48,7 +48,7 @@ The full diversity of Thailand's neurotropic fungi remains poorly known. Allen (
 - Psilocybe subaeruginascens var. subaeruginascens — shared with Japan in a remarkable disjunct distribution
 - Psilocybe subsecotioides — belonging to Section Zapotecorum, closely related to [[psilocybe-zapotecorum]] from the Americas and [[psilocybe-aucklandii]] from New Zealand
 - [[copelandia-tropicalis]] — a pantropical species
-- [[gymnopilus-spectabilis]] — widely distributed in the Asia-Pacific region
+- [[gymnopilus-spectabilis-entity]] — widely distributed in the Asia-Pacific region
 
 **Cambodia:**
 - [[copelandia-cambodginiensis]] — named for its Cambodian type locality, this species has since been found across tropical Southeast Asia

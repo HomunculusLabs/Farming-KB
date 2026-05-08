@@ -24,7 +24,7 @@ sources:
 
 # Serviceberry and Native Fruiting Shrubs
 
-Serviceberries (*Amelanchier* spp.) and other native fruiting shrubs are among the most versatile and underappreciated plants in permaculture design. They provide edible fruit, ornamental beauty, pollinator forage, wildlife habitat, and soil stabilization — often simultaneously. This guide covers serviceberries in depth and surveys related native fruiting shrubs suitable for food forests, hedgerows, and edible landscaping across North America.
+Serviceberries (*Amelanchier* spp.) and other native fruiting shrubs are among the most versatile and underappreciated plants in [[permaculture-design-course-notes]]. They provide edible fruit, ornamental beauty, pollinator forage, wildlife habitat, and soil stabilization — often simultaneously. This guide covers serviceberries in depth and surveys related native fruiting shrubs suitable for food forests, hedgerows, and edible landscaping across North America.
 
 ## Amelanchier: The Serviceberry Genus
 
@@ -50,7 +50,7 @@ The name "serviceberry" comes from early colonial observations that the plant's 
 
 Serviceberries are among the earliest spring bloomers, producing showy white five-petaled flowers in pendulous clusters before or concurrent with leaf-out. This early bloom makes them critical nectar sources for emerging native bees, especially mining bees (*Andrena* spp.) and mason bees (*Osmia* spp.). Fruits ripen from June through August depending on species and latitude, progressing from green to red to dark purple-black when fully ripe.
 
-The plants are adaptable to a wide range of soil conditions, from sandy loams to clay, and tolerate pH from 5.0 to 7.5. They are moderately drought-tolerant once established but perform best with consistent moisture. Most species are understory-adapted and tolerate partial shade, though fruit production is heaviest in full sun.
+The plants are adaptable to a wide range of soil conditions, from sandy loams to clay, and tolerate pH from 5.0 to 7.5. They are moderately [[drought-tolerant-planting-design]] once established but perform best with consistent moisture. Most species are understory-adapted and tolerate partial shade, though fruit production is heaviest in full sun.
 
 Root systems are fibrous and relatively shallow, making them compatible with interplanting. *A. stolonifera* spreads by stolons and can form thickets, useful for erosion control on banks and slopes.
 
@@ -74,7 +74,7 @@ Root systems are fibrous and relatively shallow, making them compatible with int
 
 ### Cultivation
 
-**Site selection:** Full sun to partial shade (minimum 6 hours direct sun for best fruiting). Well-drained soil preferred; avoid waterlogged sites. Tolerant of urban conditions, air pollution, and a range of soil types.
+**Site selection:** Full sun to partial shade (minimum 6 hours direct sun for best fruiting). Well-drained soil preferred; avoid waterlogged sites. Tolerant of urban conditions, [[air-pollution-fungal-community-responses]], and a range of soil types.
 
 **Planting:** Plant in spring or early fall. Dig a hole twice the root ball width but no deeper than the root flare. Space 6–12 feet apart for hedgerows, 12–20 feet for specimen trees. Water deeply at planting and mulch with 2–3 inches of wood chips or shredded bark, keeping mulch away from the trunk.
 
@@ -102,7 +102,7 @@ Serviceberries are versatile in the kitchen:
 - Jams, jellies, and preserves (natural pectin content is moderate)
 - Dried fruit (excellent as raisin substitute)
 - Wine, mead, and cider
-- Pemmican (traditional Indigenous preparation with dried meat and fat)
+- Pemmican ([[traditional-indigenous-use-sacred-fungi]] preparation with dried meat and fat)
 - Smoothies, sorbets, and ice cream
 - Serviceberry syrup (similar to maple-blueberry)
 
@@ -130,7 +130,7 @@ Nutritionally, serviceberries are rich in antioxidants (anthocyanins, quercetin)
 
 Serviceberries excel in multiple permaculture roles:
 
-**Food forest canopy layers:** Larger species (*A. laevis*, *A. canadensis*) serve as understory trees between the shrub and canopy layers. Smaller species (*A. alnifolia*, *A. stolonifera*) fill the shrub layer.
+**[[food-forest-establishment]] canopy layers:** Larger species (*A. laevis*, *A. canadensis*) serve as understory trees between the shrub and canopy layers. Smaller species (*A. alnifolia*, *A. stolonifera*) fill the shrub layer.
 
 **Edible hedgerows:** Saskatoon serviceberries are ideal for hedgerow plantings, providing fruit, privacy screening, wildlife habitat, and windbreak function. Space 4–6 feet apart in a staggered double row.
 
@@ -226,7 +226,7 @@ Thicket-forming native plum reaching 15–25 feet. Produces small red or yellow 
 
 ### Beach Plum (*Prunus maritima*)
 
-Coastal native shrub (4–8 feet) producing purple fruit in late summer. Extremely salt-tolerant and sand-adapted. Zones 3–8. Fruit makes excellent jelly and preserves. Valuable for coastal permaculture, dune stabilization, and salt-spray hedgerows. Requires well-drained sandy soil; intolerant of heavy clay or poor drainage.
+Coastal native shrub (4–8 feet) producing purple fruit in late summer. Extremely [[salt-tolerant-fodder-species]] and sand-adapted. Zones 3–8. Fruit makes excellent jelly and preserves. Valuable for [[coastal-permaculture-design-mollison]], dune stabilization, and salt-spray hedgerows. Requires well-drained sandy soil; intolerant of heavy clay or poor drainage.
 
 ---
 
@@ -304,5 +304,5 @@ For a 30-foot linear edible hedgerow in Zones 4–6:
 - **Saskatoon Berry Institute of North America:** saskatoonberryinstitute.org — Commercial production guides
 - **Cornell Berry Crops:** fruit.cornell.edu/berry — Research-based cultivation information
 - **North American Native Plant Society:** nanps.org — Conservation and native plant gardening resources
-- **Toensmeier, Eric.** *Perennial Vegetables* and *Edible Forest Gardens* (Chelsea Green) — Comprehensive permaculture plant references
+- **Toensmeier, Eric.** *Perennial Vegetables* and *Edible Forest Gardens* (Chelsea Green) — Comprehensive [[permaculture-plant-stacking-vertical-guilds]] references
 - **Dirr, Michael.** *Manual of Woody Landscape Plants* (Stipes Publishing) — Definitive woody plant identification and cultivation reference

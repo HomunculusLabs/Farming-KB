@@ -5,14 +5,14 @@ tags: [soil-science, microorganisms, nitrogen-fixing, mycorrhiza, natural-farmin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Masanobu Fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and pine rot"
+  - "[[masanobu-fukuoka]], The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and pine rot"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
 type: concept
 ---
 
 # Soil Microorganisms and Natural Fertility
 
-Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why natural farming can produce high yields without fertilizers, tillage, or pesticides, and why conventional farming practices that destroy microbial communities create the very problems they then attempt to solve with chemical inputs.
+Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[natural-farming]] can produce high yields without fertilizers, tillage, or pesticides, and why conventional farming practices that destroy microbial communities create the very problems they then attempt to solve with chemical inputs.
 
 ## The Living Soil
 
@@ -52,7 +52,7 @@ Nitrogen-fixing bacteria are among the most important soil microorganisms for ag
 
 ### Legume-Rhizobium Symbiosis
 
-Leguminous plants such as clover, alfalfa, beans, peas, and acacias form symbiotic relationships with Rhizobium bacteria. The bacteria colonize root nodules, where they receive carbohydrates from the plant and in return supply fixed nitrogen. This is why ladino clover, alfalfa, and black wattle are central to Fukuoka's farming system. A healthy clover cover can fix enough nitrogen to sustain both the cover crop and the companion grain or fruit trees.
+Leguminous plants such as clover, alfalfa, beans, peas, and acacias form symbiotic relationships with Rhizobium bacteria. The bacteria colonize root nodules, where they receive carbohydrates from the plant and in return supply fixed nitrogen. This is why ladino clover, alfalfa, and black wattle are central to Fukuoka's farming system. A healthy clover cover can fix enough nitrogen to sustain both the [[cover-crop]] and the companion grain or fruit trees.
 
 ### Free-Living Nitrogen Fixers
 
@@ -62,7 +62,7 @@ Beyond the well-known legume symbiosis, free-living nitrogen-fixing bacteria in 
 
 ### The Matsutake Pine Connection
 
-Fukuoka's investigation of the red pine dieback epidemic across Japan revealed the critical importance of mycorrhizal fungi. The matsutake mushroom (Tricholoma matsutake) lives symbiotically on the roots of red pines, forming a mycorrhizal association that benefits both organisms. When the matsutake died due to increasing soil acidity and proliferation of harmful molds, the red pines lost their symbiotic partner and became vulnerable to nematode infestation and pathogenic fungi.
+Fukuoka's investigation of the red pine dieback epidemic across Japan revealed the critical importance of [[mycorrhizal-fungi]]. The [[matsutake-mushroom]] ([[tricholoma-matsutake]]) lives symbiotically on the roots of red pines, forming a mycorrhizal association that benefits both organisms. When the matsutake died due to increasing soil acidity and proliferation of harmful molds, the red pines lost their symbiotic partner and became vulnerable to nematode infestation and pathogenic fungi.
 
 ### How Mycorrhizae Function
 
@@ -146,7 +146,5 @@ The success of soil restoration can be observed directly: earthworms return, soi
 
 ## See Also
 
-- [[natural-farming-four-principles]]: How the principles protect and promote soil microbial life
+- [[korean-natural-farming-and-jadam]]: How the principles protect and promote soil microbial life
 - [[no-till-rice-winter-grain-succession]]: The farming system that maintains soil biology
-- [[natural-orchard-management]]: Building soil fertility under fruit trees with ground covers
-- [[clay-pellet-seed-broadcasting]]: How clay pellets carry beneficial microorganisms to new sites

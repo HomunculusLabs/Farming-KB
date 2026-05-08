@@ -1,5 +1,5 @@
 ---
-title: "Cereal Milk"
+title: "cereal milk"
 created: 2026-04-28
 type: strain
 tags:
@@ -19,14 +19,13 @@ sources:
     Weedmaps News, 2022.
   - AllBud. "Cereal Milk Marijuana Strain." allbud.com, 2023.
 ---
-
 # Cereal Milk
 
 ## Overview
 
-Cereal Milk is a balanced hybrid cannabis strain bred by Cookies Fam
-Genetics, crossing **Y-Life** (Girl Scout Cookies × Cherry Pie) with
-**Snowman** (a selected Thin Mint Cookies phenotype). Released in the
+Cereal Milk is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Cookies Fam
+Genetics, crossing **Y-Life** (Girthin-mint-cookies]] Cherry Pie) with
+**Snowman** (a selected [[thin-mint-cookies]] phenotype). Released in the
 late 2010s, it gained commercial popularity for its unique flavor
 profile combining sweet, creamy dessert notes with a subtle fruity
 cereal-like quality.
@@ -39,7 +38,7 @@ recreational and therapeutic use.
 
 **Parent Cross:** Y-Life × Snowman
 
-- **Y-Life:** Girl Scout Cookies × Cherry Pie
+- **Y-Life:** [[girl-scout-cookies]] × Cherry Pie
 - **Snowman:** Thin Mint Cookies (selected phenotype)
 
 The genetic foundation is heavily Cookies-dominant, inheriting dense
@@ -136,7 +135,7 @@ LST, scrog, and topping to maximize light penetration.
   hybrid expression
 - **Cereal Milk BX1:** Backcrossed version with enhanced stability
   and resin production
-- **Cinnamon Milk:** Cereal Milk × Cinnamon Toast Crunch cross
+- **Cinnamon Milk:** Cereal Milk × [[cinnamon-toast-crunch]] cross
 - **Cereal Milk Breath:** Cereal Milk × Mendo Breath cross, heavier
   indica expression
 
@@ -147,9 +146,3 @@ LST, scrog, and topping to maximize light penetration.
 **Uncommon:** Anxiety at high doses (less common than other
 Cookies-family strains due to balanced terpene profile), mild
 paranoia in sensitive individuals, dizziness on standing.
-
-## See Also
-
-- [[smut-fungi-grass-cereal-parasites]]
-- [[girl-scout-cookies]]
-- [[mendo-breath]]

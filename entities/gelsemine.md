@@ -111,12 +111,12 @@ In the United States, *Gelsemium sempervirens* extracts are available as dietary
 ## See Also
 
 - [[gelsemium-sempervirens]]
-- [[muscimol]]
-- [[ergine]]
+- [[muscimol-entity]]
+- [[ergine-entity]]
 - [[ibotenic-acid]]
 - [[ibogaine]]
-- [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[harmine]]
-- [[voacangine]]
-- [[myristicin]]
+- [[voacangine-entity]]
+- [[myristicin-entity]]
 - [[bufotenin]]

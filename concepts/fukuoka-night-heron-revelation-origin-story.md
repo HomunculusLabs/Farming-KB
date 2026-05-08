@@ -80,7 +80,7 @@ acres of mandarin orange trees withered and died.
 This was a critical distinction that shaped all his later work. "My conviction was that crops grow
 themselves and should not have to be grown. I had acted in the belief that everything should be
 left to take its natural course, but I found that if you apply this way of thinking all at once,
-before long things do not go so well. This is abandonment, not [[natural-farming-philosophy-of- mu|natural farming]]."
+before long things do not go so well. This is abandonment, not [[natural-farming-philosophy-of-mu|natural farming]]."
 
 The failure taught him that [[natural-farming-philosophy-of-mu|mu]] was not mere laziness or
 neglect but required deep understanding of natural processes. He had to learn which interventions
@@ -92,7 +92,7 @@ decades of patient observation and incremental simplification.
 Fukuoka's father, who was village headman, urged him to take a job. Fukuoka accepted a post as
 Head Researcher of Disease and Insect Control at the Kochi Prefecture Testing Centre, where he
 served for nearly eight years during World War II. He worked on increasing wartime food
-productivity while simultaneously pondering the relationship between scientific and [[natural- farming-vs-organic-vs-conventional|natural agriculture]].
+productivity while simultaneously pondering the relationship between scientific and [[natural-farming-vs-organic-vs-conventional|natural agriculture]].
 
 It was during this period that he conducted the famous stem borer experiment: an untreated field
 with many withered stalks produced a higher yield than a sprayed field. The stem borers had
@@ -110,7 +110,7 @@ of silkworm as exquisite.
 ## Return to Farming and Evolution Through Subtraction
 
 When the war ended, Fukuoka felt "a fresh breeze of freedom" and returned to his home village to
-take up farming anew. He wiped out another 400 citrus trees before arriving at the [[fukuoka- textdoc-attaining-natural-form-fruit-trees|natural form]] for fruit trees. He learned that trees
+take up farming anew. He wiped out another 400 citrus trees before arriving at the [[fukuoka-textdoc-attaining-natural-form-fruit-trees|natural form]] for fruit trees. He learned that trees
 weaken and are attacked by insects to the extent that they deviate from their natural form. If
 trees are gradually corrected, they return approximately to their natural form and become
 stronger, making insect control unnecessary.
@@ -135,7 +135,7 @@ revolution could begin."
 The night heron revelation established the core paradox of Fukuoka's life: that true understanding
 begins with recognizing that humanity knows nothing. This was not nihilism but a gateway to
 perceiving nature directly, without the distortion of intellectual analysis. The experience
-parallels Buddhist enlightenment concepts and informed everything from his [[fukuoka-natural-diet- theory|dietary philosophy]] to his critique of modern [[fukuoka-critique-soil- cultivation|scientific agriculture]].
+parallels Buddhist enlightenment concepts and informed everything from his [[fukuoka-natural-diet-theory|dietary philosophy]] to his critique of modern [[fukuoka-critique-soil-cultivation|scientific agriculture]].
 
 Fukuoka always insisted that others should not imitate him but simply live in nature and apply
 themselves to their daily work. He described himself as "just an old crow" and maintained that

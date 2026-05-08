@@ -147,5 +147,3 @@ siderophore production occurs only when needed.
 
 - [[mycorrhizal-siderophores-iron-acquisition]]
 - [[mycorrhizal-siderophores-iron-chelation]]
-
-- [[mycorrhiza-nutrient-exchange]]

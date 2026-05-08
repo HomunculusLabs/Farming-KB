@@ -114,12 +114,12 @@ The compound is also structurally related to DMT itself and to endogenous trace 
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[dmt]]
 - [[4-ho-met]]
 - [[4-aco-dmt]]
 - [[bufotenin]]
-- [[muscimol]]
+- [[muscimol-entity]]
 - [[lsd]]
 - [[5-meo-dmt]]
 - [[harmine]]

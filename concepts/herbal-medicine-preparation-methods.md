@@ -112,7 +112,7 @@ Water-based preparations are best for daily tonics, gentle support, and when rap
 
 - [[withania-somnifera]]
 
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[passiflora-incarnata]]
 - [[herbal-medicine-making-basics]]
 - [[herbal-tinctures-guide]]

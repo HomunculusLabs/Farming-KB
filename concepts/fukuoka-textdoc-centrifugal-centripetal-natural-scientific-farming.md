@@ -120,7 +120,7 @@ consistent.
 
 - [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
 
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

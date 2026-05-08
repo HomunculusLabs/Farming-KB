@@ -129,6 +129,6 @@ Northern Lights is arguably the **single most influential strain** in modern can
 - [[white-widow-cannabis]] — Iconic balanced hybrid from the same era, often grown alongside NL
 - [[jack-herer-cannabis-strain]] — Northern Lights #5 offspring, sativa-dominant legend
 - [[girl-scout-cookies]] — Modern hybrid with Afghani lineage traced to Northern Lights
-- [[blue-dream-cannabis]] — Blueberry × NL cross, one of the most popular modern hybrids
+- [[blue-dream-strain]] — Blueberry × NL cross, one of the most popular modern hybrids
 - [[ak-47-cannabis]] — Sativa-dominant strain with different effect profile for comparison
 - [[granddaddy-purple]] — Purple indica for contrasting color and terpene profile

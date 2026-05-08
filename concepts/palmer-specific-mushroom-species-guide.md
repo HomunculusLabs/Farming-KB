@@ -148,4 +148,3 @@ are excellent cooked either way.
 - [[palmer-mushroom-anatomy-and-structure]]
 - [[palmer-mushroom-taxonomy-classification-system]]
 - [[palmer-about-mushrooms-edible-species-identification]]
-- [[palmer-mushroom-cooking-culinary-uses]]

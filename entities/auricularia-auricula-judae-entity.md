@@ -119,7 +119,7 @@ Not threatened; common and widespread. Rated as Least Concern by most regional a
 
 - [[auricularia-auricula-judae]]
 - [[tremella-mesenterica]]
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 - [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
 - [[agaricus-bisporus]]

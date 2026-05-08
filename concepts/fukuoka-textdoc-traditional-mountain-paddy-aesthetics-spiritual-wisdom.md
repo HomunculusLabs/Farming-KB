@@ -148,8 +148,3 @@ approach to agriculture.
 - [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
-- [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
-- [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
-- [[masanobu-fukuoka]]

@@ -148,4 +148,3 @@ management strategies for high-value horticultural crops.
 ## See Also
 
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
-- [[mycorrhizal-pathogen-resistance]]

@@ -136,57 +136,6 @@ Composted wood chips are wood chips that have undergone a controlled aerobic dec
 ### Vegetable Gardens (Annual Beds)
 
 **Winner: Composted wood chips.**
-
-Annual vegetables have shallow, fast-growing root systems that need readily available nutrients. Composted chips provide immediate fertility without nitrogen drawdown. Ramial chips can be used as a surface mulch around established transplants but should not be tilled in.
-
-### Orchards and Food Forests
-
-**Winner: Ramial wood chips.**
-
-Perennial tree crops benefit enormously from the fungal-dominant food web that ramial chips promote. The slow mineral release, moisture conservation, and mycorrhizal support are ideal for deep-rooted woody perennials. Many experienced orchardists use ramial chips exclusively.
-
-### Pathways and General Mulching
-
-**Winner: Tie — depends on goals.**
-
-Ramial chips are better for long-term soil building under pathways. Composted chips provide a more finished, uniform appearance and won't harbor slugs as readily. For purely aesthetic mulching, composted chips win.
-
-### Raised Beds and Container Growing
-
-**Winner: Composted wood chips.**
-The fine, stable texture of composted chips integrates well with soil mixes. Ramial chips are too coarse and actively decomposing for containers.
-
-### Erosion Control on Slopes
-
-**Winner: Ramial wood chips.**
-The larger particle size and interlocking structure of fresh chips grip soil better and last longer before decomposing.
-
-### Restoring Degraded Soil
-
-**Winner: Ramial wood chips for fungal restoration; composted chips for quick organic matter addition.**
-
-Use ramial chips to jumpstart fungal communities and rebuild soil structure from the top down. Use composted chips for immediate organic matter and nutrient boost. Many practitioners use both — composted chips incorporated, ramial chips on surface.
-
----
-
-## Can You Combine Both Approaches?
-
-Absolutely — and many experienced growers do. A common strategy:
-1. **Base layer**: Apply 5–10 cm of composted wood chips (or compost) and lightly incorporate into the top few centimeters of soil.
-2. **Top layer**: Apply 5–10 cm of fresh ramial wood chips on top as a surface mulch.
-3. **Result**: Immediate fertility from the compost layer, ongoing fungal stimulation and mineral cycling from the ramial layer, plus moisture conservation and weed suppression from both.
-
-This layered approach combines the strengths of both materials and is particularly effective for establishing new orchards, food forests, or perennial polycultures.
-
----
-
-## Summary
-
-Ramial wood chips and composted wood chips are complementary tools, not competing alternatives. Ramial chips excel at building fungal-dominant soil biology, cycling minerals from woody waste, and providing long-term mulch benefits for perennials. Composted chips provide immediate fertility, balanced biology, and versatile application for annuals and general soil improvement. The best approach is often to use both — compost for quick results and ramial chips for long-term soil health.
-
-*For perennial systems, start with ramial wood chips. For annual beds and quick fertility, use composted wood chips. For the best of both worlds, layer them.*
-
-- [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
 ## See Also
 
 - [[ramial-chipped-wood]]

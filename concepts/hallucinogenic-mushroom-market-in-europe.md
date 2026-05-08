@@ -58,7 +58,7 @@ Most online shops offered international shipping but advised customers to verify
 
 Hallucinogenic mushrooms are widely known as "magic mushrooms" in English-speaking contexts. Regional slang includes "paddos" in the Netherlands, "shrooms" in the UK, and "Zauberpilze" in Germany. Additional English terms include mush, mushies, boomers, cubes, liberty caps, caps, philosopher's stone, sacred mushrooms, and teonanacatl (the Aztec name meaning "divine flesh").
 
-The late 1990s commercialization through smartshops introduced new product labels. "Philosopher's stone" was adopted for the sclerotia of [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]. Mushrooms were also marketed under the broader "Herbal highs" category alongside products like herbal ecstasy and [[salvia-divinorum]], capitalizing on consumer preference for natural and organic products.
+The late 1990s commercialization through smartshops introduced new product labels. "Philosopher's stone" was adopted for the sclerotia of [[psilocybe-mexicana]] and [[psilocybe-tampanensis-entity]]. Mushrooms were also marketed under the broader "Herbal highs" category alongside products like herbal ecstasy and [[salvia-divinorum]], capitalizing on consumer preference for natural and organic products.
 
 ## Wild Mushroom Collection
 
@@ -120,7 +120,7 @@ Several converging factors drove the expansion of the European hallucinogenic mu
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Concepts
 
 - [[psilocybe-cubensis]] - the most commonly marketed species
-- [[psilocybin]] - the primary active compound in market mushrooms
+- [[psilocybin-compound]] - the primary active compound in market mushrooms
 - [[amanita-muscaria]] - the legal alternative that replaced banned mushrooms
 - [[psilocybe-mexicana]] - species whose sclerotia were marketed as philosopher's stones
 - [[salvia-divinorum]] - another product sold in herbal highs markets

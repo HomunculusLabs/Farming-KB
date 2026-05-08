@@ -80,7 +80,7 @@ See also: [[teaming-with-microbes-compost-mulch-tea]]
 - [[teaming-with-microbes-compost-mulch-tea]]
 - [[soil-food-web]]
 - [[bacterial-to-fungal-soil-succession]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 
 ## Merged: Earthworms and Vermicastings - Teaming with Microbes
 Earthworms are among the most visible and important members of the [[soil-food-web]]. Charles Darwin studied them extensively and argued that every particle of soil has passed through a worm at least once. Soils with large worm populations are typically bacterially dominated. - [[soil-food-web]] - [[soil-compaction-solutions-ingham]] - [[teaming-with-microbes-protozoa]] - [[mulching-guide]] - [[vermicomposting]]

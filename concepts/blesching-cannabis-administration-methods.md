@@ -141,17 +141,6 @@ Rectal administration offers a middle ground between oral and inhaled
 routes:
 
 - **Onset**: 15-45 minutes
-- **Bioavailability**: 50-70%, the highest of all methods due to rich
-  rectal venous blood supply and partial bypass of hepatic first-pass
-  metabolism
-- **Duration**: 4-8 hours
-- **Advantages**: Highest bioavailability of any method; no lung exposure;
-  avoids first-pass metabolism for approximately 50-70% of absorbed dose;
-  suitable for patients who cannot take oral medications (nausea, vomiting,
-  post-surgical); minimal psychoactive effects at typical doses
-- **Considerations**: Social acceptability barriers; requires preparation
-  or commercial suppositories; absorption can be variable; limited
-
 ## See Also
 
 - [[cannabis-health-index]] — scoring system for condition-strain matching

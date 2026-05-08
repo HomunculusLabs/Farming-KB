@@ -140,7 +140,7 @@ benchmark against which all other pure sativas are measured.
 - [[sour-diesel]]
 - [[amnesia-haze]]
 - [[jack-herer]]
-- [[thai-stick]]
+- [[thai-stick-entity]]
 - [[cannabis-sativa]]
 
 ## References
@@ -148,4 +148,3 @@ benchmark against which all other pure sativas are measured.
 1. Clarke, R.C. *Marijuana Botany: An Advanced Study*. And/Or Press, 1981.
 2. Clarke, R.C. & Merlin, M.D. (2013). *Cannabis: Evolution and Ethnobotany*.
    University of California Press.
-3. Small, E. (2017). *Cannabis: A Complete Guide*. CRC Press.

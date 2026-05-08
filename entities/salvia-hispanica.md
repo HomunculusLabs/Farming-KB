@@ -112,7 +112,7 @@ The crop fits well in rotation with legumes and cereals in tropical farming syst
 - [[ocimum-basilicum]]
 - [[nepeta-cataria]]
 - [[mentha-piperita]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[robinia-pseudoacacia]]
 - [[tithonia-diversifolia]]
 - amaranthus caudatus

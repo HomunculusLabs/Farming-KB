@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 # Psychedelic Mushroom Decriminalization
 ## Overview
@@ -119,5 +120,5 @@ The US movement has inspired reform efforts worldwide:
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[psychedelic-mushroom-set-and-setting]]
 - [[psychedelic-mushroom-dosage-guide]]
-- [[psychedelic-mushroom-music-and-culture]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-taxonomy]]

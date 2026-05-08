@@ -137,7 +137,7 @@ considerations include:
 | [[jack-herer]] | More complex spice/pine flavor; slightly more cerebral |
 | [[super-lemon-haze]] | Stronger lemon terpene profile; comparable energy |
 | [[amnesia-haze]] | Longer flowering; more potent but similar sativa character |
-| [[durban-poison]] | Pure landrace sativa; more focused, less euphoric |
+| [[cannabis-indoor-growing-guide]] | Pure landrace sativa; more focused, less euphoric |
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: "Strobilomyces strobilaceus"
+title: "strobilomyces strobilaceus"
 created: 2026-04-28
 type: species
 tags:
@@ -20,28 +20,27 @@ sources:
   - Binder, M. & Bresinsky, A. (2002). "Derivation of a Polymorphic Genus of Strobilomycetaceae." Mycologia, 94(1), 30–41.
   - Kuo, M. (2023). "Strobilomyces strobilaceus." MushroomExpert.com.
 ---
-
 ## Overview
 
-Strobilomyces strobilaceus, commonly known as Old Man of the Woods, is a
+Strobilomyces strobilaceus, commonly known as Old Man of [[chicken-of-the-woods]], is a
 distinctive bolete mushroom recognized by its dark, shaggy cap that
 resembles a mature pinecone.
 
 It is an ectomycorrhizal species found in deciduous and mixed forests
-across temperate regions of North America, Europe, and East Asia.
+across temhuckleberries-and-wild-berries-of-north-americaf [[palmer-edible-mushrooms-north-america]], Europe, and East Asia.
 
-The species is edible when thoroughly cooked, with a mild flavor, and
+The species is edible when thorouquery-how-to-process-acorns-for-foodked, with a mild flavor, and
 is collected for food in parts of China, Japan, and eastern Europe.
 
 S. strobilaceus is the type species of the genus Strobilomyces, a small
-genus of boletes characterized by dark, ornamented spores and scaly or
+genuallegro-[[canaanite-religion-and-mushroom-symbolism]]-and-the-mushroom]] characterized by dark, ornamented spores and scaly or
 fibrous caps.
 
-The mushroom is easily recognized in the field by its unique appearance,
+[[allegro-canaanite-religion-and-the-mushroom]] is easily recognized in the field by its unique appearance,
 making it one of the few boletes identifiable without microscopic
 examination.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:** Fungi > Basidiomycota > Boletales > Boletaceae >
 Strobilomyces > S. strobilaceus
@@ -76,17 +75,17 @@ when exposed to air.
 brown, with prominent longitudinal ridges forming a reticulate or
 striate ornamentation — distinctive within the Boletaceae.
 
-**Spore print:** Dark brown to black.
+**[[spore-print]]:** Dark brown to black.
 
 ## Distribution and Habitat
 
 Strobilomyces strobilaceus has a wide distribution across temperate
 regions of the Northern Hemisphere.
 
-In North America, it occurs from eastern Canada south to Florida and
+[[neurotropic-fungi-in-north-america]], it occurs from eastern Canada south to Florida and
 west to the Great Plains, fruiting from July through October.
 
-In Europe, it is found across the continent from Scandinavia to the
+[[hallucinogenic-mushroom-market-in-europe]], it is found across the continent from Scandinavia to the
 Mediterranean, associated with oak, beech, and hornbeam forests.
 
 East Asian populations are documented in China, Japan, and Korea, where
@@ -117,7 +116,7 @@ as "baran grzyb" (mushroom ram) in Polish tradition.
 The mushroom must be thoroughly cooked before consumption — raw or
 undercooked specimens may cause mild gastrointestinal upset.
 
-Some field guides caution that the dark pore surface and blackish
+Some fiel [[spore-print-collection-spore-mass-inoculation]] ution that the dark pore surface and blackish
 spore print may deter novices, but the distinctive pinecone-like cap
 makes misidentification with toxic species unlikely.
 
@@ -148,11 +147,3 @@ photosynthetically fixed carbon.
 The species contributes to forest nutrient cycling through
 decomposition of organic matter and serves as a food source for
 mammals, insects, and slugs.
-
-## See Also
-
-- [[mushroom-cultivation]]
-
-- [[mushroom-identification]]
-
-- [[spore-print]]

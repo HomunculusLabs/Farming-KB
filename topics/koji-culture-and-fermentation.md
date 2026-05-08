@@ -13,7 +13,7 @@ sources:
 
 # Koji Culture and Fermentation
 
-Koji (麹) is one of humanity's most important and ancient fermentation cultures — a living cornerstone of East Asian cuisine that transforms raw grains and legumes into an extraordinary range of foods, seasonings, and beverages. At its heart, koji is **inoculated grain** cultivated with the mold *Aspergillus oryzae* (or the closely related *A. sojae*), which produces a rich arsenal of enzymes — primarily proteases, amylases, and lipases — that break down starches into sugars, proteins into amino acids, and fats into aromatic compounds.
+Koji (麹) is one of humanity's most important and ancient fermentation cultures — a living cornerstone of East Asian cuisine that transforms raw grains and legumes into an extraordinary range of foods, seasonings, and beverages. At its heart, koji is **inoculated grain** cultivated with the mold *[[aspergillus-oryzae]]* (or the closely related *A. sojae*), which produces a rich arsenal of enzymes — primarily proteases, amylases, and lipases — that break down starches into sugars, proteins into amino acids, and fats into aromatic compounds.
 
 ## Introduction and History
 
@@ -39,13 +39,13 @@ In 2006, the Brewing Society of Japan completed the genome sequencing of *Asperg
 
 ### Aspergillus oryzae
 
-*Aspergillus oryzae* is a filamentous ascomycete fungus belonging to the section *Flavi* of the genus *Aspergillus*. It is a **non-toxigenic, food-grade mold** that has been used safely in food fermentation for millennia. Key biological characteristics:
+*Aspergillus oryzae* is a filamentous ascomycete fungus belonging to the section *Flavi* of the genus *Aspergillus*. It is a **non-toxigenic, food-grade mold** that has been used safely in [[food-fermentation-guide]] for millennia. Key biological characteristics:
 
 - **Growth form**: Produces a white, cottony mycelium that spreads across and through the substrate. With age and sporulation, it develops yellow-green conidiospores (spores) on conidiophores.
 - **Optimal growth temperature**: 30–35°C (86–95°F)
 - **Optimal humidity**: 80–95% relative humidity
 - **pH range**: Tolerates pH 4.0–8.0, with optimal enzyme activity around pH 5.0–6.0
-- **Water activity (a_w)**: Requires a_w above 0.90 for growth; enzyme production peaks at a_w 0.95–0.98
+- **[[water-activity-osmophilic-fungal-media-preparation]] (a_w)**: Requires a_w above 0.90 for growth; enzyme production peaks at a_w 0.95–0.98
 
 ### Aspergillus sojae
 
@@ -75,13 +75,13 @@ The balance of these enzymes varies significantly between koji strains, which is
 
 ### Safety and Gras Status
 
-*Aspergillus oryzae* holds GRAS (Generally Recognized As Safe) status from the US FDA and is approved for food use worldwide. It is important to distinguish it from its close relative *Aspergillus flavus*, which can produce aflatoxins — potent carcinogens. While both belong to the same taxonomic section, *A. oryzae* has lost the ability to produce aflatoxins during its long history of domestication. Commercially sourced koji-kin is guaranteed to be non-toxigenic, and visual inspection of home-grown koji (it should be white with a sweet, chestnut-like aroma — never yellow-orange with a musty smell) provides an additional safety check.
+*Aspergillus oryzae* holds GRAS (Generally Recognized As Safe) status from the US FDA and is approved for food use worldwide. It is important to distinguish it from its close relative *[[aspergillus-flavus]]*, which can produce aflatoxins — potent carcinogens. While both belong to the same taxonomic section, *A. oryzae* has lost the ability to produce aflatoxins during its long history of domestication. Commercially sourced koji-kin is guaranteed to be non-toxigenic, and visual inspection of home-grown koji (it should be white with a sweet, chestnut-like aroma — never yellow-orange with a musty smell) provides an additional safety check.
 
 ## Cultivation Methods
 
 ### Traditional Koji-Making
 
-Traditional Japanese koji cultivation (*seigiku* or *koji-zukuri*) takes place in a purpose-built room called a *koji muro*. These rooms are designed for precise environmental control:
+Traditional Japanese koji cultivation (*seigiku* or *koji-zukuri*) takes place in a purpose-built room called a *koji muro*. These rooms are designed for precise [[environmental-control-mushroom-growing]]:
 
 - **Walls**: Traditionally earthen walls (tsuchikabe) that absorb and release moisture, buffering humidity fluctuations
 - **Floors**: Wooden platforms with adjustable height for temperature stratification
@@ -165,7 +165,7 @@ Soybean koji is used for making miso and some types of shoyu. The large protein 
 4. Drain thoroughly; spread on a clean surface to cool and evaporate surface moisture
 5. Cool to 35°C before inoculation
 
-Soybean koji requires careful moisture management. Beans that are too wet will promote bacterial spoilage (especially *Bacillus subtilis*, which produces the characteristic "natto-like" off-odor), while beans that are too dry will not support adequate mold growth.
+Soybean koji requires careful moisture management. Beans that are too wet will promote bacterial spoilage (especially *[[bacillus-subtilis]]*, which produces the characteristic "natto-like" off-odor), while beans that are too dry will not support adequate mold growth.
 
 ## Inoculation and Incubation
 
@@ -218,7 +218,7 @@ Miso is perhaps the most iconic koji product — a fermented soybean paste rangi
 2. Salt the koji-soybean mixture (typically 5–12% salt by weight)
 3. Mash into a smooth paste and pack into fermentation vessels
 4. Ferment from several weeks (sweet miso) to several years (dark miso)
-5. The koji enzymes break down soy proteins into amino acids (creating umami) and starches into simple sugars (which feed lactic acid bacteria and yeast)
+5. The koji enzymes break down soy proteins into amino acids (creating umami) and starches into simple sugars (which feed [[lactic-acid-bacteria]] bacteria and yeast)
 
 Miso types are classified by ingredients (rice/bean/barley koji), color (white/red/mixed), and sweetness (salt content and fermentation duration).
 
@@ -269,7 +269,7 @@ A sweet rice wine used in Japanese cooking:
 
 ### Additional Products
 
-- **Shochu**: Japanese distilled spirit made from koji-fermented sweet potato, rice, barley, or buckwheat
+- **Shochu**: Japanese distilled spirit made from koji-fermented [[sweet-potato-guide]], rice, barley, or buckwheat
 - **Rice vinegar (komezu)**: Made by fermenting sake into vinegar using acetic acid bacteria
 - **Tsukemono pickles**: Koji is used in *nuka-zuke* (rice bran pickles) and as a pickling bed
 - **Garum/ fish sauce**: Modern chefs use koji to accelerate the enzymatic breakdown of fish proteins into fish sauce-like condiments in days rather than months

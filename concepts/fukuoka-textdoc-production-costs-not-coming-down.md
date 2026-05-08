@@ -120,4 +120,4 @@ true costs onto the environment and public health.
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-mu-economics]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]

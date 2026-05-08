@@ -78,6 +78,6 @@ pressure, soil biology, yields, and long-term resilience.
 ## Related Topics
 
 - [[serotonin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[tryptamine]]
 - [[dmt]]

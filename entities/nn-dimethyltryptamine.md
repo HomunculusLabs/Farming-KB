@@ -139,7 +139,7 @@ DMT is classified as a **Schedule I controlled substance** under the United Nati
 
 ## See Also
 
-- [[psilocybin]] — comparison with classical tryptamine psychedelics
+- [[psilocybin-compound]] — comparison with classical tryptamine psychedelics
 - [[ayahuasca]] — traditional DMT-containing brew
 - [[4-hydroxytryptamine]] — serotonin, the endogenous structural analog
 - [[psychedelic-crisis-response-protocol]] — role in DMT's neuropharmacological profile

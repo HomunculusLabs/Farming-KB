@@ -21,11 +21,11 @@ Six species have demonstrated total cholesterol reduction:
 - [[reishi-mushroom-medicinal-properties]]
 - [[maitake-cancer-clinical-research]]
 - [[pleurotus-ostreatus]]
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 
 ### Mushrooms That Reduce LDL ("Bad" Cholesterol)
 - Auricularia auricula-judae
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 
 ### Mushrooms That Reduce Triglycerides
 - [[cordyceps-sinensis]]

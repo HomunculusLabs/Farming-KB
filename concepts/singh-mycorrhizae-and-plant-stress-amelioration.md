@@ -148,4 +148,3 @@ Stress tolerance from mycorrhizae is essential for [[mycoremediation-pahs]]:
   mitigation
 - [[mycoremediation-pahs]] -- broader context for fungal remediation
 - heavy metal contamination -- metals co-occurring with abiotic
-  stressors on contaminated sites

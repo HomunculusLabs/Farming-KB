@@ -112,5 +112,5 @@ See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-pond-co
 ## Related
 
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[holzer-water-landscapes-pond-building]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[hamilton-garden-planning-and-site-assessment]]

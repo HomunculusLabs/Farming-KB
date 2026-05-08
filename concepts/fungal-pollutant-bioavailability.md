@@ -140,7 +140,7 @@ important for pollutants with low water solubility.
 
 ## See Also
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[fungal-soil-pollutant-transformation]]
 - [[mycoremediation-site-assessment]]
 - [[mycoremediation-basic-techniques]]

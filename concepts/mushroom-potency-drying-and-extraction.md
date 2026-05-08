@@ -148,6 +148,3 @@ aroma.
 ## See Also
 
 - [[pf-tek-mushroom-potency-and-age-relationship]]
-
-- [[fruiting-conditions-and-harvesting]]
-- [[pf-tek-overview-and-history]]

@@ -116,5 +116,5 @@ This neuroplastic effect, combined with the subjective experience of mystical in
 - [[harmala-alkaloids-and-ayahuasca-preparation]] — Harmala details
 - [[psychedelic-combination-guide]] — combination guide
 - [[lsd-psychedelic-experience-guide]] — LSD comparison
-- [[psilocybe-cubensis-profile]] — species profile
+- [[psychedelic-mushrooms-species-and-identification]] — species profile
 - [[turner-harmala-alkaloids-preparation-and-dosage]]

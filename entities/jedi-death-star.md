@@ -1,5 +1,5 @@
 ---
-title: "Jedi Death Star"
+title: "jedi death star"
 created: 2026-04-28
 type: strain
 tags:
@@ -41,7 +41,7 @@ body high, Jedi Death Star is reserved for experienced consumers and evening use
 ## Lineage and Genetics
 
 - **Direct cross:** Death Star × Jedi Kush
-- **Death Star:** Sour Diesel × Sensi Star (bred by Empire Genetics, Ohio)
+- **Death Star:** [[sour-diesel]] × Sensi Star (bred by Empire Genetics, Ohio)
 - **Jedi Kush:** Death Star × SFV OG Kush (created by TH Seeds, Amsterdam)
 - **Genetic structure:** Backcross — Jedi Kush itself contains Death Star as a parent,
   producing a plant heavily concentrated with Death Star's signature traits
@@ -148,7 +148,3 @@ look elsewhere.
 
 - [[schultes-datura-holy-flower-north-star]]
 - [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
-- [[psilocybin-and-death-anxiety]]
-- [[fukuoka-heart-sutra-and-illusion-of-life-death]]
-
-- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]

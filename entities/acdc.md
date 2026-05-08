@@ -109,7 +109,7 @@ The strain has been used in the development of CBD-rich tinctures, oils, topical
 ### Growing Tips
 
 - **Lighting**: Performs well under both HID and LED systems. Standard 18/6 vegetative and 12/12 flowering photoperiods.
-- **Training**: Responds well to low-stress training (LST), screen of green (ScrOG), and topping. Branching is moderate, and the plant benefits from canopy management for even light distribution.
+- **Training**: Responds well to low-stress training (LST), [[screen-of-green]] (ScrOG), and topping. Branching is moderate, and the plant benefits from canopy management for even light distribution.
 - **Nutrients**: Moderate feeder. Standard cannabis nutrient schedules work well; avoid excessive nitrogen during mid-to-late flowering to preserve terpene profile.
 - **Pest resistance**: Average resistance to common pests and molds. Good airflow and humidity management (40–50% RH during flowering) are recommended to prevent bud rot and powdery mildew.
 - **Harvest indicators**: Trichomes should be predominantly milky-white with some amber. Since the primary value is CBD rather than THC, slightly later harvests (more amber trichomes) can maximize cannabinoid content without risking excessive THC-related degradation.
@@ -135,7 +135,7 @@ The strain's name, shared with the iconic Australian rock band, has given it a m
 
 - **Cannatonic**: The parent strain; similar CBD:THC ratio but less stabilized.
 - **Harlequin**: Sativa-dominant with a roughly 5:2 CBD:THC ratio; more psychoactive.
-- **Sour Tsunami**: One of the first intentionally bred high-CBD strains; created by Lawrence Ringo.
+- **[[sour-tsunami]]**: One of the first intentionally bred high-CBD strains; created by Lawrence Ringo.
 - **Charlotte's Web**: Named after Charlotte Figi; extremely high CBD, minimal THC; developed specifically for epilepsy.
 - **Ringo's Gift**: Another high-CBD variety with an approximately 24:1 CBD:THC ratio.
 - **Stephen Hawking Kush**: Indica-dominant high-CBD strain with a 5:1 ratio.
@@ -145,4 +145,4 @@ The strain's name, shared with the iconic Australian rock band, has given it a m
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 
 - [[acdc-cannabis-strain]]
-- [[acdc-cannabis]]
+- [[acdc-cannabis-strain]]

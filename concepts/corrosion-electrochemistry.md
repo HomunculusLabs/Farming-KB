@@ -1,5 +1,5 @@
 ---
-title: "Corrosion Electrochemistry"
+title: "corrosion electrochemistry"
 aliases: [electrochemical corrosion, corrosion cells, galvanic corrosion]
 tags: [materials-science, electrochemistry, engineering, corrosion, metals]
 created: 2026-05-02
@@ -145,7 +145,6 @@ Research basis: Wikipedia pages on corrosion, galvanic corrosion, and passivatio
 ## See Also
 
 - [[fracture-mechanics-engineering-materials]]
-- [[creep-deformation-high-temperature-materials]]
+- creep deformation high temperature materials
 - [[phase-diagrams-and-phase-transformations]]
 - [[maxwell-equations-electromagnetism]]
-- [[bioelectrochemical-remediation]]

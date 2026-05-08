@@ -148,4 +148,3 @@ strict containment protocols are in place.
 - [[alnus-glutinosa]]
 - [[tagasaste]]
 - [[comfrey-permaculture]]
-- [[dynamic-accumulators]]

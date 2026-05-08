@@ -148,9 +148,3 @@ extraordinary complexity that pleomorphy introduces into fungal
 taxonomy.
 
 ## See Also
-
-- [[bloomfield-chytrid-fungi-early-fungal-evolution]]
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
-- [[fungal-kingdom-taxonomy-classification]]
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
-- [[fungal-evolution]]

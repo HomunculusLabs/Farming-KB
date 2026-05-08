@@ -114,7 +114,7 @@ modern cannabis market.
 
 ## See Also
 
-- [[blue-dream-cannabis|Blue Dream]] — similar sativa-dominant hybrid with fruity profile
+- [[blue-dream-strain|Blue Dream]] — similar sativa-dominant hybrid with fruity profile
 - [[super-lemon-haze|Super Lemon Haze]] — award-winning sativa-dominant with citrus character
 - [[sour-diesel|Sour Diesel]] — classic sativa-dominant for daytime energy
 - [[tangie-cannabis|Tangie]] — tangerine-forward sativa-dominant hybrid

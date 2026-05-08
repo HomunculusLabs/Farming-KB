@@ -139,5 +139,5 @@ Nature works as a whole, not as a collection of parts. When we intervene based o
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
-[[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
-[[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
+[[fukuoka-natural-farming-philosophy]]
+[[fukuoka-natural-farming-philosophy]]

@@ -125,5 +125,5 @@ culture and sets off on the road to decline. "Zen and food are one."
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-textdoc-kitchen-knife-two-edged-sword-zen-food-culture]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]

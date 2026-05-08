@@ -94,7 +94,7 @@ updated: 2026-04-18
 
 - [[mollison-arid-settlement-home-garden-design]]
 - [[permaculture-climate-zones]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[faires-city-desert-and-cold-climate-garden-strategies]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

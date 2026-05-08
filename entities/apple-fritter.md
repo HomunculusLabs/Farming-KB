@@ -136,32 +136,14 @@ Apple Fritter is considered **moderately difficult** to cultivate, requiring som
 ### Dominant Terpenes
 
 1. **Limonene** — Citrus aroma; mood elevation, stress relief
-2. **Caryophyllene** — Peppery, spicy; anti-inflammatory via CB2 receptor binding
-3. **Myrcene** — Earthy, musky; sedation, muscle relaxation (entourage effect enhancer)
-
-### Minor Terpenes
-
-- **Linalool** — Floral; anxiolytic, sleep promotion
-- **Pinene** — Pine; alertness (counteracts some sedation), bronchodilator
-- **Humulene** — Woody, earthy; appetite suppression
-
-The interplay between limonene's uplifting qualities and myrcene's sedating properties creates Apple Fritter's characteristic **"up-then-down"** effect curve.
-
-## Popularity and Awards
-
-- **2016 High Times Northern California Cannabis Cup** — 1st Place Hybrid
-- Consistently ranked among Leafly's top strains since 2019
-- Widely available in licensed dispensaries across North America
-- Has spawned numerous crosses and backcrosses including **Apple Tarts**, **Cherry Fritter**, and **Lumpy's Apple Fritter Auto**
-
 ## See Also
 
 - [[girl-scout-cookies]]
 - [[sour-diesel]]
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 
 - [[girl-scout-cookies]] — Grandparent strain via Animal Cookies
 - [[sour-diesel]] — Ancestor via Sour Apple
-- [[gelato]] — Related dessert-profile hybrid
-- [[wedding-cake]] — Another Cookies-lineage dessert strain
+- [[gelato-cannabis]] — Related dessert-profile hybrid
+- [[wedding-cake-cannabis]] — Another Cookies-lineage dessert strain
 - [[limonene]] — Primary terpene

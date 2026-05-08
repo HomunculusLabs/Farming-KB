@@ -11,7 +11,7 @@ sources: []
 # PsiD Enzyme
 
 The PsiD enzyme is a fungal enzyme that catalyzes a key step in the
-[[psilocybin]] biosynthesis pathway. It functions as an L-tryptophan
+[[psilocybin-compound]] biosynthesis pathway. It functions as an L-tryptophan
 decarboxylase, converting the amino acid L-tryptophan into [[tryptamine]],
 which serves as the foundational substrate for all downstream modifications
 in the biosynthetic pathway that ultimately produces psilocybin and
@@ -92,7 +92,7 @@ enabled significant advances:
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[tryptamine]]
 - [[tryptophan-biosynthesis-from-chorismate]]

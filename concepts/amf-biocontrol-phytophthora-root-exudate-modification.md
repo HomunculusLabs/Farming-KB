@@ -84,7 +84,7 @@ Using compartmented soil systems where tomato plants were colonized with G. moss
 
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[mycorrhizal-pathogen-resistance]]
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
 - [[fungal-soil-aggregate-formation-glomalin]]

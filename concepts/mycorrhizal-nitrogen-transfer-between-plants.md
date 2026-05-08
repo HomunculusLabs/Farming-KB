@@ -65,7 +65,7 @@ In agroforestry systems, nitrogen transfer from N2-fixing trees to companion cro
 
 ## Factors Influencing Transfer Direction
 
-The direction and magnitude of nitrogen transfer depend on multiple factors including plant nitrogen demand, fungal species identity, soil nitrogen availability, and light conditions. Plants with higher nitrogen demand tend to receive more nitrogen through [[common-mycorrhizal-networks]], while shading of one partner can alter the carbon economy of the symbiosis and indirectly affect nitrogen flow. The interaction between [[mycorrhizal-nutrient-uptake]] capacity and the broader [[nitrogen-cycle-in-soil]] determines the net outcome of interplant transfer.
+The direction and magnitude of nitrogen transfer depend on multiple factors including plant nitrogen demand, fungal species identity, soil nitrogen availability, and light conditions. Plants with higher nitrogen demand tend to receive more nitrogen through [[common-mycorrhizal-networks]], while shading of one partner can alter the carbon economy of the symbiosis and indirectly affect nitrogen flow. The interaction between [[mycorrhizal-nutrient-uptake]] capacity and the broader [[composting-and-soil-biology]] determines the net outcome of interplant transfer.
 
 ## Limitations and Challenges
 

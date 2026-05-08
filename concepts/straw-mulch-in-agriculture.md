@@ -1,5 +1,5 @@
 ---
-title: Straw Mulch in Agriculture
+title: straw mulch in agriculture
 tags: [agriculture, soil-health, mulching, organic-farming, water-conservation, weed-suppression]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,12 +12,12 @@ type: concept
 # Straw Mulch in Agriculture
 
 Straw mulch is the central and most fundamental technique in Masanobu
-Fukuoka's natural farming system, detailed in *The One-Straw Revolution*
+Fukuoka's [[natural-farming]] system, detailed in *The One-Straw Revolution*
 (1978). Fukuoka described spreading straw as "connected with everything, with
 fertility, with germination, with weeds, with keeping away sparrows, with
-water management." In actual practice and in theory, the use of straw in
+[[water-management]]." In actual practice and in theory, the use of straw in
 farming is a crucial issue. The practice of returning all straw and organic
-residues to the field surface, rather than burning or composting it, forms the
+residues to the field surface, rather than burning or [[composting]] it, forms the
 backbone of a system that eliminates ploughing, chemical fertilizer, herbicides,
 and much agricultural labour. Fukuoka titled his book after this humble
 material: "I believe that a revolution can begin from this one strand of straw."
@@ -148,4 +148,3 @@ laughed: "That's not a one-man revolution — it's a one-straw revolution!"
 
 - [[natural-farm-soil-health-mulching]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
-- [[natural-farming-vs-scientific-agriculture]]

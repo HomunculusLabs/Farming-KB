@@ -138,7 +138,7 @@ over your belief to anyone."
 
 ## See Also
 
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-tryptamine-research-legal-status]]
 
 - [[dmt-experience-and-hyperspace-entities]]

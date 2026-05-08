@@ -36,7 +36,7 @@ The species is coprophilous, growing on the dung of herbivorous animals, particu
 
 ## Psychoactive Compounds
 
-*Psilocybe subfimetaria* contains [[psilocybin]] and [[psilocin]] as its principal psychoactive alkaloids. The blue bruising reaction, while sometimes modest, confirms the presence of these compounds. Analytical data on exact alkaloid concentrations are limited due to the relative rarity of collections, but the species is considered to be moderately psychoactive.
+*Psilocybe subfimetaria* contains [[psilocybin-compound]] and [[psilocin]] as its principal psychoactive alkaloids. The blue bruising reaction, while sometimes modest, confirms the presence of these compounds. Analytical data on exact alkaloid concentrations are limited due to the relative rarity of collections, but the species is considered to be moderately psychoactive.
 
 ## Ecological Role
 
@@ -54,7 +54,7 @@ As a coprophilous fungus, *P. subfimetaria* plays a role in nutrient cycling by 
 Microscopic examination is essential for distinguishing *P. subfimetaria* from closely related taxa. Basidia are four-spored, clavate, measuring 16–22 × 4–5.5 µm. Cheilocystidia are ventricose to lageniform, 14–24 × 4–7 µm, forming a conspicuous sterile band on the gill edges. Pleurocystidia are absent or rare. The pileipellis is a cutis of narrow (2–3 µm), hyaline to pale brown, gelatinized hyphae. Clamp connections are absent at the basidial bases. The spore morphology — particularly the combination of large, broadly ellipsoidal spores with a distinct germ pore — is the most reliable microscopic character for separating *P. subfimetaria* from *P. fimetaria* sensu stricto.
 ## Chemical Profile
 
-Chemical analysis of *Psilocybe subfimetaria* has confirmed the presence of [[psilocybin]] and [[psilocin]] as the primary psychoactive alkaloids. While published quantitative data are limited due to the rarity of collections, the alkaloid content is estimated to fall in the low-to-moderate range, comparable to other coprophilous Psilocybe species. [[baeocystin]] has been detected in minor quantities in some collections. The blue-green bruising, while sometimes modest in intensity, is a reliable field indicator of the presence of psychoactive tryptamine compounds. The chemical profile is consistent with the conserved [[psilocybin-biosynthesis-pathway]] shared across the genus, involving the enzymes PsiD, PsiK, PsiM, and PsiH.
+Chemical analysis of *Psilocybe subfimetaria* has confirmed the presence of [[psilocybin-compound]] and [[psilocin]] as the primary psychoactive alkaloids. While published quantitative data are limited due to the rarity of collections, the alkaloid content is estimated to fall in the low-to-moderate range, comparable to other coprophilous Psilocybe species. [[baeocystin]] has been detected in minor quantities in some collections. The blue-green bruising, while sometimes modest in intensity, is a reliable field indicator of the presence of psychoactive tryptamine compounds. The chemical profile is consistent with the conserved [[psilocybin-biosynthesis-pathway]] shared across the genus, involving the enzymes PsiD, PsiK, PsiM, and PsiH.
 ## Molecular Phylogeny
 
 The phylogenetic placement of *P. subfimetaria* has not been extensively studied using modern molecular methods. It is presumed to belong to the same broad clade as *P. fimetaria* and other coprophilous Psilocybe species. Molecular phylogenetic analyses of the genus have revealed that many traditionally defined species complexes contain multiple cryptic taxa, and the *P. fimetaria* complex is likely no exception. DNA barcoding of additional Australasian collections would help resolve whether *P. subfimetaria* represents a genuinely distinct lineage or falls within the morphological variation of *P. fimetaria* sensu lato. The geographic disjunction between Australian and European populations is suggestive of allopatric speciation, but molecular confirmation is needed.
@@ -85,7 +85,7 @@ The modest bluing reaction means that the psychoactive content is not always imm
 - [[psilocybe-fimetaria]]: European relative with similar morphology
 - [[psilocybe-cubensis]]: Common dung-inhabiting psilocybin mushroom
 - [[psilocybe-subaeruginosa]]: Potent Australian psilocybin species
-- [[psilocybin]]: Primary psychoactive compound
+- [[psilocybin-compound]]: Primary psychoactive compound
 - [[baeocystin]]: Secondary alkaloid found in many Psilocybe species
 - [[gaston-guzman]]: Describing authority for the species
 - [[galerina-marginata]]: Deadly lookalike found in similar habitats

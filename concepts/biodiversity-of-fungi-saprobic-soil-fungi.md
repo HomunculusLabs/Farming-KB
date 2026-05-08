@@ -23,7 +23,7 @@ Among microorganisms inhabiting soils, fungi commonly rank as the most abundant 
 
 Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. Forest soils, in contrast, are enriched by debris from a massive above-ground biomass plus substantial input from mycorrhizae. In deserts, desert-grasslands, and some forest communities, the above-ground debris often consists of relatively intact organic matter (litter) only. In mesic or wet grasslands and in most shrublands, heathlands, and forests, the superficial debris is underlain by an amorphous, aromatic layer of organic material (humus) that rests on mineral soil impregnated with humus.
 
-See also: [[fungal-biomass-soil-measurement]], [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition]]
+See also: [[the-soil-food-web]], [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition]]
 
 ## Trophic Roles and Ecosystem Functions
 
@@ -96,7 +96,7 @@ The interaction between fungal and bacterial communities in soil is complex and 
 ### Practical Applications
 
 Fermentation products of soil fungi are important in world medicine, including penicillin, cephalosporin, cyclosporin, and lovastatin. Soil fungi are also important for:
-- [[mycopesticides-fungal-biocontrol]] agents against plant pathogens
+- [[mushroom-cultivation-fundamentals]] agents against plant pathogens
 - [[fungal-bioremediation]] of contaminated soils
 - Production of enzymes for industrial applications
 - [[biofertilizers-and-soil-inoculants]]

@@ -21,7 +21,7 @@ inputs and improves with each passing season.
 ## Detailed Explanation
 
 Chop and drop is one of the simplest yet most effective soil-building
-techniques in [[permaculture]] and [[no-till-gardening-method|no-till]] gardening. Instead of
+techniques in [[permaculture]] and [[composting-and-soil-biology|no-till]] gardening. Instead of
 collecting and composting plant material in a separate pile, you cut plants
 at their base and lay the cuttings directly on the soil surface where they
 grew. This mimics natural forest ecosystems where leaves, branches, and
@@ -59,7 +59,7 @@ easily accessible form. Comfrey can be cut up to five or six times per
 growing season, producing massive amounts of biomass from a single planting.
 Other excellent chop and drop plants include yarrow, nettle, daikon radish
 (as a [[cover-crops|cover crop]]), and various legumes like crimson clover
-and hairy vetch that fix atmospheric nitrogen through their [[nitrogen-cycle-in-soil|nitrogen cycle]] associations with rhizobia bacteria in root nodules.
+and hairy vetch that fix atmospheric nitrogen through their [[composting-and-soil-biology|nitrogen cycle]] associations with rhizobia bacteria in root nodules.
 
 The mulch layer created by chop and drop provides multiple ecosystem services
 simultaneously beyond just nutrient cycling. It suppresses weed germination

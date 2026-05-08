@@ -86,13 +86,13 @@ All Copelandia species should be identified with extreme care, as they grow in t
 - [[panaeolus-cyanescens-bali-omelette]]
 - [[panaeolus-cyanescens-cultivation-guide]]
 - [[panaeolus-subbalteatus-profile]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-mushroom-species-guide]]
 - [[psilocybin-mushroom-chemistry]]
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
 
 ## Related
 
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[panaeolus-tropicalis-cultivation-differences]]
 - [[copelandia-mexicana]]

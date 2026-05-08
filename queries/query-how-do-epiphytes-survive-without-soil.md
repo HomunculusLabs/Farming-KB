@@ -72,7 +72,6 @@ The bromeliad tank is a **nutrient-capture engine**:
 - Some bromeliads form associations with **nitrogen-fixing bacteria** in their tanks, providing a steady nitrogen supply.
 - The aquatic organisms in the tank (mosquito larvae, other insects) excrete nitrogenous waste that the bromeliad absorbs.
 
-
 (Section truncated for length.)
 
 - Nutrient content of rainwater and fog in tropical canopies includes nitrogen (as NH₄⁺ and NO₃⁻), phosphorus, potassium, calcium, magnesium, and trace elements — derived from volcanic emissions, ocean spray, biomass burning, and long-range dust transport.
@@ -139,39 +138,6 @@ CAM is the single most important metabolic adaptation for epiphytism and is foun
 | Gesneriaceae | ~500 | Rhizomatous attachment, succulent leaves |
 | Rubiaceae | ~400 | Ant domatia (Myrmecodia), climbing stems |
 ---
-
-## Ecological Importance
-
-Epiphytes are not peripheral curiosities — they are **keystone components** of tropical forest ecosystems:
-- **Biodiversity hotspots**: A single tropical tree can host 50–200+ epiphyte species, representing up to 30% of the tree's total associated biodiversity.
-- **Water cycling**: Epiphytes intercept and retain significant canopy water — up to 50% of incident rainfall in some montane cloud forests. They release this water slowly, regulating streamflow.
-- **Nutrient cycling**: Epiphyte canopies capture atmospheric nutrients and debris, concentrating nutrients in the canopy and cycling them through their associated micro-ecosystems.
-- **Habitat creation**: Tank bromeliads, epiphyte root mats, and canopy soil support thousands of invertebrate species, amphibians, and birds that depend on canopy microhabitats.
-- **Wildlife resources**: Epiphytes provide nectar, pollen, fruit, and shelter for birds, bats, monkeys, insects, and amphibians.
-
----
-
-## Conservation Concerns
-
-Epiphytes are among the **most vulnerable plant groups** to environmental change:
-- **Deforestation** eliminates their habitat entirely — they cannot survive on cleared land.
-- **Forest fragmentation** reduces humidity and increases wind exposure in forest edges, desiccating epiphytes.
-- **Climate change** is pushing cloud-base elevations upward in tropical mountains, depriving montane epiphytes of the fog and cloud water they depend on.
-- **Collection** (especially orchids and bromeliads) threatens many species.
-- **Air pollution** (acid rain, nitrogen deposition) can damage sensitive epiphyte communities.
-- **Host tree loss** (from logging, disease, or storm damage) eliminates all dependent epiphytes.
-
-Many epiphyte species are now **critically endangered** due to these combined pressures.
----
-
-## Practical Takeaways for Growers
-
-- **Tillandsia**: Mist or soak 1–2× per week; bright indirect light; good air circulation is essential (roots are for attachment only — water through leaves).
-- **Orchids**: Use bark or inert media (never soil); water thoroughly then let dry; feed dilute fertilizer weekly; many need distinct wet/dry seasonal cycles.
-- **Bromeliads (tank types)**: Keep the tank filled with water; flush and refill weekly to prevent stagnation; use rain or filtered water (hard water causes mineral buildup).
-- **Staghorn ferns**: Mount on wood or bark; mist frequently; place banana peels or organic matter behind the shield frond for nutrients.
-- **Key principle**: Epiphytes evolved for airflow, intermittent moisture, and nutrient scarcity. Overwatering and overfertilizing are the most common causes of death in cultivation.
-
 ## See Also
 
 - [[query-how-does-living-soil-work-for-cannabis]]

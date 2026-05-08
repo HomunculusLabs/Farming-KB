@@ -146,5 +146,5 @@ safe while raw seeds are not.
 
 ## See Also
 
-- [[castanea-sativa]] · [[aesculus-hippocastanum]] · [[quercus-robur]]
+- [[castanea-sativa]] · aesculus hippocastanum · [[quercus-robur]]
 - [[tilia-cordata]] · [[sambucus-nigra]]

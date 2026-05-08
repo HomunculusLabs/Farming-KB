@@ -22,7 +22,7 @@ Microwave surface sterilization is the use of microwave-frequency electromagneti
 
 ## Fundamental Physical Principle
 
-The core concept rests on the interaction between 2.45 GHz microwave radiation and [[dipolar water molecules]]. Water molecules possess a permanent electric dipole moment due to the asymmetric distribution of charge between the electronegative oxygen atom and the two hydrogen atoms. The molecule has a bent geometry with an O-H bond angle of approximately 104.5 degrees, resulting in a net dipole moment of 1.85 Debye.
+The core concept rests on the interaction between 2.45 GHz microwave radiation and [[dipolar-water-molecules]]. Water molecules possess a permanent electric dipole moment due to the asymmetric distribution of charge between the electronegative oxygen atom and the two hydrogen atoms. The molecule has a bent geometry with an O-H bond angle of approximately 104.5 degrees, resulting in a net dipole moment of 1.85 Debye.
 
 When exposed to an oscillating electromagnetic field at microwave frequencies, these dipole molecules attempt to continuously reorient to align with the rapidly changing field direction. At 2.45 GHz, the field direction reverses 2.45 billion times per second. The water molecules rotate in response, but their rotation encounters viscous resistance from intermolecular forces and hydrogen bonding with neighboring molecules. This molecular friction converts the electromagnetic energy into thermal kinetic energy, a process known as dielectric heating or dipolar polarization loss.
 
@@ -42,7 +42,7 @@ This mechanism is effective against bacteria, yeasts, molds, and other vegetativ
 
 ### Mode 2: Flash Steam Sterilization (Wet Surfaces)
 
-When trace quantities of water (approximately 9 uL per cm^2) are present on the surface, microwave energy causes rapid flash vaporization. The resulting steam contacts all surface organisms and delivers lethal wet heat. This mode is effective against all organism types including the most resistant bacterial spores. See [[trace water flash steam microwave sterilization]] for the detailed mechanics of this mechanism.
+When trace quantities of water (approximately 9 uL per cm^2) are present on the surface, microwave energy causes rapid flash vaporization. The resulting steam contacts all surface organisms and delivers lethal wet heat. This mode is effective against all organism types including the most resistant bacterial spores. See [[trace-water-flash-steam-microwave-sterilization]] for the detailed mechanics of this mechanism.
 
 ## Key Operational Parameters
 
@@ -79,11 +79,11 @@ Unlike ethylene oxide (which leaves carcinogenic residues), alcohols (which leav
 
 ### Minimal Thermal Impact
 
-Unlike autoclaving (121 C sustained for 15 to 30 minutes) or dry heat (160 to 180 C for hours), the bulk material temperature during microwave sterilization remains near ambient. The microwave energy is selectively absorbed by water on the surface, and the total energy involved is small due to the trace water volumes used. This [[thermally gentle]] profile protects temperature-sensitive materials, electronics, and biological products.
+Unlike autoclaving (121 C sustained for 15 to 30 minutes) or dry heat (160 to 180 C for hours), the bulk material temperature during microwave sterilization remains near ambient. The microwave energy is selectively absorbed by water on the surface, and the total energy involved is small due to the trace water volumes used. This [[thermally-gentle]] profile protects temperature-sensitive materials, electronics, and biological products.
 
 ### Barrier Penetration
 
-Microwave energy can pass through [[elastomeric materials]], certain polymers, and other dielectric barriers to sterilize enclosed surfaces that are inaccessible to UV light, chemical sprays, or direct heat application. This enables sterilization of fully enclosed systems and the interior surfaces of sealed containers without opening them, a capability unique among non-chemical methods.
+Microwave energy can pass through [[elastomeric-materials]], certain polymers, and other dielectric barriers to sterilize enclosed surfaces that are inaccessible to UV light, chemical sprays, or direct heat application. This enables sterilization of fully enclosed systems and the interior surfaces of sealed containers without opening them, a capability unique among non-chemical methods.
 
 ### Rapid Operation
 
@@ -111,13 +111,13 @@ The initial motivation was the need for aseptic access to biologically sensitive
 
 ### Aerospace and Spacecraft Systems
 
-The original application: aseptic access ports for spacecraft ECLSS water systems and enclosed biological experiments. The [[microwave sterilizable access port]] hardware was designed around this concept.
+The original application: aseptic access ports for spacecraft ECLSS water systems and enclosed biological experiments. The [[microwave-sterilizable-access-port]] hardware was designed around this concept.
 
 ### Mushroom Cultivation
 
-The microwave surface sterilization concept has direct relevance to [[mushroom cultivation]] at multiple stages:
+The microwave surface sterilization concept has direct relevance to [[mushroom-cultivation]] at multiple stages:
 
-- **Substrate sterilization**: The principle of microwave water coupling explains why substrate moisture content is critical for effective [[substrate preparation]] using microwave energy
+- **Substrate sterilization**: The principle of microwave water coupling explains why substrate moisture content is critical for effective [[substrate-preparation]] using microwave energy
 - **Equipment decontamination**: Growing room surfaces, tools, and containers can be sterilized without chemical residues
 - **Inoculation port sterilization**: The access port concept applies to laboratory and commercial inoculation setups
 - **Enclosed system sterilization**: The ability to sterilize through barrier materials enables treatment of sealed containers
@@ -136,18 +136,15 @@ Decontamination of biosafety cabinet surfaces, incubator interiors, and laborato
 
 ## Scientific Foundation
 
-The technique builds on well-established principles of [[dielectric heating]] and microwave chemistry. The 2.45 GHz frequency is the global ISM band standard, the same frequency used in consumer microwave ovens. The scientific novelty of the NASA work lies in the precise characterization of surface sterilization parameters (exposure rate, total dose, water enhancement quantity) and the demonstration that complete microbial kill including bacterial spores is achievable through microwave-driven flash steam generation using minimal water volumes.
+The technique builds on well-established principles of [[dielectric-heating]] and microwave chemistry. The 2.45 GHz frequency is the global ISM band standard, the same frequency used in consumer microwave ovens. The scientific novelty of the NASA work lies in the precise characterization of surface sterilization parameters (exposure rate, total dose, water enhancement quantity) and the demonstration that complete microbial kill including bacterial spores is achievable through microwave-driven flash steam generation using minimal water volumes.
 
 ## See Also
 
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 
-- [[microwave sterilization]] for the broader topic area
-- [[2.45 GHz water dipolar coupling]] for the underlying molecular physics
-- [[challenge microorganisms for microwave surface sterilization]] for the test organisms used
-- [[microwave vs conventional surface sterilization methods]] for comparative analysis
-- [[microwave sterilizable access port]] for the NASA hardware application
-- [[trace water enhanced microwave surface sterilization]] for the enhanced protocol details
-- [[thermally gentle microwave surface sterilization]] for the low-thermal-impact advantage
+- [[microwave-sterilization]] for the broader topic area
+- [[2.45-ghz-water-dipolar-coupling]] for the underlying molecular physics
+- [[challenge-microorganisms-for-microwave-surface-sterilization]] for the test organisms used
+- [[microwave-vs-conventional-surface-sterilization-methods]] for comparative analysis

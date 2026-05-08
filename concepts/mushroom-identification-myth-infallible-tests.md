@@ -87,7 +87,7 @@ Palmer proposed a practical three-tier classification:
 
 The second category is harmless once identified; the third is invariably fatal. The confusion arose because many authorities applied the word "poisonous" indiscriminately to both categories, leading people to believe all non-esculent mushrooms were equally dangerous.
 
-This conflation had real consequences. Worthington G. Smith's chart labeled whole families as "poisonous" when they were merely disagreeable. Books by Cordier of France and Cooke and Berkeley of England all used the term loosely. A cook who learned that "boleti are poisonous" would discard [[boletus-edulis]], one of the finest edible fungi in the world, while remaining vulnerable to the genuinely deadly Amanita because it looked "like a regular mushroom."
+This conflation had real consequences. Worthington G. Smith's chart labeled whole families as "poisonous" when they were merely disagreeable. Books by Cordier of France and Cooke and Berkeley of England all used the term loosely. A cook who learned that "boleti are poisonous" would discard [[boletus-edulis-entity]], one of the finest edible fungi in the world, while remaining vulnerable to the genuinely deadly Amanita because it looked "like a regular mushroom."
 
 ## The Necessity of Undisguised Preparation
 
@@ -115,6 +115,6 @@ Palmer closed his writings with an elegy to the fungi themselves: "Curious creat
 
 ## See Also
 
-- [[mushroom-identification-resources]]
+- [[mushroom-cultivation-fundamentals]]
 - [[palmer-mushroom-hunting-field-identification]]
 - [[psilocybin-mushroom-spore-print-identification]]

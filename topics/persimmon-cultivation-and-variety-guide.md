@@ -40,7 +40,7 @@ Non-astringent persimmons lose their tannins as they develop on the tree and can
 
 - **Fuyu** (also called 'Jiro'): The most widely grown non-astringent variety worldwide. Flattened, tomato-shaped fruit with sweet, crisp flesh. Reliable producer, self-fertile. Ripens October–November.
 - **Giant Fuyu**: Larger version of standard Fuyu with similar characteristics. Fruit can reach 5+ inches in diameter.
-- **Izu**: Smaller tree (10–12 feet), making it ideal for small spaces and container growing. Fruit resembles Fuyu but ripens 2–3 weeks earlier. Good choice for marginal climates.
+- **Izu**: Smaller tree (10–12 feet), making it ideal for small spaces and [[container-growing-vegetables-herbs]]. Fruit resembles Fuyu but ripens 2–3 weeks earlier. Good choice for marginal climates.
 - **Maru** ('Coffee Cake' or 'Nikita's Gift'): Unique non-astringent variety that develops cinnamon-colored internal streaks when pollinated, giving a spicy, complex flavor. Requires a pollinator.
 - **Jiro**: Similar to Fuyu but with slightly earlier ripening. The tree is somewhat more upright in growth habit.
 - **Maekawa Jiro**: A bud sport of Jiro with more consistent fruit shape and earlier bearing age.
@@ -69,7 +69,7 @@ American persimmons are generally smaller and more astringent than Asian types, 
 - **John Rick**: Very large fruit for an American persimmon. Late ripening (November). Male tree — excellent pollinator.
 - **Szukis**: Female tree that is partially self-fertile (unusual for American persimmons). Large, flavorful fruit.
 - **Yates**: Very large fruit. Late ripening. Excellent flavor. Requires a male pollinator.
-- **Deer Magnet**: As the name suggests, this variety is prolific and attractive to wildlife. Small fruit but incredible productivity. Useful for food plots and permaculture livestock integration.
+- **Deer Magnet**: As the name suggests, this variety is prolific and attractive to wildlife. Small fruit but incredible productivity. Useful for food plots and [[permaculture-livestock-forage-systems]] integration.
 - **100-42**: A numbered selection from the Kentucky State University breeding program. Excellent fruit quality, reliable.
 
 ### Hybrid Varieties
@@ -109,7 +109,7 @@ Persimmons are remarkably tolerant of poor soils but perform best in:
 ### Sun and Space
 
 - **Sun**: Full sun (6+ hours direct sunlight) for best fruit production. Tolerates partial shade but will produce less fruit.
-- **Spacing**: 12–20 feet between Asian persimmon trees, 20–30 feet for American types (they can get large). In permaculture food forests, they serve well in the canopy layer or as tall understory trees.
+- **Spacing**: 12–20 feet between Asian persimmon trees, 20–30 feet for American types (they can get large). In permaculture-food-waste-cyclingod-forests-design-course]], they serve well in the [[canopy-layer-design-food-forests]] or as tall understory trees.
 - **Wind**: Young trees are vulnerable to wind damage. Provide staking for the first 1–2 years. Mature trees develop strong wood.
 
 ### Planting Procedure
@@ -117,7 +117,7 @@ Persimmons are remarkably tolerant of poor soils but perform best in:
 1. **Timing**: Plant bare-root trees in late winter or early spring (while dormant). Container-grown trees can be planted in spring or early fall.
 2. **Hole preparation**: Dig a hole twice as wide as the root system but no deeper than the root flare. The root flare (where trunk meets roots) must remain at or slightly above soil level.
 3. **Soil amendment**: Mix in compost or well-rotted manure at planting, but avoid concentrated fertilizers that can burn young roots. In poor soils, add rock phosphate for phosphorus.
-4. **Watering**: Water thoroughly at planting and provide consistent moisture for the first year. Once established, persimmons are remarkably drought-tolerant.
+4. **Watering**: Water thoroughly at planting and provide consistent moisture for the first year. Once established, persimmons are remarkably [[drought-tolerant-planting-design]].
 5. **Mulching**: Apply 3–4 inches of organic mulch (wood chips, leaves, straw) in a wide ring around the tree, keeping mulch away from the trunk. This retains moisture and suppresses weeds.
 6. **Staking**: Stake young trees for the first 1–2 years to protect against wind.
 
@@ -131,9 +131,9 @@ Established persimmon trees are among the most drought-tolerant fruit trees. Dur
 
 Persimmons have modest nutritional needs:
 
-- **Year 1**: No fertilizer at planting. Apply a balanced organic fertilizer (e.g., 5-5-5) in early spring of the second year, about 1/4 cup scattered in a wide ring around the tree.
+- **Year 1**: No fertilizer at planting. Apply a balanced [[organic-fertilizer-sources-guide]] (e.g., 5-5-5) in early spring of the second year, about 1/4 cup scattered in a wide ring around the tree.
 - **Mature trees**: Apply a balanced organic fertilizer in early spring as buds swell. A mature tree needs roughly 1–2 lbs of nitrogen per year (adjust based on growth and fruiting). Too much nitrogen produces excessive vegetative growth, delays fruiting, and reduces fruit quality.
-- **Compost**: An annual top-dressing of 1–2 inches of well-composted material under the drip line provides slow-release nutrition and improves soil structure.
+- **Compost**: An annual top-dressing of 1–2 inches of well-composted material under the drip line provides slow-release nutrition and improves [[soil-structure-and-aggregate-ecology]].
 - **Micronutrients**: Persimmons occasionally show boron deficiency (internal fruit breakdown) and zinc deficiency (small leaves, reduced fruit set). Foliar sprays of micronutrients can address these if symptoms appear.
 
 ### Pruning

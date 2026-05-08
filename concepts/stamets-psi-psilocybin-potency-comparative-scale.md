@@ -66,7 +66,7 @@ species, based on the psilometric scale:
 | [[psilocybe-semilanceata]] | 0.98 | 0.02 | 0.36 | Gartz 1994 |
 | [[psilocybe-baeocystis]] | 0.85 | 0.59 | 0.10 | Repke et al. 1977 |
 | psilocybe-cyanescens | 0.85 | 0.36 | 0.03 | Stijve & Kuyper 1985 |
-| [[psilocybe-tampanensis]] | 0.68 | 0.32 | N/A | Gartz 1994 |
+| [[psilocybe-tampanensis-entity]] | 0.68 | 0.32 | N/A | Gartz 1994 |
 | psilocybe-cubensis | 0.63 | 0.60 | 0.25 | Gartz 1994 |
 | psilocybe-weilii | 0.61 | 0.05 | N/A | Various |
 | [[psilocybe-hoogshagenii]] | 0.60 | 0.10 | N/A | Heim & Hofmann 1958 |

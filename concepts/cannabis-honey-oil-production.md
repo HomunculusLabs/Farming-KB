@@ -74,7 +74,7 @@ Modern cannabis concentrates such as wax, shatter, and distillate have largely s
 - [[thc-acetate-synthesis-and-pharmacology]] for THC acetylation techniques
 - [[cannabis-oil-purification-techniques]] for broader purification context
 - [[cannabis-concentrates-and-extracts]] for modern concentrate types
-- [[cannabis-extraction-solvent-properties-and-safety]] for solvent handling
+- [[cannabis-indoor-growing-guide]] for solvent handling
 - [[cannabis-chromatography-cannabinoid-purification]] for advanced purification beyond charcoal
 - [[cannabis-fractional-distillation-cannabinoids]] for laboratory-scale refinement
 

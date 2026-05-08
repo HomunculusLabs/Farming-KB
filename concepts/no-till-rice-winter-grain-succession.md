@@ -120,6 +120,6 @@ Fukuoka emphasized that natural farming treats everything as part of a whole. Pr
 
 - [[winter-succession-planting]]
 
-- [[natural-farming-four-principles]]: The philosophical foundation of this method
+- [[korean-natural-farming-and-jadam]]: The philosophical foundation of this method
 - [[clay-pellet-seed-broadcasting]]: How rice seeds are protected during overwintering
 - [[soil-microorganisms-natural-fertility]]: The biological processes that maintain soil health without inputs

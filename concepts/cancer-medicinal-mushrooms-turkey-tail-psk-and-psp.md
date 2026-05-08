@@ -109,7 +109,7 @@ Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[turkey-tail-trametes-versicolor]]
 - [[psk-breast-lung-cancer-clinical-trials]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

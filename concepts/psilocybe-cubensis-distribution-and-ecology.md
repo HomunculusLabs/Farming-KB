@@ -148,9 +148,3 @@ coprophilous habit and represent a distinct ecological group within the genus.
 - [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
 
 - [[psilocybin-mushroom-distribution-worldwide]]
-- [[mushroom-cultivation-basics]]
-
-- [[neurotropic-fungi-classification]]
-- [[psilocybe-diversity-in-mexico]]
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
-- [[sacred-mushroom-traditions-in-mexico]]

@@ -84,7 +84,7 @@ To extend species lists beyond the common taxa obtained by standard plating, spe
 - **Soil steaming**: eliminates sensitive species, selects for heat-tolerant fungi
 - **Botran (dichloran) addition**: suppresses rapidly growing fungi
 - **High-temperature incubation**: selects for thermophilic-fungi|thermophilic species
-- **Baiting techniques**: use selective substrates to isolate target groups such as [[zoosporic-mycoparasites-aquatic-fungi]] or [[coprophilous-fungi-succession]]
+- **Baiting techniques**: use selective substrates to isolate target groups such as zoosporic mycoparasites aquatic fungi or [[coprophilous-fungi-succession]]
 
 ## Related Topics
 

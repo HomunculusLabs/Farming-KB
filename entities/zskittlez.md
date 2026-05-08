@@ -108,9 +108,9 @@ Other notable derivatives include Gary Payton, a Zkittlez × Y Griega cross know
 
 ## See Also
 
-- [[gelato]]
-- [[runtz]]
-- [[wedding-cake]]
+- [[gelato-cannabis]]
+- [[runtz-entity]]
+- [[wedding-cake-cannabis]]
 - [[granddaddy-purple]]
 - [[jack-herer]]
 - [[gorilla-glue]]

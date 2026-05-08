@@ -8,19 +8,18 @@ tags:
   - traditional-chinese-medicine
   - ayurveda
   - edible-plant
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mukherjee, P.K. et al. (2010). \"Sacred lotus (Nelumbo nucifera): phytochemical and therapeutic profile.\" Journal of Pharmacy and Pharmacology, 62(3), 313-325."
+  - "Mukherjee, P.K. et al. (2010). \"Sacred lotus (nelumbo nucifera): phytochemical and therapeutic profile.\" Journal of Pharmacy and Pharmacology, 62(3), 313-325."
   - "Sharma, R.A. et al. (2017). \"Nelumbo nucifera: A review on ethnobotany, phytochemistry, and pharmacology.\" Journal of Ethnopharmacology, 195, 285-297."
   - "Sridhar, K.R. & Bhat, R. (2007). \"Agricultural, nutritional, and ecological significance of lotus (Nelumbo nucifera Gaertn.).\" Critical Reviews in Biotechnology, 27(2), 73-90."
 ---
-
 # Sacred Lotus (*Nelumbo nucifera*)
 
 ## Overview
-*Nelumbo nucifera*, commonly known as sacred lotus, is an aquatic perennial plant in the family Nelumbonaceae. Native to southern Asia and Australia, it has been cultivated for over 3,000 years as a food crop, medicinal herb, and sacred symbol in Hinduism and Buddhism. Every part of the plant is edible and pharmacologically active, making it one of the most thoroughly utilized single-species plants in human history. Its seeds exhibit extreme longevity, with documented germination after 1,300 years of dormancy.
+*Nelumbo nucifera*, commonly known as sacred lotus, is an aquatic perennial plant in the family Nelumbonaceae. Native to southern Asia and Australia, it has been cultivated for over 3,000 years as a food crop, [[medicinal-herb-growing-guide]], and sacred symbol in Hinduism and Buddhism. Every part of the plant is edible and pharmacologically active, making it one of the most thoroughly utilized single-species plants in human history. Its seeds exhibit extreme longevity, with documented germination after 1,300 years of dormancy.
 
 ## Taxonomy
 - **Kingdom:** Plantae
@@ -30,7 +29,7 @@ sources:
 - **Species:** *N. nucifera*
 - **Author citation:** Gaertn., 1788
 - **Synonyms:** *Nymphaea nelumbo* L., *Nelumbium speciosum* Willd.
-- **Close relative:** American lotus (*Nelumbo lutea*), native to eastern North America
+- **Close relative:** American lotus (*Nelumbo lpolypore-fungi-eastern-north-americatern North America
 
 ## Morphology
 - **Stems:** Rhizomatous, thick, fleshy, 10–15 cm diameter, nodes spaced 10–30 cm in pond sediment
@@ -43,20 +42,19 @@ sources:
 - **Blooming:** Summer; individual flowers last 2–3 days; entomophilous (beetles, bees); thermogenesis aids volatile dispersal
 
 - **Rhizome Architecture**
-- Horizontal growth through anaerobic mud at 30–60 cm depth
-- Annual extension: 3–5 m per growing season
+- Horizontal growth through anaerobic mud at 30–60 cmquery-how-to-protect-plants-from-frost-and-extend-the-growing-seasonl extension: 3–5 m per growing season
 - Contains aerenchyma air canals for oxygen transport to submerged tissues
 
 ## Phytochemistry
 
 ### Alkaloids
-- **Nuciferine:** Major aporphine alkaloid in leaves and embryo; anti-obesity and vasorelaxant properties
+- **[[nuciferine]]:** Major aporphine alkaloid in leaves and embryo; anti-obesity and vasorelaxant properties
 - **Dauricine:** Bisbenzylisoquinoline alkaloid; anti-inflammatory, antiarrhythmic
 - **Liensinine, isoliensinine, neferine:** Bisbenzylisoquinoline alkaloids concentrated in plumule (embryo); cardiovascular activity
 - **Nornuciferine:** Minor aporphine alkaloid
 
 ### Flavonoids and Polyphenols
-- **Quercetin, kaempferol, isorhamnetin:** Primary flavonol glycosides in leaves and petals
+- **[[quercetin]], [[kaempferol]], isorhamnetin:** Primary flavonol glycosides in leaves and petals
 - **Myricetin:** Antioxidant activity
 - **Catechin, epicatechin:** Proanthocyanidin monomers in seeds
 - **Total flavonoid content:** 20–45 mg/g dry weight (leaves)
@@ -90,7 +88,7 @@ sources:
 
 ### Nervous System
 - Seed embryo extracts show sedative and anxiolytic effects in murine models
-- Nuciferine demonstrates affinity for dopamine D2 and serotonin 5-HT2A receptors
+- Nuciferine demonstrates affinity for dopamine D2 and [[serotonin]] 5-HT2A receptors
 - Traditional use as a nervine calmative in TCM and Ayurveda
 
 ### Antimicrobial Activity
@@ -148,7 +146,3 @@ sources:
 
 ## See Also
 - [[moringa-oleifera]]
-- [[azadirachta-indica]]
-- [[ocimum-tenuiflorum]]
-- [[ashwagandha]]
-- [[permaculture]]

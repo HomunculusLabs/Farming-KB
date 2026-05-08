@@ -135,25 +135,6 @@ pharmacies, drug stores, or scientific and lab supply sources.
 The lid is placed with the rubber sealing edge upwards on a supporting
 surface. Using a sharpened 3-penny nail held with vise grip pliers, 4 holes
 are punched inside the periphery of the rubber sealing edge. The lid is
-assembled with the rubberized edge up and the jagged edges of the needle
-holes facing downward into the jar.
-
-For spore syringe preparation, a special lid is prepared by drilling a center
-hole to fit the Pyrex glass stirring rod and punching a second hole near the
-edge to fit a syringe needle. This two-hole lid allows simultaneous access
-for both tools while minimizing room air exposure.
-
-## Sterilization Methods
-
-Syringes are sterilized by drawing boiling water through them several times,
-then boiling the wrapped syringes in water for one hour. An alcohol flame is
-preferred over a butane cigarette lighter for flame sterilization because
-butane leaves an undesirable soot residue.
-
-A tequila shot glass placed upside down with a few drops of denatured alcohol
-fuel on the hollow bottom produces a short, clean burning blue flame that
-safely sterilizes small stainless steel tools.
-
 ## Related Concepts
 
 - [[pf-tek-jar-selection-and-physical-requirements]] for detailed jar specifications

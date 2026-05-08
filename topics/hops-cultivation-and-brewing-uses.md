@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Hops (*Humulus lupulus*) are perennial, climbing, herbaceous plants in the Cannabaceae family — making them close botanical relatives of cannabis. Native to temperate regions of the Northern Hemisphere, hops have been cultivated for over 1,000 years, primarily for their cone-like flowers (strobiles), which contain lupulin glands rich in alpha acids, essential oils, and polyphenols. These compounds provide bitterness, flavor, aroma, and natural preservative qualities to beer. Beyond brewing, hops have a long history of medicinal use as a sedative, anti-inflammatory, and digestive aid, and they are increasingly valued in permaculture systems as fast-growing, nitrogen-responsive climbers that provide shade, biomass, and wildlife habitat.
+Hops (*Humulus lupulus*) are perennial, climbing, herbaceous plants in the Cannabaceae family — making them close botanical relatives of cannabis. Native to temperate regions of the Northern Hemisphere, hops have been cultivated for over 1,000 years, primarily for their cone-like flowers (strobiles), which contain lupulin glands rich in alpha acids, [[essential-oils-and-hydrosol-distillation]], and polyphenols. These compounds provide bitterness, flavor, aroma, and natural preservative qualities to beer. Beyond brewing, hops have a long history of medicinal use as a sedative, anti-inflammatory, and digestive aid, and they are increasingly valued in permaculture systems as fast-growing, nitrogen-responsive climbers that provide shade, biomass, and wildlife habitat.
 
 ## Botanical Profile
 
@@ -64,7 +64,7 @@ Hop varieties are broadly classified by their primary brewing role and their geo
 - **Noble hops (Germany, Czechia, Slovenia):** Saaz, Tettnanger, Hallertauer Mittelfrüh, Spalter Select — low alpha, delicate floral/spicy/herbal aromas, central to Continental lager styles.
 - **British hops:** Fuggle, East Kent Goldings, Challenger, Target — earthy, floral, slightly fruity.
 - **American hops:** Cascade, Centennial, Chinook, Columbus, Simcoe, Citra, Mosaic, Galaxy — bold citrus, pine, tropical fruit, stone fruit aromas.
-- **Southern Hemisphere (AU/NZ):** Galaxy, Nelson Sauvin, Motueka, Riwaka — intense tropical, passionfruit, white wine character.
+- **[[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] (AU/NZ):** Galaxy, Nelson Sauvin, Motueka, Riwaka — intense tropical, passionfruit, white wine character.
 - **Japanese hops (*H. lupulus* var. *cordifolius*):** Wild species with limited commercial breeding; high resistance to pests and diseases.
 
 ### Notable Varieties for Home Growers
@@ -76,7 +76,7 @@ Hop varieties are broadly classified by their primary brewing role and their geo
 - **Fuggle:** Traditional English aroma hop. Mild, earthy, slightly fruity. Moderate vigor. Good for English ales, porters, stouts.
 - **Willamette:** American triploid derived from Fuggle. Soft, floral, slightly spicy. Good yield, widely adapted.
 - **Magnum:** German high-alpha bittering hop (12–14%). Excellent yield, clean bitterness, very good disease resistance and storage stability.
-- **Hallertauer Mittelfrüh:** Classic noble hop. Low alpha (3–5%), delicate floral/spicy aroma. Requires careful disease management (susceptible to downy mildew and verticillium wilt). Best for cool, dry climates.
+- **Hallertauer Mittelfrüh:** Classic noble hop. Low alpha (3–5%), delicate floral/spicy aroma. Requires careful disease management (susceptible to [[downy-mildew-biology-diversity-peronosporales]] and verticillium wilt). Best for cool, dry climates.
 - **Chinook:** High-alpha (12–14%) with piney, spicy, grapefruit character. Very vigorous and productive. Good dual-purpose hop for American IPAs.
 
 ## Site Selection and Soil Requirements
@@ -101,7 +101,7 @@ Hops thrive in temperate climates with:
 - **Type:** Deep, well-drained loam is ideal. Hops tolerate sandy loam and clay loam if drainage is adequate. Heavy clay with poor drainage promotes crown rot.
 - **pH:** 6.0–7.0 (slightly acidic to neutral). Below pH 5.5, nutrient availability drops significantly.
 - **Depth:** Minimum 30 cm (12 inches) of topsoil; deeper is better given the extensive root system.
-- **Drainage:** Critical. Standing water around the crown is the most common cause of plant death. Raised beds or mounded planting are recommended in heavy soils.
+- **Drainage:** Critical. Standing water around the crown is the most common cause of plant death. [[raised-beds-vs-in-ground-vs-containers]] or mounded planting are recommended in heavy soils.
 - **Organic matter:** Hops are heavy feeders. Incorporate 5–10 cm of well-rotted compost or aged manure before planting.
 
 ## Planting and Establishment
@@ -174,7 +174,7 @@ Hops are heavy nitrogen feeders and have significant nutrient demands, particula
 - **Early spring (at emergence):** Apply a balanced organic fertilizer or compost (e.g., 2–4 liters well-rotted compost per plant) plus bone meal for phosphorus.
 - **Late spring (May–June, vegetative growth):** Apply nitrogen-rich amendments — blood meal, fish emulsion, or composted manure. Side-dress 30 cm from the crown.
 - **Early summer (June–July):** Final nitrogen application (stop by mid-July at the latest in Zone 5–6; adjust for your climate). Add potassium source (wood ash, kelp meal, sulfate of potash).
-- **Post-harvest (fall):** Top-dress with compost and a phosphorus source to support root reserves for winter.
+- **[[post-harvest-handling-marketing-mushrooms]] (fall):** Top-dress with compost and a phosphorus source to support root reserves for winter.
 
 ### Foliar Feeding
 
@@ -303,9 +303,9 @@ Hops are heavy nitrogen feeders and have significant nutrient demands, particula
 
 ### Companion Plants
 
-- **Comfrey (*Symphytum officinale*):** Dynamic accumulator; chop-and-drop mulch provides potassium and other minerals.
-- **Yarrow (*Achillea millefolium*):** Attracts predatory insects; improves soil structure.
-- **Clover (*Trifolium* spp.):** Nitrogen-fixing ground cover between plants.
+- **Comfrey (*Symphytum officinale*):** [[dynamic-accumulator-plants-potassium]]; chop-and-drop mulch provides potassium and other minerals.
+- **Yarrow (*Achillea millefolium*):** Attracts predatory insects; improves [[soil-structure-and-aggregate-ecology]].
+- **Clover (*Trifolium* spp.):** [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] ground cover between plants.
 - **Chives and garlic:** Repel aphids when planted near the base of hop plants.
 - **Borage (*Borago officinalis*):** Attracts pollinators and beneficial insects.
 - **Nasturtium (*Tropaeolum majus*):** Trap crop for aphids.

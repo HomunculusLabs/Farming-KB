@@ -84,8 +84,8 @@ Species like *Salicornia*, *Atriplex* (saltbush), and *Suaeda* extract and accum
 ### Salt-Tolerant Cover Crops
 Barley, triticale, and tall wheatgrass tolerate moderate salinity (EC up to ~8 dS/m). They protect the surface, reduce evaporation-driven salt concentration, and add organic matter when terminated.
 
-### Mycorrhizal Inoculation
-Arbuscular mycorrhizal fungi (AMF) improve nutrient uptake under saline stress and enhance soil aggregation. Inoculate cover crop seed; most effective with organic matter present.
+### [[mycorrhizal-inoculation]]
+Arbuscular [[mycorrhizal-fungi]] (AMF) improve nutrient uptake under saline stress and enhance soil aggregation. Inoculate cover crop seed; most effective with organic matter present.
 
 ## 5. Leaching Techniques
 
@@ -123,7 +123,7 @@ Leaching flushes excess salts below the root zone with irrigation water.
 
 | Phase | Duration | Key Actions | Target Metrics |
 |---|---|---|---|
-| Assessment | Week 1–2 | Soil testing, site evaluation | Baseline EC, SAR, ESP |
+| Assessment | Week 1–2 | [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
 | Physical + Chemical | Month 1–2 | Drainage, ripping, gypsum, compost | EC trending down |
 | Leaching | Month 2–4 | Ponded irrigation, drainage flow | EC < 6 dS/m in root zone |
 | Biological | Month 3–12 | Cover crops, halophytes, mulch | SAR < 13, structure improving |
@@ -148,5 +148,3 @@ Restore saline and compacted soil systematically: **diagnose accurately, address
 ## See Also
 
 - [[arbuscular-mycorrhizal-fungi]]
-- [[cover-crops]]
-- [[mycorrhiza]]

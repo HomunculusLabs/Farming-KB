@@ -126,8 +126,8 @@ first-ever seizure in 2006, from a Dutch retailer.
 - [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 
-- [[hallucinogenic mushrooms]]
-- [[psilocybin]]
+- [[hallucinogenic-mushrooms]]
+- [[psilocybin-compound]]
 - [[psilocybe-cubensis]]
-- [[hallucinogenic mushroom legal status EU]]
-- [[hallucinogenic mushroom prevalence in Europe]]
+- [[hallucinogenic-mushroom-legal-status-eu]]
+- [[hallucinogenic-mushroom-prevalence-europe]]

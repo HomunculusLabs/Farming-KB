@@ -13,11 +13,9 @@ sources:
 **Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlets VIII–IX)
 **Updated:** 2026-04-18
 
-
 ## Overview
 
 Zone one is the most intensively managed area — the kitchen garden, herbs, and daily-use plants. It is fully mulched, weed-free, and provides practically the total food supply. Design should attach the kitchen to a greenhouse with connecting entrance and direct views from the dishwashing area into the greenhouse.
-
 
 ## Layout Principles
 
@@ -35,7 +33,6 @@ The house setup must follow function: mud room → pantry → kitchen → living
 - Frogs climb kitchen windows; geckos control greenhouse pests; turtles eat worms and slugs in mulch
 - Include space for dumping organic matter (compost/mulch), screened from view
 
-
 ## Barrier Plants
 
 Zone one should be bordered and blocked from surrounding areas:
@@ -43,7 +40,6 @@ Zone one should be bordered and blocked from surrounding areas:
 - **Best candidates:** Jerusalem artichoke (quick establishment), Siberian pea tree (clippings provide high potash-nitrogen mulch), comfrey
 - **Fencing:** Netted fence with underground layer + electric wire 4 inches above top stops all predators. For deer, higher fence needed
 - **Sunflowers** planted in 4-foot band provide quick barrier and seeds for chickens
-
 
 ## Mulch vs. Compost
 
@@ -55,7 +51,6 @@ Mollison strongly advocates sheet mulching over composting:
 - Kitchen wastes go directly onto mulch — scatter and recover
 - In 3 days, worm cast completely covers sawdust layer with high nitrogen, high potash, high phosphate
 
-
 ## Soil Management
 - Clay soils are fantastic for water retention — mulched clay gardens are the best
 - Sturdy clay gardens make the best mulch gardens
@@ -63,14 +58,12 @@ Mollison strongly advocates sheet mulching over composting:
 - Pine needles create pH stratification (acid top, alkaline below) — "everything" pH
 - Mussel shells scattered under mulch disappear in 3 years
 
-
 ## Potato Box Technique
 - Permanent straw box (8×5 feet), no soil, no bottom
 - Set potatoes 9"×9", scatter ashes, fill with straw
 - Pick potatoes from straw all year; some grow green on top, push them down
 - With comfrey leaf under each potato for potash and nutrients
 - Mint pot alongside for cooking — pick potato and mint together
-
 
 ## Related
 

@@ -85,4 +85,4 @@ The Heim-Hofmann research programme established psilocybin as a legitimate subje
 ## Related
 
 - [[wasson-hofmann-ruck-theory]]
-- [[psilocybe-mexicana-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

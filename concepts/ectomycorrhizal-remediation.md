@@ -91,7 +91,7 @@ Successful ECM remediation deployment requires:
 - [[mycorrhizal-pah-tnt-degradation]] for PAH and explosives degradation
 - [[mycorrhizal-heavy-metal-uptake]] for metal uptake mechanisms
 - [[mycorrhizal-hydrocarbon-remediation]] for petroleum degradation
-- [[mycoremediation-field-applications]] for field deployment considerations
+- [[bioremediation-using-fungi]] for field deployment considerations
 
 ## Related
 

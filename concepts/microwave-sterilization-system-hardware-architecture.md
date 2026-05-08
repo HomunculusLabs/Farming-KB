@@ -24,7 +24,7 @@ The NASA Johnson Space Center microwave surface sterilization system (MSC-22484)
 
 ### Magnetron Oscillator
 
-The magnetron oscillator is the primary microwave energy source in the system. It generates electromagnetic radiation at 2.45 GHz, the standard ISM (Industrial, Scientific, and Medical) band frequency for microwave heating applications worldwide. This frequency was selected because it directly couples with the rotational transitions of [[dipolar water molecules]], enabling efficient energy transfer to water present on or within contaminated surfaces.
+The magnetron oscillator is the primary microwave energy source in the system. It generates electromagnetic radiation at 2.45 GHz, the standard ISM (Industrial, Scientific, and Medical) band frequency for microwave heating applications worldwide. This frequency was selected because it directly couples with the rotational transitions of [[dipolar-water-molecules]], enabling efficient energy transfer to water present on or within contaminated surfaces.
 
 The magnetron operates by generating electrons in a vacuum cavity, which interact with a magnetic field to produce coherent microwave oscillations. It converts electrical energy from the power supply into high-frequency electromagnetic waves with typical efficiency of 60 to 70 percent. The remaining energy is dissipated as heat, requiring cooling provisions in the system design. Output power must be stable and reproducible to ensure consistent sterilization results across treatment cycles.
 
@@ -66,7 +66,7 @@ Splitter design considerations include:
 
 ### Dipole Antennas
 
-Multiple [[dipole antenna]] elements serve as the radiating elements that deliver microwave energy directly to the contaminated surfaces. Each antenna converts the guided electromagnetic wave in the coaxial transmission line into a propagating wave that radiates outward toward the treatment zone.
+Multiple [[dipole-antenna]] elements serve as the radiating elements that deliver microwave energy directly to the contaminated surfaces. Each antenna converts the guided electromagnetic wave in the coaxial transmission line into a propagating wave that radiates outward toward the treatment zone.
 
 The use of multiple dipole antennas positioned around the target area provides several benefits:
 
@@ -79,7 +79,7 @@ Antenna placement is a critical design parameter that must be optimized for each
 
 ### Trace Water Introduction System
 
-The trace water introduction system delivers controlled quantities of water (approximately 9 uL per cm^2 of surface) to the contaminated surfaces prior to or during microwave irradiation. This subsystem is essential for destroying resistant organisms such as bacterial spores through the [[trace water flash steam microwave sterilization]] mechanism.
+The trace water introduction system delivers controlled quantities of water (approximately 9 uL per cm^2 of surface) to the contaminated surfaces prior to or during microwave irradiation. This subsystem is essential for destroying resistant organisms such as bacterial spores through the [[trace-water-flash-steam-microwave-sterilization]] mechanism.
 
 The water delivery system must provide:
 
@@ -114,7 +114,7 @@ Throughout the microwave transmission chain, impedance matching is critical for 
 
 ### Thermal Management
 
-The magnetron and power supply generate significant waste heat during operation. Continuous duty sterilization applications require adequate cooling, typically through forced air or liquid cooling systems. The magnetron anode is the primary heat source, and its temperature must be kept within specified limits to maintain output power stability and magnetron lifetime. For intermittent use in applications like [[mushroom cultivation]] equipment sterilization, natural convection cooling may be sufficient given the short duty cycles.
+The magnetron and power supply generate significant waste heat during operation. Continuous duty sterilization applications require adequate cooling, typically through forced air or liquid cooling systems. The magnetron anode is the primary heat source, and its temperature must be kept within specified limits to maintain output power stability and magnetron lifetime. For intermittent use in applications like [[mushroom-cultivation]] equipment sterilization, natural convection cooling may be sufficient given the short duty cycles.
 
 ### Safety Interlocks
 
@@ -128,10 +128,10 @@ All components in the microwave transmission path must be made from materials wi
 
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-sterilization-of-enclosed-systems]]
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 
-- [[microwave exposure system architecture for surface sterilization]] for the overall system design
-- [[2.45 GHz water dipolar coupling]] for the physics of frequency selection
-- [[microwave sterilizable access port]] for the NASA application hardware
-- [[trace water enhanced microwave surface sterilization]] for the water system role
-- [[microwave surface sterilization core concept]] for the underlying principle
+- [[microwave-exposure-system-architecture-for-surface-sterilization]] for the overall system design
+- [[2.45-ghz-water-dipolar-coupling]] for the physics of frequency selection
+- [[microwave-sterilizable-access-port]] for the NASA application hardware
+- [[trace-water-enhanced-microwave-surface-sterilization]] for the water system role
+- [[microwave-surface-sterilization-core-concept]] for the underlying principle

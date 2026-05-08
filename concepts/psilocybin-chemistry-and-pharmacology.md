@@ -136,55 +136,12 @@ individual fruiting bodies. [[psilocybe-aztecorum]], found at elevations up to
 moderately potent but shows significant variation depending on strain,
 substrate, and growing conditions.
 
-The blueing reaction that occurs when psilocybin-containing mushroom tissue is
-damaged is caused by enzymatic oxidation of psilocin and possibly other
-phenolic compounds. [[psychedelic-mushroom-chemistry]] covers the blueing
-mechanism in detail. While useful as a field indicator, blueing is not perfectly
-correlated with potency. Some non-neurotropic species also exhibit blueing, and
-the intensity of blueing does not linearly predict psilocybin content. The
-blueing feature, combined with indole substance detection or the strong
-suggestion of such substances, is one of the criteria used by Guzmán (1983)
-and Singer (1986) to confirm that certain species are neurotropic.
-
-## Route of Administration and Duration
-
-In recreational and traditional contexts, psilocybin mushrooms are typically
-ingested orally, either eaten fresh or dried, or brewed into a tea. The EMCDDA
-(2006) noted that mushrooms are "typically chopped and ingested or brewed in
-tea." Sclerotia-forming species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis]] produce hardened masses of mycelium known as "truffles" or
-"philosopher's stones," consumed in the same manner.
-
-Onset of effects typically occurs within 20 to 60 minutes after ingestion, with
-peak effects at 2 to 3 hours and total duration of approximately 4 to 6 hours.
-This is notably shorter than LSD (8 to 12 hours) and considerably shorter than
-the [[amanita-muscaria-pharmacology]] experience, which can last 8 to 10 hours and is
-complicated by the toxic and deliriant effects of ibotenic acid.
-
-## Modern Research Implications
-
-The pharmacological properties of psilocybin have generated renewed scientific
-interest, particularly in psychiatry and neuroscience. Clinical trials at
-institutions including Johns Hopkins University and Imperial College London have
-investigated psilocybin-assisted therapy for treatment-resistant depression,
-end-of-life anxiety, substance use disorders, and obsessive-compulsive
-disorder. The compound's relatively short duration of action, low physiological
-toxicity, and non-addictive pharmacological profile distinguish it from many
-other psychoactive substances and contribute to its favorable safety profile in
-supervised clinical settings.
-
-The chemical understanding of psilocybin has evolved considerably since Albert
-Hofmann first isolated the compound from [[psilocybe-mexicana]] specimens
-collected by R. Gordon Wasson in Mexico in 1958. Modern analytical techniques
-including HPLC and mass spectrometry have resolved many contradictory results,
-though natural variability of fungal alkaloid content continues to present
-challenges for standardization in both research and therapeutic applications.
-
 ## See Also
 
 - [[tryptamine-entity-tihkal]]
 - [[psychedelic-mushroom-chemistry]]
 
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 - [[psilocybin-biosynthesis-pathway]]
 - [[amanita-muscaria-chemistry-and-pharmacology]] for comparison with the GABAergic muscimol/ibotenic acid pathway

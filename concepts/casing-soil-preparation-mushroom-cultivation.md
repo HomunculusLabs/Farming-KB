@@ -63,7 +63,7 @@ Some authors advise against sterilising casing, arguing it kills beneficial micr
 
 ### Arguments For Sterilisation
 
-The source documentation reports consistently bad experiences with untreated or pasteurised casing soils. Sterilisation at 121°C for one hour in a [[pressure cooker]] provides the most reliable results. The pragmatic view: while beneficial organisms may help theoretically, untreated soil's contamination risk outweighs any benefit. The documentation states: "We just tell what works best for us!"
+The source documentation reports consistently bad experiences with untreated or pasteurised casing soils. Sterilisation at 121°C for one hour in a [[pressure-cooker]] provides the most reliable results. The pragmatic view: while beneficial organisms may help theoretically, untreated soil's contamination risk outweighs any benefit. The documentation states: "We just tell what works best for us!"
 
 ### Practical Implementation
 
@@ -71,7 +71,7 @@ Place casing soil in oven bags (nylon), autoclave bags (polypropylene), or jars.
 
 ## Application Technique
 
-When [[grass-seed substrate]] is fully colonised:
+When [[grass-seed-substrate]] is fully colonised:
 
 1. Shake colonised grain loose and pour into 1-litre disposable plastic trays (one jar per tray)
 2. Break up lumps using the clean jar rim for an even grain bed
@@ -106,7 +106,7 @@ The source documentation describes a simple but effective fruiting setup using c
 - Cold-shocking harder-to-fruit strains by placing them in a refrigerator overnight before putting them in the bins
 - Pinheads appearing 6-15 days after introducing casings to the bins, with mushrooms maturing in 5-7 days
 
-Notably, [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] do not benefit from cold-shock treatment. Only certain difficult strains require it.
+Notably, [[psilocybe-mexicana]], [[psilocybe-tampanensis-entity]], and [[panaeolus-subbalteatus]] do not benefit from cold-shock treatment. Only certain difficult strains require it.
 
 ## Simplicity as a Design Principle
 
@@ -118,7 +118,7 @@ Different species exhibit distinct fruiting patterns when cased on grass seed su
 
 - **[[psilocybe-cubensis]]** strains vary considerably. The documentation mentions "Ecuador cubensis" as an easy-fruiting strain that does not require cold shock, while other strains benefit from the treatment. First flushes are typically the largest.
 - **[[psilocybe-mexicana]]** usually produces one large flush followed by a noticeably smaller second flush. Total flush count is typically lower than cubensis.
-- **[[psilocybe-tampanensis]]** fruits less prolifically than cubensis but produces sclerotia as a supplementary harvest from both the jar and the casing layer.
+- **[[psilocybe-tampanensis-entity]]** fruits less prolifically than cubensis but produces sclerotia as a supplementary harvest from both the jar and the casing layer.
 - **[[panaeolus-subbalteatus]]** has specific environmental requirements and does not benefit from cold shock.
 
 The documentation notes that developing a "feeling" for the watering regime is essential — explicit directions are difficult to provide because optimal moisture varies with species, strain, ambient conditions, and casing depth. This skill develops with experience across multiple grows.

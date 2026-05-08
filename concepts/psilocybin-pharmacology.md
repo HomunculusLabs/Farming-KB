@@ -133,7 +133,7 @@ Psychological and physical dependency does not develop with psilocybin-containin
 
 ## Legal Status
 
-Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotropic Substances and are listed in Schedule I. All EU member states control them accordingly. However, the legal status of the mushrooms themselves (as biological organisms containing these compounds) has been subject to legislative confusion and varies across jurisdictions. See [[hallucinogenic mushroom legislation in Europe]] for country-specific details.
+Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotropic Substances and are listed in Schedule I. All EU member states control them accordingly. However, the legal status of the mushrooms themselves (as biological organisms containing these compounds) has been subject to legislative confusion and varies across jurisdictions. See [[hallucinogenic-mushroom-legislation-in-europe]] for country-specific details.
 
 ## See Also
 
@@ -144,5 +144,5 @@ Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotro
 - [[psilocybe-cubensis]]
 - [[psilocybe-semilanceata]]
 - [[amanita-muscaria]]
-- [[hallucinogenic mushroom legislation in Europe]]
-- [[smartshops and hallucinogenic mushroom retail]]
+- [[hallucinogenic-mushroom-legislation-in-europe]]
+- [[smartshops-and-hallucinogenic-mushroom-retail]]

@@ -141,4 +141,4 @@ and changes in forest moisture regimes associated with climate change.
 
 - [[decomposition]]
 - [[mycena-chlorophos]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

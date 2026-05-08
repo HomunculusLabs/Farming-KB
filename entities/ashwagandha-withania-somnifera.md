@@ -131,8 +131,8 @@ Pregnancy is a strict contraindication — ashwagandha has demonstrated abortifa
 
 ## See Also
 
-- [[Rhodiola rosea]] — another well-studied adaptogenic herb
-- [[Panax ginseng]] — adaptogen used in Traditional Chinese Medicine
+- [[rhodiola-rosea]] — another well-studied adaptogenic herb
+- [[panax-ginseng]] — adaptogen used in Traditional Chinese Medicine
 - [[Ayurveda]] — traditional Indian system of medicine
 - [[Cortisol]] — primary stress hormone modulated by ashwagandha
 - [[Withanolides]] — class of steroidal lactones characteristic of *Withania* species

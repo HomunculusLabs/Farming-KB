@@ -19,7 +19,7 @@ Biofertilizers are living organisms added to soil to promote plant nutrition thr
 
 Rhizobia are soil bacteria that form symbiotic relationships with legumes (soybeans, locust trees, wisteria, clover, peanuts). The bacteria provide enzymes (nitrogenase) that break triple-bonded atmospheric nitrogen (N2), and the plant provides housing in root nodules plus carbon-based root-exudates|exudates. Nodule environments are low in oxygen, which is essential for nitrogenase to function. The pinkish color inside nodules comes from leghemoglobin, a compound similar to hemoglobin that regulates oxygen levels.
 
-Up to 20 percent excess nitrogen is produced beyond what the legume and bacteria need. This excess moves into the soil and [[nutrient-retention-soil-food-web]], where mycorrhiza|mycorrhizal fungi transport much of it to other plants.
+Up to 20 percent excess nitrogen is produced beyond what the legume and bacteria need. This excess moves into the soil and [[composting-and-soil-biology]], where mycorrhiza|mycorrhizal fungi transport much of it to other plants.
 
 **Critical specificity:** There must be a specific match between Rhizobia species and plant species. Inoculants must be matched carefully. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
 

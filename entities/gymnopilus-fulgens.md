@@ -1,5 +1,5 @@
 ---
-title: "Gymnopilus fulgens"
+title: "gymnopilus fulgens"
 created: 2026-04-28
 type: species
 tags: [fungi, cortinariaceae, psychoactive, gymnopilus, wood-inhabiting, basidiomycota]
@@ -15,7 +15,7 @@ Hymenogastraceae (formerly Cortinariaceae), recognized as one of
 approximately 14 psychoactive species within the genus Gymnopilus.
 The mushroom is notable for its bright orange to golden-orange
 coloration, bitter taste, and presence of the psychoactive compound
-psilocybin. Unlike the well-known Psilocybe genus, Gymnopilus species
+[[psilocybin]]. Unlike the well-known Psilocybe genus, Gymnopilus species
 are primarily wood-inhabiting saprobes that fruit on dead hardwood
 logs and stumps, often in conspicuous clusters. G. fulgens was
 described by Petter Adolf Karsten in 1876 and has since been reported
@@ -114,19 +114,19 @@ a precursor to the alpha-pyrone pigments characteristic of the genus.
 | Gymnopilin | Present (genus) | Bitter principle; toxic to insects |
 ### Potency
   (0.01–0.1% dry weight), significantly less than Psilocybe
-  cubensis (0.5–1.0%) or Psilocybe azurescens (1.0–2.0%)
+  cubensis (0.5–1.0%) or [[psilocybe-azurescens]] (1.0–2.0%)
   most reports classify it as "weakly active"
   foragers seeking entheogenic species
 ## Similar Species
 | Species | Key Differences from G. fulgens |
 |---------|-------------------------------|
 | Gymnopilus spectabilis | Larger (cap to 20 cm); more robust; similar chemistry |
-| Gymnopilus junonius | Larger; cap more scaly; found on conifers too |
-| Gymnopilus penetrans | Smaller; brighter orange; grows on conifers |
-| Gymnopilus sapineus | Smaller (cap to 5 cm); thinner flesh; conifer substrate |
+| [[gymnopilus-junonius]] | Larger; cap more scaly; found on conifers too |
+| [[gymnopilus-penetrans]] | Smaller; brighter orange; grows on conifers |
+| [[gymnopilus-sapineus]] | Smaller (cap to 5 cm); thinner flesh; conifer substrate |
 | Gymnopilus luteofolius | Purple tones in cap and gills; smaller stature |
 | Pholiota species | Often have sticky/slimy caps; grow on wood; NOT psychoactive |
-| Cortinarius species | Cobwebby partial veil (cortina), not ring; rusty spore print similar |
+| Cortinarius species | Cobwebby partial veil (cortina), not ring; rusty [[spore-print]] similar |
 ### Field Identification Tips
   field character
   Gymnopilus species do not blue significantly
@@ -148,5 +148,3 @@ a precursor to the alpha-pyrone pigments characteristic of the genus.
 - [[gymnopilus-viridans]]
 
 - [[baeocystin]]
-- [[gymnopilus-junonius]]
-- [[gymnopilus-luteofolius]]

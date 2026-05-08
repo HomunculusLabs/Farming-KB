@@ -137,43 +137,6 @@ This is why building aggregates (through no-till, cover crops, and organic amend
 | Diverse rotations | Support diverse microbial communities and root architectures |
 | Adequate calcium / proper liming | Promotes clay flocculation (particles clump together) |
 
-### Destroys Aggregates ❌
-
-| Practice | How It Harms |
-|----------|-------------|
-| Intensive tillage | Physically shatters macroaggregates; exposes protected carbon |
-| Bare fallow | No root inputs; microbial community starves; aggregates oxidize |
-| Monoculture | Limited root diversity; reduced microbial diversity |
-| Excessive sodium | Disperses clay particles; collapses structure |
-| Overgrazing | Compaction from hooves; loss of vegetation cover |
-| Pesticides | Kills non-target organisms (earthworms, fungi) that build structure |
-| Excessive nitrogen fertilizer | Suppresses mycorrhizal colonization |
-
-## How to Assess Your Soil's Aggregation
-
-Simple field tests anyone can do:
-
-1. **The slaking test**: Take an air-dry clump of soil (about 1 cm across) from 5–10 cm depth. Drop it into a dish of water. Watch what happens.
-   - **Stable**: Stays intact for 30+ minutes → excellent structure
-   - **Moderate**: Slowly breaks apart over 5–30 minutes → adequate structure
-   - **Poor**: Falls apart immediately into a cloud of particles → degraded structure
-
-2. **The ribbon test**: Squeeze a moist handful of soil between thumb and forefinger into a ribbon. While this primarily assesses texture (clay content), the **feel** of the soil — crumbly vs. massive vs. plastic — also reveals structure quality.
-
-3. **Visual observation**: Dig a small hole and look at the soil profile. Are there visible clumps (aggregates) with spaces between them? Or is it a uniform, structureless mass?
-
-4. **Infiltration test**: Pour water on the soil surface and observe how quickly it soaks in. Well-aggregated soil absorbs water rapidly; compacted or structureless soil sheds or ponds water.
-
-## Quick Takeaways
-
-- **Aggregates = soil structure**. They are the fundamental unit of soil quality.
-- **Biology builds them** — fungi, bacteria, roots, and earthworms are the architects.
-- **Tillage destroys them** — every pass with a plow dismantles centuries of biological construction.
-- **They create pore structure** — the right mix of air, water, and root space for plant growth.
-- **They protect carbon** — the primary mechanism for long-term soil carbon storage.
-- **You can see them** — simple slaking tests reveal aggregate stability in minutes.
-- **Building them takes time** — but destroying them takes seconds. Protect what you have.
-
 ## See Also
 
 - [[fungal-contributions-soil-structure]]

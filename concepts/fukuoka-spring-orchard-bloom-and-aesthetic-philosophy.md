@@ -25,7 +25,7 @@ In the opening passages of "The Road Back to Nature," Masanobu Fukuoka describes
 
 Fukuoka's orchard is home to cherry, plum, peach, and pear trees growing alongside semi-wild vegetables beneath them. When spring arrives, all these plants break into bloom simultaneously, mixing the greens of new foliage with the blossoms of fruit trees and the blue and white of daikon (Japanese radish) flowers. The iridescent shower of falling petals creates what visitors call an Eden or paradise on Earth.
 
-This is not a manicured display garden but a working [[food forest]] operating on [[natural-farming]] principles. The trees grow without [[pruning-fruit-trees-and-bushes]], the ground is covered in [[white-clover-ground-cover]] rather than bare soil, and the vegetables grow semi-wild beneath the canopy. The aesthetic result emerges as a byproduct of ecological health rather than deliberate landscape design. The beauty is inseparable from the biological functioning of the system.
+This is not a manicured display garden but a working [[food-forest]] operating on [[natural-farming]] principles. The trees grow without [[pruning-fruit-trees-and-bushes]], the ground is covered in [[white-clover-ground-cover]] rather than bare soil, and the vegetables grow semi-wild beneath the canopy. The aesthetic result emerges as a byproduct of ecological health rather than deliberate landscape design. The beauty is inseparable from the biological functioning of the system.
 
 Fukuoka notes that the flowers of nature "bloom of their own accord and scatter without care or concern." This phrase captures a central theme: natural beauty is effortless and self-organizing, in contrast to the labor-intensive beauty of cultivated gardens that require constant human intervention to maintain. The orchard produces its stunning display without any gardener deciding what should bloom where or when. The plants follow their own seasonal rhythms in an interconnected ecology.
 
@@ -39,7 +39,7 @@ The modern person, according to Fukuoka, "no longer has the time or ease of mind
 
 ## Flower Arrangement and the Objectification of Nature
 
-Fukuoka draws a parallel with [[flower arrangement]] (ikebana). People bring wild flowers home, display them in vases, and "vie with each other in the art of flower arrangement." The flowers become objects for aesthetic competition rather than living beings to be encountered in their natural context. "Caught up as he is with the image of himself represented therein, civilized man today is no longer able to see the flowers (God) in the fields."
+Fukuoka draws a parallel with [[flower-arrangement]] (ikebana). People bring wild flowers home, display them in vases, and "vie with each other in the art of flower arrangement." The flowers become objects for aesthetic competition rather than living beings to be encountered in their natural context. "Caught up as he is with the image of himself represented therein, civilized man today is no longer able to see the flowers (God) in the fields."
 
 The act of cutting a flower and placing it in a vase is, for Fukuoka, emblematic of the larger pattern of human relationship to nature: extraction, display, and competition. The flower is removed from its ecological context, from the soil and insects and weather that gave it meaning, and reduced to an aesthetic object evaluated by human standards of beauty. The flower in the field, rooted in the earth and participating in the cycles of growth and decay, is invisible to this way of seeing.
 
@@ -112,7 +112,7 @@ This seasonal awareness stands in contrast to the modern consumer's experience o
 
 Fukuoka's aesthetic philosophy suggests that the deepest motivation for [[natural-farming]] is not merely ecological sustainability or food production but the recovery of a direct, unmediated relationship with the natural world. A garden managed on natural farming principles becomes more than a food source; it becomes a place of contemplation and reconnection.
 
-The practical lesson is that beautiful gardens do not require intensive maintenance. Ecological health produces its own aesthetic. A diverse polyculture of fruit trees, ground covers, and [[semi-wild vegetables]] will produce seasonal displays of bloom, color, and texture that rival any designed landscape, while simultaneously producing food and building soil. The gardener who steps back and allows nature to express itself discovers that beauty is not something to be created but something to be witnessed.
+The practical lesson is that beautiful gardens do not require intensive maintenance. Ecological health produces its own aesthetic. A diverse polyculture of fruit trees, ground covers, and [[semi-wild-vegetables]] will produce seasonal displays of bloom, color, and texture that rival any designed landscape, while simultaneously producing food and building soil. The gardener who steps back and allows nature to express itself discovers that beauty is not something to be created but something to be witnessed.
 
 ## See Also
 

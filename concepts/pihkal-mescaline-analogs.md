@@ -148,8 +148,3 @@ essential for grasping the logic of Shulgin's systematic exploration.
 
 - [[pihkal-2c-b-family]] — 2C psychedelic phenethylamines
 - [[pihkal-doa-family]] — DOx amphetamine derivatives
-- [[pihkal-mda-family]] — MDA, MDMA, and empathogenic compounds
-- [[phenethylamine-chemistry-basics]] — Biography of the chemist
-- [[phenethylamine-chemistry-basics]] — Co-author and research partner
-- [[phenethylamine-chemistry-basics]] — Overview of the broader class
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — Pharmacological targets

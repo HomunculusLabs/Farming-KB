@@ -58,7 +58,7 @@ Coral reefs provide an enormous diversity of substrates for fungal colonization,
 
 The physical complexity of reef structures creates microhabitat variation at multiple scales, from millimeter-scale surface texture differences to meter-scale habitat variation between reef zones.
 
-[[fungal-biodiversity-soil-habitats]] [[marine-fungal-diversity]]
+[[the-soil-food-web]] [[marine-fungal-diversity]]
 
 ## Oxygen Limitations in Marine Fungi
 
@@ -80,7 +80,7 @@ Coral reef fungal communities are vulnerable to coral bleaching, ocean acidifica
 
 The ecological roles of fungi in coral reef ecosystems, including decomposition, nutrient cycling, and potential pathogenic effects on corals, make understanding reef fungal diversity essential for reef conservation.
 
-[[fungal-conservation-strategies]] [[fungal-responses-climate-change]]
+[[ethnomycology]] [[fungal-responses-climate-change]]
 
 ## Research Needs
 

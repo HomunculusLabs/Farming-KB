@@ -80,7 +80,7 @@ This conversion uses acetic anhydride, an extremely dangerous chemical. A safety
 
 For growers interested in the upstream cultivation side, [[green-cannabis-ph-management-cannabis-growing]] covers the soil chemistry that influences the precursor cannabinoids in raw plant material. Research into [[cannabis-cancer-pain-research]] explores the therapeutic potential of cannabinoids including acetylated derivatives.
 
-See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[cannabis-honey-oil-production]], and [[cannabis-extraction-solvent-properties-and-safety]].
+See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[cannabis-honey-oil-production]], and [[cannabis-indoor-growing-guide]].
 
 ## See Also
 
@@ -97,4 +97,4 @@ See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[canna
 - [[tetrahydrocannabinolic-acid-thca]] — the natural acidic precursor to THC, relevant to extraction starting material quality
 
 [[thc-acetate-synthesis-and-pharmacology]] | [[thc-acetate-and-isomerization]] | [[tetrahydrocannabinol-thc]] | [[tetrahydrocannabinolic-acid-thca]]
-[[cannabinoid-biosynthesis-pathway]] | [[cannabis-extraction-solvent-properties-and-safety]] | [[cannabis-solvent-reflux-extraction-methods]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]
+[[cannabinoid-biosynthesis-pathway]] | [[cannabis-indoor-growing-guide]] | [[cannabis-solvent-reflux-extraction-methods]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]

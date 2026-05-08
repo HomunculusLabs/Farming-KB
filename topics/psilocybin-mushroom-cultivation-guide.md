@@ -493,3 +493,6 @@ resulting mycelium and mushrooms are illegal.
 - Stamets, P., & Chilton, J.S. (1983). *The Mushroom Cultivator*.
 - Stamets, P. (1993). *Growing Gourmet and Medicinal Mushrooms*.
 - Cotter, T. (2014). *Organic Mushroom Farming and Mycoremediation*.
+## Fanaticus Spore Printing And Syringe Preparation
+
+# Spore Printing and Syringe Preparation for Mushroom Cultivation Spore printing and syringe preparation are essential skills in amateur mycology that enable the propagation of fungal cultures from one generation to the next. These techniques, as detailed in the PF TEK method developed by Psylocybe Fanaticus in the 1990s, form the third and final stage of a complete mushroom cultivation cycle, following substrate preparation and the fruiting process. Mastery of these procedures allows cultivators to maintain genetic lines across multiple growing seasons without reliance on external spore suppliers. ## The Role of Mature Specimens in Spore Production Mature mushrooms serve a fundamentally different purpose than those harvested for consumption. While young, pre-veil-break specimens are prized for their alkaloid potency, mature mushrooms with upturned caps and darkening gills are the source of reproductive spores. ...

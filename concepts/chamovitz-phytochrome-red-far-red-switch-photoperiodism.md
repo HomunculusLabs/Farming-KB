@@ -138,53 +138,12 @@ saw. This molecular memory allows the plant to track the duration of continuous
 darkness with remarkable precision.
 
 ## Ecological Logic of the Red Far-Red System
-
-The ecological logic of this system is elegant. In nature, the last light any
-plant sees at the end of the day is far-red light, which signals the plant to
-"turn off" its photoperiodic response. In the morning, the plant sees red light
-and "wakes up." By measuring how long ago it last saw red light, the plant can
-determine the length of the dark period and adjust its growth and flowering
-accordingly.
-
-This mechanism allows plants to track seasonal changes with great precision. As
-days lengthen in spring, the daily period of uninterrupted far-red signaling at
-dusk shortens relative to the red signaling at dawn, triggering flowering in
-long-day plants. As days shorten in autumn, the reverse occurs, triggering
-flowering in short-day plants.
-
-## The Leaf as the Photoperiodic Eye
-
-A surprising finding was that the photoperiodic "eye" is not located in the plant
-tip, as Darwin had shown for phototropism. Instead, phytochrome for photoperiodism
-is located in the leaves. Experiments demonstrated that illuminating any single
-leaf during the night is sufficient to regulate flowering in the entire plant. If
-all leaves are removed, leaving only the stem and apex, the plant becomes
-completely blind to light flashes for photoperiodic purposes, even if the entire
-above-ground plant is illuminated.
-
-Phytochrome in the leaves receives the light cues and initiates a mobile signal
-that propagates throughout the plant and induces the flowering response at the
-growing tips. This elegant division of labor allows the plant's light-sensing
-organs to be distributed across its structure, maximizing light capture while the
-response occurs at the growing points.
-
-## The Two-Photoreceptor System
-
-The discovery of phytochrome alongside the earlier identification of blue-light
-photoreceptors for phototropism revealed that plants possess at least two distinct
-photoreceptor systems working in parallel. Blue-light receptors guide spatial
-orientation and directional growth through the shoot tip. Phytochrome, responsive
-to red and far-red light, governs temporal perception and the measurement of day
-length through the leaves. Together, these systems give plants a remarkably
-sophisticated capacity to sense and respond to their light environment, one that
-Chamovitz argues legitimately deserves to be called a form of vision.
-
 ## See Also
 
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]
 - [[phytochrome-molecular-switch-mechanism]]
 - [[phytochrome-red-far-red-switch-and-photoperiodism]]
 
-- [[phototropism-and-phytochrome-in-plants]]
+- [[phototropism-and-phytochrome]]
 
 - [[daniel-chamovitz]]

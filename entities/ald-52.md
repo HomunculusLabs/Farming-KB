@@ -102,7 +102,7 @@ ALD-52 became infamous for its alleged connection to **"Orange Sunshine"**, the 
 
 ### TIHKAL Entry
 
-Alexander Shulgin included ALD-52 in [[lsd-entity-tihkal|TIHKAL]] (1997), noting multiple human trials at 50–175 µg with varying subjective reports. He drew an analogy to the [[psilocybin]]-to-[[psilocin]] conversion, describing ALD-52's acetyl group as analogous to psilocybin's phosphate ester.
+Alexander Shulgin included ALD-52 in [[lsd-entity-tihkal|TIHKAL]] (1997), noting multiple human trials at 50–175 µg with varying subjective reports. He drew an analogy to the [[psilocybin-compound]]-to-[[psilocin]] conversion, describing ALD-52's acetyl group as analogous to psilocybin's phosphate ester.
 
 ### Designer Drug Era (2016–present)
 
@@ -146,4 +146,4 @@ ALD-52 is a notable entity in psychedelic pharmacology as one of the earliest an
 - [[al-lad-entity-tihkal]] — 6-Allyl-6-nor-LSD, another lysergamide research chemical
 - [[eth-lad-entity-tihkal]] — 6-Ethyl-6-nor-LSD, a related lysergamide
 - [[psilocin]] — A tryptamine psychedelic; the psilocybin-to-psilocin conversion is analogous to ALD-52-to-LSD
-- [[psilocybin]] — The naturally occurring prodrug of psilocin
+- [[psilocybin-compound]] — The naturally occurring prodrug of psilocin

@@ -148,5 +148,3 @@ cause to fear violent flooding and strong winds. They set up small fields in the
 built terraced rice fields on the hillsides, working with the natural contours of the land.
 
 ## See Also
-
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]

@@ -132,4 +132,4 @@ particularly given the species' restricted habitat and slow growth.
 - [[lobelia-inflata]]
 - [[passiflora-incarnata]]
 - [[scutellaria-lateriflora]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]

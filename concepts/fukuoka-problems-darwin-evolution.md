@@ -14,7 +14,7 @@ In *The Road Back to Nature*, [[natural-farming-fukuoka]] challenges Darwin's th
 
 ## Beyond Science
 
-Fukuoka frames his critique within his broader [[fukuoka-critique-scientific-agriculture]]:
+Fukuoka frames his critique within his broader [[fukuoka-critique-of-scientific-agriculture]]:
 
 - Science attempts to understand nature by breaking it into parts and analyzing mechanisms
 - This approach cannot grasp the wholeness of nature
@@ -69,7 +69,7 @@ See also: [[fukuoka-fallacies-scientific-understanding]], [[fukuoka-critique-ind
 
 ## See Also
 
-[[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-orchard-ground-cover]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-observation-based-farming]]
+[[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-observation-based-farming]]
 
 ## Practical Applications
 

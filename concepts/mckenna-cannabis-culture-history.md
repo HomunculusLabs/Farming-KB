@@ -14,7 +14,7 @@ sources:
   - mckenna_t-food_of_the_gods.md (Ch.10, L3948-4331)
 ---
 # Cannabis and Culture: McKenna's Historical Survey
-Chapter 10 of [[terence-mckenna-stoned-ape-hypothesis]]'s *Food of the Gods*, "The Ballad of the Dreaming Weavers: Cannabis and Culture," presents a sweeping account of cannabis through human history.
+Chapter 10 of [[psychedelic-mushrooms-species-and-identification]]'s *Food of the Gods*, "The Ballad of the Dreaming Weavers: Cannabis and Culture," presents a sweeping account of cannabis through human history.
 McKenna frames cannabis not merely as a commodity or intoxicant but as a deeply entwined partner in human cultural evolution.
 His central thesis is that cannabis embodies the values of partnership society and that its persecution reflects dominator culture's fear of boundary-dissolving experience.
 ## Ancient Origins and Global Spread

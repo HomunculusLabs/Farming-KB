@@ -122,7 +122,7 @@ of good sterile technique.
 
 ## See Also
 
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]
 - [[sterile-technique-mushroom-cultivation]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 

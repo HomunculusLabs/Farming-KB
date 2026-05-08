@@ -145,7 +145,6 @@ dispensaries across legal markets.
 - [[girl-scout-cookies]]
 - [[og-kush]]
 - [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - [[slurricane]]
 - [[gmo-garlic-cookies]]
-- [[larry-og]]

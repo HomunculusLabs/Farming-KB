@@ -78,7 +78,7 @@ The fruiting bodies of boletes are important food resources for forest wildlife.
 
 Bolete mycelium can also contribute to decomposition processes, particularly of soil organic matter. While their primary nutritional mode is mycorrhizal, many boletes have some saprotrophic capability and can access organic nitrogen and phosphorus from soil organic matter through enzymatic decomposition. This partial saprotrophy blurs the distinction between mycorrhizal and saprotrophic functional groups and contributes to nutrient cycling in forest ecosystems. See [[fungal-stable-isotope-ecology]] for functional group interactions.
 
-The conservation of bolete diversity depends on maintaining healthy forest ecosystems with diverse tree species compositions. Monoculture plantations support fewer bolete species than mixed-species forests, and forest fragmentation can isolate bolete populations and reduce genetic diversity. See [[fungal-conservation-strategies]] and [[mycoforestry-forest-management-with-fungi]] for conservation approaches.
+The conservation of bolete diversity depends on maintaining healthy forest ecosystems with diverse tree species compositions. Monoculture plantations support fewer bolete species than mixed-species forests, and forest fragmentation can isolate bolete populations and reduce genetic diversity. See [[ethnomycology]] and [[mycoforestry-forest-management-with-fungi]] for conservation approaches.
 
 ## Related
 

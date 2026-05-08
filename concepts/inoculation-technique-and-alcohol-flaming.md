@@ -148,4 +148,3 @@ If spores fail to germinate, consider these common causes:
 
 - [[jar-preparation-and-sterilization]]
 - [[incubation-and-colonization]]
-- [[contaminant-identification-and-prevention]]

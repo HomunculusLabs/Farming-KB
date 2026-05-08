@@ -137,7 +137,7 @@ mescaline from other psychedelics.
 ## See Also
 
 - [[turner-mescaline-cactus-preparation]]
-- [[harner-peyote-and-apache-shamanism]]
+- [[ethnomycology]]
 - [[mescalero-apache-peyote-use]]
 - Phenethylamine  Chemistry
 - Native American  Church

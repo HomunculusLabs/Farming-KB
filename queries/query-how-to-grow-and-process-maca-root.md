@@ -24,7 +24,7 @@ A practical grower's reference for cultivating, harvesting, and processing maca 
 
 ### What is maca and where does it grow naturally?
 
-Maca (*Lepidium meyenii*, syn. *L. peruvianum*) is a cruciferous root vegetable in the Brassicaceae family — closely related to radishes and turnips. It has been cultivated in the Andean highlands of Peru and Bolivia for over 2,000 years, where it served as a staple food and medicinal plant for indigenous peoples. The edible hypocotyl (the fleshy storage root) is the primary harvest, growing 2–8 cm in diameter and resembling a turnip in shape. Maca is one of the few crops that thrives at extreme altitudes, traditionally grown between 3,800 and 4,500 meters above sea level on the Altiplano and puna grasslands. For context on other ancient Andean crops, see [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]].
+Maca (*Lepidium meyenii*, syn. *L. peruvianum*) is a cruciferous [[root-vegetable-storage-guide]] in the Brassicaceae family — closely related to radishes and turnips. It has been cultivated in the Andean highlands of Peru and Bolivia for over 2,000 years, where it served as a staple food and medicinal plant for indigenous peoples. The edible hypocotyl (the fleshy storage root) is the primary harvest, growing 2–8 cm in diameter and resembling a turnip in shape. Maca is one of the few crops that thrives at extreme altitudes, traditionally grown between 3,800 and 4,500 meters above sea level on the Altiplano and puna grasslands. For context on other ancient Andean crops, see [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]].
 
 ---
 
@@ -40,7 +40,7 @@ Yes, but with significant caveats. Maca has been successfully cultivated in part
 - **Temperature:** Daytime highs of 12–20°C (54–68°F) and nighttime lows near or below freezing. Maca requires frost exposure for proper root development and will not perform well where temperatures regularly exceed 25°C.
 - **Soil:** Well-drained, sandy loam to loamy soil with pH 5.5–7.5. Maca tolerates poor, rocky soils better than most crops but benefits from moderate fertility. Avoid waterlogged or heavy clay soils.
 - **Light:** Full sun in high-altitude environments with intense UV. At lower elevations, partial shade (30–40%) may help prevent premature bolting.
-- **Water:** Low to moderate rainfall (300–700 mm annually) is ideal. Maca is drought-tolerant once established but benefits from consistent moisture during germination and early growth.
+- **Water:** Low to moderate rainfall (300–700 mm annually) is ideal. Maca is [[drought-tolerant-planting-design]] once established but benefits from consistent moisture during germination and early growth.
 
 ---
 
@@ -54,7 +54,7 @@ Maca is propagated **exclusively from seed**. Root divisions do not work — the
 
 Maca follows a roughly 8–10 month growing cycle aligned with the Andean rainy season:
 
-1. **Sowing (September–November):** Seeds are broadcast or drilled into prepared beds at the start of the rainy season in the Southern Hemisphere. In Northern Hemisphere high-altitude sites, sow in spring as soon as the ground thaws.
+1. **Sowing (September–November):** Seeds are broadcast or drilled into prepared beds at the start of the rainy season in the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]. In Northern Hemisphere high-altitude sites, sow in spring as soon as the ground thaws.
 2. **Vegetative growth (months 1–5):** Maca forms a low rosette of frilly leaves close to the ground. Weed control is critical during this phase since maca's slow early growth cannot compete with aggressive weeds.
 3. **Root expansion (months 5–8):** The hypocotyl swells as the plant stores energy. This is when adequate moisture and mineral nutrition matter most.
 4. **Maturation and senescence (months 8–10):** Foliage yellows and dies back. The root is fully mature and ready for harvest.
@@ -124,7 +124,7 @@ Maca is relatively pest-resistant, especially at its native high altitude where 
 - **Flea beetles (Phyllotreta spp.):** The most common pest, chewing small holes in seedling leaves. Manage with row covers or diatomaceous earth.
 - **Cutworms:** Can sever young seedlings at the soil line. Use collars or Bt (Bacillus thuringiensis) applications.
 - **Aphids:** Occasional colonizers of flower stalks if plants are left for seed production.
-- **Downy mildew (Peronospora parasitica):** The most serious fungal disease, causing yellowing and fuzzy gray growth on leaf undersides. Improve air circulation and avoid overhead watering.
+- **[[downy-mildew-biology-diversity-peronosporales]] (Peronospora parasitica):** The most serious fungal disease, causing yellowing and fuzzy gray growth on leaf undersides. Improve air circulation and avoid overhead watering.
 - **Root rot (Pythium, Fusarium):** Fungal rots in waterlogged soils. Prevention through well-drained soil is essential — there is no effective treatment once established.
 - **Nematodes:** Can galls roots in warm, lowland conditions; rarely an issue at altitude.
 
@@ -146,4 +146,4 @@ It is possible but challenging. Maca's deep taproot system (roots can extend 30+
 - **Light intensity:** Container plants at low elevation miss the intense UV that maca expects.
 - **Yield:** Expect small roots (2–4 cm diameter) in containers, suitable for personal use but not commercial.
 
-For determined home growers at moderate altitude (1,500 m+), outdoor raised beds with excellent drainage are more successful than containers. Start with yellow maca for the best chance of success — it is the most forgiving variety.
+For determined home growers at moderate altitude (1,500 m+), outdoor [[raised-beds-vs-in-ground-vs-containers]] with excellent drainage are more successful than containers. Start with yellow maca for the best chance of success — it is the most forgiving variety.

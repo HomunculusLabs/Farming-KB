@@ -118,7 +118,7 @@ heavy consumption, making the strain less suitable for daytime use.
 
 ## See Also
 
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - [[girl-scout-cookies]]
 - [[animal-cookies]]
 - [[chemdawg]]
@@ -126,5 +126,5 @@ heavy consumption, making the strain less suitable for daytime use.
 - [[mac-1]]
 - [[gorilla-glue]]
 - [[kush-mints]]
-- [[runtz]]
+- [[runtz-entity]]
 - [[gsc-cannabis]]

@@ -581,7 +581,7 @@ outdoor mushroom cultivation can support within a garden or farm ecosystem.
 - [[shiitake-cultivation-guide]]
 - [[king-stropharia-wine-cap-cultivation]]
 - [[wine-cap-mushroom-cultivation]]
-- [[wine-cap-stropharia-cultivation]]
+- wine cap stropharia cultivation
 - [[garden-mushroom-growing]]
 - [[spawn-run-and-colonization]]
 - [[oyster-mushroom-cultivation-methods]]

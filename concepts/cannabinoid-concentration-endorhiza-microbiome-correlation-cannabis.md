@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-The relationship between cannabinoid profiles and the [[endorhiza microbiome]] represents one of the most intriguing yet methodologically challenging aspects of cannabis plant-microbe interactions. Winston et al. (2014) reported significant correlations between cannabinoid data and endorhiza community structure.
+The relationship between cannabinoid profiles and the [[endorhiza-microbiome]] represents one of the most intriguing yet methodologically challenging aspects of cannabis plant-microbe interactions. Winston et al. (2014) reported significant correlations between cannabinoid data and endorhiza community structure.
 
-However, these correlations were confounded by [[edaphic factors]], making it difficult to disentangle direct biochemical effects from indirect soil-mediated pathways. Understanding this relationship is critical for determining causality and directionality in the plant-microbe-cannabinoid system.
+However, these correlations were confounded by [[edaphic-factors]], making it difficult to disentangle direct biochemical effects from indirect soil-mediated pathways. Understanding this relationship is critical for determining causality and directionality in the plant-microbe-cannabinoid system.
 
 ## Observed Statistical Correlations
 
@@ -29,13 +29,13 @@ In the second experiment, each plant was tested for a variety of cannabinoids in
 
 This strong correlation suggests that the chemical environment within the root, shaped in part by cannabinoid production pathways, is associated with distinct microbial community structures. The correlation was observed between strains rather than within strains.
 
-This means it primarily reflects the difference between [[maui-wowie]] and [[white-widow]] endorhiza communities. The weighted analysis also showed significant cultivar effects on community structure (ADONIS: R-squared = 0.27, p = 0.001), further supporting genotype-dependent selection in the endorhiza.
+This means it primarily reflects the difference between [[maui-wowie]] and [[white-widow-entity]] endorhiza communities. The weighted analysis also showed significant cultivar effects on community structure (ADONIS: R-squared = 0.27, p = 0.001), further supporting genotype-dependent selection in the endorhiza.
 
 However, the cannabinoid-specific contribution to this genotype signal remains unresolved due to the confounding with soil chemistry.
 
 ## The Edaphic Confound
 
-The study identified a critical confounding variable: plants from one soil type had both higher THC composition and concentration, and these THC variables were significantly correlated with [[soil edaphic variables]].
+The study identified a critical confounding variable: plants from one soil type had both higher THC composition and concentration, and these THC variables were significantly correlated with [[soil-edaphic-variables]].
 
 The Orange County soil with its higher nitrogen (0.53%), higher organic carbon (20.0%), and lower salinity (1.73 dS/m) supported both higher cannabinoid concentrations and distinct microbial communities compared to the [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
@@ -85,7 +85,7 @@ The cannabinoid-microbiome correlation could partially reflect terpene-mediated 
 
 ## Strain Differences and Broader Genotype Effects
 
-The Mantel test compared cannabinoid profiles with community composition across strains. However, [[maui-wowie]] and [[white-widow]] differ in their entire genotypes, not just cannabinoid profiles.
+The Mantel test compared cannabinoid profiles with community composition across strains. However, [[maui-wowie]] and [[white-widow-entity]] differ in their entire genotypes, not just cannabinoid profiles.
 
 Root morphology, exudate chemistry, immune receptor repertoires, cell wall composition, and numerous other traits that influence microbial colonization all differ between cultivars. The cannabinoid signal may therefore be a proxy for broader genetic differences.
 
@@ -95,7 +95,7 @@ All cultivars access the same soil-derived species pool and simply adjust relati
 
 ## Implications for Microbial Terroir
 
-The cannabinoid-microbiome correlation, even if partially confounded, contributes to the [[microbial terroir]] concept in cannabis. If specific combinations of cultivar genetics, soil conditions, and microbial communities consistently produce distinctive chemical profiles, the microbiome becomes an integral component of product identity.
+The cannabinoid-microbiome correlation, even if partially confounded, contributes to the [[microbial-terroir]] concept in cannabis. If specific combinations of cultivar genetics, soil conditions, and microbial communities consistently produce distinctive chemical profiles, the microbiome becomes an integral component of product identity.
 
 This has been demonstrated for wine grapes, where regional microbial communities contribute to vintage and varietal characteristics through effects on fermentation. For cannabis, terroir could be particularly relevant given the enormous chemical diversity in both cannabinoids and terpenes.
 
@@ -114,11 +114,11 @@ Until such experiments are conducted, the cannabinoid-microbiome correlation sho
 - [[cannabis-rhizosphere-microbiome]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 
-- [[cannabis endorhiza microbiome]]
-- [[two-tier selection model]]
-- [[edaphic determinants of cannabis microbiome community structure]]
-- [[microbial terroir]]
-- [[cannabinoid biosynthesis pathways]]
+- [[cannabis-endorhiza-microbiome]]
+- [[two-tier-selection-model]]
+- [[edaphic-determinants-of-cannabis-microbiome-community-structure]]
+- [[microbial-terroir]]
+- [[cannabinoid-biosynthesis-pathways]]
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
-- [[core endorhiza bacterial community composition in cannabis]]
+- [[core-endorhiza-bacterial-community-composition-in-cannabis]]

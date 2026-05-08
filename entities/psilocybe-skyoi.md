@@ -109,7 +109,7 @@ Pileipellis structure consistent with other section Semilanceata members, consis
 
 Limited chemical analyses have been performed due to the rarity of collected material.
 
-Confirmed to contain [[psilocybin]] and likely [[psilocin]], consistent with placement among psychoactive psilocybe species.
+Confirmed to contain [[psilocybin-compound]] and likely [[psilocin]], consistent with placement among psychoactive psilocybe species.
 
 Exact concentrations have not been well established in published literature.
 

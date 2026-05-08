@@ -83,7 +83,7 @@ such-and-such (choose one: digging to the bottom of a complex concept,
 giving my energies to those whom I can help, to search out my inner
 strengths and weaknesses) so instead I shall simply do such-and-such
 (choose one: read the book review, go to church on Sunday morning, use
-a short-acting psychedelic). [[hallucinogenic-plants-of-the-world]] is too much with us. This may
+a short-acting psychedelic). [[entheogenic-plants-and-psychoactive-flora]] is too much with us. This may
 be a bit harsh, but there is some merit to it.
 
 HOT-17 is by no means a particularly potent compound. The hundred

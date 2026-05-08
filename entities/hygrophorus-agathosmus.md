@@ -72,10 +72,10 @@ Hygrophorus agathosmus is one of several late-season *Hygrophorus* species that 
 
 - [[hygrophorus-chrysodon]]
 
-- [[cantharellus-cibarius]] — another fragrant, mycorrhizal edible fungus
+- [[cantharellus-cibarius-entity]] — another fragrant, mycorrhizal edible fungus
 - [[pleurotus-ostreatus]] — commonly cultivated edible mushroom
 - [[amanita-muscaria]] — well-known mycorrhizal species with bioactive compounds
-- [[boletus-edulis]] — prized edible mycorrhizal mushroom
+- [[boletus-edulis-entity]] — prized edible mycorrhizal mushroom
 - [[trametes-versicolor]] — medicinal polypore used in traditional medicine
 - [[hericium-erinaceus]] — lion's mane, edible and medicinal mushroom
 - [[psilocybe-cubensis]] — psilocybin-containing mushroom with distinct ecology

@@ -95,7 +95,7 @@ The [[psilocybin-mushroom-legal-history]] of psilocybin mushrooms reflects broad
 
 - [[dutch-smart-shop-paddos-history]]
 
-- [[psilocybe-semilanceata-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[magic-mushroom-cultural-history]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[soma-and-the-sacred-mushroom-debate]]
@@ -141,4 +141,4 @@ Rave culture, with its "loved-up social attitudes," paved the way for the second
 
 ## The Rise of Terence McKenna
 
-The Ecstasy era created a platform for [[terence-mckenna-stoned-ape-hypothesis]], who emerged as "one of the most original psychedelic thinkers since Gordon Wasson." For McKenna, mushrooms were not just a drug but a portal to a shamanic realm where "alien entities strained to impart information of quite possibly earth-shattering importance."
+The Ecstasy era created a platform for [[psychedelic-mushrooms-species-and-identification]], who emerged as "one of the most original psychedelic thinkers since Gordon Wasson." For McKenna, mushrooms were not just a drug but a portal to a shamanic realm where "alien entities strained to impart information of quite possibly earth-shattering importance."

@@ -76,7 +76,7 @@ their effects on the body and mind. They are well able to distinguish
 harmful from beneficial medicines. The vision-inducing plants that
 have a tradition of shamanic usage are much more likely to be safe.
 This paradigm connects to the traditions documented in
-[[harner-mazatec-mushroom-shamanism]] and
+[[mushroom-cultivation-fundamentals]] and
 [[harner-ayahuasca-shamanism-amazon]].
 
 ## Paradigm Three: Syncretic Folk Religious Ceremonies

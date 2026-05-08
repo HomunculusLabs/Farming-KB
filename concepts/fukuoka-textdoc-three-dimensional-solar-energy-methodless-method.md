@@ -124,5 +124,5 @@ The relationship between sparse seeding and natural form mirrors a deeper princi
 
 - [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-matter-spirit-unity-food]]

@@ -3,7 +3,7 @@ title: Hickory vs Pecan vs Black Walnut Cultivation
 tags:
   - nut-trees
   - comparison
-  - permaculture
+  - [[permaculture]]
   - food-forest
   - tree-crops
 date: 2026-04-28
@@ -16,14 +16,13 @@ sources:
 created: 2026-05-07
 type: comparison
 ---
-
-# Hickory vs Pecan vs Black Walnut Cultivation
+# Hickory vs Pecan vs [[black-walnut-juglone-plant-toxicity]] Cultivation
 
 ## At a Glance
 
 | Feature | Shagbark Hickory | Pecan | Black Walnut |
 |---------|-----------------|-------|--------------|
-| **Species** | *Carya ovata* | *Carya illinoinensis* | *Juglans nigra* |
+| **Spcarya-illinoinensisata* | *[[carya-illinoinensis]]* | *[[juglans-nigra]]* |
 | **Hardiness** | Zones 4–8 | Zones 5–9 (cultivar-dependent) | Zones 4–9 |
 | **Mature Height** | 60–80 ft | 70–100 ft | 50–75 ft |
 | **Growth Rate** | Slow (12–24 in/yr) | Moderate-Fast (24–36 in/yr) | Moderate (18–30 in/yr) |
@@ -44,14 +43,12 @@ type: comparison
 | **Disease Pressure** | Low | High (scab) | Moderate (thousand cankers) |
 | **Pollination** | Monoecious, wind-pollinated | Monoecious, mostly cross-pollinated | Monoecious, partially self-fertile |
 
-## Climate Suitability
-
-### Shagbark Hickory — The Cold-Climate Champion
+## Climate Suitabiliquery-how-do-i-grow-passion-fruit-in-a-cold-climatebark Hickory — The Cold-Climate Champion
 - Most cold-hardy of the three, thriving into Zone 4
 - Requires long, hot summers for full nut fill (unlike pecan)
 - Superior drought tolerance once its deep taproot is established
-- Less sensitive to late spring frosts due to later bud break
-- Best for: northern food forests, marginal sites, low-maintenance plantings
+- Less sequery-which-drought-tolerant-fruit-trees-are-best-for-permaculture-food-forestsate spring frosts due to later bud break
+- Best for: northern [[food-forest]] s, marginal sites, low-maintenance plantings
 
 ### Pecan — The Southern Standard
 - Commercial powerhouse of the nut world, but needs warmth
@@ -96,7 +93,7 @@ Hickory wins on marginal, rocky, or droughty sites where pecans would struggle. 
 ### Pruning
 - All three benefit from formative pruning to establish a central leader
 - Hickory and black walnut have strong natural form and need less intervention
-- Pecan requires more deliberate pruning for orchard management and light penetration
+- Pecan requires more deliberate pruning for [[orchard-management]] and light penetration
 
 ## Yield and Economic Comparison
 
@@ -147,7 +144,3 @@ All three are calorie-dense, healthy fat sources. Hickory and black walnut are n
 | **Fastest return** | Pecan (grafted) | Black Walnut |
 
 ## See Also
-
-- [[comparison-chestnut-vs-walnut-vs-pecan-cultivation]]
-- [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
-- [[comparison-black-currant-vs-red-currant-cultivation]]

@@ -148,5 +148,3 @@ mycorrhizal formation and function.
 - [[suillus-bovinus]] - ectomycorrhizal species with mineral weathering capacity
 - [[cenococcum-geophilum]] - widely distributed ectomycorrhizal fungus
 - [[mycena-galopus]] - saprotrophic fungus that competitively suppresses decomposition
-- [[laccaria-proxima]]
-- [[laccaria-amethystina]]

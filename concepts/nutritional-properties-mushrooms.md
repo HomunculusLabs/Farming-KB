@@ -148,4 +148,3 @@ benefits of beta-glucans and other medicinal compounds.
 - [[psilocybin-mushrooms-central-south-america-distribution]]
 
 - medicinal mushrooms
-- [[saprophytic-mushrooms]]

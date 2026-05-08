@@ -137,4 +137,4 @@ French scientists described the psychoactive properties of the root.
 - [[european-witchcraft-hallucinogenic-plants]]
 - [[hallucinogenic-plants-united-states]]
 - [[iboga-and-the-bwiti-cult-initiation]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]

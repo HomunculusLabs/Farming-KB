@@ -1,5 +1,5 @@
 ---
-title: "Viscum album"
+title: "viscum album"
 created: 2026-04-28
 type: species
 tags:
@@ -95,7 +95,7 @@ Light infections rarely cause significant harm to healthy trees.
   standardized extracts. Binds galactose residues on cell surfaces,
   enters cells, and depurinates 28S rRNA, inhibiting protein synthesis
 - **Alkaloids** — traces of tyramine and related β-phenylethylamines
-- **Flavonoids** — quercetin, homoeriodictyol, and rhamnetin glycosides
+- **Flavonoids** — [[quercetin]], homoeriodictyol, and rhamnetin glycosides
 - **Polysaccharides** — β-1,3/1,6-glucans with immunostimulatory activity
 - **Viscin** — complex polysaccharide matrix enabling seed adhesion
 
@@ -148,6 +148,3 @@ bioavailability and reduce toxicity.
 ## See Also
 
 - [[chenopodium-album]]
-
-- [[sambucus-nigra]] — European medicinal shrub with immunomodulatory use
-- [[beta-glucans]] — Immunomodulatory polysaccharides found in fungi and plants

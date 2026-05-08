@@ -113,7 +113,7 @@ Several other Juniperus species are of economic or ecological importance:
 ## See Also
 
 [[morus-alba]] [[hippophae-rhamnoides]] [[rosmarinus-officinalis-entity]]
-[[thymus-vulgaris-entity]] [[piper-nigrum-entity]] [[origanum-vulgare]]
+[[thymus-vulgaris-entity]] [[piper-nigrum-entity]] [[origanum-vulgare-entity]]
 [[limonene]] [[myrcene]] [[silybum-marianum]]
 [[arctostaphylos-uva-ursi]] [[vaccinium-myrtillus]]
 vaccinium macrocarpon [[salvia-officinalis]]

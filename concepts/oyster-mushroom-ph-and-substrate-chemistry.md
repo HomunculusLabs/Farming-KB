@@ -106,7 +106,7 @@ For optimal results, target the following pH at each stage:
 ## See Also
 
 - [[bulk-substrate-preparation]] — practical substrate preparation methods
-- [[mushroom-compost-substrates]] — compost-based substrate options
+- [[mushroom-cultivation-fundamentals]] — compost-based substrate options
 - [[mushroom-substrates]] — general substrate information
 - [[mushroom-yield-optimization]] — maximizing productivity
 - [[mushroom-cultivation-bulk-substrates]]

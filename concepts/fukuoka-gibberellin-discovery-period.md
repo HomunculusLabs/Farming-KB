@@ -19,7 +19,7 @@ type: concept
 The years Masanobu Fukuoka spent at the Yokohama Customs Bureau Plant
 Inspection Division, working under Professor Eiichi Kurosawa, represent a
 critical formative period that shaped both his scientific expertise and his
-eventual disillusionment with [[fukuoka-critique-scientific-agriculture]]. During this period, Fukuoka was immersed in plant pathology
+eventual disillusionment with [[fukuoka-critique-of-scientific-agriculture]]. During this period, Fukuoka was immersed in plant pathology
 research at the very moment when gibberellin, one of the most important
 plant hormones, was being discovered. This experience gave him an insider's
 understanding of agricultural science that would later inform his powerful

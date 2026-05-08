@@ -74,7 +74,7 @@ pressure, soil biology, yields, and long-term resilience.
 - [[banisteriopsis-caapi]]
 - [[psychotria-viridis]]
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 ## See Also
 

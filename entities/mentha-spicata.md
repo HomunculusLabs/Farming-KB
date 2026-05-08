@@ -139,39 +139,6 @@ Spearmint is one of the most versatile culinary herbs, used globally across nume
 
 ## Cultivation and Permaculture Applications
 
-### Growing Requirements
-
-- **Hardiness:** USDA Zones 3–11; extremely cold-hardy once established
-- **Soil:** Adaptable to a wide range of soil types from sandy loams to heavy clays; performs best in moist, well-drained, moderately fertile soils with pH 6.0–7.0
-- **Light:** Full sun to partial shade (6+ hours of direct sun for optimal oil production; tolerates shade but with reduced vigor and flavor intensity)
-- **Water:** Moderate to high water requirements; thrives in consistently moist soil but will tolerate short periods of drought once established. Ideal for rain gardens and damp areas of the permaculture landscape
-- **Propagation:** Extremely easy — division of established clumps, stem cuttings (root readily in water within 7–14 days), or seed (though seed-grown plants may not breed true due to hybridization)
-
-### Permaculture Functions
-
-- **Ground cover:** Rapid rhizomatous spread makes spearmint an effective living mulch and ground cover for weed suppression in moist, semi-shaded areas (e.g., beneath fruit trees, along water features, in food forest understory layers)
-- **Insectary plant:** Prolific summer flowers attract a wide range of beneficial insects, including honeybees, native bees, hoverflies (Syrphidae), predatory wasps, and butterflies. The flowers are particularly valuable as a late-season nectar source when many other plants have finished blooming.
-- **Companion planting:** Reported to repel aphids, flea beetles, cabbage moths, and ants through volatile essential oil emissions. Often interplanted with brassicas, tomatoes, and roses for pest deterrence. However, the aggressive spread must be managed to prevent competition with neighboring crops.
-- **Erosion control:** The dense root and rhizome network helps stabilize soil on banks, slopes, and waterway edges
-- **Nutrient cycling:** Deep root system mines subsoil minerals; leaves returned to the soil surface as mulch contribute calcium, potassium, and trace minerals
-- **Aquaculture integration:** Can be grown in constructed wetlands and greywater treatment systems; tolerates nutrient-rich water and contributes to water purification through root zone filtration
-
-### Containment Strategies
-
-The aggressive rhizomatous spread of spearmint necessitates containment in integrated garden systems:
-
-- **Root barriers:** Bury rigid plastic or metal barriers 30–45 cm deep around planting areas
-- **Container cultivation:** Grow in pots, buckets, or raised beds with lined bottoms; submerged containers (with drainage holes) in garden beds provide a popular compromise
-- **Island plantings:** Dedicate a separate area away from other crops; regular harvesting of edge runners limits spread
-- **Regular division:** Dig and divide clumps every 1–2 years, removing excess rhizome material and composting it (or sharing with other gardeners)
-
-## Harvest and Processing
-
-- **Harvest timing:** Leaves can be harvested at any point during the growing season; essential oil concentration peaks just before or during early flowering
-- **Yield:** Fresh leaf yield of 2–4 kg/m² per season under favorable conditions; essential oil yield of 0.5–1.5% (v/w) of fresh material
-- **Drying:** Hang in small bunches in a warm, well-ventilated, shaded area; leaves retain good color and flavor when dried quickly at temperatures below 40°C. Dried spearmint retains approximately 50% of its volatile oil content
-- **Storage:** Dried leaves store well in airtight containers away from light and heat for up to 12 months; essential oil should be stored in dark glass bottles at cool temperatures
-
 ## See Also
 
 - [[mentha-piperita]] — peppermint, the more potent, menthol-rich relative

@@ -122,7 +122,7 @@ The application of brassinosteroids to mushroom cultivation could offer several 
 - [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]]
 - [[fungal-roles-in-old-growth-forests]]
 
-- [[brassinosteroid-fungal-growth-effects]]
+- [[brassinosteroid]]
 
 - [[psilocybe-cubensis-cultivation]]
 - Fruiting Triggers and Environmental Parameters

@@ -119,7 +119,7 @@ Wild harvesting remains significant, raising concerns about sustainability in so
 
 ## See Also
 
-- [[leonurus-cardiaca]] — Motherwort, another traditional nervine and female reproductive tonic
+- [[leonurus-cardiaca-entity]] — Motherwort, another traditional nervine and female reproductive tonic
 - [[salvia-officinalis]] — Sage, an aromatic Mediterranean herb with overlapping nervine and cognitive applications
 - [[rosmarinus-officinalis-entity]] — Rosemary, aromatic herb sharing terpenoid constituents with damiana
 - [[turnera-diffusa]] — Damiana cross-reference in herbal compounding

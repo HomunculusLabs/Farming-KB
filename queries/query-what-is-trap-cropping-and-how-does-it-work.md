@@ -148,4 +148,3 @@ recommendations, is documented on the [[trap-cropping]] reference page.
 - Timely destruction of infested trap crops prevents pest spillover onto
   the main crop.
 - Integration with IPM programs reduces pesticide dependence while
-  supporting overall ecosystem health and biodiversity.

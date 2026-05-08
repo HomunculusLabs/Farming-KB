@@ -148,6 +148,3 @@ with 15/16 American genome and Chinese blight resistance.
 - [[juglans-nigra]]
 - castanea entity
 - [[comfrey-symphytum-officinale]]
-- [[eleagnus-umbellata-entity]]
-- [[glycine-max-soybean-permaculture]]
-- [[morus-alba]]

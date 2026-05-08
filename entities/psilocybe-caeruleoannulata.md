@@ -40,7 +40,7 @@ Detailed microscopic examination reveals additional diagnostic characters. Basid
 
 ## Psychoactive Compounds
 
-*Psilocybe caeruleoannulata* contains [[psilocybin]] and [[psilocin]]. Estimated alkaloid concentrations based on limited analytical data and bioassay reports are approximately 0.2–0.6% psilocybin and 0.05–0.15% psilocin per dry weight, classifying it as a moderately psychoactive species. The pronounced blue staining of the annular zone is a reliable indicator of psychoactive alkaloid content. The blue coloration of the ring zone results from the enzymatic oxidation of psilocin upon damage or handling, the same biochemical process responsible for bluing in other *Psilocybe* species. The bluing reaction is mediated by the enzyme laccase, which catalyzes the oxidation of psilocin to blue-colored quinone polymers. [[baeocystin]] and [[norbaeocystin]] have been detected in trace amounts in related species from the same geographic region and may also be present in *P. caeruleoannulata*. The pharmacological profile of psilocybin from this species is expected to be identical to that of psilocybin from other sources, as the compound is chemically identical regardless of its fungal origin.
+*Psilocybe caeruleoannulata* contains [[psilocybin-compound]] and [[psilocin]]. Estimated alkaloid concentrations based on limited analytical data and bioassay reports are approximately 0.2–0.6% psilocybin and 0.05–0.15% psilocin per dry weight, classifying it as a moderately psychoactive species. The pronounced blue staining of the annular zone is a reliable indicator of psychoactive alkaloid content. The blue coloration of the ring zone results from the enzymatic oxidation of psilocin upon damage or handling, the same biochemical process responsible for bluing in other *Psilocybe* species. The bluing reaction is mediated by the enzyme laccase, which catalyzes the oxidation of psilocin to blue-colored quinone polymers. [[baeocystin]] and [[norbaeocystin]] have been detected in trace amounts in related species from the same geographic region and may also be present in *P. caeruleoannulata*. The pharmacological profile of psilocybin from this species is expected to be identical to that of psilocybin from other sources, as the compound is chemically identical regardless of its fungal origin.
 
 ## Ethnobotanical Significance
 
@@ -75,7 +75,7 @@ The conservation status of *P. caeruleoannulata* has not been formally assessed.
 - [[psilocybe-stuntzii]]: North American species with a bluing annulus
 - [[psilocybe-mulgrewii]]: New Zealand species with some morphological similarities
 - [[psilocybe-hermescii]]: Mexican species with annulate stipe
-- [[psilocybin]]: Primary psychoactive alkaloid
+- [[psilocybin-compound]]: Primary psychoactive alkaloid
 - [[psilocin]]: Active metabolite responsible for blue bruising reaction
 - [[gaston-guzman]]: Described this species and many other Psilocybe taxa
 - [[baeocystin]]: Secondary alkaloid found in related species

@@ -148,4 +148,3 @@ a place in a well-designed IPM program.
 ## See Also
 
 - [[singh-trichoderma-biocontrol-mechanisms-applications]]
-- [[singh-entomopathogenic-fungi-biocontrol-agents]]

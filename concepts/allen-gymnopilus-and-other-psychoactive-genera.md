@@ -2,7 +2,7 @@
 title: "Gymnopilus and Other Psychoactive Genera in Australia"
 created: 2026-04-28
 tags: [gymnopilus, inocybe, psychoactive, australia, panaeolus,
-  psilocybin, allen, lesser-genera, taxonomy]
+  [[psilocybin]], allen, lesser-genera, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
@@ -22,7 +22,7 @@ Australasian region.
 *Gymnopilus* is a genus of wood-inhabiting mushrooms, many of which are large
 and conspicuous. Some species are known to contain psilocybin and psilocine,
 though they are generally less potent than *Psilocybe* or *Copelandia*
-species. The genus is characterized by its rusty-orange to rusty-brown spore
+species. The genus is characterized by its rusty-orange to rusty-brown [[spore]]
 print and its habit of growing on dead wood, stumps, and woody debris.
 
 ### *Gymnopilus spectabilis* (Fr.) Singer
@@ -50,7 +50,7 @@ remains incomplete.
 ### *Inocybe* and Psilocybin
 
 The genus *Inocybe* is primarily known for containing dangerous toxic
-species, particularly those that contain muscarine. However, some *Inocybe*
+species, particularly those that contain [[muscarine]]. However, some *Inocybe*
 species are known to contain psilocybin, making the genus potentially
 dangerous for amateur collectors who cannot distinguish between
 psilocybin-containing and muscarine-containing species.
@@ -105,7 +105,7 @@ the same dung habitats.
 ## *Conocybe* Species
 
 The genus *Conocybe* contains several species known to contain psilocybin,
-most notably *Conocybe cyanopus* from the Northern Hemisphere. Australian
+most notably *[[conocybe-cyanopus]]* from the Northern Hemisphere. Australian
 records of psychoactive *Conocybe* species are sparse. The genus is
 characterized by small, fragile, cone-capped mushrooms growing in grass or
 on dung. Their small size and inconspicuous appearance mean they are easily
@@ -120,7 +120,7 @@ This wood-inhabiting species is known from Europe and North America to
 contain psilocybin and psilocine. It grows on dead wood of broadleaf trees,
 particularly willow and poplar. While *Pluteus* species are found in
 Australia, there are no confirmed reports of psychoactive collections from
-the Australasian region. The genus is characterized by its pink spore print
+the Australasian region. The genus is characterized by its pink [[spore-print]]
 and free gills, making it relatively easy to distinguish from
 *Psilocybe* species.
 
@@ -148,7 +148,3 @@ pore, while *Panaeolus* spores possess one.
 - [[psilocybe-serotina]]
 
 - [[allen-australian-psilocybe-species-comprehensive-guide]]
-- [[allen-pans-cyanescens-australia-distribution]]
-- [[allen-psilocybin-potency-australian-species]]
-- [[allen-subtropical-australia-hunting-techniques]]
-- [[gymnopilus-luteus]]

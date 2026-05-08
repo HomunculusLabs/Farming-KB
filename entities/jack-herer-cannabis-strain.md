@@ -139,36 +139,9 @@ Jack Herer is commonly used in medical cannabis programs for:
 
 - Responds well to low-stress training (LST) and screen of green (SCRoG) methods
 - Haze lineage makes it sensitive to overfeeding — use a light nutrient hand, especially with nitrogen during mid-flower
-- Prefers moderate humidity (45–55% RH during flowering) to prevent bud rot
-- The long flowering time requires patience but rewards with exceptional quality
-- Phenotype variation is significant — some plants express more indica traits (shorter, bushier, faster flowering) while others lean heavily sativa (taller, more open structure, longer flowering)
-- Cloning is preferred over seeds to preserve desirable phenotypes
-
-## Cultural Significance
-
-Jack Herer holds a unique place in cannabis culture:
-
-- Named after Jack Herer (1939–2010), author of *The Emperor Wears No Clothes* (1985), the foundational text of the cannabis legalization movement that documented the plant's history and argued for its decriminalization
-- Has won over 9 Cannabis Cup awards, including multiple High Times Cannabis Cup first-place trophies
-- The strain's name itself serves as an act of activism, keeping Herer's legacy and message alive
-- Widely considered a benchmark strain — new strains are often compared to Jack Herer as a standard of quality
-- One of the first "designer strains" to achieve global recognition, predating the modern craft cannabis movement
-- Remains one of the top 10 most popular strains in legal markets worldwide
-
-## Variations and Crosses
-
-Notable derivatives and crosses of Jack Herer include:
-
-- **JH-1 through JH-7:** Sensi Seeds' phenotype selections with varying characteristics
-- **Jack Frost:** Jack Herer × White Widow — increased resin and potency
-- **Jack's Cleaner:** Jack Herer × Space Queen — enhanced flavor and trichome production
-- **Cherry Jack:** Jack Herer × Cherry Pie — adds sweet cherry notes
-- **Kings Kush:** Jack Herer × Grape Ape — heavy indica cross
-- **Sour Jack:** Jack Herer × Sour Diesel — amplified energetic effects
-
 ## See Also
 
-- [[cannabis-jack-herer]]
+- [[jack-herer]]
 
 - [[purple-haze]] — The foundational sativa parent
 - [[northern-lights]] — The iconic indica parent

@@ -13,7 +13,7 @@ sources:
 
 **Updated:** 2026-04-21
 
-The entire [[nutrient-retention-soil-food-web]] is ultimately powered by one process: photosynthesis. Understanding the flow of energy from sunlight through plants into the soil and back is key to understanding why organic, biological gardening works.
+The entire [[composting-and-soil-biology]] is ultimately powered by one process: photosynthesis. Understanding the flow of energy from sunlight through plants into the soil and back is key to understanding why organic, biological gardening works.
 
 The photosynthesis-exudates-carbon cycle is the engine that drives all terrestrial life. Without the constant input of solar energy captured by plants and transferred to soil organisms through exudates, the complex web of life beneath our feet would collapse.
 
@@ -23,7 +23,7 @@ Most gardeners think of plants as only taking up nutrients through root systems 
 
 In reality, a great deal of the energy that results from photosynthesis in the leaves is used by plants to produce chemicals they secrete through their roots. These secretions -- root exudates -- are the fuel that powers the rhizosphere and the entire soil food web.
 
-Without photosynthesis, there would be no root exudates. Without root exudates, there would be no food to attract and sustain the bacteria and fungi that form the base of the [[nutrient-retention-soil-food-web]]. The chain of life in soil begins with sunlight captured by leaves.
+Without photosynthesis, there would be no root exudates. Without root exudates, there would be no food to attract and sustain the bacteria and fungi that form the base of the [[composting-and-soil-biology]]. The chain of life in soil begins with sunlight captured by leaves.
 
 ## Root Exudates: The Plant-Microbe Connection
 
@@ -119,11 +119,11 @@ Practices that enhance soil carbon storage -- such as minimizing tillage, mainta
 
 - [[bacterial-vs-fungal-soil]]
 
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 
 - [[compost-biology-soil-food-web-inoculation]]
 
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 
 - [[actinomycetes-soil-biology]]
 

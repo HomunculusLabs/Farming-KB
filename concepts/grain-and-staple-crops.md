@@ -31,7 +31,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 - **Animal feed**: [[duck-keeping]] and [[goat-keeping]] benefit from homegrown grain as supplemental feed
 - **Soil building**: Massive root biomass and carbon contribution; straw is [[composting-systems]] material
 - **Crop rotation**: Breaks disease cycles; fits rotations with vegetables and legumes
-- **Carbon farming**: Extensive root systems sequester carbon — aligns with [[no-till-gardening-method]] principles
+- **Carbon farming**: Extensive root systems sequester carbon — aligns with [[composting-and-soil-biology]] principles
 ## Grain Selection for Zone 7-8
 ### Cool-Season Grains (Fall-planted)
 #### Winter Wheat (Triticum aestivum)
@@ -137,7 +137,7 @@ See [[seasonal-planning]] for full monthly calendar.
 - **Birds**: Net grain heads; scare devices; plant enough for sharing
 - **Stored grain**: Freeze 72 hours; store with diatomaceous earth; airtight containers
 - **Diseases**: Crop rotation is primary defense; certified disease-free seed; burn infected residue
-- **See also**: [[cannabis-pest-management]] for general IPM principles
+- **See also**: cannabis pest management for general IPM principles
 
 ## See Also
 

@@ -28,7 +28,7 @@ There are six major classes, each with distinct chemical structures and biologic
 - **Flavonoids** — Polyphenolic compounds responsible for vivid plant colors. Powerful antioxidants and anti-inflammatories. Includes quercetin, rutin, and catechins.
 - **Terpenes/Terpenoids** — The largest class, built from isoprene units. Responsible for essential oil aromas. Includes limonene, menthol, and artemisinin.
 - **Glycosides** — Compounds with a sugar moiety attached. Includes cardiac glycosides (digitalis) and anthraquinones (senna).
-- **Saponins** — Soap-like compounds that form foamy solutions. Immune-modulating and cholesterol-lowering properties.
+- **Saponins** — Soap-like compounds that form foamy solutions. [[immune-modulating-mushrooms-and-herbs]] and cholesterol-lowering properties.
 - **Tannins** — Astringent polyphenols that bind proteins. Used for wound healing and diarrhea treatment.
 
 Many plants contain compounds from multiple classes simultaneously. Understanding these classes is foundational to herbalism, pharmacognosy, and ethnobotany.
@@ -57,7 +57,7 @@ Flavonoids are celebrated for their antioxidant, anti-inflammatory, and cardiopr
 
 Terpenes define the aromatic profiles of many medicinal herbs and carry significant therapeutic value. Over 25,000 terpenes have been identified across the plant kingdom:
 
-- **Cannabis (*Cannabis sativa*)** — Contains myrcene, limonene, pinene, and beta-caryophyllene. Contributes to anti-inflammatory and analgesic effects.
+- **Cannabis (*[[cannabis-sativa-dominant-growing-challenges]]*)** — Contains myrcene, limonene, pinene, and [[beta-caryophyllene-dietary-cannabinoid]]. Contributes to anti-inflammatory and analgesic effects.
 - **Lavender (*Lavandula angustifolia*)** — Rich in linalool and linalyl acetate. Anxiolytic and calming properties.
 - **Rosemary (*Rosmarinus officinalis*)** — Contains 1,8-cineole, camphor, and alpha-pinene. Enhances memory and has antimicrobial activity.
 - **Peppermint (*Mentha × piperita*)** — High in menthol. Analgesic, antispasmodic, and cooling.
@@ -69,7 +69,7 @@ Plant bioactive compounds interact with human biology through several primary me
 
 1. **Receptor binding** — Compounds like morphine bind directly to opioid receptors; nicotine binds to acetylcholine receptors. This mimicry of endogenous molecules is how many plant drugs work.
 2. **Enzyme inhibition** — Curcumin inhibits COX-2 and LOX enzymes (anti-inflammatory); EGCG inhibits MMPs. This is a very common mechanism.
-3. **Antioxidant activity** — Flavonoids and polyphenols neutralize reactive oxygen species (ROS), reducing oxidative stress linked to chronic disease.
+3. **Antioxidant activity** — Flavonoids and polyphenols neutralize [[reactive-oxygen-species-and-oxidative-stress]] (ROS), reducing oxidative stress linked to chronic disease.
 4. **Ion channel modulation** — Some terpenes and alkaloids affect calcium or sodium channels, influencing muscle contraction and nerve signaling.
 5. **Gene expression modulation** — Compounds like sulforaphane (from cruciferous vegetables) activate Nrf2 pathways, upregulating the body's own detoxification enzymes.
 
@@ -127,7 +127,7 @@ The following table maps 17 common medicinal plants to their primary bioactive c
 | Chamomile | Flavonoids / Terpenes | Apigenin, bisabolol | Anti-anxiety, anti-inflammatory |
 | Ephedra | Alkaloids | Ephedrine, pseudoephedrine | Bronchodilator, stimulant |
 | Milk Thistle | Flavonolignans | Silymarin (silybin) | Hepatoprotective, antioxidant |
-| Reishi Mushroom | Triterpenes / Polysaccharides | Ganoderic acids, beta-glucans | Immune modulation, anti-tumor |
+| [[reishi-mushroom-medicinal-research]] | Triterpenes / Polysaccharides | Ganoderic acids, beta-glucans | Immune modulation, anti-tumor |
 | Ginseng | Saponins (ginsenosides) | Rb1, Rg1, Rg3 | Adaptogen, energy, cognition |
 | Passionflower | Flavonoids | Chrysin, vitexin | Sedative, anxiolytic |
 | Oregano | Terpenes / Phenolics | Carvacrol, thymol | Antimicrobial, antioxidant |

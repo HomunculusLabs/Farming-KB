@@ -130,6 +130,6 @@ chicken manure before or after returning the barley straw to the field.
 ## See Also
 
 - [[fukuoka-straw-rice-without-plowing]]
-- [[fukuoka-straw-four-principles]]
+- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-seed-balls-direct-seeding]]

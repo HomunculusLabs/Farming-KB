@@ -23,7 +23,7 @@ sources:
 
 # Organic Soil Management
 
-Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
+Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[composting-and-soil-biology]] for minimum-disturbance approaches.
 
 ## Understanding Soil
 
@@ -98,6 +98,6 @@ Sources of organic matter ranked by availability and value:
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[composting-systems]] -- Composting methods and recipes
 - [[cover-cropping-guide]] -- Green manures and cover crops
-- [[no-till-gardening-method]] -- Minimum disturbance soil management
+- [[composting-and-soil-biology]] -- Minimum disturbance soil management
 - [[cannabis-living-soil-guide]] -- Soil biology and food web
 - [[soil-fertility-management]] -- Organic nutrient management

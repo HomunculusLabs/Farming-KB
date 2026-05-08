@@ -30,7 +30,7 @@ These three attitudes map onto different positions along the [[consumer-versus-c
 
 Permaculture occupies the descent-aware position but is distinguished by its constructive, design-based approach. Rather than framing descent as collapse or catastrophe, Holmgren presents it as a design challenge amenable to creative solutions. The question is not whether descent will happen but how it will happen — chaotically or by design.
 
-This constructive framing connects to [[holmgren-change-detailed]] and [[permaculture-principle-creatively-use-and-respond-to-change]]. Permaculture does not merely accept change but seeks to guide it toward desirable outcomes through deliberate design action.
+This constructive framing connects to [[holmgren-change-detailed]] and [[permaculture-design-principles]]. Permaculture does not merely accept change but seeks to guide it toward desirable outcomes through deliberate design action.
 
 ## Cultural Barriers to Acceptance
 

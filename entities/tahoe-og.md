@@ -116,7 +116,7 @@ The clone-only nature of the original Tahoe OG cut has limited its direct use in
 - [[northern-lights]] — classic indica often compared to Tahoe OG for sedation
 - [[afghan-kush]] — landrace indica ancestor in the OG Kush family tree
 - [[master-kush]] — Hindu Kush × Skunk cross with similar sedative profile
-- [[blue-dream]] — popular hybrid contrasting Tahoe OG's heavy indica effects
+- [[cannabis-blue-dream]] — popular hybrid contrasting Tahoe OG's heavy indica effects
 - [[girl-scout-cookies]] — modern OG Kush descendant with complex genetics
 - [[granddaddy-purple]] — classic indica with similar heavy sedative effects
 - [[purple-kush]] — pure indica with comparable potency and body effects

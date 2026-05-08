@@ -104,7 +104,7 @@ Man's awareness is intrinsically imperfect, giving rise to errors in
 understanding. Modern research presses forward on morphology, physiology,
 ecology, and every conceivable aspect of plants, yet the more data
 accumulates, the further we drift from the essential nature of the
-organism as a living whole. This connects to [[fukuoka-critique-scientific-agriculture]] and [[fukuoka-limits-scientific-method-agriculture]].
+organism as a living whole. This connects to [[fukuoka-critique-of-scientific-agriculture]] and [[fukuoka-limits-scientific-method-agriculture]].
 
 ## Connection to Mahayana Philosophy
 
@@ -121,5 +121,5 @@ extends this argument further.
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-nature-transcends-human-knowledge]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-philosophy-of-mu-and-nature]]

@@ -66,7 +66,7 @@ Diverse fungal communities may provide more stable decomposition services throug
 
 However, the degree of functional redundancy in fungal decomposer communities remains poorly quantified. Some functional capabilities, particularly lignin degradation, may be concentrated in relatively few species, making decomposition vulnerable to loss of key taxa.
 
-[[fungal-community-assembly]] [[fungal-conservation-strategies]]
+[[fungal-community-assembly]] [[ethnomycology]]
 
 ## Bioremediation Applications
 

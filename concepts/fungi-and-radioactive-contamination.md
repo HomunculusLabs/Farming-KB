@@ -67,7 +67,7 @@ The fungal contribution is most valuable in the later stages of remediation, whe
 
 Anyone considering working with radioactive contamination must understand the safety implications. Radioactive materials require specialized training, protective equipment, and regulatory compliance. The biological concentration of radioactivity by mushrooms means that workers handling contaminated fungal material face elevated exposure risk.
 
-This work should only be undertaken by trained professionals working within established regulatory frameworks. The [[mycoremediation-regulatory-framework]] for radioactive remediation is particularly strict, and unauthorized attempts to remediate radioactive sites could create additional hazards.
+This work should only be undertaken by trained professionals working within established regulatory frameworks. The mycoremediation regulatory framework for radioactive remediation is particularly strict, and unauthorized attempts to remediate radioactive sites could create additional hazards.
 
 ## See Also
 
@@ -85,4 +85,4 @@ This work should only be undertaken by trained professionals working within esta
 
 [[mycoremediation-case-studies]] — documented remediation projects
 
-[[mycoremediation-regulatory-framework]] — regulatory considerations
+mycoremediation regulatory framework — regulatory considerations

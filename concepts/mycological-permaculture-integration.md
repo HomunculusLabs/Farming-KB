@@ -94,5 +94,5 @@ Mycological strategies map directly onto several of the twelve permaculture desi
 [[mycoforestry-principles-stamets]] — detailed mycoforestry techniques from Stamets.
 [[mycofiltration-overview]] — water filtration with fungal mycelium.
 [[mycoremediation-stamets-approach]] — pollution cleanup using mushroom mycelium.
-[[permaculture-design-principles-beginners]] — the twelve permaculture design principles.
+[[permaculture-design-principles]] — the twelve permaculture design principles.
 [[forest-garden-layers]] — the seven layers of food forest design.

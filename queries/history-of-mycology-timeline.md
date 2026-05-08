@@ -82,7 +82,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 - **1860 — Mordecai Cooke:**
   Published The Seven Sisters of Sleep, treating psychoactive fungi
   (Amanita muscaria) alongside opium, hashish, and other narcotics.
-  See [[mordecai-cooke]] and [[victorian-mycology]].
+  See [[mordecai-cooke]] and [[ethnomycology]].
 - **1868 — Woolhope Club forays:**
   First systematic fungus forays in Britain, organized by the
   Woolhope Naturalists' Field Club in Hereford.
@@ -131,7 +131,7 @@ The post-WWII expansion of mycology — from Hofmann's discoveries and the psych
 - [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
 - [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
 - [[historical-mushroom-cultivation]] — cultivation-focused history
-- [[victorian-mycology]] — Victorian-era fungal taxonomy and the Woolhope Club
+- [[ethnomycology]] — Victorian-era fungal taxonomy and the Woolhope Club
 - [[fungal-biology-fundamentals]] — modern understanding of fungal life cycles
 - [[fungal-ecology]] — fungi as keystone ecosystem engineers
 - [[buller-ahr]]

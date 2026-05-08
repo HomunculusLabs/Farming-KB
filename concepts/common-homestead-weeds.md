@@ -108,7 +108,7 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 - [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar
 - [[dynamic-accumulators]] — detailed accumulator plant profiles
 - [[herbal-medicine]] — medicinal uses for common weeds
-- [[no-till-gardening-method]] — soil management approach that reduces weed pressure
+- [[composting-and-soil-biology]] — soil management approach that reduces weed pressure
 - [[cover-cropping-guide]] — using cover crops for weed suppression
 - [[soil-fertility-management]] — interpreting weed soil indicators and amending
 - [[companion-planting-reference]] — plant communities that compete with weeds

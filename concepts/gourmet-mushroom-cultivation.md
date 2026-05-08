@@ -147,4 +147,4 @@ due to short shelf life, perishability, and growing demand from restaurants,
 food service, and health-conscious consumers. Oyster mushrooms offer the fastest
 return (3-4 weeks from inoculation to harvest), while shiitake on logs requires
 6-12 months but produces multiple crops over 3-5 years from a single
- Related concepts include [[wine-cap-stropharia-cultivation]], [[mushroom-cultivation]], [[substrate-preparation]]. See also [[malt-extract-agar]].
+ Related concepts include wine cap stropharia cultivation, [[mushroom-cultivation]], [[substrate-preparation]]. See also [[malt-extract-agar]].

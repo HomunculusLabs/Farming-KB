@@ -129,17 +129,6 @@ in traditional ceremonies and are considered a delicacy served to honored guests
 In India, *T. heimii* is known locally as "puttu" in Kerala and "bhuin alu" in
 Odia-speaking regions. Market prices can reach 3–5 times those of common
 cultivated mushrooms due to limited seasonal availability.
-
-## Cultivation Challenges
-
-Despite its economic value, artificial cultivation of *T. heimii* remains largely
-unsuccessful. Key obstacles include the obligate association with termite comb
-substrate, difficulty maintaining the specific microbial community of the
-termite nest environment, and the fungus's sensitivity to competing molds outside
-the controlled termite ecosystem. Research into simulated comb substrates and
-controlled environment cultivation is ongoing but has not yet achieved commercial
-viability.
-
 ## Related Species
 
 - ***Termitomyces titanicus***: Produces the largest fruiting body of any agaric,

@@ -147,5 +147,3 @@ until trees are above browsing height.
 Ongoing management includes periodic tree pruning to maintain light penetration
 to the pasture, [[mollison-designers-coppicing-management-of-legume-trees]] of fodder trees, and rotational grazing management
 to maintain pasture quality and prevent soil compaction.
-
-## Summary

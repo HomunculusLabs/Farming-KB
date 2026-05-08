@@ -133,6 +133,6 @@ management.
 
 ## See Also
 
-[[jack-herer]], [[blue-dream]], [[amnesia-haze]], [[durban-poison]],
+[[jack-herer]], [[cannabis-blue-dream]], [[amnesia-haze]], [[cannabis-indoor-growing-guide]],
 [[tangie]], [[green-crack]], [[cinex]], and [[super-lemon-haze]]
 for comparison with other sativa-dominant and landrace-influenced strains.

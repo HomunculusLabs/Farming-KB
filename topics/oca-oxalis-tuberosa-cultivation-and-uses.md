@@ -8,9 +8,9 @@ sources: []
 
 ## Introduction
 
-Oca (*Oxalis tuberosa*) is one of the most important root crops of the Andean highlands, where it has been cultivated for millennia alongside potatoes, mashua, and ulluco. Known by many names—oca, oka, uqa in Quechua, and "New Zealand yam" in the Southern Hemisphere—this tuber-bearing perennial is prized for its vivid colors, refreshing tangy flavor, and exceptional adaptability to marginal growing conditions. In its native range spanning Peru, Bolivia, Ecuador, Colombia, and northern Argentina, oca is the second most widely consumed root crop after the potato.
+Oca (*Oxalis tuberosa*) is one of the most important root crops of the Andean highlands, where it has been cultivated for millennia alongside potatoes, mashua, and ulluco. Known by many names—oca, oka, uqa in Quechua, and "New Zealand yam" in the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]—this tuber-bearing perennial is prized for its vivid colors, refreshing tangy flavor, and exceptional adaptability to marginal growing conditions. In its native range spanning Peru, Bolivia, Ecuador, Colombia, and northern Argentina, oca is the second most widely consumed [[root-crop-harvest-and-storage]] after the potato.
 
-Despite its importance in Andean agriculture, oca remains relatively unknown outside of South America and New Zealand. Growing interest in diverse food systems, perennial vegetables, and climate-resilient crops has brought oca to the attention of permaculturists, market gardeners, and plant breeders in temperate regions. The primary barrier to wider adoption has been its strict short-day tuberization requirement, though significant breeding progress has been made to overcome this limitation.
+Despite its importance in Andean agriculture, oca remains relatively unknown outside of South America and New Zealand. Growing interest in diverse food systems, perennial vegetables, and climate-resilient crops has brought oca to the attention of permaculturists, market gardeners, and plant breeders in temperate regions. The primary barrier to wider adoption has been its strict [[short-day-and-long-day-plant-classification]] tuberization requirement, though significant breeding progress has been made to overcome this limitation.
 
 ## Botanical Description
 
@@ -95,7 +95,7 @@ Oca is relatively forgiving of soil conditions but performs best in:
 - **Soil type**: Well-drained sandy loam to loam soils. Heavy clay should be amended with organic matter to improve drainage
 - **pH**: 5.5–7.0 (slightly acidic to neutral). Oca tolerates moderate acidity better than many root crops
 - **Fertility**: Moderate soil fertility is ideal. Excessive nitrogen promotes lush foliage at the expense of tuber formation. A balanced approach with compost or well-rotted manure worked in before planting is sufficient
-- **Drainage**: Critical—oca tubers will rot in waterlogged soils. Raised beds or mounded rows are recommended in heavy soils
+- **Drainage**: Critical—oca tubers will rot in waterlogged soils. [[raised-beds-vs-in-ground-vs-containers]] or mounded rows are recommended in heavy soils
 - **Preparation**: Deep cultivation (20–25 cm) to allow unrestricted tuber expansion. Remove rocks that can cause tuber deformity
 
 ## Propagation
@@ -154,7 +154,7 @@ Oca is remarkably pest and disease resistant compared to potatoes and many other
 ### Pests
 
 - **Aphids**: Occasional infestations on young shoots; control with insecticidal soap or strong water spray
-- **Nematodes**: Root-knot nematodes can affect tubers in warm soils; practice crop rotation and avoid planting after susceptible crops
+- **Nematodes**: Root-knot nematodes can affect tubers in warm soils; practice [[crop-rotation-vegetable-garden]] and avoid planting after susceptible crops
 - **Wireworms**: May bore into tubers; trap with bait potatoes or use beneficial nematodes
 - **Slugs and snails**: Can damage young shoots and exposed tubers; use beer traps, copper barriers, or iron phosphate bait
 - **Stem-boring insects**: Rare but can occur; remove and destroy affected stems
@@ -211,7 +211,7 @@ Spread tubers in a single layer in full sun for 3–7 days, turning occasionally
 Cured oca stores well under cool, dark, humid conditions (3–7°C, 85–95% relative humidity)—similar to potato storage conditions. Under ideal storage:
 
 - **Shelf life**: 2–5 months depending on variety and storage quality
-- **Optimal**: Store in slatted crates or mesh bags in a root cellar, cool basement, or unheated garage
+- **Optimal**: Store in slatted crates or mesh bags in a [[root-cellar-design-and-construction]], cool basement, or unheated garage
 - **Avoid**: Refrigeration below 2°C (causes chilling injury and sweetening), exposure to light (causes greening), and excess moisture (promotes rot)
 
 Periodically check stored tubers and remove any showing signs of rot to prevent spread.
@@ -298,13 +298,13 @@ These three crops are traditionally grown together in Andean agriculture, creati
 
 ## Role in Permaculture and Polycultures
 
-Oca offers several advantages in permaculture design:
+Oca offers several advantages in [[permaculture-design-course-notes]]:
 
 1. **Low-input perennial food**: Once established, oca requires minimal inputs beyond moderate fertility and water
 2. **Edimental value**: Attractive foliage and colorful tubers make oca both ornamental and edible
 3. **Ground cover**: The bushy growth habit shades soil and suppresses weeds
 4. **Polyculture integration**: Fits well in root crop guilds, forest garden understories, and annual vegetable rotations
-5. **Soil building**: Tubers break up compacted soil, and the leaf canopy protects soil surface
+5. **[[soil-building-ecological-garden]]**: Tubers break up compacted soil, and the leaf canopy protects soil surface
 6. **Nutrient cycling**: Deep-reaching roots access minerals unavailable to shallower crops
 7. **Disease break**: Oca is not susceptible to most potato diseases, making it an excellent rotation crop
 

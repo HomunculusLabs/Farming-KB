@@ -126,7 +126,7 @@ Pests include mealybugs, scale insects, and spider mites; fungal rot is the prim
 
 - [[echinopsis-pachanoi]]
 - [[lophophora-williamsii]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[dmt]]
 - [[banisteriopsis-caapi]]
 - [[coryphantha-compacta]]

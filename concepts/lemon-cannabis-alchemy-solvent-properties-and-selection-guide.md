@@ -148,4 +148,3 @@ safe handling procedures applicable to all solvents.
 
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]

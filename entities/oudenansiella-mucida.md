@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Oudemansiella mucida** (Schrad.) Höhn., commonly known as the porcelain mushroom or poached egg fungus, is a basidiomycete fungus in the family Physalacriaceae. It is one of the most visually distinctive mushrooms of temperate European forests, producing clusters of translucent, white to cream-colored fruiting bodies on the dead or dying branches of living beech trees (*Fagus sylvatica*).
+**Oudemansiella mucida** (Schrad.) Höhn., commonly known as the porcelain mushroom or poached egg fungus, is a basidiomycete fungus in the family Physalacriaceae. It is one of the most visually distinctive mushrooms of temperate European forests, producing clusters of translucent, white to cream-colored fruiting bodies on the dead or dying branches of living beech trees (*[[fagus-sylvatica]]*).
 
 The species is both saprotrophic and weakly parasitic, colonizing the bark of living beech trees and eventually contributing to branch dieback. Its translucent, jelly-like appearance when fresh — combined with its habit of growing in overlapping clusters on exposed beech branches — makes it one of the more recognizable woodland fungi. The porcelain mushroom is edible and highly regarded in some European countries, particularly in Central and Eastern Europe.
 
@@ -49,7 +49,7 @@ The species was originally described by Heinrich Schrader in 1794 as *Agaricus m
 
 **Flesh:** White, firm, and rubbery in texture. Odor is mild, pleasant, and mushroomy. Taste is mild and slightly sweet.
 
-**Spore Print:** White.
+**[[spore-print]]:** White.
 
 ### Microscopic Features
 
@@ -121,7 +121,7 @@ In regions where beech forests are declining, *O. mucida* populations are corres
 
 ## Similar Species
 
-- ***Armillaria mellea*** (honey fungus): Also grows in clusters on wood but has a honey-colored cap, a distinct ring, and firm white flesh that does not have the translucent, slimy quality.
+- ***[[armillaria-mellea]]*** (honey fungus): Also grows in clusters on wood but has a honey-colored cap, a distinct ring, and firm white flesh that does not have the translucent, slimy quality.
 - ***Oudemansiella canarii***: A tropical species with a brownish cap and more robust stature.
 - ***Xerula radicata*** (rootling shank): Has a long, rooting stipe and a more umbonate, less slimy cap. Found growing from buried wood rather than on exposed branches.
 

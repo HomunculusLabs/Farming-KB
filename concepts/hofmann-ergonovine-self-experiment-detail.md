@@ -17,7 +17,7 @@ On April 1, 1976, Albert Hofmann conducted a self-experiment with ergonovine (er
 
 ## Background
 
-The experiment was prompted by R. Gordon Wasson's question to Hofmann during a visit to Danbury in July 1975: "Could Early Man in ancient Greece have hit on a method to isolate an hallucinogen from ergot that would have given him an experience comparable to LSD or [[psilocybin]]?" Hofmann already knew that ergonovine was:
+The experiment was prompted by R. Gordon Wasson's question to Hofmann during a visit to Danbury in July 1975: "Could Early Man in ancient Greece have hit on a method to isolate an hallucinogen from ergot that would have given him an experience comparable to LSD or [[psilocybin-compound]]?" Hofmann already knew that ergonovine was:
 
 - A water-soluble alkaloid found in ergot
 

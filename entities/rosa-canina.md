@@ -1,5 +1,5 @@
 ---
-title: "Rosa canina"
+title: "rosa canina"
 created: 2026-04-28
 type: species
 tags:
@@ -23,7 +23,7 @@ sources:
 *Rosa canina*, commonly known as dog rose, is a deciduous climbing shrub
 in the family Rosaceae, native to Europe, northwest Africa, and western
 Asia. It is one of the most widespread wild rose species and is valued
-for its vitamin C-rich hips, medicinal properties, and ecological role
+for its vitamin C-rich hips, [[turkey-tail-mushroom-cultivation-and-medicinal-properties]], and ecological role
 in hedgerow and woodland ecosystems.
 
 The species typically grows 1–5 meters tall, using curved prickles to
@@ -33,10 +33,10 @@ persist well into winter.
 
 Dog rose has a long history of use in traditional European herbalism,
 particularly for respiratory conditions, digestive complaints, and wound
-healing. Modern research has confirmed anti-inflammatory, antioxidant,
+healing. Modern research has confirmed [[medicinal-mushroom-antioxidant-anti-inflammatory]], antioxidant,
 and immunomodulatory properties of the fruit and seed extracts.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:**
 
@@ -75,8 +75,8 @@ onward and often persist through winter.
 ## Distribution and Habitat
 
 *Rosa canina* is native to Europe, North Africa, and temperate western
-and central Asia. It has been widely naturalized in North America,
-Australia, and New Zealand through both deliberate planting and
+and central Asia. It has been widely naturalized [[neurotropic-fungi-in-north-america]] le-mushrooms-north-america]],
+Australia, and [[magic-mushrooms-australia-new-zealand]] through both deliberate planting and
 accidental introduction.
 
 The species is highly adaptable, colonizing hedgerows, woodland edges,
@@ -97,25 +97,7 @@ Key bioactive constituents include:
 
 - **Ascorbic acid** — primary antioxidant, immune support
 - **Carotenoids** — lycopene, β-carotene, lutein, zeaxanthin
-- **Phenolic compounds** — flavonoids (quercetin, kaempferol),
-  tannins, anthocyanins
-- **Fatty acids** — seed oil rich in linoleic acid (40–55%),
-  α-linolenic acid, and oleic acid
-- **Galactolipids** — anti-inflammatory compounds (GOPO)
-- **Pectins** — soluble dietary fiber
-
-The anti-inflammatory activity is attributed primarily to a galactolipid
-fraction designated GOPO (galacto-oligosaccharides), which has shown
-significant reduction in joint pain and stiffness in clinical trials.
-
-## Culinary and Medicinal Use
-
-**Culinary:** Rose hips are used for jams, jellies, syrups, teas, soups,
-and wine. The fruit flesh is sweet-tart when ripe. Seeds must be removed
-before consumption as the hairs are irritating. Traditional Scandinavian
-rose hip soup (*nyponsoppa*) is a well-known preparation.
-
-**Medicinal:** In European herbal medicine, dog rose preparations are
+- **Phenolic compounds** — flavonoids (quercetin kaempferol medicine, dog rose preparations are
 used for:
 
 - Respiratory infections and colds (vitamin C, immune modulation)
@@ -129,7 +111,7 @@ in randomized controlled trials, with fewer adverse effects.
 
 ## Permaculture Applications
 
-Dog rose is a multifunctional permaculture plant with numerous
+Dog rose is a multifun [[permaculture]] aculture plant with numerous
 ecological and practical functions:
 - **Hedgerow component** — forms dense, stock-proof barriers with
   wildlife habitat value
@@ -147,11 +129,3 @@ ecological and practical functions:
 ## See Also
 
 - [[herb-growing-guide]]
-
-- [[herbal-medicine]]
-
-- [[peltigera-canina]]
-
-- Rosa-rugosa
-- Rosaceae
-- Wild-Edibles

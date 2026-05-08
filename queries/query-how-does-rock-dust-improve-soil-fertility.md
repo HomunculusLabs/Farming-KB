@@ -142,23 +142,6 @@ Rock dust is cumulative. Expect results in growing seasons, not days. It is not 
 
 **Other amendments are better when:** You need immediate deficiency correction (use chelated/soluble fertilizers); you need nitrogen (use compost, cover crops); you need rapid pH adjustment (use ag lime or elemental sulfur); budget is tight (compost delivers more per dollar); you're growing in small containers (use liquid mineral supplements).
 
-## Quick-Reference Summary
-
-| Question | Answer |
-|----------|--------|
-| What does rock dust do? | Slowly releases macro + trace minerals, builds structure, supports biology |
-| How fast does it work? | Measurable in 1–3 years; full benefits in 3–10 years |
-| How much should I apply? | 5–10 lbs/100 sq ft (beds); 50–200 lbs/1,000 sq ft (in-ground) |
-| Can I apply too much? | Yes — raises pH, causes imbalances, can cement soil |
-| Do I need compost with it? | Strongly recommended — feeds the biology that unlocks minerals |
-| Best all-around type? | Basalt (general); limestone (acidic soils); gypsum (alkaline soils) |
-| Is it a complete fertilizer? | No — mineral supplement only. Pair with compost + N sources |
-| Ideal particle size? | Below 100 microns for fastest biological weathering |
-
----
-
-*Last updated: 2026-04-28 · Living document — updated as new research becomes available.*
-
 ## See Also
 
 - [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]

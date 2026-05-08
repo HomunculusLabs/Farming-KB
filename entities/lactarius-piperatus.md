@@ -24,7 +24,7 @@ sources:
 
 **Lactarius piperatus** (L.) Pers., commonly known as the peppery milk cap, white pepper milk cap, or simply the pepper milkcap, is a basidiomycete fungus in the family Russulaceae. It is one of the most widely recognized members of the genus *Lactarius*, easily identified by its pure white coloration, crowded white gills, and the intensely peppery, acrid latex (milk) that exudes from all parts of the fruiting body when cut or damaged.
 
-The species is found across temperate forests of Europe and North America, where it forms ectomycorrhizal associations with broadleaf trees, particularly oaks and beeches. Despite its formidable peppery taste when raw, *L. piperatus* is considered edible after proper preparation — extended boiling or blanching — and is highly regarded in several European culinary traditions, especially in Eastern Europe and Russia.
+The species is found across temperate forests of Europe and North America, where it forms [[ectomycorrhizal-associations]] with broadleaf trees, particularly oaks and beeches. Despite its formidable peppery taste when raw, *L. piperatus* is considered edible after proper preparation — extended boiling or blanching — and is highly regarded in several European culinary traditions, especially in Eastern Europe and Russia.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ Originally described by Linnaeus in 1753 as *Agaricus piperatus*, the species wa
 
 **Flesh:** White, thick, and firm, becoming softer with age. Odor is mild or faintly fruity. Taste of the flesh is mild, but the latex is violently peppery.
 
-**Spore Print:** White to cream.
+**[[spore-print]]:** White to cream.
 
 ### Microscopic Features
 
@@ -67,13 +67,13 @@ Originally described by Linnaeus in 1753 as *Agaricus piperatus*, the species wa
 
 - **Europe:** Widespread and common throughout the continent, from the British Isles and Scandinavia to the Mediterranean and eastward to the Ural Mountains. Particularly abundant in oak and beech forests of Central and Eastern Europe.
 - **North America:** Occurs in eastern North America from eastern Canada to the Gulf Coast states, associated with oaks and other hardwoods.
-- **Asia:** Reported from China, Japan, and Korea, though Asian material may include cryptic species.
+- **Asia:** Reported from China, Japan, and Korea, though Asian material may include [[cryptic-species]].
 
 The species forms **ectomycorrhizal associations** primarily with:
 
 - Oak (*Quercus* spp.) — most common association
 - Beech (*Fagus* spp.)
-- Hazel (*Corylus avellana*)
+- Hazel (*[[corylus-avellana]]*)
 - Occasionally with birch (*Betula* spp.) and hornbeam (*Carpinus betulus*)
 
 Fruiting occurs from midsummer to late autumn (July–November), with peak abundance in August and September. It prefers warm, dry summers and is often one of the more prolific milk caps in oak-dominated woodlands during favorable years.
@@ -118,7 +118,7 @@ The species is low in calories and provides modest amounts of protein, fiber, B 
 - ***Lactarius glaucescens***: Very similar but the latex slowly turns yellowish and forms a yellowish crust on the gills upon drying.
 - ***Lactarius deceptivus***: Larger, with a more cottony cap margin and a less intensely peppery latex. The cap surface often has a felt-like texture.
 - ***Lactarius vellereus***: Larger, with a more robust stature and a tomentose (woolly) cap surface. The latex is less immediately acrid.
-- ***Russula delica***: Also white and found with similar trees, but lacks latex entirely. The gills are more brittle and the flesh has no peppery component.
+- ***[[russula-delica]]***: Also white and found with similar trees, but lacks latex entirely. The gills are more brittle and the flesh has no peppery component.
 
 ## Phytochemistry
 

@@ -148,7 +148,3 @@ Compost decomposition produces significant heat. A compost pile reaches 140F (60
 - [[aact-compost-organism-levels]] -- organism populations and succession in compost systems
 - [[bacterial-to-fungal-soil-succession]] -- how microbial communities shift during decomposition
 - [[biochar-in-agriculture]] -- biochar as a complementary soil amendment from organic waste
-
-[[aact-compost-organism-levels]]
-[[bacterial-to-fungal-soil-succession]]
-[[biochar-in-agriculture]]

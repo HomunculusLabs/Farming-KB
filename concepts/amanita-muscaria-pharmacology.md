@@ -15,7 +15,7 @@ type: concept
 
 Amanita muscaria (fly [[agar]]ic) and [[amanita-pantherina]] (panther cap)
 contain the psychoactive compounds muscimol and ibotenic acid. Unlike
-[[psilocybin]]-containing mushrooms that act on serotonin receptors,
+[[psilocybin-compound]]-containing mushrooms that act on serotonin receptors,
 Amanita species produce effects through modulation of GABA and
 glutamate systems. These mushrooms are recognized by their iconic red
 caps with white spots (A. muscaria) or brown caps with white patches
@@ -147,5 +147,3 @@ under US federal law. Variable potency, misidentification risk with
 deadly species, and unpleasant effects serve as natural deterrents.
 
 ## References
-
-## See Also

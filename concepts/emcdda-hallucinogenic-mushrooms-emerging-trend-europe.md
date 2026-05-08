@@ -15,7 +15,7 @@ thematic paper in 2006 examining hallucinogenic mushrooms as an emerging drug
 trend within the European Union. Authored by Jennifer Hillebrand, Deborah
 Olszewski and Roumen Sedefov, the case study was conducted as part of the E-POD
 (European Perspectives on Drugs) pilot project and represents one of the most
-comprehensive policy-level assessments of recreational [[psilocybin]] mushroom
+comprehensive policy-level assessments of recreational [[psilocybin-compound]] mushroom
 use in Europe during the early 2000s.
 
 ## Historical Context
@@ -70,7 +70,7 @@ tampanensis form sclerotia, sold as "truffles" or "philosopher's stones."
 
 ## Chemistry and Identification
 
-The active constituents of hallucinogenic mushrooms are [[psilocybin]]
+The active constituents of hallucinogenic mushrooms are [[psilocybin-compound]]
 (4-phosphoryloxy-N,N-dimethyltryptamine, 4-PO-DMT) and [[psilocin]]
 (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT). These are indolealkylamines,
 belonging to the same chemical group as LSD. They are structurally similar to

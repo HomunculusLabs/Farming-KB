@@ -147,6 +147,3 @@ Jujube is an outstanding addition to any [[food-forest]] or [[permaculture]] des
   used medicinally for livestock.
 
 ---
-
-*This page is a wiki query — a living document subject to revision as new
-information becomes available. Last reviewed: 2026-04-28.*

@@ -21,13 +21,13 @@ created: 2026-05-07
 
 ## Overview
 
-Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz]] with an undisclosed pink-hued phenotype. It emerged from the Los Angeles breeding scene circa 2019–2020 as part of the explosive Runtz family line.
+Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz-entity]] with an undisclosed pink-hued phenotype. It emerged from the Los Angeles breeding scene circa 2019–2020 as part of the explosive Runtz family line.
 
 The strain is renowned for its visually striking pink and purple coloration, intensely sweet candy-like aroma, and balanced effects that lean slightly toward the indica side of the spectrum.
 
 ## Lineage
 
-Pink Runtz is derived from the [[runtz]] genetic line, itself a cross of [[zkittlez]] and [[gelato]].
+Pink Runtz is derived from the [[runtz-entity]] genetic line, itself a cross of [[zkittlez]] and [[gelato-cannabis]].
 
 The specific "pink" phenotype is believed to be a selected cut expressing enhanced anthocyanin production, responsible for the vivid purple-pink coloration.
 
@@ -117,9 +117,9 @@ Pink Runtz has been used as a parent in several subsequent crosses, including va
 
 ## See Also
 
-- [[runtz]] — Parent genetic line
+- [[runtz-entity]] — Parent genetic line
 - [[white-runtz]] — Sibling phenotype in the Runtz family
-- [[gelato]] — Grandparent strain contributing creamy terpenes
+- [[gelato-cannabis]] — Grandparent strain contributing creamy terpenes
 - [[zkittlez]] — Grandparent strain contributing fruity terpene profile
 - [[granddaddy-purple]] — Classic purple strain for comparison
 - [[girl-scout-cookies]] — Foundational West Coast genetics

@@ -147,5 +147,3 @@ Key areas needing investigation:
 - Which aspects of host genotype produce observed endorhiza structure
 - Disentangling cannabinoid production from soil edaphic effects
 ## See Also
-
-- [[endorhiza-bacterial-communities]]

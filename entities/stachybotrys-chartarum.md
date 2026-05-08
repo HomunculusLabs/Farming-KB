@@ -118,7 +118,7 @@ Research into the health effects of S. chartarum continues to evolve, with ongoi
 S. chartarum produces dark-colored spores that are relatively large and sticky compared to other indoor moulds. These characteristics affect spore dispersal patterns and may influence exposure risks, as the spores tend to settle quickly from the air but can become aerosolized through disturbance of contaminated materials.
 
 ## See Also
-Related: [[indoor-wood-decay-fungi-building-deterioration]], [[holzer-water-landscapes-pond-building]], [[natural-building-materials-guide]]
+Related: [[indoor-wood-decay-fungi-building-deterioration]], [[sepp-holzer-permaculture-and-rebel-farming]], [[natural-building-materials-guide]]
 
 - [[fungal-biodiversity-forest-ecosystems]]
 

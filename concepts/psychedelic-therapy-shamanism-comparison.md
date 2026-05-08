@@ -26,7 +26,7 @@ The third paradigm is syncretic folk religious ceremonies, where the focus is co
 
 The fourth paradigm is hybrid shamanic-therapeutic rituals, which blend elements of Western psychotherapy with indigenous shamanic practices. These have been developing over the past several decades in North America and Europe.
 
-[[psychedelic-assisted-therapy-protocol]]
+psychedelic assisted therapy protocol
 
 ## The Psycholytic Approach
 

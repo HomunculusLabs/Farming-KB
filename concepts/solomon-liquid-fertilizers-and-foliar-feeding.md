@@ -32,7 +32,7 @@ Solomon distinguishes two liquid feeding methods:
 
 ## Fish Emulsion and Kelp Tea Combination
 
-The primary organic [[homemade-liquid-fertilizer]] combination Solomon
+The primary organic [[organic-vegetable-growing-and-market-gardening]] combination Solomon
 recommends is a mixture of:
 
 - **Fish emulsion**: Liquid from fish processing byproducts, providing
@@ -136,7 +136,7 @@ faster-growing plants.
 
 - [[foliar-feeding]]
 - [[foliar-feeding-plants]]
-- [[homemade-liquid-fertilizer]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-disease-identification-and-organic-remedies]]

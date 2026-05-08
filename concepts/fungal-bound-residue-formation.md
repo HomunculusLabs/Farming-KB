@@ -83,7 +83,7 @@ Bound residues raise important ecological considerations:
 - [[fungal-degradation-of-phenols-and-chlorophenols]] for phenol transformation pathways
 - [[mycoremediation-of-pahs]] for PAH remediation overview
 - [[white-rot-fungi-bioremediation]] for ligninolytic enzyme-producing fungi
-- [[mycoremediation-field-applications]] for soil treatment deployment
+- [[bioremediation-using-fungi]] for soil treatment deployment
 
 ## Related
 

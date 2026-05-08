@@ -8,8 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-
-# Television as the Hidden Persuader and Dominator Drug
+# Television as the Hidden Persuader and [[mckenna-food-gods-television-dominator-drug]]
 
 ## The First Electronic Drug
 
@@ -57,16 +56,15 @@ Most unsettling of all is this: the content of television is not a vision but a
 manufactured data stream that can be sanitized to "protect" or impose cultural
 values. Thus we are confronted with an addictive and all-pervasive drug that delivers
 an experience whose message is whatever those who deal the drug wish it to be. Could
-anything provide a more fertile ground for fostering fascism and totalitarianism than
+anything provide a more fertile ground for fostering fascism and tsacramental-[[ayahuasca]]-legal-battles-united-statesm than
 this? In the United States, there are many more televisions than households, the
 average television set is on six hours a day, and the average person watches more
 than five hours a day, nearly one-third their waking time.
 
-Aware as we all are of these simple facts, we seem unable to react to their
-implications. Serious study of the effects of television on health and culture has
+Aware as we all are of these simple facts, we seem unable to react to [[mckenna-catalytic-psychedelics-and-culturecations. Serious study of the effects of television on health and culture has
 only begun recently. Yet no drug in history has so quickly or completely isolated the
 entire culture of its users from contact with reality. And no drug in history has so
-completely succeeded in remaking in its own image the values of the culture that it
+completely succeeded in remaking in its own image the values ofmckenna-sugar-as-addiction-and-drug-of-the-dominatorthat it
 has infected.
 
 ## Television as Dominator Drug Par Excellence
@@ -147,9 +145,3 @@ demonic handmaiden of an unchecked descent into regimentation and erosion of civ
 liberties.
 
 ## See Also
-
-- [[mckenna-television-dominator-drug]] for additional analysis of television's social role
-- [[mckenna-drug-war-and-human-freedom]] for the political context of drug suppression
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]] for the chemical drugs television replaced
-- [[mckenna-dominator-vs-partnership-society-model]] for the theoretical framework
-- [[mckenna-consciousness-expansion-and-drug-war]] for the clash between expansion and control

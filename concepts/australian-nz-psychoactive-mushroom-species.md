@@ -116,11 +116,11 @@ Government authorities noted that popularity diminished after many regular users
 
 On Friday, July 11, 1969, four young men aged 20-22 from New South Wales were each fined $200 on charges of possessing psilocybin. The complaint was registered by the manager of Sippy Downs station near Nambour, about sixty miles north of Brisbane, who reported that the men had gained illegal entry onto his private property. Police found a box of mushrooms in their parked van. The magistrate allowed them two weeks to pay or serve one month imprisonment.
 
-By March 1971, an export market had been established by dealers who made [[psilocybe-cubensis-profile]] available to users in Sydney and other cities throughout Australia. Tasmanian authorities became concerned that widespread collection in their state would attract people from the mainland. Dr. Malcomb Hall stated in 1973 that "exportation of fungi from Tasmania to the mainland is highly likely, as knowledge of suitable species becomes more widespread."
+By March 1971, an export market had been established by dealers who made [[psychedelic-mushrooms-species-and-identification]] available to users in Sydney and other cities throughout Australia. Tasmanian authorities became concerned that widespread collection in their state would attract people from the mainland. Dr. Malcomb Hall stated in 1973 that "exportation of fungi from Tasmania to the mainland is highly likely, as knowledge of suitable species becomes more widespread."
 
 ## State-Level Legislation
 
-While each Australian state enacted legislation controlling psychoactive substances and their analogues, only Queensland declared a specific mushroom — [[psilocybe-cubensis-profile]] — as a prohibited "plant" under the Queensland Health Act of 1937-1971. Intoxications from this species were reported as early as 1958.
+While each Australian state enacted legislation controlling psychoactive substances and their analogues, only Queensland declared a specific mushroom — [[psychedelic-mushrooms-species-and-identification]] — as a prohibited "plant" under the Queensland Health Act of 1937-1971. Intoxications from this species were reported as early as 1958.
 
 Dr. Malcolm C. Hall of the Canberra Commonwealth Police Force noted that psilocybin and psilocin were listed as Schedule 3 drugs in the Tasmanian Dangerous Drugs Order of 1965. Both chemicals were later designated as Schedule 1 drugs by the International Convention on Psychotropic Substances of 1971.
 
@@ -132,7 +132,7 @@ Dr. Hall reported that 60 people in Australia were charged with offenses involvi
 
 In 1980, a special government report on drugs documented growing concern about mushroom abuse. A Queensland school teacher told the commission that because LSD was difficult to obtain and expensive, people were picking hallucinogenic mushrooms around Samford, Ferny Grove, Pinkenba, Dayboro, and Beenleigh.
 
-A senior Queensland Police Officer confirmed that "gold top" mushrooms ([[psilocybe-cubensis-profile]]) were plentiful in the Gold Coast area, particularly in the Currumbin and Tallebudgera areas during the wet season, though no evidence suggested commercial cultivation.
+A senior Queensland Police Officer confirmed that "gold top" mushrooms ([[psychedelic-mushrooms-species-and-identification]]) were plentiful in the Gold Coast area, particularly in the Currumbin and Tallebudgera areas during the wet season, though no evidence suggested commercial cultivation.
 
 Captain B.C. Mundy of the Salvation Army in Darwin reported that "gold tops" and "blue meanie" mushrooms grew freely in the tropical climate in animal manure and manured gardens. One notable case involved a resident of the Red Shield Hostel in Darwin who was accused of housebreaking but found not responsible after boiling "blue meanies" from the hostel garden, which had recently been treated with fowl manure. This was reportedly the first case of [[panaeolus-cyanescens-bali-omelette]] (blue meanies) fruiting from poultry manure rather than ruminant dung.
 

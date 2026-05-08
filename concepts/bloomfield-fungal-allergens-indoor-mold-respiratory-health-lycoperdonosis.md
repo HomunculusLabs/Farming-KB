@@ -21,7 +21,7 @@ type: concept
 
 # Fungal Allergens, Indoor Mold, and Respiratory Health
 
-Human exposure to fungal spores is constant, inescapable, and largely invisible. Every breath drawn from infancy to old age contains [[ballistospore-discharge|fungal spores]] and fragments of fungal cell walls. For most people, this perpetual inhalation is benign. For asthmatics, immunocompromised individuals, and the unfortunate few who inhale massive spore doses, the consequences range from chronic irritation to acute respiratory failure. The intersection of modern building practices, energy conservation, and fungal biology has created a public health concern that extends well beyond the well-publicized cases of toxic black mold.
+Human exposure to fungal spores is constant, inescapable, and largely invisible. Every breath drawn from infancy to old age contains [[mushroom-cultivation-fundamentals|fungal spores]] and fragments of fungal cell walls. For most people, this perpetual inhalation is benign. For asthmatics, immunocompromised individuals, and the unfortunate few who inhale massive spore doses, the consequences range from chronic irritation to acute respiratory failure. The intersection of modern building practices, energy conservation, and fungal biology has created a public health concern that extends well beyond the well-publicized cases of toxic black mold.
 
 ## The Mold Index and Airborne Spore Concentrations
 

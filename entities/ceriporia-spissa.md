@@ -112,7 +112,7 @@ These findings suggest that beyond its ecological role in wood decomposition, C.
 - [[hypoxylon-fragiforme]]
 - [[trametes-hirsuta]]
 - [[trametes-trogii]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[grifola-frondosa]]
 - [[pleurotus-eryngii]]
 - [[phanerochaete-chrysosporium]]

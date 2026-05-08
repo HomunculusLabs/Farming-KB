@@ -21,7 +21,7 @@ sources:
 type: query
 ---
 
-## What Are Dynamic Accumulators?
+## What Are [[dynamic-accumulators]]?
 
 Dynamic accumulators are plants with deep or extensive root systems that draw up minerals from subsoil layers — beyond the reach of most annual crops — and concentrate those nutrients in their leaves, stems, and roots. When the above-ground biomass is cut and returned to the soil surface, those mined nutrients become available to neighboring plants in the topsoil.
 
@@ -31,9 +31,9 @@ This is one of permaculture's core nutrient-cycling strategies: instead of impor
 
 | Plant | Key Nutrients Accumulated | Root Depth | Best Use |
 |---|---|---|---|
-| **Comfrey** (Symphytum officinale) | N, P, K, Ca, Si | 3–10 ft | Chop-and-drop mulch, compost tea, living mulch under fruit trees |
-| **Stinging Nettle** (Urtica dioica) | N, Fe, Ca, Mg, S | 2–5 ft | Compost activator, foliar spray (fermented), high-nitrogen mulch |
-| **Dandelion** (Taraxacum officinale) | Ca, Fe, K, Cu, Si | 3–15 ft | Taproot breaks compaction; leaves as mulch; edible greens |
+| **Comfrey** ([[symphytum-officinale]]) | N, P, K, Ca, Si | 3–10 ft | Chop-and-drop mulch, compost tea, living mulch under fruit trees |
+| **[[stinging-nettle]]** ([[urtica-dioica]]) | N, Fe, Ca, Mg, S | 2–5 ft | Compost activator, foliar spray (fermented), high-nitrogen mulch |
+| **Dandelion** ([[taraxacum-officinale]]) | Ca, Fe, K, Cu, Si | 3–15 ft | Taproot breaks compaction; leaves as mulch; edible greens |
 | **Yarrow** (Achillea millefolium) | Cu, K, P, N | 1–3 ft | Compost activator, insectary plant, medicinal herb |
 | **Chicory** (Cichorium intybus) | K, Ca, Mg, S, Cu | 3–6 ft | Forage crop, subsoil miner, drought-tolerant living mulch |
 | **Daikon Radish** (Raphanus sativus) | P, S, K, Ca | 3–6 ft | Bio-drill (breaks hardpan), winter cover crop, decomposes in place |

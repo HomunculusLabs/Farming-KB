@@ -1,5 +1,5 @@
 ---
-title: "Angelica sinensis"
+title: "angelica sinensis"
 created: 2026-05-06
 type: species
 tags:
@@ -18,7 +18,6 @@ sources:
   - Chen, Y. et al. (2013). "Dong Quai (Angelica sinensis): Traditional uses, chemistry, and pharmacology." American Journal of Chinese Medicine, 41(4), 769-791.
   - Dharmananda, S. (2003). "Dang Gui: An Important Women's Herb." Institute for Traditional Medicine.
 ---
-
 # Angelica sinensis
 
 ## Overview
@@ -26,13 +25,13 @@ sources:
 **Angelica sinensis**, known as dong quai (当归), Chinese angelica, or female
 ginseng, is a perennial herbaceous plant in the carrot family (Apiaceae).
 It is one of the most important herbs in Traditional Chinese Medicine (TCM),
-where it has been used for over 2,000 years, primarily as a blood tonic and
+where it has been [[query-what-is-a-wavelet-transform-used-for]] over 2,000 years, primarily as a blood tonic and
 to regulate women's reproductive health.
 
 The dried root (Radix Angelica Sinensis) is the official medicinal part,
 commonly referred to as "dang gui" in Chinese herbalism. It appears in more
 TCM formulas than almost any other single herb, functioning as both a primary
-treatment and a harmonizing agent in complex prescriptions.
+treatment and a harmonizing agent itrichome-development-and-morphologycriptions.
 
 ## Taxonomy and Morphology
 
@@ -77,8 +76,8 @@ It grows at elevations of 2,500–3,500 meters in:
 - Alpine meadows near treeline
 - River terraces with well-drained soils
 
-The plant requires cool growing conditions (average 15–20°C during the
-growing season), high humidity, and rich, deep, loamy soils. It cannot
+The planquery-how-to-protect-plants-from-frost-and-extend-the-growing-seasonl growing conditions (average 15–20°C during the
+growing season), high humidity, and rich,[[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
 
@@ -147,13 +146,3 @@ roots harvested in the second year after autumn senescence.
 Seeds require cold stratification and lose viability rapidly (under 6
 months). Seedlings are transplanted in the spring of year one and roots
 are dug in late autumn of year two.
-
-Outside China, successful cultivation has been reported in parts of
-
-## See Also
-
-- [[miscanthus-sinensis]]
-- [[camellia-sinensis-entity]]
-- [[ophiocordyceps-sinensis]]
-- [[cordyceps-sinensis]]
-- [[angelica-archangelica]]

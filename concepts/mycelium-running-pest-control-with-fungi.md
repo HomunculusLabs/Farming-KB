@@ -39,7 +39,7 @@ This discovery led to U.S. Patent 6,660,290.
 
 ## How Entomopathogenic Fungi Work
 
-[[mycopesticides-fungal-biocontrol]] operate through a precise sequence:
+[[mushroom-cultivation-fundamentals]] operate through a precise sequence:
 
 1. Spores attach to insects and germinate
 2. Hyphal pegs bore through the exoskeleton using chitin-dissolving

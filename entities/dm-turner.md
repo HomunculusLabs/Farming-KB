@@ -12,7 +12,7 @@ sources:
 
 D. M. Turner (1962–1996) was an American psychonaut and author of *The Essential Psychedelic Guide* (1994, Panther
 Press, ISBN 0-9642636-1-0), one of the first comprehensive comparative guides covering multiple psychedelic substances
-from a user's perspective. His work covered LSD, psilocybin mushrooms, [[mescaline]], DMT, MDMA, [[2c-b]], ketamine,
+from a user's perspective. His work covered LSD, psilocybin mushrooms, [[mescaline-entity]], DMT, MDMA, [[2c-b]], ketamine,
 and harmala alkaloids with detailed dosage information, effects descriptions, and safety advice. Turner is remembered
 both for his significant contributions to the documentation of psychedelic experiences and for his death, which became
 a cautionary tale about the risks of solo psychedelic use.

@@ -31,7 +31,7 @@ is a delicious and non-psychoactive food, yet when the seed capsule is
 scratched with blade or fingernail, a milky latexlike material accumulates
 and, as it hardens, turns a dark brown. This material is raw opium.
 
-Like the [[psilocybin]] mushroom with its association with cattle, and the
+Like the [[psilocybin-compound]] mushroom with its association with cattle, and the
 parasitism of ergot on rye and other cereals, the opium poppy represents
 a plant that has co-evolved with human [[mycorrhizal-agricultural-practices]]. This
 pattern of psychoactive plants emerging in relation to human food
@@ -148,4 +148,3 @@ twentieth-century governments.
 ## See Also
 
 - [[mckenna-eleusinian-mysteries]]
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]

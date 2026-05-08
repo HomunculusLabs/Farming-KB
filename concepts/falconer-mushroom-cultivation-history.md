@@ -96,7 +96,7 @@ have been refined and expanded.
 - [[nineteenth-century-mushroom-literature]] — Victorian-era mushroom knowledge
 - [[nineteenth-century-mushroom-cultivation]] — Cultivation methods of the period
 - julius palmer — Another Victorian mushroom text author
-- [[mushroom-cultivation-cloning-isolation]] — Modern spawn production methods
-- [[mushroom-cultivation-sterile-technique]] — Modern contamination control
+- [[mushroom-cultivation-fundamentals]] — Modern spawn production methods
+- [[mushroom-cultivation-fundamentals]] — Modern contamination control
 - [[magic-mushroom-cultivation-history]]
 - [[falconer-paris-cave-mushroom-cultivation]]

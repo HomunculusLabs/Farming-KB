@@ -112,7 +112,7 @@ The species has been investigated as a bioindicator of forest health and soil qu
 - [[amanita-muscaria]]
 - [[russula-virescens]]
 - [[trametes-versicolor]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - xerocomellus chrysenteron
 - [[pleurotus-ostreatus]]
 - [[psilocybe-semilanceata]]

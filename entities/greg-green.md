@@ -13,13 +13,6 @@ sources:
 
 Greg Green is the author of *The Cannabis Grow Bible* (4th edition, 2001), one of the most widely read comprehensive guides to cannabis cultivation. The book covers all aspects of growing from seed selection and breeding through vegetative growth, flowering, harvesting, and processing. See [[cannabis-lighting-guide]] and [[cannabis-growth-stage-checklist]] for practical techniques covered extensively in his work.
 
-
-
-
-
-
-
-
 ## The Cannabis Grow Bible
 
 The Grow Bible is structured as a 17-chapter reference covering the complete cannabis cultivation cycle:
@@ -35,19 +28,12 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 9. **Hydroponics** — growing mediums, nutrients, the bubbler system
 10. **Outdoor growing** — site selection, care
 11. **Plant care** — thinning, light bending, pruning, training, yield increase (see [[cannabis-topping-training]])
-12. **Predators and pests** — identification and management (see [[cannabis-pest-management]])
+12. **Predators and pests** — identification and management (see cannabis pest management)
 13. **Problem solver** — troubleshooting common issues
 14. **Harvesting and curing** — indica vs sativa harvest timing, curing (see [[cannabis-harvest-and-curing]])
 15. **Breeding** — making seeds, pollen, simple breeding, genetics (dominant/recessive, Hardy-Weinberg), true breeding (cubing/backcrossing, selfing)
 16. **Strain index** — reference of known varieties
 17. **Hash making** — trichome collection, screening methods (see [[cannabis-hashish-guide]])
-
-
-
-
-
-
-
 
 ## Key Contributions
 
@@ -56,25 +42,11 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 - Acknowledged contributions from the online cannabis growing community including cannabisX.com and overgrow.com
 - Featured breeding expertise from [[vic-high]] and photographs from BushyOlderGrower, Chimera, Strawdog, and others
 - Covered both basic techniques for beginners and advanced methods (SOG, ScrOG, hydroponics) for experienced growers
-- Practical approach to [[cannabis-plant-nutrition]] and [[cannabis-pest-management]]
-
-
-
-
-
-
-
+- Practical approach to [[cannabis-plant-nutrition]] and cannabis pest management
 
 ## Significance
 
 Green's Grow Bible became a foundational reference for cannabis cultivators worldwide, particularly during the period when cultivation information was primarily shared through underground channels. It sits alongside [[robert-clarke]]'s *Marijuana Botany* as essential reading for serious cannabis cultivators.
-
-
-
-
-
-
-
 
 ## Related
 
@@ -83,7 +55,7 @@ Green's Grow Bible became a foundational reference for cannabis cultivators worl
 - [[cannabis-lighting-guide]] — lighting systems covered extensively
 - [[cannabis-topping-training]] — plant training techniques
 - [[cannabis-harvest-and-curing]] — harvest timing and curing methods
-- [[cannabis-pest-management]] — pest identification and management
+- cannabis pest management — pest identification and management
 - [[cannabis-growth-stage-checklist]] — week-by-week grow checklist
 - [[cannabis-genetics-and-breeding]] — breeding chapter content
 - [[cannabis-hashish-guide]] — hash production from trichome screening

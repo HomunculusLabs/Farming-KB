@@ -87,5 +87,5 @@ However, biostimulation is limited by the metabolic capabilities of the indigeno
 
 - [[bioremediation-monitoring-and-assessment]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[mycoremediation-mining-waste]]
+- [[bioremediation-using-fungi]]
 - [[pcb-remediation-technologies]]

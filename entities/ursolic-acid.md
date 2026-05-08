@@ -54,10 +54,10 @@ Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene
 - **Olive** (Olea europaea): Present in fruit and olive oil
 
 **Herbs and medicinal plants**:
-- **Holy basil / Tulsi** (Ocimum tenuiflorum): 0.5–2.5% in leaves
-- **Rosemary** (Rosmarinus officinalis): 1.5–3.0% in dried leaves; richest herbal source
-- **Oregano** (Origanum vulgare): 0.8–2.0%; **Thyme** (T. vulgaris): 0.5–1.5%; **Sage** (S. officinalis): 1.0–2.5%
-- **Lavender, self-heal (Prunella vulgaris), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
+- **Holy basil / Tulsi** ([[ocimum-tenuiflorum-entity]]): 0.5–2.5% in leaves
+- **Rosemary** ([[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
+- **Oregano** ([[origanum-vulgare-entity]]): 0.8–2.0%; **Thyme** (T. vulgaris): 0.5–1.5%; **Sage** (S. officinalis): 1.0–2.5%
+- **Lavender, self-heal ([[prunella-vulgaris]]), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
 
 **Traditional medicines containing ursolic acid**:
 - Bearberry (Arctostaphylos uva-ursi) — original source; loquat leaf (Eriobotrya japonica); oldenlandia diffusa (Chinese anticancer herb); Ganoderma lucidum (reishi triterpenoid fraction)
@@ -147,11 +147,3 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 | Primary limitation | Poor solubility and bioavailability |
 
 ## Relevance
-
-Ursolic acid is arguably the most pharmacologically versatile dietary triterpenoid, modulating an extraordinary breadth of molecular targets with implications across inflammatory, metabolic, neoplastic, and neurodegenerative diseases. Its ubiquity in common foods — especially apples, rosemary, and Mediterranean herbs — means it contributes significantly to the health benefits of plant-rich diets, providing a molecular basis for traditional dietary wisdom. Current research focuses on overcoming its bioavailability limitations through advanced drug delivery systems, with several ursolic acid derivatives entering preclinical and early clinical development as anticancer and anti-inflammatory agents. In the context of integrative medicine and permaculture nutrition, ursolic acid exemplifies how a single compound found across hundreds of plant species can serve as a unifying biochemical explanation for the therapeutic effects of diverse herbal traditions worldwide.
-
-## See Also
-
-- [[halpern-lysergic-acid-amide-plants-and-pharmacology]]
-- [[ashwagandha]]
-- [[ganoderma-lucidum]]

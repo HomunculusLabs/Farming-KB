@@ -18,7 +18,7 @@ type: concept
 
 The pine bark weevil blight affecting Japanese red pines serves as one of
 Masanobu Fukuoka's most detailed case studies in ecological cascade effects and
-the futility of [[fukuoka-critique-scientific-agriculture]] against complex natural phenomena. Described in *The One-Straw
+the futility of [[fukuoka-critique-of-scientific-agriculture]] against complex natural phenomena. Described in *The One-Straw
 Revolution*, the weevil outbreak illustrates Fukuoka's core argument that
 humanity cannot fully comprehend the web of causes in ecological systems, and
 that attempting to treat symptoms with chemicals only creates deeper problems.

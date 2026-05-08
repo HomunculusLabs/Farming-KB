@@ -21,7 +21,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide.md
 ---
 # Permaculture Climate-Specific Design Strategies
-Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
+Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 ## Arid Lands Strategies (Mollison, Ch. 5)
 ### Home Gardens for Desert Survival
 Around the house (wiltja/shelter), where organic wastes accumulate and water from roofs/washing is available:
@@ -120,13 +120,13 @@ From Mollison's detailed treatment:
 - Slope positioning more important than latitude for frost avoidance
 - See [[edge-effect-and-microclimate]] for detailed techniques
 ## Links
-- [[permaculture-design-methods]] — Full design toolkit
+- [[permaculture-design]] — Full design toolkit
 - [[permaculture-design]] — Zone/sector analysis
 - [[edge-effect-and-microclimate]] — Microclimate creation techniques
 - [[water-management]] — Water harvesting strategies
 - [[sepp-holzer-methods]] — Holzer's mountain climate techniques
 - [[hemenway-hugelkultur-guide]] — Raised bed water retention
-- [[no-till-gardening-method]] — Minimum disturbance soil management
+- [[composting-and-soil-biology]] — Minimum disturbance soil management
 - [[mulching-guide]] — Mulch types and application
 ## Related
 - [[coastal-gardening]]

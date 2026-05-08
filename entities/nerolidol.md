@@ -148,6 +148,3 @@ like [[limonene]] and [[pinene]].
 - [[myrcene]] — Monoterpene with overlapping sedative properties in cannabis
 - [[linalool]] — Floral monoterpene anxiolytic; common synergistic partner
 - [[alpha-bisabolol]] — Sesquiterpene alcohol with similar anti-inflammatory
-  and skin-care applications
-- [[limonene]] — Citrus monoterpene often co-occurring with nerolidol
-- [[jack-herer]] — Cannabis strain frequently high in nerolidol

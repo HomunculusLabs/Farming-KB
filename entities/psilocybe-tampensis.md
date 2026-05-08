@@ -104,7 +104,7 @@ Subsequent collections have confirmed the species' presence across a wider range
 - [[psilocybe-azurescens]]
 - [[psilocybe-mexicana]]
 - [[psilocybe-cyanescens]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[panaeolus-tropicalis]]

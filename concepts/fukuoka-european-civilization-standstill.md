@@ -72,7 +72,7 @@ This topic connects to broader themes explored throughout the wiki.
 
 ## See Also
 
-[[fukuoka-european-travels-natural-farming]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[mckenna-vedic-soma-indo-european-mysteries]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[psychedelic-plants-and-civilization]], [[fukuoka-natural-orchard-ground-cover]]
+[[fukuoka-european-travels-natural-farming]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[mckenna-vedic-soma-indo-european-mysteries]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[psychedelic-plants-and-civilization]], [[fukuoka-natural-farming-philosophy]]
 
 ## Practical Applications
 

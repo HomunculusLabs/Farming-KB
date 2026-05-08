@@ -81,7 +81,7 @@ This pattern places MDA in the classical psychedelic category while MDMA occupie
 ## Related Topics
 
 - [[mdma-compound-profile]]
-- [[mda-compound-profile]]
+- [[ayahuasca-and-dmt-plant-medicine]]
 - [[optical-isomers-psychedelic-phenethylamines]]
 - [[phenethylamine-receptor-pharmacology]]
 - [[phenethylamine-duration-and-timing]]

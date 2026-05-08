@@ -148,4 +148,3 @@ gully through valuable productive land.
 - [[mollison-designers-keyline-pattern-plow-technique]]: Landscape water planning
 - [[mollison-designers-earthworks-for-erosion-control]]: Construction techniques
 - [[mollison-designers-humus-building-and-soil-organic-matter]]: Infiltration improvement
-- [[mollison-designers-pond-construction-liner-sealing]]: Pond integration

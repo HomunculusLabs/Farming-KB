@@ -77,7 +77,7 @@ The third and most dramatic form involves the experience of being dismembered
 or destroyed, followed by reconstitution with a healthier, stronger body. The
 patient undergoes a symbolic death and rebirth, with the shaman guiding the
 process through song and ceremony. This pattern parallels Stanislav Grof's
-description of [[metzner-grof-perinatal-matrices-and-transpersonal-consciousness]] in [[psychedelic-therapy-current-research]], suggesting a
+description of metzner grof perinatal matrices and transpersonal consciousness in [[psychedelic-therapy-current-research]], suggesting a
 cross-cultural archetype of ego death and renewal accessed through altered
 states. The dismemberment is not metaphorical in the shamanic framework; it is
 understood as an actual process of spiritual dissolution and reformation.
@@ -148,4 +148,3 @@ spirit allies, and the spirits of the Earth, elements, animals, plants, sky,
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[icaros-power-songs]]
-- [[entheogenic-ceremony]]

@@ -122,7 +122,7 @@ changes.
 
 ## Related Topics
 - [[alexander-shulgin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[tryptamine]]
 - [[psilocybin-toxicity-and-safety-profile]]
 - [[mushroom-food-safety-heavy-metal-accumulation]]

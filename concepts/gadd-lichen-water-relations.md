@@ -148,4 +148,3 @@ exploiters of ephemeral moisture in otherwise dry environments.
 ## See Also
 - [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - [[fungal-water-relations]]
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]

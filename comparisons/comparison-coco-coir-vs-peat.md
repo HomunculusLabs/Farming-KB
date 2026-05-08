@@ -53,7 +53,7 @@ advantages over locally sourced alternatives.
 
 ## Peat-Free Gardening
 
-[[peat-free-gardening]]
+peat free gardening
 
 Peat has been the standard horticultural growing medium for over a century,
 valued for its exceptional water retention, low nutrient content, and
@@ -148,5 +148,3 @@ formulations for virtually any growing application.
 
 - [[comparison-coco-coir-cannabis-vs-peat-free-gardening]]
 - [[comparison-rockwool-vs-coco-coir]]
-- [[coco-coir-cannabis]]
-- [[peat-free-gardening]]

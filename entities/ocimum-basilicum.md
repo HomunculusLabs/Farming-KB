@@ -147,8 +147,4 @@ claims remains limited:
 - [[food-forest-permaculture]]
 
 - [[mentha-piperita]]
-- [[rosmarinus-officinalis]]
-- [[lavandula-angustifolia]]
-- [[melissa-officinalis]]
-- [[salvia-officinalis]]
-- [[food-forest-permaculture]]
+- [[rosmarinus-officinalis-entity]]

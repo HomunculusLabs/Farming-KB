@@ -70,7 +70,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
 - **1860s — Cooke's popularization:**
   [[mordecai-cooke]] publishes widely on mushrooms,
   popularizing mycology among Victorian naturalists.
-  See [[victorian-mycology]].
+  See [[ethnomycology]].
 - **1891 — William Falconer's manual:**
   [[william-falconer]] publishes Mushrooms: How to Grow Them in America,
   adapting European cave and cellar techniques for American growers.
@@ -114,7 +114,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   climate-controlled growing rooms,
   and standardized spawn production transform mushroom farming
   from craft to industry.
-  See [[mushroom-compost-substrates]].
+  See [[mushroom-cultivation-fundamentals]].
 ## Modern Era (1950–Present)
 The late 20th and 21st centuries of mushroom cultivation — from species diversification and the home cultivation revolution through PF TEK, the gourmet mushroom boom, and mainstream mycology — are covered in detail on mushroom cultivation history. Key milestones include the McKenna brothers' grower's guide, Stamets' definitive manuals, PF TEK democratization, and the rise of online cultivation communities. See also mushroom cultivation history.
 ## Related Pages

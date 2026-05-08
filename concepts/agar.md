@@ -122,21 +122,6 @@ Similarly, tissue-cloning from fruiting bodies is performed by
 placing a small piece of inner mushroom tissue onto agar. Since the
 interior of most mushroom fruitbodies is sterile, this technique allows
 cultivators to capture the exact genetic identity of a desirable
-specimen, whether from cultivated crops or wild collections.
-
-## Incubation and Storage
-
-Cultures on agar plates are typically incubated upside down to prevent
-condensation from dripping onto the mycelial surface. Temperature
-stability is important — excessive heat causes mycelium to sweat and
-deteriorate, while excessive cold slows growth. Fluctuating temperatures
-should be avoided because they promote condensation.
-
-For long-term storage, colonized agar slants can be refrigerated and
-remain viable for at least one year. Periodic viability checks by
-re-culturing onto fresh agar are recommended to ensure the stored
-cultures remain alive and healthy.
-
 ## See Also
 
 - [[working-with-agar-guide]]

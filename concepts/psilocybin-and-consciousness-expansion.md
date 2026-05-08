@@ -115,6 +115,6 @@ The key difference is that Powell grounds the argument in ecological chemistry (
 ## Related Concepts
 
 - [[psilocybin-and-nature-connection]] — ecopsychology and environmental connectedness
-- [[hallucinogenic-drugs-in-psychotherapy-history]] — therapeutic applications
+- [[ayahuasca-and-dmt-plant-medicine]] — therapeutic applications
 - [[amanita-muscaria-chemistry-and-pharmacology]] — comparative pharmacology of psychoactive fungi
 - [[soma-and-the-sacred-mushroom-debate]] — historical roots of psychedelic experience

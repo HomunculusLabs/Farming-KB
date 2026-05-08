@@ -148,5 +148,3 @@ strategies include:
 - **Include a water source** such as a shallow dish with pebbles for drinking.
 
 By designing gardens that welcome beneficial insects, the gardener enlists
-nature's own pest control service — one that works around the clock, breeds
-itself, and never needs chemical inputs.

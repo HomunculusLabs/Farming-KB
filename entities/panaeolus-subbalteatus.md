@@ -89,7 +89,7 @@ Like all psilocybin-containing fungi, *P. subbalteatus* is illegal to possess in
 
 ## See Also
 
-- [[psilocybin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
+- [[psilocybin-compound]]
 - [[psilocybe-caerulescens-entity]]
 - [[psilocybe-cubensis]]

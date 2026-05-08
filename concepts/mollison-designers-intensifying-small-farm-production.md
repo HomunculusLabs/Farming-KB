@@ -148,4 +148,3 @@ and overall system sustainability.
 > strategy of maximizing total useful yield per unit area through intercropping,
 > succession planting, edge maximization, vertical stacking, season extension,
 > small livestock integration, and value-adding. These techniques increase
-> productivity, diversity, resilience, and farm income without expanding land

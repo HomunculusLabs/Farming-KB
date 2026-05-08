@@ -107,34 +107,6 @@ Each modification produced subtle or dramatic changes in potency, duration, and 
 
 This systematic exploration created a map of psychoactive chemical space that remains unmatched in the literature.
 
-## Impact on Neuroscience and Pharmacology
-
-PIHKAL's influence extends beyond the psychedelic community into mainstream neuroscience.
-
-Several compounds first described by Shulgin have become important research tools:
-
-- **2C-B**: Studied for its serotonin receptor binding profile (5-HT2A, 5-HT2C partial agonism) and its role in understanding visual hallucination mechanisms
-- **MDA and MDMA**: Although not novel to Shulgin, his detailed pharmacological studies contributed significantly to understanding their mechanism of action through serotonin, dopamine, and norepinephrine release
-- **DOI and DOB**: Potent 5-HT2A agonists used as reference compounds in receptor binding studies
-
-The qualitative reports in PIHKAL also provide rare phenomenological data — systematic descriptions of subjective experience correlated with specific molecular structures — that complement the purely quantitative approaches of modern psychopharmacology.
-
-## Criticism and Limitations
-
-Several criticisms of PIHKAL's methodology have been raised by the scientific community.
-
-The sample sizes for each compound are very small (typically 1–6 people), and the research group was not blinded.
-
-Dose-response relationships are based on self-selected doses rather than controlled administration.
-
-The qualitative reports, while detailed, are subjective and cannot be standardized.
-
-Shulgin himself acknowledged these limitations, presenting the work as preliminary exploration rather than conclusive pharmacology.
-
-The publication of detailed synthetic procedures has also been controversial, as it makes the synthesis of novel psychoactive substances accessible to clandestine chemists.
-
-However, Shulgin maintained that the information was already available in the scientific literature and that responsible publication served the cause of harm reduction through knowledge.
-
 ## See Also
 
 - [[miproscaline]]

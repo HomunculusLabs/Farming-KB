@@ -148,8 +148,3 @@ depending on the destination country.
 - [Lysergic acid amide](lysergic-acid-amide.md)
 - [Lysergic acid hydroxyethylamide](lysergic-acid-hydroxyethylamide.md)
 - [Ergotamine](ergotamine.md)
-- [Ergometrine](ergometrine.md)
-- [LSA/ergine](ergine.md)
-- [Dimethyltryptamine](dimethyltryptamine.md)
-- [Claviceps purpurea](claviceps-purpurea.md)
-- [Argyreia nervosa](argyreia-nervosa.md)

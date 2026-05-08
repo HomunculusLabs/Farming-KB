@@ -128,7 +128,7 @@ Seeds available from several established seed banks including Nirvana Seeds (ori
 - [[cannabis-menopause-research]]
 
 - [[myrcene]] — Dominant terpene associated with sedative effects
-- [[blue-dream]] — Contrasting sativa-dominant hybrid for comparison
+- [[cannabis-blue-dream]] — Contrasting sativa-dominant hybrid for comparison
 - [[og-kush]] — Classic indica-dominant with different terpene profile
 - [[limonene]] — Terpene contributing citrus aroma notes
 - Caryophyllene — Terpene adding peppery, spicy character

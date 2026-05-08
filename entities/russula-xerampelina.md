@@ -139,13 +139,12 @@ and contributes to decomposition as fruiting bodies break down.
 
 - [[russula-brevipes]]
 - [[russula-cyanoxantha]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 
 ## References
 
 1. Kibby, G. (2011). "The genus Russula in Great Britain." Published online.
 2. Miller, S.L. & Miller, D. (2006). *North American Mushrooms: A Field Guide to Edible and Inedible Fungi.* Falcon Guide.
 3. Romagnesi, H. (1967). *Les Russules d'Europe et d'Afrique du Nord.* Bordas, Paris.
-4. Lincoff, G.H. (1981). *National Audubon Society Field Guide to North American Mushrooms.* Knopf.

@@ -132,21 +132,6 @@ Living cultures of lichen-forming fungi are difficult to maintain
 because of slow growth and susceptibility to contamination, with
 about one-third of tested species cultured successfully.
 
-## Conservation and Environmental Indicators
-
-[[lichenized-fungi-bioindicators]] are widely used in pollution monitoring.
-Lichens are widely recognized as sensitive bioindicators of
-environmental quality, particularly air pollution. Industrial melanism
-in peppered moths in England is a famous example of indirect impacts
-of lichens on animals, where moth populations whose color patterns
-mimicked lichen patterns on trees were affected first by loss of
-lichens due to air pollution, and subsequently benefited from the
-lichens' return with improving air quality. Lichens also serve as
-important food sources for large mammalian herbivores including
-reindeer, caribou, and deer in boreal and arctic ecosystems, as well
-conservation biology. The complete world inventory of lichenized fungi
-is expected to total about 18,000 species.
-
 ## See Also
 
 - [[nephroma-arcticum]]

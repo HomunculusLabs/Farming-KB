@@ -59,7 +59,7 @@ Detailed IPM guidance for fruit tree pests and diseases in zone 7-8 homestead or
 - Preserve beneficial insects (lady beetles, lacewings, parasitic wasps)
 - Good sanitation, proper pruning, adequate nutrition
 - Accept some damage — perfect fruit isn't necessary for home use
-- See [[cannabis-pest-management]] for general IPM principles applicable across crops
+- See cannabis pest management for general IPM principles applicable across crops
 ## Companion Planting for Pest Control
 Companion planting strategies from [[bill-mollison]]'s [[permaculture-design]] work provide ecological approaches to orchard pest management. The concept of "plant defense guilds" (Atsatt & O'Dowd, 1976) identifies three mechanisms by which companion plants reduce pest pressure:
 ### Insectary Plants (Breeding Predators)
@@ -124,7 +124,7 @@ Following [[regenerative-agriculture-history]] principles, the most sustainable 
 ## See Also
 - [[orchard-management]] — Site selection, planting, pruning, harvest, seasonal calendar
 - [[fruit-tree-varieties]] — Disease-resistant variety recommendations
-- [[cannabis-pest-management]] — General IPM principles applicable across crops
+- cannabis pest management — General IPM principles applicable across crops
 - [[companion-planting-reference]] — Pest-repellent companion plants
 - [[companion-planting-reference]] — Detailed companion planting reference
 - [[fungal-pest-control]] — Fungal-based pest management approaches

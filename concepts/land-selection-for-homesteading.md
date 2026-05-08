@@ -35,7 +35,7 @@ Water is the single most important factor. A property without reliable year-roun
 ### Water Sources
 - **Well** — the most common rural water source. Depth varies enormously (50-800+ feet). Test output (gallons per minute) and water quality (bacteria, nitrates, minerals, heavy metals). Drillers in the area can give you typical depths and yields.
 - **Spring** — excellent if reliable year-round. Test flow rate during the driest season. Springs require protection from contamination (fencing, diverting surface runoff).
-- **Surface water** — creeks, rivers, ponds. Check water rights in your state. See [[homestead-planning-and-zoning]] for water law overview. Surface water requires treatment for domestic use.
+- **Surface water** — creeks, rivers, ponds. Check water rights in your state. See homestead planning and zoning for water law overview. Surface water requires treatment for domestic use.
 - **Rainwater catchment** — supplementary, not primary. Calculate catchment area times annual rainfall. One inch of rain on 1,000 square feet of roof = 623 gallons.
 
 ### Water Quality

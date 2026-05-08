@@ -145,5 +145,5 @@ flowering — carbon filtration is essential for discreet indoor cultivation.
 
 - [[og-kush]] — Parent lineage and foundational West Coast cannabis strain
 - [[chemdawg]] — Ancestor contributing to the OG Kush genetic background
-- [[hindu-kush-cannabis-entity]] — Landrace ancestor contributing indica genetics
+- [[hindu-kush]] — Landrace ancestor contributing indica genetics
 - [[larry-og]] — Related Southern California OG Kush phenotype

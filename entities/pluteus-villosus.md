@@ -140,5 +140,5 @@ psilocybe and amanita, and systematic chemical analysis of its many species
 - [[pluteus-salicinus]] — a more strongly psychoactive Pluteus species with bluish
 - [[pluteus-nigroviridis]] — another psychoactive Pluteus species with darker
 - [[pluteus-cervinus]] — the common deer shield mushroom, a larger non-psychoactive
-- [[psilocybin]] — the primary psychoactive compound found in this species
+- [[psilocybin-compound]] — the primary psychoactive compound found in this species
 - [[pluteus-glaucotinctus]] — a Pluteus species with distinctive blue-green coloration

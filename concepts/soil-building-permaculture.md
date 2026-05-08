@@ -35,7 +35,7 @@ The conditioner includes a seed box that drips seeds at pre-regulated rates into
 
 ### Swales and Earthworks
 
-[[permaculture-earthworks-guide]] serve a dual function: water infiltration and soil building. Swales catch runoff water, allowing it to infiltrate and build soil depth on slopes. The earth banks thrown up from swale construction accumulate leaf litter and silt, creating mulch that can be transferred to gardens.
+[[permaculture-water-harvesting-earthworks]] serve a dual function: water infiltration and soil building. Swales catch runoff water, allowing it to infiltrate and build soil depth on slopes. The earth banks thrown up from swale construction accumulate leaf litter and silt, creating mulch that can be transferred to gardens.
 
 The swale is fundamental to water storage: "We store most of our water in our soil." Swales create ribbed systems that "run water out and store it up." Roots follow the crevices right down and then "going on further down, again making channels for water for even further penetration."
 

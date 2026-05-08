@@ -128,4 +128,4 @@ Permaculture knowledge must be passed on to new generations. Community education
 
 Source: Bill Mollison Permaculture Design Course; William Ozier Williams PDC: A Permaculture Design Course
 - [[permaculture-food-forests-design-course]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]

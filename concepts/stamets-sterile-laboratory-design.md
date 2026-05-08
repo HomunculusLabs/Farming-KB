@@ -74,7 +74,7 @@ The laboratory should be organised to minimise movement during sterile work. Arr
 
 ## Personal Hygiene
 
-Before entering the lab, cultivators should shower and wear clean clothing. Hair should be covered, and hands washed thoroughly with antibacterial soap. Avoid working in the lab immediately after handling compost, soil, or outdoor materials. These precautions dramatically reduce the spore load introduced during inoculation. See [[mushroom-cultivation-sterile-technique]] for detailed personal hygiene protocols.
+Before entering the lab, cultivators should shower and wear clean clothing. Hair should be covered, and hands washed thoroughly with antibacterial soap. Avoid working in the lab immediately after handling compost, soil, or outdoor materials. These precautions dramatically reduce the spore load introduced during inoculation. See [[mushroom-cultivation-fundamentals]] for detailed personal hygiene protocols.
 
 ## Safety Warnings
 
@@ -91,5 +91,5 @@ One's attitude towards contamination and cleanliness is perhaps more important t
 1. Give the first attempt at sterile culture the best effort -- everything should be clean
 2. Once a pure culture is established, make every attempt to preserve its purity -- discard all contaminated dishes, even partially infected ones
 
-See also: [[mushroom-sterile-technique-detailed]], [[mushroom-cultivation-sterile-technique]], [[laminar-flow-hood-guide]], [[mushroom-spore-germination-media]], [[agar-work-guide]], [[mushroom-cultivation-pests-and-contamination]]
+See also: [[mushroom-sterile-technique-detailed]], [[mushroom-cultivation-fundamentals]], [[laminar-flow-hood-guide]], [[mushroom-spore-germination-media]], [[agar-work-guide]], [[mushroom-cultivation-pests-and-contamination]]
 - [[stamets-spore-germination-and-tissue-culture]]

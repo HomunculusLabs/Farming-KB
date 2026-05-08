@@ -27,8 +27,8 @@ The technology serves a dual purpose: **renewable energy generation** and **orga
 - **Late 19th century:** The first anaerobic digesters were built in India and China for small-scale energy production.
 - **1930s:** India's Khadi and Village Industries Commission (KVIC) promoted biogas as part of rural development. The floating-drum digester design emerged in India.
 - **1950s–1970s:** China's rural biogas program expanded massively; fixed-dome designs were developed. By the 1970s, millions of household digesters operated across rural China.
-- **1980s–present:** Europe adopted AD at scale for agricultural waste, sewage treatment, and food waste. Germany became the global leader in farm-scale biogas electricity generation, with over 10,000 plants by the 2010s.
-- **21st century:** Growing interest in small-scale and community digesters for climate resilience, circular economy, and off-grid energy in developing nations.
+- **1980s–present:** Europe adopted AD at scale for [[agricultural-waste-substrates]], sewage treatment, and food waste. Germany became the global leader in farm-scale biogas electricity generation, with over 10,000 plants by the 2010s.
+- **21st century:** Growing interest in small-scale and community digesters for climate resilience, circular economy, and [[off-grid-electricity-basics]] energy in developing nations.
 
 ## The Four Stages of Anaerobic Digestion
 
@@ -97,7 +97,7 @@ A long, narrow, horizontal tank in which feedstock flows through as a "plug." Co
 - **Construction:** Concrete or steel trough, often below-ground; heated; rectangular cross-section
 - **Capacity:** 30–1,500 m³
 - **Feedstock:** Dairy manure with <12% solids (needs to flow)
-- **Advantages:** Simple, low energy input, good for manure slurries
+- **Advantages:** Simple, [[low-energy-futures-in-permaculture]] input, good for manure slurries
 - **Disadvantages:** Not suitable for high-solids or heterogeneous feedstocks; dead zones can form
 - **HRT:** 15–30 days
 
@@ -257,7 +257,7 @@ After digestion, the remaining material (digestate) is separated into liquid and
 
 - Apply digestate based on crop nitrogen demand to avoid nitrate leaching
 - Incorporate into soil within 24 hours to prevent ammonia volatilization
-- Solid fraction can be composted further for a high-quality, pathogen-free soil amendment
+- Solid fraction can be composted further for a high-quality, pathogen-free [[soil-amendment-reference]]
 - Test digestate regularly for nutrient content, heavy metals, and pathogens
 
 ## Small-Scale and Homestead Systems
@@ -272,7 +272,7 @@ A family of 4–6 in a rural setting typically requires:
 
 ### Integrated Homestead Design
 
-Biogas digesters integrate naturally with permaculture zones:
+Biogas digesters integrate naturally with [[permaculture-zones-and-site-planning]]:
 
 ```
 [Zone 1: Kitchen] ← biogas for cooking
@@ -285,7 +285,7 @@ Biogas digesters integrate naturally with permaculture zones:
 
 - **Inputs:** Animal manure, kitchen scraps, garden waste, human excreta (if using a toilet-linked digester)
 - **Outputs:** Cooking gas, nutrient-rich fertilizer, reduced waste volume
-- **Year-round benefit:** In cold climates, digester effluent provides liquid fertilizer during the growing season while the biogas heats water year-round
+- **Year-round benefit:** In cold climates, digester effluent provides [[liquid-fertilizer-from-weeds]] during the growing season while the biogas heats water year-round
 
 ### Pre-Fabricated Small Digesters
 
@@ -368,8 +368,8 @@ Biogas digesters exemplify several permaculture principles:
 - **Each element performs multiple functions:** Digester provides cooking gas, heating, lighting, and fertilizer
 - **Use small and slow solutions:** Household-scale digesters are manageable, affordable, and immediately useful
 - **Catch and store energy:** Captures solar energy stored in plant biomass via animal metabolism
-- **Use and value renewable resources:** Closes the nutrient and energy loop on-farm
-- **Integrate rather than segregate:** The digester sits at the intersection of animal, garden, and household zones
+- **[[use-and-value-renewable-resources]]:** Closes the nutrient and energy loop on-farm
+- **[[integrate-rather-than-segregate]] than segregate:** The digester sits at the intersection of animal, garden, and household zones
 
 ### Complementary Systems
 

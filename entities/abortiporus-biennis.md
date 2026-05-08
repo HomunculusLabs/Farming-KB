@@ -141,4 +141,4 @@ but these lack the daedaleoid pore surface and sterile flaps characteristic of
 - [[daedaleopsis-confragosa]]
 - [[laricifomes-officinalis]]
 - [[inonotus-obliquus]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]

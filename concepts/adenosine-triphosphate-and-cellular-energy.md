@@ -118,6 +118,6 @@ are safer than whole-site changes because they reveal local constraints early.
 ## See Also
 - [[holmgren-site-design-as-cellular-design]]
 - [[holmgren-site-design-zones-slopes-cellular]]
-- [[glutathione-and-cellular-antioxidant-defense]]
+- glutathione and cellular antioxidant defense
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[energy-descent-action-planning]]

@@ -146,8 +146,5 @@ sources: ["domain-knowledge"]
 - [[melissa-officinalis]] — Lemon balm; shares anxiolytic and nervine indications; traditional tea companion
 - [[valeriana-officinalis]] — Valerian; complementary sedative herb often combined with linden in sleep formulations
 - [[hypericum-perforatum]] — St. John's wort; overlaps in anxiolytic/mild depressive indications
-- [[tilia-cordata]] — Large-leaved lime; close relative with similar uses but larger leaves and earlier bloom
-- [[tilia-cordata]] — Common lime; natural hybrid of T. cordata and T. platyphyllos
-- [[mentha-piperita]] — Peppermint; combined with linden flower for cold and respiratory tea blends
-- [[achillea-millefolium]] — Yarrow; complementary diaphoretic and anti-inflammatory herb
-- [[rosmarinus-officinalis-entity]] — Rosemary; contrasting warming nervine to linden's cooling profile
+- tilia cordata — Large-leaved lime; close relative with similar uses but larger leaves and earlier bloom
+- tilia cordata — Common lime; natural hybrid of T. cordata and T. platyphyllos

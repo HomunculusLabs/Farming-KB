@@ -107,10 +107,10 @@ No toxic look-alikes closely match the white coloration combined with blunt ridg
 
 ## See Also
 
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[craterellus-tubaeformis]]
 - [[craterellus-odoratus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[pleurotus-ostreatus]]
 - [[suillus-luteus]]
 - [[ectomycorrhiza]]

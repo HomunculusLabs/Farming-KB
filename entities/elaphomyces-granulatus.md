@@ -122,7 +122,7 @@ maintaining healthy populations of mycophagous mammals.
 
 - [[suillus-granulatus]]
 
-- [[boletus-edulis]] - epigeous ectomycorrhizal fungus with higher nutritional value
+- [[boletus-edulis-entity]] - epigeous ectomycorrhizal fungus with higher nutritional value
 - lactarius deliciosus - epigeous ectomycorrhizal fungus consumed by squirrels
 - tuber melanosporum - hypogeous ectomycorrhizal fungus (black truffle)
 - [[cenococcum-geophilum]] - ectomycorrhizal fungus with widespread distribution

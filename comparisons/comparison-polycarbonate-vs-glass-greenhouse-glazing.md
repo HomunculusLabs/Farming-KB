@@ -10,7 +10,7 @@ type: comparison
 
 # Polycarbonate vs Glass Greenhouse Glazing
 
-Choosing the right glazing is one of the most important decisions in [[greenhouse construction]]. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their [[season extension]] goals, climate, and budget.
+Choosing the right glazing is one of the most important decisions in [[greenhouse-construction]]. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their [[season-extension]] goals, climate, and budget.
 
 ## Comparison Table
 
@@ -36,7 +36,7 @@ Choosing the right glazing is one of the most important decisions in [[greenhous
 ### Pros
 
 - **Lightweight** — installs on simpler frames without heavy structural support
-- **Excellent insulation** — twin/triple-wall structures trap air for superior [[thermal mass]] performance
+- **Excellent insulation** — twin/triple-wall structures trap air for superior [[thermal-mass]] performance
 - **Virtually unbreakable** — withstands hail, falling branches, and accidental impacts
 - **Easy to work with** — cuts with standard saw blades, drills easily
 - **Flexible design** — can be curved for hoop-house or gothic-arch structures
@@ -74,7 +74,7 @@ Choosing the right glazing is one of the most important decisions in [[greenhous
 
 ## Twin-Wall and Triple-Wall Polycarbonate
 
-Multi-wall panels are the most popular choice for hobby and mid-scale [[greenhouse growing]]. Parallel sheets connected by internal ribs create air channels that provide insulation.
+Multi-wall panels are the most popular choice for hobby and mid-scale [[greenhouse-growing]]. Parallel sheets connected by internal ribs create air channels that provide insulation.
 
 - **Twin-wall (8mm):** R-value ~1.5–1.7; light transmission 80–82%; most common and affordable
 - **Triple-wall (16mm):** R-value ~2.5–2.8; light transmission 72–75%; better insulation, less light
@@ -137,28 +137,9 @@ Polycarbonate is the clear winner on raw 20-year cost. Glass closes the gap in m
 
 ### Glass Is Best For
 
-- Permanent, attached [[lean-to greenhouse]] structures
+- Permanent, attached [[lean-to-greenhouse]] structures
 - Commercial growing operations maximizing yield
 - Botanical collections and display greenhouses
-- Mediterranean or subtropical climates
-
-## Hybrid Approaches
-
-Many experienced growers combine both materials to leverage their strengths:
-
-- **Polycarbonate roof + glass walls:** Roof takes hail, snow, and sun; glass walls provide clear views and ventilation. Most popular hybrid.
-- **Polycarbonate north wall + glass south/east/west walls:** North wall gets least light, benefits most from insulation; south-facing glass maximizes winter solar gain.
-- **Glass south roof + polycarbonate north roof:** On a [[solar greenhouse]], the steeply glazed south face captures low-angle winter sun while the insulated north roof minimizes heat loss.
-## Summary and Verdict
-
-For most homestead-scale and [[permaculture]] growers, **twin-wall polycarbonate is the pragmatic choice** — it costs less, insulates better, survives impacts, and is within reach of DIY builders. The 10–15 year lifespan and eventual yellowing are real downsides, but the economics and safety advantages are compelling.
-
-**Glass is the right choice** when longevity, light quality, fire safety, or aesthetics are priorities, and when the budget allows for proper structural framing and professional installation. In mild climates without hail risk, a glass greenhouse will outlast polycarbonate by decades.
-
-The **best decision is climate-specific**: cold-zone growers benefit enormously from polycarbonate's insulation and impact resistance, while warm-climate growers should invest in glass for its permanence and superior light transmission.
-
-See also: [[greenhouse growing]], [[cold frame]], [[season extension]], [[thermal mass]], [[solar greenhouse]], [[hoop house]]
-
 ## See Also
 
 - [[comparison-greenhouse-vs-underground-walipini]]

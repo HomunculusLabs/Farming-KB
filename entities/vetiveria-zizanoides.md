@@ -36,7 +36,7 @@ It is one of the most important multi-purpose plants in permaculture, sustainabl
 engineering, valued for its extraordinary soil conservation, phytoremediation capacity, essential oil
 production, and ornamental appeal. The vetiver system — a hedgerow-based technology for erosion control —
 has been promoted by the World Bank, FAO, and numerous governments as one of the most cost-effective approaches
-to watershed management in tropical regions.
+to [[watershed-management]] in tropical regions.
 
 ## Taxonomy
 
@@ -104,14 +104,14 @@ Vetiver is among the most effective plants for environmental cleanup of contamin
 
 ## Permaculture and Agroforestry Applications
 
-Vetiver's multi-functional properties make it one of the most valuable plants in tropical permaculture design.
+Vetiver's multi-functional properties make it one of the most valuable plants in tropical [[permaculture-design]].
 
 ### Erosion Control (Primary Function)
 - Planted as dense contour hedges (2–3 plants/10 cm), vetiver forms a living barrier that reduces runoff
   velocity by 60–80%, traps up to 90% of eroded soil particles, and promotes sediment deposition
 - Effective on slopes up to 100% (45°); hedges documented functioning 50+ years in India without replanting
 
-### Water Management
+### [[water-management]]
 - Increases groundwater recharge by slowing runoff and promoting infiltration
 - Stabilizes canal banks, pond edges, and drainage ditches; reduces flood peaks by 20–30%
 
@@ -123,11 +123,11 @@ Vetiver's multi-functional properties make it one of the most valuable plants in
 - Pest habitat: dense hedges provide refugia for beneficial predatory insects (ladybugs, lacewings, ground beetles)
 - Livestock fodder: young leaves palatable to cattle and goats (crude protein ~7–10% dry matter)
 
-### Companion Planting
+### [[companion-planting]]
 - Beneficial near fruit trees (mango, citrus, banana), timber species (teak, mahogany), and annual crops
   (rice, maize, vegetables) as a non-competitive hedge
 - Essential oil's insect-repellent properties provide mild pest deterrence in adjacent crops
-- Intercropping with leguminous species (*Cajanus cajan*, *Gliricidia sepium*) enhances nitrogen cycling
+- Intercropping with leguminous species (*[[cajanus-cajan]]*, *Gliricidia sepium*) enhances nitrogen cycling
   while the vetiver hedge provides physical stability
 
 ## Cultivation
@@ -148,4 +148,3 @@ Vetiver hedges create microhabitat corridors supporting biodiversity in agricult
 
 - [[cymbopogon-citratus]] — lemongrass, a related aromatic grass with essential oil and permaculture uses
 - [[gliricidia-sepium]] — leguminous tree commonly interplanted with vetiver in agroforestry hedgerows
-- [[crotalaria-juncea]] — sunn hemp, pairs with vetiver for combined erosion control and nitrogen fixation

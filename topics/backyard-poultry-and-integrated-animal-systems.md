@@ -447,3 +447,10 @@ multiple animals, the more resilient and self-maintaining the system becomes.
   Chelsea Green Publishing, 2001.
 - Ussery, Harvey. *The Small-Scale Poultry Flock*. Chelsea Green Publishing,
   2011.
+## Mangalitza and Old Pig Breeds
+
+# Mangalitza and Old Pig Breeds ## Why Old Breeds Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale. Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. ...
+
+## Paddock System for Pigs
+
+# Paddock System for Pigs ## Overview On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves. ## Stocking Rate Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. ...

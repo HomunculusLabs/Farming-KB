@@ -136,7 +136,7 @@ behavioral symptoms in children with autism spectrum conditions.
 - [[berberine]]
 - [[curcumin]]
 - [[salvia-officinalis]]
-- [[rosmarinus-officinalis]]
+- [[rosmarinus-officinalis-entity]]
 - [[scutellaria-baicalensis]]
 - [[allicin]]
 - [[piperine]]

@@ -47,7 +47,7 @@ The transfer of pollutants from the environment to the fungal biomass is another
 
 Mass transfer of hydrophobic pollutants involves dissolution from solid or non-aqueous phase liquids into the aqueous phase, followed by diffusion to the fungal cell surface or to extracellular enzymes. The rate of dissolution is often the rate-limiting step for the degradation of poorly soluble pollutants.
 
-Surfactants and [[biosurfactants-in-bioremediation]] can increase the apparent solubility of hydrophobic pollutants, enhancing mass transfer and degradation rates. However, surfactants can also be toxic to fungi or inhibit enzyme activity at high concentrations.
+Surfactants and [[bioremediation-using-fungi]] can increase the apparent solubility of hydrophobic pollutants, enhancing mass transfer and degradation rates. However, surfactants can also be toxic to fungi or inhibit enzyme activity at high concentrations.
 
 ### Product Transfer
 
@@ -94,4 +94,4 @@ However, the complexity of fungal physiology and the heterogeneity of environmen
 - [[fungal-laccase-mediator-systems]]
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-wastewater-treatment]]
-- [[biosurfactants-in-bioremediation]]
+- [[bioremediation-using-fungi]]

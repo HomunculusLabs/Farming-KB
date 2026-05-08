@@ -114,7 +114,7 @@ In TIHKAL, Alexander Shulgin provides limited qualitative commentary on 4-AcO-DE
 
 ## See Also
 
-- [[4-aco-det]]
+- [[4-acetoxy-det]]
 - [[4-aco-dmt]]
 - [[4-ho-mipt]]
 - [[4-ho-met]]

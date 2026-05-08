@@ -116,7 +116,7 @@ such as in the first years of establishing a new garden or homestead. They
 provide dietary variety and high-calorie staple crops like grains and
 legumes that perennials cannot match. Self-seeding annual strategies from
 permaculture bridge the gap by reducing replanting labor while maintaining
-the flexibility [[permaculture-principle-creatively-use-and-respond-to-change]] varieties. Market gardeners who need predictable,
+the flexibility [[permaculture-design-principles]] varieties. Market gardeners who need predictable,
 uniform harvests for restaurant or CSA sales also rely heavily on annual
 crops for their reliability and variety.
 

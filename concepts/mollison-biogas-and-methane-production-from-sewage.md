@@ -126,7 +126,7 @@ of gas-producing potential should it be removed for use as fertiliser.
 Treated effluent from the pond series can be safely used for irrigation
 of crops and pastures, closing the nutrient loop between human
 settlements and agricultural production. This integration is
-fundamental to [[permaculture-waste-management]] philosophy. See also
+fundamental to permaculture waste management philosophy. See also
 [[mollison-sewage-treatment-natural-processes]] and [[mollison-greywater-domestic-water-recycling]].
 
 ## Related Concepts

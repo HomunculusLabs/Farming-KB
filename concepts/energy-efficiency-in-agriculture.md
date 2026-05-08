@@ -1,5 +1,5 @@
 ---
-title: Energy Efficiency in Agriculture
+title: energy efficiency in agriculture
 created: 2026-04-28
 tags: [agriculture, energy, sustainability, farming-economics, fukuoka, ecology]
 date: 2026-04-28
@@ -8,11 +8,10 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
+# [[energy-efficiency-farming-systems-comparison]] in Agriculture
 
-# Energy Efficiency in Agriculture
-
-The energy efficiency of agricultural systems is a critical but frequently
-overlooked dimension of food production. Masanobu Fukuoka demonstrated
+The energy efficiency of agricultural systems is a critical but ffukuoka-road-european-culture-of-foodly
+overlooked dimension of food production. [[masanobu-fukuoka]] demonstrated
 through both calculation and practice that the energy returns of natural
 farming vastly exceed those of all forms of scientific agriculture, from
 traditional animal-powered cultivation to fully mechanized industrial
@@ -29,7 +28,7 @@ labor of the farmer, the embodied energy in tools and machinery, the energy
 content of chemical fertilizers and pesticides, the fuel consumed by
 equipment, and all other energy inputs required to bring a crop to harvest.
 
-Under this metric, natural farming achieves extraordinary efficiency. One
+Under this metric, [[natural-farming]] achieves extraordinary efficiency. One
 man-day of labor produces 130 pounds of rice, equivalent to 200,000
 kilocalories of food energy, from a quarter-acre of land. The energy input
 needed to produce this output is approximately 2,000 kilocalories, the
@@ -147,11 +146,3 @@ geopolitical conflict, or market volatility, directly threatens food
 production capacity. Natural farming, requiring no external energy inputs
 beyond human labor, is structurally immune to such disruptions and
 represents the only truly sustainable basis for long-term food security.
-
-## See Also
-
-- [[mollison-designers-energy-conversion-efficiency-devices]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[mollison-village-energy-systems-and-efficiency]]
-- [[biological-efficiency]]

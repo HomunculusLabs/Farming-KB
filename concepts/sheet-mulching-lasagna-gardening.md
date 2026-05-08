@@ -85,4 +85,4 @@ Toby Hemenway explains why he prefers sheet mulching over traditional compost pi
 
 ## Connections
 
-See also [[sheet-mulching]], [[no-till-gardening-method]], [[composting-systems]], [[hugelkultur]], [[mulching-guide]], [[permaculture-principle-produce-no-waste]], [[permaculture-principle-catch-and-store-energy]], and [[garden-bed-preparation]].
+See also [[sheet-mulching]], [[composting-and-soil-biology]], [[composting-systems]], [[hugelkultur]], [[mulching-guide]], [[permaculture-principle-produce-no-waste]], [[permaculture-design-principles]], and [[garden-bed-preparation]].

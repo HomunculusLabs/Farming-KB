@@ -148,4 +148,3 @@ experience interpreted through a purely biochemical or psychopathological lens.
 - [[hallucinogenic-drugs]]
 - [[shamanism]]
 - [[mystical-experience]]
-- therapeutic alliance

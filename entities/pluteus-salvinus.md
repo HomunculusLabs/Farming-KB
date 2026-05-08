@@ -140,12 +140,11 @@ mushrooms from other genera.
   species found on wood, but with adnate gills, brown spore print, and
   distinctive odor; some *Inocybe* species contain dangerous levels of
   muscarine.
-- **[[psilocybin]]** — The primary psychoactive compound found in
+- **[[psilocybin-compound]]** — The primary psychoactive compound found in
   *P. salvinus*, shared with numerous species across multiple genera.
 
 ## See Also
 
 - [[baeocystin]] — A related psilocybin mushroom alkaloid often found
   co-occurring with psilocybin in psychoactive fungal species.
-- [[psilocybin]] — The primary psychoactive compound found across
-  multiple genera of hallucinogenic fungi worldwide.
+- [[psilocybin-compound]] — The primary psychoactive compound found across

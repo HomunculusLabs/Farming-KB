@@ -66,7 +66,7 @@ organic matter inputs and minimal disturbance can support hundreds to thousands
 of earthworms per square meter. Conversely, soils that are regularly tilled,
 heavily compacted, or treated with broad-spectrum pesticides and synthetic
 fertilizers typically have drastically reduced earthworm populations. This is
-one of the primary reasons that [[no-till-benefits]] are so closely tied to
+one of the primary reasons that [[composting-and-soil-biology]] are so closely tied to
 earthworm conservation. Every tillage pass destroys burrow networks, exposes
 worms to predators and desiccation, and disrupts their life cycles.
 
@@ -92,7 +92,7 @@ compared to conventionally tilled soils within just a few years.
   processing
 - Earthworm populations are excellent [[soil-health-indicators]]: their
   abundance directly reflects management practices, and they are best supported
-  through [[no-till-benefits]] and organic matter additions
+  through [[composting-and-soil-biology]] and organic matter additions
 
 ## Related Questions
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

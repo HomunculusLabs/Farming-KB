@@ -145,4 +145,4 @@ quality.
 - [[northern-lights]] — Classic pure indica with comparable sedative body effects
 - [[og-kush]] — Foundational West Coast strain with overlapping Afghani genetics
 - [[cannabis-indica]] — Species overview for indica-dominant characteristics
-- [[hindu-kush-cannabis-entity]] — Landrace indica ancestor contributing to Grape Ape's lineage
+- [[hindu-kush]] — Landrace indica ancestor contributing to Grape Ape's lineage

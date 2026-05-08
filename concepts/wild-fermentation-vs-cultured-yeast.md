@@ -117,5 +117,5 @@ Key principles for wild fermentation:
 - [[sourdough-bread-guide]] for maintaining a sourdough culture
 - [[beer-brewing-basics]] for fermentation in brewing
 - [[food-fermentation-guide]] for lacto-fermentation with wild bacteria
-- [[kombucha-brewing]] for a mixed-culture fermentation
+- kombucha brewing for a mixed-culture fermentation
 - [[fermentation-microbiology-for-brewers]] for the microbial science behind brewing fermentation

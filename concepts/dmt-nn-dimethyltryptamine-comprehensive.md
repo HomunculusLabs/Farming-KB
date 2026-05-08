@@ -21,7 +21,7 @@ N,N-Dimethyltryptamine (DMT) is a powerful endogenous tryptamine hallucinogen fo
 
 ## Chemistry and Pharmacology
 
-DMT is structurally related to [[serotonin]] (5-hydroxytryptamine), differing by the replacement of a hydroxyl group with two methyl groups on the terminal amine. [[psilocybin]] is itself 4-phosphoryloxy-N,N-dimethyltryptamine, making DMT the parent compound of this important class of psychoactive substances.
+DMT is structurally related to [[serotonin]] (5-hydroxytryptamine), differing by the replacement of a hydroxyl group with two methyl groups on the terminal amine. [[psilocybin-compound]] is itself 4-phosphoryloxy-N,N-dimethyltryptamine, making DMT the parent compound of this important class of psychoactive substances.
 
 The structural similarity between DMT, psilocybin, and serotonin is significant because serotonin is the major neurotransmitter in the human brain, found in all life and most concentrated in humans. This structural kinship suggests that the tryptamine state may represent an amplification or modulation of natural neurological processes rather than an artificial disruption of normal brain function.
 
@@ -63,7 +63,7 @@ McKenna connected this to the twenty-fourth fragment of Heraclitus: "The Aeon is
 
 ### Phase 3: Entity Contact
 
-The encounter with [[self-transforming machine elves]], hyperdimensional entities that bathe the subject in non-erotic but open-hearted love and present translinguistic information.
+The encounter with [[self-transforming-machine-elves]], hyperdimensional entities that bathe the subject in non-erotic but open-hearted love and present translinguistic information.
 
 The entities are described as "dynamically contorting topological modules" distinct from a surrounding background that itself undergoes continuous transformation. One's ego remains intact and one's fear reflexes are preserved, producing a state of "profound astonishment that persists and persists."
 
@@ -105,7 +105,7 @@ Unlike smoked DMT, which lasts five minutes, ayahuasca produces an experience la
 
 ## Comparison with Other Psychedelics
 
-DMT is often grouped with [[lsd]] and [[mescaline]] in public perception and law, but McKenna insisted each is "a phenomenologically defined universe unto itself."
+DMT is often grouped with [[lsd]] and [[mescaline-entity]] in public perception and law, but McKenna insisted each is "a phenomenologically defined universe unto itself."
 
 DMT is distinguished by the intensity and concentration of its visual effects, the consistent presence of entity encounters, its action on language centers, and its remarkably short duration when smoked.
 

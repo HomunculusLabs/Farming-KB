@@ -148,5 +148,3 @@ allows growers to tailor mixes for specific environments.
 - [[perlite-cannabis]] — Detailed guide to perlite use in cannabis
 - [[vermiculite-cannabis]] — Comprehensive vermiculite properties guide
 - [[mollison-designers-soil-ph-and-mineral-amendments]] — Overview of all common soil amendments
-- coco coir — Coconut coir as a growing medium base
-- super soil — Building living super soil for cannabis

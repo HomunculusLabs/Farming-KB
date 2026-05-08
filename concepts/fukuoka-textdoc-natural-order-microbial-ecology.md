@@ -147,6 +147,3 @@ damage may consist of only a broken gear, in nature a disruption gives rise to a
 series of repercussions.
 
 ## See Also
-
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-ecological-balance-principles]]

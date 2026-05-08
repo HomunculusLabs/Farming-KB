@@ -16,7 +16,7 @@ sources:
 
 # Psilocybe viridescens
 
-**Psilocybe viridescens** is a rare, bluing [[psilocybin]]-containing mushroom species found in the Pacific Northwest of North America. It was first described from collections in Oregon and is one of the lesser-known members of the genus documented in Paul Stamets' comprehensive field guide.
+**Psilocybe viridescens** is a rare, bluing [[psilocybin-compound]]-containing mushroom species found in the Pacific Northwest of North America. It was first described from collections in Oregon and is one of the lesser-known members of the genus documented in Paul Stamets' comprehensive field guide.
 
 ## Taxonomy and Classification
 
@@ -52,7 +52,7 @@ The species grows in scattered to gregarious clusters on decaying wood, woody de
 
 ## Chemistry and Pharmacology
 
-Like other members of the genus Psilocybe, *P. viridescens* contains the psychoactive compounds [[psilocybin]] and [[psilocin]], along with baeocystin and norbaeocystin. The blue-staining reaction upon bruising is a reliable indicator of these alkaloids. The exact potency of this species has not been extensively quantified, though the pronounced blueing suggests moderate to high alkaloid content typical of wood-inhabiting Psilocybe species.
+Like other members of the genus Psilocybe, *P. viridescens* contains the psychoactive compounds [[psilocybin-compound]] and [[psilocin]], along with baeocystin and norbaeocystin. The blue-staining reaction upon bruising is a reliable indicator of these alkaloids. The exact potency of this species has not been extensively quantified, though the pronounced blueing suggests moderate to high alkaloid content typical of wood-inhabiting Psilocybe species.
 
 ## Similar Species
 
@@ -69,7 +69,7 @@ As a psilocybin-containing species, *P. viridescens* is illegal to possess, cult
 
 ## Edibility
 
-Not edible for culinary purposes. Consumption produces psychoactive effects. See [[psilocybin]] for more information on pharmacology and risk factors.
+Not edible for culinary purposes. Consumption produces psychoactive effects. See [[psilocybin-compound]] for more information on pharmacology and risk factors.
 
 ## Seasonality
 

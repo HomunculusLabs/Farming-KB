@@ -45,7 +45,7 @@ more to lose were less willing to go beyond established mental structures.
 The arrival of LSD at Harvard in 1962 changed the entire cultural psychedelic
 momentum. Leary found LSD so striking that it became the focus of attention
 and the mushroom faded almost into obscurity. Powell contrasts this with
-[[terence-mckenna-stoned-ape-hypothesis]]'s later advocacy for natural psilocybin as a far more
+[[psychedelic-mushrooms-species-and-identification]]'s later advocacy for natural psilocybin as a far more
 visionary substance ranking above synthetic LSD. McKenna held a contemporary
 organic view linking the mushroom with the natural homeostatic systems of
 Gaia, a perspective impossible in the 1960s before Gaia theory had been

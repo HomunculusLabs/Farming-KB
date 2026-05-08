@@ -89,7 +89,7 @@ DMT has been used for millennia in indigenous contexts:
 ### Therapeutic Potential
 - **Treatment-resistant depression:** Ongoing clinical trials of intravenous DMT at Imperial College London and other centers
 - **Substance use disorders:** Ayahuasca-assisted therapy shows promise for alcoholism and drug dependence
-- **End-of-life anxiety:** DMT's capacity to produce mystical-type experiences (similar to [[psilocybin]] in this regard) is being studied for existential distress in terminal illness
+- **End-of-life anxiety:** DMT's capacity to produce mystical-type experiences (similar to [[psilocybin-compound]] in this regard) is being studied for existential distress in terminal illness
 - **Neuroimaging:** fMRI and EEG studies reveal DMT-induced disruption of the default mode network (DMN) and increased global connectivity — patterns shared with other 5-HT₂A agonists
 
 ### Legal Status
@@ -108,8 +108,8 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 ## Related Compounds
 
 - [[tryptamine-consciousness-theory]] — the unmethylated parent compound; N-desmethyl-DMT
-- [[psilocin]] — 4-hydroxy-DMT; mushroom-derived psychedelic and primary active metabolite of [[psilocybin]]
-- [[psilocybin]] — 4-phosphoryloxy-DMT; prodrug form of psilocin
+- [[psilocin]] — 4-hydroxy-DMT; mushroom-derived psychedelic and primary active metabolite of [[psilocybin-compound]]
+- [[psilocybin-compound]] — 4-phosphoryloxy-DMT; prodrug form of psilocin
 - [[5-meo-dmt-compound-profile]] — 5-methoxy-N,N-dimethyltryptamine; more potent and shorter-acting than DMT
 - [[bufotenin-entity-tihkal]] — 5-hydroxy-DMT; found in toad venom and Anadenanthera seeds
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] — ergoline derivative sharing the dimethylamine motif; acts at the same 5-HT₂A receptor
@@ -122,7 +122,7 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 - [[nn-dimethyltryptamine]]
 
 - [[tryptamine-consciousness-theory]] — parent compound class
-- [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
+- [[psilocybin-compound]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
 - [[5-meo-dmt-compound-profile]] — more potent methoxy analogue
 - [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
 - [[serotonin]] — endogenous neurotransmitter whose receptors mediate DMT's effects

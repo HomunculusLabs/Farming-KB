@@ -72,13 +72,13 @@ The bark's tannin content makes it potentially useful in natural leather tanning
 
 Propagation is primarily by seed, which requires warmth and consistent moisture to germinate successfully. Seeds are best sown soon after collection as viability can decline with storage. Cuttings from young branches and sucker removal are also viable methods, though seed-grown trees develop stronger root systems.
 
-Young trees benefit from [[permaculture-woody-mulch-systems]] and regular watering during establishment. Given their ultimate size, careful site selection is essential — allow at least 10-15m clearance from structures and pathways due to falling cones.
+Young trees benefit from [[permaculture-design]] and regular watering during establishment. Given their ultimate size, careful site selection is essential — allow at least 10-15m clearance from structures and pathways due to falling cones.
 
 ## Permaculture Role
 
 As a long-lived canopy species, the bunya pine can serve as a permaculture-windbreak|windbreak component in large properties and broadacre permaculture-design|permaculture designs. Its deep root system helps with [[permaculture-biological-soil-indicators]] and water cycling in humid landscapes.
 
-When integrated into [[mollison-tree-crop-systems-permaculture]], the bunya pine provides shade and shelter for understorey species. Its leaf litter contributes to [[permaculture-woody-mulch-systems]] and organic matter cycling on the forest floor.
+When integrated into [[mollison-tree-crop-systems-permaculture]], the bunya pine provides shade and shelter for understorey species. Its leaf litter contributes to [[permaculture-design]] and organic matter cycling on the forest floor.
 
 ## Related Species
 

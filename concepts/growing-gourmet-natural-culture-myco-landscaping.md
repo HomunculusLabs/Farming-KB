@@ -70,7 +70,7 @@ approach is limited only by imagination.
 
 ## Species Succession
 
-Species succession can be accomplished indoors. After [[growing-gourmet-shiitake-cultivation]] stops producing on logs or sawdust, the substrate can be broken apart, re-moistened, re-sterilized, and re-inoculated with [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]. Once the Oyster mushroom life cycle is completed, the substrate can be sterilized again and inoculated with the next species. Shiitake, Oyster, King Stropharia and Shaggy Manes can all be grown on the same substrate, increasingly reducing the substrate mass without adding new materials.
+Species succession can be accomplished indoors. After [[shiitake-mushroom-cultivation-and-medicinal-properties]] stops producing on logs or sawdust, the substrate can be broken apart, re-moistened, re-sterilized, and re-inoculated with [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]. Once the Oyster mushroom life cycle is completed, the substrate can be sterilized again and inoculated with the next species. Shiitake, Oyster, King Stropharia and Shaggy Manes can all be grown on the same substrate, increasingly reducing the substrate mass without adding new materials.
 
 ## Wild Mushrooms in Wood Chip Beds
 
@@ -133,7 +133,7 @@ mycelium at critical junctures throughout its life cycle.
 ## Related Topics
 
 - [[growing-gourmet-oyster-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-king-stropharia-cultivation]]
 - [[mushroom-identification]]
 - [[mushroom-natural-habitats]]

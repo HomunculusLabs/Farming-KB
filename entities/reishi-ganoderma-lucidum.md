@@ -20,11 +20,11 @@ sources:
   - "Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press."
 ---
 
-# Reishi (*Ganoderma lucidum*)
+# Reishi (*[[ganoderma-lucidum]]*)
 
 ## Overview
 
-Reishi, known as **Lingzhi** (灵芝, "divine mushroom") in Chinese and **Mannentake** (万年茸, "10,000-year mushroom") in Japanese, is a polypore fungus belonging to the family **Ganodermataceae**. It is one of the most extensively studied and culturally significant medicinal mushrooms in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
+Reishi, known as **Lingzhi** (灵芝, "divine mushroom") in Chinese and **Mannentake** (万年茸, "10,000-year mushroom") in Japanese, is a polypore fungus belonging to the family **Ganodermataceae**. It is one of the most extensively studied and culturally significant [[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
 
 ## Taxonomy
 
@@ -48,7 +48,7 @@ Reishi is a **shelf fungus** (bracket fungus) with a distinctive fan or kidney-s
 - **Pore surface**: White to light brown, with small round pores (4–6 per mm). Bruises brown.
 - **Context (flesh)**: Woody and corky, light brown. Does not soften when cooked.
 - **Stipe**: Lateral to eccentric, 5–15 cm long, cylindrical. Dark reddish-brown with glossy sheen.
-- **Spore print**: Brown. Spores ovoid, 7–12 × 5–8 µm, double-walled with truncate apex.
+- **[[spore-print]]**: Brown. Spores ovoid, 7–12 × 5–8 µm, double-walled with truncate apex.
 - **Taste**: Very bitter (attributed to triterpenoid content). **Odor**: Mild, earthy.
 
 ## Habitat and Distribution
@@ -77,7 +77,7 @@ Reishi occupies the highest tier of Traditional Chinese Medicine (TCM), describe
 - Molecular weight ranges from ~10 kDa to over 1,000 kDa; higher MW fractions show greater immunological activity.
 - Mechanism: Bind to pattern recognition receptors (Dectin-1, TLR-2, TLR-4) on immune cells, activating macrophages, NK cells, and dendritic cells.
 
-### Triterpenes (Ganoderic Acids)
+### Triterpenes ([[ganoderic-acids]])
 - Over 150 **ganoderic acids** and related triterpenoids identified.
 - Key compounds: ganoderic acid A, B, C, D, F, H, K, lucidenic acid, ganoderiol B.
 - Responsible for the characteristic bitter taste.
@@ -133,7 +133,7 @@ Sequential water extraction (90–100°C, 2–3 hrs) followed by ethanol extract
 
 ## Permaculture Applications
 
-- **Food forest integration**: Cultivated on inoculated hardwood logs in food forest understories, yielding medicinal mushrooms and decomposition services.
+- **[[food-forest]] integration**: Cultivated on inoculated hardwood logs in food forest understories, yielding medicinal mushrooms and decomposition services.
 - **Nutrient cycling**: Accelerates hardwood debris decomposition, releasing nutrients into the soil food web.
 - **Tree health management**: Participates in forest succession cycles; strategic inoculation accelerates recycling of dead/dying trees.
 - **Medicinal plant polyculture**: Thrives in humid, shaded understories beneath ginseng, goldenseal, or astragalus.
@@ -148,4 +148,3 @@ Generally regarded as safe (GRAS) at standard doses (1.5–9 g/day dried). Mild 
 
 - [[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent medicinal polypore
 - [[turkey-tail-trametes-versicolor]] — Turkey Tail, rich in PSK/PSP polysaccharides
-- [[hericium-erinaceus]] — Lion's Mane, neuroprotective medicinal mushroom

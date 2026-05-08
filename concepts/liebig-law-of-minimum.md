@@ -67,7 +67,7 @@ Natural ecosystems do not suffer from the nutrient deficiencies that Liebig's fr
 
 The key insight is that nutrient availability in natural systems is governed by biological cycles, not chemical stocks. Decomposition, mineralization, nitrogen fixation, mycorrhizal exchange, and root exudation all operate continuously to recycle nutrients and make them available to plants. These processes are self-adjusting and require no external management.
 
-In [[natural farming]], the goal is to maintain or restore this self-regulating capacity. Rather than identifying and supplementing limiting factors, the farmer creates conditions under which limiting factors do not arise.
+In [[natural-farming]], the goal is to maintain or restore this self-regulating capacity. Rather than identifying and supplementing limiting factors, the farmer creates conditions under which limiting factors do not arise.
 
 ## The Barrel Metaphor and Its Limitations
 
@@ -121,9 +121,9 @@ Practices such as cover cropping, minimal tillage, diverse rotations, and the re
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 - [[liebig-law-of-minimum-critique-natural-farming]]
 
-- [[natural farming]]
+- [[natural-farming]]
 - [[masanobu-fukuoka]]
-- [[do-nothing farming]]
-- [[soil fertility]]
-- [[nitrogen fixation]]
-- [[no-till rice barley succession]]
+- [[do-nothing-farming]]
+- [[soil-fertility]]
+- [[nitrogen-fixation]]
+- [[no-till-rice-barley-succession]]

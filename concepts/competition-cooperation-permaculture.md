@@ -87,8 +87,8 @@ The permaculture designer must:
 
 - [[monsoon-permaculture]]
 
-- [[permaculture-earthworks-guide]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-water-harvesting-earthworks]]
+- [[permaculture-design-principles]]
 - [[permaculture-community-scale-design]]
 - [[consumer-versus-conserver-society]]
 - [[permaculture-energy-descent-planning]]

@@ -97,6 +97,6 @@ At Melliodora a combination of the second and third strategies has been pursued,
 - [[holmgren-change-detailed]]
 - [[faires-ecological-succession-and-edge-design]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[betula-pendula]]

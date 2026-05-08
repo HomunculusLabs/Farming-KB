@@ -19,53 +19,15 @@ type: concept
 
 created: 2026-05-07
 ---
-
-# The Myth of Glaukos - Honey, Death and Resurrection in Minoan Religion
+# The [[minoan-mushroom-cult-and-myth-of-glaukos]] - Honey, Death and Resurrection in Minoan Religion
 
 ## Overview
 
-The myth of Glaukos, son of King Minos and the Moon Goddess Pasiphae, occupies a unique
-position in Terence McKenna's argument for the psychoactive origins of Minoan religion. This
-curious and relatively neglected myth preserves what McKenna reads as a encoded account of
-a sacred relationship between honey, psychoactive fungi, and the ritual of resurrection, a
-relationship that connects Minoan Crete to the broader partnership cultures of the ancient
-Mediterranean and Near East.
-
-## The Myth as Preserved by Apollodorus
-
-The complete form of the Glaukos myth survives in only two late sources, Apollodorus and
-Hyginus, with fragmented versions appearing in earlier writers. Parts of the story appear in
-works by Aeschylus (Kressai), Sophocles (Mantels), and Euripides (Polyidos). The fascination
-this myth held for the great dramatists suggests it was a popular theme of the Classical
-period and, as McKenna notes, "the story is old, definitely from the prehistoric phase of
-Greek mythological thinking."
-
-The narrative unfolds as follows:
-
-While the young Glaukos was pursuing a rat (or a fly, manuscripts differ), he fell into a
-pithos, a large storage jar, filled with honey and died. His father Minos, desperate to find
-him, consulted diviners. The Kouretes answered that Minos possessed among his herds a cow of
-three different colors, and that the man who could offer the best simile for this phenomenon
-would also know how to restore the boy to life. Polyidos, son of Koiranos, provided the
-winning comparison and was thus compelled to resurrect Glaukos.
-
-## The Honey-Fungus Connection
-
-McKenna identifies several layers of significance in the myth's central image of a child
-dying in a jar of honey:
-
-- Honey was the primary medium for preserving mushrooms in the ancient world. As McKenna
-  notes elsewhere, dried mushrooms were preserved in honey, and honey itself easily
-  ferments into mead, an alcoholic intoxicant.
-- The practice of mixing mushrooms with honey represents what McKenna calls the first step
-  in the "profanation of the sacrament," where a genuine psychoactive preparation is
-  diluted by a vehicle that introduces different pharmacological effects.
-- A child dying in honey could be read as an allegory for the death of the original mushroom
-  religion within a medium (fermented honey/mead) that would eventually replace it.
-
-The pithos itself is significant. These large storage jars were ubiquitous in Minoan
-culture, and the image of a sacred jar containing both death and the potential for
-resurrection resonates with later Greek mysteries, particularly the Eleusinian Mysteries,
+The myth of Glaukos, son of King Minos and the Moon Goddess Pasiphae, oterence-mckenna-[[tryptamine]]-hypothesise
+position in [[terence-mckenna]]'s argument for the psychoactive origins of Minoan religion. This
+curious and relatively neglected myth preserves what McKenna reads as a esacred-gasteromycetes-non-[[psilocybin]]-psychoactive-fungia sacred relationship between honey, psychoactive fungi, and the ritual of resurrection, a
+relationship allegro fertility philosophy of the ancient near eastects Minoan Crete to the broader partnership cultures of the ancient
+Mediterranean and Near East.,
 where the kykeon was prepared and consumed from sacred vessels.
 
 ## Polyidos and the Art of Resurrection
@@ -148,10 +110,3 @@ the subjugation of nature, the Minoans understood their gods as "a kind of psych
 climate" — immanent, participatory, accessible through botanical means rather than
 requiring priestly intermediaries. The Glaukos myth, in this reading, is a fossil of
 that older, partnership-oriented worldview.
-
-## See Also
-
-- [[entheogen-culture]]
-
-- [[terence-mckenna|McKenna]]
-- [[eleusinian-mysteries-history-and-structure|Minoan]]

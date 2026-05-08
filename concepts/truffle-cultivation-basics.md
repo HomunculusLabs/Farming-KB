@@ -7,9 +7,6 @@ tags: [mycorrhizae, truffle, cultivation, ectomycorrhiza, tree-inoculation, soil
 sources: [raw/papers/teaming-with-fungi-lowenfels.md]
 ---
 
-
-
-
 ## Truffle Cultivation — Mycorrhizal Basics
 
 Truffles are the fruiting bodies of certain ectomycorrhizal fungi that grow in symbiotic association with tree roots. Unlike saprotrophic mushrooms (shiitake, oyster) that can be cultivated on dead organic matter, truffles require a living host tree. Understanding mycorrhizal biology (see Teaming with Fungi, Lowenfels) is essential for truffle cultivation.
@@ -67,17 +64,11 @@ Ectomycorrhizal fungi form associations with woody plants — primarily trees in
 
 Lowenfels notes that ectomycorrhizal fungi are generally acidophilic (prefer acidic, low-pH soils). However, the most valued truffle species (T. melanosporum, T. magnatum) are exceptions — they require alkaline/calcareous soils. This apparent contradiction reflects that different fungal species within the ectomycorrhizal category have distinct ecological preferences. Soil testing before planting is essential.
 
-
-
-
 ## See Also
 
 - [[truffle-guide]]
 - [[permaculture-forest-garden-establishment]]
 - [[permaculture-tree-crop-systems]]
-
-
-
 
 ## Related
 

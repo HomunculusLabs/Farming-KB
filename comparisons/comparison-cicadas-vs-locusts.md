@@ -32,16 +32,16 @@ created: 2026-04-28
 | **Order** | Hemiptera (true bugs) | Orthoptera (grasshoppers & crickets) |
 | **Family** | Cicadidae (~3,400 species) | Acrididae, swarming species (~20 species) |
 | **Key behavior** | Long subterranean development; mass synchronized emergence | Density-dependent phase polyphenism; swarming |
-| **Diet** | Xylem sap (plant roots as nymphs, tree sap as adults) | Herbivorous — leaves, stems, flowers, crops |
-| **Life cycle** | 2–17 years (most spent underground as nymphs) | 2–6 months (multiple generations per year) |
-| **Sound** | Tymbal organs; species-specific mating songs up to 120 dB | Stridulation (hind leg rubbing wing); chorusing during swarms |
+| **Diet** | Xylem sap ([[nutrient-movement-through-soil-to-plant-roots]] as nymphs, tree sap as adults) | Herbivorous — leaves, stems, flowers, crops |
+| **[[rust-fungi-life-cycle]]** | 2–17 years (most spent underground as nymphs) | 2–6 months (multiple generations per year) |
+| **Sound** | Tymbal organs; [[species-specific-cold-shock-response-psilocybe]] mating songs up to 120 dB | Stridulation (hind leg rubbing wing); chorusing during swarms |
 | **Agricultural impact** | Minor — twig damage from oviposition; temporary nuisance | Catastrophic — can consume entire crop fields in hours |
-| **Economic damage** | Negligible to moderate (nursery stock, young trees) | Billions of dollars globally during outbreak years |
+| **Economic damage** | Negligible to moderate ([[fukuoka-natural-seedlings-versus-grafted-nursery-stock]], young trees) | Billions of dollars globally during outbreak years |
 | **Population strategy** | Predator satiation (numerical overwhelm, then disappear) | Swarm migration (gregarious phase seeks new food sources) |
 | **Mobility** | Poor flyers; mostly stay near emergence area | Excellent flyers; swarms travel 100+ km/day |
 | **Cultural perception** | Symbol of summer, rebirth, immortality | Symbol of plague, famine, divine punishment |
 
-## Biology and Taxonomy
+## Biology [[fungal-species-concept-and-taxonomy]]
 
 Cicadas and locusts belong to entirely different insect orders and share only superficial similarities — both are relatively large, conspicuous insects that can be extremely abundant.
 

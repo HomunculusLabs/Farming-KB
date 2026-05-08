@@ -113,5 +113,5 @@ Field identification should always be confirmed with microscopic analysis, as mu
 - [[psilocybe-allenii]]
 - [[psilocybe-weilii]]
 - [[copelandia-cyanescens]]
-- [[gymnopilus-spectabilis]]
+- [[gymnopilus-spectabilis-entity]]
 - [[pluteus-cyanopus]]

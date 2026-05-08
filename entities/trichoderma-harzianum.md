@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Trichoderma harzianum is a filamentous ascomycete fungus of major agricultural and ecological significance. Widely recognized as one of the most effective biological control agents (BCAs) available for plant disease management, it functions through multiple mechanisms including mycoparasitism, antibiosis, competition, and induction of plant systemic resistance. Beyond its biocontrol capabilities, T. harzianum is a plant growth-promoting fungus (PGPF) that enhances nutrient uptake, stimulates root development, and improves crop resilience to abiotic stress. The species complex has a global distribution in soils and is a cornerstone organism in sustainable agriculture, permaculture, and integrated pest management (IPM) systems.
+Trichoderma harzianum is a filamentous ascomycete fungus of major agricultural and ecological significance. Widely recognized as one of the most effective biological control agents (BCAs) available for plant disease management, it functions through multiple mechanisms including mycoparasitism, antibiosis, competition, and induction of plant systemic resistance. Beyond its biocontrol capabilities, T. harzianum is a [[plant-growth-promoting-rhizobacteria]]-promoting fungus (PGPF) that enhances nutrient uptake, stimulates root development, and improves crop resilience to abiotic stress. The species complex has a global distribution in soils and is a cornerstone organism in sustainable agriculture, permaculture, and integrated pest management (IPM) systems.
 
 ## Taxonomy and Classification
 
@@ -36,7 +36,7 @@ Trichoderma harzianum is a filamentous ascomycete fungus of major agricultural a
 - **Genus:** Trichoderma
 - **Species:** T. harzianum Rifai (1969)
 
-The taxonomy of Trichoderma has undergone extensive revision with the advent of molecular phylogenetics. What was historically treated as a single morphological species, T. harzianum, is now recognized as a species complex containing at least 14 phylogenetic species (T. harzianum sensu stricto, T. afroharzianum, T. guizhouense, T. lixii, T. simmonsii, among others). These cryptic species are morphologically nearly indistinguishable but differ significantly in their ecological niches, biocontrol efficacy, and secondary metabolite profiles. The strain T-22 (originally deposited as T. harzianum) is among the most widely studied and commercially available biocontrol strains, though it has been reclassified as T. afroharzianum.
+The taxonomy of Trichoderma has undergone extensive revision with the advent of molecular phylogenetics. What was historically treated as a single morphological species, T. harzianum, is now recognized as a species complex containing at least 14 phylogenetic species (T. harzianum sensu stricto, T. afroharzianum, T. guizhouense, T. lixii, T. simmonsii, among others). These [[cryptic-species-fungal-biodiversity]] are morphologically nearly indistinguishable but differ significantly in their ecological niches, biocontrol efficacy, and secondary metabolite profiles. The strain T-22 (originally deposited as T. harzianum) is among the most widely studied and commercially available biocontrol strains, though it has been reclassified as T. afroharzianum.
 
 ## Morphology
 
@@ -54,7 +54,7 @@ Trichoderma harzianum is a fast-growing, opportunistic fungus with the following
 Trichoderma harzianum is one of the most commonly isolated soil fungi worldwide:
 
 - **Global distribution:** Found in soils across all continents except Antarctica; most prevalent in temperate and tropical agricultural soils
-- **Habitat diversity:** Occurs in agricultural fields, forests, grasslands, compost, decaying wood, leaf litter, rhizosphere soil, and as endophytes within plant tissues
+- **Habitat diversity:** Occurs in agricultural fields, forests, grasslands, compost, decaying wood, [[leaf-litter-microfungal-diversity-tropical-temperate]], rhizosphere soil, and as endophytes within plant tissues
 - **Population density:** Typically 10²–10⁵ CFU/g soil in agricultural land; can reach 10⁶–10⁷ CFU/g in compost or rhizosphere soil of healthy plants
 - **Soil preferences:** Thrives in soils with high organic matter content; optimal pH range of 4.0–6.5; tolerates a wide temperature range of 5–40°C
 
@@ -127,11 +127,11 @@ Trichoderma harzianum is one of the most commercially successful biocontrol fung
 - **Registered trade names:** RootShield®, PlantShield®, Trichodex®, Bio-Tam®, Supresivit®, Trichoderma 2000
 - **Target crops:** Vegetables (tomato, pepper, cucumber), fruits (grape, strawberry, citrus), cereals (wheat, rice, maize), ornamentals, and forestry species
 - **Target pathogens:** Rhizoctonia solani (damping-off, root rot), Fusarium spp. (wilt, root rot), Pythium spp. (damping-off), Botrytis cinerea (gray mold), Sclerotinia sclerotiorum (white mold), Phytophthora spp., Verticillium spp., and various foliar pathogens
-- **Application methods:** Seed treatment, soil drench, foliar spray, nursery substrate amendment, post-harvest treatment
+- **Application methods:** Seed treatment, soil drench, foliar spray, nursery substrate amendment, [[post-harvest-handling-marketing-mushrooms]] treatment
 
 ## Permaculture and Sustainable Agriculture Applications
 
-In permaculture design and regenerative agriculture, Trichoderma harzianum serves as a keystone organism:
+In permaculture design and [[regenerative-agriculture-overview]], Trichoderma harzianum serves as a keystone organism:
 
 - **Compost inoculation:** Addition of Trichoderma-enriched compost to garden beds and planting areas establishes beneficial fungal populations
 - **Sheet mulching:** Integration into sheet mulch layers provides long-term biological disease suppression
@@ -148,11 +148,3 @@ The genome of T. harzianum has been sequenced, revealing key features underlying
 - **Secondary metabolite gene clusters:** Over 20 polyketide synthase (PKS) and non-ribosomal peptide synthetase (NRPS) gene clusters
 - **Secreted enzymes:** Over 700 genes encoding secreted proteins, including cell-wall-degrading enzymes, proteases, and lipases
 - **Sm1 (elicitor protein):** A small cysteine-rich secreted protein that induces systemic resistance in plants; belongs to the cerato-platanin family
-
-## See Also
-
-- [[trichoderma-viride]] — Another commercially important biocontrol Trichoderma species
-- Mycoparasitism — Fungal parasitism of other fungi
-- Biological Control — Overview of biocontrol agents and strategies
-- [[soil-food-web]] — The complex community of soil organisms and their interactions
-- [[integrated-pest-management]] — Holistic approach to pest and disease management

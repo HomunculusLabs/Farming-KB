@@ -114,7 +114,7 @@ and causes GI distress) should be avoided.
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| [[cantharellus-cibarius]] | True chanterelle; egg-yolk yellow, with blunt, forking ridges that resemble forked gills; more robust stature |
+| [[cantharellus-cibarius-entity]] | True chanterelle; egg-yolk yellow, with blunt, forking ridges that resemble forked gills; more robust stature |
 | [[craterellus-tubaeformis]] | Yellowfoot; brown cap, dark stem, grows in fall/winter under conifers; smaller and darker |
 | [[craterellus-cornucopioides]] | Black trumpet; dark gray to black, funnel-shaped; lacks orange coloration entirely |
 
@@ -134,12 +134,12 @@ slugs, deer, and small mammals, which may assist in spore dispersal.
 
 - [[craterellus-odoratus]]
 
-- [[cantharellus-cibarius]] — Golden chanterelle, the most widely
+- [[cantharellus-cibarius-entity]] — Golden chanterelle, the most widely
   recognized edible chanterelle
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, a close
   relative with different habitat and season
 - [[craterellus-cornucopioides]] — Black trumpet, same genus
-- [[boletus-edulis]] — Another prized mycorrhizal edible sharing
+- [[boletus-edulis-entity]] — Another prized mycorrhizal edible sharing
   oak forest habitat
 - [[laccaria-laccata]] — Common mycorrhizal associate in the same
   forest types

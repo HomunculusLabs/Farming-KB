@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Ethics
 
-Permaculture ethics form the philosophical foundation of the entire design system. They are the moral compass that guides all permaculture practice, distinguishing it from mere technical landscaping or farming. david holmgren and [[permaculture-design]], the co-originators of permaculture, both identified three core ethics, though Holmgren's articulation has become the more widely referenced formulation. See also [[permaculture-introduction-and-ethics]] for a broader overview of how these ethics sit within the permaculture framework.
+Permaculture ethics form the philosophical foundation of the entire design system. They are the moral compass that guides all permaculture practice, distinguishing it from mere technical landscaping or farming. david holmgren and [[permaculture-design]], the co-originators of permaculture, both identified three core ethics, though Holmgren's articulation has become the more widely referenced formulation. See also [[permaculture-design-principles]] for a broader overview of how these ethics sit within the permaculture framework.
 
 ## Mollison's Foundational Philosophy
 
@@ -85,7 +85,7 @@ The ethics also connect to the concept of [[permaculture-energy-descent-planning
 ## Related
 
 - [[arid-landscape-permaculture]]
-- [[permaculture-introduction-and-ethics]]
+- [[permaculture-design-principles]]
 - [[permaculture-community-resilience]]
 - [[permaculture-currency-and-economics]]
 - [[permaculture-social-design]]

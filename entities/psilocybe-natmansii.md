@@ -76,7 +76,7 @@ Fruiting occurs in late summer to autumn, typically from August through November
 
 ## Chemistry
 
-psilocybe natmansii contains [[psilocybin]] and [[psilocin]] as its primary psychoactive compounds. Due to the rarity of collections, quantitative analytical data is limited. Available reports suggest moderate tryptamine alkaloid levels, generally lower than those of [[psilocybe-semilanceata]] but comparable to other grassland Psilocybe species.
+psilocybe natmansii contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive compounds. Due to the rarity of collections, quantitative analytical data is limited. Available reports suggest moderate tryptamine alkaloid levels, generally lower than those of [[psilocybe-semilanceata]] but comparable to other grassland Psilocybe species.
 
 Baeocystin and norbaeocystin have been detected as minor constituents. The alkaloid content is subject to the same environmental variables that affect other Psilocybe species, including substrate nitrogen availability, moisture levels, and temperature during fruiting. Studies of European Psilocybe populations have documented significant inter-population variation in alkaloid profiles.
 
@@ -104,7 +104,7 @@ The species typically fruits in scattered individuals or small groups rather tha
 
 ## Toxicology and Safety
 
-psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocybin]] and [[psilocin]]. As with all wild mushrooms, accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[galerina-marginata]], which contains deadly amatoxins, though the two species have distinctly different spore colors and microscopic features.
+psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocybin-compound]] and [[psilocin]]. As with all wild mushrooms, accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[galerina-marginata]], which contains deadly amatoxins, though the two species have distinctly different spore colors and microscopic features.
 
 ## Conservation Status
 
@@ -118,4 +118,4 @@ The psychoactive effects of psilocybe natmansii are consistent with those of oth
 
 ## Legal Status
 
-As a psilocybin-containing species, psilocybe natmansii is controlled in most jurisdictions. In the Netherlands, the sale of fresh psilocybin mushrooms was prohibited following legislation in 2008, though the legal status of naturally occurring specimens found in the wild remains ambiguous in some European countries. Under the UN Convention on Psychotropic Substances of 1971, [[psilocybin]] and [[psilocin]] are Schedule I substances.
+As a psilocybin-containing species, psilocybe natmansii is controlled in most jurisdictions. In the Netherlands, the sale of fresh psilocybin mushrooms was prohibited following legislation in 2008, though the legal status of naturally occurring specimens found in the wild remains ambiguous in some European countries. Under the UN Convention on Psychotropic Substances of 1971, [[psilocybin-compound]] and [[psilocin]] are Schedule I substances.

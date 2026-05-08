@@ -148,6 +148,3 @@ cactus, orchids, bromeliads, yucca, century plant, sedum, echeveria, hen-and-chi
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
-- [[query-what-are-endophytic-fungi-and-why-do-they-matter]]
-
-- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]

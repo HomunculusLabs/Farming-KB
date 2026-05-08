@@ -141,7 +141,7 @@ Without selection, plants may express THC:CBD ratios closer to 1:1.
 
 [[harlequin-cannabis]] is a related high-CBD strain with Sativa
 dominance. [[pennywise-strain]] is a descendant cross with balanced
-CBD:THC for specific therapeutic applications. [[chemdawg-entity]]
+CBD:THC for specific therapeutic applications. [[chemdawg-cannabis]]
 provides the diesel lineage underlying Sour Tsunami's characteristic
 aroma profile through the Sour Diesel family. [[cannabidiol-cbd]] details the primary pharmacological
 compound this strain was developed to express.

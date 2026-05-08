@@ -121,5 +121,5 @@ A simple label system prevents the common problem of unidentifiable dried herbs 
 - Chamomile: dry flowers on screens; store in dark containers to preserve color
 ## See Also
 - [[granola-making]] — using dried herbs in homemade granola
-- [[pickle-making]] — herbs as aromatics in pickling
+- pickle making — herbs as aromatics in pickling
 - [[jerky-making]] — dried herbs in jerky marinades

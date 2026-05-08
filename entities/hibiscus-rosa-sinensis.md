@@ -127,6 +127,6 @@ prolifically.
 - [[portulaca-oleracea]]
 - [[moringa-oleifera]]
 - [[ocimum-sanctum]]
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - [[salicornia-europaea]]
 - [[vetiveria-zizanoides]]

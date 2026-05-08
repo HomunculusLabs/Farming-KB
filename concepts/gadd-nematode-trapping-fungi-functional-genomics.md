@@ -140,45 +140,6 @@ extracellular enzymes.
 
 Genes involved in stress and defence responses were among the
 largest differentially expressed classes during appressorium
-formation in Magnaporthe grisea, and similar genes including
-cyclophilins, peptidyl-prolyl cis-trans isomerases, metallothionein,
-and thioredoxins were differentially expressed in knobs of M.
-haptotylum. Genes involved in protein synthesis and degradation were
-also regulated in both structures, suggesting that infection
-structure development involves extensive protein turnover.
-
-Notably, the glycogen phosphorylase gene was one of the most
-up-regulated genes in knobs. This enzyme catalyses glycogen
-degradation to glucose-1-phosphate, feeding into glycolysis and
-ultimately glycerol synthesis. In Magnaporthe, glycerol accumulation
-generates the turgor pressure needed for host penetration, suggesting
-a similar mechanism may operate in nematode-trapping fungi.
-
-## Gene Expression During Infection
-
-Time-course microarray experiments tracked both fungal and nematode
-gene expression at 0, 4, 16, and 24 hours of interaction. During
-early stages, coincident with cuticle penetration, a majority of
-fungal genes in functional categories including transcription,
-metabolism, energy, transport, defence, and cell growth were
-significantly down-regulated. During later stages of digestion and
-nutrient assimilation, most fungal genes across all categories
-were significantly up-regulated. This temporal switch from broad
-transcriptional suppression to activation mirrors the biphasic
-nature of the infection process.
-
-## Broader Significance
-
-The application of DNA microarray technology to non-model fungi
-like M. haptotylum demonstrates that functional genomics is not
-limited to organisms with fully sequenced genomes. EST-derived
-arrays provide a practical route to transcriptional profiling in
-poorly characterised species. Comparative analyses across
-fungus-host interaction systems will become increasingly powerful
-as more microarray resources are developed for diverse pathogenic
-fungi, revealing common molecular themes in infection structure
-development, adhesion, penetration, and host defence suppression.
-
 ## See also
 
 [[gadd-rice-blast-magnaporthe-grisea]]

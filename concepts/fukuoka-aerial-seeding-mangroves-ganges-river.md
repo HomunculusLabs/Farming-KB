@@ -119,7 +119,7 @@ Within India's Ministry of the Environment, Fukuoka worked with the Office of Wa
 ## See Also
 
 - [[fukuoka-clay-seed-pellets]]
-- [[fukuoka-greening-deserts]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-desert-revegetation-natural-farming]]
 - [[fukuoka-second-genesis-theory-global-seed-scattering]]
 - [[fukuoka-natural-farming-global-influence]]

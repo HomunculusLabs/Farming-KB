@@ -148,9 +148,3 @@ Several aspects of this ceremonial complex remain poorly understood:
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-
-- Mexican Neurotropic Fungi and Indigenous Mycological Knowledge
-- Clavicipitalean Neurotropic Fungi
-- Neurotropic Fungi Classification Systems
-- [[psilocybe-mexicana]]
-- Sacred Fungi Beyond Psilocybe

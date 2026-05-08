@@ -148,7 +148,3 @@ experience directly, in three dimensions, as McKenna describes: "evolving surfac
 - [[heraclitus-fragment-24-and-tryptamine-ecstasy]] for the Heraclitus connection
 - [[tryptamine-hallucinogens-and-consciousness]] for the full Esalen lecture context
 - [[mckenna-tryptamine-glossolalia-and-primal-language]] for the language phenomenology
-- [[dmt-self-transforming-machine-elves-mckenna]] for entity encounters in the raum
-- [[mckenna-tryptamine-transtemporal-consciousness-and-nunc-stans]] for the temporal dimension
-- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] for the communication paradox
-- [[mckenna-tryptamines-logos-consciousness]] for the Logos concept

@@ -96,7 +96,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Late decomposition (5-50+ years)**:
 - Dominant decay fungus monopolizes resource
 - Mycelial cords and rhizomorphs extend foraging range
-- *Armillaria* species: aggressive, long-lived; can form some of Earth's largest organisms (see [[fairy-rings-and-giant-mycelia]])
+- *Armillaria* species: aggressive, long-lived; can form some of Earth's largest organisms (see [[mushroom-contamination-identification-and-troubleshooting]])
 - Resource becomes increasingly depleted; succession slows
 **Very late stage**:
 - Woody residue approaches humus
@@ -143,5 +143,5 @@ Dead wood is declining in managed forests:
 - [[fungal-nutrient-cycling-mineral-transformations]] — Carbon and nutrient cycling
 - [[fungal-growth-dynamics]] — Mycelial foraging and resource translocation
 - [[fungi-in-climate-change]] — Climate effects on decomposition
-- [[fairy-rings-and-giant-mycelia]] — Armillaria and large mycelial networks
+- [[mushroom-contamination-identification-and-troubleshooting]] — Armillaria and large mycelial networks
 - [[fungal-ecology-decomposition-cycles]] — Decomposition cycles in ecosystems

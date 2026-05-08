@@ -48,7 +48,7 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 | *Hydnellum suaveolens* | Aniseed Tooth | Terphenyls | Gold, yellow, tan | Strong anise aroma during dyeing |
 | *Hydnellum aurantiacum* | Orange Spindle | Terphenyls | Yellow-orange, rust | Good lightfastness |
 | *Pisolithus tinctorius* | Dyer's Puffball | Pigment complex | Yellow, gold, tan | Abundant; easy to collect |
-| *Laetiporus sulphureus* | Chicken of the Woods | Pigment complex | Yellow, gold | Also edible; limited dye yield |
+| *[[laetiporus-sulphureus-permaculture]]* | Chicken of the Woods | Pigment complex | Yellow, gold | Also edible; limited dye yield |
 | *Ganoderma lucidum* | Reishi | Pigment complex | Brown, amber, sienna | Cultural significance in East Asia |
 
 ### Blue and Green Pigments
@@ -71,7 +71,7 @@ Anthraquinones are the most important class of fungal dye pigments. They are pol
 - **Emodin**: Found in many *Cortinarius* and *Dermocybe* species. Produces yellow to orange-red hues. Closely related to emodin found in rhubarb and buckthorn.
 - **Physcion**: A methylated derivative of emodin, contributing orange tones.
 - **Dermorubin**: Found in *Dermocybe sanguinea*; produces deep reds.
-- **Parietin**: Present in some *Xanthoria* lichens (lichenized fungi) and contributes yellow-orange color.
+- **Parietin**: Present in some *Xanthoria* lichens ([[lichenized-fungi-taxonomy-diversity]]) and contributes yellow-orange color.
 - **Trametic acid**: Isolated from *Phaeolus schweinitzii*, contributes yellow-brown tones.
 
 Anthraquinone-based fungal dyes generally exhibit excellent lightfastness, often superior to their plant-derived counterparts. This is attributed to the stability of the quinone ring system and its ability to form stable complexes with metal mordants.
@@ -96,7 +96,7 @@ Badione A is a bis-naphthoquinone pigment found in *Cortinarius* and *Dermocybe*
 
 ### Water Extraction (Hot Simmer)
 
-The most common method for extracting water-soluble pigments from dye mushrooms:
+The most common method for extracting [[water-soluble-calcium-phosphate-wcp]] pigments from dye mushrooms:
 
 1. **Preparation**: Clean the mushrooms to remove dirt and debris. Fresh mushrooms can be used whole or chopped; dried mushrooms should be crumbled or ground. A typical ratio is 100% weight of fiber (WOF) to 200-400% weight of dried mushroom material.
 2. **Soaking**: Cover the mushroom material with water and let it soak for several hours or overnight. This softens the tissue and begins pigment extraction.
@@ -109,7 +109,7 @@ The most common method for extracting water-soluble pigments from dye mushrooms:
 
 Some pigments, particularly those in *Hapalopilus* and *Sarcodon* species, respond well to alkaline extraction:
 
-1. Follow the standard hot water extraction procedure.
+1. Follow the standard [[hot-water-and-hydrated-lime-substrate-treatment]] extraction procedure.
 2. Add ammonia (household strength, approximately 5%) to the dye bath in small increments while stirring. The color may shift dramatically — polyporic acid turns from dull brown to vivid purple or magenta.
 3. Monitor the pH; a range of 8-10 is typical for alkaline extraction.
 4. Use caution: ammonia vapors are irritating. Work in a ventilated area.
@@ -124,7 +124,7 @@ For pigments that are poorly water-soluble (such as xylindein from *Chlorocibori
 
 ### Fermentation Extraction
 
-A traditional and low-energy approach:
+A traditional and [[low-energy-futures-in-permaculture]] approach:
 
 1. Submerge mushroom material in water at room temperature.
 2. Allow the mixture to ferment for 1-4 weeks in a warm location. Indigenous fermentation may produce different color results than sterile extraction.
@@ -246,7 +246,7 @@ Several dye mushroom species can be cultivated, providing a sustainable source o
 
 ### *Pisolithus tinctorius* (Dyer's Puffball)
 
-- **Method**: Can be grown on sterilized substrate (straw, wood chips, or compost) using spore slurry or inoculated grain spawn.
+- **Method**: Can be grown on sterilized substrate (straw, wood chips, or compost) using spore slurry or inoculated [[grain-spawn-types-and-preparation]].
 - **Substrate**: Prefers sandy, well-draining soil with organic matter. Often found in association with eucalyptus and pine.
 - **Yield**: Produces large fruiting bodies with substantial pigment content.
 - **Difficulty**: Moderate; reliable fruiting requires some experimentation with substrate and conditions.
@@ -256,7 +256,7 @@ Several dye mushroom species can be cultivated, providing a sustainable source o
 - **Method**: Grows well on hardwood sawdust (oak, beech) supplemented with bran.
 - **Substrate**: Hardwood sawdust blocks or logs.
 - **Yield**: Good pigment yield; the bright orange fruiting bodies are easy to spot and harvest.
-- **Difficulty**: Easy to moderate for cultivators familiar with mushroom growing.
+- **Difficulty**: Easy to moderate for cultivators familiar with [[mushroom-growing-environmental-parameters]].
 
 ### *Ganoderma lucidum* (Reishi)
 
@@ -275,7 +275,7 @@ Several dye mushroom species can be cultivated, providing a sustainable source o
 ### Tips for Home Cultivation
 
 - Start with species that are easy to grow (reishi, oyster mushrooms with dye potential).
-- Maintain sterile technique during spawn preparation to avoid contamination.
+- Maintain [[sterile-technique-mushroom-cultivation]] during spawn preparation to avoid contamination.
 - Experiment with different substrates to find what produces the most pigment-rich fruiting bodies.
 - Even failed crops can be useful — substrate colonized by mycelium can sometimes be used as a dye material.
 - Join local mycological societies or online communities for support and spore exchange.

@@ -132,9 +132,9 @@ More recently, systems thinking and complexity theory have arrived at conclusion
 - [[fukuoka-theory-principle-of-non-causality]]
 
 - [[fukuoka-natural-farming-philosophy]]
-- [[Fukuoka's Four Principles of Natural Farming]]
+- [[fukuoka's-four-principles-of-natural-farming]]
 - Critique of Scientific Agricultural Laws
-- [[Liebig's Law of Minimum and Its Critique in Natural Farming]]
+- [[liebig's-law-of-minimum-and-its-critique-in-natural-farming]]
 - Discriminating vs Non-Discriminating Knowledge in Agriculture
 - Inductive vs Deductive Methods in Agricultural Research
 - Pest Outbreaks as Ecological Indicators

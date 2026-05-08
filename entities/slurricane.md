@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Staff. (2024). \"Slurricane Cannabis Strain Information.\" Leafly.com."
+  - "Leafly Staff. (2024). \"Slurricane [[cannabis-strain-chupacabra]] Information.\" Leafly.com."
   - "AllBud. (2024). \"Slurricane Strain Review.\" AllBud.com."
   - "Wikileaf. (2024). \"Slurricane Marijuana Strain.\" Wikileaf.com."
   - "Cannabis Training University. (2023). \"Top Indica Strains for Sleep.\" CTU."
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Slurricane is a potent indica-dominant hybrid cannabis strain created by
+Slurricane is a potent i [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] hybrid cannabis strain created by
 crossing Do-Si-Dos with Purple Punch. Bred by In House Genetics, it has
 earned a strong reputation among cannabis enthusiasts for its deeply
 relaxing body effects and rich, fruity flavor profile that blends berry
@@ -33,7 +33,7 @@ The strain's name is a portmanteau of "slurp" and "hurricane," referencing
 both its syrupy-sweet flavor and the powerful, wave-like onset of its
 sedating effects. With THC content regularly testing between 20-28%,
 Slurricane has become a popular choice for evening use and therapeutic
-applications involving pain management and insomnia.
+applications involving [[cannabis-chronic-pain-management]] [[cannabis-sleep-disorders-and-insomnia]].
 
 ## Strain Classification
 
@@ -57,11 +57,11 @@ applications involving pain management and insomnia.
   dark green hues; vivid orange pistils; heavy coating of frosty
   white trichomes
 
-## Effects and Pharmacology
+## Effects [[allegro-amanita-muscaria-properties-and-pharmacology]]
 
 - **Onset:** Relatively fast, typically felt within 5-10 minutes of
   inhalation
-- **Duration:** 2-4 hours depending on tolerance and dosage
+- **Duration:** 2-4 hours depending on tolerance [[turner-harmala-alkaloids-preparation-and-dosage]]
 - **Primary effects:** Deep physical relaxation, euphoria, cerebral
   calm, happiness
 - **Body effects:** Heavy body stone progressing to couch-lock at
@@ -93,7 +93,7 @@ applications involving pain management and insomnia.
 - **Nutrient needs:** Moderate to heavy feeder; responds well to
   phosphorus and potassium supplementation during weeks 4-7 of
   flowering for enhanced trichome production
-- **Training:** LST (low stress training) and SCRoG (screen of green)
+- **Training:** LST ([[low-stress-training]]) and SCRoG ([[screen-of-green]])
   recommended for optimal canopy management; topping once or twice
   in early vegetative stage improves yield
 - **Resin production:** Exceptional; heavy trichome coverage makes
@@ -118,7 +118,7 @@ profile that transitions into deep sedation.
 
 - **Do-Si-Dos (parent):** Contributes the heavy body effects, OG
   terpene character, and dense bud structure; itself a cross of
-  Girl Scout Cookies × Face Off OG
+  [[girl-scout-cookies]] × Face Off OG
 - **Purple Punch (parent):** Contributes the purple coloration,
   sweet berry/grape flavor, and additional sedating qualities;
   itself a cross of Granddaddy Purple × Larry OG
@@ -145,10 +145,6 @@ nighttime temperatures — has made it a favorite on social media.
 
 ## See Also
 
-- [[do-si-dos]] — Parent strain contributing heavy OG characteristics
+- [[do-si-dos-entity]] — Parent strain contributing heavy OG characteristics
 - [[purple-punch]] — Parent strain contributing purple coloration and
   berry flavors
-- [[granddaddy-purple]] — Grandparent strain, classic purple indica
-- [[girl-scout-cookies]] — Grandparent strain, cornerstone of modern
-  West Coast genetics
-- [[myrcene]] — Dominant terpene responsible for sedative properties

@@ -119,7 +119,7 @@ Before working in the flow hood:
 - [[laminar-flow-hood-construction-hepa-filter]]
 
 - [[laminar-flow-hood-guide]] — laminar flow hood usage guide
-- [[mushroom-cultivation-sterile-technique]] — sterile technique overview
+- [[mushroom-cultivation-fundamentals]] — sterile technique overview
 - [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
 - [[agar-work-guide]] — agar work procedures
 - [[mushroom-grow-equipment]] — equipment guide

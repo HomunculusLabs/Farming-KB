@@ -148,4 +148,3 @@ Frank's vision of a world where plants and fungi are fundamentally
 interconnected has been vindicated by modern science, though the full
 implications of his hypothesis continue to unfold as research reveals
 new dimensions of mycorrhizal ecology, from [[common-mycorrhizal-networks]]
-to interplant nutrient transfer and chemical communication.

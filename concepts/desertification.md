@@ -148,5 +148,3 @@ ranches across Africa, Australia, and the
 Americas.
 
 ## See Also
-
-- [[cistanche-tubulosa]]

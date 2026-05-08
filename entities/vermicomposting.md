@@ -3,7 +3,7 @@ title: "Vermicomposting"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - composting
   - soil-biology
   - eisenia-fetida
@@ -22,23 +22,21 @@ sources:
   - Dominguez, J. (2004). "State of the Art and New Perspectives on Vermicomposting." In C.A. Edwards (ed.), "Earthworm Ecology." 2nd ed. CRC Press.
   - Ndegwa, P.M. & Thompson, S.A. (2001). "Integrating composting and vermicomposting." Bioresource Technology, 76(2), 107–112.
 ---
-
 # Vermicomposting
 
 ## Overview
 
 Vermicomposting is the bioconversion of organic waste into nutrient-rich
-vermicast (worm castings) using epigeic earthworm species, primarily
+vermicast ([[ingham-vermicompost-worm-castings]]) using epigeic earthworm species, primarily
 *Eisenia fetida* (red wiggler) and *Eisenia andrei* (red tiger worm).
 It is a mesophilic process operating at 15–25°C, distinguishing it
 from thermophilic composting which relies on microbial heat generation.
 
-The process produces vermicast — a humus-like material rich in plant-
-available nutrients, beneficial microorganisms, plant growth hormones,
-and humic acids. Vermicast consistently outperforms conventional
-compost in germination trials, plant growth promotion, and disease
-suppression, making it a cornerstone of organic farming, permaculture
-design, and regenerative agriculture.
+The process produces vermicast — a humus-like material rich in planforest-and-bamboo-beneficial-microorganismseneficial microorganis [[solomon-soil-temperature-and-nighttime-plant-growth]] ns-plant-growth-hormones]] ones,
+[[humic-acids-soil-biology-ingham]] cids. Vermicast consistently outperforms conventional
+compost in germination trials, pl [[brassinosteroid-fungal-growth-promotion]] ti [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] ease
+suppression, making it a cornerstone [[organic-farming-methods-comparison]] ming, permaculture
+design, and [[regenerative-agriculture]].
 
 ## Key Organism Species
 
@@ -108,7 +106,7 @@ Vermicast differs from conventional compost in several important ways:
 - **Plant growth hormones:** Auxins, gibberellins, cytokinins produced
   during gut transit
 - **Humic substances:** 6–20% humic and fulvic acids, chelating
-  micronutrients and improving cation exchange capacity
+  micronutrients and improving [[cation-exchange-capacity]]
 - **Disease suppression:** Antibiotic-producing organisms suppress
   soilborne pathogens (*Pythium*, *Rhizoctonia*, *Fusarium*)
 
@@ -148,10 +146,3 @@ A well-managed household bin (0.5–1 kg worms) processes 0.5–1 kg of
 food waste per day, producing roughly 0.25–0.5 kg of vermicast.
 Commercial operations process 1–5 tonnes of organic waste per day.
 Vermicast is typically applied at 5–20% by volume in potting mixes or
-0.5–2 kg/m² as a soil amendment.
-
-## See Also
-
-- [[cation-exchange-capacity]]
-- [[composting]]
-- [[composting-systems]]

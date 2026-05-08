@@ -139,40 +139,9 @@ plant community toward more manageable species. The final clover cover
 provides nitrogen fixation, soil protection, and a habitat favorable to
 fruit production, all without the need for chemical inputs.
 
-## Paradise on Earth
-
-Fukuoka concludes his description with an unambiguous value judgment: a
-natural orchard in which full, three-dimensional use of space is made in
-this way is entirely different from conventional orchards that employ
-high-production techniques. For the individual wishing to live in
-communion with nature, this is truly a paradise on earth.
-
-This is not mere rhetoric. The three-dimensional orchard embodies
-Fukuoka's core principles: non-intervention wherever possible, working
-with natural processes rather than against them, and recognizing that true
-productivity arises from the health and diversity of the entire ecosystem,
-not from the maximization of any single crop.
-
-## Energy Efficiency and Soil Building
-
-The multi-layered design has important implications for energy efficiency.
-A conventional orchard captures solar energy only through the canopy of a
-single tree species, with bare soil between rows absorbing and reradiating
-heat without productive use. The three-dimensional orchard captures
-energy at multiple levels: through the tree canopy, through the understory
-shrubs and vines, through the ground cover of green manure and vegetables,
-and through the soil itself, which is protected from direct sun and
-maintained at more stable temperatures and moisture levels.
-
-It is far wiser to plant green manure trees and encourage the soil within
-the orchard to enrich naturally than to apply fertilizer. One foot of
-topsoil holds enough nutrients to sustain fruit trees for ten years
-without fertilization; similarly, three feet of rich soil can probably
-supply enough nutrients for about thirty years.
-
 ## See Also
 
-- [[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
+- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]

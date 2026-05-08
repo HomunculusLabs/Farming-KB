@@ -102,7 +102,7 @@ Gravitropism knowledge is applied in several agricultural and horticultural cont
 
 ## See Also
 
-- [[Plant Vision and Light Perception]]
-- [[Phototropism and Blue Light Receptors]]
-- [[Auxin Transport and Polar Cell Growth]]
-- [[Plant Mechanoperception and Thigmomorphogenesis]]
+- [[plant-vision-and-light-perception]]
+- [[phototropism-and-blue-light-receptors]]
+- [[auxin-transport-and-polar-cell-growth]]
+- [[plant-mechanoperception-and-thigmomorphogenesis]]

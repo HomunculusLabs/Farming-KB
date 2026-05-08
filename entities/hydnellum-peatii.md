@@ -107,6 +107,6 @@ same family.
 - [[ectomycorrhizal-fungi]]
 - [[mycorrhizal-fungi]]
 - [[suillus-luteus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[laccaria-laccata]]
 - [[paxillus-atrotomentosus]]

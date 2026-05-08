@@ -135,7 +135,7 @@ wood-inhabiting Psilocybe species.
 - [[psilocybe-weilii-species-profile]] Concepts
 
 - psilocybe caerulipes
-- [[psilocybe-cyanescens-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - woodlovers cultivation
 - riparian [[fungal-ecology]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]

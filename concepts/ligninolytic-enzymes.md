@@ -147,5 +147,3 @@ an important consideration for substrate formulation in mushroom cultivation:
 too much nitrogen supplementation can suppress enzyme production and reduce
 
 ## See Also
-
-- [[oyster-mushroom-substrates]]

@@ -61,7 +61,7 @@ For crop management, see [[growing-beans-peas-legume-guide]] and [[solomon-growi
 The most important transfer happens after plant tissues die and decompose.
 Roots, nodules, leaves, and stems feed bacteria, fungi, protozoa, nematodes, earthworms, and other decomposers.
 Those organisms mineralize organic nitrogen into plant-available forms over time.
-The process connects beans and peas to the broader [[nitrogen-cycle-in-soil]].
+The process connects beans and peas to the broader [[composting-and-soil-biology]].
 It also connects them to [[query-what-is-the-soil-food-web-and-why-does-it-matter]].
 Leaving residues in place is usually more important than the exact companion-planting geometry.
 

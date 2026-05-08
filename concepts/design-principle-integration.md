@@ -9,7 +9,7 @@ sources:
 ---
 # Design Principle Integration in Permaculture
 
-Holmgren's eighth design principle -- "Integrate Rather Than Segregate" -- is one of the most conceptually rich principles in the permaculture framework. It encompasses the analysis of ecological relationships, functional design strategies, industrial redesign, and the rebuilding of human community. The proverb "many hands make light work" reminds us of the intangible benefits from collective rather than solitary action as well as the synergistic nature of integrated systems in which the whole is greater than the sum of the parts. This principle connects directly to [[permaculture-design]], [[permaculture-principle-integrate-rather-than-segregate]], and [[competition-cooperation-permaculture]].
+Holmgren's eighth design principle -- "Integrate Rather Than Segregate" -- is one of the most conceptually rich principles in the permaculture framework. It encompasses the analysis of ecological relationships, functional design strategies, industrial redesign, and the rebuilding of human community. The proverb "many hands make light work" reminds us of the intangible benefits from collective rather than solitary action as well as the synergistic nature of integrated systems in which the whole is greater than the sum of the parts. This principle connects directly to [[permaculture-design]], [[permaculture-design-principles]], and [[competition-cooperation-permaculture]].
 
 ## Integration in Nature
 
@@ -113,8 +113,8 @@ Contemporary permaculture design builds on Holmgren's integration principle thro
 
 ## See Also
 
-- [[permaculture-principle-integrate-rather-than-segregate]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-design-principles]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[competition-cooperation-permaculture]]
 - [[guild-design-methodology]]
 - [[permaculture-design]]

@@ -1,5 +1,5 @@
 ---
-title: "Stropharia ambigua"
+title: "stropharia ambigua"
 created: 2026-04-28
 type: species
 tags:
@@ -22,9 +22,8 @@ sources:
   - Stamets P. "Growing Gourmet and Medicinal Mushrooms." 3rd ed.
     Ten Speed Press, 2000.
   - Bessette AE, Bessette AR, Fischer DW. "Mushrooms of Northeastern
-    North America." Syracuse University Press, 1997.
+    [[palmer-edible-mushrooms-north-america]]." Syracuse University Press, 1997.
 ---
-
 # Stropharia ambigua
 
 ## Overview
@@ -32,16 +31,15 @@ sources:
 *Stropharia ambigua* is a saprotrophic basidiomycete in the family
 Strophariaceae, commonly known as the ambiguous Stropharia. It is a
 widespread wood-decomposing mushroom found across temperate North
-America and Europe, fruiting on woody debris, wood chips, and forest
+America and Europe, fruiting on [[fungal-diversity-leaf-litter-coarse-woody-debris]], wood chips, and forest
 litter.
 
-The species is frequently confused with the larger wine-cap (*S.
+The specieswine-cap-mushroom-cultivationuently confused with the larger wine-cap (*S.
 rugosoannulata*), differing by its smaller stature, paler cap, and
 evanescent annulus. Considered edible but of limited culinary value,
 with thin cap flesh and mild flavor. No toxicity is reported, but
 positive identification is recommended before consumption. Beyond
-culinary use, *S. ambigua* plays a notable ecological role in woody
-substrate decomposition and nutrient cycling.
+culinary use,[[decomposition]] plays a notable ecological role in wo [[teaming-with-nutrients-composting-and-nutrient-cycling]] osition and nutrient cycling.
 
 ## Taxonomy
 
@@ -56,7 +54,7 @@ substrate decomposition and nutrient cycling.
 
 **Synonyms:** *Agaricus ambiguus* Murrill (1912), *Naematoloma
 ambiguum* (Murrill) Singer (1951), *Psilocybe ambigua* (Murrill)
-A.H. Sm. (1947). The epithet *ambigua* reflects the historical
+A.H. Sm. (1947). The epithet *ambig [[mushroom-identification-taxonomic-confusion]] storical
 taxonomic confusion surrounding this mushroom.
 
 ## Morphology
@@ -67,7 +65,7 @@ variable — pale buff, cream, tan, or light brown. Margin often with
 transient white veil remnants when young.
 
 **Gills:** Adnate to adnexed, moderately close, initially pale gray
-becoming dark purplish-brown with spore maturity. Edges paler than
+becomi [[spore]] rk purplish-brown with spore maturity. Edges paler than
 gill faces.
 
 **Stipe:** 4–8 cm long, 3–8 mm thick, cylindrical. Surface white to
@@ -76,7 +74,7 @@ membranous annulus near the apex that is evanescent and often
 disappears in mature specimens.
 
 **Spores:** 10–13 × 6–8 µm, ellipsoid to slightly amygdaliform,
-smooth, thick-walled, with a conspicuous germ pore. Spore print
+smooth, thick-walled, wi [[spore-print-collection-spore-mass-inoculation]] cuous germ pore. Spore print
 dark purplish-brown.
 
 ## Distribution and Habitat
@@ -86,7 +84,7 @@ Northwest, California, eastern deciduous forests) and Europe (British
 Isles, Scandinavia, Central Europe).
 
 The species fruits in scattered to gregarious clusters on woody debris
-including decaying logs, branches, wood chips, and mulched garden beds.
+including decaying logs, branches, wood chips, and mulched [[natural-farming-guide-hugelkultur-mounded-garden-beds]].
 It prefers coniferous and mixed hardwood substrates, particularly
 Douglas-fir, alder, and oak.
 
@@ -97,7 +95,7 @@ rainfall.
 
 ## Ecological Role
 
-As a white-rot fungus, *S. ambigua* secretes ligninolytic enzymes
+As a white-rot fungus, *S. ambigua* secretes [[ligninolytic-enzymes]]
 (laccase, manganese peroxidase) that break down lignin and cellulose
 in dead wood, driving nutrient cycling in forest ecosystems.
 
@@ -112,7 +110,7 @@ small mammals.
 - ***S. rugosoannulata*** (wine-cap): Larger (cap 5–15 cm), deeper
   red-brown, persistent robust annulus.
 - ***S. hornemannii***: Viscid cap, conifer specialist, larger spores.
-- ***Hypholoma fasciculare*** (sulfur tuft): Poisonous, yellow-green
+- ***[[hypholoma-fasciculare]]*** (sulfur tuft): Poisonous, yellow-green
   gills, bitter taste.
 
 ## Bioactive Compounds
@@ -148,10 +146,3 @@ suggests similar parameters:
 - **Fruiting trigger:** Sustained rainfall or heavy watering
 
 Spontaneous fruiting in wood-chip gardens suggests the species can be
-encouraged through habitat creation rather than formal inoculation.
-
-## See Also
-
-- [[decomposition]]
-- [[ergosterol]]
-- [[hypholoma-fasciculare]]

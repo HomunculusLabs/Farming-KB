@@ -117,4 +117,3 @@ The plant is not listed under the Convention on International Trade in Endangere
 - strychnos nux vomica
 - [[hydrastis-canadensis]]
 - [[papaver-somniferum]]
-

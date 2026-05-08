@@ -121,7 +121,7 @@ While clay pellets are remarkably versatile, Fukuoka acknowledged several practi
 ## See Also
 
 - [[fukuoka-natural-farming-principles]]
-- [[fukuoka-no-till-rice-barley-succession]]
+- [[no-till-rice-barley-succession]]
 - [[direct-seeding-techniques]]
 - [[desert-revegetation]]
 - [[jeavons-seed-propagation-techniques]]

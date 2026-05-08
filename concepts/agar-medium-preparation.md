@@ -36,7 +36,7 @@ preparation gives more control. PDA is preferred for [[shiitake-cultivation-log-
 - **Dog Food Agar (DFA):** 20g agar, 1 liter water, 40g dry dog food blended 
 and boiled for 20 minutes, then strained through a coffee filter. The high 
 protein and fat content produces exceptionally fast, rhizomorphic growth, 
-particularly for [[psilocybe-cubensis-profile]]. DFA is also effective for 
+particularly for [[psychedelic-mushrooms-species-and-identification]]. DFA is also effective for 
 [[lions-mane-cultivation]] and other species that benefit from nitrogen-rich substrates. 
 
 The downside is shorter shelf life — DFA plates should be used within 2-3 
@@ -125,6 +125,6 @@ limits airborne contamination during storage.
 
 ## Related
 - [[agar-work-guide]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]
 - [[contamination-identification-prevention]]
 - [[mushroom-microwave-sterilization]]

@@ -148,4 +148,3 @@ monoamine oxidase degradation.
 - [[pihkal-mda-family]] — MDA, MDMA, and empathogenic compounds
 - [[phenethylamine-chemistry-basics]] — Biography of the chemist
 - [[phenethylamine-chemistry-basics]] — Overview of the broader class
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — Pharmacological targets

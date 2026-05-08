@@ -148,8 +148,3 @@ Black chokeberry is among the most polyphenol-dense fruits known:
 - [[hippophae-rhamnoides]]
 
 - [[hippophae-rhamnoides]]
-- [[sambucus-nigra]]
-- [[morus-alba]]
-- [[vaccinium-myrtillus]]
-- [[ribes-nigrum]]
-- [[food-forest-permaculture]]

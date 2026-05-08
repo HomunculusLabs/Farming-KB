@@ -17,7 +17,7 @@ sources:
 
 Unlike animals, plants cannot flee from herbivores or pathogens. Instead, they have evolved an extraordinary arsenal of **secondary metabolites** — chemical compounds that are not directly involved in growth, development, or reproduction, but serve critical ecological functions including defense against herbivores, resistance to pathogens, competition with other plants (allelopathy), attraction of pollinators and beneficial organisms, and protection from abiotic stressors like UV radiation.
 
-These compounds are called "secondary" because they are produced from the primary metabolic pathways (glycolysis, the shikimate pathway, the mevalonate and methylerythritol phosphate pathways) through branching enzymatic reactions. There are estimated to be over 200,000 distinct secondary metabolites across the plant kingdom, and any given species may produce hundreds to thousands of them.
+These compounds are called "secondary" because they are produced from the [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways (glycolysis, the shikimate pathway, the mevalonate and methylerythritol phosphate pathways) through branching enzymatic reactions. There are estimated to be over 200,000 distinct secondary metabolites across the plant kingdom, and any given species may produce hundreds to thousands of them.
 
 For growers, understanding plant defense chemistry is essential for selecting pest-resistant varieties, designing companion planting strategies, managing crop stress to optimize phytochemical production (especially in medicinal herbs), and reducing dependence on external pesticide inputs.
 
@@ -41,7 +41,7 @@ Alkaloids often accumulate in specific tissues — leaves, seeds, or roots — a
 
 ### Terpenoids and Terpenes
 
-Terpenoids constitute the largest class of plant secondary metabolites, with over 40,000 known structures. They are built from isoprene (C5) units and range from volatile essential oils (monoterpenes, sesquiterpenes) to complex polymers (rubber, gutta-percha).
+Terpenoids constitute the largest class of [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] metabolites, with over 40,000 known structures. They are built from isoprene (C5) units and range from volatile essential oils (monoterpenes, sesquiterpenes) to complex polymers (rubber, gutta-percha).
 
 **Monoterpenes (C10)** are volatile and contribute to the characteristic scents of many herbs. Examples include menthol (peppermint), limonene (citrus), pinene (pine), and thymol (thyme). These compounds serve multiple roles: repelling herbivores, inhibiting microbial growth, attracting pollinators, and — in some cases — signaling between plants.
 
@@ -120,7 +120,7 @@ Cassava (*Manihot esculenta*) is a staple food for ~800 million people but conta
 
 **Benzoxazinoids** are found primarily in grasses (Poaceae), especially maize, wheat, and rye. DIMBOA (2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one) provides resistance against European corn borer and various fungal pathogens. Benzoxazinoids are also allelopathic, explaining the weed-suppressive effect of rye cover crop residues.
 
-**Protease inhibitors** are proteins that inhibit digestive enzymes in insect herbivores. Found in many legumes and solanaceous crops, they reduce the nutritional value of plant tissue for insects. Tomato and potato upregulate protease inhibitors systemically after herbivore attack.
+**Protease inhibitors** are proteins that inhibit digestive enzymes in insect herbivores. Found in many legumes and solanaceous crops, they reduce the nutritional value of [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] for insects. Tomato and potato upregulate protease inhibitors systemically after herbivore attack.
 
 **Lectins** are carbohydrate-binding proteins that can be toxic to insects and mammals. Phytohemagglutinin in raw kidney beans is a well-known example — it must be deactivated by cooking.
 
@@ -192,7 +192,7 @@ However, some pathogens exploit this antagonism. *Pseudomonas syringae* produces
 
 - **Ethylene** — often acts synergistically with JA; regulates defense gene expression, senescence, and fruit ripening
 - **Systemin** — an 18-amino-acid peptide hormone (first discovered in tomato) that amplifies the JA response
-- **Reactive oxygen species (ROS)** — hydrogen peroxide and superoxide radicals act as both antimicrobial agents and signaling molecules
+- **[[reactive-oxygen-species-and-oxidative-stress]] (ROS)** — [[hydrogen-peroxide-tissue-culture-wild-polypores]] and superoxide radicals act as both antimicrobial agents and signaling molecules
 - **Calcium signaling** — cytosolic Ca²⁺ fluxes are among the earliest responses to pathogen recognition
 - **Nitric oxide (NO)** — acts as a signaling molecule in both biotic and abiotic stress responses
 
@@ -280,7 +280,7 @@ Allelopathy is the biochemical suppression of competing plants through the relea
 Well-documented allelopathic interactions include:
 
 - **Black walnut** (*Juglans nigra*) — juglone, a naphthoquinone that inhibits growth of many understory species (tomatoes, potatoes, apples, and many others are sensitive)
-- **Sunflower** — phenolic compounds and terpenes in root exudates and leaf litter
+- **Sunflower** — phenolic compounds and terpenes in root exudates and [[leaf-litter-microfungal-diversity-tropical-temperate]]
 - **Rye** — benzoxazinoids from decomposing rye residues suppress weed germination (basis for rye as a winter cover crop for weed suppression)
 - **Sorghum** — sorgoleone, a lipid benzoquinone exuded from roots, is one of the most potent natural herbicides known
 - **Eucalyptus** — phenolic compounds and volatile oils that inhibit understory growth
@@ -370,10 +370,10 @@ Modern crop breeding programs increasingly focus on restoring or enhancing natur
 Organic and regenerative growers leverage plant defense chemistry through:
 
 - **Compost and biological inputs** — healthy soil biology primes plant immune systems (induced systemic resistance via beneficial microbes)
-- **Mycorrhizal inoculation** — arbuscular mycorrhizal fungi enhance plant defense signaling, increasing JA pathway responsiveness
+- **Mycorrhizal inoculation** — [[arbuscular-mycorrhizal-colonization-patterns]] fungi enhance plant defense signaling, increasing JA pathway responsiveness
 - **Mineral nutrition** — adequate silicon, calcium, and potassium strengthen physical and chemical defenses
 - **Biodiverse plantings** — polycultures with aromatic herbs provide background VOC exposure that primes crop defenses
-- **Minimal tillage** — preserves mycorrhizal networks that facilitate interplant defense signaling
+- **Minimal tillage** — preserves [[mycorrhizal-networks-and-forest-communication]] that facilitate interplant defense signaling
 
 ## Conclusion
 

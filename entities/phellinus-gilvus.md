@@ -111,7 +111,7 @@ similar taxa that have been partially resolved through molecular phylogenetics.
 
 ## See Also
 
-- [[phellinus-igniarius]]
+- [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
 - [[phellinus-pomaceus]]
 - [[trametes-versicolor]]

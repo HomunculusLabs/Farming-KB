@@ -148,4 +148,3 @@ nutrient access and long-term carbon storage. The practical question is not
 - [[arbuscular-mycorrhizal-fungi]] — AMF biology and crop associations
 - [[ectomycorrhizal-ecology]] — ECM anatomy, diversity, and forest dynamics
 - [[mycorrhizal-networks-common-mycelial-network]] — shared fungal networks
-- [[fungal-role-in-phosphorus-cycling]] — phosphorus dynamics via mycorrhizae

@@ -148,4 +148,3 @@ bioremediation at the systems level.
 
 - [[singh-fungal-community-analysis-molecular-methods]]
 - [[singh-cytochrome-p450-fungal-bioremediation]]
-- [[singh-key-fungal-genera-bioremediation]]

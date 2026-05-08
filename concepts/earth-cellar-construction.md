@@ -135,5 +135,5 @@ In cold climates with deep frost penetration, the cellar must be built below the
 
 - [[natural-building-materials-guide]] — selecting appropriate materials for earth-integrated structures
 - [[stone-cellar-building]] — the more permanent alternative using stone construction
-- [[holzer-raised-bed-design]] — Holzer's terracing and earthwork principles
+- [[sepp-holzer-permaculture-and-rebel-farming]] — Holzer's terracing and earthwork principles
 - [[hugelkultur-bed-construction-detailed]] — buried wood as thermal mass and moisture reservoir

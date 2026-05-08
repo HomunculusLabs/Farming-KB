@@ -80,8 +80,8 @@ Baeocystin, norbaeocystin, and aeruginascin are closely related to psilocin and 
 - [[psilocybin-mushroom-lookalikes]]
 - [[psilocybin-mushroom-habitats-ecology]]
 - [[psilocybe-azurescens-profile]]
-- [[psilocybe-semilanceata-profile]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## Safety and Identification
 

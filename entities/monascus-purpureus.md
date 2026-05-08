@@ -117,7 +117,7 @@ In permaculture design, Monascus fermentation represents a rare example of a fun
 - [[armillaria-mellea]]
 - [[panus-tigrinus]]
 - [[stropharia-rugosoannulata]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[volvariella-volvacea]]
 - [[morchella-esculenta]]
 - [[flammulina-velutipes]]

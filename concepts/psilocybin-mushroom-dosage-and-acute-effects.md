@@ -27,7 +27,7 @@ hydroxytryptamine or 5-HT). Psilocybin (4-phosphoryloxy-N,N-
 dimethyltryptamine, or 4-PO-DMT) is the phosphate ester of psilocin
 (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT). Psilocybin is more
 stable in air and is water soluble, but it is converted in the body
-into [[psilocin]], which is the pharmacologically active compound. Alongside [[psilocybin]] and psilocin, [[baeocystin]] and [[norbaeocystin]] are also present in many species.
+into [[psilocin]], which is the pharmacologically active compound. Alongside [[psilocybin-compound]] and psilocin, [[baeocystin]] and [[norbaeocystin]] are also present in many species.
 
 Psilocin acts on the serotonin system as a 5-HT2A post-synaptic
 agonist or partial agonist. Beside psilocybin and psilocin, two
@@ -43,7 +43,7 @@ Coprinaceae (Copelandia and Panaeolus genera), and Cortinariaceae
 Mushroom potency depends on the species or variety, their origin,
 growing conditions, and age. The most potent species (e.g. [[psilocybe-semilanceata|Psilocybe semilanceata]]) can contain up to 1% psilocybin, with even higher
 potency reported in specific species like [[psilocybe-azurescens|Psilocybe azurescens]] and
-[[psilocybe-bohemica-central-european]]. In other species such as [[psilocybe-cubensis-profile]],
+[[psilocybe-bohemica-central-european]]. In other species such as [[psychedelic-mushrooms-species-and-identification]],
 psilocybin and psilocin concentrations reach up to 0.6%. These values
 are for initial orientation only, as concentrations vary considerably.
 

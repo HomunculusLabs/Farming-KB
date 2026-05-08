@@ -148,4 +148,3 @@ auto-flowering versions by Dutch Passion.
 - [[strawberry-cough]]
 - [[beta-caryophyllene]]
 - [[myrcene]]
-- [[limonene]]

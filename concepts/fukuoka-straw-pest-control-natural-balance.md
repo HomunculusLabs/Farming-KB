@@ -117,7 +117,7 @@ environment.
 
 ## See Also
 
-- [[fukuoka-straw-four-principles]]
+- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-natural-farming-philosophy]]
 - [[fukuoka-straw-vegetable-growing]]
 - [[fukuoka-straw-rice-without-plowing]]

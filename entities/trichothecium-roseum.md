@@ -120,7 +120,7 @@ guarantee ecological dominance in fungal communities.
 Related: [[gliocladium-roseum]], [[mollison-designers-charcoal-production-biochar-soil-amendment]], [[dighton-fungal-soil-crust-primary-production]]
 
 - [[fungal-plant-diseases]]
-- [[mycopesticides-fungal-biocontrol]]
+- [[mushroom-cultivation-fundamentals]]
 - [[clonostachys-rosea]]
 - verticillium luteo album
 - [[coniothyrium-minitans]]

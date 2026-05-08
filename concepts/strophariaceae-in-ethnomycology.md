@@ -139,39 +139,6 @@ human relationship with these fungi. McKenna connected the suppression of
 mushroom-based shamanic practices with the rise of what he called "dominator
 culture" — hierarchical, patriarchal, and warlike social organizations that
 replaced earlier partnership-based societies. Drawing on Riane Eisler's
-framework from The Chalice and the Blade, McKenna argued that the destruction
-of ancient mushroom cults of Minoan Crete and the Eleusinian mysteries marked a
-turning point in Western civilization.
-
-## New Guinea and Beyond
-
-Beyond Mesoamerica, the Strophariaceae have played important roles in other
-indigenous cultures. Singer (1958, 1960), Heim (1963, 1965), and Heim and
-Wasson (1965) documented the use of Psilocybe, Russula, and boletaceous
-fungi as sacred mushrooms among several aboriginal groups in New Guinea. These
-practices, while less extensively documented than Mexican traditions, suggest
-that the human use of psilocybin mushrooms arose independently in multiple
-locations — consistent with the broad global distribution of the genus and the
-likelihood that psychoactive properties were discovered repeatedly by different
-cultures throughout human prehistory.
-
-## Modern Legal and Recreational Context
-
-The recreational use of psilocybin mushrooms expanded dramatically from the
-1960s onward, leading to legal prohibition in most countries. The EMCDDA's 2006
-report documented an "emerging trend" in Europe, with smartshops in the
-Netherlands marketing fresh and dried mushrooms, internet sales growing
-rapidly, and six EU countries tightening legislation between 2001 and 2006:
-Denmark, the Netherlands, Germany, Estonia, the UK, and Ireland.
-
-[[psilocybe-cubensis]] was the most commonly marketed species, sold under
-variety names such as "Mexican," "Thai," "Colombian," and "Amazonian."
-Sclerotia-forming species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis]], sold as "truffles" or "philosopher's stones," were also
-commercially available. Legal responses led to emerging interest in alternative
-psychoactive mushrooms, particularly [[amanita-muscaria]], which presents
-distinct and potentially serious toxicity risks due to its ibotenic acid and
-muscimol content.
-
 ## See Also
 
 - [[ethnomycology-wasson-discovery-narrative]]

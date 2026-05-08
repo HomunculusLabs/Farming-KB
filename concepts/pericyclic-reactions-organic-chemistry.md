@@ -148,7 +148,3 @@ from a single TS. Machine learning models now predict pericyclic outcomes with h
 - [[hamilton-organic-seed-saving-propagation]]
 
 - molecular orbital theory — Quantum mechanical foundation for orbital symmetry analysis
-- aromaticity huckel rule — Hückel's 4n+2 rule applied to transition state aromaticity
-- heterocyclic chemistry — Related nitrogen-containing heterocycle ring chemistry
-- named organic reactions — Broader catalog of named organic chemistry transformations
-- retrosynthetic analysis — Strategic use of pericyclic reactions in synthesis planning

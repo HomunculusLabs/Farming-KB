@@ -83,7 +83,7 @@ Shulgin acknowledged this variation by including reports from multiple individua
 
 While Shulgin developed his titration methodology for novel phenethylamines, the underlying principles apply broadly to all psychedelic compounds. The [[psilocybin-mushroom-potency-and-dosage-guide]] and the [[cannabis-dosing-and-titration]] both illustrate situations where careful, incremental dosing is essential for safety.
 
-Modern clinical research protocols have formalized versions of Shulgin's approach, typically involving carefully graded dose-escalation studies with extensive monitoring. The [[psychedelic-assisted-therapy-protocol]] developed by organizations like MAPS similarly emphasize starting with low doses and adjusting based on individual response.
+Modern clinical research protocols have formalized versions of Shulgin's approach, typically involving carefully graded dose-escalation studies with extensive monitoring. The psychedelic assisted therapy protocol developed by organizations like MAPS similarly emphasize starting with low doses and adjusting based on individual response.
 
 ## Dosage Guidelines Format
 

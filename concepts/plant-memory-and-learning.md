@@ -148,4 +148,3 @@ of what plants are capable of remembering.
 
 - [[plant-olfaction-and-chemical-sensing]]
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]

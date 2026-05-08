@@ -148,5 +148,3 @@ Wattle and daub and cob are complementary rather than competing techniques. Both
 - [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[comparison-papercrete-vs-cob-construction]]
 - [[comparison-bamboo-construction-vs-cob-building]]
-- [[comparison-cob-building-vs-adobe-construction]]
-- [[comparison-earthbag-construction-vs-cob-construction]]

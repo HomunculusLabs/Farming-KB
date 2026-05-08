@@ -61,7 +61,7 @@ Culture-independent approaches fall into two groups:
 
 2. **Community fingerprint methods**: T-RFLP, ARISA, RISA, and DGGE/TGGE provide community profile patterns useful for comparing communities and tracking changes.
 
-These [[molecular-methods-fungal-taxonomy-and-diversity]] are increasingly combined with high-throughput sequencing to reveal previously hidden diversity in [[fungal-biodiversity-soil-habitats]] and other environments.
+These [[molecular-methods-fungal-taxonomy-and-diversity]] are increasingly combined with high-throughput sequencing to reveal previously hidden diversity in [[the-soil-food-web]] and other environments.
 
 ## Challenges with Environmental Samples
 

@@ -116,7 +116,7 @@ The concentration of species in tropical Mexico, the Caribbean, Colombia, and th
 
 ## Conservation Implications
 
-The biogeographic asymmetry has direct implications for conservation. Tropical and subtropical species face disproportionate threats from [[mycorrhizal-deforestation-cascade]] and [[habitat destruction]]. Regions like the Amazon Basin, Southeast Asia, and Central Africa, which harbor the highest diversity of psychoactive fungi, are also experiencing the fastest rates of forest loss.
+The biogeographic asymmetry has direct implications for conservation. Tropical and subtropical species face disproportionate threats from [[mycorrhizal-deforestation-cascade]] and [[habitat-destruction]]. Regions like the Amazon Basin, Southeast Asia, and Central Africa, which harbor the highest diversity of psychoactive fungi, are also experiencing the fastest rates of forest loss.
 
 Many species are known from only a handful of collections, making population assessments extremely difficult. The IUCN Red List has evaluated only a small fraction of known Psilocybe species, and none of the neurotropic fungi have received comprehensive conservation assessment. The combination of restricted ranges, habitat specificity, and rapid environmental change suggests that many species may be declining before they are even adequately documented.
 

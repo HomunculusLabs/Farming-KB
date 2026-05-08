@@ -147,5 +147,3 @@ Fungal communities on decomposing plant material change over time:
 ## Ecological Significance
 
 ## See Also
-
-- [[microfungi-wood-plant-debris-diversity-trophic-biogeography]]

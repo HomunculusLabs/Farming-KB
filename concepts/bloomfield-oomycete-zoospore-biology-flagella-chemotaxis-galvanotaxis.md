@@ -20,7 +20,7 @@ type: concept
 
 # Oomycete Zoospore Biology: Flagella, Chemotaxis, and Galvanotaxis
 
-Oomycete water molds produce some of the most sophisticated motile cells in the fungal kingdom. Their zoospores are self-propelled search vehicles equipped with dual flagella, onboard sensory systems for chemical and electrical gradients, and a complex life cycle that alternates between swimming and encysted states. Understanding zoospore biology is essential because these cells are the infectious agents in diseases ranging from potato blight to frog chytridiomycosis and human pythiosis.
+Oomycete water molds produce some of the most sophisticated motile cells in the [[fungal-kingdom-overview]]. Their zoospores are self-propelled search vehicles equipped with dual flagella, onboard sensory systems for chemical and electrical gradients, and a complex life cycle that alternates between swimming and encysted states. Understanding zoospore biology is essential because these cells are the infectious agents in diseases ranging from potato blight to frog chytridiomycosis and human pythiosis.
 
 ## Two Types of Zoospore
 
@@ -96,7 +96,7 @@ Even confined to a microscope slide, zoospores demonstrate remarkable determinat
 
 ## Evolutionary Significance
 
-The dual existence of swimming zoospores and pressurized hyphae within a single oomycete life cycle reflects a deep evolutionary history. All fungi, including mushroom-forming basidiomycetes, are believed to have evolved from flagellated ancestors. Swimming spores are almost certainly more ancient inventions than branched mycelia. In this sense, every time an oomycete stops extending hyphae and releases a cloud of zoospores into the water, it displays a primeval fragment of its evolutionary past — a living fossil of the earliest fungal life forms.
+The dual existence of swimming zoospores and pressurized hyphae within a single oomycete life cycle reflects a deep evolutionary history. All fungi, including mushroom-forming basidiomycetes, are believed to have evolved from flagellated ancestors. Swimming spores are almost certainly more ancient inventions than branched mycelia. In this sense, every time an oomycete stops extending hyphae and releases a cloud of zoospores into the water, it displays a primeval fragment of its evolutionary past — a living fossil of the earliest [[fungal-life-cycles-sexual-reproduction-metamorphosis]] forms.
 
 ### Comparative Emptying: Pythium and Phytophthora
 

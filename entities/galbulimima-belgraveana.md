@@ -123,7 +123,7 @@ The plant itself is essentially unregulated; not scheduled by the DEA, not liste
 
 ## See Also
 
-- [[entheogenic-symbiosis-and-gaian-mind]]
+- [[ethnomycology]]
 - [[plant-intelligence-and-communication]]
 - [[nootropic-herbs-guide]]
 

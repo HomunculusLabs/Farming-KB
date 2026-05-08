@@ -147,5 +147,3 @@ and increase in effectiveness over time.
 
 The coastal zone is an edge of enormous productivity. With careful design that
 ## See Also
-
-- [[mollison-designers-aquatic-edge-planting-zones]]

@@ -127,4 +127,4 @@ Inulin-rich tubers are an excellent feedstock for **bioethanol production**. The
 - [[helianthus-annuus-entity]] — annual sunflower, close relative
 - [[colocasia-esculenta]] — taro, tropical starchy corm
 - diascorea alata — winged yam, tropical tuber
-- [[allium-sativum]] — garlic, companion plant
+- [[allium-sativum-entity]] — garlic, companion plant

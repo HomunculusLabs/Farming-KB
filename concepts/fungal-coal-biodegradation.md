@@ -43,7 +43,7 @@ Metal-chelating agents can also solubilize metal-containing mineral matter assoc
 
 ### Surfactant Production
 
-Some fungi produce biosurfactants that can emulsify and solubilize hydrophobic coal particles. [[biosurfactants-in-bioremediation]] reduce the surface tension at the coal-water interface, increasing the contact between fungal biomass and coal particles.
+Some fungi produce biosurfactants that can emulsify and solubilize hydrophobic coal particles. [[bioremediation-using-fungi]] reduce the surface tension at the coal-water interface, increasing the contact between fungal biomass and coal particles.
 
 ## Fungal Species for Coal Biodegradation
 
@@ -89,7 +89,7 @@ Coal waste treatment represents an environmental application of fungal coal biod
 - [[ligninolytic-enzymes-bioremediation]]
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-cytochrome-p450-biodegradation]]
-- [[biosurfactants-in-bioremediation]]
+- [[bioremediation-using-fungi]]
 - [[fungal-cosubstrate-enhanced-bioremediation]]
 - [[cotter-mycoremediation-overview]]
 - [[fungal-ligninolytic-enzymes-in-industrial-applications]]

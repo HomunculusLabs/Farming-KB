@@ -148,4 +148,3 @@ It also connects [[gunter-pauli]] to mycology, permaculture, and circular-econom
 - [[fungal-roles-in-mass-extinction-recovery]]
 - [[oyster-mushroom-spent-substrate-recycling]]
 - [[produce-no-waste-permaculture-principle]]
-- [[mycoremediation-biosorption-mechanisms]]

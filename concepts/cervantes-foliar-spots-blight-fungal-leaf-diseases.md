@@ -148,4 +148,3 @@ persist through flowering substantially diminish yield.
   wilt
 - [[cervantes-damping-off-seedling-disease-prevention]] -
   seedling disease
-- [[cervantes-troubleshooting-guide]] - problem diagnosis

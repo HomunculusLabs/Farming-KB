@@ -123,9 +123,9 @@ Pistachio offers the highest protein and lowest fat content. Macadamia is highes
 
 ## Best Uses in Permaculture and Agroforestry
 
-- **Macadamia:** Upper canopy tree in [[tropical food forests]]. Compatible as overstory shade for coffee, cacao, or ginger. Requires frost-free sites; best suited to subtropical [[agroforestry]] systems in Australia, Hawaii, East Africa, and Central America.
+- **Macadamia:** Upper canopy tree in [[tropical-food-forests]]. Compatible as overstory shade for coffee, cacao, or ginger. Requires frost-free sites; best suited to subtropical [[agroforestry]] systems in Australia, Hawaii, East Africa, and Central America.
 - **Pecan:** Streamside and riparian [[silvopasture]] in its native range. Compatible with cattle grazing between rows. Works in windbreaks on the southern Great Plains. Alternate bearing complicates understorey crop timing.
-- **Pistachio:** Arid-zone [[dryland agroforestry]]. Functions as a windbreak. Intercropping with winter annuals (barley, wheat) is practiced in Iran and Turkey. Low water demand makes it the most viable nut crop for water-scarce regions.
+- **Pistachio:** Arid-zone [[dryland-agroforestry]]. Functions as a windbreak. Intercropping with winter annuals (barley, wheat) is practiced in Iran and Turkey. Low water demand makes it the most viable nut crop for water-scarce regions.
 
 ## Summary and Decision Guide
 

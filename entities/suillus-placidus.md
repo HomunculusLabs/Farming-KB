@@ -73,7 +73,7 @@ European reports, particularly from Scandinavia and central Europe, may represen
 
 The slime layer on the cap must be removed before cooking. Most foragers peel the entire cap cuticle, which comes away readily. The pore surface should also be removed from mature specimens, as tubes can become soft and spongy.
 
-The flesh is soft and mild with a slightly nutty flavor when sautéed in butter. It does not preserve well by drying compared to other boletes such as [[boletus-edulis]]. It is best used fresh in simple preparations where its delicate texture can be appreciated.
+The flesh is soft and mild with a slightly nutty flavor when sautéed in butter. It does not preserve well by drying compared to other boletes such as [[boletus-edulis-entity]]. It is best used fresh in simple preparations where its delicate texture can be appreciated.
 
 No cases of allergic reactions have been documented, though individuals sensitive to other *Suillus* species should exercise caution. As with all wild mushrooms, positive identification is essential before consumption.
 
@@ -112,9 +112,9 @@ The key distinguishing features of *S. placidus* are the combination of white pa
 ## See Also
 
 - [[suillus-luteus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[laccaria-bicolor]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[pleurotus-ostreatus]]
 - [[fomes-fomentarius]]
 - [[stropharia-rugosoannulata]]

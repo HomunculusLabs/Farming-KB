@@ -85,7 +85,7 @@ This topic connects to several related areas in permaculture and regenerative de
 - [[permaculture-energy-storage-systems]] — Permaculture energy storage systems encompass the diverse strategies for capturing, holding, and releasing energy in its many forms across a permacult
 - [[permaculture-energy-systems]] — Permaculture energy systems are the integrated design and application of renewable energy technologies within permaculture landscapes and communities.
 - [[permaculture-non-renewable-energy-investment]] — Non-renewable energy investment in permaculture refers to the strategic use of finite, high-quality energy sources such as fossil fuels and industrial
-- [[permaculture-principle-catch-and-store-energy]] — The second of David Holmgren's twelve [[urban-permaculture-edge-effect-and-design-principles]]. In the context of energy descent, w
+- [[permaculture-design-principles]] — The second of David Holmgren's twelve [[urban-permaculture-edge-effect-and-design-principles]]. In the context of energy descent, w
 - [[permaculture-solar-energy-inventions]] — **Updated:** 2026-04-18
 - [[urban-permaculture-energy-cycling-principles]] — Urban permaculture applies the same principles as [[permaculture-design-course-methodology]] to city environments, focusing on cycling energy and res
 - [[holmgren-catch-and-store-energy-detailed]] — From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.

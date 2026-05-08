@@ -70,7 +70,7 @@ The species fruits from early September through November, corresponding to the a
 
 *Psilocybe weilii* is described as moderately potent among the psilocybin mushrooms. Chemical analysis has detected the following psychoactive tryptamine alkaloids:
 
-- [[psilocybin]] (the primary phosphorylated alkaloid and prodrug)
+- [[psilocybin-compound]] (the primary phosphorylated alkaloid and prodrug)
 - [[psilocin]] (the dephosphorylated, pharmacologically active metabolite)
 - [[baeocystin]] (a demethylated analog of psilocybin)
 
@@ -117,7 +117,7 @@ The combination of its northern Georgia distribution, association with loblolly 
 - list of psilocybin mushrooms: Index of known psychoactive fungal species
 - Hymenogastraceae: The taxonomic family containing bluing Psilocybe species
 - cortinate veil: The web-like partial veil characteristic of many Psilocybe species
-- [[psilocybin]]: The primary psychoactive compound found in bluing mushrooms
+- [[psilocybin-compound]]: The primary psychoactive compound found in bluing mushrooms
 - Hygrophanous: The color-changing property of mushroom caps upon drying
 - Rhizomorph: Root-like fungal structures anchoring the mushroom to substrate
 - Caerulescent: The bluing reaction characteristic of psilocybin-containing species

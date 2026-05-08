@@ -148,5 +148,3 @@ nitrogen deposition, reduces ectomycorrhizal
 - [[biodiversity-fungal-species-abundance-diversity]]
 - [[fungal-species-estimates-biodiversity-overview]]
 - [[fungal-species-estimation-methods-total-diversity]]
-- [[biodiversity-fungal-biodiversity-estimation-methods]]
-- [[cryptic-species-fungal-biodiversity]]

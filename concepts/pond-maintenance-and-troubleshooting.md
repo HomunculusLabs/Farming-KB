@@ -119,7 +119,7 @@ A pond is the connective tissue of a regenerative homestead:
 - **Duck forage**: Pond supports ducks year-round with aquatic plants, insects, and snails. See [[duck-keeping]].
 - **Irrigation relay**: Pond overflow → swales → [[cover-cropping-guide]] fields → [[water-management]] storage. No water leaves the property.
 - **Goat/duck watering**: Gravity-fed troughs from pond reduce well dependence. See [[goat-keeping]].
-- **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference [[cannabis-pest-management]].
+- **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference cannabis pest management.
 ## Getting Started Checklist
 1. **Assess site**: Soil test (clay content), watershed area, existing water flow
 2. **Check regulations**: County permits, dam safety (if embankment), fish stocking permits

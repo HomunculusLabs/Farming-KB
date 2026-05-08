@@ -16,9 +16,9 @@ Parasitoid wasps are a diverse group of hymenopteran insects that reproduce by l
 their eggs inside or on the bodies of other arthropods, primarily pest insects. Upon
 hatching, the wasp larvae consume the host from within, ultimately killing it. Families
 such as Aphelinidae, Encyrtidae, Braconidae, and Ichneumonidae include many species widely
-used in [[biological [[fungal-pest-control|pest control]]]]. Major commercial species include *Trichogramma* spp.
+used in [[biological-[[fungal-pest-control|pest control]]]]. Major commercial species include *Trichogramma* spp.
 (egg parasitoids of caterpillars and borers), *Aphidius* spp. (aphid parasitoids), and
-*Encarsia formosa* (whitefly parasitoid). They are a cornerstone of [[beneficial insects]]
+*Encarsia formosa* (whitefly parasitoid). They are a cornerstone of [[beneficial-insects]]
 programs in agriculture, with over 100 species produced commercially worldwide for release
 in field and protected cropping systems.
 
@@ -27,12 +27,12 @@ organophosphates, pyrethroids, neonicotinoids, diamides, and spinosyns—designe
 repel, or inhibit the growth of pest organisms. They have been the dominant approach to
 pest management since the mid-20th century and remain widely used due to their rapid
 knockdown effect, predictable efficacy, and ease of application at scale. However,
-concerns about [[resistance management]], non-target toxicity, environmental persistence,
+concerns about [[resistance-management]], non-target toxicity, environmental persistence,
 and regulatory restrictions have driven increased interest in biological alternatives across
 both conventional and organic production systems.
 
 The choice between parasitoid wasps and chemical pesticides is not binary. Within an
-[[integrated pest management]] (IPM) framework, both tools have important roles depending
+[[integrated-pest-management]] (IPM) framework, both tools have important roles depending
 on crop type, pest pressure, economic thresholds, and production system. This comparison
 examines their relative strengths and limitations across key dimensions to support informed
 decision-making for growers, agronomists, and pest management consultants.
@@ -116,14 +116,14 @@ in any form and leave no chemical residues on harvested produce or in the enviro
 
 Over a 3–5 year crop rotation, biological control programs often achieve cost parity or net
 savings compared to repeated chemical applications. This is especially true when factoring in
-[[resistance management]] costs (e.g., rotating to more expensive newer chemistries),
+[[resistance-management]] costs (e.g., rotating to more expensive newer chemistries),
 potential market premiums for certified production, and reduced regulatory compliance
 overhead. The economic case strengthens further when externalities such as water quality
 remediation, pollinator service losses, and public health costs are internalized.
 
 ## Integration Strategies
 
-Both approaches can be combined within an [[integrated pest management]] framework for
+Both approaches can be combined within an [[integrated-pest-management]] framework for
 synergistic, resilient pest control that leverages the strengths of each method while
 mitigating their respective weaknesses:
 
@@ -141,23 +141,6 @@ mitigating their respective weaknesses:
   target pest populations and preserve the efficacy of both tools.
 - **Use temporal separation**—apply short-residual chemicals early in the season or as
   a clean-up treatment, then introduce parasitoid wasps once residues have fully
-  degraded to non-toxic levels (typically 1–4 weeks depending on product).
-- **Monitor and scout thresholds rigorously** using sticky traps, visual inspection, and
-  parasitism rate assessment to time releases and chemical applications optimally,
-  avoiding unnecessary inputs from either approach and reducing overall pest management
-  costs.
-
-## Decision Matrix
-
-| Scenario | Preferred Approach | Rationale |
-|---|---|---|
-| **Organic farming** | Parasitoid wasps | Fully compatible with organic certification standards; no residue concerns; aligns with ecological management principles |
-| **Greenhouse production** | Parasitoid wasps | Enclosed environment favors parasitoid establishment and retention; standard practice in commercial greenhouse vegetable and ornamental production worldwide |
-| **Field crops (row crops)** | Chemical pesticides (primary) + parasitoids (supplementary) | Scale and speed favor chemicals for rapid response; parasitoids provide background suppression between spray windows and reduce total spray count |
-| **Orchard / vineyard** | Integrated—parasitoids for sustained control, selective chemicals for flare-ups | Perennial canopy supports parasitoid overwintering and population persistence; selective products preserve existing biocontrol networks |
-| **Urban garden** | Parasitoid wasps | Safe for people, pets, wildlife, and waterways; no spraying equipment or PPE needed; aligns with permaculture and ecological landscaping principles |
-| **Large-scale monoculture** | Chemical pesticides (dominant) | Logistics and economics of inundative releases at extreme scale remain challenging; however, IPM integration with targeted parasitoid releases is increasingly viable and recommended |
-
 ## See Also
 
 - [[beneficial-insects-pollinators]]

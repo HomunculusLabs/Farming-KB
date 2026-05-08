@@ -109,7 +109,7 @@ Internationally, the species is controlled under the UN Convention on Psychotrop
 ## See Also
 
 - [[psilocybe-cubensis]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[paul-stamets]]
@@ -118,4 +118,4 @@ Internationally, the species is controlled under the UN Convention on Psychotrop
 - [[5-meo-dmt]]
 - [[panaeolus-cyanescens]]
 - [[amanita-muscaria]]
-- [[mescaline]]
+- [[mescaline-entity]]

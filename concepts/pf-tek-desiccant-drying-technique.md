@@ -22,7 +22,7 @@ highest possible quality.
 
 ## Why Heat-Free Drying Matters
 
-The active compounds in [[psilocybin]] mushrooms, primarily psilocybin and
+The active compounds in [[psilocybin-compound]] mushrooms, primarily psilocybin and
 [[psilocin]], are heat-sensitive. Drying mushrooms in an oven or with hot air
 dryers leaches the chemical constituents and reduces their quality
 significantly. The PF TEK explicitly warns against ever using heat-based
@@ -148,4 +148,3 @@ Desiccant drying is the third element in Psilocybe Fanaticus's potency triad:
 grow on brown rice, harvest young, and cool dry with desiccant. When all three
 practices are followed together, [[psilocybe-cubensis]] achieves its maximum
 potential as an entheogenic mushroom, with potency rivaling that of wild
-[[psilocybe-semilanceata]]. Skipping any element, particularly the heat-free drying,

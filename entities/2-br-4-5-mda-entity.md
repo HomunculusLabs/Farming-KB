@@ -29,7 +29,7 @@ amphetamine-like. No other qualitative comments have been made available, and
 neither Shulgin nor anyone in his circle has tried it personally. At that high
 level, perhaps not.
 
-The extremely high dosage requirement of 350 mg (compared to [[mda-entity]]'s
+The extremely high dosage requirement of 350 mg (compared to [[mda]]'s
 typical range of 100-160 mg) strongly suggests that bromination at the
 2-position nearly eliminates the compound's psychedelic character. The
 remaining activity appears to be primarily stimulant/amphetamine-like in nature.
@@ -45,7 +45,7 @@ CH2Cl2, made basic with NaOH, and extracted with CH2Cl2. Removal of solvent
 and treatment with HCl gas in isopropanol gave the hydrobromide salt of
 2-bromo-4,5-methylenedioxyamphetamine as a white crystalline solid.
 
-This is a direct electrophilic bromination of the [[mda-entity]] molecule,
+This is a direct electrophilic bromination of the [[mda]] molecule,
 adding a bromine atom to the 2-position of the aromatic ring. The reaction
 proceeds via electrophilic aromatic substitution, with the bromine adding to
 the most activated position on the methylenedioxybenzene ring. The yield was
@@ -73,7 +73,7 @@ skeleton is rarely explored compared to the more common 4-bromo or 2,5-dibromo
 substitutions. This makes 2-Br-4,5-MDA a relatively obscure compound even
 within the PIHKAL collection.
 
-The extreme dosage requirement (350 mg) compared to [[mda-entity]] (100-160 mg)
+The extreme dosage requirement (350 mg) compared to [[mda]] (100-160 mg)
 represents a 2-3 fold decrease in potency, which is consistent with the general
 observation that blocking the 2-position of the phenethylamine ring tends to
 reduce affinity for the 5-HT2A receptor, the primary target for psychedelic
@@ -81,7 +81,7 @@ activity.
 
 ## Related Compounds
 
-- [[mda-entity]] -- 3,4-methylenedioxyamphetamine (parent compound)
+- [[mda]] -- 3,4-methylenedioxyamphetamine (parent compound)
 
 - [[mdma-entity]] -- 3,4-methylenedioxymethamphetamine
 

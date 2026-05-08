@@ -1,5 +1,5 @@
 ---
-title: "Bjerkandera adusta"
+title: "bjerkandera adusta"
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
@@ -24,15 +24,14 @@ genome_size: "~35-40 Mb"
 tags: [profile]
 sources: []
 ---
-
 # Bjerkandera adusta
 
-**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan white-rot
-basidiomycete in the order Polyporales. A saprotrophic decomposer of dead hardwood
-in temperate and boreal forests, it is scientifically notable for simultaneously
-producing all three major ligninolytic enzyme families — manganese peroxidase (MnP),
-lignin peroxidase (LiP), and laccase — a rare capability among white-rot fungi that
-makes it valuable for bioremediation, biobleaching, and wastewater treatment.
+**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
+basidiomycete in the order Polyporales. A saprotrophibiodiversity-fungi-temperate-boreal-forestsf dead hardwood
+in temperate and boreal forligninolytic-[[fungal-extracellular-enzyme-production]]-bioremediationfically notable for simultaneously
+producing all three major [[ligninolytic-enzyme-systems-white-rot-fungi]] families — [[manganese-peroxidase-mechanism]] (MnP),
+[[lignin-peroxidase-mechanism]] (LiP), and [[laccase]] — a rare capability among white-[[biobleaching-of-pulp-by-white-rot-fungi]] that
+makes it valuable [[query-what-are-the-best-mushroom-species-for-bioremediation]], biobleaching, and wastewater treatment.
 
 ## Taxonomy
 
@@ -50,7 +49,7 @@ brown, characteristically smoky-grey at the margin. The pore surface is white to
 pale grey initially, darkening to smoky grey with age or bruising — the key
 diagnostic feature. Pores are angular to circular, 3–5 per mm. Context is corky,
 white to cream. Spores are cylindrical to ellipsoid (4–6 x 1.5–2.5 um), smooth,
-hyaline, inamyloid, producing a white spore print. Hyphal system is monomitic with
+hyaline, inamyloid, producing a white [[spore-print]]. Hyphal system is monomitic with
 clamp connections.
 
 ## Ecology and Distribution
@@ -129,7 +128,7 @@ mechanical pulping energy by 10–30% through selective lignin removal.
 detection. Enzyme immobilization on graphene, carbon nanotubes, or conducting
 polymers enables micromolar to nanomolar detection for water quality monitoring.
 
-## Comparison with Phanerochaete chrysosporium
+## Comparison with [[phanerochaete-chrysosporium]]
 
 While *P. chrysosporium* is the better-characterized model with extensive genetic
 tools, *B. adusta* has a distinctive advantage: it produces strong laccase
@@ -147,8 +146,3 @@ families for cellulose/hemicellulose degradation.
 
 ## Key References
 ## See Also
-
-- [[lignin-degradation]]
-- [[fungal-lignin-degradation-enzymology]]
-- [[fungal-pah-degradation-and-soil-bioremediation]]
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]

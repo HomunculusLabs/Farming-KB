@@ -148,4 +148,3 @@ The most effective vertebrate pest control combines:
 
 - [[outdoor-cannabis-growing]]
 - [[cervantes-companion-planting-pest-deterrent]]
-- [[cervantes-biological-pest-control-predators]]

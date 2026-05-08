@@ -82,7 +82,7 @@ Heat stress weakens cannabis plants and makes them more susceptible to
 pest and disease pressure. Stressed plants emit chemical signals that can
 attract certain pests, and their compromised immune systems are less able
 to resist fungal and bacterial infections. Maintaining proper
-temperatures as part of a comprehensive [[cannabis-pest-management]]
+temperatures as part of a comprehensive cannabis pest management
 strategy is more effective than treating pest outbreaks after heat stress
 has already weakened your plants.
 
@@ -120,7 +120,7 @@ management.
   as early warning signs of heat stress
 - Manage humidity alongside temperature to prevent secondary problems
   like powdery mildew and bud rot
-- Protect heat-stressed plants from increased [[cannabis-pest-management]]
+- Protect heat-stressed plants from increased cannabis pest management
   challenges by keeping temperatures stable
 - Adjust [[cannabis-nutrient-management]] during heat waves, as stressed
   plants absorb nutrients differently

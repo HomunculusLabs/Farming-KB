@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Panther Cap** | *Amanita pantherina* (DC.) Krombh.
 
-A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of [[amanita-muscaria-and-ibotenic-acid-fungi]] and muscimol, the same psychoactive compounds found in [[amanita-muscaria]]. Unlike the psilocybin-containing fungi, A. pantherina belongs to the group of neurotropic fungi classified by their ibotenic acid content rather than indole alkaloids. It is considered significantly more toxic than A. muscaria and is responsible for numerous cases of poisoning, particularly in Europe.
+A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of amanita-muscaria-and-ibotenic-acid-fungi and muscimol, the same psychoactive compounds found in [[amanita-muscaria]]. Unlike the psilocybin-containing fungi, A. pantherina belongs to the group of neurotropic fungi classified by their ibotenic acid content rather than indole alkaloids. It is considered significantly more toxic than A. muscaria and is responsible for numerous cases of poisoning, particularly in Europe.
 
 ## Taxonomy and Classification
 
@@ -46,7 +46,7 @@ The species is ectomycorrhizal, forming associations primarily with coniferous t
 
 ## Chemistry and Pharmacology
 
-The primary bioactive compounds in Amanita pantherina are [[amanita-muscaria-and-ibotenic-acid-fungi]] and muscimol. Ibotenic acid is a potent glutamate receptor agonist acting primarily on metabotropic glutamate receptors (mGluRs) and ionotropic AMPA and kainate receptors. It acts as an excitotoxin at high doses, causing overstimulation of neurons.
+The primary bioactive compounds in Amanita pantherina are amanita-muscaria-and-ibotenic-acid-fungi and muscimol. Ibotenic acid is a potent glutamate receptor agonist acting primarily on metabotropic glutamate receptors (mGluRs) and ionotropic AMPA and kainate receptors. It acts as an excitotoxin at high doses, causing overstimulation of neurons.
 
 Muscimol, the decarboxylated product of ibotenic acid, is the principal psychoactive compound. It is a selective GABA-A receptor agonist, producing sedative, hypnotic, and hallucinatory effects. The conversion of ibotenic acid to muscimol occurs through decarboxylation, which can be accelerated by drying or heating the mushroom tissue.
 
@@ -115,6 +115,6 @@ Amanita pantherina is not specifically scheduled in most jurisdictions, as its a
 
 - [[amanita-muscaria]] — the iconic fly agaric, the most well-known ibotenic acid-containing species
 - amanita regalis — the brown panther cap, a closely related species
-- [[amanita-muscaria-and-ibotenic-acid-fungi]] — the primary excitotoxic compound found in section Amanita
+- amanita-muscaria-and-ibotenic-acid-fungi — the primary excitotoxic compound found in section Amanita
 - muscimol — the principal psychoactive compound, a GABA-A agonist
-- [[gymnopilus-spectabilis]] — a psilocybin-containing species sometimes confused with Amanita
+- [[gymnopilus-spectabilis-entity]] — a psilocybin-containing species sometimes confused with Amanita

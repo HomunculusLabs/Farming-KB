@@ -11,7 +11,7 @@ type: entity
 # Psilocybe washingtonensis
 
 **Type:** Species (Fungus)
-**Category:** [[psilocybin]]-containing mushroom
+**Category:** [[psilocybin-compound]]-containing mushroom
 **Also known as:** Washington Psilocybe
 
 ## Overview

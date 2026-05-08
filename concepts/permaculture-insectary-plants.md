@@ -91,4 +91,4 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 
 - [[permaculture-livestock-forage-systems]] -- Including bees as pollinators and honey producers
 - [[permaculture-forestry-systems]] -- Insectary plants in the understory of food forests
-- [[permaculture-introduction-and-ethics]] -- The ethical basis for working with natural systems
+- [[permaculture-design-principles]] -- The ethical basis for working with natural systems

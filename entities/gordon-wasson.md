@@ -120,7 +120,7 @@ Wasson effectively founded the field of ethnomycology and demonstrated that mush
 ## See Also
 
 - [[albert-hofmann|Albert Hofmann]]
-- [[psilocybe-cubensis-profile|Psilocybe cubensis]]
+- [[psychedelic-mushrooms-species-and-identification|Psilocybe cubensis]]
 - [[amanita-muscaria|Amanita muscaria]]
 - [[terence-mckenna|Terence McKenna]]
 - [[maps|MAPS]]

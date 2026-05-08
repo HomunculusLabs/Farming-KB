@@ -12,13 +12,13 @@ title: PDC Passive [[mollison-designers-free-range-forage-design-principles]] fo
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-sources: [[william-ozier-williams]]-pdc_-a-permaculture-design-cours
+sources: william-ozier-williams-pdc_-a-permaculture-design-cours
 tags: [permaculture, pdc, building, microclimate]
 ---
 
 # PDC Passive [[permaculture-house-design-principles]] for Buildings and Landscapes
 
-Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The [[williams-pdc-permaculture-ethics-and-principles-in-practice]] devotes extensive coverage to passive design as a core permaculture competency, treating it as an application of [[permaculture-principle-creatively-use-and-respond-to-change]] #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
+Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The [[williams-pdc-permaculture-ethics-and-principles-in-practice]] devotes extensive coverage to passive design as a core permaculture competency, treating it as an application of [[permaculture-design-principles]] #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
 
 ## The Three Mechanisms of Heat Transfer
 

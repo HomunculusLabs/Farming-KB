@@ -148,4 +148,3 @@ Inherited glycolytic enzyme deficiencies include pyruvate kinase deficiency
 with over 500 known PKLR mutations), phosphofructokinase deficiency (Tarui disease, GSD
 type VII), triose phosphate isomerase deficiency (progressive neuromuscular
 degeneration), and aldolase A deficiency (GSD type XII). Diabetes disrupts
-glycolytic regulation: Type 1 reduces glucokinase expression and increases

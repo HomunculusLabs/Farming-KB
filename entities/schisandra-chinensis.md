@@ -148,5 +148,3 @@ Requires both sexes (1 male per 5–8 female). Prune late winter. Pests: scale i
 - schisandra sphenanthera — Southern Schisandra, related medicinal species
 - [[ashwagandha]] — *Withania somnifera*, another prominent adaptogen
 - [[rhodiola-rosea]] — Arctic root, comparative adaptogenic profile
-- [[panax-ginseng]] — Asian ginseng, synergistic TCM combination
-- [[sutherlandia-frutescens]]

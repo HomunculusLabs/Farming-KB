@@ -109,4 +109,4 @@ In the United States, herbal glycerites sold commercially are regulated as dieta
 - [[herbal-medicine-making-basics]] — Foundational medicine-making skills
 - [[childrens-herbal-medicine]] — Pediatric herbal medicine considerations
 - [[herbal-formulation-principles]] — Detailed dosing recommendations
-- [[holy-basil-tulsi-guide]]
+- holy basil tulsi guide

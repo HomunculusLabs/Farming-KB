@@ -130,4 +130,4 @@ Mollison was a polarizing figure whose outspoken nature generated both admiratio
 - [[david-holmgren]] — Co-developer of permaculture and author of *Permaculture: Principles and Pathways Beyond Sustainability*
 - [[geoff-lawton]] — Prominent permaculture teacher and practitioner who continued Mollison's work
 - [[hugelkultur]] — A permaculture technique for raised beds using woody debris
-- [[P.A.-Yeomans]] — Australian farmer who developed the Keyline Design system adopted by permaculture
+- [[p-a-yeomans]] — Australian farmer who developed the Keyline Design system adopted by permaculture

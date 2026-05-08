@@ -148,4 +148,3 @@ viticulture settings.
 - Varma, A. et al. (1998, 1999, 2001). Piriformospora indica gen. et
   sp. nov., a new root-colonizing fungus.
 - Waller, F. et al. (2005). The endophyte Piriformospora indica
-  reprograms barley to salt-stress tolerance, disease resistance, and

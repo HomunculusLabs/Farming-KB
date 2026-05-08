@@ -25,7 +25,7 @@ The golden rule: develop the nearest area first, get it under control, then expa
 
 ### Zone 0: The Home Center
 
-Zone 0 centers on good house design with an attached [[permaculture-earthworks-guide]] or shadehouse. Living components integrate directly into the structure: sod roofs, vines on trellis, pot plants, roof gardens, and companion animals. In some climates, structures are formed from the natural environment -- bamboo, rattan, wattle and daub, thatch, or earth-covered construction. See [[permaculture-zone-0-house-design]].
+Zone 0 centers on good house design with an attached [[permaculture-water-harvesting-earthworks]] or shadehouse. Living components integrate directly into the structure: sod roofs, vines on trellis, pot plants, roof gardens, and companion animals. In some climates, structures are formed from the natural environment -- bamboo, rattan, wattle and daub, thatch, or earth-covered construction. See [[permaculture-zone-0-house-design]].
 
 ### Zone 1: Intensive Garden
 
@@ -108,7 +108,7 @@ These rules reflect the broader [[permaculture-pattern-language]] of functional 
 - [[permaculture-design]]
 - [[keyline-design]]
 - [[permaculture-sector-analysis]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
 - [[permaculture-site-analysis]]
 - [[permaculture-slope-analysis-and-reading]]

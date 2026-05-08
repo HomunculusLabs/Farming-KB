@@ -1,5 +1,5 @@
 ---
-title: "Acorus calamus"
+title: "acorus calamus"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -21,10 +21,9 @@ sources:
   - Nadkarni, A.K. (2002). Indian Materia Medica. 3rd ed. Popular Prakashan.
   - Sowmya, B.R. et al. (2019). "Phytochemistry and pharmacological activities of Acorus calamus." Phytotherapy Research, 33(6), 1497-1515.
 ---
-
 ## Overview
 
-Acorus calamus, commonly known as sweet flag, calamus, or bitter pepper root, is a perennial herbaceous plant in the family Acoraceae. Native to marshes, wetlands, and the margins of lakes and streams across Eurasia and North America, it has a long history of use in traditional medicine systems including Ayurveda, Traditional Chinese Medicine (TCM), and Native American herbalism. The aromatic rhizome is the primary plant part used medicinally, and it has also been employed as a spice, insect repellent, and psychoactive substance.
+Acorus calamus, commonly known as sweet flag, calamus, or bitter pepper root, is a perennial herbaceous plant in the family Acoraceae. Native to marshes, wetlands, and the margins of lakes and streams across Eurasia and [[maitake-growth-parameter-comparison-china-japan-north-america]], it has a long history of use in traditional medicine systems includinnative-american-planting-methods-and-indigenous-agricultureditional Chinese Medicine (TCM), and Native American herbalism. The aromatic rhizome is the primary plant part used medicfungal-taxonomy-and-classificationn employed as a spice, insect repellent, and psychoactive substance.
 
 ## Taxonomy and Classification
 
@@ -74,10 +73,10 @@ The rhizome of Acorus calamus contains a complex mixture of phytochemicals, with
 - **Essential oil (2–5% of dry rhizome weight):** The composition varies significantly by cytotype and geographic origin
 - **Phenylpropanoids:**
   - α-Asarone (cis-isomer): Present in triploid and tetraploid cytotypes; lower toxicity than β-asarone
-  - β-Asarone (trans-isomer): Major constituent of triploid/tetraploid oils (up to 75%); the compound of primary toxicological concern; structurally related to the carcinogenic compound safrole
+  - β-Asarone (trans-isomer): Major constituent of triploid/tetraploid oils (up to 75%); the compound of primary toxicological concern; structurally related to the carcinogenic compound [[safrole]]
   - γ-Asarone: Minor constituent
 - **Sesquiterpenes:** Including calarene, acoragermacrone, isocalamendiol, and shyobunone
-- **Monoterpenes:** Including linalool, camphor, and pinene in varying amounts
+- **Monoterpenes:** Including [[linalool]], [[camphor]], and [[pinene]] in varying amounts
 - **Alkaloids:** Calamine and minor indole alkaloids in trace amounts
 - **Lectins:** Agglutinating proteins with potential immunological activity
 - **Tannins and Phenolics:** Contributing to astringent properties
@@ -121,7 +120,7 @@ Used as a strewing herb and air freshener; the rhizome was candied as a digestiv
 ### Antimicrobial and Anti-inflammatory Activity
 
 - Broad-spectrum antibacterial activity against Gram-positive and Gram-negative bacteria including Staphylococcus aureus, Escherichia coli, and Pseudomonas aeruginosa
-- Antifungal activity against Candida albicans and Aspergillus species; anthelmintic properties against intestinal nematodes
+- Antifungal activity against [[candida-albicans]] and Aspergillus species; anthelmintic properties against intestinal nematodes
 - Larvicidal and insect-repellent activity against mosquitoes and stored-grain pests
 - Inhibition of COX and LOX inflammatory pathways; scavenging of free radicals (DPPH, superoxide, hydroxyl)
 - Reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in animal models
@@ -148,9 +147,3 @@ Acorus calamus has several applications in permaculture and ecological design:
 ## See Also
 
 - [[sweet-flag-acorus-calamus-ethnobotany]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
-
-- Acorus gramineus — Japanese sweet flag, a closely related ornamental species
-- Asarone — Phenylpropanoid compound found in Acorus species
-- Ethnobotany — Overview of plant use by indigenous cultures
-- [[phytoremediation]] — Use of plants for environmental cleanup

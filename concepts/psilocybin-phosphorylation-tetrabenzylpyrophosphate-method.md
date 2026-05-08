@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin]] Phosphorylation via Tetrabenzylpyrophosphate
+# [[psilocybin-compound]] Phosphorylation via Tetrabenzylpyrophosphate
 
 ## Overview
 

@@ -19,7 +19,7 @@ type: concept
 
 Terence McKenna proposed that [[tryptamine-hallucinogens-and-consciousness|tryptamine]] hallucinogens provide experiential access
 to an understanding of time and historical process that radically differs from the
-conventional scientific view. Through his experiences with [[mckenna-dmt-experience-and-hyperspace|DMT]], [[psilocybin]], and
+conventional scientific view. Through his experiences with [[mckenna-dmt-experience-and-hyperspace|DMT]], [[psilocybin-compound]], and
 [[mckenna-ayahuasca-and-amazonian-shamanism|ayahuasca]], McKenna developed the idea that history is not the gradual, linear
 unfolding that physicists describe but rather a "shockwave of eschatology," a process
 of accelerating transformation drawing all human becoming toward a culminating point.
@@ -138,44 +138,6 @@ mechanical correlates to hallucinogenesis. If one atom on the molecular ring of 
 inactive compound is moved, the compound becomes highly active. For McKenna, this
 was "a perfect proof of the dynamic linkage at the formative level between quantum
 mechanically described matter and mind." The implications extend beyond
-pharmacology: they suggest that the relationship between consciousness and matter
-is far more intimate and consequential than materialist science has acknowledged.
-
-## The Tryptamine Munchkins and the Logos
-
-McKenna's DMT experiences consistently involved encounters with what he described as
-"self-transforming machine elf entities," dynamically contorting topological modules
-that are somehow distinct from the surrounding background. These entities reminded
-him of Heraclitus's fragment: "The Aeon is a child at play with colored balls." The
-entities emit sounds like music and language, passing without quantized distinction
-"from things heard to things beheld," in the phrase of Philo Judaeus. One hears and
-beholds a language of alien meaning conveying alien information that cannot be
-translated into English.
-
-McKenna called this the Logos, making no judgments about its nature. He described
-it as "a universe of active intelligence that is transhuman, hyperdimensional, and
-extremely alien," existing one quanta away from ordinary reality. The DMT experience
-reveals that these dimensions are not remote; they are "so unspeakably bizarre that
-they cast into doubt all of humanity's historical assumptions."
-
-## Implications for the Human Future
-
-McKenna insisted that "the future is bound to be psychedelic, because the future
-belongs to the mind." As humans begin to take a serious engineering approach to
-consciousness, he predicted we will discover the plasticity, mutability, and eternal
-nature of the mind, ultimately releasing it from what he called "the monkey." The
-acceleration visible in all technological and cultural processes is the approaching
-moment when consciousness breaks free from its biological substrate.
-
-The tragedy of the current cultural situation is that the tools for understanding
-this process, the tryptamine plants, are suppressed. The very substances that could
-illuminate humanity's trajectory are classified as dangerous and their investigation
-prohibited, leaving the culture blind to the most significant dimension of its own
-evolution. McKenna described this as the "black hole effect" that surrounds [[mckenna-dmt-experience-and-hyperspace|DMT]]: the
-more one is able to articulate what it reveals, the less others are able to
-understand. This communicative impasse is itself, in McKenna's view, a symptom of
-the cultural crisis that the tryptamine experience could resolve.
-
 ## See Also
 
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- tryptamine hallucinogens and consciousness

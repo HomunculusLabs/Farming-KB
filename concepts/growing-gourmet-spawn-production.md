@@ -144,6 +144,6 @@ An alternative method for generating spawn is via Liquid Culture. This method sa
 
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-oyster-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-contamination-prevention]]
 - [[gourmet-mushroom-strain-selection]]

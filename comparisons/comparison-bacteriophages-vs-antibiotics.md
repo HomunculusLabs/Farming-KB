@@ -13,7 +13,7 @@ type: comparison
 
 # Bacteriophages vs Antibiotics
 
-Bacteriophages (phages) and antibiotics are the two primary antimicrobial strategies used to combat bacterial infections in medicine and agriculture. While antibiotics have been the cornerstone of bacterial control since the 1940s, rising antimicrobial resistance (AMR) has renewed interest in phage therapy as a complementary or alternative approach.
+Bacteriophages (phages) and antibiotics are the two primary antimicrobial strategies used to combat [[blesching-cannabis-bacterial-infections]] in medicine and agriculture. While antibiotics have been the cornerstone of bacterial control since the 1940s, rising antimicrobial resistance (AMR) has renewed interest in phage therapy as a complementary or alternative approach.
 
 This page compares their mechanisms, strengths, limitations, and practical considerations for agricultural and clinical use.
 
@@ -26,10 +26,10 @@ This page compares their mechanisms, strengths, limitations, and practical consi
 | **Specificity** | High — strain-level targeting common | Low to moderate — affects wide bacterial groups |
 | **Resistance development** | Slower; phages co-evolve with hosts | Faster; selective pressure selects resistant mutants |
 | **Discovery / timeline** | 1915 (d'Herelle); used before antibiotics; revived 2000s+ | 1928 (penicillin); mass clinical use since 1940s |
-| **Production** | Biological fermentation in host bacteria | Chemical synthesis or fermentation |
+| **Production** | Biological fermentation in host bacteria | [[psilocybin-and-psilocin-chemical-synthesis]] or fermentation |
 | **Delivery** | Topical, oral, intravenous, aerosol, irrigation | Oral, intravenous, intramuscular, topical |
 | **Pharmacokinetics** | Self-amplifying at infection site; cleared by immune system | Predictable half-life; metabolized by liver/kidneys |
-| **Environmental impact** | Highly targeted; preserves beneficial microbiota | Broad disruption of soil and gut microbiomes |
+| **[[fertilizer-pollution-environmental-impact]]** | Highly targeted; preserves beneficial microbiota | Broad disruption of soil and gut microbiomes |
 | **Regulatory status** | Approved in Georgia, Russia; limited in EU/US | Widely approved globally; established pathways |
 | **Cost** | Currently higher (custom formulations); decreasing with scale | Low for generics; high for novel agents |
 | **Side effects** | Minimal; possible endotoxin release from lysed cells | GI distress, allergic reactions, C. difficile, organ toxicity |
@@ -40,7 +40,7 @@ This page compares their mechanisms, strengths, limitations, and practical consi
 
 **Antibiotics** disrupt essential bacterial processes through biochemical interference. β-lactams inhibit peptidoglycan cross-linking; tetracyclines block ribosomal protein synthesis; fluoroquinolones target DNA gyrase. These are static mechanisms — the drug acts, is metabolized, and the cycle ends.
 
-The drug's effect is concentration-dependent and diminishes as it is cleared from the body or environment. This means dosing frequency and route of administration are critical for maintaining efficacy throughout treatment.
+The drug's effect is concentration-dependent and diminishes as it is cleared from the body or environment. This means dosing frequency and route [[cannabis-health-methods-of-administration]] are critical for maintaining efficacy throughout treatment.
 
 **Phages** are active, self-replicating agents. A lytic phage attaches to a specific receptor on the bacterial surface, injects its genome, commandeers host machinery to produce progeny virions, and releases them via cell lysis (often using endolysin and holin enzymes). Each infected cell produces 20–200 new phages, creating an exponential amplification effect localized to the infection site.
 
@@ -48,7 +48,7 @@ Key practical difference: antibiotics require sustained therapeutic concentratio
 
 Once the target bacteria are gone, phages naturally decline — they have no host to replicate in, making them self-limiting by design.
 
-## Host Range and Specificity
+## [[powdery-mildews-erysiphaceae-diversity-host-range]] and Specificity
 
 Antibiotics' broad spectrum is both a strength and a weakness. A single drug can cover multiple pathogens, simplifying empiric therapy. However, this also devastates commensal bacteria in the gut, soil, and plant surfaces — collateral damage that can take months to recover from and may open niches for opportunistic pathogens.
 

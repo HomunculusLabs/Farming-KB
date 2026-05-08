@@ -69,7 +69,7 @@ Shulgin explored the individual optical isomers of DOI, revealing a pronounced s
 - **R-isomer at 2.3 mg:** "Water solution has slightly sweetish taste! +++ without question but slight down mood towards the end. Lasted a really long time." — A full psychedelic experience from the R-isomer alone, with a notable sweet taste and extended duration.
 - **S-isomer at 6.3 mg:** "Benign one-and-a-half plus at two hours, flattened at ++. Half again (to 9-10mg) would feel safe for a plus 3. Residue of imagery in slow motion." — The S-isomer is substantially less potent, requiring approximately 3-6x the R-isomer dose for comparable effects.
 
-Shulgin observed: "It is the 'R' isomer that is more potent. The 'S' isomer still shows some activity. The same was true with [[dob-compound-profile]], [[dom-compound-profile]], and [[mda-compound-profile]]. The only exception was [[mdma-compound-profile]]." This R-preference is a consistent feature of psychedelic amphetamines and reflects the stereochemistry of the 5-HT2A receptor binding site.
+Shulgin observed: "It is the 'R' isomer that is more potent. The 'S' isomer still shows some activity. The same was true with [[dob-compound-profile]], [[dom-compound-profile]], and [[ayahuasca-and-dmt-plant-medicine]]. The only exception was [[mdma-compound-profile]]." This R-preference is a consistent feature of psychedelic amphetamines and reflects the stereochemistry of the 5-HT2A receptor binding site.
 
 ## Receptor Binding and Research Use
 

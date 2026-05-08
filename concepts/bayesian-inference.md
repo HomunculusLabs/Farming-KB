@@ -1,5 +1,5 @@
 ---
-title: Bayesian Inference
+title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
@@ -148,7 +148,3 @@ It supports engineering by providing real-time updating under uncertainty.
 - markov chain monte carlo
 - hierarchical models
 - [[kalman-filter]]
-## Related
-
-- [[mescaline-reference]]
-- [[ibogaine-reference]]

@@ -17,7 +17,7 @@ type: concept
 
 # Bad Trip
 
-A bad trip is an acute adverse psychological reaction to the ingestion of [[psilocybin]]-containing or other hallucinogenic mushrooms. It represents the most significant immediate health risk associated with recreational mushroom use and is the primary reason users contact emergency medical services following mushroom consumption.
+A bad trip is an acute adverse psychological reaction to the ingestion of [[psilocybin-compound]]-containing or other hallucinogenic mushrooms. It represents the most significant immediate health risk associated with recreational mushroom use and is the primary reason users contact emergency medical services following mushroom consumption.
 
 ## Definition
 
@@ -70,7 +70,7 @@ These post-trip symptoms may persist for days, weeks, or even months in some cas
 
 Several factors influence the likelihood and severity of a bad trip:
 
-- **Dose**: Higher doses of [[psilocybin]] increase the probability of overwhelming psychological effects
+- **Dose**: Higher doses of [[psilocybin-compound]] increase the probability of overwhelming psychological effects
 - **Individual sensitivity**: Reactions vary greatly between individuals and between episodes in the same person
 - **Set and setting**: The user's mental state, expectations, and physical environment significantly influence the quality of the experience
 - **Combination with other substances**: Alcohol and stimulants appear to increase the risk of adverse outcomes
@@ -121,7 +121,7 @@ Intermittent and chronic psychotic states resulting from hallucinogenic mushroom
 - [[psychedelic-harm-reduction]]
 - [[psychedelic-integration-practices]] Concepts
 
-- [[psilocybin]] - the pharmacological agent responsible for bad trips
+- [[psilocybin-compound]] - the pharmacological agent responsible for bad trips
 - [[psilocybe-cubensis]] - the most commonly consumed species
 - [[hallucinogenic-mushroom-market-in-europe]] - availability and prevalence patterns
 - [[amanita-muscaria]] - a distinct species with a different risk profile

@@ -16,11 +16,11 @@ type: comparison
 
 # Dragon Fruit (Pitaya) vs Passion Fruit Cultivation
 
-Dragon fruit (*Hylocereus* spp., syn. *Selenicereus*) and passion fruit (*Passiflora edulis*) are two of the most commercially significant tropical and subtropical climbing fruit crops worldwide. They share the trait of being woody climbing plants requiring support structures, yet they differ fundamentally in their biology, water requirements, and management intensity.
+Dragon fruit (*Hylocereus* spp., syn. *Selenicereus*) and passion fruit (*[[passiflora-edulis]]*) are two of the most commercially significant tropical and subtropical climbing fruit crops worldwide. They share the trait of being woody climbing plants requiring support structures, yet they differ fundamentally in their biology, water requirements, and management intensity.
 
 Dragon fruit is an epiphytic cactus adapted to arid and semi-arid conditions with minimal water inputs. Passion fruit is a vigorous vine native to humid subtropical and tropical environments with high water demands. These contrasting origins create distinct cultivation profiles: dragon fruit offers lower maintenance and drought tolerance, while passion fruit delivers faster growth, earlier fruiting, and higher per-season yields at the cost of greater water and fertility inputs.
 
-This comparison covers their full cultivation requirements to help growers select the appropriate crop for their climate, soil, market goals, and management capacity. See also [[comparison-dragon-fruit-vs-passion-fruit-cultivation]].
+This comparison covers their full cultivation requirements to help growers select the appropriate crop for their climate, soil, market goals, and management capacity. See also comparison dragon fruit vs passion fruit cultivation.
 
 ## Comparison Table
 
@@ -79,7 +79,7 @@ Passion fruit requires deeper, more fertile soil for sustained high yields. It p
 
 ## Water Management
 
-Water management is perhaps the single most important differentiator between these crops. Dragon fruit's CAM photosynthesis allows it to open stomata at night, minimizing water loss. Established plants can survive months without irrigation in subtropical climates. During flowering and fruiting, supplemental irrigation (50–100 mm per month) improves fruit size and yield but is not strictly required. Overwatering is more dangerous than underwatering.
+[[water-management]] is perhaps the single most important differentiator between these crops. Dragon fruit's CAM photosynthesis allows it to open stomata at night, minimizing water loss. Established plants can survive months without irrigation in subtropical climates. During flowering and fruiting, supplemental irrigation (50–100 mm per month) improves fruit size and yield but is not strictly required. Overwatering is more dangerous than underwatering.
 
 Passion fruit requires consistent soil moisture throughout the growing season. Water stress during flowering causes flower drop; stress during fruit development produces small, shriveled fruit. Drip irrigation is recommended, delivering 25–40 mm per week during peak growth. Mulching with organic material helps retain soil moisture and suppress weeds. In areas with dry seasons, irrigation infrastructure is essential — passion fruit cannot be grown as a rain-fed crop in regions with less than 1000 mm annual rainfall without supplementary water.
 
@@ -87,7 +87,7 @@ Passion fruit requires consistent soil moisture throughout the growing season. W
 
 Dragon fruit has modest fertilizer requirements compared to passion fruit. A balanced NPK application (e.g., 10-10-10) applied quarterly, supplemented with micronutrients (iron, zinc, manganese), supports steady growth. Excessive nitrogen produces soft, elongated stems more susceptible to disease. Organic fertilizers (compost, worm castings, fish emulsion) work well and improve soil structure.
 
-Passion fruit is a heavy feeder requiring regular fertilization for sustained production. Monthly applications of balanced NPK during the growing season, plus foliar micronutrient sprays (boron for flower retention, calcium for fruit firmness), are standard commercial practice. Yellow passion fruit types are particularly nutrient-demanding. Soil testing should guide fertilization programs to avoid nutrient imbalances.
+Passion fruit is a heavy feeder requiring regular fertilization for sustained production. Monthly applications of balanced NPK during the growing season, plus foliar micronutrient sprays (boron for flower retention, calcium for fruit firmness), are standard commercial practice. Yellow passion fruit types are particularly nutrient-demanding. [[soil-testing]] should guide fertilization programs to avoid nutrient imbalances.
 
 ## Support and Trellis Needs
 
@@ -111,7 +111,7 @@ Passion fruit vines fruit faster, typically 9–12 months from planting. They re
 
 Most commercial dragon fruit cultivars are self-fertile, but some red-fleshed types require cross-pollination by moths or bats in their native habitat. In areas where natural pollinators are absent, hand pollination with a brush during the night-blooming window can improve fruit set, fruit size, and seed count.
 
-Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining pollinator habitat near plantings is recommended.
+Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining [[pollinator-habitat]] near plantings is recommended.
 
 ## Yield Expectations
 
@@ -123,7 +123,7 @@ Passion fruit yields 15–25 tonnes/ha at peak, but the productive lifespan is s
 
 Dragon fruit is relatively pest-resistant due to its cactus defenses (spines, thick cuticle, CAM metabolism). Key pests include mealybugs, soft scale, fruit flies, and vertebrate damage from birds and rodents. Stem canker (*Botryosphaeria dothidea*) and anthracnose (*Colletotrichum* spp.) are the primary disease concerns, both promoted by high humidity and poor airflow. Good sanitation and canopy thinning reduce disease pressure.
 
-Passion fruit faces significantly more pest and disease pressure. Fruit flies are the most serious pest, requiring baiting or netting. Aphids transmit passion fruit woodiness virus. Root-knot nematodes (*Meloidogyne* spp.) damage roots and reduce vigor. Fusarium wilt (*Fusarium oxysporum* f. sp. *passiflorae*) is a devastating soil-borne disease, best managed by resistant rootstocks, crop rotation, and soil solarization.
+Passion fruit faces significantly more pest and disease pressure. Fruit flies are the most serious pest, requiring baiting or netting. Aphids transmit passion fruit woodiness virus. Root-knot nematodes (*Meloidogyne* spp.) damage roots and reduce vigor. Fusarium wilt (*[[fusarium-oxysporum]]* f. sp. *passiflorae*) is a devastating soil-borne disease, best managed by resistant rootstocks, crop rotation, and soil solarization.
 
 ## Pruning Needs
 
@@ -144,57 +144,6 @@ Dragon fruit is low in calories (≈50 kcal/100 g) and notable for vitamin C (�
 Passion fruit is calorie-denser (≈97 kcal/100 g) and rich in dietary fiber (≈10 g/100 g), vitamin A (≈1274 IU/100 g), vitamin C (≈30 mg/100 g), and potassium (≈348 mg/100 g). Its intense aromatic flavor and high acidity make it valuable as a juice, concentrate, puree, and flavoring ingredient in food manufacturing.
 
 ## Market Value and Commercial Viability
-
-Dragon fruit commands premium prices in non-producing regions ($5–15/kg retail in temperate markets) due to novelty, visual appeal, and limited supply chains. Post-harvest handling requires care (susceptible to bruising and chilling injury), but shelf life is adequate for domestic distribution. Global production is expanding rapidly, led by Vietnam, China, Nicaragua, and Israel.
-
-Growing consumer interest in superfoods and exotic produce supports strong demand growth. However, market prices may decline as production scales up in new regions.
-
-Passion fruit has an established global market as both a processed product (juice, concentrate, puree, flavoring) and fresh fruit. Prices are moderate ($3–8/kg retail). The fruit's short shelf life limits fresh export distance, making proximity to market an important factor. Brazil, Ecuador, Australia, and Kenya are major exporters.
-
-Passion fruit juice is a commodity product with stable industrial demand in beverage, dairy, and confectionery sectors. Market volatility is lower than dragon fruit due to more established supply chains.
-
-## Permaculture Integration
-
-Dragon fruit integrates well into dryland and [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] designs as a mid-canopy or edge crop. Its low water needs make it suitable for xeriscaping and drought-resilient food systems. It pairs well with leguminous understory plants for nitrogen fixation and provides habitat for nocturnal pollinators.
-
-Its long productive life means minimal replanting disturbance, allowing stable guild relationships to develop over time.
-
-Passion fruit serves effectively as a rapid canopy-cover vine in food forests, providing shade to understory plants and quick yields. It requires more water and fertility input than dragon fruit. Its shorter lifespan necessitates succession planning — companion planting with longer-lived perennials is advisable.
-
-In [[gaias-garden-hedgerows-and-windbreaks]], passion fruit can be grown on the leeward side of windbreaks where humidity is higher and wind stress is reduced.
-
-## Summary of Key Tradeoffs
-
-The central tradeoff between these two crops is **resilience vs. speed**. Dragon fruit invests in longevity: it takes longer to establish and first fruit, but repays that patience with decades of production on minimal inputs. Its cactus physiology means it survives neglect, drought, and poor soil — making it the better choice for low-resource or water-scarce contexts.
-
-Passion fruit prioritizes speed and yield: it fruits within a year, produces heavily, and generates faster cash flow. However, it demands consistent irrigation, regular fertilization, aggressive pruning, and frequent replanting. It is the higher-maintenance, higher-turnover option that rewards intensive management.
-
-From a climate perspective, dragon fruit extends the viable growing range into semi-arid subtropical zones that would not support passion fruit. From a market perspective, passion fruit has a more mature and diversified market (especially for processed products), while dragon fruit is in a growth phase with expanding demand but less developed supply chains in many regions.
-
-Growers with access to adequate water and labor may find passion fruit more immediately profitable. Growers in drier climates, those seeking low-input systems, or those planning for long-term orchard stability will find dragon fruit the stronger choice. A mixed planting approach offers the best risk-adjusted returns for most operations.
-
-## Best Use Cases
-
-**Choose dragon fruit when:**
-- Water availability is limited or irrigation infrastructure is minimal
-- Soil is sandy, rocky, or well-drained with low natural fertility
-- Long productive lifespan (20+ years) is desired for stability
-- Pest and disease management resources are limited
-- Premium fresh-fruit niche markets are accessible
-- Growing in arid subtropical climates with low humidity
-
-**Choose passion fruit when:**
-- Adequate water and consistent rainfall are available
-- Rapid return on investment is a priority (fruits in year 1)
-- Richer soils or compost-heavy systems are in place
-- Value-added processing (juice, concentrate) infrastructure exists
-- Integration into a multi-strata food forest with good soil moisture
-- Growing in humid subtropical or tropical climates
-
-Both crops are complementary in a diversified tropical or subtropical farm system. Dragon fruit provides low-input, long-term production on marginal soils, while passion fruit delivers faster, higher yields where water and fertility are sufficient.
-
-Planting both allows staggered harvest windows, diversified market channels, and reduced risk from crop-specific pests or weather events. The combination also maximizes use of different microclimates and soil zones within a single farm. Both crops reward attentive management but differ fundamentally in the type and intensity of care required.
-
 ## See Also
 
 - [[comparison-guava-vs-passion-fruit-cultivation]]

@@ -137,5 +137,5 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 - [[amanita-caesarea]]
 - [[amanita-muscaria]]
 - [[amanita-phalloides]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]

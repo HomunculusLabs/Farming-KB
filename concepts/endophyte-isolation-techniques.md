@@ -111,7 +111,7 @@ The forest canopy is a complex, three-dimensional habitat supporting diverse fun
 
 Canopy conditions differ markedly from the forest floor in temperature, humidity, light intensity, and exposure to atmospheric elements. These differences create distinct selective environments that support fungal assemblages different from those found closer to the ground.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[fungal-environmental-sensing]]
 
 ## Phyllosphere Fungi
 

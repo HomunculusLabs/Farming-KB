@@ -15,7 +15,7 @@ sources:
   - Roschek, B. et al. (2009). Nettle extract (Urtica dioica) affects key receptors and enzymes associated with allergic rhinitis. Phytother Res.
 ---
 
-# Urtica dioica (Stinging Nettle)
+# [[urtica-dioica]] (Stinging Nettle)
 
 ## Overview
 
@@ -139,55 +139,6 @@ The iron content is particularly notable — nettle contains more iron per gram 
 ## Medicinal Properties
 
 ### Benign Prostatic Hyperplasia (BPH)
-
-The most extensively studied medicinal application:
-- Multiple clinical trials demonstrate significant reduction in BPH symptoms (International Prostate Symptom Score) with standardized nettle root extracts
-- Mechanisms include inhibition of 5α-reductase (reducing DHT conversion), aromatase inhibition, and modulation of sex hormone-binding globulin (SHBG)
-- Often combined with saw palmetto (*Serenoa repens*) for synergistic effects
-- Extracts used include Bazoton Uno (459 mg root extract) and PRO 160/120 (nettle + saw palmetto combination)
-
-### Anti-inflammatory and Allergic Rhinitis
-
-- Nettle leaf extracts inhibit prostaglandin, leukotriene, and histamine synthesis
-- A randomized double-blind study found freeze-dried nettle leaf superior to placebo for allergic rhinitis symptoms
-- Mechanisms include inhibition of COX-1/COX-2, lipoxygenase, and mast cell degranulation
-
-### Arthritis and Joint Pain
-
-- Traditional use of "urtication" — deliberately stinging affected joints with fresh nettles — has clinical support
-- A 2000 randomized controlled trial found nettle leaf extract reduced pain and disability in osteoarthritis patients
-- Topical application of nettle preparations reduces joint pain and stiffness
-
-### Diuretic and Detoxification
-
-- Nettle acts as a mild diuretic, increasing urine output and promoting renal clearance of waste products
-- Traditional use in "spring cleansing" and blood purification
-- May support kidney stone prevention through increased fluid throughput
-
-## Permaculture Applications
-
-Stinging nettle is considered one of the most valuable plants in temperate **permaculture systems**, often described as a "superplant" for ecological design:
-
-### Dynamic Accumulator
-
-Nettle is a premier **dynamic accumulator**, mining nutrients from deep soil layers through its extensive root system:
-- **Nitrogen:** Fixes atmospheric nitrogen in association with soil microbes (non-nodulating but nitrogen-rich tissue suggests efficient scavenging)
-- **Iron, potassium, calcium, magnesium, manganese, zinc:** Concentrated in leaves at levels far exceeding surrounding soil availability
-- **Nutrient cycling:** When cut and used as mulch, compost, or liquid fertilizer, nettle returns accumulated nutrients to the topsoil
-
-### Nettle Liquid Fertilizer (Tea)
-
-Nettle tea is a standard organic fertilizer in permaculture and biodynamic agriculture:
-- **Preparation:** Harvest 1 kg fresh nettle tops (pre-flowering), steep in 10 L rainwater for 2–4 weeks, stir daily. Dilute 1:10 for soil drench or 1:20 for foliar spray.
-- **Nutrient content (diluted):** Approximately N 0.05%, P 0.02%, K 0.06%, plus trace minerals and growth-promoting compounds
-- **Benefits:** Promotes vigorous vegetative growth, enhances disease resistance, stimulates soil microbial activity
-## Harvesting and Processing
-
-- **Timing:** Young shoots (first 15–30 cm of growth) in spring (April–May) are optimal for food use. Leaves before flowering for medicinal preparations. Seeds in late summer for nutritional supplements.
-- **Protective equipment:** Gloves (leather or heavy rubber), long sleeves, and eye protection are essential when handling fresh plants
-- **Sting neutralization:** Cooking (boiling for 2–3 minutes), drying, blanching, or blending destroys the trichome tips and denatures the stinging compounds
-- **Drying:** Hang in bundles in a warm, dark, well-ventilated area. Dried nettle retains most nutrients and medicinal compounds for 12–18 months
-
 ## See Also
 
 - [[query-how-to-grow-and-use-stinging-nettle]]
@@ -195,4 +146,4 @@ Nettle tea is a standard organic fertilizer in permaculture and biodynamic agric
 - Rumex-obtusifolius — Broad-leaved dock, traditional nettle sting remedy
 - [[comfrey]] — Another dynamic accumulator for permaculture systems
 - [[dynamic-accumulators]] — Comprehensive list of nutrient-mining plants
-- Forest-Gardening — Permaculture design system incorporating nettle
+- Forest-Gardening — [[permaculture-design]] system incorporating nettle

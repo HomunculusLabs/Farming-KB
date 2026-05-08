@@ -147,5 +147,3 @@ and data quality objectives. Singh identifies strategies for advancing acceptanc
    communities builds confidence in proposed approaches.
 5. **Training and certification**: Professional development builds technical
    literacy in fungal remediation principles.
-
-## International Perspectives

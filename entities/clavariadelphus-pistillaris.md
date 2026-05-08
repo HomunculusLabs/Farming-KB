@@ -24,7 +24,7 @@ sources:
 
 **Clavariadelphus pistillaris** (L.) Donk, commonly known as the piggy-back fungus, giant club, or large club coral, is a basidiomycete fungus in the family Gomphaceae. It is one of the most distinctive non-gilled mushrooms of temperate forests, producing large, club-shaped to spindle-shaped fruiting bodies that can reach imposing dimensions — up to 30 cm tall and 7 cm wide in mature specimens.
 
-The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms ectomycorrhizal associations with coniferous trees. Despite its striking appearance, it is relatively uncommon and often overlooked by casual mushroom hunters due to its preference for undisturbed forest habitats. *C. pistillaris* is edible when young and has a mild, pleasant flavor, though it is not widely collected due to its relative rarity.
+The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms [[ectomycorrhizal-associations]] with coniferous trees. Despite its striking appearance, it is relatively uncommon and often overlooked by casual mushroom hunters due to its preference for undisturbed forest habitats. *C. pistillaris* is edible when young and has a mild, pleasant flavor, though it is not widely collected due to its relative rarity.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ The species was originally described by Linnaeus in 1753 as *Clavaria pistillari
 
 **Hymenium (spore-bearing surface):** The spore-producing tissue covers most of the outer surface of the club, developing from the apex downward as the fruiting body matures. The fertile surface is slightly roughened and bears a more intense color than the sterile base.
 
-**Spore Print:** Pale yellow to ochre.
+**[[spore-print]]:** Pale yellow to ochre.
 
 **Base:** The base of the club is typically insititious (arising directly from the substrate without a distinct stem base), white and mycelioid. It may be partially buried in soil or duff.
 
@@ -76,7 +76,7 @@ The species is almost exclusively associated with **coniferous forests**, formin
 - Spruce (*Picea* spp.) — most common association
 - Fir (*Abies* spp.)
 - Pine (*Pinus* spp.)
-- Douglas-fir (*Pseudotsuga menziesii*)
+- [[douglas-fir]] (*Pseudotsuga menziesii*)
 - Hemlock (*Tsuga* spp.)
 
 Fruiting occurs from late summer through late autumn (August–November), with peak abundance in September and October. The species prefers cool, moist, mature coniferous forests with deep humus layers and minimal disturbance. It is often found in moss-covered areas, on forest edges, or along old logging roads within otherwise intact forest stands.
@@ -120,7 +120,7 @@ Limited chemical analysis of *Clavariadelphus pistillaris* has identified:
 
 - **Sterols:** Including ergosterol and ergosterol peroxide, compounds with documented anti-inflammatory and antitumor properties in vitro.
 - **Phenolic compounds:** Moderate antioxidant activity has been demonstrated in fruiting body extracts.
-- **Polysaccharides:** Beta-glucans with potential immunomodulatory activity, consistent with findings across many basidiomycete fungi.
+- **Polysaccharides:** [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many basidiomycete fungi.
 
 No psychoactive or toxic compounds have been reported from this species.
 
@@ -131,7 +131,7 @@ No psychoactive or toxic compounds have been reported from this species.
 - **Habitat loss:** Logging and forest conversion reduce available mature coniferous habitat.
 - **Air pollution:** Nitrogen deposition and acid rain negatively impact mycorrhizal fungal communities.
 - **Climate change:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
-- **Soil disturbance:** Compaction and disruption of mycorrhizal networks from forestry operations.
+- **Soil disturbance:** Compaction and disruption of [[mycorrhizal-networks]] from forestry operations.
 
 The species is protected by law in several European countries and is considered a bioindicator of undisturbed, mature coniferous forest ecosystems.
 

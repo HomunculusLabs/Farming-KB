@@ -27,7 +27,7 @@ created: 2026-04-28
 
 ## Short Answer
 
-Periodical cicadas (*Magicicada*) of eastern North America emerge in synchronized broods on cycles of exactly **13 or 17 years** — both prime numbers. The leading evolutionary explanation is that **prime-number cycles minimize overlap with predator population cycles** and **reduce hybridization between adjacent broods**. By emerging on prime-number intervals, cicadas avoid synchronizing with predators that cycle at regular (non-prime) intervals, and they reduce the chance that two different broods will emerge in the same year. This strategy, combined with **predator satiation** (emerging in such overwhelming numbers that predators cannot eat them all), has made periodical cicadas one of the most successful and abundant insect species in eastern North America.
+Periodical cicadas (*Magicicada*) of [[polypore-fungi-eastern-north-america]] le-mushrooms-north-america]] emerge in synchronized broods on cycles of exactly **13 or 17 years** — both prime numbers. The leading evolutionary explanation is that **prime-number cycles minimize overlap with predator population cycles** and **reduce hybridization between adjacent broods**. By emerging on prime-number intervals, cicadas avoid synchronizing with predators that cycle at regular (non-prime) intervals, and they reduce the chance that two different broods will emerge in the same year. This strategy, combined with **predator satiation** (emerging in such overwhelming numbers that predators cannot eat them all), has made periodical cicadas one of the most successful and abundant insect species in eastern North America.
 
 ## How the Cycles Work
 
@@ -38,7 +38,7 @@ There are **15 extant broods** of periodical cicadas: 12 on 17-year cycles and 3
 
 (Several historical brood numbers — IV, XI, XII, XVI, XVIII, XXI, XXIV through XXX — are now extinct or have been absorbed into other broods.)
 
-In any given year, there are always multiple broods developing underground at different stages. Only the brood whose 13- or 17-year timer has elapsed emerges. Because 13 and 17 are coprime (they share no common factors), two broods can only co-emerge every **13 × 17 = 221 years**. In practice, most adjacent broods co-emerge far less frequently than this theoretical maximum.
+In any given year, there are always multiple broods developing underground at different stages. Only the brood whose 13- or 17-year timer has elapsed emerges. Because 13 and 17 are coprime (they share no common factors), two broods can only co-emerge every **13 × 17 = 221 years**. [[permaculture-zones-in-practice]], most adjacent broods co-emerge far less frequently than this theoretical maximum.
 
 ## The Prime-Number Hypothesis
 
@@ -61,8 +61,8 @@ When two different broods emerge in the same area in the same year, they can int
 
 ### Mathematical Modeling
 
-Population dynamics models (e.g., Hoppensteadt & Keller, 1976; Hayes, 2005) have shown that:
-- Periodical life cycles longer than ~10 years are selected for when predator populations cycle at intervals less than the cicada's period.
+[[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] models (e.g., Hoppensteadt & Keller, 1976; Hayes, 2005) have shown that:
+- Periodical [[rust-fungi-biodiversity-life-cycles]] longer than ~10 years are selected for when predator populations cycle at intervals less than the cicada's period.
 - Prime-number periods are evolutionarily stable once established because any mutant emerging on a non-prime cycle would suffer higher predation.
 - Small advantages in survival compound over millions of years to fix prime-number cycles in the population.
 
@@ -126,6 +126,6 @@ Climate change may be disrupting the stability of periodical cicada cycles:
 ## See Also
 
 - cicadas biology ecology and cultural significance
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[comparison-cicadas-vs-locusts]]

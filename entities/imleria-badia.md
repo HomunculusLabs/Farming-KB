@@ -114,7 +114,7 @@ radioactive fallout, useful for monitoring Chernobyl-affected regions.
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[pleurotus-ostreatus]]
 - [[trametes-versicolor]]

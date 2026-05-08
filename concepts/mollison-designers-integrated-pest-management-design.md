@@ -148,4 +148,3 @@ recommends the following escalation:
 
 The goal is always to restore ecological balance, not to achieve pest
 eradication. Every intervention should be followed by analysis: what design
-element allowed the outbreak, and how can the system be modified to prevent

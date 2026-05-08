@@ -115,4 +115,4 @@ The apiol content historically led to its use as an abortifacient; concentrated 
 - [[curcuma-longa]]
 - [[glycyrrhiza-glabra]]
 - [[nigella-sativa]]
-- [[myristicin]]
+- [[myristicin-entity]]

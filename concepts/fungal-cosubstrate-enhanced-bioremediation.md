@@ -96,4 +96,4 @@ The concentration, type, and timing of cosubstrate addition, as well as the nutr
 - [[fungal-laccase-mediator-systems]]
 - [[fungal-bacterial-coculture-bioremediation]]
 - [[fungal-formulation-in-situ-bioremediation]]
-- [[biosurfactants-in-bioremediation]]
+- [[bioremediation-using-fungi]]

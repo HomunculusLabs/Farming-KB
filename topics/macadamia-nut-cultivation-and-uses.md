@@ -313,7 +313,7 @@ As a tall evergreen tree, macadamia occupies the upper canopy layer. It provides
 
 - **Shade-tolerant crops** — Coffee, cacao, turmeric, ginger, and [[comfrey]] grow beneath macadamia canopies where light levels are reduced to 30–50% of full sun.
 - [[Mulberry]] can be interplanted as a mid-canopy crop providing supplementary fruit and livestock feed.
-- [[Comfrey]] planted as a living mulch accumulates nutrients from deep soil layers and provides biomass for surface mulching.
+- [[comfrey]] planted as a living mulch accumulates nutrients from deep soil layers and provides biomass for surface mulching.
 
 ### Windbreaks and Erosion Control
 

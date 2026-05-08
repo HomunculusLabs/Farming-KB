@@ -140,59 +140,9 @@ In contemporary herbalism and ethnopharmacology, *L. leonurus* is used for:
 
 ### Anti-inflammatory Activity
 Marrubiin and related diterpenes inhibit cyclooxygenase-2 (COX-2) and reduce pro-inflammatory cytokine production (TNF-α, IL-6) in vitro. Animal studies have confirmed anti-inflammatory effects comparable to standard NSAIDs at appropriate doses.
-
-### Antioxidant Activity
-Methanolic leaf extracts demonstrate significant radical scavenging activity in DPPH and ABTS assays, with IC₅₀ values comparable to standard antioxidants. The activity is attributed to flavonoid and phenolic acid content.
-
-### Antimicrobial Activity
-Essential oils and extracts show broad-spectrum antimicrobial activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), some Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*), and fungal species (*Candida albicans*). Activity is primarily attributed to α-pinene, 1,8-cineole, and β-caryophyllene.
-
-### Neuroprotective Effects
-Leonurine has demonstrated neuroprotective properties in animal models of cerebral ischemia and neurodegenerative disease, mediated by antioxidant, anti-apoptotic, and anti-inflammatory mechanisms.
-
-### Cardiovascular Effects
-Animal studies indicate that leonurine produces positive inotropic effects, reduces blood pressure, and protects against myocardial ischemia-reperfusion injury.
-
-## Cultivation and Propagation
-
-*Leonotus leonurus* is an excellent choice for drought-tolerant, pollinator-friendly, and ornamental gardens:
-
-### Propagation
-- **Seed:** Sow in spring in well-draining seed mix. Germination occurs within 2–4 weeks at 20–25°C. No cold stratification required.
-- **Cuttings:** Semi-hardwood cuttings (10–15 cm) root readily in perlite or sand under mist. Rooting hormone improves success rates.
-- **Division:** Established clumps can be divided in spring or autumn.
-
-### Care Requirements
-- **Water:** Low to moderate. Once established, plants are highly drought-tolerant. Overwatering causes root rot.
-- **Pruning:** Cut back hard in late winter or early spring to promote bushy, compact growth. Remove spent flower spikes to encourage repeat blooming.
-- **Pests:** Generally pest-free. Occasional issues with whiteflies, aphids, and spider mites. Resistant to most diseases.
-- **Propagation timing:** Spring is optimal for all methods.
-- **Container growth:** Suitable for large containers (30+ cm diameter); excellent for patios and balconies in suitable climates.
-
-## Ecological Value
-
-*Leonotus leonurus* is a significant nectar and pollen source for:
-
-- Sunbirds (family Nectariniidae) — the tubular flowers are adapted for sunbird pollination
-- Honeybees (*Apis mellifera*) and native bee species
-- Butterflies, particularly the African monarch (*Danaus chrysippus*)
-- Hummingbirds in regions where it has naturalized (Americas)
-
-It provides structural habitat for small birds and insects and serves as a pioneer species in disturbed areas.
-
-## Safety and Precautions
-
-*Leonotus leonurus* is generally regarded as safe when used in traditional quantities. However:
-
-- Excessive consumption may cause dizziness, nausea, or visual disturbances
-- Pregnant and breastfeeding women should avoid use due to insufficient safety data
-- No significant drug interactions documented, but theoretical interactions with sedatives and antihypertensives are possible
-- The smoke may irritate respiratory passages in sensitive individuals
-- No controlled clinical trials have established safe dosage ranges for therapeutic use
-
 ## See Also
 
-- [[leonurus-cardiaca]] — Motherwort (Lamiaceae relative)
+- [[leonurus-cardiaca-entity]] — Motherwort (Lamiaceae relative)
 - [[leonotis-nepetifolia]] — Klip Dagga (annual relative)
 - [[cannabis-sativa]] — Cannabis (frequently compared entheogen)
 - [[passiflora-incarnata]] — Passionflower (anxiolytic herb)

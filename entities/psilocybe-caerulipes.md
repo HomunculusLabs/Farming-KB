@@ -34,7 +34,7 @@ It grows as a saprotroph on decaying hardwood debris, particularly on logs, stic
 
 ## Psychoactive Compounds
 
-*Psilocybe caerulipes* contains [[psilocybin]] and [[psilocin]] as its primary psychoactive alkaloids. Baeocystin has also been detected in some collections. The alkaloid content is generally moderate, though significant variation has been reported between collections. Potency is considered lower than that of *Psilocybe cubensis* but comparable to several other woodland psilocybin species.
+*Psilocybe caerulipes* contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive alkaloids. Baeocystin has also been detected in some collections. The alkaloid content is generally moderate, though significant variation has been reported between collections. Potency is considered lower than that of *Psilocybe cubensis* but comparable to several other woodland psilocybin species.
 
 ## Similar Species
 
@@ -68,7 +68,7 @@ The farinaceous (mealy) odor and taste are helpful supporting characters, as man
 ## Chemical Profile
 
 Published analyses of *Psilocybe caerulipes* alkaloid content are limited but indicate moderate concentrations:
-- [[psilocybin]]: approximately 0.15–0.60% of dry weight (variable between collections)
+- [[psilocybin-compound]]: approximately 0.15–0.60% of dry weight (variable between collections)
 - [[psilocin]]: approximately 0.05–0.25% of dry weight
 - [[baeocystin]]: detected in trace to low concentrations
 
@@ -84,9 +84,9 @@ The alkaloid content shows significant inter-collection variability, consistent 
 - [[psilocybe-cubensis]]: The most widely cultivated psilocybin mushroom
 - [[psilocybe-ovoideocystidiata]]: Another eastern North American psilocybin species
 - [[psilocybe-caerulescens-entity]]: Mexican species with similar bluing characteristics
-- [[psilocybin]]: Primary psychoactive compound
+- [[psilocybin-compound]]: Primary psychoactive compound
 - [[psilocin]]: Active metabolite of psilocybin
 - [[baeocystin]]: Secondary tryptamine alkaloid detected in this species
 - [[psilocybe-quebecensis]]: Rare North American species from similar latitudes
 - [[psilocybe-fascicata]]: Wood-inhabiting species with overlapping range
-- [[gymnopilus-spectabilis]]: Larger psychoactive species found on wood
+- [[gymnopilus-spectabilis-entity]]: Larger psychoactive species found on wood

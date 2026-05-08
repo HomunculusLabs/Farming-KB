@@ -11,10 +11,9 @@ type: query
 
 created: 2026-05-07
 ---
+# How Do I Grow [[comparison-scented-geraniums-vs-edible-flowers]] in a Permaculture Garden?
 
-# How Do I Grow Edible Flowers in a Permaculture Garden?
-
-Edible flowers are one of the easiest and most rewarding additions to a permaculture garden. They simultaneously serve as food crops, pollinator magnets, pest management tools, and visual elements. Here's a practical guide to integrating them effectively.
+Edible flowers are one of the easiest and most rewarding additions to a permaculture garden. They simultaneously servecomparison-beneficial-insects-guide-vs-integrated-pest-management]] pollinator magnets, pest management tools, and visual elements. Here's a practical guidequery-what-are-the-best-nitrogen-fixing-trees-for-permaculturethem effectively.
 
 ## Choosing the Right Flowers
 
@@ -22,15 +21,15 @@ Edible flowers are one of the easiest and most rewarding additions to a permacul
 
 | Flower | Flavor | Bloom Season | Hardiness | Key Permaculture Function |
 |---|---|---|---|---|
-| **Nasturtium** (*Tropaeolum majus*) | Peppery, radish-like | Spring–fall | Annual (self-seeds) | Trap crop for aphids, pest deterrence |
-| **Calendula** (*Calendula officinalis*) | Slightly bitter, tangy | Spring–fall | Annual (self-seeds prolifically) | Medicinal, attracts beneficials, compost accelerator |
-| **Borage** (*Borago officinalis*) | Cucumber-like | Summer | Annual (self-seeds) | Excellent bee plant, dynamic accumulator |
+| **Nasturtium** (*[[tropaeolum-majus]]*) | Peppery, radish-like | Spring–fall | Annual (self-seeds) | Trap crop for aphids, pest deterrence |
+| **Calendula** (*[[calendula-officinalis]]*) | Slightly bitter, tangy | Spring–fall | Annual (self-seeds prolifically) | Medicinal, attracts beneficials, compost accelerator |
+| **Borage** (*[[borago-officinalis]]*) | Cucumber-like | Summer | Annual (self-seeds) | Excellent bee plant, dynamic accumulator |
 | **Viola/Pansy** (*Viola* spp.) | Mild, slightly sweet | Spring, fall | Biennial/perennial | Edible ground cover, shade-tolerant |
-| **Chamomile** (*Matricaria chamomilla*) | Apple-like, sweet | Early summer | Annual | Medicinal tea, soil builder |
+| **Chamomile** (*[[matricaria-chamomilla]]*) | Apple-like, sweet | Early summer | Annual | Medicinal tea, soil builder |
 | **Squash blossoms** | Mild, slightly sweet | Summer | Annual | Dual-purpose (flowers + fruit harvest) |
-| **Chives** (*Allium schoenoprasum*) | Mild onion | Late spring | Perennial | Pest deterrence, pollinator attractor |
-| **Dill** (*Anethum graveolens*) | Mild anise | Summer | Annual | Swallowtail host plant, attracts wasps |
-| **Yarrow** (*Achillea millefolium*) | Bitter, astringent | Summer | Perennial | Dynamic accumulator, medicinal, drought-tolerant |
+| **Chives** (*[[allium-schoenoprasum]]*) | Mild onion | Late spring | Perennial | Pest deterrence, pollinator attractor |
+| **Dill** (*[[anethum-graveolens]]*) | Mild anise | Summer | Annual | Swallowtail host plant, attracts wasps |
+| **Yarrow** (*[[achillea-millefolium]]*) | Bitter, astringent | Summer | Perennial | Dynamic accumulator, medicinal, drought-tolerant |
 | **Echinacea** (*Echinacea purpurea*) | Bittersweet | Mid–late summer | Perennial | Medicinal, deep taproot breaks compacted soil |
 
 ### Safety Rules for Edible Flowers
@@ -147,9 +146,3 @@ For a first-season edible flower integration in an existing permaculture garden:
 This minimal investment yields hundreds of edible flowers, improved pollination of nearby vegetables, natural pest management, and a garden that looks as good as it produces.
 
 ## See Also
-
-- [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
-- [[query-what-is-a-mandala-garden-in-permaculture]]
-- [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
-
-- [[comparison-scented-geraniums-vs-edible-flowers]]

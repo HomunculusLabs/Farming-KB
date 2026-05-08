@@ -59,7 +59,7 @@ While not commonly consumed by humans, paulownia leaves are valued as high-prote
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], paulownia exemplifies rapid biomass production and succession management. As a [[permaculture-pioneer-species]], it quickly establishes on degraded land, providing erosion control and soil improvement through leaf litter. Its deep taproot breaks compacted soil layers, improving conditions for subsequent plantings. In [[permaculture-wildlife-corridors]], paulownia serves as a biomass generator, timber producer, bee forage, and animal fodder source — a true multi-function element.
+In [[permaculture-design-principles]], paulownia exemplifies rapid biomass production and succession management. As a [[permaculture-pioneer-species]], it quickly establishes on degraded land, providing erosion control and soil improvement through leaf litter. Its deep taproot breaks compacted soil layers, improving conditions for subsequent plantings. In [[permaculture-wildlife-corridors]], paulownia serves as a biomass generator, timber producer, bee forage, and animal fodder source — a true multi-function element.
 
 ## Pests and Diseases
 
@@ -75,7 +75,7 @@ Paulownia wood is lightweight, strong, and rot-resistant. It is marketed as a su
 
 ## Carbon Sequestration
 
-Paulownia is among the fastest-growing trees for carbon sequestration, absorbing CO2 at rates significantly higher than most hardwoods. A single paulownia tree can absorb approximately 10 times more CO2 than an equivalent oak tree. This makes it valuable in [[permaculture-design-principles-beginners]] for climate mitigation. After harvest, the carbon stored in the timber remains locked away in wood products. The rapid growth cycle means repeated harvests can continuously capture carbon over time.
+Paulownia is among the fastest-growing trees for carbon sequestration, absorbing CO2 at rates significantly higher than most hardwoods. A single paulownia tree can absorb approximately 10 times more CO2 than an equivalent oak tree. This makes it valuable in [[permaculture-design-principles]] for climate mitigation. After harvest, the carbon stored in the timber remains locked away in wood products. The rapid growth cycle means repeated harvests can continuously capture carbon over time.
 
 ## Practical Tips for Growers
 

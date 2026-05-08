@@ -53,7 +53,7 @@ The Mescalero case contrasts sharply with the usual picture of amiable, harmonio
 
 ## See Also
 
-[[peyote-and-psychoactive-cacti]]
+[[ethnomycology]]
 [[peyote-ceremony-guide]]
 [[mescaline-peyote-and-san-pedro-guide]]
 [[shamanic-use-of-psychedelics]]

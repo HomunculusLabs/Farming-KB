@@ -139,22 +139,6 @@ The seed kernel contains the active protein. The seed coat and husk do **not** c
 - Used as a **pre-treatment step** before final disinfection
 
 **Use boiling instead when:**
-- Water is relatively clear but suspected of bacterial/viral contamination
-- Fuel is available — boiling provides the most reliable pathogen kill
-
-**Use chlorination when:**
-- Consistent, scalable disinfection is needed
-- Chemical supply chains are intact (tablets, bleach)
-- Long-term storage of treated water is required
-
-**Best practice:** Combine methods — use moringa to clarify turbid water, then boil or chlorinate the clear water for comprehensive safety.
-
----
-
-## Summary
-
-Moringa seeds are a scientifically validated, low-cost coagulant suitable for reducing turbidity and bacteria in water. They are most valuable as a **sustainable, locally sourced pre-treatment** in emergency and resource-limited settings. However, they should not be relied upon as the sole treatment for water contaminated with chemicals, viruses, or high levels of pathogens. For complete water safety, pair moringa coagulation with a secondary disinfection method such as boiling or chlorination.
-
 ## See Also
 
 - [[query-what-is-a-wavelet-transform-used-for]]

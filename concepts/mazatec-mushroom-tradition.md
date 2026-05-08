@@ -125,4 +125,4 @@ ethnobotany.
   practice
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - [[maria-sabina-mazatec-mushroom-curandera]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]

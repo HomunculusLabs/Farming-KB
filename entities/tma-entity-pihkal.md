@@ -19,7 +19,7 @@ PIHKAL entry #157. 3,4,5-TRIMETHOXYAMPHETAMINE.
 | Duration | 6 - 8 h. |
 ## Qualitative Comments
 > (with 135 mg) I had no nausea, although I
-> always vomit with [[mescaline]]. Somehow my personality was divided and
+> always vomit with [[mescaline-entity]]. Somehow my personality was divided and
 > exposed, and this allowed me to understand my psychic structure more
 > clearly. But maybe others could look in there, too. The psychiatric
 > use of this drug would be interesting to pursue. It is not completely

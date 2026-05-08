@@ -10,7 +10,7 @@ sources: [encyclopedic knowledge base]
 
 ## Overview
 
-Willows (genus *Salix*) are among the most versatile and useful plants in temperate landscapes. With over 400 species worldwide, willows range from creeping alpine groundcovers to towering trees reaching 25 meters. Their extraordinary ability to root from cuttings, rapid growth rates, tolerance of wet soils, and capacity for regenerative coppicing make them indispensable in permaculture design, agroforestry, ecological restoration, and traditional crafts. This guide covers the cultivation, harvest systems, and diverse applications of willow in sustainable land management.
+Willows (genus *Salix*) are among the most versatile and useful plants in temperate landscapes. With over 400 species worldwide, willows range from creeping alpine groundcovers to towering trees reaching 25 meters. Their extraordinary ability to root from cuttings, rapid growth rates, tolerance of wet soils, and capacity for regenerative coppicing make them indispensable in [[permaculture-design-course-notes]], agroforestry, ecological restoration, and traditional crafts. This guide covers the cultivation, harvest systems, and diverse applications of willow in sustainable land management.
 
 ## Taxonomy and Major Species
 
@@ -95,7 +95,7 @@ Willows are heavy feeders and respond well to nitrogen, but excessive nitrogen p
 
 ### Irrigation
 
-Newly planted cuttings need consistent moisture for the first growing season. Once established, most willows are drought-tolerant for short periods but perform best with regular moisture. Irrigation is essential for biomass SRC plantings in drier regions during establishment.
+Newly planted cuttings need consistent moisture for the first growing season. Once established, most willows are [[drought-tolerant-planting-design]] for short periods but perform best with regular moisture. Irrigation is essential for biomass SRC plantings in drier regions during establishment.
 
 ### Fertilization
 
@@ -119,7 +119,7 @@ Established willows in riparian settings rarely need supplemental fertilizer. Fo
 - **Crown gall** (*Agrobacterium tumefaciens*): Tumor-like growths at base; avoid planting infected stock, sterilize tools
 - **Water mold** (*Phytophthora* spp.): Root rot in waterlogged conditions; improve drainage
 
-Integrated pest management is effective — healthy, well-spaced plantings with good airflow suffer fewer problems. For SRC biomass operations, selecting disease-resistant clones is essential.
+[[integrated-pest-management-ipm]] management is effective — healthy, well-spaced plantings with good airflow suffer fewer problems. For SRC biomass operations, selecting disease-resistant clones is essential.
 
 ## Harvest Systems
 
@@ -217,7 +217,7 @@ Willow bark has been used medicinally for millennia:
 
 - **Salicin**: The active compound, converted to salicylic acid in the body; a natural pain reliever and anti-inflammatory
 - **Aspirin precursor**: Acetylsalicylic acid (aspirin) was first synthesized from salicin in the 19th century
-- **Traditional use**: Bark tea for headaches, fever, joint pain, and inflammation; documented in ancient Egyptian, Greek (Hippocrates), Chinese, and Native American medical traditions
+- **Traditional use**: Bark tea for headaches, fever, joint pain, and inflammation; documented in ancient Egyptian, Greek (Hippocrates), Chinese, and [[native-american-planting-methods-and-indigenous-agriculture]] medical traditions
 - **Harvest**: Inner bark from 2–5 year old branches in spring; dry and store
 - **Dosage**: 1–2 teaspoons of dried bark per cup of boiling water, steeped 10–15 minutes
 - **Cautions**: Avoid for children under 16 (Reye's syndrome risk), those allergic to aspirin, or on blood-thinning medications
@@ -254,10 +254,10 @@ Willows are among the earliest flowering woody plants in temperate regions:
 ### Guild Associates
 
 Willows benefit from and support:
-- **Comfrey** (*Symphytum* spp.): Dynamic accumulator providing potassium; mulch with comfrey leaves
+- **Comfrey** (*Symphytum* spp.): [[dynamic-accumulator-plants-potassium]] providing potassium; mulch with comfrey leaves
 - **Nitrogen fixers**: Alder (*Alnus*), black locust (*Robinia pseudoacacia*), and groundcover legumes
 - **Spring bulbs**: Snowdrops, daffodils, and crocus bloom beneath willows before canopy closes
-- **Mycorrhizal fungi**: Arbuscular mycorrhizae enhance nutrient uptake; maintain healthy soil biology
+- **[[mycorrhizal-fungi-diversity]]**: Arbuscular mycorrhizae enhance nutrient uptake; maintain healthy soil biology
 - **Beneficial insects**: Ladybird beetles, lacewings, and predatory hoverflies shelter in willow canopies
 
 ### Multifunctional Design Tips
@@ -266,7 +266,7 @@ Willows benefit from and support:
 - Use living willow fences to divide garden zones while providing craft material and pollinator forage
 - Establish willow buffers between agricultural fields and waterways to filter nutrient runoff
 - Incorporate willow pollards in grazing paddocks for summer shade and drought fodder
-- Design willow-based constructed wetlands for greywater treatment on homesteads
+- Design willow-based [[constructed-wetlands-wastewater-treatment]] for greywater treatment on homesteads
 
 ## Environmental Benefits
 
@@ -308,7 +308,7 @@ Willows are exceptional at cleaning contaminated environments:
 2. **Neglecting weed control in year one**: Weed competition is the primary cause of establishment failure; mulch thoroughly
 3. **Over-fertilizing basket willows**: Excess nitrogen produces soft, lanky rods unsuitable for weaving
 4. **Failing to harvest on schedule**: Over-mature rods become woody and brittle; maintain coppice rotations
-5. **Planting single-sex clones for biomass**: Dioecious species need both male and female for seed; for biomass, use all-male clones to avoid weedy seed dispersal
+5. **Planting single-sex clones for biomass**: Dioecious species need both male and female for seed; for biomass, use all-male clones to avoid weedy [[seed-dispersal-ecology-and-mechanisms]]
 6. **Ignoring rust resistance**: In SRC plantations, *Melampsora* rust can devastate yields; select resistant varieties
 7. **Cutting above the graft union**: On grafted ornamental willows, cutting below the graft kills the desired variety
 

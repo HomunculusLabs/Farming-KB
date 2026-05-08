@@ -19,16 +19,6 @@ type: query
 
 # What Is an Earthship and How Does It Work?
 
-
-
-
-
-
-
-
-
-
-
 ## Frequently Asked Questions
 
 ### What exactly is an earthship?

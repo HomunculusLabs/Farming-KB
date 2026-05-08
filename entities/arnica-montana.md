@@ -1,5 +1,5 @@
 ---
-title: "Arnica montana"
+title: "arnica montana"
 created: 2026-04-28
 type: species
 tags:
@@ -87,70 +87,7 @@ have declined significantly due to agricultural intensification.
   potency but improved tolerability.
 - **Dihydrohelenalin acetate:** Acetylated derivative; contributes to
   anti-edema effects.
-- **Flavonoids:** Quercetin, luteolin, kaempferol, and their glycosides.
-  Provide antioxidant activity and contribute to capillary stabilization.
-- **Essential oil:** Rich in thymol derivatives, fatty acids (linoleic,
-  palmitic), and carotenoids.
-
-### Pharmacological Mechanisms
-
-- **Anti-inflammatory:** Helenalin inhibits NF-κB and blocks TNF-α, IL-1β,
-  and COX-2 expression. IC₅₀ for NF-κB inhibition is approximately 2–5 µM.
-- **Analgesic:** Reduces pain perception through COX-2 inhibition and
-  modulation of pain signaling pathways. Topical application provides
-  localized relief without systemic absorption.
-- **Antimicrobial:** Moderate activity against Gram-positive bacteria
-  (Staphylococcus aureus, Streptococcus pyogenes) attributed to helenalin.
-- **Antioxidant:** Flavonoid fraction scavenges free radicals and inhibits
-  lipid peroxidation in vitro.
-
-### Safety and Toxicology
-
-⚠️ **Arnica is TOXIC when ingested.** Oral consumption causes gastrointestinal
-distress, cardiac arrhythmias, and in severe cases, organ failure. Helenalin
-is a potent contact allergen; topical preparations must be diluted. Internal
-use of arnica tinctures is restricted to homeopathic preparations (extremely
-diluted) under professional supervision.
-
-- **Topical LD₅₀ (dermal):** Not established for whole extract; helenalin
-  is a known sensitizer with an EC₃ value of 1.6% (moderate potency).
-- **Oral toxicity:** Significant — as few as 5–10 g of dried flower heads
-  can cause serious poisoning in adults.
-
-## Medicinal Uses
-
-Arnica montana is almost exclusively used topically. Evidence grades:
-- **Postoperative bruising and swelling:** Level A (multiple RCTs showing
-  significant reduction vs. placebo after rhinoplasty, varicose vein surgery,
-  and hand surgery).
-- **Muscle soreness and DOMS:** Level B (moderate evidence from several
-  trials; effects comparable to ibuprofen gel in some studies).
-- **Osteoarthritis pain:** Level B (RCTs demonstrate topical efficacy
-  comparable to diclofenac for knee and hand osteoarthritis).
-- **Wound healing:** Level C (traditional use supported by in vitro evidence
-  but limited clinical data).
-
-Common preparations include herbal tinctures (1:10 in 70% ethanol, diluted
-before use), creams and ointments (typically 5–15% arnica extract), and
-homeopathic preparations (D6–D12 dilutions).
-
-## Conservation Status
-
-Arnica montana is listed as Vulnerable on the IUCN Red List and is protected
-under CITES Appendix II (limited to dried roots in some interpretations).
-Wild harvesting is regulated or banned in Germany, France, Italy, Switzerland,
-and several other European countries. Cultivation programs in Germany, France,
-and Romania now supply the majority of commercial material.
-
-## See Also
-
-- [[pueraria-montana]]
+- **Flavonoids:** [[quercetin]], lute kaempferol
 
 - [[hypericum-perforatum]] — Co-occurring European meadow herb with
   overlapping anti-inflammatory applications
-- [[calendula-officinalis]] — Another Asteraceae topical wound-healing herb
-- [[arnica-montana]] — If this entity was merged, check for duplicates
-- [[achillea-millefolium]] — European meadow plant with comparable
-  traditional wound-care uses
-- [[salvia-officinalis]] — Mediterranean medicinal herb with anti-inflammatory
-  sesquiterpene compounds

@@ -11,7 +11,7 @@ sources:
 
 # Non-Discriminating Knowledge and the Critique of Scientific Reductionism
 
-Masanobu Fukuoka's critique of scientific agriculture extends far beyond farming technique into a fundamental epistemological challenge to Western scientific method. At the core of [[natural farming]] lies the principle of "non-discriminating knowledge" — a mode of perception that apprehends nature as an indivisible whole, in contrast to the analytical, reductionist approach that dissects nature into component parts.
+Masanobu Fukuoka's critique of scientific agriculture extends far beyond farming technique into a fundamental epistemological challenge to Western scientific method. At the core of [[natural-farming]] lies the principle of "non-discriminating knowledge" — a mode of perception that apprehends nature as an indivisible whole, in contrast to the analytical, reductionist approach that dissects nature into component parts.
 
 ## The Frog in the Well
 
@@ -71,7 +71,7 @@ In rice cultivation, toxic chemicals are applied at least eight times per year, 
 
 ## Implications for Agriculture
 
-This epistemological framework directly underpins [[natural farming]] practice. Each principle is a consequence of the position that human knowledge is insufficient to improve upon nature's inherent wisdom:
+This epistemological framework directly underpins [[natural-farming]] practice. Each principle is a consequence of the position that human knowledge is insufficient to improve upon nature's inherent wisdom:
 
 - **No tillage**: Because man cannot improve upon nature's soil structure
 - **No fertilizer**: Because nature's fertility cycles are self-sustaining when not disrupted
@@ -101,7 +101,7 @@ The farmer initially thought modern developments would make his job easier. Inst
 
 Fukuoka reserved some of his strongest criticism for organic farming, which he regarded as merely another form of scientific agriculture. A lot of trouble is taken to move organic materials from one place to another, to process and treat them. But any gains from all this activity are local and temporal. When examined from a broader perspective, many efforts to protect the natural ecology through organic methods are actually destructive.
 
-The ancient practice of using manure and compost does help speed crop growth, but it also depletes the land from which the organic material is taken. The compost is gathered from one field and applied to another, creating an artificial concentration of nutrients that disrupts natural soil processes. True [[natural farming]] requires no inputs from outside the system — no imported compost, no prepared fertilizers, no organic amendments.
+The ancient practice of using manure and compost does help speed crop growth, but it also depletes the land from which the organic material is taken. The compost is gathered from one field and applied to another, creating an artificial concentration of nutrients that disrupts natural soil processes. True [[natural-farming]] requires no inputs from outside the system — no imported compost, no prepared fertilizers, no organic amendments.
 
 ## The Desert Revegetation Proposal
 
@@ -115,7 +115,7 @@ One gram of soil on Fukuoka's farm contains about 100 million nitrogen-fixing ba
 
 Fukuoka created, together with the insects in his fields, a new strain of rice he called "Happy Hill." This hardy strain incorporates the genetics of wild variants, yet is one of the highest yielding strains of rice in the world. A single head of Happy Hill, sent to a food-scarce country and sown over a ten-square-yard area, would yield 5,000 grains in one year — enough to sow a half-acre the following year, fifty acres two years hence, and 7,000 acres in the fourth year.
 
-This breeding achievement, accomplished without genetic engineering or laboratory intervention, demonstrates that [[natural farming]] can produce results that rival or surpass scientific agriculture. The rice was not bred through deliberate crossing but emerged from the complex interactions between cultivated rice, wild relatives, and the farm ecosystem. It is a product of non-discriminating knowledge — allowing nature to select rather than imposing human preferences.
+This breeding achievement, accomplished without genetic engineering or laboratory intervention, demonstrates that [[natural-farming]] can produce results that rival or surpass scientific agriculture. The rice was not bred through deliberate crossing but emerged from the complex interactions between cultivated rice, wild relatives, and the farm ecosystem. It is a product of non-discriminating knowledge — allowing nature to select rather than imposing human preferences.
 
 ## The Mu Philosophy: Returning to Source
 
@@ -127,7 +127,7 @@ The mu philosophy has practical implications: if you stop doing the things that 
 
 ## Non-Discriminating Knowledge in Practice: The Four Principles
 
-Fukuoka distilled his philosophy into four principles of [[natural farming]]: no cultivation, no chemical fertilizer, no weeding, and no pesticides. Each principle represents a rejection of a specific form of discriminating knowledge.
+Fukuoka distilled his philosophy into four principles of [[natural-farming]]: no cultivation, no chemical fertilizer, no weeding, and no pesticides. Each principle represents a rejection of a specific form of discriminating knowledge.
 
 No cultivation rejects the idea that soil must be mechanically prepared. The earth cultivates itself through the activity of roots, microorganisms, and weather. No chemical fertilizer rejects the idea that plants must be fed with refined inputs. Nature provides all necessary nutrients through decomposition and biological activity. No weeding rejects the idea that "weeds" are fundamentally different from crops. All plants play roles in the ecosystem. No pesticides rejects the idea that insects and disease must be controlled through toxic intervention. Balance maintains itself when the ecosystem is allowed to function naturally.
 

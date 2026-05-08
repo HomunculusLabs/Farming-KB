@@ -148,4 +148,3 @@ and modern thinking into one design paradigm.
 - [[williams-pdc-inventories-and-observation]]
 - [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[williams-pdc-learning-exercises-and-field-activities]]
-- [[williams-pdc-climates-and-biomes]]

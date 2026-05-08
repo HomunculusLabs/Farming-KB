@@ -38,7 +38,7 @@ The transition from abundant cheap energy to energy descent will be the defining
 
 Energy literacy is fundamental to permaculture thinking. Understanding the energy flows through systems -- from solar energy to fossil fuels to human labour -- is essential for effective design. The concept of EMERGY (embodied energy) developed by Howard Odum provides a quantitative framework for comparing different energy sources and uses.
 
-[[permaculture-ethics]] | [[permaculture-principles]] | [[permaculture-earthworks-guide]] | [[energy-descent-action-planning]] | [[permaculture-design]]
+[[permaculture-ethics]] | [[permaculture-principles]] | [[permaculture-water-harvesting-earthworks]] | [[energy-descent-action-planning]] | [[permaculture-design]]
 
 ## Key Points
 
@@ -103,7 +103,7 @@ Others have noted that permaculture, as traditionally practiced, has not adequat
 - [[holmgren-ethical-philosophical-framework]]
 - [[holmgren-design-science-discipline]]
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

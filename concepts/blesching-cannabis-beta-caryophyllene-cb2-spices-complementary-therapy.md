@@ -103,6 +103,6 @@ However, the CHI cautions that spices should not be construed as a silver bullet
 ## See Also
 
 - [[blesching-cannabis-clove-medicinal-cb2-botanical]] for detailed clove pharmacology
-- [[blesching-cannabis-turmeric-curcumin-antiviral-anticancer-adjunct]] for curcumin as complementary therapy
+- [[cannabis-indoor-growing-guide]] for curcumin as complementary therapy
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for how multiple cannabis compounds work together
 - [[blesching-cannabis-telomeres-telomerase-longevity]] for CB2 in anti-aging

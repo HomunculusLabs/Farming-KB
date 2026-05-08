@@ -148,4 +148,3 @@ strain-specific shifts reflect genotype-dependent modulation.
   details
 - [[rhizosphere-microbiome-selection-model]] for the assembly framework
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar effects
-- [[16s-rrna-sequencing-microbiome-analysis]] for analytical methods

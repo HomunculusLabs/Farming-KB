@@ -125,7 +125,7 @@ Combining modelling with experimental data yields more detailed qualitative and 
 
 ## See Also
 
-- [[mycelium-composites-materials]] — Structure and biology of mycelial networks
+- [[bioremediation-using-fungi]] — Structure and biology of mycelial networks
 - [[fungal-growth-dynamics]] — Experimental observations of fungal growth patterns
 - [[fungal-enzymatic-capabilities]] — Enzyme production and substrate utilization
 - soil biology fundamentals — Soil as a growth medium for mycelial fungi

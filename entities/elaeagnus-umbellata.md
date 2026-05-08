@@ -120,4 +120,4 @@ However, the displacement of native shrub species (e.g., native *Viburnum*, *Cor
 - [[verbascum-thapsus]]
 - [[stellaria-media]]
 - [[glycyrrhiza-glabra]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]

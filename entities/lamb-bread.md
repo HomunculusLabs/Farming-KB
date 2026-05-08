@@ -120,10 +120,10 @@ Pest and disease resistance is moderate; the airy bud structure provides some pr
 ## See Also
 
 - [[acapulco-gold]]
-- [[thai-stick]]
-- [[malawi-gold]]
+- [[thai-stick-entity]]
+- [[malawi-gold-entity]]
 - [[colombian-gold]]
 - [[jack-herer]]
 - [[green-crack]]
-- [[durban-poison]]
+- [[cannabis-indoor-growing-guide]]
 - [[skunk-1]]

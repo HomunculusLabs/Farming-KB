@@ -69,7 +69,7 @@ Fungal biocontrol agents suppress plant pathogens through several mechanisms:
 
 6. **Siderophore production**: Iron-chelating siderophores sequester iron, making it unavailable to pathogens.
 
-See also: [[mycopesticides-fungal-biocontrol]], [[mycoparasitic-fungi-biocontrol-agents]], [[fungal-competition-antagonism-soil]]
+See also: [[mushroom-cultivation-fundamentals]], [[mycoparasitic-fungi-biocontrol-agents]], [[fungal-competition-antagonism-soil]]
 
 ### Key Biocontrol Fungi
 

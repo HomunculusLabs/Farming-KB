@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.planetnatural.com — organic pest control guides
-  - https://cals.arizona.edu/ipm — University of Arizona Integrated Pest Management
+  - https://cals.arizona.edu/ipm — University of Arizona [[natural-farming-guide-integrated-pest-management]] et-pest-management]]
   - https://content.ces.ncsu.edu — NC State Extension pest management resources
   - https://www.growveg.com — garden pest identification guides
 type: query
@@ -14,7 +14,7 @@ type: query
 
 ## Quick Answer
 
-Identify the pest by inspecting damage patterns and the insects themselves, then match the pest to targeted organic controls like insecticidal soap, neem oil, or biological agents. An Integrated Pest Management (IPM) approach—starting with prevention, monitoring regularly, and only treating when damage exceeds acceptable thresholds—gives the best long-term results without synthetic chemicals.
+Identify the pest by inspecting damage patterns and the insects themselves, then mat [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] rgeted organic controls like insecticidal soap, neem oil, or biological agents. An Integrated Pest Management (IPM) approach—starting with prevention, monitoring regularly, and only treating when damage exceeds acceptable thresholds—gives the best long-term results without synthetic chemicals.
 
 ## The IPM Framework
 
@@ -22,7 +22,7 @@ Follow these four steps in order; most pest problems are solved before step four
 
 1. **Identify** — Know exactly what pest you're dealing with. Not all insects are harmful; many are beneficial predators. Use a hand lens and compare to identification guides.
 2. **Monitor** — Inspect plants at least twice weekly. Check undersides of leaves, stems, and soil. Use yellow sticky traps and pheromone traps to track populations.
-3. **Prevent** — Build healthy soil, rotate crops, use row covers, and encourage beneficial insects. Healthy plants resist pests better than stressed ones.
+3. **Prevent** — Build healthy soil, rotate crops, use [[cervantes-season-extension-cloches-row-covers]], and encourage [[beneficial-insects-and-biological-pest-control]]. Healthy plants resist pests better than stressed ones.
 4. **Control** — Only intervene when pest numbers exceed action thresholds. Start with the least disruptive method (hand-picking, water spray) and escalate only as needed.
 
 ## Top 12 Common Garden Pests

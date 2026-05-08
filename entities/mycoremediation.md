@@ -15,7 +15,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets P. _Mycelium Running: How Mushrooms Can Help Save the World_. Ten Speed Press, 2005.
+  - Stamets P. _[[mycelium]] Running: How Mushrooms Can Help Save the World_. Ten Speed Press, 2005.
   - Thomas P, Harish S, Suresh R, et al. "Mycoremediation of heavy metals: mechanisms and applications." _Journal of Environmental Management_, 2023.
   - Kulshreshtha S, Mathur N, Bhatnagar P. "Mushroom as a product and their role in mycoremediation." _Ambient Science_, 2014.
   - Akhtar N, Verma S, Khan GD. "Mycoremediation of pollutants: a cost-effective and eco-friendly approach for environmental cleanup." _Environmental Science and Pollution Research_, 2021.
@@ -25,27 +25,27 @@ sources:
 
 # Mycoremediation
 
-**Mycoremediation** is the use of **fungi** — specifically their mycelium and associated enzymatic systems — to degrade, sequester, or otherwise neutralize environmental contaminants in soil, water, and other substrates. Coined by mycologist **Paul Stamets**, the term combines the Greek *mykēs* (fungus) with the Latin *remedium* (remedy), reflecting the approach's core premise: **fungi are nature's primary decomposers and recyclers**, capable of breaking down an extraordinary range of complex organic and inorganic pollutants.
+**Mycoremediation** is the use of **fungi** — specifically their mycelium and associated enzymatic systems — to degrade, sequester, or otherwise neutralize environmental contaminants in soil, water, and other substrates. Coined by mycologist **[[paul-stamets]]**, the term combines the Greek *mykēs* (fungus) with the Latin *remedium* (remedy), reflecting the approach's core premise: **fungi are nature's primary decomposers and recyclers**, capable of breaking down an extraordinary range of complex organic and inorganic pollutants.
 
 Mycoremediation is a subset of bioremediation and represents a cost-effective, environmentally sustainable alternative to conventional remediation methods such as excavation, incineration, chemical oxidation, and pump-and-treat systems.
 
 ## Mechanisms of Action
 
-### 1. Enzymatic Degradation
+### 1. [[enzymatic-degradation-in-mycoremediation]]
 Fungi produce a remarkable arsenal of **extracellular enzymes** that break down complex organic molecules:
 
 | Enzyme | Primary Substrates | Produced By |
 |--------|-------------------|-------------|
-| **Lignin peroxidase (LiP)** | Lignin, PAHs, dyes, PCBs | White-rot fungi (*Phanerochaete*, *Trametes*) |
+| **[[lignin-peroxidase-mechanism]] (LiP)** | Lignin, PAHs, dyes, PCBs | [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] fungi (*Phanerochaete*, *Trametes*) |
 | **Manganese peroxidase (MnP)** | Phenolic compounds, lignin derivatives, PAHs | White-rot fungi |
 | **Laccase** | Phenols, anilines, dyes, pesticides | White-rot fungi, some bacteria |
-| **Manganese-independent peroxidase** | Chlorinated aromatics, DDT | *Phanerochaete chrysosporium* |
+| **Manganese-independent peroxidase** | Chlorinated aromatics, DDT | *[[phanerochaete-chrysosporium]]* |
 | **Cytochrome P450 monooxygenases** | Petroleum hydrocarbons, PAHs | Ascomycetes, Basidiomycetes |
 | **Esterases / lipases** | Pesticides, plasticizers, ester bonds | Broad fungal distribution |
 | **Cellulases / hemicellulases** | Cellulose, hemicellulose (plant debris) | Broad fungal distribution |
 | **Cutinases** | Cutin (plant cuticle), PET plastic | *Fusarium*, *Thermomyces* |
 
-The **lignin-degrading enzyme system** of white-rot basidiomycetes is the most powerful biocatalytic system known. Because lignin is structurally similar to many anthropogenic pollutants (aromatic rings, ether linkages, complex polymer structures), these enzymes can non-specifically degrade a vast array of xenobiotics. Understanding the [[fungal-biology-fundamentals|underlying fungal biology]] is key to optimizing these processes.
+The **lignin-degrading enzyme system** of white-rot basidiomycetes is the most powerful biocatalytic system known. Because lignin is structurally similar to many anthropogenic pollutants (aromatic rings, ether linkages, complex polymer structures), these enzymes can non-specifically degrade a vast array of xenobiotics. Understanding the [[fungal-biology-fundamentals]] is key to optimizing these processes.
 
 ### 2. Biosorption
 Fungal **cell walls** are composed of chitin, glucans, and proteins with abundant functional groups (amino, carboxyl, hydroxyl, phosphate, sulfhydryl) that bind heavy metals through:
@@ -69,7 +69,7 @@ Unlike biosorption (which is surface-level), **bioaccumulation** involves active
 - Bioaccumulation is typically less than biosorption in terms of total mass removed, but can target specific contaminants at lower concentrations
 
 ### 4. Mycorrhizal Associations
-**Mycorrhizal fungi** — particularly **arbuscular mycorrhizal fungi (AMF)** and **ectomycorrhizal fungi (ECMF)** — form symbiotic associations with plant roots that enhance phytoremediation:
+**Mycorrhizal fungi** — particularly **[[arbuscular-mycorrhizal-fungi]] (AMF)** and **ectomycorrhizal fungi (ECMF)** — form symbiotic associations with plant roots that enhance phytoremediation:
 
 - **Enhanced nutrient uptake:** Mycelial networks dramatically increase the effective root surface area for nutrient (and contaminant) absorption
 - **Metal tolerance:** AMF can immobilize metals in the rhizosphere, reducing plant uptake and toxicity
@@ -148,6 +148,3 @@ Direct application to contaminated sites without excavation:
 
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]] — Enzymatic mechanisms in fungal bioremediation
 - [[bioremediation-ecosystem-restoration]] — Integration of bioremediation with ecosystem recovery
-- [[bioremediation-fungal-biomass-biosorbent-material]] — Using fungal biomass as biosorbent material
-- [[bioremediation-fungal-vs-bacterial]] — Comparative analysis of fungal and bacterial remediation
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — Mycorrhizal associations in contaminated soils

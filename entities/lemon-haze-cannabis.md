@@ -25,7 +25,7 @@ The strain exemplifies the modern approach to cannabis breeding, where specific 
 ### Parent Strains
 
 **Silver Haze (Sativa-dominant)**
-- Lineage: Northern Lights × Haze × Skunk #1
+- Lineage: [[northern-lights]] × Haze × Skunk #1
 - Known for: Potent cerebral effects, complex earthy-sweet flavor
 - Characteristics: Long flowering time, tall growth, high THC potential
 
@@ -126,8 +126,7 @@ Lemon Haze can be cultivated indoors, outdoors, or in greenhouses. It performs b
 
 ### Recommended Techniques
 
-1. **Screen of Green (SCROG)**: Ideal for managing the strain's tall stature indoors
-2. **Low Stress Training (LST)**: Bending and tying branches to create an even canopy
+1[[screen-of-green]] reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[low-stress-training]] Training (LST)**: Bending and tying branches to create an even canopy
 3. **Topping/FIMing**: Encourage bushier growth and multiple colas
 4. **Defoliation**: Strategic leaf removal during early flowering to improve light penetration
 
@@ -146,14 +145,5 @@ Lemon Haze can be cultivated indoors, outdoors, or in greenhouses. It performs b
 
 ## Related
 
-- [[cannabis-endocannabinoid-system|cannabis]]
-- [[cannabis-terpene-profiles|terpene]]
-- [[cannabis-terpene-profiles|limonene]]
-- [[cannabis-sativa-indoor-cultivation-techniques|indoor growing]] Strains
-
-- **Super Lemon Haze**: A cross of Lemon Skunk and Super Silver Haze; considered a refinement of the original
-- **Amnesia Haze**: Sativa-dominant haze variety with different terpene profile
-- **Lemon Kush**: Indica-leaning hybrid with lemon and earthy Kush notes
-- **New York City Diesel**: Citrus-dominant sativa with similar energetic effects
-- **Tangie**: Mandarin-orange focused strain bred from California Orange
-- **Silver Haze**: Parent strain with complex earthy-sweet profile
+- [[cannabis-endocannabinoid-system]]
+- [[cannabis-terpene-profiles]]

@@ -11,19 +11,13 @@ sources: [raw/papers/allegro-j-the-sacred-mushroomcross.md]
 
 "The Sacred Mushroom and the Cross" (1970) by John Marco Allegro is a controversial scholarly work proposing that Christianity — and much of ancient Near Eastern religion — originated in fertility cults centred on the psychoactive Amanita muscaria mushroom. Allegro, a member of the original Dead Sea Scrolls editorial team, applied philological analysis to argue that biblical names, narratives, and rituals encode secret Sumerian mushroom references.
 
-
-
 ## Core Thesis
 
 Allegro argues that: (1) The Amanita muscaria was identified as a divine substance in ancient Sumer (c. 4000 BC); (2) Its Sumerian names were preserved as a sacred cryptographic language by Near Eastern priesthoods; (3) Biblical writers encoded these mushroom names into Hebrew and Aramaic, constructing narratives around false etymologies; (4) The New Testament writers continued this practice in Greek; (5) Christian rituals (Eucharist, baptism, crucifixion-resurrection) derive from mushroom-cult ceremonies; (6) The true meaning was lost when Christianity became the Roman state religion and the cryptographic key was suppressed.
 
-
-
 ## Relevance and Reception
 
 The book was met with near-universal criticism from biblical scholars, linguists, and mycologists. Allegro's Sumerian etymologies were deemed speculative; his method was called unfalsifiable; and his failure to find scholarly support led to his increasing isolation. However, the book remains influential in entheogenic scholarship and countercultural circles, and anticipated later work on psychoactive substances in religion by Wasson, McKenna, and others.
-
-
 
 ## Index of Concept Pages
 
@@ -73,13 +67,9 @@ The book was met with near-universal criticism from biblical scholars, linguists
 - [[allegro-soma-mushroom-thesis]] — Detailed Soma identification argument
 - [[allegro-wasson-soma-connection]] — R. Gordon Wasson's independent Soma-Amanita thesis
 
-
-
 ## Scholarly Significance and Criticism
 
 Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-bible-as-cryptogram]] and entheogenic studies. While his specific etymological arguments have not gained acceptance in mainstream academia, the broader question of psychoactive substances in ancient religion has gained scholarly traction through the work of R. Gordon Wasson and subsequent researchers.
-
-
 
 ## See Also
 

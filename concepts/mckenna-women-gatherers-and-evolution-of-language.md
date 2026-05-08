@@ -142,31 +142,6 @@ merely as a political phenomenon but as a disruption of the original
 relationship between humans and the linguistic medium through which they
 understand the world.
 
-The shamanic context further complicates the gender dimension. McKenna notes
-that in archaic societies, shamans who managed the hallucinogenic plant rituals
-were usually women but often men. The knowledge of plants, their locations,
-their seasons, and their effects, was a form of power that women as gatherers
-possessed in abundance. As agriculture replaced gathering and patriarchy
-replaced partnership social structures, this botanical knowledge and the
-authority it conferred were progressively transferred from women to male
-priestly castes who had no direct relationship to the land or its plants.
-
-## The Ennui of Modernity
-
-McKenna's narrative concludes with a striking claim about the psychological
-consequences of this civilizational trajectory. The ennui of modernity is the
-consequence of a disrupted quasi-symbiotic relationship between ourselves and
-Gaian nature. Only a restoration of this relationship in some form is capable
-of carrying us into a full appreciation of our birthright and sense of
-ourselves as complete human beings.
-
-This diagnosis connects the specific question of who invented language to the
-largest questions of modern alienation and environmental crisis. If language
-originated in women's intimate knowledge of the natural world, then our
-current inability to speak meaningfully about our relationship to nature, to
-find words adequate to the ecological emergency, may reflect the historical
-severing of language from its original context and purpose.
-
 ## See Also
 
 - [[mckenna-neanderthal-skull-vibration-language-evolution]]

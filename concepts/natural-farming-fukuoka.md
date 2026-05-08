@@ -122,7 +122,7 @@ People brought up eating unnatural food develop into artificial, anti-natural hu
 
 ## Global Vision
 
-Fukuoka's vision extended beyond his own farm. He proposed scattering [[clay pellet seed balls]] over deserts and savannahs as a method for revegetating barren land on a massive scale. His central insight was that rain does not fall from the heavens; it issues forth from the ground. Deserts form because vegetation has disappeared, not the other way around.
+Fukuoka's vision extended beyond his own farm. He proposed scattering [[clay-pellet-seed-balls]] over deserts and savannahs as a method for revegetating barren land on a massive scale. His central insight was that rain does not fall from the heavens; it issues forth from the ground. Deserts form because vegetation has disappeared, not the other way around.
 
 He proposed that the seeds of certain plants be sown over the deserts in clay pellets, including green manure trees such as black wattle that grow in areas with annual rainfall under two inches, along with clover, alfalfa, bur clover, and other green manures mixed with grain and vegetable seeds. Once scattered, the seeds would not sprout until rain had fallen and conditions were right.
 
@@ -135,9 +135,9 @@ He proposed that the seeds of certain plants be sown over the deserts in clay pe
 - [[fukuoka-natural-farming-soil-ecology-principles]]
 
 - [[masanobu-fukuoka]]
-- [[do-nothing farming]]
-- [[clay pellet seed balls]]
-- [[no-till rice barley succession]]
-- [[Liebig's law of minimum]]
-- [[straw mulching]]
-- [[desert revegetation]]
+- [[do-nothing-farming]]
+- [[clay-pellet-seed-balls]]
+- [[no-till-rice-barley-succession]]
+- [[liebig's-law-of-minimum]]
+- [[straw-mulching]]
+- [[desert-revegetation]]

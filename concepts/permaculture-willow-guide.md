@@ -43,7 +43,7 @@ Willows are among the easiest trees to propagate. Hardwood cuttings 1-3 feet lon
 
 ## Companion Planting
 
-In [[permaculture-design-principles-beginners]], willows are key [[permaculture-pioneer-species]] for riparian zone restoration. Their extensive root systems stabilize streambanks and filter runoff water. In [[permaculture-food-forest-design-principles]], willows provide early spring pollen for bees, making them valuable [[permaculture-beekeeping]] support species. They serve as [[permaculture-wildlife-corridors]] nutrient cyclers, absorbing excess nitrogen from water runoff. Willow branches provide structure and shade for establishing other riparian plants like elderberry, dogwood, and alder.
+In [[permaculture-design-principles]], willows are key [[permaculture-pioneer-species]] for riparian zone restoration. Their extensive root systems stabilize streambanks and filter runoff water. In [[permaculture-food-forest-design-principles]], willows provide early spring pollen for bees, making them valuable [[permaculture-beekeeping]] support species. They serve as [[permaculture-wildlife-corridors]] nutrient cyclers, absorbing excess nitrogen from water runoff. Willow branches provide structure and shade for establishing other riparian plants like elderberry, dogwood, and alder.
 
 ## Culinary Uses
 
@@ -75,7 +75,7 @@ One of willow's most useful properties for gardeners is its natural rooting horm
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], willows demonstrate the principle of using fast-growing pioneer species to repair degraded landscapes. Their rapid establishment, soil-binding roots, and biomass production make them ideal for riparian buffer zones and streambank restoration. In [[permaculture-tree-crop-systems]], willows function as [[permaculture-wildlife-corridors]] multi-function elements — producing forage, fuel, crafts, and medicine while performing critical ecological services.
+In [[permaculture-design-principles]], willows demonstrate the principle of using fast-growing pioneer species to repair degraded landscapes. Their rapid establishment, soil-binding roots, and biomass production make them ideal for riparian buffer zones and streambank restoration. In [[permaculture-tree-crop-systems]], willows function as [[permaculture-wildlife-corridors]] multi-function elements — producing forage, fuel, crafts, and medicine while performing critical ecological services.
 
 ## See Also
 

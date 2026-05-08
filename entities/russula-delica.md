@@ -125,6 +125,6 @@ The most important confusion is with toxic white species, though R. emetica (the
 - [[russula-xerampelina]]
 - [[lactarius-quietus]]
 - [[lactarius-deliciosus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[tricholoma-terreum]]
 - [[amanita-muscaria]]

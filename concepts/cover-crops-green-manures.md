@@ -133,5 +133,5 @@ Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 4: B
 - [[lowenfels-soil-horizons-profiles]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[bacterial-to-fungal-soil-succession]]
-- [[nutrient-retention-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[nitrogen-fixing-trees-and-shrubs]]

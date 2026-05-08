@@ -147,11 +147,3 @@ species in temperate permaculture design:
 - [[food-forest]]
 
 - [[permaculture-dogwood-cornus-capitata]]
-
-- Cornus-servicina
-- Cornaceae
-- Edible-Fruits
-- Permaculture-Food-Forests
-- [[agroforestry]]
-- Wildlife-Hedgerows
-- Iridoid-Glycosides

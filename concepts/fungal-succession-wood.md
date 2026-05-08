@@ -8,7 +8,7 @@ sources: []
 ---
 # Fungal Succession on Decomposing Wood
 ## Overview
-The [[fungal-decomposition-of-wood]] by fungi follows predictable successional patterns driven by changes in the chemical and physical properties of the substratum, interspecific interactions among fungal species, and environmental conditions. Wood decomposition is one of the most important ecosystem processes in forests, determining carbon storage, nutrient cycling, and habitat availability for countless organisms. For the role of decomposition in the broader [[soil-food-web]], see the [[compost-chemistry-soil-food-web]] overview.
+The [[fungal-decomposition-of-wood]] by fungi follows predictable successional patterns driven by changes in the chemical and physical properties of the substratum, interspecific interactions among fungal species, and environmental conditions. Wood decomposition is one of the most important ecosystem processes in forests, determining carbon storage, nutrient cycling, and habitat availability for countless organisms. For the role of decomposition in the broader [[soil-food-web]], see the [[composting-and-soil-biology]] overview.
 ## Wood as a Substratum
 ### Chemical Composition
 Wood is composed primarily of:

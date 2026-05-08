@@ -52,7 +52,7 @@ Nitrogenase activity is regulated at multiple levels to balance the energy deman
 
 ### Integration with the Nitrogen Cycle
 
-The nitrogen fixed through Rhizobium-legume symbiosis enters the broader [[nitrogen-cycle-in-soil]] through various pathways. When legume residues decompose, fixed nitrogen becomes available to subsequent crops, a process fundamental to sustainable agriculture. This natural nitrogen input is a key component of [[soil-food-web-nutrient-cycling]] and reduces the need for synthetic nitrogen fertilizers, which are energy-intensive to produce and can cause environmental pollution.
+The nitrogen fixed through Rhizobium-legume symbiosis enters the broader [[composting-and-soil-biology]] through various pathways. When legume residues decompose, fixed nitrogen becomes available to subsequent crops, a process fundamental to sustainable agriculture. This natural nitrogen input is a key component of [[soil-food-web-nutrient-cycling]] and reduces the need for synthetic nitrogen fertilizers, which are energy-intensive to produce and can cause environmental pollution.
 
 ## Nodulation of Non-Leguminous Plants
 

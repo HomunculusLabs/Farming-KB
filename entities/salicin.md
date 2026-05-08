@@ -136,6 +136,6 @@ mild pain and fever.
 - [[artemisia-annua]] — Another medicinal plant source of a
   pharmacologically significant compound, illustrating the tradition of
   plant-derived drug discovery.
-- [[psilocybin]] — A bioactive fungal compound with distinct
+- [[psilocybin-compound]] — A bioactive fungal compound with distinct
   pharmacological mechanisms, demonstrating the breadth of natural
   product chemistry.

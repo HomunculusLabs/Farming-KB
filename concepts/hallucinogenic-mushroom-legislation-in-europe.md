@@ -122,7 +122,7 @@ Smartshop labels in the Netherlands typically warned against use by persons unde
 
 ## See Also
 
-- [[hallucinogenic-mushroom-prevalence-in-europe]]: epidemiological trends prompting legislation
+- [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological trends prompting legislation
 - [[smartshop-and-online-mushroom-markets]]: commercial infrastructure affected by legal changes
 - [[psilocybin-and-psilocin-chemistry]]: controlled compounds
 - [[amanita-muscaria]]: species that emerged as a legal alternative post-prohibition

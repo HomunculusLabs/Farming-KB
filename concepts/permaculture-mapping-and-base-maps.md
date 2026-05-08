@@ -97,7 +97,7 @@ After mapping contours, chart surface water flow:
 - Observe the site during and after rain
 - Map where water flows, pools, and exits the property
 - Note infiltration rates in different areas
-- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other water management features
+- This data is essential for designing [[organic-vegetable-growing-and-market-gardening|swales]], [[permaculture-pond-and-water-garden|ponds]], and other water management features
 ## Scale Considerations
 Choose a scale appropriate to your property size and the level of detail needed:
 - Too small a scale (too zoomed out) and you cannot show design details
@@ -122,7 +122,7 @@ Williams recommends showing the original base map, the analytical overlays, and 
 - [[crispr-base-editing]] Concepts
 - [[permaculture-site-analysis]]
 - [[permaculture-site-assessment-checklist]]
-- [[permaculture-design-methods]]
+- [[permaculture-design]]
 - [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-sector-analysis]]

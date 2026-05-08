@@ -125,7 +125,7 @@ or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
 The farmer's field, by contrast, is stripped of its natural vegetation,
 compacted by machinery, and depleted of organic matter through continuous
-harvesting. The [[compost-chemistry-soil-food-web]] is disrupted by chemical inputs, and the
+harvesting. The [[composting-and-soil-biology]] is disrupted by chemical inputs, and the
 natural cycles of decomposition and renewal are broken. Then the farmer
 wonders why the soil "needs" plowing and fertilization, not realizing that
 these are merely responses to damage already done.

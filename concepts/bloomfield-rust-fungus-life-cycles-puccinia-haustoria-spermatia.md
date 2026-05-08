@@ -141,20 +141,6 @@ acts of plant penetration.
 ## Why So Complex?
 
 The standard explanation centers on resilience: two hosts with different
-growing seasons boost survival opportunities. A speculative alternative
-suggests rust species are hybrids from two distinct ancestral parasites
-that once lived on different hosts, supported by recent lateral gene
-transfer research.
-
-## Control and Coffee Rust
-
-Rust control includes chemical fungicides (from sulfur mixtures to
-synthetic compounds like triadimefon that inhibit ergosterol
-biosynthesis), resistant crop varieties, and barberry eradication from
-wheat-growing regions. Removing the alternate host retards evolution of
-new races by eliminating sexual recombination, lengthening the useful
-career of each wheat cultivar.
-
 ## See Also
 
 - [[bloomfield-fungal-plant-pathogens]] for broader plant pathology

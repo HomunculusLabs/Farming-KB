@@ -92,7 +92,7 @@ Each flush is harvested as soon as sporocarps reach maturity. The preservation p
 2. **Sealing** in plastic bags or containers
 3. **Storage** at minus 5 degrees Celsius until analysis
 
-Freeze-drying preserves the labile [[psilocin]] and [[psilocybin]] alkaloids far better than air-drying or heat-based dehydration methods.
+Freeze-drying preserves the labile [[psilocin]] and [[psilocybin-compound]] alkaloids far better than air-drying or heat-based dehydration methods.
 
 ## Yield Characteristics
 

@@ -27,7 +27,7 @@ adverse events can and do occur, particularly related to mental health.
 
 ### Acute Toxicity
 
-Acute toxicity of [[psilocybin]] is believed to be low, so fatal
+Acute toxicity of [[psilocybin-compound]] is believed to be low, so fatal
 intoxications related to consumption of hallucinogenic mushrooms are
 rare. One allegedly toxicologically confirmed death case directly
 attributed to ingestion of a large amount of mushrooms was reported in

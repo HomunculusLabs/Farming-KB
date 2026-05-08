@@ -126,7 +126,7 @@ Legal status continues to evolve as novel tryptamines are identified and schedul
 ## See Also
 
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[4-ho-mipt]]
 - [[4-ho-met]]
 - [[4-aco-dmt]]

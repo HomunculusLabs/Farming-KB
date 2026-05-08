@@ -111,6 +111,6 @@ Badham's experimental setup: wind velocity 9 +/- 3 cm/sec, humidity 94 +/- 3% RH
 - [[light-initiation-basidiocarp-formation]] — light requirements for fruitbody initiation
 - [[mushroom-lighting-and-environmental-requirements]] — practical environmental control
 - [[mushroom-fruiting-chamber-designs]] — chamber design for controlled environments
-- [[psilocybe-cubensis-profile]] — species profile
+- [[psychedelic-mushrooms-species-and-identification]] — species profile
 - [[fungal-environmental-sensing]] — broader fungal sensing mechanisms
 - [[mushroom-strain-selection-genetics]]

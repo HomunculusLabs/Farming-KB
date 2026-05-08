@@ -144,10 +144,7 @@ sources: ["domain-knowledge"]
 
 ## See Also
 
-- [[skunk]]
+- [[skunk-cannabis]]
 - [[og-kush]]
 - [[northern-lights]]
-- [[hindu-kush-cannabis-entity]]
-- [[amnesia-haze]]
-- [[chemdawg-entity]]
-- [[jack-herer]]
+- [[hindu-kush]]

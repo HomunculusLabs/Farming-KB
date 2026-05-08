@@ -128,10 +128,10 @@ Where psychoactive plants do not occur, information transfer between species pro
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[dmt]]
 - [[ayahuasca-preparation]]
 - [[ibogaine]]
 - [[stropharia-cubensis]]
-- [[stoned ape hypothesis]]
+- [[stoned-ape-hypothesis]]
 - Transcendent Other

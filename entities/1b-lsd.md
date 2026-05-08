@@ -113,7 +113,7 @@ No established clinical trials exist for 1B-LSD. All dosage and effect informati
 - [[eth-lad-entity-tihkal]] — 6-allyl-nor-LSD, a related lysergamide derivative
 - [[lsd-chemical-modifications-and-analogs]] — overview of LSD analog chemistry
 - [[lsd-pharmacology]] — detailed 5-HT₂A pharmacology of lysergamides
-- [[psilocybin]] — naturally occurring tryptamine psychedelic for comparison
+- [[psilocybin-compound]] — naturally occurring tryptamine psychedelic for comparison
 - [[dimethyltryptamine]] — endogenous tryptamine psychedelic compound
 - [[4-ho-mipt]] — synthetic tryptamine psychedelic (miprocin)
 - [[mescaline-entity]] — phenethylamine psychedelic for pharmacological comparison

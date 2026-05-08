@@ -120,6 +120,6 @@ widespread across South America, found from Colombia to Chile and Argentina.
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[gartz-global-psilocybin-mushroom-distribution]]
 - [[natto-making]]
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[teonanacatl-and-mesoamerican-mushroom-cults]]

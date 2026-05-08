@@ -1,28 +1,26 @@
 ---
-title: Non-Causality in Nature
+title: Non-Causality [[pdc-patterns-in-nature]]
 created: 2026-04-28
 tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - administrator-microsoft-word-fukuoka-textdoc.md
+  - administrator-microsoft-word-[[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]].md
 type: concept
 ---
+# [[fukuoka-theory-principle-of-non-causality]] in Nature
 
-# Non-Causality in Nature
-
-Non-causality is Masanobu Fukuoka's philosophical principle that cause and
-effect, as understood by human intellect, do not truly exist in nature. While
-causal relationships may appear discernible when observing isolated events at a
+Non-causality is [[masanobu-fukuoka]]'s philosophical principle that caufukuoka-textdoc-errors-of-human-intellectas understood by [[fukuoka-errors-human-intellect]], do not truly exist in nature. While
+causal relationships may appear dpermaculture-cycles-[[fungal-habitats-and-niches]]-in-timeble when observing isolated events at a
 specific point in time, examining nature holistically reveals a tangled web of
 relationships that defies resolution into simple cause and effect. This
-principle has profound implications for agriculture, science, and humanity's
+principle has profound implications [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's
 relationship with the natural world.
 
 ## The Illusion of Cause and Effect
 
 Fukuoka developed this principle through decades of observation and farming
-practice. His canonical example involves rice blast disease, a common fungal
+practice. His canonical example involves [[magnaporthe-grisea-functional-genomics-rice-blast]] disease, a common fungal
 affliction of rice plants. The conventional scientific approach identifies the
 rice blast bacterium as the cause and recommends applying copper or mercury
 pesticides as the solution. However, Fukuoka demonstrated that the true
@@ -148,11 +146,3 @@ something has occurred and something has vanished, yet nothing is ever created
 or destroyed. This is distinct from the scientific law of conservation of
 matter, which maintains that destruction and conservation exist side by side
 but ventures no further.
-
-## See Also
-
-- [[fukuoka-philosophy-non-causality-nature]]
-
-- [[natural-farming-five-principles]]
-- [[soil-self-enrichment]]
-- [[natural-diet-and-seasonal-eating]]

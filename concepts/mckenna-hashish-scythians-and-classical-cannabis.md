@@ -143,8 +143,6 @@ the sermon, the zealous sophist recovered his "beng."
 
 ## See Also
 
-
-
 - [[mckenna-cannabis-dreaming-weavers]] for the broader history of cannabis and culture
 - [[mckenna-opium-tobacco-paradoxical-attitudes]] for opium's parallel history
 - [[mckenna-dominator-vs-partnership-society-model]] for the dominator/partnership framework

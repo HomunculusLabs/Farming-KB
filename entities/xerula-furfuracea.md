@@ -119,7 +119,7 @@ Further phytochemical investigation of Xerula species may reveal compounds of ph
 - [[agaricus-campestris]]
 - [[agaricus-xanthodermus]]
 - [[armillaria-mellea]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[pleurotus-ostreatus]]
 - [[trametes-versicolor]]
 - [[lentinula-edodes]]

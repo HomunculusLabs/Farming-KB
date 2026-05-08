@@ -148,4 +148,3 @@ mycologists and indigenous communities is essential.
 
 - [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- [[psilocybe-genus-diversity-and-taxonomy]]

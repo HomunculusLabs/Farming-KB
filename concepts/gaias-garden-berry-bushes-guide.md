@@ -56,7 +56,7 @@ Berry bushes serve multiple functions within plant guilds:
 - **Wildlife habitat** -- dense shrubs provide nesting sites, escape cover, and food
 - **Insect attraction** -- flowers attract pollinators; berries attract birds that control pest insects
 - **Soil protection** -- roots hold soil on slopes and prevent erosion
-- **Edge creation** -- shrubs planted along boundaries create the productive edge zones that [[gaias-garden-edge-effect]] describes
+- **Edge creation** -- shrubs planted along boundaries create the productive edge zones that gaias garden edge effect describes
 
 Hemenway's guild designs frequently include berry bushes. For example, Jerome Osentowski's deer fence guild included gooseberry in the shrub layer, alongside hops and sweet peas on the trellis, sunflowers, clover and strawberries on the ground, and garlic in the root zone.
 

@@ -142,33 +142,6 @@ This is a major practical difference. LAB serum is a "make once, use for months"
 
 **Choose LAB Serum when:** you need a simple, low-cost input with long shelf life; foliar disease prevention is the primary goal; you're in a KNF system; or you lack space/budget for a tea brewer.
 **Choose Compost Tea when:** you need broad-spectrum biology including fungi and protozoa; you're managing soil-borne diseases; you want improved soil structure and nutrient cycling; or you need a one-product solution for overall plant health.
-
-## Can They Be Combined?
-
-Yes, but **not in the same tank and not during the brew** — LAB serum's acidic pH will damage compost tea organisms, especially protozoa and fungi. Apply compost tea first to establish broad biology, wait 3–5 days, then apply LAB serum as a foliar spray. Alternatively, use them in different roles: compost tea on soil and roots, LAB serum as a foliar protectant.
-
-## Quick-Reference Comparison Table
-
-| Attribute | LAB Serum | Compost Tea (ACT) |
-|---|---|---|
-| Origin system | Korean Natural Farming | Compost biology / soil food web |
-| Core ingredient | Rice wash + milk | Finished compost + aeration |
-| Microbial diversity | Low (mostly *Lactobacillus*) | High (bacteria, fungi, protozoa) |
-| Fungal content | None | Yes (if compost is fungal) |
-| Primary mechanism | Acid production, competitive exclusion | Ecological competition, nutrient cycling |
-| Disease suppression | Strong vs. foliar fungi | Broad-spectrum (foliar + soil-borne) |
-| Soil health benefit | Moderate | High (structure, nutrient cycling) |
-| Equipment cost | ~$0 | $30–$300+ |
-| Production time | 7–10 days | 12–36 hours |
-| Shelf life | Months (with sugar) | Hours (use immediately) |
-| Dilution rate | 1:500–1:1000 | Undiluted to 1:3 |
-| Best for | Foliar disease prevention, KNF systems | Overall soil and plant health |
-| Combine? | Yes, but apply separately | Yes, but apply separately |
-
-## Final Takeaway
-
-LAB serum and compost tea are complementary, not competing, tools. Think of LAB serum as a **scalpel** — precise, targeted, easy to wield, excellent for specific problems like foliar disease. Compost tea is a **broad-spectrum medicine** — more complex to prepare, but it addresses the whole system. The best growers keep both in their toolkit and deploy each where it makes the most impact.
-
 ## See Also
 
 - [[comparison-fermented-plant-extract-vs-compost-tea]]

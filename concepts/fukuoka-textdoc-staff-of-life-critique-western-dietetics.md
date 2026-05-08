@@ -131,5 +131,5 @@ starker.
 [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 [[fukuoka-textdoc-nature-of-food]]
 [[fukuoka-textdoc-getting-natural-diet]]
-[[fukuoka-natural-diet-principles]]
+[[fukuoka-natural-farming-philosophy]]
 [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]

@@ -129,7 +129,7 @@ Numerous Chemdawg 91 crosses exist, including Stardawg,Underdawg, and various Ch
 - [[skunk-1]]
 - [[northern-lights]]
 - [[jack-herer]]
-- [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - [[chemdawg]]
 - [[girl-scout-cookies]]
 - [[beta-caryophyllene]]

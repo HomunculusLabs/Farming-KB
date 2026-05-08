@@ -10,7 +10,7 @@ sources: []
 ## Overview
 Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. two species are
-primarily cultivated: German chamomile (Matricaria chamomilla, syn. M.
+primarily cultivated: German chamomile ([[matricaria-chamomilla]], syn. M.
 recutita) and Roman chamomile (Chamaemelum nobile). While they share many
 medicinal qualities, they differ significantly in growth habit, cultivation
 requirements, and ideal uses.
@@ -114,7 +114,7 @@ For both species:
   soap.
 - Powdery mildew: Improve air circulation around plants.
 - Leggy growth: Indicates too much shade or excessive nitrogen.
-## Companion Planting
+## [[companion-planting]]
 Chamomile is an excellent companion plant:
 - Said to improve the flavor and growth of nearby and vegetables
 - Attracts beneficial insects including hoverflies and wasps
@@ -123,6 +123,6 @@ Chamomile is an excellent companion plant:
   cabbage, and cucumbers
 ## See Also
 - [[yarrow-plant-guide]] -- combine with chamomile in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another adaptogenic tea herb for daily use
+- holy basil tulsi guide -- another adaptogenic tea herb for daily use
 ## Related
 - [[st-johns-wort-guide]]

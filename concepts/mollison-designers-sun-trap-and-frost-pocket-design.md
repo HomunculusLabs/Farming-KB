@@ -148,4 +148,3 @@ landscape element.
 - [[mollison-designers-snow-ice-and-winter-design-strategies]]
 - [[mollison-designers-house-site-preparation-and-drainage-design]]
 - [[mollison-frost-protection-and-thermal-belt-design]]
-- [[mollison-designers-design-client-interview-and-site-assessment-process]]

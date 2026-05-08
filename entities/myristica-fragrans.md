@@ -41,8 +41,8 @@ Nutmeg contains a complex mixture of volatile oils, fixed oils, and psychoactive
 
 ### Psychoactive Alkaloids
 
-- **Myristicin** (4-methoxy-6-propyl-1,2-methylenedioxybenzene) — the primary psychoactive compound, comprising approximately 0.2% to 1.3% of the seed by weight. Myristicin is a phenylpropene compound structurally related to [[mescaline]] (sharing the 3,4-methylenedioxyphenyl group) and to safrole. It is believed to be metabolically converted to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative, though this metabolic pathway remains debated.
-- **Elemicin** (3,4,5-trimethoxyallylbenzene) — a phenylpropene compound comprising approximately 0.1% to 0.4% of the seed. Elemicin is structurally related to [[mescaline]] (sharing the 3,4,5-trimethoxyphenyl group) and is believed to be metabolically converted to TMA (3,4,5-trimethoxyamphetamine). It contributes to the overall psychoactive profile of nutmeg.
+- **Myristicin** (4-methoxy-6-propyl-1,2-methylenedioxybenzene) — the primary psychoactive compound, comprising approximately 0.2% to 1.3% of the seed by weight. Myristicin is a phenylpropene compound structurally related to [[mescaline-entity]] (sharing the 3,4-methylenedioxyphenyl group) and to safrole. It is believed to be metabolically converted to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative, though this metabolic pathway remains debated.
+- **Elemicin** (3,4,5-trimethoxyallylbenzene) — a phenylpropene compound comprising approximately 0.1% to 0.4% of the seed. Elemicin is structurally related to [[mescaline-entity]] (sharing the 3,4,5-trimethoxyphenyl group) and is believed to be metabolically converted to TMA (3,4,5-trimethoxyamphetamine). It contributes to the overall psychoactive profile of nutmeg.
 - **Safrole** (4-allyl-1,2-methylenedioxybenzene) — a precursor compound present in the essential oil at approximately 0.2% to 0.5%. Safrole is a controlled substance precursor used in the illicit synthesis of MDMA.
 - **Elimicin** and **isoelemicin** — additional phenylpropene compounds present in trace amounts.
 

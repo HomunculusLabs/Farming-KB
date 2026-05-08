@@ -60,12 +60,12 @@ ACDC's therapeutic effects are significantly modulated by its terpene compositio
 
 | Terpene | Typical Range | Aroma | Effects |
 |---------|---------------|-------|---------|
-| Myrcene | 0.4–0.8% | Earthy, musky, herbal | Sedative, muscle relaxant, anti-inflammatory |
-| Pinene (α + β) | 0.2–0.5% | Pine, woody, fresh | Bronchodilator, memory retention, alertness |
+| [[myrcene]] | 0.4–0.8% | Earthy, musky, herbal | Sedative, muscle relaxant, anti-inflammatory |
+| [[pinene]] (α + β) | 0.2–0.5% | Pine, woody, fresh | Bronchodilator, memory retention, alertness |
 | Caryophyllene | 0.2–0.4% | Pepper, spicy, woody | Anti-inflammatory (CB2 agonist), analgesic |
-| Limonene | 0.1–0.3% | Citrus, lemon | Anxiolytic, mood elevation, GI relief |
-| Linalool | 0.1–0.3% | Floral, lavender | Calming, anxiolytic, sedative |
-| Humulene | 0.05–0.2% | Earthy, woody | Anti-inflammatory, appetite suppressant |
+| [[limonene]] | 0.1–0.3% | Citrus, lemon | Anxiolytic, mood elevation, GI relief |
+| [[linalool]] | 0.1–0.3% | Floral, lavender | Calming, anxiolytic, sedative |
+| [[humulene]] | 0.05–0.2% | Earthy, woody | Anti-inflammatory, appetite suppressant |
 | Bisabolol | Trace–0.1% | Floral, chamomile | Anti-irritant, antimicrobial |
 
 The dominant myrcene-pinene-caryophyllene profile contributes to ACDC's earthy, slightly sweet aroma with pine undertones and subtle spicy notes. The terpene synergy with CBD is believed to enhance its anti-inflammatory and anxiolytic properties through the entourage effect.
@@ -134,7 +134,7 @@ CBD's anti-inflammatory properties make ACDC useful for inflammatory bowel disea
 ACDC's sativa-dominant growth pattern produces tall plants with moderate lateral branching. Key considerations:
 
 - **Phenotype stability:** ACDC exhibits some phenotypic drift; clones from verified mother plants are strongly preferred over seeds for consistent CBD:THC ratios. Seed-grown plants may show variable cannabinoid profiles.
-- **Training:** LST (low-stress training) and SCROG (screen of green) work well to manage height and maximize canopy evenness. Topping encourages lateral branching and increases yield.
+- **Training:** LST (low-stress training) and SCROG ([[screen-of-green]]) work well to manage height and maximize canopy evenness. Topping encourages lateral branching and increases yield.
 - **Nutrients:** Moderate feeder; avoid excessive nitrogen during flowering as it can reduce terpene and cannabinoid production. CalMag supplementation important during weeks 3–6 of flowering.
 - **Harvest timing:** CBD peaks slightly earlier than THC in the flowering window. Harvest at approximately 70–80% cloudy trichomes with minimal amber for optimal CBD:THC ratio.
 - **Post-harvest:** Slow dry (10–14 days at 15–18°C, 55–60% RH) preserves terpene profile. Cure for minimum 4 weeks in sealed containers with 62% humidity packs.
@@ -148,5 +148,3 @@ ACDC's low THC content (<0.3% dry weight in compliant cultivars) places it in a 
 - [[cannabidiol-cbd]] — CBD compound profile
 - [[charlottes-web]] — Charlotte's Web, another high-CBD strain
 - cannatonic — Parent strain of ACDC
-- [[myrcene]] — Dominant terpene in ACDC
-- [[endocannabinoid-system]] — Physiological system targeted by cannabis compounds

@@ -132,7 +132,7 @@ The CHI was published alongside a free mobile application and a companion monthl
 
 ## See Also
 
-- [[cannabis-health-index-scoring]]
+- cannabis health index scoring system
 - [[blesching-cannabis-health-index-autoimmune-conditions]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 

@@ -142,6 +142,6 @@ Mochi remains a **high-demand craft strain** in legal cannabis markets, commandi
 - [[thin-mint-cookies]]
 - [[wedding-cake-cannabis]]
 - [[ice-cream-cake-cannabis]]
-- [[runtz]]
+- [[runtz-entity]]
 - [[zkittlez]]
 - [[golden-goat]]

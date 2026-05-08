@@ -103,7 +103,7 @@ Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Elect
 
 - [[zone-sector-analysis-guide]]
 - [[permaculture-climate-zones]]
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-design]]
 - [[fukuoka-natural-farming-method]]
 - [[permaculture-wildlife-corridors]]
 - [[permaculture-small-and-slow-solutions]]

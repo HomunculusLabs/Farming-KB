@@ -138,27 +138,6 @@ The simplest mead — honey, water, and yeast. Low ABV (3–5%), drinkable like 
 ## Common Beginner Mistakes
 
 1. **Chlorinated tap water** — kills cultures. Filter, boil, or aerate first.
-2. **Wrong container** — always glass. Metal reacts with acids; plastic leaches.
-3. **Not enough sugar** — it feeds the microbes. Most is consumed. Under-sweetened ferments stall.
-4. **Airtight lids on active ferments** — CO₂ can explode glass jars. Use cloth covers.
-5. **Over-fermenting** — taste regularly. Most drinks get more acidic (then vinegary) over time. Refrigerate when you like it.
-6. **Impatience** — don't open/stir constantly. Let microbes work undisturbed.
-
----
-
-## Which Should You Start With?
-
-- **Easiest possible first ferment?** → Ginger bug (ginger + sugar + water)
-- **Most probiotic benefit?** → Milk or water kefir (highest microbe diversity)
-- **Fizzy and fun?** → Kombucha or ginger beer (great for fruit second-fermentation experiments)
-- **Dairy-free?** → Water kefir, kombucha, or tepache
-- **Use food scraps?** → Tepache (pineapple rinds) or beet kvass
-- **Interested in alcohol?** → Session mead (simplest gateway to homebrewing)
-
----
-
-*Start with one beverage, get comfortable, then expand. Within a few months you'll have a kitchen full of cultures and the confidence to experiment freely.*
-
 ## See Also
 
 - [[query-what-are-the-best-mushroom-species-for-beginners]]

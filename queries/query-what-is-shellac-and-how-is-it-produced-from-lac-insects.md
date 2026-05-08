@@ -128,6 +128,6 @@ Shellac has unique advantages that synthetics can't fully replicate:
 
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
 
-- [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] — comprehensive topic page on lac cultivation and shellac science
+- query what is shellac and how is it produced from lac insects — comprehensive topic page on lac cultivation and shellac science
 - [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] — how shellac compares to other natural finishes
 - beekeeping and pollinator conservation — for comparison with another insect-produced natural material

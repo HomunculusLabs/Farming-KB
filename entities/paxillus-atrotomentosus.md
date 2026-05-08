@@ -20,7 +20,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Paxillus atrotomentosus** (Batsch) Fr., commonly known as the **velvet bolete** or **velvet pax**, is a species of agaricoid fungus in the family [[paxillus-atrotomentosus]]. Despite its bolete-like appearance, it belongs to the order Boletales but produces gill-like structures rather than pores.
+**Paxillus atrotomentosus** (Batsch) Fr., commonly known as the **velvet bolete** or **velvet pax**, is a species of agaricoid fungus in the family paxillus atrotomentosus. Despite its bolete-like appearance, it belongs to the order Boletales but produces gill-like structures rather than pores.
 
 The species forms **ectomycorrhizal associations** with coniferous trees, particularly **Scots pine** (*Pinus sylvestris*) and other members of Pinaceae.
 
@@ -122,12 +122,12 @@ The velvety black stipe of *P. atrotomentosus* is a diagnostic character not sha
 
 Young specimens of *Hygrophoropsis aurantiaca* (false chanterelle) may superficially resemble the cap coloration but have clearly forking gills and a smooth stipe.
 
-Some dark-capped [[boletus-edulis]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
+Some dark-capped [[boletus-edulis-entity]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
 
 ## See Also
 
 - [[paxillus-involutus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[laccaria-bicolor]]
 - [[mycorrhiza]]
 - [[ectomycorrhiza]]

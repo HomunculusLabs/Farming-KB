@@ -137,41 +137,6 @@ yields compared to unstressed cultures.
 
 Preventing metabolite exudation is always preferable to correcting it after it appears.
 Regular monitoring of colonisation progress allows the cultivator to identify when jars
-are approaching full colonisation and plan accordingly.
-Jars should be checked every two to three days during the colonisation phase to track
-progress and catch the transition to full colonisation promptly. Maintaining consistent
-incubation temperatures at or slightly above room temperature, approximately 20 to 22
-degrees Celsius, prevents heat-induced stress.
-Avoid placing incubation jars near heat sources, on top of refrigerators or other
-appliances that generate warmth, or in direct sunlight where temperatures can fluctuate
-or exceed optimal ranges.
-For cultivators who cannot monitor their jars daily, using slightly lower incubation
-temperatures extends the safe window between full colonisation and the onset of stress
-metabolites. The trade-off is slower colonisation, but this is generally preferable to
-the risk of metabolite exudation from overheating.
-
-## Species Considerations
-
-Different species vary in their susceptibility to metabolite exudation. Fast-colonising
-species like [[psilocybe-cubensis]] tend to show metabolite exudation more quickly when
-over-incubated because their metabolic rate is higher.
-Slower species like [[psilocybe-tampanensis]] may tolerate longer incubation periods
-before showing signs of stress, giving the cultivator more time to notice and case
-the jars. The colour and consistency of the exudate can also vary by species.
-Some strains produce only faint yellowish tinges while others generate prominent amber
-droplets. Cultivators should learn to recognise the normal range of variation for the
-species and strains they work with most frequently.
-
-## Relationship to Fruiting Performance
-
-Jars that have produced metabolites but are cased promptly can still deliver acceptable
-fruiting performance. The mushrooms that develop from stressed mycelium may be slightly
-smaller or fewer in number than those from unstressed cultures, but they remain viable
-and potent.
-The key variable is how long the mycelium was under stress before intervention. Brief
-stress periods of a few days have minimal impact on final yield, while prolonged stress
-of a week or more can significantly reduce productivity.
-
 ## See Also
 
 - [[mycelial-metabolite-excretion-stress-response-grain-jars]]

@@ -402,7 +402,7 @@ slopes at forty-five degrees or less prevent this.
 - [[hugelkultur]] for core technique and construction details
 - [[hemenway-hugelkultur-guide]] for Toby Hemenway's approach
 - [[holzer-crater-gardens-hugelkultur]] for crater garden variant
-- [[holzer-raised-bed-design]] for Holzer's raised bed principles
+- [[sepp-holzer-permaculture-and-rebel-farming]] for Holzer's raised bed principles
 - [[gaias-garden-hugelkultur]] for food forest integration
 - [[gaias-garden-sheet-mulching-guide]] for sheet mulching instructions
 - [[hemenway-sheet-mulching-guide]] for detailed sheet mulching

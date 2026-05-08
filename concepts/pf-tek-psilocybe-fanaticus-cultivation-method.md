@@ -85,4 +85,4 @@ The PF TEK was copied by organizations worldwide, including Hemp BC (Vancouver),
 - [[pf-tek-fruiting-chamber]]
 - [[paul-stamets]]
 - [[timothy-leary]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

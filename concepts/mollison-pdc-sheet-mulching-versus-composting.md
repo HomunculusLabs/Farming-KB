@@ -148,4 +148,3 @@ results more broadly across the landscape.
 
 - [[mollison-zone-one-garden-design]]
 - [[sheet-mulching-guide]]
-- [[permaculture-zone-one-design]]

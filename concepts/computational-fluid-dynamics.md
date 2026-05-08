@@ -138,9 +138,9 @@ Responsible CFD treats color plots as diagnostic evidence, not proof; numerical 
 
 ## See Also
 - [[navier-stokes-equations-fluid-dynamics]]
-- [[reynolds-number-and-flow-regimes]]
+- reynolds number and flow regimes
 - [[turbulence-modeling-fluid-dynamics]]
-- [[boundary-layer-theory-fluid-dynamics]]
+- boundary layer theory fluid dynamics
 - [[finite-element-method]]
 - [[heat-transfer-mechanisms]]
 

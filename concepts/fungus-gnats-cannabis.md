@@ -136,7 +136,7 @@ The impact of fungus gnat infestations on cannabis crops includes:
 - [Root Rot — secondary fungal infection from gnat root damage
 - [Spider Mites — common concurrent pest in indoor gardens
 - [Thrips — another flying pest that can be monitored with sticky traps
-- [[cannabis-pest-management]] — comprehensive IPM overview
+- cannabis pest management — comprehensive IPM overview
 - [Beneficial Insects — predator options for gnats
 - [[cannabis-disease-guide]] — broader disease reference
 - [[nutrient-movement-through-soil-to-plant-roots]]

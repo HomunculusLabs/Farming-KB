@@ -112,7 +112,7 @@ The principle applies at every scale of garden design:
 - [[gaias-garden-multipurpose-plants]] for species that inherently stack functions
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] for plant communities that stack functions through interconnection
 - [[gaias-garden-many-gardens-garden-design-process]] for incorporating stacking functions into garden planning
-- [[gaias-garden-edge-effect]] for zones where multiple functions naturally overlap
+- gaias garden edge effect for zones where multiple functions naturally overlap
 - [[gaias-garden-interplanting-polyculture]] for spatial function stacking
 - [[permaculture-food-forest-design-principles]] for landscape-scale function stacking
 - [[gaias-garden-beneficial-birds-wildlife]] as elements that stack many garden functions

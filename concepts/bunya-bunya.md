@@ -101,7 +101,7 @@ In a [[permaculture]] design, the bunya bunya serves several functions:
   populations
 - **Timber**: White softwood has value for construction and craft
 - **Tannin source**: Bark contains 10% tannin for leather processing
-- **[[cervantes-trichome-resin-production]]**: Trunk resin used traditionally as an adhesive
+- **[[cannabis-advanced-growing-techniques]]**: Trunk resin used traditionally as an adhesive
 
 ## Limitations
 

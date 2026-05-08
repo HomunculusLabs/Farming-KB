@@ -6,15 +6,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-    author: Masanobu Fukuoka
+    author: [[masanobu-fukuoka]]
     title: The Natural Way of Farming
 type: concept
 ---
-
-# No-Till Direct-Seeded Rice/Barley Succession in Clover Cover
+# [[jadam-soil-surface-management-no-till]] Direct-Seeded Rice/Barley Succession in Clover Cover
 
 No-till direct-seeded rice and barley (or wheat) succession grown in a living
-cover of clover represents the centerpiece of Masanobu Fukuoka's natural farming
+cover of clomasanobu-fukuokahe centerpiece of Masanobu Fukuoka's [[natural-farming]]
 method. This system eliminates plowing, chemical fertilizers, pesticides,
 compost preparation, and weeding while consistently producing above-average
 yields. Fukuoka described it as a "methodless method" that lets nature grow the
@@ -26,12 +25,12 @@ Fukuoka's natural farming rests on five foundational principles that this
 cultivation system embodies simultaneously:
 
 1. **No tillage**: The soil is never plowed or turned. Microorganisms and small
-   animals serve as nature's tillers. Tilling kills soil life, hardens the
+   animals serve as nature's tillers. Tilling kills [[soil-life]], hardens the
    earth, and creates the conditions that make a plow seem necessary in the
    first place, generating a self-perpetuating cycle of intervention.
 
 2. **No fertilizer**: Chemical fertilizers and prepared compost are not applied.
-   Soil enriches itself year after year through the decomposition of straw
+   Soil enriches itself year after year through the [[decomposition]] of straw
    mulch, clover, and green manure plants. Rice straw scattered over the field
    provides organic matter half a year before the rice is sown, activating
    latent soil fertility.
@@ -111,7 +110,7 @@ heads of grain per square yard with an average of 200 grains per head.
 More significantly, natural farming produces 130 pounds of rice, or 200,000
 kilocalories of energy, per man-day of labor without any outside material
 inputs. This is approximately 100 times the daily caloric intake of a farmer
-on a natural diet. By comparison, traditional farming with draft animals
+on a [[natural-diet]]. By comparison, traditional farming with draft animals
 required ten times the energy expenditure, small-scale mechanization doubled
 it again, and large-scale mechanization doubled it yet again, producing the
 energy-intensive methods of today.
@@ -148,6 +147,3 @@ working within its processes rather than imposing human designs upon them.
 ## See Also
 
 - [[natural-ground-cover-and-straw-mulching]]
-- [[mahayana-and-hinayana-natural-farming]]
-- [[clay-pellet-desert-revegetation]]
-- [[non-causality-in-nature]]

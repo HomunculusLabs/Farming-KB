@@ -111,7 +111,7 @@ Cavendish is grown in large-scale monoculture plantations:
 - **Inputs:** High — regular fertilizer, irrigation, fungicide sprays (15–50/year for black Sigatoka control), nematode management, bunch bagging
 - **Labor:** Intensive — desuckering, leaf pruning, propping, harvest, de-handing, packing
 - **Yield:** 40–80 tonnes/ha/year under intensive management
-- **Post-harvest:** Complex cold chain, ripening facilities, packaging, export logistics
+- **[[post-harvest-handling-marketing-mushrooms]]:** Complex cold chain, ripening facilities, packaging, export logistics
 
 ### East African Highland: Smallholder Mixed Farming
 
@@ -142,52 +142,6 @@ EAH bananas are integrated into complex smallholder farming systems:
 | **Vitamin A** | 64 IU (3 μg RAE) | 50–100 IU (varies with cultivar) |
 
 ## Culinary Uses
-
-### Cavendish
-
-- **Fresh eating:** The primary use — peeled and eaten raw when fully ripe
-- **Smoothies and desserts:** Blended into drinks, milkshakes, ice cream, puddings
-- **Baking:** Banana bread, muffins, pancakes, cakes
-- **Drying:** Banana chips, dried banana snacks
-- **Frozen:** Frozen banana slices for smoothies and nice cream
-- **Minimal cooking:** Occasional use in fritters or pancakes
-
-### East African Highland (Matooke)
-
-- **Steaming/boiling (primary):** The staple preparation — peeled, wrapped in banana leaves, and steamed for 1–3 hours until soft. Mashed and served with groundnut sauce, beans, meat, or fish stews
-- **Katogo:** A one-pot dish of chopped matooke cooked with beans, beef, or offal
-- **Kalyankoko:** Overripe matooke sun-dried and ground into flour for porridge
-- **Banana juice:** Extracted from ripe EAH bananas, fermented or fresh. Major beverage in Uganda and Rwanda
-- **Beer/wine:** Fermented banana beer (*urwagwa* in Rwanda, *lubisi* in Uganda) is a traditional alcoholic beverage
-- **Fried:** Occasionally sliced and fried when slightly underripe
-- **Baby food:** Mashed steamed matooke is a primary weaning food across East Africa
-
-## Disease and Pest Susceptibility
-
-| Disease/Pest | Cavendish | East African Highland |
-|-------------|-----------|----------------------|
-| **Panama Disease TR4** | Extremely susceptible — major global threat | Moderate susceptibility; some EAH cultivars show tolerance |
-| **Black Sigatoka** | Very susceptible; requires intensive fungicide programs | Moderately susceptible; some cultivars have field tolerance |
-| **Banana Bunchy Top Virus** | Susceptible | Susceptible — major concern in some highland zones |
-| **Banana bacterial wilt (BXW)** | Not widely affected | Severely affected — BXW has caused devastating losses in Uganda and Kenya since 2001 |
-| **Banana weevil** | Susceptible | Susceptible; damage compounded by cooler soils that slow regrowth |
-| **Nematodes** | Very susceptible (Radopholus similis) | Susceptible; toppling disease is a serious problem |
-| **Banana streak virus** | Can be integrated in genome (endogenous) | Present in some cultivars |
-
-
-## Which to Choose?
-
-| Scenario | Recommendation |
-|----------|---------------|
-| Commercial export fruit production | **Cavendish** (but monitor TR4 and consider FHIA hybrids as insurance) |
-| Home garden in tropical lowland (<1,000 m) | **Cavendish** (dessert) or a mix with Silk/Apple types |
-| Home garden in subtropical climate (USDA 9b–10) | **Neither** — choose Dwarf Cavendish, Ice Cream, or Rajapuri instead |
-| Highland farming (1,200–2,000 m) in East Africa | **East African Highland** (check BXW status, use clean planting material) |
-| Highland farming elsewhere (e.g., PNG, Andes, SE Asia) | **EAH or FHIA hybrids** — evaluate local adaptation first |
-| Low-input subsistence farming in the tropics | **EAH or plantain (AAB)** — more versatile and tolerant |
-| Permaculture food forest | **Both** — Cavendish for quick dessert yield, EAH-type for cooking staple (if climate allows) |
-| Maximizing genetic diversity on-farm | **EAH cultivars** — unmatched diversity with dozens of named types for different uses and seasons |
-
 ## See Also
 
 - [[comparison-wild-vs-cultured-yeast]]

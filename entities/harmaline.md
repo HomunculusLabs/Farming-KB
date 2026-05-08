@@ -148,8 +148,3 @@ penetration and receptor interaction versus harmine.
 - [[passiflora-incarnata]]
 
 - [[beta-carboline]]
-- MAO Inhibitor
-- [[ayahuasca]]
-- [[dmt]]
-- [[peganum-harmala]]
-- [[banisteriopsis-caapi]]

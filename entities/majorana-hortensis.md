@@ -107,16 +107,16 @@ Sweet marjoram's distinction from oregano lies primarily in its sweeter, more de
 
 ## See Also
 
-- [[origanum-vulgare]]
-- [[thymus-vulgaris]]
-- [[rosmarinus-officinalis]]
+- [[origanum-vulgare-entity]]
+- [[thymus-vulgaris-entity]]
+- [[rosmarinus-officinalis-entity]]
 - [[salvia-officinalis]]
 - [[ocimum-sanctum]]
-- [[lavandula-angustifolia]]
+- [[lavandula-angustifolia-entity]]
 - [[mentha-piperita]]
 - [[melissa-officinalis]]
 - [[zingiber-officinale]]
-- [[allium-sativum]]
-- [[piper-nigrum]]
+- [[allium-sativum-entity]]
+- [[piper-nigrum-entity]]
 - [[curcuma-longa]]
 - [[nepeta-cataria]]

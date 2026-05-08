@@ -121,17 +121,6 @@ Seed oil has antiseptic value for treating human and animal skin diseases. Also 
 - **Root decoction with carbonate of potash**: Lumbago, rheumatism, sciatica
 
 ### Carob (Ceratonia siliqua)
-Pods used medicinally as a remedy for bowel conditions in children. Highly nutritious (40-50% sugar content). Excellent bee forage.
-
-## Design Considerations
-
-- Plant medicinal herbs throughout the system -- in [[food-forest-understory-plants]], [[cotter-outdoor-mushroom-garden-mulch-beds]], and [[fukuoka-white-clover-ground-cover]] strips
-- Allow livestock free access to a diverse herbal ley for self-medication
-- Use hedgerows combining [[permaculture-plants-insectary-bee-forage]], medicinal, and [[fire-resistant-plants]] species for maximum multi-function
-- Many medicinal plants are also culinary herbs -- integrate into kitchen gardens
-- Always research proper dosing and contraindications before using medicinal plants internally
-- Some plants (foxglove, castor seeds) are toxic and should only be used with expert knowledge
-
 ## Related
 - [[aloe-arborescens]]
 

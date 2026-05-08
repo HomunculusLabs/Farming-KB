@@ -79,7 +79,7 @@ In dryland flood plains, multiple small streams produce much larger wetted areas
 - [[permaculture-earthworks-design]]
 - [[permaculture-dam-design]]
 - [[permaculture-catchment-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[permaculture-designers-manual-plant-toxins-dryland]]
 - [[permaculture-designers-manual-bamboo-species-uses]]

@@ -145,5 +145,5 @@ Holzer recommends several practical steps:
 ## Related Concepts
 
 - [[holzer-seed-saving-and-variety-preservation]] - Holzer seed saving
-- [[permaculture-seed-saving-and-selection]] - General seed saving
+- [[permaculture-design]] - General seed saving
 - [[holzer-old-varieties-and-seed-saving]] - Old varieties overview

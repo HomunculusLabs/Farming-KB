@@ -142,32 +142,6 @@ Apply 75–100 mm of straw, sugarcane, or lucerne mulch. This keeps the surface 
 |---------|-------------------|
 | Using garden soil | Poor capillary action — water won't wick up effectively |
 | No overflow drain | Waterlogging kills roots; structural damage from buoyant liner |
-| Punctured liner | Reservoir won't hold water — inspect carefully during build |
-| Reservoir too shallow | Insufficient water storage; frequent refilling needed |
-| Fill pipe too narrow | Difficult to fill and hard to inspect water level |
-| No mulch | Surface evaporation defeats the purpose; more weeds |
-| Non-wicking reservoir fill | Fine sand or compacted material won't store or release water well |
-| No wicking layer | Soil won't make adequate contact with the water source |
-
-## Cost Estimates
-
-| Option | Approximate Cost (AUD) |
-|--------|----------------------|
-| DIY wicking bed (1.2 × 2.4 m) | $200–$400 (timber frame, liner, reservoir fill, pipes, soil) |
-| DIY with corrugated iron frame | $250–$450 |
-| Commercial wicking bed kit (e.g., WaterUps) | $400–$800+ depending on size |
-| Repurposed IBC tote conversion | $50–$150 (plus soil and growing media) |
-
-Soil and growing media are the biggest single expense — buying in bulk or mixing your own with compost and coir keeps costs down.
-
-## Variations and Creative Designs
-
-- **IBC tote wicking beds**: Cut the top off a food-grade IBC tote, install a liner, reservoir, and overflow — extremely cheap and portable
-- **Bathtub wicking beds**: Old bathtubs make excellent pre-formed containers with a built-in drain hole; add an internal liner and reservoir
-- **Balcony mini wicking beds**: Use large planter boxes (400 mm+ deep) with a simple gravel reservoir layer; perfect for apartment gardening
-- **Linked reservoirs**: Connect multiple beds to a single water tank via gravity-fed piping; great for larger gardens and automated irrigation
-- **In-ground wicking beds**: Excavate a trench, line it, and install the reservoir below ground level — lower profile and better frost protection
-
 ## See Also
 
 - [[david-holmgren]]

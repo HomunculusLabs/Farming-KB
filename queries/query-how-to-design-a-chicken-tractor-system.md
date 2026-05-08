@@ -89,7 +89,7 @@ for 1 to 2 weeks.
 The birds will eat remaining plant material, scratch up weed seeds,
 consume soil-dwelling pest larvae, and fertilize the bed with their
 droppings. This creates a ready-to-plant surface with minimal effort.
-This practice is a cornerstone of [[no-till-gardening-method]] because
+This practice is a cornerstone of [[composting-and-soil-biology]] because
 it builds soil structure and adds organic matter without mechanical
 tilling. The combination of aeration from scratching, organic matter
 deposition, and natural pest control makes the tractor a living

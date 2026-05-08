@@ -38,7 +38,7 @@ Immunopotentiation from mushroom beta-glucans and polysaccharide-protein complex
 
 Multiple mushroom species produce structurally distinct but functionally similar immunomodulators:
 
-- [[turkey-tail-mushroom-cancer-research]] -- PSK and PSP from Trametes versicolor
+- [[mushroom-cultivation-fundamentals]] -- PSK and PSP from Trametes versicolor
 - [[shiitake-medicinal-compounds]] -- Lentinan from Lentinus edodes
 - [[maitake-d-fraction-research]] -- D-fraction and Grifron-D from Grifola frondosa
 - [[reishi-mushroom-medicinal-properties]] -- Beta-glucans, Ling Zhi-8 protein, and triterpenes from Ganoderma lucidum

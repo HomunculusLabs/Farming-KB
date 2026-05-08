@@ -138,5 +138,5 @@ scientific literature serves an important preservation function.
 
 - [[traditional-indigenous-use-sacred-fungi]]
 - [[mexico-center-neurotropic-fungal-diversity]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi
 - [[gasteromycetes-sacred-fungi]]

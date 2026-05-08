@@ -123,7 +123,7 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[turner-psychedelic-combination-experience-reports]]
 - [[turner-mescaline-peyote-san-pedro-experience]]
 - [[psychedelic-safety-and-harm-reduction]]

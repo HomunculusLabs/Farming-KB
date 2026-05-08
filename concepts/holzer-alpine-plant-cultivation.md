@@ -11,9 +11,6 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 Over years of experience cultivating plants from Alpine regions, Holzer's most important lesson: all events in nature should be observed closely. This is a wonderful activity because you never cease to learn and profit from it.
 
-
-
-
 ## Yellow Gentian (Gentiana lutea)
 
 ### Germination Requirements
@@ -48,9 +45,6 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 - Without digging, roots wear out from age (30-40 years), soil mats and compacts, roots die out
 - Holzer argues protectors should be trained to cultivate and propagate rather than just restrict access
 
-
-
-
 ## Other Alpine Plants Cultivable by This Method
 
 - Spotted gentian (Gentiana punctata)
@@ -60,9 +54,6 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 - Mountain pasque flowers (Pulsatilla montana)
 - Cowberries (Vaccinium vitis-idaea)
 - Bilberries (Vaccinium myrtillus)
-
-
-
 
 ## Key Principles for Alpine Plant Propagation
 
@@ -74,9 +65,6 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 6. When cultivating at lower altitudes, introduce native soil for mycorrhizal fungi
 7. When sowing in natural environments, native soil is not necessary (fungi already present)
 
-
-
-
 ## General Lesson
 
 "You simply tried too hard with your plants. Nature cannot be 'improved' upon." The same principle applies to many aspects of ecological growing: observe nature, understand conditions, and work with them rather than imposing artificial methods.
@@ -85,4 +73,4 @@ See also: [[holzer-ancient-cereals-growing]], [[holzer-fruit-tree-planting-metho
 - [[holzer-alpine-plant-cultivation-gentian]]
 - [[permaculture-ground-cover-plants]]
 - [[symbiotic-fungi-mycorrhizal-inoculum-production]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

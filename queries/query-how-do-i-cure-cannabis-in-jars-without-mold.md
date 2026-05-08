@@ -80,7 +80,7 @@ If you ever see visible fuzz, discard the affected material and inspect neighbor
 Curing jars should be kept cool, dark, and stable.
 Heat speeds degradation and can increase pressure for microbial growth if the flowers are too moist.
 Light degrades cannabinoids and terpenes, so curing jars should not sit in sunlit rooms.
-[[cervantes-curing-storage|Cervantes curing storage]] treats storage conditions as part of preserving finished flower quality.
+[[cannabis-advanced-growing-techniques|Cervantes curing storage]] treats storage conditions as part of preserving finished flower quality.
 A closet, cabinet, or dedicated curing tote is usually better than a warm windowsill or grow room corner.
 Quality curing is less about dramatic intervention and more about stable conditions repeated every day.
 
@@ -119,7 +119,7 @@ A curing log with jar dates, burping frequency, and observations makes repeated 
 - Follow [[cannabis-curing-jar-technique|jar curing technique]] by burping frequently at first.
 - Watch for warning smells described in [[cannabis-drying-and-curing|drying and curing]] guidance.
 - Use [[cannabis-manicuring-techniques|manicuring choices]] to manage drying speed and bud density.
-- Keep jars cool and dark as recommended by [[cervantes-curing-storage|curing storage]] guidance.
+- Keep jars cool and dark as recommended by [[cannabis-advanced-growing-techniques|curing storage]] guidance.
 - Treat condensation, clumping, fuzz, or ammonia odor as signs to stop sealing the jar.
 - Separate risky jars instead of mixing questionable flowers into the main harvest.
 

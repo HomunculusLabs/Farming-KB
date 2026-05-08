@@ -112,7 +112,7 @@ In North America, some forest managers have experimented with reduced-impact har
 
 ## See Also
 
-[[tricholoma-matsutake]] [[boletus-edulis]] [[cantharellus-cibarius]]
+[[tricholoma-matsutake]] [[boletus-edulis-entity]] [[cantharellus-cibarius-entity]]
 [[amanita-muscaria]] [[lactarius-deliciosus]] [[suillus-luteus]]
 [[leccinum-scabrum]] [[russula-vesca]] [[russula-xerampelina]]
 [[trametes-versicolor]] [[hericium-erinaceus]] [[grifola-frondosa]]

@@ -148,8 +148,3 @@ recover and thrive.
 [[mycoremediation-stamets-approach]] provides Stamets' comprehensive framework for fungal remediation.
 [[mycorestoration-overview]] covers the foundational concepts of using fungi for ecological recovery.
 [[mycelium-running-filtering-water-with-fungi]] details the water filtration applications.
-
-- [[mycoremediation-stamets-approach]]
-- [[mycelium-running-filtering-water-with-fungi]]
-- [[unknown-mycelium-mycofiltration]]
-- [[mycoforestry]]

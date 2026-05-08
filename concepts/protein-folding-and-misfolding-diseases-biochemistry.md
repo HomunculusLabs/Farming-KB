@@ -28,7 +28,7 @@ Folding begins while the polypeptide is still being synthesized on the ribosome.
 
 Chaperones are proteins that assist folding without being part of the final structure. They prevent aggregation, facilitate correct domain assembly, and can rescue stalled intermediates.
 
-- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and [[cervantes-plant-stress-recovery]].
+- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and [[cannabis-advanced-growing-techniques]].
 
 - **Hsp60 / Chaperonins (GroEL-GroES in bacteria; TRiC/CCT in eukaryotes)**: Large double-ring complexes (~800 kDa) that encapsulate folding substrates in an isolated chamber. GroEL undergoes ATP-driven conformational changes; GroES acts as a lid. TRiC/CCT folds actin, tubulin, and WD40-repeat proteins with substrate-specific inner-ring recognition.
 

@@ -114,7 +114,7 @@ A leguminous shrub to 3 m, native to Japan but widely grown in Korea for soil re
 - Leucaena is the fastest tropical biomass producer; use in [[permaculture-designers-manual-cover-crops-detailed]]
 - Black locust provides premium fence posts (rot resistant) and excellent honey
 - Honey locust pods yield 50-60 t/ha/yr of stock feed in mature groves
-- Alders fix up to 300 kg N/ha/yr and are ideal riparian zone [[permaculture-earthworks-guide]] companions
+- Alders fix up to 300 kg N/ha/yr and are ideal riparian zone [[permaculture-water-harvesting-earthworks]] companions
 - Casuarinas provide windbreaks and craft timber on saline, poor soils
 - Ice cream bean uniquely combines nurse-crop function with edible crop
 - Always diversify species to avoid single-species toxicity issues (e.g., mimosine in leucaena)

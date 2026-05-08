@@ -14,7 +14,7 @@ type: query
 created: 2026-04-28
 ---
 
-# What Are the Best Ferns for a Shade Garden or Food Forest?
+# What Are the Best Ferns for a Shade Garden or [[food-forest]]?
 
 A comprehensive guide to selecting, growing, and using ferns in shaded permaculture landscapes, ornamental gardens, and food forest understories.
 
@@ -96,11 +96,11 @@ In food forests and large shaded landscapes, ferns provide excellent living mulc
 
 ## What grows well with ferns?
 
-Ferns pair beautifully with shade-adapted companions in a layered food forest design:
+Ferns pair beautifully with shade-adapted companions in a layered [[food-forest-design]]:
 
-- **Shrubs:** Spicebush (*Lindera benzoin*), elderberry (*Sambucus canadensis*), pawpaw (*Asimina triloba*), serviceberry (*Amelanchier* spp.)
+- **Shrubs:** Spicebush (*Lindera benzoin*), elderberry (*[[sambucus-canadensis]]*), pawpaw (*[[asimina-triloba]]*), serviceberry (*Amelanchier* spp.)
 - **Herbaceous perennials:** Solomon's seal (*Polygonatum*), wild ginger (*Asarum*), bloodroot (*Sanguinaria*), hostas, heucheras, foamflower (*Tiarella*)
-- **Ground covers:** Wild strawberries (*Fragaria virginiana*), creeping phlox, mayapples (*Podophyllum peltatum*)
+- **Ground covers:** Wild strawberries (*Fragaria virginiana*), creeping phlox, mayapples (*[[podophyllum-peltatum]]*)
 - **Trees (canopy providers):** Oaks, maples, beeches — their leaf litter creates the slightly acidic, humus-rich soil ferns prefer
 
 ---

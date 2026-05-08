@@ -66,7 +66,7 @@ Modern commercial extraction facilities have largely replaced these improvised s
 ## Related Topics
 
 - [[cannabis-solvent-reflux-extraction-methods]] for the basic reflux extraction principles
-- [[cannabis-extraction-solvent-properties-and-safety]] for solvent safety considerations
+- [[cannabis-indoor-growing-guide]] for solvent safety considerations
 - [[cannabis-extraction-basics]] for fundamental extraction concepts
 - [[cannabis-winterization-filtration]] for post-extraction purification at scale
 - [[cannabis-fractional-distillation-cannabinoids]] for advanced refinement of large volumes

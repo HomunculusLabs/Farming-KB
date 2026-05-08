@@ -119,4 +119,3 @@ The trace water introduction system represents a critical engineering subsystem 
 - [[bacterial-spore-microwave-resistance]] for why spores evade the dipolar coupling mechanism
 - [[microwave-penetration-elastomeric-materials]] for microwave propagation through non-aqueous media
 - [[surface-sterilization-methods-comparison]] for comparison with alternative approaches
-

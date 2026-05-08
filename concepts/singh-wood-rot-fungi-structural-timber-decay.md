@@ -144,9 +144,7 @@ for contaminant removal.
 
 ## See Also
 
-- [[gadd-dry-rot-building-timber-decay]]
+- [[bioremediation-using-fungi]]
 
 - [[singh-fungal-siderophore-production-iron-acquisition]]
 - [[singh-fungal-detergent-and-surfactant-biodegradation]]
-- [[singh-entomopathogenic-fungi-biocontrol-agents]]
-- [[mycoremediation-pahs]]

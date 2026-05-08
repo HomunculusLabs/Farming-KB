@@ -72,7 +72,7 @@ Fungal cultures can be stored on MEA slants (agar solidified in test tubes rathe
 
 MEA is favored in mycology because it supports a wide range of fungi without being overly selective or inhibitory. The complex nutrient profile encourages vigorous growth and typical colony morphology. It is also inexpensive, straightforward to prepare from commercially available components, and the results are highly reproducible between laboratories and batches.
 
-However, MEA's broad nutritional profile also means it supports many contaminant organisms, including bacteria and fast-growing mold species. For slow-growing species like [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict [[mushroom-cultivation-sterile-technique]] is maintained. Additionally, the relatively high sugar content of MEA can promote bacterial growth and encourage mucoid (slimy) colony morphologies in some fungal species.
+However, MEA's broad nutritional profile also means it supports many contaminant organisms, including bacteria and fast-growing mold species. For slow-growing species like [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict [[mushroom-cultivation-fundamentals]] is maintained. Additionally, the relatively high sugar content of MEA can promote bacterial growth and encourage mucoid (slimy) colony morphologies in some fungal species.
 
 ## Alternative Mycological Media
 

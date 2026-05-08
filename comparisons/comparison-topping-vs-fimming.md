@@ -148,5 +148,3 @@ canopy tailored to the grow space.
 - [[comparison-supercropping-vs-topping]]
 - [[topping-cannabis]]
 - [[fimming]]
-- [[cannabis-super-cropping-technique]]
-- [[defoliation-cannabis]]

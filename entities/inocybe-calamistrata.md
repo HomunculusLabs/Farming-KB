@@ -148,4 +148,3 @@ mycological and pharmacological interest:
 - [[inocybe-coelestium]]
 - [[psilocybe-semilanceata]]
 - [[panaeolus-subbalteatus]]
-- [[inocybe-erubescens]]

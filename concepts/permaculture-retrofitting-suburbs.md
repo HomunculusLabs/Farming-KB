@@ -97,7 +97,7 @@ The key principle is progressive retrofit rather than demolition and rebuild -- 
 
 ## See Also
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[permaculture-community-resilience-strategies]]
 - [[permaculture-building-design]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]

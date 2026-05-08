@@ -104,7 +104,7 @@ Every snowflake is unique in its specific details, yet all snowflakes share the 
 
 Similarly, visionary symbols may vary in their specific details from one individual or culture to another, yet they share fundamental structural patterns determined by the shared architecture of the human brain and the universal features of human experience.
 
-[[psilocybin]]ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
+[[psilocybin-compound]]ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
 
 ## Implications for Understanding Religion
 

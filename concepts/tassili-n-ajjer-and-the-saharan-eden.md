@@ -141,11 +141,10 @@ McKenna noted that Pfeiffer neglected to discuss psychoactive plants as a possib
 
 - [[indole-hallucinogens-and-human-evolution]]
 - [[partnership-and-dominator-models]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
-- [[stoned ape hypothesis]]
-- [[partnership and dominator models]]
-- [[shamanism as archaic technique of ecstasy]]
+- [[stoned-ape-hypothesis]]
+- [[partnership-and-dominator-models]]
+- [[shamanism-as-archaic-technique-of-ecstasy]]
 - [[stropharia-cubensis]]
 - Archaic Revival
-- [[indole hallucinogens and human evolution]]

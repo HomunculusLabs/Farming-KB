@@ -107,17 +107,17 @@ The long flowering period (8–12 weeks from July through September) makes chast
 
 - **Butterflies:** A preferred nectar source for numerous butterfly and skipper species; the plant is sometimes called "butterfly bush" in the American South
 - **Bees:** Honeybees, bumblebees, and various solitary bee species forage extensively on the flowers
-- **Beneficial wasps:** Parasitic wasps critical for biological pest control in adjacent food-producing plants
+- **Beneficial wasps:** Parasitic wasps critical for [[biological-pest-control-balance]] control in adjacent food-producing plants
 
 ### Drought-Tolerant Landscape Plant
-Once established, chaste tree is exceptionally drought-tolerant, requiring minimal supplemental irrigation. Its deep taproot system accesses groundwater unavailable to shallower-rooted plants, making it an excellent choice for:
+Once established, chaste tree is exceptionally [[drought-tolerant-planting-design]], requiring minimal supplemental irrigation. Its deep taproot system accesses groundwater unavailable to shallower-rooted plants, making it an excellent choice for:
 
-- **Xeriscaping:** A cornerstone plant in water-wise landscaping in Mediterranean and warm-temperate climates
+- **Xeriscaping:** A cornerstone plant in [[water-wise-orchard-irrigation]] landscaping in Mediterranean and warm-temperate climates
 - **Food forest canopy edge:** Suitable as a small tree or large shrub in the mid-layer of food forest designs, providing dappled shade for understory herbs while requiring no irrigation
 - **Riparian buffer margins:** Thrives on the edges of seasonal waterways where periodic flooding is followed by extended dry periods
 
 ### Dynamic Accumulator and Soil Builder
-- **Deep nutrient mining:** The extensive taproot draws minerals from deep soil layers, cycling nutrients to the surface through leaf litter decomposition
+- **Deep nutrient mining:** The extensive taproot draws minerals from deep soil layers, cycling nutrients to the surface through [[leaf-litter-microfungal-diversity-tropical-temperate]] decomposition
 - **Mulch production:** Moderate annual leaf drop contributes organic matter and mulch to the soil surface
 - **Erosion control:** The spreading root system stabilizes soil on banks and slopes, particularly in Mediterranean climates where summer drought makes establishment of other species challenging
 
@@ -140,7 +140,7 @@ Chaste tree responds well to pruning and can be trained as a dense hedge or info
 - [[herbal-medicine-making-basics]] Species and Allies
 
 - **Vitex negundo (Chinese Chaste Tree):** Related Asian species used in Traditional Chinese Medicine (TCM) under the name *Jing Jie* (荆芥). Used for colds, headaches, and inflammatory conditions. Pharmacologically distinct from *V. agnus-castus* but shares some iridoid glycoside constituents
-- **Vitex trifolia:** Tropical coastal species native to Asia and the Pacific; used in Ayurvedic and folk medicine. Salt-tolerant and used in coastal stabilization
+- **Vitex trifolia:** Tropical coastal species native to Asia and the Pacific; used in Ayurvedic and folk medicine. [[salt-tolerant-fodder-species]] and used in coastal stabilization
 - **Vitex rotundifolia:** Beach vitex; a prostrate, salt-tolerant species used in dune stabilization. Invasive in coastal areas of the southeastern United States
 - **Leonotus leonurus (Wild Dagga):** Lamiaceae family ally with similar mint-family chemistry and traditional use for women's health and anxiety
 - **Salvia officinalis (Sage):** Lamiaceae family member sharing rosmarinic acid chemistry; traditionally combined with chaste tree for menopausal support
@@ -148,4 +148,3 @@ Chaste tree responds well to pruning and can be trained as a dense hedge or info
 ## See Also
 
 - [[elaeagnus-umbellata]]
-- [[elaeagnus-angustifolia]]

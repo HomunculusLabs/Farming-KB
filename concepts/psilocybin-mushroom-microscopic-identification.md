@@ -14,7 +14,7 @@ The microscopic features essential for accurate identification of psilocybin-con
 
 Identifying psilocybin mushrooms to species using macroscopic features alone is at best an educated guess.
 
-Some species like [[psilocybe-semilanceata-profile]] leave little room for confusion, but many others require microscopic examination.
+Some species like [[psychedelic-mushrooms-species-and-identification]] leave little room for confusion, but many others require microscopic examination.
 
 At least 199 Galerina species can only be distinguished microscopically.
 

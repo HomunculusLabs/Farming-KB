@@ -60,7 +60,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin]] and [[psilocin]] as primary psychoactive alkaloids
+- Contains [[psilocybin-compound]] and [[psilocin]] as primary psychoactive alkaloids
 - Moderate potency compared to other Psilocybe species
 - Bluing reaction is prominent on the cap, gills, and stipe when damaged
 - Potency can vary depending on substrate, age, and environmental conditions

@@ -94,7 +94,7 @@ Pasteurization stops all fermentation and prevents a new mother from forming in 
 2. Hold at temperature for 10 minutes
 3. Cool and bottle
 4. Pasteurized vinegar has a longer shelf life but loses some probiotic benefit
-5. Raw, unpasteurized vinegar retains live bacteria [[fungi-sustainability-biofuel-and-enzymes]]
+5. Raw, unpasteurized vinegar retains live bacteria [[bioremediation-using-fungi]]
 ## Flavoring Vinegar
 Infusing finished vinegar with herbs, fruits, and spices creates versatile flavored vinegars for cooking:
 ### Popular Infusions
@@ -119,7 +119,7 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Cleaning: natural disinfectant, glass cleaner, de-scaler
 - Garden: weed killer (spray full-strength on weeds), soil acidifier (diluted)
 - Health: apple cider vinegar tonics (1 tablespoon [[ingoldian-hyphomycetes-spore-dispersal-in-water]]), digestive aid
-- Preserving: as the acid base for [[pickle-making]] and other pickled foods
+- Preserving: as the acid base for pickle making and other pickled foods
 - Fermentation: as an acid adjuster for other ferments
 ## Troubleshooting
 - No mother forming: temperature too low, insufficient oxygen (cover too tight), or no acetobacter present (add raw vinegar)
@@ -129,6 +129,6 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Vinegar tastes flat: may need more time, better aeration (stir more often), or warmer temperature
 - Mother sinks: normal — the bacteria continue working; a new surface film will form
 ## See Also
-- [[kombucha-brewing]] — related acetic acid fermentation producing a different beverage
-- [[pickle-making]] — vinegar as the primary acid in quick pickles
+- kombucha brewing — related acetic acid fermentation producing a different beverage
+- pickle making — vinegar as the primary acid in quick pickles
 - [[hot-sauce-making]] — vinegar as a key ingredient in hot sauce

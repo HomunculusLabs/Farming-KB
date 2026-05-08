@@ -148,4 +148,3 @@ control, hedge establishment, and as a botanical insecticide.
 - [[vasicine]]
 - [[berberine]]
 - [[ephedra-sinica]]
-- [[crotalaria-juncea]]

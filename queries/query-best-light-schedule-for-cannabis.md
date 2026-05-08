@@ -147,5 +147,3 @@ Exceeding these levels without adequate CO2 supplementation (above 1000 PPFD) ca
 ## Related
 
 - [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] Questions
-
-- [[cannabis-growth-stage-checklist]]

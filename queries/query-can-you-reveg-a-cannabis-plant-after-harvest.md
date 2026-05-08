@@ -90,7 +90,7 @@ established root mass, which accelerates the revegging process and allows for a
 faster second
 flowering cycle. However, the plant may become rootbound if left in the same 
 container for
-too long. The [[cannabis-transplanting-guide]] and [[cervantes-transplanting-potting-up]]
+too long. The [[cannabis-transplanting-guide]] and [[cannabis-advanced-growing-techniques]]
 pages cover up-potting techniques if the root system needs more space for a 
 second run.
 

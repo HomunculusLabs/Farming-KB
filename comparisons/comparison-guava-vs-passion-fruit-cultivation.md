@@ -27,7 +27,7 @@ Guava (*Psidium guajava*) and passion fruit (*Passiflora edulis*) are two of the
 | **Optimal temperature** | 23–28 °C | 20–30 °C |
 | **Cold tolerance** | Tolerates light frost (−2 °C briefly) | Killed by frost; damaged below 1 °C |
 | **Soil pH** | 4.5–7.0 (prefers 5.5–6.5) | 5.5–7.0 (prefers 6.0–6.5) |
-| **Water needs** | Moderate; drought-tolerant once established | High; requires consistent moisture |
+| **Water needs** | Moderate; [[drought-tolerant-planting-design]] once established | High; requires consistent moisture |
 | **Time to fruit** | 2–4 years from seed; 1–2 from cuttings | 12–18 months from seed; 6–12 from cuttings |
 | **Annual yield** | 25–100 kg/tree (mature) | 15–30 kg/vine (mature) |
 | **Productive lifespan** | 30–40+ years | 5–7 years (vines); replanting common |
@@ -53,7 +53,7 @@ Passion fruit demands a frost-free environment. Even brief exposure to temperatu
 
 Both species prefer well-drained, fertile soils but are adaptable. Guava tolerates a wider range of soil types, including sandy, loamy, and even slightly saline soils. It is moderately tolerant of poor soils but produces best in deep loams with organic matter. Soil depth of at least 1 m is ideal for deep root development. Guava can tolerate pH levels as low as 4.5, making it suitable for acidic tropical soils where many other fruit trees struggle. In calcareous soils, guava is susceptible to iron deficiency chlorosis, which can be managed with chelated iron applications.
 
-Passion fruit requires excellent drainage and is highly sensitive to waterlogging, which promotes collar rot and root diseases. Raised beds are recommended in heavy soils. Passion fruit vines need full sun for maximum flowering and fruit set, whereas guava tolerates partial shade, though fruiting is reduced. Soils rich in organic matter (3–5%) support the rapid vine growth required for high yields. Mulching around the root zone helps retain moisture and suppress weeds for both species. Passion fruit is less tolerant of saline conditions than guava and may show leaf tip burn in soils with elevated salt content.
+Passion fruit requires excellent drainage and is highly sensitive to waterlogging, which promotes collar rot and root diseases. [[raised-beds-vs-in-ground-vs-containers]] are recommended in heavy soils. Passion fruit vines need full sun for maximum flowering and fruit set, whereas guava tolerates partial shade, though fruiting is reduced. Soils rich in organic matter (3–5%) support the rapid vine growth required for high yields. Mulching around the root zone helps retain moisture and suppress weeds for both species. Passion fruit is less tolerant of saline conditions than guava and may show leaf tip burn in soils with elevated salt content.
 
 | Soil Factor | Guava | Passion Fruit |
 |---|---|---|
@@ -73,7 +73,7 @@ Passion fruit requires excellent drainage and is highly sensitive to waterloggin
 
 Guava pruning focuses on opening the canopy, removing dead or crossing branches, and maintaining a manageable height (2–3 m for easy harvest). Light pruning after each fruiting cycle encourages new growth that bears the next crop. Guavas flower on new wood, so moderate pruning is productive. In commercial orchards, hedgerow pruning or mechanical topping is sometimes used to standardize tree height across rows. Removal of water sprouts and suckers maintains tree form and directs energy into fruit production. Pruning is best done after the main harvest to avoid removing developing flowers.
 
-Passion fruit requires more intensive pruning. After the main vine reaches the trellis wire, lateral shoots are trained along the wire. Once laterals have fruited, they are cut back to a node near the main leader to encourage new lateral growth. Post-harvest pruning removes dead, weak, or tangled growth and thins congested areas to improve air circulation. In commercial systems, vines are often replanted every 3–5 years as vigor declines and viral load accumulates. Neglected vines become a tangled mass of unproductive wood with poor fruit set. A systematic annual pruning schedule is essential for sustained production.
+Passion fruit requires more intensive pruning. After the main vine reaches the trellis wire, lateral shoots are trained along the wire. Once laterals have fruited, they are cut back to a node near the main leader to encourage new lateral growth. [[post-harvest-handling-marketing-mushrooms]] pruning removes dead, weak, or tangled growth and thins congested areas to improve air circulation. In commercial systems, vines are often replanted every 3–5 years as vigor declines and viral load accumulates. Neglected vines become a tangled mass of unproductive wood with poor fruit set. A systematic annual pruning schedule is essential for sustained production.
 
 ## Pest and Disease Profiles
 
@@ -89,7 +89,7 @@ Passion fruit vines fruit within 12–18 months of planting and reach peak produ
 
 ## Propagation Methods
 
-Guava is commonly propagated by seeds, which retain good genetic fidelity in many varieties. Seeds should be extracted from ripe fruit, washed, and sown in nursery beds or containers. Germination takes 2–4 weeks. Seedling trees take 2–4 years to fruit. Vegetative propagation by air layering, grafting (onto seedling rootstock), or cuttings produces fruiting trees in 1–2 years and preserves selected characteristics. Grafting is preferred for disease resistance and uniformity in commercial orchards. Softwood cuttings under mist have moderate success (40–60%).
+Guava is commonly propagated by seeds, which retain good genetic fidelity in many varieties. Seeds should be extracted from ripe fruit, washed, and sown in nursery beds or containers. Germination takes 2–4 weeks. Seedling trees take 2–4 years to fruit. [[vegetative-propagation-methods-mollison]] by air layering, grafting (onto seedling rootstock), or cuttings produces fruiting trees in 1–2 years and preserves selected characteristics. Grafting is preferred for disease resistance and uniformity in commercial orchards. Softwood cuttings under mist have moderate success (40–60%).
 
 Passion fruit is almost always propagated vegetatively. Hardwood cuttings (20–30 cm) treated with rooting hormone strike readily under mist or high humidity. Grafting onto resistant rootstocks (e.g., wild *Passiflora* species such as *P. caerulea* or *P. nitida*) is used where soil-borne diseases are prevalent. Seed propagation is used mainly in breeding programs, as seedling vines are variable in fruit quality and yield. Tissue culture is emerging as a method for producing clean, virus-free planting material. Rooting success for cuttings typically exceeds 80% under ideal conditions.
 
@@ -114,7 +114,7 @@ Passion fruit is prized for its aromatic pulp and juice, used in beverages, dess
 | **Soil conditions** | Wide pH tolerance; moderate drainage ok | Excellent drainage essential; pH-sensitive |
 | **Nutritional focus** | High vitamin C or lycopene market | Aromatic juice and flavoring market |
 
-For permaculture and food forest designs, guava serves as a productive mid-canopy tree providing shade and wind protection for understory crops, while passion fruit can be trained along fence lines or over structures as a productive vertical element. Both species benefit from companion planting with nitrogen-fixing legumes such as pigeon pea or gliricidia, which improve soil fertility and provide partial shade for young plants. Many growers find value in planting both species together, as they occupy different niches, have complementary harvest windows, and diversify market risk.
+For permaculture and food forest designs, guava serves as a productive mid-canopy tree providing shade and wind protection for understory crops, while passion fruit can be trained along fence lines or over structures as a productive vertical element. Both species benefit from companion planting with [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] legumes such as pigeon pea or gliricidia, which improve soil fertility and provide partial shade for young plants. Many growers find value in planting both species together, as they occupy different niches, have complementary harvest windows, and diversify market risk.
 
 ## See Also
 

@@ -75,7 +75,7 @@ An enhancement to the basic reflux method involves multiple soaking cycles befor
 
 ## Related Topics
 
-- [[cannabis-extraction-solvent-properties-and-safety]] for detailed solvent safety information
+- [[cannabis-indoor-growing-guide]] for detailed solvent safety information
 - [[cannabis-solvent-reflux-extraction-methods]] for reflux chemistry details
 - [[cannabis-extraction-basics]] for fundamental extraction concepts
 - [[cannabis-winterization-filtration]] for post-extraction purification

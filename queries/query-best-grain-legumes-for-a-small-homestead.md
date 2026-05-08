@@ -24,7 +24,7 @@ created: 2026-05-03
 ---
 # What Are the Best Grain Legumes for a Small Homestead?
 
-Grain legumes (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve soil structure, and fit into diverse rotation and intercropping schemes. The "best" pulse crops depend on your climate, growing season, culinary preferences, and how much space you can dedicate. This guide covers the top recommendations organized by climate zone and purpose, with practical growing advice for each.
+[[grain-legumes-and-pulse-crops]] (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve [[soil-structure-and-aggregate-ecology]], and fit into diverse rotation and intercropping schemes. The "best" pulse crops depend on your climate, growing season, culinary preferences, and how much space you can dedicate. This guide covers the top recommendations organized by climate zone and purpose, with practical growing advice for each.
 
 ## Quick-Start Recommendations by Climate
 
@@ -58,7 +58,7 @@ Fava beans are arguably the most useful pulse for a small homestead. They tolera
 
 **Best for**: Mediterranean and semi-arid climates, drought conditions, culinary versatility.
 
-Chickpeas are the homesteader's gateway to Middle Eastern and Indian cooking — hummus, falafel, chana masala, and roasted chickpea snacks. The desi types (small, dark seeds) are more drought-tolerant; kabuli types (large, cream seeds) have higher yields and are easier to process.
+Chickpeas are the homesteader's gateway to Middle Eastern and Indian cooking — hummus, falafel, chana masala, and roasted chickpea snacks. The desi types (small, dark seeds) are more [[drought-tolerant-planting-design]]; kabuli types (large, cream seeds) have higher yields and are easier to process.
 
 **Growing Tips**:
 - Sow 2–3 weeks before last frost (they need cool weather to set pods; heat during flowering causes flower drop)
@@ -107,7 +107,7 @@ Cowpea is the homestead pulse for tough conditions. Where other crops wilt and f
 
 ### 5. Common Dry Bean — *Phaseolus vulgaris*
 
-**Best for**: Culinary variety, temperate to subtropical climates, seed saving.
+**Best for**: Culinary variety, temperate to subtropical climates, [[seed-saving-seed-resources-mollison]].
 
 Common beans offer the greatest culinary diversity of any pulse — kidney, navy, pinto, black, cannellini, cranberry, and hundreds of heirloom varieties. For the homesteader interested in food preservation, dry beans are calorie-dense, easy to store, and culturally central to cuisines worldwide.
 
@@ -142,56 +142,6 @@ Pigeon pea is unique among grain legumes as a woody perennial shrub that produce
 ## Designing Your Homestead Pulse Rotation
 
 A well-planned pulse rotation maximizes nitrogen benefits while providing year-round protein harvests. Here are sample rotations for different climates:
-
-### Temperate Four-Year Rotation
-
-```
-Year 1: Fava bean (spring) → Green manure (field pea, fall)
-Year 2: Heavy feeder (tomatoes, corn) — benefits from fava N credit
-Year 3: Chickpea or dry pea (spring) → Cover crop (winter rye + crimson clover, fall)
-Year 4: Leafy greens / alliums — moderate N needs
-```
-
-### Subtropical Year-Round Rotation
-
-```
-Winter: Fava bean or chickpea
-Spring: Transition — harvest pulse, prepare beds
-Summer: Cowpea or common bean
-Late Summer: Mung bean (quick 60-day crop before cool weather)
-Fall: Cover crop (field pea + oats) or second cowpea planting
-```
-
-### Tropical Perennial System
-
-```
-Pigeon pea hedge (permanent) — harvest pods 2×/year, prune for mulch
-Understory: Cowpea (warm season), Mung bean (shoulder seasons)
-Ground cover: Perennial peanut (*Arachis pintoi*) as living mulch
-```
-
-## Maximizing Nitrogen Fixation
-
-To get the most soil-building benefit from your pulse crops:
-1. **Inoculate correctly**: Use the right rhizobial strain for each species. Check nodulation by digging up roots mid-season — effective nodules are pink/red inside.
-2. **Leave roots in the ground**: Never pull pulse roots at harvest. Cut stems at soil level and let the root system decompose in place, releasing fixed nitrogen.
-3. **Maximize biomass**: More above-ground growth means more nitrogen fixed. Adequate phosphorus and potassium (but NOT excess nitrogen) support strong pulse growth.
-4. **Incorporate residues**: Chop pulse stems and leaves and mix them into the top 10 cm of soil, or use as surface mulch. The nitrogen becomes available to the next crop within 4–8 weeks.
-5. **Avoid nitrogen fertilizer**: Adding synthetic nitrogen fertilizer near pulse crops suppresses nodulation and nitrogen fixation. Apply nitrogen only to the subsequent crop, not the legume itself.
-
-## Common Mistakes to Avoid
-
-- **Harvesting too early**: Pulses must be fully dry for storage. Check by biting a seed — it should be hard and chip-resistant.
-- **Poor storage**: Bruchid beetles destroy stored pulses. Use airtight containers, freeze seeds for 48 hours before storage, or add diatomaceous earth.
-- **Planting in cold, wet soil**: Most warm-season pulses (cowpea, mung bean, common bean) will rot in cold soil. Wait until soil temperature reaches 18°C+.
-- **Over-watering during pod fill**: Excess moisture during maturation promotes mold and delays drying. Reduce irrigation as pods mature.
-- **Ignoring inoculation**: While cowpea often nodulates without inoculant, chickpea, lupin, and fava bean benefit significantly from proper inoculation — especially in new gardens.
-- **Not saving seed**: Most grain legumes are self-pollinating and true-to-type from saved seed. Save your best pods each harvest to build locally adapted varieties over time.
-
-## Seed Sources for Homesteaders
-
-Seek out regionally adapted varieties from small seed companies and seed exchanges rather than generic commercial seed. Heirloom and landrace varieties often outperform modern cultivars in low-input homestead systems because they were selected for resilience rather than maximum yield under perfect conditions.
-
 ## See Also
 
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]

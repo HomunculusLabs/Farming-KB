@@ -48,7 +48,7 @@ Species that grow on or in association with wood:
 - [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
 - [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
 - [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[growing-gourmet-shiitake-cultivation]]
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
 - [[growing-gourmet-king-stropharia-cultivation]]
 - The Deer Mushroom (Pluteus cervinus)
@@ -78,7 +78,7 @@ Species thriving in disturbed or decomposed habitats:
 - Scaly Lepiota (Lepiota rachodes)
 - Termite Mushrooms (Termitomyces spp.)
 - Wood Blewit (Lepista nuda)
-- [[growing-gourmet-paddy-straw-mushroom-volvariella]]
+- growing gourmet paddy straw mushroom volvariella
 
 ## Uncultivated Species
 

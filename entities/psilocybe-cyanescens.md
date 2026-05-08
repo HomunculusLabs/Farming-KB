@@ -146,6 +146,5 @@ Outdoor cultivation of P. cyanescens is relatively straightforward, while indoor
 
 - [[psilocybe-cubensis]] — The most widely cultivated psilocybin mushroom
 - [[psilocybe-azurescens]] — The most potent known psilocybian species
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound
 - [[psilocin]] — Active metabolite of psilocybin
-- Psilocybian Mushrooms — Overview of psychoactive fungal species

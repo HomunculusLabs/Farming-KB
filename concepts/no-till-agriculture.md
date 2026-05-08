@@ -121,7 +121,7 @@ by the shrine deity, growing "into large trees of their own accord."
 The mulch layer from uncut straw also plays a critical role. It protects the
 soil surface from the direct impact of raindrops, preventing crust formation and
 erosion. It moderates soil temperature, keeping it cooler in summer and warmer
-in winter. As it decomposes, it feeds the [[compost-chemistry-soil-food-web]], creating a continuous
+in winter. As it decomposes, it feeds the [[composting-and-soil-biology]], creating a continuous
 cycle of nutrient availability. This is fundamentally different from the
 conventional approach of removing crop residues and replacing their functions
 with [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and mechanical soil preparation.

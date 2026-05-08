@@ -146,5 +146,5 @@ North American neurotropic fungi fall into three main distribution patterns:
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[gartz-global-psilocybin-mushroom-distribution]]
 - [[natto-making]]
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-art-and-iconography]]

@@ -85,7 +85,7 @@ Halpern argues that drug education should expand to cover these botanical source
 
 - [[mescaline-peyote-and-san-pedro-guide]]
 - [[mescalero-apache-peyote-use]]
-- [[peyote-and-psychoactive-cacti]]
+- [[ethnomycology]]
 - [[datura-metel-old-world-ethnobotany]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[richard-evans-schultes-updated]]

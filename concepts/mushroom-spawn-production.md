@@ -1,139 +1,139 @@
 ---
 title: Mushroom Spawn Production
-created: 2026-04-28
-tags: [mycology, cultivation, mycelium, fungi]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
-type: concept
+aliases: [spawn making, grain spawn, PDA medium, tissue culture mushrooms]
+tags: [mycology, cultivation, spawn, tissue-culture, mycelium]
+created: 2026-05-08
+source: "Mushroom Cultivation by People with Disabilities (FAO, 2001)"
 ---
 
 # Mushroom Spawn Production
 
-Spawn is the living fungal inoculum used to start mushroom cultivation.
-Analogous to seeds in plant agriculture, spawn consists of mushroom mycelium
-growing through a nutritious carrier material. Spawn quality is the single
-most important factor determining cultivation success: poor spawn leads to
-slow colonization, low yields, and high contamination rates regardless of
-how well the substrate is prepared.
+Mushroom spawn is the living mycelial culture used to inoculate substrate for mushroom cultivation. It serves as the "seed" equivalent in mushroom farming. Spawn production is a critical early step requiring careful attention to sterility, technique, and environmental conditions.
 
-## The Role of Spawn
+## Spawn Production Chain
 
-Spawn serves as the inoculum that transfers mushroom mycelium from a
-laboratory-maintained culture into bulk substrate. Its functions include:
+Spawn production follows a multi-stage volume expansion process:
 
-- Providing a large, actively growing population of mushroom mycelium
-- Outcompeting potential contaminants through rapid colonization
-- Distributing the fungus evenly throughout the substrate mass
-- Carrying the specific genetic strain selected for cultivation
+1. **Tissue culture** — Initial isolation from a fresh mushroom fruiting body onto nutrient agar (PDA).
+2. **PDA-to-PDA transfer** — Subculturing to expand clean mycelium and confirm purity.
+3. **Grain spawn multiplication** — Transferring mycelium from agar onto sterilized grain (typically sorghum).
+4. **Substrate inoculation** — Final grain spawn inoculates pasteurized substrate bags.
 
-Inoculation rates typically range from 2-10% of substrate dry weight,
-with higher rates providing faster colonization but increasing cost.
+Each stage must be performed under sterile conditions to prevent contamination by competing molds, bacteria, or fungi.
 
-## Strain Selection and Maintenance
+## PDA Medium Preparation
 
-### Stock Culture Maintenance
-Mother cultures are maintained on agar media (typically malt extract agar
-or potato dextrose agar) under sterile conditions. Cultures are stored at
-2-4°C and subcultured every 3-6 months. Long-term preservation uses
-distilled water storage, mineral oil overlay, or cryopreservation at -80°C
-to minimize genetic drift and senescence.
+Potato Dextrose Agar (PDA) is the standard medium for mushroom tissue culture, providing carbohydrates, nutrients, and a solid surface for mycelial growth.
 
-### Strain Characteristics
-Commercial strains are selected and maintained for specific traits:
+### Composition
 
-- **Colonization speed**: Faster strains reduce contamination risk
-- **Fruiting temperature range**: Determines seasonal and geographic
-  suitability
-- **Yield potential**: Directly impacts profitability
-- **Fruit body morphology**: Affects marketability and consumer preference
-- **Shelf life**: Important for distribution and retail
-- **Disease resistance**: Reduces crop losses
+- **Potatoes** — Peeled, sliced, and boiled to extract soluble starches and nutrients.
+- **Dextrose (glucose)** — An easily metabolized carbon source fueling rapid mycelial growth.
+- **Agar** — A gelling agent from red algae that solidifies the medium into a stable surface.
+- **Water** — Distilled or clean water as solvent.
 
-### Genetic Degeneration
-Repeated subculturing of mycelium on artificial media leads to
-senescence, characterized by slower growth, reduced yield, and abnormal
-morphology. Commercial operations typically restart cultures from
-long-term storage every 10-15 subcultures or use tissue culture from
-high-performing fruiting bodies to rejuvenate strains.
+### Preparation Steps
 
-## Spawn Types by Carrier Material
+1. Peel and thinly slice 200–250 grams of potatoes.
+2. Boil potato slices in approximately 1 liter of water for 20–30 minutes until soft.
+3. Strain the potato broth through a clean cloth, collecting the liquid.
+4. Add dextrose (20 g/L) and agar (15–20 g/L) to the broth.
+5. Heat gently while stirring until agar is fully dissolved.
+6. Adjust final volume to 1 liter with water if needed.
+7. Pour hot medium into sterilizable containers while still liquid.
+8. Autoclave or pressure-cook at 121°C (15 psi) for 20–30 minutes.
+9. Allow to cool and solidify before inoculation.
 
-### Grain Spawn
-The most common spawn type for oyster mushroom cultivation. Cereal grains
-(wheat, rye, millet, sorghum) are hydrated, sterilized, and inoculated
-with mycelium. Grain spawn offers several advantages:
+## Tissue Culture Technique
 
-- Rapid, uniform colonization of substrate due to numerous inoculation
-  points (each grain becomes a growth center)
-- Easy to mix evenly into bulk substrate
-- High energy content supports vigorous mycelial growth
+Tissue culture isolates pure mycelium from a mushroom fruiting body — the starting point for all spawn production.
 
-Disadvantages include susceptibility to grain mites and shorter shelf
-life compared to other spawn types.
+### Selecting the Specimen
 
-### Sawdust Spawn
-Sterilized hardwood sawdust, sometimes mixed with bran, is inoculated
-with mycelium. Sawdust spawn has a longer shelf life than grain spawn
-and is less attractive to pests. It is the standard for commercial log
-cultivation and is increasingly used for bag cultivation. Its finer
-texture provides fewer but more distributed inoculation points.
+The ideal specimen is a young, healthy mushroom at or near the button stage:
 
-### Liquid Spawn
-Mycelium is grown in a nutrient-rich liquid medium, often in shaken
-bioreactors. The resulting suspension of mycelial fragments can be
-injected directly into substrate. Liquid spawn offers:
+- **Freshness** — Harvested within hours, not days.
+- **Intact cap** — Not fully opened; younger specimens have less environmental exposure.
+- **No visible contamination** — No mold, bacterial slime, or insect damage.
+- **Robust appearance** — Firm flesh, good color, normal species morphology.
 
-- Very fast colonization due to even distribution throughout substrate
-- Reduced labor (no shaking bags during incubation)
-- Easy automation and scalability
-- Lower material costs
+### Isolation Procedure
 
-Limitations include shorter shelf life (2-4 weeks refrigerated), need
-for specialized equipment, and vulnerability to contamination in liquid
-culture.
+1. Clean the work area; prepare a flame or alcohol lamp for sterile technique.
+2. Sterilize tools (scalpel, forceps) by dipping in alcohol and passing through flame.
+3. Tear or cut the mushroom cap open near the stem to expose internal tissue.
+4. Using a sterilized scalpel, remove a small piece (2–3 mm) from the cap-stem junction.
+5. Transfer the tissue fragment onto the center of the PDA surface.
+6. Seal the container and incubate at appropriate temperature (25–28°C for tropical oyster mushrooms).
 
-## Production Process
+### Mycelial Growth
 
-### Grain Spawn Production Steps
-1. Select and clean grain; remove broken grains and debris
-2. Soak grain in water for 12-24 hours to reach ~50% moisture
-3. Load grain into autoclavable bags or jars (fill 60-70% capacity)
-4. Sterilize at 121°C for 60-90 minutes
-5. Cool to below 30°C in a sterile environment
-6. Inoculate with agar culture or liquid inoculum
-7. Incubate at 25°C for 10-21 days, shaking at 50% colonization
-8. Test for contamination (visual inspection, smell test)
-9. Store at 2-4°C for up to 2-3 months
+Within 3–7 days, white fluffy mycelium radiates outward from the tissue. Growth rate and colony morphology vary by species:
 
-### Quality Control
-Rigorous quality control is essential. Each batch should be evaluated for:
+- **Pleurotus spp. (oyster mushrooms)** — Fast-growing, cottony white; covers plate in 7–10 days.
+- **Volvariella volvacea (straw mushroom)** — Moderately fast with slightly different texture.
+- **Lentinula edodes (shiitake)** — Slower-growing, denser and more compact.
 
-- **Colonization completeness**: No uncolonized grain should remain
-- **Growth rate**: Consistent with species and strain norms
-- **Contamination**: Any off-colors, slimy texture, or sour odors
-  indicate contamination
-- **Morphology**: Healthy mycelium is white and ropey for oyster species
+## PDA-to-PDA Subculturing
 
-## Contamination Risks
+Subculturing expands clean mycelium and verifies culture purity:
 
-Spawn production is the most contamination-sensitive phase of cultivation.
-Common contaminants include:
+1. In sterile conditions, open the source PDA plate.
+2. Cut a small wedge (~5 mm × 5 mm) from the leading edge of mycelial growth.
+3. Place the wedge face-down onto a fresh PDA plate.
+4. Seal, label with species and date, and incubate.
 
-- **Trichoderma** (green mold): The most common spawn contaminant
-- **Bacillus** species: Produce a distinctive sour, rotten smell
-- **Aspergillus**: Yellow-green colonies indicating excessive moisture
-- **Rhizopus**: Fast-growing bread mold that can overtake spawn
+Multiple plates can be inoculated from a single mother plate. Regular subculturing (every 2–4 weeks) maintains vigor, but excessive transfers cause senescence — declining growth rate and fruiting capacity.
 
-Prevention focuses on sterile technique, proper sterilization times and
-temperatures, clean facilities, and air filtration in inoculation areas.
+## Sorghum Grain Spawn
+
+Grain spawn is produced by inoculating sterilized grain with mycelium from PDA cultures. Sorghum (Sorghum bicolor) is preferred because its small round seeds provide many inoculation points, good aeration, and adequate nutrition.
+
+### Grain Preparation
+
+1. Clean sorghum seeds by washing and removing debris and broken grains.
+2. Soak in water for 8–12 hours to hydrate fully.
+3. Boil for 15–20 minutes until softened but not burst or mushy.
+4. Drain thoroughly and spread to remove excess surface moisture.
+5. Grain should be moist but not dripping — excess water promotes bacterial growth.
+
+### Sterilization and Inoculation
+
+1. Fill clean spawn bottles or bags approximately two-thirds full.
+2. Plug bottles with cotton or use filter-patch bags for gas exchange.
+3. Autoclave at 121°C for 60–90 minutes; pressure cook at full pressure for 45–60 minutes.
+4. Cool to room temperature before inoculation.
+5. Transfer PDA-grown mycelium wedges onto the grain surface.
+6. Seal and shake gently to distribute mycelium among grains.
+7. Incubate at species-appropriate temperature (25–28°C for most tropical species).
+
+### Incubation
+
+Mycelium colonizes grain within 2–4 days. Periodic gentle shaking (every 3–5 days) distributes colonized grains throughout, accelerating full colonization. Total time: 10–21 days depending on species, temperature, and volume.
+
+## Quality Control
+
+- **Visual inspection** — Pure white mycelium with no colored patches (green/blue/black) or slimy areas.
+- **Growth rate** — Abnormally slow growth indicates suboptimal conditions or weakened culture.
+- **Smell test** — Healthy spawn has a pleasant mushroomy odor; sour smells indicate bacterial spoilage.
+- **Test fruiting** — Periodically inoculate a small substrate bag to verify fruiting capacity.
+
+## Troubleshooting
+
+| Problem | Likely Cause | Solution |
+|---------|-------------|----------|
+| Green/blue patches | Trichoderma/Penicillium | Discard; improve sterilization |
+| Slimy, sour grain | Bacterial contamination | Discard; reduce grain moisture |
+| No growth | Dead culture or excess heat | Verify temperature; use fresh cultures |
+| Slow, weak growth | Senescent culture | Subculture from younger stock |
+| Patchy colonization | Uneven inoculum | Shake more thoroughly |
+
+## Importance
+
+Spawn quality is the single most important factor in mushroom crop success. Even with perfect substrate preparation and environmental control, poor spawn produces poor yields. Investment in proper spawn production facilities and quality control pays dividends throughout cultivation.
 
 ## See Also
 
-- [[mushroom-cultivator-grain-spawn-production]]
-- [[mushroom-training-spawn-production]]
-- [[mushroom-spawn-production-grain-inoculation]]
-
-- [[oyster-mushroom-cultivation-methods]]
 - [[mushroom-substrate-preparation]]
-- [[biological-efficiency-mushroom-cultivation]]
+- [[substrate-pasteurization-methods]]
+- [[mushroom-house-design]]

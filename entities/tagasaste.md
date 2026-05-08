@@ -148,4 +148,3 @@ the soil.
 - [[black-locust-entity]]
 - [[leucaena-entity]]
 - [[eleagnus-umbellata-entity]]
-- [[glycyrrhiza-glabra]]

@@ -123,5 +123,5 @@ creativity toward narrowly defined, short-term goals.
 
 See also [[holmgren-action-learning-loop]],
 [[holmgren-wholistic-design-thinking]],
-[[holmgren-twelve-design-principles-overview]],
+[[permaculture-design]],
 [[holmgren-design-science-discipline]].

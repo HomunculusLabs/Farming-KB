@@ -1,5 +1,5 @@
 ---
-title: OG Kush
+title: og kush
 type: strain
 tags:
   - cannabis
@@ -21,11 +21,11 @@ created: 2026-05-07
 
 # OG Kush
 
-**OG Kush** is a legendary cannabis strain widely regarded as one of the most influential and foundational hybrids in modern cannabis genetics. An indica-dominant hybrid (typically reported as 55% indica / 45% sativa), OG Kush has served as a parent or ancestor to hundreds of popular cultivars including Girl Scout Cookies, Headband, and Tahoe OG. Its name is said to originate from "Ocean Grown" Kush, referencing its cultivation along the Southern California coast, though the exact etymology remains debated among cannabis historians.
+**OG Kush** is a legendary cannabis strain widely regarded as one of the most influential and foundational hybrids in modern cannabis genetics. An indica-dominant hybrid (typically reported as 55% indica / 45% sativa), OG Kush has served as a parent or ancestor to hundreds of popular cultivars including [[girl-scout-cookies]], Headband, and [[tahoe-og]]. Its name is said to originate from "Ocean Grown" Kush, referencing its cultivation along the Southern California coast, though the exact etymology remains debated among cannabis historians.
 
 ## Genetic Lineage
 
-The precise genetic origins of OG Kush are one of cannabis culture's most enduring mysteries. The most widely accepted theory traces it to a cross between a **Chemdawg** cut (itself derived from a bag seed found at a Grateful Dead show in 1991) and a **Lemon Thai** x **[[hindu-kush|Hindu Kush]]** pollen donor, likely bred in Northern California before migrating to Los Angeles in the mid-1990s.
+The precise genetic origins of OG Kush are one of cannabis culture's most enduring mysteries. The most widely accepted theory traces it to a cross between a **Chemdawg** cut (itself derived from a bag seed found at a Grateful Dead show in 1991) and a **Lemon Thai** x **[[hindu-kush]]** pollen donor, likely bred in Northern California before migrating to Los Angeles in the mid-1990s.
 
 Alternative lineage theories include:
 - A direct descendant of a Pakistani **Kush** landrace brought to the U.S. in the 1970s
@@ -97,7 +97,7 @@ OG Kush plants exhibit classic indica growth patterns with sativa-influenced lea
 ### Cultivation Notes
 
 - **Cloning:** OG Kush is traditionally a clone-only strain; seed versions are typically crosses or S1 self-pollinations that may not perfectly replicate the original phenotype
-- **Training:** Responds well to low-stress training (LST), super cropping, and Screen of Green (SCROG)
+- **Training:** Responds well to low-stress training (LST), super cropping, and [[screen-of-green]] (SCROG)
 - **Nutrient sensitivity:** Can be sensitive to nitrogen levels during mid-to-late flowering; taper nitrogen by week 3 of flower to prevent " fox-tailing" and harsh smoke
 - **Pest resistance:** Moderate; susceptible to spider mites and powdery mildew in high-humidity environments
 - **Flush:** Benefits from a 1–2 week flush before harvest for smoother flavor
@@ -139,16 +139,11 @@ OG Kush occupies a singular position in cannabis culture and genetics:
 
 ## Notable Descendant Strains
 
-- **Girl Scout Cookies** (OG Kush × [[durban-poison|Durban Poison]])
-- **Headband** (OG Kush × Sour Diesel)
+- **Girl Scout Cookies** (OG Kush × [[cannabis-indoor-growing-guide]])
+- **Headband** (OG Kush × [[sour-diesel]])
 - **Tahoe OG** (OG Kush phenotype selected in Lake Tahoe)
 - **Ghost OG** (OG Kush cut popularized by the rapper Ghostface Killah)
 - **Larry OG** (OG Kush phenotype, parent of many OG crosses)
-- **Sundae Driver** (Girl Scout Cookies descendant)
+- **[[sundae-driver]]** (Girl Scout Cookies descendant)
 
 ## See Also
-
-- [[blue-dream]] — Another foundational West Coast hybrid
-- terpenes — Detailed guide to cannabis terpenes and their effects
-- cannabis cultivation — Comprehensive growing guide
-- [[chemdawg]] — Key ancestor in OG Kush lineage

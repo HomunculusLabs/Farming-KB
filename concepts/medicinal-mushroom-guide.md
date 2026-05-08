@@ -148,7 +148,3 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 - Mechanism: Activates cytotoxic T-cells and NK cells; induces cytokine production; enhances dendritic cell maturation
 - Dose: 3 g/day standardized PSK (oral)
 - Also shows antiviral activity against HPV, HIV, and hepatitis
-
-## See Also
-
-- [[ceriporia-spissa]]

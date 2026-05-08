@@ -148,4 +148,3 @@ intelligence of the group.
 
 ## See Also
 - [[urban-permaculture-community-building-social-design]]
-- [[urban-permaculture-edge-effect-and-design-principles]]

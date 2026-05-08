@@ -114,4 +114,4 @@ On a working homestead, shelter-building skills apply beyond survival:
 Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which [[building-with-natural-materials]] in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
 For the broader homestead infrastructure context, see [[homestead-workshop-tools]] and [[emergency-preparedness]].
 ## Related
-- [[roundwood-shelter-building]]
+- [[organic-vegetable-growing-and-market-gardening]]

@@ -75,7 +75,7 @@ Shulgin applied the same systematic approach to both families: synthesis, analyt
 - [[2c-b-compound-profile]] — Most famous 2C compound
 - [[2c-e-compound-profile]] — Most profound 2C compound
 - [[dob-compound-profile]] — Among the most potent
-- [[mda-compound-profile]] and [[mdma-in-pihkal-context]] — Empathogenic classics
+- [[ayahuasca-and-dmt-plant-medicine]] and [[mdma-in-pihkal-context]] — Empathogenic classics
 
 ### Tryptamine Highlights (TIHKAL)
 - DMT — The simplest psychedelic tryptamine

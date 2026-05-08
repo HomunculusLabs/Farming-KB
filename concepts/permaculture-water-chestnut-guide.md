@@ -39,7 +39,7 @@ Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in 
 
 ## Companion Planting
 
-In [[permaculture-design-principles-beginners]], water chestnuts occupy the shallow water zone in aquatic [[permaculture-food-forest-design-principles]] systems. They pair well with taro, lotus, and water mimosa in pond edge plantings. The grass-like foliage provides habitat for aquatic insects and small fish. Water chestnuts can be interplanted with [[permaculture-taro-guide]] and water spinach in polyculture pond systems. Their root systems help stabilize pond margins and filter water. As [[permaculture-wildlife-corridors]], water chestnuts are food producers, water purifiers, and habitat providers.
+In [[permaculture-design-principles]], water chestnuts occupy the shallow water zone in aquatic [[permaculture-food-forest-design-principles]] systems. They pair well with taro, lotus, and water mimosa in pond edge plantings. The grass-like foliage provides habitat for aquatic insects and small fish. Water chestnuts can be interplanted with [[permaculture-taro-guide]] and water spinach in polyculture pond systems. Their root systems help stabilize pond margins and filter water. As [[permaculture-wildlife-corridors]], water chestnuts are food producers, water purifiers, and habitat providers.
 
 ## Culinary Uses
 
@@ -77,7 +77,7 @@ Fresh water chestnuts can be stored in the refrigerator in a sealed bag for up t
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], water chestnuts exemplify the principle of "each element performs multiple functions." They produce food, filter water, provide wildlife habitat, and stabilize pond margins simultaneously. In [[permaculture-food-forest-design-principles]], aquatic zones with water chestnuts create productive edge environments that increase overall system yield. Their annual growth cycle allows for flexible management — corms can be partially harvested while leaving some to regrow the following season.
+In [[permaculture-design-principles]], water chestnuts exemplify the principle of "each element performs multiple functions." They produce food, filter water, provide wildlife habitat, and stabilize pond margins simultaneously. In [[permaculture-food-forest-design-principles]], aquatic zones with water chestnuts create productive edge environments that increase overall system yield. Their annual growth cycle allows for flexible management — corms can be partially harvested while leaving some to regrow the following season.
 
 ## See Also
 

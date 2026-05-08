@@ -117,7 +117,7 @@ Essential for identification — place cap gills-down on half white/half black p
 - [[mushroom-identification]] — systematic identification methods and features
 - [[mushroom-species-guide]] — cultivated species profiles and parameters
 - [[psilocybin-mushroom-chemistry]] — global distribution of neurotropic species
-- [[mushroom-identification-resources]] — field guides and microscopy references
+- [[mushroom-cultivation-fundamentals]] — field guides and microscopy references
 
 ## Related
 

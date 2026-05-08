@@ -1,0 +1,120 @@
+---
+title: "Passiflora edulis"
+type: species
+tags:
+  - passifloraceae
+  - tropical-fruit
+  - edible-fruit
+  - medicinal-plant
+  - perennial-vine
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - Vanderplank, J. (1996). "Passion Flowers and Passion Fruit." MIT Press, 3rd edition.
+  - Cerqueira-Silva, C.B. et al. (2014). "The genetic diversity and structure of Passiflora edulis." Genetic Resources and Crop Evolution, 61, 1097–1111.
+  - Dhawan, K. et al. (2004). "Passiflora: A review update." Journal of Ethnopharmacology, 94, 1–23.
+  - FAO (2023). "FAOSTAT: Passion Fruit Production Data." Food and Agriculture Organization.
+---
+
+# Passiflora edulis
+
+## Overview
+
+**Passiflora edulis** (passion fruit) is a perennial climbing vine in the family Passifloraceae, widely cultivated for its aromatic, nutrient-rich fruits. Two distinct forms are recognized: the purple passion fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
+
+The species is native to southern Brazil through Paraguay to northern Argentina. Commercial production now spans tropical and subtropical regions worldwide, with Brazil, Colombia, Kenya, and Ecuador as leading exporters.
+
+Global annual production exceeds 1 million tonnes, with the fruit valued for fresh consumption, juice processing, and flavoring in food and beverage industries. Passion fruit juice is among the most commercially important tropical fruit juices globally.
+
+## Taxonomy and Morphology
+
+**Kingdom:** Plantae — **Family:** Passifloraceae — **Genus:** Passiflora — **Species:** P. edulis
+
+The species was first described by John Sims in 1818. The genus Passiflora contains over 500 species, with P. edulis among the most economically significant. Two forms are widely recognized: the small purple-fruited form (f. edulis) adapted to cooler subtropical conditions, and the larger yellow-fruited form (f. flavicarpa) suited to lowland tropics.
+
+The vine is woody at the base, climbing by means of axillary tendrils to heights of 10–15 m on supporting structures. Stems are cylindrical, striate, and green to brown, with diameters reaching 2–3 cm at maturity.
+
+Leaves are alternate, deeply three-lobed (occasionally five-lobed), 7–20 cm long and 5–15 cm wide. Leaf margins are serrate, and the adaxial surface is dark green and glabrous to finely pubescent.
+
+Flowers are solitary, axillary, and 5–8 cm in diameter, with a distinctive corona of filaments in white, purple, or banded patterns. The flowers are self-compatible in the yellow form but often require cross-pollination in the purple form.
+
+Fruits are berries, globose to ovoid, 4–8 cm in diameter, with a tough outer rind (exocarp) that is purple or yellow at maturity. The interior pulp (mesocarp) is orange, aromatic, and filled with numerous black seeds embedded in juicy arils.
+
+## Distribution and Habitat
+
+Passion fruit is cultivated between approximately 20°N and 30°S latitude. The purple form thrives in subtropical highlands at 800–2,000 m elevation with moderate temperatures (18–25°C). The yellow form prefers lowland tropical conditions (23–28°C) from sea level to 800 m.
+
+Optimal rainfall ranges from 1,200–2,500 mm annually, well-distributed throughout the growing season. The crop requires well-drained soils with pH 5.5–7.0 and is sensitive to waterlogging.
+
+Major production areas include Brazil (especially São Paulo and Paraná states), Colombia, Ecuador, Peru, Kenya, Uganda, Australia, and South Africa. India, Vietnam, and the Caribbean islands are expanding producers.
+
+The species has naturalized in many tropical regions outside its native range, including parts of Africa, Southeast Asia, and Pacific islands. It can become weedy in disturbed habitats and forest margins.
+
+## Nutritional and Chemical Profile
+
+Passion fruit pulp is rich in vitamin C (approximately 30 mg/100 g), provitamin A (beta-carotene), and B-complex vitamins including riboflavin and niacin. Mineral content includes potassium (348 mg/100 g), magnesium, phosphorus, and iron.
+
+The pulp contains dietary fiber (approximately 10 g/100 g), primarily from the seeds which are edible and rich in polyunsaturated fatty acids. Total carbohydrate content is approximately 23 g/100 g, with natural sugars of about 11 g/100 g.
+
+Flavor and aroma derive from a complex volatile profile dominated by esters (ethyl butyrate, ethyl hexanoate), terpenes (linalool), and sulfur compounds. Over 200 volatile compounds have been identified in passion fruit aroma.
+
+Bioactive compounds include flavonoids (orientin, isoorientin, vitexin), phenolic acids, and carotenoids. Harman and harmol alkaloids contribute to the mild sedative properties traditionally attributed to the leaves and aerial parts.
+
+## Cultivation
+
+Vines are typically established from seedlings or cuttings planted at spacings of 2–3 m within rows and 3–4 m between rows, using trellis systems for support. Production begins 8–12 months after planting and continues for 5–7 years before replanting.
+
+Flowering occurs year-round in tropical lowlands but may be seasonal in subtropical regions. Fruit development takes 60–80 days from anthesis to harvest, with peak production typically in summer and autumn months.
+
+Average yields range from 15–25 tonnes of fresh fruit per hectare per year under commercial management. The yellow form generally produces higher yields (20–40 t/ha) than the purple form (8–15 t/ha).
+
+Major pests include fruit flies (Bactrocera spp.), aphids, mites, and nematodes. Diseases of significance include brown spot (Alternaria passiflorae), Fusarium wilt, woodiness virus, and anthracnose (Colletotrichum gloeosporioides).
+
+Hand harvesting is standard, with fruits collected at the ripe stage when they drop or show color change. Post-harvest life is relatively short (2–3 weeks at 7–10°C), necessitating rapid processing or local market distribution.
+
+## Uses and Applications
+
+Passion fruit is primarily consumed as fresh fruit, juice, and concentrate. The juice is widely used in beverages, cocktails, dairy products, and confectionery. Passion fruit puree is a standard ingredient in tropical fruit blends and yogurt flavorings.
+
+The leaves and aerial parts have a long history of traditional medicinal use as an anxiolytic and sedative in South American and European herbal medicine. Commercial herbal preparations of Passiflora extract are available as tablets, tinctures, and teas.
+
+The rind, a byproduct of juice processing, contains pectin and dietary fiber suitable for food ingredient applications. Research has explored its use in biodegradable film production and animal feed supplementation.
+
+Passion fruit seed oil, extracted by cold pressing, is rich in linoleic acid and used in cosmetics for skin care applications. The oil contains antioxidant compounds and exhibits moisturizing and anti-inflammatory properties in topical formulations.
+
+## Pharmacology and Ethnobotany
+
+Passiflora edulis leaves and vine parts have been used in traditional medicine across South America, Europe, and parts of Asia for centuries. Indigenous Tupi-Guarani peoples of Brazil used leaf infusions as a calming remedy and digestive aid.
+
+Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary bioactive compounds responsible for anxiolytic activity. These compounds modulate GABA-A receptor binding, producing sedative effects without the side effects of benzodiazepines.
+
+Clinical trials using Passiflora extract have demonstrated efficacy comparable to oxazepam for generalized anxiety disorder in some studies, with fewer reported adverse effects. Standardized extracts typically contain 0.5–2.0% total flavonoids calculated as vitexin.
+
+The fruit pulp exhibits antioxidant, anti-inflammatory, and antimicrobial activities in vitro. Beta-carotene and vitamin C contribute to radical scavenging capacity, while dietary fiber supports prebiotic effects on gut microbiota.
+
+## See Also
+
+- [[passiflora-incarnata]]
+- [[mangifera-indica]]
+- [[carica-papaya]]
+- [[persea-americana]]
+- [[artocarpus-heterophyllus]]
+- [[cymbopogon-citratus]]
+- [[eryngium-foetidum]]
+- [[moringa-oleifera]]
+- [[azadirachta-indica]]
+- [[colocasia-esculenta]]
+- [[dioscorea-alata]]
+- [[manihot-esculenta]]
+- [[vigna-radiata]]
+- [[phaseolus-vulgaris]]
+- [[glycine-max]]
+- [[pachyrhizus-erosus]]
+- [[lathyrus-tuberosus]]
+- [[crotalaria-juncea]]
+- [[prosopis-juliflora]]
+- [[chenopodium-quinoa]]
+- [[amaranthus-caudatus]]
+- [[eleusine-coracana]]
+- [[panicum-virgatum]]
+- [[saccharum-officinarum]]

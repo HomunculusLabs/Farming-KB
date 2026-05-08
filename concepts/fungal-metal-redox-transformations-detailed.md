@@ -109,7 +109,7 @@ Fungal metal transformations are fundamental to global biogeochemical cycling:
 - **Mineral genesis**: Biogenic precipitation of metal oxalates, oxides, and carbonates contributes to secondary mineral formation
 - **Radionuclide behavior**: Fungi influence the environmental mobility of uranium, thorium, plutonium, and other radionuclides through biosorption, reduction, and complexation
 
-## [[peat-free-gardening]] and Fungal Metal Research
+## peat free gardening and Fungal Metal Research
 
 G.M. Gadd has been instrumental in establishing the framework for understanding fungal interactions with metals. His work demonstrates that fungal metal transformations should be viewed as interconnected processes — solubilization and immobilization, oxidation and reduction, and complexation and precipitation operate simultaneously in natural environments, with the net effect determined by environmental conditions and fungal physiology.
 

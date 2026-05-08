@@ -16,7 +16,7 @@ type: concept
 ---
 
 # Quarter-Acre Farming and Self-Sufficiency
-One of Masanobu Fukuoka's most provocative proposals in *The Natural Way
+One of [[masanobu-fukuoka]]'s most provocative proposals in *The Natural Way
 of Farming* is his vision of quarter-acre farming for all people. This
 concept challenges the foundational assumptions of modern agricultural
 economics and calls for a radical rethinking of the relationship between
@@ -104,7 +104,7 @@ and a relationship with nature produces actively destructive conclusions.
 
 When Fukuoka said that crops do not need to be priced, he meant that
 whether they have prices or not makes no difference to the farmer who
-dedicates himself to natural farming. Because he has no use for various
+dedicates himself to [[natural-farming]]. Because he has no use for various
 chemical-based farming materials and does not reckon household labor into
 his expenses, his production costs are zero.
 If all farmers thought along these lines, crop prices everywhere would
@@ -148,6 +148,3 @@ gain from capricious laws that take land out of farmers' hands.
 
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]] for energy economics
 - [[fukuoka-textdoc-production-costs-not-coming-down]] for rising farming costs
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]] for barriers to the land
-- [[fukuoka-textdoc-village-philosophy-disappearance]] for cultural loss
-- [[fukuoka-textdoc-getting-natural-diet]] for dietary self-sufficiency

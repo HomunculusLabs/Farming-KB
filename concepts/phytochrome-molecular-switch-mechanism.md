@@ -148,5 +148,3 @@ importance across over a billion years of evolution.
 - [[shade-avoidance-syndrome]] for the ecological application of phytochrome signalling
 - [[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system
 - [[phytochrome-and-plant-light-perception]] for the broader phytochrome overview
-- [[leaf-based-photoperiodic-perception]] for phytochrome in leaves regulating flowering
-- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source

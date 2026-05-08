@@ -29,7 +29,7 @@ Several neurotropic species are reported across broad African regions:
   regions
 - **Copelandia tropicalis**: Distributed widely in Africa (Ola'h, 1969;
   Weeks et al., 1979)
-- **[[gymnopilus-spectabilis]]**: Reported from northern Africa
+- **[[gymnopilus-spectabilis-entity]]**: Reported from northern Africa
 - **Panaeolina foenisecii**: Widespread in Africa
 - **Panaeolus africanus**: Distinctly African species, found in Chad,
   Central African Republic, and Sudan

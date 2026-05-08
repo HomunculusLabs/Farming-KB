@@ -128,5 +128,5 @@ niches and chemical environments.
 - [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
 
 - [[glutathione-biochemistry-and-redox-biology]]
-- [[structure-activity-relationship-medicinal-chemistry]]
+- structure activity relationship medicinal chemistry
 - [[enzyme-kinetics-michaelis-menten-model]]

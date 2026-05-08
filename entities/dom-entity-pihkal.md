@@ -32,7 +32,7 @@ Also known as: STP.
 > effects become more pronounced, enhancement of comescaline Very
 > little distortion of perception, no disorientation, no creeping or
 > flowing, but color enhancement considerable. The emotional content
-> and empathy for others was closer to [[mescaline]] than to amphetamine, a
+> and empathy for others was closer to [[mescaline-entity]] than to amphetamine, a
 > welcome change. No suggestion of nausea at any time. Unable to sleep
 > at ten hours, so I took 3/4 grain Seconal. Headache and listlessness
 > next morning, probably due to the Seconal.

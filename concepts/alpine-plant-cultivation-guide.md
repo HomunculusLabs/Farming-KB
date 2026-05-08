@@ -41,7 +41,7 @@ Areas of churned-up soil are good for germination. Soil is naturally churned up 
 
 It is important to pay attention to the difference in height between the location of the parent plant and the place where seeds will be sown. A 1,000-meter height difference will mean the vegetation is so different that plants 1,000 meters lower should be sown three to four weeks later. This compensates for the fact that frosts come later at lower altitudes.
 
-This altitude compensation principle is important for anyone working with alpine species in [[permaculture-design-methods]] across elevational gradients.
+This altitude compensation principle is important for anyone working with alpine species in [[permaculture-design]] across elevational gradients.
 
 ## Other Alpine Species
 
@@ -53,7 +53,7 @@ All of these species benefit from the introduction of native soil containing the
 
 After four to five years the gentian roots will reach a sufficient size for harvesting (over half a kilo fresh weight). They can be dug up and either used to make spirits (as a main or secondary ingredient) or dried for health or pharmaceutical purposes.
 
-Seeds are harvested as soon as the first seed pods begin to burst open. The plants are cut down and placed in paper bags. When the plants are dry the bags are hit, and the seeds fall to the bottom while the stems can be pulled out. This connects to [[permaculture-seed-saving-and-selection]] practices.
+Seeds are harvested as soon as the first seed pods begin to burst open. The plants are cut down and placed in paper bags. When the plants are dry the bags are hit, and the seeds fall to the bottom while the stems can be pulled out. This connects to [[permaculture-design]] practices.
 
 ## Conservation Through Cultivation
 

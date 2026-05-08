@@ -88,7 +88,7 @@ The broader research programme also examined oil supplementation (groundnut, coc
 - [[grain-spawn-preparation]] — detailed spawn preparation methods
 - [[mushroom-grain-spawn-preparation]] — grain spawn techniques
 - [[mushroom-substrate-recipes]] — substrate formulation
-- [[mushroom-compost-substrates]] — composted substrate options
+- [[mushroom-cultivation-fundamentals]] — composted substrate options
 - [[mushroom-yield-optimization]] — maximizing harvest yields
 - [[tropical-mushroom-spawn-production-materials]]
 - [[mushroom-sawdust-bran-spawn-preparation]]

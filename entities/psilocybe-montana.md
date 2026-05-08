@@ -136,9 +136,9 @@ Documented use of *P. montana* by indigenous peoples is limited:
 - psilocybe sierrae
 - [[psilocybe-fimetaria]]
 - Deconica
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[singer-wasson-scientific-rivalry-psilocybe-taxonomy]]
 - [[psilocybe-cyanofibrillosa]]
 - [[psilocybe-pelliculosa-profile]]
 - [[psilocybe-aztecorum-profile]]
-- [[psilocybe-cyanescens-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

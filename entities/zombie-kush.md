@@ -135,31 +135,14 @@ Zombie Kush has several recognized medical applications:
   combine with THC to reduce acute anxiety, though high doses may paradoxically
   increase anxiety in sensitive individuals.
 - **Appetite stimulation** — the munchies effect is pronounced, useful for
-  patients undergoing chemotherapy or dealing with appetite loss.
-
-## Cultivation
-
-Zombie Kush is considered moderately difficult to cultivate, best suited for
-growers with some experience. Indoor flowering time is 8–9 weeks, with outdoor
-harvest typically in late September to early October in the Northern Hemisphere.
-
-Indoor yields range from 400–500 g/m². The plants respond well to low-stress
-training (LST) and SCROG methods. The branching structure benefits from
-defoliation in weeks 3–5 of flowering to improve light penetration.
-
-The plants are moderately resistant to common molds and pests but can be
-sensitive to overfeeding, particularly nitrogen during the flowering phase.
-Purple coloration develops best with night temperatures of 10–15°C during
-weeks 6–8 of flowering. Plants reach a medium height of 80–120 cm indoors.
-
 ## See Also
 
 - [[og-kush-cannabis-entity]]
-- [[jack-herer-entity]]
+- [[jack-herer]]
 - [[cannabis-blue-dream]]
 - [[cannabis-northern-lights]]
 - [[super-skunk]]
-- [[acdc-cannabis]]
+- [[acdc-cannabis-strain]]
 - [[sour-diesel-cannabis]]
 - [[granddaddy-purple]]
 - [[myrcene]]

@@ -143,9 +143,8 @@ nitrogen deposition. Protected in some jurisdictions.
 ## See Also
 
 - [[agaricus-bisporus]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]
 - [[morchella-esculenta]]
 - [[permaculture]]
 - [[ergothioneine]]
-- [[beta-glucans]]

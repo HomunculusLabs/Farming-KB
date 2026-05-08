@@ -148,4 +148,3 @@ capture Thai potency and flavor in a more commercially viable window.
 - [[colombian-gold-entity]] — Fellow foundational sativa landrace of the classic import era
 - [[acapulco-gold]] — Mexican landrace sativa popular during the same period
 - [[cannabis-sativa]] — Species page for sativa classification and origins
-- [[skunk-1]] — Hybrid descendant carrying Thai genetics through Haze lineage

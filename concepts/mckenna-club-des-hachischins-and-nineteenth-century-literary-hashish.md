@@ -148,7 +148,3 @@ scholarly atmosphere of the Club des Hachischins would never be replicated.
 
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-cannabis-culture-history]]
-- [[mckenna-food-gods-natural-synthetic-drugs]]
-- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
-- [[mckenna-archaic-revival]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]

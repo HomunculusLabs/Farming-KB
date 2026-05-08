@@ -89,7 +89,7 @@ These encounters are not understood by indigenous practitioners as mere hallucin
 
 Yage visions frequently serve diagnostic and therapeutic functions within indigenous medical systems. Shamans report being able to see inside patients' bodies during ayahuasca sessions, identifying the supernatural causes of illness — typically sorcerous darts, spirit loss, or breach of dietary or sexual taboos. The visual content of the visions provides specific information about the type of affliction and the appropriate treatment, whether it involves sucking out intruding objects, singing an icaro to restore the patient's soul, or prescribing a specific plant remedy.
 
-The purgative effects of ayahuasca (intense vomiting and sometimes diarrhea) are understood within indigenous frameworks as integral to the healing process, not as side effects. Purging is seen as cleansing the body of spiritual contamination, negative emotions, and the physical manifestations of sorcery. The [[harner-plant-teachers-and-entheogenic-knowledge]] encompasses this therapeutic dimension: the plants themselves are understood as active agents in the healing process, not merely as passive sources of bioactive compounds.
+The purgative effects of ayahuasca (intense vomiting and sometimes diarrhea) are understood within indigenous frameworks as integral to the healing process, not as side effects. Purging is seen as cleansing the body of spiritual contamination, negative emotions, and the physical manifestations of sorcery. The [[ethnomycology]] encompasses this therapeutic dimension: the plants themselves are understood as active agents in the healing process, not merely as passive sources of bioactive compounds.
 
 ## Musical and Acoustic Phenomena
 
@@ -113,7 +113,7 @@ The [[psychedelic-consciousness-models]] emerging from this research suggest tha
 
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[ethnomycology]]
 - [[harner-shamanic-journey-and-altered-states]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]

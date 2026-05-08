@@ -128,5 +128,5 @@ farming systems.
 ## See Also
 - [[cover-crops]] — broader cover crop reference beyond green manures
 - [[composting]] — converting mulch and green manure residues into finished compost
-- [[no-till-gardening-method]] — mulch-based growing systems
+- [[composting-and-soil-biology]] — mulch-based growing systems
 - [[crop-rotation-principles]] — integrating green manures into rotation plans

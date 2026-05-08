@@ -89,7 +89,7 @@ This left each human being frightened, guilt-burdened, and alone. Existential ma
 
 [[mckenna-psychedelic-shamanism]]
 
-[[terence-mckenna-stoned-ape-hypothesis]]
+[[psychedelic-mushrooms-species-and-identification]]
 
 [[tryptamine-consciousness-theory]]
 

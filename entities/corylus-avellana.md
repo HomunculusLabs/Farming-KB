@@ -148,5 +148,3 @@ hazel stabilizes banks while providing wildlife habitat.
 
 - [[castanea-sativa]] · [[juglans-nigra]] · [[juglans-regia]]
 - [[food-forest-permaculture]] · [[agroforestry]]
-- [[companion-planting-guild]] · [[silvopasture]]
-- [[hippophae-rhamnoides-permaculture]] · [[black-locust-entity]]

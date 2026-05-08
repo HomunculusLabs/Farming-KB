@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, psychopharmacology, chemistry, pharmacology, consciousness, counterculture, history, law, safety, neuroscience]
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 # LSD Reference
 LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.

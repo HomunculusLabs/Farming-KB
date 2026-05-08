@@ -126,7 +126,7 @@ access paths when laying out the guild.
 
 ## Related Concepts
 
-- [[gaias-garden-allelopathy-and-guild-challenges]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[gaias-garden-super-guild-design]]
 - [[gaias-garden-walnut-guild-design]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]

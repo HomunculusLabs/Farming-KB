@@ -103,7 +103,7 @@ See also: [[compost-tea-recipe-guide]], [[compost-tea-brewing]], [[compost-tea-a
 - [[humic-acids-soil-biology-ingham]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[aact-compost-quality-standards-ingham]]
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 
 ## Practical Context
 Aact Brewing Ingredients (ingham) is relevant to farming knowledge because it connects observation,

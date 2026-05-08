@@ -148,5 +148,3 @@ techniques for creating targeted formulations.
 - Always decarboxylate your cannabis first to convert THCA and CBDA into active THC
   and CBD, following the principles in [[cannabis-decarboxylation-chemistry]]
 - Food-grade ethanol extracts the widest range of cannabinoids and terpenes, while
-
-## See Also

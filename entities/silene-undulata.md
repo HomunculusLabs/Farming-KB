@@ -122,6 +122,6 @@ Root development takes 1–2 growing seasons before harvestable quantities accum
 - [[nymphaea-alba]]
 - [[tagetes-lucida]]
 - [[mucuna-pruriens]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[paullinia-cupana]]
 - [[theobroma-cacao]]

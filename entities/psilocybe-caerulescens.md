@@ -148,7 +148,3 @@ The blue-staining reaction (oxidation of psilocybin to blue quinoid compounds) m
 ## See Also
 
 - [[psilocybe-mexicana]] — Close relative with overlapping Mazatec traditional use
-- [[psilocybe-cubensis]] — Most widely cultivated psilocybin mushroom for comparison
-- [[psilocybe-azurescens]] — More potent species for potency comparison
-- [[psilocybe-weilii]] — Related subtropical species from the southeastern US
-- [[psilocybin]] — Primary psychoactive compound (chemical entity page)

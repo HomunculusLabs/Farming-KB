@@ -92,7 +92,7 @@ Hemenway's armchair method applied to his Oregon bioregion, based on Franklin an
 ## Related
 
 - [[food-forest-design]] — Guilds in the context of forest garden design
-- [[permaculture-design-methods]] — Broader permaculture design toolkit
+- [[permaculture-design]] — Broader permaculture design toolkit
 - [[dynamic-accumulators]] — Comprehensive list of nutrient-accumulating plants
 - [[companion-planting-reference]] — Companion planting reference
 - [[insect-allies]] — Beneficial insects and insectary plants

@@ -135,21 +135,6 @@ cooking) and not alcohol-soluble, suggesting a peptide or labile terpenoid.
 
 ## Cultivation and Notes
 
-*T. floccosus* has not been successfully cultivated commercially. Its obligate
-ectomycorrhizal dependency on living conifer roots makes artificial cultivation
-extremely challenging. All market supply comes from wild harvesting.
-
-**Foraging considerations:**
-- Scaly cap and vase shape are distinctive but can be confused with
-  *Turbinellus kauffmanii* (western North America) and omphalinoid species
-- True chanterelles (*Cantharellus cibarius*) have shallow ridges and smooth
-  cap surface — no erect scales
-- Jack-o'-lanterns (*Omphalotus olearius*) are bioluminescent with true gills
-
-**Ecological significance:** Contributes to nutrient cycling in montane
-coniferous ecosystems and facilitates mycorrhizal networks between mature
-pines and seedlings. Fruiting indicates healthy, undisturbed forest duff layers.
-
 ## See Also
 
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]

@@ -23,11 +23,11 @@ Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 
 
 ### North America (excluding Mexico)
 
-The Pacific Northwest has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psilocybe-cyanescens-profile]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
+The Pacific Northwest has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psychedelic-mushrooms-species-and-identification]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
 
 ### Europe
 
-Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
+Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psychedelic-mushrooms-species-and-identification]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
 
 ### Central and South America
 
@@ -84,4 +84,4 @@ competition, and habitat creation as much as from harvestable fruiting bodies.
 - [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] Concepts
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species
-- [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
+- [[entheogenic-plants-and-psychoactive-flora]] -- broader survey of psychoactive flora

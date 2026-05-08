@@ -148,5 +148,3 @@ below-ground storage may be too warm and humid for root crops.
 ## See Also
 
 - [[manihot-esculenta]]
-
-- [[xanthosoma-sagittifolium]]

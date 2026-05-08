@@ -80,4 +80,4 @@ LSD is a Schedule I controlled substance under the United Nations Convention on 
 - [[sandoz-pharmaceuticals]] — the company where LSD was discovered
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]] — the natural source of lysergic acid
 - [[ergine-lsa]] — a related naturally occurring ergoline
-- [[psilocybin]] — another classical psychedelic compound
+- [[psilocybin-compound]] — another classical psychedelic compound

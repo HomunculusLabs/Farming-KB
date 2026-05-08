@@ -76,7 +76,7 @@ The debate over Allegro's work illustrates a persistent tension in the study of 
 
 ## Influence on Subsequent Research
 
-Despite its scholarly condemnation, "The Sacred Mushroom and the Cross" has had an outsized influence on the entheogenic studies movement. [[terence-mckenna-stoned-ape-hypothesis]] drew on Allegro's ideas in developing his own theories about the role of psychoactive mushrooms in human evolution. The broader [[entheogen-culture]] community has continued to reference Allegro's work, often with more enthusiasm than mainstream scholars would endorse.
+Despite its scholarly condemnation, "The Sacred Mushroom and the Cross" has had an outsized influence on the entheogenic studies movement. [[psychedelic-mushrooms-species-and-identification]] drew on Allegro's ideas in developing his own theories about the role of psychoactive mushrooms in human evolution. The broader [[entheogen-culture]] community has continued to reference Allegro's work, often with more enthusiasm than mainstream scholars would endorse.
 
 The controversy also illustrates a broader phenomenon: the difficulty of conducting dispassionate scholarship on topics that touch on deeply held religious beliefs. Allegro's experience suggests that academic freedom has practical limits when scholars challenge foundational religious narratives, regardless of the quality of their evidence or argumentation.
 

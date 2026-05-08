@@ -9,7 +9,7 @@ sources:
 ---
 # MDAL (N-Allyl-MDA; 3,4-Methylenedioxy-N-allylamphetamine)
 
-MDAL is a substituted amphetamine compound and the N-allyl derivative of [[mda-entity]]. It was explored as a potential primer or modulator for LSD activity. The compound is listed as PIHKAL entry #101.
+MDAL is a substituted amphetamine compound and the N-allyl derivative of [[mda]]. It was explored as a potential primer or modulator for LSD activity. The compound is listed as PIHKAL entry #101.
 
 ## Chemical Classification
 
@@ -17,7 +17,7 @@ MDAL belongs to the amphetamine class of chemical compounds.
 
 It is formally named 3,4-methylenedioxy-N-allylamphetamine.
 
-It is the N-allyl homologue of [[mda-entity]], with an allyl (3-carbon unsaturated) group replacing the hydrogen on the nitrogen.
+It is the N-allyl homologue of [[mda]], with an allyl (3-carbon unsaturated) group replacing the hydrogen on the nitrogen.
 
 MDAL was synthesized as part of the systematic exploration of N-substituted MDA derivatives.
 
@@ -95,7 +95,7 @@ The compound was inactive alone and appeared to antagonize LSD.
 
 ## See Also
 
-[[mda-entity]]
+[[mda]]
 
 [[mdpr-entity]]
 

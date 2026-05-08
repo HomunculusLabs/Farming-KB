@@ -15,7 +15,7 @@ The genus Psilocybe (Fr.) P. Kumm. is the largest and most taxonomically complex
 
 ## Overview of the Genus
 
-Psilocybe was originally a large genus encompassing many agarics with brown spores and a preference for humicolous habitats. Modern revisions have refined the genus considerably. The neurotropic species, defined by the presence of bluing reactions and the detection of indole alkaloids (primarily [[psilocybin]] and [[psilocin]]), belong to specific sections that are generally characterized by:
+Psilocybe was originally a large genus encompassing many agarics with brown spores and a preference for humicolous habitats. Modern revisions have refined the genus considerably. The neurotropic species, defined by the presence of bluing reactions and the detection of indole alkaloids (primarily [[psilocybin-compound]] and [[psilocin]]), belong to specific sections that are generally characterized by:
 
 - Spore prints ranging from dark violet-brown to purple-brown
 - Spores with a distinct germ pore in most sections
@@ -29,7 +29,7 @@ Psilocybe was originally a large genus encompassing many agarics with brown spor
 
 The type section contains species with relatively small spores and simple morphological features. Many of the best-known temperate species belong here.
 
-Key species: [[psilocybe-semilanceata]] (liberty cap), [[psilocybe-strictipes]], [[psilocybe-silvatica]], Psilocybe pelliculosa, [[psilocybe-stuntzii]], [[psilocybe-fimetaria]], [[psilocybe-liniformans]]
+Key species: [[psilocybe-semilanceata]] (liberty cap), [[psilocybe-strictipes-entity]], [[psilocybe-silvatica]], Psilocybe pelliculosa, [[psilocybe-stuntzii]], [[psilocybe-fimetaria]], [[psilocybe-liniformans]]
 
 Geographic range: Primarily temperate regions of North America, Europe, and parts of Asia. [[psilocybe-semilanceata]] has the widest distribution of any neurotropic Psilocybe, found across Europe, North America, and extending into Asia.
 
@@ -69,11 +69,11 @@ Habitat: Flooded areas, muddy riverbanks, disturbed soils, and decomposing wood 
 
 This section contains species with relatively large, robust fruiting bodies, many of which are pantropical in distribution.
 
-Key species: [[psilocybe-cubensis]], [[psilocybe-subcubensis]], [[psilocybe-tampanensis]]
+Key species: [[psilocybe-cubensis]], [[psilocybe-subcubensis]], [[psilocybe-tampanensis-entity]]
 
 Geographic range: Pantropical. [[psilocybe-cubensis]] is one of the most widely distributed neurotropic fungi, found throughout the tropics and subtropics worldwide. Its presence in many regions (Africa, the Caribbean, South America, Asia, Australia) is likely due in part to human-mediated dispersal through cattle ranching.
 
-Habitat: Primarily a coprophilous species, growing on dung of herbivores (especially cattle and horses) in tropical and subtropical pastures. [[psilocybe-tampanensis]] is notable for producing sclerotia (truffles).
+Habitat: Primarily a coprophilous species, growing on dung of herbivores (especially cattle and horses) in tropical and subtropical pastures. [[psilocybe-tampanensis-entity]] is notable for producing sclerotia (truffles).
 
 ### Section Cordisporae
 

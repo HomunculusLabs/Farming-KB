@@ -20,7 +20,7 @@ The ideal guerrilla site receives maximum direct sunlight while remaining hidden
 
 Natural features that provide concealment include dense brush, tall grass, tree lines, ravines, and areas surrounded by difficult terrain. The site should not be visible from roads, trails, or neighboring properties. Avoid areas frequented by hikers, hunters, or other outdoor users. Visit the site at different times of day to check for visibility from various angles before committing to a location.
 
-Consider the wildlife in the area. Deer, rabbits, woodchucks, and groundhogs are common cannabis predators. See [[cannabis-pest-management]] for animal deterrence methods.
+Consider the wildlife in the area. Deer, rabbits, woodchucks, and groundhogs are common cannabis predators. See cannabis pest management for animal deterrence methods.
 
 ## Security Considerations
 
@@ -54,7 +54,7 @@ Water-absorbing polymers (hydrogel crystals) mixed into the soil at planting tim
 
 Guerrilla plants are particularly vulnerable to animal predators because they cannot be monitored daily. Wire mesh fences around individual plants protect against rabbits and woodchucks. Predator urine applied around the perimeter deters deer. Planting marigolds near the cannabis plants is a traditional deterrent for some animal pests.
 
-Slug and snail control can be achieved by creating circles of table salt around the base of plants, though this must be reapplied after rain. See [[cannabis-pest-management]] for comprehensive pest identification and control methods.
+Slug and snail control can be achieved by creating circles of table salt around the base of plants, though this must be reapplied after rain. See cannabis pest management for comprehensive pest identification and control methods.
 
 ## Strain Selection for Guerrilla Growing
 
@@ -88,5 +88,5 @@ Understanding the local first and last frost dates, average rainfall patterns, a
 
 ## Related
 
-- [[cannabis-grow-room-security]]
+- [[cannabis-indoor-growing-guide]]
 - [[cannabis-seed-selection-and-strain-types]]

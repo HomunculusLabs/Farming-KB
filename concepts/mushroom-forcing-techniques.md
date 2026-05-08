@@ -68,7 +68,7 @@ mat coverings were preferred.
 ## Hay and Mat Coverings
 
 Coverings were the primary temperature management tool. After
-[[mushroom-bed-preparation]], a slight hay covering prevented
+mushroom bed preparation, a slight hay covering prevented
 cracking and moderated temperature. It had to be removed
 periodically to dry, preventing mould growth. For forcing,
 heavier coverings trapped fermentation heat, raising surface

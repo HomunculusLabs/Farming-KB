@@ -148,5 +148,3 @@ cumulative effects.
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[crop-rotation-benefits]]
 - [[polyculture-design-hemenway]]
-- [[integrated-pest-management]]
-- [[soil-building-ecological-garden]]

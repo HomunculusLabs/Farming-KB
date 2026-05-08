@@ -126,10 +126,10 @@ Developed for *Panaeolus* species cultivation. Unlike pasteurized manure for Aga
 **Key notes**: *Panaeolus* species do not colonize grain as densely as *P. cubensis*. Use generous spawn rate (300 mL rye per bag). See [[psilocybin-cultivation]] for full *Panaeolus* cultivation parameters.
 ### Dung Types
 - **Cow dung** — most commonly available; well-suited for *Panaeolus* and *P. cubensis*. Use dried, aged manure.
-- **Horse manure** — traditional for Agaricus; higher nitrogen content. See [[mushroom-compost-substrates]] for composted horse manure formulas.
+- **Horse manure** — traditional for Agaricus; higher nitrogen content. See [[mushroom-cultivation-fundamentals]] for composted horse manure formulas.
 - **Elephant dung** — used successfully for *P. cubensis* in tropical regions; coarse texture provides excellent aeration.
 ## Compost Preparation (Stamets — Agaricus)
-For detailed Agaricus compost formulas (horse manure and synthetic), supplement groups, C:N ratio targets, and moisture specifications, see [[mushroom-compost-substrates]].
+For detailed Agaricus compost formulas (horse manure and synthetic), supplement groups, C:N ratio targets, and moisture specifications, see [[mushroom-cultivation-fundamentals]].
 ## Key Parameters by Substrate Type
 - Sawdust blocks: 55-65% moisture content, sterilized
 - Straw: 70-74% moisture content, pasteurized

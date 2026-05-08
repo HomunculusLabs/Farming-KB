@@ -24,9 +24,9 @@ sources:
 
 ## Overview
 
-Duckweed (*Lemna*, *Spirodela*, *Wolffia* spp.) and Azolla (*Azolla caroliniana*, *A. filiculoides*, *A. pinnata*) are among the fastest-growing plants on Earth. Both are tiny floating aquatic plants capable of doubling their biomass in 2–3 days under ideal conditions. Their extraordinary growth rates, combined with impressive protein content and — in Azolla's case — symbiotic nitrogen fixation, make them invaluable resources for smallholder farmers, permaculture designers, and anyone seeking sustainable alternatives to purchased animal feed and synthetic fertilizers.
+Duckweed (*Lemna*, *Spirodela*, *Wolffia* spp.) and Azolla (*Azolla caroliniana*, *A. filiculoides*, *A. pinnata*) are among the fastest-growing plants on Earth. Both are tiny floating [[aquatic-plants-and-pond-ecosystems]] capable of doubling their biomass in 2–3 days under ideal conditions. Their extraordinary growth rates, combined with impressive protein content and — in Azolla's case — symbiotic nitrogen fixation, make them invaluable resources for smallholder farmers, [[permaculture-designers-manual-cattle-systems]], and anyone seeking sustainable alternatives to purchased animal feed and synthetic fertilizers.
 
-These organisms represent a bridge between aquaculture, livestock management, and soil fertility. They can be grown in small ponds, rice paddies, unused water bodies, or even constructed containers, and they require minimal inputs beyond water, sunlight, and modest nutrient sources. In integrated farming systems, they close nutrient loops by converting waste nutrients into high-value biomass.
+These organisms represent a bridge between aquaculture, livestock management, and [[soil-fertility-management]]. They can be grown in small ponds, rice paddies, unused water bodies, or even constructed containers, and they require minimal inputs beyond water, sunlight, and modest nutrient sources. In integrated farming systems, they close nutrient loops by converting waste nutrients into high-value biomass.
 
 ---
 
@@ -65,7 +65,7 @@ When grown in nutrient-rich wastewater, duckweed can accumulate heavy metals and
 **Site Selection and Pond Construction:**
 - Ponds should be shallow (20–60 cm) to allow light penetration and easy harvesting.
 - Surface area depends on feed requirements; roughly 1 m² can produce 50–100 g of dry duckweed per day in warm climates.
-- Avoid locations with heavy runoff from agricultural chemicals or industrial sources.
+- Avoid locations with heavy runoff from [[agricultural-chemicals-mycorrhizal-impact]] or industrial sources.
 - Ponds can be earthen, lined with plastic, or use existing farm ponds.
 
 **Water Quality:**
@@ -82,7 +82,7 @@ When grown in nutrient-rich wastewater, duckweed can accumulate heavy metals and
 **Nutrient Management:**
 - Fresh manure (chicken, cow, pig) diluted 1:10 with water provides nitrogen and phosphorus.
 - Compost tea or vermicompost leachate are excellent organic nutrient sources.
-- Biochar added to the pond floor improves nutrient retention and provides substrate for beneficial bacteria.
+- Biochar added to the pond floor improves [[composting-and-soil-biology]] and provides substrate for beneficial bacteria.
 - Avoid over-fertilization, which promotes algal blooms that outcompete duckweed.
 
 **Temperature:**
@@ -130,7 +130,7 @@ Duckweed has been successfully used as feed for a wide range of animals:
 ### Duckweed as Biofertilizer
 
 - Fresh duckweed incorporated into soil decomposes rapidly, releasing nitrogen, phosphorus, and trace minerals.
-- Duckweed compost (mixed with carbon-rich materials) creates a balanced, nutrient-dense soil amendment.
+- Duckweed compost (mixed with carbon-rich materials) creates a balanced, [[nutrient-dense-gardening]] soil amendment.
 - Duckweed tea (fresh duckweed steeped in water for 24–48 hours) serves as a liquid foliar feed or soil drench.
 - In rice paddies, duckweed suppresses weeds by blocking light, retains soil moisture, and adds nitrogen when incorporated before transplanting.
 - Nutrient analysis of duckweed compost typically shows: N 2–4%, P 0.5–1.5%, K 2–4% (dry weight basis).
@@ -151,7 +151,7 @@ Duckweed has been successfully used as feed for a wide range of animals:
 
 Azolla is a genus of aquatic fern in the family Salviniaceae. Unlike duckweed, Azolla is a true fern with roots, stems, and overlapping scale-like leaves. Individual plants are typically 1–5 cm across and form dense green (or reddish under stress) mats on still water surfaces.
 
-The most remarkable feature of Azolla is its **symbiotic relationship with the cyanobacterium *Nostoc azollae*** (formerly *Anabaena azollae*). This nitrogen-fixing bacterium lives within cavities in the Azolla leaf and converts atmospheric nitrogen (N₂) into ammonium that the fern can use. This relationship allows Azolla to thrive in nitrogen-poor waters and makes it one of the most productive nitrogen-fixing organisms known — capable of fixing 1–5 kg of nitrogen per hectare per day.
+The most remarkable feature of Azolla is its **symbiotic relationship with the cyanobacterium *Nostoc azollae*** (formerly *Anabaena azollae*). This [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] bacterium lives within cavities in the Azolla leaf and converts atmospheric nitrogen (N₂) into ammonium that the fern can use. This relationship allows Azolla to thrive in nitrogen-poor waters and makes it one of the most productive nitrogen-fixing organisms known — capable of fixing 1–5 kg of nitrogen per hectare per day.
 
 There are approximately seven species of Azolla:
 
@@ -258,7 +258,7 @@ Azolla's primary agricultural value historically has been as a **rice biofertili
 - **Rice paddies:** Azolla is grown in flooded rice fields before transplanting or between rice crops. When incorporated into the soil, it decomposes and releases 20–40 kg of nitrogen per hectare per cropping cycle. This can replace 30–50% of synthetic nitrogen fertilizer requirements.
 - **Green manure:** Azolla can be grown in dedicated ponds, harvested, and incorporated into garden beds or fields as a nitrogen-rich green manure. One tonne of fresh Azolla provides approximately 2–3 kg of nitrogen.
 - **Compost activator:** Adding Azolla to compost piles provides nitrogen to fuel microbial decomposition and produces a phosphorus-rich finished compost.
-- **Azolla tea:** Fermented Azolla tea (1 kg fresh Azolla in 10 L water, fermented 7–10 days) is a potent liquid fertilizer for foliar application or soil drench. NPK approximately 0.5-0.3-0.5.
+- **Azolla tea:** Fermented Azolla tea (1 kg fresh Azolla in 10 L water, fermented 7–10 days) is a potent [[liquid-fertilizer-from-weeds]] for foliar application or soil drench. NPK approximately 0.5-0.3-0.5.
 - **Mulch:** Dried Azolla can be used as a surface mulch around garden plants, suppressing weeds and slowly releasing nutrients as it breaks down.
 
 **Nitrogen Fixation Rates:**

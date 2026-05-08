@@ -139,46 +139,6 @@ space at the top of the jar to accommodate the dry vermiculite barrier layer.
 
 ### Step 3: Light Tamping
 
-With one hand, cover the mouth of the jar and grasp it securely. Lightly slam the
-bottom of the jar on the other palm a couple of times to lower the mixture level to
-approximately 1/2 inch from the jar top.
-
-This slight tamping step is unique to the maximum formula and is not required for
-the standard formula. The tamping is needed because the higher nutrient content
-creates a less stable substrate structure that needs gentle settling.
-
-### Step 4: Dry Vermiculite Barrier
-
-Clean the inside of the jar down to the substrate level using a tissue or fingertip,
-removing any substrate particles from the walls above the fill line. Fill the jar
-to the top with plain dry vermiculite and level it off.
-
-This upper layer protects the wet substrate from airborne contaminants and also
-absorbs and regulates moisture transpiration and condensation. This dry vermiculite
-barrier is a Psylocybe Fanaticus original discovery.
-
-### Step 5: Lid Application
-
-Place the lid on the jar with the rubberized edge up, so the jagged edges of the
-needle holes face downward into the jar interior. Screw the lid band on securely.
-
-Cover the needle holes with professional grade masking tape that will hold on during
-the steaming process, protecting the holes from contaminant entry during
-sterilization.
-
-## Incubation Considerations
-
-The maximum fruiting formula requires special attention during incubation due to its
-higher moisture and nutrient content. Incubate at room temperature, not exceeding
-70 degrees Fahrenheit.
-
-Keep the lid loose during incubation, or untape the lid holes to allow gas exchange.
-Watch carefully for loose water collecting at the bottom of the jar. If water
-collects, the lid should remain loose to allow excess moisture to escape.
-
-Only by direct experimenting and comparison can the right balance be found for a
-given set of conditions. Take notes and go with what fruits the best.
-
 ## Related Concepts
 
 - [[pf-substrate-formula]] for the standard substrate formulation

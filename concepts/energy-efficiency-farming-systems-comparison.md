@@ -126,7 +126,7 @@ The ratio is staggering: natural farming requires one calorie of human energy to
 - [[comparison-silvopasture-systems-vs-pasture-management]]
 - [[natural-farming-methods-comparison]]
 
-- [[Fukuoka's Four Principles of Natural Farming]]
+- [[fukuoka's-four-principles-of-natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - Natural Livestock Grazing Methods
 - Ecological Energetics of Food Systems

@@ -10,7 +10,7 @@ tags: [reference]
 
 # McKenna's Dominator vs Partnership Society Model
 
-In [[mckenna-food-of-the-gods-thesis]], [[terence-mckenna-stoned-ape-hypothesis]]
+In [[mckenna-food-of-the-gods-thesis]], [[psychedelic-mushrooms-species-and-identification]]
 adopts and extends Riane Eisler's framework of "partnership" versus
 "dominator" social models from [[dominator-culture-and-partnership-society]]. McKenna uses this polarity as the central analytical
 lens through which to interpret the entire sweep of human history and the

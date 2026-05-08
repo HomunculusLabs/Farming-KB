@@ -128,7 +128,7 @@ mushrooms.
 
 ## Harm Substitution Concerns
 
-The recent prohibition of [[psilocybin]] and [[psilocin]] containing fungi has
+The recent prohibition of [[psilocybin-compound]] and [[psilocin]] containing fungi has
 provoked an emerging interest of retailers in alternative, legal types of
 hallucinogenic mushroom such as [[amanita-muscaria]] (fly agaric). The active
 chemicals in these are known to carry substantial toxicity risks and some
@@ -148,4 +148,3 @@ how legal responses can both curb a trend and unintentionally shift it toward
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
-- [[emcdda-hallucinogenic-mushroom-health-risks]]

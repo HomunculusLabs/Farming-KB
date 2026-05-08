@@ -128,8 +128,8 @@ The most dangerous confusion is with T. pardinum, which has distinctly scaly cap
 
 - [[tricholoma-equestre]]
 - [[psilocybe-cubensis]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[boletus-edulis-entity]]
+- [[cantharellus-cibarius-entity]]
 - [[amanita-muscaria]]
 - [[lactarius-deliciosus]]
 - [[russula-cyanoxantha]]

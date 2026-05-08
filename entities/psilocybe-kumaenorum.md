@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe kumaenorum
 
-**Psilocybe kumaenorum** is a [[psilocybin]]-containing mushroom species originally described from Papua New Guinea. It represents one of the more obscure psychoactive fungi documented in the broader Australasian and Pacific region, and relatively little has been published about its chemistry, ecology, or traditional use compared to better-known species.
+**Psilocybe kumaenorum** is a [[psilocybin-compound]]-containing mushroom species originally described from Papua New Guinea. It represents one of the more obscure psychoactive fungi documented in the broader Australasian and Pacific region, and relatively little has been published about its chemistry, ecology, or traditional use compared to better-known species.
 
 ## Taxonomy and Classification
 
@@ -26,7 +26,7 @@ Spores are ellipsoid to sub-ellipsoid, with a dark purplish-brown spore print. T
 
 ## Chemistry
 
-The species is reported to contain [[psilocybin]] and likely [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic bluing reaction observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by laccase enzymes, producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
+The species is reported to contain [[psilocybin-compound]] and likely [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic bluing reaction observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by laccase enzymes, producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
 
 ## Chemical Profile
 
@@ -74,7 +74,7 @@ DNA barcoding of existing herbarium specimens or fresh collections from Papua Ne
 
 *Psilocybe kumaenorum* is potentially vulnerable due to the limited documentation of its distribution and the ongoing threats to tropical forest habitats in Papua New Guinea. The country's rainforests are subject to pressure from logging, agricultural expansion, and mining, which could threaten the microhabitats where the species occurs. However, the species' conservation status cannot be formally assessed without additional field data. Key research priorities for this species include:
 - Comprehensive morphological description from fresh material with microscopic illustrations
-- Chemical analysis using HPLC or LC-MS to quantify [[psilocybin]] and [[psilocin]] content
+- Chemical analysis using HPLC or LC-MS to quantify [[psilocybin-compound]] and [[psilocin]] content
 - DNA barcoding and phylogenetic analysis using ITS and other genetic markers
 - Field surveys in Papua New Guinea highlands to assess distribution and abundance
 - Ethnopharmacological research with indigenous Kuma communities to document any traditional knowledge
@@ -97,5 +97,5 @@ While specific seasonal data for *P. kumaenorum* are not well documented, the tr
 - [[galerina-marginata]] — deadly lookalike containing amatoxins
 - [[baeocystin]] — secondary alkaloid found in related Psilocybe species
 - [[psilocybin-biosynthesis-pathway]] — genetic basis of psilocybin production
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite

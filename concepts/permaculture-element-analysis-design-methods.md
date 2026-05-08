@@ -129,7 +129,7 @@ The PDC recommends phased implementation:
 - [[permaculture-zone-planning]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-sector-analysis]]
-- [[permaculture-principle-obtain-a-yield]]
+- [[permaculture-design-principles]]
 
 Sources: William Ozier Williams, *PDC: A Permaculture Design Course*
 - [[hamilton-garden-planning-and-site-assessment]]

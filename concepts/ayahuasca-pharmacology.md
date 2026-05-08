@@ -7,10 +7,6 @@ tags: [pharmacology, pharmacokinetics, psychedelics, tryptamine, maoi, beta-carb
 sources: [raw/papers/shulgin-a-tihkal.md]
 ---
 
-
-
-
-
 ## The Pharmacology of Ayahuasca
 
 Ayahuasca is a synergistic combination of two plant components: a [[dmt-compound-profile]]-containing plant (typically [[banisteriopsis-caapi]], Psychotria viridis, or Diplopterys cabrerana) and a beta-carboline-containing MAO inhibitor plant (typically Banisteriopsis caapi itself or Peganum harmala / Syrian Rue). Neither component alone produces the characteristic visionary experience when taken orally.
@@ -71,10 +67,6 @@ The former is ethnobotanically rich but pharmacologically imprecise. The latter 
 - Traditional use incorporates vomiting (called "la purga") as a therapeutic/diagnostic component
 - Harmaline at high doses can produce significant tremor, anxiety, and tachycardia
 - Individual sensitivity varies enormously based on body weight, metabolic rate, MAO enzyme levels, and prior exposure
-
-
-
-
 
 ## See Also
 

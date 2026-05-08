@@ -101,7 +101,7 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 ## Related Concepts
 
 - [[zone-sector-analysis-guide]]
-- [[permaculture-design-methods]]
+- [[permaculture-design]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-site-analysis]]
 - [[permaculture-mapping-and-reading-the-landscape]]

@@ -138,6 +138,6 @@ to spore dispersal.
 ## See Also
 
 - [[suillus-brevipes]] — Short-stiped relative with similar pine association
-- [[boletus-edulis]] — Prized edible bolete for comparison of culinary quality
+- [[boletus-edulis-entity]] — Prized edible bolete for comparison of culinary quality
 - [[suillus-grevillei]] — Larch-associated *Suillus* with annulus
 - [[lactarius-deliciosus]] — Another ectomycorrhizal edible with latex

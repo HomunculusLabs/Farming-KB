@@ -139,19 +139,12 @@ its bitter constituents. No significant disease issues have been reported.
 Boneset has several applications in designed ecosystems:
 
 - **Riparian buffer plantings** — stabilizes stream banks while providing
-  pollinator habitat and herbal medicine
+  [[pollinator-habitat]] and [[herbal-medicine]]
 - **Constructed wetlands** — tolerates periodic inundation and filters
   nutrient-rich water
 - **Herbal hedgerows** — combines well with elderberry, mint, and Joe-Pye
   weed in medicinal food forests
-- **Companion planting** — its bitter compounds may deter certain pest
+- **[[companion-planting]]** — its bitter compounds may deter certain pest
   insects when interplanted with vegetables
 
 ## Similar Species
-
-## See Also
-
-- [[herbal-plant-remedies]]
-- [[cannabis-terpene-profiles]]
-
-- [[herbal-medicine-making-basics]]

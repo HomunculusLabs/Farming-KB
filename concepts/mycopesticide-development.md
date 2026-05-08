@@ -77,7 +77,7 @@ Most mycopesticidal patents target an insect species using a fungus strain, with
 
 [[mycopesticides-stamets]]
 
-[[mycopesticides-fungal-biocontrol]]
+[[mushroom-cultivation-fundamentals]]
 
 [[mycoforestry-practices]]
 

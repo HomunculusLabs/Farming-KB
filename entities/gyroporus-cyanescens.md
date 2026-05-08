@@ -141,6 +141,6 @@ Key edibility notes:
 ## See Also
 
 - [[suillus-luteus]] — Shared habitat in mixed forests, contrasting morphology
-- [[boletus-edulis]] — Edible bolete comparison, different family placement
+- [[boletus-edulis-entity]] — Edible bolete comparison, different family placement
 - [[xylaria-hypoxylon]] — Fungal species with distinctive pigment chemistry
 - [[gyromitra-esculenta]] — Another fungal species requiring cooking for safety

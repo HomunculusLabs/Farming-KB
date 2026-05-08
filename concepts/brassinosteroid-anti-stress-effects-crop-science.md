@@ -142,11 +142,9 @@ failures and substrate variability are ongoing challenges.
   systems
 - Brassinosteroid enhancement of mushroom yield and dry mass for
   the growth promotion effects observed in the Gartz study
-- [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound used in research
 
 ## See Also
 
 - [[brassinosteroid]]
-- [[homobrassinolide]]
-- [[integrated-pest-management]]

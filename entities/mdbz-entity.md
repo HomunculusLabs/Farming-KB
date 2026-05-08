@@ -9,7 +9,7 @@ sources:
 ---
 # MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine)
 
-MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[mda-entity]]. It was explored as part of the systematic study of N-substituted MDA analogues. The compound is listed as PIHKAL entry #103.
+MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[mda]]. It was explored as part of the systematic study of N-substituted MDA analogues. The compound is listed as PIHKAL entry #103.
 
 ## Chemical Classification
 
@@ -17,7 +17,7 @@ MDBZ belongs to the amphetamine class of chemical compounds.
 
 It is formally named 3,4-methylenedioxy-N-benzylamphetamine.
 
-It is the N-benzyl homologue of [[mda-entity]], with a benzyl (phenylmethyl) group replacing the hydrogen on the nitrogen atom.
+It is the N-benzyl homologue of [[mda]], with a benzyl (phenylmethyl) group replacing the hydrogen on the nitrogen atom.
 
 The compound was synthesized as part of the systematic exploration of N-substitution on the MDA skeleton.
 
@@ -97,7 +97,7 @@ The compound is considered inactive.
 
 ## See Also
 
-[[mda-entity]]
+[[mda]]
 
 [[mdbu-entity]]
 

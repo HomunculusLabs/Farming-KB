@@ -148,4 +148,3 @@ higher organism diversity are targeted. The air pump capacity,
 diffuser design, and bubble pattern all affect oxygen transfer
 efficiency. Coarse bubbles from diffusers at the bottom of the
 tank provide both oxygen and physical agitation that helps
-extract organisms from the compost.

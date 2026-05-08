@@ -14,7 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-p
 
 ## Taxonomy and Etymology
 
-Guzmán erected the species to accommodate collections from the states of Mexico, Puebla, and Tlaxcala that were morphologically similar to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] but consistently smaller in all macroscopic and microscopic features. The epithet *pseudoaztecorum* (false Aztec) reflects this close similarity. Molecular phylogenetic studies have confirmed its placement in section Aztecorum alongside [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-weilii]]-complex species. Some authorities have suggested it may warrant placement in the genus Deconica based on weak bluing reactions, but the presence of [[psilocybin]] and [[psilocin]] in chemical analyses supports its retention in Psilocybe sensu stricto.
+Guzmán erected the species to accommodate collections from the states of Mexico, Puebla, and Tlaxcala that were morphologically similar to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] but consistently smaller in all macroscopic and microscopic features. The epithet *pseudoaztecorum* (false Aztec) reflects this close similarity. Molecular phylogenetic studies have confirmed its placement in section Aztecorum alongside [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-weilii]]-complex species. Some authorities have suggested it may warrant placement in the genus Deconica based on weak bluing reactions, but the presence of [[psilocybin-compound]] and [[psilocin]] in chemical analyses supports its retention in Psilocybe sensu stricto.
 
 ## Morphology
 
@@ -32,7 +32,7 @@ psilocybe pseudoaztecorum is endemic to the Trans-Mexican Volcanic Belt, occurri
 
 ## Chemistry
 
-Chemical analyses by gastón-guzmán and colleagues detected [[psilocybin]] and [[psilocin]] in fruiting body tissue. The total tryptamine content is moderate compared to other Mexican Psilocybe species, with [[psilocybin]] as the primary alkaloid. Baeocystin has also been detected in trace amounts. The relatively low alkaloid content is consistent with the species' weak bluing reaction, as psilocin (the oxidative product responsible for blue coloration) is present in lower concentrations than in more potent relatives.
+Chemical analyses by gastón-guzmán and colleagues detected [[psilocybin-compound]] and [[psilocin]] in fruiting body tissue. The total tryptamine content is moderate compared to other Mexican Psilocybe species, with [[psilocybin-compound]] as the primary alkaloid. Baeocystin has also been detected in trace amounts. The relatively low alkaloid content is consistent with the species' weak bluing reaction, as psilocin (the oxidative product responsible for blue coloration) is present in lower concentrations than in more potent relatives.
 
 ## Ethnomycological Significance
 
@@ -79,7 +79,7 @@ Psilocybe pseudoaztecorum fruits during the rainy season from June through Septe
 - [[psilocybe-caerulescens-entity]] — widespread Mexican psilocybin mushroom of lower elevations
 - teonanacatl — the Nahuatl term for sacred mushrooms
 - gastón-guzmán — authority who described the species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — secondary tryptamine alkaloid
 - [[psilocybe-urdapilletae]] — closely related species from Jalisco

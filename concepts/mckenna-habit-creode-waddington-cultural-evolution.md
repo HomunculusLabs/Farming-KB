@@ -140,19 +140,6 @@ mushroom creode channeled human development.
 ## Implications for Cultural Change
 
 The creode framework has sobering implications for those who seek to change entrenched
-cultural patterns. If modern Western civilization constitutes a deep cultural creode, then
-incremental reform is unlikely to produce meaningful change. Only a force sufficient to push
-human development into an entirely new channel, what McKenna calls an "Archaic Revival," can
-overcome the inertia of the dominator creode and restore the broken relationship between
-humanity and the natural world.
-
-McKenna suggests that the rediscovery of psychedelic plant medicines may provide just such a
-force. By temporarily dissolving the ego structures that sustain the dominator creode,
-psychedelics offer the possibility of pushing human consciousness out of its established
-channel and into new pathways of awareness, connection, and ecological responsibility. The
-creode model predicts that such a transition would be difficult, requiring sustained effort,
-but also that once a new channel is established, it would tend to be self-reinforcing.
-
 ## See Also
 
 - [[mckenna-archaic-revival]]

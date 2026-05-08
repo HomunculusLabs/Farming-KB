@@ -49,7 +49,7 @@ Fukuoka describes this as a fundamental difference in how the two cultures relat
 
 ## The Macrobiotic Movement Encounter
 
-Fukuoka recounts the visit of Herman Aihara, leader of the [[macrobiotic movement]] on the West Coast of America, who brought about twenty students to his farm to study natural diet in Japan. The students were unimpressed with a first-class Japanese restaurant meal, finding it overprocessed and disconnected from natural flavors. The next morning, Fukuoka prepared a simple gruel of brown rice with nearby-picked greens, served in cups made from sections of overgrown bamboo shoots.
+Fukuoka recounts the visit of Herman Aihara, leader of the [[macrobiotic-movement]] on the West Coast of America, who brought about twenty students to his farm to study natural diet in Japan. The students were unimpressed with a first-class Japanese restaurant meal, finding it overprocessed and disconnected from natural flavors. The next morning, Fukuoka prepared a simple gruel of brown rice with nearby-picked greens, served in cups made from sections of overgrown bamboo shoots.
 
 When everyone sat down to eat breakfast on the clover growing in the orchard, the visitors said without flattery, "This gruel is great!" Fukuoka took this as evidence that "the American palate has changed." The simple, unprocessed food of nature, which the Japanese had largely abandoned in favor of Western-style bread and meat diets, was being rediscovered and appreciated by Westerners who had already experienced and rejected the excesses of industrial food culture.
 

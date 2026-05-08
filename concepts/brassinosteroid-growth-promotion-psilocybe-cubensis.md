@@ -148,4 +148,3 @@ suggesting a particularly strong interaction between the brassinosteroid structu
 - Brassinosteroids for the broader class of plant growth regulators
 - Fungal hormone signaling for comparative hormone biology across kingdoms
 - Mushroom cultivation yield optimization for other approaches to improving
-  cultivation efficiency - Steroid signaling in fungi for the broader context of fungal steroid biology

@@ -148,7 +148,3 @@ Fukuoka believed that modern diseases are largely caused by:
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 
 - [[fukuoka-seasonal-eating-natural-food-calendar]]
-
-- [[fukuoka-disappearance-natural-diet]]
-
-- [[fukuoka-natural-food-philosophy]]

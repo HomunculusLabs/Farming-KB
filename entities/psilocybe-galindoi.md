@@ -59,7 +59,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin]] and [[psilocin]]
+- Contains [[psilocybin-compound]] and [[psilocin]]
 - Considered moderate in potency
 - Part of the [[psilocybe-mexicana]] species complex, which shares similar alkaloid profiles
 - The truffle or sclerotium form of this species, often sold as "Philosopher's Stones" or "Atlantis truffles," has gained popularity in European smart shops
@@ -76,7 +76,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - Distinguished from [[psilocybe-mexicana]] primarily by microscopic features including spore size and shape, and the morphology of pleurocystidia
 - The conic to campanulate cap shape and slender stipe are characteristic of the mexicana complex
-- More robust than [[psilocybe-tampanensis]] but smaller than [[psilocybe-cubensis]]
+- More robust than [[psilocybe-tampanensis-entity]] but smaller than [[psilocybe-cubensis]]
 - The bluing reaction on the stipe base is helpful for field identification
 - Microscopic examination is generally required for definitive identification
 
@@ -106,7 +106,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Similar Species
 
 - [[psilocybe-mexicana]] — very closely related; microscopic differentiation needed
-- [[psilocybe-tampanensis]] — also produces sclerotia but has different morphology and distribution
+- [[psilocybe-tampanensis-entity]] — also produces sclerotia but has different morphology and distribution
 - psilocybe atlantis — sometimes considered a synonym or closely related species
 
 ## Etymology

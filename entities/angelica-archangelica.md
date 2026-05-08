@@ -31,7 +31,7 @@ sources:
 The genus *Angelica* belongs to the family Apiaceae (the carrot or parsley family) and the subfamily Apioideae. The species epithet and common name derive from medieval European folklore: according to legend, the Archangel Michael revealed the plant's medicinal virtues to a monk during a plague epidemic, hence *archangelica* — "the angelic herb." This association with divine healing persisted throughout the medieval period, and the plant was sometimes called "herb of the Holy Ghost."
 
 Several other *Angelica* species share common names and uses:
-- *Angelica sinensis* ([[dong quai]]) — Chinese angelica; primary women's tonic in TCM
+- *Angelica sinensis* ([[dong-quai]]) — Chinese angelica; primary women's tonic in TCM
 - *Angelica dahurica* (Bai Zhi) — used in traditional Chinese and Kampo medicine
 - *Angelica sylvestris* (wild angelica) — European native, less aromatic, occasionally used
 

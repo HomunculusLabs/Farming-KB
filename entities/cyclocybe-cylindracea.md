@@ -1,5 +1,5 @@
 ---
-title: "Cyclocybe cylindracea"
+title: "cyclocybe cylindracea"
 created: 2026-04-28
 type: species
 tags:
@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Wasser, S.P. (2014). \"Mushroom Biotechnology.\" In: biotechnology of higher fungi. Springer."
   - "Wang, S. & Zhang, Y. (2020). \"Advances in cultivation of Cyclocybe cylindracea.\" Journal of Fungi, 6(4), 289."
-  - "Kawai, G. et al. (2018). \"Nutritional composition and bioactive compounds of Agrocybe cylindracea.\" Food Chemistry, 245, 472-479."
+  - "Kawai, G. et al. (2018). \"Nutritional composition and medicinal mushroom ex agrocybe cylindracea ompounds of Agrocybe cylindracea.\" Food Chemistry, 245, 472-479."
   - "Zhang, M. et al. (2019). \"Immunomodulatory effects of Cyclocybe cylindracea polysaccharides.\" International Journal of Biological Macromolecules, 132, 941-949."
   - Index Fungorum. "Agrocybe cylindracea (DC.) Maire." www.indexfungorum.org.
 ---
@@ -25,14 +25,14 @@ sources:
 Cyclocybe cylindracea, formerly classified as Agrocybe cylindracea, is an edible
 saprotrophic mushroom in the family Strophariaceae. It is widely cultivated in
 East Asia, particularly China, Japan, and Korea, where it is valued for its
-nutty flavor, firm texture, and nutritional density. Common names include
+nutty flavor, firm [[australian-magic-mushroom-common-names]] nutritional density. Common names include
 cotton stagshorn, poplar mushroom, and Chinese chestnut mushroom.
 
 The species has gained attention in mycological research for its immunomodulatory
 polysaccharides and potential anti-tumor bioactive compounds. It ranks among the
-top six most commercially cultivated mushrooms in China by production volume.
+top six most commercially [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in China by production volume.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
@@ -43,7 +43,7 @@ top six most commercially cultivated mushrooms in China by production volume.
 - **Species:** C. cylindracea (DC.) Vizzini & Angelini (2015)
 - **Basionym:** Agaricus cylindraceus DC. (1815)
 - **Synonyms:** Agrocybe cylindracea (DC.) Maire (1938),
-  Agrocybe aegerita sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
+  [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
 
 ### Macroscopic Features
 
@@ -148,7 +148,3 @@ and braises. Dries well with concentrated flavor.
 
 - [[lentinula-edodes]] — Co-cultivated mushroom with similar production methods
 - [[pleurotus-ostreatus]] — Temperate hardwood-decomposing edible species
-- [[flammulina-velutipes]] — Comparable sawdust-based commercial cultivation
-- [[stropharia-rugosoannulata]] — Related strophariaceous garden mushroom
-- [[agaricus-bisporus]] — Benchmark for cultivated mushroom comparison
-- [[ergothioneine]] — Antioxidant compound abundant in this species

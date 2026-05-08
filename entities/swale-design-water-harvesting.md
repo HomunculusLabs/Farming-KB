@@ -139,52 +139,6 @@ The most common and dangerous failure mode. If the spillway is undersized, poorl
 
 ### Compaction of the Trench
 Driving machinery over the trench or berm compacts the soil, destroying the infiltration capacity that is the swale's primary function. If machinery must cross the swale, use crossing points with geotextile reinforcement.
-
-### Construction on Unstable Soils
-Swales on expansive clay soils (vertisols) or landslide-prone slopes can trigger slope instability. Geotechnical assessment is recommended for steep sites with clay substrates.
-
-### Inadequate Vegetation Establishment
-A swale without established vegetation is a liability. The berm must be planted and mulched immediately after construction to prevent erosion from the first rainfall event. Fast-establishing pioneer species should be included in the initial planting.
-
-### Incorrect Contour
-Even small deviations from true level (as little as 1–2% grade) can cause water to flow to one end of the swale, concentrating erosive energy at a single point. Precision leveling is non-negotiable.
-
-## Climate-Specific Considerations
-
-### Arid and Semi-Arid (<500 mm annual rainfall)
-- Space swales more closely to capture every possible rainfall event
-- Use wider, shallower trench profiles to maximize surface area for evaporation reduction via mulching
-- Plant drought-adapted species on berms (mesquite, acacia, jojoba, pomegranate)
-- Consider using swales in combination with mulch basins, hugelkultur beds, and shade structures
-
-### Temperate (500–1000 mm annual rainfall)
-- Standard swale design applies; optimal conditions for most permaculture applications
-- Diverse planting palette possible; integrate food forests on swale berms
-- Manage excess water in wet seasons via adequate spillways and drainage connections
-
-### Tropical and Subtropical (>1500 mm annual rainfall)
-- Wider spacing; risk of waterlogging in heavy clay soils
-- Use swales primarily for erosion control and gentle infiltration; avoid excessive ponding
-- Integrate with vetiver grass contour hedgerows for enhanced stabilization
-- Design for extreme events (cyclones, monsoons); oversize spillways
-
-### Cold Climates (frost, freeze-thaw)
-- Construct during frost-free periods to ensure proper compaction and settling
-- Consider the frost line when determining trench depth
-- Mulch heavily to insulate soil and prolong infiltration season
-- Plant cold-hardy species on berms
-
-## Ecological Benefits
-
-Properly designed and maintained swale systems provide cascading ecological benefits:
-- **Groundwater recharge:** Replenishes aquifers and baseflows in streams and springs
-- **Soil building:** Infiltrated water supports soil biology, humus formation, and topsoil accumulation at rates of 1–5 cm/year on swale berms
-- **Erosion prevention:** Eliminates sheet erosion on managed slopes; reduces gully formation
-- **Microclimate creation:** Swale-berm systems create moisture gradients and thermal diversity, supporting increased biodiversity
-- **Carbon sequestration:** Enhanced plant growth and soil building on swale berms sequester atmospheric carbon
-- **Biodiversity:** The transition from dry slope to moist berm creates multiple ecological niches in close proximity
-- **Food production:** Swale berms are among the most productive agricultural zones in a permaculture design, supporting polycultures of trees, shrubs, herbs, and groundcovers
-
 ## See Also
 
 - [[keyline-design]] — Yeomans' keyline scale of permanence

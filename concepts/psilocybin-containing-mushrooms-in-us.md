@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agen
 type: concept
 ---
 
-# [[psilocybin]]-Containing Mushrooms in the US
+# [[psilocybin-compound]]-Containing Mushrooms in the US
 
 ## Overview
 

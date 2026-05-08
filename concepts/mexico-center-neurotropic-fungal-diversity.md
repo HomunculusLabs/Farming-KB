@@ -70,7 +70,7 @@ subtropical deciduous forests all support neurotropic species.
 
 Beyond Psilocybe, Mexico hosts significant diversity in other genera.
 Copelandia cyanescens, C. mexicana, and C. tropicalis are found in
-tropical lowland regions. [[gymnopilus-spectabilis]], G. liquiritiae, G.
+tropical lowland regions. [[gymnopilus-spectabilis-entity]], G. liquiritiae, G.
 sapineus, G. lateritius, and G. subpurpuratus are documented. Hypholoma
 naematoliformis and H. rhombispora are tropical species described from
 Mexico. Conocybe siligineoides, used by the Mazatec, is among the most

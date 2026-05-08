@@ -147,9 +147,3 @@ spices for individual therapeutic needs.
 - [Oxidative Stress and Antioxidant Defense
 - [Cannabis and Inflammation
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-
-]
-
-## See Also
-
-- [[luteolin]]

@@ -457,3 +457,42 @@ to a single standard, but they are the basis of a durable farming system.
   potatoes, sweet corn, tomatoes, soft fruit, and tree fruit.
 - Organic matter, crop rotation, deep-bed, and growing-calendar concept notes
   in the LLM Wiki farming knowledge base.
+## Difficult Site Planting
+
+# Difficult Site Planting Many permaculture sites present challenges: salinity, alkalinity, waterlogging, coastal exposure, or degraded soils. This guide covers strategies and species for these conditions, drawn from "Permaculture Plants: A Selection." ## Salt-Affected Sites See [[salt-tolerant-plant-guide]] for full details on grasses, legumes, saltbushes, and bluebushes for saline conditions. Key principles: - Plant into mounds 200-300 mm above ground level, following contours - Fence from stock until species are established - A plant cover reduces evaporation, erosion, and lowers the water table through transpiration ## Salt Tolerant Trees **Tamarix articulata (Athel Tamarisk)** Vigorous, bushy, pine-like tree. Tolerates most soils in frost-free districts with 350+ mm rainfall. **WARNING**: Most tamarisks cause salinisation of upper soil. ...
+
+## Gaia's Garden - Allelopathy and Guild Design Challenges
+
+# Allelopathy and Guild Design Challenges Allelopathy — the secretion of biochemical substances by one plant that suppresses the growth of competing neighbors — is one of the most significant challenges in temperate [[ecological-gardening-principles]]. While tropical guilds are relatively simple to assemble because shallow soils prevent allelopathic compounds from accumulating, temperate forests and grasslands have deep, chemically complex soils where toxins from microorganisms and allelopathic plants can build to problematic concentrations. This chemical complexity makes temperate guild design considerably more difficult than its tropical counterpart. ## Juglone: The Walnut Allelopathic Challenge Black walnuts (Juglans nigra) are the classic example of allelopathic plants in North American permaculture. They secrete juglone, a compound that suppresses a wide spectrum of competing vegetation. ...
+
+## Garden Tools Selection
+
+# Garden Tools Selection Steve Solomon advocates that successful vegetable gardening requires only a few well-chosen hand tools, properly maintained. Garden centers and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not. ## The Essential Few Tools Solomon emphasizes quality over quantity. The basic toolkit includes: - **Spade/shovel**: The primary earth-moving tool. Must be kept sharp. ...
+
+## homemade liquid fertilizer
+
+# homemade liquid fertilizer ## Overview It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material. ## Basic Recipe (Animal Manure Liquid Feed) **Best manure:** Sheep manure (particularly high in nutrients), but cow, pig, horse, or goat manure can also be used. About half a sackful provides a year's supply for an average-sized garden. **Steps** 1. ...
+
+## Hugelkultur Bed Construction
+
+# Hugelkultur Bed Construction Hugelkultur (German for "mound culture") is a gardening technique from central Europe where woody debris is used as the core of raised beds. In the carefully tended forests of central Europe, no scrap of wood is ever wasted. Branches and brushy prunings are piled into mounds that become productive garden beds for years with minimal irrigation or fertilization. ## The Classic Method (from Gaia's Garden) **Materials** - Branches and brush (1-2 feet deep) - Compostable materials: grass clippings, sod, straw - Compost - Topsoil (about 1 inch) **Construction Steps** 1. **Pile wood**: Pile up branches or brush 1-2 feet deep in a mound 4 to 8 feet long 2. ...
+
+## Plant Touch and Thigmomorphogenesis
+
+# Plant Touch and Thigmomorphogenesis ## Overview Plants possess a sophisticated capacity to perceive and respond to mechanical stimulation, a faculty that operates through specialized mechanoreceptor cells and triggers cascading physiological and developmental changes. Unlike animal touch, which relies on nerve cells and rapid electrical signaling, plant touch perception depends on changes in cell membrane potential, calcium ion signaling, and hormonal redistribution. The most dramatic manifestation of this sensory capacity is thigmomorphogenesis, the suite of growth adaptations that plants undergo in response to chronic mechanical stress such as wind, rain, and animal contact. ## Mechanisms of Touch Perception Plant cells detect mechanical deformation through stretch-activated ion channels embedded in their plasma membranes. When a cell wall is bent, compressed, or touched, these channels open and allow calcium ions to flood into the cytoplasm. ...
+
+## Roundwood Shelter Building
+
+# roundwood shelter building Roundwood shelters and earth cellars are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places. ## Construction Method **Foundation Posts** Rough timber logs are placed at least one metre deep into the ground, then cut to the same height. These serve as the vertical support posts for the structure. **Notched Trunks and Roof** Tree trunks are notched and used to construct the roof. ...
+
+## Swale Construction Guide
+
+# Swale Construction Guide Swales are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface water runoff, slow its movement, and allow it to infiltrate into the soil, forming an underground lens of stored water that moves downslope like a slow underground tide. ## What a Swale Does A swale, laid out on contour so that water does not flow along it but instead percolates into the soil, forms an underground storage reservoir. Swales can be 1 to 3 feet deep and 1 to 4 feet or more across, with a berm downslope roughly the same size, made from the excavated soil. Holmgren describes keyline and other catchment-based permaculture strategies as reflecting the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible. ...
+
+## Town Garden Design
+
+# Town Garden Design ## Purpose In principle, a garden in town has the same purpose as a kitchen garden. Sepp Holzer considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters. ## Design Principles Everything that applies to a kitchen garden can also be applied to a town garden. ...
+
+## Wireworm Control
+
+# Wireworm Control Wireworms are the soil-dwelling larvae of click beetles (Elateridae family). They are shiny, hard-bodied, segmented worms ranging from yellow-brown to reddish-brown, typically 1-3 cm long. They feed on seeds, roots, tubers, and underground stems of many vegetable crops, particularly potatoes, carrots, onions, and corn. Wireworms can persist in soil for 2-6 years before pupating, making them a persistent problem for vegetable gardeners. ## Damage Wireworms bore into seeds before germination, tunnel into potato tubers and carrot roots, and sever small roots of seedlings. ...

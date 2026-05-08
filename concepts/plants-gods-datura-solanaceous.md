@@ -148,5 +148,3 @@ recreational purposes is prohibited in most jurisdictions.
 
 - [[plants-gods-peyote]] for another Mexican hallucinogen tradition
 - [[plants-gods-ayahuasca]] for comparison with South American
-  hallucinogenic practices
-- [[schultes-salvia-divinorum]] for another plant used in

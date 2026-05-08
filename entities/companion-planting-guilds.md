@@ -134,27 +134,6 @@ A systematic approach to guild design:
 9. **E** — **Edge maximization**: Create interfaces between microclimates (sun/shade, wet/dry) to increase niche diversity
 
 ### Root Depth Layering
-
-Effective guilds stack root systems vertically to minimize competition:
-
-| Layer | Root Depth | Example Species |
-|-------|-----------|-----------------|
-| Canopy | 2–4 m | Fruit trees, nut trees |
-| Understory shrub | 0.5–1.5 m | Berry bushes, nitrogen-fixing shrubs |
-| Herbaceous | 0.2–0.5 m | Comfrey, artichoke, rhubarb |
-| Ground cover | 0.05–0.2 m | Clover, creeping thyme, sweet potato |
-| Root crop | 0.3–0.8 m | Carrots, beets, radishes, potatoes |
-| Deep taproot | 1.5–3 m | Comfrey, dandelion, chicory, daikon radish |
-
-## Integration with Permaculture Zones
-
-Guilds are most commonly applied in **Zones 1 and 2** (home garden and food forest edges) where intensive management and frequent harvest justify the design effort:
-
-- **Zone 1:** Intensive annual guilds (three sisters, salad guilds, herb spirals)
-- **Zone 2:** Perennial polycultures (fruit tree guilds, berry bush understories, food forest edges)
-- **Zone 3:** Larger-scale agroforestry systems (silvopasture, alley cropping, windbreak guilds)
-- **Zone 4:** Restoration plantings with nitrogen-fixing pioneer species and understory accumulators
-
 ## See Also
 
 - [[comparison-fruit-tree-guilds-vs-companion-planting]]

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-[[boswellia-serrata]] is a moderate-to-large deciduous tree in the family Burseraceae, prized for its aromatic oleogum resin known as Indian frankincense. Used for millennia in ayurvedic medicine, it is now one of the most clinically studied botanical anti inflammatory herbs. Its principal bioactives — the boswellic acids — are potent inhibitors of 5-lipoxygenase (5-LOX), distinguishing its mechanism from NSAIDs and corticosteroids.
+boswellia serrata is a moderate-to-large deciduous tree in the family Burseraceae, prized for its aromatic oleogum resin known as Indian frankincense. Used for millennia in ayurvedic medicine, it is now one of the most clinically studied botanical anti inflammatory herbs. Its principal bioactives — the boswellic acids — are potent inhibitors of 5-lipoxygenase (5-LOX), distinguishing its mechanism from NSAIDs and corticosteroids.
 
 ## Taxonomy
 
@@ -42,7 +42,7 @@ First described by William Roxburgh and formalized by Henry Thomas Colebrooke in
 
 ## Morphology
 
-[[boswellia-serrata]] is a deciduous tree reaching 8–15 m in height (stunted to 2–4 m on arid rocky sites), with a trunk 0.5–1.5 m in diameter, often twisted and buttressed at the base. The bark is thin, smooth, papery, peeling in large irregular flakes — pale grey on young branches, darker with age. Leaves are alternate, imparipinnately compound, 20–40 cm long with 8–15 pairs of opposite leaflets plus a terminal leaflet; each leaflet is 2–5 × 1–2.5 cm, oblong-elliptic, finely serrate, with a winged rachis near the tip — a diagnostic trait within the genus. Flowers are small (8–12 mm), white to pale cream, in axillary or terminal racemes; calyx 5-lobed, petals 5, stamens 10 in two whorls; flowering February–April. Fruit is a sub-globose 3-valved capsule (1.2–2 cm), green turning brown, each valve containing 2–4 reniform brown seeds with a fleshy aril.
+boswellia serrata is a deciduous tree reaching 8–15 m in height (stunted to 2–4 m on arid rocky sites), with a trunk 0.5–1.5 m in diameter, often twisted and buttressed at the base. The bark is thin, smooth, papery, peeling in large irregular flakes — pale grey on young branches, darker with age. Leaves are alternate, imparipinnately compound, 20–40 cm long with 8–15 pairs of opposite leaflets plus a terminal leaflet; each leaflet is 2–5 × 1–2.5 cm, oblong-elliptic, finely serrate, with a winged rachis near the tip — a diagnostic trait within the genus. Flowers are small (8–12 mm), white to pale cream, in axillary or terminal racemes; calyx 5-lobed, petals 5, stamens 10 in two whorls; flowering February–April. Fruit is a sub-globose 3-valved capsule (1.2–2 cm), green turning brown, each valve containing 2–4 reniform brown seeds with a fleshy aril.
 
 ## Distribution
 

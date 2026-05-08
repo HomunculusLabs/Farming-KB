@@ -144,10 +144,7 @@ pest or disease problems when properly sited.
 - [[solomon-raised-beds]]
 
 [[convallaria-majalis]]
-[[polygonatum-biflorum]]
-[[polygonatum-biflorum]]
+polygonatum biflorum
+polygonatum biflorum
 diosgenin
 steroidal saponin
-appalachian herbalism
-native american ethnobotany
-woodland herbs

@@ -21,11 +21,11 @@ sources:
 
 # Laetiporus sulphureus
 
-**Chicken of the Woods** is a bracket fungus in the *Fomitopsidaceae* family,
-widely recognized as one of the most popular edible wild mushrooms in North
+**[[chicken-of-the-woods]]** is a bracket fungus in the *Fomitopsidaceae* family,
+widely recognized as one of the most popular [[edible-wild-mushrooms-foraging-guide]] m-guide]] ery-how-do-i-identify-the-most-common-edible-wild-mushrooms]] in North
 America and Europe. Named for its texture and flavor when young — remarkably
-similar to chicken breast meat — *L. sulphureus* is a brown-rot polypore that
-decomposes the cellulose and hemicellulose of hardwood trees. In permaculture
+similar to chicken breast meat — *L. sulphureus* is a [[brown-rot-and-white-rot-fungi-in-mycoremediation]] polypore that
+decomposes the cellulose and hemicellulose of hardwood trees. [[water-harvesting-and-conservation-in-permaculture]]
 design, it serves as both a food crop and an indicator species for tree health
 assessment.
 
@@ -37,9 +37,7 @@ assessment.
 - **Order:** Polyporales
 - **Family:** Fomitopsidaceae
 - **Genus:** *Laetiporus*
-- **Species:** *L. sulphureus*
-
-First described as *Boletus sulphureus* by Bulliard in 1789.
+- **Species:** *L. sulphure [[chicken-of-the-woods]] as *Boletus sulphureus* by Bulliard in 1789.
 Murrill transferred it to *Laetiporus* in 1920.
 Recent molecular work has revealed that North American "Chicken of the Woods"
 likely represents a species complex with at least 5 distinct phylogenetic
@@ -144,10 +142,7 @@ apply:
 
 ## See Also
 
-- [[laetiporus-sulphureus-entity]]
+- laetiporus sulphureus permaculture
 
 - [[ganoderma-lucidum]] — medicinal polypore companion species
 - [[pleurotus-ostreatus]] — white-rot edible for complementary cultivation
-- [[fomitopsis-pinicola]] — red-belted polypore, co-occurring species
-- [[grifola-frondosa]] — Maitake, another large edible polypore
-- [[hugelkultur]] — application for inoculated decaying wood beds

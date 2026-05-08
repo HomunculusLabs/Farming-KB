@@ -103,6 +103,6 @@ Rooftops experience more extreme conditions than ground level: more wind, more s
 - [[comparison-banana-circle-vs-herb-spiral]] as a microclimate-generating garden feature with multiple zones
 - [[keyhole-beds]] for concentrated growing zones with internal microclimates
 - [[gaias-garden-water-harvesting-swales-and-greywater]] for moisture-based microclimates
-- [[gaias-garden-edge-effect]] where two microclimates meet, creating especially productive zones
+- gaias garden edge effect where two microclimates meet, creating especially productive zones
 - [[hemenway-zone-and-sector-planning]] for siting elements in appropriate microclimates
 - [[gaias-garden-backyard-wetland-design]] for water-based microclimate creation

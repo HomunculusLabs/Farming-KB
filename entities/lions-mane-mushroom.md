@@ -18,7 +18,7 @@ created: 2026-05-07
 
 Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group, family Hericiaceae. It is native to North America, Europe, and Asia, where it grows on hardwood trees — particularly oaks, walnuts, and beeches — in late summer and autumn. The mushroom is instantly recognizable by its cascading white spines that resemble a lion's mane, hence its common name.
 
-Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied medicinal mushrooms in modern mycological research.
+Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied [[medicinal-mushrooms]] in modern mycological research.
 
 ## Taxonomy and Classification
 
@@ -42,7 +42,7 @@ The fruiting body of *Hericium erinaceus* is composed of a dense cluster of soft
 - **Color**: Pure white when young, turning yellowish-brown with age
 - **Spines**: Soft, pendulous, downward-pointing; the key identifying feature
 - **Flesh**: White, firm when fresh, becoming tough and fibrous when dried
-- **Spore print**: White to cream-colored
+- **[[spore-print]]**: White to cream-colored
 - **Odor**: Mild, pleasant, slightly mushroomy
 - **Taste**: Often compared to lobster or crab meat when cooked
 
@@ -110,13 +110,13 @@ Lion's Mane can be cultivated both commercially and at home using several method
 
 ### Growing Methods
 
-1. **Indoor cultivation on supplemented sawdust blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a fruiting chamber with high humidity (85–95%), fresh air exchange, and indirect light.
+1. **Indoor cultivation on supplemented sawdust blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-chamber]] with high humidity (85–95%), fresh air exchange, and indirect light.
 
 2. **Log cultivation**: Hardwood logs (oak, beech) are inoculated with plug spawn and left outdoors in shaded areas. Fruiting typically occurs 6–12 months after inoculation and continues for several years.
 
 3. **Toilet paper / straw method**: A low-tech approach suitable for beginners. Sterilized straw or toilet paper rolls serve as substrate.
 
-### Fruiting Conditions
+### [[fruiting-conditions]]
 
 | Parameter | Optimal Range |
 |-----------|--------------|
@@ -137,31 +137,13 @@ Lion's Mane is considered a gourmet edible mushroom with a firm, meaty texture a
 - Adding to risottos, pastas, and cream sauces
 - Drying and powdering for use in teas, soups, and smoothies
 - Using as a meat substitute in vegetarian and vegan dishes
-
-## Safety and Precautions
-
-Lion's Mane is generally regarded as safe for most people when consumed as food or in typical supplement doses (500–3000 mg/day). However, some considerations apply:
-
-- **Allergic reactions**: Rare but possible, particularly in individuals with mushroom allergies
-- **Bleeding risk**: May have mild anticoagulant effects; caution with blood-thinning medications
-- **Blood sugar effects**: May lower blood glucose; monitor if taking antidiabetic medications
-- **Pregnancy and breastfeeding**: Insufficient safety data; consult a healthcare provider
-- **Autoimmune conditions**: Immune-stimulating effects may theoretically exacerbate autoimmune disorders
-
-## Scientific Research Highlights
-
-- A 2009 double-blind, placebo-controlled clinical trial in Japan found that Lion's Mane significantly improved cognitive function in older adults with mild cognitive impairment.
-- Animal studies have shown that erinacine A can reduce amyloid-beta plaque accumulation and improve memory deficits in Alzheimer's model mice.
-- In vitro studies demonstrate anti-inflammatory effects through inhibition of NF-κB signaling pathways.
-- Research from the University of Malaya (2019) confirmed neuroprotective effects through antioxidant and anti-apoptotic mechanisms.
-
 ## Related
 
-- [[hericium-erinaceus|Hericium]]
-- [[mushroom-cultivation-basics|cultivation]] Species
+- [[hericium-erinaceus]]
+- [[mushroom-cultivation-basics]] Species
 
-- **Hericium coralloides**: Coral Hedgehog — branching spines, similar medicinal properties
+- **[[hericium-coralloides]]**: Coral Hedgehog — branching spines, similar medicinal properties
 - **Hericium americanum**: Bear's Head Tooth — native to North America, larger branching habit
 - **Hericium abietis**: Conifer Coral — found on conifers in western North America
 - **Hericium erinaceus var. alba**: A white-cultivated strain selected for commercial production
-- [[cotter-mushroom-life-cycle-mycelium-biology|mycelium biology]]
+- [[cotter-mushroom-life-cycle-mycelium-biology]]

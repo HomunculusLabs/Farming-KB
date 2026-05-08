@@ -108,7 +108,7 @@ The blue pigment zone observed subtending the pileus in low-light primordia is l
 - [[psilocybe-mushroom-species-guide]] — species-specific cultivation parameters
 - [[mushroom-fruiting-chamber-designs]] — environmental control for fruiting
 - [[psilocybin-biosynthesis-pathway]] — relationship between blue pigment and alkaloid production
-- [[psilocybe-cubensis-profile]] — species profile
+- [[psychedelic-mushrooms-species-and-identification]] — species profile
 
 ## Photoreceptor Biology
 

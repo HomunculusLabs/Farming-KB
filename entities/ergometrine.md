@@ -142,17 +142,6 @@ chronic ergot ingestion.
 - **Convulsive ergotism**: CNS excitation → hallucinations, spasms, psychosis.
 - **Chronic**: Valvular heart disease (5-HT₂B-mediated), peripheral vascular
   insufficiency, inhibited lactation.
-- **LD₅₀**: ~5-10 mg/kg orally. Therapeutic dose (0.5 mg) provides wide
-  safety margin, but individual sensitivity varies.
-
-## Historical Significance
-
-The 1935 isolation of ergometrine by Stoll and Burckhardt was a landmark in
-alkaloid chemistry. Albert Hofmann, in the same Sandoz laboratory, would
-later modify the ergometrine structure to create LSD in 1938. Ergometrine
-thus bridges ancient ergot-based folk medicine and the modern era of
-serotonergic drug discovery.
-
 ## See Also
 
 - [[albert-hofmann]]

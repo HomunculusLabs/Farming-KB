@@ -43,7 +43,7 @@ conditions. They also need drainage to prevent anaerobic conditions that produce
 odors and harbor harmful pathogens. The [[worm-bin-types-comparison]] page evaluates
 different bin designs including stackable tray systems (like the Worm Factory),
 continuous flow-through bins, and simple DIY plastic tote bins. The
-[[wormery-construction]] page provides step-by-step instructions for building your own
+[[composting-and-soil-biology]] page provides step-by-step instructions for building your own
 bin from readily available materials.
 
 Bedding provides the worms with a comfortable living environment, retains moisture,
@@ -84,7 +84,7 @@ discusses scaling up vermicomposting for commercial castings sales.
 - The bin needs ventilation and drainage to prevent anaerobic conditions and odors
   [[worm-bin-types-comparison]]
 - Bedding should be moist like a wrung-out sponge and provides the carbon buffer
-  [[wormery-construction]]
+  [[composting-and-soil-biology]]
 - Feed fruit and vegetable scraps buried under bedding; avoid meat, dairy, and excess
   citrus [[natural-farm-composting-vermicomposting]]
 - Worm castings are richer in plant-available nutrients and beneficial microbes than

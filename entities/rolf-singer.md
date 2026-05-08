@@ -138,7 +138,7 @@ Singer's herbarium and type specimens are distributed across major institutions 
 
 ## See Also
 
-- [[psilocybe-cubensis-profile|Psilocybe cubensis]]
+- [[psychedelic-mushrooms-species-and-identification|Psilocybe cubensis]]
 - [[amanita-muscaria|Amanita muscaria]]
 - [[fungal-biodiversity|Fungal biodiversity]]
-- [[psilocybe-semilanceata-profile|Psilocybe semilanceata]]
+- [[psychedelic-mushrooms-species-and-identification|Psilocybe semilanceata]]

@@ -148,6 +148,3 @@ areas.
 
 - [[leonurus-sibiricus]]
 - [[mimosa-tenuiflora]]
-- [[mitragyna-speciosa]]
-- [[nicotiana-rustica]]
-- [[peganum-harmala]]

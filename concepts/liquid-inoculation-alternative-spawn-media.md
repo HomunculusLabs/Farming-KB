@@ -137,5 +137,5 @@ second or two, minimizing airborne contamination.
 -   [[stamets-agar-media-preparation]] — agar culture preparation
 -   [[stamets-casing-layer-design]] — tissue culture source
     material
--   [[mushroom-cultivation-sterile-technique]] — aseptic procedure
+-   [[mushroom-cultivation-fundamentals]] — aseptic procedure
 -   [[stamets-casing-layer-design]] — sawdust substrates for fruiting

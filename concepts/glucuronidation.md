@@ -148,4 +148,3 @@ General pharmacology [[fungal-poisons-and-toxicology]] literature on UGT isoform
 [[cytochrome-p450-enzyme-system]]
 pharmacokinetics
 toxicology
-[[glutathione-biochemistry-and-redox-biology]]

@@ -115,7 +115,7 @@ Prairie mammals include both large herbivores and small residents:
 - Bison: Keystone grazers that maintain grassland structure
 - Prairie dogs: Ecosystem engineers creating habitat for burrowing owls, ferrets, and snakes
 - Coyotes: Apex predators regulating rodent and rabbit populations
-- Meadow [[voles-control-methods|voles]]: Primary prey base for raptors and carnivores
+- Meadow voles: Primary prey base for raptors and carnivores
 ### Insects
 Prairies support enormous insect diversity:
 - Over 100 butterfly species in tallgrass prairie regions

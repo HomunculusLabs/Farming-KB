@@ -92,7 +92,7 @@ Avoid using pure compost alone as your growing medium. It can hold too much mois
 For long-term soil health, see [[query-how-to-build-healthy-garden-soil]] for detailed guidance on building and maintaining living soil ecosystems in raised beds.
 
 ### Hugelkultur and Advanced Techniques
-The [[holzer-raised-bed-design]] approach, developed by Sepp Holzer, takes raised beds further by incorporating hugelkultur principles. In this method, logs and branches are placed at the bottom of the raised bed before adding soil layers on top.
+The [[sepp-holzer-permaculture-and-rebel-farming]] approach, developed by Sepp Holzer, takes raised beds further by incorporating hugelkultur principles. In this method, logs and branches are placed at the bottom of the raised bed before adding soil layers on top.
 
 As the wood slowly decomposes over several years, it releases nutrients, retains moisture, and creates a rich fungal soil ecosystem. This technique is particularly effective in arid climates where water retention is critical and adds long-term soil fertility without annual compost applications.
 

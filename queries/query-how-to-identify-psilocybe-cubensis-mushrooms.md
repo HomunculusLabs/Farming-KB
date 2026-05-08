@@ -62,7 +62,7 @@ handling, so younger specimens are often easier to identify definitively.
 ### Blue Bruising Reaction
 One of the most famous and diagnostically significant features of this species is its
 tendency to bruise blue when damaged or handled. This bluing reaction occurs due to the
-oxidation of the psychoactive compounds [[psilocybin]] and [[psilocin]] upon exposure
+oxidation of the psychoactive compounds [[psilocybin-compound]] and [[psilocin]] upon exposure
 to air. The blue color typically develops within 20 to 60 minutes of injury and can
 range from a pale steel blue to a deep indigo. However, it is critically important to
 note that bluing alone is not a definitive identifier of Psilocybe species — some
@@ -98,7 +98,7 @@ southeastern United States, Southeast Asia, Australia, and parts of Africa.
 ### Potency and Chemical Composition
 The potency of Psilocybe cubensis can vary considerably depending on the strain, growing
 conditions, substrate, and age of the specimen at harvest. It typically contains
-between 0.5% and 1.2% [[psilocybin]] and psilocin by dry weight, along with smaller
+between 0.5% and 1.2% [[psilocybin-compound]] and psilocin by dry weight, along with smaller
 amounts of [[baeocystin]] and norbaeocystin. Potency is generally highest in younger,
 immature specimens and tends to degrade progressively with drying, long-term storage,
 and exposure to heat, light, and oxygen. Different strains and genetic lines can vary

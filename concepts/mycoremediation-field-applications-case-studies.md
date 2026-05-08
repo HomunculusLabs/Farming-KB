@@ -115,7 +115,7 @@ A critical but often overlooked factor in successful field deployment is the tim
 - [[mycoremediation-heavy-metals-detailed]]
 - [[mycoremediation-pesticide-herbicide-contamination]]
 - [[mycoremediation-dye-textile-wastewater]]
-- [[mycoremediation-phytoremediation-combined]]
+- [[bioremediation-using-fungi]]
 - [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[teaming-with-microbes-fungi-the-underground-network]]

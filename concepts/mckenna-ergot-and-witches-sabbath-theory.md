@@ -10,7 +10,7 @@ tags: [reference]
 
 # McKenna on Ergot and the Witches' Sabbath Theory
 
-In [[mckenna-food-of-the-gods-thesis]], [[terence-mckenna-stoned-ape-hypothesis]]
+In [[mckenna-food-of-the-gods-thesis]], [[psychedelic-mushrooms-species-and-identification]]
 examines the dual role of ergot-fungus|ergot (Claviceps purpurea) in
 Western history: as the likely visionary catalyst of the [[mckenna-eleusinian-mysteries]] and as a factor behind the medieval and early modern witch
 hysteria. These two threads connect the highest religious aspirations of

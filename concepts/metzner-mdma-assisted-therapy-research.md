@@ -145,5 +145,5 @@ Eisner from the 1980s and early 1990s. MDMA's unique pharmacological profile --
 combining serotonergic release with empathogenic effects -- makes it particularly
 ## See Also
 
-- [[psychedelic-assisted-therapy-protocol]]
+- psychedelic assisted therapy protocol
 - [[psychedelic-therapy-current-research]]

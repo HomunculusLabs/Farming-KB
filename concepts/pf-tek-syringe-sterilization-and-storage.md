@@ -10,7 +10,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 ## Overview
 
-Sterile syringes are essential throughout the PF TEK process, used for both [[fanaticus-spore-printing-and-syringe-preparation|spore syringe preparation]] and substrate inoculation. Maintaining syringe sterility determines whether inoculation succeeds or introduces contaminants that destroy the entire culture. The PF TEK provides a simple boiling water sterilization method that requires no specialized autoclave equipment, consistent with the TEK's philosophy of using commonly available household items for every step of the cultivation process.
+Sterile syringes are essential throughout the PF TEK process, used for both [[psilocybin-mushroom-cultivation-guide|spore syringe preparation]] and substrate inoculation. Maintaining syringe sterility determines whether inoculation succeeds or introduces contaminants that destroy the entire culture. The PF TEK provides a simple boiling water sterilization method that requires no specialized autoclave equipment, consistent with the TEK's philosophy of using commonly available household items for every step of the cultivation process.
 
 Syringes serve two distinct functions in the PF TEK workflow. During the inoculation phase, a spore syringe delivers millions of spores suspended in sterile water into the substrate jars, initiating the colonization cycle. During the [[pf-tek-spore-printing-and-syringe-preparation|spore printing phase]], sterile syringes are used to inject water into the spore print jar and to draw the resulting spore solution back out for use. In both cases, syringe sterility is the gatekeeper between success and contamination.
 
@@ -113,5 +113,5 @@ These are rare but documented causes of [[pf-tek-non-germination-troubleshooting
 - [[pf-tek-spore-printing-and-syringe-preparation|Spore Printing and Syringe Preparation]]
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming|Inoculation and Alcohol Flaming]]
 - [[pf-tek-non-germination-troubleshooting|Non-Germination Troubleshooting]]
-- [[fanaticus-spore-printing-and-syringe-preparation|Fanaticus Spore Printing Method]]
+- [[psilocybin-mushroom-cultivation-guide|Fanaticus Spore Printing Method]]
 - [[pf-tek-alcohol-extraction-method|Alcohol Extraction Method]]

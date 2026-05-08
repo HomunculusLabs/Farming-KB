@@ -136,7 +136,7 @@ Outdoors, Oyster mushrooms grow readily on hardwood stumps and logs. Their waste
 
 ## 2. King Stropharia (Stropharia rugoso-annulata)
 
-[[wine-cap-stropharia-cultivation]] is the ideal species for recycling complex wood debris and garden wastes. Vigorously attacking sawdust, chips, twigs, and branches, it also thrives in wood-free substrates supplemented with chopped straw.
+wine cap stropharia cultivation is the ideal species for recycling complex wood debris and garden wastes. Vigorously attacking sawdust, chips, twigs, and branches, it also thrives in wood-free substrates supplemented with chopped straw.
 
 Stamets discovered a remarkable symbiotic relationship between King Stropharia and honey bees. Bees were observed continuously traveling from hives to the mushroom patch, suckling the sugar-rich cytoplasm from exposed mycelial wounds. This phenomenon, widely reported by beekeepers across North America, explained the long-standing mystery of bees' attraction to sawdust piles.
 

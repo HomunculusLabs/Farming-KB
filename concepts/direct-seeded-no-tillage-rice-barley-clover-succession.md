@@ -11,7 +11,7 @@ sources:
 
 # Direct-Seeded No-Tillage Rice-Barley Clover Succession
 
-The direct-seeded, no-tillage, winter grain and rice succession in a clover cover is Masanobu Fukuoka's signature [[natural farming]] method. Over thirty years of continuous application on his farm in Ehime Prefecture, Japan, this system consistently produced close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre — comparable to or better than conventional methods — while requiring only the labor of sowing seed and spreading straw.
+The direct-seeded, no-tillage, winter grain and rice succession in a clover cover is Masanobu Fukuoka's signature [[natural-farming]] method. Over thirty years of continuous application on his farm in Ehime Prefecture, Japan, this system consistently produced close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre — comparable to or better than conventional methods — while requiring only the labor of sowing seed and spreading straw.
 
 ## The Annual Cycle
 
@@ -34,7 +34,7 @@ The harvested rice is dried for three days, then threshed. All of the straw is s
 
 ### Winter: Clay Pellet Rice Seeding
 
-Before the New Year, [[clay pellets]] containing rice seed are scattered over the straw-covered field. The pellets protect the seeds from birds and rodents and prevent premature germination. The winter grain and clover continue growing through the cold months, with the clover fixing nitrogen for the subsequent rice crop.
+Before the New Year, [[clay-pellets]] containing rice seed are scattered over the straw-covered field. The pellets protect the seeds from birds and rodents and prevent premature germination. The winter grain and clover continue growing through the cold months, with the clover fixing nitrogen for the subsequent rice crop.
 
 ### Late Spring: Winter Grain Harvest
 
@@ -54,7 +54,7 @@ As the rice approaches maturity, the cycle begins again with the broadcasting of
 
 ## The Role of Clover
 
-Clover (likely [[white clover]], *Trifolium repens*) is the foundation of the system's fertility and weed management. It functions as:
+Clover (likely [[white-clover]], *Trifolium repens*) is the foundation of the system's fertility and weed management. It functions as:
 
 - **Nitrogen fixer**: Symbiotic rhizobia in clover root nodules fix atmospheric nitrogen, eliminating the need for nitrogen fertilizer
 - **Living mulch**: The dense clover cover suppresses weed germination and growth
@@ -79,7 +79,7 @@ The straw is never plowed in. It remains on the surface as a mulch, decomposing 
 
 ## Clay Pellet Seed Encapsulation
 
-Clay pellets (also called seed balls or [[seed balls]]) solve several problems simultaneously. The rice seeds are coated with a layer of soil, then a layer of clay, forming small pellets that are scattered over the field. The clay pellet system provides:
+Clay pellets (also called seed balls or [[seed-balls]]) solve several problems simultaneously. The rice seeds are coated with a layer of soil, then a layer of clay, forming small pellets that are scattered over the field. The clay pellet system provides:
 
 - **Protection from birds and rodents**: The hard clay exterior makes seeds unattractive to animals
 - **Moisture regulation**: The clay absorbs and retains moisture, providing optimal germination conditions
@@ -126,7 +126,7 @@ Fukuoka proposed that the principles of this system are universal, though the sp
 
 ## The Underlying Philosophy
 
-The rice-barley-clover succession is not merely a technique but the practical expression of [[natural farming]] philosophy. Fukuoka summarized the entire method as "the symbiosis of rice and barley or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to sowing seed and spreading straw — the minimum intervention needed to maintain the cycle.
+The rice-barley-clover succession is not merely a technique but the practical expression of [[natural-farming]] philosophy. Fukuoka summarized the entire method as "the symbiosis of rice and barley or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to sowing seed and spreading straw — the minimum intervention needed to maintain the cycle.
 
 ## See Also
 

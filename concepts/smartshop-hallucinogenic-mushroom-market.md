@@ -144,7 +144,7 @@ mushroom market:
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 
-- [[hallucinogenic mushroom legal status in Europe]] for regulatory
+- [[hallucinogenic-mushroom-legal-status-in-europe]] for regulatory
   responses to this market
 - [[psilocybe-cubensis]] for the primary product sold through smartshops
 - [[psilocybin-chemistry-pharmacology]] for the pharmacological basis

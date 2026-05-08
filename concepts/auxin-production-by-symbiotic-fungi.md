@@ -136,21 +136,6 @@ For testing culture filtrates or extracted compounds:
 1. Grow fungus in liquid medium (e.g., M+ medium for P. indica)
 2. Separate mycelium by filtration
 3. Apply sterile filtrate directly to filter discs, or extract with ethyl acetate at pH 3
-4. Include medium-only controls to account for background IAA
-
-## Alternative Auxins
-
-Some studies use alpha-naphthalene acetic acid (NAA) as a more stable auxin derivative. However, NAA enters roots by diffusion rather than carrier-mediated uptake, which can complicate results with auxin transport mutants.
-
-## Ecological Implications
-
-Fungal auxin production creates a hormonal dimension to plant-fungal symbioses that extends beyond nutrient exchange. By modulating root architecture, symbiotic fungi may:
-
-- Increase the root surface area available for colonization
-- Enhance the plant's capacity for soil exploration and resource acquisition
-- Alter competitive interactions between plant species
-- Influence belowground carbon allocation patterns
-
 ## See Also
 
 - [[mycorrhizal-fungi]] — overview of mycorrhizal types and ecology

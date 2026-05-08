@@ -102,5 +102,5 @@ MXE has a narrow therapeutic index. Deaths attributed to MXE alone are rare but 
 - [[3-meo-pcp]]
 - [[3-meo-pce]]
 - [[deschloroketamine]]
-- [[salvinorin-a]]
-- [[muscimol]]
+- [[salvinorin-a-entity]]
+- [[muscimol-entity]]

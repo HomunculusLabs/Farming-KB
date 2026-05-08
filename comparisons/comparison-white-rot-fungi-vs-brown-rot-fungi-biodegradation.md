@@ -129,6 +129,6 @@ management and wood protection strategies.
 ## See Also
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[wood-decay-fungi]]
-- [[mycoremediation-phytoremediation-combined]]
+- [[bioremediation-using-fungi]]
 - [[oyster-mushroom-cultivation-methods]]
 - [[wine-cap-mushroom-cultivation]]

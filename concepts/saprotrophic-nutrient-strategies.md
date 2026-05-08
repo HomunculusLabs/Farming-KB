@@ -148,10 +148,3 @@ ecosystem responses to environmental change:
 - **Carbon feedbacks:** The balance between fungal CUE and decomposition rate
   determines whether warming accelerates or decelerates soil carbon loss.
   [[soil-food-web-nutrient-cycling]] provides the ecosystem-level framework.
-
-## See Also
-- [[fungal-decomposition-ecology]] for the broader decomposition context
-- [[soil-food-web-structure]] for microbial community interactions
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[white-rot-fungi]] for lignin-degrading specialists among saprotrophs
-- [[wood-decay-fungi]] for substrate-specific decay strategies

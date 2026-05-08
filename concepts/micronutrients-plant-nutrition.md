@@ -125,7 +125,7 @@ Can occur in soils with high copper from repeated fungicide applications. Causes
 Most micronutrients become less available at high pH. Maintaining appropriate [[ph-and-nutrient-availability-garden-soils]] is the single most important factor in micronutrient management.
 
 ### Organic Matter
-Organic matter chelates (binds) micronutrients, keeping them available in soluble forms that plants can absorb. [[compost-chemistry-soil-food-web]] and organic amendments are excellent micronutrient sources.
+Organic matter chelates (binds) micronutrients, keeping them available in soluble forms that plants can absorb. [[composting-and-soil-biology]] and organic amendments are excellent micronutrient sources.
 
 ### The Danger of Excess
 Because micronutrients are needed in tiny amounts, it is very easy to over-apply and cause toxicity. Symptoms of micronutrient toxicity are often similar to deficiency symptoms of other nutrients, making diagnosis difficult.

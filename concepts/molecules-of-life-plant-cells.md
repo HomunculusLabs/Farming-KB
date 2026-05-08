@@ -125,9 +125,9 @@ The entire process of protein synthesis is powered by [[adenosine-triphosphate-a
 - [[nutrient-cycling-in-soil]]
 - [[soil-testing-and-analysis]]
 - [[glomalin-and-soil-carbon]]
-- [[trace-elements-in-soil]]
+- [[composting-and-soil-biology]]
 - [[soil-microbiology-basics]]
 
 ## Related
 
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]

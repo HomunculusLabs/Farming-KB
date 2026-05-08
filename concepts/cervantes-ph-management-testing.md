@@ -111,5 +111,5 @@ Commercial potting soil is rarely above pH 7.5; lower pH (even as low as
 preventive dolomite lime application is so important.
 
 See also: [[cervantes-dolomite-lime-ph-buffering]],
-[[cervantes-water-quality-management]],
+[[cannabis-advanced-growing-techniques]],
 [[cervantes-nutrient-solution-reservoir-management]], [[cervantes-growing-medium]], [[cervantes-macronutrient-deficiency-toxicity]]

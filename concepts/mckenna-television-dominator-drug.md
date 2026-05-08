@@ -134,4 +134,3 @@ function is to deliver audiences to advertisers; its cultural function is to
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
-

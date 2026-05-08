@@ -17,7 +17,7 @@ sources:
 
 Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific bioactive compounds responsible for therapeutic effects.
 
-The global apitherapy market has grown significantly as consumers seek natural alternatives, though quality standardization remains a challenge. This page covers each major bee product's composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
+The global apitherapy market has grown significantly as consumers seek natural alternatives, though quality standardization remains a challenge. This page covers each major [[bee-product-medicinal-uses]]'s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
 
 ## Honey
 
@@ -50,13 +50,13 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 
 ### Therapeutic Applications
 
-**Wound healing**: Honey's therapeutic action in wounds is multifactorial — hyperosmolarity draws fluid from tissues, hydrogen peroxide (produced via glucose oxidase in the presence of water) provides antibacterial activity, low pH (3.2–4.5) inhibits pathogens, and its viscous barrier protects from contamination. Manuka honey's non-peroxide activity (from MGO) provides sustained antibacterial action even in the presence of catalase. Meta-analyses support its use for burns, diabetic foot ulcers, and surgical wounds, with outcomes comparable or superior to conventional dressings.
+**Wound healing**: Honey's therapeutic action in wounds is multifactorial — hyperosmolarity draws fluid from tissues, [[hydrogen-peroxide-tissue-culture-wild-polypores]] (produced via glucose oxidase in the presence of water) provides antibacterial activity, low pH (3.2–4.5) inhibits pathogens, and its viscous barrier protects from contamination. Manuka honey's non-peroxide activity (from MGO) provides sustained antibacterial action even in the presence of catalase. Meta-analyses support its use for burns, diabetic foot ulcers, and surgical wounds, with outcomes comparable or superior to conventional dressings.
 
 **Cough suppression**: A well-known pediatric study (Paul et al., 2007, *Archives of Pediatric and Adolescent Medicine*) found buckwheat honey superior to dextromethorphan for nighttime cough in children aged 2–18. The WHO and American Academy of Pediatrics recommend honey as a first-line cough remedy for children over 1 year.
 
 **Gastrointestinal health**: Honey has prebiotic effects, promoting growth of *Bifidobacterium* and *Lactobacillus* species. Evidence supports use for *Helicobacter pylori* infection (as adjunct therapy), gastric ulcer healing, and relief of gastroesophageal reflux symptoms. Manuka honey at UMF 15+ has shown the strongest anti-*H. pylori* activity.
 
-**Antimicrobial activity**: Beyond wound care, honey has demonstrated in-vitro activity against *Staphylococcus aureus* (including some MRSA strains), *Pseudomonas aeruginosa*, *Escherichia coli*, *Candida albicans*, and biofilm-forming bacteria. The dual hydrogen peroxide + non-peroxide systems (in manuka) make resistance development unlikely.
+**Antimicrobial activity**: Beyond wound care, honey has demonstrated in-vitro activity against *Staphylococcus aureus* (including some MRSA strains), *Pseudomonas aeruginosa*, *Escherichia coli*, *[[candida-albicans]]*, and biofilm-forming bacteria. The dual hydrogen peroxide + non-peroxide systems (in manuka) make resistance development unlikely.
 
 **Antioxidant and anti-inflammatory**: Honey polyphenols (especially in darker varieties) reduce oxidative stress markers and inflammatory cytokines (TNF-α, IL-6) in clinical and animal studies.
 
@@ -249,7 +249,7 @@ Bee venom is a complex mixture of peptides, enzymes, and biogenic amines deliver
 
 ## Bee Bread (Perga)
 
-Bee bread is fermented pollen stored in honeycomb cells. Bees mix collected pollen with honey, nectar, and salivary enzymes, then seal it with wax. Lactic acid fermentation by *Lactobacillus* and *Pediococcus* species over 2–3 weeks produces lactic acid, which preserves the pollen and increases bioavailability of nutrients.
+Bee bread is fermented pollen stored in honeycomb cells. Bees mix collected pollen with honey, nectar, and salivary enzymes, then seal it with wax. [[lactic-acid-bacteria]] fermentation by *Lactobacillus* and *Pediococcus* species over 2–3 weeks produces lactic acid, which preserves the pollen and increases bioavailability of nutrients.
 
 Compared to dried bee pollen, bee bread has:
 - Higher bioavailability of proteins and amino acids (fermentation breaks down the pollen exine wall)
@@ -322,7 +322,7 @@ Purchasing bee products directly supports beekeeping operations, which in turn s
 4. Kurek-Górecka, A., et al. (2013). "Antioxidant activity evaluation of ethnobotanical Polish honeys." *Food Chemistry*, 136(3–4), 1357–1363.
 5. Miguel, M. G., et al. (2010). "Propolis: Recent advances in chemistry and plant origin." In *Honey Analysis* (pp. 155–195). Springer.
 6. Paul, I. M., et al. (2007). "Effect of honey, dextromethorphan, and no treatment on nocturnal cough and sleep quality for coughing children and their parents." *Archives of Pediatrics & Adolescent Medicine*, 161(12), 1140–1146.
-7. Ramadan, M. F., & Al-Ghamdi, A. (2012). "Bioactive compounds and health-promoting properties of royal jelly: A review." *Journal of Functional Foods*, 4(1), 39–52.
+7. Ramadan, M. F., & Al-Ghamdi, A. (2012). "Bioactive compounds and health-promoting properties of royal jelly: A review." *Journal of [[functional-foods-medicinal-mushrooms]]*, 4(1), 39–52.
 8. Samarghandian, S., et al. (2017). "The protective effect of royal jelly against cardiovascular risk factors." *Pharmacologyonline*, 3, 1–14.
 9. Silva-Carvalho, R., et al. (2020). "Propolis: A natural product with many biological activities." In *Products from Apis mellifera* (pp. 55–73). Springer.
 10. Srećković, V., et al. (2019). "Bee bread — Chemical composition and functional properties: A review." *Journal of Apicultural Research*, 58(4), 494–517.

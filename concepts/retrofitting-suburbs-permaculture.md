@@ -47,7 +47,7 @@ The key principle from [[permaculture-animal-integration]] is that animals in su
 
 Suburban water retrofit goes well beyond rainwater tanks. Holmgren describes swales incorporated into lawns to slow and infiltrate runoff, rain gardens that treat stormwater on-site, and greywater mulch basins that distribute household water through productive plantings. These strategies connect to Permaculture Water Systems and [[permaculture-water-strategies]].
 
-Hot water can be cascaded through multiple uses: bathing, clothes washing, and finally irrigation of fruit trees — an application of [[permaculture-principle-catch-and-store-energy]]. Each use extracts a little more value before the water returns to the soil.
+Hot water can be cascaded through multiple uses: bathing, clothes washing, and finally irrigation of fruit trees — an application of [[permaculture-design-principles]]. Each use extracts a little more value before the water returns to the soil.
 
 ## Street-Scale and Neighborhood Design
 
@@ -57,7 +57,7 @@ The quarter-acre lot size is critical. Lots larger than half an acre tend to get
 
 Street tree food production is an underutilised strategy: planting productive species (citrus, figs, olives, stone fruit) as street trees instead of purely ornamental varieties. This extends the [[permaculture-food-forest-design-principles]] into public space, providing shared yields within [[permaculture-community-scale-design]] frameworks.
 
-Community infrastructure also includes [[permaculture-seed-saving-and-selection]] networks, cooperative buying clubs for bulk supplies, and skill-sharing workshops that build local capacity. These connect to [[permaculture-social-design]] and the broader [[consumer-versus-conserver-society]] transition Holmgren advocates.
+Community infrastructure also includes [[permaculture-design]] networks, cooperative buying clubs for bulk supplies, and skill-sharing workshops that build local capacity. These connect to [[permaculture-social-design]] and the broader [[consumer-versus-conserver-society]] transition Holmgren advocates.
 
 ## Urban-Rural Linkages
 
@@ -67,7 +67,7 @@ Mollison's approach to urban [[permaculture-design]] emphasizes strategy over de
 
 ## Flexible Building and the Owner-Builder
 
-Holmgren draws on the [[permaculture-principle-obtain-a-yield]] chapter to highlight the owner-builder approach: households that change and adapt their house designs as they build, taking advantage of bargains in second-hand materials. The professional builder depends on a constant supply of precisely specified components, but "loose systems last longer and work better" — flexibility is more valuable than efficiency in a world of uncertain supply chains.
+Holmgren draws on the [[permaculture-design-principles]] chapter to highlight the owner-builder approach: households that change and adapt their house designs as they build, taking advantage of bargains in second-hand materials. The professional builder depends on a constant supply of precisely specified components, but "loose systems last longer and work better" — flexibility is more valuable than efficiency in a world of uncertain supply chains.
 
 Buildings should be multi-purpose and constructed to be easily retrofitted internally. This connects to [[permaculture-house-design-principles]] and the broader idea that [[faires-house-design-and-retrofit]] demonstrates: adaptive buildings that can evolve with changing household needs.
 
@@ -85,7 +85,7 @@ The role of home food preservation — canning, fermentation, drying, root cella
 
 Holmgren stresses that suburban retrofit must be incremental. The existing landscape provides services (shelter, water, sewage, power) that people depend on. The strategy is to gradually add productive elements while maintaining existing services, creating redundancy that makes the eventual reduction of external dependencies possible without crisis.
 
-This incremental approach embodies [[permaculture-principle-use-small-and-slow-solutions]]: small, manageable changes that accumulate over time into profound transformation. Each step builds confidence and capacity for the next, following the logic of [[succession-in-permaculture]] applied to human settlements.
+This incremental approach embodies [[permaculture-design-principles]]: small, manageable changes that accumulate over time into profound transformation. Each step builds confidence and capacity for the next, following the logic of [[succession-in-permaculture]] applied to human settlements.
 
 ## See Also
 

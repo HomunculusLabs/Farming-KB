@@ -147,5 +147,3 @@ Fungal VOC degradation proceeds through several routes:
   requires sophisticated monitoring
 
 ## See Also
-
-- [[mycovolatiles-fungal-volatile-compounds]]

@@ -12,8 +12,6 @@ sources:
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
-
-
 ## No-Pruning Philosophy
 
 I do not prune the trees. The branches retain their resilience, which means that they can support themselves on the ground when they are weighed down by fruit or snow. The trees can stabilise themselves and are less likely to grow at an angle. They can adapt themselves to the terrain. When the branches are weighed down by fruit, it allows sunlight to reach the crown.
@@ -22,13 +20,9 @@ If I were to prune and fertilise the trees in the way that experts recommend, th
 
 Pruning also creates wounds which increase the risk of disease (fungal diseases, fire blight), causes unnecessary stress to the tree and requires a great deal of work.
 
-
-
 ## High-Altitude Fruit Quality
 
 Fruit grown at high altitude develops a very intense flavour because of the harsh nights, commanding a much higher price than fruit grown at lower altitudes. Cherries ripen on the mountain pasture in September, by which point the harvest is long over at lower altitudes. Plums, pears and apples all develop intense flavours.
-
-
 
 ## Protection Against Browsing
 
@@ -39,8 +33,6 @@ To prevent large-scale damage, I introduce a large number of distraction plants 
 For particularly high browsing danger, a homemade salve of bone salve, linseed oil, slaked lime, fine quartz sand and fresh cow dung is painted or sprinkled on the trees. The bone salve has an intense and long-lasting odour which repels deer for many years.
 
 holzer fruit trees no pruning | [[holzer-permaculture-landscape-design]] | [[holzer-experiences-soil-test-areas]] | [[no-pruning-fruit-trees]] | [[sepp-holzer-method]]
-
-
 
 ## Key Points
 
@@ -55,8 +47,6 @@ holzer fruit trees no pruning | [[holzer-permaculture-landscape-design]] | [[hol
 9. Fruit trees are managed without pruning, allowing them to develop natural forms suited to their environment.
 10. Crop diversity and polyculture systems provide resilience against weather extremes, pests, and disease.
 
-
-
 ## Practical Applications
 
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
@@ -68,13 +58,11 @@ holzer fruit trees no pruning | [[holzer-permaculture-landscape-design]] | [[hol
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
-
-
 ## See Also
 - [[holzer-ancient-cereals-growing]]
 - [[holzer-grafting-fruit-forest]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]], [[holzer-microclimates-permaculture]], holzer fruit trees no pruning, [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], holzer fruit trees no pruning, [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.

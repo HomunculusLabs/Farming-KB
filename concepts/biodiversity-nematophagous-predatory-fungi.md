@@ -147,5 +147,3 @@ soils and aquatic habitats that have been poorly sampled. Describing
 new or rare parasites requires careful observation of trapping or
 infection structures, spore morphology, and host specificity.
 ## See Also
-
-- [[biodiversity-arthropod-dispersed-fungi]]

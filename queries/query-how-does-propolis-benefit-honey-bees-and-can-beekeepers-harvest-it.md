@@ -142,36 +142,8 @@ The relationship between propolis and Varroa destructor is complex:
 ## Important Considerations
 
 ### Don't Over-Harvest
-
-Bees need propolis for colony health. Harvesting too aggressively:
-
-- Weakens the colony's antimicrobial defense
-- Increases susceptibility to pathogens (especially American Foulbrood and chalkbrood)
-- Forces bees to spend foraging effort on resin collection instead of nectar and pollen
-- A good rule of thumb: harvest no more than 30–50% of available propolis per season
-
-### Allergy Warning
-
-Propolis can cause **allergic contact dermatitis** in sensitive individuals, particularly beekeepers who handle it frequently. Symptoms include skin redness, itching, and eczema-like reactions. Always test a small amount on your inner wrist before using propolis tinctures topically or internally.
-
-### Quality Varies
-
-Propolis quality depends on:
-
-- **Botanical source:** Poplar bud propolis (temperate) is the most studied; green propolis from Brazil (*Baccharis*) has unique anticancer properties studied extensively
-- **Harvest timing:** Fall propolis tends to be richer in bioactive compounds than spring propolis
-- **Contamination:** Avoid collecting propolis from hives treated with synthetic acaricides or antibiotics — these chemicals accumulate in propolis
-
-## Key Takeaways
-
-- Propolis is a resinous antimicrobial sealant that bees use for structural, defensive, and immune functions
-- It inhibits bacteria, fungi, viruses, and may help with Varroa management indirectly through improved colony health
-- Harvest using propolis traps or scraping during fall; never harvest more than 30–50% of available propolis
-- Process into tinctures (ethanol extraction) or salves for medicinal use
-- Propolis is one of several valuable non-honey hive products — alongside beeswax, pollen, royal jelly, and bee venom
-
 ## See Also
 
 - [[mycelium-running-conservation-biology-and-fungi]] — Broader beekeeping management and pollinator ecology
 - [[bee-feeding-and-fungal-pesticides]] — Full guide to all hive products and their uses
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — Integrated pest management including bee health
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — [[integrated-pest-management]] including bee health

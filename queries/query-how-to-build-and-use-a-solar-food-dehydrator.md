@@ -148,4 +148,3 @@ If humidity is high, run the dehydrator for a second day or finish in a low-temp
 - [[query-how-to-store-food-without-refrigeration]]
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]
 - [[query-how-to-build-and-manage-a-root-cellar]]
-- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]

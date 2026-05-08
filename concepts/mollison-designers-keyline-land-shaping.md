@@ -125,7 +125,7 @@ efficient landscape design. For broader tree planting strategies, see
 
 ## See Also
 
-[[swale-construction-guide]] — Step-by-step swale construction for water harvesting
+[[organic-vegetable-growing-and-market-gardening]] — Step-by-step swale construction for water harvesting
 [[water-catchment-permaculture]] — Permaculture approaches to catching and storing water
 [[watershed-management]] — Managing water at the landscape and watershed scale
 

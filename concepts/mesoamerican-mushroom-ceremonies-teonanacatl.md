@@ -64,7 +64,7 @@ While the Aztec mushroom tradition was largely destroyed by Spanish suppression,
 
 ## Wasson's Rediscovery
 
-The Western rediscovery of Mexican mushrooming practices began, ironically, with a vigorous scholarly denial that they had ever existed. The American botanist William Safford (1859-1926) published a paper arguing that the teonanacatl of the Aztecs was not a mushroom at all. It was left to [[wasson-hofmann-ruck-collaboration]] in the 1950s to definitively prove that the sacred mushrooms of Mexico were indeed psilocybin-containing species, and to participate in a velada ceremony with Mazatec curandera [[maria-sabina-mazatec-mushroom-ceremony]].
+The Western rediscovery of Mexican mushrooming practices began, ironically, with a vigorous scholarly denial that they had ever existed. The American botanist William Safford (1859-1926) published a paper arguing that the teonanacatl of the Aztecs was not a mushroom at all. It was left to [[wasson-hofmann-ruck-collaboration]] in the 1950s to definitively prove that the sacred mushrooms of Mexico were indeed psilocybin-containing species, and to participate in a velada ceremony with Mazatec curandera [[mushroom-cultivation-fundamentals]].
 
 ## The Codex Evidence
 
@@ -86,7 +86,7 @@ The primary species used in Mesoamerican ceremonies belong to the genus Psilocyb
 - [[magic-mushroom-history-timeline]]
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[mushroom-polymorphous-symbolism]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 
 ## Related
 

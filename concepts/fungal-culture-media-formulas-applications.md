@@ -54,7 +54,7 @@ Selecting the appropriate culture medium is essential for isolating, cultivating
 
 ## Specialized Media
 
-### For Chytrids and [[zoosporic-mycoparasites-aquatic-fungi]]
+### For Chytrids and zoosporic mycoparasites aquatic fungi
 - **PmTG:** Peptonized milk, tryptone, glucose — standard for chytrid isolation
 - **Weak PmTG (mPmTG):** 1% agar with antibiotics — for delicate species
 - **Yeast-Glucose Agar:** Yeast extract 5 g, glucose 10 g, agar 20 g, water 1L

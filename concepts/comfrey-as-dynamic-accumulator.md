@@ -148,4 +148,3 @@ advised.
 - [[dynamic-accumulators-overview]] explains the concept and classification
   of nutrient-concentrating plants.
 - [[using-accumulators-in-compost-and-mulch]] covers practical techniques
-  for recycling accumulator biomass.

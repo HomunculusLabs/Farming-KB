@@ -11,7 +11,7 @@ tags: [mushroom-cultivation, mycelium, pollution]
 # Bioremediation Mushroom Projects
 
 [[mycelium-natures-internet]] documents several landmark
-[[mycoremediation-field-applications]] demonstrating that mushrooms can
+[[bioremediation-using-fungi]] demonstrating that mushrooms can
 degrade or remove toxins from the environment. Paul Stamets's
 collaborative research with Battelle Pacific Northwest Laboratories
 provides some of the most compelling evidence for [[mycoremediation-of-petroleum-hydrocarbons]].
@@ -93,7 +93,7 @@ successful mycoremediation.
 
 ## Cost Effectiveness
 
-[[mycoremediation-advantages-limitations]] are evident in cost
+[[bioremediation-using-fungi]] are evident in cost
 comparisons for petroleum hydrocarbon remediation:
 
 - Mycoremediation: approximately $50 per ton

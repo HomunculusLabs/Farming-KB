@@ -40,7 +40,7 @@ Although not widely cultivated, psilocybe subbrunneascens has been grown success
 
 ## Chemistry
 
-Chemical analysis has confirmed the presence of [[psilocybin]] and [[psilocin]] in fruiting bodies. The tryptamine alkaloid profile is similar to that of [[psilocybe-mexicana]], though the total alkaloid content tends to be lower, consistent with the weaker bluing reaction. Baeocystin has been detected but at lower concentrations than in some other section Mexicanae species. Sclerotia produced in culture contain the same active compounds, with [[psilocybin]] predominant over [[psilocin]] in the hardened mycelial masses. The alkaloid content of sclerotia is typically 30–60% of that found in mature fruiting bodies, depending on the substrate and colonization duration.
+Chemical analysis has confirmed the presence of [[psilocybin-compound]] and [[psilocin]] in fruiting bodies. The tryptamine alkaloid profile is similar to that of [[psilocybe-mexicana]], though the total alkaloid content tends to be lower, consistent with the weaker bluing reaction. Baeocystin has been detected but at lower concentrations than in some other section Mexicanae species. Sclerotia produced in culture contain the same active compounds, with [[psilocybin-compound]] predominant over [[psilocin]] in the hardened mycelial masses. The alkaloid content of sclerotia is typically 30–60% of that found in mature fruiting bodies, depending on the substrate and colonization duration.
 
 ## Sclerotia Production
 
@@ -76,8 +76,8 @@ The species fruits during the rainy season, typically from May through October, 
 - [[psilocybe-martinezii]] — Mexican species from section Mexicanae
 - gastón-guzmán — describing authority
 - [[sclerotia-cultivation]] — hardened mycelial masses produced by section Mexicanae species
-- [[psilocybe-tampanensis]] — another sclerotia-producing species from the section
+- [[psilocybe-tampanensis-entity]] — another sclerotia-producing species from the section
 - psilocybe atlantis — North American member of section Mexicanae
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — secondary alkaloid

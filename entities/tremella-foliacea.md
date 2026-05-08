@@ -133,6 +133,6 @@ The pharmacological potential of *T. foliacea* specifically has been minimally s
 
 ## See Also
 
-- [[tremella-fuciformis]] — Snow fungus, commercially cultivated close relative with significant medicinal research
+- [[tremella-fuciformis-entity]] — Snow fungus, commercially cultivated close relative with significant medicinal research
 - [[tremella-mesenterica]] — Witch's butter, the common yellow jelly fungus of temperate forests
 - [[sterilization]] — Sterilization techniques relevant to laboratory culture of Tremellaceae

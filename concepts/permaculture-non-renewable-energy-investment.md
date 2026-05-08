@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Non-Renewable Energy Investment
 
-Non-renewable energy investment in permaculture refers to the strategic use of finite, high-quality energy sources such as fossil fuels and industrial materials to establish productive systems that will ultimately be maintained by renewable resources and natural processes. This concept is central to david holmgren's framework in Permaculture: Principles and Pathways Beyond Sustainability, particularly in his discussion of [[permaculture-principle-use-and-value-renewable-resources]].
+Non-renewable energy investment in permaculture refers to the strategic use of finite, high-quality energy sources such as fossil fuels and industrial materials to establish productive systems that will ultimately be maintained by renewable resources and natural processes. This concept is central to david holmgren's framework in Permaculture: Principles and Pathways Beyond Sustainability, particularly in his discussion of [[permaculture-design-principles]].
 
 ## The Transition Imperative
 
@@ -81,9 +81,9 @@ When people become permaculture generalists, building houses, gardening, and pro
 
 ## See Also
 
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]
 
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-emergy-accounting]]
 

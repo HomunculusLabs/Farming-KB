@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-[[psilocybe-cubensis-profile]] (Earle) Singer is one of the most widely known
+[[psychedelic-mushrooms-species-and-identification]] (Earle) Singer is one of the most widely known
 and distributed psychoactive mushrooms in the world. Commonly called
 "golden tops," "cubies," "san isidros," and "hongos kentesh," this
 dung-inhabiting species is the most majestic of the Psilocybes and
@@ -23,7 +23,7 @@ stropharia cyanescens.
 
 ## Taxonomic History
 
-The reassignment of Stropharia Cubensis to [[psilocybe-cubensis-profile]]
+The reassignment of Stropharia Cubensis to [[psychedelic-mushrooms-species-and-identification]]
 (Earle) Singer is a classic example of taxonomic revision in the
 psilocybin mushrooms. A closely related species, [[psilocybe-subcubensis]] Guzman, is virtually identical, differing only in the
 smaller size of its spores (9.9-13 by 6.1-7.1 microns) and slightly
@@ -64,7 +64,7 @@ broad.
 
 ## Habitat and Distribution
 
-[[psilocybe-cubensis-profile]] grows scattered to gregarious on dung of bovines
+[[psychedelic-mushrooms-species-and-identification]] grows scattered to gregarious on dung of bovines
 (cattle, buffalo), horse, or elephant dung on well-manured grounds.
 Found throughout the southeastern United States, Mexico, Cuba, Central
 America, northern South America, the subtropical Far East (India,
@@ -99,7 +99,7 @@ the Spaniards during the Cortes expeditions. The common name "san
 isidro" references Spanish Catholicism and is used by indigenous
 peoples. Although widely sold to tourists in Mexico, Oaxacan shamans
 prefer to use [[psilocybe-caerulescens-entity]], Psilocybe Aztecorum,
-psilocybe zapotecorum, or [[psilocybe-mexicana-profile]].
+psilocybe zapotecorum, or [[psychedelic-mushrooms-species-and-identification]].
 
 ## Cultivation
 
@@ -113,9 +113,9 @@ Ecuadorian.
 ## Related Species
 
 - Psilocybe Subcubensis - smaller spored counterpart
-- [[psilocybe-cyanescens-profile]] - wood-inhabiting relative
+- [[psychedelic-mushrooms-species-and-identification]] - wood-inhabiting relative
 - [[psilocybe-azurescens]] - more potent Pacific Northwest species
-- [[psilocybe-mexicana-profile]] - subtropical grassland species
+- [[psychedelic-mushrooms-species-and-identification]] - subtropical grassland species
 
 ## See Also
 

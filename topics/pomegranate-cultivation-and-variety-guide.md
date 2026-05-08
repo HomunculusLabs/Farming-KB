@@ -86,7 +86,7 @@ Before planting, incorporate:
 - Phosphorus (rock phosphate or bone meal) for root establishment
 - Avoid excessive nitrogen at planting, which promotes vegetative growth over root development
 
-For heavy clay soils, consider raised beds or mounds 30–60 cm high to ensure drainage.
+For heavy clay soils, consider [[raised-beds-vs-in-ground-vs-containers]] or mounds 30–60 cm high to ensure drainage.
 
 ## Planting and Site Selection
 
@@ -96,7 +96,7 @@ For heavy clay soils, consider raised beds or mounds 30–60 cm high to ensure d
 2. **Wind protection:** Young trees benefit from windbreaks; hot dry winds (Santa Ana conditions) can desiccate flowers and reduce fruit set
 3. **Full sun exposure:** Southern or western exposure in cooler climates
 4. **Air circulation:** In humid climates, good airflow reduces disease pressure
-5. **Water access:** While drought-tolerant, consistent irrigation during fruit development is essential for commercial quality
+5. **Water access:** While [[drought-tolerant-planting-design]], consistent irrigation during fruit development is essential for commercial quality
 
 ### Planting Procedure
 
@@ -202,7 +202,7 @@ A compact ornamental variety that also produces edible fruit.
 - **Fruit:** Small (5–7 cm), red skin
 - **Arils:** Pink-red, tart, edible but small
 - **Tree:** Very compact (1–1.5 m), suitable for containers and bonsai
-- **Best for:** Container growing, ornamental, bonsai, very small gardens,patio culture
+- **Best for:** [[container-growing-vegetables-herbs]], ornamental, bonsai, very small gardens,patio culture
 
 #### Kazake
 
@@ -431,7 +431,7 @@ Pomegranates do not ripen significantly after harvest, so correct harvest timing
 
 ### Storage
 
-Pomegranates have exceptional post-harvest longevity compared to most fruits.
+Pomegranates have exceptional [[post-harvest-handling-marketing-mushrooms]] longevity compared to most fruits.
 
 - **Room temperature:** 1–2 weeks
 - **Refrigerated (5–7°C, 90–95% RH):** 2–3 months
@@ -497,7 +497,7 @@ Pomegranates integrate well into food forests and polyculture systems:
 - **Legumes:** Alfalfa, clover, or subterranean clover as understory ground cover — fix nitrogen and attract pollinators
 - **Herbs:** Rosemary, lavender, thyme — attract pollinators, deter pests with aromatic oils, share Mediterranean climate preferences
 - **Alliums:** Garlic, chives, leeks — deter aphids and some borers
-- **Comfrey:** Deep-rooted dynamic accumulator; chop-and-drop mulch provides potassium
+- **Comfrey:** Deep-rooted [[dynamic-accumulator-plants-potassium]]; chop-and-drop mulch provides potassium
 - **Yarrow:** Attracts predatory insects (syrphid flies, parasitic wasps)
 - **Dill, fennel, coriander:** Umbelliferous flowers attract beneficial insects
 - **Nasturtium:** Trap crop for aphids
@@ -512,7 +512,7 @@ Pomegranates integrate well into food forests and polyculture systems:
 
 ### Design Functions
 
-In permaculture design, pomegranates serve multiple functions:
+In [[permaculture-design-course-notes]], pomegranates serve multiple functions:
 
 1. **Food production:** High-value fruit with excellent shelf life
 2. **Ornamental value:** Showy flowers, attractive form, autumn fruit display
@@ -523,7 +523,7 @@ In permaculture design, pomegranates serve multiple functions:
 
 ### Food Forest Placement
 
-- **Layer:** Understory tree / canopy edge (Zone 2–3 in permaculture zone design)
+- **Layer:** Understory tree / canopy edge (Zone 2–3 in permaculture-zone-0-house-designne-design-comparison]])
 - **Position:** Full sun at the edge of the canopy layer, with smaller shrubs, herbs, and ground covers beneath
 - **Guild members:** Leguminous ground covers, aromatic herbs, dynamic accumulators, pollinator plants
 - **Succession:** Long-lived, stable element; plant early in food forest establishment

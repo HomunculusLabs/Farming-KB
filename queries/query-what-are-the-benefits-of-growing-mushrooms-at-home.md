@@ -49,7 +49,7 @@ Beta-glucans, the primary bioactive polysaccharides in medicinal mushrooms, are 
 
 The variety of species available to home cultivators far exceeds what is available commercially. While most grocery stores carry only button, cremini, and portobello mushrooms (all Agaricus bisporus at different maturity stages), home cultivators can grow dozens of species with vastly different flavors, textures, and growing requirements.
 
-[[growing-gourmet-shiitake-cultivation]] covers the classic log-based method for shiitake, which produces mushrooms with a deep umami flavor that rivals any store-bought version. [[king-oyster-cultivation]] details techniques for the king oyster, which produces large, meaty stems with a texture similar to scallops when cooked.
+[[shiitake-mushroom-cultivation-and-medicinal-properties]] covers the classic log-based method for shiitake, which produces mushrooms with a deep umami flavor that rivals any store-bought version. [[king-oyster-cultivation]] details techniques for the king oyster, which produces large, meaty stems with a texture similar to scallops when cooked.
 
 The [[growing-gourmet-reishi-cultivation]] guide explains how to grow reishi, the "mushroom of immortality" prized in traditional Chinese medicine for over 2,000 years. Each species teaches different cultivation techniques, from simple bucket grows to advanced agar work.
 
@@ -82,7 +82,7 @@ Many home mushroom growers go on to explore topics like mycoremediation, mycolog
 - Spent mushroom substrate becomes valuable compost for garden soil, closing a beneficial nutrient cycle
 - [[query-how-to-set-up-a-monotub-mushroom-grow]] provides the simplest entry point for learning fungal cultivation skills
 - [[query-what-are-the-best-mushrooms-for-medicinal-use]] covers reishi, turkey tail, lion's mane, and cordyceps
-- [[king-oyster-cultivation]] and [[growing-gourmet-shiitake-cultivation]] produce gourmet-quality mushrooms at home
+- [[king-oyster-cultivation]] and [[shiitake-mushroom-cultivation-and-medicinal-properties]] produce gourmet-quality mushrooms at home
 - Mushrooms can be grown year-round indoors with no natural light required
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]] shows how mushroom growing integrates with vegetable gardening
 - Skills learned transfer to advanced topics like agar work, strain isolation, and mycoremediation

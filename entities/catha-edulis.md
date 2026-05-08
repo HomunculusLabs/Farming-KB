@@ -116,7 +116,7 @@ Khat's legal status varies dramatically worldwide, reflecting the tension betwee
 
 - [[inga-edulis]]
 - [[kanna-sceletium-south-african-narcotic]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[weil-cultural-attitudes-toward-altered-states]]
 
 - Cathinone

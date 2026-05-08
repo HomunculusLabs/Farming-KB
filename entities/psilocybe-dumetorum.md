@@ -39,7 +39,7 @@ The species has been observed fruiting gregariously or in scattered groups, with
 
 ## Chemistry
 
-The species contains [[psilocybin]] and [[psilocin]], as demonstrated by the blue bruising reaction and confirmed through chemical analysis of collections. The bluing reaction is typically moderate, becoming most apparent on the stipe base and on damaged areas of the pileus. Both major psychoactive alkaloids have been positively identified in fruiting bodies using thin-layer chromatography and comparable analytical methods.
+The species contains [[psilocybin-compound]] and [[psilocin]], as demonstrated by the blue bruising reaction and confirmed through chemical analysis of collections. The bluing reaction is typically moderate, becoming most apparent on the stipe base and on damaged areas of the pileus. Both major psychoactive alkaloids have been positively identified in fruiting bodies using thin-layer chromatography and comparable analytical methods.
 Baeocystin, a demethylated analog of psilocybin, is likely present in *P. dumetorum* as it has been detected in nearly all examined members of Psilocybe section psilocybe-sect.-psilocybe, making its absence unlikely. Quantitative analysis of the alkaloid profile is limited, with only a small number of collections having been assayed. Based on available data from morphologically similar tropical Psilocybe species, the total tryptamine content is expected to be of moderate potency, though significant variation is common depending on substrate, age of the fruiting body, and environmental conditions at the collection site. Analytical studies of Southeast Asian Psilocybe species have shown variable alkaloid content depending on geographic origin and substrate.
 The blue bruising characteristic of section Psilocybe species results from the enzymatic oxidation of psilocin, which is produced in vivo from the dephosphorylation of psilocybin. The intensity of the blueing reaction in *P. dumetorum* is moderate compared to more well-known species such as [[psilocybe-cubensis]], which may correlate with lower absolute concentrations of psilocin in the tissue.
 
@@ -67,7 +67,7 @@ Protected areas such as Ujung Kulon National Park and Mount Halimun-Salak Nation
 - [[psilocybe-argentipes]]: species reported from India and Japan
 - psilocybe thaikalingensis: species described from northern Thailand
 - [[psilocybe-cubensis]]: the most widely known psychoactive Psilocybe species
-- [[psilocybin]]: primary psychoactive alkaloid
+- [[psilocybin-compound]]: primary psychoactive alkaloid
 - [[psilocin]]: active dephosphorylated metabolite of psilocybin
 - [[baeocystin]]: minor psychoactive alkaloid found in many Psilocybe species
 - strophariaceae: family containing the genus Psilocybe

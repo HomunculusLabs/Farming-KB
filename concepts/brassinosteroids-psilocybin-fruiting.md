@@ -9,7 +9,7 @@ tags: [reference]
 
 # Brassinosteroids and Psilocybin Mushroom Fruiting: Gartz's Discovery
 
-In a significant contribution to mycological science, Jochen Gartz's laboratory discovered that brassinosteroids -- a class of plant hormones -- can accelerate the fruiting of [[psilocybe-cubensis-potency-variation-by-flush]]. This finding has implications for both commercial [[psilocybin-mushroom-cultivation-basics]] and the understanding of fungal developmental biology.
+In a significant contribution to mycological science, Jochen Gartz's laboratory discovered that brassinosteroids -- a class of plant hormones -- can accelerate the fruiting of [[psilocybe-cubensis-potency-variation-by-flush]]. This finding has implications for both commercial [[mushroom-cultivation-fundamentals]] and the understanding of fungal developmental biology.
 
 ## Brassinosteroids: Plant Hormones That Affect Fungi
 
@@ -121,7 +121,7 @@ Gartz's discovery opens several avenues for future research:
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-basics]] -- Full cultivation guide
+- [[mushroom-cultivation-fundamentals]] -- Full cultivation guide
 - [[psilocybe-cubensis-potency-variation-by-flush]] -- Primary cultivated species
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Rhizomorph-forming species
 - [[psilocybe-woodlovers-species-guide]] -- Other cultivation targets

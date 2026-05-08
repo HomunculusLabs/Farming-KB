@@ -144,8 +144,6 @@ will be no need to use sprays or to pick bugs off by hand."
 
 ## See Also
 
-- [[fukuoka-trees-grow-themselves-and-transplant-damage]]
+- fukuoka trees grow themselves and transplant damage
 
 - [[natural-farming-philosophy-and-principles]]
-
-- [[natural-farming-fukuoka]]

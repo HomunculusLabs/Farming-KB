@@ -116,9 +116,9 @@ are medium height with good lateral branching.
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[gelato]]
+- [[gelato-cannabis]]
 - [[granddaddy-purple]]
 - [[og-kush]]
 - [[purple-punch]]
 - [[thin-mint-cookies]]
-- [[runtz]]
+- [[runtz-entity]]

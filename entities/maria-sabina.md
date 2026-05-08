@@ -77,7 +77,7 @@ pressure, soil biology, yields, and long-term resilience.
 - [[psilocybin-mushroom]]
 - [[gordon-wasson]]
 - [[psilocybe-mexicana]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 ## See Also
 

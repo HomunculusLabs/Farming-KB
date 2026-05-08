@@ -140,35 +140,6 @@ Anthocyanin concentration determines therapeutic value for immune support and an
 | Bob Gordon × Wyldewood | Both prolific; similar timing |
 | Samdal × Samyl | European standard pair |
 | Haschberg × Korsør | Good European combination |
-
-> **Tip:** In hedgerow plantings, alternate two varieties every 1.5–2 m for maximum pollination efficiency.
-
-## Quick-Reference Variety Table
-
-| Variety | Species | Zones | Height | Berry Size | Ripening | Best Use |
-|---------|---------|-------|--------|-----------|----------|----------|
-| Bob Gordon | S. canadensis | 4–9 | 8–10 ft | Med-lg | Mid-Aug | Commercial, medicinal |
-| Wyldewood | S. canadensis | 5–9 | 8–12 ft | Medium | Early-mid Aug | Commercial, medicinal |
-| York | S. canadensis | 3–8 | 6–10 ft | Large | Late Aug–Sept | Home garden, all-purpose |
-| Nova | S. canadensis | 3–8 | 6–10 ft | Medium | Early-mid Aug | Cold climates, home |
-| Adams 1/2 | S. canadensis | 3–8 | 8–12 ft | Medium | Mid-Aug | Home, cold climates |
-| Johns | S. canadensis | 3–8 | 10–12 ft | Large | Mid-Aug | Home, cold climates |
-| Marge | Hybrid | 3–8 | 8–10 ft | Medium | Mid-Aug | Medicinal, cold climates |
-| Haschberg | S. nigra | 5–8 | 6–8 ft | Med-lg | Mid-Aug | Commercial, European |
-| Korsør | S. nigra | 5–8 | 8–12 ft | Medium | Mid-late Aug | Medicinal, European |
-| Samdal | S. nigra | 5–8 | 6–8 ft | Large | Mid-Aug | Commercial, European |
-| Sambu | S. nigra | 5–8 | 6–8 ft | Medium | Early-mid Aug | European production |
-| Black Beauty | S. nigra | 4–7 | 6–8 ft | Sm-med | Late Aug | Ornamental |
-| Black Lace | S. nigra | 4–7 | 6–8 ft | Sm-med | Late Aug | Ornamental |
-
-## Key Takeaways
-
-1. **Plant two varieties** — cross-pollination is non-negotiable for fruit set.
-2. **Match variety to climate** — use Marge or Nova in zone 3; avoid European *nigra* below zone 5.
-3. **For medicinal value**, choose Bob Gordon, Wyldewood, or Haschberg.
-4. **For commercial scale**, Bob Gordon/Wyldewood (Americas); Haschberg/Samdal (Europe).
-5. **For home gardens**, York × Nova is the simplest, most reliable combination.
-
 ## See Also
 
 - [[query-best-kiwifruit-varieties-for-cold-climates]]

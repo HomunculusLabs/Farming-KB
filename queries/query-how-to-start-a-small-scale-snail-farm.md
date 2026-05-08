@@ -142,21 +142,6 @@ Snails are ready at 8–12 g live weight (about the size of a large marble to a 
 | Feeding supplies (tiles, dishes) | $15–30 |
 | Calcium supplements (first year) | $20–40 |
 | **Total startup** | **$265–555** |
-| **Annual operating cost** | **$100–200** (feed, supplements) |
-| **First-year revenue potential** | **$300–1,500** (20–50 kg at $15–30/kg) |
-
-Break-even is typically achieved in the first or second year, depending on market access and scale.
-
-## When to Scale Up
-
-Consider expanding when:
-- Your first pen consistently produces market-weight snails.
-- You have reliable buyers (restaurant, farmers market, online).
-- Mortality stays below 10% per month.
-- You've established a breeding and nursery workflow.
-
-Scale by duplicating your proven pen design rather than enlarging a single pen. This makes disease management easier and allows crop rotation between pens.
-
 ## See Also
 
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]

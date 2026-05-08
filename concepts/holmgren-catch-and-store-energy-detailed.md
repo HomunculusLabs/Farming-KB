@@ -68,9 +68,9 @@ Effective application of this principle requires thinking in terms of multiple s
 
 The key insight is that energy stored in biological systems (trees, soil, perennial plants) is more resilient than energy stored in technological systems (batteries, fuel tanks, silos). Biological storages are self-maintaining, self-replicating, and capable of recovering from disturbance. They represent the most durable form of capital available to human societies.
 
-This principle is foundational to the entire framework of [[permaculture-earthworks-guide]] and is elaborated in [[permaculture-earthworks-guide]]. It serves as the economic foundation upon which all other permaculture principles rest: before we can produce, we must store; before we can share, we must save.
+This principle is foundational to the entire framework of [[permaculture-water-harvesting-earthworks]] and is elaborated in [[permaculture-water-harvesting-earthworks]]. It serves as the economic foundation upon which all other permaculture principles rest: before we can produce, we must store; before we can share, we must save.
 
-[[permaculture-principle-catch-and-store-energy]] | [[permaculture-principles]] | [[energy-descent-action-planning]] | [[permaculture-energy-descent-planning]] | [[permaculture-earthworks-guide]]
+[[permaculture-design-principles]] | [[permaculture-principles]] | [[energy-descent-action-planning]] | [[permaculture-energy-descent-planning]] | [[permaculture-water-harvesting-earthworks]]
 
 ## Key Points
 

@@ -1,10 +1,10 @@
 ---
-title: "Passive Solar and Building Design Principles"
+title: "[[passive-solar-greenhouse-design-and-energy-systems]] and Building [[permaculture-house-design-principles]]"
 created: 2026-04-26
 tags:
   - passive-solar
   - building-design
-  - permaculture
+  - [[permaculture]]
   - energy
   - thermal-mass
 date: 2026-04-25
@@ -17,8 +17,8 @@ type: concept
 # Passive Solar and Building Design Principles
 
 [[david-holmgren]] presents [[passive-solar-design]] as the most fundamental and
-appropriate building strategy for energy descent, arguing that it
-illustrates the permaculture principle of using small-scale, local
+appropriate building strategy [[holmgren-problems-of-success-and-energy-descent]] cent, arguing that it
+illustrates the [[permaculture-principle-produce-no-waste]] of using [[small-scale-dairy-guide]], local
 energies rather than centralised systems.
 
 ## Passive Solar as Foundational Energy Strategy
@@ -117,17 +117,3 @@ worked out. His experience with an octagonal house in Tasmania
 demonstrated that unconventional roof geometries involve not only more
 time and skill but often greater waste in off-cuts of rectangular
 materials.
-
-## The Aesthetics of Descent
-
-Holmgren argues that aesthetic appreciation has a legitimate place in
-permaculture. The creative tension between function and aesthetics is
-analogous to that between materialism and spirituality. In the
-transition from growth to descent, much of the task is finding
-appropriate patterns. Over time, bioregional aesthetics will emerge as
-distilled design wisdom attuned to local conditions.
-
-See also [[earth-sheltered-structures-permaculture]],
-[[holmgren-built-environment-household-energy-storage]],
-[[holmgren-renewability-versus-durability-building]],
-[[permaculture-zone-0-house-design]].

@@ -58,7 +58,7 @@ Fukuoka's practical strategy for any degraded land:
 2. **Year Two**: Reseed heavily with whatever showed any survival. Expect continued high failure. "Anything that shows even the slightest survival rate should be seeded again."
 3. **Year Three**: By now, patterns emerge. "One will begin to have a plan." Vegetation begins to self-organize and compound.
 
-"The same approach and methods for converting farms cultivated with scientific techniques to natural farms can be applied." This mirrors [[no-till-gardening-method]] in its patience-first approach.
+"The same approach and methods for converting farms cultivated with scientific techniques to natural farms can be applied." This mirrors [[composting-and-soil-biology]] in its patience-first approach.
 
 ## Starting a Garden
 
@@ -85,4 +85,4 @@ Modern agriculture demands immediate, measurable results. Natural farming requir
 - [[fukuoka-do-nothing-farming-philosophy]] — the philosophical foundation
 - [[direct-seeding-techniques]] — modern direct seeding practices
 - [[fukuoka-rice-barley-dual-culture]] — the grain production cycle
-- [[no-till-gardening-method]] — no-till gardening approaches
+- [[composting-and-soil-biology]] — no-till gardening approaches

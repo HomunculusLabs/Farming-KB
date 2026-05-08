@@ -113,7 +113,7 @@ Community tool libraries allow many households to share expensive or infrequentl
 - [[appropriate-technology]]
 - [[permaculture-appropriate-technology-design]]
 - [[permaculture-retrofitting-suburbs]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-pruning-and-training-fruit-trees]]

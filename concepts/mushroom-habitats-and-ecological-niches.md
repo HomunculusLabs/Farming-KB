@@ -120,7 +120,7 @@ The exact timing varies by species, latitude, elevation, and seasonal weather pa
 ## Related Concepts
 
 - [[fungal-ecology]] — broader ecosystem roles
-- [[fungal-ecology-forest-floor]] — forest floor decomposition
+- [[the-soil-food-web]] — forest floor decomposition
 - [[fungal-diversity-and-mushroom-categories]] — species categorization
 - [[mushroom-species-guide]] — cultivation parameters by species
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

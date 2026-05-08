@@ -69,7 +69,7 @@ See also: [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-foods-movement-
 
 ## See Also
 
-[[fukuoka-breakdown-japanese-agriculture]], [[fukuoka-western-vs-japanese-attitudes]], [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-diet-principles]], [[fukuoka-disappearance-natural-diet]], [[fukuoka-natural-diet-as-foundation]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]]
+[[fukuoka-breakdown-japanese-agriculture]], [[fukuoka-western-vs-japanese-attitudes]], [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-disappearance-natural-diet]], [[fukuoka-natural-diet-as-foundation]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]]
 
 ## Practical Applications
 

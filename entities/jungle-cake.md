@@ -6,7 +6,7 @@ tags:
   - cannabis-strain
   - hybrid
   - indica-dominant
-  - wedding-cake-genetics
+  - [[wedding-cake-cannabis]]-genetics
   - jungle-boys
   - high-thc
   - dessert-terpene-profile
@@ -17,8 +17,7 @@ sources:
   - https://www.allbud.com/jungle-cake-strain
   - https://wikileaf.com/strain/jungle-cake/
 ---
-
-# Jungle Cake
+# [[jungle-cake-cannabis]]
 
 **Jungle Cake** · Indica-Dominant Hybrid · THC 24–30%
 
@@ -26,15 +25,12 @@ sources:
 
 | Parent | Type | Role |
 |--------|------|------|
-| White Fire #43 (WiFi #43) | Hybrid (Sativa-dominant) | Pollen donor |
-| Wedding Cake | Indica-dominant | Seed bearer |
+| White Fire #43 (WiFi #43) | Hybrid (Sativa-dominant) | Pollwedding-cake-cannabis]] Wedding Cake | Indica-dominant | Seed bearer |
 
-### Ancestry Breakdown
-
-- **Wedding Cake** (Triangle Kush × Animal Mints) — inherits dense structure, sweet vanilla frosting terpenes, and heavy body effects
-- **White Fire #43** (Fire OG × White Rhino) — contributes potency, resin production, and fuel/earthy undertones
+### Ancestry Breaktriangle-kushding Cake** ([[triangle-kush]] × Animal Mints) — inherits dense structure, sweet vanilla frosting terpenes, and heavy body [[fire-og]]
+- **White Fire #43** (Fire OG × [[white-rhino]]) — contributes potency, resin production, and fuel/earthy undertones
 - **Triangle Kush** (via Wedding Cake) — Florida OG heritage, providing the foundational indica backbone
-- **Animal Mints** (via Wedding Cake) — Thin Mint Cookies × Animal Cookies lineage bringing cookie-dough sweetness
+- **Animal Mints** (via Wedding Cake) — [[thin-mint-cookies]] × [[animal-cookies]] lineage bringing cookie-dough sweetness
 
 ## Breeder and History
 
@@ -147,9 +143,3 @@ When purchasing Jungle Cake, consumers should verify lab testing results, as the
 ## See Also
 
 - [[jungle-juice]]
-
-- [[lava-cake]]
-
-- [[wedding-cake]]
-- [[cannabis-strain-selection-guide]]
-- [[cannabis-phenotype-and-genotype-guide]]

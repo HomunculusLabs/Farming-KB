@@ -78,7 +78,7 @@ The [[cervantes-powdery-mildew-prevention-treatment]] guide recommends commercia
 
 Biological controls offer a sustainable long-term defense. [[cervantes-trichoderma-beneficial-fungi]] demonstrates that *Trichoderma harzianum* applied as a soil drench or foliar spray can outcompete powdery mildew on leaf surfaces and stimulate the plant's own immune defenses through induced systemic resistance.
 
-Some growers also use products containing *Bacillus subtilis*, a beneficial bacterium that colonizes leaf surfaces and produces antifungal compounds. These biological approaches can be integrated into a broader [[cannabis-pest-management]] strategy alongside environmental controls and organic sprays.
+Some growers also use products containing *Bacillus subtilis*, a beneficial bacterium that colonizes leaf surfaces and produces antifungal compounds. These biological approaches can be integrated into a broader cannabis pest management strategy alongside environmental controls and organic sprays.
 
 Key advantages of biological controls include:
 

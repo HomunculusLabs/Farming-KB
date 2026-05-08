@@ -1,11 +1,11 @@
 ---
-title: "Piscidia piscipula"
+title: "piscidia piscipula"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
 tags:
   - fabaceae
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
   - nitrogen-fixer
   - shade-tree
@@ -17,22 +17,19 @@ sources:
   - Pereda-Miranda R, et al. (2005). "Plant-derived drugs from Latin America: Piscidia piscipula." Pharmaceutical Biology 43(2): 97-112.
   - Hughes CE. (1998). "Leucaena genetic resources: Piscidia piscipula in the neotropics." Oxford Forestry Institute.
 ---
-
 # Piscidia piscipula
 
 ## Overview
 
 Piscidia piscipula, commonly known as Florida fishpoison tree, Jamaican dogwood, or ichthyotoxic tree, is a medium-sized deciduous tree in the family Fabaceae.
 
-It is native to southern Florida, the Caribbean, Central America, and northern South America, where it grows in coastal and riparian habitats.
+It is native to southern Florida, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America, where it grows in coastal and riparian habitats.
 
 The species is famous for its ichthyotoxic properties — crushed bark and leaves contain potent rotenone compounds that stun fish in shallow water.
 
-Indigenous peoples throughout its range have used the bark as a fish poison for centuries, a practice that gave rise to both its common and scientific names.
+Indigenous peoples throughout its range have used the bark as a fish poison for centuries, a practice that gave rise to both its common and scientific nameplant-science-exploring-rich-historyts piscicidal uses, P. piscipula has a rich history in traditional medicine as a sedative, analgesic, and anti-inflammatory remedy.
 
-Beyond its piscicidal uses, P. piscipula has a rich history in traditional medicine as a sedative, analgesic, and anti-inflammatory remedy.
-
-The tree also serves ecological roles as a nitrogen fixer, shade provider, and wildlife habitat in tropical agroforestry systems.
+The tree also serves ecological roles as a nitrogen fixer, shade provider, and wildlife habitat in tropical [[agroforestry]] systems.
 
 ## Taxonomy
 
@@ -146,9 +143,5 @@ Hardiness is limited to tropical and subtropical zones (USDA 10–12), with dama
 
 ## See Also
 
-- [[herbal-plant-remedies]]
+- herbal plant remedies
 - [[query-how-to-make-herbal-salves-and-balms-at-home]]
-- [[cannabis-for-neuropathic-pain]]
-
-- [[gliricidia-sepium]]
-- [[leucaena-leucocephala]]

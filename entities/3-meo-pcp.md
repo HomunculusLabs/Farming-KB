@@ -148,7 +148,3 @@ It is commonly encountered online despite legal restrictions.
 - [[deschloroketamine]]
 - [[methoxetamine]]
 - [[dmt]]
-- [[lsd]]
-- pcp
-- [[mescaline]]
-- [[scopolamine]]

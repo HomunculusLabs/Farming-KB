@@ -109,7 +109,7 @@ He declares that "Nature must be declared legitimate" and that "the notion of il
 
 ## See Also
 
-- [[mckenna-food-gods-myth-of-glaukos-honey]]
+- [[ethnomycology]]
 - [[mckenna-food-gods-dmt-experience-hyperspace]]
 - [[mckenna-food-gods-television-dominator-drug]]
 

@@ -113,4 +113,4 @@ Mollison provides highly detailed practical guidance for the intensive Zone One 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
 - [[permaculture-water-pond-systems-design-course]]
-- [[gaias-garden-herb-spiral-and-natural-patterns]]
+- gaias garden herb spiral and natural patterns

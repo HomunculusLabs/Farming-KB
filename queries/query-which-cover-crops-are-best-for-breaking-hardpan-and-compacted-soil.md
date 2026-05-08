@@ -136,5 +136,5 @@ This rotation progressively addresses compaction at increasing depths while main
 - [[cover-crop-quick-reference]] — comprehensive cover crop selection guide
 - [[dynamic-accumulator-quick-reference]] — plants that mine deep nutrients
 - [[soil-food-web]] — how soil biology improves soil structure
-- [[no-till-gardening-method]] — preventing re-compaction after remediation
+- [[composting-and-soil-biology]] — preventing re-compaction after remediation
 - [[raised-beds-vs-in-ground-vs-containers]] — alternatives for severely compacted sites

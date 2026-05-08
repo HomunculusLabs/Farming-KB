@@ -117,7 +117,7 @@ seen. Spent tea leaves proved to be an excellent supplement.
 
 Another study by Morales et al. (1991) found that the addition of
 cotton waste to a sawdust/bran (12.5%) formula significantly
-improved yields of [[growing-gourmet-shiitake-cultivation]].
+improved yields of [[shiitake-mushroom-cultivation-and-medicinal-properties]].
 
 ## Supplementing Outdoor Beds
 

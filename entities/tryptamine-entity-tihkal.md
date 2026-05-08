@@ -85,7 +85,7 @@ substances.
 
 ## See Also
 
-- [[tryptamine_hallucinogens]]
+- [[tryptamine-hallucinogens]]
 
 - [[tryptamine-family-overview]] — comprehensive family overview
 - [[tryptamine-consciousness-theory]] — consciousness research

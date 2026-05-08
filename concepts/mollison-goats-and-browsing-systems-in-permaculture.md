@@ -147,5 +147,3 @@ properly managed:
 ## See Also
 
 - [[comparison-goats-vs-sheep-in-permaculture-systems]]
-
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

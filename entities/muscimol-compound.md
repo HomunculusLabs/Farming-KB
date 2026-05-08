@@ -8,7 +8,7 @@ tags:
   - isoxazole
   - gabaergic
   - ibotenic-acid-metabolite
-  - amanita-muscaria
+  - [[amanita]]-muscaria
   - entheogen
   - z-drug-analog
 date: 2026-04-28
@@ -16,15 +16,15 @@ updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=muscimol+pharmacology+review
   - "Ott, J. 'Pharmacotheon: Entheogenic Drugs.' Natural Products Co., 1996."
-  - "Waser, P.G. 'The Pharmacology of Amanita muscaria.' Ethnopharmacologic Search, 1967."
-  - "Kammerer, T. et al. 'Amanita muscaria: Chemistry, Pharmacology, Toxicology.' Frontiers in Pharmacology, 2024."
+  - "Waser, P.G. 'The Pharmacology of [[amanita-muscaria]].' Ethnopharmacologic Search, 1967."
+  - "Kammerer, T. et a [[amanita-muscaria]] aria: Chemistry, Pharmacology, Toxicology.' Frontiers in Pharmacology, 2024."
 ---
 
 # Muscimol
 
 ## Overview
 
-**Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is the principal psychoactive compound in *Amanita muscaria* (fly agaric) and related *Amanita* species. Unlike tryptamine-based psychedelics (psilocybin, DMT, LSD), muscimol acts as a potent and selective **GABA_A receptor agonist**, producing sedation, dissociation, altered perception, and vivid dreamlike states. Muscimol has experienced a resurgence of interest due to commercial *Amanita muscaria* products and emerging therapeutic research.
+**Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is the principal psychoactive compound in *Amanita muscaria* ([[fly-agaric-santa-claus-myth]]) and related *Amanita* species. Unlike [[tryptamine]]-based psychedelics ([[psilocybin]], DMT, LSD), muscimol acts as a potent and selective **GABA_A receptor agonist**, producing sedation, dissociation, altered perception, and vivid dreamlike states. Muscimol has experienced a resurgence of interest due to commercial *Amanita muscaria* products and emerging therapeutic research.
 
 ## Chemical Identity
 
@@ -36,7 +36,7 @@ sources:
 | Molecular weight | 114.10 g/mol |
 | Class | Isoxazole derivative |
 | State | White crystalline solid |
-| Solubility | Soluble in water, ethanol, DMSO |
+| Solubility | Soluble [[ingoldian-hyphomycetes-spore-dispersal-in-water]], ethanol, DMSO |
 
 Muscimol is a bicyclic compound with a 3-hydroxyisoxazole ring and aminomethyl group — a rare naturally occurring isoxazole.
 
@@ -44,7 +44,7 @@ Muscimol is a bicyclic compound with a 3-hydroxyisoxazole ring and aminomethyl g
 
 ### Natural Source
 
-Muscimol is produced by **decarboxylation of ibotenic acid** (α-amino-3-hydroxy-5-isoxazoleacetic acid), the primary amino acid in fresh *Amanita* mushrooms:
+Muscimol is produced by **decarboxylation of [[ibotenic-acid]]** (α-amino-3-hydroxy-5-isoxazoleacetic acid), the primary amino acid in fresh *Amanita* mushrooms:
 
 - **Ibotenic acid** → (decarboxylation) → **Muscimol**
 - Conversion occurs upon drying, heating, or aging of mushroom tissue
@@ -148,10 +148,3 @@ Doses vary enormously by mushroom potency and preparation. Always start low.
 
 - [[2c-c-compound-profile]]
 - [[2c-t-2-compound-profile]]
-- [[mdma-compound-profile]]
-- [[medicinal-mushroom-compound-extraction]]
-- [[psilocybin-compound]]
-
-- [[amanita-muscaria]] — primary natural source
-- [[ibotenic-acid]] — excitatory precursor compound
-- [[psilocybin]] — serotonergic psychedelic for mechanism comparison

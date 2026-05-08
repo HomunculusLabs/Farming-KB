@@ -148,4 +148,3 @@ The p-n junction is a compact example of how materials processing creates useful
 ## References
 
 Research basis: Wikipedia articles on p-n junction, depletion region, diode, Shockley diode equation, and semiconductor, consulted 2026-05-02.
-Standard device and engineering context: depletion approximation, minority-carrier injection, diode small-signal models, rectifiers, optoelectronics, transistors, power devices, and integrated circuits.

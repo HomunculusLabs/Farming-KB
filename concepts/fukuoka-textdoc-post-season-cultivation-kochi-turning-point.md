@@ -148,11 +148,3 @@ element contributing to a growing conviction that human knowledge and effort
 were not the path to agricultural truth.
 
 ## Connection to Later Developments
-
-This pivotal episode connects to the broader arc of Fukuoka intellectual journey,
-from his earlier [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-toward the development of his complete natural farming system, including
-[[fukuoka-textdoc-straw-mulching-rice-barley-cropping]] and
-[[direct-seeded-notillage-rice-barley-clover-succession]]. The Kotogahama
-seedlings were the seed, both literal and metaphorical, from which his entire
-natural rice cultivation system eventually grew.

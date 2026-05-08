@@ -118,4 +118,4 @@ The guardian of a watermelon patch does not watch the watermelons, he looks out 
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
 - [[fukuoka-natural-soil-fertility]]
-- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-natural-farming-philosophy]]

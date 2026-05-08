@@ -146,5 +146,5 @@ Hyoscyamine is listed in many pharmacopoeias including USP, EP, and BP.
 - [[mandragora-officinarum]]
 - [[brugmansia-sanguinea]]
 - [[lsd]]
-- [[ergine]]
-- [[mescaline]]
+- [[ergine-entity]]
+- [[mescaline-entity]]

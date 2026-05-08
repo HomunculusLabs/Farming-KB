@@ -145,7 +145,6 @@ microbes:
 
 - [[cervantes-nutrient-management]]
 - [[cervantes-fertilizer-application-strain-feeding]]
-- [[cervantes-organic-growing]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-organic-amendments-chart]]
 - [[cervantes-macronutrient-deficiency-toxicity]]
-- [[cervantes-micronutrient-deficiency-chelation]]

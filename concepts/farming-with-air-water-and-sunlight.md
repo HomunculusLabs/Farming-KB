@@ -65,7 +65,7 @@ Carandang notes that full moons bring more nighttime light, influencing plant gr
 
 The "farming with air, water and sunlight" philosophy integrates with Carandang's microbial farming approach. Beneficial microorganisms thrive when these elements are optimized — aerobic microbes need air, fermentation requires controlled moisture, and photosynthetic bacteria need sunlight. The three elements are not alternatives to microbial farming but prerequisites for it.
 
-[[fukuoka-do-nothing-farming-and-spiritual-life]] similarly emphasizes alignment with natural forces, though framed in spiritual rather than elemental terms. [[permaculture-principle-observe-and-interact]] captures the same ethic of reading natural conditions before intervening.
+[[fukuoka-do-nothing-farming-and-spiritual-life]] similarly emphasizes alignment with natural forces, though framed in spiritual rather than elemental terms. [[permaculture-design-principles]] captures the same ethic of reading natural conditions before intervening.
 
 ## Critique of Conventional Agriculture
 

@@ -148,4 +148,3 @@ failure or market disruption.
 - [[mollison-designers-appropriate-technology-small-scale-tools]] -- related low-tech
   solutions
 - [[mollison-designers-herb-spiral-design-construction]] -- herbs for drying
-- [[permaculture-zone-planning]] -- dryer placement

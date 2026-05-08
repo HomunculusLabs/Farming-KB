@@ -127,7 +127,7 @@ recognize.
 ## See Also
 
 - [[suillellus-luridus|Suillellus luridus]]
-- [[boletus-edulis|Boletus edulis]]
+- [[boletus-edulis-entity|Boletus edulis]]
 - Neoboletus erythropus
 - [[amanita-phalloides|Amanita phalloides]]
 - [[gyromitra-esculenta|Gyromitra esculenta]]

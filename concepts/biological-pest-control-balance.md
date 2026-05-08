@@ -8,13 +8,12 @@ sources:
 created: 2026-04-28
 type: concept
 ---
+# [[hamilton-beneficial-insects-and-biological-pest-control]] Balance
 
-# Biological Pest Control Balance
-
-Biological pest control through natural predator balance is a central principle
-of Masanobu Fukuoka's farming system, documented in *The One-Straw Revolution*
+Biological pest control through natural predatomasanobu-fukuokaentral principle
+of [[masanobu-fukuoka]]'s farming system, documented in *The One-Straw Revolution*
 (1978). Rather than eliminating pest insects chemically, Fukuoka demonstrated
-that healthy ecosystems maintain their own balance between pests and predators,
+that healthy ecosystems mfungal-parasites-and-predators]] own balance between pests and predators,
 resulting in minimal crop damage without pesticides. His observations
 challenged modern pest management and revealed the devastating ecological
 consequences of chemical interventions.
@@ -60,7 +59,7 @@ as though draped with silk. Waving and sparkling with morning mist, several
 spiders occupied nearly every square inch. In a quarter acre, there must have
 been thousands or millions of spiders. This spectacle lasted only a day or
 two before strands of web several yards long broke off, with five or six
-young spiders clinging to each, sailing off like dandelion fluff.
+young spiders clinging to each, sailing off like [[dandelion]] fluff.
 
 "Seeing this, you understand that poets and artists will also have to join
 the gathering." The phenomenon of these great swarms, which appear in the
@@ -106,7 +105,7 @@ assumption that chemical pest control always improves productivity.
 ## Natural Predator Communities in Citrus Orchards
 
 In Fukuoka's citrus orchards, mixed plantings of pine, cedar, pear,
-persimmon, loquat, and Australian Morishima acacia created natural
+[[persimmon]], loquat, and Australian Morishima [[acacia]] created natural
 predator communities. The acacia proved particularly valuable:
 year-round growth produced buds feeding aphids, sustaining ladybird
 beetle populations. After devouring aphids, ladybirds climbed to
@@ -148,9 +147,3 @@ pesticide spraying, first-year losses would reach about ten percent.
 Nature's recuperative power is beyond imagining — harvests would
 eventually surpass original levels. The more elaborate the
 countermeasures, the more complicated the problems become.
-
-## See Also
-
-- [[natural-pest-deterrents]]
-- [[fukuoka-straw-pest-control-natural-balance]]
-- [[natural-farming-guide-biological-pest-control-predators]]

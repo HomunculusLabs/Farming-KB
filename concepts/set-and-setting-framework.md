@@ -124,6 +124,6 @@ wisdom.
 - [[psychedelic-experience-preparation]]
 - [[psychedelic-harm-reduction]]
 - [[phenethylamine-set-and-setting]]
-- [[psychedelic-mushroom-music-and-culture]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-therapy-current-research]]
 - [[psychedelic-safety-and-harm-reduction]]

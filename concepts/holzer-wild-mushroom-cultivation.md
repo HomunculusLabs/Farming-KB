@@ -22,7 +22,7 @@ Mixed forest is more stable overall; humus composition is better, and the divers
 
 Many factors are responsible for successful culture, and fulfilling them requires close observation of natural cycles. The interplay of soil temperature, moisture, pH, tree age, canopy cover, and understory vegetation all influence whether a mycorrhizal mushroom species will establish and fruit. Despite Holzer's successes, cultivating these mushrooms is still not commercially viable to this day — the unpredictability and long time frames make large-scale production impractical.
 
-For more on how these fungal networks function in natural settings, see [[fungal-ecology-forest-floor]].
+For more on how these fungal networks function in natural settings, see [[the-soil-food-web]].
 
 ## Method: Cultivating Birch Boletes
 
@@ -86,7 +86,7 @@ The broader implications of this work connect to [[fungal-biodiversity-forest-ec
 - [[krameterhof-holzer-model-farm]]
 - [[edible-wild-mushroom-guide]]
 - [[mushroom-foraging-safety]]
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[holzer-mushroom-cultivation-methods]]
 - [[bolete-mushrooms-ecology-edibility]]

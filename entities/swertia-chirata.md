@@ -1,5 +1,5 @@
 ---
-title: "Swertia chirata"
+title: "swertia chirata"
 created: 2026-04-28
 type: species
 tags:
@@ -21,7 +21,6 @@ sources:
   - Kshirsagar, A. et al. (2015). "A comprehensive review on Swertia chirata."
     Journal of Pharmacognosy and Phytochemistry, 4(1), 137-142.
 ---
-
 # Swertia chirata
 
 ## Overview
@@ -50,7 +49,7 @@ and *CITES Appendix II* regulates its trade.
 - **Genus:** *Swertia* L.
 - **Species:** *S. chirayita* (Roxb. ex Flem.) Karsten
 
-Taxonomic confusion persists between *S. chirata*, *S. angustifolia*,
+[[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] persists between *S. chirata*, *S. angustifolia*,
 and *S. alata*, which are often sold interchangeably in herbal markets.
 
 ## Morphology
@@ -80,9 +79,9 @@ It occupies subalpine and temperate habitats in open grasslands, forest
 clearings, and rocky slopes at 1,200–3,000 meters elevation.
 
 The species prefers moist, well-drained, acidic to neutral soils with
-high annual rainfall (1,500–3,000 mm).
+himedicinal-[[mushroom-extraction-methods]]-bioactive-compounds]](1,500–3,000 mm).
 
-## Bioactive Compounds
+## [[medicinal-mushroom-extraction-bioactive-compounds]]
 
 The principal bioactive constituents are **xanthones** and **secoiridoid
 glycosides**, contributing to its intensely bitter taste and
@@ -91,8 +90,7 @@ pharmacological activity.
 Key compounds include:
 
 - **Amarogentin** — the most bitter compound known (bitterness threshold
-  1 ppb). Primary contributor to digestive bitter tonic effect.
-- **Gentiopicroside** — secoiridoid glycoside; hepatoprotective and
+  1 ppb). Primary contributor to digestive bitter tonic effmedicinal-mushroom-antioxidant-anti-inflammatorycroside** — secoiridoid glycoside; hepatoprotective and
   anti-inflammatory.
 - **Swertiamarin** — secoiridoid with anti-diabetic, hepatoprotective,
   and anti-inflammatory effects.
@@ -110,7 +108,7 @@ amarogentin typically comprising 0.2–0.5%.
 medicine. Gentiopicroside and swertiamarin protect against
 CCl₄-induced hepatotoxicity in animal models.
 
-**Anti-diabetic:** Swertiamarin and mangiferin demonstrate hypoglycemic
+**A [[wavelet-transform]]-used-foretic:** Swertiamarin and mangiferin demonstrate hypoglycemic
 activity via enhanced insulin secretion. Used for *madhumeha* (diabetes).
 
 **Anti-inflammatory and antioxidant:** Xanthones inhibit COX-2,
@@ -132,27 +130,18 @@ and fungal pathogen susceptibility.
 
 Propagation by seed requires cold stratification (30–60 days) with
 germination rates of 30–50%. Plants spaced 30–45 cm in partial shade.
-Harvest at flowering for peak xanthone content.
+Harvest at flowerifungal-[[gadd-fungal-biodiversity-conservation]]-statuse content.
 
 Conservation cultivation programs have had limited success replacing
 wild collection due to quality differences.
 
-## Conservation Status
+## [[fungal-biodiversity-conservation-status]]
 
 *Swertia chirata* is classified as **Critically Endangered** by the
 IUCN Red List. Primary threats include overharvesting (demand exceeds
 wild supply ~5:1), habitat destruction, and climate-driven range shifts.
 
 The species is listed on **CITES Appendix II**. Ex situ conservation
-through seed banks and managed cultivation is essential for survival.
+through [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] and managed cultivation is essential for survival.
 
 ## See Also
-
-- [[agar]]
-- [[andrographis-paniculata]]
-- [[dom]]
-
-- [[gentiana-lutea]]
-- [[andrographis-paniculata]]
-- [[tinospora-cordifolia]]
-- [[picrorhiza-kurroa]]

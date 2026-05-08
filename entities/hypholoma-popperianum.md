@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Hypholoma popperianum
 
-**Hypholoma popperianum** is a [[psilocybin]]-containing mushroom species in the family
+**Hypholoma popperianum** is a [[psilocybin-compound]]-containing mushroom species in the family
 Strophariaceae (or Hymenogastraceae under some modern classifications). It is one of
 six species of Hypholoma recognized among the 216 [[neurotropic-fungi]] cataloged by Guzmán,
 Allen, and Gartz (2000). Originally described in the genus Psilocybe, it was later
@@ -29,7 +29,7 @@ recognized its morphological affinity with the genus Hypholoma.
 
 The transfer from Psilocybe to Hypholoma reflects the species' morphological
 characteristics, particularly its wood-inhabiting habit, adnate gills, and certain microscopic
-features that align more closely with Hypholoma than with the core [[psilocybin]]-containing
+features that align more closely with Hypholoma than with the core [[psilocybin-compound]]-containing
 species of section Psilocybe. The genus Hypholoma has been subject to considerable
 taxonomic reorganization over the decades. Some authorities have placed certain species in
 Stropharia, Psilocybe, or Naematoloma (now largely treated as a synonym of
@@ -76,7 +76,7 @@ band. However, a well-developed annulus (ring) is typically absent, which is con
 with many species in the Psilocybe-Hypholoma complex.
 
 The flesh is thin, whitish to pale, and soft. It does not change color when cut or bruised
-(in contrast to some better-known [[psilocybin]] species that develop prominent blue bruising).
+(in contrast to some better-known [[psilocybin-compound]] species that develop prominent blue bruising).
 The odor is mild, sometimes slightly farinaceous (mealy or flour-like). The taste is mild
 and not distinctive.
 
@@ -119,11 +119,11 @@ are warm (20 to 30°C).
 
 ## Chemistry
 
-*Hypholoma popperianum* contains [[psilocybin]] and [[psilocin]] as its principal psychoactive
+*Hypholoma popperianum* contains [[psilocybin-compound]] and [[psilocin]] as its principal psychoactive
 alkaloids, consistent with its classification among psilocybin-containing neurotropic fungi.
 The presence of these compounds has been confirmed by chemical analysis.
 
-The exact concentrations of [[psilocybin]] and [[psilocin]] in *H. popperianum* have not been
+The exact concentrations of [[psilocybin-compound]] and [[psilocin]] in *H. popperianum* have not been
 extensively studied or published in the quantitative literature. The species is reported to
 be psychoactive, suggesting that alkaloid concentrations are sufficient to produce perceptible
 effects upon ingestion. As with other wood-inhabiting psilocybian species, the alkaloid content
@@ -144,7 +144,7 @@ compounds available to other organisms in the forest food web.
 
 ## See Also
 
-- [[psilocybin]] — the largest genus of psilocybin-containing fungi, closely related to Hypholoma
-- [[psilocybin]] — the primary psychoactive indole alkaloid produced by this species
+- [[psilocybin-compound]] — the largest genus of psilocybin-containing fungi, closely related to Hypholoma
+- [[psilocybin-compound]] — the primary psychoactive indole alkaloid produced by this species
 - [[psilocin]] — the pharmacologically active metabolite of psilocybin
 - stropharia — a closely related genus including species formerly placed in Hypholoma

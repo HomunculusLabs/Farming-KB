@@ -25,7 +25,7 @@ Palmer described observing spawn during earth-moving operations near the Brunswi
 
 > "As the pick of the workman broke up the soil, a white substance ran through every piece. Starting with large branches, it divided and sub-divided like the veins on the back of the hand."
 
-This "white vine" was the spawn of the [[coprinus-comatus]]. The smell was strong enough to be noticed from across the street.
+This "white vine" was the spawn of the [[coprinus-comatus-detailed]]. The smell was strong enough to be noticed from across the street.
 
 ### Microscopic Structure
 

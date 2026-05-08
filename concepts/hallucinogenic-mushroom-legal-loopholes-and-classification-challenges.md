@@ -118,9 +118,9 @@ The experience with hallucinogenic mushroom legislation highlights several impor
 
 ## See Also
 
-- [[kenyan-mushroom-industry-and-challenges]]
+- [[mushroom-cultivation-fundamentals]]
 
-- [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+- [[hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]

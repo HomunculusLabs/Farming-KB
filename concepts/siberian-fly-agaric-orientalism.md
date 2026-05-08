@@ -137,7 +137,7 @@ through the work of Waldemar Jochelson among the Koryak, Yukaghir, and other
 Siberian peoples. Jochelson spent extended periods living among his subjects and
 attempted to record their beliefs and practices with greater fidelity than his
 predecessors. His 1905 work "The Koryak" remains an essential source on Siberian
-[[harner-mazatec-mushroom-shamanism]]. Yet even Jochelson was not free from bias. He shared the
+[[mushroom-cultivation-fundamentals]]. Yet even Jochelson was not free from bias. He shared the
 evolutionist assumptions common to early twentieth-century anthropology, viewing
 indigenous Siberian cultures as survivals of an earlier stage of human
 development. His account of fly-agaric use was shaped by a desire to document

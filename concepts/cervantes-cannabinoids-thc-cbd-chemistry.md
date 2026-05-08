@@ -106,7 +106,7 @@ handling. See [[cervantes-harvest-timing-trichome-ripeness]] for
 details on optimizing cannabinoid content at harvest. The
 [[cervantes-strain-selection]] guide covers genetic factors affecting
 cannabinoid ratios. For information on how cannabinoids interact with
-terpenoids in the entourage effect, see [[cervantes-trichome-resin-production]].
+terpenoids in the entourage effect, see [[cannabis-advanced-growing-techniques]].
 
 ## Cannabinoid Degradation
 
@@ -115,7 +115,7 @@ THC slowly converts to CBN through oxidation, which is why properly
 cured and stored marijuana retains more potency. Fresh bud contains
 only trace amounts of CBN, while poorly stored material develops
 higher CBN levels with corresponding loss of psychoactive potency.
-Proper [[cervantes-drying-buds-methods]] and [[cervantes-curing-storage]] techniques are essential for preserving cannabinoid content.
+Proper [[cervantes-drying-buds-methods]] and [[cannabis-advanced-growing-techniques]] techniques are essential for preserving cannabinoid content.
 
 ## Medical and Therapeutic Potential
 
@@ -128,7 +128,7 @@ whole-plant cannabis preparations often outperform synthetic THC
 
 ## Related Concepts
 
-- [[cervantes-trichome-resin-production]] - resin glands that
+- [[cannabis-advanced-growing-techniques]] - resin glands that
   produce and store cannabinoids
 - [[cervantes-harvest-timing-trichome-ripeness]] - timing harvest for
   peak cannabinoid content
@@ -136,4 +136,4 @@ whole-plant cannabis preparations often outperform synthetic THC
 - [[cervantes-strain-selection]] - genetics and cannabinoid profiles
 - [[cervantes-hash-making-extracts]] - concentrating cannabinoids
 - [[cervantes-drying-buds-methods]] - preserving cannabinoid content
-- [[cervantes-curing-storage]] - proper storage prevents degradation
+- [[cannabis-advanced-growing-techniques]] - proper storage prevents degradation

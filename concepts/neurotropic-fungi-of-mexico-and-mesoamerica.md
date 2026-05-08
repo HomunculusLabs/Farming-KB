@@ -49,7 +49,7 @@ that does not always correspond to Western chemical categories.
 The discovery of these traditions by R. Gordon Wasson and his wife Valentina Wasson in 1955-1957, published in the
 famous LIFE Magazine article "Seeking the Magic Mushroom" (1957), initiated the modern era of psilocybin research.
 The Wassons brought specimens to Roger Heim in Paris, leading to the cultivation of the mushrooms and the eventual
-isolation of [[psilocybin]] by Albert Hofmann at Sandoz Laboratories in 1958.
+isolation of [[psilocybin-compound]] by Albert Hofmann at Sandoz Laboratories in 1958.
 
 ## Ecological Distribution within Mexico
 

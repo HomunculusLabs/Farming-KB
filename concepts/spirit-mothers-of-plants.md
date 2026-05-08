@@ -148,4 +148,3 @@ spirits, connected to the fundamental elements of the earth.
   plant spirits
 - [[shamanic-powers-ayahuasca]] -- Powers granted by plant spirits
 - [[icaros-power-songs]] -- Songs taught by the spirit mothers
-- [[curandero-healing-ayahuasca]] -- Clinical use of plant knowledge

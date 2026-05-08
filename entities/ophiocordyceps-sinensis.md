@@ -1,5 +1,5 @@
 ---
-title: "Ophiocordyceps sinensis"
+title: "ophiocordyceps sinensis"
 created: 2026-05-06
 type: species
 tags:
@@ -14,18 +14,17 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Winkler, D. (2008). \"Caterpillar fungus (Ophiocordyceps sinensis): Production and sustainability issues.\" Medicinal Plant Conservation, 13, 16–20."
+  - "Winkler, D. (2008). \"Caterpillar fungus (Ophio [[cordyceps-sinensis]]): Production and sustainability issues.\" Medicinal Plant Conservation, 13, 16–20."
   - "Stone, R. (2008). \"Caterpillar fungus threatens Tibetan plateau.\" Science, 321(5894), 1379."
   - "Holliday, J. & Cleaver, M. (2008). \"Medicinal value of the caterpillar fungi species.\" International Journal of Medicinal Mushrooms, 10(3), 219–234."
   - "Sung, G.H. et al. (2007). \"Phylogenetic classification of Cordyceps and the clavicipitaceous fungi.\" Studies in Mycology, 57, 5–59."
   - "Zhu, J.S., Halpern, G.M. & Jones, K. (1998). \"The scientific rediscovery of an ancient Chinese herbal medicine: Cordyceps sinensis.\" Journal of Alternative and Complementary Medicine, 4(3), 289–303."
 ---
-
 # Ophiocordyceps sinensis (*Caterpillar Fungus*, *Yartsa Gunbu*)
 
 ## Overview
 
-Ophiocordyceps sinensis is an entomopathogenic fungus that parasitizes the larvae of ghost moths (family Hepialidae), producing a characteristic fruiting body from the mummified host caterpillar.
+Ophiocordyceps sinensis is an entomopathogenic fungus that parasitizes the larvae of ghost moths (family Hepialidae), producing a characteristic [[fruiting-body-development]] from the mummified host caterpillar.
 
 It is one of the world's most valuable biological commodities, with wild-harvested specimens commanding prices exceeding USD $50,000 per kilogram on the Chinese market.
 
@@ -46,15 +45,15 @@ The fungus has been used in traditional Tibetan and Chinese medicine for over 1,
 
 The species was transferred to *Cordyceps* and later to *Ophiocordyceps* following the landmark 2007 phylogenetic revision by Sung et al., which reclassified the entire Cordyceps genus complex.
 
-The species epithet *sinensis* refers to its Chinese origin.
+The species epithet *sinensis* refers to its Chiaustralian-magic-mushroom-common-names]]
 
-**Common names:** Caterpillar fungus, Yartsa gunbu (Tibetan: གཡེ་ཤ་གུན་པུ, "summer grass, winter worm"), Dong chong xia cao (Chinese: 冬虫夏草), Himalayan Viagra.
+**Common names:** Caterpillar fungus, Yartsa gunbu (Tibetan: གཡེ་ཤ་གུན་པུ, "summer grass, winter worm"), Dong chong xia cao (Chiobligate-biotrophic-rust-fungi-biology-and-life-cycleimalayan Viagra.
 
 ## Morphology and Life Cycle
 
 **Host:** Primarily larvae of *Thitarodes* (formerly *Hepialus*) species, ghost moths endemic to the Tibetan Plateau and Himalayan region.
 
-The fungus infects subterranean caterpillars during late summer/autumn, colonizing the hemocoel and progressively replacing host tissue with fungal mycelium.
+The fungus infects subterranean caterpillars during late su [[mycelium]] umn, colonizing the hemocoel and progressively replacing host tissue with fungal mycelium.
 
 **Mummified caterpillar:** By early winter, the host is entirely consumed, leaving a dark brown to black, firm, mummified larval shell approximately 3–6 cm long.
 
@@ -68,7 +67,7 @@ The stroma is 4–8 cm tall (including the subterranean portion), 2–4 mm wide,
 
 **Ascospores:** Filiform (thread-like), multiseptate, fragmenting at maturity into 4–8 µm part-spores for dispersal.
 
-**Life cycle:** Infection occurs when soil-dwelling caterpillars ingest or contact fungal hyphae or spores during their 4–5 year subterranean larval phase.
+**Life cycle:** Infection occurs when soil-dwelling caterpillars ingest or contact [[fungal-hyphae]] or spores during their 4–5 year subterranean larval phase.
 
 The complete parasitic phase requires 1–2 years before stroma production.
 
@@ -90,7 +89,7 @@ The species requires cold temperatures (mean annual temperature below 5°C) and 
 
 Ophiocordyceps sinensis produces a diverse array of bioactive compounds:
 
-**Nucleosides:** Cordycepin (3'-deoxyadenosine) is the signature compound, with reported anti-inflammatory, antitumor, and immunomodulatory activities.
+**Nucleosides:** [[cordycepin]] (3'-deoxyadenosine) is the signature compound, with reported anti-inflammatory, antitumor, and immunomodulatory activities.
 
 Concentrations in wild specimens range from 0.1–0.5 mg/g dry weight. Adenosine (0.05–0.2 mg/g) contributes to vasodilatory and antiplatelet effects.
 
@@ -141,13 +140,9 @@ Artificial cultivation uses mycelium fermentation (strain Cs-4), yielding a phar
 | Species | Habitat | Key Difference |
 |---------|---------|---------------|
 | *O. sobolifera* | East Asian lowland | Parasitizes cicada nymphs |
-| *Cordyceps militaris* | Temperate, worldwide | Bright orange, lepidopteran hosts |
+| *[[cordyceps-militaris]]* | Temperate, worldwide | Bright orange, lepidopteran hosts |
 | *O. robertsii* | New Zealand | NZ endemic ghost moth parasite |
 
 ## See Also
 
 - [[ophiocordyceps-unilateralis]]
-
-- `[[cordyceps-militaris]]` — Bright orange cultivated cordyceps with higher cordycepin yields
-- `[[cordyceps-sinensis]]` — Additional reference page for traditional Cordyceps classification
-- `[[psilocybe-cubensis-entity]]` — Another commercially significant entheogenic fungus

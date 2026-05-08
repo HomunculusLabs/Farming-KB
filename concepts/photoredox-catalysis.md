@@ -148,4 +148,3 @@ Photoredox methods can also model single-electron radical processes relevant to 
 - organic chemistry
 - photochemistry
 - [[phase-transfer-catalysis]]
-- [[pericyclic-reactions-organic-chemistry]]

@@ -148,4 +148,3 @@ ecosystems:
 - [[nitrogen-fixing-plants]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - tropical legumes
-- [[adaptogenic-herbs-overview]]

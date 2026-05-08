@@ -148,4 +148,3 @@ activity assays, [[fungal-laccase-mediator-systems]] measurements, environmental
 phytotoxicity testing, and CO2/VOC gas monitoring. Biopiles integrate into
 treatment trains with [[constructed-wetlands-wastewater-treatment]] for leachate polishing, [[mycofiltration-of-water]]
 for runoff, and [[singh-fungal-biosorption-reactors-heavy-metals]] for metal removal. Post-biopile
-in-situ [[singh-fungal-rhizodegradation-petroleum-contaminated-soils]] addresses

@@ -147,4 +147,4 @@ evolution of hormonal signaling and potential agricultural applications.
 - [[brassinosteroids-psilocybin-fruiting]]
 - [[brassinosteroid-effects-on-fungal-morphology]]
 - stigmasterol plant sterol chemistry
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]

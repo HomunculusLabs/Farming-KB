@@ -107,6 +107,6 @@ The story of LOPHOPHINE is a reminder of how much remains unknown about the chem
 
 - [[mmda-entity]] -- 3-methoxy-4,5-methylenedioxyamphetamine (the amphetamine analogue)
 
-- [[mda-entity]] -- 3,4-methylenedioxyamphetamine
+- [[mda]] -- 3,4-methylenedioxyamphetamine
 
 - [[phenethylamine-pharmacology]] -- general pharmacology

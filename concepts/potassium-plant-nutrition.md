@@ -83,7 +83,7 @@ K is often called the "quality nutrient" because adequate K improves:
 ## Practical Management
 
 ### Organic Approach
-1. Regular [[compost-chemistry-soil-food-web]] applications provide steady K
+1. Regular [[composting-and-soil-biology]] applications provide steady K
 2. Wood ash from hardwood fires is an excellent K source (use sparingly due to pH effect)
 3. Kelp meal provides K plus trace minerals and plant growth hormones
 4. [[biofertilizers-and-soil-inoculants]] significantly improve K uptake efficiency

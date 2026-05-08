@@ -139,6 +139,6 @@ difficulty speaking, manic or compulsive behavior at high doses.
 - [[5-meo-mipt-entity]]
 - [[5-meo-dipt-entity-tihkal]]
 
-[[3-MeO-PCP]] · [[methoxetamine]] · [[ketamine]] · [[deschloroketamine]] ·
+[[3-meo-pcp]] · [[methoxetamine]] · [[ketamine]] · [[deschloroketamine]] ·
 [[pcp]] · [[mxe]] · NMDA receptor · Dissociative ·
-[[5-MeO-DiPT]] · [[dipt]] · [[dpt]]
+[[5-meo-dipt]] · [[dipt]] · [[dpt]]

@@ -13,7 +13,7 @@ type: concept
 ## Introduction
 
 The concept of entheogens as epistemological tools forms the central
-thesis of Simon G. Powell's "The [[psilocybin]] Solution." An epistemological
+thesis of Simon G. Powell's "The [[psilocybin-compound]] Solution." An epistemological
 tool is any instrument or method that allows us to gain knowledge about
 the nature of reality. Powell argues that naturally occurring psychedelic
 plants and fungi serve precisely this function, offering direct

@@ -87,7 +87,7 @@ The WHO published seminal "Guidelines for the Assessment of Herbal Medicines" es
 ## See Also
 
 - [[reishi-mushroom-medicinal-properties]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[medicinal-mushroom-immune-modulation]]
 - cancer-treatments-medicinal-mushrooms
 - [[chaga-mushroom-research]]

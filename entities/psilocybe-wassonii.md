@@ -65,7 +65,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin]] and [[psilocin]]
+- Contains [[psilocybin-compound]] and [[psilocin]]
 - Considered moderately potent
 - Part of the [[psilocybe-mexicana]] species complex, sharing similar alkaloid profiles
 - The strong bluing reaction suggests relatively high concentrations of psilocin
@@ -78,7 +78,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - The Wassons participated in a velada (mushroom ceremony) with Mazatec curandera María Sabina in 1955, an event that launched the modern psychedelic movement
 - Part of the traditional Mazatec mushroom pharmacopeia used in healing ceremonies and divination
 - María Sabina used multiple species interchangeably in her ceremonies, including P. wassonii, [[psilocybe-caerulescens-entity]], and [[psilocybe-mexicana]]
-- The Wasson expedition and subsequent publications by Roger Heim and Albert Hofmann led to the identification and synthesis of [[psilocybin]]
+- The Wasson expedition and subsequent publications by Roger Heim and Albert Hofmann led to the identification and synthesis of [[psilocybin-compound]]
 
 ## Identification Notes
 

@@ -8,23 +8,15 @@ sources:
   - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
 type: concept
 ---
-
-# PF TEK Contaminant Source Identification
+# [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] Contaminant Source Identification
 
 ## Overview
 
-Contamination is the primary cause of failure in the PF TEK cultivation process. Contaminant invaders appear in various colors from pastels to black, and once they appear, the culture is doomed. However, identifying the source of contamination is essential for correcting technique and preventing recurrence. The PF TEK provides a systematic approach to diagnosing whether contamination originated from inadequate sterilization, a contaminated syringe, or a breached barrier.
-
-## Visual Identification of Contaminants
-
-### Fungal Contaminants
-
-Fungal contaminants manifest as colored growths on or within the substrate. Common appearances include:
+Contamination is the primary cause of failure in the PF TEK cultivation process. Contaminant invaders appear in various colors from pastels to black, and once they appear,growing gourmet six vectors of contaminationdoomed. However, identifying the source of contamination is essential for correcting technique and preventing recurrence. The PF TEK provid [[sterilization-ic-approach-to-diagnosing-whether-contamination-originated-from-inadequate-sterilization,-a-contaminated-syringe,-or-a-breached-barrier.-##-visual-identification-of-contaminants-###-fungal-contaminants-fungal-contaminants-manifest-as-colored-grow-[[trichoderma]] ithin the substrate. Common appearances include:
 
 - Green or blue green patches (Trichoderma and other mold species)
 - Black spots or powdery deposits
-- Pink or salmon colored growths
-- Various pastel colored colonies
+- Pink or salmon colgrowing-gourmet-iconic-types-mushroom-[[mycelium]] rious pastel colored colonies
 
 Any colored growth other than the pure white of mushroom mycelium indicates contamination. The dry vermiculite barrier makes these contaminants visible through the top of the jar, allowing early detection before opening.
 
@@ -39,7 +31,7 @@ Bacterial contamination is detectable through the dry vermiculite layer as a sou
 
 ## The Control Jar Technique
 
-The control jar is the primary diagnostic tool for distinguishing between sterilization failures and inoculation related contamination. This technique isolates the variable of the spore syringe from the sterilization process.
+The control jar is the primary diagnostic tool for distinguishing between sterilization failures and inoculation related contamination. This technique isolates the variable of the [[spore-syringe]] from the sterilization process.
 
 ### Procedure
 
@@ -117,7 +109,7 @@ While spore syringes can survive freezing, extreme low temperatures below freezi
 
 ### Spore Age and Viability
 
-Psilocybe cubensis spores begin to degrade a few months after collection. After approximately 1.5 years, germination will be greatly reduced or will not occur at all. Fresh spores germinate massively and quickly, making spore age an important factor in non germination cases.
+[[psilocybe-cubensis]] spores begin to degrade a few months after collection. After approximately 1.5 years, germination will be greatly reduced or will not occur at all. Fresh spores germinate massively and quickly, making spore age an important factor in non germination cases.
 
 ## The Halted Growth Diagnosis
 
@@ -148,9 +140,3 @@ When contamination or failure occurs, follow this diagnostic sequence:
 By systematically working through each variable, the cultivator can identify and correct the specific cause of failure, improving success rates with each subsequent batch.
 
 ## See Also
-
-- [[pf-tek-steam-sterilization-technique]] for proper sterilization procedure
-- [[pf-tek-dry-vermiculite-contaminant-barrier]] for barrier protection
-- [[inoculation-technique-and-alcohol-flaming]] for sterile inoculation
-- [[mushroom-contaminant-identification-key]] for broader contaminant reference
-- [[pf-tek-canning-jar-lid-configuration]] for lid management during incubation

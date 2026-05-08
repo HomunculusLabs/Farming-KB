@@ -8,7 +8,7 @@ sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
 # Permaculture Beginners Guide — Zones and Sectors
 
-[[graham-burnett]]'s introduction to zones and sectors in "Permaculture: A Beginners Guide" (2001) presents zoning as a practical framework for correct placement — positioning elements in ways that are most appropriate based on frequency of human attention needed. Zones are numbered 0 through 5 as concentric rings moving outward from the center of human activity. See [[permaculture-zones-and-sectors]], [[holmgren-zones-and-sectors-design-framework]], and [[mollison-zone-and-sector-analysis]] for more comprehensive treatments from other sources.
+[[graham-burnett]]'s introduction to zones and sectors in "Permaculture: A Beginners Guide" (2001) presents zoning as a practical framework for correct placement — positioning elements in ways that are most appropriate based on frequency of human attention needed. Zones are numbered 0 through 5 as concentric rings moving outward from the center of human activity. See [[permaculture-zones-and-sectors]], [[permaculture-design]], and [[mollison-zone-and-sector-analysis]] for more comprehensive treatments from other sources.
 
 ## Zoning: Correct Placement
 

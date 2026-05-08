@@ -115,7 +115,7 @@ Follows jurisdiction-specific cannabis regulations. Classified as a controlled s
 - [[purple-haze-cannabis]]
 - [[amnesia-haze]]
 - [[super-lemon-haze]]
-- [[blue-dream-cannabis]]
+- [[blue-dream-strain]]
 - [[jack-herer-cannabis-strain]]
 - [[og-kush]]
 - [[cannabis-sativa]]

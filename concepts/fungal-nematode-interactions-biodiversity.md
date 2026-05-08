@@ -82,7 +82,7 @@ Fungal-nematode interactions are embedded in the larger soil food web. Nematode-
 ## See Also
 
 - [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[mycorrhizal-fungi-bioremediation]]
 - [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-nematode-trapping]]

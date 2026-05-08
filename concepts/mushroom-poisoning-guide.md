@@ -100,6 +100,6 @@ Caused by inhaling massive quantities of puffball (*Lycoperdon*) spores. In 1994
 3. Never taste-test wild mushrooms without expert guidance
 4. LBMs (little brown mushrooms) on wood should always be treated with extreme suspicion — deadly galerinas grow in the same habitat as edible species
 5. Immigrants who forage based on species familiarity from their home country are at elevated risk — *Volvariella volvacea* (paddy straw mushroom) resembles deadly *Amanita* species
-See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], [[mushroom-identification-resources]]
+See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], [[mushroom-cultivation-fundamentals]]
 ## Related
 - [[mushroom-toxicology-palmer-theory]]

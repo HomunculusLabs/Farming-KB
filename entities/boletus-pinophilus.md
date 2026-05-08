@@ -12,9 +12,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 *Boletus pinophilus* (syn. *Boletus pinicola*), commonly known as the pine bolete or pinewood bolete, is a species of edible mushroom in the family Boletaceae. It is one of the most highly prized wild mushrooms in Europe, valued both for its exceptional culinary qualities and for its emerging profile of bioactive compounds with potential medicinal applications, including anti-inflammatory, antioxidant, and anticancer properties.
 
-
-
-
 ## Taxonomy and Description
 
 *Boletus pinophilus* belongs to the *Boletus edulis* species complex, a group of closely related boletes that are among the most commercially important wild-harvested mushrooms in the world. It was long considered a variety or form of *B. edulis* but has been recognized as a distinct species based on morphological, ecological, and molecular evidence.
@@ -25,9 +22,6 @@ The flesh is white, firm, and does not change color when cut—a critical distin
 
 The spore print is olive-brown. Spores are fusiform, measuring 14–18 × 4–6 µm.
 
-
-
-
 ## Distribution and Habitat
 
 *Boletus pinophilus* is found throughout Europe, from the Mediterranean to Scandinavia, and extends into parts of North Africa and western Asia. It has also been reported from North America, though its distribution there is less well documented and may involve distinct pectomycorrhizal-associationss.
@@ -36,9 +30,6 @@ As both the common name and specific epithet suggest, *B. pinophilus* is strongl
 
 The species typically fruits from late summer through autumn, with peak fruiting occurring in September and October. It prefers well-drained, sandy or gravelly soils in mature pine forests and can be found in both lowland and montane habitats.
 
-
-
-
 ## Culinary Significance
 
 *Boletus pinophilus* is widely regarded as one of the finest edible mushrooms, comparable in quality to *B. edulis* (porcini). Its flesh is firm, meaty, and possesses a rich, nutty flavor that intensifies upon drying. The mushroom is versatile in the kitchen and can be used fresh in sautés, risottos, pasta dishes, and soups, or dried and reconstituted for use in sauces, broths, and seasoning blends.
@@ -46,9 +37,6 @@ The species typically fruits from late summer through autumn, with peak fruiting
 Dried *B. pinophilus* develops an intensely concentrated umami flavor that makes it a prized ingredient in Mediterranean and Eastern European cuisines. The dried mushroom is often ground into powder for use as a natural flavor enhancer.
 
 Commercial harvesting of *B. pinophilus* is an important economic activity in many E[[medicinal-mushrooms]]particularly in the Balkans, Eastern Europe, and the Iberian Peninsulbeta-glucansoom is exported both fresh and dried to markets worldwide.
-
-
-
 
 ## Bioactive Compounds and Medicinal Properties
 
@@ -72,17 +60,11 @@ Emerging research has investigated the anticancer potential of *Boletus pinophil
 
 *Boletus pinophilus* is nutritionally rich, containing significant amounts of protein, dietary fiber, B vitamins (particularly thiamine, riboflavin, and niacin), and essential minerals including potassium, phosphorus, selenium, and copper. The mushroom is also a source of ergosterol (provitamin D2), which is converted to vitamin D2 upon exposure to ultraviolet radiation.
 
-
-
-
 ## Conservation and Sustainability
 
 Wild harvesting of *Boletus pinophilus* and related species raises concerns about sustainability, particularly in regions where commercial collection pressure is high. Over-harvesting, habitat destruction, and climate change all threaten wild populations. Sustainable harvesting practices, including leaving a portion of fruiting bodies in place and respecting collection limits, are essential for the long-term viability of wild populations.
 
 Cultivation of *Boletus* species has proven challenging due to their obligate mycorrhizal lifestyle, which requires association with living tree roots. While some progress has been made in mycorrhizal cultivation, commercial cultivation remains limited compared to saprotrophic mushrooms.
-
-
-
 
 ## See Also
 
@@ -90,4 +72,4 @@ Cultivation of *Boletus* species has proven challenging due to their obligate my
 Related: [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 
 - [[porcini-boletus-guide]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]

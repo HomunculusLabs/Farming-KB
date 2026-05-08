@@ -148,4 +148,3 @@ reproduced every three years to maintain viability.
 
 See also:
 [[cannabis-maturation-and-harvest-by-latitude-clarke]]
-[[cannabis-resin-production-and-quality-traits-clarke]]

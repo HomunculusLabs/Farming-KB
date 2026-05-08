@@ -93,7 +93,7 @@ Ultimately, Fukuoka's health philosophy was inseparable from his [[fukuoka-do-no
 
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-natural-diet-philosophy]]
 

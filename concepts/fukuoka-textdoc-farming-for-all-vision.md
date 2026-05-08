@@ -148,4 +148,3 @@ be needed, and the problem of pollution would be licked.
 
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-- [[fukuoka-village-self-sufficient-community]]

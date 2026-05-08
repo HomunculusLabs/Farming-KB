@@ -1,18 +1,18 @@
 ---
-title: Fukuoka's Five Principles of Natural Farming
+title: Fukuoka's Five Principles of [[natural-farming]]
 created: 2026-04-28
 tags: [natural-farming, permaculture, no-till, organic, philosophy, fukuoka, regenerative-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-    author: Masanobu Fukuoka
+    author: [[masanobu-fukuoka]]
     title: The Natural Way of Farming
     pages: 1-135
 type: concept
 ---
-# Fukuoka's Five Principles of Natural Farming
-Masanobu Fukuoka's natural farming philosophy rests on five foundational
+# Fukuoka's [[natural-farming-five-principles]] of Natural Farming
+Masanobu Fukuoka's [[natural-farming-philosophy]] rests on five foundational
 principles that challenge the core assumptions of modern agriculture.
 Developed over fifty years of experimentation on his farm in Ehime
 Prefecture, Japan, these principles reject the idea that human
@@ -50,7 +50,7 @@ Even manure and compost, while helpful for speeding crop growth,
 ultimately deplete the land from which the organic material is taken.
 Fukuoka relied entirely on the natural fertility cycle: clover and
 other legumes fix nitrogen, straw mulch returns organic matter, and
-the soil food web makes nutrients available in a balanced manner.
+[[the-soil-food-web]] makes nutrients available in a balanced manner.
 Fukuoka was critical of organic farming, calling it "just another type
 of scientific farming." The effort to transport, process, and apply
 organic amendments produces only local and temporal gains. When
@@ -70,12 +70,12 @@ microorganisms, and the predator-prey relationships that naturally
 keep pest populations in check.
 Fukuoka illustrated this complexity with pine wilt disease in Japan.
 Conventional wisdom blamed the pinewood nematode, but his observations
-revealed a cascade: soil acidification killed matsutake mushrooms
+revealed a cascade: soil acidification killed [[matsutake-mushroom]] s
 (symbionts on pine roots), followed by parasitic mold fungi, and only
 then by nematode infestation. The aerial spraying of forests with
 herbicides kills fungi that decompose fallen leaves, destroying
 earthworm habitats. PCP herbicide acts as bactericide and fungicide
-simultaneously, disrupting the entire soil food web.
+simultaneously, disrupting the entire [[soil-food-web]].
 Treating soil with chloropicrin temporarily alleviates bacterial soft
 rot but kills the bacteria that moderate disease severity, causing
 outbreaks to worsen two years later. Instead of trying to bring nature
@@ -147,13 +147,3 @@ flooding briefly in early summer. These results demonstrate the five
 principles are a practical, productive farming system applicable
 everywhere.
 ## See Also
-
-- [[natural-farming-principles-fukuoka]]
-
-- [[clay-pellet-seed-encapsulation]]
-- [[masanobu-fukuoka]]
-- [[matsutake-mushroom]]
-[[masanobu-fukuoka]]
-[[no-tillage rice-barley succession cropping]]
-[[clay pellet seed encapsulation]]
-[[natural diet philosophy]]

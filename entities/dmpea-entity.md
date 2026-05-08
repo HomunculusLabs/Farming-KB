@@ -82,7 +82,7 @@ Each of these drove productive research but ultimately proved more complicated t
 - [[dmmda-compound-profile]] (for comparison of more complex substitution patterns)
 - [[2c-family-compounds-overview]]
 - [[lsd-synthesis-history]]
-- [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
 
 ## Significance
 

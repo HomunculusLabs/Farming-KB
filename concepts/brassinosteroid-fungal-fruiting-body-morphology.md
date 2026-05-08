@@ -115,6 +115,6 @@ morphology, so the risk of misidentification in practice is limited.
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
-- [[psilocybe-cubensis-introduction-americas-slave-trade]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[phytohormone-cross-kingdom-fungal-effects]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]

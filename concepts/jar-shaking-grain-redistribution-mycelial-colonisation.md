@@ -140,18 +140,6 @@ disrupts the mycelial network. To minimise contamination risk during and after
 shaking:
 
 - Shake in a clean environment, ideally in front of a laminar flow hood or
-  inside a still air box constructed from a simple cardboard box.
-- Wash hands thoroughly or wear gloves before handling jars.
-- Ensure jar filters are intact and properly seated before shaking.
-- Minimise the time that jars are open or unfiltered.
-- After shaking, return jars to a clean, draft-free incubation location
-  promptly.
-
-The speed advantage conferred by proper shaking technique is itself a
-contamination prevention measure: faster colonisation means less time during
-which the substrate is vulnerable to competing organisms that might be
-introduced during inoculation or through filter breaches.
-
 ## See Also
 
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]

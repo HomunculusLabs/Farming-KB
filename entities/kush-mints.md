@@ -138,7 +138,7 @@ pinnacle of Seed Junky Genetics' breeding program.
 ## See Also
 
 - [[bubba-kush]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[gelato-cannabis]]
 - [[linalool]]
 - [[myrcene]]

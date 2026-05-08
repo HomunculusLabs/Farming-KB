@@ -148,4 +148,3 @@ most [[permaculture-earthworks]]; larger machinery suits broadscale reshaping.
 > grade stabilization structures that slow water flow, reduce runoff velocity,
 > capture sediment, and create conditions for vegetation re-establishment. In
 > permaculture, these earthworks integrate with water harvesting, soil building,
-> and revegetation strategies to halt land degradation and restore productive

@@ -148,6 +148,3 @@ constantly and that fruit trees adapt continuously to such changes.
 - [[fukuoka-orchard-herbs-cover-crop-classification]] Concepts
 
 - [[fukuoka-theory-three-ways-of-farming]] for the philosophical framework
-- [[fukuoka-theory-principle-of-non-causality]] for why intervention often
-  fails
-- [[fukuoka-stopping-desert-advance-natural-revegetation]] for broader

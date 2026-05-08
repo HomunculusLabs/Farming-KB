@@ -142,7 +142,7 @@ Acute toxicity studies in rodents have shown that aqueous and ethanolic extracts
 
 ## See Also
 
-- [[acalypha-racemosa]]
+- acalypha racemosa
 - [[amazonian-medicinal-plants-in-amaringos-visions]]
 - [[termitomyces-african-mushrooms]]
 - [[herbal-medicine-history]]

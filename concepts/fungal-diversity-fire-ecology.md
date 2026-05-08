@@ -10,7 +10,7 @@ sources: []
 
 Fire plays a profound role in shaping fungal communities. Phoenicoid fungi are a specialized group that fruit exclusively on heat-treated substrata, and fire-mediated changes in soil chemistry, vegetation, and microclimate dramatically alter fungal assemblages.
 
-[[fire-associated-fungi]] [[fungal-ecology-forest-floor]] [[fungal-communities-extreme-environments]]
+[[fire-associated-fungi]] [[the-soil-food-web]] [[fungal-communities-extreme-environments]]
 
 ## Phoenicoid Fungi
 
@@ -78,7 +78,7 @@ The mechanisms triggering phoenicoid fungal fruiting are not fully understood. S
 
 The depth of burn plays a major role in determining post-fire fungal communities. Surface fires and ground fires produce different heating patterns and therefore select for different fungal assemblages.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[fungal-environmental-sensing]]
 ## Fire Management and Fungal Conservation
 
 Prescribed burning practices affect fungal communities differently depending on fire intensity, frequency, and season. Low-intensity surface fires that preserve the organic soil horizon maintain much of the soil fungal community, while intense crown fires that consume the organic layer can devastate soil fungi for years. The recovery of post-fire fungal communities has implications for forest regeneration — mycorrhizal fungi are essential for tree seedling establishment, and their loss after severe fire can delay or alter successional trajectories. In regions where fire suppression has been the norm, reintroducing prescribed fire may actually benefit fungal diversity by creating the disturbed habitats that phoenicoid and early-successional species require. Fire managers are increasingly considering fungal community responses in burn planning, recognizing that [[fungal-community-assembly]] processes are integral to post-fire ecosystem recovery.
@@ -90,5 +90,5 @@ Certain fungal species serve as reliable indicators of fire history and severity
 ## Related
 
 - [[fungal-biodiversity]]
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[fungal-succession-in-decomposition]]

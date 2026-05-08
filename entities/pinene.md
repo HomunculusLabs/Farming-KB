@@ -12,26 +12,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-l
 
 Pinene (bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-) is a bicyclic monoterpene that exists as two structural isomers: α-pinene and β-pinene. It is the most abundant terpene in the global biosphere and a significant constituent of cannabis (*Cannabis sativa*) essential oil. Pinene is distinguished among cannabis terpenes for its bronchodilatory, memory-enhancing, anti-inflammatory, and antimicrobial properties, and is of particular interest for its ability to counteract the short-term memory impairment associated with THC consumption.
 
-
-
-
 ## Chemical Properties
 
 Pinene exists in two isomeric forms. α-Pinene (C10H16) is the more abundant isomer in nature, with a characteristic fresh pine needle aroma and a bicyclic structure containing a six-membered ring fused to a four-membered ring. β-Pinene is less abundant, with a drier, more resinous, earthy-pine aroma, sharing the same molecular formula but differing in the position of the double bond.
 
 Both isomers are colorless liquids at room temperature with characteristic pine aromas. They are lipophilic, volatile, and readily soluble in organic solvents. α-Pinene has a boiling point of approximately 156°C, while β-pinene boils at approximately 166°C.
 
-
-
-
 ## Natural Occurrence
 
 Pinene is the single most abundant terpene released by vegetation worldwide and plays a major role in atmospheric chemistry. Conifer trees (pine, fir, spruce, and cedar) are the primary natural source. In cannabis, pinene is a significant terpene in many cultivars, particularly those with piney, earthy aromas such as OG Kush, Jack Herer, and Blue Dream. Rosemary, eucalyptus, juniper, dill, and parsley are additional notable sources.
 
 Global biogenic emission of pinene is estimated at tens of millions of tons per year, making it one of the most important biogenic volatile organic compounds (BVOCs) in the atmosphere.
-
-
-
 
 ## Role in Cannabis
 
@@ -46,9 +37,6 @@ One of the most notable properties of pinene in the context of cannabis is its a
 ### Bronchodilatory Effects
 
 Both α- and β-pinene relax bronchial smooth muscle, widening the airways and improving airflow. This bronchodilatory effect is potentially beneficial for cannabis users with asthma, COPD, or other respiratory conditions. The bronchodilatory effects of inhaled pinene may partially offset airway irritation caused by cannabis smoke.
-
-
-
 
 ## Pharmacological Properties
 
@@ -72,15 +60,9 @@ Pinene exhibits mild analgesic activity through anti-inflammatory effects, modul
 
 Emerging evidence suggests anticancer potential for pinene, including induction of apoptosis in cancer cell lines, anti-proliferative effects against breast, colon, and prostate cancer cells, and potential chemopreventive activity through antioxidant and anti-inflammatory mechanisms.
 
-
-
-
 ## Cultivation Factors Affecting Pinene Content
 
 Pinene levels in cannabis are influenced by genetics (strong genetic determination), temperature (cooler conditions favor higher pinene production), light exposure (adequate light intensity supports terpene biosynthesis), harvest timing (pinene may peak earlier in the flowering cycle compared to myrcene), and curing conditions (proper low-temperature, slow-drying preserves pinene content).
-
-
-
 
 ## Safety Profile
 

@@ -100,10 +100,10 @@ A more productive framing is the distinction between managed and unmanaged lands
 ## See Also
 
 - [[permaculture-bioregional-organization]]
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[permaculture-community-resilience-strategies]]
 - [[urban-permaculture-food-forest-succession]]
 - [[urban-permaculture-trees-water-cycling]]
-- [[permaculture-seed-saving-and-selection]]
+- [[permaculture-design]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]

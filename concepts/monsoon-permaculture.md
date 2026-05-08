@@ -83,7 +83,7 @@ The goal of monsoon permaculture is not to replace these traditional systems but
 
 [[permaculture-climate-zones]]
 
-[[permaculture-climate-classification]]
+[[permaculture-design]]
 
 [[tropical-permaculture-guide]]
 

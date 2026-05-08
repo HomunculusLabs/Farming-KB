@@ -51,11 +51,11 @@ Fungi emit various nitrogenous volatiles including ammonia, indole, 2-methylprop
 
 ### Primary Metabolism-Derived FVOCs
 
-Many FVOCs are byproducts of primary metabolic pathways. Glycolysis yields ethanol and acetone; the Ehrlich pathway converts amino acids to fusel alcohols and their corresponding aldehydes and acids. Leucine, isoleucine, and valine catabolism produces 3-methyl-1-butanol, 2-methyl-1-butanol, and isobutanol respectively. The fatty acid oxidation pathway generates a series of alkanes, alkenes, and methyl ketones with chain lengths of C7–C12.
+Many FVOCs are byproducts of [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways. Glycolysis yields ethanol and acetone; the Ehrlich pathway converts amino acids to fusel alcohols and their corresponding aldehydes and acids. Leucine, isoleucine, and valine catabolism produces 3-methyl-1-butanol, 2-methyl-1-butanol, and isobutanol respectively. The fatty acid oxidation pathway generates a series of alkanes, alkenes, and methyl ketones with chain lengths of C7–C12.
 
 ### Secondary Metabolism-Derived FVOCs
 
-Terpenoid FVOCs are synthesized by terpene synthases and cytochrome P450 enzymes from farnesyl pyrophosphate (FPP) and geranylgeranyl pyrophosphate (GGPP) precursors. Polyketide-derived volatiles include 6-PP and various aromatic lactones. Non-ribosomal peptide synthesis can also yield volatile products, particularly nitrogen-containing compounds. The ecological significance of a given FVOC often correlates with its biosynthetic origin—primary metabolite derivatives tend to function as metabolic signals, while secondary metabolite derivatives are more often involved in defense and interspecies interactions.
+Terpenoid FVOCs are synthesized by terpene synthases and [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes from farnesyl pyrophosphate (FPP) and geranylgeranyl pyrophosphate (GGPP) precursors. Polyketide-derived volatiles include 6-PP and various aromatic lactones. Non-ribosomal peptide synthesis can also yield volatile products, particularly nitrogen-containing compounds. The ecological significance of a given FVOC often correlates with its biosynthetic origin—primary metabolite derivatives tend to function as metabolic signals, while secondary metabolite derivatives are more often involved in defense and interspecies interactions.
 
 ## Ecological Functions
 
@@ -77,7 +77,7 @@ In contrast, some FVOCs are bactericidal. Benzaldehyde, 2-nonanone, and various 
 
 Several FVOCs produced by plant-growth-promoting fungi (PGPF) stimulate seed germination, root elongation, and biomass accumulation. The volatile 2,3-butanediol, produced by *Trichoderma asperellum* and some rhizobacteria, triggers the salicylic acid and jasmonic acid pathways in plants, priming systemic defenses. *Phoma* sp. GS8-3 produces a volatile blend that stimulates Arabidopsis biomass increase of over 50% in sealed co-culture experiments, even without any physical contact.
 
-Endophytic fungi such as *Serendipita indica* (formerly *Piriformospora indica*) emit volatiles that promote root hair formation and branching, effectively expanding the root surface area for nutrient uptake. These effects are concentration-dependent; low concentrations stimulate growth while high concentrations can be phytotoxic.
+Endophytic fungi such as *Serendipita indica* (formerly *[[piriformospora-indica-in-plant-fungal-co-culture]]*) emit volatiles that promote root hair formation and branching, effectively expanding the root surface area for nutrient uptake. These effects are concentration-dependent; low concentrations stimulate growth while high concentrations can be phytotoxic.
 
 #### Defense Priming
 
@@ -85,13 +85,13 @@ FVOCs can prime plant immune responses against pathogens and herbivores. Exposur
 
 #### Mycelium Signaling in Mycorrhizal Networks
 
-Arbuscular mycorrhizal fungi (AMF) produce volatile sesquiterpenes and other compounds that may serve as signals within common mycorrhizal networks (CMNs). While the role of soluble exudates in CMN-mediated interplant signaling is well established, the contribution of volatile signals traveling through soil air spaces is an emerging area of research. Experiments with split-root systems suggest that FVOCs from AMF hyphae can transmit drought stress signals between connected plants faster than soluble signals alone.
+Arbuscular mycorrhizal fungi (AMF) produce volatile sesquiterpenes and other compounds that may serve as signals within common [[mycorrhizal-networks-and-forest-communication]] (CMNs). While the role of soluble exudates in CMN-mediated interplant signaling is well established, the contribution of volatile signals traveling through soil air spaces is an emerging area of research. Experiments with split-root systems suggest that FVOCs from AMF hyphae can transmit drought stress signals between connected plants faster than soluble signals alone.
 
 ### Fungal-Insect Interactions
 
-FVOCs play critical roles in fungal-insect relationships, spanning the spectrum from mutualism to parasitism. Bark beetles (*Scolytus* and *Ips* species) carry spores of symbiotic fungi (*Ophiostoma* and *Grosmannia* species) and are attracted to volatile blends including ethanol and monoterpenes produced by these fungi, creating a positive feedback loop that concentrates beetle attacks on suitable host trees.
+FVOCs play critical roles in fungal-insect relationships, spanning the spectrum from mutualism to parasitism. Bark beetles (*Scolytus* and *Ips* species) carry spores of [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] (*Ophiostoma* and *Grosmannia* species) and are attracted to volatile blends including ethanol and monoterpenes produced by these fungi, creating a positive feedback loop that concentrates beetle attacks on suitable host trees.
 
-Cordyceps and other entomopathogenic fungi produce volatile compounds that attract insect hosts to fruiting bodies, facilitating spore dispersal. Conversely, some fungi produce volatile repellents that deter fungivorous arthropods. The cheese mite (*Acarus siro*) is repelled by certain *Penicillium* volatiles, while other volatiles from the same genus attract the same mite, demonstrating the specificity of these chemical signals.
+Cordyceps and other [[entomopathogenic-fungi-and-biological-pest-control]] produce volatile compounds that attract insect hosts to fruiting bodies, facilitating spore dispersal. Conversely, some fungi produce volatile repellents that deter fungivorous arthropods. The cheese mite (*Acarus siro*) is repelled by certain *Penicillium* volatiles, while other volatiles from the same genus attract the same mite, demonstrating the specificity of these chemical signals.
 
 ## Environmental Factors Affecting FVOC Production
 
@@ -161,7 +161,7 @@ Cross-reactive sensor arrays ("electronic noses") provide rapid, low-cost FVOC s
 
 ## FVOCs in the Context of Climate Change
 
-Climate change is expected to alter FVOC production and dynamics in several ways. Rising temperatures may shift fungal community composition toward thermotolerant species with different volatile profiles. Increased atmospheric CO₂ concentrations have been shown to alter fungal secondary metabolism in some species, potentially changing both the quantity and composition of emitted volatiles. More frequent drought events may increase the air-filled porosity of soils, extending the effective diffusion distance of FVOCs and potentially intensifying fungal-fungal and fungal-plant volatile signaling.
+Climate change is expected to alter FVOC production and dynamics in several ways. Rising temperatures may shift fungal community composition toward thermotolerant species with different volatile profiles. Increased atmospheric CO₂ concentrations have been shown to alter fungal secondary metabolism in some species, potentially changing both the quantity and composition of emitted volatiles. More frequent drought events may increase the air-filled porosity of soils, extending the effective diffusion distance of FVOCs and potentially intensifying fungal-fungal and fungal-[[plant-volatile-organic-compounds-and-chemical-ecology]] signaling.
 
 FVOCs also play an underappreciated role in atmospheric chemistry. Certain fungal terpenes react with hydroxyl radicals and ozone, contributing to secondary organic aerosol formation. Global estimates suggest that fungal VOCs constitute approximately 5–10% of total biogenic VOC emissions, a significant contribution that is not yet well-integrated into atmospheric chemistry models.
 
@@ -177,4 +177,4 @@ Key research frontiers include:
 
 - **Field-scale volatile ecology**: Most FVOC research has been conducted in laboratory microcosms; scaling up to field conditions requires accounting for wind dispersion, soil adsorption, and atmospheric chemistry.
 
-- **FVOC-mediated fungal networking**: The extent to which FVOCs contribute to information transfer within mycorrhizal networks and larger soil fungal communities is only beginning to be understood.
+- **FVOC-mediated fungal networking**: The extent to which FVOCs contribute to information transfer within mycorrhizal networks and larger [[soil-fungal-diversity-wisconsin-survey-global-patterns]] communities is only beginning to be understood.

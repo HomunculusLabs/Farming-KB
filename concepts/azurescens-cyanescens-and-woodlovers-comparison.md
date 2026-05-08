@@ -111,7 +111,7 @@ Despite differences, both methods agree on core principles:
 ## See Also
 
 - [[psilocybe-azurescens-profile]] — detailed species profile
-- [[psilocybe-cyanescens-profile]] — P. cyanescens profile
+- [[psychedelic-mushrooms-species-and-identification]] — P. cyanescens profile
 - [[psilocybe-woodlovers-species-guide]] — broader woodlovers guide
 - [[outdoor-woodlover-mushroom-cultivation]] — combined cultivation overview
 - [[azurescens-outdoor-bed-preparation-woodchips]] — azurescens bed prep

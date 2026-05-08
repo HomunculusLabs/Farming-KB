@@ -117,14 +117,14 @@ Margin plants do not grow in water but derive extra moisture from moist soils at
 - Rotate aquatic crops (rice, water chestnut, taro) for soil health and pest management
 - Introduce plankton from established systems to kickstart aquatic food webs
 - Use Typha and Phragmites for water filtration and bank stabilisation around permaculture-earthworks|earthworks
-- See also [[permaculture-plant-selection]] for complete species listings and [[difficult-site-planting]] species for waterlogged conditions
+- See also [[permaculture-plant-selection]] for complete species listings and [[organic-vegetable-growing-and-market-gardening]] species for waterlogged conditions
 
 ## Related
 
 - [[permaculture-plant-selection]]
-- [[water-plant-guide]]
+- [[aquatic-plants-and-pond-ecosystems]]
 - [[holzer-livestock-integration]]
-- [[difficult-site-planting]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[permaculture-salt-tolerant-fodder-plants]]

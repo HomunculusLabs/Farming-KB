@@ -77,7 +77,7 @@ The fruit contains over 160 phytochemicals, with the most studied being:
 | **Rutin** | Flavonoid glycoside | Antioxidant, capillary strengthening |
 | **Quercetin** | Flavonol | Anti-inflammatory, antihistamine, antioxidant |
 | **β-Sitosterol** | Phytosterol | Lipid-lowering, immunomodulatory |
-| **Ursolic acid** | Triterpenoid | Anti-inflammatory, hepatoprotective |
+| **[[ursolic-acid]]** | Triterpenoid | Anti-inflammatory, hepatoprotective |
 | **Noni-ppt** | Polysaccharide | Immunomodulatory (non-specific immune activation) |
 | **Proxeronine / Xeronine** | Alkaloid precursor | Controversial; proposed by Heinicke but not widely replicated |
 
@@ -134,63 +134,13 @@ Noni is an exceptionally valuable species for tropical permaculture systems due 
 | Root | Red dye (traditional tapa cloth) |
 | Wood | Tool handles, firewood (low density, burns fast) |
 
-### Food Forest Integration
+### [[food-forest]] Integration
 - Canopy mid-layer or understory tree depending on placement
 - Tolerates partial shade but fruits best in full sun
 - Deep taproot accesses subsoil nutrients, bringing them to the surface via leaf litter
 - Dropped fruit decomposes rapidly, cycling nutrients
 - Pest-resistant — few insect or disease problems in most locations
 - Salt-tolerant — suitable for coastal food forests
-
-### Companion Planting
-- **Compatible with:** Coconut, breadfruit, banana, papaya, taro, sweet potato (understory)
-- **Avoid planting near:** Sensitive crops that may be outcompeted by noni's vigorous root system
-- **Animal integration:** Goats and pigs will eat fallen fruit; chickens forage under noni trees
-
-## Cultivation
-
-| Parameter | Specification |
-|-----------|--------------|
-| Propagation | Seed (most common), stem cuttings, air layering |
-| Seed treatment | Soak 24 hours; remove pulp; sow 1 cm deep |
-| Germination | 3–8 weeks; 60–80% viability; seed viability 6–12 months |
-| Transplant | At 20–30 cm height; 3–6 months from seed |
-| Spacing | 3–5 m between trees |
-| First fruit | 9–18 months from planting |
-| Full production | 3–5 years |
-| Annual yield | 20–80 kg fruit/tree (mature) |
-| Lifespan | 20–40+ years |
-
-### Maintenance
-- Extremely low maintenance once established
-- No irrigation needed in areas with >500 mm annual rainfall
-- No fertilizer required (but responds to organic amendments)
-- Prune to maintain harvest height (2–4 m) if convenient access desired
-- Harvest ripe fruit daily or every 2–3 days during peak season
-
-### Pests & Diseases
-Noni is remarkably pest-resistant:
-- **Fruit flies** — occasional; ripe fruit attracts *Bactrocera* species
-- **Scales and mealybugs** — rare, usually on stressed plants
-- **Root knot nematode** — can affect seedlings in infested soils
-- **Fungal leaf spot** — cosmetic only; no treatment needed
-
-## Food & Processing
-
-The ripe fruit's pungent odor makes it challenging for fresh consumption, but various traditional and modern processing methods improve palatability:
-- **Noni juice** — most common commercial product; fruit fermented 2–6 months, then pressed
-- **Noni powder** — dehydrated ripe fruit, ground; used in capsules and smoothies
-- **Noni leather** — fruit pulp dried into sheets (Hawaiian traditional method)
-- **Pickled noni** — unripe fruit salted and fermented (Southeast Asian preparation)
-- **Noni leaf tea** — dried leaves steeped 5–10 minutes; milder, earthy flavor
-
-## Safety
-
-Noni is generally well-tolerated:
-- **Hepatotoxicity concerns:** Several case reports (2005–2011) linked noni juice to hepatotoxicity, but causality has been debated — most cases involved pre-existing liver conditions or concurrent hepatotoxic medications. The European Food Safety Authority (EFSA) reviewed the evidence in 2021 and found no conclusive causal link at normal consumption levels.
-- **Potassium content:** Noni juice is high in potassium — caution in patients with renal failure or those on potassium-sparing diuretics
-- **Pregnancy:** Traditional use discourages consumption during pregnancy due to uterotonic effects observed in animal studies
-- **Drug interactions:** Theoretical interaction with ACE inhibitors (additive hypotensive effect) and warfarin
 
 ## See Also
 

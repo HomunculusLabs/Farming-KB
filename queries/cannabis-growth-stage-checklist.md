@@ -67,7 +67,7 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-
 **What to watch for**:
 - Root-bound symptoms (rapid wilting, yellowing, nutrient lockout)
 - Overwatering (droopy leaves, slow growth, algae on soil surface)
-- Pest activity (spider mites, gnats, thrips) -- see [[cannabis-pest-management]]
+- Pest activity (spider mites, gnats, thrips) -- see cannabis pest management
 - Plants outgrowing their space (flip to flower or train harder)
 **Tasks**: Final LST adjustments. ScrOG tucking if using screen. Evaluate plant height -- indica flip at 12-18 inches, sativa at 18-24 inches. Ensure 6-8+ main branch nodes before flipping. Clean grow room thoroughly before the flip.
 ---
@@ -145,4 +145,4 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-
 - [[cannabis-harvest-and-curing]] — trichome assessment, drying, curing
 - [[cannabis-harvest-and-curing]] — complete harvest and cure walkthrough
 - [[cannabis-lighting-guide]] — PPFD and spectrum targets by stage
-- [[cannabis-pest-management]] — IPM for indoor grows
+- cannabis pest management — IPM for indoor grows

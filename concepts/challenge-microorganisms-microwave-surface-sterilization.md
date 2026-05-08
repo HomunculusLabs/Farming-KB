@@ -21,7 +21,7 @@ The NASA Johnson Space Center microwave surface sterilization program (MSC-22484
 
 ## Purpose of Biological Challenge Organisms
 
-In sterilization validation, [[biological indicators]] are standardized microorganisms used to confirm that a sterilization process achieves its intended lethality. The choice of challenge organisms is critical because it determines the safety margin of the validated protocol. An effective challenge panel must include organisms that represent the range of resistance likely to be encountered in practice, with the most resistant member defining the minimum treatment parameters required for complete kill.
+In sterilization validation, [[biological-indicators]] are standardized microorganisms used to confirm that a sterilization process achieves its intended lethality. The choice of challenge organisms is critical because it determines the safety margin of the validated protocol. An effective challenge panel must include organisms that represent the range of resistance likely to be encountered in practice, with the most resistant member defining the minimum treatment parameters required for complete kill.
 
 The NASA program selected three organisms based on their relevance to closed environmental systems (particularly spacecraft) and their differing resistance mechanisms to microwave irradiation. Testing against a mixed population rather than individual organisms provided more realistic data, as actual surface contamination typically involves multiple organism types simultaneously.
 
@@ -37,7 +37,7 @@ Key characteristics relevant to microwave sterilization:
 - Spore structure includes a thick cortex, multilayered coat, and low core water content
 - The dehydrated spore core limits dielectric heating by microwave energy
 - Spores can survive dry microwave irradiation that is fully lethal to vegetative cells
-- Requires the [[trace water flash steam microwave sterilization]] protocol for complete destruction
+- Requires the [[trace-water-flash-steam-microwave-sterilization]] protocol for complete destruction
 
 In the NASA experiments, B. pumilus demonstrated the highest surviving fraction after dry microwave irradiation at all exposure levels tested. Its persistence at low moisture conditions established the requirement for the trace water enhancement protocol, without which the system could not claim complete sterilization capability.
 
@@ -82,7 +82,7 @@ Initial combined surface populations of approximately 2 x 10^5 Colony Forming Un
 
 ## Kill Kinetics by Organism Type
 
-The [[microwave microbial kill curves]] revealed distinct susceptibility patterns across the three organisms when exposed at a rate of 3.6 W per cm^2 of surface area:
+The [[microwave-microbial-kill-curves]] revealed distinct susceptibility patterns across the three organisms when exposed at a rate of 3.6 W per cm^2 of surface area:
 
 ### Vegetative Cell Response (E. coli and P. cepacia)
 
@@ -108,7 +108,7 @@ Any protocol validated against the full panel at Tier 3 provides a wide safety m
 
 ## Relevance to Mushroom Cultivation
 
-The three challenge organisms represent contamination risks relevant to [[mushroom cultivation]] and [[mycology]]. Bacterial contamination from spore-forming Bacillus species is a persistent problem in [[grain spawn]] preparation and [[substrate sterilization]]. Gram-negative organisms like Pseudomonas species cause [[bacterial blotch]] and other diseases on mushroom fruiting bodies. Understanding the differential susceptibility of these organisms to microwave energy informs [[microwave sterilization]] strategies for mycological applications.
+The three challenge organisms represent contamination risks relevant to [[mushroom-cultivation]] and [[mycology]]. Bacterial contamination from spore-forming Bacillus species is a persistent problem in [[grain-spawn]] preparation and [[substrate-sterilization]]. Gram-negative organisms like Pseudomonas species cause [[bacterial-blotch]] and other diseases on mushroom fruiting bodies. Understanding the differential susceptibility of these organisms to microwave energy informs [[microwave-sterilization]] strategies for mycological applications.
 
 ## Biological Indicator Standards
 
@@ -126,12 +126,12 @@ Understanding the differential susceptibility of the three challenge organisms h
 
 ## See Also
 
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 
-- [[microwave microbial kill curves]] for detailed exposure data
-- [[dry microwave irradiation and bacterial spore resistance]] for spore survival mechanisms
-- [[trace water enhanced microwave surface sterilization]] for the enhanced protocol
-- [[microwave sterilizable access port]] for the NASA hardware application
-- [[surface sterilization methods comparison]] for alternative approaches
-- [[microwave surface sterilization core concept]] for the underlying technology
+- [[microwave-microbial-kill-curves]] for detailed exposure data
+- [[dry-microwave-irradiation-and-bacterial-spore-resistance]] for spore survival mechanisms
+- [[trace-water-enhanced-microwave-surface-sterilization]] for the enhanced protocol
+- [[microwave-sterilizable-access-port]] for the NASA hardware application
+- [[surface-sterilization-methods-comparison]] for alternative approaches
+- [[microwave-surface-sterilization-core-concept]] for the underlying technology

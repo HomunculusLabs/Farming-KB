@@ -16,7 +16,7 @@ type: entity
   Psilocybe semperviva (Heim and Callieux)
 
 ## Overview
-Psilocybe hoogshagenii is a moderately to highly active [[psilocybin]]
+Psilocybe hoogshagenii is a moderately to highly active [[psilocybin-compound]]
 mushroom from subtropical Mexico, Brazil, Colombia, and Argentina.
 One of the most unusual-looking Psilocybes, it features an extended
 acute papilla up to 4 mm long, giving it a distinctive profile. It

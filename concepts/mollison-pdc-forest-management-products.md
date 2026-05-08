@@ -148,4 +148,3 @@ plant a tree was twenty years ago. The second best time is today."
 Forests take decades to mature but provide increasing returns over
 centuries. The permaculture designer must think in terms of generational
 timeframes, planting trees whose fruits will be harvested by their
-children and grandchildren.

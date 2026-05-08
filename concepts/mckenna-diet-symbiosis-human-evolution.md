@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-In Chapter 2 of *Food of the Gods*, titled "Magic in Food," [[terence-mckenna-stoned-ape-hypothesis]] presents his argument for what he calls **"The Real Missing Link"** — the possibility that the dramatic tripling of hominid brain size over approximately three million years cannot be adequately explained by natural selection acting on random mutations alone.
+In Chapter 2 of *Food of the Gods*, titled "Magic in Food," [[psychedelic-mushrooms-species-and-identification]] presents his argument for what he calls **"The Real Missing Link"** — the possibility that the dramatic tripling of hominid brain size over approximately three million years cannot be adequately explained by natural selection acting on random mutations alone.
 
 McKenna proposes that early hominids in the African tropics encountered psilocybin-containing mushrooms as part of their foraging behavior, and that the psychoactive compounds in these fungi acted as a powerful selective pressure driving neurological expansion and behavioral modernization.
 
@@ -137,4 +137,4 @@ McKenna's diet symbiosis theory remains one of the most provocative and widely d
 
 - Connecting the study of human evolution to the broader field of [[cultural-evolution-and-psychoactive-substances]]
 
-The theory represents a foundational element of [[terence-mckenna-stoned-ape-hypothesis]] and continues to inspire research and debate at the intersection of ethnobotany, neuroscience, and evolutionary biology.
+The theory represents a foundational element of [[psychedelic-mushrooms-species-and-identification]] and continues to inspire research and debate at the intersection of ethnobotany, neuroscience, and evolutionary biology.

@@ -12,14 +12,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - eliot-coleman-winter-harvest-handbook.md
+  - eliot-[[coleman-winter-day-length-and-persephone-months]]-harvest-handbook.md
 created: 2026-04-28
 type: concept
 ---
-
 # Overwintered Onions and Early Spring Crop Production
 
-Overwintered onions represent one of the most strategically valuable crops in the year-round production system, providing a harvest that precedes spring-planted onions by five or more weeks. Eliot Coleman's approach to overwintered onions and companion early spring crops demonstrates how precise timing and variety selection can unlock additional weeks of marketable production.
+Overwintered onions represent one of the most strategically valuable crops in the year-round production system, providing a harvest that precedes spring-planted onions by five or more weeks. [[eliot-coleman]]'s approach to overwintered onions and companion early spring crops demonstrates how precise timing [[coleman-winter-greens]]-variety-selectiontion can unlock additional weeks of marketable production.
 
 ## Overwintered Onion System
 
@@ -30,9 +29,9 @@ The overwintered onion system exploits the hardiness of certain onion varieties 
 Two overwintered onion varieties have proven successful:
 
 - 'Walla Walla Sweet': A well-known sweet onion variety that produces large, mild bulbs
-- 'Olympic': Another overwintering variety that reliably survives cold winters and matures early
+- 'Olympic': Another overwintering variety that reliably survives cold wholzer-[[fruit-tree-pruning]] llison-designers-bee-forage-tree-planting]]-methodres early
 
-### Planting Method
+### [[holzer-fruit-tree-planting-method]]
 
 Onions are planted at five rows per 30-inch bed. This dense spacing serves a dual-purpose strategy:
 
@@ -52,19 +51,7 @@ Overwintered onions are initially protected under mobile greenhouses starting in
 
 A separate early onion production system uses purchased transplants:
 
-- Onion plants are purchased from Texas growers and set out in the cool house during the first week of January
-- The varieties chosen are the same short-day types traditionally grown in Vidalia, Georgia
-- Harvest occurs in early May, approximately the same time as the Vidalia crop
-- The plants produce very large, sweet, round bulbs that are popular with local restaurants looking for an early-season specialty crop to feature on their menus
-
-This system leverages the just-above-freezing temperature of the cool house to produce a crop that would be impossible in unheated structures at that time of year, while using the same day-length-adapted varieties that succeed in the Deep South.
-
-## Winter Scallions
-
-Winter scallions (green onions) are extremely cold-hardy crops that can even be harvested frozen and recover nicely when thawed. Despite this agronomic advantage, Coleman found the economics challenging:
-
-- Southern growers dump field-grown winter scallions into northern markets at prices so low that local greenhouse production often cannot compete
-- The crop takes up valuable greenhouse space during the winter months when other crops might generate better returns
+- Onion plants are purchased from Texas growers and set out in the cool house during the first short-day-and-long-day-plant-classificationanuary-and-why-does-[[query-what-is-ecological-succession-and-why-does-it-matter]]-for-growersreturns
 - Despite the economic challenges, scallions remain a recommended crop for growers who can find a market willing to pay a premium for truly fresh, local product
 
 ## Baby New Potatoes
@@ -148,9 +135,3 @@ These early spring crops are strategically integrated into the greenhouse rotati
 - After the spring crops are harvested, the beds transition to summer crops or are uncovered for soil restoration
 
 This succession pattern ensures that the greenhouse is productive for as many months of the year as possible, embodying the "hidden farm" concept of extracting maximum value from limited protected growing space.
-
-## See Also
-
-- [[coleman-winter-harvest-planting-schedule]]
-- [[coleman-winter-greens-variety-selection]]
-- [[coleman-season-extension-timeline-and-frost-protection]]

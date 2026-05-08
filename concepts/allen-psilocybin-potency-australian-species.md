@@ -148,4 +148,3 @@ chromatographic methods that established the basic potency profiles.
 - [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[allen-subtropical-australia-hunting-techniques]]

@@ -18,7 +18,7 @@ type: concept
 
 # Baby Leaf Salad Mix Quality Standards and Composition
 
-Baby-leaf salad mix (mesclun) is the signature crop of the winter harvest system. Eliot Coleman's approach to salad mix production emphasizes quality above all else, treating it as a premium product that commands premium prices through meticulous attention to ingredient selection, leaf size, flavor balance, and presentation.
+Baby-leaf salad mix (mesclun) is the signature crop of the winter harvest system. [[eliot-coleman]]'s approach to salad mix production emphasizes quality above all else, treating it as a premium product that commands premium prices through meticulous attention to ingredient selection, leaf size, flavor balance, and presentation.
 
 ## Nutritional Superiority
 

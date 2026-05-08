@@ -59,7 +59,7 @@ Several plant micronutrients serve as metal ion cofactors:
 - **Copper (Cu)**: Component of plastocyanin in photosynthetic electron transport; activates lignin-forming enzymes
 - **Molybdenum (Mo)**: Cofactor for nitrate reductase, essential for nitrogen metabolism
 
-This is why micronutrient deficiencies have cascading effects throughout plant metabolism -- without these metal ions, entire enzyme systems shut down. The [[trace-elements-in-soil]] must be present in bioavailable forms for plants to access them.
+This is why micronutrient deficiencies have cascading effects throughout plant metabolism -- without these metal ions, entire enzyme systems shut down. The [[composting-and-soil-biology]] must be present in bioavailable forms for plants to access them.
 
 ### Vitamin-Derived Coenzymes
 
@@ -91,12 +91,12 @@ Producing enzymes is expensive for the plant. Each enzyme requires amino acids (
 
 ### Soil Biology and Enzyme Availability
 
-The [[nutrient-retention-soil-food-web]] plays an important role in making nutrients available for enzyme production. Soil microorganisms produce their own extracellular enzymes that mineralize organic matter, releasing nitrogen, phosphorus, and micronutrients in plant-available forms. This microbial enzymatic activity is one of the key benefits of organic gardening — healthy soils with diverse microbial communities support more efficient nutrient cycling.
+The [[composting-and-soil-biology]] plays an important role in making nutrients available for enzyme production. Soil microorganisms produce their own extracellular enzymes that mineralize organic matter, releasing nitrogen, phosphorus, and micronutrients in plant-available forms. This microbial enzymatic activity is one of the key benefits of organic gardening — healthy soils with diverse microbial communities support more efficient nutrient cycling.
 
 ## Related Topics
 
 - [[adenosine-triphosphate-and-cellular-energy]] -- energy source for enzyme-driven reactions
 - [[molecules-of-life-plant-cells]] -- protein structure and amino acids
 - [[temperature-effects-plant-nutrient-uptake]] -- how temperature affects enzyme activity
-- [[nitrogen-cycle-in-soil]] -- nitrogen availability for enzyme production
+- [[composting-and-soil-biology]] -- nitrogen availability for enzyme production
 - [[soil-microbiology-basics]] -- microbial enzymes in soil nutrient cycling

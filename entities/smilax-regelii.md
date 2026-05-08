@@ -123,7 +123,7 @@ the majority of commercial supply still derives from wild-harvested roots.
 - [[ashwagandha]]
 - [[zingiber-officinale]]
 - [[borago-officinalis]]
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]
 - ethnobotany
 - [[herbal-medicine]]

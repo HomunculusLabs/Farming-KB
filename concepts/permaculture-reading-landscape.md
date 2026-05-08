@@ -65,7 +65,7 @@ This has profound implications for [[succession-in-permaculture]] management. Ra
 
 ## Connection to Permaculture Principles
 
-Reading landscape is the practical expression of [[permaculture-principle-observe-and-interact]]. It is foundational to [[permaculture-principle-design-from-patterns-to-details]], since recognising landscape-scale patterns must precede detailed site design. The skill supports [[permaculture-principle-creatively-use-and-respond-to-change]] by helping designers understand the successional trajectories already unfolding in a landscape. It also underpins [[permaculture-principle-use-small-and-slow-solutions]] by revealing the incremental processes already at work.
+Reading landscape is the practical expression of [[permaculture-design-principles]]. It is foundational to [[permaculture-principle-design-from-patterns-to-details]], since recognising landscape-scale patterns must precede detailed site design. The skill supports [[permaculture-design-principles]] by helping designers understand the successional trajectories already unfolding in a landscape. It also underpins [[permaculture-design-principles]] by revealing the incremental processes already at work.
 
 ## Reading Landscape in Energy Descent
 
@@ -75,7 +75,7 @@ Some may see this as a prognosis for frustration. Holmgren sees it as exciting d
 
 ## See Also
 
-- [[permaculture-principle-observe-and-interact]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-pattern-literacy]]
 

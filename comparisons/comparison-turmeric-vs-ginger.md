@@ -16,7 +16,7 @@ type: comparison
 
 # Turmeric vs Ginger: A Complete Comparison
 
-Turmeric (*Curcuma longa*) and ginger (*Zingiber officinale*) are among the most widely cultivated and traded spice crops in the world. Both are herbaceous perennials grown from rhizomes in tropical and subtropical regions, yet they differ significantly in their biology, cultivation needs, market value, and applications.
+Turmeric (*Curcuma longa*) and ginger (*[[zingiber-officinale]]*) are among the most widely cultivated and traded spice crops in the world. Both are herbaceous perennials grown from rhizomes in tropical and subtropical regions, yet they differ significantly in their biology, cultivation needs, market value, and applications.
 
 ## Botanical Classification and Origins
 
@@ -142,23 +142,6 @@ For smallholders, both crops offer excellent returns per hectare compared to sta
 
 | Feature | Turmeric | Ginger |
 |---|---|---|
-| **Species** | *Curcuma longa* | *Zingiber officinale* |
-| **Key bioactive** | Curcumin (2–5% dry) | Gingerol (1–3% fresh) |
-| **Temp. range** | 20–35 °C | 25–35 °C |
-| **Rainfall need** | 1,000–2,000 mm | 1,500–3,000 mm |
-| **Shade tolerance** | Full sun preferred | 30–50% shade beneficial |
-| **Growing cycle** | 9–10 months | 8–9 months |
-| **Fresh yield** | 15–25 t/ha | 15–30 t/ha |
-| **Primary use** | Spice (dried), supplements | Spice (fresh & dried), beverages |
-| **Major disease** | Rhizome rot, leaf blotch | Rhizome rot, bacterial wilt |
-| **Market trend** | Driven by curcumin supplements | Driven by fresh food & beverage |
-| **Cold tolerance** | Moderate | Low |
-| **Storage (fresh)** | 2–4 months (cool, dry) | 2–3 months (12–15 °C) |
-
-## Conclusion
-
-Turmeric and ginger are complementary crops that share enough cultivation requirements to be intercropped or rotated effectively. Choosing between them — or growing both — depends on climate (ginger needs more heat and moisture), market access (fresh ginger requires faster logistics), and intended end-use (medicinal extracts favor turmeric; culinary and beverage markets favor ginger). Both are excellent additions to tropical permaculture systems, providing food security, income diversification, and ecological benefits through ground cover and soil improvement.
-
 ## See Also
 
 - [[curcuma-longa]]

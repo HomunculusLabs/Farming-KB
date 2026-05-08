@@ -26,7 +26,7 @@ sources:
 
 # Quinoa and Ancient Grain Cultivation
 
-Ancient grains — quinoa, amaranth, teff, millet, sorghum, buckwheat, and their relatives — represent some of humanity's oldest domesticated crops. Drought-tolerant, nutrient-dense, and adapted to marginal soils, they are experiencing a global resurgence as growers seek climate-resilient alternatives to wheat, rice, and maize. This guide covers the major ancient grains suitable for home gardens, homesteads, and small-scale farm production, with practical cultivation details for each.
+Ancient grains — quinoa, amaranth, teff, millet, sorghum, buckwheat, and their relatives — represent some of humanity's oldest domesticated crops. [[drought-tolerant-planting-design]], nutrient-dense, and adapted to marginal soils, they are experiencing a global resurgence as growers seek climate-resilient alternatives to wheat, rice, and maize. This guide covers the major ancient grains suitable for home gardens, homesteads, and small-scale farm production, with practical cultivation details for each.
 
 ## Overview of Major Ancient Grains
 
@@ -51,7 +51,7 @@ Over 3,000 quinoa varieties exist, broadly grouped by ecotype:
 
 - **Valley types**: Lower altitude (2,000–3,000 m), larger seeds, milder saponin
 - **Altiplano types**: High altitude (3,000–4,000 m), frost-tolerant, bitter saponin
-- **Sea level types**: Tropical/subtropical, short-day sensitive
+- **Sea level types**: Tropical/subtropical, [[short-day-and-long-day-plant-classification]] sensitive
 - **Salares types**: Salt-flat adapted, extremely salt-tolerant
 
 ### Climate Requirements
@@ -143,7 +143,7 @@ Sow after soil has warmed to 20°C+ (68°F), 2–3 weeks after last frost. Seed 
 | Sowing depth | 0.5–1 cm (barely cover) |
 | Germination | 3–10 days at 20–25°C |
 
-Amaranth seedlings are vulnerable until they reach 15 cm tall. Mulching helps suppress weeds. Once established, amaranth grows rapidly — up to 5 cm per day in ideal conditions. Side-dress with compost or balanced organic fertilizer at 30 days. Avoid excessive nitrogen, which delays flowering.
+Amaranth seedlings are vulnerable until they reach 15 cm tall. Mulching helps suppress weeds. Once established, amaranth grows rapidly — up to 5 cm per day in ideal conditions. Side-dress with compost or balanced [[organic-fertilizer-sources-guide]] at 30 days. Avoid excessive nitrogen, which delays flowering.
 
 ### Harvesting
 
@@ -229,7 +229,7 @@ Despite its name, buckwheat is not a cereal — it is a pseudocereal related to 
 - **Maturity**: Indeterminate; harvest when 75% of seeds are brown
 - **Yields**: 500–2,000 kg/ha
 
-Buckwheat is one of the best cover crops: it grows rapidly, suppresses weeds, extracts phosphorus from soil, and attracts beneficial insects. As a grain, it is gluten-free and high in rutin (a flavonoid that strengthens capillaries). The hulls are inedible, so dehulling is required for human consumption — this is the main processing challenge for small-scale growers.
+Buckwheat is one of the best [[cover-crops-and-green-manures]]: it grows rapidly, suppresses weeds, extracts phosphorus from soil, and attracts beneficial insects. As a grain, it is gluten-free and high in rutin (a flavonoid that strengthens capillaries). The hulls are inedible, so dehulling is required for human consumption — this is the main processing challenge for small-scale growers.
 
 ## Fonio (*Digitaria exilis*)
 
@@ -245,7 +245,7 @@ Ancient grains offer several advantages in permaculture systems:
 
 ### Soil Building
 
-- Buckwheat as a phosphorus-scavenging cover crop
+- Buckwheat as a phosphorus-scavenging [[cover-crop-multifunction-design]]
 - Sorghum's deep roots break compacted subsoil layers
 - Pearl millet stabilizes eroded soils
 - Amaranth roots aerate heavy soils
@@ -254,7 +254,7 @@ Ancient grains offer several advantages in permaculture systems:
 
 - Quinoa and amaranth intercropped with legumes (beans, lentils) for nitrogen fixation
 - Sorghum used as a trellis crop for climbing beans (three sisters adaptation)
-- Buckwheat as a nurse crop for slower-establishing perennials
+- Buckwheat as a [[nurse-crop-species-permaculture]] for slower-establishing perennials
 - Teff as a living mulch between fruit trees in orchard systems
 
 ### Food Security and Resilience
@@ -284,7 +284,7 @@ Most ancient grains are open-pollinated and easy to save:
 | Sorghum | 200+ m (wind-pollinated) | 3–5 years | Some self-pollination occurs |
 | Buckwheat | 300+ m (insect-pollinated) | 2–3 years | Requires pollinators for full seed set |
 
-For home-scale seed saving, select seed from the most vigorous plants with desirable traits (early maturity, seed size, disease resistance). Dry seed to below 10% moisture and store in airtight containers in a cool, dark place.
+For home-small-scale-seed-starting-and-nursery-managemented-saving-seed-resources-mollison]], select seed from the most vigorous plants with desirable traits (early maturity, seed size, disease resistance). Dry seed to below 10% moisture and store in airtight containers in a cool, dark place.
 
 ## Common Challenges
 

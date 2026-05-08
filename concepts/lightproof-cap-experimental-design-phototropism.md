@@ -148,5 +148,3 @@ remains a standard approach in photobiology laboratories worldwide.
 - [[darwins-phototropism-experiments]]
 - [[julius-von-sachs-blue-light-phototropism-discovery]]
 - [[plant-vision-and-phototropism]]
-- [[plant-photoreception-and-phototropism]]
-- [[phototropism-and-phytochrome-in-plants]]

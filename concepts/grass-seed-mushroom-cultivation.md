@@ -1,5 +1,5 @@
 ---
-title: Grass Seed Mushroom Cultivation
+title: grass seed mushroom cultivation
 created: 2026-04-28
 tags:
   - mycology
@@ -18,16 +18,16 @@ type: concept
 
 # Grass Seed Mushroom Cultivation
 
-Grass seed substrate is a versatile and efficient medium for the cultivation of hallucinogenic mushroom species, particularly *Psilocybe mexicana* and *Psilocybe tampanensis*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online mycology community, and remains one of the most accessible methods for small-scale cultivation.
+Grass seed substrate is a versatile and efficient medium for the cultivation of hallucinogenic mushroom species, particularly *Psilocybe mexicana* and *Psilocybe tampanensis*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[mycology]] community, and remains one of the most accessible methods for small-scale cultivation.
 
 ## Applicable Species
 
 The grass seed cultivation method is suitable for several species:
 
-- **Psilocybe mexicana**: Produces both mushrooms and sclerotia on grass seed. This is the original species from which Albert Hofmann first isolated psilocybin and psilocin in 1958.
+- **Psilocybe mexicana**: Produces both mushrooms and sclerotia on grass seed. This is the original species from which [[albert-hofmann]] first isolated psilocybin and psilocin in 1958.
 - **Psilocybe tampanensis**: Produces both mushrooms and sclerotia. The "Philosopher's Stone" sclerotia of this species are among the most potent naturally occurring psychedelic fungi by weight.
-- **Psilocybe cubensis**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
-- **Panaeolus subbalteatus**: Produces mushrooms on grass seed substrate.
+- **[[psilocybe-cubensis]]**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
+- **[[panaeolus-subbalteatus]]**: Produces mushrooms on grass seed substrate.
 
 ## Substrate Preparation
 
@@ -63,7 +63,7 @@ Once the cooker has depressurized, jars are removed and the grass seed inside is
 
 ## Inoculation
 
-Any standard inoculation method can be used: spore syringe, mycelium syringe, agar squares, or liquid culture. The paramount requirement is working clean:
+Any standard inoculation method can be used: [[spore-syringe]], mycelium syringe, agar squares, or liquid culture. The paramount requirement is working clean:
 
 - Syringe needles must be flamed before each inoculation
 - Scalpels for agar transfer must be flamed before use
@@ -132,7 +132,7 @@ Dead pinheads (aborts) should be removed from the casing surface promptly, as th
 
 ## Sclerotia Production
 
-A major advantage of the grass seed method is sclerotia production for *Psilocybe mexicana* and *Psilocybe tampanensis*. Sclerotia form within the colonized jar without requiring a casing layer.
+A major advantage of the grass seed method is [[sclerotia-production]] for *Psilocybe mexicana* and *Psilocybe tampanensis*. Sclerotia form within the colonized jar without requiring a casing layer.
 
 ### Sclerotia Development
 
@@ -146,13 +146,5 @@ Sclerotia are dense, hard, truffle-like masses that serve as nutrient reserves f
 ## Related Concepts
 
 - [[psilocybe-mexicana]] for the species biology and natural history
-- [[psilocybe-tampanensis]] for the Philosopher's Stone sclerotia-producing species
+- [[psilocybe-tampanensis-entity]] for the Philosopher's Stone sclerotia-producing species
 - Sclerotia for the biology and chemistry of fungal storage structures
-- Mushroom Substrate for comparison with other cultivation media
-- Sterile Technique for contamination prevention in mycological work
-
-## See Also
-
-- [[albert-hofmann]]
-- [[fruiting-conditions]]
-- [[mushroom-cultivation]]

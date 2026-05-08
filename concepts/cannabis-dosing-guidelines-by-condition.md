@@ -97,6 +97,6 @@ See also: [[cannabis-indoor-growing-basics]], [[cannabis-thc-cbd-ratio-guide-for
 ## Related
 
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- [[cannabis-health-index-scoring]]
+- [[cannabis-health-index-scoring-system]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[fukuoka-vegetable-growing-natural-method]]

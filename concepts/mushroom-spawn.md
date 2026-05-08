@@ -64,7 +64,7 @@ each. A bushel covered about one hundred square feet of bed.
 ### Why Use Artificial Spawn?
 
 Though Cuthill produced fine beds without it, artificial
-spawn served as insurance against mistakes in [[mushroom-bed-preparation]], making "doubly sure" of a crop and obtaining
+spawn served as insurance against mistakes in mushroom bed preparation, making "doubly sure" of a crop and obtaining
 an earlier, longer yield. Spawn-makers were very particular
 about their materials, and with pure manure and pure spawn,
 no spurious fungi could exist on the bed.
@@ -79,7 +79,7 @@ treading created ideal compaction, road-sand improved
 drainage and nutrient retention soil, and gradual summer heating
 produced robust spawn without overheating risk.
 
-## Quick Spawn Production
+## Quick [[spawn-production]]
 
 Cuthill described a rapid method: lay a foundation of horse
 droppings one square yard, four inches deep. Crumble

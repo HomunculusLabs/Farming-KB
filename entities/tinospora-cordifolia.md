@@ -12,15 +12,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Singh, S.S. et al. (2003). \"Tinospora cordifolia: An overview.\" Current Science, 85(1), 30-38."
+  - "Singh, S.S. et al. (2003). \"tinospora cordifolia: An overview.\" Current Science, 85(1), 30-38."
   - "Upadhyay, A.K. et al. (2010). \"Tinospora cordifolia: One plant, many roles.\" Ancient Science of Life, 30(3), 89-95."
   - "Kapoor, D. et al. (2017). \"Tinospora cordifolia (Willd.) Hook. f. & Thomson — A plant with immense economic potential.\" 3 Biotech, 7(4), 209."
 ---
-
 # Guduchi (*Tinospora cordifolia*)
 
 ## Overview
-*Tinospora cordifolia*, known as Guduchi or Giloy in Ayurvedic medicine, is a large deciduous climbing shrub in the family Menispermaceae. Native to tropical India, Myanmar, and Sri Lanka, it is one of the most important Rasayana (rejuvenating) herbs in Ayurveda, used for millennia as an immunomodulator, anti-arthritic, and anti-diabetic agent. Modern pharmacological research has validated its immunostimulant, hepatoprotective, and adaptogenic properties, leading to widespread commercial cultivation and incorporation into dozens of polyherbal formulations across South Asia.
+*Tinospora cordifolia*, known as Guduchi or Giloy in Ayurvedic medicine, is a large deciduous climbing shrub in the family Menispermaceae. Native to tropical India, Myanmar, and Sri Lanka, it is one of the most important Rasayana (rejuvenating) herbs in Ayurveda, [[query-what-is-a-wavelet-transform-used-for]] millennia as an immunomodulator, anti-arthritic, and anti-diabetic agent. Modern pharmacological research has validated iashwagandha-cultivation-uses-and-adaptogenic-propertiesprotective, and adaptogenic properties, leading to widespread commercial cultivation and incorporation into dozens of polyherbal formulations across South Asia.
 
 ## Taxonomy
 - **Kingdom:** Plantae
@@ -32,7 +31,7 @@ sources:
 - **Synonyms:** *Cocculus cordifolius* DC., *Menispermum cordifolium* Willd.
 - **Etymology:** *Tinospora* from Greek "tinos" (fibrous) + "spora" (seed); *cordifolia* Latin for "heart-leaved"
 - **Sanskrit name:** Guduchi ("that which protects the body"); Amrita ("divine nectar")
-- **Related species:** *T. sinensis* (Chinese Guduchi), *T. crispa* (Hao Pa Kao, Southeast Asia)
+- **Relatefungi-of-southeast-asia]] T. sinensis* (Chinese Guduchi), *T. crispa* (Hao Pa Kao, Southeast Asia)
 
 ## Morphology
 - **Habit:** Large, glabrous, perennial climbing shrub; stems twine around support trees up to 15 m
@@ -41,7 +40,7 @@ sources:
 - **Flowers:** Unisexual (dioecious); greenish-yellow; arranged in axillary or terminal racemes; male flowers in clustered fascicles, female flowers solitary; 6 sepals, 6 petals (small); stamens 6, connate
 - **Fruit:** Drupes, red when ripe, 6–10 mm diameter, produced in clusters; 1–3 seeded
 - **Root:** Fibrous, tuberous; pale yellow interior
-- **Bark:** Creamy-white to grey, smooth, thin; exfoliates in papery strips
+- **Bark:** Creamy-white to gr [[berberine]] h, thin; exfoliates in papery strips
 
 ## Phytochemistry
 
@@ -132,12 +131,12 @@ sources:
 - **Processing:** Stems cut into 5–10 cm pieces, shade-dried, powdered
 - **Storage:** Dried stem powder stable 12–18 months in airtight containers
 
-### Permaculture Applications
-- Excellent multipurpose climber for food forest canopy edges
+### [[permaculture]] Applications
+- Excellent multipurpose climber for [[food-forest]] canopy edges
 - Provides fodder (leaves palatable to goats and cattle)
 - Nitrogen contribution moderate; leaf litter improves soil organic matter
 - Medicinal crop with high market value in Ayurvedic herb trade
-- Can be intercropped with mango, neem, or moringa as support trees
+- Can be intercropped with mango, neem, or [[moringa]] as support trees
 
 ## Similar Species
 | Species | Region | Key Difference |
@@ -148,7 +147,3 @@ sources:
 
 ## See Also
 - [[ashwagandha]]
-- [[ocimum-tenuiflorum]]
-- [[andrographis-paniculata]]
-- [[curcuma-longa]]
-- [[azadirachta-indica]]

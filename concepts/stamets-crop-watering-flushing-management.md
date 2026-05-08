@@ -148,4 +148,3 @@ air and are easier to manage environmentally.
 - [[stamets-harvesting-drying-and-storage]]
 - [[stamets-casing-layer-design]]
 - [[stamets-growing-room-air-circulation-co2-management]]
-- [[sustaining-mushroom-crop-flushing-harvesting]]

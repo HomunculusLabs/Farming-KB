@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empathogen-entactogen closely related to [[mdma-compound-profile]] and [[mda-compound-profile]]. MDE occupies a middle ground between MDMA's empathogenic warmth and MDA's more psychedelic character. It gained popularity in the 1980s and 1990s as an alternative to MDMA, often described as gentler and less stimulating but also less "magic" than its methylated cousin.
+MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empathogen-entactogen closely related to [[mdma-compound-profile]] and [[ayahuasca-and-dmt-plant-medicine]]. MDE occupies a middle ground between MDMA's empathogenic warmth and MDA's more psychedelic character. It gained popularity in the 1980s and 1990s as an alternative to MDMA, often described as gentler and less stimulating but also less "magic" than its methylated cousin.
 
 ## Chemical Identity
 
@@ -45,7 +45,7 @@ MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empat
 
 Shulgin documented three distinct synthetic routes to MDE in PIHKAL:
 
-1. **From [[mda-compound-profile]] via acetylation/LAH reduction:** MDA is first acetylated to N-acetyl-MDA, then reduced with lithium aluminum hydride (LAH) to yield MDE. This route proceeds through the amide intermediate.
+1. **From [[ayahuasca-and-dmt-plant-medicine]] via acetylation/LAH reduction:** MDA is first acetylated to N-acetyl-MDA, then reduced with lithium aluminum hydride (LAH) to yield MDE. This route proceeds through the amide intermediate.
 
 2. **From 3,4-methylenedioxyphenylacetone with aluminum amalgam + ethylamine:** The ketone precursor (MDP2P) undergoes reductive amination using aluminum amalgam as the reducing agent and ethylamine as the nitrogen source. This is a classic Leuckart-type approach.
 
@@ -82,7 +82,7 @@ Shulgin provided extensive commentary on the similarities and differences betwee
 - **Supplementation:** Small supplement doses of MDE (50-75 mg) were explored at the 2-hour mark to extend the experience
 - **Combination experiment:** In one clinical experiment, mdma-reference|MDMA was used to extend an MDE experience at the 1h45m mark — the effective duration was extended, but "the group fell surprisingly quiet with a drop in the urge to converse"
 
-Shulgin's key qualitative distinction: "The effects of MDE are similar in many ways to MDMA, but there are believable differences. The particular magic, and affective transference, does not appear to be there. There is a stoning intoxication, as with [[mda-compound-profile]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
+Shulgin's key qualitative distinction: "The effects of MDE are similar in many ways to MDMA, but there are believable differences. The particular magic, and affective transference, does not appear to be there. There is a stoning intoxication, as with [[ayahuasca-and-dmt-plant-medicine]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
 
 This "missing magic" quality became a consistent theme in MDE reports and may explain why MDMA remained more popular despite MDE's gentler physical profile. The open question is whether the S-isomer of MDE might possess more of these unique MDMA-like properties: "Maybe the 'S' isomer would have these properties. The optical isomers have never been evaluated separately in man."
 

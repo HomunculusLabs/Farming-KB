@@ -23,7 +23,7 @@ sources:
 
 **Amanita ceciliae** (Berk. & Broome) Bas, commonly known as Cecilia's ringless amanita or the strangling amanita, is a basidiomycete fungus in the family Amanitaceae. It is one of the more distinctive members of the genus due to its persistent, conspicuous white volval sac and complete absence of an annulus (ring) on the stipe.
 
-The species is found across temperate broadleaf and mixed forests of Europe, North America, and parts of Asia, where it forms ectomycorrhizal associations primarily with oaks (*Quercus* spp.) and beeches (*Fagus* spp.). Despite belonging to the infamous genus Amanita — which contains deadly species like *A. phalloides* — *A. ceciliae* is considered edible when thoroughly cooked, though it is rarely collected for the table due to its small size and the inherent risks of consuming any Amanita.
+The species is found across temperate broadleaf and mixed forests of Europe, North America, and parts of Asia, where it forms [[ectomycorrhizal-associations]] primarily with oaks (*Quercus* spp.) and beeches (*Fagus* spp.). Despite belonging to the infamous genus Amanita — which contains deadly species like *A. phalloides* — *A. ceciliae* is considered edible when thoroughly cooked, though it is rarely collected for the table due to its small size and the inherent risks of consuming any Amanita.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ The species was originally described by Berkeley and Broome in 1854 as *Agaricus
 
 **Flesh:** White, firm but thin, with a mild to slightly radish-like odor and taste.
 
-**Spore Print:** White.
+**[[spore-print]]:** White.
 
 ### Microscopic Features
 
@@ -70,9 +70,9 @@ The species fruits from late summer through autumn (July–November in the North
 
 ## Ecology
 
-As an obligate ectomycorrhizal symbiont, *A. ceciliae* forms mutualistic associations with the fine roots of host trees. The fungal hyphae surround root tips, facilitating nutrient exchange — the fungus provides the tree with mineral nutrients (particularly phosphorus and nitrogen) scavenged from soil, while receiving photosynthetically derived carbohydrates.
+As an obligate ectomycorrhizal symbiont, *A. ceciliae* forms mutualistic associations with the fine roots of host trees. The [[fungal-hyphae]] surround root tips, facilitating nutrient exchange — the fungus provides the tree with mineral nutrients (particularly phosphorus and nitrogen) scavenged from soil, while receiving photosynthetically derived carbohydrates.
 
-The species plays a role in forest nutrient cycling and contributes to soil structure through its mycelial networks. Its fruiting bodies serve as food for various forest invertebrates and small mammals.
+The species plays a role in forest nutrient cycling and contributes to soil structure through its [[mycelial-networks]]. Its fruiting bodies serve as food for various forest invertebrates and small mammals.
 
 ## Edibility and Caution
 

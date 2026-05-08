@@ -66,13 +66,13 @@ underground that it escaped the attention of colonial record-keepers.
 The suppression was effective enough that by the time Western ethnographers and
 mycologists began seriously investigating Mexican mushroom practices in the
 twentieth century, the surviving traditions were confined to a few remote
-highland communities, most notably among the [[maria-sabina-mazatec-mushroom-ceremony]] people of Oaxaca.
+highland communities, most notably among the [[mushroom-cultivation-fundamentals]] people of Oaxaca.
 
 ## Continuity and Survival
 
 Despite centuries of suppression, mushroom ceremonies survived in pockets of
 [[mexican-mushroom-stones-archaeological-evidence]] culture. The
-[[maria-sabina-mazatec-mushroom-ceremony]],
+[[mushroom-cultivation-fundamentals]],
 who would later become famous through [[gordon-wasson-mushroom-discovery]]'s
 expeditions, was born in 1894 into a culture where, although mushroom use was
 not openly discussed, it was understood that the highest class of curanderos

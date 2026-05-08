@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - [[natural-farming-imo-collection-and-cultivation]]
+  - natural-farming-imo-collection-and-cultivation
   - [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]
   - [[jadam-livestock-integration-and-manure-management]]
   - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]

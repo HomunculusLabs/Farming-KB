@@ -115,7 +115,7 @@ The name "mangosteen" derives from the Malay word *manggustan*. In Filipino, it 
 
 - [[moringa-oleifera]]
 - [[theobroma-cacao]]
-- [[garcinia-mangostana]]
+- garcinia mangostana
 - [[punica-granatum]]
 - [[azadirachta-indica]]
 - artocarpus heterophyllus

@@ -147,5 +147,3 @@ native ranges:
 ## See Also
 
 - [[guzman-magic-mushrooms-african-species]]
-
-- [[guzman-magic-mushrooms-global-biogeography]] for distribution

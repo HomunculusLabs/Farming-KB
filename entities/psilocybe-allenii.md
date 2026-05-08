@@ -96,7 +96,7 @@ It grows gregariously to cespitose, often forming large, dense clusters. Fruitin
 
 ## Chemistry
 
-*P. allenii* contains the psychoactive indole alkaloids [[psilocybin]] and [[psilocin]], with baeocystin and norbaeocystin as minor constituents. Analytical studies report:
+*P. allenii* contains the psychoactive indole alkaloids [[psilocybin-compound]] and [[psilocin]], with baeocystin and norbaeocystin as minor constituents. Analytical studies report:
 
 | Compound | Typical Range (% dry weight) |
 |----------|------------------------------|
@@ -146,4 +146,4 @@ As a psilocybin-containing species, *P. allenii* is illegal to possess, cultivat
 - [[psilocybe-azurescens]] — the most potent known psilocybin mushroom, coastal Oregon
 - [[psilocybe-subaeruginosa]] — morphologically similar Australasian species
 - [[psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
-- [[psilocybin]] — the primary psychoactive compound
+- [[psilocybin-compound]] — the primary psychoactive compound

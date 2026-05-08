@@ -123,11 +123,11 @@ It serves as a food source for small mammals, slugs, and insect larvae in winter
 
 ## See Also
 
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[craterellus-tubaeformis]]
 - [[trametes-versicolor]]
 - [[hericium-erinaceus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[morchella-esculenta]]
 - [[agaricus-bisporus]]
 - [[pleurotus-eryngii]]

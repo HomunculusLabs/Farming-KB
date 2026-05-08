@@ -148,4 +148,3 @@ limited.
 - [[salvia-officinalis]]
 - [[lavandula-angustifolia-entity]]
 - [[foeniculum-vulgare-entity]]
-- [[ruta-graveolens]]

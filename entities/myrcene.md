@@ -142,13 +142,9 @@ studies:
 
 ## See Also
 
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[cannabis-sativa]]
 - [[cymbopogon-citratus]]
 
 - [[cannabis-sativa]]
 - [[og-kush]]
-- [[granddaddy-purple]]
-- [[blue-dream]]
-- [[cannabigerol]]
-- Cannabichromene

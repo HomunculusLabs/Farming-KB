@@ -39,7 +39,7 @@ McKenna argued that the transition from the Partnership Model to the Dominator M
 
 Key elements of his argument:
 
-1. **Psychedelics as catalysts of consciousness**: Hallucinogenic plants enhanced information-processing activity, visual acuity, and the capacity for language and abstract thought during critical periods of human evolution. See [[terence-mckenna-stoned-ape-hypothesis]].
+1. **Psychedelics as catalysts of consciousness**: Hallucinogenic plants enhanced information-processing activity, visual acuity, and the capacity for language and abstract thought during critical periods of human evolution. See [[psychedelic-mushrooms-species-and-identification]].
 
 2. **The original "tree of knowledge"**: McKenna interpreted the biblical story of the Tree of Knowledge of Good and Evil as a cultural memory of the loss of access to psychoactive plants and the shamanic consciousness they engendered.
 
@@ -86,8 +86,8 @@ Despite these criticisms, McKenna's work has been enormously influential in popu
 - [[stoned-ape-theory]]
 - [[transcendent-other-and-plant-human-information-transfer]] Topics
 
-- [[terence-mckenna-stoned-ape-hypothesis]] for the evolutionary component
-- [[psychedelic-plants-in-ancient-cultures]] for historical evidence
+- [[psychedelic-mushrooms-species-and-identification]] for the evolutionary component
+- [[ethnomycology]] for historical evidence
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic practice
 - [[ayahuasca-preparation-and-ceremony]] for McKenna's Amazon experiences
 

@@ -134,27 +134,9 @@ into the impervious foundation. Each lift requires adequate compaction, ideally
 with a sheepsfoot roller. Clay soils typically need 3:1 upstream slopes and
 2:1 to 2.5:1 downstream slopes. Minimum crest width is 2 to 3 metres, with
 5 to 10 percent additional height allowed for post-construction settlement.
-
-## Seasonal Filling and Losses
-
-Dams fill from seasonal rainfall and runoff. Design must account for
-evaporation losses (significant in hot climates, especially for shallow broad
-dams), inevitable seepage losses (targeting less than 5 to 10 mm per day),
-and sedimentation from catchment erosion. Deep narrow dams lose less water
-to evaporation. Maintaining vegetated catchments and sediment traps upstream
-extends dam life.
-
-## Maintenance
-
-Regular maintenance includes inspecting walls, spillways, and outlet
-structures; repairing erosion damage promptly; controlling burrowing animals
-in dam walls; managing aquatic vegetation; and desilting when sediment
-significantly reduces storage capacity. Sediment removed during desilting
-can be repurposed as [[biochar-soil-remediation|soil amendment]] on adjacent
-agricultural land.
 ## See Also
 
-- [[swale-design]] and [[swale-construction-guide]] for complementary earthwork water-harvesting techniques
+- [[swale-design]] and [[organic-vegetable-growing-and-market-gardening]] for complementary earthwork water-harvesting techniques
 - [[water-storage-techniques]] and [[water-catchment-permaculture]] for broader water management strategies
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] for the full design manual treatment
 - [[water-management]] for integrated water cycle design

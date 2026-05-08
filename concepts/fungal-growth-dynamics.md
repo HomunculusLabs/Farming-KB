@@ -97,7 +97,7 @@ Fungi respond to temporal changes in resource availability:
 - **Fruiting body production**: The visible "mushroom" represents only a small fraction of total fungal biomass. Fruit body production is highly seasonal and responsive to environmental triggers (temperature, moisture, substrate availability)
 ## Implications for Management
 Understanding fungal growth dynamics informs several practical applications:
-- **No-till agriculture**: Preserves mycelial networks, maintaining fungal biomass and connectivity. Tillage severs hyphae, requiring regrowth. See [[no-till-gardening-method]].
+- **No-till agriculture**: Preserves mycelial networks, maintaining fungal biomass and connectivity. Tillage severs hyphae, requiring regrowth. See [[composting-and-soil-biology]].
 - **Cover crops**: Maintain continuous root systems that support mycorrhizal fungi during fallow periods. See [[cover-cropping-guide]].
 - **Wood chip mulch**: Provides substrate for saprotrophic fungi, increasing soil fungal biomass and activity. See [[mulching-guide]].
 - **Biocontrol**: Understanding fungal foraging helps design effective biological control strategies (e.g., placement of *Trichoderma* inoculum for optimal pathogen encounter rates)
@@ -108,5 +108,5 @@ Understanding fungal growth dynamics informs several practical applications:
 - [[fungi-soil-food-webs]] -- soil food web roles
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[mycorrhizal-types]] -- mycorrhizal growth forms
-- [[no-till-gardening-method]] -- preserving fungal networks
+- [[composting-and-soil-biology]] -- preserving fungal networks
 - [[soil-health-indicators]] -- assessing soil biology

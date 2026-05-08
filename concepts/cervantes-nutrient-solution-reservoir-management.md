@@ -145,5 +145,5 @@ one to two weeks is standard practice.
 - Sterilize reservoirs between crops to prevent disease carryover
 
 See also: [[cervantes-passive-wick-hydroponic-systems]],
-[[cervantes-water-culture-systems]],
-cervantes nutrient solution reservoir management, [[cervantes-water-quality-management]], [[cervantes-macronutrient-deficiency-toxicity]]
+[[cannabis-advanced-growing-techniques]],
+cervantes nutrient solution reservoir management, [[cannabis-advanced-growing-techniques]], [[cervantes-macronutrient-deficiency-toxicity]]

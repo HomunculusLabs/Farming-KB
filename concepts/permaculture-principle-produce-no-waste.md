@@ -52,7 +52,7 @@ Holmgren contrasts the linear flow of industrial systems (extract → use → di
 
 ## Connections
 
-This principle is deeply connected to [[permaculture-principle-catch-and-store-energy]] (capturing energy before it becomes waste), [[permaculture-principle-integrate-rather-than-segregate]] (integration closes loops), [[permaculture-principle-use-and-value-renewable-resources]] (valuing all outputs), and [[permaculture-principle-obtain-a-yield]] (waste is lost yield). See also [[permaculture-principles]], [[hugelkultur]], and [[sheet-mulching]].
+This principle is deeply connected to [[permaculture-design-principles]] (capturing energy before it becomes waste), [[permaculture-design-principles]] (integration closes loops), [[permaculture-design-principles]] (valuing all outputs), and [[permaculture-design-principles]] (waste is lost yield). See also [[permaculture-principles]], [[hugelkultur]], and [[sheet-mulching]].
 
 ## Applied Notes
 

@@ -28,8 +28,8 @@ aliases:
 lysergamide class and one of the most potent psychoactive substances known.
 First synthesized by [[albert-hofmann]] at Sandoz in 1938, its effects were
 discovered in 1943. LSD profoundly shaped 20th-century psychiatry, culture,
-and neuroscience through **5-HT2A receptor agonism**. See also [[psilocybin]],
-[[dmt]], [[mescaline]], and [[timothy-leary]].
+and neuroscience through **5-HT2A receptor agonism**. See also [[psilocybin-compound]],
+[[dmt]], [[mescaline-entity]], and [[timothy-leary]].
 
 ## Chemical Identity
 

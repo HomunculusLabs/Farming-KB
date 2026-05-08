@@ -12,9 +12,9 @@ sources:
 
 # Mind-Body Problem and Psychedelics
 
-The mind-body problem is the philosophical problem of explaining how subjective experience relates to the physical body.
+The [[mind-body-medicine-emotional-molecules]] problem is the philosophical problem of explaining how subjective experience relates to the physical body.
 In its classical form, the problem asks how thoughts, sensations, intentions, and self-awareness can arise from matter.
-Psychedelic substances have become important to this question because they alter consciousness through measurable biochemical events.
+[[psychedelic-substances-comparison]] have become important to this question because they alter consciousness through measurable biochemical events.
 A molecule such as psilocybin can enter the body, change receptor signaling in the brain, and transform perception, emotion, and selfhood.
 This makes psychedelics unusually direct tools for examining the apparent boundary between mind and matter.
 
@@ -33,7 +33,7 @@ The modern version of the problem is often associated with Rene Descartes.
 Descartes distinguished between thinking substance, or mind, and extended substance, or matter.
 This dualism made consciousness seem fundamentally different from the body that carries it.
 The resulting interaction problem asks how an immaterial mind could influence a material organism.
-Descartes suggested that interaction might occur through the pineal gland, but this explanation did not solve the deeper puzzle.
+Descartes suggested that interaction might occur through the [[pineal-gland-dmt-entheogenic-experience]], but this explanation did not solve the deeper puzzle.
 Later philosophers proposed alternatives including materialism, idealism, property dualism, neutral monism, and functionalism.
 Each approach attempts to preserve either the reality of experience, the authority of physical science, or both.
 
@@ -59,10 +59,10 @@ It demonstrates that the boundary between chemistry and experience is not merely
 
 ## Neuropharmacological Perspective
 
-From a neuropharmacological perspective, psychedelic experience begins with receptor-level action.
+From a neuropharmacological perspective, [[psychedelic-experience-preparation]] begins with receptor-level action.
 Classic psychedelics such as psilocin, LSD, DMT, and mescaline act primarily through serotonergic systems.
 Their effects propagate upward from receptor signaling into cortical dynamics, thalamocortical filtering, and large-scale network organization.
-Modern studies often emphasize changes in default mode network integrity, brain entropy, and functional connectivity.
+Modern studies often emphasize changes in [[default-mode-network-and-ego-dissolution]] network integrity, brain entropy, and functional connectivity.
 These models suggest that ordinary consciousness is constrained by predictive, self-referential, and habit-based processing.
 Psychedelics loosen some of these constraints, allowing unusual associations and perceptual patterns to become conscious.
 This physical account explains many features of the state without fully explaining why the state feels like anything.
@@ -99,7 +99,7 @@ Any adequate theory must explain both the neural basis and the experiential forc
 
 ## Informational Monism
 
-The information paradigm offers one attempt to move beyond the dualism-materialism stalemate.
+The [[information-paradigm-of-consciousness]] offers one attempt to move beyond the dualism-materialism stalemate.
 It proposes that both mind and matter can be understood as forms of information.
 Physical matter is information organized according to physical regularities.
 Consciousness is information organized according to biological, neural, and psychological regularities.
@@ -129,7 +129,7 @@ How researchers define consciousness affects how they interpret therapeutic tran
 
 ## Cultural and Religious Significance
 
-Many cultures have interpreted psychedelic plants and fungi as teachers, sacraments, or mediators between worlds.
+Many cultures have interpreted [[psychedelic-plants-chemical-guide]] and fungi as teachers, sacraments, or mediators between worlds.
 These interpretations often treat altered consciousness as a legitimate source of knowledge.
 Western philosophy has often treated such claims with suspicion because they blur subjective vision and objective fact.
 The mind-body problem helps explain the disagreement.
@@ -147,4 +147,4 @@ The strongest interpretations avoid both naive reductionism and naive supernatur
 They treat psychedelic states as disciplined evidence requiring context, comparison, and critical interpretation.
 
 ## See Also
-- [[mind-body-problem-and-psychedelics]]
+- mind body problem and psychedelics

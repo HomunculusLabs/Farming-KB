@@ -38,11 +38,11 @@ The Domesday Book (1086) records extensive coppice management across England. Cu
 
 Coppice systems developed independently across continents:
 
-- **Japan**: *Satoyama* landscapes managed coppice woodland of oak, chestnut, and cedar for fuel, charcoal, and mushroom cultivation
+- **Japan**: *Satoyama* landscapes managed coppice woodland of oak, chestnut, and cedar for fuel, charcoal, and [[mushroom-cultivation-disabilities-pasteurization-methods]]
 - **Mediterranean**: Cork oak (*Quercus suber*) managed on long coppice rotations; chestnut coppice for timber and nuts
 - **Scandinavia**: Birch and hazel coppice for fuel and fencing
 - **Tropical regions**: Coppice regrowth exploited in shifting cultivation systems throughout Southeast Asia, Africa, and South America
-- **North America**: Native American peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
+- **North America**: [[native-american-planting-methods-and-indigenous-agriculture]] peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
 
 ## Ecological Principles
 
@@ -58,7 +58,7 @@ Not all tree species respond equally to cutting. The best coppicers are light-de
 |----------|---------|-------|
 | **Excellent** | Sweet chestnut (*Castanea sativa*), hazel (*Corylus avellana*), willow (*Salix* spp.), ash (*Fraxinus excelsior*), field maple (*Acer campestre*) | Produce straight, vigorous regrowth over many cycles |
 | **Good** | Oak (*Quercus robur/petraea*), hornbeam (*Carpinus betulus*), alder (*Alnus glutinosa*), birch (*Betula* spp.), lime (*Tilia* spp.), elm (*Ulmus* spp.) | Reliable but may need longer rotations |
-| **Moderate** | Beech (*Fagus sylvatica*), hawthorn (*Crataegus monogyna*), blackthorn (*Prunus spinosa*), elder (*Sambucus nigra*) | Useful for specific products; shorter lifespans as coppice |
+| **Moderate** | Beech (*Fagus sylvatica*), hawthorn (*[[crataegus-monogyna]]*), blackthorn (*Prunus spinosa*), elder (*Sambucus nigra*) | Useful for specific products; shorter lifespans as coppice |
 | **Poor/Unsuitable** | Walnut (*Juglans* spp.), cherry (*Prunus avium*), most conifers | Tend to die or produce poor regrowth; avoid coppicing |
 
 ### The Stool
@@ -137,7 +137,7 @@ Over time, the repeated cutting point develops into a swollen, gnarled mass call
 
 Historically, pollarding was used to produce:
 
-- **Leafy fodder** — especially elm, lime, and ash leaves cut in summer for livestock feed ("leaf hay")
+- **Leafy fodder** — especially elm, lime, and ash leaves cut in summer for [[livestock-feed-formulation]] ("leaf hay")
 - **Ship timber** — curved oak frames from high pollards were prized for shipbuilding
 - **Firewood** — accessible above snow and grazing levels
 - **Poles and rafters** — for building construction
@@ -158,7 +158,7 @@ Coppiced wood has unique properties that make it superior to timber for many app
 - Cleft fencing (chestnut paling) — 12–16 year rotation
 - Hop poles — 8–12 year rotation
 - Building timber — 20–25 year rotation
-- charcoal production
+- [[charcoal-production-for-cooking]]
 
 **Willow (Salix spp.)**:
 - Basketry — 1–2 year rods ("withies")
@@ -235,7 +235,7 @@ Coppice systems offer significant carbon benefits:
 - **Fast growth rates**: Young coppice shoots fix carbon at higher rates per hectare than mature forest
 - **Wood products**: Harvested wood used in construction or as long-lasting products locks up carbon for decades
 - **Bioenergy substitution**: Replacing fossil fuels with coppice biomass provides net carbon savings
-- **Soil carbon**: Regular management maintains soil organic matter and prevents carbon loss from soil disturbance
+- **Soil carbon**: Regular management maintains soil organic matter and prevents carbon loss from [[soil-disturbance-mycorrhizal-impact]]
 
 Research from the UK Forestry Commission suggests that actively managed coppice with standards can sequester 2–5 tonnes of CO₂ equivalent per hectare per year, depending on species, rotation length, and end use of products.
 
@@ -268,7 +268,7 @@ Many European coppice woods were abandoned in the mid-20th century as fossil fue
 | Disease entry (canker, heart rot) | Poor cutting technique, damaged bark | Make clean cuts; avoid flush cuts that damage bud zone |
 | Deer browsing | Insufficient protection | Fence coppice panels; use tree tubes on individual shoots |
 | Shading by standards | Too many or too close standard trees | Thin standards to maintain 30–50% canopy cover |
-| Invasive species | Disturbed ground after cutting | Control bramble, rhododendron, and cherry laurel promptly |
+| [[invasive-species-management]] | Disturbed ground after cutting | Control bramble, rhododendron, and cherry laurel promptly |
 
 ## Economic Considerations
 
@@ -289,7 +289,7 @@ Many European coppice woods were abandoned in the mid-20th century as fossil fue
 Growing markets for coppice products include:
 
 - **Biomass energy**: Domestic boilers, district heating, power generation
-- **Eco-construction**: Roundwood timber, natural building materials
+- **Eco-construction**: Roundwood timber, [[natural-building-materials-guide]] materials
 - **Landscaping**: Hazel hurdles, chestnut fencing, pea sticks
 - **Craft goods**: Bespoke furniture, green woodworking, charcoal, basketry
 - **Ecosystem services**: Biodiversity offsetting, water quality improvement, carbon credits

@@ -148,10 +148,3 @@ genetic integrity regardless of the name attached.
 - [[papaya-cannabis]]
 
 - [[cannabis-strain-guide-reference]]
-- [[cannabis-strain-selection-guide]]
-- [[cannabis-landrace-strains]]
-- [[cannabis-genetic-stability]]
-- [[cannabis-true-breeding-ibl-strains]]
-- [[oner-cannabis-breeding-fundamentals]]
-- [[cannabis-seed-selection-and-strain-types]]
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]

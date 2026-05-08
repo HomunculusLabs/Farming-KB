@@ -1,5 +1,5 @@
 ---
-title: "Hericium americanum"
+title: "hericium americanum"
 created: 2026-04-28
 type: species
 tags:
@@ -25,7 +25,6 @@ sources:
   - Wang, J. & Wang, H.Y. (2014). "The genus Hericium: a resource for novel bioactive metabolites." Journal of Traditional and Complementary Medicine 4(2): 118-124.
   - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
 ---
-
 ## Overview
 
 *Hericium americanum*, commonly known as the bear's head tooth fungus, is an edible
@@ -33,7 +32,7 @@ saprotrophic mushroom in the family Hericiaceae. It is one of four recognized No
 American species in the *Hericium* genus, closely related to the well-known lion's mane
 (*H. erinaceus*) and coral hedgehog (*H. coralloides*). The species produces large,
 cascading clusters of soft, white-to-cream spines that hang from a branched
-fruiting body, visually resembling a waterfall of icicles. It is prized as both a
+[[fruiting-body-development]], visually resembling a waterfall of icicles. It is prized as both a
 culinary mushroom with a flavor often compared to lobster or crab meat, and as a
 medicinal fungus producing erinacines and hericenones — compounds under
 investigation for neuroprotective and nerve-growth-factor-stimulating activity.
@@ -44,7 +43,7 @@ Basidiomycota → Agaricomycetes → Russulales → **Hericiaceae → *Hericium 
 americanum***
 
 Originally described by James H. Ginns in 1985 based on North American collections
-previously lumped under *Hericium coralloides*. The species epithet reflects its
+previouslhericium-coralloides-entitycium coralloides*. The species epithet reflects its
 North American distribution. Some mycological authorities continue to treat it as a
 form or variety of *H. coralloides* sensu lato, but molecular phylogenetic studies
 support its status as a distinct species. Key distinguishing features from *H.
@@ -52,15 +51,15 @@ coralloides* (European) include larger spines and a more robust branching habit.
 
 ### Synonyms
 
-- *Hericium coralloides* sensu auct. amer. (misapplied)
+- *[[hericium-coralloides]]* sensu auct. amer. (misapplied)
 - *Hericium laxum* sensu some N. American authors
 
 ## Morphology
 
 - **Fruiting body**: Large, branched structure from a short stout base; 10–40 cm broad and 10–30 cm tall. Branches divide repeatedly, each bearing dense spine clusters.
-- **Spines**: White to cream, soft and fleshy, 10–40 mm long and 1–2 mm thick, hanging in cascading groups. Unlike *H. erinaceus*, spines grow from multiple branching points rather than a single compact mass.
-- **Spore print**: White. **Spores**: Globose to subglobose, 5–7 × 5–6.5 µm, smooth, hyaline, amyloid.
-- **Flesh**: White, soft, watery when fresh; tough and brittle when dried. Mild odor and taste. Saprotrophic on dead or dying hardwoods, especially oaks, beech, and maple.
+- **Spines**: White to cream, soft and fleshy, 10–40 mm long and 1–2 mm thick, hanging in cascading groups. Unlike *H. erinaceus*, spines grow from multiple branching points rather than [[spore-print-collection-spore-mass-inoculation]] mpact mass.
+  **[[spore-print]]**: White. **Spores**: Globose to subglobose, 5–7 × 5–6.5 µm, smooth, hyaline, amyloid.
+  **Flesh**: White, soft, watery when fresh; tough and brittle when dried. Mild odor and taste. Saprotrophic on dead or dying hardwoods, especially oa [[polypore-fungi-eastern-north-america]]
 
 ## Distribution and Habitat
 
@@ -135,11 +134,11 @@ aligns well with common agroforestry tree selections. Integration with existing
 hardwood management — inoculating logs thinned during forest stewardship — provides
 a value-added product from forestry operations. Its long fruiting window and
 relatively low pest susceptibility make it a practical choice for forest garden
-mushroom cultivation.
+[[mushroom-cultivation]].
 
 ## Distinguishing from Similar Species
 
-- ***Hericium erinaceus***: Single unbranched mass of spines hanging from one
+- ***[[hericium-erinaceus]]***: Single unbranched mass of spines hanging from one
   attachment point (no branching). Spines typically shorter (5–25 mm).
 - ***Hericium coralloides***: European species; spines shorter (5–25 mm) and
   branches more finely divided. Overlaps morphologically; microscopic examination
@@ -148,7 +147,3 @@ mushroom cultivation.
   generally smaller with more delicate branching.
 
 ## See Also
-
-- [[agroforestry]]
-- [[decomposition]]
-- [[hericium-abietis]]

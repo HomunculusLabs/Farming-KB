@@ -125,7 +125,7 @@ modulating qualitative effects more than quantitative potency.
 
 ## Legal Status
 
-4-HO-DPT is not specifically scheduled in most jurisdictions. As a hydroxylated tryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] (both controlled in many countries). In the US, the Federal Analogue Act could apply given structural similarity to scheduled tryptamines. The compound's extreme rarity has kept it below regulatory attention.
+4-HO-DPT is not specifically scheduled in most jurisdictions. As a hydroxylated tryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin-compound]] (both controlled in many countries). In the US, the Federal Analogue Act could apply given structural similarity to scheduled tryptamines. The compound's extreme rarity has kept it below regulatory attention.
 
 ## Cultural and Historical Significance
 

@@ -84,7 +84,7 @@ Holzer emphasises that birds are "incredibly useful and beneficial creatures" fo
 - Only feed when ground is completely covered with snow
 - Fat and feed mixture spread onto tree bark for woodpeckers, treecreepers, and nuthatches
 
-See also: [[sepp-holzer-animal-integration]], [[permaculture-domestic-animals]],,, [[paddock-system-pigs]], [[sepp-holzer-method]]
+See also: [[sepp-holzer-animal-integration]], [[permaculture-domestic-animals]],,, [[backyard-poultry-and-integrated-animal-systems]], [[sepp-holzer-method]]
 
 ### Economic and Self-Sufficiency Considerations
 

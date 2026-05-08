@@ -148,6 +148,3 @@ provides reliable results from saved seed.
 ## See Also
 
 - [[heirloom-vs-hybrid-seeds-comparison]]
-- [[seed-saving-in-permaculture]]
-- [[solomon-hybrid-vs-open-pollinated]]
-- [[cervantes-open-pollinated-heirloom-seeds]]

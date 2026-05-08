@@ -1,7 +1,7 @@
 ---
-title: High Tunnel vs Walipini (Underground Greenhouse)
+title: High Tunnel vs Walipini ([[underground-greenhouse-walipini]])
 created: 2026-04-28
-tags: [high-tunnel, walipini, greenhouse, season-extension, protected-culture, earth-sheltered, passive-solar, underground-greenhouse, hoophouse, polycarbonate]
+tags: [high-tunnel, walipini, greenhouse, [[solomon-row-covers-and-season-extension]], protected-culture, [[comparison-passive-solar-vs-earth-sheltered]], passive-solar, underground-greenhouse, hoophouse, polycarbonate]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,13 +17,13 @@ type: comparison
 ## Overview
 
 A **high tunnel** (also called a hoophouse) is an unheated, polyethylene-covered hoop structure
-typically anchored directly into the soil. It relies on solar gain and passive ventilation to
+typically anchored directly into the soil.[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] r gain and passive ventilation to
 extend the growing season by 4–8 weeks on either end, and it is the most accessible
 season-extension tool for market gardeners and homesteaders. High tunnels have no permanent
 foundation or heating system, distinguishing them from traditional greenhouses.
 
 A **walipini** is an earth-sheltered (underground or partially buried) greenhouse that uses the
-earth's thermal mass and stable subsurface temperature (~50–60 °F at 4–6 ft depth) to moderate
+earth's [[comparison-windbreak-vs-thermal-mass]] and stable subsurface temperature (~50–60 °F at 4–6 ft depth) to moderate
 internal climate. Originating in the high-altitude Altiplano of South America through work by
 the Benson Institute, walipinis leverage passive solar design with a south-facing glazed wall
 (in the Northern Hemisphere) to capture heat while the surrounding earth insulates against
@@ -142,45 +142,6 @@ would fail outright in an unheated high tunnel.
 - Limited winter production in cold zones (below zone 6) without supplemental heat
 - Poly film degrades from UV exposure; recurring $300–$800 replacement cost every 4–6 years
 - Vulnerable to extreme wind events if not properly anchored and tensioned
-- Open-bottom design means soil-borne pests and diseases can migrate in freely
-
-### Walipini — Pros
-
-- Dramatic freeze protection; true four-season growing potential in cold climates
-- Near-zero ongoing energy cost — no fuel, minimal electricity for ventilation fans
-- Earth insulation eliminates extreme temperature swings; plants experience less stress
-- Snow slides off the angled roof naturally; minimal structural snow load concerns
-- Can enable tropical/subtropical crop production in temperate zone climates
-- Long functional lifespan (20–30+ years) with durable, permanent materials
-- Reduced wind exposure and physical weathering compared to above-ground structures
-
-### Walipini — Cons
-
-- High upfront cost ($3,000–$15,000+) and significant labor; excavation is the biggest barrier
-- Drainage failure is catastrophic — flooding, root rot, structural collapse, liner damage
-- Reduced light levels (30–60%) limit fruiting crop yield and overall productivity
-- High internal humidity fosters fungal diseases (botrytis, powdery mildew, damping-off)
-- Not suitable for areas with high water tables, heavy clay soils, or flat poorly-drained land
-- Difficult or impossible to modify, expand, or relocate once constructed
-- Permitting and code compliance can be complex for earth-sheltered structures
-
-## Verdict and Recommendation
-
-**Choose a high tunnel** if you need affordable, flexible season extension for spring and fall
-production, or warm-season crop acceleration. It is the best first investment for market
-gardeners and homesteaders across USDA zones 3–9.
-
-**Choose a walipini** if your primary goal is year-round food production in a cold (zone 3–6),
-dry climate with good drainage, and you have the land, budget, and labor for a permanent
-installation. The thermal advantage is greatest where winters are long, sunny, and bitterly
-cold — the interior North American plains and mountain West are ideal.
-
-**Hybrid approaches** combine strengths from both designs. A high tunnel with a deep-mulched
-or earth-bermed north wall captures meaningful thermal mass benefit without excavation
-complexity. Alternatively, a walipini with high-light polycarbonate and active ventilation
-maximizes light while controlling humidity. A practical progression: start with a high tunnel,
-study your site for 2–3 seasons, then add a walipini as a purpose-built winter facility.
-
 ## See Also
 
 - [[eliot-coleman]]

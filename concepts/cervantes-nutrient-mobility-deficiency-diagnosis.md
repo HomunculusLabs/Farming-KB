@@ -141,4 +141,4 @@ solution. Different varieties often react differently
 to the same solution.
 
 See also: [[cervantes-troubleshooting-guide]]
-See also: [[cervantes-plant-stress-recovery]]
+See also: [[cannabis-advanced-growing-techniques]]

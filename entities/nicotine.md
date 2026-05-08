@@ -17,21 +17,19 @@ sources:
   - Henningfield, J.E. et al. (2009). "The nicotine dependence syndrome." In: R. Palmer (Ed.), Nicotine and the Tobacco Smoking Habit. Oxford University Press.
   - Wonnacott, S. (1990). "The paradox of nicotinic acetylcholine receptor upregulation by nicotine." Trends in Pharmacological Sciences, 11(6), 216-219.
 ---
-
 # Nicotine
 
 ## Overview
 
 Nicotine (3-(1-methylpyrrolidin-2-yl)pyridine) is a naturally occurring
-alkaloid found primarily in plants of the nightshade family (Solanaceae).
+alkaloid found primarily [[phloem-sap-composition-and-long-distance-signaling-in-plants]] of the nightshade family (Solanaceae).
 It acts as a potent agonist at nicotinic acetylcholine receptors (nAChRs)
 throughout the central and peripheral nervous systems. Nicotine is the
 principal psychoactive compound in tobacco and is responsible for the
 dependence liability of tobacco products.
 
 Beyond its well-known association with tobacco, nicotine has a complex
-pharmacological profile with potential therapeutic applications in cognitive
-enhancement, attention deficit disorders, and neurodegenerative diseases.
+pharmacological profile with potential therapeutic applications in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and [[blesching-cannabis-neurodegenerative-diseases]].
 It also has a documented history of traditional use as an insecticide
 and entheogen among Indigenous peoples of the Americas.
 
@@ -43,18 +41,18 @@ and entheogen among Indigenous peoples of the Americas.
 - **CAS number:** 54-11-5
 - **Structure:** Bicyclic alkaloid composed of a pyridine ring linked to a
   pyrrolidine ring
-- **State:** Colorless to pale yellow, oily liquid at room temperature
-- **Solubility:** Freely soluble in water, alcohol, ether, and chloroform
-- **Boiling point:** 247 °C at 760 mmHg
-- **pKa:** 8.02 (pyrrolidinium nitrogen), 3.12 (pyridine nitrogen)
+- **State:** Colorless to ingoldian hyphomycetes [[spore-dispersal]] in waterlow, oily liquid at room temperature
+  **Solubility:** Freely soluble in water, alcohol, ether, and chloroform
+  **Boiling point:** 247 °C at 760 mmHg
+  **pKa:** 8.02 (pyrrolidinium nitrogen), 3.12 (pyridine nitrogen)
 
-The free base is volatile and readily absorbed through skin and mucous
+The free base is volatilwater [[knf-water-soluble-calcium-phosphate]] um]] um-phosphate-bionutrient]] alcium-phosphate-wcp]] absorbed through skin and mucous
 membranes. The protonated (salt) form, as in nicotine bitartrate, is more
-water-soluble and commonly used in pharmaceutical preparations.
+[[water-soluble-potassium-wp]] and commonly used in pharmaceutical preparations.
 
 ## Pharmacology
 
-Nicotine acts primarily as an agonist at nicotinic acetylcholine receptors
+Nicotine acts primarilemcdda-[[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]-route-administration-and-effectsnist at nicotinic acetylcholine receptors
 (nAChRs), which are ligand-gated ion channels composed of five subunits.
 
 **Receptor subtypes and effects:**
@@ -105,12 +103,12 @@ Nicotine is synthesized by several Solanaceae species as an insecticidal
 defense compound:
 
 - **Nicotiana tabacum** (cultivated tobacco) — 0.5–8% dry weight of leaves
-- **Nicotiana rustica** (Aztec tobacco) — 2–18% dry weight, significantly
+- **[[nicotiana-rustica]]** (Aztec tobacco) — 2–18% dry weight, significantly
   higher nicotine content
-- **Duboisia hopwoodii** (pituri) — Australian Aboriginal chewing plant,
+- **[[duboisia-hopwoodii]]** (pituri) — Australian Aboriginal chewing plant,
   ~2–4% nicotine
-- **Asclepias syriaca** (common milkweed) — trace amounts
-- **Erythroxylum coca** — trace amounts co-occurring with cocaine
+- **[[asclepias-syriaca]]** (common milkweed) — trace amounts
+- **[[erythroxylum-coca]]** — trace amounts co-occurring with cocaine
 
 ## Historical and Cultural Significance
 
@@ -148,10 +146,3 @@ potential in several clinical contexts:
 - **Nornicotine** — demethylated metabolite; minor pharmacological activity
 - **Anabasine** — structurally related alkaloid from *Nicotiana glauca*;
   nicotinic agonist used historically as an insecticide
-- **Anatabine** — minor tobacco alkaloid with anti-inflammatory properties
-
-## See Also
-
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
-- [[tihkal-harmala-alkaloids]]
-- [[morning-glory-lsa-and-ergoline-alkaloids]]

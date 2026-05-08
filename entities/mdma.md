@@ -36,7 +36,7 @@ sources:
 - **Classification:** Substituted amphetamine; phenethylamine derivative; entactogen
 - **Appearance:** White crystalline powder (pure form); commonly encountered as tablets, capsules, or powder
 
-MDMA is structurally related to both **amphetamine** (through the alpha-methyl group) and **mescaline** (through the 3,4-methylenedioxy substitution pattern on the phenyl ring). It exists as two enantiomers: **(R)-(−)-MDMA** and **(S)-(+)-MDMA**, with the S-enantiomer being more potent in releasing serotonin.
+MDMA is structurally related to both **amphetamine** (through the alpha-methyl group) and **mescaline** (through the 3,4-methylenedioxy substitution pattern on the phenyl ring). It exists as two enantiomers: **(R)-(−)-MDMA** and **(S)-(+)-MDMA**, with the S-enantiomer being more potent in releasing [[serotonin]].
 
 ## Pharmacology
 
@@ -44,7 +44,7 @@ MDMA is structurally related to both **amphetamine** (through the alpha-methyl g
 
 MDMA acts primarily as a **releasing agent and reuptake inhibitor** of three monoamine neurotransmitters:
 
-1. **Serotonin (5-HT):** Primary mechanism — MDMA enters serotonergic neurons via the serotonin transporter (SERT) and causes massive, non-exocytotic serotonin release by reversing the transporter's normal direction. It also inhibits tryptophan hydroxylase (the rate-limiting enzyme in serotonin synthesis) and activates 5-HT₂ receptors. This serotonergic action is responsible for the characteristic empathogenic and mood-elevating effects.
+1. **Serotonin (5-HT):** Primary mechanism — MDMA enters serotonergic neurons via the serotonin transporter (SERT) and causes massive, non-exocytotic serotonin release by reversing the transporter's normal direction. It also inhibits [[tryptophan]] hydroxylase (the rate-limiting enzyme in serotonin synthesis) and activates 5-HT₂ receptors. This serotonergic action is responsible for the characteristic empathogenic and mood-elevating effects.
 
 2. **Dopamine (DA):** MDMA reverses the dopamine transporter (DAT), causing dopamine release in the mesolimbic pathway. This contributes to the stimulant and euphoric effects, reward signaling, and some of the neurotoxic potential.
 
@@ -147,9 +147,4 @@ MDMA-assisted psychotherapy is among the most promising applications in modern p
 ## See Also
 
 - [[alexander-shulgin]]
-- [[mescaline]]
-- [[serotonin]]
-
-- MDA — primary active metabolite · Amphetamine — parent pharmacological class · [[mescaline]] — structural relative
-- [[serotonin]] — primary neurotransmitter target · PIHKAL — Shulgin's compendium (MDMA #109)
-- [[maps]] — clinical research organization · PTSD — primary therapeutic target · [[alexander-shulgin]] — rediscoverer
+- [[mescaline-entity]]

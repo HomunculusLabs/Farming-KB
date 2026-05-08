@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Tremella mesenterica
 
-**Tremella mesenterica**, commonly known as the yellow brain fungus or golden jelly fungus, is a species of jelly fungus in the family Tremellaceae. While primarily known for its striking visual appearance, it has attracted scientific interest for its bioactive polysaccharide content and antioxidant properties. It is related to the commercially cultivated [[tremella-fuciformis]], which is widely used in Chinese cuisine and medicine.
+**Tremella mesenterica**, commonly known as the yellow brain fungus or golden jelly fungus, is a species of jelly fungus in the family Tremellaceae. While primarily known for its striking visual appearance, it has attracted scientific interest for its bioactive polysaccharide content and antioxidant properties. It is related to the commercially cultivated [[tremella-fuciformis-entity]], which is widely used in Chinese cuisine and medicine.
 
 ## Taxonomy and Classification
 
@@ -61,7 +61,7 @@ The fruiting bodies appear during wet periods, particularly in autumn and winter
 
 Chemical analysis of T. mesenterica has revealed several notable constituents:
 
-- **Polysaccharides:** The most significant component is a water-soluble acidic heteropolysaccharide composed primarily of glucose, mannose, xylose, and glucuronic acid. This polysaccharide, often referred to as tremellan, shares structural similarities with the polysaccharides found in [[tremella-fuciformis]] (tremellan-type glucuronoxylomannan).
+- **Polysaccharides:** The most significant component is a water-soluble acidic heteropolysaccharide composed primarily of glucose, mannose, xylose, and glucuronic acid. This polysaccharide, often referred to as tremellan, shares structural similarities with the polysaccharides found in [[tremella-fuciformis-entity]] (tremellan-type glucuronoxylomannan).
 - **Proteins:** Low protein content compared to fleshy agaric mushrooms, consistent with its gelatinous composition.
 - **Fat:** Very low lipid content.
 - **Minerals:** Contains potassium, calcium, magnesium, and various trace elements.
@@ -81,7 +81,7 @@ The polysaccharide fractions of T. mesenterica have demonstrated immunomodulator
 - Enhancement of splenocyte proliferation
 - Modulation of cytokine production profiles
 
-While less extensively studied than the polysaccharides of [[tremella-fuciformis]], the tremellan-type polysaccharides from T. mesenterica appear to share similar immunomodulatory mechanisms, likely involving beta-glucan receptor-mediated signaling on immune cells.
+While less extensively studied than the polysaccharides of [[tremella-fuciformis-entity]], the tremellan-type polysaccharides from T. mesenterica appear to share similar immunomodulatory mechanisms, likely involving beta-glucan receptor-mediated signaling on immune cells.
 
 ### Antioxidant Properties
 
@@ -95,7 +95,7 @@ T. mesenterica extracts have demonstrated significant antioxidant activity:
 
 ### Moisturizing and Skin Health
 
-Like its close relative [[tremella-fuciformis]], T. mesenterica polysaccharides have excellent water-holding capacity and have been investigated for cosmetic and dermatological applications:
+Like its close relative [[tremella-fuciformis-entity]], T. mesenterica polysaccharides have excellent water-holding capacity and have been investigated for cosmetic and dermatological applications:
 
 - Superior moisture retention compared to hyaluronic acid in some studies
 - Formation of protective films on skin surfaces
@@ -120,7 +120,7 @@ As a mycoparasite, T. mesenterica plays an important ecological role in [[dighto
 
 ## Traditional and Cultural Use
 
-T. mesenterica has limited documented use in traditional medicine compared to its cultivated relative [[tremella-fuciformis]]. However, it has been:
+T. mesenterica has limited documented use in traditional medicine compared to its cultivated relative [[tremella-fuciformis-entity]]. However, it has been:
 
 - Collected as an edible fungus in some cultures, though its gelatinous texture is not universally appreciated
 - Used in folk medicine in parts of Europe and China for respiratory ailments
@@ -129,9 +129,9 @@ T. mesenterica has limited documented use in traditional medicine compared to it
 
 ## Distinction from Tremella fuciformis
 
-T. mesenterica differs from its commercially important relative [[tremella-fuciformis]] in color (bright yellow-orange vs. white), texture (more rubbery vs. delicate), habitat (parasitic on Peniophora vs. Annulohypoxylon), and commercial importance (limited vs. widely cultivated and studmalt-extract-agartion
+T. mesenterica differs from its commercially important relative [[tremella-fuciformis-entity]] in color (bright yellow-orange vs. white), texture (more rubbery vs. delicate), habitat (parasitic on Peniophora vs. Annulohypoxylon), and commercial importance (limited vs. widely cultivated and studmalt-extract-agartion
 
-Cultivation of T. mesenterica has not been commercially developed, partly because [[tremella-fuciformis]] serves as a more commercially viable and extensively studied alternative. Laboratory cultivation has been achieved on:
+Cultivation of T. mesenterica has not been commercially developed, partly because [[tremella-fuciformis-entity]] serves as a more commercially viable and extensively studied alternative. Laboratory cultivation has been achieved on:
 
 - Malt extract agar and potato dextrose agar for mycelial growth
 - Sterilized wood substrates for fruiting body production
@@ -143,6 +143,6 @@ T. mesenterica is generally considered safe and edible, though it is not widely 
 
 ## See Also
 
-- [[tremella-fuciformis]] — commercially cultivated relative with extensive medicinal research
+- [[tremella-fuciformis-entity]] — commercially cultivated relative with extensive medicinal research
 - [[tremella-aurantia]] — morphologically similar species that parasitizes [[trametes-versicolor]]
 - [[schizophyllan]] — polysaccharide immunomodulator from another jelly fungus relative

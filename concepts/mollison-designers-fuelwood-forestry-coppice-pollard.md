@@ -148,8 +148,3 @@ irregular boundaries for greatest diversity and productivity.
 ## Drying and Storage
 
 Fresh-cut wood contains 50-60% water. Air-dry for 6-12 months under cover to
-reach 15-20% moisture. Split wood to increase surface area. Stack on bearers off
-the ground with air spaces. Cover the top while keeping sides open. Properly
-dried hardwood produces more heat, less smoke, and less creosote.
-
-[[faires-coppicing-and-woodlot-management]] offers additional practical guidance on coppice systems. [[mollison-course-coppice-forest-management]] expands on Mollison's approach to forest management. For post-harvest handling, [[firewood-seasoning-and-storage]] covers drying and storage best practices. Integrating woodlots with [[forest-garden-design-principles]] creates productive multi-functional landscapes. Coppiced

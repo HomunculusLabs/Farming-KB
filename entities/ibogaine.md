@@ -141,6 +141,6 @@ Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
 
 ## See Also
 
-- [[noribogaine]]
-- [[psilocybin]]
+- [[noribogaine-entity]]
+- [[psilocybin-compound]]
 - [[serotonin]]

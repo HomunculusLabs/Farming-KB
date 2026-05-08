@@ -8,13 +8,11 @@ sources:
   - grahamholmes-what-a-plant-knowsindd.md
 type: concept
 ---
-
 # Garner and Allard Photoperiodism Experiment Methodology
 
-The discovery of photoperiodism by Wightman W. Garner and Harry A. Allard at the
-United States Department of Agriculture in 1918 stands as one of the most
-elegant experiments in plant physiology. Their work demonstrated that plants
-measure the duration of continuous darkness to regulate flowering, fundamentally
+The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] by Wightman W. Garner and Harry A. Allard at the
+United States Department of Agriculture in 1918 stands as onstephen-hales-plant-physiologyegant experiments in plant physiology. Their work demonstrated that plants
+measure the duration of continuous darkness to regulate flowercervantes-photosynthesis-chlorophyll-plant-sciencetally
 reshaping agricultural practice and plant science.
 
 ## The Maryland Mammoth Problem
@@ -26,7 +24,7 @@ America's greatest tobacco farms since the first settlers arrived from Europe at
 the end of the seventeenth century, with cultivation practices learned from
 native tribes such as the Susquehannock who had grown tobacco for centuries.
 
-The new strain, later named Maryland Mammoth, could reach four and a half metres
+The new strain, later named Maryland Mammotgreen-cannabis-vegetative-growthur and a half metres
 in height and produce nearly a hundred leaves, continuing vegetative growth
 without ceasing. It would only stop growing when the frosts set in. On the
 surface, such a robust, ever-growing plant would seem a boon to tobacco farmers.
@@ -112,10 +110,10 @@ specific. Only red light flashes during the night influenced flowering. Blue or
 green light pulses had no effect on flowering time, even at equivalent
 intensities and durations. This spectral specificity indicated that a dedicated
 photoreceptor, distinct from the blue-light-sensing system that drives
-phototropism, mediated the photoperiodic response.
+[[phototropism]], mediated the photoperiodic response.
 
 The subsequent discovery that far-red light could reverse the
-flowering-inducing effect of red light led to the identification of phytochrome
+flowering-inducing effect of red light led to the identification of [[phytochrome]]
 as the photoreceptor responsible. The red and far-red reversible switch model
 of phytochrome action provided a molecular mechanism for photoperiodic
 timekeeping that remains foundational in plant biology.
@@ -147,9 +145,3 @@ was sufficient to identify an entirely new physiological mechanism governing
 the reproductive timing of thousands of plant species.
 
 ## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[phototropism-photoperiodism-discovery-phytochrome]]
-- [[good-friday-experiment-marsh-chapel]]
-- [[ingham-field-guide-aact-brewing-methodology]]
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]]

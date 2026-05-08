@@ -77,7 +77,7 @@ Rooftop gardens require careful water management. Containers on roofs dry out fa
 - [[reciprocal-roof-frame]]
 
 - [[urban-permaculture-energy-cycling-principles]] — energy cycling in urban settings
-- [[permaculture-design-principles-beginners]] — core design principles
+- [[permaculture-design-principles]] — core design principles
 - [[food-forest-design]] — food forest concepts
 - [[cho-fermented-mixed-compost-methods]] — composting methods
 

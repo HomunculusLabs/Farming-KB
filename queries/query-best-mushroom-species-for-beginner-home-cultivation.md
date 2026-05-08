@@ -142,27 +142,6 @@ Mix (sawdust + soy hulls) produces the best results.
   pasteurized, not raw. Substrate prep matters more than strain choice.
 - **Ignoring FAE:** CO₂ buildup causes stringy stems and small caps. Fan the fruiting
   chamber 2–4 times daily.
-- **Impatience:** Colonization takes 2–4 weeks; fruiting another 1–3 weeks. Resist opening
-  jars or moving bags during colonization.
-
-## Seasonality Considerations
-
-- **Spring (Mar–May):** Ideal for wine cap and shiitake log inoculation. Indoor species
-  grow well without supplemental heating.
-- **Summer (Jun–Aug):** Good for Pink and Golden Oyster (warm-loving). Most gourmet
-  species struggle above 80°F.
-- **Fall (Sep–Nov):** Peak outdoor wine cap harvests; best window for new outdoor beds
-  before winter dormancy.
-- **Winter (Dec–Feb):** Indoor cultivation essential. King Oyster and Blue Oyster perform
-  well in cool indoor environments.
-
-## Bottom Line
-
-For absolute beginners, **Pearl Oyster on pasteurized straw** is the lowest-barrier entry
-point and fastest path to a successful harvest. For outdoor growers, **Wine Cap in a garden
-wood-chip bed** requires almost no equipment and produces for years. Both cost under $30
-and can yield a pound or more of fresh mushrooms within the first month.
-
 ## See Also
 
 - [[mushroom-cultivation-basics]]

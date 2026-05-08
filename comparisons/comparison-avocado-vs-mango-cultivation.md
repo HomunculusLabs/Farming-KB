@@ -23,7 +23,7 @@ A comprehensive comparison of two premier subtropical food forest trees for perm
 
 ## Overview
 
-Both avocado (*Persea americana*) and mango (*Mangifera indica*) are cornerstone species in subtropical and tropical food forests. Each provides nutrient-dense fruit, significant canopy coverage, and deep root systems that contribute to soil health. However, they differ substantially in climate tolerance, water requirements, and integration strategies. This comparison helps growers choose the right tree — or the right combination — for their site.
+Both avocado (*Persea americana*) and mango (*[[mangifera-indica]]*) are cornerstone species in subtropical and tropical food forests. Each provides nutrient-dense fruit, significant canopy coverage, and deep root systems that contribute to soil health. However, they differ substantially in climate tolerance, water requirements, and integration strategies. This comparison helps growers choose the right tree — or the right combination — for their site.
 
 ## Nutritional Profile
 
@@ -72,7 +72,7 @@ Both species fruit within 3–6 years from grafted planting. Mangoes generally o
 
 ### Pest and Disease Challenges
 
-Avocado root rot (*Phytophthora cinnamomi*) is the single most serious threat and can destroy entire orchards. Proper drainage, mulching (avoiding trunk contact), and resistant rootstocks are essential. Mangoes face foliar and fruit diseases (anthracnose is the primary concern in humid climates) but are generally more resilient as mature trees. Integrated pest management and good airflow through pruning are key for both.
+Avocado root rot (*Phytophthora cinnamomi*) is the single most serious threat and can destroy entire orchards. Proper drainage, mulching (avoiding trunk contact), and resistant rootstocks are essential. Mangoes face foliar and fruit diseases (anthracnose is the primary concern in humid climates) but are generally more resilient as mature trees. [[integrated-pest-management]] and good airflow through pruning are key for both.
 
 ### Permaculture Integration
 
@@ -90,7 +90,7 @@ Grafting is the standard for both commercial and homestead planting, ensuring tr
 
 ### Pollination Considerations
 
-Avocado flowers exhibit a unique synchronous dichogamy pattern — Type A and Type B varieties open their flowers at different times of day. Planting both types in a food forest can significantly boost fruit set, though many varieties are partially self-fertile in warm climates with abundant pollinators. Bees are the primary pollinators, so maintaining healthy pollinator habitat is essential. Mangoes are generally self-fertile, which simplifies planting for small homesteads. However, planting multiple varieties can extend the harvest season and improve fruit set in less-than-ideal conditions.
+Avocado flowers exhibit a unique synchronous dichogamy pattern — Type A and Type B varieties open their flowers at different times of day. Planting both types in a food forest can significantly boost fruit set, though many varieties are partially self-fertile in warm climates with abundant pollinators. Bees are the primary pollinators, so maintaining healthy [[pollinator-habitat]] is essential. Mangoes are generally self-fertile, which simplifies planting for small homesteads. However, planting multiple varieties can extend the harvest season and improve fruit set in less-than-ideal conditions.
 
 ### Pruning and Training
 

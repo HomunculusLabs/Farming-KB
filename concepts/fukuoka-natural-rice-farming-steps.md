@@ -62,7 +62,7 @@ The ducks eat insects and snails that would otherwise damage the rice. They upro
 
 This is not a single technique but a small ecosystem, in which each element supports and is supported by the others.
 
-This approach to integrated pest management anticipates many modern [[permaculture-food-forest-design-principles]] techniques and connects to the broader practice of [[no-till-gardening-method]], where biological processes replace mechanical and chemical interventions.
+This approach to integrated pest management anticipates many modern [[permaculture-food-forest-design-principles]] techniques and connects to the broader practice of [[composting-and-soil-biology]], where biological processes replace mechanical and chemical interventions.
 
 ## Step 5: Straw Mulching
 

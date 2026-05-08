@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-The [[core endorhiza community]] of cannabis consists of bacterial taxa consistently present across different cultivars, soil types, and growing conditions. Winston et al. (2014) identified six major bacterial groups comprising the universal core community within cannabis root tissues.
+The [[core-endorhiza-community]] of cannabis consists of bacterial taxa consistently present across different cultivars, soil types, and growing conditions. Winston et al. (2014) identified six major bacterial groups comprising the universal core community within cannabis root tissues.
 
 These are [[pseudomonas]], Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. This core provides baseline functional capabilities to all cannabis plants, while cultivar-specific taxa fine-tune community composition based on host genotype.
 
 ## Defining the Core Community
 
-The core community was defined by consistent presence across all endorhiza samples from five cultivars: Burmese, Bookoo Kush, [[sour-diesel]], [[white-widow]], and [[maui-wowie]].
+The core community was defined by consistent presence across all endorhiza samples from five cultivars: Burmese, Bookoo Kush, [[sour-diesel]], [[white-widow-entity]], and [[maui-wowie]].
 
 These span both Cannabis sativa and indica genetic backgrounds and were grown in multiple soil types across two separate experiments in Vista and Orange County, California. The persistence of these taxa across such diverse conditions indicates robust colonization ability.
 
@@ -35,7 +35,7 @@ The core microbiome concept implies these taxa provide essential services regard
 
 ### Pseudomonas
 
-[[pseudomonas]] was a dominant member of the cannabis endorhiza core community and one of the most well-studied genera of plant-associated bacteria. Members produce siderophores for iron acquisition and synthesize [[indole-3-acetic acid]] for growth promotion.
+[[pseudomonas]] was a dominant member of the cannabis endorhiza core community and one of the most well-studied genera of plant-associated bacteria. Members produce siderophores for iron acquisition and synthesize [[indole-3-acetic-acid]] for growth promotion.
 
 They also solubilize phosphate and suppress pathogens through antibiotic production including phenazines and hydrogen cyanide. The consistent presence of Pseudomonas in cannabis roots mirrors findings from Arabidopsis, Populus, potato, and numerous crop species.
 
@@ -47,7 +47,7 @@ This suggests potential keystone interactions within the core community that aff
 
 Cellvibrio was part of the core community but showed dramatically different abundances between experiments. In the post-harvest first experiment, Cellvibrio comprised 16.9% of the endorhiza community (SD = 13.0%).
 
-In actively growing plants of the second experiment, it comprised only 0.095% (SD = 2.7%). This difference was attributed to [[root decay]], as Cellvibrio is a known aerobic cellulytic bacterium.
+In actively growing plants of the second experiment, it comprised only 0.095% (SD = 2.7%). This difference was attributed to [[root-decay]], as Cellvibrio is a known aerobic cellulytic bacterium.
 
 Its low-level presence in living plants may represent genuine endophytic colonization, while its post-harvest dominance reflects opportunistic decomposition of dying root tissue. This dramatic abundance shift makes Cellvibrio a useful indicator of sampling timing and root health status.
 
@@ -57,7 +57,7 @@ The family Oxalobacteraceae (order Burkholderiales, class Betaproteobacteria) wa
 
 Oxalic acid is a compound produced by many plants that can be toxic at elevated concentrations. This detoxification service may be particularly relevant for cannabis, as calcium oxalate crystals are common in cannabis tissues.
 
-Oxalate-degrading endophytes could prevent crystal formation and associated cellular damage in root tissues, explaining their consistent selection across all cultivars through the [[two-tier selection model]].
+Oxalate-degrading endophytes could prevent crystal formation and associated cellular damage in root tissues, explaining their consistent selection across all cultivars through the [[two-tier-selection-model]].
 
 ### Xanthomonadaceae
 
@@ -71,7 +71,7 @@ Actinomycetales (phylum Actinobacteria) were a consistent core component, repres
 
 They also produce vast arrays of bioactive secondary metabolites including antibiotics. Within the endorhiza, actinomycetes likely contribute to disease suppression through antibiotic production and to nutrient mineralization through polymer degradation.
 
-The enrichment of Actinobacteria from bulk soil to endorhiza is a characteristic phylum-level shift in the [[two-tier selection model]]. This enrichment suggests the endorhiza environment selectively favors actinomycete traits such as filamentous growth aiding tissue colonization.
+The enrichment of Actinobacteria from bulk soil to endorhiza is a characteristic phylum-level shift in the [[two-tier-selection-model]]. This enrichment suggests the endorhiza environment selectively favors actinomycete traits such as filamentous growth aiding tissue colonization.
 
 ### Sphingobacteriales
 
@@ -87,7 +87,7 @@ The most significant individual OTU shift was the decrease in Acidobacteria from
 
 Of the 51 OTUs significantly differentiating sample types, 17 increased in abundance within the endorhiza relative to the rhizosphere. These were predominantly Proteobacteria from the Rhizobiales order.
 
-Mean abundance correlations declined progressively across compartments: bulk soil to rhizosphere (Pearson rho: 0.92), rhizosphere to endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42). This declining correlation mirrors the [[alpha diversity gradient]].
+Mean abundance correlations declined progressively across compartments: bulk soil to rhizosphere (Pearson rho: 0.92), rhizosphere to endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42). This declining correlation mirrors the [[alpha-diversity-gradient]].
 
 ## Core Versus Cultivar-Specific Communities
 
@@ -119,12 +119,12 @@ Functional characterization of the core taxa through culture-dependent isolation
 - [[cannabis-microbiome-soil-type-composition-strain-structure]]
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 
-- [[cannabis endorhiza microbiome]]
-- [[proteobacteria dominance in cannabis endorhiza]]
-- [[two-tier selection model]]
+- [[cannabis-endorhiza-microbiome]]
+- [[proteobacteria-dominance-in-cannabis-endorhiza]]
+- [[two-tier-selection-model]]
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
 - [[cellvibrio-and-root-decay-microbiome]]
-- [[alpha diversity gradient bulk soil cannabis endorhiza]]
-- [[edaphic determinants of cannabis microbiome community structure]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[edaphic-determinants-of-cannabis-microbiome-community-structure]]

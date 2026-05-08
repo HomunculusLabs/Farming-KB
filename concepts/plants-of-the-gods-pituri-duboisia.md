@@ -128,5 +128,5 @@ importance of psychoactive plants in indigenous Australian culture.
 - [[solanaceous-hallucinogens-pharmacology]] - pharmacology
 - [[betel-nut-arecoline-ethnobotany]] - comparative chewing practices
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey
-- [[hallucinogenic-plants-of-the-world]] - worldwide overview
+- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview
 - [[plants-of-the-gods-nightshade-hexing-herbs]] - related Nightshades

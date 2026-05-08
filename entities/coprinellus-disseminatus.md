@@ -115,7 +115,7 @@ Several coprinoid mushrooms resemble C. disseminatus but can be distinguished by
 - coprinellus truncorum
 - [[psychedelic-fungi-taxonomy]]
 - [[basidiomycota-classification-major-clades]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - coprinellus
 - [[challenges-neurotropic-fungi-identification-chemical-analysis]]
 - [[spore-print]]

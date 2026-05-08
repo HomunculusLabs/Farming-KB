@@ -123,5 +123,5 @@ This finding underscores that weight-based dosing of [[psilocybe-cubensis]] is i
 
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]] - Full analysis of flush-to-flush variation
 - [[psilocybin-potency-variation]] - Broader context of potency variability
-- [[psilocybin-psilocin-flush-variation]] - Detailed flush dynamics
+- [[psilocybin-psilocin-flush-accumulation-patterns]] - Detailed flush dynamics
 - [[psilocybe-cubensis]] - Species overview and cultivation

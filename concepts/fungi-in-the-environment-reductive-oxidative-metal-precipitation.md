@@ -148,4 +148,3 @@ archaea.
 - [[mycogenic-mineral-precipitation]]
 - [[fungal-biogeochemistry]]
 - [[fungi-in-the-environment-fungal-mineral-weathering]]
-- [[fungi-in-the-environment-fungal-ecosystems]]

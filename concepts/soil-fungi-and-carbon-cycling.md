@@ -102,4 +102,4 @@ track carbon through fungal pathways in situ.
 - [[mycorrhizal-symbiosis]]
 - [[savory-soil-organic-matter-and-decomposition-dynamics]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[mycorrhiza-carbon-cycle-sequestration]]
+- [[the-soil-food-web]]

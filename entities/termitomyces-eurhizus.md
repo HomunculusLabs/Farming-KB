@@ -1,5 +1,5 @@
 ---
-title: "Termitomyces eurhizus"
+title: "termitomyces eurhizus"
 created: 2026-04-28
 type: species
 tags:
@@ -11,8 +11,8 @@ tags:
   - tropical
   - africa
   - asia
-  - permaculture
-  - agroforestry
+  - [[permaculture]]
+[[agroforestry]] stry
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -22,7 +22,6 @@ sources:
   - Oei, P. (1996). Mushroom Cultivation: Appropriate Technology for Mushroom Growers. TOOL Publications.
   - De Fine Licht, H.H. et al. (2005). "The termite fungus comb." Insectes Sociaux, 52(3), 247-254.
 ---
-
 # Termitomyces eurhizus
 
 ## Overview
@@ -30,10 +29,9 @@ sources:
 **Termitomyces eurhizus** (Berk.) R. Heim is an edible agaric mushroom in the
 family Lyophyllaceae, notable for its obligate symbiotic relationship with
 fungus-growing termites (Macrotermitinae). It is one of the most prized wild
-edible mushrooms in tropical Africa and South and Southeast Asia, where it
+edible mushrooms in tropical Africa and South and [[fungi-of-southeast-asia]], where it
 fruits seasonally from termite mounds during the rainy season. The species
-is commercially significant, highly nutritious, and has potential in
-sustainable agroforestry systems.
+is commercially significant, highly nutritious, and has potential inagroforestry]] agroforestry systems.
 
 ## Taxonomy
 
@@ -65,11 +63,7 @@ annulus, brownish below. Characteristic long **pseudorhiza**
 (subterranean extension) connects to termite comb, often extending
 200–600 mm into the mound.
 
-**Annulus:** Membranous, persistent, movable, white to cream — a key
-field identification feature.
-
-**Spores:** 6.5–9 × 4.5–6 µm, ellipsoid, smooth, hyaline, inamyloid.
-Spore print white to pale pink.
+**Annulus:** Membranous, persistent, movable, white palmer-mushroom-hunting-field-identificationld-spore-mass-inoculationsoid, smooth, hyaline, inamylo [[spore-print-collection-spore-mass-inoculation]] rint white to pale pink.
 ## Distribution and Habitat
 **Geographic range:** Tropical Africa (Senegal to DRC and Tanzania), South
 Asia (India, Sri Lanka, Bangladesh), Southeast Asia (Thailand, Malaysia,
@@ -112,8 +106,8 @@ food source in regions with limited animal protein availability.
 
 Cultivation has proven exceptionally difficult due to obligate dependence
 on termite symbiosis. Standard substrates do not support robust growth.
-Simulating termite comb conditions (partially digested plant material at
-28–30°C, 85–95% humidity, specific microbial communities) has produced
+Simulating termite comb cs [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] tors-microbial-communitiesdigested plant material at
+28–30°C, 85–95% humidity, speci [[soil-edaphic-factors-microbial-communities]] ties) has produced
 limited fruiting experimentally but remains commercially unviable.
 
 ## Harvesting and Economic Importance
@@ -127,7 +121,7 @@ in West and Central Africa is estimated in the tens of millions of dollars.
 ## Permaculture and Agroforestry Potential
 
 The termite-*Termitomyces* system is a highly efficient lignocellulose
-digestion partnership relevant to sustainable agriculture:
+digestion partnership relevant to [[phosphate-accumulators-sustainable-agriculture]]:
 
 - **Integrated decomposition:** Converts woody debris into edible protein
   with high efficiency — a natural bioconversion unit.
@@ -142,15 +136,9 @@ than eliminating them can enhance overall system productivity.
 
 ## Similar Species
 
-- **Termitomyces clypeatus** — larger cap, thicker stipe, South Asia.
-- **Termitomyces titanicus** — largest known agaric (cap to 1 m),
+- **[[termitomyces-clypeatus]]** — larger cap, thicker stipe, South Asia.
+- **[[termitomyces-titanicus]]** — largest known agaric (cap to 1 m),
   West/Central Africa; distinguished by massive size and poorly
   developed annulus.
 - **Termitomyces letestui** — smaller, more delicate, Central African
   forests; different spore morphology.
-
-## See Also
-
-- [[agroforestry]]
-- [[appropriate-technology]]
-- [[decomposition]]

@@ -112,7 +112,7 @@ Duplicate samples and field blanks identify contamination or variability in samp
 Inter-laboratory comparison studies assess reproducibility across different analytical facilities.
 Standardized protocols such as those published by the International Organization for Standardization (ISO) and the U.S. Environmental Protection Agency (EPA) provide frameworks for consistent, comparable monitoring across different sites and research groups.
 For regulatory compliance, data quality objectives (DQOs) must be established before monitoring begins, specifying acceptable levels of precision, accuracy, representativeness, completeness, and comparability for each measured parameter.
-See [[mycoremediation-regulatory-framework]] for regulatory compliance requirements.
+See mycoremediation regulatory framework for regulatory compliance requirements.
 
 ## See Also
 
@@ -123,6 +123,6 @@ See [[mycoremediation-regulatory-framework]] for regulatory compliance requireme
 - [[mycoremediation-site-assessment]]
 - [[fungal-bioremediation-case-studies]]
 - [[mycoremediation-scale-up-challenges]]
-- [[mycoremediation-regulatory-framework]]
+- mycoremediation regulatory framework
 - [[fungal-bioremediation-mechanisms]]
 - [[bioavailability-in-fungal-bioremediation]]

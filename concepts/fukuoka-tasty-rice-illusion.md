@@ -72,7 +72,7 @@ Fukuoka would argue that all of these represent movement away from a [[fukuoka-n
 ## See Also
 
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-diet-as-foundation]]
 - [[fukuoka-rice-barley-no-till-method]]
 - [[fukuoka-rice-and-barley-natural-farming]]

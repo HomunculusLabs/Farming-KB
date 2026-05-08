@@ -21,7 +21,7 @@ organisms can be grown in mass.
 
 ## Historical Foundation
 
-Louis Pasteur (1822-1895) pioneered [[mushroom-cultivation-sterile-technique]] by recognizing
+Louis Pasteur (1822-1895) pioneered [[mushroom-cultivation-fundamentals]] by recognizing
 that microorganisms are killed by heat, most effectively by steam or
 boiling water. Tissue culture of one organism in absence of competitors
 became possible for the first time. By the early 1900s, growing

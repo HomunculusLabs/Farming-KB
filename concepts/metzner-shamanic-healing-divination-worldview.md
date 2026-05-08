@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[psychedelic psychotherapy]] in their underlying worldview, particularly in their acceptance of multiple realities and the reality of spirit beings. Understanding these foundational practices is essential for grasping the origins and cultural context of modern [[entheogenic-mushroom-species]] use.
+In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[psychedelic-psychotherapy]] in their underlying worldview, particularly in their acceptance of multiple realities and the reality of spirit beings. Understanding these foundational practices is essential for grasping the origins and cultural context of modern [[entheogenic-mushroom-species]] use.
 
 ## The Shamanic Approach to Set and Setting
 
@@ -39,7 +39,7 @@ This intentional structuring makes the shamanic ceremony the logical as well as 
 
 ### Three Distinctive Features
 
-Metzner identifies three features that consistently distinguish traditional shamanic entheogenic ceremonies from Western [[psychedelic psychotherapy]] sessions:
+Metzner identifies three features that consistently distinguish traditional shamanic entheogenic ceremonies from Western [[psychedelic-psychotherapy]] sessions:
 
 1. **Minimal verbal interaction**: Traditional ceremonies involve very little or no talking among participants, except during preparatory phases or after the experience to clarify teachings and visions received
 2. **Essential role of singing**: The shaman's singing is invariably considered essential to the success of healing or divination. The singing typically has a fairly rapid beat, similar to the rhythmic pulse in shamanic drumming journeys widespread across Northern Hemisphere shamanistic societies. Psychically, the rhythmic chanting supports movement through the flow of visions and minimises the likelihood of getting stuck in frightening or seductive experiences
@@ -53,7 +53,7 @@ The role of the guide, curandera, or healer is always described as central and e
 
 ### Training and Initiation
 
-Shamanic healers typically undergo lengthy initiation and training, sometimes lasting years, under the guidance of an experienced elder before working with others. This mirrors the consensus in Western [[psychedelic psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
+Shamanic healers typically undergo lengthy initiation and training, sometimes lasting years, under the guidance of an experienced elder before working with others. This mirrors the consensus in Western [[psychedelic-psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
 
 ## Varieties of Traditional Entheogenic Ceremonies
 
@@ -130,29 +130,6 @@ The experience may involve perception of nonmaterial, normally invisible spirit 
 - Other nonordinary entities (extraterrestrials, elves)
 
 The experience may include identification with a spirit, such as becoming a jaguar or a serpent. Healing and divination are experienced as being done by or with the assistance of such spirits, also referred to as "allies," "power animals," "guardians," or "helpers."
-
-### 5. The Central Role of Song
-
-In virtually all traditions, singing is essential to the healing process. The shaman's songs (icaros in the Amazonian tradition, peyote songs in the Native American tradition) serve multiple functions: they guide the visionary experience, provide psychic support, prevent entrapment in difficult visions, and invoke the presence of spirit allies.
-
-## The Radical Worldview Difference
-
-Two elements in the shamanic traditions pose the most direct challenge to the accepted Western worldview:
-
-### Multiple Realities
-
-The belief and perception that there are multiple "worlds" that can be explored in expanded states of consciousness. This is not metaphor but lived experience for practitioners, who consistently report accessing realms of existence with their own consistent landscapes, inhabitants, and logics.
-
-### The Reality of Spirit Beings
-
-The belief that "spirits," the beings encountered in dreams and visions, are just as real as the physical organism. This extends beyond metaphor or psychological projection to a literal ontological claim about the nature of reality.
-
-These conceptions are considered completely beyond the pale of conventional reason and science in the Western paradigm, yet they are universal features of shamanic practice across cultures and continents.
-
-## Comparison with Western Psychotherapy
-
-While Western [[psychoactive-assisted psychotherapy]] and shamanic entheogenic healing share the centrality of an experienced guide and the importance of set and setting, their underlying paradigms of illness and treatment differ fundamentally. The Western model focuses on psychological insight, emotional processing, and resolution of inner conflict. The shamanic model addresses spiritual dimensions, community relationships, ecological balance, and the restoration of wholeness through connection with the spirit world.
-
 ## Related
 
 - [[shamanic-healing-variants-and-divination]] Topics

@@ -58,7 +58,7 @@ Substrates are typically well-rotted dung in open, sunny grassland. Fruiting occ
 
 The life cycle is tightly linked to herbivore grazing patterns. Ascospores pass through the herbivore gut and are deposited in fresh dung, where they germinate after 2–4 weeks. This gut-passage requirement means the fungus depends entirely on the continued presence of large grazing mammals in its habitat.
 
-Colonization is competitive — *P. punctata* is a secondary colonizer, fruiting on dung already partially decomposed by bacteria and other fungi such as [[sphaerobolus-stellatus]] and [[coprinus-comatus]]. The carbonaceous stroma is long-lived, persisting for months on the substrate.
+Colonization is competitive — *P. punctata* is a secondary colonizer, fruiting on dung already partially decomposed by bacteria and other fungi such as [[sphaerobolus-stellatus]] and [[coprinus-comatus-detailed]]. The carbonaceous stroma is long-lived, persisting for months on the substrate.
 
 The species is sensitive to ivermectin and other antihelminthic residues in dung. These veterinary drugs suppress the coprophilous fungal community, preventing sporulation and disrupting the entire dung-inhabiting food web. Research has shown that even sub-lethal drug concentrations can reduce sporulation rates by over 90%.
 
@@ -105,7 +105,7 @@ Cultivation from field-collected dung samples is a standard technique in mycolog
 - [[xylaria-polymorpha]]
 - [[xylaria-hypoxylon]]
 - [[sphaerobolus-stellatus]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[morchella-esculenta]]
 - Psilocybe
 - [[panaeolus-cyanescens-cultivation-guide|Panaeolus]]
@@ -113,7 +113,7 @@ Cultivation from field-collected dung samples is a standard technique in mycolog
 - bioremediation
 - [[comfrey]]
 - [[stropharia-rugosoannulata]]
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - nitrogen
 - bioenergy
 - erosion control

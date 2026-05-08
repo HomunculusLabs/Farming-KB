@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Serotonin
 
-**Serotonin** (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter found throughout the central nervous system, peripheral nervous system, and various non-neural tissues. Biochemically derived from [[tryptophan]], serotonin is the structural template from which numerous psychedelic tryptamines — including [[psilocybin]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] — derive their pharmacological activity through structural similarity and receptor binding.
+**Serotonin** (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter found throughout the central nervous system, peripheral nervous system, and various non-neural tissues. Biochemically derived from [[tryptophan]], serotonin is the structural template from which numerous psychedelic tryptamines — including [[psilocybin-compound]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] — derive their pharmacological activity through structural similarity and receptor binding.
 
 ## Chemical Properties
 
@@ -20,7 +20,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 - **Systematic name:** 3-(2-Aminoethyl)-1H-indol-5-ol
 - **Solubility:** Moderately soluble in water; soluble in dilute acids
 
-Serotonin is an [[indole]] derivative with a hydroxyl group at the 5-position of the indole ring — the same position where [[psilocybin]] bears its phosphoryloxy group and where [[bufotenin-entity-tihkal]] carries its hydroxyl. This 5-substitution is critical for 5-HT receptor binding affinity.
+Serotonin is an [[indole]] derivative with a hydroxyl group at the 5-position of the indole ring — the same position where [[psilocybin-compound]] bears its phosphoryloxy group and where [[bufotenin-entity-tihkal]] carries its hydroxyl. This 5-substitution is critical for 5-HT receptor binding affinity.
 
 ## Biosynthesis and Metabolism
 
@@ -51,7 +51,7 @@ The serotonin system is remarkably complex, with **14 distinct receptor subtypes
 | 5-HT₆ | 5-HT₆ | Gs | Striatum, cortex |
 | 5-HT₇ | 5-HT₇ | Gs | Hypothalamus, thalamus, cortex |
 
-The **5-HT₂A receptor** is of particular significance in the context of psychedelic compounds: [[psilocybin]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] all produce their primary subjective effects through agonism at this receptor. The structural similarity of these compounds to endogenous serotonin underlies their ability to modulate consciousness, perception, and mood.
+The **5-HT₂A receptor** is of particular significance in the context of psychedelic compounds: [[psilocybin-compound]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] all produce their primary subjective effects through agonism at this receptor. The structural similarity of these compounds to endogenous serotonin underlies their ability to modulate consciousness, perception, and mood.
 
 ## Physiological Functions
 
@@ -78,20 +78,20 @@ The **5-HT₂A receptor** is of particular significance in the context of psyche
 ### Psychoactive Drug Interactions
 The structural homology between serotonin and psychedelic tryptamines is fundamental to their pharmacological action:
 
-- [[psilocybin]] and [[psilocin]] act as partial agonists at 5-HT₂A receptors
+- [[psilocybin-compound]] and [[psilocin]] act as partial agonists at 5-HT₂A receptors
 - dimethyltryptamine|DMT is a potent 5-HT₂A agonist and also activates sigma-1 receptors
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] is a potent 5-HT₂A agonist with additional activity at multiple 5-HT receptor subtypes
 - MAO inhibitors (e.g., in [[ayahuasca-vision-art-and-shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
 
 ## Historical Context
 
-Serotonin was first isolated in 1948 by Maurice Rapport, Arda Green, and Irvine Page at the Cleveland Clinic. They named it "serotonin" (serum-tonic) for its vasoconstrictive properties found in blood serum. In 1953, Betty Twarog and Page identified serotonin in the mammalian brain. The recognition of serotonin as a neurotransmitter, along with the subsequent discovery of its role in mental illness, revolutionized psychiatry and psychopharmacology. The structural kinship between serotonin and the psychedelic tryptamines was recognized early by researchers including [[albert-hofmann]], who noted that [[psilocybin]] bore a striking resemblance to serotonin — a clue to its mechanism of action.
+Serotonin was first isolated in 1948 by Maurice Rapport, Arda Green, and Irvine Page at the Cleveland Clinic. They named it "serotonin" (serum-tonic) for its vasoconstrictive properties found in blood serum. In 1953, Betty Twarog and Page identified serotonin in the mammalian brain. The recognition of serotonin as a neurotransmitter, along with the subsequent discovery of its role in mental illness, revolutionized psychiatry and psychopharmacology. The structural kinship between serotonin and the psychedelic tryptamines was recognized early by researchers including [[albert-hofmann]], who noted that [[psilocybin-compound]] bore a striking resemblance to serotonin — a clue to its mechanism of action.
 
 ## Related Compounds
 
 - [[tryptophan]] — the essential amino acid precursor to serotonin
 - [[tryptamine-consciousness-theory]] — the decarboxylated intermediate; parent of all psychoactive tryptamines
-- [[psilocybin]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom-derived 5-HT₂A agonist
+- [[psilocybin-compound]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom-derived 5-HT₂A agonist
 - [[psilocin]] — dephosphorylated, active metabolite of psilocybin
 - [[dimethyltryptamine]] — N,N-dimethyltryptamine; potent endogenous psychedelic
 - [[bufotenin-entity-tihkal]] — 5-hydroxy-DMT; a serotonin structural analogue
@@ -112,7 +112,7 @@ Management involves discontinuation of serotonergic agents, supportive care, and
 
 The structural similarity between serotonin and psychedelic tryptamines is the foundation of their shared pharmacology:
 
-- [[psilocybin]] and [[psilocin]] are partial agonists at 5-HT₂A with Ki values in the low nanomolar range
+- [[psilocybin-compound]] and [[psilocin]] are partial agonists at 5-HT₂A with Ki values in the low nanomolar range
 - dimethyltryptamine|DMT is a potent 5-HT₂A agonist also active at sigma-1 and TAAR receptors
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] is a potent 5-HT₂A agonist with additional high affinity for 5-HT₁A, 5-HT₂B, 5-HT₂C, and 5-HT₆/₇ receptors
 - [[bufotenin-entity-tihkal]] (5-OH-DMT) shows preferential activity at 5-HT₂C over 5-HT₂A, contributing to its distinct subjective profile
@@ -133,7 +133,7 @@ Serotonin's evolutionary history extends far beyond the vertebrate nervous syste
 
 - [[tryptamine-consciousness-theory]] — parent class of serotonin-derived psychoactive compounds
 - [[tryptophan]] — dietary precursor and essential amino acid
-- [[psilocybin]] — mushroom alkaloid with serotonergic mechanism of action
+- [[psilocybin-compound]] — mushroom alkaloid with serotonergic mechanism of action
 - [[dimethyltryptamine]] — endogenous psychedelic tryptamine
 - [[melatonin-entity-tihkal]] — serotonin-derived hormone regulating circadian rhythm
 - [[indole]] — core heterocyclic scaffold shared by serotonin and all tryptamine derivatives

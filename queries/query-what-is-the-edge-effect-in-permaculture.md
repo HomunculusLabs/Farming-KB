@@ -58,7 +58,7 @@ Edges naturally create varied microclimates that can extend your growing season 
 A north-facing wall edge creates a cool, shaded microclimate suitable for shade-loving plants and mushrooms.
 The [[urban-permaculture-edge-effect-and-design-principles]] page shows how to leverage edges for microclimate management.
 A pond edge provides both full sun on one side and deep shade on the other, supporting diverse plant communities.
-The [[gaias-garden-edge-effect]] resource demonstrates how Gaia's Garden author Toby Hemenway uses water edges.
+The gaias garden edge effect resource demonstrates how Gaia's Garden author Toby Hemenway uses water edges.
 Stone walls, hedgerows, and earth berms all create edge microclimates that expand your planting options.
 The [[mollison-designers-edge-effect-design]] page shows how to design edge into earthworks and structures.
 

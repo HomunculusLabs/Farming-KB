@@ -147,5 +147,3 @@ the question and data; and complement index-based approaches with
 species-abundance distribution analysis.
 
 ## See Also
-
-- [[biodiversity-fungal-genetic-diversity]]

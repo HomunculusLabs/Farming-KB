@@ -13,7 +13,7 @@ Nitrogen-fixing green manures are plants -- primarily legumes -- that convert at
 
 ## Why Green Manures Matter
 
-In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[nutrient-retention-soil-food-web]]. A healthy stand of leguminous green manure can fix 50-200 kg of nitrogen per hectare per year, depending on species, growing conditions, and inoculation.
+In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[composting-and-soil-biology]]. A healthy stand of leguminous green manure can fix 50-200 kg of nitrogen per hectare per year, depending on species, growing conditions, and inoculation.
 
 Green manures also provide biomass for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
 

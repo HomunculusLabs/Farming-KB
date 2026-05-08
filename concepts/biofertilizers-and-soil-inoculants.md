@@ -121,7 +121,7 @@ Beyond nitrogen fixers and phosphate solubilizers, a diverse group of beneficial
 - [[nutrient-cycling-in-soil]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[soil-microbiology-basics]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 
 ## Related
 

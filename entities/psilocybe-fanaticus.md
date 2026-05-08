@@ -82,7 +82,7 @@ From spore inoculation to fruiting: 4-6 weeks total. Spore germination within a 
 
 The PF TEK fundamentally democratized mushroom cultivation. Before PF, home cultivation required specialized equipment (pressure cookers, laminar flow hoods) and technical knowledge borrowed from commercial mycology. PF's innovations — the brown rice flour substrate, the dry vermiculite barrier, steam sterilization, and passive humidification — reduced the minimum viable equipment to items available at any grocery or hardware store.
 
-The TEK spawned numerous successor methods including the [[pf-tek-guide]] (standardized documentation), the [[shotgun-fruiting-chamber]] (improved fruiting chamber), and modern variations using different substrate formulations. PF's approach of publishing complete instructions rather than selling proprietary kits established the open-source ethos that persists in the online cultivation community. The basic principles of the PF TEK — simplicity, accessibility, minimal equipment — continue to inform [[psilocybin-mushroom-cultivation-basics]] guides and remain the recommended starting point for first-time cultivators.
+The TEK spawned numerous successor methods including the [[pf-tek-guide]] (standardized documentation), the [[shotgun-fruiting-chamber]] (improved fruiting chamber), and modern variations using different substrate formulations. PF's approach of publishing complete instructions rather than selling proprietary kits established the open-source ethos that persists in the online cultivation community. The basic principles of the PF TEK — simplicity, accessibility, minimal equipment — continue to inform [[mushroom-cultivation-fundamentals]] guides and remain the recommended starting point for first-time cultivators.
 
 ## Philosophy
 
@@ -94,7 +94,7 @@ PF viewed mushroom cultivation as a means for responsible adult exploration. The
 
 - [[pf-tek-guide]] — Complete method documentation
 
-- [[psilocybin-mushroom-cultivation-basics]] — Broader cultivation overview
+- [[mushroom-cultivation-fundamentals]] — Broader cultivation overview
 
 - [[mushroom-sterile-technique-detailed]] — Sterile procedure hierarchy
 

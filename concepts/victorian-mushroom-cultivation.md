@@ -39,7 +39,7 @@ Cuthill identified a gap between experts and the public. The
 successful cultivation by the few, has long kept this most
 delicious and nutritious food as a dainty only for the
 wealthy." His treatise aimed to bridge this gap with simple,
-explicit instructions for [[mushroom-bed-preparation]].
+explicit instructions for mushroom bed preparation.
 
 ## The Oldacre Legacy
 

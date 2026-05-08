@@ -148,5 +148,3 @@ with no seeds and will generate greater quantities of THC than a male
 plant or a seeded female. During sinsemilla flowering:
 
 ## See Also
-
-- [[pistil-whippersnapper]]

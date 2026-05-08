@@ -73,13 +73,13 @@ Fukuoka identified four ascending levels of diet:
 
 People should begin by discarding empty, self-indulgent diets that are "the root of a thousand diseases" and, failing to find satisfaction in a scientific diet, move on to a diet of principle. But they must then go beyond theory and strive toward the ultimate goal of becoming true people who partake of an ideal natural diet.
 
-"When you no longer want to eat something tasty, you can taste the real flavour of whatever you are eating." The natural diet is not about restriction but about a fundamental shift in perception and desire. See [[fukuoka-natural-diet-principles]] for the full exposition.
+"When you no longer want to eat something tasty, you can taste the real flavour of whatever you are eating." The natural diet is not about restriction but about a fundamental shift in perception and desire. See [[fukuoka-natural-farming-philosophy]] for the full exposition.
 
 ## See Also
 
 - [[fukuoka-natural-farming-philosophy]] — farming philosophy
 - [[fukuoka-four-principles-natural-farming]] — farming principles
-- [[fukuoka-natural-diet-principles]] — detailed dietary principles
+- [[fukuoka-natural-farming-philosophy]] — detailed dietary principles
 - [[fukuoka-critique-modern-agriculture]] — critique of modern food production
 - [[seasonal-gardening-calendar]] — seasonal growing guidance
 - [[food-forest-design]] — seasonal food systems

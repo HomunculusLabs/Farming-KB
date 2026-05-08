@@ -20,7 +20,7 @@ A comprehensive reference to the alkaloids found in psychoactive cacti, primaril
 
 ### Mescaline
 
-Mescaline (3,4,5-trimethoxy-β-phenethylamine) is the principal psychoactive alkaloid in [[peyote-and-psychoactive-cacti]], [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-species-reference]]. It was first isolated from peyote by Arthur Heffter in 1896, making it the first hallucinogenic compound ever isolated from a natural source.
+Mescaline (3,4,5-trimethoxy-β-phenethylamine) is the principal psychoactive alkaloid in [[ethnomycology]], [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-species-reference]]. It was first isolated from peyote by Arthur Heffter in 1896, making it the first hallucinogenic compound ever isolated from a natural source.
 
 In dried peyote buttons, mescaline content ranges from approximately one to six percent by weight, with an average around one percent. An average dried button the diameter of a quarter weighs about two grams. San Pedro contains less mescaline by percentage (0.3–1.2%) but its much larger size makes it a more economical source.
 
@@ -94,4 +94,4 @@ See [[hallucinogenic-plant-chemistry]] and [[phenethylamine-chemistry-basics]] f
 - [[psychoactive-cacti-of-central-mexico]]
 - [[false-peyotes-mexican-cactus-ethnobotany]]
 - [[psychoactive-cacti-guide]]
-- [[peyote-and-psychoactive-cacti]]
+- [[ethnomycology]]

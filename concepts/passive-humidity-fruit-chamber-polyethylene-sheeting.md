@@ -24,7 +24,7 @@ casing surface. This design avoids the complexity and cost of automated humidifi
 systems while providing adequate environmental conditions for a wide range of cultivated
 species.
 The species successfully grown in this system include [[psilocybe-mexicana]],
-[[psilocybe-tampanensis]], [[psilocybe-cubensis]], and [[panaeolus-subbalteatus]].
+[[psilocybe-tampanensis-entity]], [[psilocybe-cubensis]], and [[panaeolus-subbalteatus]].
 
 ## Design Philosophy
 
@@ -141,31 +141,6 @@ attention to the casing surface moisture. The casings should be misted each day 
 casing surface should never be allowed to dry out.
 A spray bottle filled with clean water is the only equipment needed for humidity
 management. The spray bottle should produce a fine mist rather than a coarse stream to
-avoid disturbing the casing surface or the developing mushrooms.
-Directly after a flush is picked, watering should be increased because the maturing
-mushrooms pull a significant amount of moisture from the casing soil during their
-development. The casing may appear noticeably drier after a heavy flush.
-Restoring full moisture content at this point supports the initiation of the next flush
-and prevents the casing from cracking or pulling away from the tray edges.
-It is very difficult to give explicit directions on a watering regime. Cultivators
-will have to develop a feeling for it through experience. The casing should glisten
-with moisture after misting but should never have standing water on its surface.
-
-## Casing Surface Hygiene
-
-The source emphasises keeping the surface of the casing as clean as possible by
-removing dead pinheads, known as aborts, as these can lead to moulds showing up on the
-casing surface. Aborts are mushroom primordia that have stopped developing and begun
-to decompose.
-They appear as small darkened or discoloured pins that fail to grow while their
-neighbours mature normally. Regular removal of aborts prevents them from becoming
-nutrient sources for competitor organisms. The decaying organic matter of the abort
-provides an ideal growth medium for mould spores that may be present in the fruiting
-chamber environment.
-By removing aborts promptly and cleanly, the cultivator reduces the likelihood of
-contamination outbreaks on the casing surface that could spread to adjacent trays
-within the same bin.
-
 ## See Also
 
 - [[psilocybin-fruiting-chambers]]

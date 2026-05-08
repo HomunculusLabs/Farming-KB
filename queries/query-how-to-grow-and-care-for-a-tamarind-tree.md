@@ -139,25 +139,11 @@ Continue annual mulching for the life of the tree. Use fallen tamarind leaves, p
 |---|---|---|
 | Yellowing leaves | Overwatering or poor drainage | Improve drainage, reduce watering, check for root rot |
 | No fruit | Tree too young, or insufficient dry season | Be patient (up to 8 years for seedlings); ensure dry period |
-| Poor fruit set | Rain during flowering, nutrient deficiency | Choose a site with a reliable dry season; apply boron-rich fertilizer |
-| Leaf drop | Drought stress (normal in dry season) or root rot | Normal if seasonal; if accompanied by mushy roots, improve drainage |
-| Scale insects on bark | Ant-farmed scale colonies | Control ants (sticky band on trunk), spray horticultural oil |
-| Sooty mold on leaves | Honeydew from sap-sucking insects | Control the insects (scale, aphids) and the mold will clear |
-
-## Tamarind in Small Spaces
-
-If you don't have room for a full-sized tamarind:
-
-- **Container growing:** Tamarind can be grown in large containers (100+ liters) for 5–10 years, though it will remain smaller and produce less fruit. Use a well-draining mix and fertilize regularly.
-- **Dwarf varieties:** Some Thai sweet tamarind selections are more compact. Ask specialty nurseries.
-- **Espalier:** Not traditionally practiced with tamarind, but young trees can be trained against a warm wall with careful pruning.
-- **Community planting:** Consider planting tamarind in community gardens, parks, or public spaces where its shade benefits many people.
-
 ## See Also
 
 - [[query-how-to-mount-and-care-for-epiphytes-at-home]]
 
-- [[query-how-to-grow-and-care-for-a-tamarind-tree]] — comprehensive cultivation and uses reference
+- query how to grow and care for a tamarind tree — comprehensive cultivation and uses reference
 - [[comparison-tamarind-vs-carob]] — tamarind compared to its Mediterranean analog
 - [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]] — understory companion crops
 - [[gaias-garden-hedgerows-and-windbreaks]] — tamarind as a windbreak species

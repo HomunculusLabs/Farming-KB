@@ -62,7 +62,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin]] and [[psilocin]]
+- Contains [[psilocybin-compound]] and [[psilocin]]
 - Considered moderately active
 - The American variety, P. liniformans var. americana, is reported to have higher concentrations of psychoactive alkaloids
 - Bluing reaction is present but can be subtle compared to more potent Psilocybe species

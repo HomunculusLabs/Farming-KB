@@ -148,4 +148,3 @@ storage:
 - [[water-soluble-calcium-wca]]
 - [[knf-water-soluble-calcium-phosphate]]
 - [[knf-nutritive-cycle-theory]]
-- [[korean-natural-farming]]

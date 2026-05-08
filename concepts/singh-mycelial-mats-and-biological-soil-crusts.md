@@ -143,7 +143,7 @@ Mycelial mats and BSCs contribute to bioremediation through:
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
 - [[singh-soil-fungal-bioremediation-strategies]]
 - [[singh-pentachlorophenol-fungal-soil-transformation]]
-- [[singh-microcosm-and-mesocosm-studies-in-mycorrhizal-remediation]]
+- singh microcosm and mesocosm studies in mycorrhizal remediation
 
 - mycorrhizal fungi heavy metal phytostabilization
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

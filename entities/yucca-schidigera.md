@@ -137,4 +137,4 @@ It can serve as a companion plant in arid orchards, providing structural support
 - [[arctium-lappa]]
 - [[comfrey-symphytum-officinale]]
 - [[stropharia-rugosoannulata]]
-- [[allium-sativum]]
+- [[allium-sativum-entity]]

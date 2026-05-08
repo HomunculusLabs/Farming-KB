@@ -118,7 +118,7 @@ A house front designed as a focusing system with sun-reflecting mirrors under ea
 
 ## Related Topics
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[permaculture-urban-design]]
 - [[broadscale-permaculture-techniques-mollison]]
 - [[permaculture-forage-systems]]

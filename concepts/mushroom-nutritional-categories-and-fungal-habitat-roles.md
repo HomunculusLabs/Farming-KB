@@ -148,22 +148,3 @@ environmental conditions and host health. Armillaria mellea, for
 example, may live for years as a decomposer on dead wood, then opportunistically attack
 living trees when conditions allow. This flexibility accelerates the death of
 already-stressed trees and opens gaps for new growth, blurring the boundary between
-nutritional categories. Many fungi operate along a continuum, shifting strategies in
-response to environmental cues and host health.
-
-## Fungal Diversity and Forest Health
-
-The health of a forest is intimately tied to the diversity of its fungal communities.
-Each nutritional category contributes essential functions: saprophytes drive
-[[decomposition|decomposition]] and nutrient cycling, mycorrhizae facilitate nutrient
-exchange and inter-plant communication, endophytes bolster plant resilience, and even
-parasites play a role in thinning weak individuals and maintaining competitive vigor.
-When fungal diversity declines, whether through habitat fragmentation, pollution, or
-climate change, the entire forest ecosystem suffers. See also
-[[fungal-habitats-and-niches|fungal habitats]] and biodiversity for broader
-discussions of these relationships.
-
-Maintaining fungal diversity is a practical necessity for the long-term productivity and
-resilience of terrestrial ecosystems. Forest management practices that preserve dead
-wood, protect soil structure, and maintain diverse plant communities help sustain the
-full range of fungal nutritional strategies that keep forests alive and functioning.

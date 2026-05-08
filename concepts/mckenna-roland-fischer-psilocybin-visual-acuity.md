@@ -148,5 +148,3 @@ information access.
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
-- [[mckenna-plants-and-primates-coevolution]]
-- [[mckenna-catalyzing-consciousness-and-language]]

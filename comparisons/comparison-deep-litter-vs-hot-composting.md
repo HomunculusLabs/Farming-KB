@@ -142,20 +142,6 @@ This stacked approach minimizes daily labor (deep litter), maximizes sanitation 
 ### Deep Litter
 - Start with 4–6 inches of dry carbon bedding; maintain 8–12 inches minimum depth
 - Add fresh bedding whenever you can smell ammonia or the surface looks wet
-- Use a mix of bedding types (straw + wood shavings + dry leaves) for better structure
-- Stir the pack every 1–2 weeks with a pitchfork to maintain aeration
-- Keep the housing well-ventilated — moisture is the enemy
-- Remove and replace the entire pack every 3–6 months
-
-### Hot Composting
-- Aim for a pile size of at least 3 × 3 × 3 feet (1 cubic yard) to maintain heat
-- Chop or shred materials to increase surface area
-- Layer greens and browns, or mix thoroughly
-- Maintain 50–60% moisture (material should feel like a wrung-out sponge)
-- Turn when internal temperature drops below 110°F
-- Target 3–4 heating cycles before considering the compost finished
-- Cover the pile to retain moisture and prevent nutrient leaching from rain
-
 ## See Also
 
 - [[comparison-bokashi-vs-hot-composting-method]]

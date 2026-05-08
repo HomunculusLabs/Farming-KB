@@ -114,7 +114,7 @@ The species has historically been placed in *Psilocybe* by some authorities (Noo
 - [[psilocybe-cubensis]] — The most commonly cultivated psilocybin mushroom, for potency comparison
 - [[psilocybe-cyanescens]] — Wavy-capped Psilocybe, a more potent lignicolous psilocybin species
 - [[gymnopilus-junonius]] — The laughing gym, another lignicolous psilocybin-containing agaric
-- [[boletus-edulis]] — King bolete, a mycorrhizal edible found in similar coniferous forest habitats
+- [[boletus-edulis-entity]] — King bolete, a mycorrhizal edible found in similar coniferous forest habitats
 - [[lignicolous-fungi]] — Ecological category encompassing all wood-decay fungal species
 - [[hypholoma-fasciculare]] — Sulphur tuft, a common toxic lignicolous agaric sharing conifer log habitat
 - [[kuehneromyces-mutabilis-entity]] — Velvet foot, another lignicolous agaric fruiting on similar conifer stumps

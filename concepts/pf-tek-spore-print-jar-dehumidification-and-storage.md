@@ -130,6 +130,6 @@ The combination of sterile technique, draft free conditions, and a pre sterilize
 
 - [[pf-tek-spore-printing-and-syringe-preparation]] for the complete spore print collection workflow
 - [[pf-tek-spore-syringe-boiling-water-sterilization]] for syringe sterilization before loading
-- [[fanaticus-spore-printing-and-syringe-preparation]] for additional spore handling techniques
+- [[psilocybin-mushroom-cultivation-guide]] for additional spore handling techniques
 - [[spore-printing-and-syringe-preparation]] for general spore printing concepts
 - [[pf-tek-mushroom-potency-and-age-relationship]] for the tradeoff between maturity and potency

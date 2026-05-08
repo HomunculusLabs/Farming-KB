@@ -148,7 +148,3 @@ following groups:
 - **Pleosporaceae**: Various genera producing
   anthraquinone derivatives and other aromatic
 ## See Also
-
-- [[fungal-biodiversity]] — broader context of fungal diversity
-- [[biodiversity-fungal-secondary-metabolites]] — overview of fungal secondary metabolite diversity
-- [[fungal-ecology]] — ecological roles of fungi

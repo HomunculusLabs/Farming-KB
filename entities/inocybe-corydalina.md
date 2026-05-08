@@ -131,7 +131,7 @@ corydalina* a notable exception within the genus.
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-semilanceata]]

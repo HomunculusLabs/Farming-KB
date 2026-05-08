@@ -148,4 +148,3 @@ Understanding how water naturally moves across slopes is essential:
 - [[bill-mollison]]
 - [[david-holmgren]]
 - [[paul-stamets]]
-- [[geoff-lawton]]

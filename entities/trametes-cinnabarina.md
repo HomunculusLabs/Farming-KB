@@ -111,7 +111,7 @@ Interactions with other wood-inhabiting fungi include both competitive and succe
 - [[pycnoporus-cinnabarinus]]
 - [[coriolopsis-gallica]]
 - [[fomes-fomentarius]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[bjerkandera-adusta]]
 - [[piptoporus-betulinus]]
 - [[polyporus-umbellatus]]

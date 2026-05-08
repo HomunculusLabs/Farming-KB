@@ -148,4 +148,3 @@ provides nitrogen fixation and soil structure improvement.
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-no-till-vs-conventional-tillage]]
-- [[bacterial-vs-fungal-soil]]

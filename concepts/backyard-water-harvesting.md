@@ -24,7 +24,7 @@ This is why the phrase "Rivers come from the soil" is so apt: rivers are fed not
 
 ### 2. Contouring the Landscape
 
-Sculpting the land to catch and hold water includes several techniques. See [[swale-design-construction]] and [[permaculture-earthworks-guide]] for detailed guidance.
+Sculpting the land to catch and hold water includes several techniques. See [[swale-design-construction]] and [[permaculture-water-harvesting-earthworks]] for detailed guidance.
 
 **Swales**: A shallow trench laid dead level along the land's contours, one to several feet across and about a foot deep. Earth dug from the swale is piled on the downhill side as a berm. The cross-section is roughly S-shaped. Surface water runs in, spreads along the length, and slowly percolates into the soil. This underground water seeps downhill, forming a lens of moisture held together by hydrostatic tension that aids plant growth for tens of feet downslope.
 
@@ -44,7 +44,7 @@ Dense plantings shade the soil, reducing evaporation. They also smother weeds th
 
 ### 5. Mulching Deeply
 
-A thick layer of mulch slows evaporation, cools soil, adds fertility, boosts soil life, and smothers weeds. Deep mulching and rich soil work together: mulch feeds the soil organisms that create the humus that holds the water. [[comparison-sheet-mulching-vs-chop-and-drop]] from dedicated mulch hedges is a self-renewing source of this material. See [[permaculture-dynamic-accumulator-plants]] and [[permaculture-woody-mulch-systems]] for more.
+A thick layer of mulch slows evaporation, cools soil, adds fertility, boosts soil life, and smothers weeds. Deep mulching and rich soil work together: mulch feeds the soil organisms that create the humus that holds the water. [[comparison-sheet-mulching-vs-chop-and-drop]] from dedicated mulch hedges is a self-renewing source of this material. See [[permaculture-dynamic-accumulator-plants]] and [[permaculture-design]] for more.
 
 ## The Zemach Garden: A Case Study
 
@@ -81,7 +81,7 @@ Rain barrels and cisterns capture roof runoff for later use. While soil storage 
 - [[sheet-mulching-lasagna-gardening]] -- builds the water-holding soil that is the foundation of water harvesting
 - [[cover-crop-multifunction-design]] -- cover crops build soil organic matter for water retention
 - [[urban-permaculture-productive-yards]] -- water harvesting is essential for productive urban landscapes
-- [[swale-construction-guide]] -- detailed guidance on building swales
+- [[organic-vegetable-growing-and-market-gardening]] -- detailed guidance on building swales
 - [[permaculture-water-strategies]] -- broader water management design
 - [[greywater-systems-detailed]] -- turning household wastewater into irrigation
 - [[drought-tolerant-planting-design]] -- plant selection for water-wise gardens

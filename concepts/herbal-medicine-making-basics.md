@@ -81,42 +81,6 @@ step-by-step guides to each method.
 
 ## Equipment Needed
 
-Essential kitchen and herbalism tools:
-
-- Stainless steel or enamel pots (avoid aluminum)
-- Glass mason jars in various sizes
-- Fine mesh strainers and cheesecloth
-- Kitchen scale (digital, gram precision)
-- Amber glass dropper bottles for tinctures
-- Labels and markers
-- Cutting board and sharp knife or herb scissors
-- Mortar and pestle or electric grinder for powders
-- Double boiler or makeshift water bath for salves
-- Measuring cups and spoons
-- pH strips (optional, for vinegar preparations)
-
-## Shelf Life by Preparation Type
-
-| Preparation | Shelf Life | Storage |
-|-------------|-----------|---------|
-| Dried herbs | 1-3 years | Airtight glass, cool/dark |
-| Tinctures | 3-7+ years | Amber glass, room temp |
-| Infused oils | 1-2 years | Amber glass, cool/dark |
-| Salves/balms | 1-2 years | Cool/dark, avoid heat |
-| Vinegar extracts | 6-12 months | Cool/dark |
-| Glycerites | 1-2 years | Refrigeration extends life |
-| Capsules/powders | 1 year | Airtight, cool/dark |
-| Teas/infusions | 24 hours (refrigerated) | Drink fresh when possible |
-
-## Safety Principles
-
-- Always positively identify plants before harvesting.
-- Start with low doses and increase gradually.
-- Research contraindications for each herb, especially during pregnancy,
-  breastfeeding, or when taking pharmaceuticals.
-- Label every preparation clearly with contents, date, and dosing information.
-- Keep out of reach of children.
-
 ## See Also
 
 - [[phellodendron-amurense]]

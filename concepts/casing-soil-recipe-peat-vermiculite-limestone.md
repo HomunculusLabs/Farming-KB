@@ -136,4 +136,4 @@ casing maintenance throughout the fruiting cycle.
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]
 - [[cotter-casing-soils-microbial-triggers]]
 - [[fruiting-chamber-design-and-environmental-control]]
-- [[perlite-humidification-mushroom-fruiting-chambers]]
+- [[mushroom-cultivation-fundamentals]]

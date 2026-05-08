@@ -52,7 +52,7 @@ A remarkably versatile multi-purpose plant:
 9. **Carbon sequestration**: Some of the fastest-growing plants on earth
 10. **Soil improvement**: Leaf drop adds organic matter; shade-tolerant understorey plants benefit
 
-Caution: Running bamboos can be invasive; clumping varieties are preferred in most designs. See [[bamboo-species-guide]] and [[bamboo-growing-guide]].
+Caution: Running bamboos can be invasive; clumping varieties are preferred in most designs. See bamboo species guide and [[bamboo-growing-guide]].
 
 ## Moringa (Moringa oleifera)
 
@@ -115,6 +115,6 @@ When choosing plants for a design, evaluate each candidate against the following
 - [[permaculture-dynamic-accumulator-plants]]
 - [[permaculture-nitrogen-fixing-trees]]
 - permaculture-useful-plants-reference
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-design]]
 - [[comfrey-plant-guide]]
-- [[bamboo-species-guide]]
+- bamboo species guide

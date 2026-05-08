@@ -148,4 +148,3 @@ with bladder when cold. Seasonable from September to mid-October.
 ## See Also
 
 - [[falconer-gathering-and-marketing-mushrooms]]
-- [[palmer-about-mushrooms-cooking-and-preservation]]

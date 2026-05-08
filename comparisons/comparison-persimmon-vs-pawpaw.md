@@ -20,9 +20,9 @@ type: comparison
 
 ## Overview
 
-Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[food-forest-establishment]] and forest gardening and food forests. Both are underutilized, adaptable, and produce nutrient-dense fruit that few home growers cultivate. They are often compared because they occupy overlapping ecological niches as understory/lower-canopy trees, thrive in similar hardiness ranges (zones 5–9), and appeal to permaculturists seeking resilient, low-input food crops.
+Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[food-forest-establishment]] and [[forest-gardening-and-food-forests]]. Both are underutilized, adaptable, and produce nutrient-dense fruit that few home growers cultivate. They are often compared because they occupy overlapping ecological niches as understory/lower-canopy trees, thrive in similar hardiness ranges (zones 5–9), and appeal to permaculturists seeking resilient, low-input food crops.
 
-However, their cultivation requirements, fruit characteristics, and roles in a planting design differ significantly. This comparison focuses primarily on the native American persimmon, with notes on Asian persimmon (*D. kaki*) where relevant for cultivation context. For pawpaw, all references are to the common pawpaw (*A. triloba*), the largest edible fruit native to North America.
+However, their cultivation requirements, fruit characteristics, and roles in a planting design differ significantly. This comparison focuses primarily on the [[native-american-planting-methods-and-indigenous-agriculture]] persimmon, with notes on Asian persimmon (*D. kaki*) where relevant for cultivation context. For pawpaw, all references are to the common pawpaw (*A. triloba*), the largest edible fruit native to North America.
 
 ## Comparison Table
 
@@ -36,7 +36,7 @@ However, their cultivation requirements, fruit characteristics, and roles in a p
 | Chill hours | 200–500 | 400+ |
 | Soil preference | Adaptable; loamy, well-drained, pH 6.0–7.5 | Deep, fertile, well-drained, slightly acidic pH 5.5–7.0 |
 | Sun needs | Full sun (tolerates partial shade) | Full sun to partial shade (best morning sun) |
-| Water needs | Drought-tolerant once established | Moderate; prefers consistent moisture |
+| Water needs | [[drought-tolerant-planting-design]] once established | Moderate; prefers consistent moisture |
 | Pollination | Mostly dioecious; some self-fertile cvs | Protogynous; requires cross-pollination |
 | Fruit season | Sept–Nov | Aug–Oct |
 | Fruit size | 1–3 in diameter | 2–6 oz (some cvs to 12 oz) |
@@ -61,7 +61,7 @@ For cold-climate growers, both are viable, but persimmons break dormancy later a
 
 **Pawpaw:** Space 8–15 ft apart. Pawpaw seedlings develop deep taproots and are sensitive to transplanting — plant young (1–2 year seedlings or potted trees) and avoid root disturbance. Site preparation should include generous compost or well-rotted manure worked into the top 12 in of soil.
 
-Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See companion planting and polycultures for understory companion strategies.
+Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See [[companion-planting-and-polycultures]] for understory companion strategies.
 
 ## Pollination and Fruiting
 
@@ -81,7 +81,7 @@ Pawpaw flowers are maroon, nodding, and emit a faint carrion-like scent to attra
 
 **Persimmon:** American persimmons are highly astringent until fully ripe due to soluble tannins. Fruit must be completely soft (pudding-like consistency) before eating fresh, or the tannins cause an intense, unpleasant mouth-puckering sensation. Frost is not required for ripening but can accelerate softening. Non-astringent Asian cultivars (e.g., 'Fuyu') can be eaten while firm and crisp.
 
-Harvest persimmons when fully colored orange; they will soften after a few days of post-harvest ripening. Stores 2–3 weeks refrigerated; pulp freezes well for later use in baking and puddings.
+Harvest persimmons when fully colored orange; they will soften after a few days of [[post-harvest-handling-marketing-mushrooms]] ripening. Stores 2–3 weeks refrigerated; pulp freezes well for later use in baking and puddings.
 
 **Pawpaw:** Harvest when fruit yields slightly to gentle pressure and the skin develops a yellowish tinge, often with brownish-black spots. Overripe fruit drops from the tree and bruises easily — pick promptly and handle with care. The thin skin offers little protection against damage.
 

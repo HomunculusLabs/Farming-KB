@@ -109,7 +109,7 @@ Biotechnological approaches including hairy root culture and endophytic fungus e
 - [[astragalus-membranaceus]]
 - [[glycyrrhiza-glabra]]
 - [[borago-officinalis]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[scutellaria-lateriflora]]
 - [[humulus-lupulus]]
 - [[pulsatilla-vulgaris]]

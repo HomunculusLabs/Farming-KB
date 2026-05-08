@@ -100,7 +100,7 @@ Additional details for permanent stone cellar construction:
 - Air outlet pipe: placed at highest point in the room (prevents condensation)
 - Check roundwood shelters and storage rooms regularly like any building
 
-See also: [[root-cellar-design-and-construction]], [[holzer-water-landscapes-pond-building]], [[earthbag-construction]], [[faires-underground-and-earth-berm-homes]]
+See also: [[root-cellar-design-and-construction]], [[sepp-holzer-permaculture-and-rebel-farming]], [[earthbag-construction]], [[faires-underground-and-earth-berm-homes]]
 - [[holzer-roundwood-shelters-earth-cellars]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[jadam-cover-crop-soil-temperature-management]]

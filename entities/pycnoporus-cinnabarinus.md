@@ -50,7 +50,7 @@ sources:
 
 ## Morphology
 
-Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 cm wide and 1–3 cm thick at the base, occasionally forming imbricate (overlapping) clusters. The upper surface is azonate to faintly zonate, smooth to finely velvety, orange-red to brick-red, often fading to dull orange or tan with age. The pore surface is the most distinctive feature: brilliant cinnabar-red to orange, with circular to angular pores 2–4 per mm. The context (flesh) is tough, corky, and orange to orange-red, with a distinctly fibrous texture. Spores are cylindrical to allantoid, 5–8 × 2–3 µm, smooth, hyaline. Spore print is white to very pale yellow. The fruiting body is annual but persists on wood for extended periods, gradually fading in color.
+Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 cm wide and 1–3 cm thick at the base, occasionally forming imbricate (overlapping) clusters. The upper surface is azonate to faintly zonate, smooth to finely velvety, orange-red to brick-red, often fading to dull orange or tan with age. The pore surface is the most distinctive feature: brilliant cinnabar-red to orange, with circular to angular pores 2–4 per mm. The context (flesh) is tough, corky, and orange to orange-red, with a distinctly fibrous texture. Spores are cylindrical to allantoid, 5–8 × 2–3 µm, smooth, hyaline. [[spore-print-collection-spore-mass-inoculation]] is white to very pale yellow. The fruiting body is annual but persists on wood for extended periods, gradually fading in color.
 
 ### Key Identification Features
 
@@ -72,11 +72,11 @@ Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 c
 - **Bioremediation:** Laccase from *P. cinnabarinus* degrades a wide range of environmental pollutants including polycyclic aromatic hydrocarbons (PAHs), phenolic compounds, bisphenol A, and synthetic dyes (azo, anthraquinone, and triphenylmethane dyes). The enzyme has been investigated for treatment of textile wastewater and contaminated soils. Decolorization efficiencies of 70–95% have been achieved for various industrial dyes within 24–72 hours.
 - **Biobleaching:** The fungus and its laccases can delignify wood pulp, reducing the need for chlorine-based bleaching agents in paper production. Laccase-mediator systems (LMS) using *P. cinnabarinus* laccase achieve up to 50% delignification, with mediator compounds such as 1-hydroxybenzotriazole (HBT) enhancing activity.
 - **Organic synthesis:** The laccase mediates oxidative coupling reactions useful in pharmaceutical synthesis, food chemistry, and polymer modification. It has been used for the synthesis of complex natural product analogs and the functionalization of lignin-derived compounds.
-- The species also produces **manganese peroxidase (MnP)** and **lignin peroxidase (LiP)**, contributing to its efficient lignin degradation capability and broad substrate range.
+- The species also produces **manganese peroxidase (MnP)** and **lignin peroxidase (LiP)**, contributing to its efficient [[lignin-degradation-mechanisms-wood-rot-fungi]] capability and broad substrate range.
 
 ## Bioactive Compounds
 
-- **Cinnabarinic acid:** A red pigment and bioactive compound with reported antimicrobial, antioxidant, and immunomodulatory properties. It is a quinone derivative formed through laccase-mediated oxidation of phenolic precursors. Cinnabarinic acid acts as a weak agonist at trace amine-associated receptors (TAAR1), suggesting potential neuromodulatory activity.
+- **Cinnabarinic acid:** A red pigment and bioactive compound with reported antimicrobial, antioxidant, and immunomodulatory properties. It is a quinone derivative formed through [[laccase-mediated-pcb-transformation]] oxidation of phenolic precursors. Cinnabarinic acid acts as a weak agonist at trace amine-associated receptors (TAAR1), suggesting potential neuromodulatory activity.
 - **Polysaccharides:** β-glucan fractions demonstrate immunostimulatory and antitumor activities in preclinical studies, activating macrophages and promoting NK cell activity.
 - **Triterpenoids:** Several triterpenoid compounds isolated from fruiting bodies show anti-inflammatory activity through inhibition of NF-κB signaling and reduction of TNF-α and IL-6 production.
 - **Antimicrobial activity:** Crude extracts inhibit growth of *Bacillus subtilis*, *Staphylococcus aureus*, and *Candida albicans* in vitro, attributed to cinnabarinic acid and phenolic compounds.
@@ -92,7 +92,7 @@ The genus *Pycnoporus* contains four recognized species that are frequently conf
 
 - ***P. sanguineus:*** Tropical and subtropical distribution; pore surface slightly more orange and less cinnabar-red; thinner fruiting body; more commonly encountered in the Americas and tropical Asia. The most commercially investigated relative for laccase production.
 - ***P. coccineus:*** Australasian species; pore surface is more uniformly orange-red without the cinnabar intensity; typically found on *Nothofagus* and *Eucalyptus* in New Zealand and Australia.
-- ***P. puniceus:*** Southeast Asian species; larger fruiting body with a more deeply zonate upper surface; found on dipterocarp wood in lowland tropical forests.
+- ***P. puniceus:*** [[southeast-asian-mushroom-tourism-bali]] species; larger fruiting body with a more deeply zonate upper surface; found on dipterocarp wood in lowland tropical forests.
 - *P. cinnabarinus* is distinguished from all relatives by its more northern temperate distribution, intensely cinnabar-red pore surface, and preference for oak and other temperate hardwoods.
 
 ## Seasonality and Fruiting Patterns
@@ -101,7 +101,7 @@ The genus *Pycnoporus* contains four recognized species that are frequently conf
 
 ## Ethnobotanical and Historical Notes
 
-While not a traditional food or medicinal mushroom, *P. cinnabarinus* has a history of use as a **natural dye source**. The bright red pigments (primarily cinnabarinic acid and related quinonoid compounds) have been used to dye wool, silk, and other natural fibers shades of orange, salmon, and brick red. Indigenous peoples in North America reportedly used the fungus for this purpose, though detailed ethnographic documentation is sparse. In European mycological tradition, the species has long been noted as a field marker for experienced foragers due to its unmistakable coloration.
+While not a traditional food or [[medicinal-mushroom-guide-maitake]], *P. cinnabarinus* has a history of use as a **natural dye source**. The bright red pigments (primarily cinnabarinic acid and related quinonoid compounds) have been used to dye wool, silk, and other natural fibers shades of orange, salmon, and brick red. Indigenous peoples in North America reportedly used the fungus for this purpose, though detailed ethnographic documentation is sparse. In European mycological tradition, the species has long been noted as a field marker for experienced foragers due to its unmistakable coloration.
 
 ## Permaculture Applications
 

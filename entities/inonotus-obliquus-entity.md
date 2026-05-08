@@ -140,23 +140,6 @@ The gold standard for maximizing bioactive compounds:
 3. Combine both extracts
 
 ### Tincture
-Commonly prepared at 1:4 or 1:5 ratio in 30–40% ethanol. Typical dose: 2–4 mL, 2–3 times daily.
-
-## Sustainability Concerns
-
-Wild chaga is being overharvested in many regions due to surging commercial demand. Key concerns:
-- Removing the entire conk kills the fungal organism; best practice is to harvest no more than 50% of the conk, leaving the remainder to continue growing
-- Commercial chaga products are increasingly sourced unsustainably, with some operations stripping entire trees of conks
-- Chaga is slow-growing — large conks represent decades of growth
-- Cultivation on birch substrates is possible but produces a chemically different product than wild-harvested material
-
-## Identification and Safety
-
-- **Correct identification** is essential. Look-alikes include burned tree scars, burls, and other fungal growths. True chaga has a distinctive orange interior.
-- **No known toxicity** at normal doses, but chaga contains high oxalate levels which may be problematic for individuals with kidney stones or kidney disease.
-- Chaga may interact with anticoagulant and antidiabetic medications due to its effects on blood clotting and glucose metabolism.
-- The high manganese content, while beneficial in moderation, could be a concern with excessive, prolonged consumption.
-
 ## See Also
 
 - [[inonotus-obliquus]] — related species entry

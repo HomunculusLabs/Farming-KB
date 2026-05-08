@@ -133,6 +133,6 @@ The brassinosteroid results are notable because they represent one of the few we
 
 - [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[brassinosteroid-suppression-abortive-fruit-bodies]]
+- [[brassinosteroid]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[brassinosteroid-effects-on-fungal-morphology]]

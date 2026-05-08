@@ -451,7 +451,7 @@ to act is now, before more of this extraordinary kingdom is lost.
 - [[fungal-biodiversity-inventory-design]]
 - [[fungal-biodiversity-sampling-design]]
 - [[fungal-biodiversity-overview]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[chytrid-fungi-guide]]
 - [[chytridiomycota-phylogeny-diversity]]
 - [[fungal-biodiversity-education-citizen-science]]

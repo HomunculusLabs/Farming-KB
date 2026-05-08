@@ -108,6 +108,6 @@ cannot replicate.
   development
 
 ## Related Questions
-- [[kombucha-brewing]]
+- kombucha brewing
 - [[lacto-fermentation-recipes]]
 - [[mead-making-guide]]

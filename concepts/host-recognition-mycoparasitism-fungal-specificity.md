@@ -27,7 +27,7 @@ enormously among mycoparasitic fungi, from generalists
 that attack a broad range of fungal hosts to specialists
 restricted to a single species. Understanding these
 recognition mechanisms is essential for elucidating the
-ecology and evolution of [[zoosporic-mycoparasites-aquatic-fungi]],
+ecology and evolution of zoosporic mycoparasites aquatic fungi,
 terrestrial [[zoopagales-dimargaritales-zygomycete-mycoparasites]],
 and biocontrol agents such as [[trichoderma]].
 
@@ -88,7 +88,7 @@ fungal cell wall types.
 
 Other mycoparasites are highly host-specific. Species of
 Olpidiopsis, for example, may be restricted to a single
-host genus or even species. The [[zoosporic-mycoparasites-aquatic-fungi]]
+host genus or even species. The zoosporic mycoparasites aquatic fungi
 in the genus Rozellopsis show intermediate specificity,
 attacking several related hosts within the same order.
 Narrow host specificity may reflect coevolutionary

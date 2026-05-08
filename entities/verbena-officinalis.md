@@ -148,4 +148,3 @@ digestive bitter.
 - [[hypericum-perforatum]] — Antidepressant herb used alongside vervain in
   stress formulas
 - [[verbascum-thapsus]] — Unrelated "mullein"; shares some traditional
-  respiratory indications

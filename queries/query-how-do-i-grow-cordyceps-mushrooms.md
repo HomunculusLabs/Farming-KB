@@ -57,7 +57,7 @@ Unlike pasteurized substrates used for oyster mushrooms, Cordyceps substrates mu
 This means all viable organisms must be killed, not just reduced in population.
 A pressure cooker capable of reaching 15 PSI (121 degrees Celsius) for a minimum of 90 minutes is required.
 120 minutes is recommended for larger jars to ensure the core temperature is maintained long enough to kill heat-resistant bacterial endospores.
-The [[mushroom-cultivation-sterile-technique]] requirements for Cordyceps cultivation are among the most demanding in home mycology.
+The [[mushroom-cultivation-fundamentals]] requirements for Cordyceps cultivation are among the most demanding in home mycology.
 Every surface that contacts the sterile substrate must be sterilized, including jar lids, inoculation tools, and the workspace itself.
 A laminar flow hood is strongly recommended for the inoculation step.
 A well-built still-air box can produce acceptable results for experienced growers who have practiced their technique extensively.

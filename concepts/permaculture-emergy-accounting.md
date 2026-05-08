@@ -101,9 +101,9 @@ To apply energy accounting in permaculture design:
 
 ## See Also
 
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 
-- [[permaculture-principle-obtain-a-yield]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-non-renewable-energy-investment]]
 
@@ -116,7 +116,7 @@ To apply energy accounting in permaculture design:
 - [[permaculture-principles]]
 - [[permaculture-community-resilience-strategies]]
 - [[permaculture-energy-descent-planning]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 
 ## Sources
 

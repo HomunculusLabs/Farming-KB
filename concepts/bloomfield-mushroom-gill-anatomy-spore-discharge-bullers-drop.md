@@ -148,5 +148,3 @@ fungi.
 - [[fungal-spore-discharge-mechanisms]]
 - [[mushroom-anatomy]]
 - [[mushroom-fruiting-body-morphology]]
-- [[bloomfield-gasteromycetes-puffballs-earthstars]]
-- [[bloomfield-buller-experimental-mycology]]

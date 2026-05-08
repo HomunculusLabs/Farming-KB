@@ -1,5 +1,5 @@
 ---
-title: Mahayana vs Hinayana Natural Farming
+title: Mahayana vs Hinayana [[natural-farming]]
 created: 2026-05-06
 tags:
 type: concept
@@ -14,17 +14,14 @@ updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
+# Mahayana vs [[fukuoka-mahayana-and-hinayana-natural-farming]]
 
-# Mahayana vs Hinayana Natural Farming
-
-Masanobu Fukuoka organizes all approaches to agriculture into three
+[[masanobu-fukuoka]] organizes all approaches to agriculture into three
 distinct categories, using Buddhist terminology borrowed from the Mahayana
 and Hinayana traditions. This framework reflects genuinely different
 philosophical orientations, methods, and outcomes in farming practice.
 Understanding these three ways provides a map of where different
-agricultural methods stand relative to nature and to each other.
-
-## 1. Mahayana Natural Farming
+agricultural methods stand relative to nature amahayana-natural-farming]] [[mahayana-natural-farming]]
 
 Mahayana natural farming and scientific farming exist on entirely
 different planes. Scientific agriculture draws as much as it can from
@@ -147,6 +144,4 @@ return to nothingness.
 ## See Also
 
 - [[energy-efficiency-natural-farming]]
-- The Four Principles of Natural Farming
-- [[natural-livestock-farming]]
-- [[clay-pellet-seed-broadcasting]]
+- The [[four-principles-of-natural-farming]]

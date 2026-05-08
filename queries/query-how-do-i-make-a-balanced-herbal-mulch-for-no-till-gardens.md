@@ -26,7 +26,7 @@ materials like wood chips or straw.
 It leverages the nutrient-dense biomass of specific plants to feed soil
 biology while providing the weed suppression and moisture retention of
 conventional mulch.
-In a [[no-till-gardening-method]], herbal mulch replaces the need for
+In a [[composting-and-soil-biology]], herbal mulch replaces the need for
 imported fertilizers by cycling nutrients directly from deep soil layers
 back to the surface.
 

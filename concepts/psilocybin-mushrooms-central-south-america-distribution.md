@@ -118,5 +118,5 @@ Stamets observes that many regions of Central and South America remain mycologic
 - [[maria-sabina-mazatec-mushroom-curandera]]
 - [[psilocybin-mushrooms-north-america-distribution]]
 - [[gordon-wasson-mushroom-discovery]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[tropical-vs-temperate-fungal-diversity]]

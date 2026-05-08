@@ -140,56 +140,6 @@ dripping with water after each session. These moist surfaces themselves help
 generate humidity through ongoing evaporation.
 
 It has been observed that mushrooms will grow in a properly set up dual chambered
-terrarium with only one good spraying a day, and even less than that in some cases.
-However, optimal fruiting with abundant flushes requires more frequent and attentive
-spraying.
-
-## Ventilation Technique
-
-Each time the terrarium is sprayed, the fungus should also be ventilated. Ventilation
-provides fresh air exchange which is essential for healthy fruiting and prevents the
-buildup of carbon dioxide that can stall development.
-
-### The Fanning Procedure
-
-Remove the lid completely from the terrarium. Hold the spray shield vertically to
-expose both chambers fully. Fan the chamber vigorously with a piece of cardboard to
-exchange the stale air with fresh room air.
-
-Replace the spray shield in its normal position, then replace the lid. Proceed with
-the spraying procedure immediately after ventilation while the fresh air is still
-circulating inside the chamber.
-
-### Why Ventilation Matters
-
-Ventilation removes excess carbon dioxide that builds up inside the sealed terrarium.
-Mushrooms require fresh air for proper development, and stagnant air can lead to
-poor fruiting, deformities, or prolonged colonization without pin formation.
-
-The combination of ventilation followed by spraying provides both the fresh air and
-the humidity that the fungus needs in a single maintenance session. This pairing
-mimics natural wind and rain cycles that trigger fruiting in the wild.
-
-## Water Management and Cleanup
-
-Water that collects in the bottom of the terrarium must be siphoned out regularly to
-prevent bacteria buildup. This standing water is a breeding ground for bacteria that
-can contaminate the fruiting cakes and destroy the entire crop.
-
-Siphoning can be easily accomplished using a rubber bulb battery filler from an auto
-parts store, or a rubber bulb type enema bottle. This maintenance should be performed
-during each ventilation session to keep the terrarium clean and hygienic.
-
-## Lighting Considerations
-
-Expose the terrarium to normal room light or indirect sunlight. A small, low wattage
-fluorescent plant light will make the phototropic mushrooms grow upwards and can be
-left on continuously if desired.
-
-The light should be positioned at a safe distance from the terrarium to avoid any
-heating effect, as the PF TEK warns that any direct heating works against
-humidification and adds a drying influence.
-
 ## Related Concepts
 
 - [[dual-chambered-terrarium-design]] for construction details of the terrarium

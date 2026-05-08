@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Pulsing Model of Ecological Succession
 
-The pulsing model of ecological succession is a framework for understanding how ecosystems cycle through phases of accumulation and release rather than progressing linearly toward a stable climax state. Developed within ecological theory since the 1960s, this model is extensively discussed by david holmgren in [[permaculture-principle-creatively-use-and-respond-to-change]] as a fundamental pattern for designing productive and resilient systems in the context of [[permaculture-energy-descent-planning]].
+The pulsing model of ecological succession is a framework for understanding how ecosystems cycle through phases of accumulation and release rather than progressing linearly toward a stable climax state. Developed within ecological theory since the 1960s, this model is extensively discussed by david holmgren in [[permaculture-design-principles]] as a fundamental pattern for designing productive and resilient systems in the context of [[permaculture-energy-descent-planning]].
 
 ## Beyond the Climax Model
 
@@ -47,7 +47,7 @@ Practical design implications of the pulsing model include designing systems tha
 
 ## Connection to Other Permaculture Principles
 
-The pulsing model connects directly to [[permaculture-principle-creatively-use-and-respond-to-change]] but also informs several other principles. [[catch-and-store-energy-permaculture-principle]] is about the accumulation phase of the pulse. [[permaculture-principle-obtain-a-yield]] ensures that the accumulation phase produces useful outputs. [[produce-no-waste-permaculture-principle]] addresses what happens during the release phase. [[permaculture-principle-use-small-and-slow-solutions]] suggests ways to moderate the pulse.
+The pulsing model connects directly to [[permaculture-design-principles]] but also informs several other principles. [[catch-and-store-energy-permaculture-principle]] is about the accumulation phase of the pulse. [[permaculture-design-principles]] ensures that the accumulation phase produces useful outputs. [[produce-no-waste-permaculture-principle]] addresses what happens during the release phase. [[permaculture-design-principles]] suggests ways to moderate the pulse.
 
 ## Ecosynthesis and Novel Pulsing Systems
 
@@ -79,13 +79,13 @@ The skill for designers is to recognise the appropriate timescale and intensity 
 
 - [[permaculture-succession]]
 
-- [[permaculture-principle-creatively-use-and-respond-to-change]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-reading-landscape]]
 
 - [[permaculture-energy-descent-planning]]
 
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 
 ## Sources
 

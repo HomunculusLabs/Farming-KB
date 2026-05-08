@@ -140,40 +140,10 @@ cells on the shaded side to elongate more than those on the illuminated side.
 leaf is sufficient to perceive the red/far-red light signal and regulate
 flowering for the entire plant. If all leaves are removed, leaving only stem
 and apex, the plant becomes completely blind to photoperiodic cues, even if
-the entire remaining plant is illuminated. Phytochrome in the leaves receives
-the light signal and initiates a mobile chemical signal (later identified as
-FT protein, or florigen) that travels through the phloem to the shoot apex,
-where it triggers the transition from vegetative to floral development.
-
-This architectural distinction means that plants use fundamentally different
-sensory arrangements: a localized directional sensor for guiding growth toward
-light, and a distributed whole-plant sensor network for tracking seasonal time.
-
-## Ecological and Agricultural Significance
-
-The phytochrome system allows plants to integrate multiple types of
-environmental information beyond simple day-length measurement. Plants growing
-under a forest canopy receive light filtered through overstory leaves. Since
-chlorophyll absorbs red strongly but transmits far-red, the ratio of red to
-far-red light under a canopy shifts dramatically toward far-red. This shift
-keeps phytochrome predominantly in inactive Pr form, triggering shade-avoidance
-responses: elongated stems, smaller leaves, reduced branching, and accelerated
-flowering — all adaptations to escape competition for light.
-
-The practical applications of photoperiodism knowledge are vast. Greenhouse
-operators manipulate day length to produce poinsettias for Christmas,
-chrysanthemums for Mother's Day, and strawberries year-round. Chrysanthemum
-growers keep plants from flowering during autumn and winter by providing brief
-nighttime illumination, then trigger synchronized flowering by discontinuing
-the light treatment approximately two weeks before the target market date.
-Understanding phytochrome has informed the development of photoselective
-greenhouse films that filter specific wavelengths to control plant height and
-flowering without chemical growth regulators.
-
 ## See Also
 
 - [[phytochrome-molecular-switch-mechanism]]
 - [[plant-photoreception-and-phototropism]]
 - [[plant-hormones-and-chemical-signaling-systems]]
 
-- [[phototropism-and-phytochrome-in-plants]]
+- phototropism and phytochrome

@@ -148,4 +148,3 @@ alongside Proteobacteria in the root microbiome.
 - [[otu-differential-abundance-cannabis-microbiome]] for OTU-level analysis
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar effects
 - [[rhizosphere-microbiome-selection-model]] for the assembly framework
-- [[cannabis-microbiome-research]] for the complete study overview

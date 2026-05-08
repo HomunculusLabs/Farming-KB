@@ -114,7 +114,7 @@ Sedentary beekeeping -- insulate whole structure, multiple exits, process inside
 ## Related Topics
 
 - [[permaculture-zone-one-planning-and-techniques]]
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[broadscale-permaculture-techniques-mollison]]
 - [[edge-effect-in-permaculture]]
 

@@ -1,9 +1,9 @@
 ---
-title: "Three Sisters (Milpa Companion Planting)"
+title: "Three Sisters (Milpa [[permaculture-plant-guilds-companion-planting]])"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - companion-planting
   - polyculture
   - indigenous-agriculture
@@ -26,13 +26,13 @@ sources:
 
 The **Three Sisters** is an ancient **indigenous companion planting** system in which three crops — **corn (maize), beans, and squash** — are grown together in a mutually beneficial polyculture. Developed by Indigenous peoples of the Americas over thousands of years, this method represents one of the oldest and most sophisticated examples of **sustainable intercropping** and remains a foundational concept in modern permaculture and agroecology.
 
-## Historical and Cultural Significance
+## Historical [[cicadas-biology-ecology-and-cultural-significance]]
 
-The Three Sisters system originates from the agricultural traditions of the **Haudenosaunee (Iroquois Confederacy)** and many other Indigenous nations across North, Central, and South America. The broader Mesoamerican version is known as the **milpa** system.
+The Three Sisters system originates from the agricultural traditions of the **Haudenosaunee (Iroquois Confederacy)** and many other Indigenous nations across North, Central, and [[gartz-magic-mushrooms-species-south-america]]. The broader Mesoamerican version is known as the **milpa** system.
 
 - **Age:** Estimated to be **3,000–5,000+ years old**, dating back to the domestication of maize in the Balsas River Valley of southern Mexico (approximately 9,000 years ago)
 - **Cultural importance:** Central to the creation stories, spiritual practices, and ceremonial traditions of many Indigenous nations; often personified as three sisters who can only thrive together
-- **Haudenosaunee tradition:** Corn, beans, and squash are considered sacred gifts from the Creator; the planting and harvesting ceremonies are integral to the community's cultural calendar
+- **Haudenosaunee tradition:** Corn, beans, and squash are considered sacred gifts from the Creator; the planting [[holzer-pear-and-apple-pollination-and-harvesting]] ceremonies are integral to the community's cultural calendar
 - **Geographic distribution:** Practiced across a vast region from the American Southwest and Great Plains through the Eastern Woodlands, into Mesoamerica and parts of South America
 - **UNESCO recognition:** The milpa system is recognized as a Globally Important Agricultural Heritage System (GIAHS)
 
@@ -147,7 +147,3 @@ The Three Sisters concept has been widely adapted in permaculture and sustainabl
 - [[agroecology]]
 - [[companion-planting]]
 - [[decomposition]]
-
-- Milpa — Mesoamerican companion planting system · [[companion-planting]] — broader concept
-- Nitrogen fixation — biological process mediated by Rhizobium · Polyculture — multi-species agriculture
-- [[food-forest]] — perennial multi-layered planting · Cover crop · Dynamic accumulator · No-till farming

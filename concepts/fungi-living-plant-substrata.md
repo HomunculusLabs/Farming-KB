@@ -147,5 +147,4 @@ for broader estimates.
 
 ## See Also
 
-- [[fungi-living-plant-substrata]]
-- [[endophytic-fungi-and-plant-health]]
+- fungi living plant substrata

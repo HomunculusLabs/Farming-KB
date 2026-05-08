@@ -15,7 +15,7 @@ type: concept
 
 One of Fukuoka's most provocative philosophical arguments is the identification of man as nature's heretic: the sole creature that not only produces waste but feels compelled to manage and redistribute it through elaborate systems of composting and manure application.
 
-In nature, there is no waste. Every organism's excretions become food for another organism in a seamless cycle of transformation. Only man creates systems that require him to collect, process, and apply his own waste back to the land, revealing how far he has fallen from the natural order.
+In nature, there is no waste. Every organism's excretions become food for another organism in a seamless cycle of transformation. Only man creates systems that require him to collect, process, and apply his own waste back to the land, revealing how far he has fallen from the [[korean-natural-farming-and-jadam]].
 
 ## The Heretic: Man Alone Produces Waste
 
@@ -41,17 +41,17 @@ In the soil beneath a natural forest, the nutrient cycle is almost entirely clos
 
 When the farmer uses animal manure or compost, he is in effect saying that his farming is not natural. The need for manure implies that the soil has been depleted of its natural fertility and must be replenished from outside. But if the farming system were truly natural, the soil would maintain its own fertility through the return of all organic matter produced on the farm.
 
-Fukuoka did not deny that animal manure can improve soil fertility in the short term. But he argued that dependence on animal manure, like dependence on chemical fertilizers, is a sign that the farming system is fundamentally broken. A system that requires regular inputs of manure is not self-sustaining and will eventually fail when the supply of manure is interrupted.
+Fukuoka did not deny that animal manure can improve [[soil-fertility-management]] in the short term. But he argued that dependence on animal manure, like dependence on chemical fertilizers, is a sign that the farming system is fundamentally broken. A system that requires regular inputs of manure is not self-sustaining and will eventually fail when the supply of manure is interrupted.
 
 The use of animal manure also creates practical problems. Manure must be collected, stored, composted, and spread, all of which require labor and equipment. The nutrient content of manure is variable and difficult to predict. Improperly composted manure can introduce weed seeds, pathogens, and other problems.
 
-And the practice of raising animals specifically for their manure, as is common in some organic farming systems, is, in Fukuoka's view, a perversion of the natural relationship between animals and land.
+And the practice of raising animals specifically for their manure, as is common in some [[organic-farming-methods-comparison]] systems, is, in Fukuoka's view, a perversion of the natural relationship between animals and land.
 
 ## Composting: A Sign of Agricultural Failure
 
-Fukuoka's rejection of composting was one of his most controversial positions. While organic farmers generally regard composting as an essential practice for building soil health, Fukuoka saw it as an admission that the farming system was not working properly. In a natural system, organic matter is returned to the soil directly, without the intermediate step of composting.
+Fukuoka's rejection of composting was one of his most controversial positions. While organic farmers generally regard composting as an essential practice for [[building-soil-fertility-long-term]] health, Fukuoka saw it as an admission that the farming system was not working properly. In a natural system, organic matter is returned to the soil directly, without the intermediate step of composting.
 
-The compost heap is, in Fukuoka's analysis, a monument to human arrogance. It represents the belief that man can improve upon nature's methods of decomposition and nutrient cycling. In reality, the nutrients in compost are the same nutrients that were taken from the soil to grow the crops that produced the organic matter.
+The compost heap is, in Fukuoka's analysis, a monument to human arrogance. It represents the belief that man can improve upon nature's methods of decomposition and [[nutrient-cycling-in-soil]]. In reality, the nutrients in compost are the same nutrients that were taken from the soil to grow the crops that produced the organic matter.
 
 Composting does not create new nutrients; it merely recycles existing ones, and does so in a way that requires significant human labor.
 

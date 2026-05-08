@@ -148,4 +148,3 @@ ensuring maximum on-site infiltration.
 - [[cervantes-drip-irrigation-systems]]
 - mulch basin design
 - cistern design
-- laundry to landscape guide

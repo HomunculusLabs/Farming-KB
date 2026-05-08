@@ -132,7 +132,7 @@ The species may form weak endophytic associations with living plant roots, thoug
 ## Related Species
 
 - [[agaricus-campestris]] — Meadow mushroom; similar cap coloration but white spore print and free gills
-- [[agrocybe-aegerita-entity]] — Poplar mushroom; cultivated commercially, larger stature, persistent annulus
+- [[agrocybe-aegerita-detailed]] — Poplar mushroom; cultivated commercially, larger stature, persistent annulus
 - [[galerina-marginata]] — Deadly Galerina; key toxic lookalike sharing habitat and brown spore print
 - [[inocybe-geophylla]] — White Fibrous Cap; toxic, found in similar mulched habitats
 

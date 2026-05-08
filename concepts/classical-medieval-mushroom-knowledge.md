@@ -105,7 +105,7 @@ It was not until the nineteenth century that botanists began to see that fungi w
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[mushroom-polymorphous-symbolism]]
 - [[mushroom-foraging-safety]]
-- [[victorian-mycology]]
+- [[ethnomycology]]
 
 ## Related
 

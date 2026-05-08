@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-
 
 # Trichocereus pachanoi
 
-**San Pedro** is a fast-growing, columnar cactus native to the Andean mountains of South America. It is one of the most widely cultivated [[mescaline]]-containing cacti and has a long history of use in traditional Andean medicine and shamanism. The species is prized both for its psychoactive properties and as an ornamental landscape plant.
+**San Pedro** is a fast-growing, columnar cactus native to the Andean mountains of South America. It is one of the most widely cultivated [[mescaline-entity]]-containing cacti and has a long history of use in traditional Andean medicine and shamanism. The species is prized both for its psychoactive properties and as an ornamental landscape plant.
 
 ## Taxonomy and Description
 
@@ -38,7 +38,7 @@ The species is remarkably adaptable and thrives in a wide range of conditions, f
 
 ## Chemical Composition
 
-The primary psychoactive constituent of T. pachanoi is [[mescaline]], typically present at concentrations of 0.1-2% dry weight, though exceptionally potent specimens may contain up to 4%. Mescaline content is highly variable and depends on genetics, growing conditions, age, and the specific part of the plant analyzed.
+The primary psychoactive constituent of T. pachanoi is [[mescaline-entity]], typically present at concentrations of 0.1-2% dry weight, though exceptionally potent specimens may contain up to 4%. Mescaline content is highly variable and depends on genetics, growing conditions, age, and the specific part of the plant analyzed.
 
 There is significant debate within the cactus community about the factors influencing mescaline content. Some growers report that stressed, slow-growing plants produce higher alkaloid concentrations, while others find vigorous cultivated specimens to be equally potent.
 
@@ -86,7 +86,7 @@ The traditional boil method, while less convenient, preserves what many practiti
 
 ## Legal Status
 
-San Pedro is uncontrolled in most countries, including the United States, where it is primarily sold and grown as an ornamental plant. However, the extraction or preparation of [[mescaline]] from any source remains illegal in many jurisdictions.
+San Pedro is uncontrolled in most countries, including the United States, where it is primarily sold and grown as an ornamental plant. However, the extraction or preparation of [[mescaline-entity]] from any source remains illegal in many jurisdictions.
 
 Legal status varies internationally, with some countries regulating the plant specifically and others not addressing it in law. In Australia, for example, several Trichocereus species are specifically listed as controlled plants.
 
@@ -119,7 +119,7 @@ Growers seeking specimens with higher mescaline content are advised to source pl
 
 - [[trichocereus-bridgesii]]
 
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[trichocereus-bridgesii]]
 - trichocereus peruvianus
 - [[lophophora-williamsii]]

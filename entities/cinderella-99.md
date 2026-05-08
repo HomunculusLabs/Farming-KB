@@ -1,5 +1,5 @@
 ---
-title: "Cinderella 99"
+title: "cinderella 99"
 created: 2026-05-06
 type: strain
 tags:
@@ -13,48 +13,46 @@ updated: 2026-04-28
 sources:
   - Brothers Grimm Seeds (1999–2008). Breeding catalog and grow reports.
   - Soft Secrets (2018). "The Legend of Cinderella 99." Soft Secrets Magazine.
-  - Leafly (2023). "Cinderella 99 Cannabis Strain Information." Leafly.com.
+  - Leafly (2023). "Cinderella 99 [[cannabis-strain-chupacabra]] Information." Leafly.com.
   - Mudge, E. et al. (2018). "Cannabis Chemovar Literature Review." Journal of Cannabis Research 1: 3.
 ---
-
 # Cinderella 99
 
 ## Overview
 
 **Cinderella 99**, often abbreviated **C99** or **Cindy**, is a legendary
-sativa-dominant cannabis hybrid created by **Brothers Grimm Seeds** in the
-late 1990s. It is widely regarded as one of the most influential modern
-cannabis strains and remains a foundational genetic in many contemporary
+sativa-dominant [[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by **Brothers Grimm Seeds** in the
+late 1990s. It is widely regarded as onepurple-and-color-changing-cannabis-strainsluential modern
+[[purple-and-color-changing-cannabis-strains]] and remains a foundational genetic in many contemporary
 breeding programs.
 
 The strain was developed through an extensive selective breeding project
-involving three generations of cubing (backcrossing to the mother) from a
-pair of exceptional female seeds found in a Jack Herer package purchased in
+involving three generations of cubing (backcrossing to tjack-herer-cannabis-strain]] from a
+pair of exceptional female seeds found in a [[jack-herer]] package purchased in
 Amsterdam.
 
 C99 is celebrated for its rapid flowering time (unusually short for a
-sativa-dominant line), exceptionally sweet tropical fruit aroma, and
-clear-headed, uplifting cerebral effects with minimal body sedation.
+sativa-dominant line), exceptionally sweet tropical fruit aroma, andclarke-marijuana-botany-cannabis-taxonomy-and-geneticsd, uplifting cerebral effects with minimal body sedation.
 
-## Lineage and Genetics
+## Lineage [[cannabis-seed-banks-and-genetics]]
 
 ### Parentage
 
 Cinderella 99 is derived from a complex breeding project:
 
 - **Male parent:** ShivaSkunk (NL#5 × Skunk#1)
-- **Female parent:** A select Jack Herer phenotype identified by
+- **Fe [[jack-herer-cannabis-strain]] t:** A select Jack Herer phenotype identified by
   Mr. Soul of Brothers Grimm Seeds from Sensi Seeds stock
 
 The breeding process involved selecting a single outstanding Jack Herer
-female, crossing it with the ShivaSkunk male, then performing three
+female, crmother-plant-cannabisth the ShivaSkunk male, then performing three
 consecutive rounds of cubing (backcrossing to the original Jack Herer
-mother plant) to stabilize the desired traits.
+[[mother-plant-cannabis]]) to stabilize the desired traits.
 
 ### Genetic Ratio
 
 Approximately 65–70% sativa / 30–35% indica, though the indica influence
-from the ShivaSkunk parent is evident in the compact bud structure and
+from the ShivaSkunk parent is evident in the compact [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] and
 relatively fast maturation.
 
 The strain is highly homozygous after the cubing process, exhibiting
@@ -79,7 +77,7 @@ broader than typical equatorial sativas.
 
 ## Aroma and Flavor
 
-Cinderella 99 is defined by its remarkably sweet, fruity terpene profile
+Cinderella 99 is defined by its remarkably sweet, fruity [[terpene-profile-chemotaxonomy]]
 that earned it comparisons to tropical candy:
 
 - **Primary aroma:** Pineapple, mango, and ripe citrus — a bright,
@@ -148,11 +146,3 @@ The clear-headed, uplifting profile makes C99 useful for:
 ## Cultivation
 
 - **Flowering time:** 45–50 days indoors (exceptionally fast for
-  a sativa-dominant strain)
-
-## See Also
-
-- [[herbal-medicine-making-basics]]
-
-- [[cannabis-phenotype-and-genotype-guide]]
-- [[cannabis-breeding-basics]]

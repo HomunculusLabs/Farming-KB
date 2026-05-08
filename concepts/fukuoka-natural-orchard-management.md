@@ -45,7 +45,7 @@ Fukuoka acknowledges that converting a conventionally pruned orchard to natural 
 
 ### The Evolution of Fukuoka's Ground Cover
 
-Fukuoka's [[fukuoka-natural-orchard-ground-cover]] evolved through three stages:
+Fukuoka's [[fukuoka-natural-farming-philosophy]] evolved through three stages:
 
 1. **Grass cover:** Initially allowed various grasses to grow as ground cover
 2. **Green manure cultivation:** Deliberately planted [[green-manure-crops]]

@@ -96,7 +96,7 @@ are available:
 Algae are particularly problematic in [[cervantes-passive-wick-hydroponic-systems]] where nutrient-rich water is constantly exposed to
 light. In [[cervantes-nft-aeroponic-systems]],
 algae can grow in channels and on root mats exposed through
-channel openings. In [[cervantes-water-culture-systems]], reservoir surfaces exposed to light grow
+channel openings. In [[cannabis-advanced-growing-techniques]], reservoir surfaces exposed to light grow
 algae quickly.
 
 The key to algae prevention in all hydroponic systems is
@@ -125,5 +125,5 @@ growth.
 - [[cervantes-hydroponic-systems]] - hydroponic growing
 - [[cervantes-hydrogen-peroxide-sterilization]] - sterilization
   method
-- [[cervantes-water-culture-systems]] - deep water culture
+- [[cannabis-advanced-growing-techniques]] - deep water culture
   systems

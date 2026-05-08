@@ -28,7 +28,7 @@ The mild-winter, long-summer climates of USDA zones 8–10 are ideal for English
 
 Growing walnuts in cold climates requires careful variety selection, as most English walnuts suffer significant winter injury below −15°F.
 
-English walnuts (Juglans regia) are marginal below zone 7, but **Carpathian walnut** selections (Juglans regia var. carpathian) are the most cold-hardy Persian types available. Originating from the Carpathian Mountains of Eastern Europe, these selections reliably survive winter lows to −30°F and grow well in zones 5–6 with proper siting on north-facing slopes or sheltered locations. Named cultivars include **Somerset** and **Lake**, both from northern provenances and noted for exceptional winter hardiness and reliable nut production in cold climates.
+English walnuts ([[juglans-regia]]) are marginal below zone 7, but **Carpathian walnut** selections (Juglans regia var. carpathian) are the most cold-hardy Persian types available. Originating from the Carpathian Mountains of Eastern Europe, these selections reliably survive winter lows to −30°F and grow well in zones 5–6 with proper siting on north-facing slopes or sheltered locations. Named cultivars include **Somerset** and **Lake**, both from northern provenances and noted for exceptional winter hardiness and reliable nut production in cold climates.
 
 For reliable nut production in zones 5–6, **Heartnut** (Juglans ailantifolia var. cordiformis) is an outstanding alternative. Though technically a Japanese walnut species, it produces a distinctive heart-shaped nut that cracks easily and has a mild, sweet flavor comparable to English walnut. Heartnuts are hardy to at least −25°F and bloom late, avoiding most spring frosts that can devastate earlier-flowering Persian types. The trees are also relatively fast-growing and begin bearing at 4–6 years from planting.
 
@@ -44,7 +44,7 @@ Keep in mind that all walnuts produce **juglone**, a natural compound allelopath
 
 ## 4. Best Black Walnut Varieties for Nut Production and Timber
 
-Black walnut (Juglans nigra) is native to eastern North America and valued both for its nuts and its exceptionally valuable timber.
+[[black-walnut-juglone-plant-toxicity]] ([[juglans-nigra]]) is native to eastern North America and valued both for its nuts and its exceptionally valuable timber.
 
 **Thomas**, **Emma K**, and **Sparrow** are the top grafted black walnut (Juglans nigra) cultivars selected for superior nut quality. These grafted varieties offer thinner shells, larger kernels, and easier cracking compared to wild seedling trees, which typically have very thick, deeply grooved shells. **Thomas** is the most widely available and consistently performs well across the black walnut's native range (zones 4–8). **Emma K** produces slightly larger nuts with good kernel percentage.
 
@@ -68,7 +68,7 @@ For high-blight-pressure regions (coastal valleys, areas with frequent spring ra
 
 ## 7. Best Varieties for Commercial Production
 
-Commercial walnut production demands varieties that combine high yield, consistent quality, disease resistance, and good post-harvest characteristics. The choice of variety can make or fail an orchard investment.
+Commercial walnut production demands varieties that combine high yield, consistent quality, disease resistance, and good [[post-harvest-handling-marketing-mushrooms]] characteristics. The choice of variety can make or fail an orchard investment.
 
 **Chandler** accounts for the vast majority of new commercial walnut plantings in California and is increasingly adopted worldwide, including in Chile, Australia, and Eastern Europe. It is prized for its high yield potential (3,500–5,000 lbs/acre at maturity), late bloom date, thin shell, and excellent light kernel color that meets the highest industry "extra light" grade. **Howard** and **Tulare** complement Chandler in commercial orchards as pollinizers while also being strong producers in their own right.
 
@@ -112,7 +112,7 @@ Home growers should ensure their chosen rootstock is compatible with their inten
 | Hartley       | J. regia         | 700–800     | 7–9    | Thick    | Franquette        | Legacy variety, large nut      |
 | Pedro         | J. regia         | 400–600     | 7–9    | Thin     | Self-fruitful     | Small-space home gardens       |
 | Franquette    | J. regia         | 700–900     | 7–9    | Thick    | Mayotte           | European commercial plantings  |
-| Carpathian    | J. regia         | 700–1000    | 5–7    | Medium   | Cross-pollinate   | Cold climates (zone 5–6)       |
+| Carpathian    | J. regia         | 700–1000    | 5–7    | Medium   | Cross-pollinate   | Cold climates ([[zone-5-wilderness]]–6)       |
 | Somerset      | J. regia         | 800–1000    | 5–6    | Medium   | Cross-pollinate   | Northern cold hardiness        |
 | Thomas        | J. nigra         | 800–1200    | 4–8    | Thick    | Mostly self       | Black walnut nut production    |
 | Emma K        | J. nigra         | 800–1200    | 4–8    | Thick    | Mostly self       | Black walnut, thin for species |

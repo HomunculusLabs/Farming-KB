@@ -148,4 +148,3 @@ can withstand shocks and recover quickly.
 Permaculture settlement and village design applies ecological principles to the
 creation of human living spaces that are productive, resilient, and beautiful.
 By designing for compact form, shared resources, integrated infrastructure, and
-wildlife habitat, the permaculture village achieves a quality of life that

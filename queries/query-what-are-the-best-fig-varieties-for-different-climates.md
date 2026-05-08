@@ -148,6 +148,3 @@ The most important rule: **plant what grows well for your neighbors**. Local nur
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
 - [[query-what-are-the-best-mushroom-species-for-bioremediation]]
-- [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]
-
-- [[ficus-carica]]

@@ -148,4 +148,3 @@ principles by converting low-value residues into high-value products:
   reduces waste disposal burdens and greenhouse gas emissions from
   open-field burning
 - The cultivation process itself constitutes a form of bioremediation,
-  with fungal enzymes degrading potential pollutants and reducing

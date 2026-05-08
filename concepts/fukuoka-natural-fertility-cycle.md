@@ -48,7 +48,7 @@ Chemical fertilizers destroy the natural fertility cycle by encouraging shallow 
 
 Fukuoka cataloged "more than seventy types of direct damage caused by fertilizers," including soil acidification, trace element depletion, and microbial suppression. Chemical fertilizers are truly effective only on soil "abused and wasted through slash-and-burn agriculture." Adding fertilizer to soil that already produces 7-8 bushels of rice per quarter-acre has very little effect, while adding it to fields yielding 10 bushels may actually hurt productivity.
 
-The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[nitrogen-cycle-in-soil]] closes naturally through green manure and organic matter return.
+The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[composting-and-soil-biology]] closes naturally through green manure and organic matter return.
 
 ## The Deficit Farming Problem
 
@@ -75,7 +75,7 @@ Modern farming destroys soil fertility by single-cropping over extensive areas. 
 - [[fukuoka-rice-barley-dual-culture]] — practical fertility maintenance in grain production
 - [[soil-ph-management]] — modern approaches to natural soil building
 - [[green-manure-crops]] — green manure crop systems
-- [[nitrogen-cycle-in-soil]] — the nitrogen cycle in natural farming
+- [[composting-and-soil-biology]] — the nitrogen cycle in natural farming
 - [[soil-fertility-management]] — broader fertility management
 - [[chop-and-drop-mulching]] — mulching for soil building
 

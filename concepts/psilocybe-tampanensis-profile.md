@@ -106,10 +106,10 @@ If mushroom production is desired:
 
 ## See Also
 
-- [[psilocybe-tampanensis]]
+- [[psilocybe-tampanensis-entity]]
 
 - [[sclerotia-cultivation]] -- Detailed cultivation guide
-- [[psilocybe-mexicana-profile]] -- Related sclerotia-producing species
+- [[psychedelic-mushrooms-species-and-identification]] -- Related sclerotia-producing species
 - [[grass-seed-substrate-preparation]] -- Preferred substrate
 - [[psilocybin-biosynthesis-pathway]] -- Biochemistry of psilocybin production
 - [[shikimate-pathway-in-fungi]] -- Metabolic pathway origins

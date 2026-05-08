@@ -74,7 +74,7 @@ This formula achieves biological efficiencies of 100-200% for compatible species
 - **Supplement range**: 2-10% of total substrate mass; maximum 5% recommended to avoid thermogenesis
 - **Effect on mycelial growth**: Supplements accelerate colonization by increasing substrate temperature through faster metabolic activity
 - **Effect on yield**: While some studies show modest yield increases, the primary benefit is faster and more complete colonization
-- **Risk**: Excessive supplementation causes temperature spikes during incubation that can kill [[mycelium-composites-materials]]. Higher supplementation rates require better cooling capacity.
+- **Risk**: Excessive supplementation causes temperature spikes during incubation that can kill [[bioremediation-using-fungi]]. Higher supplementation rates require better cooling capacity.
 
 ## Moisture Management
 

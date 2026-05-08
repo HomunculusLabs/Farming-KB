@@ -111,4 +111,4 @@ productive than re-vegging harvested plants.
 - The process is time-consuming compared to maintaining mothers
 
 See also: [[cervantes-mother-plants]], cervantes-cloning|Cloning,
-[[cervantes-vegetative-phase]], [[cervantes-flowering-phase]], [[cervantes-harvest-techniques]]
+[[cervantes-vegetative-phase]], [[cervantes-flowering-phase]], [[cannabis-advanced-growing-techniques]]

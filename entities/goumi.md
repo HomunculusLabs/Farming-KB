@@ -148,5 +148,3 @@ Goumi is low-maintenance and well-suited to home gardens:
 - lycopene
 - [[actinorhizal-symbiosis-frankia]]
 - [[eleagnus-umbellata-entity]]
-- [[allegro-dead-sea-scrolls]]
-- [[urban-permaculture-homesteading]]

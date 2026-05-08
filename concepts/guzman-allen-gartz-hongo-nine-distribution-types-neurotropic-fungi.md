@@ -148,5 +148,3 @@ mycological exploration in that country.
 ## See Also
 
 - [[neurotropic-fungi-distribution]]
-- [[neurotropic-fungi-five-historical-periods]]
-- [[neurotropic-fungi-asia-oceania-distribution-cultural-use]]

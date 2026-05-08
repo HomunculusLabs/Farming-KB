@@ -17,13 +17,12 @@ type: concept
 
 created: 2026-05-07
 ---
-
 # Fitz Hugh Ludlow and the American Hashish Literary Tradition
 
 ## Overview
 
 Fitz Hugh Ludlow (1834-1870) represents a pivotal figure in the intersection of American
-literature and psychoactive exploration. Terence McKenna identifies Ludlow as the originator
+literature and psychoactive exploration. [[terence-mckenna-tryptamine-hypothesis]] identifies Ludlow as the originator
 of a "pharmo-picaresque" literary tradition that would later find practitioners in William S.
 Burroughs and Hunter S. Thompson. Unlike the French Club des Hachischins, which approached
 hashish through a lens of Orientalist exoticism, the American tradition Ludlow inaugurated
@@ -37,7 +36,7 @@ Union College in 1855. His account captures the onset of effects with characteri
 flair:
 
 > "I was sitting at the tea table when the thrill smote me. I had handed my cup to Miss
-> M'Ilvaine to replenish for the first time, and as she was about restoring it to me
+> M'Ilvfirst-time-grower-common-mistakesplenish for the [[first-time-grower-common-mistakes]], and as she was about restoring it to me
 > brimming with the draught which cheers but not inebriates. I should be loath to calculate
 > the arc through which her hand appeared to me to travel on its way to the side of my
 > plate. The wall grew populous with dancing satyrs; Chinese mandarins nodded idiotically in
@@ -53,7 +52,7 @@ his own transformation.
 
 McKenna positions Ludlow as the founding figure of a genre that combines drug narrative with
 picaresque adventure. The pharmo-picaresque, as McKenna defines it, is distinguished from
-mere drug literature by its commitment to presenting altered states as sources of genuine
+[[weil-cultural-attitudes-toward-altered-states]]-attitudes-toward-altered-statesrature by its commitment to presenting [[harner-shamanic-journey-and-altered-states]] as sources of genuine
 epistemological insight rather than mere entertainment or moral instruction.
 
 Ludlow creates what McKenna describes as "a literary persona not unlike the poet John Shade
@@ -64,8 +63,8 @@ of the pharmo-picaresque tradition.
 
 McKenna locates Ludlow "halfway between Captain Ahab and P. T. Barnum, a kind of Mark Twain
 on hashish," suggesting that the American hashish tradition absorbed the contradictions of
-the national character: the obsessive quest for transcendence alongside a carnival-barker's
-delight in the spectacle of consciousness itself.
+the national character: the omind-body-problem-vs-[[information-paradigm-of-consciousness]]-of-consciousnessor transcendence alongside a carnival-barker's
+delight in the spectacle [[william-james-multiple-forms-of-consciousness]] itself.
 
 ## Ludlow's Epistemological Framework
 
@@ -76,7 +75,7 @@ minds:
 1. The materialist, who "believes in nothing which does not, in some way, become tangent
    to his bodily organs" and would dismiss all drug-induced experience as insanity.
 
-2. The idealist, who acknowledges that the senses "give him appearances alone; not things
+2. The idealist, DMT: Candy for the Mind — Ludlow posited that the senses that the senses "give him appearances alone; not things
    as they are in their essence and their law," and believes the mind "has the right and
    the capacity to turn inward to itself for answers to the puzzling enigmas of the world."
 
@@ -147,7 +146,3 @@ and yet leave intact the structures of ordinary society."
 - **Hunter S. Thompson** (1937-2005): Gonzo journalism as pharmo-picaresque descendant
 
 ## See Also
-
-- [[terence-mckenna|McKenna]]
-- [[cannabis-endocannabinoid-system|cannabis]]
-- [[fly-agaric-literary-history|psychedelic literary history]]

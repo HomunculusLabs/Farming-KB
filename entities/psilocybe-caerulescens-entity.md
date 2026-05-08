@@ -75,7 +75,7 @@ The ceremonial context includes specific ritual preparations: the mushrooms are 
 
 ## Chemistry
 
-Psilocybe caerulescens contains [[psilocybin]] and [[psilocin]] as its primary active compounds, along with several minor tryptamine alkaloids. Analytical studies have found moderate concentrations of these compounds:
+Psilocybe caerulescens contains [[psilocybin-compound]] and [[psilocin]] as its primary active compounds, along with several minor tryptamine alkaloids. Analytical studies have found moderate concentrations of these compounds:
 
 - **Psilocybin**: typically 0.10–0.55% of dry weight, with some collections from Mexico reporting values up to approximately 0.6% under optimal growing conditions. The baeocystin content generally ranges from trace amounts to approximately 0.05%.
 - **Psilocin**: present in lower concentrations than psilocybin, generally 0.02–0.15% of dry weight, as psilocin is the dephosphorylated active metabolite and is less stable in dried material.
@@ -114,7 +114,7 @@ The legal status of *Psilocybe caerulescens* varies significantly by jurisdictio
 - [[psilocybe-mexicana-cultivation]] — Another traditional Mexican ceremonial species
 - [[psilocybe-cubensis-potency-variation-by-flush]] — The most widely cultivated psilocybin mushroom
 - [[stamets-psi-psilocybe-azurescens-species-guide]] — Potent Pacific Northwest species
-- [[psilocybin]] — Primary active compound
+- [[psilocybin-compound]] — Primary active compound
 - [[psilocin]] — Active metabolite compound
 - Section Caerulescentes — Taxonomic section overview
 - [[gordon-wasson-mushroom-discovery]] — Ethnomycologist who documented Mazatec mushroom use

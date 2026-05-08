@@ -108,13 +108,13 @@ every year.
 ## Disease Resistance Through Growing Conditions
 
 When Fukuoka first began, his red clay soil was weak and unsuited for rice. Brown spot disease
-occurred frequently. As the field grew in fertility through [[fukuoka-straw-healing-the- earth|straw mulch]] and [[cover-cropping-natural-farming|cover cropping]], brown spot disease
+occurred frequently. As the field grew in fertility through [[fukuoka-straw-healing-the-earth|straw mulch]] and [[cover-cropping-natural-farming|cover cropping]], brown spot disease
 decreased and eventually disappeared entirely.
 
 The three great rice diseases, stem rot, rice blast, and bacterial leaf blight, could all but
 disappear if farmers stopped using weak improved varieties, stopped adding too much nitrogen to
 the soil, and reduced the amount of irrigation water so that strong roots could develop. Chemical
-sprays would become unnecessary. The approach connects directly to [[fukuoka-five-principles- natural-farming|Fukuoka's four principles]]: no cultivation, no chemical fertilizer, no weeding by
+sprays would become unnecessary. The approach connects directly to [[fukuoka-five-principles-natural-farming|Fukuoka's four principles]]: no cultivation, no chemical fertilizer, no weeding by
 tillage or herbicides, and no dependence on chemicals.
 
 ## The Seasonal Cycle

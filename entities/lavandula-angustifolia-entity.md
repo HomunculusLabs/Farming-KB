@@ -115,7 +115,7 @@ Lavender has been used for over 2,500 years across multiple civilizations. Ancie
 
 ## See Also
 
-- [[lavandula-angustifolia]]
+- lavandula angustifolia entity
 - [[salvia-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - [[thymus-vulgaris-entity]]

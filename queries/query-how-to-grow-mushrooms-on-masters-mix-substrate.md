@@ -148,4 +148,3 @@ efficiency of 100 to 200 percent.
 
 ## Related Questions
 - [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]
-- [[query-how-to-grow-oyster-mushrooms-at-home]]

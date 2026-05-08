@@ -64,7 +64,7 @@ Proper sanitation during LAB serum production is important to prevent contaminat
 - [[cannabis-living-soil-guide]] for living soil integration
 - [[cannabis-microbiome-research]] for the science of cannabis-microbe interactions
 - [[cannabis-root-microbiome]] for root-associated microbial communities
-- [[cannabis-pest-management]] for biological pathogen suppression
+- cannabis pest management for biological pathogen suppression
 - [[korean-natural-farming-lab-and-ohn-recipes]] for related fermentation inputs
 - [[fermented-plant-extract-fpe]] for related biological amendment production
 

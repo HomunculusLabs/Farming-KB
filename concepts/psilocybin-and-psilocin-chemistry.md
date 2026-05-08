@@ -100,7 +100,7 @@ Both psilocin and psilocybin are controlled under the **1971 UN Convention on Ps
 - [[psilocybe-cubensis]]: the most commonly cultivated species
 - [[psilocybe-semilanceata]]: the most potent wild European species
 - [[hallucinogenic-mushroom-dose-and-effects]]: dosing guidelines and subjective effects
-- [[hallucinogenic-mushroom-prevalence-in-europe]]: epidemiological data
+- [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological data
 - [[smartshop-and-online-mushroom-markets]]: retail and distribution channels
 - [[hallucinogenic-mushroom-legislation-in-europe]]: legal responses to the emerging trend
 

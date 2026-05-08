@@ -145,6 +145,6 @@ characters for species identification.
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 - [[brassinosteroids-psilocybin-fruiting]]

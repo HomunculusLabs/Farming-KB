@@ -100,7 +100,7 @@ neurotropic ones.
 
 ## Sacred Fungi of Uncertain Chemistry
 
-Beyond the well-documented [[psilocybin]]-containing species, several fungi
+Beyond the well-documented [[psilocybin-compound]]-containing species, several fungi
 are used as "sacred" mushrooms in Mexico despite lacking confirmed neurotropic
 compounds. These include boletes used in New Guinea ceremonies (reported by
 Heim), gasteromycetes (puffballs) used by the Mixtec, and Dictyophora
@@ -133,6 +133,6 @@ through a purely pharmacological lens.
 
 - [[neurotropic-fungi]]
 - Psilocybe
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[distribution-of-neurotropic-fungi]]
 - entheogenic fungi in mexico

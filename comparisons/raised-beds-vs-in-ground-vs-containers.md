@@ -59,7 +59,7 @@ Raised beds are the homestead garden backbone — [[homesteading-infrastructure]
 - Soil warms 2-3 weeks earlier in spring — extends growing season
 - No soil compaction from foot traffic (never walk in beds)
 - Intensive planting (square foot gardening) maximizes yield per area
-- Easy to [[no-till-gardening-method]] — just top-dress and mulch
+- Easy to [[composting-and-soil-biology]] — just top-dress and mulch
 - Clean root zone for [[cannabis-living-soil-guide]] if used outdoors
 - Reduces back strain (less bending)
 - Easy to [[cover-cropping-guide]] and rotate crops in defined sections
@@ -83,7 +83,7 @@ In-ground gardening works directly with native soil, amending it over time. It's
 - Best water retention (deep soil profile holds moisture)
 - Most natural for perennials, [[food-forest-design]], and orchard integration
 - Lowest maintenance long-term
-- Best for [[no-till-gardening-method]] — large areas with mulch
+- Best for [[composting-and-soil-biology]] — large areas with mulch
 
 **Cons:**
 - Dependent on native soil quality — may take years to build good soil
@@ -93,7 +93,7 @@ In-ground gardening works directly with native soil, amending it over time. It's
 - Harder to modify pH quickly across large areas
 - Gopher/mole damage in some regions
 
-**Transition strategy:** [[no-till-gardening-method]] sheet mulching converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
+**Transition strategy:** [[composting-and-soil-biology]] sheet mulching converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
 
 ### Containers
 
@@ -135,7 +135,7 @@ Start with raised beds for the main vegetable garden (best return on effort for 
 
 ## See Also
 
-- [[no-till-gardening-method]] — Managing beds without tilling
+- [[composting-and-soil-biology]] — Managing beds without tilling
 - [[cannabis-living-soil-guide]] — Living soil container method
 - [[homesteading-infrastructure]] — Layout and bed planning
 - [[greenhouse-design]] — Protected growing structures

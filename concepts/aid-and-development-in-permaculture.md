@@ -85,7 +85,7 @@ Permaculture aid projects measure success differently from conventional developm
 - [[bioregional-organization]]
 - [[bioregional-organization]]
 - [[bioregional-organization]]
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - index-permaculture
 - [[mollison-permaculture-community-legal-structure]]
 - [[permaculture-designers-manual-animal-forage-systems]]

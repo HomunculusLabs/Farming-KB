@@ -147,5 +147,3 @@ overgrowth on potential host fungi. Both the host and parasite should
 be collected whenever possible. Insecticidal fogging can be used to
 collect fungicolous fungi from tree canopies where they grow on
 ## See Also
-
-- [[biodiversity-arthropod-dispersed-fungi]]

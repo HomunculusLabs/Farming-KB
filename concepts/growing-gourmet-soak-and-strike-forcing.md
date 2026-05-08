@@ -146,4 +146,4 @@ depleted resources in older logs.
 - Rotate soak timing to stagger harvests over the season
 
 See also: [[growing-gourmet-biological-efficiency-yield]]
-See also: [[growing-gourmet-shiitake-cultivation]]
+See also: [[shiitake-mushroom-cultivation-and-medicinal-properties]]

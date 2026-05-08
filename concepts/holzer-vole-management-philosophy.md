@@ -82,7 +82,7 @@ The net effect in a diverse planting system is strongly positive. Only in monocu
 - [[holzer-rebel-farmer-philosophy]]
 
 - [[sepp-holzer-method]]
-- [[voles-control-methods]]
+- voles control methods
 - [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[holzer-wild-fruit-trees-and-hedges]]
 - [[holzer-green-manure-and-soil-building-plants]]

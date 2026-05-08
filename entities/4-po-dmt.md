@@ -137,7 +137,7 @@ lower potency.
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[bufotenin]]
 - [[baeocystin]]
@@ -148,4 +148,3 @@ lower potency.
 - [[dmt]]
 - [[dimethyltryptamine]]
 - [[serotonin]]
-- [[ergotamine]]

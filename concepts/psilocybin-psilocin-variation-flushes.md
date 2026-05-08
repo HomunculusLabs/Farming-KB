@@ -21,7 +21,7 @@ The study was motivated by observations that large variations in alkaloid levels
 
 ### Psilocybin Levels
 
-[[psilocybin]] levels showed no consistent upward or downward trend as fruiting progressed across multiple flushes from the same culture.
+[[psilocybin-compound]] levels showed no consistent upward or downward trend as fruiting progressed across multiple flushes from the same culture.
 
 However, levels varied unpredictably by a factor of four among different minicultures grown under rigidly controlled conditions.
 
@@ -134,37 +134,16 @@ Samples 3 and 4 each contained only 0.7 mg/g psilocybin with 0.3 mg/g psilocin.
 Sample 5 contained 1.3 mg/g psilocybin with 0.3 mg/g psilocin.
 
 Street samples varied by over tenfold in psilocybin content, with consistently low psilocin levels.
-
-The highest potency samples contained no detectable psilocin, while the weakest samples contained the most psilocin relative to psilocybin.
-
-## Analytical Methods
-
-Quantification was performed using reversed-phase high performance liquid chromatography (HPLC) with a Hewlett-Packard 8380A reporting integrator-plotter.
-
-Calibration was against standards from the National Institute on Drug Abuse (NIDA).
-
-A linear relationship with 10% repeatability was found between concentration and peak area from 0.2 to 3 micrograms total psilocybin or psilocin.
-
-The detection limit was approximately 0.01 micrograms.
-
-Results were qualitatively confirmed by thin-layer chromatography (TLC) using butanol-acetic acid-water (12:3:5) as the mobile phase.
-
-## Implications
-
-The fourfold variation in alkaloid content under controlled conditions and tenfold variation in street samples means that users have no reliable way to predict dosage.
-
-This variability, combined with the well-known influence of [[set and setting]], means that subjective experiences will differ significantly due to both psychological factors and genuine dosage differences.
-
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 - [[psilocin]]
 
 - [[psilocybe-cubensis]]
 
-- [[mushroom cultivation]]
+- [[mushroom-cultivation]]
 
-- [[alkaloid biosynthesis]]
+- [[alkaloid-biosynthesis]]
 
-- [[hplc analysis]]
+- [[hplc-analysis]]

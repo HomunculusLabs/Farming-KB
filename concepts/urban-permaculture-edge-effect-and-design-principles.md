@@ -117,7 +117,7 @@ boundaries.
 - [[urban-permaculture-energy-cycling-principles]] — energy cycling
 - [[urban-permaculture-guilds-and-swales]] — guilds and swales
 - [[mollison-plant-stacking-and-interaction]] — plant stacking (Mollison's treatment)
-- [[permaculture-design-principles-beginners]] — core design principles
+- [[permaculture-design-principles]] — core design principles
 - [[herb-spiral-design-guide]] — herb spiral details
 
 ## Related

@@ -145,11 +145,6 @@ and white pore coloration before harvesting.
 
 ## See Also
 
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[oyster-mushroom]]
 - [[oyster-mushrooms]]
-
-- Laetiporus sulphureus — the yellow-pored chicken of the woods
-- Laetiporus (genus overview)
-- Brown rot fungi
-- Forest garden mushroom polycultures

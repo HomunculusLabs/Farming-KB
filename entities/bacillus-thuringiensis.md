@@ -1,5 +1,5 @@
 ---
-title: "Bacillus thuringiensis"
+title: "bacillus thuringiensis"
 created: 2026-04-28
 type: species
 tags:
@@ -130,7 +130,7 @@ sources:
 
 - Natural component of soil microbiomes; density correlated with insect population density
 - Some strains colonize plant roots as endophytes, providing systemic protection
-- Plant growth-promoting properties reported in some strains: indole-3-acetic acid (IAA) production, phosphate solubilization
+- Plant growth-promoting properties reported in some strains: [[indole]]-3-acetic acid (IAA) production, phosphate solubilization
 - Can synergize with entomopathogenic nematodes and other biocontrol agents
 - Spore persistence in soil creates a natural reservoir; crop residue incorporation returns Bt to soil
 - Horizontal gene transfer of cry plasmids to B. cereus and other soil bacteria occurs in nature, though ecological significance is debated
@@ -139,4 +139,4 @@ sources:
 
 - [[integrated-pest-management]]
 - [[permaculture]]
-- [[soil-arthropods]]
+- soil arthropods

@@ -119,4 +119,3 @@ Successful AACT disease suppression depends on several factors working together:
 - [[compost-tea-brewing]] — Production methods for quality AACT
 - [[compost-tea-application-rates]] — Coverage and timing strategies
 - [[fungal-soil-food-web]] — Leaf-surface microbial ecology
-

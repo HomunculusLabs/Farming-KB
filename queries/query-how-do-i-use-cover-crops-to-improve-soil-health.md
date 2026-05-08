@@ -26,7 +26,7 @@ soil in any growing system, from backyard vegetable gardens to broadacre
 farms. The [[cover-crops]] concept is simple yet transformative: instead of
 leaving soil bare between cash crops, you plant species that protect and
 improve the soil during fallow periods. The benefits are extensive and
-compound over time, making cover cropping a cornerstone of [[no-till-gardening-method|no-till]],
+compound over time, making cover cropping a cornerstone of [[composting-and-soil-biology|no-till]],
 [[regenerative-agriculture-history|regenerative]], and organic farming systems worldwide. Research has shown
 that consistent cover cropping can increase soil organic matter, improve
 water infiltration, reduce erosion by up to 90 percent, and significantly
@@ -52,7 +52,7 @@ bacteria in their root systems. These bacteria convert atmospheric nitrogen
 the soil for the subsequent cash crop. A well-established stand of crimson
 clover can fix 50 to 150 pounds of nitrogen per acre. Inoculating legume
 seed with the appropriate Rhizobium strain before planting ensures effective
-nodulation and maximum nitrogen fixation. The [[nitrogen-cycle-in-soil|nitrogen cycle]] in your
+nodulation and maximum nitrogen fixation. The [[composting-and-soil-biology|nitrogen cycle]] in your
 garden becomes more self-sustaining when legume cover crops are rotated
 regularly throughout your planting beds.
 

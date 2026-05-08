@@ -1,5 +1,5 @@
 ---
-title: Pleurotus ostreatus
+title: pleurotus ostreatus
 type: species
 tags:
   - fungi
@@ -17,32 +17,9 @@ sources:
   - Stamets, P. (2000). Growing Gourmet & Medicinal Mushrooms. Ten Speed Press.
   - Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact. CRC Press.
 ---
+# [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] (Oyster Mushroom)
 
-# Pleurotus ostreatus (Oyster Mushroom)
-
-**Pleurotus ostreatus**, commonly known as the oyster mushroom, is a widely cultivated edible basidiomycete fungus belonging to the family Pleurotaceae. It is one of the most commercially important mushroom species worldwide, valued for its culinary versatility, nutritional profile, and emerging medicinal properties.
-
-## Taxonomy and Etymology
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Pleurotaceae
-- **Genus:** *Pleurotus*
-- **Species:** *P. ostreatus*
-
-The specific epithet *ostreatus* derives from the Latin *ostrea* (oyster), referring to the shell-like appearance of the fruiting body. The species was first described by Carl Linnaeus in 1775 as *Agaricus ostreatus* and later transferred to the genus *Pleurotus* by Paul Kummer in 1871.
-
-## Morphology
-
-### Fruitng Body
-
-- **Cap:** 5–25 cm diameter, fan-shaped or oyster-shaped, convex when young becoming flat with age. Surface smooth to slightly wrinkled, typically grey-blue to brown-grey, though cultivated strains range from white to pink, yellow, and deep blue. Margin inrolled when young, becoming wavy and lobed with maturity.
-- **Gills:** Decurrent (extending down the stipe), white to cream, crowded, with cross-veins (anastomosing) between lamellae — a distinguishing feature of the genus.
-- **Stipe:** 1–5 cm long, 0.5–2 cm thick, lateral or eccentric, often absent in specimens growing from vertical surfaces. White to pale, solid.
-- **Flesh:** White, firm, thick in the cap center, thinner toward the margin. Mild, anise-like odor when fresh.
-- **Spore Print:** White to pale lilac-grey.
+**Pleurotus ostreatus**, commonly known as the [[oyster-mushroom]], is a widely cultivated edible basidiomycete fungus belonging to the family Pleurcommercially-important-pleurotus-species-cultivation-guidethe most commercially important mushroom species worldwide, turkey tail mushroom cultivation and medicinal propertiesary versatility, nutritional profile, and emerging medicinal properties.:** White to pale lilac-grey.
 - **Spores:** Cylindrical to ellipsoid, 8–12 × 3–4 µm, smooth, hyaline.
 
 ### Mycelium
@@ -59,11 +36,11 @@ The species fruits in autumn through early winter in temperate regions, though c
 
 ### Commercial Importance
 
-*P. ostreatus* is the second or third most cultivated mushroom globally, following *Agaricus bisporus* and sometimes *Lentinula edodes* (shiitake). Global production exceeds several million tonnes annually, with major producers in China, Japan, Korea, Italy, Hungary, and increasingly the United States and India.
+*P. ostreatus* is the second or third most cultivated mushroom globally, following *[[agaricus-bisporus]]* and sometimes *[[lentinula-edodes]]* (shiitake). Global production exceeds several million tonnes annually, with major producers in China, Japan, Korea, Italy, Hungary, and increasingly the United States and India.
 
 ### Substrates
 
-Oyster mushrooms are exceptionally versatile in substrate utilization:
+[[oyster-mushrooms]] are exceptionally versatile in substrate utilization:
 
 - **Straw-based:** Wheat, rice, or oat straw (most common for small-scale cultivation)
 - **Wood-based:** Hardwood sawdust supplemented with bran (commercial standard)
@@ -147,8 +124,3 @@ Oyster mushrooms have a mild, savory flavor with a slight anise note and a tende
 - *Pleurotus cornucopiae* (Branching oyster) — multi-branched form
 
 ## See Also
-
-- [[mycoremediation]] — environmental cleanup with fungi
-- [[paul-stamets]] — mycologist and fungal advocacy
-- [[fungi-cultivation]] — mushroom growing techniques
-- [[beta-glucans]] — immune-active polysaccharides

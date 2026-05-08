@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Super-Guild Design and Inter-Guild Connections
 
@@ -46,7 +47,7 @@ Several strategies exist for connecting individual guilds into a super-guild. Sh
 
 Ground-cover plants can span the spaces between guilds, creating continuous living mulch that suppresses weeds and builds soil across the entire landscape. Water features can be positioned to serve multiple guilds simultaneously, providing irrigation and microclimate benefits to all.
 
-These connections follow [[permaculture-principle-integrate-rather-than-segregate]], ensuring that no guild exists in isolation but is part of a larger web of relationships.
+These connections follow [[permaculture-design-principles]], ensuring that no guild exists in isolation but is part of a larger web of relationships.
 
 ## Temporal Super-Guilds
 
@@ -64,7 +65,7 @@ In a community or village setting, individual household guilds can be connected 
 
 The primary benefit of super-guilds is increased biodiversity and resilience. A single guild might fail if its central tree dies or a particular pest becomes dominant. A super-guild, with its diversity of central species, support species, and connections, is far more resistant to catastrophic failure.
 
-The web of connections between guilds means that the loss of one component is buffered by the others. Nutrients cycle through the entire system rather than being trapped in isolated pockets. Pest populations are controlled by predators that move freely between guilds. This resilience is a core goal of [[permaculture-design-principles-beginners]].
+The web of connections between guilds means that the loss of one component is buffered by the others. Nutrients cycle through the entire system rather than being trapped in isolated pockets. Pest populations are controlled by predators that move freely between guilds. This resilience is a core goal of [[permaculture-design-principles]].
 
 ## Practical Assembly
 

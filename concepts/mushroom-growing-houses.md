@@ -48,7 +48,7 @@ severe weather, not as a constant heat source.
 ## Vineries as Mushroom Houses
 
 Where a dedicated Oldacre house was unavailable, vineries
-served as the next best option for [[mushroom-bed-preparation]].
+served as the next best option for mushroom bed preparation.
 Cuthill describes his own vinery setup: two old houses, each
 forty-five feet long, with a pathway along the centre and
 beds on each side four feet wide and about one foot four
@@ -78,7 +78,7 @@ excellent insulation and temperature regulation.
 
 A cucumber frame also makes a serviceable mushroom bed.
 Cuthill emphasised that a bed may be made anywhere, provided
-the principles of [[mushroom-bed-preparation]] and proper
+the principles of mushroom bed preparation and proper
 management are followed. The key is maintaining appropriate
 temperature and moisture levels regardless of the structure
 housing the bed.

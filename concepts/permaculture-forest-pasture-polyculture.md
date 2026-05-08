@@ -145,5 +145,5 @@ The principle of combining trees with pasture represents one of the most powerfu
 - [[permaculture-interaction-of-plants-and-animals]]
 
 - [[permaculture-plant-stacking-vertical-guilds]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[orchard-plant-guilds-mollison]]

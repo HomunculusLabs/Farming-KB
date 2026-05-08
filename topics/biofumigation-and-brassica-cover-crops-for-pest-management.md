@@ -36,11 +36,11 @@ Biofumigation is most effective when used as part of an integrated pest manageme
 
 The biofumigation mechanism centers on a two-component chemical defense system that evolved in the Brassicaceae family:
 
-1. **Glucosinolates (GSLs)** — secondary metabolites stored in plant cell vacuoles. Over 130 glucosinolate structures have been identified, classified by their amino acid precursor: aliphatic (from methionine), aromatic (from phenylalanine/tyrosine), and indole (from tryptophan). The biofumigant potential depends heavily on which glucosinolates are dominant.
+1. **Glucosinolates (GSLs)** — secondary metabolites stored in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles. Over 130 glucosinolate structures have been identified, classified by their amino acid precursor: aliphatic (from methionine), aromatic (from phenylalanine/tyrosine), and indole (from tryptophan). The biofumigant potential depends heavily on which glucosinolates are dominant.
 
 2. **Myrosinase** — an enzyme (thioglucoside glucohydrolase) stored separately in myrosin cells. Under normal conditions, glucosinolates and myrosinase never meet.
 
-When plant tissue is physically disrupted — by chopping, mowing, or crushing — the cell walls rupture, bringing glucosinolates into contact with myrosinase. This triggers hydrolysis, producing several breakdown products depending on pH and cofactors:
+When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is physically disrupted — by chopping, mowing, or crushing — the cell walls rupture, bringing glucosinolates into contact with myrosinase. This triggers hydrolysis, producing several breakdown products depending on pH and cofactors:
 
 | Breakdown Product | Conditions | Pest Suppression Activity |
 |---|---|---|
@@ -115,7 +115,7 @@ Mechanism: ITCs are directly toxic to nematodes at all life stages. Additionally
 
 ### Weeds
 
-Biofumigation can suppress weed seed germination in the soil seedbank. ITCs are phytotoxic to germinating seeds, particularly small-seeded broadleaf weeds. Effects are more pronounced on seeds near the soil surface where ITC concentrations are highest.
+Biofumigation can suppress weed [[seed-germination-techniques-solomon]] in the soil seedbank. ITCs are phytotoxic to germinating seeds, particularly small-seeded broadleaf weeds. Effects are more pronounced on seeds near the soil surface where ITC concentrations are highest.
 
 ## Practical Implementation
 
@@ -155,7 +155,7 @@ Allow brassicas to reach maximum biomass before incorporation:
 Proper incorporation is where biofumigation succeeds or fails:
 
 1. **Mow or flail-chop** the crop to finely shred tissue (pieces < 2 inches / 5 cm). More surface area = more glucosinolate-myrosinase contact.
-2. **Incorporate immediately** — within 30 minutes of chopping if possible. Delays allow volatilization and enzymatic degradation.
+2. **Incorporate immediately** — within 30 minutes of chopping if possible. Delays allow volatilization and [[enzymatic-degradation-in-mycoremediation]].
 3. **Incorporate depth** — 4-6 inches (10-15 cm). Deeper burial reduces ITC loss to the atmosphere but also dilutes concentration near the soil surface.
 4. **Use a power tiller, spader, or disc** — thorough mixing is essential. In no-till systems, use a flail mower followed by a roller/crimper, accepting reduced efficacy.
 
@@ -188,7 +188,7 @@ Biofumigation fits naturally into organic systems:
 
 - **Precedes high-value crops** — use before transplanting tomatoes, peppers, strawberries, or other susceptible crops
 - **Replaces chemical fumigation** — while less consistent than methyl bromide, biofumigation provides 40-80% of the suppression in many trials
-- **Combines with compost tea** — after biofumigation, apply beneficial microbial inoculants to recolonize the soil with protective organisms
+- **Combines with compost tea** — after biofumigation, apply beneficial [[microbial-inoculants-and-biological-soil-amendments]] to recolonize the soil with protective organisms
 - **Feeds soil biology** — the decomposing brassica biomass provides organic matter and nutrients even after ITCs degrade
 
 ### Crop Rotation Planning
@@ -208,7 +208,7 @@ Biofumigation fits naturally into organic systems:
 ### Soil Conditions
 
 - **Soil type** — sandy soils allow rapid ITC movement and better distribution but also faster volatilization. Clay soils bind some ITCs, reducing efficacy but extending residual activity. Loam soils offer a good balance.
-- **Soil moisture** — ITCs are water-soluble; adequate soil moisture (60-80% field capacity) is critical for distribution and pathogen contact. Too wet → anaerobic conditions inhibit myrosinase; too dry → ITCs volatilize before acting.
+- **Soil moisture** — ITCs are [[water-soluble-calcium-phosphate-wcp]]; adequate soil moisture (60-80% field capacity) is critical for distribution and pathogen contact. Too wet → anaerobic conditions inhibit myrosinase; too dry → ITCs volatilize before acting.
 - **Soil pH** — near-neutral pH (6.5-7.5) favors ITC production over nitriles. In acidic soils, consider liming before biofumigation.
 - **Soil organic matter** — high organic matter soils can adsorb ITCs, reducing available concentration. Heavier applications may be needed.
 
@@ -299,11 +299,11 @@ The combination produces organic acids, ammonia, and ITCs simultaneously, provid
 
 ### Biofumigation + Mycorrhizal Inoculation
 
-After biofumigation clears pathogens, inoculate with arbuscular mycorrhizal fungi (AMF) to:
+After biofumigation clears pathogens, inoculate with [[arbuscular-mycorrhizal-colonization-patterns]] fungi (AMF) to:
 
 - Recolonize the root zone with beneficial symbionts before pathogens return
 - Improve nutrient uptake of the following crop
-- Provide ongoing disease protection through mycorrhiza-induced resistance
+- Provide ongoing disease protection through [[mycorrhiza-induced-resistance-defense-priming]] resistance
 
 Apply AMF inoculant at planting of the subsequent crop, ideally as a seed treatment or root dip.
 

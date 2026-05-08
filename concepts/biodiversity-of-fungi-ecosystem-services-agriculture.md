@@ -113,7 +113,7 @@ Soil fungal communities contribute to plant disease suppression through multiple
 
 5. **[[mycorrhizal-biocontrol]]**: Mycorrhizal colonization of roots can reduce disease incidence through physical barriers, biochemical changes, and induced systemic resistance.
 
-See also: [[mycopesticides-fungal-biocontrol]], [[mycoparasitic-fungi-biocontrol-agents]], [[fungal-plant-pathogen-interactions]]
+See also: [[mushroom-cultivation-fundamentals]], [[mycoparasitic-fungi-biocontrol-agents]], [[fungal-plant-pathogen-interactions]]
 
 ### Pest Regulation
 

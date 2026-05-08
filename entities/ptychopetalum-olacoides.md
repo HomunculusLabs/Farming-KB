@@ -112,7 +112,7 @@ The bark and root contain a diverse array of bioactive compounds:
 
 ## Cultivation and Trade
 
-Wild harvesting remains the primary source of muira puama. The tree grows slowly and root harvesting is destructive, creating sustainability concerns similar to those affecting [[ptychopetalum-olacoides|Trichilia catigua]] and other Amazonian medicinal barks. Demand from the international supplement market has increased collection pressure.
+Wild harvesting remains the primary source of muira puama. The tree grows slowly and root harvesting is destructive, creating sustainability concerns similar to those affecting Trichilia catigua and other Amazonian medicinal barks. Demand from the international supplement market has increased collection pressure.
 
 Cultivation trials are underway in Brazil, using both seed propagation and vegetative cuttings. Seed germination is irregular and can take 60-120 days. The species requires tropical conditions with high humidity, partial shade for seedlings, and well-drained soil. Optimal growth occurs in USDA Hardiness Zones 12-13.
 
@@ -125,7 +125,7 @@ Muira puama is well-tolerated at traditional and supplemental doses (1-2 g/day o
 ## See Also
 
 - [[eurycoma-longifolia|Tongkat Ali]]
-- [[ptychopetalum-olacoides|Trichilia catigua]]
+- Trichilia catigua
 - [[rhodiola-rosea|Rhodiola rosea]]
 - [[ashwagandha|Withania somnifera]]
 - [[damiana|Turnera diffusa]]

@@ -147,5 +147,3 @@ ordinances. Together these tools provide the comprehensive understanding
 of the site needed for effective [[permaculture]] design.
 
 ## See Also
-
-- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]

@@ -126,7 +126,7 @@ rigorous experimental discipline, and his discoveries about spore
 discharge, fungal aerodynamics, and rust genetics remain foundational
 to the field.
 ## See Also
-- [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
+- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[rust-fungi-biodiversity-life-cycles]]

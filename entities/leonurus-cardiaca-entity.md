@@ -148,6 +148,3 @@ management to prevent unwanted spread in formal garden settings.
 
 - [[leonurus-sibiricus]] — Related species, Siberian motherwort
 - [[leonotus-leonurus]] — Lion's ear, African relative in Lamiaceae
-- [[valeriana-officinalis]] — Valerian, common companion in nervine blends
-- [[passiflora-incarnata-entity]] — Passionflower, nervine combination herb
-- [[urtica-dioica]] — Stinging nettle, morphological lookalike

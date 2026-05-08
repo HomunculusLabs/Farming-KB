@@ -22,23 +22,20 @@ sources:
 type: comparison
 created: 2026-04-28
 ---
-
 # Black Currant vs Red Currant Cultivation
 
-Black currants (*Ribes nigrum*) and red currants (*Ribes rubrum*) are closely related deciduous shrubs in the family Grossulariaceae. Both produce tart, nutrient-dense berries valued for culinary and medicinal use, but they differ significantly in growth habit, flavor profile, pest susceptibility, and cultural requirements.
+Black currants (*[[ribes-nigrum]]*) and red currants (*Ribes rubrum*) are closely related deciduous shrubs in the family Grossulariaceae. Both produce tanutrient-dense-gardeningense berries valuedquery-what-are-the-best-mushrooms-for-medicinal-use]] and [[query-what-are-the-best-mushrooms-for-medicinal-use]], but they differ significantly in growth habit, flavor profile, pest susceptibility, and cultural requirements.
 
 ## Comparison Summary Table
 
 | Category | Black Currant (*R. nigrum*) | Red Currant (*R. rubrum*) |
 |---|---|---|
-| Mature height | 1.2–1.8 m (4–6 ft) | 1.0–1.5 m (3–5 ft) |
-| Hardiness zones | USDA 3–7 | USDA 3–7 |
+| Mature height | 1.2–1.8 m (4–6 ft) | 1.0–1.5 m (3–5 [[soil-ph-management-for-vegetable-gardens]] Hardiness zones | USDA 3–7 | USDA 3–7 |
 | Preferred soil pH | 6.0–6.5 (slightly acidic) | 6.0–6.8 (slightly acidic) |
 | Sun requirement | Full sun to partial shade | Full sun; tolerates partial shade |
 | Fruit borne on | 1-year-old wood and spurs | 2-year-old and older wood (spurs) |
 | Typical yield | 3–5 kg (7–11 lbs) per plant | 2–4 kg (4–9 lbs) per plant |
-| Primary pruning method | Remove old wood after 3 years | Shorten leaders, thin older wood |
-| White pine blister rust | High susceptibility | Moderate susceptibility |
+| Primary pruning method | Remove old wood after 3 years | Shorten leaders, thin older [[big-bud]]| White pine blister rust | High susceptibility | Moderate susceptibility |
 | Key pests | Big bud mite, currant aphid | Currant aphid, imported currant worm |
 | Primary culinary use | Jams, syrups, juices, supplements | Jellies, garnishes, fresh eating |
 | Vitamin C content | ~200 mg / 100 g | ~40 mg / 100 g |
@@ -51,19 +48,19 @@ Black currants (*Ribes nigrum*) and red currants (*Ribes rubrum*) are closely re
 
 ## Climate Hardiness
 
-Both species are remarkably cold-hardy and well-suited to cool temperate climates:
+Both species are remarkably cold-hardy and well-suited to cool [[fukuoka-natural-farming-temperate-climates]]:
 - **Black Currant**: Zones 3–7; tolerates winter temperatures to −35 °C (−30 °F). Performs best where summers are not excessively hot (prefers max below 30 °C / 86 °F). Requires 800–1,200 chill hours.
-- **Red Currant**: Zones 3–7; slightly more tolerant of warmer microclimates. Also requires 800–1,200 chill hours. Both species struggle in zones 8+ where inadequate chilling and summer heat reduce vigor and yield.
+- **Red Currant**: Zones 3–7; slightly more tolerant of warmer microclimates. Also requires 800–1,200 chill hours. Both species struggle in zones 8+ where inadequate chilling and summer heat reduce vigor [[mollison-pond-edge-configuration-and-yield]].
 
 ## Soil Preferences
 
-- **Black Currant**: Prefers deep, moisture-retentive loam rich in organic matter. Tolerates heavier soils better than red currant but suffers in waterlogged conditions. Optimal pH 6.0–6.5. Responsive to mulching and nitrogen applications.
+- **Black Currant**: Prefers deep, moisture-retentive loam rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Tolerates heavier soils better than red currant but suffers in waterlogged conditions. Optimal pH 6.0–6.5. Responsive to mulching and nitrogen applications.
 - **Red Currant**: Prefers well-drained loam; more sensitive to waterlogging. Optimal pH 6.0–6.8. Shallow root system makes consistent moisture important during fruit set.
 
 ## Sunlight Needs
 
 Both species fruit best in full sun (6+ hours) but tolerate partial shade:
-- **Black Currant**: More shade-tolerant; can produce acceptable crops with 4–5 hours of sun. Often planted in partial shade in warmer regions to reduce heat stress.
+- **Black Currant**: More shade-tolerant; can produce acceptable crops with 4–5 hours of sun. Often planted in partial shade in warmer regions to reduce [[heat-stress-cannabis]].
 - **Red Currant**: Prefers full sun for best fruit color and sweetness. Shade can reduce quality and increase fungal disease risk. Cordon-trained plants against a sun-facing wall perform excellently.
 
 ## Pruning Differences
@@ -147,28 +144,3 @@ The **currant aphid** (*Cryptomyzus ribis*) causes characteristic leaf blisterin
 - **Bird predation**: Netting is most effective; reflective tape and scare devices provide partial deterrence.
 
 ## Best Uses in Permaculture and Food Forest Design
-
-**Black Currant:**
-- Excellent understory shrub in the shrub layer; tolerates partial shade from fruit trees.
-- Works well in hedgerows and windbreaks where its dense form provides wildlife habitat.
-- Berry processing yields juice, syrup, and preserves that store well for winter food security.
-
-**Red Currant:**
-- Ideal for the forest garden edge in full sun with wind protection from taller plants.
-- Compact size suits small spaces, containers, and espalier/cordon training.
-- White currant varieties attract fewer birds, well-suited to integrated polycultures.
-
-Both species support biodiversity by providing early-season nectar for pollinators and food for birds. Combining both maximizes the harvest window and diversifies culinary options from a single structural layer.
-
-## Wikilinks
-
-- [[comparison-black-currant-vs-red-currant-cultivation]]
-- [[comparison-black-currant-vs-red-currant-cultivation]]
-- white pine blister rust
-- [[permaculture-berry-crops]]
-- [[food-forest-design]]
-- [[permaculture-berry-crops]]
-- [[permaculture-berry-crops]]
-- [[hamilton-taking-cuttings-softwood-hardwood]]
-- [[powdery-mildew-cannabis]]
-- [[orchard-pest-management]]

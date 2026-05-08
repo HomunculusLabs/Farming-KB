@@ -94,7 +94,7 @@ Take a landscape site with a slope and identify three locations where you would 
 
 ## See Also
 
-- [[swale-construction-guide]]
-- [[permaculture-earthworks-guide]]
+- [[organic-vegetable-growing-and-market-gardening]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[mollison-pdc-swale-design-water-harvesting]]
 - [[pdc-water-systems-design-and-management]]

@@ -94,7 +94,7 @@ The ligninolytic enzyme system of white-rot fungi is uniquely suited to degrade 
 ## Related Concepts
 
 - [[mycoremediation-pah-and-pcb-degradation]] -- PAH and PCB focused coverage
-- [[mycoremediation-field-applications]] -- advanced bioremediation approaches
+- [[bioremediation-using-fungi]] -- advanced bioremediation approaches
 - [[mycorestoration-framework]] -- Stamets' mycorestoration framework
 - [[fungal-enzyme-systems-in-bioremediation]] -- industrial enzyme applications
 - [[fungal-chromogens-and-color-change]]

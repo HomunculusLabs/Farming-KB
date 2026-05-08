@@ -81,7 +81,7 @@ A young man named Stanislov Wistupkin brought the compound to Shulgin's attentio
 
 Whether Wistupkin was a student of Leminger's remains unknown.
 
-The Czechoslovakian publication that presented AL and MEPEA also described [[escaline-entity]], [[proscaline-entity]], and the allyloxy analogue (AL).
+The Czechoslovakian publication that presented AL and MEPEA also described [[escaline-entity]], [[proscaline]], and the allyloxy analogue (AL).
 
 This is the only published material dealing with psychedelic drugs that Shulgin was ever able to find from the laboratory of Otakar Leminger.
 
@@ -89,7 +89,7 @@ This is the only published material dealing with psychedelic drugs that Shulgin 
 
 [[escaline-entity]] - the 4-ethoxy analogue, also studied by Leminger
 
-[[proscaline-entity]] - the 4-propoxy analogue
+[[proscaline]] - the 4-propoxy analogue
 
 [[mescaline-entity]] - the parent 3,4,5-trimethoxyphenethylamine
 

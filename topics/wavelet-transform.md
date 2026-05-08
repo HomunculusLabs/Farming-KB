@@ -1,5 +1,5 @@
 ---
-title: Wavelet Transform
+title: [[wavelet-transform]]
 subtitle: A multiscale method for analyzing signals with localized waves
 tags: [signal-processing, mathematics, data-analysis, compression, time-frequency-analysis]
 date: 2026-05-02
@@ -46,7 +46,7 @@ The discrete form is usually preferred for compression, denoising, fast computat
 A fast discrete wavelet transform can be implemented with a pair of filters and downsampling operations.
 The low-pass filter produces approximation coefficients that describe broad structure.
 The high-pass filter produces detail coefficients that describe changes, edges, and fine texture.
-Repeating the same operation on the approximation coefficients creates a multilevel decomposition.
+Repeating the same operation on the approximation coefficients creates a multilevel [[decomposition]].
 This nested structure is often called a wavelet pyramid.
 An inverse transform recombines the coefficients to reconstruct the original data.
 ## Multiresolution Analysis
@@ -142,5 +142,5 @@ Interpretation also requires care because scale is related to but not identical 
 Despite these limitations, wavelets remain valuable because they combine locality, scale, sparsity, and reconstruction.
 They are especially powerful when data contain both broad trends and sharply localized detail.
 ## See Also
-[[wavelet-transform]]
+wavelet transform
 [[kalman-filter]]

@@ -55,7 +55,7 @@ Another way to establish cultures on degraded land is by making raised beds on t
 
 The seeds will probably lie dormant for some time. At first they will not encounter the conditions they need to germinate because it will still be too dry. However, once the rains come, water will begin to collect. The biomass within the raised bed will retain water and slowly begin to decompose, allowing the seeds to germinate.
 
-A mulch of leaves and straw can be used to stop germinating seeds from drying out. Laying acacia branches or any other thorny branch in the newly created microclimate will protect choice plants from being eaten. The thorny material also slowly rots down into fertiliser, connecting to [[permaculture-woody-mulch-systems]].
+A mulch of leaves and straw can be used to stop germinating seeds from drying out. Laying acacia branches or any other thorny branch in the newly created microclimate will protect choice plants from being eaten. The thorny material also slowly rots down into fertiliser, connecting to [[permaculture-design]].
 
 ## Adapting to Different Climate Challenges
 
@@ -71,7 +71,7 @@ For these sensitive plants, a blanket of leaves from nearby trees provides addit
 
 ## Observation as the Foundation
 
-The most important thing Holzer has learnt from working with microclimates is that all events in nature should be observed closely. This is a wonderful and fascinating activity for anyone who has an interest in nature, because you never cease to learn and profit from it. The key principle is that nature cannot be improved upon, only understood and worked with, which is the foundation of [[permaculture-principle-observe-and-interact]].
+The most important thing Holzer has learnt from working with microclimates is that all events in nature should be observed closely. This is a wonderful and fascinating activity for anyone who has an interest in nature, because you never cease to learn and profit from it. The key principle is that nature cannot be improved upon, only understood and worked with, which is the foundation of [[permaculture-design-principles]].
 
 ## Microclimate Assessment Methods
 

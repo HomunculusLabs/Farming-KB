@@ -148,4 +148,3 @@ enables detection of habitat alteration effects on composition and
 function. Cultures should be isolated and maintained for future habitat
 restoration, [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 research, and phylogenetics. Freshwater fungal communities intersect
-with [[biodiversity-fungi-aquatic-environments]] broadly, including

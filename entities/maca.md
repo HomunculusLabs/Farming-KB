@@ -141,17 +141,6 @@ Maca's bioactivity derives from a complex mixture of nutrients and secondary met
 | Food products | Added to smoothies, baked goods, chocolate, and energy bars. | Variable |
 
 ## Safety and Precautions
-
-- Generally well-tolerated at typical dietary and supplemental doses.
-- **Goitrogenic potential:** Maca contains glucosinolates that can interfere with iodine uptake by the thyroid gland. This is primarily a concern with raw maca at very high doses. Gelatinized maca has significantly reduced glucosinolate content. Individuals with thyroid disorders (especially hypothyroidism) should exercise caution and ensure adequate iodine intake.
-- **Hormone-sensitive conditions:** While maca does not appear to have estrogenic activity, women with estrogen receptor-positive breast cancer or other hormone-sensitive conditions should consult healthcare providers before use.
-- **Pregnancy and lactation:** Insufficient safety data; traditional use in pregnancy is documented but modern supplements should be used with caution.
-- **Interactions:** No significant drug interactions documented, but theoretical interactions with thyroid medications exist.
-
-## Legal Status
-
-Maca is a food and dietary supplement with no legal restrictions in most countries. Peru has enacted protections for maca's designation of origin and prohibits export of whole fresh roots (only processed maca may be exported, to protect domestic supply and genetic resources).
-
 ## See Also
 
 - [[ashwagandha-withania-somnifera]] — adaptogenic herb with complementary fertility and stress-reduction properties

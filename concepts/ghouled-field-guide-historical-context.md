@@ -48,7 +48,7 @@ The 1994 rediscovery came about when the poster (identified only as
 "Data Storm" from Vanderbilt University) found the book "while perusing
 an ex-hippie-family-member's books." This provenance chain -- from a
 1972 counter-culture publication preserved by a former hippie, then
-shared to the [[psilocybin-in-the-counter-culture]] via Usenet -- exemplifies the underground information
+shared to the [[psychedelic-mushrooms-species-and-identification]] via Usenet -- exemplifies the underground information
 networks that kept psilocybin knowledge alive during decades of legal
 suppression.
 

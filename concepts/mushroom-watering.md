@@ -69,7 +69,7 @@ position, and weather conditions.
 
 The preference for soft water likely related to mineral
 content and hardness, which could adversely affect spawn
-health and the [[cervantes-growing-medium]] during [[mushroom-bed-preparation]].
+health and the [[cervantes-growing-medium]] during mushroom bed preparation.
 
 ## Liquid Manure Water
 

@@ -81,7 +81,7 @@ sterilized, inoculated substrate and sealed with filter patches for
 gas exchange. Bags can be laid horizontally, stood vertically, or
 hung from supports.
 
-For [[growing-gourmet-shiitake-cultivation]] cultivation on supplemented sawdust, bag culture is the
+For [[shiitake-mushroom-cultivation-and-medicinal-properties]] cultivation on supplemented sawdust, bag culture is the
 predominant method. Blocks of 6-7 lbs are incubated in bags and
 then opened for fruiting when the mycelium is fully colonized. The
 bags provide protection during colonization and can be managed

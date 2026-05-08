@@ -130,7 +130,7 @@ H. lactifluorum plays a significant role in forest fungal community dynamics. By
 
 - lactarius-piperatus
 
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 
 - [[amanita-muscaria]]
 

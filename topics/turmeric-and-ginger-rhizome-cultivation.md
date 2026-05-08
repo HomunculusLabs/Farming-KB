@@ -130,7 +130,7 @@ Both turmeric and ginger are heavy feeders, particularly of potassium, which is 
 | Phosphorus (P₂O₅) | 40–60 kg | 40–60 kg |
 | Potassium (K₂O) | 80–120 kg | 100–150 kg |
 | Farmyard manure | 10–15 t/ha | 15–25 t/ha |
-| [[Biochar]] | 2–5 t/ha (optional) | 2–5 t/ha (optional) |
+| [[biochar]] | 2–5 t/ha (optional) | 2–5 t/ha (optional) |
 
 ### Application Schedule
 
@@ -168,7 +168,7 @@ Both crops benefit from [[mulch]] to conserve moisture. A 10 cm (4 in) layer of 
 **Rhizome Rot** (*Pythium aphanidermatum*, *Fusarium spp.*, *Ralstonia solanacearum*):
 - The most devastating disease of both crops, especially in waterlogged conditions
 - Symptoms: yellowing leaves, soft, foul-smelling rhizomes, plant collapse
-- Prevention: excellent drainage, pre-planting [[Trichoderma]] treatment, crop rotation (3+ year break), avoid fields with history of solanaceous crops
+- Prevention: excellent drainage, pre-planting [[trichoderma]] treatment, crop rotation (3+ year break), avoid fields with history of solanaceous crops
 - Organic control: soil drench with [[Trichoderma harzianum]] (5 g/L) at planting and 30-day intervals; biofumigation with brassica [[cover-crops]] before planting
 
 **Leaf Spot** (*Colletotrichum capsici*, *Phyllosticta*):
@@ -321,7 +321,7 @@ Saving your own seed rhizomes is essential for sustainable production:
 
 - **Selection**: Choose the healthiest, most vigorous plants at harvest. Mark them during the growing season.
 - **Curing**: Air-dry for 3–5 days in a well-ventilated, shaded area
-- **Treatment**: Dust with wood ash or dip in 0.1% [[Trichoderma]] solution
+- **Treatment**: Dust with wood ash or dip in 0.1% [[trichoderma]] solution
 - **Storage**: Layer in crates with dry sawdust, sand, or coconut coir. Store at 12–15°C (54–59°F) with good ventilation. Check weekly for rot — remove any affected pieces immediately.
 - **Shelf life**: 4–6 months under proper conditions
 - **Pre-sprouting**: Begin sprouting 3–4 weeks before intended planting date
@@ -387,7 +387,7 @@ For certified organic production:
 
 - Use only organic-certified seed rhizomes or propagate from your own organic stock
 - All fertilizers and amendments must be OMRI-listed or equivalent
-- No synthetic fungicides; rely on [[Trichoderma]], [[compost-tea]], and cultural practices
+- No synthetic fungicides; rely on [[trichoderma]], [[compost-tea]], and cultural practices
 - Crop rotation: minimum 3-year rotation away from all Zingiberaceae and solanaceous crops
 - Post-harvest handling: no synthetic preservatives or fumigants; use cold storage, proper curing, and natural treatments (neem, clove oil)
 - Record-keeping: maintain detailed field histories, input records, and harvest/sales logs

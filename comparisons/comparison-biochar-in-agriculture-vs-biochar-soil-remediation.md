@@ -130,5 +130,5 @@ the cost and disruption of full remediation protocols.
 ## See Also
 - [[biochar-production-guide]] — production methods for both applications
 - [[mycoremediation-basics]] — biological approach to soil remediation
-- [[mycoremediation-phytoremediation-combined]] — comparison of plant vs fungal remediation
+- [[bioremediation-using-fungi]] — comparison of plant vs fungal remediation
 - [[hyperaccumulator-plants]] — plants used alongside biochar for combined remediation

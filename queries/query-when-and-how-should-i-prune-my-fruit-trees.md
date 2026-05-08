@@ -141,21 +141,6 @@ Light pruning focused on renewal — remove the oldest, least productive wood to
 Avoid fall pruning. Pruning stimulates new growth that won't have time to harden off before winter, making it vulnerable to cold damage. Fall wounds also heal more slowly and are more susceptible to fungal infection.
 
 ### What if my tree has never been pruned?
-
-Don't try to fix it all in one year. Spread renovation over 2–3 seasons, removing no more than 25–30% of the canopy per year. Start with dead, diseased, and crossing branches. Open the center. Reduce height gradually by cutting back to strong lateral branches.
-
-### Should I use wound paint or sealant?
-
-Generally no. Modern arboriculture research shows that wound dressings do not prevent decay and can actually trap moisture and slow healing. The tree's natural compartmentalization process is the best defense. Exceptions include pruning oaks in oak wilt zones (paint immediately to prevent beetle attraction).
-
-### How do I know if I'm over-pruning?
-
-Signs of over-pruning include excessive water sprout growth the following season, reduced fruit production, sunburned bark on suddenly exposed branches, and general tree stress (pale leaves, reduced growth). If more than 25–30% of the canopy is removed in a single season (except peaches), it's likely too much.
-
-### My fruit tree is too tall. Can I just cut the top off?
-
-**No.** Topping creates a cascade of problems: weakly-attached regrowth, decay, reduced fruit quality, and an ugly, unmanageable tree. Instead, reduce height gradually over 2–3 years by thinning to strong lateral branches at the desired height (reduction cuts, not topping cuts).
-
 ## See Also
 
 - [[fruit-tree-pruning-training|Fruit Tree Pruning and Training Systems]]

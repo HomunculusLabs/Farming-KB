@@ -128,7 +128,7 @@ had been used by indigenous peoples for millennia.
 
 ## See Also
 
-- [[brassinosteroid-annulus-loss-psilocybe-taxonomy]]
+- [[brassinosteroid]]
 
 - [[rolf-singer]]
 

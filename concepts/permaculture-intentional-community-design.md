@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Intentional Community Design
 
-Intentional community design is the application of permaculture principles and strategies to the planning, establishment, and evolution of communities that have been deliberately designed by their participants rather than unconsciously evolved by social and economic processes. david holmgren discusses intentional communities extensively in [[permaculture-principle-integrate-rather-than-segregate]], presenting them as laboratories for the social and economic structures needed for [[permaculture-energy-descent-planning]].
+Intentional community design is the application of permaculture principles and strategies to the planning, establishment, and evolution of communities that have been deliberately designed by their participants rather than unconsciously evolved by social and economic processes. david holmgren discusses intentional communities extensively in [[permaculture-design-principles]], presenting them as laboratories for the social and economic structures needed for [[permaculture-energy-descent-planning]].
 
 ## What Are Intentional Communities?
 
@@ -73,7 +73,7 @@ Many of the strategies for sustainable community, such as LETSystems, subscripti
 
 ## An Integrated Alternative Cultural System
 
-These criteria for sustainable community are reflected in many elements of the alternative or counter-cultural movement. Many of these examples could be used to illustrate several permaculture principles, especially [[catch-and-store-energy-permaculture-principle]], [[permaculture-principle-apply-self-regulation]], and [[permaculture-principle-use-small-and-slow-solutions]]. In the context of integration, they can all be seen as parts of an integrated alternative cultural system which amplifies the value and power of the primary permaculture agenda of sustainable land use as well as each other.
+These criteria for sustainable community are reflected in many elements of the alternative or counter-cultural movement. Many of these examples could be used to illustrate several permaculture principles, especially [[catch-and-store-energy-permaculture-principle]], [[permaculture-principle-apply-self-regulation]], and [[permaculture-design-principles]]. In the context of integration, they can all be seen as parts of an integrated alternative cultural system which amplifies the value and power of the primary permaculture agenda of sustainable land use as well as each other.
 
 Often when people attempt to move forward in one area of sustainable alternatives, the mismatch with mainstream culture reduces the potential value of the change. An integrated approach is essential if we are to succeed in creating a powerful alternative to dependence on the alien and energetically dysfunctional ecosystem being created by the corporations. Although much can be done at the personal and household level, many of the diverse aspects of design illustrated in the permaculture flower can be best applied at the local community level.
 
@@ -81,7 +81,7 @@ Often when people attempt to move forward in one area of sustainable alternative
 
 - [[permaculture-community-bioregionalism]]
 
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-community-design]]
 

@@ -120,7 +120,7 @@ numerous subsequent cultivars:
 - [[jack-herer]]
 - [[sour-diesel]]
 - [[amnesia-haze]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[limonene]]
 - [[myrcene]]
 - [[cannabis-sativa]]

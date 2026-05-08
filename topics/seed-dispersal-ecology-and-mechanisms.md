@@ -35,7 +35,7 @@ Classic examples include:
 
 - **Touch-me-not (*Impatiens* spp.)**: The fruit coiled valves snap apart when touched, ejecting seeds up to several meters. The genus name itself — from the Latin *impatiens*, meaning "impatient" — references this explosive tendency.
 - **Squirting cucumber (*Ecballium elaterium*)**: As the fruit ripens, internal pressure builds from accumulating mucilage. When the fruit detaches from its stalk, the pressurized liquid violently expels the seeds along with a stream of fluid, sometimes propelling seeds up to 6 meters.
-- **Witch hazel (*Hamamelis virginiana*)**: The woody capsule contracts as it dries, building tension that eventually causes the capsule to split open and shoot seeds up to 10 meters.
+- **Witch hazel (*[[hamamelis-virginiana]]*)**: The woody capsule contracts as it dries, building tension that eventually causes the capsule to split open and shoot seeds up to 10 meters.
 
 Ballistic dispersal distances are typically limited compared to vector-mediated dispersal, but they provide reliable, weather-independent dispersal that requires no animal or wind cooperation. The energetic cost to the plant is relatively low, as the mechanism exploits tissue properties that develop as part of normal fruit maturation.
 
@@ -59,7 +59,7 @@ Anemochory is the dispersal of seeds by wind and is one of the most widespread a
 
 Wind-dispersed seeds and fruits (collectively called *diaspores*) have evolved a remarkable diversity of morphological adaptations to increase drag, reduce terminal velocity, and extend airborne travel time. These structures fall into several functional categories:
 
-- **Pappus**: A tuft of hairs or bristles attached to the seed or fruit, characteristic of the Asteraceae (daisies, dandelions, thistles). The pappus of *Taraxacum officinale* (dandelion) consists of ~100 filaments that create a parachute-like structure capable of keeping the seed aloft for kilometers under favorable conditions. Pappus morphology varies enormously across species, from the simple bristles of some asters to the elaborate, feathery structures of *Tragopogon* (goat's beard).
+- **Pappus**: A tuft of hairs or bristles attached to the seed or fruit, characteristic of the Asteraceae (daisies, dandelions, thistles). The pappus of *[[taraxacum-officinale]]* (dandelion) consists of ~100 filaments that create a parachute-like structure capable of keeping the seed aloft for kilometers under favorable conditions. Pappus morphology varies enormously across species, from the simple bristles of some asters to the elaborate, feathery structures of *Tragopogon* (goat's beard).
 - **Wings**: Thin, flattened extensions of the seed coat or fruit wall that function like the wings of a glider. Winged diaspores include the samaras of maples (*Acer* spp.), ash (*Fraxinus*), and elm (*Ulmus*), as well as the paper-thin winged seeds of conifers like *Pinus* and *Picea*. The autorotating descent of maple samaras — which generates lift from spinning motion — is one of the most efficient passive flight mechanisms known in nature.
 - **Coma**: A cottony or woolly covering of hairs, found on seeds of willow (*Salix*), poplar (*Populus*), and milkweed (*Asclepias*). The coma provides buoyancy and can carry seeds on convective air currents for many kilometers.
 
@@ -67,7 +67,7 @@ Wind-dispersed seeds and fruits (collectively called *diaspores*) have evolved a
 
 **Dust seeds** are extremely small, lightweight seeds (often under 0.5 mg) that are effectively dispersed as particulate matter in air currents. They are characteristic of orchids (*Orchidaceae*), some parasitic plants (*Balanophoraceae*), and several genera of bryophytes and ferns. Orchid seeds are among the smallest known, sometimes as light as 0.3 micrograms. Their tiny size means they have virtually no reserves and depend on forming mycorrhizal associations to germinate successfully. Dust seeds can travel enormous distances but have extremely low establishment rates.
 
-**Balloon seeds** (also called balloon diaspores) are enclosed in inflated, papery structures that act as air-filled buoyancy devices. Species such as *Carduus nutans* (musk thistle) and *Asclepias syriaca* (common milkweed) produce large, inflated follicles that break open to release seeds with attached coma fibers. The inflated structure increases the effective cross-sectional area presented to wind, enhancing drag.
+**Balloon seeds** (also called balloon diaspores) are enclosed in inflated, papery structures that act as air-filled buoyancy devices. Species such as *Carduus nutans* (musk thistle) and *[[asclepias-syriaca]]* (common milkweed) produce large, inflated follicles that break open to release seeds with attached coma fibers. The inflated structure increases the effective cross-sectional area presented to wind, enhancing drag.
 
 ### Anemochory Trade-offs
 
@@ -167,7 +167,7 @@ Corvids such as jays (*Garrulus*, *Aphelocoma*, *Cyanocitta*) and nutcrackers (*
 
 The spatial memory of scatter-hoarding corvids is extraordinary. They recover cached seeds months later, often under snow cover, using visual landmarks and spatial mapping. However, they invariably fail to recover a proportion of their caches — estimates range from 2% to 30%, depending on species, seed availability, and predator pressure. These unrecovered seeds germinate in microsites selected by the bird (typically in open, well-drained soil), often in locations far more favorable for seedling establishment than random dispersal would provide.
 
-The relationship between pinyon pines and jays is so tight that it has shaped the evolution of both partners. Pinyon pine seeds have evolved large, nutrient-dense seeds with thin seed coats that are profitable for jays to handle and cache. Jays, in turn, have evolved sublingual pouches that allow them to carry 50 or more seeds at once, and spatial memory systems capable of remembering thousands of cache locations.
+The relationship between pinyon pines and jays is so tight that it has shaped the evolution of both partners. Pinyon pine seeds have evolved large, [[nutrient-dense-gardening]] seeds with thin seed coats that are profitable for jays to handle and cache. Jays, in turn, have evolved sublingual pouches that allow them to carry 50 or more seeds at once, and spatial memory systems capable of remembering thousands of cache locations.
 
 ### Scatter-Hoarding Rodents: Squirrels and Chipmunks
 
@@ -319,7 +319,7 @@ Transient seed banks consist of seeds that persist in the soil for less than one
 
 ### Persistent Seed Banks
 
-Persistent seed banks consist of seeds that remain viable in the soil for more than one year, sometimes for decades or even centuries. The oldest reliably germinated seeds include those of *Nelumbo nucifera* (sacred lotus) recovered from a 1,300-year-old lake bed in northeastern China, and seeds of *Lupinus arcticus* recovered from Pleistocene-age burrows in the Yukon (though the latter claim has been debated).
+Persistent seed banks consist of seeds that remain viable in the soil for more than one year, sometimes for decades or even centuries. The oldest reliably germinated seeds include those of *[[nelumbo-nucifera]]* (sacred lotus) recovered from a 1,300-year-old lake bed in northeastern China, and seeds of *Lupinus arcticus* recovered from Pleistocene-age burrows in the Yukon (though the latter claim has been debated).
 
 Persistent seed banks are associated with several adaptive features:
 
@@ -347,12 +347,12 @@ While the pairwise coevolution model (one plant species coevolving with one disp
 
 ### Anachronistic Fruits
 
-The concept of anachronistic fruits, developed by Daniel Janzen and Paul Martin in the 1980s, proposes that some modern fruit traits are evolutionary "ghosts" — adaptations to dispersers that have gone extinct. The most famous example is the avocado (*Persea americana*), which produces an enormous, lipid-rich fruit that appears adapted for dispersal by very large Pleistocene mammals (gomphotheres, giant ground sloths) that went extinct approximately 10,000–13,000 years ago.
+The concept of anachronistic fruits, developed by Daniel Janzen and Paul Martin in the 1980s, proposes that some modern fruit traits are evolutionary "ghosts" — adaptations to dispersers that have gone extinct. The most famous example is the avocado (*[[persea-americana-entity]]*), which produces an enormous, lipid-rich fruit that appears adapted for dispersal by very large Pleistocene mammals (gomphotheres, giant ground sloths) that went extinct approximately 10,000–13,000 years ago.
 
 Other putative anachronistic fruits include:
 
 - **Osage orange (*Maclura pomifera*)**: Produces large, tough, multi-seeded fruits that no living animal consumes whole. Likely dispersed by Pleistocene megafauna.
-- **Honey locust (*Gleditsia triacanthos*)**: Produces long, sweet pods adapted to large mammalian herbivores.
+- **[[honey-locust-entity]] (*[[gleditsia-triacanthos]]*)**: Produces long, sweet pods adapted to large mammalian herbivores.
 - **Pawpaw (*Asimina triloba*)**: Large, fleshy fruits with large seeds that may have been dispersed by extinct megafauna.
 
 Anachronistic fruits represent a fascinating case study in evolutionary lag: traits that were adaptive in the past persist long after their original selective context has disappeared. In some cases, these fruits are now dispersed by secondary agents (e.g., humans, livestock, or water) that provide imperfect dispersal compared to the original partners.

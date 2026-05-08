@@ -68,7 +68,7 @@ Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" was arguably th
 
 Despite these methodological criticisms, Wasson's work had an enormous cultural impact. His books -- weighty with accumulated evidence -- popularized the idea of ancient mushroom cults and helped fuel the psychedelic revolution of the 1950s and 1960s. The enduring popularity of his theories speaks more to their psychological and cultural appeal than to their scholarly rigor.
 
-Wasson's legacy is therefore paradoxical: his specific theories about ancient mushroom cults and the mycophilia/mycophobia dichotomy have not stood up to scholarly scrutiny, yet his work inspired generations of researchers and enthusiasts. The [debate about prehistoric mushroom use that he helped to launch continues to provoke discussion and disagreement. The [[psilocybin-in-the-counter-culture]] that Wasson helped catalyze represents one of the most significant intersections of ethnobotany and popular culture in modern history.
+Wasson's legacy is therefore paradoxical: his specific theories about ancient mushroom cults and the mycophilia/mycophobia dichotomy have not stood up to scholarly scrutiny, yet his work inspired generations of researchers and enthusiasts. The [debate about prehistoric mushroom use that he helped to launch continues to provoke discussion and disagreement. The [[psychedelic-mushrooms-species-and-identification]] that Wasson helped catalyze represents one of the most significant intersections of ethnobotany and popular culture in modern history.
 
 ## Wasson's Soma Theory and the Indo-Aryan Question
 
@@ -86,9 +86,9 @@ This theory, like the soma identification, was both influential and contested. W
 
 The scholarly critique of Wasson's comparative method carries important lessons for contemporary ethnomycological and ethnobotanical research. First, the temptation to identify modern concepts in ancient or distant cultural materials is a form of confirmation bias that must be actively guarded against. The polymorphic and multivocal nature of [[mushroom-polymorphous-symbolism]] means that mushrooms can symbolize many different things in different cultural contexts — death and rebirth, fertility and decay, poison and medicine, the underworld and the divine.
 
-Second, ethnomycological research benefits from grounding in specific cultural contexts rather than broad cross-cultural comparisons. Understanding how a particular community relates to fungi requires attention to local ecology, linguistic categories, culinary traditions, medicinal practices, and cosmological beliefs. The [[maria-sabina-mazatec-mushroom-ceremony]] described by Wasson himself is a case in point: its meaning and significance can only be understood within the framework of Mazatec cosmology and healing practice, not as an instance of a universal mushroom archetype.
+Second, ethnomycological research benefits from grounding in specific cultural contexts rather than broad cross-cultural comparisons. Understanding how a particular community relates to fungi requires attention to local ecology, linguistic categories, culinary traditions, medicinal practices, and cosmological beliefs. The [[mushroom-cultivation-fundamentals]] described by Wasson himself is a case in point: its meaning and significance can only be understood within the framework of Mazatec cosmology and healing practice, not as an instance of a universal mushroom archetype.
 
-Third, the relationship between scholarship and public engagement in ethnomycology is fraught. Wasson's Life magazine article brought unprecedented attention to psychedelic mushrooms, but the sensationalized popular account distorted and exoticized the Mazatec ceremony he described. The subsequent influx of Western seekers to Huautla de Jimenez had devastating consequences for the community, including [[maria-sabina-mazatec-mushroom-ceremony]] by Mexican authorities. This episode underscores the ethical responsibilities that accompany ethnobotanical research involving psychoactive substances.
+Third, the relationship between scholarship and public engagement in ethnomycology is fraught. Wasson's Life magazine article brought unprecedented attention to psychedelic mushrooms, but the sensationalized popular account distorted and exoticized the Mazatec ceremony he described. The subsequent influx of Western seekers to Huautla de Jimenez had devastating consequences for the community, including [[mushroom-cultivation-fundamentals]] by Mexican authorities. This episode underscores the ethical responsibilities that accompany ethnobotanical research involving psychoactive substances.
 
 ## Wasson's Enduring Contributions Despite Methodological Flaws
 
@@ -107,7 +107,7 @@ Wasson's detailed documentation of Mazatec mushroom ceremonies, despite its limi
 ## Related
 
 - [[wasson-hofmann-ruck-theory]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[roger-heim-scientific-study-psilocybin]]
 - [[mushroom-symbols-ancient-languages-rock-art]]
 

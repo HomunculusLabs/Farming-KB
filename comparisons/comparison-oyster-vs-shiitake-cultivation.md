@@ -148,4 +148,3 @@ minimal intervention.
 - [[stamets-pleurotus-oyster-cultivation]]
 - [[stamets-shiitake-and-stropharia-cultivation]]
 - [[mushroom-cultivation-methods]]
-- [[mushroom-substrate-preparation]]

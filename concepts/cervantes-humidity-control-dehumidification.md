@@ -119,4 +119,4 @@ solution.
 
 See also: [[cervantes-air-quality-ventilation]],
 [[cervantes-indoor-grow-room-setup]],
-cervantes-cloning|Cloning, [[organic-pest-and-disease-management]], [[cervantes-water-culture-systems]]
+cervantes-cloning|Cloning, [[organic-pest-and-disease-management]], [[cannabis-advanced-growing-techniques]]

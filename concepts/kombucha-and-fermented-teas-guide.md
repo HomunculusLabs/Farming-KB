@@ -90,7 +90,7 @@ However, the scientific evidence for many of these claims is limited. Kombucha s
 
 ## See Also
 
-- [[kombucha-brewing]] for additional brewing details
+- kombucha brewing for additional brewing details
 - [[food-fermentation-guide]] for broader fermentation science
 - [[vinegar-making]] for making vinegar from kombucha or other fermented liquids
 - [[wild-fermentation-vs-cultured-yeast]] for understanding the SCOBY microbiology

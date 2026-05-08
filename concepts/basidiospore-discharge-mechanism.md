@@ -141,53 +141,6 @@ spores, and the resulting disturbance of humid air promotes further cooling.
 
 The mushroom stem elevates the cap above the boundary layer of still air near
 the ground, exposing released spores to wind. Wind tunnel experiments revealed
-that the mushroom cap behaves aerodynamically like an aircraft wing: air
-pressure beneath exceeds pressure above, producing lift.
-
-This airflow pattern slows air movement immediately beneath the fertile tissues,
-so spores fall through calm air for a fraction of a second before being swept
-away. Mushrooms with campanulate (bell-shaped) caps are particularly effective
-at slowing airflow beneath the gills.
-
-Species such as *Coprinus comatus* (shaggy mane) and *Psilocybe semilanceata*
-(liberty cap) exemplify this shape and are most common in open meadows and
-lawns where wind speeds are higher. This relationship between cap morphology and
-habitat suggests that natural selection has fine-tuned mushroom aerodynamics
-for optimal spore release in different environments.
-
-## Historical Research
-
-### John Webster's High-Speed Photography
-
-John Webster attempted to capture the discharge process using high-speed cameras
-at a film institute in Germany. Despite prodigious film wastage, even the
-fastest sequences showed a spore with its droplet followed by a naked basidial
-spike from which the spore had disappeared. The event was too fast for the
-available equipment. Only with modern high-speed video cameras was the full
-sequence finally visualized.
-
-### Buller's Research Program
-
-Buller estimated spore production by collecting spore deposits beneath caps. He
-measured spore velocity using a glass-sided chamber, a horizontally tilted
-microscope, and an electric tapper connected to an ink pen on a recording drum.
-He discovered that spores fell slightly faster than Stokes' law predicted for
-their size and density, and later realized this was because the fluid drop
-clinging to the spore increased its effective diameter.
-
-## Ecological Implications
-
-The catapult mechanism requires high humidity for Buller's drop to form, which
-is why mushroom fruiting is most prolific after rainfall. Gasteromycetes such as
-puffballs and stinkhorns, which have lost this mechanism, can function during
-drought and colonize drier habitats.
-
-The enormous spore output of mushrooms (a single large bracket fungus can
-produce trillions of spores annually) underscores the effectiveness of the
-catapult mechanism as a dispersal strategy. Despite its apparent fragility and
-dependence on humidity, the mechanism has proven remarkably robust over
-evolutionary time.
-
 ## See Also
 
 - [[stinkhorn-fungi-gasteromycetes|Stinkhorn fungi and gasteromycetes]]

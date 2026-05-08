@@ -148,4 +148,3 @@ the 1970s-1980s.
 - [[fungal-enzyme-kinetics]]
 - [[fungal-extracellular-enzyme-production]]
 - [[ligninolytic-enzyme-systems-white-rot-fungi]]
-- [[glutathione-biochemistry-and-redox-biology]]

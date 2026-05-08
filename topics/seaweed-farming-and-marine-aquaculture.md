@@ -123,7 +123,7 @@ Emerging approach using tanks, ponds, or photobioreactors:
 - Circulated seawater with controlled temperature, light, and nutrient levels.
 - Enables year-round production regardless of weather or season.
 - Used for high-value species (nori, *Caulerpa*, microalgae) and research.
-- **Pros**: Full environmental control, consistent quality, no weather risk.
+- **Pros**: Full [[environmental-control-mushroom-growing]], consistent quality, no weather risk.
 - **Cons**: High capital and operating costs, energy-intensive, limited to high-value products.
 
 ---
@@ -238,7 +238,7 @@ Emerging technique for high-value species:
 - **Direct consumption**: Nori, wakame, kombu, sea lettuce, dulse, sea grapes, arame, hijiki.
 - **Ingredients**: Carrageenan (ice cream, dairy), agar (desserts, microbiology), alginates (spherification, thickeners).
 - **Nutritional profile**: Rich in iodine, calcium, iron, magnesium, potassium, vitamins A/C/K, and unique bioactive compounds (fucoidans, phlorotannins, laminarin).
-- **Functional foods**: Seaweed-derived prebiotics, antioxidants, and anti-inflammatory compounds.
+- **[[functional-foods-medicinal-mushrooms]]**: Seaweed-derived prebiotics, antioxidants, and anti-inflammatory compounds.
 
 ### Animal Feed and Aquaculture
 
@@ -250,8 +250,8 @@ Emerging technique for high-value species:
 ### Agriculture and Horticulture
 
 - **Liquid seaweed extracts**: Applied as foliar spray or soil drench; contain cytokinins, auxins, betaines, and micronutrients.
-- **Seaweed compost**: Dried seaweed incorporated into compost or mulch improves soil structure and microbial activity.
-- **Biostimulants**: Seaweed extracts enhance seed germination, root development, stress tolerance, and yield in crops.
+- **Seaweed compost**: Dried seaweed incorporated into compost or mulch improves [[soil-structure-and-aggregate-ecology]] and microbial activity.
+- **Biostimulants**: Seaweed extracts enhance [[seed-germination-techniques-solomon]], root development, stress tolerance, and yield in crops.
 
 ### Emerging Applications
 
@@ -323,13 +323,13 @@ Seaweed farming aligns naturally with permaculture principles:
 1. **Observe and interact**: Site selection based on local oceanographic conditions.
 2. **Catch and store energy**: Seaweed converts solar energy into biomass, sequestering carbon.
 3. **Obtain a yield**: Food, feed, fertilizer, and income from a zero-input system.
-4. **Apply self-regulation and accept feedback**: IMTA systems balance nutrient flows; monitoring guides adaptive management.
-5. **Use and value renewable resources**: Seaweeds grow on sunlight and dissolved nutrients — the ultimate renewable inputs.
+4. **[[apply-self-regulation-permaculture-principle]]-regulation and accept feedback**: IMTA systems balance nutrient flows; monitoring guides adaptive management.
+5. **[[use-and-value-renewable-resources]]**: Seaweeds grow on sunlight and dissolved nutrients — the ultimate renewable inputs.
 6. **Produce no waste**: Seaweed processing byproducts (liquid extracts, compost) have agricultural value.
 7. **Integrate rather than segregate**: IMTA and polyculture integrate multiple trophic levels.
 8. **Use small and slow solutions**: Start with a small pilot farm and scale based on results.
-9. **Use edges and value the marginal**: Coastal zones — the edge between land and sea — are productive farming sites.
-10. **Creatively use and respond to change**: Seaweed farms can adapt to shifting ocean conditions and emerging markets.
+9. **[[use-edges-and-value-the-marginal]]**: Coastal zones — the edge between land and sea — are productive farming sites.
+10. **[[creatively-use-and-respond-to-change]]**: Seaweed farms can adapt to shifting ocean conditions and emerging markets.
 
 ---
 

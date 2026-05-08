@@ -130,4 +130,4 @@ authorities and native spiritual practices that date back centuries.
 ## See Also
 
 - [[harner-mescalero-peyote-shamanism]]
-- [[harner-peyote-and-apache-shamanism]]
+- [[ethnomycology]]

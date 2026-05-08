@@ -140,7 +140,7 @@ in several European countries but has no formal IUCN Red List assessment.
 
 - [[arundinaria-gigantea]]
 - [[agaricus-campestris]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[morchella-esculenta]]
 - [[beta-glucans]]
 - [[ergosterol]]

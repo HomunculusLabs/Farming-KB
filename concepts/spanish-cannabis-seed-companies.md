@@ -43,7 +43,7 @@ scene that is perhaps more diverse and innovative than any other in Europe.
 Based in Spain, ACE Seeds is renowned for working with rare and exotic genetics from around the
 world. They specialize in landrace preservation and sativa varieties from tropical regions, with
 a catalog that reads like a world tour of cannabis genetics.
-Their Purple Haze Thai strain combines Purple Haze with Meo Thai F3 genetics, producing a 100%
+Their [[purple-haze]] Thai strain combines Purple Haze with Meo Thai F3 genetics, producing a 100%
 sativa variety that offers the sought-after Purple Haze characteristics in their most extreme
 expression. The plant requires tropical climates for optimal outdoor growth but can be grown
 between latitudes 20 and 35 degrees with care.
@@ -136,52 +136,6 @@ decade. Using STS (silver thiosulphate), they finally produced fertile pollen fr
 and bred it into Skunk #1, creating UK Cheese — said to be the closest thing to growing from
 the original Exodus Cheese cut.
 This is a remarkable achievement in clone preservation and represents the kind of dedicated
-work that Spanish breeders are known for. The resulting strain is sativa-dominant with THC at
-19.8%, producing the classic Parmesan-dank Cheese aroma that has made this family famous.
-
-### Tropical Seeds Company
-
-Tropical Seeds Company specializes in exotic sativa varieties from equatorial and sub-equatorial
-regions. Their Swazi strain is a pure sativa from Swaziland that grows to 9 feet or more and is
-exclusively suited for outdoor cultivation.
-The strain is remarkably disease-resistant and flowers early for a pure sativa, with harvest
-around September 15th at 40 degrees latitude. The sweet, delicious smoke delivers a
-crystal-clear, psychoactive, and incredibly energetic high.
-
-### Vulkania Seeds
-
-Vulkania Seeds takes a serious approach to genetic selection, working exclusively with what they
-consider the cream of the genetic crop. Their White Diesel crosses a 2006 NYC Diesel mother with
-a 2004 White Widow that became the mother of the famous White Eva strain.
-The result is a sativa-dominant strain leaning toward NYC Diesel structurally but with more of
-a White Widow high. THC content is 20%, producing 600 grams per square yard indoors or 850 grams
-per plant outdoors. The strain is dedicated to Vulkania's founder El Aguila ("The Eagle").
-
-### World of Seeds
-
-World of Seeds offers Wild Thailand, a pure Thai sativa from the Ko Chang archipelago with THC
-at 22.3%. This strain is highly prized in its native Thailand, where growers face extreme
-punishment under archaic penal codes yet continue to cultivate and appreciate it.
-World of Seeds works extensively with landrace and exotic genetics from across Asia and Africa,
-making them an important resource for breeders seeking authentic genetic stock.
-
-## Contributions to Global Cannabis Breeding
-
-Spanish seed companies have made several major contributions to the global cannabis breeding
-community that extend far beyond their commercial offerings:
-- **Landrace preservation**: Many Spanish breeders work to preserve and stabilize rare landrace
-  varieties from Asia, Africa, and the Americas before they are lost to commercialization
-- **Indoor adaptation**: Spanish breeders have been instrumental in adapting traditionally
-  outdoor-only tropical sativas for indoor cultivation through careful hybridization
-- **Flowering time reduction**: By crossing equatorial sativas with faster-flowering varieties,
-  Spanish breeders have made previously impractical genetics accessible to more growers
-- **Medicinal focus**: Several Spanish companies have shifted focus toward high-CBD and
-  therapeutic varieties for medical patients
-- **Auto-flowering innovation**: Spanish breeders have pushed the boundaries of auto-flowering
-  genetics, bringing sativa qualities to auto-flowering lines
-- **Cultural bridge**: Spain's connections to Latin America have facilitated the introduction
-  of Central and South American genetics into European breeding programs
-
 ## See Also
 
 - [[haze-lineage-and-history]]

@@ -15,7 +15,7 @@ updated: 2026-04-18
 
 ## Overview
 
-[[fukuoka-critique-modern-agriculture]] is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. The permaculture approach to cropping patterns emphasizes polyculture, intercropping, and complex species assemblies that maximize total nutrition and total yield while maintaining system stability. From Nigerian strip cropping systems to avenue mulch systems, the Designers Manual presents a range of cropping patterns suited to [[permaculture-design-different-climates]] and scales.
+[[fukuoka-critique-modern-agriculture]] is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. The permaculture approach to cropping patterns emphasizes polyculture, intercropping, and complex species assemblies that maximize total nutrition and total yield while maintaining system stability. From Nigerian strip cropping systems to avenue mulch systems, the Designers Manual presents a range of cropping patterns suited to [[permaculture-zone-and-sector-analysis]] and scales.
 
 ## Strip Cropping
 

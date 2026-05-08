@@ -114,7 +114,7 @@ The species plays an ecological role as a food source for birds and small mammal
 - [[taraxacum-officinale]]
 - [[arctium-lappa]]
 - [[centella-asiatica]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[valeriana-officinalis]]
 - [[verbascum-thapsus]]
 - [[melissa-officinalis]]

@@ -22,7 +22,7 @@ culture.
 
 DMT is currently a Schedule I compound in the United States, a classification reserved for drugs with no proven medical application whatsoever. Not
 even cocaine rates a Schedule I classification.
-[[psilocybin]] and DMT were made Schedule I without any scientific evidence at all being presented for or against their use. In the paranoid
+[[psilocybin-compound]] and DMT were made Schedule I without any scientific evidence at all being presented for or against their use. In the paranoid
 atmosphere of the late sixties, the mere fact that these
 compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged.
 
@@ -34,13 +34,13 @@ push back the frontiers of the known and the possible.
 
 The dominator mentality has always resisted change, almost as if it sensed the possibility of a kind of change that would leave it bereft of its power
 once and for all. In the phenomenon of the
-[[indole hallucinogens]], that prescient fear has born bounteous fruit: nothing less than the fruit of the Tree of Knowledge. To eat it is to become
+[[indole-hallucinogens]], that prescient fear has born bounteous fruit: nothing less than the fruit of the Tree of Knowledge. To eat it is to become
 as gods, and that will surely mean eclipse for the
 style of the dominators. Such would be the hope of any Archaic Revival.
 
 ## The Interdimensional Nexus
 
-McKenna proposes the concept of some kind of interdimensional nexus that is gained most reliably and directly through the use of [[indole hallucinogens]] with a long history of human usage and human
+McKenna proposes the concept of some kind of interdimensional nexus that is gained most reliably and directly through the use of [[indole-hallucinogens]] with a long history of human usage and human
 coevolution. Such compounds are apparently functioning as regulators of cultural change and can be a means of obtaining access to the intentionality
 of some very large self-regulating system. Perhaps
 this is the Overmind of the species, or a kind of "mind of the planet," or perhaps humanity has been parochial in its search for nonhuman
@@ -86,7 +86,7 @@ subjective nature of the so-called objective universe has
 now been secured by that most objective of sciences, physics. The new physics has the subjective observer inextricably tangled with the phenomena
 observed.
 
-This represents a return to the [[shamanic point of view]]. The real intellectual legacy of quantum physics may be the new respectability and primacy
+This represents a return to the [[shamanic-point-of-view]]. The real intellectual legacy of quantum physics may be the new respectability and primacy
 that it gives to subjectivity. Recentering
 ourselves in our subjectivity means a tremendous new reempowering of language, for language is the stuff of which the subjective world is made.
 Through psychedelics, McKenna argues, humanity is
@@ -109,12 +109,12 @@ not there." Humanity must still admit ignorance concerning the nature of mind an
 Some misguided souls scan the heavens for friendly flying saucers that will intervene in profane history and carry humanity to paradise; others preach
 redemption at the feet of various spiritual
 teachers. McKenna counters that searchers are better advised to look to the work of the botanists, anthropologists, and chemists who have located,
-identified, and characterized the [[shamanic hallucinogens]]. Through them, humanity has had placed into its hands a tool for the redemption of the human enterprise. It is a great tool, but it is
+identified, and characterized the [[shamanic-hallucinogens]]. Through them, humanity has had placed into its hands a tool for the redemption of the human enterprise. It is a great tool, but it is
 a tool that must be used.
 
 Humanity's addictions down through the ages, from sugar to cocaine and television, have been a restless search for the thing torn from us in
 paradise. The answer has been found. It is no longer
-something to be sought. It has been found. This is the central, provocative claim with which McKenna closes his exploration of the [[tryptamine dimension]] and its implications for human freedom.
+something to be sought. It has been found. This is the central, provocative claim with which McKenna closes his exploration of the [[tryptamine-dimension]] and its implications for human freedom.
 
 ## See Also
 

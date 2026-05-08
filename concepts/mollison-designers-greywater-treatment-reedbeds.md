@@ -147,5 +147,3 @@ Mollison describes routine maintenance requirements:
 - Media inspection: Over 10 to 20 years, the gravel media may become
   clogged with accumulated solids, requiring replacement. Proper
 ## See Also
-
-- [[mollison-designers-bamboo-treatment-preservation]]

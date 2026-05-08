@@ -140,50 +140,6 @@ The suppression of hepatic stellate cell activation is particularly important, a
 
 ### Antioxidant Activity
 
-Multiple in vitro assays (DPPH, ABTS, superoxide radical scavenging, hydroxyl radical scavenging, and ferric reducing antioxidant power) have demonstrated that Sanghuang extracts possess strong free radical scavenging capacity.
-
-The phenolic compounds (hispolon, phelligridins, dihydroxybenzaldehyde) and polysaccharides are the primary antioxidant constituents, working through hydrogen atom donation, electron transfer, and metal ion chelation mechanisms. Total phenolic content correlates strongly with antioxidant capacity across different extracts and preparation methods.
-
-In vivo antioxidant studies have demonstrated protection against oxidative stress-induced tissue damage in models of aging, diabetes, and neurodegeneration.
-
-## Cultivation
-
-The rarity and high market value of wild Sanghuang have driven efforts to develop artificial cultivation methods. Key approaches include:
-
-- **Solid-state fermentation on sawdust substrates:** The most common commercial cultivation method. Substrate formulations typically use broadleaf sawdust (mulberry, oak, or poplar) supplemented with wheat bran, rice bran, or cornmeal to provide additional nutrients. The substrate is sterilized, inoculated with pure culture spawn, and incubated at 25–28°C with high humidity (85–95%) for several months before fruiting is induced by exposure to light and fresh air exchange. Optimal carbon-to-nitrogen ratio for substrate is approximately 30–40:1.
-- **Artificial log cultivation:** Hardwood logs or bolts of 15–25 cm diameter are inoculated with spawn and buried in soil or maintained in shaded, humid environments. This method more closely mimics natural growth conditions but requires 1–2 years for fruiting body maturation.
-- **Liquid fermentation:** Submerged cultivation in bioreactors for the production of mycelial biomass and extracellular polysaccharides, primarily used for research and supplement production rather than whole fruiting body cultivation. This approach enables rapid biomass production within 7–14 days.
-
-Major cultivation challenges include the fungus's inherently slow growth rate (colonization may take 30–60 days), long fruiting cycle (6–12 months or more from inoculation to harvest), sensitivity to contamination during the extended incubation period, and difficulty achieving fruiting body morphology and bioactive compound profiles comparable to wild specimens.
-
-Despite these challenges, commercial cultivation in China and Korea has expanded significantly since the 2010s, with several provinces establishing dedicated Sanghuang cultivation facilities and research centers focused on strain improvement and optimized cultivation protocols.
-
-## Similar Species
-
-The taxonomic revision of Sanghuang has clarified species boundaries, but confusion persists in commercial markets. Key similar species include:
-
-- **Sanghuangporus vaninii:** The most commonly encountered Sanghuang in commercial trade, particularly in China. It differs from *S. baumii* in having larger pores (3–5 per mm vs. 4–6 per mm), a different host range, and distinct phylogenetic placement. Many products sold as "Sanghuang" without species specification are likely *S. vaninii*.
-- **Sanghuangporus lonicericola:** The type species of the genus, originally described from honeysuckle (*Lonicera*) hosts in northeastern China. It can be distinguished by its host specificity and smaller basidiospores (3.5–5 × 2.5–3.5 μm).
-- **Sanghuangporus guiyangensis:** A species described from Guizhou Province, China, found primarily on *Prunus* species. It forms smaller fruiting bodies and has a more distinctly yellow pore surface coloration.
-- **Phellinus linteus (sensu lato):** Historically, most Sanghuang was identified as *P. linteus* or *P. igniarius* in the scientific and commercial literature. Molecular studies have shown that Korean "Meshima" mushrooms formerly called *P. linteus* correspond to *Sanghuangporus baumii* or *S. vaninii*, while true *P. linteus* is a tropical Central/South American species not found in East Asia. This historical confusion has complicated the interpretation of earlier pharmacological studies.
-
-Accurate species identification now requires molecular methods (ITS rDNA sequencing) as macroscopic and microscopic features alone are often insufficient for reliable discrimination among *Sanghuangporus* species. DNA barcoding has become the standard for species verification in both research and commercial contexts.
-The development of species-specific molecular markers and quantitative PCR assays has further improved the ability to detect adulteration in commercial Sanghuang products.
-
-## Safety and Precautions
-
-Sanghuang has been consumed as food and medicine for centuries with a strong safety record in traditional use. Modern toxicological studies in rodents have reported no acute toxicity at high oral doses (LD₅₀ > 20 g/kg for aqueous extracts), and no significant adverse effects have been observed in subchronic toxicity studies at doses up to 5 g/kg/day for 90 days.
-
-However, several precautions merit consideration:
-No mutagenic or teratogenic effects have been reported in standard genotoxicity assays, further supporting the mushroom's safety profile for general consumption.
-
-- **Species authentication:** Given the history of taxonomic confusion and the prevalence of adulterated or misidentified products in commercial markets, consumers and researchers should verify species identity through DNA barcoding or reputable third-party testing. Products from unverified sources may contain substituted species with different bioactive profiles.
-- **Drug interactions:** Sanghuang's immunomodulatory effects may theoretically interact with immunosuppressive medications. Patients on immunosuppressants following organ transplantation or for autoimmune conditions should consult their physician before use.
-- **Anticoagulant interaction:** Limited evidence suggests Sanghuang extracts may have mild anticoagulant effects through inhibition of platelet aggregation, which could potentiate the action of warfarin, aspirin, or other blood-thinning medications.
-- **Pregnancy and lactation:** While Sanghuang has traditional use for postpartum recovery, its safety during pregnancy has not been formally evaluated in clinical studies, and caution is advised until more data are available.
-- **Allergic reactions:** As with any fungal product, rare cases of allergic sensitivity are possible, particularly in individuals with known mushroom allergies. Symptoms may include skin rash, itching, or gastrointestinal discomfort.
-- **Quality standardization:** Significant variability in bioactive compound content exists depending on species, geographic origin, host tree, growth conditions, and processing methods. Standardized extract preparations with verified phytochemical profiles are preferred for both research and therapeutic applications to ensure reproducibility of effects.
-
 ## See Also
 
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]

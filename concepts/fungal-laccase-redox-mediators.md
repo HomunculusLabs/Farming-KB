@@ -148,4 +148,3 @@ requires site-specific calibration.
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
 - [[mycoremediation-enzymology]]
 - [[mycoremediation-of-textile-dyes]]
-- [[mycoremediation-of-pahs]]

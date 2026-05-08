@@ -32,7 +32,7 @@ In 1958, Alpert was appointed as an assistant professor of clinical psychology
 at Harvard University, where he also served as the director of the Harvard
 Psychedelic Research Project. He joined [[timothy-leary]], who had been
 recruited to the Harvard faculty in 1960, and together they conducted
-pioneering research on the psychological effects of [[psilocybin]] and
+pioneering research on the psychological effects of [[psilocybin-compound]] and
 [[hofmann-lsd-discovery-bicycle-day]]. Their studies explored the potential of psychedelics to induce
 mystical experiences, alter personality structure, and facilitate therapeutic
 breakthroughs.
@@ -93,7 +93,7 @@ research, and contemplative education.
 ## See Also
 
 - [[timothy-leary]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psychedelic-research-timeline]]
 - [[metzner-ibogaine-addiction-treatment]]
 - [[leary-psychedelic-experience-bardo-mapping]]

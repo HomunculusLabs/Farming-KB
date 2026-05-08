@@ -95,4 +95,4 @@ use allows pragmatic trade-offs between fidelity and throughput.
 
 - [[fukuoka-document-processing-research]]
 - [[microsoft-word-document-format-history]]
-- [[ole2-compound-binary-file-format]]
+- ole2 compound binary file format

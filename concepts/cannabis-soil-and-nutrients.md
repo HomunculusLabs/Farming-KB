@@ -11,9 +11,6 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
 
-
-
-
 ## Soil Mixes
 
 ### Beginner (Bagged Soil)
@@ -28,9 +25,6 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
-
-
-
 
 ## Nutrient Schedule
 
@@ -58,9 +52,6 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Feed every watering, 800-1200ppm
 - Flush with plain water last 1-2 weeks to improve taste
 
-
-
-
 ## Common Nutrient Deficiencies
 - **Nitrogen (N)**: Lower leaves yellow from tip inward, slow growth
 - **Phosphorus (P)**: Dark green/purple leaves, stunted growth
@@ -69,18 +60,12 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - **Magnesium (Mg)**: Interveinal chlorosis (yellow between green veins)
 - **Iron (Fe)**: New leaves yellow with green veins (similar to Mg but on new growth)
 
-
-
-
 ## pH Management
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
 - pH too high: nutrient lockout (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
-
-
-
 
 ## Related
 - [[cannabis-grow-room-setup]] — for room design

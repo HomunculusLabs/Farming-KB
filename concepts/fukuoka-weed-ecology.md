@@ -134,16 +134,16 @@ thyme, or oregano planted between crop rows — provide the continuous ground
 cover that Fukuoka advocated. Polyculture planting designs, which intermix many
 species in the same bed, create enough ecological complexity that no single weed
 species can dominate. The
-[[permaculture-principle-use-and-value-renewable-resources]] extends to weed management: rather than applying
+[[permaculture-design-principles]] extends to weed management: rather than applying
 herbicides, the permaculture designer uses plants, animals, and soil biology to
 maintain the desired balance.
 ## Related
 - [[fukuoka-orchard-method]] — complete orchard management system
 - [[natural-farming-fukuoka]] — the man and his philosophy
 - [[no-pruning-fruit-trees]] — tree management complement
-- [[fukuoka-natural-diet-principles]] — diet philosophy connected to farming
+- [[fukuoka-natural-farming-philosophy]] — diet philosophy connected to farming
 - conservation-agriculture — comparison with modern no-till systems
 - [[jadam-natural-farming-philosophy]] — Korean parallel in natural farming
 - [[fukuoka-no-weeding-no-pesticides]]
 - [[fukuoka-white-clover-ground-cover]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]

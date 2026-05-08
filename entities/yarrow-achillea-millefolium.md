@@ -140,22 +140,6 @@ Yarrow plays an important ecological role in meadow and grassland ecosystems. It
 ## Safety and Contraindications
 
 While yarrow is generally safe when used appropriately, several precautions apply:
-
-- **Pregnancy** — Contraindicated in pregnancy due to uterine-stimulating effects. Traditionally used to stimulate menstrual flow.
-- **Allergy** — Individuals sensitive to plants in the Asteraceae family (ragweed, chamomile, echinacea) may experience allergic reactions.
-- **Bleeding disorders** — Due to its anticoagulant coumarin content, caution is advised for those on blood-thinning medications or with bleeding disorders.
-- **Extended use** — Prolonged internal use may cause photosensitivity in some individuals.
-- **Essential oil** — Yarrow essential oil should not be taken internally and should be diluted before topical application.
-
-## Harvesting Guidelines
-
-- **Aerial parts** (leaves, stems, flowers) are harvested during peak flowering for maximum potency.
-- Cut stems above the basal rosette to allow regrowth.
-- Harvest in the morning after dew has dried for best essential oil content.
-- Dry in small bunches hung upside down in a warm, dark, well-ventilated space.
-- Store dried herb in airtight containers away from light; shelf life is approximately 1–2 years.
-- Leaves may be harvested earlier in the season for culinary use before the plant flowers.
-
 ## See Also
 
 - [[chamomile-growing-guide]] — Related Asteraceae herb with overlapping uses

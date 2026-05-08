@@ -131,4 +131,4 @@ for fungal fruiting.
 - [[neurotropic-fungi]]
 - Psilocybe
 - [[entheogenic-fungi-in-mexico]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

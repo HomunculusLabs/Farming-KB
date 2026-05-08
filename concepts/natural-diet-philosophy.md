@@ -8,10 +8,9 @@ sources:
 created: 2026-04-28
 type: concept
 ---
+# [[natural-diet]] Philosophy
 
-# [[natural-diet|Natural Diet]] Philosophy
-
-Masanobu Fukuoka's natural diet philosophy extends his farming principles into
+[[masanobu-fukuoka]]'s natural diet philosophy extends [[fukuoka-natural-farming-principlesples into
 human nutrition. He argued that food and farming are "the front and back of
 one body" and that a natural diet cannot exist without natural farming, nor can
 the farmer know what to grow without a natural diet being established. His
@@ -147,8 +146,3 @@ natural food and took up refined food instead, society set out on a path toward
 its own destruction. "People tried to make delicious bread, and delicious
 bread disappeared. In trying to make rich luxurious foods they made useless
 foods, and now peoples' appetites are unsatisfied."
-
-## See Also
-
-- [[natural-diet-and-seasonal-eating]]
-- [[natural-farm-composting-vermicomposting]]

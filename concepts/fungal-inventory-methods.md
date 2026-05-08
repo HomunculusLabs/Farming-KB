@@ -129,7 +129,7 @@ This passage is remarkable for its prescience — Cooke recognised that Amanita 
 
 ### Mycological Works
 
-Cooke authored "Rust, Smut, Mildew and Mould" (1865), "A Plain and Easy Account of the British Fungi" (1862), and edited "Science Gossip." He served as editor of "Grevillea," a mycological journal. These works contributed to the [[victorian-mycology]] movement and the broader [[mycophiles-and-mushroom-culture]]. His "Plain and Easy Account" was one of the first accessible mycological texts for the general public, making [[fungal-biology-fundamentals]] available to amateur naturalists.
+Cooke authored "Rust, Smut, Mildew and Mould" (1865), "A Plain and Easy Account of the British Fungi" (1862), and edited "Science Gossip." He served as editor of "Grevillea," a mycological journal. These works contributed to the [[ethnomycology]] movement and the broader [[mycophiles-and-mushroom-culture]]. His "Plain and Easy Account" was one of the first accessible mycological texts for the general public, making [[fungal-biology-fundamentals]] available to amateur naturalists.
 
 "A Plain and Easy Account of the British Fungi" went through multiple editions and remained in print for decades, serving as the primary introduction to mycology for generations of British naturalists. Its accessible style and clear illustrations set a standard for popular science writing that influenced later authors like gary lincoff and david arora.
 

@@ -141,7 +141,7 @@ subduction zones
 seafloor spreading
 paleomagnetism
 rock cycle
-[[mycorrhiza-carbon-cycle-sequestration|carbon cycle]]
+[[the-soil-food-web|carbon cycle]]
 
 ## See Also
 

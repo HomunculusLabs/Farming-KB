@@ -148,4 +148,3 @@ whether weeds actually harm the desired crop before removing them.
 - [[no-till-grain-strategy]]
 - [[fukuoka-straw-mulch-system]]
 - [[cover-cropping-guide]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

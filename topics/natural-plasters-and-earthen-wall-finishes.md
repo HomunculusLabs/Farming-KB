@@ -28,9 +28,9 @@ Natural plasters are wall coatings made from earth, lime, gypsum, or other minim
 
 ## Overview and Historical Context
 
-Plaster has served as the primary protective and decorative finish for earthen, stone, and masonry buildings across every inhabited continent. From the lime plasters of ancient Roman villas to the clay finishes of West African adobe architecture, these materials were refined over millennia to suit local climates and available materials. The industrial revolution and the rise of Portland cement displaced many of these traditions in the 20th century, but a resurgence of interest in natural building since the 1990s has revived and modernized plastering techniques.
+Plaster has served as the primary protective and decorative finish for earthen, stone, and masonry buildings across every inhabited continent. From the lime plasters of ancient Roman villas to the clay finishes of West African adobe architecture, these materials were refined over millennia to suit local climates and available materials. The industrial revolution and the rise of Portland cement displaced many of these traditions in the 20th century, but a resurgence of interest in [[natural-building-materials-guide]] since the 1990s has revived and modernized plastering techniques.
 
-Natural plasters are valued in contemporary sustainable construction for their low embodied energy, breathability (vapor permeability), aesthetic warmth, and the fact that they can be made from on-site subsoil. They are essential companions to natural wall systems such as cob, straw bale, light straw clay, rammed earth, and adobe, all of which require a breathable finish to manage moisture.
+Natural plasters are valued in contemporary sustainable construction for their low embodied energy, breathability (vapor permeability), aesthetic warmth, and the fact that they can be made from on-site subsoil. They are essential companions to natural wall systems such as cob, [[straw-bale-construction]], light straw clay, [[rammed-earth]], and adobe, all of which require a breathable finish to manage moisture.
 
 ## Categories of Natural Plaster
 
@@ -379,7 +379,7 @@ Natural plasters offer significant environmental advantages over conventional fi
 
 ## Resources for Further Learning
 
-- **The Hand-Sculpted House** by Ianto Evans, Michael G. Smith, and Linda Smiley — the definitive cob building manual with extensive plastering guidance
+- **The Hand-Sculpted House** by Ianto Evans, Michael G. Smith, and Linda Smiley — the definitive [[cob-building-basics-detailed]] manual with extensive plastering guidance
 - **Building with Cob** by Adam Weismann and Katy Bryce — practical guide including earthen plasters
 - **The Natural Plaster Book** by Cedar Rose Guelberth and Dan Chiras — comprehensive reference for clay, lime, and gypsum plasters
 - **Apprenticeship opportunities** at natural building organizations such as Cob Cottage Company (Oregon), The Cob Builders Association (UK), and various permaculture institutes worldwide

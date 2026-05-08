@@ -60,7 +60,7 @@ Polyphenols influence multiple stages of carcinogenesis:
 ### Anti-Inflammatory and Immune Effects
 
 - **Cytokine modulation**: Polyphenols inhibit pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) through NF-κB pathway suppression.
-- **Enzyme inhibition**: Selective inhibition of COX-2 (without affecting COX-1) provides anti-inflammatory benefits similar to NSAIDs but without gastrointestinal side effects at dietary doses.
+- **[[enzyme-inhibition]]**: Selective inhibition of COX-2 (without affecting COX-1) provides anti-inflammatory benefits similar to NSAIDs but without gastrointestinal side effects at dietary doses.
 - **Immune cell function**: Certain polyphenols enhance natural killer cell activity, T-cell proliferation, and macrophage phagocytosis, while reducing chronic low-grade inflammation ("inflammaging").
 
 ## Top Dietary Sources (Per Standard Serving)
@@ -129,6 +129,6 @@ Based on current evidence:
 
 - Polyphenols and Plant Defense Chemistry — the parent topic page covering chemistry, biosynthesis, and ecological roles
 - Plant Defense Chemistry and Secondary Metabolites
-- [[herbal-medicine-making-basics|Herbal Medicine Making]]
-- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany|Ethnobotany and Sacred Plant Traditions]]
-- [[query-what-are-caffeine-plants-and-how-do-i-grow-them|Caffeine Plants and Stimulant Herb Cultivation]]
+- [[herbal-medicine-making-basics]]
+- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]

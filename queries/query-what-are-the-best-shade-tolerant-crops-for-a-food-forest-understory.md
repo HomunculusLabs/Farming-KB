@@ -1,6 +1,6 @@
 ---
 title: "What Are the Best Shade-Tolerant Crops for a Food Forest Understory?"
-tags: [shade-tolerant-crops, food-forest, [[food-forest-understory-plants|understory]], permaculture, agroforestry, forest-garden]
+tags: [shade-tolerant-crops, food-forest, [[food-forest-understory-plants]], permaculture, agroforestry, forest-garden]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -10,11 +10,11 @@ sources:
   - "Ken Fern, Plants for a Future: Edible & Useful Plants for a Healthier World, Permanent Publications, 1997 — online database at https://pfaf.org"
 ---
 
-# What Are the Best Shade-Tolerant Crops for a Food Forest Understory?
+# What Are the Best Shade-Tolerant Crops for a [[food-forest]] Understory?
 
 ## Direct Answer
 
-The best shade-tolerant crops for a food forest understory include **leafy greens** (sorrel, miner's lettuce, mâche), **herbs** (sweet woodruff, lemon balm, thyme, chives), **root crops** (Jerusalem artichoke, oca, mashua, skirret), **fruiting shrubs** (currants, gooseberries, elderberry, pawpaw, hazelnut), **groundcovers** (alpine strawberry, wild strawberry, sweet violet, dead-nettle), and **mushrooms** (shiitake, wine cap, oyster, reishi). These plants thrive on 10–40% full sun and form the backbone of a productive understory.
+The best shade-tolerant crops for a food forest understory include **leafy greens** (sorrel, miner's lettuce, mâche), **herbs** (sweet woodruff, lemon balm, thyme, chives), **root crops** ([[jerusalem-artichoke]], oca, mashua, skirret), **fruiting shrubs** (currants, gooseberries, elderberry, pawpaw, hazelnut), **groundcovers** (alpine strawberry, wild strawberry, sweet violet, dead-nettle), and **mushrooms** (shiitake, wine cap, oyster, reishi). These plants thrive on 10–40% full sun and form the backbone of a productive understory.
 
 ## Understanding Light Levels in Food Forests
 
@@ -37,7 +37,7 @@ The **understory zone** (shrub through groundcover) is where most shade-tolerant
 | Sweet Woodruff | Herb | 10 | Aromatic groundcover; shade champion |
 | Lemon Balm | Herb | 15 | Tea herb; attracts pollinators |
 | Mint | Herb | 15 | Vigorous spreader; contain in pots |
-| Stinging Nettle | Herb | 15 | Superfood; mineral accumulator |
+| [[stinging-nettle]] | Herb | 15 | Superfood; mineral accumulator |
 | Chives | Herb | 15 | Hardy perennial; edible flowers |
 | Miner's Lettuce | Green | 10 | Winter annual; self-seeds freely |
 | Sorrel | Green | 15 | Perennial; tangy leaves all season |
@@ -56,7 +56,7 @@ The **understory zone** (shrub through groundcover) is where most shade-tolerant
 | Sweet Violet | Groundcover | 10 | Edible flowers and leaves |
 | Shiitake | Mushroom | 5–10 | Hardwood logs or sawdust blocks |
 | Wine Cap | Mushroom | 5–10 | Mulch decomposer; easy to start |
-| Oyster Mushroom | Mushroom | 10 | Broad substrate; fast colonizer |
+| [[oyster-mushroom]] | Mushroom | 10 | Broad substrate; fast colonizer |
 | Reishi | Mushroom | 5–15 | Medicinal; hardwood stumps |
 
 ## Top Recommendations by Category
@@ -148,7 +148,3 @@ For a new understory under a young deciduous canopy (25–50% light):
 2. **Layer tall to short, north to south** — Maximize light access for every plant.
 3. **Exploit seasonal windows** — Spring and fall offer more light under deciduous trees.
 4. **Include mushrooms** — They turn waste wood into food and build soil biology.
-5. **Use dynamic accumulators** — Nettle, comfrey, and chicory mine minerals from deep soil.
-6. **Start small and observe** — Plant a diverse mix, then propagate what thrives.
-
-*See also: [[food-forest-layers-and-species]], [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]], and plant pages for comfrey, nettles, elderberry, and more.*

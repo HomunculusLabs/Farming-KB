@@ -148,25 +148,3 @@ disturbance, apply equally to upland rice and other underutilized crops.
 ## The Wilder Food Principle
 
 Fukuoka observation that "the wilder and more primitive the food, the greater
-its medicinal value" has implications that extend beyond minor grains. Wild
-vegetables and herbs possess nutritional qualities lost in cultivated varieties.
-Traditional grain varieties retain characteristics bred out of modern
-high-yielding cultivars. Semi-wild cultivation methods can preserve these
-qualities while still achieving useful yields.
-
-This principle connects to Fukuoka [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
-approach, which seeks to grow food crops with minimal intervention, preserving
-their natural vitality while still achieving harvestable yields. The minor
-grains, occupying a position between fully wild plants and highly domesticated
-cereals, embody this intermediate zone where human cultivation and natural
-vitality coexist.
-
-## Contemporary Relevance
-
-The decline of minor grains that Fukuoka observed has continued globally, with
-rice, wheat, and maize dominating an ever-larger share of global calorie
-production. This narrowing of the food base has implications for nutritional
-diversity, food security, soil health, and cultural heritage. Fukuoka advocacy
-for minor grain revival anticipates modern movements toward crop diversification,
-heritage grain preservation, and the recognition that agricultural resilience
-depends on biological diversity both above and below ground.

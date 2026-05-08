@@ -22,7 +22,7 @@ A practical guide for row-crop and vegetable farmers moving from conventional ti
 
 No-till farming means planting directly into undisturbed soil without primary or secondary tillage operations. Crop residues remain on the surface as mulch. The transition is driven by several compounding benefits:
 
-- **Soil health recovery:** Tilling destroys soil aggregates, burns organic matter, and disrupts the [[soil food web]]. No-till allows these to rebuild.
+- **Soil health recovery:** Tilling destroys soil aggregates, burns organic matter, and disrupts the [[soil-food-web]]. No-till allows these to rebuild.
 - **Erosion control:** Surface residue reduces water and wind erosion by 60–90% compared to conventional tillage.
 - **Water retention:** Improved soil structure increases infiltration rates, reducing runoff and drought stress.
 - **Long-term profitability:** Input costs drop (fuel, labor, machinery wear) while soil productivity increases after the transition period.
@@ -46,7 +46,7 @@ The key metric to watch is aggregate stability, not just organic matter percenta
 Weed management is the #1 reason farmers abandon no-till. Strategies that work:
 
 - **Dense crop canopies:** Plant populations at the upper end of recommended ranges. Narrow rows (15-inch corn, 7.5-inch soybeans) close canopy faster.
-- **Cover crop mulch:** A thick [[cover crops|cover crop]] mulch layer (2+ tons/acre of residue) suppresses weed germination by blocking light and creating a physical barrier.
+- **Cover crop mulch:** A thick [[cover-crops|cover crop]] mulch layer (2+ tons/acre of residue) suppresses weed germination by blocking light and creating a physical barrier.
 - **Timing:** Plant into moist soil when weeds are small and manageable. Delayed planting (within reason) lets the first flush of weeds germinate, then a roller-crimper or burndown knocks them back.
 - **Herbicides (transition phase):** Most farmers use a burndown herbicide (glyphosate or paraquat) during the first 2–3 years. Over time, as residue cover builds and biological weed suppression kicks in, herbicide use can be reduced or eliminated.
 - **Row cleaners:** No-till planter attachments that sweep residue away from the seed zone reduce the "hairpinning" problem that leaves gaps for weeds.
@@ -85,7 +85,7 @@ What you can **sell or stop using:** moldboard plow, chisel plow, disc harrow, f
 
 ## How does fertility management change?
 
-- **Phosphorus and potassium:** Soil test and apply only what's needed. Surface application without incorporation is effective in no-till because the [[soil food web]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
+- **Phosphorus and potassium:** Soil test and apply only what's needed. Surface application without incorporation is effective in no-till because the [[soil-food-web]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
 - **Nitrogen:** Expect a temporary nitrogen immobilization in years 1–2 as soil microbes break down residue. Increase N rates by 20–30 lbs/acre above conventional recommendations during this period. Legume cover crops can offset this by year 3+.
 - **Compost and manure:** Surface-applied compost or composted manure feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
 - **pH management:** No-till soils tend to acidify at the surface. Monitor pH in the top 3 inches separately and apply lime accordingly. Pelletized lime is easier to surface-apply effectively.
@@ -118,7 +118,7 @@ Yield drag is real but typically limited to years 2–3, and only on 5–15% of 
 - **Year 1:** Mycorrhizal colonization rates may be under 10% of root length. Phosphorus uptake is reduced.
 - **Year 2–3:** Colonization rises to 30–50% as hyphae spread from undisturbed field margins, fence rows, and surviving root fragments. This is why leaving some areas undisturbed on the farm matters.
 - **Year 4–5:** Colonization reaches 60–80%, approaching levels found in native prairie or forest soils. At this stage, mycorrhizae can supply 50–80% of crop phosphorus needs, reducing fertilizer requirements.
-- **Accelerating recovery:** Plant [[cover crops]] with mycorrhizal host crops (most broadleaf species and cereals, not brassicas which are non-host or weak hosts). Minimize fungicide seed treatments that harm mycorrhizae. Avoid fallow periods — living roots year-round sustain the fungal network.
+- **Accelerating recovery:** Plant [[cover-crops]] with mycorrhizal host crops (most broadleaf species and cereals, not brassicas which are non-host or weak hosts). Minimize fungicide seed treatments that harm mycorrhizae. Avoid fallow periods — living roots year-round sustain the fungal network.
 
 ## Economic considerations: costs during transition vs long-term savings
 
@@ -142,22 +142,6 @@ Most economic analyses show break-even by year 3–4 and net profit improvement 
 ## Is no-till suitable for all soil types and climates?
 
 **Well-suited for:**
-- Loam, silt loam, and clay loam soils with good natural drainage
-- Row crop systems in temperate regions (US Corn Belt, southern Brazil, Argentine Pampas, Australian wheat belt)
-- Semi-arid regions where moisture conservation is critical
-
-**Challenging but possible:**
-- Heavy clay soils: Transition slowly, use cover crops with deep taproots (radish, daikon) to break compaction. Expect 5+ years for full transition.
-- Cold, wet climates (northern US/Canada): Surface residue can keep soil cold in spring. Use row cleaners and consider strip-till (a hybrid approach) for the first few years. Plant shorter-season varieties.
-- Sandy soils: No-till works well here but residue cover is critical to prevent wind erosion. Organic matter builds slowly on sands — add compost aggressively.
-- Irrigated systems: No-till reduces irrigation needs by 15–25% due to improved infiltration and reduced evaporation.
-
-**Poorly suited for:**
-- Flood-prone soils where standing water covers residue for extended periods (accelerates anaerobic decomposition).
-- Organic certification paths that prohibit synthetic herbicides and where mechanical weed control is the only option (though flame weeding and roller-crimping can bridge this gap).
-
-The bottom line: no-till is adaptable to most contexts, but the specific strategies must match your soil, climate, and crop mix. Connect with local no-till farmers through organizations like No-Till on the Plains, the Soil Health Academy, or your regional NRCS office for region-specific guidance.
-
 ## See Also
 
 - [[cover-crop-termination]]

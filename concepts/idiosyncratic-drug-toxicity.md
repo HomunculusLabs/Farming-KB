@@ -130,7 +130,7 @@ even when a drug forms reactive intermediates.
 ## Related Concepts
 Idiosyncratic toxicity connects [[reactive-metabolites-and-bioactivation-toxicology]]
 with [[phase-ii-conjugation-reactions-drug-metabolism]].
-It also overlaps with [[first-pass-metabolism-and-oral-bioavailability]], [[glutathione-and-cellular-antioxidant-defense]], and [[reactive-oxygen-species-and-oxidative-stress]].
+It also overlaps with [[first-pass-metabolism-and-oral-bioavailability]], glutathione and cellular antioxidant defense, and [[reactive-oxygen-species-and-oxidative-stress]].
 The concept helps distinguish predictable pharmacology from rare immune or stress-
 mediated organ injury.
 

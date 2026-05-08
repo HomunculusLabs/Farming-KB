@@ -90,7 +90,7 @@ Confocal microscopy and fluorescent protein tagging have also advanced the field
 
 - [[arbuscular-mycorrhizal-fungi]] -- the modern descendants of Geosiphon's lineage
 - [[endophytic-fungi]] -- other forms of fungal-plant symbiosis
-- [[fungal-ecology-forest-floor]] -- where many Glomeromycota thrive
+- [[the-soil-food-web]] -- where many Glomeromycota thrive
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-cell-membrane-transport-proteins]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

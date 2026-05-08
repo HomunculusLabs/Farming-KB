@@ -147,5 +147,3 @@ cultures unless they have been autoclaved or the contaminant identity is known
 
 - [[cultivator-contaminants-of-mushroom-culture]]
 - [[dactylium-cobweb-mold-mushroom-pathogens]]
-
-- [[mushroom-life-cycle-stamets-cultivator]]

@@ -21,7 +21,7 @@ Permaculture proposes that humans could make do with 40% less energy without sac
 
 ## Three Ethics of Permaculture
 
-These three ethics form the moral foundation of all permaculture design. See also [[permaculture-ethics]] and [[permaculture-introduction-and-ethics]].
+These three ethics form the moral foundation of all permaculture design. See also [[permaculture-ethics]] and [[permaculture-design-principles]].
 
 1. **Care for the Earth**: All things, living or non-living, have intrinsic worth. Soil, water, air, plants, and animals all deserve protection and stewardship.
 2. **Care for people**: Humanity is cared for through self-reliance and community responsibility. Access to resources and knowledge is essential.
@@ -31,13 +31,13 @@ Sustainable systems are circular -- used items go back to their source where the
 
 ## Seven Design Principles (Faires' Synthesis)
 
-Faires distills permaculture into seven core principles. For a more detailed treatment see [[permaculture-design-principles-beginners]] and [[permaculture-earthworks-guide]].
+Faires distills permaculture into seven core principles. For a more detailed treatment see [[permaculture-design-principles]] and [[permaculture-water-harvesting-earthworks]].
 
 1. **Everything is connected** -- Every element is connected to and supported by everything else. This echoes the [[permaculture-pattern-language]] understanding of natural systems.
 2. **Multiple functions** -- Every element should serve many functions. Permaculture focuses on function over aesthetics. See [[permaculture-principle-use-and-value-diversity]] and [[permitted-vs-forced-functions]].
 3. **Sustainable function** -- Functional design provides a useful product or surplus. Pollution is an overabundance of a resource; work results when one element doesn't help another. See [[permaculture-principle-produce-no-waste]].
-4. **Maximize useful energy** -- Decrease the waste of energy in any system. See [[permaculture-principle-catch-and-store-energy]].
-5. **Diversity** -- Successful design provides many useful connections between elements. See [[permaculture-principle-integrate-rather-than-segregate]].
+4. **Maximize useful energy** -- Decrease the waste of energy in any system. See [[permaculture-design-principles]].
+5. **Diversity** -- Successful design provides many useful connections between elements. See [[permaculture-design-principles]].
 6. **Pollution causes chaos** -- Systems that produce pollution break down. See [[permaculture-principle-apply-self-regulation]].
 7. **Cooperation over opposition** -- Use only what can be returned to the soil; build harmony into the functional organization of a system. See [[competition-cooperation-permaculture]].
 
@@ -68,7 +68,7 @@ When designing a system for land, the following goals guide the process:
 
 At its essence, permaculture is a series of questions: Where does the water come from and where does it go? How to cool a house without electricity? How to grow food abundantly without backbreaking labor? The answers come from working with nature rather than against it.
 
-The full design process includes [[faires-element-analysis-method]] for cataloging site elements, [[faires-zone-and-sector-planning]] for spatial organization, and [[permaculture-design-methods]] for synthesis. The [[permaculture-design-process]] provides a broader framework, while [[edge-effect-in-permaculture]] helps analyze what a site can produce.
+The full design process includes [[faires-element-analysis-method]] for cataloging site elements, [[faires-zone-and-sector-planning]] for spatial organization, and [[permaculture-design]] for synthesis. The [[permaculture-design-process]] provides a broader framework, while [[edge-effect-in-permaculture]] helps analyze what a site can produce.
 
 ## Related
 
@@ -86,8 +86,8 @@ The full design process includes [[faires-element-analysis-method]] for catalogi
 - [[faires-element-analysis-method]]
 - [[faires-zone-and-sector-planning]]
 - [[soil-food-web-structure]]
-- [[permaculture-design-principles-beginners]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-design-principles]]
+- [[permaculture-water-harvesting-earthworks]]
 ## Merged: Permaculture History and Origins
 
 # Permaculture History and Origins

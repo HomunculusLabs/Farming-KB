@@ -538,7 +538,7 @@ personalized herbal formulations.
   delivery through immersion
 - [[herbal-materia-medica]] — Individual herb profiles organized by
   therapeutic action
-- [[herbal-plant-remedies]] — Traditional folk remedies and practical
+- herbal plant remedies — Traditional folk remedies and practical
   preparation recipes
 
 ## References

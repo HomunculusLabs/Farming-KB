@@ -148,4 +148,3 @@ pressure from development, vandalism, internal conflict, and member
 burnout. Long-term land security through land trusts, conservation
 easements, or municipal dedication is essential. Building genuine
 community ownership through participatory design processes creates
-the social commitment needed to sustain gardens through difficulties.

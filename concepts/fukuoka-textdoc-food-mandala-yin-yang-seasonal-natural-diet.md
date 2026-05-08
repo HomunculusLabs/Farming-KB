@@ -109,7 +109,6 @@ Processed foods are designed to appeal to the discriminating palate, not to nour
 
 The natural farmer sees processed food as a symptom of humanity's fundamental alienation from nature. When people eat food that has been divorced from the soil, the seasons, and the local ecosystem, they consume not just nutrition but the philosophy of separation that produced it.
 
-
 ## See Also
 
 - [[fukuoka-seasonal-food-mandala-local-diet]]

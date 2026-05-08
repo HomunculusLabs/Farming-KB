@@ -133,7 +133,7 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 - [[jack-o-lantern]]
 - [[strobilomyces-strobilaceus]]
 - [[usnea-barbata]]
-- [[amanita-caesarea-mycology]]
+- [[amanita-caesarea]]
 - [[leccinum-insigne]]
 - [[gyroporus-cyanescens]]
 - [[specialty-mushroom-species]] — Agarikon, enokitake, pioppino, shaggy mane, tinder conk, artist conk, and more
@@ -148,6 +148,3 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 - [[mushroom-foraging-safety-guide]]
 - [[psilocybe-natalensis]]
 - [[african-psilocybin-mushroom-guide]]
-- [[asian-psilocybin-mushroom-guide]]
-- [[psilocybin-mushroom-chemistry]]
-- [[reishi-cultivation-guide]]

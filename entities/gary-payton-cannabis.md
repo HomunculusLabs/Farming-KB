@@ -123,15 +123,15 @@ Common side effects are typical of high-THC hybrid strains but may be more prono
 
 ## See Also
 
-- [[gary-payton]]
+- gary payton cannabis
 
 - [[cannabis-terpene-profiles]]
 - [[cannabis-endocannabinoid-system]]
 
 - [[girl-scout-cookies]] — foundational parent lineage (GSC family)
 - GranDaddy Purple — indica father contributing color and body effects
-- [[gelato]] — closely related Cookies-family hybrid with similar terpene complexity
+- [[gelato-cannabis]] — closely related Cookies-family hybrid with similar terpene complexity
 - [[animal-face]] — another modern Cookies-era exotic with high THC
-- [[ice-cream-cake]] — indica-heavy Cookies descendant with dessert terpenes
+- [[ice-cream-cake-cannabis]] — indica-heavy Cookies descendant with dessert terpenes
 - [[jealousy]] — Cookies-family cross with gassy terpene profile
 - Forbidden Fruit — gassy, fruity hybrid sharing terpinolene dominance

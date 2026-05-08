@@ -148,4 +148,3 @@ for most traits.
 
 - [[clarke-marijuana-botany-sex-determination-reproductive-biology]]
 - [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-- [[cervantes-chromosomes-sex-determination-ploidy]]

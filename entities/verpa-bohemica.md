@@ -1,5 +1,5 @@
 ---
-title: "Verpa bohemica"
+title: "verpa bohemica"
 created: 2026-05-06
 type: species
 tags:
@@ -19,7 +19,6 @@ sources:
   - "Abell-Davis, S.E. & Largent, D.L. (2008). \"A preliminary study of Verpa bohemica in the Klamath Mountains.\" McIlvainea, 18(1), 25–33."
   - "Moser, M. (1983). Keys to Agarics and Boleti. Royal Botanic Gardens, Kew."
 ---
-
 # Verpa bohemica (*Wrinkled Thimble-Cap*, *Early Morel*)
 
 ## Overview
@@ -83,7 +82,7 @@ Paraphyses are cylindrical, septate, with slightly clavate tips 4–6 µm wide.
 
 ## Distribution and Habitat
 
-**Geographic range:** Widely distributed across Europe, North America (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), and temperate Asia.
+**Geographic range:** Widely distributed across Europe, [[maitake-growth-parameter-comparison-china-japan-north-america]] (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), asacramental-[[ayahuasca]]-legal-battles-united-states]] Asia.
 
 Less common in the southeastern United States and at low elevations.
 
@@ -97,39 +96,17 @@ Fruiting typically begins 2–4 weeks before *Morchella* species in the same reg
 
 **Elevation:** Found from near sea level to approximately 2,000 meters.
 
-**Ecological role:** Likely saprotrophic on dead or dying root systems of hardwood trees, with some evidence of facultative mycorrhizal associations.
+**Ecological role:** Likely saprteaming-with-microbes-mycorrhizal-associationsg root systems of hardwood trees, with some evidence of facultative mycorrhizal associations.
 
 The strong association with riparian cottonwood ecosystems suggests a preference for nitrogen-rich alluvial soils.
 
 ## Edibility and Culinary Use
 
-Verpa bohemica is generally considered edible when thoroughly cooked, but is NOT recommended for raw consumption.
-
-**⚠️ Important:** Raw *V. bohemica* contains small quantities of gyromitrin, a volatile hydrazine compound that is hydrolyzed to monomethylhydrazine (MMH).
-
-**Preparation:** Caps should be parboiled for 10–15 minutes in abundant water, which must be discarded, before further cooking.
-
-Some foragers recommend discarding the stipes entirely and using only caps, as the stipes can be tough and fibrous.
-
-**Gastrointestinal sensitivity:** A significant minority of consumers (estimated 10–25%) experience nausea, vomiting, or diarrhea after eating *V. bohemica*, even when properly cooked.
-
-This variable sensitivity appears to be individual-specific rather than dose-dependent.
-
-For this reason, *V. bohemica* is classified as a "conditional edible" by many mycological authorities.
-
-**Culinary quality:** Mild flavor, less complex than true morels. Texture is somewhat rubbery when cooked.
-
-Most foragers who collect *V. bohemica* do so primarily for early-season variety rather than culinary excellence.
-
-**Market status:** Not commercially cultivated. Collected by personal-use foragers in regions where it is abundant.
-
-## Bioactive Compounds
-
-As with *Helvella* species, *V. bohemica* contains trace amounts of gyromitrin, though at lower concentrations than *Gyromitra esculenta*.
+Verpa bohemica is generally considered edible when thoroughly [[gyromitrin-t-is-not-recommended-for-raw-consumption.-**⚠️-important:**-raw-*v.-bohemica*-contains-small-quantities-of-gyromitrin,-a-volatile-hydrazine-compound-that-is-hydrolyzed-to-monomethylhydrazine-(mmh).-**preparation:**-caps-should-be-parboiled-for-10–15-minutes-in-abundant-water,-which-must-be-discarded,-before-further-cooking.-some-foragers-recommend-discarding-the-stipes-entirely-and-using-only-caps,-as-the-stipes-can-be-tough-and-fibrous.-**gastrointestinal-sensitivity:**-a-significant-minority-of-consumers-(estimated-10–25%)-experience-nausea,-vomiting,-or-diarrhea-after-eating-*v.-bohemica*,-even-when-properly-cooked.-this-variable-sensitivity-appears-to-be-individual-specific-rather-than-dose-dependent.-for-this-reason,-*v.-bohemica*-is-classified-as-a-"conditional-edible"-by-many-mycological-authorities.-**culinary-quality:**-mild-flavor,-less-complex-than-true-morels.-texture-is-somewhat-rubbery-when-cooked.-most-foragers-who-collect-*v.-bohemica*-do-so-primarily-for-early-season-variety-rather-than-culinary-excellence.-**market-status:**-not-commercially-cultivated.-collected-by-personal-use-foragers-in-regions-where-it-is-abundant.-##-bioactive-compounds-as-with-*helvella*-species,-*v.-bohemica*-contains-trace-amounts-of-gyromitrin,-though-at-lower-concentrations-than-*[[gyromitra-esculenta]]*.
 
 The gyromitrin content is sufficiently reduced by parboiling to render the mushroom safe for most consumers, though individual sensitivity varies.
 
-Other metabolites include ergosterol and related sterols, fatty acids, and small amounts of phenolic compounds with reported antioxidant activity in vitro.
+Other metabolites include [[ergosterol]] and related sterols, fatty acids, and small amounts of phenolic compounds with reported antioxidant activity in vitro.
 
 The pharmacological significance of these secondary metabolites has not been extensively studied.
 
@@ -138,7 +115,7 @@ The pharmacological significance of these secondary metabolites has not been ext
 | Species | Cap Attachment | Key Distinguishing Feature |
 |---------|---------------|--------------------------|
 | *Verpa conica* | Apex only | Smooth cap, no wrinkles |
-| *Morchella esculenta* | Base of cap | Pitted cap, attached at base |
+| *[[morchella-esculenta]]* | Base of cap | Pitted cap, attached at base |
 | *Morchella semilanceata* | Base of cap | Conical cap, smaller, vertical pits |
 | *Gyromitra esculenta* | Brain-like mass | Solid stipe, much higher gyromitrin |
 
@@ -147,7 +124,3 @@ The distinction between *V. bohemica* and *V. conica* (smooth thimble-cap) is im
 Both *Verpa* species differ from true morels (*Morchella*) in having the cap attached only at the apex, not at the base.
 
 ## See Also
-
-- `[[morchella-esculenta-entity]]` — True morel, the most commonly confused species
-- `[[helvella-lacunosa]]` — Elfin saddle, another spring-fruiting ascomycete
-- `[[gyromitra-esculenta]]` — Toxic false morel with much higher gyromitrin content

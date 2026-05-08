@@ -31,7 +31,7 @@ sources:
 
 ## Lineage
 
-- **Female parent:** Silver Haze — a classic sativa bred from Haze × Northern Lights × Skunk #1
+- **Female parent:** Silver Haze — a classic sativa bred from Haze × [[northern-lights]] × Skunk #1
 - **Male parent:** Lemon Skunk — selected for its pronounced citrus terpene profile
 - **Breeder:** Arjan Roskam / Green House Seeds
 - **Genetic ratio:** Approximately 70% sativa / 30% indica
@@ -81,7 +81,7 @@ Lemon Haze is considered moderately challenging to cultivate, best suited for gr
 - **Outdoor yield:** 500–600 g/plant
 - **Harvest:** Early to mid-October (Northern Hemisphere outdoor)
 - **Height:** Can reach 150–200 cm indoors; taller outdoors
-- The strain responds well to SCROG (Screen of Green) and LST (Low Stress Training) to manage height and maximize light exposure
+- The strain responds well to SCROG ([[screen-of-green]]) and LST ([[low-stress-training]]) to manage height and maximize light exposure
 - It is moderately nutrient-hungry, particularly during the flowering phase when phosphorus and potassium demand increases
 - The strain is somewhat susceptible to powdery mildew and botrytis in humid conditions; adequate airflow is essential
 - **Climate preference:** Temperate to warm Mediterranean climates; performs well in greenhouse environments
@@ -115,7 +115,7 @@ As of 2026, Lemon Haze is available in licensed dispensaries across Canada, most
 ## Notable Phenotypes and Variations
 
 - **Amnesia Lemon:** A cross of Amnesia Haze × Lemon Skunk, sometimes confused with Lemon Haze; tends to have higher THC and a more complex aroma
-- **Super Lemon Haze:** A separate Green House Seeds creation (Super Silver Haze × Lemon Skunk), which has become arguably more famous than the original Lemon Haze
+- **[[super-lemon-haze]]:** A separate Green House Seeds creation ([[super-silver-haze]] × Lemon Skunk), which has become arguably more famous than the original Lemon Haze
 - Individual phenotypes vary significantly in the balance of lemon intensity vs. earthy/hazy undertones, with "lemon-heavy" phenotypes being the most sought after by collectors
 - **Lemon Haze Auto:** Autoflowering version bred by crossing with a ruderalis line; completes lifecycle in 10–12 weeks from seed; reduced potency (12–16% THC) but retains characteristic terpene profile
 - The strain's enduring popularity across nearly two decades since its introduction reflects the consistent quality of its terpene expression and reliable growth characteristics that appeal to both novice and experienced cultivators.

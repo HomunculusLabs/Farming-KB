@@ -86,12 +86,12 @@ For outdoor bush varieties, protect plants with cloches at the end of the growin
 
 - Start feeding about eight weeks after planting in the greenhouse
 - Use liquid kelp or animal-manure fertilizer every time you water (greenhouse) or every two weeks (outdoor)
-- Comfrey tea is an excellent high-potash organic feed for tomatoes — see [[homemade-liquid-fertilizer]]
+- Comfrey tea is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-and-market-gardening]]
 - Stop feeding when the last truss has set fruit
 
 ## Related
 
-- [[homemade-liquid-fertilizer]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[greenhouse-growing-essentials]]
 - [[composting-systems]]
 - [[hamilton-pest-and-disease-control-organic]]

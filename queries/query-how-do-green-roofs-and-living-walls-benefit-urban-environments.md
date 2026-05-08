@@ -147,7 +147,3 @@ offset these costs.
 ## Related
 
 - [[query-how-do-i-design-a-succulent-green-roof]] Questions
-
-- [[query-how-to-attract-and-support-native-bee-pollinators]]
-- [[query-how-to-create-a-biodiverse-pollinator-garden]]
-- [[query-what-are-the-benefits-of-no-till-gardening]]

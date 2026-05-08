@@ -134,7 +134,7 @@ contaminated sites when properly managed.
 
 ## See Also
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[mycoremediation-bioreactor-design]]
 - [[mycoremediation-species-selection-guide]]
 - [[mycoremediation-scale-up-challenges]]

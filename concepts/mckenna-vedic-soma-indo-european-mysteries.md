@@ -80,7 +80,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## The Rig Veda as Botanical Literature
 The Rig Veda's descriptions of Soma provide remarkably detailed botanical information, though they are embedded in poetic and religious language. Soma is described as a plant without leaves, without blossoms, and without roots — a description that has puzzled scholars but which McKenna interprets as referring to the underground or less visible parts of a fungus rather than a leafy plant. The plant is said to grow on mountains and is associated with the colour tawny (babhru) and golden (hiranyavarna). It is described as being brought from high places by eagles or hawks — a motif that McKenna connects to the high-altitude grassland environments where both psilocybin mushrooms and Peganum harmala would have grown.

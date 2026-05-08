@@ -34,7 +34,7 @@ Understanding the differences between honey bees (*Apis mellifera*) and native s
 | Feature | Honey Bee (*Apis mellifera*) | Native Solitary Bees (mason, leafcutter, sweat, carpenter, mining bees) |
 |---|---|---|
 | **Social Structure** | Eusocial; queen + workers + drones; 50,000+ per colony | Solitary; each female is her own "queen"; no workers |
-| **Nesting** | Managed hives (Langstroth, top bar, Warre) | Hollow stems, wood tunnels, ground burrows, nesting blocks |
+| **Nesting** | Managed hives (Langstroth, [[top-bar-hive]], Warre) | Hollow stems, wood tunnels, ground burrows, nesting blocks |
 | **Foraging Range** | 2–5 km from hive | Typically 100–500 m from nest |
 | **Active Season** | Spring through fall (colony active year-round in warm climates) | Many species fly only a few weeks; early spring or late season specialists exist |
 | **Pollination Efficiency** | Good generalist; moderate per-visit efficiency | Often higher per-visit (especially *Osmia*, *Megachile*) |
@@ -77,7 +77,7 @@ Key efficiency factors by group:
 - **Leafcutter bees (*Megachile*)** — preferred for alfalfa, onion, and carrot seed production; active mid-summer.
 - **Sweat bees (*Halictidae*)** — small but abundant; important pollinators of small flowers and wildflowers.
 - **Carpenter bees (*Xylocopa*)** — large-bodied, effective on deep-throated flowers; occasional nectar robbers.
-- **Mining bees (*Andrena*)** — early spring specialists; critical for fruit tree pollination before honey bees build large populations.
+- **Mining bees (*Andrena*)** — early spring specialists; critical for [[fruit-tree-grafting-guide]] pollination before honey bees build large populations.
 
 ## Stinging Risk
 
@@ -95,7 +95,7 @@ Honey bees also suffer from pesticide exposure — both acute poisoning and chro
 
 ## Maintenance and Management
 
-Beekeeping requires substantial commitment: regular hive inspections (every 1–2 weeks in season), disease monitoring and treatment, swarm prevention, supering, honey extraction, and winter feeding. Startup costs range from $500–$2,000+.
+Beekeeping requires substantial commitment: regular hive inspections (every 1–2 weeks in season), disease monitoring and treatment, swarm prevention, supering, [[honey-extraction-and-processing]], and winter feeding. Startup costs range from $500–$2,000+.
 
 Solitary bee management is dramatically simpler: install nesting blocks or bee hotels in a sheltered, south-facing location; provide nearby mud (mason bees) and leaf material (leafcutter bees); plant diverse flowers; leave stems standing through winter. No inspections, no treatments, no feeding. Cost is often under $50.
 
@@ -121,7 +121,7 @@ The best strategy for gardeners, farmers, and land managers is to **integrate bo
 - **Provide diverse habitat** — bare soil patches for ground-nesters, standing dead stems and brush piles, nesting blocks for cavity nesters, and a clean water source.
 - **Reduce pesticide use** — especially neonicotinoids; apply sprays only at dawn/dusk when bees are not foraging.
 - **Support honey bees locally** — buy honey from local beekeepers who practice sustainable management.
-- **Monitor and learn** — participate in citizen science programs (Bumble Bee Watch, iNaturalist) to contribute to native bee data.
+- **Monitor and learn** — participate in [[citizen-science-fungal-biodiversity-discovery]] programs (Bumble Bee Watch, iNaturalist) to contribute to native bee data.
 
 Both honey bees and native solitary bees have vital roles. By understanding their differences and complementary strengths, we can build landscapes that sustain pollinators, food systems, and biodiversity together.
 

@@ -126,7 +126,7 @@ Mycorestoration integrates with multiple [[permaculture-design]] elements:
 - [[water-management]] via mycofiltration barriers
 - [[food-forest-design]] via mycoforestry practices
 - [[composting-systems]] via spent mushroom compost recycling
-- [[no-till-gardening-method]] via fungal soil building
+- [[composting-and-soil-biology]] via fungal soil building
 - [[cover-cropping-guide]] via fungal decomposition of cover crop residues
 - [[swale-design-construction]] via mycofiltration at discharge points
 

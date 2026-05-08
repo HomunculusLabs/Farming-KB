@@ -148,4 +148,3 @@ core nutrients in forms available to plant roots.
 only one other soil component, clay, can hold onto and exchange
 nutrients with plant roots, but humus can hold a far greater amount.
 Building humus through [[jeavons-carbon-farming]] and
-[[jeavons-composting-methods]] is therefore the most

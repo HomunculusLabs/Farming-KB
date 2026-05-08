@@ -1,5 +1,5 @@
 ---
-title: "Picrasma quassioides"
+title: "picrasma quassioides"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -148,5 +148,3 @@ maintaining the ecological functions of the standing crop.
 - brucea javanica
 - traditional chinese medicine
 - canthin 6 one
-- [[moringa-oleifera]]
-- [[robinia-pseudoacacia]]

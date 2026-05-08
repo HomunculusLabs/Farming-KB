@@ -148,4 +148,3 @@ fosters fungal growth.
   pyrethrum sprays
 - [[cervantes-biological-pest-control-predators]] - living
   pest control agents
-- [[cervantes-pest-disease]] - general pest and disease

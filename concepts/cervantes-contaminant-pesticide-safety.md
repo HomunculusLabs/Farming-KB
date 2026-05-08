@@ -120,8 +120,8 @@ removal of built-up chemicals from cannabis plants.
 
 ## See Also
 
-- [[cervantes-organic-growing]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-drying-buds-methods]]
-- [[cervantes-curing-storage]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-neem-oil-organic-pest-control]]

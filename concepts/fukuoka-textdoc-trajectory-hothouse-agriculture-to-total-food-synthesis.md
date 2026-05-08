@@ -133,23 +133,6 @@ from the bosom of nature, and all human labors are doomed to
 end in vain.
 
 ## The Vicious Cycle
-
-Machinery, chemical fertilizers, and pesticides have drawn the
-farmer away from nature. Although these products do not raise
-the yields of the land, because they are promoted as tools for
-making profits, farmers labor under the illusion that they
-need them. Their use has wrought great destruction on nature,
-robbing it of its powers and leaving humanity no choice but to
-tend vast fields by hand. And the same vicious cycle goes on
-and on without end.
-
-## Fukuoka's Counter-Philosophy
-
-The way to enrich humanity's diet is easy. It does not entail
-mass growing or gathering. But it does require humanity to
-relinquish human knowledge and action, and to allow nature to
-restore its natural bounty. Indeed, there is no other way.
-
 ## See Also
 
 - [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]

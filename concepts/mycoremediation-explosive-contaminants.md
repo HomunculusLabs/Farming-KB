@@ -108,7 +108,7 @@ Epigenetic regulation of [[fungal-enzyme-systems]] through histone modification 
 ## See Also
 
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
-- [[mycoremediation-phytoremediation-combined]]
+- [[bioremediation-using-fungi]]
 - [[mycoremediation-field-applications-case-studies]]
 - [[key-fungal-species-bioremediation]]
 - [[mycoremediation-emerging-techniques]]

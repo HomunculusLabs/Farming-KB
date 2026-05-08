@@ -90,4 +90,4 @@ Conventional methods for sampling fungi are inadequate for accurately enumeratin
 
 Because a relatively small proportion of potential hosts have been examined, endophytes may represent a substantial number of undiscovered fungi. Loss of plant species diversity through habitat destruction inevitably leads to loss of endophyte diversity, including potentially valuable organisms producing novel bioactive compounds.
 
-[[fungal-conservation-strategies]] [[fungal-species-estimates-taxonomy]]
+[[ethnomycology]] [[fungal-species-estimates-taxonomy]]

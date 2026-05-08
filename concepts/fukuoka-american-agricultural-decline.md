@@ -148,5 +148,3 @@ case study in what happens when that reversal is not made.
 - primitive farming — Fukuoka's framing of industrial methods as backward
 - [[mollison-soil-formation-rates-and-erosion-costs]] — historical practice echoed in modern farming
 - soil salinization — irrigation-driven salt accumulation
-- [[solomon-soil-mineral-depletion]] — long-term loss of soil fertility and organic matter
-- industrial agriculture — the broader system Fukuoka critiques

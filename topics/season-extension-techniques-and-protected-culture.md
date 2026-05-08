@@ -71,7 +71,7 @@ Organic mulches (straw, leaves, wood chips) insulate soil, moderating temperatur
 
 ### Raised Beds
 
-Raised beds drain and warm faster in spring than in-ground beds, gaining 1–2 weeks on the season. The elevation above surrounding ground reduces frost risk in cold-air drainage areas. When combined with row covers, raised beds become a powerful low-cost season extension combination. Build raised beds from untreated wood, stone, or corrugated metal — avoid pressure-treated lumber near edible crops.
+[[raised-beds-vs-in-ground-vs-containers]] drain and warm faster in spring than in-ground beds, gaining 1–2 weeks on the season. The elevation above surrounding ground reduces frost risk in cold-air drainage areas. When combined with row covers, raised beds become a powerful low-cost season extension combination. Build raised beds from untreated wood, stone, or corrugated metal — avoid pressure-treated lumber near edible crops.
 
 ### Heat-Absorbing Surfaces and Radiant Heating
 
@@ -168,7 +168,7 @@ Cloches are best suited for protecting individual high-value plants like tomatoe
 
 ### What They Are
 
-A high tunnel (also called a hoophouse or polytunnel) is an unheated, plastic-covered structure tall enough to walk in and work inside. Unlike a greenhouse, high tunnels have no permanent foundation, no automated heating or cooling systems, and crops are typically grown directly in the soil. They represent the sweet spot of cost-effectiveness for serious season extension.
+A high tunnel (also called a hoophouse or polytunnel) is an unheated, plastic-covered structure tall enough to walk in and work inside. Unlike a greenhouse, high tunnels have no permanent foundation, no automated heating or cooling systems, and crops are typically grown directly in the soil. They represent the sweet spot of [[cost-effectiveness-fungal-remediation]] for serious season extension.
 
 ### Construction
 
@@ -199,7 +199,7 @@ Rule of thumb: if the outside temperature is above 50°F and sunny, open the sid
 - Growth slows dramatically below 4°C soil temperature but resumes when conditions warm
 
 **Spring crops (planted February–March, inside tunnel):**
-- 4–6 weeks ahead of outdoor schedule for direct-seeded crops
+- 4–6 weeks ahead of outdoor schedule for [[direct-seeded-notillage-rice-barley-clover-succession]] crops
 - Transplant tomatoes, peppers, cucumbers into tunnel in March–April for early harvest
 
 **Summer management:**
@@ -264,7 +264,7 @@ With supplemental heat and lighting, a greenhouse can produce food 365 days a ye
 
 ### Design Principles
 
-The walipini (from the Aymara word for "place of warmth") is an earth-sheltered greenhouse originating from the high-altitude Altiplano of Bolivia, popularized by the Benson Institute in the 1990s. It exploits the fact that soil temperature below the frost line remains remarkably stable year-round — approximately 10–15°C (50–59°F) in temperate climates, regardless of surface air temperature.
+The walipini (from the Aymara word for "place of warmth") is an [[earth-sheltered-structures-permaculture]] greenhouse originating from the high-altitude Altiplano of Bolivia, popularized by the Benson Institute in the 1990s. It exploits the fact that soil temperature below the frost line remains remarkably stable year-round — approximately 10–15°C (50–59°F) in temperate climates, regardless of surface air temperature.
 
 Key design elements:
 
@@ -327,7 +327,7 @@ For market gardeners, winter and early-spring produce commands premium pricing �
 
 ## Integration with Permaculture Design
 
-Season extension structures should be sited using permaculture zone analysis:
+Season extension structures should be sited using [[permaculture-zone-0-house-design]] analysis:
 
 - **Zone 0–1** (closest to the home): cold frames, small greenhouses, cloches — these need daily attention and benefit from proximity to the kitchen
 - **Zone 1–2:** high tunnels, larger greenhouses — visited regularly but not necessarily daily
@@ -337,7 +337,7 @@ Season extension structures should be sited using permaculture zone analysis:
 
 - **Locate tunnels and greenhouses downhill from water storage** so gravity-fed irrigation is possible
 - **Use high tunnel gutters to capture rainwater** for irrigation
-- **Integrate composting systems adjacent to structures** — compost piles generate heat and are convenient to the growing area
+- **Integrate [[composting-systems-design-comparison]] adjacent to structures** — compost piles generate heat and are convenient to the growing area
 - **Plant deciduous trees on the south side** of greenhouses — they shade in summer but drop leaves to allow full winter sun
 - **Use animals for heating** — a chicken coop attached to a greenhouse provides CO₂ enrichment and supplemental heat from body warmth
 - **Combine windbreak plantings** (zone 2–3) with high tunnel placement for compound protection
@@ -372,11 +372,11 @@ Water pooling inside structures kills roots and promotes disease. Underground st
 
 The warm, humid, still air inside protected structures is ideal for fungal and bacterial pathogens.
 
-**Prevention:** maintain adequate spacing between plants; avoid overhead watering; remove diseased plant material promptly; practice crop rotation; ensure good ventilation; consider biological controls (Bacillus subtilis, Trichoderma sprays).
+**Prevention:** maintain adequate spacing between plants; avoid overhead watering; remove diseased plant material promptly; practice [[crop-rotation-vegetable-garden]]; ensure good ventilation; consider biological controls (Bacillus subtilis, Trichoderma sprays).
 
 ### Inadequate Light in Deep Winter
 
-North of roughly 40° latitude, the combination of short days, low sun angle, and overcast weather means light is often the limiting factor for plant growth in winter, not temperature.
+North of roughly 40° latitude, the combination of short days, low sun angle, and overcast weather means light is often the limiting factor for [[plant-growth-promoting-rhizobacteria]] in winter, not temperature.
 
 **Prevention:** choose crops that tolerate low light (spinach, mache, kale); use reflective surfaces (white paint, Mylar) to maximize available light; keep glazing clean; remove any unnecessary shade; consider supplemental LED lighting for critical crops.
 

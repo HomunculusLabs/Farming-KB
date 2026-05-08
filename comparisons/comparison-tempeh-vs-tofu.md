@@ -140,17 +140,6 @@ Both tofu and tempeh have favorable environmental profiles compared to animal pr
 | Calcium needs | Tofu (gypsum-set) | Up to 350mg/100g |
 | Iron needs | Tempeh | 2.7mg/100g with better bioavailability |
 | Delicate soups and desserts | Tofu (silken/soft) | Custard-like texture |
-| Grilling or smoking | Tempeh | Holds shape and develops crust |
-| Egg replacement in baking | Tofu | Blends smooth; neutral flavor |
-| Ground meat substitute | Tempeh | Crumbles beautifully; earthy flavor |
-| Quick weeknight cooking | Tofu | No fermentation wait; cooks in minutes |
-| Gut health focus | Tempeh | Contains live cultures (if unpasteurized) |
-| Minimal kitchen equipment | Tempeh | Requires less specialized gear |
-
-## Bottom Line
-
-Tofu and tempeh are complementary rather than competing soy foods. Tofu is a versatile, mild-flavored protein sponge that works across cuisines and cooking methods, from delicate soups to crispy stir-fries. Tempeh is a denser, nuttier, more nutrient-complete food that retains all of the soybean's fiber and micronutrients, with added benefits from fermentation. Many plant-based eaters keep both in their kitchen and choose based on the dish: tofu when you want absorption and delicacy, tempeh when you want substance and earthy depth.
-
 ## See Also
 
 - [[comparison-cmh-vs-led-grow-lights]]

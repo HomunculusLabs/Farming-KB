@@ -148,4 +148,3 @@ where they are located along those chromosomes.
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-sex-determination-floral-biology]]
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]

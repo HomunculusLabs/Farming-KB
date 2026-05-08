@@ -112,6 +112,6 @@ After fermentation (or as part of the quick method), cooking develops the final 
 - Wash hands, cutting boards, and knives thoroughly after working with hot peppers
 - Label bottles clearly with pepper type and heat level
 ## See Also
-- [[pickle-making]] — fermentation of vegetables in brine
+- pickle making — fermentation of vegetables in brine
 - [[kimchi-making]] — Korean fermented vegetable condiment
 - [[vinegar-making]] — making your own vinegar for hot sauce base

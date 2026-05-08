@@ -69,7 +69,7 @@ The process of mapping one's own inputs and outputs, dependencies and contributi
 
 ## Incremental Change and Regular Review
 
-The self-audit is not a one-time exercise but an ongoing practice. Making small changes and reviewing the audit regularly ensures that the process remains practical and adaptive. This mirrors the [[permaculture-principle-use-small-and-slow-solutions]] and the recognition that lasting change comes from incremental adjustment rather than radical upheaval.
+The self-audit is not a one-time exercise but an ongoing practice. Making small changes and reviewing the audit regularly ensures that the process remains practical and adaptive. This mirrors the [[permaculture-design-principles]] and the recognition that lasting change comes from incremental adjustment rather than radical upheaval.
 
 As conditions change, as energy descent progresses, and as personal circumstances evolve, the self-audit provides a structured way to reassess priorities and identify new opportunities for reducing dependence and improving quality of life. It is a living document of one's relationship to the systems that sustain us.
 
@@ -77,7 +77,7 @@ As conditions change, as energy descent progresses, and as personal circumstance
 
 - [[permaculture-principle-apply-self-regulation]]
 
-- [[permaculture-principle-obtain-a-yield]]
+- [[permaculture-design-principles]]
 
 - [[permaculture-ethics]]
 

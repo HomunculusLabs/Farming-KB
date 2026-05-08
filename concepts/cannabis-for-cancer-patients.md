@@ -11,11 +11,6 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 Cannabis has a well-established role in managing cancer symptoms, and emerging (though not yet conclusive) evidence for direct anti-tumor effects. The distinction between symptom management and anti-cancer properties is critical.
 
-
-
-
-
-
 ## Symptom Management (Strong Evidence)
 
 ### Chemotherapy-Induced Nausea and Vomiting (CINV)
@@ -42,11 +37,6 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 - Indica-dominant strains improve sleep onset and duration
 - THC reduces sleep latency; CBD may improve sleep quality
 
-
-
-
-
-
 ## Anti-Tumor Research (Preclinical)
 
 ### Preclinical Evidence
@@ -66,24 +56,14 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 - The anecdotal reports may reflect symptom improvement rather than tumor regression
 - Patients should discuss with their oncologist
 
-
-
-
-
-
 ## Integration with Conventional Treatment
 - Cannabis can be used alongside chemotherapy, radiation, and surgery
 - No known negative drug interactions with common chemotherapy agents
 - May improve quality of life and treatment tolerance
 - Always inform your oncologist about cannabis use
 
-
-
-
-
-
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-for-chronic-pain]] — for pain management
-- [[turkey-tail-mushroom-cancer-research]] — for another complementary approach
+- [[mushroom-cultivation-fundamentals]] — for another complementary approach

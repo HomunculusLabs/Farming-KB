@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-MDE is the N-ethyl homologue of [[mda-entity]]|MDA and a close relative of [[mdma-entity]]|MDMA. It combines empathogenic and stimulant properties with a somewhat "stonier" character than MDMA. It was explored as a potential alternative to MDMA after the latter's scheduling in 1985, appearing briefly in the illicit trade under the name "EVE" (paired with MDMA as "ADAM"). MDE was the compound used in the first "piggy-back" or "window exploitation" studies, where additional compounds were assayed during the open state produced by the initial dose.
+MDE is the N-ethyl homologue of [[mda]]|MDA and a close relative of [[mdma-entity]]|MDMA. It combines empathogenic and stimulant properties with a somewhat "stonier" character than MDMA. It was explored as a potential alternative to MDMA after the latter's scheduling in 1985, appearing briefly in the illicit trade under the name "EVE" (paired with MDMA as "ADAM"). MDE was the compound used in the first "piggy-back" or "window exploitation" studies, where additional compounds were assayed during the open state produced by the initial dose.
 
 ## Dosage
 

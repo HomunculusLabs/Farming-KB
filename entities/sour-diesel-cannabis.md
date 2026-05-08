@@ -127,7 +127,7 @@ reach 2–3 meters outdoors if unrestricted.
 ## Relevance
 
 Sour Diesel holds a foundational place in modern cannabis genetics. Alongside [[og-kush]]
-and [[blue-dream-cannabis]], it ranks among the most referenced and frequently crossed
+and [[blue-dream-strain]], it ranks among the most referenced and frequently crossed
 strains of the post-1990s era. Its influence is visible in strains like
 [[super-lemon-haze]], [[jack-herer-cannabis-strain]] crosses, and numerous "diesel"
 lineages. The strain's enduring appeal lies in its potent, functional cerebral effects
@@ -140,7 +140,7 @@ for over three decades across both recreational and medical markets.
 
 - [[cannabis-sativa]]
 - [[og-kush]]
-- [[blue-dream-cannabis]]
+- [[blue-dream-strain]]
 - [[super-lemon-haze]]
 - [[jack-herer-cannabis-strain]]
 - [[myrcene]]

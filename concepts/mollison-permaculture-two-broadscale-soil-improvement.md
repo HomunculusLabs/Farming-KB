@@ -85,7 +85,7 @@ Often, the pest plants of which we complain (lantana, capeweed, blackberry, mull
 
 ## Integration with Earthworks
 
-Soil rehabilitation is most effective when combined with [[permaculture-earthworks-guide]] that manage water flow across the landscape. [[swale-design-construction]] and [[mollison-designers-soil-water-storage-in-forest-systems]] work in concert with Keyline techniques to ensure that rainfall is captured, infiltrated, and distributed to support soil biological processes.
+Soil rehabilitation is most effective when combined with [[permaculture-water-harvesting-earthworks]] that manage water flow across the landscape. [[swale-design-construction]] and [[mollison-designers-soil-water-storage-in-forest-systems]] work in concert with Keyline techniques to ensure that rainfall is captured, infiltrated, and distributed to support soil biological processes.
 
 ## Climate Considerations
 
@@ -105,12 +105,12 @@ The techniques described here are applicable across a wide range of [[permacultu
 
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 
-- [[swale-construction-guide]]
+- [[organic-vegetable-growing-and-market-gardening]]
 
 - [[water-storage-techniques]]
 
 - [[dryland-permaculture-strategies]]
 
-- [[permaculture-climate-classification]]
+- [[permaculture-design]]

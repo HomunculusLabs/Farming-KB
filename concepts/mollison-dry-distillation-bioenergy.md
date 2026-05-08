@@ -70,7 +70,7 @@ Mollison describes a dry distillation system for converting wood into multiple u
 
 ## Design Principles and Permaculture Integration
 
-The dry distillation system embodies several core [[permaculture-design-principles-beginners]] that make it a model of integrated design thinking.
+The dry distillation system embodies several core [[permaculture-design-principles]] that make it a model of integrated design thinking.
 
 - **Multiple functions, single element:** A single wood feedstock produces five distinct useful outputs (methane, creosote, methanol, charcoal, heat). This multi-yield approach is the hallmark of permaculture energy design.
 

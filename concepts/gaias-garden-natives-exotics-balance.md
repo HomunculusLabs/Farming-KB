@@ -6,7 +6,7 @@ tags:
   - biodiversity
   - invasive-species
   - ecology
-  - [[permaculture-design-principles-beginners|permaculture]]
+  - [[permaculture-design-principles|permaculture]]
   - debate
   - gaias-garden
 date: 2026-04-28
@@ -148,4 +148,3 @@ is: does this garden build soil, support wildlife, conserve water, produce food,
 and reduce the ecological footprint of its inhabitants? A garden that
 accomplishes these goals — whether its plants arrived 10,000 years ago or 100
 years ago — is an ecological garden. By focusing on function rather than
-origin, gardeners can create landscapes that serve both people and nature.

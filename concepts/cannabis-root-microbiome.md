@@ -107,7 +107,7 @@ Since soil type determines the available microbial pool, focus on:
 You cannot force specific endorhiza communities. Different cannabis cultivars will recruit different internal partners from the available soil pool. This means:
 - Start seeds/clones in the same living soil they will flower in
 - Avoid sterile media for seedling stage (resets microbial recruitment)
-- Maintain undisturbed root zones (no-till approach, see [[no-till-gardening-method]])
+- Maintain undisturbed root zones (no-till approach, see [[composting-and-soil-biology]])
 - The longer soil has been active, the richer the microbial pool for selection
 ### Inoculate for the Core Community
 The core endorhiza taxa (Pseudomonas, Rhizobiales, Burkholderiaceae, Actinomycetales, Mortierellaceae) appear across all cultivars. Enriching soil for these groups benefits any cannabis variety. Use:

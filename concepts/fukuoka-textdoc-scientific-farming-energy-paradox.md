@@ -9,19 +9,17 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
+# [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]] Energy Paradox
 
-# Scientific Farming Energy Paradox
-
-Masanobu Fukuoka's analysis of energy inputs in agriculture reveals a
-fundamental paradox at the heart of modern food production: the more "advanced"
-and mechanized farming becomes, the less energy-efficient it is per unit of food
+[[masanobu-fukuoka]]'s analysis of energy inputs in agriculture reveals a
+fundamental paradox at the heart of modern food production: the moreenergy-efficient-house-designmechanized farming becomes, the less energy-efficient it is per unit of food
 produced. This insight challenges the prevailing assumption that technological
 progress in agriculture leads to greater efficiency and productivity.
 
 ## Energy Accounting in Rice Production
 
 Fukuoka provides concrete figures comparing the energy efficiency of five
-different rice production methods. Natural farming requires only one man-day of
+different rice production methods. [[natural-farming]] requires only one man-day of
 labor to recover 130 pounds of rice, equivalent to 200,000 kilocalories of food
 energy, from a quarter-acre of land. The energy input needed to achieve this is
 merely the 2,000 kilocalories required to feed one farmer for one day.
@@ -119,7 +117,7 @@ thinking this to be an effective and necessary part of farming.
 
 Natural farming produces 130 pounds of rice per man-day of labor without the
 input of any outside materials. This is about 100 times the daily intake of
-2,000 kilocalories by a farmer on a natural diet. Ten times as much energy was
+2,000 kilocalories by a farmer on a [[natural-diet]]. Ten times as much energy was
 expended in traditional farming with horses and oxen. The energy input was
 doubled again with small-scale mechanization, and doubled yet again with large-
 scale mechanization.
@@ -148,7 +146,3 @@ the net energy return to society.
 ## See Also
 
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-critique-modern-livestock]]
-- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]
-- [[fukuoka-textdoc-laying-waste-land-sea]]

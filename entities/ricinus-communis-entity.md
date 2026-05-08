@@ -148,4 +148,3 @@ and has permaculture applications as a windbreak and soil accumulator.
 - [[jatropha-curcas-entity]]
 - Linum usitatissimum (flax)
 - [[glycyrrhiza-glabra]]
-- [[moringa-oleifera]]

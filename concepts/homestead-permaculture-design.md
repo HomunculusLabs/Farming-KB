@@ -77,7 +77,7 @@ Animals convert garden and kitchen waste into fertility, protein, and labor:
 
 ## See Also
 
-- [[permaculture-design-methods]] — detailed design methodologies
+- [[permaculture-design]] — detailed design methodologies
 - [[permaculture-self-audit-and-personal-design]] — personal design process
 - [[permaculture-water-pond-systems-design-course]] — water system design
 - [[permaculture-zone-and-sector-planning]] — zone/sector analysis in detail

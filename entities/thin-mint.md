@@ -18,11 +18,9 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
   - Giese, M. et al. (2015). "Cannabis and Cannabinoids: Pharmacology, Toxicology, and Therapeutic Potential." Handbook of Experimental Pharmacology, 231, 1–39.
 ---
-
 ## Overview
 
-Thin Mint is a phenotype of Girl Scout Cookies (GSC), one of the most
-celebrated hybrid cannabis strains of the modern era.
+[[thin-mint-cookies]] is a phenotype of [[girl-scout-cookies]] (GSC), one of the mostquery-what-is-the-difference-between-indica-sativa-and-hybrid-cannabisrid [[purple-and-color-changing-cannabis-strains]] of the modern era.
 
 It was first propagated in the San Francisco Bay Area and gained prominence
 in the early 2010s through the Cookie Fam breeding collective.
@@ -33,20 +31,18 @@ aroma profile and slightly more indica-leaning effects.
 The strain won or placed in multiple High Times Cannabis Cup competitions,
 solidifying its reputation among commercial and connoisseur growers alike.
 
-Its balanced yet potent effects have made it a staple in medical cannabis
-programs across North America.
+Its balanced yet pomaitake-growth-parameter-comparison-china-japan-north-americahave made it a staple in medical cannabis
+programs across [[palmer-edible-mushrooms-north-america]].
 
-## Lineage
-
-Thin Mint is one of several recognized phenotypes of Girl Scout Cookies,
+## Line [[girl-scout-cookies]] one of several recognized phenotypes of Girl Scout Cookies,
 alongside Forum Cut and Platinum Cookies.
 
-GSC itself is a cross between OG Kush and Durban Poison, combining the
+GSC itself is a cross between OG Kush and [[durban-poison]], combining the
 heavy sedation of an indica-dominant Kush with the cerebral energy of a
-pure African sativa landrace.
+pure African [[sativa-landrace-strains-and-geographic-origins]].
 
 The Thin Mint cut is believed to have been selected by the Cookie Fam for
-its distinctive terpene profile, which leans heavily toward menthol and
+its distinctive [[terpene-profile-chemotaxonomy]], which leans heavily toward [[menthol]] and
 peppermint notes not prominent in other GSC expressions.
 
 Genetically, Thin Mint carries approximately 60% indica and 40% sativa
@@ -78,7 +74,7 @@ a faint chemical pungency that rounds out the complex bouquet.
 
 ### Dominant Terpenes
 
-The terpene profile of Thin Mint is led by **limonene**, which contributes
+The terpene profile of Thin Mint is led by **[[limonene]]**, which contributes
 citrus and mint-adjacent brightness, followed by **caryophyllene**, which
 adds peppery warmth and potential anti-inflammatory activity.
 
@@ -138,7 +134,7 @@ imitations rather than the true phenotype.
 Indoor flowering time ranges from 9 to 10 weeks, with yields of
 approximately 12–16 ounces per square meter under optimal conditions.
 
-The plants respond well to SCROG (Screen of Green) and low-stress
+The plants respond well to SCROG ([[screen-of-green]]) and low-stress
 training techniques, which help manage lateral branching and maximize
 light penetration.
 
@@ -148,10 +144,3 @@ requiring adequate airflow and dehumidification during dense flowering.
 Nutrient requirements are moderate to heavy during weeks 4–8 of flowering,
 with a preference for phosphorus and potassium supplementation in the
 final weeks to support trichome production.
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[screen-of-green]]
-
-- [[turkestan-mint-lagochilus-inebrians]]

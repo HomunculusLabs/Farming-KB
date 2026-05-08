@@ -135,7 +135,7 @@ change.
 ## See Also
 
 - [[fukuoka-straw-natural-farming-philosophy]]
-- [[fukuoka-straw-four-principles]]
+- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-seed-balls-direct-seeding]]
 - [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-pest-control-natural-balance]]

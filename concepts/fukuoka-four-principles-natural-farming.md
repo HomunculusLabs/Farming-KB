@@ -112,7 +112,7 @@ Third, that his philosophy is impractical for most farmers. Fukuoka conceded tha
 ## See Also
 
 - [[fukuoka-natural-farming-four-principles]]
-- [[four-principles-of-natural-farming-fukuoka]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-natural-farming-principles]]
@@ -124,5 +124,5 @@ Third, that his philosophy is impractical for most farmers. Fukuoka conceded tha
 - Green Manure and Cover Cropping
 - Soil Food Web and Biological Plowing
 - Pest Outbreaks as Ecological Indicators
-- [[mahayana-and-hinayana-natural-farming]]
+- [[korean-natural-farming-and-jadam]]
 - Energy Efficiency in Farming Systems

@@ -122,7 +122,7 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[duck-keeping]] — Duck manure as compost input
 - [[goat-keeping]] — Goat manure as compost input
 - [[cover-cropping-guide]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[soil-fertility-management]]
 - [[animal-byproducts]]
 - [[cannabis-living-soil-guide]]
@@ -134,4 +134,4 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[composting-systems-design-comparison]]
 - [[permaculture-history-timeline]]
 - [[garden-soil-basics]]
-- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.
+- [[organic-vegetable-growing-and-market-gardening]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.

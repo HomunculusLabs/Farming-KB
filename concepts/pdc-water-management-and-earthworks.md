@@ -103,7 +103,7 @@ Most flood damage comes from minor floods (a few inches), not catastrophic event
 
 ## See Also
 
-- [[swale-construction-guide]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[water-harvesting-techniques-comparison]]
 - [[mollison-pdc-swale-design-water-harvesting]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]

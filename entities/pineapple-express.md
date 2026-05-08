@@ -133,7 +133,7 @@ Pineapple Express has several medical applications owing to its balanced effect 
 
 - [[trainwreck]] — Parent strain with cerebral potency
 - [[jack-herer]] — Another legendary sativa-dominant hybrid
-- [[durban-poison]] — Pure sativa with energizing effects
+- [[cannabis-indoor-growing-guide]] — Pure sativa with energizing effects
 - [[sour-diesel]] — Sativa-dominant strain with creative, energetic effects
-- [[blue-dream]] — Balanced hybrid with similar broad appeal
+- [[cannabis-blue-dream]] — Balanced hybrid with similar broad appeal
 - [[endocannabinoid-system]]

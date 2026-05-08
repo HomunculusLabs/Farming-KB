@@ -20,7 +20,7 @@ sources:
 
 The capacity of the human brain to generate new neurons (neurogenesis) and to
 reorganize existing neural connections (neuroplasticity) represents one of the
-most significant discoveries in modern neuroscience. *The [[cannabis-health-index-scoring]]* documents how the [endocannabinoid system plays a central role in regulating both processes, with important
+most significant discoveries in modern neuroscience. *The [[cannabis-health-index-scoring-system]]* documents how the [endocannabinoid system plays a central role in regulating both processes, with important
 implications for treating neurological disorders, mood conditions, and
 cognitive decline.
 

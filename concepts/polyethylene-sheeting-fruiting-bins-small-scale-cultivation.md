@@ -148,4 +148,3 @@ Cultivators should adjust their misting frequency seasonally rather than maintai
 - [[fruiting-chamber-setup]]
 - [[mushroom-watering]]
 - [[casing-soil-preparation-mushroom-cultivation]]
-- [[psilocybe-cubensis-cultivation]]

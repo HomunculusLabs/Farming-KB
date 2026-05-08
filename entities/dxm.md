@@ -141,8 +141,8 @@ prescription control, while standalone DXM remains OTC.
 - [[dextromethorphan]]
 - opium
 - [[papaver-somniferum]]
-- [[muscimol]]
+- [[muscimol-entity]]
 - [[ibotenic-acid]]
-- [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[nitrous-oxide]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

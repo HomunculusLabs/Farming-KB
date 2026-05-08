@@ -138,18 +138,6 @@ Each stage removed the crop further from the conditions in which it evolved to t
 
 ## The Vicious Cycle of Artificial Growing
 
-The pattern Fukuoka identified was self-reinforcing.
-
-Artificial growing conditions produce plants that are inherently weaker than their naturally-grown counterparts.
-
-These weaker plants are more susceptible to pests and diseases, requiring chemical interventions.
-
-The chemical interventions further degrade the growing environment, requiring still more artificial inputs. Each cycle drives the system further from nature and deeper into dependence on technology. The result is a food supply that is increasingly costly, increasingly dependent on fossil energy, and increasingly removed from the nutritional qualities that natural food provides.
-
-## Connection to Natural Farming Principles
-
-The critique of hothouse and hydroponic agriculture is a specific application of Fukuoka's broader principle that nature cannot be improved upon through human intervention. The movement from open-field cultivation to sealed artificial environments represents the same error that underlies all of scientific agriculture: the belief that isolating and optimizing individual variables can produce results superior to the integrated, self-regulating system of nature. In natural farming, the soil itself is the growing medium, sunlight is the energy source, and the complex ecosystem of microorganisms, insects, and plants provides all the conditions necessary for healthy crop production. No artificial system, no matter how sophisticated, can replicate this integration.
-
 ## See Also
 
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]

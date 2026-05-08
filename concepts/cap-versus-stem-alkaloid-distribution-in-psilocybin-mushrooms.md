@@ -18,7 +18,7 @@ type: concept
 
 # Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
 
-The distribution of [[psilocybin]] and [[psilocin]] between the cap
+The distribution of [[psilocybin-compound]] and [[psilocin]] between the cap
 (pileus) and stem (stipe) of [[psilocybe-cubensis]] reveals important
 patterns about alkaloid biosynthesis and localization within fungal
 fruiting bodies. Research by Bigwood and Beug (1982), published in the
@@ -41,7 +41,7 @@ morphological structures under identical growing conditions.
 
 Across all three strains tested (an M.R. strain, an Ecuadorian strain,
 and an Amazonian strain), the caps generally contained approximately
-twice as much [[psilocybin]] as the stems:
+twice as much [[psilocybin-compound]] as the stems:
 
 - **M.R. strain**: caps 6.7 mg/g versus stems 4.2 mg/g (1.6:1 ratio)
 - **Ecuadorian strain**: caps 7.6 mg/g versus stems 4.7 mg/g (1.6:1)
@@ -148,7 +148,3 @@ which anatomical part of the mushroom is consumed.
 - [[psilocybin-biosynthesis-pathway]] for enzymatic conversion of
   psilocybin to psilocin
 - [[psilocybe-cubensis-cultivation]] for growing methodology context
-- [[psilocybe-cubensis-miniculture-on-rye-grain]] for the cultivation
-  method used in this research
-- [[cannabis-chromatography-cannabinoid-purification]] for analytical technique
-  details

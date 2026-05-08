@@ -148,4 +148,3 @@ species.
 - [[russula-cyanoxantha]]
 - [[boletus-reticulatus]]
 - [[hygrophorus-russula]]
-- [[cantharellus-cibarius]]

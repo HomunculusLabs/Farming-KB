@@ -82,7 +82,7 @@ The connection between European witchcraft and Amazonian/Siberian shamanism also
 
 - [[harner-shamanic-journey-and-altered-states]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[harner-siberian-shamanism-and-amanita]]
+- [[ethnomycology]]
 
 ## Key Solanaceous Plants
 

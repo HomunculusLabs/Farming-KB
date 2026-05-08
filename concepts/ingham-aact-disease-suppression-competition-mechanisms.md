@@ -148,6 +148,3 @@ increased disease pressure, which further stresses the plant.
 
 - [[actively-aerated-compost-tea]]
 - [[ingham-aact-disease-suppression]]
-- [[soil-foodweb-balancing-protocol-ingham]]
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[ingham-trichoderma-biocontrol-fungi-aact]]

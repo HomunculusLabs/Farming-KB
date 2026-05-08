@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 # Fukuoka Japanese Cooking Culture Disappearing
 
-[[natural-farming-fukuoka]] documents the rapid disappearance of Japan's traditional cooking culture, arguing that even as Japanese culinary technique reaches international acclaim, the raw materials that made it possible have been destroyed by [[fukuoka-japanese-diet-worse]] and [[fukuoka-critique-scientific-agriculture]].
+[[natural-farming-fukuoka]] documents the rapid disappearance of Japan's traditional cooking culture, arguing that even as Japanese culinary technique reaches international acclaim, the raw materials that made it possible have been destroyed by [[fukuoka-japanese-diet-worse]] and [[fukuoka-critique-of-scientific-agriculture]].
 
 ## The Skill of the Farmer's Wife
 

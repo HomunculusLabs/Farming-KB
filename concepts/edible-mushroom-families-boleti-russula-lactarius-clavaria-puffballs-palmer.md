@@ -148,4 +148,3 @@ For any species not positively identified as safe, use Palmer's gradual dose pro
 
 ### Historical Context
 Palmer noted the state of public knowledge in 1877: "It seemed to me in 1874, and it appears still, that such general ignorance as exists in regard to a large, well-defined, and important natural kingdom is nothing less than a disgrace." He credited his work with increasing public interest: "its most valuable fruit is in the number now interested compared with those who cared anything about it fifteen years ago."
-- [[clavaria-zollingeri]]

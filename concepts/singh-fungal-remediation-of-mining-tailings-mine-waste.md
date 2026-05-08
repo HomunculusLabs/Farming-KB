@@ -148,4 +148,3 @@ mine tailings in South Africa where AMF-inoculated grasses reduced
 erosion rates by over 90 percent compared to unvegetated controls.
 
 Long-term monitoring shows that fungal-assisted restoration produces
-self-sustaining ecosystems with increasing biodiversity and soil

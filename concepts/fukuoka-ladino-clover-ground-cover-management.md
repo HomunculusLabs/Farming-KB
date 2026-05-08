@@ -131,4 +131,4 @@ the need for any pest management interventions.
 
 - [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-white-clover-ground-cover]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]

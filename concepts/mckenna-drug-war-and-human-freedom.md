@@ -90,13 +90,13 @@ McKenna extended his drug war critique to address the corporate dimension of pro
 A less discussed but equally important aspect of McKenna's analysis concerns the social stigma attached to the deliberate pursuit of altered states of consciousness. In the dominator culture framework outlined in [[mckenna-dominator-vs-partnership-society-model]], the desire to explore non-ordinary states is pathologised as escapism, weakness, or mental illness. McKenna argued that this stigma serves a social control function by delegitimising experiences that might lead individuals to question established authority and social norms. The [[psychedelic-consciousness-models]] that emerge from psychedelic experience -- which emphasise interconnectedness, non-linear time, and the limitations of ego-bound thinking -- are inherently subversive of hierarchical power structures that depend on individuals accepting their assigned roles without question. McKenna saw the destigmatisation of conscious self-exploration as essential to the broader project of creating a society capable of making rational decisions about its relationship with psychoactive substances.
 ## See Also
 
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-dissolution-of-the-dominator-culture]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-catalytic-psychedelics-and-culture]]

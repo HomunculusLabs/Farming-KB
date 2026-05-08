@@ -148,8 +148,3 @@ watercress, Chinese water chestnut, or similar crop.
 For broader permaculture water strategies, see [[water-management]] and [[backyard-water-harvesting]]. The [[swale]] page covers general swale construction techniques, while [[urban-permaculture-swales-raised-beds]] addresses urban applications. Wind protection for road plantings is covered in [[windbreak-and-shelterbelt-design]].
 
 See also:
-[[water-management]]
-[[backyard-water-harvesting]]
-[[swale]]
-[[urban-permaculture-swales-raised-beds]]
-[[windbreak-and-shelterbelt-design]]

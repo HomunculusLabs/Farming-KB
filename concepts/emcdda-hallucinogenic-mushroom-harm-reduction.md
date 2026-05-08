@@ -33,7 +33,7 @@ for the lack of developments in specialised prevention.
 ## Prevention Examples
 
 ### Trimbos Institute (Netherlands)
-Published a flyer about the effects of [[psilocybin]] and mushroom
+Published a flyer about the effects of [[psilocybin-compound]] and mushroom
 consumption. The Trimbos Institute operates under the Dutch Ministry of
 Health and is a leading centre for mental health and addiction
 research.
@@ -146,6 +146,5 @@ of misidentifying wild mushrooms.
 
 - [[emcdda-hallucinogenic-mushroom-health-risks]] for the risks that
   harm reduction aims to mitigate
-- [[emcdda-hallucinogenic-mushroom-legal-status-europe]] for legal
+- [[hallucinogenic-mushroom-legal-status-europe]] for legal
   frameworks that interact with prevention efforts
-- [[emcdda-hallucinogenic-mushroom-markets]] for retail and internet

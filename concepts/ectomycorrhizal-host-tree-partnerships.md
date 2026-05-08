@@ -66,7 +66,7 @@ Most commercially important edible ECM mushrooms fall in the middle of this spec
 
 Forest stands with higher tree species diversity generally support higher ECM fungal diversity. Mixed-species forests with oaks, pines, beeches, and birches support more mushroom species than monoculture stands of any single tree species.
 
-This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to pests and diseases. See [[fungal-conservation-strategies]] and [[mycoforestry-forest-management-with-fungi]] for forest management approaches.
+This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to pests and diseases. See [[ethnomycology]] and [[mycoforestry-forest-management-with-fungi]] for forest management approaches.
 
 ## Partner Selection and Compatibility
 

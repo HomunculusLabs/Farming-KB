@@ -47,7 +47,7 @@ The species has been collected at elevations from approximately 200 to 600 meter
 
 ## Chemistry
 
-Like other bluing Psilocybe species, *P. moravica* contains the psychoactive tryptamine alkaloids [[psilocybin]] and [[psilocin]]. Analytical studies using high-performance liquid chromatography have confirmed the presence of these compounds in fruiting body tissue.
+Like other bluing Psilocybe species, *P. moravica* contains the psychoactive tryptamine alkaloids [[psilocybin-compound]] and [[psilocin]]. Analytical studies using high-performance liquid chromatography have confirmed the presence of these compounds in fruiting body tissue.
 Psilocybin content has been measured at approximately 0.2 to 0.6% of dry weight, while psilocin is present only in trace amounts, likely as a degradation product of psilocybin. [[baeocystin]], a phosphorylated tryptamine derivative, has also been detected in lower concentrations.
 The overall alkaloid profile is very similar to that of the closely related [[psilocybe-serbica]], suggesting comparable psychoactive potency. The characteristic blue bruising results from the enzymatic oxidation of psilocin, which is itself produced by dephosphorylation of psilocybin upon tissue damage.
 Total tryptamine content places *P. moravica* in the moderate range among European Psilocybe species, with potency generally lower than that of well-known taxa such as [[psilocybe-semilanceata]].
@@ -77,5 +77,5 @@ Protected landscape areas and national parks in Moravia, such as those along the
 - [[psilocybe-bohemica]]: morphologically similar species from Bohemia
 - psilocybe arcana: recently described European congener
 - [[psilocybe-semilanceata]]: well-known European species for comparison
-- [[psilocybin]]: primary psychoactive compound
+- [[psilocybin-compound]]: primary psychoactive compound
 - [[baeocystin]]: minor tryptamine alkaloid also present

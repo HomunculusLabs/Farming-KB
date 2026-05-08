@@ -17,7 +17,7 @@ Psilocybin mushrooms are not merely psychoactive organisms; they play functional
 
 ### Saprophytic Decomposition
 
-Psilocybe species are primarily saprophytic decomposers that break down woody debris and other organic matter. By processing dead plant material, they contribute to soil formation and nutrient cycling in forest and garden ecosystems. Species in section Cyanescens (including P. cyanescens, P. azurescens, and P. allenii) are particularly aggressive decomposers of hardwood lignin and cellulose, capable of colonizing fresh wood chips within weeks. Their enzymatic arsenal includes lignin peroxidases, manganese peroxidases, and laccases -- the same enzyme families that make white-rot fungi valuable for [[mycoremediation-mining-waste]] of contaminated environments. By breaking down recalcitrant woody carbon, these species release nutrients locked in dead wood back into forms accessible to plants and other soil organisms.
+Psilocybe species are primarily saprophytic decomposers that break down woody debris and other organic matter. By processing dead plant material, they contribute to soil formation and nutrient cycling in forest and garden ecosystems. Species in section Cyanescens (including P. cyanescens, P. azurescens, and P. allenii) are particularly aggressive decomposers of hardwood lignin and cellulose, capable of colonizing fresh wood chips within weeks. Their enzymatic arsenal includes lignin peroxidases, manganese peroxidases, and laccases -- the same enzyme families that make white-rot fungi valuable for [[bioremediation-using-fungi]] of contaminated environments. By breaking down recalcitrant woody carbon, these species release nutrients locked in dead wood back into forms accessible to plants and other soil organisms.
 
 ### Mycorrhizal Connections
 
@@ -25,7 +25,7 @@ While Psilocybe species are not mycorrhizal partners in the traditional sense (t
 
 ### Role in the Soil Food Web
 
-Within the [[nutrient-retention-soil-food-web]], psilocybin mushrooms serve as food sources for multiple trophic levels. Beyond the insect larvae that directly consume fruiting bodies, fungal hyphae are grazed by collembola (springtails) and soil mites, which in turn become prey for predatory mites and nematodes. When fruiting bodies senesce and decompose, their chitin-rich tissue becomes substrate for [[query-what-is-the-role-of-actinomycetes-in-soil-health]] and other chitin-degrading bacteria, contributing to the nitrogen cycle through chitin mineralization. This positions psilocybin mushrooms as active participants in nutrient cycling rather than mere passive decomposers.
+Within the [[composting-and-soil-biology]], psilocybin mushrooms serve as food sources for multiple trophic levels. Beyond the insect larvae that directly consume fruiting bodies, fungal hyphae are grazed by collembola (springtails) and soil mites, which in turn become prey for predatory mites and nematodes. When fruiting bodies senesce and decompose, their chitin-rich tissue becomes substrate for [[query-what-is-the-role-of-actinomycetes-in-soil-health]] and other chitin-degrading bacteria, contributing to the nitrogen cycle through chitin mineralization. This positions psilocybin mushrooms as active participants in nutrient cycling rather than mere passive decomposers.
 
 ### Species-Specific Ecology
 
@@ -80,7 +80,7 @@ The Mazatec curandera Maria Sabina's mushroom ceremonies brought psilocybin mush
 
 ### Stamets' Taxonomic Work
 
-Stamets' early scientific contributions at Evergreen State College included identifying and classifying new Psilocybe species, including a yet-unnamed Californian species he cultured. His taxonomic work, documented in *Psilocybin Mushrooms of the World* (1996), provided systematic descriptions of habitat, distribution, and microscopic features that advanced the scientific understanding of these fungi. See [[psilocybe-cubensis-profile]] for more on individual species.
+Stamets' early scientific contributions at Evergreen State College included identifying and classifying new Psilocybe species, including a yet-unnamed Californian species he cultured. His taxonomic work, documented in *Psilocybin Mushrooms of the World* (1996), provided systematic descriptions of habitat, distribution, and microscopic features that advanced the scientific understanding of these fungi. See [[psychedelic-mushrooms-species-and-identification]] for more on individual species.
 
 ## Woodland Cultivation
 
@@ -117,7 +117,7 @@ The scale of fungal spore dispersal is staggering. Stamets' estimate of 5 trilli
 - [[fungal-spore-biology]] -- dispersal biology
 - [[mycological-landscaping-and-gardening]] -- landscape applications
 - [[mycorestoration-ecology]] -- ecological restoration with fungi
-- [[mycoremediation-mining-waste]] -- fungi for environmental cleanup
+- [[bioremediation-using-fungi]] -- fungi for environmental cleanup
 
 ## Related
 

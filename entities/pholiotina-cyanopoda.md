@@ -92,7 +92,7 @@ psilocybin-containing species, including [[panaeolus-cyanescens]],
 convergence may reflect selective advantages of psilocybin production in
 environments with high invertebrate grazing pressure.
 ## Chemistry and Bioactive Compounds
-Pholiotina cyanopoda has been reported to contain [[psilocybin]] and possibly
+Pholiotina cyanopoda has been reported to contain [[psilocybin-compound]] and possibly
 [[psilocin]], the principal indole alkaloids responsible for its psychoactive
 properties. Analytical data is limited due to the scarcity of collected
 specimens, and most reports are based on thin-layer chromatography (TLC)
@@ -121,5 +121,5 @@ identification.
 - [[pholiotina-filaris-profile]]
 - [[conocybe-cyanopus]] — a closely related psilocybin-containing species
 - [[conocybe-kuehneriana]] — another bluing Conocybe species with confirmed psilocybin
-- [[psilocybin]] — the primary psychoactive compound found in this species
+- [[psilocybin-compound]] — the primary psychoactive compound found in this species
 - [[panaeolus-cyanescens]] — a commonly encountered coprophilous psychoactive species

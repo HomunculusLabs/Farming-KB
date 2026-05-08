@@ -148,4 +148,3 @@ areas, cropland deteriorates fastest under conventional row-cropping
 
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 - [[savory-holistic-resource-management-overgrazing]]
-- [[savory-water-cycle-management]]

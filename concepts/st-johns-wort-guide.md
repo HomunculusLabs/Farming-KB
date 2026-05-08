@@ -148,5 +148,3 @@ This is the most prized preparation:
 - [[hemenway-hugelkultur-guide]]
 - [[valerian-growing-guide]] -- often combined with St. John's Wort in
   formulas for anxiety and depression
-- [[lemon-balm-growing-guide]] -- another nervine herb with mood-supporting
-  properties

@@ -141,40 +141,6 @@ Both species are relatively pest-free compared to most fruit trees, reflecting t
 | **Overall pest pressure** | Low to moderate | Low |
 
 Carob moth is the most significant carob-specific pest, infesting pods in storage. Tamarind's primary post-harvest issue is fungal growth on pods stored in humid conditions.
-
-## Agroforestry and Permaculture Roles
-
-| Role | Tamarind | Carob |
-|---|---|---|
-| **Shade tree** | Excellent (dense canopy) | Good (moderate canopy) |
-| **Windbreak** | Excellent | Good |
-| **Erosion control** | Very good (deep roots) | Excellent (deep roots) |
-| **Timber value** | High (hard, durable) | Moderate (used for tools) |
-| **Fodder** | Leaves and seed meal | Pods (livestock feed) |
-| **Nectar source** | Good (dry season) | Good (autumn) |
-| **Nitrogen fixation** | No | No |
-| **Food forest layer** | Canopy / emergent | Mid-canopy |
-| **Zone** | 2–3 | 2–3 |
-
-## When to Choose Tamarind
-
-- You live in a tropical or subtropical climate (USDA 10–12)
-- You want a souring agent for cooking (curries, sauces, chutneys)
-- You have hot, humid summers and want a shade tree that tolerates moisture
-- You want timber as a secondary product
-- Your cuisine involves Indian, Southeast Asian, Mexican, or African flavors
-- You need a large, impressive specimen tree for shade
-
-## When to Choose Carob
-
-- You live in a Mediterranean or warm temperate climate (USDA 9–11)
-- You want a cocoa substitute or naturally sweet pod for snacking
-- Your summers are hot and dry with cool, wet winters
-- You have alkaline or saline soils
-- You want a more compact tree suited to smaller spaces
-- You are interested in producing locust bean gum for food processing
-- Frost tolerance is a requirement
-
 ## See Also
 
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]] — comprehensive tamarind growing guide

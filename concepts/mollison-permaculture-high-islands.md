@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Mollison describes the Hawaiian Ohana land division system as a model of integrated watershed management, and provides design guidance for volcanic and granitic high islands with their unique wet/dry slope patterns, tidal wave risks, and microclimates. High islands over 1,000 feet create their own weather systems and present extraordinary opportunities for [[permaculture-design-principles-beginners]] application.
+Mollison describes the Hawaiian Ohana land division system as a model of integrated watershed management, and provides design guidance for volcanic and granitic high islands with their unique wet/dry slope patterns, tidal wave risks, and microclimates. High islands over 1,000 feet create their own weather systems and present extraordinary opportunities for [[permaculture-design-principles]] application.
 
 ## High Island Climate Patterns
 

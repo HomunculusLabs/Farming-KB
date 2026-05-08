@@ -66,7 +66,7 @@ Hot springs vary enormously in temperature, pH, mineral content, and chemical co
 
 The interfaces between geothermal and ambient-temperature zones may be particularly diverse, as both thermophilic and mesophilic species can coexist in these transition areas.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-community-assembly]]
+[[the-soil-food-web]] [[fungal-community-assembly]]
 
 ## Safety Considerations
 

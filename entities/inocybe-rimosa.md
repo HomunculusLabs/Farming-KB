@@ -147,5 +147,4 @@ morphology, cystidia shape, and presence or absence of clamp connections.
 
 [[paxillus-involutus]], [[amanita-muscaria]], [[clitocybe-gibba]],
 [[russula-virescens]], [[russula-brevipes]], [[armillaria-mellea]],
-[[boletus-edulis]], [[lactarius-indigo]], [[hericium-erinaceus]],
-[[pleurotus-ostreatus]]
+[[boletus-edulis-entity]], [[lactarius-indigo]], [[hericium-erinaceus]],

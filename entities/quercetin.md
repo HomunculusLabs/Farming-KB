@@ -69,7 +69,7 @@ Quercetin's bioavailability is a major research focus due to its generally low o
 
 **Excretion:** Primarily via feces (60-80%) and urine (5-10%) within 24-72 hours. Elimination half-life is approximately 11-28 hours.
 
-**Formulation strategies** to improve bioavailability include phytosomal complexes (quercetin phosphatidylcholine), liposomal delivery, nanoemulsions, and co-administration with bromelain or [[vitamin C]] (ascorbic acid). Phytosomal formulations show 5-20× improved absorption.
+**Formulation strategies** to improve bioavailability include phytosomal complexes (quercetin phosphatidylcholine), liposomal delivery, nanoemulsions, and co-administration with bromelain or [[vitamin-c]] (ascorbic acid). Phytosomal formulations show 5-20× improved absorption.
 
 ## Pharmacological Activities
 
@@ -104,7 +104,7 @@ Concerning interactions include: inhibition of CYP3A4, CYP2C9, and P-glycoprotei
 
 Quercetin's bioavailability and efficacy are enhanced through several dietary synergies:
 
-- **[[vitamin C]] (ascorbic acid):** Co-consumption prevents quercetin oxidation in the gastrointestinal tract and may improve absorption by 2-3×
+- **[[vitamin-c]] (ascorbic acid):** Co-consumption prevents quercetin oxidation in the gastrointestinal tract and may improve absorption by 2-3×
 - **bromelain (from pineapple):** Frequently combined in supplement formulations; bromelain may enhance quercetin absorption and has complementary anti-inflammatory action
 - **[[piperine]] (from black pepper):** Inhibits hepatic glucuronidation, potentially increasing quercetin bioavailability
 - **Fats:** Quercetin absorption is enhanced when consumed with dietary fat due to improved micelle formation in the intestine

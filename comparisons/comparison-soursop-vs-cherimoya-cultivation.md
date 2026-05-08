@@ -65,7 +65,7 @@ Both species prefer well-drained, slightly acidic to neutral soils but differ in
 | **Drainage** | Moderate to good; tolerates periodic waterlogging | Must be excellent; root rot is a major cause of death |
 | **Fertility** | Moderate; responds to organic matter | Moderate to high; heavier feeder than soursop |
 | **Salinity** | Low tolerance | Very low tolerance |
-Both species develop relatively shallow root systems compared to many fruit trees. Raised beds or mounding is recommended for cherimoya in areas with imperfect drainage.
+Both species develop relatively shallow root systems compared to many fruit trees. [[raised-beds-vs-in-ground-vs-containers]] or mounding is recommended for cherimoya in areas with imperfect drainage.
 
 ## Propagation
 
@@ -122,7 +122,7 @@ Without hand pollination, cherimoya fruit is often small, misshapen, and has few
 
 Soursop requires consistent moisture for best production but tolerates some dry periods. Mature trees need approximately 30–50 mm of water per week during the growing season.
 
-Cherimoya has a more critical need for regular irrigation, especially during flowering and fruit development. Water stress during these periods causes excessive flower drop and small fruit. Drip irrigation is strongly recommended. Avoid waterlogging at all costs.
+Cherimoya has a more critical need for regular irrigation, especially during flowering and fruit development. Water stress during these periods causes excessive flower drop and small fruit. [[drip-irrigation-cannabis]] is strongly recommended. Avoid waterlogging at all costs.
 
 ## Pests and Diseases
 
@@ -132,7 +132,7 @@ Both species are susceptible to:
 - **Annona seed borer** (*Bephratelloides* spp.): Larvae bore into seeds, causing premature fruit drop
 - **Mealybugs** (*Planococcus* spp.): Sap-sucking; promote sooty mold
 - **Root rot** (*Phytophthora*, *Pythium* spp.): Major cause of tree death, especially in poorly drained soils
-- **Anthracnose** (*Colletotrichum gloeosporioides*): Fruit rot, leaf spots
+- **Anthracnose** (*[[colletotrichum-gloeosporioides]]*): Fruit rot, leaf spots
 
 ### Species-Specific Issues
 
@@ -142,57 +142,6 @@ Both species are susceptible to:
 | **Red mite** | Occasional in hot, dry periods | Significant in some growing areas |
 | **Wasp larvae** (*Bephratelloides cubensis*) | Primary fruit pest in the Americas | Less prevalent |
 | **Blossom blight** | Rare | Can be problematic in humid conditions |
-| **Powdery mildew** | Uncommon | Can affect young growth in cool, damp conditions |
-
-## Harvest and Yield
-
-| Parameter | Soursop | Cherimoya |
-|-----------|---------|-----------|
-| **Time to first fruit** | 3–5 years (grafted); 4–6 (seed) | 2–4 years (grafted); 4–6 (seed) |
-| **Season** | Varies by location; often peaks in summer-fall | Typically late summer through winter |
-| **Yield per tree** | 15–30 kg at maturity; up to 60 kg | 15–30 kg at maturity; up to 50 kg |
-| **Yield per hectare** | 8–15 tonnes/ha (varies widely) | 6–12 tonnes/ha |
-| **Harvest indicator** | Skin turns yellow-green; spines soften | Skin turns slightly yellow-green; yields to gentle pressure |
-| **Post-harvest life** | 3–5 days at room temperature; 1–2 weeks refrigerated | 5–10 days at room temperature; 2–3 weeks refrigerated |
-| **Shelf life** | Short; bruising is a major issue | Moderate; fruit is firmer than soursop |
-
-Both fruits are climacteric — they ripen after harvest. Soursop is more delicate and bruises easily, making it difficult to transport long distances. Cherimoya has somewhat better post-harvest characteristics, which partly explains its broader commercial availability in temperate markets.
-
-## Nutritional Comparison (per 100 g fresh pulp)
-
-| Nutrient | Soursop | Cherimoya |
-|----------|---------|-----------|
-| Calories | 66 kcal | 75 kcal |
-| Carbohydrates | 16.8 g | 17.7 g |
-| Fiber | 3.3 g | 3.0 g |
-| Vitamin C | 20.6 mg | 12.5 mg |
-| Potassium | 278 mg | 382 mg |
-| Vitamin B6 | 0.257 mg | 0.257 mg |
-| Magnesium | 21 mg | 17 mg |
-| Iron | 0.6 mg | 0.4 mg |
-
-Both fruits are good sources of dietary fiber, potassium, and vitamin C. Soursop has been studied for its acetogenin content — compounds with potential antitumor, antiparasitic, and insecticidal properties. Cherimoya contains fewer acetogenins but offers a milder, more universally appealing flavor.
-
-## Which Should You Grow?
-
-**Choose Soursop if:**
-- You live in a warm tropical or subtropical climate (no frost)
-- You want a low-maintenance, productive tree
-- You enjoy the distinctive tart, pineapple-like flavor
-- You plan to make juices, smoothies, or traditional remedies
-- You don't want to hand-pollinate
-
-**Choose Cherimoya if:**
-- You live in a Mediterranean, subtropical, or cool highland climate
-- You're willing to invest labor in hand pollination for premium fruit
-- You value exceptionally smooth, creamy, dessert-quality fruit
-- You can provide excellent drainage and wind protection
-- You want a fruit that commands premium market prices
-
-**Grow Both if:**
-- You live in a frost-free subtropical area with warm summers and cool winter nights (e.g., coastal Southern California, parts of coastal Australia, highland tropical regions)
-- You want staggered harvests — soursop fruits mainly in summer-fall, cherimoya in fall-winter
-
 ## See Also
 
 - [[comparison-grafting-vs-budding-fruit-trees]]

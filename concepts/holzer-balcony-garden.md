@@ -77,7 +77,7 @@ If neighbours also become interested, create a terrace system reaching from stor
 
 - [[earthworm-breeding]]
 - [[sepp-holzer-method]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 
 ## Practical Implementation
 

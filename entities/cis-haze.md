@@ -116,7 +116,7 @@ Contraindications include use by individuals with a personal or family history o
 - thc
 - cbd
 - [[linalool]]
-- [[white-widow]]
+- [[white-widow-entity]]
 - [[gorilla-glue]]
-- [[gelato]]
+- [[gelato-cannabis]]
 - [[mac-1]]

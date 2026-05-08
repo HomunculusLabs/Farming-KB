@@ -109,7 +109,7 @@ Analytical considerations for agaritine research present additional challenges:
 - [[beta-glucans]] — Immunomodulatory polysaccharides found in *Agaricus* species
 - [[ergothioneine]] — Antioxidant amino acid abundant in mushrooms, potentially counteracting agaritine toxicity
 - hydrazines — Chemical class to which agaritine belongs; other toxic hydrazines include gyromitrin from *Gyromitra* species
-- [[psilocybin]] — Another fungal secondary metabolite with significant human pharmacological activity
+- [[psilocybin-compound]] — Another fungal secondary metabolite with significant human pharmacological activity
 - [[gyromitrin]] — Volatile hydrazine toxin from false morel (*Gyromitra esculenta*) with acute hepatotoxic effects
 - monomethylhydrazine — Hydrolysis product of gyromitrin; structurally related to agaritine's hydrazine moiety
 - [[shiitake-strain-classification-and-substrate-formulas]] — *Lentinula edodes*, an edible mushroom containing trace agaritine and numerous beneficial compounds

@@ -132,4 +132,4 @@ Homeowners can inadvertently worsen infestations by keeping rhizomorphs soaked w
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[fungal-biodiversity-in-soil-ecosystems]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]

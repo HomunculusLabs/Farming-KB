@@ -120,7 +120,7 @@ Several named phenotypes and crosses have emerged from Zookies genetics, reflect
 - [[gmo-garlic-cookies]]
 - [[gelato-cannabis]]
 - [[biscotti-cannabis]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[runtz-cannabis]]
 - [[og-kush]]
 - [[kush-mints]]

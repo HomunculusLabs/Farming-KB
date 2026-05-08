@@ -147,11 +147,3 @@ for maintaining and building humus:
 - Compost all available organic waste and return it to the soil
 - See [[gaias-garden-soil-food-web-and-humus]] for the complete
   picture
-
-## See Also
-
-- [[hugelkultur-bed-construction-detailed]]
-- [[composting-science-solomon]]
-- [[zone-1-intensive-garden]]
-- [[permaculture-zones-in-practice]]
-- [[fungal-diversity-arid-environments]]

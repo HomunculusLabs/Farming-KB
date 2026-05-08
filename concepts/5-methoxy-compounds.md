@@ -85,7 +85,7 @@ The structure-activity relationships (SAR) of tryptamines, systematically explor
 
 The most fundamental SAR distinction among tryptamines concerns the substitution pattern on the indole ring. Two positions dominate:
 
-**4-position (phenolic)**: The home of the [[psilocybin]] family (4-HO-DMT, 4-HO-MET, 4-HO-DIPT, etc.). 4-hydroxy and 4-methoxy substitution produces compounds with rich visual phenomenology, moderate duration (3-6 hours), and full psychedelic character.
+**4-position (phenolic)**: The home of the [[psilocybin-compound]] family (4-HO-DMT, 4-HO-MET, 4-HO-DIPT, etc.). 4-hydroxy and 4-methoxy substitution produces compounds with rich visual phenomenology, moderate duration (3-6 hours), and full psychedelic character.
 
 **5-position**: 5-methoxy substitution produces compounds of extraordinary potency (5-MeO-DMT active at 6-20 mg smoked vs DMT at 60-100 mg) but with a notably different qualitative profile: more stoning, less visually rich, more physically overwhelming.
 

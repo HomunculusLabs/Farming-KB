@@ -93,6 +93,6 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 
 ## Related
 
-- [[permaculture-plant-selection-guide]]
-- [[difficult-site-planting]]
+- [[permaculture-design]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[bee-forage-plant-system]]

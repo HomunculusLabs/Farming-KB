@@ -15,7 +15,7 @@ created: 2026-05-03
 
 ## Overview
 
-Cacao (*Theobroma cacao*) and [[black pepper]] (*Piper nigrum*) are two of the world's most economically significant tropical crops. Cacao is the source of chocolate and cocoa products, cultivated primarily for its seeds (beans) enclosed in large pods. Black pepper, known as the "king of spices," produces dried berries used as a universal condiment. Despite sharing tropical origins, they differ profoundly in growth habit — cacao is a small evergreen understory tree, while black pepper is a woody climbing vine. Both crops play important roles in [[agroforestry]] and [[permaculture]] systems, often grown together in multi-strata tropical polycultures.
+Cacao (*Theobroma cacao*) and [[black-pepper]] (*Piper nigrum*) are two of the world's most economically significant tropical crops. Cacao is the source of chocolate and cocoa products, cultivated primarily for its seeds (beans) enclosed in large pods. Black pepper, known as the "king of spices," produces dried berries used as a universal condiment. Despite sharing tropical origins, they differ profoundly in growth habit — cacao is a small evergreen understory tree, while black pepper is a woody climbing vine. Both crops play important roles in [[agroforestry]] and [[permaculture]] systems, often grown together in multi-strata tropical polycultures.
 
 This comparison examines their cultivation requirements side by side, highlighting both contrasts and synergies for growers considering either or both crops.
 
@@ -61,7 +61,7 @@ Both crops are confined to humid tropical and subtropical regions, but their spe
 
 This is one of the most significant practical differences between the two crops.
 
-**Cacao** is an understory species evolved beneath the canopy of Amazonian rainforests. Young cacao trees require 40–50% shade during their first 2–3 years. Mature trees produce optimally under 25–40% overhead shade, though full-sun hybrid varieties have been developed. Shade trees (e.g., [[gliricidia-sepium]], [[Inga spp.]], [[Erythrina spp.]]) regulate temperature, reduce evapotranspiration, and improve soil fertility through leaf litter and nitrogen fixation. Shade management is critical — excessive shade reduces yield, while insufficient shade causes leaf scorch and stress.
+**Cacao** is an understory species evolved beneath the canopy of Amazonian rainforests. Young cacao trees require 40–50% shade during their first 2–3 years. Mature trees produce optimally under 25–40% overhead shade, though full-sun hybrid varieties have been developed. Shade trees (e.g., [[gliricidia-sepium]], [[inga-spp.]], [[erythrina-spp.]]) regulate temperature, reduce evapotranspiration, and improve soil fertility through leaf litter and nitrogen fixation. Shade management is critical — excessive shade reduces yield, while insufficient shade causes leaf scorch and stress.
 
 **Black pepper** is a climbing vine that requires physical support structures for vertical growth. In traditional systems, living support trees (standards) such as [[areca-catechu]] (areca palm), Garuga pinnata, or Erythrina indica are used. In modern intensive systems, concrete or wooden poles with wire trellises are employed. Vines are trained to climb the support by tying and periodic training, reaching heights of 5–10 m. Black pepper does not require shade; in fact, it performs best in full to partial sun, and excessive shade markedly reduces flowering and yield. This complementary relationship — cacao needing shade above, black pepper needing support below — makes them particularly compatible in integrated tropical farming systems.
 
@@ -81,7 +81,7 @@ This is one of the most significant practical differences between the two crops.
 
 **Cacao** faces several major pests and diseases. The most devastating is frosty pod rot (*Moniliophthora roreri*) in Latin America, along with witches' broom (*Moniliophthora perniciosa*) and black pod disease (*Phytophthora palmivora* and *P. megakarya*). Major insect pests include mirids (Sahlbergella spp.), cocoa pod borers (*Conopomorpha cramerella*), and cocoa swollen shoot virus transmitted by mealybugs. CSSV is a particularly serious threat in West Africa, where it has destroyed hundreds of thousands of hectares of cacao since the 1930s.
 
-**Black pepper** is susceptible to a different set of pathogens. The most devastating disease is [[quick wilt]] (foot rot) caused by *Phytophthora capsici*, which can destroy entire plantations. Slow decline (slow wilt), caused by *Radopholus similis* (burrowing nematode) and *Fusarium* spp., is another major constraint. Pollu disease (stunt disease), caused by infected planting material, affects berry development. Major insect pests include pepper berry borers, scale insects, and nematodes. Anthracnose (*Colletotrichum gloeosporioides*) affects leaves and spikes during prolonged wet weather. Integrated pest management combining resistant varieties, cultural practices, and targeted fungicide application is essential for sustainable production of both crops.
+**Black pepper** is susceptible to a different set of pathogens. The most devastating disease is [[quick-wilt]] (foot rot) caused by *Phytophthora capsici*, which can destroy entire plantations. Slow decline (slow wilt), caused by *Radopholus similis* (burrowing nematode) and *Fusarium* spp., is another major constraint. Pollu disease (stunt disease), caused by infected planting material, affects berry development. Major insect pests include pepper berry borers, scale insects, and nematodes. Anthracnose (*Colletotrichum gloeosporioides*) affects leaves and spikes during prolonged wet weather. Integrated pest management combining resistant varieties, cultural practices, and targeted fungicide application is essential for sustainable production of both crops.
 
 ## Harvest and Post-Harvest Processing
 
@@ -97,7 +97,7 @@ This is one of the most significant practical differences between the two crops.
 
 ## Role in Agroforestry and Permaculture Systems
 
-Both crops are central to [[tropical agroforestry]] and [[permaculture]] design.
+Both crops are central to [[tropical-agroforestry]] and [[permaculture]] design.
 
 **Cacao** is a classic understory component in multi-strata agroforestry systems. It is commonly intercropped with shade trees (leguminous or timber species), banana/plantain as temporary shade, and fruit trees at the mid-canopy level. Cacao agroforests in West Africa and Indonesia mimic natural forest structure, providing biodiversity habitat alongside crop production. In permaculture, cacao is placed in the understory guild, integrated with nitrogen-fixing support species and mulch-producing plants.
 
@@ -111,7 +111,7 @@ The two crops can be combined in integrated systems: shade trees that protect ca
 
 **Black pepper** is traded on international spice markets with India, Vietnam, Brazil, and Indonesia as the leading producers. Global production exceeds 600,000 tonnes annually. Vietnam dominates export volume, while India is known for high-quality grades like Malabar Garbled. Pepper prices have been highly volatile, ranging from USD 3,000 to over USD 12,000 per tonne over the past decade. Organic and single-origin peppercorns attract premium pricing. The market is less structured than cacao, with many smallholders and complex supply chains.
 
-Both crops offer important income diversification for smallholder farmers in the tropics and are central to [[sustainable agriculture]] certification programs (organic, Fairtrade, Rainforest Alliance). Certification premiums typically range from 10–20% above conventional prices for both crops. However, certification costs and compliance burdens can be significant for smallholders. Direct trade and bean-to-bar chocolate sourcing have created new market channels for cacao producers, while specialty pepper markets (e.g., Tellicherry, Sarawak) offer similar niche opportunities for black pepper growers.
+Both crops offer important income diversification for smallholder farmers in the tropics and are central to [[sustainable-agriculture]] certification programs (organic, Fairtrade, Rainforest Alliance). Certification premiums typically range from 10–20% above conventional prices for both crops. However, certification costs and compliance burdens can be significant for smallholders. Direct trade and bean-to-bar chocolate sourcing have created new market channels for cacao producers, while specialty pepper markets (e.g., Tellicherry, Sarawak) offer similar niche opportunities for black pepper growers.
 
 ## Summary Comparison Table
 

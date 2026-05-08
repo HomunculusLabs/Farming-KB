@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-**Lion's Mane** (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group. Native to North America, Europe, and Asia, it is distinguished by its cascading white spines that resemble a lion's mane. Long valued in [[Traditional Chinese Medicine]] (TCM) and [[Japanese cuisine]], Lion's Mane has attracted significant modern scientific interest for its potential [[nootropic]] and [[neuroprotective]] properties. Research has focused on its unique bioactive compounds — notably hericenones and erinacines — which stimulate [[nerve growth factor]] (NGF) synthesis and may support cognitive function, nerve regeneration, and neurological health.
+**Lion's Mane** (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group. Native to North America, Europe, and Asia, it is distinguished by its cascading white spines that resemble a lion's mane. Long valued in [[traditional-chinese-medicine]] (TCM) and [[japanese-cuisine]], Lion's Mane has attracted significant modern scientific interest for its potential [[nootropic]] and [[neuroprotective]] properties. Research has focused on its unique bioactive compounds — notably hericenones and erinacines — which stimulate [[nerve-growth-factor]] (NGF) synthesis and may support cognitive function, nerve regeneration, and neurological health.
 
 ## Taxonomy & Classification
 
@@ -42,7 +42,7 @@ sources:
 | Genus | *Hericium* |
 | Species | *H. erinaceus* |
 
-The species was first described scientifically by [[Karl Friedrich Wilhelm Hoffmann|Hoffmann]] in 1781 and later validated under its current name by [[Persoon]]. It is closely related to other *Hericium* species including *H. coralloides* ([[Coral Hedgehog]]) and *H. americanum* ([[Bear's Head Tooth]]), which share the characteristic spiny fruiting body but differ in branching patterns.
+The species was first described scientifically by [[karl-friedrich-wilhelm-hoffmann|Hoffmann]] in 1781 and later validated under its current name by [[Persoon]]. It is closely related to other *Hericium* species including *H. coralloides* ([[coral-hedgehog]]) and *H. americanum* ([[bear's-head-tooth]]), which share the characteristic spiny fruiting body but differ in branching patterns.
 
 ## Morphology & Identification
 
@@ -77,8 +77,8 @@ Lion's Mane contains several classes of bioactive compounds that underpin its me
 
 Lion's Mane has been used for centuries in East Asian medical traditions:
 
-- In [[Traditional Chinese Medicine]], it is known as *hóu tóu gū* (猴头菇, "monkey head mushroom") and has been prescribed for digestive disorders, stomach ulcers, and general weakness.
-- In [[Japanese herbal medicine]] (*Kampo*), it is valued as a tonic for the [[gastrointestinal tract]] and for promoting overall vitality.
+- In [[traditional-chinese-medicine]], it is known as *hóu tóu gū* (猴头菇, "monkey head mushroom") and has been prescribed for digestive disorders, stomach ulcers, and general weakness.
+- In [[japanese-herbal-medicine]] (*Kampo*), it is valued as a tonic for the [[gastrointestinal-tract]] and for promoting overall vitality.
 - Traditional practitioners have also used it to support cognitive function in aging individuals, presaging modern neuropharmacological research.
 
 The mushroom has historically been consumed as a decoction, dried powder, or whole food preparation. It is classified as a food-grade medicinal mushroom with a long history of safe dietary use.
@@ -87,15 +87,15 @@ The mushroom has historically been consumed as a decoction, dried powder, or who
 
 ### Neuroprotection and Cognitive Function
 
-The most compelling area of modern research concerns Lion's Mane's effects on the nervous system. Both hericenones and erinacines have been demonstrated to cross the [[blood-brain barrier]] and stimulate synthesis of [[nerve growth factor]] (NGF) and [[brain-derived neurotrophic factor]] (BDNF) — proteins critical for neuronal growth, maintenance, and survival.
+The most compelling area of modern research concerns Lion's Mane's effects on the nervous system. Both hericenones and erinacines have been demonstrated to cross the [[blood-brain-barrier]] and stimulate synthesis of [[nerve-growth-factor]] (NGF) and [[brain-derived-neurotrophic-factor]] (BDNF) — proteins critical for neuronal growth, maintenance, and survival.
 
 A landmark double-blind, placebo-controlled clinical trial by Mori et al. (2009) in Japanese adults aged 50–80 with mild cognitive impairment showed that oral intake of Lion's Mane (3 g/day for 16 weeks) significantly improved cognitive function compared to placebo, though benefits declined after supplementation ceased.
 
 Animal studies have demonstrated that Lion's Mane extract can:
-- Reduce [[amyloid-beta]] plaque deposition in [[Alzheimer's disease]] mouse models.
-- Promote [[peripheral nerve regeneration]] following injury.
+- Reduce [[amyloid-beta]] plaque deposition in [[alzheimer's-disease]] mouse models.
+- Promote [[peripheral-nerve-regeneration]] following injury.
 - Reduce symptoms of [[anxiety]] and [[depression]] in rodent models.
-- Protect against [[ischemic stroke]] damage.
+- Protect against [[ischemic-stroke]] damage.
 
 ### Anti-inflammatory and Immunomodulatory Effects
 
@@ -103,7 +103,7 @@ Animal studies have demonstrated that Lion's Mane extract can:
 
 ### Gastroprotective Effects
 
-Consistent with its traditional use, research supports Lion's Mane's protective effects on the gastric mucosa. Studies have shown it can inhibit [[Helicobacter pylori]] growth and reduce gastric ulcer formation in animal models.
+Consistent with its traditional use, research supports Lion's Mane's protective effects on the gastric mucosa. Studies have shown it can inhibit [[helicobacter-pylori]] growth and reduce gastric ulcer formation in animal models.
 
 > **Note**: While preclinical evidence is strong, large-scale human clinical trials remain limited. Most clinical data come from small studies, and more rigorous research is needed to establish definitive therapeutic protocols.
 
@@ -143,10 +143,8 @@ No serious adverse effects have been reported in clinical trials using doses up 
 
 ## See Also
 
-- [[Medicinal Mushrooms]]
-- [[Nerve Growth Factor]]
+- [[medicinal-mushrooms]]
+- [[nerve-growth-factor]]
 - [[Reishi]] (*Ganoderma lucidum*)
 - [[Cordyceps]] (*Ophiocordyceps sinensis*)
-- [[Turkey Tail]] (*Trametes versicolor*)
-- [[Nootropics]]
-- [[Mycology]]
+- [[turkey-tail]] (*Trametes versicolor*)

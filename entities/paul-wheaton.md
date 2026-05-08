@@ -148,4 +148,3 @@ substantial and well-documented.
 - [[food-forest]]
 - [[paul-stamets]]
 - [[masanobu-fukuoka]]
-- [[joel-salatin]]

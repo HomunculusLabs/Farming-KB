@@ -42,7 +42,7 @@ Once you understand your site's natural patterns, the sector analysis organizes 
 
 Each sector represents an energy flow that crosses your property from a particular direction. For example, the winter sun sector tells you where to place cold-sensitive elements, the wind sector informs shelterbelt placement, and the water sector guides swale and pond positioning.
 
-The [[holmgren-zones-and-sectors-design-framework]] provides the most comprehensive treatment of this topic and explains how zones and sectors interact to create an efficient and resilient design.
+The [[permaculture-design]] provides the most comprehensive treatment of this topic and explains how zones and sectors interact to create an efficient and resilient design.
 
 After sectors are mapped, the zone system organizes your design by frequency of human interaction and maintenance needs. The [[permaculture-beginners-guide-zones-and-sectors]] explains the five zones in detail.
 
@@ -89,7 +89,7 @@ Design is an iterative process, not a one-time event. Your plan will evolve as y
 - Design [[food-forest-design]] systems in lower zones for long-term food production with minimal maintenance
 - [[homestead-permaculture-design]] integrates all elements into a cohesive, self-sustaining property plan
 - [[faires-zone-and-sector-planning]] maps energy flows (sun, wind, water, wildlife) that cross your property
-- [[holmgren-zones-and-sectors-design-framework]] provides the most comprehensive zone and sector methodology
+- [[permaculture-design]] provides the most comprehensive zone and sector methodology
 - [[backyard-water-harvesting]] captures roof runoff for garden irrigation
 - [[phytoremediation]] covers the soil health foundation all systems depend on
 - Access paths should follow natural movement patterns to reduce maintenance energy

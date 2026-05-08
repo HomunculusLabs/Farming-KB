@@ -148,6 +148,3 @@ strong volatile oils can taint nearby plants.
 - [[thymus-vulgaris-entity]]
 - [[rosmarinus-officinalis-entity]]
 - [[origanum-vulgare-entity]]
-- [[salvia-officinalis]]
-- [[lavandula-angustifolia-entity]]
-- [[foeniculum-vulgare-entity]]

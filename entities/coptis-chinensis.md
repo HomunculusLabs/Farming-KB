@@ -6,9 +6,9 @@ tags:
   - ranunculaceae
   - medicinal-plant
   - tcm
-  - berberine
+  - [[berberine]]
   - antimicrobial
-  - anti-inflammatory
+  - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -65,7 +65,7 @@ The genus name derives from Greek "kopto" (to cut), referring to the divided lea
 
 **Native range:** Central and southwestern China (Sichuan, Guizhou, Hubei, Hunan, Shaanxi, Gansu). C. deltoidea is restricted to Sichuan; C. teeta occurs in Yunnan and extends into NE India and Myanmar.
 
-**Habitat:** Cool, moist, shaded mountainous environments, 500–2,000 m elevation. Forest understories, stream banks, mossy rocky slopes. Prefers rich, well-drained, acidic soils (pH 5.5–6.5). Major production areas include Sichuan, Hubei, and Yunnan provinces. Wild populations have declined due to overharvesting.
+**Habitat:** Cool, moist, shaded mountainous environments, 500–2,000 m elevation. Forest understories, stream banks, mossy rocky slopes. Prefers rich, well-drained, acidic soils (pH 5.5–6.5). Major production areas include Sichuan, Hubei, and Yunnan provinces. Wild populations have d [[ergot-of-barley-and-wheat-alkaloid-composition]] arvesting.
 
 ## Alkaloid Composition
 
@@ -84,9 +84,9 @@ Berberine constitutes approximately 60–80% of the total alkaloid fraction and 
 
 **Antimicrobial:** Berberine exhibits broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), Gram-negative bacteria (E. coli, Shigella, Salmonella, Vibrio cholerae), fungi (Candida, Trichophyton), and protozoa (Giardia, Entamoeba). Mechanisms include inhibition of nucleic acid synthesis, membrane disruption, and interference with bacterial adhesion.
 
-**Antidiabetic:** Berberine activates AMPK (AMP-activated protein kinase), increases insulin receptor expression, and reduces hepatic gluconeogenesis. Clinical trials demonstrate berberine is as effective as metformin in lowering blood glucose and HbA1c in type 2 diabetes, with additional lipid-lowering effects.
+**Antidiabetic:** Berberine activates AMPK (AMP-activated protein kinase), increases insulin receptor expression, and reduces hepatic gluconeogenesis. [[cancer-turkey-tail-psk-clinical-trials]] demonstrate berberine is as effective as metformin in lowering blood glucose and HbA1c in type 2 diabetes, with additional lipid-lowering effects.
 
-**Anti-inflammatory:** Inhibits NF-κB signaling pathway, reduces TNF-α, IL-6, and IL-1β production. Used in TCM for inflammatory conditions of the GI tract.
+**Anti-inflammatory:** Inhibits NF-κB signaling pathway, reduces TNF-α, IL-6, and IL-1β production. Used in TCM [[cannabis-for-inflammatory-conditions]] of the GI tract.
 
 **Cardiovascular:** Lowers LDL cholesterol and triglycerides via upregulation of LDL receptor expression. Antiarrhythmic effects attributed to potassium channel modulation.
 
@@ -137,7 +137,7 @@ Coptis chinensis can be integrated into forest garden systems in appropriate cli
 
 - **Shade-tolerant ground cover** — thrives under deciduous tree canopy in the understory layer
 - **Forest farming** — economically valuable understory crop for agroforestry systems in mountainous regions
-- **Medicinal guild** — integrates with other shade-tolerant medicinal plants (Gynostemma pentaphyllum, Schisandra chinensis, Panax notoginseng)
+- **Medicinal guild** — integrates with other shade-tolerant medicinal plants ([[gynostemma-pentaphyllum]], [[schisandra-chinensis]], [[panax-notoginseng]])
 - **Stream bank plantings** — natural habitat along watercourses suits riparian buffer zones
 
 The 5–7 year growth cycle suits permanent polyculture installations rather than annual rotations.
@@ -148,9 +148,3 @@ The 5–7 year growth cycle suits permanent polyculture installations rather tha
 - **Coptis teeta** (云连, Yun Lian) — Yunnan and NE India; smaller plant, thinner rhizome; wild-harvested, endangered
 - **Coptis japonica** — Japanese species used in Kampo medicine (Ōren); similar alkaloid profile
 - **Coptis trifolia** (Three-leaf Goldthread) — North American species; used by Native Americans for mouth sores
-
-## See Also
-
-- [[agroforestry]]
-- [[berberine]]
-- [[dom]]

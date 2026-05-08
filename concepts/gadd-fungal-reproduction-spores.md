@@ -77,7 +77,7 @@ Fungal spores are remarkably resilient structures adapted for long-term survival
 
 - [[fungal-spores]]
 
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[fungal-sexual-reproduction]]
 - [[ascomycete-phylum-guide]]

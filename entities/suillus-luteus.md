@@ -78,7 +78,7 @@ pressure, soil biology, yields, and long-term resilience.
 ## See Also
 
 - [[suillus-bovinus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[laccaria-laccata]]
 - [[pisolithus-tinctorius]]
 - [[russula-edible-species]]

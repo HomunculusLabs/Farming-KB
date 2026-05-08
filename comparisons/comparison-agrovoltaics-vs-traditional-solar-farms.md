@@ -140,26 +140,6 @@ The choice between these approaches involves tradeoffs in energy yield, agricult
 
 ## Notable Real-World Examples
 
-| Project | Location | Configuration | Crops/Use | Scale |
-|---|---|---|---|---|
-| Jack's Solar Garden | Longmont, CO, USA | Elevated, south-facing | Vegetables, pollinator habitat | 1.2 MW |
-| Fraunhofer ISE pilot | Heggelbach, Germany | Elevated above crops | Wheat, potatoes, celery | 194 kW |
-| URUSAI Project | Le Mené, France | Elevated | Dairy pasture | 1 MW |
-| INRAE LEPSE | Montpellier, France | Controlled shade | Vineyards, vegetables | Research |
-| Solar Sharing | Ibaraki, Japan | Elevated, high clearance | Rice, soybeans, vegetables | 1,000+ sites nationally |
-| Ameland Solar Park | Ameland, Netherlands | Sheep grazing beneath | Sheep pasture | 2 MW |
-| Grange Solar Farm | UK | Sheep grazing | Sheep pasture | Multiple sites |
-| REM TEC Agrovoltaico | Italy | Elevated tracking | Specialty crops | Research/pilot |
-
-## Key Research Findings
-
-- **Crop yield under panels:** Meta-analyses (Adeh et al. 2019, 2022) show that yields of shade-tolerant crops can match or exceed open-field values, while full-sun crops (corn, wheat) typically see 5–20% reductions depending on panel density.
-- **Panel temperature reduction:** Crop transpiration beneath panels can reduce panel operating temperatures by 5–15°C, improving PV efficiency by 2–5%.
-- **Water savings:** Studies across multiple climates show 10–30% reduction in crop irrigation requirements under panels due to reduced soil evaporation.
-- **Land Equivalent Ratio (LER):** Well-designed agrovoltaic systems achieve LER values of 1.2–1.8, meaning 20–80% more total production per unit land than either system alone.
-- **Soil moisture:** Soil beneath panels retains 15–30% more moisture than open field, reducing drought stress.
-- **Economic viability:** With current incentives (particularly US IRA agricultural bonus credits and EU CAP integration), agrovoltaic projects can achieve competitive or superior ROI to traditional solar, though site-specific analysis is critical.
-
 ## See Also
 
 - [[comparison-rewilding-vs-traditional-conservation]]

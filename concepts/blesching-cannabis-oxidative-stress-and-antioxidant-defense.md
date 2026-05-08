@@ -140,7 +140,7 @@ from common spices to support the body's natural antioxidant defense systems.
 
 ## Related
 
-- [[glutathione-and-cellular-antioxidant-defense]]
+- glutathione and cellular antioxidant defense
 
 - [[oxidative-phosphorylation-mitochondrial-respiration]] Concepts
 
@@ -148,4 +148,3 @@ from common spices to support the body's natural antioxidant defense systems.
 - [[blesching-cannabis-homeostasis-and-immune-regulation]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-cannabis-homeostasis-and-immune-regulation]]
-- [[blesching-cannabis-caryophyllene-dietary-cannabinoids]]

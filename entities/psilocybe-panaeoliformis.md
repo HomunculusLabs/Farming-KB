@@ -46,7 +46,7 @@ Fresh specimens should be carefully handled to observe the blue bruising reactio
 
 ## Chemistry
 
-The species contains [[psilocybin]] and [[psilocin]], confirmed by chemical analysis and indicated by the blue bruising reaction. The bluing can be moderate to strong, most evident on the stipe and base.
+The species contains [[psilocybin-compound]] and [[psilocin]], confirmed by chemical analysis and indicated by the blue bruising reaction. The bluing can be moderate to strong, most evident on the stipe and base.
 Both major psychoactive compounds have been detected using chromatographic methods, indicating moderate potency comparable to other coprophilous Psilocybe species from the Australasian region. [[baeocystin]] has also been detected in fruiting body tissue, though quantitative data for all alkaloids remain limited.
 No unusual or atypical tryptamine compounds have been reported from this species. Further analytical work is needed to establish precise alkaloid concentrations and variability across different populations and substrates, as environmental factors and substrate composition can significantly influence tryptamine profiles in coprophilous fungi.
 The psychoactive effects reported for *P. panaeoliformis* are consistent with those of other moderate-potency psilocybin mushrooms, including visual and auditory perceptual changes, altered time perception, and shifts in mood and cognition.
@@ -78,5 +78,5 @@ The New Zealand fungal conservation framework does not specifically address psyc
 - [[psilocybe-fimetaria]]: coprophilous European and Australasian species
 - [[psilocybe-makarorae]]: New Zealand native Psilocybe species
 - [[psilocybe-subaeruginosa]]: commonly collected Australian and New Zealand species
-- [[psilocybin]]: primary psychoactive compound
+- [[psilocybin-compound]]: primary psychoactive compound
 - [[baeocystin]]: minor tryptamine alkaloid also detected

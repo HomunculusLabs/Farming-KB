@@ -139,21 +139,6 @@ When buying medicinal mushroom supplements, these factors separate quality produ
 
 1. **Fruiting body vs. mycelium:** For most mushrooms (reishi, chaga, turkey tail, shiitake), **fruiting body** extracts are preferred — they contain higher and more consistent levels of bioactive compounds. Mycelium-on-grain products are often mostly starch from the grain substrate, not mushroom compounds. Lion's mane is the exception where both fruiting body (hericenones) and mycelium (erinacines) have unique value.
 
-2. **Extraction method:** Dual extraction (water + alcohol) is essential for reishi, chaga, and cordyceps to capture both water-soluble β-glucans and alcohol-soluble triterpenes. Turkey tail can be water-extracted only since PSK/PSP are water-soluble.
-
-3. **Standardization:** Look for products standardized to known bioactive markers:
-   - Lion's mane: ≥25% β-glucans or specified hericenone/erinacine content
-   - Reishi: ≥10% β-glucans + ≥4% triterpenes (ganoderic acids)
-   - Turkey tail: ≥30% β-glucans or specified PSK/PSP content
-   - Chaga: Dual extract; check for betulinic acid content
-   - Cordyceps: ≥5% cordycepin for *C. militaris*
-
-4. **Third-party testing:** Reputable brands test for heavy metals, pesticides, microbial contamination, and verify β-glucan content. Look for Certificates of Analysis (COAs) from independent labs.
-
-5. **No fillers or additives:** Avoid products with maltodextrin, rice flour, or other bulking agents disguised as mushroom content. Check the "other ingredients" list.
-
-6. **Origin transparency:** Know whether the mushroom is wild-harvested (chaga, sometimes reishi) or cultivated (turkey tail, shiitake, maitake, lion's mane). For wild-harvested products, check for sustainable sourcing claims.
-
 ## See Also
 
 - [[comparison-chaga-vs-reishi-medicinal]]

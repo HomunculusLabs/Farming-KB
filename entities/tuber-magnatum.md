@@ -131,29 +131,6 @@ Unlike T. melanosporum, T. magnatum has resisted reliable cultivation. Inoculate
 - Genetic diversity of planted inoculum may be insufficient
 - Some plantations produce mycorrhizae for decades without fruiting
 
-A handful of plantations in Italy and Spain have produced fruiting bodies, but yields are inconsistent and far below commercial viability.
-
-## Genetic Diversity
-
-Molecular studies using microsatellite markers reveal extremely high genetic diversity within T. magnatum populations. Individual genets (genetic individuals) can be very small — often less than 1 meter in diameter — which contrasts with the large genets typical of other truffle species.
-
-This fine-scale genetic structure has important implications:
-- Natural populations maintain high allelic richness
-- Inbreeding is minimal within populations
-- Long-distance spore dispersal is likely mediated by animals (wild boar, rodents)
-- Conservation of genetic diversity requires protection of multiple populations
-
-## Conservation Status
-
-T. magnatum is not formally listed as threatened, but its natural range is contracting due to:
-- Deforestation and habitat fragmentation
-- Climate change altering autumn precipitation patterns
-- Overharvesting in some areas
-- Soil compaction from agriculture and urbanization
-- Competition from invasive tree species
-
-Italian regional laws regulate harvesting seasons, methods, and minimum truffle size. Unauthorized harvesting with pigs is prohibited in most regions — dogs are mandatory because they cause less soil damage.
-
 ## Related Species
 
 - **Tuber melanosporum** — Périgord black truffle; cultivated commercially, darker gleba
@@ -165,8 +142,8 @@ Italian regional laws regulate harvesting seasons, methods, and minimum truffle 
 ## See Also
 
 - [[tuber-melanosporum]]
-- [[cantharellus-cibarius]]
-- [[boletus-edulis]]
+- [[cantharellus-cibarius-entity]]
+- [[boletus-edulis-entity]]
 - [[morchella-esculenta]]
 - [[quercus-robur]]
 - [[hazelnut-corylus-spp]]

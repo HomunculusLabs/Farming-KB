@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # Nutrified Agar Media Formulations
 
-Nutrified agar media form the foundation of every mushroom cultivation laboratory. Agar, a seaweed-derived compound, gelatinizes water and provides a semi-solid surface on which mushroom mycelium grows. By adding nutrients, cultivators create a medium that supports vigorous, healthy mycelial expansion from spores, tissue clones, and stock cultures.
+Nutrified agar media form the foundation of every [[mushroom-cultivation]] laboratory. Agar, a seaweed-derived compound, gelatinizes water and provides a semi-solid surface on which mushroom [[mycelium]] grows. By adding nutrients, cultivators create a medium that supports vigorous, healthy mycelial expansion from spores, tissue clones, and stock cultures.
 
 ## Primary Agar Media Types
 
@@ -55,7 +55,7 @@ The oatmeal does not require filtering, though some cultivators prefer to do so 
 
 ### Dog Food Agar (DFA)
 
-Pioneered by the late Dr. Steven Pollock:
+Pioneered by the late Dr. [[steven-pollock]]:
 
 - 1000 ml water
 - 20 g dry dog food
@@ -77,7 +77,7 @@ CMYA is not as nutritious as the other formulations described above, making it s
 
 ## pH Considerations
 
-After sterilization, these media formulations naturally settle to a pH of 5.5-6.8. Saprophytic mushroom mycelium generally prefers slightly acidic conditions, so near-neutral or slightly basic formulations work well since the mycelium will acidify the medium as it grows. Media designed for most saprophytes should be adjusted to pH 5.5-6.5. Many contaminant molds are strong acidophiles, so maintaining a near-neutral pH can favor mushroom mycelium over competitors. If the culture is mixed with mold contaminants, adjusting the pH toward neutral can selectively favor mushroom mycelium over acid-loving molds.
+After [[sterilization]], these media formulations naturally settle to a pH of 5.5-6.8. Saprophytic mushroom mycelium generally prefers slightly acidic conditions, so near-neutral or slightly basic formulations work well since the mycelium will acidify the medium as it grows. Media designed for most saprophytes should be adjusted to pH 5.5-6.5. Many contaminant molds are strong acidophiles, so maintaining a near-neutral pH can favor mushroom mycelium over competitors. If the culture is mixed with mold contaminants, adjusting the pH toward neutral can selectively favor mushroom mycelium over acid-loving molds.
 
 ## Media Supplements
 
@@ -146,7 +146,5 @@ The easiest approach is prevention: implementing proper sterile technique when i
 
 ## Related Concepts
 
-- [[growing-gourmet-stock-culture-library|Stock Culture Library management]]
-- [[growing-gourmet-spawn-production|Spawn production from agar cultures]]
-- [[growing-gourmet-contamination-prevention|Contamination prevention in culture work]]
-- [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms|Tissue cloning techniques]]
+- [[growing-gourmet-stock-culture-library]]
+- [[growing-gourmet-spawn-production]]

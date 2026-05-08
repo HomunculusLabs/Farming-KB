@@ -132,8 +132,8 @@ from the start, there should never be any need for pruning.
 - [[natural-farming-soil-management]]
 
 - [[masanobu-fukuoka]]
-- [[natural farming]]
+- [[natural-farming]]
 - [[clay-pellet-seed-balling]]
-- [[three-dimensional farming]]
-- [[phyllotaxy and natural tree form]]
+- [[three-dimensional-farming]]
+- [[phyllotaxy-and-natural-tree-form]]
 - [[permaculture]]

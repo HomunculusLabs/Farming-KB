@@ -146,6 +146,5 @@ mammals, slugs, and insect larvae in forest floor ecosystems.
 - [[russula-ochroleuca]]
 - [[russula-xerampelina]]
 - [[lactarius-deliciosus]]
-- [[cantharellus-cibarius]]
-- [[boletus-edulis]]
-- [[ectomycorrhiza]]
+- [[cantharellus-cibarius-entity]]
+- [[boletus-edulis-entity]]

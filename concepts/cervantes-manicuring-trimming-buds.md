@@ -118,6 +118,6 @@ Automatic trimmers have become increasingly popular for larger operations:
 - See [[cervantes-air-quality-ventilation]] for
   odor control during manicuring
 
-See also: [[cervantes-harvest-techniques]],
+See also: [[cannabis-advanced-growing-techniques]],
 [[cervantes-harvest-timing-trichome-ripeness]],
-[[cervantes-curing-storage]], [[cervantes-hash-making-extracts]], [[cervantes-drying-buds-methods]]
+[[cannabis-advanced-growing-techniques]], [[cervantes-hash-making-extracts]], [[cervantes-drying-buds-methods]]

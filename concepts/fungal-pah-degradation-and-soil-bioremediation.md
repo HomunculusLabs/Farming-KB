@@ -107,7 +107,7 @@ In natural ecosystems, fungal bioremediation is a collaborative effort with bact
 - [[fungal-enzyme-systems-in-bioremediation]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[composting-methods-comparison]]
 
 ## Source

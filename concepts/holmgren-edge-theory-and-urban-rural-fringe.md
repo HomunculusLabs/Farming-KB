@@ -79,8 +79,8 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 
 - [[urban-permaculture-edge-effect-and-design-principles]]
 - [[holmgren-permaculture-land-tenure-and-legal-structures]]
-- [[permaculture-principle-use-edges-and-value-the-marginal]]
+- [[permaculture-design-principles]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[holmgren-permaculture-change-principle]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-design-principles]]
 - [[urban-permaculture-edge-effect-microclimate]]

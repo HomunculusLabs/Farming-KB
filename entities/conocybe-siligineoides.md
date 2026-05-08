@@ -16,7 +16,7 @@ sources:
 
 # Conocybe siligineoides
 
-**Conocybe siligineoides** is a small, fragile agaric mushroom in the family Bolbitiaceae that has been identified as containing [[psilocybin]] and [[psilocin]]. It is one of several species in the genus Conocybe known to produce indole alkaloids, placing it among the lesser-known entheogenic fungi. The species is notable for its association with disturbed habitats and its role in the ethnomycological traditions of certain Mesoamerican cultures.
+**Conocybe siligineoides** is a small, fragile agaric mushroom in the family Bolbitiaceae that has been identified as containing [[psilocybin-compound]] and [[psilocin]]. It is one of several species in the genus Conocybe known to produce indole alkaloids, placing it among the lesser-known entheogenic fungi. The species is notable for its association with disturbed habitats and its role in the ethnomycological traditions of certain Mesoamerican cultures.
 
 ## Taxonomy and Naming
 
@@ -39,7 +39,7 @@ Its ecological niche is similar to other psilocybin-containing Conocybe species 
 
 ## Psychoactive Constituents
 
-*C. siligineoides* has been analytically confirmed to contain [[psilocybin]] and [[psilocin]], though reported concentrations are generally low compared to more potent Psilocybe species. The alkaloid content is variable and depends on collection location, age, and environmental conditions. Some analyses have also detected [[baeocystin]] in this species.
+*C. siligineoides* has been analytically confirmed to contain [[psilocybin-compound]] and [[psilocin]], though reported concentrations are generally low compared to more potent Psilocybe species. The alkaloid content is variable and depends on collection location, age, and environmental conditions. Some analyses have also detected [[baeocystin]] in this species.
 
 The psychoactive effects, when sufficient material is consumed, would be consistent with those of other psilocybin-containing mushrooms — including visual alterations, changes in perception of time and space, introspective thought patterns, and dose-dependent alterations in mood and cognition. However, the small size of individual fruiting bodies means that a large number of specimens would be needed to achieve a psychoactive dose, making practical use challenging. This practical limitation, combined with the identification risks discussed below, makes intentional consumption extremely inadvisable.
 
@@ -81,4 +81,4 @@ Accurate identification of *C. siligineoides* requires microscopic examination. 
 - [[conocybe-smithii]] — psilocybin-containing Conocybe species
 - [[conocybe-kuehneriana]] — another Conocybe species reported to contain psilocybin
 - [[galerina-marginata]] — deadly toxic lookalike containing amatoxins
-- [[psilocybin]] — primary psychoactive compound found in this species
+- [[psilocybin-compound]] — primary psychoactive compound found in this species

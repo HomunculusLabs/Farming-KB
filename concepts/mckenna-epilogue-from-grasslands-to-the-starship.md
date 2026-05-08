@@ -14,19 +14,19 @@ type: concept
 The epilogue of Food of the Gods represents McKenna's most expansive and visionary statement, weaving together the historical, scientific, and
 philosophical threads of the entire work into a
 meditation on human destiny. He frames the current moment as a convergence point where history merges with political urgency, and where the recovery
-of humanity's lost [[archaic partnership]] with
+of humanity's lost [[archaic-partnership]] with
 hallucinogenic plants becomes not merely desirable but existentially necessary.
 
 ## The Legacy of the Partnership Society
 
 McKenna argues that the current controversies surrounding the use and abuse of substances must share the stage with other issues of equal import:
 poverty and overpopulation, environmental destruction,
-and unmet political expectations. These phenomena are the inevitable by-products of the [[dominator culture]]. In struggling with these social
+and unmet political expectations. These phenomena are the inevitable by-products of the [[dominator-culture]]. In struggling with these social
 problems, humanity must remember that the roots of human
 identity lie elsewhere, in the cascade of mental abilities unleashed within the species many tens of millennia ago: the ability to name, to classify,
 to compare, and to remember.
 
-These functions all trace back to the quasi-symbiotic relationship that humans enjoyed with [[psilocybin mushrooms]] in the African partnership
+These functions all trace back to the quasi-symbiotic relationship that humans enjoyed with [[psilocybin-mushrooms]] in the African partnership
 society of prehistory. The breach of faith with the
 symbiotic relationship to the plant hallucinogens has made humanity susceptible to an ever more neurotic response to each other and the world around
 us. Several thousand years of such bereavement have
@@ -50,14 +50,14 @@ not without help from nature.
 
 Help from nature means recognizing that the satisfaction of the religious impulse comes not from ritual and still less from dogma, but from a
 fundamental kind of experience: the experience of
-symbiosis with [[hallucinogenic plants]] and, through them, symbiosis with the whole of planetary life. This radical proposal was anticipated by
+symbiosis with [[hallucinogenic-plants]] and, through them, symbiosis with the whole of planetary life. This radical proposal was anticipated by
 Arthur Koestler, who concluded from his examination of
 humanity's history of institutionalized violence that some form of pharmacological intervention will be necessary before humans can be at peace with
 one another.
 
 Koestler made an argument for conscious and scientifically managed psychopharmacological intervention in the life of society, with grave implications
 for the preservation of ideals of human
-independence and liberty. McKenna notes that Koestler was apparently unaware of the [[shamanic tradition]] or of the richness of the psychedelic
+independence and liberty. McKenna notes that Koestler was apparently unaware of the [[shamanic-tradition]] or of the richness of the psychedelic
 experience, and was therefore unaware that the task of
 managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of
 transcendence into people's lives without the coercive
@@ -94,7 +94,7 @@ as it is done in a way that does not limit the rights of others.
 
 ## Facing the Answer
 
-Without the escape hatch into the transcendental and transpersonal realm provided by plant-based [[indole hallucinogens]], the human future would be
+Without the escape hatch into the transcendental and transpersonal realm provided by plant-based [[indole-hallucinogens]], the human future would be
 bleak indeed. Humanity has lost the ability to be
 swayed by the power of myths, and history should convince us of the fallacy of dogma. What is required is a new dimension of self-experience that
 individually and collectively authenticates democratic
@@ -114,7 +114,7 @@ brink of star flight, virtual reality technologies, and a revivified shamanism t
 has always been the human context. The age of the
 imagination is dawning.
 
-The [[shamanic plants]] and the worlds they reveal are the worlds from which humanity imagines it came long ago, worlds of light and power and beauty
+The [[shamanic-plants]] and the worlds they reveal are the worlds from which humanity imagines it came long ago, worlds of light and power and beauty
 that in some form or another lie behind the
 eschatological visions of all the world's great religions. Humanity can claim this prodigal legacy only as quickly as it can remake its language and
 itself. Remaking language means rejecting the image
@@ -148,5 +148,3 @@ the endless life of the imagination, at play at last in the fields of an Eden re
 - [[mckenna-eschatology-and-acceleration-of-history]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-ur-plant-hypothesis]]
-- [[mckenna-nostalgia-for-paradise]]

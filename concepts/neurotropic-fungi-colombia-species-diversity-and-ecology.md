@@ -137,39 +137,6 @@ diversity that remains incompletely explored. The three Cordilleras create
 isolated highland habitats that may support locally endemic species
 analogous to the situation in Mesoamerica.
 
-## Ecological Zones and Species Distribution
-
-The altitudinal gradient in Colombia creates distinct fungal communities:
-
-- **Lowland tropical pastures (0-1000 m)**: Favor P. cubensis, P.
-  subcubensis, Copelandia cyanescens, and C. cambodginiensis. These
-  species are typically associated with cattle dung.
-
-- **Cloud forests and premontane zones (1000-2500 m)**: May support
-  species like P. zapotecorum and P. yungensis that are adapted to
-  forest floor environments.
-
-- **Highland paramo and subparamo (2500-4000 m)**: These cold, wet
-  grassland environments may be suitable for temperate-adapted species,
-  analogous to the P. semilanceata habitats found in other parts of
-  the world.
-
-- **Boreal introductions**: A. muscaria is likely associated with
-  introduced coniferous or deciduous trees in highland areas.
-
-## Conservation and Research Needs
-
-The neurotropic mycoflora of Colombia remains incompletely documented.
-The country's complex topography and security challenges have historically
-limited systematic mycological exploration, particularly in remote
-Andean and Amazonian regions. The six Psilocybe species described from
-Colombian material since 1983 suggest that continued field work would
-likely yield additional new species.
-
-Velásquez et al. (1998) contributed significantly to documenting the
-country's mycoflora, but much work remains to fully characterize the
-distribution, ecology, and chemistry of Colombia's neurotropic fungi.
-
 ## See Also
 
 - [[amanita-muscaria]]

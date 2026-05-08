@@ -51,7 +51,7 @@ Limits and negative feedback are not enemies of productivity — they are essent
 
 ## Connections
 
-This principle is closely linked to [[permaculture-principle-observe-and-interact]] (observation provides the feedback), [[permaculture-principle-obtain-a-yield]] (feedback tells us whether we are truly obtaining yields), and [[permaculture-principle-use-small-and-slow-solutions]] (small scale allows feedback to be noticed and acted upon). See also [[permaculture-principles]] and [[permaculture-design-process]].
+This principle is closely linked to [[permaculture-design-principles]] (observation provides the feedback), [[permaculture-design-principles]] (feedback tells us whether we are truly obtaining yields), and [[permaculture-design-principles]] (small scale allows feedback to be noticed and acted upon). See also [[permaculture-principles]] and [[permaculture-design-process]].
 
 ## Applied Notes
 

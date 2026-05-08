@@ -145,8 +145,6 @@ of Purple Haze or any cannabis strain are criminal offenses.
 
 - [[cannabis-sativa]]
 - [[cannabis-indica]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[jack-herer]]
 - [[northern-lights]]
-- [[tetrahydrocannabinol-thc]]
-- [[myrcene]]

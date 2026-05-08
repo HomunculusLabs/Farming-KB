@@ -22,7 +22,7 @@ profiles, and the daily effort required to produce them.
 
 ## Kombucha
 
-[[kombucha-brewing]]
+kombucha brewing
 
 Kombucha is produced through the fermentation of sweetened tea by a
 symbiotic culture of bacteria and yeast known as a SCOBY.
@@ -51,7 +51,7 @@ hands-off approach once the brew is set up and left at room temperature.
 
 ## Kefir
 
-[[kefir-making]]
+kefir making
 
 Kefir is a fermented beverage made using kefir grains, which are small,
 cauliflower-like colonies of bacteria and yeast bound together by a
@@ -141,5 +141,5 @@ of drinks at various stages of readiness in your kitchen.
 
 - [[kombucha-and-fermented-teas-guide]]
 - [[food-fermentation-guide]]
-- [[kefir-making]]
-- [[kombucha-brewing]]
+- kefir making
+- kombucha brewing

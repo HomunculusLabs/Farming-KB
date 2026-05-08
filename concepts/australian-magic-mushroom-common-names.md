@@ -37,12 +37,12 @@ identifying psilocybian mushrooms.
 
 ## Gold Tops and Gold Caps
 
-[[psilocybe-cubensis-profile]] is known in Australia as "golden tops," "gold tops," or
+[[psychedelic-mushrooms-species-and-identification]] is known in Australia as "golden tops," "gold tops," or
 sometimes "gold caps." These Australian epithets may have originated with
 members of a local drug-using group of surfers who frequented the Gold Coast
 region of eastern Australia. However, some of these names have apparently been
 used to describe several different species of Psilocybe by users in Australia
-(see Allen, 1997). It is important to note that [[psilocybe-cubensis-profile]] is not
+(see Allen, 1997). It is important to note that [[psychedelic-mushrooms-species-and-identification]] is not
 known to occur naturally in New Zealand.
 
 Those who ingest [[panaeolus-cyanescens-bali-omelette]] -- known in both Australia and New
@@ -54,7 +54,7 @@ visiting surfers from both New Zealand and Australia to describe the
 macroscopic characteristics of the species.
 
 The terms "gold tops" or "golden caps" often refer to the color of the pileus
-(cap) of both [[psilocybe-cubensis-profile]] and [[panaeolus-cyanescens-bali-omelette]], which are
+(cap) of both [[psychedelic-mushrooms-species-and-identification]] and [[panaeolus-cyanescens-bali-omelette]], which are
 hygrophanous -- meaning they change color as they dry.
 
 ## Blue Meanies
@@ -76,11 +76,11 @@ context of [[metol-testing-bluing-reaction-mushrooms]].
 
 ## Liberty Cap (Psilos)
 
-In the United States, Canada, Great Britain, and Europe, [[psilocybe-semilanceata-profile]]
+In the United States, Canada, Great Britain, and Europe, [[psychedelic-mushrooms-species-and-identification]]
 is often referred to as the "liberty cap" (see Allen 1997a and 1997b) and is
 also known to many Europeans simply as "Psilos." In New Zealand, this term has
 not been widely adopted. Many New Zealand users knew that "gold tops" referred
-to an "Australian" mushroom ([[psilocybe-cubensis-profile]]) which was different from
+to an "Australian" mushroom ([[psychedelic-mushrooms-species-and-identification]]) which was different from
 those used in New Zealand. See [[liberty-cap-british-discovery-1970s]] for the British
 history of the liberty cap.
 
@@ -122,7 +122,7 @@ the terminology and provided location information to would-be foragers.
 
 ## See Also
 
-- [[psilocybe-cubensis-profile]] -- the "gold top" species
+- [[psychedelic-mushrooms-species-and-identification]] -- the "gold top" species
 - [[panaeolus-cyanescens-bali-omelette]] -- the "blue meanie" species
-- [[psilocybe-semilanceata-profile]] -- the "liberty cap"
+- [[psychedelic-mushrooms-species-and-identification]] -- the "liberty cap"
 - [[liberty-cap-british-discovery-1970s]] -- British history of the liberty cap

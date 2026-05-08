@@ -134,20 +134,6 @@ smooth or tuberculate hymenial surfaces on wood substrates.
 Their identification requires microscopic examination of
 basidial morphology, spore size and shape, and hyphal
 construction. Many species are known from only a few
-collections, and their ecological roles and distributions
-are poorly understood.
-
-## Duration and Dynamics
-
-The full successional sequence on a large log can span
-decades to centuries. Individual fungal species may persist
-on the same log for years, with fruiting bodies appearing
-annually or sporadically. The spatial pattern of fungal
-colonization within a single log is often patchy, with
-different species occupying different zones depending on
-moisture, temperature, and wood chemistry gradients. Patterns of [[spore-dispersal]]
-further shape which species colonize available niches during successional transitions.
-
 ## See Also
 
 - [[white-rot-fungi]]

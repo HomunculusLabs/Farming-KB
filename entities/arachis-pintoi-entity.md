@@ -11,7 +11,7 @@ sources:
 
 # Arachis pintoi
 
-Arachis pintoi (syn. A. repens), commonly known as pinto peanut or perennial forage peanut, is a stoloniferous leguminous groundcover native to the Cerrado and savanna regions of Brazil, Bolivia, and Paraguay. Valued in tropical and subtropical agriculture for its persistent ground cover, high nitrogen fixation, excellent forage quality, and tolerance of grazing and mowing, A. pintoi has become one of the most widely adopted tropical legume groundcovers in agroforestry systems, orchards, pastures, and erosion control plantings across Southeast Asia, Central America, northern Australia, and tropical Africa. Its ability to fix 100–200 kg N/ha/year while providing palatable, protein-rich forage makes it a cornerstone species in sustainable tropical land management.
+Arachis pintoi (syn. A. repens), commonly known as pinto peanut or perennial forage peanut, is a stoloniferous leguminous groundcover native to the Cerrado and savanna regions of Brazil, Bolivia, and Paraguay. Valued in tropical and subtropical agriculture for its persistent [[fukuoka-white-clover-ground-cover]], high [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]], excellent forage quality, and tolerance of grazing and mowing, A. pintoi has become one of the most widely adopted tropical legume groundcovers in [[agroforestry]] systems, orchards, pastures, [[mollison-arid-lands-design-and-erosion-control]]-erosion-control]] plantings across Southeast Asia, Central America, northern Australia, and tropical Africa. Its ability to fix 100–200 kg N/ha/year while providing palatable, protein-rich forage makes it a cornerstone species in sustainable tropical land management.
 
 ## Taxonomy and Naming
 
@@ -120,6 +120,6 @@ A deep taproot extends 30–60 cm, with abundant lateral roots and prolific nodu
 
 - Desmodium uncinatum
 - [[mucuna-pruriens]]
-- [[arachis-pintoi-entity]]
+- arachis pintoi entity
 - Centrosema pubescens
 - [[glycine-max-soybean-permaculture]]

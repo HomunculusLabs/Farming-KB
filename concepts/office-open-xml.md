@@ -89,5 +89,5 @@ procurement.
 - [[docx]] — The Word-specific OOXML format
 - open standards — The movement for open document standards
 - xml — Extensible Markup Language fundamentals
-- [[ole2-compound-binary-file-format]] — File format concepts and comparison
+- ole2 compound binary file format — File format concepts and comparison
 - [[microsoft-word]] — The primary application using OOXML

@@ -17,12 +17,12 @@ sources:
 # Gymnopilus brunneus
 
 **Gymnopilus brunneus** is a wood-inhabiting mushroom in the family Cortinariaceae
-and one of several Gymnopilus species reported to contain [[psilocybin]]. The genus
+and one of several Gymnopilus species reported to contain [[psilocybin-compound]]. The genus
 Gymnopilus is notable for containing both psychoactive and non-psychoactive species, many
 of which are large, conspicuous, and brightly colored. G. brunneus, as the species epithet
 suggests (from Latin "brunneus," meaning brown), is distinguished by its predominantly
 brown coloration, contrasting with the more vivid orange and yellow tones of better-known
-psychoactive species like [[gymnopilus-spectabilis]] and [[gymnopilus-junonius]].
+psychoactive species like [[gymnopilus-spectabilis-entity]] and [[gymnopilus-junonius]].
 
 ## Taxonomy and Classification
 
@@ -37,7 +37,7 @@ The genus contains approximately 200 species worldwide, with a significant numbe
 tropical and subtropical regions. Many Gymnopilus species are large and wood-inhabiting,
 growing on dead wood, stumps, and fallen logs. Only a subset of the genus contains
 psychoactive compounds, and G. brunneus is one of the species confirmed to produce
-[[psilocybin]]. The distribution of psychoactive compounds within the genus does not
+[[psilocybin-compound]]. The distribution of psychoactive compounds within the genus does not
 follow clear phylogenetic patterns, suggesting either multiple independent evolutionary
 origins of psilocybin biosynthesis or repeated evolutionary loss of the trait.
 
@@ -111,20 +111,20 @@ to the morphological similarity within the genus.
 
 ## Chemistry
 
-Chemical analysis of Gymnopilus brunneus has confirmed the presence of [[psilocybin]],
+Chemical analysis of Gymnopilus brunneus has confirmed the presence of [[psilocybin-compound]],
 placing it among the psychoactive members of the genus. The Gymnopilus genus is
 unusual among mushroom genera in that psychoactive and non-psychoactive species coexist
 within the same group.
 
 Key psychoactive compounds detected in G. brunneus:
 
-- [[psilocybin]]: The primary psychoactive indole alkaloid, present in varying
+- [[psilocybin-compound]]: The primary psychoactive indole alkaloid, present in varying
   concentrations
 - [[psilocin]]: The dephosphorylated, pharmacologically active form of psilocybin
 - [[baeocystin]]: A demethylated analog of psilocybin, present in minor quantities
 
 The psilocybin content is generally considered low to moderate compared to other
-psychoactive Gymnopilus species such as [[gymnopilus-spectabilis]]. Concentrations can
+psychoactive Gymnopilus species such as [[gymnopilus-spectabilis-entity]]. Concentrations can
 vary significantly between collections depending on geographic origin, substrate, age,
 and environmental conditions.
 
@@ -132,7 +132,7 @@ and environmental conditions.
 
 Distinguishing G. brunneus from other Gymnopilus species can be challenging:
 
-- [[gymnopilus-spectabilis]]: The "big laughing gym" is typically larger and more vividly
+- [[gymnopilus-spectabilis-entity]]: The "big laughing gym" is typically larger and more vividly
   colored (bright orange to yellow-orange) compared to the subdued brown of G. brunneus.
 - [[gymnopilus-junonius]]: Very similar to G. spectabilis and often considered
   conspecific. Large, orange, grows in clusters at the base of living trees.
@@ -146,5 +146,5 @@ definitive identification.
 
 ## See Also
 
-- [[gymnopilus-spectabilis]]: The most famous psychoactive Gymnopilus species
+- [[gymnopilus-spectabilis-entity]]: The most famous psychoactive Gymnopilus species
 - [[gymnopilus-junonius]]: Large, orange, widely distributed relative

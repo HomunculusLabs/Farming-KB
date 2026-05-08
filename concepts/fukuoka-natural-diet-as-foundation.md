@@ -78,7 +78,7 @@ The first step in setting the proper course for agriculture is to reexamine what
 ## See Also
 
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-food-philosophy]]
 - [[fukuoka-tasty-rice-illusion]]
 - [[fukuoka-do-nothing-health-philosophy]]
@@ -88,7 +88,7 @@ The first step in setting the proper course for agriculture is to reexamine what
 - [[dom-compound-profile]]
 - [[2c-d-pihkal-entry-23]]
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 
 - [[fukuoka-road-education-modern-schooling]]

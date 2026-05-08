@@ -109,7 +109,7 @@ the precision on which intensive small-farm production depends.
 
 ## Related
 
-- [[coleman-hidden-farm-and-double-cropping-strategy]] Concepts
+- coleman hidden farm and double cropping strategy Concepts
 
 - [[coleman-bed-preparation-and-minimal-tillage]] — how tools are used in
   the bed preparation sequence

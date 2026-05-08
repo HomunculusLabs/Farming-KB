@@ -47,7 +47,7 @@ Key biogeochemical roles include:
 
 - Carbon cycling through decomposition of organic matter.
 
-- Nitrogen cycling via mineralization and immobilization, connecting to the [[nitrogen-cycle-in-soil]].
+- Nitrogen cycling via mineralization and immobilization, connecting to the [[composting-and-soil-biology]].
 
 - Phosphorus solubilization from mineral sources, making this limiting nutrient available to plants.
 
@@ -113,7 +113,7 @@ Soil fungi interact with diverse faunal groups that affect their distribution an
 
 - **Collembola and mites**: Feed on fungal hyphae, regulating fungal biomass and community composition through selective grazing.
 
-- **Nematodes**: Include both fungal-feeding and fungal-parasitic species; [[nematode-trapping-fungi]] prey on nematodes, creating complex [[nutrient-retention-soil-food-web]] networks.
+- **Nematodes**: Include both fungal-feeding and fungal-parasitic species; [[nematode-trapping-fungi]] prey on nematodes, creating complex [[composting-and-soil-biology]] networks.
 
 - **Tillage beetles and other arthropods**: Disperse spores and fragment organic matter, creating new colonization sites.
 
@@ -139,7 +139,7 @@ Fungal hyphae influence soil water relations through several mechanisms:
 
 - [[fungal-community-ecology]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 - [[fungal-biodiversity-forest-ecosystems]]
 

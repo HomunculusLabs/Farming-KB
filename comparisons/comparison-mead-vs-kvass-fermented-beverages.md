@@ -32,7 +32,7 @@ created: 2026-05-07
 | **Base ingredient** | Honey + water + yeast | Rye bread + water + natural/wild microflora |
 | **Alcohol content** | 4–20% ABV (wide range) | 0.5–2.5% ABV |
 | **Fermentation time** | Weeks to years | 1–3 days |
-| **Primary organism** | *Saccharomyces cerevisiae* or specialized mead yeasts | Lactic acid bacteria + wild yeast (*Kazachstania exigua*, *Saccharomyces cerevisiae*) |
+| **Primary organism** | *[[saccharomyces-cerevisiae]]* or specialized mead yeasts | [[lactic-acid-bacteria-lab]] bacteria + [[comparison-sourdough-vs-wild-yeast]] (*Kazachstania exigua*, *Saccharomyces cerevisiae*) |
 | **Historical origin** | ~7000 BCE, likely China or Africa | ~1000 CE, Eastern Europe / Russia |
 | **Category** | Alcoholic fermentation | Lacto-alcoholic fermentation (near-beer) |
 | **Calories (per 350 mL)** | 300–500 kcal | 60–120 kcal |
@@ -42,7 +42,7 @@ created: 2026-05-07
 
 ## What Is Mead?
 
-Mead is an alcoholic beverage made by fermenting honey diluted with water. It is the world's oldest fermented beverage, with archaeological evidence from Jiahu, China dating to ~7000 BCE, and widespread presence in ancient European, African, and Asian cultures. Mead occupies a vast stylistic spectrum:
+Mead is an alcoholic beverage made by fermenting honey diluted with water. It is the world's oldest fermented beverage, with [[mexican-mushroom-stones-archaeological-evidence]] from Jiahu, China dating to ~7000 BCE, and widespread presence in ancient European, African, and Asian cultures. Mead occupies a vast stylistic spectrum:
 
 - **Traditional mead**: Honey + water. Can be still, sparkling, or petillant.
 - **Melomel**: Mead with fruit (e.g., cyser = apple mead, pyment = grape mead).
@@ -51,7 +51,7 @@ Mead is an alcoholic beverage made by fermenting honey diluted with water. It is
 - **Bochet**: Mead from caramelized or scorched honey, with deep toffee and caramel notes.
 - **Session mead**: Low-ABV (3–5%) mead, carbonated and intended for casual drinking.
 
-Honey composition varies enormously by floral source. Clover honey is mild and clean; buckwheat honey is robust and earthy; wildflower honey is complex and variable; orange blossom honey is floral and citrusy. The honey you choose determines the character of your mead. Water quality matters too — soft, low-mineral water produces cleaner fermentations.
+Honey composition varies enormously by floral source. Clover honey is mild and clean; buckwheat honey is robust and earthy; wildflower honey is complex and variable; orange blossom honey is floral and citrusy. The honey you choose determines the character of your mead. [[permaculture-designers-manual-water-quality]] matters too — soft, low-mineral water produces cleaner fermentations.
 
 ## What Is Kvass?
 
@@ -144,9 +144,7 @@ Kvass fermentation is a rapid, mixed-culture process:
 
 ## See Also
 
-- [[kombucha-brewing|Kombucha Brewing and Fermented Tea Culture]]
-- [[comparison-kefir-vs-kombucha|Kefir vs Kombucha]]
-- [[comparison-lacto-fermentation-vs-kombucha|Lacto-Fermentation vs Kombucha]]
-- [[food-fermentation-guide|Wild Fermentation and Spontaneous Cultures]]
-- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home|Best Fermented Beverages for Beginners]]
-- [[query-how-to-make-mead-at-home|How to Make Mead at Home]]
+- Kombucha Brewing and Fermented Tea Culture
+- [[comparison-kefir-vs-kombucha]]
+- [[comparison-lacto-fermentation-vs-kombucha]]
+- [[food-fermentation-guide]]

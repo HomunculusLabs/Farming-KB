@@ -19,7 +19,7 @@ Several neurotropic species are found across much of Europe with no specific cou
 
 - [[amanita-muscaria]]: Perhaps the most iconic psychoactive fungus, distributed throughout Europe in boreal and temperate forests, particularly in association with Betula (birch) and Pinus (pine)
 - [[amanita-pantherina]]: Widely distributed across temperate Europe
-- [[amanita-regalis]]: A northern species found in Scandinavia and Russia
+- [[amanita-regalis-entity]]: A northern species found in Scandinavia and Russia
 - [[claviceps-purpurea]]: The ergot fungus, extremely common on cereals and grasses throughout Europe
 - [[claviceps-paspali]]: Found on Paspalum grasses in warmer regions
 - [[psilocybe-semilanceata]]: The "liberty cap," Europe's most common and widespread psychoactive Psilocybe, found in temperate and boreal grasslands
@@ -27,7 +27,7 @@ Several neurotropic species are found across much of Europe with no specific cou
 - [[panaeolus-subbalteatus]]: A common dung-inhabiting species across much of Europe
 - [[panaeolus-sphinctrinus]]: Widespread across European pastures
 - [[panaeolina-foenisecii]]: Extremely common in lawns and pastures throughout Europe
-- [[gymnopilus-spectabilis]]: Distributed across central and southern Europe
+- [[gymnopilus-spectabilis-entity]]: Distributed across central and southern Europe
 - [[pluteus-salicinus]]: Found on dead wood in broadleaf forests across Europe
 - [[inocybe-corydalina]]: A widespread mycorrhizal species containing indole alkaloids
 
@@ -36,13 +36,13 @@ Several neurotropic species are found across much of Europe with no specific cou
 ### Northwestern Europe
 
 #### Great Britain (including Ireland, Hebrides, Shetland)
-Britain has a well-documented neurotropic mycoflora with [[psilocybe-semilanceata]] particularly abundant in upland pastures. Notable species include [[psilocybe-cyanescens]] (especially in southern England), [[panaeolus-subbalteatus]], [[gymnopilus-spectabilis]], and [[gymnopilus-sapineus]]. [[conocybe-kuehneriana]] has also been reported. [[claviceps-purpurea]] is common on grasses.
+Britain has a well-documented neurotropic mycoflora with [[psilocybe-semilanceata]] particularly abundant in upland pastures. Notable species include [[psilocybe-cyanescens]] (especially in southern England), [[panaeolus-subbalteatus]], [[gymnopilus-spectabilis-entity]], and [[gymnopilus-sapineus]]. [[conocybe-kuehneriana]] has also been reported. [[claviceps-purpurea]] is common on grasses.
 
 #### Ireland
 [[psilocybe-semilanceata]] is known from Irish pastures, extending the species' Atlantic distribution.
 
 #### France
-France has a diverse neurotropic mycoflora including [[copelandia-cyanescens]] (particularly in the southwest), [[psilocybe-cyanescens]], [[psilocybe-semilanceata]], [[psilocybe-strictipes]], and [[inocybe-aeruginascens]]. Samorini documented extensive French collections in the 1980s and 1990s, contributing significantly to distributional knowledge.
+France has a diverse neurotropic mycoflora including [[copelandia-cyanescens]] (particularly in the southwest), [[psilocybe-cyanescens]], [[psilocybe-semilanceata]], [[psilocybe-strictipes-entity]], and [[inocybe-aeruginascens]]. Samorini documented extensive French collections in the 1980s and 1990s, contributing significantly to distributional knowledge.
 
 #### Germany
 Germany has been particularly well-studied by Derbsch and Schmitt, with detailed records from the Saarland region. [[inocybe-aeruginascens]] was first described from Germany and has been the subject of extensive chemical investigation by Gartz. Other species include [[psilocybe-cyanescens]], [[psilocybe-bohemica]], [[galerina-steglichii]] (first described from Germany), and numerous Panaeolus species.
@@ -56,7 +56,7 @@ Notable for [[psilocybe-cyanescens]], which has become naturalized in some areas
 ### Northern Europe
 
 #### Scandinavia (Norway, Sweden, Finland)
-The northernmost records of neurotropic fungi in Europe come from Scandinavia. [[psilocybe-semilanceata]] extends well into Norway and Finland. [[amanita-regalis]] is found in Scandinavia and Russia. Finland has [[conocybe-cyanopus]], [[psilocybe-fimetaria]], Psilocybe pelliculosa, and [[psilocybe-silvatica]]. Norway reports [[conocybe-cyanopus]] and [[psilocybe-fimetaria]]. Sweden has [[psilocybe-cyanescens]] and [[psilocybe-strictipes]].
+The northernmost records of neurotropic fungi in Europe come from Scandinavia. [[psilocybe-semilanceata]] extends well into Norway and Finland. [[amanita-regalis-entity]] is found in Scandinavia and Russia. Finland has [[conocybe-cyanopus]], [[psilocybe-fimetaria]], Psilocybe pelliculosa, and [[psilocybe-silvatica]]. Norway reports [[conocybe-cyanopus]] and [[psilocybe-fimetaria]]. Sweden has [[psilocybe-cyanescens]] and [[psilocybe-strictipes-entity]].
 
 #### Iceland
 Despite its harsh climate, Iceland has [[panaeolina-foenisecii]], Panaeolus ater, [[panaeolus-fimicola]], [[panaeolus-papilionaceus]], [[panaeolus-sphinctrinus]], and [[panaeolus-subbalteatus]].
@@ -67,7 +67,7 @@ Despite its harsh climate, Iceland has [[panaeolina-foenisecii]], Panaeolus ater
 ### Central Europe
 
 #### Czech Republic (formerly Czechoslovakia)
-An exceptionally well-documented country for neurotropic fungi. The Czech Republic has [[psilocybe-bohemica]] (originally described from here), Psilocybe coprinifacies, [[psilocybe-mairei]], [[psilocybe-serbica]], [[psilocybe-strictipes]], [[psilocybe-cyanescens]], [[psilocybe-fimetaria]], and [[psilocybe-semilanceata]]. Semerdzieva, Wurst, and their colleagues conducted extensive chemical analyses on Czech Psilocybe collections.
+An exceptionally well-documented country for neurotropic fungi. The Czech Republic has [[psilocybe-bohemica]] (originally described from here), Psilocybe coprinifacies, [[psilocybe-mairei]], [[psilocybe-serbica]], [[psilocybe-strictipes-entity]], [[psilocybe-cyanescens]], [[psilocybe-fimetaria]], and [[psilocybe-semilanceata]]. Semerdzieva, Wurst, and their colleagues conducted extensive chemical analyses on Czech Psilocybe collections.
 
 #### Austria
 [[psilocybe-semilanceata]], [[psilocybe-bohemica]], [[psilocybe-cyanescens]], [[psilocybe-serbica]], and [[inocybe-coelestium]] have been documented.
@@ -84,10 +84,10 @@ Switzerland has [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], [[galerina
 ### Southern Europe
 
 #### Spain
-Spain has a notably diverse neurotropic mycoflora for southern Europe, with [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], [[psilocybe-hispanica]] (a species described from Spain), [[copelandia-cyanescens]], [[gymnopilus-spectabilis]], and numerous Panaeolus species. Moreno and colleagues provided extensive Spanish records.
+Spain has a notably diverse neurotropic mycoflora for southern Europe, with [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], [[psilocybe-hispanica]] (a species described from Spain), [[copelandia-cyanescens]], [[gymnopilus-spectabilis-entity]], and numerous Panaeolus species. Moreno and colleagues provided extensive Spanish records.
 
 #### Italy
-Italy has one of the best-documented southern European neurotropic mycofloras, thanks largely to the work of Samorini. Species include [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], [[psilocybe-strictipes]], [[psilocybe-fimetaria]], [[copelandia-cyanescens]], Copelandia anomala, and numerous Inocybe species. Mycena cyanorhiza has also been reported from Italy.
+Italy has one of the best-documented southern European neurotropic mycofloras, thanks largely to the work of Samorini. Species include [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], [[psilocybe-strictipes-entity]], [[psilocybe-fimetaria]], [[copelandia-cyanescens]], Copelandia anomala, and numerous Inocybe species. Mycena cyanorhiza has also been reported from Italy.
 
 #### Greece
 [[amanita-muscaria]], [[amanita-pantherina]], [[claviceps-purpurea]], [[claviceps-paspali]], and [[panaeolus-sphinctrinus]] have been documented. The Eleusinian Mysteries connection to [[claviceps-purpurea]] has been discussed by Wasson, García-Terrés, and others.
@@ -98,7 +98,7 @@ Italy has one of the best-documented southern European neurotropic mycofloras, t
 ### Eastern Europe
 
 #### Russia (including Siberia)
-[[amanita-muscaria]] is widespread across Russia and Siberia. [[psilocybe-semilanceata]], [[psilocybe-strictipes]], [[claviceps-purpurea]], [[gymnopilus-spectabilis]], and Gymnopilus liquiritiae are also present. The Siberian records are particularly notable for the [[amanita-muscaria]] connection to possible ancient soma traditions.
+[[amanita-muscaria]] is widespread across Russia and Siberia. [[psilocybe-semilanceata]], [[psilocybe-strictipes-entity]], [[claviceps-purpurea]], [[gymnopilus-spectabilis-entity]], and Gymnopilus liquiritiae are also present. The Siberian records are particularly notable for the [[amanita-muscaria]] connection to possible ancient soma traditions.
 
 #### Ukraine
 [[amanita-muscaria]], [[amanita-pantherina]], Cordyceps capitata, Cordyceps ophioglossoides, [[claviceps-purpurea]], and numerous Panaeolus species have been documented by Minter and Dudka.
@@ -108,8 +108,8 @@ Italy has one of the best-documented southern European neurotropic mycofloras, t
 
 ### Islands and Territories
 - **Canary Islands**: [[panaeolus-sphinctrinus]]
-- **Madeira**: [[gymnopilus-spectabilis]]
-- **Azores**: [[gymnopilus-spectabilis]], [[panaeolina-foenisecii]]
+- **Madeira**: [[gymnopilus-spectabilis-entity]]
+- **Azores**: [[gymnopilus-spectabilis-entity]], [[panaeolina-foenisecii]]
 
 ## Ethnomycological Significance in Europe
 

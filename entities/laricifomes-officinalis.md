@@ -80,7 +80,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 
 ## Ecological Role
 
-*Laricifomes officinalis* is a **brown rot fungus** — its enzymes break down cellulose in wood but do not degrade lignin, leaving behind a characteristic brown, crumbly, cubically fractured residue. It begins as a heart rot pathogen in living trees, entering through wounds and slowly decaying the heartwood while the tree remains alive. After the host dies, it continues as a saprotroph. The cavities it creates in standing trees serve as critical nesting and denning habitat for cavity-nesting birds (woodpeckers, owls) and mammals (bats, squirrels, martens). Its perennial conks also serve as microhabitats for insects and other fungi. See [[brown-rot-and-white-rot-fungi-in-mycoremediation|brown-rot and white-rot fungi in mycoremediation]] and [[fungal-ecology-forest-floor]] for broader context on decay fungi.
+*Laricifomes officinalis* is a **brown rot fungus** — its enzymes break down cellulose in wood but do not degrade lignin, leaving behind a characteristic brown, crumbly, cubically fractured residue. It begins as a heart rot pathogen in living trees, entering through wounds and slowly decaying the heartwood while the tree remains alive. After the host dies, it continues as a saprotroph. The cavities it creates in standing trees serve as critical nesting and denning habitat for cavity-nesting birds (woodpeckers, owls) and mammals (bats, squirrels, martens). Its perennial conks also serve as microhabitats for insects and other fungi. See [[brown-rot-and-white-rot-fungi-in-mycoremediation|brown-rot and white-rot fungi in mycoremediation]] and [[the-soil-food-web]] for broader context on decay fungi.
 
 ## Historical Uses
 

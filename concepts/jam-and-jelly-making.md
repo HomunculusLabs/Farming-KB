@@ -112,6 +112,6 @@ If any element is out of balance, the jam will not set properly.
 - Mold on surface: indicates improper seal or insufficient processing; discard the entire jar (mold can produce mycotoxins below the surface).
 - Crystallization: too much sugar or sugar not fully dissolved. Ensure sugar is fully dissolved during cooking.
 ## See Also
-- [[pickle-making]] — another water bath canning and preservation method
+- pickle making — another water bath canning and preservation method
 - [[dried-herb-storage]] — alternative preservation for herbs and some fruits
 - [[vinegar-making]] — homemade vinegar for fruit-based shrubs and drinking vinegars

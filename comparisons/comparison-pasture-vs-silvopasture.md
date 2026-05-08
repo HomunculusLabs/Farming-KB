@@ -148,4 +148,3 @@ significant heat stress, and carbon sequestration is a management objective.
 | Income streams | Livestock only | Livestock + tree products |
 | Management complexity | Moderate | High |
 | Upfront cost | Fencing, water | Fencing, water, tree costs |
-| Parasite cycling | Broken by rotation | Reduced further by shade |

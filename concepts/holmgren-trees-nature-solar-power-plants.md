@@ -18,7 +18,7 @@ David Holmgren presents forest trees as "Nature's Solar Power Plants" in *Permac
 
 Although trees do not yield electricity directly, they most efficiently convert dilute solar energy into wood that can effectively substitute for many current uses of fossil fuel. This follows from the Maximum Power Law: because solar energy has been the primary external energy source for life on Earth, billions of years of evolution have already optimized its capture. Green plant chloroplasts are more efficient than hardware photovoltaic cells in biophysics studies.
 
-This argument rests on [[permaculture-principle-obtain-a-yield]] and the insight that natural systems have had far longer to optimize solar energy capture than human engineering. After a billion years of natural selection, the natural conversion of sunlight to electric charge that occurs in all green plant photosynthesis may already be the highest net energy possible.
+This argument rests on [[permaculture-design-principles]] and the insight that natural systems have had far longer to optimize solar energy capture than human engineering. After a billion years of natural selection, the natural conversion of sunlight to electric charge that occurs in all green plant photosynthesis may already be the highest net energy possible.
 
 ## Advantages Over Solar Cells
 

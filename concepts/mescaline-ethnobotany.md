@@ -35,7 +35,7 @@ alkaloid along with numerous other alkaloids. Its use spread from its
 original Mexican homeland to Texas, where it became the basis of a new Native
 American religious movement.
 
-See also: [[mescaline-peyote-san-pedro-cactus]], [[peyote-and-psychoactive-cacti]],
+See also: [[mescaline-peyote-san-pedro-cactus]], [[ethnomycology]],
 [[huichol-peyote-tradition]]
 
 ## San Pedro and Mescaline

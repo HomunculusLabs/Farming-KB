@@ -65,7 +65,7 @@ Chitosan acts as a **pathogen-associated molecular pattern (PAMP)** that plants 
 
 1. **Receptor binding**: Chitosan oligomers bind to membrane-localized receptors, including CERK1 (Chitin Elicitor Receptor Kinase 1) and LYK5 in Arabidopsis and rice.
 2. **Calcium signaling**: Rapid influx of Ca²⁺ ions serves as a secondary messenger, activating calcium-dependent protein kinases (CDPKs).
-3. **Reactive oxygen species (ROS) burst**: NADPH oxidases produce superoxide and hydrogen peroxide, which serve both as antimicrobial agents and signaling molecules.
+3. **[[reactive-oxygen-species-and-oxidative-stress]] (ROS) burst**: NADPH oxidases produce superoxide and [[hydrogen-peroxide-tissue-culture-wild-polypores]], which serve both as antimicrobial agents and signaling molecules.
 4. **Hormonal signaling**: Activation of the jasmonic acid (JA), salicylic acid (SA), and ethylene (ET) pathways, leading to the induction of pathogenesis-related (PR) proteins.
 5. **Defense gene expression**: Upregulation of genes encoding chitinases, β-1,3-glucanases, phenylalanine ammonia-lyase (PAL), and other defense-related enzymes.
 
@@ -99,7 +99,7 @@ Foliar application is the most common method of chitosan delivery. Key considera
 - **Timing**: Apply preventatively before expected disease pressure or at first signs of infection. Evening applications reduce UV degradation.
 - **Frequency**: Every 7–14 days during critical growth periods; excessive application can reduce efficacy due to receptor downregulation.
 
-Diseases controlled by foliar chitosan sprays include powdery mildew (on grape, cucumber, wheat), Botrytis gray mold, late blight (Phytophthora infestans), downy mildew, rice blast (Magnaporthe oryzae), and anthracnose.
+Diseases controlled by foliar chitosan sprays include powdery mildew (on grape, cucumber, wheat), Botrytis gray mold, late blight (Phytophthora infestans), [[downy-mildew-biology-diversity-peronosporales]], rice blast (Magnaporthe oryzae), and anthracnose.
 
 ### Seed Treatment and Coating
 
@@ -121,14 +121,14 @@ Soil-applied chitosan influences both plant health and the soil microbiome:
 - **Soil structure improvement**: Chitosan acts as a flocculant, improving soil aggregation in sandy soils through electrostatic bridging between clay particles.
 - **Nutrient availability**: Can chelate and slowly release micronutrients, reducing leaching losses.
 
-Typical soil application rates range from 10–100 kg/ha of chitosan or chitosan-enriched compost. Incorporation into compost or vermicompost before application is recommended for cost-effectiveness.
+Typical soil application rates range from 10–100 kg/ha of chitosan or chitosan-enriched compost. Incorporation into compost or vermicompost before application is recommended for [[cost-effectiveness-fungal-remediation]].
 
 ### Post-Harvest Treatment
 
 Chitosan coatings on harvested fruits and vegetables extend shelf life by:
 
 - Forming a semi-permeable barrier that reduces respiration rate and moisture loss
-- Directly inhibiting post-harvest pathogens (Penicillium, Botrytis, Colletotrichum)
+- Directly inhibiting [[post-harvest-handling-marketing-mushrooms]] pathogens (Penicillium, Botrytis, Colletotrichum)
 - Inducing defense responses in harvested tissue (still metabolically active)
 - Reducing ethylene production, delaying ripening
 
@@ -141,7 +141,7 @@ Chitosan has gained significant interest in cannabis cultivation as a natural al
 - **Powdery mildew prevention**: Foliar sprays at 0.1–0.2% applied every 7–10 days during vegetative and early flowering stages significantly reduce powdery mildew incidence.
 - **Root health**: Root drenches with chitosan (0.05–0.1%) promote root development and suppress Pythium and Fusarium in hydroponic and soil systems.
 - **Trichome enhancement**: Some growers report increased trichome production with chitosan treatment, likely due to the induced defense response redirecting resources to glandular trichomes.
-- **Compatibility**: Safe to use in combination with beneficial microbes (Trichoderma, Bacillus, mycorrhizae) when applied at recommended concentrations. Not compatible with high-pH nutrient solutions.
+- **Compatibility**: Safe to use in combination with beneficial microbes (Trichoderma, Bacillus, mycorrhizae) when applied at recommended concentrations. Not compatible with high-[[ph-and-nutrient-availability-garden-soils]] solutions.
 - **Regulatory note**: Chitosan is generally recognized as safe (GRAS) and approved for organic production, making it suitable for licensed cannabis operations requiring organic-compliant inputs.
 
 ## Chitosan Effects on Crop Yield and Quality
@@ -186,7 +186,7 @@ Chitosan can enhance the efficacy of microbial biocontrol agents through several
 
 - **Pre-symptomatic infection reduction**: By priming plant defenses, chitosan reduces initial pathogen establishment, giving introduced biocontrol agents a competitive advantage.
 - **Selective pressure**: Unlike broad-spectrum fungicides, chitosan does not harm Trichoderma, Bacillus, or mycorrhizal fungi at recommended rates, allowing these agents to establish and persist.
-- **Nutrient leak reduction**: Chitosan strengthens plant cell walls, reducing the exudation of nutrients that pathogenic fungi use as food sources, while beneficial endophytes that access nutrients through established symbiotic relationships are unaffected.
+- **Nutrient leak reduction**: Chitosan strengthens [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls, reducing the exudation of nutrients that pathogenic fungi use as food sources, while beneficial endophytes that access nutrients through established symbiotic relationships are unaffected.
 
 Recommended integration strategy: Apply chitosan preventatively at 7–14 day intervals, introduce biocontrol agents (Trichoderma, Bacillus) separately, and avoid mixing live microbial products directly with acidic chitosan solutions as the low pH may reduce microbial viability.
 
@@ -299,6 +299,6 @@ Current research directions include:
 - **Chitosan oligosaccharides (COS)**: Specific oligomer lengths (degree of polymerization 2–10) show potent elicitor activity with better solubility and lower viscosity than polymeric chitosan.
 - **Graft copolymers**: Chemical modification of chitosan with other functional groups to tailor solubility, bioactivity, and environmental persistence.
 - **Genomic studies**: Transcriptomic and proteomic analyses are revealing the full scope of chitosan-induced defense networks, enabling more targeted application strategies.
-- **Synergistic formulations**: Combining chitosan with essential oils, metal nanoparticles (Cu, Zn, Ag), or other bioactive compounds for enhanced broad-spectrum pest and disease management.
+- **Synergistic formulations**: Combining chitosan with [[essential-oils-and-hydrosol-distillation]], metal nanoparticles (Cu, Zn, Ag), or other bioactive compounds for enhanced broad-spectrum pest and disease management.
 - **CRISPR-based receptor engineering**: Research into modifying plant chitin receptors (CERK1/LYK5) to enhance chitosan sensitivity, potentially creating cultivars that respond more robustly to chitosan elicitation.
 - **Chitosan-based smart delivery systems**: Encapsulating fertilizers, micronutrients, or other agrochemicals within chitosan matrices for controlled, stimuli-responsive release triggered by soil pH, moisture, or microbial activity.

@@ -120,6 +120,6 @@ Very low acute toxicity; no documented human deaths from mescaline overdose alon
 
 - [[lophophora-diffusa]]
 
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[psychedelic-plant-sources]]
 - [[entheogens-in-ancient-cultures]]

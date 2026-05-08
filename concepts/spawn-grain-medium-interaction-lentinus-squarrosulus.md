@@ -148,5 +148,3 @@ smallholder adoption.
 
 - [[spawn-grain-performance-research]]: broader comparative analysis of
   spawn grain types across mushroom species
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]: [[grain-spawn-production]] methodology and general grain selection principles
-- [[fungal-basidiocarp-formation-ecology]]: ecological and physiological

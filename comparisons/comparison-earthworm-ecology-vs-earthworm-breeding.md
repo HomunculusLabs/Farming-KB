@@ -139,4 +139,4 @@ breeder's job is to jumpstart the ecology; the ecology then sustains itself.
 - [[composting]] — broader composting methods beyond vermicomposting
 - [[soil-food-web-structure]] — the complete soil biology beyond earthworms
 - [[mulching-guide]] — maintaining soil cover to support earthworm populations
-- [[no-till-gardening-method]] — tillage-free systems that protect earthworm habitat
+- [[composting-and-soil-biology]] — tillage-free systems that protect earthworm habitat

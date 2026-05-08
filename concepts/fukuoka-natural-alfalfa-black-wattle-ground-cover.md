@@ -114,7 +114,7 @@ succession of different herbs takes place over the years as the soil becomes
 richer. By sowing vegetable seeds of the same family as the weeds growing in
 the orchard, vegetable plants can eventually be made to replace the weeds.
 
-This integrated approach to [[fukuoka-natural-orchard-ground-cover]] demonstrates how [[fukuoka-natural-soil-fertility]] can be built through the strategic use of [[fukuoka-ladino-clover-ground-cover-management]], [[fukuoka-black-wattle-fertilizer-tree-method]], and other plants that work together to improve the
+This integrated approach to [[fukuoka-natural-farming-philosophy]] demonstrates how [[fukuoka-natural-soil-fertility]] can be built through the strategic use of [[fukuoka-ladino-clover-ground-cover-management]], [[fukuoka-black-wattle-fertilizer-tree-method]], and other plants that work together to improve the
 soil from surface to subsoil.
 
 ## Perennial Weeds as Natural Cover

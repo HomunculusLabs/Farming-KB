@@ -109,7 +109,7 @@ changes.
 
 ## Related Topics
 - [[phenethylamine-pharmacology]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-harm-reduction-philosophy]]
 - [[powell-psilocybin-harm-reduction]]

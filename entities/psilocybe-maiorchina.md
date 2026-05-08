@@ -33,7 +33,7 @@ of other semilanceata-group species, though it retains distinct status in some t
 The species was first described from collections made in the Balearic Islands, where it
 fruits in grassland and pastured habitats characteristic of the Mediterranean climate zone.
 Its placement in the semilanceatae section is supported by its habitat preferences, spore
-morphology, and the presence of [[psilocybin]] and [[psilocin]] as the primary active
+morphology, and the presence of [[psilocybin-compound]] and [[psilocin]] as the primary active
 compounds.
 
 Modern molecular phylogenetic studies have begun to clarify the relationships within the
@@ -114,7 +114,7 @@ drought and may not fruit in years with below-average autumn precipitation.
 
 ## Chemistry
 
-Chemical analysis of P. maiorchina collections has confirmed the presence of [[psilocybin]]
+Chemical analysis of P. maiorchina collections has confirmed the presence of [[psilocybin-compound]]
 and [[psilocin]] as the primary psychoactive compounds. The concentrations are generally
 moderate, comparable to other semilanceata-group species, though precise quantitative
 data from controlled studies remain limited.

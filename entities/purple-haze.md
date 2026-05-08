@@ -99,7 +99,7 @@ Purple Haze presents moderate cultivation difficulty:
 
 ## See Also
 
-- [[blue-dream]] — modern sativa-dominant hybrid with related lineage
+- [[cannabis-blue-dream]] — modern sativa-dominant hybrid with related lineage
 - [[haze-lineage-and-history]] — foundational parent strain
 - [[cannabis-terpene-profiles]] — terpene profiles and effects
 - [[cannabis-strain-guide-reference]] — chemistry of purple coloration

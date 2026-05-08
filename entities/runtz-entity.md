@@ -111,9 +111,9 @@ Different phenotypes show significant variation in bud structure, color expressi
 ## See Also
 
 - [[girl-scout-cookies]] — Cookie family progenitor strain, grandmother of Gelato
-- [[gelato]] — Direct parent of Runtz, itself a cross of Sunset Sherbet and Thin Mint
+- [[gelato-cannabis]] — Direct parent of Runtz, itself a cross of Sunset Sherbet and Thin Mint
 - [[sunset-sherbet]] — Parent of Gelato, contributing the sweet, sherbet-like aroma
-- [[zookies]] — Cross of Animal Cookies × Gorilla Glue #4, a related Cookies-family strain
+- [[zookies-cannabis]] — Cross of Animal Cookies × Gorilla Glue #4, a related Cookies-family strain
 - [[animal-face]] — Seed Junky cross of Face Off OG × Animal Mints, Cookies lineage relative
 - [[white-runtz]] — The most sought-after Runtz phenotype selection
 - [[thin-mint]] — Grandparent strain through Gelato, Thin Mint GSC contributes diesel notes

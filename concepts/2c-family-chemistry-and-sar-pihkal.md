@@ -139,7 +139,7 @@ changes.
 
 ## Related Topics
 - [[homobrassinolide]]
-- [[structure-activity-relationship-medicinal-chemistry]]
+- structure activity relationship medicinal chemistry
 - [[phenethylamine-chain-length-effects]]
 - [[phenethylamine-duration-and-timing]]
 - [[aleph-compound-profile]]

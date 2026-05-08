@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[guid-mhtml_file___e___textos__mycology__exotic_]]"
+  - "guid-mhtml_file___e___textos__mycology__exotic_"
 created: 2026-05-07
 type: concept
 ---

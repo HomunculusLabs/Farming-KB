@@ -1,5 +1,5 @@
 ---
-title: "Leonotis nepetifolia"
+title: "leonotis nepetifolia"
 created: 2026-05-06
 type: species
 tags:
@@ -8,7 +8,7 @@ tags:
   - ethnobotanical
   - herbal
   - pollinator-plant
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,7 +17,6 @@ sources:
   - Iwu, M.M. (1993). "Handbook of African Medicinal Plants." CRC Press.
   - Hind, D.J.N. (2013). "An Updated Checklist of the Lamiaceae of the World." Royal Botanic Gardens, Kew.
 ---
-
 # Leonotis nepetifolia
 
 ## Overview
@@ -29,15 +28,15 @@ dagga) but is more widely distributed across tropical and subtropical
 regions globally.
 
 The plant is recognized in African traditional medicine for its
-anti-inflammatory, antimicrobial, and mild psychoactive properties.
-The dried flowers are smoked or brewed as a tea in various cultural
+[[medicinal-mushroom-antioxidant-anti-inflammatory]], antimicrobial, and mild psychoactive properties.
+The dried flowers are smoked or brewed as a [[bill-mollison]]-permaculture-a-designers-manual-[[pattern-understanding-in-ecological-design]]-in-permaculturecultural
 contexts.
 
-In permaculture and ecological gardening, *L. nepetifolia* is valued
-as a magnet for pollinators, particularly hummingbirds, butterflies, and
+[[water-harvesting-and-conservation-in-permaculture]] and [[ecological-gardening-principles]], *L. nepetifolia* is valued
+as a magnet for pollinators, particularly hummingtrichome-development-and-morphologylies, and
 bees, owing to its prolific production of nectar-rich orange flowers.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 ### Taxonomy
 
@@ -82,7 +81,7 @@ each approximately 2 mm long, dark brown to black.
 ## Distribution and Habitat
 
 *L. nepetifolia* is native to tropical Africa but has naturalized
-widely across the tropics and subtropics, including Central and South
+widely across [[mollison-pasture-legumes-and-forage-legumes-of-the-tropics]] and subtropics, including Central and South
 America, South and Southeast Asia, and the Pacific Islands.
 
 It grows as a weed in disturbed areas, roadsides, cultivated fields,
@@ -142,17 +141,9 @@ glycosides and terpenoids on GABAergic pathways.
 in 1–2 weeks at temperatures above 20°C. Direct sowing after the
 last frost is recommended.
 
-In permaculture design, the plant serves multiple functions:
+In [[permaculture-design]], the plant serves multiple functions:
 
 - **Pollinator support:** The nectar-rich flowers attract
   hummingbirds, butterflies, bees, and beneficial insects
   throughout the warm season.
 - **Dynamic accumulator:** Deep taproot mines subsoil minerals,
-  making nutrients available through leaf litter decomposition.
-
-## See Also
-
-- [[entheogenic-syncretic-churches-brazil]]
-- [[psychedelic-plant-sources]]
-
-- [[leonotis-leonurus]]

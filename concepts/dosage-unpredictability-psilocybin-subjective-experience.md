@@ -25,7 +25,7 @@ created: 2026-04-28
 
 Bigwood and Beug (1982) concluded their study with a significant observation about the practical
 implications of alkaloid variability for [[entheogens-in-ancient-cultures|entheogenic]] and
-recreational users of [[psilocybe-cubensis]]: the variation in [[psilocybin]] and [[psilocin]]
+recreational users of [[psilocybe-cubensis]]: the variation in [[psilocybin-compound]] and [[psilocin]]
 levels means that users have no reliable way to predict the dose they are ingesting based on dry
 weight alone. This dosage unpredictability contributes to subjective experience variation beyond
 what can be attributed to [[set-and-setting]] alone, a conclusion with lasting relevance for

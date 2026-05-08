@@ -23,7 +23,7 @@ There is no way to avoid a discussion of Thomas De Quincey at this point.
 
 ## Thomas De Quincey and the Confession Form
 
-Like Timothy Leary in the 1960s, De Quincey was able to convey the visionary power
+Like [[timothy-leary]] in the 1960s, De Quincey was able to convey the visionary power
 of what he experienced. For De Quincey this was a power imprisoned within the
 labyrinth of the poppy. He was able to convey the opium vision with the force and the
 filigree of melancholia typical of Romanticism. Almost single-handedly he created, in
@@ -93,7 +93,7 @@ epitomize this esthetic.
 As the esthetic had a darker side, so too the chemistry of the poppy began to yield
 more consuming and more virulently addictive derivatives. The hypodermic syringe was
 discovered in 1853, and from then on the users of opiates have had the cautionary
-example of the severely addicted intravenous user of morphine to temper their
+example of the severely addicted intravenous user of [[morphine]] to temper their
 devotion.
 
 Morphine was isolated in 1805 by the young German chemist Friedrich Serturner. For
@@ -138,7 +138,7 @@ McKenna's broader argument places the opium chapter within a continuum that runs
 the hallucinogen-using partnership societies of prehistory through the opium-saturated
 cultures of the nineteenth century to the synthetic drug epidemics of modernity. Opium
 represents a departure from the original hallucinogenic relationship with plants.
-Unlike psilocybin, which dissolves ego boundaries and promotes group cohesion, opium
+Unlike [[psilocybin]], which dissolves ego boundaries and promotes group cohesion, opium
 reinforces the solitary, interior experience and can serve the dominator agenda by
 pacifying and isolating its users. The transition from hallucinogens to narcotics
 represents, in McKenna's framework, a key stage in the fall from the original
@@ -147,7 +147,4 @@ partnership with nature.
 ## See Also
 
 - [[mckenna-opium-history-demeter-poppy]] for the deeper ancient history of opium
-- [[mckenna-opium-wars-and-drug-diplomacy]] for the geopolitical dimension
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]] for the synthetic successors to opium
-- [[ergot-alkaloids-eleusinian-mysteries]] for the hallucinogens opium replaced
-- [[mckenna-opium-tobacco-paradoxical-attitudes]] for societal contradictions around drugs
+- [[ethnomycology]] for the geopolitical dimension

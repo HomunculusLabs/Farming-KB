@@ -78,7 +78,7 @@ This association suggests that the presence of healthy moss populations may be a
 
 ## Chemistry
 
-The species is psychoactive, containing [[psilocybin]] and [[psilocin]] as its primary active alkaloids, confirmed through both chemical extraction and the presence of the characteristic blue bruising reaction.
+The species is psychoactive, containing [[psilocybin-compound]] and [[psilocin]] as its primary active alkaloids, confirmed through both chemical extraction and the presence of the characteristic blue bruising reaction.
 Analytical data from researchers including [[bigwood]] and [[beug]] have placed it within the known range of potency for Neotropical Psilocybe species, likely in the low to moderate range.
 
 [[baeocystin]] and [[norbaeocystin]] have been identified in related South American species and are presumed to be present in *P. linearis* as well, though specific quantitative analysis remains limited.
@@ -130,7 +130,7 @@ The blue staining reaction further distinguishes it from non-psychoactive Deconi
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]

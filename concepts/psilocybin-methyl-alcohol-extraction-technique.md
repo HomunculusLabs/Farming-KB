@@ -138,7 +138,7 @@ chemical preparations.
 ## Historical Context in Extraction Literature
 
 The Ghouled method predates more sophisticated techniques described in
-later underground publications, including [[psilocybin]] and various
+later underground publications, including [[psilocybin-compound]] and various
 chromatographic approaches. It represents the most basic level of
 alkaloid extraction -- a simple maceration followed by solvent
 evaporation -- which nonetheless produces a usable product.
@@ -148,4 +148,3 @@ evaporation -- which nonetheless produces a usable product.
 - [[psilocybin-extraction-guide]]
 - psilocybin-and-psilocin-chemistry
 - [[psilocybin-compound-profile]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]

@@ -430,7 +430,7 @@ Asia, and the Americas.
   landscapes
 - [[holzer-crater-garden-design]] -- Bowl-shaped gardens for humid
   microclimates
-- [[holzer-raised-bed-design]] -- Self-fertilising raised beds with organic
+- [[sepp-holzer-permaculture-and-rebel-farming]] -- Self-fertilising raised beds with organic
   cores
 - [[holzer-raised-bed-techniques-hugelkultur]] -- Hugelkultur mound
   construction
@@ -494,3 +494,10 @@ Asia, and the Americas.
 26. Holzer urban farming concept page, LLM Wiki.
 27. Holzer balcony garden concept page, LLM Wiki.
 28. Holzer ten step plan for world hunger concept page, LLM Wiki.
+## Holzer Raised Bed Design
+
+# Holzer Raised Bed Design Raised beds are central to Sepp Holzer's permaculture system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention. ## Construction A system of raised beds can be built by hand or with a mechanical digger. Holzer uses a digger to make a ditch 1-1.5m deep and around 1.5-2m wide. He carefully removes the humus layer and separates it. ...
+
+## Holzer Water Landscapes and Pond Building
+
+# Holzer Water Landscapes and Pond Building Water management is one of the most important areas of [[holzer-alpine-farming-techniques]]. From the upper boundary of the Krameterhof (1,500m above sea level) to the valley (1,100m), water is captured, stored, and used for multiple purposes across a network of approximately 60 ponds, water gardens, wetlands, and ditches. This water infrastructure supports fish farming, crayfish and mussel cultivation, aquatic plant production, and duck and goose keeping, while creating beneficial microclimates across the farm. ## The Water Network Philosophy Holzer's approach to water is fundamentally different from conventional drainage-based systems. Rather than moving water off the land as quickly as possible, he seeks to keep water on the land for as long as possible and make as much use of it as he can. ...

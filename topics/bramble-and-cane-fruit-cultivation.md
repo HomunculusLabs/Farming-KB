@@ -47,7 +47,7 @@ Red raspberries are the most widely cultivated bramble. They originate from Euro
 
 Native to eastern North America, black raspberries have a distinct, rich flavor and deep purple-black color. They are less widely grown commercially than red raspberries but prized by home gardeners and specialty markets. Hardiness Zones 4–8.
 
-- More drought-tolerant than red raspberries once established.
+- More [[drought-tolerant-planting-design]] than red raspberries once established.
 - Produce purple-tinted canes with distinctive curved (arching) growth and a whitish bloom.
 - Susceptible to several viruses; plant certified virus-free stock and maintain spacing from red raspberries (which can be asymptomatic virus carriers).
 
@@ -87,7 +87,7 @@ Brambles perform best in **full sun** — at least 6–8 hours of direct sunligh
 - **Texture**: Well-drained loam is ideal. Sandy loams warm quickly in spring, advancing harvest. Heavy clay soils retain too much moisture, increasing root rot risk.
 - **pH**: Optimal range is **5.5–6.5** (slightly acidic). Below 5.0, aluminum and manganese toxicity becomes a concern. Above 7.0, iron chlorosis and reduced micronutrient uptake occur.
 - **Organic matter**: Incorporate 2–4 inches of well-rotted compost before planting. Brambles benefit from high soil organic matter (3–5%) for moisture retention and nutrient cycling.
-- **Drainage**: Critical. Standing water for even 24–48 hours can kill roots. Avoid planting in low-lying frost pockets or areas with high water tables. Raised beds (6–12 inches) can compensate for imperfect drainage.
+- **Drainage**: Critical. Standing water for even 24–48 hours can kill roots. Avoid planting in low-lying frost pockets or areas with high water tables. [[raised-beds-vs-in-ground-vs-containers]] (6–12 inches) can compensate for imperfect drainage.
 
 ### Air Circulation
 
@@ -105,7 +105,7 @@ Good air movement reduces disease pressure, especially for botrytis (gray mold),
 1. Test soil 6–12 months before planting. Amend pH if needed (sulfur to lower, lime to raise).
 2. Remove all perennial weeds, especially creeping perennials like bindweed, quackgrass, and nutsedge.
 3. Incorporate 2–4 inches of aged compost or well-rotted manure to a depth of 12 inches.
-4. If soil is very poor, consider a green manure cover crop (buckwheat, oats) the season before planting.
+4. If soil is very poor, consider a green manure [[cover-crop-multifunction-design]] (buckwheat, oats) the season before planting.
 
 ### Planting Process
 
@@ -183,7 +183,7 @@ Brambles have relatively shallow root systems (concentrated in the top 18–24 i
 1. **Plant establishment** (first year): Keep soil evenly moist but not waterlogged. Water 1–2 inches per week.
 2. **Bud break to bloom** (spring): Critical for flower initiation. Water stress reduces berry count.
 3. **Fruit development** (summer): Most critical period. Drought during this phase produces small, seedy berries.
-4. **Post-harvest** (late summer): Primocane growth is rapid; consistent water supports next year's crop.
+4. **[[post-harvest-handling-marketing-mushrooms]]** (late summer): Primocane growth is rapid; consistent water supports next year's crop.
 
 ### Irrigation Methods
 
@@ -215,7 +215,7 @@ Always base fertilizer programs on soil test results. Over-fertilization, especi
 - Composted manure (2–3 inches applied as mulch in fall or early spring)
 - Alfalfa meal (provides N + some P/K + micronutrients + growth stimulants)
 - Fish emulsion or fish hydrolysate (liquid N source, can be foliar-fed)
-- Kelp meal (potassium, micronutrients, plant growth regulators)
+- Kelp meal (potassium, micronutrients, [[plant-growth-promoting-rhizobacteria]] regulators)
 - Bone meal (phosphorus)
 - Wood ash (potassium + lime effect — use sparingly to avoid raising pH too high)
 
@@ -296,7 +296,7 @@ Two management options:
 1. **Prevention**: Plant certified disease-free stock, choose resistant varieties, maintain good sanitation, ensure proper spacing and air circulation.
 2. **Monitoring**: Regular scouting (weekly during growing season), pheromone traps for SWD, sticky cards for aphids.
 3. **Biological controls**: Encourage or introduce predatory insects (lady beetles, lacewings, predatory mites), use *Bacillus thuringiensis* (Bt) for caterpillar pests, apply *Trichoderma* spp. for soil-borne disease suppression.
-4. **Cultural controls**: Timely pruning and removal of infected material, clean cultivation between rows, crop rotation (avoid replanting where diseased brambles grew), mulch to suppress weed hosts.
+4. **Cultural controls**: Timely pruning and removal of infected material, clean cultivation between rows, [[crop-rotation-vegetable-garden]] (avoid replanting where diseased brambles grew), mulch to suppress weed hosts.
 5. **Chemical controls**: Use as last resort. Prefer organic-approved products (Spinosad, pyrethrins, neem oil, kaolin clay). Always follow label instructions regarding pre-harvest intervals.
 
 ## Harvest
@@ -373,7 +373,7 @@ Thornless varieties are invaluable for home gardens and pick-your-own operations
 
 - **Understory plantings**: Brambles work well beneath dwarf fruit trees in food forest systems, where they receive partial shade from afternoon sun while still getting adequate light.
 - **Edge plantings**: Ideal for hedgerows and fence lines. Their thorny habit provides a natural livestock barrier and wildlife habitat.
-- **Guild associates**: Comfrey (dynamic accumulator), Dutch white clover (living mulch, nitrogen fixation), alliums (pest deterrence), yarrow (beneficial insect attractor).
+- **Guild associates**: Comfrey ([[dynamic-accumulator-plants-potassium]]), Dutch white clover ([[living-mulch-systems-guide]], nitrogen fixation), alliums (pest deterrence), yarrow (beneficial insect attractor).
 
 ### Wildlife Value
 

@@ -26,7 +26,7 @@ Scale insects have historically been among the most serious pests affecting citr
 
 Three species — the arrowhead scale, the cottony-cushion scale, and the red wax scale — were once classified as the major citrus pests. Their management through chemical means proved increasingly problematic, while biological control provided elegant and lasting solutions that were disrupted by postwar enthusiasm for synthetic pesticides.
 
-Fukuoka's natural orchard, where no strong pesticides were applied, served as a living demonstration that these pests could be managed without chemicals when natural predator populations were preserved. The contrast between his orchard and neighboring conventional orchards provided powerful evidence for the superiority of biological over chemical approaches.
+Fukuoka's [[natural-orchard-management]], where no strong pesticides were applied, served as a living demonstration that these pests could be managed without chemicals when natural predator populations were preserved. The contrast between his orchard and neighboring conventional orchards provided powerful evidence for the superiority of biological over chemical approaches.
 
 ## The Cottony-Cushion Scale and the Vedalia Ladybug
 
@@ -82,7 +82,7 @@ All three case studies share a common narrative:
 4. **Recovery follows cessation**: When chemical use stops, natural enemy populations recover and pest suppression is reestablished.
 5. **The lesson is ignored**: Despite clear evidence, farmers and scientists continue pursuing chemical solutions, perpetuating the cycle.
 
-These case studies form some of the most compelling evidence in Fukuoka's work for the superiority of natural farming methods. They demonstrate that the most sophisticated and effective pest control system is the one that nature provides free of charge — if only humans have the wisdom to leave it intact.
+These case studies form some of the most compelling evidence in Fukuoka's work for the superiority of [[natural-farming-animal-husbandry-methods-comparison]]. They demonstrate that the most sophisticated and effective pest control system is the one that nature provides free of charge — if only humans have the wisdom to leave it intact.
 
 ## The Role of Orchard Biodiversity
 
@@ -102,7 +102,7 @@ Pest management in natural farming is not a separate activity performed with spr
 
 ## Contrast with Modern Integrated Pest Management
 
-Modern integrated pest management (IPM) has absorbed some of these lessons but remains fundamentally different from Fukuoka's approach. IPM typically uses pesticides as a last resort after threshold levels are reached, employing monitoring and selective chemicals to minimize harm to beneficial insects.
+Modern [[integrated-pest-management-ipm]] management (IPM) has absorbed some of these lessons but remains fundamentally different from Fukuoka's approach. IPM typically uses pesticides as a last resort after threshold levels are reached, employing monitoring and selective chemicals to minimize harm to beneficial insects.
 
 While this represents progress over blanket spraying, it still treats the farm as a site of intervention rather than a self-regulating system. Fukuoka's approach goes further: the question is not which pesticide to use or when to use it, but whether any intervention is needed at all.
 
@@ -123,7 +123,7 @@ Fukuoka's scale insect case studies remain among the clearest demonstrations tha
 
 What makes these case studies particularly powerful is that they do not require the farmer to actively manage biological control. The vedalia ladybug and the parasitic wasps established themselves without human assistance. The farmer's role was simply to refrain from destroying what nature had already put in place. This is the essence of natural farming: not doing things, but stopping the things that prevent nature from doing them.
 
-The lesson extends beyond agriculture into every domain of human activity. When we intervene heavily in natural systems, we invariably create problems that require further intervention. When we step back, natural systems tend toward balance and health. The scale insect case studies are not merely about pest control — they are about the relationship between human action and natural order.
+The lesson extends beyond agriculture into every domain of human activity. When we intervene heavily in natural systems, we invariably create problems that require further intervention. When we step back, natural systems tend toward balance and health. The scale insect case studies are not merely about pest control — they are about the relationship between human action and [[korean-natural-farming-and-jadam]].
 
 ## See Also
 

@@ -69,7 +69,7 @@ The ideal soil moisture for nutrient uptake is roughly 60-80% of field capacity 
 
 ## Biological Activity and Nutrient Cycling
 
-The [[nutrient-retention-soil-food-web]] is the primary mechanism by which nutrients become available to plants in organic systems. Bacteria and fungi decompose organic matter, releasing nutrients in plant-available forms. Protozoa and nematodes consume bacteria and fungi, excreting excess nutrients at the root zone where plants can absorb them.
+The [[composting-and-soil-biology]] is the primary mechanism by which nutrients become available to plants in organic systems. Bacteria and fungi decompose organic matter, releasing nutrients in plant-available forms. Protozoa and nematodes consume bacteria and fungi, excreting excess nutrients at the root zone where plants can absorb them.
 
 Mycorrhizal fungi extend the effective root surface area by hundreds of times, accessing phosphorus and micronutrients that plant roots alone cannot reach. These fungal networks also transport water and nutrients between plants, creating shared resource pools within plant communities.
 

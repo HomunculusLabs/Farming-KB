@@ -133,5 +133,5 @@ Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements
 - [[water-soluble-calcium-wca]] — WCA troubleshooting
 - [[brown-rice-vinegar-brv]] — BRV as extraction solvent
 - [[lactic-acid-bacteria-lab]] — LAB production troubleshooting
-- [[cannabis-pest-management]] — cannabis-specific IPM
+- cannabis pest management — cannabis-specific IPM
 - [[soil-food-web-nutrient-cycling]] — biological foundation for all KNF inputs

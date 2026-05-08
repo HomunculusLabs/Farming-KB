@@ -57,7 +57,7 @@ duff, amongst leaves, and in mature compost piles.
 The fruiting mechanism may be partly controlled by bacterial flora associated
 with leaf mulch and the decomposition process. J. Garbaye et al. (1979) showed
 that supplementation of natural patches with NPKCa mineral fertilization
-induced large fruitings of Lepista nuda as well as [[boletus-edulis]] and Lepiota
+induced large fruitings of Lepista nuda as well as [[boletus-edulis-entity]] and Lepiota
 rachodes. Singer (1963) reported that mycelium implanted in beds of horse
 manure and straw compost for seven to fourteen months produced mushrooms
 directly after the appearance of rhizomorphs.

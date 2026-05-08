@@ -41,7 +41,7 @@ Careful implementation of PSR requires:
 
 ### The Coccidioides Paradigm
 
-The first application of PSR in mycology involved *Coccidioides immitis*, a fungal pathogen causing valley fever. Comparison of five gene sequences from 17 individuals revealed two phylogenetic species within what had been considered a single morphological species. This landmark study demonstrated that morphologically defined fungal species commonly harbour multiple cryptic species.
+The first application of PSR in mycology involved *[[coccidioides-immitis]]*, a fungal pathogen causing valley fever. Comparison of five gene sequences from 17 individuals revealed two phylogenetic species within what had been considered a single morphological species. This landmark study demonstrated that morphologically defined fungal species commonly harbour multiple [[cryptic-species]].
 
 ## Multilocus Sequence Typing (MLST)
 
@@ -68,7 +68,7 @@ Fungal microsatellites provide higher-resolution markers for intraspecific varia
 
 ## Challenging Morphological Species: The Histoplasma Case
 
-*Histoplasma capsulatum* (mitosporic name: *Ajellomyces capsulatus*) provides a compelling example of the conflict between phenotypic and genotypic species recognition. Historically divided into three varieties based on host, geography, and symptoms:
+*[[histoplasma-capsulatum]]* (mitosporic name: *Ajellomyces capsulatus*) provides a compelling example of the conflict between phenotypic and genotypic species recognition. Historically divided into three varieties based on host, geography, and symptoms:
 
 - *H. c.* var. *duboisii* (Africa): bone and skin infections
 - *H. c.* var. *farciminosum* (Eurasia): skin lesions in horses and donkeys
@@ -109,7 +109,7 @@ Species are maintained by mechanisms that reduce or eliminate gene flow among po
 
 The interplay between reproductive mode, natural selection, and geographic distribution determines whether populations remain connected by gene flow or diverge into separate species.
 
-## Impact on Fungal Taxonomy
+## Impact on [[fungal-taxonomy]]
 
 The application of molecular methods has had a transformative effect on fungal taxonomy:
 

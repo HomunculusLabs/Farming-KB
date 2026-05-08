@@ -79,7 +79,7 @@ For farmers who need more predictable results, especially in the early stages of
 
 When designing crop rotations, green manure phases should be included at regular intervals. A typical rotation might alternate between food crops and green manure crops, with the green manure phase rebuilding soil fertility depleted by the food crop phase.
 
-The length of the green manure phase depends on the condition of the soil and the demands of the subsequent crop. Severely depleted soils may need a full season of green manure, while healthy soils may only need a short catch crop between main plantings. This rotational thinking connects to [[permaculture-crop-rotation]] and [[permaculture-design-methods]].
+The length of the green manure phase depends on the condition of the soil and the demands of the subsequent crop. Severely depleted soils may need a full season of green manure, while healthy soils may only need a short catch crop between main plantings. This rotational thinking connects to [[permaculture-crop-rotation]] and [[permaculture-design]].
 
 Source: Permaculture Plants: A Selection; Gaia's Garden by Toby Hemenway
 

@@ -142,20 +142,6 @@ The substrate directly impacts yield, flavor, and longevity.
 | Shade cloth (optional) | $30–$60 |
 | Tags/labeling | $10 |
 | Logs (if free from arborist) | $0 |
-| **Total (low end)** | **~$145** |
-| **Total (with purchased logs)** | **$200–$350** |
-
-**Revenue potential:** At $10–$16/lb retail (farmers' market, direct), a 50-log shiitake operation yielding 50–100 lbs/year grosses $500–$1,600 annually.
-
-## Scaling Up
-
-- **100–500 logs** is a viable part-time operation; plan for 2–4 hours/week during fruiting season.
-- **500+ logs** warrants investment in a dedicated inoculation table, wax melter, and cold-water soaking tank.
-- **Diversify species** to extend your harvest calendar — oysters fruit spring/fall, shiitake spring/summer/fall, lion's mane late summer/fall.
-- **Value-added products:** dried mushrooms, mushroom powder, tinctures, grow-your-own log kits.
-- **Markets:** farmers' markets, CSAs, restaurants, co-ops, online. Restaurants pay $12–$20/lb wholesale for fresh local varieties.
-- **Track everything:** inoculation dates, strain, yields per flush, temperature/rainfall. Optimize timing and predict harvests for market planning.
-
 ## See Also
 
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]

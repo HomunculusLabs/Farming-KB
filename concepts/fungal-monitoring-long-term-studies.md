@@ -88,7 +88,7 @@ Power analysis is essential for designing monitoring programs that can detect me
 - [[fungal-diversity-estimation-methods]]
 - [[fungal-biodiversity-measurement-methods]]
 - [[fungal-biodiversity-soil-seasonal]]
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]
 
 ## References
 

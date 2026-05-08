@@ -85,6 +85,6 @@ The process of providing for people's needs within ecological limits requires a 
 
 ## From Vision to Pathway
 
-The title "Principles and Pathways" is significant. Principles alone are insufficient; they must be connected to practical pathways for action. The [[holmgren-twelve-design-principles-overview]] provide the compass; the various applications described throughout the book provide the pathways. Together they constitute a design system for the transition from energy growth to energy descent -- not a prediction of what will happen, but a toolkit for influencing what might happen.
+The title "Principles and Pathways" is significant. Principles alone are insufficient; they must be connected to practical pathways for action. The [[permaculture-design]] provide the compass; the various applications described throughout the book provide the pathways. Together they constitute a design system for the transition from energy growth to energy descent -- not a prediction of what will happen, but a toolkit for influencing what might happen.
 
 This is why permaculture is described as "consciously designed landscapes which mimic the patterns and relationships found in nature, while yielding an abundance of food, fibre and energy for provision of local needs." The design is conscious, not accidental; it mimics nature rather than fighting it; and it provides for local needs rather than global markets. These three characteristics define the pathway beyond sustainability.

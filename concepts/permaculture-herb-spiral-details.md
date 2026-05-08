@@ -126,7 +126,7 @@ Place herbs according to their preferred conditions:
 
 - Provides habitat for predatory insects and pollinators
 - Creates multiple microclimates in minimal space
-- Demonstrates the permaculture principle of [[permaculture-principle-use-small-and-slow-solutions|small and slow solutions]]
+- Demonstrates the permaculture principle of [[permaculture-design-principles|small and slow solutions]]
 - Excellent educational tool for demonstrating microclimate variation
 - Stone walls absorb heat during the day and release it at night, moderating temperatures
 

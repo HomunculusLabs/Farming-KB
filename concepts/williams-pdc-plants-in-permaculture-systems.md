@@ -148,4 +148,3 @@ research, always grounded in local ecological knowledge.
 ## See Also
 
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
-- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]

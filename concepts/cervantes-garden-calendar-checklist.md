@@ -146,6 +146,5 @@ Check the following every week to ensure a successful crop:
 
 - [[cervantes-vegetative-phase]]
 - [[cervantes-flowering-phase]]
-- [[cervantes-harvest-techniques]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
-- [[cervantes-cloning]]

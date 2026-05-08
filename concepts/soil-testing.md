@@ -132,7 +132,7 @@ Bad sampling produces bad data. Follow this protocol:
 - [[soil-food-web-nutrient-cycling]] — the biological engine that makes nutrients available
 - [[cannabis-plant-nutrition]] — cannabis-specific nutrient needs and organic sources
 - [[knf-preparations]] — biological inputs as alternative to mineral amendments
-- [[no-till-gardening-method]] — preserving soil structure and biology
+- [[composting-and-soil-biology]] — preserving soil structure and biology
 ## Related
 - [[dynamic-accumulators]]
 - [[composting-systems]]

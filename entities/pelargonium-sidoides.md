@@ -1,5 +1,5 @@
 ---
-title: Pelargonium sidoides
+title: pelargonium sidoides
 created: 2026-04-28
 type: species
 tags:
@@ -21,14 +21,13 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257694/
   - https://link.springer.com/article/10.1007/s11101-008-9106-2
 ---
-
 # Pelargonium sidoides (South African Geranium)
 
-**Pelargonium sidoides** is a medicinal plant native to South Africa, belonging to the Geraniaceae family. Its root has been used for centuries by traditional healers and is the source of a modern herbal pharmaceutical extract marketed as **Umckaloabo** (EPs 7630), one of the most clinically studied herbal medicines for acute respiratory tract infections. It is one of the few botanical medicines with robust randomized controlled trial evidence supporting its efficacy.
+**Pelargonium sidoides** is a [[medicinal-plant-preparations-tinctures-salves-teas]] native to South Africa, belonging to thequery-what-is-a-wavelet-transform-used-forceae family. Its root has been used for centuries by traditional healers and is the source of a modern herbal pharmaceutical extract marketed as **Umckaloabo** (EPs 7630), one of the most clinically studied [[herbal-medicine]] s for acute respiratory tract infections. It is one of the few botanical medicines with robust randomized controlled trial evidence supporting its efficacy.
 
 ## Taxonomy and Botany
 
-- **Family:** Geraniaceae
+- **Family:**[[australian-magic-mushroom-common-names]]
 - **Genus:** *Pelargonium*
 - **Species:** *P. sidoides* DC.
 - **Common names:** South African geranium, Cape pelargonium, umckaloabo, kalwerbossie, rabassaminha
@@ -40,7 +39,7 @@ A low-growing, tuberous perennial herb reaching 15–30 cm in height. Features h
 ### Distribution and Habitat
 - **Native range:** Eastern Cape, Free State, KwaZulu-Natal, Lesotho, and Swaziland in southern Africa
 - **Habitat:** Grasslands, mountain slopes, rocky outcrops at 1000–2800 m elevation
-- **Climate:** Summer rainfall regions with cold, dry winters
+- **Climate:** Summemexican-sacred-mushrooms-indigenous-use-and-ethnobotanyons with cold, dry winters
 - **Soil:** Well-drained, rocky, nutrient-poor soils
 
 ## History and Ethnobotany
@@ -50,7 +49,7 @@ Indigenous peoples of southern Africa, including the Basotho, Xhosa, and Zulu, h
 
 - Respiratory infections (coughs, bronchitis, tuberculosis)
 - Gastrointestinal disturbances (diarrhea, dysentery)
-- Wounds and skin infections
+- Wouningoldian-hyphomycetes-spore-dispersal-in-waterkin infections
 - Liver and gallbladder complaints
 - Fever and general malaise
 
@@ -77,7 +76,7 @@ The root of *P. sidoides* contains a complex mixture of bioactive compounds:
 - Protocatechuic acid
 - Catechin, epicatechin
 - Gallocatechin
-- Quercetin and quercetin derivatives
+- [[quercetin]] and quercetin derivatives
 - Proanthocyanidins (condensed tannins)
 - Dihydrokaempferol
 
@@ -147,11 +146,3 @@ Evidence supports faster symptom resolution in bacterial and viral tonsillophary
 EPs 7630 has been studied in children aged 1–12 years and demonstrates safety and efficacy at age-appropriate doses, making it one of the few evidence-based herbal options for pediatric respiratory infections.
 
 ## See Also
-
-- [[pelargonium-graveolens]]
-
-- [[history-of-mycology-timeline]]
-
-- [[herbal-medicine]]
-
-- [[herb-growing-guide]]

@@ -89,7 +89,7 @@ Further research should focus on:
 - [[mushroom-post-harvest-handling]]
 - [[oyster-mushroom-harvesting-post-harvest]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]

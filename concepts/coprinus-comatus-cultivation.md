@@ -30,7 +30,7 @@ Shaggy Manes grow throughout temperate regions of the world, fruiting in late su
 
 ### Substrate Preparation
 
-The preferred substrate for [[mushroom-compost-substrates]] is a straw/manure compost supplemented with nitrogen. Stamets recommends the compost formulas described in *The Mushroom Cultivator* (Stamets & Chilton, 1983) for substantial fruitings. An excellent alternative medium is manure and urea-enriched mushroom-substrates|sawdust, which also supports fruiting. Paper and pulp waste discharged from horse stables can serve as substrate when supplemented with 2% soya flour, though cultivators should verify residual heavy metal levels before using paper products.
+The preferred substrate for [[mushroom-cultivation-fundamentals]] is a straw/manure compost supplemented with nitrogen. Stamets recommends the compost formulas described in *The Mushroom Cultivator* (Stamets & Chilton, 1983) for substantial fruitings. An excellent alternative medium is manure and urea-enriched mushroom-substrates|sawdust, which also supports fruiting. Paper and pulp waste discharged from horse stables can serve as substrate when supplemented with 2% soya flour, though cultivators should verify residual heavy metal levels before using paper products.
 
 The addition of a [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] composed of peat moss and gypsum is highly beneficial. After the compost is fully colonized (approximately two weeks), a moist casing layer is applied. Within 10 days, the cottony mycelium becomes visible reaching through the upper surface of the casing.
 

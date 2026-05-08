@@ -89,6 +89,6 @@ Albert Hofmann remained a respected scientist at Sandoz throughout his life. He 
 ## Related Topics
 
 - [[lsd-pharmacology]] for mechanism of action
-- [[psilocybin-in-the-counter-culture]] for the cultural spread
+- [[psychedelic-mushrooms-species-and-identification]] for the cultural spread
 - [[psilocybin-mushroom-legal-history]] for criminalization
 - [[psychedelic-mushroom-pharmacology]] for comparison with psilocybin

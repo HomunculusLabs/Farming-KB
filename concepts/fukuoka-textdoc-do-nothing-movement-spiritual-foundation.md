@@ -143,10 +143,8 @@ The do-nothing farmer does not work less than the conventional farmer. In some w
 ## Wikilinks
 
 [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
-[[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+[[fukuoka-natural-farming-philosophy]]
 [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
 [[fukuoka-textdoc-errors-of-human-intellect]]
 [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 [[fukuoka-textdoc-farming-for-all-vision]]
-[[fukuoka-textdoc-village-philosophy-disappearance]]
-[[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]

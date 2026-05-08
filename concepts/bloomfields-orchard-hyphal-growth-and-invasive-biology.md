@@ -132,48 +132,6 @@ supports extending tips.
 When fungi have exhausted food, they must overcome surface
 tension to emerge. By collaborating to form a mushroom,
 millions of cells each exerting micronewtons can crack a
-paving slab.
-
-## Nutrient Transport
-
-A proton pump exports hydrogen ions, charging the
-membrane. The electrochemical gradient drives reentry
-through carrier proteins that simultaneously import
-sugars and amino acids.
-Chemical reactions at the membrane establish preferred
-internal saltiness, acidity, and hydration. The fungal
-mycelium is an island of chemical order dwarfed by
-surrounding disorder.
-
-## Rock-Penetrating Fungi and Mycorrhizae
-
-Some fungi grow inside granite bedrock, connecting with
-tree and shrub roots through mycorrhizal associations.
-They extract scarce inorganic nutrients from rock using
-citric and oxalic acids.
-Their tunnels provide pathways for water percolation,
-and ice crystallization accelerates weathering into soil.
-Fossilized mycorrhizal hyphae in primitive land plant
-roots date back 400 million years.
-Wisconsin rock spores suggest partnerships extend back
-more than 600 million years. Rock-penetrating fungi may
-have been essential in creating the first soils for land
-plant evolution.
-
-## Morphogenesis
-
-The fundamental question of how hyphae determine their
-cylindrical shape remains unsolved. Polarized vesicle
-delivery to the tip is central, but what establishes tip
-position is unknown.
-Genes specify proteins, not shapes, and shape emerges
-from interactions among vast numbers of proteins. Even a
-complete genome reading is insufficient to predict form.
-Zygote becomes embryo becomes baby becomes adult; spore
-becomes hypha becomes mycelium becomes mushroom. Even a
-partial solution to this enigma would transform our
-understanding of fungal biology.
-
 ## Related Concepts
 
 - Fungal Biology and Ecology

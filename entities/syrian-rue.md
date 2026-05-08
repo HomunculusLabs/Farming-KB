@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Peganum harmala** L., commonly known as Syrian rue, esfand, or harmal, is a perennial herbaceous plant in the family Nitrariaceae (formerly Zygophyllaceae). Native to the Mediterranean basin, Middle East, and Central Asia, it has been used for millennia in traditional medicine, ritual, and dye production.
+**[[peganum-harmala]]** L., commonly known as Syrian rue, esfand, or harmal, is a perennial herbaceous plant in the family Nitrariaceae (formerly Zygophyllaceae). Native to the Mediterranean basin, Middle East, and Central Asia, it has been used for millennia in traditional medicine, ritual, and dye production.
 
 The plant is most notable as the botanical source of the β-carboline alkaloids **harmine**, **harmaline**, and **harmalol** — potent reversible inhibitors of monoamine oxidase A (RIMA). These alkaloids form the pharmacological basis of **ayahuasca analogs** (sometimes called "pharmahuasca" or "ayahuasca lite") when combined with DMT-containing plants, mimicking the traditional Amazonian brew's activation mechanism.
 
@@ -67,7 +67,7 @@ Harmine is also a competitive antagonist at the GABA_A receptor (benzodiazepine 
 
 ### MAO-A Inhibition
 
-The harmala alkaloids are reversible inhibitors of monoamine oxidase A (MAO-A), the enzyme responsible for oxidative deamination of serotonin, norepinephrine, and — critically — dimethyltryptamine (DMT). By inhibiting MAO-A in the gastrointestinal tract and liver, harmine and harmaline allow orally ingested DMT to reach systemic circulation and cross the blood-brain barrier, producing visionary psychoactive effects that would otherwise be impossible via oral administration.
+The [[harmala-alkaloids]] are reversible inhibitors of monoamine oxidase A (MAO-A), the enzyme responsible for oxidative deamination of serotonin, norepinephrine, and — critically — dimethyltryptamine (DMT). By inhibiting MAO-A in the gastrointestinal tract and liver, harmine and harmaline allow orally ingested DMT to reach systemic circulation and cross the blood-brain barrier, producing visionary psychoactive effects that would otherwise be impossible via oral administration.
 
 ### 5-HT₂A Activity
 
@@ -92,7 +92,7 @@ Preclinical studies have identified several mechanisms of therapeutic interest:
 
 ### Psychoactive Use
 
-- **Ayahuasca analogs:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material (Psychotria viridis leaf, Mimosa tenuiflora root bark) to create orally active preparations. This practice emerged in the global psychonaut community in the late 20th century
+- **Ayahuasca analogs:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material ([[psychotria-viridis]] leaf, [[mimosa-tenuiflora]] root bark) to create orally active preparations. This practice emerged in the global psychonaut community in the late 20th century
 - **Smoking blends:** Seeds are sometimes smoked alone for mild psychoactive effects, though this is relatively uncommon due to harsh smoke and nausea
 
 ## Cultivation
@@ -108,7 +108,7 @@ P. harmala is easily cultivated from seed. Seeds require no cold stratification 
 
 ### Landscape and Ecological Notes
 
-In its native range, P. harmala serves as a pioneer species on disturbed, saline, and alkaline soils. The plant's deep taproot (up to 1 m) helps break compacted soils and cycle minerals from deep layers. However, its allelopathic properties — harmala alkaloids in leaf litter and root exudates inhibit germination of competing plants — make it a poor companion plant in mixed gardens.
+In its native range, P. harmala serves as a pioneer species on disturbed, saline, and alkaline soils. The plant's deep taproot (up to 1 m) helps break compacted soils and cycle minerals from deep layers. However, its allelopathic properties — harmala alkaloids in leaf litter and [[root-exudates]] inhibit germination of competing plants — make it a poor companion plant in mixed gardens.
 
 ## Historical and Cultural Significance
 

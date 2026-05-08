@@ -2,7 +2,7 @@
 title: Morels, Cup Fungi, and the Evolutionary Continuum to Truffles
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - evolution
   - morel
   - morchella
@@ -26,7 +26,7 @@ type: concept
 
 The morel, Morchella, occupies an intermediate position in one of
 the most compelling evolutionary narratives in mycology: the
-transformation of cup-shaped ascomycete fruiting bodies (apothecia)
+transformation of cup-shaped ascomycete [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia)
 into the subterranean, aromatic truffles of the genus Tuber.
 Stalked like mushrooms, the head of the morel is an enormous cup
 covered with asci lining the gouges in its pitted surface. Truffles,
@@ -38,7 +38,7 @@ years.
 
 ## The Ascocarp Spectrum
 
-Mycologists recognize three categories of ascomycete fruiting body:
+Mycologists recognize three categories of ascomycete [[fruiting-body-development]]:
 
 - **Cleistothecia:** Closed fruiting bodies (e.g., Eurotium). Asci
   develop within an enclosed structure; eventually the wall breaks
@@ -46,7 +46,7 @@ Mycologists recognize three categories of ascomycete fruiting body:
 - **Perithecia:** Flask-shaped fruiting bodies (e.g., Cordyceps).
   Asci develop within a narrow-necked flask open at the top
 - **Apothecia:** Open cup-shaped fruiting bodies with asci exposed
-  at the surface for direct spore discharge into the air. This
+  at the surface for direct [[bullers-drop-spore-discharge]] into the air. This
   is the category from which morels and truffles are derived
 
 ## Spore Discharge in Cup Fungi and Morels
@@ -69,11 +69,11 @@ asci lining the gouges in its surface. Asci shoot spores roughly
 horizontally, creating a spore cloud dissipated by wind gusts. The
 morel is essentially a greatly enlarged, contorted cup raised on a
 stalk, with fertile surface folded into ridges and pits that
-dramatically increase spore production area.
+dramatically increase [[growing-gourmet-basidium-spore-production]] area.
 
 ## Morels as Wild Edibles
 
-Wild mushrooms, including morels, reproduce after weight gain
+[[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]], including morels, reproduce after weight gain
 followed by starvation. Although morels are ascomycetes, they are
 large enough to be called mushrooms. Morels are prized edibles,
 found in late April or early May in the eastern United States.
@@ -148,5 +148,3 @@ over linguini.
 
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
-- [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]

@@ -18,7 +18,7 @@ Cylindrocarpon, Chrysosporium, Mortierella, Oidiodendron, certain Penicillium sp
 
 The strong filtering effect of low temperatures on fungal community composition means that polar fungal assemblages share many taxa despite their geographic separation.
 
-[[fungal-diversity-boreal-forests-taiga]] [[fungal-biodiversity-soil-habitats]]
+[[fungal-diversity-boreal-forests-taiga]] [[the-soil-food-web]]
 
 ## Antarctic Fungal Surveys
 

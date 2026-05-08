@@ -55,7 +55,7 @@ Allen and Merlin concluded that Thailand is the country with the largest consump
 
 On the islands of Koh Samui and Koh Pha-ngan, mushroom dishes are enjoyed primarily by German tourists.
 
-Species used include [[psilocybe-cubensis-profile]], [[psilocybe-subaeruginosa-australia]], and [[panaeolus-cyanescens-bali-omelette]].
+Species used include [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-subaeruginosa-australia]], and [[panaeolus-cyanescens-bali-omelette]].
 
 Tourists can find menus offering mushrooms prepared as omelettes, soups, teas, pizzas, or juices.
 
@@ -77,7 +77,7 @@ Some restaurants temporarily served dishes made from regular table mushrooms app
 
 Schroeder reported mycological field work in Nepal during 1978-79, establishing that mushrooms of the Psilocybe species are widespread.
 
-Guzman proposed classifying these as [[psilocybe-cubensis-profile]] and Psilocybe subcubensis.
+Guzman proposed classifying these as [[psychedelic-mushrooms-species-and-identification]] and Psilocybe subcubensis.
 
 Psilocybe subcubensis is very similar macroscopically to the subtropical cubensis but has smaller spores and habitat limited to tropical regions.
 
@@ -101,7 +101,7 @@ Panaeolus cambodginiensis Ola'h and Heim is a bluing mushroom found only in Camb
 
 Customs in New Zealand evolved around the same species found in Australia, with criminal penalties modeled after Australian law.
 
-[[psilocybe-cubensis-profile]] is not native to New Zealand; all psychoactive species are generally referred to as "magic mushrooms."
+[[psychedelic-mushrooms-species-and-identification]] is not native to New Zealand; all psychoactive species are generally referred to as "magic mushrooms."
 
 ## The Soma Hypothesis
 
@@ -113,13 +113,13 @@ More likely, soma was the name of a psychedelic Psilocybe species, based on its 
 
 Discovered in Thailand in August 1991 and named Psilocybe samuiensis Guzman, Bandala and Allen.
 
-Similar in appearance to [[psilocybe-semilanceata-profile]] but fruiting bodies do not contain baeocystin.
+Similar in appearance to [[psychedelic-mushrooms-species-and-identification]] but fruiting bodies do not contain baeocystin.
 
 A bluing species that grows on fertilized soil but not directly on top of dung.
 
 Successfully cultivated on a mixture of rye, horse dung, and water (2:1:2) with a casing layer of peat and chalk (2:1).
 
-See also: [[psilocybe-cubensis-profile]], [[magic-mushrooms-australia-new-zealand]], [[panaeolus-cyanescens-bali-omelette]], [[psilocybe-cubensis-profile]]
+See also: [[psychedelic-mushrooms-species-and-identification]], [[magic-mushrooms-australia-new-zealand]], [[panaeolus-cyanescens-bali-omelette]], [[psychedelic-mushrooms-species-and-identification]]
 
 See also: Asian Psilocybin Mushroom Guide
 

@@ -8,7 +8,7 @@ type: concept
 tags: [pharmacology, psilocybin, serotonin]
 ---
 
-# [[psilocybin]] and Serotonin 5-HT2A Receptor Pharmacology
+# [[psilocybin-compound]] and Serotonin 5-HT2A Receptor Pharmacology
 
 The pharmacological action of psilocybin is fundamentally bound up with the brain's serotonin system. Psilocybin, along with LSD and DMT, works by mimicking the neurotransmitter serotonin (5-HT), one of the most important and widespread chemical messengers in the brain. The mimicking occurs because psilocybin possesses an almost identical molecular structure to serotonin -- its shape is so similar that it can "fool" and infiltrate parts of the brain which process information using serotonergic synapses.
 

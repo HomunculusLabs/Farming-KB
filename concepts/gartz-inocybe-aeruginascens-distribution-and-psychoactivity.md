@@ -147,5 +147,3 @@ pharmacological profile. Consistent alkaloid levels across Hungarian and
 German specimens over a 23-year period (1967 to 1990) indicate stable
 chemical production rather than environmentally dependent variation, making
 ## See Also
-
-- [[gartz-global-psilocybin-mushroom-distribution]]

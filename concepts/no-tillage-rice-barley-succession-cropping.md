@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-    author: Masanobu Fukuoka
+    author: [[masanobu-fukuoka]]
     title: "The Natural Way of Farming"
 type: concept
 ---
@@ -77,7 +77,7 @@ an additional 200 pounds possible as a top dressing in late February
 during barley heading. After the barley harvest, 450 to 900 pounds of
 dried chicken manure may be spread for the rice crop.
 ## Water Management
-Water management in the no-tillage system differs fundamentally from
+[[water-management]] in the no-tillage system differs fundamentally from
 conventional paddy rice farming. Rather than maintaining continuous
 flooded conditions throughout the growing season, Fukuoka practiced
 intermittent irrigation that strengthened the rice plants.
@@ -147,10 +147,4 @@ continuous flooding. The result is a system that is simultaneously
 more productive, more sustainable, and far less labor-intensive than
 conventional methods.
 See also: [[clay-pellet-seed-encapsulation]], [[natural-farming]],
-Green Manure Cover Cropping
-
-## See Also
-
-- [[clay-pellet-seed-encapsulation]]
-- [[masanobu-fukuoka]]
-- [[natural-farming]]
+Green Manure [[cover-crop]] ping

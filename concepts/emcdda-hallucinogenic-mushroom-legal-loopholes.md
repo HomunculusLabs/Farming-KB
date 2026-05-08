@@ -141,7 +141,7 @@ profiting from sales it was simultaneously seeking to prohibit.
 
 ## See also
 
-[[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+[[hallucinogenic-mushroom-legal-status-europe]]
 [[emcdda-hallucinogenic-mushroom-legal-responses]]
 [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]

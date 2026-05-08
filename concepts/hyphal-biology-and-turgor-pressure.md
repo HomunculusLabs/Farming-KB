@@ -140,47 +140,6 @@ Experiments converting voltage changes to audio signals revealed that
 damage to one part of a mycelium affected cells far removed from the
 injury site, demonstrating a surprising level of irritability for an
 organism lacking a nervous system.
-
-The interconnected nature of the hyphal network allows these
-filamentous cells to cooperate as a single organism, shuttling
-nutrients and chemical signals across considerable distances.
-
-## Wound Response
-
-Mycelia are vulnerable to catastrophic injury because of their tubular
-construction: when a hypha is severed, pressurized cytoplasm can surge
-along the entire length of the cell toward the wound.
-
-However, fungi repair damage with remarkable proficiency. Within
-seconds, hyphae seal small holes with fresh membrane, and in septate
-species, damaged compartments are isolated by plugging septal pores.
-
-Growth can resume within minutes, sometimes by forming branches from
-either side of the wound. This resilience is essential for organisms
-that inhabit physically hostile environments.
-
-## Role in Soil Formation and Plant Ecology
-
-Rock-penetrating fungi, primarily basidiomycetes, grow deep inside
-granite bedrock by secreting organic acids (citric acid, oxalic acid)
-that dissolve minerals.
-
-These fungi form mycorrhizal associations with plant roots, extracting
-scarce inorganic nutrients from rocks and transferring them to their
-plant partners in exchange for carbohydrates.
-
-By infiltrating granite, fungi create pathways for water percolation,
-and subsequent ice crystallization accelerates rock weathering into
-soil. Fossil evidence suggests this relationship between fungi and
-plants extends back more than 400 million years.
-
-Fungal spores characteristic of mycorrhizal species have been found in
-rocks over 600 million years old, indicating fungi may have been
-crucial in the earliest colonization of land by plants.
-
-Without these mineral-scavenging fungi, the development of terrestrial
-ecosystems as we know them would likely have been impossible.
-
 ## Related Topics
 
 - [[fungal-spore-discharge-mechanisms]]

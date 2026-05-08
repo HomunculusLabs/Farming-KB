@@ -43,7 +43,7 @@ With over 28,000 species, orchids are the largest epiphyte family. Approximately
 
 ### Bromeliaceae
 
-The pineapple family (*Bromeliaceae*) contains roughly 3,500 species, the majority of which are epiphytic. Their most distinctive adaptation is the tank — a rosette of overlapping leaves that forms a water-holding reservoir. These "phytotelmata" support entire micro-ecosystems: mosquito larvae, tree frogs, salamanders, crabs, and hundreds of microinvertebrate species. The tank also captures leaf litter that decomposes into a nutrient-rich humus absorbed by trichome-covered leaf bases. Bromeliad trichomes are peltate scales on leaf surfaces that can absorb water and dissolved minerals in seconds, functioning as external roots. Tillandsia (air plants) have taken this to the extreme, possessing no functional roots at all and absorbing everything through their leaf trichomes.
+The pineapple family (*Bromeliaceae*) contains roughly 3,500 species, the majority of which are epiphytic. Their most distinctive adaptation is the tank — a rosette of overlapping leaves that forms a water-holding reservoir. These "phytotelmata" support entire micro-ecosystems: mosquito larvae, tree frogs, salamanders, crabs, and hundreds of microinvertebrate species. The tank also captures [[leaf-litter-microfungal-diversity-tropical-temperate]] that decomposes into a nutrient-rich humus absorbed by trichome-covered leaf bases. Bromeliad trichomes are peltate scales on leaf surfaces that can absorb water and dissolved minerals in seconds, functioning as external roots. Tillandsia (air plants) have taken this to the extreme, possessing no functional roots at all and absorbing everything through their leaf trichomes.
 
 ### Araceae (Aroids)
 
@@ -116,7 +116,7 @@ Epiphytes create microhabitats that disproportionately support biodiversity:
 
 ### Water Regulation
 
-In cloud forests, epiphyte mats act as enormous sponges. A single large tree in a montane cloud forest can support thousands of kilograms of epiphyte biomass that absorbs and slowly releases water. This "sponge effect" moderates streamflow, reduces erosion, and maintains base flows during dry periods. Removal of epiphytes (through logging, climate change, or air pollution) significantly reduces cloud forest water retention capacity.
+In cloud forests, epiphyte mats act as enormous sponges. A single large tree in a montane cloud forest can support thousands of kilograms of epiphyte biomass that absorbs and slowly releases water. This "sponge effect" moderates streamflow, reduces erosion, and maintains base flows during dry periods. Removal of epiphytes (through logging, climate change, or [[air-pollution-fungal-community-responses]]) significantly reduces cloud forest water retention capacity.
 
 ## Vertical Zonation
 
@@ -137,7 +137,7 @@ The New World tropics harbor the greatest epiphyte diversity. Cloud forests of t
 
 ### Paleotropics
 
-Old World tropical forests of Southeast Asia, Madagascar, and Africa support extraordinary orchid diversity but fewer bromeliads (which are absent). Epiphytic ferns, aroids, and Ericaceae are particularly diverse in Southeast Asian montane forests. The mossy forests of Mount Kinabalu (Borneo) and the Central Highlands of New Guinea are Paleotropical epiphyte hotspots.
+Old World tropical forests of Southeast Asia, Madagascar, and Africa support extraordinary orchid diversity but fewer bromeliads (which are absent). Epiphytic ferns, aroids, and Ericaceae are particularly diverse in [[southeast-asian-mushroom-tourism-bali]] montane forests. The mossy forests of Mount Kinabalu (Borneo) and the Central Highlands of New Guinea are Paleotropical epiphyte hotspots.
 
 ### Temperate Regions
 
@@ -251,10 +251,10 @@ Most epiphytes are generalists with respect to host trees, but preferences exist
 
 Epiphytes have driven and been driven by coevolutionary relationships with animals:
 
-- **Euglossine bees**: Orchids in the Neotropics produce complex fragrance compounds that attract male orchid bees (*Euglossini*), which collect fragrances for courtship displays. Individual orchid species often produce species-specific fragrance blends, ensuring pollination specificity.
+- **Euglossine bees**: Orchids in the Neotropics produce complex fragrance compounds that attract male orchid bees (*Euglossini*), which collect fragrances for courtship displays. Individual orchid species often produce [[species-specific-cold-shock-response-psilocybe]] fragrance blends, ensuring pollination specificity.
 - **Hummingbirds**: Over 40 bromeliad species are pollinated primarily by hummingbirds, and many have evolved tubular red flowers, copious nectar, and flowering phenologies synchronized with hummingbird migration.
 - **Wind dispersal**: Orchid seeds and bromeliad seeds are adapted for wind dispersal — orchid seeds are microscopic dust (1-5 million per capsule), while bromeliad seeds have feathery comas that catch air currents. Both can colonize isolated canopy habitats far from parent plants.
-- **Bird dispersal**: Some epiphytes produce fleshy fruits dispersed by birds. *Ficus* (strangler figs) are entirely dependent on birds for seed dispersal to canopy germination sites. Mistletoe seeds are bird-dispersed and often deposited directly on suitable host branches through defecation or regurgitation.
+- **Bird dispersal**: Some epiphytes produce fleshy fruits dispersed by birds. *Ficus* (strangler figs) are entirely dependent on birds for [[seed-dispersal-ecology-and-mechanisms]] to canopy germination sites. Mistletoe seeds are bird-dispersed and often deposited directly on suitable host branches through defecation or regurgitation.
 
 ## Epiphytes in Human Culture
 
@@ -262,7 +262,7 @@ Epiphytes have driven and been driven by coevolutionary relationships with anima
 
 Indigenous peoples across the tropics have used epiphytes for millennia:
 
-- **Spanish moss** (*Tillandsia usneoides*): Used by Native American peoples for stuffing mattresses, weaving baskets, and as building insulation. In the 19th century, it was commercially harvested at scale for mattress stuffing in the American South, employing over 10,000 workers at peak.
+- **Spanish moss** (*Tillandsia usneoides*): Used by [[native-american-planting-methods-and-indigenous-agriculture]] peoples for stuffing mattresses, weaving baskets, and as building insulation. In the 19th century, it was commercially harvested at scale for mattress stuffing in the American South, employing over 10,000 workers at peak.
 - **Bromeliad fibers**: *Puya* and *Bromelia* species provide strong fibers used for rope, netting, and textiles across South America. *Aechmea magdalenae* (maguey) fiber is still used by the Kuna people of Panama for traditional textiles.
 - **Vanilla**: *Vanilla planifolia* is an epiphytic orchid native to Mexico, cultivated by the Totonac people for at least 1,000 years before Spanish conquest. Vanilla remains the only widely commercialized orchid crop, with global production exceeding 8,000 metric tons annually.
 - **Orchid medicine**: Traditional Chinese medicine uses *Dendrobium* species (shi hu) for fever, thirst, and digestive ailments. The global trade in wild *Dendrobium* for traditional medicine has driven several species toward extinction.
@@ -321,9 +321,9 @@ Epiphyte communities undergo succession as trees age:
 
 ## Research Frontiers
 
-- **Canopy microbiomes**: Metagenomic studies revealing the diversity and function of microbial communities in canopy soil, including novel nitrogen-fixing bacteria and mycorrhizal fungi unique to canopy environments.
+- **Canopy microbiomes**: Metagenomic studies revealing the diversity and function of microbial communities in canopy soil, including novel [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] bacteria and mycorrhizal fungi unique to canopy environments.
 - **Epiphyte responses to elevated CO₂**: Experiments suggesting some epiphytes may benefit from increased atmospheric CO₂ through improved water-use efficiency, while water limitation may negate these gains. CAM epiphytes may be particularly responsive.
-- **Epiphyte-assisted cloud water harvesting**: Biomimetic research using epiphyte trichome structures to design fog-collection materials for water-scarce regions. Tillandsia trichome geometry has inspired novel condensation surface designs.
+- **Epiphyte-assisted cloud [[water-harvesting-techniques-comparison]]**: Biomimetic research using epiphyte trichome structures to design fog-collection materials for water-scarce regions. Tillandsia trichome geometry has inspired novel condensation surface designs.
 - **DNA barcoding for conservation**: Molecular tools for identifying illegally traded epiphyte species, particularly endangered orchids and bromeliads in the horticultural trade.
 - **Epiphyte decline as an early warning signal**: Monitoring epiphyte communities as indicators of climate change impacts on tropical montane forests. Vascular epiphytes are more sensitive to warming and drying trends than their host trees, making them early indicators of ecosystem stress.
 - **Canopy crane research**: Permanent canopy access systems (cranes, walkways) in forests across five continents are enabling long-term monitoring of epiphyte population dynamics, phenology, and climate responses at scales previously impossible.

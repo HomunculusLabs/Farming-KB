@@ -28,7 +28,7 @@ type: comparison
 
 # Rhizobia vs Free-Living Nitrogen-Fixing Bacteria
 
-Biological nitrogen fixation (BNF) converts atmospheric dinitrogen (N₂) into ammonia (NH₃) via the nitrogenase enzyme complex. Two broad categories of bacteria accomplish this: **rhizobia**, which form symbiotic relationships with leguminous plants, and **free-living (asymbiotic) nitrogen-fixing bacteria**, which fix nitrogen independently. Both groups are foundational to sustainable agriculture and soil fertility management.
+[[biological-nitrogen-fixation-agriculture]] fixation (BNF) converts atmospheric dinitrogen (N₂) into ammonia (NH₃) via the nitrogenase enzyme complex. Two broad categories of bacteria accomplish this: **rhizobia**, which form symbiotic relationships with leguminous plants, and **free-living (asymbiotic) [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] bacteria**, which fix nitrogen independently. Both groups are foundational to sustainable agriculture and soil fertility management.
 
 ## Overview: Rhizobia (Symbiotic)
 
@@ -76,7 +76,7 @@ The ATP cost of nitrogen fixation is identical across all organisms: approximate
 
 ## Host Specificity
 
-Rhizobial host specificity is mediated by a molecular dialogue: the plant secretes species-specific flavonoids, and the bacterium responds with Nod factors (lipochitooligosaccharides) whose structure determines host range. This specificity is both a strength (precise targeting) and a limitation (each legume requires a compatible strain). Cross-inoculation groups categorize compatible rhizobia-legume pairings.
+Rhizobial host specificity is mediated by a molecular dialogue: the plant secretes [[species-specific-cold-shock-response-psilocybe]] flavonoids, and the bacterium responds with Nod factors (lipochitooligosaccharides) whose structure determines host range. This specificity is both a strength (precise targeting) and a limitation (each legume requires a compatible strain). Cross-inoculation groups categorize compatible rhizobia-legume pairings.
 
 Free-living bacteria have no such specificity, making them broadly applicable. *Azospirillum* shows associative preferences for grasses (wheat, maize, rice) but is not host-dependent. *Azotobacter* colonizes a wide soil niche.
 
@@ -132,7 +132,7 @@ Successful integration of nitrogen-fixing bacteria into farm and garden systems 
 
 5. **Consider cyanobacteria for flooded crops.** In rice paddies, drying and re-flooding cycles followed by cyanobacterial inoculation can sustainably supply a significant portion of crop nitrogen.
 
-6. **Avoid excess synthetic N.** Both rhizobia and free-living fixers downregulate nitrogenase when soil mineral N is abundant. Targeted, split N applications that complement (rather than replace) BNF are more efficient than heavy pre-plant N rates.
+6. **Avoid excess synthetic N.** Both rhizobia and free-living fixers downregulate nitrogenase when [[soil-mineral-management-and-amendment-strategies]] N is abundant. Targeted, split N applications that complement (rather than replace) BNF are more efficient than heavy pre-plant N rates.
 
 7. **Check soil pH.** *Azotobacter* prefers neutral-to-alkaline soils (pH 7–8). Liming acidic soils can improve its establishment. Rhizobia also perform best near neutral pH.
 
@@ -140,16 +140,10 @@ Successful integration of nitrogen-fixing bacteria into farm and garden systems 
 
 9. **Test for native rhizobia.** In fields with a long history of legume cultivation, native rhizobial populations may already be sufficient. A simple nodulation check at mid-season (digging up a few plants and counting pink nodules) can indicate whether additional inoculation is needed. If >20 nodules per plant are present, supplemental inoculation is unlikely to improve N fixation.
 
-10. **Combine with mycorrhizal fungi.** Arbuscular mycorrhizal fungi (AMF) improve phosphorus uptake, which directly benefits rhizobial nodulation and nitrogenase activity. Co-applying AMF inoculants with rhizobia or Azospirillum can create a synergistic tripartite association between plant, bacteria, and fungus that outperforms any single inoculant alone.
+10. **Combine with mycorrhizal fungi.** [[arbuscular-mycorrhizal-colonization-patterns]] fungi (AMF) improve phosphorus uptake, which directly benefits rhizobial nodulation and nitrogenase activity. Co-applying AMF inoculants with rhizobia or Azospirillum can create a synergistic tripartite association between plant, bacteria, and fungus that outperforms any single inoculant alone.
 
 ## Summary
 
 Rhizobia deliver the highest nitrogen input per hectare but are restricted to legume crops. Free-living nitrogen fixers contribute modest amounts across all crop types and additionally provide plant growth-promoting benefits. The most effective fertility programs use both: rhizobia to power legume rotations and free-living fixers to support non-legume crops, within a soil management framework that supplies adequate carbon and avoids excessive mineral nitrogen.
 
 Neither group is a complete substitute for thoughtful soil management. Rhizobia require correct strain selection, adequate phosphorus, and near-neutral pH. Free-living fixers need sufficient organic carbon and appropriate moisture conditions. When these requirements are met, biological nitrogen fixation can supply a substantial proportion of crop nitrogen needs—reducing input costs, improving soil health, and lowering the environmental footprint of agriculture.
-
-## See Also
-
-- [[comparison-free-living-vs-parasitic-nematodes]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[azotobacter-chroococcum]]

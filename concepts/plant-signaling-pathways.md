@@ -148,4 +148,3 @@ need to defend against pathogens.
 - [[plant-perception]] response
 - [[mycorrhizal-network-communication]]
 - [[fungal-symbiosis-types]]
-- [[fungal-enzymes-degradation]]

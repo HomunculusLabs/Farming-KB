@@ -147,5 +147,3 @@ and pastures. Composting eliminates pathogens, reduces weed seed viability,
 and creates a stable, humus-rich soil amendment. Manure deposited directly
 on pasture during rotational grazing is distributed evenly by livestock
 movement and incorporated by soil organisms.
-
-## See Also

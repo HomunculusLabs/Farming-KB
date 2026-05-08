@@ -146,13 +146,5 @@ open spore trading, contributing to inter-vendor variability.
 ## Related
 
 - [[psilocybe-cubensis]] — The parent species of Golden Teacher.
-- [[psilocybin]] — The primary psychoactive compound produced by the strain.
+- [[psilocybin-compound]] — The primary psychoactive compound produced by the strain.
 - [[psilocin]] — The dephosphorylated, active metabolite of psilocybin.
-- [[spore-print]] — Method of collecting and identifying fungal spores.
-
-## See Also
-
-- [[golden-teacher]]
-- [[golden-teacher-cubensis]]
-- [[golden-teacher-psilocybe-cubensis]]
-- [[golden-guide-cannabis-historical-use]]

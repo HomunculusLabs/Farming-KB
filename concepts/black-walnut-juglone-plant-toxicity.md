@@ -148,4 +148,3 @@ properties. See [[permaculture-walnut-guide]] and [[permaculture-designers-manua
 - [[permaculture-walnut-guide]]
 - [[permaculture-designers-manual-plant-toxins-dryland]]
 - [[plant-defense-mechanisms]]
-- [[permaculture-designers-manual-income-strategies]]

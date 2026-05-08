@@ -143,9 +143,8 @@ prescription anesthetic has created a parallel pathway for therapeutic use
 that predates the rescheduling of classical psychedelics, making it the
 most widely accessible psychedelic-adjacent therapeutic agent.
 ## See Also
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[lsd]]
 - [[dmt]]
 - [[maps]]
 - [[rick-strassman]]
-- [[serotonin]]

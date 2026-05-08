@@ -63,7 +63,7 @@ Small, local systems generally require less energy to build and maintain than la
 ### Water Management
 
 - Start with [[rainwater-harvesting-systems|rain barrels]] before investing in large cisterns
-- Build small [[swale-construction-guide|swales]] and observe their effect before constructing large earthworks
+- Build small [[organic-vegetable-growing-and-market-gardening|swales]] and observe their effect before constructing large earthworks
 - Use [[rain-garden-design|rain gardens]] and [[permaculture-sheet-mulch-detailed-guide|sheet mulch]] to improve infiltration before excavating ponds
 - [[permaculture-water-harvesting|Water harvesting]] begins with the roof and works outward
 
@@ -100,14 +100,14 @@ Even in these cases, the principle suggests that the response should be the mini
 
 ## Connection to Other Principles
 
-- [[permaculture-principle-observe-and-interact|Observe and interact]]: Small solutions allow for more observation
+- [[permaculture-design-principles|Observe and interact]]: Small solutions allow for more observation
 - [[permaculture-principle-design-from-patterns-to-details|Design from patterns to details]]: Understanding patterns before committing to details
-- [[permaculture-principle-use-edges-and-value-the-marginal|Use edges and value the marginal]]: Small changes at edges can have large effects
-- [[permaculture-principle-integrate-rather-than-segregate|Integrate rather than segregate]]: Many small integrated elements are more effective than a few large isolated ones
+- [[permaculture-design-principles|Use edges and value the marginal]]: Small changes at edges can have large effects
+- [[permaculture-design-principles|Integrate rather than segregate]]: Many small integrated elements are more effective than a few large isolated ones
 
 ## Related Concepts
 
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[permaculture-principles]]
 - [[permaculture-design-process]]
 - [[permaculture-garden-design-process]]

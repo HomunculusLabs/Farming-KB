@@ -81,7 +81,7 @@ The presence of psilocybin in Conocybe cyanopus is phylogenetically significant 
 - [[norbaeocystin]] — additional tryptamine alkaloid found in related species
 - [[psilocybin-biosynthesis-pathway]] — genetic basis of psilocybin production across genera
 - [[amanita-phalloides]] — contains the same amatoxins found in toxic Conocybe species
-- [[psilocybin]] — primary psychoactive alkaloid
+- [[psilocybin-compound]] — primary psychoactive alkaloid
 - [[psilocin]] — active metabolite
 - [[conocybe-tenera]] — common non-psychoactive Conocybe species
 - [[conocybe-siligineoides]] — Conocybe species found in similar habitats

@@ -139,7 +139,7 @@ Daevid Allen, visionary leader of the uber-hippy psychedelic band
 Gong, were among the more famous visitors received at Graves's home.
 Young, attractive "hippy-chicks" were especially welcomed. Graves was
 always happy to talk about magic mushrooms, and it seems probable that
-he led some people to the British [[psilocybin]] mushroom through these
+he led some people to the British [[psilocybin-compound]] mushroom through these
 conversations and his printed speculations.
 
 ## Related Topics

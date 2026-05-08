@@ -148,7 +148,3 @@ time.
 
 - [[stamets-mycoremediation-principles]] for the foundational science behind fungal remediation
 - [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications
-- [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]] for scaled reactor designs
-- [[staycare-laccase-enzymes-in-bioremediation]] for enzymatic contaminant degradation
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]] for industrial treatment methods
-- [[white-rot-fungi-bioremediation]] for related white-rot degradation approaches

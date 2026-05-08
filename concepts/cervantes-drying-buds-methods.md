@@ -118,7 +118,7 @@ the outside of the sheet.
 
 Most buds are dry enough to cure in five to seven days. Big, dense buds can
 take three to four days longer. After drying, buds should proceed to the
-[[cervantes-curing-storage]] to develop full aroma and flavor.
+[[cannabis-advanced-growing-techniques]] to develop full aroma and flavor.
 
 ## Enemies of Drying Cannabis
 
@@ -128,4 +128,4 @@ dark place away from any source of heat or light.
 
 See also: [[cervantes-manicuring-trimming-buds]],
 [[cervantes-harvest-timing-trichome-ripeness]],
-[[cervantes-curing-storage]], [[cervantes-air-quality-ventilation]]
+[[cannabis-advanced-growing-techniques]], [[cervantes-air-quality-ventilation]]

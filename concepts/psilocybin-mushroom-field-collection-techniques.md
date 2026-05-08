@@ -22,7 +22,7 @@ The bizarre body language, erratic and stealthy movements, and Latin terminology
 
 ## The Liberty Cap Hunter's Posture
 
-[[psilocybe-semilanceata-profile]] hunters develop a very peculiar, off-balanced, forward-leaning posture as they intently search the grass before them.
+[[psychedelic-mushrooms-species-and-identification]] hunters develop a very peculiar, off-balanced, forward-leaning posture as they intently search the grass before them.
 
 This specialized posture has evolved because the target mushrooms are tiny and blend into grass.
 
@@ -46,11 +46,11 @@ Habitats transitioning from forest to grassland will phase in diverse mushroom p
 
 Understanding seasonal patterns is essential for successful collection.
 
-[[psilocybe-semilanceata-profile]] fruits in the fall.
+[[psychedelic-mushrooms-species-and-identification]] fruits in the fall.
 
-[[psilocybe-cyanescens-profile]] fruits from fall through winter on wood chips.
+[[psychedelic-mushrooms-species-and-identification]] fruits from fall through winter on wood chips.
 
-[[psilocybe-cubensis-profile]] fruits during warm, wet conditions in tropical and subtropical regions.
+[[psychedelic-mushrooms-species-and-identification]] fruits during warm, wet conditions in tropical and subtropical regions.
 
 After periods of extended rainfall, [[inocybe-aeruginascens-profile]] grows abundantly from late May until October.
 
@@ -102,7 +102,7 @@ In the Pacific Northwest, habitat has to be de-emphasized as a key feature becau
 
 In tropical regions, dung-inhabiting species can be found year-round but are most abundant during rainy seasons.
 
-In Europe, established pastures provide the most reliable hunting grounds for [[psilocybe-semilanceata-profile]].
+In Europe, established pastures provide the most reliable hunting grounds for [[psychedelic-mushrooms-species-and-identification]].
 
 In Japan, mushrooms are found on wood and dung substrates in mountainous regions.
 

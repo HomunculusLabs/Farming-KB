@@ -124,5 +124,5 @@ became celebrated as an illicit folk art.
 - pf tek psilocybe fanaticus
 - [[psilocybe-semilanceata-eight-indole-compounds]]
 - [[psilocybe-subaeruginosa-australia]]
-- [[psilocybe-cyanescens-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-genus-classification]]

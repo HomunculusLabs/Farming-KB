@@ -116,7 +116,7 @@ This applies especially on delicate soils over chalks, where replacement of crop
 
 [[permaculture-sheet-mulch-detailed-guide]]
 
-[[permaculture-woody-mulch-systems]]
+[[permaculture-design]]
 
 [[mulching-guide]]
 

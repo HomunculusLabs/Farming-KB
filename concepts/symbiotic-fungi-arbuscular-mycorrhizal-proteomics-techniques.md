@@ -148,4 +148,3 @@ this imbalance is shifting as more genome sequences become available.
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
 
 - symbiotic fungi arbuscular [[mycorrhizal-proteomics]] techniques
-- [[symbiotic-fungi-endophytic-fungi-in-plants]] for in vitro AMF

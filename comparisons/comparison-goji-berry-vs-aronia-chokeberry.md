@@ -28,7 +28,7 @@ Both species have attracted significant interest in the superfood market over th
 | **Mature Size** | 8–12 ft tall, 4–6 ft wide | 3–6 ft tall, 3–6 ft wide |
 | **Growth Habit** | Long, arching, thorny canes | Upright, multi-stemmed shrub |
 | **Soil pH** | 6.5–8.0 (alkaline tolerant) | 5.0–7.0 (acidic to neutral) |
-| **Moisture** | Drought tolerant once established | Adaptable; prefers consistent moisture |
+| **Moisture** | [[drought-tolerant-planting-design]] once established | Adaptable; prefers consistent moisture |
 | **Sun** | Full sun | Full sun to partial shade |
 | **Pollination** | Self-fertile (flowers pollinated by insects) | Self-fertile; excellent for pollinators |
 | **First Harvest** | 2–3 years from planting | 2–3 years from planting |
@@ -61,7 +61,7 @@ Aronia chokeberry is notably cold-hardy, thriving in USDA Zones 3–8, and toler
 
 Goji berry prefers well-drained, moderately fertile soils with a pH of 6.5–8.0. It tolerates alkaline and somewhat saline conditions better than most berry crops, reflecting its origin in the loess soils of northwestern China. Poorly drained or persistently waterlogged soils lead to root rot. Goji is relatively tolerant of poor, sandy, or gravelly soils once established.
 
-Site preparation for goji should include deep cultivation or raised beds in heavy clay soils, as root establishment is the most vulnerable phase. A single application of balanced compost at planting is generally sufficient; excessive nitrogen can promote vegetative growth at the expense of fruiting.
+Site preparation for goji should include deep cultivation or [[raised-beds-vs-in-ground-vs-containers]] in heavy clay soils, as root establishment is the most vulnerable phase. A single application of balanced compost at planting is generally sufficient; excessive nitrogen can promote vegetative growth at the expense of fruiting.
 
 Aronia chokeberry is highly adaptable, growing in a pH range of 5.0–7.0, but performs best in slightly acidic, loamy soils with good organic matter. It tolerates clay soils and periodically wet conditions better than goji, a trait inherited from its native wetland habitat. However, aronia is sensitive to severe drought during establishment and benefits from irrigation in sandy or very well-drained sites.
 
@@ -109,7 +109,7 @@ Aronia chokeberry propagates readily from softwood cuttings in mid-summer, hardw
 
 ## Summary Comparison
 
-For growers choosing between these two superfruit species, the decision hinges primarily on climate, intended use, and available infrastructure. Goji berry excels in warm, dry climates with well-drained soils and suits growers who value fresh or dried fruit with a long harvest window. Its drought tolerance and cultural familiarity (especially in Asian markets) are key strengths. Aronia chokeberry is the superior choice for cold climates, organic production systems, and growers seeking high yields with minimal maintenance. Its mechanical harvestability, disease resistance, and expanding market make it particularly attractive for commercial-scale planting. Both species have valuable roles in permaculture design, and many growers find complementary benefits in cultivating both.
+For growers choosing between these two superfruit species, the decision hinges primarily on climate, intended use, and available infrastructure. Goji berry excels in warm, dry climates with well-drained soils and suits growers who value fresh or dried fruit with a long harvest window. Its drought tolerance and cultural familiarity (especially in Asian markets) are key strengths. Aronia chokeberry is the superior choice for cold climates, organic production systems, and growers seeking high yields with minimal maintenance. Its mechanical harvestability, disease resistance, and expanding market make it particularly attractive for commercial-scale planting. Both species have valuable roles in [[permaculture-design-course-notes]], and many growers find complementary benefits in cultivating both.
 
 ## Culinary and Processing Uses
 
@@ -125,7 +125,7 @@ Aronia chokeberry represents one of the fastest-growing superfruit markets in No
 
 ## Challenges
 
-Goji berry cultivation faces challenges including labor-intensive hand harvesting, relatively low per-plant yields, disease pressure in humid climates, market competition from low-cost Chinese imports, and the long, arching growth habit that requires trellising. Establishing a profitable goji operation requires careful attention to post-harvest handling and value-added marketing. The niche position of domestic goji in the US and European markets also means limited processing infrastructure compared to mainstream berries.
+Goji berry cultivation faces challenges including labor-intensive hand harvesting, relatively low per-plant yields, disease pressure in humid climates, market competition from low-cost Chinese imports, and the long, arching growth habit that requires trellising. Establishing a profitable goji operation requires careful attention to [[post-harvest-handling-marketing-mushrooms]] handling and value-added marketing. The niche position of domestic goji in the US and European markets also means limited processing infrastructure compared to mainstream berries.
 
 Aronia chokeberry's primary challenge is consumer awareness — many potential buyers are unfamiliar with the fruit and its uses. The strong astringency limits fresh-market potential and requires processing infrastructure. Market development is still in progress in many regions, and price volatility can be an issue. However, these challenges are diminishing as the aronia industry matures and processing capacity expands.
 
@@ -133,7 +133,7 @@ Aronia chokeberry's primary challenge is consumer awareness — many potential b
 
 In permaculture systems, goji berry is best suited to Zone 2 or Zone 3 plantings in drier, well-drained sites. It functions as a productive understory edge plant or hedgerow component in warm-temperate and Mediterranean climates. Its drought tolerance and long harvest window are assets in water-limited designs. Goji can also serve as a dual-purpose plant, providing edible fruit and functioning as a wildlife screen.
 
-Aronia chokeberry is one of the most versatile permaculture shrubs for temperate and cold climates. Its uses include: windbreaks and hedgerows (Zones 2–3), edible landscaping and ornamental plantings, wildlife habitat and food source, soil stabilization on marginal sites, and high-yield food forest production with minimal maintenance. Aronia's nitrogen-moderate demands, pest resistance, and ornamental value make it an excellent multifunctional species. For cold-climate permaculture designers, aronia is generally the more reliable and lower-maintenance choice of these two species.
+Aronia chokeberry is one of the most versatile permaculture shrubs for temperate and cold climates. Its uses include: windbreaks and hedgerows (Zones 2–3), edible landscaping and ornamental plantings, wildlife habitat and food source, soil stabilization on marginal sites, and high-yield food forest production with minimal maintenance. Aronia's nitrogen-moderate demands, pest resistance, and ornamental value make it an excellent multifunctional species. For cold-climate [[permaculture-designers-manual-cattle-systems]], aronia is generally the more reliable and lower-maintenance choice of these two species.
 
 ## See Also
 

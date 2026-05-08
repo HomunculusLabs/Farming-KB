@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin]] Pharmacology and Chemistry
+# [[psilocybin-compound]] Pharmacology and Chemistry
 
 ## Active Compounds
 

@@ -112,11 +112,11 @@ Modern failures of terracing usually result from over-terracing, inadequate drai
 
 [[permaculture-earthworks]]
 
-[[permaculture-earthworks-guide]]
+[[permaculture-water-harvesting-earthworks]]
 
 alexander shulgin
 
-[[swale-construction-guide]]
+[[organic-vegetable-growing-and-market-gardening]]
 
 [[permaculture-dam-design]]
 

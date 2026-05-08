@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # Phosphoryl Chloride (POCl₃)
 
-Phosphoryl chloride, with the chemical formula POCl₃, is a colorless, fuming liquid widely used as a phosphorylating agent in organic synthesis. In the context of [[psilocybin]] chemistry, it is the key reagent used to phosphorylate [[psilocin]] (4-hydroxy-N,N-dimethyltryptamine) to produce [[psilocybin]] (4-phosphoryloxy-N,N-dimethyltryptamine).
+Phosphoryl chloride, with the chemical formula POCl₃, is a colorless, fuming liquid widely used as a phosphorylating agent in organic synthesis. In the context of [[psilocybin-compound]] chemistry, it is the key reagent used to phosphorylate [[psilocin]] (4-hydroxy-N,N-dimethyltryptamine) to produce [[psilocybin-compound]] (4-phosphoryloxy-N,N-dimethyltryptamine).
 
 ## Chemical Structure and Properties
 
@@ -22,7 +22,7 @@ Due to its reactivity and corrosive nature, phosphoryl chloride requires careful
 
 ## Role in Psilocybin Synthesis
 
-In the synthesis of [[psilocybin]], phosphoryl chloride serves as the phosphorylating agent that installs the phosphate ester group onto the 4-hydroxy position of [[psilocin]]. This phosphorylation step is the final chemical transformation in most synthetic routes to [[psilocybin]].
+In the synthesis of [[psilocybin-compound]], phosphoryl chloride serves as the phosphorylating agent that installs the phosphate ester group onto the 4-hydroxy position of [[psilocin]]. This phosphorylation step is the final chemical transformation in most synthetic routes to [[psilocybin-compound]].
 
 The general phosphorylation procedure involves:
 
@@ -30,15 +30,15 @@ The general phosphorylation procedure involves:
 
 2. **Phosphorylation**: POCl₃ reacts with the phenolic hydroxyl group at the 4-position of the indole ring, forming a dichlorophosphate intermediate. The reaction may be performed in the presence of a base such as triethylamine or pyridine to scavenge the liberated HCl.
 
-3. **Hydrolysis and workup**: The intermediate is carefully hydrolyzed with water or aqueous base to convert the dichlorophosphate to the desired monophosphate ester ([[psilocybin]]). This step requires precise control of pH and temperature to avoid dephosphorylation or decomposition of the product.
+3. **Hydrolysis and workup**: The intermediate is carefully hydrolyzed with water or aqueous base to convert the dichlorophosphate to the desired monophosphate ester ([[psilocybin-compound]]). This step requires precise control of pH and temperature to avoid dephosphorylation or decomposition of the product.
 
-4. **Isolation**: The crude [[psilocybin]] is isolated and purified, typically by crystallization or chromatographic methods.
+4. **Isolation**: The crude [[psilocybin-compound]] is isolated and purified, typically by crystallization or chromatographic methods.
 
-The Shirota, Hakamata, and Goda synthesis of [[psilocybin]] employs phosphoryl chloride in this capacity, and the conditions have been optimized for large-scale production. The yield and purity of the final product depend critically on the phosphorylation conditions, including stoichiometry, temperature, solvent choice, and workup procedure.
+The Shirota, Hakamata, and Goda synthesis of [[psilocybin-compound]] employs phosphoryl chloride in this capacity, and the conditions have been optimized for large-scale production. The yield and purity of the final product depend critically on the phosphorylation conditions, including stoichiometry, temperature, solvent choice, and workup procedure.
 
 ## Other Applications in Organic Chemistry
 
-Beyond [[psilocybin]] synthesis, phosphoryl chloride has extensive use in organic and industrial chemistry:
+Beyond [[psilocybin-compound]] synthesis, phosphoryl chloride has extensive use in organic and industrial chemistry:
 
 - **Nucleotide synthesis**: POCl₃ is used in the preparation of nucleoside phosphates and nucleotide analogs for biochemical research and pharmaceutical development.
 - **Esterification**: It serves as a general reagent for converting alcohols and phenols to their corresponding phosphate esters.
@@ -67,7 +67,7 @@ In laboratory settings, phosphoryl chloride is typically purchased in sealed amp
 
 ## Handling in the Laboratory
 
-Practical laboratory protocols for working with phosphoryl chloride in [[psilocybin]] synthesis include specific techniques to manage its reactivity:
+Practical laboratory protocols for working with phosphoryl chloride in [[psilocybin-compound]] synthesis include specific techniques to manage its reactivity:
 
 - **Atmosphere control**: All manipulations should be performed under nitrogen or argon atmosphere using standard Schlenk or glovebox techniques.
 - **Addition order**: POCl₃ should be added slowly to a cooled solution of [[psilocin]] in dry solvent, never the reverse, to control the exothermic reaction.
@@ -76,14 +76,14 @@ Practical laboratory protocols for working with phosphoryl chloride in [[psilocy
 
 ## Alternatives in Psilocybin Synthesis
 
-While phosphoryl chloride is the most commonly used phosphorylating agent in [[psilocybin]] synthesis, several alternatives have been explored:
+While phosphoryl chloride is the most commonly used phosphorylating agent in [[psilocybin-compound]] synthesis, several alternatives have been explored:
 
 - **Polyphosphoric acid (PPA)**: Can phosphorylate phenolic hydroxyl groups but generally gives lower yields and requires harsher conditions.
 - **Diphenyl chlorophosphate**: Offers more selective phosphorylation but introduces additional purification challenges due to the phenyl byproducts.
-- **Enzymatic phosphorylation**: The enzyme PsiM, which performs this step in nature, has been investigated for biocatalytic production of [[psilocybin]]. This approach offers high specificity and mild conditions but is currently limited by enzyme availability and scale-up challenges.
+- **Enzymatic phosphorylation**: The enzyme PsiM, which performs this step in nature, has been investigated for biocatalytic production of [[psilocybin-compound]]. This approach offers high specificity and mild conditions but is currently limited by enzyme availability and scale-up challenges.
 - **Phosphoramidite chemistry**: Methods borrowed from oligonucleotide synthesis have been adapted for the phosphorylation of [[psilocin]], though these are generally less practical for large-scale production.
 
-Despite these alternatives, POCl₃ remains the reagent of choice for most laboratory and industrial syntheses of [[psilocybin]] due to its low cost, high reactivity, and well-characterized reaction profile.
+Despite these alternatives, POCl₃ remains the reagent of choice for most laboratory and industrial syntheses of [[psilocybin-compound]] due to its low cost, high reactivity, and well-characterized reaction profile.
 
 ## Environmental and Safety Considerations
 
@@ -101,7 +101,7 @@ The phosphorylation of [[psilocin]] by POCl₃ proceeds through a well-character
 1. **Nucleophilic attack**: The phenolic oxygen of [[psilocin]] attacks the electrophilic phosphorus atom of POCl₃, displacing one chloride ion and forming an O-phosphoryl dichloride intermediate.
 2. **Base scavenging**: The liberated HCl is captured by a base (typically triethylamine or pyridine), which also serves to deprotonate the phenol and increase its nucleophilicity.
 3. **Intermediate stabilization**: The dichlorophosphate intermediate may be isolated or carried forward directly to the hydrolysis step, depending on the specific synthetic protocol.
-4. **Selective hydrolysis**: Careful addition of water or dilute aqueous base hydrolyzes the two remaining P-Cl bonds to P-OH bonds. The first hydrolysis yields a mono-chloro mono-hydroxy phosphate, and the second yields the dihydroxy phosphate ([[psilocybin]]).
+4. **Selective hydrolysis**: Careful addition of water or dilute aqueous base hydrolyzes the two remaining P-Cl bonds to P-OH bonds. The first hydrolysis yields a mono-chloro mono-hydroxy phosphate, and the second yields the dihydroxy phosphate ([[psilocybin-compound]]).
 5. **pH control**: The hydrolysis step must be carefully controlled to avoid acidic conditions that could cleave the phosphate ester bond or basic conditions that could promote decomposition of the indole ring.
 
 The yield of this phosphorylation step is typically 40 to 70%, depending on the specific conditions, protecting groups, and purification strategy employed. The Shirota synthesis achieves yields at the higher end of this range through optimized conditions.
@@ -110,16 +110,16 @@ Side reactions that can reduce yield include over-phosphorylation, chlorination 
 
 ## Quality Control and Analysis
 
-The phosphorylation step in [[psilocybin]] synthesis requires analytical monitoring to ensure product quality:
+The phosphorylation step in [[psilocybin-compound]] synthesis requires analytical monitoring to ensure product quality:
 
 - **Thin-layer chromatography (TLC)**: Can be used to monitor the progress of the phosphorylation reaction and to detect the presence of unreacted [[psilocin]] starting material.
-- **NMR spectroscopy**: ³¹P NMR provides a definitive means of confirming the formation of the phosphate ester, with a characteristic chemical shift for the phosphorus atom in [[psilocybin]].
-- **HPLC**: Quantitative HPLC analysis can determine the ratio of [[psilocybin]] to [[psilocin]] and any phosphorylation byproducts in the crude reaction mixture.
-- **Melting point**: Pure [[psilocybin]] has a characteristic melting point (approximately 220 to 228 °C with decomposition), which serves as a simple purity indicator.
+- **NMR spectroscopy**: ³¹P NMR provides a definitive means of confirming the formation of the phosphate ester, with a characteristic chemical shift for the phosphorus atom in [[psilocybin-compound]].
+- **HPLC**: Quantitative HPLC analysis can determine the ratio of [[psilocybin-compound]] to [[psilocin]] and any phosphorylation byproducts in the crude reaction mixture.
+- **Melting point**: Pure [[psilocybin-compound]] has a characteristic melting point (approximately 220 to 228 °C with decomposition), which serves as a simple purity indicator.
 
 ## See Also
 
-- [[psilocybin]] — the primary product synthesized using POCl₃ phosphorylation
+- [[psilocybin-compound]] — the primary product synthesized using POCl₃ phosphorylation
 - [[psilocin]] — the substrate for phosphorylation by POCl₃
 - [[4-hydroxyindole]] — the precursor intermediate in psilocybin synthesis
 - [[tryptamine]] — the parent scaffold of the psilocybin pathway

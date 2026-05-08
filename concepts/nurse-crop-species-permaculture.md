@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Nurse Crop Species in Permaculture
 
@@ -42,7 +43,7 @@ Acacia adsurgens (mintilpi) is a moderately fast-growing large shrub for hot dry
 
 Black locust (Robinia pseudoacacia) is a nitrogen-fixing tree widely used as a nurse crop in temperate permaculture systems. It grows rapidly, fixes nitrogen efficiently, provides excellent firewood, and produces flowers that are valuable bee forage.
 
-Black locust can be coppiced to provide both nitrogen-rich mulch and fuel wood. Its ability to grow on poor soils and improve them for subsequent plantings makes it a classic nurse crop species in [[permaculture-earthworks-guide]] and land rehabilitation projects.
+Black locust can be coppiced to provide both nitrogen-rich mulch and fuel wood. Its ability to grow on poor soils and improve them for subsequent plantings makes it a classic nurse crop species in [[permaculture-water-harvesting-earthworks]] and land rehabilitation projects.
 
 ## Pioneer Forest as Nurse System
 
@@ -62,7 +63,7 @@ The key challenge with nurse crops is managing the transition from nurse-dominat
 
 Management techniques include regular cutting or coppicing of nurse crops, selective removal as target species establish, using nurse crops only on the windward side of target trees, and choosing nurse species that naturally decline as conditions improve (many short-lived pioneers).
 
-The timing of nurse crop removal is important. Removing them too early leaves target species exposed. Removing them too late means they may have already suppressed the target species. Observation and responsive management, following [[permaculture-principle-observe-and-interact]], are essential.
+The timing of nurse crop removal is important. Removing them too early leaves target species exposed. Removing them too late means they may have already suppressed the target species. Observation and responsive management, following [[permaculture-design-principles]], are essential.
 
 ## Nurse Crops in Food Forest Establishment
 

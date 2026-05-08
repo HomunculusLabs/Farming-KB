@@ -40,7 +40,7 @@ Collembola are hexapods, not true insects, and are among the most ancient terres
 **Morphology:** Springtails range from 0.2 to 10 mm in length. Their defining feature is the furcula — a forked appendage folded beneath the abdomen that snaps forward to propel the animal away from threats. A ventral tube (collophore) aids in water absorption and adhesion to surfaces. Body forms are divided into elongate (arthropleona) and globular (symphypleona) morphs, each associated with different microhabitats.
 
 **Ecological groups:**
-- **Epigeic** species live on the soil surface and in leaf litter, feeding on fungal hyphae, spores, and decomposing plant material
+- **Epigeic** species live on the soil surface and in [[leaf-litter-microfungal-diversity-tropical-temperate]], feeding on fungal hyphae, spores, and decomposing plant material
 - **Hemiedaphic** species occupy the upper mineral soil and litter interface
 - **Euedaphic** species are deep-soil specialists with reduced pigmentation, elongated bodies, and reduced furcula — adapted to life in narrow pore spaces
 
@@ -77,19 +77,19 @@ Soil protozoa are single-celled eukaryotes that serve as the primary consumers o
 
 Tardigrades are microscopic animals (0.1–1.5 mm) found in soil, moss, lichen, and freshwater habitats. Approximately 1,300 species are described. Their fame rests on the cryptobiotic abilities of some species — they can survive desiccation, freezing, high radiation doses, and even the vacuum of space by entering a tun state of suspended metabolism.
 
-In soils, tardigrades are primarily predators of nematodes, rotifers, and other microfauna, though some feed on plant cell fluids. Eutardigrades dominate terrestrial habitats. Their populations typically peak in moist, organic-rich soils and decline sharply under desiccation or extreme temperatures.
+In soils, tardigrades are primarily predators of nematodes, rotifers, and other microfauna, though some feed on [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] fluids. Eutardigrades dominate terrestrial habitats. Their populations typically peak in moist, organic-rich soils and decline sharply under desiccation or extreme temperatures.
 
 ### Rotifera — Wheel Animals
 
 Rotifers are pseudocoelomate animals ranging from 0.1 to 2 mm. Bdelloid rotifers dominate soil communities, particularly in the water film surrounding organic particles and in the rhizosphere. They feed on bacteria, small protozoa, and fungal spores using a ciliated corona that creates feeding currents.
 
-Bdelloid rotifers are notable for their entirely asexual reproduction over millions of years — one of the longest-standing evolutionary puzzles. They can survive desiccation by anhydrobiosis, similar to tardigrades, and are among the most radiation-resistant animals known.
+Bdelloid rotifers are notable for their entirely asexual reproduction over millions of years — one of the longest-standing evolutionary puzzles. They can survive desiccation by anhydrobiosis, similar to tardigrades, and are among the most [[radiation-resistant-fungi-and-myco-corrosion]] animals known.
 
 ## Ecological Roles
 
 ### Nutrient Mineralization and the Microbial Loop
 
-The most significant function of soil mesofauna is their role in nutrient mineralization — the conversion of organic nutrients locked in microbial biomass and organic matter into plant-available inorganic forms.
+The most significant function of soil mesofauna is their role in nutrient mineralization — the conversion of [[organic-nutrients-vs-synthetic-nutrients]] locked in microbial biomass and organic matter into plant-available inorganic forms.
 
 The process works through what ecologists call the **microbial loop**:
 
@@ -181,7 +181,7 @@ Plant residues → Bacteria/Fungi → Protozoa/Bacterivorous nematodes/Fungivoro
 
 - **Nematodes–fungi:** Fungivorous nematodes regulate mycorrhizal colonization intensity. Moderate grazing can stimulate mycorrhizal hyphal growth, while heavy grazing reduces colonization and can impair plant nutrient uptake. This represents a critical intersection between the bacterial and fungal energy channels.
 
-- **Collembola–mycorrhizae:** Collembola selectively graze ectomycorrhizal mantle hyphae and external arbuscular mycorrhizal hyphae. In pot experiments, Collembola presence reduced mycorrhizal colonization by 15–40%, but in natural systems, the net effect is often neutral or positive due to compensatory fungal growth and the nutrient mineralization benefits.
+- **Collembola–mycorrhizae:** Collembola selectively graze ectomycorrhizal mantle hyphae and external [[arbuscular-mycorrhizal-colonization-patterns]] hyphae. In pot experiments, Collembola presence reduced mycorrhizal colonization by 15–40%, but in natural systems, the net effect is often neutral or positive due to compensatory fungal growth and the nutrient mineralization benefits.
 
 - **Mites–Collembola:** Predatory mesostigmatid mites are major predators of Collembola. This predation pressure influences Collembola vertical distribution (moving deeper into soil to avoid surface-active predators) and community composition.
 
@@ -209,7 +209,7 @@ The direct and indirect contributions of mesofauna to agricultural productivity 
 - **Phosphorus mobilization:** Protozoan grazing releases phosphorus from bacterial cells. Some protozoa also produce phosphatase enzymes.
 - **Disease suppression:** Predatory and fungivorous nematodes, combined with predacious mites, reduce populations of plant-parasitic nematodes and soil-borne fungal pathogens.
 - **Decomposition acceleration:** Collembola and mite grazing on fungi accelerates litter decomposition by 10–30% compared to microbe-only decomposition.
-- **Mycorrhizal regulation:** Moderate fungivory by nematodes and Collembola maintains mycorrhizal networks in an active, growing state, optimizing nutrient exchange with host plants.
+- **Mycorrhizal regulation:** Moderate fungivory by nematodes and Collembola maintains [[mycorrhizal-networks-and-forest-communication]] in an active, growing state, optimizing nutrient exchange with host plants.
 
 ## Conservation and Management
 
@@ -237,7 +237,7 @@ Several methods are used to assess mesofauna communities:
 
 - **Coring and flotation:** Soil cores are processed through density flotation (sucrose or MgSO₄ solutions) to separate mesofauna from mineral particles.
 
-- **Molecular methods:** DNA metabarcoding of soil samples increasingly supplements traditional extraction, providing higher taxonomic resolution and detecting rare or cryptic species. However, it cannot yet reliably quantify population densities or assess functional group abundances.
+- **[[molecular-methods-fungal-taxonomy-and-diversity]]:** DNA metabarcoding of soil samples increasingly supplements traditional extraction, providing higher taxonomic resolution and detecting rare or cryptic species. However, it cannot yet reliably quantify population densities or assess functional group abundances.
 
 - **Most probable number (MPN) enumeration:** Used for protozoa, particularly in the rhizosphere. Serial dilution cultures are scored for protozoan presence to estimate population densities.
 
@@ -289,7 +289,7 @@ Composting provides an instructive case study of mesofauna succession:
 
 **Cooling mesophilic phase (25–45°C):** Rapid colonization by bacterivorous nematodes and flagellate protozoa. *Folsomia candida* and other opportunistic Collembola arrive, often in enormous numbers (100,000+ per m²). Bacterial decomposition accelerates as protozoan grazing stimulates bacterial turnover.
 
-**Maturation phase (ambient temperature):** Oribatid mites and diverse Collembola species colonize as the compost stabilizes. Fungal communities become more diverse, supporting fungivorous nematodes and mites. Predatory mesostigmatid mites establish as prey populations build. The community gradually shifts from r-selected opportunists to K-selected specialists.
+**Maturation phase (ambient temperature):** Oribatid mites and diverse Collembola species colonize as the compost stabilizes. [[fungal-communities-water-aquatic-ecosystems]] become more diverse, supporting fungivorous nematodes and mites. Predatory mesostigmatid mites establish as prey populations build. The community gradually shifts from r-selected opportunists to K-selected specialists.
 
 **Finished compost:** A stable community dominated by oribatid mites, diverse Collembola, and a balanced nematode trophic structure. This mature mesofauna community is one indicator of compost quality and biological maturity. When finished compost is applied to soil, it serves as an inoculum, introducing diverse mesofauna to recipient soils.
 

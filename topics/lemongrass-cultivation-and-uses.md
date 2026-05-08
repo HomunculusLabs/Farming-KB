@@ -116,7 +116,7 @@ The two primary commercial types of lemongrass are distinguished by their botani
 This is the variety most commonly found in fresh markets, grocery stores, and home gardens worldwide. Key characteristics include:
 
 - Produces thick, fleshy pseudostems that are ideal for culinary use.
-- Rarely flowers or sets seed under cultivation, making vegetative propagation the standard method.
+- Rarely flowers or sets seed under cultivation, making [[vegetative-propagation-methods-mollison]] the standard method.
 - Preferred for fresh and dried culinary herb markets.
 - Native to maritime Southeast Asia, now widely naturalized throughout the tropics.
 - The essential oil composition is dominated by citral, with myrcene as a secondary constituent.
@@ -152,7 +152,7 @@ Lemongrass is relatively easy to cultivate provided its basic requirements for w
 
 - **Temperature**: Optimal growth occurs between 25 and 35 degrees Celsius (77-95 degrees Fahrenheit). Growth slows significantly below 15 degrees Celsius (59 degrees Fahrenheit), and exposure to frost is lethal to above-ground foliage. Roots may survive brief freezes in well-mulched plants, particularly C. flexuosus.
 - **Sunlight**: Full sun is essential for vigorous growth and maximum essential oil production. Plants grown in partial shade will be less dense and produce lower oil yields. A minimum of 6-8 hours of direct sunlight per day is recommended.
-- **Rainfall**: Lemongrass thrives in areas receiving 1,000 to 3,000 millimeters (40-120 inches) of annual rainfall. It is moderately drought-tolerant once established but performs best with consistent moisture. In drier climates, supplemental irrigation is necessary.
+- **Rainfall**: Lemongrass thrives in areas receiving 1,000 to 3,000 millimeters (40-120 inches) of annual rainfall. It is moderately [[drought-tolerant-planting-design]] once established but performs best with consistent moisture. In drier climates, supplemental irrigation is necessary.
 - **Humidity**: High humidity is well-tolerated and generally beneficial, provided air circulation is adequate to prevent fungal diseases.
 
 ### Soil Requirements
@@ -297,7 +297,7 @@ Dried lemongrass can be ground into a fine powder using a spice grinder or morta
 
 ## Culinary Uses
 
-Lemongrass is one of the most important aromatic herbs in Southeast Asian and Indian cuisines, prized for its bright, citrusy flavor that adds freshness and complexity to a wide range of dishes.
+Lemongrass is one of the most important aromatic herbs in [[southeast-asian-mushroom-tourism-bali]] and Indian cuisines, prized for its bright, citrusy flavor that adds freshness and complexity to a wide range of dishes.
 
 ### Fresh Stalks
 
@@ -315,7 +315,7 @@ The tender inner portion of fresh lemongrass stalks is the primary culinary form
 
 ### Beverages
 
-- **Tea**: Fresh or dried lemongrass leaves and stalks are steeped in hot water to produce a refreshing, caffeine-free herbal tea. The tea has a bright, lemony flavor and is enjoyed both hot and iced.
+- **Tea**: Fresh or dried lemongrass leaves and stalks are steeped in [[hot-water-and-hydrated-lime-substrate-treatment]] to produce a refreshing, caffeine-free herbal tea. The tea has a bright, lemony flavor and is enjoyed both hot and iced.
 - **Infusions and syrups**: Lemongrass is infused into simple syrups for use in cocktails, mocktails, and desserts. Lemongrass-ginger syrup is a popular combination.
 
 ### Regional Culinary Traditions
@@ -440,7 +440,7 @@ Instead of overwintering entire plants, gardeners can root fresh stalk cuttings 
 
 ## Common Pests and Diseases
 
-While lemongrass is relatively pest-resistant due to its aromatic essential oils, several pests and diseases can affect it under certain conditions.
+While lemongrass is relatively pest-resistant due to its aromatic [[essential-oils-and-hydrosol-distillation]], several pests and diseases can affect it under certain conditions.
 
 ### Pests
 
@@ -466,14 +466,14 @@ Maintain adequate spacing for air circulation, avoid overhead watering late in t
 
 ## Permaculture Applications
 
-Lemongrass is a highly versatile plant in permaculture design, offering multiple functions within a food forest, polyculture, or sustainable landscape.
+Lemongrass is a highly versatile plant in [[permaculture-design-course-notes]], offering multiple functions within a food forest, polyculture, or sustainable landscape.
 
 ### Multiple Functions
 
 - **Food production**: Edible stalks and leaves provide a year-round culinary herb in tropical climates.
 - **Pest barrier**: Dense lemongrass plantings serve as aromatic barriers around vegetable gardens, fruit trees, and outdoor living spaces.
 - **Erosion control**: The dense, fibrous root system helps stabilize soil on slopes, banks, and terraces.
-- **Mulch production**: Regular cutting of lemongrass provides abundant biomass for sheet mulching and compost production.
+- **Mulch production**: Regular cutting of lemongrass provides abundant biomass for [[sheet-mulching-lasagna-gardening]] and compost production.
 - **Income generation**: Lemongrass essential oil and fresh herb sales can provide supplementary income for small-scale farmers.
 - **Aesthetic value**: The graceful, fountain-like form of lemongrass clumps adds visual interest to garden landscapes.
 - **Wildlife habitat**: Dense clumps provide cover for beneficial insects, small reptiles, and amphibians.
@@ -485,7 +485,7 @@ Lemongrass is a highly versatile plant in permaculture design, offering multiple
 - **Aquaponics and hydroponics**: Lemongrass can be grown in aquaponic systems, where the nutrient-rich water from fish tanks supports vigorous growth.
 - **Companion planting guilds**: Lemongrass is a component of many tropical companion planting guilds, often paired with tomatoes, peppers, eggplant, basil, and marigolds.
 - **Living fences**: Dense rows of lemongrass can serve as low, informal living fences or boundary markers.
-- **Greywater treatment**: Lemongrass has been used in constructed wetlands and greywater treatment systems for its ability to tolerate and help process nutrient-rich wastewater.
+- **Greywater treatment**: Lemongrass has been used in [[constructed-wetlands-wastewater-treatment]] and greywater treatment systems for its ability to tolerate and help process nutrient-rich wastewater.
 
 ### Sustainability Considerations
 

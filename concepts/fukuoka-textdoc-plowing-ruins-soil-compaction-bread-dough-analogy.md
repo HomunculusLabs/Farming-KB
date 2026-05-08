@@ -133,11 +133,11 @@ The farmer must accept that soil lives of its own accord and plows itself. It ne
 
 [[fukuoka-textdoc-what-plowing-really-is]]
 [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
-[[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]]
+[[fukuoka-natural-farming-philosophy]]
 [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-[[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
-[[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
+[[fukuoka-natural-farming-philosophy]]
+[[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 
 ## See Also
 

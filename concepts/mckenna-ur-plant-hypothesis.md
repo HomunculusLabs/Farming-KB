@@ -49,7 +49,7 @@ McKenna acknowledges that the Ur Plant hypothesis is speculative and calls for f
 
 See also:
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[cattle-dispersal-of-psychoactive-fungi]]
@@ -77,7 +77,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[african-truffle-species]]
 
 ## Psilocybin and Serotonin: The Biochemical Argument

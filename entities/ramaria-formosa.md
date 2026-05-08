@@ -147,7 +147,3 @@ acidification, declining in areas with intensive agricultural runoff or
 air pollution.
 
 ## See Also
-
-- [[ramaria-botrytis]] — Close relative; larger edible coral mushroom
-- [[ectomycorrhizal-fungi]] — overview of mycorrhizal associations in forest ecosystems
-- [[toxic-mushrooms-poisoning-amatoxins-syndromes]] — mushroom poisoning syndromes and identification

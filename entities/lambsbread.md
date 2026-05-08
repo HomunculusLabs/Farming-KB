@@ -22,11 +22,10 @@ sources:
   - Ruben, B. (2020). "Cannabis and Jamaican Rastafari: A Historical Review."
     Journal of Ethnopharmacology.
 ---
-
 # Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
-sativa cannabis strain originating from Jamaica, deeply intertwined with
+sativa [[cannabis-strain-guide-reference]] originating from Jamaica, deeply intertwined with
 Rastafarian culture and spiritual practice. Often cited as Bob Marley's
 preferred cannabis, Lambsbread is celebrated for its uplifting, cerebral
 effects and spiritual clarity. As a tropical landrace-influenced sativa, it
@@ -36,17 +35,17 @@ cannabis varieties.
 ## Genetic Lineage
 
 - **Type:** Pure sativa (landrace-influenced)
-- **Origin:** Jamaica, likely descended from Southeast Asian and South
+- **Origin:** Jamaica, lisoutheast-asian-mushroom-tourism-balifrom [[southeast-asian-mushroom-tourism-bali]] and South
   Indian sativa genetics brought to the Caribbean during the colonial era
 - **Breeder:** Landrace — developed through natural selection by Jamaican
   growers over generations
-- **Genetic stability:** Moderate — phenotypic variation exists due to
-  landrace genetics and informal seed saving traditions
+- **Genetic stability:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
+  landrace genetics and informal [[ultra-low-cost-seed-saving]] traditions
 
 The genetic origins of Jamaican cannabis trace to multiple introductions:
-Indian indentured laborers brought *ganja* traditions and seeds in the
-1840s–1870s, while later introductions from Central and South America
-contributed additional genetic diversity. Natural selection under Jamaican
+Indian indentured laborers broughgartz-[[magic-mushrooms-japan]]-species-south-americaditions and seeds in the
+1840s–1870s, while later introductions from Central and [[gartz-magic-mushrooms-species-south-america]]
+contributed additional [[biodiversity-fungal-genetic-diversity]]. Natural selection under Jamaican
 tropical conditions produced vigorous, disease-resistant sativa phenotypes.
 
 ## Appearance
@@ -64,13 +63,13 @@ of tropical sativas:
 
 ## Aroma and Flavor Profile
 
-Lambsbread carries a distinctive tropical terpene profile:
+Lambsbread carries a distinctive tropical [[terpene-profile-chemotaxonomy]]:
 
 ### Primary Aromas
 - **Herbal, grassy** — fresh-cut vegetation, reminiscent of a tropical
   meadow
 - **Earthy, woody undertones** — natural soil and plant matter notes
-- **Subtle citrus and spice** — background notes from limonene and
+- **Subtle citrus and spice** — background notes from [[limonene]] and
   caryophyllene
 
 ### Flavor
@@ -148,12 +147,3 @@ status as the most culturally significant Jamaican strain.
 
 - **Height:** Very tall — can exceed 2.5 m outdoors
 - **Flowering time:** 12–14 weeks indoors (long)
-- **Yield:** Moderate — 300–450 g/m² indoors; 400–700 g/plant outdoors
-
-## See Also
-
-- [[cannabis-for-breast-cancer]]
-
-- [[cannabis-for-depression]]
-
-- [[set-and-setting]]

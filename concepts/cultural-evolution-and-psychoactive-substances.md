@@ -92,7 +92,7 @@ See Also:
 
 [[psychedelic-plants-and-civilization]]
 
-[[terence-mckenna-stoned-ape-hypothesis]]
+[[psychedelic-mushrooms-species-and-identification]]
 
 [[psychedelic-ancient-history]]
 

@@ -83,7 +83,7 @@ Understanding [[permaculture-succession]] is key to managing pioneer species eff
 
 ## Site Preparation with Pioneers
 
-On degraded or bare sites, pioneer species should be the first planting phase. They perform rapid [[permaculture-earthworks-guide]] follow-up by stabilising soil, building organic matter, and creating microclimate conditions suitable for sensitive food trees. See [[pioneer-species-permaculture]] and [[succession-in-permaculture]] for detailed approaches. [[permaculture-difficult-sites-plant-guide]] strategies rely heavily on pioneer species for initial establishment.
+On degraded or bare sites, pioneer species should be the first planting phase. They perform rapid [[permaculture-water-harvesting-earthworks]] follow-up by stabilising soil, building organic matter, and creating microclimate conditions suitable for sensitive food trees. See [[pioneer-species-permaculture]] and [[succession-in-permaculture]] for detailed approaches. [[permaculture-difficult-sites-plant-guide]] strategies rely heavily on pioneer species for initial establishment.
 
 ## Related
 

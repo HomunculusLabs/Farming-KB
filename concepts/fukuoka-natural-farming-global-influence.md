@@ -80,7 +80,7 @@ Despite its influence, natural farming has often been misunderstood or oversimpl
 
 Fukuoka himself was aware of these misunderstandings. He wrote that visitors to Japan were often disappointed to find that natural farming had not "caught on" there as widely as they expected. "The average person in the street knows and cares even less. People in general don't have the slightest inkling of the true value of a natural diet."
 
-The [[fukuoka-critique-scientific-agriculture]] that Fukuoka developed was sometimes mistaken for a rejection of all knowledge, when in fact it was a call for a deeper, more holistic understanding of nature.
+The [[fukuoka-critique-of-scientific-agriculture]] that Fukuoka developed was sometimes mistaken for a rejection of all knowledge, when in fact it was a call for a deeper, more holistic understanding of nature.
 
 ## Continuing Legacy
 

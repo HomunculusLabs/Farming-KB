@@ -148,4 +148,3 @@ ingredient in cough syrups and throat lozenges in many countries.
 - [[thymus-vulgaris-entity]]
 - [[rosmarinus-officinalis-entity]]
 - [[ocimum-basilicum]]
-- [[melissa-officinalis]]

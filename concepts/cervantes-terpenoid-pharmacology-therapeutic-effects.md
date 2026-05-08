@@ -132,4 +132,4 @@ cannabis cultivation:
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-cannabis-tolerance-addiction-pharmacology]]
-- [[cervantes-trichome-resin-production]]
+- [[cannabis-advanced-growing-techniques]]

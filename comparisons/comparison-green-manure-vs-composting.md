@@ -148,5 +148,3 @@ for high-value beds.
 ## See Also
 
 - [[comparison-tempeh-vs-miso]]
-
-- [[comparison-phytoextraction-vs-phytostabilization]]

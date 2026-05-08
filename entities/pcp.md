@@ -121,9 +121,9 @@ Analogues including TCP (thienylcyclohexylpiperidine) and PCE
 - [[ketamine]]
 - [[dxm]]
 - [[nitrous-oxide]]
-- [[muscimol]]
-- [[salvinorin-a]]
-- [[psilocybin]]
+- [[muscimol-entity]]
+- [[salvinorin-a-entity]]
+- [[psilocybin-compound]]
 - opium
 - [[papaver-somniferum]]
 - [[ibotenic-acid]]

@@ -10,7 +10,7 @@ sources:
 
 # Natural vs Scientific Farming
 
-Masanobu Fukuoka provides a systematic comparison between [[fukuoka-four-principles-natural-farming]] and [[fukuoka-critique-scientific-agriculture]], showing them to be fundamentally opposed in their perceptions, thinking, and the direction of research.
+Masanobu Fukuoka provides a systematic comparison between [[fukuoka-four-principles-natural-farming]] and [[fukuoka-critique-of-scientific-agriculture]], showing them to be fundamentally opposed in their perceptions, thinking, and the direction of research.
 
 ## Three Ways of Farming
 
@@ -86,7 +86,7 @@ Philosophically, scientific farming cannot be superior to Mahayana natural farmi
 
 - [[fukuoka-mu-nothingness-philosophy]]
 
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 
 - [[fukuoka-critique-modern-agriculture]]
 

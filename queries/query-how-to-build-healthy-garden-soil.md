@@ -148,4 +148,3 @@ These principles build on each other:
 ## Related Questions
 
 - [[cannabis-living-soil-amendment-schedule]]
-- [[seasonal-homesteading-calendar]]

@@ -22,21 +22,21 @@ type: concept
 
 ## Overview
 
-In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at the National Institute of Health Sciences in Tokyo published a concise large-scale synthesis of [[psilocin]] (1) and [[psilocybin]] (2), the principal hallucinogenic constituents of magic mushrooms. Their approach achieved gram-scale production of both compounds without any chromatographic purification, representing a significant practical advance over earlier methods that reported yields of only 20% and 47% for [[psilocybin]]. The key innovation was the isolation of a novel zwitterionic dibenzyl phosphate intermediate, which enabled simple filtration-based purification.
+In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at the National Institute of Health Sciences in Tokyo published a concise large-scale synthesis of [[psilocin]] (1) and [[psilocybin-compound]] (2), the principal hallucinogenic constituents of magic mushrooms. Their approach achieved gram-scale production of both compounds without any chromatographic purification, representing a significant practical advance over earlier methods that reported yields of only 20% and 47% for [[psilocybin-compound]]. The key innovation was the isolation of a novel zwitterionic dibenzyl phosphate intermediate, which enabled simple filtration-based purification.
 
 ## Background and Motivation
 
 ### Regulatory Context
 
-Since June 6, 2002, fungi containing [[psilocybin]] and [[psilocin]] have been regulated by the Narcotics and Psychotropic Control Law in Japan. The identification of hallucinogenic mushrooms using morphologic and microscopic analyses is difficult without expert knowledge, so chromatographic methods including TLC, GC, and HPLC are typically employed. These analytical methods require pure standard compounds.
+Since June 6, 2002, fungi containing [[psilocybin-compound]] and [[psilocin]] have been regulated by the Narcotics and Psychotropic Control Law in Japan. The identification of hallucinogenic mushrooms using morphologic and microscopic analyses is difficult without expert knowledge, so chromatographic methods including TLC, GC, and HPLC are typically employed. These analytical methods require pure standard compounds.
 
 ### Challenge of Isolation from Natural Sources
 
-Isolating [[psilocybin]] and [[psilocin]] from mushrooms on a gram scale for use as analytical standards is problematic because [[psilocin]] easily decomposes and [[psilocybin]] has high polarity. Several syntheses of psilocin had been published, but reports on psilocybin synthesis were few, with historically low yields.
+Isolating [[psilocybin-compound]] and [[psilocin]] from mushrooms on a gram scale for use as analytical standards is problematic because [[psilocin]] easily decomposes and [[psilocybin-compound]] has high polarity. Several syntheses of psilocin had been published, but reports on psilocybin synthesis were few, with historically low yields.
 
 ### Structural Context
 
-[[psilocybin]] and [[psilocin]] are structurally similar to the neurotransmitter [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[baeocystin]] and [[norbaeocystin]] may also be present in mushroom material.
+[[psilocybin-compound]] and [[psilocin]] are structurally similar to the neurotransmitter [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[baeocystin]] and [[norbaeocystin]] may also be present in mushroom material.
 
 ## Synthesis of Psilocin (1)
 
@@ -95,7 +95,7 @@ The zwitterionic nature of compound 8 enabled its isolation on large scale by si
 
 ### Final Deprotection to Psilocybin
 
-Catalytic hydrogenolysis of the zwitterionic intermediate (8) using 10% palladium-activated carbon in methanol under a hydrogen atmosphere led to [[psilocybin]] (2) as a crystalline product. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
+Catalytic hydrogenolysis of the zwitterionic intermediate (8) using 10% palladium-activated carbon in methanol under a hydrogen atmosphere led to [[psilocybin-compound]] (2) as a crystalline product. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
 
 The isolated yield of psilocybin from psilocin was greater than 72%, even for gram-scale production, representing a substantial improvement over the previously reported yields of 20% and 47%.
 
@@ -126,12 +126,12 @@ This synthesis pathway is significant for several reasons:
 4. **High overall yield**: The route provides substantially higher yields than previously available methods
 5. **Reagent availability**: All starting materials and reagents are commercially available
 
-The synthesis is directly relevant to forensic and analytical chemistry applications where pure [[psilocybin]] and [[psilocin]] standards are required for the identification and quantification of hallucinogenic mushrooms through chromatographic methods.
+The synthesis is directly relevant to forensic and analytical chemistry applications where pure [[psilocybin-compound]] and [[psilocin]] standards are required for the identification and quantification of hallucinogenic mushrooms through chromatographic methods.
 
 ## Related Topics
 
 - [[psilocin-and-psilocybin-chemistry]]
-- [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]

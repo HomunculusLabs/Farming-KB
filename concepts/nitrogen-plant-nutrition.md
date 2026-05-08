@@ -54,7 +54,7 @@ Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It i
 - Organic N → NH4+ (ammonium)
 - Carried out by soil bacteria and fungi
 - Rate depends on temperature, moisture, C:N ratio, soil biology
-- Faster in warm, moist soils with active [[compost-chemistry-soil-food-web]]
+- Faster in warm, moist soils with active [[composting-and-soil-biology]]
 
 **Nitrification:**
 - NH4+ → NO2- (nitrite) → NO3- (nitrate)
@@ -128,6 +128,6 @@ mycorrhiza|Mycorrhizal fungi improve nitrogen uptake efficiency. In return for p
 - [[natural-fertilizer-sources-and-application]]
 - [[biofertilizers-and-soil-inoculants]]
 - [[fertilizer-pollution-environmental-impact]]
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[ph-and-nutrient-availability-garden-soils]]
 - [[gaias-garden-cover-crops-soil-building]]

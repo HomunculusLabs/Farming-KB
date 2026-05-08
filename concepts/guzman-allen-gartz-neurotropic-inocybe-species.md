@@ -78,7 +78,7 @@ The psilocybin-containing Inocybe species share the same basic indole alkaloid p
 
 - **Psilocybin** (4-PO-DMT) -- the primary [[psilocybin-pharmacology|psychoactive compound]], a phosphate ester of [[psilocin]]
 - **Psilocin** (4-HO-DMT) — the dephosphorylated active metabolite
-- **Baeocystin** (4-PO-NMT) -- a lower homolog of [[psilocybin]], present in lower concentrations
+- **Baeocystin** (4-PO-NMT) -- a lower homolog of [[psilocybin-compound]], present in lower concentrations
 
 Gartz (1985a, 1986a, 1986b, 1986d) conducted extensive analytical work on Inocybe aeruginascens from German collections, establishing the presence and concentrations of these compounds. Stijve and Kuyper (1985) confirmed similar profiles in Dutch material.
 

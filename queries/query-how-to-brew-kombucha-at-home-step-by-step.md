@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 Kombucha is a fermented tea beverage produced using a SCOBY (symbiotic culture
 of bacteria and yeast) that consumes sugar and tea to produce organic acids,
-probiotics, and mild carbonation. The [[kombucha-brewing]] process involves
+probiotics, and mild carbonation. The kombucha brewing process involves
 preparing sweet tea, adding the SCOBY, fermenting for 7-14 days, then
 optionally performing a second fermentation with flavorings, as detailed in
 the [[kombucha-and-fermented-teas-guide]] for both beginners and advanced
@@ -98,7 +98,7 @@ excessive vinegar flavor (fermented too long). Thin SCOBYs or new SCOBYs
 forming from store-bought starter liquid are normal and will thicken over
 successive batches. For additional troubleshooting guidance and related
 fermentation techniques, consult [[lacto-fermentation-recipes]] and the
-[[kombucha-brewing]] reference for detailed solutions to common brewing issues.
+kombucha brewing reference for detailed solutions to common brewing issues.
 
 ## Key Points
 - The SCOBY (symbiotic culture of bacteria and yeast) is the living culture
@@ -113,5 +113,5 @@ fermentation techniques, consult [[lacto-fermentation-recipes]] and the
   [[wild-fermentation-vs-cultured-yeast]] for fermentation science context
 
 ## Related Questions
-- [[kombucha-brewing]]
+- kombucha brewing
 - [[comparison-kombucha-vs-kefir]]

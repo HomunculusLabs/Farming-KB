@@ -75,7 +75,7 @@ Strategies for urban catchment management include rainwater tanks for household 
 
 - [[permaculture-principle-design-from-patterns-to-details]]
 
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
 
 - [[urban-permaculture-rainwater-harvesting-graywater]]
 

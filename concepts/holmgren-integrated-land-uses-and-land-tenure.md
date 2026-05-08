@@ -94,4 +94,4 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 - [[holmgren-corporate-culture-and-ecology]]
 - [[holmgren-forest-management-and-sustainable-harvesting]]
 - [[holmgren-community-design-and-intentional-communities]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

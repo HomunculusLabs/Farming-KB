@@ -116,7 +116,7 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 
 ## See Also
 
-- [[kuehneromyces-mutabilis]]
+- kuehneromyces mutabilis entity
 - [[inonotus-obliquus-entity]] — another cold-season birch-associated fungus
 - [[flammulina-velutipes]] — enokitake, a similar cold-weather cluster-forming edible
 - [[armillaria-mellea-entity]] — honey mushroom, another clustered wood-decay agaric

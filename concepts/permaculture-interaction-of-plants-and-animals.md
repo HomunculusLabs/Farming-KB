@@ -136,4 +136,4 @@ Physical factors such as shelter, shade, reflection, and water usage interact pl
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[companion-planting-with-fungi]]
 - [[nurse-crop-species-permaculture]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

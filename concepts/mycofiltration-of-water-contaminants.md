@@ -142,7 +142,7 @@ These filters do have a couple of downsides. In cold climates they must be store
 
 ## See Also
 
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 
 ---
 Updated: 2026-04-18

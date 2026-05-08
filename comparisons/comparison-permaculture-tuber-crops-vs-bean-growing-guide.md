@@ -148,4 +148,3 @@ nutritionally complete staple food base.
 - [[comparison-companion-planting-vs-intercropping]]
 - [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-perennial-vegetables-vs-cover-crops]]
-- [[comparison-mulch-vs-cover-crops]]

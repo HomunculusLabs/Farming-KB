@@ -104,7 +104,7 @@ Germination occurs over an extended period from spring through mid-summer, with 
 
 - **Amaranthus retroflexus** — Redroot pigweed, widespread agricultural weed
 - **Amaranthus hybridus** — Smooth pigweed, morphologically similar
-- **[[amaranthus-palmeri]]** — The cultivated grain amaranth complex
+- **amaranthus palmeri** — The cultivated grain amaranth complex
 - **Amaranthus tuberculatus** — Waterhemp, closely related resistant weed species
 
 ## See Also

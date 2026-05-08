@@ -15,7 +15,7 @@ The central thesis, developed across the book's four substantive chapters, is th
 
 ## Chapter One: Wasson — The Divine Mushroom
 
-R. Gordon Wasson's opening chapter establishes the phenomenological parallel between the Mexican mushroom velada and the Eleusinian Mystery. Drawing on his pioneering fieldwork among the Mazatec, documented also in [[maria-sabina-mazatec-mushroom-ceremony]], Wasson argues that the experience described by ancient authorities for Eleusis — "new, astonishing, inaccessible to rational cognition" — matches the characteristics of hallucinogen-induced mystical experience.
+R. Gordon Wasson's opening chapter establishes the phenomenological parallel between the Mexican mushroom velada and the Eleusinian Mystery. Drawing on his pioneering fieldwork among the Mazatec, documented also in [[mushroom-cultivation-fundamentals]], Wasson argues that the experience described by ancient authorities for Eleusis — "new, astonishing, inaccessible to rational cognition" — matches the characteristics of hallucinogen-induced mystical experience.
 
 He quotes Aristides the Rhetor (2nd century A.D.): "Eleusis is a shrine common to the whole earth, and of all the divine things that exist among men, it is both the most awesome and the most luminous. At what place in the world have more miraculous tidings been sung, and where have the dromena called forth greater emotion, where has there been greater rivalry between seeing and hearing?"
 
@@ -61,7 +61,7 @@ The Road to Eleusis represents a landmark in entheogenic scholarship, applying i
 [[demeter-and-persephone-in-eleusinian-mythology]]
 [[wasson-hofmann-ruck-theory]]
 [[mazatec-mushroom-culture-and-velada]]
-[[maria-sabina-mazatec-mushroom-ceremony]]
+[[mushroom-cultivation-fundamentals]]
 [[hallucinogens-and-shamanism-harner-anthology]]
 [[entheogen-culture]]
 

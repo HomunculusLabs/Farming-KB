@@ -96,7 +96,7 @@ Major gaps in understanding include:
 
 - [[fungal-endophytes-grass-crop-systems]]
 - [[microfungal-species-diversity-large-areas]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[mycorrhizal-fungi-biome-surveys]]
 
 Source: Comprehensive review of endophyte biology (An et al. 1993; Bose 1947; Boursnell 1950; Rayner 1915, 1929)

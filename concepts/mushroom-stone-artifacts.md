@@ -124,5 +124,5 @@ continuity across millennia of sacred mushroom use.
 
 See also: [[pre-columbian-mushroom-use]], [[aztec-entheogens]],
 [[maya-entheogens]], [[teonanacatl-and-mesoamerican-mushroom-cults]],
-[[teonanacatl-history]], [[psilocybe-mexicana-profile]],
+[[teonanacatl-history]], [[psychedelic-mushrooms-species-and-identification]],
 richard evans schultes updated

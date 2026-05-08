@@ -116,4 +116,4 @@ Fungal biomass and activity fluctuate seasonally:
 - [[glomalin-and-soil-carbon]] -- AM fungal glycoprotein for soil aggregation
 - [[soil-food-web-nutrient-cycling]] -- full soil food web structure
 - [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
-- [[no-till-gardening-method]] -- impacts on fungal communities
+- [[composting-and-soil-biology]] -- impacts on fungal communities

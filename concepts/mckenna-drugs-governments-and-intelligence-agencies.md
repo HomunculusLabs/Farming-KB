@@ -117,7 +117,7 @@ The history of drugs and governments is ultimately a history of power, and of th
 ## See also
 
 [[mckenna-drug-war-and-human-freedom]]
-[[mckenna-opium-wars-and-drug-diplomacy]]
+[[ethnomycology]]
 [[mckenna-legalization-debate-and-archaic-revival]]
 [[mckenna-exploitation-cycles-drug-diplomacy]]
 [[mckenna-consciousness-expansion-and-drug-war]]

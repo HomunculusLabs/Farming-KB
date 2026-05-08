@@ -127,6 +127,6 @@ with a distinctive dextrinoid reaction.
 - [[mycelium]]
 - [[spore-print]]
 - [[trametes-versicolor]]
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[volvariella-volvacea]]
 - [[pleurotus-eryngii]]

@@ -148,4 +148,3 @@ from the body.
 - [[schultes-peyote-tracks-little-deer]] — mescaline-containing cactus
   used in therapy research
 - [[schultes-psilocybe-little-flowers-gods]] — psilocybin mushrooms
-  studied for therapeutic potential

@@ -92,7 +92,7 @@ PSP's immunomodulatory effects overlap with PSK but include some distinctive pro
 
 ## See Also
 
-- [[turkey-tail-mushroom-cancer-research]] — broader research on turkey tail in oncology
+- [[mushroom-cultivation-fundamentals]] — broader research on turkey tail in oncology
 - [[turkey-tail-trametes-versicolor]] — the source species
 - [[lentinan-clinical-research]] — comparison with shiitake-derived lentinan
 - [[mushroom-cancer-clinical-trials-overview]] — overview of mushroom compound clinical trials

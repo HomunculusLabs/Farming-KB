@@ -11,9 +11,6 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water.
 
-
-
-
 ## Rainwater Harvesting
 
 ### Collection
@@ -36,9 +33,6 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - 1/2 inch pipe for domestic use, 3/4 inch for irrigation
 - Use drip irrigation or soaker hoses (90% efficient vs 50% for sprinklers)
 
-
-
-
 ## Greywater Systems
 
 ### What is Greywater
@@ -58,18 +52,12 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - Don't apply to root vegetables or where it contacts edible parts
 - Ideal for fruit trees, berries, ornamentals, and lawn irrigation
 
-
-
-
 ## Wells
 - Drilled wells: 100-400 ft deep, reliable, expensive ($5,000-15,000)
 - Dug wells: 20-50 ft deep, shallow water table, lower cost
 - Driven wells (sand points): 25-50 ft deep, suitable for sandy soil
 - Always test well water for bacteria, nitrates, and minerals
 - Hand pump backup for power outages
-
-
-
 
 ## Water Purification
 - **Boiling**: 1 minute rolling boil kills all pathogens
@@ -78,10 +66,7 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - **UV treatment**: Kills pathogens with ultraviolet light (requires power)
 - **Distillation**: Boil and condense — removes everything including minerals
 
-
-
-
 ## Related
 - [[permaculture-water-harvesting]] — for earthworks and [[swale-design]]
-- [[swale-construction-guide]] — for swale building
+- [[organic-vegetable-growing-and-market-gardening]] — for swale building
 - [[cervantes-irrigation-watering-techniques]] — for garden irrigation methods

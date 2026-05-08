@@ -9,7 +9,7 @@ sources:
 ---
 # Mushroom Spore Germination Media and Techniques
 
-Spore germination is the foundational technique for creating new mushroom strains from wild specimens or commercial prints. However, many mushroom species produce spores that are reluctant to germinate on standard [[mushroom-agar-media-recipes]], requiring specialized approaches. Understanding the factors that influence spore germination and the media formulations that promote it is essential for [[mushroom-genetics-and-mating-systems]] and [[mushroom-cultivation-cloning-isolation]].
+Spore germination is the foundational technique for creating new mushroom strains from wild specimens or commercial prints. However, many mushroom species produce spores that are reluctant to germinate on standard [[mushroom-agar-media-recipes]], requiring specialized approaches. Understanding the factors that influence spore germination and the media formulations that promote it is essential for [[mushroom-genetics-and-mating-systems]] and [[mushroom-cultivation-fundamentals]].
 
 This content draws from Paul Stamets' The Mushroom Cultivator, which provides detailed guidance on spore germination for cultivators.
 
@@ -77,7 +77,7 @@ Excessive sugar in the media inhibits germination. Reduce the sugar content of t
 
 Contamination overwhelms slow germination. If bacteria or mold grow faster than the mushroom mycelium, the spores may never get established. Using [[sterile-technique-mushroom-cultivation]] and antibiotics in the media (for bacterial contamination) can help.
 
-Some species simply require more specific germination triggers. For these species, trying multiple media formulations, adjusting pH, or providing wood-based signals may be necessary. For species that remain intractable, [[mushroom-cultivation-cloning-isolation]] from a fresh specimen provides a reliable alternative.
+Some species simply require more specific germination triggers. For these species, trying multiple media formulations, adjusting pH, or providing wood-based signals may be necessary. For species that remain intractable, [[mushroom-cultivation-fundamentals]] from a fresh specimen provides a reliable alternative.
 
 ## See Also
 
@@ -91,7 +91,7 @@ Some species simply require more specific germination triggers. For these specie
 
 [[mushroom-spore-printing-and-storage]] — collecting and storing spore prints
 
-[[mushroom-cultivation-cloning-isolation]] — tissue cloning as alternative to spore germination
+[[mushroom-cultivation-fundamentals]] — tissue cloning as alternative to spore germination
 
 [[mushroom-sterile-technique]] — maintaining sterility during germination work
 

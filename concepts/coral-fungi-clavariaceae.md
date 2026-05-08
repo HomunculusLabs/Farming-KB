@@ -148,4 +148,3 @@ they should be thoroughly cooked before consumption.
 - Atkinson, G.F. Mushrooms: Edible, Poisonous, etc.
   1900.
 - Morgan, A.P. "North American Fungi." J. Cinc. Soc.
-  Nat. Hist., various volumes.

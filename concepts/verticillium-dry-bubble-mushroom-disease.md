@@ -148,4 +148,3 @@ pest control in agricultural settings.
   susceptibility
 - [[bulk-substrate-preparation]] for hygiene during substrate handling
 - [[garden-disease-identification]] for broader plant disease context
-- [[mushroom-cultivation-sterile-technique]] for contamination prevention methods

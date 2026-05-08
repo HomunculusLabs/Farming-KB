@@ -95,7 +95,7 @@ All three are gluten free, making them important for people with celiac disease.
 
 ## Uses Beyond Grain
 
-- **Sorghum:** Dual-purpose (grain + [[animal feed]]). Sweet types produce syrup and biofuel. Stalks used for fencing, thatch, and bioenergy. Broomcorn types for broom manufacturing. Industrial applications including biodegradable packaging.
+- **Sorghum:** Dual-purpose (grain + [[animal-feed]]). Sweet types produce syrup and biofuel. Stalks used for fencing, thatch, and bioenergy. Broomcorn types for broom manufacturing. Industrial applications including biodegradable packaging.
 - **Pearl millet:** Primarily a food grain in Africa and South Asia. Stover is valuable dry-season fodder — pearl millet straw retains higher protein and digestibility than sorghum straw. Limited industrial uses.
 - **Finger millet:** Primarily food (ragi mudde, porridge, malted weaning foods, fermented beverages). Finger millet straw is lower quality fodder but used as mulch. Recently gaining attention as a "superfood" in health food markets.
 
@@ -130,14 +130,14 @@ All three are gluten free, making them important for people with celiac disease.
 
 ### Consider Growing Both
 
-Many traditional farming systems intercrop sorghum and pearl millet, exploiting their complementary root depths and growth durations. In India's semi-arid Deccan Plateau, sorghum (deeper rooted, longer season) is intercropped with pearl millet (shallower rooted, quicker) on the same field, reducing risk and maximizing land-use efficiency. See [[companion planting]] and [[cannabis-strain-guide-reference]] for design principles.
+Many traditional farming systems intercrop sorghum and pearl millet, exploiting their complementary root depths and growth durations. In India's semi-arid Deccan Plateau, sorghum (deeper rooted, longer season) is intercropped with pearl millet (shallower rooted, quicker) on the same field, reducing risk and maximizing land-use efficiency. See [[companion-planting]] and [[cannabis-strain-guide-reference]] for design principles.
 
 ## Integration with Regenerative Systems
 
-Both crops fit well into [[regenerative agriculture]] frameworks:
+Both crops fit well into [[regenerative-agriculture]] frameworks:
 
-- As warm-season C4 cereals in rotation with cool-season C3 crops and [[cover crops]]
-- As [[carbon farming]] tools — sorghum's deep roots sequester carbon at depth; pearl millet's rapid biomass turnover feeds soil biology
+- As warm-season C4 cereals in rotation with cool-season C3 crops and [[cover-crops]]
+- As [[carbon-farming]] tools — sorghum's deep roots sequester carbon at depth; pearl millet's rapid biomass turnover feeds soil biology
 - In [[agroforestry]] systems as understory crops in young tree plantings
 - As nurse crops for establishing perennial pastures
 - Both contribute to soil organic matter when residues are returned, though sorghum's higher lignin content means slower decomposition compared to pearl millet residues

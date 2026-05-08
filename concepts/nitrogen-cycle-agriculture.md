@@ -124,7 +124,7 @@ The Haber-Bosch process consumes ~9–12 GJ per tonne NH₃ (modern plants ~8 GJ
 
 - [[biological-nitrogen-fixation-agriculture]]
 
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[legume-nitrogen-fixation-mechanism]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]
 - [[jadam-natural-nitrogen-fertilizer]]

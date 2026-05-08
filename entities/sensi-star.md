@@ -119,7 +119,7 @@ These crosses aim to retain the resin production and potency while modifying the
 
 ## See Also
 
-- [[white-widow]]
+- [[white-widow-entity]]
 - [[northern-lights]]
 - [[big-bud]]
 - [[critical-mass]]

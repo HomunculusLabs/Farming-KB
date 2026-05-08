@@ -112,7 +112,7 @@ Non-psychedelic lysergamide derivatives continue to serve important medical func
 - [[agroclavine]]
 - [[chanoclavine]]
 - [[claviceps-purpurea]]
-- [[ergine]]
+- [[ergine-entity]]
 - [[ergocristine]]
 - [[ergocornine]]
 - [[ergocryptine]]

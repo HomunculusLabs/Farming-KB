@@ -51,7 +51,7 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > the past, the unbridled passion to vanquish everything. I could see
 > how such misguided power could lead nations to war. Wanting still
 > more power, I was about to find out if God would grant me the power to
-> destroy [[hallucinogenic-plants-of-the-world]] if I wished it, when I felt a gentle kiss on my
+> destroy [[entheogenic-plants-and-psychoactive-flora]] if I wished it, when I felt a gentle kiss on my
 > brow. My wife had leaned over just [[permaculture-cycles-and-niches-in-time]] to save the world.
 >
 > (with 275 mg) Never had I had such a magnificent appreciation of God.

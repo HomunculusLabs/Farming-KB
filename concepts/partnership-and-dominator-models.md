@@ -140,12 +140,11 @@ The ultimate consequence of this drift is the fatal ennui that now permeates Wes
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocybin-mushroom]]
 - [[shamanism]]
 
-- [[stoned ape hypothesis]]
-- [[shamanism as archaic technique of ecstasy]]
-- [[tassili-n-ajjer and the Saharan Eden]]
+- [[stoned-ape-hypothesis]]
+- [[shamanism-as-archaic-technique-of-ecstasy]]
+- [[tassili-n-ajjer-and-the-saharan-eden]]
 - Archaic Revival
-- Transcendent Other

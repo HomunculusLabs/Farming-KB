@@ -27,7 +27,7 @@ The largest genus of neurotropic fungi, containing 116 species worldwide.
 
 Mexico alone has 44 Psilocybe species (39% of the world total), making it the center of Psilocybe diversity.
 
-Key species include [[psilocybe-cubensis-profile]], [[psilocybe-semilanceata-profile]], [[psilocybe-cyanescens-profile]], [[psilocybe-mexicana-profile]], [[psilocybe-azurescens-profile]], [[psilocybe-subaeruginosa-australia]], and [[global-psychedelic-mushroom-species-diversity]].
+Key species include [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-azurescens-profile]], [[psilocybe-subaeruginosa-australia]], and [[global-psychedelic-mushroom-species-diversity]].
 
 The genus is divided into several sections based on morphology and spore characteristics, including Section Mexicanae, Section Zapotecorum, Section Aztecorum, and others.
 

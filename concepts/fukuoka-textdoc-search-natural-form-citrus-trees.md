@@ -124,5 +124,5 @@ Even when performing surgery on a tree in a mechanized orchard, it makes more se
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
-- [[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
+- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]

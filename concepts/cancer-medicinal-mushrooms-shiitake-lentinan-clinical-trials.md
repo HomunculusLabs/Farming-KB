@@ -115,7 +115,7 @@ treatments. University of Strathclyde.
 - [[water-activity-osmophilic-fungal-media-preparation]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 
 ## See Also
 

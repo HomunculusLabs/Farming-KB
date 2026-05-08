@@ -18,7 +18,7 @@ sources:
 
 2C-I is a synthetic psychedelic phenethylamine and a member of the 2C family first synthesized and bioassayed by
 [[alexander-shulgin]]. In *PiHKAL*, Shulgin rated 2C-I as one of the most visually impressive and long-lasting members
-of the series, noting its exceptional potency relative to [[mescaline]] and its distinctly colorful visual effects. It
+of the series, noting its exceptional potency relative to [[mescaline-entity]] and its distinctly colorful visual effects. It
 is one of the most widely encountered 2C compounds in both research and recreational contexts.
 
 ## Chemical Properties

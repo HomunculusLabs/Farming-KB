@@ -39,7 +39,7 @@ The Earth's atmosphere consists of 78 percent nitrogen. However, atmospheric nit
 
 Up to 50 percent of the nitrogen in a garden can come from [[nitrogen-fixing-trees]] (diazotrophs). The most familiar are [[rhizobia-legume-nodule-formation]], soil bacteria forming symbiotic relationships with legumes. Rhizobia provide the enzymes to break triple-bonded nitrogen; the plant provides housing (root nodules) and carbon-based root-exudates|exudates. A specific match is required between Rhizobia species and plant species.
 
-Frankia (actinomycetes) associate with actinorhizal plants including alders, bayberry, dryas, and sea buckthorn. These are pioneer plants that bring plant-available nitrogen into poor soils. See also [[nitrogen-cycle-in-soil]].
+Frankia (actinomycetes) associate with actinorhizal plants including alders, bayberry, dryas, and sea buckthorn. These are pioneer plants that bring plant-available nitrogen into poor soils. See also [[composting-and-soil-biology]].
 
 ## The Nitrogen Cycle
 
@@ -82,7 +82,7 @@ Aside from biologically fixed nitrogen, there are relatively few natural sources
 
 ## Rhizobia Detail
 
-There must be a specific match between Rhizobia species and plant species — commercial mixtures must be chosen carefully. The amount of oxygen has to be limited for the nitrogenase enzyme to work, and root nodules provide such an environment. There is enough nitrogen for the legume and the bacteria to share. Up to 20 percent excess nitrogen is produced as well, and it moves into the soil and [[nutrient-retention-soil-food-web]], where much of it is brought to plants by mycorrhizal fungi. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
+There must be a specific match between Rhizobia species and plant species — commercial mixtures must be chosen carefully. The amount of oxygen has to be limited for the nitrogenase enzyme to work, and root nodules provide such an environment. There is enough nitrogen for the legume and the bacteria to share. Up to 20 percent excess nitrogen is produced as well, and it moves into the soil and [[composting-and-soil-biology]], where much of it is brought to plants by mycorrhizal fungi. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 4
 

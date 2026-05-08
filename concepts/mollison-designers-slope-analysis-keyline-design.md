@@ -148,4 +148,3 @@ keyline patterns for soil infiltration, contour dam construction at optimal
 positions, and road alignment along keyline contours to serve as water-
 harvesting features. Slope analysis integrates with [[mollison-designers-sector-analysis-wind-sun-fire]] for a complete site understanding. Limitations include steep
 slopes (above 15%) requiring modified patterns, very flat land (below 2%)
-lacking gradient, and the need for climate-appropriate adaptation. Deep,

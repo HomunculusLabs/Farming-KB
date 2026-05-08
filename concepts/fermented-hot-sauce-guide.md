@@ -121,5 +121,5 @@ Fermented hot sauce is a high-margin homestead-crafts product and pairs well wit
 ## Related
 
 - [[food-fermentation-guide]]
-- [[pickle-making]]
+- pickle making
 - [[pepper-growing-guide]]

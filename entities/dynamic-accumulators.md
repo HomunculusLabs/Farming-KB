@@ -136,20 +136,6 @@ minerals from construction-exposed subsoil. Chicory and dandelion are effective 
 - **Dandelion** (*T. officinale*): Silicon up to 2.5% dry weight. Root exudates mobilize
   phosphorus from soil mineral complexes.
 - **Yarrow** (*A. millefolium*): Copper accumulator (up to 35 mg/kg). Deep fibrous roots
-  improve soil structure while cycling K and P.
-- **Borage** (*B. officinalis*): Rapid biomass producer, calcium-rich leaves, excellent
-  pollinator attractant integrating nutrient cycling with insectary function.
-- **White Clover** (*T. repens*): N-fixation 50–200 kg N/ha/yr. Dense stolon growth
-  improves soil structure as living mulch.
-- **Chicory** (*Cichorium intybus*): Deep taproot (1.5 m+) mines Ca and K. Drought-tolerant
-  forage and chop-and-drop species.
-- **Lupine** (*Lupinus spp.*): Dual N-fixer and P-accumulator. Acid exudates solubilize
-  bound phosphorus in alkaline soils.
-- **Plantain** (*Plantago major*): Accumulates Ca, Mg, sulphur. Wide soil tolerance makes
-  it a useful pioneer on disturbed sites.
-- **Vetch** (*Vicia spp.*): Vigorous N-fixing vine used as cover crop, living mulch, and
-  accumulator in rotational polycultures.
-
 ## See Also
 
 - [[equisetum-arvense]]

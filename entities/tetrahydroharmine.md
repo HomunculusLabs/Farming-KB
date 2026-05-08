@@ -115,7 +115,7 @@ The structural reduction of the pyridine ring is the key distinction between THH
 - [[dmt]]
 - [[5-meo-dmt]]
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[tryptamine]]
 - [[beta-carboline]]
 - [[serotonin]]

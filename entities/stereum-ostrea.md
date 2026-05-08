@@ -116,6 +116,6 @@ Dye extraction from S. ostrea fruiting bodies yields tan-to-brown colorants, sim
 - [[trametes-hirsuta]]
 - [[coriolopsis-gallica]]
 - [[ganoderma-applanatum]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[fomes-fomentarius]]
 - [[trametes-trogii]]

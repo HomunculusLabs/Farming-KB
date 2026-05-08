@@ -137,22 +137,9 @@ Not recommended for patients prone to THC-induced anxiety or paranoia.
 
 ## Side Effects
 
-- **Common:** Dry mouth, dry eyes, mild anxiety at high doses
-- **Uncommon:** Dizziness, paranoia, couch-lock
-- **Contraindications:** Avoid in patients with history of
-  cannabis-induced psychosis or severe anxiety disorders
-
-## Notable Phenotypes
-
-Several distinct phenotypes circulate among cultivators: a
-purple-dominant "Black Cherry" pheno with heavier indica effects, a
-citrus-dominant "Tropicana" pheno with more sativa expression, and a
-rare "Frost" pheno with exceptional trichome production and balanced
-effects.
-
 ## See Also
 
-- [[super-boof]]
+- super boof cannabis strain
 
 - [[cannabis-strain-selection-guide]]
 - [[cannabis-hindu-kush-strain-description-clarke]]

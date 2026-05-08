@@ -147,5 +147,3 @@ Water-based predators:
 - Snapping turtles: can take ducklings from below; provide an island refuge where ducklings can rest out of the water
 
 Land-based predators:
-
-- Foxes and coyotes: dig under fencing; bury wire mesh 12 inches into the ground along fence lines

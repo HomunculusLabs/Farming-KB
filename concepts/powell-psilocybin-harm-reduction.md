@@ -68,7 +68,7 @@ The risk factors Powell identifies through this and other examples include:
 
 - Unresolved psychological conflicts and trauma (Koestler's POW memories)
 - Religious guilt or moral anxiety (Koestler's Catholic guilt)
-- Rigid personality structures resistant [[permaculture-principle-creatively-use-and-respond-to-change]]
+- Rigid personality structures resistant [[permaculture-design-principles]]
 - Expectation of entertainment rather than genuine engagement
 - Deep psychological wounds that have not been adequately addressed
 - Lack [[fukuoka-ignorant-agriculture-pit-of-knowledge]] about the substance's effects

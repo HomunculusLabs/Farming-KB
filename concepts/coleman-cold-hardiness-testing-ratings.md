@@ -148,4 +148,3 @@ temperature stress. Plants that are cold-hardy may still fail if
 other stressors are severe. Coleman's integrated approach — combining
 proper [[coleman-soil-preparation-for-winter]], adequate protection
 from [[coleman-row-cover-fabric-management]], and well-timed planting
-from [[coleman-winter-harvest-planting-schedule]] — addresses the

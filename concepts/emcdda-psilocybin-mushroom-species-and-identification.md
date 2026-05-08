@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin]] Mushroom Species and Identification
+# [[psilocybin-compound]] Mushroom Species and Identification
 
 ## Overview
 
@@ -50,7 +50,7 @@ The most common species used recreationally include:
   European hallucinogenic mushroom
 - ***[[psilocybe-cyanescens]]*** (wavy caps): found both in Europe and
   elsewhere
-- ***Psilocybe mexicana*** and ***[[psilocybe-tampanensis]]***: these form
+- ***Psilocybe mexicana*** and ***[[psilocybe-tampanensis-entity]]***: these form
   sclerotia and are known as "truffles" or "philosopher's stone"
 
 Sclerotia are hardened masses of mycelium which are more resistant to

@@ -10,7 +10,7 @@ sources:
 
 # Psychedelic Therapeutic Frameworks
 
-Powell's The [[psilocybin]] Solution develops a comprehensive framework for understanding how psychedelic substances, particularly psilocybin, function as therapeutic agents. Drawing on indigenous shamanic traditions, early Western psychiatric research, and modern neuroscience, Powell argues that psychedelics represent a fundamentally different therapeutic paradigm from conventional pharmacology.
+Powell's The [[psilocybin-compound]] Solution develops a comprehensive framework for understanding how psychedelic substances, particularly psilocybin, function as therapeutic agents. Drawing on indigenous shamanic traditions, early Western psychiatric research, and modern neuroscience, Powell argues that psychedelics represent a fundamentally different therapeutic paradigm from conventional pharmacology.
 
 ## Gaian Psychotherapy
 

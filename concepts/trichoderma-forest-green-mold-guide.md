@@ -81,7 +81,7 @@ In commercial mushroom farms, Trichoderma outbreaks are most common during warm,
 ## Related
 
 - [[mushroom-contamination-control-strategies]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]
 - [[bulk-substrate-preparation]]
 - trichoderma forest green mold guide
 - [[bulk-substrate-preparation]]

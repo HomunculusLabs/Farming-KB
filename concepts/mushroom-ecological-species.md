@@ -129,7 +129,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 - [[mushroom-cultivation-basics]] for the 10-step process
 - [[mushroom-substrates]] for substrate science
 - [[mushroom-substrate-comparison]] for substrate comparison tables
-- [[mushroom-compost-substrates]] for compost formulas
+- [[mushroom-cultivation-fundamentals]] for compost formulas
 - [[mushroom-log-cultivation]] for log methods
 - [[straw-cultivation-methods]] for straw preparation
 - [[mycoremediation-basics]] for remediation applications

@@ -129,12 +129,12 @@ Stuart notes that while many shamans could potentially be far more enlightening 
 
 - [[dimethyltryptamine]]
 
-- [[monoamine oxidase inhibitors]]
+- [[monoamine-oxidase-inhibitors]]
 
 - icaros
 
-- [[ethnobotanical tourism]]
+- [[ethnobotanical-tourism]]
 
-- [[harm reduction]]
+- [[harm-reduction]]
 
 - Santo Daime

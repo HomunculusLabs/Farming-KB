@@ -109,7 +109,7 @@ compound is also a mild stimulant causing insomnia, restlessness and
 photophobia. Substitutions on the benzene ring of this system have
 not been too promising. The DOM analogue,
 2,5-dimethoxy-4-methyltranylcypromine is active in man, and is
-discussed in its own recipe under DMCPA. The inactive [[mescaline]]
+discussed in its own recipe under DMCPA. The inactive [[mescaline-entity]]
 analogue TMT is also mentioned there.
 The dropping of one carbon from the phenethylamine chain gives a
 benzyl amine, basically an inactive nucleus. Two families deserve

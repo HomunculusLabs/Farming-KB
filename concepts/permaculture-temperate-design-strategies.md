@@ -80,7 +80,7 @@ Best defenses: preservation of high-slope forests, placement of essential servic
 
 ## Related Concepts
 
-- [[permaculture-climate-classification]] -- Understanding temperate climate zones
+- [[permaculture-design]] -- Understanding temperate climate zones
 - [[permaculture-livestock-forage-systems]] -- Forage strategies for temperate livestock
 - [[permaculture-design-process]] -- Energy-efficient housing for cold climates
 - [[permaculture-livestock-forage-systems]] -- Rotational grazing in temperate grasslands

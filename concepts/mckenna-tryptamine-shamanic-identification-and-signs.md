@@ -142,36 +142,8 @@ with this compound," as McKenna put it. By contrast, a hallucinogen like LSD is
 retained in the body for some time, suggesting a less intimate relationship with
 human neurochemistry.
 
-## The Endogenous Nature of Psychedelic Experience
-
-The fact that DMT is present naturally in the human brain raises profound questions
-about the relationship between ordinary consciousness and the extraordinary states
-induced by tryptamines. McKenna suggested that these states are not artificial
-impositions on the brain but rather the activation of latent capacities that are
-already present in human neurochemistry. The tryptamine experience, in this view,
-does not introduce something alien to the brain but rather amplifies and reveals
-something that is already there, something that has been part of the human
-endowment since before the emergence of language and culture.
-
-## The Shaman as Cultural Bridge
-
-The shaman occupies a unique position in their society, serving as a bridge between
-the ordinary world of daily life and the non-ordinary world of spirits, visions, and
-hidden knowledge. This bridging function gives the shaman both authority and a degree
-of social marginality. They are essential to the community's well-being but are also
-set apart by their access to realities that others cannot directly perceive.
-
-McKenna argued that the absence of a living shamanic tradition in modern Western
-culture represents a profound impoverishment. Without the techniques, the trained
-guides, and the cultural frameworks that shamanism provides, Westerners who
-encounter extraordinary states of consciousness lack the tools to navigate these
-experiences safely and productively. The tragedy, as McKenna described it, is that
-"we have no shamanic tradition," and the suppression of the natural human capacity
-for ecstatic experience has left the culture alienated from dimensions of
-consciousness that other societies have explored for millennia.
-
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[ralph-metzner]]
 - [[serotonin]]

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Choosing [[garden-tools-selection]]
+# Choosing [[organic-vegetable-growing-and-market-gardening]]
 
 If you are new to gardening, you might easily spend hundreds of dollars
 on a complete set of tools, or by choosing the bare essentials, buy

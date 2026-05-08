@@ -135,7 +135,7 @@ for cellulosic ethanol production.
 ## See Also
 
 - [[phragmites-australis]]
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - [[salicornia-europaea]]
 - [[arundo-donax]]
 - [[miscanthus-giganteus]]

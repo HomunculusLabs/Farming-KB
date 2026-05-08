@@ -68,7 +68,7 @@ of apparently harmless ash.
 
 This experience illustrated his broader principle: "Applying an insecticide is not simply a
 matter of eliminating the leafhoppers together with their natural predators. Many other
-essential dramas of nature are affected." Even organic inputs can disrupt the [[soil- microorganisms-natural-fertility|soil microbiome]] and the insect community in ways that are not
+essential dramas of nature are affected." Even organic inputs can disrupt the [[soil-microorganisms-natural-fertility|soil microbiome]] and the insect community in ways that are not
 immediately visible.
 
 ## The Fusol Disaster in Orchards
@@ -123,7 +123,7 @@ out soil improvement in the deep soil strata.
 
 ## The Green Revolution Contradiction
 
-Fukuoka's observations directly contradict the assumptions of the [[conventional-vs-organic-vs- regenerative|Green Revolution]]. The "Good Rice Movement" depended on weak, improved seed
+Fukuoka's observations directly contradict the assumptions of the [[conventional-vs-organic-vs-regenerative|Green Revolution]]. The "Good Rice Movement" depended on weak, improved seed
 varieties that required chemicals and insecticides eight to ten times per growing season. In a
 short time the soil was burned clean of microorganisms and organic matter. Crops came to be
 dependent on nutrients added from the outside in the form of chemical fertilizer.
@@ -141,6 +141,6 @@ The spider swarm exemplifies [[masanobu-fukuoka]]'s core insight: nature maintai
 balance when left undisturbed. The problem is not that insects exist but that human disturbance
 creates conditions where they become unbalanced. The solution is not to kill specific pests but
 to restore the conditions in which natural predators thrive. This principle extends beyond rice
-fields to [[fukuoka-textdoc-attaining-natural-form-fruit-trees|orchard management]], [[fukuoka- vegetable-disease-insect-resistance|vegetable growing]], and all forms of agriculture.
+fields to [[fukuoka-textdoc-attaining-natural-form-fruit-trees|orchard management]], [[fukuoka-vegetable-disease-insect-resistance|vegetable growing]], and all forms of agriculture.
 
 See also: [[fukuoka-vegetable-disease-insect-resistance]], [[fukuoka-five-principles-natural-farming]], [[fukuoka-critique-soil-cultivation]], [[fukuoka-dry-field-rice-compact-plant-theory]]

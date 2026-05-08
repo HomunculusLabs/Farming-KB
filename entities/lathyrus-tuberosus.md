@@ -101,56 +101,6 @@ Lathyrus tuberosus occupies a uniquely valuable niche in permaculture and regene
 
 **Drought Tolerance:** Once established, the deep root system and tuber reserves confer excellent drought tolerance, allowing the plant to persist and produce in marginal, water-limited environments.
 
-**Cold Hardiness:** The plant is remarkably cold-hardy, tolerating temperatures to at least -15°C (5°F) and surviving winters across much of temperate Europe and North America without protection.
-
-**Food Forest Integration:** The earthnut pea is an excellent candidate for food forest and forest garden systems, occupying the herbaceous layer beneath trees and shrubs. It can climb into lower branches for support and integrates well with fruit trees, berry bushes, and other perennial crops.
-
-**Intercropping Potential:** Historical and experimental evidence supports intercropping earthnut pea with cereal grains such as wheat, rye, and oats. The legume provides nitrogen to the cereal crop while the cereal provides structural support for climbing, potentially increasing overall system productivity and resilience.
-
-**Low Maintenance Requirements:** Once established, the plant requires minimal care: no irrigation under typical temperate conditions, no fertilization beyond its own nitrogen fixation, and limited pest or disease pressure. These characteristics make it an ideal species for low-input, hands-off growing approaches favored by permaculture practitioners and busy home gardeners alike. The plant's self-seeding tendency in some conditions can even lead to naturalization and expansion of plantings without additional human intervention.
-
-## Cultivation
-
-Successful cultivation of Lathyrus tuberosus requires attention to a few key parameters:
-
-**Planting Time:** Tubers or seeds should be planted in early spring as soon as the ground can be worked, typically from March to April in temperate Northern Hemisphere locations. Pre-soaking seeds in water for 12 to 24 hours before planting can improve germination rates.
-
-**Planting Depth:** Tubers should be planted 5 to 10 centimeters deep, with seeds planted at a slightly shallower depth of 3 to 5 centimeters. Spacing of 20 to 30 centimeters between plants is generally adequate, though wider spacing of 45 to 60 centimeters allows for larger individual tuber development.
-
-**Sunlight:** Full sun to partial shade. The plant performs best with at least 6 hours of direct sunlight but will tolerate moderate shade, making it suitable for the edges of food forests and hedgerows.
-
-**Soil Requirements:** Well-drained sandy or loamy soils are preferred. The plant tolerates poor, nutrient-deficient soils and slightly alkaline conditions but performs poorly in waterlogged or heavy clay soils. Excessive nitrogen fertilization should be avoided as it inhibits nodulation and nitrogen fixation. A soil pH range of 6.0 to 7.5 is considered optimal, though the plant can persist in more acidic or alkaline conditions.
-
-**Water Requirements:** Once established, the earthnut pea is notably drought-tolerant and typically requires no supplemental irrigation in temperate climates receiving at least 400 to 500 millimeters of annual rainfall. During the establishment year, moderate watering may be beneficial, but waterlogged conditions should be strictly avoided as they promote root rot and reduce nodulation efficiency.
-
-**Support:** Providing trellising or allowing the plant to scramble through neighboring vegetation improves yield and simplifies harvest. In polyculture systems, companion plants can serve as living supports.
-
-**Harvest:** Tubers are typically harvested in autumn, after the above-ground foliage has died back following the first frosts. This timing ensures maximum starch accumulation in the tubers. Tubers can also be harvested selectively as needed, leaving some in the ground for regrowth the following season. In mild climates, tubers can be harvested throughout winter.
-
-**Storage:** Freshly harvested tubers can be stored in cool, humid conditions (2 to 5°C, 85 to 95 percent relative humidity) for 2 to 4 months, similar to potato storage requirements. Tubers can also be dried, frozen, or processed into flour for longer-term preservation. Traditional drying methods involve slicing and sun-drying, after which the dried tuber pieces can be ground into a nutritious, protein-rich flour suitable for breads, porridges, and thickening agents.
-
-**Tuber Preparation:** Before cooking, earthnut pea tubers should be washed thoroughly to remove soil adhering to the wrinkled skin. While the skin is edible and contains additional fiber and nutrients, some cooks prefer to peel larger tubers. Smaller tubers can be cooked whole, while larger ones may be halved or quartered. Boiling for 15 to 25 minutes until tender is the simplest preparation method, after which tubers can be mashed, added to soups, or dressed with butter and herbs. Roasting at 200°C for 30 to 40 minutes with olive oil and seasonings produces a caramelized exterior and fluffy interior that highlights the tubers' natural sweetness.
-
-**Propagation:** Primarily by division of tubers, which is reliable and produces plants true to type. Seed propagation is possible but germination can be erratic, and hard seed coats may require scarification. Vegetative propagation from stem cuttings has been reported but is less commonly practiced.
-**Yield Expectations:** Under typical conditions, earthnut pea yields are modest compared to conventional tuber crops, generally ranging from 200 to 800 grams per plant depending on soil quality, moisture availability, and growing season length. In experimental trials with improved selection, yields exceeding 1 kilogram per plant have been recorded. These yields are competitive when considered alongside the zero-input, perennial nature of the crop and the additional benefits of nitrogen fixation and forage production.
-**Companion Planting:** The earthnut pea pairs well with a range of companion species. In food forest systems, it performs well beneath fruit and nut trees. In annual intercropping systems, it complements shallow-rooted crops such as lettuce, radishes, and alliums by exploiting a different soil horizon. It also provides beneficial climbing support for other legumes and can serve as a nurse crop for establishing perennial plantings.
-
-**Garden Design Considerations:** In ornamental food gardens, the attractive rose-red flowers provide aesthetic value alongside practical productivity. The plant can be trained onto trellises, fences, or obelisks as an edible alternative to ornamental climbers. Its long flowering period and ability to attract pollinators make it a functional addition to wildlife gardens and pollinator meadows. When combined with other edible climbers such as runner beans (*Phaseolus coccineus*) or passionfruit, the earthnut pea creates productive vertical garden systems that maximize food production per unit area.
-
-## Pests and Diseases
-
-Lathyrus tuberosus is generally regarded as a pest-resistant and disease-tolerant species, one of its advantages for low-input cultivation:
-
-**Insect Pests:** The primary insect pest of concern is the pea moth (*Cydia nigricana*), whose larvae feed on developing seeds within pods. Since the economically important product is the tuber rather than the seed, pea moth damage is primarily a concern for seed-saving operations rather than tuber production. Aphids may occasionally colonize growing tips, and slugs can damage young shoots in damp conditions. However, pest pressure is generally light compared to other legume crops such as garden peas and beans, and significant yield losses from insects are rare.
-
-**Fungal Diseases:** Powdery mildew (*Erysiphe pisi* and related species) is the most commonly observed foliar disease, typically appearing in late summer during warm, humid conditions. While it can reduce photosynthetic capacity, it rarely causes serious harm to tuber production. Root rot can occur in poorly drained soils but is easily prevented through proper site selection. Downy mildew has also been occasionally reported but is not considered a significant threat to plant health or productivity.
-
-**Viral Diseases:** Several viruses affecting Lathyrus species, including pea enation mosaic virus and bean yellow mosaic virus, have been reported but are not typically problematic in wild or semi-wild cultivation settings. Virus transmission is primarily through aphid vectors, so maintaining healthy populations of natural aphid predators can provide indirect protection against viral infection in cultivated plantings.
-
-**Mammalian Pests:** Rodents, particularly voles and mice, may consume tubers, especially during winter when other food sources are scarce. This is the most significant practical pest concern for tuber production.
-**Nematode Interactions:** Root-knot nematodes (*Meloidogyne* spp.) have been reported in association with Lathyrus tuberosus roots, though the plant appears to exhibit moderate resistance compared to many conventional crop species. Crop rotation and the maintenance of diverse soil microbiota can further reduce nematode pressure in cultivated settings.
-**Integrated Pest Management:** Given the generally low pest and disease pressure on earthnut pea, chemical interventions are rarely necessary and are not recommended in permaculture or organic systems. Cultural practices such as adequate spacing for air circulation, removal of infected foliage, and encouragement of predatory insects provide sufficient protection in most growing conditions.
-
 ## Related
 
 - [[helianthus-tuberosus]]

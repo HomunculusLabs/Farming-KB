@@ -51,7 +51,7 @@ coir depends on sourcing, as some production involves chemical processing and
 long-distance shipping from tropical regions.
 
 ## Peat-Free Gardening
-[[peat-free-gardening]]
+peat free gardening
 
 Peat-free gardening encompasses all approaches to growing that avoid peat moss,
 a traditional horticultural substrate harvested from peat bogs. Peat extraction

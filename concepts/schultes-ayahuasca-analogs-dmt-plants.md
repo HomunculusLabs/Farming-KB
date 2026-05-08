@@ -137,6 +137,6 @@ by centuries or millennia.
 [[beta-carboline-alkaloids]] covers the MAO-inhibiting compounds essential to the brew.
 [[tryptamine-family-overview]] describes the class of compounds that includes DMT.
 
-- [[schultes-ayahuasca-analogs-dmt-plants]]
+- schultes ayahuasca analogs dmt plants
 
 - [[schultes-ayahuasca-preparations]]

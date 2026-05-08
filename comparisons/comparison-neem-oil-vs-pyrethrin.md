@@ -9,7 +9,7 @@ sources:
   - "US EPA — Neem oil and pyrethrin registration fact sheets"
   - "Isman MB (2006) — Botanical insecticides, deterrents, and repellents in modern agriculture"
   - "ATTRA (NCAT) — Biorational and Reduced-Risk Pesticides"
-  - "CABI — Azadirachta indica and Chrysanthemum cinerariifolium compendium entries"
+  - "CABI — [[azadirachta-indica]] and Chrysanthemum cinerariifolium compendium entries"
 type: comparison
 ---
 
@@ -54,7 +54,7 @@ Neem oil (specifically azadirachtin) interferes with insect development and beha
 3. **Oviposition deterrent**: Reduces egg-laying on treated surfaces
 4. **Repellent**: Masks host plant cues, deterring insect landing and colonization
 5. **Sterilant**: Reduces fertility in adults that consume treated plant material
-6. **Fungicidal**: The oil component smothers fungal spores and mycelium; azadirachtin has some direct antifungal properties
+6. **Fungicidal**: The oil component smothers [[fungal-spores]] and [[mycelium]]; azadirachtin has some direct antifungal properties
 
 Because neem acts on so many physiological targets simultaneously, resistance development is extremely rare — a major advantage over single-mode insecticides.
 
@@ -147,6 +147,3 @@ For most organic growers managing an integrated system, **neem oil should be the
 
 - [[comparison-perlite-vs-vermiculite]]
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
-
-- [[azadirachta-indica]]
-- [[fungal-spores]]

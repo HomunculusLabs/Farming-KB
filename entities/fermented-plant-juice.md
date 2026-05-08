@@ -83,7 +83,7 @@ FPJ functions as both a direct plant nutrient and a microbial food source within
 * **Synergy with IMO:** FPJ provides simple sugars and amino acids that feed Indigenous Microorganism communities, sustaining their populations in soil and on plant surfaces
 * **Growth stage matching:** Different FPJ types are applied at different growth stages to match plant nutritional needs — nitrogen-rich FPJ during vegetative growth, soil food webh FPJ during flowering and fruiting
 * **Stress management:** Seaweed and herbal FPJs are applied during environmental stress (drought, temperature extremes, pest pressure) to support plant resilience
-* **[[compost-chemistry-soil-food-web]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
+* **[[composting-and-soil-biology]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
 
 ## Troubleshooting
 

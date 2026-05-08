@@ -101,7 +101,7 @@ Cross-tolerance between allylescaline and other serotonergic psychedelics (LSD, 
 
 ## See Also
 
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[2c-b]]
 - [[2c-e]]
 - [[2c-i]]
@@ -109,8 +109,8 @@ Cross-tolerance between allylescaline and other serotonergic psychedelics (LSD, 
 - [[psilocin]]
 - [[5-meo-dmt]]
 - [[bufotenin]]
-- [[muscimol]]
-- [[ergine]]
+- [[muscimol-entity]]
+- [[ergine-entity]]
 - [[amanita-muscaria]]
 - [[4-aco-dmt]]
 - [[4-ho-met]]

@@ -148,4 +148,3 @@ practical difficulties, unpleasant facts, and dangers."
 
 - [[lsd-discovery-and-history]]
 - [[hofmann-lsd-sandoz-research-program]]
-- [[hofmann-lsd-consciousness-and-philosophy]]

@@ -19,20 +19,19 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
   - Mudge, E.M. et al. (2019). "Cannabis Chemovar Taxonomy." Scientific Reports, 9, 17925.
 ---
-
 ## Overview
 
-Tangie is a sativa-dominant cannabis strain renowned for its intensely
+Tangie is a sativa-dominant [[cannabis-strain-guide-reference]] renowned for its intensely
 citrus-forward aroma and flavor, among the most vividly orange-scented
 cultivars available in commercial cannabis markets.
 
 Bred by DNA Genetics in Amsterdam, Tangie was created as a modern
-revival of the classic Tangerine Dream genetics, which had declined in
+revtangerine-dreamssic [[tangerine-dream]] genetics, which had declined in
 quality and availability by the early 2000s.
 
 The strain won first place in the Sativa category at the 2013 High Times
 Amsterdam Cannabis Cup, and subsequently earned multiple additional awards
-at competitions across Europe and North America.
+at competimaitake-growth-parameter-comparison-china-japan-north-america]] Europe and [[palmer-edible-mushrooms-north-america]].
 
 Tangie is distinguished by its remarkably bright tangerine-mandarin aroma
 and its uplifting, cerebrally focused effects that make it a popular
@@ -43,7 +42,7 @@ daytime strain for creative work and social activity.
 Tangie is a cross between **California Orange** (also known as
 Cali-O) and an unnamed Skunk-derived selection.
 
-California Orange is an old-school West Coast sativa-dominant hybrid
+Calmckenna-mdma-and-drug-terror-of-the-1980srange is an old-school West Coast sativa-dominant hybrid
 dating to the 1980s, known for its sweet citrus flavor and moderate
 potency.
 
@@ -55,7 +54,7 @@ The resulting cross is approximately 80% sativa and 20% indica, with
 the sativa dominance expressing in its tall stature, narrow leaflets,
 and cerebral effect profile.
 
-Some breeders have created backcrosses and further crosses using Tangie
+Some breeders have created backcrosses and fchocolopeosses using Tangie
 as a parent, including popular cultivars like Cherry Tangie and
 Tangilope (Tangie × Chocolope).
 
@@ -85,20 +84,20 @@ a citrus-rind astringency on the exhale and a lingering earthy finish.
 
 ### Dominant Terpenes
 
-**Limonene** is the overwhelmingly dominant terpene, present at
-significantly elevated levels compared to most cannabis strains —
+**[[limonene]]** is the overwhelmingly dominant terpene, present at
+significantly elevated levels compared to most [[purple-and-color-changing-cannabis-strains]] —
 responsible for the vivid tangerine aroma and contributing
 mood-elevating, stress-relieving effects.
 
-**Myrcene** is present at moderate levels, providing herbal undertones
+**[[myrcene]]** is present at moderate levels, providing herbal undertones
 and contributing to the strain's mild physical relaxation.
 
-**Pinene** (both alpha and beta) adds pine and fresh-needle notes while
+**[[pinene]]** (both alpha and beta) adds pine and fresh-needle notes while
 potentially counteracting some of limonene's mental stimulation with
 focus-enhancing and bronchodilatory properties.
 
 **Caryophyllene** contributes subtle peppery spice and potential
-anti-inflammatory activity via CB2 receptor binding.
+[[medicinal-mushroom-antioxidant-anti-inflammatory]] activity via CB2 [[beta-glucan-receptor-binding]].
 
 ### Cannabinoid Content
 
@@ -148,11 +147,3 @@ Indoor flowering time is 9–10 weeks, with yields of approximately
 
 The plants can grow tall and benefit from topping, low-stress training,
 or SCROG methods to control height and maximize light exposure.
-
-## See Also
-
-- [[cannabis-terpene-profiles]]
-
-- [[tangerine-dream]]
-
-- [[tangie-cannabis]]

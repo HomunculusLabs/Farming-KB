@@ -148,4 +148,3 @@ psychoactive material comes from the root bark.
 
 - [[plants-of-the-gods-psilocybe-species-teonanacatl]]
 - [[plants-of-the-gods-banisteriopsis-ayahuasca]]
-- [[plants-of-the-gods-lophophora-peyote]]

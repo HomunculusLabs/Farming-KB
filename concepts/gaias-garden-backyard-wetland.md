@@ -67,7 +67,7 @@ A backyard wetland naturally fits into low spots where water collects, or can be
 - **Wildlife habitat**: Frogs, salamanders, dragonflies, waterfowl, wading birds, amphibians, and many other species depend on wetlands for some part of their life cycle. Wetlands are among the most biodiverse habitats on Earth.
 - **Microclimate creation**: Open water moderates nearby temperatures and increases humidity, creating a favorable [[gaias-garden-net-and-pan-water-harvesting]] for adjacent plantings.
 - **Nutrient cycling**: Wetland plants accumulate nutrients from water and soil. When harvested for [[gaias-garden-compost-worm-methods]] or mulch, these nutrients are redistributed to garden beds.
-- **[[gaias-garden-edge-effect]]**: The transition from open water to emergent vegetation to moist soil to dry land creates especially productive growing zones where multiple habitat types meet.
+- **gaias garden edge effect**: The transition from open water to emergent vegetation to moist soil to dry land creates especially productive growing zones where multiple habitat types meet.
 
 ## Greywater Wetlands
 
@@ -107,6 +107,6 @@ Not every yard has space for a full wetland. Smaller alternatives provide many o
 - [[gaias-garden-net-and-pan-water-harvesting]] for catchment techniques
 - [[gaias-garden-cover-crops-soil-building]] for the fertility that wetlands create and distribute
 - [[gaias-garden-beneficial-birds-wildlife]] for the species wetlands attract
-- [[gaias-garden-edge-effect]] for the productive transition zones around wetlands
+- gaias garden edge effect for the productive transition zones around wetlands
 - [[gaias-garden-succession-planting]] for how wetlands develop and mature over time
 - [[gaias-garden-stacking-functions-detailed]] for the multiple benefits wetlands provide

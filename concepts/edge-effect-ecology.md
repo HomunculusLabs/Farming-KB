@@ -148,4 +148,3 @@ providing refuge for species that cannot tolerate edge conditions.
 - Pattern Understanding In Design
 - [[zone-and-sector-analysis]]
 - [[guild-planting-systems]]
-- [[urban-permaculture-edge-effect-microclimate]]

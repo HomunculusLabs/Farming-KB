@@ -21,7 +21,7 @@ persisted in the late 1800s from New Zealand to China and Hong Kong.
 Although not remarkably flavorful, these mushrooms rehydrate readily
 from a dried state, embellishing soups and sauces with a unique and
 pleasing texture. They are a centerpiece of Asian cooking and highly
-valued. Cultivation methods parallel those of [[growing-gourmet-shiitake-cultivation]] on logs or on sterilized sawdust.
+valued. Cultivation methods parallel those of [[shiitake-mushroom-cultivation-and-medicinal-properties]] on logs or on sterilized sawdust.
 
 ## Historical Significance
 

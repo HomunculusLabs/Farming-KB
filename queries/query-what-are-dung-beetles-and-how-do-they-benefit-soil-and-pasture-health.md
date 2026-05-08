@@ -1,5 +1,5 @@
 ---
-title: What Are Dung Beetles and How Do They Benefit Soil and Pasture Health?
+title: What Are Dung Beetles and How Do They Benefit Soil [[permaculture-grazing-and-pasture]] Health?
 tags: [biology, entomology, soil-ecology, dung-beetles, scarabaeidae, pasture-management, nutrient-cycling, livestock, biocontrol, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,7 +23,7 @@ Dung beetles are a cosmopolitan group of beetles whose larvae and adults feed pr
 - **Aphodiinae** (aphodiine dung beetles) — also within Scarabaeidae; many species are small and dwell within dung pats
 - **Geotrupidae** (earth-boring dung beetles) — a separate family; often larger, associated with mammal dung and decaying matter
 
-Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are keystone species in grassland and pastoral ecosystems.
+Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are [[keystone-species-and-trophic-cascades]] in grassland and pastoral ecosystems.
 
 ## What are the main functional types of dung beetles?
 
@@ -32,12 +32,12 @@ Dung beetles are classified by how they handle dung into three functional groups
 | Type | Behavior | Example Species | Key Traits |
 |------|----------|----------------|------------|
 | **Tunnelers** (paracoprid) | Bury dung directly beneath or near the pat | *Onthophagus taurus*, *Copris hispanus* | Dig vertical tunnels 10–30 cm deep; most effective at nutrient incorporation |
-| **Dwellers** (endocoprid) | Live and breed within the dung pat itself | *Aphodius fimetarius*, *Euoniticellus fulvus* | Shallow processing; still aid decomposition and aeration |
+| **Dwellers** (endocoprid) | Live and breed within the dung pat itself | *Aphodius fimetarius*, *Euoniticellus fulvus* | Shallow processing; still aid [[decomposition]] [[mollison-designers-fish-pond-water-quality-and-aeration]] |
 | **Rollers** (telecoprid) | Form dung balls and roll them away to bury elsewhere | *Scarabaeus sacer* (sacred scarab), *Sisyphus rubrus* | Often pair-bonded; bury at varying distances; reduce surface dung rapidly |
 
 A healthy pasture benefits from all three types working in complementary niches.
 
-## How does dung burial improve nutrient cycling?
+## How does dung burial improve [[teaming-with-nutrients-composting-and-nutrient-cycling]]?
 
 1. **Rapid incorporation** — Tunnelers can bury up to 80% of a dung pat within 48 hours, moving organic matter from the soil surface into the root zone.
 2. **Nitrogen cycling** — Dung contains ~0.6–1.2% nitrogen. Unburied dung loses up to 80% of its nitrogen via volatilization (ammonia) and leaching. Burial retains 60–90% of nitrogen in plant-available forms (ammonium, nitrate).

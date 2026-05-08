@@ -62,7 +62,7 @@ nutrients faster but are more expensive to produce.
 - **Glacial rock dust (glacial moraine)**: A mixed lithology of rocks ground by glaciers, offering
   an exceptionally broad mineral spectrum. The geological equivalent of "whole-food" mineral
   supplementation. Variable composition depending on the source geology.
-- **Limestone and dolomite**: Primarily calcium carbonate (limestone) or calcium-magnesium carbonate
+- **Limestone and dolomite**: Primarily calcium carbonate (limestone) or [[calcium-magnesium-secondary-nutrients]] carbonate
   (dolomite). Mainly used for pH amendment but also supply calcium and magnesium. Not considered
   "rock dust" in the remineralization sense since their primary function is liming.
 - **Phosphate rock (soft rock phosphate)**: Sedimentary or igneous deposits of apatite. Slow-release
@@ -130,7 +130,7 @@ nutrients in unfertilized ecosystems.
 Abiotic weathering alone is too slow to supply significant nutrients within a growing season.
 Soil organisms dramatically accelerate the process through several mechanisms:
 
-- **Organic acid exudation**: Plant roots and soil microorganisms secrete low-molecular-weight
+- **Organic acid exudation**: Plant roots and [[soil-microorganisms-natural-fertility]] secrete low-molecular-weight
   organic acids (citric, oxalic, malic, acetic) that chelate mineral cations and protonate
   mineral surfaces, accelerating dissolution. Mycorrhizal fungi are particularly effective
   at this — a single ectomycorrhizal root tip can exude enough oxalate to dissolve measurable
@@ -146,7 +146,7 @@ Soil organisms dramatically accelerate the process through several mechanisms:
   and other soil organisms through various transfer mechanisms.
 
 - **Physical disruption**: Mycorrhizal hyphae penetrate rock crevices and mineral grains, exerting
-  physical pressure that creates fresh surfaces for chemical attack. Fungal hyphae can generate
+  physical pressure that creates fresh surfaces for chemical attack. [[fungal-hyphae-invasive-growth-mechanisms]] can generate
   pressures exceeding 10 MPa at their tips — sufficient to widen microfractures in rock.
 
 - **Enzymatic decomposition**: Some soil microorganisms produce enzymes (e.g., lignin peroxidase,
@@ -156,7 +156,7 @@ Soil organisms dramatically accelerate the process through several mechanisms:
 The synergy between rock dust amendments and soil biology is the key insight of the remineralization
 approach: rock dust alone is slow, but rock dust plus active soil biology creates a positive feedback
 loop. More minerals feed more microbes, which weather more minerals faster, which supports more
-plant growth, which feeds more microbes through root exudates.
+[[plant-growth-promoting-rhizobacteria]], which feeds more microbes through root exudates.
 
 ### Weathering Rates and Timescales
 
@@ -178,7 +178,7 @@ Typical nutrient release timelines from rock dust application:
 - **Short-term (3–12 months)**: Finest particles begin significant dissolution; measurable changes
   in exchangeable Ca, Mg, and K
 - **Medium-term (1–5 years)**: Bulk mineral weathering provides sustained nutrient supply; pH
-  buffering becomes evident; soil structure improvements
+  buffering becomes evident; [[soil-structure-and-aggregate-ecology]] improvements
 - **Long-term (5–50+ years)**: Continued slow release; cumulative effects on soil mineralogy;
   contribution to carbon sequestration
 
@@ -352,7 +352,7 @@ While rock dusts are slow-release and generally safe, excessive application can:
 - Create physical soil structure problems if applied as coarse material
 - Represent unnecessary expense with diminishing returns
 
-**Rule of thumb**: Start with half the recommended rate, observe plant response, and adjust.
+**Rule of thumb**: Start with half the recommended rate, observe [[plant-response-to-sound-and-vibration]], and adjust.
 
 ### Variable Quality
 
@@ -367,7 +367,7 @@ Rock dusts are not a substitute for adequate organic matter, nitrogen, phosphoru
 fertilization. They are a complementary amendment that:
 
 - Supplies trace minerals not provided by most fertilizers
-- Improves long-term soil mineral reserves
+- Improves long-term [[soil-mineral-management-and-amendment-strategies]] reserves
 - Enhances the effectiveness of biological amendments (compost, compost tea, mycorrhizal
   inoculants) by providing mineral substrates
 - Contributes to soil physical and chemical health over time
@@ -399,7 +399,7 @@ the microbial community that processes rock minerals.
 
 ### Rock Dust + Biochar
 
-Biochar and rock dust share complementary roles: biochar provides a stable carbon matrix with
+Biochar and rock dust share complementary roles: biochar provides a [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] matrix with
 high surface area and cation exchange capacity, while rock dust supplies the mineral ions that
 biochar can adsorb and slowly release. Combining them creates a long-term nutrient bank. Some
 researchers suggest pre-charging biochar with rock dust minerals before soil application.

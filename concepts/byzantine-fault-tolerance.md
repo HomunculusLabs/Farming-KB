@@ -1,12 +1,11 @@
 ---
-title: "Byzantine Fault Tolerance"
+title: "byzantine fault tolerance"
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
 tags: []
 type: concept
 ---
-
 # Byzantine Fault Tolerance
 ## Overview
 Byzantine fault tolerance is the ability of a distributed system to keep working when some participants behave arbitrarily.
@@ -94,7 +93,7 @@ Synchronous protocols assume known communication time bounds.
 The timing model determines what kind of liveness guarantee is realistic.
 Safety is often maintained even during network partitions.
 Liveness may pause until communication conditions improve.
-## History and context
+## History [[oss-oeric-legal-disclaimer-and-context]]
 The Byzantine Generals Problem was formalized by Leslie Lamport, Robert Shostak, and Marshall Pease in 1982.
 Their work clarified the difficulty of agreement under arbitrary faults.
 The name refers to generals of the Byzantine army coordinating by messengers.
@@ -125,7 +124,7 @@ Key management is critical because cryptographic identity underlies trust.
 Economic systems must prevent bribery, collusion, and sybil attacks.
 Implementations must handle denial-of-service attacks and malformed messages.
 Formal verification is valuable because protocol errors can be catastrophic.
-Operational monitoring is needed to detect degraded liveness before users notice.
+Operational monitoring is needed to detect degraded liguzman-allen-gartz-[[amanita]]-ibotenic-acid-fungi-cultural-significanceotice.
 ## Cultural significance
 Byzantine fault tolerance changed how engineers think about trust.
 It shows that systems can be built without assuming every component is honest.
@@ -148,6 +147,3 @@ If governance changes validator sets carelessly, assumptions may erode.
 
 ## Related Topics
 These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
-- [[bee-forage-systems-design]]
-- [[bioremediation-laccase-mediator-systems]]
-- [[plant-signaling-pathways]]

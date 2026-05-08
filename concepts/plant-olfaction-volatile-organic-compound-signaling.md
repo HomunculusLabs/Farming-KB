@@ -116,10 +116,10 @@ The challenge lies in timing, dosage, and the specificity of plant responses to 
 
 ## See Also
 
-- [[Plant Vision and Light Perception]]
+- [[plant-vision-and-light-perception]]
 
-- [[Phytochrome and Photoperiodism]]
+- [[phytochrome-and-photoperiodism]]
 
-- [[Systemic Acquired Resistance in Plants]]
+- [[systemic-acquired-resistance-in-plants]]
 
-- [[Allelopathy and Chemical Competition Between Plants]]
+- [[allelopathy-and-chemical-competition-between-plants]]

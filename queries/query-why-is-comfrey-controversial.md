@@ -19,9 +19,9 @@ sources:
   - "Culvenor, C.C.J. Estimated intakes of pyrrolizidine alkaloids by humans. A comparison with dose rates causing tumors in rats. Journal of Toxicology and Environmental Health, 11(4-6):625–635, 1983."
 ---
 
-# Why Is [[comfrey|Comfrey]] Controversial?
+# Why Is [[comfrey]] Controversial?
 
-Comfrey (*Symphytum [[comfrey-symphytum-officinale|officinale]]* and related species) is one of the most polarizing plants in both herbal medicine and permaculture. Widely valued for its dynamic accumulator properties, deep taproot, and rapid biomass production, comfrey simultaneously faces significant health and ecological concerns. This page addresses the core controversies factually and in plain language.
+Comfrey (*Symphytum [[comfrey-symphytum-officinale]]* and related species) is one of the most polarizing plants in both herbal medicine and permaculture. Widely valued for its [[dynamic-accumulator-plants-potassium]] properties, deep taproot, and rapid biomass production, comfrey simultaneously faces significant health and ecological concerns. This page addresses the core controversies factually and in plain language.
 
 ---
 
@@ -31,7 +31,7 @@ Pyrrolizidine alkaloids are a family of naturally occurring hepatotoxic compound
 
 These include intermedine, lycopsamine, and their acetyl and N-oxide derivatives. Concentrations vary considerably by species, plant part, harvest time, and growing conditions. Roots generally contain the highest PA levels (often 10× leaf concentrations), followed by leaves, with flowers typically the lowest but still detectable.
 
-Wild-harvested common comfrey tends to have higher and more variable PA content than cultivated Russian comfrey varieties, but no comfrey tissue has been shown to be reliably PA-free. Soil conditions, nitrogen availability, and plant stress all influence PA biosynthesis, making absolute safety claims for any given plant impossible.
+Wild-harvested common comfrey tends to have higher and more variable PA content than cultivated Russian comfrey varieties, but no comfrey tissue has been shown to be reliably PA-free. Soil conditions, [[nitrogen-availability-in-legumes]], and plant stress all influence PA biosynthesis, making absolute safety claims for any given plant impossible.
 
 ---
 
@@ -39,7 +39,7 @@ Wild-harvested common comfrey tends to have higher and more variable PA content 
 
 Yes, the hepatotoxicity of comfrey PAs is well-established in the scientific literature and is not seriously disputed among toxicologists.
 
-Unsaturated PAs are metabolized by the liver (via cytochrome P450 enzymes) into reactive pyrrolic esters that bind covalently to cellular proteins and DNA. This damage causes hepatic veno-occlusive disease (VOD)—a condition in which the small veins of the liver become blocked and fibrotic, leading to cirrhosis, portal hypertension, and potentially acute liver failure.
+Unsaturated PAs are metabolized by the liver (via [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes) into reactive pyrrolic esters that bind covalently to cellular proteins and DNA. This damage causes hepatic veno-occlusive disease (VOD)—a condition in which the small veins of the liver become blocked and fibrotic, leading to cirrhosis, portal hypertension, and potentially acute liver failure.
 
 The evidence base includes:
 
@@ -66,7 +66,7 @@ Internal consumption of comfrey is banned or heavily restricted across virtually
 
 ## What about the sterile cultivar Bocking 14—is it safe?
 
-The Bocking 14 cultivar (*Symphytum × uplandicum* 'Bocking 14') is widely promoted in permaculture as a sterile clone that will not spread by seed. This sterility is real and valuable for controlling unwanted seed dispersal.
+The Bocking 14 cultivar (*Symphytum × uplandicum* 'Bocking 14') is widely promoted in permaculture as a sterile clone that will not spread by seed. This sterility is real and valuable for controlling unwanted [[seed-dispersal-ecology-and-mechanisms]].
 
 However, Bocking 14 is **not** PA-free. Analytical studies have confirmed measurable levels of unsaturated PAs in Bocking 14 leaves and roots, though some reports suggest slightly lower concentrations than common comfrey. The sterility addresses only the invasive spread question, not the toxicological one.
 
@@ -128,7 +128,7 @@ This is not simply "old vs. new" but reflects fundamentally different epistemolo
 
 ## Summary
 
-The comfrey controversy exists because the plant occupies a genuine middle ground. It is not a binary "safe" or "dangerous" plant. Comfrey is an excellent horticultural species with real ecological and permaculture benefits, and the risks associated with growing and handling it are low when used appropriately for mulch, compost, and bee forage. At the same time, the hepatotoxicity of its PAs is well-established, internal use poses real cumulative health risks, and its invasive potential requires responsible siting. The controversy is perpetuated primarily by advocates who overstate safety and critics who overstate danger. A balanced, evidence-based approach recognizes both the genuine utility and the genuine hazards of this remarkable plant.
+The comfrey controversy exists because the plant occupies a genuine middle ground. It is not a binary "safe" or "dangerous" plant. Comfrey is an excellent horticultural species with real ecological and permaculture benefits, and the risks associated with growing and handling it are low when used appropriately for mulch, compost, and bee forage. At the same time, the hepatotoxicity of its PAs is well-established, internal use poses real cumulative [[health-risks-of-hallucinogenic-mushrooms]], and its invasive potential requires responsible siting. The controversy is perpetuated primarily by advocates who overstate safety and critics who overstate danger. A balanced, evidence-based approach recognizes both the genuine utility and the genuine hazards of this remarkable plant.
 
 ## See Also
 

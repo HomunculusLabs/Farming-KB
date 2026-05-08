@@ -38,11 +38,11 @@ In North America, modern silvopasture research began in the 1980s through the US
 
 ### Silvopastoral Grazing Under Timber
 
-Existing timber stands are thinned and the understory is managed for forage production. This is the most common entry point for silvopasture in temperate regions. Timber species include loblolly pine (*Pinus taeda*), shortleaf pine (*Pinus echinata*), and various hardwoods. Forage species are shade-tolerant and chosen for compatibility with the tree canopy.
+Existing timber stands are thinned and the understory is managed for forage production. This is the most common entry point for silvopasture in temperate regions. Timber species include loblolly pine (*Pinus taeda*), shortleaf pine (*Pinus echinata*), and various hardwoods. Forage species are shade-tolerant and chosen for compatibility with the [[tree-canopy-fungal-sampling-techniques]].
 
 ### Silvopastoral Orchard Systems
 
-Fruit and nut trees are planted at wide spacing with inter-row forage and livestock. This includes silvopastoral versions of apple, chestnut, pecan, walnut, persimmon, mulberry, and pawpaw orchards. Livestock provide fertility, vegetation management, and pest control services. Chickens, geese, sheep, and cattle are all compatible depending on the tree crop.
+Fruit and nut trees are planted at [[wide-spacing-dry-gardening-low-irrigation-solomon]] with inter-row forage and livestock. This includes silvopastoral versions of apple, chestnut, pecan, walnut, persimmon, mulberry, and pawpaw orchards. Livestock provide fertility, vegetation management, and pest control services. Chickens, geese, sheep, and cattle are all compatible depending on the tree crop.
 
 ### Riparian Silvopastoral Buffers
 
@@ -62,7 +62,7 @@ Open-canopy woodlands with 20–50% canopy cover are managed as productive grazi
 
 | Tree Species | Products | Forage Compatibility | Livestock | Notes |
 |---|---|---|---|---|
-| Black walnut (*Juglans nigra*) | Timber, nuts | Moderate (juglone tolerant forages needed) | Cattle, sheep | Juglone allelopathy; plant tall fescue, orchardgrass |
+| [[black-walnut-juglone-plant-toxicity]] (*Juglans nigra*) | Timber, nuts | Moderate (juglone tolerant forages needed) | Cattle, sheep | Juglone allelopathy; plant tall fescue, orchardgrass |
 | Chestnut (*Castanea spp.*) | Nuts, timber | Good | Cattle, sheep, pigs | Excellent mast crop for fall finishing |
 | Pecan (*Carya illinoinensis*) | Nuts, timber | Good | Cattle, sheep, chickens | Southern US; requires deep soils |
 | Oak (*Quercus spp.*) | Timber, acorns, shade | Good | Cattle, sheep, pigs | Dehesa model; acorns high-value forage |
@@ -171,7 +171,7 @@ Tree rows oriented east–west maximize light interception on forage between row
 ### Water and Nutrient Management
 
 - Livestock manure contributes significant nitrogen, phosphorus, and potassium to the system, reducing fertilizer inputs for forage and trees.
-- Deep tree roots access nutrients and water from soil horizons unavailable to shallow-rooted forages, cycling nutrients to the surface through leaf litter.
+- Deep tree roots access nutrients and water from soil horizons unavailable to shallow-rooted forages, cycling nutrients to the surface through [[leaf-litter-microfungal-diversity-tropical-temperate]].
 - Design water systems to serve both livestock and tree establishment needs. Gravity-fed troughs, piped systems, or solar-powered pumps reduce labor.
 - In arid regions, contour swales and micro-catchments can be integrated to enhance tree survival and forage production.
 
@@ -291,7 +291,7 @@ Silvopasture systems support significantly higher biodiversity than open pasture
 
 - Tree leaf litter adds organic matter and buffers soil pH.
 - Deep tree roots break compaction layers and cycle nutrients from subsoil.
-- Nitrogen-fixing tree species (legumes and associates) add biologically fixed nitrogen.
+- [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] tree species (legumes and associates) add biologically fixed nitrogen.
 - Continuous ground cover from forages prevents erosion.
 - Grazing stimulates root turnover, feeding soil microbial communities.
 
@@ -315,7 +315,7 @@ Silvopasture systems support significantly higher biodiversity than open pasture
 - Tree seedling mortality is high in grazed systems without protection.
 - Weed competition during establishment reduces tree growth rates.
 - Drought during the first 1–2 years is the primary cause of seedling failure.
-- Grazing too early damages tree root systems and soil structure.
+- Grazing too early damages tree root systems and [[soil-structure-and-aggregate-ecology]].
 
 ### Economic Challenges
 
@@ -328,11 +328,11 @@ Silvopasture systems support significantly higher biodiversity than open pasture
 
 Silvopasture aligns closely with permaculture principles and is a key design element in many permaculture systems:
 
-- **Zone 2–3 placement** — silvopasture is typically located in permaculture zones 2 (frequently visited) and 3 (occasionally managed), depending on the intensity of livestock and tree management.
+- **Zone 2–3 placement** — silvopasture is typically located in [[permaculture-zones-and-site-planning]] 2 (frequently visited) and 3 (occasionally managed), depending on the intensity of livestock and tree management.
 - **Guild design** — tree-forage-livestock combinations function as functional guilds where each element supports the others: trees provide shade and mast, forages fix nitrogen and prevent erosion, livestock cycle nutrients and control vegetation.
 - **Edge effect** — the interface between tree canopy and open pasture creates productive edge habitat with increased biodiversity and forage diversity.
 - **Stacking functions** — silvopasture stacks production (meat, milk, fiber, timber, fruit, nuts, forage), ecological (carbon, water, biodiversity), and social (aesthetics, recreation) functions on the same land.
-- **Pattern integration** — silvopasture integrates with keyline design, contour swales, and rotational grazing patterns for comprehensive water and nutrient management.
+- **Pattern integration** — silvopasture integrates with [[keyline-design-and-water-management-in-permaculture]], contour swales, and rotational grazing patterns for comprehensive water and nutrient management.
 
 ## Regional Examples
 

@@ -148,5 +148,3 @@ available, starting from seed offers access to the newest crosses and
 breeding projects from around the world.
 
 ## Hybrid Approaches
-The most sophisticated cannabis growing programs combine both approaches
-in a defined workflow: seeds are germinated and grown to maturity to

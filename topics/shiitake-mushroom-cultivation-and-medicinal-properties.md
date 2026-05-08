@@ -597,3 +597,6 @@ energy costs. Integration with renewable energy further improves sustainability.
   *Mushroom Science*, 15, 483-488.
 - Ajinomoto Co. (1988). Lentinan Technical Document: Preclinical Toxicity
   Data. Tokyo, Japan.
+## Shiitake Cultivation (Growing Gourmet & Medicinal Mushrooms)
+
+# Shiitake Cultivation Shiitake (Lentinula edodes) is one of the most cultivated mushrooms in the world, with a history stretching back to the Sung Dynasty in China (960-1127 AD). Dr. Mimura's work in 1904 established modern shiitake cultivation techniques. Paul Stamets' treatment in Growing Gourmet and Medicinal Mushrooms focuses on indoor cultivation on supplemented sawdust, complementing traditional log-based methods. ## History and Significance Shiitake has been cultivated for over a thousand years, making it one of the oldest deliberately grown mushrooms. ...

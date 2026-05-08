@@ -128,6 +128,6 @@ exposure period.
 
 - [[trace-water-flash-steam-microwave-sterilization]]
 
-- [[microwave-surface-sterilization]] for the overall technology
+- microwave-surface-sterilization for the overall technology
 - [[microwave-microbial-kill-curves]] for quantitative kill data
 - [[microwave-sterilization-of-enclosed-systems]] for penetration through barriers

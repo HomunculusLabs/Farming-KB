@@ -17,7 +17,7 @@ sources:
 # Pluteus glaucotinctus
 
 **Pluteus glaucotinctus** is a wood-inhabiting mushroom in the family
-Pluteaceae known to contain [[psilocybin]]. It is one of several species
+Pluteaceae known to contain [[psilocybin-compound]]. It is one of several species
 within the genus Pluteus documented as psychoactive, though it remains
 relatively obscure compared to better-known members like [[pluteus-salicinus]].
 The species is notable for its characteristic blue-green (glaucous) tints and
@@ -87,7 +87,7 @@ considered uncommon to rare in most of its range.
 
 ## Chemistry and Bioactive Compounds
 
-P. glaucotinctus has been confirmed to contain [[psilocybin]] and [[psilocin]]
+P. glaucotinctus has been confirmed to contain [[psilocybin-compound]] and [[psilocin]]
 through TLC, GC-MS, and HPLC analysis. The concentration is generally low to
 moderate, with reports suggesting approximately 0.1 to 0.3% psilocybin by dry
 weight, though data from multiple independent collections is limited. The
@@ -135,6 +135,6 @@ cap and stipe.
 
 - [[pluteus-salicinus]] — the most commonly encountered psychoactive Pluteus
 - [[pluteus-nigroviridis]] — another bluing, psilocybin-containing Pluteus
-- [[psilocybin]] — the primary psychoactive alkaloid produced by this species
+- [[psilocybin-compound]] — the primary psychoactive alkaloid produced by this species
 - Pluteaceae — the family containing Pluteus and Volvariella
 - [[psilocin]] — the dephosphorylated, bluing-inducing metabolite

@@ -71,7 +71,7 @@ The principle also applies to the built environment. Buildings should be designe
 
 A core insight of the produce-no-waste principle is that biological systems are inherently circular, while mechanical and chemical systems tend toward linearity. Choosing biological over industrial methods -- using legumes to fix nitrogen rather than applying synthetic fertiliser, using predator insects rather than pesticides, using decomposition rather than incineration -- is itself an application of this principle. Living organisms do not produce waste in the industrial sense; their outputs are always inputs for other organisms. Designing systems that favour biological processes over mechanical ones moves automatically toward waste elimination.
 
-[[permaculture-principle-produce-no-waste]] | [[permaculture-principles]] | [[holmgren-renewable-resources-detailed]] | [[composting-methods-comparison]] | [[permaculture-earthworks-guide]]
+[[permaculture-principle-produce-no-waste]] | [[permaculture-principles]] | [[holmgren-renewable-resources-detailed]] | [[composting-methods-comparison]] | [[permaculture-water-harvesting-earthworks]]
 
 ## Key Points
 
@@ -110,7 +110,7 @@ A core insight of the produce-no-waste principle is that biological systems are 
 
 ## See Also
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

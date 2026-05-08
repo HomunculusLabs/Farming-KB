@@ -24,7 +24,7 @@ Terence and Dennis McKenna, together with Kat Harrison and Jeremy Bigwood, publi
 
 The brothers estimated there were tens of thousands of people worldwide following the method. By autumn 1976, spores and growing kits were being advertised in High Times magazine.
 
-The cultivation guide was a direct product of [[terence-mckenna-stoned-ape-hypothesis]] broader commitment to making psychedelic experiences accessible. While his Stoned Ape hypothesis dealt with prehistory, his cultivation work addressed the practical needs of contemporary psychonauts.
+The cultivation guide was a direct product of [[psychedelic-mushrooms-species-and-identification]] broader commitment to making psychedelic experiences accessible. While his Stoned Ape hypothesis dealt with prehistory, his cultivation work addressed the practical needs of contemporary psychonauts.
 
 ## Stephen Pollock (1977-1981)
 
@@ -82,11 +82,11 @@ The vast majority of cultivation efforts have centred on [[global-psychedelic-mu
 
 - [[magic-mushroom-cultural-history]]
 - [[global-psychedelic-mushroom-species-diversity]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[wasson-hofmann-ruck-theory]]
 - [[roger-heim-scientific-study-psilocybin]]
 
 ## Related
 
-- [[psilocybin-in-the-counter-culture]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[banisteriopsis-caapi]]

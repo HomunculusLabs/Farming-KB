@@ -13,7 +13,7 @@ Detailed cultivation data for psilocybin-bearing mushroom species compiled from 
 
 ## Overview
 
-Over 100 species of mushrooms are known to contain psilocybin and/or psilocin. They span four genera: *Psilocybe* (~40 species), *Conocybe* (~40 species), *Panaeolus* (~20 species), and *Stropharia* (~9 species). While [[psilocybe-cubensis-profile]] is the most commonly cultivated due to its vigor, disease resistance, and potency, many other species offer distinct advantages for the cultivator willing to adapt techniques.
+Over 100 species of mushrooms are known to contain psilocybin and/or psilocin. They span four genera: *Psilocybe* (~40 species), *Conocybe* (~40 species), *Panaeolus* (~20 species), and *Stropharia* (~9 species). While [[psychedelic-mushrooms-species-and-identification]] is the most commonly cultivated due to its vigor, disease resistance, and potency, many other species offer distinct advantages for the cultivator willing to adapt techniques.
 
 ## Genus Copelandia
 
@@ -27,7 +27,7 @@ Over 100 species of mushrooms are known to contain psilocybin and/or psilocin. T
 | Substrate | Uncased compost or rye grain |
 | Optimal MEA growth | 80°F (27°C) |
 
-One of the more potent tropical psilocybian species. Spores germinate readily on all standard agar media, making it relatively accessible for cultivation. See also [[psilocybin-mushroom-cultivation-basics]] for general techniques adaptable to this species.
+One of the more potent tropical psilocybian species. Spores germinate readily on all standard agar media, making it relatively accessible for cultivation. See also [[mushroom-cultivation-fundamentals]] for general techniques adaptable to this species.
 
 ## Genus Panaeolus
 
@@ -118,7 +118,7 @@ A species strongly associated with the Pacific Northwest. Often found in urban s
 | Substrate | Mosses, herbs, roadsides, humid meadows, cornfields, near pine forests |
 | Range | Mexico, especially limestone regions |
 
-The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[maria-sabina-mazatec-mushroom-ceremony]] and [[wasson-hofmann-psilocybin-connection]] for historical context.
+The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[mushroom-cultivation-fundamentals]] and [[wasson-hofmann-psilocybin-connection]] for historical context.
 
 ### Psilocybe pelliculosa
 

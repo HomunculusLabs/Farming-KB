@@ -120,6 +120,6 @@ its content exceeds all prior categories of understanding.
 
 - [[tryptamine-hypercontinuum]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
-- [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
+- mckenna dmt phenomenology and cognitive dissonance of wonder
 - [[dmt-endogenous-production]]
 - [[tryptamine-receptor-pharmacology]]

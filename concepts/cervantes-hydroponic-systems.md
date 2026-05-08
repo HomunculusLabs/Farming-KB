@@ -91,7 +91,7 @@ Choose a hydroponic system based on your experience level, budget, and growing g
 
 - [[cervantes-growing-medium]]
 - [[cervantes-nutrient-management]]
-- [[cervantes-water-quality-management]]
+- [[cannabis-advanced-growing-techniques]]
 - [[hydroponic-cannabis]]
 - [[deep-water-culture]]
 - [[nutrient-film-technique]]

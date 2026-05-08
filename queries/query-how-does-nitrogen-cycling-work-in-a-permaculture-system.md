@@ -25,10 +25,10 @@ In a permaculture system, nitrogen cycling is designed as a **closed-loop system
 Permaculture systems rely on biological nitrogen fixation (BNF) as the primary nitrogen input rather than synthetic fertilizers:
 
 **Leguminous trees and shrubs (nitrogen-fixing trees/NFTs):**
-- Black locust (*Robinia pseudoacacia*): fixes 100–200 kg N/ha/year; provides fodder, poles, fence posts, nectar
-- Honey locust (*Gleditsia triacanthos*): pods provide livestock fodder; fixes 40–100 kg N/ha/year
-- Siberian pea shrub (*Caragana arborescens*): cold-hardy N fixer; chicken fodder and windbreak
-- Sea buckthorn (*Hippophae rhamnoides*): fixes N via *Frankia* actinorhizal symbiosis; edible berries
+- Black locust (*[[robinia-pseudoacacia]]*): fixes 100–200 kg N/ha/year; provides fodder, poles, fence posts, nectar
+- Honey locust (*[[gleditsia-triacanthos]]*): pods provide livestock fodder; fixes 40–100 kg N/ha/year
+- Siberian pea shrub (*[[caragana-arborescens]]*): cold-hardy N fixer; chicken fodder and windbreak
+- Sea buckthorn (*[[hippophae-rhamnoides]]*): fixes N via *Frankia* actinorhizal symbiosis; edible berries
 - Alder (*Alnus* spp.): pioneer N fixer for riparian and degraded sites; 40–120 kg N/ha/year
 - Tagasaste (*Chamaecytisus proliferus*): fast-growing fodder tree for Mediterranean climates; 200+ kg N/ha/year
 - Acacia, Leucaena, Gliricidia, Inga: tropical N-fixing trees for agroforestry systems
@@ -54,7 +54,7 @@ Permaculture systems rely on biological nitrogen fixation (BNF) as the primary n
 - Chicken tractors concentrate manure N on garden beds before planting
 - Rabbit manure is "cold" (can be applied directly) with ~2% N
 
-**Mulching and sheet mulching:**
+**Mulching and [[sheet-mulching]]:**
 - Surface-applied organic mulches decompose slowly, releasing N gradually
 - Leguminous chop-and-drop mulch from N-fixing trees provides N-rich green mulch
 - Sheet mulching (cardboard + compost + mulch) builds soil while suppressing weeds
@@ -142,38 +142,6 @@ Plant a nitrogen-fixing tree/shrub with companion plants that benefit from the f
 5. **Planting N fixers on compacted soil**: Many legumes (especially trees) fail to nodulate in compacted, poorly aerated soils. Address soil structure first.
 6. **Assuming all legumes fix equal N**: Actual fixation depends on inoculation, soil conditions, and plant vigor. Inoculate with appropriate rhizobia strains.
 7. **Neglecting the belowground cycle**: Mycorrhizal networks, soil organic matter, and microbial biomass are the real N engine. Protect them with minimal tillage and diverse plantings.
-
-## Signs of Nitrogen Status in Your System
-
-**Nitrogen sufficient:**
-- Deep green leaves, vigorous growth, good fruit set
-- Clover and other legumes thriving (they reduce N fixation when soil N is high)
-- Earthworm populations abundant
-
-**Nitrogen deficient:**
-- Pale green or yellowing older leaves (chlorosis)
-- Stunted growth, thin stems, poor tillering
-- Legumes nodulating heavily (actively fixing N to compensate)
-- Compost pile not heating (insufficient N for microbial activity)
-
-**Nitrogen excess:**
-- Dark green, succulent, soft growth prone to pests and disease
-- Delayed flowering and fruiting (too much vegetative growth)
-- Increased susceptibility to fungal pathogens
-- Nitrate leaching into waterways (test with simple nitrate test strips)
-
-## Quick Reference: Permaculture N Management Calendar (Temperate)
-
-| Season | Action |
-|---|---|
-| **Early Spring** | Apply finished compost to beds; inoculate legume seeds; plant early peas |
-| **Mid-Spring** | Establish clover living mulch in orchard; plant bean/pea companions |
-| **Late Spring** | Terminate and incorporate spring cover crop; begin chop-and-drop on N-fixing trees |
-| **Summer** | Side-dress heavy feeders with compost tea; rotate chicken tractors through spent beds |
-| **Late Summer** | Sow fall cover crops (crimson clover, hairy vetch); begin fall compost batches |
-| **Autumn** | Chop-and-drop final tree mulch; spread mature compost; sow winter rye + clover mix |
-| **Winter** | Plan next year's N budget; order legume seed and inoculant; maintain compost |
-
 ## See Also
 
 - [[query-how-does-keyline-design-work-in-permaculture]]

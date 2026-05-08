@@ -116,7 +116,7 @@ Hyphae exhibit various tropisms — directional growth responses to environmenta
 
 - [[fungal-biology-fundamentals]] — Core principles of fungal biology
 - fungal cell biology — Cellular organization and intracellular processes
-- [[mycelium-composites-materials]] — Mycelial network structure and function
+- [[bioremediation-using-fungi]] — Mycelial network structure and function
 - [[fungal-enzymatic-capabilities]] — Extracellular enzyme systems for resource acquisition
 - [[fungal-growth-dynamics]] — Growth kinetics and patterns
 

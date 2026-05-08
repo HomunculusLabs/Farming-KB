@@ -135,5 +135,5 @@ needs more or less nutrition based on visual cues.
 - [[cervantes-sterilizing-grow-systems]]
 
 - [[cannabis-grow-room-setup]]
-- [[cannabis-grow-room-security]]
+- [[cannabis-indoor-growing-guide]]
 - [[cannabis-growing-environment-setup]]

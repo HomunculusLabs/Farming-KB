@@ -89,7 +89,7 @@ See also: [[permaculture-designers-manual-energy-systems]], [[permaculture-desig
 
 ## Related
 
-- [[permaculture-waste-management]]
+- permaculture waste management
 
 - [[permaculture-designers-manual-charcoal-production]]
 - [[permaculture-designers-manual-water-quality]]

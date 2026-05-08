@@ -43,7 +43,7 @@ A food forest (forest garden) is a designed agricultural system that mimics the 
 - Smaller trees (15-40 feet) beneath the canopy
 - Primary fruit and nut producers
 - Species: apple, pear, plum, cherry, peach, pawpaw, persimmon, asian pear, quince
-- See [[apple-tree-care]] and [[stone-fruit-tree-care]] for individual tree management
+- See [[apple-tree-care]] and stone fruit tree care for individual tree management
 - Space to allow light penetration to lower layers
 
 ### Layer 3: Shrub Layer

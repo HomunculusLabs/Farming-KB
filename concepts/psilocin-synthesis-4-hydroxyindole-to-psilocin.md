@@ -137,5 +137,5 @@ throughout, enabling isolation by simple filtration and washing.
 ## Related Topics
 
 - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[nmr-characterization-psilocin-psilocybin-intermediates]]

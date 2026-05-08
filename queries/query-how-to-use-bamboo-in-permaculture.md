@@ -32,7 +32,7 @@ The [[mollison-designers-bamboo-treatment-preservation]] page covers treatment m
 
 Choosing the right bamboo species is critical because some types are extremely invasive and difficult to control.
 The [[permaculture-designers-manual-bamboo-species-uses]] page provides species recommendations for different climates.
-The [[bamboo-species-guide]] resource covers the most useful bamboo varieties for permaculture applications.
+The bamboo species guide resource covers the most useful bamboo varieties for permaculture applications.
 Clumping bamboos are generally preferred over running bamboos because they stay contained and don't spread aggressively.
 Running bamboos can be controlled with root barriers but require ongoing management to prevent escape.
 Species selection should consider your climate zone, intended use, and available space.
@@ -89,7 +89,7 @@ A well-managed bamboo grove provides a continuous supply of useful material year
 - Bamboo is an extremely fast-growing, renewable multi-use plant for building, food, and garden applications
 - [[permaculture-designers-manual-bamboo]] covers Mollison's comprehensive treatment of bamboo in design
 - [[bamboo-as-building-material]] details construction applications from framing to flooring
-- [[bamboo-species-guide]] helps you choose the right non-invasive species for your climate
+- bamboo species guide helps you choose the right non-invasive species for your climate
 - [[gaias-garden-bamboo-permaculture]] shows integration into food forest and garden designs
 - [[comparison-bamboo-vs-cob-construction]] compares bamboo with cob building systems
 - Clumping bamboos are preferred over running types to prevent invasive spreading

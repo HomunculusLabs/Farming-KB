@@ -52,10 +52,10 @@ As ethnopharmacological research continues to expand, sinicuichi represents a re
 
 ## Related
 
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 - [[old-world-hallucinogenic-plants-overview]]
 - [[datura-metel-old-world-ethnobotany]]
-- [[hallucinogenic-plants-of-the-world]]
+- [[entheogenic-plants-and-psychoactive-flora]]
 
 ## Historical Context
 

@@ -57,7 +57,7 @@ This reality makes bioregional architecture not just a design philosophy for new
 
 ## Connection to Permaculture Principles
 
-Bioregional architecture directly embodies [[permaculture-principle-design-from-patterns-to-details]] by designing from the large-scale pattern of bioregional climate down to the details of material selection and construction. It also reflects [[permaculture-principle-use-and-value-renewable-resources]] through the emphasis on local natural materials. The [[permaculture-principle-use-small-and-slow-solutions]] is reflected in the preference for simple, proven construction methods.
+Bioregional architecture directly embodies [[permaculture-principle-design-from-patterns-to-details]] by designing from the large-scale pattern of bioregional climate down to the details of material selection and construction. It also reflects [[permaculture-design-principles]] through the emphasis on local natural materials. The [[permaculture-design-principles]] is reflected in the preference for simple, proven construction methods.
 
 ## Democratizing Design
 

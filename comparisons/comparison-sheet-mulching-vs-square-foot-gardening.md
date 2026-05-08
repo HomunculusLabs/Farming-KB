@@ -148,4 +148,3 @@ captures the strengths of both approaches.
 ## See Also
 - [[comparison-hugelkultur-vs-sheet-mulching]]
 - [[comparison-square-foot-vs-raised-bed-gardening]]
-- [[comparison-sheet-mulching-vs-double-digging]]

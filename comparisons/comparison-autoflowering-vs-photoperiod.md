@@ -148,4 +148,3 @@ plants that mimic the autoflowering timeline while retaining photoperiod genetic
 - [[composting-systems-design-comparison]]
 
 - [[autoflowering-cannabis]]
-- [[photoperiod-cannabis]]

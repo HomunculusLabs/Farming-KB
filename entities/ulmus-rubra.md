@@ -142,11 +142,9 @@ The species coppices readily, allowing sustainable bark harvest on a managed rot
 - [[tihkal-receptor-binding-serotonin]]
 - [[tangerine-dream]]
 
-- [[ulmus-rubra]]
+- ulmus rubra
 - tilia americana
 - althea officinalis
 - [[glycyrrhiza-glabra]]
 - [[plantago-major]]
 - [[aloe-vera]]
-- [[calendula-officinalis]]
-- [[symphytum-officinale]]

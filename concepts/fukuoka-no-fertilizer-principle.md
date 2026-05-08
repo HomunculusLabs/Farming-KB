@@ -68,7 +68,7 @@ Reforested cedars in a favorable area generally grow about forty tons per quarte
 
 - [[fertilizer-npk-decoded]]
 - [[fukuoka-high-yield-rice-barley]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 
 Related topics in this wiki include: [[natural-farming-philosophy]], [[natural-farming-fukuoka]], [[one-straw-revolution-guide]], [[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-cultivation-principle]], fukuoka no fertilizer principle, [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
 

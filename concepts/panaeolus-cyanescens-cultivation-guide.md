@@ -101,7 +101,7 @@ The most common reason people fail with Panaeolus species is insufficient fresh 
 
 - [[psilocybin-cultivation]] — general psilocybin mushroom cultivation
 - [[mushroom-cultivation-basics]] — cultivation fundamentals
-- [[mushroom-compost-substrates]] — substrate preparation
+- [[mushroom-cultivation-fundamentals]] — substrate preparation
 - [[mushroom-cultivation-fruiting-chambers]] — fruiting environment design
 - [[mushroom-cultivation-anastomosis-and-strain-mixing]]
 

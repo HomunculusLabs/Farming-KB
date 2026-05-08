@@ -148,5 +148,3 @@ in this paper could double with systematic exploration.
 
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
-- [[guzman-allen-gartz-neurotropic-fungi-africa]]

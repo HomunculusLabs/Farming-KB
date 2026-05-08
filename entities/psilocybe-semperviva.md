@@ -73,7 +73,7 @@ Fruiting is triggered by cool, damp conditions, typically occurring in autumn in
 
 ## Chemistry
 
-The species has been confirmed to contain [[psilocybin]] and [[psilocin]] as its primary psychoactive alkaloids. The bluing reaction is caused by oxidative degradation of psilocin, which is produced by enzymatic dephosphorylation of psilocybin.
+The species has been confirmed to contain [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive alkaloids. The bluing reaction is caused by oxidative degradation of psilocin, which is produced by enzymatic dephosphorylation of psilocybin.
 
 Specific alkaloid concentrations have not been extensively documented. Potency likely falls within the moderate range typical of European Psilocybe species, though significant variation between collections is common.
 
@@ -108,7 +108,7 @@ As a confirmed psilocybin-containing species, P. semperviva is controlled in mos
 - [[psilocybe-semilanceata]] — Most common European psilocybin mushroom
 - [[psilocybe-serbica]] — Potent European species
 - [[psilocybe-cyanescens]] — Potent wood-inhabiting species
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound
 - [[psilocin]] — Active metabolite of psilocybin
 
 ## References

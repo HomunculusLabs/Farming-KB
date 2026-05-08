@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Indole
 
-**Indole** (2,3-benzopyrrole) is an aromatic heterocyclic organic compound consisting of a fused benzene ring and a pyrrole ring. It is the fundamental structural scaffold underlying the entire class of tryptamine alkaloids — including the neurotransmitter [[serotonin]], the psychedelic mushroom alkaloids [[psilocybin]] and [[psilocin]], the endogenous psychedelic dimethyltryptamine|DMT, and the ergoline compounds including [[lsd-lysergic-acid-diethylamide-experience-guide]]. The indole ring system is one of the most pharmacologically significant heterocycles in nature.
+**Indole** (2,3-benzopyrrole) is an aromatic heterocyclic organic compound consisting of a fused benzene ring and a pyrrole ring. It is the fundamental structural scaffold underlying the entire class of tryptamine alkaloids — including the neurotransmitter [[serotonin]], the psychedelic mushroom alkaloids [[psilocybin-compound]] and [[psilocin]], the endogenous psychedelic dimethyltryptamine|DMT, and the ergoline compounds including [[lsd-lysergic-acid-diethylamide-experience-guide]]. The indole ring system is one of the most pharmacologically significant heterocycles in nature.
 
 ## Chemical Properties
 
@@ -51,7 +51,7 @@ The indole ring is the defining structural feature of all tryptamine-based psych
 
 | Position | Substitution | Example Compound | Significance |
 |----------|-------------|-----------------|--------------|
-| 4-OH (phosphorylated) | Phosphoryloxy | [[psilocybin]] | Primary mushroom psychedelic |
+| 4-OH (phosphorylated) | Phosphoryloxy | [[psilocybin-compound]] | Primary mushroom psychedelic |
 | 4-OH | Hydroxyl | [[psilocin]] | Active metabolite of psilocybin |
 | 4-PO₄-N⁺(CH₃)₃ | Phosphoryloxy + quaternary N | [[aeruginascin]] | Mushroom alkaloid, possible modulator |
 | 5-OH | Hydroxyl | [[serotonin]] | Endogenous neurotransmitter |
@@ -59,7 +59,7 @@ The indole ring is the defining structural feature of all tryptamine-based psych
 | 5-OMe | Methoxy | [[5-meo-dmt-compound-profile]] | Potent psychedelic |
 | 5-OCH₃ | Methoxy + ethylamide | [[lsd-lysergic-acid-diethylamide-experience-guide]] | Ergoline-derived psychedelic |
 
-The 4-substitution pattern (found in [[psilocybin]] and [[psilocin]]) versus the 5-substitution pattern (found in [[serotonin]] and [[bufotenin-entity-tihkal]]) produces distinct receptor binding profiles, despite sharing the same indole core. This positional isomerism is a central theme in tryptamine pharmacology.
+The 4-substitution pattern (found in [[psilocybin-compound]] and [[psilocin]]) versus the 5-substitution pattern (found in [[serotonin]] and [[bufotenin-entity-tihkal]]) produces distinct receptor binding profiles, despite sharing the same indole core. This positional isomerism is a central theme in tryptamine pharmacology.
 
 ## Chemical Reactivity
 
@@ -74,7 +74,7 @@ Key reactions of indole relevant to alkaloid chemistry:
 
 The indole scaffold has been extensively modified to produce compounds across multiple pharmacological classes:
 
-- **Psychedelics:** [[psilocybin]], dimethyltryptamine|DMT, [[lsd-lysergic-acid-diethylamide-experience-guide]], [[5-meo-dmt-compound-profile]], DPT, DiPT, 4-HO-MET, 4-AcO-DMT
+- **Psychedelics:** [[psilocybin-compound]], dimethyltryptamine|DMT, [[lsd-lysergic-acid-diethylamide-experience-guide]], [[5-meo-dmt-compound-profile]], DPT, DiPT, 4-HO-MET, 4-AcO-DMT
 - **Antidepressants:** Indole-3-propionic acid derivatives; vilazodone (5-HT₁A partial agonist + SSRI)
 - **Anti-inflammatory:** Indomethacin, sulindac, etodolac — NSAIDs built on indole scaffolds
 - **Antimicrobials:** Indole-containing β-lactam antibiotics
@@ -90,7 +90,7 @@ The indole ring is the defining structural feature that distinguishes tryptamine
 
 - The indole NH forms a hydrogen bond with a conserved serine residue (Ser5.46 in the 5-HT₂A receptor)
 - The aromatic ring participates in π-π stacking with phenylalanine residues in the binding pocket
-- Substitutions on the indole ring (4-OH for [[psilocybin]], 5-OH for [[serotonin]], 5-OMe for [[5-meo-dmt-compound-profile]]) determine receptor subtype selectivity and functional efficacy
+- Substitutions on the indole ring (4-OH for [[psilocybin-compound]], 5-OH for [[serotonin]], 5-OMe for [[5-meo-dmt-compound-profile]]) determine receptor subtype selectivity and functional efficacy
 
 The fact that the endogenous neurotransmitter [[serotonin]] and exogenous psychedelics share this exact indole scaffold is no coincidence — it is the structural basis for their shared ability to activate serotonergic receptors and modulate consciousness.
 
@@ -112,7 +112,7 @@ Indole was first isolated in 1866 by Adolf von Baeyer from the indigo dye reduct
 - [[tryptophan]] — indole-3-substituted essential amino acid; biosynthetic precursor to all natural indole alkaloids
 - [[tryptamine-consciousness-theory]] — indole-3-ethylamine; the parent compound of all psychoactive tryptamines
 - [[serotonin]] — 5-hydroxyindole derivative; principal mammalian indole neurotransmitter
-- [[psilocybin]] — 4-phosphoryloxyindole derivative; primary mushroom psychedelic
+- [[psilocybin-compound]] — 4-phosphoryloxyindole derivative; primary mushroom psychedelic
 - [[dimethyltryptamine]] — 4-substituted indole with N,N-dimethyl; endogenous psychedelic
 - [[aeruginascin]] — 4-phosphoryloxyindole with quaternary ammonium; mushroom alkaloid
 
@@ -120,5 +120,5 @@ Indole was first isolated in 1866 by Adolf von Baeyer from the indigo dye reduct
 
 - [[tryptamine-consciousness-theory]] — indole-ethylamine parent class of all psychoactive tryptamines
 - [[tryptophan]] — essential amino acid bearing the indole ring; universal precursor
-- [[psilocybin]] — indole-based mushroom alkaloid and 5-HT₂A agonist
+- [[psilocybin-compound]] — indole-based mushroom alkaloid and 5-HT₂A agonist
 - [[serotonin]] — indole-based neurotransmitter and structural template for psychedelics

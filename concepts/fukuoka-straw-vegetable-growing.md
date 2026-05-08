@@ -136,25 +136,6 @@ Pea family (garden pea, broad bean, adzuki bean, soybean, peanut, kidney
 bean), Mustard family (Chinese cabbage, cabbage, daikon, turnip, Indian
 mustard, rapeseed).
 
-### Low-Resistance Vegetables (require pesticides)
-
-Gourd family (watermelon, cucumber, melon, squash), Potato family (tomato,
-eggplant, potato, red pepper).
-
-## Natural Pest Control Methods
-
-[[fukuoka-straw-pest-control-natural-balance]] describes additional natural methods.
-As an additional precaution, Fukuoka recommended planting pyrethrum and derris
-root at the edge of the garden. Pyrethrum flowers and derris root may be dried
-and stored as powders. Pyrethrum is effective against aphids and caterpillars,
-while derris root works well against cabbage sawflies and leaf beetles. Both
-agents are harmless to man and garden vegetables. For more on this topic, see [[fukuoka-straw-pest-control-natural-balance]].
-For a deeper look at disease and insect resistance in vegetables, see [[fukuoka-vegetable-disease-insect-resistance]].
-
-Letting native fowl loose in a vegetable patch can be one very effective way
-of keeping insect pests in check. The birds will feed on the insects and their
-eggs, providing natural pest regulation.
-
 ## See Also
 
 - [[fukuoka-natural-farming]] — core philosophy and method overview

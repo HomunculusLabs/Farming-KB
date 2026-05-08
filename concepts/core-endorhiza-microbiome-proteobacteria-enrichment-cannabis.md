@@ -148,6 +148,3 @@ data.
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cannabis-rhizosphere-microbiome]] overview
 - [[endorhiza-bacterial-communities]] bacteria and plant root colonization
-- Acidobacteria ecology and soil distribution
-- Proteobacteria in plant-associated environments
-- [[pseudomonas]] as plant growth-promoting bacteria

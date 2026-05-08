@@ -145,7 +145,6 @@ activity.
 
 ## See Also
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[mycoremediation-field-applications-case-studies]]
 - [[fungal-bioremediation-formulation-delivery]]
-- [[mycoremediation-site-assessment]]

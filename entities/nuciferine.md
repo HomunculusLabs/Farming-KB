@@ -143,5 +143,5 @@ regulations or unapproved supplement rules.
 - [[psilocin]]
 - apomorphine
 - dopamine receptor
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[5-meo-dmt]]

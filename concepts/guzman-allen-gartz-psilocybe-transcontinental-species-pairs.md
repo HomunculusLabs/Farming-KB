@@ -13,14 +13,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
-    of the neurotropic fungi, an analysis and discussion. Ann. Mus. civ.
+    of the [[southern-hemisphere-origin-of-neurotropic-fungi]], an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
 type: concept
 ---
 
-## Overview
-
-One of the most significant biogeographic patterns identified by Guzman, Allen
+## Over [[neurotropic-fungi-biogeographic-patterns]] significant biogeographic patterns identified by Guzman, Allen
 and Gartz (2000) is the existence of transcontinental species pairs in
 Psilocybe that suggest ancient Gondwanan and South Pacific connections.
 These disjunct distributions, where closely related species occur on widely
@@ -31,11 +29,11 @@ agarics and boletes.
 
 ## The Gondwanan Connection
 
-Guzman, Allen and Gartz (2000) concluded that neurotropic Psilocybe species
-likely originated in the southern hemisphere, mainly in South America, based
+Guzman, Allen and Gartz (2000) concluded that neurotropic [[psilocybe-species-europe]]
+likely originated in the southern hemisphere, mainly [[neurotropic-fungi-in-south-america]], based
 on the high diversity there, and from that region reached northern parts
-(North America and Europe). This south-to-north colonization hypothesis is
-supported by the concentration of species diversity in the Austral hemisphere
+([[palmer-edible-mushrooms-north-america]] and Europe). This south-to-north colonization hypothesis is
+supported by the concentration of [[global-psychedelic-mushroom-species-diversity]] in the Austral hemisphere
 and subtropical regions.
 
 Of 85 neurotropic Psilocybe species analyzed by Guzman (1983), the majority
@@ -47,7 +45,7 @@ bias.
 
 ## Section Mexicanae Species Pairs
 
-### Psilocybe samuiensis, P. makarorae, and P. mexicana
+### [[psilocybe-samuiensis]], P. makarorae, and P. mexicana
 
 The most compelling transcontinental relationship involves three species all
 belonging to Section Mexicanae:
@@ -68,7 +66,7 @@ an ancient connection predating the breakup of continental landmasses.
 
 ## Section Zapotecorum Species Pair
 
-### Psilocybe aucklandii and P. zapotecorum
+### [[psilocybe-aucklandii]] and P. zapotecorum
 
 Another clear transcontinental relationship involves:
 
@@ -103,7 +101,7 @@ fungi:
 
 ### Type 1: Cosmopolitan Species
 
-Examples: Panaeolus spp. and Panaeolina foenisecii.
+Examples: Panaeolus spp. and [[panaeolina-foenisecii]].
 
 ### Type 2: Northern Hemisphere Species
 
@@ -130,7 +128,7 @@ var. septentrionalis is restricted to Japan.
 
 ### Type 7: Tropical and Subtropical Species
 
-Examples: P. cubensis, P. subcubensis, Copelandia cyanescens, C. tropicalis.
+Examples: P. cubensis, P. subcubensis, [[copelandia-cyanescens]], C. tropicalis.
 Also possibly Gerronema fibula from Malaysia to South America.
 
 ### Type 8: Arctic and Alpine Species
@@ -148,11 +146,3 @@ Panaeolina species described by Hongo from Japan.
 
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-- [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
-- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-
-- Copelandia genus diversity and biogeography
-- Neurotropic fungi of Central America and Caribbean
-- Neurotropic fungi of Hawaii and Pacific Islands
-- Conocybe and Gerronema neurotropic species

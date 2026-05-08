@@ -87,7 +87,7 @@ Dolomite lime mixed into soil at the time of preparation provides long-term pH b
 
 - [[cannabis-guerrilla-growing-guide]]
 
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 
 - [[cannabis-womens-health]]
 - [[phosphorus-availability]]

@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[fungal-ecology-forest-floor]] for the broader forest floor context and [[fungal-role-in-carbon-cycling]] for carbon cycle implications.
+Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[the-soil-food-web]] for the broader forest floor context and [[fungal-role-in-carbon-cycling]] for carbon cycle implications.
 
 ## Dead Wood as Fungal Habitat
 
@@ -86,7 +86,7 @@ Fungi in old-growth forests face threats from:
 The loss of old-growth forests means the irreversible loss of fungal species and fungal-mediated ecosystem functions that have developed over centuries. Many old-growth fungal species cannot survive in managed forests because they require specific conditions (large dead wood, undisturbed soils, stable microclimates) that only develop through centuries of forest development. Conservation of old-growth forests is essential for preserving fungal biodiversity and the ecosystem services that fungi provide.
 
 ## See Also
-- [[fungal-ecology-forest-floor]] -- broader forest floor ecology
+- [[the-soil-food-web]] -- broader forest floor ecology
 - [[ectomycorrhizal-ecology]] -- mycorrhizal associations
 - [[fungal-decomposition]] -- decomposition processes
 - [[wood-decay-fungi-buildings]] -- white-rot, brown-rot, soft-rot

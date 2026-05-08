@@ -14,8 +14,8 @@ tags:
   - creative
   - resin-heavy
   - terpinolene
-  - myrcene
-  - limonene
+  - [[myrcene]]
+  - [[limonene]]
   - daytime-strain
   - capulator
 date: 2026-04-28
@@ -27,13 +27,12 @@ sources:
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
   - "Chemotaxonomic analysis of Cannabis terpenes." Frontiers in Plant Science, 2020.
 ---
-
-# MAC 1 (Miracle Alien Cookies 1)
+# MAC 1 ([[miracle-alien-cookies]] 1)
 
 MAC 1, also known as Miracle Alien Cookies 1 or simply MAC, is a balanced hybrid (approximately
 50/50 indica-to-sativa ratio) created by the breeder Capulator through a cross of **Alien Cookies** and a
 select **Colombian landrace** male. Released commercially around 2016, MAC rapidly gained prominence for its
-exceptional resin production, complex terpene profile, and uniquely balanced effects combining cerebral
+exceptional resin production, compterpene-profile-chemotaxonomyfile, and uniquely balanced effects combining cerebral
 stimulation with physical comfort. The strain has become one of the most influential modern cultivars,
 serving as parent or ancestor in dozens of crosses including Runtz, Miracle 15, and MAC Stomper. MAC 1
 refers specifically to the stabilized phenotype that Capulator released; the original cross produced
@@ -41,13 +40,11 @@ multiple phenotypes, of which #1 was deemed superior.
 
 ## Lineage
 
-- **Female parent:** Alien Cookies (Girl Scout Cookies × Alien Kush), contributing dense bud structure,
+- **Female pargirl-scout-cookieses ([[girl-scout-cookies]] × Alien green cannabis plant anatomy calyx pistil bud structurebuting dense bud structure,
   cookie-dough and fuel terpenes, and high resin production from the GSC lineage
 - **Male parent:** Unnamed Colombian landrace sativa, contributing elevated THC, elongated flowering,
   and bright citrus-forward terpenes distinguishing MAC from its cookie ancestry
-- **Breeder:** Capulator (California); selected MAC #1 from original cross and stabilized through
-  backcrossing and phenotype selection over multiple generations
-- **Genetic heritage:** Traces to OG Kush, Durban Poison, and Chemdawg through GSC, with rare Colombian
+- **Breeder:** Capulator (California); selected MAC, [[durban-poison]], and [[chemdawg]] through GSC, with rare Colombian
   sativa genetics not commonly found in contemporary commercial strains
 
 ## Appearance
@@ -148,11 +145,3 @@ MAC 1 is moderately challenging, rewarding attentive growers with exceptional qu
 - **MAC Stomper** (MAC × Grape Stomper): Amplifies purple coloration and grape-forward aromatics
 - **Miracle 15** (MAC × Alien Rift): Heavy indica cross with intensified sedation
 - **Cap's Cut:** Breeder's reserve phenotype, most potent expression of the MAC lineage
-- **Jealousy** (Sherbet × MAC): Popular cross with creamy dessert aromatics and balanced effects
-
-## See Also
-
-- [[og-kush]]
-
-- [[durban-poison]]
-- [[girl-scout-cookies]]

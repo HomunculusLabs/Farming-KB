@@ -141,22 +141,6 @@ DMT is extracted from the bark using basic aqueous extraction:
 
 ## Legal Status
 
-- **United States:** The plant is not scheduled at the federal level, but DMT extracted from it is Schedule I. Several states have enacted restrictions on *M. hostilis* specifically.
-- **Brazil:** Protected native species; harvest from wild populations is restricted
-- **Mexico:** Traditional use of tepezcohuite is culturally protected; psychoactive use is not specifically regulated
-- **Australia:** Listed as a Schedule 9 prohibited substance
-- **Europe:** Legal to possess the plant in most EU countries; extraction is illegal under drug precursor laws
-- **International:** Not listed under the UN Convention on Psychotropic Substances, but DMT is listed under the 1971 Convention
-
-## Conservation Concerns
-
-Wild populations of *M. hostilis* in northeastern Brazil face pressure from:
-- Overharvesting for DMT extraction (root bark harvest kills the plant)
-- Habitat destruction from agricultural expansion in the Caatinga biome
-- Climate change increasing drought frequency beyond even this drought-adapted species' tolerance
-
-Cultivation from seed is encouraged as a sustainable alternative to wild harvesting. Seeds germinate readily after scarification and hot water treatment.
-
 ## See Also
 
 - [[dmt]] — N,N-dimethyltryptamine pharmacology and effects

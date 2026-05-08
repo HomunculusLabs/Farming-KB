@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-The subjective effects of hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]] depend on several interacting variables: the dose consumed, the [[green-cannabis-potency-maximizing]] and species of mushroom, the individual's sensitivity and prior experience, and the setting in which they are consumed. The major pharmacological effects are mediated through the central nervous system, primarily via [[5-HT2A receptor]] agonism, with additional sympathomimetic effects. Effects vary greatly between individuals and even between episodes for the same person.
+The subjective effects of hallucinogenic mushrooms containing [[psilocybin-compound]] and [[psilocin]] depend on several interacting variables: the dose consumed, the [[green-cannabis-potency-maximizing]] and species of mushroom, the individual's sensitivity and prior experience, and the setting in which they are consumed. The major pharmacological effects are mediated through the central nervous system, primarily via [[5-ht2a-receptor]] agonism, with additional sympathomimetic effects. Effects vary greatly between individuals and even between episodes for the same person.
 
 ## Routes of Administration
 
@@ -36,7 +36,7 @@ Eating mushrooms mixed or cooked into food may cause nausea and vomiting, so thi
 
 ### Smoking
 
-Some user reports suggest dried mushrooms are also being smoked, which is said to induce faster but milder effects. However, it is not clearly established whether smoking [[psilocybin]] and [[psilocin]] containing mushrooms can reliably produce psychoactive effects, as the thermal degradation point of these compounds may limit efficacy through this route.
+Some user reports suggest dried mushrooms are also being smoked, which is said to induce faster but milder effects. However, it is not clearly established whether smoking [[psilocybin-compound]] and [[psilocin]] containing mushrooms can reliably produce psychoactive effects, as the thermal degradation point of these compounds may limit efficacy through this route.
 
 ### Other Routes
 
@@ -59,7 +59,7 @@ The duration of the experience, commonly described as a "trip," typically lasts 
 
 ### Short-Term Tolerance
 
-Short-term tolerance develops rapidly to both physical and psychological effects of [[psilocybin]]. This means that subsequent doses taken within a short period (days) produce diminished effects, and dosages may need to be increased to achieve similar results. Cross-tolerance with other [[serotonin]] receptor agonists such as [[lsd]] also occurs.
+Short-term tolerance develops rapidly to both physical and psychological effects of [[psilocybin-compound]]. This means that subsequent doses taken within a short period (days) produce diminished effects, and dosages may need to be increased to achieve similar results. Cross-tolerance with other [[serotonin]] receptor agonists such as [[lsd]] also occurs.
 
 ## Acute Psychological Effects
 
@@ -123,11 +123,11 @@ The tendency for temporarily increased blood pressure may pose a risk for users 
 
 ## Dose-Response Considerations
 
-The psychoactive dose of [[psilocybin]] is believed to be between 45 micrograms per kilogram of body weight and 315 micrograms per kilogram of body weight. The "recommended" recreational dose ranges from 1 to 5 grams of dried mushrooms, with fresh mushrooms requiring approximately 10 times the weight (10 to 50 grams). However, these ranges should be interpreted with caution because:
+The psychoactive dose of [[psilocybin-compound]] is believed to be between 45 micrograms per kilogram of body weight and 315 micrograms per kilogram of body weight. The "recommended" recreational dose ranges from 1 to 5 grams of dried mushrooms, with fresh mushrooms requiring approximately 10 times the weight (10 to 50 grams). However, these ranges should be interpreted with caution because:
 
 - Potency varies significantly between species and even individual specimens
 - Concentration of active compounds depends on growing conditions and age
-- Multiple active substances ([[psilocybin]], [[psilocin]], [[baeocystin]], [[norbaeocystin]]) may be present
+- Multiple active substances ([[psilocybin-compound]], [[psilocin]], [[baeocystin]], [[norbaeocystin]]) may be present
 - Individual sensitivity varies widely
 
 ## Comparison with Other Substances

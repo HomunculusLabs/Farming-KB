@@ -45,7 +45,7 @@ Month-by-month garden tasks for temperate climates (USDA zones 5-7). Covers plan
 - Transplant basil and tender herbs
 - See [[cucumber-growing-guide]] for trellis setup
 ### Orchard and Maintenance
-- Finish pruning stone fruits before bloom; see [[stone-fruit-tree-care]]
+- Finish pruning stone fruits before bloom; see stone fruit tree care
 - Remove strawberry mulch as growth resumes; apply fungicide sprays
 - Thin seedlings, begin weeding, apply mulch, install row covers on brassicas
 - Set up slug traps

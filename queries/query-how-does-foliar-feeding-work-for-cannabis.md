@@ -106,7 +106,7 @@ in the root zone requires a different approach than foliar supplementation.
 ### Organic Foliar Programs
 
 For organic cannabis growers following methods like those described in
-[[cervantes-organic-growing]], foliar feeding is a natural extension of a biological
+[[cannabis-advanced-growing-techniques]], foliar feeding is a natural extension of a biological
 farming approach. Compost tea foliar sprays deliver beneficial microbes directly to the
 leaf surface, where they can colonize the phyllosphere and help prevent pathogen
 establishment. Aloe vera gel contains saponins that act as natural surfactants while

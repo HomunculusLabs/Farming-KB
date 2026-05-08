@@ -147,5 +147,3 @@ rotationally browsed on pasture, their manure is distributed directly
 ## See Also
 
 - [[mollison-designers-goat-dairy-and-cheese-production]]
-
-- [[mollison-designers-sheep-management-grazing-systems]]

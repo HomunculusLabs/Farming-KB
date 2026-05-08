@@ -133,5 +133,5 @@ date, and grower information.
 - oyster mushroom harvesting post harvest
 - [[mushroom-harvesting-and-post-harvest-handling]]
 - [[mushroom-post-harvest-handling]]
-- [[oyster-mushroom-harvest-techniques]]
+- oyster mushroom harvest techniques
 - [[duggar-mushroom-harvest-and-post-harvest]]

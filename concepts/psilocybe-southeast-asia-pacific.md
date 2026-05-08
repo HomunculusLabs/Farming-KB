@@ -51,7 +51,7 @@ with several documented species:
   represents the northern limit of Psilocybe distribution in East
   Asia.
 
-- **[[gymnopilus-spectabilis]]**: Known in Japan as "O-waraitake" (the
+- **[[gymnopilus-spectabilis-entity]]**: Known in Japan as "O-waraitake" (the
   laughing mushroom), this species has a long history of documented
   use and is widespread in Japanese forests.
 
@@ -148,4 +148,3 @@ undocumented indigenous uses of neurotropic fungi.
 
 - [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- [[biogeography-austral-hemisphere-fungi]]

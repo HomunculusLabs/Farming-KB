@@ -126,7 +126,7 @@ Even pure substrains may show healthy and cottony/fuzzy sectors. Transfer the he
 
 - [[mushroom-agar-media-recipes]] — additional media formulations
 - [[mushroom-agar-work]] — detailed agar work procedures
-- [[mushroom-cultivation-cloning-isolation]] — cloning and isolation
+- [[mushroom-cultivation-fundamentals]] — cloning and isolation
 - [[mushroom-genetics-strain-selection]] — strain selection science
 - [[mushroom-spore-printing-and-storage]] — spore collection and storage
 - [[strain-isolation-from-wild-specimens]]

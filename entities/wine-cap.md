@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Stropharia rugosoannulata** Farlow ex Murrill, commonly known as the wine cap mushroom, burgundy mushroom, or garden giant, is an edible basidiomycete fungus in the family Strophariaceae. Native to temperate regions of Europe and North America, it has gained prominence in permaculture and sustainable agriculture as one of the most accessible and productive mushrooms for outdoor cultivation.
+**[[stropharia-rugosoannulata]]** Farlow ex Murrill, commonly known as the wine cap mushroom, burgundy mushroom, or garden giant, is an edible basidiomycete fungus in the family Strophariaceae. Native to temperate regions of Europe and North America, it has gained prominence in permaculture and sustainable agriculture as one of the most accessible and productive mushrooms for outdoor cultivation.
 
 The wine cap is prized for its large burgundy-to-brown caps, its ability to thrive on simple wood chip substrates with minimal infrastructure, and its role as a biological ally in building healthy soils. It is arguably the single most recommended mushroom species for homesteaders, food forests, and regenerative landscapes.
 
@@ -43,12 +43,12 @@ The wine cap is prized for its large burgundy-to-brown caps, its ability to thri
 - **Gills:** Adnate to adnexed, close to subdistant, initially pale gray becoming purplish-gray to dark brown with spore maturity; partial veil leaves a prominent membranous annulus (ring) on the stipe — the "rugose annulus" referenced in the species epithet
 - **Stipe:** 5–15 cm × 1–3 cm, white to cream, solid, often with a thick, wrinkled ring (annulus) near the apex
 - **Flesh:** White, firm, thick; mild odor and taste
-- **Spore print:** Dark purplish-brown to nearly black
+- **[[spore-print]]:** Dark purplish-brown to nearly black
 - **Spores:** Ellipsoid, smooth, 10–13 × 6–8 μm, with a germ pore
 
 ### Key Identification Features
 
-The combination of a burgundy cap (when young), prominent wrinkled ring, dark spore print, and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *Stropharia hornemannii*, which grows in coniferous forests and has a more orange cap.
+The combination of a burgundy cap (when young), prominent wrinkled ring, dark spore print, and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *[[stropharia-hornemannii]]*, which grows in coniferous forests and has a more orange cap.
 
 ## Distribution and Ecology
 
@@ -76,9 +76,9 @@ Wine cap mycelium actively decomposes lignin and cellulose in wood chips, conver
 - **Improved soil structure:** Mycelial hyphae bind soil particles, improving aggregation and water retention
 - **Nitrogen cycling:** The fungus does not fix nitrogen but accelerates decomposition of woody material, releasing bound nitrogen over time
 - **Suppression of weed seeds:** Dense mycelial mats can inhibit weed seed germination through competitive exclusion
-- **Erosion control:** Established mycelial networks stabilize mulch layers on slopes and berms
+- **Erosion control:** Established [[mycelial-networks]] stabilize mulch layers on slopes and berms
 
-### Companion Planting
+### [[companion-planting]]
 
 Wine caps are compatible with a wide range of garden plants and can be incorporated into:
 
@@ -134,5 +134,5 @@ Emerging research suggests S. rugosoannulata has capacity for:
 ## See Also
 
 - [[query-how-to-grow-wine-cap-mushrooms]]
-- [[wine-cap-stropharia-cultivation]]
+- wine cap stropharia cultivation
 - [[king-stropharia-wine-cap-cultivation]]

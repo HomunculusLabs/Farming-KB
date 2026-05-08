@@ -18,7 +18,7 @@ type: concept
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
 significantly impacts quality of life. According to [[cannabis-for-epilepsy-and-seizure-disorders]]'s Cannabis
-[[cannabis-health-index-scoring]], IBS/inflammatory bowel disease received a CHI value of 8 from 3
+[[cannabis-health-index-scoring-system]], IBS/inflammatory bowel disease received a CHI value of 8 from 3
 studies reviewed, with additional supporting evidence from case reports and
 pre-[[maitake-cancer-clinical-research]].
 

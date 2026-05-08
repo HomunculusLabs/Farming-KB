@@ -16,7 +16,7 @@ through different garden beds each season, preventing soil depletion and
 breaking pest and disease cycles. The [[permaculture-crop-rotation]] approach
 prioritizes following heavy-feeding crops with nitrogen-fixing legumes,
 maintaining living roots in the soil year-round, and protecting
-[[nitrogen-cycle-in-soil]] processes while minimizing disturbance to the
+[[composting-and-soil-biology]] processes while minimizing disturbance to the
 [[soil-food-web]] and its interconnected fungal and bacterial communities.
 
 ## Understanding Crop Families

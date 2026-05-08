@@ -25,7 +25,7 @@ hallucinogens.
 Salvinorin A (C23H28O8) is a trans-neoclerodane diterpenoid,
 structurally unrelated to other known classes of psychoactive
 compounds. Unlike the classical hallucinogens (tryptamines such as
-[[psilocybin]] and DMT, or phenylethylamines such as mescaline),
+[[psilocybin-compound]] and DMT, or phenylethylamines such as mescaline),
 salvinorin A contains no nitrogen atoms in its structure. This makes
 it unique among naturally occurring [[cultural-evolution-and-psychoactive-substances]], which
 almost invariably contain nitrogen as part of an amine or alkaloid
@@ -147,8 +147,3 @@ interest in its potential therapeutic applications:
   mplications for addiction treatment
 - **Consciousness research**: Salvinorin A provides a unique tool for 
   studying the neurobiology of consciousness, particularly the kappa-o
-
-## See Also
-
-- [[salvinorin-a]]
-- [[salvinorin-a-entity]]

@@ -57,7 +57,7 @@ crop. The sooner these crops can be harvested, the sooner the
 growing room can be rotated into another crop cycle.
 
 The rapid cycling of younger batches poses less risk of
-contamination. With [[growing-gourmet-shiitake-cultivation]]
+contamination. With [[shiitake-mushroom-cultivation-and-medicinal-properties]]
 cultivation on supplemented sawdust, flushes typically occur 10-14
 days apart after the first harvest, which comes 25-35 days from
 inoculation.

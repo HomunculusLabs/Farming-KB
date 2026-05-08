@@ -121,5 +121,5 @@ maximum finger hash recovery.
 - [[cervantes-manicuring-trimming-buds]]
 - [[cervantes-hand-rubbed-hash-charas]]
 - [[cervantes-hash-making-extracts]]
-- [[cervantes-harvest-techniques]]
-- [[cervantes-trichome-resin-production]]
+- [[cannabis-advanced-growing-techniques]]
+- [[cannabis-advanced-growing-techniques]]

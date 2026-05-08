@@ -110,7 +110,7 @@ following rainfall.
 
 ## Chemistry
 
-Chemical analysis of Panaeolus cinctulus has confirmed the presence of [[psilocybin]] and
+Chemical analysis of Panaeolus cinctulus has confirmed the presence of [[psilocybin-compound]] and
 [[psilocin]] as the primary psychoactive alkaloids. Reported psilocybin concentrations
 vary considerably between collections, ranging from approximately 0.1% to 0.8% of dry
 weight. The variability likely reflects differences in genetics, substrate, environmental

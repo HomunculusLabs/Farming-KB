@@ -132,24 +132,6 @@ Columbian practices with Catholic saint veneration. A church in Chignahuapan,
 Puebla, was built specifically dedicated to Ganoderma lobatum, decorated with
 an image of Christ flanked by sun and moon, regarded by local indigenous
 people as a saint.
-
-The publication of Wasson's account in Life magazine in 1957 had devastating
-consequences for traditional practices. The influx of counterculture
-tourists seeking mushroom experiences disrupted indigenous communities and
-commercialized what had been sacred traditions. The 1960s saw a degeneration
-of traditional use as recreational drug culture appropriated sacred
-practices, leading many countries to prohibit the use and commerce of
-neurotropic fungi.
-
-## Comparative Global Context
-
-Mexico and New Guinea are the two major centers of documented traditional
-neurotropic mushroom use. The Siberian tradition of Amanita muscaria use
-among Chukchee and Koryak peoples represents a third center. Possible
-traditional use has also been suggested for Africa and Colombia. However,
-Mexico remains the preeminent center in terms of species diversity and
-cultural complexity.
-
 ## See Also
 
 - [[mushroom-foraging-traditions-europe]]

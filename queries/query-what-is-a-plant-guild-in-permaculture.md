@@ -80,7 +80,7 @@ one guild flow into the next. For example, a nitrogen-fixing guild placed upslop
 a fruit tree guild can passively fertilize the lower guild through leaching and leaf
 fall. Similarly, an insectary guild positioned upwind of a vegetable garden can provide
 a steady stream of pollinators and pest predators. This kind of interconnection
-reflects the permaculture principle to [[permaculture-principle-integrate-rather-than-segregate]], ensuring that elements in the landscape support one another
+reflects the permaculture principle to [[permaculture-design-principles]], ensuring that elements in the landscape support one another
 rather than existing in isolation.
 
 Beyond food production, guilds play an important role in building soil health, managing
@@ -126,7 +126,7 @@ their ecological impact and harvest a wider range of yields.
 - Guilds can be scaled up into
   [[super-guild-design-inter-connections]] that link multiple plant
   communities into integrated landscape networks, embodying the principle to
-  [[permaculture-principle-integrate-rather-than-segregate]].
+  [[permaculture-design-principles]].
 - Effective guild design relies on understanding vertical stacking, root zone
   compatibility, and spatial relationships, and benefits from placement at ecological
   edges for maximum productivity and biodiversity.

@@ -473,7 +473,7 @@ the same bed.
 - [[cervantes-powdery-mildew-prevention-treatment]]
 - [[cervantes-downy-mildew-fungal-blight]]
 - [[cervantes-fusarium-vascular-wilt-diseases]]
-- [[cervantes-verticillium-wilt-sooty-mold]]
+- [[cannabis-pest-disease-troubleshooting]]
 - [[jadam-fungal-disease-management]]
 - [[downy-mildew-biology-diversity-peronosporales]]
 - [[biodiversity-rust-fungi-urediniomycetes]]

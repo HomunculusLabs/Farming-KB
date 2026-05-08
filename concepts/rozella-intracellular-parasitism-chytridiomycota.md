@@ -27,7 +27,7 @@ represent an extremely early-diverging lineage of fungi,
 potentially sister to all other fungal phyla, making it
 of exceptional interest for understanding the earliest
 stages of [[fungal-evolution]]. These organisms are part of the
-broader community of [[zoosporic-mycoparasites-aquatic-fungi]].
+broader community of zoosporic mycoparasites aquatic fungi.
 
 ## Taxonomic History and Phylogenetic Position
 

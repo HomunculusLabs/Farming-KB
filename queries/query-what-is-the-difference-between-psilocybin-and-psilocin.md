@@ -25,7 +25,7 @@ magic mushrooms. Psilocybin is a stable prodrug that the body converts into
 psilocin, which is the active compound responsible for the psychedelic effects.
 
 ## Detailed Explanation
-[[psilocybin]] and [[psilocin]] are both indole alkaloids belonging to the
+[[psilocybin-compound]] and [[psilocin]] are both indole alkaloids belonging to the
 tryptamine class of compounds, and they are the primary psychoactive
 constituents found in psilocybin-containing mushrooms. While they are
 chemically similar, they differ in their molecular structure, stability, and
@@ -37,7 +37,7 @@ Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) contains a phosphate group
 attached to its molecular structure, making it more stable and water-soluble
 than psilocin. This phosphate group acts as a protective mechanism in the
 mushroom tissue, allowing the compound to persist without degrading rapidly.
-When dried mushrooms are stored properly, [[psilocybin]] remains relatively
+When dried mushrooms are stored properly, [[psilocybin-compound]] remains relatively
 stable over time, which is why dried specimens retain their potency for months
 or even years when kept in cool, dark conditions.
 
@@ -52,7 +52,7 @@ degrades more quickly when exposed to heat, light, and oxygen.
 When a person ingests psilocybin-containing mushrooms, the body does not
 absorb psilocybin directly in its active form. Instead, enzymes in the gut and
 liver, primarily alkaline phosphatase, cleave the phosphate group from
-[[psilocybin]] to produce [[psilocin]]. This conversion process is why
+[[psilocybin-compound]] to produce [[psilocin]]. This conversion process is why
 psilocybin is considered a prodrug. The onset of effects typically occurs 20
 to 60 minutes after ingestion, corresponding to the time needed for this
 metabolic conversion. Some psilocin may also be present directly in fresh
@@ -99,7 +99,7 @@ different chemical profiles and moisture content.
 ## Key Points
 - Psilocybin is a stable prodrug with a phosphate group; psilocin is the
   active metabolite without it
-- The body converts [[psilocybin]] to [[psilocin]] via alkaline phosphatase
+- The body converts [[psilocybin-compound]] to [[psilocin]] via alkaline phosphatase
   enzymes in the gut and liver
 - Psilocin binds to serotonin 5-HT2A receptors to produce psychedelic effects
 - Psilocybin is more stable for storage; psilocin degrades quickly with heat

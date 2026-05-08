@@ -105,7 +105,7 @@ The effects vary by phenotype from body-focused relaxation to energetic and cere
 making it a versatile option for both recreational and medical users seeking the Chemdawg
 experience with additional therapeutic potential.
 
-### East Coast Sour Diesel
+### East Coast [[sour-diesel]]
 
 Bred by Illuminati Seeds (Inkognyto), this clone-only strain combines Original Diesel and DNL,
 both descended from the Chemdawg line. East Coast Sour Diesel represents a counterpoint to the
@@ -119,7 +119,7 @@ practices.
 ### Sour Diesel #2
 
 Another Humboldt Seed Organisation offering, Sour Diesel #2 brings together Original Diesel and
-DNL. The DNL parent contributes genetics from RFK Skunk, Northern Lights, and Hawaiian Sativa,
+DNL. The DNL parent contributes genetics from RFK Skunk, [[northern-lights]], and Hawaiian Sativa,
 creating a more complex genetic background than the name might suggest. This strain finishes in
 about 9 weeks indoors and produces an earthy, darker take on the classic Diesel flavor profile,
 with supertasters potentially detecting hints of pine.
@@ -135,48 +135,6 @@ Chemdawg-descended strains can provide to dedicated consumers, and the genetics 
 influence new breeding programs.
 
 ### D.T.S. (Down to Smoke)
-
-BillBerry Farms' D.T.S. combines Cheese genetics with Chemdawg lineage, demonstrating how the
-Chemdawg family has been crossed with virtually every other major cannabis family to create new
-and interesting combinations. The blend of Chemdawg potency with Cheese funkiness creates a
-uniquely pungent and powerful experience.
-
-## Growing Characteristics
-
-Chemdawg-descended strains share several common cultivation traits that growers should be aware
-of before attempting to cultivate them:
-
-- **Stretch**: Most exhibit significant stretch when flipped to flowering, requiring careful light
-  management and early training to prevent plants from outgrowing their space
-
-- **Feeding sensitivity**: The lineage is generally intolerant of overfeeding, especially with
-  synthetic nutrients; organic soils are often preferred for best results
-
-- **Odor**: Extremely pungent, fuel-like aromas develop early in flowering, making charcoal
-  filters and proper ventilation absolutely essential for discrete cultivation
-
-- **Flowering time**: Ranges from 8 to 12 weeks depending on the specific cross and growing
-  conditions, with some pure expressions running longer
-
-- **Structure**: Plants tend to be medium to tall with good side branching that benefits from
-  training techniques such as LST and ScrOG
-
-- **Resin production**: Heavy resin production is a hallmark of the lineage, making these
-  strains excellent candidates for hash and concentrate production
-
-## Impact on Modern Breeding
-
-The Chemdawg genetic line has contributed to some of the most commercially successful and
-critically acclaimed cannabis strains of the modern era. Its descendants span multiple family
-trees including Diesel, Kush, Haze, and Cheese, making it one of the most genetically pervasive
-lines in contemporary cannabis. Breeders continue to work with Chemdawg genetics to create new
-hybrids that balance the strain's signature potency and aroma with more manageable growing
-characteristics and shorter flowering times.
-
-The lineage shows no signs of diminishing in importance, as each new generation of breeders
-finds fresh inspiration in those original 13 seeds from a Grateful Dead show. Whether in the
-form of Sour Diesel, ChemDawg itself, or any of the dozens of hybrids that carry its genetic
-legacy, the Chemdawg family remains at the forefront of cannabis genetics.
 
 ## See Also
 

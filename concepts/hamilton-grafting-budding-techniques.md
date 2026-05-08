@@ -17,7 +17,7 @@ type: concept
 # Grafting and Budding Techniques
 
 Grafting and budding are two similar techniques used to put new
-varieties onto existing plants, particularly [[stone-fruit-tree-care]]s and certain
+varieties onto existing plants, particularly stone fruit tree cares and certain
 ornamental plants. They can be used to change a variety, to put a
 variety onto a rootstock, or to put another variety onto a fruit
 tree to provide a pollinator. These skills are among the most

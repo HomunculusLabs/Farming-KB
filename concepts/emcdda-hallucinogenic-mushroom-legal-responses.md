@@ -148,4 +148,3 @@ positive effects and varies considerably in quality.
 
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[emcdda-hallucinogenic-mushroom-health-risks]]

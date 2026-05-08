@@ -148,4 +148,3 @@ When flies are detected during an active crop:
 
 - [[growing-gourmet-pest-management]]
 - [[mushroom-pests-in-cultivation]]
-- [[growing-gourmet-contamination-prevention]]

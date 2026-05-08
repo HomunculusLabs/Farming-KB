@@ -78,7 +78,7 @@ Fukuoka created a hardy rice strain called "Happy Hill" with the blood of wild v
 
 - [[masanobu-fukuoka]]
 - [[four-principles-of-natural-farming]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-white-clover-cover-crop-system]]
 - [[natural-farming-guide-no-till-grain-strategy]]
 - [[green-manure-crops]]

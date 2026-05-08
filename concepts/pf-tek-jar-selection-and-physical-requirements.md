@@ -115,4 +115,4 @@ The 1/2 pint size is essential for the [[pf-tek-steam-sterilization-technique|st
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization|Substrate Jar Preparation]]
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming|Inoculation Without Lids]]
 - [[pf-tek-steam-sterilization-technique|Steam Sterilization Technique]]
-- [[pf-tek-jar-selection-and-physical-requirements|Jar Selection and Physical Requirements]]
+- Jar Selection and Physical Requirements

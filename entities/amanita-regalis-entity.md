@@ -119,7 +119,7 @@ bioindicator of forest soil health in northern European monitoring.
 
 ## See Also
 - [[amanita-muscaria-entity]]
-- [[amanita-regalis-entity]]
-- [[amanita-regalis-entity]]
+- amanita regalis entity
+- amanita regalis entity
 - [[muscimol-entity]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi

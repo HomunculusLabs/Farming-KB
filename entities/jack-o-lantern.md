@@ -140,7 +140,7 @@ The bright orange color and funnel shape lead to frequent misidentification. Cri
 
 ## See Also
 
-- [[jack-o-lantern]] — detailed entry for the North American species
+- jack o lantern — detailed entry for the North American species
 - [[amanita-muscaria]] — another iconic and toxic orange mushroom
 - [[pleurotus-ostreatus]] — edible wood-growing mushroom with similar clustered habit
 - [[psilocybe-cubensis]] — bioluminescence research in psychedelic fungi

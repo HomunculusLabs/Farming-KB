@@ -119,8 +119,8 @@ American anthropologist (1929-2018), founder of the Foundation for Shamanic Stud
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-hallucinogens-european-witchcraft]]
 
-- [[harner-peyote-and-apache-shamanism]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
-- [[harner-psilocybin-mushroom-cultures-mesoamerica]]
+- [[ethnomycology]]
+- [[ethnomycology]]
+- [[mushroom-cultivation-fundamentals]]
 - [[harner-shamanic-journey-and-altered-states]]
-- [[harner-siberian-shamanism-and-amanita]]
+- [[ethnomycology]]

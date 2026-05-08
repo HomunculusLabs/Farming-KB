@@ -139,44 +139,6 @@ but the elimination of plant diversity that grazing pressure produced.
 Despite its appearance of technological sophistication, Fukuoka considered
 American agriculture to be "extremely crude, primitive agriculture." The crops
 are not raised by the forces of nature but are processed with petroleum energy.
-The farmers use modern machinery, pesticides, and airplanes, yet they live a
-plain, simple life eating food of poor quality.
-
-They plow fields a hundred times larger but live a more meager and deprived
-existence than the Japanese farmer on two or three acres. They grow hundreds of
-acres but are not self-sufficient, even in basic vegetables. The trading
-companies and middlemen make large profits exporting fruit juices and other
-products, but the farmers themselves practice agriculture with a very humble
-spirit.
-
-What appears to be modern agriculture is in fact farming based on petroleum
-energy. Petroleum-based fertilizers nourish the crops, petroleum-powered
-machines harvest them, and petroleum-pumped water irrigates them. Fukuoka
-considered this not farming at all but the mining of soil fertility using fossil
-fuels as the extraction tool. The entire system was built on borrowed energy and
-borrowed fertility, with no mechanism for replenishing what it consumed.
-
-## Contrast with Natural Farming
-
-Fukuoka's natural farming represents the antithesis of the monoculture model.
-Rather than growing one crop across vast areas, his orchards feature fruit trees
-interspersed with semi-wild vegetables growing beneath them, all in a self-
-sustaining ecosystem that requires no chemical inputs, tillage, or irrigation.
-
-The key principle is diversity: many species growing together maintain soil
-fertility through complementary root systems, varied organic matter inputs, and
-a balanced microbial community. When spring arrives at his farm, the cherry,
-plum, peach, and pear trees in his orchard and the semi-wild vegetables growing
-beneath them all break out into bloom, mixing with the green of the foliage.
-Visitors call this an Eden, a paradise on Earth.
-
-The practical lesson from his American observations was that the monoculture-
-meat complex creates an agriculture that is simultaneously destructive of the
-land and unrewarding for the farmer. The only sustainable path forward involves
-returning to diverse, nature-integrated food production systems where soil
-fertility is maintained through biological processes rather than petroleum
-inputs.
-
 ## See Also
 
 - [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]] for irrigation critique

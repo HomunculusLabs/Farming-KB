@@ -139,25 +139,6 @@ sources: [raw/papers/psilocybin-synthesis-shirota.md]
    130|3. Lithium aluminum hydride reduction in THF under argon to psilocin in over
    131|   85 percent yield
    132|
-   133|Each intermediate was crystalline and isolated by filtration without
-   134|chromatography. The overall route from 4-hydroxyindole to psilocin was
-   135|designed to avoid column chromatography at every stage.
-   136|
-   137|## Spectroscopic Characterization of Products
-   138|
-   139|The paper provides complete spectroscopic data for both compounds. Psilocybin
-   140|was characterized by melting point (190 to 198 degrees Celsius, matching
-   141|literature values of 185 to 195 and 210 to 212 degrees Celsius), UV
-   142|spectroscopy with maxima at 221.0, 267.5, 278.5, and 290.0 nm in methanol, IR
-   143|spectroscopy with characteristic bands at 3266 and 1620 cm-1, proton and
-   144|carbon-13 NMR in D2O, phosphorus-31 NMR at delta P minus 4.48, and high-
-   145|resolution electrospray mass spectrometry confirming the molecular formula
-   146|C12H18N2O4P.
-   147|
-   148|Psilocin was characterized similarly with melting point 169 to 174 degrees
-   149|Celsius (decomposing), UV maxima at 222.5, 268.0, 284.5, and 294.0 nm, and
-   150|HRESIMS confirming C12H17N2O. The proton NMR in CDCl3 showed characteristic
-
 ## See Also
 
 - [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]

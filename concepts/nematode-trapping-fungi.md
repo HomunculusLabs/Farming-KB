@@ -72,7 +72,7 @@ These dynamic gene expression patterns underscore the sophistication of [[fungal
 
 ## Biological Control Applications
 
-Nematode-trapping fungi have been investigated as biological control agents against both plant-parasitic nematodes (Larsen 2000) and animal parasitic nematodes. Species such as *Arthrobotrys oligospora* and *Paecilomyces lilacinus* have shown promise in greenhouse and field trials for [[nematode-management]]. DNA microarray resources and emerging genomic tools can enhance biocontrol potential by identifying pathogenicity-enhancing genes for targeted genetic engineering, improving the efficacy of [[fungal-biopesticides]] and [[mycopesticides-fungal-biocontrol]] formulations.
+Nematode-trapping fungi have been investigated as biological control agents against both plant-parasitic nematodes (Larsen 2000) and animal parasitic nematodes. Species such as *Arthrobotrys oligospora* and *Paecilomyces lilacinus* have shown promise in greenhouse and field trials for [[nematode-management]]. DNA microarray resources and emerging genomic tools can enhance biocontrol potential by identifying pathogenicity-enhancing genes for targeted genetic engineering, improving the efficacy of [[fungal-biopesticides]] and [[mushroom-cultivation-fundamentals]] formulations.
 
 Integration of nematode-trapping fungi into integrated pest management programs offers a sustainable alternative to chemical nematicides, though consistent field-level efficacy remains a challenge due to variable environmental conditions. Soil temperature, moisture, and organic matter content all influence trap formation and predation rates.
 
@@ -147,5 +147,3 @@ Antibiotics, nematode-trapping devices, and competitive growth strategies all co
 The medical exploitation of fungal antibiotics represents one of the most consequential applications of basic mycological knowledge. Fleming's accidental discovery of penicillin's antibacterial properties launched an era of antibiotic therapy that has saved hundreds of millions of lives.
 
 Yet the compounds that save human lives were evolved for entirely different purposes -- purposes that continue to play out invisibly in every handful of garden soil. Understanding the ecological context of antibiotic production helps explain why antibiotic resistance evolves so readily: bacteria have been competing with antibiotic-producing fungi for millions of years.
-
-## Further Reading and References

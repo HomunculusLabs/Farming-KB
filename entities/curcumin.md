@@ -148,5 +148,3 @@ curcumin bioavailability synergy).
 
 - [[curcuma-longa]] — the turmeric plant source of curcuminoids
 - [[piperine]] — alkaloid that enhances curcumin bioavailability by 2,000%
-- gingerol — related ginger phenolic compound with overlapping anti-inflammatory mechanisms
-- nf kb — primary transcription factor inhibited by curcumin

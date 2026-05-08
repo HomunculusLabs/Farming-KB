@@ -122,6 +122,6 @@ activity, though none have advanced beyond preclinical evaluation.
 ## See Also
 
 - [[pleurotin]] — Fungal sesquiterpene with thioredoxin reductase inhibition
-- [[psilocybin]] — Fungal indole alkaloid from psychoactive mushroom species
+- [[psilocybin-compound]] — Fungal indole alkaloid from psychoactive mushroom species
 - [[ergosterol]] — Principal sterol component of fungal cell membranes
 - [[aflatoxin]] — Potent mycotoxin from *Aspergillus* species

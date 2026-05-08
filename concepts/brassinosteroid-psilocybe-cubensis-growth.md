@@ -12,12 +12,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[Gartz, Adam & Vorbrodt 1990 - Growth Promoting Effect of a Brassinosteroid in Mycelial Cultures of Psilocybe cubensis]]"
+  - "Gartz, Adam & Vorbrodt 1990 - Growth Promoting Effect of a Brassinosteroid in Mycelial Cultures of Psilocybe cubensis"
 created: 2026-05-07
 type: concept
 ---
 
-# Brassinosteroid Growth Promotion in Psilocybe cubensis
+# Brassinosteroid Growth Promotion in [[psilocybe-cubensis]]
 
 ## Overview
 
@@ -87,11 +87,11 @@ This trend was observed across the five flushes monitored during the fructificat
 
 Total dry mass yield per unit substrate was significantly higher in treated cultures: 3.4 to 3.9 g per 10 g of substrate, compared to 2.3 to 2.9 g in the control.
 
-This represents an approximately 35 to 50% increase in biological efficiency, a metric of considerable importance for commercial cultivation where substrate cost and yield per unit area are primary economic factors.
+This represents an approximately 35 to 50% increase in [[biological-efficiency]], a metric of considerable importance for commercial cultivation where substrate cost and yield per unit area are primary economic factors.
 
 ### Reduction of Abnormalities
 
-Incomplete fruit bodies, which are commonly encountered in mushroom cultivation and represent a source of yield loss, were almost completely suppressed by brassinosteroid treatment.
+Incomplete fruit bodies, which are commonly encountered in [[mushroom-cultivation]] and represent a source of yield loss, were almost completely suppressed by brassinosteroid treatment.
 
 This suggests that the compound promotes more uniform and complete fruit body development, possibly by enhancing the coordination of the morphogenetic program that governs sporocarp formation.
 
@@ -142,11 +142,9 @@ Key questions raised by this work include:
 - Whether the growth-promoting effect is mediated through conserved sterol receptors
 - What the optimal dosing regimen is across different cultivation conditions
 - Whether effects are additive or synergistic with other growth supplements
-- Whether the effect extends to other cultivated mushroom species such as *Pleurotus ostreatus*, *Agaricus bisporus*, or *Ganoderma lucidum*
+- Whether the effect extends to other cultivated mushroom species such as *[[pleurotus-ostreatus]]*, *[[agaricus-bisporus]]*, or *Ganoderma lucidum*
 - Whether the annulus loss represents a fundamental alteration of developmental pathways or a secondary effect of accelerated growth
 
 ## See Also
 
 - [[fungal-growth-dynamics]]
-- [[mushroom-cultivation-methods]]
-- [[brassinosteroids-phytohormones-fungal-growth-promotion]]

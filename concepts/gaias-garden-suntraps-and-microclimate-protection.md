@@ -49,7 +49,7 @@ on the east and west allow seasonal sun penetration.
 Garden beds themselves can be pointed south to create a suntrap. Edges
 of garden beds and rows of shrubs and trees can be sculpted into
 undulating shapes that contain cooler, windier lobes and protected,
-warm bays. This relates directly to the [[gaias-garden-edge-effect]]
+warm bays. This relates directly to the gaias garden edge effect
 principle.
 
 ## Frost Protection Strategies
@@ -143,7 +143,7 @@ every element performs multiple functions.
 ## See Also
 
 - [[gaias-garden-microclimates]]
-- [[gaias-garden-edge-effect]]
+- gaias garden edge effect
 - [[gaias-garden-hedgerows-and-windbreaks]]
 - [[gaias-garden-food-forest-layers]]
 - [[ecological-gardening-principles]]

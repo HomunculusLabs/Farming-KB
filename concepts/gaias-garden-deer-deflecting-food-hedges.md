@@ -148,4 +148,3 @@ single planting creates more resilient and productive gardens.
   mineral accumulators
 - [[gaias-garden-fortress-plants-weed-barriers]] for barrier planting strategies
 - [[deer-fencing-and-deterrents]] for additional deer management approaches
-- [[holzer-deer-browsing-protection]] for Sepp Holzer's deer defense methods

@@ -148,5 +148,3 @@ START: What is your USDA hardiness zone?
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest|Nut Tree Cultivation for Permaculture Food Forests]]
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems|Agroforestry and Alley Cropping]]
-- [[agroforestry]]
-- [[dynamic-accumulators]]

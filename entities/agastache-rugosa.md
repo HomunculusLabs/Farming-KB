@@ -148,5 +148,3 @@ Three chemotypes: estragole-dominant (most common), menthone-dominant
 - [[ocimum-basilicum]] — Culinary herb with overlapping anise-like aroma
 - [[perilla-frutescens]] — Related Lamiaceae herb used in Korean cuisine
 - [[mentha-piperita]] — Peppermint, with overlapping menthone and GI indications
-- [[rosmarinus-officinalis-entity]] — Source of shared bioactive rosmarinic acid
-- [[leonurus-cardiaca]] — Lamiaceae medicinal herb with cardiac applications

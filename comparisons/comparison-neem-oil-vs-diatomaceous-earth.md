@@ -148,5 +148,3 @@ potassium bicarbonate prevents pest resistance from developing over time.
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]
-
-- [[comparison-vermicomposting-vs-leaf-mold]]

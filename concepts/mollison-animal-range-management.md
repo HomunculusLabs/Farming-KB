@@ -102,4 +102,4 @@ Mollison provides detailed guidance on integrating domestic and wild animals int
 - trophic efficiency in food systems
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[free-range-poultry-forage-design-mollison]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]

@@ -25,7 +25,7 @@ solid materials form the retaining walls of the spiral, and the structure is fil
 with well-draining soil and organic matter. The result is a three-dimensional garden
 that packs a tremendous amount of diversity into a space as small as one to two
 square meters. The concept was popularized by Bill Mollison and later featured
-prominently in Toby Hemenway's work; see [[gaias-garden-herb-spiral-and-natural-patterns]]
+prominently in Toby Hemenway's work; see gaias garden herb spiral and natural patterns
 for a detailed discussion of the natural patterns that inspired this design.
 
 The genius of the herb spiral lies in its ability to create distinct microclimates

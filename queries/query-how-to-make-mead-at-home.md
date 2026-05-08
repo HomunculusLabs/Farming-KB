@@ -110,4 +110,4 @@ carbonation through a secondary fermentation in the bottle.
 ## Related Questions
 - [[beer-brewing-basics]]
 - [[kimchi-making]]
-- [[kombucha-brewing]]
+- kombucha brewing

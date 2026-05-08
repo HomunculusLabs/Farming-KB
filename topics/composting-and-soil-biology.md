@@ -358,7 +358,7 @@ mycorrhizal colonization and improve plant access to soil nutrients and water.
 
 ## See Also
 
-[[compost-biology-organisms]] [[compost-chemistry-soil-food-web]]
+[[compost-biology-organisms]] [[composting-and-soil-biology]]
 [[compost-biology-soil-food-web-inoculation]]
 [[aact-definitions-and-types-ingham]] [[bokashi-composting]]
 [[fungal-soil-food-web]] [[actinomycetes-soil-biology]]
@@ -375,3 +375,30 @@ mycorrhizal colonization and improve plant access to soil nutrients and water.
   revised ed., 1992.
 - Naylor, L. The Compost Specialist. Crowood Press, 2010.
 - Ellis, D. and Bradley, B. The Worm Farmer's Handbook. Chelsea Green, 2018.
+## Compost Chemistry Soil Food Web
+
+# Compost Chemistry and the Soil Food Web Composting is the controlled biological decomposition of organic materials into a stable, humus-rich product. Understanding the chemistry and biology of compost is fundamental to organic gardening and sustainable soil management. ## The Composting Process **Mesophilic Phase (Room Temperature to ~40C)** - In ## Practical Context Compost Chemistry And The Soil Food Web is relevant to farming knowledge because it connects observation, site conditions, and management choices. Treat it as a working topic rather than a standalone label: the useful questions are where it appears, what conditions make it stronger or weaker, and how it changes decisions in the field. ## Field Indicators Look for repeated patterns across seasons instead of relying on a single observation. ...
+
+## Nitrogen Cycle in Soil
+
+# Nitrogen Cycle in Soil ## Overview The nitrogen cycle is one of the most important systems in terrestrial life. Atmospheric nitrogen (N2) makes up 78 percent of the atmosphere, but the strong triple covalent bonds holding nitrogen molecules together make it inert and unavailable to plants. For plants to use nitrogen, it must be "fixed" -- combined with oxygen or hydrogen to produce ammonium (NH4+), nitrate (NO3-), or nitrite (NO2-) ions. ## Nitrogen Fixation Certain bacteria convert atmospheric nitrogen into plant-available forms: - **Free-living bacteria**: Azotobacter, Azospirillum, and Clostridium live free in the soil and fix nitrogen independently - **Symbiotic bacteria**: Rhizobium species live in root tissues of legumes, forming visible nodules where they fix nitrogen in exchange for carbohydrates from the plant These processes are biological, not just chemical. The nitrogen-fixing bacteria operate best at warmer temperatures and at a pH above 7, with their numbers diminishing as soil becomes more acidic. ...
+
+## No-Till Benefits
+
+# No-Till Benefits Updated: 2026-04-18 Tillage -- particularly rototilling -- is one of the most destructive practices a gardener can inflict on the [[lowenfels-earthworms-soil-food-web]]. The soil food web approach to gardening explicitly avoids mechanical tilling, relying instead on the natural processes of soil organisms to maintain soil structure, cycle nutrients, and suppor ## Practical Context No Till Benefits is relevant to farming knowledge because it connects observation, site conditions, and management choices. Treat it as a working topic rather than a standalone label: the useful questions are where it appears, what conditions make it stronger or weaker, and how it changes decisions in the field. ## Field Indicators Look for repeated patterns across seasons instead of relying on a single observation. Useful indicators include substrate or soil condition, moisture availability, disturbance history, plant or fungal associates, and the timing of visible changes. ...
+
+## No-Till Gardening Method
+
+# No-Till Gardening Method No-till gardening is a cultivation approach that avoids turning, plowing, or inverting the soil. Instead of disturbing the soil profile, organic matter is added to the surface as mulch, and soil biology is relied upon to incorporate nutrients downward. This method preserves the complex soil ecosystem — fungal hyphae, bacterial colonies, earthworm tunnels, and root networks — that conventional tilling destroys in a single pass. The approach draws from [[masanobu-fukuoka]]'s natural farming philosophy and has been validated by modern soil science, particularly the research documented in [[lowenfels-soil-food-web-overview]]. ## Soil Biology and the Fungal Network Tilling physically severs fungal hyphae and disrupts the mycorrhizal networks that connect plants and facilitate nutrient exchange. ...
+
+## Nutrient Retention in the Soil Food Web
+
+## The Problem of Nutrient Leaching In conventional agriculture, nutrients applied as soluble fertilizers are highly susceptible to leaching — washing through the soil profile below the root zone and into groundwater or waterways. This represents an enormous economic loss for farmers and a major environmental problem (eutrophication of water bodies, dead zones in coastal waters, contamination of drinking water). The [[fungal-soil-food-web]] offers a biological solution: in healthy soil ecosystems, nutrients are captured and retained within living organisms and their byproducts, cycling through trophic levels rather than flushing through the soil profile. ## The Nutrient Retention Mechanism The soil food web retains nutrients through a process called the microbial loop. When organic matter decomposes, nutrients are released in inorganic forms (ammonium, nitrate, phosphate). ...
+
+## Trace Elements in Soil
+
+# Trace Elements in Soil ## Overview Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky organic matter. ## The Alkalinity Problem The primary cause of trace element deficiency is not absence of the element but rather inhibition of its availability by alkaline (limy) soil. Iron, manganese, and boron are particularly affected. ...
+
+## Wormery Construction
+
+# Wormery Construction ## Overview A wormery is a managed system for producing [[vermicomposting]] by housing composting worms (typically red worms / nightcrawlers, *Lumbricus terrestris*) in a purpose-built container. Worms dramatically speed up decomposition and produce a superior soil conditioner and fertilizer compared to conventional composting. ## How Worms Improve Soil Worms feed on organic matter and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. ...

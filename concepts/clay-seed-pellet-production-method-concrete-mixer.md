@@ -148,5 +148,3 @@ dry and absorbing moisture when wet. This responsiveness means the pellets
 - [[clay-seed-balls-tsuchi-dango]]
 - [[clay-pellet-desert-revegetation]]
 - [[fukuoka-green-belt-projects]]
-- [[desert-revegetation]]
-- aerial seeding

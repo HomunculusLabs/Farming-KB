@@ -28,7 +28,7 @@ A single petri dish two-thirds covered with mycelium should amply inoculate six 
 
 Before conducting transfers, the inoculation environment must be thoroughly cleaned. The cultivator's body is a major contamination source, carrying bacteria, microscopic mites, and spores of plants and fungi. Wearing newly laundered clothes and maintaining personal cleanliness is essential.
 
-All tools should be flame-sterilized immediately before use. See [[mushroom-cultivation-sterile-technique]] for comprehensive sterile workspace preparation and [[contamination-identification-prevention]] for contamination awareness.
+All tools should be flame-sterilized immediately before use. See [[mushroom-cultivation-fundamentals]] for comprehensive sterile workspace preparation and [[contamination-identification-prevention]] for contamination awareness.
 
 ## Standard Single Wedge Transfer
 
@@ -90,7 +90,7 @@ Modern cultivators sometimes substitute or supplement wedge transfers with [[mus
 
 - [[agar-culture-techniques-detailed]] for source culture preparation
 
-- [[mushroom-cultivation-sterile-technique]] for workspace and personal contamination control
+- [[mushroom-cultivation-fundamentals]] for workspace and personal contamination control
 
 - [[contamination-identification-prevention]] for contamination awareness
 

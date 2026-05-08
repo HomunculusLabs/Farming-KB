@@ -23,7 +23,7 @@ created: 2026-05-07
 
 # Chicken of the Woods
 
-Chicken of the Woods (*Laetiporus sulphureus*) is a bracket fungus (polypore) in the family Fomitopsidaceae, widely recognized as one of the most popular edible wild mushrooms in North America and Europe. Its common name derives from the texture and flavor of young specimens, which are often compared to chicken when cooked. The fungus is a brown-rot pathogen that causes heartwood decay in standing hardwood trees, producing large, strikingly colored fruiting bodies that are among the most conspicuous mushrooms in temperate forests. The genus name *Laetiporus* comes from Latin *laetitus* (joyful) + *porus* (pore), referring to the bright golden-orange appearance.
+Chicken of the Woods (*[[laetiporus-sulphureus-permaculture]]*) is a bracket fungus (polypore) in the family Fomitopsidaceae, widely recognized as one of the most popular edible wild mushrooms in North America and Europe. Its common name derives from the texture and flavor of young specimens, which are often compared to chicken when cooked. The fungus is a brown-rot pathogen that causes heartwood decay in standing hardwood trees, producing large, strikingly colored fruiting bodies that are among the most conspicuous mushrooms in temperate forests. The genus name *Laetiporus* comes from Latin *laetitus* (joyful) + *porus* (pore), referring to the bright golden-orange appearance.
 
 ## Taxonomy
 
@@ -56,7 +56,7 @@ These species differ in host preference, geographic range, spore dimensions, and
 - **Upper surface (pileus)**: Bright orange to orange-red when young, fading to yellow then white with age; smooth to finely velvety; concentrically zonate
 - **Pore surface**: Bright yellow to sulfur-yellow; pores angular to hexagonal, 2–4 per mm
 - **Context (flesh)**: Soft, succulent, watery when young; white to pale yellow; exudes clear watery liquid when cut
-- **Spore print**: White
+- **[[spore-print]]**: White
 - **Spores**: Ellipsoid, smooth, 5–7 × 3.5–5 µm
 - **Odor**: Pleasant, fungal; sometimes described as fruity or like chicken when cooking
 - **Taste**: Mild, acidic when raw
@@ -80,8 +80,8 @@ Brown-rot fungi like *Laetiporus* are among the most efficient decomposers of wo
 ### Primary Host Species
 
 - **Eastern North America**: Oak (*Quercus* spp.) — primary host; also cherry (*Prunus*), walnut (*Juglans*), beech (*Fagus*), willow (*Salix*), ash (*Fraxinus*), locust (*Robinia*), and mulberry (*Morus*)
-- **Western North America**: Oak, eucalyptus (*Eucalyptus*), Douglas-fir (*Pseudotsuga*), hemlock (*Tsuga*)
-- **Europe**: Primarily oak (*Quercus robur*, *Q. petraea*); occasionally yew (*Taxus baccata*), sweet chestnut (*Castanea sativa*), and walnut
+- **Western North America**: Oak, eucalyptus (*Eucalyptus*), [[douglas-fir]] (*Pseudotsuga*), hemlock (*Tsuga*)
+- **Europe**: Primarily oak (*[[quercus-robur]]*, *Q. petraea*); occasionally yew (*[[taxus-baccata]]*), sweet chestnut (*Castanea sativa*), and walnut
 
 ### Forest Impact
 
@@ -140,24 +140,6 @@ Young, actively growing specimens of *Laetiporus* are widely regarded as excelle
 ## Permaculture and Cultivation
 
 ### Ecological Role in Food Forests
-
-In permaculture systems, *Laetiporus* can be managed as a dual-purpose element:
-
-- **Food production**: Managed logs or inoculated stumps can provide reliable annual mushroom harvests
-- **Accelerated decomposition**: Brown-rot activity rapidly breaks down hardwood logs and branches, releasing nutrients for understory plants
-- **Wildlife habitat**: Decayed wood cavities created by the fungus provide nesting sites for birds and refugia for insects
-
-### Cultivation
-
-*Laetiporus* can be cultivated using similar methods to shiitake and oyster mushrooms:
-
-- **Substrate**: Hardwood logs (oak preferred) or supplemented sawdust blocks
-- **Inoculation**: Plug spawn or sawdust spawn inserted into drilled holes in freshly cut logs
-- **Colonization**: 6–18 months for full colonization, depending on log size and species
-- **Fruiting**: Natural or forced fruiting by soaking logs; typically fruits in late summer to autumn
-- **Yield**: Variable; 0.5–2 kg per log over a 3–5 year productive lifespan
-
-Commercial cultivation remains limited compared to shiitake and oyster mushrooms due to slower colonization and less reliable fruiting, but interest is growing among specialty mushroom growers and permaculture practitioners.
 
 ## See Also
 

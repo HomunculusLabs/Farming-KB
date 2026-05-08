@@ -40,7 +40,7 @@ He points out that labelling an experience in order to explain it away is to avo
 
 Powell champions the value of direct experiential knowledge gained through [[turner-psilocybin-mushroom-experience-guide]]. He argues that native cultures have managed to "tame" psychedelics through a learned appreciation of their scope of effect, and that such cultures have acquired a wealth of supra-mundane knowledge in the process. This knowledge is not accessible through third-person scientific observation alone.
 
-The [[entheogenic-symbiosis-and-gaian-mind]] provides first-person data about the nature of consciousness and reality that simply cannot be obtained through conventional scientific methods. Powell suggests that this data is at least as valid as any other form of empirical evidence, and that ignoring it represents a failure of scientific method rather than a mark of scientific rigour.
+The [[ethnomycology]] provides first-person data about the nature of consciousness and reality that simply cannot be obtained through conventional scientific methods. Powell suggests that this data is at least as valid as any other form of empirical evidence, and that ignoring it represents a failure of scientific method rather than a mark of scientific rigour.
 
 ## Toward a New Discipline
 

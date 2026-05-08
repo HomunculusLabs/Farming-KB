@@ -92,6 +92,6 @@ species demonstrates how traditional Chinese medicine applications
 can be validated through modern pharmacological research.
 
 ## See Also
-- [[tremella-fuciformis]]
+- [[tremella-fuciformis-entity]]
 - [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]

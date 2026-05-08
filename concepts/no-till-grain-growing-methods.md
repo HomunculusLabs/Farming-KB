@@ -12,7 +12,6 @@ sources:
 
 The Fukuoka no-till grain system grows grain and legumes together continuously without plowing, fertilizing, or weeding. A farmer eating a 2,000-calorie diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a quarter acre. Using animals for labor requires at least 5x more calories; a tractor requires at least 10x more.
 
-
 ## Land Efficiency Comparison
 
 To keep one human alive entirely on one food:
@@ -21,7 +20,6 @@ To keep one human alive entirely on one food:
 - 13,500 square feet of dairy farming
 - 36,000 square feet of pigs
 - 90,000 square feet of beef
-
 
 ## Rice Paddy Setup
 
@@ -33,11 +31,9 @@ To keep one human alive entirely on one food:
 ### Cold Climates
 Use shorter cycles: spring wheat planted in spring with oats or barley as winter crop. Can also experiment with squash, melons, tomato, cotton, vetch, or sunflowers as no-till crops.
 
-
 ## Weed Control Perimeter
 
 On the outer perimeter of grain fields, grow a band of weed-control plants such as [[comfrey-multifunctional-guild-plant]], lemongrass, or citrus. Mulch with sawdust for extra protection. Dry rice species exist that survive on monsoon rains alone if a paddy is not possible.
-
 
 ## The Four Principles of Natural Farming
 
@@ -47,7 +43,6 @@ On the outer perimeter of grain fields, grow a band of weed-control plants such 
 4. No pesticides
 
 The soil is aerated and loosened by natural means only. If a weed is not harming the desired plant, there is no reason to pull it.
-
 
 ## No-Till Grain Strategy (Step by Step)
 
@@ -71,11 +66,9 @@ The soil is aerated and loosened by natural means only. If a weed is not harming
 
 10. **Rotation**: Always keep field at least half rice. Prepare fall grain seeds. Plant a different grain each year than the previous year.
 
-
 ## Labor Requirements
 
 Total labor: approximately 1-2 hours per quarter acre for sowing. The system requires minimal ongoing maintenance compared to conventional grain farming.
-
 
 ## Grain Stages Before Harvest
 

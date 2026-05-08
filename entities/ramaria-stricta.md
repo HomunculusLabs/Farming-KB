@@ -147,8 +147,4 @@ ornamentation.
 
 - [[ramaria-formosa]]
 
-- [[boletus-edulis]] — Ectomycorrhizal associate of the same temperate
-  forest types where *R. stricta* occurs as a saprotroph.
-- [[cantharellus-cibarius]] — Forest-floor fungus found in similar
-  temperate woodland habitats across the Northern Hemisphere.
-- [[ramaria-botrytis]]
+- [[boletus-edulis-entity]] — Ectomycorrhizal associate of the same temperate

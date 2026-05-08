@@ -105,7 +105,7 @@ The golden rule is to develop the nearest area first, get it under control, and 
 ## Related
 
 - [[fukuoka-vegetable-growing-natural-method]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 - [[permaculture-principle-design-from-patterns-to-details]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-weed-diversity-soil-nutrients]]

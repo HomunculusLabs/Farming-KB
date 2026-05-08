@@ -148,4 +148,3 @@ after a few times.
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]

@@ -128,10 +128,10 @@ Assessment of soil capacity for dams, swales, foundations, or specific crops may
 
 [[permaculture-sheet-mulch-detailed-guide]]
 
-[[permaculture-woody-mulch-systems]]
+[[permaculture-design]]
 
 [[mollison-mulching-and-soil-health]]
 
-[[no-till-gardening-method]]
+[[composting-and-soil-biology]]
 
 [[fukuoka-soil-building-method]]

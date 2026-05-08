@@ -10,7 +10,7 @@ tags: [cultivation, history, mushroom-cultivation]
 
 # McKenna on Mushroom Cultivation History
 
-In [Food of the Gods, [[terence-mckenna-stoned-ape-hypothesis]]
+In [Food of the Gods, [[psychedelic-mushrooms-species-and-identification]]
 traces the history of human interaction with psychedelic mushrooms from
 prehistoric foraging through the modern era of deliberate cultivation. The
 narrative connects ancient mushroom religion to the [discovery and rediscovery of psilocybin mushrooms and the eventual democratization

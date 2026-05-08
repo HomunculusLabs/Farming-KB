@@ -140,7 +140,7 @@ expression of its color, aroma, and potency:
 
 - [[cannabis-terpene-profile]]
 - [[cannabis-terpene-profiles]]
-- [[durban-poison]]
+- [[cannabis-indoor-growing-guide]]
 
 - Cherry Pie (cannabis strain)
 - Tangie (cannabis strain)

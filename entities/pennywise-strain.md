@@ -145,5 +145,5 @@ other.
 Pennywise. [[sour-tsunami]] represents another approach to high-CBD
 breeding with different parent genetics. [[cannabidiol-cbd]] covers
 the pharmacology of the compound that defines this strain's medical
-utility. [[jack-herer-entity]] shares lineage through Jack the
+utility. [[jack-herer]] shares lineage through Jack the
 Ripper's genetic background in modern breeding programs.

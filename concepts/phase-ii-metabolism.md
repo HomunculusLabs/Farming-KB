@@ -148,4 +148,3 @@ biotransformation, and review literature on UGT, SULT, GST, NAT, and transporter
 - [[reactive-metabolites-and-bioactivation-toxicology]]
 - [[glucuronidation]]
 - [[glutathione-biochemistry-and-redox-biology]]
-- [[cytochrome-p450-enzyme-system]]

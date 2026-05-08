@@ -148,4 +148,3 @@ The recommended progression of control measures:
 - [[cervantes-biological-pest-control-predators]] - predators
 - [[cervantes-whitefly-pest-control]] - related sap-sucking pest
 - [[cervantes-thrips-pest-control]] - another common foliar pest
-- [[cervantes-humidity-control-dehumidification]] - environmental

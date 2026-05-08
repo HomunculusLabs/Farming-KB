@@ -143,9 +143,8 @@ identification, as many Mycena species require close study of spore morphology
 - [[mycena-cyanorrhiza]] — a Mycena species known to contain psilocybin
 - [[mycena-purpureofusca]] — another Mycena species with reported bioactive compounds
 - biotryptamine — the primary indole compound found in this species
-- [[psilocybin]] — the fully elaborated tryptamine compound found in related fungal
+- [[psilocybin-compound]] — the fully elaborated tryptamine compound found in related fungal
 
 ## See Also
 
 - [[mycena-interrupta]]
-- [[mycena-chlorophos]]

@@ -148,5 +148,3 @@ accessible online, raising enforcement challenges.
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
-- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]

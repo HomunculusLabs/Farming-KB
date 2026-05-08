@@ -15,7 +15,7 @@ sources:
 ---
 # Mycena cyanorrhiza
 **Mycena cyanorrhiza** is a small, distinctive mushroom in the family
-Mycenaceae confirmed to contain [[psilocybin]] and [[psilocin]]. It is
+Mycenaceae confirmed to contain [[psilocybin-compound]] and [[psilocin]]. It is
 notable among the genus Mycena for its pronounced bluing reaction when
 bruised, making it one of the more easily recognized psychoactive members of
 this large and diverse genus. The species was first described from North America
@@ -87,7 +87,7 @@ rainforests and montane coniferous forests. It prefers well-decayed wood that
 has begun to soften. Fruiting occurs from late summer through winter during
 cool, wet weather.
 ## Chemistry and Bioactive Compounds
-M. cyanorrhiza has been confirmed to contain both [[psilocybin]] and
+M. cyanorrhiza has been confirmed to contain both [[psilocybin-compound]] and
 [[psilocin]] through TLC, GC-MS, and advanced chromatographic techniques. The
 species is notable for the intensity of its bluing reaction, among the most
 pronounced of any Mycena species, suggesting relatively high psilocin
@@ -117,7 +117,7 @@ that identification and enforcement would be extremely difficult in practice.
 - [[mycena-purpureofusca]]
 - [[mycena-purpureofusca]] — another psilocybin-containing Mycena species
 - [[mycena-galopus]] — a common Mycena with disputed psychoactive status
-- [[psilocybin]] — the primary psychoactive compound
+- [[psilocybin-compound]] — the primary psychoactive compound
 - [[psilocin]] — the dephosphorylated active metabolite responsible for bluing
 - Mycenaceae — the family containing Mycena and related genera
 - [[psilocybe-cyanescens]] — a more commonly encountered and potent bluing species

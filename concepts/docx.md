@@ -93,6 +93,6 @@ services.
 
 - [[office-open-xml]] — The broader OOXML standard
 - [[microsoft-word]] — Primary application for DOCX files
-- [[ole2-compound-binary-file-format]] — File format concepts
+- ole2 compound binary file format — File format concepts
 - xml — XML markup fundamentals
 - rich text format — Earlier cross-platform rich text format

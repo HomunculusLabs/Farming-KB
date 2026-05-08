@@ -128,4 +128,4 @@ Legal status varies significantly by jurisdiction and is subject to rapid change
 - [[5-meo-dmt]] — Potent 5-HT1A-preferring tryptamine with distinct non-visual profile
 - [[bufotenin]] — Endogenous tryptamine with overlapping serotonergic pharmacology
 - [[psilocin]] — Natural 4-hydroxy tryptamine found in psilocybin mushrooms
-- [[psilocybin]] — Prodrug of psilocin; longer-acting classical psychedelic
+- [[psilocybin-compound]] — Prodrug of psilocin; longer-acting classical psychedelic

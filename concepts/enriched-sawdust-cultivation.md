@@ -148,4 +148,3 @@ inadequate sterilization or from the spawn itself being infected.
 - [[grain-spawn-generation]] for producing the inoculum
 - [[mushroom-contamination-vectors]] for contamination prevention
 - [[agricultural-waste-substrates]] for alternative substrate methods
-- [[mushroom-species-sequencing]] for recycling spent sawdust blocks

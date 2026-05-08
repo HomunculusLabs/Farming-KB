@@ -55,7 +55,7 @@ cap-and-stem morphology; instead, it forms what mycologists term an "irregularly
 shaped mass of hanging spines" arising from a rough, solid base that may be
 attached to the substrate at a single point or a small area.
 
-The spore print is white. Spores are broadly ellipsoid to subglobose, smooth,
+The [[spore-print-collection-spore-mass-inoculation]] is white. Spores are broadly ellipsoid to subglobose, smooth,
 hyaline, approximately 5–7 × 4–6 µm in size, and amyloid. The basidia are
 club-shaped, typically four-spored, measuring 25–40 × 4–6 µm. The hyphal
 system is monomitic, consisting of generative hyphae with clamp connections.
@@ -78,9 +78,9 @@ Japan, Korea, and the Russian Far East.
 The fungus is a saprotrophic and facultative parasitic species, primarily
 growing on dead or dying hardwood trees, especially oak (Quercus spp.), walnut
 (Juglans spp.), beech (Fagus spp.), maple (Acer spp.), and sycamore (Platanus
-spp.). It causes a white rot of the host wood, decomposing both lignin and
-cellulose through the action of ligninolytic enzymes including laccase,
-manganese peroxidase, and lignin peroxidase.
+spp.). It causes a [[white-rot-fungi-bioremediation]] of the host wood, decomposing both lignin and
+cellulose through the action of [[ligninolytic-enzymes-bioremediation]] including laccase,
+[[manganese-peroxidase-mechanism]], and lignin peroxidase.
 
 Wild specimens are most commonly found in late summer through autumn (August
 through November in the Northern Hemisphere), though in some warm, humid regions
@@ -100,7 +100,7 @@ A typical substrate formula consists of hardwood sawdust (oak, beech, or mixed
 hardwood) supplemented with wheat bran or rice bran at 10–20% dry weight
 supplementation rate, adjusted to approximately 60–65% moisture content. The
 substrate is sterilized (autoclaved at 121°C for 90–120 minutes), inoculated
-with grain spawn (typically rye, millet, or sorghum), and incubated at 20–25°C
+with [[grain-spawn-types-and-preparation]] (typically rye, millet, or sorghum), and incubated at 20–25°C
 in darkness for 20–30 days until full colonization.
 
 **Log-based cultivation** uses hardwood bolts, typically 10–20 cm diameter and
@@ -136,9 +136,9 @@ supplements are standardized to erinacine content. Erinacines A, B, and C were
 first isolated from cultured mycelium filtrates by Kawagishi et al. in the
 early 1990s.
 
-**Beta-glucan polysaccharides**, particularly (1,3)/(1,6)-beta-D-glucans, are
+**[[beta-glucan-receptor-binding]] polysaccharides**, particularly (1,3)/(1,6)-beta-D-glucans, are
 major cell wall components that contribute to immunomodulatory and anti-tumor
-properties. Hot water extracts contain 20–40% beta-glucans by dry weight.
+properties. [[hot-water-and-hydrated-lime-substrate-treatment]] extracts contain 20–40% beta-glucans by dry weight.
 
 **Additional constituents** include hericins (phenolic compounds with
 antioxidant activity), ergosterol (a vitamin D₂ precursor), various phenolic
@@ -148,78 +148,3 @@ acids, and sterols.
 
 The most significant pharmacological activity of H. erinaceus is its ability to
 stimulate nerve growth factor (NGF) synthesis. NGF is a neurotrophin essential
-for the growth, maintenance, proliferation, and survival of neurons in both the
-central and peripheral nervous systems. Both hericenones and erinacines cross
-the blood-brain barrier and upregulate NGF mRNA expression in astrocytes.
-
-A landmark double-blind, placebo-controlled clinical trial by Mori et al.
-(2009) demonstrated that H. erinaceus intake significantly improved cognitive
-function in older Japanese adults with mild cognitive impairment (MCI). Subjects
-receiving 3 g/day of dried mushroom powder showed significant improvements on
-the Revised Hasegawa Dementia Scale (HDS-R) at weeks 8, 12, and 16 compared to
-placebo. Cognitive function declined after cessation, suggesting sustained
-supplementation is necessary.
-
-Additional documented medicinal properties include anti-inflammatory effects
-(mediated through inhibition of NF-κB and MAPK signaling pathways, with
-demonstrated reductions in TNF-α, IL-6, and IL-1β), antioxidant activity
-(through DPPH radical scavenging and enhancement of endogenous superoxide
-dismutase and catalase activity), immunomodulation via enhanced macrophage and
-natural killer (NK) cell activity, and potential anti-tumor effects including
-apoptosis induction in cancer cell lines.
-
-Preclinical studies have also demonstrated anxiolytic and antidepressant effects
-in rodent models, likely through modulation of dopaminergic, serotonergic, and
-noradrenergic systems. H. erinaceus extract has been shown to reduce
-hippocampal inflammation and reverse stress-induced behavioral deficits.
-
-## Culinary Uses
-
-H. erinaceus is prized in Chinese, Japanese, and Korean cuisine for its texture
-and mild, sweet, slightly earthy flavor frequently compared to lobster, crab, or
-sweet corn. The mushroom has a firm, meaty texture that holds well during
-cooking and absorbs flavors readily from accompanying ingredients.
-
-Common preparations include sautéing in butter with garlic and herbs, stir-
-frying with vegetables and soy-based sauces, deep-frying in tempura batter, and
-incorporation into soups and stews. In Chinese culinary tradition, it is
-considered one of the "eight treasures" of mountain vegetables and is featured
-in Buddhist vegetarian cuisine. Dried specimens reconstitute well in warm water
-and are commercially available in powder, extract, and whole form.
-
-## Dosage and Preparation Methods
-
-Clinical studies have primarily used dosages of 1–3 g/day of dried fruiting
-body powder. Mycelium extracts are typically standardized to contain specific
-concentrations of erinacines (commonly 1–5 mg/g). Dual extraction (combining
-sequential hot water and ethanol extraction) is considered the optimal
-preparation method to capture both water-soluble beta-glucans and alcohol-
-soluble terpenoids. Commercial supplements are available as capsules, tinctures,
-powders, and extracts.
-
-Quality varies significantly among products. Consumers are advised to seek
-third-party tested supplements with verified beta-glucan and hericenone/erinacine
-content. Fruiting body extracts are generally preferred over mycelium-only
-products for cognitive applications, as hericenones are unique to the fruiting
-body, though erinacines from mycelium may have equal or greater NGF-stimulating
-potency.
-
-## Research Status
-
-While preclinical evidence for H. erinaceus is robust and mechanistically well-
-characterized, human clinical data remains limited but growing. Ongoing research
-includes Phase II clinical trials for Alzheimer's disease and mild cognitive
-impairment, peripheral neuropathy (particularly diabetic peripheral neuropathy),
-and depressive disorders. The species holds Orphan Drug designation in Japan for
-Hericium erinaceus extract (with erinacine A) for peripheral nerve
-regeneration.
-
-## Safety Profile
-
-H. erinaceus is generally regarded as safe with no significant adverse effects
-reported in clinical studies of up to 16 weeks duration. Rare cases of contact
-dermatitis from handling fresh fruiting bodies have been documented, attributed
-to the spines and surface proteins. Individuals with known mushroom allergies
-should exercise caution. No significant drug interactions have been documented in
-clinical settings, though theoretical interactions with anticoagulant
-medications exist due to mild antiplatelet activity demonstrated in vitro.

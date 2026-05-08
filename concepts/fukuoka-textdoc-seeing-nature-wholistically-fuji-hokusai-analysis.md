@@ -148,5 +148,3 @@ Progressive specialization in research actually has the opposite effect of its i
 [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
 [[fukuoka-textdoc-errors-of-human-intellect]]
 [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
-[[fukuoka-textdoc-no-cause-and-effect-in-nature]]
-[[fukuoka-textdoc-one-thing-is-all-things-holism]]

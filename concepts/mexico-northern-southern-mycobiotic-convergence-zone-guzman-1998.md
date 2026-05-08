@@ -148,7 +148,3 @@ diversity:
 - [[guzman-psilocybin-mushrooms-mexico-central-america]]
 
 - Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
-- Neurotropic Fungi Diversity and Vegetation Types
-- [[psilocybe-zapotecorum]]
-- Mexican Neurotropic Fungi and Indigenous Mycological Knowledge
-- Cosmopolitan and Endemic Neurotropic Species

@@ -138,31 +138,6 @@ This is the most fundamental difference between the three genera and drives most
 - 'Tehama' — early bearing, high yield. Zone 6–9.
 - 'Serr' — adapted to warmer inland climates. Zone 7–9.
 
-**Black Walnut**:
-- 'Thomas' — largest nut, thinnest shell, best flavor.
-- 'Emma K' — early bearing, good productivity.
-- 'Sparrow' — small but prolific, very cold-hardy.
-
-**Pecan (scab-resistant for eastern humid regions)**:
-- 'Pawnee' (Type I) — early ripening, small tree, good northern adaptation.
-- 'Kanza' (Type II) — excellent quality, scab-resistant, cold-hardy.
-- 'Lakota' (Type II) — scab-resistant, high quality, good yield.
-- 'Elliott' (Type II) — small nut but exceptional quality, very scab-resistant.
-
-## Summary Verdict
-
-| Goal | Best Choice | Why |
-|------|------------|-----|
-| Maximum calories per acre | Chestnut | Smaller trees, closer spacing, reliable production |
-| Maximum fat/nutrition per nut | Walnut or Pecan | 60–70% fat, calorie-dense |
-| Food forest understory integration | Chestnut | No allelopathy, compact canopy |
-| Boundary/windbreak with timber value | Black Walnut | Allelopathy OK in this position; timber bonus |
-| Warm-climate homestead staple | Pecan | Heat-loving, high value, proven crop |
-| Cold-climate nut production | Chestnut or Black Walnut | Zone 3–4 hardiness available |
-| Lowest maintenance | Chestnut | Fewer pest pressures, minimal spray needs |
-| Highest market value | Pecan | Established premium market |
-| Caloric self-sufficiency | Chestnut + Walnut combo | Carbs from chestnuts, fats from walnuts |
-
 ## See Also
 
 - [[comparison-hickory-vs-pecan-vs-black-walnut-cultivation]]

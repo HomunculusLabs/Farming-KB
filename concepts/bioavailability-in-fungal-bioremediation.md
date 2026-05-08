@@ -114,7 +114,7 @@ The long-term stability of fungal-remediated soils needs assessment to satisfy p
 
 ## Implications for Remediation Design
 
-Understanding bioavailability is essential for designing effective [[mycoremediation-field-applications]] strategies:
+Understanding bioavailability is essential for designing effective [[bioremediation-using-fungi]] strategies:
 
 - It may be possible to make residual amounts of POPs available by chemical or physical means, but the extra cost must be balanced with the level of cleanup required and the residual toxicity of the soil after remediation
 

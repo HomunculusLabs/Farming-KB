@@ -78,7 +78,7 @@ Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based s
 
 - [[mycoremediation-enzymology]] for laccase, LiP, and MnP enzyme systems
 - [[white-rot-fungi-bioremediation]] for the primary fungal agents
-- [[mycoremediation-field-applications]] for field-scale deployment
+- [[bioremediation-using-fungi]] for field-scale deployment
 - [[mycoremediation-techniques]] for general approaches
 
 ## Practical Applications

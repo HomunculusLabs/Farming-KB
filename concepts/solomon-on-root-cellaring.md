@@ -11,26 +11,17 @@ sources:
 
 From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
 
-
-
-
 ## Why Root Cellar
 
 Solomon argues that to keep the body in robust health, you must feed it a sizeable amount of fresh food, preferably raw. The quality of canned and frozen foods has been massively reduced, especially if they were blanched during processing. In cold-winter climates, it is possible to store fresh vegetables and fruit in living condition for many months without electricity.
 
 Imagine having the makings for a fresh salad in the cellar throughout winter: bins of root vegetables, your own cabbage, Brussels sprouts (still on the stalk) in midwinter, or sprouting your own Belgian endive (an expensive delicacy).
 
-
-
-
 ## Cellar Options
 
 Many homes are equipped for root cellaring because most have a basement. However, it may be necessary to wall off and highly insulate a part of the basement to create a proper winter food-storage cellar. Otherwise, dig a cellar outside, though this can be difficult to access during heavy snows. Making a root cellar is not generally regulated; it requires no permits and no prescribed construction methods beyond the basic requirement that it not collapse.
 
 Old non-working chest freezers may be recycled into small root-storage compartments.
-
-
-
 
 ## What Stores Well
 
@@ -57,9 +48,6 @@ Old non-working chest freezers may be recycled into small root-storage compartme
 - **Apples**: Store well at 30-35 degrees F with high humidity. Keep away from root vegetables (ethylene gas causes sprouting and off-flavors).
 - **Sweet potatoes**: Require curing at 80-85 degrees F, then storage at 55-60 degrees F. They suffer chilling injury below 50 degrees F.
 
-
-
-
 ## Key Principles
 
 1. **Temperature**: Most root crops want 32-40 degrees F. Winter squash and sweet potatoes want warmer (55-60 degrees F).
@@ -69,15 +57,9 @@ Old non-working chest freezers may be recycled into small root-storage compartme
 5. **Monitoring**: Check stored crops regularly. One rotting potato can ruin a bin. Remove anything showing decay immediately.
 6. **Curing**: Many crops benefit from a curing period before storage. This toughens skins and heals cuts.
 
-
-
-
 ## The Humidity Problem
 
 Basements are often too dry for root vegetables. Solutions include packing in moist sand or sawdust, using plastic bags with ventilation holes, or damp burlap coverings. Conversely, basements can be too humid for onions and squash.
-
-
-
 
 ## Related
 

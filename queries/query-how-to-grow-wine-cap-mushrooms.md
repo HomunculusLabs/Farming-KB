@@ -36,7 +36,7 @@ Aged chips may already be colonized by competing fungi that will outcompete your
 A standard bed preparation involves layering 4 to 6 inches of wood chips as the base layer.
 Spawn is then distributed on top of the chips at a rate of approximately 1 pound per 10 square feet.
 A final 2 inches of straw is laid on top to retain moisture and provide nitrogen.
-The [[wine-cap-stropharia-cultivation]] details emphasize that the straw layer is important.
+The wine cap stropharia cultivation details emphasize that the straw layer is important.
 It helps retain moisture and provides a nitrogen-rich supplement that accelerates mycelial colonization.
 The bed should be watered thoroughly after assembly to ensure even moisture throughout.
 

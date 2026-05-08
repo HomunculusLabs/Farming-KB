@@ -115,7 +115,7 @@ in the relationship between mushrooms and music.
 
 ## See Also
 
-- [[psychedelic-mushroom-music-and-culture]] - Existing broader page on the topic
+- [[mushroom-cultivation-fundamentals]] - Existing broader page on the topic
 - [[psychedelic-1960s-counterculture]] - The 1960s context
 - [[modern-mushroom-festival-culture]] - Contemporary festival culture
 - [[psychedelic-mushroom-art-and-iconography]] - Visual culture

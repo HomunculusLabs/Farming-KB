@@ -148,5 +148,3 @@ is a nutritious animal feed supplement.
 ## See Also
 
 - [[medicinal-herbs-for-livestock]]
-
-- Okra

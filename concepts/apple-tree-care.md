@@ -145,6 +145,6 @@ Thinning excess fruit is essential for quality apples and tree health.
 ## See Also
 
 - [[comparison-apple-tree-care-vs-apple-guild-design]]
-- [[stone-fruit-tree-care]]
+- stone fruit tree care
 - [[hemenway-apple-tree-guild-design]]
 - [[organic-fruit-tree-care-calendar]]

@@ -19,7 +19,7 @@ Farm woodlots and hedgerows serve multiple on-farm purposes that extend far beyo
 
 Woodlots designed for the farm itself serve several critical functions simultaneously. Species can be selected that provide fuel, structural materials, forage, and shelter in integrated systems. Some very valuable trees, such as black walnut, not only produce young trees for structural use but may be sold as rootstock for grafting. At maturity, premium timber species can provide substantial crop income, potentially funding a farmer's retirement.
 
-The key to effective farm forestry is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-multi-purpose-plants]] principles central to [[permaculture-design-methods]] and complements strategies like [[silvopasture-systems]] and [[windbreak-shelterbelt-species-selection]] for integrated land use.
+The key to effective farm forestry is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-multi-purpose-plants]] principles central to [[permaculture-design]] and complements strategies like [[silvopasture-systems]] and [[windbreak-shelterbelt-species-selection]] for integrated land use.
 
 ## Timber Durability Ratings
 

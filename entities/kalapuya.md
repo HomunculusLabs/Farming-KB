@@ -106,7 +106,7 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 - [[larry-og]]
 - [[sfv-og]]
 - [[girl-scout-cookies]]
-- [[runtz]]
+- [[runtz-entity]]
 - [[mac-1]]
 - [[jealousy]]
 - [[white-runtz]]
@@ -116,9 +116,9 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 - stuffed og
 - [[georgia-pie]]
 - cake wreck
-- [[do-si-dos]]
+- [[do-si-dos-entity]]
 - [[khalifa-kush]]
-- [[biscotti-strain]]
-- [[wedding-cake]]
+- [[biscotti-cannabis]]
+- [[wedding-cake-cannabis]]
 - [[animal-cookies]]
-- [[gelato]]
+- [[gelato-cannabis]]

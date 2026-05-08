@@ -67,7 +67,7 @@ progressively larger containers, is the preferred method for most cannabis
 growers. The [[cannabis-transplanting-guide]] covers this
 process step by step for growers of all experience levels.
 
-[[cervantes-transplanting-potting-up]] two to
+[[cannabis-advanced-growing-techniques]] two to
 three times during a typical grow cycle. A common progression is starting in a
 1 gallon container, moving to a 3 gallon at three to four weeks of vegetative
 growth, and finishing in a 5 to 7 gallon container before flowering. Each

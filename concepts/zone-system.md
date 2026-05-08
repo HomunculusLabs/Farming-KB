@@ -148,4 +148,3 @@ between design elements rather than isolated features.
   gardens
 - [[nurse-plants]] help establish vegetation in outer zones
 - [[multipurpose-plants]] serve roles across all zones
-- [[nitrogen-fixing-plants]] support soil fertility in every zone

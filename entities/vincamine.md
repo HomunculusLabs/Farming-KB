@@ -101,7 +101,7 @@ The compound is not listed under the UN Convention on Psychotropic Substances or
 - [[catharanthus-roseus]]
 - [[tabernanthe-iboga]]
 - [[ibogaine]]
-- [[voacangine]]
+- [[voacangine-entity]]
 - [[coronaridine]]
 - [[rauwolfia-serpentina]]
 - [[pausinystalia-yohimbe]]

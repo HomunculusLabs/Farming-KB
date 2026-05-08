@@ -1,5 +1,5 @@
 ---
-title: Turmeric (Curcuma longa)
+title: turmeric (Curcuma longa)
 created: 2026-04-28
 type: species
 tags: [herbal-plant, spice, anti-inflammatory, adaptogen, ayurveda, permaculture, kitchen-garden]
@@ -7,20 +7,19 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5664031/
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Curcumin
+  - https://pubchem.ncbi.nlm.nih.gov/compound/[[curcumin]]
   - "Ayurvedic Pharmacopoeia of India"
   - Hegnauer, R. (1966). Chemotaxonomie der Pflanzen
 ---
+# Turmeric ([[curcuma-longa]])
 
-# Turmeric (Curcuma longa)
-
-Turmeric is a rhizomatous herbaceous perennial plant of the ginger family (Zingiberaceae), native to the Indian subcontinent and Southeast Asia. Revered for millennia in Ayurvedic medicine, traditional Chinese medicine, and culinary traditions worldwide, turmeric has become one of the most extensively studied medicinal plants in modern pharmacological research. Its principal bioactive compound, curcumin, has demonstrated a remarkable breadth of biological activities.
+Turmeric is a rhizomatous herbaceous perennial plant of the ginger family (Zingiberaceae), native to the Indian subcontinent [[fungi-of-southeast-asia]] Asia. Revered for millennia in Ayurvedic medicine, traditional Chinese medicine, and culinary traditions worldwide, turmeric has become one of the most extquery-what-are-the-main-bioactive-compounds-in-medicinal-plants]] medicinal plants in modern pharmacological research. Its principal bioactive compound, curcumin, has demonstrated a remarkable breadth of biological activities.
 
 ## Taxonomy and Botany
 
 - **Kingdom:** Plantae
 - **Order:** Zingiberales
-- **Family:** Zingiberaceae
+- **Familaustralian-magic-mushroom-common-namesraceae
 - **Genus:** Curcuma
 - **Species:** C. longa
 - **Common names:** Turmeric, haldi (Hindi), haridra (Sanskrit), jiang huang (Chinese), ukon (Japanese)
@@ -97,12 +96,12 @@ Curcumin inhibits multiple inflammatory pathways simultaneously:
 
 Curcumin's clinical utility is limited by poor bioavailability:
 
-- Rapid hepatic metabolism and conjugation (glucuronidation, sulfation)
+- Rapid hepatic metabolism and conjugation ([[glucuronidation]], sulfation)
 - Low aqueous solubility
 - Rapid systemic elimination (half-life ~1–2 hours)
 
 **Enhancement strategies:**
-- Piperine (black pepper alkaloid) increases bioavailability by ~2,000% by inhibiting hepatic glucuronidation.
+- [[piperine]] (black pepper alkaloid) increases bioavailability by ~2,000% by inhibiting hepatic glucuronidation.
 - Liposomal, nanoparticle, and phytosome formulations improve absorption.
 - Combining curcumin with turmeric's own essential oils (turmerone) enhances uptake.
 - Theracurmin® and Longvida® are commercially available enhanced-absorption formulations.
@@ -119,7 +118,7 @@ Curcumin's clinical utility is limited by poor bioavailability:
 
 ### Permaculture Applications
 
-- **Companion planting:** Turmeric grows well under fruit trees and among leguminous shrubs in food forest systems.
+- **[[companion-planting]]:** Turmeric grows well under fruit trees and among leguminous shrubs in [[food-forest]] systems.
 - **Pest deterrence:** Curcuminoids in the rhizome and leaves deter some soil-borne pests and nematodes.
 - **Polyculture:** Often intercropped with ginger, galangal, and cardamom in tropical food forests.
 - **Soil building:** Leaf mulch from senescing plants adds organic matter.
@@ -148,11 +147,3 @@ Curcumin's clinical utility is limited by poor bioavailability:
 - May interfere with iron absorption; individuals with iron deficiency should space turmeric consumption away from iron-rich meals.
 - Oxalate content may concern individuals prone to kidney stones.
 - Contraindicated in bile duct obstruction and gallbladder disease (stimulates bile production).
-
-## See Also
-
-- [[curcumin]] — detailed pharmacology of the primary active compound
-- [[curcuma-longa]] — additional taxonomic detail
-- [[ashwagandha-withania-somnifera]] — another major Ayurvedic adaptogen
-- [[rhodiola-rosea]] — adaptogenic herb with complementary properties
-- [[comfrey-symphytum-officinale]] — permaculture companion plant with medicinal uses

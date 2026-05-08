@@ -12,7 +12,7 @@ type: concept
 # Hallucinogenic Mushroom Legal Status EU
 
 The legal status of hallucinogenic mushrooms in the EU has been complex, driven by tension between
-international control of [[psilocybin]] and psilocin as chemicals and the fact that mushrooms
+international control of [[psilocybin-compound]] and psilocin as chemicals and the fact that mushrooms
 containing them grow wild across Europe. This created legal loopholes exploited by retailers,
 prompting legislative changes between 2001 and 2006.
 
@@ -126,11 +126,11 @@ emerging drug trends must consider how contextual forces reinforce or legitimate
 
 ## See Also
 
-- [[hallucinogenic-mushroom-prevalence-in-europe]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
 
-- [[hallucinogenic mushrooms]]
-- [[psilocybin]]
+- [[hallucinogenic-mushrooms]]
+- [[psilocybin-compound]]
 - [[psilocybe-cubensis]]
-- [[smartshops and hallucinogenic mushroom retail]]
-- [[hallucinogenic mushroom prevalence in Europe]]
+- [[smartshops-and-hallucinogenic-mushroom-retail]]
+- [[hallucinogenic-mushroom-prevalence-europe]]

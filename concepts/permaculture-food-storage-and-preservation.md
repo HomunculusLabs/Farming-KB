@@ -128,7 +128,7 @@ Prioritize methods by energy input and resilience:
 
 ## Connections
 
-Food preservation extends the value of [[permaculture-design-principles-beginners]] by closing the loop between production and consumption. Efficient preservation reduces waste from [[water-wise-vegetable-gardening]] harvests, and seed-saving for next season's planting connects to [[home-garden-seed-saving]].
+Food preservation extends the value of [[permaculture-design-principles]] by closing the loop between production and consumption. Efficient preservation reduces waste from [[water-wise-vegetable-gardening]] harvests, and seed-saving for next season's planting connects to [[home-garden-seed-saving]].
 
 ## Related
 

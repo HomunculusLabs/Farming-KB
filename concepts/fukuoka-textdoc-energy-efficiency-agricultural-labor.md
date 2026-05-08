@@ -136,20 +136,6 @@ A quarter-acre of land is enough to supply the food needed for supporting a fami
 
 He pointed out that farmers of the past grew a hundred crops — rice, barley, sweet potatoes, vegetables, fruits, and kept livestock — all on small acreages.
 
-They were totally self-supporting and enjoyed the richest and safest possible diet.
-
-"That they are seen as having been poor and hungry may well reflect the envy of modern man more than anything else."
-
-## Agriculture Transcends Economics
-
-Fukuoka concluded that "agriculture has nothing to do, fundamentally, with profitability. The overriding concern is how to make use of the land."
-
-The goal of farming is "to produce plentiful harvest by bringing out the full forces of nature, because this also happens to be the shortest road to knowing and approaching nature."
-
-Farming is not centered on income or on man; "at its core are natural fields that transcend man. The fields of nature are the representatives of nature; they are God."
-
-When a natural farmer has no use for chemical farming materials and does not reckon household labor into expenses, "his production costs are zero." Prices are a man-made device that do not exist in nature, and the true value of food cannot be measured in monetary terms. Mu economics, founded on cosmic nothingness, represents the only economic framework compatible with natural farming and with nature itself.
-
 ## See Also
 
 - [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]

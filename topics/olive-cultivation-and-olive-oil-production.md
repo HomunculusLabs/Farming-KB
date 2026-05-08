@@ -93,7 +93,7 @@ Spain, Italy, and Greece remain the world's top producers, collectively accounti
 - **Texture:** Olives tolerate an extraordinary range — sandy loams to clay loams are ideal; heavy clay is acceptable if well-drained
 - **Drainage:** Critical. Olives are extremely sensitive to waterlogging; standing water for even 48 hours can cause root asphyxiation and Phytophthora root rot
 - **pH:** 5.5–8.5, with optimal range 6.5–7.5; olives are tolerant of moderately alkaline soils
-- **Salinity:** Olives are among the most salt-tolerant fruit crops; EC up to 4–6 dS/m is tolerated (though yields decline above 3 dS/m)
+- **Salinity:** Olives are among the most [[salt-tolerant-fodder-species]] fruit crops; EC up to 4–6 dS/m is tolerated (though yields decline above 3 dS/m)
 - **Soil depth:** Minimum 60 cm; deeper is far better given the extensive root system
 
 ### Spacing
@@ -164,7 +164,7 @@ Olives are strongly prone to alternate bearing. Management strategies include:
 
 ## Irrigation and Water Management
 
-Olives are among the most drought-tolerant of all cultivated fruit trees, and dryland (rainfed) groves have been the norm for millennia. However, irrigation transforms yields:
+Olives are among the most [[drought-tolerant-planting-design]] of all cultivated fruit trees, and dryland (rainfed) groves have been the norm for millennia. However, irrigation transforms yields:
 
 | Management | Water Applied | Yield (kg/tree) | Oil Quality |
 |------------|---------------|-----------------|-------------|
@@ -179,7 +179,7 @@ RDI is the standard irrigation strategy for quality olive oil production:
 - **Spring (bud break to pit hardening):** Full irrigation to support shoot growth and flowering
 - **Summer (pit hardening to veraison):** Reduce to 50–65% of evapotranspiration (ETc); this stress concentrates oil and polyphenols without significantly reducing yield
 - **Pre-harvest (veraison to harvest):** Resume moderate irrigation to prevent shrivel, then reduce 2–3 weeks before harvest to concentrate oil
-- **Post-harvest:** Minimal irrigation sufficient to prevent severe water stress
+- **[[post-harvest-handling-marketing-mushrooms]]:** Minimal irrigation sufficient to prevent severe water stress
 
 ### Drought Survival
 
@@ -191,7 +191,7 @@ Mature olive trees can survive extreme drought (over 12 months without rain) by 
 
 - **Nitrogen (N):** 50–150 kg/ha/year depending on tree age, yield, and irrigation. Excess nitrogen promotes vegetative growth at the expense of flowering and increases alternate bearing. Apply in late winter/early spring. Foliar urea sprays (1–2%) are effective for quick correction.
 - **Potassium (K):** 80–200 kg/ha/year. Potassium is critical for oil accumulation and fruit quality. Deficiency causes reduced fruit size, premature ripening, and lower oil content. Apply as potassium sulfate (avoid chloride forms).
-- **Phosphorus (P):** 20–50 kg/ha/year. Generally less critical than N and K; most Mediterranean soils contain adequate P. Soil testing every 3–4 years guides applications.
+- **Phosphorus (P):** 20–50 kg/ha/year. Generally less critical than N and K; most Mediterranean soils contain adequate P. [[soil-testing-and-fertility-planning]] every 3–4 years guides applications.
 - **Calcium (Ca) and Magnesium (Mg):** Usually adequate in the alkaline soils where olives thrive; monitor through leaf analysis.
 
 ### Micronutrient Needs
@@ -202,9 +202,9 @@ Mature olive trees can survive extreme drought (over 12 months without rain) by 
 
 ### Cover Crops in Olive Orchards
 
-Cover crops between tree rows provide multiple benefits:
+[[cover-crops-and-green-manures]] between tree rows provide multiple benefits:
 
-- **Legumes** (subterranean clover, vetch, pea): Fix nitrogen, improve soil structure
+- **Legumes** (subterranean clover, vetch, pea): Fix nitrogen, improve [[soil-structure-and-aggregate-ecology]]
 - **Grasses** (oats, barley, rye): Scavenge residual nitrogen, prevent erosion, add organic matter
 - **Mixed stands** are most common; mow or graze in spring before peak water demand
 - In dryland groves, cover crops may compete for water — manage by terminating early or planting low-water-demand species
@@ -380,7 +380,7 @@ Olives are among the most valuable and versatile trees for permaculture systems 
 
 ### Advantages in Permaculture
 
-- **Long-lived, low-input:** Once established, olives require minimal care and produce for centuries
+- **Long-lived, [[low-input-vegetable-gardening]]:** Once established, olives require minimal care and produce for centuries
 - **Drought tolerance:** Ideal for water-conscious designs and dryland systems
 - **Fire resistance:** Mediterranean olive groves are natural firebreaks — their high moisture content and low resin content resist ignition
 - **Biodiversity support:** Mature olive trees provide habitat for birds, lichens, insects; olive groves with cover crops and stone walls are biodiversity hotspots
@@ -391,7 +391,7 @@ Olives are among the most valuable and versatile trees for permaculture systems 
 
 - **Understory herbs:** Lavender, rosemary, thyme, oregano share Mediterranean preferences and attract pollinators
 - **Leguminous ground covers:** Subclover, vetch, and Lucerne fix nitrogen and suppress weeds
-- **Nitrogen-fixing shrubs:** Cytisus, Caragana, or coral tree (*Erythrina*) as nurse trees in establishment
+- **[[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] shrubs:** Cytisus, Caragana, or coral tree (*Erythrina*) as nurse trees in establishment
 - **Bulbs:** Saffron crocus can be grown between olive trees for autumn harvest
 - **Livestock integration:** Sheep and poultry can graze cover crops between trees; their manure contributes to soil fertility
 - **Silvopasture:** Mature olive groves are excellent for grazing — widely practiced in Spain, Italy, and Greece

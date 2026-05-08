@@ -80,7 +80,7 @@ Alpine plants often require symbiotic fungi in the soil, which can be introduced
 The alpine plant philosophy extends beyond individual species to a general principle of working within ecological limits rather than trying to override them.
 
 Where conventional agriculture would drain a wet area, install heating, or apply chemical fertilisers to grow crops outside their natural range, Holzer instead designs microclimates — using stone walls, water bodies, and windbreaks — that create conditions where the desired plants can thrive without external inputs.
-His terraced ponds and [[holzer-raised-bed-design|raised beds]] are primary tools for this microclimate creation.
+His terraced ponds and [[sepp-holzer-permaculture-and-rebel-farming|raised beds]] are primary tools for this microclimate creation.
 Stone walls absorb heat during the day and release it at night, creating warm microclimates that can extend the growing season by several weeks in mountain environments.
 
 ### Livestock Integration
@@ -118,7 +118,7 @@ The method has been adapted to Mediterranean, tropical, and arid climates throug
 
 ## Related
 
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-indicator-plants]]
 - [[holzer-livestock-integration]]
 - [[sepp-holzer-methods]]

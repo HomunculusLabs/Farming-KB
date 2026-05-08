@@ -61,7 +61,7 @@ The Victorian era in Europe saw parallel developments in mycological science:
 - **Lucien Quelet** and other French mycologists were refining taxonomic classification
 - **German mycological societies** were publishing detailed monographs on fungal genera
 - **British mycological tradition** was being established, connecting folklore with science
-- The [[victorian-mycology]] movement laid the groundwork for modern systematic mycology
+- The [[ethnomycology]] movement laid the groundwork for modern systematic mycology
 
 ## Mushroom Poisoning in the 19th Century
 
@@ -90,7 +90,7 @@ The 19th-century mycological literature forms the foundation upon which modern m
 ## See Also
 
 - [[falconer-mushroom-cultivation-history]] -- 19th century cultivation methods from William Falconer
-- [[victorian-mycology]] -- Victorian mycology overview
+- [[ethnomycology]] -- Victorian mycology overview
 - [[fungal-chromogens-and-color-change]] -- chemical changes in mushrooms
 - [[mushroom-foraging-safety]] -- modern foraging practices
 - [[magic-mushroom-cultivation-history]]

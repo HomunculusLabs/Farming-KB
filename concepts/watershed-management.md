@@ -59,7 +59,7 @@ Practices that reduce agricultural impacts on watershed health:
 - **Integrated pest management**: Minimize pesticide use through biological controls, crop rotation, and targeted applications
 - **Buffer strips**: Vegetated strips between cropland and waterways filter runoff; see [[riparian-zone-restoration]]
 - **Grazing management**: Rotational grazing, riparian exclusion, and proper stocking rates protect streams and pastures
-- **No-till farming**: Eliminates tillage erosion, increases infiltration, builds soil organic matter; see [[no-till-gardening-method|no till]]
+- **No-till farming**: Eliminates tillage erosion, increases infiltration, builds soil organic matter; see [[composting-and-soil-biology|no till]]
 ### Forestry BMPs
 - **Riparian buffer zones**: Leave undisturbed buffers along streams during timber harvest (minimum 35-100 feet)
 - **Road management**: Minimize road density; maintain drainage on existing roads; close unused roads

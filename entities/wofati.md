@@ -129,7 +129,6 @@ systems. The earth roof can support low-growing vegetation, and the
 disturbed soil from excavation is typically used for hugelkultur beds
 or earthworks elsewhere on the site.
 
-
 Wheaton Labs serves as the primary demonstration site, with multiple
 wofati structures in varying stages of completion serving as living
 proof-of-concept experiments.

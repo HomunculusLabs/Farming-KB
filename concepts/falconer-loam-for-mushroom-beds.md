@@ -19,7 +19,7 @@ with manure to form the beds themselves.
 ## The Best Loam
 
 The ideal loam was rich, fresh, mellow soil such as florists eagerly
-sought for potting and greenhouse purposes. The [[mushroom-bed-preparation|mushroom bed preparation]] process
+sought for potting and greenhouse purposes. The mushroom bed preparation process
 depended heavily on quality loam. Falconer's preferred material
 was fresh sod loam -- the top spit from a pasture field, gathered in early
 fall and stacked without added manure. A healthy [[soil-food-web|soil food web]] in the loam

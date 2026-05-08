@@ -134,7 +134,7 @@ conditions and more resilient to stress.
 
 ## See Also
 
-- [[fukuoka-straw-four-principles]]
+- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-rice-without-plowing]]
 - [[fukuoka-straw-winter-grain-straw-mulch]]
 - [[fukuoka-straw-vegetable-growing]]

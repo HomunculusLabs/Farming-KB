@@ -26,19 +26,11 @@ sources:
 
 American permaculture designer, teacher, and author of Gaia's Garden: A Guide to Home-Scale Permaculture (2001, 2nd ed. 2009), the best-selling permaculture book in North America. Hemenway made permaculture accessible to suburban and urban gardeners, translating the often rural and broadscale focus of Mollison and Holmgren into practical home-garden design.
 
-
-
-
-
 ## Biography
 - PhD in biology from Harvard; originally worked in conservation biology and immunology
 - Moved to permaculture after recognizing that conventional environmentalism was not creating tangible change at the household level
 - Taught permaculture at Portland State University and ran a permaculture design consultancy
 - Key contributor to the popularisation of permaculture in North America through clear, practical writing
-
-
-
-
 
 ## Key Contributions
 
@@ -63,21 +55,13 @@ The definitive introduction to permaculture for North American home gardeners. C
 ### The Permaculture City (2015)
 Extended his approach to urban environments: community gardens, urban food forests, neighbourhood-scale water management, and the role of cities in sustainable culture.
 
-
-
-
-
 ## Influence
-Hemenway bridged the gap between academic permaculture ([[permaculture-design-methods]]) and practical home gardening. His work directly influenced the [[food-forest-design]] movement in North America and helped shift permaculture from a rural Australian concept to a globally accessible design system.
-
-
-
-
+Hemenway bridged the gap between academic permaculture ([[permaculture-design]]) and practical home gardening. His work directly influenced the [[food-forest-design]] movement in North America and helped shift permaculture from a rural Australian concept to a globally accessible design system.
 
 ## Related Pages
 - [[permaculture-principles]] -- Ethics and 12 principles
 - [[permaculture-design]] -- Zone/sector analysis
-- [[permaculture-design-methods]] -- Full design toolkit
+- [[permaculture-design]] -- Full design toolkit
 - [[food-forest-design]] -- Food forest theory and practice
 - [[gaias-garden-methods]] -- Home-scale methods extracted from Gaia's Garden
 - [[gaia-garden-plant-guilds]] -- Detailed guild design from Gaia's Garden

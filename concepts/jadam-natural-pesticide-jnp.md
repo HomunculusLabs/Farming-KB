@@ -144,4 +144,4 @@ Bongha village, Korea (320 acres, 160 households): $7/acre/year for 4 applicatio
 - [[jadam-herb-solution-jhs]] — insecticide component, herb selection guide
 - [[jadam-microorganism-solution-jms]] — prevention and soil health component
 - [[jadam-methods]] — full JADAM system overview
-- [[cannabis-pest-management]] — JADAM pesticides adapted for cannabis
+- cannabis pest management — JADAM pesticides adapted for cannabis

@@ -139,21 +139,6 @@ Correct inoculant strains are critical for drought systems because stressed plan
 - **Pigeon pea:** Bradyrhizobium (cowpea miscellany group).
 - **Guar:** Bradyrhizobium specific to guar; check availability in your region.
 - **Fenugreek:** Rhizobium meliloti (same as alfalfa group in many regions).
-
-Apply inoculant as a seed slurry with a sticking agent and plant into moist soil within 24 hours. Inoculant failure is the most common reason legume cover crops underperform in dryland systems.
-
-### Termination Methods
-- **Mechanical:** Roller-crimping works for cowpea, mung bean, and fenugreek at flowering. Lupin terminates well with flail mowing at early pod set.
-- **Chemical:** Glyphosate or paraquat at flowering is reliable for all species. Check label for specific rates.
-- **Frost kill:** Chickpea and lupin terminate with hard freezes in continental climates.
-- **Grazing:** Cowpea and pigeon pea tolerate light grazing; mung bean is less tolerant of trampling.
-
-### Integration Into Rotations
-- **Cereal-legume rotation:** Chickpea → wheat is the classic dryland rotation worldwide. Replace chickpea with lupin in acidic soils.
-- **Double cropping:** Cowpea or mung bean after winter wheat harvest captures late-season moisture and provides N credit for the following spring crop.
-- **Multi-year breaks:** Pigeon pea in 3–5 year phases rebuilds soil N and breaks weed/pathogen cycles in tropical dryland systems.
-- **Emergency drought cover:** Tepary bean or guar can be planted late in drought years when other cover crop options fail—they mature fast enough on minimal stored soil moisture.
-
 ## Related
 
 - [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]] Topics

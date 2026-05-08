@@ -11,10 +11,9 @@ sources:
 created: 2026-05-07
 type: query
 ---
+# How [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] Chickpeas at Home
 
-# How to Grow Chickpeas at Home
-
-Chickpeas (*Cicer arietinum*), also called garbanzo beans, are protein-rich cool-season legumes that are rewarding to grow in a home garden. They fix atmospheric nitrogen, improve soil health, and produce a nutritious harvest of versatile beans. This guide covers everything you need to know to grow chickpeas successfully, whether as a food crop or a cover crop.
+Chickpeas (*[[cicer-arietinum]]*), also called garbanzo beans, are protein-rich [[solomon-drip-irrigation-limitations-home-garden]] legumes that are rewarding to grow in a home garden. They fix atmospheric nitrogen, improve soil health, and produce a nutritious harvest of versatile beans. This guide covers everything you need to know to grow chickpeas successfully, whether as a food crop or a [[cover-crop]].
 
 ## Why Grow Chickpeas?
 
@@ -147,11 +146,3 @@ Chickpeas fix 30–60 lb N/acre and break subsoil compaction with a 3–4 foot t
 | **Rotation** | 4+ years between chickpea plantings |
 
 ## See Also
-
-- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
-- [[hamilton-crop-rotation-and-vegetable-planning]]
-- [[jeavons-green-manures-cover-crops]]
-- [[query-best-grain-legumes-for-a-small-homestead]]
-- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]

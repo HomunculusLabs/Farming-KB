@@ -110,6 +110,6 @@ Water is managed as an integral part of building design:
 - [[permaculture-appropriate-technology-design]]
 - [[permaculture-emergy-accounting]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[earth-sheltered-structures-permaculture]]

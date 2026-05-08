@@ -145,4 +145,4 @@ natural outcome.
 - [[permaculture-designers-manual-water-quality]]
 - [[permaculture-interaction-of-plants-and-animals]]
 - [[holmgren-permaculture-diversity-principle]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

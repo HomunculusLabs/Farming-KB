@@ -59,7 +59,7 @@ Coltsfoot is a pioneer species characteristic of disturbed, nutrient-poor soils:
 ## Medicinal Properties
 
 ### Traditional and Historical Uses
-Coltsfoot has been one of the most important respiratory herbs in the Western herbal tradition for over two millennia:
+Coltsfoot has been one of the most important [[respiratory-herbs]] in the Western herbal tradition for over two millennia:
 
 - **Cough and bronchitis:** The primary indication — used as a soothing expectorant for productive and dry coughs, acute and chronic bronchitis, and spasmodic coughing. The herb was traditionally smoked or consumed as tea, syrup, or lozenge
 - **Asthma:** Historical remedy for asthmatic breathing difficulties; the dried leaves were historically smoked in pipes specifically for asthma relief (a practice now discouraged due to the presence of pyrrolizidine alkaloids)
@@ -92,7 +92,7 @@ The presence of hepatotoxic pyrrolizidine alkaloids has led to significant regul
 ## Permaculture and Ecological Considerations
 
 ### Erosion Control and Pioneer Function
-Coltsfoot's extensive rhizomatous root system and preference for disturbed, unstable substrates make it an effective pioneer for erosion control on bare, mineral soils. The plant rapidly establishes ground cover on freshly exposed earth, stabilizing loose substrates and initiating soil-building processes through organic matter deposition. In permaculture design, coltsfoot can serve as a useful early-succession ground cover in earthworks, swale backslopes, and newly contoured land, though its aggressive spread must be managed.
+Coltsfoot's extensive rhizomatous root system and preference for disturbed, unstable substrates make it an effective pioneer for erosion control on bare, mineral soils. The plant rapidly establishes ground cover on freshly exposed earth, stabilizing loose substrates and initiating soil-building processes through organic matter deposition. In [[permaculture-design]], coltsfoot can serve as a useful early-succession ground cover in earthworks, swale backslopes, and newly contoured land, though its aggressive spread must be managed.
 
 ### Dynamic Accumulator
 Coltsfoot functions as a dynamic accumulator, mining minerals from subsoil layers through its deep rhizome system:
@@ -120,11 +120,11 @@ The early flowering period (February–April) provides a critical nectar and pol
 
 - [[herbal-medicine-making-basics]] Species and Allies
 
-- **Petasites hybridus (Butterbur):** Close relative in the Asteraceae; shares the rhizomatous habit and traditional use for respiratory conditions. Modern PA-free butterbur extracts are approved for migraine prophylaxis and allergic rhinitis
+- **[[petasites-hybridus]] (Butterbur):** Close relative in the Asteraceae; shares the rhizomatous habit and traditional use for respiratory conditions. Modern PA-free butterbur extracts are approved for migraine prophylaxis and allergic rhinitis
 - **Tussilago farfara 'Palmanata':** A variegated cultivar with white-mottled leaves, less vigorous than the wild type and useful for contained ornamental plantings
-- **Inula helenium (Elecampane):** Related Asteraceae species; a complementary respiratory herb with expectorant and antimicrobial properties, often combined with coltsfoot in traditional formulations (when PA-free material is used)
+- **[[inula-helenium]] (Elecampane):** Related Asteraceae species; a complementary respiratory herb with expectorant and antimicrobial properties, often combined with coltsfoot in traditional formulations (when PA-free material is used)
 
 ## See Also
 
-- [[herbal-plant-remedies]]
+- herbal plant remedies
 - [[cannabis-terpene-profiles]]

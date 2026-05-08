@@ -11,7 +11,7 @@ created: 2026-04-28
 
 [[masanobu-fukuoka]] offered a scathing critique of the Japanese citrus industry's post-harvest processing system and the economics
 of natural food distribution. His observations reveal how consumer preferences for appearance drive a cycle of chemical dependency,
-economic hardship for farmers, and nutritional degradation. This critique extends to the broader failure of [[conventional-vs- organic-vs-regenerative|commercial agriculture]] and the paradoxes of the natural food market.
+economic hardship for farmers, and nutritional degradation. This critique extends to the broader failure of [[conventional-vs-organic-vs-regenerative|commercial agriculture]] and the paradoxes of the natural food market.
 
 ## The Mandarin Orange Processing Pipeline
 
@@ -148,7 +148,3 @@ material development. The human economics that value money and a high standard o
 environment and a sick agriculture.
 
 See also: [[fukuoka-critique-modern-livestock]], [[fukuoka-five-principles-natural-farming]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-limits-scientific-method-agriculture]]
-
-## See Also
-
-- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]

@@ -148,5 +148,3 @@ forms observed in nature.
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
-- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
-- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]

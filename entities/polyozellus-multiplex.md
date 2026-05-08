@@ -138,14 +138,13 @@ distinctive, but beginners should confirm with the KOH reaction
 
 | Species | Key Differences |
 |---------|----------------|
-| [[cantharellus-cibarius]] | True chanterelle; egg-yolk yellow, no blue pigmentation, true forked ridges |
+| [[cantharellus-cibarius-entity]] | True chanterelle; egg-yolk yellow, no blue pigmentation, true forked ridges |
 | [[craterellus-cornucopioides]] | Black trumpet; dark gray-black, funnel-shaped, no blue pigmentation |
 | Hydnellum caeruleum | Blue tooth fungus; has teeth on hymenium, different growth form |
 
 ## See Also
 
-- [[cantharellus-cibarius]] — Golden chanterelle, standard comparison
+- [[cantharellus-cibarius-entity]] — Golden chanterelle, standard comparison
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, same season
 - [[craterellus-ignicolor]] — Flame chanterelle, another non-true chanterelle
 - [[hericium-erinaceus]] — Bioactive edible with neurological interest
-- [[trametes-versicolor]] — Turkey tail, widely studied medicinal fungus

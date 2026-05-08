@@ -67,7 +67,7 @@ garlic tea (brew a few cloves of crushed garlic for a short period of time
 and leave them for a day) can be very effective against all kinds of fungal
 diseases.
 This dual role of herbs as both food and medicine connects to [[holzer-medicinal-and-culinary-herbs-compendium]] and the broader tradition of
-[[herbal-plant-remedies]].
+herbal plant remedies.
 ## The Pharmacy on the Doorstep
 The wide selection of medicinal herbs turned kitchen gardens into an
 indispensable source of valuable medicines for every farm. This was useful

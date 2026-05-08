@@ -405,3 +405,10 @@ prevention and maintenance.
 3. Cannabis Pest Management concept pages, LLM Wiki Knowledge Base.
 4. McPartland, J.M., et al. *Cannabis Sativa L.: Botany and Biotechnology*.
    Springer.
+## Cervantes Leafhoppers Leaf Miners
+
+# Leafhoppers and Leaf Miners on Cannabis ## Leafhoppers **Identification** Leafhoppers include many small, 0.125 inch (3 mm) long, wedge-shaped insects that are usually green, white, or yellow. Many species have minute stripes on wings and bodies. Their wings peak like roof rafters when not in use. Leafhoppers suck plant sap for food and exude sticky honeydew as a by-product. Spittlebug and leafhopper larvae wrap themselves in foliage and envelop themselves in a saliva-like liquid derived from plant sap, creating a protective frothy spittle mass that shields them from predators and environmental exposure. ...
+
+## Cervantes Verticillium Wilt Sooty Mold
+
+# Verticillium Wilt and Sooty Mold on Cannabis ## Verticillium Wilt **Overview** Verticillium wilt is a vascular fungal disease that is less common than [[cervantes-fusarium-vascular-wilt-diseases]] but produces similar devastating symptoms. The fungus invades the plant's water-conducting tissue (xylem), blocking fluid flow and causing progressive wilting. **Identification** Lower leaves develop chlorotic yellowing on margins and between veins before turning dingy brown. Plants wilt during the day when transpiration demand is highest and may partially recoup overnight when the light goes off. Wilt soon overcomes parts of the plant or the entire plant. ...

@@ -94,6 +94,6 @@ See also: [[psychedelic-consciousness-models]], [[natural-intelligence]], [[natu
 
 - [[psychedelic-integration-guide]]
 - [[psilocybin-consciousness-as-information-in-process]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]
 - [[mind-body-problem-and-psychedelics]]
 - [[computational-universe-and-natural-intelligence]]

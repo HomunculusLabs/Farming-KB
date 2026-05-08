@@ -80,7 +80,7 @@ The study of East Asian Psilocybe species remains an active and productive area 
 
 ## Legal Status
 
-In Japan, psilocybin-containing mushrooms were legal to possess and sell until 2002, when legislative changes prohibited them. P. subcaerulipes is now classified as a controlled substance in Japan. In most other jurisdictions, it is treated as a Schedule I controlled substance equivalent to other [[psilocybin]]-containing mushroom species. Its rarity makes enforcement encounters unlikely.
+In Japan, psilocybin-containing mushrooms were legal to possess and sell until 2002, when legislative changes prohibited them. P. subcaerulipes is now classified as a controlled substance in Japan. In most other jurisdictions, it is treated as a Schedule I controlled substance equivalent to other [[psilocybin-compound]]-containing mushroom species. Its rarity makes enforcement encounters unlikely.
 
 ## See Also
 

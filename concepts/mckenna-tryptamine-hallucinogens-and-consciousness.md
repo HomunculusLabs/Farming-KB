@@ -14,7 +14,7 @@ Terence McKenna delivered the lecture "Tryptamine Hallucinogens and
 Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum
 Physics at Esalen Institute in December 1983. Published in 1992 as part of
 The Archaic Revival, the talk presents McKenna's phenomenological framework
-for understanding [[dimethyltryptamine]] (DMT), [[psilocybin]], and ayahuasca
+for understanding [[dimethyltryptamine]] (DMT), [[psilocybin-compound]], and ayahuasca
 as a unique family of hallucinogenic compounds distinct from other psychoactive
 substances in their intensity, visual cortex concentration, and apparent
 capacity to invoke the Logos.
@@ -124,7 +124,7 @@ encounters with one's wits about oneself."
 
 ## Psilocybin and Latent Human Capacity
 
-McKenna extended his framework to [[psilocybin]] mushrooms, which he described
+McKenna extended his framework to [[psilocybin-compound]] mushrooms, which he described
 as conveying one into "the world of the tryptamine hypercontinuum." The
 psilocybin experience builds over approximately an hour and is sustained for
 several hours, presenting the same confrontation with alien intelligence and

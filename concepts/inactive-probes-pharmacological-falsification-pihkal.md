@@ -69,7 +69,7 @@ Shulgin's careful documentation of negative results serves several scientific pu
 
 - [[tweetio-series-ethoxy-homologues-pihkal]]
 
-- [[mda-compound-profile]]
+- [[ayahuasca-and-dmt-plant-medicine]]
 
 - [[psychedelic-therapeutic-frameworks]]
 

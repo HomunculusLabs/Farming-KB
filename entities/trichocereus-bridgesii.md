@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-
 
 # Trichocereus bridgesii
 
-The **Bolivian torch** is a columnar cactus native to the high deserts of Bolivia. It is a well-known [[mescaline]]-containing species valued for its psychoactive properties and distinctive morphology. Among psychoactive cactus enthusiasts, T. bridgesii is often regarded as one of the more potent Trichocereus species.
+The **Bolivian torch** is a columnar cactus native to the high deserts of Bolivia. It is a well-known [[mescaline-entity]]-containing species valued for its psychoactive properties and distinctive morphology. Among psychoactive cactus enthusiasts, T. bridgesii is often regarded as one of the more potent Trichocereus species.
 
 ## Taxonomy and Description
 
@@ -40,7 +40,7 @@ In cultivation, T. bridgesii is sometimes confused with T. pachanoi due to their
 
 ## Chemical Composition
 
-[[mescaline]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
+[[mescaline-entity]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
 
 The variability in reported mescaline content likely reflects genuine genetic diversity within the species, differences in growing conditions, and differences in sampling methodology. Some growers have reported that certain clones produce consistently high mescaline levels, suggesting a significant genetic component to alkaloid production.
 
@@ -85,7 +85,7 @@ The intense bitterness of the cactus tissue can be partially masked by adding ci
 
 ## Legal Status
 
-T. bridgesii is uncontrolled in most countries and is primarily sold and grown as an ornamental specimen. As with other [[mescaline]]-containing cacti, the legal status of the plant itself often differs from the status of extracted alkaloids.
+T. bridgesii is uncontrolled in most countries and is primarily sold and grown as an ornamental specimen. As with other [[mescaline-entity]]-containing cacti, the legal status of the plant itself often differs from the status of extracted alkaloids.
 
 In the United States, the plant is legal to possess and grow, while extraction of mescaline for consumption is prohibited. Buyers should be aware that while the plant is legal, processing it for its psychoactive content may violate local and federal laws.
 
@@ -118,7 +118,7 @@ The combination of ornamental appeal, cold tolerance, and ease of cultivation ha
 - [[entheogen-trichocereus-genus-mescaline-cacti]]
 - [[mescaline-entity]]
 
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[trichocereus-pachanoi]]
 - trichocereus peruvianus
 - [[lophophora-williamsii]]

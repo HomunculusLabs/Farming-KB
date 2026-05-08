@@ -81,7 +81,7 @@ Holzer describes the bureaucratic obstacles to pond construction and recommends 
 
 Water bodies create microclimates that extend the range of cultivable species. In hot dry months, evaporation from ponds creates beneficial microclimates. Ponds also provide habitat for frogs (natural pest control), waterfowl, and beneficial insects.
 
-See also: [[permaculture-pond-construction]], [[irrigation-systems]], [[sepp-holzer-method]], [[sepp-holzer-method]], [[holzer-raised-bed-design]], [[aquaculture-in-permaculture]]
+See also: [[permaculture-pond-construction]], [[irrigation-systems]], [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-permaculture-and-rebel-farming]], [[aquaculture-in-permaculture]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[holzer-fruit-tree-planting-method]]

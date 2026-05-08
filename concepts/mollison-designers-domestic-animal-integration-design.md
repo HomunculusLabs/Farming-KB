@@ -148,4 +148,3 @@ Designing diverse forage systems reduces and eventually eliminates
 dependence on purchased feed. Mollison advocates planting:
 
 - Tree lucerne (tagasaste), carob, honey locust, and mulberry as
-  fodder trees

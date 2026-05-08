@@ -95,4 +95,4 @@ This artificial, chemically produced food presents a dreadful danger to man. Mor
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique|High Yield Theory and Photosynthesis Critique]]
 - [[fukuoka-critique-laws-agricultural-science|Critique of the Laws of Agricultural Science]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields|Increased Production Has Not Brought Increased Yields]]
-- [[fukuoka-critique-scientific-agriculture|Critique of Scientific Agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture|Critique of Scientific Agriculture]]

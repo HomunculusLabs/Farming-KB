@@ -42,7 +42,7 @@ biological means. His tools were not plows and chemicals but seeds, straw, and t
 ## The Role of Green Manure Trees
 
 A central element of Fukuoka's rehabilitation strategy was the interplanting of green
-manure trees, particularly [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]. The black wattle, a type of acacia, served multiple functions: its
+manure trees, particularly [[fukuoka-natural-farming-philosophy]]. The black wattle, a type of acacia, served multiple functions: its
 nitrogen-fixing root nodules enriched the soil; its leaf litter added organic matter; its
 rapid growth provided wind protection and shade; and its presence attracted aphids and
 scale insects, which in turn supported populations of ladybugs and other beneficial

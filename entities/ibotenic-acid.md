@@ -124,7 +124,7 @@ under the Narcotics and Psychotropic Control Law since June 6, 2002.
 
 ## See Also
 
-- [[muscimol]] — the decarboxylation product and primary active metabolite
+- [[muscimol-entity]] — the decarboxylation product and primary active metabolite
 - [[bufotenin]] — another non-tryptamine psychoactive mushroom compound
-- [[psilocybin]] — tryptamine-based psychedelic from Psilocybe species
+- [[psilocybin-compound]] — tryptamine-based psychedelic from Psilocybe species
 - [[ergotamine]] — ergot alkaloid producing different receptor effects

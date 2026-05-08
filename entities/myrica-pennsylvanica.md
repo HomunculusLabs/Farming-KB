@@ -116,6 +116,6 @@ Tolerates severe pruning and can be shaped as a hedge, though informal natural f
 - [[juniperus-communis]]
 - [[vaccinium-myrtillus]]
 - [[morus-alba]]
-- [[typha-latifolia]]
+- [[typha-latifolia-entity]]
 - [[sambucus-nigra]]
 - [[viburnum-opulus]]

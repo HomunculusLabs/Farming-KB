@@ -10,7 +10,7 @@ sources: []
 
 Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity.
 
-[[fungal-biodiversity-soil-habitats]] [[saprobic-soil-fungi]] [[fungal-environmental-sensing]]
+[[the-soil-food-web]] [[saprobic-soil-fungi]] [[fungal-environmental-sensing]]
 
 ## Humus-Mineral Soil Interface
 

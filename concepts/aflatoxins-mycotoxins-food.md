@@ -121,5 +121,5 @@ Produced by *Fusarium* and *Stachybotrys chartarum* (black mold), trichothecenes
 - [[ascomycota-phylogeny-major-classes-lineages|Ascomycota]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus species]]
 - [[ergot-fungus|Ergot fungus and Claviceps]]
-- [[aflatoxins-mycotoxins-food|Fungal contamination of food]]
+- Fungal contamination of food
 - [[mushroom-toxins-and-poisoning|Amanita toxins and mushroom poisoning]]

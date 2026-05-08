@@ -65,7 +65,7 @@ Hot water extracts from cultured mycelium contain **KS-2**, an alpha-mannan pept
 
 ## AHCC (Active Hexose Correlated Compounds)
 
-AHCC is a proprietary extract from co-cultivation of several Basidiomycete mushrooms including Lentinus edodes, [[turkey-tail-mushroom-cancer-research]], and Schizophyllum commune grown on rice. It contains polysaccharides, amino acids, and minerals. The glucans are low molecular weight (~5,000 daltons) alpha-1,3 type. A derivative, arabinoxylane, has been shown to increase human NK activity by a factor of 5 over two months. Limited studies suggest efficacy against hepatocellular carcinoma.
+AHCC is a proprietary extract from co-cultivation of several Basidiomycete mushrooms including Lentinus edodes, [[mushroom-cultivation-fundamentals]], and Schizophyllum commune grown on rice. It contains polysaccharides, amino acids, and minerals. The glucans are low molecular weight (~5,000 daltons) alpha-1,3 type. A derivative, arabinoxylane, has been shown to increase human NK activity by a factor of 5 over two months. Limited studies suggest efficacy against hepatocellular carcinoma.
 
 ## Key Active Constituents
 
@@ -84,5 +84,5 @@ Increasing examples demonstrate synergy between shiitake-derived compounds and c
 - [[medicinal-mushroom-immune-modulation]] -- broader immune modulation mechanisms
 - [[lentinan-clinical-research]] -- detailed lentinan clinical data
 - [[functional-foods-medicinal-mushrooms]] -- dietary supplement context
-- [[turkey-tail-mushroom-cancer-research]] -- PSK/PSP from turkey tail
+- [[mushroom-cultivation-fundamentals]] -- PSK/PSP from turkey tail
 - [[mushroom-cytokine-production-immune-activation]]

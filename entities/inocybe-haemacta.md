@@ -15,7 +15,7 @@ sources:
 ---
 # Inocybe haemacta
 **Inocybe haemacta** is a mycorrhizal mushroom in the family Inocybaceae
-reported to contain [[psilocybin]]. It is one of the less commonly encountered
+reported to contain [[psilocybin-compound]]. It is one of the less commonly encountered
 psychoactive species within the large and taxonomically complex genus
 Inocybe, which contains over 1,000 described species worldwide. The
 presence of psilocybin in certain Inocybe species is particularly noteworthy
@@ -74,7 +74,7 @@ occur in disturbed habitats such as forest edges and parks. Fruiting occurs
 from late summer through autumn during cool, wet periods. It is considered
 uncommon to rare across its range.
 ## Chemistry and Bioactive Compounds
-I. haemacta has been reported to contain [[psilocybin]], placing it among the
+I. haemacta has been reported to contain [[psilocybin-compound]], placing it among the
 minority of Inocybe species known to be psychoactive. This is significant
 because the genus is predominantly associated with toxic compounds, particularly
 muscarine, which causes parasympathetic overstimulation including sweating,
@@ -86,7 +86,7 @@ and [[inocybe-crocata]]. The co-occurrence of psilocybin and potentially
 muscarine in Inocybe species raises serious safety concerns.
 ## Toxicity and Safety Concerns
 Consumption of Inocybe haemacta carries significant risk due to the potential
-presence of muscarine and other toxic compounds alongside [[psilocybin]]. The
+presence of muscarine and other toxic compounds alongside [[psilocybin-compound]]. The
 possibility of mixed psychoactive and toxic alkaloid profiles means Inocybe
 species should never be consumed without thorough chemical analysis.
 Additionally, accurate field identification of Inocybe to species level is
@@ -117,5 +117,5 @@ to the distinctive reddish to blood-red coloration of the cap and stipe.
 - [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
 - [[inocybe-corydalina-entity]]
 - [[inocybe-aeruginascens]] — a bluing, psilocybin-containing Inocybe species
-- [[psilocybin]] — the primary psychoactive compound
+- [[psilocybin-compound]] — the primary psychoactive compound
 - [[muscarine]] — the toxic compound found in many Inocybe species

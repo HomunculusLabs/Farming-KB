@@ -14,7 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-p
 
 ## Taxonomy
 
-psilocybe martinezii was described by Guzmán in his comprehensive monograph of Mexican neurotropic fungi. It is placed in section Mexicanae alongside [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and psilocybe atlantis, all of which share a preference for subtropical to tropical environments and produce sclerotia (hardened masses of mycelium) under certain conditions. The taxonomic position within this section is supported by both morphological characters (spore shape, cystidia morphology, habitat) and molecular phylogenetic data. Some molecular studies have suggested that section Mexicanae may be polyphyletic, but psilocybe martinezii consistently clusters with other Mexican members of the group.
+psilocybe martinezii was described by Guzmán in his comprehensive monograph of Mexican neurotropic fungi. It is placed in section Mexicanae alongside [[psilocybe-mexicana]], [[psilocybe-tampanensis-entity]], and psilocybe atlantis, all of which share a preference for subtropical to tropical environments and produce sclerotia (hardened masses of mycelium) under certain conditions. The taxonomic position within this section is supported by both morphological characters (spore shape, cystidia morphology, habitat) and molecular phylogenetic data. Some molecular studies have suggested that section Mexicanae may be polyphyletic, but psilocybe martinezii consistently clusters with other Mexican members of the group.
 
 ## Morphology
 
@@ -32,13 +32,13 @@ The species is known primarily from Oaxaca state in southern Mexico, where it oc
 
 ## Chemistry
 
-Analytical studies have confirmed the presence of [[psilocybin]] and [[psilocin]] in psilocybe martinezii. Baeocystin and norbaeocystin have also been detected. The total tryptamine content is comparable to [[psilocybe-mexicana]], placing it in the low-to-moderate potency range among psilocybin mushrooms. Typical concentrations of psilocybin range from approximately 0.1% to 0.4% of dried weight, with psilocin present at lower concentrations. The alkaloid profile is consistent with other section Mexicanae species, though some intraspecific variation has been noted depending on collection locality and substrate. The chemical stability of the active compounds follows the same pattern as in other psilocybin mushrooms: psilocybin is relatively stable when dried and stored in cool, dark conditions, while psilocin degrades more rapidly upon exposure to heat, light, and oxygen.
+Analytical studies have confirmed the presence of [[psilocybin-compound]] and [[psilocin]] in psilocybe martinezii. Baeocystin and norbaeocystin have also been detected. The total tryptamine content is comparable to [[psilocybe-mexicana]], placing it in the low-to-moderate potency range among psilocybin mushrooms. Typical concentrations of psilocybin range from approximately 0.1% to 0.4% of dried weight, with psilocin present at lower concentrations. The alkaloid profile is consistent with other section Mexicanae species, though some intraspecific variation has been noted depending on collection locality and substrate. The chemical stability of the active compounds follows the same pattern as in other psilocybin mushrooms: psilocybin is relatively stable when dried and stored in cool, dark conditions, while psilocin degrades more rapidly upon exposure to heat, light, and oxygen.
 
 Like other section Mexicanae species, psilocybe martinezii has been reported to produce sclerotia under laboratory conditions, though this has not been extensively studied. The sclerotia contain the same active alkaloids as the fruiting bodies, typically at somewhat lower concentrations.
 
 ## Cultivation
 
-Although not widely cultivated, psilocybe martinezii has been grown successfully using methods similar to those employed for [[psilocybe-mexicana]] and [[psilocybe-tampanensis]]. The species fruits on a variety of substrates including pasteurized straw, composted dung, and enriched grain substrates. The sclerotia-producing tendency of section Mexicanae species makes it potentially suitable for cultivation techniques that bypass the fruiting stage entirely, harvesting the sclerotia directly from grain jars after an extended colonization period.
+Although not widely cultivated, psilocybe martinezii has been grown successfully using methods similar to those employed for [[psilocybe-mexicana]] and [[psilocybe-tampanensis-entity]]. The species fruits on a variety of substrates including pasteurized straw, composted dung, and enriched grain substrates. The sclerotia-producing tendency of section Mexicanae species makes it potentially suitable for cultivation techniques that bypass the fruiting stage entirely, harvesting the sclerotia directly from grain jars after an extended colonization period.
 
 ## Ethnomycology
 
@@ -58,7 +58,7 @@ As a coprophilous and dung-associated saprotroph, psilocybe martinezii plays a r
 
 ## Similar Species
 
-[[psilocybe-mexicana]] is the most similar species, from which psilocybe martinezii can be distinguished by its slightly larger spores, different cheilocystidia morphology, and geographic distribution patterns. psilocybe atlantis (from Georgia, USA) is another close relative with overlapping microscopic features but a disjunct North American distribution. [[psilocybe-tampanensis]] is known primarily from Florida and differs in its more robust fruiting body and prominent sclerotia production. [[psilocybe-subbrunneascens]] from Guatemala shares the section Mexicanae placement but has a paler cap coloration and slightly smaller spores. Small Deconica species of similar habitats can be separated by their lack of bluing reaction and absence of psilocybin.
+[[psilocybe-mexicana]] is the most similar species, from which psilocybe martinezii can be distinguished by its slightly larger spores, different cheilocystidia morphology, and geographic distribution patterns. psilocybe atlantis (from Georgia, USA) is another close relative with overlapping microscopic features but a disjunct North American distribution. [[psilocybe-tampanensis-entity]] is known primarily from Florida and differs in its more robust fruiting body and prominent sclerotia production. [[psilocybe-subbrunneascens]] from Guatemala shares the section Mexicanae placement but has a paler cap coloration and slightly smaller spores. Small Deconica species of similar habitats can be separated by their lack of bluing reaction and absence of psilocybin.
 
 ## Identification Notes
 
@@ -80,12 +80,12 @@ Psilocybe martinezii has not been formally assessed for conservation status by t
 ## See Also
 
 - [[psilocybe-mexicana]] — the type species of section Mexicanae
-- [[psilocybe-tampanensis]] — sclerotia-producing species from the southeastern United States
+- [[psilocybe-tampanensis-entity]] — sclerotia-producing species from the southeastern United States
 - psilocybe atlantis — closely related species from the southeastern United States
 - [[psilocybe-subbrunneascens]] — Guatemalan species with overlapping morphology
 - gastón-guzmán — primary authority on Mexican psilocybin mushrooms
 - [[sclerotia-cultivation]] — hardened mycelial masses produced by section Mexicanae species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — secondary tryptamine alkaloid
 - [[psilocybe-caerulescens-entity]] — larger, more potent species of Oaxaca

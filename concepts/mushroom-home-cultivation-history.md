@@ -116,7 +116,7 @@ to tourists.
 - [[magic-mushroom-prohibition-history]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
 - [[pf-tek-psilocybe-fanaticus]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[paul-stamets]]
 - [[albert-hofmann]]
 - [[psilocybin-isolation-and-early-scientific-research]]

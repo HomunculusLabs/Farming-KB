@@ -64,7 +64,7 @@ Unlike [[psilocybe-semilanceata]], which is widespread in temperate Europe, Psil
 
 ## Potency
 
-Psilocybe cubensis is considered a moderate-potency species within the Psilocybe genus. [[psilocybin]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]], which may contain up to 1% psilocybin, or high-potency species like Psilocybe azurescens and Psilocybe bohemica.
+Psilocybe cubensis is considered a moderate-potency species within the Psilocybe genus. [[psilocybin-compound]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]], which may contain up to 1% psilocybin, or high-potency species like Psilocybe azurescens and Psilocybe bohemica.
 
 Because of this moderate potency profile, Psilocybe cubensis is sometimes characterized as a more manageable species for inexperienced users. However, individual sensitivity varies considerably and potency is never guaranteed from batch to batch, making reliable dosing difficult without analytical testing.
 
@@ -116,10 +116,10 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 - [[oss-oeric-psilocybe-cubensis-strain-guide]]
 - [[psilocybe-cubensis-distribution-and-ecology]]
-- [[psilocybe-cubensis-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[stropharia-cubensis]] Concepts
 
-- [[psilocybin]] - the primary psychoactive compound in this species
+- [[psilocybin-compound]] - the primary psychoactive compound in this species
 - Psilocybe - the genus to which this species belongs
 - [[psilocybe-semilanceata]] - the predominant wild European species
 - [[hallucinogenic-mushroom-market-in-europe]] - commercial distribution patterns
@@ -129,7 +129,7 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-cultivation-methods]]
 
 - [[mushroom-cultivation-basics]]

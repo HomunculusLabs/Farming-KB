@@ -96,7 +96,7 @@ hallucinogenic:
 - [[neurotropic-fungi-biogeographic-patterns]] - How sections correlate with geography
 - [[neurotropic-fungi-in-mexico]] - Center of Psilocybe diversity
 - [[neurotropic-fungi-in-oceania]] - Trans-Pacific section distributions
-- [[psilocybe-mexicana-profile]] - Type species of Section Mexicanae
+- [[psychedelic-mushrooms-species-and-identification]] - Type species of Section Mexicanae
 
 Source: Guzman, Allen & Gartz (1998), "A Worldwide Geographical Distribution of the Neurotropic
 Fungi," Ann. Mus. civ. Rovereto 14: 189-280.

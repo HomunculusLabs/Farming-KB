@@ -148,4 +148,3 @@ fundamental aspect of food self-sufficiency. Combined with area-efficient
 calorie crops like potatoes and weight-efficient grains like wheat, the
 GROW BIOINTENSIVE system provides a practical pathway to growing most
 or all of a family's food at home. The
-[[jeavons-diet-design-self-sufficiency]] process helps

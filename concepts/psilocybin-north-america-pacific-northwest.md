@@ -141,5 +141,5 @@ Some areas along the U.S. Gulf states have acquired reputations similar to the P
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Wavy cap
 - [[psilocybe-pelliculosa-profile]] -- Forest liberty cap
 - [[panaeolus-subbalteatus-profile]] -- Red cap
-- [[psilocybin-mushroom-cultivation-basics]] -- Including outdoor methods
+- [[mushroom-cultivation-fundamentals]] -- Including outdoor methods
 - [[psilocybin-toxicity-and-safety-profile]] -- Safety record

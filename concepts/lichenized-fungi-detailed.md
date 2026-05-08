@@ -136,7 +136,7 @@ Information on lichen biodiversity contributes to management strategies for cons
 
 - [[lichens]]
 - [[fungal-biomonitoring]]
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]
 - [[lichens]]
 - [[lichens]]
 - [[lichens]]

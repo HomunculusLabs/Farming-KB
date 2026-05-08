@@ -106,7 +106,7 @@ well-documented indigenous use of neurotropic fungi:
 - **China:** Amanita muscaria, Boletus sp., Claviceps purpurea, Gymnopilus
   spectabilis, Panaeolus papilionaceus, P. retirugis, Psilocybe venenata.
 - **Himalaya/Tibet:** Amanita muscaria.
-- **Israel:** Amanita pantherina, [[gymnopilus-spectabilis]], Inocybe tricolor,
+- **Israel:** Amanita pantherina, [[gymnopilus-spectabilis-entity]], Inocybe tricolor,
   Panaeolina foenisecii, Panaeolus ater, P. papilionaceus, P. sphinctrinus.
 - **Korea:** Gymnopilus spectabilis, Panaeolus fimicola, P. papilionaceus, P.
   sphinctrinus.

@@ -13,7 +13,7 @@ sources:
 
 # Legume Trees and Nitrogen-Fixing Permaculture Species
 
-Legume trees (family Fabaceae, subfamily Faboideae and Mimosoideae) are among the most valuable plants in permaculture design. Through their symbiotic relationship with rhizobial bacteria, they convert atmospheric nitrogen (N₂) into biologically available forms (NH₄⁺), enriching soil fertility while producing food, fodder, timber, fuel, mulch, and nectar. This page provides a comprehensive guide to selecting, establishing, and managing nitrogen-fixing trees in permaculture systems.
+Legume trees (family Fabaceae, subfamily Faboideae and Mimosoideae) are among the most valuable plants in permaculture design. Through their symbiotic relationship with rhizobial bacteria, they convert atmospheric nitrogen (N₂) into biologically available forms (NH₄⁺), enriching soil fertility while producing food, fodder, timber, fuel, mulch, and nectar. This page provides a comprehensive guide to selecting, establishing, and managing [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees in permaculture systems.
 
 ---
 
@@ -80,7 +80,7 @@ Legume trees (family Fabaceae, subfamily Faboideae and Mimosoideae) are among th
 
 Multiple *Acacia* species serve permaculture roles across climate zones:
 
-- ***Acacia nilotica*** (babul): Arid-zone, nitrogen-fixing, pods for fodder, excellent firewood and charcoal
+- ***Acacia nilotica*** (babul): [[arid-zone-permaculture-strategies-mollison]], nitrogen-fixing, pods for fodder, excellent firewood and charcoal
 - ***Acacia senegal***: Source of gum arabic; drought-hardy; provides income from resin
 - ***Acacia mangium***: Fast-growing timber for humid tropics; pulpwood and reforestation
 - ***Acacia koa***: Hawaiian endemic; premium timber; nitrogen-fixing pioneer on volcanic soils
@@ -103,7 +103,7 @@ Multiple *Acacia* species serve permaculture roles across climate zones:
 - **Growth**: Moderate; deep taproot (documented to 50+ meters) allows survival in extreme drought
 - **Uses**: Edible pods (ground into flour — 15–25% sugar, 12–16% protein), firewood (excellent BTU), charcoal, fencing, wildlife habitat
 - **N-fixation**: 20–60 kg N/ha/year; less than tropical species but significant for arid systems
-- **Soil improvement**: Drops nitrogen-rich leaf litter; increases soil organic matter and nitrogen under canopy ("fertile islands")
+- **Soil improvement**: Drops nitrogen-rich [[leaf-litter-microfungal-diversity-tropical-temperate]]; increases soil organic matter and nitrogen under canopy ("fertile islands")
 - **Pitfalls**: *P. juliflora* is one of the world's worst invasive species in Africa, Australia, and parts of Asia; use native *Prosopis* species when possible
 - **Pod processing**: Pods can be milled into sweet, gluten-free flour; traditional food source across the Americas
 - **Thorns**: Most species are thorny; thornless cultivars exist for some species
@@ -141,7 +141,7 @@ Multiple *Acacia* species serve permaculture roles across climate zones:
 - **N-fixation**: 10–30 kg N/ha/year; lower than black locust but still significant
 - **Advantages**: Thornless cultivars available (*G. t.* var. *inermis*); open canopy allows intercropping; pods relished by cattle, goats, and wildlife
 - **Pod production**: 40–90 kg pods/tree/year; pods contain 13–18% sugar, 12–15% protein
-- **Companion planting**: Excellent overstory for pasture, silvopasture systems, or food forest upper canopy
+- **Companion planting**: Excellent overstory for pasture, [[silvopasture-systems-design-and-management]], or food forest upper canopy
 
 #### Siberian Pea Shrub (*Caragana arborescens*)
 
@@ -235,7 +235,7 @@ Many legume trees require **specific rhizobial strains** for effective nodulatio
 ### Planting
 
 1. **Site preparation**: Clear weeds in a 1 m radius; deep rip compacted soils
-2. **Seed treatment**: Scarify hard-coated seeds (hot water soak, nicking, or acid scarification); soak in inoculant slurry
+2. **Seed treatment**: Scarify hard-coated seeds ([[hot-water-and-hydrated-lime-substrate-treatment]] soak, nicking, or acid scarification); soak in inoculant slurry
 3. **Spacing**: 2–5 m in rows for alley cropping; 5–10 m for scattered food forest elements
 4. **Planting depth**: 2–3× seed diameter; transplant seedlings at root collar level
 5. **Early care**: Water for first 2–3 dry seasons; mulch heavily; protect from browsing
@@ -300,8 +300,8 @@ Several legume trees are notorious invaders:
 
 ## See Also
 
-- [Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)
-- [Black Locust vs Honey Locust](/wiki/comparisons/comparison-black-locust-vs-honey-locust)
+- [Nitrogen-Fixing Bacteria and [[biological-nitrogen-fixation-agriculture]] Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)
+- [Black Locust vs Honey Locust](/wiki/comparisons/[[comparison-black-locust-vs-honey-locust]]-locust-vs-honey-locust)
 - [Agroforestry and Alley Cropping](/wiki/topics/agroforestry-and-alley-cropping)
-- [Carbon Farming and Climate Resilient Agriculture](/wiki/topics/carbon-farming-and-climate-resilient-agriculture)
+- [[carbon-farming-and-climate-resilient-agriculture]] and Climate Resilient Agriculture](/wiki/topics/carbon-farming-and-climate-resilient-agriculture)
 - [Desert and Arid Lands Permaculture](/wiki/topics/desert-and-arid-lands-permaculture)

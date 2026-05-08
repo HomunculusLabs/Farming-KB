@@ -102,7 +102,7 @@ exploitation and cultural appropriation on an unprecedented scale.
 
 ## Maria Sabina
 
-The most famous Mazatec curandera was [[maria-sabina-mazatec-mushroom-ceremony]] (1894-1985), whose meeting with Wasson in 1955 made her
+The most famous Mazatec curandera was [[mushroom-cultivation-fundamentals]] (1894-1985), whose meeting with Wasson in 1955 made her
 internationally known. Sabina began eating mushrooms intentionally as a child of
 about six or seven, growing up in a culture where the highest class of healers
 derived their powers from the sacred mushrooms.

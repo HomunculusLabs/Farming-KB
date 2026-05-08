@@ -24,7 +24,7 @@ neurotropic compounds in the fungal kingdom.
 
 ## Amanita: The Ibotenic Acid Muscimol Pathway
 
-Three species of [[amanita]] (Amanitaceae) produce [[ibotenic acid]] and [[muscimol]], isoxazole derivatives that
+Three species of [[amanita]] (Amanitaceae) produce [[ibotenic-acid]] and [[muscimol-entity]], isoxazole derivatives that
 act as GABA receptor agonists. This pharmacological mechanism is entirely distinct from the serotonin 5-HT2A
 receptor agonism produced by psilocybin, resulting in fundamentally different subjective effects often described as
 more deliriant and dissociative rather than psychedelic.
@@ -67,7 +67,7 @@ morphological differences including the presence of cheilocystidia and a differe
 
 [[copelandia-cyanescens]] is one of the most widely distributed tropical neurotropic fungi, found in Hawaii, the
 Caribbean, Central America, South America, Africa (Madagascar), Asia (Thailand, Indonesia, Cambodia, Philippines,
-Japan, Sri Lanka), and Oceania. It contains [[psilocybin]] and [[psilocin]]. [[copelandia-tropicalis]] is
+Japan, Sri Lanka), and Oceania. It contains [[psilocybin-compound]] and [[psilocin]]. [[copelandia-tropicalis]] is
 distributed across tropical Africa and Asia. [[copelandia-cambodginiensis]] is native to Southeast Asia, found in
 Cambodia, Thailand, India, Sri Lanka, Texas, and Hawaii. Copelandia bispora and Copelandia anomala have
 more restricted distributions across Pacific and Caribbean islands.
@@ -76,7 +76,7 @@ more restricted distributions across Pacific and Caribbean islands.
 
 The genus Panaeolus contains 13 neurotropic species. [[panaeolus-subbalteatus]] (syn. P. venenosus) is the most
 commonly encountered species in temperate regions, with a nearly cosmopolitan distribution. [[panaeolina-foenisecii]]
-(the haymaker's mushroom) remains chemically controversial, with some studies detecting [[psilocybin]] and others
+(the haymaker's mushroom) remains chemically controversial, with some studies detecting [[psilocybin-compound]] and others
 finding none. This discrepancy may reflect genuine chemical variability among populations, or persistent
 identification errors with Conocybe species that grow in the same habitats.
 
@@ -86,9 +86,9 @@ The genus Gymnopilus (Cortinariaceae) contains 14 neurotropic species, making it
 hallucinogenic mushrooms after Psilocybe and Panaeolus. These are predominantly lignicolous species that
 grow on dead wood, stumps, and logs of both hardwoods and conifers.
 
-[[gymnopilus-spectabilis]] (= G. junonius) is the most widely distributed neurotropic Gymnopilus, found across
+[[gymnopilus-spectabilis-entity]] (= G. junonius) is the most widely distributed neurotropic Gymnopilus, found across
 North America, Europe, Asia, South America, and Oceania. [[gymnopilus-purpuratus]] is a southern hemisphere species
-found in Chile, Argentina, Australia, New Zealand, and Germany (possibly introduced). It contains [[psilocybin]],
+found in Chile, Argentina, Australia, New Zealand, and Germany (possibly introduced). It contains [[psilocybin-compound]],
 [[psilocin]], and [[baeocystin]].
 
 Additional confirmed species include G. aeruginosus, G. luteofolius, G. luteus, G. sapineus, and G. validipes
@@ -96,12 +96,12 @@ primarily from North America, and G. subpurpuratus, G. lateritius, and G. liquir
 
 ## Inocybe: The Poisonous Fibercaps
 
-Six species of Inocybe (Cortinariaceae) contain [[psilocybin]] and related indole alkaloids. Members of this
+Six species of Inocybe (Cortinariaceae) contain [[psilocybin-compound]] and related indole alkaloids. Members of this
 genus are notoriously difficult to identify and many contain dangerous levels of [[muscarine]], making accidental
 poisoning a significant risk for amateur foragers who might mistake them for edible species.
 
 [[inocybe-aeruginascens]] was discovered in Hungary by Babos (1968) and became famous in Berlin during the 1980s
-when it fruited abundantly in urban parks. It produces [[psilocybin]], [[psilocin]], and the unique compound
+when it fruited abundantly in urban parks. It produces [[psilocybin-compound]], [[psilocin]], and the unique compound
 [[aeruginascin]]. [[inocybe-coelestium]] is found in Austria, the Netherlands, Germany, and Czech Republic.
 [[inocybe-corydalina]] (including var. corydalina and var. erinaceomorpha) is distributed across Europe. [[inocybe-haemacta]] ranges from Austria to Norway and Ukraine. [[inocybe-tricolor]] is documented from Italy, Switzerland,
 and Israel.
@@ -114,7 +114,7 @@ alkaloids, a chemically distinct class of neurotropic compounds related to lyser
 [[claviceps-purpurea]] is the classic ergot fungus parasitizing rye and other grasses, containing [[ergotamine]],
 ergocristine, ergocryptine, and related compounds. It is widely distributed across temperate regions
 worldwide and has been responsible for numerous historical episodes of ergotism (St. Anthony's Fire). [[claviceps-paspali]] (= C. rolfesii) parasitizes Paspalum grasses in tropical and subtropical regions and is the source of
-[[lysergic acid amide]] (LSA). Claviceps nigricans and C. tripsicii are additional species with ergot alkaloid
+[[lysergic-acid-amide]] (LSA). Claviceps nigricans and C. tripsicii are additional species with ergot alkaloid
 content found in Europe and the Americas.
 
 Cordyceps capitata and C. ophioglossoides are entomopathogenic fungi found in Europe, Asia, Mexico, and North

@@ -148,4 +148,3 @@ understanding why oral pharmacology differs from plasma chemistry alone.
 
 - [[reactive-metabolites-and-bioactivation-toxicology]]
 - [[cannabis-delivery-methods-comparison]]
-- [[cannabis-for-hepatitis-and-liver-conditions]]

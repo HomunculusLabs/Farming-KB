@@ -1,7 +1,7 @@
 ---
 title: "Blackberry vs Raspberry"
 created: 2026-04-28
-tags: [comparison, berries, bramble-fruit, homesteading, permaculture]
+tags: [comparison, berries, bramble-fruit, homesteading, [[permaculture]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
@@ -38,7 +38,7 @@ along the ground and require a trellis for support, but they tend to produce
 the largest and most flavorful berries. Semi-erect varieties offer a middle
 ground with moderately vigorous growth and some self-support.
 
-Thornless varieties have revolutionized blackberry growing for home gardeners.
+Thornless varieties have revolutionized black [[berry-growing]] for home gardeners.
 Popular thornless types include Triple Crown, Chester, and Navaho for
 semi-erect and erect habits, and the trailing varieties from the University
 of Arkansas breeding program such as Natchez and Ouachita. Thornless plants
@@ -148,6 +148,3 @@ and removing spent canes promptly after harvest to reduce disease pressure.
 
 - [[holzer-stone-fruit-varieties-and-growing]]
 - [[jadam-fruit-tree-management]]
-- companion planting and polycultures
-- [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
-- [[comparison-no-till-vs-raised-bed]]

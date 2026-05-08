@@ -126,5 +126,5 @@ species.
 
 - [[ethnomycology-cultural-significance-sacred-fungi]]
 - [[mexico-center-neurotropic-fungal-diversity]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi
 - [[gasteromycetes-sacred-fungi]]

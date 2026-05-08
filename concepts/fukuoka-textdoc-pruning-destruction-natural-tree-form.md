@@ -122,7 +122,7 @@ their trees.
 
 ## See Also
 
-- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard- conclusion]] for the integrated no-pruning orchard approach
+- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]] for the integrated no-pruning orchard approach
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] for
 orchard establishment methods
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]] for how

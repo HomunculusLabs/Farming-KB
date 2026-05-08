@@ -129,5 +129,5 @@ destruction.
 ## See Also
 
 - [[terence-mckenna|McKenna]]
-- [[psilocybin|psilocybin]]
+- [[psilocybin-compound|psilocybin]]
 - [[entheogen-culture|sacrament]]

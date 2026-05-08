@@ -17,7 +17,7 @@ type: concept
 
 # Pressure Cooker Sterilisation for Fungal Substrate Jars
 
-Sterilisation is arguably the most critical step in fungal cultivation, as even minor contamination can destroy an entire batch of substrate. Pressure cooker sterilisation (also called autoclaving when performed in laboratory-grade equipment) is the standard method for preparing grain-based substrates for [[mycological cultivation]]. The technique is non-negotiable — shortcuts at this stage will inevitably manifest as contamination later in the process.
+Sterilisation is arguably the most critical step in fungal cultivation, as even minor contamination can destroy an entire batch of substrate. Pressure cooker sterilisation (also called autoclaving when performed in laboratory-grade equipment) is the standard method for preparing grain-based substrates for [[mycological-cultivation]]. The technique is non-negotiable — shortcuts at this stage will inevitably manifest as contamination later in the process.
 
 ## Why Pressure Cooking Is Necessary
 

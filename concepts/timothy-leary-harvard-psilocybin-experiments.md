@@ -90,7 +90,7 @@ His story illustrates the tension between the genuine potential of psychedelic s
 
 - [[mesoamerican-mushroom-ceremonies-teonanacatl]]
 
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 - [[hofmann-self-experiment-with-ergonovine]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

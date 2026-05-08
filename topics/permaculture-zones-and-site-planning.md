@@ -472,7 +472,7 @@ knowledge into a coherent spatial pattern.
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[faires-zone-and-sector-planning]]
 - [[hemenway-zone-and-sector-planning]]
-- [[holmgren-zones-and-sectors-design-framework]]
+- [[permaculture-design]]
 - [[mollison-course-zone-planning-and-design]]
 - [[mollison-designers-sector-analysis-wind-sun-fire]]
 - [[mollison-designers-climate-zone-1-intensive-garden]]

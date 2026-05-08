@@ -1,6 +1,6 @@
 ---
-title: Four Principles of Natural Farming
-tags: [agriculture, natural-farming, permaculture, sustainable-farming, masanobu-fukuoka]
+title: four principles of natural farming
+tags: [agriculture, natural-farming, [[permaculture]], sustainable-farming, masanobu-fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -8,77 +8,9 @@ sources:
 created: 2026-04-28
 type: concept
 ---
+# [[fukuoka-natural-farming-four-principles]] of Natural Farming
 
-# Four Principles of Natural Farming
-
-The four principles of natural farming are the philosophical and practical
-foundation of Masanobu Fukuoka's agricultural system, articulated in *The
-One-Straw Revolution* (1978). They emerged from decades of experimentation on
-his farm in Ehime Prefecture, Japan, representing a radical departure from both
-conventional scientific agriculture and traditional farming practices. Rather
-than prescribing techniques to add, Fukuoka systematically eliminated
-unnecessary human interventions, allowing natural systems to self-regulate and
-produce abundant harvests with minimal labour. The four principles — no
-cultivation, no chemical fertilizer or prepared compost, no weeding by tillage
-or herbicides, and no dependence on chemicals — comply with the natural order
-and lead to the replenishment of nature's richness. They arise from a single
-conviction: "Humanity knows nothing at all."
-
-## The First Principle: No Cultivation
-
-Cultivation has been considered essential to agriculture for centuries. Deep
-ploughing was introduced to Japan with Western agriculture during the Tokugawa
-Era some 300 to 400 years ago. Fukuoka demonstrated that the earth cultivates
-itself naturally through the penetration of plant roots and the activity of
-microorganisms, small animals, and earthworms.
-
-When soil is cultivated, the natural environment is altered beyond recognition.
-The repercussions of such acts have caused farmers nightmares for countless
-generations. For example, when a natural area is brought under the plough,
-very strong weeds such as crabgrass and docks sometimes come to dominate the
-vegetation. When these weeds take hold, the farmer is faced with a nearly
-impossible task of weeding each year, and very often the land is abandoned.
-
-The only sensible approach is to discontinue the unnatural practices that
-brought about the situation in the first place. If gentle measures such as
-spreading straw and sowing clover are practiced instead of using man-made
-chemicals and machinery to wage a war of annihilation, the environment will
-move back toward its natural balance. Fukuoka's fields had not been ploughed
-for over twenty-five years, producing about 22 bushels per quarter acre with
-the quality of soil improving each season. The surface layer, rich in humus,
-became enriched to a depth of more than four inches.
-
-## The Second Principle: No Chemical Fertilizer or Prepared Compost
-
-People interfere with nature and cannot heal the resulting wounds. Their
-careless farming practices drain the soil of essential nutrients, resulting in
-yearly depletion. If left to itself, the soil maintains its fertility naturally
-in accordance with the orderly cycle of plant and animal life.
-
-Fukuoka grew a leguminous cover of white clover, returned all threshed straw
-to the fields, and added a small amount of poultry manure. He asked soil
-fertility experts whether a field left to itself would see its fertility
-increase or become depleted. They acknowledged that uncultivated, unfertilized
-fields maintain stable harvests, but in truly natural conditions, fertility
-actually increases. Organic remains decompose on the surface through bacteria
-and fungi. Rainwater carries nutrients deep into soil for microorganisms and
-earthworms, while plant roots draw nutrients back up to the surface.
-
-To see the natural fertility of the earth, Fukuoka suggested looking at giant
-trees growing on wild mountainsides without fertilizer and without cultivation.
-For growing agricultural crops, a permanent green manure cover and the return
-of all straw and chaff are sufficient. Over-fertilization causes problems: one
-year, a field used as a chicken manure dump produced rice plants so dense they
-were attacked by blast disease despite no chemical fertilizer being applied.
-
-Fukuoka emphasized that there is no need to prepare compost in the laborious
-traditional way. If straw is left on the surface and covered with a thin layer
-of chicken manure or duck droppings, it completely decomposes within six
-months.
-
-## The Third Principle: No Weeding by Tillage or Herbicides
-
-Weeds play their part in building soil fertility and in balancing the
+The four principles of [[natural-farming]] are the philosophical masanobu fukuokaundation of [[masanobu-fukuoka's-agricultural-system,-articulated-in-*the-one-straw-revolution*-(1978).-they-emerged-from-decades-of-experimentation-on-his-farm-in-ehime-prefecture,-japan,-representing-a-radical-departure-from-both-conventional-scientific-agriculture-and-traditional-farming-practices.-rather-than-prescribing-techniques-to-add,-fukuoka-systematically-eliminated-unnecessary-human-interventions,-allowing-natural-systems-to-self-regulate-and-produce-abundant-harvests-with-minimal-labour.-the-four-principles-—-no-cultivation,-no-chemical-fertilizer-or-prepared-compost,-no-weeding-by-tillage-or-herbicides,-and-no-dependence-on-chemicals-—-comply-with-the-natural-order-and-lead-to-the-replenishment-of-nature's-richness.-they-arise-from-a-single-conviction:-"humanity-knows-nothing-at-all."-##-the-first-principle:-no-cultivation-cultivation-has-been-considered-essential-to-agriculture-for-centuries.-deep-ploughing-was-introduced-to-japan-with-western-agriculture-during-the-tokugawa-era-some-300-to-400-years-ago.-fukuoka-demonstrated-that-the-earth-cultivates-itself-naturally-through-the-penetration-of-plant-roots-and-the-activity-of-microorganisms,-small-animals,-and-earthworms.-when-soil-is-cultivated,-the-natural-environment-is-altered-beyond-recognition.-the-repercussions-of-such-acts-have-caused-farmers-nightmares-for-countless-generations.-for-example,-when-a-natural-area-is-brought-under-the-plough,-very-strong-weeds-such-as-crabgrass-and-docks-sometimes-come-to-dominate-the-vegetation.-when-these-weeds-take-hold,-the-farmer-is-faced-with-a-nearly-impossible-task-of-weeding-each-year,-and-very-often-the-land-is-abandoned.-the-only-sensible-approach-is-to-discontinue-the-unnatural-practices-that-brought-about-the-situation-in-the-first-place.-if-gentle-measures-such-as-spreading-straw-and-sowing-clover-are-practiced-instead-of-using-man-made-chemicals-and-machinery-to-wage-a-war-of-annihilation,-the-environment-will-move-back-toward-its-natural-balance.-fukuoka's-fields-had-not-been-ploughed-for-over-twenty-five-years,-producing-about-22-bushels-per-quarter-acre-with-the-quality-of-soil-improving-each-season.-the-surface-layer,-rich-in-humus,-became-enriched-to-a-depth-of-more-than-four-inches.-##-the-second-principle:-no-chemical-fertilizer-or-prepared-compost-people-interfere-with-nature-and-cannot-heal-the-resulting-wounds.-their-careless-farming-practices-drain-the-soil-of-essential-nutrients,-resulting-in-yearly-depletion.-if-left-to-itself,-the-soil-maintains-its-fertility-naturally-in-accordance-with-the-orderly-cycle-of-plant-and-animal-life.-fukuoka-grew-a-leguminous-cover-of-white-clover,-returned-all-threshed-straw-to-the-fields,-and-added-a-small-amount-of-poultry-manure.-he-asked-soil-fertility-experts-whether-a-field-left-to-itself-would-see-its-fertility-increase-or-become-depleted.-they-acknowledged-that-uncultivated,-unfertilized-fields-maintain-stable-harvests,-but-in-truly-natural-conditions,-fertility-actually-increases.-organic-remains-decompose-on-the-surface-through-bacteria-and-fungi.-rainwater-carries-nutrients-deep-into-soil-for-microorganisms-and-earthworms,-while-plant-roots-draw-nutrients-back-up-to-the-surface.-to-see-the-natural-fertility-of-the-earth,-fukuoka-suggested-looking-at-giant-trees-growing-on-wild-mountainsides-without-fertilizer-and-without-cultivation.-for-growing-agricultural-crops,-a-permanent-green-manure-cover-and-the-return-of-all-straw-and-chaff-are-sufficient.-over-fertilization-causes-problems:-one-year,-a-field-used-as-a-chicken-manure-dump-produced-rice-plants-so-dense-they-were-attacked-by-blast-disease-despite-no-chemical-fertilizer-being-applied.-fukuoka-emphasized-that-there-is-no-need-to-prepare-compost-in-the-laborious-traditional-way.-if-straw-is-left-on-the-surface-and-covered-with-a-thin-layer-of-chicken-manure-or-duck-droppings,-it-completely-decomposes-within-six-months.-##-the-third-principle:-no-weeding-by-tillage-or-herbicides-weeds-play-their-part-in-[[building-soil]] fertility and in balancing the
 biological community. As a fundamental principle, weeds should be controlled,
 not eliminated. Straw mulch, a ground cover of white clover, and temporary
 flooding provide effective weed control.
@@ -144,16 +76,7 @@ first-year losses from abandoning chemicals would reach about ten percent, but
 nature's recuperative power is great beyond imagining and harvests would
 eventually surpass their original level.
 
-The principles have influenced permaculture, regenerative agriculture, and
+The principles have influenced permaculture, [[regenerative-agriculture]], and
 no-till farming movements worldwide. Natural farming takes a distinctive form
 according to local conditions. In making the transition, some weeding or
 composting may be necessary at first, then gradually reduced. Ultimately, the
-most important factor is not technique, but the state of mind of the farmer.
-Nature does not change, although the way of viewing nature invariably changes
-from age to age. Natural farming exists forever as the wellspring of agriculture.
-
-## See Also
-
-- [[four-principles-natural-farming]]
-- [[four-principles-of-natural-farming-fukuoka]]
-- [[natural-farm-composting-vermicomposting]]

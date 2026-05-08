@@ -98,7 +98,7 @@ Some fungi produce extracellular enzymes that directly attack mineral structures
 
 Paxillus involutus synthesizes oxalic acid and solubilizes calcium from mineral matrices. Leyval et al. (1993) demonstrated mobilization of phosphorus and cadmium from rock phosphates by rhizosphere microorganisms including ectomycorrhizal fungi. The intimate contact between hyphae and mineral surfaces maximizes weathering efficiency.
 
-The weathering capacity of ectomycorrhizal fungi is particularly important in forest ecosystems, where these fungi form dense hyphal mats that explore vast volumes of soil. The [[fungal-ecology-forest-floor]] page describes the forest floor context where this weathering occurs.
+The weathering capacity of ectomycorrhizal fungi is particularly important in forest ecosystems, where these fungi form dense hyphal mats that explore vast volumes of soil. The [[the-soil-food-web]] page describes the forest floor context where this weathering occurs.
 
 ## Saprotrophic and Rock-Inhabiting Fungi
 
@@ -128,12 +128,12 @@ Fungal mineral weathering has practical applications:
 
 - [[soil-food-web-nutrient-cycling]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 - [[gadd-fungal-metal-interactions]]
 
 - [[mycorrhiza-soil-bioremediation]]
 
 ## Merged: Tassili Rock Art and the Mushroom Debate
-The Tassili plateau of southern Algeria contains some of the most discussed — and contested — rock art in the history of psychedelic research. The images, dating from the Neolithic to the start of the Common Era, have been interpreted by some as evidence of prehistoric mushroom use, though this interpretation is far from settled. This image was popularized by [[terence-mckenna-stoned-ape-hypothesis]], who reproduced it in two widely read books. - [[terence-mckenna-stoned-ape-hypothesis]] - [[archaeology-of-psychedelic-mushroom-use]] - [[archaeology-of-psychedelic-mushroom-use]] - [[amanita-muscaria-guide]] - [[gordon-wasson-mushroom-discovery]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18 - rock eating fungi and mineral weathering
+The Tassili plateau of southern Algeria contains some of the most discussed — and contested — rock art in the history of psychedelic research. The images, dating from the Neolithic to the start of the Common Era, have been interpreted by some as evidence of prehistoric mushroom use, though this interpretation is far from settled. This image was popularized by [[psychedelic-mushrooms-species-and-identification]], who reproduced it in two widely read books. - [[psychedelic-mushrooms-species-and-identification]] - [[archaeology-of-psychedelic-mushroom-use]] - [[archaeology-of-psychedelic-mushroom-use]] - [[amanita-muscaria-guide]] - [[gordon-wasson-mushroom-discovery]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18 - rock eating fungi and mineral weathering
 - [[plate-tectonics]]

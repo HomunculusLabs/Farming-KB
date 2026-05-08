@@ -148,4 +148,3 @@ A **swale** is a shallow, level trench excavated along the contour of a slope wi
 - [[biochar]] — amendment enhancing swale infiltration and water retention
 - [[comfrey]] — deep-rooted accumulator commonly planted on swale berms
 - [[mark-shepard]] — broadscale perennial agriculture integrating swales
-- [[geoff-lawton]] — swale demonstration in extreme arid environments

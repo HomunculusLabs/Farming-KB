@@ -14,12 +14,11 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
+# [[genetic-engineering-of-fungi-for-mycoremediation]] Critique and Warning
 
-# Genetic Engineering Critique and Warning
+Masanobu Fukuoka raised prescient warnings about genetic engineering decades before the technology benatural-way-of-farming-guideread. Writing in *The Natural Way of Farming*, he described a future in which scientists would alter life at will, calling them "a self-appointed surrogate of the Creator" who had gotten hold of "a magic wand, a sorcerer's staff."
 
-Masanobu Fukuoka raised prescient warnings about genetic engineering decades before the technology became widespread. Writing in *The Natural Way of Farming*, he described a future in which scientists would alter life at will, calling them "a self-appointed surrogate of the Creator" who had gotten hold of "a magic wand, a sorcerer's staff."
-
-His critique was rooted not in Luddism but in a deep philosophical conviction that human knowledge, no matter how advanced, could never equal the perfection of nature. Every prediction he made about the direction of biotechnology has proven at least partially accurate.
+His critique was rooted not ifukuoka-nature-transcends-human-knowledgen a deep philosophical conviction that human knowledge, no matter how advanced, could never equal the perfection of nature. Every prediction he made about the direction of biotechnology has proven at least partially accurate.
 
 ## Predictions About Plant Genetic Engineering
 
@@ -65,7 +64,7 @@ The scientist who believes that "someday human knowledge will be complete" is, i
 
 Fukuoka drew a sharp distinction between nature's ability to create something from nothing and humanity's ability to merely imitate.
 
-He challenged the notion that man could ever fabricate a persimmon seed artificially:
+He challenged the notion that man could ever fabricate a [[persimmon]] seed artificially:
 
 "The level of technology that would be needed to create a single persimmon seed or leaf is incomparably greater than that used to launch a rocket into outer space."
 
@@ -135,7 +134,7 @@ His critique challenges both proponents and opponents of genetic engineering to 
 
 ## Connection to Natural Farming Principles
 
-The genetic engineering critique is inseparable from Fukuoka's five principles of natural farming: no tillage, no fertilizer, no pesticides, no weeding, and no pruning.
+The genetic engineering critique is inseparable from Fukuoka's five principles of [[natural-farming]]: no tillage, no fertilizer, no pesticides, no weeding, and no pruning.
 
 Each of these principles represents a rejection of the premise that human intervention improves upon nature.
 
@@ -148,5 +147,3 @@ In Fukuoka's framework, the proper response to crop disease or low yield is not 
 ## See Also
 
 - [[masanobu-fukuoka]]
-- [[natural-farming]]
-- [[persimmon]]

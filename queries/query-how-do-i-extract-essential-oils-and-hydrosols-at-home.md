@@ -148,11 +148,3 @@ shelf life to 1-2 years.
   hydrosols to maximize shelf life.
 
 ## Related Questions
-
-- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
-- [[medicinal-herb-growing]]
-
-## See Also
-
-- [[query-how-to-make-herbal-salves-and-balms-at-home]]
-- [[query-how-to-grow-sprouts-and-microgreens-at-home]]

@@ -1,5 +1,5 @@
 ---
-title: "Convallaria majalis"
+title: "convallaria majalis"
 created: 2026-05-06
 type: species
 tags:
@@ -30,16 +30,16 @@ sources:
 **Convallaria majalis** (lily of the valley) is a herbaceous perennial
 plant in the family Asparagaceae, native to temperate regions of the
 Northern Hemisphere. Valued for its intensely fragrant white flowers,
-it is widely cultivated as an ornamental ground cover in woodland gardens.
+it is widely cultivated as an ornamental [[fukuoka-white-clover-ground-cover]] in woodland gardens.
 
 All parts of the plant contain potent cardiac glycosides, primarily
 convallatoxin and convallamarin. Ingestion can cause cardiac arrhythmias
-and death, making it one of the most dangerous commonly-grown garden plants.
+and death, making it one of the most dangerous commonly-grown [[hamilton-shade-garden-plants]].
 
-Despite its toxicity, *C. majalis* has a long history of medicinal use
+Despite its toxicity, *C. majalis* has a long history of [[query-what-are-the-best-mushrooms-for-medicinal-use]]
 in European folk medicine, particularly as a diuretic and heart remedy.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Taxonomy:**
 
@@ -68,11 +68,11 @@ in European folk medicine, particularly as a diuretic and heart remedy.
 Native to Europe, from the British Isles and Scandinavia southward through
 central and southern Europe to the Caucasus. Also native to eastern Asia
 (Japan, Korea, northeastern China) and limited populations in the eastern
-Appalachian Mountains of the United States.
+Appalachian Mountains of the [[sacramental-ayahuasca-legal-battles-united-states]].
 
 Typical habitat includes deciduous and mixed woodlands, shaded ravines,
 and damp meadows. Prefers humus-rich, moist, well-drained, slightly acidic
-soils in partial to full shade. An indicator species of ancient woodlands
+soils in partial to full shade. An [[fungal-ecosystem-indicator-species]] of ancient woodlands
 in parts of its European range.
 
 In North America, the Appalachian populations are considered native relicts
@@ -148,6 +148,3 @@ cardiac glycoside
 na k atpase
 ouabain
 convallatoxin
-[[digoxin]]
-asparagaceae
-woodland garden

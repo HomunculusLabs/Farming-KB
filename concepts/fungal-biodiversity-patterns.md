@@ -148,4 +148,3 @@ of fungal biodiversity.
 - [[biodiversity-fungal-species-abundance-diversity]]
 
 - [[fungal-species-estimates-biodiversity-overview]] for species estimates
-- [[biodiversity-macrofungi-inventory-methods]] for field sampling design

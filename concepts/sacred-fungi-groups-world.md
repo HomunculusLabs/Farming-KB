@@ -100,7 +100,7 @@ hallucinogenic fungus.
 ## Related Topics
 
 - [[neurotropic-fungi-world-checklist]] - Complete species checklist with taxonomy
-- [[hallucinogenic-plants-of-the-world]] - Broader context
+- [[entheogenic-plants-and-psychoactive-flora]] - Broader context
 - [[neurotropic-fungi-biogeographic-patterns]] - Geographic distribution
 - [[magic-mushroom-cultural-history]] - Cultural history of use
 - [[amanita-muscaria-ethnobotany]] - Amanita ceremonial use

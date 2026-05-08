@@ -123,6 +123,6 @@ The nuts are traded in local, regional, and international markets, providing sig
 - [[cannabis-strain-guide-reference]]
 - [[paullinia-cupana]]
 - [[stevia-rebaudiana]]
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[agroforestry]]
 - [[companion-planting]]

@@ -109,5 +109,5 @@ Understanding the watershed above and below your site is critical:
 ## See Also
 
 - [[permaculture-site-analysis]]
-- [[permaculture-design-methods]]
+- [[permaculture-design]]
 - [[rainwater-harvesting-systems]]

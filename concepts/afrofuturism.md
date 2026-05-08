@@ -1,30 +1,27 @@
 ---
-title: "Afrofuturism"
+title: "afrofuturism"
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
 type: concept
 tags: [reference]
 ---
-
 # Afrofuturism
 ## Overview
 Afrofuturism is a cultural, artistic, and intellectual movement that imagines futures through Black histories, experiences, technologies, and cosmologies.
-It appears in literature, music, film, visual art, fashion, comics, games, architecture, scholarship, and political thought.
+It appears in literature, music, film, [[mushroom-symbolism-visual-art]], fashion, comics, games, architecture, scholarship, and political thought.
 
 The movement combines speculation with memory.
 
-It asks how people of African descent might survive, transform, and design futures after slavery, colonialism, racism, displacement, and technological exclusion.
+It asks how people of African descent migmollison-spiral-patterns-in-nature-and-design]], transform, and design futures after slavery, colonialism, racism, displacement, and technological exclusion.
 Afrofuturism is not only science fiction with Black characters.
 
 It is a way of reworking time, identity, technology, ancestry, and liberation.
 
 It often treats the past as unfinished and the future as contested.
 
-Spaceships, cyborgs, alien worlds, mythic ancestors, sonic technologies, and ritual symbols can all coexist in Afrofuturist work.
-The field draws from science fiction, African diaspora, Black studies, electronic music, Pan-Africanism, and speculative design.
-
-It also challenges the assumption that technological modernity belongs mainly to Europe or North America.
+Spaceships,[[eleusinian-telesterion-architecture-and-ritual]] alien worlds, mythic ancestors, sonic technologies, and ritual symbols can all coexist in Afrofuturist work.
+The field draws from science fiction, African diaspora, Black studies, electronic music, Pan Africanism, and speculativ [[maitake-growth-parameter-comparison-china-japan-north-america]] also challenges the assumption that technological modernity belongs mainly to Europe or North America.
 
 By placing Black imagination at the center of futurity, Afrofuturism changes who is allowed to be seen as a maker of worlds.
 
@@ -148,7 +145,3 @@ postcolonial theory
 
 technological imaginary
 - [[low-energy-futures-in-permaculture]]
-- [[permaculture-futures-and-aid]]
-- [[computational-universe-and-natural-intelligence]]
-- [[octavia-e-butler]]
-- [[sun-ra]]

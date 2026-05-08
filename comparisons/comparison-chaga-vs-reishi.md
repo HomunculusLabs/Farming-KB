@@ -142,19 +142,6 @@ Both mushrooms benefit enormously from **dual extraction** — their compounds s
 ---
 
 ## Which Should You Choose?
-
-**Choose Chaga if:** You want the most potent antioxidant profile of any widely-used mushroom; focus is immune support and anti-inflammatory action; you enjoy earthy, vanilla-like flavor in teas; you're committed to sourcing from sustainable wildcrafters.
-
-**Choose Reishi if:** You want a broad-spectrum adaptogen for stress, sleep, and systemic health; liver support, cardiovascular health, or nervous system calming are priorities; you value sustainability via cultivation; you prefer the widest product range (capsules, spore oil, tinctures, teas).
-
-**Choose Both:** Morning chaga tea + evening reishi decoction is a popular synergistic stack — chaga for antioxidant/immune potency, reishi for adaptogenic calming breadth.
-
-Both are generally safe and well-tolerated. Consult a practitioner if you have autoimmune conditions or take immunosuppressants. Reishi may have mild blood-thinning effects; chaga's high oxalate content is a consideration for kidney stone sufferers.
-
----
-
-*See also: [[comparison-chaga-vs-reishi-medicinal|Chaga vs Reishi — Medicinal Uses]], [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms|Chaga vs Turkey Tail]]*
-
 ## See Also
 
 - [[comparison-perlite-vs-vermiculite]]

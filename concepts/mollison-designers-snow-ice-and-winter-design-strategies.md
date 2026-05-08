@@ -147,7 +147,3 @@ inputs in cold climates. These strategies connect directly to
 [[mollison-frost-protection-and-thermal-belt-design]] and [[mollison-designers-cool-temperate-soils-and-landform-water-conservation]] design. See also [[zone-and-sector-analysis]] for zone and sector planning in cold climates.
 
 ## See Also
-
-[[winter-gardening-season-extension]] for extending the growing season in cold climates.
-[[permaculture-design]] for foundational design principles.
-[[water-storage-techniques]] for storing snowmelt and water resources.

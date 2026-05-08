@@ -138,7 +138,7 @@ trans-Pacific dispersal events.
 
 - [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 
-- [[psilocybe-semilanceata-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 - [[psilocybe-weilii-species-profile]]
 
@@ -146,6 +146,5 @@ trans-Pacific dispersal events.
 
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[natto-making]]
-- [[psilocybe-cubensis-profile]]
-- [[psilocybe-mexicana-profile]]
-- [[psilocybe-semilanceata-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushrooms-species-and-identification]]

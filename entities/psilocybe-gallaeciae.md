@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe gallaeciae
 
-**Psilocybe gallaeciae** is a bluing [[psilocybin]]-containing mushroom species in the family Hymenogastraceae. It was described from northwestern Spain (Galicia) and is one of the lesser-known European psilocybian fungi. The species is closely related to [[psilocybe-semilanceata]] and was for many years confused with it before being recognized as distinct.
+**Psilocybe gallaeciae** is a bluing [[psilocybin-compound]]-containing mushroom species in the family Hymenogastraceae. It was described from northwestern Spain (Galicia) and is one of the lesser-known European psilocybian fungi. The species is closely related to [[psilocybe-semilanceata]] and was for many years confused with it before being recognized as distinct.
 
 ## Taxonomy
 
@@ -68,10 +68,10 @@ The species epithet *gallaeciae* refers to Gallaecia, the ancient Roman name for
 
 ## Chemistry
 
-Like other members of section Semilanceatae, **P. gallaeciae** contains the psychoactive indole alkaloids [[psilocybin]] and [[psilocin]], along with [[baeocystin]] as a minor constituent.
+Like other members of section Semilanceatae, **P. gallaeciae** contains the psychoactive indole alkaloids [[psilocybin-compound]] and [[psilocin]], along with [[baeocystin]] as a minor constituent.
 
 ### Reported Alkaloid Levels
-- [[psilocybin]]: approximately 0.2 to 0.8% dry weight
+- [[psilocybin-compound]]: approximately 0.2 to 0.8% dry weight
 - [[psilocin]]: trace to 0.1% dry weight
 - [[baeocystin]]: present in small amounts
 
@@ -98,7 +98,7 @@ Microscopic examination is typically required for definitive identification. DNA
 
 ## Cultural and Ethnobotanical Significance
 
-**P. gallaeciae** has no well-documented history of traditional use. Its psychoactive properties were discovered through modern chemical analysis rather than indigenous knowledge. The species is of primarily academic interest to mycologists studying the [[psilocybin]]-containing fungi of the Iberian Peninsula.
+**P. gallaeciae** has no well-documented history of traditional use. Its psychoactive properties were discovered through modern chemical analysis rather than indigenous knowledge. The species is of primarily academic interest to mycologists studying the [[psilocybin-compound]]-containing fungi of the Iberian Peninsula.
 
 It is sometimes encountered inadvertently by foragers targeting [[psilocybe-semilanceata]] in northwestern Spain.
 
@@ -108,7 +108,7 @@ The species has not been formally evaluated for the IUCN Red List. Its limited k
 
 ## Legal Status
 
-Like all [[psilocybin]]-containing mushrooms, **P. gallaeciae** is controlled under drug legislation in most jurisdictions. In Spain, the collection and possession of psilocybian mushrooms is restricted.
+Like all [[psilocybin-compound]]-containing mushrooms, **P. gallaeciae** is controlled under drug legislation in most jurisdictions. In Spain, the collection and possession of psilocybian mushrooms is restricted.
 
 ## Ecological Role
 
@@ -120,6 +120,6 @@ The bluing reaction that characterizes psilocybian fungi is caused by the oxidat
 
 - [[psilocybe-semilanceata]] — the most widespread and well-known European bluing psilocybe
 - [[psilocybe-hispanica]] — related Iberian species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[baeocystin]] — minor psychoactive alkaloid
 - gastón-guzmán — prominent taxonomist who studied psilocybian fungi globally

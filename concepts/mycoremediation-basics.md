@@ -128,4 +128,4 @@ Fungi are known to degrade a wide variety of materials (Singh 2006):
 - [[fungal-remediation-decision-tree]]
 - [[fungal-enzyme-systems-bioremediation]]
 - [[mycoremediation-case-studies]]
-- [[mycoremediation-regulatory-framework]]
+- mycoremediation regulatory framework

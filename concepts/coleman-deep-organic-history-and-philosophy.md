@@ -148,4 +148,3 @@ with living systems.
 
 See also [[coleman-deep-organic-farming]],
 [[coleman-compost-and-organic-fertility-management]], and
-[[coleman-winter-harvest-philosophy]].

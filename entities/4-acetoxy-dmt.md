@@ -140,23 +140,10 @@ The legal status of 4-AcO-DMT varies by country and is subject to rapid change:
 As interest in psychedelic-assisted psychotherapy expands, 4-AcO-DMT is being considered alongside psilocybin as a potential therapeutic compound:
 
 - **Advantages over psilocybin:** Greater chemical stability (psilocybin is sensitive to oxidation and hydrolysis); potentially better oral bioavailability due to increased lipophilicity; easier and more economical to synthesize at scale; more consistent dosing without the variability inherent in natural mushroom material
-- **Therapeutic applications under investigation:** Treatment-resistant depression, anxiety disorders (including end-of-life anxiety), substance use disorders (alcohol, tobacco, other substances), PTSD, and obsessive-compulsive disorder
-- **Clinical research status:** As of 2026, psilocybin (rather than 4-AcO-DMT) remains the primary compound in clinical trials; however, some researchers have argued that 4-AcO-DMT may offer practical advantages in clinical settings and that bioequivalence data supports its consideration as an alternative therapeutic agent
-
-## Analytical Methods
-
-4-AcO-DMT can be detected and quantified using standard analytical techniques:
-
-- **GC-MS:** After derivatization (e.g., silylation); however, 4-AcO-DMT may partially degrade to psilocin under GC conditions
-- **LC-MS/MS:** The preferred method for detection and quantification; allows simultaneous detection of 4-AcO-DMT and its metabolite psilocin; MRM transitions: m/z 247 → 188 (quantifier), 247 → 160 (qualifier)
-- **HPLC-UV:** Detection at 269 nm; suitable for purity assessment of reference material
-- **NMR:** ¹H and ¹³C NMR for structural confirmation of synthesized material
-- **FTIR and Raman spectroscopy:** Rapid field identification techniques
-
 ## See Also
 
-- [[psilocybin]] — Natural phosphate prodrug of psilocin, the primary psychedelic compound in magic mushrooms
+- [[psilocybin-compound]] — Natural phosphate prodrug of psilocin, the primary psychedelic compound in magic mushrooms
 - [[psilocin]] — Active metabolite of both psilocybin and 4-AcO-DMT
-- [[4-PO-DMT]] — Alternative name for psilocybin
+- [[4-po-dmt]] — Alternative name for psilocybin
 - [[dmt]] — N,N-Dimethyltryptamine, the parent compound of the 4-substituted tryptamines
-- [[5-HT2A Receptor]] — Primary receptor target mediating psychedelic effects
+- [[5-ht2a-receptor]] — Primary receptor target mediating psychedelic effects

@@ -99,7 +99,7 @@ Various historical methods have been proposed to render all toadstools safe. Pli
 - [[amanita-muscaria-pharmacology]]
 - [[mushroom-identification]]
 - [[mushroom-identification-basics]]
-- [[mushroom-identification-resources]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-identification-taxonomic-confusion]]
 - [[amanita-genus-morphology]]
 - [[inocybe-aeruginascens-profile]]

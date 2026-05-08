@@ -89,6 +89,6 @@ The use of solanaceous hallucinogens in European witchcraft represents a Western
 
 - [[harner-datura-solanaceous-shamanism]]
 
-- [[harner-mazatec-mushroom-shamanism]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[harner-mescalero-peyote-shamanism]]

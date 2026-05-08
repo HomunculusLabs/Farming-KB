@@ -103,7 +103,6 @@ This is the essence of permaculture design: place elements in the right relation
 
 ## See Also
 
-
 - [[mollison-bamboo-permaculture-systems]]
 
 - [[permaculture-animal-integration]]

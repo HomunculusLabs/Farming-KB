@@ -43,7 +43,7 @@ The process is also time-consuming compared to traditional cloning. While tradit
 ## Procedure Overview
 
 1. **Explant selection**: Choose a healthy, actively growing meristem tip from a verified mother plant.
-2. **[[microwave-surface-sterilization]]**: The explant is dipped in a mild bleach solution (typically 5-10% sodium hypochlorite) for several minutes, then rinsed with sterile water.
+2. **microwave-surface-sterilization**: The explant is dipped in a mild bleach solution (typically 5-10% sodium hypochlorite) for several minutes, then rinsed with sterile water.
 3. **Medium preparation**: Agar medium is prepared, pH-adjusted (typically 5.6-5.8), autoclaved, and poured into sterile culture vessels.
 4. **Inoculation**: Under sterile conditions (laminar flow hood), the sterilized explant is placed on the medium.
 5. **Incubation**: Cultures are kept under low light (16-24 hours) at 72-78°F (22-26°C). Shoots develop over 2-4 weeks.

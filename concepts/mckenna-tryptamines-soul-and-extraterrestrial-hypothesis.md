@@ -148,4 +148,3 @@ reality ordinarily inaccessible to ordinary awareness.
 - [[dmt-hyperspace-and-machine-elves]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-psychedelic-shamanism]]
-- [[mckenna-hyperspace-and-human-freedom]]

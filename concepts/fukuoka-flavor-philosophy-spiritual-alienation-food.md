@@ -148,5 +148,3 @@ body can draw sustenance from a simple diet.
 [[fukuoka-textdoc-nature-of-food]]
 [[fukuoka-food-spirit-united]]
 [[fukuoka-natural-diet-philosophy]]
-[[fukuoka-food-and-human-health]]
-[[fukuoka-critique-western-dietetics]]

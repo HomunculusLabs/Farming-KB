@@ -144,7 +144,7 @@ The species appears to thrive in nitrogen-rich environments, which explains its 
 
 - [[conocybe-cyanopus]]
 - [[conocybe-kuehneriana]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[baeocystin]]
 - Bolbitiaceae
 - alexander-h.-smith

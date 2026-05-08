@@ -109,7 +109,7 @@ In agroforestry contexts, A. senegal is frequently compared to other multipurpos
 
 ## See Also
 
-- [[acacia-senegal]]
+- acacia senegal
 - fabaceae
 - [[nitrogen-fixing-trees]]
 - [[agroforestry]]

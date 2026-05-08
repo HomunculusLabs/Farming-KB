@@ -136,6 +136,6 @@ In **permaculture systems**, St. John's Wort serves multiple functions:
 - [[rhamnus-purshiana]]
 
 - [[hypericin]] — primary photosensitizing naphthodianthrone compound
-- [[hypericum-perforatum]] — primary antidepressant phloroglucinol compound
+- hypericum perforatum — primary antidepressant phloroglucinol compound
 - [[herbal-medicine-making-basics]] — comparison with other botanical mood medicines
 - [[medicinal-mushroom-guide-turkey-tail]] — medicinal species in permaculture design

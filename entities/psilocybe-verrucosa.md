@@ -32,7 +32,7 @@ psilocybe verrucosa is known from several Mexican states, including Veracruz, Oa
 
 ## Chemistry
 
-Chemical analyses have confirmed the presence of [[psilocybin]] and [[psilocin]] in psilocybe verrucosa. The total tryptamine content places it in the low-to-moderate potency range, comparable to [[psilocybe-mexicana]]. Baeocystin and norbaeocystin have been detected in minor amounts. The moderate bluing reaction in fresh specimens is consistent with the measured alkaloid concentrations, suggesting significant but not exceptional levels of [[psilocin]] and its oxidative products.
+Chemical analyses have confirmed the presence of [[psilocybin-compound]] and [[psilocin]] in psilocybe verrucosa. The total tryptamine content places it in the low-to-moderate potency range, comparable to [[psilocybe-mexicana]]. Baeocystin and norbaeocystin have been detected in minor amounts. The moderate bluing reaction in fresh specimens is consistent with the measured alkaloid concentrations, suggesting significant but not exceptional levels of [[psilocin]] and its oxidative products.
 
 ## Ethnomycology
 
@@ -84,7 +84,7 @@ The species' preference for dung substrates in nature suggests that composted or
 - [[psilocybe-caerulescens-entity]] — larger, more potent species of southern Mexico
 - [[psilocybe-subbrunneascens]] — Guatemalan species from the same section
 - gastón-guzmán — primary authority on Mexican psilocybin mushrooms
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — secondary tryptamine alkaloid
 - [[psilocybe-martinezii]] — Oaxacan species from section Mexicanae

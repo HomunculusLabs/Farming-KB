@@ -20,7 +20,7 @@ sources:
 
 ## Taxonomy and History
 
-The species was described based on material from North America, with the specific epithet *tricolor* referring to the three distinct color zones observed on the fruiting body — typically a darker center of the cap, a lighter margin, and a contrasting stipe coloration. Its psychoactive properties were confirmed through analytical chemistry in the 1970s and 1980s, when researchers including [[jochen-gartz]] and others began systematically screening Inocybe species for indole alkaloids. *I. tricolor* was one of several species found to contain measurable quantities of [[psilocybin]] and [[psilocin]].
+The species was described based on material from North America, with the specific epithet *tricolor* referring to the three distinct color zones observed on the fruiting body — typically a darker center of the cap, a lighter margin, and a contrasting stipe coloration. Its psychoactive properties were confirmed through analytical chemistry in the 1970s and 1980s, when researchers including [[jochen-gartz]] and others began systematically screening Inocybe species for indole alkaloids. *I. tricolor* was one of several species found to contain measurable quantities of [[psilocybin-compound]] and [[psilocin]].
 
 ## Morphology
 
@@ -37,13 +37,13 @@ The species was described based on material from North America, with the specifi
 
 ## Psychoactive Constituents
 
-*I. tricolor* has been confirmed to contain both [[psilocybin]] and [[psilocin]] through thin-layer chromatography and more advanced analytical methods including HPLC and GC-MS. Reported concentrations of psilocybin range from approximately 0.1% to 0.3% of dried weight, with considerable variation between collections, with psilocin present in smaller quantities. While these levels are lower than those found in potent Psilocybe species like [[psilocybe-azurescens]] or [[psilocybe-cyanescens]], they are sufficient to produce noticeable psychoactive effects if consumed in sufficient quantity.
+*I. tricolor* has been confirmed to contain both [[psilocybin-compound]] and [[psilocin]] through thin-layer chromatography and more advanced analytical methods including HPLC and GC-MS. Reported concentrations of psilocybin range from approximately 0.1% to 0.3% of dried weight, with considerable variation between collections, with psilocin present in smaller quantities. While these levels are lower than those found in potent Psilocybe species like [[psilocybe-azurescens]] or [[psilocybe-cyanescens]], they are sufficient to produce noticeable psychoactive effects if consumed in sufficient quantity.
 
 The alkaloid profile can be variable depending on geographic origin, substrate, age at harvest, and drying conditions. Some collections have also been reported to contain [[baeocystin]] and [[norbaeocystin]], which are demethylated analogs of psilocybin that may contribute to the overall psychoactive profile, though their individual pharmacological activity is less well characterized.
 
 ## Muscarine Content and Pharmacology
 
-The pharmacological profile of *I. tricolor* is complicated by the potential co-occurrence of [[psilocybin]] and [[muscarine]] in the same fruiting body. Muscarine acts as an agonist at muscarinic acetylcholine receptors, producing parasympathomimetic effects that are entirely distinct from the serotonergic effects of psilocybin. The interaction between these two pharmacologically opposing compounds creates an unpredictable and potentially dangerous physiological response. In collections where muscarine is present at significant concentrations, the stimulatory effects of psilocybin on the central nervous system would be accompanied by the peripheral cholinergic effects of muscarine, including gastrointestinal distress, cardiovascular perturbation, and excessive glandular secretions. This combination is unlikely to produce a desirable psychoactive experience and could pose genuine health risks.
+The pharmacological profile of *I. tricolor* is complicated by the potential co-occurrence of [[psilocybin-compound]] and [[muscarine]] in the same fruiting body. Muscarine acts as an agonist at muscarinic acetylcholine receptors, producing parasympathomimetic effects that are entirely distinct from the serotonergic effects of psilocybin. The interaction between these two pharmacologically opposing compounds creates an unpredictable and potentially dangerous physiological response. In collections where muscarine is present at significant concentrations, the stimulatory effects of psilocybin on the central nervous system would be accompanied by the peripheral cholinergic effects of muscarine, including gastrointestinal distress, cardiovascular perturbation, and excessive glandular secretions. This combination is unlikely to produce a desirable psychoactive experience and could pose genuine health risks.
 
 ## Toxicity Warning
 
@@ -69,7 +69,7 @@ The identification of *I. tricolor* as a psilocybin-containing species was part 
 
 ## Legal Status
 
-*I. tricolor* is not specifically scheduled as a controlled species in most jurisdictions, but as a mushroom containing [[psilocybin]], it may fall under generic psilocybin-containing mushroom prohibitions in some countries. Its extreme rarity and the danger of muscarine co-occurrence make it highly unlikely to be encountered or targeted. In the United States, psilocybin itself is a Schedule I controlled substance, and mushrooms containing it are treated accordingly regardless of species.
+*I. tricolor* is not specifically scheduled as a controlled species in most jurisdictions, but as a mushroom containing [[psilocybin-compound]], it may fall under generic psilocybin-containing mushroom prohibitions in some countries. Its extreme rarity and the danger of muscarine co-occurrence make it highly unlikely to be encountered or targeted. In the United States, psilocybin itself is a Schedule I controlled substance, and mushrooms containing it are treated accordingly regardless of species.
 
 ## Seasonality
 

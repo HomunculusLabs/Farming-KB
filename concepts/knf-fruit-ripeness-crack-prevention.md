@@ -136,19 +136,6 @@ The source emphasizes precise timing for fruit treatments:
 
 ## Key Principles
 
-[[knf-nutritive-cycle-theory]] guides the timing of these treatments.
-
-- Fruit quality treatments require specific input combinations rather
-  than single-input applications.
-- Sweetness promotion is a two-stage process requiring application
-  15 days and 2 days before harvest.
-- Crack prevention must be proactive, applied during drought before
-  rains arrive.
-- BRV plays a key role in forming protective wax layers on fruit
-  skins.
-- Seawater at 30 ml per liter provides essential trace minerals for
-  fruit development and stress resistance.
-
 ## See Also
 
 - [[knf-plant-stage-treatments]] — broader growth stage input schedules

@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Lion's Mane (*Hericium erinaceus*) is a prized edible and medicinal mushroom belonging to the family Hericiaceae in the order Russulales. Recognized globally by its cascading white, tooth-like spines that resemble a flowing mane, it has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism (where it is known as **yamabushitake**, 山伏茸) for digestive health, cognitive support, and general vitality. Modern research has confirmed potent neuroprotective, neurotrophic, and immunomodulatory properties, making it one of the most studied medicinal mushrooms of the 21st century.
+Lion's Mane (*Hericium erinaceus*) is a prized edible and medicinal mushroom belonging to the family Hericiaceae in the order Russulales. Recognized globally by its cascading white, tooth-like spines that resemble a flowing mane, it has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism (where it is known as **yamabushitake**, 山伏茸) for digestive health, cognitive support, and general vitality. Modern research has confirmed potent neuroprotective, neurotrophic, and immunomodulatory properties, making it one of the most studied [[medicinal-mushrooms-reishi-and-maitake]] of the 21st century.
 
 ## Taxonomy and Identification
 
@@ -56,7 +56,7 @@ Several species within the genus *Hericium* share the characteristic tooth-like 
 - **Surface**: Entirely covered with downward-pointing teeth, no visible cap or gills
 - **Flesh**: White, firm when young, becoming soft and fibrous with maturity
 - **Taste and odor**: Mildly sweet, seafood-like flavor often compared to lobster or crab; pleasant earthy aroma
-- **Spore print**: White to cream
+- **[[spore-print-collection-spore-mass-inoculation]]**: White to cream
 - **Spores**: Spherical to broadly ellipsoid, 5–7 × 5–6 µm, rough-walled (echinulate), amyloid
 
 ### Habitat and Distribution
@@ -186,7 +186,7 @@ Lion's Mane has a long history of use in TCM for stomach ailments, now supported
 
 ### Antioxidant and Anti-inflammatory Properties
 
-- Scavenging of reactive oxygen species (ROS) and inhibition of lipid peroxidation
+- Scavenging of [[reactive-oxygen-species-and-oxidative-stress]] (ROS) and inhibition of lipid peroxidation
 - Reduction of inflammatory mediators (COX-2, iNOS, TNF-α, IL-6) via suppression of NF-κB and MAPK pathways
 - Protective effects against oxidative stress-induced cellular damage in hepatocytes and neurons
 - Potential anti-aging applications through reduction of cellular oxidative damage
@@ -201,7 +201,7 @@ Lion's Mane has a long history of use in TCM for stomach ailments, now supported
 
 ## Cultivation
 
-Lion's Mane is one of the more accessible gourmet mushrooms for home and commercial cultivation. It can be grown on a variety of substrates using standard mushroom cultivation techniques.
+Lion's Mane is one of the more accessible gourmet mushrooms for home and commercial cultivation. It can be grown on a variety of substrates using standard [[mushroom-cultivation-disabilities-pasteurization-methods]] techniques.
 
 ### Substrate Preparation
 
@@ -243,7 +243,7 @@ The most reliable substrate for consistent fruiting and high yields:
 
 ### Fruiting Conditions
 
-Lion's Mane requires careful environmental control during fruiting to develop properly formed, dense spines:
+Lion's Mane requires careful [[environmental-control-mushroom-growing]] during fruiting to develop properly formed, dense spines:
 
 | Parameter | Optimal Range | Notes |
 |-----------|--------------|-------|
@@ -274,7 +274,7 @@ Lion's Mane requires careful environmental control during fruiting to develop pr
 
 - **Harvest timing**: When spines are 1–3 cm long, white to slightly cream-colored, and before the base begins to discolor
 - **Harvest method**: Cut at the base with a clean knife or twist gently from the substrate
-- **Yield**: Biological efficiency (BE) of 75–150% on supplemented sawdust (100 g fresh weight per 100 g dry substrate is a good benchmark)
+- **Yield**: [[biological-efficiency-mushroom-cultivation]] (BE) of 75–150% on [[supplemented-sawdust-block-cultivation]] (100 g fresh weight per 100 g dry substrate is a good benchmark)
 - **Storage**: Refrigerate at 2–4°C for up to 7–10 days in paper bags; freeze for longer storage
 - **Drying**: Dehydrate at 35–45°C with good airflow; higher temperatures degrade bioactive compounds; store dried mushrooms in airtight containers away from light
 - **Processing**: Powder dried mushrooms for tinctures, capsules, or tea; dual extraction recommended for full-spectrum bioactive compound extraction
@@ -323,7 +323,7 @@ The dual extraction method is important because hericenones and erinacines are a
 
 - **United States**: Legal; classified as a dietary supplement by the FDA when sold as an extract or powder; not approved as a drug for any medical condition
 - **European Union**: Legal as a food and novel food ingredient; sold as a dietary supplement
-- **Japan**: Approved as a "Food for Specified Health Uses" (FOSHU); widely used in functional foods and supplements
+- **Japan**: Approved as a "Food for Specified Health Uses" (FOSHU); widely used in [[functional-foods-medicinal-mushrooms]] and supplements
 - **China**: Listed in the Chinese Pharmacopoeia; classified as both a food and medicinal mushroom
 - **Australia and Canada**: Legal as a dietary supplement; regulated under natural health product frameworks
 

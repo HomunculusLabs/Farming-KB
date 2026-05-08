@@ -43,7 +43,7 @@ dwelling):
   Germany and northern California
 - [[psilocybe-azurescens]]: found on alder wood chips near Stuttgart,
   Germany. Known to form large fairy rings in wood chip beds
-- [[gymnopilus-spectabilis]] (Big Laughing Gym): photographed growing
+- [[gymnopilus-spectabilis-entity]] (Big Laughing Gym): photographed growing
   on stumps, tree bark, and wood in Mendocino, California.
   Typically found on dead or dying hardwoods
 - [[psilocybe-pelliculosa-entity]] (Conifer Psilocybe): as the common name

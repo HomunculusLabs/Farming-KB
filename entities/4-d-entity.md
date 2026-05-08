@@ -92,7 +92,7 @@ However, these are extremely minor metabolites, and Shulgin suspected that more 
 
 [[escaline-entity]] - 4-ethoxy substitution pattern
 
-[[proscaline-entity]] - 4-propoxy substitution pattern
+[[proscaline]] - 4-propoxy substitution pattern
 
 [[2c-b-entity]] - used as a visual intensity reference by one subject
 

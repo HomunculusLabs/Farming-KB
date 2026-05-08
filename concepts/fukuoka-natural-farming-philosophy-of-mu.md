@@ -119,6 +119,6 @@ Fukuoka traced the faults of modern farming to "the basic illusions of Western p
 - [[fukuoka-philosophy-in-practice]] — Mu applied to daily farm life
 - [[fukuoka-rice-and-barley-natural-farming]] — Mu in grain production
 - [[fukuoka-do-nothing-farming-philosophy]] — the broader Mu tradition
-- [[no-till-gardening-method]] — practical Mu in the garden
+- [[composting-and-soil-biology]] — practical Mu in the garden
 - [[permaculture-principles]] — permaculture's parallel principles
 - [[fukuoka-mu-nothingness-philosophy]]

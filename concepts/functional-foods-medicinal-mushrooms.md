@@ -103,5 +103,5 @@ Medicinal mushrooms have an excellent safety record:
 - [[medicinal-mushroom-health-benefits]] — therapeutic properties
 - [[mushroom-cancer-clinical-trials-overview]] — pharmaceutical-grade mushroom compounds
 - [[adaptogenic-herbs-overview]] — comparison with other functional herbs
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]

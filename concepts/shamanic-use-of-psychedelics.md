@@ -40,7 +40,7 @@ The most complex and powerful of shamanic plant preparations. See [[ayahuasca-pr
 
 ### Psilocybin Mushrooms (Mesoamerica)
 
-See [[maria-sabina-mazatec-mushroom-ceremony]] for detailed coverage of the Mazatec tradition.
+See [[mushroom-cultivation-fundamentals]] for detailed coverage of the Mazatec tradition.
 
 - Used by Mazatec, Mixtec, Zapotec, Nahuatl, and other peoples of Oaxaca and surrounding regions.
 - The Mazatec velada ceremony is a healing practice in which the mushroom spirits (the "saint children") speak through the curandero, revealing the cause of illness and the cure.
@@ -90,6 +90,6 @@ Michael Harner, after his experiences with ayahuasca among the Shuar, left acade
 ## Related Topics
 
 - [[ayahuasca-preparation-and-ceremony]] for the Amazonian tradition
-- [[maria-sabina-mazatec-mushroom-ceremony]] for the Mazatec tradition
+- [[mushroom-cultivation-fundamentals]] for the Mazatec tradition
 - [[amanita-muscaria-ethnobotany]] for the Siberian tradition
 - [[entheogenic-ceremony-preparation]] for modern ceremony practices

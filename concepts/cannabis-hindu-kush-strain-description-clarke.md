@@ -99,7 +99,7 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 - [[master-kush]]
 
-- [[og-kush-cannabis-strain]]
+- [[og-kush]]
 
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

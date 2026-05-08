@@ -116,7 +116,7 @@ Leaves with visible mold, rust, or unusual spotting should be removed immediatel
 - [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
 - [[lollipopping]] -- systematic lower canopy removal
 - [[supercropping]] -- high-stress training involving leaf and branch manipulation
-- [[cannabis-pest-management]] -- integrated pest management including defoliation
+- cannabis pest management -- integrated pest management including defoliation
 - [[cannabis-mold-and-mildew-prevention]] -- using defoliation to prevent mold
 - [[sea-of-green]] -- dense setups where selective defoliation is sometimes needed
 - [[cannabis-vegetative-stage]] -- defoliation timing in vegetative growth

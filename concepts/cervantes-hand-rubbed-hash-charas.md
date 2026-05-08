@@ -129,7 +129,7 @@ a related byproduct of the trimming process.
 ## See Also
 
 - [[cervantes-hash-making-extracts]]
-- [[cervantes-trichome-resin-production]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
 - [[cervantes-manicuring-trimming-buds]]
 - [[cervantes-terpenoids-terpene-profiles]]

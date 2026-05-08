@@ -131,7 +131,7 @@ season.
 
 - [[outdoor-cannabis-growing]] - complete outdoor cultivation guide
 - [[cervantes-organic-amendments-chart]] - organic soil inputs
-- [[cervantes-organic-growing]] - organic cultivation methods
+- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-companion-planting-pest-deterrent]] - companion plants
   as living mulch
 - [[cervantes-container-gardening-pot-size]] - container mulching

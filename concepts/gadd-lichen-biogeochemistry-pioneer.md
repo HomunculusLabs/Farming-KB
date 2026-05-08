@@ -148,4 +148,3 @@ biological measure of environmental quality.
 - [[gadd-fungal-rock-weathering]]
 - [[gadd-mineral-transformations-biogeochemistry]]
 - [[gadd-lichen-water-relations]]
-- [[gadd-fungal-metal-interactions]]

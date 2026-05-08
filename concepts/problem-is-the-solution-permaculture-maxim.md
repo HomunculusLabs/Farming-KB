@@ -26,7 +26,7 @@ The most common applications of "the problem is the solution" relate to weeds an
 
 1. **Environmental indicators**: Weeds signal management changes that are needed. Their presence reveals soil conditions, nutrient imbalances, overgrazing patterns, or hydrological issues that might otherwise go unnoticed. Thistles indicate compacted soil; dock grows in wet clay; dandelions signal low calcium.
 
-2. **Agents of repair**: Many weeds actively repair damaged soil. Deep-rooted pioneer species break up compacted subsoil, bring minerals to the surface, and begin the process of succession toward more complex plant communities. Blackberry thickets can stabilise eroding gullies while building soil organic matter.
+2. **Agents of repair**: Many weeds actively repair damaged soil. Deep-rooted [[pioneer-species-selection-for-permaculture-systems]] break up compacted subsoil, bring minerals to the surface, and begin the process of succession toward more complex plant communities. Blackberry thickets can stabilise eroding gullies while building soil organic matter.
 
 3. **Undervalued resources**: Weeds represent biological productivity that is being wasted because economic or cultural prejudices prevent us from harvesting it. Holmgren argues that "pests can be viewed as the surpluses of nature, which need to be used rather than destroyed."
 
@@ -39,7 +39,7 @@ Holmgren provides concrete examples of reframing problems at his home site, Mell
 - **Gully floods**: Occasional flooding becomes a source of nutrients and sediment rather than a threat
 - **Hot drying winds**: A nuisance becomes an opportunity to dry fruit and other produce
 - **Blackberries**: A declared noxious weed serves as mulch, animal fodder, and a soil stabiliser
-- **Snails**: Rather than an excess of snails, there is a deficiency of ducks — Bill Mollison's famous response to a gardener complaining about snail plagues
+- **Snails**: Rather than an excess of snails, there is a deficiency of ducks — [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]'s famous response to a gardener complaining about snail plagues
 
 The slogan "the problem is the solution" helps recognise opportunities to harvest energy sources that are specific to each site and situation. Every sunny winter day charges a passive solar house so occupants stay warm overnight. These examples reflect the way ecosystems develop in response to the diverse and irregular energy availability across landscapes.
 
@@ -84,8 +84,8 @@ Nature is always providing myriad indicators, warning signs, and questions in re
 "The problem is the solution" resonates with several other Holmgren principles:
 
 - **Observe and Interact**: Careful observation reveals the positive aspects of perceived problems
-- **Use and Value Diversity**: Biodiversity provides the raw material for creative problem-solving
-- **Creatively Use and Respond to Change**: Reframing problems is a form of creative response
+- **Use and [[use-and-value-diversity-permaculture]]**: Biodiversity provides the raw material for creative problem-solving
+- **[[creatively-use-and-respond-to-change]]**: Reframing problems is a form of creative response
 - **Produce No Waste**: Transforming "waste" organisms into resources eliminates waste
 - **Use Edges and Value the Marginal**: Solutions often come from the margins
 
@@ -109,7 +109,7 @@ The maxim also provides psychological resilience. By reframing difficult circums
 
 ## The Designer as Scavenger
 
-Holmgren extends the maxim to the broader task of cultural transition. In a low-energy future, most of today's technology and culture will end up in the dustbin of history; but some aspects of modernity may provide critical components of an energy descent culture. Permaculture principles provide one lens for helping to identify the useful pieces of modernity and combine them with those from nature and from pre-modern cultures in a new designed synthesis.
+Holmgren extends the maxim to the broader task of cultural transition. In a [[low-energy-futures-in-permaculture]] future, most of today's technology and culture will end up in the dustbin of history; but some aspects of modernity may provide critical components of an energy descent culture. Permaculture principles provide one lens for helping to identify the useful pieces of modernity and combine them with those from nature and from pre-modern cultures in a new designed synthesis.
 
 Holmgren suggests the image of a scavenger at the rubbish tip looking for gems among the possibilities — shocking to some, but one that many permaculturalists relate to. It is as if we are wandering about a landscape littered with the pieces of many different jigsaw puzzles. Our task is to pick up as many pieces as seem possibly useful and carry them to a place we do not yet know, where we must construct a new jigsaw puzzle from what we have.
 

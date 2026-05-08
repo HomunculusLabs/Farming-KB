@@ -136,28 +136,11 @@ Copelandia is not native to Europe but has been introduced as a greenhouse/nurse
 Copelandia species are generally considered among the **most potent** of all neurotropic mushrooms. Studies have reported high concentrations of psilocybin and psilocin in C. cyanescens, with some specimens containing over 1% psilocybin by dry weight. The intense bluing reaction upon bruising is directly correlated with the high psilocin content.
 
 ## Ethnomycological Significance
-
-Copelandia species are used traditionally in several cultures:
-
-- **Thailand**: C. cyanescens is widely consumed, particularly on islands like Koh Samui and Koh Pha Ngan (Allen & Merlin, 1992a)
-- **Samoa**: C. cyanescens is used in traditional ceremonies (Cox, 1981)
-- **India**: Various Copelandia species have ethnomycological significance
-- **Mexico**: While not as culturally prominent as Psilocybe, C. cyanescens and C. mexicana are known to indigenous peoples
-
-## Relationship to Panaeolus
-
-The taxonomic boundary between Copelandia and Panaeolus has been debated. Ola'h (1969, 1970) maintained them as distinct genera, while some modern molecular studies suggest merging them. Key distinguishing features of Copelandia include:
-
-1. **Strong bluing reaction** (absent or weak in most Panaeolus)
-2. **Cheilocystidia and pleurocystidia** with distinctive shapes
-3. **Spore morphology** differences
-4. **Habitat**: Copelandia species are predominantly tropical and coprophilous
-
 ## See Also
 
 - [[neurotropic-fungi]]
 - [[neurotropic-fungi-classification]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 
 - Panaeolus and Panaeolina Genera
 - Psilocybe Genus Overview

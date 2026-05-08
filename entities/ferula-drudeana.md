@@ -111,5 +111,5 @@ to Cyrenaican silphium.
 - [[ferula-assafoetida]]
 - [[boswellia-sacra]]
 - [[commiphora-myrrha]]
-- [[mescaline]]
-- [[psilocybin]]
+- [[mescaline-entity]]
+- [[psilocybin-compound]]

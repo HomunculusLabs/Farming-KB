@@ -148,4 +148,3 @@ alcohol.
 
 - [[mushroom-grain-sterilization]]
 - [[growing-gourmet-trichoderma-green-mold-management]]
-- [[bacillus-subtilis]]

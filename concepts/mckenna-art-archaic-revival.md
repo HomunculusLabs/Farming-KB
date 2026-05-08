@@ -139,4 +139,3 @@ Like the octopi, our destiny is to become what we think, to have our thoughts
 - [[mckenna-transcendent-other-and-exopheromones]]
 - mckenna food of the gods tryptamine dimension
 - [[mckenna-consciousness-expansion-and-drug-war]]
-

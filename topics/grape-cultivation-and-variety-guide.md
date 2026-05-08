@@ -36,7 +36,7 @@ French-American hybrids include popular varieties like Seyval Blanc, Vidal Blanc
 - **Sunlight:** Grapes require full sun — a minimum of 7–8 hours of direct sunlight daily. Shade reduces fruit quality and increases disease pressure.
 - **Air circulation:** Good airflow through the canopy is critical for reducing fungal disease. Avoid planting in frost pockets or low-lying areas where cold air settles.
 - **Slope:** A gentle slope of 2–5% helps with both cold air drainage and water runoff. South-facing slopes warm earlier in spring.
-- **Growing degree days (GDD):** Wine grapes are often classified by heat requirements — cool-climate varieties need ~1,400 GDD (base 50°F), while warm-climate varieties require 2,500+ GDD.
+- **Growing degree days (GDD):** Wine grapes are often classified by heat requirements — [[cool-climate-settlement-design-mollison]] varieties need ~1,400 GDD (base 50°F), while warm-climate varieties require 2,500+ GDD.
 
 ## Soil Requirements and Preparation
 
@@ -45,7 +45,7 @@ Grapes are adaptable but perform best in well-drained soils:
 - **Soil type:** Loamy, sandy loam, or gravelly soils are ideal. Heavy clay restricts root growth and promotes root rot.
 - **pH:** Target 5.5–6.5 for most varieties. Muscadines prefer slightly more acidic soils (pH 5.0–6.0).
 - **Drainage:** Critical — standing water kills grape roots. If drainage is poor, plant on raised berms or install tile drainage.
-- **Soil testing:** Test soil 6–12 months before planting. Amend based on results.
+- **[[soil-testing-and-fertility-planning]]:** Test soil 6–12 months before planting. Amend based on results.
 - **Organic matter:** Work in 2–4 inches of compost before planting, but avoid excessive nitrogen at planting time, which promotes vegetative growth over root establishment.
 - **Depth:** Grape roots can extend 3–6 feet deep. Deep, well-drained soils reduce the need for irrigation.
 
@@ -115,7 +115,7 @@ Active canopy management during the growing season dramatically improves fruit q
 - **Establishment:** Young vines need 1–2 inches of water per week during the first two growing seasons.
 - **Drip irrigation:** The preferred method for vineyards. Emitters placed near the base of each vine deliver water directly to the root zone with minimal waste and foliar wetting.
 - **Deficit irrigation (wine grapes):** Intentionally reducing water after veraison (onset of ripening) can concentrate sugars and improve wine quality. This must be managed carefully — severe stress can shut down ripening entirely.
-- **Muscadines:** Once established, muscadines are remarkably drought-tolerant and may not need supplemental irrigation in regions with 30+ inches of annual rainfall.
+- **Muscadines:** Once established, muscadines are remarkably [[drought-tolerant-planting-design]] and may not need supplemental irrigation in regions with 30+ inches of annual rainfall.
 - **Avoid overhead irrigation:** Wetting the canopy promotes fungal diseases.
 
 ## Fertilization
@@ -133,7 +133,7 @@ Active canopy management during the growing season dramatically improves fruit q
 | Disease | Symptoms | Management |
 |---------|----------|------------|
 | **Powdery mildew** | White-gray powdery coating on leaves, shoots, and fruit | Sulfur or potassium bicarbonate sprays; resistant varieties; good airflow |
-| **Downy mildew** | Yellow "oil spots" on leaves, white fluffy growth on undersides | Copper-based sprays; phosphonate fungicides; canopy management |
+| **[[downy-mildew-biology-diversity-peronosporales]]** | Yellow "oil spots" on leaves, white fluffy growth on undersides | Copper-based sprays; phosphonate fungicides; canopy management |
 | **Black rot** | Small reddish-brown lesions on fruit, shriveling into mummies | Remove mummified fruit; mancozeb or myclobutanil sprays; sanitation |
 | **Botrytis bunch rot** | Gray-brown fuzzy mold on ripening clusters | Leaf removal for airflow; careful harvest timing; resistant varieties |
 
@@ -266,7 +266,7 @@ Developed primarily at the University of Minnesota and Elmer Swenson's breeding 
 ## Companion Plants for Vineyards
 
 ### Cover Crops
-- **Crimson clover** and **hairy vetch:** Nitrogen-fixing winter annuals that improve soil fertility
+- **Crimson clover** and **hairy vetch:** [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] winter annuals that improve soil fertility
 - **Annual ryegrass:** Prevents erosion, adds organic matter
 - **Buckwheat:** Fast-growing summer cover, attracts beneficial insects
 - **Daikon radish:** Breaks compacted soil layers, improves drainage
@@ -286,7 +286,7 @@ Developed primarily at the University of Minnesota and Elmer Swenson's breeding 
 ## Grapes in Permaculture Design
 
 ### Multi-Use Trellises
-Grape trellises can serve multiple functions: supporting other vining plants (hardy kiwi, passionflower), providing shade for livestock, creating living fences, or acting as windbreaks. A well-designed trellis becomes a productive edge element in a permaculture layout.
+Grape trellises can serve multiple functions: supporting other vining plants (hardy kiwi, passionflower), providing shade for livestock, creating [[living-fences-and-hedgerows]], or acting as windbreaks. A well-designed trellis becomes a productive edge element in a permaculture layout.
 
 ### Guild Plants
 A grape guild might include:
@@ -297,7 +297,7 @@ A grape guild might include:
 - **Fruit trees** spaced between vines for a stacked polyculture (ensure adequate light)
 
 ### Integration with Livestock
-Chickens can be rotated through vineyard aisles between rows to control insects and fertilize soil. Sheep and goats can graze cover crops but must be managed carefully — they will eat grape leaves and tender shoots if given access. Poultry net fencing allows controlled grazing periods.
+Chickens can be rotated through vineyard aisles between rows to control insects and fertilize soil. Sheep and goats can graze [[cover-crops-and-green-manures]] but must be managed carefully — they will eat grape leaves and tender shoots if given access. Poultry net fencing allows controlled grazing periods.
 
 ### Water Harvesting
 Swales or berms planted with grapes on the berm capture and infiltrate runoff, reducing irrigation needs. Grapes on contour swales create productive terraces on sloped land.
@@ -311,7 +311,7 @@ Swales or berms planted with grapes on the berm capture and infiltrate runoff, r
 | Uneven ripening | Overcropping, poor canopy exposure | Cluster thin; improve canopy management |
 | Sparse fruit, tiny clusters | Inadequate pruning | Ensure proper bud count; prune to appropriate vigor |
 | Yellow leaves with green veins | Iron deficiency (high pH) | Apply chelated iron; lower soil pH with sulfur |
-| Wilting despite adequate water | Root rot from poor drainage | Improve drainage; plant on raised beds |
+| Wilting despite adequate water | Root rot from poor drainage | Improve drainage; plant on [[raised-beds-vs-in-ground-vs-containers]] |
 | Shriveled berries at harvest | Drought stress or sunburn | Ensure adequate irrigation; use shade cloth in extreme heat |
 | Birds eating all fruit | No protection | Install bird netting before veraison |
 | Vine death within 1–2 years | Pierce's disease, winterkill, crown gall | Choose resistant varieties; protect from winter injury; plant clean stock |

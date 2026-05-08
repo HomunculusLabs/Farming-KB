@@ -19,7 +19,7 @@ type: comparison
 
 # Saffron vs Turmeric Cultivation
 
-A grower-facing comparison of two of the world's most valuable spice crops: **saffron** (*Crocus sativus*) and **turmeric** (*Curcuma longa*). While both command premium prices, their production systems, input requirements, and risk profiles differ dramatically.
+A grower-facing comparison of two of the world's most valuable spice crops: **saffron** (*[[crocus-sativus]]*) and **turmeric** (*[[curcuma-longa]]*). While both command premium prices, their production systems, input requirements, and risk profiles differ dramatically.
 
 ---
 

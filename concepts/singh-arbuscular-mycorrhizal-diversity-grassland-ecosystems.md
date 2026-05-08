@@ -148,4 +148,3 @@ sequestration, and biodiversity support.
 - [[singh-mycorrhizal-network-chemical-signaling-plants]] - Plant communication
   through AMF networks in grassland communities
 - [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]] - Nutrient
-  exchange processes in grassland AMF associations

@@ -38,9 +38,9 @@ The intensity of bluing does not directly correlate with total psilocybin conten
 
 Not all psilocybin-containing species blue with equal intensity.
 
-[[psilocybe-cubensis-profile]] shows strong bluing, especially in potent strains.
+[[psychedelic-mushrooms-species-and-identification]] shows strong bluing, especially in potent strains.
 
-[[psilocybe-semilanceata-profile]] can show subtle bluing that requires careful observation.
+[[psychedelic-mushrooms-species-and-identification]] can show subtle bluing that requires careful observation.
 
 [[psilocybe-azurescens-profile]] is renowned for its intense bluing reaction.
 

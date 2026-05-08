@@ -10,17 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
 
-
-
-
-
 ## Chemical Name
 
 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE
-
-
-
-
 
 ## Dosage and Duration
 
@@ -29,26 +21,14 @@ PIHKAL entry #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
 | Dosage | greater than 50 mg. |
 | Duration | unknown. |
 
-
-
-
-
 ## Qualitative Comments
 
 > (with 50 mg) There were no effects.
 >
 
-
-
-
-
 ## Extensions and Commentary
 
 This was the first of the ethoxy homologues of TMA-2, and it was immediately (well, within a couple of months) run up from an initial dab to 25 milligrams. This was in early 1963, and the lack of activity of EMM was keenly disappointing. This was a level at which the prototype, TMA-2, was very active, and the conclusion was that maybe any change on the molecule would result in a loss of activity. So this approach was shelved for a while, and all efforts were directed into the relocation, rather than the elongation, of the methoxy groups. A few months later, the ethoxy question was addressed again, and the discovery of MEM rekindled full interest in this ethoxy question.
-
-
-
-
 
 ## Synthesis
 
@@ -64,18 +44,10 @@ To a solution of 9.7 g 2-allyl-4,5-dimethoxyphenol in a few mL EtOH, there was a
 
 (Additional synthesis details available in source.)
 
-
-
-
-
 ## Safety Notes
 
 EMM is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
-
 
 ## See Also
 
@@ -84,4 +56,4 @@ extreme caution. This compound is not approved for human consumption.
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamines: [[mescaline]], escaline
+- Related phenethylamines: [[mescaline-entity]], escaline

@@ -37,7 +37,7 @@ it, was a mycologist of outstanding competence who also studied [[gartz-european
 
 More than 50 years ago, in October 1942, a remarkable intoxication occurred in
 Cleveland, Ohio, attributed to what was then called Pholiota spectabilis
-(now [[gymnopilus-spectabilis]]). A woman experienced glorious visions of color
+(now [[gymnopilus-spectabilis-entity]]). A woman experienced glorious visions of color
 and sounds of music after nibbling from a mushroom she found in the woods.
 
 In September 1966, a retired engineer in Harvard, Massachusetts, mistook

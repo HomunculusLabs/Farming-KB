@@ -128,7 +128,6 @@ richer, so compost should not be buried. IMO-4 should be
 applied in small lumps to help field soil build aggregated
 structure rapidly.
 
-
 ## See Also
 
 - [[cho-nutritive-cycle-theory]]

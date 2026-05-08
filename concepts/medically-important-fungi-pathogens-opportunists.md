@@ -106,7 +106,7 @@ Opportunistic fungi cause significant disease in domestic animals:
 - [[soil-fungal-isolation-techniques]]
 - [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
 - [[fungicolous-fungi-parasites-associates]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[biodiversity-of-fungi-soil-isolation-methods]]

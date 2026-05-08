@@ -130,10 +130,10 @@ Failure analysis should ask whether the root cause was material selection, surfa
 ## See Also
 
 - [[fracture-mechanics-engineering-materials]]
-- [[creep-deformation-high-temperature-materials]]
+- creep deformation high temperature materials
 - [[dislocation-theory-crystal-plasticity]]
 - [[heat-transfer-mechanisms]]
-- [[reynolds-number-and-flow-regimes]]
+- reynolds number and flow regimes
 
 ## References
 

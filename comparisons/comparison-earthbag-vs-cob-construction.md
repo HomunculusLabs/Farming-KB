@@ -148,5 +148,3 @@ the irregular bag surface.
 - [[cob-building]]
 - [[cob-construction]]
 - [[natural-building]]
-- [[comparison-earthbag-vs-adobe-construction]]
-- [[comparison-cob-building-vs-adobe-construction]]

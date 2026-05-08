@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Field Collection Techniques for [[psilocybin-mushroom-cultivation-basics]]s
+# Field Collection Techniques for [[mushroom-cultivation-fundamentals]]s
 
 Edible mushroom hunters must totally relearn the art of hunting to find the
 psilocybin varieties. Since psilocybin mushrooms are small in comparison to

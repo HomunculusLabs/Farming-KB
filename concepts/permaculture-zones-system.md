@@ -46,7 +46,7 @@ Visited weekly to monthly. This zone contains:
 - Broadacre crops
 - Pasture for grazing animals
 - Large-scale tree crops (olives, chestnuts, pecans)
-- [[permaculture-earthworks-guide]] for water distribution
+- [[permaculture-water-harvesting-earthworks]] for water distribution
 - Windbreaks and shelterbelts
 - Seed saving areas
 

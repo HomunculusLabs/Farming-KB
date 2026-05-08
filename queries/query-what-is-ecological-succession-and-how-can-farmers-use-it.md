@@ -55,7 +55,7 @@ At each stage, the current occupants modify the environment in ways that make it
 
 **Shade tolerance**: Early successional plants are almost always sun-loving and fast-growing (high r-selection). They create shade that favors more shade-tolerant, slower-growing species that eventually outcompete them.
 
-**Soil building**: Pioneer plants have shallow, fibrous root systems that add organic matter and begin developing soil structure. Later plants with deeper roots access more nutrients, cycle them to the surface through leaf litter, and develop mycorrhizal networks.
+**Soil building**: Pioneer plants have shallow, fibrous root systems that add organic matter and begin developing soil structure. Later plants with deeper roots access more nutrients, cycle them to the surface through [[leaf-litter-microfungal-diversity-tropical-temperate]], and develop [[mycorrhizal-networks-and-forest-communication]].
 
 **Nutrient dynamics**: Early successional soils are typically high in available nitrogen (disturbance releases it) and low in organic matter. As succession progresses, more nitrogen gets locked up in living biomass and soil organic matter, and the system becomes more nitrogen-efficient.
 
@@ -65,7 +65,7 @@ At each stage, the current occupants modify the environment in ways that make it
 
 ### 1. Accelerate Succession — Jump-Start Productive Ecosystems
 
-The most powerful application of succession principles is to **skip ahead** rather than waiting decades for nature to do the work. This is the foundation of permaculture food forests, restoration agriculture, and agroforestry.
+The most powerful application of succession principles is to **skip ahead** rather than waiting decades for nature to do the work. This is the foundation of [[permaculture-food-forests-design-course]], restoration agriculture, and agroforestry.
 
 **Techniques:**
 - **Plant late-succession species early**: Establish fruit trees, nut trees, and perennial shrubs in the first year rather than waiting for natural forest development. Use fast-growing nurse trees (like black locust, alder, or tagasaste) to provide the canopy structure that late-succession species need.
@@ -111,7 +111,7 @@ The weeds that appear on your land are not random — they tell you exactly wher
 Rather than fighting succession or passively waiting for it, some farmers design **successional rotations** that deliberately move through stages:
 
 - **Year 1–2**: Heavy annual vegetable production with intensive soil amendment
-- **Year 3–4**: Transition to cover crops and green manures to build soil and suppress weeds
+- **Year 3–4**: Transition to cover crops and [[green-manures-and-cover-crop-systems]] to build soil and suppress weeds
 - **Year 5–7**: Establish perennial herbs, berries, and fruiting shrubs as annual crops phase out
 - **Year 7+**: Fruit and nut trees mature, forming a productive food forest with shrub and herbaceous understories
 
@@ -138,7 +138,7 @@ Succession is fundamentally a soil-building process. Pioneer stages have shallow
 1. **Fighting succession with chemicals**: Endless herbicide use ignores the diagnostic information weeds provide about soil conditions and succession state.
 2. **Arresting succession too aggressively**: Bare fallow and heavy tillage reset succession to zero, destroying years of soil development. Cover crops maintain critical continuity.
 3. **Skipping soil building when accelerating succession**: Planting fruit trees into depleted soil without building the biology they depend on leads to poor establishment.
-4. **Ignoring the shrub stage**: Many farmers jump from grassland to trees, missing nitrogen-fixing shrubs (autumn olive, seaberry, Siberian pea shrub) that bridge the gap.
+4. **Ignoring the shrub stage**: Many farmers jump from grassland to trees, missing [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] shrubs (autumn olive, seaberry, Siberian pea shrub) that bridge the gap.
 5. **Uniform management**: Treating an entire farm the same eliminates the successional mosaic that creates resilience and biodiversity.
 
 ## Key Takeaways
@@ -148,11 +148,3 @@ Succession is fundamentally a soil-building process. Pioneer stages have shallow
 - Each successional stage modifies the environment to favor the next stage — this is predictable and manageable
 - Farmers can **accelerate** succession (food forests, agroforestry), **arrest** it (annual crops, managed pasture), or **read** it (weed indicators)
 - Working with succession rather than against it reduces inputs, builds soil faster, and creates more resilient systems
-- The weeds on your land are a free succession diagnostic — learn to read them
-- The most productive and resilient farms incorporate multiple successional stages across the landscape
-
-## See Also
-
-- [[agroecology]]
-- [[agroforestry]]
-- [[building-soil]]

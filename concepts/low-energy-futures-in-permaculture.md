@@ -91,7 +91,7 @@ Holmgren notes the irony that as global energy flows decline, the interconnected
 
 ## Permaculture as Strategic Framework
 
-Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-earthworks-guide]] and the [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available.
+Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-water-harvesting-earthworks]] and the [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available.
 
 The rapid evolution of more appropriate governance, economy and culture, including art and myth, are central to adapting to energy descent. "To claim that it is possible to use Permaculture principles to design a sustainable culture and society may be too big a leap, but I believe it is possible at least to use them for evaluating the diverse cultural phenomena we find ourselves participating in."
 
@@ -114,7 +114,7 @@ Scepticism and resistance to dogma are just as important in a descent culture as
 - [[retrofitting-suburbs-permaculture]]
 - [[permaculture-community-scale-design]]
 - [[permaculture-global-crisis-response]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-ethics]]
 
 ## Related

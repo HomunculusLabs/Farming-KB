@@ -16,7 +16,7 @@ Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Chapters 5
 
 ## Overview
 
-Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for [[stropharia-rugoso-annulata-mycofiltration]] and gray water treatment. See also [[king-stropharia-wine-cap-cultivation]], [[kings-stropharia-garden-giant]], [[wine-cap-mushroom-cultivation]], [[wine-cap-stropharia-cultivation]].
+Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for [[stropharia-rugoso-annulata-mycofiltration]] and gray water treatment. See also [[king-stropharia-wine-cap-cultivation]], [[kings-stropharia-garden-giant]], [[wine-cap-mushroom-cultivation]], wine cap stropharia cultivation.
 
 ## Permaculture Applications (Ch. 5)
 

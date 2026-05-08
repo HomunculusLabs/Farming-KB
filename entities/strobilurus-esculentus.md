@@ -119,7 +119,7 @@ It can be observed in situ during autumn forays in Scots pine forests, where it 
 - [[suillus-luteus]]
 - [[tricholoma-matsutake]]
 - [[lactarius-deliciosus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[russula-brevipes]]
 - [[agaricus-bisporus]]
 - [[xylaria-polymorpha]]

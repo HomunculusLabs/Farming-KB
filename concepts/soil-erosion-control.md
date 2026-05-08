@@ -111,7 +111,7 @@ Consider these factors when assessing erosion risk:
 - Drainage patterns: Concentrated flow paths require structural protection
 ## Integration with Homesteading
 Erosion control connects to multiple homesteading systems:
-- [[no-till-gardening-method|no till]] and [[cannabis-living-soil-amendment-schedule|living soil]] practices minimize soil disturbance and maintain surface cover
+- [[composting-and-soil-biology|no till]] and [[cannabis-living-soil-amendment-schedule|living soil]] practices minimize soil disturbance and maintain surface cover
 - [[cover-cropping-guide|cover crop]] plantings provide continuous soil protection between cash crops
 - [[permaculture-earthworks|earthworks]] (swales, terraces, berms) manage water flow and reduce erosive energy
 - [[riparian-zone-restoration]] protects stream banks and water quality

@@ -110,12 +110,12 @@ The compound's potential for neurotoxicity has not been as extensively studied a
 - empathogen
 - MDA
 - [[lsd]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[dmt]]
 - [[5-meo-dmt]]
 - [[4-ho-met]]
 - [[ketamine]]
-- [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[harmine]]
 - [[serotonin]]
 - [[psychedelic-harm-reduction]]

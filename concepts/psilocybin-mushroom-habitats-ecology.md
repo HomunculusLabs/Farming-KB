@@ -45,9 +45,9 @@ Comparatively few psilocybin mushrooms grow in the woodlands of the true tropics
 ## See Also
 
 - [[psilocybin-mushroom-distribution-worldwide]]
-- [[psilocybe-semilanceata-profile]]
-- [[psilocybe-cubensis-profile]]
-- [[psilocybe-cyanescens-profile]]
+- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-azurescens-profile]]
 - [[psilocybin-mushroom-lookalikes]]
 - mushroom habitats biodiversity

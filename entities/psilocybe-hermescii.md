@@ -73,7 +73,7 @@ Fungi feeding insects and arthropods may contribute to spore dispersal, while ba
 
 ## Chemistry
 
-*Psilocybe hermescii* is confirmed to contain [[psilocybin]] and [[psilocin]] based on chemical analysis and the characteristic blue staining reaction.
+*Psilocybe hermescii* is confirmed to contain [[psilocybin-compound]] and [[psilocin]] based on chemical analysis and the characteristic blue staining reaction.
 Exact quantitative data on alkaloid content is limited, as the species has not been as extensively studied as more common taxa like [[psilocybe-cubensis-potency-variation-by-flush]] or [[psilocybe-mexicana-cultivation]].
 
 Based on its morphological characteristics and relationship to other Mexican species, it is presumed to have moderate potency, with psilocybin content likely in the range of 0.2% to 0.8% of dry weight.
@@ -125,7 +125,7 @@ The combination of these features with the blue staining reaction helps separate
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-mexicana-cultivation]]

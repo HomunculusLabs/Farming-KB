@@ -119,6 +119,6 @@ Biological efficiency on hardwood sawdust is moderate (40–60%), lower than ded
 - [[fomes-fomentarius]]
 - [[ganoderma-applanatum]]
 - [[polyporus-umbellatus]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[trametes-trogii]]
 - [[panus-tigrinus]]

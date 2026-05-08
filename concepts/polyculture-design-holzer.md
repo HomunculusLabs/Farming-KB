@@ -89,7 +89,7 @@ Holzer's polycultures integrate:
 ## Related
 
 - [[sepp-holzer-method]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-livestock-integration]]
 - [[fruit-forest-establishment]]
 - [[earthworm-breeding]]

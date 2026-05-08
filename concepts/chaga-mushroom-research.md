@@ -68,7 +68,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 
 ### Clinical Evidence
 
-Human clinical data is more limited than for [[turkey-tail-mushroom-cancer-research]], [[reishi-mushroom-medicinal-research]], or [[maitake-mushroom-research]]. Most evidence comes from in vitro studies and animal models. Human trials have been conducted primarily in Russia and Eastern Europe, showing:
+Human clinical data is more limited than for [[mushroom-cultivation-fundamentals]], [[reishi-mushroom-medicinal-research]], or [[maitake-mushroom-research]]. Most evidence comes from in vitro studies and animal models. Human trials have been conducted primarily in Russia and Eastern Europe, showing:
 - Improved immune parameters and reduced fatigue in cancer patients
 - Enhanced quality of life in various chronic conditions
 - Antioxidant status improvement measurable in blood
@@ -92,7 +92,7 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 
 ## See Also
 
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cultivation-fundamentals]]
 - [[reishi-mushroom-medicinal-research]]
 - [[maitake-mushroom-research]]
 - [[medicinal-mushroom-guide-chaga]]

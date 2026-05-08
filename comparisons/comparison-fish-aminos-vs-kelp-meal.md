@@ -42,7 +42,7 @@ root development, improve stress resistance, and enhance overall plant vigor.
 It can be used as a soil amendment mixed into beds, as a compost activator,
 steeped as a foliar spray, or applied as a seed treatment. The alginate in kelp
 improves soil structure by enhancing water retention and aggregation. Kelp meal
-feeds beneficial soil microbes, supporting the [[compost-chemistry-soil-food-web]]. The main drawbacks
+feeds beneficial soil microbes, supporting the [[composting-and-soil-biology]]. The main drawbacks
 are higher cost compared to other [[cannabis-organic-fertilizers]] and a low NPK that means
 it cannot serve as a primary nitrogen source.
 

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Copelandia anomalus
 
-**Copelandia anomalus** is a lesser-known [[psilocybin]]-containing mushroom species within the genus Copelandia. Unlike the widely distributed and well-documented [[copelandia-cyanescens]], *C. anomalus* is a relatively obscure species with limited published information regarding its morphology, distribution, and chemistry.
+**Copelandia anomalus** is a lesser-known [[psilocybin-compound]]-containing mushroom species within the genus Copelandia. Unlike the widely distributed and well-documented [[copelandia-cyanescens]], *C. anomalus* is a relatively obscure species with limited published information regarding its morphology, distribution, and chemistry.
 
 ## Taxonomy and Classification
 
@@ -36,7 +36,7 @@ While detailed microscopic descriptions specific to *C. anomalus* are scarce, Co
 
 ## Chemistry
 
-As a member of the genus Copelandia, *C. anomalus* is expected to contain [[psilocybin]] and [[psilocin]]. Copelandia species are generally regarded as more potent than many Psilocybe species on a dry weight basis, with [[copelandia-cyanescens]] being one of the most potent psilocybin-containing mushrooms known.
+As a member of the genus Copelandia, *C. anomalus* is expected to contain [[psilocybin-compound]] and [[psilocin]]. Copelandia species are generally regarded as more potent than many Psilocybe species on a dry weight basis, with [[copelandia-cyanescens]] being one of the most potent psilocybin-containing mushrooms known.
 
 However, specific quantitative data on the alkaloid content of *C. anomalus* is limited in the published scientific literature. Most analytical studies of Copelandia species have focused on [[copelandia-cyanescens]] due to its wider distribution and greater cultural significance.
 

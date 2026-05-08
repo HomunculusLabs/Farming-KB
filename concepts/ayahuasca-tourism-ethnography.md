@@ -14,18 +14,18 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[[ayahuasca-tourism-ethnography]]"
+  - "ayahuasca-tourism-ethnography"
 created: 2026-05-07
 type: concept
 ---
 
-# Ayahuasca Tourism Ethnography
+# [[ayahuasca-tourism]] Ethnography
 
 Ayahuasca tourism refers to the growing practice of Western travelers visiting South America, particularly the Peruvian Amazon, to participate in traditional ayahuasca ceremonies led by indigenous or mestizo shamans. Drawing from ethnographic fieldwork in the Ucayali region of Peru (R. Stuart, 2002), this concept page examines the cultural, economic, and ethical dimensions of this phenomenon.
 
 ## Historical and Cultural Context
 
-Ayahuasca has deep roots in Amazonian spiritual practice, serving as both a religious sacrament and an herbal tonic among indigenous and mestizo communities across Peru, Brazil, Ecuador, and Colombia. The brew, prepared from the Banisteriopsis caapi vine and Psychotria viridis leaves (or the diplopterys cabrerana alternative), has been used for centuries in healing rituals, divination, and community ceremonies.
+Ayahuasca has deep roots in Amazonian spiritual practice, serving as both a religious sacrament and an herbal tonic among indigenous and mestizo communities across Peru, Brazil, Ecuador, and Colombia. The brew, prepared from the [[banisteriopsis-caapi]] vine and [[psychotria-viridis]] leaves (or the [[diplopterys-cabrerana]] alternative), has been used for centuries in healing rituals, divination, and community ceremonies.
 
 In Peru, ayahuasca occupies a unique legal and cultural position. Unlike the United States, where the brew exists in a legal grey area regulated through religious exemptions (notably for the União do Vegetal and Santo Daime churches), Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. The government sponsors ayahuasca festivals, the brew and its raw materials are openly sold in markets, and even Peru's then president Alejandro Toledo participated in an ayahuasca ceremony. This permissive environment has made Peru the primary destination for ayahuasca tourism.
 
@@ -47,7 +47,7 @@ Iquitos has been the primary hub for ayahuasca tourism in Peru for over a decade
 
 The Shipibo town of San Francisco, reachable by taxi from Yarina near Pucallpa, has branded itself the "Centro Ceremonial del Ayahuasca" as proclaimed by an enormous sign at the town entrance. The Shipibo community has a strong shamanic tradition, with at least a couple of ayahuasqueros in almost every Shipibo family. Many practitioners are willing to host ceremonies for both Peruvians and foreign visitors.
 
-### Brazilian Ayahuasca Churches
+### [[brazilian-ayahuasca-churches]]
 
 Some tourists visit Brazilian ayahuasca churches such as the Santo Daime, which offer a syncretic blend of indigenous ayahuasca practice with Christian and Afro-Brazilian elements. These churches provide a more structured, group-oriented ceremonial setting compared to the more individualized shaman-led ceremonies in Peru.
 
@@ -135,5 +135,5 @@ Conversely, for those interested in learning about many different aspects of ano
 - [[shamanism]] for broader anthropological context on shamanic practices
 - [[entheogen-culture]] for the study of psychoactive substances in spiritual contexts
 - cultural appropriation for frameworks analyzing the dynamics of cultural borrowing
-- [[metzner-brazilian-ayahuasca-churches-santo-daime-udv-barquinia]] for the Brazilian syncretic ayahuasca church tradition
+- metzner brazilian ayahuasca churches santo daime udv barquinia for the Brazilian syncretic ayahuasca church tradition
 - peru for the broader cultural and political context of the primary destination

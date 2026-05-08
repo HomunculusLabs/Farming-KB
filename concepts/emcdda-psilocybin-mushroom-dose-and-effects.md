@@ -37,7 +37,7 @@ they bruise blue when handled, a visual indicator of psilocin oxidation.
 
 There are more than 100 known hallucinogenic mushrooms. The genus
 Psilocybe is predominant in terms of recreational use, followed by
-Panaeolus. The most common species include [[psilocybe-cubensis-profile]] (also
+Panaeolus. The most common species include [[psychedelic-mushrooms-species-and-identification]] (also
 known as Stropharia cubensis), [[psilocybe-semilanceata]] (liberty caps),
 and [[psilocybe-cyanescens]] (wavy caps). The most frequently marketed
 varieties are the cubensis strains, including Mexican, Thai, Colombian,

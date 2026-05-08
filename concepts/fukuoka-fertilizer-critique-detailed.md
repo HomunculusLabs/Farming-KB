@@ -60,7 +60,7 @@ The soil is not depleted by plants; it is depleted by the practices that accompa
 
 When these destructive practices are eliminated, the soil maintains its fertility indefinitely. Fukuoka's own orchards, managed without fertilizer for decades, demonstrate this principle conclusively.
 
-The [[no-till-gardening-method]] approach, combined with permanent ground cover and the return of all organic matter to the soil, creates a self-sustaining fertility cycle that requires no external inputs.
+The [[composting-and-soil-biology]] approach, combined with permanent ground cover and the return of all organic matter to the soil, creates a self-sustaining fertility cycle that requires no external inputs.
 
 ## The Trace Element Crisis
 

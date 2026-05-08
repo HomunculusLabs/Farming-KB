@@ -148,4 +148,3 @@ for continued investigation.
 - [[jagadis-chandra-bose-plant-research]]
 - [[marcel-vogel-plant-communication]]
 - [[plant-bioelectricity]]
-- [[plant-perception]]

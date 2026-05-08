@@ -123,7 +123,7 @@ and Bioavailability of Pollutants in Fungal Bioremediation.
 
 ## See Also
 
-- [[fungal-toxins-as-insecticides]]
+- [[bioremediation-using-fungi]]
 
 - [[staycare-fungal-degradation-of-triazine-herbicides]]
 

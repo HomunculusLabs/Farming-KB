@@ -138,20 +138,6 @@ darkness, minimal talking, and continuous singing works synergistically to preve
 common problem of becoming "stuck" in a particular vision, emotion, or thought loop. The
 presence of continuous singing allows the participant to surrender without the anxiety of
 having nothing to hold onto. Darkness removes external light competition, allowing internally
-generated visionary imagery to achieve maximum resolution. Together, these features create a
-sensory environment optimized for the entheogenic experience — one that supports rather than
-interferes with the medicine's work.
-
-## Adoption in Hybrid Western Ceremonies
-
-Metzner notes that the hybrid therapeutic shamanic rituals developing in the modern Western
-world have "incorporated these three features from the shamanic model." Modern neo-shamanic
-medicine circles typically use eye-shades (functionally equivalent to darkness), recorded or
-live music with rapid rhythmic elements (equivalent to singing), and minimal verbal
-interaction during the expanded state. This cross-cultural adoption suggests that these
-features represent genuine best practices for entheogenic work that have been independently
-validated across widely separated traditions over millennia.
-
 ## See Also
 
 - [[metzner-shamanic-healing-and-divination-paradigm]] for the broader shamanic framework

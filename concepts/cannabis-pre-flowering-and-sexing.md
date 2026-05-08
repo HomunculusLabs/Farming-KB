@@ -98,7 +98,7 @@ Once sex is confirmed and males are removed, females can remain under 12/12 to d
 
 ## Related
 
-- [[oner-sativa-indoor-challenges-and-flowering-time-problems]] Topics
+- oner sativa indoor challenges and flowering time problems Topics
 
 - [[cannabis-photoperiodism-and-light-cycles]] — light cycle science
 - [[cannabis-flowering-stage-management]] — managing the flowering phase

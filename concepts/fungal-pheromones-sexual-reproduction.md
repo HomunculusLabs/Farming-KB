@@ -16,23 +16,15 @@ sources:
   - "D.S. Thomas and J.T. Mullins, Science 156, 84-85 (1967)"
 type: concept
 ---
+# [[fungal-pheromones-and-sexual-signaling]] and Sexual Reproduction
 
-# Fungal Pheromones and Sexual Reproduction
-
-Fungi employ an astonishing diversity of chemical signaling systems to
-coordinate sexual reproduction, ranging from steroid hormones in water molds
+Fungi employ an plant hormones and chemical signaling systemshemical signaling systems to
+coordinate sexingoldian-hyphomycetes-spore-dispersal-in-wateroduction, ranging from steroid hormones in water molds
 to sesquiterpene pheromones in chytrids and carotenoid-derived trisporic
 acid in zygomycetes. These chemical conversations govern mate recognition,
 hyphal fusion, and the development of sexual structures across all major
 fungal groups. The common challenge for all sexually reproducing fungi is
-the fundamental problem of recognition: with whom should I attempt to fuse
-today?
-
-## Oomycete Sexual Communication
-
-### Antheridiol and Oogoniol
-Oomycete water molds (such as Achlya) secrete steroid hormones to coordinate
-sexual development. The female mycelium releases antheridiol from the
+the fundamental problem of recognition: with whom shoulbloomfield-pythium-oomycete-water-moldstoday? releases antheridiol from the
 lacework of its hyphae, which diffuses through the water and stimulates
 nearby male hyphae to produce antheridia (male sex branches). As the
 antheridia grow toward the antheridiol source, they release a second
@@ -131,7 +123,7 @@ darkens and decays. On tree stumps, the pattern of compatible fusions versus
 incompatible clashes creates dark zone lines mapping territories of competing
 mycelia. Compatible strains fuse and leave no black line between them.
 
-Armillaria gallica fruiting bodies have been found to contain nuclei from nine
+[[armillaria-gallica]] fruiting bodies have been found to contain nuclei from nine
 or more individual mycelia, a finding that unsettled mycologists accustomed
 to thinking in terms of pairwise matings. This multi-strain phenomenon may be
 environmentally regulated: Massachusetts fruiting bodies collected before 1988
@@ -139,7 +131,7 @@ were genetic mosaics, while later mushrooms developed from single mycelia.
 
 ## Cryptococcus Sexual Communication
 
-Cryptococcus neoformans exists as two mating types (a-strain and alpha-strain)
+[[cryptococcus-neoformans]] exists as two mating types (a-strain and alpha-strain)
 that look identical microscopically. Over 95 percent of human infections are
 caused by the alpha-strain, partly because it can produce basidiospores
 without mating, providing a shortcut for infectious spore production in
@@ -148,10 +140,3 @@ eucalyptus flowers and pigeon droppings, where creatinine-rich guano provides
 an ideal nitrogen source.
 
 ## See Also
-
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
-- [[chytrid-fungi-guide]]
-- [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
-- [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
-- [[cryptococcus-neoformans]]
-- [[plant-sensory-biology]]

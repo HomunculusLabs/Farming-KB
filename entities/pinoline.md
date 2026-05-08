@@ -113,7 +113,7 @@ Research into pinoline's therapeutic potential has focused on several areas, tho
 - [[harmalol]]
 - [[dmt]]
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[5-meo-dmt]]
 - [[beta-carboline]]
 - [[banisteriopsis-caapi]]

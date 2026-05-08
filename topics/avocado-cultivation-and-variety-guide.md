@@ -25,7 +25,7 @@ sources:
 
 The avocado (*Persea americana*) is a evergreen subtropical tree native to south-central Mexico, where it has been cultivated for over 7,000 years. Belonging to the Lauraceae family — the same family as bay laurel and cinnamon — the avocado is one of the most nutrient-dense fruits available, rich in monounsaturated fats, potassium, dietary fiber, folate, and vitamins K, C, B5, B6, and E. Its creamy, buttery flesh has made it a staple in cuisines worldwide.
 
-For permaculture practitioners and food forest designers, the avocado tree offers substantial value: deep taproots that improve soil structure, dense canopy providing shade and windbreak, high-value fruit, and excellent companion-planting potential with understory crops that tolerate partial shade. The tree can live and produce for 50–100 years or more, making it a long-term investment in any food-growing system.
+For permaculture practitioners and food forest designers, the avocado tree offers substantial value: deep taproots that improve [[soil-structure-and-aggregate-ecology]], dense canopy providing shade and windbreak, high-value fruit, and excellent companion-planting potential with understory crops that tolerate partial shade. The tree can live and produce for 50–100 years or more, making it a long-term investment in any food-growing system.
 
 ## Botanical Background and Races
 
@@ -217,7 +217,7 @@ Avocado trees naturally develop a spreading, open canopy. Pruning requirements a
 - **Treatment:** Phosphonate (phosphorous acid) trunk injections or soil drenches provide suppression. Biological controls including *Trichoderma* and *Myrothecium verrucaria* have shown promise.
 
 **Anthracnose (*Colletotrichum gloeosporioides*)**
-- Fungal disease causing dark sunken lesions on fruit, especially post-harvest.
+- Fungal disease causing dark sunken lesions on fruit, especially [[post-harvest-handling-marketing-mushrooms]].
 - **Management:** Pre-harvest copper sprays, good canopy air flow, and prompt cooling after harvest.
 
 **Sunblotch**
@@ -292,9 +292,9 @@ Avocados can be grown successfully in containers, making them accessible to grow
 
 - **Variety selection:** Dwarf or semi-dwarf varieties are essential. **Wurtz (Little Cado)**, **GEM**, **Holiday**, and **Felipe** are compact choices.
 - **Container size:** Minimum 20–25 gallons for mature trees; start with 5–10 gallons and up-pot annually. Half-barrel planters work well.
-- **Soil mix:** Well-draining, slightly acidic potting mix with added perlite or pumice (30–40% by volume). Avoid heavy garden soil.
+- **Soil mix:** Well-draining, slightly acidic potting mix with added perlite or pumice (30–40% by volume). Avoid heavy [[garden-soil-terminology-glossary]].
 - **Watering:** Containers dry out faster than ground-planted trees. Water when the top 1–2 inches of soil is dry. Ensure excellent drainage — pots must have drainage holes.
-- **Fertilization:** Use a slow-release citrus/avocado fertilizer or apply liquid organic fertilizer every 2–3 weeks during the growing season.
+- **Fertilization:** Use a slow-release citrus/avocado fertilizer or apply liquid [[organic-fertilizer-sources-guide]] every 2–3 weeks during the growing season.
 - **Light:** Minimum 6–8 hours of direct sun. Supplemental grow lights may be needed indoors.
 - **Pollination:** Indoor trees will need hand pollination. Use a small brush to transfer pollen between flowers.
 
@@ -305,17 +305,17 @@ Avocados can be grown successfully in containers, making them accessible to grow
 The avocado is a classic upper-canopy tree in subtropical food forest systems:
 
 - **Canopy layer:** Avocados occupy the tall tree layer (25–40 feet at maturity), providing dappled shade for understory crops.
-- **Root interactions:** The deep taproot mines minerals from subsoil layers and brings them to the surface via leaf litter. Shallow feeder roots benefit from mycorrhizal associations with fungal networks.
+- **Root interactions:** The deep taproot mines minerals from subsoil layers and brings them to the surface via [[leaf-litter-microfungal-diversity-tropical-temperate]]. Shallow feeder roots benefit from mycorrhizal associations with fungal networks.
 - **Leaf litter:** Thick, nutrient-rich leaf fall provides mulch and organic matter for the soil food web.
 - **Companion plants:** Excellent understory companions include:
   - **Coffee** (*Coffea arabica*) — thrives in avocado dappled shade
   - **Bananas** — provide quick shade for young avocado trees
   - **Citrus** — compatible root depth and nutrient needs
-  - **Comfrey** — dynamic accumulator, chop-and-drop mulch
+  - **Comfrey** — [[dynamic-accumulator-plants-potassium]], chop-and-drop mulch
   - **Sweet potato** — ground cover that tolerates partial shade
   - **Passionfruit** — climbing vine on avocado trunks (avoid heavy shade)
   - **Ginger, turmeric, galangal** — shade-tolerant understory crops
-- **Nitrogen-fixing support:** Interplant with nitrogen-fixing trees such as **ice cream bean** (*Inga edulis*), **black locust** (*Robinia pseudoacacia*), or **mesquite** (*Prosopis* spp.) to supply nitrogen.
+- **[[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] support:** Interplant with nitrogen-fixing trees such as **ice cream bean** (*Inga edulis*), **black locust** (*Robinia pseudoacacia*), or **mesquite** (*Prosopis* spp.) to supply nitrogen.
 
 ### Avocado Guild Design
 
@@ -359,4 +359,4 @@ The high monounsaturated fat content (primarily oleic acid) contributes to cardi
 
 Avocados are among the most rewarding long-term investments for permaculture systems and home food production. Success depends primarily on three factors: **drainage** (the single most critical soil requirement), **frost protection** (select appropriate varieties for your climate zone), and **pollination partnerships** (plant both Type A and Type B for reliable fruit set). With proper site selection, variety choice, and care, a single avocado tree can produce 150–500 fruits per year at maturity, feeding a family for decades.
 
-For growers in marginal climates (USDA Zones 8–9), Mexican-race and Mexican-hybrid varieties like Mexicola, Bacon, and Stewart offer the best chance of success. For indoor and container growing, dwarf varieties like Wurtz (Little Cado) and GEM make avocado cultivation possible even in cold climates.
+For growers in marginal climates (USDA Zones 8–9), Mexican-race and Mexican-hybrid varieties like Mexicola, Bacon, and Stewart offer the best chance of success. For indoor and [[container-growing-vegetables-herbs]], dwarf varieties like Wurtz (Little Cado) and GEM make avocado cultivation possible even in cold climates.

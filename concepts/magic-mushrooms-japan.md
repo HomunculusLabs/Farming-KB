@@ -58,7 +58,7 @@ In 1932, S. Imai described intoxication cases from 1929 and 1931 involving his n
 
 The species was later named Stropharia venenata Imai and grows on top of wood and dung.
 
-Today it is classified within the genus [[psilocybe-genus-classification]] as a close relative of [[psilocybe-cubensis-profile]].
+Today it is classified within the genus [[psilocybe-genus-classification]] as a close relative of [[psychedelic-mushrooms-species-and-identification]].
 
 On June 21, 1929, a 43-year-old woman collected about 13 oz of mushrooms she erroneously thought were honey mushrooms and served them to her family.
 
@@ -92,7 +92,7 @@ Panaeolus subbalteatus is known to grow on several Japanese islands.
 
 The body of knowledge about psychotropic mushroom species in Japan continues to grow as more mycological research is conducted.
 
-See also: [[gymnopilus-purpuratus-profile]], [[psilocybe-cubensis-profile]], [[magic-mushroom-cultural-history]], [[psilocybe-mexicana-profile]]
+See also: [[gymnopilus-purpuratus-profile]], [[psychedelic-mushrooms-species-and-identification]], [[magic-mushroom-cultural-history]], [[psychedelic-mushrooms-species-and-identification]]
 
 ## Related
 

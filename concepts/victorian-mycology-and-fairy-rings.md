@@ -122,7 +122,7 @@ simply a product of the better record-keeping of the emerging institutions of me
 
 ## See Also
 
-- [[victorian-mycology]]
+- [[ethnomycology]]
 - [[fairy-rings-folklore-and-science]]
 - [[1799-liberty-cap-discovery]]
 - [[fly-agaric-in-victorian-literature-and-art]]

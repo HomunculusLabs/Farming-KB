@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [soil, gardening]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Sheet Mulching Guide
 
@@ -111,7 +112,7 @@ The basic principle: cardboard or newspaper smothers existing vegetation (especi
 - [[gaias-garden-sheet-mulching-guide]]
 - [[faires-soil-management-and-sheet-mulching]]
 - [[faires-hugelkultur-and-soil-building]]
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[mulching-guide]]
 - [[soil-building-ecological-garden]]
 - [[mollison-mulching-and-soil-health]]

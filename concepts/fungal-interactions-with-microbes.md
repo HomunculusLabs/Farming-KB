@@ -86,7 +86,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - **Biocontrol**: Trichoderma, mycophagous fungi, mycoviruses as disease control
 - **Composting**: Fungal-bacterial consortia for efficient decomposition
 - [[soil-food-web-structure]] — for the complete [[soil-food-web]]
-- [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
+- [[mushroom-cultivation-fundamentals]] — for fungal biocontrol agents
 
 ## See Also
 

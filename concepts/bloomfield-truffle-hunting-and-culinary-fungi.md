@@ -129,7 +129,7 @@ suite of signals controlling fruiting.
 ## Edible Boleletes and Brackets
 
 Boletes (Boletales) are mushrooms with pores rather than gills beneath their
-caps. Many are excellent edibles, including the prized porcini ([[boletus-edulis]]).
+caps. Many are excellent edibles, including the prized porcini ([[boletus-edulis-entity]]).
 However, identification can be treacherous: Money recounts an incident in which
 his mentor John Webster left the fruiting body of Boletus satanus (Satan's
 bolete) on his bench for identification. Money instead sliced it into chili,

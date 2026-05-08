@@ -101,13 +101,13 @@ The strain's effects are often described as more "pure" or "clean" than modern p
 
 ## See Also
 
-- [[thai-stick]] — Another foundational equatorial sativa landrace from Southeast Asia
+- [[thai-stick-entity]] — Another foundational equatorial sativa landrace from Southeast Asia
 - [[acapulco-gold]] — Mexican landrace strain of the same era and cultural significance
-- [[hindu-kush-cannabis-entity]] — Indica landrace counterpart from the Hindu Kush mountains
+- [[hindu-kush]] — Indica landrace counterpart from the Hindu Kush mountains
 - [[skunk-1]] — Iconic hybrid that incorporates Colombian Gold genetics
 - [[panama-red]] — Central American sativa landrace contemporary to Colombian Gold
 - [[cannabis-sativa]] — Botanical species classification for Colombian Gold
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]] — Aromatic compounds responsible for Colombian Gold's distinctive aroma
 - [[query-how-to-make-sourdough-bread-at-home]] — Jamaican sativa landrace with similar cultural significance
-- [[durban-poison]] — South African sativa landrace known for its anise aroma and energetic effects
+- [[cannabis-indoor-growing-guide]] — South African sativa landrace known for its anise aroma and energetic effects
 - [[beta-caryophyllene-dietary-cannabinoid]] — Primary terpene in Colombian Gold, also a dietary cannabinoid via CB2 receptor binding

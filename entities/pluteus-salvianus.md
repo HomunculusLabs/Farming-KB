@@ -123,4 +123,4 @@ Several *Pluteus* species share morphological and chemical similarities:
 - [[stropharia-rugosoannulata]]
 - [[psilocin]]
 - [[baeocystin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]

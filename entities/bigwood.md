@@ -12,7 +12,7 @@ sources:
 # Jeremy Bigwood
 
 Jeremy Bigwood is an American mycologist and analytical chemist known for pioneering
-quantitative analysis of [[psilocybin]] and [[psilocin]] levels in psychoactive mushrooms.
+quantitative analysis of [[psilocybin-compound]] and [[psilocin]] levels in psychoactive mushrooms.
 His work provided the first systematic, species-by-species data on tryptamine alkaloid
 content across a wide range of Psilocybe species and related genera, establishing
 baseline pharmacological data that continues to be referenced decades after publication.
@@ -89,7 +89,7 @@ psilocybin in clinical settings where precise dosing is essential.
 Bigwood employed high-performance liquid chromatography (HPLC) with UV detection
 for alkaloid quantification.
 His methodology set standards for subsequent researchers including [[jochen-gartz]]
-and others studying [[psilocybin]] content variation, representing a significant
+and others studying [[psilocybin-compound]] content variation, representing a significant
 advance over earlier thin-layer chromatography (TLC) methods.
 
 The analytical protocol involved extracting alkaloids from dried mushroom tissue
@@ -143,7 +143,7 @@ Subsequent researchers have built upon their methodology but the original study 
 
 - [[beug]]
 - [[jochen-gartz]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]

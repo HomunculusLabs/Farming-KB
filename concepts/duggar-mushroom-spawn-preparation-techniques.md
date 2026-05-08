@@ -142,7 +142,7 @@ movement to sell inferior product.
 
 - [[mushroom-grain-spawn-preparation]]
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 
 - [[duggar-mushroom-growing-history-and-methods]]
 - [[duggar-mushroom-house-construction-and-management]]

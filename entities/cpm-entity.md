@@ -105,7 +105,7 @@ than CPM.
 
 - [[escaline-entity]] -- 3,5-dimethoxy-4-ethoxyphenethylamine
 
-- [[proscaline-entity]] -- 3,5-dimethoxy-4-propoxyphenethylamine
+- [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine
 
 - [[mal-entity]] -- methallylescaline
 

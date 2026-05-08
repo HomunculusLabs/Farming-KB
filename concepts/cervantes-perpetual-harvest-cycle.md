@@ -117,7 +117,7 @@ regular intervals. For an eight-week flowering strain:
 - And so on continuously
 
 This approach also eases the workload at harvest time, as only a portion of
-the total crop is harvested at any given time. Drying and [[cervantes-curing-storage]] space requirements are also spread out.
+the total crop is harvested at any given time. Drying and [[cannabis-advanced-growing-techniques]] space requirements are also spread out.
 
 [[aeroponics-cannabis]] offers an alternative growing method that pairs well with perpetual harvest scheduling for growers seeking faster growth rates.
 

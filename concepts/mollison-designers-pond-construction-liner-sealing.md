@@ -148,4 +148,3 @@ water level and draining the pond for maintenance.
 After construction, allow the pond to fill naturally. Introduce aquatic plants
 from shallow to deep zones. Start with oxygenating submergents, then marginal
 plants, then floating-leaved species. Avoid invasive aquatics. Stock fish only
-after several weeks of establishment. See [[permaculture-aquaculture]] for

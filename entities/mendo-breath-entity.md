@@ -137,6 +137,6 @@ Pest and mold resistance is average; dense buds require good airflow to prevent 
 - `[[og-kush-cannabis-entity]]` — OG Kush, a foundational parent in Mendo Breath's lineage
 - `[[girl-scout-cookies]]` — Girl Scout Cookies, the grandparent strain via OGKB
 - `[[granddaddy-purple]]` — Another purple, sedative California indica for comparison
-- `[[northern-lights-entity]]` — Classic indica with similar relaxing and sedative effects
+- `[[cannabis-northern-lights]]` — Classic indica with similar relaxing and sedative effects
 - `[[bubba-kush]]` — Heavy indica with comparable body effects and earthy aroma
 - `[[sfv-og]]` — Related OG Kush descendant from Southern California

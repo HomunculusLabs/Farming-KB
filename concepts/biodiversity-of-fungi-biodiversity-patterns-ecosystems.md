@@ -109,7 +109,7 @@ Agroforestry combines trees with crops or livestock, creating habitat for divers
 - Shaded conditions favor different fungal communities than open fields
 - Greater structural complexity creates more microhabitats
 
-See also: [[fungal-conservation-strategies]], [[fungal-conservation-biology]]
+See also: [[ethnomycology]], [[fungal-conservation-biology]]
 
 ## Disturbance and Succession
 
@@ -136,7 +136,7 @@ See also: [[fungal-succession-patterns]], [[fungal-soil-aggregation]], [[fungal-
 Cultivation represents a recurring disturbance that resets fungal community succession. See [[soil-disturbance-mycorrhizal-impact]] for how tillage affects mycorrhizal communities:
 - Each tillage event disrupts hyphal networks and redistributes organic matter
 - Fungal communities recover partially between tillage events
-- No-till systems allow successional development of more mature fungal communities. See [[no-till-gardening-method]] for no-till approaches.
+- No-till systems allow successional development of more mature fungal communities. See [[composting-and-soil-biology]] for no-till approaches.
 - The degree of disturbance affects the balance between r-selected (weedy) and K-selected (competitive) fungal species
 
 ## Biogeographic Patterns

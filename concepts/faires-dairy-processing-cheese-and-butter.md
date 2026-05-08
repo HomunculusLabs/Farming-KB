@@ -79,7 +79,7 @@ Always keep a small amount of plain yogurt set aside in the fridge as starter fo
 
 Kefir is similar to yogurt but uses kefir grains (a symbiotic culture of bacteria and yeasts) rather than a simple bacterial starter. Kefir grains can be obtained from another kefir-maker or purchased online.
 
-### [[kefir-making]] Process
+### kefir making Process
 
 1. Place kefir grains in a glass jar (1-2 tablespoons of grains per cup of milk)
 2. Fill with fresh milk, leaving some headspace

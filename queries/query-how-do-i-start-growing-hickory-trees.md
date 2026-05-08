@@ -16,14 +16,13 @@ sources:
 created: 2026-05-07
 type: query
 ---
-
-# How Do I Start Growing Hickory Trees?
+# How Do [[query-what-is-syntropic-agriculture-and-how-do-i-start]] Growing Hickory Trees?
 
 ## Quick Summary
 
-Growing hickory trees is a long-term investment that rewards patience with centuries of nut production, exceptional timber, and wildlife habitat. Shagbark hickory (*Carya ovata*) is the best species for most growers — it's the most cold-hardy, the best nut producer, and the most widely adapted. This guide covers everything you need to start.
+Growing hickory trees is a long-term investment that rewards patience witquery-how-do-i-design-a-farm-pond-for-irrigation-and-wildlifeof nut production, exceptional timber, and wildlife habitat. Shagbark hickory (*Carya ovata*) is the best species for most growers — it's the most cold-hardy, the best nut producer, and the most widely adapted. This guide covers everything you need to start.
 
-## Step 1: Choose Your Species
+## Smushroom market and productionYour Species
 
 **For most growers — Shagbark Hickory (*Carya ovata*):**
 - Best nut quality and production among native hickories
@@ -144,14 +143,7 @@ Hickories need:
 ## Companion Plants for Hickory Food Forests
 
 Since hickories produce low levels of juglone, many plants grow well beneath them:
-- **Fruit:** Pawpaw, elderberry, serviceberry, currants, black raspberry, gooseberry
-- **Herbs:** Comfrey, yarrow, mint (contained), wild ginger, Solomon's seal
+- **Fruit:** [[pawpaw]], elderberry, serviceberry, currants, black raspberry, gooseberry
+- **Herbs:** [[comfrey]], [[yarrow]], mint (contained), wild ginger, Solomon's seal
 - **Ground cover:** Dutch white clover, violets, wild strawberry
 - **Nitrogen fixers:** Chokecherry, autumn olive (careful — can be invasive), redbud, American plum
-- **Avoid near trunk:** Tomatoes, potatoes, peppers, eggplant, blueberries, azaleas (some juglone sensitivity)
-
-## See Also
-
-- [[query-how-do-i-start-growing-hazelnut-bushes]]
-- [[query-how-to-start-growing-mushrooms-at-home]]
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

@@ -139,6 +139,6 @@ Phase II is complete when:
 
 - [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
-- [[mushroom-compost-substrates]]
+- [[mushroom-cultivation-fundamentals]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-gypsum-lime-ph-management]]

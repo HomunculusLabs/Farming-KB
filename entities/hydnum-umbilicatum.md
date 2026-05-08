@@ -115,9 +115,9 @@ No toxic compounds or significant heavy metal accumulation has been reported for
 ## See Also
 
 - [[hydnum-repandum]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[craterellus-tubaeformis]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[trametes-versicolor]]
 - [[hericium-erinaceus]]

@@ -8,11 +8,11 @@ sources: []
 
 # Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
 
-Three of the most nutrient-dense berries in the world, each with distinct strengths. This guide compares them across nutrition, cultivation, flavor, and best-use scenarios.
+Three of the most [[nutrient-dense-gardening]] berries in the world, each with distinct strengths. This guide compares them across nutrition, cultivation, flavor, and best-use scenarios.
 
 ## Quick-Glance Comparison
 
-| Dimension | Aronia (Chokeberry) | Goji Berry (Wolfberry) | Sea Buckthorn |
+| Dimension | Aronia (Chokeberry) | Goji Berry (Wolfberry) | [[sea-buckthorn-cultivation-and-uses]] |
 |---|---|---|---|
 | **Scientific Name** | *Aronia melanocarpa* | *Lycium barbarum* | *Hippophae rhamnoides* |
 | **Plant Type** | Deciduous shrub | Deciduous woody perennial | Deciduous shrub (dioecious) |
@@ -31,7 +31,7 @@ Three of the most nutrient-dense berries in the world, each with distinct streng
 |---|---|---|---|
 | **Soil** | Adapts to most soils; tolerates clay | Well-drained, sandy loam preferred | Sandy, well-drained; tolerates poor soils |
 | **Sun** | Full sun to partial shade | Full sun | Full sun |
-| **Water** | Low–medium; drought-tolerant once established | Low; drought-tolerant | Very low; highly drought-tolerant |
+| **Water** | Low–medium; [[drought-tolerant-planting-design]] once established | Low; drought-tolerant | Very low; highly drought-tolerant |
 | **Cold Hardiness** | Excellent (to −40°F / −40°C) | Good (to −15°F / −26°C) | Excellent (to −40°F / −40°C) |
 | **Heat Tolerance** | Moderate (struggles above 95°F) | Good (tolerates 100°F+) | Moderate (prefers cool-temperate) |
 | **Soil pH** | 5.0–8.0 (very adaptable) | 6.5–7.5 | 6.0–7.5 |
@@ -80,15 +80,15 @@ Three of the most nutrient-dense berries in the world, each with distinct streng
 |---|---|---|---|
 | **Growth Rate** | Moderate | Fast (can be invasive) | Fast |
 | **Ornamental Value** | Excellent fall color, white spring flowers | Attractive purple flowers, cascading habit | Silvery foliage, striking orange berries |
-| **Wildlife Value** | High — birds love the berries | Moderate — birds and pollinators | High — birds, nitrogen-fixing roots |
-| **Soil Building** | Moderate | Low | Excellent — fixes nitrogen via actinorhizal roots |
+| **Wildlife Value** | High — birds love the berries | Moderate — birds and pollinators | High — birds, [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] roots |
+| **[[soil-building-ecological-garden]]** | Moderate | Low | Excellent — fixes nitrogen via actinorhizal roots |
 | **Windbreak Potential** | Good (dense hedge) | Low | Excellent (tall, wind-tolerant) |
 | **Container Suitability** | Good | Good with pruning | Possible but challenging (large size) |
 
 ## Pest and Disease Profile
 
 - **Aronia:** Very few pest or disease issues. Minimal deer browsing. Moderate bird pressure at harvest.
-- **Goji Berry:** Susceptible to powdery mildew, aphids, and spider mites. Deer may browse young plants. Low bird pressure.
+- **Goji Berry:** Susceptible to [[powdery-mildew-cannabis]], aphids, and spider mites. Deer may browse young plants. Low bird pressure.
 - **Sea Buckthorn:** Generally pest-free but can get aphids or gall mites. Deer rarely browse (thorny branches deter). Moderate to high bird pressure.
 
 ## Yield and Harvest
@@ -96,7 +96,7 @@ Three of the most nutrient-dense berries in the world, each with distinct streng
 | Dimension | Aronia | Goji Berry | Sea Buckthorn |
 |---|---|---|---|
 | **Yield/Plant** | 10–20 lbs at maturity | 2–5 lbs (higher with age) | 15–25 lbs (female plants) |
-| **Harvest Window** | 2–3 weeks | Continuous over 2–3 months | 2–4 weeks |
+| **[[harvest-window-cannabis]]** | 2–3 weeks | Continuous over 2–3 months | 2–4 weeks |
 | **Processing Needs** | Press or blend for juice/jam | Can eat dried directly | Requires pressing equipment for juice/oil |
 | **Storage** | Freezes well; juice keeps ~1 year frozen | Dried berries store 1+ year | Juice/oil frozen or refrigerated; berries freeze well |
 
@@ -138,7 +138,7 @@ Three of the most nutrient-dense berries in the world, each with distinct streng
 | **Easiest to Grow** | Aronia | Tolerates almost any soil, very cold-hardy, pest-free |
 | **Best for Edible Landscaping** | Sea Buckthorn | Silvery foliage, nitrogen-fixing, striking orange fruit, windbreak |
 | **Medicinal Garden** | All three (plant all) | Complementary compounds — anthocyanins, polysaccharides, omega-7 |
-| **Container Growing** | Aronia or Goji | Compact size; goji benefits from root constraint |
+| **[[container-growing-vegetables-herbs]]** | Aronia or Goji | Compact size; goji benefits from root constraint |
 | **Cold Climate** | Aronia or Sea Buckthorn | Both survive zone 3; goji tops out at zone 5 |
 | **Best Tasting Fresh** | Goji Berry | Only one truly pleasant to eat raw off the plant |
 | **Homemade Wellness Products** | Sea Buckthorn | Oil and juice have strong cosmetic and medicinal markets |

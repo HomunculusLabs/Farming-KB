@@ -108,10 +108,10 @@ The original research paper examined the use of microwave irradiation for steril
 
 - [[microwave-sterilization]]
 
-- [[microwave-surface-sterilization]]
+- microwave-surface-sterilization
 
 - [[mushroom-pasteurization]] -- pasteurisation techniques for bulk substrates
-- [[mushroom-cultivation-sterile-technique]] -- sterile technique overview
+- [[mushroom-cultivation-fundamentals]] -- sterile technique overview
 - [[mushroom-sterile-technique-detailed]] -- detailed sterile procedures
 - [[mushroom-grow-equipment]] -- cultivation equipment guide
 - [[mushroom-sterilization-methods]] -- comprehensive sterilization comparison

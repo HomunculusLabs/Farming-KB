@@ -143,7 +143,7 @@ mushrooms for spore printing, creating an ongoing self-sustaining cycle.
 
 ## See Also
 
-- [[fanaticus-spore-printing-and-syringe-preparation]]
+- [[psilocybin-mushroom-cultivation-guide]]
 
 - [[inoculation-technique-and-alcohol-flaming]]
 - [[contaminant-identification-and-prevention]]

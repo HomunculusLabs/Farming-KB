@@ -138,31 +138,6 @@ escape from shade and compete more effectively for light resources.
 Understanding the Pr/Pfr model has enabled numerous agricultural innovations.
 Greenhouse growers can manipulate the red-to-far-red ratio using different types
 of supplemental lighting to control plant architecture and flowering.
-Chrysanthemum farmers, for example, use night-break lighting with red-rich
-sources to prevent premature flowering throughout autumn and winter, then cease
-the treatment approximately two weeks before the desired harvest date to trigger
-simultaneous blooming in time for seasonal markets.
-
-In cannabis cultivation, the transition from vegetative growth to flowering is
-controlled by reducing the daily light period from 18 hours to 12 hours. The
-associated increase in continuous darkness allows Pfr levels to fall below the
-threshold that maintains vegetative growth, triggering the flowering programme.
-Supplemental far-red light can be used to accelerate this transition or to
-manipulate plant height during the vegetative phase.
-
-## Modern Extensions of the Model
-
-While the original two-state model remains conceptually foundational, modern
-molecular biology has revealed additional complexity. Higher plants possess
-multiple phytochrome genes (phyA through phyE in Arabidopsis), each with
-distinct absorption properties, stability profiles, and physiological roles.
-PhyA is particularly important for sensing very low light levels and
-far-red-enriched light environments, while PhyB is the primary mediator of
-responses to red-to-far-red ratios in daylight conditions. Despite this genetic
-diversity, every member of the phytochrome family operates through the same
-fundamental principle of Pr/Pfr photoconversion that Butler and his colleagues
-first described.
-
 ## See Also
 
 - [[borthwick-far-red-reversal-photoperiodic-discovery]]

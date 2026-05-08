@@ -1,5 +1,5 @@
 ---
-title: "Caryophyllene Oxide"
+title: "caryophyllene oxide"
 created: 2026-04-28
 type: chemical
 tags:
@@ -19,12 +19,11 @@ sources:
   - "Gonçalves, E.C. et al. (2017). \"Therapeutic potential of β-caryophyllene.\" Drug Discovery Today, 22(3), 425–427."
   - "US FDA. (2016). Food Additive Status List. FDA Center for Food Safety and Applied Nutrition."
 ---
-
 # Caryophyllene Oxide
 
 ## Overview
 
-Caryophyllene oxide is a naturally occurring oxygenated bicyclic sesquiterpene and the primary oxidation product of β-caryophyllene. Found abundantly in the essential oils of numerous aromatic plants — including cannabis (*Cannabis sativa*), black pepper (*Piper nigrum*), cloves (*Syzygium aromaticum*), cinnamon (*Cinnamomum* spp.), basil (*Ocimum basilicum*), and rosemary (*Rosmarinus officinalis*) — caryophyllene oxide plays a significant role in plant defense chemistry and has attracted considerable research interest for its pharmacological activities. Notably, it is the **first terpene approved by the FDA as a food additive**, reflecting its established safety profile. It is also the compound responsible for the distinctive peppery "tingle" experienced when smoking cannabis, and it serves as a marker compound for detecting synthetic cannabinoid ("Spice") products in forensic drug testing.
+Caryophyllene oxide is a naturally occurring oxygenated bicyclic sesquiterpene and the primary oxidation product of β-caryophyllene. Found abundantly in the [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of numerous aromatic plants — including cannabis (*[[cannabis-sativa]]*), black pepper (*[[piper-nigrum]]*), cloves (*Syzygocimum-basilicum]], cinnamon (*Cinnamomum* spp.), basil (*[[ocimum-basilicum]]*), and rosemary (*[[rosmarinus-officinalis]]*) — caryophyllene oxide plays a significant role in plant defense chemistry and has attracted considerable research interest for its pharmacological activities. Notably, it is the **first terpene approved by the FDA as a food additive**, reflecting its established safety profile. It is also the compound responsible for the distinctive peppery "tingle" experienced when smoking cannabis, and it serves as a marker compound for detecting synthetic cannabinoid ("Spice") products in forensic drug testing.
 
 ## Chemical Identity
 
@@ -66,7 +65,7 @@ Caryophyllene oxide is one of the most widely distributed sesquiterpene oxides i
 | Basil (*O. basilicum*) | 0.5–2% of essential oil | Chemotype-dependent |
 | Copaiba resin (*Copaifera* spp.) | 5–20% | Major therapeutic component |
 | Lemongrass (*C. citratus*) | 0.5–2% | Contributes to woody base notes |
-| Hops (*Humulus lupulus*) | Trace–1% | Contributes to beer aroma |
+| Hops (*[[humulus-lupulus]]*) | Trace–1% | Contributes to beer aroma |
 | Caraway (*Carum carvi*) | Trace–0.5% | Minor component |
 
 ## Pharmacology
@@ -98,7 +97,7 @@ Preclinical studies have demonstrated promising anticancer activity:
 
 ### Antimicrobial Activity
 
-- **Antifungal:** Active against *Candida albicans*, *Aspergillus niger*, and *Dermatophytes*; disrupts fungal cell membrane integrity
+- **Antifungal:** Active against *[[candida-albicans]]*, *Aspergillus niger*, and *Dermatophytes*; disrupts fungal cell membrane integrity
 - **Antibacterial:** Demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa* in vitro; mechanism involves membrane disruption and efflux pump inhibition
 - **Anti-biofilm:** Inhibits biofilm formation and disrupts pre-formed biofilms in *P. aeruginosa* and *S. aureus*, suggesting potential applications in treating device-associated infections
 
@@ -147,9 +146,3 @@ Caryophyllene oxide serves as a critical **forensic marker** for distinguishing 
 - **Pregnancy:** No specific contraindications at dietary exposure levels; insufficient data for therapeutic doses
 
 ## See Also
-
-- [[e-beta-caryophyllene-bcp]] — Parent compound β-caryophyllene
-- [[cannabidiol-cbd]] — CBD, the primary non-psychoactive cannabinoid with shared anti-inflammatory pathways
-- [[humulene]] — Co-occurring sesquiterpene with synergistic anticancer activity
-- [[myrcene]] — Dominant cannabis terpene with distinct pharmacological profile
-- [[limonene]] — Monoterpene with complementary anti-inflammatory and mood-elevating effects

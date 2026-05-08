@@ -140,7 +140,7 @@ excessively.
 
 - [[cervantes-nutrient-management]] - comprehensive nutrient guidance
 - [[cervantes-ph-management-testing]] - pH affects chelation
-- [[cervantes-organic-growing]] - organic cultivation methods
+- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-compost-tea-organic-brewing]] - brewing with humates
 - [[cervantes-micronutrient-deficiency-chelation]] - chelation and
   micronutrients

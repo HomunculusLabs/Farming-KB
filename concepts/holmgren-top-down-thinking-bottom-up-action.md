@@ -84,7 +84,7 @@ The so-called anti-globalisation movement is not simply oppositional -- it repre
 ### Self-Reliance as Strategy
 Creating household and community self-reliance is not withdrawal from the world but the most powerful form of political action within the top-down/bottom-up framework. "The creation of sustainable alternatives exposes the big lie."
 
-See also: [[permaculture-retrofit-suburbia]], [[homestead-education-resources]], [[permaculture-design-principles-beginners]], [[permaculture-retrofit-suburbia]], [[permaculture-self-reliance-and-political-action]],
+See also: [[permaculture-retrofit-suburbia]], [[homestead-education-resources]], [[permaculture-design-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-self-reliance-and-political-action]],
 - [[permaculture-principle-design-from-patterns-to-details]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[holmgren-permaculture-change-principle]]

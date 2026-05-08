@@ -148,5 +148,3 @@ divination, prophecy, or witchcraft.
 - [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
-- [[golden-guide-cannabis-historical-use]]
-- [[golden-guide-ayahuasca-and-caapi]]

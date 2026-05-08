@@ -115,7 +115,7 @@ Modern clinical applications include:
 
 - [[scutellaria-lateriflora]]
 
-- [[ocimum-tenuiflorum]] — Lamiaceous medicinal herb used in Ayurvedic medicine (tulsi)
+- [[ocimum-tenuiflorum-entity]] — Lamiaceous medicinal herb used in Ayurvedic medicine (tulsi)
 - [[withania-somnifera]] — Adaptogenic herb with complementary anti-inflammatory and neuroprotective properties
 - [[panax-ginseng]] — Fundamental TCM herb with synergistic use in classical formulations
 - [[passionflower-passiflora]] — Herbal anxiolytic with GABAergic mechanism similar to wogonin

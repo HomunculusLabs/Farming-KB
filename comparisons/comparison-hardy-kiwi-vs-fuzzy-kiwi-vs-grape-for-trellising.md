@@ -139,7 +139,7 @@ Hardy kiwi commands premium prices at farmers' markets due to novelty, exception
 
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 
-- [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — detailed kiwifruit growing guide
-- [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — alternative trellised fruits
+- comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — detailed kiwifruit growing guide
+- comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — alternative trellised fruits
 - [[gaias-garden-food-forest-history-and-evolution]] — integrating vines into food forests
 - [[zone-and-sector-analysis]] — zone planning for trellised crops

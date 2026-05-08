@@ -10,17 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
 
-
-
-
-
 ## Chemical Name
 
 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE
-
-
-
-
 
 ## Dosage and Duration
 
@@ -29,10 +21,6 @@ PIHKAL entry #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
 | Dosage | greater than 115 mg. |
 | Duration | unknown. |
 
-
-
-
-
 ## Qualitative Comments
 
 > (with 115 mg) I was faintly nauseous about an
@@ -40,19 +28,11 @@ PIHKAL entry #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
 > usual in the evening. Substantially no effects.
 >
 
-
-
-
-
 ## Extensions and Commentary
 
 The rationale for exploring the beta-hydroxylated phenethylamines, especially those with oxygens at the biologically important 3- and 4-positions, has already been presented. Norepinephrine is a beta-hydroxylated phenethylamine with oxygens at these two ring positions. With DME, these are masked as two methyl ethers, and the initials DME stand for 3,4-dimethoxyphenyl-beta-ethanolamine. This is an alternate name for 3,4-dimethoxy-beta-hydroxyphenethylamine.
 
 An exactly analogous compound is 3,4-methylenedioxy-beta-ethanolamine, where the masking is done with the biologically more fragile methylenedioxy ether. Originally I had called this compound MDE (methylenedioxyethanolamine) but that code has been, since 1975, used exclusively for 3,4-methylenedioxy-N-ethylamphetamine, which is a recipe all by itself. Under the discussion of members of the BOX series, there is a methylenedioxyphenethylamine with a methoxyl group at the beta-position, and it is called BOH (q.v.). There, a reasonable code name for this specific compound is given, namely BOHH. RBOS stands for the beta-oxygen function on a phenethylamine; this is the heart of the BOX family. The RHS which is the third letter of BOHH stands for the free hydroxyl group. And the final RHS is for homopiperonylamine (which is the trivial name for the compound without the hydroxyl group). BOHH, or 3,4-methylenedioxy-beta-hydroxyphenethylamine, or 3,4-methylenedioxy-beta-ethanolamine, has also be assayed in man at up to 100 milligrams without any effects, and must be considered, as of now, to be inactive centrally. The possible toxic roles of beta-ethanolamines as potential adrenolytic agents, have been discussed in the BOHD recipe. And beware of the use of the code name MDE in the very old literature. It might be this BOHH compound.
-
-
-
-
 
 ## Synthesis
 
@@ -62,19 +42,11 @@ A well-stirred suspension of 4.7 g LAH in 500 mL anhydrous Et2O was brought up t
 
 finely ground under 5 mL CH3CN. There remained, after refiltration and air drying, 0.85 g of 3,4-dimethoxy-beta-hydroxyphenethylamine hydrochloride, DME, with a mp of 170-172 deg C.
 
-
-
-
-
 ## Safety Notes
 
 DME is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
-
 
 ## See Also
 

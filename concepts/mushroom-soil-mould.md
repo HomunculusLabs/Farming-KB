@@ -25,7 +25,7 @@ A sandy loam was considered the best possible mould. This
 soil type provides excellent drainage while retaining
 sufficient moisture and nutrients. Its loose structure allows
 easy emergence of mushroom pins through the surface during
-the [[mushroom-bed-preparation]] process.
+the mushroom bed preparation process.
 
 ### Yellow Soil
 

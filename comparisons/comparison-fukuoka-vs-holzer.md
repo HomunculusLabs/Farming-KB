@@ -148,5 +148,3 @@ landscape design.
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-biodynamic-vs-permaculture]]
-- [[comparison-sepp-holzer-vs-permaculture-design]]
-- [[permaculture-design]]

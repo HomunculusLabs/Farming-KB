@@ -139,41 +139,6 @@ Turkey tail has limited data on metabolic health, though some studies suggest li
 ## Safety and Contraindications
 
 | Concern | **Chaga** | **Turkey Tail** |
-|---|---|---|
-| **General safety** | Excellent; traditional use for centuries | Excellent; used clinically in Japan/China for decades |
-| **Autoimmune conditions** | May stimulate immune function; caution advised | Immune-stimulating (PSK); caution in autoimmune flares |
-| **Bleeding risk** | May inhibit platelet aggregation; caution with anticoagulants | Low risk |
-| **Blood sugar** | May lower blood glucose; monitor with antidiabetic drugs | Minimal effect |
-| **Kidney stones** | Very high oxalate content; avoid in individuals with oxalate kidney stones | Low oxalate; not a concern |
-| **Pregnancy/breastfeeding** | Insufficient safety data; avoid | Insufficient safety data; avoid |
-| **Chemotherapy interaction** | May have additive effects; some oncologists recommend during chemo breaks | PSK is specifically used alongside chemotherapy; well-documented safety |
-
-**Key safety note for chaga:** Chaga contains very high levels of oxalates (approximately 2,800–4,800 mg oxalate per 100 g dry weight). This is a significant concern for individuals with a history of calcium oxalate kidney stones. Long-term high-dose consumption of chaga powder (not extracts, which have lower oxalate levels) has been associated with kidney damage in rare case reports.
-
-## Choosing Between Them
-
-**Choose Turkey Tail when:**
-- Primary goal is immune support during or after cancer treatment (strongest evidence base)
-- You want a well-characterized, clinically validated supplement
-- You prefer a cultivated product with consistent quality and lower environmental impact
-- You need broad immune modulation rather than antioxidant-focused support
-
-**Choose Chaga when:**
-- Primary goal is antioxidant support and anti-inflammatory benefits
-- You are interested in metabolic health (blood sugar, cholesterol, liver support)
-- You want a rich source of SOD and melanin for skin and anti-aging benefits
-- You enjoy the ritual of brewing medicinal teas and appreciate the flavor
-- You can source it responsibly from sustainable wild harvesters
-
-**Use both when:**
-- Managing a chronic health condition with both immune and inflammatory components
-- Seeking comprehensive medicinal mushroom support (many functional mushroom blends include both)
-- Working with a practitioner who can guide dosing and monitor interactions
-
-## Summary
-
-Turkey tail and chaga are both exceptional medicinal fungi, but they occupy different niches. Turkey tail is the **immunomodulation specialist** with decades of clinical validation, particularly in oncology. Chaga is the **antioxidant powerhouse** with unique birch-derived compounds and broad anti-inflammatory and metabolic benefits. Their complementary profiles make them valuable allies in any natural health protocol, and many practitioners recommend both — with turkey tail for targeted immune support and chaga for overall antioxidant and anti-inflammatory protection.
-
 ## See Also
 
 - [[medicinal-mushroom-guide-turkey-tail]]

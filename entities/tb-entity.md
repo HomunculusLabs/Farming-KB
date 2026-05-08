@@ -75,7 +75,7 @@ Duration: about 8 h.
 
 [[ariadne-entity]]
 
-[[proscaline-entity]]
+[[proscaline]]
 
 [[tp-entity]]
 

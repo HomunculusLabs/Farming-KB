@@ -148,4 +148,3 @@ fungicides.
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]] for
   AMF study techniques
 - [[symbiotic-fungi-lichen-symbiosis-overview]] for broader
-  rhizosphere ecology

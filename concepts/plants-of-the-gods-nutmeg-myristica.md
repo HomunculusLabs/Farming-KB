@@ -114,7 +114,7 @@ plants documented in *Plants of the Gods*.
 - [[hallucinogenic-plant-chemistry]] - chemical classification
 - [[hallucinogenic-plants-history-ethnobotany]] - historical survey
 - [[old-world-hallucinogenic-plants-overview]] - Old World plants
-- [[hallucinogenic-plants-of-the-world]] - worldwide overview
+- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview
 - [[plants-of-the-gods-virola-epena-snuff]] - same plant family
 - [[betel-nut-arecoline-ethnobotany]] - betel chew comparison
 - [[plants-of-the-gods-amanita-muscaria]] - Amanita muscaria

@@ -76,7 +76,7 @@ The systemically altered "defense readiness" is associated with:
 
 Since P. indica can be easily propagated in the absence of a host plant, the fungus could be exploited to increase disease resistance as well as yield in crop plants (Waller et al. 2005).
 
-See also: [[mycopesticides-fungal-biocontrol]], [[mycorrhizal-pathogen-resistance]]
+See also: [[mushroom-cultivation-fundamentals]], [[mycorrhizal-pathogen-resistance]]
 
 ### Stress Tolerance
 

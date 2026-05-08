@@ -148,4 +148,3 @@ maximum 2 inches. Substrate depths of 6-8 inches are cased 1.25 to
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
 - [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
 - [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]
-- [[oyster-mushroom-species-fruiting-parameters]]

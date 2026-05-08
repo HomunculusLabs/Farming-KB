@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Franco R et al. "A pharmacology perspective on the role of
-    caffeine and theobromine in migraine." Frontiers in
+    [[caffeine]] and theobromine in migraine." Frontiers in
     Pharmacology 4, 2013.
   - Martínez-Pinilla E et al. "Theobromine, caffeine, and the
    ophthalmic system." Nutrients 7(4), 2015.
@@ -25,18 +25,17 @@ sources:
   - Lieshout Mv et al. "Effect of theobromine on mood." Journal
     of Psychopharmacology 25, 2011.
 ---
-
 # Theobromine
 
 ## Overview
 
 Theobromine (3,7-dimethylxanthine) is a bitter alkaloid of the
-methylxanthine class, found primarily in *Theobroma cacao* (cacao)
+methylxanthine class, found primarily in *[[theobroma-cacao]]* (cacao)
 at 1–4% of dry bean weight. It is the principal active compound in
 chocolate, responsible for its bitter taste and many mood-elevating
 effects.
 
-Structurally related to caffeine (1,3,7-trimethylxanthine), it shares
+Structurally relatedcaffeineeine (1,3,7-trimethylxanthine), it shares
 properties as a mild stimulant, vasodilator, and bronchodilator, but
 with significantly lower CNS adenosine receptor potency. The name
 derives from Greek *theobroma* ("food of the gods").
@@ -48,21 +47,21 @@ derives from Greek *theobroma* ("food of the gods").
 - **Molecular Weight:** 180.16 g/mol
 - **CAS Number:** 83-67-0
 - **Structure:** Dimethylxanthine; methyl groups at positions 3 and 7
-- **Solubility:** Slightly soluble in water (0.33 g/L at 25°C), more
-  soluble in hot water and ethanol
+- **Solubility:** Slightly [[spore-dispersal]]-in-waterin water (0.33 g/L at 25°C), more
+  soluble in [[hot-water-and-hydrated-lime-substrate-treatment]] and ethanol
 - **Melting Point:** 357°C (decomposes)
 
 A white crystalline powder with bitter taste. Differs from caffeine
-by a single methyl group at N1, resulting in substantially different
-pharmacokinetics and receptor binding.
+by a single methyl group at N1, resultibeta-glucan-receptor-bindinglly different
+pharmacokinetics and [[beta-glucan-receptor-binding]].
 
 ## Natural Sources
 
 - ***Theobroma cacao*** (cacao): 1–4% dry weight; primary source
-- ***Cola acuminata*** (kola nut): Trace amounts alongside caffeine
-- ***Ilex guayusa*** (guayusa): Minor constituent
-- ***Camellia sinensis*** (tea): Trace amounts
-- ***Ilex paraguariensis*** (yerba mate): Trace amounts
+- ***[[cola-acuminata]]*** (kola nut): Trace amounts alongside caffeine
+- ***[[ilex-guayusa]]*** (guayusa): Minor constituent
+- ***[[camellia-sinensis-entity]]*** (tea): Trace amounts
+- ***[[ilex-paraguariensis]]*** (yerba mate): Trace amounts
 
 Cacao is by far the dominant dietary source. Dark chocolate (70–85%
 cacao) contains approximately 500–800 mg theobromine per 100 g,
@@ -76,7 +75,7 @@ penetration accounts for milder stimulant profile.
 
 **Phosphodiesterase inhibition:** Non-selective PDE inhibitor,
 particularly PDE4, contributing to bronchodilatory and
-anti-inflammatory effects.
+[[medicinal-mushroom-antioxidant-anti-inflammatory]] effects.
 
 **Pharmacokinetics:** Peak plasma at 2–3 hours. Half-life 6–10 hours
 (longer than caffeine's 3–5h). Metabolized by CYP1A2 and CYP2E1.
@@ -127,7 +126,7 @@ theobromine slowly (half-life 17.5h vs. 2–3h humans), sensitive at
 potential death. Dark chocolate poses greatest risk.
 
 **Humans:** Side effects at >500 mg include headache, nausea, GI
-discomfort, insomnia. Chronic high intake may exacerbate acid reflux.
+discomfort, insomnia. Chronic high intake may exacerbate [[cannabis-for-gerd-and-acid-reflux]].
 
 ## History
 
@@ -148,9 +147,3 @@ beverage and ceremonial substance.
 | Theophylline | 1,3-dimethylxanthine | Methyls at 1,3 (not 3,7), stronger bronchodilator |
 | Paraxanthine | 1,7-dimethylxanthine | Primary caffeine metabolite |
 | 7-Methylxanthine | 7-methylxanthine | Primary theobromine metabolite |
-
-## See Also
-
-- [[caffeine]]
-- [[dom]]
-- [[ilex-guayusa]]

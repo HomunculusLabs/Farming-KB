@@ -138,37 +138,12 @@ The biosynthesis of opiate alkaloids in *P. somniferum* is one of the most compl
 3. **Scraping**: The oxidized opium gum is scraped from the capsule surface using a curved blade
 4. **Processing**: Raw opium is air-dried, kneaded into blocks, and further processed into morphine base or pharmaceutical-grade alkaloids
 
-### Legal Cultivation Framework
-
-- **International control**: Monitored by the International Narcotics Control Board (INCB) under the 1961 Single Convention on Narcotic Drugs
-- **Licensed production**: Legal cultivation occurs under government license in India, Turkey, Australia (Tasmania), France, Spain, Hungary, and several other countries
-- **Total合法 production**: Approximately 500–700 metric tons of raw opium annually for legitimate pharmaceutical purposes
-- **Strict reporting**: Licensed growers must account for every gram of production to prevent diversion
-
-## Edible Seeds
-
-Poppy seeds are widely consumed globally:
-
-- **Culinary use**: Baked goods (bagels, cakes, strudels), salads, noodle dishes; used extensively in Central European, Middle Eastern, and Indian cuisines
-- **Nutritional profile**: 45–50% oil (rich in linoleic acid), 20–25% protein, dietary fiber, calcium, iron, magnesium, zinc
-- **Alkaloid content**: While the seeds themselves contain negligible alkaloids, surface contamination from the capsule can result in detectable levels — sufficient to trigger false-positive opioid drug tests after consumption of large quantities
-- **Oil extraction**: Cold-pressed poppy seed oil is used in cooking, painting, and as a carrier oil in cosmetics
-
-## Safety and Toxicology
-
-- **Opioid toxicity**: Respiratory depression is the primary lethal mechanism; naloxone is the specific antidote
-- **Dependence potential**: High for morphine and derivatives; physical dependence develops within 2–4 weeks of regular use
-- **Poppy seed tea**: A dangerous practice where large quantities of unwashed poppy seeds are brewed; variable and unpredictable morphine content has caused numerous fatal overdoses
-- **Interactions**: Synergistic respiratory depression with alcohol, benzodiazepines, and other CNS depressants
-- **Pregnancy**: Neonatal abstinence syndrome (NAS) occurs with maternal opioid use; morphine crosses the placenta and blood-brain barrier
-
 ## See Also
 
 - [[papaver-rhoeas]]
 
 - [[medicinal-mushrooms]]
 
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 
 - [[mckenna-opium-history-demeter-poppy]]
-

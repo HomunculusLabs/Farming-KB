@@ -98,11 +98,11 @@ Difficulty is rated as moderate. The strain is resilient and forgiving of minor 
 
 - [[critical-mass]]
 - Skunk
-- [[white-widow]]
+- [[white-widow-entity]]
 - [[northern-lights]]
 - [[afghan-kush]]
 - [[master-kush]]
-- [[blue-dream]]
+- [[cannabis-blue-dream]]
 - [[og-kush]]
 - [[jack-herer]]
 - THC
@@ -120,6 +120,6 @@ Difficulty is rated as moderate. The strain is resilient and forgiving of minor 
 - [[hashish-production-methods]]
 - ruderalis
 - [[girl-scout-cookies]]
-- [[wedding-cake]]
-- [[gelato]]
-- [[runtz]]
+- [[wedding-cake-cannabis]]
+- [[gelato-cannabis]]
+- [[runtz-entity]]

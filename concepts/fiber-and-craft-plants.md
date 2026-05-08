@@ -98,7 +98,7 @@ Traditional fibre crops can be integrated into permaculture systems as part of d
 - Plant fibre and craft species in [[zone-sector-analysis-guide]] for regular access and harvesting
 - Combine with nitrogen-fixing [[nitrogen-fixing-trees-and-shrubs]] to maintain soil fertility in craft plantations
 - Use [[chop-and-drop-mulching]] with prunings from craft species to cycle nutrients
-- Establish osier willow beds along waterways for both [[difficult-site-planting]] and basketry supply
+- Establish osier willow beds along waterways for both [[organic-vegetable-growing-and-market-gardening]] and basketry supply
 - Integrate paper-pulp species with permaculture-earthworks|swale plantings for productive water management
 - Consider craft timber as a long-term yield from [[multi-purpose-trees]] plantings
 - Use Typha and Phragmites at pond edges for both [[edible-aquatic-plants]] and fibre production
@@ -106,9 +106,9 @@ Traditional fibre crops can be integrated into permaculture systems as part of d
 ## Related
 
 - [[multi-purpose-trees]]
-- [[bamboo-species-guide]]
+- bamboo species guide
 - [[edible-aquatic-plants]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[zone-sector-analysis-guide]]
-- [[difficult-site-planting]]
+- [[organic-vegetable-growing-and-market-gardening]]
 - [[permaculture-earthworks]]

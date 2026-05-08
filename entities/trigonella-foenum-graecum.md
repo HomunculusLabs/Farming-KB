@@ -11,7 +11,7 @@ tags:
   - culinary-herb
   - traditional-medicine
   - ayurveda
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
 date: 2026-04-28
 updated: 2026-04-28
@@ -88,7 +88,7 @@ Prefers full sun and moderate moisture. Tolerates poor soils and moderate drough
 
 **Volatile compounds:** Sotolone — primary aroma compound responsible for characteristic maple/curry scent. Detection threshold in water: 1-5 ppb.
 
-**Flavonoids:** Vitexin, isovitexin, orientin, quercetin, luteolin glycosides.
+**Flavonoids:** Vitexin, isovitexin, orientin, [[quercetin]], [[luteolin]] glycosides.
 **Alkaloids:** Trigonelline (0.2-0.4%).
 **Fixed oil (5-10%):** Rich in linoleic (40-50%), oleic (20-25%), linolenic (12-18%) acids.
 **Vitamins/minerals:** Niacin, pyridoxine, iron, manganese, magnesium, phosphorus, copper.
@@ -127,9 +127,9 @@ Preliminary evidence suggests fenugreek extract (standardized saponins, 500 mg t
 ## Permaculture Applications
 
 - **Nitrogen fixation:** As a legume, fenugreek fixes atmospheric nitrogen via Rhizobium symbiosis, improving soil fertility for subsequent crops.
-- **Living mulch/cover crop:** Low-growing habit makes it suitable as a between-row living mulch in vegetable gardens.
+- **Living mulch/[[cover-crop]]:** Low-growing habit makes it suitable as a between-row living mulch in vegetable gardens.
 - **Multi-yield plant:** Leaves harvested as vegetable, seeds as spice and medicine.
-- **Companion planting:** Grows well with [[allium-sativum-entity]] and [[borago-officinalis]] in kitchen gardens.
+- **[[companion-planting]]:** Grows well with [[allium-sativum-entity]] and [[borago-officinalis]] in kitchen gardens.
 - **Chop-and-drop mulch:** Remaining plant material after harvest provides nitrogen-rich green mulch.
 
 ## Culinary Use
@@ -148,7 +148,3 @@ Preliminary evidence suggests fenugreek extract (standardized saponins, 500 mg t
 ## See Also
 
 - [[borago-officinalis]] — Borage, another galactagogue herb commonly co-prescribed
-- [[ashwagandha]] — Indian adaptogen often combined with fenugreek in Ayurvedic formulations
-- [[astragalus-membranaceus]] — Another leguminous medicinal plant with immunomodulatory properties
-- [[glycyrrhiza-glabra]] — Licorice, another leguminous herb with similar saponin profile
-- [[panax-ginseng]] — Adaptogen herb with complementary metabolic effects

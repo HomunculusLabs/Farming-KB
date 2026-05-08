@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-
 
 # Lophophora diffusa
 
-**Lophophora diffusa** is a species of small, spineless cactus endemic to a restricted range in the Mexican state of Querétaro. It is closely related to [[lophophora-williamsii]] (peyote) but differs significantly in its chemical composition, lacking [[mescaline]] and instead containing pellotine as its primary alkaloid.
+**Lophophora diffusa** is a species of small, spineless cactus endemic to a restricted range in the Mexican state of Querétaro. It is closely related to [[lophophora-williamsii]] (peyote) but differs significantly in its chemical composition, lacking [[mescaline-entity]] and instead containing pellotine as its primary alkaloid.
 
 ## Taxonomy and Description
 
@@ -47,7 +47,7 @@ Climate change poses an additional long-term threat, as shifts in precipitation 
 
 ## Chemical Composition
 
-The most significant difference between L. diffusa and L. williamsii is the near-total absence of [[mescaline]] in L. diffusa. This distinction was a key factor in the elevation of L. diffusa to species status.
+The most significant difference between L. diffusa and L. williamsii is the near-total absence of [[mescaline-entity]] in L. diffusa. This distinction was a key factor in the elevation of L. diffusa to species status.
 
 Instead of mescaline, the primary psychoactive alkaloid in L. diffusa is:
 
@@ -123,6 +123,6 @@ The species extremely limited range makes it particularly vulnerable to habitat 
 - [[mescaline-entity]]
 
 - [[lophophora-williamsii]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - Pellotine
 - [[trichocereus-pachanoi]]

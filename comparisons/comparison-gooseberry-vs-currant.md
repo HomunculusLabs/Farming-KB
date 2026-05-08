@@ -140,39 +140,6 @@ Gooseberry powdery mildew (*Podosphaera mulsanthi*) is the most significant dise
 
 ### Currant
 
-| Variety | Type | Flavor | Notes |
-|---------|------|--------|-------|
-| **Red Lake** | Red | Tart, classic | Standard red currant, reliable |
-| **Rovada** | Red | Tart, bright | Late season, excellent yields |
-| **White Pearl** | White | Sweet, mild | Best white currant for fresh eating |
-| **Blanka** | White | Sweet, mild | Heavy producer |
-| **Consort** | Black | Rich, musky | WPBR resistant, standard |
-| **Ben Sarek** | Black | Rich, intense | Compact bush, huge yields |
-| **Titania** | Black | Mild, less musky | WPBR resistant, large berries |
-| **Crusader** | Black | Good flavor | WPBR resistant, good pollinator |
-
-## Which Should You Grow?
-
-**Choose Gooseberries if:**
-- You want a unique, old-fashioned fruit not commonly available in stores
-- You enjoy cooking and preserving — gooseberries shine in pies, fools, and savory sauces
-- You can manage powdery mildew through variety selection and pruning
-- You're willing to deal with thorns during harvest (or choose thornless varieties)
-
-**Choose Red/White Currants if:**
-- You want a thornless, low-maintenance berry bush
-- You make jelly or need elegant garnishes for culinary presentation
-- You want a reliable, pest-resistant berry for partial shade
-- White currants appeal to you as a sweet, fresh-eating berry
-
-**Choose Black Currants if:**
-- Maximum nutritional value (vitamin C, anthocyanins) is a priority
-- You enjoy making juice, syrup, or liqueurs (crème de cassis)
-- You're interested in the supplement market or value-added products
-- You can source WPBR-resistant varieties and comply with local regulations
-
-**Best of Both Worlds:** Many permaculture and food forest growers plant all three types. Their complementary harvest windows (gooseberries in June–July, red currants in July, black currants in July–August) provide a continuous berry harvest through midsummer, and their shared cultural requirements simplify management.
-
 ## Related Topics
 
 - [[berry-fruit-production-in-permaculture|Berry and Small Fruit Growing]]

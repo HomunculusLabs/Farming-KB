@@ -44,7 +44,7 @@ The age of the forest stand also matters. Many ectomycorrhizal mushroom species 
 
 Climate change is emerging as the most significant long-term threat to wild mushroom sustainability. Changing precipitation patterns, increasing temperatures, and more frequent extreme weather events are affecting fungal fruiting patterns across the globe.
 
-Many European mushroom species are showing shifts in fruiting timing, with autumn-fruiting species now fruiting later in the year and some species showing reduced fruiting frequency. Mediterranean and southern European regions are experiencing particular declines as warming and drying conditions become less favorable for mushroom fruiting. See [[fungal-conservation-strategies]] for climate impacts on fungi.
+Many European mushroom species are showing shifts in fruiting timing, with autumn-fruiting species now fruiting later in the year and some species showing reduced fruiting frequency. Mediterranean and southern European regions are experiencing particular declines as warming and drying conditions become less favorable for mushroom fruiting. See [[ethnomycology]] for climate impacts on fungi.
 
 ## Sustainable Harvesting Practices
 
@@ -94,7 +94,7 @@ Community-based management approaches, where local harvesters have stewardship r
 
 - [[ectomycorrhizal-ecology]]
 
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]
 
 - [[mushroom-foraging-safety]]
 

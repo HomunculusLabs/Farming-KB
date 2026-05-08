@@ -125,4 +125,4 @@ These ingredients can be combined into potent homemade sprays. For recipes and d
 
 Neem products fit well within an [[integrated-pest-management]] strategy. They can be rotated with [[permaculture-pyrethrum-daisy]] (pyrethrum) sprays to prevent pest resistance. Avoid combining neem oil applications with releases of predatory mites or parasitoids due to potential toxicity to beneficials.
 
-For additional organic pest control options, see [[cannabis-pest-management]], [[hamilton-organic-pest-control]], and [[jadam-pest-control-recipes]].
+For additional organic pest control options, see cannabis pest management, [[hamilton-organic-pest-control]], and [[jadam-pest-control-recipes]].

@@ -25,7 +25,7 @@ sources:
 - raw/papers/gaias-garden-toby-hemenway.md
 ---
 # Urban Permaculture Design
-Applying permaculture principles in small spaces: balconies, rooftops, vacant lots, and community gardens. Urban permaculture adapts zone/sector analysis, guild design, and closed-loop systems to constrained environments. See [[permaculture-design]] for zone/sector basics and [[permaculture-design-methods]] for the full design toolkit.
+Applying permaculture principles in small spaces: balconies, rooftops, vacant lots, and community gardens. Urban permaculture adapts zone/sector analysis, guild design, and closed-loop systems to constrained environments. See [[permaculture-design]] for zone/sector basics and [[permaculture-design]] for the full design toolkit.
 ## Principles for Small Spaces
 1. **Stack functions**: Every element serves multiple purposes (shade, food, habitat, beauty)
 2. **Use vertical space**: Walls, railings, trellises, hanging systems multiply growing area
@@ -90,7 +90,7 @@ Building an urban permaculture site largely from salvaged materials is both prac
 **Rainwater catchment on the cheap**: Any container under a downspout works. Site tanks at the top of slopes to let gravity distribute water. Even small tanks make a difference — "in the same way that composting creates rich soil from trash, water catchment and greywater cycling create opportunities for growth in barren neighborhoods."
 ## Related Pages
 - [[permaculture-design]] — Zone/sector analysis basics
-- [[permaculture-design-methods]] — Full design toolkit
+- [[permaculture-design]] — Full design toolkit
 - [[permaculture-principles]] — Ethics and 12 principles
 - [[seasonal-planning]] — Monthly task calendar
 - [[food-forest-design]] — Food forest layers and guilds

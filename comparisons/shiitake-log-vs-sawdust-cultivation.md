@@ -26,7 +26,7 @@ Quality spawn preparation is critical — see [[mushroom-grain-spawn-preparation
 - Low startup cost -- logs are often free or inexpensive from woodland management
 - Minimal infrastructure required (no sterilization equipment, no climate control)
 - Produces mushrooms for several years (3-5 year productive lifespan per log)
-- Fits well within [[cotter-mycoremediation-overview]] and [[permaculture-design-principles-beginners]] systems
+- Fits well within [[cotter-mycoremediation-overview]] and [[permaculture-design-principles]] systems
 - Mushrooms are considered by many connoisseurs to have superior flavor and texture
 - Provides modest supplementary income for woodlot owners
 - Naturally integrated with forest management practices

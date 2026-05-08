@@ -42,7 +42,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 ## Zone 1 — Intensive Garden (Daily Visit)
 **Visit frequency**: 1-5 times daily. Immediately outside the house.
 ### Elements
-- **Annual vegetable beds**: No-till [[no-till-gardening-method]] beds with [[companion-planting-reference]]. Lettuce, tomatoes, peppers, cucumbers, herbs — things you pick daily.
+- **Annual vegetable beds**: No-till [[composting-and-soil-biology]] beds with [[companion-planting-reference]]. Lettuce, tomatoes, peppers, cucumbers, herbs — things you pick daily.
 - **Kitchen herb spiral**: Culinary herbs (basil, thyme, rosemary, oregano, parsley, cilantro) right outside the door. Spiral design creates microclimates (dry top, moist bottom).
 - **Greenhouse / cold frame**: [[greenhouse-design]] for season extension. Seed starting in spring, winter greens, heat-loving crops in summer.
 - **Compost system**: [[composting-systems]] bins between kitchen and garden. Hot compost, [[vermicomposting]], and [[bokashi]] pre-compost all within 20 steps of the back door.
@@ -129,7 +129,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 ## Related Pages
 - [[permaculture-principles]] — Ethics and 12 design principles
 - [[permaculture-design]] — Zone/sector analysis methodology
-- [[permaculture-design-methods]] — Comprehensive design process and tools
+- [[permaculture-design]] — Comprehensive design process and tools
 - [[keyline-design]] — Water storage and landscape patterning
 - [[edge-effect-and-microclimate]] — Edge theory for zone boundary design
 - [[integrated-homestead-design]] — Capstone synthesis of all systems
@@ -140,5 +140,5 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 [[permaculture-design]]
 [[zone-and-sector-analysis]]
 [[backyard-food-forest-design]]
-[[no-till-gardening-method]]
+[[composting-and-soil-biology]]
 [[companion-planting-reference]]

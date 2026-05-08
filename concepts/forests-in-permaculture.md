@@ -136,7 +136,7 @@ Load a brick-lined container, steam everything out: methane (use 4% to pump the 
 
 ## Related Topics
 
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[permaculture-forage-systems]]
 - [[permaculture-zone-one-planning-and-techniques]]
 - [[broadscale-permaculture-techniques-mollison]]

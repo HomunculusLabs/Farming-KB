@@ -22,7 +22,7 @@ sources:
 
 **Stropharia rugosoannulata**, commonly known as the wine cap mushroom, garden giant, burgundy mushroom, or king stropharia, is a large edible basidiomycete fungus in the family Strophariaceae. It is one of the most versatile and accessible mushrooms for permaculture and home cultivation, valued both as a culinary species and for its remarkable ecological functions in soil building, water filtration, and bioremediation.
 
-First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of Paul Stamets and others who have demonstrated its capacity for transforming landscapes through mycological intervention.
+First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of [[paul-stamets]] and others who have demonstrated its capacity for transforming landscapes through mycological intervention.
 
 ## Taxonomy
 
@@ -127,7 +127,7 @@ The species fruits from spring through autumn (May–October in the Northern Hem
 - **Moisture:** Requires consistent moisture; benefits from mulch layer to retain water
 - **CO₂ tolerance:** High — can fruit in relatively CO₂-rich environments, making it suitable for raised beds
 
-### Companion Planting
+### [[companion-planting]]
 *Stropharia rugosoannulata* is an excellent companion in polyculture systems:
 - **Garden beds:** Planted between vegetable rows, it breaks down organic matter, releases nutrients, and suppresses weeds
 - **Orchards:** Established beneath fruit and nut trees to cycle nutrients from wood chip mulch
@@ -139,7 +139,7 @@ The species fruits from spring through autumn (May–October in the Northern Hem
 Wine cap mycelium aggressively colonizes wood chips and coarse organic matter, converting raw carbon into humus and available nutrients. A single wine cap bed can process cubic meters of wood chips annually, transforming them into rich, dark loam. This makes the species invaluable for:
 - Rapid soil creation on degraded land
 - Converting arborist wood waste into productive garden soil
-- Building soil organic matter and water-holding capacity
+- [[building-soil]] organic matter and water-holding capacity
 - Creating self-sustaining fertility cycles in food forests
 ### Water Filtration
 *Stropharia rugosoannulata* has demonstrated exceptional capacity for biological water filtration:
@@ -148,52 +148,3 @@ Wine cap mycelium aggressively colonizes wood chips and coarse organic matter, c
 - Paul Stamets' research demonstrated that wine cap mycelium reduced coliform bacteria in downstream water by 99%
 - Can be used in bioswale systems along roadsides and agricultural field margins
 ### Bioremediation
-The species shows promise for several bioremediation applications:
-- **Hydrocarbon degradation:** Mycelium has been shown to break down petroleum hydrocarbons, PAHs (polycyclic aromatic hydrocarbons), and oil-contaminated soils
-- **Heavy metal binding:** Mycelial biomass can bioaccumulate and immobilize certain heavy metals, though this does not render the mushrooms safe for consumption from contaminated sites
-- **Pesticide degradation:** Degrades organophosphate and organochlorine pesticides in soil
-- **Erosion control:** Mycelial networks bind soil particles, reducing erosion on slopes and banks
-
-### Pest Suppression
-- **Slug predation:** The mycelium traps and consumes nematodes and small soil organisms
-- **Competitive exclusion:** Aggressive colonization of wood chip mulch outcompetes potential pathogenic fungi
-- **Plant disease suppression:** Metabolites produced by wine cap mycelium show antifungal activity against some plant pathogens
-
-## Nutritional Value
-
-Per 100 g fresh weight:
-- **Calories:** 22 kcal
-- **Protein:** 2.5 g
-- **Carbohydrates:** 3.3 g (including 1.5 g dietary fiber)
-- **Fat:** 0.3 g
-- **Potassium:** 350 mg
-- **Phosphorus:** 120 mg
-- **Iron:** 1.0 mg
-- **Zinc:** 0.9 mg
-- **Selenium:** 9.0 µg
-- **Vitamin D₂ (ergocalciferol):** Variable (0.2–10 µg depending on UV exposure)
-- **β-Glucans:** 3–6 g per 100 g dry weight
-
-Wine caps contain all essential amino acids and are a good source of B vitamins (thiamine, riboflavin, niacin, pantothenic acid). They are relatively low in calories while providing substantial protein and fiber content.
-
-## Safety and Identification
-
-### Edibility Confirmation
-*Stropharia rugosoannulata* is widely regarded as a safe and excellent edible mushroom. However, correct identification is essential:
-**Key identification features:**
-1. Large burgundy-to-brown cap that fades with age
-2. Prominently wrinkled ring (annulus) on the stem
-3. Dark purplish-brown spore print
-4. Growth in wood chips, straw, or mulched beds (not on living trees)
-5. Pleasant, mild odor
-
-### Potential Look-alikes
-- **Hypholoma species (sulfur tufts):** Similar habitat but have greenish-yellow gills and bitter taste; some species are toxic
-- **Inocybe species:** Share purplish-brown spore prints but are smaller, fibrous-capped, and many are toxic; lack the distinctive wrinkled ring
-- **Psilocybe species:** Some wood-inhabiting *Psilocybe* species share habitat and spore color but are much smaller and lack the wrinkled annulus
-
-### Cautions
-- Always cook wine cap mushrooms thoroughly before consumption
-- Do not consume specimens collected from contaminated sites (roadways, treated wood, chemically treated landscapes)
-- Avoid specimens growing on pressure-treated lumber (copper-arsenate compounds)
-- While rare, some individuals may experience mild gastrointestinal upset; introduce new mushroom species gradually

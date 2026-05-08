@@ -135,5 +135,5 @@ using yellow sticky traps for monitoring, and having
 Bti on hand for rapid response, growers can keep fungus
 gnat populations well under control.
 
-See also: [[cervantes-water-quality-management]]
+See also: [[cannabis-advanced-growing-techniques]]
 See also: [[cervantes-growing-medium]]

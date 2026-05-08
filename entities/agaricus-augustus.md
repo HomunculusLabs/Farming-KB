@@ -109,4 +109,4 @@ cultivation requirements of woodland Agaricus species.
 - [[agaricus-bisporus]]
 - [[stropharia-rugoso-annulata]]
 - agaricus augustus
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]

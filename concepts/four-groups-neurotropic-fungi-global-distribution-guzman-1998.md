@@ -17,7 +17,7 @@ The 1998 comprehensive survey by Guzman, Allen, and Gartz catalogued **216 known
 
 ## Group 1: Psilocybin and Related Indole Alkaloids
 
-This is by far the largest group, containing species that produce [[psilocybin]], [[psilocin]], [[baeocystin]], and/or [[norbaeocystin]]. The genera and their species counts within this group are:
+This is by far the largest group, containing species that produce [[psilocybin-compound]], [[psilocin]], [[baeocystin]], and/or [[norbaeocystin]]. The genera and their species counts within this group are:
 
 | Genus | Species Count | Notes |
 |---|---|---|
@@ -43,7 +43,7 @@ This group contains three species of [[amanita]] that produce **ibotenic acid** 
 
 - **[[amanita-muscaria]]**: the iconic red-and-white fly agaric; historically used as an entheogen by Siberian peoples including the Chukchee and Koryak
 - **[[amanita-pantherina]]**: the panther cap; contains ibotenic acid based on analysis by Hatfield (1979)
-- **[[amanita-regalis]]**: the king fly agaric; confirmed ibotenic acid content
+- **[[amanita-regalis-entity]]**: the king fly agaric; confirmed ibotenic acid content
 
 Unlike the psilocybin-containing fungi, which are typically consumed fresh or dried, traditional Siberian use of [[amanita-muscaria]] often involved the practice of **eurphorization** (drinking the urine of someone who had consumed the mushroom), as the kidneys excrete the active muscimol while filtering out much of the toxic ibotenic acid and other unpleasant compounds.
 
@@ -55,7 +55,7 @@ This group includes species that produce **ergot alkaloids** (ergolines), a chem
 - **4 additional Claviceps species**: various grass parasites with ergot alkaloid profiles
 - **2 Cordyceps species**: insect-pathogenic fungi that produce ergot-related compounds
 
-The ergot alkaloids have a long history of both toxic epidemics (ergotism, or "St. Anthony's Fire") and medicinal use (migraine treatment, obstetric applications). The chemical relationship between ergot alkaloids and LSD ([[lysergic acid diethylamide]]) places this group at the foundation of modern psychedelic research.
+The ergot alkaloids have a long history of both toxic epidemics (ergotism, or "St. Anthony's Fire") and medicinal use (migraine treatment, obstetric applications). The chemical relationship between ergot alkaloids and LSD ([[lysergic-acid-diethylamide]]) places this group at the foundation of modern psychedelic research.
 
 ## Group 4: Sacred Fungi Without Confirmed Chemistry
 

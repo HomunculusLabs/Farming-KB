@@ -33,7 +33,7 @@ Japan has one of the best-documented neurotropic fungal records in Asia:
 - **Amanita muscaria**: Well documented by Hongo (1959, 1960); found
   throughout Japan
 - **A. pantherina**: Widely distributed in Japan
-- **[[gymnopilus-spectabilis]]**: One of the most studied Japanese
+- **[[gymnopilus-spectabilis-entity]]**: One of the most studied Japanese
   neurotropic species; confirmed psychoactive by multiple studies
 - **G. aeruginosus**: Documented by Koike et al. (1981)
 - **G. liquiritiae**: Found in Japan
@@ -147,5 +147,3 @@ of neurotropic fungi:
 ## See Also
 
 - [[guzman-magic-mushrooms-pacific-australian-species]]
-
-- [[guzman-magic-mushrooms-neotropical-species]] for American species

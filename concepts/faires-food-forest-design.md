@@ -98,5 +98,5 @@ Large-scale single crops are possible if the crop needs little work after planti
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
 - [[faires-hugelkultur-and-forest-garden-strategy]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[gaias-garden-herb-spiral-and-natural-patterns]]
+- gaias garden herb spiral and natural patterns
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

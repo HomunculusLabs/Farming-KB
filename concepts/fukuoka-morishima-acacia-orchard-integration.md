@@ -126,7 +126,7 @@ orchard system.
 ## See Also
 
 - [[fukuoka-black-wattle-fertilizer-tree-method]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-orchard-floor-management]]
 - [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[fukuoka-natural-tree-form-argument]]

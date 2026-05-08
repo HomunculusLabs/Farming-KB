@@ -25,7 +25,7 @@ sources:
 
 Spiders (order Araneae) are among the most abundant and diverse generalist predators in terrestrial ecosystems. In agricultural landscapes, they serve as critical biological control agents, consuming vast quantities of insect pests annually. Global estimates suggest spiders consume between 400 and 800 million tonnes of insect prey per year, making them one of the most significant sources of natural pest suppression on the planet. Beyond spiders, other arachnid groups — including harvestmen (Opiliones), pseudoscorpions (Pseudoscorpiones), and mites (Acari) — contribute to pest regulation, decomposition, and nutrient cycling in farm and garden ecosystems.
 
-Understanding arachnid ecology is essential for anyone practicing integrated pest management (IPM), conservation biological control, or regenerative agriculture. This guide covers spider diversity, foraging strategies, habitat requirements, and practical methods for encouraging arachnid populations in growing spaces.
+Understanding arachnid ecology is essential for anyone practicing [[integrated-pest-management-ipm]] management (IPM), conservation biological control, or [[regenerative-agriculture-overview]]. This guide covers spider diversity, foraging strategies, habitat requirements, and practical methods for encouraging arachnid populations in growing spaces.
 
 ---
 
@@ -64,7 +64,7 @@ Jumping spiders are diurnal, visually oriented hunters with arguably the best ey
 Crab spiders are sit-and-wait ambush predators that typically perch on flowers, where they capture pollinators and other flower-visiting insects. Their laterally extended first two pairs of legs give them a crab-like appearance and gait. Many species can change color over several days to match the flower they inhabit — yellow and white morphs of *Misumena vatia* are classic examples. While crab spiders do prey on some pollinators (bees, butterflies), their impact on pollination services is generally considered minimal compared to their pest-control benefits, as they also consume flower thrips, flower flies (syrphid larvae predators), and small pest moths.
 
 **Ground Spiders (Gnaphosidae)**
-Ground spiders are nocturnal hunters that prowl the soil surface at night, preying primarily on ants, beetles, and other ground-dwelling arthropods. They construct silken retreats under stones, leaf litter, or debris for daytime shelter. *Drassodes* and *Zelotes* species are common in agricultural soils. They play a role in regulating ground beetle populations, which can themselves become pests in certain contexts.
+Ground spiders are nocturnal hunters that prowl the soil surface at night, preying primarily on ants, beetles, and other ground-dwelling arthropods. They construct silken retreats under stones, [[leaf-litter-microfungal-diversity-tropical-temperate]], or debris for daytime shelter. *Drassodes* and *Zelotes* species are common in agricultural soils. They play a role in regulating ground beetle populations, which can themselves become pests in certain contexts.
 
 **Sac Spiders (Clubionidae, Cheiracanthiidae)**
 Sac spiders construct silken tubular retreats — "sacs" — folded within leaves, under bark, or among debris. They emerge at night to hunt insects on foliage. Yellow sac spiders (*Cheiracanthium* spp.) are common in field crops and orchards, where they prey on moth eggs, small caterpillars, and leafhoppers. Some *Cheiracanthium* species have medically significant bites, though these are rare and typically mild.
@@ -153,7 +153,7 @@ Spider diversity and abundance in agricultural fields are strongly influenced by
 ### Habitat Creation and Enhancement
 
 **Maintain Ground Cover:**
-- Avoid bare soil. Use living mulches, cover crops, or straw mulch to create favorable microclimates
+- Avoid bare soil. Use living mulches, [[cover-crops-and-green-manures]], or [[straw-mulch-in-agriculture]] to create favorable microclimates
 - Leave fallow areas or "beetle banks" — raised strips of perennial grasses — within or adjacent to fields
 - Allow leaf litter to accumulate in non-crop areas during autumn rather than removing it
 
@@ -279,7 +279,7 @@ Spiders vary in their sensitivity to pesticides, but several patterns are well-e
 - **Pyrethroids** (bifenthrin, lambda-cyhalothrin, permethrin) are highly toxic to most spider groups through both contact and residual exposure. Effects can persist for weeks on treated surfaces.
 - **Neonicotinoids** (imidacloprid, clothianidin) show variable toxicity. Systemic applications may reduce prey availability rather than directly poisoning spiders, but foliar sprays cause direct mortality.
 - **Organophosphates** (chlorpyrifos, malathion) are broadly toxic to spiders and have long residual activity.
-- **Biological insecticides** — *Bacillus thuringiensis* (Bt) is largely harmless to spiders as it targets Lepidoptera gut receptors. Spinosad has moderate contact toxicity. Beauveria and Metarhizium entomopathogenic fungi can infect spiders under laboratory conditions but field impacts appear minimal.
+- **Biological insecticides** — *Bacillus thuringiensis* (Bt) is largely harmless to spiders as it targets Lepidoptera gut receptors. Spinosad has moderate contact toxicity. Beauveria and Metarhizium [[entomopathogenic-fungi-and-biological-pest-control]] can infect spiders under laboratory conditions but field impacts appear minimal.
 
 ### Sublethal Effects
 
@@ -354,7 +354,7 @@ While no agricultural spider species are formally listed as endangered, spider p
 - **Tillage:** Destruction of ground-dwelling spider habitat and overwintering sites
 - **Artificial lighting:** Night lighting disrupts nocturnal spider behavior and prey availability
 - **Climate change:** Shifting phenology, increased drought stress, and range disruptions
-- **Invasive species:** Competition from non-native spiders in some ecosystems
+- **[[invasive-species-management]]:** Competition from non-native spiders in some ecosystems
 
 Spider conservation in agricultural landscapes is best achieved through integrated approaches that combine habitat restoration, reduced pesticide reliance, and landscape-level planning for connectivity and heterogeneity.
 
@@ -365,6 +365,6 @@ Spider conservation in agricultural landscapes is best achieved through integrat
 1. Spiders are the most abundant generalist predators in most agricultural ecosystems, consuming hundreds of millions of tonnes of insect prey globally each year
 2. Multiple spider guilds (web-builders, ground hunters, foliage hunters) provide layered, complementary pest suppression across different crop zones
 3. Habitat complexity — ground cover, vegetation diversity, and structural features — is the primary driver of spider abundance and diversity
-4. Minimizing soil disturbance, reducing pesticide use, and maintaining non-crop habitat are the most effective strategies for supporting spider-based biological control
+4. Minimizing [[soil-disturbance-mycorrhizal-impact]], reducing pesticide use, and maintaining non-crop habitat are the most effective strategies for supporting spider-based biological control
 5. Beyond spiders, other arachnids (harvestmen, pseudoscorpions, predatory mites) contribute to pest regulation and decomposition in farm and garden ecosystems
 6. Spiders are generally harmless to humans and should be welcomed, not feared, in agricultural and residential settings

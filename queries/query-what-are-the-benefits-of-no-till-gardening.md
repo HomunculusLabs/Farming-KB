@@ -25,7 +25,7 @@ No-till gardening is the practice of growing crops without mechanically turning,
 digging, or inverting the soil. Instead of breaking up the soil with a tiller or
 spade, no-till gardeners build soil health through surface applications of compost,
 mulch, and organic matter, allowing earthworms and soil organisms to do the work of
-incorporating material into the soil profile. The [[no-till-gardening-method]] page
+incorporating material into the soil profile. The [[composting-and-soil-biology]] page
 provides a foundational overview of the philosophy and practice of no-till growing,
 including how to transition an existing tilled garden to no-till methods.
 
@@ -93,7 +93,7 @@ The transition from tilled to no-till gardening typically requires one to three 
 for the soil food web to fully re-establish and for the benefits to become apparent.
 During the transition period, growers may notice increased weed pressure as dormant
 weed seeds near the soil surface germinate, but this usually diminishes significantly
-as the mulch layer builds and the soil biology matures. The [[no-till-benefits]] page
+as the mulch layer builds and the soil biology matures. The [[composting-and-soil-biology]] page
 outlines a realistic timeline for transition and what to expect in each phase.
 
 ## Related

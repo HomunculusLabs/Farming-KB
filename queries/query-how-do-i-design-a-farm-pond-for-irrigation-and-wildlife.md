@@ -23,7 +23,7 @@ type: query
 
 # How Do I Design a Farm Pond for Irrigation and Wildlife?
 
-A well-designed farm pond serves as the centerpiece of a permaculture water management system — providing irrigation storage, wildlife habitat, fire protection, aquaculture potential, and aesthetic value. Designing one requires understanding your watershed, soils, purpose, and local regulations. This guide walks through the entire process from site assessment to construction.
+A well-designed farm pond serves as the centerpiece of a permaculture [[water-management]] system — providing irrigation storage, wildlife habitat, fire protection, aquaculture potential, and aesthetic value. Designing one requires understanding your watershed, soils, purpose, and local regulations. This guide walks through the entire process from site assessment to construction.
 
 ## Step 1: Define Your Purpose
 
@@ -142,48 +142,6 @@ Small islands (5–20 feet diameter) provide enormous wildlife value:
 ### Gravity-Fed Systems
 
 The most efficient design places the pond above the area to be irrigated:
-- Every 1 foot of elevation provides 0.43 PSI of water pressure
-- A pond 10 feet above garden level provides ~4.3 PSI — sufficient for drip irrigation, soaker hoses, and gentle sprinkler systems
-- Use a float valve at the outlet to regulate flow
-- Install a sediment trap (small settling basin) before the irrigation pipe to prevent clogging
-
-### Pump Systems
-
-When gravity feed isn't possible:
-- **Solar pump**: 50–200W solar panel + DC pump; runs during peak sun when evapotranspiration is highest
-- **12V bilge pump**: Low-cost option for small systems; runs from battery bank or vehicle
-- **Sump pump**: AC-powered; high flow rate; suitable for larger operations
-
-## Step 8: Legal and Regulatory Considerations
-
-- **Permits**: Most jurisdictions require permits for ponds over a certain size (often ¼–1 acre surface area) or for dams over a certain height (often 6–15 feet)
-- **Wetlands**: Federal and state wetland regulations may apply if your pond affects existing wetlands
-- **Waters of the state**: Damming a flowing stream requires additional permits and may affect downstream water rights
-- **Setbacks**: Many jurisdictions require setbacks from property lines, wells, and septic systems
-- **Fish stocking**: Stocking fish may require a permit from your state wildlife agency
-- **Liability**: Consider fencing or signage if the pond poses a drowning risk
-
-**Always check with your local NRCS office, county conservation district, or equivalent agency before construction.**
-
-## Maintenance Schedule
-
-| Season | Tasks |
-|--------|-------|
-| **Spring** | Inspect dam and spillway; clear debris; divide overgrown aquatic plants; check outlet valve |
-| **Summer** | Monitor water level; manage algae (if needed with barley straw or aeration); control invasive plants |
-| **Fall** | Remove fallen leaves from water; inspect dam for burrowing animals; cut back marginal plants |
-| **Winter** | Ensure spillway is clear of ice and snow; monitor for ice damage; check water level |
-
-## Common Mistakes to Avoid
-
-1. **Undersizing the spillway**: The #1 cause of dam failure. Design for extreme events, not average rainfall.
-2. **Building on permeable soil**: Without proper compaction or a liner, the pond will never hold water.
-3. **Steep bank slopes**: Erode quickly, limit plant establishment, and reduce wildlife value.
-4. **No aquatic plantings**: Unplanted ponds develop algae blooms, foul water, and limited habitat.
-5. **Neglecting the watershed**: Upstream erosion fills the pond with sediment. Address watershed management before or during construction.
-6. **Ignoring regulations**: Unpermitted ponds can result in fines, removal orders, and liability.
-7. **Placing the pond too low**: Gravity-fed irrigation requires elevation. Place ponds high and irrigate downhill.
-
 ## See Also
 
 - [[bill-mollison]]

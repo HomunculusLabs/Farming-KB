@@ -148,4 +148,3 @@ facilitate seed exchange as part of any community development project.
 ## See Also
 
 - [[permaculture-designers-manual-seed-saving-varieties]]
-- [[mollison-designers-seed-saving-variety-preservation]]

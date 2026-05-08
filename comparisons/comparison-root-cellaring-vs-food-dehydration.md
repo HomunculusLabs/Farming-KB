@@ -148,4 +148,3 @@ cellar-stored fresh roots with the longevity and portability of dehydrated goods
 - [[food-dehydration-guide]] for equipment, temperatures, and drying times
 - [[canning-and-preserving]] for heat-based preservation methods
 - [[food-fermentation-guide]] for another low-energy preservation approach
-- [[solar-dehydrator-plans]] for building a zero-energy dehydrator

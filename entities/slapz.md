@@ -107,15 +107,15 @@ Breeders have used Slapz as a parent in several crosses, including combinations 
 
 ## See Also
 
-- [[runtz]]
-- [[gelato]]
+- [[runtz-entity]]
+- [[gelato-cannabis]]
 - [[jealousy]]
 - [[kush-mints]]
 - [[jungle-cake]]
-- [[mochi]]
-- [[biscotti]]
-- [[gary-payton]]
+- [[mochi-cannabis]]
+- [[biscotti-cannabis]]
+- [[gary-payton-cannabis]]
 - [[lava-cake]]
 - [[georgia-pie]]
-- [[zookies]]
+- [[zookies-cannabis]]
 - [[white-runtz]]

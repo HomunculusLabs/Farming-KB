@@ -8,7 +8,7 @@ sources: []
 ---
 # Oyster Mushroom Clean Room Design for Spawn Production
 
-A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[mushroom-cultivation-sterile-technique]] and [[mushroom-cultivation-grain-spawn]] production.
+A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[mushroom-cultivation-fundamentals]] and [[mushroom-cultivation-grain-spawn]] production.
 
 ## Purpose and Scope
 
@@ -119,7 +119,7 @@ Before use:
 ## See Also
 
 - [[oyster-mushroom-spawn-production]] — detailed spawn production methods
-- [[mushroom-cultivation-sterile-technique]] — sterile workflow principles
+- [[mushroom-cultivation-fundamentals]] — sterile workflow principles
 - [[mushroom-cultivation-grain-spawn]] — grain spawn specifics
 - [[mushroom-contamination-identification]] — recognizing contamination
 - [[sterile-technique-mushroom-cultivation]]

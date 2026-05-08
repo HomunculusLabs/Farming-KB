@@ -79,9 +79,9 @@ psilocybe marginalis appears to prefer slightly acidic to neutral soils in areas
 
 ## Chemistry
 
-psilocybe marginalis contains [[psilocybin]] and [[psilocin]], though reported alkaloid levels are generally low to moderate compared to more well-known species. Some analytical studies of European Psilocybe species have found tryptamine concentrations in P. marginata collections ranging from 0.1% to 0.5% of dried weight, though some collections have reportedly contained higher levels.
+psilocybe marginalis contains [[psilocybin-compound]] and [[psilocin]], though reported alkaloid levels are generally low to moderate compared to more well-known species. Some analytical studies of European Psilocybe species have found tryptamine concentrations in P. marginata collections ranging from 0.1% to 0.5% of dried weight, though some collections have reportedly contained higher levels.
 
-The relatively low and variable alkaloid content, combined with the species' small size and rarity, means it is not typically sought for psychoactive use. The variation in [[psilocybin]] and [[psilocin]] levels follows patterns documented across the genus by Bigwood and Beug, with environmental and genetic factors both contributing to inter-population differences. Baeocystin is present as a minor alkaloid.
+The relatively low and variable alkaloid content, combined with the species' small size and rarity, means it is not typically sought for psychoactive use. The variation in [[psilocybin-compound]] and [[psilocin]] levels follows patterns documented across the genus by Bigwood and Beug, with environmental and genetic factors both contributing to inter-population differences. Baeocystin is present as a minor alkaloid.
 
 ## Similar Species
 

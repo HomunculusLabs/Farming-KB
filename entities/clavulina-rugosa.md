@@ -139,7 +139,7 @@ The wrinkled surface and simple club morphology together are fairly diagnostic f
 - [[ramaria-botrytis]]
 - [[trametes-versicolor]]
 - [[hericium-erinaceus]]
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - [[lactarius-indigo]]
 - [[russula-brevipes]]
 - [[mycorrhiza]]

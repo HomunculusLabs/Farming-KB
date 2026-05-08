@@ -11,7 +11,7 @@ sources:
 
 # William Ozier Williams
 
-Permaculture practitioner and contributor to the [[permaculture-design-methods]] body of knowledge, associated with the lineage of [[bill-mollison]]'s original Permaculture Design Certificate (PDC) framework. His contributions sit within the broader movement of ecological design education that includes [[david-holmgren]]'s principles work and [[toby-hemenway]]'s North American adaptations.
+Permaculture practitioner and contributor to the [[permaculture-design]] body of knowledge, associated with the lineage of [[bill-mollison]]'s original Permaculture Design Certificate (PDC) framework. His contributions sit within the broader movement of ecological design education that includes [[david-holmgren]]'s principles work and [[toby-hemenway]]'s North American adaptations.
 
 ## Overview
 
@@ -74,7 +74,7 @@ pressure, soil biology, yields, and long-term resilience.
 
 - [[bill-mollison]] — PDC framework originator and permaculture co-founder
 - [[david-holmgren]] — Permaculture co-founder, 12 design principles
-- [[permaculture-design-methods]] — PDC design toolkit
+- [[permaculture-design]] — PDC design toolkit
 - [[permaculture-principles]] — Core design principles
 - [[toby-hemenway]] — PDC educator, author of Gaia's Garden
 - [[graham-burnett]] — Permaculture beginner's guide author

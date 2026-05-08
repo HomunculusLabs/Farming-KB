@@ -24,7 +24,7 @@ sources:
 
 # Miso, Tempeh, and Soybean Fermentation
 
-Soybeans (*Glycine max*) are among the most important legumes in human food systems, and much of their culinary significance comes from fermentation. Across East and Southeast Asia, communities independently developed distinct fermentation traditions that transform raw soybeans — hard, beany, and nutritionally challenging — into savory, digestible, and probiotic-rich foods. The three pillars of soybean fermentation are **miso** (Japan), **tempeh** (Indonesia), and **natto** (Japan), each employing different microorganisms, processing methods, and cultural contexts.
+Soybeans (*[[glycine-max-soybean-permaculture]]*) are among the most important legumes in human food systems, and much of their culinary significance comes from fermentation. Across East and Southeast Asia, communities independently developed distinct fermentation traditions that transform raw soybeans — hard, beany, and nutritionally challenging — into savory, digestible, and probiotic-rich foods. The three pillars of soybean fermentation are **miso** (Japan), **tempeh** (Indonesia), and **natto** (Japan), each employing different microorganisms, processing methods, and cultural contexts.
 
 ## The Raw Material: Why Ferment Soybeans?
 
@@ -47,7 +47,7 @@ Miso is deeply embedded in Japanese food culture. The phrase *ishiki no miso* (�
 
 ### The Koji Mold: *Aspergillus oryzae*
 
-The defining microorganism of miso is *Aspergillus oryzae*, known in Japanese as **koji-kin** (麹菌). This filamentous fungus is one of the most important microorganisms in food science, responsible not only for miso but also for sake, shochu, mirin, amazake, and soy sauce.
+The defining microorganism of miso is *[[aspergillus-oryzae]]*, known in Japanese as **koji-kin** (麹菌). This filamentous fungus is one of the most important microorganisms in food science, responsible not only for miso but also for sake, shochu, mirin, amazake, and soy sauce.
 
 *A. oryzae* is remarkable for its enzyme production. During the koji stage, it secretes:
 
@@ -57,7 +57,7 @@ The defining microorganism of miso is *Aspergillus oryzae*, known in Japanese as
 | **Protease** (alkaline, neutral, acidic) | Breaks proteins into amino acids (including glutamate → umami) |
 | **Lipase** | Breaks fats into fatty acids |
 | **Phytase** | Degrades phytic acid, freeing minerals |
-| **Cellulase** | Breaks down plant cell walls |
+| **Cellulase** | Breaks down [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls |
 
 The koji stage is essentially an enzyme-production step. These enzymes then drive the long, slow fermentation that follows.
 
@@ -81,7 +81,7 @@ The finished koji-soybean mixture is transferred to a fermentation vessel (tradi
 
 The moromi is pressed into the vessel, the surface is smoothed, and a weight may be placed on top. The vessel is covered and left to ferment at ambient temperature for anywhere from several weeks to several years. During this time, a complex succession of microorganisms contributes:
 
-- **Lactic acid bacteria** (*Tetragenococcus halophilus*, formerly *Pediococcus halophilus*) acidify the paste early in fermentation.
+- **[[lactic-acid-bacteria]] bacteria** (*Tetragenococcus halophilus*, formerly *Pediococcus halophilus*) acidify the paste early in fermentation.
 - **Yeast** (*Zygosaccharomyces rouxii*) produces ethanol and aromatic esters.
 - **Bacillus species** contribute proteolytic activity.
 
@@ -143,11 +143,11 @@ Tempeh originated on the island of Java, Indonesia, likely several hundred years
 
 Tempeh is a daily staple in Indonesia, particularly in Central Java. It is sold in traditional markets (*pasar*) as dense, white-mycelium-bound cakes wrapped in banana leaves or plastic. Indonesia produces over 250,000 tonnes of tempeh annually, and it plays a role analogous to tofu or cheese in Western diets — an affordable, protein-rich food consumed across all socioeconomic levels.
 
-Unlike miso, which requires sophisticated koji cultivation, tempeh fermentation is relatively accessible. The traditional inoculant, *usar* or *ragi*, is a dried starter culture made from hibiscus leaves (*waru*, *Hibiscus tiliaceus*) that naturally harbor *Rhizopus oligosporus* spores. This makes tempeh one of the most democratized fermented foods — any household can produce it with minimal equipment.
+Unlike miso, which requires sophisticated koji cultivation, tempeh fermentation is relatively accessible. The traditional inoculant, *usar* or *ragi*, is a dried starter culture made from hibiscus leaves (*waru*, *Hibiscus tiliaceus*) that naturally harbor *Rhizopus oligosporus* spores. This makes tempeh one of the most democratized [[fermented-foods-and-beverages]] — any household can produce it with minimal equipment.
 
 ### The Mold: *Rhizopus oligosporus*
 
-Tempeh is produced by the zygomycete mold *Rhizopus oligosporus* (sometimes classified as *Rhizopus arrhizus* or *Rhizopus oligosporus* NRRL 2710). Key characteristics:
+Tempeh is produced by the zygomycete mold *Rhizopus oligosporus* (sometimes classified as *[[rhizopus-arrhizus]]* or *Rhizopus oligosporus* NRRL 2710). Key characteristics:
 
 - **Rapid growth**: Colonizes soaked, cooked soybeans within 24–36 hours at 30–32°C
 - **Firm mycelium**: Produces a dense, cottony-white network that binds soybeans into a cohesive cake
@@ -167,7 +167,7 @@ After soaking, the hulls are removed. This is traditionally done by hand-rubbing
 
 #### 2. Cooking
 
-The dehulled beans are boiled or steamed until fully cooked but not mushy — typically 60–90 minutes. They are then drained and dried on clean cloths or screens until the surface is relatively dry but the beans remain hydrated internally. This surface drying prevents excess moisture that would encourage bacterial growth over fungal growth.
+The dehulled beans are boiled or steamed until fully cooked but not mushy — typically 60–90 minutes. They are then drained and dried on clean cloths or screens until the surface is relatively dry but the beans remain hydrated internally. This surface drying prevents excess moisture that would encourage bacterial growth over [[fungal-growth-dynamics]].
 
 #### 3. Inoculation
 
@@ -245,7 +245,7 @@ The characteristic **natto threads** (natto-hiki) are produced by poly-γ-glutam
 
 ### Nutritional Significance
 
-Natto is notable for several unique nutritional properties:
+Natto is notable for several unique [[nutritional-properties-mushrooms]]:
 
 - **Nattokinase**: A serine protease produced by *B. subtilis natto* that demonstrates fibrinolytic (blood-clot-dissolving) activity in vitro. Nattokinase supplements are marketed for cardiovascular health, though clinical evidence remains mixed.
 - **Vitamin K2 (menaquinone-7)**: Natto is the richest known dietary source of MK-7, essential for bone health and cardiovascular function. A single serving (50g) provides 400–500 μg, far exceeding any other food.

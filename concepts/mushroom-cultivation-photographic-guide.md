@@ -148,4 +148,3 @@ white mycelium. Contaminated substrates should be discarded.
 ## See Also
 
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]

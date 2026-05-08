@@ -143,5 +143,5 @@ Based on available evidence, key risk reduction considerations include:
 - [[psilocybe-cubensis]]
 
 - [[psilocybin-and-psilocin-chemistry]]
-- [[hallucinogenic-mushroom-prevalence-in-europe]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[psilocybe-species-identification]]

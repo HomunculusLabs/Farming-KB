@@ -134,8 +134,8 @@ A landmark 2021 study published in *NEJM* found that a single 25 mg dose of synt
 
 ## See Also
 
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound
 - [[psilocin]] — Active metabolite
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]] — Taxonomic family
-- [[golden-teacher]] — Popular cultivated strain
+- [[golden-teacher-cannabis]] — Popular cultivated strain
 - [[microdosing-guide]] — Sub-threshold dosing practice

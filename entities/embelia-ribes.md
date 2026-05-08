@@ -148,4 +148,3 @@ a pungent (*katu*) taste and heating (*ushna*) potency.
 - [[withania-somnifera]]
 - [[reishi-mushroom-medicinal-properties]]
 - [[adaptogenic-herbs-overview]]
-- benzoquinones

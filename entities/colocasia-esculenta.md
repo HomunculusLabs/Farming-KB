@@ -148,7 +148,3 @@ Taro is exceptionally valuable in tropical permaculture systems:
 - [[morchella-esculenta-entity]]
 - [[morchella-esculenta]]
 - [[gyromitra-esculenta]]
-- ipomoea batatas — Sweet potato, complementary tropical root crop
-- manihot esculenta — Cassava, another tropical staple
-- [[azolla-filiculoides]] — Aquatic fern for taro-rice polycultures
-- [[moringa-oleifera]] — Multipurpose tree for tropical food forests

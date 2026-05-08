@@ -471,3 +471,6 @@ from individual plots to entire communities.
 10. Williams, William Ozier. "A Permaculture Design Course." PDC course
     materials on urban permaculture design, zone planning, and appropriate
     technology.
+## Urban Permaculture Design Principles and Strategies
+
+# Urban Permaculture Design Principles and Strategies Urban permaculture applies permaculture design principles to the unique constraints and opportunities of city environments. While [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles|Permaculture: A Designers Manual]] was written with rural and broadacre applications in mind, its principles translate effectively to urban contexts — balconies, rooftops, vacant lots, community gardens, and small backyards. The key adaptation is recognizing that in cities, energy, water, waste, and social systems become the primary design elements alongside food production. ## Zone and Sector Analysis in Urban Contexts Permaculture's zone system maps activities by frequency of use, from Zone 0 (the home) outward. In urban settings, zones are compressed vertically and horizontally. ...

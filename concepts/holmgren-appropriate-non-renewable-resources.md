@@ -40,7 +40,7 @@ In general, the best use for non-renewable resources and technology should be to
 
 Bulldozers and other large earth-moving equipment are perhaps the most dramatic example of appropriate use of fossil fuels and technology promoted in permaculture. They are used to make well-designed systems to harvest, store and distribute water, as well as creating vehicle access and house sites that increase the productivity of urban and rural landscapes. These earthworks are capable of being maintained indefinitely, by human labour if necessary.
 
-This connects to [[permaculture-earthworks-guide]] and the understanding that one-time investment of fossil energy in landscape modification can yield benefits for centuries.
+This connects to [[permaculture-water-harvesting-earthworks]] and the understanding that one-time investment of fossil energy in landscape modification can yield benefits for centuries.
 
 ## Solar Cells as Transitional Technology
 

@@ -91,6 +91,6 @@ Studies of biomass fuels show that annual crops have yield ratios little better 
 - [[holmgren-household-energy-storages]]
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Ethics chapter, footnotes 12-16, Principle 3, pp. 64-67
-- [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[holmgren-household-economy-and-self-reliance]]

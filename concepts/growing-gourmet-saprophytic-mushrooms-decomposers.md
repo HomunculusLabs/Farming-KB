@@ -42,7 +42,7 @@ that quickly attach to and decompose plant tissue. Most of the
 decomposers degrade wood. Hence, the majority of these saprophytes
 are woodland species, such as [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]
 (Pleurotus species),
-[[growing-gourmet-shiitake-cultivation]]
+[[shiitake-mushroom-cultivation-and-medicinal-properties]]
 (Lentinula edodes), and
 [[growing-gourmet-king-stropharia-cultivation]]
 (Stropharia rugoso-annulata). However, each species has developed

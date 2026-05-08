@@ -120,4 +120,4 @@ Excessive runoff from degraded agricultural soils carries sediment, fertilizers,
 Biodiversity benefits extend below and above ground. Diverse cover crop mixes and reduced pesticide use support pollinator populations (critical for 35% of global crop production), beneficial predatory insects that provide natural pest control, and soil macrofauna (earthworms, dung beetles) that enhance nutrient cycling. Farms implementing regenerative practices have been shown to support 30–50% more species compared to conventional neighbors (Tamburini et al., 2020, Science Advances).
 ## See Also
 
-[[biochar-soil-amendment|Biochar Soil Amendment]] · Mycorrhizal Fungi · [[soil-food-web|Soil Food Web]] · [[compost-chemistry-soil-food-web|Compost Chemistry]] · Conservation Agriculture · [[nitrogen-cycle-in-soil|Nitrogen Cycle]]
+[[biochar-soil-amendment|Biochar Soil Amendment]] · Mycorrhizal Fungi · [[soil-food-web|Soil Food Web]] · [[composting-and-soil-biology|Compost Chemistry]] · Conservation Agriculture · [[composting-and-soil-biology|Nitrogen Cycle]]

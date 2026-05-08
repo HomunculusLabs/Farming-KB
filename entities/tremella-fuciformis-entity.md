@@ -142,11 +142,9 @@ Kidney, and Stomach meridians:
 
 ## See Also
 
-- [[tremella-fusciformis]]
+- tremella fuciformis entity
 
-- [[tremella-fuciformis]]
+- tremella fuciformis entity
 - [[lentinula-edodes]]
 - [[ganoderma-lucidum]]
 - [[inonotus-obliquus]]
-- [[hericium-erinaceus]]
-- [[auricularia-auricula-judae-entity]]

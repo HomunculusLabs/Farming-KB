@@ -117,6 +117,6 @@ Other rare cannabinoids with non-classical structures include cannabichromene (C
 - [[myrcene]] — terpene precursor in cannabinoid biosynthesis
 - [[cannabis-terpene-profiles]] — sesquiterpene with CB₂ receptor affinity
 - [[limonene]] — monoterpene common in cannabis aroma profiles
-- [[blue-dream]] — high-THC cultivar with complex cannabinoid profiles
+- [[cannabis-blue-dream]] — high-THC cultivar with complex cannabinoid profiles
 - [[girl-scout-cookies]] — cultivar known for diverse minor cannabinoid content
-- [[wedding-cake]] — modern hybrid with elevated minor cannabinoids
+- [[wedding-cake-cannabis]] — modern hybrid with elevated minor cannabinoids

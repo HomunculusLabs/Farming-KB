@@ -265,7 +265,7 @@ Greensand provides potassium and iron. Bone meal supplies phosphorus and calcium
 Kelp meal provides potassium, micronutrients, and plant growth regulators.
 Biochar provides carbon sequestration, improves structure, increases CEC, and
 enhances microbial habitat. See [[compost-building-guide]],
-[[compost-chemistry-soil-food-web]], and [[biochar-soil-amendment]].
+[[composting-and-soil-biology]], and [[biochar-soil-amendment]].
 
 ### Korean Natural Farming Inputs
 
@@ -414,7 +414,7 @@ strategies that build long-term soil fertility while meeting production goals.
 - [[legume-nitrogen-dynamics]]
 - [[legume-nitrogen-yields-by-species]]
 - [[compost-building-guide]]
-- [[compost-chemistry-soil-food-web]]
+- [[composting-and-soil-biology]]
 - [[bionutrients-guide]]
 - [[acid-and-alkaline-soil-management]]
 - [[biochar-soil-amendment]]

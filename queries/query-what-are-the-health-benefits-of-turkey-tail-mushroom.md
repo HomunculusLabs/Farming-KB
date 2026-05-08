@@ -37,7 +37,7 @@ Beyond oncology, turkey tail has shown promise as an antiviral agent in laborato
 Research has demonstrated activity against human papillomavirus (HPV), herpes simplex virus, and HIV in controlled laboratory settings.
 A notable clinical study found that daily turkey tail consumption was associated with clearance of oral HPV infections in a significant percentage of participants.
 These antiviral effects are thought to be related to both direct antiviral compounds in the mushroom and its ability to enhance the immune response against viral infections.
-The [[turkey-tail-mushroom-cancer-research]] resource covers both cancer and non-cancer research on turkey tail's bioactive compounds.
+The [[mushroom-cultivation-fundamentals]] resource covers both cancer and non-cancer research on turkey tail's bioactive compounds.
 
 The prebiotic effects of turkey tail on the gut microbiome represent an exciting area of emerging scientific research.
 Turkey tail polysaccharides appear to promote the growth of beneficial gut bacteria, particularly Bifidobacterium and Lactobacillus species, while inhibiting harmful organisms.

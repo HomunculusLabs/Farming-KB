@@ -148,4 +148,3 @@ patterns with Holzer-style pond systems in broadacre food-forest design. See
 - comparison keyline vs contour
 - [[swale-design]]
 - hugelkultur vs terracing
-- [[rainwater-harvesting-systems]]

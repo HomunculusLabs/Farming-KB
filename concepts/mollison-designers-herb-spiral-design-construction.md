@@ -20,7 +20,7 @@ The herb spiral is one of the most iconic and widely recognized
 elements of permaculture design. Originating in the work presented in
 Bill Mollison's [[permaculture-designers-manual-bamboo]], the herb spiral
 compresses a diverse range of growing conditions into a compact,
-vertical structure that maximizes [[gaias-garden-edge-effect]], creates multiple
+vertical structure that maximizes gaias garden edge effect, creates multiple
 microclimates, and demonstrates the [[permaculture-principles]] of
 relative location, each element performing multiple functions, and
 designing from patterns to details.

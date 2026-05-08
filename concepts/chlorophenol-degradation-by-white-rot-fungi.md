@@ -48,7 +48,7 @@ The complete removal of chlorine atoms before ring cleavage is a critical featur
 
 - Immobilization of P. chrysosporium on polystyrene-divinylbenzene carriers increased LiP production and chlorophenol degradation
 
-The soil-bound residue observed in field studies is a common phenomenon in fungal bioremediation, where partially degraded intermediates become covalently bound to soil organic matter through oxidative coupling reactions. While this effectively removes the contaminants from bioavailable pools and reduces toxicity, it does not represent complete mineralization. The formation of soil-bound residues is discussed in [[mycoremediation-field-applications]] as both a challenge for regulatory approval and a practical benefit for risk reduction.
+The soil-bound residue observed in field studies is a common phenomenon in fungal bioremediation, where partially degraded intermediates become covalently bound to soil organic matter through oxidative coupling reactions. While this effectively removes the contaminants from bioavailable pools and reduces toxicity, it does not represent complete mineralization. The formation of soil-bound residues is discussed in [[bioremediation-using-fungi]] as both a challenge for regulatory approval and a practical benefit for risk reduction.
 
 ## 2,4,6-Trichlorophenol (TCP) Degradation
 

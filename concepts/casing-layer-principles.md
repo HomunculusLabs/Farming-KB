@@ -93,7 +93,7 @@ The casing must be kept moist throughout the cropping cycle:
 Different species have different casing preferences:
 - Agaricus Bitorquis: Standard peat/limestone casing
 - Agaricus Brunnescens: Standard peat/limestone casing
-- [[psilocybe-cubensis-profile]]: Can fruit without casing but benefits from a thin layer
+- [[psychedelic-mushrooms-species-and-identification]]: Can fruit without casing but benefits from a thin layer
 - [[panaeolus-cyanescens-bali-omelette]]: Typically cased for optimal yields
 
 ## See Also

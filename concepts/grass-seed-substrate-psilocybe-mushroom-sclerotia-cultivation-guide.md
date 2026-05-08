@@ -18,7 +18,7 @@ Grass seed is an effective substrate for cultivating several species of Psilocyb
 Grass seed substrate is suitable for cultivating:
 
 - [[psilocybe-mexicana]] — mushrooms and sclerotia
-- [[psilocybe-tampanensis]] — mushrooms and sclerotia
+- [[psilocybe-tampanensis-entity]] — mushrooms and sclerotia
 - [[psilocybe-cubensis]] — mushrooms only (rye grain is preferred for this species)
 - [[panaeolus-subbalteatus]] — mushrooms
 
@@ -119,7 +119,7 @@ Simple clear plastic bins covered with polyethylene sheeting are sufficient. Fiv
 
 ### Cold Shocking
 
-Harder-to-fruit strains benefit from **cold shocking** — placing them in the fridge for one night before putting in fruiting bins. Easy fruiting strains (e.g., Ecuador cubensis) do not require this. [[psilocybe-mexicana]], [[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] do not benefit from cold shocking.
+Harder-to-fruit strains benefit from **cold shocking** — placing them in the fridge for one night before putting in fruiting bins. Easy fruiting strains (e.g., Ecuador cubensis) do not require this. [[psilocybe-mexicana]], [[psilocybe-tampanensis-entity]], and [[panaeolus-subbalteatus]] do not benefit from cold shocking.
 
 ### Flush Management
 
@@ -132,7 +132,7 @@ Harder-to-fruit strains benefit from **cold shocking** — placing them in the f
 
 ## Sclerotia Production
 
-[[psilocybe-tampanensis]] and [[psilocybe-mexicana]] produce **sclerotia** while still colonising in the jar — no casing is needed for sclerotia production. Simply leave fully colonised jars in a clean, preferably dark location. In the experience of the authors, sclerotia of P. tampanensis continue to enlarge until **4 months after inoculation**. Sclerotia of these species also form in the casing layer of cased trays.
+[[psilocybe-tampanensis-entity]] and [[psilocybe-mexicana]] produce **sclerotia** while still colonising in the jar — no casing is needed for sclerotia production. Simply leave fully colonised jars in a clean, preferably dark location. In the experience of the authors, sclerotia of P. tampanensis continue to enlarge until **4 months after inoculation**. Sclerotia of these species also form in the casing layer of cased trays.
 
 ## See Also
 

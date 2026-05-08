@@ -145,5 +145,5 @@ integrated monitoring combining chemical and ecotoxicological endpoints.
 - [[fungal-bioremediation-mechanisms]]
 - [[staycare-fungal-formulation-in-situ-bioremediation]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[bioremediation-scale-up]]

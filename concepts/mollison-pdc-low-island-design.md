@@ -148,4 +148,3 @@ surviving between ocean salt below and evaporation above.
 
 - [[mollison-pdc-high-island-design]]
 - [[mollison-pdc-solar-greenhouse-design]]
-- [[mollison-pdc-slope-design-house-siting]]

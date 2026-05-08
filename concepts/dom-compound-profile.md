@@ -81,7 +81,7 @@ As with other DOx compounds, DOM shows pronounced stereoselectivity:
 - **R-isomer:** Active at doses as low as 0.5 mg, confirming that the R-enantiomer carries the majority of the psychedelic activity
 - **S-isomer:** No psychological effects at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
 
-The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[dob-compound-profile]], [[doi-compound-profile]], and [[mda-compound-profile]], where the R-isomer is consistently more potent. See [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
+The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[dob-compound-profile]], [[doi-compound-profile]], and [[ayahuasca-and-dmt-plant-medicine]], where the R-isomer is consistently more potent. See [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
 
 ## STP History
 

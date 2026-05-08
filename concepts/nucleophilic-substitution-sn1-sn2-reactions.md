@@ -126,4 +126,4 @@ more on polarizability, solvent, and steric factors.
 
 - [[cytochrome-p450-enzymes-drug-metabolism|Cytochrome P450 enzymes]]
 - [[glutathione-biochemistry-and-redox-biology|Glutathione and redox biology]]
-- [[structure-activity-relationship-medicinal-chemistry|Structure-activity  relationships]]
+- Structure-activity  relationships

@@ -9,9 +9,9 @@ created: 2026-05-07
 type: concept
 ---
 
-# Mushroom Cultivation Training Program Design for People with Disabilities
+# [[mushroom-cultivation]] Training Program Design for People with Disabilities
 
-The FAO publication *Mushroom Cultivation for People with Disabilities: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
+The FAO publication *[[mushroom-cultivation-for-people-with-disabilities]]: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
 
 ## The Three-in-One Training Philosophy
 
@@ -103,7 +103,7 @@ The recommended approach includes:
 
 ### Training Schedule
 
-A detailed proposed schedule covers all 18 steps of the cultivation process, from producing PDA medium through marketing and waste management. Each step is allocated a specific time frame based on the biological requirements of the mushroom life cycle. The schedule accounts for the slower pace that may be necessary for some trainees while maintaining technical integrity.
+A detailed proposed schedule covers all 18 steps of the cultivation process, from producing PDA medium through marketing and waste management. Each step is allocated a specific time frame based on the biological requirements of the [[mushroom-life-cycle]]. The schedule accounts for the slower pace that may be necessary for some trainees while maintaining technical integrity.
 
 ## Monitoring and Evaluation
 
@@ -148,5 +148,3 @@ Graduates are encouraged to maintain contact with the training center and with e
 ## See Also
 
 - [[mushroom-cultivation-for-disabilities-training-program]]
-- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
-- [[mushroom-cultivation-basics]]

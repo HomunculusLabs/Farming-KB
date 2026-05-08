@@ -16,7 +16,7 @@ sources:
 
 # Pluteus nigroviridis
 
-**Pluteus nigroviridis** is a species of Pluteus mushroom in the family Pluteaceae known to contain [[psilocybin]] and [[psilocin]]. The species name combines *nigro* (black) and *viridis* (green), referring to the dark cap coloration and the distinctive greenish-blue bruising reaction that develops on the stipe and cap when the fruiting body is damaged. It is considered one of the more reliably psychoactive species within the genus, alongside [[pluteus-salicinus]] and [[pluteus-glaucotinctus]].
+**Pluteus nigroviridis** is a species of Pluteus mushroom in the family Pluteaceae known to contain [[psilocybin-compound]] and [[psilocin]]. The species name combines *nigro* (black) and *viridis* (green), referring to the dark cap coloration and the distinctive greenish-blue bruising reaction that develops on the stipe and cap when the fruiting body is damaged. It is considered one of the more reliably psychoactive species within the genus, alongside [[pluteus-salicinus]] and [[pluteus-glaucotinctus]].
 
 ## Taxonomy
 
@@ -37,7 +37,7 @@ sources:
 
 ## Psychoactive Constituents
 
-*P. nigroviridis* contains both [[psilocybin]] and [[psilocin]], confirmed through analytical methods including TLC, HPLC, and GC-MS. Among the psilocybin-containing Pluteus species, *P. nigroviridis* is reported to have moderate to relatively high concentrations, potentially comparable to mid-range Psilocybe species. The vivid greenish-blue bluing reaction is a strong visual indicator of psilocybin presence, resulting from the enzymatic oxidation of psilocin to blue-colored quinoid compounds.
+*P. nigroviridis* contains both [[psilocybin-compound]] and [[psilocin]], confirmed through analytical methods including TLC, HPLC, and GC-MS. Among the psilocybin-containing Pluteus species, *P. nigroviridis* is reported to have moderate to relatively high concentrations, potentially comparable to mid-range Psilocybe species. The vivid greenish-blue bluing reaction is a strong visual indicator of psilocybin presence, resulting from the enzymatic oxidation of psilocin to blue-colored quinoid compounds.
 
 Alkaloid concentrations are influenced by substrate composition, moisture levels, temperature, and the degree of wood decomposition. Collections from nutrient-rich hardwood substrates with moderate moisture tend to show higher alkaloid levels. The species may also contain [[baeocystin]], [[norbaeocystin]], and possibly trace amounts of other indole derivatives.
 
@@ -77,5 +77,5 @@ As a confirmed psilocybin-containing species, *P. nigroviridis* is subject to th
 - [[pluteus-glaucotinctus]] — psilocybin-containing Pluteus with bluish stipe tinge
 - [[pluteus-americanus]] — North American psilocybin-containing Pluteus
 - [[pluteus-cervinus]] — common non-psychoactive deer shield mushroom
-- [[psilocybin]] — primary psychoactive alkaloid
+- [[psilocybin-compound]] — primary psychoactive alkaloid
 - [[psilocin]] — dephosphorylated psychoactive compound

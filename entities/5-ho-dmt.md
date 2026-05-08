@@ -112,12 +112,12 @@ The rising popularity of Bufo alvarius venom ("toad medicine") has prompted incr
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[nn-dmt]]
 - [[5-meo-dmt]]
 - [[bufotenin]]
 - [[serotonin]]
-- [[mescaline]]
-- [[myristicin]]
+- [[mescaline-entity]]
+- [[myristicin-entity]]
 - [[elemicin]]
 - [[ergotamine]]

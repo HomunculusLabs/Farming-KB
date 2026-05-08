@@ -1,5 +1,5 @@
 ---
-title: "Yarrow (Achillea millefolium)"
+title: "Yarrow (achillea millefolium)"
 type: species
 tags: [herbal-plant, permaculture, medicinal-herb, companion-planting]
 date: 2026-04-28
@@ -20,8 +20,7 @@ sources:
 
 created: 2026-05-07
 ---
-
-# Yarrow (*Achillea millefolium* L.)
+# [[yarrow]] (*Achillea millefolium* L.)
 
 ## Taxonomy
 
@@ -50,9 +49,9 @@ created: 2026-05-07
 - **Root system**: Fibrous roots with creeping rhizomes enabling vigorous spread
 - **Fruit**: Oblong achene, ~2 mm, lacking a pappus
 
-## Habitat and Distribution
+## Habiguzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distributiontion
 
-- **Range**: Cosmopolitan — native to temperate regions of the Northern Hemisphere (Europe, Asia, North America); widely naturalized in Australasia and southern South America
+- **Range**: Cosmopolitan — native to temperamaitake-growth-parameter-comparison-china-japan-north-america]] the Northern Hemisphere (Europe, Asia, North America); widely naturalized in Australasia and southern South America
 - **Habitats**: Meadows, pastures, grasslands, roadsides, disturbed ground, forest edges, montane and subalpine zones up to ~3,500 m elevation
 - **Tolerance**: Highly adaptable; drought-tolerant once established, survives poor soils, pH 4.5–8.0, full sun to partial shade
 
@@ -78,10 +77,10 @@ created: 2026-05-07
 
 | Compound Class | Key Constituents | Notes |
 |---|---|---|
-| **Flavonoids** | Apigenin, luteolin, rutin, isorhamnetin, quercetin | Antioxidant and anti-inflammatory |
+| **Flavonoids** | Apigenin, [[luteolin]], rutin, isorhamnetin, [[quercetin]] | Antioxidant and anti-inflammatory |
 | **Sesquiterpene lactones** | Achillin, millefin, leucodin | Anti-inflammatory; potential allergens |
 | **Alkaloids** | Achilleine (0.01–0.04%) | Hemostatic activity |
-| **Essential oil** (0.1–1.4%) | Camphor, borneol, α-pinene, β-pinene, 1,8-cineole, chamazulene, sabinene | Chamazulene gives blue color to distilled oil |
+| **Essential oil** (0.1–1.4%) | [[camphor]], borneol, α-pinene, β-pinene, 1,8-cineole, chamazulene, sabinene | Chamazulene gives blue color to distilled oil |
 | **Tannins** | Catechic tannins | Astringent action |
 | **Coumarins** | Umbelliferone | Mild anticoagulant and antimicrobial |
 | **Triterpenes & sterols** | β-sitosterol, α-amyrin | Anti-inflammatory |
@@ -90,7 +89,7 @@ created: 2026-05-07
 
 - **Hemostatic**: Achilleine promotes platelet aggregation and vasoconstriction at wound sites
 - **Anti-inflammatory**: Flavonoids and sesquiterpene lactones inhibit COX-2 and NF-κB pathways
-- **Antimicrobial**: Essential oil active against *Staphylococcus aureus*, *E. coli*, *Candida albicans*
+- **Antimicrobial**: Essential oil active against *Staphylococcus aureus*, *E. coli*, *[[candida-albicans]]*
 - **Spasmolytic**: Flavonoid fraction relaxes smooth muscle in the GI and uterine tracts
 - **Digestive**: Bitter principles stimulate gastric secretion and bile flow
 - **Antipyretic**: Prostaglandin inhibition supports traditional fever-reducing use
@@ -111,7 +110,7 @@ created: 2026-05-07
 - **Ground cover**: Dense rhizomatous mats suppress weeds and reduce soil erosion on slopes
 - **Compost activator**: High mineral content accelerates decomposition
 - **Companion plant**: Attracts hoverflies, ladybugs, and parasitic wasps; improves essential oil yield in neighboring aromatic herbs
-- **Ornamental value**: Long-blooming, drought-resistant, attractive to pollinators — suited to food forests, herb spirals, and polyculture borders
+- **Ornamental value**: Long-blooming, drought-resistant, attractive to pollinators — suited to [[food-forest]] s, [[herb-spiral]] s, and polyculture borders
 
 ## Cultivation and Propagation
 
@@ -148,11 +147,3 @@ created: 2026-05-07
 - **Lactation**: Insufficient data; avoid until safety established
 - **Allergies**: Yarrow belongs to the Asteraceae family — cross-reactivity possible in individuals allergic to chamomile, ragweed, marigold, or chrysanthemum
 - **Bleeding disorders / anticoagulants**: May potentiate warfarin, clopidogrel, and NSAID effects due to coumarin content; discontinue 2 weeks before surgery
-- **Photosensitivity**: Contact dermatitis possible in sensitive individuals after sun exposure
-- **Pediatric use**: Not recommended under 12 without professional supervision
-
-## See Also
-
-- [[companion-planting|companion planting]]
-- [[gaias-garden-bees-and-pollinators|pollinators]]
-- [[blesching-cannabis-wound-care|wound care]]

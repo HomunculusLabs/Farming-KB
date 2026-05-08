@@ -88,4 +88,4 @@ Dogs can be trained to differentiate between truffle species, allowing harvester
 
 - [[edible-wild-mushroom-guide]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]

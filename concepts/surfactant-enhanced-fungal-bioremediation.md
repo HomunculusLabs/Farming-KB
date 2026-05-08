@@ -22,7 +22,7 @@ hydrophobic molecules, effectively delivering them to the fungal hyphal surface
 and extracellular enzyme systems.
 
 The application of surfactants in fungal bioremediation draws on principles from
-both [[biosurfactants-in-bioremediation]] and [[bioavailability-in-fungal-bioremediation]].
+both [[bioremediation-using-fungi]] and [[bioavailability-in-fungal-bioremediation]].
 White-rot fungi such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and
 Bjerkandera species produce extracellular ligninolytic enzymes including
 [[staycare-laccase-enzymes-in-bioremediation]], [[staycare-lignin-peroxidase-and-pollutant-degradation]],

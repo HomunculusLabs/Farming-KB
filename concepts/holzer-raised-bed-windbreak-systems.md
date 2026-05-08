@@ -54,7 +54,7 @@ meaning they return year after year without replanting.
 ## Construction Details
 
 The windbreak raised beds are built to a height of at least 1.5 metres.
-They are exactly like normal [[holzer-raised-bed-design]], except that the
+They are exactly like normal [[sepp-holzer-permaculture-and-rebel-farming]], except that the
 sides are made a little steeper. This increased height and steeper angle
 make the beds more effective at deflecting wind, while still maintaining all
 the soil-building and water-retaining properties of standard raised beds.
@@ -80,7 +80,7 @@ A raised bed used as a windbreak serves several simultaneous purposes:
 - **Soil building**: The raised bed itself improves soil structure and
   fertility over time
 
-This multifunctional approach connects to [[permaculture-principle-integrate-rather-than-segregate]], where every element serves multiple purposes.
+This multifunctional approach connects to [[permaculture-design-principles]], where every element serves multiple purposes.
 
 ## Design Integration
 

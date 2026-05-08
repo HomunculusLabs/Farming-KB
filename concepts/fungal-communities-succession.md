@@ -89,5 +89,5 @@ Warming temperatures and altered precipitation regimes are disrupting establishe
 - [[fungal-community-ecology]] — community assembly processes
 - [[fungal-decomposition]] — decomposition overview
 - [[fungal-decomposition-nutrient-cycling]] — nutrient cycling during succession
-- [[fungal-ecology-forest-floor]] — forest floor community dynamics
+- [[the-soil-food-web]] — forest floor community dynamics
 - [[mycorrhizal-succession-primary-secondary]]

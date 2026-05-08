@@ -133,20 +133,6 @@ Calendula is a highly valued companion plant in permaculture and organic gardeni
 
 ## Culinary Uses
 
-The petals of Calendula officinalis are edible and have been used in cooking for centuries:
-
-- **Colorant**: Petals used historically as a saffron substitute ("poor man's saffron")
-- **Salads**: Fresh petals add color and mild, peppery flavor to salads
-- **Teas**: Dried flowers brewed as a digestive and anti-inflammatory tea
-- **Butters and cheeses**: Petals folded into compound butters and soft cheeses
-- **Note**: Only the petals are edible; the calyx and receptacle are bitter
-
-## Preparations and Dosage
-
-Common preparations include infused oil (5–15% in topical formulations), tincture (1:5, 70% ethanol; 1–3 mL 3× daily), tea infusion (1–2 tsp dried flowers per cup), cream/ointment (5–10%; apply 2–3× daily), and hydroglyceric extract (2–5% in cosmetics).
-
-Calendula officinalis is not considered threatened. Widely cultivated globally and naturalized in many temperate regions, the species faces no conservation restrictions.
-
 ## See Also
 
 - [[plantago-lanceolata]]

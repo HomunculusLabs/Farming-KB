@@ -106,35 +106,6 @@ Scientists believe that by studying the nucleic acids DNA within the cell nucleu
 ## Genetic Manipulation as Cosmetics
 
 The scientist's anticipation of recombinant DNA techniques — the belief that the quality of human traits is controlled by genes — has exactly the same level of significance as someone applying makeup to alter one's complexion or undergoing cosmetic surgery to change the shape of one's nose. No matter how outstanding a form the scientist creates, that creation is the complacent work of man and cannot possibly become a form of life universally viable within nature.
-
-## There Are No Distinctions in Nature
-
-There are no distinctions between better and worse in natural life itself. Judgments over the excellence of genetic traits and on virtue and evil are made merely from the standpoint of man. All human notions are forgeries and empty fabrications. Man's manipulation of genes differs in no way from a monkey that amuses itself by imitating man and applying cosmetics to itself.
-
-## The Danger of Biological Hubris
-
-The emergence of a single abnormal new microorganism could directly endanger the entire human race. Man believes he has the ability to distinguish between what is normal and abnormal, but even the best physician is unable to know what is truly normal and truly diseased. Man has not been given the capacity to correctly distinguish between true nature and what is unnatural.
-
-## Weapons Destroy People, Knowledge Destroys Humanity
-
-Weapons destroy people, and knowledge destroys humanity. When man, unaware of his own ignorance, takes pride in his knowledge and swells up with conceit over his ability to unlock the secrets of all things and to freely control all life with his intelligence, he will destroy himself with his very intelligence.
-
-## The True Worth of Life
-
-The value of life lies not in its possession by man; its true worth becomes manifest only when that life is left to live and lives dearly. Just as the worth of a person has nothing to do with having two, six, or eight arms and legs, assertions that genetic mutations have a bearing on the dignity of human life are merely dogmatic views of scientists.
-
-## Context Within Fukuoka's Broader Philosophy
-
-This critique extends Fukuoka's [[fukuoka-critique-western-dietetics-nutritional-science]] to the biological sciences specifically. It connects directly to [[fukuoka-god-nature-and-man-as-one]] by arguing that life originates from a source beyond human comprehension. Genetic engineering represents the ultimate expression of humanity's attempt to control nature through knowledge — the very error that [[fukuoka-what-is-nature]] identifies as the root of humanity's separation from the natural world.
-
-## Comparison to Western Approaches
-
-Western bioethics debates about genetic engineering focus on safety, consent, and equity — questions that assume the fundamental premise that genetic manipulation is legitimate if done correctly. Fukuoka challenges this premise entirely, arguing that the very act of genetic manipulation is a category error. He would view modern CRISPR gene editing not as a tool to be regulated, but as a deeper manifestation of the hubris that drives civilization toward destruction. This philosophical stance goes far beyond typical environmental or bioethical objections.
-
-## Practical Implications
-
-For natural farming practitioners, Fukuoka's critique means avoiding genetically modified seeds and embracing the genetic diversity that nature produces through natural selection. This connects to fukuoka natural farming philosophy principles of working with nature's inherent wisdom rather than imposing human-designed solutions. The critique also implies that agricultural breeding programs, even conventional ones, risk losing sight of nature's purpose by optimizing for narrow human preferences.
-
 ## See Also
 
 - [[natural-farm-establishment-protective-forests-and-windbreaks]]
@@ -153,20 +124,20 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 - [[fukuoka-textdoc-farming-for-all-mu-economy]]
 - [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
 - [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]
-- [[fukuoka-textdoc-phyllotaxy-natural-tree-form-against-pruning]]
+- fukuoka textdoc phyllotaxy natural tree form against pruning
 - [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
 - [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
-- [[fukuoka-textdoc-straw-decomposition-ecological-succession]]
+- fukuoka natural farming philosophy
 - [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 
-- [[natural-order-and-microbes]]
+- [[korean-natural-farming-and-jadam]]
 
-- [[fukuoka-greening-deserts]]
+- fukuoka natural farming philosophy
 
 - [[direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[four-principles-natural-farming]]

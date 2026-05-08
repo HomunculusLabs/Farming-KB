@@ -148,4 +148,3 @@ In temperate climates, may be grown as an annual ornamental but will not reach f
 - [[silene-capensis]] — South African dream herb (Xhosa ubulawu)
 - [[calea-zacatechichi]] — Mexican dream herb (oneirogen comparison)
 - [[dimethyltryptamine]] — Primary psychedelic tryptamine found in related species
-- [[banisteriopsis-caapi]] — Ayahuasca vine, another dream-associated ethnobotanical

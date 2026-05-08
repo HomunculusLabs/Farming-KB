@@ -81,6 +81,6 @@ Unlike the widely known [[psilocybe-cubensis-potency-variation-by-flush]] ("gold
 - [[psilocybe-subaeruginosa]] — The most common temperate Australian psychoactive Psilocybe
 - [[psilocybe-eucalypta]] — Similar species from eucalypt forests
 - [[global-psychedelic-mushroom-species-diversity]] — Tasmanian species, closely related to *P. subaeruginosa*
-- [[psilocybe-cyanescens-profile]] — Northern hemisphere species compared to *P. australiana*
+- [[psychedelic-mushrooms-species-and-identification]] — Northern hemisphere species compared to *P. australiana*
 - [[australian-nz-psychoactive-mushroom-species]] — Complete species inventory for Australasia
 - [[cattle-dispersal-of-psychoactive-fungi]] — Dispersal history of introduced psychoactive fungi

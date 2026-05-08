@@ -108,6 +108,6 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 ## Related
 
 - [[stropharia-semiglobata]] Topics
-- [[wine-cap-stropharia-cultivation]] for detailed bed preparation and cultivation
+- wine cap stropharia cultivation for detailed bed preparation and cultivation
 - kings stropharia garden giant for companion planting strategies
 - [[shiitake-cultivation-guide]] for another outdoor log/wood cultivation method

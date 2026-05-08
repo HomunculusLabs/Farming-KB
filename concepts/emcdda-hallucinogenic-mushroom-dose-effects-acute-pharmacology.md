@@ -38,7 +38,7 @@ Recreational users employ several methods of ingestion:
 - **Fresh mushrooms**: Eaten directly, often chopped and mixed with food to mask the taste.
 - **Dried mushrooms**: Consumed whole, chopped, or ground into a powder and encapsulated.
 - **Tea preparation**: Mushrooms are brewed in hot water, sometimes with flavoring agents. The liquid is consumed and the mushroom material discarded. This method may alter onset time and bioavailability.
-- **Sclerotia consumption**: Species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
+- **Sclerotia consumption**: Species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis-entity]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
 
 ## Onset and Duration
 

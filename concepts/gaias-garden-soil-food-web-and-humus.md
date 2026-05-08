@@ -125,7 +125,7 @@ High-carbon materials are fine as surface mulch but should not be tilled in with
 
 - [[gaias-garden-perennial-vegetables]]
 
-- [[compost-chemistry-soil-food-web]] — compost chemistry and the soil food web
+- [[composting-and-soil-biology]] — compost chemistry and the soil food web
 - [[soil-food-web-structure]] — structure of the soil food web
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling through the food web
 - [[fungal-roles-soil-food-webs]] — fungal roles in soil food webs

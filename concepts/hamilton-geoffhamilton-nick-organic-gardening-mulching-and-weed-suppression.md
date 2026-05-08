@@ -148,4 +148,3 @@ Straw mulch is particularly valuable for strawberries.
 - [[sheet-mulching-guide]]
 - [[mulching-organic-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]

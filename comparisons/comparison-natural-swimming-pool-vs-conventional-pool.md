@@ -140,56 +140,6 @@ phosphate), add new beneficial bacteria starter if needed.
 **Summer**: Trim plants to prevent overgrowth into the swimming zone, skim
 debris from the water surface, ensure pump is running, monitor water clarity.
 
-**Autumn**: Net falling leaves, cut back dying vegetation, reduce pump runtime.
-
-**Winter**: Minimal to no maintenance. The system goes dormant. In cold
-climates, the pool can freeze solid without damage (in properly designed
-systems with a flexible liner).
-
-### Conventional Pool Weekly Maintenance
-
-Test and adjust chlorine levels (1–3 ppm free chlorine), test and adjust pH
-(7.2–7.8), test total alkalinity and calcium hardness, empty skimmer and pump
-baskets, vacuum the pool floor, clean the filter (backwash sand/DE or hose
-cartridge), check water level, add algaecide if needed, shock treat weekly or
-biweekly.
-
-## When to Choose a Natural Pool
-
-- You value ecological integration and wildlife habitat in your landscape
-- You or family members have chlorine sensitivity, asthma, or skin conditions
-- You prefer a pond-like aesthetic over a sterile blue rectangle
-- You are willing to invest more upfront for lower long-term costs
-- You enjoy gardening and are willing to learn basic aquatic plant care
-- You live in a temperate climate with a defined growing season
-- You want a pool that looks beautiful in all four seasons
-
-## When to Choose a Conventional Pool
-
-- You want the fastest possible swim-ready water with minimal learning curve
-- You need a heated pool for year-round or extended-season use
-- You have a small yard where space efficiency matters
-- You prefer a classic, clean, predictable pool aesthetic
-- You live in a region with limited NSP builders and expertise
-- You want maximum control over water clarity and sanitation
-- You plan to use the pool primarily for exercise (lap swimming) and prefer
-  consistent, predictable water conditions
-
-## Hybrid Options
-
-Several hybrid systems bridge the gap between natural and conventional pools:
-
-- **Mineral pools**: Use mineral cartridges (silver, copper, zinc) alongside
-  reduced chlorine levels. Lower chemical use than conventional, but not
-  chemical-free.
-- **Biological pools with UV backup**: Combine biological filtration with UV-C
-  sterilization for additional pathogen control, especially useful during
-  heavy use periods.
-- **Plant-assisted conventional pools**: Add a small planted bog filter to a
-  conventional pool system, reducing chemical demand by 50–80%.
-- **Ozone systems**: Ozone generators oxidize contaminants in conventional
-  pools, significantly reducing chlorine demand.
-
 ## See Also
 
 - [[singh-constructed-wetlands-fungal-wastewater-treatment|Constructed Wetlands and Ecological Wastewater Treatment]]

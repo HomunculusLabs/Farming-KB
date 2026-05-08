@@ -31,7 +31,7 @@ skin" that has co-evolved alongside the human species and other life forms.
 ## The Living Interface
 
 Visionary plants and fungi, Powell suggests, act as a kind of living interface
-between what [[terence-mckenna-stoned-ape-hypothesis]] calls the Other
+between what [[psychedelic-mushrooms-species-and-identification]] calls the Other
 or Gaian Mind and the human mind. When a receptive individual ingests
 psilocybin, they can access transcendental information loaded with cultural
 and personal significance. After initiation, Gaia ceases to be an intellectual
@@ -126,4 +126,4 @@ See also: Powell [[natural-intelligence]] And The Universal Computation,
 
 ## See Also
 
-- [[entheogenic-symbiosis-and-gaian-mind]]
+- [[ethnomycology]]

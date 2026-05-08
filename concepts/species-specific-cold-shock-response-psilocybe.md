@@ -81,7 +81,7 @@ light exposure before returning to normal fruiting conditions.
 
 Three specific species are identified in the source as not benefiting from cold shock
 treatment in the grass seed cultivation context. [[psilocybe-mexicana]],
-[[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]] show no improvement in
+[[psilocybe-tampanensis-entity]], and [[panaeolus-subbalteatus]] show no improvement in
 fruiting performance when subjected to the cold shock procedure.
 
 For these species, the cold shock represents an unnecessary step that adds handling
@@ -141,45 +141,6 @@ occurs within a few days of placing the cased trays at 20 to 25 degrees Celsius.
 
 Some strains fruit earlier and more readily than others, and these easier strains may
 begin showing primordia even before the cold shock is applied. The duration of one
-night in the refrigerator is sufficient for most strains.
-
-Longer cold shock periods, extending to 24 or 48 hours, have been tried by some
-cultivators but do not appear to offer additional benefits and may actually reduce
-performance by over-stressing the mycelium. The brief, sharp temperature drop is more
-effective than a prolonged chill.
-
-After removal from the refrigerator, the trays should be transferred directly to the
-fruiting chamber. The warming process as the trays return to room temperature, combined
-with the high humidity of the fruiting environment, creates conditions that strongly
-promote primordia formation.
-
-## Fruiting Cycle After Cold Shock
-
-Depending on the strain, the first pinheads will appear 6 to 15 days after putting
-the casings in the bins. The mushrooms will mature in 5 to 7 days after the first
-pinheads appear, after which they can be picked at maturity.
-
-The casings normally produce 3 flushes when managed with the passive humidity system,
-but they may produce 5 or even 6 flushes when watered properly throughout the entire
-cycle. Psilocybe mexicana usually produces one big flush and a small second flush,
-making it somewhat less productive in terms of total flush count compared to other
-species.
-
-Other mentioned species produce more constant yields across multiple flushes,
-distributing their total productivity more evenly across the fruiting period.
-
-## Integration with Other Fruiting Triggers
-
-Cold shock is most effective when combined with the other standard fruiting triggers
-rather than relied upon in isolation. These include adequate air exchange through the
-side holes of the fruiting chamber, appropriate humidity levels maintained through
-daily misting, exposure to ambient light for normal fruiting body development, and
-the presence of a properly prepared casing soil layer.
-
-The cold shock acts as a supplementary signal that tips the balance toward fruiting
-for reluctant strains, working in concert with the other environmental parameters to
-create conditions that closely mimic natural fruiting triggers.
-
 ## See Also
 
 - [[cold-shocking-mushrooms]]

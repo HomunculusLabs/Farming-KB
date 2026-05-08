@@ -140,12 +140,11 @@ The high myrcene-to-pinene ratio is a key driver of its sedative character.
 
 ## See Also
 - [[og-kush]]
-- [[hindu-kush-cannabis-entity]]
+- [[hindu-kush]]
 - [[granddaddy-purple]]
 - [[girl-scout-cookies]]
-- [[blue-dream-cannabis]]
+- [[blue-dream-strain]]
 - [[northern-lights]]
 - [[myrcene]]
 - [[caryophyllene-oxide]]
 - [[limonene]]
-- [[tetrahydrocannabinol-thc]]

@@ -84,4 +84,4 @@ For a detailed comparison with other empathogens and psychedelics, see Psychedel
 
 ## Related
 
-- [[psychedelic-assisted-therapy-protocol]]
+- psychedelic assisted therapy protocol

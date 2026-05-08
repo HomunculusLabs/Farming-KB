@@ -148,5 +148,3 @@ cannot, creating complementary treatment stages.
 - [[comparison-vermicomposting-vs-hot-composting]] for worm versus
   thermophilic composting
 - [[worm-farming-for-profit]] for detailed vermicompost business
-  guidance
-- [[black-soldier-fly-larvae-as-feed]] for BSF production details

@@ -1,5 +1,5 @@
 ---
-title: "Chlorophyllum molybdites"
+title: "chlorophyllum molybdites"
 created: 2026-04-28
 type: species
 tags:
@@ -27,13 +27,12 @@ sources:
   - Osono, T. & Hirose, D. (2011). "Decomposition of leaf litter by Chlorophyllum molybdites." Mycoscience 52(1): 72-76.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
 ---
-
 ## Overview
 
 *Chlorophyllum molybdites*, commonly known as the green-spored parasol, false parasol,
 or vomiter mushroom, is the most frequently consumed poisonous mushroom worldwide.
 Found globally in tropical and subtropical regions, it is responsible for the
-majority of mushroom poisoning cases in North America, Australia, and parts of
+majority of [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]] cases in North America, Australia, and parts of
 Asia. The species closely resembles edible *Lepiota* and *Macrolepiota* species
 (particularly the parasol mushroom, *M. procera*), leading to frequent
 misidentification. Poisoning causes severe gastrointestinal distress — nausea,
@@ -74,8 +73,8 @@ rhacodes* and its close relatives.
   to crowded. This green color distinguishes it from all edible lookalikes.
 - **Stipe**: 10–25 cm long, 1–3 cm thick, with a bulbous base. Surface white,
   smooth above the ring, sometimes scaly below. The ring is large, movable
-  (can slide up and down the stipe), thick, and double.
-- **Spore print**: Green to grayish-green (the most important identification
+  (can slispore-print-collection-spore-mass-inoculationown the stipe), thick, and double.
+- **[[spore-print]]**: Green to grayish-green (the most important identification
   character). **Spores**: Broadly ellipsoid, 10–13 × 7–9 µm, thick-walled, with
   a germ pore, smooth.
 - **Flesh**: White, firm, does not change color when cut. Odor mild, pleasant
@@ -127,14 +126,14 @@ No edible mushroom has green spores. Other diagnostic features:
 
 ## Similar Species and Confusion Risks
 
-- ***Macrolepiota procera*** (parasol mushroom): Edible and highly prized.
+- ***[[macrolepiota-procera]]*** (parasol mushroom): Edible and highly prized.
   White spore print, snakeskin pattern on stipe below the ring, smaller
   scales on cap. Generally found in temperate woodlands rather than tropical
   grasslands.
 - ***Chlorophyllum rhacodes*** (shaggy parasol): Edible for some but causes
   gastrointestinal upset in others. White spore print, more scaly cap with
   more upright scales.
-- ***Lepiota brunneoincarnata*** (deadly dapperling): Contains amatoxins;
+- ***[[lepiota-brunneoincarnata]]*** (deadly dapperling): Contains amatoxins;
   potentially fatal. Much smaller (cap 2–5 cm), white spore print. Causes
   delayed-onset liver failure rather than rapid GI symptoms.
 
@@ -147,10 +146,3 @@ suggesting it benefits from the nutrient-rich, frequently irrigated conditions
 of human-maintained landscapes. Despite its toxicity to humans, the mushroom
 is consumed without apparent harm by some animals including slugs and certain
 insects.
-
-## See Also
-
-- [[agar]]
-- [[decomposition]]
-- [[dom]]
-- [[macrolepiota-procera]]

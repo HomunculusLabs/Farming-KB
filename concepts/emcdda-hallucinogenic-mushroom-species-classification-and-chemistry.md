@@ -42,7 +42,7 @@ psychotic and delirious effects without the classic visual disturbances of true
 hallucinogens. The psilocybin-containing mushrooms belong firmly within the
 tryptamine (indolealkylamine) class.
 
-## Psilocybin and Psilocin Chemistry
+## [[psilocybin-and-psilocin-chemistry]]
 
 Psilocybin and psilocin, the primary active compounds in hallucinogenic mushrooms,
 are classified as indolealkylamines belonging to the same broad chemical group as
@@ -73,7 +73,7 @@ The relative concentrations of these four compounds can vary significantly betwe
 species and even between individual specimens of the same species, contributing to
 the unpredictable potency that users frequently report.
 
-## Mycological Taxonomy of Psilocybin Mushrooms
+## Mycological Taxonomy of [[psilocybin-mushrooms]]
 
 There are more than 100 known hallucinogenic mushroom species. The complexity of
 their mycological classification, combined with their different chemical
@@ -103,7 +103,7 @@ characteristics.
 The genus Psilocybe dominates recreational use worldwide. The most commonly
 encountered species include:
 
-- **Psilocybe cubensis** (also known as Stropharia cubensis): The most frequently
+- **[[psilocybe-cubensis]]** (also known as [[stropharia-cubensis]]): The most frequently
   marketed species, easy to cultivate in controlled environments, available in
   numerous named varieties including Mexican, Thai, Colombian, and Amazonian
   strains. Does not grow wild in Europe. It possesses a low water content that
@@ -142,34 +142,6 @@ The lower popularity of Amanita muscaria as a recreational substance may be part
 explained by these toxicity risks and the potential for fatal confusion with deadly
 Amanita relatives. Following the prohibition of psilocybin mushrooms in the UK in
 2005, some retailers began promoting Amanita muscaria as a legal alternative, a
-development that EMCDDA analysts noted raised safety concerns requiring further
-legal and prevention responses.
-
-## The Blue Bruising Identification Feature
-
-Nearly all psilocybin-containing mushrooms share a distinctive field
-identification characteristic: they bruise blue when handled or damaged. This blue
-bruising is caused by the oxidation of psilocin and related compounds when the
-mushroom tissue is exposed to air. While this feature is useful for identification,
-it should not be relied upon as the sole criterion for safe identification, as some
-non-psychoactive mushrooms can also exhibit bluing and the consequences of
-misidentification with toxic species can be severe.
-
-## European Wild Distribution and Cultivation
-
-A variety of psilocybin-containing mushroom species grow wild in Europe,
-particularly throughout central and northern Europe. Habitats include wet grassy
-fields, uncultivated pastures, and decomposing wood. Beyond Psilocybe
-semilanceata and Psilocybe cyanescens, species reported in Europe include
-Psilocybe bohemica and Psilocybe moravica, particularly in the Czech Republic.
-
-Despite the presence of wild hallucinogenic mushrooms throughout Europe, evidence
-suggests that most recreationally used mushrooms are cultivated rather than
-wild-picked. The cubensis varieties that dominate the commercial market do not
-grow wild in Europe and are cultivated specifically in controlled environments,
-primarily in the Netherlands, because they are easy to grow in terrariums and
-possess characteristics suitable for commercial distribution.
-
 ## See Also
 
 - [[amanita-muscaria]]

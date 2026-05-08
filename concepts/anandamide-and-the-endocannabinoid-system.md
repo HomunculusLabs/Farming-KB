@@ -13,7 +13,7 @@ created: 2026-04-28
 
 ## Overview
 
-Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[endocannabinoid system]], bridging neurological, immunological, and psychological processes. Anandamide is a lipid-based signaling molecule that binds to both CB1 and CB2 cannabinoid receptors, triggering cascades of physiological and emotional changes across the central nervous system, immune system, and autonomic nervous system.
+Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[endocannabinoid-system]], bridging neurological, immunological, and psychological processes. Anandamide is a lipid-based signaling molecule that binds to both CB1 and CB2 cannabinoid receptors, triggering cascades of physiological and emotional changes across the central nervous system, immune system, and autonomic nervous system.
 
 ## Discovery and Naming
 
@@ -89,7 +89,7 @@ The FAAH pathway represents a critical control point in endocannabinoid signalin
 
 ## Therapeutic Implications
 
-Research into anandamide has significant implications for understanding how the [[endocannabinoid system]] can be therapeutically targeted:
+Research into anandamide has significant implications for understanding how the [[endocannabinoid-system]] can be therapeutically targeted:
 
 - **Schizophrenia**: Elevated anandamide levels in cerebrospinal fluid have been observed in acute schizophrenia, and anandamide may mitigate psychotic episodes through CB1-mediated modulation of dopaminergic circuits. The inverse correlation between anandamide levels and symptom severity suggests a compensatory neuroprotective role.
 - **Anxiety and depression**: Enhancing anandamide signaling through FAAH inhibition has shown anxiolytic and antidepressant effects in preclinical models. Clinical observations suggest that the endocannabinoid system plays a natural role in mood homeostasis, and that deficiencies in endocannabinoid tone may contribute to mood disorders.
@@ -118,7 +118,7 @@ Anandamide's role in mood regulation means that endocannabinoid tone influences 
 - [[cannabis-endocannabinoid-system]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 
-- [[endocannabinoid system]]
+- [[endocannabinoid-system]]
 - THC
 - [[cannabidiol-cbd]]
 - cannabis

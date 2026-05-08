@@ -23,7 +23,7 @@ created: 2026-05-03
 
 # Fava Bean vs Chickpea vs Lentil: Grain Legume Comparison
 
-Fava beans (*Vicia faba*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and crop rotation. This page compares them across key agronomic and culinary dimensions.
+Fava beans (*Vicia faba*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and [[crop-rotation-vegetable-garden]]. This page compares them across key agronomic and culinary dimensions.
 
 ## Botanical Overview
 
@@ -48,10 +48,10 @@ Fava beans are the largest-seeded cool-season legume and have an unusually large
 | **Temperature range** | 4–25 °C optimal | 15–30 °C optimal | 10–25 °C optimal |
 | **Frost tolerance** | High (survives to −10 °C) | Moderate (seedlings tolerate light frost) | Moderate (survives to −8 °C) |
 | **Heat sensitivity** | High — drops flowers above 25 °C | Moderate — tolerates heat if moisture adequate | Moderate — heat reduces seed fill |
-| **Photoperiod** | Long-day | Day-neutral to short-day | Day-neutral |
+| **Photoperiod** | Long-day | Day-neutral to [[short-day-and-long-day-plant-classification]] | Day-neutral |
 | **Ideal rainfall** | 600–1000 mm | 400–600 mm | 300–500 mm |
 
-Fava beans thrive in cool, moist conditions and are well-suited to maritime and high-latitude temperate climates. Chickpeas and lentils are both adapted to drier conditions, with lentils being the most drought-tolerant of the three — a key reason for their importance in Mediterranean and South Asian agriculture.
+Fava beans thrive in cool, moist conditions and are well-suited to maritime and high-latitude temperate climates. Chickpeas and lentils are both adapted to drier conditions, with lentils being the most [[drought-tolerant-planting-design]] of the three — a key reason for their importance in Mediterranean and South Asian agriculture.
 
 ### Soil Requirements
 
@@ -75,7 +75,7 @@ All three form symbiotic relationships with rhizobia, but their fixation capacit
 | **Residual N benefit** | High | Moderate | Low to moderate |
 | **%N from fixation** | 60–80% | 50–70% | 40–60% |
 
-Fava beans are the strongest nitrogen fixers of the three, capable of contributing 200–350 kg N/ha under ideal conditions. This makes them the best choice for building soil nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
+Fava beans are the strongest nitrogen fixers of the three, capable of contributing 200–350 kg N/ha under ideal conditions. This makes them the best choice for [[building-soil-fertility-long-term]] nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
 
 ## Yields
 
@@ -142,33 +142,6 @@ Ascochyta blight is a shared threat across all three, though caused by different
 | **Soil organic matter** | Excellent builder | Moderate builder | Low builder |
 | **Erosion control** | Good (dense canopy) | Fair | Poor (sparse canopy) |
 | **Residual N for following crop** | 50–100+ kg/ha | 30–60 kg/ha | 20–40 kg/ha |
-| **Ease of termination** | Easy (frost kills) | Easy (maturity/chemical) | Easy (maturity/chemical) |
-
-Fava beans are the strongest cover crop of the three, producing abundant biomass and leaving substantial nitrogen for subsequent crops. They are particularly valued in temperate organic systems. Lentils have limited cover crop utility due to low biomass, though they still provide rotational benefits. Chickpeas are a reasonable middle ground.
-
-## Suitability by Climate Zone
-
-| Climate Zone | Best Choice | Rationale |
-|-------------|-------------|-----------|
-| **Cool maritime (NW Europe, NZ)** | Fava bean | Tolerates cool, wet conditions; long growing season |
-| **Mediterranean** | Chickpea or lentil | Both handle terminal drought; chickpea preferred on deeper soils |
-| **Continental cold (northern US, Canada)** | Fava bean or lentil | Both tolerate frost; fava on heavier soils, lentil on lighter |
-| **Arid/semi-arid (India, Australia)** | Chickpea or lentil | Lentil most drought-tolerant; chickpea better on stored soil moisture |
-| **Subtropical (winter-grown)** | Chickpea | Best adapted to warm winters with cool nights |
-| **High-altitude tropics (Ethiopia, Andes)** | Fava bean or lentil | Both perform well at elevation; fava bean is a traditional Andean crop |
-
-## Summary
-
-Each of these legumes occupies a distinct agronomic niche:
-
-- **Fava beans** excel where biomass, nitrogen contribution, and cool-season tolerance are priorities. Their high yield potential and frost tolerance make them ideal for temperate and high-latitude regions, but they struggle in heat and drought.
-
-- **Chickpeas** offer the best balance of yield, drought tolerance, and market versatility. They are the most widely traded of the three and adapt well to Mediterranean and subtropical conditions with winter growing seasons.
-
-- **Lentils** are the most water-efficient and have the fastest time to maturity, making them ideal for short-season or water-limited environments. Their nutritional density per hectare is excellent, though their low biomass limits their value as a cover crop.
-
-Choosing between them depends primarily on climate, water availability, soil type, and the farmer's rotational and market objectives.
-
 ## See Also
 
 - [[cover-crops-green-manures]]

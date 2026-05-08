@@ -69,7 +69,7 @@ high. THC content is approximately 16%.
 The Amnesia family represents one of the most commercially successful branches of the Haze
 tree, particularly in European markets where it dominates coffee shop menus.
 
-### Amnesia Haze
+### [[amnesia-haze]]
 
 One of the most popular strains in European coffee shops, Amnesia Haze has become synonymous
 with potent sativa cannabis. It is widely grown in hydroponic systems and thrives under intense
@@ -108,7 +108,7 @@ varieties and remains highly sought after by collectors and breeders.
 Medical Seeds Company of Spain created Y Griega by crossing Kali Mist with Amnesia. With THC
 content reaching an extraordinary 27.12%, Y Griega is one of the most potent sativa-dominant
 strains documented in the literature. The plant can reach 11 feet outdoors but can be managed
-indoors through ScrOG and Low Stress Training techniques.
+indoors through ScrOG and [[low-stress-training]] techniques.
 Flowering runs 90 days, with every inch of stem covered in thick white-haired buds by the end.
 The classic Haze scent sends expectations soaring, and then the high throws you up into the air
 to smash them into a million pieces — a bolt of energy followed by a gentle descent into a
@@ -116,7 +116,7 @@ relaxing bubble hours later. As with all Medical Seeds Company strains, Y Griega
 hash and oil.
 (Section truncated for length.)
 
-## Jack Herer Lineage
+## [[jack-herer]] Lineage
 
 Named after the legendary cannabis activist and author of "The Emperor Wears No Clothes," the
 Jack Herer line is one of the most commercially significant Haze descendants.
@@ -134,50 +134,7 @@ The spicy Haze taste gives way to a citrus aftertaste, and the powerful head hig
 with incredible force. Sannie's Seeds are regarded as keepers of the Holy Grail in the cannabis
 (Section truncated for length.)
 
-## Super Silver Haze Descendants
-
-### Super Lemon Haze
-
-Green House Seed Company's Super Lemon Haze crosses Lemon Skunk with Super Silver Haze. This
-medium-height plant finishes in 10 weeks indoors and can yield up to 800 grams per square yard
-indoors or 1200 grams per plant outdoors.
-The intense lemony flavor with Haze undertones delivers a social, physically relaxed yet mentally
-elevated experience. THC content is approximately 19.33% with CBD at 0.21%. Widely regarded as
-a modern classic, Super Lemon Haze was one of the first strains where many consumers could taste
-a distinct, identifiable flavor — that lemon cutting right through everything else.
-
-### Temple
-
-Bodhi Seeds combined Mr. Nice's Super Silver Haze with William's Wonder to create Temple. This
-sativa-dominant strain stays at medium height with thin, pale green serrated leaves and flowers
-in just 9 to 10 weeks — surprisingly fast for a Haze descendant.
-The colas are described as massive. The high varies by phenotype but is generally social and
-celebratory with citrus Haze flavors that make everyone smile like they are at the Mad Hatter's
-tea party. An excellent high from a stellar breeder.
-
-### Silver Star Haze
-
-The Bulldog Seeds of Holland combined Skunk #1, Northern Lights, and original Haze to create
-Silver Star Haze. This relatively compact strain flowers in 10 to 11 weeks and yields heavily —
-up to 700 grams per square yard indoors. THC content is approximately 19.12% with CBD at
-0.15%. The taste blends Skunk and Haze, while the high is a euphoric sativa head effect.
-
-## Growing Haze-Influenced Strains
-
-Haze genetics present specific cultivation challenges that growers should understand before
-attempting these strains:
-- **Height management**: Most Haze-descended strains exhibit significant stretch; indoor
-  growers must manage light proximity carefully to prevent plants from outgrowing their space
-- **Flowering time**: Expect 9 to 16 weeks, with pure Haze expressions at the longer end of
-  the spectrum
-- **Support**: Heavy colas require staking, especially in the final weeks of flowering when
-  buds gain considerable weight and branches may struggle
-- **Odor control**: Charcoal filters are essential for most Haze varieties due to their
-  intensely pungent aromas that develop early in flowering
-- **Nutrient sensitivity**: Many Haze strains prefer lighter feeding schedules; overfeeding
-  can actually reduce quality and yields
-- **Training**: ScrOG, SOG, and LST techniques are highly effective for managing Haze vigor
-  in confined indoor spaces
+## [[super-silver-haze]] Descendants
 
 ## See Also
 

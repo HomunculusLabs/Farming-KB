@@ -11,15 +11,11 @@ sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 
 Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban Permaculture: Guerilla Gardening" -- a DIY Skillshare Conference reader.
 
-
-
 ## Philosophy
 
 "We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
 
 The approach combines permaculture principles with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
-
-
 
 ## Urban Growing Potential
 
@@ -34,8 +30,6 @@ Cities offer enormous untapped potential:
 - **Grafting** good fruit tree scion wood onto existing crab apples in alleyways or non-fruiting cherries and peaches in parks
 - **Salvaged materials** -- bathtubs, tires, milk crates, refrigerators -- can be used as planters
 
-
-
 ## Key Principles from the Forest
 
 ### Edge
@@ -46,8 +40,6 @@ Cities offer enormous untapped potential:
 
 ### Closed Loops
 "Moving the chickens to where the corn was growing the year before and keep rebuilding the fertility. Just like in the forest, we're in the process of creating a long term self-sustaining cycle filled with different interconnected elements."
-
-
 
 ## Practical Approaches
 
@@ -60,8 +52,6 @@ Related to [[clay-ball-seed-pellets|Fukuoka's clay pellets]], seed bombs can be 
 ### Community Gardens
 Starting community gardens on abandoned land, building compost systems from organic waste, and creating shared food-growing spaces.
 
-
-
 ## Species for Urban Conditions
 
 ### Species for Very Dry Sites
@@ -73,13 +63,9 @@ Blackberry, willow, elderberry, and other moisture-loving plants.
 ### Bee Forage for Urban Areas
 Black locust, clover, comfrey, dandelion, fruit trees, hawthorn, lavender, raspberry, rosemary, sage, tagasaste, and many others.
 
-
-
 ## Social Dimension
 
 "It's so important to bring this stuff into the city, bridge connections between people of different generations and cultures, teach the kids that there's more to life than concrete and hate and fear."
-
-
 
 ## Related
 

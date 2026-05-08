@@ -20,7 +20,7 @@ type: concept
 
 Between 1969 and 1975, the non-traditional use of psychoactive mushrooms
 increased rapidly in Australia. Heavy rains in the spring of 1969 produced
-bumper crops of [[psilocybe-cubensis-profile]], and large quantities were consumed by
+bumper crops of [[psychedelic-mushrooms-species-and-identification]], and large quantities were consumed by
 hundreds of drug users who ate them raw, with or on toast, or in soup. These
 users described their effects as being similar to LSD, but more natural.
 Government authorities claimed that popularity diminished by the end of 1969
@@ -28,7 +28,7 @@ as some regular users began experiencing extreme depression and lethargy, with
 some even reporting they had "lost their will to live."
 
 By March 1971, an export market was established by dealers who made
-[[psilocybe-cubensis-profile]] available in Sydney and other major Australian cities.
+[[psychedelic-mushrooms-species-and-identification]] available in Sydney and other major Australian cities.
 By 1972, Tasmanian authorities became concerned that widespread collection
 would attract visitors from the mainland. Dr. Malcolm Hall stated in 1973
 that "exportation of fungi from Tasmania to the mainland is highly likely, as
@@ -55,7 +55,7 @@ By 1973, only 27 persons were charged with psilocybian offenses.
 Each Australian state has enacted legislation controlling psychoactive
 substances and their analogues. Notable legal frameworks include:
 
-- Queensland: The only state to declare a specific mushroom, [[psilocybe-cubensis-profile]]
+- Queensland: The only state to declare a specific mushroom, [[psychedelic-mushrooms-species-and-identification]]
   (Earle) Singer, as a prohibited "plant" under the Queensland Health Act of
   1937-1971.
 
@@ -77,8 +77,8 @@ season.
 
 ## New Zealand Legislation
 
-In New Zealand, the Misuse of Drugs Act of 1975 declared [[psilocybe-mexicana-profile]]
-Heim and [[psilocybe-cubensis-profile]] -- neither of which have ever been found
+In New Zealand, the Misuse of Drugs Act of 1975 declared [[psychedelic-mushrooms-species-and-identification]]
+Heim and [[psychedelic-mushrooms-species-and-identification]] -- neither of which have ever been found
 growing naturally in NZ (though the latter has been intercepted in mail) -- as
 prohibited plants. Psilocybine and psilocine were classified as Class A
 substances.
@@ -114,7 +114,7 @@ closets, not as easily detected as a field of cannabis.
 ## International Comparison
 
 In Florida, Great Britain, and Holland, possession of fresh psilocybin
-mushrooms was at times not an illegal act. Cultivation of [[psilocybe-cubensis-profile]]
+mushrooms was at times not an illegal act. Cultivation of [[psychedelic-mushrooms-species-and-identification]]
 was legal in England, and psilocybian mushrooms (fresh and dried) were legally
 sold in Holland. Judges in these areas ruled that psilocybine and psilocine
 are chemicals, and mushrooms -- regardless of psychoactive content -- are
@@ -134,5 +134,5 @@ treatment and death.
 
 - [[psychedelic-research-legal-history-united-states]] -- comparative US
   legal history
-- [[psilocybe-cubensis-profile]] -- the primary legally targeted species
+- [[psychedelic-mushrooms-species-and-identification]] -- the primary legally targeted species
 - [[psilocybian-mushroom-poisoning-australia]] -- case histories

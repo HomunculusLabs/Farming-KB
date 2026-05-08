@@ -130,4 +130,4 @@ trees can manage themselves.
 - fukuoka pruning fruit tree natural management
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]

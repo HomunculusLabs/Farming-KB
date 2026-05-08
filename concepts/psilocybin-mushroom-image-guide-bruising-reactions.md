@@ -58,7 +58,7 @@ Species documented in the guide known for prominent blue bruising:
 - [[panaeolus-subbalteatus]] (=cinctulus): bruising can be subtle
   or absent, making spore print identification more critical
   for this species
-- [[gymnopilus-spectabilis]]: may show greenish bruising rather than
+- [[gymnopilus-spectabilis-entity]]: may show greenish bruising rather than
   the typical blue; this is a different enzymatic reaction and
   should not be confused with psilocin oxidation
 

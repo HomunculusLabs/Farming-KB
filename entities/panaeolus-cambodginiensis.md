@@ -66,7 +66,7 @@ Fruiting occurs in scattered groups or clusters directly on dung pats, sometimes
 
 ## Bioactive Compounds
 
-*Panaeolus cambodginiensis* contains [[psilocybin]] and [[psilocin]] as its primary psychoactive constituents.
+*Panaeolus cambodginiensis* contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive constituents.
 
 Psilocybin content ranges from approximately 0.3-0.9% of dried material, making it a moderately potent species.
 
@@ -116,7 +116,7 @@ The species is less commonly cultivated than *P. cubensis* due to more demanding
 
 - [[panaeolus-cyanescens]] — blue meanies, closely related coprophilous psilocybin species
 - [[psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite of psilocybin
 - [[baeocystin]] — minor psychoactive alkaloid
-- [[coprinus-comatus]] — shaggy ink cap, another coprophilous-associated mushroom
+- [[coprinus-comatus-detailed]] — shaggy ink cap, another coprophilous-associated mushroom

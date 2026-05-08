@@ -17,7 +17,7 @@ type: concept
 
 # Fertilizer Acidification and Trace Element Deficiency in Crop Nutrition
 
-Masanobu Fukuoka provides a detailed critique of chemical fertilizer use in *The Natural Way of Farming*, focusing on how the three major fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — systematically acidify soil and create cascading trace element deficiencies that undermine crop health. His analysis draws from decades of orchard observation and challenges the assumption that fertilizer inputs are beneficial to agriculture.
+[[masanobu-fukuoka]] provides a detailed critique of chemical fertilizer use in *The Natural Way of Farming*, focusing on how the three major fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — systematically acidify soil and create cascading trace element deficiencies that undermine crop health. His analysis draws from decades of orchard observation and challenges the assumption that fertilizer inputs are beneficial to agriculture.
 
 ## The Sulfuric Acid Burden
 
@@ -70,7 +70,7 @@ He noted the farmer's common rationalization: "Chemical fertilizers do cause som
 
 Fukuoka highlighted a fundamental bias in agricultural science: scientists hardly ever run experiments on no-fertilizer cultivation. In Japan, only a handful of reports had been published on fruit trees without fertilizer in small concrete enclosures and earthen pots. The reason is clear: scientists work from the premise that crops are to be grown with fertilizer, viewing no-fertilizer tests as "idiotic and dangerous."
 
-The standard on which fertilizer experiments should be based is no-fertilizer tests, but three-element tests using nitrogen, phosphorus, and potassium are the standard actually used. Scientists claim that trees grow only about half as much without fertilizer, but the conditions under which these experiments were conducted have little in common with true natural farming. When crops are planted in small earthenware pots or artificial enclosures, the soil in which they grow is dead soil. The growth of trees whose roots are boxed in by concrete is highly unnatural.
+The standard on which fertilizer experiments should be based is no-fertilizer tests, but three-element tests using nitrogen, phosphorus, and potassium are the standard actually used. Scientists claim that trees grow only about half as much without fertilizer, but the conditions under which these experiments were conducted have little in common with true [[natural-farming]]. When crops are planted in small earthenware pots or artificial enclosures, the soil in which they grow is dead soil. The growth of trees whose roots are boxed in by concrete is highly unnatural.
 
 ## The Living Soil Alternative
 
@@ -109,11 +109,11 @@ during preparation of the compost — frequent turning of the pile, methods
 for stimulating aerobic bacteria, the addition of water and nitrogenous
 fertilizers, lime, super-phosphate, rice bran, manure, and so forth — all
 this trouble is taken just for a slight acceleration in response. Because
-the net effect is to speed up decomposition by at most ten to twenty
+the net effect is to speed up [[decomposition]] by at most ten to twenty
 percent, this can hardly be called necessary.
 
 Fukuoka stated firmly: "While compost itself is not without value, the
-composting of organic materials is fundamentally useless." The surest way
+[[composting]] of organic materials is fundamentally useless." The surest way
 to solve the problem is to apply a method that adapts to the circumstances
 and follows nature.
 
@@ -148,6 +148,3 @@ This analysis of fertilizer damage is central to Fukuoka's broader argument for 
 
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-soil-self-improvement-without-tillage]]
-- [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
-- [[fukuoka-fertilizer-critique-detailed]]
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]

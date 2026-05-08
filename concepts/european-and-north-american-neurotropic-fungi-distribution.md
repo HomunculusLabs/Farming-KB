@@ -89,7 +89,7 @@ are primarily Pacific Northwest species.
 The eastern deciduous forests support fewer species but include some notable taxa. [[psilocybe-caerulipes]] is
 found in deciduous forests from Georgia and Florida north to Maine and Ontario, Canada. [[psilocybe-weilii]] was
 described from Georgia by Stamets (1996) and Guzmán et al. (1997). [[psilocybe-quebecensis]] is a Canadian endemic
-from Quebec, related to the Mexican P. aztecorum. [[psilocybe-tampanensis]] was originally described from Florida
+from Quebec, related to the Mexican P. aztecorum. [[psilocybe-tampanensis-entity]] was originally described from Florida
 and is famous for producing sclerotia, commonly sold as "magic truffles" in the Netherlands.
 
 ### Southeastern and Gulf Coast Species

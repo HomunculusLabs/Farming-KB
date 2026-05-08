@@ -148,4 +148,3 @@ capture the full genetic diversity within fungal species and genera.
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[gadd-arbuscular-mycorrhizal-genomics]]
 - [[gadd-fungal-multilocus-sequence-typing]]
-- [[gadd-fungal-species-recognition]]

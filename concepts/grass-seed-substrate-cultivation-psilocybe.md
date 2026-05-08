@@ -147,9 +147,3 @@ biology and harvest techniques.
 - [[grass-seed-substrate-species-compatibility]]
 
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]] Concepts
-
-- [[casing-layer-preparation]]: Casing soil recipes and application.
-- [[fruiting-chamber-setup]]: Simple plastic bin fruiting containers.
-- [[sclerotia-cultivation]]: Sclerotia formation, species, and harvest.
-- [[light-basidiocarp-initiation-psilocybe-cubensis-research]]: Light
-  requirements for fruiting body initiation in *P. cubensis*.

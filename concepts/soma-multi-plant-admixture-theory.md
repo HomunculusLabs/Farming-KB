@@ -12,7 +12,7 @@ James Arthur's "Mushrooms and Mankind" proposes a novel theory that the legendar
 
 ## The Problem with Single-Plant Candidates
 
-Arthur observes that the search for Soma's botanical identity has produced several compelling but ultimately unsatisfying candidates. [[wasson-hofmann-ruck-collaboration]] case for the [[amanita-muscaria-in-eastern-religions]] is very convincing but "certainly not the end of the story." Flattery and Schwartz have made a good case for Syrian Rue. [[terence-mckenna-stoned-ape-hypothesis]] and others have exhaustively covered the ecstatic visionary states produced by psilocybin mushrooms.
+Arthur observes that the search for Soma's botanical identity has produced several compelling but ultimately unsatisfying candidates. [[wasson-hofmann-ruck-collaboration]] case for the [[amanita-muscaria-in-eastern-religions]] is very convincing but "certainly not the end of the story." Flattery and Schwartz have made a good case for Syrian Rue. [[psychedelic-mushrooms-species-and-identification]] and others have exhaustively covered the ecstatic visionary states produced by psilocybin mushrooms.
 
 The problem, as Arthur frames it, is that individually each candidate falls short of producing the full described state of consciousness found in the religious texts. The experience achieved by each proposed single plant, while significant, does not match the comprehensive and transformative effects attributed to Soma in the Vedas.
 
@@ -87,7 +87,7 @@ complex botanical combinations in other indigenous entheogenic traditions.
 Amazonian Ayahuasca combines Banisteriopsis caapi (MAOI) with Psychotria
 viridis or Diplopterys cabrerana (DMT source), sometimes with additional
 admixture plants such as Datura, Nicotiana, or Brugmansia to modify the
-experience. The Mazatec sometimes combine [[psilocybe-mexicana-profile]] with tobacco and other plants in their ceremonies.
+experience. The Mazatec sometimes combine [[psychedelic-mushrooms-species-and-identification]] with tobacco and other plants in their ceremonies.
 Central American mushroom stones from the pre-Columbian period often
 depict composite figures that may encode multi-plant recipes. The [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] demonstrates that
 sophisticated pharmacological knowledge of plant combinations existed

@@ -24,23 +24,11 @@ sources:
 
 Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil.
 
-
-
-
-
-
-
 ## Context
 
 "Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to cannabis oil extraction and chemical modification, predating the modern commercial concentrate industry by decades.
 
 The pseudonym "Nicolas Flamel" references the legendary 14th-century French scribe and alchemist supposedly capable of transmuting base metals into gold -- appropriate for a book about transforming plant material into purified concentrates.
-
-
-
-
-
-
 
 ## Key Contributions
 
@@ -65,21 +53,9 @@ Documented a large-scale extraction apparatus built from two 55-gallon oil drums
 ### Solvent Comparison
 Provided practical comparison of extraction solvents: methanol (effective but toxic), isopropyl rubbing alcohol (accessible but extracts water-soluble impurities), ethanol (ideal but hard to obtain), and petroleum ether (most selective but dangerously explosive).
 
-
-
-
-
-
-
 ## Legacy
 
 The techniques described in Cannabis Alchemy -- particularly isomerization and honey oil production -- influenced the development of modern cannabis concentrate culture. The book's emphasis on safety (indirect heating, safety boxes, nitrogen atmosphere) established norms still referenced in extraction practice.
-
-
-
-
-
-
 
 ## See Also
 

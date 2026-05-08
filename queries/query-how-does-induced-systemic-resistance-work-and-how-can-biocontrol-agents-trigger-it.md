@@ -6,9 +6,9 @@ updated: 2026-04-28
 sources:
   - Pieterse CMJ, Zamioudis C, Berendsen RL, et al. Induced systemic resistance by beneficial microbes. Annual Review of Phytopathology. 2014;52:347-375.
   - Van Wees SCM, Van der Ent S, Pieterse CMJ. Plant immune responses triggered by beneficial microbes. Current Opinion in Plant Biology. 2008;11(4):443-448.
-  - Shoresh M, Harman GE, Mastouri F. Induced systemic resistance and plant responses to fungal [[dighton-mycorrhizae-pathogen-biocontrol-interactions|biocontrol agents]]. Annual Review of Phytopathology. 2010;48:21-43.
+  - Shoresh M, Harman GE, Mastouri F. Induced systemic resistance and plant responses to fungal [[dighton-mycorrhizae-pathogen-biocontrol-interactions]]. Annual Review of Phytopathology. 2010;48:21-43.
   - Ryu CM, Farag MA, Hu CH, et al. Bacterial volatiles promote growth in Arabidopsis. Proceedings of the National Academy of Sciences. 2003;100(8):4927-4932.
-  - Verhagen BWM, Trotel-Aziz P, Couderchet M, Höfte M, Aziz A. Pseudomonas spp.-[[endophytic-mycorrhizal-induced-systemic-resistance|induced systemic resistance]] to Botrytis cinerea is associated with induction and priming of [[mycorrhiza-induced-resistance-defense-priming|defense responses]] in grapevine. Journal of Experimental Botany. 2010;61(1):249-260.
+  - Verhagen BWM, Trotel-Aziz P, Couderchet M, Höfte M, Aziz A. Pseudomonas spp.-[[endophytic-mycorrhizal-induced-systemic-resistance]] to Botrytis cinerea is associated with induction and priming of [[mycorrhiza-induced-resistance-defense-priming]] in grapevine. Journal of Experimental Botany. 2010;61(1):249-260.
   - Conrath U, Beckers GJM, Flors V, et al. Priming: getting ready for battle. Molecular Plant-Microbe Interactions. 2006;19(10):1062-1071.
 type: query
 created: 2026-04-28
@@ -76,7 +76,7 @@ When a pathogen eventually attacks, the primed gene loci are transcribed 2–10�
 | *Trichoderma harzianum* | Chitin oligomers, xylanase, swollenin | Strong — among the best-studied ISR triggers | *Fusarium*, *Botrytis*, *Rhizoctonia*, leaf pathogens |
 | *Trichoderma asperellum* | Chitin, cell wall glycoproteins | Strong — root colonization specialist | Root pathogens, some foliar diseases |
 | *Trichoderma virens* | Gliotoxin (at sub-toxic levels), peptaibols | Moderate to strong | Damping-off, soil-borne fungi |
-| Arbuscular mycorrhizal fungi | Lipochitooligosaccharides (Myc-LCOs) | Moderate — slower onset than Trichoderma | Root pathogens, herbivores |
+| arbuscular-mycorrhizal-fungionization-patterns]]al-fungi-diversity]] | Lipochitooligosaccharides (Myc-LCOs) | Moderate — slower onset than Trichoderma | Root pathogens, herbivores |
 | *Pythium oligandrum* | Elicitin-like proteins (POD-1, Oligandrin) | Moderate | *Phytophthora*, *Botrytis* |
 
 ### Bacterial Biocontrol Agents
@@ -85,7 +85,7 @@ When a pathogen eventually attacks, the primed gene loci are transcribed 2–10�
 |---|---|---|---|
 | *Pseudomonas fluorescens* WCS417 | Flagellin, lipopeptides (massetolide) | Very strong — model ISR organism | *Fusarium*, *Alternaria*, *Pseudomonas syringae* |
 | *Bacillus subtilis* FB17 | Surfactin, fengycin, iturin lipopeptides | Strong — also produces VOCs | Damping-off, foliar pathogens |
-| *Bacillus amyloliquefaciens* | Surfactin, bacillomycin D | Strong | *Rhizoctonia*, *Fusarium*, leaf spot diseases |
+| *[[bacillus-amyloliquefaciens]]* | Surfactin, bacillomycin D | Strong | *Rhizoctonia*, *Fusarium*, leaf spot diseases |
 | *Bacillus velezensis* | Iturin, fengycin, bacillaene | Strong — broad-spectrum ISR | Multiple pathogens and herbivores |
 | *Serratia marcescens* | Chitinase, prodigiosin | Moderate | Soil-borne fungi, some insects |
 
@@ -127,7 +127,7 @@ There is no simple field test for ISR status, but these indicators suggest succe
 
 **Does ISR protect against all diseases?**
 
-No. ISR primarily enhances defense against **necrotrophic fungi** (*Botrytis*, *Alternaria*, *Sclerotinia*), some **bacterial pathogens**, and **chewing herbivores**. It is generally less effective against biotrophic pathogens (*powdery mildew*, *downy mildew*, rusts) and viruses, which are better controlled through SA-dependent SAR.
+No. ISR primarily enhances defense against **necrotrophic fungi** (*Botrytis*, *Alternaria*, *Sclerotinia*), some **bacterial pathogens**, and **chewing herbivores**. It is generally less effective against biotrophic pathogens (*powdery mildew*, *[[downy-mildew-biology-diversity-peronosporales]]*, rusts) and viruses, which are better controlled through SA-dependent SAR.
 
 **Can I over-apply biocontrol agents?**
 

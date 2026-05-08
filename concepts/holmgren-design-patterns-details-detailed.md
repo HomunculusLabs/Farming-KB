@@ -35,7 +35,7 @@ This bias towards short-term thinking within our own lifetimes has been describe
 
 Although physical scale is often a good indicator of functional scale in systems, this is not always the case. Predators are often a similar size to, or even smaller than, their prey, but they occupy much more territory and are less numerous. Thus Odum's description of "territory of influence and support", while not an immediately obvious characteristic, is a more accurate description of their relative power than physical size.
 
-[[permaculture-principle-design-from-patterns-to-details]] | [[permaculture-principles]] | [[zone-sector-analysis-guide]] | [[permaculture-earthworks-guide]] | [[permaculture-pattern-language]]
+[[permaculture-principle-design-from-patterns-to-details]] | [[permaculture-principles]] | [[zone-sector-analysis-guide]] | [[permaculture-water-harvesting-earthworks]] | [[permaculture-pattern-language]]
 
 ## Key Points
 
@@ -66,7 +66,7 @@ Although physical scale is often a good indicator of functional scale in systems
 - [[holmgren-vegetation-patterns-biomass-fertility]]
 - [[holmgren-small-slow-solutions-detailed]]
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

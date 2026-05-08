@@ -13,7 +13,7 @@ sources:
 
 ## Taxonomy
 
-Described by Guzman and Watling, the specific epithet *eucalypta* refers to the eucalypt forest habitat where the species was first documented. Allen notes that this species is "similar to Psilocybe cyanescens Wakefield," suggesting a close morphological relationship with the well-known northern hemisphere species. See [[psilocybe-cyanescens-profile]] for comparison with that species.
+Described by Guzman and Watling, the specific epithet *eucalypta* refers to the eucalypt forest habitat where the species was first documented. Allen notes that this species is "similar to Psilocybe cyanescens Wakefield," suggesting a close morphological relationship with the well-known northern hemisphere species. See [[psychedelic-mushrooms-species-and-identification]] for comparison with that species.
 
 The placement of *P. eucalypta* within the section *Cyanescens* of the genus *Psilocybe* has been proposed based on its morphological similarity to *P. cyanescens* and *P. subaeruginosa*. Molecular phylogenetic studies of Australasian Psilocybe species remain limited, and definitive placement awaits DNA sequencing of authenticated collections.
 

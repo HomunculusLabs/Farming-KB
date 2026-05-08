@@ -148,4 +148,3 @@ plans to ensure the long-term health of the region's ecosystems.
 - [[fungi-of-the-amazon-rainforest]]
 - [[mycorrhizal-fungi]]
 - [[bioluminescent-fungi]]
-- Termitomyces

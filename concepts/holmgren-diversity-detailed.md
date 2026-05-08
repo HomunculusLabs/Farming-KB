@@ -37,7 +37,7 @@ Where available resources are little differentiated into niches, a single genera
 
 Tropical rainforests, some of the most stable ecosystems, have high biodiversity. Large-scale climatic disturbance cycles periodically eliminate much of the biodiversity from temperate latitudes; in the tropics, evolving diversity can continue to accumulate.
 
-[[permaculture-principle-use-and-value-diversity]] | [[permaculture-principles]] | [[permaculture-principle-use-and-value-diversity]] | [[polyculture-design-hemenway]] | [[permaculture-earthworks-guide]]
+[[permaculture-principle-use-and-value-diversity]] | [[permaculture-principles]] | [[permaculture-principle-use-and-value-diversity]] | [[polyculture-design-hemenway]] | [[permaculture-water-harvesting-earthworks]]
 
 ## The Diversity-Stability Debate
 
@@ -106,7 +106,7 @@ Holmgren is careful to note that diversity has practical limits and costs:
 ## See Also
 - [[holmgren-small-slow-solutions-detailed]]
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

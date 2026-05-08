@@ -40,7 +40,7 @@ The syntheses documented in PIHKAL employ a range of hazardous chemicals and pro
 
 Many of the starting materials for phenethylamine synthesis are controlled substances or watched chemicals:
 
-- **Safrole/Isosafrole**: Precursors for MD family compounds ([[mda-compound-profile]], [[mdma-in-pihkal-context]])
+- **Safrole/Isosafrole**: Precursors for MD family compounds ([[ayahuasca-and-dmt-plant-medicine]], [[mdma-in-pihkal-context]])
 - **Piperonal (heliotropin)**: Used in various synthetic routes
 - **Anise oil**: Source of 4-methoxy-substituted precursors
 - **Hydroquinone and derivatives**: Used in some synthetic pathways

@@ -148,4 +148,3 @@ benefit from manure application. The two animals rarely conflict as long
 as chicken coops are not placed immediately adjacent to hive entrances,
 where bird activity could stress the colony. Together, they represent a
 complete approach to small-scale animal integration that provides
-protein (eggs), sweetener (honey), soil fertility, and pollination in a

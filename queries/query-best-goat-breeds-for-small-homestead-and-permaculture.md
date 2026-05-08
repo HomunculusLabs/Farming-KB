@@ -137,18 +137,6 @@ and permaculture integration.
 | Saanen | Dairy | 130–160 | 1,800–2,800 | 2.5–3 | Maximum production | Heat-sensitive |
 | Oberhasli | Dairy | 110–150 | 800–1,500 | 3–4 | Quiet homestead dairy | Cold-hardy |
 | Boer | Meat | 150–300 | — | — | Fast market gains | Needs shade |
-| Kiko | Meat | 120–180 | — | — | Low-input brush clearing | Heat tolerant |
-| Spanish | Meat | 100–170 | — | — | Hardiness, browse | Extremely adaptable |
-| Myotonic | Meat | 60–175 | — | — | Easy containment, meat | Hardy, adaptable |
-| Kinder | Dual | 100–150 | 500–1,200 | 3.5–4.5 | Homestead milk & meat | Hardy, adaptable |
-| Pygmy | Dual | 50–75 | 200–500 | 4.5–6 | Small acreage, pets | Hardy |
-
----
-
-*Last updated: 2026-04-28. Always verify breed suitability with local extension agents
-and experienced breeders in your region. Milk production varies by individual, diet,
-and management.*
-
 ## See Also
 
 - [[query-best-grain-legumes-for-a-small-homestead]]

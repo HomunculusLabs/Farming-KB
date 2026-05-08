@@ -134,7 +134,7 @@ reflection, or therapy enhances long-term benefits.
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[pf-tek-fruiting-chamber]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 - [[grain-spawn-preparation]]

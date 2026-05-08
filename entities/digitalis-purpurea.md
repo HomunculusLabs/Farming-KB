@@ -1,5 +1,5 @@
 ---
-title: "Digitalis purpurea"
+title: "digitalis purpurea"
 created: 2026-04-28
 type: species
 tags:
@@ -148,10 +148,3 @@ it. The seeds are too small to be significant food for birds.
 
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]]
 - [[claviceps-purpurea]]
-- [[echinacea-purpurea]]
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]]
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-
-- strophanthus kombe · convallaria majalis · nerium oleander
-- aconitum · taxus baccata

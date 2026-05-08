@@ -57,7 +57,7 @@ eukaryotes:
   environmental signals.
 
 - **Mitochondria**: Site of cellular respiration and ATP production through the
-  citric acid cycle and oxidative phosphorylation. Plant mitochondria also
+  citric acid cycle and [[oxidative-phosphorylation-mitochondrial-respiration]]. Plant mitochondria also
   participate in photorespiration and synthesis of some amino acids.
 
 - **Endoplasmic reticulum (ER)**: Rough ER synthesizes proteins for secretion or
@@ -102,9 +102,9 @@ living network. Plasmodesmata can be dynamically gated open or closed in respons
 to stress, infection, or developmental cues. Viruses exploit them to spread between
 cells; plants respond by plugging channels with callose (β-1,3-glucan).
 
-Plant cell walls are dynamic signaling platforms. Cell wall integrity is constantly
+[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls are dynamic signaling platforms. Cell wall integrity is constantly
 monitored by plasma membrane receptors, and damage triggers defense responses
-including reactive oxygen species and antimicrobial compound production. The middle
+including [[reactive-oxygen-species-and-oxidative-stress]] and antimicrobial compound production. The middle
 lamella (pectin-rich layer between cells) holds them together and is the target of
 pectinase enzymes that cause fruit softening during ripening.
 
@@ -177,7 +177,7 @@ phosphate conditions, indicating plants invest more in absorption when nutrients
 are scarce.
 
 **Trichomes** (epidermal outgrowths) serve diverse functions: glandular trichomes
-in mint and cannabis produce essential oils deterring herbivores; non-glandular
+in mint and cannabis produce [[essential-oils-and-hydrosol-distillation]] deterring herbivores; non-glandular
 trichomes on tomato create physical barriers against insects.
 
 ### Ground Tissue System
@@ -250,7 +250,7 @@ Vein density determines photosynthetic capacity.
 ### The Photosynthetic Process
 
 **Light-dependent reactions** (thylakoid membranes): Chlorophyll and accessory
-pigments absorb light, exciting electrons through an electron transport chain,
+pigments absorb light, exciting electrons through an [[electron-transport-chain-mitochondrial-respiration]] chain,
 generating ATP and NADPH while splitting water to release oxygen.
 
 **Calvin-Benson cycle** (stroma): RuBisCO fixes CO₂ using ATP and NADPH, producing
@@ -280,7 +280,7 @@ of CO₂, causing wasteful **photorespiration**. Different lineages evolved solu
 ## Root Systems and Water Relations
 
 Roots anchor plants, absorb water and minerals, store reserves, and host symbiotic
-soil microorganisms.
+[[soil-microorganisms-natural-fertility]].
 
 ### Root Architecture
 
@@ -339,7 +339,7 @@ bushier plants. Synthetic auxins (2,4-D, dicamba) are widely used herbicides.
 
 ### Gibberellins
 
-Diterpenoid hormones promoting stem elongation, seed germination, and flowering.
+Diterpenoid hormones promoting stem elongation, [[seed-germination-techniques-solomon]], and flowering.
 Stimulate α-amylase in germinating seeds, breaking starch into sugars. Dwarf crop
 varieties often have gibberellin pathway mutations. GA₃ is widely used in
 horticulture.
@@ -408,7 +408,7 @@ Plants monitor and respond to their environment through tropisms and nastic move
 - **Thigmonasty**: Rapid movements (Venus flytrap, Mimosa) via turgor changes in
   pulvini, propagated by electrical signals.
 - **Photoperiodism**: Day length measurement via phytochromes (Pr/Pfr interconversion)
-  controlling flowering. Short-day, long-day, and day-neutral species exist.
+  controlling flowering. [[short-day-and-long-day-plant-classification]], long-day, and day-neutral species exist.
 
 ## Nutrient Uptake and Assimilation
 

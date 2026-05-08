@@ -148,4 +148,3 @@ medium thoroughly.
 - [[cannabis-nutrient-lockout-and-ph]]
 - [[soil-ph-management]]
 - [[cannabis-chemical-burn-vs-deficiency]]
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]

@@ -148,6 +148,3 @@ success.
 
 - [[poria-cocos]] — Frequently combined in TCM diuretic formulas
 - [[grifola-frondosa]] — Close relative with overlapping immunomodulatory effects
-- [[polyporus-umbellatus]] — Often conflated in European literature
-- [[beta-glucans]] — Primary bioactive class shared with many medicinal fungi
-- [[lentinan]] — Structurally similar β-glucan from [[lentinula-edodes]]

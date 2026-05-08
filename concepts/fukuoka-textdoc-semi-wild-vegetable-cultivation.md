@@ -147,6 +147,3 @@ healthy soil containing all the necessary micronutrients, they are without quest
 healthy and nutritious food man can eat.
 
 ## See Also
-
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
-- [[fukuoka-natural-vegetable-growing]]

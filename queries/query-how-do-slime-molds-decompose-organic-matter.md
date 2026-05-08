@@ -1,7 +1,7 @@
 ---
 title: "How Do Slime Molds Decompose Organic Matter?"
 created: 2026-04-28
-tags: [query, mycology, soil-science, slime-molds, decomposition, soil-food-web]
+tags: [query, mycology, soil-science, slime-molds, [[decomposition]], soil-food-web]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -16,15 +16,15 @@ sources:
 type: query
 ---
 
-# How Do Slime Molds Decompose Organic Matter?
+# How Do [[slime-molds]] Decompose Organic Matter?
 
 ## Short Answer
 Slime molds decompose organic matter primarily during their **plasmodial stage**, a
 massive single-celled, multinucleate phase that creeps across decaying wood,
 leaf litter, and forest floor material. They feed through **phagocytosis** —
-engulfing bacteria, fungal spores, yeast, and small particles of organic matter.
+engulfing bacteria, [[fungal-spores]], yeast, and small particles of organic matter.
 They secrete enzymes that break down complex organics, accelerate nutrient
-cycling as bacterial predators in the soil food web, and contribute measurably
+cycling as bacterial predators in [[the-soil-food-web]], and contribute measurably
 to leaf litter and log decomposition, especially during warm, moist months.
 
 ## Q: How do slime molds feed?
@@ -83,7 +83,7 @@ their accumulated nutrients further up the food chain.
 Slime molds are not primary decomposers of lignocellulosic material in the way
 that white-rot and brown-rot fungi are. Instead, they are **secondary
 decomposers** that accelerate nutrient release by consuming the primary
-bacterial decomposers. They complement fungal decomposition rather than
+bacterial decomposers. They complement [[fungal-decomposition]] rather than
 competing with it directly.
 
 ## Q: What is their role in log and leaf litter decomposition?
@@ -114,7 +114,7 @@ Slime molds are integral to the **microbial loop** of forest floor nutrient
 cycling. They capture bacterial production — nutrients that would otherwise
 remain locked in bacterial biomass — and convert it into slime mold biomass
 accessible to larger soil organisms. When plasmodia die or are consumed, their
-nutrient-rich contents enter the broader soil food web. This process is
+nutrient-rich contents enter the broader [[soil-food-web]]. This process is
 particularly important for nitrogen and phosphorus cycling, as slime molds
 concentrate these elements from their bacterial prey and make them available
 at higher trophic levels. Their mobility allows them to move between nutrient
@@ -126,7 +126,7 @@ While slime molds are not intentionally inoculated into compost systems, their
 presence is generally a **positive indicator** of a healthy, biodiverse
 decomposition community. Compost piles supporting slime mold populations are
 likely to have active bacterial communities and adequate moisture — both
-essential for efficient composting. In agricultural and garden soils, the
+essential for efficient [[composting]]. In agricultural and garden soils, the
 presence of slime molds signals a functioning soil food web with intact
 predator-prey dynamics. Practices that support slime mold populations include
 maintaining adequate soil moisture, adding diverse organic matter (leaf litter,
@@ -148,11 +148,3 @@ supports slime mold activity.
   and bacterial decomposition of logs and leaf litter
 - Activity is **highly seasonal**, peaking in warm, moist conditions and
   persisting as dormant spores or sclerotia during cold or dry periods
-- Their presence in compost or soil is a **positive indicator** of a diverse,
-  functioning soil food web
-
-## See Also
-
-- [[composting]]
-- [[decomposition]]
-- [[fungal-decomposition]]

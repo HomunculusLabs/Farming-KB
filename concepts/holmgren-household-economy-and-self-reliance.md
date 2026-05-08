@@ -90,8 +90,8 @@ Howard and Elizabeth Odum's concept of "the prosperous road down" is central to 
 ## Source
 
 From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holmgren, Principles 2 (Catch and Store Energy), 3 (Obtain a Yield), 4 (Apply Self-regulation and Accept Feedback), 6 (Produce No Waste), and 9 (Use Small and Slow Solutions).
-- [[permaculture-principle-use-small-and-slow-solutions]]
-- [[permaculture-principle-catch-and-store-energy]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[permaculture-principle-apply-self-regulation]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[holmgren-catch-and-store-energy-detailed]]

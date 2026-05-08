@@ -135,49 +135,6 @@ operates as a tiny trampoline. The inner cup suddenly
 inverts, converting stored elastic energy into kinetic
 energy.
 The spore mass, called the gleba, is aimed toward light
-sources, which is why the fungus commonly stains
-light-colored building surfaces. The gleba adheres with
-extraordinary tenacity and cannot be removed without
-damaging the underlying surface.
-
-## Passive Dispersal Mechanisms
-
-Not all fungi actively discharge spores. Truffles
-produce spores underground and depend on mammals to
-dig them up and disperse spores through feces. The
-truffle's aroma mimics mammalian pheromones, ensuring
-attraction of specific animal vectors.
-Rust fungi produce spores in powdery pustules that
-are dispersed by wind when the host plant's canopy
-creates sufficient turbulence. Slime molds release
-spores from stalked fruiting bodies elevated above
-the substrate.
-
-## Atmospheric Transport
-
-Once airborne, spores become part of the atmospheric
-particle load. They are carried by wind, convection
-currents, and turbulent eddies. Some spores remain
-aloft for days and travel hundreds of kilometers.
-Fungal spores are ubiquitous in the atmosphere, detected
-at altitudes of thousands of meters and over open ocean
-far from any land surface. Spore deposition follows
-complex patterns determined by particle size, air
-density, humidity, and turbulence.
-
-## Evolution of Discharge Mechanisms
-
-The diversity of discharge mechanisms reflects
-independent evolutionary solutions to the common
-problem of getting spores off the ground. Ballistospore
-discharge evolved once in the basidiomycete lineage.
-Ascospore discharge evolved independently in
-ascomycetes. Splash mechanisms, puffball pores, and
-artillery launchers each represent separate innovations.
-The convergent evolution of diverse solutions to
-dispersal underscores its importance in fungal
-reproductive success.
-
 ## Related Concepts
 
 - Gasteromycetes and Stinkhorn Fungi
@@ -187,6 +144,6 @@ reproductive success.
 
 ## See Also
 
-- [[ballistospore-discharge]]
+- [[mushroom-cultivation-fundamentals]]
 - [[fungal-spores]]
 - [[mushroom-hunting-and-identification]]

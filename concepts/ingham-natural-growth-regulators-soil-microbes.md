@@ -148,4 +148,3 @@ leaf surface produce growth regulators locally. This can explain the
 rapid improvements in plant appearance often observed after foliar
 tea applications. The organisms arrive active and begin producing
 beneficial compounds immediately, providing the plant with a boost
-of growth regulators, enzymes, and protective compounds directly

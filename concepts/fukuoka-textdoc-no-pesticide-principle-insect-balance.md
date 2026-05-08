@@ -140,18 +140,6 @@ number of insect pests tends to be low. Some diseases and pests are common both
 to fruit trees and vegetables, and some are not. These in turn have a host of
 different natural enemies that emerge at various times of the year.
 
-As long as a balance is maintained between the fruit trees, the vegetables, the
-insect pests, and their natural predators, real damage from disease and insect
-attack can be prevented. In most cases, serious disease and pest damage in fruit
-trees is triggered by diminished tree vigor due to depleted soil fertility, a
-confused tree shape, poor ventilation, or inadequate light penetration.
-
-By looking with equal detachment at insects, which man categorizes as beneficial
-or harmful, people will see that this is a world of coexistence and mutual
-benefit, and will come to understand that farming methods which call for heavy
-inputs of fertilizer and energy can only succeed in robbing the land of its
-natural fertility.
-
 ## See Also
 
 - [[fukuoka-no-weeding-no-pesticides]]

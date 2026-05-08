@@ -25,7 +25,7 @@ created: 2026-04-28
 
 ## What Are Chill Hours and Why Do They Matter?
 
-Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7.2°C) that a deciduous fruit tree experiences each winter. Stone fruits require a minimum chill accumulation to break dormancy properly and produce a uniform, healthy bloom in spring. Trees that do not receive adequate chill hours may exhibit delayed foliation, reduced fruit set, poor fruit quality, and erratic blooming patterns.
+Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7.2°C) that a deciduous [[fruit-tree-grafting-guide]] experiences each winter. Stone fruits require a minimum chill accumulation to break dormancy properly and produce a uniform, healthy bloom in spring. Trees that do not receive adequate chill hours may exhibit delayed foliation, reduced fruit set, poor fruit quality, and erratic blooming patterns.
 
 Chill requirements vary widely among stone fruit species and individual cultivars, ranging from as few as 100 hours (for low-chill subtropical-adapted varieties) to over 1,000 hours (for cold-climate selections). Selecting varieties with chill requirements matched to your local climate is one of the most important decisions in orchard planning. See [[holzer-stone-fruit-varieties-and-growing]] for detailed chill hour tracking methods.
 
@@ -46,17 +46,17 @@ Zones 3–4 experience winter lows of -40°F to -20°F (-40°C to -29°C). Growi
 
 ### Disease Considerations
 
-Cold zones generally have lower disease pressure from bacterial canker and brown rot, but the short growing season increases risk of powdery mildew on susceptible varieties. Snow cover provides excellent winter mulch but can also promote rodent damage at the trunk base.
+Cold zones generally have lower disease pressure from bacterial canker and [[brown-rot-fungi-cellulose-degradation-wood-decay]], but the short growing season increases risk of [[powdery-mildew-cannabis]] on susceptible varieties. Snow cover provides excellent winter mulch but can also promote rodent damage at the trunk base.
 
 ---
 
 ## USDA Zones 5–6: Temperate Cold Climates
 
-Zones 5–6 (-20°F to 0°F / -29°C to -18°C) represent the classic temperate fruit-growing regions. Most commercial stone fruit production in North America falls within these zones, offering the widest selection of varieties.
+Zones 5–6 (-20°F to 0°F / -29°C to -18°C) represent the classic temperate [[fruit-growing-guide-organic]] regions. Most commercial stone fruit production in North America falls within these zones, offering the widest selection of varieties.
 
 ### Recommended Varieties
 
-- **Peaches:** Elberta (800–950), Redhaven (800–850), Madison (700–850), Cresthaven (850–950). Redhaven is widely considered the benchmark home-garden peach.
+- **Peaches:** Elberta (800–950), Redhaven (800–850), Madison (700–850), Cresthaven (850–950). Redhaven is widely considered the benchmark [[home-garden-seed-saving]] peach.
 - **Plums:** Stanley (800–1,000), Green Gage (700–900), Methley (400–600), Santa Rosa (400–600). European and Japanese types both perform well, with Japanese plums blooming earlier.
 - **Cherries (Sweet):** Bing (700–900), Lapins (500–700), Stella (500–700), Rainier (600–700). Self-fertile varieties like Lapins and Stella simplify pollination.
 - **Cherries (Sour/Tart):** Montmorency (800–1,000), Balaton (700–900), Evans (700–900).

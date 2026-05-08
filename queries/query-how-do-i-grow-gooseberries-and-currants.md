@@ -148,29 +148,3 @@ Choose disease-resistant varieties — they dramatically reduce maintenance for 
 Yes, both grow well in containers — an excellent option for small gardens, patios, or poor soil areas.
 
 **Container requirements**: Minimum 18-24 inches diameter/depth for gooseberries; 16-20 inches for currants. Use loam-based potting mix with 20% perlite for drainage. Ensure drainage holes are clear; raise pots on feet.
-
-**Container care**:
-
-- Water regularly — check daily in summer. Feed every 2-3 weeks with liquid organic fertilizer or compost tea.
-- Mulch the surface with compost. Prune slightly more aggressively than in-ground plants to control size.
-- Move to a sheltered spot in winter to prevent freeze-thaw cycles, or insulate with burlap. Repot every 3-4 years, trimming roots by one-third.
-
-Compact varieties like 'Ben Sarek' (black currant) and 'Pixwell' (gooseberry) are best for containers.
-
-## How Do I Harvest and Handle the Fruit?
-
-**Timing**: Gooseberries ripen over weeks; pick green culinary berries early, then let later fruit sweeten. Red and white currants are ready when fully colored and translucent. Black currants should be deep, glossy black with slight give — usually 2-3 weeks after turning black.
-
-**Harvest technique**:
-
-- Pick currants as whole strigs for efficiency. Gooseberries are picked individually; wear gloves with thorny varieties.
-- Harvest in the morning after dew dries. Pick over bushes 2-3 times for staggered ripening.
-- **Yields**: Established bushes produce 4-8 pounds annually; black currants are typically heaviest.
-
-**Storage and use**:
-
-- Refrigerate immediately; fresh berries last 1-2 weeks at 34-38°F. Freeze on sheet pans for 12+ month storage.
-- Gooseberries are excellent for pies, crumbles, chutneys, and jams. Red and white currants make stunning jellies, syrups, and garnishes.
-- Black currants are prized for juice, cordials, wine, and preserving. Currant leaves make a fragrant tea.
-
-See [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]] for general preservation principles applicable to soft fruit.

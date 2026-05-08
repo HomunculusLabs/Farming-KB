@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # Self-Transforming Machine Elves
 
-Self-transforming machine elves are the hyperdimensional entities consistently encountered during [[dmt]] experiences. First described by Terence McKenna in The Invisible Landscape (co-authored with his brother Dennis McKenna), these entities represent one of the most reproducible and puzzling features of the [[tryptamine hallucinogens|tryptamine]] phenomenological spectrum.
+Self-transforming machine elves are the hyperdimensional entities consistently encountered during [[dmt]] experiences. First described by Terence McKenna in The Invisible Landscape (co-authored with his brother Dennis McKenna), these entities represent one of the most reproducible and puzzling features of the [[tryptamine-hallucinogens|tryptamine]] phenomenological spectrum.
 
 Their consistent appearance across independent reports makes them a uniquely significant phenomenon in the study of altered states of consciousness.
 
@@ -56,7 +56,7 @@ This repeated failure of language generates the "wow" or "flutter" that builds i
 
 McKenna compared this to Philo Judaeus's description of the Logos "when it became perfect," which passes "from things heard to things beheld." The elves' language is simultaneously heard and beheld, conveying meaning-toned, three-dimensional rotating complexes of transforming light and color.
 
-This synesthetic quality, where language becomes visual and vision becomes linguistic, is a hallmark of the [[tryptamine hallucinogens|tryptamine]] state.
+This synesthetic quality, where language becomes visual and vision becomes linguistic, is a hallmark of the [[tryptamine-hallucinogens|tryptamine]] state.
 
 ## The Aeon at Play
 

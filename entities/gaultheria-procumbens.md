@@ -1,11 +1,11 @@
 ---
-title: "Gaultheria procumbens"
+title: "gaultheria procumbens"
 created: 2026-05-06
 type: species
 tags:
   - herbal-plant
   - ericaceae
-  - permaculture
+  - [[permaculture]]
   - groundcover
   - wintergreen
   - north-american-native
@@ -20,24 +20,23 @@ sources:
   - USDA NRCS (2024). "Plant Guide: Gaultheria procumbens." plants.usda.gov.
   - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural Ingredients." Wiley.
 ---
-
 ## Overview
 
 *Gaultheria procumbens*, commonly known as eastern teaberry, wintergreen,
 or checkerberry, is a low-growing evergreen shrub in the family Ericaceae.
 
-It is native to eastern North America, from Newfoundland west to Manitoba
+It is native to [[polypore-fungi-eastern-north-america]], from Newfoundland west to Manitoba
 and south to Georgia and Alabama, inhabiting acidic forest understories.
 
-The species is renowned for its wintergreen-flavored leaves and berries,
+The species is renowned for its wintergrehol [[soft-fruit-growing-organic]] ruit-bushes-and-berries]] lea [[holzer-soft-fruit-bushes-and-berries]] ries,
 which contain methyl salicylate, the same compound synthesized in aspirin.
 
-Indigenous peoples of eastern North America used wintergreen extensively
+Indigenous peoples of east [[palmer-edible-mushrooms-north-america]] rica used wintergreen extensively
 for pain relief, fever reduction, and respiratory complaints, practices
-later adopted by European settlers and incorporated into mainstream
+later adopted by European settlers ab [[mollison-permaculture-two-sewage-waste-treatment]] ture-a-designers-manual-[[pattern-understanding-in-ecological-design]]-in-permaculture]] into mainstream
 pharmacopeias.
 
-In permaculture and ecological landscaping, *G. procumbens* is valued as
+[[water-harvesting-and-conservation-in-permaculture]] and ecological landscaping, *G. procumbens* is valued as
 a shade-tolerant, evergreen groundcover that thrives in acidic soils where
 few other groundcovers succeed.
 
@@ -140,19 +139,11 @@ mammals such as chipmunks and deer mice.
 White-tailed deer browse the foliage moderately, and the plant
 recovers readily from browsing due to its rhizomatous growth habit.
 
-In permaculture design, wintergreen is used as a shade-tolerant
+In [[permaculture-design]], wintergreen is used as a shade-tolerant
 living mulch beneath fruit trees and in forest garden understories.
 
 It requires minimal maintenance once established, fixes no nitrogen
-but partners with ericoid mycorrhizal fungi to access nutrients in
+but partners with ericoid [[mycorrhizal-fungi]] to access nutrients in
 acidic soils.
 
 Its evergreen habit provides year-round visual interest and soil
-stabilization.
-
-## See Also
-
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[herbal-baths-and-hydrotherapy]]
-- [[herbal-salves-and-balms]]
-- [[herbal-materia-medica]]

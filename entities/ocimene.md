@@ -148,4 +148,3 @@ complex layered aroma.
 - [[caryophyllene-oxide]]
 - [[geraniol]]
 - [[nerolidol]]
-- [[guaiol]]

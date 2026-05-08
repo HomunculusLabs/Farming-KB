@@ -119,4 +119,4 @@ The growing interest in natural products for cognitive enhancement has positione
 - [[pausinystalia-yohimbe]]
 - [[erythroxylum-coca]]
 - [[ipomoea-tricolor]]
-- [[ergine]]
+- [[ergine-entity]]

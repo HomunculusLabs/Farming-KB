@@ -107,4 +107,4 @@ Natural nut butters will separate over time, with the oil rising to the top. Thi
 ## See Also
 - [[granola-making]] — homemade granola pairs perfectly with nut butters
 - [[dried-herb-storage]] — principles of storing homemade food products
-- [[pickle-making]] — other homestead fukuoka tasty rice projects
+- pickle making — other homestead fukuoka tasty rice projects

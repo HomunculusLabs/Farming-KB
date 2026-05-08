@@ -131,18 +131,6 @@ traditions of psychoactive mushroom use:
 
 ## Key Theories and Positions
 
-Samorini's intellectual framework rests on several interconnected propositions:
-
-1. **Psychedelic use is biologically innate:** The drive to alter
-   consciousness predates human culture and is observable across species
-2. **Mushroom use is ancient and universal:** Archaeological evidence
-   (Tassili, Greek, Minoan art) demonstrates use extends back 7,000–9,000
-   years across multiple continents
-3. **Entheogens shaped religion:** Many religious traditions originated
-   in or were influenced by psychedelic experiences
-4. **Prohibition is biologically irrational:** Drug prohibition contradicts
-   fundamental aspects of human and animal biology
-
 ## Related Figures
 
 - **Jonathan Ott:** Closest intellectual collaborator; shared focus on

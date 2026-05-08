@@ -148,8 +148,3 @@ Cut morels at the base rather than pulling; leave smaller specimens to ensure sp
 - [[morchella-angusticeps]]
 - [[stamets-morel-morchella-cultivation]]
 - [[morchella-esculenta]]
-
-- [[morchella-esculenta]] — Yellow/white morel, the other major morel species
-- [[gyromitra-esculenta]] — False morel, a toxic lookalike (caution)
-- [[boletus-edulis]] — King bolete, another prized spring edible mushroom
-- [[cantharellus-cibarius]] — Golden chanterelle, companion spring mushroom

@@ -112,5 +112,5 @@ Healthy strains begin with rhizomorphic mycelium, then after months of transfers
 - [[gourmet-mushroom-strain-selection]]
 - [[mushroom-cultivator-strain-selection]]
 - [[mushroom-stock-culture-preservation]]
-- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-yield-optimization]]

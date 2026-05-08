@@ -10,7 +10,7 @@ sources: []
 
 Agricultural management practices profoundly influence soil fungal communities. The contrast between monoculture and polyculture systems reveals how plant diversity and management intensity affect fungal biodiversity and ecosystem function.
 
-[[fungal-diversity-agricultural-systems]] [[fungal-biodiversity-soil-habitats]] [[fungal-community-assembly]]
+[[fungal-diversity-agricultural-systems]] [[the-soil-food-web]] [[fungal-community-assembly]]
 
 ## Monoculture Effects on Fungal Diversity
 
@@ -18,7 +18,7 @@ Monoculture systems, in which a single crop species is grown repeatedly on the s
 
 Long-term monoculture can lead to accumulation of crop-specific pathogens and reduction of beneficial mycorrhizal fungi. The fungal communities of agricultural soils under continuous monoculture often show dominance by a few opportunistic species.
 
-[[fungal-biodiversity-soil-habitats]] [[fungal-pathogens-in-agriculture]]
+[[the-soil-food-web]] [[fungal-pathogens-in-agriculture]]
 
 ## Wheat Field Fungal Diversity
 
@@ -86,4 +86,4 @@ Maintaining plant diversity through crop rotation, intercropping, cover cropping
 
 Understanding how agricultural practices affect fungal communities is essential for developing sustainable farming systems that maintain soil health and ecosystem function.
 
-[[fungal-diversity-agricultural-systems]] [[fungal-conservation-strategies]]
+[[fungal-diversity-agricultural-systems]] [[ethnomycology]]

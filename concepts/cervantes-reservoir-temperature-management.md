@@ -114,7 +114,7 @@ potentially requiring more frequent irrigation cycles.
 
 Reservoir temperature management is relevant to all
 [[cervantes-hydroponic-systems]] including
-[[cervantes-water-culture-systems]], [[cervantes-nft-aeroponic-systems]],
+[[cannabis-advanced-growing-techniques]], [[cervantes-nft-aeroponic-systems]],
 and recirculating systems. In deep water culture, temperature control
 is especially critical because roots are constantly submerged. In NFT
 and aeroponic systems, the thin film of nutrient solution heats and

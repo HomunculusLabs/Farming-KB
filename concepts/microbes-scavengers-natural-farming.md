@@ -20,7 +20,7 @@ type: concept
 In [[masanobu-fukuoka]]'s natural farming philosophy, microorganisms are nature's primary
 recyclers and soil builders. His understanding of microbial ecology informs every aspect
 of his method, from [[clay-pellet-seed-balling|clay pellet]] composition to his critique
-of [[pesticides in the biosystem|pesticides]] and his argument for leaving nature alone.
+of [[pesticides-in-the-biosystem|pesticides]] and his argument for leaving nature alone.
 
 ## The Natural Order of Decomposition
 
@@ -133,10 +133,10 @@ single harmony. This is the natural order, and man is the sole heretic within it
 ## See Also
 
 - [[masanobu-fukuoka]]
-- [[natural farming]]
+- [[natural-farming]]
 - [[clay-pellet-seed-balling]]
-- [[pesticides in the biosystem]]
-- [[soil microbiology]]
-- [[decomposition ecology]]
+- [[pesticides-in-the-biosystem]]
+- [[soil-microbiology]]
+- [[decomposition-ecology]]
 - [[decomposition]]
 - [[lactic-acid-bacteria]]

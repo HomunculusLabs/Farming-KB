@@ -143,6 +143,6 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 ## See Also
 - [[psychedelic-research-legal-history-united-states]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[cannabis-extraction-solvent-properties-and-safety]]
+- [[cannabis-indoor-growing-guide]]
 - [[ariadne-entity-pihkal]]
 - [[pihkal-qualitative-effects-themes]]

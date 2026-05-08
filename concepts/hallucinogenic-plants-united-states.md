@@ -12,7 +12,7 @@ sources:
 
 A wide variety of psychoactive plants and fungi grow naturally, in gardens, or as ornamentals throughout the United States. Many of these contain powerful hallucinogenic or dissociative compounds that can be located and prepared by a determined individual. This overview covers the major categories of naturally occurring psychoactive botanicals found within US borders.
 
-[[hallucinogenic-plants-of-the-world]]
+[[entheogenic-plants-and-psychoactive-flora]]
 
 ## DMT-Containing Plants
 
@@ -46,7 +46,7 @@ When properly harvested, only the crown (button) is removed, leaving the root in
 
 Other mescaline-containing cacti are widely available as ornamental plants. Trichocereus pachanoi (San Pedro) and Trichocereus peruvianus (Peruvian torch) are common in garden shops across the country. Trichocereus pachanoi has been found to contain anywhere from 0.33% to 2.375% mescaline by dry weight depending on the specimen. These cacti are typically prepared by boiling into a soup-like consistency for ingestion.
 
-[[peyote-and-psychoactive-cacti]]
+[[ethnomycology]]
 
 ## Salvia Divinorum
 

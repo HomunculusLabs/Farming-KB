@@ -144,8 +144,7 @@ Alexander Shulgin documented miprocin as **TiHKAL Entry #33**, with an active or
 ## See Also
 
 - [[psilocin]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[4-ho-met]]
 - [[4-ho-dipt-entity-tihkal]]
 - [[5-meo-mipt]]
-- [[dimethyltryptamine]]

@@ -452,7 +452,7 @@ household ecology.
 - [[goat-cheese-making]]
 - [[homestead-dairy-equipment]]
 - [[homestead-dairy-guide]]
-- [[kefir-making]]
+- kefir making
 - [[small-scale-dairy-guide]]
 - [[food-fermentation-guide]]
 - [[raw-milk-guide]]
@@ -465,6 +465,6 @@ household ecology.
 - [[goat-cheese-making]]
 - [[homestead-dairy-equipment]]
 - [[homestead-dairy-guide]]
-- [[kefir-making]]
+- kefir making
 - [[mollison-designers-goat-dairy-and-cheese-production]]
 - [[small-scale-dairy-guide]]

@@ -112,7 +112,7 @@ For organic gardeners:
 - Soil test identifies what the soil actually needs vs. what you think it needs
 - [[natural-fertilizer-sources-and-application]] can be matched to specific deficiencies
 - Regular testing prevents both under-fertilization and over-fertilization
-- Track organic matter percentage to monitor [[compost-chemistry-soil-food-web]] effectiveness
+- Track organic matter percentage to monitor [[composting-and-soil-biology]] effectiveness
 - pH management through lime/sulfur rather than synthetic buffers
 
 ## See Also

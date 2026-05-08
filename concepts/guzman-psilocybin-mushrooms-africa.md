@@ -132,6 +132,6 @@ mushrooms occur in abundance wherever mycologists abound."
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[gartz-global-psilocybin-mushroom-distribution]]
 - [[natto-making]]
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[teonanacatl-and-mesoamerican-mushroom-cults]]

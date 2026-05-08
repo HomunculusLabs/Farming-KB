@@ -37,7 +37,7 @@ Taro is propagated vegetatively from cormels (small side tubers) or from the top
 
 ## Companion Planting
 
-In [[permaculture-design-principles-beginners]], taro excels as a [[permaculture-wildlife-corridors]] aquatic food crop in wetland zones. It pairs well with duck potato (Sagittaria) and water mimosa in pond edge systems. In tropical [[permaculture-food-forest-design-principles]], taro grows well under partial shade from banana or coconut trees. Taro can be interplanted with water chestnuts and lotus in pond gardens. The large leaves provide shade that helps retain water and suppress aquatic weeds.
+In [[permaculture-design-principles]], taro excels as a [[permaculture-wildlife-corridors]] aquatic food crop in wetland zones. It pairs well with duck potato (Sagittaria) and water mimosa in pond edge systems. In tropical [[permaculture-food-forest-design-principles]], taro grows well under partial shade from banana or coconut trees. Taro can be interplanted with water chestnuts and lotus in pond gardens. The large leaves provide shade that helps retain water and suppress aquatic weeds.
 
 ## Culinary Uses
 
@@ -77,7 +77,7 @@ Taro corms store well in cool, humid conditions (50-60°F, 80-90% humidity) for 
 
 ## Permaculture Design Role
 
-In [[permaculture-design-principles-beginners]], taro occupies the wetland zone in tropical food forests, producing calorie-dense food while tolerating conditions that would kill most crops. Its large leaves create shade microclimates, suppress weeds, and return organic matter to the soil. Taro exemplifies the principle of producing yield in challenging environments where other crops fail, making it invaluable for [[permaculture-food-forest-design-principles]] in tropical regions.
+In [[permaculture-design-principles]], taro occupies the wetland zone in tropical food forests, producing calorie-dense food while tolerating conditions that would kill most crops. Its large leaves create shade microclimates, suppress weeds, and return organic matter to the soil. Taro exemplifies the principle of producing yield in challenging environments where other crops fail, making it invaluable for [[permaculture-food-forest-design-principles]] in tropical regions.
 
 ## See Also
 

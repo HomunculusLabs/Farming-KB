@@ -130,5 +130,5 @@ The distinction between *A. flavoconia* and *A. frostiana* is one of the most co
 - [[amanita-jacksonii]] — Edible North American species resembling *A. muscaria*
 - [[amanita-pantherina]] — Panther cap, another toxic European and North American species
 - [[amanita-rubescens]] — Blusher, bruises red, widespread in deciduous forests
-- [[muscimol]] — Primary psychoactive compound in section *Amanita*
+- [[muscimol-entity]] — Primary psychoactive compound in section *Amanita*
 - [[ibotenic-acid]] — Excitotoxic glutamate agonist precursor to muscimol

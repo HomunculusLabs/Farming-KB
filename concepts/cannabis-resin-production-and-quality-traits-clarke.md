@@ -56,7 +56,7 @@ Water availability during the late flowering period can also concentrate resin c
 
 Temperature also plays a critical role in resin quality. Cooler nighttime temperatures during late flowering can enhance terpene production and preserve volatile aromatic compounds. Excessively high temperatures, by contrast, may accelerate resin degradation and reduce overall quality. These environmental sensitivities make strain selection for specific growing climates an important consideration for breeders.
 
-Humidity levels during flowering affect both trichome development and the risk of mold or bud rot, which can devastate an otherwise high-quality resin crop. Maintaining relative humidity between 40-55% during the final weeks of flowering helps preserve resin integrity while minimizing pathogen pressure, as discussed further in [[cannabis-pest-management]].
+Humidity levels during flowering affect both trichome development and the risk of mold or bud rot, which can devastate an otherwise high-quality resin crop. Maintaining relative humidity between 40-55% during the final weeks of flowering helps preserve resin integrity while minimizing pathogen pressure, as discussed further in cannabis pest management.
 
 Light spectrum and photoperiod also influence resin production. While cannabis is typically grown under a 12-hour photoperiod for flowering, the quality of light during this phase matters. Full-spectrum light sources that include UV-A and UV-B wavelengths have been shown to enhance both trichome density and secondary metabolite production compared to narrow-band LED lighting. Breeders selecting for indoor cultivation should consider how their strains respond to different lighting technologies, as covered in [[hps-grow-lights]].
 

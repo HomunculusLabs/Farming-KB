@@ -148,5 +148,3 @@ initiating soil formation and ecological
 - [[dighton-fungi-mangrove-coastal-ecosystems]]
 - [[dighton-fungi-desert-arid-ecosystems]]
 - [[fungi-grassland-agricultural-ecosystems-dighton]]
-- [[dighton-fungi-tropical-forest-ecosystems]]
-- [[fungi-in-the-environment-soil-fungi-roles]]

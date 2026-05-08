@@ -16,7 +16,7 @@ created: 2026-05-03
 
 # How Do I Grow Pomegranate in Different Climates?
 
-Pomegranates (Punica granatum) are remarkably adaptable fruit trees native to the region stretching from Iran to northern India. While they thrive in Mediterranean conditions, they can be grown successfully across a wide range of climates with proper variety selection and care. This guide covers the key strategies for each major climate type.
+Pomegranates ([[punica-granatum]]) are remarkably adaptable fruit trees native to the region stretching from Iran to northern India. While they thrive in Mediterranean conditions, they can be grown successfully across a wide range of climates with proper variety selection and care. This guide covers the key strategies for each major climate type.
 
 ---
 
@@ -111,7 +111,7 @@ True tropical climates (consistently above 60°F/15°C, no chilling hours) are t
 
 ## What Are Common Challenges by Climate Zone?
 
-**Mediterranean:** Root nematodes in sandy soils — rotate with nematode-resistant cover crops. Fruit sunburn — ensure adequate leaf canopy.
+**Mediterranean:** Root nematodes in sandy soils — rotate with nematode-resistant [[cover-crops]]. Fruit sunburn — ensure adequate leaf canopy.
 
 **Subtropical:** Fungal diseases from humidity — improve airflow, use copper sprays. Splitting fruit from irregular rainfall — maintain consistent soil moisture.
 

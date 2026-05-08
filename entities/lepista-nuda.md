@@ -148,9 +148,3 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 - [[agaricus-bisporus]]
 - [[david-arora]]
 - [[lepista-sordida]]
-
-- Tricholomataceae
-- Cortinarius — toxic look-alike genus
-- [[pleurotus-ostreatus]] — commonly cultivated alternative
-- [[mycorrhiza]] — contrast with mycorrhizal fungi
-- Forest ecology — role of decomposer fungi in nutrient cycling

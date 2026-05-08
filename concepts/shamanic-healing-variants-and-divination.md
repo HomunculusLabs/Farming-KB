@@ -14,7 +14,7 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
     10|# Shamanic Healing Variants and Divination 11|
     12|Shamanic healing practices with hallucinogenic plants across diverse indigenous
     13|cultures share common structural features while varying in specific methods,
-    14|plant medicines, and ceremonial forms. Ralph Metzner identified three primary
+    14|plant medicines, and ceremonial forms. [[ralph-metzner]] identified three primary
     15|variations of shamanic healing, along with a divinatory function that operates
     16|alongside and intertwined with healing, reflecting a worldview fundamentally
     17|different from Western biomedicine. These patterns recur across continents and
@@ -122,10 +122,10 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
    143|model locates it in the relationship between the healer, the plant teacher,
    144|and the spirit world. 145|
    146|Both approaches recognize the central importance of an experienced guide, the
-   147|significance of set and setting, and the potential for healing and
+   147|significance of [[set-and-setting]], and the potential for healing and
    148|transformation, but they operate within fundamentally different paradigms of
    149|what illness is and how healing occurs. William James, after his personal
-   150|research with nitrous oxide almost 100 years ago, wrote that "our normal
+   150|research with [[nitrous-oxide]] almost 100 years ago, wrote that "our normal
    151|waking consciousness, rational consciousness as we call it, is but one special
    152|type of consciousness, whilst all about it, parted from it by the filmiest of
    153|screens, there lie potential forms of consciousness entirely different."
@@ -136,7 +136,7 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
 - [[metzner-shamanic-healing-divination-worldview]] 156|
    157|- [Iboga and the Bwiti Cult Initiation](iboga-and-the-bwiti-cult-initiation.md)
    158|- [Metzner Shamanic Healing Divination Worldview](metzner-shamanic-healing-divination-worldview.md)
-   159|- [Metzner Spirit Beings Multiple Realities Entheogens](metzner-spirit-beings-multiple-realities-entheogens.md)
-   160|- [Plant Teachers Ayahuasca](plant-teachers-ayahuasca.md)
+   159|- [Metzner Spirit Beings Multiple Realities Entheogens]([[metzner-spirit-beings-multiple-realities-entheogens]].md)
+   160|- [Plant Teachers Ayahuasca]([[plant-teachers-ayahuasca]].md)
    161|- [Amazonian Plant Teachers Doctores](amazonian-plant-teachers-doctores.md)
    162|

@@ -22,7 +22,7 @@ Molecular research has revealed that what was traditionally considered a single 
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
 All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological.
 ## Species Profile
-- Scientific name: [[boletus-edulis]] (sensu lato)
+- Scientific name: [[boletus-edulis-entity]] (sensu lato)
 - Common names: Porcini, King Bolete, Cep, Penny Bun, Steinpilz
 - Family: Boletaceae
 - Cap: 3-12 inches (can reach 15+ inches), convex becoming flat; brown, reddish-brown, to yellow-brown depending on species

@@ -10,7 +10,7 @@ tags: [plants, psychedelics]
 
 # McKenna on Psychedelic Plant Use in Antiquity
 
-In [[mckenna-food-of-the-gods-thesis]], [[terence-mckenna-stoned-ape-hypothesis]]
+In [[mckenna-food-of-the-gods-thesis]], [[psychedelic-mushrooms-species-and-identification]]
 constructs a sweeping narrative of humanity's relationship to psychoactive
 plants from prehistory through classical antiquity. He argues that all natural
 narcotics, stimulants, relaxants, and hallucinogens were discovered by

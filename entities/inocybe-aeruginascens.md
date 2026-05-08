@@ -117,4 +117,4 @@ Consuming Inocybe species is EXTREMELY DANGEROUS without expert identification:
 - [[psilocybin-mushroom-chemistry]] — Aeruginascin hypothesis and safety
 - [[psilocybin-mushroom-chemistry]] — European species distribution
 - [[jochen-gartz]] — Discoverer of aeruginascin in this species
-- [[mushroom-identification-resources]] — Identification safety principles
+- [[mushroom-cultivation-fundamentals]] — Identification safety principles

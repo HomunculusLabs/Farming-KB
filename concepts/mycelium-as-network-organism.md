@@ -116,7 +116,7 @@ Mycelium steers the course of ecosystems by favoring successions of species. Ult
 - [[mycelium-network]] Concepts
 
 - [[fungal-ecology]] — how mycelial networks function in ecosystems
-- [[fairy-rings-and-giant-mycelia]] — visible manifestations of network organisms
+- [[mushroom-contamination-identification-and-troubleshooting]] — visible manifestations of network organisms
 - [[mycorrhizal-networks]] — plant-fungal information sharing
 - [[mycorestoration-framework]] — applying network intelligence for restoration
 - [[mycological-terms-glossary]]

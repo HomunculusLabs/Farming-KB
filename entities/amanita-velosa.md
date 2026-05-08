@@ -146,6 +146,5 @@ soil, and association with California oaks.
 - [[amanita-pantherina]]
 - [[amanita-caesarea]]
 - [[amanita-jacksonii]]
-- [[amanita-regalis]]
-- [[boletus-edulis]]
-- [[cantharellus-cibarius]]
+- [[amanita-regalis-entity]]
+- [[boletus-edulis-entity]]

@@ -34,7 +34,7 @@ Root growth is particularly sensitive to temperature because roots must elongate
 - Highest production of usable nitrogen occurs between 75F (24C) and 95F (35C)
 - In cool spring conditions, biological nitrogen cycling is reduced
 
-The [[nitrogen-cycle-in-soil]] is essentially a biological process driven by microbial enzymes. Each step — mineralization, nitrification, denitrification — is performed by temperature-sensitive bacteria. When soils are cold, nitrogen accumulates in organic forms that plants cannot use directly.
+The [[composting-and-soil-biology]] is essentially a biological process driven by microbial enzymes. Each step — mineralization, nitrification, denitrification — is performed by temperature-sensitive bacteria. When soils are cold, nitrogen accumulates in organic forms that plants cannot use directly.
 
 ### Mycorrhizal Activity
 

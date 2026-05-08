@@ -72,7 +72,7 @@ The seeds of Turbina corymbosa contain [[ergot-and-lysergic-acid-history]] alkal
 - **Lysergic acid amide** (also known as ergine)
 - **Lysergic acid hydroxyethylamide**
 
-The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[psilocybe-cubensis-profile]] and the brain hormone serotonin. [[lsd-pharmacology]] (lysergic acid diethylamide), a semi-synthetic compound, is the most potent hallucinogen known today. It differs from lysergic acid amide only by replacement of two hydrogen atoms for two ethyl groups. The active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
+The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[psychedelic-mushrooms-species-and-identification]] and the brain hormone serotonin. [[lsd-pharmacology]] (lysergic acid diethylamide), a semi-synthetic compound, is the most potent hallucinogen known today. It differs from lysergic acid amide only by replacement of two hydrogen atoms for two ethyl groups. The active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
 
 ## Related Species
 

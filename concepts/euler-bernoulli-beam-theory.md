@@ -131,5 +131,5 @@ Treating a short thick member as a slender beam can underestimate deflection and
 - [[continuum-mechanics]]
 - [[finite-element-method]]
 - [[fracture-mechanics-engineering-materials]]
-- [[creep-deformation-high-temperature-materials]]
-- [[boundary-layer-theory-fluid-dynamics]]
+- creep deformation high temperature materials
+- boundary layer theory fluid dynamics

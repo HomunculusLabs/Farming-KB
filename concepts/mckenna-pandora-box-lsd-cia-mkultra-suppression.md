@@ -35,10 +35,10 @@ oriental motifs and wonderful scenes altering very
 rapidly.
 
 A year later, in May 1957, Valentina and Gordon Wasson published their now-famous article in Life magazine announcing the discovery of the
-[[psilocybin mushroom complex]]. The tone of the Life article
+[[psilocybin-mushroom-complex]]. The tone of the Life article
 contrasts sharply with the hysteria and distortion that the American media would later fan; it was both fair and detailed, both open-minded and
 scientific. The chemical loose ends of the Wassons'
-discoveries were tidied up by Hofmann, who chemically isolated [[psilocybin]] and determined its structure in 1958.
+discoveries were tidied up by Hofmann, who chemically isolated [[psilocybin-compound]] and determined its structure in 1958.
 
 In the short space of a dozen years, from 1947 until 1960, the major indole hallucinogens were characterized, purified, and investigated. McKenna
 argues it is no coincidence that the subsequent decade
@@ -48,11 +48,11 @@ was the most turbulent in America in a century.
 
 To understand the role of psychedelics in the 1960s, one must recall the lessons of prehistory and the importance to early human beings of the
 dissolution of boundaries in group ritual based on
-ingestion of [[hallucinogenic plants]]. The effect of these compounds is largely psychological and only partially culturally conditioned; in fact, the
+ingestion of [[hallucinogenic-plants]]. The effect of these compounds is largely psychological and only partially culturally conditioned; in fact, the
 compounds act to dissolve cultural conditioning
 of any sort. They force the corrosive process of reform of community values and should be recognized as deconditioning agents.
 
-The sudden introduction of LSD had the effect of creating a mass defection from community values, especially values based on a [[dominator hierarchy]]
+The sudden introduction of LSD had the effect of creating a mass defection from community values, especially values based on a [[dominator-hierarchy]]
 accustomed to suppressing consciousness and
 awareness. LSD is unique among drugs in the power of its dose range, detectable at 50 micrograms. Ten thousand doses of 100 micrograms each could in
 theory be obtained from one pure gram. This
@@ -123,7 +123,7 @@ experiments were never designed and the work could not be repeated because of it
 
 Psychiatry's promising new uses of LSD to treat pain, addiction, alcoholism, and depression during terminal illness were put on indefinite hold. It
 fell to the humble science of botany to advance our
-understanding of [[hallucinogenic plants]], as the clinical research community was effectively silenced by Schedule I classification and the
+understanding of [[hallucinogenic-plants]], as the clinical research community was effectively silenced by Schedule I classification and the
 associated stigma. The suppression of psychedelic research
 represents one of the great intellectual tragedies of the twentieth century.
 

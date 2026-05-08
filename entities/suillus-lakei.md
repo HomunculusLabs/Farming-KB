@@ -140,5 +140,5 @@ annulus is diagnostic.
 - [[suillus-brevipes]] — Short-stiped Douglas-fir Suillus
 - [[suillus-grevillei]] — Larch bolete with viscid cap
 - [[leccinum-scabrum]] — Birch-associated scaber stalk bolete
-- [[boletus-edulis]] — King bolete, premier edible
+- [[boletus-edulis-entity]] — King bolete, premier edible
 - [[ectomycorrhiza]] — Root-fungal mutualism

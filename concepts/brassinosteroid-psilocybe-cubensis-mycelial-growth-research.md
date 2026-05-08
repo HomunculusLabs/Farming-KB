@@ -115,11 +115,11 @@ biological growth stimulants as alternatives to synthetic additives.
 
 ## Related
 
-- [[brassinosteroid-annulus-loss-psilocybe-taxonomy]] Topics
+- [[brassinosteroid]] Topics
 
 - [[oss-oeric-growing-parameters-cubensis]] for standard conditions
 - [[oss-oeric-harvesting-and-crop-management]] for yield comparison
 - [[oss-oeric-contamination-troubleshooting]] for cultivation challenges
 - [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[psilocybe-cubensis-introduction-americas-slave-trade]]
+- [[psychedelic-mushrooms-species-and-identification]]

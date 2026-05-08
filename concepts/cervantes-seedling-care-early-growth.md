@@ -49,7 +49,7 @@ The seedling stage is over when rapid foliage growth
 starts. At this point, plants need more room to grow
 and should be transplanted into larger containers.
 
-See also: [[cervantes-transplanting-potting-up]]
+See also: [[cannabis-advanced-growing-techniques]]
 
 ## Light Requirements
 

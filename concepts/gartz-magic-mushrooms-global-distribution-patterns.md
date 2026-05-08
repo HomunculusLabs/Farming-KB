@@ -18,7 +18,7 @@ individual species and their ecological niches.
 
 ## Cosmopolitan and Widespread Species
 
-Two species dominate global distribution: [[psilocybe-cubensis-profile]] and Panaeolus
+Two species dominate global distribution: [[psychedelic-mushrooms-species-and-identification]] and Panaeolus
 cyanescens. Both are dung-inhabiting tropical and subtropical species found
 across the Americas, Africa, Asia, and Oceania. Gartz notes that P. cubensis
 can be found on pastures up to 30 degrees north and south of the equator. These
@@ -55,7 +55,7 @@ Gartz identifies several climatic corridors supporting psychoactive mycoflora:
 
 - **Mexico**: The original epicenter of documented psychoactive mushroom use,
   home to numerous endemic Psilocybe species including [[psilocybe-mexicana]], P.
-  aztecorum, and P. caerulescens. The primary active compound [[psilocybin]] is found
+  aztecorum, and P. caerulescens. The primary active compound [[psilocybin-compound]] is found
   across all of these species.
 
 - **Southeast Asia**: Thailand is identified as the country with the largest

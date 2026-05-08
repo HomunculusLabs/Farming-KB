@@ -148,4 +148,3 @@ ornamental aquatic plant and dried botanical specimen.
 - [[nymphaea-caerulea]]
 - [[tabernanthe-iboga]]
 - [[salvia-divinorum]]
-- [[psilocybin]]

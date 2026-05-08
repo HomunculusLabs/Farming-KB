@@ -74,8 +74,8 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## See Also
 
-- [[cantharellus-cibarius]]
+- [[cantharellus-cibarius-entity]]
 - craterellus tubaeformis
 - [[hydnum-repandum]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]

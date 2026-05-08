@@ -145,4 +145,4 @@ Green favors organic methods:
 - **Diatomaceous earth**: Physical insecticide for crawling pests
 
 ## See Also
-- [[cannabis-pest-management]] guide
+- cannabis pest management guide

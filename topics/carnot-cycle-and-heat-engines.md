@@ -147,4 +147,4 @@ It tells them what losses matter, what improvements are thermodynamically meanin
 - [[laws-of-thermodynamics]]
 - [[heat-transfer-mechanisms]]
 - [[heat-exchanger-effectiveness-ntu]]
-- [[creep-deformation-high-temperature-materials]]
+- creep deformation high temperature materials

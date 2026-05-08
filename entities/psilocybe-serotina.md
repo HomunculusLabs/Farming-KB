@@ -116,7 +116,7 @@ Can be confused with non-psychoactive *Psilocybe* species and potentially toxic 
 - [[psilocybe-semilanceata]] — Liberty cap, the most common wild psilocybian species in Europe
 - [[psilocybe-cyanescens]] — Wavy-capped psilocybe, a potent temperate species
 - [[psilocybe-azurescens]] — The most potent known psilocybian mushroom
-- [[psilocybin]] — Primary psychoactive compound produced by this species
+- [[psilocybin-compound]] — Primary psychoactive compound produced by this species
 - [[psilocin]] — Active metabolite of psilocybin
-- [[gymnopilus-spectabilis]] — Big laughing gym, an unrelated psilocybian genus
+- [[gymnopilus-spectabilis-entity]] — Big laughing gym, an unrelated psilocybian genus
 - [[panaeolus-cyanescens]] — Blue meanies, a tropical psilocybian coprophilous species

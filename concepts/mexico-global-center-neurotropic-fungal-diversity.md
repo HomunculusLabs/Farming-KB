@@ -25,7 +25,7 @@ Mexico's extraordinary diversity results from its position at the intersection o
 
 - **Mesophytic forests** with Fagus (American beech): harbor 34 of Mexico's 42 neurotropic Psilocybe species (81%), including [[psilocybe-caerulipes]], [[psilocybe-caerulescens]], [[psilocybe-zapotecorum]], and [[psilocybe-weilii]]
 - **Tropical forests**: contain only 4 neurotropic Psilocybe species ([[psilocybe-cubensis]], [[psilocybe-subcubensis]], [[psilocybe-yungensis]], [[psilocybe-stuntzii]] var. stuntzii)
-- **Coniferous forests**: also contain 4 species ([[psilocybe-baeocystis]], [[psilocybe-aztecorum]], Psilocybe smithii, [[psilocybe-tampanensis]])
+- **Coniferous forests**: also contain 4 species ([[psilocybe-baeocystis]], [[psilocybe-aztecorum]], Psilocybe smithii, [[psilocybe-tampanensis-entity]])
 
 This ecological pattern is highly counterintuitive. Coniferous forests in Mexico are far more thoroughly explored by mycologists than mesophytic or tropical forests, yet they harbor far fewer neurotropic Psilocybe species. This strongly suggests that the genus is genuinely more diverse in mesophytic forests rather than merely undersampled in other habitats.
 

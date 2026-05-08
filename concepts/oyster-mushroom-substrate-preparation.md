@@ -121,4 +121,4 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 - [[cotter-oyster-mushroom-cultivation]] — for the complete cultivation cycle
 - [[oyster-mushroom-spawn-production]] — for making spawn
 - [[mushroom-cultivation-bulk-substrates]] — for broader substrate knowledge
-- [[mushroom-cultivation-sterile-technique]] — for cleanliness practices
+- [[mushroom-cultivation-fundamentals]] — for cleanliness practices

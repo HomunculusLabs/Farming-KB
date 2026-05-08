@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Horseradish (*Armoracia rusticana*) is a vigorous perennial root vegetable prized for its pungent, peppery flavor, but it can become aggressively invasive if left unchecked. The single most effective strategy is to grow it in buried containers or root barriers that prevent lateral root spread, combined with disciplined annual harvesting that removes the entire root system before it can fragment and regenerate.
+Horseradish (*[[armoracia-rusticana]]*) is a vigorous perennial root vegetable prized for its pungent, peppery flavor, but it can become aggressively invasive if left unchecked. The single most effective strategy is to grow it in buried containers or root barriers that prevent lateral root spread, combined with disciplined annual harvesting that removes the entire root system before it can fragment and regenerate.
 
 ## Detailed Answer
 
@@ -93,7 +93,7 @@ If you must plant directly in the ground, combine multiple strategies:
 
 - **Solarization:** In hot climates, cover the infested area with clear plastic sheeting for 6–8 weeks during peak summer. Soil temperatures above 120°F can kill root fragments near the surface, though deep roots may survive.
 
-- **Competitive planting:** After removing visible roots, plant the area with aggressive cover crops like buckwheat or daikon radish to outcompete any remaining horseradish sprouts and weaken residual roots.
+- **Competitive planting:** After removing visible roots, plant the area with aggressive [[cover-crops]] like buckwheat or daikon radish to outcompete any remaining horseradish sprouts and weaken residual roots.
 
 ## Quick Reference: Step-by-Step Containment Planting Guide
 

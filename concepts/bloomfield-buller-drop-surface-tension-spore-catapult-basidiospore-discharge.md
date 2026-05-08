@@ -148,5 +148,3 @@ was beading on a mushroom before tree resin preserved the instant.
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
 - [[bloomfield-buller-experimental-mycology]]
-- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

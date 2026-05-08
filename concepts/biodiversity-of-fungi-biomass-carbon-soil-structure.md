@@ -12,7 +12,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related 
 ## The Scale of Fungal Biomass in Soils
 Fungi are the dominant living organisms in many soils by biomass. In grassland soils, fungi comprise an estimated 78-90% of total decomposer biomass. In a British deciduous forest, fungal mycelia contributed approximately 89% of total living microbial biomass. In the total litter and humus of a British deciduous forest, including woody debris and dead roots, basidiomycetes alone accounted for approximately 60% of total living microbial biomass.
 This immense fungal biomass represents a substantial carbon and nutrient pool in agricultural soils. Changes in fungal biomass -- driven by management practices -- can significantly alter soil carbon storage, nutrient cycling, and soil physical properties.
-See also: [[fungal-feeding-invertebrates-fungivory]], [[fungal-biomass-soil-measurement]], [[fungal-carbon-substrate-utilization-efficiency]]
+See also: [[fungal-feeding-invertebrates-fungivory]], [[the-soil-food-web]], [[fungal-carbon-substrate-utilization-efficiency]]
 ## Fungal Carbon Pathways
 ### Carbon Flow Through Fungi
 In the [[soil-food-web]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several distinctive features:

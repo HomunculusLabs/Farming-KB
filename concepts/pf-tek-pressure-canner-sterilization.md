@@ -140,31 +140,6 @@ pot, making it practical for larger cultivation projects. Most standard pressure
 canners can hold 7 to 10 half-pint jars per batch, compared to 4 to 6 in a typical
 steaming pot.
 
-This increased capacity reduces the total number of sterilization runs needed and
-improves overall efficiency of the cultivation operation.
-
-## When to Invest in a Pressure Canner
-
-A pressure canner is particularly recommended when contamination rates have been
-consistently high with steam sterilization, when the available cooking pots do not
-have tight-fitting lids, or when multiple batches need to be processed efficiently
-for larger grows.
-
-Cultivators who already own a pressure canner for home food preservation can put it
-to immediate use for mushroom cultivation without additional investment. The
-equipment is widely available at department stores and hardware stores.
-
-## Integration with Standard PF TEK Workflow
-
-The pressure canner fits seamlessly into the standard PF TEK workflow without any
-modifications to other steps. Jars are prepared identically with the substrate
-formula and dry vermiculite barrier layer.
-
-The only change is substituting pressure canner sterilization for the steaming step.
-After sterilization, jars are cooled until cool to the touch, lids tightened, and
-stored until inoculation, following exactly the same procedures as steam-sterilized
-jars.
-
 ## Related Concepts
 
 - [[pf-tek-steam-sterilization-technique]] for the standard steaming method

@@ -59,7 +59,7 @@ After the pigs have cleared the junkus, the site is ready for orchard establishm
 5. **Plant fruit and nut trees** -- bare-root or container trees go into the prepared, fertile soil
 6. **Establish understory** -- plant guild species around each tree for pest control, nutrient cycling, and mulch production
 
-This sequence -- pig clearing, cover cropping, then tree planting -- mimics natural succession while dramatically speeding up the timeline. What might take decades of natural succession can be accomplished in a single growing season with pig power. The soil building benefits connect to [[nutrient-retention-soil-food-web]] principles.
+This sequence -- pig clearing, cover cropping, then tree planting -- mimics natural succession while dramatically speeding up the timeline. What might take decades of natural succession can be accomplished in a single growing season with pig power. The soil building benefits connect to [[composting-and-soil-biology]] principles.
 
 ## Urban Applications
 
@@ -80,7 +80,7 @@ Beyond pigs, other animals contribute to land clearing and preparation:
 
 ## Ethics and Considerations
 
-The permaculture approach treats pigs as partners in land management, not just meat animals. They receive quality of life -- space to root, forage, wallow, and socialize -- while performing valuable ecological work. The system honors the animal by integrating its natural behaviors into the farm's productive cycles. This ethical dimension connects to [[permaculture-introduction-and-ethics]] and [[urban-permaculture-guilds-plant-stacking]].
+The permaculture approach treats pigs as partners in land management, not just meat animals. They receive quality of life -- space to root, forage, wallow, and socialize -- while performing valuable ecological work. The system honors the animal by integrating its natural behaviors into the farm's productive cycles. This ethical dimension connects to [[permaculture-design-principles]] and [[urban-permaculture-guilds-plant-stacking]].
 
 Key ethical considerations:
 

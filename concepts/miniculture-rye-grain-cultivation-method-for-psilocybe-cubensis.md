@@ -71,7 +71,7 @@ The total yield of 2.7 g per jar, while modest by commercial standards, was suff
 - **Experimental control**: Each jar serves as an independent replicate, enabling statistical analysis of treatments and reducing confounding variables.
 - **Space efficiency**: Multiple cultures can be maintained in a small area such as a shelved closet or growth chamber, making the method accessible to researchers with limited laboratory space.
 - **Contamination isolation**: If one jar becomes contaminated, it does not affect the others, preserving the integrity of remaining replicates.
-- **Sequential harvests**: Flushes can be harvested individually for time-series analysis of [[alkaloid biosynthesis]] changes, which was the primary motivation for the method's development.
+- **Sequential harvests**: Flushes can be harvested individually for time-series analysis of [[alkaloid-biosynthesis]] changes, which was the primary motivation for the method's development.
 - **Low material cost**: Only 10 g of rye grain per jar makes this one of the most economical cultivation methods available.
 
 ## Limitations

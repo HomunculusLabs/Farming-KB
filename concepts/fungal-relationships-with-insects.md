@@ -90,7 +90,7 @@ Endophytic fungi living inside plant tissues can protect their host plants from 
 - [[fungal-ecology]] — broader fungal ecology
 - [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[insect-allies]] — beneficial insects in permaculture
-- [[fairy-rings-and-giant-mycelia]] — fungal organism scale
+- [[mushroom-contamination-identification-and-troubleshooting]] — fungal organism scale
 - [[stamets-mycoremediation-principles]] — source author
 - [[mycelium-running-pest-control-with-fungi]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

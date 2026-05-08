@@ -1,5 +1,5 @@
 ---
-title: Spore Interstellar Dispersal Hypothesis
+title: [[spore]] Interstellar Dispersal Hypothesis
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
@@ -8,12 +8,12 @@ sources: [raw/papers/panspermia-hypothesis.md]
 ---
 
      1|--- 2|title: Spore Interstellar Dispersal Hypothesis
-     3|tags: [panspermia, mycology, astrobiology, stropharia-cubensis, mckenna]
+     3|tags: [panspermia, mycology, astrobiology, [[stropharia-cubensis]], mckenna]
      4|date: 2026-04-28 5|updated: 2026-04-28 6|sources:
      7|  - mckenna_t-tryptamines_consciousness.md 8|--- 9|
     10|# Spore Interstellar Dispersal Hypothesis 11|
     12|The hypothesis that fungal spores could travel between star systems, proposed
-    13|by Terence McKenna based on information he reports receiving during psilocybin
+    13|by [[terence-mckenna]] based on information he reports receiving during [[psilocybin]]
     14|experiences with *Stropharia cubensis*, represents one of the more provocative
     15|claims in the intersection of mycology and astrobiology. While highly
     16|speculative, the argument draws on genuine physical and biological properties

@@ -106,9 +106,9 @@ Metzner's analysis raises profound questions for the contemporary revival of psy
 
 ## See Also
 
-- [[metzner-grof-perinatal-matrices-and-transpersonal-consciousness]]
-- [[metzner-brazilian-ayahuasca-churches-santo-daime-udv-barquinia]]
-- [[metzner-psychedelic-amplifier-and-microscope-metaphors]]
+- metzner grof perinatal matrices and transpersonal consciousness
+- metzner brazilian ayahuasca churches santo daime udv barquinia
+- metzner psychedelic amplifier and microscope metaphors
 
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-shamanic-healing-divination-worldview]]

@@ -123,5 +123,5 @@ be confused with L. chrysorrheus in the field.
 - [[lactarius-volemus]]
 - [[lactarius-quietus]]
 - [[russula-emetica]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[amanita-muscaria]]

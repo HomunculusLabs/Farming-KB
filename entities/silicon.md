@@ -148,8 +148,3 @@ Silicon remains favored because performance, infrastructure, and cost are unusua
 Silicon is the reference material of modern semiconductor technology.
 Its success comes from abundance, crystal quality, dopability, oxide chemistry, and manufacturing scale.
 Its main limitation in optoelectronics is the indirect band gap.
-That limitation makes it an ideal comparison point for direct-gap materials such as gallium arsenide.
-
-## See Also
-
-- [[cervantes-silicon-silica-beneficial-mineral]]

@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [permaculture, food-forest, agroforestry]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Food Forest Understory Plants
 
@@ -131,4 +132,4 @@ Many useful plants thrive in partial shade beneath canopy trees:
 - [[nitrogen-fixing-trees-and-shrubs]]
 
 ## Merged: White Oak Guild Design
-The white oak guild is an example of designing a plant community based on a documented native plant association, using Toby Hemenway's armchair method of [[guild-design-methodology]]. It demonstrates how ecological literature can be used as a starting point for creating productive [[permaculture-plant-guilds]] that mirror natural patterns. This approach connects to [[permaculture-design-methods]] and [[permaculture-plant-selection]]. Hazelnuts are one of the most productive nut crops for temperate climates, making them valuable in [[permaculture-tree-crop-systems]]. These herbaceous plants fill the lower layers of the guild, connecting to food forest understory plants design.
+The white oak guild is an example of designing a plant community based on a documented native plant association, using Toby Hemenway's armchair method of [[guild-design-methodology]]. It demonstrates how ecological literature can be used as a starting point for creating productive [[permaculture-plant-guilds]] that mirror natural patterns. This approach connects to [[permaculture-design]] and [[permaculture-plant-selection]]. Hazelnuts are one of the most productive nut crops for temperate climates, making them valuable in [[permaculture-tree-crop-systems]]. These herbaceous plants fill the lower layers of the guild, connecting to food forest understory plants design.

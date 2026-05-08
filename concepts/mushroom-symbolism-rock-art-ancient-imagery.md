@@ -88,7 +88,7 @@ European culture after the classical period was generally hostile toward mushroo
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
 - [[magic-mushroom-cultivation-history]]
 - [[roger-heim-scientific-study-psilocybin]]
-- [[terence-mckenna-stoned-ape-hypothesis]]
+- [[psychedelic-mushrooms-species-and-identification]]
 
 ## Merged: Mesoamerican Mushroom Stones
 

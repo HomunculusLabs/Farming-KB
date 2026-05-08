@@ -137,32 +137,12 @@ Ayahuasca is the traditional Amazonian preparation that enables oral DMT activit
 Clinical interest in DMT has expanded significantly:
 
 - **Treatment-resistant depression:** A 2021 phase I/II trial of intravenous DMT fumarate (SPRAVATO-style administration) at Imperial College London demonstrated rapid antidepressant effects
-- **Substance use disorders:** Ayahuasca-assisted therapy shows promise for alcohol, tobacco, and cocaine dependence
-- **End-of-life anxiety:** Case reports and open-label trials suggest benefit for existential distress
-- **Neuroplasticity:** Preclinical data shows DMT promotes dendritic spine formation and neurotrophic factor expression (BDNF, TrkB)
-
-## Legal Status
-
-- **United States:** Schedule I under the Controlled Substances Act. However, the Religious Freedom Restoration Act protects ayahuasca use by the UDV. Decriminalization efforts are underway in several cities.
-- **United Nations:** Listed in Schedule I of the 1971 Convention on Psychotropic Substances
-- **Brazil:** Legal for religious use by recognized ayahuasca churches
-- **Peru:** Protected as part of indigenous cultural heritage
-- **Netherlands:** DMT-containing plants are legal; isolated DMT is controlled
-
-## Harm Reduction
-
-- DMT has no known physical dependence or addiction potential
-- Psychological risks include challenging experiences, anxiety, and triggering latent psychiatric conditions
-- Contra-indicated with SSRIs (serotonin syndrome risk via MAOI interactions with ayahuasca)
-- Cardiovascular monitoring is important: DMT and ayahuasca produce transient increases in heart rate and blood pressure
-- Set, setting, and integration are critical for therapeutic benefit
-
 ## See Also
 
 - [[pinoline]]
 
 - [[ayahuasca-preparation-and-ceremony]] — traditional brew and ceremony
-- [[psilocybin]] — related tryptamine psychedelic
+- [[psilocybin-compound]] — related tryptamine psychedelic
 - [[mckenna-tryptamines-logos-consciousness]] — chemical class overview
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — primary pharmacological target
 - [[harmine]] — MAOI β-carboline alkaloid

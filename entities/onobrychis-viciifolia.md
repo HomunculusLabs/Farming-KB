@@ -123,5 +123,5 @@ Its drought tolerance makes it suitable for dryland farming and climate-resilien
 - [[caragana-arborescens]]
 - [[robinia-pseudoacacia]]
 - dalea purpurea
-- [[onobrychis-viciifolia]]
+- onobrychis viciifolia
 - lupinus perennis

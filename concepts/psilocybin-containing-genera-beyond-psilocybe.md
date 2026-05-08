@@ -9,7 +9,7 @@ type: concept
 ---
 # Psilocybin-Containing Genera Beyond Psilocybe
 While the genus Psilocybe dominates the neurotropic fungi with 116 species,
-[[psilocybin]] and related indole alkaloids have been confirmed in 12
+[[psilocybin-compound]] and related indole alkaloids have been confirmed in 12
 additional genera. These non-Psilocybe genera collectively account for roughly
 half of all known psilocybin-containing species, spanning diverse ecological
 niches from dung to decaying wood to mycorrhizal associations.
@@ -111,10 +111,10 @@ properly identified, fresh material.
 - [[psilocybe-singeriana]]
 - [[psilocybe-muliercula]]
 - [[psilocybe-hochetschii]]
-- [[psilocybe-tampanensis]]
+- [[psilocybe-tampanensis-entity]]
 - [[pholiotina-cyanopoda]]
 - [[neurotropic-fungi]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[coprophilous-fungi]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]] - Gymnopilus
   and other genera covered by Allen

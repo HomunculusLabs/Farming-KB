@@ -1,5 +1,5 @@
 ---
-title: "What Is Ecological Succession and Why Does It Matter?"
+title: "What Is [[ecological-succession]] and Why Does It Matter?"
 tags: [ecology, succession, restoration, faq]
 date: 2026-04-28
 updated: 2026-04-28
@@ -18,8 +18,7 @@ sources:
 created: 2026-05-07
 type: query
 ---
-
-# What Is Ecological Succession and Why Does It Matter?
+# What Is [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] and Why Does It Matter?
 
 Ecological succession is one of the foundational concepts in ecology,
 describing the directional, predictable process by which biological
@@ -39,14 +38,12 @@ operates at multiple scales, from microscopic biofilms on a newly
 exposed rock surface to the reforestation of a landscape after a
 major fire. The concept was first formalized by Henry Cowles in 1899
 and later developed by Frederic Clements, who viewed it as a
-superorganism progressing toward a stable endpoint.
-
-## What is the difference between primary and secondary succession?
+superorganism progressing toward a stable endpcomparison-primary-vs-secondary-successione difference between primary and secondary succession?
 
 Primary succession occurs on surfaces where no soil previously existed,
 such as newly formed volcanic rock, glacial moraines, or land exposed
 by retreating glaciers. Because there is no seed bank or organic
-matter, the process begins with the slow weathering of rock and the
+[[lichens]] the process begins with the slow weathering of rock and the
 arrival of lichens and microbes. Primary succession can take
 centuries or millennia to produce mature communities. Secondary
 succession, by contrast, occurs on sites where an existing community
@@ -148,9 +145,3 @@ actively resist colonization by later species through competition or
 allelopathy, and succession advances only when those early species
 are damaged or die. Real ecosystems typically involve a mix of all
 three mechanisms operating simultaneously.
-
-## See Also
-
-- [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
-- [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
-- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

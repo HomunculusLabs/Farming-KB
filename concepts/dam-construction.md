@@ -91,7 +91,7 @@ Regular inspection and maintenance are essential for dam safety. Key maintenance
 
 [[permaculture-earthworks]]
 
-[[permaculture-earthworks-guide]]
+[[permaculture-water-harvesting-earthworks]]
 
 [[permaculture-aquaculture]]
 

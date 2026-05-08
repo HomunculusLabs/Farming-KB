@@ -142,24 +142,8 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
    133|accompany unstructured psychedelic experiences by providing familiar touchstones
    134|and a sense of predictable progression through the ceremony.
    135|
-   136|## The Debate Over Appropriation
-   137|
-   138|Metzner notes the tension between indigenous communities who view these
-   139|practices as sacred traditions and the growing interest from Western seekers.
-   140|Syncretic churches that have opened to non-indigenous participants face
-   141|questions about cultural appropriation, authenticity, and the dilution of
-   142|traditional practices. The spread of ayahuasca ceremonies outside their
-   143|Amazonian cultural context has created both legal challenges and ethical debates
-   144|within the psychedelic community about who has the right to lead and
-   145|participate in such ceremonies.
-   146|
-   147|## Hybridization with Western Therapeutic Practice
-   148|
-   149|The syncretic paradigm has increasingly influenced Western approaches to
-   150|psychedelic therapy. Modern therapeutic models incorporating group ceremony,
-
 ## See Also
 
 - [[iboga-plant]]
 - [[lophophora-williamsii]]
-- [[mescaline]]
+- [[mescaline-entity]]

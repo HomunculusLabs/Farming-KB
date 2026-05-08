@@ -62,7 +62,7 @@ Syntropic agriculture manages water through dense canopy cover (reducing evapora
 
 ## Planting Strategies and Species Selection
 
-Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. Perennial vegetables and [[food forests]] integrate naturally.
+Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. Perennial vegetables and [[food-forests]] integrate naturally.
 
 Syntropic agriculture requires deliberate species selection based on **succession phase** and **functional role**. Every species serves at least one purpose: biomass production, nitrogen fixation, pest confusion, microclimate creation, or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
 

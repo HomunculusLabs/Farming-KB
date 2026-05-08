@@ -148,5 +148,3 @@ fertilizer. Quail provide daily eggs while rabbits provide periodic large meat
 
 - [[comparison-chicken-keeping-vs-quail-husbandry]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]
-- [[comparison-chicken-keeping-vs-duck-keeping]]
-- [[comparison-chicken-tractor-vs-free-range]]

@@ -39,7 +39,7 @@ The principle of retaining water on the landscape connects Holzer's work to the 
 
 These earthwork techniques are designed to slow, spread, and sink water as it moves across the land, maximizing infiltration and minimizing runoff. Holzer's ponds and wetlands serve the same function but with an added dimension: they create aquatic habitats that increase biodiversity and provide additional yields (fish, edible plants, wildlife) beyond what terrestrial agriculture alone can produce.
 
-Holzer's approach to water management is described in detail in [[holzer-water-landscapes-pond-building]]. His ponds are not uniform, engineered structures but varied, organic shapes that follow the contours of the land and create a diversity of aquatic conditions -- deep water, shallow margins, marshy edges -- each supporting different communities of plants and animals.
+Holzer's approach to water management is described in detail in [[sepp-holzer-permaculture-and-rebel-farming]]. His ponds are not uniform, engineered structures but varied, organic shapes that follow the contours of the land and create a diversity of aquatic conditions -- deep water, shallow margins, marshy edges -- each supporting different communities of plants and animals.
 
 ## Terraces
 

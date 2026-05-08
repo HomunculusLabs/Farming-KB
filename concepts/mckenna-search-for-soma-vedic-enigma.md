@@ -143,8 +143,8 @@ memory of direct encounter with the transcendent is entirely lost.
 
 ## See Also
 
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- amanita-muscaria-and-ibotenic-acid-fungi
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
-- [[halpern-native-us-dmt-maoi-plants]]
+- [[ayahuasca-and-dmt-plant-medicine]]
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 - [[mckenna-shamanic-meme]]

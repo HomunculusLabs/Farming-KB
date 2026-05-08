@@ -126,6 +126,6 @@ lies in the future. Natural farming is the only future for man."
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-one-thing-is-all-things-holism]]

@@ -148,6 +148,3 @@ single liquid amendment.
 
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
-- [[comparison-fpj-vs-ffj]]
-- [[comparison-fish-aminos-vs-vermicompost-tea]]
-- [[natural-farming-methods-comparison]]

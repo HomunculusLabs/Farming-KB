@@ -148,4 +148,3 @@ Tree roots extending into crop alleys compete with crops for water and
 The crop alley supports rotational annual cropping while the soil is being
 built by hedgerow mulch:
 - Year 1: Nitrogen-demanding grain crop (maize, sorghum) benefiting from
-  fresh hedgerow mulch nitrogen release.

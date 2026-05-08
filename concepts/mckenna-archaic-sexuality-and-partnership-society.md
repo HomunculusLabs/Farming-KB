@@ -124,7 +124,4 @@ If the impact of ibogaine on sexual dysfunction is found to be congruent with it
 
 These powerful plants that change our relationship to our sexuality are the special province of peoples whom we are accustomed to thinking of as primitive, a fact that reveals the depth of our cultural blinders.
 
-
-
-
 See also: [[mckenna-dominator-vs-partnership-society-model]], [[mckenna-fall-of-partnership-society]], [[mckenna-food-gods-ibogaine-bwiti-fang]], [[mckenna-dioscorea-population-reproduction-effects]], [[mckenna-agriculture-and-the-fall-from-paradise]]

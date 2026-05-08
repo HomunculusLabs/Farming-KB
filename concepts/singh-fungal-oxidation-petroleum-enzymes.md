@@ -112,4 +112,4 @@ forming more hydrophilic and less toxic products.
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[mycoremediation-advantages-limitations]]
+- [[bioremediation-using-fungi]]

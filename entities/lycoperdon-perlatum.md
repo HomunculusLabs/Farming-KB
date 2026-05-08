@@ -130,20 +130,6 @@ L. perlatum is excellent when young with white, firm gleba:
 ## Ecological Role and Permaculture Applications
 
 L. perlatum plays several important ecological functions:
-
-- **Wood decomposition:** Primary decomposer of hardwood and conifer
-  debris, accelerating nutrient cycling
-- **Soil building:** Converts woody carbon into humus and fungal biomass,
-  improving soil structure and water retention
-- **Heavy metal bioaccumulation:** Bioconcentrates cadmium, lead, and
-  mercury — useful as a bioindicator but do not eat from contaminated
-  sites
-- **Permaculture:** Supports nutrient cycling in food forests; can be
-  inoculated into wood chip mulch and hugelkultur beds to accelerate
-  decomposition
-- **Wildlife:** Slugs, insects, and small mammals feed on fruiting
-  bodies; spores dispersed by rain impact and disturbance
-
 ## Related Species
 
 - **Lycoperdon pyriforme:** Found on buried decaying wood; smoother

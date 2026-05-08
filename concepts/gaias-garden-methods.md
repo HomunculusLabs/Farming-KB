@@ -115,7 +115,7 @@ See [[food-forest-design]] for the full framework. Hemenway's approach:
 ## Links
 
 - [[food-forest-design]] — Food forest design framework
-- [[permaculture-design-methods]] — Broader permaculture design toolkit
+- [[permaculture-design]] — Broader permaculture design toolkit
 - [[permaculture-zones-in-practice]] — Detailed zone planning
 - [[mulching-guide]] — Mulching materials and techniques
 - [[sheet-mulching]] — Detailed sheet mulching guide

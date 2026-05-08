@@ -123,4 +123,4 @@ Phase II metabolism is indispensable for rational drug design, personalized medi
 
 - [[cytochrome-p450-enzymes-drug-metabolism]] — Phase I oxidative metabolism
 - [[reactive-oxygen-species-and-oxidative-stress]] — ROS generation and antioxidant defenses
-- [[structure-activity-relationship-medicinal-chemistry]] — How molecular structure affects metabolism
+- structure activity relationship medicinal chemistry — How molecular structure affects metabolism

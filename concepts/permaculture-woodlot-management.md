@@ -103,7 +103,7 @@ Drying guidelines:
 
 - Wood is ready to burn when cracks appear on the ends and it makes a hollow sound when two pieces are struck together
 
-In a [[permaculture-woody-mulch-systems]] approach, the bark and small branch material removed during splitting can be chipped for mulch rather than discarded. This closes the nutrient cycle and returns organic matter to garden or orchard areas.
+In a [[permaculture-design]] approach, the bark and small branch material removed during splitting can be chipped for mulch rather than discarded. This closes the nutrient cycle and returns organic matter to garden or orchard areas.
 
 Store at least one full season's supply of firewood so you are always burning properly seasoned wood. Green or wet wood produces more smoke, less heat, and contributes to creosote buildup in chimneys. A well-organized woodshed near the house minimizes the effort required to bring fuel indoors during winter.
 

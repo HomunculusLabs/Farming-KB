@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[mda-compound-profile]]. The designation "MDO" is used in some contexts to distinguish the base compound from its more famous N-methyl derivative (MDMA). In Shulgin's PIHKAL, MDA is entry #100 and is described as one of the most important and extensively studied compounds in the phenethylamine-amphetamine family.
+MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[ayahuasca-and-dmt-plant-medicine]]. The designation "MDO" is used in some contexts to distinguish the base compound from its more famous N-methyl derivative (MDMA). In Shulgin's PIHKAL, MDA is entry #100 and is described as one of the most important and extensively studied compounds in the phenethylamine-amphetamine family.
 
 ## Chemical Identity
 
@@ -82,7 +82,7 @@ The PIHKAL entries for MDOH (N-Hydroxy-MDA, PIHKAL #114) document the following 
 
 ## The MDA-MDOH Coincidence
 
-One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[mda-compound-profile]]." During the initial synthesis, the conditions — particularly distillation temperature — caused the N-hydroxy compound to decompose back to MDA plus oxime.
+One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[ayahuasca-and-dmt-plant-medicine]]." During the initial synthesis, the conditions — particularly distillation temperature — caused the N-hydroxy compound to decompose back to MDA plus oxime.
 
 "After the second synthesis, when MDOH had truly been prepared, the brand new search for dosage and effects revealed they were almost identical to the earlier (inadvertently produced MDA) observations." This coincidence meant that the initial dosage and effects data attributed to MDOH was actually MDA data, yet the true MDOH produced nearly identical results. This raised profound questions about whether MDOH was pharmacologically distinct from MDA or whether metabolic interconversion was occurring. See [[phenethylamine-chemistry-basics]] for the chemical details of this decomposition pathway.
 
@@ -90,7 +90,7 @@ One of the most remarkable episodes in Shulgin's research career involved MDOH. 
 
 The MDA-MDOH coincidence prompted Shulgin to speculate about possible metabolic interconversion between the two compounds:
 
-"Might there be metabolic interconversion within the body? The immediate thought would be that the hydroxy group might be metabolically removed. But the opposite direction is more appealing — the in vivo conversion of [[mda-compound-profile]] to MDOH."
+"Might there be metabolic interconversion within the body? The immediate thought would be that the hydroxy group might be metabolically removed. But the opposite direction is more appealing — the in vivo conversion of [[ayahuasca-and-dmt-plant-medicine]] to MDOH."
 
 Key points of this speculation:
 
@@ -103,7 +103,7 @@ This speculation remains unresolved. If MDA is metabolically converted to MDOH i
 
 ## See Also
 
-- [[mda-compound-profile]] — full compound profile with synthesis details
+- [[ayahuasca-and-dmt-plant-medicine]] — full compound profile with synthesis details
 - [[mdma-compound-profile]] — N-methyl derivative, the most famous MDXX compound
 - [[mde-compound-profile]] — N-ethyl derivative, discussed in PIHKAL #106
 - [[shulgin-dosage-guidelines]] — Shulgin's dosage rating system used in PIHKAL

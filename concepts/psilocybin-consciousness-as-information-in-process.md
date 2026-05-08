@@ -34,7 +34,7 @@ Powell argues that all objects, whether organic or inorganic, possess intrinsic 
 
 Powell proposes that during entheogenic experience, consciousness appears to split into two informational entities: the self (ego) and the Other. The Other represents an organised source of intentional information that communicates with the individual whose neuronal system is infused with [[entheogenic-ceremony-preparation]] alkaloids.
 
-The Other can be understood as a dissociated or higher-level informational source acting as one component in a dialogue process. Through entheogens, the individual psyche manages to open itself to the realm of the Other, facilitating a dialogue of thought in which radical knowledge is received. This Other aligns with what Aldous Huxley Doors Of Perception called "Mind at Large" and what [[terence-mckenna-stoned-ape-hypothesis]] called the "Gaian Mind."
+The Other can be understood as a dissociated or higher-level informational source acting as one component in a dialogue process. Through entheogens, the individual psyche manages to open itself to the realm of the Other, facilitating a dialogue of thought in which radical knowledge is received. This Other aligns with what Aldous Huxley Doors Of Perception called "Mind at Large" and what [[psychedelic-mushrooms-species-and-identification]] called the "Gaian Mind."
 
 ## The Language of Shamanic Contemplation
 

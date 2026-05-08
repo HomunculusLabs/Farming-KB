@@ -65,7 +65,7 @@ For the production of [[cannabis-hashish-guide]] from extracted oil, winterizati
 
 ## Related Topics
 
-- [[cannabis-extraction-solvent-properties-and-safety]] for solvent selection details
+- [[cannabis-indoor-growing-guide]] for solvent selection details
 - [[cannabis-oil-purification-techniques]] for broader purification methods
 - [[cannabis-solvent-reflux-extraction-methods]] for the extraction steps preceding winterization
 - [[cannabis-honey-oil-production]] for activated charcoal filtration after winterization

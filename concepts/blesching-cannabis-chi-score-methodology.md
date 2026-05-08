@@ -110,11 +110,11 @@ Each CHI disease entry includes qualitative healing tools that complement the qu
 - **Suggested Blessings**: Inspirational statements that patients can use or adapt to support their healing intention
 - **Suggested Affirmations**: Positive self-statements designed to reinforce healing-oriented belief patterns
 
-These tools reflect Blesching's integration of [[mind-body medicine]] with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
+These tools reflect Blesching's integration of [[mind-body-medicine]] with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
 
 ## Integration with Mind-Body Medicine
 
-The CHI methodology is unique among cannabis evidence-rating systems in that it explicitly integrates [[mind-body medicine]] considerations alongside pharmacological evidence. Each disease entry includes not only the research evidence and CHI score but also strain-specific recommendations, mind-body perspectives on the condition, powerful questions for self-reflection, suggested blessings, and affirmations. This holistic approach reflects Blesching's conviction that combining evidence-based cannabis science with mindfulness techniques produces synergistic healing outcomes.
+The CHI methodology is unique among cannabis evidence-rating systems in that it explicitly integrates [[mind-body-medicine]] considerations alongside pharmacological evidence. Each disease entry includes not only the research evidence and CHI score but also strain-specific recommendations, mind-body perspectives on the condition, powerful questions for self-reflection, suggested blessings, and affirmations. This holistic approach reflects Blesching's conviction that combining evidence-based cannabis science with mindfulness techniques produces synergistic healing outcomes.
 
 ## Limitations of the CHI System
 

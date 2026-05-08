@@ -148,6 +148,3 @@ Understanding the forest as a living entity transforms how we design:
 - [[mollison-forest-water-climate]]
 - [[mollison-tree-crop-systems-permaculture]]
 - [[cynara-scolymus-entity]]
-- [[helianthus-annuus-entity]]
-- [[lepidium-meyenii-entity]]
-- [[pistacia-vera-entity]]

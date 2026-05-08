@@ -129,17 +129,6 @@ overdose risk.
 - **EU:** Controlled under member state NPS legislation.
 - **Japan:** Designated substance under Pharmaceutical Affairs Law.
 
-## History
-
-Developed by Ralf Heim at the Free University of Berlin in the early
-2000s.
-
-Appeared recreationally on blotter paper around 2010; multiple
-fatalities between 2012–2015 prompted emergency scheduling worldwide.
-
-The Cimbi-36 designation refers to its use as a 5-HT2A PET imaging
-radioligand (carbon-11 labeled).
-
 ## Related Compounds
 
 - **2C-B:** Parent compound; milligram-range potency, oral

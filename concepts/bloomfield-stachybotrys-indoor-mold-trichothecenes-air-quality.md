@@ -135,21 +135,6 @@ microbiology, appropriate strains, and a modern laboratory. Mycotoxin
 production is incomparably simpler than developing nuclear munitions.
 
 ## Gulf War Syndrome Connection
-
-Trichothecenes have been considered as a possible cause of illnesses
-contracted by American servicemen during the 1991 Persian Gulf War.
-While definitive proof remains elusive, confirmed Iraqi research into
-mycotoxin weapons raises legitimate concerns about potential exposure.
-
-## Reasonable Assessment
-
-Despite dramatic headlines, a measured perspective is warranted.
-Biologist Susan Kaminskyj at the University of Saskatoon, who fields
-frequent calls from panicked homeowners, offers sound advice: "If this
-mold did not kill you yesterday, it is unlikely that you will die
-today." Isolated patches can be treated with diluted bleach, but the
-moisture source must be addressed.
-
 ## See Also
 
 - [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]

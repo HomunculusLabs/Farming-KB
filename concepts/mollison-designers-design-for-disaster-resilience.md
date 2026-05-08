@@ -148,4 +148,3 @@ control also improves drought resilience through groundwater recharge.
 Fire-resistant vegetation provides windbreak protection. Earth-sheltered
 buildings resist fire, wind, and earthquake damage while improving
 thermal comfort. This integration of multiple functions aligns
-disaster resilience with core [[permaculture-design]] principles.

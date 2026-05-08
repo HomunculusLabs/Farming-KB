@@ -134,7 +134,7 @@ Mixed-species plantations with diverse canopies show reduced Hypsipyla damage co
 - [[leucaena-leucocephala]]
 - [[gliricidia-sepium]]
 - [[moringa-oleifera]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[ganoderma-lucidum]]
 - [[hericium-erinaceus]]
 - [[permaculture]]

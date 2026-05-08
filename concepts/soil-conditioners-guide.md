@@ -121,5 +121,5 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 ## Related
 
 - [[animal-manure-guide]] — animal manures as primary soil conditioners
-- [[peat-free-gardening]] — peat alternatives including many of these conditioners
+- peat free gardening — peat alternatives including many of these conditioners
 - [[composting-materials-alternative]] — sourcing materials for homemade compost

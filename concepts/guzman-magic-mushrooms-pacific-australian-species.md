@@ -52,7 +52,7 @@ Allen et al. (1991).
 - **Amanita muscaria**: Introduced and naturalized; documented by
   Cleland (1976)
 - **Copelandia cyanescens**: Present; confirmed by Pollock (1976)
-- **[[gymnopilus-spectabilis]]** and **G. purpuratus**: Both present
+- **[[gymnopilus-spectabilis-entity]]** and **G. purpuratus**: Both present
 - **Panaeolina foenisecii**: Widespread; documented by Southcott (1974)
 - **Panaeolus** species: P. ater, P. fimicola, P. olivaceus, P.
   papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus

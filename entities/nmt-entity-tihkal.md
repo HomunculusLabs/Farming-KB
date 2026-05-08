@@ -148,5 +148,3 @@ complicates regulatory approaches. Some jurisdictions may regulate it as a
 precursor chemical.
 
 ## See Also
-
-- [[nmt]]

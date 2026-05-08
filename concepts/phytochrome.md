@@ -139,34 +139,6 @@ plants, where the spectral composition of artificial lighting can influence
 developmental timing and morphology.
 
 ## Phytochrome Gene Families
-
-Modern research has revealed that phytochrome is not a single protein but a
-small gene family. In Arabidopsis thaliana, five phytochrome genes (phyA
-through phyE) have been identified, each with distinct but overlapping roles:
-
-- **phyA**: primary photoreceptor for germination and de-etiolation under
-  continuous far-red light
-- **phyB**: dominant receptor for shade avoidance and flowering responses
-- **phyC, phyD, phyE**: more specialized roles in specific light conditions
-
-This diversity allows plants to mount nuanced responses to complex light
-environments including canopy shade, where the red-to-far-red ratio drops
-significantly because chlorophyll in overlying leaves absorbs red light but
-transmits far-red.
-
-## Ecological Significance
-
-The phytochrome system is ecologically critical because it allows plants to
-detect and respond to competition from neighboring vegetation. When a plant is
-shaded by other plants, the ratio of red to far-red light decreases because
-the canopy above absorbs most red light while transmitting far-red.
-
-Phytochrome detects this shift and triggers shade avoidance responses: stem
-elongation accelerates, leaf angle changes to capture more light, and flowering
-may be accelerated. This ability to "see" neighboring plants through spectral
-quality changes is a sophisticated form of environmental awareness that
-operates continuously throughout a plant's life.
-
 ## See Also
 
 - [[phototropism]] - directional growth toward light via blue-light receptors

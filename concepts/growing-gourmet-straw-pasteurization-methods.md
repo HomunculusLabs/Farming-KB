@@ -39,7 +39,7 @@ cultivating [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] on straw.
 mushrooms, including Pleurotus citrinopileatus, P. cystidiosus,
 P. djamor, P. eryngii, P. euosmus, P. ostreatus, and P. pulmonarius.
 Other mushrooms like [[growing-gourmet-king-stropharia-cultivation]], [[growing-gourmet-shaggy-mane-coprinus-cultivation]],
-[[growing-gourmet-paddy-straw-mushroom-volvariella]], and
+growing gourmet paddy straw mushroom volvariella, and
 [[growing-gourmet-button-mushroom-agaricus-cultivation]] also thrive on straw-based substrates.
 
 ## The Hot Water Bath Method
@@ -146,4 +146,4 @@ attempting alternative methods commercially.
 ## See Also
 
 - [[growing-gourmet-species-sequencing-substrate-recycling]]
-- [[growing-gourmet-pink-oyster-djamor-cultivation]]
+- growing gourmet pink oyster djamor cultivation

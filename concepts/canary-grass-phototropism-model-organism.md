@@ -139,21 +139,6 @@ coleoptiles, which share the same basic architecture as canary grass.
 
 While contemporary plant science has largely adopted *Arabidopsis thaliana* as
 its primary genetic model organism, the coleoptile-based phototropism assay
-developed with canary grass and other grasses provided the conceptual and
-methodological foundation for all subsequent work on plant light sensing. The
-phototropin photoreceptors responsible for blue-light phototropism were ultimately
-identified through genetic screens in Arabidopsis, but the basic principle that
-light perception and the growth response occur in different parts of the plant,
-connected by a mobile signal, traces directly back to Darwin's experiments with
-canary grass in a darkened room.
-
-The canary grass experiments also illustrate a broader principle in the history of
-biology: that the choice of model organism can have profound consequences for the
-trajectory of an entire field. Darwin could have chosen any plant that bends toward
-light, but the specific qualities of canary grass, its straight coleoptile, its
-sensitivity, and its amenability to surgical manipulation, made possible the
-clean, unambiguous results that changed our understanding of plant perception.
-
 ## See Also
 
 - [[darwins-phototropism-experiments]]

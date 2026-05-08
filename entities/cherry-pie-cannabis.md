@@ -33,7 +33,7 @@ sources:
 
 Cherry Pie is a balanced indica-dominant hybrid cannabis strain renowned for
 its dessert-like cherry aroma and deeply relaxing body effects. A cross between
-Granddaddy Purple and Durban Poison, it inherits a complex terpene profile
+[[granddaddy-purple]] and [[durban-poison]], it inherits a complex terpene profile
 that balances sweet fruitiness with earthy, pungent undertones. Since emerging
 in the San Francisco Bay Area medical cannabis scene, Cherry Pie has become one
 of the most widely recognized strains in North American dispensaries.
@@ -49,7 +49,7 @@ Cherry Pie descends from two foundational cannabis genetics:
 
 - **Granddaddy Purple (female)** — Provides the dense purple bud structure,
   grape and berry terpene base, and heavy indica sedation. GDP descends from
-  Purple Urkle and Big Bud, carrying deep Afghani heritage.
+  [[purple-urkle]] and Big Bud, carrying deep Afghani heritage.
 - **Durban Poison (male)** — Contributes uplifting cerebral effects, a spicy
   anise undertone, and the signature bud shape. A pure South African landrace
   sativa.
@@ -132,7 +132,7 @@ training (LST) and scrog methods; topping is recommended for even canopy.
 
 ## Notable Phenotypes and Crosses
 
-Several notable derivative crosses have emerged: Cherry Pie × Girl Scout Cookies
+Several notable derivative crosses have emerged: C [[girl-scout-cookies]] cout Cookies
 produces exceptionally sweet, dessert-forward phenotypes with amplified
 trichome production. Cherry AK crosses with AK-47 for added uplifting energy.
 Cherry Garcia enhances cerebral effects while retaining cherry aroma. Black
@@ -148,5 +148,3 @@ impair coordination and cognitive function, making driving inadvisable.
 ## See Also
 
 - [[blesching-cannabis-health-index-autoimmune-conditions]]
-- [[durban-poison]]
-- [[girl-scout-cookies]]

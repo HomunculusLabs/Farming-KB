@@ -148,4 +148,3 @@ requires microscopic examination of spore morphology.
 - [[oss-oeric-psilocybe-cubensis-strain-guide]] for cultivation focus
 - [[oss-oeric-dosage-guidelines-and-potency]] for dosage information
 - [[mushrooms-fungi-from-around-the-world-guide]]
-- [[light-basidiocarp-initiation-psilocybe-cubensis-research]]

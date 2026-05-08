@@ -9,7 +9,7 @@ tags: [mycology, mushrooms]
 
 # Southeast Asian Mushroom Tourism and the Bali Omelette Tradition
 
-Since the late 1960s, the custom of using [[psilocybin]]-containing mushrooms has evolved across various countries in Asia and the Pacific Islands. The most distinctive manifestation of this practice is the famous "mushroom omelette" tradition of Bali, Indonesia -- where psychoactive mushrooms were served openly in restaurants as legal culinary specialties for tourists.
+Since the late 1960s, the custom of using [[psilocybin-compound]]-containing mushrooms has evolved across various countries in Asia and the Pacific Islands. The most distinctive manifestation of this practice is the famous "mushroom omelette" tradition of Bali, Indonesia -- where psychoactive mushrooms were served openly in restaurants as legal culinary specialties for tourists.
 
 ## The Bali Mushroom Omelettes
 

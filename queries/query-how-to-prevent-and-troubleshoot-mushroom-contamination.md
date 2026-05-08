@@ -147,6 +147,3 @@ Each contaminated jar teaches you something about your process, your environment
 - When in doubt, throw it out: contaminated spawn or substrate should be removed promptly to protect future grows
 
 ## Related Questions
-
-- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
-- [[query-how-to-start-growing-mushrooms-at-home]]

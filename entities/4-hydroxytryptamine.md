@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-produ
 
 # 4-Hydroxytryptamine
 
-4-Hydroxytryptamine (4-HT), also known as 4-serotonin or p-serotonin, is a positional isomer of [[serotonin]] (5-hydroxytryptamine) and a critical biosynthetic intermediate in the production of [[psilocin]] and [[psilocybin]] by psychedelic mushrooms of the genus [[psilocybin]]. While serotonin carries its hydroxyl group at the 5-position of the indole ring, 4-hydroxytryptamine bears it at the 4-position.
+4-Hydroxytryptamine (4-HT), also known as 4-serotonin or p-serotonin, is a positional isomer of [[serotonin]] (5-hydroxytryptamine) and a critical biosynthetic intermediate in the production of [[psilocin]] and [[psilocybin-compound]] by psychedelic mushrooms of the genus [[psilocybin-compound]]. While serotonin carries its hydroxyl group at the 5-position of the indole ring, 4-hydroxytryptamine bears it at the 4-position.
 
 ## Chemical Structure and Properties
 
@@ -22,7 +22,7 @@ The compound is an amine and a phenol, giving it both basic and acidic propertie
 
 ## Biosynthesis in Psilocybe Mushrooms
 
-4-Hydroxytryptamine is the central intermediate in the [[psilocybin]] biosynthetic pathway in [[psilocybin]] fungi. The pathway proceeds through four enzymatic steps:
+4-Hydroxytryptamine is the central intermediate in the [[psilocybin-compound]] biosynthetic pathway in [[psilocybin-compound]] fungi. The pathway proceeds through four enzymatic steps:
 
 1. **Decarboxylation**: L-tryptophan is decarboxylated by the enzyme PsiiA (aromatic L-amino acid decarboxylase) to yield [[tryptamine]].
 
@@ -30,9 +30,9 @@ The compound is an amine and a phenol, giving it both basic and acidic propertie
 
 3. **N,N-Dimethylation**: The enzyme PsiK (a methyltransferase using S-adenosyl methionine as a cofactor) dimethylates the amine of 4-hydroxytryptamine to produce [[psilocin]] (4-hydroxy-N,N-dimethyltryptamine). This step proceeds through the mono-methylated intermediate 4-hydroxy-N-methyltryptamine.
 
-4. **Phosphorylation**: The enzyme PsiM (a phosphotransferase) phosphorylates [[psilocin]] at the 4-hydroxy position to produce [[psilocybin]] (4-phosphoryloxy-N,N-dimethyltryptamine).
+4. **Phosphorylation**: The enzyme PsiM (a phosphotransferase) phosphorylates [[psilocin]] at the 4-hydroxy position to produce [[psilocybin-compound]] (4-phosphoryloxy-N,N-dimethyltryptamine).
 
-The discovery and characterization of this pathway, particularly the identification of PsiD as the enzyme responsible for generating 4-hydroxytryptamine, was a significant advance in understanding how [[psilocybin]] fungi produce their characteristic psychoactive compounds.
+The discovery and characterization of this pathway, particularly the identification of PsiD as the enzyme responsible for generating 4-hydroxytryptamine, was a significant advance in understanding how [[psilocybin-compound]] fungi produce their characteristic psychoactive compounds.
 
 ## Biological Activity
 
@@ -48,7 +48,7 @@ The discovery and characterization of this pathway, particularly the identificat
 
 Beyond its role as a biosynthetic intermediate, 4-hydroxytryptamine has been detected at low levels in:
 
-- **[[psilocybin]] mushrooms**: As a transient intermediate in the [[psilocybin]] pathway, present at concentrations typically below those of [[psilocin]] and [[psilocybin]].
+- **[[psilocybin-compound]] mushrooms**: As a transient intermediate in the [[psilocybin-compound]] pathway, present at concentrations typically below those of [[psilocin]] and [[psilocybin-compound]].
 - **Mammalian brain tissue**: Detected in trace amounts, possibly as a minor metabolite of [[tryptamine]] or [[serotonin]].
 - **Some plant species**: Reported in certain plants, though its ecological role in plants is unclear.
 
@@ -79,18 +79,18 @@ These differences highlight the precision of receptor-ligand interactions in the
 
 - **Enzyme assays**: As a substrate or inhibitor for enzymes involved in tryptamine metabolism, including monoamine oxidases, indolethylamine N-methyltransferase (INMT), and the PsiD/PsiK/PsiM enzyme cascade.
 - **Receptor pharmacology**: As a tool compound for studying the structural requirements for [[serotonin]] receptor binding and activation. Comparing the activity of 4-HT with [[serotonin]] helps define the pharmacophore for each receptor subtype.
-- **Isotope labeling**: Radiolabeled 4-HT (tritiated or carbon-14 labeled) can be used as a tracer for studying the kinetics and regulation of the [[psilocybin]] biosynthetic pathway in fungal cultures.
-- **Metabolic studies**: Measurement of 4-HT levels in [[psilocybin]] cultures provides information about the flux through the biosynthetic pathway and can be used to optimize cultivation conditions for maximum alkaloid production.
+- **Isotope labeling**: Radiolabeled 4-HT (tritiated or carbon-14 labeled) can be used as a tracer for studying the kinetics and regulation of the [[psilocybin-compound]] biosynthetic pathway in fungal cultures.
+- **Metabolic studies**: Measurement of 4-HT levels in [[psilocybin-compound]] cultures provides information about the flux through the biosynthetic pathway and can be used to optimize cultivation conditions for maximum alkaloid production.
 
 ## Biotechnological Production
 
-The identification of the [[psilocybin]] biosynthetic gene cluster has enabled biotechnological approaches to producing 4-hydroxytryptamine and its derivatives:
+The identification of the [[psilocybin-compound]] biosynthetic gene cluster has enabled biotechnological approaches to producing 4-hydroxytryptamine and its derivatives:
 
 - **Heterologous expression**: The PsiD gene has been expressed in bacterial and yeast systems, enabling the enzymatic production of 4-HT from [[tryptamine]] in cell-free systems or whole-cell biocatalysts.
-- **Metabolic engineering**: Introduction of the complete psilocybin gene cluster (PsiD, PsiK, PsiM, and related genes) into industrial microorganisms (E. coli, S. cerevisiae) allows de novo biosynthesis of 4-HT, [[psilocin]], and [[psilocybin]] from simple carbon sources.
+- **Metabolic engineering**: Introduction of the complete psilocybin gene cluster (PsiD, PsiK, PsiM, and related genes) into industrial microorganisms (E. coli, S. cerevisiae) allows de novo biosynthesis of 4-HT, [[psilocin]], and [[psilocybin-compound]] from simple carbon sources.
 - **Enzyme engineering**: Directed evolution and rational design approaches have been applied to PsiD and related enzymes to improve catalytic efficiency, alter substrate specificity, and enable the production of novel 4-substituted tryptamine derivatives.
 
-These biotechnological approaches offer scalable, sustainable alternatives to chemical synthesis for the production of [[psilocybin]] and related compounds for research and therapeutic applications.
+These biotechnological approaches offer scalable, sustainable alternatives to chemical synthesis for the production of [[psilocybin-compound]] and related compounds for research and therapeutic applications.
 
 ## Enzymology of PsiD
 
@@ -98,7 +98,7 @@ The enzyme responsible for the biosynthesis of 4-hydroxytryptamine from [[trypta
 
 - **Enzyme class**: PsiD is a member of the cytochrome P450 monooxygenase superfamily, specifically belonging to the CYP family. It requires molecular oxygen and NADPH as co-substrates.
 - **Substrate specificity**: PsiD shows strict regioselectivity for hydroxylation at the 4-position of the indole ring, with no detectable 5-, 6-, or 7-hydroxylation products. This selectivity is remarkable given the chemical similarity of the available positions on the indole ring.
-- **Kinetic parameters**: Reported Km values for [[tryptamine]] are in the low micromolar range, indicating high affinity for the substrate. The turnover number (kcat) varies among PsiD homologs from different [[psilocybin]] species.
+- **Kinetic parameters**: Reported Km values for [[tryptamine]] are in the low micromolar range, indicating high affinity for the substrate. The turnover number (kcat) varies among PsiD homologs from different [[psilocybin-compound]] species.
 - **Structural biology**: X-ray crystal structures of PsiD have revealed the molecular basis for its regioselectivity, showing how the indole ring of [[tryptamine]] is oriented within the active site to favor attack at the 4-position.
 - **Biotechnological applications**: Recombinant PsiD has been expressed in E. coli and used for the in vitro enzymatic synthesis of 4-hydroxytryptamine from [[tryptamine]], providing a green chemistry alternative to chemical synthesis for the preparation of this intermediate.
 
@@ -118,7 +118,7 @@ The chemical synthesis of 4-hydroxytryptamine is primarily of academic interest,
 - [[taurine]]
 
 - [[psilocin]] — the N,N-dimethylated product of 4-hydroxytryptamine
-- [[psilocybin]] — the phosphorylated derivative of psilocin
+- [[psilocybin-compound]] — the phosphorylated derivative of psilocin
 - [[tryptamine]] — the substrate for 4-hydroxylation by PsiD
 - [[serotonin]] — the 5-position isomer of 4-hydroxytryptamine
 - L-tryptophan — the amino acid precursor to the entire pathway

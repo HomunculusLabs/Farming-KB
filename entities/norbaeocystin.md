@@ -98,7 +98,7 @@ Notable species in which norbaeocystin has been reported include:
 - *Psilocybe azurescens* — trace levels
 - *Psilocybe baeocystis* — detectable (named species)
 - *Panaeolus cyanescens* — trace
-- *[[gymnopilus-spectabilis]]* — trace
+- *[[gymnopilus-spectabilis-entity]]* — trace
 - *Inocybe* species — variable, often trace
 
 In most cases, reported concentrations are in the range of trace to
@@ -146,5 +146,5 @@ Lack of commercial reference standards remains an obstacle, though
 norbaeocystin can be isolated by preparative HPLC or synthesized.
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]

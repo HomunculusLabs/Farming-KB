@@ -95,7 +95,7 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - **Damage**: Adults and larvae suck plant juice and inject a toxin causing wilt and blackened runners.
 - **Control**: Handpicking. Grow a mixed garden offering cover for beneficials, including buckwheat to harbor tachinid fly parasites. End-of-season sanitation — remove all boards, dead plant residue. Thoroughly compost all squash vegetation.
 
-## [[wireworm-control|wireworms]]
+## [[organic-vegetable-growing-and-market-gardening|wireworms]]
 
 - **Control**: Solomon mentions wireworms among the numerous soil-dwelling pests controlled by parasitic nematodes, along with onion maggots, carrot weevils, cutworms, and cucumber beetle larvae. See [[leatherjacket-pest-control]].
 

@@ -22,7 +22,7 @@ of French flake spawn.
 ## The Spawn Import Trade
 
 Brick spawn came in dry, hard, solid manure bricks completely permeated
-with mushroom mycelium. Bricks varied in size: ten, fourteen, or sixteen
+with mushroom [[mycelium]]. Bricks varied in size: ten, fourteen, or sixteen
 to the bushel. The commonest weighed one pound and measured about eight
 and one-half by five and one-fourth by one and one-fourth inches. A 20%
 duty was charged on imports, and fully half was handled by New York
@@ -30,7 +30,7 @@ City seedsmen, with one firm importing 1,500 bushels annually.
 
 ## Mill-Track Spawn
 
-Mill-track mushroom spawn was advertised by some seedsmen, but what
+Mill-track [[mushroom-spawn]] was advertised by some seedsmen, but what
 they actually sold was only ordinary English brick spawn. The real
 mill-track spawn was natural spawn that had spread through the
 thoroughly amalgamated horse droppings in mill-tracks, or the cleanings
@@ -148,5 +148,3 @@ degrees, never where things will "must."
 
 - [[falconer-french-virgin-spawn-production]] for French flake spawn methods
 - [[falconer-mushroom-spawn-types-and-merits]] for brick versus flake comparison
-- [[falconer-spawning-the-beds]] for how spawn is inserted into beds
-- [[falconer-steeped-spawn-and-transplanting]] for steeped spawn techniques

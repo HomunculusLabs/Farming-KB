@@ -57,7 +57,7 @@ Waste stream utilization: Coffee grounds from cafes, spent grain from breweries,
 
 ## Medicinal Mushrooms in Community Health
 
-Beyond nutrition, many mushroom species produce compounds with significant medicinal properties. [[reishi-mushroom-medicinal-properties]], [[turkey-tail-mushroom-cancer-research]], [[mushroom-training-shiitake-cultivation]], and [[medicinal-mushroom-guide-maitake]] have documented immune-modulating, anti-inflammatory, and potentially anti-cancer properties.
+Beyond nutrition, many mushroom species produce compounds with significant medicinal properties. [[reishi-mushroom-medicinal-properties]], [[mushroom-cultivation-fundamentals]], [[mushroom-training-shiitake-cultivation]], and [[medicinal-mushroom-guide-maitake]] have documented immune-modulating, anti-inflammatory, and potentially anti-cancer properties.
 
 Community mushroom gardens can cultivate these medicinal species alongside food varieties, providing communities with access to functional foods and traditional medicines that might otherwise be expensive or unavailable. This is particularly relevant for indigenous communities and rural populations with limited access to conventional healthcare.
 

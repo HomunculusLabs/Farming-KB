@@ -147,5 +147,3 @@ Approximately 40% of dry matter is reduced by microbial and chemical
 processes during composting: 20-30% during Phase I and another
 10-15% during Phase II. This demonstrates the importance of not
 ## See Also
-
-- [[mushroom-cultivator-phase-ii-composting-biology]]

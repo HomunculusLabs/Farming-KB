@@ -108,6 +108,6 @@ are safer than whole-site changes because they reveal local constraints early.
 
 - [[mycorrhizal-fungi]]
 
-- [[fungal-conservation-strategies]]
+- [[ethnomycology]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[microfungal-species-diversity-large-areas]]

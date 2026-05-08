@@ -147,5 +147,3 @@ ventilation ductwork attachment. They are often used to alter both the
 odor of marijuana and the telltale odor produced by ozone generators.
 
 ## See Also
-
-- [[cervantes-odor-deodorizers-comparison]]

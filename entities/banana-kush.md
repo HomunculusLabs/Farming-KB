@@ -125,6 +125,6 @@ flavored category.
 - [[og-kush]]
 - [[granddaddy-purple]]
 - [[sour-diesel]]
-- [[blue-dream-cannabis]]
+- [[blue-dream-strain]]
 - [[gelato-cannabis]]
 - [[cannabis-indica]]

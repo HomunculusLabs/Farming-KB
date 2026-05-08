@@ -138,24 +138,12 @@ pregnancy unless under qualified professional supervision.
 
 ## Cultivation and Harvest
 
-**Propagation:** Seeds require cold stratification (90–120 days at 4°C)
-and may take 18–24 months to germinate. Softwood cuttings taken in
-early summer root moderately well with hormone treatment. Transplanting
-balled-and-burlapped nursery stock is the most reliable method.
-
-**Growth rate:** Slow to moderate — 30–60 cm per year under good
-conditions. First significant flowering at 4–5 years.
-
-**Medicinal harvest:** Root bark is collected in autumn after leaf
-drop. Bark is stripped from lateral roots (not the main taproot),
-carefully dried in shade or at low temperature (≤40°C). Properly
-
 ## See Also
 
 - [[viburnum-opulus]]
 
 ## See Also
 
-- [[herbal-plant-remedies]]
+- herbal plant remedies
 - [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[medicinal-mushroom-guide-cordyceps]]

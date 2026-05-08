@@ -72,7 +72,7 @@ Composting is another excellent method that integrates accumulators into existin
 compost operations. Accumulator plants mixed into compost piles contribute a
 broader mineral profile than kitchen scraps and yard waste alone, resulting in
 finished compost that is significantly more nutrient-dense. The
-[[compost-chemistry-soil-food-web]] page explains how the carbon-to-nitrogen
+[[composting-and-soil-biology]] page explains how the carbon-to-nitrogen
 ratio of accumulator material varies by species and growth stage, affecting
 decomposition speed and the quality of finished compost.
 

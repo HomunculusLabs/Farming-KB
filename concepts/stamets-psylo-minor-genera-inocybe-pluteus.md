@@ -148,4 +148,3 @@ region to region.
 
 - [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
 - [[hypholoma-pluteus-inocybe-conocybe-genera]]
-- [[psilocybin-mushroom-minor-genera]]

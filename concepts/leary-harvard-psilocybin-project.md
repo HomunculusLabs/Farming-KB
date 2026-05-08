@@ -82,9 +82,9 @@ Psychology, in contrast, has been complacent and silent. Psychologists have been
 
 [[dominator-culture-and-partnership-society]]
 
-[[psilocybe-mexicana-profile]]
+[[psychedelic-mushrooms-species-and-identification]]
 
-[[maria-sabina-mazatec-mushroom-ceremony]]
+[[mushroom-cultivation-fundamentals]]
 
 [[mckenna-dmt-amazonian-ecosystems]]
 

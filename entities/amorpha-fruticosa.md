@@ -148,4 +148,3 @@ USDA hardiness zones 4–9. No serious pest or disease problems.
 - [[black-locust-entity]]
 - [[melilotus-officinalis]]
 - [[trifolium-repens]]
-- [[glycine-max-soybean-permaculture]]

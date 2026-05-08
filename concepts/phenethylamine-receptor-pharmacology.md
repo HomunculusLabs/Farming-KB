@@ -41,7 +41,7 @@ Dopamine receptor interactions contribute to stimulant effects and euphoria:
 - **Direct release**: Some phenethylamines (particularly amphetamines) act as dopamine releasers via reversal of the dopamine transporter (DAT)
 - **Reuptake inhibition**: Many compounds inhibit dopamine reuptake to varying degrees
 - **MDMA** ([[mdma-in-pihkal-context]]): Moderate dopamine release contributes to its stimulant and euphoric effects
-- **MDA** ([[mda-compound-profile]]): More pronounced dopaminergic activity than MDMA
+- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): More pronounced dopaminergic activity than MDMA
 - **DO family** ([[dob-compound-profile]]): As amphetamines, these compounds have significant dopaminergic effects contributing to their long-lasting stimulation
 
 ## Norepinephrine Interactions

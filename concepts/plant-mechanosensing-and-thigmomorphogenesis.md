@@ -137,7 +137,7 @@ illustrates how plant sensory systems function as an integrated whole.
 
 ## See Also
 
-- [[plant-touch-and-thigmomorphogenesis]]
+- [[organic-vegetable-growing-and-market-gardening]]
 
 - [[plant-olfaction-and-chemical-sensing]]
 - [[plant-memory-and-learning]]

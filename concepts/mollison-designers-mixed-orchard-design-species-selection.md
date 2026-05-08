@@ -147,5 +147,3 @@ carryover), scratching manure into the soil, and controlling insect
 pests. Pigs can be used for site preparation and root crop harvest.
 Goats and sheep provide grazing management when carefully timed to
 avoid damage to young trees.
-
-This integration creates nutrient cycling loops where animal manure

@@ -111,7 +111,7 @@ The episode also reflects the ethical complexities of psychiatric research in th
 
 - [[escaline-entity]] -- 3,5-dimethoxy-4-ethoxyphenethylamine (active)
 
-- [[proscaline-entity]] -- 3,5-dimethoxy-4-propoxyphenethylamine (active)
+- [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine (active)
 
 - [[phenethylamine-pharmacology]] -- general pharmacology
 

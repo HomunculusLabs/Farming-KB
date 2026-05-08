@@ -7,7 +7,6 @@ tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 type: concept
 sources: []
 ---
-
 ## Cytochrome P450 Superfamily Overview
 
 Cytochrome P450 (CYP) enzymes are a massive superfamily of heme-thiolate
@@ -39,20 +38,20 @@ Compound I, [Fe4+=O Por*+], one of the most potent biological oxidants, capable
 of H-atom abstraction from C-H bonds (~96-100 kcal/mol).
 6. **Oxygen rebound:** Compound I abstracts H from substrate, then rebounds OH
 (Groves' mechanism, 1976) to yield hydroxylated product. Uncoupling
-(superoxide/H2O2 release) generates reactive oxygen species.
+(superoxide/H2O2 release) generates [[reactive-oxygen-species-and-oxidative-stress]].
 
 ## Human CYP Families in Drug Metabolism
 
 CYP1, CYP2, and CYP3 families account for ~70-80% of phase I drug metabolism:
 
-**CYP1:** CYP1A2 metabolizes caffeine, theophylline, clozapine (~10% of drugs).
+**CY [[caffeine]] P1A2 metabolizes caffeine, theophylline, clozapine (~10% of drugs).
 Inducible by smoking. CYP1A1/CYP1B1 activate PAHs to carcinogens; CYP1B1 is
 overexpressed in tumors.
 
 **CYP2:** The most diverse family. CYP2C9 (warfarin, phenytoin, NSAIDs,
 losartan); CYP2C19 (omeprazole, clopidogrel, diazepam, voriconazole); CYP2D6
 (codeine, tramadol, tamoxifen, metoprolol, ~25% of drugs); CYP2E1 (ethanol,
-acetaminophen at overdose); CYP2A6 (nicotine); CYP2B6 (bupropion, efavirenz).
+acetami [[nicotine]] t overdose); CYP2A6 (nicotine); CYP2B6 (bupropion, efavirenz).
 
 **CYP3:** CYP3A4/3A5 metabolize ~50% of drugs. Substrates include midazolam
 (probe), nifedipine, cyclosporine, tacrolimus, simvastatin, erythromycin,
@@ -82,7 +81,7 @@ CYP2D6 is the most polymorphic drug-metabolizing enzyme with >130 alleles:
 - **Extensive (EM):**:Two functional alleles (*1, *2). ~70-80% of populations.
 - **Ultrarapid (UM):**:Gene duplications (*1xN). ~1-2% Caucasians, up to 29% in Ethiopians.
 
-Critical examples: codeine requires CYP2D6 activation to morphine. PMs get no
+Critical examples: codeine requires CYP2D6 activation to [[morphine]]. PMs get no
 analgesia; UMs produce excessive morphine (pediatric fatalities). FDA boxed
 warning (2013). Tamoxifen requires CYP2D6 for endoxifen formation; PMs have
 higher breast cancer recurrence. Atomoxetine: PMs have 10x higher AUC. Over 30
@@ -104,10 +103,10 @@ boxed warning (2010). PPI dosing affected: PMs have ~4x higher omeprazole AUC.
 Phase I introduces polar groups (-OH, -NH2, -COOH) through oxidation. CYPs
 account for ~70-80% of phase I. Phase II (UGTs, SULTs, GSTs, NATs) conjugates
 hydrophilic molecules for excretion. Phase I often creates groups needed for
-phase II (CYP hydroxylation enables UGT glucuronidation), but phases are not
+phase II (CYP hydroxylation enables UGT [[glucuronidation]]), but phases are not
 strictly sequential (morphine undergoes direct glucuronidation). Phase I can
 produce toxic intermediates (CYP2E1 converts acetaminophen to NAPQI); phase II
-glutathione conjugation detoxifies these. Overdose depletes glutathione, causing
+[[glutathione-conjugation]] detoxifies these. Overdose depletes glutathione, causing
 hepatic necrosis.
 
 ## Drug-Drug Interactions
@@ -138,7 +137,7 @@ CYP nomenclature (Nelson): CYP + Family (>=40% identity) + Subfamily (>=55%) +
 Gene + Allele (*numeral, e.g., CYP2D6*4). Duplications: xN. Over 800 families
 across species; 18 in humans.
 
-Applications: bioremediation (CYP101 oxidizes camphor; CYP102A1/P450BM3 degrades
+Applications: bioremediation (CYP101 oxidizes [[camphor]]; CYP102A1/P450BM3 degrades
 PAHs); biocatalysis via directed evolution (Frances Arnold, Nobel 2018) for
 regio/stereoselective hydroxylation; plant P450s in microbial systems for
 artemisinin precursors and taxol intermediates; fungal P450s for lignin
@@ -147,8 +146,3 @@ degradation and PCB remediation.
 ## See Also
 
 - [[cytochrome-p450-enzyme-system]]
-
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cervantes-cannabis-tolerance-addiction-pharmacology]]
-- [[fungal-enzyme-kinetics]]
-- [[cannabis-minor-cannabinoids]]

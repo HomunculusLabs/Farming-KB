@@ -134,7 +134,7 @@ Fukuoka's analysis of why environmental problems persist:
 - [[natural-way-of-farming-guide]] -- Deep dive into The Natural Way of Farming
 - [[fukuoka-no-prune-fruit-tree-method]] -- No-pruning orchard technique
 - [[fukuoka-soil-building-method]] -- Soil restoration method
-- [[no-till-gardening-method]] -- Modern no-till methods and transition
+- [[composting-and-soil-biology]] -- Modern no-till methods and transition
 - [[seed-starting-reference]] -- Seed germination and early growth
 - [[orchard-management]] -- Fruit tree care and seasonal calendar
 - [[natural-farming-vs-organic-vs-conventional]] -- Three-way comparison

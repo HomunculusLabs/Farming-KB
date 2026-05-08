@@ -139,7 +139,7 @@ Acapulco Gold occupies a central place in cannabis culture history:
 ## See Also
 
 - [[colombian-gold]] — Related South American sativa landrace
-- [[thai-stick]] — Southeast Asian landrace counterpart
+- [[thai-stick-entity]] — Southeast Asian landrace counterpart
 - haze — Multi-landrace hybrid with Mexican genetics
 - mexican sativa landraces — Overview of Mexico's cannabis genetic heritage
 - [[blesching-cannabis-sativa-indica-classification]] — Detailed comparison of cannabis subspecies classifications

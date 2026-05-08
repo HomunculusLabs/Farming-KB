@@ -148,9 +148,3 @@ carbon from the plant is traded for nutrients from the fungus:
   and sugars
 - The carbon cost to the plant is offset by the value of nutrients
 ## See Also
-- [[plant-nutrient-uptake-mechanisms]]
-- [[temperature-effects-plant-nutrient-uptake]]
-- [[plant-nutrient-uptake]]
-- [[arbuscular-mycorrhizal-fungi]] -- AM fungal biology and symbiosis
-- [[ectomycorrhizal-fungi]] -- comparative ectomycorrhizal nutrient strategies
-- [[fungal-heavy-metal-uptake-and-translocation]] -- heavy metal dynamics in mycorrhizae

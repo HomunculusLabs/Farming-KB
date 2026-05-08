@@ -22,7 +22,7 @@ and [[ingham-aact-disease-suppression]].
 
 ## Microarthropods: Mites and Springtails
 
-Mites and springtails (Collembola) are the most numerous [[soil-arthropods]]. A
+Mites and springtails (Collembola) are the most numerous soil arthropods. A
 teaspoon of forest soil may contain 100 mites and 50 springtails. Despite their
 tiny size (typically under 1 mm), their collective impact is enormous.
 
@@ -89,7 +89,7 @@ microbes and nutrients throughout the soil profile.
 
 ## Nutrient Cycling
 
-Arthropods are the "shredders" of the [[compost-chemistry-soil-food-web]]. When macroarthropods chew
+Arthropods are the "shredders" of the [[composting-and-soil-biology]]. When macroarthropods chew
 plant material into smaller pieces, they dramatically increase the surface area
 available for microbial colonization. This is called comminution and is one of
 the rate-limiting steps in decomposition. Without arthropods, leaves and twigs

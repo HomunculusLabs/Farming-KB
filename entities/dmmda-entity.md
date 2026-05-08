@@ -89,7 +89,7 @@ Duration: 6 - 8 h.
 
 [[mmda-entity]]
 
-[[mda-entity]]
+[[mda]]
 
 [[lsd-compound-profile]]
 

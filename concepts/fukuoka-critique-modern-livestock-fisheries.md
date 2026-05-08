@@ -148,4 +148,3 @@ with gratitude rather than extracted with force.
 - [[natural-farming]]
 - modern agriculture
 - sustainability
-- land use

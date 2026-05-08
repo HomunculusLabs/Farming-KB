@@ -131,43 +131,6 @@ subsequent correspondence until Lloyd's death in 1926.
 
 ## Historical Context
 
-### The Golden Age of Mycology
-
-Buller and Lloyd worked during what might be called the
-golden age of descriptive and experimental mycology.
-Between 1880 and 1930, the basic frameworks of fungal
-classification were established.
-The major mechanisms of spore discharge were characterized,
-and the ecological roles of fungi began to be understood.
-Both men contributed enormously to this period of rapid
-progress.
-
-### Institutional vs. Independent Science
-
-Their careers illustrate two paths available to scientists
-of the era. Buller represented the institutional path:
-university appointment, laboratory resources, graduate
-students, and the authority of academic credentials.
-Lloyd represented the independent path: private wealth,
-self-directed research, freedom from institutional
-constraints, and the credibility earned through expertise
-alone. Both paths produced outstanding science, and the
-tension between them persists in modern research.
-
-### The Role of Amateurs
-
-Lloyd's career demonstrates the historical importance of
-amateur naturalists in building scientific knowledge. Before
-government funding and university departments became the
-dominant model, much biological knowledge was produced by
-physicians, clergy, businessmen, and landed gentry who
-studied nature as avocation.
-The mycological community was particularly welcoming of
-amateurs, and many significant species were first described
-by non-professionals. Lloyd's legacy reminds us that
-scientific contribution is not limited to those with
-formal credentials.
-
 ## Related Concepts
 
 - History of Mycology
@@ -181,6 +144,6 @@ formal credentials.
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
 - [[mr-bloomfields-ah-reginald-buller-and-experimental-mycology]]
 - [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
-- [[bloomfields-orchard-fungal-pathogens-and-human-disease]]
+- [[fungal-pathogens-human-disease]]
 
 - [[rust-fungi]]

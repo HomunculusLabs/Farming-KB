@@ -129,6 +129,6 @@ spores as the challenge organism.
 
 ## See Also
 
-- [[microwave-surface-sterilization]] for the technology overview
+- microwave-surface-sterilization for the technology overview
 - [[trace-water-enhanced-microwave-sterilization]] for the water mechanism
 - [[microwave-sterilizable-access-port]] for the engineering system

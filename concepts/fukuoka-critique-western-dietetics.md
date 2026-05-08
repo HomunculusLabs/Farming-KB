@@ -96,7 +96,7 @@ If all this is asking too much of modern man, with his weakened heart and stomac
 
 - [[fukuoka-natural-diet-philosophy]]
 
-- [[fukuoka-natural-diet-principles]]
+- [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-natural-diet-as-foundation]]
 

@@ -88,7 +88,7 @@ The principal-underling problem is perhaps the most significant barrier. Decisio
 
 Mollison developed this concept during the early 1980s, a period of growing environmental awareness among business and political leaders. The concept anticipated later developments in impact investing, ESG (Environmental, Social, and Governance) investing, and carbon credit markets by decades. While the specific Babassu palm example was never implemented at the scale Mollison envisioned, the underlying principles have influenced numerous large-scale regenerative agriculture projects and investment vehicles.
 
-The concept also reflects Mollison's background in [[permaculture-introduction-and-ethics]] as a design science that works with existing power structures rather than against them. This pragmatic approach has been both praised for its realism and critiqued for potentially co-opting radical environmental movements.
+The concept also reflects Mollison's background in [[permaculture-design-principles]] as a design science that works with existing power structures rather than against them. This pragmatic approach has been both praised for its realism and critiqued for potentially co-opting radical environmental movements.
 
 ## Key Insight
 
@@ -104,4 +104,4 @@ The world needs both types of people: those who stay home and look after their h
 
 - [[permaculture-and-peak-oil]]
 
-- [[permaculture-principle-integrate-rather-than-segregate]]
+- [[permaculture-design-principles]]

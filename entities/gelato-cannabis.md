@@ -31,9 +31,9 @@ sources:
 
 ## Overview
 
-Gelato (also known as Gelato #33 or Larry Bird) is a balanced hybrid cannabis strain created
+Gelato (also known as Gelato #33 or Larry Bird) is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] is-strain-chupacabra]] created
 by San Francisco's Cookie Family in collaboration with Sherbinski. A cross between Sunset
-Sherbet and Thin Mint Girl Scout Cookies, Gelato debuted around 2012–2013 and rapidly became
+Sherbet and Thin Mint [[girl-scout-cookies]], Gelato debuted around 2012–2013 and rapidly became
 one of the most commercially significant and genetically influential strains of the modern
 cannabis era. Named for its dessert-like aroma, it is celebrated for its visual appeal,
 complex terpene expression, and potent but balanced effects.
@@ -45,8 +45,8 @@ Acai Gelato, Italian Ice, and the enormously popular Runtz lineage.
 
 ## Lineage
 
-- **Female parent:** Sunset Sherbet (Girl Scout Cookies × Pink Panties)
-- **Male parent:** Thin Mint Girl Scout Cookies (OG Kush × Durban Poison × F1 Durban)
+- **Female parent:** [[sunset-sherbet]] (Girl Scout Cookies × Pink Panties)
+- **Male parent:** Thin Mint Girl Scout Cookies (OG Kush × [[durban-poison]] × F1 Durban)
 - **Genetic ratio:** ~55% indica / 45% sativa (varies by cut)
 - **Breeder:** Cookie Family / Sherbinski (San Francisco Bay Area)
 
@@ -55,7 +55,7 @@ Gelato a complex polyhybrid with deep California genetics.
 
 ## Appearance
 
-- **Bud structure:** Dense, tightly packed calyxes forming chunky spherical nuggets.
+- **[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]:** Dense, tightly packed calyxes forming chunky spherical nuggets.
   Moderate leaf-to-calyx ratio with occasional foxtailing.
 - **Color:** Deep purple and dark forest green with bright orange pistils. Purple expression
   is highly variable — cooler nighttime temps in late flowering enhance anthocyanin production.
@@ -66,14 +66,14 @@ Gelato a complex polyhybrid with deep California genetics.
 ## Aroma and Flavor
 
 - **Primary aroma:** Sweet, creamy, dessert-like — reminiscent of berry gelato or lavender
-  ice cream with cookie dough undertones.
+  [[ice-cream-bean-entity]] with cookie dough undertones.
 - **Secondary notes:** Ripe berries (blueberry, blackberry), citrus peel, fresh lavender,
   subtle earthy herbal finish.
 - **Inhalation:** Sweet and creamy with pronounced berry and cookie notes.
 - **Exhalation:** Smooth, slightly minty and herbal with lingering vanilla and lavender.
   Earthy undertones emerge as the bowl progresses.
 
-## Terpene Profile
+## [[terpene-profile-chemotaxonomy]]
 
 - **Limonene** (0.5–1.2%): Dominant; citrus aroma, mood elevation, stress relief.
 - **Caryophyllene** (0.3–0.8%): Peppery spice, anti-inflammatory via CB2 binding.
@@ -147,5 +147,3 @@ cultivation practices.
 - [[gelato-41]]
 
 - [[sunset-sherbert]]
-
-- [[girl-scout-cookies]] · [[og-kush-cannabis-entity]] · [[runtz-cannabis]] · [[zookies]]

@@ -44,7 +44,7 @@ These failure patterns connect to [[holmgren-self-regulation-feedback-detailed]]
 
 ## Diversity as a Design Principle
 
-Drawing on [[permaculture-introduction-and-ethics]], Holmgren argues that successful communities need diversity of age, interests, skills, and perspectives — echoing [[permaculture-principle-use-and-value-diversity]]. Communities that lack this diversity tend to become echo chambers that eventually fragment.
+Drawing on [[permaculture-design-principles]], Holmgren argues that successful communities need diversity of age, interests, skills, and perspectives — echoing [[permaculture-principle-use-and-value-diversity]]. Communities that lack this diversity tend to become echo chambers that eventually fragment.
 
 This lack of diversity is partly structural: intentional communities tend to attract people at similar life stages with similar values, creating homogeneity that undermines resilience. The [[holmgren-diversity-detailed]] principle applies as strongly to social systems as to biological ones.
 

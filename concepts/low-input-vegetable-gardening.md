@@ -127,40 +127,6 @@ Vegetables can be grown with little or no irrigation in most temperate climates.
 
 Our ancestors knew how to do this in the days before water came out of pipes under pressure.
 
-The key principles include wide spacing so that plants develop deeper root systems that access soil moisture at greater depths.
-
-Surface mulching and adequate organic matter help retain soil moisture between rainfall events.
-
-Planting in sync with seasonal rainfall patterns maximizes natural water availability.
-
-Selecting adapted drought-resistant varieties reduces irrigation needs.
-
-In the rainier reaches of North America east of the 98th meridian, one can actively grow root crops, coles, and salad greens during all the chilly months without irrigation.
-
-## Complete Organic Fertilizer
-
-For demanding crops like celery and cauliflower that require extremely high levels of soil fertility, Solomon recommends a complete organic fertilizer blend made from agricultural waste products and crushed rocks.
-
-This supplement, used alongside modest amounts of manure and/or compost, produces vegetables with higher nutritional content than those grown by any other method.
-
-The key is avoiding over-fertilization, which wastes money and effort but also lowers the nutritional quality of vegetables.
-
-Building up soil excessively not only wastes resources but induces the demanding intensive mentality that the low-input approach seeks to avoid.
-
-## Seed Selection and Tools
-
-Successful gardening starts with quality seeds from reputable suppliers.
-
-Solomon, as a former seedsman, emphasizes that mass-market picture-packet seeds and garden-center seedlings are not always reliable.
-
-An honest seed company decides what varieties to sell after testing numerous varieties in trials.
-
-Dedicated seed companies that conduct their own variety trials offer varieties that are dependable, productive, and adapted to home garden conditions.
-
-Productive vegetable gardening requires only a few well-maintained hand tools, properly sharpened and cared for.
-
-The extensive catalog of equipment promoted by garden centers and seed catalogs is largely unnecessary.
-
 ## See Also
 
 - [[comparison-no-till-vs-mulch-soil-management]]
@@ -168,16 +134,16 @@ The extensive catalog of equipment promoted by garden centers and seed catalogs 
 
 - [[home-vegetable-gardening]]
 
-- [[crop rotation]]
+- [[crop-rotation]]
 
 - compost
 
-- [[water-wise gardening]]
+- [[water-wise-gardening]]
 
-- [[food security]]
+- [[food-security]]
 
-- [[potato cultivation]]
+- [[potato-cultivation]]
 
-- [[raised bed gardening]]
+- [[raised-bed-gardening]]
 
-- [[sustainable agriculture]]
+- [[sustainable-agriculture]]

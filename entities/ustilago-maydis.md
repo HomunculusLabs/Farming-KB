@@ -120,7 +120,7 @@ fungal lineages.
 ## See Also
 Related: [[stamets-mushroom-genetics-mating-systems-reproduction]], [[plant-life-rhythms-pulsatory-growth]], [[fungal-hyphae-invasive-growth-mechanisms]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 - [[mushroom-cultivation-basics]]
 

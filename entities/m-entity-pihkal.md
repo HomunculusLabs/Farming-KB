@@ -31,7 +31,7 @@ hydrochloride salt). |
 > begged for it to continue and come closer but it did not. It faded
 > away not to return in that particular guise the rest of the day.
 > Listening to Mozart's Requiem, there were magnificent heights of
-> beauty and glory. [[hallucinogenic-plants-of-the-world]] was so far away from God, and nothing was
+> beauty and glory. [[entheogenic-plants-and-psychoactive-flora]] was so far away from God, and nothing was
 > more important than getting back in touch with Him. But I saw how we
 > created the nuclear fiasco to threaten the existence of the planet, as
 > if it would be only through the threat of complete annihilation that

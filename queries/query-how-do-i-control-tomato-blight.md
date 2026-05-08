@@ -143,17 +143,6 @@ intervening at the earliest sign of disease.
 - Correct identification of the blight type determines the best
   management approach
 - Prevention through spacing, mulching, and drip irrigation is more
-  effective than any fungicide
-- Copper fungicides provide the best organic protection when applied
-  preventatively every 7-10 days
-- Late blight requires immediate plant removal; early blight and
-  Septoria can be managed through cultural practices
-- Resistant varieties are the most cost-effective long-term strategy
-- Destroy infected material rather than composting it
-- Three-year crop rotation breaks disease cycles in the soil
-- [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] provides
-  detailed identification guidance for fungal leaf diseases
-
 ## Related Questions
 
 - [[query-how-do-i-grow-tomatoes-organically]]

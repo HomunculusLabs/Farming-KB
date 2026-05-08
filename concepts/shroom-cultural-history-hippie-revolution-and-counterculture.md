@@ -73,7 +73,7 @@ Two books were especially influential in keeping plant hallucinogens in the publ
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[leary-harvard-psilocybin-project]]
 - [[timothy-leary-harvard-psilocybin-experiments]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[mushroom-cultivation-fundamentals]]
 - [[fungal-culture-preservation-long-term-methods]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]

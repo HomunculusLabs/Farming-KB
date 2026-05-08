@@ -28,7 +28,7 @@ It was first described by [[rolf-singer|Rolf Singer]] and Alexander H. Smith in 
 collections made in the Great Lakes region of North America.
 
 The mushroom is small and easily overlooked, with a hygrophanous cap that
-blues noticeably when bruised, indicating the presence of [[psilocybin]] and
+blues noticeably when bruised, indicating the presence of [[psilocybin-compound]] and
 [[psilocin]].
 
 It is considered one of the less common psilocybin mushrooms in North America
@@ -147,8 +147,3 @@ Microscopic examination of spore size and cheilocystidia is often
 necessary for definitive identification among these species.
 
 ## See Also
-
-- [[psilocybe-cubensis-entity]] — the most widely cultivated psilocybin mushroom
-- [[psilocybe-genus-diversity-and-taxonomy]] — broader genus taxonomy
-- [[neurotropic-fungi]] — overview of all psilocybin-containing fungi
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] — biosynthesis of active compounds

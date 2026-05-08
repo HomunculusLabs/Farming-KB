@@ -12,9 +12,6 @@ sources:
 
 Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants formed during incomplete combustion of organic matter. Fungi metabolize PAHs through both ligninolytic enzyme systems (in white-rot fungi) and cytochrome P450 monooxygenase systems (in non-ligninolytic fungi), with generally slower mineralization rates than bacteria but important ecological roles in soil.
 
-
-
-
 ## Fungal Metabolic Strategies
 
 ### White-Rot Fungi (Ligninolytic Pathway)
@@ -22,9 +19,6 @@ White-rot fungi such as Phanerochaete chrysosporium and Pleurotus ostreatus use 
 
 ### Non-Ligninolytic Fungi (Cytochrome P450 Pathway)
 Cunninghamella elegans, Aspergillus niger, and Syncephalastrum racemosum use intracellular cytochrome P450 monooxygenase systems that initiate PAH oxidation through epoxidation or hydroxylation, similar to mammalian liver metabolism.
-
-
-
 
 ## Key PAH Metabolism Findings
 
@@ -54,18 +48,12 @@ Cunninghamella elegans, Aspergillus niger, and Syncephalastrum racemosum use int
 - Initial oxidation by P. ostreatus produces pyrene-4,5-oxide, then trans-4,5-dihydrodiol
 - Mineralization by fungi is generally low despite extensive initial oxidation
 
-
-
-
 ## Bioavailability Enhancement
 
 Surfactants significantly improve PAH biodegradation rates:
 - Tween 80 > Triton X-100 > sodium dodecyl sulfate (efficiency ranking)
 - Mechanism: micellar solubilization increases PAH aqueous concentration
 - Effectiveness varies among fungal species
-
-
-
 
 ## Ecological Significance
 
@@ -74,9 +62,6 @@ Fungi contribute to PAH degradation in soil through:
 - Oxidation of high-molecular-weight PAHs recalcitrant to bacteria
 - Cometabolic degradation alongside lignocellulose decomposition
 - Mycelial exploration of soil that increases contact with contaminants
-
-
-
 
 ## See Also
 

@@ -99,7 +99,7 @@ cambodginiensis in a garden in Texas in the 1970s. The species has
 reportedly naturalized in the Gulf Coast mycoflora since. Dung
 composition significantly affects fruitbody size, making size-based
 taxonomic distinctions of questionable value. The Copelandian Panaeoli
-are generally more challenging to cultivate than [[psilocybe-cubensis-profile]]
+are generally more challenging to cultivate than [[psychedelic-mushrooms-species-and-identification]]
 but respond well to pasteurized horse and cow dung substrates in warm,
 humid conditions. Fruiting temperatures typically range from 75 to 85
 degrees Fahrenheit, with high humidity essential for pin formation and

@@ -132,7 +132,7 @@ Differentiating *P. cyanescens* typically requires microscopic examination of sp
 - [[hallucinogenic-mushroom-species-families-overview]]
 
 - [[psilocybe-cubensis]] — The most commonly cultivated psilocybin mushroom
-- [[psilocybin]] — The primary psychoactive compound
+- [[psilocybin-compound]] — The primary psychoactive compound
 - [[psilocin]] — The dephosphorylated active metabolite
 - [[baeocystin]] — Minor psychoactive tryptamine alkaloid
 - Copelandia — Historical genus placement for this species group

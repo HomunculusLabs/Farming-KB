@@ -114,7 +114,7 @@ The permaculture approach adapts these principles to a wider range of climates a
 
 [[no-tillage-grain-systems]]
 
-[[no-till-gardening-method]]
+[[composting-and-soil-biology]]
 
 [[fukuoka-rice-barley-no-till-method]]
 

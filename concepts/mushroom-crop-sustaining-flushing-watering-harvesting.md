@@ -148,9 +148,3 @@ pins are visible.
 - Twist-pull harvesting minimizes damage to neighboring pins.
 - Total crop yield is measured as
 [[biological-efficiency-mushroom-cultivation]].
-
-## See Also
-- [[mushroom-pinning-primordia-formation-strategies]]
-- [[troubleshooting-mushroom-contamination]]
-- [[agaricus-bisporus-cultivation-biology]]
-- [[mushroom-species-guide]]

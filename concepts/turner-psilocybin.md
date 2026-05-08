@@ -95,7 +95,7 @@ Psilocybin can also be combined with LSD, DMT, or Nitrous Oxide. See the [[psych
 - [[psychedelic-combination-guide]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[turner-lsd]]
-- [[psilocybin-mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fundamentals]]
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[mao-inhibitors-and-psychedelics]]
 - [[psychedelic-spirituality-and-religion]]

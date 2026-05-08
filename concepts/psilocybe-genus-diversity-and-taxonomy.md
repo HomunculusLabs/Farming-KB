@@ -1,136 +1,130 @@
 ---
-title: Psilocybe Genus Diversity and Taxonomy
-created: 2026-04-28
-tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, classification, guzman]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998/2000;14:189-280."
+title: psilocybe genus diversity and taxonomy
+created: 2026-05-08
+updated: 2026-05-08
 type: concept
+tags: [mycology, taxonomy, psilocybe, diversity, classification]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
+# [[psilocybe-genus-classification]] Diversity [[fungal-species-concept-and-taxonomy]]
 
-# Psilocybe Genus Diversity and Taxonomy
+The genus *Psilocybe* is the largest and most significant group of
+neurotropic (hallucinogenic) fungi, comprising 116 of the 216 known
+[[panaeolus-panaeolina-neurotropic-species]] documented by Guzmán, Allen, and Gartz (2000). The
+genus exhibits remarkable diversity in morphology, distribution, and
+chemistry, with species found on every continent except Antarctica. See
+also [[neurotropic-fungi-of-mexico]] and [[ergot-fungi-and-cordyceps]].
 
-## Overview
+## Taxonomic Framework
 
-The genus Psilocybe (Fr.) P. Kumm. is the largest and most significant group of neurotropic fungi worldwide,
-comprising 116 of the 216 known species of hallucinogenic mushrooms catalogued by Guzmán, Allen, and Gartz in their
-comprehensive 1998/2000 monograph. The genus belongs to the family Strophariaceae within the order Agaricales
-and is characterized by species that typically bruise blue when handled, a reaction caused by the oxidation of
-[[psilocybin]] and related indole alkaloids. Among these 116 species, approximately 85 have confirmed chemical
-analyses demonstrating the presence of psilocybin, psilocin, baeocystin, or norbaeocystin.
+The concept of the genus *Psilocybe* followed in the Guzmán, Allen, and
+Gartz study is that of Guzmán (1983, 1995), a modification of Singer
+(1986) that excludes Section Chrysocystidiatae. The authors did not
+follow Kühner and Romagnesi (1953) and Kühner (1980), who considered
+*Psilocybe*, *Hypholoma*, and *Stropharia* to belong to the same genus.
+Species of *Psilocybe* sensu Noordeloos (1995) such as *P. aeruginosa*,
+*P. albonitens*, and *P. aurantiaca* are not accepted in this framework.
 
-The remaining species are considered neurotropic based on their strong bluing reaction and taxonomic affinity with
-chemically confirmed species, following the methodology established by Singer and Smith (1958) and refined by
-Guzmán (1983). This combined chemical and morphological approach has proven more reliable than purely
-ethnobotanical evidence, as many mushrooms classified as "sacred" by indigenous groups lack confirmed psychoactive
-constituents.
+## Neurotropic Sections
 
-## Taxonomic History
+The neurotropic species of *Psilocybe* are distributed across several
+taxonomic sections defined primarily by microscopic characteristics and
+the presence of bluing reactions. The sections containing confirmed
+neurotropic species include:
 
-The modern understanding of Psilocybe taxonomy was fundamentally shaped by Rolf Singer and Gastón Guzmán over
-several decades of systematic work. Singer established the generic framework beginning with his 1949 treatment of
-the genus and subsequent major revisions in 1958 and 1986. Guzmán produced the definitive world monograph in 1983
-("The genus Psilocybe: a systematic revision of the known species"), followed by a supplement in 1995 that added
-newly described species and updated distribution records.
+- **Section Aztecorum:** High-elevation Mexican species including *P.
+  aztecorum*, found at elevations up to 4,000 meters
+- **Section Brunneocystidiatae:** Species with chestnut-colored
+  cheilocystidia
+- **Section Cordisporae:** Heart-shaped [[spore]] species
+- **Section Cubensis:** Tropical and subtropical species including the
+  widespread *P. cubensis*
+- **Section Mexicanae:** Mexican species including *P. mexicana*
+- **Section Semilanceatae:** Temperate species including the [[liberty-cap-psilocybe-semilanceata-history-biology]]
+  (*P. semilanceata*)
+- **Section Stuntzae:** [[psilocybin-north-america-pacific-northwest]] species
+- **Section Subaeruginosae:** Australian and New Zealand species
+- **Section Zapotecorum:** Species associated with the Zapotec people of
+  Oaxaca, Mexico
 
-The taxonomic concept followed by Guzmán and colleagues modifies Singer's 1986 classification by excluding Section
-Chrysocystidiatae from the genus. The authors explicitly reject the broader generic concept of Kühner and
-Romagnesi (1953) and Kühner (1980), which would subsume Hypholoma and Stropharia into Psilocybe.
-Species described under the broad concept of Psilocybe sensu Noordeloos (1995), such as P. aeruginosa,
-P. albonitens, and P. capnoides, are not accepted as having neurotropic properties in the Guzmán treatment.
+## The Bluing Reaction
 
-## Infrageneric Classification
+The presence of a bluing reaction when the mushroom flesh is bruised or
+damaged is a key indicator of neurotropic properties in *Psilocybe*. This
+bluing is caused by the oxidation of psilocin, a dephosphorylated
+derivative of psilocybin. Following Singer and Smith (1958), Guzmán
+(1983), and Singer (1986), the authors considered species with the
+bluing feature or with confirmed indolic substances as neurotropic.
 
-Guzmán's systematic framework organizes the genus into several sections based on morphological characteristics,
-spore morphology, and chemical profiles:
+However, not all bluing species contain psilocybin, and some confirmed
+neurotropic species do not exhibit obvious bluing. The reaction is
+therefore suggestive but not definitive.
 
-### Section Aztecorum
+## Species Excluded as Non-Neurotropic
 
-Alpine and subalpine species associated with high-elevation coniferous forests and grasslands. Key species include
-[[psilocybe-aztecorum]], P. baeocystis, and P. quebecensis. These species demonstrate strong intercontinental
-relationships between Mexico and northwestern North America, suggesting ancient dispersal through boreal or alpine
-corridors. P. aztecorum grows exclusively above 3,200 meters on volcanic peaks in central Mexico, particularly
-near Popocatépetl and Iztaccíhuatl.
+Several species previously reported as hallucinogenic were excluded from
+the neurotropic list based on more careful taxonomic analysis:
 
-### Section Mexicanae
+- *P. atrobrunnea* — not neurotropic; reports likely involved
+  misidentified *P. coprinifacies* or *P. mairei*
+- *P. coprophila* — a common dung-inhabiting species with no confirmed
+  neurotropic compounds
+- *P. pseudobullacea* — not a bluing species; Venezuelan material
+  reported to contain psilocybin probably represents an undescribed
+  neurotropic species
 
-Named after the type species [[psilocybe-mexicana]], this section includes species with well-documented disjunct
-distributions across continents. P. samuiensis from Thailand and P. makarorae from New Zealand are closely related
-to P. mexicana from Mexico and Guatemala, representing remarkable trans-oceanic distribution patterns. These
-relationships may reflect ancient Gondwanan connections or long-distance dispersal events predating the breakup of
-southern landmasses.
+## Taxonomic Confusion and Misidentification
 
-### Section Zapotecorum
+The literature on [[neurotropic-fungi]] contains significant taxonomic
+confusion. Misidentification is a major factor contributing to
+contradictions in published chemical studies. Many chemical studies lack
+a proper taxonomic basis, and in some cases, mixtures of different
+species were studied under a single name.
 
-Named in honor of the Zapotec people of Oaxaca, this section includes [[psilocybe-zapotecorum]], the species first
-collected by Schultes (1939) and later studied by Singer and Smith (1958). The section also encompasses P.
-aucklandii from New Zealand, demonstrating the same biogeographic pattern seen in Section Mexicanae. Several South
-American species belong to this section, including P. collybioides (sometimes synonymized with P. zapotecorum) and
-P. carbonaria from Chile.
+Guzmán found a mixture of *Panaeolus* spp. and *[[psilocybe-mexicana]]*
+together with *P. coprophila*, all identified as *P. coprophila*, in
+material used by Leslie and Repke to isolate psilocybin. *Psilocybe
+coprinifacies* has been the subject of taxonomic disagreement, with
+some European authors considering *P. bohemica*, *P. maire*, and *P.
+serbica* to be synonyms of *P. cyanescens*.
 
-### Section Cubensies
+## Global Distribution Patterns
 
-Tropical dung-inhabiting species, including the cosmopolitan [[psilocybe-cubensis]], one of the most widely
-distributed neurotropic fungi on Earth. This section also includes P. subcubensis, P. tampanensis, and P. mammilata.
-Species in this section are typically associated with herbivore dung in warm, humid environments and have been
-carried around the world through livestock trade.
+The majority of *Psilocybe* species are found in or near the Austral
+hemisphere, mainly in subtropical humid forests. The genus shows its
+greatest diversity in Latin America, with Mexico alone harboring 44
+species (39% of the world total). Other significant centers of diversity
+include:
 
-### Section Semilanceatae
+- Southeast Asia (Thailand, Indonesia, Japan)
+- South America (Colombia, Brazil, Ecuador)
+- Oceania (Australia, New Zealand)
+- Temperate Europe (particularly the British Isles)
+- Pacific Northwest of North America
 
-Temperate grassland species, including the widely distributed [[psilocybe-semilanceata]] (liberty cap). This section
-represents one of the few neurotropic Psilocybe groups that is well-represented in temperate Europe and absent from
-Mexico, suggesting a northern hemisphere origin or different ecological requirements compared to tropical sections.
-The liberty cap is found across virtually all of Europe, much of North America, and has been introduced to New
-Zealand and Australia.
+## Cosmopolitan Species
 
-### Section Subaeruginosae
+Several *Psilocybe* species have achieved nearly worldwide distribution
+through human activity and natural dispersal:
 
-Southern hemisphere species, particularly from Australia and New Zealand. [[psilocybe-subaeruginosa]] is the most
-significant species in this section, found in southeastern Australia and Tasmania, and is among the most potent
-psilocybin-containing mushrooms known. It typically grows on woody debris in Eucalyptus forests.
+- *P. cubensis* — pantropical, the most widely cultivated neurotropic
+  mushroom, found in dung of herbivores
+- *P. semilanceata* — temperate regions of Europe, Asia, and North
+  America, one of the most potent species
+- *P. cyanescens* — Pacific Northwest, Western Europe, and New Zealand,
+  often found in landscaped areas with wood mulch
 
-### Additional Sections
+## Chemical Variability
 
-Section Cordisporae includes species with distinctive heart-shaped spores. Section Brunneocystidiatae contains
-species with brown-pigmented cheilocystidia. Section Stuntzae is named after [[psilocybe-stuntzii]], a Pacific
-Northwest endemic, and includes several related species from western North America.
+Chemical analysis of *Psilocybe* species reveals significant
+variability in psilocybin and psilocin content depending on species,
+geographic origin, growing conditions, and age of specimens. Repke et
+al. (1977a) showed variations in baeocystin content according to the age
+of studied materials — specimens analyzed 20-60 days after collection
+showed no trace of indoles.
 
-## Species Count and Distribution by Region
-
-The 116 recognized species of Psilocybe show a strikingly uneven global distribution pattern. Mexico leads the
-world with 44 taxa, representing approximately 39% of all known species. The United States and Canada together have
-21 taxa, while Europe has 14 species. South America has approximately 30 species, Asia around 15 species, Africa
-only 6 to 8 confirmed species, and Oceania approximately 10 species.
-
-In Mexico, of the 42 neurotropic species reported in Guzmán's 1983 monograph, 34 are associated with mesophytic
-(cloud) forests, 4 with tropical forests, and 4 with coniferous forests. This is particularly notable because
-coniferous forests have been far more thoroughly surveyed by mycologists in Mexico, yet support far fewer species,
-demonstrating a genuine ecological preference for humid montane habitats over drier coniferous environments.
-
-## Identification Challenges and Excluded Taxa
-
-Several species have been erroneously reported as neurotropic due to misidentification or unreliable chemical
-analyses. Psilocyathyrella sepulchralis was wrongly confused with [[psilocybe-zapotecorum]] in early chemical
-studies, leading to incorrect reports of psilocybin content. [[psilocybe-coprophila]] is frequently confused with
-[[psilocybe-mexicana]] in mixed collections submitted for chemical analysis, potentially contaminating results.
-
-Panaeolus antillarum, an edible white mushroom, is frequently mistaken for Copelandia species because of
-similar appearance and shared cow dung habitat. [[panaeolina-foenisecii]] (haymaker's mushroom) presents a
-particularly contentious case: multiple independent studies report conflicting results regarding the presence of
-psilocybin, suggesting either extreme chemical variability among populations or persistent identification errors.
-
-## Related Neurotropic Genera
-
-Beyond Psilocybe, neurotropic fungi span 13 additional genera across four fundamentally different chemical
-classes. The most significant are Copelandia (12 species), Gymnopilus (14 species), Panaeolus (13
-species), Inocybe (6 species), and Pluteus (6 species). The [[amanita]] species contain [[ibotenic acid]]
-rather than indole alkaloids, representing an entirely different pharmacological pathway. The Claviceps and
-Cordyceps species produce ergot alkaloids, a third distinct chemical route to neurotropic activity. This
-chemical diversity across genera suggests that neurotropic properties have evolved independently multiple times in
-fungal evolution, representing convergent evolution toward psychoactive secondary metabolite production.
-
-## See Also
-
-- [[baeocystin]]
-- [[fungal-evolution]]
+Ohenoja et al. (1987) detected decreasing psilocybin in herbarium
+specimens of *P. semilanceata* according to collection age, finding
+0.014%, 0.67%, and 0.84% dry weight in specimens from 1869, 1954, and
+1976 respectively. Psilocybin and psilocin appear to be volatile
+compounds that degrade over time.

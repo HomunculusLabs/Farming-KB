@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate [[structure-activity-relationship-medicinal-chemistry]] strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
+Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate structure activity relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
 A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of [[pericyclic-reactions-organic-chemistry]], pharmacology, structural biology, and ADME optimization.
 
@@ -84,7 +84,7 @@ Aromatic rings often contribute hydrophobic contact, pi stacking, shape, and vec
 
 Thiophene, furan, and other heteroaromatics can preserve shape while changing electronics, but some may form reactive metabolites. Saturated replacements such as bicyclo[1.1.1]pentane, cubane, bicyclo[2.1.1]hexane, or spirocycles can add three-dimensionality and reduce aromatic count.
 
-These saturated isosteres are attractive in modern [[structure-activity-relationship-medicinal-chemistry]] because high aromaticity is often associated with poor solubility and promiscuity. The tradeoff is synthetic complexity, limited commercial availability, and uncertain binding geometry compared with a flat phenyl ring.
+These saturated isosteres are attractive in modern structure activity relationship medicinal chemistry because high aromaticity is often associated with poor solubility and promiscuity. The tradeoff is synthetic complexity, limited commercial availability, and uncertain binding geometry compared with a flat phenyl ring.
 
 Ring replacement should be tested with structural models, matched molecular pairs, and property measurements rather than aesthetic similarity alone.
 

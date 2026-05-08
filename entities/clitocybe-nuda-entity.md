@@ -148,6 +148,3 @@ yielding a greyish-brown appearance.
 - Tricholomataceae
 - Cortinarius
 - [[laccaria-laccata]]
-- [[armillaria-mellea]]
-- [[edible-wild-mushroom-guide]] — field identification of common edible species
-- [[lepista-nuda-entity-the-mushroom-cultivator]] — cultivation perspective

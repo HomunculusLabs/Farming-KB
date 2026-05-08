@@ -148,4 +148,3 @@ may apply.
 - [[cotter-mycoremediation-overview]] practices and safety
 - heavy metals in agricultural systems
 - [[fungal-filter-barnyard-waste-remediation]]
-- [[accessible-mushroom-cultivation-for-disabilities]] substrate sourcing

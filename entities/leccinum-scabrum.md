@@ -145,9 +145,6 @@ experimentally attempted with limited success.
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[russula-cyanoxantha]]
-- [[lactarius-deliciosus]]
-- [[cantharellus-cibarius-entity]]
-- [[amanita-muscaria-entity]]

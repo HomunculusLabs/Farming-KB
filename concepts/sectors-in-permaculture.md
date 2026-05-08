@@ -88,8 +88,8 @@ Mollison warns against several common errors in sector analysis:
 
 - [[permaculture-zones-system]]
 - [[permaculture-site-analysis]]
-- [[permaculture-design-methods]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-design]]
+- [[permaculture-water-harvesting-earthworks]]
 - [[passive-solar-design]]
 - [[fire-control-in-permaculture]]
 

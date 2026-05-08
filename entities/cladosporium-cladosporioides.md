@@ -128,7 +128,7 @@ channeling energy to higher trophic levels.
 
 - [[cannabis-mold-and-mildew-prevention]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 - [[laccaria-laccata]] - ectomycorrhizal fungus in forest soil food webs
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with low collembola palatability

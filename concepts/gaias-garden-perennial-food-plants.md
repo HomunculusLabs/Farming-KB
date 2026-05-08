@@ -148,5 +148,3 @@ Over time, as perennials mature, annual beds can shrink.
 
 The broader vision is a garden that approaches the ecological ideal: minimal
 inputs, maximum diversity, year-round production, and a landscape that becomes
-more productive and self-sustaining with each passing year. Perennial food
-plants are the key to achieving this vision.

@@ -132,21 +132,6 @@ studies of neurotropic fungi.
 ### Confusion with Non-Neurotropic Species
 
 Several edible or toxic fungi have been erroneously reported as neurotropic.
-Chlorophyllum molybdites was considered psychoactive based on its Yoruba name
-"eat and hear voices from heaven," but this reflects toxicity. Schizophyllum
-commune was reported hallucinogenic in Australia but is a common edible sold
-in Mexican markets. The Mazatec name "nise" is used for both P. mexicana
-(neurotropic) and S. commune (edible), creating persistent confusion.
-
-## The Bluing Reaction as a Field Indicator
-
-The blue bruising reaction, caused by oxidation of psilocin, serves as a
-useful field indicator of potential neurotropic activity. Following Singer
-and Smith (1958) and Guzman (1983), bluing is considered a strong indicator
-in Psilocybe species, though not infallible. Some non-bluing species may
-still contain indole compounds, and bluing intensity varies with specimen
-condition.
-
 ## See Also
 
 - [[psilocybin-tryptamine-chemistry-fungi]]
@@ -155,7 +140,7 @@ condition.
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 - [[gartz-psilocybin-potency-and-alkaloid-variations]]
 
-- [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-and-psilocin-chemistry]]
 
 - [[neurotropic-fungi-classification]]
 - [[psilocybe-cubensis-distribution-and-ecology]]

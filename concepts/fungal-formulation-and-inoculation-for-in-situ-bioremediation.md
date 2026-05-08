@@ -104,7 +104,7 @@ These mycelia-impregnated substrates are mixed with contaminated soil.
 ## See Also
 
 - [[fungal-bioaugmentation-inoculation]]
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-immobilization-bioreactor-systems]]
 - [[fungal-formulation-in-situ-bioremediation]]

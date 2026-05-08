@@ -131,7 +131,7 @@ not an indicator of toxicity in this species.
 - [[tylopilus-felleus]]
 - [[suillus-luteus]]
 - [[suillus-granulatus]]
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[rubroboletus-satanas]]
 - [[leccinum-scabrum]]
 - [[gyroporus-cyanescens]]

@@ -8,12 +8,12 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Inoculation Techniques for Mushroom Cultivation
+# [[growing-gourmet-outdoor-log-inoculation-techniques]] for [[mushroom-cultivation]]
 
 ## Overview
 
 Successful inoculation is the critical transfer point where pure mushroom
-mycelium is introduced into fresh media. The inoculation step is where
+[[mycelium]] is introduced into fresh media. The inoculation step is where
 contamination is most likely to be introduced, making proper technique
 essential. Stamets details several [[inoculation-methods]] across different
 culture stages, each with specific procedures to maximize success rates.
@@ -22,9 +22,9 @@ culture stages, each with specific procedures to maximize success rates.
 
 ### Purpose
 
-Agar-to-agar transfers are used for isolating pure mushroom mycelium away
+Agar-to-agar transfers are used for isolating pure [[growing-gourmet-iconic-types-mushroom-mycelium]] away
 from contaminants, expanding mycelial mass, and maintaining stock cultures.
-This is the most fundamental transfer technique in mushroom culture.
+This is the most fundamental [[agar-to-grain-wedge-transfer-technique]] in [[mycophiles-and-mushroom-culture]].
 
 ### Standard Technique
 
@@ -39,7 +39,7 @@ This is the most fundamental transfer technique in mushroom culture.
 ### Multiple Transfer Method
 
 Experienced cultivators use two simultaneously sterilized scalpels to speed
-the transfer process. While one tool cools after flame sterilization, the
+the transfer process. While one tool cools after flame [[sterilization]], the
 other is being used for transfers. This reduces waiting time and improves
 efficiency.
 
@@ -147,6 +147,3 @@ of picking, after which clones become increasingly difficult to establish.
 ## Related
 
 - [[mycelium-inoculation-techniques]]
-
-- [[mushroom-training-inoculation-techniques]]
-- [[cotter-inoculation-techniques-and-hygiene]] Concepts

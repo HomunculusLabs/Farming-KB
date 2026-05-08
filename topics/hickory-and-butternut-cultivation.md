@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Hickories (*Carya* spp.) and butternut (*Juglans cinerea*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as keystone species in forest ecosystems. Despite their slow growth, they offer unmatched longevity and resilience — individual trees can live 200–500 years and continue producing for centuries.
+Hickories (*Carya* spp.) and butternut (*Juglans cinerea*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[keystone-species-and-trophic-cascades]] in forest ecosystems. Despite their slow growth, they offer unmatched longevity and resilience — individual trees can live 200–500 years and continue producing for centuries.
 
 ## Botanical Background
 
@@ -34,7 +34,7 @@ The genus *Carya* contains approximately 18 species worldwide, with 12–15 nati
 - Shellbark hickory (*C. laciniosa*) — larger nuts, bottomland species
 - Pignut hickory (*C. glabra*) — smaller nuts but very adaptable
 - Mockernut hickory (*C. tomentosa*) — thick shell, widespread
-- Sand hickory (*C. pallida*) — drought-tolerant, sandy soils
+- Sand hickory (*C. pallida*) — [[drought-tolerant-planting-design]], sandy soils
 - Red hickory (*C. ovalis*) — upland species
 
 **Pecan Hickories (Sinocarya section):**
@@ -45,7 +45,7 @@ The genus *Carya* contains approximately 18 species worldwide, with 12–15 nati
 
 ### Butternut
 
-Butternut (*Juglans cinerea*) is a close relative of black walnut, native to the eastern US and southeastern Canada. It produces oblong, sweet, oily nuts with a distinctive buttery flavor. Once common, butternut is now threatened by butternut canker disease (*Ophiognomonia clavigignenti-juglandacearum*), making cultivation and conservation critical.
+Butternut (*Juglans cinerea*) is a close relative of [[black-walnut-juglone-plant-toxicity]], native to the eastern US and southeastern Canada. It produces oblong, sweet, oily nuts with a distinctive buttery flavor. Once common, butternut is now threatened by butternut canker disease (*Ophiognomonia clavigignenti-juglandacearum*), making cultivation and conservation critical.
 
 ## Species Profiles
 
@@ -279,7 +279,7 @@ Grafted cultivars begin bearing significantly earlier (5–8 years vs. 15–20 f
 - Ground cloth beneath trees to catch and destroy adults during emergence
 - Keep orchard floor clean — debris harbors pupating weevils
 
-**Hickory Bark Beetle (*Scolytus quadrispinosus*):**
+**Hickory [[bark-beetle-fungi-ophiostomatales-collection-isolation]] (*Scolytus quadrispinosus*):**
 - Attacks stressed or weakened trees
 - Maintains tree vigor as primary defense
 - Remove and destroy heavily infested wood promptly
@@ -453,7 +453,7 @@ Both hickory and butternut produce valuable timber:
 
 ### Soil and Ecosystem
 - Deep taproots break compacted subsoil and bring up minerals
-- Leaf litter contributes significant calcium and other minerals to forest floor
+- [[leaf-litter-microfungal-diversity-tropical-temperate]] contributes significant calcium and other minerals to forest floor
 - Hickory leaf litter decomposes relatively slowly, building humus
 - Root exudates support diverse mycorrhizal communities
 - Cast shade tolerant of understory plantings in food forests
@@ -477,7 +477,7 @@ Both hickory and butternut produce valuable timber:
 - ** succession:** Hickories are climax species — they are the endgame, not the pioneer
 
 ### Alley Cropping
-- Not ideal for close alley cropping due to wide spacing needs
+- Not ideal for close alley cropping due to [[wide-spacing-dry-gardening-low-irrigation-solomon]] needs
 - Can work in wide alleys (50+ ft) with hay, pasture, or grain crops between rows
 - Nut harvest logistics are simpler with grass understory than with tall crops
 
@@ -503,7 +503,7 @@ Both hickory and butternut produce valuable timber:
 
 ### Seed Propagation
 - Most common for genetic diversity and conservation plantings
-- See "Seed Germination" section above
+- See "[[seed-germination-techniques-solomon]]" section above
 - Seedling trees have variable nut quality — some excellent, some poor
 - Plant 2–3 seedlings per desired final tree, thin to best performer
 
@@ -544,7 +544,7 @@ Both hickory and butternut produce valuable timber:
 - **Butternut canker resistance programs** — USDA Forest Service Northern Research Station
 
 ### Key References
-- *Nut Tree Culture in North America* — R.A. Jaynes
+- *[[nut-tree-cultivation-for-permaculture-food-forests]] Culture in North America* — R.A. Jaynes
 - *Tree Crops: A Permanent Agriculture* — J. Russell Smith
 - USDA Forest Service Silvics Manual (online, free)
 - *Growing Nuts in the North* — Carl Weschcke (classic on cold-climate nut growing)

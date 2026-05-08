@@ -27,13 +27,12 @@ sources: []
 
 # Piriformospora indica
 
-**Piriformospora indica** (reclassified as ***Serendipita indica*)** is a
+**Piriformospora indica** (reclassified as ***[[serendipita-indica]]*)** is a
 root-colonizing basidiomycete endophytic fungus in the order Sebacinales. Discovered
 in 1998 from the Thar Desert of Rajasthan, India, it is notable as the first member
 of the Sebacinales culturable axenically on synthetic media. Most Sebacinales were
 previously known only from environmental DNA, making *P. indica* a landmark model
-organism for studying root endophyte-plant symbiosis and a tractable alternative to
-arbuscular mycorrhizal fungi (AMF).
+organism for studying root endophyte-plant symbiosis and a tractable alternative [[arbuscular-mycorrhizal-fungi]] ungi (AMF).
 
 ## Taxonomy and Reclassification
 
@@ -49,7 +48,7 @@ widely used despite reclassification.
 
 *S. indica* produces distinctive **pear-shaped chlamydospores** (12–25 x 10–20 um)
 as primary propagules for root colonization. In culture, the fungus forms dark,
-melanized mycelium with septate hyphae. During root colonization, hyphae grow
+melanized [[mycelium]] with septate hyphae. During root colonization, hyphae grow
 intercellularly through the cortex and form intracellular vesicles and
 chlamydospores analogous to — but structurally distinct from — AMF arbuscules.
 
@@ -147,8 +146,3 @@ incomplete understanding of non-target ecological effects.
 ## Key References
 
 ## See Also
-
-- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]
-- [[mycorrhiza-root-exudates]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhizal-carbon-phosphorus-exchange]]

@@ -14,9 +14,9 @@ type: comparison
 
 Clone rooting and seed germination are the two primary methods for starting new cannabis
 plants, each with distinct advantages and trade-offs. Clone rooting produces genetically
-identical copies of an existing mother plant, guaranteeing that every clone will exhibit the
+identical copies of an existing [[mother-plant-cannabis]], guaranteeing that every clone will exhibit the
 same growth patterns, flowering time, potency, and flavor as its parent. Seed germination,
-by contrast, introduces genetic variation through sexual reproduction, producing unique
+by contrast, introduces genetic variation through [[fungal-pheromones-sexual-reproduction]], producing unique
 phenotypes that may differ significantly from either parent. The choice between clones and
 seeds affects every subsequent stage of the grow, from vegetative behavior to final bud
 quality, making this one of the most fundamental decisions a cultivator must make.
@@ -55,7 +55,7 @@ nutrients. There is also a risk of transmitting pests, diseases, and genetic deg
 
 ## Seed Germination
 
-[[green-cannabis-grow-bible-seed-germination-methods]]
+[[green-cannabis-harvesting-processing]] is-grow-bible-hydroponics-and-the-bubbler]] ow-harvesting-drying-curing]] bible [[cannabis-seed-germination-methods]]
 
 Seed germination is the process of activating a dormant cannabis seed into a new, growing
 plant. A cannabis seed requires only three things to germinate: moisture, warmth, and
@@ -148,5 +148,3 @@ for breeding programs.
 - [[comparison-seed-balls-vs-transplanting]]
 
 - [[cannabis-clone-rooting-and-transplanting]]
-- [[green-cannabis-grow-bible-seed-germination-methods]]
-- [[cannabis-vegetative-growth-stage]]

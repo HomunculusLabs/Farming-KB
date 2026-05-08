@@ -99,7 +99,7 @@ Powell's concept of "increased degrees of cognitive freedom" suggests that consc
 
 # Gaia Hypothesis and Psychedelic Shamanism
 
-Simon G. Powell develops a sophisticated argument in "The Psilocybin Solution" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the psychedelic experience accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[terence-mckenna-stoned-ape-hypothesis]] termed the "Gaian Mind."
+Simon G. Powell develops a sophisticated argument in "The Psilocybin Solution" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the psychedelic experience accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[psychedelic-mushrooms-species-and-identification]] termed the "Gaian Mind."
 
 ## The Gaian Mind and Entheogenic Flora
 

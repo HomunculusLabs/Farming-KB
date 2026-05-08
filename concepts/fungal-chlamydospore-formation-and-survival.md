@@ -123,5 +123,5 @@ Their production requires less carbon and energy investment than sclerotium form
 - [[fungal-melanin-in-ecology-and-stress-protection]]
 - [[fungal-stress-responses]]
 - [[fungal-communities-succession]]
-- [[fungal-biodiversity-soil-habitats]]
+- [[the-soil-food-web]]
 - [[fungal-ecosystem-processes-overview]]

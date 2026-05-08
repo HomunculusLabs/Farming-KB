@@ -119,7 +119,7 @@ A richer medium for fastidious species:
 - [[pda-and-tissue-culture|PDA and tissue culture]]
 - [[mushroom-agar-work|agar work guide]]
 - [[agar-work-guide|agar work detailed guide]]
-- [[mushroom-cultivation-cloning-isolation|tissue culture and strain isolation]]
+- [[mushroom-cultivation-fundamentals|tissue culture and strain isolation]]
 ## Related
 - [[grain-spawn-preparation]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fundamentals]]

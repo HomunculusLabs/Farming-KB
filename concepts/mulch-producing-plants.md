@@ -82,6 +82,6 @@ In arid regions, mulch production is more challenging but still possible. Native
 
 The ultimate goal of integrating mulch-producing plants is a self-mulching garden where the system generates its own organic matter and fertility. As the system matures, leaf fall from trees, dieback from herbaceous plants, and chop-and-drop from mulch plants combine to maintain a continuous mulch layer.
 
-This self-mulching capacity is one of the hallmarks of a mature [[permaculture-food-forest-design-principles]] system. Once established, the gardener's role shifts from active mulch application to passive observation and occasional management, demonstrating [[permaculture-principle-use-small-and-slow-solutions]].
+This self-mulching capacity is one of the hallmarks of a mature [[permaculture-food-forest-design-principles]] system. Once established, the gardener's role shifts from active mulch application to passive observation and occasional management, demonstrating [[permaculture-design-principles]].
 
 Source: Gaia's Garden by Toby Hemenway; Permaculture Plants: A Selection

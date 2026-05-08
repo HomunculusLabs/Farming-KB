@@ -65,7 +65,7 @@ When permitted functions are properly arranged, systems begin to self-organize. 
 
 Mollison suggests a powerful design technique: start with the desired function, then find elements whose permitted functions achieve it. If the function is "pest control in the orchard," ask: what naturally eats orchard pests? Ducks eat slugs; parasitic wasps control codling moth; geese eat grass and some insects. Place these elements in the orchard and their permitted functions provide pest control without spraying.
 
-If the function is "nitrogen fixation," place leguminous plants throughout the system rather than applying fertilizer. If the function is "water purification," design wetland systems rather than building mechanical filters. The principle applies at every scale from [[permaculture-design-methods]] to [[permaculture-earthworks]].
+If the function is "nitrogen fixation," place leguminous plants throughout the system rather than applying fertilizer. If the function is "water purification," design wetland systems rather than building mechanical filters. The principle applies at every scale from [[permaculture-design]] to [[permaculture-earthworks]].
 
 ## Key Principles
 

@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # Psilocybin Mushroom Extraterrestrial Hypothesis
 
-The extraterrestrial hypothesis for [[psilocybin]] mushrooms is Terence McKenna's proposal that [[stropharia-cubensis]] may not have evolved on Earth but instead arrived via interstellar spore dispersal. First articulated in [[Psilocybin: The Magic Mushroom Grower's Guide]], the hypothesis emerged from information McKenna reported receiving during mushroom-induced trance states.
+The extraterrestrial hypothesis for [[psilocybin-compound]] mushrooms is Terence McKenna's proposal that [[stropharia-cubensis]] may not have evolved on Earth but instead arrived via interstellar spore dispersal. First articulated in [[psilocybin:-the-magic-mushroom-grower's-guide]], the hypothesis emerged from information McKenna reported receiving during mushroom-induced trance states.
 
 While highly speculative, the hypothesis raises important questions about the relationship between biology, consciousness, and the possibility of interstellar life.
 
@@ -64,7 +64,7 @@ This gap, he suggested, is consistent with (though not proof of) a relatively re
 
 ## The Mushroom as Communication Device
 
-McKenna expressed uncertainty about whether the mushroom itself is the alien intelligence or whether it functions as a "technological artifact" allowing the user to hear an alien intelligence light-years away, potentially using some form of [[Bell's non-locality theorem]] for communication.
+McKenna expressed uncertainty about whether the mushroom itself is the alien intelligence or whether it functions as a "technological artifact" allowing the user to hear an alien intelligence light-years away, potentially using some form of [[bell's-non-locality-theorem]] for communication.
 
 He compared this dilemma to "a child who wishes to destroy a radio to see if there are little people inside." The ambiguity between medium and message, between the mushroom as organism and the mushroom as communication channel, is a central tension in the hypothesis.
 
@@ -85,12 +85,12 @@ McKenna traced the mushroom's role in human history through several distinct pha
 - **Ancient symbiosis:** Association with cattle and nomadic human populations, ensuring propagation alongside human migration
 - **Mesoamerican mushroom cults:** The mushroom was called *teonanacatl* ("flesh of the gods") and was central to indigenous religious practice, representing a form of theophagy rivaling the Christian Eucharist
 - **Spanish conquest and suppression:** The Franciscans destroyed the classic mushroom cults, driving them into the mountains of Oaxaca where only fragments survived
-- **Rediscovery:** [[valentina-pavlovna-wasson|Valentina]] and [[R. Gordon Wasson]] found surviving mushroom ceremonies in the 1950s
+- **Rediscovery:** [[valentina-pavlovna-wasson|Valentina]] and [[r.-gordon-wasson]] found surviving mushroom ceremonies in the 1950s
 - **Modern era:** The mushroom's effects were "unleashed" upon the modern world through this rediscovery
 
 ## Connection to the Logos
 
-McKenna connected the mushroom to [[Philip K. Dick]]'s concept in Valis of the Logos as a "creature of pure information" that was buried at Nag Hammadi circa 370 A.D. alongside the Chenoboskion Library.
+McKenna connected the mushroom to [[philip-k.-dick]]'s concept in Valis of the Logos as a "creature of pure information" that was buried at Nag Hammadi circa 370 A.D. alongside the Chenoboskion Library.
 
 The Logos existed as static information until 1947, when the texts were translated and read, bringing the symbiotic intelligence back to life. The mushroom consciousness, like Dick's Logos, is "a thing of pure information" that comes alive when encountered by human minds.
 

@@ -113,7 +113,7 @@ Cultivation tips:
 
 ## Tree Crops and Nuts
 
-Tree crops provide some of the highest long-term returns per acre in a permaculture system, combining [[permaculture-principle-use-small-and-slow-solutions]] with substantial eventual yields.
+Tree crops provide some of the highest long-term returns per acre in a permaculture system, combining [[permaculture-design-principles]] with substantial eventual yields.
 
 Nut crops suited to permaculture settings:
 

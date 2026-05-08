@@ -11,7 +11,7 @@ type: query
 # What Is the Role of Springtails and Soil Arthropods in Soil Health
 
 ## Short Answer
-Springtails (Collembola) and other [[soil-arthropods|soil arthropods]]
+Springtails (Collembola) and other soil arthropods
 are essential mesofauna in the [[soil-food-web-nutrient-cycling|soil food web]] that
 fragment organic matter, stimulate microbial decomposition, cycle
 nutrients, and create soil pore channels that improve aeration and water

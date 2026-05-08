@@ -17,7 +17,7 @@ type: concept
 
 # Entheogen Terminology and Worldview Paradigms
 
-Ralph Metzner's comparative analysis of psychoactive substance use across Western
+[[ralph-metzner]]'s comparative analysis of psychoactive substance use across Western
 psychotherapy and indigenous shamanic traditions reveals profound differences not
 only in practice but in the underlying assumptions about the nature of reality. His
 framework of four paradigms provides a systematic way to understand how different
@@ -43,7 +43,7 @@ cultural connotations that shape how the experience is understood:
   colloquially acknowledges this wandering quality. The term deserves to be
   rehabilitated rather than discarded.
 
-- **Entheogenic**: Proposed by R. Gordon Wasson and Jonathan Ott, this term shares
+- **Entheogenic**: Proposed by R. Gordon Wasson and [[jonathan-ott]], this term shares
   the same root as "enthusiasm" and means "releasing or expressing the divine
   within." It emphasizes the spiritual and sacred dimensions of the experience and
   is preferred by those who approach these substances within a religious or
@@ -56,7 +56,7 @@ exploration and expansion; "entheogenic" suggests communion with the sacred.
 
 ## Paradigm One: Standard Western Psychotherapy
 
-Within the standard Western paradigm, psychedelic psychotherapy uses the substance
+Within the standard Western paradigm, [[psychedelic-psychotherapy]] uses the substance
 as a tool to amplify and intensify the processes of internal self-analysis and
 self-understanding. Two distinct therapeutic models emerged historically:
 
@@ -74,7 +74,7 @@ transformation. This approach was originally developed for treating alcoholism b
 Humphrey Osmond and Abram Hoffer in Canada, where the high-dose experience was
 intended to simulate a life-changing "bottoming out" experience.
 
-Stanislav Grof's discovery of perinatal matrices emerged from the psycholytic
+[[stanislav-grof]]'s discovery of perinatal matrices emerged from the psycholytic
 approach. After resolving Freudian childhood dynamics through increasing doses,
 patients would find themselves reliving the sensory-emotional features of their
 birth experience, patterns Grof gave the name perinatal matrices. Beyond these,
@@ -88,7 +88,7 @@ ingests the medicine in order to "see" the causes of illness and determine what
 remedy to apply. The focus is on the practitioner's consciousness rather than the
 patient's. This fundamentally inverts the Western therapeutic model.
 
-Shamanic rituals are the intentional arrangement of set and setting for purposes of
+Shamanic rituals are the intentional arrangement of [[set-and-setting]] for purposes of
 healing and divination. They are carefully structured experiences in which a small
 group of people, typically six to twelve, come together with respectful spiritual
 attitudes to share a profound inner journey. The term "journey" is the preferred
@@ -141,51 +141,6 @@ Western psychotherapeutic approaches. Metzner documented these as "neoshamanic
 medicine circles" that have been developing since the 1980s. These circles retain
 basic elements from traditional shamanic ceremonies while incorporating
 psychological preparation and integration practices.
-
-The structural elements typically include: a circle formation with participants
-sitting or lying; an altar in the center or a fire if outside; an experienced elder
-or guide with assistants; low light or semidarkness; music including drumming,
-rattling, singing, or recorded music; dedication of ritual space through invocation
-of spirits of the four directions and elements; and cultivation of a respectful,
-spiritual attitude.
-
-The talking staff practice, derived from Pacific Northwest indigenous traditions, is
-often used: only the person holding the staff may speak or sing, and there is no
-discussion or interpretation. This contrasts with group psychotherapy formats and
-preserves the non-ordinary quality of the experience.
-
-## The Five Fundamental Conclusions
-
-Metzner identified five conclusions shared across the psycholytic and psychedelic
-approaches that distinguish psychedelic-assisted therapy from other psychiatric
-drug modalities. These include: recognition of profoundly expanded states of
-consciousness; the primacy of set and setting as experience determinants; the
-amplifier and microscope analogies for the drug's role; the necessity of the
-therapist's own experience with psychedelics; and access to transpersonal,
-religious, or mystical dimensions of consciousness.
-
-## Two Radical Worldview Differences
-
-Metzner identified two points where the shamanic worldview differs fundamentally
-from accepted Western assumptions:
-
-1. **Multiple realities**: The belief that there are multiple "worlds" that can be
-   explored in expanded states of consciousness, variously called the inner world,
-   spirit world, upper and lower worlds, faerie world, dreamtime, or nonordinary
-   reality. Access may come through a journey to that world or through the
-   perception that otherworldly beings and scenery appear in our own world.
-
-2. **Reality of spirit beings**: The belief that the beings encountered in dreams
-   and visions, whether associated with animals, plants, trees, places, deceased
-   ancestors, or other nonordinary entities, are just as real as physical
-   organisms. These spirits function as allies, power animals, guardians, or
-   helpers in the healing and divinatory process.
-
-William James, after his research with nitrous oxide nearly a century earlier, had
-already articulated that any complete account of the universe must take these
-expanded forms of consciousness into account. Metzner suggested that through hybrid
-shamanic-therapeutic exploration, Western psychology may finally be returning to
-this understanding.
 
 ## See Also
 

@@ -125,7 +125,7 @@ simple. Set the cube or pot directly into a hole in the growing medium and
 ensure firm contact. The cube integrates into the surrounding medium as roots
 grow through it, minimizing disturbance.
 
-See also: [[cervantes-transplanting-potting-up]],
+See also: [[cannabis-advanced-growing-techniques]],
 [[cervantes-growing-medium]], [[cervantes-vegetative-phase]], [[comparison-coco-coir-vs-peat]], [[perlite-cannabis]]
 
 ## See Also

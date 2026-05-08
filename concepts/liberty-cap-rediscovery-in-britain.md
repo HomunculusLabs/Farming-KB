@@ -10,7 +10,7 @@ tags: [reference]
 
 # Liberty Cap Rediscovery in Britain
 
-The rediscovery of [[psilocybe-semilanceata-profile]] as a recreational
+The rediscovery of [[psychedelic-mushrooms-species-and-identification]] as a recreational
 psychedelic in Britain during the early 1970s represents one of the most
 remarkable chapters in the [[magic-mushroom-cultivation-history]]. Despite scientific confirmation that the Liberty Cap
 contained psilocybin as early as 1963, it took nearly a decade before the

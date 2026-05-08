@@ -136,23 +136,6 @@ The evidence for EM specifically is more contested. Some meta-analyses and syste
 - **Disease suppression**: EM has shown promise for suppressing certain soil-borne diseases, likely through competitive exclusion and antibiosis, but results vary by pathogen and crop.
 - **Soil microbiology**: EM application can shift soil microbial community structure, but whether these shifts are beneficial, persistent, or significant is debated.
 
-The strongest evidence supports EM as a compost accelerator and for odor control. Claims of dramatic yield increases or disease eradication are not well supported by rigorous research.
-
-## Practical Recommendations
-
-| Scenario | Recommended Approach |
-|----------|---------------------|
-| Apartment dweller wanting to process food scraps | Bokashi with EM or DIY inoculant — minimal space, no odor |
-| Homesteader with livestock and compost | EM as a multi-purpose tool — compost, soil, animal feed, odor control |
-| Budget-conscious gardener | DIY bokashi inoculant (rice wash method) — free after initial setup |
-| Large-scale organic farm | EM-1 concentrate propagated to EM-A — cost-effective at scale |
-| Scientific skepticism about proprietary products | Aerobic composting + proven biological amendments (compost tea, mycorrhizal inoculants) |
-| Problem soil with known deficiencies | Targeted amendments for the specific deficiency; EM as supplementary |
-
-## Bottom Line
-
-Bokashi is a valuable anaerobic fermentation method for processing organic waste, and EM is a useful (if sometimes oversold) microbial inoculant with broad applications. They are not the same thing, though they work well together. The best approach depends on your scale, budget, and goals — bokashi is excellent for small-scale waste processing, while EM offers a versatile toolkit for broader soil and plant health management.
-
 ## See Also
 
 - [[bokashi-compost-method]]

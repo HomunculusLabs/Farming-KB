@@ -8,7 +8,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# Trichome Biology and [[cervantes-trichome-resin-production]]
+# Trichome Biology and [[cannabis-advanced-growing-techniques]]
 
 ## Introduction
 

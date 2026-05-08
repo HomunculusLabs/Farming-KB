@@ -32,7 +32,7 @@ psilocybe urdapilletae is known from the Sierra de Manantlán and surrounding hi
 
 ## Chemistry
 
-Limited chemical analyses have confirmed the presence of [[psilocybin]] and [[psilocin]] in psilocybe urdapilletae. The alkaloid content is reported as moderate, comparable to other section Aztecorum species. The relatively strong bluing reaction in fresh material is consistent with the presence of significant concentrations of [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
+Limited chemical analyses have confirmed the presence of [[psilocybin-compound]] and [[psilocin]] in psilocybe urdapilletae. The alkaloid content is reported as moderate, comparable to other section Aztecorum species. The relatively strong bluing reaction in fresh material is consistent with the presence of significant concentrations of [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
 
 ## Molecular Phylogeny
 
@@ -77,7 +77,7 @@ The species fruits during the rainy season from July through September in the Si
 - [[psilocybe-pseudoaztecorum]] — closely related species of central Mexico
 - [[psilocybe-weilii]] — North American species with similar morphology
 - gastón-guzmán — describing authority for the species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite responsible for bluing reactions
 - [[baeocystin]] — secondary tryptamine alkaloid
 - [[psilocybe-zapotecorum]] — another Mexican Psilocybe of montane habitats

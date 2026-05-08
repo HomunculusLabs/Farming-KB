@@ -75,7 +75,7 @@ Many fungi exist on a continuum between endophytism and pathogenicity:
 
 ## See Also
 
-- [[fungi-in-the-environment-nematode-trapping-fungi]]
+- [[nematode-trapping-fungi]]
 
 - [[fungal-decomposition-processes]] for nutrient cycling from pathogen-killed tissue
 - [[soil-food-web-structure]] for pathogens in soil food webs

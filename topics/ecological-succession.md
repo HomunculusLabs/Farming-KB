@@ -49,7 +49,7 @@ Volcanic eruptions create new land surfaces that serve as natural laboratories f
 
 ### Glacial Retreat
 
-Glacier Bay, Alaska, has served as a paradigmatic chronosequence for primary succession following deglaciation. Research by Chapin et al. (1994) documented a predictable sequence: crustose lichens → foliose lichens and mosses → nitrogen-fixing shrubs (e.g., *Dryas drummondii*) → alder thickets (*Alnus sinuata*) → spruce (*Picea sitchensis*) and western hemlock (*Tsuga heterophylla*) forest. Nitrogen fixation by *Dryas* and *Alnus* is critical, as the young glacial substrates are severely nitrogen-limited. Over approximately 200 years, aboveground biomass increases by orders of magnitude while soil organic matter accumulates to depths exceeding 50 cm.
+Glacier Bay, Alaska, has served as a paradigmatic chronosequence for primary succession following deglaciation. Research by Chapin et al. (1994) documented a predictable sequence: crustose lichens → foliose lichens and mosses → [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] shrubs (e.g., *Dryas drummondii*) → alder thickets (*Alnus sinuata*) → spruce (*Picea sitchensis*) and western hemlock (*Tsuga heterophylla*) forest. Nitrogen fixation by *Dryas* and *Alnus* is critical, as the young glacial substrates are severely nitrogen-limited. Over approximately 200 years, aboveground biomass increases by orders of magnitude while soil organic matter accumulates to depths exceeding 50 cm.
 
 ### Sand Dunes
 
@@ -71,7 +71,7 @@ Old-field succession is among the best-studied examples of secondary succession.
 
 ### Post-Logging and Flood Recovery
 
-Selective or clear-cut logging initiates secondary succession that may follow different trajectories depending on harvest intensity, soil compaction, and site preparation. In tropical forests, logging gaps are rapidly colonized by pioneer tree species (e.g., *Cecropia*, *Vismia*) that set the stage for gradual reassembly of the original forest community over decades to centuries. River floodplains undergo cyclic succession driven by depositional and erosional processes; pioneer species colonize fresh alluvium, and communities mature until the next flood event resets the cycle.
+Selective or clear-cut logging initiates secondary succession that may follow different trajectories depending on harvest intensity, soil compaction, and site preparation. In tropical forests, logging gaps are rapidly colonized by pioneer tree species (e.g., *Cecropia*, *Vismia*) that set the stage for gradual reassembly of the original forest community over decades to centuries. River floodplains undergo cyclic succession driven by depositional and erosional processes; [[pioneer-species-selection-for-permaculture-systems]] colonize fresh alluvium, and communities mature until the next flood event resets the cycle.
 
 ---
 
@@ -105,7 +105,7 @@ Pioneer species are the first organisms to colonize disturbed or newly formed ha
 - **Nitrogen fixation**: symbiotic associations with *Rhizobium* (legumes) or *Frankia* (actinorhizal plants such as *Alnus*) that alleviate nitrogen limitation.
 - **Crust-forming ability**: lichens, mosses, and cyanobacteria (biological soil crusts) that stabilize surfaces, trap organic particles, and fix atmospheric nitrogen and carbon.
 - **Tolerance of environmental extremes**: desiccation tolerance, high light requirements, wide temperature tolerance, and tolerance of low-nutrient substrates.
-- **Clonal growth**: vegetative propagation via rhizomes, stolons, or root sprouts, enabling rapid space occupation.
+- **Clonal growth**: [[vegetative-propagation-methods-mollison]] via rhizomes, stolons, or root sprouts, enabling rapid space occupation.
 
 Common pioneer taxa include lichens (*Rhizocarpon*, *Xanthoria*), cyanobacteria (*Nostoc*, *Anabaena*), mosses (*Funaria*, *Polytrichum*), herbaceous fire-followers (*Epilobium*, *Senecio*), nitrogen-fixing shrubs (*Dryas*, *Ceanothus*, *Myrica*), and fast-growing trees (*Betula*, *Populus*, *Salix*).
 
@@ -166,13 +166,13 @@ Most successional sequences involve both autogenic and allogenic components. For
 
 ## Mycorrhizal Fungi and Soil Development
 
-Mycorrhizal fungi play a critical but often underappreciated role in succession. The progressive development of mycorrhizal networks fundamentally shapes plant community trajectories:
+Mycorrhizal fungi play a critical but often underappreciated role in succession. The progressive development of [[mycorrhizal-networks-and-forest-communication]] fundamentally shapes plant community trajectories:
 
-- **Early succession**: arbuscular mycorrhizal fungi (AMF) are often the first to colonize, forming associations with herbaceous pioneers. In severely degraded or primary successional substrates, mycorrhizal inoculum may be absent, limiting the establishment of late-successional species that depend on these symbioses.
+- **Early succession**: [[arbuscular-mycorrhizal-colonization-patterns]] fungi (AMF) are often the first to colonize, forming associations with herbaceous pioneers. In severely degraded or primary successional substrates, mycorrhizal inoculum may be absent, limiting the establishment of late-successional species that depend on these symbioses.
 - **Mid to late succession**: ectomycorrhizal fungi (ECM) become dominant in boreal and temperate forest successions, forming mutualisms with trees such as pine, spruce, oak, and beech. ECM networks facilitate nutrient and carbon transfer among plants, influence competitive outcomes, and enhance ecosystem-level nutrient retention.
-- **Soil development feedbacks**: mycorrhizal fungi contribute to soil aggregation, organic matter turnover, and the weathering of mineral substrates. The transition from AMF-dominated to ECM-dominated fungal communities is often associated with shifts from fast-cycling to slow-cycling nutrient regimes.
+- **Soil development feedbacks**: mycorrhizal fungi contribute to soil aggregation, organic matter turnover, and the weathering of mineral substrates. The transition from AMF-dominated to ECM-dominated [[fungal-communities-water-aquatic-ecosystems]] is often associated with shifts from fast-cycling to slow-cycling nutrient regimes.
 
-Restoration practitioners increasingly recognize the importance of mycorrhizal inoculation when establishing vegetation on severely degraded or mined lands.
+Restoration practitioners increasingly recognize the importance of [[mycorrhizal-inoculation-techniques]] when establishing vegetation on severely degraded or mined lands.
 
 ---
 
@@ -206,7 +206,7 @@ Boreal forests are among the most extensively fire-prone ecosystems on Earth. St
 1. **Immediate post-fire (0–5 years)**: herbaceous fire-followers (fireweed, dwarf fireweed) and resprouting shrubs dominate exposed mineral soil.
 2. **Shrub/sapling stage (5–30 years)**: deciduous hardwoods (aspen, birch) and conifer saplings establish rapidly in full sunlight.
 3. **Young forest (30–80 years)**: canopy closes; shade-intolerant species are outcompeted; conifers (spruce, fir) begin to dominate the overstory.
-4. **Mature/old-growth forest (80–250+ years)**: spruce-fir canopy with a moss-dominated understory, coarse woody debris accumulation, and complex vertical structure.
+4. **Mature/old-[[old-growth-forest-fungi-conservation]] (80–250+ years)**: spruce-fir canopy with a moss-dominated understory, coarse woody debris accumulation, and complex vertical structure.
 
 ### Intertidal Zones
 

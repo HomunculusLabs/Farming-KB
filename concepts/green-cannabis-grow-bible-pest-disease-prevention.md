@@ -145,5 +145,5 @@ maintain strict grow room cleanliness at all times.
 
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] Pages
 
-- [[cannabis-pest-management]]
+- cannabis pest management
 - [[cannabis-pest-management-guide]]

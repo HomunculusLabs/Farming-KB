@@ -137,25 +137,6 @@ Practitioners typically have no medical training to identify early signs
 of adverse drug interactions or to respond appropriately in an
 emergency.
 
-Language barriers compound the problem. Communication between tourists
-and practitioners is often limited even in ordinary consciousness. During
-an altered state induced by ayahuasca, meaningful communication about
-medication history or emerging symptoms becomes virtually impossible.
-The remote ceremonial setting further delays emergency response.
-
-## Practical Recommendations
-
-Individuals considering an [[harmala-alkaloids-and-ayahuasca-preparation]] ceremony should:
-
-- Consult a physician knowledgeable about MAOI pharmacology
-- Provide a complete list of all medications and supplements
-- Discontinue SSRIs under medical supervision in advance (washout
-  periods of 2 to 5 weeks may be required depending on half-life;
-  fluoxetine requires the longest washout)
-- Carry a written list of all medications and medical conditions
-- Inform ceremony facilitators of any medical conditions or medications
-- Be aware that some interactions require weeks of discontinuation
-
 ## Related
 
 - [[ayahuasca-tourism-medical-risks-prescription-interactions]] Concepts

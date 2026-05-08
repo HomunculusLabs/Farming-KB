@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Permaculture Two: Practical Design for Town & Country in Permanent Agriculture (Tagari Books, 1979) by Bill Mollison establishes the core design framework that distinguishes permaculture from gardening or farming. This page summarizes the foundational principles unique to Permaculture Two. See [[permaculture-design-principles-beginners]] for the broader principles from both books.
+Permaculture Two: Practical Design for Town & Country in Permanent Agriculture (Tagari Books, 1979) by Bill Mollison establishes the core design framework that distinguishes permaculture from gardening or farming. This page summarizes the foundational principles unique to Permaculture Two. See [[permaculture-design-principles]] for the broader principles from both books.
 
 ## What Permaculture Is
 

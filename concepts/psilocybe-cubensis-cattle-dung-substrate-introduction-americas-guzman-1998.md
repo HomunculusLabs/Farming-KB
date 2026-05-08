@@ -12,7 +12,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Psilocybe cubensis is one of the most widely distributed and well-known
 neurotropic fungi in the world. According to the comprehensive survey by
-[[Guzmán, Allen & Gartz (1998)]], P. cubensis has been documented across
+[[guzmán,-allen-&-gartz-(1998)]], P. cubensis has been documented across
 the tropical and subtropical zones of the Americas, Caribbean, Asia,
 Oceania, and Africa. However, its distribution is intimately tied to the
 presence of bovine cattle dung as a substrate, raising significant questions
@@ -31,7 +31,7 @@ sun-exposed pastures and grasslands where cattle graze.
 
 The species was originally described by Earle (1906) from Cuba, hence the
 specific epithet "cubensis." Its growth on bovine dung distinguishes it from
-most other Psilocybe species in the [[Four Groups of Neurotropic Fungi: Global Distribution]] classification, which are predominantly
+most other Psilocybe species in the [[four-groups-of-neurotropic-fungi:-global-distribution]] classification, which are predominantly
 lignicolous or humicolous.
 
 ## Distribution in the Americas
@@ -121,24 +121,6 @@ populations. This is consistent with the hypothesis that the species
 requires specific tropical or subtropical climatic conditions that are not
 met in temperate Europe, even when suitable bovine dung substrate is
 available.
-
-## Cultivation and Global Trade
-
-P. cubensis is the most commonly cultivated neurotropic fungus worldwide,
-and this cultivation has profoundly complicated the interpretation of its
-natural distribution. The Guzmán, Allen & Gartz survey notes that
-cultivated and illegally traded specimens of P. cubensis have been found in
-Europe and other temperate regions where the species does not occur
-naturally. This creates a persistent problem for biogeographic studies, as
-"wild" collections may actually originate from cultivated sources:
-
-- Spores from cultivated specimens may establish transient populations in
-  favorable locations
-- Dried specimens found by authorities in Europe are invariably traced to
-  illegal cultivation or importation
-- The distinction between natural occurrence and anthropogenic introduction
-  becomes increasingly blurred
-
 ## Related Coprophilous Species
 
 Several other neurotropic fungi share the coprophilous habit with P.
@@ -157,11 +139,11 @@ cubensis, though none match its geographic range:
 
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-- [[psilocybe-cubensis-introduction-americas-slave-trade]]
+- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 
 - Psilocybe semilanceata Worldwide Temperate Distribution
-- [[Four Groups of Neurotropic Fungi: Global Distribution]]
+- [[four-groups-of-neurotropic-fungi:-global-distribution]]
 - Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 - Neurotropic Fungi Underground Trade and Legislation

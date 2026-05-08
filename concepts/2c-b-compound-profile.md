@@ -80,8 +80,8 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[psilocybin]]
-- [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-compound]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[shulgin-dosage-guidelines]]
 - [[stamets-mushrooms-world-chemistry-potency]]
 - [[2c-family-chemistry-and-sar-pihkal]]

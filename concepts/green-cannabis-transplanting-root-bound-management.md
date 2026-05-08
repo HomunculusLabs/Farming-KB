@@ -114,7 +114,7 @@ into fresh medium in a properly draining container.
 
 Transplanting timing interacts with several other grow decisions:
 
-- [[green-cannabis-grow-bible-seed-germination-methods]]
+- green cannabis grow bible seed germination methods
   method determines the initial container and medium.
 - [[green-cannabis-grow-bible-vegetative-phase-management]] may include one or more pot-ups before flowering.
 - [[green-cannabis-grow-bible-nutrient-management-ppm]]

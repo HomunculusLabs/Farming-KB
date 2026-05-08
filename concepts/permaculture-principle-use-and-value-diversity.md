@@ -52,7 +52,7 @@ In pre-industrial agriculture, polyculture was the norm. Self-reliant households
 
 ## Connections
 
-This principle links to [[permaculture-principle-integrate-rather-than-segregate]] (diversity enables integration), [[permaculture-principle-use-edges-and-value-the-marginal]] (edges maximize diversity), [[permaculture-principle-produce-no-waste]] (diverse systems close more loops), and [[permaculture-principle-obtain-a-yield]] (diversity of yields provides insurance). See also [[permaculture-principles]], [[food-forest-layers-and-species]], [[permaculture-guild-design]], and [[polyculture-design-holzer]].
+This principle links to [[permaculture-design-principles]] (diversity enables integration), [[permaculture-design-principles]] (edges maximize diversity), [[permaculture-principle-produce-no-waste]] (diverse systems close more loops), and [[permaculture-design-principles]] (diversity of yields provides insurance). See also [[permaculture-principles]], [[food-forest-layers-and-species]], [[permaculture-guild-design]], and [[polyculture-design-holzer]].
 
 ## Applied Notes
 

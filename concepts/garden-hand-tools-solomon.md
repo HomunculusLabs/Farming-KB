@@ -106,7 +106,7 @@ Keeping tools in good condition is essential:
 
 Solomon's key insight: buy the best quality tools you can afford once, rather than cheap replacements repeatedly. A well-made tool that lasts decades is far cheaper per year of use than a cheap tool replaced every few seasons. The same principle applies to all gardening equipment.
 
-See also: [[garden-tools-selection]], [[garden-bed-preparation]], [[soil-preparation-organic-gardens]]
+See also: [[organic-vegetable-growing-and-market-gardening]], [[garden-bed-preparation]], [[soil-preparation-organic-gardens]]
 
 ## Related
 

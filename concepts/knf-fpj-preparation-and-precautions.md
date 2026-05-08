@@ -147,5 +147,3 @@ Timing of collection significantly affects FPJ quality:
 
 5. Avoid picking plants near roadsides to prevent using polluted
    plants contaminated with vehicle emissions and dust.
-
-## See Also

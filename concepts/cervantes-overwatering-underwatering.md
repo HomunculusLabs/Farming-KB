@@ -18,7 +18,7 @@ both novice and experienced growers. Understanding when
 and how much to water is essential for healthy root
 development and vigorous plant growth.
 
-See also: [[cervantes-water-quality-management]]
+See also: [[cannabis-advanced-growing-techniques]]
 See also: [[cervantes-growing-medium]]
 
 ## When to Water
@@ -125,7 +125,7 @@ rapid growth after drought stress. To prevent this:
 - **Apply mulch** on the soil surface to reduce
   evaporation
 
-See also: [[cervantes-transplanting-potting-up]]
+See also: [[cannabis-advanced-growing-techniques]]
 
 ## Watering Technique
 

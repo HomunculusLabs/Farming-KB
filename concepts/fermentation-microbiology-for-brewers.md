@@ -116,6 +116,6 @@ Yeast nutrient blends are available and recommended for high-gravity brews, mead
 - [[wild-fermentation-vs-cultured-yeast]] for wild fermentation approaches
 - [[beer-brewing-basics]] for practical brewing technique
 - [[ale-vs-lager-fermentation]] for the two main yeast families
-- [[kombucha-brewing]] for a multi-species fermentation
+- kombucha brewing for a multi-species fermentation
 - [[food-fermentation-guide]] for lacto-fermentation microbiology
 - [[lacto-fermentation-and-food-preservation-methods]]

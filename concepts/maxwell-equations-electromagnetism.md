@@ -81,7 +81,7 @@ media, ε and μ depend on frequency ε(ω), producing chromatic dispersion. Non
 media exhibit intensity-dependent responses including the Kerr effect and second-
 harmonic generation, essential to nonlinear optics and photonics.
 
-## [[boundary-layer-theory-fluid-dynamics|Boundary]] Conditions
+## Boundary Conditions
 
 At an interface between two media, Maxwell's equations impose conditions derived from
 the integral forms using infinitesimal pillboxes and Amperian loops: **n̂**·(**D**₂ −
@@ -148,6 +148,3 @@ In **SI units** (engineering standard), ε₀ and μ₀ appear explicitly with *
 and **B** in Tesla. In **Gaussian CGS** (theoretical physics), ε₀ = μ₀ = 1, **E**
 and **B** share dimensions, and c appears explicitly in Faraday's and Ampère's laws.
 The Lorentz force also differs: **F** = q(**E** + **v**×**B**) in SI versus **F** =
-q(**E** + **v**×**B**/c) in Gaussian. Converting requires careful tracking of 4π
-factors and powers of c. SI simplifies engineering calculations; Gaussian produces
-more symmetric theoretical expressions.

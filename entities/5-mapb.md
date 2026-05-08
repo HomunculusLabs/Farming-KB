@@ -141,5 +141,5 @@ function and potential as a tool compound in neuropharmacology.
 ## See Also
 
 - [[mdma]] — the primary entactogen to which 5-MAPB is compared
-- [[mescaline]] — serotonergic psychedelic with distinct receptor profile
+- [[mescaline-entity]] — serotonergic psychedelic with distinct receptor profile
 - [[psilocin]] — natural serotonergic psychedelic compound

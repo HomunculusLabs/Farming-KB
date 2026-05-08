@@ -113,5 +113,5 @@ For farmers wanting to adopt Fukuoka's ground cover approach:
 - [[four-principles-of-natural-farming]] -- no-weeding principle
 - [[cover-cropping-guide]] -- cover crop options
 - [[acid-and-alkaline-soil-management]]
-- [[permaculture-woody-mulch-systems]]
+- [[permaculture-design]]
 - [[soil-erosion-control]]

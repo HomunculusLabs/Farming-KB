@@ -11,7 +11,7 @@ type: concept
 
 # Biological Control Fallacy and Pheromone Pesticide Critique
 
-Masanobu Fukuoka mounted a comprehensive critique of biological pest control methods,
+[[masanobu-fukuoka]] mounted a comprehensive critique of biological pest control methods,
 including pheromone-based pesticides and natural predator introduction, arguing that
 these approaches are fundamentally flawed because they treat symptoms while disrupting
 the deeper ecological order that they claim to protect. His analysis anticipated many
@@ -147,16 +147,3 @@ principle that healthy crops in balanced ecosystems do not experience significan
 pest damage. The focus should be on growing conditions rather than on pest
 organisms, on the health of the crop rather than on the destruction of its
 perceived enemies.
-
-## Scientific Farming Spiral
-
-Fukuoka placed biological control within his broader analysis of the "scientific
-farming spiral," where each new technology creates new problems requiring yet
-more technological solutions. Biological pesticides replace chemical pesticides,
-which replaced earlier methods, each generation promising to be the final solution
-while generating its own set of unintended consequences. See
-[[fukuoka-textdoc-entanglement-natural-scientific-farming]] for the full context
-of this spiral dynamic. The development of increasingly sophisticated biological
-control methods represents not progress but merely a continuation of the same
-fundamental error: the belief that nature can be improved through human
-intervention.

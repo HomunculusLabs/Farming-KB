@@ -140,5 +140,5 @@ individual shamanic authority and pervasive suspicion.
 - [[harner-amanita-muscaria-siberian-shamanism]]
 - [[harner-amazonian-ayahuasca-shamanism]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[ethnomycology]]
 - [[hallucinogens-and-shamanism-harner-anthology]]

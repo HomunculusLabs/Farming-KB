@@ -101,7 +101,7 @@ The extreme variability in alkaloid content means that users have no reliable wa
 - [[psilocybe-cubensis-street-sample-potency-variability]]
 
 - [[turner-psilocybin-mushroom-experience-guide]]
-- [[stone-fruit-tree-care]]
+- stone fruit tree care
 - [[psilocybin-cultivation]]
 
 ## Merged: Mushroom Dehydration Methods

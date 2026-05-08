@@ -18,7 +18,7 @@ type: concept
 
 # Greenhouse Ventilation Design for Mobile and Sliding Houses
 
-Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. Eliot Coleman's evolving greenhouse designs reflect years of experimentation with ventilation systems that must function effectively in both winter and summer while accommodating the structural requirements of houses that move.
+Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[eliot-coleman]]'s evolving greenhouse designs reflect years of experimentation with ventilation systems that must function effectively in both winter and summer while accommodating the structural requirements of houses that move.
 
 ## Why Standard Roll-Up Sides Are Problematic
 
@@ -48,7 +48,7 @@ The end-wall design for the 22-by-48-foot sliding greenhouses provides both high
 
 A strip of plastic covers the space between the crossbar and the soil surface at each end. This strip serves dual purposes:
 
-- When the greenhouse is moved over standing crops, the strip is rolled up to allow the house to pass over the plants without damage
+- When the greenhouse is moved over standing crops, the strip is rolled up to allow the house to pass over the [[plants-without-mycorrhizal-associations]] damage
 - During summer, the strip functions as a roll-up side for additional ventilation
 
 This design provides effective ventilation while maintaining the structural rigidity needed for houses that are physically pushed or pulled between sites.
@@ -73,7 +73,7 @@ This design enables three distinct ventilation modes:
 
 **Early spring mode:** Once snow is no longer a concern, the door is rolled up from the bottom during the day and rolled down at night, functioning like a conventional roll-up sidewall. When cold air drafting across the crops might be detrimental, a 2-foot-wide piece of plastic is stretched horizontally across the bottom of the door opening as an air barrier.
 
-**Summer mode:** The doors at both ends are rolled up entirely and tied in place, ensuring maximum ventilation for summer crops and easy access for harvesting or soil preparation between succession crops.
+**Summer mode:** The doors at both ends are rolled up entirely and tied in place, ensuring maximum ventilation for summer crops and easy access for harvesting or [[soil-preparation-organic-gardens]] between succession crops.
 
 ## Stabilization for Wind
 
@@ -100,7 +100,7 @@ This concept remains theoretical but addresses the fundamental challenge of prov
 
 The same greenhouse designs that must retain heat in winter face the opposite challenge in summer: venting excess heat to prevent crop damage. The summer climate maps in the appendix of the Winter Harvest Handbook show that summer temperatures vary dramatically across the United States, and growers in hotter regions must pay particular attention to ventilation capacity.
 
-For the hottest weeks of summer, growers have the option of closing the greenhouse entirely and solarizing the soil. Solarization involves the soil being heated by the sun under the sealed plastic cover to temperatures that kill soil-borne pathogens, weed seeds, and nematodes. This practice can serve a dual purpose: protecting the plastic covering from UV degradation during the period when it would otherwise be most stressed, and improving soil health for the subsequent crop.
+For the hottest weeks of summer, growers have the option of closing the greenhouse entirely and solarizing the soil. Solarization involves the soil being heated by the sun under the sealed plastic cover to temperatures that kill soil-borne pathogens, weed seeds, and nematodes. This practice can serve a dual purpose: protecting the plastic covering from UV degradation during the period when it would otherwise be most stressed, and improving [[soil-health-indicators]] for the subsequent crop.
 
 ## Integration with the Wiggle-Wire System
 

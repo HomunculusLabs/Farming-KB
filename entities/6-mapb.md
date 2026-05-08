@@ -142,11 +142,9 @@ minimum 4–6 week recovery periods between uses to permit serotonin recovery.
 
 - [[2c-b-psychedelic-empathogen-guide]]
 
-- [[5-APB]]
-- [[5-MeO-DIPT]]
+- [[5-apb]]
+- [[5-meo-dipt]]
 - MDA
 - [[mdma]]
 - [[6-MeO-THH]]
-- [[2C-B]]
-- [[mescaline]]
-- Benzofuran
+- [[2c-b]]

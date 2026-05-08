@@ -36,7 +36,7 @@ The primary functions of humus storage ditches include:
 - Collecting valuable nutrients and organic material carried by water
 - Creating water reservoirs that support nearby vegetation through
   evaporation
-- Supplying terraces and [[holzer-raised-bed-design]] below with steady
+- Supplying terraces and [[sepp-holzer-permaculture-and-rebel-farming]] below with steady
   moisture
 - Playing a substantial part in preserving the natural balance of the
   entire permaculture system
@@ -88,7 +88,7 @@ The relationship between humus storage ditches and raised beds is
 complementary. The terraces and raised beds below the ditches will steadily
 be supplied with water. This passive irrigation system means that even in
 periods of drought, crops can continue to grow without supplementary
-watering. The design follows [[permaculture-principle-use-small-and-slow-solutions]] by using gravity and natural water movement rather than pumps or
+watering. The design follows [[permaculture-design-principles]] by using gravity and natural water movement rather than pumps or
 pipes.
 
 ## Caution on Heavy Soils
@@ -126,5 +126,5 @@ maintenance requirements. Once created, they function passively, collecting
 nutrients and water year after year. The only periodic work involved is
 extracting accumulated humus material for use elsewhere on the farm. This
 makes them an excellent investment of time and energy for any permaculture
-system, large or small. The ditches represent [[permaculture-principle-integrate-rather-than-segregate]] by connecting water management, soil
+system, large or small. The ditches represent [[permaculture-design-principles]] by connecting water management, soil
 building, and crop production into a single integrated element.

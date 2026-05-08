@@ -125,5 +125,5 @@ Grow accumulators as cover crops before establishing gardens or orchards to brin
 - [[dynamic-accumulators]]
 - [[comfrey-plant-guide]]
 - [[yarrow-plant-guide]]
-- [[nitrogen-cycle-in-soil]]
-- [[permaculture-plant-selection-guide]]
+- [[composting-and-soil-biology]]
+- [[permaculture-design]]

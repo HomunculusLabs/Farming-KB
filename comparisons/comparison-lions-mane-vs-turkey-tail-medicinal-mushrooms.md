@@ -2,7 +2,7 @@
 title: "Lion's Mane vs Turkey Tail Medicinal Mushrooms"
 tags:
   - medicinal-mushroom
-  - [[lions-mane-hericium-erinaceus|lions-mane]]
+  - [[lions-mane-hericium-erinaceus]]
   - turkey-tail
   - hericium
   - trametes
@@ -24,11 +24,11 @@ created: 2026-05-03
 type: comparison
 ---
 
-# Lion's Mane vs Turkey Tail Medicinal Mushrooms
+# Lion's Mane vs Turkey Tail [[medicinal-mushrooms]]
 
 ## At a Glance
 
-| Feature | Lion's Mane (*Hericium erinaceus*) | Turkey Tail (*Trametes versicolor*) |
+| Feature | Lion's Mane (*[[hericium-erinaceus]]*) | Turkey Tail (*[[trametes-versicolor]]*) |
 |---------|-----------------------------------|-------------------------------------|
 | **Primary use** | Cognitive support, neuroprotection | Immune modulation, adjunctive cancer therapy |
 | **Key compounds** | Hericenones, erinacines (neurotrophic) | PSK, PSP, β-glucans (immunomodulatory) |
@@ -126,9 +126,9 @@ Both mushrooms demonstrate significant antioxidant and anti-inflammatory activit
 | Fruiting temp | 16–20°C (cool) | 18–27°C (wide range) |
 | Humidity needs | Very high (85–95% RH) | Moderate-high (75–90% RH) |
 | FAE requirements | Very high — critical | Moderate |
-| Biological efficiency | 75–150% | 50–100% (less relevant as not culinary) |
+| [[biological-efficiency]] | 75–150% | 50–100% (less relevant as not culinary) |
 | Contamination resistance | Moderate | High — very vigorous colonizer |
-| Difficulty | Moderate — demanding fruiting conditions | Easy — forgiving and adaptable |
+| Difficulty | Moderate — demanding [[fruiting-conditions]] | Easy — forgiving and adaptable |
 | Time to first fruit | 4–8 weeks from inoculation | 3–6 weeks from inoculation |
 
 Turkey Tail is significantly easier to grow and more tolerant of suboptimal conditions. Lion's Mane requires precise environmental control during fruiting for good results.
@@ -142,37 +142,6 @@ Turkey Tail is significantly easier to grow and more tolerant of suboptimal cond
 - Peripheral nerve health and regeneration
 - Digestive support and gastric protection
 - General nootropic stack component
-- Neuroprotective strategy alongside aging
-
-### When to Choose Turkey Tail
-
-- Immune system support and modulation
-- Adjunctive support during cancer treatment (with oncologist guidance)
-- Chronic viral infections (HPV, hepatitis — preliminary evidence)
-- Post-antibiotic gut microbiome restoration
-- Chronic fatigue with immune dysfunction
-- Seasonal immune preparedness
-
-### When to Combine Both
-
-- Post-chemo recovery (Turkey Tail for immune, Lion's Mane for chemo-brain)
-- Chronic illness with both immune and cognitive components (e.g., long COVID, ME/CFS)
-- General anti-aging and health optimization protocols
-- Comprehensive functional mushroom stack for whole-body support
-
-## Safety Considerations
-
-Both mushrooms have excellent safety profiles with no serious adverse effects reported in clinical trials. Key considerations:
-
-- **Lion's Mane**: Theoretical bleeding risk (anti-platelet); rare contact dermatitis from fresh specimens; always cook before eating
-- **Turkey Tail**: Very safe; PSK and PSP have been used in millions of patients in Asia with minimal side effects; rare mild GI upset
-- **Drug interactions**: Both may interact with immunosuppressants (theoretical); Lion's Mane may interact with anticoagulants
-- **Pregnancy/lactation**: Insufficient data for both; exercise caution
-
-## Summary
-
-Lion's Mane and Turkey Tail serve fundamentally different primary purposes. **Lion's Mane is the neurotrophic mushroom** — its hericenones and erinacines uniquely stimulate NGF for cognitive and neurological support, with growing human clinical evidence. **Turkey Tail is the immunomodulatory mushroom** — its PSK and PSP are the most clinically validated mushroom-derived compounds in cancer adjunct therapy, with decades of human data. Rather than competing, these two mushrooms are complementary: Turkey Tail fortifies the immune system while Lion's Mane protects and enhances the nervous system. Together, they cover two of the most critical domains of long-term health.
-
 ## See Also
 
 - [[lions-mane-hericium-erinaceus]]

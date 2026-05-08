@@ -139,11 +139,11 @@ cycles together (yin); economies that value both material production and the
 non-monetized work of care, education, and cultural transmission.
 ## Related Concepts
 - [[forest-garden-design-principles]]
-- [[permaculture-introduction-and-ethics]]
+- [[permaculture-design-principles]]
 - [[holmgren-corporate-culture-and-ecology]]
 - [[holmgren-household-economy-and-self-reliance]]
-- [[permaculture-principle-integrate-rather-than-segregate]]
-- [[permaculture-principle-creatively-use-and-respond-to-change]]
+- [[permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-seed-saving-breeding]]
 - [[holmgren-beyond-sustainability]]

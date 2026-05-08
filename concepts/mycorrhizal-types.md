@@ -111,7 +111,7 @@ These families do not form mycorrhizae and have alternative strategies:
 - [[mycorrhizal-networks]] — How mycelial networks function
 - [[glomalin-and-soil-carbon]] — AMF soil carbon compound
 - [[soil-food-web-nutrient-cycling]] — Where mycorrhizae fit in the ecosystem
-- [[no-till-gardening-method]] — Protecting mycorrhizal networks
+- [[composting-and-soil-biology]] — Protecting mycorrhizal networks
 - teaming-with-fungi-lowenfels — Source reference
 
 ## Related

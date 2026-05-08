@@ -128,7 +128,7 @@ Engineering effective consortia requires understanding interspecies interactions
 ## Related
 
 - [[fungal-bioremediation-case-studies]]
-- [[mycoremediation-advantages-limitations]]
+- [[bioremediation-using-fungi]]
 - [[mycoremediation-site-assessment]]
 - [[bioelectrochemical-remediation]]
 - [[fungal-enzyme-activity-nutrient-availability]]

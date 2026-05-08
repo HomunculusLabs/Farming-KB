@@ -140,40 +140,6 @@ This is not nihilism or passivity. It is an active recognition that human
 intervention, born from discriminating knowledge, disrupts the natural
 order. The highest wisdom is to refrain from acting on incomplete
 understanding, to allow nature to express itself fully without the
-distortions of human categorization and control.
-
-Nature is one. There is no starting point or destination, only an unending
-flux, a continuous metamorphosis of all things. Even this may be said not to
-exist. The true essence of nature then is "nothingness." It is here that
-the real starting point and destination are to be found.
-
-## The Scientific Method as Endless Regression
-
-Fukuoka's argument about non-discriminating knowledge connects directly to
-his critique of the scientific method. Science begins by discriminating,
-breaking down, and analyzing, so the truths it grasps can never be absolute
-and universal. Scientific knowledge is by definition fragmented and
-incomplete; no matter how many bits of incomplete knowledge are collected
-together, they can never form a complete whole.
-
-The scientist who studies soil chemistry knows one aspect of soil, only one
-function, but is blind to light itself, unable to perceive light and air as
-broadly changing phenomena of the universe. He isolates these from nature
-and examines them in cross-section like dead tissue under a microscope.
-
-## Connection to Natural Farming Practice
-
-In practical terms, non-discriminating knowledge manifests as the
-willingness to observe before acting, to trust natural processes over human
-intervention, and to accept outcomes that may appear "imperfect" from the
-standpoint of scientific agriculture. This approach requires what might be
-called cultivated humility: the recognition that human knowledge is
-intrinsically imperfect and that the wisest course is often non-intervention.
-
-It is the adult's recovery of the child's intuitive grasp of nature, not
-through regression, but through the deliberate stripping away of the layers
-of discriminating knowledge that have accumulated over a lifetime.
-
 ## See Also
 
 - [[fukuoka-textdoc-errors-of-human-intellect]]

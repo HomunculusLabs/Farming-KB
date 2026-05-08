@@ -131,6 +131,6 @@ may be more effective than general population campaigns.
 
 [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
-[[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+[[hallucinogenic-mushroom-prevalence-europe]]
 [[emcdda-hallucinogenic-mushroom-dose-effects]]
 [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]

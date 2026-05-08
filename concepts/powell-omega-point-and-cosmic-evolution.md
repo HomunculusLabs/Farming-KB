@@ -47,7 +47,7 @@ reality process as we know it.
 
 ## McKenna's Eschaton
 
-[[terence-mckenna-stoned-ape-hypothesis]] echoed Teilhard's mystical claims, assuming the role of
+[[psychedelic-mushrooms-species-and-identification]] echoed Teilhard's mystical claims, assuming the role of
 "psychedelic prophet" by consistently predicting that human history would be
 utterly transformed. His "fractal theory of time" viewed time as a cyclical
 patterning process involving continual "ingression of novelty" with a

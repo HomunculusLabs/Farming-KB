@@ -114,7 +114,7 @@ The genus *Panus* was historically merged with *Lentinus* but molecular phylogen
 - [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
 - [[trametes-versicolor]]
-- [[laetiporus-sulphureus]]
+- [[laetiporus-sulphureus-permaculture]]
 - [[neolentinus-lepideus]]
 - [[polyporus-umbellatus]]
 - lentinus tigrinus

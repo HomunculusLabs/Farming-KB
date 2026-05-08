@@ -42,7 +42,7 @@ As early as 9,000-7,000 years ago, the head was apparently considered the seat o
 
 Mushrooms were drawn in white, several shades of ochre, and occasionally in blue colors, possibly representing the bluing phenomenon of psilocybin-containing species.
 
-The rock drawings consistently show two kinds of mushroom shapes: one resembling [[psilocybe-semilanceata-profile]] with an acute umbo, and the other representing larger mushrooms with a habitus like Amanita or Stropharia species.
+The rock drawings consistently show two kinds of mushroom shapes: one resembling [[psychedelic-mushrooms-species-and-identification]] with an acute umbo, and the other representing larger mushrooms with a habitus like Amanita or Stropharia species.
 
 Mushrooms were also mythologically linked with fish in some depictions.
 
@@ -52,7 +52,7 @@ Despite their age, the rock drawings' colors have retained brilliant hues.
 
 The mushrooms could have grown on several substrates in the ancient Sahara: fallen twigs and raw compost, grounds littered with remains from evergreen and deciduous trees, or dung left behind by pasture animals.
 
-The most likely candidates are relatives of [[psilocybe-cubensis-profile]] and [[panaeolus-cyanescens-bali-omelette]] (dung-inhabiting species), [[psilocybe-semilanceata-profile]] (a nitrophilic species), and [[psilocybe-cyanescens-profile]] (a species growing on raw compost).
+The most likely candidates are relatives of [[psychedelic-mushrooms-species-and-identification]] and [[panaeolus-cyanescens-bali-omelette]] (dung-inhabiting species), [[psychedelic-mushrooms-species-and-identification]] (a nitrophilic species), and [[psychedelic-mushrooms-species-and-identification]] (a species growing on raw compost).
 
 ## African Psilocybin Species
 
@@ -64,11 +64,11 @@ He collected additional specimens every year until 1926, naming the species Hyph
 
 G. Malencon classified similar specimens from Morocco's Central Atlas Mountains as the same species.
 
-Singer later classified it as Psilocybe mairei; Krieglsteiner considered it identical with [[psilocybe-cyanescens-profile]].
+Singer later classified it as Psilocybe mairei; Krieglsteiner considered it identical with [[psychedelic-mushrooms-species-and-identification]].
 
 Ola'h's monograph on Panaeolus describes two strongly psychoactive African species: Panaeolus africanus Ola'h and Panaeolus tropicales Ola'h.
 
-Given sufficiently wet conditions, [[psilocybe-cubensis-profile]] can be found in Africa growing on pastures up to 30 degrees north and south of the equator.
+Given sufficiently wet conditions, [[psychedelic-mushrooms-species-and-identification]] can be found in Africa growing on pastures up to 30 degrees north and south of the equator.
 
 In January 1994, [[global-psychedelic-mushroom-species-diversity]] was discovered in Natal Province, South Africa, the first psychotropic Psilocybe species ever found in the area.
 
@@ -92,7 +92,7 @@ Africa has very few records of neurotropic Psilocybe species due to scarce mycol
 
 Only 6-8 neurotropic species of Psilocybe are known from Africa.
 
-[[psilocybe-cubensis-profile]] appears to grow in Kenya despite confusing early reports.
+[[psychedelic-mushrooms-species-and-identification]] appears to grow in Kenya despite confusing early reports.
 
 [[inocybe-aeruginascens-profile]] is known from Northern Africa (Morocco and Algeria) and also from Europe (Czechoslovakia).
 
@@ -104,7 +104,7 @@ The intoxications and ancient rock art indicate that psychoactive species do occ
 
 Additional work is needed on African species, their distribution, taxonomic classification, and active ingredients.
 
-See also: african mushroom cult history, [[magic-mushroom-cultural-history]], [[psilocybe-mexicana-profile]], [[psilocybe-global-biogeography]]
+See also: african mushroom cult history, [[magic-mushroom-cultural-history]], [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-global-biogeography]]
 
 See also: [[african-psilocybin-mushroom-guide]]
 
@@ -133,5 +133,5 @@ changes.
 - [[panaeolus-africanus]]
 - [[psilocybe-mairei]]
 - [[psilocybin-mushroom]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]

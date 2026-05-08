@@ -148,5 +148,3 @@ far beyond what conventional landscaping achieves.
 - [[query-what-earthworks-should-i-use-for-water-harvesting]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-what-is-sheet-mulching-and-how-to-do-it]]
-- [[query-what-are-the-benefits-of-no-till-gardening]]
-- [[query-how-do-i-start-a-no-till-garden-bed]]

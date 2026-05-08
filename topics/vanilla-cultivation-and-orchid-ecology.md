@@ -230,7 +230,7 @@ Vanilla is ideally suited to [[agroforestry]] and [[permaculture]] systems becau
 
 Vanilla cultivation faces several significant biotic threats:
 
-- **Fusarium oxysporum f. sp. vanillae** — The most devastating disease, causing root and stem rot. Responsible for major crop losses in Madagascar and Réunion. Management includes field sanitation, resistant varieties, and biological controls with [[Trichoderma]] species.
+- **Fusarium oxysporum f. sp. vanillae** — The most devastating disease, causing root and stem rot. Responsible for major crop losses in Madagascar and Réunion. Management includes field sanitation, resistant varieties, and biological controls with [[trichoderma]] species.
 - **Fusarium proliferatum** — Causes fruit rot
 - **Colletotrichum spp.** (anthracnose) — Dark lesions on leaves, stems, and pods
 - **Uromyces spp.** (rust) — Orange pustules on leaf undersides

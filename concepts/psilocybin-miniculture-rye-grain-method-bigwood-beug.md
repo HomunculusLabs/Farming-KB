@@ -11,11 +11,11 @@ type: concept
 
 # Psilocybin Miniculture on Rye Grain Method
 
-The miniculture technique developed by Bigwood and Beug (1982) represents a standardized, small-scale cultivation method for [[psilocybe-cubensis]] that enables controlled study of [[psilocybin]] and [[psilocin]] levels across successive fruiting flushes. Originally designed for quantitative research, this method is notable for its simplicity, reproducibility, and ability to yield consistent biological material from a single genetic culture.
+The miniculture technique developed by Bigwood and Beug (1982) represents a standardized, small-scale cultivation method for [[psilocybe-cubensis]] that enables controlled study of [[psilocybin-compound]] and [[psilocin]] levels across successive fruiting flushes. Originally designed for quantitative research, this method is notable for its simplicity, reproducibility, and ability to yield consistent biological material from a single genetic culture.
 
 ## Historical Context
 
-Jeremy Bigwood and Michael W. Beug at The Evergreen State College, Olympia, Washington, developed the miniculture method to investigate how [[psilocybin]] and [[psilocin]] concentrations vary between successive flushes (harvests) of [[psilocybe-cubensis]]. Their work was published in the Journal of Ethnopharmacology in 1982. Prior to this study, little controlled data existed on alkaloid variation within a single culture over multiple fruitings. The researchers used a selected Amazonian strain originating from a spore print collected near Pucallpa, Peru.
+Jeremy Bigwood and Michael W. Beug at The Evergreen State College, Olympia, Washington, developed the miniculture method to investigate how [[psilocybin-compound]] and [[psilocin]] concentrations vary between successive flushes (harvests) of [[psilocybe-cubensis]]. Their work was published in the Journal of Ethnopharmacology in 1982. Prior to this study, little controlled data existed on alkaloid variation within a single culture over multiple fruitings. The researchers used a selected Amazonian strain originating from a spore print collected near Pucallpa, Peru.
 
 The method was adapted from earlier grain cultivation techniques described by San Antonio (1971) for [[agaricus-bisporus]] and refined by Oss and Oeric (1976) for [[psilocybe-cubensis]]. Bigwood and Beug scaled it down into a "miniculture" format suitable for laboratory conditions.
 
@@ -72,9 +72,9 @@ For research purposes, Bigwood and Beug froze their specimens immediately after 
 
 ## Analytical Methodology
 
-The extraction and analysis of [[psilocybin]] and [[psilocin]] was performed using reversed-phase high performance liquid chromatography (HPLC), with quantification via a Hewlett-Packard 8380A reporting integrator-plotter. Standards were obtained from the National Institute on Drug Abuse. Key analytical parameters:
+The extraction and analysis of [[psilocybin-compound]] and [[psilocin]] was performed using reversed-phase high performance liquid chromatography (HPLC), with quantification via a Hewlett-Packard 8380A reporting integrator-plotter. Standards were obtained from the National Institute on Drug Abuse. Key analytical parameters:
 
-- Linear relationship between concentration and peak area from 0.2 to 3 micrograms total [[psilocybin]] or [[psilocin]]
+- Linear relationship between concentration and peak area from 0.2 to 3 micrograms total [[psilocybin-compound]] or [[psilocin]]
 - 10% repeatability within this range
 - Detection limit of approximately 0.01 micrograms
 - Qualitative confirmation via thin-layer chromatography (TLC) using butanol-acetic acid-water (12:3:5) solvent system
@@ -91,13 +91,13 @@ The miniculture method offers several advantages for mycochemical research:
 
 ## Key Findings on Alkaloid Variation
 
-Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin]] and [[psilocin]] levels:
+Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin-compound]] and [[psilocin]] levels:
 
-- [[psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
+- [[psilocybin-compound]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
 - [[psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
-- [[psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
+- [[psilocybin-compound]] was nearly always at least twice the concentration of [[psilocin]]
 - Overall variation across controlled cultures spanned a factor of four
-- Street samples showed even greater variation, with [[psilocybin]] levels differing by over a factor of ten
+- Street samples showed even greater variation, with [[psilocybin-compound]] levels differing by over a factor of ten
 
 ## Relevance to Modern Cultivation
 
@@ -123,18 +123,18 @@ Compared to contemporary cultivation techniques, the miniculture method occupies
 
 ## Key Findings on Alkaloid Variation
 
-Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin]] and [[psilocin]] levels:
+Using this miniculture method, Bigwood and Beug made several important discoveries about [[psilocybin-compound]] and [[psilocin]] levels:
 
-- [[psilocybin]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
+- [[psilocybin-compound]] levels varied unpredictably from flush to flush with no clear upward or downward trend, ranging from approximately 3.2 to 13.3 mg/g dry weight
 - [[psilocin]] was generally absent in the first one or two flushes, reached maximum concentration by the fourth flush, then appeared to decline
-- [[psilocybin]] was nearly always at least twice the concentration of [[psilocin]]
+- [[psilocybin-compound]] was nearly always at least twice the concentration of [[psilocin]]
 - Overall variation across controlled cultures spanned a factor of four
-- Street samples showed even greater variation, with [[psilocybin]] levels differing by over a factor of ten
+- Street samples showed even greater variation, with [[psilocybin-compound]] levels differing by over a factor of ten
 
 ## See Also
 
 - [[psilocybe-cubensis]]
-- [[psilocybin]] and [[psilocin]] chemistry
+- [[psilocybin-compound]] and [[psilocin]] chemistry
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- [[psilocybin-psilocin-flush-variation]]
+- [[psilocybin-psilocin-flush-accumulation-patterns]]

@@ -10,7 +10,7 @@ sources: []
 
 Desert and arid land fungi represent remarkable adaptations to extreme conditions including intense desiccation, high UV radiation, temperature extremes, and nutrient scarcity. These environments harbor specialized fungal communities often overlooked in biodiversity surveys.
 
-[[fungi-in-extreme-acidic-environments]] [[fungal-biodiversity]] [[fungal-biodiversity-soil-habitats]]
+[[fungi-in-extreme-acidic-environments]] [[fungal-biodiversity]] [[the-soil-food-web]]
 
 ## Desert Soil Fungi
 

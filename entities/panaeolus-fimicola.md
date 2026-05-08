@@ -117,7 +117,7 @@ The chemistry of P. fimicola is of particular interest as it represents an inter
 between clearly psychoactive and non-psychoactive species. Chemical studies have yielded
 variable results:
 
-- Some collections contain very low concentrations of [[psilocybin]] and/or [[psilocin]],
+- Some collections contain very low concentrations of [[psilocybin-compound]] and/or [[psilocin]],
   typically well below the threshold for noticeable psychoactive effects
 - Other collections from different regions have tested negative for psilocybin entirely
 - The presence of [[serotonin]] has been confirmed and is common among coprophilous fungi

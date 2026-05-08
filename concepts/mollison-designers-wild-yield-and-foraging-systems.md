@@ -147,5 +147,3 @@ not an afterthought.
 > create multi-functional, self-maintaining food-producing landscapes.
 
 ## See Also
-
-- [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]

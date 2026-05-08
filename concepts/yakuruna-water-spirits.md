@@ -148,4 +148,3 @@ tiger-like people) who are shitaneros (sorcerers).
   world
 - [[spirit-mothers-of-plants]] -- Plant spirits related to water
 - [[curandero-healing-ayahuasca]] -- Curing water-related illness
-- [[shamanic-powers-ayahuasca]] -- Powers gained from water spirits

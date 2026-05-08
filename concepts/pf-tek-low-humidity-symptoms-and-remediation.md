@@ -139,57 +139,6 @@ faster than they can absorb it from either the substrate or the air.
 
 The mushrooms appear shriveled, shrunken, and may develop a cracked or leathery
 texture. Primordia that have begun to wither appear as tiny, darkened, dried-up
-structures that have ceased development entirely.
-
-### Diagnosis
-
-Withering is unmistakable in its presentation and represents a critical stage. Once
-primordia desiccate, they cannot recover and are permanently lost. This symptom
-requires immediate intervention to save any remaining developing fruiting bodies.
-
-### Remediation
-
-Immediate and aggressive humidification is required. Spray the terrarium multiple
-times in rapid succession. Verify that standing water is not collecting at the
-bottom, which indicates the spray shield may be improperly positioned.
-
-Consider relocating the terrarium to a more humid room such as a bathroom. Evaluate
-whether the terrarium seal is intact and the lid fits properly with no air gaps.
-
-## Heating as a Humidity Enemy
-
-The PF TEK explicitly warns against any direct heating of the dual chambered
-terrarium. Any direct heating works against humidification and adds a drying
-influence that compounds humidity problems rather than solving them.
-
-Cultivators should not use heating cables, heat pads, or blankets under any
-circumstances. Direct light should not shine down into the terrarium, and any plant
-grow light should be low wattage only and kept at a safe distance.
-
-These fungi grow well at 60 degrees Fahrenheit and have been observed growing
-perfectly at temperatures cooler than 60 degrees. They grow slowly when cool but
-develop normally. A terrarium that is too hot will result in lots of spreading
-mycelium but no fruiting.
-
-The ideal growing temperature range is between 65 and the upper 80s Fahrenheit.
-A too hot terrarium is one of the most common mistakes in fruiting management.
-
-## The Perlite Humidification Alternative
-
-For cultivators who struggle to maintain adequate humidity through manual spraying
-alone, the perlite humidification technique provides an excellent passive alternative
-or supplement.
-
-A layer of wetted perlite at the bottom of the terrarium continuously evaporates
-moisture into the air through its porous structure. Unlike vermiculite, perlite
-does not absorb and hold water internally but instead wicks it upward through
-capillary action and evaporates it gradually over a period of weeks.
-
-This provides sustained humidification for multi-flushing without the need for
-constant manual spraying. Cakes can be placed directly on the perlite surface,
-where contact provides additional wick-like moisture transfer directly to the
-substrate.
-
 ## Related Concepts
 
 - [[pf-tek-spraying-and-ventilation-procedure]] for correct spraying technique

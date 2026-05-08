@@ -124,7 +124,7 @@ Indoor environments are often too dry for mounted epiphytes (typical home humidi
 
 ## Light Requirements
 
-Follow species-specific light guidelines. Most mounted epiphytes prefer bright, indirect light:
+Follow [[species-specific-cold-shock-response-psilocybe]] light guidelines. Most mounted epiphytes prefer bright, indirect light:
 
 - **East-facing window**: Ideal for most mounted orchids and Tillandsia. Gentle morning sun, indirect light the rest of the day.
 - **West-facing window**: Works for sun-tolerant species (*Dendrobium*, some Tillandsia) with some protection from harsh afternoon rays.
@@ -133,41 +133,15 @@ Follow species-specific light guidelines. Most mounted epiphytes prefer bright, 
 
 ## Fertilizing Mounted Plants
 
-Use a diluted liquid fertilizer applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
+Use a diluted [[liquid-fertilizer-from-weeds]] applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
 
 ## Seasonal Care Adjustments
 
 | Season | Watering | Fertilizing | Light | Special Notes |
 |--------|----------|-------------|-------|---------------|
 | Spring | Increasing frequency | Resume weekly | Increasing | Repot/divide if needed |
-| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for heat stress |
+| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for [[heat-stress-cannabis]] |
 | Autumn | Reducing gradually | Monthly | Good light exposure | Cool nights trigger blooming |
-| Winter | Reduced; don't let dry completely | Monthly or skip | May need supplemental light | Keep away from cold drafts |
-
-## Troubleshooting Common Mount Problems
-
-**Plant won't attach after 2 months**: Roots aren't growing. Likely too dry or too little light. Increase humidity and watering frequency. Check that roots are actually in contact with the mount surface.
-
-**Mount rotting or moldy**: Insufficient air circulation. Move to a breezier location. Reduce misting frequency. Remove any visible mold with a cotton swab dipped in hydrogen peroxide.
-
-**Plant drying out too fast**: Mount material may be too porous (thin cork, dry driftwood). Add a larger sphagnum moss pad or switch to tree fern. Alternatively, increase watering frequency.
-
-**Pests on mounted plants**: Mealybugs and scale can hide in bark crevices. Treat with isopropyl alcohol on a cotton swab, neem oil spray, or insecticidal soap. Systemic insecticides (imidacloprid) applied to the moss pad provide longer protection.
-
-**Algae or moss growing on the mount**: Generally harmless but can retain excess moisture. Gently scrub with a soft toothbrush if it becomes excessive. Some growers consider it a sign of good growing conditions.
-
-## Creating Multi-Plant Displays
-
-For a stunning naturalistic display, mount multiple epiphyte species on a single large piece of driftwood or cork slab:
-
-- Place a staghorn fern (*Platycerium*) as the focal point at the center or top.
-- Arrange smaller orchids (*Pleurothallis*, *Masdevallia*) on the sides.
-- Tuck Tillandsia into crevices and branch ends.
-- Add trailing species (*Rhipsalis*, *Dischidia*, Hoya) at the edges to cascade.
-- Use preserved moss to fill gaps and conceal attachment materials.
-
-Ensure all species on the same mount have compatible light and moisture requirements. Group moisture-loving species together on one side and drought-tolerant species on another if needed.
-
 ## See Also
 
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]

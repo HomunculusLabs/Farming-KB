@@ -18,11 +18,11 @@ created: 2026-05-07
 
 ### Biochar
 
-Biochar is a carbon-rich solid material produced through the pyrolysis of biomass (wood, crop residues, manure) at temperatures of 300–900°C in low-oxygen environments. Its highly porous structure provides a stable carbon matrix that persists in soil for hundreds to thousands of years. Biochar is not a fertilizer; it is primarily a soil conditioner and carbon sequestration tool. Nutrient content is low unless it has been pre-charged or inoculated. Its value lies in physical soil improvements (porosity, water-holding capacity, cation exchange) and long-term carbon storage. The surface area of high-quality biochar can exceed 300 m²/g, creating vast habitat for soil microorganisms.
+Biochar is a carbon-rich solid material produced through the pyrolysis of biomass (wood, crop residues, manure) at temperatures of 300–900°C in low-oxygen environments. Its highly porous structure provides a [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] matrix that persists in soil for hundreds to thousands of years. Biochar is not a fertilizer; it is primarily a soil conditioner and carbon sequestration tool. Nutrient content is low unless it has been pre-charged or inoculated. Its value lies in physical soil improvements (porosity, water-holding capacity, cation exchange) and long-term carbon storage. The surface area of high-quality biochar can exceed 300 m²/g, creating vast habitat for [[soil-microorganisms-natural-fertility]].
 
 ### Compost
 
-Compost is decomposed organic matter produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse microbial community. Compost provides immediate soil fertility, improves soil structure, suppresses pathogens, and stimulates biological activity. Its benefits are time-limited — organic matter oxidizes and nutrients mineralize over 1–5 years depending on climate and soil conditions. The composting process typically takes 2–12 months depending on feedstock, turning frequency, and environmental conditions.
+Compost is decomposed organic matter produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse microbial community. Compost provides immediate soil fertility, improves [[soil-structure-and-aggregate-ecology]], suppresses pathogens, and stimulates biological activity. Its benefits are time-limited — organic matter oxidizes and nutrients mineralize over 1–5 years depending on climate and soil conditions. The composting process typically takes 2–12 months depending on feedstock, turning frequency, and environmental conditions.
 
 ## Comparison Table
 
@@ -37,7 +37,7 @@ Compost is decomposed organic matter produced through aerobic microbial breakdow
 | **Microbial Impact** | Provides habitat; must be inoculated | Teeming with beneficial microbes and fungi |
 | **pH Effects** | Generally alkaline (pH 8–11); raises soil pH | Slightly acidic to neutral (pH 6–8); buffers pH |
 | **Water Retention** | High (5–8× its weight in water) | Moderate (2–3× its weight in water) |
-| **Best Use Cases** | Degraded soils, sandy soils, carbon projects | General soil building, vegetable gardens, erosion control |
+| **Best Use Cases** | Degraded soils, sandy soils, carbon projects | General [[soil-building-ecological-garden]], vegetable gardens, erosion control |
 
 ## When to Use Biochar
 
@@ -50,7 +50,7 @@ Compost is decomposed organic matter produced through aerobic microbial breakdow
 ## When to Use Compost
 
 - **Immediate fertility is needed:** Compost delivers plant-available nutrients and stimulates soil biology from the first application. Nitrogen release follows a typical mineralization curve, with 10–30% available in year one.
-- **Starting or improving garden beds:** Compost is the go-to amendment for vegetable gardens, raised beds, and landscape plantings. A 2–3 inch layer tilled into the top 6 inches provides an ideal starting foundation.
+- **Starting or improving garden beds:** Compost is the go-to amendment for vegetable gardens, [[raised-beds-vs-in-ground-vs-containers]], and landscape plantings. A 2–3 inch layer tilled into the top 6 inches provides an ideal starting foundation.
 - **Clay soil remediation:** Compost breaks up compacted clay, improving drainage and root penetration. The humic acids in compost help flocculate clay particles, creating stable aggregates.
 - **Erosion control and topsoil restoration:** Compost blankets prevent erosion and rebuild degraded topsoil. Applied at 0.5–1 inch depth, compost blankets reduce runoff velocity by 50–80%.
 - **Cost-sensitive applications:** Compost is widely available, inexpensive, and can be produced on-site at minimal cost using local organic waste streams.

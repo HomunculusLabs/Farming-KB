@@ -129,5 +129,5 @@ Using ideal isentropic expansion without moisture checks can produce turbine out
 - [[carnot-cycle-and-heat-engines]]
 - [[heat-transfer-mechanisms]]
 - [[heat-exchanger-effectiveness-ntu]]
-- [[creep-deformation-high-temperature-materials]]
+- creep deformation high temperature materials
 - [[corrosion-electrochemistry]]

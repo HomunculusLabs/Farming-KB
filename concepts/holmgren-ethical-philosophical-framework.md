@@ -12,21 +12,15 @@ sources:
 
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
-
-
 ## Ethics as Cultural Evolution
 
 Ethics are the moral principles used to guide action toward good and right outcomes. They act as constraints on survival instincts and self-interest that drive human behaviour. They are culturally evolved mechanisms for more enlightened self-interest, a more inclusive view of who and what constitutes "us", and a longer-term understanding of good and bad outcomes.
 
 The greater the power of human civilisation (due to energy availability) and the greater the concentration and scale of power within society, the more critical ethics become in ensuring long-term cultural -- and even biological -- survival. This ecologically functional view of ethics makes them central in the development of a culture for energy descent.
 
-
-
 ## Indigenous Wisdom
 
 The three permaculture ethical principles can be seen as common to all indigenous tribal peoples, although their conception of "people" may have been more limited. Permaculture's focus on learning from indigenous tribal cultures is based on evidence that these cultures have existed in relative balance with their environment and survived longer than any more recent experiments in civilisation.
-
-
 
 ## Philosophical Frameworks
 
@@ -34,21 +28,15 @@ Holmgren argues that the philosophy of individualism is an outcome, not the sour
 
 Reductionist science, which seeks fundamental causes in simple constituents, both explained the physical reality of the industrial world and reflected its fundamental ideology. Despite substantial philosophical critiques, reductionism has held sway partly because it is powerful in dealing with the increasingly disintegrated world created by rising energy. But Holmgren believes reductionist science is now an impediment to human survival.
 
-
-
 ## Permaculture as Design Science
 
 Bill Mollison described permaculture as integrated design science. Permaculture draws together strategies from modern and traditional cultures, seeking wholistic integration of utilitarian values through an ecological perspective.
-
-
 
 ## Spiritual Dimensions
 
 The same process of understanding through systems thinking and ecology reveals the wisdom in spiritual perspectives and traditions. Permaculture attracts people from scientific rationalism because its wholism does not depend on a spiritual dimension, while for others it reinforces spiritual beliefs. The deliberate design of a new spirituality may be unrealistic, but organic growth of spirituality from ecological foundations promises more hope than clashes between religious and scientific fundamentalism.
 
 [[holmgren-permaculture-ethics-foundations]] | [[permaculture-ethics]] | [[permaculture-design]] | [[permaculture-wholistic-thinking]] | [[permaculture-energy-descent-planning]]
-
-
 
 ## Key Points
 
@@ -63,8 +51,6 @@ The same process of understanding through systems thinking and ecology reveals t
 9. The principle supports the broader goal of reducing dependence on non-renewable resources and external inputs.
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
-
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -76,11 +62,9 @@ The same process of understanding through systems thinking and ecology reveals t
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
 
-
-
 ## See Also
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-earthworks-guide]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design-methods]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

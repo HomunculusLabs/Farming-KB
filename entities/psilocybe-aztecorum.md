@@ -64,7 +64,7 @@ The high-elevation habitat is unusual among psilocybin mushrooms, most of which 
 
 ## Bioactive Compounds
 
-*Psilocybe aztecorum* contains the classic tryptamine alkaloids [[psilocybin]] and [[psilocin]] as its primary psychoactive constituents.
+*Psilocybe aztecorum* contains the classic tryptamine alkaloids [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive constituents.
 
 Psilocybin concentrations range from approximately 0.2-0.6% of dried mushroom weight, with the highest levels found in the cap.
 

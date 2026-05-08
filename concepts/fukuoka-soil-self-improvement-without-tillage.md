@@ -82,7 +82,7 @@ Let the grasses plow the topsoil and the trees work the deeper layers. The [[fuk
 Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
 - [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 
 ## See Also

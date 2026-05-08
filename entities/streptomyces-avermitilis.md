@@ -33,7 +33,7 @@ sources:
 
 ## Overview
 
-Streptomyces avermitilis is a Gram-positive, filamentous, soil-dwelling
+[[streptomyces]] avermitilis is a Gram-positive, filamentous, soil-dwelling
 bacterium and the natural producer of avermectins — 16-membered macrocyclic
 lactone compounds from which ivermectin is derived. One of the most
 pharmaceutically significant microorganisms ever discovered.
@@ -43,7 +43,7 @@ pharmaceutically significant microorganisms ever discovered.
 - **Domain**: Bacteria → **Phylum**: Actinomycetota → **Class**: Actinomycetes
 - **Order**: Streptomycetales → **Family**: Streptomycetaceae → **Genus**: *Streptomyces*
 - Gram-positive, high GC content (~70.7 mol%), strictly aerobic, non-motile
-- Filamentous growth: substrate mycelium + aerial hyphae bearing spore chains
+- Filamentous growth: substrate [[mycelium]] + aerial hyphae bearing [[spore]] chains
 
 ## Discovery
 
@@ -146,8 +146,4 @@ caused by roundworm parasites." Shared one-half; other half to Tu Youyou.
 
 ## See Also
 
-- [[mycopesticides-fungal-biocontrol]]
-
-- [[streptomyces-griseus]]
-
-- [[streptomyces]]
+- [[mushroom-cultivation-fundamentals]]

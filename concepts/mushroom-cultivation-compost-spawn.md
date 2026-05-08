@@ -148,4 +148,3 @@ trade also exists, along with a smaller dried mushroom market.
   building on the pure culture tradition
 - mushroom taxonomy and classification for identifying cultivated
   and wild Agaricus species
-- [[fungal-ecology-forest-ecosystems]] for the natural ecology of

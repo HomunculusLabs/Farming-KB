@@ -85,7 +85,7 @@ The ecophysiology of lignin-degrading fungi is as important as their enzymology.
 
 In competitive dynamics, early colonizers like T. versicolor use a strategy of rapid mycelial expansion to capture wood resources, followed by combative interactions with other fungi. The outcome of competition is determined primarily by occupation and retention of substrate, not by ligninolytic potential. Litter-decomposing fungi, which process leaves and small twigs, show different ligninolytic profiles -- with significantly higher MnP activity than wood decomposers, suggesting novel enzyme systems remain to be discovered.
 
-The relationship between fungal decay strategies and ecosystem carbon cycling connects to [[soil-food-web-nutrient-cycling]] and [[fungal-ecology-forest-floor]]. White rot fungi, by mineralizing lignin completely, facilitate nutrient release and carbon turnover. Brown rot fungi, by leaving modified lignin residues, contribute to soil humus formation and long-term carbon sequestration. The balance between white rot and brown rot activity therefore influences whether forest ecosystems function as carbon sources or sinks.
+The relationship between fungal decay strategies and ecosystem carbon cycling connects to [[soil-food-web-nutrient-cycling]] and [[the-soil-food-web]]. White rot fungi, by mineralizing lignin completely, facilitate nutrient release and carbon turnover. Brown rot fungi, by leaving modified lignin residues, contribute to soil humus formation and long-term carbon sequestration. The balance between white rot and brown rot activity therefore influences whether forest ecosystems function as carbon sources or sinks.
 
 ## Enzyme Localization
 
@@ -113,7 +113,7 @@ The non-specific radical-based mechanisms of lignin degradation are directly app
 
 - [[fungal-biodiversity-forest-ecosystems]]
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 
 ## Merged: Fungal Treatment Of Specific Pollutants
 

@@ -142,17 +142,6 @@ pests in the soil or above ground:
   effective)
 - **False indigo** and **elderberry**: Also have
   pest-repelling properties
-
-The rule: the more highly bred and less
-odoriferous the marigold, the less effective as a
-pest deterrent. Pest-repellent plants are not well
-researched and should be used in limited quantities
-since they may repel beneficials as well.
-
-## Insectary Plants
-
-Nearly any pollen- or nectar-producing flower will
-attract beneficial insects. These fall into two
 ## See Also
 
 - [[food-forest-design]] for applying these plant roles in edible landscape design

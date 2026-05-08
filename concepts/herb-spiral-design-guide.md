@@ -131,7 +131,7 @@ The spiral shape maximizes edge between different microclimates, creating the mo
 - herb spiral design guide
 - [[permaculture-designers-manual-keyhole-garden]]
 - [[sheet-mulching-guide]]
-- [[holzer-raised-bed-design]]
+- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-microclimates-permaculture]]
 
 ## Source

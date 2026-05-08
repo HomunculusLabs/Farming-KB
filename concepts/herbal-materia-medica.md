@@ -20,7 +20,7 @@ Dandelion is one of the most versatile and widely used herbs in Western herbalis
 
 Dandelion root is traditionally used for sluggish digestion, liver congestion, constipation, and skin conditions associated with liver dysfunction. It is prepared as a decoction, tincture, or roasted as a coffee substitute. The leaves are used as food, tea, or tincture for fluid retention and urinary tract support. Dandelion is generally safe, though it should be used cautiously by individuals with bile duct obstruction or gallstones.
 
-See [[herbal-plant-remedies]] for additional digestive herb profiles.
+See herbal plant remedies for additional digestive herb profiles.
 
 ### Ginger (Zingiber officinale)
 
@@ -117,7 +117,7 @@ Calendula belongs to the Asteraceae family and may cause allergic reactions in s
 - [[hamamelis-virginiana]]
 
 - [[herbal-actions-and-energetics]] — understanding herb properties
-- [[herbal-plant-remedies]] — additional plant remedy profiles
+- herbal plant remedies — additional plant remedy profiles
 - [[herbal-medicine-safety]] — safety considerations
 - [[herb-drug-interactions]] — interaction profiles
 - [[herbal-formulation-principles]] — combining herbs effectively

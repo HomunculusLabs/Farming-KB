@@ -80,7 +80,7 @@ Despite being needed in relatively large amounts (50-200 ppm in plant tissue), i
 ## Practical Sulfur Management
 
 ### For Organic Gardeners
-1. [[compost-chemistry-soil-food-web]] and [[natural-fertilizer-sources-and-application]] provide steady S release
+1. [[composting-and-soil-biology]] and [[natural-fertilizer-sources-and-application]] provide steady S release
 2. Gypsum (CaSO4) supplies S without affecting pH — good for alkaline soils
 3. Elemental sulfur lowers pH while supplying S — use on alkaline soils
 4. [[soil-testing-methods-interpretation]] now routinely include sulfur analysis

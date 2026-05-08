@@ -98,7 +98,7 @@ Select saprophytic mushrooms can defend forests from parasitic blights like *Arm
 
 - [[saprotrophic-fungi]] — comprehensive saprotrophic fungi guide
 - [[fungal-ecology]] — broader fungal ecology overview
-- [[fungal-ecology-forest-floor]] — forest floor decomposition
+- [[the-soil-food-web]] — forest floor decomposition
 - [[cotter-mycoremediation-overview]] — using decomposition for pollution cleanup
 - [[mycoforestry-applications]] — applied forest mycology
 - [[mushroom-species-guide]] — cultivation parameters by species

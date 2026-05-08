@@ -126,6 +126,6 @@ Fungi respond to four types of environmental signals:
 
 ## See Also
 
-- [[fungal-ecology-forest-floor]]
+- [[the-soil-food-web]]
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-biodiversity-forest-ecosystems]]

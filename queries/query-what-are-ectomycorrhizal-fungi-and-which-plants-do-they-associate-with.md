@@ -148,9 +148,3 @@ temperature, soil pH, nutrient availability, and organic matter accumulation.
 - Inoculation is essential for successful reforestation of ECM-dependent tree species
 
 ## Related Questions
-- [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
-- [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]
-
-## See Also
-
-- [[serendipita-indica]]

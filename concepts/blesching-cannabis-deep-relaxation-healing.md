@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis, Deep Relaxation, and the Healing Response
 
-The first section of Chapter V in The Cannabis Health Index explores the science and practice of deep relaxation as a healing modality, with particular attention to how the [[endocannabinoid system]] interfaces with what researchers call the "relaxation response" (RR). This concept, formalized by Dr. Herbert Benson at Harvard Medical School, represents the physiological opposite of the well-known stress response (fight, flight, or freeze).
+The first section of Chapter V in The Cannabis Health Index explores the science and practice of deep relaxation as a healing modality, with particular attention to how the [[endocannabinoid-system]] interfaces with what researchers call the "relaxation response" (RR). This concept, formalized by Dr. Herbert Benson at Harvard Medical School, represents the physiological opposite of the well-known stress response (fight, flight, or freeze).
 
 ## The Relaxation Response Defined
 
@@ -45,7 +45,7 @@ The relaxation response produces an increase in nitric oxide (NO), a gas molecul
 
 Researchers are beginning to understand how [[anandamide-aea]], the endogenous cannabinoid produced by nerve cells, contributes to the relaxation response. Anandamide has been shown to induce the widening of coronary arteries (which supply the heart), thus reducing hypertension. This vasodilatory effect potentially benefits numerous patient populations with cardiovascular conditions.
 
-If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[endocannabinoid system]] through two complementary pathways:
+If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[endocannabinoid-system]] through two complementary pathways:
 
 1. **Physical signals**: Through the administration of cannabis or isolated cannabinoids that activate the same receptor systems involved in the RR
 2. **Non-physical signals**: Through emotional states associated with meditation, mindfulness, or other contemplative practices that trigger endogenous cannabinoid release
@@ -113,7 +113,7 @@ Cannabis can serve as an adjunct to relaxation response practices in several way
 - **Inducing the initial state**: Cannabis may help patients who struggle to achieve deep relaxation on their own enter a receptive state more easily
 - **Lowering the barrier to practice**: The initial anxiolytic effects of certain cannabis strains can reduce resistance to meditation or relaxation exercises
 - **Enhancing body awareness**: Some patients report that cannabis increases their somatic awareness, making it easier to notice and release muscle tension
-- **Amplifying the endocannabinoid contribution**: Since anandamide appears to be involved in the relaxation response, supplementing the [[endocannabinoid system]] with plant cannabinoids may deepen the response
+- **Amplifying the endocannabinoid contribution**: Since anandamide appears to be involved in the relaxation response, supplementing the [[endocannabinoid-system]] with plant cannabinoids may deepen the response
 
 ## Cannabis Strain Selection for Deep Relaxation
 
@@ -128,4 +128,4 @@ Patients should experiment with different strains and preparations under medical
 
 ## Summary
 
-The relaxation response is a well-documented, scientifically validated physiological state that directly counteracts the harmful effects of chronic stress on the body. Its interface with the [[endocannabinoid system]], particularly through the vasodilatory actions of anandamide, positions cannabis as a potentially valuable tool for facilitating deep relaxation. When combined with mind-body practices such as meditation, yoga, or progressive muscle relaxation, cannabis may help patients activate their own self-directed healing mechanisms.
+The relaxation response is a well-documented, scientifically validated physiological state that directly counteracts the harmful effects of chronic stress on the body. Its interface with the [[endocannabinoid-system]], particularly through the vasodilatory actions of anandamide, positions cannabis as a potentially valuable tool for facilitating deep relaxation. When combined with mind-body practices such as meditation, yoga, or progressive muscle relaxation, cannabis may help patients activate their own self-directed healing mechanisms.

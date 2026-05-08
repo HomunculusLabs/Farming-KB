@@ -138,7 +138,7 @@ Several boletes can be confused with *X. chrysenteron*:
 
 ## See Also
 
-- [[boletus-edulis]]
+- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
 - [[leccinum-scabrum]]
 - [[xerocomus-subtomentosus]]

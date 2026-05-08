@@ -135,4 +135,4 @@ guide future collecting strategies.
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
 - [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
-- [[neurotropic-fungi-volatility-and-potency-degradation]]
+- [[psychedelic-mushrooms-species-and-identification]]

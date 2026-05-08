@@ -138,63 +138,12 @@ for:
 ## Growing Information
 
 ### Cultivation Overview
-
-White Rhino is considered a **beginner-friendly strain** that rewards growers with
-heavy yields and forgiving growth characteristics. Its indica dominance makes it
-naturally compact and resilient.
-
-| Parameter | Details |
-|---|---|
-| **Indoor Height** | 60–100 cm |
-| **Outdoor Height** | 100–150 cm |
-| **Indoor Flowering** | 8–9 weeks |
-| **Outdoor Harvest** | Late September to early October (Northern Hemisphere) |
-| **Indoor Yield** | 400–500 g/m² |
-| **Outdoor Yield** | 600–900 g/plant |
-| **Difficulty** | Easy to moderate |
-| **Resistance** | Good resistance to mold and pests |
-
-### Growing Tips
-
-- **Training**: Responds well to low-stress training (LST) and Sea of Green (SOG)
-  methods. Topping can increase yield but is not strictly necessary given the plant's
-  natural lateral branching.
-- **Nutrients**: Moderate feeder; avoid over-fertilizing, particularly with nitrogen
-  during the flowering phase.
-- **Climate**: Prefers warm, dry climates outdoors. Can tolerate slightly cooler
-  temperatures, which may enhance trichome production and bring out purple coloration.
-- **Humidity**: Maintain lower humidity (40–50%) during late flowering to prevent mold
-  in the dense buds.
-- **Support**: The heavy, resinous colas may require staking or trellising in the final
-  weeks of flowering.
-
-## Awards & History
-
-- White Rhino was one of the flagship strains in the **Green House Seeds** catalog
-  throughout the late 1990s and 2000s, contributing to the coffeeshop culture explosion
-  in Amsterdam.
-- The strain gained widespread recognition in cannabis competitions during the early
-  2000s, cementing its status as a top-tier indica-dominant variety.
-- White Rhino was instrumental in establishing the "White" naming convention in
-  cannabis (alongside White Widow and White Russian), denoting strains with exceptional
-  trichome coverage.
-- It remains in active circulation through Green House Seeds and numerous other seed
-  banks, with genetics available in feminized, regular, and autoflowering variants.
-
-## Similar Strains
-
-- **White Widow** — Parent strain; more balanced sativa/indica effects
-- **White Russian** — White Widow × AK-47; slightly more cerebral
-- **Northern Lights** — Classic indica with similar sedative and therapeutic profile
-- **Critical Mass** — Comparable yield and indica-dominant relaxation
-- **Afghan Kush** — Pure indica with overlapping medicinal applications
-
 ## See Also
 
 - [[critical-mass]]
 - [[northern-lights]]
 - [[sea-of-green]]
-- [[white-widow]]
+- [[white-widow-entity]]
 - Indica
 - Medicinal Cannabis
 - Green House Seeds

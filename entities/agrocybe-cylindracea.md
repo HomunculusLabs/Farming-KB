@@ -46,7 +46,7 @@ sources:
 
 ## Morphology
 
-Fruiting bodies are medium to large. Caps measure 3–10 cm in diameter, starting convex and expanding to plane with a broad umbo. The cap surface is smooth, hygrophanous, ranging from pale tan to cinnamon-brown when moist, fading to pale buff when dry. The margin often retains fragments of the partial veil in young specimens. Gills are adnexed to adnate, initially pale gray, darkening to rusty brown as spores mature. The stipe is 4–12 cm long, 0.5–1.5 cm thick, cylindrical, and features a prominent membranous annulus (ring) that can persist or disappear with age. The flesh is white, firm, and has a mild, slightly nutty aroma. Spore print is rusty brown. Spores are ellipsoid, 9–13 × 5.5–7.5 µm, with a germ pore. Basidia are clavate, 4-spored. Cheilocystidia are numerous, ventricose, with narrow necks.
+Fruiting bodies are medium to large. Caps measure 3–10 cm in diameter, starting convex and expanding to plane with a broad umbo. The cap surface is smooth, hygrophanous, ranging from pale tan to cinnamon-brown when moist, fading to pale buff when dry. The margin often retains fragments of the partial veil in young specimens. Gills are adnexed to adnate, initially pale gray, darkening to rusty brown as spores mature. The stipe is 4–12 cm long, 0.5–1.5 cm thick, cylindrical, and features a prominent membranous annulus (ring) that can persist or disappear with age. The flesh is white, firm, and has a mild, slightly nutty aroma. [[spore-print-collection-spore-mass-inoculation]] is rusty brown. Spores are ellipsoid, 9–13 × 5.5–7.5 µm, with a germ pore. Basidia are clavate, 4-spored. Cheilocystidia are numerous, ventricose, with narrow necks.
 
 ## Distribution and Habitat
 
@@ -54,7 +54,7 @@ Fruiting bodies are medium to large. Caps measure 3–10 cm in diameter, startin
 
 ## Cultivation
 
-Chestnut mushrooms are commercially cultivated on supplemented sawdust substrates, typically using hardwood chips or sawdust from oak, poplar, or beech supplemented with wheat bran or rice bran at 10–20%. Key cultivation parameters:
+Chestnut mushrooms are commercially cultivated on [[supplemented-sawdust-block-cultivation]] substrates, typically using hardwood chips or sawdust from oak, poplar, or beech supplemented with wheat bran or rice bran at 10–20%. Key cultivation parameters:
 
 - **Spawn run temperature:** 22–28°C
 - **Fruiting temperature:** 15–22°C
@@ -62,7 +62,7 @@ Chestnut mushrooms are commercially cultivated on supplemented sawdust substrate
 - **Fresh air exchange:** Moderate to high
 - **Light:** Indirect ambient light sufficient for fruiting
 - **Crop cycle:** First flush 25–35 days after inoculation; total 3–5 flushes over 60–90 days
-- **Biological efficiency:** 60–120% depending on substrate and strain
+- **[[biological-efficiency-mushroom-cultivation]]:** 60–120% depending on substrate and strain
 
 The species is also grown on **natural logs** using the traditional inoculation method, particularly on poplar and oak bolts 10–20 cm in diameter and 40–100 cm long. Log cultivation produces fruiting bodies over 2–3 years with seasonal flushes in spring and autumn. Spawn run takes 6–12 months depending on log species, diameter, and environmental conditions. Submerged fermentation techniques have been developed for producing mycelial biomass and intracellular polysaccharides at industrial scale, with optimized media containing glucose, yeast extract, and mineral salts achieving biomass yields of 15–25 g/L dry weight.
 
@@ -90,7 +90,7 @@ The chestnut mushroom is highly regarded in East Asian cuisine. The caps and sti
 
 - **Agrocybe praecox** (Early Agaric): Fruits in spring; cap is lighter colored with a less persistent ring; prefers grassy areas rather than wood. Less commercially cultivated but more commonly encountered in European grasslands.
 - **Pholiota nameko** (Nameko): Also has a prominent annulus and grows on wood; distinguished by its viscid (slimy) cap surface and gelatinous coating. *A. cylindracea* has a dry cap. Nameko is the more commercially important species in Japan.
-- **Stropharia rugosoannulata** (Wine Cap): Much larger, with a distinctive burgundy cap when young. Both species grow on wood chips but occupy different ecological niches. Wine Cap is more cold-tolerant.
+- **[[stropharia-rugosoannulata-permaculture]]** (Wine Cap): Much larger, with a distinctive burgundy cap when young. Both species grow on wood chips but occupy different ecological niches. Wine Cap is more cold-tolerant.
 - **Kuehneromyces mutabilis** (Velvet Shank): Similar substrate preference; distinguished by its two-toned, scaly cap and preference for cooler temperatures. Contains toxins when raw and must be thoroughly cooked.
 
 ## Seasonality and Fruiting Patterns
@@ -101,7 +101,7 @@ In the wild, *A. cylindracea* fruits predominantly in spring (April–June) and 
 
 - **Trichoderma spp.:** The most common competitor mold in indoor cultivation, colonizing exposed substrate surfaces. Maintaining proper hygiene during inoculation and ensuring adequate spawn run conditions minimize contamination.
 - **Sciarid flies (fungus gnats):** Larvae damage mycelium and introduce bacterial contamination. Yellow sticky traps and biological controls (*Steinernema feltiae* nematodes) are effective management strategies.
-- **Bacterial blotch (*Pseudomonas tolaasii*):** Causes brown, sunken lesions on caps. Controlled by reducing humidity during fruiting and improving air circulation.
+- **Bacterial blotch (*[[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]*):** Causes brown, sunken lesions on caps. Controlled by reducing humidity during fruiting and improving air circulation.
 - **Mites:** Can vector mold spores between cultivation blocks. Maintaining clean grow areas and regular monitoring helps prevent infestations.
 
 ## Historical and Cultural Significance

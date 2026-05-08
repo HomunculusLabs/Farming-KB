@@ -1,5 +1,5 @@
 ---
-title: Maryland Mammoth Tobacco and the Discovery of Photoperiodism
+title: maryland mammoth tobacco and the discovery of photoperiodism
 created: 2026-04-28
 tags:
   - photoperiodism
@@ -8,7 +8,7 @@ tags:
   - nicotiana
   - history-of-science
   - garner-allard
-  - phytochrome
+  - [[phytochrome]]
   - flowering
 date: 2026-04-28
 updated: 2026-04-28
@@ -139,7 +139,7 @@ sufficient to cancel the flowering signal.
 ## Connection to Phytochrome
 
 The Maryland Mammoth experiments laid the groundwork for the discovery
-of [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]], the photoreceptor pigment responsible for red and
+of maryland mammoth tobacco and the discovery of photoperiodism, the photoreceptor pigment responsible for red and
 far-red light perception in plants. Research by Harry Borthwick and
 colleagues in the same USDA laboratory led to the finding that plants
 respond specifically to red and far-red light in regulating their
@@ -148,12 +148,3 @@ photoperiodic responses.
 The [[chamovitz-photoperiodism-phytochrome-plant-vision|phytochrome system]] acts as a biological switch: red light activates one molecular
 form, far-red light reverts it to another. In nature, the last light at
 dusk contains more far-red wavelengths, effectively turning off the
-phytochrome system each evening. In the morning, red light from the
-rising sun reactivates it.
-
-## Related Concepts
-
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]] for phytochrome
-- [[cannabis-photoperiodism-and-light-cycles]] for cannabis light cycles
-- [[darwins-phototropism-experiments]] for directional light responses
-- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] for the molecular photoreceptor details

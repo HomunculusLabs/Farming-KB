@@ -140,40 +140,6 @@ The sterilisation approach simplifies the casing preparation process in several 
 The cultivator does not need to source specific microbial inoculants or carefully
 manage pasteurisation temperature curves.
 A standard pressure cooker sterilisation cycle, the same equipment and procedure already
-used for the grain substrate, is all that is required. No additional skills or equipment
-beyond basic grain sterilisation competence are needed.
-The sterilised casing also provides a more predictable and consistent fruiting surface.
-Without the variable microbial populations introduced by untreated or pasteurised
-casing, each batch performs more similarly to the last.
-This consistency is particularly valuable for cultivators working with species that are
-sensitive to casing conditions and for those trying to optimise their yields through
-controlled experimentation where consistent conditions are essential for valid
-comparisons between batches.
-
-## Trade-offs and Considerations
-
-The primary theoretical disadvantage of sterilised casing is the elimination of
-microbial triggers that may enhance pinning in certain species. In practice, the source
-authors found that their sterilised casing produced reliable and abundant flushes across
-all the species they cultivated.
-This suggests that the mycelium does not depend on specific casing microorganisms for
-fruiting initiation in their cultivation system. The sterilisation step does add time
-to the cultivation process.
-An additional hour of pressure cooker operation is required for each batch of casing
-soil, and the casing must cool to room temperature before use. However, this time
-investment is modest compared to the weeks required for the full cultivation cycle
-from inoculation to harvest.
-
-## Container Options for Sterilisation
-
-The source notes that nylon oven bags and polypropylene autoclave bags are both
-suitable containers for casing soil sterilisation. Jars can also be used but are less
-efficient for large volumes of casing material.
-Oven bags are widely available at grocery stores and are inexpensive. Autoclave bags
-are more durable and can be reused multiple times if cleaned between uses. The choice
-of container does not affect the quality of the sterilised casing as long as the
-sterilisation time is appropriate for the volume of material.
-
 ## See Also
 
 - [[casing-soil-preparation-mushroom-cultivation]]

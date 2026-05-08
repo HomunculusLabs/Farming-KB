@@ -148,9 +148,3 @@ chemically confirmed to contain psilocybin and psilocin.
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
-- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-
-- Neurotropic fungi of Hawaii and Pacific Islands
-- Psilocybe transcontinental species pairs
-- Neurotropic fungi of Central America and Caribbean
-- Conocybe and Gerronema neurotropic species

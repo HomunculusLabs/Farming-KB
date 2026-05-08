@@ -148,4 +148,3 @@ endpoints.
   for inoculant delivery
 - [[mycorrhiza-soil-bioremediation]] for PAH-specific approaches
 - [[fungal-enzymes-degradation]] for enzymatic mechanisms
-- [[mycoremediation-techniques]] for general methods

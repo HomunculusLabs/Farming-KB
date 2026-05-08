@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 # Fukuoka Scientific Farming Paradoxes
 
-In his 1975 speech on [[fukuoka-five-principles-natural-farming]], [[natural-farming-fukuoka]] dismantles the logic of [[fukuoka-critique-scientific-agriculture]] by revealing how each intervention creates the very conditions that make the next intervention necessary -- a chain of dependency he calls the paradoxes of scientific farming.
+In his 1975 speech on [[fukuoka-five-principles-natural-farming]], [[natural-farming-fukuoka]] dismantles the logic of [[fukuoka-critique-of-scientific-agriculture]] by revealing how each intervention creates the very conditions that make the next intervention necessary -- a chain of dependency he calls the paradoxes of scientific farming.
 
 ## Scientific Truth Is Not Absolute Truth
 
@@ -85,4 +85,4 @@ Fukuoka describes his own methodological approach:
 - His path is not passive abandonment but active observation of nature's own processes
 - "I've followed the reverse course of not doing this and not doing that"
 
-See also: [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-speech-1975]], [[fukuoka-critique-scientific-agriculture]], [[fukuoka-why-tillage-destroys-soil]], [[fukuoka-fertilizer-critique-detailed]], [[fukuoka-natural-soil-fertility]], [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
+See also: [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-speech-1975]], [[fukuoka-critique-of-scientific-agriculture]], [[fukuoka-why-tillage-destroys-soil]], [[fukuoka-fertilizer-critique-detailed]], [[fukuoka-natural-soil-fertility]], [[fukuoka-ignorant-agriculture-pit-of-knowledge]]

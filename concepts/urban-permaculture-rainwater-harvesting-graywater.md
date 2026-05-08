@@ -114,4 +114,4 @@ A low-flush toilet was installed to meet code, but Lancaster was also researchin
 Updated: 2026-04-18
 - [[faires-city-desert-and-cold-climate-garden-strategies]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-design-principles]]

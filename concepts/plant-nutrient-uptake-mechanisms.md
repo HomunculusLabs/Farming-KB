@@ -82,7 +82,7 @@ Root cells pump out hydrogen ions (H+) which accumulate on root hair cell walls.
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
 
 - [[cation-exchange-capacity]]
-- [[nitrogen-cycle-in-soil]]
+- [[composting-and-soil-biology]]
 - [[phosphorus-availability]]
 - [[foliar-feeding-plants]]
 - [[chelated-nutrients]]

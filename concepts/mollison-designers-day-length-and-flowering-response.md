@@ -123,4 +123,4 @@ foundation of all design work, connecting to [[mollison-climate-classification]]
 
 ## See Also
 
-- [[oner-sativa-indoor-challenges-and-flowering-time-problems]]
+- oner sativa indoor challenges and flowering time problems

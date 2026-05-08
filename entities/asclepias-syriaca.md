@@ -142,10 +142,9 @@ species, and erosion control plant.
 ## See Also
 
 - [[tagetes-erecta-entity]] — Companion flower in pollinator gardens
-- [[asclepias-syriaca]] is sometimes confused with *A. tuberosa* (butterfly
+- asclepias syriaca is sometimes confused with *A. tuberosa* (butterfly
   weed), which has orange flowers and no milky sap
 - [[comfrey-symphytum-officinale]] — Another deep-rooted dynamic accumulator
   for permaculture systems
 - [[biochar]] — Milkweed stalks can be pyrolyzed for soil amendment
 - [[plant-guild]] — Milkweed as a support species in pollinator-focused
-  guilds

@@ -25,7 +25,7 @@ For many years, P. pelliculosa was confused with [[psilocybe-silvatica]], and th
 
 This taxonomic clarification was important for accurate field identification and chemical analysis of Pacific Northwest mycoflora.
 
-In 1961, V.E. Tyler became the first investigator to report the detection of [[psilocybin]] in P. pelliculosa, establishing it as one of the earliest confirmed psychoactive mushrooms of the Pacific Northwest. This finding predated the discovery of psilocybin in [[psilocybe-baeocystis-profile]] by one year and helped draw scientific attention to the region's diverse assemblage of psychoactive fungi.
+In 1961, V.E. Tyler became the first investigator to report the detection of [[psilocybin-compound]] in P. pelliculosa, establishing it as one of the earliest confirmed psychoactive mushrooms of the Pacific Northwest. This finding predated the discovery of psilocybin in [[psilocybe-baeocystis-profile]] by one year and helped draw scientific attention to the region's diverse assemblage of psychoactive fungi.
 
 ## Description
 
@@ -73,9 +73,9 @@ The species appears to be adapted to the cool, wet maritime climate of the Pacif
 
 ## Chemistry and Active Compounds
 
-Psilocybe pelliculosa contains [[psilocybin]] and [[psilocin]], though at relatively low concentrations compared to more potent species in the genus. [[baeocystin]] has also been detected in trace amounts, consistent with the chemical profile of other members of section Semilanceatae.
+Psilocybe pelliculosa contains [[psilocybin-compound]] and [[psilocin]], though at relatively low concentrations compared to more potent species in the genus. [[baeocystin]] has also been detected in trace amounts, consistent with the chemical profile of other members of section Semilanceatae.
 
-Beug and Bigwood furnished analytical proof that P. pelliculosa is weaker in its psychotropic effects than comparable species. According to Jochen-Gartz|Gartz, P. pelliculosa contains approximately 30–50% of the amount of [[psilocybin]] found in [[stamets-psi-psilocybe-cyanescens-species-guide]], a common and potent species across the Pacific Northwest.
+Beug and Bigwood furnished analytical proof that P. pelliculosa is weaker in its psychotropic effects than comparable species. According to Jochen-Gartz|Gartz, P. pelliculosa contains approximately 30–50% of the amount of [[psilocybin-compound]] found in [[stamets-psi-psilocybe-cyanescens-species-guide]], a common and potent species across the Pacific Northwest.
 
 Total psilocybin content ranges from approximately 0.05% to 0.2% of dry weight, depending on collection location, age of specimens, and analytical methodology. This is substantially less than [[psilocybe-semilanceata]], which can reach 1% or more total psilocybin by dry weight.
 
@@ -131,4 +131,4 @@ Psilocybe pelliculosa is common and widespread within its range and faces no kno
 - [[psilocybe-stuntzii-profile]] — Another Pacific Northwest species
 - [[psilocybe-baeocystis-profile]] — Inland PNW species with stronger blue bruising
 - Section Semilanceatae — Taxonomic section overview
-- [[psilocybin]] — Primary psychoactive compound
+- [[psilocybin-compound]] — Primary psychoactive compound

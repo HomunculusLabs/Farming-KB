@@ -148,4 +148,3 @@ Both demand more knowledge and attention than casual gardening requires.
 
 - [[nutrient-cycling-in-soil]] — detailed science of nutrient transformations
 - [[nutrient-dense-gardening]] — complete methodology and COF recipe
-- [[soil-food-web]] — the biological engine behind both approaches

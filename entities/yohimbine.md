@@ -114,7 +114,7 @@ Yohimbe bark extracts present additional risks due to variable alkaloid content 
 - [[atropine]]
 - [[scopolamine]]
 - [[dmt]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[mdma]]
 - [[tryptamine]]
 - [[cactus-alkaloids-reference]]

@@ -83,7 +83,7 @@ detected.
 A special form of leaching is the pre-harvest flush, where plants are
 given plain water for the final one to two weeks before harvest. This
 removes residual fertilizer salts that impart a harsh, chemical taste
-to the smoke. See [[cervantes-flushing-pre-harvest]] for detailed
+to the smoke. See [[cannabis-advanced-growing-techniques]] for detailed
 pre-harvest flushing protocols.
 
 ## Osmotic Pressure and Salt Stress

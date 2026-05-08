@@ -123,5 +123,5 @@ It requires a transformation of consciousness: a recovery of the ability to see 
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
-- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-getting-natural-diet]]

@@ -148,6 +148,3 @@ For [[sterilization-techniques-mushroom-cultivation]], conventional autoclaving 
 - [[microwave-surface-sterilization-technology]] for detailed microwave system design
 - [[microwave-steam-flash-sterilization-mechanism]] for the water-enhanced kill mechanism
 - [[bacterial-spore-microwave-resistance]] for microwave-specific spore challenges
-- [[microwave-sterilizable-access-port]] for an integrated microwave sterilization system
-- [[microwave-2-45-ghz-water-dipolar-coupling]] for the physics of microwave-water interaction
-- [[microwave-penetration-elastomeric-materials]] for enclosed-system treatment capability

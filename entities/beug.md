@@ -46,7 +46,7 @@ complementing laboratory work with field experience.
 
 Beug is best known for his 1992 collaborative study with [[bigwood]],
 *Variation of Psilocybin and Psilocin Levels*, which provided the first
-comprehensive quantitative analysis of [[psilocybin]] and [[psilocin]]
+comprehensive quantitative analysis of [[psilocybin-compound]] and [[psilocin]]
 concentrations across multiple species of psychoactive mushrooms.
 
 The study analyzed multiple specimens of each species from different collections
@@ -144,7 +144,7 @@ mycological and chemical concepts understandable to non-specialist audiences.
 
 - [[bigwood]]
 - [[jochen-gartz]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[baeocystin]]
 - [[stamets-psi-psilocybe-azurescens-species-guide]]

@@ -141,23 +141,6 @@ Sorghum-sudangrass 25%, pearl millet 15%, cowpeas 20%, sunn hemp 10%, sunflower 
 ### Tropical Perennial Mix (Zone 10+)
 
 Rhodes grass 25%, bahiagrass 20%, stylo 15%, centro 10%, pigeon pea 10%, leucaena 5%, chicory 10%, aeschynomene 5%
-
-## Evaluating and Adapting Your Mix Over Time
-
-A pasture mix is a living system — observe and adjust regularly.
-
-**Annual assessment (late summer/fall):** Walk each paddock and estimate ground cover by species group. Note which species are thriving, declining, or gone. Track weed pressure and bare spots.
-
-**Diagnose problems:**
-- **Legume decline** → Check pH and phosphorus; reduce grazing during flowering
-- **Grass dominance** → Stock harder and give longer rest to open the canopy
-- **Forb disappearance** → Raise residual height; reduce stocking density
-- **Weed encroachment** → Overseed bare areas; address fertility gaps
-
-**Soil test** every 2–3 years for pH, P, K, and organic matter. Plan over-sowing based on gaps: frost-seed thin legumes in late winter, broadcast forbs in early spring, add warm-season annuals where summer production is weak.
-
-The best pasture managers treat their mixes as experiments. Keep records, make small adjustments, and listen to what the land and livestock tell you.
-
 ## See Also
 
 - [[coleman-cover-crop-rotation-and-soil-health]]

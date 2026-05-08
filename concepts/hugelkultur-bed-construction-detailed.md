@@ -96,7 +96,7 @@ The hugel bed reaches its prime. The decomposed wood has created a rich, spongy 
 
 ## See Also
 
-- [[no-till-gardening-method]]
+- [[composting-and-soil-biology]]
 - [[cover-crop-guide-detailed]]
 - [[biochar-production-guide]]
 - [[sheet-mulching]]

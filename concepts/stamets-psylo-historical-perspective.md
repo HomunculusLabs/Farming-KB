@@ -148,4 +148,3 @@ the mushroom figures in the Tassili cave.
 ## See Also
 
 - [[stamets-psylo-dangers-mistaken-identification]]
-- [[stamets-psylo-field-collection-techniques]]

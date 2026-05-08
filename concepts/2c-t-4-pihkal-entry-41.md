@@ -148,5 +148,3 @@ Entry #41
 [[2c-t-2-pihkal-entry-40]]
 
 [[phenethylamine-pharmacology]]
-
-[[2c-t-7-pihkal-43]]

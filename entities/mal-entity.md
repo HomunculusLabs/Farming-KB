@@ -93,7 +93,7 @@ Duration: 12 - 16 h.
 
 [[buscaline-entity]]
 
-[[proscaline-entity]]
+[[proscaline]]
 
 [[escaline-entity]]
 

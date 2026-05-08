@@ -109,7 +109,7 @@ Some breeders have used Tropicana Cherries as a parent in further crosses, combi
 - [[tropicana-cookies]]
 - [[zkittlez]]
 - [[tangie]]
-- [[gelato]]
+- [[gelato-cannabis]]
 - [[girl-scout-cookies]]
 - [[lemon-haze]]
 - [[granddaddy-purple]]

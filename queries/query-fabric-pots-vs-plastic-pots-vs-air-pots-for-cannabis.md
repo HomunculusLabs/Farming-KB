@@ -123,7 +123,7 @@ A common guideline is approximately 2 gallons of container volume per month of
 expected
 vegetative growth. For a standard 8-week vegetative phase, a 10 to 15 gallon 
 container is
-typical. The [[cannabis-transplanting-guide]] and [[cervantes-transplanting-potting-up]]
+typical. The [[cannabis-transplanting-guide]] and [[cannabis-advanced-growing-techniques]]
 pages explain staged up-potting strategies that start small and gradually 
 increase container
 size as plants grow, minimizing wasted medium and preventing overwatering.

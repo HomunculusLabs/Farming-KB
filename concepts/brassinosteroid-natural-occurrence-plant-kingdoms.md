@@ -1,5 +1,5 @@
 ---
-title: "Brassinosteroid Natural Occurrence Across Plant Kingdoms"
+title: "[[brassinosteroid]] Natural Occurrence Across Plant Kingdoms"
 created: 2026-04-28
 tags:
   - brassinosteroids
@@ -102,9 +102,9 @@ a 2alpha,3alpha,22alpha,23alpha-tetrahydroxy-24alpha-methyl-B-homo-7-oxa
 chain length, hydroxylation patterns, oxidation states, and B-ring
 lactone presence.
 
-The compound used in the Gartz study, 22S,23S-homobrassinolide, is a
+The compound used in the Gartz study, 22S,23S-[[homobrassinolide]], is a
 synthetic analogue with an extended side chain, prepared from
-stigmasterol. Its ability to promote fungal growth suggests structural
+[[stigmasterol]]. Its ability to promote fungal growth suggests structural
 requirements for activity are somewhat flexible, and fungi may respond
 to a range of brassinosteroid-like steroidal structures.
 
@@ -134,20 +134,16 @@ while occurrence in algal lineages hints at aquatic plant ecology.
 
 Fungal sensitivity to brassinosteroids opens the possibility that
 brassinosteroids released by plants could influence fungal behavior in
-natural ecosystems. Root exudates containing brassinosteroids might
+natural ecosystems. [[root-exudates]] containing brassinosteroids might
 affect mycorrhizal associations or pathogenic fungal interactions,
 adding a previously unrecognized dimension to plant-fungal communication.
 
 ## Related Concepts
 
 - Brassinosteroids as steroidal phytohormones for fungal growth promotion for classification as a hormone group
-- [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound structure and preparation from stigmasterol
 - Steroidal regulation of fungal development and growth for the
   implications of cross-kingdom steroid sensitivity
 
 ## See Also
-
-- [[brassinosteroid]]
-- [[homobrassinolide]]
-- [[mycorrhiza]]

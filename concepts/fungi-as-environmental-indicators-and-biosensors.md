@@ -45,7 +45,7 @@ Lichen-based bioindication is particularly valuable because it provides a cost-e
 
 137Cs/134Cs activities measured in 350 fungal species and 250 soil samples in Bavarian forests serve as indicators of major mycelium locations. Two approaches -- static (measuring accumulation in fruiting bodies) and dynamic (measuring in mycelial samples) -- have advantages in estimating fungal mycelium distribution in forest soils (Ruhm et al., 1997).
 
-Radioisotope tracking by fungi provides unique insights into belowground ecosystem processes. The differential accumulation of radiocesium among fungal species reflects variations in their mycelial depth distribution, hyphal exploration patterns, and physiological mechanisms for cesium uptake and retention. Saprotrophic fungi generally accumulate higher radiocesium levels than mycorrhizal species, and accumulation ratios (fungus-to-soil concentration) vary by more than two orders of magnitude among species. This methodology connects to [[fungal-ecology-forest-floor]] for understanding belowground fungal distributions.
+Radioisotope tracking by fungi provides unique insights into belowground ecosystem processes. The differential accumulation of radiocesium among fungal species reflects variations in their mycelial depth distribution, hyphal exploration patterns, and physiological mechanisms for cesium uptake and retention. Saprotrophic fungi generally accumulate higher radiocesium levels than mycorrhizal species, and accumulation ratios (fungus-to-soil concentration) vary by more than two orders of magnitude among species. This methodology connects to [[the-soil-food-web]] for understanding belowground fungal distributions.
 
 ## Mutagenicity and Carcinogenicity Testing
 
@@ -127,6 +127,6 @@ These community-level indicators provide integrated measures of ecosystem condit
 
 - [[fungal-biodiversity-forest-ecosystems]]
 
-- [[mycoremediation-field-applications]]
+- [[bioremediation-using-fungi]]
 
 - [[mycofiltration-of-water-contaminants]]

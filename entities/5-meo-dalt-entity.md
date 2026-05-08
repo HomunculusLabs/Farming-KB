@@ -135,24 +135,6 @@ No formal LD₅₀ data are available for humans. Animal toxicity data are extre
 ### Harm Reduction
 - Start with low doses, particularly if inexperienced with psychedelics
 - Use in a safe, comfortable environment with a trusted person present
-- Do not combine with MAOIs, SSRIs, or other serotonergic substances
-- Allow adequate time between experiences (at minimum one week)
-- Stay hydrated but avoid excessive water intake
-
-## Legal Status
-
-| Country | Status |
-|---------|--------|
-| United States | Unscheduled (Federal Analog Act may apply) |
-| United Kingdom | Class B (Psychoactive Substances Act, 2016) |
-| Canada | Schedule III (Controlled Substances Act) |
-| Germany | Anlage I (BtMG, controlled substance) |
-| Australia | Schedule 9 (prohibited substance) |
-| Japan | Designated substance (Shitei Yakubutsu) |
-| China | Scheduled |
-| Netherlands | Listed (Opium Act List I) |
-| Brazil | Unscheduled |
-
 ## See Also
 
 - [[5-meo-dpt]]

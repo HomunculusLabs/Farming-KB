@@ -10,7 +10,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 # Neurotropic Fungi Underground Trade and Legislation
 
-The worldwide geographical distribution survey by [[Guzmán, Allen & Gartz (1998)]] documents not only the natural occurrence of 216 neurotropic
+The worldwide geographical distribution survey by [[guzmán,-allen-&-gartz-(1998)]] documents not only the natural occurrence of 216 neurotropic
 fungal species but also implicitly reveals the profound impact of
 recreational drug legislation on the study, trade, and cultural use of
 these fungi. The fourth historical period of neurotropic fungi use,
@@ -135,27 +135,6 @@ particularly revealing regarding the underground trade:
   naturally in parts of Europe (Germany, Netherlands, Great Britain), but
   its occurrence is sometimes conflated with cultivated P. cubensis
 - **Panaeolus subbalteatus**: A naturally occurring European species that
-  has become a target for recreational collectors due to its psychoactive
-  properties
-
-## Distinguishing Natural from Anthropogenic Distribution
-
-The Guzmán, Allen & Gartz survey provides a valuable framework for
-distinguishing natural from anthropogenic distribution patterns:
-
-1. **Species with extensive historical publication records** predating the
-   recreational use period (pre-1960s) are more likely to represent true
-   natural distributions
-2. **Species found only in single or isolated reports** from areas outside
-   their known climatic range may represent cultivated or introduced
-   populations
-3. **Coprophilous species** on bovine dung in tropical regions may
-   represent natural distributions, while the same species in temperate
-   regions likely reflect cultivation
-4. **Species restricted to specific native habitats** (e.g., P.
-   semilanceata in temperate grasslands) represent natural distributions,
-  while those found in anthropogenic habitats may be introduced
-
 ## See Also
 
 - [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
@@ -164,7 +143,7 @@ distinguishing natural from anthropogenic distribution patterns:
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 
-- [[Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas]]
+- [[psilocybe-cubensis:-cattle-dung-substrate-and-introduction-in-the-americas]]
 - Psilocybe semilanceata Worldwide Temperate Distribution
 - Mexico as a Neurotropic Fungi Diversity Hotspot
-- [[Four Groups of Neurotropic Fungi: Global Distribution]]
+- [[four-groups-of-neurotropic-fungi:-global-distribution]]

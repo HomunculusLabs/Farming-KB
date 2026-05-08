@@ -5,7 +5,7 @@ type: chemical
 tags:
   - alkaloid
   - ergoline
-  - tryptamine
+  - [[tryptamine]]
   - ergot
   - psychedelic-compound
   - pharmacology
@@ -18,24 +18,23 @@ sources:
   - "Pertz, H.H. & Eich, E. (1999). \"Ergot alkaloids and their derivatives as ligands for serotoninergic, dopaminergic, and adrenergic receptors.\" Pharmacology & Therapeutics, 82(2-3), 133-154."
   - "Wallwey, C. & Li, S.-M. (2011). \"Ergot alkaloids: structure diversity, biosynthetic gene clusters and functional proof.\" Applied Microbiology and Biotechnology, 92(5), 849-865."
 ---
-
 # Ergoline
 
 ## Overview
 
-Ergoline is a tetracyclic chemical scaffold composed of a fused indole and
+Ergoline is a tetracyclic chemical scaffold composed of a fused [[indole]] and
 quinoline ring system, serving as the core structure of one of the most
-pharmacologically diverse alkaloid families in nature.
+pharmacologically diverse alkaloid familquery-what-is-bioacoustics-and-how-is-sound-used-in-natureture.
 
-The ergoline nucleus is found in over 80 natural compounds spanning four
-structural classes: clavines, lysergic acid amides (lysergamides), ergopeptines,
+The ergoline nucleus is found in over 80 naturlysergic-acid-amide-discovery-in-ololiuhquispanning four
+structural classes: clavin [[lysergic-acid-amide]] aci [[morning-glory-lsa-and-ergoline-alkaloids]] lory-lsa-and-ergoline-alkaloidses), ergopeptines,
 and ergoline derivatives with modified ring systems.
 
 Ergoline alkaloids exhibit activity at serotonin, dopamine, and adrenergic
 receptors, producing effects ranging from vasoconstriction and uterotonic
 action to profound psychedelic hallucinations.
 
-## Chemical Structure and Classification
+## Chemical Struct [[symbiotic-fungi-mycorrhizal-types-and-classification]] tion
 
 The ergoline nucleus consists of four fused rings designated A through D:
 a benzene ring (A), a pyrrole ring (B), a pyridine ring (C), and a
@@ -53,7 +52,7 @@ specificity.
 ### Structural Classes
 
 1. **Clavines** — Simple ergolines without the C-8 carboxyl group.
-   Include agroclavine, elymoclavine, and chanoclavine.
+   Include [[agroclavine]], [[elymoclavine]], and chanoclavine.
    Biosynthetic precursors to all more complex ergolines.
 
 2. **Lysergic acid amides (lysergamides)** — Ergolines with a carboxyl
@@ -97,11 +96,11 @@ at C-8 (R vs. S configuration of lysergic vs. isolysergic acid).
 
 Ergoline alkaloids are produced by three groups of organisms:
 
-- **Clavicipitaceous fungi** — *Claviceps purpurea* (ergot fungus) on
+- **Clavicipitaceous fungi** — *[[claviceps-purpurea]]* (ergot fungus) on
   cereal grasses; *Neotyphodium* and *Epichloë* endophytes in grasses.
-- **Higher plants** — *Ipomoea* spp. (morning glories), *Argyreia nervosa*
-  (Hawaiian baby woodrose), *Rivea corymbosa* (ololiuqui).
-- **Ascomycete fungi** — *Aspergillus fumigatus* and related saprobes.
+- **Higher plants** — *Ipomoea* spp. (morning glories), *[[argyreia-nervosa]]*
+  (Hawaiian baby woodrose), *[[rivea-corymbosa]]* (ololiuqui).
+- **Ascomycete fungi** — *[[aspergillus-fumigatus]]* and related saprobes.
 
 Biosynthesis proceeds from L-tryptophan via prenylation by dimethylallyl
 tryptophan synthase (DMATS), followed by methylation, oxidation, and
@@ -142,15 +141,9 @@ and influenced the Salem witch trials hypothesis.
 century led to drugs for migraine (ergotamine), postpartum hemorrhage
 (ergometrine), and Parkinson's disease (bromocriptine, pergolide).
 
-**Psychedelics** — Albert Hofmann's synthesis of LSD-25 in 1938 and
+**Psychedelics** — [[albert-hofmann]]'s synthesis of LSD-25 in 1938 and
 discovery of its psychoactive effects in 1943 launched psychedelic
 research. LSD became central to 1960s counterculture and remains the most
 studied psychedelic compound.
 
 ## See Also
-
-- [[herbal-medicine-making-basics]]
-
-- [[lsd-entity-tihkal]]
-
-- [[morning-glory-lsa-and-ergoline-alkaloids]]

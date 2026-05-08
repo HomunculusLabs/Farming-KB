@@ -110,8 +110,8 @@ Cathinone is the structural parent of a large family of synthetic analogues and 
 
 ## See Also
 
-- [[mescaline]]
-- [[psilocybin]]
+- [[mescaline-entity]]
+- [[psilocybin-compound]]
 - [[2c-b]]
 - [[2c-i]]
 - [[mda]]

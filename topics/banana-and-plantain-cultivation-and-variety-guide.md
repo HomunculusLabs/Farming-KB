@@ -112,7 +112,7 @@ Bananas are heavy feeders with specific soil preferences:
 
 - **Soil type:** Deep, well-drained, loamy soils are ideal. Heavy clays and pure sands are problematic
 - **pH:** 5.5–7.0 (slightly acidic to neutral). Below pH 5.0, aluminum and manganese toxicity become issues
-- **Drainage:** Critical. Standing water for more than 24–48 hours causes root death. Raised beds or mounds are essential in heavy soils or flat terrain
+- **Drainage:** Critical. Standing water for more than 24–48 hours causes root death. [[raised-beds-vs-in-ground-vs-containers]] or mounds are essential in heavy soils or flat terrain
 - **Depth:** At least 60 cm (24 inches) of well-drained soil. Shallow soils over hardpan or rock restrict root development and reduce yields
 - **Organic matter:** Bananas respond strongly to organic matter. Maintain soil organic matter above 3% through mulching, compost, and green manure crops
 - **Salinity:** Moderately sensitive. Electrical conductivity above 1.5 dS/m begins to reduce growth and yield
@@ -166,7 +166,7 @@ Spacing depends on variety, climate, and system design:
 | Monoculture, large varieties | 3 m × 3 m | 1,111 |
 | Monoculture, dwarf varieties | 2 m × 2.5 m | 2,000 |
 | Intercropping with shade trees | 3 m × 4 m | 833 |
-| Permaculture food forest | 3–5 m × 3–5 m | 400–1,111 |
+| permaculture-food-waste-cyclingod-forest-equivalency]] | 3–5 m × 3–5 m | 400–1,111 |
 | Double-row hedge | 2 m × 2 m × 4 m | 2,500 |
 
 Wider spacing improves air circulation and reduces disease pressure but delays the time to canopy closure. In permaculture systems, bananas are often planted as a fast-growing "nurse" canopy that is later thinned as longer-lived tree crops mature.
@@ -274,7 +274,7 @@ Bananas intercrop well with many species, especially during the 6–12 month est
 - **Leguminous crops:** Pigeon pea, cowpea, mung bean, groundnut — fix nitrogen and provide mulch material when chopped
 - **Perennial companions in food forests:** Coffee (partial shade), cacao (understory), taro and sweet potato (below the canopy), turmeric and ginger (edge of canopy drip line)
 - **Avoid:** Root crops that compete aggressively (cassava can work but requires wider spacing), and aggressive climbers that may smother the pseudostem
-- **Banana circles:** A classic permaculture technique where bananas are planted in a circle around a compost pit, with companion plants on the berm. This maximizes nutrient cycling and water harvesting
+- **Banana circles:** A classic permaculture technique where bananas are planted in a circle around a compost pit, with companion plants on the berm. This maximizes nutrient cycling and [[water-harvesting-techniques-comparison]]
 
 ## Harvesting and Post-Harvest
 
@@ -367,7 +367,7 @@ Less aggressive than black Sigatoka but widespread:
 #### Other Diseases
 
 - **Banana bacterial wilt (BXW):** *Xanthomonas campestris* pv. *musacearum* — devastating in East Africa. Symptoms include wilting, yellowing, internal bacterial ooze. Remove single male flower bud to prevent infection entry
-- **Anthracnose:** *Colletotrichum musae* — causes ripe fruit rot. Post-harvest disease; minimized by careful handling and hot water treatment
+- **Anthracnose:** *Colletotrichum musae* — causes ripe fruit rot. [[post-harvest-handling-marketing-mushrooms]] disease; minimized by careful handling and [[hot-water-and-hydrated-lime-substrate-treatment]] treatment
 - **Cigar-end rot:** *Trachysphaera fructigena* and *Verticillium theobromae* — blackening and mummification of the bunch tip
 - **Rhizome rot:** Various pathogens including *Pythium*, *Fusarium*, and *Sclerotium rolfsii* — causes corm decay, especially in waterlogged soils
 
@@ -384,7 +384,7 @@ The most important insect pest of banana worldwide:
   - Use clean, healthy planting material (pare corms before planting)
   - Destroy crop residues — do not leave chopped pseudostems on the ground
   - Pseudostem traps: Cut pseudostem sections (30 cm) and lay on the ground; weevils congregate underneath and can be collected and destroyed
-  - Fallows and crop rotation reduce populations
+  - Fallows and [[crop-rotation-vegetable-garden]] reduce populations
   - Biological control: entomopathogenic nematodes (*Steinernema* and *Heterorhabditis* spp.) and fungi (*Beauveria bassiana*)
   - In severe infestations, pheromone traps combined with pseudostem traps provide some control
 
@@ -520,7 +520,7 @@ Beyond fresh eating, bananas and plantains are processed into numerous products:
 - **Dried bananas:** Sun-dried or dehydrated slices; popular as natural sweet snacks
 - **Plantain flour and fufu:** West African staple foods made from fermented or unfermented plantain
 - **Banana leaves:** Used as natural food wrappers, plates, and cooking vessels across tropical Asia, Africa, and Latin America
-- **Banana pseudostem:** The inner core is edible as a vegetable (used in South Indian and Southeast Asian cuisine); also used as animal fodder
+- **Banana pseudostem:** The inner core is edible as a vegetable (used in South Indian and [[southeast-asian-mushroom-tourism-bali]] cuisine); also used as animal fodder
 
 ## Cultural Significance
 

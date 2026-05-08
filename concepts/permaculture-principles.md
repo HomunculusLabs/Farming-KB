@@ -43,7 +43,7 @@ Prioritize biological resources over fossil-fuel-dependent ones. Use nitrogen-fi
 ### 6. Produce No Waste
 Everything should have a use. Kitchen scraps become compost. Duck manure becomes fertilizer. Weeds become mulch. Greywater irrigates gardens. This principle connects directly to [[cannabis-living-soil-guide]] practices where waste is always a resource.
 ### 7. Design from Patterns to Details
-Start with the big picture -- the overall layout of the homestead, water flows, sun angles, wind patterns -- before getting into specific plant placements. "Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system" (Holmgren). See [[permaculture-design]] for zone and sector analysis methods, [[patterns-in-nature]] for natural pattern types, and [[permaculture-design-methods]] for the complete design process.
+Start with the big picture -- the overall layout of the homestead, water flows, sun angles, wind patterns -- before getting into specific plant placements. "Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system" (Holmgren). See [[permaculture-design]] for zone and sector analysis methods, [[patterns-in-nature]] for natural pattern types, and [[permaculture-design]] for the complete design process.
 ### 8. Integrate Rather Than Segregate
 Place elements so they support each other. Chickens near compost piles. Fruit trees with nitrogen-fixing understory. Ducks near the garden for slug control. The more connections between elements, the more resilient the system. See [[companion-planting-reference]] for plant integration strategies.
 ### 9. Use Small and Slow Solutions
@@ -59,7 +59,7 @@ For a small-to-medium homestead with animals and gardens:
 - Use ducks and goats to close nutrient loops (animal manure feeds gardens, garden waste feeds animals)
 - Design [[water-management]] systems that catch roof runoff and greywater
 - Build [[food-forest-design]] areas that produce food with minimal maintenance
-- Practice [[no-till-gardening-method]] to protect soil biology
+- Practice [[composting-and-soil-biology]] to protect soil biology
 - Use [[cover-cropping-guide]] and [[companion-planting-reference]] to reduce inputs
 - Let animals do work: ducks for pest control, goats for brush clearing, chickens for tilling
 ### Practical Examples from Melliodora (Holmgren's Homestead)
@@ -90,7 +90,7 @@ Comparing energy return of biomass fuel sources:
 Yield ratio > 4 = high-value source comparable to current economic resources. This data informs which tree crops to prioritise on a homestead for fuel and timber self-reliance.
 ## Related Pages
 - [[permaculture-design]]
-- [[permaculture-design-methods]] -- Comprehensive design process and tools
+- [[permaculture-design]] -- Comprehensive design process and tools
 - [[patterns-in-nature]] -- Natural pattern types and application
 - [[edge-effect-and-microclimate]] -- Edge theory and microclimate creation
 - [[keyline-design]] -- Landscape water management
@@ -106,7 +106,7 @@ Yield ratio > 4 = high-value source comparable to current economic resources. Th
 Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for newcomers:
 ### Core Attitude Shifts
 - **"You haven't got an excess of slugs, you've got a duck deficiency"** (Mollison, via Burnett) — reframe problems as opportunities for new design elements
-- **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-gardening-method]] systems
+- **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[composting-and-soil-biology]] systems
 - **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 ### Key Design Heuristics (Burnett's "Ecological Truisms")
 1. **Every function should be supported by many elements** — redundancy creates resilience. If one crop fails in a polyculture, others still produce

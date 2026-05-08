@@ -118,6 +118,6 @@ The synthesis requires laboratory expertise and access to controlled precursors.
 - [[1cp-lsd]]
 - [[lysergic-acid]]
 - [[ergotamine]]
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[4-ho-mipt]]
 - [[4-aco-dmt]]

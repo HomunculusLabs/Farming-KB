@@ -128,6 +128,6 @@ of the shaman and the mystic — a meaning only alluded to in the conventional r
 - [[brain-neuroscience-and-psychedelic-mechanism]]
 - [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-default-mode-network-ego-dissolution]]
-- [[entheogenic-symbiosis-and-gaian-mind]]
+- [[ethnomycology]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-neuroplasticity]]

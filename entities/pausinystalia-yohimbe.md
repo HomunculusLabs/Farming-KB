@@ -146,5 +146,5 @@ investigated, though yohimbine content varies considerably.
   and ajmalicine
 - [[piper-methysticum-entity]] — kava, a Pacific psychoactive plant
 - [[turnera-diffusa]] — damiana, another traditional aphrodisiac herb
-- [[pausinystalia-yohimbe]] — genus overview for related African medicinal trees
+- pausinystalia yohimbe — genus overview for related African medicinal trees
 - yohimbine — the primary alkaloid compound isolated from yohimbe

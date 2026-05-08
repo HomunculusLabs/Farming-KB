@@ -1,5 +1,5 @@
 ---
-title: Hericium erinaceus (Lion's Mane) Cultivation
+title: [[hericium-erinaceus]] (Lion's Mane) Cultivation
 tags: [hericium-erinaceus, lions-mane, mushroom-cultivation, medicinal-mushrooms, sawdust-cultivation, nerve-growth-factor]
 date: 2026-04-28
 updated: 2026-04-28
@@ -8,17 +8,15 @@ sources:
 type: concept
 created: 2026-04-28
 ---
-
-# Hericium erinaceus (Lion's Mane) Cultivation
+# [[cancer-medicinal-mushrooms-hericium-erinaceus]] (Lion's Mane) Cultivation
 
 ## Introduction
 
 Hericium erinaceus is one of the few mushrooms that imparts the flavor of
-lobster when cooked, making it a prized gourmet species among cultivators and
-chefs alike. The mushroom produces cascading white spines that give it a
-striking, unmistakable appearance. It is known by numerous common names
+lobster when cooked, making it a prized gourmet species amonallegro-canaanite-religion-and-the-mushrooms and
+chefs alike. The mushroom produces cascading white spines that givaustralian-magic-mushroom-common-namesing, unmistakable appearance. It is known by numerous common names
 including Lion's Mane, Monkey's Head, Bear's Head, Old Man's Beard, Hedgehog
-Mushroom, Pom-Pom, and the Japanese name Yamabushi-take. Its combination of culinary excellence and significant medicinal properties has made it one of the most sought-after cultivated mushrooms worldwide.
+Mushroom, Pom-Poturkey-tail-mushroom-cultivation-and-medicinal-propertiesname Yamabushi-take. Its combination of culinary excellence and significant medicinal properties has made it one of the most sought-after cultivated mushrooms worldwide.
 
 ## Taxonomic Synonyms
 
@@ -65,7 +63,7 @@ cultures under the microscope. The basidia are typically four-spored.
 
 ## Mycelial Characteristics
 
-The mycelium of H. erinaceus is whitish and distinctive in its growth
+The [[mycelium]] of H. erinaceus is whitish and distinctive in its growth
 pattern. It forms triangular zones of collected rhizomorphs that radiate
 outward from a dense center, creating a pattern that can resemble the
 structure of glaciated mountains. With age, cultures become yellow to pinkish
@@ -88,7 +86,7 @@ considerable appeal as a culinary ingredient.
 ## Outdoor Cultivation
 
 Outdoor cultivation of H. erinaceus follows the familiar log and stump
-inoculation methods common to many gourmet mushrooms. Logs or stumps are
+[[inoculation-methods]] common to many gourmet mushrooms. Logs or stumps are
 inoculated with either sawdust spawn or plug spawn. This species is notable
 for being one of the few mushrooms that produces well on walnut logs, making
 it an excellent choice for growers with access to walnut wood. Other suitable
@@ -148,11 +146,3 @@ applications in neurodegenerative conditions.
 ## Flavor Profile
 
 Hericium erinaceus ranks as one of the Stamets family's favorite gourmet
-mushrooms. When cooked, it imparts a distinctive lobster-like flavor and a
-texture often compared to shellfish or tender meat. The combination of its unique taste, firm yet tender texture, and striking visual appearance makes it a premier culinary mushroom and a rewarding species for cultivators alike.
-
-## See Also
-
-- [[hericium-erinaceus]] — Species profile and medicinal properties
-- [[sclerotia-cultivation]] — Sclerotia growing techniques for alternative mushroom species
-- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]] — Medicinal mushroom comparison

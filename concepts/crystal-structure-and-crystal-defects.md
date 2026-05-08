@@ -1,5 +1,5 @@
 ---
-title: "Crystal Structure and Crystal Defects"
+title: "crystal structure and crystal defects"
 type: concept
 category: materials-science
 related:
@@ -14,10 +14,9 @@ updated: 2026-05-06
 type: concept
 sources: []
 ---
-
 Crystal structure and crystal defects are central concepts in materials
 science, governing the mechanical, electrical, thermal, and optical
-properties of virtually all engineering materials. A perfect crystal is
+properties of virtually all [[fracture-mechanics-engineering-materials]]. A perfect crystal is
 an idealized periodic arrangement of atoms, but real materials always
 contain defects — point, line, planar, and volume imperfections that
 profoundly influence behavior. Understanding both ideal structures and
@@ -49,7 +48,7 @@ Common: magnesium (0.3209 nm), titanium (0.2951 nm), zinc (0.2665 nm),
 beryllium, cobalt, zirconium.
 
 **Diamond cubic** has CN = 4, 8 atoms/cell, APF = 0.34 — two
-interpenetrating FCC lattices offset by ¼[111]. Silicon (0.5431 nm),
+interpenetrating FCC latt [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure
 makes these critical for semiconductor and optical applications.
 
@@ -138,16 +137,13 @@ phases, measure lattice parameters (±0.0001 nm), and determine
 crystallite size via Scherrer broadening. **Transmission electron
 microscopy (TEM)** directly images dislocations, stacking faults, and
 precipitates at ~0.05 nm resolution (aberration-corrected). **Scanning
-electron microscopy (SEM)** with EBSD maps crystal orientations and
+electron mimapscopy (SEM)** with EBSD maps crystal orientations and
 grain boundaries at 10-50 nm spatial resolution. These are complementary:
 XRD for bulk phase ID, TEM for atomic-scale defects, SEM/EBSD for
 microstructural mapping. Advanced techniques include atom probe
-tomography (APT) for 3D composition at sub-nm resolution and synchrotron
+tomography (APT) for 3D composition at sub-nm resofungal-formulation-delivery-in-situand synchrotron
 XRD for in-situ studies of phase transformations under load.
 
 ## See Also
 
 - [[palmer-mushroom-anatomy-and-structure]]
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[eleusinian-mysteries-history-and-structure]]
-- [[plant-cell-structure-and-organelles]]

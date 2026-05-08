@@ -137,7 +137,7 @@ investigation with modern analytical methods.
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
-- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+- guzman allen gartz sacred puffballs gasteromycetes indigenous cultures
 - [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
 - [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]

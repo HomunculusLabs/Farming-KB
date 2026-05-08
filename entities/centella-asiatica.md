@@ -148,4 +148,3 @@ Significant reductions in Hamilton Anxiety Rating Scale scores after 60 days at 
 - [[ginkgo-biloba]] — nootropic herb for circulation and memory
 - [[rhodiola-rosea]] — adaptogenic herb for fatigue and mental performance
 - triterpenoid saponins — bioactive compounds in medicinal plants
-- venous insufficiency — primary clinical indication for Centella extracts

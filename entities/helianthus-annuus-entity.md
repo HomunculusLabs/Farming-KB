@@ -148,5 +148,3 @@ when incorporated into soil.
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[moringa-oleifera]]
 - [[acacia]]
-- [[robinia-pseudoacacia]]
-- [[tagasaste]]

@@ -1,5 +1,5 @@
 ---
-title: "Goats vs Sheep in Permaculture Systems"
+title: "Goats vs Sheep [[water-harvesting-and-conservation-in-permaculture]] gners-electric-fencing-in-permaculture-systems]]-integration-into-permaculture-systems]]"
 created: 2026-04-28
 tags: [goats, sheep, permaculture, livestock, homesteading, grazing, comparison]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: comparison
 
 ## Why This Comparison Matters
 
-Both goats and sheep are small ruminants well-suited to permaculture and homesteading, but they fill fundamentally different ecological niches. Understanding their distinct behaviors, needs, and strengths allows designers to select the right species (or combination) for their specific site conditions, goals, and management capacity. Choosing poorly leads to fencing failures, nutritional problems, or underutilized animals.
+Both goats and sheep are small ruminants well-suited to permaculture and homesteading, but they fill fundamentally different [[mushroom-habitats-and-ecological-niches]]. Understanding their distinct behaviors, needs, and strengths allows designers to select the right species (or combination) for their specific site conditions, goals, [[soil-health-and-management]] capacity. Choosing poorly leads to fencing failures, nutritional problems, or underutilized animals.
 
 ## Side-by-Side Comparison
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Design a Food Forest Guild for Fruit Trees"
+title: "How to Design a [[food-forest]] Guild for Fruit Trees"
 created: 2026-04-28
 tags:
   - permaculture
@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - title: "Gaia's Garden: A Guide to Home-Scale Permaculture"
-    author: "Toby Hemenway"
+    author: "[[toby-hemenway]]"
     publisher: "Chelsea Green Publishing"
     year: 2009
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition/"
@@ -36,12 +36,11 @@ sources:
     url: "https://permaculturenews.org/2013/04/17/fruit-tree-guilds/"
 type: query
 ---
-
-## How to Design a Food Forest Guild for Fruit Trees
+## How to Design [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]] Guild for Fruit Trees
 
 ### What is a plant guild?
 
-A plant guild is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
+A [[plant-guild]] is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
 
 ### What are the 7 layers of a food forest?
 
@@ -52,7 +51,7 @@ Understanding vertical layers helps you pack more productivity into less space:
 3. **Shrub layer** — Berry bushes, currants, gooseberries, hazelnuts.
 4. **Herbaceous layer** — Perennial herbs, vegetables, and flowers (comfrey, borage, yarrow).
 5. **Ground cover layer** — Low creepers that suppress weeds (clover, thyme, creeping juniper).
-6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, Jerusalem artichoke).
+6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, [[jerusalem-artichoke]]).
 7. **Vertical layer** — Climbers and vines (grapes, kiwi, passionflower, hops).
 
 Not every guild needs all seven layers — adapt to your space and goals.
@@ -80,7 +79,7 @@ Place nitrogen fixers within the tree's drip line so their root systems intermin
 
 ### What are dynamic accumulators and why do they matter?
 
-Dynamic accumulators are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "chop and drop" their foliage as mulch around your fruit tree, those nutrients become available in the root zone. The classic dynamic accumulator is **comfrey (Symphytum officinale or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per growing season for mulch.
+[[dynamic-accumulators]] are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "[[chop-and-drop]]" their foliage as mulch around your fruit tree, those nutrients become available in the root zone. The classic dynamic accumulator is **comfrey ([[symphytum-officinale]] or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per growing season for mulch.
 
 ### Which plants repel pests and attract pollinators?
 
@@ -148,11 +147,3 @@ Check the USDA Plant Hardiness Zone Map (source listed above) and consult local 
 - **Permaculture Research Institute** (permaculturenews.org) — free articles, case studies, and a global community forum.
 - **Your local cooperative extension** — offers free soil testing, variety recommendations, and pest management guidance specific to your county.
 - **Plants for a Future** (pfaf.org) — searchable database of 7,000+ edible and useful plants with companion planting and guild information.
-
-## See Also
-
-- [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
-
-- [[companion-planting]]
-- [[dynamic-accumulators]]
-- [[eric-toensmeier]]

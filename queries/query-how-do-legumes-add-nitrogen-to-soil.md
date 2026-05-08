@@ -28,7 +28,7 @@ Nitrogenase turns atmospheric nitrogen gas into ammonium, which can be built int
 The physical home for this exchange is the root nodule described in [[rhizobia-legume-nodule-formation]].
 The broader plant-microbe exchange is covered by [[rhizobium-legume-symbiosis]].
 This partnership is one form of [[biological-nitrogen-fixation-agriculture]].
-It is also part of the larger [[nitrogen-cycle-in-soil]].
+It is also part of the larger [[composting-and-soil-biology]].
 
 ### Why nodules matter
 

@@ -8,10 +8,9 @@ sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
-
 # Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry
 
-In *Food of the Gods*, Terence McKenna traces the origins of modern psychedelic research
+In *Food of the Gods*, [[terence-mckenna-tryptamine-hypothesis]] traces the origins of modern psychedelic research
 to a remarkable flowering of German psychopharmacology in the late nineteenth and early
 twentieth centuries. Central to this narrative is the work of Kurt Beringer, whose massive
 1927 study *Der Meskalinrausch* (The Mescaline Intoxication) McKenna identifies as the
@@ -19,33 +18,12 @@ founding document of what he calls "psychedelic psychiatry." This chapter of McK
 history demonstrates that serious scientific investigation of hallucinogenic experience
 predates the LSD era by decades and was far more sophisticated than commonly recognized.
 
-## Lewis Lewin: The Father of Psychopharmacology
+#mckenna opium de quincey and birth of psychopharmacologyther of Psychopharmacology
 
-McKenna's narrative begins with German pharmacologist Lewis Lewin, whom he credits as the
-"father of psychopharmacology." In 1887, after a tour of the United States, Lewin
-returned to Berlin carrying peyote buttons — the vision-inducing cactus of the Sonoran
-Indians — obtained from the Parke-Davis Company in Detroit. Lewin set to work extracting,
-characterizing, and self-experimenting with the new compounds he discovered.
-
-Within a decade, peyote had attracted sufficient attention that in 1897 Philadelphia
-novelist and physician Silas Weir Mitchell became the first non-indigenous person to
-publish a description of peyote intoxication. Mitchell's account is remarkable for its
-literary quality and phenomenological precision. He described "an enchanted two hours" of
-visions: "Stars... delicate floating films of color... then an abrupt rush of countless
-points of white light swept across the field of view, as if the unseen millions of the
-Milky Way were to flow a sparkling river before the eyes."
-
-Mitchell's description of a white spear of grey stone growing into "a tall, richly
-finished Gothic tower of very elaborate and definite design, with many rather worn statues
-standing in the doorways or on stone brackets" — every projecting angle covered with
-clusters of huge precious stones, "uncut, some being like masses of transparent fruit" —
-set a standard for visionary reportage that would influence decades of subsequent research.
-
-## Arthur Heffter and the Isolation of Mescaline
-
-In 1897, Arthur Heffter, a rival of Lewin's, became the first human being to isolate and
+McKenna's narrative begins with German pharmacologist Lewis Lewin, whom he credits as sacramental ayahuascaf psychopharmacology." In 1887, after a tour of the United States, Lewin
+returned to Berlin carrying [[peyote-buttons-—-the-vision-inducing-cactus-of-the-sonoran-indians-—-obtained-from-the-parke-davis-company-in-detroit.-lewin-set-to-work-extracting,-characterizing,-and-self-experimenting-with-the-new-compounds-he-discovered.-within-a-decade,-peyote-had-attracted-sufficient-attention-that-in-1897-philadelphia-novelist-and-physician-silas-weir-mitchell-became-the-first-non-indigenous-person-to-publish-a-description-of-peyote-intoxication.-mitchell's-account-is-remarkable-for-its-literary-quality-and-phenomenological-precision.-he-described-"an-enchanted-two-hours"-of-visions:-"stars...-delicate-floating-films-of-color...-then-an-abrupt-rush-of-countless-points-of-white-light-swept-across-the-field-of-view,-as-if-the-unseen-millions-of-the-milky-way-were-to-flow-a-sparkling-river-before-the-eyes."-mitchell's-description-of-a-white-spear-of-grey-stone-growing-into-"a-tall,-richly-finished-gothic-tower-of-very-elaborate-and-definite-design,-with-many-rather-worn-statues-standing-in-the-doorways-or-on-stone-brackets"-—-every-projecting-angle-covered-with-clusters-of-huge-precious-stones,-"uncut,-some-being-like-masses-of-transparent-fruit"-—-set-a-standard-for-visionary-reportage-that-would-influence-decades-of-subsequent-research.-##-arthur-heffter-and-the-isolation-of-mescaline-in-1897,-[[arthur-heffter]], a rival of Lewin's, became the first human being to isolate and
 ingest pure mescaline. Mescaline is a powerful visionary phenethylamine that occurs in the
-peyote cactus *Lophophora williamsii*. It had been used for at least several centuries by
+peyote cactus *[[lophophora-williamsii]]*. It had been used for at least several centuries by
 the Indians of northern Mexico, and its use in Peru, derived from cactus species other
 than peyote, is at least several thousand years old.
 
@@ -128,7 +106,7 @@ scientific description.
 
 McKenna characterizes the 1920s as a "veritable Renaissance of psychopharmacology" taking
 place in Germany. In this atmosphere, Lewin and others became interested in harmine, an
-indole alkaloid whose only known source was *Banisteriopsis caapi*, the woody liana
+indole alkaloid whose only known source was *[[banisteriopsis-caapi]]*, the woody liana
 encountered by Richard Spruce in the Amazon nearly eighty years before. Lewin's last
 published work, *Banisteria Caapi, ein neues Rauschgift und Heilmittel* (1929), reflected
 his new fascination with the Amazonian vine.
@@ -141,51 +119,9 @@ active agent from *Banisteriopsis caapi* and named it "telepathine" — a name t
 the extraordinary claims being made about the vine's effects.
 
 Years later, in 1957, researchers realized that telepathine was identical to the compound
-harmaline, previously extracted from *Peganum harmala*, and the name harmine was given
+harmaline, previously extracted from *[[peganum-harmala]]*, and the name harmine was given
 official precedence. The story of telepathine's naming and renaming encapsulates the
 tension between the extraordinary phenomenological reports of indigenous use and the
 reductionist framework of Western pharmacology.
 
 ## The Dadaist and Surrealist Connection
-
-McKenna notes that Alfred Jarry may have anticipated the significance of hallucinogenic
-discovery when he wrote "The Passion Considered as an Uphill Bicycle Race" in 1894. The
-Dadaists and Surrealists and their forerunners grouped around Jarry and his Ecole du
-Pataphysique "did much to explore the use of hashish and mescaline as augmentations to
-creative expression." They set the cultural stage for the emergence of society's awareness
-of LSD.
-
-The connection between the avant-garde artistic movements and early psychedelic research
-is significant. Both were engaged in a project of expanding the boundaries of human
-experience beyond the constraints of conventional perception. The artists approached this
-expansion through aesthetic means; the scientists approached it through pharmacological
-means. Both recognized that ordinary consciousness was a narrowing of far richer
-possibilities.
-
-## The Significance of the Pre-LSD Research
-
-McKenna's detailed account of this pre-LSD research tradition serves several purposes in
-his larger argument. First, it demonstrates that the psychedelic revolution of the 1960s
-did not emerge from nowhere but was the culmination of decades of serious scientific
-investigation. Second, it shows that the phenomenological richness of psychedelic
-experience was recognized and documented long before the popularization of LSD. Third, it
-reveals that the suppression of psychedelic research was not a response to the excesses of
-the 1960s counterculture but had deeper roots in the dominator culture's hostility toward
-direct experiential knowledge.
-
-The fact that Beringer's *Der Meskalinrausch* was never translated into English is, for
-McKenna, emblematic of the cultural barriers that prevented the integration of psychedelic
-knowledge into mainstream Western thought. The German psychopharmacological tradition
-represented a genuine alternative to the behaviorist orthodoxy that would dominate
-Anglo-American psychology — an alternative marginalized not because of scientific
-inadequacy but because of its radical implications for understanding consciousness.
-
-## Connections
-
-- [[mckenna-discovery-and-impact-of-lsd]] — the next chapter in the psychedelic research story
-- [[mckenna-invention-of-lsd-and-psychedelic-sixties]] — Albert Hofmann and the popularization of psychedelics
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]] — the suppression of this research tradition
-- [[mckenna-huxley-mind-at-large-reducing-valve]] — Aldous Huxley's phenomenological approach to mescaline
-- [[mckenna-telepathine-harmala-alkaloid-discovery]] — the harmala alkaloid research from the same era
-- [[mckenna-ayahuasca-and-amazonian-shamanism]] — the Banisteriopsis caapi tradition behind telepathine
-- [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]] — Schultes's continuation of this research lineage

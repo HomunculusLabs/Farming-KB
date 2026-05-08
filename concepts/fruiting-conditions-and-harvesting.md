@@ -148,6 +148,3 @@ lag time in response can defeat peak performance if the dose is spread out.
 ## See Also
 
 - [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
-
-- [[pf-tek-aborts-and-potency-harvesting]]
-- [[growing-gourmet-light-requirements-mushroom-fruiting]]

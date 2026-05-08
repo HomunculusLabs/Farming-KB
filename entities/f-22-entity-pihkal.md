@@ -10,15 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 [[al-pihkal-entry-2]] #80. 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN.
 
-
-
-
 ## Chemical Name
 
 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN
-
-
-
 
 ## Dosage and Duration
 
@@ -27,15 +21,9 @@ sources: ["Shulgin - PIHKAL"]
 | Dosage | greater than 15 mg. |
 | Duration | unknown. |
 
-
-
-
 ## Qualitative Comments
 
 No [[qualitative-comments-methodology-pihkal]] recorded.
-
-
-
 
 ## Extensions and Commentary
 
@@ -47,14 +35,11 @@ And, as it turned out, the entire project pretty much ran out of steam. A number
 
 And a start towards F-23, 6-(2-aminopropyl)-2,3-dimethyl-5-methoxy-2,3-dihydrobenzofuran, got just as far as the starting ether, when it occurred to me that the final product would have an unprecedented three chiral centers, and so a total of four racemic pairs of diastereoisomers. And then I discovered that the starting allyl halide, crotyl chloride, was only 80% pure, with the remaining 20% being 3-chloro-1-butene. This would have eventually produced a 2-ethyl-analogue, 6-(2-aminopropyl)-2-ethyl-5-methoxy-2,3-dihydrobenzofuran, with its two chiral centers and two more pairs of stereoisomers (not to speak
 
-of the need to devise an entirely new coding system). Unless something were to fall into my lap as a crystalline intermediate, the final mess could have had at least six discreet compounds in it, not even considering [[optical-isomers-psychedelic-phenethylamines]]. And I haven't even begun to think of making the six-membered dihydrobenzopyrans which were the THC analogues that presented the rationale that started the whole project in the first place. A recent issue of the Journal of [[structure-activity-relationship-medicinal-chemistry]] has just presented an article describing the reaction of 6-methoxytetrahydrobenzopyran with dichloromethyl methyl ether, and approximately equal amounts of all three of the possible isomers were obtained. That would have been the first step towards making the prototypic compound 7-(2-aminopropyl) 6-methoxy-1,2,3,4-tetrahydrobenzopyran. Just as the benzofurans were all named as F-compounds, this, as a benzopyran, would have been a P compound, but P also is used for proscaline, and there would have been some repair-work needed for these codes.
+of the need to devise an entirely new coding system). Unless something were to fall into my lap as a crystalline intermediate, the final mess could have had at least six discreet compounds in it, not even considering [[optical-isomers-psychedelic-phenethylamines]]. And I haven't even begun to think of making the six-membered dihydrobenzopyrans which were the THC analogues that presented the rationale that started the whole project in the first place. A recent issue of the Journal of structure activity relationship medicinal chemistry has just presented an article describing the reaction of 6-methoxytetrahydrobenzopyran with dichloromethyl methyl ether, and approximately equal amounts of all three of the possible isomers were obtained. That would have been the first step towards making the prototypic compound 7-(2-aminopropyl) 6-methoxy-1,2,3,4-tetrahydrobenzopyran. Just as the benzofurans were all named as F-compounds, this, as a benzopyran, would have been a P compound, but P also is used for proscaline, and there would have been some repair-work needed for these codes.
 
 Time to abandon ship. The fact that I had just synthesized and discovered the strange activity of ARIADNE at about this time, made the ship abandonment quite a bit easier to accept.
 
 #81 FLEA; N-HYDROXY-N-METHYL-3,4-METHYLENEDIOXYAMPHETAMINE
-
-
-
 
 ## Synthesis
 
@@ -70,16 +55,10 @@ To a mixture of 8.0 g N-methylformanilide and 9.2 g POCl3 which had been allowed
 
 (Additional synthesis details available in source.)
 
-
-
-
 ## Safety Notes
 
 F-22 is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
 
 ## See Also
 

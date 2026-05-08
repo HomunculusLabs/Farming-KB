@@ -89,7 +89,7 @@ Excess fertilizer salts accumulate in growing mediums over time, causing nutrien
 - [[cervantes-nutrient-burn-over-fertilization]]
 
 - [[cervantes-nutrient-management]]
-- [[cervantes-water-quality-management]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-pest-disease]]
 - [[cervantes-air-quality-ventilation]]
 - [[cervantes-growing-medium]]
@@ -110,7 +110,7 @@ Excess fertilizer salts accumulate in growing mediums over time, causing nutrien
 - [[cervantes-beetle-borers-bees-wasps-loopers]]
 - [[cervantes-foliar-spots-blight-fungal-leaf-diseases]]
 - [[cervantes-green-algae-growing-medium]]
-- [[cervantes-leafhoppers-leaf-miners]]
+- [[cannabis-pest-disease-troubleshooting]]
 - [[cervantes-root-maggots-cutworms]]
-- [[cervantes-verticillium-wilt-sooty-mold]]
+- [[cannabis-pest-disease-troubleshooting]]
 - [[cervantes-viral-diseases-cannabis]]

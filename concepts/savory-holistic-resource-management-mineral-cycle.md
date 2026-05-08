@@ -148,4 +148,3 @@ external inputs as the natural mineral cycle is progressively destroyed.
 - [[savory-water-cycle-management]]
 - [[savory-plant-succession-and-community-dynamics]]
 - [[savory-energy-tetrahedron]]
-- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]

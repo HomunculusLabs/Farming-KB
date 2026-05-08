@@ -130,39 +130,6 @@ orchids and bromeliads use CAM because they cannot access soil water.
 The pathway a crop uses has major practical consequences for growers:
 
 **Temperature response**: C3 crops (tomato, lettuce, wheat) suffer declining
-productivity above 25–30°C due to photorespiration. C4 crops (corn, sorghum)
-thrive in heat. This explains seasonal planting windows and regional crop
-suitability patterns.
-
-**Water requirements**: C3 crops need consistent moisture for open stomata during
-the day. C4 crops are somewhat more water-efficient. CAM crops require minimal
-irrigation but grow slowly.
-
-**CO₂ responsiveness**: C3 crops show large yield increases (20–40%) under elevated
-CO₂, making greenhouse CO₂ supplementation economically worthwhile. C4 and CAM
-crops show little response since they already concentrate CO₂ internally.
-
-**Nitrogen demand**: C4 crops typically need more nitrogen per leaf area because
-they maintain two sets of photosynthetic enzymes. Corn is a heavy nitrogen feeder;
-wheat is comparatively moderate.
-
-**Weed competition**: Many aggressive summer weeds are C4 (crabgrass, pigweed,
-barnyard grass), explaining why they outcompete C3 crops as temperatures rise.
-Understanding this helps time plantings and weed management.
-
-**Climate change**: Rising CO₂ favors C3 plants while rising temperatures favor C4
-plants, already altering vegetation patterns and weed-crop dynamics globally.
-
-## Breeding and Engineering
-
-The C4 Rice Project (IRRI) aims to introduce C4 photosynthesis into rice, requiring
-both biochemical pathway genes and Kranz anatomy. If successful, projected yield
-increases are 30–50% in tropical regions with reduced water and nitrogen needs.
-
-The photosynthetic pathway determines every crop's performance envelope—a tomato
-struggling above 90°F suffers photorespiration; corn's heavy nitrogen needs reflect
-its dual-enzyme system; succulents tolerate drought because CAM fixes CO₂ at night.
-
 ## See Also
 
 - [[c4-and-cam-photosynthesis]]

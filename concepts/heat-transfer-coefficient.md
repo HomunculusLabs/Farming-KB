@@ -45,7 +45,7 @@ Correlations usually express Nu as a function of Reynolds, Prandtl, Grashof, or 
 The Reynolds number captures the ratio of inertial to viscous forces in forced flow.
 The Prandtl number compares momentum diffusivity with thermal diffusivity.
 The Grashof and Rayleigh numbers describe buoyancy-driven flow in natural convection.
-These dimensionless groups connect h to [[reynolds-number-and-flow-regimes]] and [[boundary-layer-theory-fluid-dynamics]].
+These dimensionless groups connect h to reynolds number and flow regimes and boundary layer theory fluid dynamics.
 
 ## Natural and Forced Convection
 
@@ -93,7 +93,7 @@ This sounds simple but is difficult when heat losses, contact resistance, radiat
 Guard heaters, calorimeters, heat-flux sensors, and inverse conduction methods are used to improve estimates.
 Thermocouple placement can bias results because the wall, coating, and fluid may not share a single temperature.
 In electronics cooling, junction-to-case and case-to-ambient thermal resistances may be more useful than a local h.
-In computational fluid dynamics, h can be extracted from simulated wall heat flux and selected reference temperature.
+In [[computational-fluid-dynamics]], h can be extracted from simulated wall heat flux and selected reference temperature.
 Mesh resolution near the wall is then critical because the wall gradient controls the answer.
 Empirical correlations remain valuable because they summarize validated experiments in compact form.
 A correlation should be used only within its stated Reynolds-number, Prandtl-number, geometry, and property ranges.
@@ -128,8 +128,8 @@ Those details make the coefficient reproducible rather than merely plausible.
 ## Related Concepts
 
 [[navier-stokes-equations-fluid-dynamics]] provides the momentum equations behind convective flow fields.
-[[boundary-layer-theory-fluid-dynamics]] explains why near-wall gradients dominate heat flux.
-[[reynolds-number-and-flow-regimes]] helps classify laminar, transitional, and turbulent regimes.
+boundary layer theory fluid dynamics explains why near-wall gradients dominate heat flux.
+reynolds number and flow regimes helps classify laminar, transitional, and turbulent regimes.
 [[exergy-analysis]] connects heat-transfer temperature differences to thermodynamic irreversibility.
 [[phase-change-materials-thermal-energy-storage]] illustrates systems where apparent coefficients interact with latent heat.
 Future pages that would deepen this cluster include Nusselt number, Prandtl number, fouling resistance, and heat exchanger design.

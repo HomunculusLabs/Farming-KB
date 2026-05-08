@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe heliconia"
+title: "psilocybe heliconia"
 created: 2026-04-28
 type: species
 tags: [fungi, psilocybe, psychedelic, neotropical, colombia, strophariaceae]
@@ -17,7 +17,7 @@ family Strophariaceae, first described by Guzmán, Saldarriaga, Pineda, García
 and Velázquez. It belongs to the diverse Psilocybe flora of the northern Andes
 and is one of the lesser-known bluing Psilocybe species from South America.
 The species is named for its association with Heliconia plants in its tropical
-habitat. Like other bluing Psilocybes, it contains psilocybin and/or psilocin
+habitat. Like other bluing Psilocybes, it contains psilocybin and/or [[psilocin]]
 as its primary active compounds.
 
 ## Taxonomy and Naming
@@ -27,7 +27,7 @@ as its primary active compounds.
 - **Genus:** Psilocybe
 - **Species:** P. heliconiae Guzmán, Saldarriaga, Pineda, García & Velázquez
 - **Authority:** Guzmán et al. (1994)
-- **Species number 104** in Guzmán's worldwide checklist of neurotropic fungi
+- **Species number 104** in Guzmán's worldwide checklist of [[neurotropic-fungi]]
 - The epithet "heliconiae" refers to the genus of tropical flowering plants
   (Heliconia, family Heliconiaceae) associated with the habitat where this
   species was originally collected
@@ -54,7 +54,7 @@ psilocybin-containing species.
 
 | Feature | Description |
 |---------|-------------|
-| Spore print | Dark purplish brown |
+| [[spore-print]] | Dark purplish brown |
 | Spores | Ellipsoid to subellipsoid, thick-walled |
 | Spore size | 8-12 × 5-7 µm (typical for Section Psilocybe) |
 | Basidia | 4-spored, clavate |
@@ -114,7 +114,7 @@ As a saprophytic fungus, Psilocybe heliconiae contributes to nutrient cycling
 in tropical forest ecosystems by decomposing organic matter in soil. Its
 apparent association with Heliconia plants may indicate a specific
 ecological niche, possibly involving decomposition of Heliconia litter or
-root exudates. The relationship, if any, between the fungus and living
+[[root-exudates]]. The relationship, if any, between the fungus and living
 Heliconia tissue has not been investigated.
 
 ## Conservation Status
@@ -148,7 +148,3 @@ poorly known, with few subsequent collections reported in the literature.
 
 - [[psilocybe-weilii]]
 - [[psilocybe-caerulescens]]
-- [[psilocybe-samuiensis-profile]]
-- [[psilocybe-zapotecorum]]
-- [[psilocybe-cubensis]]
-- [[psilocybin]]

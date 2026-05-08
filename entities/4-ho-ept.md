@@ -108,7 +108,7 @@ The compound is controlled as a Class B drug in the United Kingdom under the Psy
 
 ## See Also
 
-- [[psilocybin]]
+- [[psilocybin-compound]]
 - [[psilocin]]
 - [[4-ho-met]]
 - [[4-ho-mipt]]
@@ -118,4 +118,4 @@ The compound is controlled as a Class B drug in the United Kingdom under the Psy
 - [[4-aco-dmt]]
 - [[4-aco-met]]
 - [[norbaeocystin]]
-- [[mescaline]]
+- [[mescaline-entity]]

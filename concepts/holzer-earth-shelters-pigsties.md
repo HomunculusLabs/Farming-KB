@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-[[sepp-holzer-terrace-systems-and-raised-beds]] uses simple earth-sheltered structures for housing livestock, particularly [[mangalitza-pig-breeds]]. These [[holzer-roundwood-shelter-construction]] with earth-covered roofs create a draft-free and warm environment in which all livestock can be kept without supplementary heating, even through severe alpine winters at 1,100 metres elevation.
+[[sepp-holzer-terrace-systems-and-raised-beds]] uses simple earth-sheltered structures for housing livestock, particularly [[backyard-poultry-and-integrated-animal-systems]]. These [[holzer-roundwood-shelter-construction]] with earth-covered roofs create a draft-free and warm environment in which all livestock can be kept without supplementary heating, even through severe alpine winters at 1,100 metres elevation.
 
 ## Design Philosophy
 

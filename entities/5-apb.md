@@ -131,7 +131,7 @@ frameworks.
 - [[mdma]]
 - [[serotonin]]
 - [[linalool]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[lsd]]
 - [[4-aco-dmt]]
 - [[ethylone]]

@@ -119,4 +119,4 @@ cultivated mushroom, and hoped that wider knowledge would eventually
 bring American usage into line with European practice.
 
 See also: [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]],
-[[boletus-edulis]], [[porcini-boletus-guide]], [[palmer-mushroom-taxonomy-classification-system]]
+[[boletus-edulis-entity]], [[porcini-boletus-guide]], [[palmer-mushroom-taxonomy-classification-system]]

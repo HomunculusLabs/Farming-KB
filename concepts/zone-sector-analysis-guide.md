@@ -145,5 +145,5 @@ The power of zone/sector analysis comes from integrating them:
 - [[permaculture-design-process]]
 - [[permaculture-site-analysis]]
 - [[ecological-garden-design]]
-- [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles]]
 - [[urban-permaculture-design]]

@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Shelf Cultivation Fermentation and Substrate Preparation
+title: [[oyster-mushroom]] Shelf Cultivation Fermentation and [[substrate-preparation]]
 tags:
   - mushroom-cultivation
   - oyster-mushroom
@@ -11,14 +11,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - MushWorld, "Oyster Mushroom Cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of Mushroom Cultivation: Fermentation of Substrate."
+  - MushWorld, "Oyster [[mushroom-cultivation]]" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of Mushroom Cultivation: Fermentation of Substrate."
 created: 2026-04-28
 type: concept
 ---
+# [[oyster-mushroom-shelf-cultivation]] Fermentation gottlieb psilocybin cultivation bulk substrate preparationtion
 
-# Oyster Mushroom Shelf Cultivation Fermentation and Substrate Preparation
-
-Shelf cultivation of oyster mushrooms in Korea employs a sophisticated substrate fermentation process borrowed from button mushroom composting technology. This method, documented by Dr. Moon-soo Shim and practiced commercially on Korean mushroom farms, produces high-quality oyster mushrooms with superior texture and appearance compared to bag or bottle cultivation. The fermentation process converts raw agricultural materials into a selectively nutritious medium through the orchestrated activity of successive microbial communities, culminating in the appearance of white actinomycetes that signal substrate readiness.
+Shelf [[cultivation-of-oyster-mushrooms]] in Korea employs a sophisticated substrate fermentation process borrowed from [[mushroom-composting]] technology. This method, documented by Dr. Moon-soo Shim and practiced commercially on Korean mushroom farms, produces high-quality [[oyster-mushrooms]] with superior texture and appearance compared to bag or bottle cultivation. The fermentation process converts raw agricultural materials into a selectively nutritious medium through the orchestrated activity of successive microbial communities, culminating in the appearance of white actinomycetes that signal substrate readiness.
 
 ## Overview of Shelf Cultivation
 
@@ -147,12 +146,3 @@ Despite producing higher quality mushrooms, shelf cultivation has been declining
 The fermentation principles remain applicable, particularly in tropical and subtropical regions where fermentation requires less fuel input due to naturally warm conditions. The knowledge may also benefit growers seeking to improve substrate quality through biological processing rather than purely thermal treatment.
 
 ## See Also
-
-- [[oyster-mushroom-bag-preparation-and-pasteurization]]
-
-- [[oyster-mushroom-non-sterilized-substrate-cultivation]]
-- [[oyster-mushroom-sunflower-seed-hull-substrate]]
-
-- [[oyster-mushroom-substrate-preparation]]
-- [[oyster-mushroom-substrate-materials-guide]]
-- [[mushroom-cultivation-basics]]

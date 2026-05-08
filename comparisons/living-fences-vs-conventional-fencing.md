@@ -23,7 +23,7 @@ type: comparison
 
 # Living Fences vs Conventional Fencing
 
-Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and living walls) offer a multifunctional alternative that aligns with permaculture principles. This comparison examines both approaches across key dimensions to help you choose the right system for your context.
+Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and living walls) offer a multifunctional alternative that aligns with [[permaculture-principles]]. This comparison examines both approaches across key dimensions to help you choose the right system for your context.
 
 ## Overview
 
@@ -79,10 +79,10 @@ Living fences vary dramatically in effectiveness by species and management:
 
 | Species | Growth Rate | Mature Height | Hardiness | Special Features |
 |---------|------------|---------------|-----------|-----------------|
-| Osage orange (*Maclura pomifera*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
-| Blackthorn (*Prunus spinosa*) | Medium | 6–12 ft | Zones 4–8 | Very thorny; sloe berries; wildlife food |
-| Honey locust (*Gleditsia triacanthos*) | Fast | 30–70 ft | Zones 3–9 | Thorny cultivars available; nitrogen-fixer; seed pods for fodder |
-| Sea buckthorn (*Hippophae rhamnoides*) | Fast | 6–20 ft | Zones 3–7 | Nitrogen-fixer; edible berries; soil stabilizer |
+| Osage orange (*[[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
+| Blackthorn (*[[prunus-spinosa]]*) | Medium | 6–12 ft | Zones 4–8 | Very thorny; sloe berries; wildlife food |
+| Honey locust (*[[gleditsia-triacanthos]]*) | Fast | 30–70 ft | Zones 3–9 | Thorny cultivars available; nitrogen-fixer; seed pods for fodder |
+| Sea buckthorn (*[[hippophae-rhamnoides]]*) | Fast | 6–20 ft | Zones 3–7 | Nitrogen-fixer; edible berries; soil stabilizer |
 | Siberian pea shrub (*Caragana arborescens*) | Medium | 10–15 ft | Zones 2–7 | Nitrogen-fixer; edible seeds; windbreak |
 | Jujube (*Ziziphus jujuba*) | Fast | 15–30 ft | Zones 5–9 | Thorny; edible fruit; drought-tolerant |
 | Blackberry (*Rubus spp.*) | Very fast | 3–6 ft | Zones 3–9 | Thorny; edible fruit; rapid filler between trees |
@@ -141,33 +141,6 @@ A productive living fence combines multiple layers:
 - **Soil building**: Root systems prevent erosion, improve infiltration, and cycle nutrients from deep soil layers
 - **Microclimate**: Wind reduction extends 10–15× hedge height; frost protection; reduced evapotranspiration
 - **Water management**: Hedgerows along contour slow and spread surface water, reducing erosion and increasing groundwater recharge
-
-## Hybrid Approaches
-
-The most practical approach for many farms combines both systems:
-
-1. **Living fence with wire backup**: Plant a hedge and run a single strand of electric wire at nose height for livestock; remove wire once hedge is dense
-2. **Post-and-wire with living fence**: Use conventional posts and wire for immediate containment, with hedge plants between posts for long-term replacement
-3. **Zoned approach**: Conventional fencing for high-security areas (garden, poultry); living fences for property boundaries, windbreaks, and livestock paddock divisions
-4. **Pleached hedge on wire frame**: Grow plants through a wire grid for faster establishment and structural support
-
-## When to Choose Conventional Fencing
-
-- Immediate barrier needed (new livestock arriving within weeks)
-- High-value animals requiring reliable containment (breeding stock, guardian dogs)
-- Regulatory requirements for certain livestock (e.g., horses along roads)
-- Rocky or very poor soil where plant establishment is difficult
-- Arid climates where water for establishment is limited
-- Short-term tenure or rental properties
-
-## When to Choose Living Fences
-
-- Long-term land stewardship is the goal
-- Multiple functions desired (food, fodder, windbreak, habitat)
-- Permaculture or regenerative agriculture approach
-- Adequate water for establishment period
-- Willingness to use temporary fencing during establishment
-- Property boundaries and windbreak locations (where permanence is an asset)
 
 ## See Also
 

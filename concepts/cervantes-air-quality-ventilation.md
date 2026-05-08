@@ -79,7 +79,7 @@ Two main approaches to grow room ventilation exist: sealed rooms and ventilated 
 - [[cervantes-indoor-grow-room-setup]]
 - [[greenhouse-cannabis-growing]]
 - [[cervantes-co2-enrichment]]
-- [[cervantes-water-quality-management]]
+- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-pest-disease]]
 - [[bud-rot-cannabis]]
 - [[powdery-mildew-cannabis]]

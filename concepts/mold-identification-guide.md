@@ -7,7 +7,7 @@ tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
 sources: []
 ---
 
-# [[contamination-identification-prevention|Mold]] Identification Guide
+# [[contamination-identification-prevention]] Identification Guide
 
 Molds are rapidly growing, fungal biosorption heavy that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, ingham coli compost, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
 
@@ -35,7 +35,7 @@ Mold requires four things to grow:
 
 ### Aspergillus
 
-One of the most important genera in indoor environments and the [[ascomycete-phylum-guide|Ascomycete]] phylum.
+One of the most important genera in indoor environments and the [[ascomycete-phylum-guide]] phylum.
 
 #### Common Indoor Species
 - A. niger: black spores, common on decaying vegetation, produces ochratoxin in some conditions
@@ -67,7 +67,7 @@ Closely related to Aspergillus, found in soil, decaying vegetation, and indoor e
 - Spores are smooth or rough-walled, globose, 2-5 um
 - Often produces a characteristic musty odor
 
-### Stachybotrys chartarum (Black Mold)
+### [[stachybotrys-chartarum]] (Black Mold)
 
 The most notorious indoor mold, often called "toxic black mold" in media.
 
@@ -129,7 +129,7 @@ Fast-growing green mold, often found on water-damaged building materials.
 
 ### Mucor and Rhizopus
 
-Zygomycete molds (see [[zygomycete-phylum-guide]]).
+Zygomycete molds (see zygomycete phylum guide).
 
 - Very fast-growing, cottony to gray-white colonies
 - Fill petri dishes quickly

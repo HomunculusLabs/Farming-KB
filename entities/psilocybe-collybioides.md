@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe collybioides
 
-**Psilocybe collybioides** is a [[psilocybin]]-containing mushroom species found in Australia, with confirmed occurrences in Tasmania. It was first reported from Tasmania by Dr. Malcolm Hall in 1973, alongside [[psilocybe-subaeruginosa]], as part of early systematic surveys of psychoactive fungi in the southern Australian states.
+**Psilocybe collybioides** is a [[psilocybin-compound]]-containing mushroom species found in Australia, with confirmed occurrences in Tasmania. It was first reported from Tasmania by Dr. Malcolm Hall in 1973, alongside [[psilocybe-subaeruginosa]], as part of early systematic surveys of psychoactive fungi in the southern Australian states.
 
 ## Taxonomy and Classification
 
@@ -34,7 +34,7 @@ The species is found in native eucalypt forests, temperate rainforests, and mixe
 
 ## Chemistry and Potency
 
-*Psilocybe collybioides* has been confirmed to contain [[psilocybin]] and [[psilocin]] through chemical analysis. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[psilocybe-subaeruginosa]] that shares much of its Tasmanian range.
+*Psilocybe collybioides* has been confirmed to contain [[psilocybin-compound]] and [[psilocin]] through chemical analysis. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[psilocybe-subaeruginosa]] that shares much of its Tasmanian range.
 
 The specific alkaloid concentrations in *P. collybioides* have not been as thoroughly documented as those of more widely studied species. Reports from Tasmanian collectors suggest that the effects are noticeable but considerably less intense than those produced by [[psilocybe-subaeruginosa]] collected from the same habitats. Based on bioassay comparisons, estimated alkaloid content likely falls in the range of 0.1–0.4% psilocybin and 0.02–0.15% psilocin per dry weight, though these figures remain unconfirmed by formal analytical studies. [[baeocystin]] may also be present in trace amounts, as it is common in related species.
 
@@ -42,7 +42,7 @@ The specific alkaloid concentrations in *P. collybioides* have not been as thoro
 
 The species name "collybioides" highlights the primary identification challenge: *P. collybioides* closely resembles numerous small, non-psychoactive *Collybia* species and other brown-spored mushrooms found in forest litter. This makes field identification particularly difficult without microscopic examination. Key differentiating features include the dark purplish-brown spore print (versus white to cream in true Collybia species), the occasional bluing reaction on the stipe, and the microscopic features of the cheilocystidia.
 
-As with all Psilocybe species, there is a risk of confusion with toxic Galerina species, particularly [[galerina-marginata]] and [[galerina-autumnalis]], which can be found in similar forest habitats and contains potentially lethal amatoxins. The variable bluing reaction in *P. collybioides* means that relying solely on bruising color as an identification criterion is insufficient and potentially dangerous. Other potential lookalikes in Tasmanian forests include [[gymnopilus-spectabilis]] and non-psychoactive Mycena species.
+As with all Psilocybe species, there is a risk of confusion with toxic Galerina species, particularly [[galerina-marginata]] and [[galerina-autumnalis]], which can be found in similar forest habitats and contains potentially lethal amatoxins. The variable bluing reaction in *P. collybioides* means that relying solely on bruising color as an identification criterion is insufficient and potentially dangerous. Other potential lookalikes in Tasmanian forests include [[gymnopilus-spectabilis-entity]] and non-psychoactive Mycena species.
 
 ## Taxonomic History
 
@@ -74,7 +74,7 @@ While no formal conservation assessment exists for *P. collybioides*, the specie
 * [[psilocybe-tasmaniana]] — another Tasmanian psychoactive species
 * [[psilocybe-eucalypta]] — Australian wood-inhabiting psychoactive species
 * [[psilocybe-aucklandii]] — related species from New Zealand
-* [[gymnopilus-spectabilis]] — a large psychoactive mushroom found in Australian forests
+* [[gymnopilus-spectabilis-entity]] — a large psychoactive mushroom found in Australian forests
 * [[galerina-marginata]] — deadly lookalike containing amatoxins
 * [[galerina-autumnalis]] — another toxic Galerina species found in similar habitats
 * [[baeocystin]] — secondary alkaloid likely present in this species

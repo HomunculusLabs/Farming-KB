@@ -1,5 +1,5 @@
 ---
-title: "Leonotus leonurus"
+title: "leonotus leonurus"
 created: 2026-04-28
 type: species
 tags:
@@ -17,7 +17,6 @@ sources:
   - "Bapela, N.T. et al. (2014). \"Leonotus leonurus extracts in traditional medicine.\" African Journal of Traditional Medicine, 11(4), 113-119."
   - "Neergheen, V.S. et al. (2012). \"Antioxidant and anti-inflammatory activity of Leonotus leonurus.\" Phytotherapy Research, 26(12), 1855-1861."
 ---
-
 # Leonotus leonurus (*Leonotus leonurus*)
 
 ## Overview
@@ -25,7 +24,7 @@ sources:
 *Leonotus leonurus*, commonly known as wild dagga or lion's tail, is a perennial shrub in the mint family (Lamiaceae) native to southern Africa.
 It has a long history of traditional use as a calming remedy, smoking herb, and mild euphoriant.
 The plant produces striking orange tubular flowers arranged in dense whorls along tall spikes, making it both medicinally significant and horticulturally popular.
-Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkaloid also found in *Leonurus cardiaca* (motherwort).
+Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkaloid also found in *[[leonurus-cardiaca-entity]]* (motherwort).
 
 ## Taxonomy
 
@@ -39,16 +38,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 - **Genus:** *Leonotus* (Pers.) R.Br.
 - **Species:** *L. leonurus* (L.) R.Br.
 - **Synonyms:** *Phlomis leonurus* L., *Leonurus leonurus* (L.) Houtt.
-- **Etymology:** Greek *leon* (lion) + *oura* (tail), referring to the lion-tail-like flower spikes
-- **Common names:** Wild dagga, lion's tail, wild hemp (misnomer), lion's ear
-
-## Morphology
-
-### Growth Habit
-
-- Erect, evergreen perennial shrub, 1–2 m tall (up to 3 m in ideal conditions)
-- Multi-stemmed from a woody base; stems square in cross-section (characteristic Lamiaceae)
-- Fast-growing, capable of 60–90 cm of growth per growing season
+- **Etymology:** Greek *leon* (lion) + *oura* (tail), referring to the lion-tail-like flower australian magic mushroom common namesommon names:** Wild dagga, lion's tail, wild hemp (misnomer), lion's ear of 60–90 cm of growth per growing season
 
 ### Leaves
 
@@ -61,7 +51,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 
 - Bright orange to orange-red (rarely white cultivars), tubular, 25–35 mm long
 - Arranged in dense, spherical whorls at intervals along the terminal flower spike
-- Each whorl contains 6–12 flowers subtended by a persistent, leafy bract
+- Each whorl contains 6–12 flowers [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] istent, leafy bract
 - Blooming period: late summer through autumn (March–May in Southern Hemisphere)
 - Highly attractive to sunbirds, bees, and butterflies
 
@@ -78,9 +68,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 - **Leonurine** (0.03–0.1% dry weight): Primary bioactive alkaloid; vasodilatory, uterotonic, and mild CNS effects
 - **Leonuridine, isoleonurine:** Minor alkaloids with related pharmacological profiles
 
-### Terpenoids
-
-- **Diterpenes:** Including leonotin, marrubiin analogs, and labdane-type diterpenes
+### Terpenoidlimoneneiterpenes:** Including leonotin, marrubiin analogs, and labdane-type diterpenes
 - **Essential oil:** Composed primarily of α-pinene, β-pinene, limonene, p-cymene, and camphor
 - Essential oil yield: 0.3–0.8% (v/w) from dried aerial parts
 
@@ -109,7 +97,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 
 - **Antioxidant:** DPPH and ABTS radical scavenging (IC₅₀ values comparable to ascorbic acid in some extracts)
 - **Anti-inflammatory:** Inhibition of COX-2 and NF-κB pathways demonstrated in vitro
-- **Antimicrobial:** Activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *Candida albicans*
+- **Antimicrobial:** Activity against *Staphylococcus aureus*, *[[bacillus-subtilis]]*, and *[[candida-albicans]]*
 - **Hypoglycemic:** Blood glucose reduction observed in streptozotocin-induced diabetic rats
 - **Anticonvulsant:** Leonurine exhibits anticonvulsant properties in animal seizure models
 
@@ -140,15 +128,11 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 
 ## Permaculture Applications
 
-- **Pollinator plant:** Excellent nectar source for bees, butterflies, and sunbirds; extends bloom period in food forests
+- **Pollinator plant:** Excellent nectar source for bees, butterflies, and sunbirds; extends bloom period in [[food-forest]] s
 - **Hedge plant:** Dense, bushy habit makes an effective windbreak and privacy screen
-- **Companion planting:** Mint-family association deters some pest insects from neighboring crops
+- **[[companion-planting]]:** Mint-family association deters some pest insects from neighboring crops
 - **Soil stabilization:** Deep root system helps prevent erosion on slopes
 - **Drought-resistant garden element:** Valuable in water-wise and xeriscaped food forest edges
 - **Medicinal hedge:** Can be planted alongside other medicinal species in a dedicated herb garden zone
 
 ## See Also
-
-- [[ashwagandha-withania-somnifera]] — Another adaptogenic herb with CNS-calming properties
-- [[salvia-divinorum]] — Psychoactive Lamiaceae species with more potent effects
-- [[valeriana-officinalis]] — Sedative herb with complementary calming indications

@@ -135,44 +135,6 @@ think that if they do not prepare and dine on choice cuisine,
 they will not be able to eat delicious food.
 
 In efforts to make bread tastier, bread has ceased to taste
-good. Energy-extravagant crops, livestock, and fowl have
-been grown to create a world of plenty, and instead triggered
-famine and starvation. The more people strive to produce
-delicious rice, fruit, and vegetables, the more inaccessible
-these become.
-
-## The Unity of Matter and Spirit
-
-Buddha said, "Form is emptiness and emptiness is form."
-Matter and spirit are one. The world appears to be filled
-with the seven prismatic colors, but when combined these
-seven colors become white. Viewed with detachment, all
-things are colorless and white. Matter is spirit and spirit
-is matter. Both are one.
-
-Nature provided humanity with a vast array of foods.
-Discerning what were thought to be good and bad qualities,
-people picked and chose, thinking they had to create
-harmonious combinations. This has been the root of their
-errors. Human knowledge can never compare with the greatness
-of the natural order.
-
-## The Purpose of Natural Diet
-
-The purpose of a natural diet is not to create learned
-individuals who support their selection of foods with
-articulate explanations, but to create unlearned people who
-gather food without deliberate rationale from nature's
-garden. A true diet begins through detachment from shades
-of color, by delighting in colors without hue as true color.
-
-The natural diet lies at our feet, a diet that obeys the
-laws of heaven and has been followed naturally and without
-want by the people of farming and fishing villages. Within
-a quiet life passed leisurely and tranquilly according to
-the cycles of nature lies hidden all the grandeur of the
-human drama.
-
 ## See Also
 
 - [[fukuoka-textdoc-four-types-of-diet-classification]] for

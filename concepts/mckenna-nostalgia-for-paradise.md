@@ -116,6 +116,6 @@ Despite these criticisms, McKenna's influence on contemporary psychedelic cultur
 - [[mckenna-transcendent-other-and-exopheromones]]
 - [[cultural-evolution-and-psychoactive-substances]]
 - [[consciousness-and-psychedelics]]
-- [[mckenna-opium-wars-and-drug-diplomacy]]
+- [[ethnomycology]]
 - [[mckenna-cannabis-culture-history]]
 - [[mckenna-diet-symbiosis-human-evolution]]

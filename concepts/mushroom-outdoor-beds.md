@@ -78,7 +78,7 @@ Cuthill emphasised mushrooms could be grown outdoors in
 stables, lofts, coach-houses, yards, large boxes, cellars,
 and open ground. Brick pits, cucumber frames, and railway
 arches near towns were all suitable. The key was proper
-[[mushroom-bed-preparation]] rather than any specific
+mushroom bed preparation rather than any specific
 structure.
 
 ## Economic Value for Cottagers

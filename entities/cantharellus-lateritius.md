@@ -116,7 +116,7 @@ sources:
 
 ## See Also
 
-- [[cantharellus-cibarius]] — the golden chanterelle, the most commercially important species in the genus
+- [[cantharellus-cibarius-entity]] — the golden chanterelle, the most commercially important species in the genus
 - [[craterellus-cornucopioides]] — the black trumpet, a related chanterelle-like edible mushroom
 - [[craterellus-tubaeformis]] — the yellowfoot chanterelle, a cold-season foraging target
-- [[boletus-edulis]] — another prized ectomycorrhizal edible mushroom in oak forests
+- [[boletus-edulis-entity]] — another prized ectomycorrhizal edible mushroom in oak forests

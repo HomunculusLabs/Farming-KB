@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Mollison provides specific guidance for greenhouse design, appropriate crops, energy systems, and solar inventions. Greenhouses should not simply extend the season for the same crops -- they should grow species that wouldn't otherwise be possible. This approach connects to [[greenhouse-design]] and [[permaculture-design-principles-beginners]] by maximizing the yield of unique, high-value crops from protected growing environments.
+Mollison provides specific guidance for greenhouse design, appropriate crops, energy systems, and solar inventions. Greenhouses should not simply extend the season for the same crops -- they should grow species that wouldn't otherwise be possible. This approach connects to [[greenhouse-design]] and [[permaculture-design-principles]] by maximizing the yield of unique, high-value crops from protected growing environments.
 
 ## Greenhouse Positioning
 

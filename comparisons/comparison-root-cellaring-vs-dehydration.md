@@ -148,4 +148,3 @@ beans, peas, and herbs that do not require cold, humid storage.
 - [[solomon-food-preservation-storage]]
 - [[natfarm-food-drying-dehydration]]
 - [[root-cellar-design-and-construction]]
-- [[homesteading-food-preservation]]

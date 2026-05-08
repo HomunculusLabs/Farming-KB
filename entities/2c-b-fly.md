@@ -124,6 +124,6 @@ This conformational constraint alters receptor binding affinity and metabolic st
 
 ## See Also
 
-- [[psilocybin]] — Classical psychedelic with different receptor profile but overlapping effects
+- [[psilocybin-compound]] — Classical psychedelic with different receptor profile but overlapping effects
 - [[salvinorin-b]] — Dissociative psychedelic with kappa-opioid mechanism
 - [[2c-b]] — Parent phenethylamine compound with shorter duration

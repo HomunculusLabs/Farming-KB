@@ -11,7 +11,7 @@ type: entity
 # Psilocybe cyanofibrillosa
 
 **Type:** Species (Fungus)
-**Category:** [[psilocybin]]-containing mushroom
+**Category:** [[psilocybin-compound]]-containing mushroom
 **Also known as:** blue-haired Psilocybe
 
 ## Overview

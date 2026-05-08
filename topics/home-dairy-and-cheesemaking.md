@@ -469,7 +469,7 @@ repeatable.
 [[cheese-making-basics]]
 [[mollison-designers-goat-dairy-and-cheese-production]]
 [[small-scale-dairy-guide]]
-[[kefir-making]]
+kefir making
 [[homestead-dairy-guide]]
 [[faires-milking-goats-and-cows]]
 [[dairy-and-cheesemaking]]

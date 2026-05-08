@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-A consistent finding across the cannabis microbiome literature is that [[alpha diversity]] follows a declining gradient from [[bulk soil]] through the rhizosphere to the [[cannabis-endorhiza-microbiome]]. This pattern was demonstrated in the Winston et al. (2014) study using both observed species counts and the chao1 diversity index.
+A consistent finding across the cannabis microbiome literature is that [[alpha-diversity]] follows a declining gradient from [[bulk-soil]] through the rhizosphere to the [[cannabis-endorhiza-microbiome]]. This pattern was demonstrated in the Winston et al. (2014) study using both observed species counts and the chao1 diversity index.
 
 The gradient mirrors patterns observed in many other plant species including Arabidopsis, Populus, and potato. It reflects the progressive filtering of the soil microbial community as organisms transition from the open soil environment into increasingly selective root-associated compartments.
 
@@ -43,17 +43,17 @@ The same pattern was recovered in the first experiment despite much shallower se
 - **Rhizosphere**: chao1 mean of 1,837.2 (SD = 114.0)
 - **Endorhiza**: chao1 mean of 916.1 (SD = 161.7)
 
-The proportional reduction from bulk soil to endorhiza was approximately 54% in this experiment, substantially larger than the 33% observed in the second experiment. The larger reduction is attributable to post-harvest [[root decay]] processes that further reduced endorhiza diversity beyond the normal plant-driven filtering.
+The proportional reduction from bulk soil to endorhiza was approximately 54% in this experiment, substantially larger than the 33% observed in the second experiment. The larger reduction is attributable to post-harvest [[root-decay]] processes that further reduced endorhiza diversity beyond the normal plant-driven filtering.
 
 ## Mechanisms Driving the Gradient
 
 ### Bulk Soil as the Microbial Reservoir
 
-[[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] represents the most diverse microbial environment because it is subject to the fewest selective pressures. Soil microbial communities are shaped primarily by [[edaphic factors]] including pH, nitrogen, carbon content, salinity, and water content.
+alpha diversity gradient bulk soil cannabis endorhiza represents the most diverse microbial environment because it is subject to the fewest selective pressures. Soil microbial communities are shaped primarily by [[edaphic-factors]] including pH, nitrogen, carbon content, salinity, and water content.
 
 Within these constraints, a wide range of organisms with different metabolic strategies can coexist. The high diversity reflects the heterogeneous nature of soil as a habitat, with diverse microenvironments supporting different lifestyles from oligotrophic Acidobacteria to copiotrophic Proteobacteria.
 
-The bulk soil serves as the reservoir from which rhizosphere and endorhiza communities are drawn. All organisms found in the root compartments must first exist in the soil, establishing the fundamental constraint on community assembly described by the first tier of the [[two-tier selection model]].
+The bulk soil serves as the reservoir from which rhizosphere and endorhiza communities are drawn. All organisms found in the root compartments must first exist in the soil, establishing the fundamental constraint on community assembly described by the first tier of the [[two-tier-selection-model]].
 
 ### Rhizosphere as a Semi-Permeable Filter
 
@@ -71,7 +71,7 @@ The most dramatic diversity reduction occurs during the transition from rhizosph
 
 They must also navigate plant immune responses including pattern-triggered and effector-triggered immunity. Additionally, they must compete for space within the root cortical intercellular spaces.
 
-This second selective step, described in the [[two-tier selection model]], is driven primarily by host genotype and produces the most pronounced diversity decline. Only organisms with specific adaptations for endophytic life persist within the endorhiza.
+This second selective step, described in the [[two-tier-selection-model]], is driven primarily by host genotype and produces the most pronounced diversity decline. Only organisms with specific adaptations for endophytic life persist within the endorhiza.
 
 These adaptations include the ability to colonize intercellular spaces, tolerate plant defense compounds such as phytoalexins and reactive oxygen species, form mutualistic signaling relationships with the host, and compete effectively in the nutrient-rich but biologically challenging root interior.
 
@@ -84,7 +84,7 @@ While the diversity gradient was consistent across soil types, there were signif
 - **Mo-Bio soil**: bulk soil chao1 = 5,597, rhizosphere chao1 = 4,859
 - **Orange County soil**: bulk soil chao1 = 4,296, rhizosphere chao1 = 3,913
 
-However, endorhiza diversity was not significantly different between soil types (Mo-Bio chao1: 3,325 vs. Orange County chao1: 3,311). This convergence supports the [[two-tier selection model]].
+However, endorhiza diversity was not significantly different between soil types (Mo-Bio chao1: 3,325 vs. Orange County chao1: 3,311). This convergence supports the [[two-tier-selection-model]].
 
 Despite different starting diversities in the soil reservoir, the host plant applies consistent selective pressure producing similar end-point diversity within root tissues regardless of soil origin. The Mo-Bio soil had a larger pool of organisms, but the endorhiza bottleneck produced equivalent diversity.
 
@@ -98,7 +98,7 @@ The dramatic difference between experiments underscores that sampling timing is 
 
 ## Relationship to Beta Diversity Patterns
 
-The alpha diversity gradient parallels [[beta diversity]] patterns observed in the same study. Rhizosphere and bulk soil communities were more similar to each other than either was to endorhiza communities.
+The alpha diversity gradient parallels [[beta-diversity]] patterns observed in the same study. Rhizosphere and bulk soil communities were more similar to each other than either was to endorhiza communities.
 
 Beta distances between rhizosphere and bulk soil were significantly lower than rhizosphere-to-endorhiza distances for both unweighted (t = 24.59, p less than 0.001) and weighted (t = 211.82, p less than 0.001) analyses.
 
@@ -106,7 +106,7 @@ The alpha diversity reduction at the rhizosphere-to-endorhiza boundary reflects 
 
 ## Implications for Microbial Terroir
 
-The alpha diversity gradient has implications for understanding [[microbial terroir]] in cannabis. While the soil determines the available pool of organisms with varying diversity levels, the plant genotype acts as the final arbiter.
+The alpha diversity gradient has implications for understanding [[microbial-terroir]] in cannabis. While the soil determines the available pool of organisms with varying diversity levels, the plant genotype acts as the final arbiter.
 
 The endorhiza bottleneck produces convergent diversity regardless of soil origin. This means that cultivar-specific microbial communities could contribute to consistent product characteristics even when plants are grown in different soils, because the selective filtering is genotype-dependent rather than soil-dependent.
 
@@ -115,11 +115,11 @@ The endorhiza bottleneck produces convergent diversity regardless of soil origin
 - [[microbial-alpha-diversity-soil-plant-gradient]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 
-- [[two-tier selection model]]
-- [[beta diversity root soil compartments cannabis]]
-- [[cannabis endorhiza microbiome]]
-- [[edaphic determinants of cannabis microbiome community structure]]
-- [[chao1 diversity index]]
+- [[two-tier-selection-model]]
+- [[beta-diversity-root-soil-compartments-cannabis]]
+- [[cannabis-endorhiza-microbiome]]
+- [[edaphic-determinants-of-cannabis-microbiome-community-structure]]
+- [[chao1-diversity-index]]
 - [[cellvibrio-and-root-decay-microbiome]]
-- [[core endorhiza bacterial community composition in cannabis]]
+- [[core-endorhiza-bacterial-community-composition-in-cannabis]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition]]

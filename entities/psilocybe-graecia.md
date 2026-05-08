@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe graecia
 
-**Psilocybe graecia** is a bluing [[psilocybin]]-containing mushroom species found in the Mediterranean region, primarily in Greece. It is a relatively recently described species within the Psilocybe genus and belongs to a group of southern European psilocybian fungi adapted to Mediterranean climate conditions.
+**Psilocybe graecia** is a bluing [[psilocybin-compound]]-containing mushroom species found in the Mediterranean region, primarily in Greece. It is a relatively recently described species within the Psilocybe genus and belongs to a group of southern European psilocybian fungi adapted to Mediterranean climate conditions.
 
 ## Taxonomy
 
@@ -80,7 +80,7 @@ The specific epithet *graecia* refers to Greece, the country where the species w
 **P. graecia** contains the classic psilocybian alkaloid profile shared with other members of the genus.
 
 ### Alkaloid Content
-- [[psilocybin]]: 0.3 to 1.0% dry weight
+- [[psilocybin-compound]]: 0.3 to 1.0% dry weight
 - [[psilocin]]: trace to 0.15% dry weight
 - [[baeocystin]]: present in minor quantities
 
@@ -117,7 +117,7 @@ The species is of interest primarily to mycologists studying the biogeography of
 
 ## Legal Status
 
-As a [[psilocybin]]-containing species, **P. graecia** is subject to drug control legislation in most countries. In Greece, the collection and possession of psilocybian mushrooms is restricted under national drug laws.
+As a [[psilocybin-compound]]-containing species, **P. graecia** is subject to drug control legislation in most countries. In Greece, the collection and possession of psilocybian mushrooms is restricted under national drug laws.
 
 ## See Also
 
@@ -125,6 +125,6 @@ As a [[psilocybin]]-containing species, **P. graecia** is subject to drug contro
 
 - [[psilocybe-semilanceata]] — the most widespread European liberty cap
 - [[psilocybe-hispanica]] — related Iberian species
-- [[psilocybin]] — primary psychoactive compound
+- [[psilocybin-compound]] — primary psychoactive compound
 - gastón-guzmán — taxonomist who catalogued global psilocybian fungi
 - [[magic-mushroom-global-distribution]] — key reference for global distribution data

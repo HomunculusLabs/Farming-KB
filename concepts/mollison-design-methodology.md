@@ -82,7 +82,7 @@ Design is not a one-time event but a continuous process guided by information an
 
 [[permaculture-design-process]]
 
-[[permaculture-design-methods]]
+[[permaculture-design]]
 
 [[permaculture-site-analysis]]
 

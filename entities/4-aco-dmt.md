@@ -122,7 +122,7 @@ Legal status varies significantly by jurisdiction and has evolved rapidly:
 ## See Also
 
 - [[psilocin]] — The active deacetylated metabolite of 4-AcO-DMT
-- [[psilocybin]] — The natural prodrug of psilocin found in psychedelic mushrooms
+- [[psilocybin-compound]] — The natural prodrug of psilocin found in psychedelic mushrooms
 - [[dmt]] — The non-hydroxylated parent tryptamine
 - [[5-meo-dmt]] — The 5-methoxy analog with distinct pharmacological profile
 - 4 ho met — A closely related synthetic tryptamine with similar properties

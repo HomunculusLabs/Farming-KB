@@ -1,10 +1,10 @@
 ---
-title: Psilocybin Chemical Synthesis
+title: psilocybin chemical synthesis
 created: 2026-04-28
 tags:
   - chemistry
   - synthesis
-  - psilocybin
+  - [[psilocybin]]
   - psilocin
   - tryptamines
   - pharmacognosy
@@ -15,24 +15,24 @@ sources:
 type: concept
 ---
 
-# Psilocybin Chemical Synthesis
+# Psilocybin [[psilocybin-and-psilocin-chemical-synthesis]]
 
-The chemical synthesis of psilocybin and its dephosphorylated active
+The chemical synthesis [[wasson-rediscovery-of-psilocybin]] and its dephosphorylated active
 metabolite psilocin has been pursued since the compounds were first
-isolated by Albert Hofmann and colleagues at Sandoz in the late
+isolated by [[albert-hofmann-eleusinian-potion-analysis]] and colleagues at Sandoz in the late
 1950s. The most efficient large-scale route was reported by Shirota,
 Hakamata, and Goda in 2003 at Japan's National Institute of Health
-Sciences, achieving gram-scale production without chromatographic
+Sciences, achieving gram-[[psilocybin-large-scale-production]] without chromatographic
 purification and with significantly improved yields over prior
 methods.
 
 ## Historical Background
 
-Psilocin (4-hydroxy-N,N-dimethyltryptamine) and psilocybin
+Psilocin (4-hydroxy-N,N-[[dimethyltryptamine]]) and psilocybin
 (4-phosphoryloxy-N,N-dimethyltryptamine) are the principal
 hallucinogenic constituents of "magic mushrooms" in the genus
 *Psilocybe*. Hofmann, Heim, and colleagues first isolated these
-compounds from *Psilocybe mexicana* in 1958-1959. Both closely
+compounds from *[[psilocybe-mexicana]]* in 1958-1959. Both closely
 resemble serotonin (5-hydroxytryptamine), and their hallucinogenic
 effects result from interference with normal brain serotonin
 actions, particularly at 5-HT2A receptors.
@@ -43,7 +43,7 @@ on a gram scale because psilocin readily decomposes and psilocybin
 has high polarity. This motivated the development of synthetic
 routes for producing analytical standards. Several approaches to
 psilocin were published between 1959 and 1999, but reports on
-psilocybin synthesis remained scarce due to the phosphorylation
+[[psilocybin-synthesis]] remained scarce due to the phosphorylation
 challenge.
 
 ## The Shirota-Hakamata-Goda Route
@@ -136,7 +136,7 @@ no chromatographic purification, and successful gram-scale production.
 In Japan, fungi containing psilocin and psilocybin were regulated
 under the Narcotics and Psychotropic Control Law beginning June 6,
 2002. The synthesis was developed because morphologic and
-microscopic mushroom identification is difficult without experts.
+microscopic [[mushroom-identification]] is difficult without experts.
 Chromatographic methods (TLC, GC, HPLC) with pure standards are
 essential for forensic identification and regulatory enforcement.
 Ehrlich's reagent produces characteristic color reactions with
@@ -144,14 +144,7 @@ indole derivatives on TLC plates.
 
 ## Related Concepts
 
-- [[psilocybin]] for pharmacology and natural occurrence
+- [[psilocybin-compound]] for pharmacology and natural occurrence
 - [[psilocin]] for the active dephosphorylated metabolite
 - Magic Mushrooms for fungal species producing these compounds
 - Serotonin Receptor Agonism for the hallucinogenic mechanism
-- Tryptamine Chemistry for broader indole alkaloid synthesis
-
-## See Also
-
-- [[albert-hofmann]]
-- [[baeocystin]]
-- [[dimethyltryptamine]]

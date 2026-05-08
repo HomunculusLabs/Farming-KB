@@ -69,7 +69,7 @@ When a pest outbreak occurs in a natural farm, Fukuoka saw it not as a problem t
 - [[fukuoka-mountain-soil-restoration]]
 - [[fukuoka-disease-pest-management]]
 - [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-critique-scientific-agriculture]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-argument-against-pruning]]
 
 - [[fukuoka-agriculture-for-tomorrow]]

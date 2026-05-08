@@ -148,9 +148,3 @@ sheep, goats, pigs, and cattle).
 - **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
   and ground meat.
 - **Cutting order:** Remove legs first, then separate chuck/shoulder from
-  rib/loin, then break individual cuts.
-- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
-
-## See Also
-
-- [[animal-cookies]]

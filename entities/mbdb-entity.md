@@ -75,7 +75,7 @@ MBDB has been explored as a potential non-neurotoxic alternative to MDMA for psy
 ## Related Compounds
 
 - mdma-entity|MDMA — alpha-methyl homologue, more potent and stimulating
-- [[mda-entity]]|MDA — N-demethylated, more psychedelic
+- [[mda]]|MDA — N-demethylated, more psychedelic
 - [[mde-entity]]|MDE — N-ethyl homologue of MDMA
 - 2c-b-entity|2C-B — phenethylamine analogue, more psychedelic
 - [[mdai-entity]]

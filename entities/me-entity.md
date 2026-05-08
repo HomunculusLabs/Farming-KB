@@ -96,7 +96,7 @@ A notable distinction: when Peyote cactus is retasted in the middle of a Peyote 
 
 [[mescaline-entity]] - the parent trimethoxyphenethylamine
 
-[[proscaline-entity]] - the 4-propoxy isomer
+[[proscaline]] - the 4-propoxy isomer
 
 [[mdma-entity]] - compared for transference feelings (mostly absent with ME)
 

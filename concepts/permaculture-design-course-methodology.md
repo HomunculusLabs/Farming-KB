@@ -135,7 +135,7 @@ habits in harmony with natural cycles of the Earth.
 - [[natural-farming-sustainable-living-principles]]
 - [[zone-and-sector-analysis]]
 - [[permaculture-earthworks-design]]
-- [[urban-permaculture-design-methods]]
+- [[urban-permaculture-and-guerrilla-gardening]]
 - [[aquaculture-in-permaculture]]
 - [[succession-in-permaculture]]
 - pattern language permaculture

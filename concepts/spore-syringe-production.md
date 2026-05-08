@@ -90,10 +90,10 @@ rates through purpose-built clean rooms and automated filling equipment.
 
 - [[spore-syringe-vs-liquid-culture]]
 
-- [[mushroom-cultivation-cloning-isolation]] for tissue isolation as an alternative to spore inoculation
-- [[mushroom-cultivation-sterile-technique]] for maintaining sterility during syringe preparation
+- [[mushroom-cultivation-fundamentals]] for tissue isolation as an alternative to spore inoculation
+- [[mushroom-cultivation-fundamentals]] for maintaining sterility during syringe preparation
 - [[mushroom-cultivation-grain-spawn]] for grain inoculation procedures
-- [[psilocybin-mushroom-cultivation-basics]] for the broader cultivation context
+- [[mushroom-cultivation-fundamentals]] for the broader cultivation context
 
 ## Troubleshooting Common Issues
 

@@ -145,5 +145,5 @@ Marketed widely as a sports supplement for testosterone enhancement:
 
 - [[withania-somnifera]] — Ashwagandha, another Ayurvedic adaptogen with androgenic properties
 - [[panax-ginseng]] — Ginseng, a complementary tonic herb for vitality and sexual health
-- [[Tribulus (permaculture)]] — Potential use of Tribulus as a ground cover in permaculture systems
+- [[tribulus-(permaculture)]] — Potential use of Tribulus as a ground cover in permaculture systems
 - [[mucuna-pruriens]] — Velvet bean, another Ayurvedic aphrodisiac and testosterone-supporting herb

@@ -139,35 +139,6 @@ and minerals including magnesium and phosphorus. The mycelium enzymatically
 breaks down the starches into simpler sugars for metabolic use.
 
 The PF TEK specifically uses brown rice rather than white rice because the
-bran layer provides additional nutrients that support more robust growth. White
-rice has been stripped of its bran and germ, leaving primarily starch with
-reduced protein and vitamin content.
-
-## Storage of Brown Rice
-
-Whole brown rice for grinding should be stored in a cool, dry place in an
-airtight container. The oils in the bran layer make brown rice more perishable
-than white rice. Stored properly, whole brown rice can maintain freshness for
-several months. Once milled, the flour should ideally be used immediately or
-within a few days for the best results.
-
-Refrigeration or freezing of whole brown rice can extend its shelf life
-significantly. If rice has been stored for an extended period, a smell test can
-help determine if the oils have become rancid. Rancid rice will have a sharp
-or stale odor and should be discarded.
-
-## Impact on Potency
-
-While the substrate nutrition affects the overall health and yield of the crop,
-the PF TEK literature emphasizes that potency is primarily determined by
-harvest timing and preservation method rather than the substrate composition.
-
-However, a well-nourished mycelium grown on fresh, high-quality brown rice
-flour produces healthier fruiting bodies with better overall alkaloid
-profiles. The combination of fresh rice flour, early harvesting of immature
-specimens, and cool desiccant drying is described as producing an entheogen of
-the highest order.
-
 ## Related
 - [[pf-tek-secondary-flush-and-cake-exhaustion]] Concepts
 

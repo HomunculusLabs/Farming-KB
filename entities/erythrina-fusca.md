@@ -148,7 +148,3 @@ Primary agroforestry use as a living trellis:
 - [[acacia-confusa]]
 - [[mimosa-tenuiflora]]
 - [[sesbania-grandiflora]]
-- [[tithonia-diversifolia]]
-- [[tagasaste]]
-- [[agroforestry]]
-- [[permaculture]]

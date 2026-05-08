@@ -139,6 +139,6 @@ the diversion of safrole into MDMA production.
 ## See Also
 - [[myristicin-entity]]
 - [[elemicin]]
-- [[mescaline]]
+- [[mescaline-entity]]
 - [[mdma]]
 - [[piper-methysticum-entity]]

@@ -23,7 +23,7 @@ discovered during the phosphorylation of [[psilocin]] using the
 tetrabenzylpyrophosphate method. This compound was first identified and
 fully characterized by Shirota, Hakamata, and Goda in 2003. Its
 discovery was unexpected and represents a key finding that enabled the
-practical large-scale synthesis of [[psilocybin]] without chromatographic
+practical large-scale synthesis of [[psilocybin-compound]] without chromatographic
 purification.
 
 ## Discovery and Formation
@@ -146,4 +146,4 @@ both benzyl groups (from nitrogen and from phosphate) to give the
 target molecule in high yield.
 
 ## See Also
-- [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
