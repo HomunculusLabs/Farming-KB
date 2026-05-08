@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**65 pages**
+**64 pages**
 
 ## A
 
@@ -21,7 +21,6 @@
 - [[bioslurry-reactors]]
 - [[biosorption-isotherms]]
 - [[biostimulation-techniques]]
-- [[biosurfactants-in-bioremediation]]
 
 ## C
 

@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2546 pages**
+**2553 pages**
 
 ## #
 
@@ -269,6 +269,7 @@
 - [[allicin]]
 - [[allium-sativum]]
 - [[allium-sativum-entity]]
+- [[allium-schoenoprasum]]
 - [[allium-tuberosum]]
 - [[allium-ursinum]]
 - [[allylescaline]]
@@ -421,6 +422,7 @@
 - [[beatrice-entity-pihkal]]
 - [[beauveria]]
 - [[beauveria-bassiana]]
+- [[beauveria-brongniartii]]
 - [[ben-falk]]
 - [[ben-law]]
 - [[ben-lemon]]
@@ -555,6 +557,7 @@
 - [[capsicum-annuum]]
 - [[caragana-arborescens]]
 - [[carica-papaya]]
+- [[carmagnola]]
 - [[carthamus-tinctorius]]
 - [[carya-illinoinensis]]
 - [[caryophyllene-oxide]]
@@ -891,9 +894,11 @@
 - [[entoloma-hochstetteri]]
 - [[entoloma-rhodopolium]]
 - [[entoloma-sinuatum]]
+- [[entomophthora-muscae]]
 - [[ephedra-sinica]]
 - [[ephedrine]]
 - [[epibrassinolide]]
+- [[epichloe-festucae]]
 - [[epichloe-typhina]]
 - [[epilobium-angustifolium]]
 - [[epimedium-grandiflorum]]
@@ -958,6 +963,7 @@
 - [[ferula-drudeana]]
 - [[ficus-carica]]
 - [[filipendula-ulmaria]]
+- [[fire-og]]
 - [[fish-amino-acid]]
 - [[fistulina-hepatica]]
 - [[flammulina-velutipes]]
@@ -1375,6 +1381,7 @@
 - [[lava-cake]]
 - [[lavandula-angustifolia]]
 - [[lavandula-angustifolia-entity]]
+- [[lecanicillium-muscarium]]
 - [[leccinum-aurantiacum]]
 - [[leccinum-insigne]]
 - [[leccinum-scabrum]]

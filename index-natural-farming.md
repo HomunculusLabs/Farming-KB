@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**874 pages**
+**867 pages**
 
 ## A
 
@@ -32,7 +32,6 @@
 - [[cannabis-trichome-guide]]
 - [[cannabis-trichome-types-and-development]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
-- [[cervantes-trichome-resin-production]]
 - [[cho-brown-rice-vinegar-preparation]]
 - [[cho-fermented-fruit-juice-preparation]]
 - [[cho-fermented-mixed-compost-methods]]
@@ -86,7 +85,6 @@
 - [[fish-amino-acid-faa]]
 - [[four-principles-natural-farming]]
 - [[four-principles-of-natural-farming]]
-- [[four-principles-of-natural-farming-fukuoka]]
 - [[fukuoka-aerial-seeding-mangroves-ganges-river]]
 - [[fukuoka-africa-natural-farming]]
 - [[fukuoka-african-agriculture-observations]]
@@ -202,7 +200,6 @@
 - [[fukuoka-green-gulch-zen-center-desert-reclamation]]
 - [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-green-rice-leafhopper-virus]]
-- [[fukuoka-greening-deserts]]
 - [[fukuoka-ground-cover-strategy]]
 - [[fukuoka-happy-hill-rice-strain]]
 - [[fukuoka-harry-roberts-zen-center-tribute]]
@@ -254,7 +251,6 @@
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-natural-diet-four-types]]
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-natural-diet-principles]]
 - [[fukuoka-natural-diet-theory]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-natural-farming]]
@@ -286,7 +282,6 @@
 - [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-natural-no-plan-best-plan]]
 - [[fukuoka-natural-orchard-development]]
-- [[fukuoka-natural-orchard-ground-cover]]
 - [[fukuoka-natural-orchard-management]]
 - [[fukuoka-natural-perceiving-nature-without-relativism]]
 - [[fukuoka-natural-pest-balance]]
@@ -479,7 +474,6 @@
 - [[fukuoka-three-ways-farming-compared]]
 - [[fukuoka-touching-the-great-spirit]]
 - [[fukuoka-traditional-paddy-construction]]
-- [[fukuoka-trees-grow-themselves-and-transplant-damage]]
 - [[fukuoka-vegetable-disease-insect-resistance]]
 - [[fukuoka-vegetable-growing-detailed]]
 - [[fukuoka-vegetable-growing-natural-method]]
@@ -780,7 +774,6 @@
 
 ## M
 
-- [[mahayana-and-hinayana-natural-farming]]
 - [[mahayana-hinayana-natural-farming]]
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
 - [[master-cho-knf-fish-aminos-and-sea-minerals]]
@@ -801,7 +794,6 @@
 - [[natural-farming-faa-fertilizer]]
 - [[natural-farming-five-principles]]
 - [[natural-farming-food-philosophy]]
-- [[natural-farming-four-principles]]
 - [[natural-farming-fpj-preparation]]
 - [[natural-farming-fukuoka]]
 - [[natural-farming-guide-biological-pest-control-predators]]
@@ -905,6 +897,7 @@
 - [[savory-time-and-timing-guideline]]
 - [[savory-water-cycle-management]]
 - [[savory-weak-link-analysis]]
+- [[scientific-farming-paradoxes-according-to-fukuoka]]
 - [[solomon-choosing-seeds-and-catalogs]]
 - [[st-johns-wort-guide]]
 - [[straw-mulch-in-agriculture]]

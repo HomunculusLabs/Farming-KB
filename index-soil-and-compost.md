@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**409 pages**
+**397 pages**
 
 ## A
 
@@ -64,7 +64,6 @@
 - [[complete-organic-fertilizer-recipes]]
 - [[compost-biology-organisms]]
 - [[compost-building-guide]]
-- [[compost-chemistry-soil-food-web]]
 - [[compost-container-types]]
 - [[compost-quality-grades]]
 - [[compost-quality-standards]]
@@ -176,7 +175,6 @@
 - [[hamilton-soil-types-identification]]
 - [[hamilton-the-four-phases-of-soil-management]]
 - [[hamilton-worm-composting-manure]]
-- [[homemade-liquid-fertilizer]]
 - [[hot-composting-method]]
 - [[humanure-composting]]
 - [[humanure-composting-systems]]
@@ -304,12 +302,9 @@
 - [[natural-farm-soil-health-mulching]]
 - [[natural-fertilizer-sources-and-application]]
 - [[nitrogen-cycle-agriculture]]
-- [[nitrogen-cycle-in-soil]]
 - [[nitrogen-plant-nutrition]]
 - [[no-till-agriculture]]
-- [[no-till-benefits]]
 - [[no-till-direct-seeding-rice-barley]]
-- [[no-till-gardening-method]]
 - [[no-till-grain-growing]]
 - [[no-till-grain-growing-methods]]
 - [[no-till-grain-strategy]]
@@ -323,7 +318,6 @@
 - [[nutrient-film-technique]]
 - [[nutrient-lockout]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[nutrient-retention-soil-food-web]]
 - [[nutrient-storage-cycling-terrestrial-ecosystems]]
 
 ## O
@@ -375,7 +369,6 @@
 - [[sheet-composting]]
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
 - [[soil-amendment-reference]]
-- [[soil-arthropods]]
 - [[soil-building-ecological-garden]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
@@ -398,7 +391,6 @@
 - [[soil-life]]
 - [[soil-microbiology-basics]]
 - [[soil-microorganisms-natural-fertility]]
-- [[soil-microscope-analysis]]
 - [[soil-nutrient-cycling]]
 - [[soil-ph-management]]
 - [[soil-ph-management-for-vegetable-gardens]]
@@ -410,7 +402,6 @@
 - [[soil-testing-and-interpretation]]
 - [[soil-testing-methods-interpretation]]
 - [[solomon-buckwheat-summer-cover-crop-guide]]
-- [[solomon-capillarity-and-soil-moisture-movement]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-clay-soil-management-and-remediation]]
 - [[solomon-complete-organic-fertilizer-guide]]
@@ -450,7 +441,6 @@
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[thermal-composting-vs-aact]]
 - [[tompkins-soil-health-howard-indore-process]]
-- [[trace-elements-in-soil]]
 
 ## U
 
@@ -473,8 +463,6 @@
 
 - [[water-soluble-potassium-wp]]
 - [[white-clover-living-mulch]]
-- [[wireworm-control]]
 - [[worm-bin-types-comparison]]
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
-- [[wormery-construction]]

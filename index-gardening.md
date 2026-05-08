@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**877 pages**
+**868 pages**
 
 ## A
 
@@ -23,7 +23,6 @@
 
 - [[backyard-orchard-design]]
 - [[bamboo-growing-guide]]
-- [[bamboo-species-guide]]
 - [[bat-conservation-and-housing]]
 - [[bean-growing-guide]]
 - [[bee-forage-plant-system]]
@@ -51,7 +50,6 @@
 - [[brassica-growing-guide]]
 - [[brassinosteroid-anti-stress-effects-crop-science]]
 - [[brassinosteroid-natural-occurrence-plant-kingdoms]]
-- [[brassinosteroid-suppression-abortive-fruit-bodies]]
 - [[bubbleponics]]
 - [[bunya-bunya]]
 - [[bypass-technique-planting]]
@@ -95,7 +93,6 @@
 - [[coleman-french-intensive-bed-method]]
 - [[coleman-greenhouse-tomato-vertical-growing]]
 - [[coleman-greenhouse-ventilation-design]]
-- [[coleman-hidden-farm-and-double-cropping-strategy]]
 - [[coleman-high-tunnel-cold-frame-design]]
 - [[coleman-insects-diseases]]
 - [[coleman-leek-deep-planting-technique]]
@@ -155,7 +152,6 @@
 - [[deep-water-culture]]
 - [[desalination-and-water-treatment-technologies]]
 - [[desert-gardening]]
-- [[difficult-site-planting]]
 - [[diffusion-osmosis-and-active-transport-in-plants]]
 - [[dig-vs-no-dig-gardening]]
 - [[direct-seeding-non-cultivation]]
@@ -321,7 +317,6 @@
 - [[garden-myths-weeds-and-pest-management]]
 - [[garden-nutrition-and-diet]]
 - [[garden-plant-groupings]]
-- [[garden-tools-selection]]
 - [[gardening-in-hard-times]]
 - [[garlic-growing-guide]]
 - [[geodesic-greenhouse-design]]
@@ -374,7 +369,6 @@
 ## H
 
 - [[habitat-nooks-for-garden-wildlife]]
-- [[halpern-lysergic-acid-amide-plants-and-pharmacology]]
 - [[hamilton-alpine-plants-growing]]
 - [[hamilton-annual-flowers-organic]]
 - [[hamilton-asparagus-growing-organic]]
@@ -474,9 +468,7 @@
 - [[herb-gardening-organic]]
 - [[herb-gardening-organic-hamilton]]
 - [[herb-growing-guide]]
-- [[herbal-plant-remedies]]
 - [[history-of-plant-science]]
-- [[holy-basil-tulsi-guide]]
 - [[home-garden-seed-saving]]
 - [[home-vegetable-garden-planning]]
 - [[home-vegetable-gardening]]
@@ -622,7 +614,6 @@
 - [[pasture-management-and-forage]]
 - [[pastured-egg-production]]
 - [[pastured-pork-production]]
-- [[peat-free-gardening]]
 - [[pepper-growing-guide]]
 - [[perennial-vegetables]]
 - [[permplant-carob-drought-tolerant-food-tree]]
@@ -650,16 +641,21 @@
 - [[plant-electrophysiology]]
 - [[plant-enzymes-and-cofactors]]
 - [[plant-gravitropism-and-spatial-awareness]]
+- [[plant-gravitropism-spatial-orientation]]
 - [[plant-growth-promoting-rhizobacteria]]
 - [[plant-hormones-and-chemical-signaling-systems]]
 - [[plant-immune-system-pti-eti]]
 - [[plant-intelligence-and-communication]]
 - [[plant-life-rhythms-pulsatory-growth]]
+- [[plant-light-discrimination-beyond-human-vision]]
+- [[plant-mechanoperception-thigmomorphogenesis]]
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
 - [[plant-medicine-ethics]]
 - [[plant-memory-and-learning]]
+- [[plant-memory-environmental-learning]]
 - [[plant-memory-what-a-plant-remembers]]
 - [[plant-olfaction-and-chemical-sensing]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]
 - [[plant-olfaction-what-a-plant-smells]]
 - [[plant-perception]]
 - [[plant-photoreception-and-phototropism]]
@@ -675,7 +671,6 @@
 - [[plant-signaling-pathways]]
 - [[plant-thigmomorphogenesis-what-a-plant-feels]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-- [[plant-touch-and-thigmomorphogenesis]]
 - [[plant-tropisms-perception-mechanisms]]
 - [[plant-vision-and-phototropism]]
 - [[plants-and-electromagnetism]]
@@ -833,7 +828,6 @@
 - [[stamets-harvesting-drying-and-storage]]
 - [[stephen-hales-plant-physiology]]
 - [[stomata-transpiration-and-plant-water-regulation]]
-- [[stone-fruit-tree-care]]
 - [[strawberry-growing-guide]]
 - [[succession-planting]]
 - [[sulfur-plant-nutrition]]
@@ -872,7 +866,6 @@
 - [[tompkins-plants-response-to-human-intent]]
 - [[tompkins-soviet-plant-research-gunar-academy]]
 - [[top-bar-hive]]
-- [[town-garden-design]]
 - [[transcendent-other-and-plant-human-information-transfer]]
 - [[transplanting-techniques-low-input]]
 - [[transplanting-techniques-solomon]]
@@ -913,7 +906,6 @@
 - [[vegetable-watering-and-thinning]]
 - [[vertical-gardening-guide]]
 - [[viral-plant-diseases]]
-- [[voles-control-methods]]
 
 ## W
 
@@ -921,7 +913,6 @@
 - [[water-garden-features]]
 - [[water-management]]
 - [[water-pathways-through-plants]]
-- [[water-plant-guide]]
 - [[water-plants-aquatic-systems]]
 - [[water-storage-techniques]]
 - [[water-tank-selection-and-construction]]
