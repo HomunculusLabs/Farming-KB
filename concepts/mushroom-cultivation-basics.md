@@ -150,6 +150,9 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-transfer-technique]]
 
 ## See Also
+- [[xerula-megacystis]]
+- [[strobilurus-esculentus]]
+- [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
 
 - [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
 

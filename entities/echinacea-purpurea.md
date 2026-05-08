@@ -122,6 +122,9 @@ Excellent pollinator plant for butterflies and native bees; goldfinches consume 
 
 ## See Also
 
+- [[beneficial-insects-pollinators]]
+- [[permaculture-plant-catalog]]
+
 - [[echinacea-purpurea]] — Narrow-leaved coneflower, traditionally preferred by herbalists
 - [[astragalus-membranaceus]] — Chinese adaptogenic herb with complementary immunomodulatory effects
 - [[sambucus-nigra]] — Elderberry, antiviral herb for respiratory infections

@@ -54,7 +54,7 @@ increasing organic matter, and cycling nutrients. Deep-rooted species like
 daikon radish and tillage radish break up compacted soil layers, creating
 channels for water infiltration and root penetration.
 [[dynamic-accumulator-plants-calcium-and-magnesium]] plants
-like [[comfrey-as-dynamic-accumulator]] mine minerals from deep subsoil
+like [[dynamic-accumulators-overview]] mine minerals from deep subsoil
 layers and bring them to the surface in their leaves. The
 [[comparison-sheet-mulching-vs-chop-and-drop]] technique returns these
 nutrients to the soil surface where they become available to subsequent crops.
@@ -100,7 +100,7 @@ mycorrhizal networks, and greater earthworm populations.
 - Choose species based on your primary goal: nitrogen fixation, weed suppression, or soil building
 - Legumes like [[fukuoka-white-clover-ground-cover]] and vetch fix nitrogen through [[rhizobium-legume-symbiosis]]
 - Cereal rye provides excellent [[weed-suppression-strategies]] and erosion control
-- [[dynamic-accumulator-plants-calcium-and-magnesium]] like [[comfrey-as-dynamic-accumulator]] mine deep minerals
+- [[dynamic-accumulator-plants-calcium-and-magnesium]] like [[dynamic-accumulators-overview]] mine deep minerals
 - Multi-species mixes outperform monocultures for [[cover-crop-multifunction-design]]
 - Time planting to allow 4 to 6 weeks of establishment before frost or crop planting
 - [[cover-cropping-natural-farming]] systems use cover crops as primary nutrient source

@@ -119,6 +119,7 @@ A 10cc syringe is used for accurate measurement and dispensing of doses. The PF 
 The concentrated mushroom liqueur should be stored in small screw cap bottles or glass vials in the freezer. Ethanol does not freeze solid at standard freezer temperatures and will remain liquid, making it easy to dispense individual doses from frozen storage.
 
 ## See Also
+- [[pf-tek-equipment-and-material-procurement-guide]]
 
 - [[pf-tek-alcohol-extraction-method]] for the complete step by step extraction procedure
 - [[pf-tek-mushroom-potency-and-age-relationship]] for selecting optimal mushroom material for extraction

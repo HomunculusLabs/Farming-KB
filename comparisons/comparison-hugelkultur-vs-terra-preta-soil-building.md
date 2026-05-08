@@ -142,6 +142,7 @@ These techniques are not mutually exclusive — in fact, they complement each ot
 **Best of all**: Use both. Biochar-amended hugelkultur beds combine the water-holding power of buried wood with the permanent nutrient-retention and microbial habitat of biochar, creating a soil-building system that is greater than the sum of its parts.
 
 ## See Also
+- [[comparison-hugelkultur-vs-biochar-soil-building]]
 
 - [[decomposition]]
 - [[food-forest]]

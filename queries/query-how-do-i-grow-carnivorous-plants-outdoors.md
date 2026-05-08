@@ -150,6 +150,7 @@ Avoid chemical pesticides — stick to **organic, gentle treatments**.
 For more detailed cultivation guidance, see [[carnivorous plants biology and cultivation]] and [[bog gardens]]. For water sourcing tips, visit [[rainwater harvesting]].
 
 ## See Also
+- [[drosera-rotundifolia]]
 
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
 - [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]

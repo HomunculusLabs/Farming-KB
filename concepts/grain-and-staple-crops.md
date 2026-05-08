@@ -138,3 +138,7 @@ See [[seasonal-planning]] for full monthly calendar.
 - **Stored grain**: Freeze 72 hours; store with diatomaceous earth; airtight containers
 - **Diseases**: Crop rotation is primary defense; certified disease-free seed; burn infected residue
 - **See also**: [[cannabis-pest-management]] for general IPM principles
+
+## See Also
+
+- [[eleusine-coracana]]

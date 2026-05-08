@@ -168,7 +168,8 @@ profiles. The combination of fresh rice flour, early harvesting of immature
 specimens, and cool desiccant drying is described as producing an entheogen of
 the highest order.
 
-## Related Concepts
+## Related
+- [[pf-tek-secondary-flush-and-cake-exhaustion]] Concepts
 
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization]] for the complete jar preparation process
 - [[pf-tek-vermiculite-grading-and-water-retention]] for vermiculite selection and water management

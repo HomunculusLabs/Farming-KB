@@ -41,7 +41,7 @@ The primary purpose of a casing layer is to trigger a biological transition in t
 This signaling occurs through the combination of high surface humidity, exposure to light at the substrate surface, and the introduction of microflora (particularly beneficial bacteria like Pseudomonas putida) that inhabit the casing material and stimulate pin formation.
 The primary purposes of a top dressing in plant cultivation are far more varied and include moisture conservation (reducing evaporation from the soil surface), weed suppression (blocking light to weed seeds), erosion prevention, temperature buffering, and providing a slow-release source of nutrients.
 In cannabis cultivation specifically, top dressings of amendments like bone meal, bat guano, and kelp meal applied during the early [[cannabis-flowering-stage]] provide the phosphorus, potassium, and micronutrients that flowering plants demand during their peak reproductive phase.
-The [[comfrey-as-dynamic-accumulator]] resource describes how comfrey leaves can be used as a nutrient-dense top dressing, drawing minerals from deep subsoil layers and concentrating them in their leaves for surface application.
+The [[dynamic-accumulators-overview]] resource describes how comfrey leaves can be used as a nutrient-dense top dressing, drawing minerals from deep subsoil layers and concentrating them in their leaves for surface application.
 ### Timing of Application
 Casing layers are applied at a very specific point in the mushroom cultivation cycle: only after the substrate is 100% colonized by mycelium.
 Applying a casing too early introduces contamination risk and can slow or stall the colonization process because the uncolonized substrate beneath the casing is still vulnerable to competitive organisms.
@@ -81,5 +81,5 @@ Understanding the [[mushroom-cultivation-basics]] and [[mushroom-cultivation-bul
 - [[casing-layer-preparation]] provides step-by-step instructions for preparing and applying casing layers.
 - [[fruiting-body-development]] covers the biological process of pinning and how casing layers influence it.
 - [[living-soil-cannabis]] describes how top dressings support biological nutrient cycling in plant cultivation.
-- [[comfrey-as-dynamic-accumulator]] explains using comfrey as a nutrient-rich top dressing for gardens.
+- [[dynamic-accumulators-overview]] explains using comfrey as a nutrient-rich top dressing for gardens.
 - [[cannabis-botany-and-taxonomy]] provides botanical context for understanding nutrient uptake in cannabis cultivation.

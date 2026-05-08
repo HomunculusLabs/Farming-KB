@@ -129,7 +129,7 @@ For most home gardens, a combination works best: chop-and-drop for perennial bed
 
 - [[chop-and-drop]]
 
-- [[comfrey-as-dynamic-accumulator]] Pages
+- [[dynamic-accumulators-overview]] Pages
 
 - [[dynamic-accumulator-plants-nitrogen]]
 - [[dynamic-accumulator-plants-phosphorus]]

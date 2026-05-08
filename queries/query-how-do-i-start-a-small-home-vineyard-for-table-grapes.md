@@ -151,6 +151,7 @@ pruning, and within a few seasons you'll be harvesting armloads of sweet, sun-wa
 grapes right from your backyard.
 
 ## See Also
+- [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
 
 - [[query-how-do-i-prevent-and-manage-plant-diseases-organically]]
 - [[query-how-to-choose-cover-crops-for-your-climate-and-goals]]

@@ -135,6 +135,7 @@ IPM combines multiple pest management methods for sustainable, long-term control
 **Monitoring and record-keeping.** Track pest observations weekly in a garden journal. Note which areas have lemongrass plantings and whether pest pressure differs from unprotected zones. This data helps you refine placement density and companion combinations over successive growing seasons.
 
 ## See Also
+- [[query-how-to-grow-and-use-chicory]]
 
 - [[query-how-do-i-grow-and-use-calendula-for-medicine-and-skincare]]
 

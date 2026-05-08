@@ -132,6 +132,7 @@ pruning may be combined with grafting to replace declining varieties while
 preserving established root systems.
 
 ## See Also
+- [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]
 
 - [[comparison-grafting-vs-budding-fruit-trees]]
 

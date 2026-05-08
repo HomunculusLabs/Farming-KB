@@ -162,3 +162,7 @@ safely sterilizes small stainless steel tools.
 - [[pf-tek-dual-chamber-terrarium-fruiting-conditions]] for terrarium assembly
 - [[pf-tek-desiccant-drying-technique]] for desiccant selection and use
 - [[pf-tek-syringe-sterilization-and-storage]] for syringe preparation and storage
+
+## See Also
+
+- [[pf-tek-ethyl-alcohol-procurement-guide]]

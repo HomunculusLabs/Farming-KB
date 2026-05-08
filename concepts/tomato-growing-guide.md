@@ -113,7 +113,8 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 | Paste/Sauce | San Marzano, Roma, Amish Paste, Opalka |
 | Salad | Green Zebra, Paul Robeson, Marvel Stripe |
 | Containers | Patio, Tiny Tim, Bush Early Girl |
-## Related Concepts
+## Related
+- [[query-how-do-i-control-tomato-blight]] Concepts
 - [[companion-planting-reference]] — basil, marigolds, borage as tomato companions
 - [[seed-starting-reference]] — indoor starting schedule and techniques
 - [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources

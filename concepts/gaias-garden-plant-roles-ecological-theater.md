@@ -83,7 +83,7 @@ potassium, magnesium, calcium, sulfur, and other
 minerals. As foliage falls in autumn, nutrients
 build up in topsoil. [[dynamic-accumulators]] describes
 this nutrient-mining mechanism in detail, while
-[[comfrey-as-dynamic-accumulator]] profiles one of
+[[dynamic-accumulators-overview]] profiles one of
 the most effective accumulator species.
 
 Key accumulators include:

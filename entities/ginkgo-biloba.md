@@ -184,6 +184,8 @@ Most adverse effects are mild:
 
 ## See Also
 
+- [[permaculture-plant-catalog]]
+
 - [[adaptogenic-herbs-guide]]
 - [[medicinal-mushroom-guide]]
 

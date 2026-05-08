@@ -82,6 +82,7 @@ Tryptamines primarily act as serotonin receptor agonists, particularly at 5-HT2A
 
 
 ## See Also
+- [[4-ho-mpt]]
 
 - [[dmt-compound-profile]]
 - [[tryptamine-family-overview]]

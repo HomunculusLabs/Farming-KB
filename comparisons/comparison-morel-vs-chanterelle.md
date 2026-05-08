@@ -130,6 +130,7 @@ stuffing, creates layered complexity: the earthy depth of morels
 paired with the bright fruitiness of chanterelles.
 
 ## See Also
+- [[cantharellus-cinereus]]
 
 - [[morel-mushroom-guide]]
 - [[chanterelle-guide]]

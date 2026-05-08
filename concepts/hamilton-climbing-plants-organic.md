@@ -110,6 +110,7 @@ Never let a climbing plant get a firm hold on a roof. The tendrils will get bene
 Carefully wind the rose stem around the pillar and tie it in with soft string. As you are doing so, try to pull the branches down to form a flat spiral, which will increase the number of flowers produced.
 
 ## Related
+- [[smilax-regelii]]
 
 - [[hamilton-watering-plants-techniques]] Concepts
 

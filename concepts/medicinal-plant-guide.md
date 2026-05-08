@@ -133,6 +133,7 @@ Pods used medicinally as a remedy for bowel conditions in children. Highly nutri
 - Some plants (foxglove, castor seeds) are toxic and should only be used with expert knowledge
 
 ## Related
+- [[aloe-arborescens]]
 
 - [[azolla-caroliniana]]
 - [[euterpe-oleracea]]

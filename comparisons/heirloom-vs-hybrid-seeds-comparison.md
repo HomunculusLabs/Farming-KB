@@ -123,6 +123,7 @@ The heirloom vs. hybrid decision ultimately depends on grower priorities. Those 
 *This comparison page is part of the agriculture and permaculture knowledge base. For questions about specific variety selection, consult your regional extension service or a local seed library.*
 
 ## See Also
+- [[comparison-heirloom-vs-hybrid-seeds]]
 
 - [[comparison-perlite-vs-vermiculite]]
 - [[cervantes-open-pollinated-heirloom-seeds]]

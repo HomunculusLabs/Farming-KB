@@ -112,6 +112,7 @@ Compost tea can serve as a carrier for biofertilizer strains, potentially improv
 Some innovative producers are experimenting with adding specific biofertilizer strains to compost tea during the brewing process, though this approach requires careful attention to compatibility and survival rates of the introduced organisms. Monitoring results through soil biology testing, plant tissue analysis, or simple visual assessment of crop health helps refine the timing and frequency of applications over successive seasons.
 
 ## See Also
+- [[comparison-comfrey-tea-vs-compost-tea]]
 
 - [[biofertilizers-and-soil-inoculants]]
 - [[compost-tea-guide]]

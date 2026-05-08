@@ -51,7 +51,7 @@ They have a secondary but still significant effect on relative abundances once o
 
 Nitrogen was the single most important edaphic factor structuring cannabis-associated microbial communities by a substantial margin. Total nitrogen concentrations varied substantially between soil types.
 
-The Mo-Bio soil had nitrogen concentrations ranging from approximately 0.26% to 1.51% across experiments. The Orange County soil had 0.53%. The higher nitrogen content was associated with distinct community structures that clustered separately in [[PCoA]] plots along PC1 (32.06% variance explained in the unweighted analysis).
+The Mo-Bio soil had nitrogen concentrations ranging from approximately 0.26% to 1.51% across experiments. The Orange County soil had 0.53%. The higher nitrogen content was associated with distinct community structures that clustered separately in PCoA plots along PC1 (32.06% variance explained in the unweighted analysis).
 
 Nitrogen availability directly influences microbial growth rates, biomass production, and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
 
