@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1257 pages**
+**1259 pages**
 
 ## #
 
@@ -105,6 +105,7 @@
 - [[casing-soil-preparation-mushroom-cultivation]]
 - [[casing-soil-recipe-peat-vermiculite-limestone]]
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]
+- [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]
 - [[casing-soil-sterilization-versus-pasteurization-debate]]
 - [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[casing-surface-roughness-technique-mushroom-fruiting]]
@@ -992,6 +993,7 @@
 - [[pasteurized-straw-cultivation-techniques]]
 - [[pda-and-tissue-culture]]
 - [[pelletized-granular-spawn]]
+- [[pf-substrate]]
 - [[pf-substrate-formula]]
 - [[pf-tek]]
 - [[pf-tek-aborts-and-potency-harvesting]]

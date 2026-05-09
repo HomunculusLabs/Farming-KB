@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1156 pages**
+**1158 pages**
 
 ## A
 
@@ -768,6 +768,7 @@
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+- [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
 - [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
 - [[query-how-do-i-start-growing-hazelnut-bushes]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
@@ -1121,6 +1122,7 @@
 - [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
+- [[query-what-is-terra-preta-and-how-does-it-differ-from-modern-biochar]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
 - [[query-what-is-the-best-cannabis-grow-medium-for-beginners]]
 - [[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]]

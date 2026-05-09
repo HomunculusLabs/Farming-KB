@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2126 pages**
+**2127 pages**
 
 ## #
 
@@ -1941,6 +1941,7 @@
 - [[spore-printing-and-syringe-preparation]]
 - [[spore-syringe]]
 - [[spore-syringe-and-inoculation]]
+- [[spore-syringe-preparation]]
 - [[spore-syringe-production]]
 - [[spore-vs-vegetative-cell-resistance-microwave-sterilization]]
 - [[sporeless-mutant-geotropism-link-psilocybe-cubensis]]
