@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**970 pages**
+**973 pages**
 
 ## A
 
@@ -472,6 +472,7 @@
 - [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - [[cannabis-microbiome-research]]
 - [[cannabis-microbiome-soil-type-composition-strain-structure]]
+- [[cannabis-microbiome-two-tier-selection]]
 - [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
 - [[cannabis-minor-cannabinoids]]
 - [[cannabis-mold-and-mildew-prevention]]
@@ -829,6 +830,7 @@
 
 - [[ec-tds-cannabis]]
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
+- [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[edaphic-factors-structuring-cannabis-microbiome]]
 - [[endocannabinoid-neurogenesis-neuroplasticity]]
@@ -994,6 +996,7 @@
 - [[screen-of-green]]
 - [[sea-of-green]]
 - [[silica-cannabis]]
+- [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]
 - [[solomon-foliar-feeding-fish-emulsion-and-kelp]]
 - [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[spagyric-cannabis-preparation]]

@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**961 pages**
+**963 pages**
 
 ## A
 
@@ -399,6 +399,7 @@
 - [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-orchard-soil-restoration-barren-clay]]
 - [[fukuoka-orchard-without-pruning]]
+- [[fukuoka-organic-farming-destructive-compost-depletion-critique]]
 - [[fukuoka-organic-versus-natural-farming]]
 - [[fukuoka-origin-agriculture-dietary-cravings]]
 - [[fukuoka-paradoxes-scientific-farming]]
@@ -430,6 +431,7 @@
 - [[fukuoka-problems-darwin-evolution]]
 - [[fukuoka-pruning-cascade-self-perpetuating-cycle]]
 - [[fukuoka-pruning-fruit-tree-natural-management]]
+- [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 - [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]
 - [[fukuoka-reflections-on-japanese-character]]

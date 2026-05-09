@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**3058 pages**
+**3076 pages**
 
 ## #
 
@@ -834,6 +834,7 @@
 - [[cornus-mas]]
 - [[cornus-officinalis]]
 - [[coronaridine]]
+- [[coronilla-varia]]
 - [[cortinarius-cinnamomeus]]
 - [[cortinarius-orellanus]]
 - [[cortinarius-rubellus]]
@@ -848,6 +849,7 @@
 - [[cpm-entity-pihkal]]
 - [[crambe-maritima]]
 - [[crataegus-laevigata]]
+- [[crataegus-monogyna]]
 - [[crataegus-oxyacantha]]
 - [[crataegus-pinnatifida]]
 - [[craterellus-cornucopioides]]
@@ -1072,6 +1074,7 @@
 - [[emm-entity-pihkal]]
 - [[ensete-ventricosum]]
 - [[entada-rheedii]]
+- [[enterolobium-cyclocarpum]]
 - [[entoloma-abortivum]]
 - [[entoloma-hochstetteri]]
 - [[entoloma-rhodopolium]]
@@ -1086,6 +1089,7 @@
 - [[epilobium-angustifolium]]
 - [[epimedium-grandiflorum]]
 - [[equisetum-arvense]]
+- [[equisetum-fluviatile]]
 - [[equisetum-hyemale]]
 - [[equisetum-palustre]]
 - [[equisetum-telmateia]]
@@ -1104,6 +1108,7 @@
 - [[eriodictyon-californicum]]
 - [[ernst-gotsch]]
 - [[eryngium-foetidum]]
+- [[erythrina-crista-galli]]
 - [[erythrina-fusca]]
 - [[erythroxylum-coca]]
 - [[escaline-entity]]
@@ -1175,6 +1180,7 @@
 - [[food-forest-permaculture]]
 - [[forbidden-fruit-cannabis]]
 - [[forsythia-suspensa]]
+- [[forsythia-viridissima]]
 - [[fragaria-chiloensis]]
 - [[fragaria-vesca]]
 - [[fragaria-virginiana]]
@@ -1670,6 +1676,7 @@
 - [[liatris-spicata]]
 - [[lignosus-rhizophorae]]
 - [[ligusticum-porteri]]
+- [[ligustrum-ovalifolium]]
 - [[ligustrum-vulgare]]
 - [[lilac-diesel]]
 - [[limnophila-aromatica]]
@@ -1894,6 +1901,7 @@
 - [[morchella-rufobrunnea]]
 - [[mordecai-cooke]]
 - [[morella-cerifera]]
+- [[morella-faya]]
 - [[morinda-citrifolia]]
 - [[moringa]]
 - [[moringa-oleifera]]
@@ -2445,6 +2453,7 @@
 - [[pueraria-montana]]
 - [[pulegone]]
 - [[pulsatilla-vulgaris]]
+- [[punica-granatum]]
 - [[purple-haze]]
 - [[purple-haze-cannabis]]
 - [[purple-kush]]
@@ -2465,13 +2474,18 @@
 ## Q
 
 - [[quercetin]]
+- [[quercus-agrifolia]]
 - [[quercus-alba]]
 - [[quercus-coccinea]]
+- [[quercus-garryana]]
+- [[quercus-ilex]]
 - [[quercus-macrocarpa]]
 - [[quercus-palustris]]
+- [[quercus-petraea]]
 - [[quercus-robur]]
 - [[quercus-rubra]]
 - [[quercus-suber]]
+- [[quercus-velutina]]
 
 ## R
 
@@ -2533,6 +2547,7 @@
 - [[royal-gorilla]]
 - [[rubroboletus-satanas]]
 - [[rubus-fruticosus]]
+- [[rubus-idaeus]]
 - [[rubus-occidentalis]]
 - [[rudbeckia-fulgida]]
 - [[rudbeckia-hirta]]
@@ -2588,6 +2603,7 @@
 - [[salvinia-molesta]]
 - [[salvinorin-a-entity]]
 - [[salvinorin-b]]
+- [[samanea-saman]]
 - [[sambucus-canadensis]]
 - [[sambucus-cerulea]]
 - [[sambucus-nigra]]
@@ -2641,6 +2657,7 @@
 - [[scutellaria-lateriflora]]
 - [[scutellospora-calospora]]
 - [[scytosiphon-lomentaria]]
+- [[secale-cereale]]
 - [[sechium-edule]]
 - [[senna-alata]]
 - [[senna-alexandrina]]
@@ -2780,6 +2797,7 @@
 - [[syntropic-agriculture]]
 - [[syrian-rue]]
 - [[syringa-oblata]]
+- [[syringa-reticulata]]
 - [[syringa-vulgaris]]
 - [[syzygium-aromaticum]]
 - [[syzygium-cumini]]

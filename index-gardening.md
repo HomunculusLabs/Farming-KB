@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**860 pages**
+**862 pages**
 
 ## A
 
@@ -590,6 +590,7 @@
 - [[permplant-tagasaste-pioneer-fodder-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
+- [[phytochrome-red-far-red-ratio-shade-detection-plants]]
 - [[phytochrome-signaling-plant-light-perception]]
 - [[pioneer-plants-for-land-restoration]]
 - [[plant-bioelectricity]]
@@ -608,6 +609,7 @@
 - [[plant-gravitropism-and-spatial-awareness]]
 - [[plant-gravitropism-spatial-orientation]]
 - [[plant-growth-promoting-rhizobacteria]]
+- [[plant-hearing-and-vibration-sensing]]
 - [[plant-hormones-and-chemical-signaling-systems]]
 - [[plant-immune-system-pti-eti]]
 - [[plant-intelligence-and-communication]]

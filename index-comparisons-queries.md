@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1144 pages**
+**1145 pages**
 
 ## A
 
@@ -49,6 +49,7 @@
 - [[comparison-arbuscular-vs-ectomycorrhizal]]
 - [[comparison-arid-vs-tropical-permaculture]]
 - [[comparison-arnica-vs-calendula]]
+- [[comparison-arnica-vs-stinging-nettle]]
 - [[comparison-aronia-vs-goji-vs-sea-buckthorn]]
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]

@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**205 pages**
+**210 pages**
 
 ## A
 
@@ -22,6 +22,7 @@
 - [[barn-design-guide]]
 - [[basic-electrical-for-homestead]]
 - [[basic-plumbing-for-homestead]]
+- [[beeswax-candle-making]]
 - [[biodiesel-production]]
 - [[biogas-digester-basics]]
 - [[black-soldier-fly-larvae-as-feed]]
@@ -155,6 +156,7 @@
 - [[mason-jar-preserving-guide]]
 - [[masonry-heater-design]]
 - [[micro-hydro-power]]
+- [[modern-homes-mold-crisis-energy-efficient-construction]]
 - [[mud-oven]]
 
 ## N
@@ -192,6 +194,7 @@
 - [[pond-design-and-construction]]
 - [[poultry-housing-guide]]
 - [[preserving-wood-timber-framing]]
+- [[pressure-canning-food-preservation]]
 - [[pressure-canning-safety]]
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 
@@ -251,6 +254,7 @@
 
 ## T
 
+- [[tallow-candle-making]]
 - [[timber-frame-basics]]
 - [[tiny-house-on-wheels]]
 - [[tree-energy-transactions]]
@@ -267,6 +271,7 @@
 
 ## W
 
+- [[water-bath-canning-guide]]
 - [[wicking-bed-construction]]
 - [[wildfire-preparedness-guide]]
 - [[wind-power-basics]]

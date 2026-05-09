@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1460 pages**
+**1480 pages**
 
 ## #
 
@@ -79,11 +79,13 @@
 - [[ayahuasca-ceremonial-economics-price-disparity-peru]]
 - [[ayahuasca-ceremony-pharmacology-safety]]
 - [[ayahuasca-ceremony-practices]]
+- [[ayahuasca-ceremony-pricing-disparity-tourist-versus-local]]
 - [[ayahuasca-ceremony-structure-and-practice]]
 - [[ayahuasca-christian-coexistence-missionary-peru]]
 - [[ayahuasca-churches-syncretic-ceremonies]]
 - [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
 - [[ayahuasca-diy-home-brewing-as-tourism-alternative]]
+- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
 - [[ayahuasca-drug-interactions]]
 - [[ayahuasca-interactions-with-prescription-medications]]
 - [[ayahuasca-pharmacology]]
@@ -189,6 +191,7 @@
 - [[datura-as-hallucinogen]]
 - [[datura-metel-old-world-ethnobotany]]
 - [[dead-sea-scrolls-entheogenic-reading]]
+- [[decentralizing-bender-perceiving-self-primary-datum-mckenna]]
 - [[deep-relaxation-and-mind-body-healing]]
 - [[default-mode-network-and-ego-dissolution]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
@@ -225,6 +228,7 @@
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-smoking-and-administration-methods]]
 - [[dmt-smoking-technique-and-preparation]]
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
 - [[do-family-compounds-pihkal]]
 - [[dob-compound-profile]]
 - [[dob-pihkal-62]]
@@ -369,6 +373,7 @@
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 - [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
+- [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 - [[fukuoka-textdoc-genetic-engineering-warning]]
@@ -416,6 +421,7 @@
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
 - [[fukuoka-textdoc-nature-of-food]]
+- [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
@@ -439,6 +445,7 @@
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
 - [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]]
+- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
 - [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
@@ -481,9 +488,11 @@
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 - [[fukuoka-textdoc-vegetable-factory-hydroponic-critique]]
+- [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
+- [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
 - [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
 - [[fukuoka-textdoc-what-plowing-really-is]]
 - [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]
@@ -643,6 +652,7 @@
 ## L
 
 - [[la-chorrera-experiment-mckenna]]
+- [[language-self-replicating-information-noosphere-mckenna]]
 - [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
 - [[leary-harvard-psilocybin-project]]
 - [[leary-peaceful-and-wrathful-visions]]
@@ -864,6 +874,7 @@
 - [[mckenna-soma-mystery-and-the-vedic-enigma]]
 - [[mckenna-soma-vedic-enigma]]
 - [[mckenna-soma-vedic-enigma-detailed]]
+- [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]
 - [[mckenna-spice-trade-and-medieval-drug-scarcity]]
 - [[mckenna-stoned-ape-hypothesis]]
 - [[mckenna-stoned-ape-hypothesis-human-evolution]]
@@ -1026,6 +1037,7 @@
 
 ## P
 
+- [[partnership-and-dominator-cultures-in-human-history]]
 - [[partnership-versus-dominator-culture]]
 - [[partnership-vs-dominator-culture-mckenna]]
 - [[partnership-vs-dominator-culture-models]]
@@ -1188,6 +1200,7 @@
 - [[psilocybin-north-america-pacific-northwest]]
 - [[psilocybin-pharmacokinetics-bioavailability]]
 - [[psilocybin-pharmacology]]
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
 - [[psilocybin-pharmacology-and-serotonin-receptors]]
 - [[psilocybin-pharmacology-detail]]
 - [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
@@ -1246,8 +1259,10 @@
 - [[psychedelic-plant-sources]]
 - [[psychedelic-plants-and-civilization]]
 - [[psychedelic-plants-chemical-guide]]
+- [[psychedelic-plants-human-coevolution]]
 - [[psychedelic-plants-in-ancient-cultures]]
 - [[psychedelic-plants-indoor-growing]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
 - [[psychedelic-plants-legal-status]]
 - [[psychedelic-prohibition-and-the-war-on-consciousness]]
 - [[psychedelic-psychotherapy]]
@@ -1312,6 +1327,7 @@
 - [[salvinorin-pharmacology]]
 - [[salvinorin-reference]]
 - [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
+- [[san-francisco-shipibo-ayahuasca-ceremonial-center]]
 - [[san-francisco-yarina-shipibo-ayahuasca-ceremonial-center]]
 - [[san-pedro-cactus-history]]
 - [[san-pedro-cactus-preparation]]
@@ -1355,6 +1371,7 @@
 - [[shamanic-entheogenic-healing-rituals]]
 - [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]]
 - [[shamanic-healing-variants-and-divination]]
+- [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]]
 - [[shamanic-journey-structure-and-technique]]
 - [[shamanic-powers-ayahuasca]]
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
@@ -1404,6 +1421,7 @@
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]
 - [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
 - [[solanaceous-hallucinogens-pharmacology]]
+- [[soma-and-the-vedic-enigma-identity-of-sacred-plant]]
 - [[soma-haoma-hypothesis]]
 - [[soma-hypothesis]]
 - [[soma-multi-plant-admixture-theory]]
@@ -1414,6 +1432,7 @@
 - [[stamets-psilocybin-genera-beyond-psilocybe]]
 - [[stamets-psilocybin-habitats-ecology]]
 - [[stoned-ape-hypothesis-mckenna]]
+- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
 - [[susto-andean-folk-illness-category]]
 - [[sweet-flag-acorus-calamus-ethnobotany]]
 - [[syncretic-entheogenic-churches]]
@@ -1429,6 +1448,7 @@
 - [[terence-mckenna-stoned-ape-hypothesis]]
 - [[terence-mckenna-tryptamine-hypothesis]]
 - [[the-aware-plant-plant-consciousness-debate]]
+- [[the-aware-plant-plant-consciousness-debate-chamovitz]]
 - [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[tihkal-5meo-dmt-pharmacology]]
